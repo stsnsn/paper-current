@@ -193401,5 +193401,327 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "バクテリオファージ対優先病原体：耐性機構、治療上の課題、および新規組み合わせの可能性。",
     "abstract_ja": "薬剤耐性は世界的な重大な健康脅威となっており、バクテリオファージ（ファージ）療法への関心の再燃は、抗生物質単剤療法に代わる標的型の選択肢としての可能性を浮き彫りにしている。しかし、細菌におけるファージ耐性は、ファージへの曝露に対する進化的適応により、依然としてファージ療法の主要な制限要因となっている。抗菌モダリティ（抗生物質、アジュバント、抗菌ペプチド、およびRNAベースの治療薬）は、これらの障壁の克服に寄与し得るとともに、ファージ療法と組み合わせた際の相乗的かつ精密な抗菌介入における未開拓の可能性を秘めている。重要な点として、細菌の生理機能や環境的背景が治療成績に強い影響を及ぼし得るため、組み合わせを検証するための臨床的に意義のあるモデルの必要性が強調される。マルチオミクスおよび人工知能駆動型アプローチの統合は、精密療法開発に向けたパターンの予測に寄与し、新規抗菌介入の開発を支援する可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1054",
+    "title": "STRAND: a comprehensive subcellular-resolved spatial transcriptome RNA architecture and navigation database.",
+    "abstract": "Subcellular RNA localization serves as a critical regulatory layer governing cellular polarization, local translation, and functional compartmentalization. Recent advances in high-resolution spatial transcriptomics have provided unprecedented opportunities to resolve these intracellular architectures at single-molecule resolution. However, relevant datasets are dispersed across studies and repositories, vary substantially in processing procedures and standards, severely limiting their cross-study reuse. To bridge this gap, we present STRAND (Subcellular-Resolved Spatial Transcriptome RNA Architecture and Navigation Database), a curated data resource and analysis platform for the automated harvesting, quality control, and interpretation of subcellular spatial transcriptomics data. Through an agent-assisted curation pipeline, STRAND has assembled 35 subcellular-resolution datasets from six major platforms, covering 17 tissue types in human and mouse and totalling ∼4.9 billion transcript coordinates. Building upon this standardized data resource, STRAND provides an analytical workflow spanning cell segmentation evaluation, cell-type annotation, RNA localization/colocalization pattern annotation, and subcellular compartment inference. Two case studies demonstrate that STRAND successfully identifies established RNA localization patterns in cultured cell lines and detects drug-induced RNA relocalization in cardiomyocytes. STRAND is openly available at https://strand.phasep.pro.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1054",
+    "date": "2026-10-30",
+    "authors": "Wu Z, Huo Y, Xu W, Li X, Li T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42958969",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42958969",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "database",
+        "quality control",
+        "resource",
+        "transcriptome",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3870,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1054"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f1738b92a1e069cd8e9abcbf494e8b735dff58236303c640cfb617a79ff5877a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:04:56.370926+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9d9246dda30f85c88d7afd8884cb5bcec03dcee2275488cf3e26f2c2e119b8a2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:04:56.370926+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "STRAND：包括的なサブセルラー分解能の空間トランスクリプトームRNAアーキテクチャおよびナビゲーションデータベース。",
+    "abstract_ja": "細胞内RNA局在は、細胞極性、局所翻訳、および機能的区画化を制御する重要な調節層として機能する。近年の高解像度空間トランスクリプトミクスの進展により、これらの細胞内構造を単一分子レベルで解析するという前例のない機会がもたらされた。しかし、関連するデータセットは研究やリポジトリごとに散在しており、処理手順や標準規格が著しく異なるため、研究間の再利用が著しく制限されている。このギャップを埋めるため、我々は細胞内空間トランスクリプトミクスデータの自動ハーベスティング、品質管理、および解釈のためのキュレート済みデータリソースおよび解析プラットフォームであるSTRAND（Subcellular-Resolved Spatial Transcriptome RNA Architecture and Navigation Database）を提案する。エージェント支援型キュレーションパイプラインを通じて、STRANDは6つの主要プラットフォームから35の細胞内解像度データセットを集約し、ヒトおよびマウスの17種類の組織を網羅し、計約49億個のトランスクリプト座標を収録している。この標準化されたデータリソースに基づき、STRANDは細胞セグメンテーション評価、細胞型アノテーション、RNA局在／共局在パターンアノテーション、および細胞内区画推論にわたる解析ワークフローを提供する。2つのケーススタディにより、STRANDが培養細胞株における既知のRNA局在パターンの特定や、心筋細胞における薬剤誘導性RNA再局在の検出に成功することが実証された。STRANDは https://strand.phasep.pro で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2617714123",
+    "title": "Mechanism of HIV-1 capsid rupture and uncoating by reverse transcription.",
+    "abstract": "One of the key events in the HIV-1 life cycle is reverse transcription (RT), during which single-stranded viral RNA (ssRNA) is converted into double-stranded DNA (dsDNA). This process occurs inside the mature HIV-1 capsid and, once it reaches a critical threshold, drives capsid rupture. This uncoating is essential for infection because it releases viral genetic material into the host cell nucleus. Despite its importance, many mechanistic details of this process remain to be fully understood. To address this gap, we develop a multiscale computational method for simulating RT inside the capsid, termed Coarse-Grained Kinetic Monte Carlo (CG-KMC). CG-KMC stochastically adds deoxynucleotide triphosphates (dNTPs) to the coarse-grained RNA model, enabling stepwise growth of DNA inside the HIV-1 capsid. We implement this method within an integrative coarse-grained framework that combines a \"bottom-up\" capsid model with a \"top-down\" representation of the viral RNA/DNA genome. Our simulations phenomenologically capture and predict diverse capsid rupture pathways during RT. The resulting ruptured structures closely match previously identified cryo-ET images. We further perform an extensive analysis of the rupture process, examining its mechanistic and kinetic aspects as well as the role of capsid-DNA interactions. Our findings illuminate how different capsid-DNA conditions give rise to distinct rupture pathways, which differ from ruptures due to simple outward pressure expansion models from within the capsid.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2617714123",
+    "date": "2026-10-20",
+    "authors": "Ghosh K, Gupta M, Voth GA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42900720",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13693411",
+    "pmid": "42900720",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "RNA",
+        "framework",
+        "genome",
+        "method",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1356,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2617714123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2dfbc7fa41db100a28a15566e90bf5bfdeb4a73acd63437bff535aeb8ca2a7ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:04:56.370926+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c2b5d8c6e567a7557862b9202cf8fdf385eed02c4d237732a0c7c4a727ed398d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:04:56.370926+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "逆転写によるHIV-1カプシドの破裂および脱殻の機構",
+    "abstract_ja": "HIV-1のライフサイクルにおける主要な事象の一つに逆転写（RT）があり、この過程で一本鎖ウイルスRNA（ssRNA）が二本鎖DNA（dsDNA）へと変換される。この過程は成熟したHIV-1カプシド内部で起こり、臨界閾値に達するとカプシドの破裂を誘発する。この脱殻は、ウイルスの遺伝物質を宿主細胞核内に放出させるため、感染に不可欠である。その重要性にもかかわらず、この過程の機構的な詳細の多くは依然として十分に解明されていない。この知見の空白を埋めるため、我々はカプシド内部でのRTをシミュレートするマルチスケール計算手法「粗視化キネティック・モンテカルロ法（CG-KMC）」を開発した。CG-KMCは、粗視化RNAモデルにデオキシヌクレオチド三リン酸（dNTPs）を確率的に付加することで、HIV-1カプシド内部におけるDNAの段階的な成長を可能にする。我々は、「ボトムアップ」のカプシドモデルとウイルスRNA/DNAゲノムの「トップダウン」表現を組み合わせた統合的な粗視化フレームワークの中に、この手法を実装した。我々のシミュレーションは、RT中の多様なカプシド破裂経路を現象論的に捉え、予測する。得られた破裂構造は、以前に同定されたクライオET画像と密接に一致している。さらに、破裂過程の広範な解析を行い、その機構的・速度論的側面およびカプシド-DNA相互作用の役割について検討した。我々の知見は、異なるカプシド-DNA条件がいかにして異なる破裂経路を生じさせるかを明らかにしており、これらはカプシド内部からの単純な外圧膨張モデルによる破裂とは異なるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/ismejo/wrag233",
+    "title": "Ecological and evolutionary dynamics of chlamydiae endosymbionts in social amoeba host communities.",
+    "abstract": "Endosymbiotic interactions have played fundamental roles in shaping the evolution of complex eukaryotes. However, how ecological processes shape endosymbioses that are still segregating in host populations have been less described. Here, we characterize the ecological and evolutionary dynamics of chlamydiae bacterial endosymbionts in dictyostelid social amoeba host communities. Our survey of over 1400 host isolates from across a 1200 km range revealed 41 unique chlamydiae haplotypes across 11 different host species, the prevalence of which significantly varied across host species and sampling locations. Patterns of chlamydiae phylogenetic divergence were not associated with geographic dissimilarity but were associated with patterns of host diversification, suggesting a shared evolutionary history and co-dispersal between some symbiont and host lineages. However, relatively few symbiont haplotypes showed both significant host specificity and high prevalence, indicating that most associations are not ecologically meaningful. Nonetheless, our laboratory passaging experiments showed that naturally occurring chlamydiae infections can be vertically transmitted across host generations. Finally, we found overall chlamydiae haplotype diversity was negatively associated with prevalence across host populations, mirroring the classic tension between selection and the influx of neutral variation due to ecological drift and stochastic environmental acquisition. To formalize this observation, we developed a stochastic differential equation model incorporating vertical and environmental symbiont transmission, as well as ecological selection and drift. This model recapitulated the observed diversity-prevalence relationship, and is consistent with a scenario in which most chlamydiae haplotypes are ecologically neutral and stochastically acquired, whereas relatively few are vertically transmitted and selectively relevant within their host populations.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag233",
+    "date": "2026-10-26",
+    "authors": "DuBose JG, Fiedorek P, Hoogshagen M, Clark D, Nolan A, Gerner H, Nguyen P, Gibbs K, Haselkorn TS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42932239",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42932239",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1223,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/ismejo/wrag233"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2b5e1b5e5a93466d2f8ca46e99b57d54fe9b14db3f3fd722fe3e209503b3a060",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:04:56.370926+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cc73b29ef3151f0c9490f70c2e4b556a9e73c14dafb3ac57aa72a3756eb08676",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:04:56.370926+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "社会性アメーバ宿主群集におけるクラミジア内共生体の生態学的・進化的動態",
+    "abstract_ja": "細胞内共生相互作用は、複雑な真核生物の進化を形作る上で根本的な役割を果たしてきた。しかし、宿主集団内で依然として分離している細胞内共生体を、生態学的プロセスがどのように形成しているかについては、これまで十分に記述されてこなかった。本研究では、ディクトステリス類の社会性アメーバ宿主群集におけるクラミジア細菌細胞内共生体の生態学的・進化的動態を特性評価した。1,200 kmにわたる範囲から得られた1,400株以上の宿主分離株を対象とした調査により、11種の異なる宿主種にわたって41種類の固有のクラミジアハプロタイプが明らかとなり、その出現頻度は宿主種やサンプリング地点によって有意に異なっていた。クラミジアの系統的分岐パターンは地理的な非類似性と関連せず、宿主の多様化パターンと関連しており、一部の共生体および宿主系統間で共通の進化史と共分散が存在することが示唆された。しかし、有意な宿主特異性と高い出現頻度の両方を示す共生体ハプロタイプは比較的少なく、ほとんどの関連性は生態学的に意味を持たないことが示された。それにもかかわらず、我々の研究室での継代実験により、自然に発生するクラミジア感染が宿主の世代を超えて垂直伝播し得ることが示された。最後に、クラミジアハプロタイプの全体的な多様性は、宿主集団における出現頻度と負の相関があり、これは選択と、生態学的ドリフトおよび確率的な環境獲得による中立変異の流入との間の古典的な緊張関係を反映していた。この観察結果を定式化するため、垂直伝播および環境伝播、ならびに生態学的選択とドリフトを組み込んだ確率微分方程式モデルを構築した。このモデルは観察された多様性と出現頻度の関係を再現し、ほとんどのクラミジアハプロタイプが生態学的に中立で確率的に獲得される一方で、比較的少数のハプロタイプが宿主集団内で垂直伝播し、選択的に重要であるというシナリオと整合的であった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.tim.2026.09.010",
+    "title": "Hidden potential for mixotrophy in soil protists.",
+    "abstract": "Mixotrophy, the ability of a single protist to combine phototrophy and phagotrophy, is widely recognized as an important functional strategy in aquatic ecosystems, where it shapes food-web structure and carbon cycling. In soil, however, mixotrophy remains largely overlooked despite increasing evidence for trophic flexibility among protists. Here, we argue that this neglect may reflect conceptual and methodological limitations rather than ecological absence. We highlight inconsistencies in trait-based classifications, delineate feeding traits that enable certain forms of mixotrophy, and evaluate soil microhabitats that support mixotrophic activity. Recognizing mixotrophy in soil challenges traditional views of distinct trophic categories and reveals its potential contributions to soil carbon fluxes. Incorporating mixotrophy into soil ecology is therefore essential for developing mechanistic and predictive models of terrestrial ecosystem functioning.",
+    "journal": "Trends in Microbiology",
+    "doi": "10.1016/j.tim.2026.09.010",
+    "date": "2026-10-22",
+    "authors": "Andersen JE, Sapkota R, Hansen PJ, Winding A.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42918721",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42918721",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3716,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1016/j.tim.2026.09.010"
+    ],
+    "translation": {
+      "title": {
+        "hash": "05a760af2e49951ccc4a7821cbebfff6f5ea1562586fd31ce2fa73e8ca7d6725",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:04:56.370926+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8d3ed955ac54283e34e3059bdc5fdd0cb0abd83729da33598a47159a4df26986",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:04:56.370926+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "土壌原生生物における混合栄養の潜在的可能性。",
+    "abstract_ja": "単一の原生生物が光栄養作用と食作用を併せ持つ能力であるミクソトロピーは、水圏生態系において食物網構造や炭素循環を規定する重要な機能的戦略として広く認識されている。しかし、原生生物における栄養段階の柔軟性を示す証拠が増えているにもかかわらず、土壌においてはミクソトロピーは依然としてほとんど顧みられていない。本研究では、この軽視は生態学的な欠如というよりも、概念的・方法論的な限界を反映している可能性があると論じる。我々は、形質に基づく分類の不整合を浮き彫りにし、特定の形態のミクソトロピーを可能にする摂食形質を明らかにするとともに、ミクソトロピー活動を支える土壌微小生息環境を評価する。土壌におけるミクソトロピーを認識することは、個別の栄養段階カテゴリーという従来の見方に疑問を投げかけ、土壌炭素フラックスに対する潜在的な寄与を明らかにする。したがって、ミクソトロピーを土壌生態学に組み込むことは、陸域生態系の機能に関する機構的・予測的モデルを構築する上で不可欠である。"
   }
 ]
