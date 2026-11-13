@@ -184637,5 +184637,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "石サンゴの共生体は、将来の海洋環境に対して多様な反応を示す。",
     "abstract_ja": "サンゴ礁は世界全体で海洋生物種の4分の1以上と10億人近い人々を支えているが、同時に人為的影響によって最も脅威にさらされている生態系の一つでもある。将来の海洋環境において、サンゴの共生関係が攪乱されるのか、あるいは適応的に応答するのかについては、長年議論が続いてきた。主要なサンゴ系統を代表する8種のサンゴを用い、2.5年間にわたる因子実験形式の将来海洋メソコスム実験を行うことで、同一個体のサンゴから得られた反復断片内における共生生物群集の変化を追跡した。一部のサンゴでは確率的な分岐が見られた一方、他のサンゴでは共生生物群集組成の決定論的な変化が認められた。熱ストレスは一般に共生生物の多様性を低下させ、予測可能な再構成を促進した。これは中程度の熱ストレスに対する決定論的な適応と、極限条件下における多様性の確率的な蓄積と整合している。我々は、適応的応答と確率的応答が、宿主主導の共生生物選別という連続体上の終着点を表していると提唱する。本研究は、サンゴ礁生態学をより広範な宿主マイクロバイオーム理論と結びつけるものであり、共生系が環境変化にどのように応答し得るかについて、統合的な視点を提供するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1146",
+    "title": "Microfluidic concatemer sequencing unveils cooperative and competitive enhancer clusters in gene regulation",
+    "abstract": "AbstractChromatin looping plays a pivotal role in eukaryotic gene regulation; however, technical limitations have hindered the comprehensive characterization of higher-order interactions among genomic loci. As a result, key questions, such as whether enhancers function cooperatively or competitively at the single-molecule and ensemble levels, remain largely unresolved. Here, we present Drop-t, a novel microfluidics-based method that enables systematic profiling of higher-order chromatin architecture at both the single-molecule and population scales. We demonstrate that Drop-t is not only resistant to common ligation-induced DNA entanglements, which frequently cause nanopore clogging, but also provides greater relevance for elucidating regulatory mechanisms compared to existing ligation-free approaches. Using Drop-t, we uncovered extensive, previously underappreciated non-specific enhancer–promoter interactions (EPIs) and showed that these may influence transcriptional variability by competing with specific EPIs. Notably, we identified two major gene classes, dictator genes and leader genes, based on whether their promoters are predominantly regulated by competitive or cooperative specific EPIs, respectively. Together, our findings established Drop-t as a powerful tool for decoding the higher-order organizational principles of chromatin architecture and their impact on transcriptional regulation and variability.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1146",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1146/9026654?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "chromatin",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2106,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1146"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3b9265ef02814e429c779c83eb1e905650fcacc0a42af1f43a72b9fe9984463a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:29:53.409401+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4fe6dbf7f17a059394b1e5d4a145cf908307aa3a927af2eb0f8ed9d4690a2d1a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:29:53.409401+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイクロ流体コンカテマーシーケンシングにより明らかになった遺伝子調節における協調的・競合的エンハンサークラスター",
+    "abstract_ja": "要旨クロマチンループ形成は真核生物の遺伝子調節において極めて重要な役割を果たすが、技術的な制約により、ゲノム遺伝子座間の高次相互作用の包括的な特性解析が妨げられてきた。その結果、エンハンサーが単分子レベルおよびアンサンブルレベルで協調的に機能するのか、あるいは競合的に機能するのかといった重要な問いは、依然として大部分が未解決のままである。本報では、単分子スケールと集団スケールの両方で高次クロマチン構造の系統的なプロファイリングを可能にする、マイクロ流体工学に基づく新規手法Drop-tを提案する。我々は、Drop-tが、ナノポアの閉塞を頻繁に引き起こす一般的なリガンド誘導性DNA絡み合いの影響を受けないだけでなく、既存のリガンドフリー手法と比較して、調節機構の解明においてより高い有用性を有することを実証する。Drop-tを用いて、我々はこれまで十分に認識されてこなかった広範な非特異的エンハンサー－プロモーター相互作用（EPI）を明らかにし、これらが特定のEPIと競合することで転写変動に影響を及ぼし得ることを示した。特筆すべきことに、プロモーターが主に競合的または協調的な特定のEPIによって調節されるか否かに基づき、ディクテーター遺伝子とリーダー遺伝子という2つの主要な遺伝子クラスを同定した。以上の知見を総合すると、Drop-tはクロマチン構造の高次組織化原理と、それが転写調節および転写変動に及ぼす影響を解読するための強力なツールであることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0359576",
+    "title": "Soil amendments reshape alpine meadow microbial communities across degradation gradients by modulating nutrient availability.",
+    "abstract": "Climate change and overgrazing have led to the continued degradation of alpine meadows on the Qinghai-Tibet Plateau, thereby severely impairing the ecosystem services provided by these grasslands. Soil amendments are an important strategy for restoring degraded grasslands; however, the regulatory effects of different amendment measures across varying degradation gradients and the underlying microbial response mechanisms remain unclear. This study systematically investigated the effects of three soil amendments (humic acid, superabsorbent polymer, and Bacillus subtilis) on soil physicochemical properties and microbial community structure in mildly, moderately, and severely degraded alpine meadows. The results indicated that the regulatory effects of soil amendments are significantly dependent on the degradation gradient: In the severe degradation stage, amendments significantly increased available nutrients, lowered pH, and alleviated alkalization, whereas their regulatory effects were limited in the mild degradation stage. Amendments selectively altered the abundance of microbial groups involved in organic matter degradation, nitrogen cycling, and stress-tolerant symbiosis. Humic acid demonstrated the optimal regulatory effect in the mild degradation stage, whereas superabsorbent polymers and Bacillus subtilis were more suitable for restoration in the moderate and severe degradation stages. Redundancy analysis indicated that bacterial communities were primarily subject to deterministic selection by soil pH, available potassium, and organic matter gradients, with the intensity of environmental selection increasing with increasing degradation severity; fungal communities exhibited significant environmental responses only in the moderate degradation stage, while stochastic processes dominated community assembly in the mild and severe degradation stages. In summary, alpine meadows at various stages of degradation require differentiated remediation strategies. Precise, stage-specific remediation tailored to degradation severity can facilitate synergistic restoration of the soil-microbial system, providing a theoretical basis and practical guidance for restoring degraded alpine meadows on the Qinghai-Tibet Plateau.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0359576",
+    "date": "2026-11-03",
+    "authors": "Wang N, Zhang Z, Zhou H, Wen Y, Wang X, Song H, Du Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42976182",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13730322",
+    "pmid": "42976182",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 656,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0359576"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eb03ea202b2a681e7819183ec8d0ef157e874d191a87562c6f7ed14203e46693",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:29:53.409401+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "14acf2e9fd900baf51e4e97dfdf9ae3f2c2a1933ccdaf1e7b5325edd469be3ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:29:53.409401+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "土壌改良材は、養分の利用可能性を調節することで、劣化勾配全域にわたる高山草原の微生物群集を再編する。",
+    "abstract_ja": "気候変動と過放牧により、青蔵高原の高山草原では劣化が進行し続けており、これにより草原が提供する生態系サービスが著しく損なわれている。土壌改良材は劣化した草原を復元するための重要な戦略であるが、異なる劣化勾配における各種改良材の調節効果や、根底にある微生物応答メカニズムについては依然として不明である。本研究では、軽度、中等度、および重度に劣化した高山草原において、3種類の土壌改良材（腐植酸、高吸収性ポリマー、および枯草菌）が土壌の物理化学的特性および微生物群集構造に及ぼす影響を系統的に調査した。その結果、土壌改良材の調節効果は劣化勾配に大きく依存することが示された。重度劣化段階では、改良材は可給養分を有意に増加させ、pHを低下させ、アルカリ化を緩和したが、軽度劣化段階ではその調節効果は限定的であった。改良材は、有機物分解、窒素循環、およびストレス耐性共生に関与する微生物群の存在量を選択的に変化させた。腐植酸は軽度劣化段階で最適な調節効果を示した一方、高吸収性ポリマーおよび枯草菌は中等度および重度劣化段階の復元により適していた。冗長性解析の結果、細菌群集は主に土壌pH、可給カリウム、および有機物勾配による決定論的な選択を受けており、環境選択の強度は劣化の深刻度が増すにつれて高まることが示された。真菌群集は中等度劣化段階においてのみ有意な環境応答を示したが、軽度および重度劣化段階では確率的プロセスが群集形成を支配していた。要約すると、さまざまな劣化段階にある高山草原には、それぞれ異なる修復戦略が必要である。劣化の深刻度に応じた段階的な精密な修復を行うことで、土壌－微生物系の相乗的な復元を促進でき、青蔵高原の劣化した高山草原を復元するための理論的根拠と実践的指針を提供することができる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2615533123",
+    "title": "TEDEdb: A multicohort analysis and resource for transposable element differential expression in cancer.",
+    "abstract": "The human genome consists of nearly 50% repetitive DNA, referred to for decades as \"junk DNA.\" These repetitive sequences, usually under the strict control of epigenetic silencing, can become aberrantly expressed in cancer. Some of these expressed sequences, e.g., transposable elements (TEs), can induce innate immune responses when derepressed following treatment with epigenetic therapies. As a result, epigenetic therapy has been suggested to augment cancer therapies. TEs are traditionally ignored in most RNA-seq studies and their expression is often excluded from publicly available data sources. Thus, the vast amount of publicly available RNA-seq data is an untapped resource for exploring the role of TE expression in cancer and cancer treatment. Here, we present a uniform reanalysis of over 7,000 RNA-seq samples, encompassing more than 2,000 differential expression experiments across 220 cancer cell lines and 700 drug treatments. We observed that TE expression is more prone to batch effects than gene expression alone, necessitating the use of meta-analysis techniques to probe the dataset for global trends. We confirm that DNMTi and HDACis are powerful inducers of TE expression. We also show that nonepigenetic compounds such as cyclin-dependent kinase and topoisomerase inhibitors can also induce robust up-regulation of TE-derived repetitive DNA elements and confirm that this induction is consistent with transcriptional signatures of viral mimicry response. We made all data available through a publicly available database called the Transposable Element Differential Expression Database, or TEDEdb, and created an interactive web application for its exploration located at https://dataexplorer.coriell.org/TEDEdb/.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2615533123",
+    "date": "2026-10-28",
+    "authors": "Calendo G, Chaunzwa M, Dehzangi I, Madzo J, Issa JJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949969",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42949969",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1165,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2615533123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6b20b90232f5469824a053aa30bc2bcbdfe351dded9f201abb46c951551f26bc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:29:53.409401+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b832f0ba04d1698aa9640542120b79f0385ed94b1c07b54d21eded325098abe1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:29:53.409401+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TEDEdb：がんにおける転移因子の発現変動に関するマルチコホート解析およびリソース",
+    "abstract_ja": "ヒトゲノムのほぼ50%は、数十年にわたり「ジャンクDNA」と呼ばれてきた反復DNAで構成されている。通常、エピジェネティックなサイレンシングの厳格な制御下にあるこれらの反復配列は、がんにおいて異常に発現することがある。これらの発現配列の一部（例えば転移因子（TE））は、エピジェネティック療法による治療後に脱抑制されると、自然免疫応答を誘導し得る。その結果、エピジェネティック療法はがん治療を増強する手段として提案されてきた。TEは従来のほとんどのRNA-seq研究において無視されており、その発現は公開されているデータソースから除外されることが多い。したがって、公開されている膨大な量のRNA-seqデータは、がんおよびがん治療におけるTE発現の役割を探索するための未活用のリソースとなっている。本研究では、220種類のがん細胞株と700種類の薬剤治療にわたる2,000件以上の発現変動実験を含む、7,000件以上のRNA-seqサンプルの統一的な再解析結果を提示する。我々は、TE発現が遺伝子発現単独よりもバッチ効果の影響を受けやすいことを観察し、データセットの全体的な傾向を調べるためにメタ解析手法を用いる必要があることを明らかにした。また、DNMTiおよびHDACisがTE発現の強力な誘導因子であることを確認した。さらに、サイクリン依存性キナーゼやトポイソメラーゼ阻害剤などの非エピジェネティック化合物も、TE由来の反復DNAエレメントの顕著な発現上昇を誘導し得ることを示し、この誘導がウイルス模倣応答の転写シグネチャーと一致することを確認した。我々は、すべてのデータをTransposable Element Differential Expression Database（TEDEdb）と呼ばれる公開データベースを通じて利用可能にし、その探索のためのインタラクティブなウェブアプリケーションを https://dataexplorer.coriell.org/TEDEdb/ に構築した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aeb0364",
+    "title": "Oxygen fugacity, temperature, and pressure of Siberian eclogitic diamonds: Implications for the Archaean convecting mantle redox state.",
+    "abstract": "Kimberlite-borne eclogite xenoliths ultimately derive from ancient subducted oceanic crust. Some specimens still record the chemical and redox conditions of their igneous protoliths, allowing a view into contemporaneous convecting mantle sources. However, accurate reconstructions are limited because eclogites have been exposed to metasomatism in the subcontinental mantle for billions of years. Here, we investigated garnet and clinopyroxene inclusions, both touching and nontouching pairs, in 19 eclogitic diamonds from the Siberian craton, hence shielded from post-entrapment overprint. Inclusion compositions indicate average sampling depths of 180 to 280 km, temperatures of 1030° to 1540°C (±60°C), and redox conditions, for most of the samples, oxidized enough for diamonds to have originated from water(carbonate)-rich fluids. The reconstructed bulk composition points to basaltic oceanic crust formed from an Archaean convecting mantle region that was more oxygen-depleted than today, providing compelling evidence of redox heterogeneities in the source rocks of ancient oceanic crust.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeb0364",
+    "date": "2026-11-04",
+    "authors": "Marras G, Mikhailenko D, McCammon CA, Aulbach S, Lu Y, Tao R, Logvinova A, Zedgenizov D, Stagno V.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981419",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13733901",
+    "pmid": "42981419",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2961,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1126/sciadv.aeb0364"
+    ],
+    "translation": {
+      "title": {
+        "hash": "67b5873fc32043aa47b0f403d955768024fe7345138a83611116b00af00c3765",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:29:53.409401+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e6d4a63843a8bd4238317006248082ce5ec443e470a55bafdf4dad98ddebf520",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:29:53.409401+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シベリア産エクロジティックダイヤモンドの酸素富化度、温度、および圧力：始生代の対流マントルの酸化還元状態への示唆",
+    "abstract_ja": "キンバーライトに含まれるエクロガイト異質岩は、最終的に古代の沈み込んだ海洋地殻に由来する。一部の試料には依然として火成原岩の化学的・酸化還元状態が記録されており、同時期の対流マントル源を窺い知ることができる。しかし、エクロガイトは数十億年にわたり亜大陸マントルにおけるメタソマティズムにさらされてきたため、正確な復元は限定的である。本研究では、シベリアクラトン産のエクロガイトダイヤモンド19個を対象に、接触ペアおよび非接触ペアの両方におけるガーネットおよびクリノパイロキシン包有物を調査した。これらの試料は、捕獲後のオーバープリントから遮蔽されていた。包有物の組成は、平均試料採取深度が180～280 km、温度が1030°～1540°C（±60°C）であり、またほとんどの試料において酸化還元状態が、ダイヤモンドが水（炭酸塩）に富む流体に由来するほど十分に酸化されていたことを示している。復元されたバルク組成は、現在よりも酸素が枯渇していた始生代の対流マントル領域から形成された玄武岩質海洋地殻を示唆しており、古代海洋地殻の源岩における酸化還元不均質性の説得力ある証拠となっている。"
   }
 ]
