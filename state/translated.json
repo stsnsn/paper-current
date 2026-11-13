@@ -189362,5 +189362,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ペーパークリップRNAは、昆虫および真菌細胞においてクラスリン介在性エンドサイトーシスを回避する。",
     "abstract_ja": "昆虫や真菌は、農業および公衆衛生に影響を及ぼす最も破壊的な害虫や病原体の一部である。化学農薬が長らく主要な防除手段となってきたが、その広範な作用と広範な使用により、多くの系統において耐性化が加速している。そのため、RNA干渉（RNAi）が種特異的な有望な代替手段として登場した。RNAiは二本鎖RNA（dsRNA）によって開始され、標的転写産物の配列指向性分解を誘発する。しかし、RNAiの効率は、ヌクレアーゼ活性、dsRNAの長さ、および細胞内取り込み経路の影響を受け、種によって著しく異なる。我々は以前、ネッタイシマカにおける長鎖dsRNAの取り込みがクラスリン介在性エンドサイトーシス（CME）に依存するのに対し、当研究室で開発したコンパクトなdsRNA構造であるペーパークリップRNA（pcRNA）はCMEを介さず、別の経路で細胞内に進入することを示した。本研究では、ネッタイシマカ（蚊）、Spodoptera frugiperda（ガ）、およびSclerotinia sclerotiorum（真菌）という3つの代表的な種において、2種類のdsRNA形式、すなわち長鎖dsRNA（210-230 bp）とpcRNA（21-23 bp）の取り込みおよびRNAi性能を比較した。これらのdsRNAの細胞内取り込みを評価するため、2種類のCME阻害剤であるクロルプロマジン（CPZ）およびバフィロマイシンA1（BafA1）と、フルオレセイン標識dsRNAを用いた。CME阻害により、長鎖dsRNAの細胞質への進入が阻止され、RNAiを誘導する能力が消失した。対照的に、pcRNAは容易に細胞内に取り込まれ、いずれの阻害剤処理においても有意な遺伝子ノックダウンをもたらした。顕微鏡観察により、CPZまたはBafA1で前処理した3種類すべての細胞型において、長鎖dsRNAの細胞質への進入が阻止されたことが明らかになった。pcRNAは一貫して細胞質に到達し、すべての種において優れた取り込み性能を示した。以上の知見を総合すると、pcRNAは長鎖dsRNAとは異なる取り込み機構を利用しており、これによりCME依存的な障壁を回避できることが示される。この独自の取り込み経路は、そのコンパクトなサイズと構造的構成を反映していると考えられ、RNAiに基づく害虫・病原体防除を改善するための有望なプラットフォームとしてpcRNAを際立たせるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1930807",
+    "title": "cgMLST typing reproducibility is maintained across diverse whole-genome sequencing workflows in a multi-country HERA2 surveillance pilot.",
+    "abstract": "IntroductionWhole-genome sequencing (WGS) has become indispensable in infectious disease surveillance, yet its implementation across laboratories remains heterogeneous. Six laboratories from four European countries participated in 2023 in a pilot ring trial as part of the HERA2 project, using a standardized panel of 25 bacterial isolates representing five public health-relevant species. The aim was to assess the comparability and reproducibility of laboratory-specific WGS workflows and to determine whether workflow-related variability affected cgMLST-based interpretations relevant for routine surveillance and outbreak investigations.MethodsParticipating laboratories applied their established wet-laboratory workflows, including different sample-processing, DNA-extraction and library-preparation methods and sequencing platforms. Illumina sequencing was performed by all laboratories, while Oxford Nanopore Technologies (ONT) sequencing was available in two. To specifically evaluate variability introduced by wet-laboratory procedures, all raw sequencing data were centrally processed using the same bioinformatic pipeline. Reproducibility was primarily assessed using cgMLST allelic distances to the Lab 1 Illumina comparator assembly and concordance of cluster assignments, complemented by analyses of sequencing and assembly variability.ResultsDespite substantial differences in wet-laboratory workflows and technical sequencing characteristics, retained Illumina records showed only small cgMLST allelic differences across laboratories (0-2 alleles) and concordant cluster assignments. Sequencing and assembly metrics varied according to laboratory, species, and technical factors, but this variability did not prevent concordant Illumina-based cluster interpretation among records meeting predefined minimum quality requirements. ONT results were more species-dependent, and several records, particularly for Salmonella enterica, did not achieve the required cgMLST target completeness. These ONT findings should be interpreted in the context of the technology available at the time of the 2023 ring trial.ConclusionsOur results suggest that complete standardization of wet-laboratory workflows may not be required to achieve comparable Illumina-based cgMLST results across laboratories. Rather, laboratories may retain validated local workflows provided that the resulting sequencing data meet appropriate minimum quality requirements. This supports a pragmatic approach to multi-laboratory genomic surveillance that prioritizes data quality and fitness-for-purpose over uniformity of individual wet-laboratory procedures.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1930807",
+    "date": "2026-10-28",
+    "authors": "Cabal Rosel A, Galanopoulos AP, Polemis M, Henczkó J, Pappa O, Karligiotou E, Malliarou M, Chochlakis D, Hyden P, Daza Prieto B, Stöger A, Polzer D, Ungvári E, Tóth Á, Ruppitsch W, Juric D, Ferencak I, Tabain I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43017167",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43017167",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "genome",
+        "sequencing",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 571,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1930807"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4fe11b88213e43f3018f24f511e4089da0c1df9ee68af9cd8677f303d1c28733",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:24:10.874880+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4767cf5e2879a8e9a52a43dd0750f02430d26047de94191c03e5f7a92b2525bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:24:10.874880+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多国間HERA2サーベイランスパイロット試験において、多様な全ゲノムシーケンシングワークフロー間でcgMLSTの型再現性が維持されている。",
+    "abstract_ja": "はじめに全ゲノムシーケンシング（WGS）は感染症サーベイランスにおいて不可欠となっているが、各研究室における導入状況にはばらつきがある。2023年、欧州4カ国の6つの研究室が、HERA2プロジェクトの一環として、公衆衛生上重要な5種を代表する25株の細菌分離株を用いた標準化パネルによるパイロット・リングトライアルに参加した。その目的は、研究室固有のWGSワークフローの比較可能性と再現性を評価し、ワークフローに関連する変動性が、日常的なサーベイランスやアウトブレイク調査に有用なcgMLSTベースの解釈に影響を及ぼすかどうかを検証することであった。方法参加研究室は、異なる試料処理法、DNA抽出およびライブラリ調製法、ならびにシーケンシングプラットフォームを含む、確立されたウェットラボワークフローを適用した。すべての研究室でIlluminaシーケンシングが実施され、2つの研究室ではOxford Nanopore Technologies（ONT）シーケンシングが利用可能であった。ウェットラボ手順に起因する変動性を具体的に評価するため、すべての生シーケンシングデータは同一のバイオインフォマティクスパイプラインを用いて一元的に処理された。再現性は主に、Lab 1 Illuminaコンパレーターアセンブリに対するcgMLSTアレル距離およびクラスター割り当ての一致度を用いて評価され、さらにシーケンシングおよびアセンブリの変動性の解析によって補完された。結果ウェットラボワークフローおよび技術的なシーケンシング特性に著しい差異があったにもかかわらず、保持されたIlluminaレコードでは、研究室間のcgMLSTアレル差はわずか（0～2アレル）であり、クラスター割り当ても一致していた。シーケンシングおよびアセンブリの指標は研究室、種、および技術的要因によって異なっていたが、この変動性は、あらかじめ定義された最小品質要件を満たすレコード間において、Illuminaベースの一貫したクラスター解釈を妨げるものではなかった。ONTの結果は種依存性がより強く、いくつかのレコード、特にSalmonella entericaにおいては、要求されるcgMLSTターゲットの完全性に達していなかった。これらのONTに関する知見は、2023年のリングトライアル時点で利用可能であった技術の文脈で解釈されるべきである。結論本結果は、研究室間で同等のIlluminaベースのcgMLST結果を得るために、ウェットラボワークフローの完全な標準化は必ずしも必要ではない可能性を示唆している。むしろ、得られたシーケンシングデータが適切な最小品質要件を満たしている限り、研究室は検証済みのローカルワークフローを維持してもよいと考えられる。これは、個々のウェットラボ手順の統一性よりも、データ品質と目的への適合性を優先する、複数研究室にわたるゲノムサーベイランスへの実用的アプローチを支持するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1160",
+    "title": "The Biodiversity Cell Atlas database: a curated resource for comparative single-cell genomics across the eukaryotic tree of life",
+    "abstract": "AbstractSingle-cell genomics has transformed the study of cellular diversity, but the resulting atlases are scattered across publications, formats, and annotation standards. Efforts to make these data findable and interoperable have focused largely on aggregating and harmonizing existing model organism datasets. The Biodiversity Cell Atlas database is an open resource that addresses this gap by uniformly (re)processing, curating, and comparing whole-organism single-cell atlases sampled across the eukaryotic tree of life. Starting from raw sequencing data, each dataset is processed through a consistent workflow and enriched with standardized quality-control metrics, metacell-level aggregation, gene co-expression modules, and phylogeny-based orthology and functional annotation, enabling both gene- and cell type-centric exploration within species as well as principled comparisons between them. The portal currently hosts 39 datasets across 33 species spanning 13 eukaryotic phyla, and offers multiple levels of access, from raw and filtered count matrices to normalized, aggregated, and analysis-ready data layers. These are accessible through an interactive web interface (https://portal.biodiversitycellatlas.org) and a documented REST API (https://portal.biodiversitycellatlas.org/api/v1/). All data, code, and infrastructure are continuously released and maintained under open licenses, providing a curated and reusable foundation for comparative single-cell genomics.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1160",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1160/9041025?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "genomic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4383,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1160"
+    ],
+    "translation": {
+      "title": {
+        "hash": "64378f83e49283238644ec4d8de5383de77f4e63479554fb4bebb5a96d5d412c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:24:10.874880+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6d632a8e1c6d93283b3cb6aae37e1445c3cd2daadd697dd4d2188f37e183181b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:24:10.874880+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生物多様性セルアトラスデータベース：真核生物の系統樹にわたる比較シングルセルゲノミクスのためのキュレート済みリソース",
+    "abstract_ja": "要旨 単一細胞ゲノミクスは細胞多様性の研究に革命をもたらしたが、得られたアトラスは論文、フォーマット、アノテーション規格ごとに散在している。これらのデータを検索可能かつ相互運用可能にするための取り組みは、主に既存のモデル生物データセットの集約と整合化に重点が置かれてきた。Biodiversity Cell Atlasデータベースは、真核生物の生命系統樹全体でサンプリングされた全生物個体の単一細胞アトラスを統一的に（再）処理、キュレーション、および比較することで、このギャップを埋めるオープンリソースである。生のシーケンシングデータから始まり、各データセットは一貫したワークフローを経て処理され、標準化された品質管理指標、メタセルレベルの集約、遺伝子共発現モジュール、ならびに系統樹に基づくオーソロジーおよび機能アノテーションによって拡充される。これにより、種内における遺伝子および細胞タイプ中心の探索と、種間における原理に基づいた比較の両方が可能となる。本ポータルは現在、13の真核生物門にわたる33種の39のデータセットをホストしており、生データやフィルタリング済みのカウント行列から、正規化・集約済みの解析準備完了データレイヤーまで、複数のアクセスレベルを提供している。これらは、インタラクティブなウェブインターフェース（https://portal.biodiversitycellatlas.org）およびドキュメント化されたREST API（https://portal.biodiversitycellatlas.org/api/v1/）を通じて利用可能である。すべてのデータ、コード、およびインフラストラクチャは、オープンライセンスの下で継続的に公開・維持されており、比較単一細胞ゲノミクスのためのキュレーション済みで再利用可能な基盤を提供している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0361057",
+    "title": "Mechanistic insights into ENO2-driven glycolysis and tumor progression in hepatocellular carcinoma.",
+    "abstract": "Background and aimsNeuron-specific enolase 2 (ENO2) has been implicated in tumor metabolism, but its biological role in hepatocellular carcinoma remains incompletely defined. This study aimed to investigate the expression, prognostic relevance, and functional role of ENO2 in HCC.MethodsPublic transcriptomic datasets, RNA sequencing, WGCNA, survival analyses, and pathway enrichment analyses were integrated to identify HCC-associated genes. ENO2 expression was validated in HCC cell lines and paired clinical tissues.Gain- and loss-of-function, catalytic-rescue, glycolytic-inhibition, and pyruvate-rescue experiments were performed to evaluate glycolytic activity, proliferation, colony formation, migration, invasion, and tumor growth.ResultsENO2 was upregulated in HCC and was associated with advanced tumor stage and unfavorable survival outcomes in public datasets. ENO2 overexpression increased glycolytic activity and malignant phenotypes, whereas ENO2 depletion produced opposite effects. In ENO2-depleted cells, re-expression of shRNA-resistant ENO2 wild type restored the impaired glycolytic and malignant phenotypes, whereas the catalytic-deficient ENO2 mutant failed to restore them. Moreover, 2-deoxy-D-glucose attenuated ENO2 overexpression-associated phenotypes, while pyruvate partially rescued phenotypes associated with ENO2 depletion. ENO2 expression was also associated with altered PI3K and AKT phosphorylation.ConclusionsENO2 may contribute to HCC progression by enhancing glycolytic metabolism and malignant phenotypes, partly in association with PI3K/AKT signaling. ENO2 is a candidate metabolic and prognostic biomarker that requires validation in larger independent clinical cohorts and warrants further investigation as a therapeutic candidate.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0361057",
+    "date": "2026-10-27",
+    "authors": "Liu Y, Zhang XR, Dai L, Li HL, Jin XR, Qi HB, Tang K, Li Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42945225",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13712540",
+    "pmid": "42945225",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3513,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1371/journal.pone.0361057"
+    ],
+    "translation": {
+      "title": {
+        "hash": "287f362a3060833a22f4a0b1e562b227ed519e37200bd699d01dc53e184db95d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:24:10.874880+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ff155bfeb40ceedcc788ee1ad48abc1e2882073c91e7318ab35f075b70487f34",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:24:10.874880+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "肝細胞癌におけるENO2駆動性解糖系と腫瘍進展の機序的知見",
+    "abstract_ja": "背景および目的ニューロン特異的エノラーゼ2（ENO2）は腫瘍代謝に関与していることが示唆されているが、肝細胞癌における生物学的役割は未だ十分に解明されていない。本研究では、肝細胞癌（HCC）におけるENO2の発現、予後的意義、および機能的役割を検討することを目的とした。方法公開トランスクリプトームデータセット、RNAシーケンシング、WGCNA、生存解析、およびパスウェイエンリッチメント解析を統合し、HCC関連遺伝子を同定した。HCC細胞株およびペアとなる臨床組織において、ENO2の発現を検証した。機能獲得・喪失、触媒レスキュー、解糖系阻害、およびピルビン酸レスキュー実験を行い、解糖系活性、増殖、コロニー形成、遊走、浸潤、および腫瘍増殖を評価した。結果公開データセットにおいて、ENO2はHCCで発現亢進しており、腫瘍の進行期および不良な生存転帰と関連していた。ENO2の過剰発現は解糖系活性および悪性形質を亢進させた一方、ENO2の枯渇は逆の効果をもたらした。ENO2枯渇細胞において、shRNA耐性型ENO2野生型を再発現させると、損なわれた解糖系および悪性形質が回復したが、触媒欠損型ENO2変異体では回復しなかった。さらに、2-デオキシ-D-グルコースはENO2過剰発現に関連する形質を軽減し、ピルビン酸はENO2枯渇に関連する形質を部分的にレスキューした。また、ENO2の発現はPI3KおよびAKTのリン酸化の変化とも関連していた。結論ENO2は、部分的にPI3K/AKTシグナル伝達に関連して、解糖系代謝および悪性形質を亢進させることでHCCの進行に寄与している可能性がある。ENO2は代謝および予後バイオマーカーの候補であり、より大規模な独立した臨床コホートでの検証が必要であり、治療候補としてのさらなる検討に値する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2608195123",
+    "title": "A heavy molybdenum reservoir in Neoarchean seawater tracks extensive iron oxidation.",
+    "abstract": "The lead-up to the Great Oxidation Event (GOE; between 2.5 and 2.2 Ga) was arguably as consequential as the event itself, yet substantial uncertainties remain regarding the timing and magnitude of oxygen rise in early Earth's oceans. Heavy molybdenum isotope compositions (δ98Mo) in Neoarchean marine sediments have traditionally been interpreted as evidence for adsorption of dissolved Mo onto iron oxyhydroxides [e.g., ferrihydrite; Fe(OH)3] and manganese oxides (MnO2) formed in oxygenated marine environments, implying at least regional surface oxygen accumulation immediately prior to the GOE. Here, we propose an alternate explanation in which these isotopic signatures arose in a largely anoxic ocean. Analyses of Neoarchean banded iron formations (BIFs) deposited at 2.57 to 2.51 Ga reveal a broad range of δ98Mo values, which are best explained by the combined effects of Mo adsorption onto primary ferrihydrite, followed by its diagenetic incorporation into Fe(II)-Mo(IV)-sulfides. After accounting for isotopic fractionation during adsorption, we estimate that Neoarchean seawater δ98Mo maintained a relatively stable composition between 1.5‰ and 1.6‰. A newly developed Mo isotope mass balance model further indicates that only a minor MnO2 sink was required to generate these heavy δ98Mo values. Instead, the dominant control was likely removal of isotopically light Mo via adsorption to settling ferrihydrite particles in ferruginous seawater. Given the lack of oxygen indicators for cyanobacterial photosynthesis, we posit that anoxygenic photosynthetic bacteria (photoferrotrophs) were the primary drivers of ferrihydrite precipitation during BIF deposition. Together, these findings imply that the Neoarchean Mo isotope record reflects anaerobic biological oxidation of Fe(II) rather than pervasive surface seawater oxygenation preceding the GOE.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2608195123",
+    "date": "2026-11-10",
+    "authors": "Wang C, Dong F, Dong Z, Robbins L, Zhang L, Li J, Stüeken E, Kendall B, Konhauser K, Wan B.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43008027",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43008027",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "cyanobacteria",
+        "cyanobacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean",
+          "seawater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1056,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1073/pnas.2608195123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6b1ed91a432a23ec91ea0751f3cf36ec42fb4b1f2967d0ae06686fd84ac51fde",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:24:10.874880+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c1c29ec993edb45cfd784843f9e6fa8a5f50cd8dcf701ecdef476daf5b67138e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:24:10.874880+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新太古代の海水における重モリブデン貯留層は、広範な鉄酸化を辿っている。",
+    "abstract_ja": "大酸化イベント（GOE；2.5～2.2 Ga）に至る過程は、おそらくイベント自体と同等に重要であったが、初期地球の海洋における酸素上昇の時期と規模については、依然として大きな不確実性が残っている。新太古代の海洋堆積物における重モリブデン同位体組成（δ98Mo）は、従来、酸素存在下の海洋環境で生成された鉄オキシ水酸化物［例：フェリハイドライト；Fe(OH)3］およびマンガン酸化物（MnO2）への溶解Moの吸着の証拠として解釈されており、これは少なくともGOEの直前に地域的な表層酸素蓄積があったことを示唆している。本研究では、これらの同位体シグネチャーが概ね無酸素状態の海洋で生じたという別の説明を提案する。2.57～2.51 Gaに堆積した新太古代の縞状鉄鉱床（BIFs）の分析により、広範なδ98Mo値が明らかとなり、これらは一次フェリハイドライトへのMo吸着と、それに続くFe(II)-Mo(IV)-硫化物への続成的取り込みの複合的な効果によって最もよく説明される。吸着時の同位体分画を考慮した結果、新太古代の海水δ98Moは1.5‰から1.6‰の間で比較的安定した組成を維持していたと推定される。新たに開発したMo同位体質量収支モデルは、これらの重いδ98Mo値を生成するために必要なMnO2シンクは小規模であったことをさらに示している。むしろ、支配的な制御要因は、鉄質海水中の沈降フェリハイドライト粒子への吸着による同位体的に軽いMoの除去であった可能性が高い。シアノバクテリアの光合成を示す酸素指標が欠如していることから、BIF堆積時のフェリハイドライト沈殿の主因は無酸素性光合成細菌（光鉄栄養生物）であったと考える。これらの知見を総合すると、新太古代のMo同位体記録は、GOEに先立つ広範な表層海水の酸素化ではなく、Fe(II)の嫌気的生物酸化を反映していることが示唆される。"
   }
 ]
