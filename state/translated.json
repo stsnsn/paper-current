@@ -82805,21 +82805,21 @@
   {
     "id": "10.64898/2026.11.05.763656",
     "title": "Visual surfaceomics reveals the substrate-scavenging cell surface of Asgard archaea",
-    "abstract": "The emergence of eukaryotes from Asgard archaeal ancestors likely required a specialized cell envelope that enabled sustained physical and metabolic interactions with proto-mitochondrial symbionts. While the protrusion-rich cell architecture of Asgard archaea may enable such interactions, the molecular composition of their cell surface and its role in establishing cell-cell contacts remains unknown. Here, we developed a \"visual surfaceomics\" approach, integrating subtomogram averaging, predictive structural modeling, transcriptomics, proteomics, and expansion microscopy to identify surface proteins in situ. We show that Asgard cell bodies and protrusions lack an archaea-typical paracrystalline S-layer and are instead decorated by two main classes of surface proteins: subtilisin-like serine proteases (SubSs) and oligopeptide-binding proteins (OppAs). SubSs were detected as membrane-anchored dimers and were sparsely distributed across the surface. OppAs showed near-total membrane coverage but lacked any rigid, higher order assembly. Thermal shift assays and single particle cryo-EM showed that OppA binds oligopeptides in vitro. Comparative genomics, transcriptomics, and proteomics suggest that this peptidophilic surface architecture is conserved across Asgard archaeal phyla. Finally, we discovered that the cell surface was remodeled at cell-cell contact sites. Altogether, our integrative approach revealed a metabolically specialized and structurally flexible cell surface that couples extracellular protein degradation with peptide capture and uptake, while potentially contributing to establishing and maintaining the symbiotic interactions of Asgard archaea.",
+    "abstract": "The emergence of eukaryotes from Asgard archaeal ancestors likely required a specialized cell envelope that enabled sustained physical and metabolic interactions with proto-mitochondrial symbionts. While the protrusion-rich cell architecture of Asgard archaea may enable such interactions, the molecular composition of their cell surface and its role in establishing cell-cell contacts remains unknown.  Here, we developed a \"visual surfaceomics\" approach, integrating subtomogram averaging, predictive structural modeling, transcriptomics, proteomics, and expansion microscopy to identify surface proteins in situ. We show that Asgard cell bodies and protrusions lack an archaea-typical paracrystalline S-layer and are instead decorated by two main classes of surface proteins: subtilisin-like serine proteases (SubSs) and oligopeptide-binding proteins (OppAs). SubSs were detected as membrane-anchored dimers and were sparsely distributed across the surface. OppAs showed near-total membrane coverage but lacked any rigid, higher order assembly. Thermal shift assays and single particle cryo-EM showed that OppA binds oligopeptides in vitro. Comparative genomics, transcriptomics, and proteomics suggest that this peptidophilic surface architecture is conserved across Asgard archaeal phyla. Finally, we discovered that the cell surface was remodeled at cell-cell contact sites.  Altogether, our integrative approach revealed a metabolically specialized and structurally flexible cell surface that couples extracellular protein degradation with peptide capture and uptake, while potentially contributing to establishing and maintaining the symbiotic interactions of Asgard archaea.",
     "journal": "bioRxiv",
     "doi": "10.64898/2026.11.05.763656",
     "date": "2026-11-06",
-    "authors": "Malit, J. J. L.; Amendola, D.; Xu, J.; Dufresne, L.; Kokhanovska, A.; Gonet, A.; Wiegand, C. P.; Clavien, J.; Wollweber, F.; Pilhofer, M.",
+    "authors": "Malit JJL, Amendola D, Xu J, Dufresne L, Kokhanovska A, Gonet A, Wiegand CP, Clavien J, Wollweber F, Pilhofer M.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.763656v1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/PPR/PPR1361087",
+    "abstract_source": "Europe PMC",
     "preprint": true,
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "archaea",
         "archaeal"
@@ -82827,7 +82827,9 @@
       "context": {
         "marine": [],
         "genomics": [
+          "assembly",
           "genom",
+          "genomic",
           "transcript"
         ],
         "evolution": []
@@ -82837,6 +82839,7 @@
       ]
     },
     "sources": [
+      "Europe PMC topics",
       "bioRxiv",
       "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
     ],
@@ -82847,6 +82850,22 @@
       "10.64898/2026.11.05.763656"
     ],
     "collected_date": "2026-11-07",
+    "collection_order": 1393,
+    "collected_at": "2026-11-07T00:00:00+09:00",
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
     "translation": {
       "title": {
         "hash": "286489e9776594b0475c6b1858e4f495b99b2d4533bf3597017bd16bc1675b6e",
@@ -82855,16 +82874,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "9266e0276adb77df393bd19ab75d94fca7a9da6b19258f5e4015f27bfd456f08",
+        "hash": "535bd3f92f0a21f2572bddb959392ed52be8e7b7914ebc3430e01e0ea0d237fa",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T23:54:38.711283+00:00",
+        "date": "2026-11-13T23:28:33.412660+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "可視化サーフェスオミクスにより明らかになったアスガルド古細菌の基質スカベンジング細胞表面",
-    "abstract_ja": "アスガルド古細菌の祖先から真核生物が出現するには、原ミトコンドリア共生体との持続的な物理的・代謝的相互作用を可能にする特殊な細胞包膜が必要であったと考えられる。アスガルド古細菌の突起に富んだ細胞構造はこのような相互作用を可能にする可能性があるが、細胞表面の分子組成や細胞間接触の確立における役割は依然として不明である。ここで我々は、サブトモグラム平均化、予測構造モデリング、トランスクリプトミクス、プロテオミクス、および拡張顕微鏡法を統合した「ビジュアルサーフェスオミクス」アプローチを開発し、表面タンパク質をin situで同定した。我々は、アスガルドの細胞体および突起には古細菌に典型的なパラ結晶性S層が存在せず、代わりにサブチリシン様セリンプロテアーゼ（SubSs）とオリゴペプチド結合タンパク質（OppAs）という2つの主要なクラスの表面タンパク質で装飾されていることを示した。SubSsは膜アンカー型二量体として検出され、表面全体にまばらに分布していた。OppAsはほぼ全表面を被覆していたが、剛性の高い高次構造は見られなかった。熱シフトアッセイおよび単粒子クライオ電子顕微鏡法により、OppAがin vitroでオリゴペプチドに結合することが示された。比較ゲノミクス、トランスクリプトミクス、およびプロテオミクスは、このペプチド親和性を有する表面構造がアスガルド古細菌の系統群間で保存されていることを示唆している。最後に、細胞表面は細胞間接触部位でリモデリングされていることを発見した。総じて、我々の統合的アプローチにより、細胞外タンパク質の分解とペプチドの捕捉・取り込みを連動させ、アスガルド古細菌の共生相互作用の確立と維持に寄与する可能性のある、代謝的に特化し構造的に柔軟な細胞表面が明らかになった。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "アスガルド古細菌の祖先から真核生物が誕生した際、原ミトコンドリア共生体との持続的な物理的・代謝的相互作用を可能にする特殊な細胞包膜が必要であったと考えられる。アスガルド古細菌の突起に富んだ細胞構造はこうした相互作用を可能にしている可能性があるが、細胞表面の分子組成および細胞間接触の確立におけるその役割は依然として不明である。本研究では、サブトモグラム平均化、予測構造モデリング、トランスクリプトミクス、プロテオミクス、および拡張顕微鏡法を統合した「ビジュアル・サーフェスオミクス」アプローチを開発し、表面タンパク質をin situで同定した。その結果、アスガルドの細胞体および突起には古細菌に典型的なパラ結晶性S層が存在せず、代わりにサブチリシン様セリンプロテアーゼ（SubSs）とオリゴペプチド結合タンパク質（OppAs）という2つの主要なクラスの表面タンパク質で修飾されていることを示した。SubSsは膜アンカー型二量体として検出され、表面全体に疎らに分布していた。OppAsはほぼ全表面を被覆していたが、剛性の高い高次構造は認められなかった。熱シフトアッセイおよび単粒子クライオ電子顕微鏡法により、OppAがin vitroでオリゴペプチドに結合することが示された。比較ゲノミクス、トランスクリプトミクス、およびプロテオミクスにより、このペプチド親和性を有する表面構造がアスガルド古細菌の系統群間で保存されていることが示唆された。最後に、細胞表面は細胞間接触部位においてリモデリングされていることを発見した。総じて、我々の統合的アプローチは、細胞外タンパク質の分解とペプチドの捕捉・取り込みを連動させ、かつアスガルド古細菌の共生相互作用の確立と維持に寄与している可能性のある、代謝的に特化し構造的に柔軟な細胞表面を明らかにした。"
   },
   {
     "id": "10.64898/2026.11.04.764272",
@@ -94338,24 +94356,25 @@
   {
     "id": "10.64898/2026.11.06.764861",
     "title": "Identification and characterization of new P. aeruginosa phages using a surface receptor platform",
-    "abstract": "Bacteriophages are of increasing interest for their potential use as alternatives to antibiotics for treating drug-resistant infections. Phage steering, specifically receptor-based steering, involves use of phages that bias the development of resistance in bacteria towards phenotypes such as reduced fitness. Phage therapy typically involves administering cocktails of phages with different targets to reduce the likelihood of resistance emerging. To ensure effective steering and cocktail design, there is a need to identify the receptors used by phages of interest, and to isolate phages that use diverse receptors. Here we describe a SURFAce Receptor (SURFAR) platform consisting of a set of defined Pseudomonas aeruginosa strains and mutants for rapid characterization of phage receptors. This platform can also be used to enrich for and isolate diverse phages from environmental samples, yielding novel phage genomes from wastewater. Using the SURFAR platform, two new phages were isolated and characterized: Dalewood, which targets both flagella and the conserved LPS outer core, and Bowman, a biofilm targeting phage capable of supressing growth of a subset of carbapenem-resistant clinical isolates. This tool helps to standardize the laborious but important task of phage receptor characterization, with the goal of expanding the known repertoire of P. aeruginosa phage receptors and phages.",
+    "abstract": "Bacteriophages are of increasing interest for their potential use as alternatives to antibiotics for treating drug-resistant infections. Phage steering, specifically receptor-based steering, involves use of phages that bias the development of resistance in bacteria towards phenotypes such as reduced fitness. Phage therapy typically involves administering cocktails of phages with different targets to reduce the likelihood of resistance emerging. To ensure effective steering and cocktail design, there is a need to identify the receptors used by phages of interest, and to isolate phages that use diverse receptors. Here we describe a SURFAce Receptor (SURFAR) platform consisting of a set of defined  Pseudomonas aeruginosa strains and mutants for rapid characterization of phage receptors. This platform can also be used to enrich for and isolate diverse phages from environmental samples, yielding novel phage genomes from wastewater. Using the SURFAR platform, two new phages were isolated and characterized: Dalewood, which targets both flagella and the conserved LPS outer core, and Bowman, a biofilm targeting phage capable of supressing growth of a subset of carbapenem-resistant clinical isolates. This tool helps to standardize the laborious but important task of phage receptor characterization, with the goal of expanding the known repertoire of  P. aeruginosa phage receptors and phages.",
     "journal": "bioRxiv",
     "doi": "10.64898/2026.11.06.764861",
     "date": "2026-11-07",
-    "authors": "Tran, V. N.; Lahane, T. S.; Qaderi, I.; Harvey, H.; Burrows, L. L.",
+    "authors": "Tran, V. N., Lahane, T. S., Qaderi, I., Harvey, H., Burrows, L. L.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764861v1",
-    "abstract_source": "rss",
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764861v1?rss=1",
+    "abstract_source": "Europe PMC",
     "preprint": true,
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "Pseudomonas",
         "bacteria",
+        "bacteriophage",
         "bacteriophages",
         "phage",
         "phages"
@@ -94363,7 +94382,8 @@
       "context": {
         "marine": [],
         "genomics": [
-          "genom"
+          "genom",
+          "genome"
         ],
         "evolution": []
       },
@@ -94375,6 +94395,7 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC topics",
       "bioRxiv",
       "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
     ],
@@ -94384,6 +94405,25 @@
     "related_dois": [
       "10.64898/2026.11.06.764861"
     ],
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
     "translation": {
       "title": {
         "hash": "ffa2116134aa26cda8e50aabc077919d85acc36f771f33aaef1adf6040c2fb41",
@@ -94392,16 +94432,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "ccd87089df18467094756e8e0ec97f70065c7121c1162596aee60dd2e8f2d7aa",
+        "hash": "a85c9ab54ac6218c247248cc62592df35cecb741dd22040e950d20ae193b7df2",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T07:05:08.517976+00:00",
+        "date": "2026-11-13T23:28:33.412660+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "表面受容体プラットフォームを用いた新規P. aeruginosaファージの同定と特性解析",
-    "abstract_ja": "バクテリオファージは、薬剤耐性感染症の治療における抗生物質の代替手段としての可能性から、ますます注目を集めている。ファージステアリング、特に受容体ベースのステアリングでは、細菌の耐性獲得を適応度の低下といった表現型へと誘導するファージが用いられる。ファージ療法では通常、耐性出現の可能性を低減するため、異なる標的を持つファージのカクテルを投与する。効果的なステアリングとカクテル設計を実現するためには、目的とするファージが利用する受容体を同定し、多様な受容体を利用するファージを単離する必要がある。本報では、ファージ受容体の迅速な特性解析を目的とした、定義済みのPseudomonas aeruginosa株および変異株からなるSURFAce Receptor (SURFAR) プラットフォームについて述べる。このプラットフォームは、環境試料から多様なファージを濃縮・単離するためにも利用でき、廃水から新規ファージゲノムを得ることが可能である。SURFARプラットフォームを用いて、鞭毛と保存されたLPS外核の両方を標的とするDalewoodと、カルバペネム耐性を持つ一部の臨床分離株の増殖を抑制できるバイオフィルム標的ファージであるBowmanという、2種類の新規ファージを単離・特性解析した。本ツールは、P. aeruginosaの既知のファージ受容体およびファージのレパートリーを拡充することを目的として、手間はかかるが重要なファージ受容体特性解析の標準化に寄与するものである。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "バクテリオファージは、薬剤耐性感染症の治療における抗生物質の代替手段としての可能性から、ますます注目を集めている。ファージステアリング、特に受容体ベースのステアリングでは、細菌の耐性獲得を適応度の低下といった表現型へと偏らせるファージが用いられる。ファージ療法では通常、耐性出現の可能性を低減するため、異なる標的を持つファージのカクテルを投与する。効果的なステアリングとカクテル設計を実現するためには、目的とするファージが利用する受容体を同定し、多様な受容体を利用するファージを単離する必要がある。本報では、ファージ受容体の迅速な特性解析を目的として、定義されたPseudomonas aeruginosa株および変異株のセットからなるSURFAce Receptor (SURFAR) プラットフォームについて述べる。このプラットフォームは、環境試料から多様なファージを濃縮・単離するためにも利用でき、廃水から新規のファージゲノムを得ることが可能である。SURFARプラットフォームを用いて、鞭毛と保存されたLPS外核の両方を標的とするDalewoodと、カルバペネム耐性を持つ一部の臨床分離株の増殖を抑制できるバイオフィルム標的ファージであるBowmanという、2種類の新規ファージを単離・特性解析した。本ツールは、P. aeruginosaの既知のファージ受容体およびファージのレパートリーを拡充することを目的として、手間はかかるが重要なファージ受容体特性解析の標準化に寄与するものである。"
   },
   {
     "id": "10.64898/2026.10.30.762766",
@@ -196814,5 +196853,154 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ブラジルの敗血症性免疫不全患者から分離されたCandidatus Pannonibacter alzirae sp. nov.",
     "abstract_ja": "Pannonibacter属菌は非発酵性のグラム陰性菌であり、主に免疫不全患者におけるヒト感染症の症例が稀に報告されている。本報では、ブラジルの急性リンパ性白血病小児患者における菌血症エピソードから分離された新規Pannonibacter属菌のゲノムおよび表現型特性解析について報告する。MALDI-TOF質量分析法および16SリボソームRNA遺伝子シーケンシングによる分離株（以下、CBAS 1226と命名）の初期特性解析の結果、本菌はPannonibacter sp.であり、P. phragmitetusに最も近縁であることが同定された。しかし、MALDI-TOFスペクトルを市販のリファレンスライブラリと比較したところ、P. phragmitetusの5つの主要なスペクトルプロファイルのうち、適合するものは2つのみであった。この不一致から、CBAS 1226の包括的なゲノム、生化学、形態学的、および薬剤耐性プロファイリングを実施することとなった。ゲノム解析の結果、Pannonibacter sp. CBAS 1226はP. phragmitetusおよび他の既知種とは系統的に異なり、ANIおよびdDDH値が種の境界閾値を下回っていることから、Candidatus Pannonibacter alziraeとしての提唱を支持する結果が得られた。本菌は、近縁種であるP. phragmitetusおよびP. indicusと同様に、血液寒天培地上に小型の非溶血性灰白色コロニーを形成する。表現型的には、-および{beta}-グルコシダーゼ活性が陽性であり、クエン酸、L-プロリン、および2-ケトグルタル酸を利用する点で区別される。アルカリホスファターゼ活性は陰性であり、D-フルクトース、D-メリビオース、エスクリン、またはL-アルギニンを利用することはできない。本分離株は{beta}-ラクタム系薬剤に対して高いMICを示した一方、カルバペネム系およびフルオロキノロン系薬剤では低いMICを示した。本分離株はバイオフィルムを形成可能であり、アルカリ性条件、広範な温度範囲、および異なる酸素濃度に耐性を示す。総じて、本報告は、特異な細菌感染症を解明するためのプロテオミクスおよびゲノミクスに基づく追加的アプローチの重要性を強調するとともに、明確な特徴を持ち、日和見感染症を引き起こす可能性のある新規Pannonibacter属菌について記述するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765320",
+    "title": "Ultra-small bacteria and their phages discovered through metagenomics in a sub-arctic degrading permafrost ecosystem",
+    "abstract": "Patescibacteriota is a diverse bacterial phylum characterized by ultra-small cell size, streamlined genome, incomplete metabolism and episymbiotic lifestyle. While Patescibacteriota have been detected across a wide range of ecosystem types, their phages are not widely described. We utilized metagenomics to explore these less characterized parts of the microbiome in a sporadic permafrost ecosystem, with samples from palsa and peat soils, small ponds and streams. We retrieved 33 high-quality metagenome assembled genomes (MAGs) of Patescibacteriota, mainly from the classes Minisyncoccia and Saccharimonadia. Minisyncoccia was a dominant class in the thawing soils and thaw ponds, whereas the Saccharimonadia was more abundant in the frozen palsa soil layers. The distribution of the Patescibacteria classes was also reflected in their metabolic potential. For example, gluconeogenesis pathway was complete only in MAGs from the class Minisyncoccia, whereas cytochrome o ubiquinol oxidase was mainly found from the MAGs of the class Saccharimondia. The viral community analysis yielded 16 354 viral operational taxonomic units (vOTUs), which represented mainly tailed dsDNA viruses from the class Caudoviricetes. Based on genome size, 16 vOTUs were qualified as jumbophages and one as a megaphage. Similar to the bacterial community, the viral community composition differed across sample types. The most common hosts for bacterial viruses were phyla Pseudomonadota, Acidobacteriota and Actinomycetota. A further 196 vOTUs were in silico linked to Patescibacteriota hosts. The Patescibacteriota phages were diverse, with only two vOTUs representing the same genus. The relative abundance of Patescibacteriota-associated phages was especially high in frozen palsa soils, largely following the same pattern of abundance as Patescibacteriota.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765320",
+    "date": "2026-11-13",
+    "authors": "Tuomela, N., Demina, T., Thomas, D. N., Kaartokallio, H., Hultman, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765320v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome",
+        "metagenomics",
+        "microbiome",
+        "phage",
+        "phages",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4393,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765320"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e657cd611845b76f1f7b9d41cb0a9b7817ba6381fb57b9f0546e929d69b6b165",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:28:33.412660+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1e92fee61a7ff3624db77d3054416e89ea06cd242c4813d5ceeb55bed0af8c7f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:28:33.412660+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "亜寒帯劣化永久凍土生態系におけるメタゲノム解析により発見された超小型細菌とそのファージ",
+    "abstract_ja": "Patescibacteriotaは、超小型の細胞サイズ、効率化されたゲノム、不完全な代謝、およびエピ共生的な生活様式を特徴とする多様な細菌門である。Patescibacteriotaは幅広い生態系タイプで検出されているが、そのファージについては十分に記述されていない。本研究では、メタゲノミクスを用いて、パルサおよび泥炭土壌、小規模な池や河川のサンプルからなる散在的な永久凍土生態系における、これら特性が十分に解明されていないマイクロバイオームの領域を探索した。その結果、主にMinisyncoccia綱およびSaccharimonadia綱から、Patescibacteriotaの高品質なメタゲノムアセンブルゲノム（MAG）を33件取得した。Minisyncocchia綱は融解しつつある土壌や融解池において優占的な綱であった一方、Saccharimonadia綱は凍結したパルサ土壌層においてより豊富に存在していた。Patescibacteria綱の分布は、その代謝能にも反映されていた。例えば、糖新生経路はMinisyncocchia綱のMAGにおいてのみ完結していたのに対し、シトクロムo-ユビキノールオキシダーゼは主にSaccharimondia綱のMAGに認められた。ウイルス群集解析の結果、16,354個のウイルス運用分類単位（vOTU）が同定され、これらは主にCaudoviricetes綱の尾部を持つdsDNAウイルスであった。ゲノムサイズに基づき、16個のvOTUがジャンボファージとして、1個がメガファージとして分類された。細菌群集と同様に、ウイルス群集の組成もサンプルタイプによって異なっていた。細菌ウイルスの最も一般的な宿主は、Pseudomonadota門、Acidobacteriota門、およびActinomycetota門であった。さらに196個のvOTUがin silicoでPatescibacteriotaの宿主に関連付けられた。Patescibacteriotaのファージは多様であり、同一属を代表するvOTUはわずか2個であった。Patescibacteriota関連ファージの相対的な存在量は凍結パルサ土壌において特に高く、その存在量は概ねPatescibacteriotaと同様のパターンを示していた。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765866",
+    "title": "Virucidal Star Polymer Disrupts Alphavirus Infection in Aedes Mosquitoes",
+    "abstract": "Mosquito-borne alphaviruses represent an increasing global health threat, yet there are currently no antiviral interventions capable of targeting both the vertebrate host and mosquito vector. Here, we investigated the antiviral potential of the heparan sulfate proteoglycan-mimicking zwitterionic polymer ZP12 against alphavirus infection in Aedes aegypti mosquitoes. ZP12 exhibited potent antiviral and virucidal activity against Ross River virus (RRV) and Semliki Forest virus (SFV) in C6/36 mosquito cells. Antiviral activity was retained in ex vivo mosquito gut cultures, where both high (100 g/mL) and low (0.5 g/mL) concentrations significantly reduced RRV replication, with viral titres reduced by up to five orders of magnitude at peak infection. Delayed-treatment studies demonstrated that ZP12 retained antiviral activity after infection had been initiated, although efficacy declined as treatment was delayed. To evaluate prophylactic delivery, mosquitoes were exposed to ZP12 through sugar feeding prior to viral challenge. While this approach did not directly protect against subsequent gut infection, follow-up experiments demonstrated that ZP12 remained biologically active within the mosquito, suggesting that limited delivery to the midgut rather than loss of antiviral activity restricted efficacy. Collectively, these findings demonstrate that ZP12 is a potent antiviral and virucidal agent against alphaviruses in mosquito cells and tissues and supports its further development as a transmission-blocking strategy for arboviral control.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765866",
+    "date": "2026-11-13",
+    "authors": "Macleod, S.-L., Van Langendonck, M., Rase, N., Rosales-Rosas, A. L., Jones, S. T., Delang, L.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765866v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4394,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765866"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6d2ea5bd5cf681ef551433d16bbbb852002f6d28a0f4527e9f0aca31b329aa3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:28:33.412660+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "49b39d87bc5e9e225d897fa9c8e3086da8e42be049d94a7eb14e7bcc90f2d155",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:28:33.412660+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウイルス殺傷性星状高分子がヤブカのアルファウイルス感染を阻害する",
+    "abstract_ja": "蚊媒介性アルファウイルスは世界的に健康上の脅威となりつつあるが、脊椎動物宿主と蚊媒介者の双方を標的にできる抗ウイルス介入策は現在のところ存在しない。本研究では、ネッタイシマカにおけるアルファウイルス感染に対する、ヘパラン硫酸プロテオグリカン模倣型双性イオンポリマーZP12の抗ウイルス能を検討した。ZP12は、C6/36蚊細胞において、ロスリバーウイルス（RRV）およびセムリキフォレストウイルス（SFV）に対して強力な抗ウイルス活性およびウイルス殺傷活性を示した。抗ウイルス活性はex vivoの蚊腸管培養においても維持され、高濃度（100 g/mL）および低濃度（0.5 g/mL）のいずれにおいてもRRVの複製が有意に抑制され、感染ピーク時にはウイルス力価が最大5桁低下した。遅延投与試験では、感染開始後もZP12が抗ウイルス活性を維持することが示されたが、投与が遅れるにつれて有効性は低下した。予防的送達を評価するため、ウイルスチャレンジ前の糖給餌により蚊にZP12を曝露させた。この手法はその後の腸管感染を直接的に防ぐものではなかったが、追跡実験によりZP12が蚊の体内で生物学的に活性な状態を維持していることが示され、抗ウイルス活性の喪失ではなく、中腸への限定的な送達が有効性を制限していることが示唆された。総じて、これらの知見は、ZP12が蚊の細胞および組織においてアルファウイルスに対する強力な抗ウイルス・ウイルス殺傷剤であることを実証するものであり、アルボウイルス制御のための伝播遮断戦略としてのさらなる開発を支持するものである。"
   }
 ]
