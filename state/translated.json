@@ -184313,5 +184313,329 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "機能的細胞スクリーニングのための懸濁型マイクロコンパートメントの大規模並列自己組織化",
     "abstract_ja": "現代の生物学では、単一細胞および細胞間相互作用を大規模に区画化・解析できるプラットフォームへの需要が高まっているが、マイクロ流体工学に基づく既存の区画化戦略には重大な限界がある。ナノバイアルなどの新興のラボ・オン・ア・パーティクル技術は、アンカー化された単一細胞や少数の細胞群を、標準的な機器を用いて完全に懸濁・並列化した状態で単離・アッセイすることを可能にするが、その開放型構造により、増殖中または未固定の細胞が失われる可能性がある。本報では、ボウル状のナノバイアルに球状のキャッピング粒子をドッキングさせて形成される自己組織化ハイドロゲル区画である「キャッピング・ナノバイアル」を提案する。我々は、フローサイトメトリーにより、サンプル中の全ナノバイアルの80%超のキャッピングと90%超のソーティング収率を日常的に達成しており、このキャッピング・ナノバイアルシステムは大規模なアッセイの調製および実施に極めて適している。さらに、単一の哺乳類、酵母、および細菌細胞の安定したクローン増殖、10,000個を超えるコロニーの増殖ベースの選別、分泌アッセイにおけるシグナル対ノイズ比の向上、および共封止されたT細胞レポーターの活性化に基づく抗体分泌細胞の高純度選別（30倍以上のシグナル、最大100%の選別純度）を実証する。ウェルプレートの簡便さと、オイルや専用機器を必要としないドロップレットマイクロ流体工学の機能的精度を組み合わせることで、キャッピング・ナノバイアルは、簡便でハイスループットかつ高解像度な実験を実現する。"
+  },
+  {
+    "id": "10.1093/nar/gkag992",
+    "title": "Cell-free expression and NGS-powered substrate profiling reveal a thermostable metagenomic meganuclease from an extreme environment with novel specificity",
+    "abstract": "AbstractAs an alternative to historical enzyme isolation, metagenomic databases (e.g. MGnify) provide information on vast unculturable microbial diversity, including extreme environments, and constitute an enormous source of functional proteins. Conservative mining of these data by close sequence homology alone tends to identify merely different versions of known enzymes. Here we present a discovery strategy for meganucleases based on wider capture of less homologous enzymes in metagenomic databases, and incorporating metadata with their homology. We use cell-free expression to bypass host incompatibility and the need for purification, along with deep sequencing for experimental assessment of substrate specificity and cleavage pattern, thereby circumventing classical gel-based profiling. Specifically, we discovered the temperature-stable (>55°C), intron-encoded LAGLIDADG meganuclease I-MG11 that recognizes a GC-rich 17 base pair sequence to generate 4-nt palindromic 3′-overhangs—the first monomeric meganuclease to produce such overhangs. Co-folding models of I-MG11 bound to DNA provide a structural context for enzyme–DNA interactions, highlighting differences from other monomeric LAGLIDADG meganucleases (e.g. I-SceI) shaped by InDels (insertion–deletions) in the DNA-binding region that may cause specificity changes. Our strategy streamlines general bona fide identification and annotation of meganucleases, while the unique properties of I-MG11 expand the toolbox of molecular genome engineering.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag992",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag992/9026655?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2105,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag992"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4cc3ca96e33c47908b4465be3509be6c66d3bf3c364c1f607ae4b7a2bcfb18d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:27:07.843300+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "385360138b1cb6b9d39a9943482500a0bb13529b2c58624a3408be9304431ef4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:27:07.843300+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞外発現とNGSを用いた基質プロファイリングにより、新規特異性を有する極限環境由来の耐熱性メタゲノムメガヌクレアーゼが明らかになった。",
+    "abstract_ja": "要旨 従来の酵素単離に代わる手法として、メタゲノムデータベース（例：MGnify）は、極限環境を含む培養不可能な膨大な微生物多様性に関する情報を提供しており、機能性タンパク質の極めて貴重な供給源となっている。近接配列相同性のみを用いたこれらのデータの保守的なマイニングでは、既知酵素の単なる異なる形態が同定される傾向にある。本報では、メタゲノムデータベースにおける相同性の低い酵素をより広範に捕捉し、それらの相同性とともにメタデータを組み込むという、メガヌクレアーゼの探索戦略を提案する。我々は、宿主不適合性や精製の必要性を回避するためにセルフリー発現を用い、さらに基質特異性や切断パターンの実験的評価にディープシーケンシングを組み合わせることで、従来のゲルベースのプロファイリングを回避した。具体的には、GCリッチな17塩基対配列を認識して4塩基の回文構造3′オーバーハングを生成する、温度安定性（>55°C）のイントロン符号化LAGLIDADGメガヌクレアーゼI-MG11を発見した。これは、このようなオーバーハングを生成する初の単量体メガヌクレアーゼである。DNAに結合したI-MG11の共フォールディングモデルは、酵素-DNA相互作用の構造的背景を提供し、特異性の変化を引き起こし得るDNA結合領域のInDel（挿入・欠失）によって形成される、他の単量体LAGLIDADGメガヌクレアーゼ（例：I-SceI）との違いを浮き彫りにする。本戦略は、メガヌクレアーゼの一般的な真正同定およびアノテーションを効率化すると同時に、I-MG11の独自の特性は分子ゲノム工学のツールボックスを拡充するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0361965",
+    "title": "A Baltic Sea microbiome-derived Type III polyketide synthase produces host-protective alkylresorcinols in E. coli.",
+    "abstract": "Marine microorganisms are a prolific source of novel polyketide synthases (PKSs) that generate structurally diverse and functional polyketides. Here, we identify a novel type III PKS, ArsMB, from Pontimonas sp. via metagenomic mining of a Baltic Sea microbiome. Heterologous expression of arsMB synthetic gene in an Escherichia coli host that lacks a native type III PKS, combined with a two-step strategy to boost acyl-CoA precursor availability in a glucose-mineral medium, enabled the in vivo synthesis of two cell-associated alkylresorcinols, identified by GC-MS as 5-pentadecyl-1,3-benzenediol (ars1) and 5-tridecyl-1,3-benzenediol (ars2). The product profile is consistent with a tetraketide alkylresorcinol biosynthetic pathway utilizing C16 and C14 acyl starter units, drawn from the host acyl-CoA pool. In agreement, AlphaFold2-based structural modeling predicts a Cys139/His275/Asn308 catalytic triad and a long hydrophobic substrate tunnel compatible with long-chain acyl starter units. E. coli producing the amphipathic cell-associated alkylresorcinols ars1/ars2 exhibited increased resistance to muralytic digestion by endolysins and to hydrogen peroxide. These findings expand the known repertoire of marine-derived type III PKSs and highlight the biotechnological potential of ArsMB-derived alkylresorcinols.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0361965",
+    "date": "2026-11-03",
+    "authors": "López-Gutiérrez S, Espinosa-Barrera LA, Soto-Hernández A, Zuleta-Prada H, Bustos-Brito C, Cardona-Félix CS, Utrilla J, Velazquez-Cruz B, Cárdenas-Conejo Y, Araujo-León JA, Aguilar-Hernández V, Osuna-Castro JA, Esquivel B, Serrano-Posada H, Centeno-Leija S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42976166",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13730376",
+    "pmid": "42976166",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "metagenom",
+        "metagenomic",
+        "microbiome",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 411,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0361965"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e60b9e83933941f7b6cd98a6b874ddf605a2806c69d6303d63b180cee018301a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:27:07.843300+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "212c27122b4bdf94667042a79397054383b38cfaaf6137078784cb237e13e760",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:27:07.843300+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バルト海の微生物叢由来のIII型ポリケチド合成酵素は、大腸菌において宿主保護性アルキルレゾルシノールを産生する。",
+    "abstract_ja": "海洋微生物は、構造的に多様で機能的なポリケチドを生成する新規ポリケチド合成酵素（PKS）の豊富な供給源である。本研究では、バルト海マイクロバイオームのメタゲノムマイニングにより、Pontimonas sp.由来の新規III型PKSであるArsMBを同定した。天然のIII型PKSを欠くEscherichia coli宿主におけるarsMB合成遺伝子の異種発現と、グルコース・ミネラル培地中のアシルCoA前駆体の利用可能性を高める2段階戦略を組み合わせることで、2種類の細胞結合型アルキルレゾルシノール（GC-MSにより5-ペンタデシル-1,3-ベンゼンジオール（ars1）および5-トリデシル-1,3-ベンゼンジオール（ars2）と同定）のin vivo合成が可能となった。生成物プロファイルは、宿主のアシルCoAプールから取り出されたC16およびC14アシルスターターユニットを利用するテトラケチドアルキルレゾルシノール生合成経路と一致している。これと一致して、AlphaFold2に基づく構造モデリングでは、Cys139/His275/Asn308の触媒三元構造と、長鎖アシルスターターユニットに適合する長い疎水性基質トンネルが予測された。両親媒性の細胞結合型アルキルレゾルシノールars1/ars2を産生するE. coliは、エンドリシンによるムラリシス消化および過酸化水素に対する耐性の向上を示した。これらの知見は、海洋由来III型PKSの既知のレパートリーを拡充するものであり、ArsMB由来アルキルレゾルシノールのバイオテクノロジー上の可能性を浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2615743123",
+    "title": "Scaling laws link conserved gene-abundance distributions to adaptive expression in diatom communities worldwide.",
+    "abstract": "Marine microbes sustain Earth's major biogeochemical cycles, yet how they maintain stable ecosystem functions across diverse environments remains unclear. We analyzed metagenomic and metatranscriptomic data from diatom communities sampled during the Tara Oceans global expedition. While gene abundance distributions remain statistically similar across sample, gene expression varies systematically across geographical locations, a global pattern we show reflects predictable scaling laws. Global distributions, scaling relationships, and variability among sampling stations are captured by a stochastic model linking gene abundance dynamics to gene expression. While colder waters are associated with higher transcriptional activity and warmer regions show more selective gene usage, we find that transcript abundance increases nonlinearly with transcript richness. This general scaling is captured by our model and suggests that diatom communities balance high expression of core genes with specific functional diversity. These scaling relationships hold consistently across ocean basins, with temperature, used as an effective large-scale environmental descriptor whose signature cannot be fully disentangled from spatial structure, sufficing to predict transcriptional patterns from genetic composition. Our findings reveal how the stability of gene-abundance structure in diatom ecosystems coexists with transcriptional variability, enabling flexible functional responses.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2615743123",
+    "date": "2026-10-28",
+    "authors": "Pigani E, Simoens K, Bernardi D, Campese L, Iudicone D, Azaele S, Suweis S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949970",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42949970",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatom",
+        "diatom",
+        "metagenom",
+        "metagenomic",
+        "metatranscriptom",
+        "metatranscriptomic",
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 111,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2615743123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "34a8400b4bf24d9ce315adfd224b713dcd1fb2eef515906720011ba7b043b27d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:27:07.843300+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d486d1893e580fdb81ea3b2b36b2a9cc64c90958df272ae6d014e50e240fd59b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:27:07.843300+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "スケーリング則は、世界中の珪藻群集において、保存された遺伝子存在量分布と適応的発現を結びつけている。",
+    "abstract_ja": "海洋微生物は地球の主要な生物地球化学的循環を維持しているが、多様な環境においていかにして安定した生態系機能を維持しているのかは依然として不明である。我々は、Tara Oceans全球探査で採取された珪藻群集のメタゲノムおよびメタトランスクリプトームデータを解析した。遺伝子存在量の分布はサンプル間で統計的に類似しているものの、遺伝子発現は地理的な場所によって系統的に異なっており、この全球的なパターンは予測可能なスケーリング則を反映していることが示された。全球的な分布、スケーリング関係、および採取地点間の変動は、遺伝子存在量の動態と遺伝子発現を結びつける確率モデルによって捉えられる。低温域では転写活性が高く、温暖な領域ではより選択的な遺伝子利用が見られる一方で、転写産物の存在量は転写産物の豊富さに対して非線形に増加することがわかった。この一般的なスケーリングは我々のモデルによって捉えられており、珪藻群集がコア遺伝子の高い発現と特定の機能的多様性とのバランスを保っていることを示唆している。これらのスケーリング関係は海洋盆間で一貫して認められ、温度は空間構造から完全に切り離すことのできない有効な大規模環境記述子として機能し、遺伝的組成から転写パターンを予測するのに十分である。本研究の知見は、珪藻生態系における遺伝子存在量構造の安定性が転写変動と共存し、柔軟な機能的応答を可能にしていることを明らかにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aed4599",
+    "title": "Stony coral symbioses show variable responses to future ocean conditions.",
+    "abstract": "Coral reefs support over a quarter of marine species and nearly a billion people worldwide but are also among the ecosystems most threatened by anthropogenic impacts. There is long-standing debate about whether coral symbioses will be disrupted or respond adaptively under future ocean conditions. Using a factorial 2.5-year future-ocean mesocosm experiment across eight coral species representing the major coral lineages, we tracked symbiont community shifts within replicate fragments from the same individual coral. Some corals exhibited stochastic divergence, whereas others showed deterministic shifts in symbiont community composition. Heat stress generally reduced symbiont diversity and promoted predictable restructuring, consistent with deterministic adaptation to moderate thermal stress but stochastic accumulation of diversity under extreme conditions. We propose that adaptive and stochastic responses represent endpoints along a continuum of host-orchestrated symbiont sorting. This study bridges coral reef ecology with broader host-microbiome theory, offering an integrated perspective on how symbiotic systems may respond to environmental change.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aed4599",
+    "date": "2026-11-04",
+    "authors": "de Souza MR, Bruce J, Cros A, Jury CP, Drury C, Toonen RJ.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981424",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13733888",
+    "pmid": "42981424",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2176,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1126/sciadv.aed4599"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1d82110bb1729c6c45af1d0862dc15658cf758566e95e551d70804d7f1a33f2b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:27:07.843300+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e51001f4f9b436b1cbf1df6c070e32fb5241d29f8d642704354b3c5315bf26c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:27:07.843300+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "石サンゴの共生体は、将来の海洋環境に対して多様な反応を示す。",
+    "abstract_ja": "サンゴ礁は世界全体で海洋生物種の4分の1以上と10億人近い人々を支えているが、同時に人為的影響によって最も脅威にさらされている生態系の一つでもある。将来の海洋環境において、サンゴの共生関係が攪乱されるのか、あるいは適応的に応答するのかについては、長年議論が続いてきた。主要なサンゴ系統を代表する8種のサンゴを用い、2.5年間にわたる因子実験形式の将来海洋メソコスム実験を行うことで、同一個体のサンゴから得られた反復断片内における共生生物群集の変化を追跡した。一部のサンゴでは確率的な分岐が見られた一方、他のサンゴでは共生生物群集組成の決定論的な変化が認められた。熱ストレスは一般に共生生物の多様性を低下させ、予測可能な再構成を促進した。これは中程度の熱ストレスに対する決定論的な適応と、極限条件下における多様性の確率的な蓄積と整合している。我々は、適応的応答と確率的応答が、宿主主導の共生生物選別という連続体上の終着点を表していると提唱する。本研究は、サンゴ礁生態学をより広範な宿主マイクロバイオーム理論と結びつけるものであり、共生系が環境変化にどのように応答し得るかについて、統合的な視点を提供するものである。"
   }
 ]
