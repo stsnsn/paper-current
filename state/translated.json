@@ -174666,5 +174666,339 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "汎用的な予測のためのオープンな構造ガイド型RNA基盤モデル。",
     "abstract_ja": "RNA言語モデルは、大規模な配列データを活用することで、多様なダウンストリームタスクにおいて高い性能を実現してきた。しかし、RNAの機能は本質的に階層構造によって規定されるため、事前学習において構造情報は重要となる。既存の手法は、ノイズの多いアノテーションやタスク固有の目的に依存することが多く、それが汎化性能を制限する要因となり得る。本研究では、ペアマッチング操作を通じて塩基対相互作用をマスク言語モデリングに統合し、2,100万組のRNA配列・構造ペアで学習させた構造ガイド型RNA基盤モデル「structRFM」を提案する。また、予測器バイアスを軽減するために設計された多ソース二次構造アンサンブル「MUSEs」と、構造ガイド型マスキングとヌクレオチドレベルのマスキングのバランスを取る動的マスキング比を導入する。structRFMは、広範なダウンストリーム適応のため、配列レベル、ヌクレオチドレベル、およびペアワイズ特徴量として、配列と構造の結合表現を学習する。本モデルはゼロショット相同性分類において高い性能を示し、二次構造予測の新たなベンチマークを確立した。三次構造適応手法であるZfoldは、三次元予測とその抽出された二次構造の双方を一貫して改善し、CASP15-natural、CASP16、およびRNA-PuzzlesにおいてAlphaFold31に匹敵する性能を示した。さらに、structRFMは機能予測タスクにおいても性能を向上させ、新たに公開されたRNAファミリーや長鎖非コードRNAへの汎化も示した。これらの結果を総合すると、構造ガイド型事前学習の有効性が実証されるとともに、頑健な構造・機能推論のためのマルチモーダルRNA言語モデルの重要性が浮き彫りとなった。マルチモーダルRNA基盤モデルの開発を支援するため、2,100万ペアの完全なデータセット、モデル重み、およびソースコードを公開している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1980205",
+    "title": "Seasonal community structure and environmental associations of putative pathogenic microorganisms in the Shelf-Margin Sea of the Northwestern South China Sea.",
+    "abstract": "Marine pathogenic microorganisms are crucial to ecological health and fishery aquaculture. However, the composition and influencing drivers for pathogenic microorganisms in the Shelf-Margin Sea of the Northwestern South China Sea (SMS-NWSCS) are still unclear. This study applied 16S rRNA and ITS gene high-throughput sequencing combined with multiple bacterial pathogen detection (MBPD) and FUNGuild database to explore putative pathogenic microorganisms in the SMS-NWSCS and to investigate the main environmental associations of the composition, diversity, complexity and stability of putative pathogenic microbial communities. Results showed that Escherichia coli (31.77%), Pseudomonas fluorescens (16.25%) and Sphingomonas paucimobilis (6.90%) were dominant putative pathogenic bacteria, while Pseudozyma sp. (48.36%) and Malassezia globosa (48.34%) dominated the putative pathogenic fungal communities. The putative pathogenic bacterial community exhibited higher alpha diversity in winter, while the fungal community showed greater alpha diversity in summer. Beta diversity analysis revealed significant seasonal dynamics in both putative pathogenic bacterial and fungal communities (bacteria: R2 = 0.12, p = 0.001; fungi: R2 = 0.08, p = 0.007). Spearman's correlation analysis suggested that a suite of environmental factors, including temperature, pH, DO, Chla and nutrients, played significant roles in influencing putative pathogenic microbial community structure. PLS-PM analysis demonstrated that bacterial alpha diversity was positively associated with community complexity (R2 = 0.10, p 2 = 0.45, p 2 = 0.10, p 2 = 0.21, p < 0.001) showed positive correlations with the stability of the putative pathogenic fungal community. Our study reveals the seasonal patterns of putative pathogenic microorganisms in the SMS-NWSCS and enhances the understanding of their community maintenance mechanisms.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1980205",
+    "date": "2026-10-26",
+    "authors": "Deng X, Chen Q, Ferdoush J, Huang C, Tang Y, Zhang G, Zhu Y, Jiang G, Dong K, Li N, Huang L.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005204",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13745369",
+    "pmid": "43005204",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Escherichia",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 4159,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1980205"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f9569eb6c41cd0875679d85af5588b791b086bbdd38b65051e21761e8aeece64",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:24:57.584308+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d5a56a471f402545c25086182780314afd0cf019a0d89c6985b49416fd66de37",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:24:57.584308+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "南シナ海北西部の棚縁海における、病原性が推定される微生物の季節的な群集構造と環境関連性",
+    "abstract_ja": "海洋病原微生物は、生態系の健全性と漁業養殖において極めて重要である。しかし、南中国海北西部棚縁海（SMS-NWSCS）における病原微生物の組成および影響要因については、依然として明らかになっていない。本研究では、16S rRNAおよびITS遺伝子のハイスループットシーケンシングに、多重細菌病原体検出（MBPD）およびFUNGuildデータベースを組み合わせて適用し、SMS-NWSCSにおける推定病原微生物の探索を行うとともに、推定病原微生物群集の組成、多様性、複雑性、および安定性の主要な環境関連性を調査した。その結果、推定病原細菌としてはEscherichia coli（31.77%）、Pseudomonas fluorescens（16.25%）、およびSphingomonas paucimobilis（6.90%）が優占し、推定病原真菌群集ではPseudozyma sp.（48.36%）およびMalassezia globosa（48.34%）が優占していた。推定病原細菌群集は冬季に高いα多様性を示した一方、真菌群集は夏季に高いα多様性を示した。β多様性解析の結果、推定病原細菌群集および真菌群集の双方において有意な季節変動が認められた（細菌：R2 = 0.12, p = 0.001；真菌：R2 = 0.08, p = 0.007）。スピアマンの相関分析により、温度、pH、DO、Chla、および栄養塩を含む一連の環境要因が、推定病原微生物群集構造に影響を与える上で重要な役割を果たしていることが示唆された。PLS-PM解析では、細菌のα多様性が群集の複雑性と正の相関を示し（R2 = 0.10, p 2 = 0.45, p 2 = 0.10, p 2 = 0.21, p < 0.001）、推定病原真菌群集の安定性とも正の相関を示した。本研究は、SMS-NWSCSにおける推定病原微生物の季節的パターンを明らかにし、それらの群集維持メカニズムに関する理解を深めるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01961-26",
+    "title": "Integrated epidemiological and genomic characterization of respiratory bovine coronavirus in U.S. cattle 2020-2025.",
+    "abstract": "Bovine coronavirus (BCoV) is an important contributor to the respiratory disease complex in cattle; however, integrated genomic and epidemiological data describing currently circulating respiratory BCoV strains in the United States remain limited. The objective of this study was to monitor respiratory BCoV at the genomic level and analyze its epidemiological patterns over five years, in addition to assess the pathological findings of the currently circulating BCoV in cattle. A total of 4,505 respiratory samples submitted to a diagnostic laboratory between January 2020 and November 2025 were analyzed, of which 693 (15.38%) tested positive for BCoV. Positivity was highest in young calves (0-40 days; 20.0%) and declined significantly with increasing age based on logistic regression analysis. Temporal trend analysis using locally estimated scatterplot smoothing and the Mann-Kendall test showed no significant monotonic change in BCoV detection during the study period. Co-infections were commonly detected between BCoV and other viral respiratory pathogens, while bacterial pathogens predominated in many samples. Lung tissues submitted from bovine respiratory cases were screened by qRT-PCR, and selected samples with high viral loads were subjected to next-generation sequencing. Complete genome sequencing identified four respiratory BCoV isolates (~31 kb), all clustering within genotype GIIb with recent U.S. strains. Comparative genomic analysis revealed amino acid substitutions in structural and non-structural proteins that may influence viral attachment, replication, and tissue tropism. These findings provide updated epidemiological and genomic insights into respiratory BCoV circulating in U.S. cattle.IMPORTANCEThis study demonstrates continued detection and genetic evolution of respiratory bovine coronavirus (BCoV) among diagnostic respiratory samples submitted from U.S. cattle, with 15.38% positivity observed among 4,505 submitted samples and a higher proportion of positive submissions from young calves. Whole-genome sequencing of lung-derived isolates revealed consistent clustering within genotype GIIb alongside ongoing molecular diversification, including amino acid substitutions in spike, hemagglutinin-esterase, nucleocapsid, and membrane proteins, and the emergence of a previously unrecognized putative alternative ORF near 4.8-kDa NSP. These findings highlight that respiratory BCoV is continuously evolving at the site of disease. The observed genetic changes provide critical targets to refine diagnostic assays, support updating of vaccine strains, inform antiviral development, and enable more effective, evidence-based management strategies for controlling respiratory BCoV in cattle, requiring potential experimental validation.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01961-26",
+    "date": "2026-10-23",
+    "authors": "Shah AU, Varga C, Gauger P, Hemida MG.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925059",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925059",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 528,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.01961-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1bb83684033a32ed59794c11bd7247a2b421fcc60ed15cb3dca852c1c3d345aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:24:57.584308+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a30204f3aae3eee70fd1ffb56cf19af0eb41f1253e5a95969ba580a5132c7f24",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:24:57.584308+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "米国の牛における呼吸器系ウシコロナウイルスの統合的な疫学的・ゲノム学的特性解析 2020-2025年",
+    "abstract_ja": "ウシコロナウイルス（BCoV）は、ウシの呼吸器疾患複合体の重要な要因であるが、米国で現在流行している呼吸器系BCoV株に関する統合的なゲノムおよび疫学データは依然として限られている。本研究の目的は、ウシにおいて現在流行しているBCoVの病理学的所見を評価するとともに、呼吸器系BCoVをゲノムレベルでモニタリングし、5年間にわたる疫学的パターンを解析することであった。2020年1月から2025年11月の間に診断検査機関に提出された計4,505検体の呼吸器検体を解析した結果、693検体（15.38%）がBCoV陽性であった。陽性率は若齢仔牛（0～40日；20.0%）で最も高く、ロジスティック回帰分析に基づくと、月齢の増加に伴い有意に低下した。局所推定散布図平滑化およびマン・ケンドール検定を用いた経時的傾向解析では、研究期間中のBCoV検出率に有意な単調変化は認められなかった。BCoVと他のウイルス性呼吸器病原体との共感染が一般的に検出された一方、多くの検体では細菌性病原体が優位であった。ウシ呼吸器疾患症例から提出された肺組織をqRT-PCRでスクリーニングし、ウイルス量の多い選定検体に対して次世代シーケンシングを実施した。全ゲノムシーケンシングにより、4株の呼吸器系BCoV分離株（約31 kb）が同定され、いずれも最近の米国株と同じ遺伝子型GIIbにクラスターを形成していた。比較ゲノム解析により、ウイルスの付着、複製、および組織指向性に影響を及ぼす可能性のある構造タンパク質および非構造タンパク質のアミノ酸置換が明らかになった。これらの知見は、米国のウシで流行している呼吸器系BCoVに関する最新の疫学的およびゲノム学的知見を提供するものである。重要性：本研究は、米国のウシから提出された呼吸器診断検体において、呼吸器系ウシコロナウイルス（BCoV）の検出が継続しており、遺伝的進化が進んでいることを示した。提出された4,505検体のうち15.38%が陽性であり、若齢仔牛からの陽性提出の割合が高かった。肺由来分離株の全ゲノムシーケンシングにより、スパイク、ヘマグルチニンエステラーゼ、ヌクレオカプシド、および膜タンパク質におけるアミノ酸置換や、4.8-kDa NSP近傍におけるこれまで認識されていなかった推定代替ORFの出現を含む、継続的な分子多様化とともに、遺伝子型GIIb内での一貫したクラスター形成が明らかになった。これらの知見は、呼吸器系BCoVが疾患発生部位において絶えず進化していることを浮き彫りにしている。観察された遺伝的変化は、診断アッセイの精緻化、ワクチン株の更新、抗ウイルス薬開発への情報提供、およびウシにおける呼吸器系BCoV制御のためのより効果的でエビデンスに基づいた管理戦略を可能にする重要な標的となり、潜在的な実験的検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msystems.00869-26",
+    "title": "Phylogeography of clinical <i>Burkholderia pseudomallei</i> isolates in Cambodia demonstrates diversity, broad dispersal, and novel genes.",
+    "abstract": "Burkholderia pseudomallei, the causative agent of melioidosis, is ubiquitous in Southeast Asia but remains understudied in many endemic countries. The species' high genetic diversity necessitates large-scale sampling to resolve fine-scale population structure. In countries bordering the Mekong River, the geographic range of B. pseudomallei strains may be increased by water-mediated dispersal. Between 2021 and 2023, we collected and sequenced 253 clinical B. pseudomallei isolates from patients admitted to six Cambodian hospitals and geotagged isolates by patient village. Isolates were genetically diverse and grouped into 11 clades, including one characterized by a chromosomal genomic island containing unique genes absent from other isolates, consistent with local evolution. Comparison with 3,234 publicly available global genomes revealed intermixing between Cambodian and other Southeast Asian isolates but clear distinction from Australian strains. Phylogeographic analyses further demonstrated spatial localization along major waterways, suggesting that river systems, including the Mekong, may contribute to bacterial dissemination in Cambodia. Taken together, these findings demonstrate the importance of localized data sets for contextualizing the population structure and evolution of this diverse pathogen in Southeast Asia.IMPORTANCEBurkholderia pseudomallei is a highly diverse bacterial species with genomic features that vary based on geographic sampling location. Existing data predominantly from Thailand show that isolates from Southeast Asia may be closely related to each other. Here, we sequenced isolates associated with human disease in Cambodia and compared these against genomes from public sequence repositories. We identified many distinct bacterial strains and found that some of these were localized either to the south or in the north of the country. We identified a unique group of genes in one cohort strain with putative roles in bacterial metabolism and genomic recombination. Finally, in a global phylogeny constructed from publicly available genomes, we found that Cambodian isolates intermixed with other Southeast Asian isolates. Our study is the largest genomic study of B. pseudomallei in Cambodia to date, with findings that contribute to the global understanding of the bacterium's diversity and evolution.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.00869-26",
+    "date": "2026-10-21",
+    "authors": "Yek C, Koch RE, Kim J, Oum M, Lay S, Chea S, Long L, Ly P, Phoch S, Chea S, Pacheco AR, Coster S, Barochia M, Ly S, Sath R, Srouen M, Bin C, Chak C, Seang S, Te V, Srey V, Lean K, Chhor B, Nhem S, Chiek S, Dork R, Zhan X, Clark AE, Sozhamannan S, Necciai BD, Manning JE, Seng H, Krang S, Ly S, Lon C, Greenberg DE.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904687",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904687",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 131,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msystems.00869-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "16790852d50dcdebabdd9276f92922215ad424148f1c459691e98b78189d982a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:24:57.584308+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c2df85c527b1d122b8ce2f3d449a9a0e8942ed1645e6ba7f98afe16af822ea1f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:24:57.584308+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カンボジアにおける臨床用<i>Burkholderia pseudomallei</i>分離株の系統地理学的解析により、多様性、広範な分布、および新規遺伝子の存在が明らかになった。",
+    "abstract_ja": "メリオイドーシスの原因菌であるBurkholderia pseudomalleiは、東南アジア全域に遍在しているが、多くの流行国において研究が進んでいない。本種の遺伝的多様性が高いため、詳細な集団構造を解明するには大規模なサンプリングが不可欠である。メコン川に接する国々では、水系を介した拡散によってB. pseudomallei株の地理的分布域が拡大している可能性がある。2021年から2023年にかけて、我々はカンボジアの6つの病院に入院した患者から253株の臨床分離株を採取・シーケンシングし、患者の居住村ごとにジオタグを付与した。分離株は遺伝的に多様であり、11のクレードに分類された。そのうち1つのクレードは、他の分離株には存在しない固有の遺伝子を含む染色体ゲノムアイランドを特徴としており、これは地域的な進化と一致していた。公開されている3,234件の全球ゲノムとの比較により、カンボジア株と他の東南アジア株との間に相互混合が認められたが、オーストラリア株とは明確な区別が認められた。系統地理学的解析では、主要な水路沿いに空間的な局在性が認められ、メコン川を含む河川系がカンボジアにおける細菌の拡散に寄与している可能性が示唆された。以上の知見を総合すると、東南アジアにおけるこの多様な病原体の集団構造と進化を文脈化する上で、局所的なデータセットが重要であることが示された。重要性Burkholderia pseudomalleiは極めて多様性に富んだ細菌種であり、ゲノム特性は地理的なサンプリング地点によって異なる。主にタイから得られた既存データは、東南アジアの分離株同士が密接に関連している可能性を示している。本研究では、カンボジアでヒト疾患に関連していた分離株をシーケンシングし、公開シーケンスリポジトリのゲノムと比較した。その結果、多くの異なる細菌株を同定し、それらの一部が国内の南部または北部に局在していることを見出した。また、あるコホート株において、細菌の代謝およびゲノム組換えに関与すると推定される固有の遺伝子群を同定した。最後に、公開されているゲノムから構築した全球系統樹において、カンボジア株が他の東南アジア株と相互混合していることが確認された。本研究は、カンボジアにおけるB. pseudomalleiのゲノム研究としてこれまでで最大規模のものであり、本細菌の多様性と進化に関する世界的な理解に寄与する知見を得た。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41586-026-11177-0",
+    "title": "Decoding the regulatory programs governing glioblastoma plasticity.",
+    "abstract": "Glioblastoma is incurable and resistant to therapy despite genomic stability under treatment1-8, suggesting that non-genetic cellular plasticity is a central driver of progression. Whether such plasticity reflects stochastic state switching or is governed by predictable gene regulation has remained unclear9-13. Here we introduce scDORI (single-cell deep multi-omic regulatory inference)-a deep-learning framework that infers enhancer-driven gene-regulatory networks at single-cell resolution-and apply it to single-nucleus multiome profiles of more than one million cells from primary glioblastomas. Integrating computational inference with systematic perturbation screens across patient-derived models, we show that a structured regulatory program with an asymmetric interplay of activators and repressors governs cellular plasticity in glioblastoma. The resulting transition landscape is hierarchical and predictable, but permits cross-lineage trajectories that are absent from normal neurodevelopment. Within this landscape, low-plasticity states such as the neuronal-like state are not stable differentiation end points but actively maintained configurations, stabilized by a network of safeguard repressors that silence alternative fates. We identify MYT1L as the dominant member of this network, and show that it binds to and represses master regulators of every alternative state to consolidate neuronal-like identity. MYT1L restricted plasticity even under standard-of-care therapy and suppressed tumour growth and invasion in vivo. Conversely, loss of MYT1L reactivated plasticity and accelerated malignant features, indicating that low-plasticity identity requires continuous repression. These findings reframe malignant cell state stability as a balance between activation and continuous repression, and nominate safeguard repressors as candidate therapeutic targets that are distinct from differentiation-inducing activators, with potential relevance across cancers in which phenotypic switching drives therapy resistance.",
+    "journal": "Nature",
+    "doi": "10.1038/s41586-026-11177-0",
+    "date": "2026-11-04",
+    "authors": "Saraswat M, Rueda-Gensini L, Heinzelmann E, Gracia T, Memi F, de Jong G, Straub J, Schloo C, Hoffmann DC, Jung E, Kindinger T, Masclef L, Weigel B, Lim B, Tuschmann F, Weil S, Gould O, Mair R, Mikulik K, Rohbeck M, Wick W, Winkler F, Bayraktar OA, Stegle O, Mall M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42983099",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42983099",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "inference"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2154,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41586-026-11177-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5dbf0dc05151b3c07a99211c6ff45ab6521a606d04ce14c446d2c7d115a5bd5d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:24:57.584308+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a3158bd23812ccb43d2d93b8cff2408ca9f1985a5f3b9144363be12b64ee6a30",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:24:57.584308+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "膠芽腫の可塑性を制御する調節プログラムの解明",
+    "abstract_ja": "膠芽腫は、治療下でのゲノム安定性にもかかわらず不治であり、治療抵抗性を示す1-8。このことは、非遺伝的な細胞可塑性が進行の中心的な駆動因子であることを示唆している。このような可塑性が確率的な状態切り替えを反映しているのか、あるいは予測可能な遺伝子調節によって制御されているのかは、依然として不明である9-13。本研究では、単一細胞解像度でエンハンサー駆動型の遺伝子調節ネットワークを推論する深層学習フレームワークであるscDORI（single-cell deep multi-omic regulatory inference）を導入し、原発性膠芽腫由来の100万個以上の細胞の単核マルチオームプロファイルに適用した。計算論的推論と、患者由来モデルを用いた系統的な摂動スクリーニングを統合することで、活性化因子と抑制因子の非対称な相互作用を伴う構造化された調節プログラムが、膠芽腫における細胞可塑性を制御していることを示した。その結果得られる遷移ランドスケープは階層的かつ予測可能であるが、正常な神経発達には見られない系統横断的な軌跡を許容する。このランドスケープにおいて、ニューロン様状態などの低可塑性状態は、安定した分化終着点ではなく、代替的な運命をサイレンシングするセーフガード抑制因子のネットワークによって安定化された、能動的に維持される構成である。我々はMYT1Lをこのネットワークの支配的な構成員として同定し、それがあらゆる代替状態のマスター調節因子に結合して抑制することで、ニューロン様のアイデンティティを強固にしていることを示した。MYT1Lは、標準治療下においても可塑性を制限し、in vivoで腫瘍の増殖および浸潤を抑制した。逆に、MYT1Lの欠損は可塑性を再活性化させ、悪性形質を加速させた。これは、低可塑性のアイデンティティに継続的な抑制が必要であることを示している。これらの知見は、悪性細胞状態の安定性を活性化と継続的な抑制のバランスとして再定義するものであり、セーフガード抑制因子を、分化誘導性活性化因子とは異なる治療標的候補として提示するとともに、表現型スイッチングが治療抵抗性を駆動するあらゆるがんにおいて関連性を持つ可能性を示している。"
   }
 ]
