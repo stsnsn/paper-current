@@ -343,6 +343,13 @@
     ]
   },
   {
+    "name": "Anatolian journal of cardiology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Angewandte Chemie (International ed. in English)",
     "scope": [
       "ecology",
@@ -679,6 +686,13 @@
     ]
   },
   {
+    "name": "Auris, nasus, larynx",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Autism : the international journal of research and practice",
     "scope": [
       "genomics",
@@ -957,6 +971,13 @@
     ]
   },
   {
+    "name": "Biophysical reviews",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Biophysics reports",
     "scope": [
       "genomics",
@@ -1133,6 +1154,13 @@
   },
   {
     "name": "BMC plant biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "BMC veterinary research",
     "scope": [
       "genomics",
       "microbiology"
@@ -1351,6 +1379,13 @@
     ]
   },
   {
+    "name": "Cancer science",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Cancer treatment and research communications",
     "scope": [
       "genomics",
@@ -1366,6 +1401,13 @@
   },
   {
     "name": "Cardiology in review",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Cardiology research and practice",
     "scope": [
       "genomics",
       "microbiology"
@@ -2143,6 +2185,13 @@
   },
   {
     "name": "Cyborg and bionic systems (Washington, D.C.)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Cytokine & growth factor reviews",
     "scope": [
       "genomics",
       "microbiology"
@@ -3391,6 +3440,13 @@
     ]
   },
   {
+    "name": "Infectious disorders drug targets",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
     "scope": [
       "genomics",
@@ -3838,6 +3894,7 @@
   {
     "name": "Journal de mycologie medicale",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -3917,6 +3974,13 @@
     "name": "The Journal of antibiotics",
     "scope": [
       "ecology",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "The Journal of antimicrobial chemotherapy",
+    "scope": [
+      "genomics",
       "microbiology"
     ]
   },
@@ -4601,6 +4665,14 @@
     ]
   },
   {
+    "name": "Journal of medicinal chemistry",
+    "scope": [
+      "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of microbiological methods",
     "scope": [
       "genomics",
@@ -4783,6 +4855,13 @@
     ]
   },
   {
+    "name": "Journal of pesticide science",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of pharmaceutical and biomedical analysis",
     "scope": [
       "genomics",
@@ -4903,6 +4982,13 @@
     ]
   },
   {
+    "name": "Journal of surgical oncology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of the American Chemical Society",
     "scope": [
       "genomics",
@@ -5009,6 +5095,13 @@
   },
   {
     "name": "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of veterinary internal medicine",
     "scope": [
       "genomics",
       "microbiology"
@@ -5168,6 +5261,13 @@
     "name": "Liver international : official journal of the International Association for the Study of the Liver",
     "scope": [
       "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Lung",
+    "scope": [
+      "ecology",
       "microbiology"
     ]
   },
@@ -6089,6 +6189,13 @@
     ]
   },
   {
+    "name": "Neuroscience letters",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Neuroscience research",
     "scope": [
       "genomics",
@@ -6173,6 +6280,13 @@
   },
   {
     "name": "Nutrition reviews",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Obesity surgery",
     "scope": [
       "genomics",
       "microbiology"
@@ -6817,6 +6931,13 @@
     ]
   },
   {
+    "name": "Psychiatry research",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Psychoneuroendocrinology",
     "scope": [
       "genomics",
@@ -6850,6 +6971,13 @@
   },
   {
     "name": "Rapid communications in mass spectrometry : RCM",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Recent patents on biotechnology",
     "scope": [
       "genomics",
       "microbiology"
@@ -7558,6 +7686,7 @@
   {
     "name": "Virology",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]

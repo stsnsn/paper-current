@@ -1,14 +1,31 @@
 {
-  "updated_at": "2026-11-13T18:13:13.358228+00:00",
-  "phase": "built",
-  "last_batch": {
-    "translated": 4,
-    "cached": 0,
-    "failed": 0,
-    "deferred": 0,
-    "skipped": 0,
-    "requests": 8
-  },
-  "pending": 878,
-  "publication": "built"
+  "updated_at": "2026-11-13T22:47:08.081940+00:00",
+  "phase": "prepared",
+  "pending": 912,
+  "collection_attempted": false,
+  "collection_exit_code": "timeout",
+  "backfill": {
+    "id": "collection-recovery-2026-11-10",
+    "phase": "in_progress",
+    "additional": 106,
+    "coverage": {
+      "Europe PMC watchlist": {
+        "ok": true,
+        "retrieved": 3,
+        "accepted": 3,
+        "query": "(TITLE:\"SAR11\" OR ABSTRACT:\"SAR11\" OR TITLE:\"Pelagibacter\" OR ABSTRACT:\"Pelagibacter\" OR TITLE:\"Poseidoniia\" OR ABSTRACT:\"Poseidoniia\" OR TITLE:\"Poseidoniales\" OR ABSTRACT:\"Poseidoniales\" OR TITLE:\"SAR86\" OR ABSTRACT:\"SAR86\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "publication_start": "2026-10-20"
+      },
+      "Europe PMC topics": {
+        "ok": false,
+        "retrieved": 2765,
+        "accepted": 2564,
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "publication_start": "2026-10-20"
+      }
+    },
+    "collection_exit_code": -9,
+    "budget_exhausted": true,
+    "updated_at": "2026-11-13T22:46:59.220445+00:00"
+  }
 }
