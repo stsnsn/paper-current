@@ -108247,15 +108247,16 @@
   },
   {
     "id": "10.3389/fmicb.2026.1972695",
-    "title": "Community differentiation and assembly of soil nosZ-type denitrifiers across dominant plant communities in an alpine wetland of Qinghai Lake.",
-    "abstract": "Nitrous oxide (N₂O) reduction mediated by nosZ-harboring microorganisms represents the terminal step of denitrification and an important biological sink for N₂O in wetland soils, yet how naturally occurring dominant plant communities are associated with the diversity, taxonomic differentiation, and assembly of nosZ-type communities in alpine wetlands remains poorly understood. We investigated four dominant plant communities in wetlands surrounding Qinghai Lake on the northeastern Qinghai-Tibet Plateau, dominated by Blysmus sinocompressus (BS), Carex regescens (CR), Elymus nutans (EN), and Leymus secalinus (LS), and integrated nosZ-targeted amplicon sequencing with vegetation biomass, soil physicochemical properties, environmental-association analyses, and phylogeny-based null models to evaluate variation in community diversity, taxonomic composition, environmental correlates, and assembly processes. The four plant communities exhibited pronounced differences in vegetation-soil conditions and supported distinct nosZ-type communities. LS-associated soils showed the highest richness and the largest pool of community-specific OTUs, whereas Proteobacteria and Bradyrhizobium dominated the overall taxonomic composition. Environmental associations differed between community diversity and taxonomic structure: diversity was more strongly associated with plant biomass, soil temperature, and carbon and nitrogen status, whereas compositional variation was more closely related to soil C ratio, pH, total carbon, moisture, and nitrate nitrogen. Phylogeny-based null-model analysis further indicated that community assembly was predominantly associated with variable selection, although the relative contributions of dispersal limitation and other stochastic processes differed among dominant plant communities. These findings demonstrate that dominant plant communities in the Qinghai Lake alpine wetland are associated with coordinated differentiation in vegetation-soil environments, nosZ-type community composition, and assembly processes, thereby characterizing the taxonomic differentiation and inferred assembly of the primer-defined soil nosZ community across contrasting plant-community habitats; however, the implications for realized N₂O reduction require direct validation using gene-abundance, transcriptional, enzyme-activity, and gas-flux measurements.",
+    "title": "Community differentiation and assembly of soil <i>nosZ</i>-type denitrifiers across dominant plant communities in an alpine wetland of Qinghai Lake.",
+    "abstract": "BackgroundNitrous oxide (N₂O) reduction mediated by nosZ-harboring microorganisms represents the terminal step of denitrification and an important biological sink for N₂O in wetland soils, yet how naturally occurring dominant plant communities are associated with the diversity, taxonomic differentiation, and assembly of nosZ-type communities in alpine wetlands remains poorly understood.MethodsWe investigated four dominant plant communities in wetlands surrounding Qinghai Lake on the northeastern Qinghai-Tibet Plateau, dominated by Blysmus sinocompressus (BS), Carex regescens (CR), Elymus nutans (EN), and Leymus secalinus (LS), and integrated nosZ-targeted amplicon sequencing with vegetation biomass, soil physicochemical properties, environmental-association analyses, and phylogeny-based null models to evaluate variation in community diversity, taxonomic composition, environmental correlates, and assembly processes.ResultsThe four plant communities exhibited pronounced differences in vegetation-soil conditions and supported distinct nosZ-type communities. LS-associated soils showed the highest richness and the largest pool of community-specific OTUs, whereas Proteobacteria and Bradyrhizobium dominated the overall taxonomic composition. Environmental associations differed between community diversity and taxonomic structure: diversity was more strongly associated with plant biomass, soil temperature, and carbon and nitrogen status, whereas compositional variation was more closely related to soil C ratio, pH, total carbon, moisture, and nitrate nitrogen. Phylogeny-based null-model analysis further indicated that community assembly was predominantly associated with variable selection, although the relative contributions of dispersal limitation and other stochastic processes differed among dominant plant communities.ConclusionThese findings demonstrate that dominant plant communities in the Qinghai Lake alpine wetland are associated with coordinated differentiation in vegetation-soil environments, nosZ-type community composition, and assembly processes, thereby characterizing the taxonomic differentiation and inferred assembly of the primer-defined soil nosZ community across contrasting plant-community habitats; however, the implications for realized N₂O reduction require direct validation using gene-abundance, transcriptional, enzyme-activity, and gas-flux measurements.",
     "journal": "Frontiers in Microbiology",
     "doi": "10.3389/fmicb.2026.1972695",
     "date": "2026-10-23",
     "authors": "Zhou S, Zhang N, Tang J, Chen K.",
     "tags": [
       "微生物ゲノミクス",
-      "微生物進化"
+      "微生物進化",
+      "海洋微生物"
     ],
     "source_url": "https://europepmc.org/article/MED/42996320",
     "preprint": false,
@@ -108267,14 +108268,19 @@
     "topic_filter": {
       "accepted": true,
       "reason": "unfiltered_journal",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
+        "microorganism",
         "microorganisms"
       ],
       "context": {
-        "marine": [],
+        "marine": [
+          "lake"
+        ],
         "genomics": [
+          "assembly",
           "phylogen",
+          "phylogeny",
           "transcript"
         ],
         "evolution": [
@@ -108282,6 +108288,7 @@
         ]
       },
       "tags": [
+        "海洋微生物",
         "微生物ゲノミクス",
         "微生物進化"
       ]
@@ -108290,30 +108297,41 @@
     "collected_at": "2026-11-10T01:46:09.892797+00:00",
     "collected_date": "2026-11-10",
     "sources": [
-      "Europe PMC journals 2"
+      "Europe PMC journals 2",
+      "Europe PMC topics"
     ],
     "first_seen": "2026-11-10",
     "related_dois": [
       "10.3389/fmicb.2026.1972695"
     ],
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
     "translation": {
       "title": {
-        "hash": "13b7a35ed0b710bc7177a4d147d2cd828921127e47a00b7071e3c06ae47a4fb0",
+        "hash": "7eed2938564af2a2ca8483188623ee79613984b19351dc5131e228736d9f6d56",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-10T02:47:38.573175+00:00",
+        "date": "2026-11-13T01:33:38.158152+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "6149ec82d752cb2885cebd09c60cd468977273929d9c7077790b8a5d0c0140cd",
+        "hash": "f031dbe0e7faa90e439831c5afca9728340ee586c34ba57b3f590bf8e00500fb",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-10T02:47:38.573175+00:00",
+        "date": "2026-11-13T01:33:38.158152+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "青海湖の高山湿地における優占植物群落間の土壌NOsZ型脱窒菌の群落分化と集合",
-    "abstract_ja": "nosZ保有微生物を介した亜酸化窒素（N₂O）還元は、脱窒の最終段階であり、湿地土壌におけるN₂Oの重要な生物学的シンクであるが、高山湿地において自然に存在する優占植物群集が、nosZ型群集の多様性、分類学的分化、および形成とどのように関連しているかについては、依然として十分に解明されていない。我々は、青海・チベット高原北東部の青海湖周辺の湿地において、Blysmus sinocompressus (BS)、Carex regescens (CR)、Elymus nutans (EN)、およびLeymus secalinus (LS) が優占する4つの植物群集を調査し、nosZ標的アンプリコンシーケンシングを、植生バイオマス、土壌物理化学的特性、環境関連性解析、および系統樹に基づくヌルモデルと統合することで、群集の多様性、分類学的組成、環境相関因子、および形成過程の変動を評価した。これら4つの植物群集は、植生・土壌条件において顕著な差異を示し、それぞれ異なるnosZ型群集を支えていた。LS関連土壌は最も高い富栄養性を示し、群集固有のOTUのプールが最も大きかった一方、全体の分類学的組成ではProteobacteriaおよびBradyrhizobiumが優占していた。環境関連性は、群集の多様性と分類学的構造の間で異なっていた。多様性は植物バイオマス、土壌温度、および炭素・窒素状態とより強く関連していたのに対し、組成の変動は土壌のC比、pH、全炭素、水分、および硝酸態窒素とより密接に関連していた。系統樹に基づくヌルモデル解析により、群集形成は主に変動的な選択に関連していることがさらに示されたが、拡散制限やその他の確率的プロセスの相対的な寄与は、優占植物群集間で異なっていた。これらの知見は、青海湖高山湿地の優占植物群集が、植生・土壌環境、nosZ型群集組成、および形成過程における協調的な分化に関連していることを示しており、これにより、対照的な植物群集生息地におけるプライマー定義土壌nosZ群集の分類学的分化と推定される形成過程が特徴づけられた。しかし、実現したN₂O還元への示唆については、遺伝子量、転写、酵素活性、およびガスフラックス測定を用いた直接的な検証が必要である。",
-    "discovery": []
+    "title_ja": "青海湖の高山湿地における優占植物群落間の土壌<i>nosZ</i>型脱窒菌の群集分化と集合",
+    "abstract_ja": "背景 ノスZ保有微生物による亜酸化窒素（N₂O）還元は、脱窒の最終段階であり、湿地土壌におけるN₂Oの重要な生物学的シンクであるが、高山湿地において自然に存在する優占植物群集が、ノスZ型群集の多様性、分類学的分化、および形成とどのように関連しているかについては、依然として十分に解明されていない。方法 我々は、青海・チベット高原北東部の青海湖周辺の湿地において、Blysmus sinocompressus (BS)、Carex regescens (CR)、Elymus nutans (EN)、およびLeymus secalinus (LS) が優占する4つの植物群集を調査し、ノスZ標的アンプリコンシーケンシングを、植生バイオマス、土壌物理化学的特性、環境関連性解析、および系統樹に基づくヌルモデルと統合することで、群集の多様性、分類学的組成、環境相関因子、および形成過程の変動を評価した。結果 4つの植物群集は、植生・土壌条件において顕著な差異を示し、それぞれ異なるノスZ型群集を支えていた。LS関連土壌は最も高い富栄養性を示し、群集固有のOTUのプールが最も大きかった一方、全体の分類学的組成ではProteobacteriaおよびBradyrhizobiumが優占していた。環境関連性は、群集の多様性と分類学的構造の間で異なっていた。多様性は植物バイオマス、土壌温度、および炭素・窒素状態とより強く関連していたのに対し、組成の変動は土壌のC比、pH、全炭素、水分、および硝酸態窒素とより密接に関連していた。系統樹に基づくヌルモデル解析により、群集形成は主に変動的な選択に関連していることがさらに示されたが、拡散制限やその他の確率的プロセスの相対的な寄与は、優占植物群集間で異なっていた。結論 これらの知見は、青海湖高山湿地の優占植物群集が、植生・土壌環境、ノスZ型群集組成、および形成過程における協調的な分化に関連していることを示しており、これにより、対照的な植物群集生息地におけるプライマー定義型土壌ノスZ群集の分類学的分化と推定される形成過程が特徴づけられた。しかし、実現したN₂O還元への示唆については、遺伝子量、転写、酵素活性、およびガスフラックスの測定を用いた直接的な検証が必要である。"
   },
   {
     "id": "10.1128/jvi.01155-26",
@@ -175617,5 +175635,239 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "集団レベルの細菌免疫の系統地理学的・機能的構成",
     "abstract_ja": "本研究において、著者らは比較ゲノミクスとクロスインフェクションアッセイを用いて、防御システム間の相互作用がファージ耐性を強化あるいは低下させ得る、空間的・進化的に構造化された細菌免疫リザーバーを明らかにし、汎免疫フレームワークを精緻化した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02068-26",
+    "title": "Isolation and genomic characterization of a novel <i>Pseudomonas</i> jumbo phage ΦBRkr.",
+    "abstract": "Jumbo phages generally have large viral genomes packaged in large virions and exhibit a broad host spectrum. However, the detailed variation in host spectrum among jumbo phages, particularly in the context of bacterial phage defense systems, is not fully understood yet. In the present study, we isolated a novel Pseudomonas virus, ΦBRkr, from sewage water in Japan. Transmission electron microscopic analysis and whole-genome sequencing revealed that ΦBRkr is a jumbo phage with a total DNA length of 306,291 bp, and suggested a novel Pawinskivirus-like phage. Furthermore, ΦBRkr showed broader infectivity against 100 genetically diverse Pseudomonas aeruginosa clinical isolates (62.0% of host spectrum) compared with Phikzvirus ΦNK1 (40.0% of host spectrum). By examining the correlation between phage infectivity and the presence of predicted phage defense systems across these 100 strains in an exploratory screening, we found that among the 50 predicted defense systems evaluated, the Jumbo phage killer (Juk) AB system emerged as the potential candidate showing a distinct differential restriction between the two phages. While ΦNK1 completely failed to infect any strains harboring the predicted JukAB, ΦBRkr may evade this defense mechanism in some strains. Genomic comparisons revealed that, unlike ΦKZ and ΦNK1, ΦBRkr lacks a homolog of the KZ241 gene, which is known to trigger the JukAB system. It has been suggested that this absence likely confers a stealth advantage to ΦBRkr during P. aeruginosa infection. These results contribute to a deeper understanding of the diversity of Pseudomonas jumbo phages and provide insights into their advantageous properties for future applications.IMPORTANCEPseudomonas aeruginosa is an opportunistic pathogen causing severe multidrug-resistant infections, making phage therapy a promising alternative treatment. Jumbo phages are attractive candidates because they typically infect a wide range of bacterial strains. However, bacteria constantly deploy diverse defense systems to block viral infections, which can limit therapeutic efficacy. In this study, we isolated a novel jumbo phage, ΦBRkr, which exhibits a broad intra-species host range, infecting 62.0% of 100 diverse clinical P. aeruginosa isolates tested. Our results suggest that its ability to effectively evade the predicted Jumbo phage killer (Juk) defense system, a robust barrier restricting other well-known jumbo phages, contributed to its broader host range. Viral genomic evidence implies this phage employs a natural stealth strategy by lacking the specific protein targeted by the putative Juk system. Uncovering how certain phages naturally bypass robust bacterial immunities provides critical insights for selecting and developing highly effective phages for future applications.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02068-26",
+    "date": "2026-10-22",
+    "authors": "Sakata Y, Nakamura T, Fujiki J, Tamamura K, Ichikawa N, Nakamura K, Iwasaki T, Iwano H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42911030",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42911030",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "phage",
+        "phages",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 81,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.02068-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "49c9c9a67027def379cbd58465052f78cd2cd9afd1707ec025591da3b06b3499",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:33:38.158152+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a037c2bba35d4e7ca64fb8d4b226f5c70ca01ed3571859f20464feed9e6f4efb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:33:38.158152+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新規<i>Pseudomonas</i> jumboファージΦBRkrの単離およびゲノム特性解析",
+    "abstract_ja": "ジャンボファージは一般に、大型のビリオンにパッケージ化された大規模なウイルスゲノムを有し、広範な宿主スペクトルを示す。しかし、ジャンボファージ間における宿主スペクトルの詳細な変動、特に細菌のファージ防御システムとの関連については、まだ十分に解明されていない。本研究では、日本の下水から新規シュードモナスウイルスΦBRkrを単離した。透過型電子顕微鏡解析および全ゲノムシーケンシングにより、ΦBRkrは総DNA長306,291 bpのジャンボファージであることが明らかとなり、新規のPawinskivirus様ファージであることが示唆された。さらに、ΦBRkrは、Phikzvirus ΦNK1（宿主スペクトルの40.0%）と比較して、遺伝的に多様な100株のPseudomonas aeruginosa臨床分離株（宿主スペクトルの62.0%）に対してより広範な感染性を示した。探索的スクリーニングにおいて、これら100株におけるファージ感染性と予測されるファージ防御システムの存在との相関を検討した結果、評価した50種類の予測防御システムのうち、Jumbo phage killer (Juk) ABシステムが、両ファージ間で明確な差異的制限を示す潜在的な候補として浮上した。ΦNK1は予測されたJukABを保持するいかなる株に対しても完全に感染できなかったが、ΦBRkrは一部の株においてこの防御機構を回避する可能性がある。ゲノム比較により、ΦKZおよびΦNK1とは異なり、ΦBRkrはJukABシステムを誘発することが知られているKZ241遺伝子のホモログを欠いていることが明らかになった。この欠如が、Pseudomonas aeruginosa感染時にΦBRkrにステルス上の優位性を付与している可能性が高いことが示唆された。これらの結果は、シュードモナス属ジャンボファージの多様性に関する理解を深めるとともに、将来的な応用に向けたその有利な特性に関する知見を提供するものである。重要性Pseudomonas aeruginosaは、重篤な多剤耐性感染症を引き起こす日和見病原体であり、ファージ療法は有望な代替治療法である。ジャンボファージは、通常、広範な細菌株に感染するため魅力的な候補となる。しかし、細菌はウイルス感染を阻止するために常に多様な防御システムを展開しており、これが治療効果を制限する要因となり得る。本研究では、種内宿主範囲が広く、試験した100株の多様なPseudomonas aeruginosa臨床分離株の62.0%に感染する新規ジャンボファージΦBRkrを単離した。我々の結果は、他のよく知られたジャンボファージを制限する強固な障壁である予測されたJumbo phage killer (Juk) 防御システムを効果的に回避する能力が、より広範な宿主範囲に寄与したことを示唆している。ウイルスゲノムの証拠は、このファージが、推定されるJukシステムが標的とする特定のタンパク質を欠くことで、自然なステルス戦略を採用していることを示唆している。特定のファージがいかにして強固な細菌免疫を自然に回避しているかを明らかにすることは、将来的な応用に向けた極めて効果的なファージの選択および開発に重要な知見を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41586-026-11211-1",
+    "title": "Clostridium perfringens Delta toxin targets CD9 to drive NEC and brain injury.",
+    "abstract": "Necrotizing enterocolitis (NEC) is the most devastating gastrointestinal emergency in preterm infants, frequently causing mortality and long-term neurodevelopmental impairment1,2. Although the gut microbiota has been implicated in NEC pathogenesis3-5, the microbial factors driving NEC and the following brain pathology remain unclear. Here we identify Clostridium perfringens pathobionts containing Delta toxin in the gut microbiome of individuals with severe and fatal NEC. Clinically, infected infants show worse outcomes, including aberrant systemic inflammation, severe neurological damage and coagulopathy. We establish a mouse model in which Delta-toxin-positive C. perfringens infection, or Delta toxin exposure alone, recapitulates clinical features of NEC, including intestinal necrosis and acute cerebral injury. Mechanistically, Delta toxin preferentially targets macrophages, potently activating inflammasome signalling and pyroptosis, triggering a rapid inflammatory cascade that compromises blood-brain barrier integrity and drives neuroinflammation. Through a genome-wide CRISPR screen, we identify the tetraspanin CD9 as the host receptor for Delta toxin. Using systemic, myeloid-specific and intestinal-epithelial-specific Cd9-knockout mice, we show that systemic and myeloid Cd9 ablation protects mice against toxin-induced lethality, blood-brain barrier dysfunction and multiorgan injury, whereas epithelial Cd9 deletion shows partial protection, implicating macrophage targeting as a primary driver of C. perfringens CD9-dependent pathogenesis. Furthermore, a neutralizing anti-Delta toxin monoclonal antibody confers protection against disease progression. These findings suggest that a subset of NEC is a specific-toxin-mediated disorder and validate the Delta toxin-CD9 axis as a therapeutic target for this subset.",
+    "journal": "Nature",
+    "doi": "10.1038/s41586-026-11211-1",
+    "date": "2026-10-28",
+    "authors": "Zhang S, Gong X, Tian S, Yang Y, Tong X, Sheng K, Zhang Y, Amatsu S, Zhang X, Yu D, Zhao H, Ruan L, Sun H, Wu K, Dong M, Xiong X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951958",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951958",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1161,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41586-026-11211-1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c5adf73ef434b767c0125fbbf61b1cb6270bf8a045d68cadc7e07d0da71b64c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:33:38.158152+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "70bb9aae6bff7fa9a69e1c28e2fb0198426b244d37ef3ad4ea2e5e2a1c8ba06c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:33:38.158152+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Clostridium perfringensのデルタ毒素はCD9を標的としてNECおよび脳損傷を誘発する。",
+    "abstract_ja": "壊死性腸炎（NEC）は、早産児における最も重篤な消化管救急疾患であり、しばしば死亡や長期的な神経発達障害を引き起こす1,2。腸内細菌叢はNECの病態形成に関与していることが示唆されているが3-5、NECを駆動する微生物因子およびそれに伴う脳病理については依然として不明である。本研究では、重症および致死的なNEC患者の腸内細菌叢において、デルタ毒素を保有するClostridium perfringensの病原性共生菌を同定した。臨床的には、感染した乳児は、異常な全身性炎症、重度の神経学的損傷、および凝固障害を含むより不良な転帰を示す。我々は、デルタ毒素陽性のC. perfringens感染、あるいはデルタ毒素への曝露単独が、腸管壊死や急性脳損傷を含むNECの臨床的特徴を再現するマウスモデルを確立した。機序的には、デルタ毒素はマクロファージを優先的に標的とし、インフラマソームシグナル伝達とパイロトーシスを強力に活性化することで、血液脳関門の完全性を損ない神経炎症を惹起する急速な炎症カスケードを誘発する。ゲノムワイドCRISPRスクリーニングにより、我々はテトラスパニンCD9をデルタ毒素の宿主受容体として同定した。全身性、骨髄系特異的、および腸管上皮特異的なCd9ノックアウトマウスを用いて、全身性および骨髄系Cd9の欠損が、毒素誘発性致死、血液脳関門機能不全、および多臓器障害からマウスを保護する一方で、上皮系Cd9の欠損は部分的な保護効果を示すことを明らかにし、マクロファージ標的化がC. perfringensのCD9依存性病態形成の主要な駆動因子であることを示唆した。さらに、中和抗デルタ毒素モノクローナル抗体は、疾患の進行に対する保護効果を示した。これらの知見は、NECの一部が特定の毒素媒介性疾患であることを示唆しており、このサブセットに対する治療標的としてデルタ毒素-CD9軸の妥当性を裏付けるものである。"
+  },
+  {
+    "id": "10.1038/s41467-026-78712-5",
+    "title": "Global environmental genomics reveals vast uncultivated protist diversity and taxonomic blind spots",
+    "abstract": "In this study, the authors analyze over 30,000 assembled metagenomes across ecosystems to uncover hidden protist diversity, including major novel uncultivated lineages, and reveal their habitats and connections to other microbes.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-78712-5",
+    "date": "2026-11-10",
+    "authors": "Frederik Schulz",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-78712-5",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomes",
+        "microbe",
+        "microbes",
+        "protist"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/ncomms.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2079,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41467-026-78712-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9c566dc681080ea71c81700cf8ce54d5a2bbd21256f838a535fe0b0a2f0f2ef3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:33:38.158152+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5c5be5e308bd059942b2f764670a6640f9fbea55293142f6a8fc7fcb262aca5f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:33:38.158152+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "地球規模の環境ゲノミクスが明かす、未開拓の膨大な原生生物の多様性と分類学的盲点",
+    "abstract_ja": "本研究において、著者らは生態系横断的に3万件以上のアセンブル済みメタゲノムを解析し、主要な新規未培養系統を含む潜在的な原生生物の多様性を明らかにするとともに、それらの生息環境や他の微生物との関連性を解明する。"
   }
 ]
