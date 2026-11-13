@@ -178089,5 +178089,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "バイオインフォマティクスと実験的検証の統合による、サルコペニアにおける小胞体恒常性関連診断バイオマーカーの同定",
     "abstract_ja": "サルコペニアは、筋量および筋機能の進行性喪失を特徴とする加齢性骨格筋疾患であるが、早期診断のための信頼性の高いバイオマーカーは依然として限られている。近年の知見では、小胞体（ER）恒常性の破綻が骨格筋の老化に寄与することが示唆されているが、サルコペニアにおけるERストレスおよびレティクロファジー関連の変化の診断的意義については、十分に解明されていない。本研究では、バッチ効果補正を施した3つの骨格筋トランスクリプトームデータセット（GSE25941、GSE28422、およびGSE38718）を統合し、サルコペニア検体と対照検体の間で発現変動遺伝子（DEGs）を同定した。DEGsをERストレスおよびレティクロファジー関連遺伝子セットと交差解析し、サルコペニア関連候補遺伝子を抽出した。続いて、最小絶対縮小選択演算子（LASSO）、ランダムフォレスト（RF）、およびサポートベクターマシン（SVM）を含む3種類の機械学習アルゴリズムを適用し、主要なハブ遺伝子を同定した。さらに、機能エンリッチメント解析、転写因子（TF）-miRNA調節ネットワークの構築、タンパク質-化学物質相互作用解析、外部検証、ノモグラムの開発、および定量リアルタイムPCR（qRT-PCR）による検証を実施した。計236個のDEGsが同定され、その内訳は発現上昇遺伝子34個、発現低下遺伝子202個であった。1,772個のERストレスおよびレティクロファジー関連遺伝子との交差解析により10個の候補遺伝子が得られ、そのうち5つのハブ遺伝子（ACTC1、NPY、CDKN2B、GADD45G、およびGRIA1）が機械学習解析によって一貫して同定された。機能エンリッチメント解析の結果、細胞外マトリックスの構築、サイトカイン-サイトカイン受容体相互作用、ミトコンドリア翻訳、および呼吸電子伝達経路への有意な関与が示された。調節ネットワーク解析では、複数の転写因子、miRNA、および化学化合物との潜在的な相互作用がさらに明らかになった。独立した検証コホート（GSE1428）において、ACTC1は強い個別識別能を示し、NPYとGADD45Gは中程度の識別能を示した一方、GRIA1は識別能が限定的であり、CDKN2Bは偶然レベルの個別識別能を示したが、統合遺伝子シグネチャーは向上した識別能を示した。予測ノモグラムが確立された。さらに、ヒト骨格筋生検検体のqRT-PCR解析により、対照群と比較してサルコペニア筋組織においてACTC1、NPY、CDKN2B、およびGRIA1の発現が有意に増加し、GADD45Gの発現が減少していることが確認された（すべてp < 0.05）。総じて、本研究の知見により、サルコペニアにおけるERストレスおよびレティクロファジー関連分子ネットワークに関連する5つの遺伝子シグネチャーが同定された。これらの遺伝子は、ERストレスやレティクロファジーの確立されたコア調節因子ではないが、有望な診断的価値を有しており、骨格筋の老化過程におけるER恒常性関連の分子変化を反映している可能性があり、新たなバイオマーカーの提供およびサルコペニアの分子基盤に関する知見をもたらすと考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.03896-25",
+    "title": "Exploratory associations of gut microbiota composition with HBeAg and HBsAg status in nucleos(t)ide analog-treated chronic hepatitis B.",
+    "abstract": "HBeAg and HBsAg reflect viral replication and host immune status and are important determinants of treatment responsiveness in chronic hepatitis B (CHB). The gut microbiota, a key component of the gut-liver axis, may influence immune regulation and antiviral outcomes. This study characterized gut microbiota profiles across different HBeAg and HBsAg statuses in CHB patients receiving nucleos(t)ide analog (NA) therapy. Fecal shotgun metagenomic sequencing was performed in 29 healthy controls (HC) and 101 NA-treated CHB patients without cirrhosis or hepatocellular carcinoma, including 30 HBeAg-positive (EP) and 71 HBeAg-negative (EN) individuals. The EN group was further stratified by serum HBsAg levels into an advantageous subgroup (n = 57) and a non-advantageous subgroup (≥1,500 IU/mL, n = 14). Alpha and beta diversity did not differ significantly among EP, EN, and HC groups. Species-level analyses identified nominal group-related differences in several Bacteroidales- and Firmicutes-associated anaerobic commensals, including Bacteroides uniformis, Blautia obeum, Eubacterium ventriosum, Anaerobutyricum, and Parabacteroides timonensis; however, none remained significant after global FDR correction across all detected species. Within the EN group, selected taxa showed directionally consistent associations with HBsAg strata in downsampling, leave-one-out, and CLR-based sensitivity analyses, but these subgroup findings also did not remain significant after FDR correction. NA-treated CHB was associated with exploratory taxonomic differences without detectable loss of microbial diversity. The observed associations with HBeAg status and HBsAg burden were hypothesis-generating and require validation in larger longitudinal cohorts incorporating absolute microbial quantification, targeted metabolomics, host immune profiling, and more complete dietary, anthropometric, and other relevant clinical covariates.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.03896-25",
+    "date": "2026-10-21",
+    "authors": "Yang S, Sun S, Chen J, Zhou Y, Jia F, Xie Y, Lu Y, Ni Q, Hu J, Yang M, Shi Y, Jia H, Yang Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904653",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904653",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiota",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 882,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.03896-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "356ace944983228b1bec1e8d508b2ba7a803962c2e31b9d6ed8858ee0d5acabc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:58:05.347205+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1c2235f3ccc25acc39a32002ab1c4156ebb8082e4de9df6e2ed2d001dca70288",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:58:05.347205+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヌクレオシド類似体投与による慢性B型肝炎における、腸内細菌叢組成とHBeAgおよびHBsAgステータスとの探索的関連性",
+    "abstract_ja": "HBeAgおよびHBsAgはウイルスの複製と宿主の免疫状態を反映しており、慢性B型肝炎（CHB）における治療反応性の重要な決定因子である。腸管-肝臓軸の主要な構成要素である腸内細菌叢は、免疫調節や抗ウイルス転帰に影響を及ぼす可能性がある。本研究では、ヌクレオシド類似体（NA）療法を受けているCHB患者を対象に、異なるHBeAgおよびHBsAgステータスにおける腸内細菌叢プロファイルを解析した。健常対照群（HC）29例と、肝硬変または肝細胞癌のないNA投与CHB患者101例（HBeAg陽性（EP）30例、HBeAg陰性（EN）71例を含む）を対象に、便ショットガンメタゲノムシーケンシングを実施した。EN群をさらに血清HBsAgレベルにより、有利サブグループ（n = 57）と非有利サブグループ（≥1,500 IU/mL, n = 14）に層別化した。アルファ多様性およびベータ多様性は、EP、EN、およびHC群間で有意な差は認められなかった。種レベルの解析により、Bacteroides uniformis、Blautia obeum、Eubacterium ventriosum、Anaerobutyricum、およびParabacteroides timonensisを含む、Bacteroidales属およびFirmicutes属に関連する複数の嫌気性常在菌において、名目上の群関連差が認められた。しかし、検出された全種にわたるグローバルFDR補正後も、有意な差は認められなかった。EN群内では、ダウンサンプリング、leave-one-out、およびCLRベースの感度解析において、特定の分類群とHBsAg層との間に方向性の一貫した関連が認められたが、これらのサブグループにおける知見もFDR補正後は有意ではなかった。NA投与CHBは、微生物多様性の検出可能な喪失を伴わない探索的な分類学的差異と関連していた。HBeAgステータスおよびHBsAg負荷量との観察された関連は仮説生成的なものであり、絶対的な微生物定量、標的メタボロミクス、宿主免疫プロファイリング、ならびにより完全な食事、身体計測、およびその他の関連する臨床共変量を組み込んだ、より大規模な縦断的コホートによる検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1038/s41564-026-02494-1",
+    "title": "Steroid hormones produced by coral-associated Endozoicomonas influence coral immune response during thermal stress.",
+    "abstract": "The coral microbiome is believed to play a crucial role in sustaining corals and enabling adaptation to perturbations. A ubiquitous group of coral-associated bacteria, known as Endozoicomonas, are hypothesized to provide essential metabolites to corals, although detailed dynamics of the interactions between host and microbe are poorly understood. Here multi-omics and laboratory validation experiments reveal that Endozoicomonas encodes genes for the metabolism of coral-derived testosterone and converts ubiquitous cholesterol into testosterone and progesterone, both important steroids that accumulate within the coral holobiont during thermal stress. Field sampling along a natural temperature gradient showed general suppression of coral steroid hormones under thermal stress and during white syndrome manifestation. Provision of testosterone or progesterone to corals during laboratory thermal stress induced transcriptional reprogramming of the coral innate immune response, suggesting microbial involvement in host immune modulation. These findings highlight a previously unrecognized potential mechanism of microbial contribution to coral resilience.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02494-1",
+    "date": "2026-10-22",
+    "authors": "Mohamed AR, Ochsenkühn MA, Haydon TD, Abdelrazig S, Coe LSY, Mochales-Riaño G, Jo WS, Healy AR, Abrego D, Raina JB, Burt JA, Amin SA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42918855",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739741",
+    "pmid": "42918855",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbe",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1278,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41564-026-02494-1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "46f390d6344acca28d7d780b5b3c59f3019c3f16a401893d15530a36a00c13ff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:58:05.347205+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "804d3ef9e621982bc30cea1fffe06e64bb463fdb527c3328b508b6c1cdccaf31",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:58:05.347205+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サンゴ共生性のエンドゾイコモナスが産生するステロイドホルモンは、熱ストレス下におけるサンゴの免疫応答に影響を及ぼす。",
+    "abstract_ja": "サンゴのマイクロバイオームは、サンゴの維持および攪乱への適応において極めて重要な役割を果たしていると考えられている。エンドゾイコモナス（Endozoicomonas）として知られるサンゴ共生細菌の普遍的なグループは、サンゴに必須代謝物を供給していると仮説立てられているが、宿主と微生物間の相互作用の詳細な動態については十分に解明されていない。本研究では、マルチオミクス解析および実験室での検証実験により、エンドゾイコモナスがサンゴ由来テストステロンの代謝遺伝子をコードしていること、ならびに普遍的に存在するコレステロールを、熱ストレス時にサンゴのホロビオント内に蓄積する重要なステロイドであるテストステロンおよびプロゲステロンへと変換することが明らかになった。自然の温度勾配に沿った野外サンプリングの結果、熱ストレス下およびホワイトシンドロームの発現時に、サンゴのステロイドホルモンが全般的に抑制されることが示された。実験室での熱ストレス下でサンゴにテストステロンまたはプロゲステロンを供給すると、サンゴの自然免疫応答の転写リプログラミングが誘導され、宿主の免疫調節への微生物の関与が示唆された。これらの知見は、サンゴのレジリエンスに対する微生物の寄与という、これまで認識されていなかった潜在的なメカニズムを浮き彫りにするものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1150",
+    "title": "PANTHER: the protein tree and function resource in 2027",
+    "abstract": "AbstractPANTHER (Protein ANalysis THrough Evolutionary Relationships) is a comprehensive resource of phylogenetic trees of protein-coding gene families. Trees are manually annotated with Gene Ontology (GO) terms describing how protein functional characteristics were gained and lost over time along tree branches, and these evolutionary models are used to create GO annotations for protein-coding genes. Orthologs, paralogs, and xenologs are assigned based on the trees. Here, we describe updates to the PANTHER resource since our previous published report in 2022. Since that time, the content of the database has been systematically improved: GO annotations of the trees have been expanded to increase coverage of genes by 20%–100% depending on the organism; thousands of families have been revised and ~100 added; and the PANTHER release pipeline has been modified to improve stability of the trees across versions. The expanded annotations for all 131 genomes in the PANTHER trees can be downloaded or used for analyzing gene lists directly on the PANTHER website, and users can now generate tree-based GO annotations for any sequence file using InterProScan.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1150",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1150/9036062?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protein",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4142,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1150"
+    ],
+    "translation": {
+      "title": {
+        "hash": "00b7d76c6a2a6321eadc678ace2bc9f537197c4b71beecde94f6e148d4d00748",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:58:05.347205+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "090f446ce746bd7046b62c91d11544376f6248dbb2b0d3fdb5740e3f7e252be2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:58:05.347205+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PANTHER：2027年におけるタンパク質系統樹および機能リソース",
+    "abstract_ja": "要旨PANTHER（Protein Analysis through Evolutionary Relationships）は、タンパク質コード遺伝子ファミリーの系統樹を網羅したリソースである。系統樹には、タンパク質の機能的特性が系統樹の枝に沿って時間の経過とともにどのように獲得・喪失したかを記述するGene Ontology（GO）タームが手動でアノテーションされており、これらの進化モデルを用いてタンパク質コード遺伝子のGOアノテーションが作成されている。オーソログ、パラログ、およびゼノログは、系統樹に基づいて割り当てられる。本稿では、2022年に公表した前回の報告以降のPANTHERリソースの更新内容について述べる。それ以来、データベースの内容は体系的に改善されてきた。系統樹のGOアノテーションが拡充され、生物種に応じて遺伝子のカバー率が20%～100%向上した。また、数千のファミリーが改訂され、約100のファミリーが追加された。さらに、バージョン間における系統樹の安定性を向上させるため、PANTHERのリリースパイプラインが変更された。PANTHER系統樹に含まれる全131ゲノムの拡充されたアノテーションは、PANTHERのウェブサイトから直接ダウンロードまたは遺伝子リストの解析に利用でき、ユーザーはInterProScanを用いて任意の配列ファイルに対して系統樹に基づくGOアノテーションを生成することが可能となった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.7717/peerj.21798",
+    "title": "Basic leucine zipper ATF-like transcription factor (BATF) as a candidate marker associated with venous thromboembolism risk factors in sepsis: an integrated bioinformatics and machine learning analysis.",
+    "abstract": "BackgroundSepsis affects over 19 million people worldwide annually and is associated with an increased risk of venous thromboembolism (VTE), which significantly worsens clinical outcomes. However, current biomarkers such as D-dimer lack specificity, and the molecular signatures associated with VTE risk in sepsis remain unclear.MethodsWe applied integrative transcriptomics and machine learning approaches to identify VTE-associated biomarkers in sepsis-related datasets. Weighted gene co-expression network analysis (WGCNA), differential gene expression analysis, and immune infiltration assessments were conducted using publicly available datasets. Candidate biomarkers were further evaluated using receiver operating characteristic (ROC) analysis, Cox regression, nomogram modeling, single-cell RNA sequencing, and quantitative polymerase chain reaction (qPCR) validation.ResultsBasic leucine zipper ATF-like transcription factor (BATF) emerged as a top candidate biomarker, significantly associated with both sepsis and VTE-related datasets (fold change >1.5, p BATF expression showed consistent elevation across multiple independent cohorts and demonstrated discriminatory performance for disease- or risk-score-defined phenotypes, with area under the curve (AUC) values ranging from 0.831 to 0.953. High BATF expression was associated with prolonged prothrombin time and 28-day mortality in sepsis patients (p = 0.024). Single-cell analysis showed BATF enrichment in macrophages and dendritic cells.ConclusionBATF may serve as a candidate biomarker associated with high VTE risk phenotypes and 28-day mortality in sepsis-related cohorts. However, BATF was not validated against adjudicated or imaging-confirmed VTE events in this study; therefore, it should not be interpreted as a diagnostic marker for confirmed VTE or a direct predictor of thrombosis. Prospective cohorts with adjudicated VTE outcomes are required to confirm its clinical utility.",
+    "journal": "PeerJ",
+    "doi": "10.7717/peerj.21798",
+    "date": "2026-10-20",
+    "authors": "Deng J, Kuai X, Zhang Z, Ge X, Wang Z, Zhao H, Li L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42921528",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13693607",
+    "pmid": "42921528",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4015,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.7717/peerj.21798"
+    ],
+    "translation": {
+      "title": {
+        "hash": "415024737ecf3fe6d5647078d609e7540929982bdd7723eae74184a3bd9819d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:58:05.347205+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d59e9d5204086b682defd2a3ec45d3e009a04e74cb1f0d8378626a7dfab0b953",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:58:05.347205+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "敗血症における静脈血栓塞栓症リスク因子に関連する候補マーカーとしての基本ロイシンジッパーATF様転写因子（BATF）：バイオインフォマティクスと機械学習を用いた統合解析",
+    "abstract_ja": "背景敗血症は世界中で毎年1,900万人以上に影響を及ぼしており、静脈血栓塞栓症（VTE）のリスク増加と関連しており、これが臨床転帰を著しく悪化させる。しかし、Dダイマーなどの現行のバイオマーカーは特異性に欠けており、敗血症におけるVTEリスクに関連する分子シグネチャーは依然として不明である。方法統合トランスクリプトミクスおよび機械学習手法を適用し、敗血症関連データセットにおけるVTE関連バイオマーカーを同定した。公開されているデータセットを用いて、重み付き遺伝子共発現ネットワーク解析（WGCNA）、遺伝子発現変動解析、および免疫浸潤評価を実施した。候補バイオマーカーについては、受信者動作特性（ROC）解析、Cox回帰、ノモグラムモデリング、シングルセルRNAシーケンシング、および定量的ポリメラーゼ連鎖反応（qPCR）による検証を用いてさらに評価した。結果基本ロイシンジッパーATF様転写因子（BATF）が有力な候補バイオマーカーとして浮上し、敗血症およびVTE関連データセットの双方と有意に関連していた（倍率変化 >1.5、p）。BATFの発現は複数の独立したコホートにおいて一貫して上昇しており、疾患またはリスクスコアで定義された表現型に対して識別能を示し、曲線下面積（AUC）値は0.831～0.953の範囲であった。BATFの高発現は、敗血症患者におけるプロトロンビン時間の延長および28日死亡率と関連していた（p = 0.024）。シングルセル解析では、マクロファージおよび樹状細胞におけるBATFの濃縮が認められた。結論BATFは、敗血症関連コホートにおけるVTE高リスク表現型および28日死亡率に関連する候補バイオマーカーとなり得る。しかし、本研究では判定済みまたは画像診断で確認されたVTEイベントに対するBATFの検証は行われていないため、確定したVTEの診断マーカーや血栓症の直接的な予測因子として解釈すべきではない。その臨床的有用性を確認するには、判定済みのVTE転帰を有する前向きコホートが必要である。"
   }
 ]
