@@ -178692,5 +178692,287 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Sphinx: 空間オミクスにおける適応的空間近傍モデリングおよび関数解析のためのRパッケージ",
     "abstract_ja": "Mengyi Yan, Xiaoxiu Tan, Zhenhao Liu, Siwen Zhang, Yiwen Du, Hong Li, Lanming Chen, Lu Xie 著\n\n空間オミクスは組織微小環境の不均一性の解析を可能にするが、ほとんどの空間解析ツールはトランスクリプトミクス向けに最適化されており、プロテオミクスデータには適していない。我々は、前処理、細胞アノテーション、適応型空間近傍モデリング、および機能特性解析を含む、空間プロテオミクスのための包括的なワークフローを提供するRパッケージ「Sphinx」を開発した。特筆すべきは、空間統計指標に基づく適応型パラメータ選択フレームワークを導入し、大規模データセット向けの計算最適化を組み込むことで、堅牢な近傍モデリングを可能にした点である。さらに、Sphinxは計算効率とスケーラビリティの向上を実現している。肺腺癌、大腸癌、およびマウス脾臓のデータセットにおいて、Sphinxは細胞種および三次リンパ系構造を含む空間機能ユニットを堅牢に同定した。また、ペア化された高解像度空間トランスクリプトミクスデータセットへのSphinxの適用を検討し、その潜在的な適用可能性を示した。Sphinxは空間プロテオミクスのための柔軟かつ効率的なフレームワークを提供し、空間組織化および組織微小環境の堅牢な特性解析を可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.03410-24",
+    "title": "Transcriptomic, untargeted metabolomic, and gut microbiota studies on the anticoccidial activity of the combination formula in broilers.",
+    "abstract": "Coccidiosis, a devastating intracellular parasitic disease, poses a significant threat to the poultry industry. Traditional control methods, which involve the inclusion of anticoccidial drugs in feed, have raised concerns over veterinary drug residues. Consequently, there is a pressing need to identify suitable alternatives or complementary strategies to anticoccidial drugs, with plant-derived natural products emerging as a promising candidate. Our laboratory has previously identified a combination formula that demonstrates good anticoccidial activity. However, the underlying mechanisms remain elusive. This study aims to elucidate the mechanism of action of this formula using a multi-omics approach, including transcriptomics, untargeted metabolomics, and gut microbiota analysis. Cecal transcriptomic analysis revealed significant enrichment in pathways, such as lysosomes, ribosomes, oxidative phosphorylation, and sphingolipid metabolism following treatment with the combination formula. Untargeted metabolomic profiling indicated a pronounced enrichment in the gut IgA generation immune network pathway, with retinoic acid identified as a key differential metabolite. Gut microbiota sequencing analysis suggested that the combination formula modulates the gut microbiota of infected broilers towards a composition resembling that of healthy broilers. Collectively, these results suggest that the combination formula exerts its anticoccidial effects through the regulation of differential gene clusters, metabolites, and microbiota. The results of this study have provided us with a deeper understanding of the good anticoccidial effects of the combination formula.ImportanceEimeria tenella is a significant parasitic protozoan that poses a substantial threat to the development of the poultry industry. The combination formula, a synergistic blend of plant-derived natural products, has been identified in our laboratory for its good anticoccidial effects. In this study, we employed non-targeted metabolomics, transcriptomics, and gut microbiome sequencing to elucidate the mechanism of action against coccidiosis. Our results revealed a multitude of differential gene clusters and metabolites. Furthermore, the gut microbiota structure of the cecal content in the treated group more closely resembled that of the healthy control group.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.03410-24",
+    "date": "2026-10-21",
+    "authors": "Geng T, Yang H, Liu Y, Zhao J, Zhou Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904632",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904632",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2010,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.03410-24"
+    ],
+    "translation": {
+      "title": {
+        "hash": "007883356262707d63ea59ac4b7b2e6fa114e87a2a7bb8c9715528613cbe6998",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:02:56.281805+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "66df24f63ebf9212b093e3cb39e33bb07d1ae469c09becb20ef180a0e5b90d12",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:02:56.281805+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブロイラーにおける配合飼料の抗コクシジウム活性に関するトランスクリプトーム解析、非標的メタボローム解析、および腸内細菌叢研究",
+    "abstract_ja": "壊滅的な細胞内寄生虫疾患であるコクシジウム症は、家禽産業にとって重大な脅威となっている。飼料への抗コクシジウム薬の配合を伴う従来の防除法では、動物用医薬品残留への懸念が生じている。そのため、抗コクシジウム薬に代わる適切な代替策や補完的な戦略を特定することが急務となっており、植物由来の天然物が有望な候補として注目されている。当研究室ではこれまで、良好な抗コクシジウム活性を示す配合処方を同定してきた。しかし、その根底にあるメカニズムは依然として解明されていない。本研究では、トランスクリプトミクス、非標的メタボロミクス、および腸内細菌叢解析を含むマルチオミクスアプローチを用いて、本処方の作用機序を解明することを目的とする。盲腸のトランスクリプトーム解析により、配合処方の投与後、リソソーム、リボソーム、酸化的リン酸化、およびスフィンゴ脂質代謝などの経路において有意な濃縮が認められた。非標的メタボロミクスプロファイリングでは、腸内IgA産生免疫ネットワーク経路において顕著な濃縮が認められ、レチノイン酸が主要な差異代謝物として同定された。腸内細菌叢シーケンシング解析では、本配合処方が感染したブロイラーの腸内細菌叢を、健康なブロイラーに近い組成へと調節することが示唆された。総じて、これらの結果は、本配合処方が差異遺伝子クラスター、代謝物、および細菌叢の調節を通じて抗コクシジウム効果を発揮することを示唆している。本研究の結果により、本配合処方の良好な抗コクシジウム効果についてより深い理解が得られた。重要性 Eimeria tenellaは、家禽産業の発展に重大な脅威をもたらす重要な寄生性原虫である。当研究室では、植物由来の天然物の相乗的な配合である本配合処方が、良好な抗コクシジウム効果を有することを同定した。本研究では、非標的メタボロミクス、トランスクリプトミクス、および腸内マイクロバイオームシーケンシングを用いて、コクシジウム症に対する作用機序を解明した。その結果、多数の差異遺伝子クラスターおよび代謝物が明らかになった。さらに、投与群の盲腸内容物の腸内細菌叢構造は、健常対照群のそれよりも類似していた。"
+  },
+  {
+    "id": "10.1093/nar/gkag1204",
+    "title": "MobiDB in 2027: machine-actionable access to intrinsic protein disorder knowledge",
+    "abstract": "AbstractMobiDB (https://mobidb.org) integrates structural and functional annotations for intrinsically disordered proteins and regions across UniProtKB. The 2027 release strengthens semantic consistency, programmatic access, and reproducible reuse. A refined controlled vocabulary groups features in a hierarchical way and distinguishes evidence classes and types annotation sources as providers, methods, or aggregation rules. A new versioned REST API, along with a developed MCP server, enables scripts, workflows, and tool-using artificial intelligence systems to retrieve and combine evidence-bearing records through documented operations. The redesigned website applies the same vocabulary to protein entries, documentation, and cross-proteome statistics. Additional developments include standardized Nextflow production workflows, updated RING Protein Data Bank interaction processing, integration of Motif Map of the Proteome and Linear Motif mediated Protein–Protein Interaction Database annotations, and a release-aware catalogue of static datasets for large-scale analysis. Following the recent increase in reference proteomes in UniProtKB, MobiDB now provides a more representative estimate of long-disorder with a median residue coverage of 12.3% in eukaryotes, 1.9% in archaea, 1.7% in bacteria, and 3.4% in viruses; and protein prevalence of 48.7%, 11.9%, 11.2%, and 25.0%, respectively. Together, these developments make disorder knowledge easier to discover, relate to function, and reuse with explicit provenance.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1204",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1204/9029953?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3268,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1204"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0f1d8547ff78bfabbce89fd2793550c9fc94358ee5aa7a63a58f2c4d34b91bd0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:02:56.281805+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f36d353f295ec2a2734d2a2d2047e247a631d0c70b39c8135c206411677ae39a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:02:56.281805+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2027年のMobiDB：タンパク質の固有の構造異常に関する知見へのマシンアクション可能なアクセス",
+    "abstract_ja": "概要MobiDB (https://mobidb.org) は、UniProtKB 全体にわたる天然変性タンパク質および領域の構造的・機能的アノテーションを統合している。2027年リリースでは、意味的一貫性、プログラムによるアクセス、および再現性のある再利用が強化された。精緻化された統制語彙により特徴が階層的にグループ化され、エビデンスクラスおよびタイプのアノテーションソースは、プロバイダー、メソッド、または集約ルールとして区別される。新たにバージョン管理されたREST APIと開発されたMCPサーバーにより、スクリプト、ワークフロー、およびツールを利用する人工知能システムが、ドキュメント化された操作を通じてエビデンスを含むレコードを取得・結合することが可能となった。刷新されたウェブサイトでは、タンパク質エントリ、ドキュメント、およびクロスプロテオーム統計に同一の語彙が適用されている。その他の開発内容には、標準化されたNextflowプロダクションワークフロー、更新されたRING Protein Data Bankインタラクション処理、Motif Map of the ProteomeおよびLinear Motif mediated Protein–Protein Interaction Databaseアノテーションの統合、ならびに大規模解析向けのリリース対応静的データセットカタログが含まれる。UniProtKBにおけるリファレンスプロテオームの最近の増加に伴い、MobiDBは現在、長鎖変性タンパク質のより代表的な推定値を提供しており、残基カバレッジの中央値は真核生物で12.3%、古細菌で1.9%、細菌で1.7%、ウイルスで3.4%となっている。また、タンパク質の存在率はそれぞれ48.7%、11.9%、11.2%、25.0%である。これらの開発が相まって、変性タンパク質に関する知識の発見、機能との関連付け、および明示的な来歴を伴う再利用がより容易になっている。"
+  },
+  {
+    "id": "10.1371/journal.pbio.3004105",
+    "title": "Virus-like particles enable highly efficient gene editing across porcine and avian in vitro, ex vivo, and in ovo models",
+    "abstract": "by Theresa M. Pauli, Theresa von Heyl, Beate Rieblinger, Sabrina Teresa Schleibinger, Wei Liang, Antonia Schmauser, Mithuoshni Arullmoli, Paul Derrer, Anika Eckstein, Sirradu Jagana, Camila Gatti Corrêa, Krzysztof Flisikowski, Tatiana Flisikowska, Benjamin Schusser\n\nPigs and chickens are not only the most important livestock species for global food production but also serve as key model organisms in various research disciplines. The pig is widely used in translational research due to its anatomical and physiological similarity to humans, providing valuable insights into immunology, metabolism, and disease mechanisms. In contrast, the chicken has become an essential model for studies related to poultry health, animal welfare, and developmental biology. Its externally developing embryo offers exceptional accessibility for experimental manipulation. Recent advances in genome editing technologies, particularly CRISPR/Cas9, have further expanded the potential of these species for functional genomic studies, although the efficient delivery of such tools remains a major challenge. Here, we overcome this delivery limitation by using virus-like particles (VLPs). We evaluated VLPs as delivery vehicles for genome engineering tools in porcine and avian cultures, two key livestock species at the human–animal interface. VLP-mediated delivery enabled efficient Cre recombination and high CRISPR/Cas9 editing rates in porcine cells, organoids, and oocytes, particularly when multiplexed. In chickens, VLPs supported robust Cre recombination and Cas9-mediated editing in cell culture, tracheal organ cultures, and in ovo. Reporter VLPs and dCas9 VLPs further demonstrated the versatility of this platform across porcine and avian systems. Together, these findings establish VLPs as an efficient and time-saving strategy for gene editing in livestock cultures across in vitro, ex vivo and in ovo systems, with potential future applications for animal health, agricultural productivity, and translational One Health research.",
+    "journal": "PLOS Biology",
+    "doi": "10.1371/journal.pbio.3004105",
+    "date": "2026-11-11",
+    "authors": "Benjamin Schusser",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004105",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/plosbiology/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4126,
+    "collected_at": "2026-11-12T01:42:41.693412+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://journals.plos.org/plosbiology/feed/atom"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1371/journal.pbio.3004105"
+    ],
+    "translation": {
+      "title": {
+        "hash": "57a242535a62500e3ca88ab3cc8081b37fca9adbb8927063ac513a9d8eed474b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:02:56.281805+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "15c46d37b64c3ea02b3e2de8b9a08349a3707f52822670b49c9d691430c86750",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:02:56.281805+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウイルス様粒子は、ブタおよび鳥類のin vitro、ex vivo、およびin ovoモデルにおいて、極めて効率的な遺伝子編集を可能にする。",
+    "abstract_ja": "Theresa M. Pauli, Theresa von Heyl, Beate Rieblinger, Sabrina Teresa Schleibinger, Wei Liang, Antonia Schmauser, Mithuoshni Arullmoli, Paul Derrer, Anika Eckstein, Sirradu Jagana, Camila Gatti Corrêa, Krzysztof Flisikowski, Tatiana Flisikowska, Benjamin Schusser 著\n\nブタとニワトリは、世界の食料生産において最も重要な家畜種であるだけでなく、さまざまな研究分野において重要なモデル生物としても機能している。ブタはヒトとの解剖学的・生理学的類似性からトランスレーショナルリサーチに広く用いられており、免疫学、代謝、および疾患メカニズムに関する貴重な知見をもたらしている。対照的に、ニワトリは家禽の健康、動物福祉、および発生生物学に関連する研究において不可欠なモデルとなっている。体外で発生するその胚は、実験的操作において極めて高いアクセス性を有する。近年のゲノム編集技術、特にCRISPR/Cas9の進展により、機能的ゲノム研究におけるこれらの種の可能性はさらに拡大したが、こうしたツールの効率的な送達は依然として大きな課題となっている。本研究では、ウイルス様粒子（VLPs）を用いることで、この送達上の制限を克服した。我々は、ヒト・動物界面における2つの主要な家畜種であるブタおよびニワトリの培養系において、ゲノム工学ツールの送達媒体としてVLPsを評価した。VLP介在性の送達により、ブタの細胞、オルガノイド、および卵母細胞において、特に多重化した場合に効率的なCre組換えと高いCRISPR/Cas9編集率が実現した。ニワトリにおいては、VLPsは細胞培養、気管器官培養、およびin ovoにおいて、強固なCre組換えとCas9介在性編集を支えた。レポーターVLPsおよびdCas9 VLPsは、ブタおよびニワトリの両系における本プラットフォームの汎用性をさらに実証した。以上の知見を総合すると、VLPsはin vitro、ex vivo、およびin ovoの各系にわたる家畜培養における遺伝子編集のための効率的かつ時間短縮型の戦略として確立され、動物の健康、農業生産性、およびトランスレーショナルなOne Health研究への将来的な応用が期待される。"
+  },
+  {
+    "id": "10.1371/journal.pcbi.1014904",
+    "title": "PhysInfer: A physics-constrained neural network for adaptive inference of transcriptional bursting from single-cell RNA-seq",
+    "abstract": "by Xiaodong Zeng, Jingwen Zhang, Shan Li, Haohua Wang\n\nSingle-cell RNA sequencing (scRNA-seq) has established that gene expression is driven by stochastic transcriptional bursting. However, inferring burst dynamics from static scRNA-seq snapshots is fundamentally constrained by parameter unidentifiability and model topology mismatch. Here, we propose PhysInfer, an unsupervised framework that integrates a physics-constrained neural network with adaptive model selection and parameter decoupling. A physics-informed loss function, combining stationary-distribution likelihood with zero-count anchoring, reparameterizes the optimization from unidentifiable microscopic rates to an interpretable macroscopic burst-quantity representation of burst size and burst frequency, thereby providing an interpretable parameterization for assessing practical recoverability in static data. Validation on synthetic data with known ground-truth parameters confirms high inference accuracy in low-to-medium activation regimes and shows that recovery of BS and productive BF becomes increasingly condition-dependent as the ON-state probability approaches saturation; under different recovery criteria, the condition-specific upper Pon limit for simultaneously recovering BS and productive BF varies with cell number and capture efficiency. Applied to a mouse embryonic fibroblast (MEF) dataset, PhysInfer reconstructs a transcriptional dynamic manifold across the 2,137-gene secondary BIC analysis set, showing cross-gene variation in fitted burst frequency and burst size. A model-specific stationary likelihood combined with zero-count anchoring improves robustness to zero-heavy observations. The adaptive topology module further identifies a distinct subset of genes with stable support for an effective sequential 3-state representation, revealing distributional structure beyond that captured by standard 2-state fitting. PhysInfer thus provides a robust, topology-adaptive, and interpretable solution for characterizing transcriptional kinetic patterns from static single-cell transcriptomic snapshots.",
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014904",
+    "date": "2026-11-11",
+    "authors": "Haohua Wang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014904",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "inference"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/ploscompbiol/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4176,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://journals.plos.org/ploscompbiol/feed/atom"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1371/journal.pcbi.1014904"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b68533ca4bc29cd9f137bab61254f60d78af212e8e6fbe5088d5379c2dbfea33",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:02:56.281805+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1b8e7bff0dafe6ee7f19594285656c76adc1c045595679a1db77da434ad85ace",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:02:56.281805+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PhysInfer: 単一細胞RNA-seqからの転写バーストの適応的推論に向けた物理制約付きニューラルネットワーク",
+    "abstract_ja": "Xiaodong Zeng, Jingwen Zhang, Shan Li, Haohua Wang 著\n\nシングルセルRNAシーケンシング（scRNA-seq）により、遺伝子発現が確率的な転写バーストによって駆動されることが明らかとなった。しかし、静的なscRNA-seqスナップショットからバースト動態を推論することは、パラメータの非識別性およびモデルトポロジーの不一致という根本的な制約を受ける。本研究では、物理制約付きニューラルネットワークに適応的モデル選択とパラメータデカップリングを統合した教師なしフレームワーク「PhysInfer」を提案する。定常分布尤度とゼロカウントアンカリングを組み合わせた物理情報付き損失関数により、最適化を非識別可能な微視的レートから、バーストサイズとバースト頻度という解釈可能な巨視的バースト量表現へと再パラメータ化し、これにより静的データにおける実用的な復元可能性を評価するための解釈可能なパラメータ化を提供する。既知のグラウンドトゥルースパラメータを持つ合成データを用いた検証により、低〜中程度の活性化領域において高い推論精度が確認され、ON状態の確率が飽和に近づくにつれて、BSおよび生産的BFの復元が次第に条件依存的になることが示された。また、異なる復元基準の下では、BSと生産的BFを同時に復元するための条件固有の上限Pon限界が、細胞数およびキャプチャ効率に応じて変動する。マウス胚性線維芽細胞（MEF）データセットに適用したところ、PhysInferは2,137遺伝子からなる二次BIC解析セット全体にわたって転写動態多様体を再構成し、適合させたバースト頻度とバーストサイズに遺伝子間変動があることを示した。モデル固有の定常尤度とゼロカウントアンカリングの組み合わせにより、ゼロ値の多い観測値に対する頑健性が向上した。適応的トポロジーモジュールは、実効的な逐次3状態表現を安定的にサポートする明確な遺伝子サブセットをさらに特定し、標準的な2状態フィッティングでは捉えられない分布構造を明らかにした。したがって、PhysInferは、静的なシングルセルトランスクリプトームスナップショットから転写速度論的パターンを特性評価するための、頑健でトポロジー適応型かつ解釈可能なソリューションを提供する。"
   }
 ]
