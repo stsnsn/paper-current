@@ -95774,25 +95774,27 @@
   {
     "id": "10.64898/2026.11.05.764704",
     "title": "Metabolites cross the membrane, the transcriptome does not follow: co-localization is required for the cyanobacterial response to a yeast partner",
-    "abstract": "Interactions between phototrophs and heterotrophs are usually explained by cross-feeding, yet whether that exchange alone accounts for the phototroph's response has rarely been tested. We grew the sucrose-secreting cyanobacterium Synechococcus elongatus with the yeast Rhodotorula toruloides as a synthetic community, either in mixed co-culture or in membrane-separated co-culture (0.22 m pore size), each with a matched axenic control. Metabolite exchange occurred in both configurations: sucrose reached the yeast and was consumed, and yeast-derived metabolites reached the cyanobacterium. The yeast reached a higher final density behind the membrane, whereas the cyanobacterium gained about 9% over its axenic control only in mixed co-culture. Yet the cyanobacterial transcriptome responded only with co-localization: expression of 51 genes changed consistently across time points (day-averaged q < 0.05), against one gene behind the membrane, and the number of differentially expressed genes rose from 20 on day 4 to 91 and 127 on days 6 and 8. Nine regulatory programs (iModulons), mainly nitrogen and photosynthesis, responded in mixed co-culture and none behind the membrane. Reactor configuration alone changed 40 genes in axenic culture. These results suggest that co-localization, in addition to metabolite exchange, was required for the heterotrophic partner to trigger a response in the phototroph. Co-culture studies that infer interactions from shared metabolites may miss effects that depend on spatial structure. Importance Partnerships between light-powered microbes and the heterotrophs living alongside them move large amounts of carbon in oceans and soils, and are now built on purpose to turn carbon dioxide into fuels and chemicals. Such partnerships are usually described by the chemicals the partners trade, so we asked whether those chemicals are enough. The cyanobacterium Synechococcus elongatus and the yeast Rhodotorula toruloides were grown together in one vessel, or in two chambers divided by a membrane that molecules cross but cells cannot. The yeast fed on cyanobacterial sugar in both, yet the cyanobacterium changed its gene activity only when the two shared a space. Partners in nature are usually clustered rather than evenly mixed, so closeness may contribute as much as the chemicals themselves. Keeping partners apart in engineered cultures can still deliver carbon to the heterotroph, but may not deliver the benefits of partnership to the phototroph.",
+    "abstract": "Interactions between phototrophs and heterotrophs are usually explained by cross-feeding, yet whether that exchange alone accounts for the phototroph's response has rarely been tested. We grew the sucrose-secreting cyanobacterium Synechococcus elongatus with the yeast Rhodotorula toruloides as a synthetic community, either in mixed co-culture or in membrane-separated co-culture (0.22 μm pore size), each with a matched axenic control. Metabolite exchange occurred in both configurations: sucrose reached the yeast and was consumed, and yeast-derived metabolites reached the cyanobacterium. The yeast reached a higher final density behind the membrane, whereas the cyanobacterium gained about 9% over its axenic control only in mixed co-culture. Yet the cyanobacterial transcriptome responded only with co-localization: expression of 51 genes changed consistently across time points (day-averaged q < 0.05), against one gene behind the membrane, and the number of differentially expressed genes rose from 20 on day 4 to 91 and 127 on days 6 and 8. Nine regulatory programs (iModulons), mainly nitrogen and photosynthesis, responded in mixed co-culture and none behind the membrane. Reactor configuration alone changed 40 genes in axenic culture. These results suggest that co-localization, in addition to metabolite exchange, was required for the heterotrophic partner to trigger a response in the phototroph. Co-culture studies that infer interactions from shared metabolites may miss effects that depend on spatial structure. Importance Partnerships between light-powered microbes and the heterotrophs living alongside them move large amounts of carbon in oceans and soils, and are now built on purpose to turn carbon dioxide into fuels and chemicals. Such partnerships are usually described by the chemicals the partners trade, so we asked whether those chemicals are enough. The cyanobacterium Synechococcus elongatus and the yeast Rhodotorula toruloides were grown together in one vessel, or in two chambers divided by a membrane that molecules cross but cells cannot. The yeast fed on cyanobacterial sugar in both, yet the cyanobacterium changed its gene activity only when the two shared a space. Partners in nature are usually clustered rather than evenly mixed, so closeness may contribute as much as the chemicals themselves. Keeping partners apart in engineered cultures can still deliver carbon to the heterotroph, but may not deliver the benefits of partnership to the phototroph.",
     "journal": "bioRxiv",
     "doi": "10.64898/2026.11.05.764704",
     "date": "2026-11-06",
-    "authors": "Bohutskyi, P.; Johnson, Z.; Velickovic, M.; Kim, Y.-M.; Cheung, M.",
+    "authors": "Bohutskyi P, Johnson Z, Velickovic M, Kim Y, Cheung M.",
     "tags": [
       "微生物ゲノミクス",
       "海洋微生物"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764704v1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/PPR/PPR1360967",
+    "abstract_source": "Europe PMC",
     "preprint": true,
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "Synechococcus",
+        "cyanobacteria",
         "cyanobacterial",
+        "microbe",
         "microbes",
         "yeast"
       ],
@@ -95814,6 +95816,7 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC topics",
       "bioRxiv",
       "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
     ],
@@ -95823,6 +95826,20 @@
     "related_dois": [
       "10.64898/2026.11.05.764704"
     ],
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
     "translation": {
       "title": {
         "hash": "628891050caac1d01c5bfbc2f0278462b28e6410ac9bbc3011649f48bdb6f448",
@@ -95831,16 +95848,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "7db924d21d0838bd107078031c7e428124744651676116683e6551f97fa7a891",
+        "hash": "8243ade6fba3430bf77e2c0ce4cfcd19911931d4307839572a5a7aa7698666e1",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T07:14:56.488716+00:00",
+        "date": "2026-11-13T23:39:24.620275+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "代謝物は膜を通過するが、トランスクリプトームはそれに追随しない。酵母パートナーに対するシアノバクテリアの応答には、共局在が必要である。",
-    "abstract_ja": "光栄養生物と従属栄養生物の相互作用は、通常、クロスフィーディングによって説明されるが、その交換のみで光栄養生物の応答が説明できるかどうかが検証されることは稀であった。我々は、スクロース分泌性シアノバクテリアであるSynechococcus elongatusと酵母Rhodotorula toruloidesを合成群集として、混合共培養または膜分離共培養（孔径0.22 m）で培養し、それぞれに一致させた無菌対照群を設けた。代謝物交換はいずれの構成においても起こり、スクロースは酵母に到達して消費され、酵母由来の代謝物はシアノバクテリアに到達した。酵母は膜の後方でより高い最終密度に達した一方、シアノバクテリアが無菌対照群に対して約9%の増加を示したのは、混合共培養においてのみであった。しかし、シアノバクテリアのトランスクリプトームは共局在によってのみ応答し、51個の遺伝子の発現が経時的に一貫して変化した（日平均q < 0.05）のに対し、膜の後方では1個の遺伝子のみが変化し、発現変動遺伝子数は4日目の20個から91個へ、6日目および8日目には127個へと増加した。主に窒素と光合成に関わる9つの調節プログラム（iModulons）が混合共培養で応答したが、膜の後方では一つも応答しなかった。リアクターの構成だけで、無菌培養において40個の遺伝子が変化した。これらの結果は、代謝物交換に加えて共局在が、従属栄養パートナーが光栄養生物の応答を誘発するために必要であったことを示唆している。共有代謝物から相互作用を推論する共培養研究では、空間構造に依存する効果が見逃される可能性がある。重要性 光駆動型微生物とそれに共生する従属栄養生物とのパートナーシップは、海洋や土壌において大量の炭素を移動させており、現在は二酸化炭素を燃料や化学物質に変換することを目的として構築されている。こうしたパートナーシップは通常、パートナー間で交換される化学物質によって記述されるため、我々はそれらの化学物質だけで十分なのかを検証した。シアノバクテリアSynechococcus elongatusと酵母Rhodotorula toruloidesを、一つの容器内、あるいは分子は通過できるが細胞は通過できない膜で隔てられた二つのチャンバー内で共培養した。酵母は両方のチャンバーでシアノバクテリアの糖を栄養源としたが、シアノバクテリアが遺伝子活性を変化させたのは、両者が空間を共有していたときのみであった。自然界のパートナーは通常、均一に混ざり合うのではなくクラスターを形成しているため、近接性が化学物質そのものと同等に寄与している可能性がある。工学的に制御した培養においてパートナーを分離させても、従属栄養生物に炭素を供給することは可能だが、光栄養生物にパートナーシップの恩恵をもたらすとは限らない。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "光栄養生物と従属栄養生物の相互作用は、通常、クロスフィーディングによって説明されるが、その交換のみで光栄養生物の応答が説明できるかどうかが検証されることは稀であった。我々は、スクロース分泌性シアノバクテリアであるSynechococcus elongatusと酵母Rhodotorula toruloidesを合成群集として、混合共培養または膜分離共培養（孔径0.22 μm）で培養し、それぞれに一致させた無菌対照群を設けた。代謝物交換はいずれの構成においても起こり、スクロースは酵母に到達して消費され、酵母由来の代謝物はシアノバクテリアに到達した。酵母は膜の後方でより高い最終密度に達した一方、シアノバクテリアが無菌対照群に対して約9%の増加を示したのは、混合共培養においてのみであった。しかし、シアノバクテリアのトランスクリプトームは共局在によってのみ応答し、51個の遺伝子の発現が経時的に一貫して変化した（日平均q < 0.05）のに対し、膜の後方では1個の遺伝子のみが変化し、発現変動遺伝子数は4日目の20個から91個へ、6日目および8日目には127個へと増加した。主に窒素固定と光合成に関わる9つの調節プログラム（iModulons）が混合共培養で応答したが、膜の後方では一つも応答しなかった。リアクターの構成だけで、無菌培養において40個の遺伝子が変化した。これらの結果は、代謝物交換に加えて共局在が、従属栄養パートナーが光栄養生物の応答を誘発するために必要であったことを示唆している。共有代謝物から相互作用を推論する共培養研究では、空間構造に依存する効果が見逃される可能性がある。重要性 光駆動型微生物とそれに共生する従属栄養生物とのパートナーシップは、海洋や土壌において大量の炭素を移動させており、現在は二酸化炭素を燃料や化学物質に変換することを目的として構築されている。こうしたパートナーシップは通常、パートナー間で交換される化学物質によって記述されるため、我々はそれらの化学物質だけで十分なのかを検証した。シアノバクテリアSynechococcus elongatusと酵母Rhodotorula toruloidesを、一つの容器内、あるいは分子は通過できるが細胞は通過できない膜で隔てられた二つのチャンバー内で共培養した。酵母はいずれにおいてもシアノバクテリアの糖を栄養源としたが、シアノバクテリアが遺伝子活性を変化させたのは、両者が空間を共有していたときのみであった。自然界のパートナーは通常、均一に混ざり合うのではなくクラスターを形成しているため、近接性が化学物質そのものと同等に寄与している可能性がある。工学的に制御した培養においてパートナーを分離させても、従属栄養生物に炭素を供給することは可能だが、光栄養生物にパートナーシップの恩恵をもたらすとは限らない。"
   },
   {
     "id": "10.64898/2026.11.05.764488",
@@ -96391,8 +96407,8 @@
   {
     "id": "10.64898/2026.11.04.764348",
     "doi": "10.64898/2026.11.04.764348",
-    "title": "Widespread Saccharomyces hybridization in agave fermentations arises repeatedly from asymmetric parental diversity",
-    "abstract": "Interspecific hybridization can profoundly reshape genomes by bringing together divergent genetic backgrounds, yet its ecological and evolutionary dynamics remain poorly understood at the population level. Here, we identify an extensive hybridization system in traditional agave fermentations across Mexico involving Saccharomyces cerevisiae, a species frequently associated with human-managed environments, and its predominantly wild relative S. paradoxus. A genomic survey reveals unexpectedly high hybrid frequencies in geographically distant regions with contrasting environments. Targeted sampling of distilleries and surrounding natural sites reveals a strong ecological bias, with hybrids recovered almost exclusively from distilleries, although both parental species occur in anthropogenic and natural habitats. Hybrid genomes show extensive architectural diversity, including distinct ploidies, variable parental genome contributions, variable patterns of heterozygosity, and contrasting mitochondrial ancestries. Phylogenomic and population-structure analyses of hybrid subgenomes demonstrate multiple independent origins. These recurrent events show pronounced asymmetry in parental genetic diversity. Hybrids derive from several S. cerevisiae populations, already shaped by extensive introgression, whereas every S. paradoxus subgenome traces to a single genetically differentiated S. paradoxus lineage found exclusively in distilleries, an unexpected association for a predominantly wild species. These findings establish agave fermentations as an exceptional system for studying recurrent interspecific hybridization and reveal how pronounced asymmetry in parental ancestry can shape hybrid formation.",
+    "title": "Widespread  Saccharomyces  hybridization in agave fermentations arises repeatedly from asymmetric parental diversity",
+    "abstract": "Interspecific hybridization can profoundly reshape genomes by bringing together divergent genetic backgrounds, yet its ecological and evolutionary dynamics remain poorly understood at the population level. Here, we identify an extensive hybridization system in traditional agave fermentations across Mexico involving  Saccharomyces cerevisiae , a species frequently associated with human-managed environments, and its predominantly wild relative  S. paradoxus . A genomic survey reveals unexpectedly high hybrid frequencies in geographically distant regions with contrasting environments. Targeted sampling of distilleries and surrounding natural sites reveals a strong ecological bias, with hybrids recovered almost exclusively from distilleries, although both parental species occur in anthropogenic and natural habitats. Hybrid genomes show extensive architectural diversity, including distinct ploidies, variable parental genome contributions, variable patterns of heterozygosity, and contrasting mitochondrial ancestries. Phylogenomic and population-structure analyses of hybrid subgenomes demonstrate multiple independent origins. These recurrent events show pronounced asymmetry in parental genetic diversity. Hybrids derive from several  S. cerevisiae populations, already shaped by extensive introgression, whereas every  S. paradoxus subgenome traces to a single genetically differentiated  S. paradoxus lineage found exclusively in distilleries, an unexpected association for a predominantly wild species. These findings establish agave fermentations as an exceptional system for studying recurrent interspecific hybridization and reveal how pronounced asymmetry in parental ancestry can shape hybrid formation.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -96401,25 +96417,28 @@
       "10.64898/2026.11.04.764348"
     ],
     "date": "2026-11-06",
-    "authors": "Avelar-Rivas, J. A.; Aguirre-Dugua, X.; Lopez-Gallegos, C.; Sedeno, I.; Echavarria-Solana, R.; Santiago-Garduno, E.; Arias, M.; Kirchmayr, M. R.; Liti, G.; Morales, L.; DeLuna, A.; Mancera, E.",
+    "authors": "Avelar-Rivas JA, Aguirre-Dugua X, Lopez-Gallegos C, Sedeno I, Echavarria-Solana R, Santiago-Garduno E, Arias M, Kirchmayr MR, Liti G, Morales L, DeLuna A, Mancera E.",
     "tags": [
       "微生物ゲノミクス",
       "微生物進化"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764348v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1361168",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "Saccharomyces"
       ],
       "context": {
         "marine": [],
         "genomics": [
-          "genom",
           "evolution",
-          "phylogen"
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
         ],
         "evolution": [
           "evolution",
@@ -96435,27 +96454,42 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC topics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-08",
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
-        "hash": "e4214a5fa9cb9cda4e0ac083384ebd0de2775b2a4439571acfc3be72e595e16d",
+        "hash": "d03f449ed128bfdf46acfc5726eda891186fad563eea5a949c0745948601cff7",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T07:19:34.467143+00:00",
+        "date": "2026-11-13T23:39:24.620275+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "ffb69e49ab1926a0f07d989d435bc65436ddcebc2aeb478c41485e3d0ff15b3b",
+        "hash": "34b7972ff8ab67812d11d480bec78fcb4de85a92dc212c3aff68e13d12c120c5",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T07:19:34.467143+00:00",
+        "date": "2026-11-13T23:39:24.620275+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "アガベ発酵における広範なサッカロマイセス交雑は、非対称な親多様性に起因して繰り返し生じる。",
-    "abstract_ja": "種間交雑は、異なる遺伝的背景を融合させることでゲノムを劇的に変容させ得るが、その生態学的・進化的な動態は集団レベルでは依然として十分に解明されていない。本研究では、メキシコ全域の伝統的なアガベ発酵において、人間管理環境としばしば関連付けられる種であるSaccharomyces cerevisiaeと、その大部分が野生種である近縁種S. paradoxusが関与する広範な交雑系を同定した。ゲノム調査により、地理的に離れ、環境が対照的な地域において、予想外に高い交雑頻度が認められた。蒸留所および周辺の自然地点を対象としたサンプリングの結果、強い生態学的バイアスが明らかになり、両親種はいずれも人為的および自然的生息地に分布しているにもかかわらず、交雑体はほぼ例外なく蒸留所から回収された。交雑ゲノムは、異なる倍数性、両親ゲノムの寄与度の差異、ヘテロ接合性パターンの多様性、および対照的なミトコンドリア祖先系統を含む、広範な構造的多様性を示した。交雑サブゲノムの系統ゲノム解析および集団構造解析により、複数の独立した起源が示された。これらの反復的な事象は、両親の遺伝的多様性において顕著な非対称性を示している。交雑体は、すでに広範な遺伝子浸透によって形成された複数のS. cerevisiae集団に由来するのに対し、S. paradoxusのすべてのサブゲノムは、蒸留所にのみ見られる単一の遺伝的に分化したS. paradoxus系統に遡っており、これは大部分が野生種である種としては予想外の関連性である。これらの知見は、アガベ発酵を反復的な種間交雑を研究するための卓越した系として確立するものであり、両親の祖先系統における顕著な非対称性がいかにして交雑体の形成を形作り得るかを明らかにしている。",
-    "discovery": []
+    "abstract_ja": "種間交雑は、異なる遺伝的背景を融合させることでゲノムを劇的に変容させ得るが、その生態学的・進化的な動態は集団レベルでは依然として十分に解明されていない。本研究では、メキシコ全域の伝統的なアガベ発酵において、人間が管理する環境としばしば関連付けられるSaccharomyces cerevisiaeと、その大部分が野生種である近縁種S. paradoxusが関与する広範な交雑系を同定した。ゲノム調査により、地理的に離れ、環境が対照的な地域において、予想外に高い交雑頻度が認められた。蒸留所および周辺の自然地点を対象としたサンプリングの結果、強い生態学的バイアスが明らかになり、両親種はいずれも人為的および自然的生息地に分布しているにもかかわらず、交雑体はほぼ例外なく蒸留所から回収された。交雑ゲノムは、明確な倍数性、親ゲノムの寄与度のばらつき、ヘテロ接合性パターンの多様性、および対照的なミトコンドリア祖先系統を含む、広範な構造的多様性を示した。交雑サブゲノムの系統ゲノム解析および集団構造解析により、複数の独立した起源が示された。これらの反復的な事象は、親系統の遺伝的多様性において顕著な非対称性を示している。交雑体は、すでに広範な遺伝子浸透によって形成された複数のS. cerevisiae集団に由来するのに対し、S. paradoxusの各サブゲノムは、蒸留所にのみ見られる遺伝的に分化した単一のS. paradoxus系統に遡っており、これは大部分が野生種である種としては予想外の関連性である。これらの知見は、アガベ発酵が反復的な種間交雑を研究するための卓越した系であることを立証し、親系統の祖先における顕著な非対称性がいかに交雑体の形成を左右し得るかを明らかにするものである。"
   },
   {
     "id": "10.64898/2026.11.04.763790",
@@ -197562,5 +197596,169 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "系統的なベンチマークにより、高品質なゲノムアセンブリのためのDNAポリメラーゼの組み合わせが明らかになった。",
     "abstract_ja": "背景：生物多様性ゲノミクスにおける根本的な課題は、エタノール保存標本、低侵襲生検、および小型生物など、ゴールドスタンダードとなる急速凍結組織を欠く試料から、ロングリードシーケンシングデータおよび高品質なゲノムアセンブリを生成することである。増幅ベースのライブラリ調製により、こうした試料のロングリードシーケンシングが可能となるが、アセンブリの品質は増幅に用いるポリメラーゼに決定的に依存する。結果：我々は、トビムシ、ウミウシ、およびコウモリという分類学的に多様な3種を対象に、PacBio HiFiシーケンシングおよびゲノムアセンブリのための11種類のロングレンジDNAポリメラーゼの系統的なベンチマーク結果を提示する。ポリメラーゼの選択がアセンブリの連続性および遺伝子完全性に著しく影響することを示し、その主な要因は、ポリメラーゼ固有のGC依存的な増幅バイアスとリードカバレッジの不均一性にあることを解明した。5種類のポリメラーゼは、一貫して比較的高い連続性と完全性を有するアセンブリを生成し、一部の酵素はPacBio Ampli-Fiプロトコルで現在使用されているポリメラーゼを上回る性能を示した。重要な点として、異なるポリメラーゼで増幅したリードを組み合わせることで、しばしばより優れたアセンブリが得られた。これは、ポリメラーゼ同士が互いを補完し合い、他のポリメラーゼがカバーしきれなかった領域をカバーするためである。異なるポリメラーゼで増幅したリードを組み合わせることで、約1 Gbのトビムシおよび約2 Gbのコウモリのゲノムのハプロタイプ解析済みアセンブリを生成し、ウミウシのリファレンスゲノムを改良した。ヒトGIABベンチマークを用いて、最適化された増幅戦略がバリアントコールの精度を向上させることをさらに示し、医学および臨床研究における有用性を強調した。追加の分類群にわたるポリメラーゼのベンチマークを容易にするため、計算ワークフローを自動化するpolymevalパイプライン（https://github.com/casparbein/polymeval）を提供する。結論：本研究は、最適化された増幅ベースのHiFiシーケンシングが、1 Mbを超えるコンティグN50および90%を超える遺伝子完全性を有するアセンブリを生成することを実証し、困難な試料からロングリードゲノムアセンブリを作成するためのツールキットを提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765934",
+    "title": "Elucidating Bat SuperImmunity: Insights from the Bent-Wing Bat Genome Assembly and Multi-Omics Analysis",
+    "abstract": "Bats have evolved a range of unique adaptations, including powered flight, echolocation, and exceptional longevity. They have also attracted considerable scientific attention, particularly since the COVID-19 pandemic, due to their association with a broad diversity of viruses and their potential role in zoonotic transmission and emerging infectious diseases. Despite hosting numerous viruses, bats often exhibit limited clinical manifestations of infection, suggesting the evolution of distinctive mechanisms of immune regulation and tolerance. Understanding the molecular basis of these mechanisms has become a major focus of current research, with genome-wide analyses providing important insights into the genetic adaptations underlying bat immunity. Nevertheless, the regulatory complexity of bat genomes, particularly the contribution of non-coding RNAs and post-transcriptional RNA editing, remains comparatively underexplored. Here, we present an integrated multi-omic framework for the common bent-wing bat (Miniopterus schreibersii), combining a contiguous chromosome-scale genome assembly with multi-tissue transcriptomic profiling, long non-coding RNA (lncRNA) identification and synteny analysis, endogenous viral elements (EVE) mapping, and same-individual RNA editomic analyses. This study provides a comprehensive resource for investigating genome organization, transcriptional regulation, evolutionary relationships, and post-transcriptional modifications in this species. In particular, it offers an opportunity to explore the potential contribution of non-coding regulatory elements and RNA editing to the molecular mechanisms underlying viral interactions and immune regulation in bats. Collectively, these resources provide a valuable foundation for advancing our understanding of bat genome evolution and the regulatory mechanisms potentially associated with their distinctive responses to viral infections.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765934",
+    "date": "2026-11-13",
+    "authors": "Herrera-Ubeda, C., Zawisza-Alvarez, M., Catalan-Rabaneda, M., Serra-Cobo, J., Garcia-Fernandez, J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765934v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "assembly",
+        "framework",
+        "genome",
+        "transcriptomic",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4401,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765934"
+    ],
+    "translation": {
+      "title": {
+        "hash": "88f92cb82f4e5a5333dbf7123d1aecc84d41a7db06d7ea948c6c99647479d34e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:39:24.620275+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2157b7f2a730703db626e11295dc1847b921728f90f1928671ef72228a6826fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:39:24.620275+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コウモリのスーパー免疫の解明：折れ翼コウモリのゲノムアセンブリとマルチオミクス解析から得られた知見",
+    "abstract_ja": "コウモリは、動力飛行、エコーロケーション、極めて長い寿命など、多岐にわたる独自の適応形質を進化させてきた。また、多種多様なウイルスとの関連性や、人獣共通感染症および新興感染症の伝播における潜在的な役割から、特にCOVID-19パンデミック以降、科学的に大きな注目を集めている。数多くのウイルスを宿しているにもかかわらず、コウモリでは感染による臨床症状が限られていることが多く、これは免疫調節および耐性の特異的な機構が進化してきたことを示唆している。これらの機構の分子基盤の解明は現在の研究の主要な焦点となっており、ゲノムワイド解析によって、コウモリの免疫を支える遺伝的適応に関する重要な知見が得られている。しかしながら、コウモリゲノムの調節の複雑性、特に非コードRNAの寄与や転写後RNA編集については、比較的十分に解明されていない。本研究では、コモンベントウィングコウモリ（Miniopterus schreibersii）を対象とした統合的なマルチオミクスフレームワークを提示する。このフレームワークは、連続的な染色体スケールのゲノムアセンブリと、多組織トランスクリプトームプロファイリング、長鎖非コードRNA（lncRNA）の同定およびシンテニー解析、内因性ウイルス要素（EVE）マッピング、および同一個体内RNAエディドミクス解析を組み合わせたものである。本研究は、本種におけるゲノム構成、転写調節、進化的関係、および転写後修飾を調査するための包括的なリソースを提供する。特に、非コード調節要素やRNA編集が、コウモリにおけるウイルス相互作用および免疫調節の根底にある分子機構に及ぼし得る潜在的な寄与を探索する機会を提供する。総じて、これらのリソースは、コウモリのゲノム進化、およびウイルス感染に対する特異的な応答に関連し得る調節機構の理解を深めるための貴重な基盤となる。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765853",
+    "title": "MicroDUET: a dual-headed genomic foundation model for pathogen surveillance",
+    "abstract": "Pathogen genomic surveillance works from raw reads, assembled genomes and alignments, representations that are slow and costly to compare at scale. Compact embeddings from genomic language models offer an alternative, but surveillance requires resolving both evolutionary ancestry (phylogeny) and phenotypic capability (function) - which need not co-vary. Here we present MicroDUET, which adapts a 26.6-million-parameter ProkBERT backbone with two 3.5-million-parameter adapter heads: a phylogeny head trained contrastively on genome windows from the same microbes, and a function head trained to identify genes across taxa. On held-out retrieval benchmarks, the phylogeny head returned the correct species for 80.3% and 66.6% of cellular and viral queries, and the function head the correct gene family for 97.3% and 97.2%, reaching 74.4% accuracy on an independent antimicrobial resistance-class benchmark. Across all three benchmarks MicroDUET outranked 17 other genomic encoders. Without training on lineage, clade or drug-susceptibility tasks, MicroDUET identified Mycobacterium tuberculosis and mpox virus lineages and clades (0.965, 0.975 accuracy), discriminated rifampicin resistance without lineage adjustment (AUROC 0.985), and retrospectively identified an emerging mpox lineage as anomalous (AUROC 0.974). MicroDUET operates 10^3 - 10^4 times faster than single-threaded sequence-based alignments. MicroDUET therefore provides a compact, reusable representation for scalable pathogen surveillance and sequence triage.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765853",
+    "date": "2026-11-13",
+    "authors": "Barber, M., Suster, C. J. E., Lei, J., Getchell, M., Wulandari, S., Sintchenko, V., Pronyk, P. M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765853v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4402,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765853"
+    ],
+    "translation": {
+      "title": {
+        "hash": "492827a4b0f0365a801ab3220d7e0de7dec88f4747e3ed4bd087c942154bc9e7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:39:24.620275+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dc7e69ef013bc42fff0d31936f1bca1205a10fdf10795b1344b64ed1df720a8a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:39:24.620275+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MicroDUET：病原体サーベイランスのためのデュアルヘッド型ゲノム基盤モデル",
+    "abstract_ja": "病原体のゲノムサーベイランスは、生のリード、アセンブル済みゲノム、およびアライメントを対象とするが、これらの表現形式を大規模に比較することは時間とコストがかかる。ゲノム言語モデルによるコンパクトな埋め込み表現は代替案となり得るが、サーベイランスには進化的祖先（系統）と表現型能力（機能）の双方を解明する必要があり、これらは必ずしも共変するとは限らない。本稿では、2,660万パラメータのProkBERTバックボーンに、2つの350万パラメータのアダプターヘッド（同一微生物のゲノムウィンドウを用いて対照学習させた系統ヘッドと、分類群を横断して遺伝子を同定するように学習させた機能ヘッド）を組み合わせたMicroDUETを提案する。ホールドアウトした検索ベンチマークにおいて、系統ヘッドは細胞およびウイルスクエリの80.3%および66.6%で正しい種を返し、機能ヘッドは97.3%および97.2%で正しい遺伝子ファミリーを返した。また、独立した薬剤耐性クラスベンチマークでは74.4%の正解率を達成した。3つのベンチマークすべてにおいて、MicroDUETは他の17種類のゲノムエンコーダーを上回った。系統、クレード、または薬剤感受性タスクの学習を行わずに、MicroDUETは結核菌（Mycobacterium tuberculosis）およびエムポックスウイルスの系統とクレードを同定し（正解率0.965、0.975）、系統調整なしでリファンピシン耐性を判別し（AUROC 0.985）、さらに新興のエムポックス系統を事後的に異常として同定した（AUROC 0.974）。MicroDUETは、シングルスレッドの配列ベースアライメントよりも10^3～10^4倍高速に動作する。したがって、MicroDUETは、スケーラブルな病原体サーベイランスおよび配列トリアージのための、コンパクトで再利用可能な表現形式を提供する。"
   }
 ]
