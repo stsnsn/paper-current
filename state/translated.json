@@ -181590,5 +181590,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CRISPR/Cas9介在性PD-L1ノックアウトは、ブタ肺胞マクロファージにおけるPRRSV感染に対する時間応答性トランスクリプトーム応答を変化させる。",
     "abstract_ja": "豚生殖呼吸器症候群ウイルス（PRRSV）は、豚肺胞マクロファージにおける自然抗ウイルス免疫を抑制しており、PD-1/PD-L1軸がこの免疫調節不全に寄与していると考えられている。本研究では、野生型（WT）不死化豚肺胞マクロファージ（iPAMs）と比較して、PD-L1ノックアウト（KO）がPRRSV感染に対する宿主の転写応答をどのように変化させるかを検討した。PD-L1 KO iPAMsは、CRISPR/Cas9を用いて豚CD274遺伝子座のエクソン2を標的として作製し、クローン#35においてノックアウトが確認された。PRRSV-2感染後、KO#35細胞では、感染後48時間時点でWT細胞と比較してウイルスRNAの蓄積が約5分の1に減少した。次いで、急性PRRSV-2感染時におけるPD-L1 KOの転写上の影響を明らかにするため、感染後0、6、および48時間の時点で経時的なRNAシーケンシングを実施した。PD-L1 KO iPAMsでは、免疫チェックポイントおよび疲弊関連遺伝子（LAG3、PDCD1、TIGIT、TOXファミリー）ならびにNF-κB阻害因子（SOCS4、NFKBIA）の発現低下が認められた一方で、抗原提示（SLA-2、SLA-5、B2M、SLA-DMA、SLA-DMB、HLA-DRAなどのMHC I/II遺伝子）および共刺激分子（CD80、CD86、CD40）の発現上昇が認められた。サイトカインプロファイリングの結果、CXCL10/11、ISGs（MX1/2、ISG15、IFIT1-3）、および特定のインターロイキン（IL15、IL6）の持続的な上昇を含む、抗ウイルスシグナル伝達に有利なリプログラミングされた応答が示されるとともに、各時点において炎症性のTNFおよびCXCL8が抑制されていた。パスウェイエンリッチメント解析により、サイトカイン-受容体相互作用パスウェイの有意な濃縮が明らかになった。重み付き遺伝子共発現ネットワーク解析（WGCNA）では、自然免疫活性化に関連する1,763個のDEGを含む主要な共発現モジュールがさらに同定された。さらに、タンパク質間相互作用（PPI）ネットワーク解析により、PI3K-Aktシグナル伝達およびナチュラルキラー細胞の細胞傷害性パスウェイに関連する主要なハブ遺伝子としてPXDNが検出された。これらの知見は、in vitro iPAMモデルにおいて、PD-L1欠損とPRRSV感染に対するマクロファージの転写応答の変化との関連性に関するトランスクリプトームレベルの知見を提供するとともに、PRRSVの病態形成におけるPD-L1の今後の機序的研究の基礎となるものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1186",
+    "title": "Strand-displacement amplification reduces structure-induced PCR bias and preserves structurally diverse aptamers during SELEX",
+    "abstract": "AbstractStable secondary structures are important for aptamer folding and target recognition, but they can introduce structure-dependent amplification bias during Systematic Evolution of Ligands by Exponential Enrichment (SELEX), with G-quadruplexes (G4s) representing the most demanding case. Here, we introduce strand-displacement SELEX (SD-SELEX), which employs a polymerase with robust 5′→3′ strand-displacement activity to improve the amplification of structured templates. Comparative analyses showed that SD polymerase efficiently amplified hairpin- and G4-forming templates, whereas Taq polymerase exhibited structure-dependent amplification variability. In parallel thrombin SELEX experiments, SD-SELEX achieved 37-fold greater structural preservation and 65-fold higher batch-to-batch reproducibility than Taq-SELEX over 11 rounds. High-throughput sequencing further showed that SD-SELEX maintained G4 motif representation and progressively enriched the known 15-mer thrombin-binding aptamer through round 8, after which it was gradually replaced by newly identified G4 variants, whereas Taq-SELEX progressively depleted these sequences. SD-SELEX also identified novel G4 aptamers with affinities comparable to that of the reference aptamer, whereas representative Taq-SELEX candidates generally showed weaker binding. A parallel selection against VEGF-165 showed the same divergence, with SD-SELEX retaining structurally complex sequences and a previously reported functional motif that were progressively lost under Taq. Thus, SD-SELEX primarily improves aptamer discovery by reducing structure-induced amplification bias and preserving structurally diverse functional candidates, rather than by substantially increasing affinity alone.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1186",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1186/9029962?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3298,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1186"
+    ],
+    "translation": {
+      "title": {
+        "hash": "99c61b599e4d9f9645c461ac9bd25e39aac0879abd60a0c64b29870fcd4df842",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:59:13.399636+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "def142925abd2916025a722095c0b8b98051af6494a8b1816e5c0dadcd4b688e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:59:13.399636+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ストランド置換増幅は、構造に起因するPCRバイアスを低減し、SELEXにおいて構造的に多様なアプタマーを保持する。",
+    "abstract_ja": "要旨 安定した二次構造は、アプタマーのフォールディングと標的認識において重要であるが、指数的濃縮によるリガンドの系統的進化（SELEX）においては、構造依存的な増幅バイアスを引き起こす可能性があり、特にG-四重鎖（G4）が最も困難なケースとなる。本研究では、強固な5′→3′鎖置換活性を有するポリメラーゼを用いて構造化テンプレートの増幅を改善する、鎖置換SELEX（SD-SELEX）を提案する。比較解析の結果、SDポリメラーゼはヘアピン型およびG4形成型テンプレートを効率的に増幅したのに対し、Taqポリメラーゼは構造依存的な増幅変動を示した。並行して実施したトロンビンSELEX実験において、SD-SELEXは11ラウンドにわたり、Taq-SELEXよりも37倍高い構造保存性と、65倍高いバッチ間再現性を達成した。ハイスループットシーケンシングにより、SD-SELEXはG4モチーフの表現を維持し、ラウンド8まで既知の15量体トロンビン結合アプタマーを漸次的に濃縮したが、その後は新たに同定されたG4バリアントに徐々に置き換わった。一方、Taq-SELEXはこれらの配列を漸次的に枯渇させた。また、SD-SELEXは参照アプタマーと同等の親和性を持つ新規G4アプタマーを同定したが、代表的なTaq-SELEX候補は一般に結合力が弱かった。VEGF-165に対する並行選択においても同様の分岐が認められ、SD-SELEXは構造的に複雑な配列や既報の機能的モチーフを保持していたが、これらはTaqの下で漸次的に消失した。したがって、SD-SELEXは、単に親和性を大幅に向上させるのではなく、構造に起因する増幅バイアスを低減し、構造的に多様な機能的候補を保存することで、主にアプタマーの探索を改善するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pcbi.1014332",
+    "title": "KmerSignificance score: A discriminative and biologically informed framework for viral k-mer prioritization.",
+    "abstract": "Distinguishing closely related viral strains requires identifying genomic regions where subtle sequence differences carry biological significance. While k-mer-based approaches offer computational efficiency for genome analysis, existing methods lack standardized frameworks for evaluating which k-mers are most informative. Current selection strategies focus primarily on statistical discriminative power without integrating biological context. We introduce KmerSignificance Score (KSS), a k-mer prioritization framework combining three components: an information-theoretic method measuring strain-distinguishing capacity, an optimized amino acid substitution matrix (MIYATA_EVO) for mutation impact assessment, and a protein characterization score derived from annotations and database cross-references retrieved through UniProt. All three component scores and the integrated KSS are bounded in [0,1] by construction, providing a common numerical scale for ranking positions within a dataset. The discriminative component achieved a mean F1 of 0.881, not significantly different from chi-squared (0.876), the strongest of eight baselines. Top-ranked selections from the discriminative component nonetheless differed from those produced by chi-squared, especially for SARS-CoV-2 and HIV-1. The MIYATA_EVO matrix, optimized using a genetic algorithm, increased the composite agreement score across eight amino acid characteristics by 28.4% over the original MIYATA matrix. Across 17,471 viral proteins, the protein characterization score tracked UniProt's five-level annotation score closely (Kendall's τ=0.775), as expected for measures drawing on overlapping annotation content. Within each level, the continuous score provided finer numerical resolution among proteins. Literature cross-referencing on SARS-CoV-2 (278,738 sequences, 19 Pango-derived lineage labels), HIV-1 (12,223 sequences, 15 subtype labels), and human cytomegalovirus (HCMV; 399-646 sequences, 4-8 locus-specific genotypes) found that the top-ranked k-mers reported here map to established variant-defining mutations, subtype-specific polymorphisms, and genotype markers. KSS provides a standardized framework for viral k-mer prioritization with potential applications in variant surveillance, molecular epidemiology, and functional annotation. The tool is available at https://github.com/bioinfoUQAM/KmerSignificanceScore.",
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014332",
+    "date": "2026-10-27",
+    "authors": "Lebatteux D, Corso F, Soudeyns H, Boucoiran I, Gantt S, Baniré Diallo A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42945372",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739238",
+    "pmid": "42945372",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "amino acid",
+        "annotation",
+        "database",
+        "framework",
+        "method",
+        "protein",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1187,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pcbi.1014332"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9d52cd03542b828028c89c39f13cf0fe0c9ccec3b3343594077825f475ba44ee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:59:13.399636+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2a5a97886de400bbd6c9b50a18c37a8b886f5f35a9875aa63f47f47b767ba4a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:59:13.399636+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "KmerSignificanceスコア：ウイルスk-merの優先順位付けのための識別的かつ生物学的知見に基づくフレームワーク。",
+    "abstract_ja": "近縁なウイルス株を識別するには、わずかな配列差が生物学的意義を持つゲノム領域を特定する必要がある。k-merベースの手法はゲノム解析において計算効率に優れているが、既存の手法には、どのk-merが最も情報量が高いかを評価するための標準化されたフレームワークが欠けている。現在の選択戦略は、生物学的文脈を組み込むことなく、主に統計的な識別能に焦点を当てている。本稿では、株識別能を測定する情報理論的手法、変異の影響評価のための最適化されたアミノ酸置換行列（MIYATA_EVO）、およびUniProtを通じて取得したアノテーションとデータベース相互参照から導出されるタンパク質特性評価スコアという3つの構成要素を組み合わせたk-mer優先順位付けフレームワーク「KmerSignificance Score (KSS)」を提案する。これら3つの構成要素のスコアおよび統合されたKSSは、設計上[0,1]の範囲に収まっており、データセット内の位置をランク付けするための共通の数値尺度を提供する。識別コンポーネントの平均F1値は0.881であり、8つのベースラインの中で最も強力なカイ二乗値（0.876）と有意な差は認められなかった。それにもかかわらず、識別コンポーネントによる上位選択結果は、特にSARS-CoV-2およびHIV-1において、カイ二乗値による結果とは異なっていた。遺伝的アルゴリズムを用いて最適化されたMIYATA_EVO行列は、元のMIYATA行列と比較して、8つのアミノ酸特性にわたる複合一致スコアを28.4%向上させた。17,471個のウイルスタンパク質において、タンパク質特性評価スコアはUniProtの5段階アノテーションスコアと密接に一致しており（Kendall's τ=0.775）、これは重複するアノテーション内容に基づく指標に期待される結果である。各レベル内において、連続スコアはタンパク質間のより精緻な数値分解能を提供した。SARS-CoV-2（278,738配列、19個のPango由来系統ラベル）、HIV-1（12,223配列、15個のサブタイプラベル）、およびヒトサイトメガロウイルス（HCMV; 399-646配列、4-8個の遺伝子座特異的遺伝子型）に関する文献相互参照の結果、本稿で報告する上位k-merは、確立された変異定義変異、サブタイプ特異的多型、および遺伝子型マーカーにマッピングされることが判明した。KSSは、ウイルスk-merの優先順位付けのための標準化されたフレームワークを提供し、変異サーベイランス、分子疫学、および機能アノテーションへの応用が期待される。本ツールは https://github.com/bioinfoUQAM/KmerSignificanceScore で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0362474",
+    "title": "Integrated network toxicology and experimental validation identify VCAM1 as a candidate molecular link between pyrethroid exposure and keloid.",
+    "abstract": "BackgroundKeloids are fibroproliferative skin lesions characterized by excessive extracellular matrix deposition. The potential molecular links between pyrethroid exposure and keloid-associated alterations remain unclear.MethodsWe integrated network toxicology, machine learning, single-cell transcriptomics, virtual gene perturbation, molecular docking, molecular dynamics simulation, external transcriptomic validation, and qRT-PCR to investigate candidate molecular links between pyrethroid exposure and keloid.ResultsA total of 127 shared candidate targets between pyrethroid insecticides and keloid were identified, mainly enriched in MAPK, PI3K-Akt, and FoxO signaling pathways. Three machine-learning algorithms prioritized VCAM1 and FGFR1. In GSE145725, both genes showed significant differential expression and high dataset-level discriminatory performance. In the integrated external validation cohort generated from GSE90051 and GSE158395, VCAM1 remained significantly upregulated and showed good discriminatory performance (AUC = 0.869), whereas FGFR1 showed weaker external support (AUC = 0.677) without significant differential expression. Molecular docking and 100-ns molecular dynamics simulation supported the structural plausibility of selected pyrethroid-target interactions, particularly theta-cypermethrin with VCAM1. Single-cell analysis characterized the cell-type-specific distribution of candidate genes, while virtual gene perturbation suggested a putative VCAM1-SOCS3 regulatory relationship. qRT-PCR further showed that 20 μM cypermethrin exposure for 24 h significantly increased VCAM1 mRNA expression in KEL FIB cells.ConclusionVCAM1 emerged as the most consistently supported candidate linking cypermethrin exposure with keloid-associated molecular alterations, while the predicted VCAM1-SOCS3 relationship requires further mechanistic validation.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0362474",
+    "date": "2026-11-10",
+    "authors": "Wang Z, Yang C, Wang W, Zhang Z, Sun Z, Diao Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43008012",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13750557",
+    "pmid": "43008012",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2934,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1371/journal.pone.0362474"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fae65d70b8094d0f254b73204b01f5bd8b3b2721817a25e5b4407ccf6d4a8a98",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:59:13.399636+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "90d97d82d2ba3750766cf650bb46649ef73a08867843ea7c2b2603e348e338df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:59:13.399636+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合的なネットワーク毒性学および実験的検証により、VCAM1がピレスロイド曝露とケロイドを結ぶ分子的媒介因子の候補として同定された。",
+    "abstract_ja": "背景ケロイドは、過剰な細胞外マトリックス沈着を特徴とする線維増殖性皮膚病変である。ピレスロイド曝露とケロイド関連変化との間の潜在的な分子的関連性は、依然として不明である。方法ネットワーク毒性学、機械学習、シングルセルトランスクリプトミクス、仮想遺伝子摂動、分子ドッキング、分子動力学シミュレーション、外部トランスクリプトーム検証、およびqRT-PCRを統合し、ピレスロイド曝露とケロイドの間の候補分子関連性を検討した。結果ピレスロイド系殺虫剤とケロイドの間で計127個の共通候補標的が同定され、主にMAPK、PI3K-Akt、およびFoxOシグナル伝達経路に濃縮されていた。3つの機械学習アルゴリズムにより、VCAM1とFGFR1が優先的に同定された。GSE145725において、両遺伝子は有意な発現差を示し、データセットレベルで高い識別性能を示した。GSE90051およびGSE158395から生成された統合外部検証コホートにおいて、VCAM1は有意に発現上昇しており、良好な識別性能（AUC = 0.869）を示した一方、FGFR1は有意な発現差を認めず、外部的な支持はより弱かった（AUC = 0.677）。分子ドッキングおよび100 ns分子動力学シミュレーションにより、選択されたピレスロイド-標的相互作用、特にシータ-シペルメトリンとVCAM1の構造的な妥当性が支持された。シングルセル解析により候補遺伝子の細胞種特異的な分布が明らかになり、仮想遺伝子摂動によりVCAM1-SOCS3間の推定的な調節関係が示唆された。qRT-PCRにより、20 μMのシペルメトリンに24時間曝露すると、KEL FIB細胞においてVCAM1 mRNA発現が有意に増加することが示された。結論VCAM1は、シペルメトリン曝露とケロイド関連の分子変化を結びつける最も一貫して支持される候補として浮上したが、予測されたVCAM1-SOCS3関係については、さらなる機序的検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2621458123",
+    "title": "Host infection selects for sRNA variants that drive bacterial social cheating.",
+    "abstract": "Single-nucleotide mutations in regulatory small RNAs (sRNAs) represent a largely unexplored route to social cheating during bacterial infection. Here we show that arcZ, encoding a conserved Hfq-dependent sRNA in the plant pathogen Dickeya solani, undergoes recurrent single-nucleotide mutations during potato tuber infection. Five distinct arcZ alleles define a graded series of ArcZ functional impairment in which antifungal and protease activities are progressively reduced while virulence is compromised only in a subset of alleles. All five variants gain a fitness advantage exclusively during coinfection with wild-type arcZ1 cells. This advantage is strongest when variants are rare and declines as cheater frequency increases, ultimately correlating with reduced total bacterial productivity, the canonical signature of social cheating and a tragedy of the commons. No fitness benefit is detected in vitro. Transcriptomic profiling of five arcZ variants identifies a conserved core of 186 downregulated genes enriched in secreted and diffusible functions. Systematic genetic dissection, supported by quantitative proteomics, establishes BudAB-dependent limitation of tissue acidification as the dominant cooperative public good exploited during infection. Wild-type arcZ1 cells divert pyruvate flux toward acetoin via the BudAB pathway, maintaining a less acidic tissue environment that sustains disease progression; arcZ variants, which show reduced expression of this pathway, benefit from the less acidic environment maintained by wild-type cells without contributing to it. These results establish pleiotropic regulatory sRNAs as a previously unrecognized class of mutational targets for the emergence of social cheaters during host infection.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2621458123",
+    "date": "2026-11-10",
+    "authors": "Dubois Q, Brual T, Sprenger M, Utzinger V, Mercier R, Cigna J, Rodrigue A, Papenfort K, Attaiech L, Gueguen E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43008020",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43008020",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2069,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1073/pnas.2621458123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "483fad5553f08f0232216a0e22e2b194ce60a55d974f775fe04bc3f9128abf42",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:59:13.399636+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bd5d71796b7142a6950509c8b4461ec2d0d915787d000a7c6732f87792358018",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:59:13.399636+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主感染は、細菌の社会的不正を駆動するsRNA変異体を選択的に獲得させる。",
+    "abstract_ja": "調節性小RNA（sRNA）における一塩基変異は、細菌感染における社会的不正行為の、ほとんど解明されていない経路である。本研究では、植物病原菌Dickeya solaniにおいて保存されたHfq依存性sRNAをコードするarcZが、ジャガイモ塊根感染中に反復的な一塩基変異を起こすことを示す。5つの異なるarcZアレルは、抗真菌活性およびプロテアーゼ活性が漸次的に低下する一方で、病原性は一部のアレルにおいてのみ損なわれるという、段階的なArcZ機能障害の系列を規定している。これら5つの変異はいずれも、野生型arcZ1細胞との共感染時にのみ適応度上の優位性を獲得する。この優位性は変異体が稀な場合に最も強く、不正行為者の頻度が増加するにつれて低下し、最終的には、社会的不正行為の典型的な特徴であり「共有地の悲劇」でもある細菌の総生産性の低下と相関する。in vitroでは適応度上の利点は検出されない。5つのarcZ変異体のトランスクリプトームプロファイリングにより、分泌および拡散機能に富む、発現低下した186個の保存コア遺伝子が同定された。定量プロテオミクスに裏付けられた系統的な遺伝学的解析により、感染中に利用される支配的な協調的公共財として、BudAB依存的な組織酸性化の制限が確立された。野生型arcZ1細胞は、BudAB経路を介してピルビン酸フラックスをアセトインへと転換し、疾患の進行を維持する低酸性の組織環境を保持している。この経路の発現が低下しているarcZ変異体は、野生型細胞によって維持される低酸性環境に寄与することなく、その恩恵を受けている。これらの結果は、多面的調節性sRNAが、宿主感染における社会的不正行為者の出現に向けた、これまで認識されていなかった変異標的の一種であることを立証するものである。"
   }
 ]
