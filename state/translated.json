@@ -113021,13 +113021,14 @@
   },
   {
     "id": "10.7717/peerj.21854",
-    "title": "Extracellular amylolytic activity in marine Croceibacter sp. 23-6: Cu2+ response and optimized wheat starch hydrolysis.",
-    "abstract": "Marine bacteria are important sources of extracellular hydrolytic enzymes, but the amylolytic activity of many non-model marine bacterial lineages remains insufficiently characterized at the phenotype level. This study evaluated extracellular amylolytic activity in the marine isolate Croceibacter sp. 23-6 and examined its metal-ion response and wheat starch hydrolysis performance under defined laboratory conditions. Strain 23-6 was isolated from mesopelagic seawater of the western Pacific Ocean and identified at the genus level using 16S rRNA gene sequence analysis. Extracellular amylolytic activity was first screened on starch agar. A partially purified extracellular amylolytic protein preparation was then used to determine the effects of temperature, pH, thermal and pH stability, metal ions, apparent kinetic parameters and hydrolysis of different starch substrates. Wheat starch hydrolysis was further evaluated using single-factor experiments and response surface methodology based on a Box-Behnken design. Strain 23-6 produced a clear starch-hydrolysis halo and was conservatively assigned to the genus Croceibacter. The partially purified extracellular protein fraction showed maximum amylolytic activity at 50 °C and pH 7.0 and retained comparatively higher activity under near-neutral conditions. Among the tested metal ions, Cu2+ increased the measured relative activity to 119.0% at 3 mM, whereas K+, Mn2+, Zn2+ and Fe2+ decreased the measured activity. Wheat starch showed the highest relative reducing-sugar release among the tested insoluble starch substrates. Response surface optimization predicted suitable hydrolysis conditions of approximately 52 min, 50 °C, 4.0 U/mL enzyme and 1.0% wheat starch. Validation under the adjusted conditions yielded 2.43 ± 0.09 mg/mL reducing sugars, expressed as maltose equivalents, consistent with the model prediction. These results provide strain-level evidence that Croceibacter sp. 23-6 exhibits extracellular amylolytic activity and indicate that its partially purified extracellular protein fraction displays a measurable Cu2+-responsive activity profile and wheat starch hydrolysis capacity. The findings define the functional properties of this marine bacterial extracellular amylolytic fraction while leaving the identity of the responsible enzyme(s), preparation homogeneity, and the mechanism of Cu2+ response for future work.",
+    "title": "Extracellular amylolytic activity in marine <i>Croceibacter</i> sp. 23-6: Cu<sup>2+</sup> response and optimized wheat starch hydrolysis.",
+    "abstract": "BackgroundMarine bacteria are important sources of extracellular hydrolytic enzymes, but the amylolytic activity of many non-model marine bacterial lineages remains insufficiently characterized at the phenotype level. This study evaluated extracellular amylolytic activity in the marine isolate Croceibacter sp. 23-6 and examined its metal-ion response and wheat starch hydrolysis performance under defined laboratory conditions.MethodsStrain 23-6 was isolated from mesopelagic seawater of the western Pacific Ocean and identified at the genus level using 16S rRNA gene sequence analysis. Extracellular amylolytic activity was first screened on starch agar. A partially purified extracellular amylolytic protein preparation was then used to determine the effects of temperature, pH, thermal and pH stability, metal ions, apparent kinetic parameters and hydrolysis of different starch substrates. Wheat starch hydrolysis was further evaluated using single-factor experiments and response surface methodology based on a Box-Behnken design.ResultsStrain 23-6 produced a clear starch-hydrolysis halo and was conservatively assigned to the genus Croceibacter. The partially purified extracellular protein fraction showed maximum amylolytic activity at 50 °C and pH 7.0 and retained comparatively higher activity under near-neutral conditions. Among the tested metal ions, Cu2+ increased the measured relative activity to 119.0% at 3 mM, whereas K+, Mn2+, Zn2+ and Fe2+ decreased the measured activity. Wheat starch showed the highest relative reducing-sugar release among the tested insoluble starch substrates. Response surface optimization predicted suitable hydrolysis conditions of approximately 52 min, 50 °C, 4.0 U/mL enzyme and 1.0% wheat starch. Validation under the adjusted conditions yielded 2.43 ± 0.09 mg/mL reducing sugars, expressed as maltose equivalents, consistent with the model prediction.ConclusionsThese results provide strain-level evidence that Croceibacter sp. 23-6 exhibits extracellular amylolytic activity and indicate that its partially purified extracellular protein fraction displays a measurable Cu2+-responsive activity profile and wheat starch hydrolysis capacity. The findings define the functional properties of this marine bacterial extracellular amylolytic fraction while leaving the identity of the responsible enzyme(s), preparation homogeneity, and the mechanism of Cu2+ response for future work.",
     "journal": "PeerJ",
     "doi": "10.7717/peerj.21854",
     "date": "2026-11-03",
     "authors": "Jiang F, Zhang Y, Zhang H, Lin X, Xu X, Feng H.",
     "tags": [
+      "微生物ゲノミクス",
       "海洋微生物"
     ],
     "source_url": "https://europepmc.org/article/MED/42997560",
@@ -113040,8 +113041,9 @@
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
+        "16S rRNA",
         "16s rrna",
         "bacteria",
         "bacterial"
@@ -113052,17 +113054,21 @@
           "ocean",
           "seawater"
         ],
-        "genomics": [],
+        "genomics": [
+          "16S rRNA"
+        ],
         "evolution": []
       },
       "tags": [
-        "海洋微生物"
+        "海洋微生物",
+        "微生物ゲノミクス"
       ]
     },
     "collection_order": 1855,
     "collected_at": "2026-11-10T01:46:09.892797+00:00",
     "collected_date": "2026-11-10",
     "sources": [
+      "Europe PMC genome methods",
       "Europe PMC journals 12",
       "Europe PMC topics"
     ],
@@ -113070,24 +113076,38 @@
     "related_dois": [
       "10.7717/peerj.21854"
     ],
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
     "translation": {
       "title": {
-        "hash": "ff495ff8bc19e94f008a9dd8b18dc4d0baf1051a6f648b0fd603c77395b24405",
+        "hash": "499b86bbbac0f829e09e76400027aabb9db6c80627c593b138efd5671d8fcd3f",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-10T03:29:09.267504+00:00",
+        "date": "2026-11-13T01:49:34.317931+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "97c5a2797891676c07c114a990e971cb88d9f528dce31ae692dfb1a7dfcba8bb",
+        "hash": "26591bf623798fed516f3a8d8faf20169a17f220ef4defe536397a7d7c56cb36",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-10T03:29:09.267504+00:00",
+        "date": "2026-11-13T01:49:34.317931+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "海洋性Croceibacter sp. 23-6における細胞外アミロー分解活性：Cu2+応答と最適化された小麦デンプン加水分解",
-    "abstract_ja": "海洋細菌は細胞外加水分解酵素の重要な供給源であるが、多くの非モデル海洋細菌系統におけるアミロー分解活性は、表現型レベルで十分に特性解析されていない。本研究では、海洋分離株Croceibacter sp. 23-6における細胞外アミロー分解活性を評価し、規定の実験室条件下における金属イオン応答および小麦デンプン加水分解能を検討した。株23-6は西太平洋の中深層海水から分離され、16S rRNA遺伝子配列解析を用いて属レベルで同定された。まず、デンプン寒天培地を用いて細胞外アミロー分解活性のスクリーニングを行った。次いで、部分精製した細胞外アミロー分解タンパク質調製物を用い、温度、pH、熱およびpH安定性、金属イオン、見かけの速度論的パラメータ、ならびに異なるデンプン基質の加水分解に及ぼす影響を検討した。小麦デンプン加水分解については、単一因子実験およびBox-Behnken設計に基づく応答曲面法を用いてさらに評価した。株23-6は明瞭なデンプン加水分解ハローを形成し、保守的にCroceibacter属に分類された。部分精製した細胞外タンパク質画分は、50 °CおよびpH 7.0において最大のアミロー分解活性を示し、中性に近い条件下でも比較的高い活性を維持した。試験した金属イオンのうち、Cu2+は3 mMにおいて測定相対活性を119.0%まで上昇させた一方、K+、Mn2+、Zn2+およびFe2+は測定活性を低下させた。試験した不溶性デンプン基質の中で、小麦デンプンは最も高い相対還元糖放出量を示した。応答曲面最適化により、約52分、50 °C、酵素量4.0 U/mL、小麦デンプン濃度1.0%という適切な加水分解条件が予測された。調整後の条件下で検証したところ、マルトース当量換算で2.43 ± 0.09 mg/mLの還元糖が得られ、これはモデル予測と一致した。これらの結果は、Croceibacter sp. 23-6が細胞外アミロー分解活性を有することを示す株レベルの証拠となり、その部分精製細胞外タンパク質画分が測定可能なCu2+応答活性プロファイルおよび小麦デンプン加水分解能を示すことを明らかにした。本知見は、当該海洋細菌の細胞外アミロー分解画分の機能的特性を定義するものであり、責任酵素の同定、調製物の均一性、およびCu2+応答機構については今後の課題とする。",
-    "discovery": []
+    "title_ja": "海洋性<i>Croceibacter</i> sp. 23-6における細胞外アミロー分解活性：Cu<sup>2+</sup>応答と最適化された小麦デンプン加水分解",
+    "abstract_ja": "背景海洋細菌は細胞外加水分解酵素の重要な供給源であるが、多くの非モデル海洋細菌系統におけるアミロー分解活性は、表現型レベルで十分に特性解析されていない。本研究では、海洋分離株 Croceibacter sp. 23-6 の細胞外アミロー分解活性を評価し、規定の実験室条件下における金属イオン応答および小麦デンプン加水分解能を検討した。方法23-6株を西太平洋の中深層海水から分離し、16S rRNA遺伝子配列解析を用いて属レベルで同定した。まず、デンプン寒天培地を用いて細胞外アミロー分解活性のスクリーニングを行った。次いで、部分精製した細胞外アミロー分解タンパク質調製物を用い、温度、pH、熱およびpH安定性、金属イオン、見かけの速度論的パラメータ、ならびに異なるデンプン基質の加水分解に及ぼす影響を検討した。さらに、単一因子実験およびBox-Behnken設計に基づく応答曲面法を用いて、小麦デンプンの加水分解を評価した。結果23-6株は明瞭なデンプン加水分解ハローを形成し、保守的に Croceibacter 属に分類された。部分精製した細胞外タンパク質画分は、50 °C、pH 7.0 で最大のアミロー分解活性を示し、中性に近い条件下でも比較的高い活性を維持した。試験した金属イオンのうち、Cu2+は 3 mM において測定相対活性を 119.0% まで上昇させた一方、K+、Mn2+、Zn2+、および Fe2+ は測定活性を低下させた。試験した不溶性デンプン基質の中で、小麦デンプンは最も高い相対還元糖放出量を示した。応答曲面の最適化により、約 52 min、50 °C、酵素量 4.0 U/mL、小麦デンプン濃度 1.0% という適切な加水分解条件が予測された。調整後の条件下で検証したところ、マルトース当量換算で 2.43 ± 0.09 mg/mL の還元糖が得られ、これはモデル予測と一致した。結論これらの結果は、Croceibacter sp. 23-6 が細胞外アミロー分解活性を有することを示す株レベルの証拠を提供するとともに、その部分精製細胞外タンパク質画分が測定可能な Cu2+ 応答活性プロファイルおよび小麦デンプン加水分解能を示すことを示している。本知見は、当該海洋細菌の細胞外アミロー分解画分の機能的特性を定義するものであり、責任酵素の同定、調製物の均一性、および Cu2+ 応答機構については今後の課題とする。"
   },
   {
     "id": "10.3389/fmicb.2026.1990701",
@@ -177224,5 +177244,235 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "腸内細菌叢由来の酪酸は、マクロファージの免疫代謝リプログラミングを介して、黄耆多糖類による大腸炎の寛解を制御する。",
     "abstract_ja": "腸内細菌叢由来の酪酸は、マクロファージの免疫代謝リプログラミングを介して、アストラガルス多糖類介在性大腸炎の寛解を制御する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01683-26",
+    "title": "A stable atypical H<sub>2</sub>S-negative, non-motile <i>Salmonella</i> Infantis variant from a human isolate associated with a <i>barA</i> stop-gain mutation.",
+    "abstract": "Salmonella enterica serovar Infantis (S. Infantis) is an increasingly important food-borne pathogen, and detection in broiler flocks via the standardized EN/ISO 6579-1:2017 is of utmost importance. Phenotypic characteristics, such as the production of hydrogen sulfide (H2S) and swarming behavior, are essential for detection. However, the occurrence of atypical variants lacking such phenotypic characteristics bears a risk to public health. In this study, we characterized an Austrian human-derived S. Infantis strain showing, in addition to the normal colony phenotype (NCP), also an atypical colony variant (ACV) lacking H2S production and motility. Both phenotypes proved stability, and no differences were found in cell morphology. In comparison to NCP, ACV demonstrated altered biofilm formation on Congo Red agar, and showed lower streptomycin resistance. The genomic analysis revealed a total of 21 mutations specific to ACV, including a stop-gain mutation in barA. Using gene network analysis, a connection between barA and operons relevant for H2S production, ttr, and phs was found. As barA is a well-known regulator with established roles in motility, the observed truncation provides a plausible regulatory basis for the stable H2S-negative, non-motile phenotype. Furthermore, mutations in barA have been linked to persistent Salmonella infections in humans, supporting our findings. Importantly, such atypical variants might go undetected in the mandatory control programs.IMPORTANCEPhenotypic characteristics, such as the production of hydrogen sulfide and motility, are essential for culture-based detection of Salmonella. This study shows that Salmonella Infantis can lose these key diagnostic features through regulatory mutations, enabling escape from routine surveillance while maintaining infection potential. As the present mutation is known to contribute to bacterial persistence in the host, our findings highlight a dual clinical concern of diagnostic evasion and possible adaptation to host survival. This work demonstrates a critical limitation of phenotype-dependent diagnostics and underscores the need for surveillance strategies that can detect atypical but clinically relevant Salmonella variants.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01683-26",
+    "date": "2026-10-22",
+    "authors": "Fesina D, Palmieri N, Kranzler M, Brandstetter M, Kornschober C, Bilic I, Hess M, Hess C, Drauch V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910941",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910941",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1949,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.01683-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8799ce0110aab9db4672abc8485dd7d82a8ef5daebb1026c1dabb7b0d31ad200",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:49:34.317931+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e651dc7e353917596cfda2205ac44618df20b8dfed4d5ec18e839e080a207f7f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:49:34.317931+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>barA</i>ストップゲイン変異を有するヒト分離株由来の、安定な非定型H<sub>2</sub>S陰性・非運動性<i>Salmonella</i> Infantis変異株。",
+    "abstract_ja": "Salmonella enterica serovar Infantis (S. Infantis) は、食品媒介性病原体として重要性を増しており、標準化されたEN/ISO 6579-1:2017に基づくブロイラー群における検出は極めて重要である。硫化水素（H2S）の産生や群集形成挙動といった表現型特性は、検出に不可欠である。しかし、こうした表現型特性を欠く非定型変異株の出現は、公衆衛生上のリスクとなる。本研究では、正常コロニー表現型（NCP）に加え、H2S産生および運動性を欠く非定型コロニー変異株（ACV）を示すオーストリア由来のヒト由来S. Infantis株の特性解析を行った。両表現型ともに安定性が確認され、細胞形態に差異は認められなかった。NCPと比較して、ACVはコンゴレッド寒天培地におけるバイオフィルム形成の変化を示し、ストレプトマイシン耐性が低かった。ゲノム解析の結果、barAにおけるストップゲイン変異を含む、ACVに特異的な計21箇所の変異が明らかになった。遺伝子ネットワーク解析により、barAとH2S産生に関連するオペロンであるttrおよびphsとの関連性が認められた。barAは運動性において確立された役割を持つ既知の調節因子であるため、観察された切断は、安定したH2S陰性・非運動性表現型の妥当な調節基盤となる。さらに、barAの変異はヒトにおけるサルモネラの持続感染に関連しており、我々の知見を裏付けている。重要な点として、このような非定型変異株は、義務的な管理プログラムにおいて検出されない可能性がある。重要性：硫化水素の産生や運動性といった表現型特性は、サルモネラの培養ベースの検出に不可欠である。本研究は、Salmonella Infantisが調節変異によってこれらの主要な診断的特徴を失い、感染能を維持したまま日常的なサーベイランスから逃れ得ることを示している。本変異は宿主内での細菌の持続性に寄与することが知られているため、我々の知見は、診断回避と宿主生存への適応の可能性という、二重の臨床的懸念を浮き彫りにしている。本研究は、表現型依存的な診断法の重大な限界を実証し、非定型でありながら臨床的に意義のあるサルモネラ変異株を検出できるサーベイランス戦略の必要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1038/s41564-026-02480-7",
+    "title": "Planetary-scale metagenomic analysis reveals CRISPR targeting dynamics across ecosystems.",
+    "abstract": "Interactions between microorganisms and their mobile genetic elements (MGEs), including viruses and plasmids, impact microbiome dynamics. CRISPR-Cas systems are important regulators of these host-MGE interactions, but a global understanding of the diversity, activity and roles of CRISPR spacers across Earth's biomes is still lacking. Here we develop a computational approach to search short-read data and collect 794 million CRISPR spacers across 367,609 public metagenomes, from which we identified 1.18 billion hits between 41 million spacers and 2.5 million viruses and plasmids. While spacers were highly variable across samples, those matching known viruses were more prevalent and conserved, consistent with a positive selection pressure associated with phage targeting. Among these, however, we find evidence suggestive of recurrent entry of phage genomes into non-host microbial cells, further blurring the line between CRISPR targeting and virus-host interactions. These results highlight key drivers of CRISPR targeting patterns likely to influence strain-level diversification and selection processes in microbiomes.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02480-7",
+    "date": "2026-10-29",
+    "authors": "Roux S, Neri U, Bushnell B, Fremin BJ, George NA, Gophna U, Hug LA, Camargo AP, Wu D, Ivanova N, Kyrpides NC, Eloe-Fadrosh EA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42957850",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739734",
+    "pmid": "42957850",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomes",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microorganism",
+        "microorganisms",
+        "phage",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 72,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41564-026-02480-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d9d62aeda8c9a4e4a241fc1e3c51596700e53603854370ae9280936c48428c41",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:49:34.317931+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c8c244d302f1de7113500cb8296355996922bfaf6c3819e18f4eb26571b8a895",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:49:34.317931+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "惑星規模のメタゲノム解析により、生態系横断的なCRISPR標的化動態が明らかになった。",
+    "abstract_ja": "微生物と、ウイルスやプラスミドを含むその可動性遺伝要素（MGE）との相互作用は、マイクロバイオームの動態に影響を及ぼす。CRISPR-Casシステムは、こうした宿主-MGE間相互作用の重要な調節因子であるが、地球上のバイオームにおけるCRISPRスペーサーの多様性、活性、および役割に関する包括的な理解は依然として不足している。本研究では、ショートリードデータを探索する計算科学的アプローチを開発し、367,609件の公開メタゲノムから7億9,400万個のCRISPRスペーサーを収集した。その結果、4,100万個のスペーサーと250万個のウイルスおよびプラスミドとの間で、11億8,000万件のヒットを同定した。スペーサーはサンプル間で極めて多様であったが、既知のウイルスに一致するものはより高頻度に認められ、保存性も高かった。これは、ファージ標的化に伴う正の選択圧と整合している。しかし、これらの中には、ファージゲノムが非宿主微生物細胞へ繰り返し侵入していることを示唆する証拠が見出され、CRISPR標的化とウイルス-宿主相互作用の境界をさらに曖昧にしている。これらの結果は、マイクロバイオームにおける菌株レベルの多様化および選択プロセスに影響を及ぼし得る、CRISPR標的化パターンの主要な駆動要因を浮き彫りにしている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1170",
+    "title": "KinaseMD 2.0: an updated database of kinase mutations and drug response",
+    "abstract": "AbstractKinase mutations can alter activity, inhibitor response and downstream phosphorylation signaling, particularly within four resistance-associated substructures: gatekeeper, G-loop, αC-helix, and A-loop. KinaseMD 2.0 (http://modinfor.com/KinaseMD/) updates the kinase-centered database in three areas. Integrating source-curated annotations with Dr. Kinase predictions expanded substructure annotations from 1162 to 13 522 and kinase coverage from 388 to 547. Updated pharmacogenomic and signaling layers contain 422 244 drug-response measurements, 1614 candidate drug-resistance evidence records, and 359 600 predicted phosphorylation-network rewiring events. The new Kinase Perturbation Evidence Mapping (KPEM) workflow combines LLM-based literature extraction from an initial collection of over 480 000 publications with standardized processing of 30 public drug-treatment phosphoproteomic datasets. It provides 23 757 kinase-level records of literature-reported evidence and 53 029 phosphoproteomic records across 5124 drug/agent categories and 1598 disease contexts, distinguishing reported phosphorylation evidence from inferred kinase-associated signaling responses. By linking resistance-associated substructures, cancer mutations, drug response, and phosphorylation signaling, KinaseMD 2.0 supports studies of drug-resistance mechanisms and kinase-inhibitor design and development.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1170",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1170/9036065?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4139,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1170"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eab977dd35822478f30a7f9234f5adfb52ad4f3248cdb3eac6e1a3e99a89abb5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:49:34.317931+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b51102713045c36617976236e66536881805bd003a1c53ccb1cc8e46de1948ee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:49:34.317931+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "KinaseMD 2.0：キナーゼ変異および薬物応答の更新版データベース",
+    "abstract_ja": "要旨キナーゼの変異は、活性、阻害剤応答、および下流のリン酸化シグナル伝達を変化させ得る。特に、ゲートキーパー、Gループ、αCヘリックス、Aループという4つの耐性関連サブ構造においてその傾向が顕著である。KinaseMD 2.0 (http://modinfor.com/KinaseMD/) は、キナーゼ中心のデータベースを3つの領域で更新した。ソースキュレーションによるアノテーションとDr. Kinaseによる予測を統合したことで、サブ構造のアノテーション数は1,162件から13,522件に、キナーゼの網羅性は388件から547件に拡大した。更新された薬理ゲノムおよびシグナル伝達レイヤーには、422,244件の薬剤応答測定値、1,614件の薬剤耐性候補エビデンスレコード、および359,600件の予測リン酸化ネットワーク再配線イベントが含まれている。新たなKinase Perturbation Evidence Mapping (KPEM) ワークフローは、480,000報を超える初期論文コレクションからのLLMベースの文献抽出と、30件の公開薬剤・治療リン酸化プロテオミクスデータセットの標準化処理を組み合わせたものである。これにより、文献報告されたエビデンスのキナーゼレベルのレコード23,757件と、5,124の薬剤/剤カテゴリーおよび1,598の疾患コンテキストにわたるリン酸化プロテオミクスレコード53,029件が提供され、報告されたリン酸化エビデンスと推定されるキナーゼ関連シグナル伝達応答が区別される。耐性関連サブ構造、がん変異、薬剤応答、およびリン酸化シグナル伝達を連携させることで、KinaseMD 2.0は薬剤耐性メカニズムの研究ならびにキナーゼ・阻害剤の設計および開発を支援する。"
   }
 ]
