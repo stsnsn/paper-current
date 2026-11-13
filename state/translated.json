@@ -192156,5 +192156,322 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Muscina stabulans Fallén (双翅目: イエバエ科) の染色体レベルのゲノムアセンブリ",
     "abstract_ja": "学術データ、オンライン公開：2026年11月7日；doi:10.1038/s41597-026-08509-0A Muscina stabulans Fallén (Diptera: Muscidae) の染色体レベルのゲノムアセンブリ"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1949480",
+    "title": "Bacterial interfaces and surface chemistry shape hydroxyapatite mineral architecture during microbially induced calcium phosphate precipitation.",
+    "abstract": "Calcium phosphate biomineralization plays a crucial role in the formation of geological deposits, biological materials, and environmental remediation. While microorganisms are known to influence calcium phosphate precipitation, the relative contributions of bacterial cell surfaces and extracellular polymeric substances (EPS) remain poorly defined. This study presents the first microscale investigation of the distinct roles of Gram-positive and Gram-negative bacterial cells and EPS in regulating hydroxyapatite (HAp) mineralization, employing abiotic, EPS-mediated, and bacterial precipitation systems. Zeta potential measurements and Fourier Transform Infrared Spectroscopy (FTIR) revealed that both bacterial cells and isolated EPS provide negatively charged, chemically distinct interfaces capable of interacting with dissolved Ca2+ ions. Solution chemistry demonstrated greater phosphate and calcium ion depletion in biotic systems, consistent with enhanced crystal precipitation compared to abiotic controls. Field emission scanning electron microscopy (FESEM) and Brunauer-Emmett-Teller (BET) analyses showed that biological interfaces produced distinct crystal morphologies and surface characteristics. X-ray diffraction (XRD) revealed significant differences in phase composition: abiotic precipitation produced mixed calcium phosphate phases, whereas EPS-mediated precipitation promoted nucleation but remained dominated by precursor phases. In contrast, whole-cell systems favored HAp formation, with Sporosarcina pasteurii producing phase-pure crystalline HAp and Pseudomonas fluorescens producing HAp-dominant precipitates. Acid dissolution experiments further confirmed the increased stability of biogenic precipitates. These findings demonstrate that the spatial organization of bacterial surface functional groups, rather than surface charge alone, governs hydroxyapatite phase evolution, crystal growth, and mineral stability. While localized metabolic activity may contribute to microenvironmental conditions, the results highlight the importance of bacterial cell surfaces and EPS as key determinants of hydroxyapatite biomineralization, providing a mechanistic basis for the design of biologically mediated mineral materials.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1949480",
+    "date": "2026-10-26",
+    "authors": "Toprak P, Rodriguez-Navarro C, Mukherjee A, Pring A, Dhami NK.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005088",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13745221",
+    "pmid": "43005088",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 946,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1949480"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c501adef5a454cb2df167e3be9f321e508b2bd8010a08f874e98ed0ec43a893c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:53:21.279780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4e832385e9267c88ca27a0cb30c7d54a5e803d9a7c370749050779f6e5aa2d4b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:53:21.279780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌界面および表面化学は、微生物誘導性のリン酸カルシウム沈殿過程におけるヒドロキシアパタイトの鉱物構造を規定する。",
+    "abstract_ja": "リン酸カルシウムの生物鉱化作用は、地質堆積物の形成、生物学的材料、および環境修復において極めて重要な役割を果たしている。微生物がリン酸カルシウムの沈殿に影響を及ぼすことは知られているが、細菌細胞表面と細胞外高分子物質（EPS）の相対的な寄与については十分に解明されていない。本研究では、非生物的系、EPS介在系、および細菌沈殿系を用い、ヒドロキシアパタイト（HAp）の鉱化調節におけるグラム陽性菌およびグラム陰性菌の細胞とEPSの個別の役割について、初のマイクロスケール調査を行った。ゼータ電位測定およびフーリエ変換赤外分光法（FTIR）により、細菌細胞と単離EPSの双方が、溶存Ca2+イオンと相互作用可能な負に帯電した化学的に異なる界面を提供することが明らかになった。溶液化学的解析では、非生物的対照系と比較して結晶沈殿が促進されたことと一致して、生物的系においてリン酸イオンおよびカルシウムイオンの枯渇がより顕著であることが示された。電界放出型走査電子顕微鏡（FESEM）およびブルナウアー・エメット・テラー（BET）分析により、生物学的界面が異なる結晶形態および表面特性を形成することが示された。X線回折（XRD）では、相組成に顕著な差異が認められた。非生物的沈殿では混合リン酸カルシウム相が生成されたのに対し、EPS介在沈殿では核形成が促進されたものの、依然として前駆相が支配的であった。対照的に、全細胞系ではHAp形成が促進され、Sporosarcina pasteuriiは相純度の高い結晶性HApを、Pseudomonas fluorescensはHAp優位の沈殿を生成した。酸溶解実験により、生物起源沈殿の安定性向上がさらに確認された。これらの知見は、表面電荷のみではなく、細菌表面の官能基の空間的配置が、ヒドロキシアパタイトの相進化、結晶成長、および鉱物安定性を支配していることを示している。局所的な代謝活性が微小環境条件に寄与している可能性があるものの、本結果は、ヒドロキシアパタイトの生物鉱化における主要な決定要因として細菌細胞表面とEPSの重要性を浮き彫りにしており、生物学的に媒介された鉱物材料の設計に向けた機構的基盤を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1050",
+    "title": "DBAASP V4: condition-resolved bioactivity and chemical structures for data-driven peptide and peptidomimetic discovery.",
+    "abstract": "The current peptide renaissance-driven by metagenomic and proteomic mining, molecular de-extinction, protein language models, and generative or evolutionary design-is producing millions of candidates, but useful machine learning depends on experimentally anchored, context-rich labels. The Database of Antimicrobial Activity and Structure of Peptides (DBAASP) is a manually curated resource linking peptides and peptidomimetics to quantitative antimicrobial, antibiofilm, anticancer, hemolytic, and mammalian-cell cytotoxicity measurements and their experimental conditions. DBAASP v4 contains >25 000 entries and extends the resource from a sequence-centered database to a structure-aware repository. Major additions include systematic SMILES representations, enhanced annotation of intrachain bonds and ring architectures, dedicated antibiofilm, and synergy records, PubChem links, >9200 molecular-dynamics trajectories, and new prediction services. The condition-resolved data support supervised learning, strain-, and target-specific models, model calibration, and surrogate fitness functions for genetic algorithms. SMILES representations further enable modeling of noncanonical peptides and peptidomimetics that cannot be adequately described by sequence alone. DBAASP therefore complements large peptide catalogues by providing the experimentally curated activity and structure layers, needed to convert sequence information into testable predictions, design, and optimization of biologically active compounds. DBAASP v4 is freely available at https://dbaasp.org.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1050",
+    "date": "2026-10-31",
+    "authors": "Pirtskhalava M, Alimbarashvili E, Grigolava M, Chubinidze M, Vishnepolsky B, Zaalishvili G, Karaputadze R, Samsonidze N, Rosenthal A, Hurt DE, Tartakovsky M, Gabrielian A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963942",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963942",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 726,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1050"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6613124e7ede6c6052c33a86f76f31ce94af6fc6d2d86df040b8bec3fc084b1d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:53:21.279780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a888ceeb54ac29d21081b636d4781c3093829b69750d3da7965bc1ae18ae1f62",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:53:21.279780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DBAASP V4：データ駆動型ペプチド・ペプチド模倣体探索のための条件分解済み生物活性および化学構造",
+    "abstract_ja": "メタゲノムおよびプロテオームマイニング、分子脱絶滅、タンパク質言語モデル、そして生成的あるいは進化的設計によって推進されている現在のペプチド・ルネサンスは、数百万もの候補を生成しているが、有用な機械学習を実現するには、実験的に裏付けられたコンテキスト豊かなラベルが不可欠である。Antimicrobial Activity and Structure of Peptides Database (DBAASP) は、ペプチドおよびペプチドミメティクスを、定量的な抗菌活性、抗バイオフィルム活性、抗がん活性、溶血活性、および哺乳類細胞細胞毒性の測定値とその実験条件に紐付ける、手作業でキュレーションされたリソースである。DBAASP v4は25,000件以上のエントリを収録しており、本リソースを配列中心のデータベースから構造認識型リポジトリへと拡張している。主な追加項目には、体系的なSMILES表現、鎖内結合および環構造のアノテーションの強化、抗バイオフィルムおよび相乗効果に関する専用レコード、PubChemリンク、9,200件以上の分子動力学トラジェクトリ、および新たな予測サービスが含まれる。条件分解データは、教師あり学習、菌株・標的特異的モデル、モデルキャリブレーション、および遺伝的アルゴリズム用の代理適合度関数をサポートする。SMILES表現により、配列だけでは十分に記述できない非カノニカルなペプチドやペプチドミメティクスのモデリングがさらに可能となる。したがって、DBAASPは、配列情報を検証可能な予測、設計、および生物活性化合物の最適化へと変換するために必要な、実験的にキュレーションされた活性層と構造層を提供することで、大規模なペプチドカタログを補完する。DBAASP v4は、https://dbaasp.org で無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2618744123",
+    "title": "Virus transmission required for maintenance and host adaptation mirrors neurophysiological differences in rabies-derived peptides.",
+    "abstract": "Pathogen adaptations to new hosts are central to the disease ecology of cross-species transmission and host switching of viruses. The rabies virus is a model for adaptations to different hosts as it induces behavioral changes that facilitate transmission, while being maintained in distinct species-specific cycles of infection. Here, we demonstrate that the rabies virus requires distinct transmission dynamics in two hosts with different ecologies to establish maintenance, using agent-based modeling, analyses of virus glycoprotein-mediated manipulation of neuroreceptor function, and phylogenetic analysis. Epidemiological models suggest that rabies virus variants adapted to arctic foxes, which sustain rabies virus at very low host densities, require a higher probability of transmission than viruses adapted to raccoons. Using in vitro electrophysiology, we demonstrate that the rabies glycoprotein-derived peptides from arctic fox rabies variants are more potent antagonists of alpha7 nicotinic acetylcholine receptors. These findings suggest a possible functional basis for the behavioral modifications that drive enzootic rabies transmission in the context of host ecology. In addition, a large proportion of residues that may drive rabies virus adaptation to raccoons and arctic foxes are found within this neurotoxin-like region. Furthermore, a residue in the neurotoxin-like region of the mature rabies virus glycoprotein (residue 183) has been associated with pathogenicity, host switching, and disease ecology in previous studies. We propose the hypothesis that rabies virus transmission dynamics adapt to the ecology and physiology of novel hosts through the selection of glycoproteins that elicit specific degrees of behavioral modification and transmission probability.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2618744123",
+    "date": "2026-10-22",
+    "authors": "Remal A, Acheson ES, Leighton PA, Rees EE, Rhodes J, O'Brien BCV, Weltzin MM, Hueffer K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42911862",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42911862",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2690,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2618744123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c88230d0c427859cc9e2d746605ec2e77933efafd710a0daf3f76d3fd345588a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:53:21.279780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c73ae6876c08c923609ed90f27363ca49f69bbc65404e6fdb1d656c89c1a78aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:53:21.279780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "維持および宿主適応に必須のウイルス伝播は、狂犬病由来ペプチドにおける神経生理学的な差異を反映している。",
+    "abstract_ja": "新たな宿主への病原体の適応は、ウイルスの種間伝播および宿主切り替えの疾患生態学において中心的な役割を果たす。狂犬病ウイルスは、伝播を促進する行動変化を誘発する一方で、種固有の感染サイクルを維持しているため、異なる宿主への適応のモデルとなる。本研究では、エージェントベースモデリング、ウイルス糖タンパク質による神経受容体機能操作の解析、および系統解析を用いて、狂犬病ウイルスが維持状態を確立するために、異なる生態を持つ2つの宿主においてそれぞれ異なる伝播動態を必要とすることを実証する。疫学モデルによれば、極めて低い宿主密度で狂犬病ウイルスを維持するホッキョクギツネに適応した狂犬病ウイルス変異株は、アライグマに適応したウイルスよりも高い伝播確率を必要とすることが示唆される。in vitro電気生理学を用いて、ホッキョクギツネの狂犬病変異株由来の狂犬病糖タンパク質由来ペプチドが、α7ニコチン性アセチルコリン受容体に対してより強力な拮抗薬であることを実証する。これらの知見は、宿主生態学の文脈において、風土性狂犬病伝播を駆動する行動改変の機能的な基盤が存在する可能性を示唆している。さらに、アライグマおよびホッキョクギツネへの狂犬病ウイルスの適応を駆動する可能性のある残基の大部分が、この神経毒様領域内に認められる。加えて、成熟型狂犬病ウイルス糖タンパク質の神経毒様領域にある残基（残基183）は、先行研究において病原性、宿主切り替え、および疾患生態学との関連が示されている。我々は、特定の程度の行動改変および伝播確率を惹起する糖タンパク質の選択を通じて、狂犬病ウイルスの伝播動態が新たな宿主の生態および生理学に適応するという仮説を提唱する。"
+  },
+  {
+    "id": "10.1038/s41597-026-08542-z",
+    "title": "Chromosome-level genome assembly of the black-spotted frog (Pelophylax nigromaculatus)",
+    "abstract": "Scientific Data, Published online: 07 November 2026; doi:10.1038/s41597-026-08542-zChromosome-level genome assembly of the black-spotted frog (Pelophylax nigromaculatus)",
+    "journal": "Scientific Data",
+    "doi": "10.1038/s41597-026-08542-z",
+    "date": "2026-11-07",
+    "authors": "Yazhou Hu",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41597-026-08542-z",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/sdata.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2129,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.nature.com/sdata.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41597-026-08542-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e34a27e5f084f32a6b2477940455579227a1844a32c61cb1a3bd8048153ec175",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:53:21.279780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1811fe4590e4c1299958448519c879cec35112a90d50ed775b400ff7d5fbcc86",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:53:21.279780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クロボシガエル（Pelophylax nigromaculatus）の染色体レベルのゲノムアセンブリ",
+    "abstract_ja": "学術データ、オンライン公開：2026年11月7日；doi:10.1038/s41597-026-08542-z クロボシガエル（Pelophylax nigromaculatus）の染色体レベルのゲノムアセンブリ"
   }
 ]
