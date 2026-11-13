@@ -180431,5 +180431,284 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "FDTest: 脳ダイナミクスにおける記憶効果の検証としてのゆらぎ散逸定理",
     "abstract_ja": "Sebastian Manuel Geli, Juan Manuel Monti, Adrián Ponce-Alvarez, Gustavo Deco, Yonatan Sanz Perl 著\n\n神経科学における中心的な課題は、脳が多様な認知的・意識的状態を支えるために、局所的な情報処理と分散的な情報処理をいかに柔軟にバランスさせているかを理解することである。我々は、このバランスの重要な特徴として、記憶効果の存在を仮説として立てている。記憶効果とは、脳領域の将来の活動が、現在の状態だけでなく、より広範なネットワークからフィードバックされる過去の情報にも依存する場合に生じるものである。本稿では、一般化されたゆらぎ-散逸定理（FDT）の破れを測定することで、多次元系における局所的な記憶効果を評価する手法であるFDTestを提案する。まず、この枠組みをヒトの神経画像データに適合させた全脳モデルに適用し、脳の記憶構造がその根底にある結合性を反映していることを示す。次に、この解析を覚醒時および深睡眠時における被験者の個別モデルへと拡張する。記憶効果は覚醒時において一貫して強く、領域間の依存性がより豊かであること、およびダイナミクスがより統合的であることを示している。これらの知見は、局所記憶を脳状態の動的な指標として確立するものであり、FDTestを神経ダイナミクスの隠れた構造を探るための原理に基づいたツールとして位置づけるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1991804",
+    "title": "Gut microbiota–insulin signaling axis mediates the therapeutic effects of TJZY decoction against PMOS",
+    "abstract": "Introduction:TiaoJing ZhongYu (TJZY) Decoction is a traditional Chinese medicine formula used in the management of polyendocrine metabolic ovarian syndrome (PMOS). The molecular basis for its effects in PMOS, however, remains incompletely understood. This study assessed the therapeutic effects of TJZY Decoction in an obese rat model of PMOS and explored associated mechanisms using gut microbiome profiling, network pharmacology, and molecular biology approaches.MethodsAn obese rat model of PMOS was established using a high-fat diet and letrozole. Rats were assigned to Control, Model, low-dose TJZY (TJZY-L), high-dose TJZY (TJZY-H), and metformin (Met) groups. Body weight, estrous cyclicity, glucose tolerance, serum lipids, sex hormones, and liver and kidney function were assessed. Ovarian histopathology was evaluated by hematoxylin and eosin (H&E) staining. 16S rRNA sequencing characterized gut microbiota and predicted functional profiles. Ultra-high-performance liquid chromatography coupled with Q exactive tandem mass spectrometry (UHPLC-QE-MS/MS) identified TJZY Decoction constituents, while network pharmacology predicted therapeutic targets. Real-time quantitative PCR (RT-qPCR), Western blotting, and immunohistochemistry (IHC) assessed insulin signaling and the PI3K/AKT pathway.ResultsTJZY Decoction attenuated weight gain, improved glucose tolerance and dyslipidemia, restored estrous cyclicity, and ameliorated polycystic ovarian histopathology in PMOS rats. Compared with the Model group, TJZY-H reduced serum testosterone (T) by 13.8% (P < 0.0001) and decreased the luteinizing hormone/follicle-stimulating hormone (LH/FSH) ratio by 46.1% (P < 0.0001). Treatment was associated with increased Shannon and Simpson diversity indices and altered gut microbial composition. Mean relative abundances of Allobaculum and Treponema changed from 7.74% to 13.07% and from 14.08% to 0.15%, second is an increase in the proportions of Lactobacillus and Collinsella. UHPLC-QE-MS/MS annotated 93 putative constituents, and network pharmacology linked 32 candidate constituents to 67 shared targets. TJZY-H was also associated with increased ovarian PI3K and AKT phosphorylation and reduced expression of gluconeogenesis- and inflammation-related genes.ConclusionTJZY Decoction improved reproductive and metabolic abnormalities in rats with obesity-related PMOS. These effects may involve gut microbiota remodeling and enhanced insulin/PI3K/AKT signaling; reduced expression of gluconeogenesis- and inflammation-related markers was also observed. These findings associate TJZY Decoction treatment with gut microbiota remodeling and altered ovarian insulin/PI3K/AKT signaling; a causal link between them remains to be established.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1991804",
+    "date": "2026-11-13",
+    "authors": "Jing Wang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1991804",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4371,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1991804"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bdc0b75430ef0c1581d3da41acda9e7341e214040f5687d0fdf84ae1eb818e6f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:45:40.808453+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e801bff2074567f0c8350198a2c754f1067aa0cf7b85a14a75ccb0cbb66783a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:45:40.808453+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸内細菌叢－インスリンシグナル伝達軸がPMOSに対するTJZY煎剤の治療効果を媒介する",
+    "abstract_ja": "はじめに：TiaoJing ZhongYu（TJZY）煎剤は、多内分泌代謝性卵巣症候群（PMOS）の管理に用いられる中薬処方である。しかし、PMOSにおけるその作用の分子基盤は依然として十分に解明されていない。本研究では、肥満ラットPMOSモデルを用いてTJZY煎剤の治療効果を評価し、腸内細菌叢プロファイリング、ネットワーク薬理学、および分子生物学的手法を用いて関連する機序を探索した。方法：高脂肪食とレトロゾールを用いて肥満ラットPMOSモデルを作製した。ラットを対照群、モデル群、低用量TJZY（TJZY-L）群、高用量TJZY（TJZY-H）群、およびメトホルミン（Met）群に割り付けた。体重、発情周期、耐糖能、血清脂質、性ホルモン、ならびに肝機能および腎機能を評価した。卵巣の組織病理学的所見は、ヘマトキシリン・エオジン（H&E）染色により評価した。16S rRNAシーケンシングにより腸内細菌叢を特性評価し、機能的プロファイルを予測した。超高速液体クロマトグラフィーとQ-exactiveタンデム質量分析法（UHPLC-QE-MS/MS）によりTJZY煎剤の構成成分を同定し、ネットワーク薬理学により治療標的を予測した。リアルタイム定量PCR（RT-qPCR）、ウェスタンブロッティング、および免疫組織化学（IHC）を用いて、インスリンシグナル伝達およびPI3K/AKT経路を評価した。結果：TJZY煎剤は、PMOSラットにおいて体重増加を抑制し、耐糖能および脂質異常症を改善し、発情周期を回復させ、多嚢胞性卵巣の組織病理学的所見を軽減した。モデル群と比較して、TJZY-Hは血清テストステロン（T）を13.8%減少させ（P < 0.0001）、黄体形成ホルモン／卵胞刺激ホルモン（LH/FSH）比を46.1%低下させた（P < 0.0001）。治療により、ShannonおよびSimpson多様性指数の上昇と、腸内細菌組成の変化が認められた。AllobaculumおよびTreponemaの平均相対存在量は、それぞれ7.74%から13.07%、および14.08%から0.15%へと変化し、後者はLactobacillusおよびCollinellaの割合の増加であった。UHPLC-QE-MS/MSにより93種類の推定構成成分が同定され、ネットワーク薬理学により32種類の候補構成成分が67種類の共通標的に関連付けられた。また、TJZY-Hは卵巣におけるPI3KおよびAKTのリン酸化の亢進、ならびに糖新生および炎症関連遺伝子の発現低下に関連していた。結論：TJZY煎剤は、肥満関連PMOSを有するラットにおいて、生殖および代謝異常を改善した。これらの効果には、腸内細菌叢のリモデリングおよびインスリン/PI3K/AKTシグナル伝達の亢進が関与している可能性があり、糖新生および炎症関連マーカーの発現低下も認められた。これらの知見は、TJZY煎剤の治療が腸内細菌叢のリモデリングおよび卵巣におけるインスリン/PI3K/AKTシグナル伝達の変化に関連していることを示しているが、両者の因果関係の確立には至っていない。"
+  },
+  {
+    "id": "10.1093/nar/gkag1139",
+    "title": "The balance between R-loops and RNAPII occupancy determines the outcome of transcription–replication conflicts",
+    "abstract": "AbstractMaintaining genome integrity requires the precise coordination of replication and transcription. While R-loops are known to cause transcription–replication conflicts (TRCs), the precise nature of the barrier, whether it is the RNA:DNA hybrid itself, the stalled RNA Polymerase II (RNAPII), or a combination of both, remains elusive. Using live-cell imaging in yeast to monitor a single R-loop prone locus in real time, we demonstrate that wild-type replisomes traverse R-loop enriched transcription units with high efficiency. We find that while R-loops initially repress transcription, replisome passage prompts a robust recovery of transcription activity. Indeed, we discover that R-loops serve a critical regulatory function by suppressing excessive RNAPII occupancy. In an RNAPII mutant with high DNA affinity, the enzymatic removal of R-loops leads to a pile-up of RNAPII molecules, creating a barrier to replication, more severe than the R-loops themselves. Thus, our findings reveal a dual nature of R-loops: while they can be obstacles and repress transcription, they can also serve as a physiological buffer that prevents the formation of high-density RNAPII ‘trains’. These findings establish that the precise regulation of both R-loop levels and RNAPII density is critical for preventing harmful TRCs and maintaining genome stability.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1139",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1139/9030007?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3294,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1139"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9399d5f0c7c26112d1645103bb76f429086eced08d8337bafa11c297034a9885",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:45:40.808453+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9bfcd4507a6b9cdf4a8378905d70bb789ad23d52b3379a68b2a3ca063b174591",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:45:40.808453+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RループとRNAPiIの占有量のバランスが、転写・複製競合の帰結を決定づける。",
+    "abstract_ja": "要旨ゲノムの完全性を維持するには、複製と転写の精密な協調が必要である。Rループが転写・複製競合（TRC）を引き起こすことは知られているが、その障壁の正確な性質――それがRNA:DNAハイブリッド自体なのか、停滞したRNAポリメラーゼII（RNAPII）なのか、あるいはその両方の組み合わせなのか――は依然として不明である。酵母を用いた生細胞イメージングにより単一のRループ形成しやすい遺伝子座をリアルタイムでモニタリングし、野生型レプリソームがRループの豊富な転写ユニットを高い効率で通過することを実証した。Rループは当初転写を抑制するものの、レプリソームの通過が転写活性の強固な回復を促すことが明らかになった。実際、Rループが過剰なRNAPIIの占有を抑制することで、重要な調節機能を果たしていることを発見した。DNA親和性の高いRNAPII変異体では、Rループの酵素的除去によってRNAPII分子が蓄積し、Rループ自体よりも深刻な複製障壁が形成される。したがって、本知見はRループの二面的な性質を明らかにするものである。すなわち、Rループは障害となって転写を抑制する一方で、高密度のRNAPII「トレイン」の形成を防ぐ生理学的バッファーとしても機能し得る。これらの知見は、RループレベルとRNAPII密度の双方を精密に調節することが、有害なTRCの防止とゲノム安定性の維持に不可欠であることを裏付けている。"
+  },
+  {
+    "id": "10.1371/journal.pcbi.1014920",
+    "title": "Estimating rates of SARS-CoV-2 lineage spread using graph spectra from genetic sequence data",
+    "abstract": "by Emma E. Goldberg, Michael D. Kupperman, Ruian Ke\n\nThe modern enormous scale of viral genomic data, as exemplified by SARS-CoV-2, presents unique opportunities for epidemic inference and real-time monitoring. A key challenge is to wade through the extremely large stream of sequence data in order to identify small subsets of sequences that may represent rapid population growth of newly emerged lineages. To address this challenge, we developed a new approach that combines techniques in graph theory and machine learning. We represent distances between small subsets of sequences as graph Laplacians and identify from them features of rapid population growth. From early sequence data collected in the US and the UK between 2021 and mid-2022, we identified two features—genetic diversity and graph connectivity—that allow us to reliably estimate growth rates of newly emerged lineages. To test our model, we used data collected from mid-2022 to end-2024 and accurately inferred the growth rates of lineages that appeared during this period. Furthermore, we demonstrate that for data collected in 2023 when the sequencing efforts were relatively high (thousands of sequences per day) in the US and the UK, our model correctly identified the most rapidly expanding lineages when they were still at low frequencies. Overall, our work provides a scalable and adaptable tool to estimate the growth rate of newly emerged SARS-CoV-2 lineages.",
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014920",
+    "date": "2026-11-10",
+    "authors": "Ruian Ke",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014920",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/ploscompbiol/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2126,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://journals.plos.org/ploscompbiol/feed/atom"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pcbi.1014920"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2f3fea7cef2dcb54f34e63ce9241ceb80f12d94e19ff1fa0f371e4dc58e9f864",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:45:40.808453+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9a995ffda1945fa54718322ac69a5b9229e0ae1210935fe6e6e09f733c9aefc5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:45:40.808453+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝子配列データのグラフスペクトルを用いたSARS-CoV-2系統の拡散速度の推定",
+    "abstract_ja": "Emma E. Goldberg, Michael D. Kupperman, Ruian Ke 著\n\nSARS-CoV-2に代表される現代の膨大な規模のウイルスゲノムデータは、流行の推論やリアルタイムモニタリングにおいて独自の機会をもたらしている。主要な課題は、極めて膨大な配列データのストリームを精査し、新たに出現した系統の急速な集団増殖を反映している可能性のある少数の配列サブセットを特定することである。この課題に対処するため、我々はグラフ理論と機械学習の手法を組み合わせた新たなアプローチを開発した。配列の少数サブセット間の距離をグラフラプラシアンとして表現し、そこから急速な集団増殖の特徴を特定する。2021年から2022年半ばにかけて米国および英国で収集された初期の配列データから、新たに出現した系統の増殖率を確実に推定することを可能にする2つの特徴――遺伝的多様性とグラフ連結性――を特定した。モデルを検証するため、2022年半ばから2024年末までに収集されたデータを用い、この期間に出現した系統の増殖率を正確に推論した。さらに、米国および英国においてシーケンシングの取り組みが比較的活発であった（1日あたり数千配列）2023年に収集されたデータにおいても、本モデルが最も急速に拡大している系統を、それらがまだ低頻度であった段階で正しく特定したことを実証した。総じて、本研究は、新たに出現したSARS-CoV-2系統の増殖率を推定するための、スケーラブルで適応性の高いツールを提供するものである。"
+  },
+  {
+    "id": "10.1371/journal.pgen.1012372",
+    "title": "Novel enzymes for amino acid biosynthesis in diverse bacteria and archaea: GapMind 2026",
+    "abstract": "by Morgan N. Price, Valentine V. Trotter, Markus de Raad, Suzanne M. Kosina, Hira P. Lesea, Anthony L. Shiver, Leslie A. Day, Surya Tripathi, Marta Torres, Trenton K. Owens, Audrey Liwen Wang, Anna Lisa Fear, Xuanyu Tao, Jizhong Zhou, Adam M. Deutschbauer, Adam P. Arkin\n\nWe previously described GapMind, an automated web-based tool for annotating amino acid biosynthesis pathways in bacterial and archaeal genomes. We used GapMind to identify gaps in biosynthetic pathways and systematically used comparative genomics and high-throughput genetics to identify candidate genes to fill these gaps. We confirmed the activity of ten of the proposed enzymes by using cross-species complementation assays. Highlights include a route to glycine via glyoxylate, two families that can replace phosphoserine phosphatase, an alternative N-succinyl-L,L-diaminopimelate desuccinylase, an alternative N-acetylornithine deacetylase, and a putative bifunctional MetB/MetC. We updated GapMind to include these additional enzymes. Across 208 prokaryotes that have high-quality genomes and can grow in minimal media, the average number of unexplained missing steps or gaps in amino acid biosynthesis dropped from 1.4 per genome to 0.7 per genome. The majority of remaining gaps involve the gain or loss of phosphate groups.",
+    "journal": "PLOS Genetics",
+    "doi": "10.1371/journal.pgen.1012372",
+    "date": "2026-11-12",
+    "authors": "Adam P. Arkin",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012372",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "prokaryote"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/plosgenetics/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4296,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://journals.plos.org/plosgenetics/feed/atom"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1371/journal.pgen.1012372"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2df1e25f059892b9e3dfee420e0d729f3341ac39aa3f6f8e955053b46c902ffc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:45:40.808453+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9e4ec0cc9aaffae0d0f8e6cea24da2cf28b92a7f013a54e3933dc5d0eeec2c3f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:45:40.808453+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多様な細菌および古細菌におけるアミノ酸生合成の新規酵素：GapMind 2026",
+    "abstract_ja": "Morgan N. Price, Valentine V. Trotter, Markus de Raad, Suzanne M. Kosina, Hira P. Lesea, Anthony L. Shiver, Leslie A. Day, Surya Tripathi, Marta Torres, Trenton K. Owens, Audrey Liwen Wang, Anna Lisa Fear, Xuanyu Tao, Jizhong Zhou, Adam M. Deutschbauer, Adam P. Arkin 著\n\n我々は以前、細菌および古細菌のゲノムにおけるアミノ酸生合成経路のアノテーションを行うための自動ウェブベースツール「GapMind」について報告した。GapMindを用いて生合成経路のギャップを同定し、比較ゲノミクスおよびハイスループット遺伝学を体系的に活用して、これらのギャップを埋める候補遺伝子を同定した。種間相補性アッセイを用いることで、提案された酵素のうち10種類の活性を確認した。主な知見としては、グリオキシル酸を経由するグリシンへの経路、ホスホセリンホスファターゼを置換し得る2つのファミリー、代替的なN-サクシニル-L,L-ジアミノピメレート脱サクシニル化酵素、代替的なN-アセチルオルニチン脱アセチル化酵素、および推定される二機能性MetB/MetCが挙げられる。これらの追加酵素を組み込むため、GapMindを更新した。高品質なゲノムを持ち、最小培地で生育可能な208種の原核生物において、アミノ酸生合成における未解明の欠落ステップまたはギャップの平均数は、1ゲノムあたり1.4から0.7へと減少した。残存するギャップの大部分は、リン酸基の獲得または喪失に関わるものである。"
   }
 ]
