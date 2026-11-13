@@ -172188,5 +172188,331 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "mGem: 骨髄系細胞におけるHIV-1転写の自然免疫センシング――2つの転写開始部位の物語",
     "abstract_ja": "HIV感染者（PWH）における抑制的抗レトロウイルス療法（ART）は、AIDSへの進行およびその後のウイルス伝播を阻止する。しかし、組み込み型HIV-1プロウイルスからのウイルス転写は治療後も持続し、慢性的な免疫活性化のマーカーと関連しており、PWHにおける併存疾患の加速的な発症に寄与している。特に注目すべきは、長寿命の組織常在性骨髄系細胞における持続的な応答であり、これらの細胞はサイトカイン分泌や他の免疫細胞集団との相互作用を通じて、組織レベルの炎症プロセスを誘導する。本稿では、HIV感染骨髄系細胞におけるウイルス核酸感知事象に関する最新の知見を概説し、PWHの骨髄系細胞における慢性的なHIV-1転写に起因する持続的炎症の考えられる機序を明らかにする。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1982181",
+    "title": "Antimicrobial peptide–drug conjugates: rational design, pharmacological evaluation, and translational perspectives",
+    "abstract": "Antimicrobial peptide–drug conjugates (APDCs) combine peptide and antibiotic functions within a single covalent construct. APDCs share design features with antibody–drug conjugates, but the field lacks an integrated account of how such conjugates should be designed and evaluated. This review examines that process from scaffold selection to translational precedent. Design decisions are treated as medicinal chemistry: which antimicrobial peptide scaffold to start from and how to stabilize it, which payload to carry, whether the linker should be cleavable, conditionally stable, or non-cleavable, and whether engaging one or two targets yields a better antibacterial profile. Pharmacological evidence is then assessed for representative vancomycin, β-lactam, aminoglycoside, and fluoroquinolone conjugates, with experimentally demonstrated mechanisms distinguished from those that are indirectly inferred, computationally predicted, or hypothesized. In series reported through July 2026, conjugation produced large MIC reductions relative to inactive or resistant parent antibiotics, including in vancomycin-resistant enterococci, and in some cases restored activity against strains refractory to both parent molecules; comparisons with active standards of care were limited. By contrast, pharmacokinetic characterization is nearly absent, immunomodulatory and anti-biofilm mechanisms are only beginning to be dissected, in vivo efficacy has been reported for only seven APDC programs, and no dedicated toxicology study was identified. Two adjacent programs—the approved siderophore cephalosporin cefiderocol and the discontinued antibody–antibiotic conjugate DSTA4637S—serve as translational precedents, illustrating the manufacturing, safety, and regulatory hurdles an APDC must clear. Within these constraints, experimentally validated artificial-intelligence-assisted sequence design may support peptide modules for future APDCs, although our literature search did not identify an AI-designed APDC.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1982181",
+    "date": "2026-11-10",
+    "authors": "Jinhua Shen",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1982181",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2072,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1982181"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b8abd57fc70dad38952b50e4702f04e7006346d33ac3558e01d97791e66130f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:59:37.353133+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "747fc294a9b35de796f87414d7e61fa18861c57eaac6678bbf37b810857713c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:59:37.353133+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗菌ペプチド－薬物複合体：合理的設計、薬理学的評価、およびトランスレーショナルな展望",
+    "abstract_ja": "抗菌ペプチド－薬物複合体（APDC）は、ペプチドと抗生物質の機能を単一の共有結合構造内に統合したものである。APDCは抗体－薬物複合体と設計上の特徴を共有しているが、こうした複合体をどのように設計し評価すべきかについて、統合的な体系的知見は不足している。本総説では、スキャフォールドの選定からトランスレーショナルな先例に至るプロセスを検討する。設計上の決定は医薬化学として扱われ、すなわち、どの抗菌ペプチドスキャフォールドから着手し、それをいかに安定化させるか、どのペイロードを搭載するか、リンカーを切断可能、条件安定性、あるいは非切断可能のいずれとするか、また1つの標的を狙うべきか1つの標的を狙うべきかによって、より優れた抗菌プロファイルが得られるかといった点が検討される。次いで、代表的なバンコマイシン、β-ラクタム系、アミノグリコシド系、およびフルオロキノロン系複合体について薬理学的根拠を評価し、実験的に実証された機序を、間接的に推論されたもの、計算的に予測されたもの、あるいは仮説として立てられたものと区別して提示する。2026年7月までに報告された一連の事例では、バンコマイシン耐性腸球菌を含む、不活性または耐性を持つ親抗生物質に対して大きなMIC低下が認められ、一部の症例では親分子の両方に不応性を示す株に対しても活性が回復した。なお、活性を有する標準治療薬との比較は限定的であった。対照的に、薬物動態学的特性評価はほとんど行われておらず、免疫調節および抗バイオフィルム機序の解析はようやく始まりつつある段階であり、in vivoでの有効性が報告されているAPDCプログラムはわずか7件にとどまり、専用の毒性試験も確認されなかった。隣接する2つのプログラム――承認済みのシデロフォアであるセファロスポリン系セフィデロコールと、開発中止となった抗体－抗生物質複合体DSTA4637S――がトランスレーショナルな先例となっており、APDCが克服すべき製造、安全性、および規制上の障壁を例証している。こうした制約の中で、実験的に検証された人工知能支援による配列設計は、将来のAPDCに向けたペプチドモジュールの支援となり得るが、我々の文献調査ではAI設計によるAPDCは確認されなかった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007337",
+    "title": "<i>Tenacibaculum profundi</i> sp. nov., <i>Tenacibaculum aquaeponti</i> sp. nov. and <i>Tenacibaculum profundicola</i> sp. nov. isolated from seawater samples of the western Pacific Ocean.",
+    "abstract": "Three Gram-staining-negative, rod-shaped, yellow-pigmented, strictly aerobic bacterial strains, designated C7A-26P2T, ZS6-P6T and C14-20M1T, were isolated from seawater samples of the western Pacific Ocean. All strains were able to grow in the presence of 1.0-6.0% NaCl, at pH 6.0-8.0 and at 10-37 °C. Phylogenetic analysis based on 16S rRNA gene sequences indicated these strains belong to the genus Tenacibaculum, with strain C7A-26P2T closest to Tenacibaculum xiamenense Wj-1T (97.9% sequence similarity), ZS6-P6T closest to Tenacibaculum jejuense CNURIC013T (98.7%) and C14-20M1T closest to Tenacibaculum mesophilum NBRC 16307T (96.4%). Genome sizes were 3.8 Mb (G+C content 30.8 mol%) for C7A-26P2T, 4.0 Mb (G+C content 30.1 mol%) for ZS6-P6T and 4.6 Mb (G+C content 33.0 mol%) for C14-20M1T, with average nucleotide identity and digital DNA-DNA hybridization values with other Tenacibaculum species below 87.9 and 34.8%, respectively. Cellular fatty acid profiles identified C15 : 0 iso, summed feature 3 (C16 : 1  ω7c/C16 : 1 ω6c), C18 : 0 and C15 : 1 iso G as the predominant fatty acids for C7A-26P2T; summed feature 3 and C16 : 0 as the major fatty acids for ZS6-P6T; and C15 : 0 iso and summed feature 3 as the major fatty acids for C14-20M1T. The respiratory quinone detected was MK-6 for all strains. The major polar lipids of these three strains were phosphatidylethanolamine, glycolipid, aminolipid and phospholipid. Based on phenotypic, chemotaxonomic and genomic characteristics, strains C7A-26P2T, ZS6-P6T and C14-20M1T were identified as three novel species within the genus Tenacibaculum, for which the names Tenacibaculum profundi sp. nov., Tenacibaculum aquaeponti sp. nov. and Tenacibaculum profundicola sp. nov. are proposed; the type strains are C7A-26P2T (=MCCC M21464T=NBRC 117451T), ZS6-P6T (=MCCC M21515T=NBRC 117453T) and C14-20M1T (=MCCC M24271T=NBRC 117450T), respectively.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007337",
+    "date": "2026-11-01",
+    "authors": "Liang X, Lin Y, Xu Z, Zhang K, Ling M, Liu X, Lai Q, Luo Z.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43007303",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43007303",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "ocean",
+          "seawater"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4088,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1099/ijsem.0.007337"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1a8eb6efafda53e687b2a01c3dbfb20e00e441649137b7adab7ed184752a30c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:59:37.353133+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa3b91b1fcdb15d3d3f4431d97ec029a42fe432e742b4e672609c56caeaca56e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:59:37.353133+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "西太平洋の海水試料から分離された<i>Tenacibaculum profundi</i> sp. nov.、<i>Tenacibaculum aquaeponti</i> sp. nov.および<i>Tenacibaculum profundicola</i> sp. nov.",
+    "abstract_ja": "西太平洋の海水試料から、グラム染色陰性、桿菌状、黄色色素を有する厳格好気性細菌株3種（C7A-26P2T、ZS6-P6T、C14-20M1Tと命名）を分離した。すべての株は、pH 6.0～8.0、10～37°Cの条件下で1.0～6.0% NaCl存在下で増殖可能であった。16S rRNA遺伝子配列に基づく系統解析の結果、これらの株はTenacibaculum属に属し、C7A-26P2T株はTenacibaculum xiamenense Wj-1Tに最も近く（配列類似性97.9%）、ZS6-P6T株はTenacibaculum jejuense CNURIC013Tに最も近く（98.7%）、C14-20M1T株はTenacibaculum mesophilum NBRC 16307Tに最も近い（96.4%）ことが示された。ゲノムサイズはC7A-26P2Tが3.8 Mb（G+C含有量 30.8 mol%）、ZS6-P6Tが4.0 Mb（G+C含有量 30.1 mol%）、C14-20M1Tが4.6 Mb（G+C含有量 33.0 mol%）であり、他のTenacibaculum属種との平均ヌクレオチド同一性およびデジタルDNA-DNAハイブリダイゼーション値は、それぞれ87.9%および34.8%未満であった。細胞脂肪酸プロファイルでは、C7A-26P2TにおいてC15:0 iso、summed feature 3 (C16:1 ω7c/C16:1 ω6c)、C18:0およびC15:1 iso Gが主要な脂肪酸として同定され、ZS6-P6Tではsummed feature 3およびC16:0が、C14-20M1TではC15:0 isoおよびsummed feature 3が主要な脂肪酸として同定された。検出された呼吸性キノンは、全株でMK-6であった。これら3株の主要な極性脂質は、ホスファチジルエタノールアミン、糖脂質、アミノ脂質およびリン脂質であった。表現型、化学分類学的およびゲノム的特性に基づき、C7A-26P2T、ZS6-P6TおよびC14-20M1T株はTenacibaculum属内の3つの新種として同定され、それぞれTenacibaculum profundi sp. nov.、Tenacibaculum aquaeponti sp. nov.およびTenacibaculum profundicola sp. nov.という名称が提案された。タイプ株は、それぞれC7A-26P2T (=MCCC M21464T=NBRC 117451T)、ZS6-P6T (=MCCC M21515T=NBRC 117453T)およびC14-20M1T (=MCCC M24271T=NBRC 117450T)である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02815-26",
+    "title": "Complete genome sequence of <i>Pseudomonas</i> sp. gA1, a metabolically specialized deep-sea bacterium from abyssal sediment of the Western Pacific Ocean.",
+    "abstract": "The abyssal seafloor, exposed to extreme pressure, near-freezing temperatures, and severe carbon limitation, remains one of the least understood microbial habitats on Earth. Branched-chain amino acids (BCAAs) are an abundant but underexplored carbon source in abyssal sediments, yet the genomic basis for their use by deep-sea heterotrophs remains uncharacterized. Here, we report the complete genome of Pseudomonas sp. gA1, isolated from 6,000 m sediment in the Western Pacific Ocean by anaerobic enrichment with amino acids under 40 MPa. The 7.27 Mb circular chromosome encodes 6,827 protein-coding genes. Polyphasic taxonomy-including average nucleotide identity of 94.15% to P. yamanorum and digital DNA-DNA hybridization of 55.5%-confirmed strain gA1 as a novel species within the P. fluorescens group. We compared gA1 against 16 reference genomes from the P. fluorescens group and the marine Halopseudomonas and Stutzerimonas lineages. Under elevated hydrostatic pressure at 10 °C, which approximates selected aspects of the abyssal environment rather than the in situ pressure and temperature of the 6,000-m collection site, BCAAs accounted for 49% of total amino acid consumed, and growth increased by 50% at 40 MPa. Genome analysis revealed a largely represented BCAA degradation pathway (11 of 14 KEGG Orthology identifiers) conserved across the P. fluorescens group and a complete arginine deiminase (arcABC) pathway supporting anaerobic ATP generation by substrate-level phosphorylation. Denitrification and anaerobic respiratory genes were not detected, a trait shared with the marine Halopseudomonas lineage. Its most distinctive feature is expanded amino acid and peptide acquisition: 44 expanded orthogroups, including families involved in dipeptide, oligopeptide and amino acid acquisition, alongside a chaperone network and 17 biosynthetic gene clusters, including one similar to those associated with viscosinamide A/pseudodesmin A biosynthesis. These findings establish gA1 as a metabolically specialized deep-sea bacterium whose genomic architecture couples amino acid acquisition to piezotolerance.IMPORTANCEThe abyssal seafloor is the largest and most energy-limited habitat on Earth, yet how its resident bacteria sustain growth where several canonical respiratory chains are not detected remains poorly understood. This study shows that a cultured abyssal isolate grows under elevated hydrostatic pressure on amino acids, and that its genome encodes a complete arginine deiminase pathway as a potential route to substrate-level phosphorylation, the contribution of which to energy metabolism remains to be measured. Through direct comparison with 16 related genomes, the same genomic configuration is shared across the sampled Halopseudomonas genomes rather than being confined to this isolate. The work carries a broader methodological message for deep-sea genomics: pathway-completeness scores and the presence or absence of individual genes are weak proxies for physiological capacity, and adaptation in these organisms appears to proceed through expansion of existing uptake systems rather than acquisition of novel functions. Because strain gA1 is both cultured and experimentally tractable under high pressure, it offers a testable model for linking genome content to function in the deep biosphere, and it identifies amino acid and peptide acquisition, rather than catabolism, as a point at which lineages adapted to cold, organic-poor sediments diverge.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02815-26",
+    "date": "2026-11-09",
+    "authors": "Zain Ul Arifeen M, Zhou X, Hussain S, Mahtab N, Jiang H, Hou S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001803",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001803",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "average nucleotide identity",
+        "bacteria",
+        "bacterium",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4182,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/spectrum.02815-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0e239682eaa46ca77a24ca63a782f029fdfe4a5cac28efde2df0630d3ce3a490",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:59:37.353133+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7179dd7c137644b8411aeb33b95c6654fc30a9271e9d8c1c6a12bd83765b558a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:59:37.353133+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "西太平洋の深海堆積物由来の代謝特化深海細菌<i>Pseudomonas</i> sp. gA1の全ゲノム配列",
+    "abstract_ja": "極限の圧力、氷点に近い温度、および深刻な炭素制限にさらされる深海底は、地球上で最も解明が進んでいない微生物生息地の一つであり続けている。分岐鎖アミノ酸（BCAA）は、深海堆積物において豊富に存在するものの十分に探索されていない炭素源であるが、深海従属栄養生物によるその利用に関するゲノム基盤は依然として未解明である。本報では、40 MPa条件下でのアミノ酸による嫌気的濃縮により、西太平洋の水深6,000mの堆積物から単離したPseudomonas sp. gA1の全ゲノムを報告する。7.27 Mbの環状染色体は6,827個のタンパク質コード遺伝子をコードしている。多相的分類学的解析（P. yamanorumとの平均塩基同一性94.15%を含む）およびデジタルDNA-DNAハイブリダイゼーションにより、gA1株がP. fluorescens群内の新種であることが確認された（55.5%）。我々は、gA1株をP. fluorescens群および海洋性のHalopseudomonas属およびStutzerimonas属の系統に属する16の参照ゲノムと比較した。6,000mの採取地点におけるin situの圧力および温度ではなく、深海環境の特定の側面に近い10 °Cの高圧静水圧条件下では、BCAAが総アミノ酸消費量の49%を占め、40 MPaで増殖が50%増加した。ゲノム解析の結果、P. fluorescens群全体で保存されている広範なBCAA分解経路（14個のKEGG Orthology識別子のうち11個）と、基質レベルのリン酸化による嫌気的ATP生成を支える完全なアルギニンデイミナーゼ（arcABC）経路が明らかになった。脱窒および嫌気的呼吸遺伝子は検出されなかったが、これは海洋性のHalopseudomonas系統と共通する特徴である。最も顕著な特徴は、アミノ酸およびペプチドの獲得能の拡大である。ジペプチド、オリゴペプチド、およびアミノ酸の獲得に関与するファミリーを含む44の拡張オルソグループに加え、シャペロンネットワークと、ビスコシンアミドA/シュードデスミンAの生合成に関連するものと同様のものを含む17の生合成遺伝子クラスターが認められた。これらの知見は、gA1株を、アミノ酸獲得と圧耐性を連動させたゲノム構造を持つ、代謝的に特化した深海細菌として位置づけるものである。重要性深海底は地球上で最大かつ最もエネルギー制限された生息地であるが、いくつかの典型的な呼吸鎖が検出されない環境において、そこに生息する細菌がいかにして増殖を維持しているのかは依然として十分に解明されていない。本研究は、培養された深海分離株がアミノ酸に対する高圧静水圧条件下で増殖し、そのゲノムが基質レベルのリン酸化への潜在的な経路として完全なアルギニンデイミナーゼ経路をコードしていることを示した。なお、エネルギー代謝への寄与度については今後の測定が必要である。16の関連ゲノムとの直接比較により、同様のゲノム構成はこの分離株に限定されるのではなく、サンプリングされたHalopseudomonas属のゲノム全体で共有されていることが明らかになった。本研究は、深海ゲノミクスに対してより広範な方法論的示唆を与えるものである。すなわち、経路の完全性スコアや個々の遺伝子の有無は生理学的能力の弱い代理指標に過ぎず、これらの生物における適応は、新規機能の獲得ではなく、既存の取り込みシステムの拡張を通じて進行していると考えられる。gA1株は培養可能であり、かつ高圧下で実験的に扱いやすいため、深海生物圏においてゲノム内容と機能を結びつける検証可能なモデルとなる。また、異化作用ではなく、アミノ酸およびペプチドの獲得こそが、低温で有機物に乏しい堆積物に適応した系統が分岐する分岐点であることを明らかにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00531-26",
+    "title": "Comparative genomics of the skin microbiome and associated isolates of patients undergoing mastectomy with immediate breast reconstruction.",
+    "abstract": "Mastectomy with immediate breast implant reconstruction (IBIR) is an increasingly common component of breast cancer treatment; however, these procedures carry a substantial risk of surgical site infections (SSIs) and noninfectious wound complications (NIWCs). We hypothesized that the local skin microbiota may contribute to the development of post-operative complications, in part by serving as a reservoir for pathobionts, such as Staphylococcus epidermidis and Cutibacterium acnes. We collected skin and intraoperative samples from 60 patients undergoing mastectomy with IBIR. To evaluate longitudinal shifts in community composition, we performed 16S rRNA gene sequencing of 151 breast and axilla skin swabs collected at pre- and post-operative time points. Using a comprehensive culture approach, we recovered diverse cultivable organisms and selected 232 S. epidermidis and 130 C. acnes isolates from skin swabs, implant swabs, and seroma fluid for whole-genome sequencing and comparative genomic analysis. We observed perturbations to community structure in the breast and axilla following mastectomy. These shifts were characterized by a significant and persistent depletion of Corynebacterium spp., which did not resolve in patients who subsequently developed an SSI. We also uncovered outcome-specific genomic signatures in S. epidermidis isolates, which may offer mechanistic insight into the role of this species in SSI and NIWC development. Importantly, we also identified genomic signatures detectable prior to mastectomy and infection diagnosis that may offer clinical utility toward predicting post-operative complications. Together, these findings illustrate the importance of the skin microbiome in SSI and NIWC development following mastectomy with IBIR.IMPORTANCEAn improved understanding of the relationship between surgical sites and adjacent resident skin microbiota can help identify which patients are at increased risk for developing surgical site infections and noninfectious wound complications. By characterizing bacterial communities before mastectomy with immediate breast reconstruction and during subsequent healing, we sought to evaluate how changes in community composition may contribute to the development of post-operative complications. We also performed in-depth genomic analyses of Staphylococcus epidermidis and Cutibacterium acnes isolates recovered from patients to identify genetic components that may determine whether an isolate protects or predisposes patients toward development of post-operative complications. Last, we identified genomic signatures detectable prior to surgery and infection diagnosis that are correlated with patient outcome, which may serve as informative biomarkers to inform patient care.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00531-26",
+    "date": "2026-11-10",
+    "authors": "Rebeck ON, Zhang A, Mahmud B, Wallace MA, Nickel KB, Johnson C, Habrock-Bach T, Zahrah D, Liao J, Myckatyn TM, Tenenbaum MM, Brandt KE, Burnham C-AD, Olsen MA, Dantas G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006873",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006873",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4180,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/msphere.00531-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e602db49526cc24835096301aaa466860050d2a444b8bf4362db17f6a3767f9c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:59:37.353133+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4dc596f7f87b97a07857030fd0348c11c068acfeea234b887aeed69b9b7aab91",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:59:37.353133+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "乳房切除術および即時乳房再建術を受ける患者の皮膚マイクロバイオームおよび関連分離株の比較ゲノム解析",
+    "abstract_ja": "即時乳房インプラント再建術（IBIR）を併用した乳房切除術は、乳がん治療においてますます一般的な手法となっているが、これらの術式には手術部位感染（SSI）および非感染性創傷合併症（NIWC）の重大なリスクが伴う。我々は、局所の皮膚微生物叢が、表皮ブドウ球菌（Staphylococcus epidermidis）やアクネ菌（Cutibacterium acnes）などの病原共生菌のリザーバーとして機能することなどを通じて、術後合併症の発症に寄与しているのではないかという仮説を立てた。我々は、IBIRを併用した乳房切除術を受ける患者60例から、皮膚および術中検体を採取した。コミュニティ組成の経時的な変化を評価するため、術前および術後の時点において採取した乳房および腋窩の皮膚スワブ151検体に対し、16S rRNA遺伝子シーケンシングを実施した。包括的な培養アプローチを用いて多様な培養可能菌を回収し、皮膚スワブ、インプラントスワブ、および漿液からS. epidermidis 232株およびC. acnes 130株を分離し、全ゲノムシーケンシングおよび比較ゲノム解析に供した。乳房および腋窩において、乳房切除術後にコミュニティ構造の乱れが認められた。これらの変化は、Corynebacterium属菌の有意かつ持続的な減少を特徴としており、この減少はその後SSIを発症した患者において解消されなかった。また、S. epidermidis分離株において転帰特異的なゲノムシグネチャーを同定した。これは、SSIおよびNIWCの発症における本菌の役割について、機序的な知見を提供する可能性がある。重要な点として、乳房切除術および感染診断前に検出可能なゲノムシグネチャーも同定しており、これらは術後合併症の予測において臨床的な有用性を持つ可能性がある。以上の知見を総合すると、IBIRを併用した乳房切除術後のSSIおよびNIWCの発症における皮膚マイクロバイオームの重要性が明らかとなった。重要性：手術部位と隣接する常在性皮膚微生物叢との関係に関する理解を深めることは、どの患者が手術部位感染および非感染性創傷合併症の発症リスクが高いかを特定するのに役立つ。即時乳房再建術前の乳房切除前およびその後の治癒過程における細菌コミュニティを特性評価することで、コミュニティ組成の変化が術後合併症の発症にどのように寄与するかを評価しようとした。また、患者から回収したStaphylococcus epidermidisおよびCutibacterium acnes分離株の詳細なゲノム解析を行い、分離株が術後合併症の発症を防ぐか、あるいは誘発するかを決定づける可能性のある遺伝的構成要素を同定した。最後に、手術および感染診断前に検出可能で、患者の転帰と相関するゲノムシグネチャーを同定した。これらは、患者ケアに資する有益なバイオマーカーとなり得る。"
   }
 ]
