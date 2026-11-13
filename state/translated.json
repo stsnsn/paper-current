@@ -192473,5 +192473,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "クロボシガエル（Pelophylax nigromaculatus）の染色体レベルのゲノムアセンブリ",
     "abstract_ja": "学術データ、オンライン公開：2026年11月7日；doi:10.1038/s41597-026-08542-z クロボシガエル（Pelophylax nigromaculatus）の染色体レベルのゲノムアセンブリ"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1102",
+    "title": "MetaDome 2027: a comprehensively updated resource for aggregating missense variant evidence across homologous human protein domains.",
+    "abstract": "The interpretation of missense variants remains a major challenge in clinical genetics. \"Meta-domains\" aggregate population and pathogenic variation across homologous Pfam domain instances in the human proteome, providing per-residue context for interpreting variants of uncertain significance (VUS). Our 2019 implementation, MetaDome, is widely used and named in clinical variant-classification guidelines. Here, we present the MetaDome 2027 update, featuring a comprehensively updated dataset and GRCh38 support. The redesigned pipeline enables incremental updates of GENCODE, UniProtKB/Swiss-Prot, Pfam, gnomAD, and ClinVar while maintaining 100% sequence-identity gene-to-protein mapping. Annotated Pfam domain instances grew 14.9% from 71 419 to 82 069 and meta-domain-eligible Pfam families (≥2 human occurrences) by 73.3% from 3334 to 5778; Pfam domains are annotated to 92% of human proteins. Approximately 43% of mapped protein-coding nucleotides (14.3 million in GRCh38, 13.8 million in GRCh37) are in a meta-domain; in GRCh38, 67.9% (37 692 of 55 548) of pathogenic or likely pathogenic ClinVar missense variants fall at such a position. We show how MetaDome helped reclassify a de novo missense VUS in RALA and identify 52 463 ClinVar missense VUS for which meta-domains supply otherwise unavailable pathogenic evidence. MetaDome is freely available at www.metadome.app.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1102",
+    "date": "2026-10-31",
+    "authors": "Wiel L, Ferraro F, Yu J, Zhen J, Nachun D, Mendez R, Reuter CM, Cui JL, Bonner DE, Carter JN, Marwaha S, van de Vorst M, Emami S, Kravets E, Neu MB, van Ham TJ, Kleefstra T, Ashley EA, Bernstein JA, Montgomery SB, Gilissen C, Wheeler MT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963945",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963945",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protein",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "protein",
+          "resource"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3934,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1102"
+    ],
+    "translation": {
+      "title": {
+        "hash": "50fc0bb50f6b878ba191a7bb0998d1c638e67ad0ab4a7f27aae73b26d95740de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:56:14.948165+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1293304f21996191e8e5753893d865b34310a71ff3300af7484afdc52ee71e55",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:56:14.948165+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MetaDome 2027：ヒト相同タンパク質ドメインにわたるミスセンス変異のエビデンスを集約するための、包括的に更新されたリソース。",
+    "abstract_ja": "ミスセンス変異の解釈は、臨床遺伝学における主要な課題であり続けている。「メタドメイン」は、ヒトプロテオーム内の相同なPfamドメインインスタンスにわたる集団的および病原性変異を集約し、意義不明変異（VUS）の解釈に残基ごとのコンテキストを提供する。我々が2019年に実装したMetaDomeは広く利用されており、臨床変異分類ガイドラインにも記載されている。本稿では、包括的に更新されたデータセットとGRCh38への対応を特徴とするMetaDome 2027アップデートを提示する。再設計されたパイプラインにより、100%の配列同一性を有する遺伝子-タンパク質マッピングを維持しつつ、GENCODE、UniProtKB/Swiss-Prot、Pfam、gnomAD、およびClinVarの漸進的な更新が可能となった。アノテーション済みのPfamドメインインスタンスは71,419から82,069へと14.9%増加し、メタドメインの適用対象となるPfamファミリー（ヒトでの出現回数が2回以上）は3,334から5,778へと73.3%増加した。Pfamドメインはヒトタンパク質の92%にアノテーションされている。マッピングされたタンパク質コードヌクレオチドの約43%（GRCh38で1,430万、GRCh37で1,380万）がメタドメインに属しており、GRCh38では、病原性または病原性の可能性が高いClinVarミスセンス変異の67.9%（55,548件中37,692件）がこのような位置に位置している。我々は、MetaDomeがRALAにおけるde novoミスセンスVUSの再分類にどのように寄与し、メタドメインが他では得られない病原性の根拠を提供する52,463件のClinVarミスセンスVUSの同定にどのように役立ったかを示す。MetaDomeはwww.metadome.appにて無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2607261123",
+    "title": "Gene conversion is a key driver of diversity hotspots in <i>Mycobacterium tuberculosis</i> antigens and virulence-associated loci.",
+    "abstract": "Despite the long-held view of Mycobacterium tuberculosis (Mtb) as a genetically conserved pathogen, many genomic regions remain poorly resolved due to high sequence homology and repetitive content. Using complete genome assemblies generated from long-read sequencing of 151 globally representative clinical isolates, we comprehensively analyzed genome-wide patterns of genetic diversity and evolution across the Mtb genome. Our analysis uncovers pronounced diversity hotspots within paralogous regions (PRs) generated by recurrent gene conversion between homologous genes. In many cases, these hotspots exhibit more than an order of magnitude greater genetic diversity than the rest of the Mtb genome, which is otherwise characterized by remarkably low variation. Mutations within these regions display clustered substitution patterns, excess paralog-matching variants, and distinct mutational spectra consistent with ongoing gene conversion. Our analysis identifies over 300 individual gene conversion events (GCEs) distributed throughout the Mtb phylogeny. These GCEs occur predominantly within gene families associated with virulence and host-pathogen interactions, including the PE, PPE, and ESX families. Several of the most pronounced diversity hotspots occur in antigens encoded within PRs. Among these, the vaccine candidate PPE18 harbors mutations in validated epitope sequences and predicted alterations in HLA-II binding. Together, these findings demonstrate that gene conversion actively shapes antigenic and virulence-associated diversity in Mtb.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2607261123",
+    "date": "2026-10-21",
+    "authors": "Marin MG, Quinones-Olvera N, Jin H, Harris MA, Jeffrey BM, Rosenthal A, Murphy KC, Sassetti CM, Li H, Farhat MR.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905546",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42905546",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 340,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2607261123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "06da0168cb8538026b08652e787121bce1b41ef1675b6c34157ffe130eae4243",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:56:14.948165+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "32914b6a431790eebb55d444ee9234c743a0a79c610088bae1dabe335e3dea0d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:56:14.948165+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝子変換は、<i>Mycobacterium tuberculosis</i>の抗原および病原性関連遺伝子座における多様性ホットスポットの主要な駆動要因である。",
+    "abstract_ja": "結核菌（Mtb）は遺伝的に保存された病原体であるという見解が長らく定着しているが、配列相同性の高さと反復配列の多さにより、多くのゲノム領域が依然として十分に解明されていない。我々は、世界的に代表的な151株の臨床分離株のロングリードシーケンシングから得られた全ゲノムアセンブリを用い、Mtbゲノム全体における遺伝的多様性と進化のパターンを包括的に解析した。本解析により、相同遺伝子間の反復的な遺伝子変換によって生じたパラログ領域（PRs）内に、顕著な多様性ホットスポットが存在することが明らかになった。多くの場合、これらのホットスポットは、それ以外の部分が著しく低い変異性を特徴とするMtbゲノムの他の領域よりも、1桁以上高い遺伝的多様性を示している。これらの領域内の変異は、クラスター化した置換パターン、過剰なパラログ一致変異、および進行中の遺伝子変換と整合する明確な変異スペクトルを示す。本解析により、Mtbの系統樹全体に分布する300件以上の個別の遺伝子変換事象（GCEs）が同定された。これらのGCEsは、主にPE、PPE、およびESXファミリーを含む、病原性および宿主・病原体相互作用に関連する遺伝子ファミリー内で発生している。最も顕著な多様性ホットスポットのいくつかは、PRs内でコードされる抗原に存在している。これらのうち、ワクチン候補であるPPE18は、検証済みのエピトープ配列における変異と、HLA-II結合における予測される変化を有している。以上の知見を総合すると、遺伝子変換がMtbにおける抗原性および病原性に関連する多様性を積極的に形成していることが示される。"
+  },
+  {
+    "id": "10.1038/s41597-026-08126-x",
+    "title": "The first chromosomal-level genome assembly of Stingless bee Lepidotrigona flavibasis Cockerell, 1929 (Hymenoptera, Apidae, Meliponini)",
+    "abstract": "Scientific Data, Published online: 07 November 2026; doi:10.1038/s41597-026-08126-xThe first chromosomal-level genome assembly of Stingless bee Lepidotrigona flavibasis Cockerell, 1929 (Hymenoptera, Apidae, Meliponini)",
+    "journal": "Scientific Data",
+    "doi": "10.1038/s41597-026-08126-x",
+    "date": "2026-11-07",
+    "authors": "Xuwei Zhu",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41597-026-08126-x",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/sdata.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2130,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.nature.com/sdata.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41597-026-08126-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4d490ee30ef141992525ba6c70fbcff70670c7c0cdbb802f01bc53adfae73d77",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:56:14.948165+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d17e557c97990a40dde45afb6c776d4dae6ec928ce85b17f16649d101707bc1f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:56:14.948165+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Stingless bee Lepidotrigona flavibasis Cockerell, 1929 (膜翅目, ミツバチ科, ミツバチ亜科) の初の染色体レベルのゲノムアセンブリ",
+    "abstract_ja": "学術データ、オンライン公開：2026年11月7日；doi:10.1038/s41597-026-08126-xStingless bee Lepidotrigona flavibasis Cockerell, 1929 (膜翅目, ミツバチ科, ハリナシバチ族) の初の染色体レベルゲノムアセンブリ"
+  },
+  {
+    "id": "10.1038/s41598-026-79233-3",
+    "title": "Knowledge-driven generative AI for museum product innovation: A BTM-AIGC-TOPSIS framework",
+    "abstract": "Scientific Reports, Published online: 10 November 2026; doi:10.1038/s41598-026-79233-3Knowledge-driven generative AI for museum product innovation: A BTM-AIGC-TOPSIS framework",
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-026-79233-3",
+    "date": "2026-11-10",
+    "authors": "Nai-Hua Zhao",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41598-026-79233-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/srep.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2133,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.nature.com/srep.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41598-026-79233-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5ef60a0a92eaa6f9e2ab0175bc039bdb8961233728b757ffb70711ad141c04c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:56:14.948165+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e6064e386e305f5500556dd6576a5c5bc7156acbbae6e0aec8ba190c5da7ed5b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:56:14.948165+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "博物館プロダクトのイノベーションに向けた知識駆動型生成AI：BTM-AIGC-TOPSISフレームワーク",
+    "abstract_ja": "Scientific Reports, オンライン公開：2026年11月10日; doi:10.1038/s41598-026-79233-3博物館プロダクト・イノベーションのための知識駆動型生成AI：BTM-AIGC-TOPSISフレームワーク"
   }
 ]
