@@ -351,3 +351,16 @@ work/cloud --output-dir work/backfill` after restoring state. The request's
 `apply` flag still controls queue insertion. Daily artifacts include the progress
 snapshot and backfill reports. The standalone dispatch workflow remains a complete
 preview/apply operation with its own job timeout.
+
+
+### プレプリント探索
+
+通常収集はbioRxiv API・RSS、EcoEvoRxiv RSS、arXiv APIを探索します。
+arXivはタイトル・要旨の語彙検索と更新日の範囲指定、100件ごとのページ保存を使用します
+（[API仕様](https://info.arxiv.org/help/api/user-manual.html)）。
+すべてのプレプリントは配信元・検索条件だけでは採用せず、本文メタデータの関連性を判定します。
+対象は微生物と水圏／ゲノムの組み合わせ、または既存のバイオインフォマティクス手法・データベースです。
+EcoEvoRxivは[直近10件のRSS](https://ecoevorxiv.org/rss/preprints/)のため過去期間の網羅性は保証しません。
+DOIのないEcoEvoRxiv投稿は固定のrepository URLを識別に使い、DOIを生成しません。
+画面ではまとめてPreprintと表示し、一覧カードには各配信元を表示します。
+既存の保存済み進捗との互換性のため内部のモードキーは `biorxiv` を維持します。

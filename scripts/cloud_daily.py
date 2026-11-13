@@ -1,3 +1,4 @@
+from common import has_paper_identifier
 """Bounded GitHub Actions pipeline. License metadata does not restrict processing."""
 import argparse
 from contextlib import contextmanager
@@ -117,7 +118,7 @@ def pending_rows(work,now,model):
     candidates=[];retries=load(work/'translation-retries.json',{})
     for row in load(work/'inbox.json',[]):
         r=annotate(row,sources)
-        if (not r.get('title') or not r.get('abstract') or not r.get('doi')
+        if (not r.get('title') or not r.get('abstract') or not has_paper_identifier(r)
             or not r['topic_filter']['accepted']
             or not automatic_journal_eligible(r, sources)):continue
         try:age=(now.astimezone(auto.JST).date()-dt.date.fromisoformat(r.get('collected_date') or r.get('date','')[:10])).days
@@ -237,7 +238,7 @@ def publish(work,now,model):
     ready=[]
     for source in load(work/'inbox.json',[]):
         row=annotate(source,sources)
-        if (row.get('title') and row.get('abstract') and row.get('doi')
+        if (row.get('title') and row.get('abstract') and has_paper_identifier(row)
             and row['topic_filter']['accepted']
             and automatic_journal_eligible(row, sources)
             and is_complete(row,previous,model)):

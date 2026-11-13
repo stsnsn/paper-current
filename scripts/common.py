@@ -94,3 +94,11 @@ def dedupe_records(rows):
             if r.get('published_journal'):best['published_journal']=r['published_journal']
         result.append(best)
     return result
+
+
+def has_paper_identifier(row):
+    """DOI or a stable EcoEvoRxiv repository identity (some deposits lack DOIs)."""
+    return bool(doi(row.get('doi')) or (
+        row.get('preprint') and row.get('journal')=='EcoEvoRxiv'
+        and re.fullmatch(r'https://ecoevorxiv.org/repository/view/\d+/',row.get('source_url',''))
+        and row.get('id')))

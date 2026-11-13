@@ -1,3 +1,4 @@
+from common import has_paper_identifier
 """Local RSS collection, PLaMo translation and daily weekly-issue updates.
 GitHub Actions deploys static files only. Archive payloads are evicted locally
 only after a successful push; a small DOI/month index remains.
@@ -60,7 +61,8 @@ def eligible(rows,used,now,max_age_days):
     out=[]
     for a in dedupe_records(rows):
         if a.get('archive_only') or paper_keys(a)&used or a.get('topic_filter',{}).get('accepted') is False:continue
-        if not all(a.get(k) for k in ('title','abstract','title_ja','abstract_ja','doi')):continue
+        if not all(a.get(k) for k in ('title','abstract','title_ja','abstract_ja')):continue
+        if not has_paper_identifier(a):continue
         if not a.get('journal') and not a.get('preprint'):continue
         try:date=dt.date.fromisoformat(a.get('collected_date') or a.get('date','')[:10])
         except ValueError:continue

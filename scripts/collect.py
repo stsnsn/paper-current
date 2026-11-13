@@ -5,18 +5,19 @@ from concurrent.futures import ThreadPoolExecutor
 from topic_scope import scoped_query, field_query, SPECIFIC, bioinformatics_query
 from topic_filter import annotate,journal_excluded,watchlist_hits
 from rss_records import rss_record,merge_record,normalize_rss_record
+from preprints import arxiv_query, arxiv_record
 from epmc_metadata import enrich_core
 from epmc_search import publication_start,discovery_query,recent_publication,watchlist_query
 from common import ROOT,load,write,text,doi,dedupe_records
 from journal_catalog import update_catalog
 from collection_window import source_start
 from pathlib import Path
-p=argparse.ArgumentParser();p.add_argument('--watchlist-backfill-since',help='One-time SAR11/Pelagibacter-only publication backfill, YYYY-MM-DD');p.add_argument('--out',default='work/inbox.json');p.add_argument('--days',type=int);p.add_argument('--source-state',help='Automation state with per-source successful collection times');p.add_argument('--source-group');p.add_argument('--journals-only',action='store_true');p.add_argument('--skip-europepmc',action='store_true');p.add_argument('--reference-dois',help='JSON list of DOIs from a public reference digest');p.add_argument('--since');p.add_argument('--until');p.add_argument('--routes',default='rss,europepmc,biorxiv');p.add_argument('--journals',help='Comma separated exact configured journal names');p.add_argument('--progress-file',help='Atomic page checkpoints for resumable backfill');args=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('--watchlist-backfill-since',help='One-time SAR11/Pelagibacter-only publication backfill, YYYY-MM-DD');p.add_argument('--out',default='work/inbox.json');p.add_argument('--days',type=int);p.add_argument('--source-state',help='Automation state with per-source successful collection times');p.add_argument('--source-group');p.add_argument('--journals-only',action='store_true');p.add_argument('--skip-europepmc',action='store_true');p.add_argument('--reference-dois',help='JSON list of DOIs from a public reference digest');p.add_argument('--since');p.add_argument('--until');p.add_argument('--routes',default='rss,europepmc,biorxiv,arxiv');p.add_argument('--journals',help='Comma separated exact configured journal names');p.add_argument('--progress-file',help='Atomic page checkpoints for resumable backfill');args=p.parse_args()
 if bool(args.since)!=bool(args.until):p.error('--since and --until are required together')
 if args.since:
     if dt.date.fromisoformat(args.since)>dt.date.fromisoformat(args.until):p.error('Invalid date range')
 routes=set(args.routes.split(','))
-if routes-{'rss','europepmc','biorxiv'}:p.error('Unknown route')
+if routes-{'rss','europepmc','biorxiv','arxiv'}:p.error('Unknown route')
 cfg=load(ROOT/'config/sources.json')
 source_state=load(args.source_state,{}) if args.source_state else {}
 collection_now=dt.datetime.now(dt.timezone.utc)
@@ -71,7 +72,7 @@ if args.journals:
     requested=set(args.journals.split(','))
     if requested-set(cfg.get('source_journals',{})):p.error('Unknown journal')
     selected_names &= requested
-urls=[url for url in cfg['feeds'] if not journal_excluded(cfg.get('feed_journals',{}).get(url,''),cfg) and (not args.journals_only or 'biorxiv' not in url) and (not args.source_group or cfg.get('feed_journals',{}).get(url) in selected_names)]
+urls=[url for url in cfg['feeds'] if not journal_excluded(cfg.get('feed_journals',{}).get(url,''),cfg) and (not args.journals_only or (url not in cfg.get('preprint_feeds',[]) and 'biorxiv' not in url)) and (not args.source_group or cfg.get('feed_journals',{}).get(url) in selected_names)]
 if args.watchlist_backfill_since or 'rss' not in routes:urls=[]
 if args.journals:urls=[u for u in urls if cfg.get('feed_journals',{}).get(u) in selected_names]
 filter_counts={'accepted':0,'rejected':0,'metadata_pending':0};coverage=progress.get('coverage',{});filter_decisions={r['id']:r for r in progress.get('decisions',[])};enrichment={'checked':0,'abstracts_recovered':0,'dois_recovered':0,'errors':[]}
@@ -218,6 +219,31 @@ if 'biorxiv' in routes and not args.journals and cfg.get('biorxiv_enabled',True)
                         r['published_journal']=pub['published_journal'];r['published_doi']=doi(pub.get('published_doi'));break
             except Exception as exc:errors.append({'source':'bioRxiv publication link','error':str(exc)})
     except Exception as exc:errors.append({'source':'bioRxiv','error':str(exc)});coverage['bioRxiv']={'ok':False}
+# arXiv API uses bounded date queries and resumable Atom pagination.
+if 'arxiv' in routes and cfg.get('arxiv_enabled',False) and not (args.journals_only or args.journals or args.source_group or args.watchlist_backfill_since):
+    try:
+        query=arxiv_query(args.since or max(start_for('arXiv'),publication_start(collection_now,cfg)),today)
+        previous=source_progress.get('arXiv',{})
+        cursor=previous.get('cursor',0) if previous.get('query')==query else 0
+        while True:
+            feed=feedparser.parse(get('https://export.arxiv.org/api/query',params={'search_query':query,'start':cursor,'max_results':100,'sortBy':'lastUpdatedDate','sortOrder':'ascending'}).content)
+            if feed.bozo or 'opensearch_totalresults' not in feed.feed:raise ValueError('Invalid arXiv Atom response')
+            total=int(feed.feed.opensearch_totalresults)
+            if not feed.entries and cursor<total:raise ValueError('arXiv pagination stopped early')
+            for entry in feed.entries:
+                row=annotate(arxiv_record(entry,query),cfg)
+                remember_decision(row,'arXiv')
+                decision=row['topic_filter'];filter_counts['accepted' if decision['accepted'] else 'rejected']+=1
+                if decision['accepted']:merge(row,'arXiv')
+            cursor+=len(feed.entries)
+            source_progress['arXiv']={'query':query,'cursor':cursor,'total':total,'done':cursor>=total}
+            coverage['arXiv']={'ok':cursor>=total,'retrieved':cursor,'query':query}
+            counts['arXiv']=cursor
+            checkpoint()
+            if cursor>=total:break
+            time.sleep(3)
+    except Exception as exc:
+        errors.append({'source':'arXiv','error':str(exc)});coverage['arXiv']={'ok':False}
 # Optional explicit reference DOI lists bypass relevance filtering.
 reference=load(args.reference_dois,[]) if args.reference_dois else []
 for d in reference:

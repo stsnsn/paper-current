@@ -66,7 +66,7 @@ def rss_record(entry,url,cfg):
     raw_date=entry.get('published_parsed') or entry.get('updated_parsed')
     date=dt.datetime.fromtimestamp(calendar.timegm(raw_date),dt.timezone.utc).date().isoformat() if raw_date else ''
     row=dict(id=key,title=title,abstract=abstract,journal=journal,doi=d,date=date,authors=text(entry.get('author','')),tags=[],
-        source_url=entry.get('link',''),abstract_source='rss',preprint='biorxiv' in url)
+        source_url=entry.get('link',''),abstract_source='rss',preprint=url in cfg.get('preprint_feeds',[]) or 'biorxiv' in url)
     return annotate(row,cfg)
 
 def merge_record(before,row,source):

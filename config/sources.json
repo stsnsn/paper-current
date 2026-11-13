@@ -112,7 +112,8 @@
     "https://journals.plos.org/plosone/feed/atom",
     "https://peerj.com/articles/index.atom",
     "https://www.nature.com/nmeth.rss",
-    "https://www.nature.com/nbt.rss"
+    "https://www.nature.com/nbt.rss",
+    "https://ecoevorxiv.org/rss/preprints/"
   ],
   "marine_terms": [
     "marine",
@@ -348,7 +349,8 @@
     "https://peerj.com/articles/index.atom": "PeerJ",
     "https://www.nature.com/nmeth.rss": "Nature Methods",
     "https://www.nature.com/nbt.rss": "Nature Biotechnology",
-    "https://www.nature.com/ismej.rss": "The ISME Journal"
+    "https://www.nature.com/ismej.rss": "The ISME Journal",
+    "https://ecoevorxiv.org/rss/preprints/": "EcoEvoRxiv"
   },
   "source_journals": {
     "The ISME Journal": {
@@ -1313,5 +1315,11 @@
     "10.64898/2026.08.15.744057",
     "10.64898/2026.10.07.757358",
     "10.64898/2026.10.16.759533"
-  ]
+  ],
+  "preprint_feeds": [
+    "https://ecoevorxiv.org/rss/preprints/",
+    "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+    "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+  ],
+  "arxiv_enabled": true
 }

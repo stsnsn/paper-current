@@ -63,7 +63,7 @@ def classify(row,cfg):
     genome = sorted(set(genome+scope_hits(GENOMICS,body)))
     methods=method_hits(row.get('title',''),row.get('abstract',''))
     bioinformatics=bioinformatics_hits(row.get('title',''),row.get('abstract',''))
-    scoped=any(e.get('scope')=='target' and e.get('query') for e in row.get('discovery',[]))
+    scoped=not row.get('preprint') and any(e.get('scope')=='target' and e.get('query') for e in row.get('discovery',[]))
     accepted=unfiltered or scoped or bool(matches and (marine or genome)) or bool(methods) or bool(bioinformatics)
     if (methods or bioinformatics) and not genome:genome=methods+bioinformatics
     tags=[]

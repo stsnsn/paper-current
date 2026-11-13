@@ -183,3 +183,5 @@ assert.equal(collectedOrder.run('latestSort'),'added');
 collectedOrder.run("changeContent('latest')");
 assert.equal(collectedOrder.run('latestRows()[0].id'),'10.1234/new');
 console.log('Default reading order follows collection timestamps, including future-dated publications.');
+
+assert.equal(sr("link({doi:'',source_url:'https://ecoevorxiv.org/repository/view/16054/'})"),'https://ecoevorxiv.org/repository/view/16054/');
