@@ -187412,5 +187412,338 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "関連性を超えて：病態形成モデルが示す腟内細菌叢異常の生態学的駆動要因。",
     "abstract_ja": "健康における極めて重要な意義にもかかわらず、腟内マイクロバイオームに関する理解は他の粘膜部位に比べて大幅に遅れており、これはヒト腟内微小環境の特異な生物学的特性と、生物医学研究において女性の生殖健康が歴史的に軽視されてきたことの両方を反映している。近年のこの分野への投資と、ハイスループットオミクス技術の広範な普及により、腟内微生物叢の状態およびそれらと健康・疾患との関連性に関する理解は大きく進展した。しかし、微生物叢の組成と臨床転帰を相関させる関連解析研究では、保護的な微生物叢を支える因果的かつ修飾可能な宿主・微生物間関係を定義する能力が限られている。その結果、記述的な知見に基づく広範なプロバイオティクス戦略は、女性生殖器系における持続的な恒常性の回復において限定的な成果にとどまっている。マウス感染モデルは、微生物の増殖に影響を与える進化的に保存された生理学的プロセスを同定するための扱いやすい系を提供する。本稿では、病原性研究の各分野において、マウスモデルを活用して腟内微小環境における感染感受性を制御する生態学的要因を同定した研究を紹介する。病原体の定着を単なるエンドポイントとして扱うのではなく、遺伝的に扱いやすい微生物が、微生物の持続、増殖、および炎症を媒介するリソース、障壁、および免疫応答をどのように明らかにするかを強調する。可能な場合は、これらの知見を臨床観察と統合し、ヒトの生殖健康への関連性を評価する。これらの研究を総合すると、不完全ながらも扱いやすいモデルが、女性における腟内ディスバイオーシスの因果的駆動因子をいかに明らかにし、大規模な関連解析研究をより臨床的に意義のある形で基礎づけるのに役立つかが示される。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1931225",
+    "title": "A novel gellan gum-degrading glycoside hydrolase from the hyperthermophile Fervidibacter sacchari",
+    "abstract": "Fervidibacter sacchari is an aerobic hyperthermophile within the phylum Armatimonadota that degrades various polysaccharides. Its genome encodes 117 putative glycoside hydrolases (GHs), including two assigned to GH family 50 (GH50). In this study, a multidomain GH50 enzyme, Fsa11540Gus, was expressed, purified, and functionally characterized. Despite most GH50s being known as β-agarases, Fsa11540Gus was optimally active on gellan gum, followed by β-glucan, with lower activity on carboxymethyl (CM)-curdlan and agarose. Nanostructure-initiator mass spectrometry (NIMS) analysis of degradation products of gellan gum indicated β-1,4-endoglucuronidase activity at the glucuronate-glucose bond. Mutation of either conserved active-site glutamic acid with proposed roles as acid/base catalyst and nucleophile to alanine (E409A or E575A) or amino acids with predicted roles in substrate recognition and distortion (N408A, F630A, and E646A) decreased enzyme activity. These results rule out gellan lyase activity and confirm Fsa11540Gus as the first known glycoside hydrolase to degrade gellan gum. NIMS analysis of other degradation products revealed β-1,3-endoglucanase activity on oat β-glucan and CM-curdlan and likely β-1,4-endo glycoside hydrolase activity on the galactose-3,6-anhydrogalactose-galactose bond in agarose. The enzyme was active on gellan gum from 70 to 95 °C, with optimal activity at 80–90 °C and rapid deactivation at 100 °C. AlphaFold 3 computed structure models predicted a monomeric structure, which was confirmed by native polyacrylamide gel electrophoresis. The enzyme has a predicted N-terminal Sec translocase/signal peptidase I signal peptide, an N-terminal domain of unknown function, a GH50 domain, and a large C-terminal domain annotated as COG1572/pfam07705. Phylogenetic analysis of Fsa11540Gus and other GH50 enzymes revealed a monophyletic clade in the genera Fervidibacter and Caldisaccharidevorator with these distinctive N- and C-terminal domains, suggesting recent vertical evolution but a dynamic deeper evolutionary history involving domain swapping and changes in protein localization. This study shows that Fsa11540Gus is the first known enzyme with glycoside hydrolase activity on gellan gum and expands our understanding of the GH50 family and polysaccharide metabolism by Armatimonadota.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1931225",
+    "date": "2026-11-13",
+    "authors": "Brian P. Hedlund",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1931225",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4389,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1931225"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0c3e9b4d986fc709da2e47c575016ac3ec7abc4058adc73cf6653906f0565bd3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:01:54.314727+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aa512ca97f3786d86fbd103e1a89fa8b283fe60b997f0b013418099eb0b6656c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:01:54.314727+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "超好熱菌 Fervidibacter sacchari 由来の新規ゲランガム分解グリコシド加水分解酵素",
+    "abstract_ja": "Fervidibacter sacchariは、Armatimonadota門に属する好気性超好熱菌であり、各種多糖類を分解する。そのゲノムには、GHファミリー50（GH50）に属する2種を含む、117種類の推定グリコシド加水分解酵素（GH）がコードされている。本研究では、マルチドメインGH50酵素であるFsa11540Gusを発現・精製し、機能的特性解析を行った。ほとんどのGH50がβ-アガラーゼとして知られているが、Fsa11540Gusはゲランガムに対して最適な活性を示し、次いでβ-グルカンに対して活性を示した一方、カルボキシメチル（CM）-クルドランおよびアガロースに対する活性は低かった。ゲランガムの分解産物に対するナノ構造イニシエーター質量分析（NIMS）解析により、グルクロネート-グルコース結合部位におけるβ-1,4-エンドグルクロニダーゼ活性が示された。酸・塩基触媒および求核剤としての役割が想定される保存型活性部位のグルタミン酸をアラニンに変異させた場合（E409AまたはE575A）、あるいは基質認識および歪みにおける役割が予測されるアミノ酸に変異させた場合（N408A、F630A、およびE646A）、酵素活性は低下した。これらの結果は、ゲランガムリアーゼ活性を否定するものであり、Fsa11540Gusがゲランガムを分解する初の既知のグリコシド加水分解酵素であることを裏付けている。他の分解産物のNIMS解析では、オーツβ-グルカンおよびCM-クルドランに対するβ-1,3-エンドグルカナーゼ活性と、アガロース中のガラクトース-3,6-アンヒドロガラクトース-ガラクトース結合に対するβ-1,4-エンドグリコシド加水分解酵素活性が認められた。本酵素は70～95 °Cの範囲でゲランガムに対して活性を示し、80～90 °Cで最適な活性を、100 °Cで速やかに失活した。AlphaFold 3による構造モデルの計算では単量体構造が予測され、これは天然ポリアクリルアミドゲル電気泳動によって確認された。本酵素は、予測されるN末端のSecトランスロカーゼ/シグナルペプチダーゼIシグナルペプチド、機能未知のN末端ドメイン、GH50ドメイン、およびCOG1572/pfam07705とアノテーションされた大きなC末端ドメインを有する。Fsa11540Gusおよび他のGH50酵素の系統解析により、これらの特徴的なN末端およびC末端ドメインを持つFervidibacter属およびCaldisaccharidevorator属の単系統群が認められ、最近の垂直進化に加え、ドメインの入れ替えやタンパク質局在の変化を伴う動的でより深い進化史が示唆された。本研究は、Fsa11540Gusがゲランガムに対してグリコシド加水分解酵素活性を持つ初の既知の酵素であることを示しており、GH50ファミリーおよびArmatimonadotaによる多糖類代謝に関する理解を深めるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/iai.00036-26",
+    "title": "Born in the wild: the ecological roles of key Enterobacteriaceae virulence factors.",
+    "abstract": "Many Enterobacteriaceae family pathogens are not truly human adapted but are instead opportunists able to thrive in various different niches. Survival in environments outside human hosts provides a means for transmission and also represents an important selective pressure shaping the evolution of these bacterial species. Pathogens such as Escherichia coli and Klebsiella pneumoniae benefit from highly diverse genomes and horizontally acquired virulence or host fitness factors that collectively determine infection type and severity. These same \"virulence\" factors can also drive environmental survival. Here we will review current knowledge of the environmental roles of canonical host fitness factors of opportunistic pathogens, including capsule, siderophores, curli, and type VI secretion systems. These systems are primarily known for their roles in protection, nutrient acquisition, and intermicrobial competition within the host but can also make dramatic contributions to environmental survival. Investigating these roles can give us new perspectives on how these factors may function within the host and help us to understand the evolutionary forces shaping bacterial pathogens.",
+    "journal": "Infection and Immunity",
+    "doi": "10.1128/iai.00036-26",
+    "date": "2026-11-01",
+    "authors": "Nunez C, Howells GA, Short FL.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43018535",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "43018535",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 818,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/iai.00036-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e00410eb2000301ca6d7bc24acf72ae241a9f5e85ed60d53122422527c9a1ccd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:01:54.314727+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "27a6364b2c9c207d6cb794e36b8d9f1bc291ec583d3f23786f26c36f39d3a9e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:01:54.314727+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "野生下で誕生：腸内細菌科の主要な病原因子の生態学的役割",
+    "abstract_ja": "腸内細菌科の病原体の多くは、真の意味でヒトに適応しているわけではなく、むしろ多様なニッチで生存可能な日和見菌である。ヒト宿主以外の環境での生存は、伝播の手段となるだけでなく、これらの細菌種の進化を形作る重要な選択圧ともなっている。大腸菌や肺炎桿菌などの病原体は、極めて多様なゲノムと、感染型や重症度を共同で決定づける水平伝来の病原性因子あるいは宿主適応度因子の恩恵を受けている。これらの「病原性」因子は、環境下での生存をも左右し得る。本稿では、莢膜、シデロフォア、カーリ、およびVI型分泌系を含む、日和見病原体の代表的な宿主適応度因子が環境において果たす役割に関する現在の知見を概説する。これらの系は主に、宿主内での防御、栄養獲得、および微生物間競争における役割で知られているが、環境下での生存にも多大な寄与を果たすことがある。これらの役割を解明することで、これらの因子が宿主内でどのように機能し得るかについて新たな視点が得られ、細菌性病原体を形作る進化的要因の理解に寄与するであろう。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "im",
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007359",
+    "title": "Genome-based reclassification of Streptosporangium sandarakinum Kämpfer et al. 2013 as a later heterotypic synonym of Streptosporangium nondiastaticum Nonomura and Ohara 1969 (Approved Lists 1980).",
+    "abstract": "A comparison of 16S rRNA gene sequences between Streptosporangium sandarakinum GW-12028T and Streptosporangium nondiastaticum IFO 13990T revealed a sequence similarity of 98.8%. The genus Streptosporangium includes 33 species with validly published names. The type strains S. sandarakinum GW-12028T (=DSM 45763T=LMG 27062T) and S. nondiastaticum IFO 13990T (=ATCC 27101T=DSM 43848T=JCM 3114T=KCTC 9434T=NBRC 13990T=VKM Ac-1299T) were both isolated from soil. Whole-genome data were used to clarify the taxonomic assignment of these two closely related Streptosporangium species. Overall genomic relatedness index analyses indicated that S. sandarakinum GW-12028T and S. nondiastaticum IFO 13990T shared average nucleotide identity and digital DNA-DNA hybridization values >95% and >70%, respectively, exceeding the thresholds for bacterial species delineation. Additionally, S. sandarakinum GW-12028T and S. nondiastaticum IFO 13990T displayed near-identical phenotypic and chemotaxonomic profiles. Based on the 16S rRNA gene phylogenetic tree and the core-genome phylogenomic trees, S. sandarakinum GW-12028T and S. nondiastaticum IFO 13990T phylogenetically form a separate, tight cluster apart from other Streptosporangium species. Based on this combined evidence, S. sandarakinum Kämpfer et al. 2013 is proposed as a later heterotypic synonym of S. nondiastaticum Nonomura and Ohara 1969.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007359",
+    "date": "2026-11-01",
+    "authors": "Cruz A, McLaughlin RW, Elshahed MS, Lawson PA, Miller SL.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43019002",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43019002",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 192,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1099/ijsem.0.007359"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d5ba59516205ef2df6dd5f123cdc3f38645c9b80628155066dd87170fa420e93",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:01:54.314727+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "606102b7a00f7987c5ca772e2f9f1adb01ebe2fabebd185ff62df8d3e6357165",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:01:54.314727+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Streptosporangium sandarakinum Kämpfer et al. 2013をStreptosporangium nondiastaticum Nonomura and Ohara 1969の後代の異型同物異名としてゲノムに基づき再分類する（Approved Lists 1980）。",
+    "abstract_ja": "Streptosporangium sandarakinum GW-12028TとStreptosporangium nondiastaticum IFO 13990Tの16S rRNA遺伝子配列を比較した結果、98.8%の配列類似性が認められた。Streptosporangium属には、有効に公表された名称を持つ33種が含まれる。タイプ株であるS. sandarakinum GW-12028T（=DSM 45763T=LMG 27062T）およびS. nondiastaticum IFO 13990T（=ATCC 27101T=DSM 43848T=JCM 3114T=KCTC 9434T=NBRC 13990T=VKM Ac-1299T）は、いずれも土壌から分離された。全ゲノムデータを用いて、これら近縁な2種のStreptosporangium属菌の分類学的帰属を明らかにした。全体的なゲノム関連性指数解析の結果、S. sandarakinum GW-12028TとS. nondiastaticum IFO 13990Tは、平均ヌクレオチド同一性およびデジタルDNA-DNAハイブリダイゼーション値がそれぞれ95%超および70%超であり、細菌種の画定閾値を上回っていた。さらに、S. sandarakinum GW-12028TとS. nondiastaticum IFO 13990Tは、ほぼ同一の表現型および化学分類学的プロファイルを示した。16S rRNA遺伝子系統樹およびコアゲノム系統樹に基づくと、S. sandarakinum GW-12028TとS. nondiastaticum IFO 13990Tは、系統的に他のStreptosporangium属菌とは異なる独立した緊密なクラスターを形成している。これらの総合的な根拠に基づき、S. sandarakinum Kämpfer et al. 2013を、S. nondiastaticum Nonomura and Ohara 1969の後代の異型同物異名として提案する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118082",
+    "title": "Gut microbiota composition of India's Baiga tribe: Insights from an indigenous particularly vulnerable tribal group.",
+    "abstract": "The transition from traditional foraging lifestyles to modernized urban environments is associated with reduced human gut microbiome diversity. To examine this shift within the Indian subcontinent, we used shotgun metagenomics to compare the gut microbiota of 50 adults: 25 from the indigenous, foraging, and particularly vulnerable Baiga tribe and 25 from an urban population in Bhopal, Central India. The Baiga maintained a diverse ecosystem enriched with fiber-degrading bacteria such as Roseburia and Faecalibacterium, forming networks suited to complex carbohydrate fermentation. The urban microbiome showed lower phylogenetic diversity and evenness, with higher relative abundance of Prevotella copri and dairy-adapted taxa. Functionally, the tribal gut retained pathways for environmental sensing and complex plant metabolism, whereas the urban gut was enriched in pathways associated with potential inflammation. These findings identify the Baiga as a reservoir of preserved human microbial diversity relevant to metabolic health.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118082",
+    "date": "2026-10-31",
+    "authors": "Kallapura G, Prakash AS, Prasad R, Josphine I, Maurya M, Dhar D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001270",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001270",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 202,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1016/j.isci.2026.118082"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4992f61e6fa1781d49ee6e3801ed01b3df41c63396d981f4fa43031ecbc15fd7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:01:54.314727+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "df144c838cc49e994267973f948ac6dd2058dc36b789e4ddd9068ba032408372",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:01:54.314727+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インド・バイガ族の腸内細菌叢組成：特に脆弱な先住民族集団から得られた知見",
+    "abstract_ja": "伝統的な採集生活から近代化された都市環境への移行は、ヒト腸内マイクロバイオームの多様性の低下と関連している。インド亜大陸におけるこの変化を検証するため、我々はショットガンメタゲノミクスを用いて、成人50名（先住民族で採集生活を送り、特に脆弱な立場にあるバイガ族25名と、インド中部ボーパールの都市住民25名）の腸内細菌叢を比較した。バイガ族は、RoseburiaやFaecalibacteriumなどの食物繊維分解菌に富んだ多様な生態系を維持しており、複雑な炭水化物発酵に適したネットワークを形成していた。一方、都市のマイクロバイオームは系統的多様性と均一性が低く、Prevotella copriや乳製品適応型分類群の相対存在量が高かった。機能的には、部族の腸内には環境感知や複雑な植物代謝の経路が保持されていたのに対し、都市の腸内では潜在的な炎症に関連する経路が豊富であった。これらの知見は、バイガ族が代謝健康に関連するヒト微生物多様性が保存されたリザーバーであることを明らかにしている。"
   }
 ]
