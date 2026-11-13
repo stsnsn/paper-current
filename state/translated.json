@@ -181001,5 +181001,302 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "水平遺伝子伝達により細菌から獲得されたパラログ型グアニンデアミナーゼは、カエノラブディティス・エレガンスにおけるプリン恒常性を促進する。",
     "abstract_ja": "Sushila Bhattacharya, Lisa Fischer, Evrim Fer, Jennifer Snoozy, Grace N. Hagedorn, Marco Herde, Betül Kaçar, Claus-Peter Witte, Kurt Warnhoff 著\n\nプリン代謝の障害は、レッシュ・ナイハン症候群やキサンチン尿症などの稀な遺伝性疾患から、痛風やがんを含む一般的な疾患に至るまで、ヒトのさまざまな疾患の一因となっている。プリン恒常性を調節する代謝ネットワークをより深く理解するため、我々はキサンチン脱水素酵素（xdh-1）欠損のC. elegansモデルを作製した。驚くべきことに、xdh-1変異体動物は稀なキサンチン結石を形成し、ヒトのキサンチン尿症の特徴的な所見を再現した。プリン恒常性の遺伝的調節因子を明らかにするため、我々はxdh-1変異体においてキサンチン結石形成を増悪させる変異の順方向遺伝学的スクリーニングを行った。この手法により、これまで特性解析されていなかった遺伝子に複数の機能喪失アレルが同定され、我々はこれをgda-1と命名した。我々は、gda-1がプリン異化の重要な酵素的段階を媒介する腸管グアニン脱アミノ酵素をコードしていることを示す。C. elegansのゲノムには、グアニン脱アミノ酵素活性を共有しながらも異なる組織で発現するパラログであるgda-2も存在する。gda-2はグアニン代謝におけるgda-1の欠損を補完できるが、これら2つの遺伝子はキサンチン蓄積および結石形成の調節において非冗長的な役割を担っている。興味深いことに、我々の進化解析は、gda-2が細菌からの水平遺伝子伝達によって線虫に獲得されたことを示唆している。これらの知見は、C. elegansにおいて空間的に調節されたプリン異化経路が存在することを明らかにし、細菌遺伝子の獲得が線虫の中核的な代謝ネットワークを形成したことを示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1999785",
+    "title": "RIG-I–MAVS–IFN–NOXA axis coordinates antiviral innate response and apoptosis during parahenipavirus infection",
+    "abstract": "Gamak virus (GAKV) is a recently identified shrew-borne paramyxovirus belonging to the genus Parahenipavirus, which also includes the zoonotic Langya virus (LayV). Despite the growing recognition of shrew-associated paramyxoviruses, the host pathways that detect infection and regulate antiviral responses remain poorly understood. In this study, we characterized host responses to GAKV infection using integrated in vitro and in vivo approaches. GAKV infection induced robust innate immune responses in A549 cells, characterized by activation of interferon regulatory factor 3 (IRF3) and signal transducer and activator of transcription 1 (STAT1), together with induction of type I interferon (IFN) and interferon-stimulated genes (ISGs). Transcriptomic analysis further revealed coordinated enrichment of antiviral and intrinsic apoptosis-associated pathways, suggesting a link between innate immune signaling and apoptosis during GAKV infection. Genetic analyses identified retinoic acid-inducible gene I (RIG-I) and mitochondrial antiviral signaling protein (MAVS) as essential mediators of antiviral signaling and apoptosis during GAKV infection. Furthermore, disruption of type I IFN-STAT1 signaling attenuated apoptosis. NOXA knockdown reduced apoptosis and enhanced viral replication. Consistent with these in vitro findings, intranasal GAKV inoculation in six-week-old female immunocompetent BALB/c mice was associated with viral RNA detection in lungs and induction of antiviral responses without overt disease. Together, these findings identify a RIG-I–MAVS–IFN–NOXA signaling axis that integrates antiviral and apoptotic responses during GAKV infection, providing a mechanistic framework for understanding host defense against parahenipaviruses.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1999785",
+    "date": "2026-11-13",
+    "authors": "Won-Keun Kim",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1999785",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4373,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1999785"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a102cdae0c0268e07fa491728f24ac75304ed18c64c7648fa6c21e95d22a1248",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:52:38.622614+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ab55e8f03671c740fe59fbc86f59b229bf095694423756b5dc2c99adadb2fc3b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:52:38.622614+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RIG-I–MAVS–IFN–NOXA軸はパラヘニパウイルス感染時の抗ウイルス自然応答とアポトーシスを制御する",
+    "abstract_ja": "ガマクウイルス（GAKV）は、パラヘニパウイルス属に属する、近年同定されたトガリネズミ媒介性パラミクソウイルスであり、同属には人獣共通感染症であるランヤウイルス（LayV）も含まれる。トガリネズミ関連パラミクソウイルスの認識は高まりつつあるものの、感染を検出し抗ウイルス応答を調節する宿主経路については、依然として十分に解明されていない。本研究では、統合的なin vitroおよびin vivoアプローチを用いて、GAKV感染に対する宿主応答を特性評価した。GAKV感染はA549細胞において強固な自然免疫応答を誘導し、それはインターフェロン調節因子3（IRF3）およびシグナル伝達・転写活性化因子1（STAT1）の活性化、ならびにI型インターフェロン（IFN）およびインターフェロン刺激遺伝子（ISGs）の誘導によって特徴づけられた。トランスクリプトーム解析により、抗ウイルス経路と内因性アポトーシス関連経路の協調的な濃縮がさらに明らかになり、GAKV感染における自然免疫シグナル伝達とアポトーシスの関連性が示唆された。遺伝子解析により、レチノイン酸誘導性遺伝子I（RIG-I）およびミトコンドリア抗ウイルスシグナル伝達タンパク質（MAVS）が、GAKV感染時の抗ウイルスシグナル伝達およびアポトーシスの必須媒介因子として同定された。さらに、I型IFN-STAT1シグナル伝達の阻害はアポトーシスを減弱させた。NOXAのノックダウンはアポトーシスを減少させ、ウイルス複製を亢進させた。これらのin vitroでの知見と一致して、生後6週齢の免疫能を有する雌BALB/cマウスへのGAKV経鼻接種は、明らかな疾患を伴わずに、肺におけるウイルスRNAの検出および抗ウイルス応答の誘導に関連していた。以上の知見を総合すると、GAKV感染時に抗ウイルス応答とアポトーシス応答を統合するRIG-I–MAVS–IFN–NOXAシグナル軸が同定され、パラヘニパウイルスに対する宿主防御を理解するための機序的枠組みが提示された。"
+  },
+  {
+    "id": "10.1093/nar/gkag1138",
+    "title": "A RARγ–SMARCA5 chromatin-remodeling axis stabilizes AR luminal programs and opposes lineage plasticity in prostate cancer",
+    "abstract": "AbstractIn prostate cancer (PCa), epigenomic mechanisms drive resistance to androgen receptor (AR) signaling inhibitors, such as enzalutamide (enza). We tested whether retinoic acid receptor gamma (RARγ) shapes the epigenome to direct AR transcription, promote luminal identity, and limit enza resistance. RARγ restoration in enza-resistant 22Rv1 cells induced a large RARγ complex containing its coactivator TACC1 and the chromatin remodeler ISWI ATPase SMARCA5. RARγ restoration expanded and redistributed the AR cistrome toward active promoters, enhancers, and unique super-enhancers and increased the overlap with H3K27ac. RARγ restoration also increased SMARCA5 promoter-proximal binding that overlapped with G2/M-enriched AR cistrome, linking AR redistribution to cell cycle-associated chromatin engagement, including at luminal genes. In 22Rv1 and LNCaP C4-2 (also enza-resistant), RARγ restoration directed the AR transcriptome toward luminal differentiation. A miR-96 antagomir (targeting RARγ) mirrored the impact of RARγ restoration. RARγ antagonized the actions of the master lineage regulator ONECUT2 at the cistrome and transcriptome level and these antagonized genes were significantly associated with alternative lineages in murine PCa models of lineage plasticity and enza responsiveness and lineage plasticity in human PCa cohorts. These findings identify RARγ as a regulator of a chromatin remodeling mechanism that sustains luminal AR programs and opposes therapeutic resistance.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1138",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1138/9029964?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3296,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1138"
+    ],
+    "translation": {
+      "title": {
+        "hash": "09aa6b87238063c9e05bd4df4020eddc53a8f5d6fb310da591d33f272962494c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:52:38.622614+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bbdbde25b21999c80d8b0991c13a5c2bf67a6dc4abbd06c010b16d9d98a7c21e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:52:38.622614+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "希少なγ–SMARCA5クロマチンリモデリング軸が前立腺癌においてAR管腔プログラムを安定化させ、系譜可塑性を抑制する",
+    "abstract_ja": "要旨 前立腺癌（PCa）において、エピゲノム機構がエンザルタミド（enza）などのアンドロゲン受容体（AR）シグナル伝達阻害剤に対する耐性を駆動している。我々は、レチノイン酸受容体γ（RARγ）がエピゲノムを形成することで、AR転写を誘導し、管腔側アイデンティティを促進し、enza耐性を制限するかどうかを検証した。enza耐性22Rv1細胞においてRARγを復元すると、その共活性化因子TACC1およびクロマチンリモデル化因子ISWI ATPase SMARCA5を含む大規模なRARγ複合体が誘導された。RARγの復元により、ARシストロンが活性なプロモーター、エンハンサー、および特異的なスーパーエンハンサーへと拡大・再分配され、H3K27acとの重複が増加した。また、RARγの復元は、G2/M濃縮ARシストロンと重複するSMARCA5のプロモーター近傍結合を増加させ、ARの再分配を、管腔側遺伝子を含む細胞周期関連のクロマチン結合に結びつけた。22Rv1およびLNCaP C4-2（こちらもenza耐性）において、RARγの復元はARトランスクリプトームを管腔側分化へと誘導した。miR-96アンタゴミール（RARγを標的とするもの）は、RARγ復元の影響を再現した。RARγは、シストロンおよびトランスクリプトームレベルでマスター系統調節因子ONECUT2の作用に拮抗し、これらの拮抗遺伝子は、系統可塑性とenza応答性のマウスPCaモデル、およびヒトPCaコホートにおける系統可塑性において、代替系統と有意に関連していた。これらの知見は、RARγが管腔側ARプログラムを維持し、治療耐性に対抗するクロマチンリモデリング機構の調節因子であることを明らかにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1371/journal.pcbi.1014898",
+    "title": "From 16S rDNA-seq count data to microbial interactions: A comprehensive benchmark of co-occurrence network inference methods.",
+    "abstract": "The study of the ecological interactions within microbial communities is crucial for gaining deeper insights into community ensemble and evolution, enabling targeted modification of the community's functionality. Many inference approaches have been developed to derive ecological associations. Here, we focus on co-occurrence computational methods, in which associations are inferred from metagenomic abundance data by measuring the statistical dependence between species counts across different sampled populations. The limitations in culture-based experiments have hindered the ability to assess these methods' validity, leading to scarce application in metagenomics studies. To provide a comprehensive assessment of network inference method performance, we benchmark 18 different computational approaches across a broad spectrum of experimental scenarios. We use synthetic 16S rDNA-seq count data generated from known underlying interaction networks, enabling systematic and controlled evaluation. The benchmark spans scenarios varying in numbers of species and samples, sample richness, sequencing depth, and interaction network structure. We evaluated the performance of the methods both in terms of accuracy of the inferred network, using various metrics from binary classification theory and metrics coming from network science, and in terms of computational burden. We found that methods have valid results only in a restricted, and often unrealistic, field of application, whereas their effectiveness diminishes with more realistic simulation parameters. Our findings highlight the limits of the co-occurrence-based approach and the need for further development in microbial ecological association inference.",
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014898",
+    "date": "2026-10-29",
+    "authors": "Mariotto P, Baldan M, Di Camillo B, Baruzzo G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956103",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956103",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rdna",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1132,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pcbi.1014898"
+    ],
+    "translation": {
+      "title": {
+        "hash": "99db4ae9a4b8e8ff1b03c7a8be47f1e456074b2efe48a5a2a209a005235c3e66",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:52:38.622614+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dab5347af2387c8f82b8198774fe07aa8edc270b3aadf3c884cccba53bcbcc18",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:52:38.622614+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "16S rDNA-seqカウントデータから微生物間相互作用まで：共起ネットワーク推論手法の包括的ベンチマーク",
+    "abstract_ja": "微生物群集内における生態学的相互作用の研究は、群集のアンサンブル構造や進化に関するより深い知見を得る上で極めて重要であり、群集の機能を標的とした改変を可能にする。生態学的関連性を導出するために、多くの推論手法が開発されてきた。本研究では、異なるサンプリング集団間における種数の統計的依存性を測定することで、メタゲノムの存在量データから関連性を推論する共起計算手法に焦点を当てる。培養ベースの実験における限界が、これらの手法の妥当性を評価する妨げとなっており、メタゲノミクス研究への適用は限定的であった。ネットワーク推論手法の性能を包括的に評価するため、広範な実験シナリオにわたって18種類の異なる計算手法をベンチマークした。既知の基礎的相互作用ネットワークから生成した合成16S rDNA-seqカウントデータを用いることで、系統的かつ制御された評価を可能にした。このベンチマークは、種数やサンプル数、サンプルリッチネス、シーケンシング深度、および相互作用ネットワーク構造が異なるシナリオを網羅している。我々は、二値分類理論に基づく各種指標およびネットワーク科学由来の指標を用いた推論ネットワークの精度と、計算負荷の両面から手法の性能を評価した。その結果、これらの手法が妥当な結果を得られるのは、限定的かつしばしば非現実的な適用分野に限られており、より現実的なシミュレーションパラメータを用いるとその有効性が低下することが明らかになった。本研究の知見は、共起ベースのアプローチの限界と、微生物の生態学的関連性推論におけるさらなる発展の必要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1371/journal.pgen.1012337",
+    "title": "Distinct core minor pilin complexes prime specialized type IV filaments in cyanobacteria.",
+    "abstract": "The model cyanobacterium, Synechocystis sp. PCC 6803 encodes in addition to the major pilin of the Type IV pilus filament, an extensive, partially uncharacterized repertoire of minor pilins. For those cyanobacterial minor pilins that have been characterized, their roles span a surprisingly diverse range of functions. To elucidate the roles of uncharacterized minor pilins in a systematic way, we applied structural phylogenomics across 90 genomes, classifying cyanobacterial pilins into six conserved families that form two distinct putative core priming complexes. We demonstrate that these complexes initiate the assembly of two morphologically distinct Type IV pilus filaments: short, hyper-dynamic pili for natural competence, and long, adhesive pili for motility and phototaxis. Structural analysis revealed a conserved beta-solenoid domain in PilX subunits, which we propose fulfills the capping function of PilY1 homologs. Proteomic data indicate that the minor pilin PilX2 facilitates the assembly of motility pili, which is required to maintain DnaJ3 co-chaperone levels and trigger cAMP-dependent surface sensing. These findings challenge the concept of a single multipurpose pilus, establishing that cyanobacteria utilize a shared machinery to assemble two specialized filaments, each primed by distinct core minor pilin complexes to meet the conflicting biophysical requirements of DNA uptake and surface motility.",
+    "journal": "PLOS Genetics",
+    "doi": "10.1371/journal.pgen.1012337",
+    "date": "2026-10-26",
+    "authors": "Schuergers N, Wittig L, Enomoto G, Herz J, Sivabalasarma S, Ruoff K, Drepper F, Albers SV, Huesgen PF, Wilde A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42932370",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42932370",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria",
+        "cyanobacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 507,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pgen.1012337"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cc6da1300eaf8d9a8df8c5eb7cedddfabdbfec0bfc260468d1ed15f35bec558d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:52:38.622614+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ac6a6b890a081741cca18cdc38b7aba773c70c56365e23666fea9bc7c439aef7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:52:38.622614+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シアノバクテリアにおいて、特徴的なコアマイナーピリン複合体が特殊化したタイプIVフィラメントをプライミングする。",
+    "abstract_ja": "モデルシアノバクテリアであるSynechocystis sp. PCC 6803は、タイプIVピルスフィラメントの主要なピリンに加え、広範かつ部分的に未解明なマイナーピリンのレパートリーをコードしている。特性解析済みのシアノバクテリア・マイナーピリンの役割は、驚くほど多様な機能にわたっている。未解明のマイナーピリンの役割を体系的に解明するため、我々は90のゲノムにわたって構造ゲノミクスを適用し、シアノバクテリアのピリンを、2つの異なる推定コアプライミング複合体を形成する6つの保存ファミリーに分類した。我々は、これらの複合体が、形態的に異なる2種類のタイプIVピルスフィラメント、すなわち自然コンピテンスのための短く超動的なピリンと、運動性および走光性のための長く接着性のピリンの組み立てを開始することを実証した。構造解析により、PilXサブユニットに保存されたβ-ソレノイドドメインが明らかになり、これがPilY1ホモログのキャッピング機能を担っていることを提唱する。プロテオームデータは、マイナーピリンPilX2が運動性ピリンの組み立てを促進することを示しており、これはDnaJ3コシャペロンレベルの維持およびcAMP依存的な表面センシングの誘発に必要である。これらの知見は、単一の多目的ピルスという概念に疑問を投げかけるものであり、シアノバクテリアが共通の機構を利用して2つの特化したフィラメントを組み立て、それぞれを異なるコアマイナーピリン複合体によってプライミングすることで、DNA取り込みと表面運動性という相反する生物物理学的要求を満たしていることを明らかにしている。"
   }
 ]
