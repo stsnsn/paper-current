@@ -182498,5 +182498,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "タラ類は、淡水の排卵経路を海洋での卵の水和に機能的に転用することで、必須遺伝子の喪失を乗り切った。",
     "abstract_ja": "不要な遺伝子の喪失に伴う適応進化は、動物界に広く見られる。しかし、胚の生存に不可欠な遺伝子の喪失や、負の選択と絶滅を回避するために進化した機構については、あまり知られていない。本研究では、生態学的に優占的なタラ目の全種が、海洋環境における海洋性真骨魚類の水和した外洋性卵の形成と胚の生存に不可欠なaqp1ab型遺伝子を喪失したことを示す。このような遺伝子喪失にもかかわらず、タラ類はすべての海洋性真骨魚類の中でも、極めて水和度の高い外洋性卵を産む。この一見矛盾する現象を解明するため、我々はまず、浸透圧駆動機構が他の外洋性卵を産む海洋性真骨魚類においても保存されていることを確認し、次いで、遠縁の淡水性および海洋性真骨魚類におけるアクアポリン水チャネルの比較トランスクリプト解析を行った。これにより、顎を持つ脊椎動物のゲノムにおいて4億5,000万年以上にわたりAqp1型チャネルと染色体的に連鎖してきたAqp4型チャネルが、主要な候補として明らかになった。免疫局在法、機能アッセイ、およびゼブラフィッシュと大西洋タラをモデル生物とした阻害実験を用いて、淡水性真骨魚類のより祖先的な系統ではAqp4の短鎖アイソフォームが卵の排卵に必要であり、それがタラ類の卵母細胞水和経路へと取り込まれたことを示す。対照的に、外洋性卵を産む海洋性真骨魚類の最古かつ最新の系統では、依然として卵の水和にaqp1ab遺伝子を利用している。以上のデータは、タラ類が淡水性の排卵経路を海洋性の卵水和へと機能的に転用することで、不可欠な遺伝子の喪失を生き延びたことを明らかにしている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1148",
+    "title": "iCellOmics: connecting multi-omics profiles and phenotype evidence across industrially relevant cell lines",
+    "abstract": "AbstractIndustrially relevant cell lines include direct production hosts for biologics, vaccines, and viral vectors, as well as biomedical models that serve as references for host-cell engineering and comparative studies. However, their genomic, transcriptomic, and epigenomic profiles, together with literature-derived phenotype information, remain distributed across different repositories, project outputs, and publications. Here, we present iCellOmics (https://ngdc.cncb.ac.cn/icellomics), an open-access database that integrates multi-omics data for industrially relevant cell lines within a unified data and analysis framework. The current release covers 17 cell lines and provides reference genomes for seven species, encompassing 144 018 protein-coding genes, 170 408 888 genomic variants, 673 differential-expression comparisons, 30 distinct single-cell RNA-seq BioProjects comprising 1 047 274 cells, 287 089 415 ATAC-seq peaks, 37 213 deduplicated literature-curated gene–phenotype relationships spanning 104 standardized phenotype subcategories. The database supports both cell line-centric browsing of available datasets and gene-centric exploration of cross-omics analysis results. Additionally, iCellOmics offers online GO and KEGG enrichment analysis tools to facilitate further data exploration. In summary, iCellOmics provides a valuable starting point for investigating gene–phenotype relationships in industrially relevant cell lines and supports cell-line engineering and the development of improved producer lines.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1148",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1148/9026639?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2047,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1148"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9bccae4da7d26762c5fac67db64ef38e5b51d6d14d559218b169f57ad8f6308c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:09:13.607755+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa383c9951c42e10ff6c0839907b30c29e7b9a957da4a3b351430f5adb1c0632",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:09:13.607755+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "iCellOmics：産業的に意義のある細胞株におけるマルチオミクスプロファイルと表現型エビデンスの連携",
+    "abstract_ja": "要旨 産業的に重要な細胞株には、バイオ医薬品、ワクチン、ウイルスベクターの直接的な生産宿主のほか、宿主細胞工学や比較研究の参照となる生物医学モデルが含まれる。しかし、それらのゲノム、トランスクリプトーム、およびエピゲノムプロファイルは、文献由来の表現型情報とともに、依然として異なるリポジトリ、プロジェクト成果物、および論文に分散している。本報では、産業的に重要な細胞株のマルチオミクスデータを統一的なデータおよび解析フレームワークに統合したオープンアクセスデータベース、iCellOmics（https://ngdc.cncb.ac.cn/icellomics）を紹介する。今回のリリースでは17種類の細胞株を対象とし、7種のリファレンスゲノムを提供している。これらには、144,018個のタンパク質符号化遺伝子、170,408,888個のゲノム変異、673件の発現変動比較、1,047,274個の細胞からなる30の個別のシングルセルRNA-seq BioProjects、287,089,415個のATAC-seqピーク、および104の標準化された表現型サブカテゴリにわたる37,213件の重複を排除した文献キュレーション済みの遺伝子－表現型関係が含まれている。本データベースは、利用可能なデータセットの細胞株中心の閲覧と、クロスオミクス解析結果の遺伝子中心の探索の両方に対応している。さらに、iCellOmicsは、さらなるデータ探索を容易にするためのオンラインGOおよびKEGGエンリッチメント解析ツールを提供している。要約すると、iCellOmicsは、産業的に重要な細胞株における遺伝子－表現型関係を調査するための貴重な出発点となり、細胞株工学および改良型生産株の開発を支援するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0361987",
+    "title": "Uncovering the immune microenvironmental atlas of breast cancer molecular subtypes based on single-cell transcriptomics.",
+    "abstract": "Breast cancer progression is closely linked to immune cells within the tumor microenvironment (TME), but the immune landscape differences across HER2-positive (HER2+), triple-negative (TNBC), and ER-positive (ER+) subtypes have yet to be systematically characterized. In this study, we characterized immune landscape differences across HER2-positive (HER2+), triple-negative (TNBC), and ER-positive (ER+) breast cancers using single-cell RNA sequencing data, focusing on T cells, macrophages, and B cells. Our analysis revealed that cytotoxic CD8 + T cells were more abundant in TNBC but showed signs of dysfunction. Macrophage subsets, including an NDUFB8 + population, exhibited divergent functional orientations across subtypes. B cells in TNBC exhibited functional alterations, characterized by a decreased proportion of plasmablasts and an increased proportion of memory B cells. Single-cell regulatory network inference and clustering (SCENIC) analysis predicted a set of subtype-specific candidate transcription factors (TFs), including E2F8 across all subtypes and ATF7 in HER2 + tumors, whose activity correlated with clinical outcomes. Finally, mapping multicellular communication networks revealed both conserved and subtype-specific signaling pathways. Together, these results present a detailed transcriptional landscape of immune heterogeneity in breast cancer and contribute novel insights that may inform the design of subtype-specific immunotherapies.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0361987",
+    "date": "2026-11-06",
+    "authors": "Lin S, Zheng Y, Chen Z, Patrice MD, Wang L, Li X, Zhang Y, Zhang X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993740",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13742927",
+    "pmid": "42993740",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2315,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0361987"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f515e40d12c247e6ea6145e64c96962f50e0825f091c8e92a01697905bd753c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:09:13.607755+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c68148d78390ed0d40c2fb920235924973c1f7610e10983631744530b998f523",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:09:13.607755+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シングルセルトランスクリプトミクスに基づく乳がん分子サブタイプの免疫微小環境アトラスの解明",
+    "abstract_ja": "乳がんの進行は腫瘍微小環境（TME）内の免疫細胞と密接に関連しているが、HER2陽性（HER2+）、トリプルネガティブ（TNBC）、およびER陽性（ER+）サブタイプ間における免疫ランドスケープの差異については、いまだ系統的な解析が行われていない。本研究では、シングルセルRNAシーケンシングデータを用い、T細胞、マクロファージ、およびB細胞に着目して、HER2陽性（HER2+）、トリプルネガティブ（TNBC）、およびER陽性（ER+）乳がん間における免疫ランドスケープの差異を明らかにした。解析の結果、細胞傷害性CD8 + T細胞はTNBCにおいてより豊富に存在していたが、機能不全の兆候が認められた。NDUFB8 + 集団を含むマクロファージサブセットは、サブタイプ間で異なる機能的方向性を示した。TNBCのB細胞では機能的変化が認められ、形質芽細胞の割合の減少とメモリーB細胞の割合の増加が特徴であった。シングルセル調節ネットワーク推論およびクラスタリング（SCENIC）解析により、全サブタイプにおけるE2F8やHER2 + 腫瘍におけるATF7を含む、サブタイプ特異的な候補転写因子（TF）群が予測され、その活性は臨床転帰と相関していた。最後に、多細胞間コミュニケーションネットワークのマッピングにより、保存されたシグナル伝達経路とサブタイプ特異的なシグナル伝達経路の両方が明らかになった。以上の結果を総合すると、乳がんにおける免疫不均一性の詳細な転写ランドスケープが提示され、サブタイプ特異的な免疫療法の設計に資する新たな知見が得られる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2606479123",
+    "title": "Dynamic virulence decomposition disentangles host and pathogen contributions over the course of infection.",
+    "abstract": "Decomposing virulence into host and pathogen effects is key to understanding how virulence is generated during infection, and how host and pathogen contributions evolve over time. Conventional virulence decomposition is, however, not designed to quantify how these contributions vary throughout an infection. Building on conventional virulence decomposition, we developed a dynamic framework that integrates disease space analysis to quantify these changing contributions. We applied this framework to existing data from house finches (Haemorhous mexicanus) experimentally infected with the emerging bacterial pathogen, Mycoplasma gallisepticum, examining two biologically meaningful infection phases: an early phase dominated by innate immune responses and a later phase in which the adaptive immune response is fully activated. Our analyses revealed that virulence components evolved differently across infection phases, with pathogen exploitation, per-parasite-pathogenicity (PPP), and host resistance each exhibiting distinct trajectories. These findings corroborated several known evolutionary patterns, while also revealing the evolution of increased PPP in this system. In contrast, the apparent evolution of host tolerance inferred from aggregated peak measurements was not supported by phase-specific analyses, demonstrating that aggregated and phase-specific measures can provide different mechanistic insights into virulence. By linking conventional virulence decomposition with disease space analysis, our dynamic virulence decomposition framework provides a general approach for quantifying how host and pathogen processes shape virulence over the course of infection.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2606479123",
+    "date": "2026-11-04",
+    "authors": "Franz M, Bonneaud C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981034",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42981034",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2178,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2606479123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "20e8c658883c021f887f626aec0d96c6e31b8427ffb650e818a27659c4dd9acc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:09:13.607755+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5749ddf3ec071f449c916110b22cd8a90f48c9ddcf529c4458675c9da8588b12",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:09:13.607755+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "動的病原性分解により、感染過程における宿主と病原体の寄与が分離される。",
+    "abstract_ja": "病原性を宿主および病原体の影響に分解することは、感染過程において病原性がどのように生成されるか、また宿主と病原体の寄与が時間とともにどのように変化するかを理解する上で極めて重要である。しかし、従来の病原性分解法は、感染過程を通じてこれらの寄与がどのように変化するかを定量化するように設計されていない。我々は、従来の病原性分解法を基盤として、疾患空間解析を統合し、これらの変化する寄与を定量化する動的フレームワークを開発した。このフレームワークを、新興細菌性病原体Mycoplasma gallisepticumに実験的に感染させたイエフィンチ（Haemorhous mexicanus）の既存データに適用し、自然免疫応答が支配的な初期相と、獲得免疫応答が完全に活性化する後期相という、生物学的に意義のある2つの感染相を検討した。解析の結果、病原性成分は感染相ごとに異なる進化を遂げており、病原体の利用、寄生虫個体あたりの病原性（PPP）、および宿主抵抗性がそれぞれ異なる軌跡を示すことが明らかになった。これらの知見は、既知のいくつかの進化パターンを裏付けるとともに、本系におけるPPPの亢進の進化を明らかにした。対照的に、集約されたピーク測定値から推定された宿主耐性の見かけ上の進化は、相特異的な解析では支持されず、集約的な測定値と相特異的な測定値では、病原性に関する異なる機序的知見が得られ得ることが示された。従来の病原性分解法と疾患空間解析を連携させることで、我々の動的病原性分解フレームワークは、感染過程において宿主と病原体のプロセスがどのように病原性を形作るかを定量化するための汎用的なアプローチを提供する。"
+  },
+  {
+    "id": "10.1093/pnasnexus/pgag388",
+    "title": "Fish gut microbiota mediate pollutant-induced lipid toxicity via bidirectional biotransformation and dysbiosis",
+    "abstract": "AbstractThe gut microbiota acts simultaneously as a target of environmental pollutants and as a driver of their biotransformation, but how these two roles jointly determine host toxicity remains insufficiently defined. Using zebrafish as a One Health model, we show that dietary exposure to environmentally relevant levels of triphenyl phosphate (TPHP), an organophosphate flame retardant, causes intestinal lipid accumulation, barrier disruption, and PPAR pathway dysregulation. By combining antibiotic-treated zebrafish models, stable isotope-assisted metabolomics, and multiomics profiling, we found that the gut microbiota transforms TPHP through a bidirectional network. It reactivates host-derived glucuronidated metabolites via deconjugation and ferments TPHP carbon skeletons into small-molecule metabolites, including L-phenylalanine and N-acetyltyramine, that are integrated into host lipid and energy metabolism. The functional disruption of the microbiota abolishes these metabolite signals, supporting a key role of the gut microbiota in TPHP biotransformation. Metagenomics identifies specific bacterial taxa (such as Acinetobacter, Pseudomonas, and Aeromonas) and hydrolytic enzyme families responsible for these transformations. Our findings suggest that the gut microbiota functions beyond a passive target of pollutant exposure: it expands the metabolic fate of TPHP and generates pollutant-derived metabolic signals that intersect with host lipid homeostasis, collectively mediating the observed lipotoxicity through host–microbe interactions. This work provides a mechanistic framework for incorporating gut microbiome dynamics into chemical risk assessment under the One Health paradigm.",
+    "journal": "PNAS Nexus",
+    "doi": "10.1093/pnasnexus/pgag388",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgag388/9026984?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomics",
+        "microbe",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6448/advanceAccess_4114.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2134,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_6448/advanceAccess_4114.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/pnasnexus/pgag388"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f4c8391964a970b52309be0b9fceae8da5c7d93a7346d039157206917697a7ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:09:13.607755+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "933a005c5a2690e0e1ddde5c9693c90bc25e65112db05a2dff0ff9799bcd838f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:09:13.607755+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "魚類腸内細菌叢は双方向性の生体内変換とディスバイオーシスを介して汚染物質誘発性脂質毒性を媒介する",
+    "abstract_ja": "要旨 腸内細菌叢は、環境汚染物質の標的であると同時に、その生体内変換の駆動因子としても機能するが、これら2つの役割がいかにして共同して宿主毒性を決定づけるのかについては、いまだ十分に解明されていない。ゼブラフィッシュをOne Healthモデルとして用い、有機リン系難燃剤であるトリフェニルリン酸（TPHP）に環境中濃度レベルで曝露すると、腸管における脂質蓄積、バリア機能の破綻、およびPPAR経路の調節不全が引き起こされることを示す。抗生物質投与ゼブラフィッシュモデル、安定同位体を用いたメタボロミクス、およびマルチオミクスプロファイリングを組み合わせることで、腸内細菌叢が双方向ネットワークを介してTPHPを変換することを見出した。腸内細菌叢は、脱共役反応を通じて宿主由来のグルクロニド化代謝物を再活性化し、TPHPの炭素骨格をL-フェニルアラニンやN-アセチルチラミンを含む低分子代謝物へと発酵させ、これらを宿主の脂質およびエネルギー代謝に組み込む。細菌叢の機能破綻はこれらの代謝物シグナルを消失させ、TPHPの生体内変換における腸内細菌叢の重要な役割を裏付ける。メタゲノミクスにより、これらの変換を担う特定の細菌分類群（Acinetobacter、Pseudomonas、Aeromonasなど）および加水分解酵素ファミリーが同定された。我々の知見は、腸内細菌叢が単に汚染物質曝露の受動的な標的となるだけでなく、TPHPの代謝運命を拡大させ、宿主の脂質恒常性と交差する汚染物質由来の代謝シグナルを生成し、宿主と微生物の相互作用を通じて観察される脂質毒性を共同的に媒介することを示唆している。本研究は、One Healthパラダイムの下で、化学的リスク評価に腸内細菌叢の動態を組み込むための機序的枠組みを提供するものである。"
   }
 ]
