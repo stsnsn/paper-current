@@ -179242,5 +179242,286 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "出芽酵母におけるカルシウムストレス応答時のCmk2pの翻訳後修飾残基の変異と定常状態のタンパク質発現におけるその機能",
     "abstract_ja": "要旨ヒトCaMKIIの酵母ホモログであるCmk2pは、酵母におけるカルシウムシグナル伝達の負の調節因子として機能する。Cmk2pには15箇所の翻訳後修飾部位が存在し、そのうち14箇所がリン酸化残基、1箇所がユビキチン化残基である。ユビキチン化残基K173の変異は、カルシウムストレスとは独立して、定常状態レベルに逆方向の影響を及ぼす。2箇所のリン酸化部位Y353またはS354の変異は、緩徐移行型Cmk2（SM-Cmk2）のカルシウム誘導性発現を阻害し、速移行型Cmk2（FM-Cmk2）のカルシウム誘導性発現を低下させる。CaMKIIの会合ドメインに相当するC末端領域にある4箇所のリン酸化部位（S367、S403、S443またはT436）の変異は、カルシウムストレスとは独立してその発現レベルに影響を与えない。しかし、この領域のS433の変異は、FM-Cmk2のカルシウム誘導性発現レベルを低下させた。さらに、2箇所の残基S371またはS379の変異はSM-Cmk2のカルシウム誘導性発現を阻害し、一方でS406の変異は、カルシウムストレスとは独立してSM-Cmk2およびFM-Cmk2の両レベルを低下させる。対照的に、S445の変異はSM-Cmk2およびFM-Cmk2の両分子のカルシウム誘導性発現を阻害し、カルシウムストレスとは独立してFM-Cmk2のレベルを低下させる。したがって、C末端領域の異なる部位のリン酸化は、カルシウムストレスに応じて、著しく異なる様式でCmk2pの安定性に関与している可能性がある。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag823",
+    "title": "ROOF: Robustness-Oriented Optimal Factorization for Fluorescence Crosstalk Correction",
+    "abstract": "AbstractMotivationFluorescence bleed-through (spectral crosstalk) compromises the accuracy of signal interpretation, quantification, and visualization in multi-band fluorescence microscopy. Existing correction methods rely either on experimental calibration or blind spectral unmixing, but often suffer from limited robustness to biological variability, overcorrection artifacts, or the need for manual parameter tuning. We propose ROOF (Robustness-Oriented Optimal Factorization), a semi-blind framework that unifies calibration-based modeling with data-driven spectral unmixing. It formulates crosstalk correction as a diagonally normalized nonnegative matrix factorization problem regularized by a reference crosstalk matrix obtained from single-labeled control samples. The regularization parameter is estimated automatically via maximum likelihood, eliminating manual tuning while adapting to specimen-specific variations.ResultsExperiments on synthetic and real four-band fluorescence images demonstrate that ROOF consistently outperforms state-of-the-art crosstalk correction methods. ROOF achieves higher correction accuracy, suppresses overcorrection artifacts, preserves biologically meaningful fluorescence colocalization, and is computationally efficient. These results highlight ROOF’s robustness, efficiency, and practical value for reliable quantitative fluorescence imaging.Availability and implementationThe codes are available at https://github.com/baobabking/ROOF with DOI:10.5281/zenodo.21872937.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag823",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag823/9040885?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4366,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/bioinformatics/btag823"
+    ],
+    "translation": {
+      "title": {
+        "hash": "51644fd1d7e9afdd5f7bc0d8027f7f7b2cce0f206376b5036e0bfd3a03f7ea94",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:32:18.731412+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1de230b7d25d40174cc961e915b898580b5225099335ff7ae8b2f49f5164ed75",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:32:18.731412+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ROOF: 蛍光クロストーク補正のためのロバスト性重視の最適因子分解",
+    "abstract_ja": "要旨動機蛍光のブリードスルー（スペクトルクロストーク）は、マルチバンド蛍光顕微鏡法における信号の解釈、定量化、および可視化の精度を損なう。既存の補正手法は、実験的なキャリブレーションまたはブラインド型スペクトルアンミキシングのいずれかに依存しているが、生物学的変動に対する頑健性の低さ、過剰補正アーティファクト、あるいは手動によるパラメータ調整の必要性といった課題を抱えていることが多い。本研究では、キャリブレーションに基づくモデリングとデータ駆動型のスペクトルアンミキシングを統合したセミブラインドフレームワークであるROOF（Robustness-Oriented Optimal Factorization）を提案する。本手法では、クロストーク補正を、単一ラベルの対照サンプルから得られた参照クロストーク行列によって正則化された、対角正規化非負行列因子分解問題として定式化する。正則化パラメータは最尤法により自動的に推定され、手動調整を不要にするとともに、試料固有の変動への適応を可能にする。結果合成および実際の4バンド蛍光画像を用いた実験により、ROOFが最先端のクロストーク補正手法を一貫して上回ることが実証された。ROOFはより高い補正精度を実現し、過剰補正アーティファクトを抑制し、生物学的に意味のある蛍光共局在を保持するとともに、計算効率にも優れている。これらの結果は、信頼性の高い定量的蛍光イメージングにおけるROOFの頑健性、効率性、および実用的価値を浮き彫りにしている。利用可能性と実装コードは https://github.com/baobabking/ROOF（DOI:10.5281/zenodo.21872937）で公開されている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1955136",
+    "title": "The role of nitrogen and phosphorus limitation in controlling cellular saxitoxin quotas in the harmful cyanobacteria, Dolichospermum and Aphanizomenon",
+    "abstract": "Toxin production by cyanobacteria that cause harmful algal blooms (CyanoHABs) can be influenced by nitrogen (N) and phosphorus (P), yet little is known regarding how the macronutrient balance affects their saxitoxin (STX) content. Here, we report on the influence of N and P limitation on cellular STX quotas of multiple strains of the freshwater cyanobacteria, Dolichospermum circinale and Aphanizomenon gracile. Strains were grown semi-continuously and exposed to different concentrations of N and P after which growth rates, photosynthetic efficiency, N2 fixation rates, alkaline phosphatase activity (APA), and STX cell quotas were quantified. Despite diazotrophic capabilities, growth rates of the cyanobacteria could be limited by low levels of N or P. For all strains, low P conditions (0–1 μM orthophosphate; 0–31 μg L−1) led to significant and up to five-fold increase in STX quotas and APA, indicating that P limitation within this range of P concentrations increased cellular STX quotas. N2 fixation rates were also significantly reduced by P limitation. There were differential responses to P limitation across strains, with D. circinale strain ACMB05 exhibiting greater reductions in growth rate and photosynthetic efficiency at low P, whereas growth rates of D. circinale strain ACBU02 and A. gracile changed less despite increased STX quotas and APA. Low P conditions increased the abundance of the saxitoxin congeners GTX2, STX, and dcGTX2, which are among the more potent congeners, thereby further enhancing total toxicity of cells under low P conditions. This study demonstrates that, although N or P availability can constrain the growth of these diazotrophic cyanobacteria, P limitation consistently increased their cellular STX quotas. While mitigation of P may restrict CyanoHABs proliferation, this study identifies a potential trade-off between bloom biomass and cellular toxicity under low P conditions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1955136",
+    "date": "2026-11-13",
+    "authors": "Christopher J. Gobler",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1955136",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4367,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1955136"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b759bac8ec5420817661bee061ce983560e400c6e1a9873555880552068314d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:32:18.731412+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "75b9eb6de7a9535ce71324a17b11934d5ec82fd7772dcbcb227cdb125ecb84d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:32:18.731412+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "有害シアノバクテリア Dolichospermum および Aphanizomenon における細胞内サキシトキシン割当量制御に果たす窒素・リン制限の役割",
+    "abstract_ja": "有害藻類ブルームを引き起こすシアノバクテリア（CyanoHABs）による毒素産生は、窒素（N）およびリン（P）の影響を受けるが、多量要素のバランスがそれらのサキシトキシン（STX）含有量にどのように影響するかについてはほとんど解明されていない。本研究では、淡水シアノバクテリアであるDolichospermum circinaleおよびAphanizomenon gracileの複数株における、細胞内STXクォータに対するNおよびP制限の影響について報告する。各株を半連続的に培養し、異なる濃度のNおよびPに曝露させた後、増殖速度、光合成効率、N2固定速度、アルカリホスファターゼ活性（APA）、および細胞内STXクォータを定量した。ジアゾ栄養能を有するにもかかわらず、これらのシアノバクテリアの増殖速度は、低レベルのNまたはPによって制限される可能性があった。すべての株において、低P条件（0–1 μM 正リン酸；0–31 μg L−1）では、STXクォータおよびAPAが有意に、かつ最大5倍まで増加し、本P濃度範囲におけるP制限が細胞内STXクォータを増加させることが示された。N2固定速度もP制限によって有意に低下した。P制限に対する応答は株間で異なり、D. circinale株ACMB05では低P条件下で増殖速度と光合成効率の低下がより顕著であった一方、D. circinale株ACBU02およびA. gracileでは、STXクォータおよびAPAが増加したにもかかわらず、増殖速度の変化は少なかった。低P条件下では、より強力な同族体であるサキシトキシン同族体GTX2、STX、およびdcGTX2の存在量が増加し、これにより低P条件下における細胞の総毒性がさらに増強された。本研究は、NまたはPの利用可能性がこれらのジアゾ栄養性シアノバクテリアの増殖を制約し得る一方で、P制限が一貫して細胞内STXクォータを増加させることを示した。Pの緩和はCyanoHABsの増殖を制限する可能性があるが、本研究は、低P条件下におけるブルームバイオマスと細胞毒性との間の潜在的なトレードオフを明らかにした。"
+  },
+  {
+    "id": "10.1186/s13059-026-04332-3",
+    "title": "Structure-guided engineering of eukaryotic Fanzor-ωRNA system enhances in vivo gene editing for dystrophin restoration in a Duchenne mouse model",
+    "abstract": "Background\n                     Eukaryotic Fanzor (Fz) proteins are compact RNA-guided endonucleases homologous to prokaryotic TnpB/Cas12, offering theoretical advantages for single AAV delivery. However, their low editing efficiency and poorly defined specificity in mammals have hindered therapeutic development.\n                  \n                     Results\n                     Here, we perform structure-guided engineering of Spizellomyces punctatus Fanzor1 nuclease (SpuFz1) to enhance its utility for in vivo genome editing and identify several Fanzor variants whose efficiencies are comparable or only slightly lower than widely-used miniature enAsCas12f1 and large-sized SpCas9. We demonstrate that catalytically dead dSpuFz1-v4.2 can be repurposed for CRISPRa-mediated transcriptional activation in a proof-of-concept manner. Genome-wide PEM-seq in mice reveal low translocation frequencies (below 0.05%, much lower than the background threshold set by the PEM-seq protocol), with no detected events attributable to off-target editing. GUIDE-seq analysis also confirms genome-wide low off-target profile for SpuFz1-v4.2 in human cells, with small amounts of off-target editing due to 3’ terminal sequence tolerability. Embryonic mRNA injection efficiently generates mutant mice. Crucially, single AAV9 delivery of SpuFz1-v4.2 in a humanized Duchenne muscular dystrophy model induces targeted exon skipping, restores dystrophin expression to ~ 10% of wild-type levels, and improves muscle contractile force.\n                  \n                     Conclusions\n                     Structure-guided optimization overcomes the activity barrier of eukaryotic Fanzors while maintaining low off-target effect. The engineered SpuFz1-v4.2 retains the hypercompact size necessary for single AAV packaging, establishing a robust platform for in vivo gene editing. This work positions Fanzor by a preliminary proof-of-concept therapeutic study as a viable, miniature alternative to CRISPR-Cas systems for genetic disease intervention and functional genomics.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04332-3",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04332-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4375,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1186/s13059-026-04332-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a47e564e29ba992cabebc1c499bb221a24b6ea83b682237f1c0261b538a11a53",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:32:18.731412+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74794b13bf075537cc41f96156152b4e3cc61b663a2ace4d87308725d6918011",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:32:18.731412+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真核生物Fanzor-ωRNAシステムの構造ガイド型工学により、デュシェンヌ型マウスモデルにおけるジストロフィン修復のためのin vivo遺伝子編集が向上する",
+    "abstract_ja": "背景\n                     真核生物のFanzor (Fz) タンパク質は、原核生物のTnpB/Cas12に相同なコンパクトなRNA誘導型エンドヌクレアーゼであり、単一AAV送達において理論的な優位性を有する。しかし、哺乳類における編集効率の低さと特異性の不明確さが、治療開発の妨げとなってきた。\n                  \n                     結果\n                     本研究では、Spizellomyces punctatus Fanzor1ヌクレアーゼ (SpuFz1) の構造ガイド型エンジニアリングを行い、in vivoゲノム編集への有用性を高めるとともに、広く用いられている小型のenAsCas12f1や大型のSpCas9と同等、あるいはわずかに低い効率しか持たない複数のFanzorバリアントを同定した。我々は、触媒活性を失ったdSpuFz1-v4.2を、概念実証（proof-of-concept）の手法でCRISPRa介在性の転写活性化に転用可能であることを実証した。マウスを用いたゲノムワイドPEM-seq解析により、トランスロケーション頻度が低く（0.05%未満であり、PEM-seqプロトコルで設定されたバックグラウンド閾値を大幅に下回る）、オフターゲット編集に起因する事象は検出されなかった。GUIDE-seq解析においても、ヒト細胞におけるSpuFz1-v4.2のゲノムワイドなオフターゲットプロファイルが低いことが確認され、3'末端配列の許容性に起因する少量のオフターゲット編集が認められた。胚へのmRNA注入により、変異マウスを効率的に作製できた。極めて重要な点として、ヒト化デュシェンヌ型筋ジストロフィーモデルにおいてSpuFz1-v4.2を単一AAV9で送達したところ、標的エクソンのスキップが誘導され、ジストロフィン発現が野生型レベルの約10%まで回復し、筋収縮力が向上した。\n                  \n                     結論\n                     構造ガイド型最適化は、オフターゲット効果を低く抑えつつ、真核生物Fanzorの活性障壁を克服する。エンジニアリングされたSpuFz1-v4.2は、単一AAVパッケージングに必要な超コンパクトなサイズを維持しており、in vivo遺伝子編集のための堅牢なプラットフォームを確立する。本研究は、予備的な概念実証治療研究により、遺伝性疾患の介入および機能ゲノミクスにおいて、FanzorがCRISPR-Casシステムに代わる実用的な小型の選択肢となることを示した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/gbe/evag275",
+    "title": "Conserved and taxon-restricted orthogroup expansions of pan-eukaryotic protein complexes.",
+    "abstract": "Protein complexes are central to cell biology and typically verified via a combination of interaction data, complete genome sequencing and comprehensive protein-coding gene predictions for reference eukaryotes. However, this information is lacking for non-reference eukaryotes. Protein complexes can be predicted in species for which no interaction data is available by mapping orthology of verified protein complex components from reference eukaryotes to predicted proteomes. Studies that map conservation of protein complex components by orthology are often limited to a small number of protein queries, an under-representation of non-reference, microbial eukaryotes and are scattered across the literature. Here, I integrate orthology and protein interaction data by mapping proteins of experimentally verified complexes to orthogroups of proteins spanning 31 diverse eukaryotes. Proteins within complex-harbouring orthogroups are retained and distributed more evenly across taxa than non-complex orthogroups. I identified 184 universal orthogroups that included orthologs of known protein complex components from all 31 eukaryotes, consistent with a conserved core repertoire, likely present in the last eukaryotic common ancestor (LECA). I generated the protein complex orthology cartographer (PCOC) suite to find significant duplications and reductions of proteins in universal orthogroups across and between eukaryotes. This revealed both multi-copy and notably single-copy proteins, in all queried species, from the exosome, spliceosome, proteasome, small-ribosomal processome, tRNA synthetases, MCM complexes and RNA polymerase III. Case analyses of Naegleria gruberi and Guillardia theta highlight taxon-specific expansions and show how broader protist inclusion improves domain-wide inference of eukaryotic protein-complex evolution.",
+    "journal": "Genome Biology and Evolution",
+    "doi": "10.1093/gbe/evag275",
+    "date": "2026-11-10",
+    "authors": "Francisa O.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006768",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006768",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "protist"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4355,
+    "collected_at": "2026-11-13T07:56:57.456049+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/gbe/evag275"
+    ],
+    "translation": {
+      "title": {
+        "hash": "62a68d3012f3ee778cccc2c66037b2008ed793878181e52e9f1b2c216b04b88a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:32:18.731412+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8b0eac66fc1568fde8979ed2b6fb1b48b458c00dec7071487000a8e1774876c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:32:18.731412+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "汎真核タンパク質複合体の保存的かつ分類群に限定されたオルソグループ拡張",
+    "abstract_ja": "タンパク質複合体は細胞生物学の中核をなすものであり、通常は相互作用データ、全ゲノムシーケンシング、および参照真核生物に対する包括的なタンパク質符号化遺伝子予測を組み合わせて検証される。しかし、非参照真核生物においては、こうした情報が不足している。相互作用データが存在しない種においても、参照真核生物で検証済みのタンパク質複合体構成要素のオーソロジーを予測プロテオームにマッピングすることで、タンパク質複合体を予測することが可能である。オーソロジーによるタンパク質複合体構成要素の保存性をマッピングする研究は、少数のタンパク質クエリに限定されることが多く、非参照の微生物真核生物の代表性が不十分であり、文献間でも散在している。本研究では、実験的に検証された複合体のタンパク質を、31種の多様な真核生物にわたるタンパク質のオーソグループにマッピングすることで、オーソロジーとタンパク質相互作用データを統合した。複合体を保持するオーソグループ内のタンパク質は、複合体を持たないオーソグループよりも保持され、分類群間でより均等に分布していた。私は、全31種の真核生物から既知のタンパク質複合体構成要素のオーソログを含む184個のユニバーサル・オーソグループを同定した。これは、おそらく最後の真核生物共通祖先（LECA）に存在していた保存的なコアレパトアと整合する。私は、真核生物間および真核生物間でユニバーサル・オーソグループにおけるタンパク質の有意な重複および減少を特定するため、タンパク質複合体オーソロジー・カートグラファー（PCOC）スイートを構築した。これにより、クエリしたすべての種において、エクソソーム、スプライソソーム、プロテアソーム、小リボソームプロセソーム、tRNA合成酵素、MCM複合体、およびRNAポリメラーゼIIIから、マルチコピータンパク質と顕著なシングルコピータンパク質の両方が明らかになった。Naegleria gruberiおよびGuillardia thetaのケース解析では、分類群特異的な拡張が浮き彫りになり、原生生物をより広範に含めることで、真核生物のタンパク質複合体進化に関するドメインワイドな推論が向上することが示された。"
   }
 ]
