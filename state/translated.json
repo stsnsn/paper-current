@@ -190283,5 +190283,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "電位依存性ポリンPPE1は、<i>Mycobacterium tuberculosis</i>における分泌と薬剤耐性を調節する。",
     "abstract_ja": "結核菌（Mtb）における薬剤耐性は、依然として臨床上の重大な課題であり、抗生物質が多層構造の細胞包膜を透過する経路が十分に解明されていないことがその要因となっている。我々は、PPE1を、クピヤフォレスの分泌を媒介すると同時に、第一選択の抗結核薬であるイソニアジド（INH）の取り込みを促進する電位依存性外膜ポリンとして同定した。38,038株の臨床分離株を用いたゲノムワイド関連解析により、ppe1変異とINH耐性との関連が示され、その臨床的意義が浮き彫りとなった。これと一致して、Mtb Δppe1変異株はINHに対する耐性が亢進しており、野生型株と比較してINHの細胞内蓄積が著しく減少していた。Δppe1株は、マウス感染モデルにおいて感染力の減弱、増殖能の低下、および病原性の減弱を示した。電子顕微鏡観察、分子モデリング、および単チャンネル電気生理学的解析により、PPE1が従来のβバレル型細菌ポリンとは異なる、特異な五量体αヘリックスチャネルを形成することが明らかになった。以上の知見を総合すると、PPE1は金属結合子の分泌と抗生物質の流入を調整する、結核菌膜透過性の主要な決定因子であることが特定された。本研究は、Mtbの生理機能、病原性、および薬剤感受性を制御する、これまで認識されていなかったメカニズムを明らかにしたものであり、治療介入の潜在的な標的となり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1971380",
+    "title": "Metagenomic next-generation sequencing improves pathogen detection in culture-negative infections: a diagnostic performance study.",
+    "abstract": "The conventional microbiological diagnosis is frequently insensitive, time consuming and targeted. Patients with underlying immune suppression and those who have recently been on antibiotics often have culture-negative infections. In recent years, metagenomic next-generation sequencing (mNGS) has emerged as a novel, pathogen-agnostic diagnostic approach. A total of 136 clinical specimens were submitted for metagenomic next-generation sequencing (mNGS) between August 2022 and January 2024. Of these samples, 86 from 73 patients were included in this retrospective study. Thirteen patients had more than one specimen included in the study. All specimens were processed using conventional microbiological methods and analyzed using mNGS technology, either by using Illumina next-generation sequencing technology or Oxford Nanopore long-read technology. The diagnostic performance characteristics, including sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV), were calculated for both methods. The agreement between the two methods was evaluated using Cohen's kappa coefficient. The paired comparisons were made using the McNemar test. The areas under the ROC curves for both methods were calculated, and the multivariable logistic regression analysis was used to identify the variables that were independently associated with mNGS positivity. Here, conventional microbiology identified pathogens in 16.3% of samples, whereas mNGS identified pathogens in 45.3% of samples. The sensitivity and specificity of mNGS were 57.1 and 84.2%, respectively. By McNemar testing, there was significant detection of pathogens by mNGS (p = 0.0015). The agreement between two methods was poor (kappa = 0.20). The ROC curve for mNGS results showed moderate diagnostic accuracy with an AUC of 0.71. By multivariable logistic regression, immunocompromised status (OR 2.8, 95% CI 1.3-6.0, p = 0.018) and positive imaging findings (OR 3.1, 95% CI 1.4-6.9, p = 0.010) were independently associated with mNGS positivity. mNGS is able to identify more pathogens in culture-negative cases than conventional methods. There is scope for mNGS to be used in a complementary fashion, whilst relying on conventional methods as the primary tool for diagnosis of infections. Notably, the greatest additional information will come from the use of mNGS in immunocompromised patients.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1971380",
+    "date": "2026-10-28",
+    "authors": "Tayeb HT, Abouelhoda M, Alqasabi A, Magrashi A, Nafe G, Alzahrani T, Alzeer S, Bakheet R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43017131",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43017131",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbiological",
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1352,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1971380"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d8b425023a544e896b7f085c06417275357838dfe8c6c36d00fec5121cab021a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:35:20.204723+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a36d1cd3bcbfdb08600fee57a18d6b5868bfb6217bdc3700a41eceb7f57c1933",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:35:20.204723+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタゲノム次世代シーケンシングによる培養陰性感染症の病原体検出能の向上：診断性能に関する研究",
+    "abstract_ja": "従来の微生物学的診断は、感度が低く、時間を要し、標的を絞った手法であることが多い。基礎疾患として免疫抑制状態にある患者や、最近抗生物質を投与された患者では、培養陰性感染症を呈することが多い。近年、メタゲノム次世代シーケンシング（mNGS）が、病原体に依存しない新たな診断アプローチとして登場した。2022年8月から2024年1月までの間に、計136検体の臨床検体がメタゲノム次世代シーケンシング（mNGS）に供された。これらの検体のうち、73例の患者から得られた86検体が本後方視的研究に含まれた。13例の患者では、複数の検体が本研究に含まれていた。すべての検体は従来の微生物学的手法を用いて処理され、Illumina社の次世代シーケンシング技術またはOxford Nanopore社のロングリード技術を用いたmNGS技術により解析された。感度、特異度、陽性的中率（PPV）、および陰性的中率（NPV）を含む診断性能特性を、両手法について算出した。両手法間の一致度はCohenのカッパ係数を用いて評価した。対応のある比較にはMcNemar検定を用いた。両手法のROC曲線下面積を算出し、多変数ロジスティック回帰分析を用いて、mNGS陽性と独立して関連する変数を同定した。本研究において、従来の微生物学的診断では検体の16.3%で病原体が同定されたのに対し、mNGSでは検体の45.3%で病原体が同定された。mNGSの感度および特異度はそれぞれ57.1%および84.2%であった。McNemar検定により、mNGSによる病原体の検出は有意であった（p = 0.0015）。両手法間の一致度は低かった（kappa = 0.20）。mNGS結果のROC曲線は、AUC 0.71という中程度の診断精度を示した。多変数ロジスティック回帰分析により、免疫不全状態（OR 2.8, 95% CI 1.3-6.0, p = 0.018）および画像所見の陽性（OR 3.1, 95% CI 1.4-6.9, p = 0.010）が、mNGS陽性と独立して関連していた。mNGSは、培養陰性例において従来の手法よりも多くの病原体を同定することが可能である。感染症診断の主要なツールとして従来の手法に依拠しつつ、mNGSを補完的に活用する余地がある。特に、免疫不全患者におけるmNGSの活用により、最大の追加的情報が得られると考えられる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1084",
+    "title": "DIANA-miRGen v5: TSS characterization and transcriptional regulation of miRNAs in human and mouse",
+    "abstract": "AbstractCharacterizing microRNA transcriptional regulation is challenging because primary microRNA transcripts undergo rapid nuclear processing, leaving full-length molecules poorly represented in conventional transcriptomic data. DIANA-miRGen v5 addresses this annotation gap by combining Capture Long-read Sequencing (CLS) data, generated within GENCODE to improve non-coding RNA annotation, with GENCODE reference gene and transcript annotations to resolve miRNA host contexts. For human, the database provides experimentally informed, transcript-anchored host and promoter annotations for 1560/1918 pre-miRNA loci (81.3%), represented by 1302 distinct reference transcripts. CLS-derived human transcription start sites (TSSs) are accompanied by overlap information from FANTOM5 CAGE, ENCODE PRO-cap, and RAMPAGE. Transcription factor (TF)-filtered ChIP-Atlas data annotate candidate TF occupancy within windows extending 10 kb upstream and 2 kb downstream of selected host TSSs, yielding 4 901 330 human gene-level host-window overlap records. For mouse, annotations cover 994/1227 loci (81.0%), comprising 785 distinct reference transcripts. Mouse TSSs obtained from CLS include FANTOM5 CAGE overlap information, while ChIP-Atlas analysis yielded 2 378 918 gene-level host-window overlap records. The redesigned interface supports linked gene- and transcript-level exploration, interactive genome visualization, contextual tracks, bulk downloads, and open access through a REST API. DIANA-miRGen v5 is freely available without registration at http://microrna.gr/mirgenv5/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1084",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1084/9041021?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4386,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1084"
+    ],
+    "translation": {
+      "title": {
+        "hash": "acfe8956956c9effa27ac3acc52d5b1b93c9ed0c632d103a7f05bc1abd55ba36",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:35:20.204723+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ac33e03a229d4a3b864983f990f5bb2fa373f344e8dd361362c85a597136340f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:35:20.204723+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DIANA-miRGen v5: ヒトおよびマウスにおけるmiRNAのTSS特性解析と転写調節",
+    "abstract_ja": "要旨マイクロRNAの転写調節の特性解析は、一次マイクロRNA転写産物が核内で迅速にプロセシングされるため、従来のトランスクリプトームデータにおいて全長分子が十分に表現されておらず、困難である。DIANA-miRGen v5は、非コードRNAのアノテーション精度向上のためにGENCODE内で生成されたCapture Long-read Sequencing (CLS) データと、miRNAの宿主コンテキストを解明するためのGENCODEリファレンス遺伝子および転写産物のアノテーションを組み合わせることで、このアノテーションのギャップを解消する。ヒトにおいては、本データベースは1560/1918個のpre-miRNA遺伝子座（81.3%）に対し、1302個の個別のリファレンス転写産物で表現された、実験的根拠に基づく転写産物アンカー型の宿主およびプロモーターアノテーションを提供している。CLSから導出されたヒト転写開始部位（TSS）には、FANTOM5 CAGE、ENCODE PRO-cap、およびRAMPAGEによるオーバーラップ情報が付随している。転写因子（TF）フィルタリング済みのChIP-Atlasデータは、選択した宿主TSSの上流10 kbおよび下流2 kbにわたるウィンドウ内での候補TFの占有をアノテーションしており、その結果、4,901,330件のヒト遺伝子レベルの宿主-ウィンドウオーバーラップレコードが得られた。マウスにおいては、アノテーションは994/1227個の遺伝子座（81.0%）をカバーしており、785個の個別のリファレンス転写産物で構成されている。CLSから得られたマウスTSSにはFANTOM5 CAGEのオーバーラップ情報が含まれており、ChIP-Atlas解析により2,378,918件の遺伝子レベルの宿主-ウィンドウオーバーラップレコードが得られた。刷新されたインターフェースは、遺伝子および転写産物レベルの連動した探索、インタラクティブなゲノム可視化、コンテキストトラック、一括ダウンロード、およびREST APIを通じたオープンアクセスをサポートしている。DIANA-miRGen v5は、http://microrna.gr/mirgenv5/ にて登録不要で無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2536041123",
+    "title": "Spontaneous replication fork collapse regulates telomere length homeostasis in wild-type yeast.",
+    "abstract": "In most eukaryotes, the enzyme telomerase maintains the termini of linear chromosomes through the addition of repetitive telomeric sequences. It is widely assumed that the primary site of action for telomerase is the single-stranded G-rich overhang at the ends of linear chromosomes. However, increasing evidence indicates that a second telomerase substrate is generated in response to replication stress as the replisome traverses duplex telomeric DNA. We show here that this second substrate, created by spontaneous replication fork collapse in wild-type budding yeast, is elongated by telomerase at a much higher frequency than fully replicated chromosome termini. Furthermore, as much as ~200 nucleotides can be added in a single cell division to newly collapsed forks, indicating that replication fork collapse and the subsequent response by telomerase is a major determinant of telomere length homeostasis. This challenges a long-standing model which posits a length-sensing mechanism that assesses individual telomeres to determine whether yeast chromosome ends are in \"telomerase-extendible\" versus \"telomerase-non-extendible\" states. We propose that these two states are instead structurally and temporally distinct substrates for telomerase, generated by two different processes (fork collapse versus completion of DNA replication). We also show that fork collapse at telomeres is kept in check by a telomere-dedicated Cdc13/Stn1/Ten1 complex in collaboration with the canonical RPA complex, indicating that these two complexes stabilize single-stranded DNA exposed at the replication fork. Although failures during DNA replication are often genotoxic events, this represents an opposing example in which fork collapse has been co-opted to promote genome stability.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2536041123",
+    "date": "2026-10-26",
+    "authors": "Paschini M, Gillespie AE, Reyes CM, McCoy CA, Lewis KA, Glustrom LW, Sharpee TO, Wuttke DS, Lundblad V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42932661",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13732219",
+    "pmid": "42932661",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1826,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2536041123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3d65f4aa1764f12fc0b775b8a73afd09d0199a6812c5c2e649baf24a3c8b773c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:35:20.204723+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "81a6176307f3b843414a5f09a4e469ad4b295cf899ff0678193d7e2bc2401a9c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:35:20.204723+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "自発的な複製フォークの崩壊は、野生型酵母におけるテロメア長の恒常性を調節する。",
+    "abstract_ja": "ほとんどの真核生物において、酵素テロメラーゼは、反復的なテロメア配列の付加を通じて線状染色体の末端を維持する。テロメラーゼの主要な作用部位は、線状染色体末端の一本鎖Gリッチ・オーバーハングであると広く考えられている。しかし、レプリソームが二本鎖テロメアDNAを横断する際、複製ストレスに応答して第2のテロメラーゼ基質が生成されることを示す証拠が増えている。本研究では、野生型出芽酵母における自発的な複製フォーク崩壊によって生成されるこの第2の基質が、完全に複製された染色体末端よりもはるかに高い頻度でテロメラーゼによって伸長されることを示す。さらに、単一の細胞分裂において、新たに崩壊したフォークに最大約200ヌクレオチドが付加され得ることから、複製フォークの崩壊とそれに続くテロメラーゼによる応答が、テロメア長の恒常性の主要な決定要因であることが示唆される。これは、個々のテロメアを評価して、酵母染色体末端が「テロメラーゼ伸長可能」な状態か「テロメラーゼ非伸長可能」な状態かを判定する長さ感知機構を想定する長年のモデルに疑問を投げかけるものである。我々は、これら2つの状態がむしろ構造的および時間的に異なるテロメラーゼ基質であり、2つの異なるプロセス（フォーク崩壊とDNA複製の完了）によって生成されるものであると提唱する。また、テロメアにおけるフォーク崩壊が、正準RPA複合体と連携してテロメア専用のCdc13/Stn1/Ten1複合体によって抑制されていることを示し、これら2つの複合体が複製フォークに露出した一本鎖DNAを安定化させることを明らかにする。DNA複製中の不全はしばしば遺伝毒性事象となるが、本例は、フォーク崩壊がゲノム安定性の促進に利用されたという対照的な事例である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aeh3295",
+    "title": "Frequency-dependent fitness effects are ubiquitous in rapidly adapting microbial populations.",
+    "abstract": "In simple microbial populations, the fitness effects of selected mutations are typically assumed to be constant, regardless of mutant frequency. This assumption underpins predictions about evolutionary dynamics, epistasis, and the maintenance of genetic diversity. Here, we systematically test this assumption using beneficial mutations from early generations of the Escherichia coli long-term evolution experiment (LTEE). Using flow cytometry-based competition assays, we find that frequency-dependent fitness effects are the norm rather than the exception, occurring in ∼80% of strain pairs tested. Most competitions exhibit negative frequency dependence, where fitness advantages decline as mutant frequency increases. We demonstrate that the strength of frequency dependence is predictable from invasion fitness measurements, which explain approximately half of the biological variation in frequency-dependent slopes. We also observe violations of fitness transitivity in several strain combinations, indicating that competitive outcomes cannot always be predicted from fitness measured against a single reference strain. High-resolution measurements reveal that frequency dependence changes substantially within the growth cycle, with the net per-cycle effect reflecting the balance of opposing dynamics at different growth phases. Our results demonstrate that, even in a model system designed to minimize ecological complexity, subtle interactions between closely related genotypes create frequency-dependent selection that can fundamentally alter evolutionary trajectories.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh3295",
+    "date": "2026-10-23",
+    "authors": "Ascensao JA, Abedi KD, Prasad AN, Hallatschek O.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42912986",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13693659",
+    "pmid": "42912986",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2654,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1126/sciadv.aeh3295"
+    ],
+    "translation": {
+      "title": {
+        "hash": "221cfaa3f818acd454132e93934b2dde9a7002949eba28d8e83e675c2c4245d7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:35:20.204723+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74022d3ab04199b20ad76e82bd1739e2379bc64a90232fb351f3a76ff735e614",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:35:20.204723+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "頻度依存的な適応度効果は、急速に適応する微生物集団において普遍的に見られる。",
+    "abstract_ja": "単純な微生物集団では、選択された変異による適応度への影響は、変異頻度に関わらず通常一定であると想定される。この仮定は、進化動態、エピスタシス、および遺伝的多様性の維持に関する予測の基盤となっている。本研究では、大腸菌長期進化実験（LTEE）の初期世代における有益な変異を用いて、この仮定を系統的に検証した。フローサイトメトリーに基づく競合アッセイを用いた結果、頻度依存的な適応度への影響は例外ではなくむしろ一般的であり、試験した菌株ペアの約80%で認められた。ほとんどの競合では負の頻度依存性が示され、変異頻度の増加に伴い適応度の優位性が低下する。我々は、頻度依存性の強さが侵入適応度の測定値から予測可能であることを実証し、これが頻度依存的な勾配における生物学的変異の約半分を説明している。また、いくつかの菌株組み合わせにおいて適応度の推移性の違反が観察され、単一の参照株に対して測定した適応度から競合結果を常に予測できるわけではないことが示された。高解像度の測定により、頻度依存性は増殖サイクル内で大幅に変化し、1サイクルあたりの正味の効果は異なる増殖相における相反する動態のバランスを反映していることが明らかになった。我々の結果は、生態学的複雑性を最小限に抑えるように設計されたモデル系においても、近縁な遺伝子型間の微妙な相互作用が頻度依存的な選択を生み出し、それが進化の軌跡を根本的に変え得ることを示している。"
   }
 ]
