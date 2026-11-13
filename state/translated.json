@@ -171596,5 +171596,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "土壌生息環境における微生物増殖速度の特化・汎化のトレードオフ",
     "abstract_ja": "微生物の生存戦略は、根本的な生態学的トレードオフによって形成されている。特化は狭いニッチにおける最高のパフォーマンスを可能にする一方、汎化は多様な環境における生存を可能にするが、最大成長率を制限する可能性がある。土壌において、このトレードオフは特に根圏とデトリタス圏、およびそれらの界面において重要であり、そこでは共存する生きた根と分解中の残渣が、創発的な生物地球化学的条件を生み出すと仮説立てられている。我々は、H₂¹⁸O定量安定同位体プロービング（qSIP）を用いて、根圏、デトリタス圏、および根圏と根デトリタスの共存環境における細菌および真菌の成長率を測定した。我々は、試験条件下で実現した成長幅を反映し、分類群を操作的に「特化種」（単一の生息地内でのみ活発に成長する微生物と定義）または「汎化種」（2つ以上の生息地で活発に成長する微生物と定義）に分類した。細菌の特化種は、生育した生息地において汎化種よりも速い成長を示し、このパターンはニッチ幅と成長率のトレードオフと一致していた。正味の近縁性および最近縁分類群指数は、細菌の総群集が系統的にクラスターを形成していた一方で、特化種および汎化種の群集は系統的にランダムであったことを示しており、これは系統ではなく機能的形質が実現した成長幅の戦略を予測していることと整合している。年間草地の土壌では、資源が豊富な場合には成長の速い特化種が生態系プロセスを支配し、条件が変化した際には成長の遅い汎化種が元素変換を維持する可能性がある。この相互作用を理解することは、土壌炭素の軌跡に関する予測に役立つ可能性がある。重要性土壌微生物は炭素と養分の循環において極めて重要な役割を果たすが、異なる環境で生存し成長するための戦略については依然として十分に解明されていない。本研究では、ある生息地で急速に成長する土壌微生物が、その速度を、占有可能な生息地の幅とトレードオフさせるのかどうかを検証する。単なる存在ではなく活発な成長を測定する手法であるH₂¹⁸Oの定量安定同位体プロービングを用い、根の影響を受ける3つの生息地（根圏、デトリタス圏、および根圏とデトリタス圏の共存環境）における細菌および真菌の成長率を追跡した。その結果、単一の生息地でのみ成長が検出された微生物（「特化種」）は、複数の生息地にわたって成長が検出された微生物（「汎化種」）よりも、自身の生息地内でより速く成長する傾向があり、このパターンはニッチ幅と成長率のトレードオフと一致していた。このパターンは、真菌よりも細菌においてより顕著であった。これらの分類は、普遍的な生物形質ではなく、試験条件下で実現した成長幅を記述したものであるが、特化種または汎化種がどこでいつ支配的になるかを理解することは、植物投入物の変化に伴う土壌炭素の運命に関する予測に役立つ可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01306-26",
+    "title": "Hybrid genome assemblies of <i>Bacteroidota</i> isolates uncover mobile genetic elements, antimicrobial resistance genes, and novel antimicrobial peptides.",
+    "abstract": "Members of the phylum Bacteroidota dominate the mammalian gut microbiota and represent promising candidates for next-generation probiotics. However, the resolution of complete Bacteroidota genomes is often hindered by extensive repetitive sequences and mobile genetic elements, a technical challenge further exacerbated by high intraspecies diversity and strain-level variants that drive assembly fragmentation and preclude the recovery of contiguous scaffolds. We recently isolated 18 strains that belonged to the Bacteroidales order of Bacteroidota from mouse ceca, human feces, and tortoise stool, which we now sequenced using both Illumina and Oxford Nanopore platforms. We developed a specialized assembly workflow to reconstruct high-resolution genomes and characterize their extrachromosomal landscapes. The hybrid pipeline yielded 2 fully closed, single-contig chromosomes, 10 almost closed genomes, and 6 draft assemblies. Genomic integrity was exceptionally high, with completeness scores ranging from 99.6% to 100% and contamination levels below 2%. A total of 12 circular plasmids were detected across 10 isolates; eight isolates harbored a single plasmid, while two isolates (241163E and 241171E) each carried two distinct circular plasmids. Seven of these plasmids were experimentally confirmed through isolation and sequencing, and five were classified as viral contigs. Functional annotation revealed a diverse repertoire of antimicrobial resistance genes and identified several predicted antimicrobial peptides in the assemblies through machine-learning analysis, of which two selected ones were experimentally verified. Overall, the resulting assemblies provide a reliable foundation for tracking mobile genetic elements, assessing resistance potential, and mining bioactive peptides in Bacteroidota species intended for therapeutic development.ImportanceBacteria in the phylum Bacteroidota are essential to mammalian gut health and are currently being developed as advanced probiotics. However, their complex DNA often prevents scientists from mapping their complete genetic blueprints, which can leave hidden traits like antibiotic resistance undetected. In this study, we combined two advanced DNA sequencing methods to create highly accurate and complete genetic maps for 18 Bacteroidota isolates from humans, mice, and tortoise. We successfully uncovered small, elusive DNA rings (potential plasmids) and confirmed their physical presence in the laboratory. Furthermore, we identified genes responsible for antibiotic resistance and used artificial intelligence to discover new antimicrobial peptides. This research provides a crucial foundation for the scientific community to accurately track mobile genes, rigorously evaluate the safety of potential gut therapeutics, and discover novel molecules for medical applications.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01306-26",
+    "date": "2026-11-10",
+    "authors": "Tufail MA, Bethge H, Chibani CM, Ladewig L, Schmitz RA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006895",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006895",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome",
+        "microbiota",
+        "viral",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4200,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/aem.01306-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a7331a8735f5a4591a3a890287baf346469d1453de1531eca235693d884246d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:53:20.784408+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a3d32f6c63dc1646edb1ac2e1ad031e5f884db3fd7ca4aa3ecb243722c01aa04",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:53:20.784408+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Bacteroidota</i>分離株のハイブリッドゲノムアセンブリにより、可動性遺伝要素、薬剤耐性遺伝子、および新規抗菌ペプチドが明らかになった。",
+    "abstract_ja": "バクテロイデス門の細菌は哺乳類の腸内細菌叢において優占しており、次世代プロバイオティクスの有望な候補となっている。しかし、バクテロイデス門の完全なゲノムの解読は、広範な反復配列や可動性遺伝要素によって妨げられることが多く、この技術的課題は、種内の高い多様性や菌株レベルの変異によってさらに深刻化している。こうした変異はアセンブリの断片化を引き起こし、連続したスキャフォールドの復元を困難にする。我々は最近、マウス盲腸、ヒト糞便、およびリクガメの糞便から、バクテロイデス門のバクテロイデス目に属する18株を単離し、IlluminaおよびOxford Nanoporeの両プラットフォームを用いてシーケンシングを行った。我々は、高解像度ゲノムを再構築し、その染色体外ランドスケープを特性評価するための専用のアセンブリワークフローを開発した。このハイブリッドパイプラインにより、完全に閉合した単一コンティグの染色体2本、ほぼ閉合したゲノム10本、およびドラフトアセンブリ6本が得られた。ゲノムの完全性は極めて高く、完全性スコアは99.6%から100%の範囲にあり、コンタミネーションレベルは2%未満であった。10株の分離株全体で計12本の環状プラスミドが検出され、8株は単一のプラスミドを保持し、2株（241163Eおよび241171E）はそれぞれ2つの異なる環状プラスミドを保持していた。これらのプラスミドのうち7本は単離およびシーケンシングによって実験的に確認され、5本はウイルスコンティグに分類された。機能アノテーションにより、多様な抗菌薬耐性遺伝子のレパートリーが明らかになり、機械学習解析を通じてアセンブリ内のいくつかの予測抗菌ペプチドが同定され、そのうち選択された2つが実験的に検証された。全体として、得られたアセンブリは、治療開発を目的としたバクテロイデス門の種において、可動性遺伝要素の追跡、耐性ポテンシャルの評価、および生物活性ペプチドの探索のための信頼性の高い基盤を提供する。重要性バクテロイデス門の細菌は哺乳類の腸管健康に不可欠であり、現在は高度なプロバイオティクスとして開発が進められている。しかし、その複雑なDNAのため、科学者が完全な遺伝的設計図をマッピングすることが困難な場合が多く、その結果、抗生物質耐性のような潜在的な形質が検出されないままとなることがある。本研究では、2つの高度なDNAシーケンシング手法を組み合わせることで、ヒト、マウス、およびリクガメ由来の18株のバクテロイデス門分離株について、極めて高精度で完全な遺伝地図を作成した。我々は、小さく捉えにくいDNAリング（潜在的なプラスミド）の検出に成功し、実験室におけるそれらの物理的な存在を確認した。さらに、抗生物質耐性を担う遺伝子を同定し、人工知能を用いて新たな抗菌ペプチドを発見した。本研究は、科学コミュニティが可動性遺伝子を正確に追跡し、潜在的な腸管治療薬の安全性を厳格に評価し、医療応用のための新規分子を発見するための極めて重要な基盤となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.celrep.2026.118171",
+    "title": "An engineered probiotic for diagnosis and mucosal healing in inflammatory bowel disease.",
+    "abstract": "Early diagnosis and timely treatment of inflammatory bowel disease (IBD) are critical to limit disease progression, yet integrated diagnostic-therapeutic strategies remain limited. Here, we design a synthetic probiotic system that responds to reactive oxygen species (ROS) to enable noninvasive detection of intestinal inflammation. We further engineer EcN-IL22, a therapeutic strain that conditionally expresses interleukin 22-fragment crystallizable (IL-22-Fc) fusion protein in situ to mitigate colitis-associated tissue damage. Mechanistically, EcN-IL22 activates epithelial IL-22 receptor 1/signal transducer and activator of transcription 3 (IL-22R1/STAT3) signaling, promoting epithelial barrier restoration and intestinal stem cell proliferation. We identify thyroid hormone receptor-interacting protein 13 (Trip13) and fidgetin-like 1 (Fignl1) as IL-22R1-responsive candidate genes associated with epithelial repair. Importantly, replacing the diagnostic output of the ROS-responsive circuit with IL-22-Fc enables inflammation-triggered therapeutic delivery and significantly alleviates colitis. Finally, EcN-IL22 demonstrates robust protective efficacy in a piglet colitis model, supporting its translational potential. Together, this work establishes an integrated probiotic platform for IBD diagnosis and regenerative therapy.",
+    "journal": "Cell Reports",
+    "doi": "10.1016/j.celrep.2026.118171",
+    "date": "2026-10-20",
+    "authors": "Zhao Y, Sun Y, Zhu X, Hu W, Chen S, Peng G, Yang S, Ma D, Mao X, Yi S, Tian L, Han K, Tang X, Zheng JH, Zhou J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905517",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42905517",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4018,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1016/j.celrep.2026.118171"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b04414f3623fb18cb839b86b1854170f7b50807ed17b6d7182a13b5bf766a11f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:53:20.784408+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "156aa7f56702718779e3a873f157825affe3a6f4e395b91eb7335a4ad58923b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:53:20.784408+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "炎症性腸疾患の診断および粘膜治癒を目的とした工学的プロバイオティクス。",
+    "abstract_ja": "炎症性腸疾患（IBD）の早期診断と適時治療は、疾患の進行を抑制する上で極めて重要であるが、統合的な診断・治療戦略は依然として限られている。本研究では、活性酸素種（ROS）に応答して腸管炎症を非侵襲的に検出可能な合成プロバイオティクスシステムを設計した。さらに、大腸炎に伴う組織損傷を軽減するため、インターロイキン22断片結晶化（IL-22-Fc）融合タンパク質をin situで条件付き発現させる治療用株EcN-IL22を作製した。機序として、EcN-IL22は上皮性IL-22受容体1/シグナル伝達因子兼転写活性化因子3（IL-22R1/STAT3）シグナルを活性化し、上皮バリアの修復と腸管幹細胞の増殖を促進する。我々は、上皮修復に関連するIL-22R1応答性候補遺伝子として、甲状腺ホルモン受容体相互作用タンパク質13（Trip13）およびフィジェットイン様1（Fignl1）を同定した。重要な点として、ROS応答性回路の診断出力をIL-22-Fcに置き換えることで、炎症誘発性の治療デリバリーが可能となり、大腸炎が著しく緩和される。最後に、EcN-IL22は子豚の大腸炎モデルにおいて強固な保護効果を示し、そのトランスレーショナルな可能性を裏付けた。以上の成果により、本研究はIBDの診断および再生療法のための統合的なプロバイオティクスプラットフォームを確立した。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1980811",
+    "title": "Protection against lethal pneumonic plague by intramuscular F1V vaccine incorporating a colloidal TLR4-TLR7 dual adjuvant",
+    "abstract": "Yersinia pestis is a facultative intracellular bacterium that causes plague, which manifests in bubonic form and the more severe pneumonic and septicemic forms. There is no FDA-approved vaccine for plague, and those used in the past for human prophylaxis were suboptimal against aerosol infection or nonencapsulated strains. To provide broad protection against Y. pestis, further optimization of vaccine formulations is essential. In a lethal aerosol challenge model using nonencapsulated Y. pestis in BALB/c mice, we compared an existing benchmark vaccine to a similar formulation using novel TLR4-TLR7 dual adjuvant KUP101A in place of TLR9 adjuvant CpG 2006. In addition, we compared vaccination through the subcutaneous (SC) and intramuscular (IM) routes, and we compared vaccination using KUP101A with or without additional alum adjuvant. Two vaccine doses were given four weeks apart, and four weeks later mice were challenged via whole-body aerosol exposure. KUP101A compared favorably to CpG for conferring protection after Y. pestis challenge and led to significantly lower bacterial burden in tissues. This was observed despite similar humoral immunity and Th1/Th2 phenotype, and less evidence of splenic T cell memory than was seen with CpG. Alum was necessary for the protective effect of KUP101A, similarly to CpG. Finally, we saw evidence that IM vaccination was preferable to SC for inducing Th1 polarization, based on the ratio of serum IgG2a to IgG1 and splenocyte cytokine secretion. This study demonstrates that KUP101A is a promising adjuvant with a favorable safety profile for future Y. pestis vaccine development.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1980811",
+    "date": "2026-11-10",
+    "authors": "Sergei S. Biryukov",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1980811",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2070,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1980811"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9215dcc862aed48c27416ed725b9fbe71f12d5fb3af8e4a098e08d1ce99088b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:53:20.784408+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f7b9f34e0967e2e17a2f85c23f93bd2d3fac4d604b8346a055a9ecbf9c0debd7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:53:20.784408+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コロイド型TLR4-TLR7二重アジュバントを組み込んだ筋肉内F1Vワクチンによる致死性肺ペストに対する防御",
+    "abstract_ja": "ペスト菌（Yersinia pestis）は、腺ペスト、より重篤な肺ペストおよび敗血症型として発症するペストの原因となる通性細胞内寄生細菌である。ペストに対してFDA承認済みのワクチンは存在せず、過去にヒトの予防に用いられたものは、エアロゾル感染や非エンカプシド株に対して十分な有効性を示さなかった。ペスト菌に対する広範な防御効果を確保するには、ワクチン製剤のさらなる最適化が不可欠である。BALB/cマウスを用いた非エンカプシド型ペスト菌による致死性エアロゾル負荷モデルにおいて、既存のベンチマークワクチンと、TLR9アジュバントCpG 2006の代わりに新規のTLR4-TLR7デュアルアジュバントKUP101Aを用いた同様の製剤を比較した。さらに、皮下（SC）投与と筋肉内（IM）投与を比較し、KUP101Aを用いた接種における追加のミョウバンアジュバントの有無を比較した。ワクチンを4週間間隔で2回接種し、その4週間後にマウスに全身性エアロゾル曝露負荷を行った。ペスト菌負荷後の防御効果に関しては、KUP101AはCpGよりも優れており、組織内の細菌量も有意に低かった。これは、液性免疫およびTh1/Th2表現型が同程度であり、CpGと比較して脾臓T細胞メモリーの証拠が少なかったにもかかわらず観察された。KUP101Aの防御効果には、CpGと同様にミョウバンが必要であった。最後に、血清IgG2aとIgG1の比および脾細胞サイトカイン分泌に基づき、Th1分極を誘導するにはSC投与よりもIM投与が好ましいという証拠が得られた。本研究は、KUP101Aが将来のペスト菌ワクチン開発において有望なアジュバントであり、良好な安全性プロファイルを有することを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007339",
+    "title": "<i>Nocardioides candidus</i> sp. nov. and <i>Sphingomonas crocea</i> sp. nov., isolated from soil of Inwang Mountain.",
+    "abstract": "Two novel strains, designated MH1T and IW22T, were isolated from soil of Inwang Mountain, Seoul, Republic of Korea. The nearly complete 16S rRNA gene sequences of strains MH1T and IW22T were 1,521 and 1,485 bp, respectively. Strain MH1T showed the highest sequence similarity to Nocardioides pelophilus THG-T63T (98.22%), Nocardioides stalactiti 1.0914T (98.20%) and Nocardioides humilatus BN130099T (98.02%). Strain IW22T showed the highest similarity to Sphingomonas spermidinifaciens 9 NM-10T (97.94%), Sphingomonas baiyangensis L-1-4 w-11T (97.94%) and Sphingomonas yantingensis 1007T (97.58%). Phylogenomic analysis based on 81 conserved core genes and average amino acid identity supported the placement of the two strains within the genera Nocardioides and Sphingomonas, respectively. The average nucleotide identity and digital DNA-DNA hybridization values between the novel strains and their closest relatives were below the species delineation thresholds. Comparative genomic analysis revealed the presence of distinct biosynthetic gene clusters, including terpene, polyketide and peptide-associated clusters, suggesting potential ecological adaptation to soil environments. The DNA G+C contents of strains MH1T and IW22T were 71.5 and 64.5 mol%, respectively. The major fatty acids of strain MH1T were iso-C16 : 0 and C18 : 1  ω9c, whereas those of strain IW22T were C16 : 0, C18 : 1  ω7c and summed feature 3 (C16 : 1  ω6c and/or C16 : 1  ω7c). Based on polyphasic taxonomic evidence, strains MH1T and IW22T represent novel species of the genera Nocardioides and Sphingomonas, respectively, for which the names Nocardioides candidus sp. nov. and Sphingomonas crocea sp. nov. are proposed.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007339",
+    "date": "2026-11-01",
+    "authors": "Kwak S, Kim I, Park S, Woo H, Lee H, Yook S, Baek C, Kim J, Seo T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006769",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006769",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4062,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1099/ijsem.0.007339"
+    ],
+    "translation": {
+      "title": {
+        "hash": "70f9de73cc3fc090379fb4410dea43c1d211bd616b208b1574bc64242a47d40f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:53:20.784408+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dfc7a3e690af538302ac7a6620af74928d33740d67f991f3ee8250bec3350307",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:53:20.784408+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "印王山の土壌から分離された<i>Nocardioides candidus</i> sp. nov. および <i>Sphingomonas crocea</i> sp. nov.",
+    "abstract_ja": "大韓民国ソウル市の仁王山の土壌から、MH1TおよびIW22Tと命名された2つの新規菌株が分離された。MH1T株およびIW22T株のほぼ完全な16S rRNA遺伝子配列は、それぞれ1,521塩基および1,485塩基であった。MH1T株は、Nocardioides pelophilus THG-T63T（98.22%）、Nocardioides stalactiti 1.0914T（98.20%）、およびNocardioides humilatus BN130099T（98.02%）と最も高い配列類似性を示した。IW22T株は、Sphingomonas spermidinifaciens 9 NM-10T（97.94%）、Sphingomonas baiyangensis L-1-4 w-11T（97.94%）、およびSphingomonas yantingensis 1007T（97.58%）と最も高い類似性を示した。81個の保存コア遺伝子および平均アミノ酸同一性に基づく系統ゲノム解析により、これら2つの菌株はそれぞれNocardioides属およびSphingomonas属に分類されることが支持された。新規菌株とその近縁株との間の平均ヌクレオチド同一性およびデジタルDNA-DNAハイブリダイゼーション値は、種の境界判定閾値を下回っていた。比較ゲノム解析により、テルペン、ポリケチド、およびペプチド関連クラスターを含む明確な生合成遺伝子クラスターの存在が明らかとなり、土壌環境への生態学的適応の可能性が示唆された。MH1T株およびIW22T株のDNA G+C含有量は、それぞれ71.5および64.5 mol%であった。MH1T株の主要脂肪酸はiso-C16 : 0およびC18 : 1  ω9cであったのに対し、IW22T株のものはC16 : 0、C18 : 1  ω7c、およびsummed feature 3（C16 : 1  ω6cおよび/またはC16 : 1  ω7c）であった。多相的な分類学的根拠に基づき、MH1T株およびIW22T株はそれぞれNocardioides属およびSphingomonas属の新種であり、Nocardioides candidus sp. nov. および Sphingomonas crocea sp. nov. という名称が提案される。"
   }
 ]
