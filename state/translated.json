@@ -108465,7 +108465,7 @@
   {
     "id": "10.3389/fmicb.2026.1959624",
     "title": "Functional asymmetry of the transmembrane subunits YbhS and YbhR in the tetracycline-inducible ABC transporter YbhFSR.",
-    "abstract": "The Escherichia coli ABC (ATP-binding cassette) transporter YbhFSR has an unusual subunit architecture: its two nucleotide-binding domains (NBDs) are fused within a single polypeptide YbhF, while the transmembrane domains (TMDs) are formed by two separate subunits YbhS and YbhR. This study sought to investigate the functional differences between YbhS and YbhR during tetracycline (TC) efflux, and to characterize the transcriptional regulation of the ybhFSR operon under TC stress. A series of E. coli knockout strains (ΔybhF, ΔybhS, ΔybhR, ΔybhSR, ΔybhFSR) were generated via λ-Red homologous recombination. qRT-PCR was used to profile transcriptional responses of ybhF, ybhS, and ybhR under a gradient of TC concentrations in wild-type and ΔacrB backgrounds. Susceptibility to four tetracyclines (TC, OTC, CTC, DOX) was determined by broth microdilution and disk diffusion. Cross-species sequence alignments across seven Enterobacteriaceae genera compared evolutionary conservation between YbhS and YbhR. Tetracycline triggered dose-dependent transcriptional upregulation of ybhF, ybhS and ybhR, whereby ybhR was induced to a greater extent than ybhS across all tested concentrations. The transcriptional gap between ybhR and ybhS was markedly enlarged in the ΔacrB strain, showing a significant divergence in inducibility (23.8-fold for ybhR vs. 10.2-fold for ybhS at 8 μg/mL TC). Deletion of ybhR led to markedly increased susceptibility to all four tetracyclines (TC, OTC, CTC, DOX), while E. coli ΔybhS cells exhibited MIC (minimum inhibitory concentration) values indistinguishable from the wild type. The ΔacrB ΔybhF double mutant yielded a TC MIC of 0.125 μg/mL, considerably lower than the ΔacrB single mutant (0.25 μg/mL) and wild-type strain (1 μg/mL). Cross-species alignments across seven Enterobacteriaceae genera showed that YbhR had higher average sequence identity than YbhS (96.20% versus 93.89%); however, this difference did not reach statistical significance (Wilcoxon signed-rank test, p = 0.0625; paired t-test, p = 0.75). Transcription of the ybhFSR operon is induced by TC in a dose-dependent fashion, and this induction is enhanced in the absence of AcrAB. YbhS and YbhR exhibit functional asymmetry at both transcriptional and physiological levels: YbhR acts as the core TMD subunit supporting TC export, whereas YbhS plays a dispensable role in tetracycline efflux under the tested conditions. The consistently higher sequence conservation of YbhR relative to YbhS is consistent with its dominant physiological role, although this trend did not reach statistical significance. Notably, this demonstrates TMD functional asymmetry in a Gram-negative transporter with fused NBDs, indicating that TMD specialization can occur independently of NBD architecture even when NBD asymmetry is hard-wired into the fused YbhF polypeptide.",
+    "abstract": "ObjectiveThe Escherichia coli ABC (ATP-binding cassette) transporter YbhFSR has an unusual subunit architecture: its two nucleotide-binding domains (NBDs) are fused within a single polypeptide YbhF, while the transmembrane domains (TMDs) are formed by two separate subunits YbhS and YbhR. This study sought to investigate the functional differences between YbhS and YbhR during tetracycline (TC) efflux, and to characterize the transcriptional regulation of the ybhFSR operon under TC stress.MethodsA series of E. coli knockout strains (ΔybhF, ΔybhS, ΔybhR, ΔybhSR, ΔybhFSR) were generated via λ-Red homologous recombination. qRT-PCR was used to profile transcriptional responses of ybhF, ybhS, and ybhR under a gradient of TC concentrations in wild-type and ΔacrB backgrounds. Susceptibility to four tetracyclines (TC, OTC, CTC, DOX) was determined by broth microdilution and disk diffusion. Cross-species sequence alignments across seven Enterobacteriaceae genera compared evolutionary conservation between YbhS and YbhR.ResultsTetracycline triggered dose-dependent transcriptional upregulation of ybhF, ybhS and ybhR, whereby ybhR was induced to a greater extent than ybhS across all tested concentrations. The transcriptional gap between ybhR and ybhS was markedly enlarged in the ΔacrB strain, showing a significant divergence in inducibility (23.8-fold for ybhR vs. 10.2-fold for ybhS at 8 μg/mL TC). Deletion of ybhR led to markedly increased susceptibility to all four tetracyclines (TC, OTC, CTC, DOX), while E. coli ΔybhS cells exhibited MIC (minimum inhibitory concentration) values indistinguishable from the wild type. The ΔacrB ΔybhF double mutant yielded a TC MIC of 0.125 μg/mL, considerably lower than the ΔacrB single mutant (0.25 μg/mL) and wild-type strain (1 μg/mL). Cross-species alignments across seven Enterobacteriaceae genera showed that YbhR had higher average sequence identity than YbhS (96.20% versus 93.89%); however, this difference did not reach statistical significance (Wilcoxon signed-rank test, p = 0.0625; paired t-test, p = 0.75).ConclusionTranscription of the ybhFSR operon is induced by TC in a dose-dependent fashion, and this induction is enhanced in the absence of AcrAB. YbhS and YbhR exhibit functional asymmetry at both transcriptional and physiological levels: YbhR acts as the core TMD subunit supporting TC export, whereas YbhS plays a dispensable role in tetracycline efflux under the tested conditions. The consistently higher sequence conservation of YbhR relative to YbhS is consistent with its dominant physiological role, although this trend did not reach statistical significance. Notably, this demonstrates TMD functional asymmetry in a Gram-negative transporter with fused NBDs, indicating that TMD specialization can occur independently of NBD architecture even when NBD asymmetry is hard-wired into the fused YbhF polypeptide.",
     "journal": "Frontiers in Microbiology",
     "doi": "10.3389/fmicb.2026.1959624",
     "date": "2026-10-23",
@@ -108484,7 +108484,7 @@
     "topic_filter": {
       "accepted": true,
       "reason": "unfiltered_journal",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "Escherichia"
       ],
@@ -108508,11 +108508,23 @@
     "collected_at": "2026-11-10T01:46:09.892797+00:00",
     "collected_date": "2026-11-10",
     "sources": [
-      "Europe PMC journals 2"
+      "Europe PMC journals 2",
+      "Europe PMC topics"
     ],
     "first_seen": "2026-11-10",
     "related_dois": [
       "10.3389/fmicb.2026.1959624"
+    ],
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
     ],
     "translation": {
       "title": {
@@ -108522,16 +108534,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "b54a655f443803f907c5dacd0717beaaa5aa8bb52c4a92c70401e9f2bef5ef4e",
+        "hash": "4f0705d7d86660529182060a9f1c6df224b13699f4d7e12a57f40cd7953c1751",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-10T02:50:07.402935+00:00",
+        "date": "2026-11-13T01:36:30.020754+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "テトラサイクリン誘導性ABCトランスポーターYbhFSRにおける膜貫通サブユニットYbhSおよびYbhRの機能的非対称性。",
-    "abstract_ja": "大腸菌のABC（ATP結合カセット）トランスポーターYbhFSRは、特異なサブユニット構造を有している。すなわち、2つのヌクレオチド結合ドメイン（NBD）が単一のポリペプチドYbhF内に融合している一方で、膜貫通ドメイン（TMD）は2つの独立したサブユニットYbhSとYbhRによって構成されている。本研究では、テトラサイクリン（TC）排出におけるYbhSとYbhRの機能的差異を調査し、TCストレス下におけるybhFSRオペロンの転写調節を特性評価することを目的とした。λ-Red相同組換えを用いて、一連の大腸菌ノックアウト株（ΔybhF, ΔybhS, ΔybhR, ΔybhSR, ΔybhFSR）を作製した。野生型およびΔacrB背景下において、TC濃度勾配に対するybhF、ybhS、およびybhRの転写応答をqRT-PCRを用いて解析した。4種類のテトラサイクリン（TC, OTC, CTC, DOX）に対する感受性は、ブロスマイクロダイリューション法およびディスク拡散法により測定した。7属の腸内細菌科細菌にわたる種間配列アライメントにより、YbhSとYbhRの進化的保存性を比較した。テトラサイクリンはybhF、ybhS、およびybhRの用量依存的な転写亢進を誘発し、試験したすべての濃度において、ybhRはybhSよりも強く誘導された。ybhRとybhSの間の転写ギャップはΔacrB株で著しく拡大しており、誘導能に有意な乖離が認められた（TC 8 μg/mLにおいて、ybhRは23.8倍、ybhSは10.2倍）。ybhRの欠失は、4種類すべてのテトラサイクリン（TC, OTC, CTC, DOX）に対する感受性を著しく亢進させた一方、大腸菌ΔybhS細胞は野生型と区別がつかないMIC（最小発育阻止濃度）値を示した。ΔacrB ΔybhF二重変異株のTC MICは0.125 μg/mLであり、ΔacrB単一変異株（0.25 μg/mL）および野生型株（1 μg/mL）よりも著しく低かった。7属の腸内細菌科細菌にわたる種間アライメントの結果、YbhRはYbhSよりも高い平均配列同一性を示した（96.20%対93.89%）。しかし、この差は統計的有意差に達しなかった（Wilcoxon符号付き順位検定, p = 0.0625; 対応のあるt検定, p = 0.75）。ybhFSRオペロンの転写はTCによって用量依存的に誘導され、この誘導はAcrAB非存在下で増強される。YbhSとYbhRは、転写レベルおよび生理学的レベルの双方で機能的な非対称性を示す。すなわち、YbhRはTC排出を支えるコアTMDサブユニットとして機能する一方、YbhSは試験条件下においてテトラサイクリン排出において非必須的な役割を果たす。YbhSと比較してYbhRの配列保存性が一貫して高いことは、その支配的な生理学的役割と整合しているが、この傾向は統計的有意差に達しなかった。特筆すべきは、本研究がNBDが融合したグラム陰性トランスポーターにおけるTMDの機能的非対称性を実証したことであり、NBDの非対称性が融合したYbhFポリペプチドに組み込まれている場合であっても、TMDの特化はNBD構造とは独立して起こり得ることを示している。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "目的 Escherichia coliのABC（ATP結合カセット）トランスポーターYbhFSRは、特異なサブユニット構造を有する。すなわち、2つのヌクレオチド結合ドメイン（NBD）が単一のポリペプチドYbhF内に融合している一方で、膜貫通ドメイン（TMD）は2つの独立したサブユニットYbhSおよびYbhRによって構成されている。本研究では、テトラサイクリン（TC）排出におけるYbhSとYbhRの機能的差異を調査し、TCストレス下におけるybhFSRオペロンの転写調節を特性評価することを目的とした。方法 λ-Red相同組換えにより、一連のE. coliノックアウト株（ΔybhF, ΔybhS, ΔybhR, ΔybhSR, ΔybhFSR）を作製した。野生型およびΔacrB背景において、TC濃度勾配下でのybhF、ybhS、およびybhRの転写応答をqRT-PCRを用いて解析した。4種類のテトラサイクリン（TC, OTC, CTC, DOX）に対する感受性は、ブロスマイクロダイリューション法およびディスク拡散法により測定した。Enterobacteriaceae属7属にわたる種間配列アライメントにより、YbhSとYbhRの進化的保存性を比較した。結果 テトラサイクリンはybhF、ybhS、およびybhRの用量依存的な転写亢進を誘導し、試験したすべての濃度において、ybhRはybhSよりも強く誘導された。ΔacrB株ではybhRとybhSの間の転写ギャップが著しく拡大しており、誘導能に有意な乖離が認められた（TC 8 μg/mLにおいて、ybhRは23.8倍、ybhSは10.2倍）。ybhRの欠損により、4種類すべてのテトラサイクリン（TC, OTC, CTC, DOX）に対する感受性が著しく亢進したが、E. coli ΔybhS細胞では野生型と区別がつかないMIC（最小発育阻止濃度）値が示された。ΔacrB ΔybhF二重変異株のTC MICは0.125 μg/mLであり、ΔacrB単一変異株（0.25 μg/mL）および野生型株（1 μg/mL）よりも著しく低かった。Enterobacteriaceae属7属にわたる種間アライメントの結果、YbhRはYbhSよりも高い平均配列同一性を示した（96.20%対93.89%）。しかし、この差は統計的有意差に達しなかった（Wilcoxon符号付き順位検定, p = 0.0625; 対応のあるt検定, p = 0.75）。結論 ybhFSRオペロンの転写はTCによって用量依存的に誘導され、この誘導はAcrAB非存在下で増強される。YbhSとYbhRは、転写レベルおよび生理学的レベルの双方で機能的な非対称性を示す。すなわち、YbhRはTC排出を支えるコアTMDサブユニットとして機能する一方、YbhSは試験条件下においてテトラサイクリン排出において非必須的な役割を果たす。YbhSと比較してYbhRの配列保存性が一貫して高いことは、その支配的な生理学的役割と一致しているが、この傾向は統計的有意差に達しなかった。特筆すべきは、本研究がNBDが融合したグラム陰性トランスポーターにおけるTMDの機能的非対称性を実証したことであり、NBDの非対称性が融合YbhFポリペプチドに組み込まれている場合であっても、TMDの特化はNBD構造とは独立して起こり得ることを示している。"
   },
   {
     "id": "10.1128/jvi.01102-26",
@@ -175869,5 +175880,238 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "地球規模の環境ゲノミクスが明かす、未開拓の膨大な原生生物の多様性と分類学的盲点",
     "abstract_ja": "本研究において、著者らは生態系横断的に3万件以上のアセンブル済みメタゲノムを解析し、主要な新規未培養系統を含む潜在的な原生生物の多様性を明らかにするとともに、それらの生息環境や他の微生物との関連性を解明する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01874-26",
+    "title": "Biological characterization of the lytic <i>Pseudomonas aeruginosa</i> phage BUCT980 and its therapeutic efficacy in a murine lung infection model.",
+    "abstract": "Pseudomonas aeruginosa is an important opportunistic pathogen whose increasing multidrug resistance limits conventional antimicrobial treatment options and underscores the need for alternative antibacterial strategies. In this study, we isolated and systematically characterized a novel lytic phage, BUCT980, and evaluated its antibacterial activity and therapeutic potential. Transmission electron microscopy showed that BUCT980 is a myovirus. One-step growth analysis indicated an apparent latent period of approximately 60 min and a burst size of approximately 173 PFU per infected cell. The BUCT980 genome is 60,697 bp in length, and comparative genomic and phylogenetic analyses support its placement within the class Caudoviricetes. No known lysogeny-associated genes, virulence factors, or antibiotic resistance genes were identified by genomic analysis. In vitro, BUCT980 markedly suppressed the growth of P. aeruginosa PAO1 across the tested multiplicities of infections (MOIs) and inhibited biofilm formation. In 10-fold serial-dilution spot assays, BUCT980 formed clear plaques on 4 of 29 clinical isolates and produced visible inhibition in 13 additional isolates representing multiple sequence types. In a murine model of acute P. aeruginosa pneumonia, intranasal administration of BUCT980 significantly improved survival, reduced pulmonary bacterial burden, and alleviated lung injury. No overt histopathological abnormalities were observed in the liver or kidney during short-term observation. These findings support further evaluation of BUCT980 as a candidate therapeutic phage for acute P. aeruginosa lung infection.IMPORTANCEPseudomonas aeruginosa is a major cause of difficult-to-treat respiratory infections because of its antibiotic resistance and biofilm-forming capacity. Here, we characterized BUCT980, a lytic phage that suppressed P. aeruginosa growth, inhibited early biofilm formation, and showed activity against clinical isolates from multiple sequence-type backgrounds. Genomic screening identified no known lysogeny-associated genes, virulence factors, or antibiotic resistance genes. In a murine acute pneumonia model, intranasal BUCT980 treatment improved survival, reduced pulmonary bacterial burden, and alleviated lung injury. Bacterial regrowth during prolonged exposure and limited activity against established biofilms indicate that combination strategies may be needed for sustained treatment. These findings support further preclinical evaluation of BUCT980 for acute P. aeruginosa lung infection.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01874-26",
+    "date": "2026-10-22",
+    "authors": "Yu X, Chen J, Zhang W, Tong Y, Xie L, Li M, Yao M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910929",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910929",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 123,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.01874-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "433575b66aef4978f214c7a078572903d9bbb959d36a4cb48f48bc1394fc3b9d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:36:30.020754+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1b49740b25c1252a724e65012133fc4704bd4cbd12ba7b9c8ef3f34d274be40f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:36:30.020754+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "溶菌性<i>Pseudomonas aeruginosa</i>ファージBUCT980の生物学的特性解析およびマウス肺感染症モデルにおける治療効果",
+    "abstract_ja": "Pseudomonas aeruginosaは重要な日和見病原体であり、その多剤耐性の増大が従来の抗菌薬治療の選択肢を制限し、代替的な抗菌戦略の必要性を浮き彫りにしている。本研究では、新規溶菌ファージであるBUCT980を単離・系統的に特性解析し、その抗菌活性および治療的可能性を評価した。透過型電子顕微鏡観察により、BUCT980はミオウイルスであることが示された。ワンステップ増殖解析では、約60分の見かけ上の潜伏期間と、感染細胞1個あたり約173 PFUのバーストサイズが認められた。BUCT980のゲノム長は60,697 bpであり、比較ゲノム解析および系統解析により、Caudoviricetes綱に分類されることが支持された。ゲノム解析により、既知の溶原性関連遺伝子、病原性因子、または抗生物質耐性遺伝子は同定されなかった。in vitroにおいて、BUCT980は試験した多重感染量（MOI）にわたってP. aeruginosa PAO1の増殖を著しく抑制し、バイオフィルム形成を阻害した。10倍連続希釈スポットアッセイにおいて、BUCT980は29株の臨床分離株のうち4株で明瞭なプラークを形成し、さらに複数の配列型を代表する13株の分離株において可視的な阻害作用を示した。急性P. aeruginosa肺炎のマウスモデルにおいて、BUCT980の経鼻投与は生存率を有意に改善し、肺内細菌量を減少させ、肺損傷を軽減した。短期観察において、肝臓または腎臓に明らかな組織病理学的異常は認められなかった。これらの知見は、急性P. aeruginosa肺感染症に対する治療用ファージ候補としてのBUCT980のさらなる評価を支持するものである。重要性Pseudomonas aeruginosaは、その抗生物質耐性とバイオフィルム形成能により、治療困難な呼吸器感染症の主要な原因となっている。本研究では、P. aeruginosaの増殖を抑制し、初期のバイオフィルム形成を阻害し、かつ複数の配列型背景を持つ臨床分離株に対して活性を示した溶菌ファージであるBUCT980の特性解析を行った。ゲノムスクリーニングでは、既知の溶原性関連遺伝子、病原性因子、または抗生物質耐性遺伝子は同定されなかった。急性肺炎マウスモデルにおいて、BUCT980の経鼻投与は生存率を改善し、肺内細菌量を減少させ、肺損傷を軽減した。長期曝露時の細菌の再増殖および既存バイオフィルムに対する限定的な活性は、持続的な治療のために併用戦略が必要となる可能性を示唆している。これらの知見は、急性P. aeruginosa肺感染症に対するBUCT980のさらなる前臨床評価を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41586-026-11173-4",
+    "title": "Genetic variants shape single-cell chromatin accessibility and disease risk.",
+    "abstract": "Understanding how genetic variation shapes gene regulation at single-cell resolution is crucial for elucidating complex disease mechanisms1, but has been limited by the lack of large-scale single-cell multi-omics data2-4. Here we present single-cell assay for transposase-accessible chromatin with sequencing of 3.5 million peripheral blood mononuclear cells from 1,042 donors with matched whole-genome sequencing. Across 28 immune cell types, we tested 440,996 chromatin accessibility peaks and identified 243,225 chromatin accessibility quantitative trait loci (caQTLs) at 100,483 peaks, 60% of them cell-type specific. Rare variant analysis identified 38,161 associated peaks, with predicted transcription factor-binding disruption implicated at individual loci. Colocalization with expression QTLs (eQTLs) from single-cell RNA sequencing data (5.4 million peripheral blood mononuclear cells)5 defined 28,834 candidate cis-regulatory elements. Across genome-wide association studies for 16 diseases and 44 blood traits, caQTLs colocalized 4.5-22.6% more signals than eQTLs alone. Cell-type-specific and tissue-specific context, distal effects and multi-causal-variant models raised genome-wide association study-eQTL concordance from approximately 16% to approximately 65%. Cell state further modulates genetic effects, with 27% of over 200,000 caQTL-cell-state interactions lacking a main effect. At the inflammatory bowel disease risk gene ADCY7, accessibility effects varied with genotype and G protein-mediated pathway activity in CD4+ T cells. A graph neural network trained on both eQTL and caQTL layers inferred peak-gene links in unpaired multiome data with up to 17.2% higher accuracy than QTL-agnostic data, uncovering 128 additional transcription factor-target pairs (22% increase). Together, these results show that genetic variants shape chromatin accessibility in a cell-type-specific and cell-state-specific manner, influencing immune function and disease risk.",
+    "journal": "Nature",
+    "doi": "10.1038/s41586-026-11173-4",
+    "date": "2026-10-28",
+    "authors": "Xue A, Fan J, Dong OA, Huang HL, Chen L, Allen PC, Spenceley E, Sagi-Zsigmond E, Bowen B, Henry A, Cuomo ASE, Tanudisastro HA, Qiao Z, Dorans E, Ben-David E, Farh KK, Hu L, Liu YC, Neavin DR, Lee AS, Senabouth A, Bartie C, McCloy RA, Chin V, Zhou W, Price AL, de Lange KM, Figtree GA, Hewitt AW, MacArthur DG, Powell JE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951970",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951970",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1747,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41586-026-11173-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c0488af7fdcafaf986ecc74081b2a3e55972811d50a57c791a9cb9f9b398b1cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:36:30.020754+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e3daab5bf9f37f8f2774e1d18e196412945451b052b15f033fce0936f0fae6ec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:36:30.020754+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝的変異は、単一細胞クロマチンのアクセシビリティと疾患リスクを規定する。",
+    "abstract_ja": "遺伝的変異が単一細胞レベルで遺伝子調節をどのように形作るかを理解することは、複雑な疾患メカニズムの解明において極めて重要である1が、大規模な単一細胞マルチオミクスデータの不足により制限されてきた2-4。本研究では、マッチド全ゲノムシーケンシングを伴う1,042名のドナー由来の末梢血単核球350万個のシーケンシングを用いた、トランスポザーゼアクセス可能クロマチンの単一細胞アッセイについて報告する。28種類の免疫細胞種にわたり、440,996個のクロマチンアクセシビリティピークを解析し、100,483個のピークにおいて243,225個のクロマチンアクセシビリティ量的形質遺伝子座（caQTL）を同定した。その60%は細胞種特異的であった。希少変異解析により38,161個の関連ピークが同定され、個々の遺伝子座において予測される転写因子結合の破綻が関与していた。単一細胞RNAシーケンシングデータ（末梢血単核球540万個）5の発現QTL（eQTL）との共局在により、28,834個の候補シス調節エレメントが定義された。16種類の疾患および44種類の血液形質を対象としたゲノムワイド関連解析において、caQTLはeQTL単独よりも4.5～22.6%多くのシグナルを共局在させた。細胞種特異的および組織特異的なコンテキスト、遠位効果、および多因果変異モデルにより、ゲノムワイド関連解析におけるeQTLの一致率は約16%から約65%へと向上した。細胞状態は遺伝的影響をさらに調節しており、20万件以上のcaQTL-細胞状態相互作用のうち27%に主効果が認められなかった。炎症性腸疾患リスク遺伝子ADCY7では、アクセシビリティへの影響が遺伝子型およびCD4+ T細胞におけるGタンパク質介在性経路活性によって異なっていた。eQTL層とcaQTL層の両方で学習させたグラフニューラルネットワークは、ペアなしマルチオームデータにおいてピーク遺伝子間のリンクを推定し、QTL非依存データよりも最大17.2%高い精度を示し、128組の追加的な転写因子-標的ペア（22%増加）を明らかにした。以上の結果を総合すると、遺伝的変異が細胞種特異的および細胞状態特異的な様式でクロマチンアクセシビリティを形成し、免疫機能および疾患リスクに影響を及ぼすことが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research support, non-u.s. gov't",
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1038/s41467-026-78361-8",
+    "title": "Ca<sup>2+</sup> signature gates responsiveness to exogenous auxin in Arabidopsis roots.",
+    "abstract": "Plants must continually balance growth with arrest, especially under stress. Auxin signaling acts as a central regulatory hub in this process, yet the mechanisms that dynamically tune auxin signaling in real time remain unknown. Here, we use the light-gated, Ca2+-permeable Channelrhodopsin 2 variant XXM2.0 to optogenetically impose defined Ca2+ signatures on Arabidopsis root cells. Repetitive light activation triggers cytosolic Ca2+ signals that in turn suppress membrane depolarization and Ca2+ transients triggered by exogenous auxin. Moreover, prolonged optogenetic Ca2+ stimulation affects auxin-responsive transcriptional reprogramming. As phenotypic output, reversible inhibition of root growth by suppressing cell division and elongation is observed. We further identify a candidate CaM7-CNGC14 module that likely mediates Ca2+-dependent gating of responsiveness to exogenous auxin as well as Ca2+-dependent root growth inhibition. Our study thus introduces a synthetic biology approach to decompose calcium-auxin crosstalk in plant cells, and demonstrates that optogenetically imposed cytosolic Ca2+ signals act as dynamic regulators of auxin susceptibility in roots.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-78361-8",
+    "date": "2026-11-03",
+    "authors": "Song H, Baudon A, Freund M, Randuch M, Pěnčík A, Novák O, He Z, Kaufmann K, Li N, Gilliham M, Friml J, Hedrich R, Huang S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42977750",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13731645",
+    "pmid": "42977750",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3006,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41467-026-78361-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2d2602156dd42d99f1df03244ae08ad425cf5cea65ba8d2abf53295a92946ed0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:36:30.020754+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a9643dd33904db1be5afb7190e400b02a114a1ed3cc83bbf17d9ccfd8ea83ad4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:36:30.020754+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シロイヌナズナ根におけるCa<sup>2+</sup>シグネチャゲートの外因性オーキシンに対する応答性。",
+    "abstract_ja": "植物は、特にストレス下において、成長と停止のバランスを絶えず維持しなければならない。オーキシンシグナル伝達はこの過程における中心的な調節ハブとして機能するが、オーキシンシグナル伝達をリアルタイムで動的に調整するメカニズムは依然として不明である。本研究では、光依存性かつCa2+透過性のチャネルロドプシン2変異体XXM2.0を用い、シロイヌナズナの根細胞に特定のCa2+シグネチャーを光遺伝的に付与した。反復的な光活性化は細胞質Ca2+シグナルを誘発し、それがひいては膜脱分極および外因性オーキシンによって誘発されるCa2+一過性応答を抑制する。さらに、持続的な光遺伝的Ca2+刺激は、オーキシン応答性の転写リプログラミングに影響を及ぼす。表現型の結果として、細胞分裂と伸長の抑制による根成長の可逆的な阻害が観察される。我々はさらに、外因性オーキシンに対する応答性のCa2+依存的なゲート制御、およびCa2+依存的な根成長阻害を媒介すると考えられるCaM7-CNGC14モジュールの候補を同定した。以上の研究により、本研究は植物細胞におけるカルシウム-オーキシン間のクロストークを解析するための合成生物学的アプローチを導入し、光遺伝的に付与された細胞質Ca2+シグナルが根におけるオーキシン感受性の動的調節因子として機能することを実証した。"
   }
 ]
