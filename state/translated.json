@@ -187116,5 +187116,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "塩害乾燥土壌由来の多ストレス耐性バチルス",
     "abstract_ja": "要旨 塩類集積、干ばつ、および高温は、乾燥土壌における微生物活性を著しく制限する。本研究では、Suaeda veraの根圏から単離したBacillus属菌の多ストレス耐性が、ストレス応答および植物成長促進遺伝子のゲノム構成と関連しているかどうかを検討した。モロッコ中部のSehb El Mesjouneにおける塩類集積地（16–32 dS/m）の根圏土壌から、150株の細菌分離株を単離した。これらの分離株のうち、65株が塩類集積（1.7–3.4 M NaCl）、干ばつ（10–20% PEG）、および高温（≥47°C）条件下の培養培地で生育したため、多ストレス耐性株に分類され、優占属はBacillus属（33%）であった。これらの分離株の中から、さらに解析を行うために5株のBacillus属菌株を選定した。全ゲノム配列解析により、KtrABCDトランスポーター、Na+/H+アンチポーター、opuABCD経路、およびストレスソーム感覚複合体を含む、複数の非生物的ストレス耐性機構を備えたゲノム構造が明らかになり、バイオフィルム形成のためのオペロン（epsA-O, tasA, bslA）が根への付着に関連している可能性が示された。比較オルソログ解析により、Sehb El Mesjoune株および塩類集積参照株B. halotolerans ZB201702に共通し、非塩類集積参照株B. velezensis FZB42には存在しない444個のオルソグループが検出された。このうち81個がストレス耐性遺伝子または植物成長促進遺伝子としてアノテーションされており、このパターンは環境フィルタリングを反映している可能性があるが、種レベルの系統的起源を排除することはできない。さらに、in vitroアッセイおよびSEMイメージングにより、これらの形質が機能的に発現していることが確認され、結果としてBacillus属菌株が小麦種子に付着した。これらの知見は、選定された5株のBacillus属菌株が、塩類集積乾燥土壌で栽培される作物の細菌接種剤として、今後の温室および圃場試験における有望な候補となることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "im",
+      "journal article"
+    ],
+    "id": "10.1016/j.cell.2026.10.019",
+    "title": "Multimodal single-cell epigenomic and 3D genome atlas of the human basal ganglia.",
+    "abstract": "The basal ganglia (BG) underlie motor control, reward processing, and many neurological and psychiatric disorders, yet cell-type-resolved epigenomic and 3D genome maps of the human BG remain limited. Here, we present a multimodal single-cell atlas of DNA methylation (261,331 nuclei) and 3D chromatin conformation (229,286 nuclei) from eight subregions, harmonized under the BG consensus taxonomy and integrated with matched data across multiple regulatory layers. We identify millions of differentially methylated regions across cell types, enriched for distinct transcription factor motifs, and link them to disease-associated heritability. We characterize the POU6F2+ STR D2 SMYD2-HTR7 spiny projection neuron (SPN) subtype, with concordant signatures across multiple modalities, and reveal region-specific methylation and contact gradients. Integrative gene regulatory networks (GRNs) predict cell-type-resolved enhancer-promoter interactions, nominating candidate regulatory mechanisms for Parkinson's disease (PD) risk variants at SNCA. Finally, multiplexed error-robust fluorescence in situ hybridization (MERFISH) profiling combined with cross-species Patch-seq identifies a neuronal subtype, STR FS PTHLH-PVALB GABA, with electrophysiological differences across the striatal matrix-striosome (MS) boundary.",
+    "journal": "Cell",
+    "doi": "10.1016/j.cell.2026.10.019",
+    "date": "2026-11-01",
+    "authors": "Ding W, Klein A, Báez-Becerra CT, Rink JA, Bartlett A, Wang R, Zeng Q, Castanon RG, Nery JR, Osgood E, Owens W, Petrella A, Chen C, Saldaña Acerbo A, Barcoma AS, Liu J, Russo KG, Knutson KW, Young CK, Willier JK, Barragan C, Arzavala J, Cho S, Altshul J, Chan D, Soma E, Luo J, Jain M, Velazquez S, Sundaram GV, Manning AC, Sanchez Y, Bikkina A, Fu Y, Komandur K, Doan E, Fu S, O'Connor C, Liem M, Marrin MV, Rose C, Alt SN, Berry J, Kern JC, Boone E, Tian W, Chen H, Xie Y, Wu Y, Hariharan M, Li K, Chang L, Johansen N, Zhang W, Zhao Z, Flores J, Tai CY, Olness J, Schenker-Ahmed N, Liu XP, Zhu Q, Kalmbach BE, Hodge RD, Bakken TE, Lein ES, Li D, Wang T, Xu X, Ren B, Behrens MM, Ecker JR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43020023",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43020023",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1230,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1016/j.cell.2026.10.019"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e819f1cc9c20b1e1dd15a184fe6745b92971b0384a15235d712dd35d11cc189",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:59:00.322599+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1021b0e0a3a0e2e06cc700fdb62b0f057122118c9eac62458e7ab553ce70a6df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:59:00.322599+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト基底核のマルチモーダル単一細胞エピゲノムおよび3次元ゲノムアトラス",
+    "abstract_ja": "大脳基底核（BG）は、運動制御、報酬処理、および多くの神経疾患や精神疾患の基盤となっているが、ヒトBGの細胞種分解能を有するエピゲノムおよび3次元ゲノムマップは依然として限られている。本研究では、BGのコンセンサス分類体系に基づいて整合させ、複数の調節層にわたる対応データと統合した、8つのサブ領域におけるDNAメチル化（261,331核）および3次元クロマチン立体構造（229,286核）のマルチモーダル単一細胞アトラスを提示する。我々は、細胞種間で数百万箇所の差異的メチル化領域を同定し、それらが固有の転写因子モチーフに富んでいることを明らかにするとともに、疾患関連の遺伝率との関連性を示した。また、複数のモダリティにわたって一致したシグネチャーを示すPOU6F2+ STR D2 SMYD2-HTR7棘突起ニューロン（SPN）サブタイプを特性評価し、領域特異的なメチル化および接触勾配を明らかにした。統合的遺伝子調節ネットワーク（GRN）は、細胞種分解能を有するエンハンサー-プロモーター相互作用を予測し、SNCAにおけるパーキンソン病（PD）リスク変異の候補調節機構を提示した。最後に、マルチプレックス誤差耐性蛍光in situハイブリダイゼーション（MERFISH）プロファイリングと種間Patch-seqを組み合わせることで、線条体マトリックス-ストリオソーム（MS）境界において電気生理学的な差異を示すニューロンサブタイプSTR FS PTHLH-PVALB GABAを同定した。"
+  },
+  {
+    "id": "10.1093/femsre/fuag059",
+    "title": "Engineering mRNA-Lipid nanoparticle (LNP) vaccines against multidrug resistant bacteria: current and future prospects",
+    "abstract": "AbstractThis review highlights the significant potential of mRNA-lipid nanoparticle (LNP) technology for application in bacterial vaccines, with a long-term goal to provide critical tools in controlling problematic microbial infections regardless of their antimicrobial resistance (AMR) profile. The current landscape of bacterial vaccine development, including methods for identification of candidate antigens, are discussed along with emerging design principles for LNP delivery systems. We focus on mRNA-LNP systems for delivery of bacterial vaccine antigens in large part due to their extensive clinical validation, compatibility with reverse vaccinology, and growing prominence in modern vaccinology. Attention is also given to emerging opportunities to develop effective tools to combat severe infections, particularly those caused by AMR bacterial infections. Specific advantages and challenges of RNA-based vaccine platforms and LNP delivery systems compared to other vaccine modalities including strategies are highlighted, with a focus on particular strengths in conserved antigen identification via genome sequencing and recent advances in optimizing LNP composition for induction of strongly protective immunity for vaccine delivery. We argue that mRNA-LNP technology combined with reverse vaccinology approaches has the potential to improve and accelerate bacterial vaccine development, particularly for broadly protective immunity less dependent on bacterial strain surface composition and which are entirely dependent on host immunity, making them agnostic to the issue of antimicrobial resistance.",
+    "journal": "FEMS Microbiology Reviews",
+    "doi": "10.1093/femsre/fuag059",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuag059/9045760?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4379,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/femsre/fuag059"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a388f4809a434f9be753765487d08874a3a27ef6168517546347f7270825358e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:59:00.322599+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "122d25ead0347aaf676a639aa75a4e9bf30708698dcedf10e99b7d98733cf43f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:59:00.322599+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多剤耐性菌に対するmRNA-脂質ナノ粒子（LNP）ワクチンの開発：現状と今後の展望",
+    "abstract_ja": "要旨 本総説では、細菌ワクチンへの応用におけるmRNA-脂質ナノ粒子（LNP）技術の大きな可能性を強調し、薬剤耐性（AMR）プロファイルに関わらず、問題となる微生物感染症を制御するための重要なツールを提供することを長期的な目標とする。候補抗原の同定手法を含む細菌ワクチン開発の現状について、LNPデリバリーシステムの新たな設計原理とともに論じる。細菌ワクチン抗原のデリバリーにおけるmRNA-LNPシステムに焦点を当てるのは、主に、広範な臨床検証、リバースワクチン学との親和性、および現代のワクチン学における重要性の高まりによるものである。また、重症感染症、特にAMR細菌感染症に起因するものに対抗するための効果的なツールを開発する新たな機会についても言及する。戦略を含む他のワクチンモダリティと比較した、RNAベースのワクチンプラットフォームおよびLNPデリバリーシステムの具体的な利点と課題を浮き彫りにし、特にゲノムシーケンシングによる保存抗原の同定における強みや、ワクチンデリバリーのための強力な防御免疫誘導に向けたLNP組成の最適化における最近の進展に焦点を当てる。我々は、mRNA-LNP技術とリバースワクチン学のアプローチを組み合わせることで、細菌ワクチンの開発を改善・加速させる可能性があると主張する。特に、細菌株の表面組成への依存度が低く、宿主免疫に完全に依存する広範な防御免疫を実現することで、薬剤耐性の問題に左右されないワクチンの開発が可能になる。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1975078",
+    "title": "RiPPs in functional laboratory medicine: translational opportunities and class III lanthipeptides as a comparative case study",
+    "abstract": "Ribosomally synthesized and post-translationally modified peptides (RiPPs) are genetically encoded natural products that undergo diverse enzymatic modifications to generate structurally constrained molecules with broad biological activities and substantial engineering potential. Their defined biosynthetic origins, target-recognition properties, structural stability, and genetic encodability make RiPPs attractive molecular resources for both natural product research and emerging function-oriented applications in laboratory medicine. In this review, we summarize the biosynthetic logic and structural diversity of RiPPs, with particular emphasis on class III lanthipeptides as a representative and underexplored subgroup of structural and biosynthetic innovation. We curate 19 structurally characterized and experimentally validated class III lanthipeptides and compare their taxonomic origins, biosynthetic gene cluster organization, precursor peptide features, LanKC-mediated modifications, ring topologies, maturation routes, and reported biological functions. The analysis reveals a strong representation of Actinobacteria, a predominance of Lab-containing architectures, considerable diversity in maturation strategies, and a substantial proportion of functionally unresolved members. Beyond this comparative analysis, we discuss the emerging potential of RiPPs in mechanism-informed antimicrobial susceptibility testing, functional molecular diagnostics, microbiome functional-state assessment, engineered molecular probes, and precision anti-infective strategies. Because most of these applications remain exploratory or preclinical, we further propose a six-level evidence framework that distinguishes BGC presence, transcriptional activity, mature product detection, target engagement, biological activity, and clinical validation. By integrating the diversity of class III lanthipeptides with the broader translational potential of RiPPs, this review provides a framework for linking biosynthetic information, structural innovation, molecular function, and future applications in functional laboratory medicine.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1975078",
+    "date": "2026-11-13",
+    "authors": "Ling Zhang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1975078",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4388,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1975078"
+    ],
+    "translation": {
+      "title": {
+        "hash": "deb646ab605352ae7833fae043436cc266ae7c8441bbb1d4fcd54c8bd5621673",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:59:00.322599+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "740f32ca3d8f8fdbb933ce8f4f8fd071d43846df982a010d41c3540204fb7214",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:59:00.322599+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "機能性臨床検査医学におけるRiPPs：トランスレーショナルな可能性と比較事例としてのクラスIIIランティペプチド",
+    "abstract_ja": "リボソームで合成され、翻訳後に修飾を受けるペプチド（RiPPs）は、遺伝的にコードされた天然物であり、多様な酵素修飾を受けることで、広範な生物活性と大きな工学的可能性を有する構造的に制約された分子へと変換される。その明確な生合成起源、標的認識特性、構造安定性、および遺伝的コード化可能性により、RiPPsは天然物研究および臨床検査医学における新たな機能指向型応用の双方において、魅力的な分子資源となっている。本総説では、RiPPsの生合成ロジックと構造的多様性について概説し、特に構造的・生合成的革新の代表的かつ十分に探索されていないサブグループであるクラスIIIランティペプチドに焦点を当てる。我々は、構造解析および実験的検証が行われた19種類のクラスIIIランティペプチドを収集し、それらの分類学的起源、生合成遺伝子クラスターの構成、前駆体ペプチドの特徴、LanKC介在性修飾、環トポロジー、成熟経路、および報告されている生物学的機能を比較する。この解析により、放線菌門の顕著な代表性、Lab含有構造の優位性、成熟戦略における相当な多様性、および機能的に未解明なメンバーの相当な割合が明らかになった。こうした比較解析に加え、メカニズムに基づいた抗菌薬感受性試験、機能的分子診断、マイクロバイオームの機能状態評価、工学的分子プローブ、および精密抗感染症戦略におけるRiPPsの新たな可能性について論じる。これらの応用例の多くは依然として探索段階または前臨床段階にあるため、我々はさらに、BGCの存在、転写活性、成熟産物の検出、標的結合、生物活性、および臨床検証を区別する6段階のエビデンスフレームワークを提案する。クラスIIIランティペプチドの多様性とRiPPsのより広範なトランスレーショナルポテンシャルを統合することで、本総説は、生合成情報、構造的革新、分子機能、および機能的臨床検査医学における将来の応用を結びつける枠組みを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/iai.00287-26",
+    "title": "Beyond association: pathogenesis models reveal ecological drivers of vaginal dysbiosis.",
+    "abstract": "Despite its critical importance to health, our understanding of the vaginal microbiome lags far behind other mucosal sites, reflecting both the distinct biology of the human vaginal microenvironment and the historic neglect of women's reproductive health in biomedical research. Recent investment in this area, coupled with the widespread use of high-throughput omics technologies, has greatly expanded our understanding of vaginal microbiota states and their associations with health and disease. However, associative studies that correlate community composition with clinical outcomes are limited in their ability to define causal, modifiable host-microbe relationships that support a protective microbiota. Consequently, broad probiotic strategies based on descriptive findings show limited success in restoring lasting homeostasis in the female reproductive tract. Murine infection models provide tractable systems for identifying evolutionarily conserved physiological processes that influence microbial growth. Here, we highlight studies across pathogenesis fields that leverage murine models to identify ecological factors controlling infection susceptibility in the vaginal microenvironment. Rather than treating pathogen colonization as an endpoint alone, we emphasize how genetically tractable microbes reveal the resources, barriers, and immune responses mediating microbial persistence, ascension, and inflammation. Where possible, we integrate these findings with clinical observations to assess their relevance to human reproductive health. Together, these studies illustrate how imperfect but tractable models reveal causal drivers of vaginal dysbiosis in women and help ground large-scale associative studies in a more clinically relevant way.",
+    "journal": "Infection and Immunity",
+    "doi": "10.1128/iai.00287-26",
+    "date": "2026-11-09",
+    "authors": "Radlinski LC, Bäumler AJ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43002096",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "43002096",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1083,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/iai.00287-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "82f290185f05340e458a1c49a4bd0057ba7a1831e9d0e3a3918ed7d7d53e7443",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:59:00.322599+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "26b4a2bbfe495772caf27831ba45ccc7affe1c8b311cba8a06fb0345177ffd11",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:59:00.322599+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "関連性を超えて：病態形成モデルが示す腟内細菌叢異常の生態学的駆動要因。",
+    "abstract_ja": "健康における極めて重要な意義にもかかわらず、腟内マイクロバイオームに関する理解は他の粘膜部位に比べて大幅に遅れており、これはヒト腟内微小環境の特異な生物学的特性と、生物医学研究において女性の生殖健康が歴史的に軽視されてきたことの両方を反映している。近年のこの分野への投資と、ハイスループットオミクス技術の広範な普及により、腟内微生物叢の状態およびそれらと健康・疾患との関連性に関する理解は大きく進展した。しかし、微生物叢の組成と臨床転帰を相関させる関連解析研究では、保護的な微生物叢を支える因果的かつ修飾可能な宿主・微生物間関係を定義する能力が限られている。その結果、記述的な知見に基づく広範なプロバイオティクス戦略は、女性生殖器系における持続的な恒常性の回復において限定的な成果にとどまっている。マウス感染モデルは、微生物の増殖に影響を与える進化的に保存された生理学的プロセスを同定するための扱いやすい系を提供する。本稿では、病原性研究の各分野において、マウスモデルを活用して腟内微小環境における感染感受性を制御する生態学的要因を同定した研究を紹介する。病原体の定着を単なるエンドポイントとして扱うのではなく、遺伝的に扱いやすい微生物が、微生物の持続、増殖、および炎症を媒介するリソース、障壁、および免疫応答をどのように明らかにするかを強調する。可能な場合は、これらの知見を臨床観察と統合し、ヒトの生殖健康への関連性を評価する。これらの研究を総合すると、不完全ながらも扱いやすいモデルが、女性における腟内ディスバイオーシスの因果的駆動因子をいかに明らかにし、大規模な関連解析研究をより臨床的に意義のある形で基礎づけるのに役立つかが示される。"
   }
 ]
