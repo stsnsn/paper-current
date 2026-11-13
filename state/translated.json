@@ -87507,21 +87507,21 @@
   {
     "id": "10.64898/2026.11.05.764546",
     "title": "Starve, stress, and mate: Activation of the CCAAT-Binding complex overrides sterility of mating-type heterozygous Candida albicans",
-    "abstract": "Sexual reproduction in the human fungal pathogen Candida albicans is typically restricted by a strict genetic lock: the a1-2 repressor present in standard mating-type heterozygous (MTLa/) diploid strains, which actively represses mating competency. While severe environmental pressures are known to influence fungal development, the molecular mechanisms that allow cells to override this genetic sterility block remain poorly understood. Here, we identify the highly conserved CCAAT-binding complex (CBC) as the critical developmental hub that integrates environmental stress to unlock mating in heterozygous diploids. By combining proteomic mapping (ChIP-SICAP) and transcriptomics (RNA-Seq) to define the regulatory network of the core CBC subunit Hap5, we demonstrate that CBC hyperactivation completely overrides the a1-2 repressor. This activation triggers a robust white-to-opaque phenotypic switch and initiates a mating-competence program in MTLa/ strains genetically locked in a sterile state. Crucially, this developmental transition is antagonized by the iron-regulatory partner Hap43, but is strictly dependent on physical interaction at the chromatin level with Cap1, the master regulator of the oxidative stress response. Our findings reveal that the CBC and Cap1 couple metabolic starvation (glucose and iron limitation) and oxidative stress to a core reproductive program, providing a mechanistic basis for how C. albicans bypasses genetic constraints on sexual reproduction to generate genetic diversity under hostile host conditions.",
+    "abstract": "Sexual reproduction in the human fungal pathogen Candida albicans is typically restricted by a strict genetic lock: the a1-α2 repressor present in standard mating-type heterozygous (MTLa/α) diploid strains, which actively represses mating competency. While severe environmental pressures are known to influence fungal development, the molecular mechanisms that allow cells to override this genetic sterility block remain poorly understood. Here, we identify the highly conserved CCAAT-binding complex (CBC) as the critical developmental hub that integrates environmental stress to unlock mating in heterozygous diploids. By combining proteomic mapping (ChIP-SICAP) and transcriptomics (RNA-Seq) to define the regulatory network of the core CBC subunit Hap5, we demonstrate that CBC hyperactivation completely overrides the a1-α2 repressor. This activation triggers a robust white-to-opaque phenotypic switch and initiates a mating-competence program in MTLa/α strains genetically locked in a sterile state. Crucially, this developmental transition is antagonized by the iron-regulatory partner Hap43, but is strictly dependent on physical interaction at the chromatin level with Cap1, the master regulator of the oxidative stress response. Our findings reveal that the CBC and Cap1 couple metabolic starvation (glucose and iron limitation) and oxidative stress to a core reproductive program, providing a mechanistic basis for how C. albicans bypasses genetic constraints on sexual reproduction to generate genetic diversity under hostile host conditions.",
     "journal": "bioRxiv",
     "doi": "10.64898/2026.11.05.764546",
     "date": "2026-11-06",
-    "authors": "van Wijlick, L.; Martinez de San Vicente, K.; Sertour, N.; Rai, L.; LeibundGut-Landmann, S.; Bachellier-Bassi, S.; d'Enfert, C.",
+    "authors": "van Wijlick L, Martinez de San Vicente K, Sertour N, Rai L, LeibundGut-Landmann S, Bachellier-Bassi S, d'Enfert C.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764546v1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/PPR/PPR1361315",
+    "abstract_source": "Europe PMC",
     "preprint": true,
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "Candida",
         "fungal"
@@ -87538,6 +87538,7 @@
       ]
     },
     "sources": [
+      "Europe PMC topics",
       "bioRxiv",
       "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
     ],
@@ -87548,6 +87549,22 @@
       "10.64898/2026.11.05.764546"
     ],
     "collected_date": "2026-11-07",
+    "collection_order": 1481,
+    "collected_at": "2026-11-07T00:00:00+09:00",
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
     "translation": {
       "title": {
         "hash": "3dab8e5dcc4c3efc40bb4902b31e31e58baa38491d71b31ae4d407e466f1dd20",
@@ -87556,16 +87573,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "d820c79c2a8e7db3cceed475ca1522b94c2ea7ca7103f14a6c9645d0a66f8a0d",
+        "hash": "8e7507b479611fd1f39bb9d55d0b6138a910113356ff0c8c302e405c9b1df9b9",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-07T06:09:28.333518+00:00",
+        "date": "2026-11-13T23:36:37.471608+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "飢餓、ストレス、そして交配：CCAAT結合複合体の活性化による交配型ヘテロ接合体Candida albicansの不稔性の解除",
-    "abstract_ja": "ヒト真菌病原体Candida albicansにおける有性生殖は、通常、厳格な遺伝的ロックによって制限されている。すなわち、標準的な交配型ヘテロ接合体（MTLa/）二倍体株に存在するa1-2リプレッサーが、交配能を能動的に抑制しているのである。過酷な環境圧が真菌の発生に影響を及ぼすことは知られているが、細胞がこの遺伝的不稔ブロックを克服することを可能にする分子メカニズムについては、依然として十分に解明されていない。本研究では、高度に保存されたCCAAT結合複合体（CBC）を、環境ストレスを統合してヘテロ接合体二倍体の交配を可能とする重要な発生ハブとして同定した。プロテオームマッピング（ChIP-SICAP）とトランスクリプトミクス（RNA-Seq）を組み合わせて、コアCBCサブユニットHap5の調節ネットワークを定義することにより、CBCの過剰活性化がa1-2リプレッサーを完全に無効化することを実証した。この活性化は、強固な白色から不透明への表現型スイッチを誘発し、遺伝的に不稔状態にロックされたMTLa/株において交配能プログラムを開始させる。極めて重要な点として、この発生遷移は鉄調節パートナーであるHap43によって拮抗されるが、酸化ストレス応答のマスターレギュレーターであるCap1とのクロマチンレベルでの物理的相互作用に厳密に依存している。我々の知見は、CBCとCap1が代謝飢餓（グルコースおよび鉄の制限）と酸化ストレスをコア生殖プログラムに結びつけることを明らかにしており、C. albicansが過酷な宿主条件下で遺伝的多様性を生み出すために、有性生殖に関する遺伝的制約をどのように回避しているかというメカニズム上の根拠を提供するものである。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "ヒト真菌病原体Candida albicansにおける有性生殖は、通常、厳格な遺伝的ロックによって制限されている。すなわち、標準的な交配型ヘテロ接合体（MTLa/α）二倍体株に存在するa1-α2リプレッサーが、交配能を能動的に抑制している。過酷な環境圧が真菌の発生に影響を及ぼすことは知られているが、細胞がこの遺伝的不稔ブロックを克服することを可能にする分子メカニズムについては、依然として十分に解明されていない。本研究では、高度に保存されたCCAAT結合複合体（CBC）を、環境ストレスを統合してヘテロ接合体二倍体の交配を可能とする重要な発生ハブとして同定した。プロテオームマッピング（ChIP-SICAP）とトランスクリプトミクス（RNA-Seq）を組み合わせて、コアCBCサブユニットHap5の調節ネットワークを定義することにより、CBCの過剰活性化がa1-α2リプレッサーを完全に無効化することを実証した。この活性化は、強固な白色から不透明への表現型スイッチを誘発し、遺伝的に不稔状態にロックされたMTLa/α株において交配能プログラムを開始させる。極めて重要な点として、この発生遷移は鉄調節パートナーであるHap43によって拮抗されるが、酸化ストレス応答のマスターレギュレーターであるCap1とのクロマチンレベルでの物理的相互作用に厳密に依存している。我々の知見は、CBCとCap1が代謝飢餓（グルコースおよび鉄の制限）と酸化ストレスをコア生殖プログラムに結びつけることを明らかにしており、C. albicansが過酷な宿主条件下で遺伝的多様性を生み出すために、有性生殖に関する遺伝的制約をどのように回避しているかというメカニズム上の根拠を提供するものである。"
   },
   {
     "id": "10.1093/bioinformatics/btag810",
@@ -95663,31 +95679,34 @@
   },
   {
     "id": "10.64898/2026.11.04.764143",
-    "title": "Genomic analysis of the Streptococcus anginosus group; taxonomic implications, evolutionary insights and clinical considerations",
-    "abstract": "Background: The Streptococcus anginosus group (SAG) (S. anginosus, S. intermedius, and S. constellatus) causes serious, potentially life-threatening, invasive infections, often in otherwise healthy individuals. However, the group's diversity is still poorly understood, and with it, the ability to identify prognostic markers of severe disease. Methods: Long-read sequencing produced closed genomes for 29 isolates from 25 patients hospitalised primarily for invasive SAG infections, and 21 isolates from 20 non-hospitalised controls. Genomes were classified with GTDB-Tk and combined with 211 reference genomes. After dereplication, 207 SAG genomes (38 isolate, 169 reference) representing 206 strains were analysed using: GTDB classification, average nucleotide identity, multi-marker and core-genome SNP phylogenies, recombination-aware analyses, mobilome, CAZyme and gapseq metabolic profiling, and lineage-aware genome-wide association testing for invasive phenotype. Results: Agreement between GTDB-Tk and MALDI-TOF taxonomic classifications was low (42.8%), including two S. massiliensis cases mis-identified by MALDI-TOF as SAG. S. anginosus resolved into four taxa (S. anginosus, S. hominis, S. whileyi and S. vaginalis). Phylogenies based on core genome single-nucleotide polymorphisms resolved these species into distinct clades, whereas 16S rRNA gene and multilocus sequence analysis phylogenies did not. The four ex-S. anginosus taxa showed a gradient of genomic cohesion, with S. vaginalis being near-clonal, in contrast to S. anginosus, which shared high levels of sequence ancestry with other neighbouring taxa. Carbohydrate utilisation was strongly lineage-associated, as was propensity for invasive disease. A ~15Kbp glycosaminoglycan utilisation locus was found in the three taxa of highest disease severity propensity (S. intermedius, S. constellatus, S. whileyi) which predicts a direct host glycosaminoglycan feeding mechanism that may contribute to invasive disease. No single functional feature, gene or core-genome SNP was associated with invasiveness however after lineage-adjustment. Combined feature analysis suggests S. vaginalis has undergone a niche restriction and has evolved for a primary existence in the female urogenital tract. Conclusions: Under-reported species may be mis-diagnosed as SAG invasive infections. SAG is more diverse than its current three-species definition, with the conventional S. anginosus species proposed to be classed into a complex of four distinct taxa. Invasive capacity appears to be an emergent system-level property rather than from individual features.",
+    "title": "Genomic analysis of the  Streptococcus anginosus  group; taxonomic implications, evolutionary insights and clinical considerations",
+    "abstract": "Background:  The Streptococcus anginosus group (SAG) (S. anginosus, S. intermedius, and S. constellatus) causes serious, potentially life-threatening, invasive infections, often in otherwise healthy individuals. However, the group's diversity is still poorly understood, and with it, the ability to identify prognostic markers of severe disease.  Methods: : Long-read sequencing produced closed genomes for 29 isolates from 25 patients hospitalised primarily for invasive SAG infections, and 21 isolates from 20 non-hospitalised controls. Genomes were classified with GTDB-Tk and combined with 211 reference genomes. After dereplication, 207 SAG genomes (38 isolate, 169 reference) representing 206 strains were analysed using: GTDB classification, average nucleotide identity, multi-marker and core-genome SNP phylogenies, recombination-aware analyses, mobilome, CAZyme and gapseq metabolic profiling, and lineage-aware genome-wide association testing for invasive phenotype.  Results: : Agreement between GTDB-Tk and MALDI-TOF taxonomic classifications was low (42.8%), including two S. massiliensis cases mis-identified by MALDI-TOF as SAG. S. anginosus resolved into four taxa (S. anginosus, S. hominis, S. whileyi and S. vaginalis). Phylogenies based on core genome single-nucleotide polymorphisms resolved these species into distinct clades, whereas 16S rRNA gene and multilocus sequence analysis phylogenies did not. The four ex-S. anginosus taxa showed a gradient of genomic cohesion, with S. vaginalis being near-clonal, in contrast to S. anginosus, which shared high levels of sequence ancestry with other neighbouring taxa. Carbohydrate utilisation was strongly lineage-associated, as was propensity for invasive disease. A ~15Kbp glycosaminoglycan utilisation locus was found in the three taxa of highest disease severity propensity (S. intermedius, S. constellatus, S. whileyi) which predicts a direct host glycosaminoglycan feeding mechanism that may contribute to invasive disease. No single functional feature, gene or core-genome SNP was associated with invasiveness however after lineage-adjustment. Combined feature analysis suggests S. vaginalis has undergone a niche restriction and has evolved for a primary existence in the female urogenital tract.  Conclusions: : Under-reported species may be mis-diagnosed as SAG invasive infections. SAG is more diverse than its current three-species definition, with the conventional S. anginosus species proposed to be classed into a complex of four distinct taxa. Invasive capacity appears to be an emergent system-level property rather than from individual features.",
     "journal": "bioRxiv",
     "doi": "10.64898/2026.11.04.764143",
     "date": "2026-11-06",
-    "authors": "Coleman, A.; Liaw, J.; Maresco-Pennisi, D.; Deehan, R.; Harris, P. N. A.; Cervin, A.; Edkins, O.; Zaugg, J.; Bialasiewicz, S.",
+    "authors": "Coleman A, Liaw J, Maresco-Pennisi D, Deehan R, Harris PN, Cervin A, Edkins O, Zaugg J, Bialasiewicz S.",
     "tags": [
       "微生物ゲノミクス",
       "微生物進化"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764143v1",
-    "abstract_source": "rss",
+    "source_url": "https://europepmc.org/article/PPR/PPR1360928",
+    "abstract_source": "Europe PMC",
     "preprint": true,
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
-        "16s rrna"
+        "16s rrna",
+        "average nucleotide identity"
       ],
       "context": {
         "marine": [],
         "genomics": [
-          "genom",
           "evolution",
+          "genom",
+          "genome",
+          "genomic",
           "phylogen"
         ],
         "evolution": [
@@ -95704,6 +95723,8 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC genome methods",
       "bioRxiv",
       "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
     ],
@@ -95713,24 +95734,42 @@
     "related_dois": [
       "10.64898/2026.11.04.764143"
     ],
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
     "translation": {
       "title": {
-        "hash": "1d1aee792672dd2789b138c3420846ae8cdb4b3795f975f3839060bdadfc2b6f",
+        "hash": "15c5532d6f727d4bc33d567d4f6ab0ad0be571a6e2c12f33e36c01218efc5b3e",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T07:14:56.488716+00:00",
+        "date": "2026-11-13T23:36:37.471608+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "2062b36d6f14e6ff4874e284cc55c2de913dccc390293d8b215bd1f612276ef3",
+        "hash": "162faec43b3b6210c09e3111cbe2d6f81dd79bfe64657c32d39db30c9ed677c4",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T07:14:56.488716+00:00",
+        "date": "2026-11-13T23:36:37.471608+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Streptococcus anginosus群のゲノム解析：分類学的意義、進化的知見および臨床的考察",
-    "abstract_ja": "背景：Streptococcus anginosus群（SAG）（S. anginosus、S. intermedius、およびS. constellatus）は、通常は健康な個人においても、生命を脅かす可能性のある重篤な侵襲性感染症を引き起こす。しかし、本群の多様性は依然として十分に解明されておらず、それに伴い、重症疾患の予後マーカーを同定する能力も不十分である。方法：ロングリードシーケンシングにより、主に侵襲性SAG感染症で入院した患者25例から29株、および非入院対照群20例から21株のクローズドゲノムを作製した。ゲノムをGTDB-Tkで分類し、211のリファレンスゲノムと組み合わせた。デレプリケーション後、206株を代表する207のSAGゲノム（分離株38株、リファレンス169株）を、GTDB分類、平均ヌクレオチド同一性、マルチマーカーおよびコアゲノムSNP系統樹、組換えを考慮した解析、モビローム、CAZymeおよびgapseq代謝プロファイリング、ならびに侵襲性表現型に関する系統を考慮したゲノムワイド関連解析を用いて解析した。結果：GTDB-TkとMALDI-TOFの分類学的分類の一致率は低く（42.8%）、これにはMALDI-TOFによってSAGと誤同定されたS. massiliensisの2例が含まれていた。S. anginosusは4つの分類群（S. anginosus、S. hominis、S. whileyi、およびS. vaginalis）に分離された。コアゲノムの一塩基多型に基づく系統樹では、これらの種は明確なクレードに分離されたが、16S rRNA遺伝子およびマルチローカス配列解析による系統樹では分離されなかった。旧S. anginosusの4分類群はゲノム凝集性に勾配を示し、S. vaginalisはほぼクローナルであったのに対し、S. anginosusは他の隣接分類群と高度な配列祖先性を共有していた。糖質利用能は系統と強く関連しており、侵襲性疾患への傾向も同様であった。疾患重症度の傾向が最も高い3つの分類群（S. intermedius、S. constellatus、S. whileyi）において、約15Kbpのグリコサミノグリカン利用遺伝子座が発見され、これは侵襲性疾患に寄与し得る宿主由来の直接的なグリコサミノグリカン摂食機構を示唆している。しかし、系統調整後は、単一の機能的特徴、遺伝子、またはコアゲノムSNPが侵襲性と関連することはなかった。複合的特徴解析により、S. vaginalisはニッチ制限を受け、主に雌の泌尿生殖器系に存在するように進化したことが示唆された。結論：報告数の少ない種は、SAG侵襲性感染症と誤診される可能性がある。SAGは現在の3種の定義よりも多様であり、従来のS. anginosus種は4つの異なる分類群からなる複合体に分類されることが提案される。侵襲能は、個々の特徴によるものではなく、創発的なシステムレベルの特性であると考えられる。",
-    "discovery": []
+    "abstract_ja": "背景：Streptococcus anginosus群（SAG）（S. anginosus、S. intermedius、およびS. constellatus）は、通常は健康な個人においても、生命を脅かす可能性のある重篤な侵襲性感染症を引き起こす。しかし、本群の多様性は依然として十分に解明されておらず、それに伴い、重症疾患の予後マーカーを同定する能力も不十分である。方法：ロングリードシーケンシングにより、主に侵襲性SAG感染症で入院した患者25例から29株、および非入院対照群20例から21株のクローズドゲノムを作製した。ゲノムをGTDB-Tkで分類し、211のリファレンスゲノムと組み合わせた。デレプリケーション後、206株を代表する207のSAGゲノム（分離株38株、リファレンス169株）を、GTDB分類、平均ヌクレオチド同一性、マルチマーカーおよびコアゲノムSNP系統樹、組換えを考慮した解析、モビローム、CAZymeおよびgapseq代謝プロファイリング、ならびに侵襲性表現型に関する系統を考慮したゲノムワイド関連解析を用いて解析した。結果：GTDB-TkとMALDI-TOFの分類学的分類の一致率は低く（42.8%）、これにはMALDI-TOFによってSAGと誤同定されたS. massiliensisの2例が含まれていた。S. anginosusは4つの分類群（S. anginosus、S. hominis、S. whileyi、およびS. vaginalis）に分離された。コアゲノムの一塩基多型に基づく系統樹では、これらの種は明確なクレードに分離されたが、16S rRNA遺伝子およびマルチローカス配列解析による系統樹では分離されなかった。旧S. anginosusの4つの分類群はゲノム凝集性に勾配を示し、S. vaginalisはほぼクローナルであったのに対し、S. anginosusは他の隣接分類群と高度な配列祖先性を共有していた。炭水化物利用能は系統と強く関連しており、侵襲性疾患への傾向も同様であった。疾患重症度の傾向が最も高い3つの分類群（S. intermedius、S. constellatus、S. whileyi）において、約15Kbpのグリコサミノグリカン利用遺伝子座が発見され、これは侵襲性疾患に寄与し得る宿主の直接的なグリコサミノグリカン摂食機構を示唆している。しかし、系統調整後は、単一の機能的特徴、遺伝子、またはコアゲノムSNPが侵襲性と関連することはなかった。複合的特徴解析により、S. vaginalisはニッチ制限を受け、主に雌の泌尿生殖器系に存在するように進化したことが示唆された。結論：報告例の少ない種は、SAG侵襲性感染症と誤診される可能性がある。SAGは現在の3種の定義よりも多様であり、従来のS. anginosus種は4つの異なる分類群からなる複合体に分類されることが提案されている。侵襲能は、個々の特徴によるものではなく、創発的なシステムレベルの特性であると考えられる。"
   },
   {
     "id": "10.64898/2026.11.05.764704",
@@ -197376,5 +197415,152 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "細菌共培養における相補的経路の共役により、パラセタモール分解時の4-アミノフェノール除去が可能となる",
     "abstract_ja": "医薬品の生分解により、親化合物が除去された後も残留する潜在的に毒性のある代謝物が生成されることがあり、水圏環境にさらなるリスクをもたらす。微生物共培養は、相補的な分解経路を組み合わせることで、医薬品とその有害な変換産物の両方を除去するという、相補的な代謝能を統合し、この課題に対処するための有望な戦略となる。本研究では、パラセタモール分解菌であるDelftia P1とMicrobacterium lacusを組み合わせた2種共培養を検討し、その後の4-AP除去の可能性を検証した。Delftia P1はパラセタモールを効率的に分解したが、4-APをデッドエンド代謝物として蓄積した。M. lacusは、4-AP変換に関与するモノオキシゲナーゼ遺伝子であるsadBのホモログをゲノムに持つため、この代謝上の制限を補う菌として選定された。これら2株の相対存在量は4-AP除去に強く影響し、Delftia P1:M. lacusの細胞密度比が1:100（OD600nm比1:10に相当）のときに最高効率が得られた。この比率において、共培養ではパラセタモールと4-APがそれぞれ6時間および24時間以内に完全に除去された。この能力を廃水で検証したところ、4時間以内にパラセタモールの100%が除去され、24時間以内に4-APの蓄積は認められなかった。これらの知見は、相補的な代謝能を持つ細菌を共培養することで、医薬品汚染と変換産物の蓄積の両方に対処できる可能性を示している。さらに、M. lacusがDelftia P1よりも100倍高い細胞密度で存在した場合に最高の4-AP除去量が達成され、共培養を設計する際に相対細胞密度を考慮することの重要性が浮き彫りとなった。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765931",
+    "title": "A chromosome-level genome assembly of northern dragonhead, Dracocephalum ruyschiana L., 1753",
+    "abstract": "We present a chromosome-level genome assembly for the vascular plant northern dragonhead, Dracocephalum ruyschiana. The assembly comprises two pseudo-haplotypes, hap1 and hap2, of 661 Mb and 681 Mb, with 93.6% and 92.5%, respectively, scaffolded into seven chromosomes each - in line with the known karyotype. Assembly quality was high, with conserved single-copy ortholog completeness scores of 97.9% and 97.8%, combined k-mer completeness of 98.1%, and 38,141 and 38,617 annotated protein-coding genes for hap1 and hap2, respectively. This assembly provides a high-quality genomic resource for future research and conservation of northern dragonhead, as well as the endangered northern dragonhead sap beetle, which depends on the plant for reproduction and whose genome assembly is described in a complementary genome note.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765931",
+    "date": "2026-11-13",
+    "authors": "Strand, M. A., Evju, M., Kyrkjeeide, M. O., Toerresen, O. K., Danneels, B., Arnyasi, M., Ferrari, G., Skage, M., Tooming-Klunderud, A., Jakobsen, K. S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765931v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4399,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765931"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1573d45dcfaf367855e1900df24a83d48cf39abe18c5b70fccd01b3c2d174d15",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:36:37.471608+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4a6053292a3a814bcc623146572ab7082fdb3fbc2f860c0e250c82a58639d219",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:36:37.471608+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "キタリュウコウ属 Dracocephalum ruyschiana L., 1753 の染色体レベルのゲノムアセンブリ",
+    "abstract_ja": "本研究では、維管束植物であるキタリュウガン（Dracocephalum ruyschiana）の染色体レベルのゲノムアセンブリを提示する。このアセンブリは、661 Mbおよび681 Mbの2つの擬似ハプロタイプ（hap1およびhap2）から構成されており、既知の核型と一致して、それぞれ93.6%および92.5%が7本の染色体にスキャフォールディングされている。アセンブリの品質は高く、保存された単一コピーオーソログの完全性スコアは97.9%および97.8%、結合k-merの完全性は98.1%であり、アノテーション済みのタンパク質符号化遺伝子数はhap1で38,141個、hap2で38,617個であった。本アセンブリは、キタリュウガン、ならびに繁殖を本植物に依存し、そのゲノムアセンブリが補完的ゲノムノートに記載されている絶滅危惧種のキタリュウガンサップビートルの今後の研究および保全のための高品質なゲノムリソースを提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.12.766154",
+    "title": "Systematic benchmarks reveal DNA polymerase combinations for high-quality genome assembly",
+    "abstract": "Background: A fundamental challenge in biodiversity genomics is generating long-read sequencing data and high-quality genome assemblies from samples lacking gold-standard flash-frozen tissue, including ethanol-preserved specimens, minimally invasive biopsies, and small-bodied organisms. Amplification-based library preparation enables long-read sequencing of such samples, but assembly quality critically depends on the polymerase used for amplification. Results: We present a systematic benchmark of eleven long-range DNA polymerases for PacBio HiFi sequencing and genome assembly across three taxonomically diverse species: a springtail, a sea slug, and a bat. We show that polymerase choice substantially affects assembly contiguity and gene completeness, primarily caused by polymerase-intrinsic GC-dependent amplification bias and read coverage heterogeneity. Five polymerases consistently produced assemblies with comparatively high contiguity and completeness, with some enzymes outperforming the polymerase currently used in the PacBio Ampli-Fi protocol. Importantly, combining reads amplified with different polymerases frequently resulted in superior assemblies, because polymerases complement each other by covering regions where others drop out. Combining reads amplified with different polymerases, we generated haplotype-resolved assemblies of the ~1 Gb giant springtail and ~2 Gb bat genome and improved the sea slug reference genome. Using the human GIAB benchmark, we further show that optimized amplification strategies improve variant-calling accuracy, highlighting their utility in medical and clinical research. To facilitate polymerase benchmarking across additional taxa, we provide the polymeval pipeline (https://github.com/casparbein/polymeval), which automates the computational workflow. Conclusion: Our study demonstrates that optimized amplification-based HiFi sequencing generates assemblies with >1 Mb contig N50 and >90% gene completeness, providing a toolkit to produce long-read genome assemblies from challenging samples.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766154",
+    "date": "2026-11-13",
+    "authors": "Bein, B., Gerheim, C., Gscheidel, N., Canesin, L., Ben Hamadou, A., Schneider, C., Schell, T., Yi, X., Galia-Camps, C., Hechavarria-Cueria, J., Lake, J. A., McLaughlin, I., Winkler, S., Greve, C., Hiller, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766154v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "assembly",
+        "benchmark",
+        "genome",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4400,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.12.766154"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f104c94e14456cd881aa3050192d6b231c13484be3d71b015c09ce55080ce89f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:36:37.471608+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "143491f5f7aaed46c1b4a5d483c309c3393658f749cdf631660d33498f122779",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:36:37.471608+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "系統的なベンチマークにより、高品質なゲノムアセンブリのためのDNAポリメラーゼの組み合わせが明らかになった。",
+    "abstract_ja": "背景：生物多様性ゲノミクスにおける根本的な課題は、エタノール保存標本、低侵襲生検、および小型生物など、ゴールドスタンダードとなる急速凍結組織を欠く試料から、ロングリードシーケンシングデータおよび高品質なゲノムアセンブリを生成することである。増幅ベースのライブラリ調製により、こうした試料のロングリードシーケンシングが可能となるが、アセンブリの品質は増幅に用いるポリメラーゼに決定的に依存する。結果：我々は、トビムシ、ウミウシ、およびコウモリという分類学的に多様な3種を対象に、PacBio HiFiシーケンシングおよびゲノムアセンブリのための11種類のロングレンジDNAポリメラーゼの系統的なベンチマーク結果を提示する。ポリメラーゼの選択がアセンブリの連続性および遺伝子完全性に著しく影響することを示し、その主な要因は、ポリメラーゼ固有のGC依存的な増幅バイアスとリードカバレッジの不均一性にあることを解明した。5種類のポリメラーゼは、一貫して比較的高い連続性と完全性を有するアセンブリを生成し、一部の酵素はPacBio Ampli-Fiプロトコルで現在使用されているポリメラーゼを上回る性能を示した。重要な点として、異なるポリメラーゼで増幅したリードを組み合わせることで、しばしばより優れたアセンブリが得られた。これは、ポリメラーゼ同士が互いを補完し合い、他のポリメラーゼがカバーしきれなかった領域をカバーするためである。異なるポリメラーゼで増幅したリードを組み合わせることで、約1 Gbのトビムシおよび約2 Gbのコウモリのゲノムのハプロタイプ解析済みアセンブリを生成し、ウミウシのリファレンスゲノムを改良した。ヒトGIABベンチマークを用いて、最適化された増幅戦略がバリアントコールの精度を向上させることをさらに示し、医学および臨床研究における有用性を強調した。追加の分類群にわたるポリメラーゼのベンチマークを容易にするため、計算ワークフローを自動化するpolymevalパイプライン（https://github.com/casparbein/polymeval）を提供する。結論：本研究は、最適化された増幅ベースのHiFiシーケンシングが、1 Mbを超えるコンティグN50および90%を超える遺伝子完全性を有するアセンブリを生成することを実証し、困難な試料からロングリードゲノムアセンブリを作成するためのツールキットを提供するものである。"
   }
 ]
