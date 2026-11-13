@@ -193723,5 +193723,334 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "土壌原生生物における混合栄養の潜在的可能性。",
     "abstract_ja": "単一の原生生物が光栄養作用と食作用を併せ持つ能力であるミクソトロピーは、水圏生態系において食物網構造や炭素循環を規定する重要な機能的戦略として広く認識されている。しかし、原生生物における栄養段階の柔軟性を示す証拠が増えているにもかかわらず、土壌においてはミクソトロピーは依然としてほとんど顧みられていない。本研究では、この軽視は生態学的な欠如というよりも、概念的・方法論的な限界を反映している可能性があると論じる。我々は、形質に基づく分類の不整合を浮き彫りにし、特定の形態のミクソトロピーを可能にする摂食形質を明らかにするとともに、ミクソトロピー活動を支える土壌微小生息環境を評価する。土壌におけるミクソトロピーを認識することは、個別の栄養段階カテゴリーという従来の見方に疑問を投げかけ、土壌炭素フラックスに対する潜在的な寄与を明らかにする。したがって、ミクソトロピーを土壌生態学に組み込むことは、陸域生態系の機能に関する機構的・予測的モデルを構築する上で不可欠である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1065",
+    "title": "XYcellAtlas: a cell-type- and spatial-resolved pan-cancer atlas of sex-biased and Y chromosome loss-associated molecular signatures.",
+    "abstract": "Sex is a critical determinant of cancer susceptibility, clinical prognosis, and therapeutic response. Sex chromosome aberrations, particularly somatic loss of the Y chromosome (LOY) in male malignancies, exert profound impacts on transcriptional regulation, tumor immune microenvironment remodeling, and malignant progression, highlighting an urgent demand for comprehensive integration of single-cell and spatial omics profiles dissecting sex-biased and LOY landscapes across human cancers. Here, we developed XYcellAtlas (http://www.xycellatlas.top/), an integrative database for integration and multidimensional visualization of sex disparities and LOY features across human tissues at single-cell transcriptomic, epigenomic, and spatial-transcriptomic resolutions. This resource aggregates data from 6764 patient samples covering 18 cancer types, eight precancerous lesions, and 21 tissue origins, encompassing over 25.8 million single cells and one million spatial-transcriptomic spots. Leveraging random forest classifiers trained on normal tissue datasets, XYcellAtlas quantifies cell-type-specific LOY frequencies across cell types. Furthermore, it systematically catalogs sex-biased and LOY-associated molecular alterations, including differentially expressed genes, chromatin peaks, core transcription factors, as well as their functional annotations and dysregulatory signatures within malignant cells and the tumor microenvironment. In summary, XYcellAtlas provides a unified, all-in-one analytical platform enabling researchers to query, inspect, quantify, and visualize sex-associated and LOY-derived multi-omics features underlying tumor evolutionary processes.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1065",
+    "date": "2026-10-30",
+    "authors": "Fan T, Shi X, Zhang L, Shi L, Lv W, Zhu Z, Tan J, Zhang L, Teng H, Sun Z.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42958970",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42958970",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "epigenomic",
+        "transcriptomic",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4008,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1065"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1b952d87bd06a101217af3376f54a043bfa2fe23e1a446d9ccae8d577e442719",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:07:45.822050+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d86c211deb6f2cac5e243fbb514fbbda3930bed6c8dfb710f059ba8fffaa1d88",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:07:45.822050+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "XYcellAtlas：性バイアスおよびY染色体喪失に関連する分子シグネチャーの、細胞種・空間分解能を有する汎がんアトラス。",
+    "abstract_ja": "性は、がんの感受性、臨床予後、および治療反応性を決定づける重要な因子である。性染色体異常、特に男性悪性腫瘍におけるY染色体の体細胞喪失（LOY）は、転写調節、腫瘍免疫微小環境のリモデリング、および悪性進行に多大な影響を及ぼしており、ヒトがんにおける性バイアスおよびLOYのランドスケープを解析するシングルセルおよび空間オミクスプロファイルの包括的な統合が急務となっている。本研究では、シングルセルトランスクリプトーム、エピゲノム、および空間トランスクリプトームの解像度で、ヒト組織における性差およびLOY特性を統合・多次元的に可視化するための統合データベースであるXYcellAtlas（http://www.xycellatlas.top/）を開発した。本リソースは、18種類のがん、8種類の前がん病変、および21種類の組織由来にわたる6,764例の患者検体からデータを集約しており、2,580万個以上のシングルセルと100万個の空間トランスクリプトームスポットを網羅している。正常組織データセットで学習させたランダムフォレスト分類器を活用し、XYcellAtlasは細胞種ごとの細胞型特異的なLOY頻度を定量化する。さらに、発現変動遺伝子、クロマチンピーク、コア転写因子、ならびに悪性細胞および腫瘍微小環境におけるそれらの機能的アノテーションや調節異常シグネチャーを含む、性バイアスおよびLOYに関連する分子変化を体系的にカタログ化する。要約すると、XYcellAtlasは、研究者が腫瘍の進化プロセスの根底にある性関連およびLOY由来のマルチオミクス特性をクエリ、検査、定量化、および可視化することを可能にする、統一的なオールインワンの解析プラットフォームを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2610622123",
+    "title": "Methanogenic archaea <i>Methanobrevibacter smithii</i> and <i>Methanosphaera stadtmanae</i> promote mucosal homeostasis and protect from colitis.",
+    "abstract": "The intestinal microbiota is a critical determinant of mucosal homeostasis, yet the functional contributions of Archaea-which constitute up to 10% of the anaerobic community-remain largely undefined. Here, we provide evidence that the human methanogens Methanobrevibacter smithii (MSm) and Methanosphaera stadtmanae (MSt) promote colonic health. Transcriptomic analysis of germ-free mice reveals that MSm and MSt induce distinct colonic programs important for epithelial integrity. Using gnotobiotic and antibiotic-treated specific-pathogen-free mouse models, we show that MSm and MSt reinforce the epithelial barrier, characterized by increased goblet cell expansion, mucus thickening, and enhanced epithelial regeneration. Furthermore, methanogens expand Foxp3+ regulatory T cell (Treg) populations without inducing pro-inflammatory TH17 responses. Notably, MSm and MSt protect against dextran sodium sulfate-induced colitis. While MSt-mediated protection requires adaptive immunity, MSm retains partial efficacy in lymphocyte-deficient mice, revealing nonredundant protective mechanisms. These findings indicate that methanogenic archaea promote mucosal integrity during host association and suggest that methanogens may hold therapeutic potential for inflammatory bowel disease, though translation to human disease remains to be established.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2610622123",
+    "date": "2026-10-20",
+    "authors": "Byrd EE, Harris BW, Zhang H, Warren WE, Kolli SH, Putelo AM, McGinty MT, Solga MD, Rutkowski MR, Kendall MM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42900725",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42900725",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "methanogen",
+        "methanogenic",
+        "methanogens",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2040,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2610622123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "396588ffebd8c59faeda20abebfe554102185df729e743bd99d23c862ebffebf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:07:45.822050+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4b8a3027a0ca970d58a78b6eead3e2ba1d72ee12cdbc5cb2de83e41856b6073b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:07:45.822050+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタン生成古細菌<i>Methanobrevibacter smithii</i>および<i>Methanosphaera stadtmanae</i>は、粘膜の恒常性を維持し、大腸炎から保護する。",
+    "abstract_ja": "腸内細菌叢は粘膜恒常性の重要な決定因子であるが、嫌気性菌群の最大10%を占める古細菌の機能的寄与については、依然として大部分が未解明である。本研究では、ヒトメタン生成菌であるMethanobrevibacter smithii (MSm) および Methanosphaera stadtmanae (MSt) が結腸の健康を促進するという証拠を提示する。無菌マウスのトランスクリプトーム解析により、MSmおよびMStが上皮の完全性に重要な、それぞれ異なる結腸プログラムを誘導することが明らかになった。gnotobioticおよび抗生物質処理を施した特定病原体除去マウスモデルを用いて、MSmおよびMStが杯細胞の拡大、粘液の増粘、および上皮再生の促進を特徴とする上皮バリアを強化することを示す。さらに、メタン生成菌は、炎症促進性のTH17応答を誘導することなく、Foxp3+制御性T細胞（Treg）集団を増加させる。特筆すべきは、MSmおよびMStがデキストラン硫酸ナトリウム誘発性大腸炎に対して保護的に作用することである。MStを介した保護作用には獲得免疫が必要である一方、MSmはリンパ球欠損マウスにおいても部分的な有効性を維持しており、非冗長的な保護機構の存在が明らかになった。これらの知見は、メタン生成古細菌が宿主との共生において粘膜の完全性を促進することを示しており、メタン生成菌が炎症性腸疾患に対する治療的可能性を有している可能性を示唆しているが、ヒト疾患への応用については依然として確立されていない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/ismejo/wrag267",
+    "title": "Multilayered network analysis reveals the centrality of newly discovered Nucleocytoviricota in wastewater treatment plant communities.",
+    "abstract": "Viruses of the phylum Nucleocytoviricota are remarkable entities due to their exceptionally large genomes and complex gene repertoires, which blur the lines between viral and cellular life. Previous research has leveraged computational approaches to map their extensive diversity. Experimental work has, in parallel, begun to elucidate their intricate interactions with hosts, bacterial symbionts, co-infecting virophages, and other mobile genetic elements.Although unlikely to replicate all simultaneously within the same host cell, the convergence of these entities within a single environment creates a dense hub of potential interactions that calls for a holistic, topology-based analysis. Here, we recovered high-quality genomes of 61 Nucleocytoviruses, 15 virophages and 14 polinton-like viruses from deeply sequenced metagenomes of 23 Danish wastewater treatment plants, and integrated them into a multilayered interaction network together with microbial contigs. This network recovered putative interactions across multiple levels, including Nucleocytoviruses co-occurring with hyperparasitic elements, associations with abundant activated sludge bacteria, and read-level signals of integration events. We show that the giants among viruses act as centrality-inducing entities, elevating others into highly central positions within the community and therefore are key players shaping the microbial community structure, ecology and evolution in wastewater treatment plants.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag267",
+    "date": "2026-10-21",
+    "authors": "Lücking D, Manzano-Marín A, Willemsen A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904690",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904690",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomes",
+        "microbial",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 83,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/ismejo/wrag267"
+    ],
+    "translation": {
+      "title": {
+        "hash": "41b29d936e77e6d857bc5ca32bcfd250b287b852fb92218b6e2d666e8fb560e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:07:45.822050+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b24f0c23e70b1301d0651f928f439ea133b005a720a8b213d9583e1762a95b16",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:07:45.822050+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多層的なネットワーク解析により、下水処理場群集において新たに発見されたNucleocytoviricotaが中心的な位置を占めていることが明らかとなった。",
+    "abstract_ja": "ヌクレオサイトウイルス門のウイルスは、極めて大規模なゲノムと複雑な遺伝子レパートリーを有する顕著な実体であり、ウイルスと細胞生命の境界を曖昧にしている。これまでの研究では、計算科学的手法を用いてその広範な多様性のマッピングが行われてきた。並行して、宿主、細菌共生体、共感染性ウイルスファージ、およびその他の可動性遺伝要素との複雑な相互作用を解明する実験的研究も始まっている。同一の宿主細胞内でこれらすべてを同時に複製する可能性は低いものの、単一の環境内にこれらの実体が集積することで、潜在的な相互作用の高密度なハブが形成され、包括的かつトポロジーに基づく解析が求められる。本研究では、デンマークの23箇所の下水処理場の深層シーケンシング済みメタゲノムから、61種のヌクレオサイトウイルス、15種のウイルスファージ、および14種のポリントン様ウイルスの高品質なゲノムを回収し、これらを微生物コンティグとともに多層的な相互作用ネットワークに統合した。このネットワークからは、ヌクレオサイトウイルスと超寄生性要素の共存、豊富な活性汚泥細菌との関連、および統合イベントのリードレベルのシグナルなど、複数のレベルにわたる推定相互作用が抽出された。我々は、ウイルス群の中の巨大種が中心性誘導実体として機能し、他のウイルスをコミュニティ内の極めて中心的な位置へと押し上げることで、下水処理場における微生物コミュニティの構造、生態、および進化を形作る主要な役割を担っていることを示す。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.tim.2026.09.009",
+    "title": "Microbial resistance from genotype to metabolic phenotype.",
+    "abstract": "Antimicrobial resistance (AMR) poses an escalating global threat, yet surveillance and mechanistic understanding remain anchored in individual resistance genes, an approach that is inadequate for capturing the ecological, genomic, and metabolic complexity through which resistance emerges and spreads. In this opinion article, we argue that genome-scale metabolic models (GEMs) offer a principled framework for advancing AMR research beyond this gene-centric paradigm. Strain-resolved GEMs embed resistance determinants within metabolic networks, with the potential to generate quantitative, context-dependent phenotypic predictions, including minimum inhibitory concentrations and environment-conditional resistance, that sequence-based tools do not provide. Expanded GEM frameworks incorporating mobile genetic elements, horizontal gene transfer, and community-level interactions support ecology-aware resistance profiling. At the therapeutic level, whole-network modelling can identify metabolic vulnerabilities, synthetic lethal interactions, and microbiome-targeted strategies. Integrating GEMs with multiomics and data-driven approaches represents a critical step toward a mechanism-aware AMR platform connecting surveillance, diagnosis, and drug discovery.",
+    "journal": "Trends in Microbiology",
+    "doi": "10.1016/j.tim.2026.09.009",
+    "date": "2026-10-21",
+    "authors": "Clasen F, Jin Y, Brett J, Garcia-Guevara F, Ehrlich SD, Shoaie S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42907311",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42907311",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1309,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1016/j.tim.2026.09.009"
+    ],
+    "translation": {
+      "title": {
+        "hash": "18907b37f99d19c6bc63fb84b91918dc898b956a8f2d7cdcf4c6d59c318b586d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:07:45.822050+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "64410bf2c651ee35d3d17ac10b8380e7884a76c5f90e4090fc31bb9f3fa21646",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:07:45.822050+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝子型から代謝表現型に至る微生物の耐性。",
+    "abstract_ja": "薬剤耐性（AMR）は世界的に深刻化する脅威となっているが、サーベイランスや機序的理解は依然として個々の耐性遺伝子に限定されており、このアプローチでは、耐性が出現・拡散する生態学的、ゲノム的、および代謝的な複雑性を捉えることが不十分である。本オピニオン論文において、我々は、ゲノムスケール代謝モデル（GEMs）が、こうした遺伝子中心のパラダイムを超えてAMR研究を進展させるための原理に基づいた枠組みを提供すると論じる。菌株分解能のGEMsは、耐性決定因子を代謝ネットワーク内に組み込むことで、配列ベースのツールでは得られない、最小発育阻止濃度や環境条件依存的な耐性を含む、定量的かつ文脈依存的な表現型予測を生成できる可能性がある。可動性遺伝要素、水平遺伝子伝達、およびコミュニティレベルの相互作用を組み込んだ拡張GEMフレームワークは、生態学的知見に基づく耐性プロファイリングを支援する。治療レベルでは、ネットワーク全体のモデリングにより、代謝上の脆弱性、合成致死相互作用、およびマイクロバイオームを標的とした戦略を特定することが可能となる。GEMsをマルチオミクスおよびデータ駆動型アプローチと統合することは、サーベイランス、診断、および創薬を結びつける機序認識型AMRプラットフォームに向けた極めて重要な一歩となる。"
   }
 ]
