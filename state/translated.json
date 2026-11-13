@@ -182796,5 +182796,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "魚類腸内細菌叢は双方向性の生体内変換とディスバイオーシスを介して汚染物質誘発性脂質毒性を媒介する",
     "abstract_ja": "要旨 腸内細菌叢は、環境汚染物質の標的であると同時に、その生体内変換の駆動因子としても機能するが、これら2つの役割がいかにして共同して宿主毒性を決定づけるのかについては、いまだ十分に解明されていない。ゼブラフィッシュをOne Healthモデルとして用い、有機リン系難燃剤であるトリフェニルリン酸（TPHP）に環境中濃度レベルで曝露すると、腸管における脂質蓄積、バリア機能の破綻、およびPPAR経路の調節不全が引き起こされることを示す。抗生物質投与ゼブラフィッシュモデル、安定同位体を用いたメタボロミクス、およびマルチオミクスプロファイリングを組み合わせることで、腸内細菌叢が双方向ネットワークを介してTPHPを変換することを見出した。腸内細菌叢は、脱共役反応を通じて宿主由来のグルクロニド化代謝物を再活性化し、TPHPの炭素骨格をL-フェニルアラニンやN-アセチルチラミンを含む低分子代謝物へと発酵させ、これらを宿主の脂質およびエネルギー代謝に組み込む。細菌叢の機能破綻はこれらの代謝物シグナルを消失させ、TPHPの生体内変換における腸内細菌叢の重要な役割を裏付ける。メタゲノミクスにより、これらの変換を担う特定の細菌分類群（Acinetobacter、Pseudomonas、Aeromonasなど）および加水分解酵素ファミリーが同定された。我々の知見は、腸内細菌叢が単に汚染物質曝露の受動的な標的となるだけでなく、TPHPの代謝運命を拡大させ、宿主の脂質恒常性と交差する汚染物質由来の代謝シグナルを生成し、宿主と微生物の相互作用を通じて観察される脂質毒性を共同的に媒介することを示唆している。本研究は、One Healthパラダイムの下で、化学的リスク評価に腸内細菌叢の動態を組み込むための機序的枠組みを提供するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1128",
+    "title": "scGWAS-DB: an integrated database bridging GWAS to tissue-resolved single-cell contexts",
+    "abstract": "AbstractThe integration of genome-wide association studies (GWAS) with single-cell RNA sequencing has enabled the dissection of complex trait architectures across tissue-resolved cellular contexts. However, existing resources lack the ability to identify hub genes underlying trait-cell-type associations, dissect gene-gene interaction topologies, or detect shared genes across multiple traits. Here, we present single-cell-assisted Genome-Wide Association Study DataBase (scGWAS-DB) (https://ngdc.cncb.ac.cn/scgwasdb), an integrated database that bridges population-scale genetics with single-cell biology. scGWAS-DB integrates 3,649 high-quality GWAS datasets with single-cell atlases spanning 74 human tissues and 1,713 cell types. From these data, we identified 213,992 significant triplets, encompassing 821,480 gene-gene interactions. Among them, we further distinguished 584,944 co-occurrent and 7,365 mutual exclusive gene-gene interaction patterns. Systematic integration of these networks revealed recurrent cellular signatures across diverse diseases. Collectively, scGWAS-DB provides a systematic resource for interpreting the cellular basis of complex traits, prioritizing hub genes and cell types that could provide insights in future studies of drug target development and disease-relevant cellular circuit discovery.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1128",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1128/9026638?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "gene",
+        "genetic",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2048,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1128"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ac0cd570dd6a1c3b36057de22367bb3dee0c0732e4903217e52e5751f7e2ccc5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:12:15.648370+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bca44179c7d2da14f14223dfdc3a54b06f1e4842ecd7be85cdae649c59bb3f0d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:12:15.648370+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scGWAS-DB: GWASと組織解像度のシングルセルコンテキストを繋ぐ統合データベース",
+    "abstract_ja": "要旨ゲノムワイド関連解析（GWAS）とシングルセルRNAシーケンシングの統合により、組織分解能の細胞コンテキストにおける複雑な形質アーキテクチャの解析が可能となった。しかし、既存のリソースでは、形質と細胞種の関連の根底にあるハブ遺伝子の同定、遺伝子間相互作用トポロジーの解析、あるいは複数の形質にわたる共通遺伝子の検出を行う能力が不足している。本報では、集団規模の遺伝学とシングルセル生物学を橋渡しする統合データベースである、シングルセル支援型ゲノムワイド関連解析データベース（scGWAS-DB）（https://ngdc.cncb.ac.cn/scgwasdb）を提案する。scGWAS-DBは、74種類のヒト組織と1,713種類の細胞種にわたる3,649件の高品質なGWASデータセットとシングルセルアトラスを統合している。これらのデータから、821,480件の遺伝子間相互作用を含む213,992件の有意なトリプレットを同定した。さらに、584,944件の共起型および7,365件の相互排他的な遺伝子間相互作用パターンを区別した。これらのネットワークを系統的に統合した結果、多様な疾患にわたって反復的な細胞シグネチャーが明らかになった。総じて、scGWAS-DBは、複雑な形質の細胞基盤を解釈するための系統的なリソースを提供し、今後の創薬標的開発や疾患関連細胞回路の発見に関する研究に知見をもたらし得るハブ遺伝子および細胞種を優先的に提示する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0359340",
+    "title": "Filling the gaps in Australian angiosperm genomes.",
+    "abstract": "The Genomics for Australian Plants Initiative (GAP) reference genome project aimed to provide high quality angiosperm genomes for previously underrepresented taxonomic groups with evolutionary significance, cultural value, biogeographic importance, and concerning conservation status in Australia. Here we present the results of long-read genomic sequencing and assembly for 29 selected angiosperm species, including analyses of genome completeness, contiguity, ploidy, gene annotations, and repeat content. Plastid and mitochondrion genomes were also assembled and annotated. The data provided a diverse selection of genome size, ploidy and complexity, which were compared. The long read sequencing methods, PacBio HiFi, and Oxford Nanopore Technologies (ONT), used in tandem and individually where appropriate, provided high quality near complete telomere to telomere assemblies. These genomes provide valuable genomic resources for Australian plants that will enable and extend research in evolution, conservation, functional adaptation, and comparative genomics.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0359340",
+    "date": "2026-11-04",
+    "authors": "Allnutt TR, McLay TGB, Jones A, Edwards R, Holmes GD, Schmidt-Lebuhn AN, Andrew RL, Fowler RM, Jackson C, Lum M, Bruhl JJ, Ferguson S, Fournier-Level A, Lewsey MG, Roach M, Shaldoom T, Cantrill DJ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981283",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734463",
+    "pmid": "42981283",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "assembly",
+        "gene",
+        "genome",
+        "genomic",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2506,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0359340"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0ec5424c3953d679fec094a47324d276f6f899eeb521b84ac72e97013c8daf03",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:12:15.648370+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "656e6cace465618cdf66967a882c5852e186db41ddc07c4b4a6bbb1aef499750",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:12:15.648370+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オーストラリア産被子植物ゲノムの空白を埋める。",
+    "abstract_ja": "Genomics for Australian Plants Initiative (GAP) リファレンスゲノムプロジェクトは、オーストラリアにおいて、進化上の重要性、文化的価値、生物地理学的重要性、および保全状況が懸念される、これまで十分に代表されてこなかった分類群に対し、高品質な被子植物ゲノムを提供することを目的としていた。本稿では、選定された29種の被子植物を対象としたロングリードゲノムシーケンシングおよびアセンブリの結果を、ゲノムの完全性、連続性、倍数性、遺伝子アノテーション、および反復配列含有量の解析を含めて報告する。プラスチドおよびミトコンドリアゲノムについてもアセンブリとアノテーションを行った。得られたデータからは、ゲノムサイズ、倍数性、および複雑性において多様なサンプルが得られ、これらを比較した。ロングリードシーケンシング手法であるPacBio HiFiおよびOxford Nanopore Technologies (ONT) を、適宜併用または個別に用いることで、高品質でほぼ完全なテロメア間アセンブリが得られた。これらのゲノムは、オーストラリアの植物に関する貴重なゲノムリソースとなり、進化、保全、機能的適応、および比較ゲノミクスの研究を可能にし、さらに発展させるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2608548123",
+    "title": "A DPY19L2/FAM209-associated protein-Arp complex-CAPZA3 scaffold is essential for perinuclear theca assembly and fertilization.",
+    "abstract": "Fertilization is a fundamental biological process that enables the fusion of a spermatozoon with an oocyte to initiate embryonic development. However, the underlying mechanisms leading to fertilization failure remain poorly understood. Here, we demonstrated that the actin-related protein (Arp) family members ACTRT2 and ACTRT3 are essential for fertilization in both humans and mice, whereas ACTL10 is dispensable for fertility and the human-specific ACTL8 may play a role in early spermatogenesis. Ultrastructural and immunofluorescence analyses revealed that, during spermatogenesis, ACTRT2 or ACTRT3 deficiency disrupts the assembly of subacrosomal layer of the perinuclear theca (SAL-PT), leading to acrosome detachment and subsequent manchette abnormalities, which in turn impairs the formation of the postacrosomal sheath of the PT. These structural defects were accompanied by reduced abundance of the candidate sperm-borne oocyte-activating factors PAWP and PLCζ. Moreover, knockout of Actrt2 or Actrt3 severely impaired spermatozoa's ability to penetrate the zona pellucida during in vitro fertilization. Mechanistically, ACTRT2, ACTRT3, ACTL7A, ACTL7B, and ACTL9 form a testis-enriched Arp complex in the SAL-PT and maintain the stability of one another. This complex interacts with the PT protein CAPZA3, which subsequently binds and stabilizes PLCζ. Additionally, the Arp complex interacts with DPY19L2/FAM209-associated proteins to mediate acrosome anchoring to the nuclear envelope. Therefore, these findings established a sequential DPY19L2/FAM209-associated protein-Arp complex-CAPZA3 scaffold extending from the nuclear envelope to the acrosome that is indispensable for fertilization. Collectively, we defined a previously unidentified structural and molecular framework for fertilization and provided insights into the diagnosis and treatment of fertilization failure.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2608548123",
+    "date": "2026-11-04",
+    "authors": "Ruan T, Shen G, Zhuo L, Zhang Y, Wang X, Tian E, Tian Y, Tang X, Chen D, Jiang C, Yang X, Ma J, Zhao S, Zhao C, Cui X, Jiang X, Yang Y, Wang Y, Shen Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981043",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42981043",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2967,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2608548123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e592203d271c7ca5a3b9bce6369fedb6f0a23726a28705ae6b0ba2258f026d4f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:12:15.648370+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "af80d0842390d875ce04ce6df2a0dfad639d12e906ea5a869b0f4756e9250199",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:12:15.648370+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DPY19L2/FAM209関連タンパク質-Arp複合体-CAPZA3足場は、核周縁部のテカ形成および受精に必須である。",
+    "abstract_ja": "受精は、精子と卵子が融合して胚発生を開始させる基本的な生物学的プロセスである。しかし、受精不全に至る根本的なメカニズムについては十分に解明されていない。本研究では、アクチン関連タンパク質（Arp）ファミリーのACTRT2およびACTRT3がヒトとマウスの両方において受精に必須である一方、ACTL10は生殖能に不要であり、ヒト特異的なACTL8は初期精子形成において役割を果たす可能性があることを示した。超微形態学的および免疫蛍光分析により、精子形成過程においてACTRT2またはACTRT3の欠損が核周囲テカの亜先体層（SAL-PT）の組み立てを阻害し、先体の離脱とそれに続くマンシェット異常を引き起こし、その結果、PTの後先体鞘の形成が損なわれることが明らかになった。これらの構造的欠陥には、精子由来の卵子活性化因子候補であるPAWPおよびPLCζの存在量の減少が伴っていた。さらに、Actrt2またはActrt3のノックアウトにより、in vitro受精における精子の透明帯貫通能が著しく低下した。メカニズムとしては、ACTRT2、ACTRT3、ACTL7A、ACTL7B、およびACTL9がSAL-PTにおいて精巣濃縮型Arp複合体を形成し、互いに安定性を維持している。この複合体はPTタンパク質CAPZA3と相互作用し、その後CAPZA3がPLCζに結合して安定化させる。加えて、Arp複合体はDPY19L2/FAM209関連タンパク質と相互作用し、先体の核膜への固定を媒介する。したがって、これらの知見は、核膜から先体まで延びる、受精に不可欠な逐次的なDPY19L2/FAM209関連タンパク質-Arp複合体-CAPZA3足場を構築した。総じて、我々はこれまで未同定であった受精の構造的・分子的枠組みを定義し、受精不全の診断と治療に関する知見を提供した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/pnasnexus/pgag365",
+    "title": "Single-cell heterogeneity of adipose eosinophils is shaped by sex and RELMα and linked to macrophage communication networks in obesity.",
+    "abstract": "Eosinophils are immune cells with terminal effector functions in type 2 immune responses, yet recent findings suggest that they exhibit functional plasticity and heterogeneity dependent on tissue-specific cues. Building on our prior functional study showing that the immunoregulatory protein RELMα and eosinophils contribute to female protection from high-fat diet (HFD)-induced obesity, we used single-cell transcriptional profiling to study adipose eosinophil states at higher resolution. We identify six transcriptionally distinct eosinophil clusters whose relative abundance differs by sex, helminth infection, and RELMα status. Adipose tissue from females or helminth-infected mice is enriched for eosinophil clusters with type 2/homeostatic-associated transcriptional programs, whereas males and RELMα-deficient mice have increased representation of inflammatory/MHCII-associated clusters together with an altered predicted macrophage-eosinophil communication networks. Spectral flow cytometry and adipose tissue in situ hybridization independently support eosinophil heterogeneity and candidate chemokine-receptor interactions. Through single-cell regulatory network inference and clustering analysis, we further identified transcription factor regulons unique to the specific eosinophil clusters, including sex-differential and HFD-enriched regulatory programs supported by target-gene expression patterns. Collectively, these data provide a framework for describing adipose eosinophil heterogeneity within a previously established RELMα-macrophage-eosinophil axis and identify candidate transcriptional and communication programs for future functional testing.",
+    "journal": "PNAS Nexus",
+    "doi": "10.1093/pnasnexus/pgag365",
+    "date": "2026-10-24",
+    "authors": "Ruggiero-Ruff RE, Qiu X, Vance L, He Y, Coss D, Godzik A, Nair MG.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42997205",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13741244",
+    "pmid": "42997205",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2405,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/pnasnexus/pgag365"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8b09892e9663172b068c33aaf3aa98b0b8850b1757721c926350b7554e8f0cd5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:12:15.648370+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "796598905d847d671ac0380a346c28c5b04bf1099bededcc9d93a5eb616bdf37",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:12:15.648370+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "脂肪好酸球の単細胞不均一性は、性およびRELMαによって規定され、肥満におけるマクロファージ間の情報伝達ネットワークと関連している。",
+    "abstract_ja": "好酸球は、2型免疫応答において終末効果器機能を担う免疫細胞であるが、近年の知見により、組織特異的なシグナルに依存した機能的可塑性と不均一性を示すことが示唆されている。免疫調節タンパク質RELMαおよび好酸球が、高脂肪食（HFD）誘発性肥満に対する雌の防御に寄与していることを示した我々の先行機能研究に基づき、シングルセル転写プロファイリングを用いて、脂肪組織における好酸球の状態をより高解像度で解析した。その結果、性別、蠕虫感染、およびRELMαの状態によって相対的な存在量が異なる、転写的に区別される6つの好酸球クラスターを同定した。雌または蠕虫感染マウスの脂肪組織では、2型／恒常性関連転写プログラムを持つ好酸球クラスターが濃縮されている一方、雄およびRELMα欠損マウスでは、炎症性／MHCII関連クラスターの割合が増加しており、同時に予測されるマクロファージ－好酸球間のシグナル伝達ネットワークにも変化が認められた。スペクトルフローサイトメトリーおよび脂肪組織in situハイブリダイゼーションにより、好酸球の不均一性および候補となるケモカイン－受容体相互作用が独立して裏付けられた。シングルセルによる調節ネットワーク推論およびクラスタリング解析を通じて、さらに、標的遺伝子の発現パターンに裏付けられた性別差およびHFD濃縮型の調節プログラムを含む、特定の好酸球クラスターに固有の転写因子レギュロンを同定した。総じて、これらのデータは、既報のRELMα－マクロファージ－好酸球軸における脂肪組織好酸球の不均一性を記述するための枠組みを提供するとともに、今後の機能検証に向けた候補となる転写およびシグナル伝達プログラムを同定するものである。"
   }
 ]
