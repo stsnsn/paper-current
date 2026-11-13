@@ -185534,5 +185534,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "統合的な探索と機能的依存性マッピングにより、活性トランスクリプトームにおける必須のキメラRNAが明らかとなった。",
     "abstract_ja": "キメラRNAは、複数の遺伝子の遺伝情報を含むRNA転写産物として定義される分子群である。組織種や疾患状態における発現パターンは十分に報告されているが、これらの転写産物の生物学的機能については依然として十分に解明されていない。本研究では、1,019種類のがん細胞株にわたる569,640種類のキメラRNAのアトラスを構築するため、統合的な予測パイプラインを開発した。このリソースを活用し、我々の予測結果をThe Cancer Dependency Mapプロジェクトの摂動データセットと統合することで、系統的な機能依存性スクリーニングを実施した。このアプローチは予測にとどまらず、隣接する遺伝子のシススプライシングによって生成される反復的なキメラ転写産物のサブセットを含む、細胞プロセスに不可欠な高信頼度の機能的キメラRNAの同定へと踏み込むものである。我々は、選定した候補キメラの枯渇が細胞周期の進行と細胞適応度を阻害すること、およびこれらの転写産物が原発性乳がん腫瘍において頻繁に調節不全に陥っていることを実証した。これらの結果を総合すると、キメラRNAはこれまで十分に認識されてこなかった遺伝子発現の層を構成しており、従来の遺伝学の枠を超えて機能的ゲノムを拡張していることが示される。"
+  },
+  {
+    "id": "10.1093/nar/gkag1172",
+    "title": "Archaeal histones coordinate conserved DNA sequence motifs to promote CRISPR adaptive immunity",
+    "abstract": "AbstractArchaea and bacteria acquire resistance to viruses by integrating fragments of foreign DNA at the beginning of a CRISPR locus. In the archaeon Pyrococcus furiosus, histones bind the leader to promote specific integration at the first CRISPR repeat. However, it remains unknown whether archaeal CRISPR leaders contain conserved DNA sequence motifs required for integration. Here, we analyze 542 archaeal CRISPR leaders found across Thermococcales and Methanococcales. We identify 36 motifs found up to 500 bps upstream of archaeal CRISPR loci. Scrambling or truncating novel motifs or histone binding sites found 100–400 bps upstream of the P. furiosus CRISPR modestly decreases integration efficiency. However, mutation of motif T2, which overlaps with the proximal histone site and is adjacent to the CRISPR, ablates both histone-mediated and histone-independent integration. Mutations tiled across T2 reveal that a pyrimidine at position −3 of the leader is required for histone-independent integration, and basepairs −4 to −19 are required for histone-mediated integration. T2 is found in most Thermococcales, and a similar sequence is found in most Methanococcales leaders, suggesting this motif may be a broadly conserved element that facilitates CRISPR adaptive immunity across taxonomic orders. These data shed light on the sequence requirements for histone-mediated DNA integration",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1172",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1172/9026640?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "archaeon",
+        "bacteria",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2109,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1172"
+    ],
+    "translation": {
+      "title": {
+        "hash": "482b7cf1cc202323be2b0be5a037cfa5c763dabe4a0c94c6f89915a2d6d886c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:38:49.144772+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "23a4d7e272a0f8a3be1c36054765ea9fa667e44cc137fc99ab0ef7862a55ab88",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:38:49.144772+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "古細菌ヒストンは、保存されたDNA配列モチーフを協調させることでCRISPR適応免疫を促進する。",
+    "abstract_ja": "要旨古細菌および細菌は、CRISPR遺伝子座の先頭に外来DNA断片を組み込むことで、ウイルスに対する耐性を獲得する。古細菌Pyrococcus furiosusでは、ヒストンがリーダーに結合し、最初のCRISPRリピートにおける特異的な組み込みを促進する。しかし、古細菌のCRISPRリーダーに、組み込みに必要な保存されたDNA配列モチーフが含まれているかどうかは不明である。本研究では、ThermococcalesおよびMethanococcalesにわたって見出された542個の古細菌CRISPRリーダーを解析した。我々は、古細菌CRISPR遺伝子座の上流最大500 bpsに見出される36個のモチーフを同定した。P. furiosusのCRISPRの上流100～400 bpsに見出される新規モチーフまたはヒストン結合部位をスクランブルまたは切断すると、組み込み効率がわずかに低下する。しかし、近位ヒストン部位と重なり、かつCRISPRに隣接するモチーフT2を変異させると、ヒストン介在性およびヒストン非依存性の両方の組み込みが消失する。T2にわたってタイル状に配置した変異により、リーダーの−3位のピリミジンがヒストン非依存性組み込みに必要であり、−4～−19番目の塩基対がヒストン介在性組み込みに必要であることが明らかになった。T2はほとんどのThermococcalesに見られ、同様の配列はほとんどのMethanococcalesリーダーにも見られ、このモチーフが分類群を超えてCRISPR適応免疫を促進する広範に保存された要素である可能性が示唆される。これらのデータは、ヒストン介在性DNA組み込みに必要な配列要件を明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0361700",
+    "title": "Integrative network toxicology and machine learning reveal the potential role of 5-hydroxymethylfurfural in exacerbating pulmonary fibrosis.",
+    "abstract": "Background5-Hydroxymethylfurfural (5-HMF), a ubiquitous furan derivative formed during the thermal processing of carbohydrate-rich foods, represents a widespread dietary exposure. However, its potential contribution to idiopathic pulmonary fibrosis (IPF) remains unclear. This study investigated the molecular links between 5-HMF and IPF using an integrated computational and experimental approach.MethodsIPF-related genes were identified through transcriptomic analysis combining differential expression analysis and weighted gene co-expression network analysis. Candidate targets were obtained by intersecting IPF-associated genes with predicted 5-HMF targets. Functional enrichment analysis, ensemble machine learning, and SHAP interpretation were performed to prioritize candidate targets, while molecular docking was used to explore potential 5-HMF-target interactions. A bleomycin-induced mouse model of pulmonary fibrosis was further used to evaluate the effects of 5-HMF on fibrotic lung injury and the transcriptional expression of prioritized candidate genes.ResultsA total of 1,776 IPF-associated genes and 143 predicted 5-HMF targets were identified, yielding 12 overlapping candidate targets. Enrichment analysis implicated these genes in fibrosis-related pathways, including chemical carcinogenesis-receptor activation and estrogen signaling. Machine learning analysis prioritized seven core targets (CA2, CA4, ESR2, F10, HSP90AA1, PLA2G1B, and PTPRB), all of which accommodated 5-HMF in their orthosteric pockets in blind docking, albeit with weak, non-selective Vina scores (-4.5 to -5.4 kcal/mol). In vivo, 5-HMF significantly exacerbated bleomycin-induced pulmonary fibrosis, as demonstrated by aggravated lung injury, increased collagen deposition, and elevated expression of Hsp90aa1, Pla2g1b, Ca4, F10, Acta2, and Col1a1.ConclusionOur findings suggest that 5-HMF may exacerbate fibrotic lung injury through multiple fibrosis-related molecular targets and pathways. These findings provide preliminary evidence for a potential association between 5-HMF exposure and the aggravation of pulmonary fibrosis, while further studies are required to determine whether 5-HMF can independently initiate fibrotic pathology.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0361700",
+    "date": "2026-11-02",
+    "authors": "Yang Q, Li F, Li J, Qin T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42970606",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13727047",
+    "pmid": "42970606",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3090,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0361700"
+    ],
+    "translation": {
+      "title": {
+        "hash": "14bf148766c532622278c898e011b3efb7094159ca6bd593ff6aff4e445d68f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:38:49.144772+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5782ea9fce0f0727fc43ce592d1a4dfacca14f40a35722be77e620f8643855fd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:38:49.144772+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合的ネットワーク毒性学と機械学習により、肺線維症を増悪させる5-ヒドロキシメチルフルフラールの潜在的な役割が明らかになった。",
+    "abstract_ja": "背景 炭水化物を豊富に含む食品の熱処理過程で生成される普遍的なフラン誘導体である5-ヒドロキシメチルフルフラール（5-HMF）は、広範な食事性曝露源となっている。しかし、特発性肺線維症（IPF）に対する潜在的な寄与については依然として不明である。本研究では、計算科学的手法と実験的手法を統合的に用いることで、5-HMFとIPFの分子間関連性を検討した。方法 発現変動解析と重み付き遺伝子共発現ネットワーク解析を組み合わせたトランスクリプトーム解析により、IPF関連遺伝子を同定した。IPF関連遺伝子と予測5-HMF標的遺伝子との共通部分から、候補標的を抽出した。機能エンリッチメント解析、アンサンブル機械学習、およびSHAP解釈を用いて候補標的の優先順位付けを行い、さらに分子ドッキングを用いて5-HMFと標的との潜在的な相互作用を探索した。また、ブレオマイシン誘導性肺線維症マウスモデルを用い、線維化肺損傷に対する5-HMFの影響および優先順位付けされた候補遺伝子の転写発現を評価した。結果 計1,776個のIPF関連遺伝子と143個の予測5-HMF標的を同定し、12個の重複する候補標的を得た。エンリッチメント解析により、これらの遺伝子が化学的発がん-受容体活性化やエストロゲンシグナル伝達を含む線維化関連経路に関与していることが示された。機械学習解析により7つのコア標的（CA2、CA4、ESR2、F10、HSP90AA1、PLA2G1B、PTPRB）が優先順位付けされ、これらはすべてブラインドドッキングにおいてオルソステリックポケットに5-HMFを取り込んだが、Vinaスコアは弱く非選択的であった（-4.5～-5.4 kcal/mol）。in vivoにおいて、5-HMFは肺損傷の増悪、コラーゲン沈着の増加、およびHsp90aa1、Pla2g1b、Ca4、F10、Acta2、Col1a1の発現上昇に示されるように、ブレオマイシン誘導性肺線維症を有意に増悪させた。結論 本研究の知見は、5-HMFが複数の線維化関連分子標的および経路を介して線維化肺損傷を増悪させる可能性を示唆している。これらの知見は、5-HMF曝露と肺線維症の増悪との間に潜在的な関連があることを示す予備的な証拠となるが、5-HMFが単独で線維化病態を惹起し得るかを判断するには、さらなる研究が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2608185123",
+    "title": "Antigenic landscape of a highly mutated SARS-CoV-2 spike in ongoing viral evolution.",
+    "abstract": "The ongoing emergence of SARS-CoV-2 variants in an increasingly immune-experienced population is largely enabled by the plasticity of the Spike protein, which lies at the frontline of host immune pressure. Here, we investigated how extensive remodeling of the N-terminal domain (NTD) in Spike influences its antigenic properties. Using BA.2.87.1, a variant heavily mutated in this domain, we found that even large deletions do not substantially disrupt overall Spike structure or pseudovirus infectivity. However, our structural and binding analyses revealed that the NTD exhibits increased flexibility and that interaction with a heme-metabolite, known to facilitate the exposure of an immunodominant epitope, is lost. These conformational effects, coupled with 33 NTD mutations, compromised the ability of human convalescent antibodies to engage this domain, contributing to their reduced neutralizing capacity. Consequently, BA.2.87.1-like variants may escape recognition by the preexisting NTD-targeting antibodies, potentially reducing protection. Together, our results highlight the intrinsic adaptability of the Spike beyond the receptor-binding domain, with implications for immune escape during viral evolution.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2608185123",
+    "date": "2026-10-28",
+    "authors": "Turelli P, Eray E, Raclot C, Trono D, Antanasijevic A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949957",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42949957",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3453,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1073/pnas.2608185123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "36f983d9aab68d12dd5c906b1dac74c528086849bdcb2efc3e41de61ba45396b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:38:49.144772+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "508f58f276d4361a12b713375f09733fc7f1932be1136d3f3ed56bb91abe55c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:38:49.144772+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "進行中のウイルス進化における、高度に変異したSARS-CoV-2スパイクの抗原ランドスケープ。",
+    "abstract_ja": "免疫経験が蓄積しつつある集団においてSARS-CoV-2変異株が継続的に出現しているのは、宿主の免疫圧の最前線に位置するスパイクタンパク質の可塑性が大きく寄与している。本研究では、スパイクタンパク質のN末端ドメイン（NTD）の広範なリモデリングが、その抗原特性にどのような影響を及ぼすかを検討した。このドメインで高度に変異した変異株であるBA.2.87.1を用いた解析により、大規模な欠失が生じても、スパイクタンパク質全体の構造や擬似ウイルスの感染性が著しく損なわれることはないことが明らかになった。しかし、構造解析および結合解析の結果、NTDの柔軟性が増大しており、免疫優位エピトープの露出を促進することが知られているヘム代謝物との相互作用が失われていることが判明した。これらのコンフォメーションへの影響は、33箇所のNTD変異と相まって、ヒト回復期抗体による同ドメインへの結合能を低下させ、中和能の減退に寄与した。したがって、BA.2.87.1様変異株は既存のNTD標的抗体による認識を逃れ、保護能を低下させる可能性がある。以上の結果は、受容体結合ドメインを超えたスパイクタンパク質固有の適応能を浮き彫りにするものであり、ウイルス進化における免疫逃避に重要な示唆を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aej0664",
+    "title": "Structure of vesicular stomatitis virus L-P-N<sup>0</sup> complex by cryo-electron microscopy.",
+    "abstract": "The large protein (L) of nonsegmented, negative-strand RNA viruses, a viral order that includes rabies, Ebola, Nipah, and respiratory syncytial viruses, catalyze RNA-dependent RNA polymerization on nucleocapsid-sheathed RNA templates. L coordinates two distinct processes: messenger RNA (mRNA) transcription and genome replication. During transcription, L catalyzes cotranscriptional mRNA capping, methylation, and polyadenylation. The additional activities are not required during genome replication; instead, RNA synthesis is coupled to encapsidation by soluble nucleoprotein (N0) recruited by the phosphoprotein (P). We determined the structure of a vesicular stomatitis virus polymerase complex comprising L-P and N0. P directly engages the carboxyl-terminal domain of L (LCTD) to anchor N0 in a continuum of conformations including a more stable configuration with N0 positioned at the RNA-product exit channel, poised for encapsidation. This study reveals a function for LCTD in encapsidation of nascent RNAs and provides the structure of a polymerase complex required for genomic RNA replication.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aej0664",
+    "date": "2026-10-28",
+    "authors": "Bloyet LM, Whelan SPJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42950058",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13715724",
+    "pmid": "42950058",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 775,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1126/sciadv.aej0664"
+    ],
+    "translation": {
+      "title": {
+        "hash": "224e8eba11ec29baee1e2958b6f3599a1c288eb109fff4d75bce70767ffecfd1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:38:49.144772+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "208bcf84e01a4fd1e47bad26fd11317dafe97c2a3c62af0747dfb6ccf626168b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:38:49.144772+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クライオ電子顕微鏡法による水疱性口炎ウイルスL-P-N<sup>0</sup>複合体の構造解析",
+    "abstract_ja": "狂犬病、エボラ、ニパ、および呼吸器合胞体ウイルスを含むウイルス目である、非分節型負鎖RNAウイルスの大型タンパク質（L）は、ヌクレオカプシド被覆RNA鋳型上でRNA依存性RNA重合を触媒する。Lは、メッセンジャーRNA（mRNA）転写とゲノム複製という2つの異なるプロセスを協調的に制御する。転写において、Lは共転写性mRNAのキャッピング、メチル化、およびポリアデニル化を触媒する。これらの追加的な活性はゲノム複製時には必要とされず、代わりにRNA合成は、ホスホタンパク質（P）によって動員された可溶性ヌクレオタンパク質（N0）によるエンカプシデーションと共役している。我々は、L-PおよびN0からなる水疱性口炎ウイルスポリメラーゼ複合体の構造を決定した。PはLのカルボキシル末端ドメイン（LCTD）に直接結合してN0を固定し、N0がRNA産物排出チャネルに位置しエンカプシデーションの準備が整った、より安定な構成を含む一連のコンフォメーションに安定化させる。本研究は、新生RNAのエンカプシデーションにおけるLCTDの機能を明らかにするとともに、ゲノムRNA複製に必要なポリメラーゼ複合体の構造を提示するものである。"
   }
 ]
