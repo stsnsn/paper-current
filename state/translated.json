@@ -186473,5 +186473,335 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PhagoID：定量的in situ近接標識法により、種、成熟段階、および免疫活性化にわたるビーズおよび微生物含有ファゴソーム管腔のプロテオームを定義する。",
     "abstract_ja": "ファゴソームは、多様な積荷からのシグナルを統合し、病原体の殺傷、組織の恒常性維持、および抗原提示を駆動する免疫オルガネラである。この区画がいかにしてこのような多様な機能を協調させているかについては、未だ十分に解明されていない。細胞状態や摂動に応じたファゴソーム組成の包括的な知見が得られれば、その調節に関する理解が加速すると考えられる。本研究では、生細胞内のファゴソーム内腔のin situプロテオームプロファイリングを可能にするモジュール式近接標識法であるPhagoIDを確立した。マウスおよびヒトマクロファージにPhagoIDを適用し、典型的なリソソーム構成成分と、核、ミトコンドリア、および小胞体（ER）区画由来の予期せぬ寄与因子の両方を含む、保存的かつ種特異的なファゴソームプロテオームを定義した。これらのプロテオームを、ファゴソーム表現型に関する25種類のゲノムスケールCRISPRスクリーニングと統合することで、積荷の取り込み、酸性化、抗原提示、および微生物制御を調節する内腔タンパク質ネットワークを同定し、これまで認識されていなかったファゴソームエフェクターを明らかにした。次に、PhagoIDを微生物含有ファゴソームのプロファイリングに適応させ、無菌ビーズ含有ファゴソームと大腸菌（Escherichia coli）含有ファゴソームを比較することで、ファゴソームリモデリングにおける大腸菌特有のわずかなシグネチャーを実証した。比較解析により、LAMP1の欠損がER由来タンパク質のファゴソームへの動員を促進する一方で、TFEBの欠損は、リソソーム生合成における役割にもかかわらず、内腔プロテオームにほとんど影響を及ぼさないことがさらに明らかになった。最後に、サイトカイン刺激によりファゴソーム内腔がリモデリングされ、I型およびII型インターフェロンに応答して抗原提示および抗菌活性に関与するタンパク質が濃縮された。これらのデータは、PhagoIDがファゴソーム内腔の高信頼度かつ定量的で統合的なマップを提供し、自然免疫におけるオルガネラ間のコミュニケーションと調節制御の、これまで未同定であった軸を明らかにすることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aac.00845-26",
+    "title": "Mining and engineering novel staphylococcal lysostaphins as species-specific antibacterial agents.",
+    "abstract": "Antimicrobial resistance (AMR) presents a serious global healthcare challenge, with staphylococci, especially Staphylococcus aureus, being the main cause of deadly infections. Peptidoglycan hydrolases, particularly lysostaphins, are highly promising alternatives to traditional antibiotics, collectively termed enzybiotics, due to their specific lytic action against the bacterial cell wall. To thoroughly explore their therapeutic potential, we performed comprehensive genome mining of 118,127 staphylococcal and 500 closely related mammaliicoccal genomes. Ultimately, we discovered 19 unique lysostaphin sequences, divided into four distinct evolutionary clusters. By characterizing five novel lysostaphins alongside known references, we observed diverse lytic activities and species-specificities. Notably, we identified a novel lysostaphin variant from Staphylococcus simulans, Lys-Ssim, representing a previously unknown evolutionary cluster, which exhibits unmatched substrate promiscuity and an unprecedented lytic activity that extends beyond staphylococci. Additionally, structural modeling and site-directed mutagenesis revealed that peptidoglycan hydrolysis by these M23 metalloproteases depends on highly flexible conformations of the binding cleft. Using these structural insights, we successfully engineered lysostaphins with significantly improved enzyme selectivity for S. aureus while nearly eliminating activity against the skin commensal S. epidermidis. We also demonstrated the potential to engineer lysostaphins active against species other than staphylococci. Our findings show that natural staphylococcal lysostaphins are a rich, highly specialized resource for developing rationally engineered, microbiota-friendly antibacterial agents.",
+    "journal": "Antimicrobial Agents and Chemotherapy",
+    "doi": "10.1128/aac.00845-26",
+    "date": "2026-11-09",
+    "authors": "Bukowski M, Zhydzetski A, Jankowska A, Chlebicka K, Zarta DM, Malerczyk J, Włudyka F, Tossavainen H, Antenucci L, Permi P, Świderska K, Drąg M, Władyka B.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43002069",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43002069",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 696,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/aac.00845-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "49986cd42dfc1a61d9967c2db097e11493fdaaca125627af18c8c906fa7c9374",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:52:46.795507+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "76fa0ba0a36c5d6f4f2eef7db4b7f53b56a853a43b20a2fd0f7b478fe8e3290d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:52:46.795507+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "種特異的抗菌薬としての鉱業および工学分野の新規ブドウ球菌リソサフィンの探索",
+    "abstract_ja": "薬剤耐性（AMR）は世界的な医療上の深刻な課題となっており、特に黄色ブドウ球菌（Staphylococcus aureus）は致死的な感染症の主要な原因となっている。ペプチドグリカン加水分解酵素、特にリゾスタフィンは、細菌細胞壁に対する特異的な溶菌作用を有することから、総称してエンザイバイオティクス（enzybiotics）と呼ばれる従来の抗生物質に代わる極めて有望な代替薬である。その治療ポテンシャルを徹底的に探索するため、我々は118,127個のブドウ球菌ゲノムおよび500個の近縁な哺乳類球菌ゲノムを対象に包括的なゲノムマイニングを実施した。その結果、4つの異なる進化クラスターに分類される19種類のユニークなリゾスタフィン配列を発見した。5種類の新規リゾスタフィンを既知のリファレンスと共に特性解析したところ、多様な溶菌活性と種特異性が認められた。特筆すべきは、Staphylococcus simulans由来の新規リゾスタフィン変異体Lys-Ssimを同定したことであり、これはこれまで未知であった進化クラスターに属し、比類のない基質プロミシシティと、ブドウ球菌にとどまらない前例のない溶菌活性を示す。さらに、構造モデリングと部位特異的変異導入により、これらのM23メタロプロテアーゼによるペプチドグリカン加水分解が、結合裂隙の極めて柔軟なコンフォメーションに依存していることが明らかになった。これらの構造的知見を活用し、我々はS. aureusに対する酵素選択性を大幅に向上させつつ、皮膚常在菌であるS. epidermidisに対する活性をほぼ排除したリゾスタフィンの設計に成功した。また、ブドウ球菌以外の種に対しても活性を持つリゾスタフィンを設計できる可能性も実証した。本研究の知見は、天然のブドウ球菌由来リゾスタフィンが、合理的に設計された微生物叢に優しい抗菌剤を開発するための、豊富かつ高度に専門化されたリソースであることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1186/s12864-026-13502-3",
+    "title": "Chromosome-level assembly of Lemnamoeba sinaloensis gen. nov. et sp. nov. (Apofilosa) reveals dynamic genome evolution in Rhizaria.",
+    "abstract": "BackgroundRhizaria is a eukaryotic supergroup including many amoeboid protists. Despite harboring a large diversity and many ecologically important species, the genomes belonging to this supergroup remain poorly explored. With only a handful available genome sequences, most of low contiguity, little is known about overall architecture, characteristics, and evolution of rhizarian genomes.ResultsWe provide a highly contiguous genome assembly of an undescribed marine rhizarian amoeba formerly known as M6MM. The assembly revealed a small (27 Mb; 8704 genes) and compact genome (84% genes, 10% repeats, 6% intergenic regions), and was almost fully captured in six contigs confirmed cytologically to represent chromosomes. The genome contains a very large amount of simple-sequence repeats (SSRs), particularly of the AC:GT dinucleotide class (206 loci/Mb), in total covering almost 2% of the assembly. We also obtained the complete mitochondrial genome, which is reduced and devoid of ribosomal protein genes similarly to some other rhizarians. Some of these \"missing\" mitochondrial-encoded genes are found in the nuclear genome and are predicted to be targeted to the mitochondrion. In our 18S rDNA phylogenetic analysis, M6MM loosely groups with environmental sequences and the amoeboflagellate Viscidocauda repens. However, this amoeba is phylogenetically distant from any described species and expresses a unique pseudopodial morphology, prompting us to erect the novel genus and species Lemnamoeba sinaloensis gen. nov. et. sp. nov. Environmental data show that L. sinaloensis has a wide marine distribution and can mostly be found between the surface and 100 m depths.ConclusionThis study adds another genus to the hitherto taxonomically poor Apofilosa, provides one of the highest-quality rhizarian genome assemblies to date, and reveals an abundance of SSRs in the genome, highlighting the complexity of eukaryotic genomes in underexplored parts of the tree of life.",
+    "journal": "BMC Genomics",
+    "doi": "10.1186/s12864-026-13502-3",
+    "date": "2026-10-28",
+    "authors": "Hiltunen Thorén M, Onuț-Brännström I, Zlatogursky V, Pardasani Y, Pecková H, Karlíková A, Holzer AS, Burki F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43004207",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13746701",
+    "pmid": "43004207",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18s rdna",
+        "assembly",
+        "genome",
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 224,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1186/s12864-026-13502-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "480440ead7d5c2ea1676e3b0f39ed6308f1e3d4d2716afe0d5fbf910f53de18f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:52:46.795507+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "290948395957f5f73e6430fb491ad38e9ce93de9a2461392ab2f1e9171470e55",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:52:46.795507+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Lemnamoeba sinaloensis gen. nov. et sp. nov. (Apofilosa) の染色体レベルのアセンブリにより、根状菌類における動的なゲノム進化が明らかになった。",
+    "abstract_ja": "背景Rhizariaは、多くのアメーバ状原生生物を含む真核生物のスーパーグループである。多様性に富み、生態学的に重要な種を数多く擁しているにもかかわらず、このスーパーグループに属するゲノムの研究は依然として不十分である。利用可能なゲノム配列がわずか数例しかなく、その多くは連続性が低く、Rhizariaゲノムの全体的な構造、特性、および進化についてはほとんど解明されていない。結果我々は、従来M6MMとして知られていた未記載の海洋性Rhizariaアメーバの、極めて連続性の高いゲノムアセンブリを提示する。このアセンブリにより、小規模（27 Mb; 8,704遺伝子）かつコンパクトなゲノム（遺伝子の84%、反復配列10%、遺伝子間領域6%）が明らかとなり、細胞学的に染色体であると確認された6つのコンティグでほぼ完全に網羅された。ゲノムには非常に大量の単純配列反復（SSR）が含まれており、特にAC:GTジヌクレオチドクラス（206 loci/Mb）が多く、アセンブリ全体のほぼ2%を占めている。また、他のいくつかのRhizariaと同様に、還元されリボソームタンパク質遺伝子を欠く完全なミトコンドリアゲノムも得られた。これらの「欠損」したミトコンドリア符号化遺伝子の一部は核ゲノムに存在し、ミトコンドリアを標的としていると予測される。我々の18S rDNA系統解析において、M6MMは環境配列およびアメーバ鞭毛虫のViscidocauda repensと緩やかにグループ化された。しかし、このアメーバは既記載のどの種とも系統的に遠く離れており、独特な偽足形態を示すことから、我々は新属新種Lemnamoeba sinaloensis gen. nov. et. sp. nov.を設立した。環境データは、L. sinaloensisが広範な海洋分布を持ち、主に表層から水深100 mの間で確認されることを示している。結論本研究は、これまで分類学的知見が乏しかったApofilosaに別の属を加え、現時点で最高品質のRhizariaゲノムアセンブリの一つを提供するとともに、ゲノム内に豊富なSSRが存在することを明らかにし、生命の樹の未探索領域における真核生物ゲノムの複雑さを浮き彫りにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bib/bbag612",
+    "title": "A recall-rescue fuzzy layer over paired Z-DNA Hunter scans for fast Z-DNA detection.",
+    "abstract": "Accurate detection of Z-DNA-forming regions is limited by the trade-off between sensitivity and specificity in sequence-based methods. We present Z-DNA-Fuzzy Hunter 1.1.0-a fast and interpretable protocol that extends Z-DNA Hunter through a dual-scan strategy combined with a fuzzy expert layer. A permissive scan (model 2, minimum length 6 bp, threshold 30%) captures a broad candidate set, while a stringent scan (model 2, minimum length 10 bp, threshold 60%) provides high-confidence support. These outputs are integrated using fuzzy inference incorporating sequence signal, cross-scan support, genomic context, and bias penalties. On the audited 385-locus Shin analysis, the protocol achieves balanced accuracy 0.883 (recall 0.862, specificity 0.904), comparable with the published Z-DNABERT operating point, while alternative modes increase specificity to 0.973. The paired scans are combined by a transparent, configurable prioritization layer with an adjustable recall-specificity trade-off. The local workflow requires only a FASTA (Fast-All sequence alignment format), sequence and transcription start site annotation. The tool is freely available at https://github.com/mifo123/zdna-fuzzy-hunter.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag612",
+    "date": "2026-11-01",
+    "authors": "Petrovič M, Trenz O, Kledus F, Brázda V, Šťastný J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43002598",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13747010",
+    "pmid": "43002598",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 825,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/bib/bbag612"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ab198b7ceb1ffd4a6ae4ebf20ace658114ea9282e47b7a3ebbacb119dbe541e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:52:46.795507+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dff17c121a9ed90952030c279093b2382edb7a4146e1cb06d2f2e451aba07541",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:52:46.795507+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "高速なZ-DNA検出のため、ペアになったZ-DNAハンタースキャン上にリコール・レスキュー型ファジィ層を配置する。",
+    "abstract_ja": "Z-DNA形成領域の正確な検出は、配列ベースの手法における感度と特異度のトレードオフによって制限されている。本稿では、ファジィエキスパート層を組み合わせたデュアルスキャン戦略によりZ-DNA Hunterを拡張した、高速かつ解釈可能なプロトコル「Z-DNA-Fuzzy Hunter 1.1.0-a」を提案する。許容型スキャン（モデル2、最小長6 bp、閾値30%）で広範な候補セットを捕捉し、厳格型スキャン（モデル2、最小長10 bp、閾値60%）で高信頼度の支持を得る。これらの出力は、配列シグナル、クロススキャン支持、ゲノムコンテキスト、およびバイアスペナルティを組み込んだファジィ推論を用いて統合される。監査済みの385遺伝子座Shin解析において、本プロトコルはバランス正解率0.883（再現率0.862、特異度0.904）を達成し、これは既報のZ-DNABERTの動作点と同等である。一方、代替モードでは特異度が0.973まで向上する。ペアとなったスキャンは、再現率と特異度のトレードオフを調整できる、透過的かつ設定可能な優先順位付けレイヤーによって統合される。ローカルワークフローに必要なのは、FASTA（Fast-All sequence alignment format）、配列、および転写開始部位のアノテーションのみである。本ツールは https://github.com/mifo123/zdna-fuzzy-hunter で無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "im",
+      "journal article"
+    ],
+    "id": "10.1016/j.cell.2026.10.022",
+    "title": "An integrative single-cell epigenomic atlas annotates the regulatory genome of the adult mouse brain.",
+    "abstract": "Histone modifications underpin the cell-type-specific gene regulatory programs that drive the remarkable cellular diversity of the mammalian brain. Here, we jointly profiled four histone modifications and the transcriptome in 2.5 million nuclei from the adult mouse brain. By integrating these data with chromatin accessibility, DNA methylation, and three-dimensional genome organization, we constructed a unified epigenomic atlas spanning over 100 brain cell subclasses and assigned active, primed, and repressive chromatin states across 81% of the genome. Active chromatin states marked by combinatorial histone modifications better nominate candidate enhancers with functional support than chromatin accessibility alone, while H3K27me3- and H3K9me3-marked chromatin states delineate distinct modes of cell-type-specific gene repression. Finally, this multimodal resource enables the development of deep learning models that predict cell-type-specific epigenomic features and gene expression from DNA sequence, providing a comprehensive framework for annotating the brain regulatory genome and interpreting non-coding disease risk variants.",
+    "journal": "Cell",
+    "doi": "10.1016/j.cell.2026.10.022",
+    "date": "2026-11-01",
+    "authors": "Wang Z, Zu S, Armand EJ, Loe TH, Rink JA, Wu W, Xie Y, Chang L, Zhu C, Johnson ND, Lee J, Willier JK, Cho S, Cao S, Barcoma AS, Emerson N, Liu H, Wang K, Saravanan B, Zhong G, Gibbs ZA, Gao X, Xu S, Guo D, Tu Z, Li YE, Ecker JR, Behrens MM, Ren B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43020033",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43020033",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1228,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1016/j.cell.2026.10.022"
+    ],
+    "translation": {
+      "title": {
+        "hash": "67adfa56642182971fd501db9b10489b05f7770aa75320bcefbec9e95e0dda84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:52:46.795507+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5df8eb028762af9d437e0322d0534f7d6b5be6d542f11b73396602c537f6353f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:52:46.795507+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合的な単一細胞エピゲノムアトラスが、成体マウス脳の調節ゲノムをアノテーションしている。",
+    "abstract_ja": "ヒストン修飾は、哺乳類の脳における驚異的な細胞多様性を駆動する細胞種特異的な遺伝子調節プログラムの基盤となっている。本研究では、成体マウス脳の250万個の核において、4種類のヒストン修飾とトランスクリプトームを共同でプロファイリングした。これらのデータをクロマチンアクセシビリティ、DNAメチル化、および3次元ゲノム構造と統合することで、100を超える脳細胞サブクラスを網羅する統一的なエピゲノムアトラスを構築し、ゲノムの81%にわたって活性型、プライミング型、および抑制型のクロマチン状態を割り当てた。組み合わせ型ヒストン修飾によって標識された活性型クロマチン状態は、クロマチンアクセシビリティ単独よりも機能的根拠を伴うエンハンサー候補をより適切に特定し、一方でH3K27me3およびH3K9me3で標識されたクロマチン状態は、細胞種特異的な遺伝子抑制の異なる様式を画定する。最後に、このマルチモーダルリソースにより、DNA配列から細胞種特異的なエピゲノム特徴および遺伝子発現を予測する深層学習モデルの開発が可能となり、脳調節ゲノムのアノテーションおよび非コード疾患リスクバリアントの解釈のための包括的なフレームワークが提供される。"
   }
 ]
