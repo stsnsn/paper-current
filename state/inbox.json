@@ -349101,5 +349101,2164 @@
     "related_dois": [
       "10.21203/rs.3.rs-11639131/v1"
     ]
+  },
+  {
+    "id": "10.1126/science.aei8923",
+    "title": "Mysticism meets empiricism",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aei8923",
+    "date": "2026-11-12",
+    "authors": "Nicola Pohl",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aei8923?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4252,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aei8923"
+    ]
+  },
+  {
+    "id": "10.1126/science.ael6608",
+    "title": "Tales from the Viking dead",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.ael6608",
+    "date": "2026-11-12",
+    "authors": "Anders Winroth",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.ael6608?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4253,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.ael6608"
+    ]
+  },
+  {
+    "id": "10.1126/science.ady7788",
+    "title": "Differentiation of stem-like CD4+ T cells modulates early effector responses in colorectal cancer",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.ady7788",
+    "date": "2026-11-12",
+    "authors": "Yu Zhang, Hu Nie, Zixuan Dai, Liying Zhao, Yihong Wan, Yi Wang, Yikang Chen, Xinhua Chen, Zhijun Xu, Jixing Zhong, Dechun Cheng, Qiushuang Wu, Cong Ouyang, Peilu Lin, Haijun Deng, Zhen Liu, Guoxin Li, Chengqian Yin, Lei Zhang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.ady7788?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4254,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.ady7788"
+    ]
+  },
+  {
+    "id": "10.1126/science.adz0597",
+    "title": "Giant elastoresistance in magic-angle twisted bilayer graphene",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.adz0597",
+    "date": "2026-11-12",
+    "authors": "Xuetao Ma, Zhaoyu Liu, Jiaqi Cai, Kenji Watanabe, Takashi Taniguchi, Xiaodong Xu, Jiun-Haw Chu, Matthew Yankowitz",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.adz0597?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4255,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.adz0597"
+    ]
+  },
+  {
+    "id": "10.1126/science.aed8712",
+    "title": "AI-monitored bioadhesive for sutureless microvascular anastomosis",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aed8712",
+    "date": "2026-11-12",
+    "authors": "Fangchao Xue, Shanlan Zhao, Hao Tian, Lang Li, Xinrong Xu, Yixiang Lu, Kaige Xu, Lang He, Yueying Wang, Zhaojing Ba, Yumei Que, Di Liu, Yuxin Xing, Yang Su, Malcolm Xing, Wen Zeng",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aed8712?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4256,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aed8712"
+    ]
+  },
+  {
+    "id": "10.1126/science.aed9544",
+    "title": "Atmospheric O2 reveals a strengthening ocean carbon sink and a stagnant net land sink since 1990",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aed9544",
+    "date": "2026-11-12",
+    "authors": "Eric J. Morgan, Yuming Jin, Elena Kozlova, Andrew J. Watson, Andrew C. Manning, Sönke Zaehle, Yasunori Tohjima, Xin Lan, Ralph F. Keeling",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aed9544?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4257,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aed9544"
+    ]
+  },
+  {
+    "id": "10.1126/science.aee0342",
+    "title": "Limited genomic predictability of complex trait evolution despite genotype-phenotype stability",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aee0342",
+    "date": "2026-11-12",
+    "authors": "J. A. Smiley-Rhodes, M. C. Bitter, S. Berardi, J. Beltz, D. A. Petrov, P. Schmidt",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aee0342?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4258,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aee0342"
+    ]
+  },
+  {
+    "id": "10.1126/science.aef3150",
+    "title": "A trapped catalytic product acts as molecular glue for innate immune signalosome assembly",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aef3150",
+    "date": "2026-11-12",
+    "authors": "Qi Liu, Zhongjian Bai, Tianyi Liu, Fangshuai Jia, Yi Ji, Canxi Chen, Yao Gong, Liuyuan Duan, Jiahui Zhou, Qian Guo, Ling Zhu, Huarui Kang, Haiyong Wang, Zhewen Shen, Xiaoxiang Huang, Jiayi Shen, Wenguang Shao, Junbiao Chang, Jijie Chai, Yixiao Zhang, Zhifu Han, Chenlu Zhang, Zehan Hu",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aef3150?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4259,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aef3150"
+    ]
+  },
+  {
+    "id": "10.1126/science.aef6714",
+    "title": "Increased demographic turnover and isolation precede social fragmentation in Asian elephants",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aef6714",
+    "date": "2026-11-12",
+    "authors": "Anastasia E. Madsen, T. V. Pushpakumara, U. Sameera Weerathunga, Devaka K. Weerakoon, Shermin de Silva",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aef6714?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4260,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aef6714"
+    ]
+  },
+  {
+    "id": "10.1126/science.aef8444",
+    "title": "Direct monitoring of breaching in deltaic submarine landslides",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aef8444",
+    "date": "2026-11-12",
+    "authors": "Rebecca G. Englert, Matthieu J. B. Cartigny, Megan L. Baker, Sanem Acikalin, Dick Mastbergen, Niall Tracey, Sean C. Ruffell, Daniel H. Shugar, D. Gwyn Lintern, Romit Aggarwal, Lewis Bailey, Daniel Bell, Michael A. Clare, Stephen M. Hubbard, Gustavo Lobato, Daniel Parsons, Stephen M. Simmons, Cooper Stacey, Peter Talling, Michael Tilston",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aef8444?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4261,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aef8444"
+    ]
+  },
+  {
+    "id": "10.1126/science.aef9342",
+    "title": "Poisoned hunting weapons, megafauna, and plant use at a 125,000-year-old Arabian paleolakeshore",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aef9342",
+    "date": "2026-11-12",
+    "authors": "Chris Clarkson, Gilbert J. Price, Amir Kalifi, Giacomo Losi, Carney Matheson, Faisal Al-Jibreen, Abdullah M. Alsharekh, Simon J. Armitage, Ikram Blilou, Nicole Boivin, Paul S. Breeze, Nick Drake, Mathieu Duval, Sophia Gradwell, Huw S. Groucutt, Maria Guagnin, Juliana Guzmán, Laurence Hapiot, Virginia Martínez-Pillado, Jihede Haj Messaoud, Kasih Norman, Veerle Rots, Ian H. Sobbe, Mathew Stewart, Michael D. Petraglia, Frans van Buchem",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aef9342?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4262,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aef9342"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeg2366",
+    "title": "Climate aridity amplifies global riverine nitrate beyond human inputs",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeg2366",
+    "date": "2026-11-12",
+    "authors": "Kayalvizhi Sadayappan and Li Li",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeg2366?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4263,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeg2366"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeg8777",
+    "title": "The genetic landscape of canine tumors: Insights from the Canine Cancer Genome Atlas (CCGA)",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeg8777",
+    "date": "2026-11-12",
+    "authors": "Eugenio Mazzone, Laura Marconato, Antonella Fanelli, Luciano Cascione, Francesco Bertoni, Caterina Marchiò, Anna Sapino, Luca Aresu",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeg8777?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4264,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeg8777"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeh3996",
+    "title": "TMEM184 proteins are Ca2+ uptake transporters in lysosomes",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeh3996",
+    "date": "2026-11-12",
+    "authors": "Weijie Cai, Yalan Wang, Fangqian Huang, Yulou Zhang, Mingxue Gu, Chuanyan Yang, Ping Li, Wenfeng Jiang, Xiaotong Yang, Xiaodong Xu, Xiangli Li, Demin Ma, Fan Xia, Zijie Xu, Yuxin Liu, Vanity Spruill, Jiangtao Guo, Suhong Xu, Youjun Wang, Yamuna Krishnan, Liping Qiu, Meiqin Hu, Haoxing Xu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeh3996?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4265,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeh3996"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeh5525",
+    "title": "Geodetic observations in West Antarctica reveal geodynamically consistent 3D mantle viscosity",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeh5525",
+    "date": "2026-11-12",
+    "authors": "Donna L. dePolo, Tao Yuan, Matt A. King, Shijie Zhong",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeh5525?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4266,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeh5525"
+    ]
+  },
+  {
+    "id": "10.1126/science.aej7530",
+    "title": "ESCRT-0 condensation and cargo clustering drive extracellular vesicle budding from cilia",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aej7530",
+    "date": "2026-11-12",
+    "authors": ", Yash Raj, Gary A. Bradshaw, Henry T. Phan, Catalina Kretschmar, Marian Kalocsay, Maxence V. Nachury",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aej7530?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4267,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aej7530"
+    ]
+  },
+  {
+    "id": "10.1126/science.adr5469",
+    "title": "Quantitative measurement of viscosity in two-dimensional electron fluids",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.adr5469",
+    "date": "2026-11-12",
+    "authors": "Yihang Zeng, Haoyu Guo, Olivia M. Ghosh, Kenji Watanabe, Takashi Taniguchi, Leonid S. Levitov, Cory R. Dean",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.adr5469?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4268,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.adr5469"
+    ]
+  },
+  {
+    "id": "10.1126/science.adw7770",
+    "title": "Carbon dioxide and amorphous water ices in the debris disk around β Pictoris",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.adw7770",
+    "date": "2026-11-12",
+    "authors": "S. K. Betti, C. H. Chen, C. Xie, K. Worthen, S. Brittain, J. Najita, I. Rebollido, T. Beck, B. T. Bolin, D. Hines, C. Ingebretsen, C. Lisse, M. D. Perrin, L. Pueyo, I. Wong, C. Stark",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.adw7770?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4269,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.adw7770"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeo0222",
+    "title": "In Other Journals",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeo0222",
+    "date": "2026-11-12",
+    "authors": "Corinne Simonti, and Jesse Smith, Jesse Smith, Priscilla N. Kelly, Unnati Sonawala, Mattia Maroso, Jelena Stajic, Yevgeniya Nusinovich, and Brad Wible",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeo0222?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4270,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeo0222"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeo0223",
+    "title": "Leading with humility",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeo0223",
+    "date": "2026-11-12",
+    "authors": "Longjun Dong",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeo0223?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4271,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeo0223"
+    ]
+  },
+  {
+    "id": "10.1126/science.aem4781",
+    "title": "Tuning the immune ecosystem to treat cancer",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aem4781",
+    "date": "2026-11-12",
+    "authors": "Matthew R. Olson",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem4781?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4272,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aem4781"
+    ]
+  },
+  {
+    "id": "10.1126/science.aem7174",
+    "title": "Oxygen tells the tale of Earth’s carbon sinks",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aem7174",
+    "date": "2026-11-12",
+    "authors": "Roland Séférian and Laurent Bopp",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem7174?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4273,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aem7174"
+    ]
+  },
+  {
+    "id": "10.1126/science.aem8354",
+    "title": "Budding without an ESCRT",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aem8354",
+    "date": "2026-11-12",
+    "authors": "Jeremy G. Carlton",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8354?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4274,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aem8354"
+    ]
+  },
+  {
+    "id": "10.1126/science.aem6415",
+    "title": "The devastating impact of humans on elephants’ social life",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aem6415",
+    "date": "2026-11-12",
+    "authors": "Sydney F. Hope and Joshua M. Plotnik",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem6415?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4275,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aem6415"
+    ]
+  },
+  {
+    "id": "10.1126/science.aem4493",
+    "title": "US water protection maps undercount wetlands",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aem4493",
+    "date": "2026-11-12",
+    "authors": "Zhenghong Tang and Jahangeer Jahangeer",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem4493?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4276,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aem4493"
+    ]
+  },
+  {
+    "id": "10.1126/science.aen7042",
+    "title": "EDITOR’S NOTE on the Research Article “Mucus enhances gut homeostasis and oral tolerance by delivering immunoregulatory signals”",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aen7042",
+    "date": "2026-11-12",
+    "authors": "H. Holden Thorp",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen7042?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4277,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aen7042"
+    ]
+  },
+  {
+    "id": "10.1126/science.aem4589",
+    "title": "Coordinate protection for transboundary fishes",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aem4589",
+    "date": "2026-11-12",
+    "authors": "Dongqing Li and Xiaotao Shi",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem4589?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4278,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aem4589"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeo0638",
+    "title": "Californians approve controversial $8.4 billion immunology initiative",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeo0638",
+    "date": "2026-11-12",
+    "authors": "Phie Jacobs",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeo0638?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4279,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeo0638"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeo0622",
+    "title": "The sideshow",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeo0622",
+    "date": "2026-11-12",
+    "authors": "Jennie Erin Smith",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeo0622?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4280,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeo0622"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeo0637",
+    "title": "Researchers have a wish list. Can the new Congress deliver?",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeo0637",
+    "date": "2026-11-12",
+    "authors": "Jeffrey Mervis",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeo0637?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4281,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeo0637"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeo0639",
+    "title": "AI research deepens mystery of cellular ‘vaults’",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeo0639",
+    "date": "2026-11-12",
+    "authors": "John Travis",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeo0639?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4282,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeo0639"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeo0640",
+    "title": "Novel gene therapy lets drug dampen brain cell activity, reducing seizures",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeo0640",
+    "date": "2026-11-12",
+    "authors": "Ailie McWhinnie",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeo0640?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4283,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeo0640"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeo0641",
+    "title": "Neurons in a dish are the newest computing machines",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeo0641",
+    "date": "2026-11-12",
+    "authors": "Sara Reardon",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeo0641?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4284,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeo0641"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeo0642",
+    "title": "Prolific infectious diseases group draws scrutiny",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeo0642",
+    "date": "2026-11-12",
+    "authors": "Jon Cohen",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeo0642?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4285,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeo0642"
+    ]
+  },
+  {
+    "id": "10.1126/science.aem8493",
+    "title": "Ebola vaccine lessons",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aem8493",
+    "date": "2026-11-12",
+    "authors": "Seth Berkley",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aem8493?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4286,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aem8493"
+    ]
+  },
+  {
+    "id": "10.1126/science.aen7366",
+    "title": "Tracking danger on the peaks",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aen7366",
+    "date": "2026-11-12",
+    "authors": "Miriam Jackson and Amrit Thapa",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen7366?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4287,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aen7366"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeo0226",
+    "title": "New Products",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeo0226",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeo0226?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4288,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeo0226"
+    ]
+  },
+  {
+    "id": "10.1126/science.aen0898",
+    "title": "Building a cell engineering toolbox",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aen0898",
+    "date": "2026-11-12",
+    "authors": "Kaiyi Jiang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen0898?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4289,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aen0898"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeh4460",
+    "title": "Fixing the power transmission crisis",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeh4460",
+    "date": "2026-11-12",
+    "authors": "Madeline Yozwiak, David G. Victor, and M. Granger Morgan",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeh4460?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4290,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeh4460"
+    ]
+  },
+  {
+    "id": "10.1126/science.aen0889",
+    "title": "Thermal infrared pollination by beetles",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aen0889",
+    "date": "2026-11-12",
+    "authors": "Wendy A. Valencia-Montoya",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen0889?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4291,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aen0889"
+    ]
+  },
+  {
+    "id": "10.1126/science.aen0894",
+    "title": "Nature’s cellular nuke",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aen0894",
+    "date": "2026-11-12",
+    "authors": "Chew Chai",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen0894?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4292,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aen0894"
+    ]
+  },
+  {
+    "id": "10.1126/science.aen0901",
+    "title": "New tools for an old problem",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aen0901",
+    "date": "2026-11-12",
+    "authors": "Eric Sun",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aen0901?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4293,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aen0901"
+    ]
+  },
+  {
+    "id": "10.1126/science.aeo0221",
+    "title": "In Science Journals",
+    "abstract": "",
+    "journal": "Science",
+    "doi": "10.1126/science.aeo0221",
+    "date": "2026-11-12",
+    "authors": "Michael Funk, and Jonathan N. Katz, Sacha Vignieri, Jelena Stajic, Keith T. Smith, Angela Hessler, Jesse Smith, Marc S. Lavine, Leoma Bere, Corinne Simonti, L. Bryan Ray, Stella M. Hurtley, Sarah H. Ross, Yevgeniya Nusinovich, Priscilla N. Kelly, Annalisa VanHook, and Guillermo Oliver",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/science.aeo0221?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4294,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1126/science.aeo0221"
+    ]
+  },
+  {
+    "id": "10.1371/journal.pbio.3004089",
+    "title": "The importance of genes does not predict their mutation rate",
+    "abstract": "by Sofia Radrizzani, Laurence D. Hurst\n\nThe convention that mutation is a random process has been challenged by suggestions that selection has acted on between-gene variation in the mutation rate, with claims that more important genes are protected from mutation in part, in prokaryotes, by being on the leading strand, while those required for rapid adaptive evolution have higher mutation rates, in part by being on the lagging strand. The original selectionist claims have proven contentious with several replication failures. However, none of the replication attempts fully allow for covariates and many employ data from mismatch repair (MMR) knockout strains. To address these limitations, we consider amassed mutation accumulation data for wild-type Escherichia coli, the focal species for adaptive claims, and Saccharomyces cerevisiae, in a multiple parameter-controlled analysis to predict between-gene variation in mutational density (mutations per base pair). Along with covariates, we consider putative selectively relevant parameters: protein level and essentiality to capture genic “importance”, and, in E. coli, strand with respect to DNA replication. We consider deviation of correlation and partial correlation values from those expected under trinucleotide-controlled simulations. While in E. coli more highly transcribed genes may have slightly lower mutation rates, potentially consistent with a selectionist model, the same is not seen in yeast, and in neither species do genes for more abundant or essential proteins have lower mutation rates. In E. coli there is no difference in mutation rate between genes on different strands, a lack of difference replicated in other prokaryotes. The degree of purifying selection is also not predictive of mutation density. We additionally highlight a strong artefact seen using the standard off-the-shelf statistical approach and note that results from MMR-deficient strains are discordant. We conclude that as trends are nearly uniformly unsupportive, not consistent between species and of miniscule effect size, they present no challenge to convention.",
+    "journal": "PLOS Biology",
+    "doi": "10.1371/journal.pbio.3004089",
+    "date": "2026-11-12",
+    "authors": "Laurence D. Hurst",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004089",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Saccharomyces",
+        "prokaryote",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/plosbiology/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4295,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://journals.plos.org/plosbiology/feed/atom"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1371/journal.pbio.3004089"
+    ]
+  },
+  {
+    "id": "10.1371/journal.pgen.1012372",
+    "title": "Novel enzymes for amino acid biosynthesis in diverse bacteria and archaea: GapMind 2026",
+    "abstract": "by Morgan N. Price, Valentine V. Trotter, Markus de Raad, Suzanne M. Kosina, Hira P. Lesea, Anthony L. Shiver, Leslie A. Day, Surya Tripathi, Marta Torres, Trenton K. Owens, Audrey Liwen Wang, Anna Lisa Fear, Xuanyu Tao, Jizhong Zhou, Adam M. Deutschbauer, Adam P. Arkin\n\nWe previously described GapMind, an automated web-based tool for annotating amino acid biosynthesis pathways in bacterial and archaeal genomes. We used GapMind to identify gaps in biosynthetic pathways and systematically used comparative genomics and high-throughput genetics to identify candidate genes to fill these gaps. We confirmed the activity of ten of the proposed enzymes by using cross-species complementation assays. Highlights include a route to glycine via glyoxylate, two families that can replace phosphoserine phosphatase, an alternative N-succinyl-L,L-diaminopimelate desuccinylase, an alternative N-acetylornithine deacetylase, and a putative bifunctional MetB/MetC. We updated GapMind to include these additional enzymes. Across 208 prokaryotes that have high-quality genomes and can grow in minimal media, the average number of unexplained missing steps or gaps in amino acid biosynthesis dropped from 1.4 per genome to 0.7 per genome. The majority of remaining gaps involve the gain or loss of phosphate groups.",
+    "journal": "PLOS Genetics",
+    "doi": "10.1371/journal.pgen.1012372",
+    "date": "2026-11-12",
+    "authors": "Adam P. Arkin",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012372",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "prokaryote"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/plosgenetics/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4296,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://journals.plos.org/plosgenetics/feed/atom"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1371/journal.pgen.1012372"
+    ]
+  },
+  {
+    "id": "10.1038/s41579-026-01387-8",
+    "title": "The soil microbiome in an era of global change",
+    "abstract": "Soils and their microbiomes are being severely affected by rapid global change. Understanding the effects of anthropogenic stressors on the soil microbiome is therefore key to improving soil resilience and ensuring planetary health. This Focus issue highlights the pressing threats to belowground microbial biodiversity and the opportunities and challenges to restore it.",
+    "journal": "Nature Reviews Microbiology",
+    "doi": "10.1038/s41579-026-01387-8",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41579-026-01387-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nrmicro.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4297,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.nature.com/nrmicro.rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1038/s41579-026-01387-8"
+    ]
   }
 ]

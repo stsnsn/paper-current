@@ -1512,6 +1512,7 @@
   {
     "name": "Chemical communications (Cambridge, England)",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -1878,6 +1879,13 @@
     ]
   },
   {
+    "name": "Critical reviews in food science and nutrition",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Critical reviews in microbiology",
     "scope": [
       "genomics",
@@ -1922,6 +1930,13 @@
   },
   {
     "name": "Current gene therapy",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Current HIV/AIDS reports",
     "scope": [
       "genomics",
       "microbiology"
@@ -2146,6 +2161,13 @@
     ]
   },
   {
+    "name": "Diabetes, obesity & metabolism",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Diabetes research and clinical practice",
     "scope": [
       "genomics",
@@ -2319,6 +2341,13 @@
   },
   {
     "name": "Endocrine-related cancer",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Endocrinology, diabetes & metabolism",
     "scope": [
       "genomics",
       "microbiology"
@@ -2698,6 +2727,13 @@
     "name": "The FEBS journal",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "FEBS open bio",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -4468,6 +4504,13 @@
     ]
   },
   {
+    "name": "Journal of microbiology and biotechnology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of microbiology & biology education",
     "scope": [
       "genomics",
@@ -4637,6 +4680,13 @@
   },
   {
     "name": "Journal of pharmaceutical and biomedical analysis",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "The Journal of pharmacy and pharmacology",
     "scope": [
       "genomics",
       "microbiology"
@@ -5004,6 +5054,13 @@
     ]
   },
   {
+    "name": "Lupus science & medicine",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Mammalian genome : official journal of the International Mammalian Genome Society",
     "scope": [
       "genomics",
@@ -5095,6 +5152,7 @@
     "name": "Medical oncology (Northwood, London, England)",
     "scope": [
       "ecology",
+      "genomics",
       "microbiology"
     ]
   },
@@ -5425,6 +5483,13 @@
     ]
   },
   {
+    "name": "Molecular carcinogenesis",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Molecular cell",
     "scope": [
       "genomics",
@@ -5462,6 +5527,13 @@
   },
   {
     "name": "Molecular genetics and metabolism",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Molecular genetics and metabolism reports",
     "scope": [
       "genomics",
       "microbiology"
@@ -5842,6 +5914,13 @@
     ]
   },
   {
+    "name": "Neurochemical research",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
     "scope": [
       "genomics",
@@ -6193,6 +6272,13 @@
     "name": "PeerJ",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Periodontology 2000",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -6577,6 +6663,13 @@
     ]
   },
   {
+    "name": "Progress in neuro-psychopharmacology & biological psychiatry",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Prostate cancer",
     "scope": [
       "genomics",
@@ -6647,6 +6740,13 @@
     "name": "Renal failure",
     "scope": [
       "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Reports (MDPI)",
+    "scope": [
+      "ecology",
       "microbiology"
     ]
   },
@@ -6795,6 +6895,7 @@
     "name": "Science",
     "scope": [
       "ecology",
+      "genomics",
       "microbiology"
     ]
   },
@@ -6882,6 +6983,13 @@
     "name": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)",
     "scope": [
       "ecology",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "SLAS technology",
+    "scope": [
+      "genomics",
       "microbiology"
     ]
   },
@@ -6976,6 +7084,13 @@
     ]
   },
   {
+    "name": "Tissue barriers",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Topics in cognitive science",
     "scope": [
       "genomics",
@@ -6998,6 +7113,13 @@
   },
   {
     "name": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Transfusion",
     "scope": [
       "genomics",
       "microbiology"
@@ -7419,6 +7541,13 @@
   },
   {
     "name": "Zoonoses and public health",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Zygote (Cambridge, England)",
     "scope": [
       "genomics",
       "microbiology"
