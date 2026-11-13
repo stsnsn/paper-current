@@ -190587,5 +190587,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "頻度依存的な適応度効果は、急速に適応する微生物集団において普遍的に見られる。",
     "abstract_ja": "単純な微生物集団では、選択された変異による適応度への影響は、変異頻度に関わらず通常一定であると想定される。この仮定は、進化動態、エピスタシス、および遺伝的多様性の維持に関する予測の基盤となっている。本研究では、大腸菌長期進化実験（LTEE）の初期世代における有益な変異を用いて、この仮定を系統的に検証した。フローサイトメトリーに基づく競合アッセイを用いた結果、頻度依存的な適応度への影響は例外ではなくむしろ一般的であり、試験した菌株ペアの約80%で認められた。ほとんどの競合では負の頻度依存性が示され、変異頻度の増加に伴い適応度の優位性が低下する。我々は、頻度依存性の強さが侵入適応度の測定値から予測可能であることを実証し、これが頻度依存的な勾配における生物学的変異の約半分を説明している。また、いくつかの菌株組み合わせにおいて適応度の推移性の違反が観察され、単一の参照株に対して測定した適応度から競合結果を常に予測できるわけではないことが示された。高解像度の測定により、頻度依存性は増殖サイクル内で大幅に変化し、1サイクルあたりの正味の効果は異なる増殖相における相反する動態のバランスを反映していることが明らかになった。我々の結果は、生態学的複雑性を最小限に抑えるように設計されたモデル系においても、近縁な遺伝子型間の微妙な相互作用が頻度依存的な選択を生み出し、それが進化の軌跡を根本的に変え得ることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1970166",
+    "title": "Plant growth-promoting traits and biocontrol mechanism of three <i>Pseudomonas</i> strains against <i>Geotrichum citri-aurantii</i>.",
+    "abstract": "BackgroundPlant growth-promoting rhizobacteria (PGPR) play essential roles in improving plant growth performance and enhancing plant disease resistance. Pseudomonas species are widely recognized as promising beneficial microorganisms owing to their excellent plant growth-promoting and biocontrol potential.MethodsThree bacterial strains, MBJ003, MBJ016 and MB1046, were isolated from potato and tomato rhizosphere soils collected in Guangdong Province, P.R. China. Taxonomic identification was performed based on morphological characteristics, physiological and biochemical profiles, as well as phylogenetic and whole-genome analyses. Genomic features, plant-growth promoting traits and antifungal activities against Geotrichum citri-aurantii were characterized, and the function of the type VI secretion system (T6SS) in strain MB1046 was explored.ResultsStrain MBJ003 was identified as Pseudomonas paraeruginosa, MB1046 as Pseudomonas palmensis, and MBJ016 represents a novel Pseudomonas species. Whole-genome sequencing uncovered abundant and diverse secondary metabolite biosynthetic gene clusters (BGCs) underlying biocontrol capacity. Additionally, strain MB1046 harbours 17 type VI secretion system (T6SS) components. All three strains exhibited multiple plant-beneficial traits including phosphate solubilization, siderophore synthesis and IAA production, while strain MBJ003 additionally showed protease activity. The three strains displayed strong antagonism toward G. citri-aurantii. Their cell-free fermentation supernatants exerted antifungal effects, with MBJ003 showing the strongest inhibition. In vitro inoculation assays confirmed that these strains effectively control citrus postharvest disease caused by G. citri-aurantii. We further provided insights into the T6SS-mediated antagonism of MB1046 against G. citri-aurantii.ConclusionThis study systematically characterizes the plant-growth-promoting properties and antifungal mechanism of three Pseudomonas strains. These strains are valuable microbial candidates for developing biocontrol agents to manage crop postharvest diseases.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1970166",
+    "date": "2026-10-26",
+    "authors": "Wang C, Mao L, Zhu B, Liu X, Xv X, Zhuo J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005209",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13745667",
+    "pmid": "43005209",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 94,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1970166"
+    ],
+    "translation": {
+      "title": {
+        "hash": "113e4e73f89b33d61d1d8a88a5e5cb0353d368246bb3a47ba2aae7c983f48754",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:38:40.078161+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "af148f5ef148b44c8910757681d455823cc1fcbf4079998fd66785ab1356801f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:38:40.078161+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Geotrichum citri-aurantii</i>に対する<i>Pseudomonas</i> 3株の植物成長促進形質および生物的防除機構",
+    "abstract_ja": "背景植物成長促進根圏細菌（PGPR）は、植物の生育性能の向上および病害抵抗性の強化において不可欠な役割を果たす。シュードモナス属菌は、その優れた植物成長促進能および生物的防除能から、有望な有益微生物として広く認識されている。方法中国香港特別行政区広東省で採取したジャガイモおよびトマトの根圏土壌から、MBJ003、MBJ016、およびMB1046の3つの細菌株を分離した。形態学的特徴、生理学的・生化学的プロファイル、ならびに系統解析および全ゲノム解析に基づき、分類学的同定を行った。ゲノム特性、植物成長促進形質、およびGeotrichum citri-aurantiiに対する抗真菌活性を特性評価し、MB1046株におけるタイプVI分泌システム（T6SS）の機能を検討した。結果MBJ003株はPseudomonas paraeruginosa、MB1046株はPseudomonas palmensisと同定され、MBJ016株は新規のシュードモナス属菌である。全ゲノムシーケンシングにより、生物的防除能の基盤となる豊富かつ多様な二次代謝産物生合成遺伝子クラスター（BGCs）が明らかになった。さらに、MB1046株は17種類のタイプVI分泌システム（T6SS）構成要素を保有していた。3株すべてにおいて、リン酸可溶化、シデロフォア合成、およびIAA産生を含む複数の植物有益形質が認められたほか、MBJ003株ではさらにプロテアーゼ活性が示された。これら3株はG. citri-aurantiiに対して強い拮抗性を示した。無細胞発酵上清は抗真菌効果を発揮し、MBJ003株が最も強い抑制を示した。in vitro接種試験により、これらの株がG. citri-aurantiiによるカンキツ類の収穫後病害を効果的に防除することが確認された。さらに、MB1046株のT6SSを介したG. citri-aurantiiに対する拮抗作用について知見を得た。結論本研究は、3つのシュードモナス属菌株の植物成長促進特性および抗真菌機構を系統的に特性評価したものである。これらの株は、作物の収穫後病害を管理するための生物的防除剤を開発する上で有用な微生物候補である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1149",
+    "title": "TransCirc 2.0: a multi-species resource for translatable circular RNAs and cognate translation products",
+    "abstract": "AbstractTransCirc is an evidence-integrated database for evaluating the translation potential of circular RNAs (circRNAs) and their putative products. Here, we present TransCirc 2.0, a major update that expands this resource from a primarily human-focused database to 10 vertebrate species, comprising more than 2.8 million circRNAs and increasing coverage by approximately 10-fold through the integration of standardized full-length circRNA sequences. Within the original multi-evidence framework, we incorporate additional evidence, including translation initiation sites, internal ribosome entry sites, N6-methyladenosine, ribosome/polysome association, and mass spectrometry (MS), together with circRNA-specific open reading frame and sequence-composition annotations. In light of recent advances in AI-based RNA modeling, we further incorporate multiple regulatory features predicted by TranslationAI and LAMAR. The circRNA-encoded proteins are further annotated for degron-associated stability and degradation properties, while MS-supported peptides are evaluated for potential MHC-I presentation. Collectively, these updates establish a cross-species framework linking full-length circRNA sequences with multi-level translation evidence and downstream product annotations, supporting systematic evaluation of circRNA translation potential and putative translation products. TransCirc 2.0 is freely available at https://www.biosino.org/transcirc/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1149",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1149/9041020?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "database",
+        "resource",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4387,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1149"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ff8401f1375b7717c3ce8a7114896043fb54786bdcf01c1e450ea76749efe498",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:38:40.078161+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a5cf2deff2cc091042777400f164bec20666bfb7dbb383a17cfd79bfc4010d09",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:38:40.078161+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TransCirc 2.0：翻訳可能な環状RNAおよびコグネイト翻訳産物の多種リソース",
+    "abstract_ja": "要旨TransCircは、環状RNA（circRNA）およびその推定産物の翻訳ポテンシャルを評価するためのエビデンス統合型データベースである。本稿では、本リソースを主にヒトを対象としたデータベースから10種の脊椎動物へと拡張し、280万件以上のcircRNAを収録するとともに、標準化された全長circRNA配列の統合によりカバレッジを約10倍に向上させたメジャーアップデートであるTransCirc 2.0を提案する。従来のマルチエビデンスフレームワークに加え、翻訳開始部位、内部リボソーム進入部位、N6-メチルアデノシン、リボソーム／ポリソーム結合、および質量分析（MS）を含む追加のエビデンスを組み込み、circRNA固有のオープンリーディングフレームおよび配列構成アノテーションを併せて提供する。AIベースのRNAモデリングにおける近年の進展を踏まえ、TranslationAIおよびLAMARによって予測された複数の調節機能をさらに組み込んだ。circRNAがコードするタンパク質については、デグロン関連の安定性および分解特性に関するアノテーションをさらに追加し、MSで裏付けられたペプチドについては潜在的なMHC-I提示能を評価した。これらのアップデートを総合することで、全長circRNA配列を多レベルの翻訳エビデンスおよび下流産物アノテーションと結びつける種横断的なフレームワークが構築され、circRNAの翻訳ポテンシャルおよび推定翻訳産物の系統的な評価が可能となる。TransCirc 2.0は、https://www.biosino.org/transcirc/ にて無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2533639123",
+    "title": "Global high rates of anaerobic methane oxidation at marine cold seeps recorded by isotope bonding in seep carbonates.",
+    "abstract": "Microbial anaerobic oxidation of methane (AOM) regulates the flux of methane (CH4) released from anoxic marine sediments into the ocean. However, variations in AOM rates, especially at dynamic environments such as cold seeps, are difficult to constrain, hindering robust projections of marine CH4 flux in a changing climate. Here, we quantify AOM rates at global marine cold seeps based on isotope bonding in methane-derived authigenic carbonates. We show through model simulations that 13C-18O bond abundance in these carbonates quantitatively records AOM rates at marine cold seeps and validate this proxy using compiled datasets of seep carbonate isotope compositions and independent AOM rate measurements. Accordingly, we estimate a mean AOM rate of [Formula: see text] mol·m-2·yr-1 and a consumption of [Formula: see text] Tg·yr-1 CH4 at modern global cold seeps, but potentially [Formula: see text] times as high an AOM rate and CH4 sink over the last ~100 kyr. Our results highlight the important role of cold seeps in the global marine CH4 cycle despite their relatively minuscule footprint.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2533639123",
+    "date": "2026-10-26",
+    "authors": "Wieman ST, Guo W.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42932641",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42932641",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2564,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2533639123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9a0aceef8e16526544806065a28c41e2c2063bbc17598ce25401421f18440bc0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:38:40.078161+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "96a61fc7b168d30f3c09c7658d7a7de9a2b3bdb349cbf1b0a40ffdd16a30f35b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:38:40.078161+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "湧出炭酸塩の同位体結合により記録された、海洋寒冷湧出域における嫌気的メタン酸化の世界的な高率。",
+    "abstract_ja": "メタンの微生物嫌気性酸化（AOM）は、無酸素海洋堆積物から海洋へ放出されるメタン（CH4）のフラックスを調節している。しかし、AOM速度の変動、特に冷湧水のような動的な環境における変動を定量的に把握することは困難であり、気候変動下における海洋CH4フラックスの信頼性の高い予測を妨げる要因となっている。本研究では、メタン由来の自生炭酸塩における同位体結合に基づき、全球の海洋冷湧水におけるAOM速度を定量化する。モデルシミュレーションを通じて、これらの炭酸塩における13C-18O結合量が、海洋冷湧水におけるAOM速度を定量的に記録することを示し、冷湧水の炭酸塩同位体組成の集積データおよび独立したAOM速度測定値を用いて、このプロキシの妥当性を検証する。これに基づき、現代の全球的な冷湧水における平均AOM速度を[Formula: 本文参照] mol·m-2·yr-1、CH4消費量を[Formula: 本文参照] Tg·yr-1と推定するが、過去約100 kyrにおいては、AOM速度およびCH4シンクが潜在的に[Formula: 本文参照]倍に達する可能性がある。本結果は、冷湧水の影響範囲が相対的に極めて小さいにもかかわらず、全球的な海洋CH4サイクルにおいて冷湧水が重要な役割を果たしていることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aeg7646",
+    "title": "Chemically encoded pH-tunable covalent adhesion by a bacterial thioester domain.",
+    "abstract": "Thioester domains (TEDs) represent a family of bacterial adhesin domains that mediate covalent anchoring to target ligands via an intramolecular thioester bond. Although the broad distribution of TEDs among Gram-positive bacteria suggests a critical functional role, the biological significance of this covalent mechanism remains unclear. In this study, we demonstrated that TED-mediated covalent anchoring is reversible and that its equilibrium is regulated by pH. Specifically, SfbI-TED from group A Streptococcus binds tightly to fibrinogen at physiological pH, whereas mild acidification to pH 6.0 induces rapid dissociation of the complex. Thermodynamic analyses indicated that this pH responsiveness is largely dictated by the intrinsic pH sensitivity of the thioester-mediated acyl transfer reaction conserved within TEDs, rather than by surface residues specific to individual TEDs. Similar pH-dependent behavior was observed in phylogenetically distinct TEDs, suggesting that pH-responsive adhesion is likely to be a broadly shared feature of TED-containing adhesins across Gram-positive bacteria.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeg7646",
+    "date": "2026-10-21",
+    "authors": "Tokunaga Y, Matsunaga R, Kozuka-Hata H, Oyama M, Tsumoto K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905819",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13685950",
+    "pmid": "42905819",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1998,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1126/sciadv.aeg7646"
+    ],
+    "translation": {
+      "title": {
+        "hash": "78c56536ffe9aa6934d7b9c1f055e2f405f784b7ac327baaa6cb694558b5700e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:38:40.078161+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "edb3e53bf431fe428d8f9a997b96777e4e1192bc9d435af16df5b9333fc7230c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:38:40.078161+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌のチオエステルドメインによる化学的にコードされたpH可変型共有結合接着",
+    "abstract_ja": "チオエステルドメイン（TED）は、分子内チオエステル結合を介して標的リガンドへの共有結合性アンカー化を媒介する細菌アドヘシンドメインの一群である。グラム陽性菌におけるTEDの広範な分布は、その重要な機能的役割を示唆しているが、この共有結合機構の生物学的意義は依然として不明である。本研究では、TEDを介した共有結合性アンカー化が可逆的であること、およびその平衡がpHによって調節されることを示した。具体的には、A群レンサ球菌由来のSfbI-TEDは生理的pHでフィブリノゲンに強固に結合する一方、pH 6.0への軽度の酸性化により複合体の急速な解離が誘導される。熱力学的解析により、このpH応答性は、個々のTEDに特異的な表面残基ではなく、TED内に保存されたチオエステル媒介性アシル転移反応の固有のpH感受性によって主に規定されていることが示された。系統的に異なるTEDにおいても同様のpH依存的挙動が観察されたことから、pH応答性接着は、グラム陽性菌全般にわたるTED含有アドヘシンの広範に共通する特徴である可能性が高いことが示唆された。"
   }
 ]
