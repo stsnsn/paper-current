@@ -195246,5 +195246,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ブルロックオリオールとボルチモアオリオールの交雑帯における推定ミト核不適合性の証拠",
     "abstract_ja": "ミト核不適合性とは、ハイブリッド化によって初期に生じるミトコンドリアゲノムと核ゲノム間の遺伝的ミスマッチである。こうした不適合性はハイブリッドの適応度を低下させ、生殖的隔離の一因となり得るが、ほとんどの鳥類ハイブリッドゾーンにおいてその実態は十分に解明されていない。ブルロックオリオール（Icterus bullockii）とボルチモアオリオール（I. galbula）の間で広く研究されてきたハイブリッドゾーンにおけるミト核不一致を調査するため、我々は全ゲノムリシーケンシングとミトコンドリアハプロタイピングを用い、核ゲノムの混交レベルが既報である136個体のミトコンドリア祖先系統を特定した。その結果、ハイブリッドゾーン全域にわたる狭いミトコンドリアクラインと、ミトコンドリア遺伝における強い非対称性が検出され、推定F1ハイブリッドの83%がI. galbulaのミトコンドリア祖先系統を有していた。このパターンは、単一親から継承される遺伝子座に関するダーウィンの系論からハルデーンの法則への帰結による予測と一致していた。ゲノムワイド関連解析により、ミトコンドリアハプロタイプと常染色体核遺伝子座との間に非ランダムな関連が認められ、特にミトコンドリア機能を持つ候補遺伝子が含まれていた。これらの遺伝子座における集団特異的な正の選択シグナルは、ミトコンドリア祖先系統に関連した選択圧の差異をさらに示唆している。以上の結果を総合すると、本研究の知見は、ミト核間の相互作用が、この典型的な鳥類ハイブリッドゾーンにおける非対称な遺伝子浸透および種境界の維持に寄与している可能性を示すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1940285",
+    "title": "Metagenomic insights into carbon and nitrogen cycling functions in an integrated rice-crayfish farming system with straw return.",
+    "abstract": "Straw return is an important strategy for agricultural residue utilization, and functional microbial communities are known to play a pivotal role in straw decomposition and nutrient cycling. Nevertheless, the decomposition dynamics and associated microbial functional outcomes in rice-aquaculture systems remain poorly documented. This study established a rice-crayfish integrated system with straw return and assessed the mechanisms of straw decomposition and the resulting improvement on soil fertility through soil physicochemical characterization, enzyme activity assays, and metagenomic sequencing. Soil samples were obtained in July (PF7, the rice transplanting stage following the crayfish farming period) and November (PF11, the post-harvest field drying period), with surrounding ditches as controls (CK7 and CK11). The results showed that straw was effectively decomposed, releasing potassium and nitrogen nutrients, while urease and cellulase activities were markedly increased in the paddy field. Metagenomic analysis revealed that Pseudomonadota was the dominant phylum, whereas Euryarchaeota and Nitrososphaerota exhibited the most pronounced changes, with their abundances in PF11 being 0.23-fold and 10.57-fold of those in CK11, respectively. In the C cycle, C degradation was the most abundant pathway, in which amino acid degradation (primarily derived from crayfish farming) dominated, followed by aromatic compound degradation (associated with straw decomposition). For the methane metabolic pathway, the greenhouse gas emission potential was reduced, as evidenced by lower mcrA abundances in PF than in CK. N cycling was primarily mediated through organic N metabolism (81.63-84.14%), with the remaining fraction dominated by nitrification and denitrification. Furthermore, the relevant analysis consistently indicated that C cycling genes occupy more central positions and TN showed a negative effect on these genes. Collectively, this integrated system was associated with straw decomposition, facilitated terminal organic C and N mineralization, while greenhouse gas-related functional potentials were reduced, supporting sustainable straw utilization in rice-crayfish agroecosystems.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1940285",
+    "date": "2026-10-26",
+    "authors": "Wang F, Chen Z, Zhou X, Liu X, Jiang Y, Fang G, Su Y, Rong C, Ji S, Hou G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005183",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13745519",
+    "pmid": "43005183",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2085,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1940285"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e678846f8f1b3f1ad3e9f4df9a3224d2a36e118d47817f3135bcf72bcad496fe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:16:19.647472+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f5fb25a58d606dc25f1ce3dfb465364739bbbb910d7a298502d05f31d956df33",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:16:19.647472+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "わら戻しを伴う統合型イネ・ザリガニ養殖システムにおける炭素・窒素循環機能に関するメタゲノム的知見",
+    "abstract_ja": "わらの還元は農業残渣利用における重要な戦略であり、機能性微生物群集がわらの分解および養分循環において極めて重要な役割を果たすことが知られている。しかしながら、稲の水産養殖システムにおける分解動態とそれに伴う微生物の機能的成果については、十分に報告されていない。本研究では、わら還元を伴う稲・ザリガニの統合システムを構築し、土壌物理化学的特性評価、酵素活性測定、およびメタゲノムシーケンシングを通じて、わら分解のメカニズムとそれに伴う土壌肥沃度の向上を評価した。土壌試料は7月（PF7：ザリガニ養殖期間後の稲移植期）および11月（PF11：収穫後の圃場乾燥期）に採取し、周囲の溝を対照区（CK7およびCK11）とした。その結果、わらは効果的に分解されてカリウムおよび窒素養分が放出され、水田内ではウレアーゼおよびセルラーゼの活性が著しく上昇したことが示された。メタゲノム解析の結果、Pseudomonadotaが優占的な門である一方、EuryarchaeotaおよびNitrososphaerotaが最も顕著な変化を示し、PF11におけるこれらの存在量はCK11のそれぞれ0.23倍および10.57倍であった。Cサイクルにおいては、C分解が最も豊富な経路であり、次いでアミノ酸分解（主にザリガニ養殖由来）が支配的で、その後に芳香族化合物分解（わら分解に関連する）が続いた。メタン代謝経路については、PFにおけるmcrA存在量がCKよりも低いことから、温室効果ガス排出ポテンシャルが低減したことが示された。Nサイクルは主に有機態窒素代謝（81.63-84.14%）を介しており、残りの部分は硝化および脱窒が支配的であった。さらに、関連する解析により、Cサイクル遺伝子がより中心的な位置を占めていること、およびTNがこれらの遺伝子に負の影響を及ぼすことが一貫して示された。総じて、この統合システムはわらの分解に関連し、末端の有機態CおよびNの無機化を促進した一方で、温室効果ガスに関連する機能的ポテンシャルは低減しており、稲・ザリガニの農業生態系における持続可能なわら利用を裏付ける結果となった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1111/1755-0998.70224",
+    "title": "Non-Linear Epigenetic Aging Clocks: A Case Study in Atlantic Halibut (Hippoglossus hippoglossus).",
+    "abstract": "Age information is fundamental in population biology. In fisheries management, robust and effective stock assessment models depend on accurate estimates of fecundity, survival rates, and other life-history traits, many of which vary with age. Consequently, reliable age determination is essential for understanding population dynamics and supporting informed management and conservation decisions. Age in fish is generally estimated by counting otolith growth rings, a labor- and time-intensive approach that requires lethal sampling and highly specialized, species-specific expertise. To supplement current otolith-based aging efforts, we developed a DNA methylation approach for aging Atlantic Halibut. We conducted whole-genome methylation sequencing on 106 wild-caught individuals with otolith-derived age estimates, ranging from 4 to 29. CpG loci were evaluated as candidate age predictors using elastic net regression and a generalized additive model, with the latter allowing for the incorporation of non-linear relationships between CpG methylation and age. Age-associated loci identified by elastic net regression were primarily located in likely subtelomeric and intronic regions. Importantly, inclusion of older individuals in the data set led to changes in the selected CpG sites but not in their respective chromosomal regions, suggesting that it is the methylation patterns in the chromosomes, rather than specific CpG sites, that correlate with age. The sex-separated generalized additive model (GAM) performed better than the elastic net regression as it exhibited the lowest per-age median error (MAE < 1 year, or < 2% of the average Atlantic Halibut lifespan). Our framework for epigenetic clock calibration allows for robust, system-specific clock calibration, which can be used for other non-model organisms under exploitation and conservation concern.",
+    "journal": "Molecular Ecology Resources",
+    "doi": "10.1111/1755-0998.70224",
+    "date": "2026-11-01",
+    "authors": "Weise EM, Nemeczek CM, den Heyer CE, Flemming JM, Ruzzante DE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43010707",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13752549",
+    "pmid": "43010707",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1819,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1111/1755-0998.70224"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9668fc0478426760702f452390332093cda4279e3a81dc236f69544f320157f1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:16:19.647472+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e171065e2730d3f6e450916522545a104cb967759c26c7e2a5ad20d56e189c4d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:16:19.647472+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非線形エピジェネティック老化時計：大西洋オヒョウ（Hippoglossus hippoglossus）における事例研究",
+    "abstract_ja": "年齢情報は個体群生物学において不可欠である。漁業管理において、堅牢かつ効果的な資源評価モデルは、繁殖力、生存率、およびその他の生活史形質の正確な推定値に依存しており、その多くは年齢に応じて変動する。したがって、個体群動態を理解し、根拠に基づいた管理および保全上の意思決定を行うためには、信頼性の高い年齢判定が不可欠である。魚類の年齢は一般に耳石の成長輪を数えることで推定されるが、これは多大な労力と時間を要する手法であり、致死的なサンプリングや種固有の高度に専門的な知見を必要とする。現在の耳石に基づく年齢推定の取り組みを補完するため、我々は大西洋オヒョウの年齢推定に向けたDNAメチル化手法を開発した。耳石由来の年齢推定値が4歳から29歳の範囲にある野生採集個体106個体を対象に、全ゲノムメチル化シーケンシングを実施した。CpG遺伝子座を年齢予測因子の候補として、弾性ネット回帰および一般化加法モデルを用いて評価した。後者のモデルでは、CpGメチル化と年齢の間の非線形関係を組み込むことが可能である。弾性ネット回帰によって同定された年齢関連遺伝子座は、主にサブテロメア領域およびイントロン領域に位置していた。重要な点として、データセットに高齢個体を含めたところ、選択されたCpG部位には変化が見られたが、それぞれの染色体領域には変化が見られなかった。このことは、特定のCpG部位ではなく、染色体上のメチル化パターンが年齢と相関していることを示唆している。性分離一般化加法モデル（GAM）は、年齢ごとの中央値誤差が最も低く（MAE < 1 年、または大西洋オヒョウの平均寿命の< 2%）、弾性ネット回帰よりも優れた性能を示した。我々のエピジェネティック時計較正フレームワークは、堅牢かつ系統特異的な時計較正を可能にし、これは資源利用や保全上の懸念がある他の非モデル生物にも適用できる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.ympev.2026.108771",
+    "title": "Global phylogeny and biogeography of the nematode-trapping mushroom genus Hohenbuehelia.",
+    "abstract": "Hohenbuehelia is a genus of wood decaying fungi in the phylum Basidiomycota that has evolved the ability to capture and consume nematodes (nematophagy). Nematophagy has evolved multiple times across the kingdom Fungi as well as in Oomycota (Chromista). Hohenbuehelia is unique in that it has evolved diverse strategies for nematophagy in different species through the production of adhesive knobs on its hyphae (predatory strategy), on germinated conidia or basidiospores (parasitoid strategy), or both (intermediate strategy). However, the evolutionary path for the development of these strategies remains enigmatic. In this study, we present a comprehensive global multigene phylogeny of Hohenbuehelia, including descriptions of three novel species from North America, and we investigate the evolution of nematophagous strategies. We infer that the ancestor of Hohenbuehelia was a \"predator\" that possessed adhesive knobs only on its hyphae, which have subsequently been lost in several lineages as conidia with adhesive knobs have evolved repeatedly. Some \"intermediate predators\" possess adhesive knobs both on hyphae and conidia, while \"parasitoid\" forms produce only adhesive conidia. Transitions between predators, intermediate predators and parasitoids reflect shifts in mechanisms of nematophagy and dispersal, with potential consequences for sexual reproduction. We investigated the temporal and spatial contexts of diversification by performing molecular-clock analysis and biogeographic reconstruction, which suggest that Hohenbuehelia may have originated in the Holarctic realm approximately 160 million years ago.",
+    "journal": "Molecular Phylogenetics and Evolution",
+    "doi": "10.1016/j.ympev.2026.108771",
+    "date": "2026-11-09",
+    "authors": "Prabhu PP, Bradshaw AJ, Consiglio G, Setti L, Thorn RG, Hibbett DS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43003372",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43003372",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1603,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1016/j.ympev.2026.108771"
+    ],
+    "translation": {
+      "title": {
+        "hash": "24ca00e221b0d91dfcecfebd3b5ded92477031bc4f0e5d6d3a46a4d0bcb3b961",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:16:19.647472+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b96754af279519acc527f7dadb54d2728033c211b5925b2830530ac102529f4a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:16:19.647472+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "線虫捕獲性キノコ属 Hohenbuehelia の世界的系統と生物地理学",
+    "abstract_ja": "Hohenbueheliaは、担子菌門に属する木材腐朽菌の一属であり、線虫を捕捉して摂食する能力（線虫食性）を進化させてきた。線虫食性は、菌界全体および卵菌門（クロミスタ門）において複数回にわたって進化してきた。Hohenbueheliaは、菌糸上に接着性結節を形成する戦略（捕食戦略）、発芽した分生子または担子胞子に形成する戦略（寄生戦略）、またはその両方（中間戦略）といった、種によって異なる多様な線虫食性戦略を進化させた点で特異である。しかし、これらの戦略が発達した進化経路は依然として謎に包まれている。本研究では、北米産の3つの新種の記載を含む、Hohenbueheliaの包括的な全球的多遺伝子系統樹を提示し、線虫食性戦略の進化について調査した。我々は、Hohenbueheliaの祖先が菌糸にのみ接着性結節を持つ「捕食者」であり、その後、接着性結節を持つ分生子が繰り返し進化するにつれて、いくつかの系統でこの結節が消失したと推論する。一部の「中間捕食者」は菌糸と分生子の両方に接着性結節を持つ一方、「寄生型」の形態は接着性分生子のみを形成する。捕食者、中間捕食者、および寄生型の間の移行は、線虫食性と分散のメカニズムの変化を反映しており、有性生殖に影響を及ぼす可能性がある。我々は、分子時計解析および生物地理学的復元を行うことで多様化の時間的・空間的背景を調査し、Hohenbueheliaが約1億6000万年前に全北区で起源した可能性を示唆する結果を得た。"
+  },
+  {
+    "id": "10.1093/nar/gkag1169",
+    "title": "A p32 family RNA editing factor acts in mitochondrial ribosome biogenesis",
+    "abstract": "AbstractBiogenesis of mitochondrial ribosomes (mitoribosomes) in the unicellular parasite Trypanosoma brucei requires an exceptionally large toolkit of assembly factors, identified in stable precursors of large and small mitoribosomal subunits (mtLSU and mtSSU) by cryoEM. Here, using genetic modifications and proteomic characterization of the immunoprecipitated assemblosome, the earliest characterized mtSSU precursor, we determined that a cap of its distinctive protrusion of hitherto unknown composition consists of a p22 homotrimer. This protein was previously implicated in the uridine-insertion editing of the cytochrome c oxidase subunit II transcript. Our functional analysis confirmed this role but revealed that its ablation also causes a loss of mtSSU and a systemic reduction in mitochondrial translation, phenocopying the depletion of established mitoribosomal assembly factors. Consequently, the oxidative phosphorylation system and mitochondrial function are compromised. The p22 protein belongs to the p32 family. We showed that five of its six trypanosomal members are involved in mtSSU biogenesis. Notably, p32 proteins are associated with mitoribosomes in two other distant eukaryotic lineages. A eukaryote-wide mapping of p32 proteins documented that their presence correlates with the retention of mitochondrial genomes. Together, our findings redefine trypanosomal p22 as a dual-function coordinator of mitochondrial gene expression and reveal that the ancestral role of the p32 family is associated with mitochondrial translation.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1169",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1169/9036067?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4449,
+    "collected_at": "2026-11-13T22:47:08.483162+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1169"
+    ],
+    "translation": {
+      "title": {
+        "hash": "75a3f93c942d9cd4cd9c563430460339bdbbce77233ad682c12890a866b281d6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:16:19.647472+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "479a4ab67e44eaddd791e9d79aec8797497f1550fa76e79264ff96903297d896",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:16:19.647472+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "p32ファミリーRNA編集因子はミトコンドリアリボソーム生合成に関与する",
+    "abstract_ja": "要旨 単細胞寄生虫Trypanosoma bruceiにおけるミトコンドリアリボソーム（ミトリボソーム）の生合成には、極めて広範な組立因子群が必要であり、これらはクライオ電子顕微鏡法（cryoEM）により、大小のミトリボソームサブユニット（mtLSUおよびmtSSU）の安定前駆体において同定されている。本研究では、これまで組成が不明であった最も初期に特性解析されたmtSSU前駆体である免疫沈降組立体の遺伝子改変およびプロテオーム解析を用い、これまで未知であった組成を持つ特徴的な突起のキャップ部分がp22ホモ三量体で構成されていることを明らかにした。このタンパク質は、以前にシトクロムcオキシダーゼサブユニットII転写産物のウリジン挿入編集に関与していることが示唆されていた。我々の機能解析はこの役割を裏付けるとともに、このタンパク質の欠損がmtSSUの喪失およびミトコンドリア翻訳の全身的な低下を引き起こし、確立されたミトリボソーム組立因子の枯渇をフェノコピーすることを明らかにした。その結果、酸化的リン酸化系およびミトコンドリア機能が損なわれる。p22タンパク質はp32ファミリーに属する。我々は、p32ファミリーの6つのトリパノソーマ構成員のうち5つがmtSSUの生合成に関与していることを示した。特筆すべきは、p32タンパク質が他の2つの遠縁な真核生物系統においてもミトリボソームに関連していることである。真核生物全域にわたるp32タンパク質のマッピングにより、その存在がミトコンドリアゲノムの保持と相関していることが示された。以上の知見を総合すると、トリパノソーマのp22はミトコンドリア遺伝子発現の二重機能コーディネーターとして再定義され、p32ファミリーの祖先的な役割がミトコンドリア翻訳に関連していることが明らかになった。"
   }
 ]
