@@ -175000,5 +175000,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "膠芽腫の可塑性を制御する調節プログラムの解明",
     "abstract_ja": "膠芽腫は、治療下でのゲノム安定性にもかかわらず不治であり、治療抵抗性を示す1-8。このことは、非遺伝的な細胞可塑性が進行の中心的な駆動因子であることを示唆している。このような可塑性が確率的な状態切り替えを反映しているのか、あるいは予測可能な遺伝子調節によって制御されているのかは、依然として不明である9-13。本研究では、単一細胞解像度でエンハンサー駆動型の遺伝子調節ネットワークを推論する深層学習フレームワークであるscDORI（single-cell deep multi-omic regulatory inference）を導入し、原発性膠芽腫由来の100万個以上の細胞の単核マルチオームプロファイルに適用した。計算論的推論と、患者由来モデルを用いた系統的な摂動スクリーニングを統合することで、活性化因子と抑制因子の非対称な相互作用を伴う構造化された調節プログラムが、膠芽腫における細胞可塑性を制御していることを示した。その結果得られる遷移ランドスケープは階層的かつ予測可能であるが、正常な神経発達には見られない系統横断的な軌跡を許容する。このランドスケープにおいて、ニューロン様状態などの低可塑性状態は、安定した分化終着点ではなく、代替的な運命をサイレンシングするセーフガード抑制因子のネットワークによって安定化された、能動的に維持される構成である。我々はMYT1Lをこのネットワークの支配的な構成員として同定し、それがあらゆる代替状態のマスター調節因子に結合して抑制することで、ニューロン様のアイデンティティを強固にしていることを示した。MYT1Lは、標準治療下においても可塑性を制限し、in vivoで腫瘍の増殖および浸潤を抑制した。逆に、MYT1Lの欠損は可塑性を再活性化させ、悪性形質を加速させた。これは、低可塑性のアイデンティティに継続的な抑制が必要であることを示している。これらの知見は、悪性細胞状態の安定性を活性化と継続的な抑制のバランスとして再定義するものであり、セーフガード抑制因子を、分化誘導性活性化因子とは異なる治療標的候補として提示するとともに、表現型スイッチングが治療抵抗性を駆動するあらゆるがんにおいて関連性を持つ可能性を示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1894946",
+    "title": "Current research status of risk assessment models for oral squamous cell carcinoma based on microbiome databases.",
+    "abstract": "Oral squamous cell carcinoma (OSCC) is one of the most common oral malignancies. Due to insidious early symptoms, high invasiveness, and frequent cervical lymph node metastasis, patient survival remains poor. Recent studies demonstrate significant associations between oral dysbiosis and OSCC. To address limited early screening and suboptimal survival rates, this review systematically summarizes OSCC microbiome research and disease risk assessment applications. Studies reveal marked oral dysbiosis in patients with OSCC, characterized by enrichment of Fusobacterium and Porphyromonas, reduced Neisseria abundance, and altered community stability. These promote tumorigenesis through chronic pro-inflammatory signaling, the production of carcinogenic metabolites, and direct oncogenic pathway interference. Consequently, the oral microbiome offers non-invasive, sensitive biomarkers for early detection. We identify and distinguish four categories of predictive models in the current literature: (1) detection/discrimination of prevalent OSCC, (2) prediction of malignant transformation from oral potentially malignant disorders, (3) prediction of recurrence or metastasis after treatment, and (4) prognostic models for survival prediction. Existing databases include comprehensive and OSCC-specific collections with multi-omics integration. Risk assessment models encompass traditional statistics, machine learning, deep learning, and multimodal fusion, and have shown promising performance in retrospective cohorts. However, standardized databases are lacking, and existing models face confounding interference, limited generalizability, and insufficient interpretability. Furthermore, current predictive models are predominantly based on 16S rRNA sequencing (bacteriome-centric), whereas comprehensive risk assessment requires integrating interkingdom entities, including fungi, viruses, and archaea, through metagenomic and virome profiling. Critically, the distinction between promising retrospective discrimination and validated prospective clinical utility remains a major translational barrier. Future directions include developing standardized longitudinal databases, integrating multi-omics, using explainable artificial intelligence, and conducting prospective validation studies to achieve personalized precision treatment.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1894946",
+    "date": "2026-10-26",
+    "authors": "Li GL, Zhang ZC, Lyu XM, Li MX, Lin PY, Yu HS, Zhu YY, Zhang GH, Duan CG, Cheung Y, Li W, Zhang ZJ, Xu TS, Chen F, Huang MW.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005677",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13747251",
+    "pmid": "43005677",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "archaea",
+        "fungi",
+        "metagenom",
+        "metagenomic",
+        "microbiome",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4160,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1894946"
+    ],
+    "translation": {
+      "title": {
+        "hash": "de3256897de794558e59537214d45e597fde61cafa895d2023dd9277651da306",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:27:58.158577+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a29a354acc7274dd6ee8cfdf1f39a85b162888b044e9108ff37b9a4cdde3c34d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:27:58.158577+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイクロバイオームデータベースに基づく口腔扁平上皮癌のリスク評価モデルの現状研究",
+    "abstract_ja": "口腔扁平上皮癌（OSCC）は、最も頻度の高い口腔悪性腫瘍の一つである。初期症状の潜行性、高い浸潤性、および頻回な頸部リンパ節転移により、患者の生存率は依然として低い。近年の研究では、口腔バイオームの乱れとOSCCとの間に有意な関連があることが示されている。早期スクリーニングの不足と生存率の低さという課題に対処するため、本総説ではOSCCのマイクロバイオーム研究および疾患リスク評価への応用について体系的に概説する。研究により、OSCC患者では顕著な口腔バイオームの乱れが認められ、その特徴としてFusobacterium属およびPorphyromonas属の増加、Neisseria属の減少、およびコミュニティ安定性の変化が挙げられる。これらは、慢性的な炎症性シグナル伝達、発がん性代謝物の産生、および直接的な発がん経路への干渉を通じて腫瘍形成を促進する。その結果、口腔マイクロバイオームは早期検出のための非侵襲的かつ感度の高いバイオマーカーとなる。我々は、現在の文献における予測モデルを以下の4つのカテゴリーに分類・区別する：(1) 有病率の高いOSCCの検出・判別、(2) 口腔の潜在的悪性疾患からの悪性転化の予測、(3) 治療後の再発または転移の予測、および(4) 生存予測のための予後モデル。既存のデータベースには、マルチオミクス統合による包括的かつOSCC特異的なコレクションが含まれる。リスク評価モデルは、従来の統計学、機械学習、深層学習、およびマルチモーダル融合を網羅しており、後方視的コホートにおいて有望な性能を示している。しかし、標準化されたデータベースが不足しており、既存のモデルは交絡因子による干渉、汎化性能の限界、および解釈可能性の不足という課題を抱えている。さらに、現在の予測モデルは主に16S rRNAシーケンシング（バクテリオーム中心）に基づいているが、包括的なリスク評価には、メタゲノムおよびバイロームプロファイリングを通じて、真菌、ウイルス、古細菌を含むドメイン横断的なエンティティを統合することが必要である。極めて重要な点として、有望な後方視的判別と、検証済みの前向き臨床的有用性との区別が、依然として主要なトランスレーショナル・バリアとなっている。今後の方向性としては、標準化された縦断的データベースの開発、マルチオミクスの統合、説明可能な人工知能の活用、および個別化精密治療を実現するための前向き検証研究の実施が挙げられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01771-26",
+    "title": "Baicalin and levofloxacin exert divergent modulation on gut microbiota and metabolome crosstalk in DSS-triggered ulcerative colitis.",
+    "abstract": "Baicalin (BA), a bioactive flavonoid, and levofloxacin hydrochloride (LH), a fluoroquinolone antibiotic, both hold potential for ulcerative colitis (UC) treatment, yet the mechanistic differences in their regulation of gut microbiota and metabolome remain elusive. This study aimed to systematically compare their therapeutic efficacy and underlying mechanisms in a dextran sulfate sodium-induced murine colitis model, with a focus on gut microbial and metabolic modulation. Mice were randomized into Control, model, BA-treated, and LH-treated groups. Disease severity was assessed via body weight changes, disease activity index, colon length, and histopathological analysis. Western blot and enzyme-linked immunosorbent assay were employed to detect NF-κB pathway activation and pro-inflammatory cytokine levels, while 16S rRNA sequencing and metabolomics profiled gut microbiota and metabolites. Both agents markedly ameliorated colitis symptoms, suppressed NF-κB activation, and cytokine expression, with BA showing superior cytokine inhibition. BA enriched beneficial Lactobacillus, regulating isoflavone/alkaloid synthesis; LH elevated Akkermansia abundance and modulated amino acid metabolism. These findings reveal distinct therapeutic mechanisms of BA and LH, laying a foundation for personalized UC therapy and validating BA's traditional medicinal utility.IMPORTANCEUlcerative colitis remains a prevalent inflammatory bowel disease with limited microbiota-targeted therapies. Baicalin and levofloxacin both alleviate dextran sulfate sodium-induced colitis, yet their gut microbiome and metabolome regulatory mechanisms have not been directly compared. This study demonstrates that baicalin and levofloxacin exert anti-colitis effects via divergent microbiota-metabolite axes: baicalin enriches Lactobacillus and modulates isoflavone/alkaloid metabolism, while levofloxacin increases Akkermansia and reshapes amino acid metabolism. These distinct mechanisms provide new evidence for developing microbiota-based personalized strategies for ulcerative colitis treatment.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01771-26",
+    "date": "2026-10-23",
+    "authors": "Wang C, Wu W, Cui M, Zhang S, Wang C.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925028",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925028",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 3845,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1128/spectrum.01771-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e01d1dbb2d538f10db8e8e8d15e11e5982b92599480decf8199673140d396ea7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:27:58.158577+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1b6263d3b2cfbd27f8ebed249b1b74bbab1ef2c086af4e37ebb83c72bd69bd30",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:27:58.158577+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バイカリンとレボフロキサシンは、DSS誘発性潰瘍性大腸炎における腸内細菌叢およびメタボロームのクロストークに対し、異なる調節作用を示す。",
+    "abstract_ja": "生物活性フラボノイドであるバイカリン（BA）と、フルオロキノロン系抗菌薬であるレボフロキサシン塩酸塩（LH）は、ともに潰瘍性大腸炎（UC）治療の可能性を有しているが、腸内細菌叢およびメタボロームの調節における機序的な相違は依然として解明されていない。本研究では、腸内細菌および代謝調節に着目し、デキストラン硫酸ナトリウム誘発性マウス大腸炎モデルを用いて、両者の治療効果と根底にある機序を系統的に比較することを目的とした。マウスを対照群、モデル群、BA投与群、およびLH投与群に無作為に割り付けた。疾患の重症度は、体重変化、疾患活動性指数、結腸長、および組織病理学的解析により評価した。NF-κB経路の活性化および炎症性サイトカインレベルの検出にはウェスタンブロット法および酵素結合免疫吸着法を用い、腸内細菌叢および代謝物については16S rRNAシーケンシングおよびメタボロミクスにより解析した。両薬剤ともに大腸炎症状を著しく改善し、NF-κB活性化およびサイトカイン発現を抑制したが、BAはより優れたサイトカイン抑制効果を示した。BAは有益なラクトバチルス属菌を増殖させ、イソフラボン／アルカロイド合成を調節した。一方、LHはアッカーマンシア属菌の存在量を増加させ、アミノ酸代謝を調節した。これらの知見は、BAとLHの異なる治療機序を明らかにするものであり、個別化UC治療の基盤を築くとともに、BAの伝統的な薬効を裏付けるものである。重要性：潰瘍性大腸炎は依然として頻度の高い炎症性腸疾患であるが、細菌叢を標的とした治療法は限られている。バイカリンとレボフロキサシンはともにデキストラン硫酸ナトリウム誘発性大腸炎を緩和するが、それらの腸内細菌叢およびメタボロームの調節機序は直接的に比較されていない。本研究は、バイカリンとレボフロキサシンが異なる細菌叢・代謝物軸を介して抗大腸炎効果を発揮することを示した。すなわち、バイカリンはラクトバチルス属菌を増殖させイソフラボン／アルカロイド代謝を調節し、一方でレボフロキサシンはアッカーマンシア属菌を増加させアミノ酸代謝を再構築する。これらの異なる機序は、潰瘍性大腸炎治療に向けた細菌叢ベースの個別化戦略を開発するための新たな根拠となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msystems.01033-26",
+    "title": "Auxiliary glyceraldehyde-3-phosphate dehydrogenases shape central carbon metabolism in <i>Pseudomonas putida</i>.",
+    "abstract": "Glyceraldehyde-3-phosphate dehydrogenases (GapDHs) are key enzymes in central carbon metabolism, yet their functional diversity extends beyond canonical glycolysis and gluconeogenesis. The soil bacterium Pseudomonas putida KT2440 encodes four GapDH isoenzymes (i.e., GapA, GapB, GapC, and GapD). GapA and GapB have been recently described as gatekeepers of metabolic segregation, with GapA driving glycolysis and GapB associated with gluconeogenesis. However, the physiological roles of GapC and GapD remain poorly defined. In this work, we combined targeted mutagenesis, growth phenotyping, in vitro biochemical analysis, proteomics, and metabolomics to dissect the functions of these lesser-studied GapDH isoforms. GapC and GapD have distinct structural features, diverging from the canonical GapA and GapB enzymes. Physiological characterization of gap-deletion mutants of P. putida across multiple glycolytic and gluconeogenic substrates showed that GapC and GapD exert substrate-specific effects and contribute to network-wide redox balancing. Proteomic and metabolomic profiling further indicated that GapC and GapD are integrated into specialized metabolic modules, supporting auxiliary functions that complement the dominant roles of GapA and GapB. This case of metabolic redundancy at the GapDH node highlights the versatility of central carbon metabolism in bacteria adapted to changing environmental conditions.ImportanceBacteria often carry multiple isoenzymes for the same metabolic step, yet the reasons for such redundancy remain poorly understood. By dissecting the roles of GapDH isoforms in P. putida, we show that these enzymes are not functionally equivalent but rather partition their activity across glycolytic, gluconeogenic, and auxiliary functions. GapC and GapD provide secondary capacity under specific conditions that complement the known roles of GapA and GapB, which dominate glycolysis and gluconeogenesis, respectively. Growth phenotyping, together with proteomic and metabolomic analyses, revealed that isoenzyme specialization is reflected in both substrate-dependent abundance patterns and metabolite profiles. This study underscores the evolutionary diversification of central metabolic enzymes in environmental bacteria and their coordinated regulation across nutritional states. Furthermore, our findings provide a framework for engineering carbon flux in Pseudomonas and related bacteria, with implications for metabolic engineering applications targeting diverse feedstocks.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.01033-26",
+    "date": "2026-10-21",
+    "authors": "Dekker NK, Partipilo M, Jeeva P, Nieto-Domínguez M, de Jong I, McNaught KJ, Carroll AL, Krink N, Guss AM, Aristilde L, Nikel PI.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904638",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904638",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2009,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/msystems.01033-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a09cb44f5da929fe7548114a58fb5f950f0715b7a5ca661dec2006db30bc02ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:27:58.158577+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ab1653819c9aa14e5e1a40c94bb78ec7e5e35653299d4bb48211259a2f7eb04a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:27:58.158577+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "補助的なグリセルアルデヒド-3-リン酸脱水素酵素は、<i>Pseudomonas putida</i>における中心炭素代謝を司っている。",
+    "abstract_ja": "グリセルアルデヒド-3-リン酸脱水素酵素（GapDHs）は中心炭素代謝における鍵酵素であるが、その機能的多様性は古典的な解糖系や糖新生にとどまらない。土壌細菌Pseudomonas putida KT2440は、4種類のGapDHアイソザイム（すなわち、GapA、GapB、GapC、およびGapD）をコードしている。GapAとGapBは近年、代謝分離のゲートキーパーとして記述されており、GapAは解糖系を駆動し、GapBは糖新生に関与している。しかし、GapCとGapDの生理学的役割は依然として十分に解明されていない。本研究では、標的変異導入、増殖フェノタイピング、in vitro生化学的解析、プロテオミクス、およびメタボロミクスを組み合わせ、研究が進んでいないこれらのGapDHアイソフォームの機能を解析した。GapCとGapDは、古典的なGapAおよびGapB酵素とは異なる構造的特徴を有している。複数の解糖系および糖新生基質を用いたP. putidaのギャップ欠損変異体の生理学的特性解析により、GapCとGapDが基質特異的な効果を発揮し、ネットワーク全体の酸化還元バランスに寄与していることが示された。プロテオミクスおよびメタボロミクスによるプロファイリングでは、GapCとGapDが特化した代謝モジュールに組み込まれており、GapAとGapBの支配的な役割を補完する補助的機能を担っていることがさらに示された。GapDHノードにおけるこの代謝冗長性の事例は、変化する環境条件に適応した細菌における中心炭素代謝の汎用性を浮き彫りにしている。重要性細菌はしばしば同一の代謝ステップに対して複数のアイソザイムを保持しているが、このような冗長性の理由は依然として十分に解明されていない。P. putidaにおけるGapDHアイソフォームの役割を解析することで、これらの酵素は機能的に同等ではなく、むしろその活性を解糖系、糖新生、および補助的機能に分担させていることを示した。GapCとGapDは、特定の条件下で、それぞれ解糖系と糖新生を支配するGapAおよびGapBの既知の役割を補完する二次的な能力を提供する。増殖フェノタイピングをプロテオミクスおよびメタボロミクス解析と併せて行った結果、アイソザイムの特化が、基質依存的な存在量パターンと代謝物プロファイルの両方に反映されていることが明らかになった。本研究は、環境細菌における中心代謝酵素の進化的多様化と、栄養状態に応じたそれらの協調的な調節を強調するものである。さらに、我々の知見はPseudomonasおよび関連細菌における炭素フラックスを工学的に制御するための枠組みを提供するものであり、多様な原料を標的とした代謝工学への応用に示唆を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41586-026-11236-6",
+    "title": "Transcriptomic convergence and the female protective effect in autism.",
+    "abstract": "Autism spectrum disorder (ASD) is highly heritable, and mutations in hundreds of genes have been implicated as individually rare causes of ASD1-3. Understanding how disruptions to these functionally diverse genes lead to the core features of ASD remains a major challenge4. Moreover, ASD is three- to four-fold more common in male than in female individuals5, and female autistic people tend to carry more autosomal risk alleles for ASD compared with their male counterparts6,7; however, the biological basis of this 'female protective effect' (FPE) has remained unknown8,9. Here we show that individual perturbations of 18 ASD genes in human neural progenitor cells converge on shared effects on gene expression, including widespread downregulation of other ASD genes. De novo reconstruction of a gene regulatory network enabled identification of central transcriptional regulators that drive this transcriptomic convergence, including prominent ASD gene CHD8 and candidates including REST. Furthermore, X-linked transcription factor ZFX, which is expressed from both the active and the inactive X chromosomes in female individuals10, emerged as a key activator of many ASD genes: we propose that the higher ZFX expression level observed in the female brain can buffer damaging mutations in diverse ASD genes, contributing to the female protective effect. Together, these results show how key gene regulatory networks can become broadly and similarly dysregulated upon disruption of individual ASD genes and provide molecular insight into the female protective effect in ASD.",
+    "journal": "Nature",
+    "doi": "10.1038/s41586-026-11236-6",
+    "date": "2026-11-04",
+    "authors": "Andersen RE, Talukdar M, Sakamoto T, Exposito-Alonso D, Song JHT, Qian X, Lee S, Murugan N, Delgado RN, Zhao S, Eichfeld G, Harms J, Page DC, Walsh CA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42983080",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42983080",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2928,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41586-026-11236-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7cc90ce83296a9154682e379cd1658e3df2ec09435e28ed3cede4095d729a240",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:27:58.158577+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "42f7c4232dac3743f50451aa5d5da59fd58f06816fbfae69899407b32a2f9c7c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:27:58.158577+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トランスクリプトームの収束と自閉症における女性保護効果。",
+    "abstract_ja": "自閉スペクトラム症（ASD）は遺伝性が非常に高く、数百もの遺伝子における変異が、個々の稀なASDの原因として関与していることが示唆されている1-3。機能的に多様なこれらの遺伝子の機能不全が、いかにしてASDの中核的特徴をもたらすのかを解明することは、依然として大きな課題である4。さらに、ASDは女性よりも男性において3〜4倍多く見られ5、女性の自閉症者は男性に比べてASDの常染色体リスクアレルをより多く保有する傾向がある6,7。しかし、この「女性保護効果（FPE）」の生物学的基盤は不明なままであった8,9。本研究では、ヒト神経前駆細胞における18個のASD遺伝子の個々の摂動が、他のASD遺伝子の広範な発現低下を含む、遺伝子発現への共通の影響へと収束することを示す。遺伝子調節ネットワークのde novo再構築により、著名なASD遺伝子であるCHD8やRESTを含む候補遺伝子など、このトランスクリプトーム的な収束を駆動する中心的な転写調節因子の同定が可能となった。さらに、女性において活性型および不活性型の両方のX染色体から発現するX連鎖性転写因子ZFX10が、多くのASD遺伝子の主要な活性化因子として浮上した。我々は、女性の脳で観察されるより高いZFX発現レベルが、多様なASD遺伝子における有害な変異を緩衝し、女性保護効果に寄与している可能性を提案する。以上の結果を総合すると、主要な遺伝子調節ネットワークが、個々のASD遺伝子の機能不全によって広範かつ同様に調節不全に陥り得ることが示され、ASDにおける女性保護効果に関する分子生物学的な知見が得られる。"
   }
 ]
