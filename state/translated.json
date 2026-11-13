@@ -191499,5 +191499,335 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "アオクビダイの倍数体系統における染色体スケールのリファレンスゲノム構築",
     "abstract_ja": "学術データ、オンライン公開：2026年11月11日；doi:10.1038/s41597-026-08678-yAokubi Raphanus sativusの倍数体系統の染色体スケール参照ゲノムアセンブリ"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1995937",
+    "title": "Feed additives as systems-level modulators of the ruminant host-microbiome interaction: a multi-omics perspective on efficiency, resistance, and reproduction.",
+    "abstract": "Ruminant livestock face converging pressures from climatic variation, antimicrobial agents, and the imperative for sustainable intensification. However, the molecular imprints through which nutritional interventions modulate host-microbiome interactions across physiological contexts remain fragmented across disciplinary themes. Here, we synthesize evidence from metagenomics, metatranscriptomics, metabolomics, and host transcriptomics to propose that feed additives operate as systems-level modulators of a functionally integrated rumen-liver-immune-reproductive axis, rather than acting on isolated metabolic pathways. Prevotella, Butyrivibrio, Ruminococcus, and Fibrobacter recurrently emerged across studies to be associated with feed efficiency, immune modulation, resistome dynamics, and reproductive fitness. However, their relationship is context dependent and not causal. Furthermore, hepatic transcriptomic and microRNA (miRNA)-mediated regulatory networks could serve as a molecular bridge connecting ruminal fermentation events to systemic phenotypic outcomes. The ruminant resistome may also represent a potential interface with public health rather than an isolated ecological phenomenon, given the capacity for horizontal gene transfer through mobile genetic elements, although the extent of transmission to humans remains to be quantified. Early-life microbial programming and reproductive tract microbiome composition also represent tractable intervention windows for precision management. This integrated framework could reframe feed additive research from a single pathway to a systems-level perspective, offering a basis for precision ruminant production.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1995937",
+    "date": "2026-10-26",
+    "authors": "Fijabi O, Morenikeji OB, Ivey SL, Loest C, Idowu M, Ashley R, Ogunade IM, Taiwo G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005491",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13746281",
+    "pmid": "43005491",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "metatranscriptom",
+        "metatranscriptomics",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 598,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1995937"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ca40bfb6de2f4959ce27ccbec5a0f43b6228a151260048a92fed9f5cd3d13ca7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:47:19.035543+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "872dac4c60896ff7739fb53afcb7c9585565d31d63fea10618769845b563a6bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:47:19.035543+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "反芻動物の宿主-微生物叢相互作用のシステムレベル調節因子としての飼料添加物：効率性、耐性、および生殖に関するマルチオミクス的視点",
+    "abstract_ja": "反芻家畜は、気候変動、抗菌剤、および持続可能な集約化の必要性という、相乗的に作用する圧力に直面している。しかし、生理的状況に応じて栄養介入が宿主-微生物叢間の相互作用を調節する分子的メカニズムについては、分野横断的に知見が断片化したままである。本研究では、メタゲノミクス、メタトランスクリプトミクス、メタボロミクス、および宿主トランスクリプトミクスから得られたエビデンスを統合し、飼料添加物が単一の代謝経路に作用するのではなく、機能的に統合されたルーメン-肝臓-免疫-生殖軸のシステムレベルの調節因子として機能することを提唱する。Prevotella、Butyrivibrio、Ruminococcus、およびFibrobacterは、飼料効率、免疫調節、レジストーム動態、および生殖適応度との関連が研究を通じて繰り返し示されてきた。しかし、これらの関連性は文脈に依存しており、因果関係にあるわけではない。さらに、肝トランスクリプトームおよびmicroRNA（miRNA）介在性の調節ネットワークは、ルーメン発酵事象と全身的な表現型の結果を結びつける分子的な架け橋となり得る。また、可動性遺伝要素による水平遺伝子伝達の可能性を考慮すると、反芻動物のレジストームは、孤立した生態学的現象ではなく、公衆衛生との潜在的な接点となり得るが、ヒトへの伝播の程度については依然として定量化されていない。生涯初期の微生物プログラミングおよび生殖道微生物叢の組成も、精密管理における扱いやすい介入の機会となる。この統合的な枠組みは、飼料添加物研究を単一の経路からシステムレベルの視点へと再定義し、精密な反芻動物生産の基盤を提供し得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1088",
+    "title": "CAnDi: a global catalogue of anaerobic digestion microbiomes.",
+    "abstract": "Methanogenic environments harbour complex prokaryotic consortia that drive the anaerobic conversion of organic matter into methane and carbon dioxide. Beyond being key to the global carbon cycle, such processes have been steered into powerful biotechnologies for energy production in bioreactors. Decoding the functional and taxonomic landscape of these communities requires comprehensive surveys, including bacteriophages and plasmids, which, however, remain vastly underrepresented in current databases. Here, we present the microbial Catalogue of Anaerobic Digestion (CAnDi), a database comprising 36 480 prokaryotic genomes spanning 11 149 species recovered from 1256 metagenomic samples collected across bioreactors worldwide. The reconstructed metagenomes also encode ∼1.9 million viral and over 130 000 plasmid sequences. Identity clustering revealed ∼536 000 candidate viral species, of which 85% are novel relative to existing databases, as well as over 15 000 unique plasmids. Clusters of viral and plasmid proteins were generated de novo, totalling 1 721 182 and 123 813 distinct protein families, respectively. Together, these resources substantially advance previous systematic approaches to characterize anaerobic digestion microbiomes, providing an expanded foundation for investigating the ecological and evolutionary roles of the virome and plasmidome in methane-producing ecosystems. CAnDi is accessible via https://www.candi-db.org/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1088",
+    "date": "2026-10-31",
+    "authors": "Ghiotto G, Chasapi IN, De Bernardini N, Fraulini S, Ndela EO, Baltoumas FA, Treu L, Kyrpides NC, Pavlopoulos GA, Campanaro S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963941",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963941",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteriophage",
+        "bacteriophages",
+        "database",
+        "genome",
+        "metagenom",
+        "metagenomes",
+        "metagenomic",
+        "methanogen",
+        "methanogenic",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "prokaryotic",
+        "viral",
+        "virome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 9,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1088"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2498cfad81edd28487df135821fa984b709771dea746e940b4ba9235f8e216a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:47:19.035543+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "113988f41f71037dc1a6db2a9268a6df3dc050588bd2a539a290cde08da14f8e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:47:19.035543+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CAnDi：嫌気性消化マイクロバイオームのグローバルカタログ。",
+    "abstract_ja": "メタン生成環境には、有機物のメタンおよび二酸化炭素への嫌気的変換を駆動する複雑な原核生物コンソーシアムが生息している。こうしたプロセスは地球規模の炭素循環において重要な役割を果たすだけでなく、バイオリアクターにおけるエネルギー生産のための強力なバイオテクノロジーへと応用されてきた。これらの群集の機能的・分類学的景観を解明するには、バクテリオファージやプラスミドを含む包括的な調査が必要であるが、これらは現在のデータベースにおいて著しく過小評価されている。本研究では、世界中のバイオリアクターから収集した1,256件のメタゲノムサンプルから得られた11～149種、36～480個の原核生物ゲノムからなるデータベース「微生物嫌気性消化カタログ（Catalogue of Anaerobic Digestion: CAnDi）」を提示する。再構築されたメタゲノムには、約190万件のウイルス配列と13万件以上のプラスミド配列も含まれている。アイデンティティ・クラスタリングの結果、約53万6,000種のウイルス候補種（うち85%は既存のデータベースに対して新規）が特定されたほか、1万5,000種類以上の固有のプラスミドが同定された。ウイルスおよびプラスミドタンパク質のクラスターはde novoで生成され、それぞれ計1,721,182個および123,813個の個別のタンパク質ファミリーとなった。これらのリソースを統合することで、嫌気性消化マイクロバイオームを特性評価するための従来の系統学的アプローチが大幅に進展し、メタン生成生態系におけるビロームおよびプラスミドームの生態学的・進化的役割を調査するための拡張された基盤が提供される。CAnDiは https://www.candi-db.org/ から利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2608997123",
+    "title": "Molecular drivers of cotranslational protein assembly in bacteria.",
+    "abstract": "Protein complexes are pivotal to all major cellular processes. Translation-coupled complex assembly is ubiquitous in eukaryotes, but its molecular basis and prevalence in bacteria remain poorly understood. Here, we combine ribosome profiling and single-molecule optical tweezers to establish principles governing cotranslational assembly of four structurally diverse complexes in Escherichia coli. We reveal how heterotetramers form cotranslationally via hierarchical assembly pathways, with initial heterodimer formation priming the assembly of higher-order oligomers through a topology-dependent organization of homomeric and heteromeric interfaces. Co-post assembly, defined as interaction between nascent and fully synthesized subunits, initiates when dimerization domains are completely exposed at the ribosome. The assembly order is predominantly unidirectional and matches the operon gene order, with upstream-encoded subunits being synthesized first, and then engaging downstream nascent partner subunits. The co-post assembly efficiency depends both on the native operon structure and the ribosome-associated chaperone trigger factor, which binds emerging oligomerization domains and whose dissociation marks the onset of partner subunit engagement. The handover from chaperone engagement to cotranslational assembly is mediated by nascent chain folding. Finally, we show that co-post assembly provides a fitness advantage. Together, these findings reveal how genome organization and chaperone-assisted folding coordinate cotranslational assembly to promote efficient complex biogenesis and cellular fitness in bacteria.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2608997123",
+    "date": "2026-10-22",
+    "authors": "Schmitt JL, Auburger JJ, Wruck F, Koubek J, Tans SJ, Bukau B, Kramer G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42911858",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42911858",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "assembly",
+        "bacteria",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1285,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2608997123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "03641a52fe897c163179d31d6d4fafb7a5429a391b90bb8710a7c43d509ed384",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:47:19.035543+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f49c7672997c9f06fa63086bb84921b4b72bd900e6f52118eac778e4d862d16b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:47:19.035543+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌における共翻訳的タンパク質集合の分子駆動機構",
+    "abstract_ja": "タンパク質複合体は、あらゆる主要な細胞プロセスにおいて極めて重要である。翻訳共役型複合体の構築は真核生物において普遍的に見られるが、その分子基盤や細菌における存在頻度については依然として十分に解明されていない。本研究では、リボソームプロファイリングと単分子光学ピンセットを組み合わせ、大腸菌における構造的に多様な4種類の複合体の共翻訳的構築を支配する原理を明らかにした。我々は、ヘテロ四量体が階層的な構築経路を介して共翻訳的に形成される仕組みを解明した。まずヘテロ二量体が形成され、ホモマーおよびヘテロマー界面のトポロジー依存的な組織化を通じて、高次オリゴマーの構築が開始される。新生サブユニットと完全に合成されたサブユニットの相互作用と定義される共ポスト構築は、二量体化ドメインがリボソーム上で完全に露出した際に開始される。構築順序は主に一方向的であり、オペロン遺伝子の順序と一致しており、上流でコードされたサブユニットが最初に合成され、次いで下流の新生パートナーサブユニットが結合する。共ポスト構築の効率は、天然のオペロン構造と、リボソーム関連シャペロントリガー因子の両方に依存する。この因子は出現しつつあるオリゴマー化ドメインに結合し、その解離がパートナーサブユニットの結合開始の合図となる。シャペロンの結合から共翻訳的構築への引き継ぎは、新生鎖のフォールディングによって媒介される。最後に、共ポスト構築が適応度上の優位性をもたらすことを示す。これらの知見を総合すると、ゲノム組織化とシャペロン補助型フォールディングが共翻訳的構築を協調させ、細菌における効率的な複合体生合成と細胞適応度を促進することが明らかになった。"
+  },
+  {
+    "id": "10.1038/s41597-026-08602-4",
+    "title": "Pseudochromosome-level genome assembly of Acrolejeunea sandvicensis (Gottsche) Steph. (Lejeuneaceae, Marchantiophyta)",
+    "abstract": "Scientific Data, Published online: 07 November 2026; doi:10.1038/s41597-026-08602-4Pseudochromosome-level genome assembly of Acrolejeunea sandvicensis (Gottsche) Steph. (Lejeuneaceae, Marchantiophyta)",
+    "journal": "Scientific Data",
+    "doi": "10.1038/s41597-026-08602-4",
+    "date": "2026-11-07",
+    "authors": "Hong-Guang Zha",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41597-026-08602-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/sdata.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2127,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.nature.com/sdata.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41597-026-08602-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c4d596a0c8d3b65e4b728528ea5e4c2225ccc837891056784ec641aef0c1096e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:47:19.035543+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "00863648cf4d905055d6707861c51ecb3170cde15b3d95a72723d72439538672",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:47:19.035543+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Acrolejeunea sandvicensis (Gottsche) Steph. (Lejeuneaceae, Marchantiophyta) の擬染色体レベルのゲノムアセンブリ",
+    "abstract_ja": "学術データ、オンライン公開：2026年11月7日；doi:10.1038/s41597-026-08602-4Acrolejeunea sandvicensis (Gottsche) Steph. (Lejeuneaceae, Marchantiophyta) の擬染色体レベルのゲノムアセンブリ"
   }
 ]
