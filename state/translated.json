@@ -180152,5 +180152,284 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ファージφX174を用いた長期進化実験において、全長ゲノムが並行して進化する。",
     "abstract_ja": "突然変異率の高い生物における進化の研究には、集団のゲノム組成に関する詳細なデータが必要である。本研究では、ハイスループットシーケンシング技術と迅速な実験的進化を組み合わせた革新的な手法を用い、4つの独立したバクテリオファージ集団の遺伝的多様化を412世代にわたって極めて詳細に追跡したことを報告する。我々の目的の一つは、遺伝情報を用いて集団史の主要なパラメータを推定する系統動態学的手法を評価することであった。系統動態学的手法は中立進化を前提としているため、我々は（細菌細胞環境に固有の選択圧に加えて）進化実験において能動的な選択圧を一切課さなかった。884種類の異なる遺伝子型を代表する8万件以上のバクテリオファージゲノムを解析した結果、ウイルスの多様化パターンによって遺伝子型分布が概ね不一致となる一方で、複数の平行進化の事例が確認された。ウイルス進化における平行性に関する従来の観察結果とは異なり、我々は単に単一部位における突然変異の平行進化を見るのではなく、全長ゲノムレベルでの平行進化を捉えている。我々の実験を詳細に再現したコンピュータシミュレーションにより、この程度の平行性は中立進化とは矛盾することが示された。さらに、観察された平行進化の程度が移動速度の系統動態学的解析にバイアスを与え、独立した進化系統間の有意な移動を誤って推定することを明らかにした。本アプローチは他の多くのウイルスにも適用可能であり、ゲノム全体にわたる遺伝的連鎖に関連する現象を解明することを目的とした、高度な集団遺伝学的研究への道を切り拓くものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1962348",
+    "title": "Fermentation of black wolfberry juice using a mixed culture and compound substrate: screening of lactic acid bacteria, process optimization, and quality analysis",
+    "abstract": "BackgroundThis study aimed to enhance the quality of black wolfberry juice through fermentation with mixed lactic acid bacteria (LAB) and a composite substrate.MethodsOptimization identified a synergistic blend of Lactobacillus rhamnosus GG, Lactobacillus delbrueckii subsp. bulgaricus, and Lacticaseibacillus casei, along with a substrate consisting of black wolfberry, Potentilla anserina, and isomalto-oligosaccharide.ResultsCompared with unfermented juice, this process significantly increased total sugar and total phenolic contents by 45.16% and 43.96%, respectively, and markedly boosted antioxidant activity, with DPPH and ABTS+ radical scavenging rates improving by 48.58% and 59.47%, respectively. Multi-omics analysis revealed significant positive associations between the relative abundance of Lactiplantibacillus plantarum and specific flavor-related metabolites as well as lipid profiles, and led to distinct remodeling of lipid and triterpenoid profiles.ConclusionThe multi-omics integration systematically elucidated the potential metabolic pathways underlying the quality improvement, thus providing a theoretical reference for laboratory-scale process optimization of fermented black wolfberry juice.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1962348",
+    "date": "2026-11-13",
+    "authors": "Fayi Xiao",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1962348",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4370,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1962348"
+    ],
+    "translation": {
+      "title": {
+        "hash": "15f76ffc4b1af994fca6eacf5948e529e03de51db5e63695a20bc54efee0505f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:42:56.228849+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a55062e8845044274929a89f275845dcb45c52a82ab874bbd2d486c0d046732b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:42:56.228849+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "混合培養物と複合基質を用いたブラックウルフベリー果汁の発酵：乳酸菌のスクリーニング、プロセスの最適化、および品質分析",
+    "abstract_ja": "背景本研究は、混合乳酸菌（LAB）および複合基質を用いた発酵により、ブラックウルフベリー果汁の品質向上を図ることを目的とした。方法最適化により、Lactobacillus rhamnosus GG、Lactobacillus delbrueckii subsp. bulgaricus、およびLacticaseibacillus caseiの相乗的なブレンドと、ブラックウルフベリー、Potentilla anserina、およびイソマルトオリゴ糖からなる基質を特定した。結果未発酵果汁と比較して、本プロセスにより総糖含有量および総フェノール含有量がそれぞれ45.16%および43.96%有意に増加し、抗酸化活性も著しく向上した。具体的には、DPPHおよびABTS+ラジカル消去速度がそれぞれ48.58%および59.47%向上した。マルチオミクス解析により、Lactiplantibacillus plantarumの相対存在量と、特定の風味関連代謝物および脂質プロファイルとの間に有意な正の相関が認められ、脂質およびトリテルペノイドプロファイルの顕著なリモデリングが認められた。結論マルチオミクスの統合解析により、品質向上の基盤となる潜在的な代謝経路が系統的に解明され、発酵ブラックウルフベリー果汁のラボスケールでのプロセス最適化に向けた理論的根拠が提示された。"
+  },
+  {
+    "id": "10.1093/nar/gkag653",
+    "title": "RNA sequencing depth guidelines for the study of alternative splicing",
+    "abstract": "AbstractA key parameter in the experimental design of RNA-seq projects is the choice of sequencing depth. Considering a limited budget, one needs to find a trade-off between the number of samples and the sensitivity of the analysis, particularly concerning lowly expressed genes. While previous studies have proposed a lower bound for the comprehensive analysis of differential gene expression, for the analysis of alternative splicing, it has only been proposed for human adipose tissue. However, alternative splicing differs across tissues and conditions. We analyzed publicly available and newly generated deep-sequenced paired-end RNA-seq samples (between 150 and >500 million reads, read length 50–150 bp) from human buffy coat cells and diverse sets of tissues, including gluteal subcutaneous fat, heart, and hypothalamus. Our results show that the sequencing depth typically used in published cohorts is not sufficient to comprehensively capture the landscape of alternative splicing. This motivates the use of deeper sequencing or long-read technologies in future studies. Toward this goal, we offer guidelines and a website (https://sequencing-depth4splicing.com/) for choosing a suitable sequencing depth.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag653",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag653/9030008?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3293,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag653"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5fd27ebd29ef48225f739d46438a4c43e49f5f2dee1e0cb418634ad8258704c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:42:56.228849+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f40cff4f0ac384d204c51ca697a0cd57b2e4d5cbf4f8dc27767a11d43e05434d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:42:56.228849+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "選択的スプライシング研究におけるRNAシーケンシング深度のガイドライン",
+    "abstract_ja": "要旨RNA-seqプロジェクトの実験設計における重要なパラメータは、シーケンシング深度の選択である。限られた予算を考慮すると、サンプル数と解析感度、特に低発現遺伝子に関する感度とのトレードオフを見出す必要がある。先行研究では、遺伝子発現変動の包括的解析のための下限値が提案されてきたが、選択的スプライシングの解析については、ヒト脂肪組織においてのみ提案されてきた。しかし、選択的スプライシングは組織や条件によって異なる。我々は、ヒトバフィーコート細胞および、臀部皮下脂肪、心臓、視床下部を含む多様な組織群から得られた、公開されている、あるいは新たに生成されたディープシーケンシング済みのペアエンドRNA-seqサンプル（1億5,000万～5億超リード、リード長50～150 bp）を解析した。その結果、既報のコホートで一般的に用いられているシーケンシング深度では、選択的スプライシングの全体像を包括的に捉えるには不十分であることが示された。このことは、今後の研究においてより深いシーケンシングやロングリード技術の活用を促すものである。この目的を達成するため、適切なシーケンシング深度を選択するためのガイドラインとウェブサイト（https://sequencing-depth4splicing.com/）を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pbio.3004053",
+    "title": "Viral disease outcomes are indistinguishable between experimentally infected bats and rodents.",
+    "abstract": "A common explanation for bats being a conspicuous source of zoonotic viruses is their purported ability to coexist with viruses without suffering overt disease. Widespread acceptance of the idea that bats have unusual antiviral traits has catalyzed the discovery of unique features of bat immune systems which may have translational value as broad-spectrum antivirals, particularly if they evolved as a byproduct of bats' unique life history rather than through conventional co-evolutionary processes. Surprisingly, whether bats compared to other host groups suffer less disease from co-evolved viruses or from viruses generally has not been formally assessed. Here, synthesizing 86 years of experimental infections, involving 54 viruses, 85 host species, and over 5,600 animals, we document disease in bats following inoculation by taxonomically diverse viruses, including ones that are relatively benign in humans. The occurrence of overt disease, the likelihood of mortality, and the severity of disease in bats were indistinguishable from those experienced by rodents, another group associated with many zoonotic viruses. These patterns were consistent when considering only bat-associated viruses inoculated into bats and rodent-associated viruses inoculated into rodents and among inoculations which lacked shared co-evolutionary history. Instead, disease outcomes following infection were shaped by experimental design, viral host range, and evolutionary context. Unexceptional disease in bats from novel or co-evolved infections suggests that order-level host life history traits such as flight have inconsistent consequences for antiviral immunity and highlights the need to evaluate the functional properties of putatively unique features of bat immunity in vivo. While these results do not exclude the possibility of developing broader-acting or more potent antivirals from bat immune systems or diminish the potential value of mechanistic insights into bat immunity, they suggest that bat immune systems were shaped by conventional co-evolutionary processes rather than through unique circumstances that endow exceptional antiviral defenses.",
+    "journal": "PLOS Biology",
+    "doi": "10.1371/journal.pbio.3004053",
+    "date": "2026-10-29",
+    "authors": "Farrell MJ, Tucker SK, Mollentze N, Streicker DG.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956085",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13743028",
+    "pmid": "42956085",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2428,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pbio.3004053"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ad34ea96d73c8282f4126698fc9366ff586b09b1850a0d3ad20701a0d32a8a55",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:42:56.228849+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2462e3d5e7f85f0e1c20558e147121e49d05eff0099965037d863e2a320469c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:42:56.228849+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウイルス性疾患の転帰は、実験的に感染させたコウモリと齧歯類で区別がつかない。",
+    "abstract_ja": "コウモリが人獣共通感染症ウイルスの顕著な感染源とされる一般的な説明は、明らかな疾患を発症することなくウイルスと共存できるとされる能力にある。コウモリが特異な抗ウイルス特性を持つという考えが広く受け入れられたことで、コウモリの免疫系のユニークな特徴の発見が促進された。これらの特徴は、特に従来の共進化プロセスではなく、コウモリ独自の生活史の副産物として進化したものである場合、広域抗ウイルス薬としてトランスレーショナルな価値を持つ可能性がある。驚くべきことに、コウモリが他の宿主群と比較して、共進化ウイルスによる疾患、あるいは一般的なウイルスによる疾患の発症頻度が低いかどうかについては、これまで正式に評価されてこなかった。本研究では、54種類のウイルス、85種の宿主、および5,600頭以上の動物を対象とした86年間にわたる実験的感染データを統合し、ヒトにとって比較的良性であるウイルスを含む、分類学的に多様なウイルスの接種後におけるコウモリの疾患について報告する。コウモリにおける明らかな疾患の発生、死亡率、および疾患の重症度は、多くの人獣共通感染症ウイルスに関連する別のグループである齧歯類で経験されるものと区別がつかなかった。これらのパターンは、コウモリに接種されたコウモリ関連ウイルスと、齧歯類に接種された齧歯類関連ウイルスのみを考慮した場合、および共通の共進化史を持たない接種例においても一貫していた。むしろ、感染後の疾患転帰は、実験デザイン、ウイルスの宿主範囲、および進化的背景によって規定されていた。新規または共進化感染によるコウモリの疾患に特筆すべき例外が見られないことは、飛行のような個体群レベルの宿主生活史特性が抗ウイルス免疫に及ぼす影響は一貫していないことを示唆しており、コウモリ免疫の特異的とされる特徴の機能的特性をin vivoで評価する必要性を浮き彫りにしている。これらの結果は、コウモリの免疫系からより広範に作用する、あるいはより強力な抗ウイルス薬を開発できる可能性を排除するものではなく、またコウモリ免疫に関するメカニズム的な知見の潜在的な価値を減じるものでもない。しかし、コウモリの免疫系が、例外的な抗ウイルス防御能を付与する特異な状況ではなく、従来の共進化プロセスによって形成されたことを示唆している。"
+  },
+  {
+    "id": "10.1371/journal.pcbi.1014883",
+    "title": "FDTest: Fluctuation-dissipation theorem as a test for memory effects in brain dynamics",
+    "abstract": "by Sebastian Manuel Geli, Juan Manuel Monti, Adrián Ponce-Alvarez, Gustavo Deco, Yonatan Sanz Perl\n\nA central challenge in neuroscience is to understand how the brain flexibly balances local and distributed information processing to support diverse cognitive and conscious states. We hypothesize that a key signature of this balance is the presence of memory effects, which arise when a brain region’s future activity depends not only on its current state, but also on past information fed back from the wider network. Here we introduce the FDTest, a method for assessing local memory effects in multidimensional systems by measuring violations of a generalized Fluctuation–dissipation theorem (FDT). We first apply this framework to whole-brain models fitted to human neuroimaging data, demonstrating that the brain’s memory structure reflects its underlying connectivity. We then extend the analysis to individualized models of subjects during wakefulness and deep sleep. Memory effects are consistently stronger in wakefulness, indicating richer inter-regional dependencies and more integrated dynamics. These findings establish local memory as a dynamical marker of brain state and position the FDTest as a principled tool for probing the hidden structure of neural dynamics.",
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014883",
+    "date": "2026-11-11",
+    "authors": "Yonatan Sanz Perl",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014883",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/ploscompbiol/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4177,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://journals.plos.org/ploscompbiol/feed/atom"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1371/journal.pcbi.1014883"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0032bca42a756a936ec878940832cf32b086b4edd0592943d7e32f6d9bf460e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:42:56.228849+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d5db51ddf6f6e041de8aac55b3c1e6247336a92065edea1dc255de8e6e6ca9ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:42:56.228849+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FDTest: 脳ダイナミクスにおける記憶効果の検証としてのゆらぎ散逸定理",
+    "abstract_ja": "Sebastian Manuel Geli, Juan Manuel Monti, Adrián Ponce-Alvarez, Gustavo Deco, Yonatan Sanz Perl 著\n\n神経科学における中心的な課題は、脳が多様な認知的・意識的状態を支えるために、局所的な情報処理と分散的な情報処理をいかに柔軟にバランスさせているかを理解することである。我々は、このバランスの重要な特徴として、記憶効果の存在を仮説として立てている。記憶効果とは、脳領域の将来の活動が、現在の状態だけでなく、より広範なネットワークからフィードバックされる過去の情報にも依存する場合に生じるものである。本稿では、一般化されたゆらぎ-散逸定理（FDT）の破れを測定することで、多次元系における局所的な記憶効果を評価する手法であるFDTestを提案する。まず、この枠組みをヒトの神経画像データに適合させた全脳モデルに適用し、脳の記憶構造がその根底にある結合性を反映していることを示す。次に、この解析を覚醒時および深睡眠時における被験者の個別モデルへと拡張する。記憶効果は覚醒時において一貫して強く、領域間の依存性がより豊かであること、およびダイナミクスがより統合的であることを示している。これらの知見は、局所記憶を脳状態の動的な指標として確立するものであり、FDTestを神経ダイナミクスの隠れた構造を探るための原理に基づいたツールとして位置づけるものである。"
   }
 ]
