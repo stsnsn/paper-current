@@ -176662,5 +176662,297 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "画像ベースのシングルセルトランスクリプトミクスによる形質細胞クローナリティのin situプロファイリング",
     "abstract_ja": "画像ベースのシングルセルトランスクリプトミクスは、無傷の組織において多様な細胞種を同定できる。しかし、獲得免疫においては、V(D)J組換えが同一細胞種の細胞内に固有の免疫受容体を生成し、これらの手法ではまだ定義されていない重要な機能的変異をもたらす。本研究では、トランスクリプトームプロファイリングと組み合わせてV遺伝子の使用状況に基づき形質細胞のクローナリティを測定する、B細胞受容体マルチプレックスエラーロバスト蛍光in situハイブリダイゼーション（BCR-MERFISH）を提案する。我々は、BCR-MERFISHが、細胞培養および形質細胞の多様性が制限された、あるいは本来の状態にあるマウスにおいて、V遺伝子の使用状況を正確に同定することを実証する。次に、BCR-MERFISHを用いて、マウス腸管における形質細胞の存在量、クローナル多様性、およびパブリック・クローノタイプの使用状況の微生物叢依存的な変化と、マウス回腸に沿った形質細胞クローンの不均一な分布を明らかにする。組織コンテキストが形質細胞動態の不可欠な調節因子であることを踏まえ、BCR-MERFISHが広範な免疫学的課題に対して新たな知見をもたらすと期待している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00870-26",
+    "title": "Genomic diversification and modular recombination of Stx2 prophages associated with chromosomal integration sites during an STEC O111 and O157 outbreak.",
+    "abstract": "Shiga toxin 2 (Stx2) production in Shiga toxin-producing Escherichia coli (STEC) is mediated by lambdoid Stx2-converting bacteriophages, which play a central role in the evolutionary and pathogenic potential of STEC lineages. However, the mechanisms through which Stx2 phages diversify and evolve during natural outbreaks remain unclear. Here, we analyzed a collection of 20 related Stx2 phage and prophage genomes recovered from STEC O111 and O157 isolates associated with a foodborne disease outbreak in Japan. These included 2 infectious, Stx2-converting phages isolated directly from bloody stool samples, 17 Stx2 prophages, and 1 stx-negative prophage. Genome-wide single-nucleotide polymorphism analysis identified 282 polymorphic sites, resolving two predominant lineages associated with distinct chromosomal integration sites (argW or wrbA), corresponding largely to the STEC O111 and O157 backgrounds, respectively. Despite this lineage structure, the genomes exhibited extensive mosaicism, including lineage-incongruent haplotype blocks and multiple recombination junctions, indicating frequent modular exchanges among co-circulating phages. The preferential association between specific haplotypes and chromosomal integration sites further suggests that the host genomic context contributes to prophage genomic variation. Additionally, the Stx2-converting phages and argW-integrated prophages encoded functionally active restriction-modification systems, indicating that prophage-encoded defense mechanisms may contribute to genome stability and diversification. Collectively, these findings highlight the genetic plasticity of Stx2 phages and prophages during a single outbreak and offer genome-based insights into the evolutionary dynamics and epidemiological significance of toxin-converting bacteriophages in STEC populations.IMPORTANCEShiga toxin-converting bacteriophages are key drivers of virulence and genomic evolution in Shiga toxin-producing Escherichia coli (STEC). However, the diversity of these phages during natural disease outbreaks remains unclear. By analyzing a set of closely related Stx2 phages and prophages recovered from a single foodborne disease outbreak, this study revealed that Stx2 prophage populations are structured by their chromosomal integration sites, primarily at the argW or wrbA loci. Despite this lineage structure, phage genomes exhibit extensive mosaicism generated by modular recombination. We further showed that prophage-encoded restriction-modification systems are functionally active, suggesting that prophage defense mechanisms may influence genome stability and diversification. Collectively, these findings elucidate how chromosomal context, recombination, and prophage-encoded functions drive the evolution of toxin-converting bacteriophages. These dynamics have important implications for STEC population structure, outbreak dynamics, and the emergence of new pathogenic strains.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00870-26",
+    "date": "2026-10-22",
+    "authors": "Kimata K, Isobe J, Kanatani J-i, Kato T, Lee K, Sekizuka T, Kuroda M, Sata T, Iyoda S, Watahiki M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910917",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910917",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 546,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.00870-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1e404b22254ce8ae12e1633a7f40ba2faf816a740ab0a52052e078982f1ec6c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:45:24.618039+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "efe1c8cf2b146a7c7d52e29e4d8e18707f72cb98ff28d94f53cd5a4b994d190c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:45:24.618039+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "STEC O111およびO157のアウトブレイクにおける染色体組み込み部位に関連するStx2プロファージのゲノム多様化とモジュール再構成",
+    "abstract_ja": "志賀毒素産生性大腸菌（STEC）における志賀毒素2（Stx2）の産生は、ラムダ型Stx2変換バクテリオファージによって媒介されており、これらのファージはSTEC系統の進化的および病原性の潜在能力において中心的な役割を果たしている。しかし、自然発生的なアウトブレイクにおいてStx2ファージが多様化・進化するメカニズムは依然として不明である。本研究では、日本での食中毒アウトブレイクに関連して得られたSTEC O111およびO157分離株から回収された、20種類の関連Stx2ファージおよびプロファージゲノムのコレクションを解析した。これらには、血便検体から直接分離された2種類の感染性Stx2変換ファージ、17種類のStx2プロファージ、および1種類のstx陰性プロファージが含まれていた。ゲノムワイドな一塩基多型解析により282箇所の多型部位が同定され、それぞれ異なる染色体組み込み部位（argWまたはwrbA）に関連する2つの主要な系統が明らかになった。これらは概ね、STEC O111およびO157の背景にそれぞれ対応していた。このような系統構造にもかかわらず、ゲノムには系統不一致なハプロタイプブロックや複数の組換え接合部を含む広範なモザイク性が認められ、共流行するファージ間で頻繁なモジュール交換が行われていることが示唆された。特定のハプロタイプと染色体組み込み部位との優先的な関連は、宿主のゲノムコンテキストがプロファージのゲノム変異に寄与していることをさらに示唆している。加えて、Stx2変換ファージおよびargW組み込みプロファージは機能的に活性な制限修飾系をコードしており、プロファージがコードする防御機構がゲノムの安定性と多様化に寄与している可能性が示された。総じて、これらの知見は、単一のアウトブレイクにおけるStx2ファージおよびプロファージの遺伝的可塑性を浮き彫りにするとともに、STEC集団における毒素変換バクテリオファージの進化動態と疫学的意義に関するゲノムベースの知見を提供するものである。重要性志賀毒素変換バクテリオファージは、志賀毒素産生性大腸菌（STEC）における病原性とゲノム進化の主要な駆動因子である。しかし、自然発生的な疾患アウトブレイクにおけるこれらのファージの多様性は依然として不明である。単一の食中毒アウトブレイクから回収された近縁なStx2ファージおよびプロファージのセットを解析した結果、本研究では、Stx2プロファージ集団が主にargWまたはwrbA遺伝子座における染色体組み込み部位によって構造化されていることが明らかになった。この系統構造にもかかわらず、ファージゲノムはモジュール組換えによって生じる広範なモザイク性を示す。さらに、プロファージがコードする制限修飾系が機能的に活性であることを示し、プロファージの防御機構がゲノムの安定性と多様化に影響を与えている可能性を示唆した。総じて、これらの知見は、染色体コンテキスト、組換え、およびプロファージがコードする機能が、毒素変換バクテリオファージの進化をどのように駆動しているかを解明するものである。これらの動態は、STEC集団構造、アウトブレイク動態、および新たな病原性株の出現に重要な意味を持つ。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1038/s41467-026-78472-2",
+    "title": "O-antigen loss modulates meropenem resistance in Klebsiella pneumoniae through metabolic and redox reprogramming.",
+    "abstract": "Carbapenems are last line β lactam antibiotics for multidrug-resistant Gram-negative infections, yet the adaptive routes by which Enterobacterales survive carbapenem stress remain incompletely understood. Here we show that prolonged subinhibitory meropenem exposure promotes O antigen loss in Klebsiella pneumoniae, predominantly via insertion sequence-mediated disruption of O-antigen biosynthesis genes, thereby enhancing carbapenem resistance. O-antigen deficiency is accompanied by envelope-associated redox remodeling and reprogramming of central metabolism, mitigating meropenem-induced reactive oxygen species (ROS) accumulation and oxidative killing. This adaptation also conferred collateral sensitivity to aminoglycosides, associated with increased outer-membrane electronegativity and altered porin expression that may promote aminoglycoside uptake. Analysis of public genomes further revealed O-antigen locus disruptions in subsets of K. pneumoniae and Escherichia coli isolates. Together, our findings establish O-antigen deficiency as a surface-remodeling adaptation that enhances carbapenem resistance through coordinated metabolic and redox reprogramming, while exposing an aminoglycoside vulnerability that warrants further evaluation.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-78472-2",
+    "date": "2026-10-22",
+    "authors": "Huang J, Wei DW, Song Y, Vollmer D, Tian X, Zhou T, Liang J, Jing S, Zhang G, Wang C, Zhu J, Vollmer W, Feng J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43003842",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13748581",
+    "pmid": "43003842",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2749,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1038/s41467-026-78472-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0ad443ecafd26deb8d9e97c8ebc9158c5031505faab036f091824bdd4c56de8d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:45:24.618039+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9254fea95bc377a5b309d0a5b0e13d40f5d66b839832d7842e3744081d993e95",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:45:24.618039+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "O抗原の喪失は、代謝および酸化還元リプログラミングを介して、肺炎桿菌におけるメロペネム耐性を調節する。",
+    "abstract_ja": "カルバペネム系薬剤は、多剤耐性グラム陰性菌感染症に対する最終手段となるβ-ラクタム系抗菌薬であるが、腸内細菌目がカルバペネム系薬剤によるストレス下で生存するための適応経路については、いまだ十分に解明されていない。本研究では、メロペネムへの亜阻害レベルの長期曝露が、主に挿入配列を介したO抗原生合成遺伝子の破壊を通じて、肺炎桿菌（Klebsiella pneumoniae）におけるO抗原の喪失を促進し、それによってカルバペネム耐性を高めることを示す。O抗原欠損には、外膜関連のレドックスリモデリングおよび中心代謝のリプログラミングが伴い、メロペネム誘導性の活性酸素種（ROS）の蓄積と酸化的殺菌が軽減される。この適応は、外膜の電気陰性度の増大およびポリン発現の変化に伴うアミノグリコシド系薬剤への付随的な感受性をもたらし、これがアミノグリコシド系の取り込みを促進する可能性がある。公開ゲノムの解析により、肺炎桿菌および大腸菌（Escherichia coli）分離株の一部においてO抗原遺伝子座の破壊がさらに明らかになった。以上の知見を総合すると、O抗原欠損は、協調的な代謝およびレドックスリプログラミングを通じてカルバペネム耐性を高める表面リモデリング適応であると同時に、さらなる評価を要するアミノグリコシド系薬剤への脆弱性をもたらすことが明らかとなった。"
+  },
+  {
+    "id": "10.1038/s41564-026-02426-z",
+    "title": "Env-specific antibodies promote post-treatment control in SIV-infected macaques",
+    "abstract": "Latency reversal, but not reservoir reduction, has been achieved by combining antiretroviral therapy, CD8α lymphocyte depletion and N-803 in SIV-infected rhesus macaques. In this study, after cessation of antiretroviral therapy, anti-SIV Env antibodies enabled post-treatment control with reduced rebound and enhanced expression of antiviral CD4+ T cell gene signatures.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02426-z",
+    "date": "2026-11-10",
+    "authors": "Ann Chahroudi",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02426-z",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2551,
+    "collected_at": "2026-11-10T22:50:05.049458+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41564-026-02426-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cd53049c7bb7f9a2f6f142cef1d03c8ff0d05ab2e94d59c3596494fb55d738f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:45:24.618039+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e5ed9614cb7b9a57e516f7d76b957bda5cc5f6905adecf2ef9ec44fdbc36fd2c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:45:24.618039+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Env特異的抗体はSIV感染マカクザルにおける治療後コントロールを促進する",
+    "abstract_ja": "SIV感染アカゲザルにおいて、抗レトロウイルス療法、CD8αリンパ球枯渇、およびN-803を組み合わせることで、リザーバーの減少ではなくレイテンシーの逆転が達成された。本研究では、抗レトロウイルス療法の中止後、抗SIV Env抗体により、リバウンドの抑制と抗ウイルスCD4+ T細胞遺伝子シグネチャーの発現亢進を伴う治療後コントロールが可能となった。"
+  },
+  {
+    "id": "10.1038/s41579-026-01387-8",
+    "title": "The soil microbiome in an era of global change",
+    "abstract": "Soils and their microbiomes are being severely affected by rapid global change. Understanding the effects of anthropogenic stressors on the soil microbiome is therefore key to improving soil resilience and ensuring planetary health. This Focus issue highlights the pressing threats to belowground microbial biodiversity and the opportunities and challenges to restore it.",
+    "journal": "Nature Reviews Microbiology",
+    "doi": "10.1038/s41579-026-01387-8",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41579-026-01387-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nrmicro.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4297,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.nature.com/nrmicro.rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1038/s41579-026-01387-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3130e3bb8a831af9abdd0e64452aadcbc30e1b96f3df46f1669382a4d24c4661",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:45:24.618039+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2eab558eed3c46eb1d116605ae7b9ef7be322599ff5a711094cd69a092cd0db3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:45:24.618039+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "地球規模の変化時代における土壌微生物叢",
+    "abstract_ja": "土壌とその微生物叢は、急速な地球規模の変化によって深刻な影響を受けている。したがって、人為的なストレス要因が土壌微生物叢に及ぼす影響を理解することは、土壌のレジリエンスを高め、地球の健全性を確保する上で極めて重要である。本フォーカス号では、地下の微生物生物多様性に対する喫緊の脅威と、それを回復させるための機会と課題を取り上げる。"
   }
 ]
