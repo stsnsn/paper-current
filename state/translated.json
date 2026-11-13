@@ -194052,5 +194052,346 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "遺伝子型から代謝表現型に至る微生物の耐性。",
     "abstract_ja": "薬剤耐性（AMR）は世界的に深刻化する脅威となっているが、サーベイランスや機序的理解は依然として個々の耐性遺伝子に限定されており、このアプローチでは、耐性が出現・拡散する生態学的、ゲノム的、および代謝的な複雑性を捉えることが不十分である。本オピニオン論文において、我々は、ゲノムスケール代謝モデル（GEMs）が、こうした遺伝子中心のパラダイムを超えてAMR研究を進展させるための原理に基づいた枠組みを提供すると論じる。菌株分解能のGEMsは、耐性決定因子を代謝ネットワーク内に組み込むことで、配列ベースのツールでは得られない、最小発育阻止濃度や環境条件依存的な耐性を含む、定量的かつ文脈依存的な表現型予測を生成できる可能性がある。可動性遺伝要素、水平遺伝子伝達、およびコミュニティレベルの相互作用を組み込んだ拡張GEMフレームワークは、生態学的知見に基づく耐性プロファイリングを支援する。治療レベルでは、ネットワーク全体のモデリングにより、代謝上の脆弱性、合成致死相互作用、およびマイクロバイオームを標的とした戦略を特定することが可能となる。GEMsをマルチオミクスおよびデータ駆動型アプローチと統合することは、サーベイランス、診断、および創薬を結びつける機序認識型AMRプラットフォームに向けた極めて重要な一歩となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1049",
+    "title": "BacMap 3.0: a comprehensive knowledgebase of annotated bacterial genomes.",
+    "abstract": "BacMap 3.0 (https://bacmap.ca) is a comprehensive, freely accessible resource integrating 23 524 bacterial and archaeal species, 32 866 genomes, >100 million genes, 1756 primary metabolic pathways, and 45 284 metabolites within one interactive platform. Despite the extraordinary growth of bacterial and archaeal genome sequencing, relevant data remain distributed across numerous specialized databases, impeding comprehensive genome-to-function analysis. While existing microbial resources generally emphasize genome annotation, taxonomy, metabolic pathways, or phenotypes separately, BacMap 3.0 unifies these complementary information layers within an organism-centred framework. It resolves this fragmentation by consolidating genomic, functional, structural, metabolic, phenotypic, ecological, and phylogenetic information into richly detailed, organism-specific \"BacCards\". Each BacCard combines an interactive genome map with extensive annotations covering bacterium-specific taxonomy, physiology, morphology, metabolism, protein structures, pathways, and metabolites. To facilitate data exploration, BacMap 3.0 supports taxonomic and phenotype-based browsing, chemical structure searches, interactive genome visualization, as well as gene, genome, 16S RNA, and protein BLAST searches. Building on earlier releases devoted primarily to genome visualization, BacMap 3.0 increases organismal coverage by >13-fold and transforms BacMap into an integrated bacterial knowledgebase for genome-to-function investigation across multiple biological scales. By bringing diverse biological information together in a single searchable environment, BacMap 3.0 offers a powerful platform for comparative genomics, microbiome research, infectious disease investigation, and biotechnology with a goal of accelerating the interpretation of microbial diversity, biology, and function.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1049",
+    "date": "2026-10-29",
+    "authors": "Kruger R, Kyes M, Oler E, Saha S, Han S, Poelzer J, Wakoli J, López-Hernández Y, LeVatte M, Berjanskii M, MacKay S, Kovur P, Fitzsimmons CJ, Cahill JF, Wishart DS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42952395",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42952395",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "genome",
+        "knowledgebase",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 27,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1049"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5be5f60ec355622558dd7a0948a82fe10e1ca953493c1820aa808612cc155855",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:10:33.490811+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "05feff6ead2f82a90656e441f91ba328ee576925241542898b5cbb489e260895",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:10:33.490811+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BacMap 3.0：アノテーション済み細菌ゲノムの包括的なナレッジベース。",
+    "abstract_ja": "BacMap 3.0 (https://bacmap.ca) は、23,524種の細菌および古細菌、32,866個のゲノム、1億個以上の遺伝子、1,756の一次代謝経路、および45,284個の代謝物を単一のインタラクティブなプラットフォームに統合した、包括的かつ無料で利用可能なリソースである。細菌および古細菌のゲノムシーケンシングが驚異的な進展を遂げているにもかかわらず、関連データは依然として数多くの専門データベースに分散しており、包括的なゲノムから機能への解析を妨げる要因となっている。既存の微生物リソースは一般的に、ゲノムアノテーション、分類学、代謝経路、あるいは表現型を個別に重視しているが、BacMap 3.0はこれらの相補的な情報レイヤーを生物中心のフレームワーク内で統合している。本プラットフォームは、ゲノム、機能、構造、代謝、表現型、生態、および系統学的情報を、詳細かつ生物種固有の「BacCards」へと集約することで、こうした断片化を解消する。各BacCardは、インタラクティブなゲノムマップと、細菌固有の分類学、生理学、形態学、代謝、タンパク質構造、代謝経路、および代謝物を網羅する広範なアノテーションを組み合わせている。データ探索を容易にするため、BacMap 3.0は分類学および表現型に基づくブラウジング、化学構造検索、インタラクティブなゲノム可視化に加え、遺伝子、ゲノム、16S RNA、およびタンパク質のBLAST検索をサポートしている。主にゲノム可視化に特化した先行リリースを基盤として、BacMap 3.0は生物種のカバー範囲を13倍以上に拡大し、BacMapを複数の生物学的スケールにわたるゲノムから機能への調査のための統合的な細菌ナレッジベースへと変貌させた。多様な生物学的情報を単一の検索可能な環境に集約することで、BacMap 3.0は、微生物の多様性、生物学、および機能の解釈を加速させることを目的とし、比較ゲノミクス、マイクロバイオーム研究、感染症調査、およびバイオテクノロジーのための強力なプラットフォームを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2611794123",
+    "title": "Conformational flexibility of the nitrogenase-like reductase CfbC/D involved in coenzyme F<sub>430</sub> biosynthesis.",
+    "abstract": "The nitrogenase-like reductase CfbC/D catalyzes the six-electron reduction of the tetrapyrrole macrocycle of Ni2+-sirohydrochlorin a,c-diamide during the biosynthesis of coenzyme F430, an essential cofactor for biological methane formation and consumption. The individual dimeric protein components, CfbC2 and CfbD2, form a complex to allow for electron transfer from the [4Fe:4S] cluster in CfbC2 to the [4Fe:4S] cluster in CfbD2 and onto the substrate. The overall process is ATP-dependent. Although CfbC/D belongs to the family of nitrogenase-like enzymes, there are several intriguing differences between CfbC/D, other nitrogenase-like enzymes and nitrogenase itself. In contrast to the other enzymes, CfbC/D exhibits a simpler molecular architecture, forming a heterotetrameric CfbC2D2 assembly. Furthermore, the interaction of the CfbC and CfbD components does not depend on the presence of adenosine triphosphate (ATP). Here we report cryoelectron microscopy structures of the CfbC/D complex prepared in the absence and presence of substrates. These structures not only shed light on the molecular architecture of the CfbC/D complex but also reveal a high degree of structural flexibility within the CfbD2 component, which undergoes a large conformational change in the presence of an ATP analog and the tetrapyrrole substrate. The interplay of CfbD with its reductase CfbC also strongly suggests an evolutionary pathway toward the modern nitrogenase from methanogenic archaea.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2611794123",
+    "date": "2026-10-20",
+    "authors": "Zhang L, Schuhmacher F, Kussler A, Einsle O, Layer G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42900713",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42900713",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "methanogen",
+        "methanogenic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2041,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2611794123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c6aaf0a9d1810d24d011e7c64f7cc961900558a6473d97c47cdbfe31cba1e052",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:10:33.490811+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "073494e33304df9740716dd214bc47cd631f8a7a02fc458f235ca1b0fde6c64f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:10:33.490811+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "補酵素F<sub>430</sub>生合成に関与するニトロゲナーゼ様還元酵素CfbC/Dの立体構造柔軟性。",
+    "abstract_ja": "ニトロゲナーゼ様還元酵素CfbC/Dは、生物学的メタン生成および消費に必須の補因子であるコエンザイムF430の生合成において、Ni2+-シロヒドロクロリンa,c-ジアミドのテトラピロール大環状構造の6電子還元を触媒する。個々の二量体タンパク質成分であるCfbC2およびCfbD2は複合体を形成し、CfbC2の[4Fe:4S]クラスターからCfbD2の[4Fe:4S]クラスターを経て基質へと電子伝達を可能にする。全体のプロセスはATP依存的である。CfbC/Dはニトロゲナーゼ様酵素ファミリーに属するが、CfbC/Dと他のニトロゲナーゼ様酵素、およびニトロゲナーゼ自体との間には、いくつかの興味深い相違点がある。他の酵素とは対照的に、CfbC/Dはより単純な分子構造を有し、ヘテロ四量体のCfbC2D2アセンブリを形成する。さらに、CfbCおよびCfbD成分の相互作用は、アデノシン三リン酸（ATP）の存在に依存しない。本報では、基質不在下および存在下で調製したCfbC/D複合体のクライオ電子顕微鏡構造を報告する。これらの構造は、CfbC/D複合体の分子構造を明らかにするだけでなく、ATPアナログおよびテトラピロール基質の存在下で大きな立体構造変化を起こすCfbD2成分における高度な構造柔軟性をも明らかにしている。CfbDとその還元酵素CfbCとの相互作用は、メタン生成古細菌から現代のニトロゲナーゼに至る進化経路を強く示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/ismejo/wrag272",
+    "title": "Contrasting edaphic and land-use signatures of microbial phosphorus mobilisation and accumulation genes.",
+    "abstract": "Phosphorus (P) is an essential nutrient that constrains productivity across many terrestrial ecosystems. Soil microorganisms regulate P transformation through distinct functional strategies, yet how these strategies vary with land use and environmental conditions across chronically P-impoverished landscapes remains poorly understood. Here, we combined 268 soil metagenomes from natural, pasture, and cropland systems across Australia with genome-resolved analyses of 1,077 metagenome-assembled genomes (MAGs). Results revealed contrasting genomic distributions among P-cycling strategies. P accumulation genes were widely distributed across bacterial phylogeny, whereas mineralization gene and solubilisation gene were concentrated within specific lineages. Land-use-associated differences were most evident in the relative abundances of mineralisation and solubilisation genes, whereas accumulation genes showed comparatively little variation. Soil properties were stronger predictors of relative P-cycling gene abundance than climatic variables. Among these variables, soil pH was the strongest predictor of both the combined relative abundance of P-cycling genes and mineralisation genes, whereas accumulation genes were negatively associated with the mineral-associated organic carbon fraction. Continental predictions further suggested higher combined relative P-cycling gene abundance in wetter south-western and coastal eastern regions. These analyses reveal contrasting microbial P-cycling gene strategies across Australian soils and provide a genome-resolved framework for understanding their phylogenetic distributions and environmental associations at the continental scale.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag272",
+    "date": "2026-10-20",
+    "authors": "Du M, Xue P, Minasny B, Tang Y, Tran TKA, McBratney A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42899699",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42899699",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome",
+        "metagenomes",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 36,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/ismejo/wrag272"
+    ],
+    "translation": {
+      "title": {
+        "hash": "253798a6ed80e37e4093b365248c622a7501148bc8aad749fd170fdb80e9b8e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:10:33.490811+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7cb7780d1086aec7b19c8ef690a12ed4cf062fcd5fb91479363cb6ae50525de0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:10:33.490811+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物のリン動員・蓄積遺伝子における土壌中と陸上での対照的なシグネチャー",
+    "abstract_ja": "リン（P）は、多くの陸域生態系において生産性を制約する必須栄養素である。土壌微生物はそれぞれ異なる機能的戦略を通じてP変換を調節しているが、慢性的にPが乏しい景観において、これらの戦略が土地利用や環境条件に応じてどのように異なるかについては、依然として十分に解明されていない。本研究では、オーストラリア全土の自然地、牧草地、および耕作地システムから得られた268件の土壌メタゲノムと、1,077件のメタゲノムアセンブルゲノム（MAGs）のゲノム解像度解析を組み合わせた。その結果、P循環戦略間で対照的なゲノム分布が明らかになった。P蓄積遺伝子は細菌の系統樹全体に広く分布していた一方、鉱化遺伝子および可溶化遺伝子は特定の系統に集中して分布していた。土地利用に関連する差異は、鉱化遺伝子と可溶化遺伝子の相対存在量において最も顕著に認められたが、蓄積遺伝子の変動は比較的小さかった。土壌特性は、気候変数よりもP循環遺伝子の相対存在量の強力な予測因子であった。これらの変数のうち、土壌pHはP循環遺伝子と鉱化遺伝子の合算相対存在量の双方において最も強力な予測因子であった一方、蓄積遺伝子は鉱物関連有機炭素分画と負の相関を示した。大陸規模の予測では、より湿潤な南西部および沿岸部の東部地域において、P循環遺伝子の合算相対存在量が高くなることがさらに示唆された。これらの解析により、オーストラリアの土壌における微生物のP循環遺伝子戦略の対照的な様相が明らかになり、大陸規模におけるそれらの系統的分布と環境関連性を理解するためのゲノム解像度の枠組みが提供された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1063",
+    "title": "scMRdb: a comprehensive resource for cell-type-resolved Mendelian randomization of complex traits.",
+    "abstract": "Mendelian randomization (MR) is a powerful analytical approach to infer putative causal links between gene expression and human disease, using genetic variants as instrumental variables to mitigate confounding and reverse causation. However, existing MR resources predominantly rely on bulk-tissue expression quantitative trait loci (eQTLs), which mask cell-type-specific transcriptional effects by averaging expression across cellular populations. Furthermore, cell-type-resolved causal evidence from single-cell eQTL (sc-eQTL) MR analyses remains fragmented across individual studies with inconsistent workflows, prohibiting standardized cross-cell-type comparisons. Here we present scMRdb (https://ngdc.cncb.ac.cn/scmrdb), a comprehensive resource for cell-type-resolved MR of human complex traits and diseases. scMRdb harmonizes 5206 genome-wide association study (GWAS) summary statistics of European and East Asian ancestry with 585 sc-eQTL datasets spanning 11 tissues and cell systems, including 110 cell types. A uniform pipeline evaluates all gene-trait pairs via MR followed by Steiger directionality testing. Significant associations are assessed by colocalization, and results are stratified into six confidence tiers with integrated drug-target annotation. scMRdb enables systematic recovery of candidate causal genes supported by cell-type-resolved regulatory evidence that is often diluted or obscured in bulk-tissue analyses. We expect scMRdb to serve as a user-friendly portal for generating cell-type-informed mechanistic hypotheses and prioritizing actionable therapeutic targets for complex human diseases.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1063",
+    "date": "2026-10-29",
+    "authors": "Pan S, Wang Z, Jia P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42952401",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42952401",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1150,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1063"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8863804736ebe5e454106c802d715ca244df6b34e1f39a1d4c846e71c6dd6f05",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:10:33.490811+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "42ebccdde4308567e75c1df5a8fe789b20d386e51c39aaed8968275c1b42c77c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T18:10:33.490811+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scMRdb: 複雑な形質の細胞型解像度によるメンデルランダム化に関する包括的なリソース。",
+    "abstract_ja": "メンデルランダム化（MR）法は、遺伝的変異を操作変数として用いることで、交絡や逆因果関係を軽減し、遺伝子発現とヒト疾患との間の推定因果関係を推論する強力な解析手法である。しかし、既存のMRリソースは主にバルク組織発現量的形質遺伝子座（eQTL）に依存しており、細胞集団全体の発現を平均化することで、細胞種特異的な転写効果を覆い隠している。さらに、シングルセルeQTL（sc-eQTL）MR解析による細胞種分解の因果的エビデンスは、個々の研究間で断片化されており、ワークフローも一貫していないため、標準化された細胞種間比較を行うことが困難である。本研究では、ヒトの複雑な形質および疾患を対象とした細胞種分解MRの包括的リソースであるscMRdb（https://ngdc.cncb.ac.cn/scmrdb）を提案する。scMRdbは、欧州系および東アジア系の祖先を持つ5,206件のゲノムワイド関連解析（GWAS）要約統計量と、110種類の細胞種を含む11の組織・細胞系にわたる585件のsc-eQTLデータセットを整合させる。統一的なパイプラインにより、すべての遺伝子-形質ペアをMRで評価し、続いてSteiger方向性検定を行う。有意な関連は共局在法によって評価され、結果は統合的な薬剤-標的アノテーションを備えた6段階の信頼度レベルに層別化される。scMRdbは、バルク組織解析では希釈されたり不明確になったりしがちな細胞種分解の調節エビデンスに裏付けられた、候補因果遺伝子の系統的な回収を可能にする。我々は、scMRdbが細胞種情報に基づいた機序仮説の生成や、複雑なヒト疾患に対する実行可能な治療標的の優先順位付けを行うための、ユーザーフレンドリーなポータルとして機能することを期待している。"
   }
 ]
