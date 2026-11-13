@@ -186169,5 +186169,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "真核生物の構造史",
     "abstract_ja": "比較ゲノミクスは従来、配列に基づくマーカーに依存してきたが、タンパク質構造の世界的な進化的様相は依然として大部分が未解明のままである。本研究では、1,542種の真核生物のプロテオームレベルにおける全対全構造比較に基づき、300兆回近いペアワイズタンパク質アライメントを網羅した構造類似性由来の系統樹「Structural History of Eukarya (SHE)」を提示する。このプロテオームスケールの解析により、真核生物進化の二部構成モデルが明らかになった。すなわち、細胞骨格構造が支配的な硬直的な「厳格コア（Strict Core）」が、翻訳機構を中心とするより柔軟な「運用エンジン（Operational Engine）」を支えているというものである。我々は、鳥類やアリなどの種において、プロテオームの拡大とは切り離された系統特異的な構造進化の加速を同定した。最後に、プロテオーム全域にわたる構造的忠実度が、未特性化タンパク質の機能アノテーションや、モデル生物選定のためのデータ駆動型フレームワークを可能にし、ヒューリスティックな選択をヒトの生物学的プロセスとの定量的なマッチングに置き換えることを実証する。SHEは、インタラクティブポータルとして無料で公開されている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1272",
+    "title": "Correction to ‘DFF-ChIP: a method to detect and quantify complex interactions between RNA polymerase II, transcription factors, and chromatin’",
+    "abstract": "This is a correction to: Benjamin M Spector, Juan F Santana, Miles A Pufall, David H Price, DFF-ChIP: a method to detect and quantify complex interactions between RNA polymerase II, transcription factors, and chromatin, Nucleic Acids Research, Volume 52, Issue 18, 14 October 2024, Page e88, https://doi.org/10.1093/nar/gkae760",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1272",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1272/9026631?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "chromatin",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2111,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1272"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b694cc59bc8607f1b60e1b95c50e8a693ff7ebe4a3d7b81bddbeb6c1bd2edaff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:45:04.919081+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf2e4c4731294c52a99cba41d8629e2ccf17757ad2fdf4072826b815ae0e8461",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:45:04.919081+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "「DFF-ChIP: a method to detect and quantify complex interactions between RNA polymerase II, transcription factors, and chromatin」の訂正",
+    "abstract_ja": "本論文は、Benjamin M Spector, Juan F Santana, Miles A Pufall, David H Price, DFF-ChIP: a method to detect and quantify complex interactions between RNA polymerase II, transcription factors, and chromatin, Nucleic Acids Research, Volume 52, Issue 18, 14 October 2024, Page e88, https://doi.org/10.1093/nar/gkae760 の訂正である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0361774",
+    "title": "Genomic dissection of environmental responsiveness and cross-environment productivity in fenugreek.",
+    "abstract": "Dissecting the genetic basis of genotype × environment interaction (G × E) is important for breeding crops with stable or responsive performance across production environments. Using previously published seed-yield data from 107 Egyptian fenugreek accessions evaluated under two contrasting field environments, we investigated whether yield potential and environmental responsiveness share a common genetic basis. Seed yield per plant was measured in Giza (SYP_G; reference environment) and Wadi El-Natrun (SYP_W; contrasting environment). Nine derived indices were calculated to characterize environmental responsiveness, productivity, and stability: relative performance index (RPI), yield plasticity index (YPI), stress tolerance index (STI), log response ratio (LRR), mean productivity (MP), harmonic mean (HM), tolerance index (TOL), stress susceptibility index (SSI), and AMMI stability value (ASV). The near-zero correlation between SYP_G and SYP_W (r = 0.107) indicated substantial genotype reranking across environments, while several response indices were closely related to SYP_W and therefore predominantly reflected environment-dependent yield expression. Phenotypic analyses also identified contrasting performance strategies, ranging from highly responsive accessions, such as G15 (RPI = 3.629), to highly stable accessions, such as G41 (YPI = 0.001). These phenotypes were integrated with 38,142 SNPs using univariate association-mapping approaches. In addition, SYP_G and SYP_W were subjected to multivariate association-mapping. Association mapping identified one genome-wide-significant SNP for STI and several suggestive loci showed concordant associations across mapping methods. Within the current panel, marker coverage, and significance thresholds, most adaptation-index associations did not overlap previously reported yield loci; however, dDocent_Contig_39939_66, previously associated with seed yield in this panel, also showed cross-method suggestive associations with RPI and TOL. Comparative genomic analysis of three legume reference genomes supported two gene-linked candidate loci associated with STI: a cation/H⁺ antiporter and an importin subunit beta-1. The same analysis classified two of the strongest statistical signals, including the sole genome-wide-significant locus, as repetitive or transposable-element sequences rather than single-copy genes. These findings demonstrate that statistical association strength does not necessarily establish a coding-gene basis for loci identified using reference-free ddRAD markers. Within the current population size and marker coverage, environmental responsiveness and productivity appeared partially distinct but biologically connected components of environment-dependent yield performance. The results provide a genomic and phenotypic framework for prioritizing fenugreek germplasm for further evaluation while emphasizing the need for independent-population, multi-season, and functional validation of the identified candidate loci.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0361774",
+    "date": "2026-10-29",
+    "authors": "Aljabri M, Abd El-Wahab MMH, Dobeie AM, El-Soda M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42955938",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13718937",
+    "pmid": "42955938",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1710,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0361774"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bd70055150a454ae1513c22efed08306f90aa64f443a19efacfa5e359ff5657b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:45:04.919081+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c659a8f232f4669c1e4f68b6ca0852b3f6d520d9af60f33dcbd9338121506b96",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:45:04.919081+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フェヌグリークにおける環境応答性と環境間生産性のゲノム解析",
+    "abstract_ja": "遺伝子型×環境相互作用（G×E）の遺伝的基盤を解析することは、生産環境を問わず安定した、あるいは応答性の高い性能を持つ作物を育種する上で重要である。対照的な2つの圃場環境で評価したエジプト産フェヌグリーク107系統の既報の種子収量データを用い、収量ポテンシャルと環境応答性が共通の遺伝的基盤を持つかどうかを検討した。1株あたりの種子収量を、ギザ（SYP_G；参照環境）およびワディ・エル・ナトルーン（SYP_W；対照環境）で測定した。環境応答性、生産性、および安定性を特性評価するため、相対性能指数（RPI）、収量可塑性指数（YPI）、ストレス耐性指数（STI）、対数応答比（LRR）、平均生産性（MP）、調和平均（HM）、耐性指数（TOL）、ストレス感受性指数（SSI）、およびAMMI安定性値（ASV）の9つの派生指標を算出した。SYP_GとSYP_Wの間の相関がほぼゼロ（r = 0.107）であったことは、環境間で大幅な遺伝子型の再順位付けが生じたことを示しており、一方でいくつかの応答指標はSYP_Wと密接に関連していたため、主に環境依存的な収量発現を反映していた。表現型解析により、G15（RPI = 3.629）のような応答性の高い系統から、G41（YPI = 0.001）のような極めて安定した系統まで、対照的な性能戦略が同定された。これらの表現型は、単変数関連マッピング手法を用いて38,142個のSNPと統合された。さらに、SYP_GおよびSYP_Wに対して多変数関連マッピングを実施した。関連マッピングにより、STIに関してゲノムワイドに有意なSNPが1つ同定され、いくつかの示唆的遺伝子座が複数のマッピング手法にわたって一致した関連を示した。現在のパネル、マーカーカバレッジ、および有意性閾値の範囲内では、ほとんどの適応指数関連は既報の収量遺伝子座と重複していなかった。しかし、本パネルで種子収量との関連が報告されていたdDocent_Contig_39939_66は、RPIおよびTOLにおいても手法を横断した示唆的関連を示した。3つのマメ科参照ゲノムの比較ゲノム解析により、STIに関連する2つの遺伝子連鎖候補遺伝子座（陽イオン/H⁺アンチポーターおよびインポルチンサブユニットβ-1）が支持された。同解析では、唯一のゲノムワイドに有意な遺伝子座を含む、最も強力な統計的シグナルのうち2つが、単一コピー遺伝子ではなく反復配列または転移因子配列として分類された。これらの知見は、参照フリーddRADマーカーを用いて同定された遺伝子座において、統計的な関連強度が必ずしもコーディング遺伝子の基盤を立証するわけではないことを示している。現在の集団サイズおよびマーカーカバレッジにおいて、環境応答性と生産性は、環境依存的な収量性能の部分的に異なるが生物学的に関連した構成要素であると考えられた。本結果は、同定された候補遺伝子座の独立集団、多シーズン、および機能的検証の必要性を強調しつつ、さらなる評価に向けてフェヌグリークの遺伝資源の優先順位付けを行うためのゲノム的および表現型的な枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2610110123",
+    "title": "Hepatitis C viral variants bear signatures of de novo CD8+ T cell and antibody pressure after spontaneous postpartum viral suppression.",
+    "abstract": "Progression to chronic hepatitis C virus (HCV) infection entails loss of HCV-specific CD4+ T cell help, emergence of viral variants that escape recognition by CD8+ T cells and neutralizing antibodies, and exhaustion of CD8+ T cells targeting remaining intact epitopes. Once chronic infection has been established, it is generally lifelong without treatment. However, in some chronically infected women, a surprising postpartum viral load decline has been linked to resurgent functional HCV-specific CD4+ helper T cells. A minority of women even spontaneously clear long-standing chronic infection postpartum. To test whether restored T cell help boosts HCV-specific CD8+ T cell or antibody responses in women with postpartum viral control, we performed serial near-full-length deep sequencing of HCV genomes to assess evolution of viral MHC class I epitopes and antibody epitopes in nine women with significant postpartum viral declines (≥ 1 log10 at 3 mo postpartum, \"controllers\") and 12 with more stable levels (\"noncontrollers\"). Although not associated with mutations arising early postpartum, at 12 to 24 mo postpartum, viral control was strongly associated with amino acid mutations in epitopes predicted to be targeted by CD8+ T cells and neutralizing antibodies. Plasma from controllers also demonstrated a postpartum increase in neutralization of multiple HCV strains. Together, these findings support the hypothesis that postpartum viral control is mediated by CD8+ T cell and antibody pressure.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2610110123",
+    "date": "2026-10-27",
+    "authors": "Phelps CC, Smith S, Gridley J, Kohout JA, Xu Z, Marcotrigiano J, Rood K, Skinner NE, Grakoui A, Honegger JR, Walker CM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42945244",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13732198",
+    "pmid": "42945244",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1188,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2610110123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "422312b57ce867a90d6d115b0a33ed1ee54f2c2386eff8351ba84e4cc84d303a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:45:04.919081+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0a4f2b60371ea0f8b630d295349c67df46e833254b9d69db4dce45ebf3424fd9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:45:04.919081+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "C型肝炎ウイルス変異株は、産後の自然的なウイルス抑制後のde novo CD8+ T細胞および抗体圧のシグネチャーを示す。",
+    "abstract_ja": "慢性C型肝炎ウイルス（HCV）感染への進展には、HCV特異的CD4+ T細胞ヘルパーの喪失、CD8+ T細胞および中和抗体による認識を逃れるウイルス変異株の出現、ならびに残存するエピトープを標的とするCD8+ T細胞の枯渇が伴う。一度慢性感染が成立すると、通常は治療なしに生涯にわたって持続する。しかし、一部の慢性感染女性において、産後の驚くべきウイルス量の減少が、機能的HCV特異的CD4+ヘルパーT細胞の再活性化に関連していることが明らかになった。少数の女性では、産後に長年の慢性感染が自然消失することさえある。産後にウイルス制御が達成された女性において、T細胞ヘルパーの回復がHCV特異的CD8+ T細胞または抗体応答を増強させるかどうかを検証するため、産後に有意なウイルス量減少を示した9名の女性（産後3か月時点で1 log10以上、「コントローラー」）と、より安定したレベルを示した12名の女性（「ノンコントローラー」）を対象に、HCVゲノムのシリアル近全長ディープシーケンシングを行い、ウイルスMHCクラスIエピトープおよび抗体エピトープの進化を評価した。産後早期の変異とは関連していなかったものの、産後12～24か月時点では、ウイルス制御は、CD8+ T細胞および中和抗体の標的になると予測されるエピトープにおけるアミノ酸変異と強く関連していた。また、コントローラーの血漿では、複数のHCV株に対する中和能が産後に上昇していることが示された。以上の知見を総合すると、産後のウイルス制御はCD8+ T細胞および抗体圧によって媒介されるという仮説が支持される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aee3876",
+    "title": "PhagoID: Quantitative in situ proximity labeling defines the proteomes of bead- and microbe-containing phagosome lumina across species, maturation, and immune activation.",
+    "abstract": "The phagosome is an immune organelle that integrates signals from diverse cargos to drive pathogen killing, tissue homeostasis, and antigen presentation. How this compartment coordinates such diverse functions remains incompletely understood. A comprehensive view of phagosomal composition across cell states and perturbations could accelerate insight into its regulation. Here, we establish PhagoID, a modular proximity labeling approach that enables in situ proteomic profiling of the phagosome lumen in living cells. Applying PhagoID to murine and human macrophages, we define conserved and species-specific phagosomal proteomes that include both canonical lysosomal components and unexpected contributors from nuclear, mitochondrial, and endoplasmic reticulum (ER) compartments. Integrating these proteomes with 25 genome-scale CRISPR screens of phagosomal phenotypes, we identify a network of lumenal proteins that regulate cargo uptake, acidification, antigen presentation, and microbial control highlighting previously unrecognized phagosomal effectors. We next adapt PhagoID to profile the microbe-containing phagosome and compare the sterile bead-containing phagosome to the Escherichia coli-containing phagosome, demonstrating a modest E. coli signature of phagosome remodeling. Comparative analyses further reveal that loss of LAMP1 enhances recruitment of ER-derived proteins to the phagosome, whereas loss of TFEB minimally perturbs the lumenal proteome despite its role in lysosomal biogenesis. Last, cytokine stimulation remodels the phagosome lumen to enrich for proteins involved in antigen presentation and antimicrobial activity in response to type I and II interferons. These data demonstrate that PhagoID delivers a high-confidence, quantitative, and integrative map of the phagosome lumen, revealing previously unidentified axes of organellar communication and regulatory control in innate immunity.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aee3876",
+    "date": "2026-10-23",
+    "authors": "Allsup BL, Gharpure S, Gunnarsson C, Stagg ML, Bryson BD.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42912989",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13693653",
+    "pmid": "42912989",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "microbe",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1259,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1126/sciadv.aee3876"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0c904766b2900b31cf98dd8524f99e2ab9b043888fff8eeb2ecd4a5aa268a967",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:45:04.919081+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e34f6ecc63830dd033537f41ebd00deb10d7cd4f52d7d53d5cc2cf3af5b359fe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:45:04.919081+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PhagoID：定量的in situ近接標識法により、種、成熟段階、および免疫活性化にわたるビーズおよび微生物含有ファゴソーム管腔のプロテオームを定義する。",
+    "abstract_ja": "ファゴソームは、多様な積荷からのシグナルを統合し、病原体の殺傷、組織の恒常性維持、および抗原提示を駆動する免疫オルガネラである。この区画がいかにしてこのような多様な機能を協調させているかについては、未だ十分に解明されていない。細胞状態や摂動に応じたファゴソーム組成の包括的な知見が得られれば、その調節に関する理解が加速すると考えられる。本研究では、生細胞内のファゴソーム内腔のin situプロテオームプロファイリングを可能にするモジュール式近接標識法であるPhagoIDを確立した。マウスおよびヒトマクロファージにPhagoIDを適用し、典型的なリソソーム構成成分と、核、ミトコンドリア、および小胞体（ER）区画由来の予期せぬ寄与因子の両方を含む、保存的かつ種特異的なファゴソームプロテオームを定義した。これらのプロテオームを、ファゴソーム表現型に関する25種類のゲノムスケールCRISPRスクリーニングと統合することで、積荷の取り込み、酸性化、抗原提示、および微生物制御を調節する内腔タンパク質ネットワークを同定し、これまで認識されていなかったファゴソームエフェクターを明らかにした。次に、PhagoIDを微生物含有ファゴソームのプロファイリングに適応させ、無菌ビーズ含有ファゴソームと大腸菌（Escherichia coli）含有ファゴソームを比較することで、ファゴソームリモデリングにおける大腸菌特有のわずかなシグネチャーを実証した。比較解析により、LAMP1の欠損がER由来タンパク質のファゴソームへの動員を促進する一方で、TFEBの欠損は、リソソーム生合成における役割にもかかわらず、内腔プロテオームにほとんど影響を及ぼさないことがさらに明らかになった。最後に、サイトカイン刺激によりファゴソーム内腔がリモデリングされ、I型およびII型インターフェロンに応答して抗原提示および抗菌活性に関与するタンパク質が濃縮された。これらのデータは、PhagoIDがファゴソーム内腔の高信頼度かつ定量的で統合的なマップを提供し、自然免疫におけるオルガネラ間のコミュニケーションと調節制御の、これまで未同定であった軸を明らかにすることを示している。"
   }
 ]
