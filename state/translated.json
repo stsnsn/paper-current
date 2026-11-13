@@ -194627,5 +194627,327 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Porphyromonas gingivalis</i> TonB2は、プロテアーゼの成熟および細胞表面リモデリングに必要である。",
     "abstract_ja": "TonB依存性輸送系は、グラム陰性菌における栄養獲得に不可欠である。主要な歯周病原菌であるPorphyromonas gingivalisは、複数のTonB依存性受容体（TBDT）をコードしているものの、そのTonBエネルギー変換因子の実体と機能については十分に解明されていない。本研究では、PG0633（TonB1）、PG0785（TonB2）、およびPG2185（TonB3）によってコードされる3種類の推定TonBタンパク質を同定し、TonB2欠損株を作製してその生物学的役割を検討した。バイオインフォマティクス解析により、TonB2は、Cytophaga-Flavobacterium-Bacteroides（CFB）群のメンバー間で保存された独自の構造的特徴を有する一方で、Helicobacter pyloriおよびEscherichia coli由来の十分に特性解析されたTonBタンパク質と相同なC末端ドメインを保持していることが明らかになった。タンパク質配列の類似性とゲノム構成の双方が、Bacteroidota門のメンバー間でのTonB2の保存性をさらに裏付けている。TonB2の欠損は、遺伝子調節、翻訳、酸化・ニトロ化ストレスからの保護、および糖鎖付加に関与するタンパク質の存在量増加を含む広範なプロテオームリモデリングを引き起こし、それに伴い多糖類の輸出、排出系、およびリポタンパク質生合成に関連するタンパク質のレベルが低下した。表現型解析により、TonB2欠損変異株は細胞表面におけるヘム蓄積能が低下し、ジンジパイン活性が減弱し、莢膜産生が減少することが示された。さらに、この変異株は野生型よりも効率的に宿主細胞に接着・侵入したものの、細胞内での生存能は著しく損なわれていた。総じて、これらの知見は、細胞表面生合成、病原性関連機能、および宿主・病原体間相互作用におけるTonB2の予期せぬ役割を明らかにするものであり、TonB系の汎用性に関する理解を広げるとともに、TonBおよびTolエネルギー変換系間の機能的なクロストークを示唆している。重要性TonB系はグラム陰性菌における主要なエネルギー変換複合体であるが、古典的な栄養獲得以外の機能については、特にBacteroidota門において十分に解明されていない。本研究では、Porphyromonas gingivalisのTonB2が、典型的なTonB依存性輸送とは異なる役割を担っていることを示す。TonB2は主に鉄の取り込みを支えるのではなく、ジンジパインの成熟、莢膜産生、細胞表面の構成、および宿主細胞との相互作用に寄与している。これらの多様な表現型は、細胞包膜の生合成と完全性の協調におけるより広範な役割を示唆している。我々は、TonB2がエネルギー変換と包膜維持を連動させるように適応したことを提唱し、病原性と細胞恒常性を支えるTonBタンパク質の予期せぬ機能的多様化を明らかにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "brief-report",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1931180",
+    "title": "Tropical peatland microbiomes as a One Health nexus: linking soil, plant, and climate health across land-use transitions.",
+    "abstract": "The One Health framework recognizes the intrinsic connections among environmental, plant, animal and human health. While soils and soil microbes have received substantial attention in the recent years, tropical peatlands still remain largely overlooked despite representing globally important reservoirs of carbon, biodiversity, freshwater. Microorganisms are central regulators of peat accumulation, nutrient cycling, greenhouse gas exchange and ecosystem resilience, yet their role as mediators of One Health outcomes has received limited attention. Emerging evidence from tropical peatlands demonstrates that land-use change, drainage, fire and agricultural conversion substantially alter microbial community composition and function, with cascading effects on ecosystem processes. In this Perspective, peatland microbiomes are proposed as critical but neglected One Health nexus linking soil health, vegetation dynamics, wildlife habitat quality, climate regulation and human wellbeing. Considering, oil palm plantations that produce the most consumed vegetable oil in the world, cover substantial portion of tropical peatlands, tropical peat also plays a crucial role in food security and safety. The perspective argues that microbial communities should move from being considered ecological indicators to becoming policy-relevant components of peatland governance. Furthermore, incorporation of microbiome informed indicators into restoration, carbon accounting and ecosystem health frameworks is proposed as a necessity. By integrating microbial ecology with One Health principles, tropical peatlands can serve as an impactful model system for understanding how belowground biodiversity underpins ecosystem services and planetary health.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1931180",
+    "date": "2026-10-27",
+    "authors": "Dhandapani S.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43011049",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13748212",
+    "pmid": "43011049",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1381,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1931180"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2e4336e55fefa5aa233ff062da1e9fb0fad9223919d01ac7743844af171ad5ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:11:15.527603+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c53bfe89ee639b61855c4551889a3737746af04915c0acf025c876dbeeedbc21",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:11:15.527603+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ワンヘルスの結節点としての熱帯泥炭地微生物叢：土地利用転換における土壌・植物・気候の健全性の連関",
+    "abstract_ja": "ワンヘルス（One Health）の枠組みは、環境、植物、動物、および人間の健康の間に内在する相互関連性を認識するものである。近年、土壌および土壌微生物に大きな注目が集まっているが、熱帯泥炭地は炭素、生物多様性、淡水の世界的に重要な貯蔵庫であるにもかかわらず、依然として大部分が見過ごされている。微生物は、泥炭の蓄積、栄養循環、温室効果ガス交換、および生態系のレジリエンスにおける中心的な調節因子であるが、ワンヘルスの成果を媒介する役割については、これまで十分な注目が払われてこなかった。熱帯泥炭地から得られた新たな知見は、土地利用の変化、排水、火災、および農地転換が微生物群集の組成と機能を著しく変化させ、それが生態系プロセスに連鎖的な影響を及ぼすことを示している。本パースペクティブでは、泥炭地マイクロバイオームを、土壌の健全性、植生動態、野生生物の生息地の質、気候調節、および人間のウェルビーイングを結びつける、極めて重要でありながら軽視されてきたワンヘルスのネクサス（連関）として提案する。世界で最も多くの食用油を生産するアブラヤシ農園が熱帯泥炭地の相当部分を占めていることを踏まえると、熱帯泥炭は食料安全保障と安全性においても極めて重要な役割を果たしている。本パースペクティブでは、微生物群集を単なる生態学的指標から、泥炭地ガバナンスにおける政策的に重要な構成要素へと位置づけるべきであると論じる。さらに、微生物叢に基づいた指標を復元、カーボンアカウンティング、および生態系健全性の枠組みに組み込むことが不可欠であると提案する。微生物生態学をワンヘルスの原則と統合することで、熱帯泥炭地は、地下の生物多様性がいかにして生態系サービスと地球の健全性を支えているかを理解するための、影響力のあるモデルシステムとなり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.00671-26",
+    "title": "APOBEC3 antagonism fully explains HIV-1 Vif essentiality in THP-1 cells under interferon and differentiation conditions.",
+    "abstract": "HIV-1 virion infectivity factor (Vif) counteracts APOBEC3 (A3) proteins by targeting them for proteasomal degradation, thereby preventing lethal G-to-A mutations and loss of infectivity. However, Vif also degrades additional cellular proteins, raising the possibility that its essential role in infectious virion production may extend beyond A3 antagonism, particularly under inflammatory or differentiation conditions. Whether such conditions reveal additional essential Vif targets remains unresolved. Here, using interferon (IFN)-stimulated or phorbol 12-myristate 13-acetate (PMA)-differentiated THP-1 monocytic cells, we directly addressed this question. Although type I IFN and PMA markedly suppressed viral production through Vif-independent mechanisms, ΔVif viruses produced from stimulated parental cells exhibited severely reduced infectivity. In contrast, disruption of A3A-A3G fully restored ΔVif infectivity to wild-type levels under all conditions tested. G-to-A mutations were attributable exclusively to A3 proteins under both IFN and PMA stimulation, whereas IFN-induced, A3-independent blocks to reverse transcription were not antagonized by Vif. Moreover, Vif-mediated degradation of the non-A3 targets PPP2R5 family proteins did not measurably contribute to virion infectivity under these conditions. Across diverse HIV-1 strains, the requirement for Vif in this experimental system was strictly dependent on A3 family proteins. These findings indicate that, under the conditions examined here, the essential role of Vif is fully explained by antagonism of A3-mediated restriction. Our results further suggest that counteracting A3-mediated restriction and mutagenesis represents a major evolutionary pressure shaping Vif.IMPORTANCEA3 proteins are potent intrinsic antiviral factors that restrict HIV-1 by inducing lethal mutations and impairing reverse transcription. The viral protein Vif counteracts A3-mediated restriction, yet it also targets additional host proteins, raising questions about whether its essential role extends beyond A3 antagonism under inflammatory conditions. Myeloid cells mount interferon (IFN) responses and undergo transcriptional reprogramming upon differentiation, environments in which additional Vif functions could emerge. Using an A3A-A3G-null monocytic cell model, we show that even under IFN stimulation or phorbol 12-myristate 13-acetate (PMA)-induced differentiation, the requirement for Vif in maintaining HIV-1 infectivity is due to A3 proteins. In contrast, Vif does not counteract IFN-induced, A3-independent restriction pathways, highlighting functional specificity. These findings establish the A3-Vif axis as the central determinant of Vif dependency and suggest that counteracting A3-mediated restriction and mutagenesis represents a major evolutionary pressure shaping Vif. Targeting Vif may therefore expose HIV-1 to intrinsic inactivation, even in inflammatory environments.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.00671-26",
+    "date": "2026-11-10",
+    "authors": "Shimizu R, Jonathan M, Terasawa H, Saito A, Monde K, Ikeda T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006867",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006867",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1579,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/jvi.00671-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "06b39006b5b21d5f7382ff933eb2d2532d5f4909edf998be05d9f371a03591e7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:11:15.527603+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "71199cfa5e9fc6dff5796f5a5a64539eeff9960d773af01d9c1dff1b0ee1a03b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:11:15.527603+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "APOBEC3拮抗作用は、インターフェロンおよび分化条件下におけるTHP-1細胞のHIV-1 Vif必須性を完全に説明する。",
+    "abstract_ja": "HIV-1ビリオン感染性因子（Vif）は、APOBEC3（A3）タンパク質をプロテアソーム分解の標的とすることでこれらに拮抗し、致死的なG-to-A変異および感染性の喪失を防ぐ。しかし、Vifはさらに追加の細胞タンパク質も分解するため、特に炎症性条件下や分化条件下において、感染性ビリオン産生におけるその必須的な役割がA3拮抗作用にとどまらない可能性が考えられる。このような条件下で、Vifの追加的な必須標的が明らかになるかどうかは未解明である。本研究では、インターフェロン（IFN）刺激またはホルボール12-ミリステート13-アセテート（PMA）分化させたTHP-1単球細胞を用いて、この問いに直接的に取り組んだ。I型IFNおよびPMAはVif非依存的な機序によってウイルス産生を著しく抑制したが、刺激された親細胞から産生されたΔVifウイルスは感染性が著しく低下した。対照的に、A3A-A3Gの破壊は、試験したすべての条件下でΔVifの感染性を野生型レベルまで完全に回復させた。G-to-A変異は、IFNおよびPMA刺激のいずれにおいてもA3タンパク質のみに起因していたが、IFN誘導性のA3非依存的な逆転写阻害はVifによって拮抗されなかった。さらに、非A3標的であるPPP2R5ファミリータンパク質のVif介在性分解は、これらの条件下ではビリオンの感染性に測定可能な寄与を示さなかった。多様なHIV-1株において、本実験系におけるVifの必要性はA3ファミリータンパク質に厳密に依存していた。これらの知見は、ここで検討した条件下において、Vifの必須的な役割がA3介在性制限の拮抗作用によって完全に説明されることを示している。我々の結果はさらに、A3介在性制限および変異誘発への拮抗が、Vifを形作る主要な進化的圧力であることを示唆している。重要性A3タンパク質は、致死的な変異を誘導し逆転写を阻害することでHIV-1を制限する強力な内在性抗ウイルス因子である。ウイルスタンパク質VifはA3介在性制限に拮抗するが、同時に追加の宿主タンパク質も標的としており、炎症条件下においてその必須的な役割がA3拮抗作用にとどまらないのではないかという疑問が生じる。骨髄系細胞はインターフェロン（IFN）応答を示し、分化に伴い転写リプログラミングを受けるが、これらの環境下ではVifの追加的な機能が出現し得る。A3A-A3Gヌル単球細胞モデルを用いて、IFN刺激またはホルボール12-ミリステート13-アセテート（PMA）誘導分化下においても、HIV-1の感染性維持におけるVifの必要性はA3タンパク質に起因することを示した。対照的に、VifはIFN誘導性のA3非依存性制限経路に拮抗せず、機能的特異性が浮き彫りとなった。これらの知見は、A3-Vif軸をVif依存性の中心的な決定因子として確立するものであり、A3介在性制限および変異誘発への拮抗が、Vifを形作る主要な進化的圧力であることを示唆している。したがって、Vifを標的とすることで、炎症環境下であってもHIV-1を内在性不活化にさらすことができる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1099/mic.0.001795",
+    "title": "Utilizing collateral effects of antibiotic resistance to sustain antibiotic efficacy and addressing current barriers to translation.",
+    "abstract": "Antimicrobial resistance (AMR) results from acquiring mutations or genes that allow microbes to withstand antimicrobials. These genetic modifications can also cause non-selected changes in other cell phenotypes, such as fitness and susceptibility to antibiotic classes different from the one under selection. These collateral effects of AMR acquisition could be exploited to improve treatments. This is increasingly important in light of AMR as a major global health problem, associated with 4.71 million deaths worldwide in 2021, with 1.14 million deaths directly attributable to AMR. Additionally, the lack of development of novel antimicrobials active against resistant infections continues to compound the crisis. Even if new antimicrobials are developed, resistance will most likely emerge through adaptive evolution. Therefore, it is imperative to explore strategies to maintain the efficacy of new and existing antibiotics and limit the acquisition of AMR to continue to treat infections successfully. Understanding the impact of resistance acquisition on the bacterial phenotype, including collateral effects, has the potential to improve therapeutic outcomes. In this perspective, we will summarize the collateral effects of resistance acquisition, including fitness costs, collateral susceptibility networks, mutant selection windows and the probability of establishment of bacterial populations, and explore how these may be exploited to enhance the effectiveness of existing antibiotics. We will also discuss how challenges such as genetic background, polymicrobial infections and the environment are current barriers to the translation of these principles into the clinic.",
+    "journal": "Microbiology",
+    "doi": "10.1099/mic.0.001795",
+    "date": "2026-11-01",
+    "authors": "Kashif S, James BA, Domingo-Sananes MR, Hubbard ATM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43007702",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13750825",
+    "pmid": "43007702",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1823,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1099/mic.0.001795"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7a669a2527aada3f99e746ba62e3a57a00ac1cd4d326363076a2bb94a0819bb8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:11:15.527603+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "95ea3b70ed216279c470c7cb5cee0b4ec7ba1beb2d3d9bc767915538f8e96042",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:11:15.527603+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗生物質耐性の副次的効果を活用して抗生物質の有効性を維持し、トランスレーショナルリサーチにおける現状の障壁に対処する。",
+    "abstract_ja": "薬剤耐性（AMR）は、微生物が抗菌薬に耐えることを可能にする変異や遺伝子の獲得によってもたらされる。こうした遺伝的改変は、適応度や、選択対象とは異なる系統の抗菌薬に対する感受性など、他の細胞表現型に非選択的な変化を引き起こすこともある。AMR獲得によるこうした副次的効果は、治療法の改善に活用できる可能性がある。AMRが世界的な主要な保健問題となっており、2021年には世界で471万人が死亡し、そのうち114万人がAMRに直接起因する死亡であったことを踏まえると、その重要性はますます高まっている。さらに、耐性感染症に有効な新規抗菌薬の開発が進んでいないことが、この危機をさらに深刻化させている。たとえ新規抗菌薬が開発されたとしても、耐性は適応進化を通じて出現する可能性が高い。したがって、感染症治療を成功させ続けるためには、新規および既存の抗菌薬の有効性を維持し、AMRの獲得を制限するための戦略を模索することが不可欠である。副次的効果を含む、耐性獲得が細菌表現型に及ぼす影響を理解することは、治療成績を向上させる可能性を秘めている。本展望では、適応度コスト、副次的感受性ネットワーク、変異体選択ウィンドウ、および細菌集団の定着確率を含む耐性獲得の副次的効果について概説し、これらを既存の抗菌薬の有効性を高めるためにどのように活用できるかを検討する。また、遺伝的背景、多菌種感染症、および環境といった課題が、これらの原理を臨床へと橋渡しする上での現在の障壁となっている点についても論じる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00898-26",
+    "title": "Draft genome sequence of <i>Bacillus licheniformis</i> strain TCCC11148 isolated from unused sanitary pad.",
+    "abstract": "Bacillus licheniformis is an environmentally widespread, spore-forming bacterium with industrial and ecological importance. Here, we report the draft genome sequence of a B. licheniformis isolate recovered from an unused sanitary pad in Ogbomoso, Nigeria. The assembled genome comprises 4.1 Mb in 12 contigs with a GC content of 46%.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00898-26",
+    "date": "2026-11-09",
+    "authors": "Oladipo EK, Elutade OA, Oluwasanya GJ, Onyeaka H, Olatunde SK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001785",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001785",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1613,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/mra.00898-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5bc718cfc22c01dd80015661af9302f9cb4a447a999f64e090747caf6f8f535c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:11:15.527603+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "478ee0d96c6a2211934dddb9862cfc30683c68fb13c1c20f3e4a3bbfef18e646",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:11:15.527603+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "未使用の生理用ナプキンから分離された<i>Bacillus licheniformis</i>株TCCC11148のドラフトゲノム配列",
+    "abstract_ja": "Bacillus licheniformisは、環境中に広範に分布し、産業的および生態学的に重要な胞子形成細菌である。本報では、ナイジェリアのオグボモソで未使用の生理用ナプキンから回収されたB. licheniformis分離株のドラフトゲノム配列を報告する。アセンブルされたゲノムは、12個のコンティグからなる4.1 Mbで、GC含量は46%である。"
   }
 ]
