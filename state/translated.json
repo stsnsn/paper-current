@@ -171897,5 +171897,296 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "印王山の土壌から分離された<i>Nocardioides candidus</i> sp. nov. および <i>Sphingomonas crocea</i> sp. nov.",
     "abstract_ja": "大韓民国ソウル市の仁王山の土壌から、MH1TおよびIW22Tと命名された2つの新規菌株が分離された。MH1T株およびIW22T株のほぼ完全な16S rRNA遺伝子配列は、それぞれ1,521塩基および1,485塩基であった。MH1T株は、Nocardioides pelophilus THG-T63T（98.22%）、Nocardioides stalactiti 1.0914T（98.20%）、およびNocardioides humilatus BN130099T（98.02%）と最も高い配列類似性を示した。IW22T株は、Sphingomonas spermidinifaciens 9 NM-10T（97.94%）、Sphingomonas baiyangensis L-1-4 w-11T（97.94%）、およびSphingomonas yantingensis 1007T（97.58%）と最も高い類似性を示した。81個の保存コア遺伝子および平均アミノ酸同一性に基づく系統ゲノム解析により、これら2つの菌株はそれぞれNocardioides属およびSphingomonas属に分類されることが支持された。新規菌株とその近縁株との間の平均ヌクレオチド同一性およびデジタルDNA-DNAハイブリダイゼーション値は、種の境界判定閾値を下回っていた。比較ゲノム解析により、テルペン、ポリケチド、およびペプチド関連クラスターを含む明確な生合成遺伝子クラスターの存在が明らかとなり、土壌環境への生態学的適応の可能性が示唆された。MH1T株およびIW22T株のDNA G+C含有量は、それぞれ71.5および64.5 mol%であった。MH1T株の主要脂肪酸はiso-C16 : 0およびC18 : 1  ω9cであったのに対し、IW22T株のものはC16 : 0、C18 : 1  ω7c、およびsummed feature 3（C16 : 1  ω6cおよび/またはC16 : 1  ω7c）であった。多相的な分類学的根拠に基づき、MH1T株およびIW22T株はそれぞれNocardioides属およびSphingomonas属の新種であり、Nocardioides candidus sp. nov. および Sphingomonas crocea sp. nov. という名称が提案される。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1956861",
+    "title": "Increasing prevalence of a mupirocin- and fusidic acid-resistant MSSA CC121-t1994 clone in pediatric skin and soft tissue infections: 8-year longitudinal study at an Spanish Hospital",
+    "abstract": "IntroductionSkin and soft tissue infections (SSTI) in pediatric patients have increased in recent years, and mupirocin and fusidic acid are important therapeutic options.Materials and methodsAll 217 Staphylococcus aureus isolates recovered from pediatric SSTIs in a Spanish hospital during January 2018-october 2025 were characterized (one isolate/patient). The phenotypes and genotypes of antimicrobial resistance, virulence genes and genetic lineages were analyzed along three time periods (2018–2021, 2022–2023 and 2024–2025).ResultsMost of 217 isolates were methicillin-susceptible (MSSA, 91.2%), and these MSSA belonged to 14 clonal-complexes (CC), being CC121 (54.5%) the most prevalent followed by CC30 (11.6%) and CC45 (7.1%). Ten spa-types were found among MSSA-CC121 isolates, being t1994 predominant (75.0%), followed by t1077 and t272. Seventeen of the 19 MRSA isolates identified belonged to the lineages CC8, CC30, and CC5. Most of MSSA-CC121 isolates carried eta and/or etb (98/108, 90.7%), and this prevalence was even higher among CC121-t1994 isolates (93.8%). The tst gene was mainly detected among MSSA-CC30/CC22. The prevalence of MSSA-CC121 isolates increased during the 8-year study (21.6%/2018–2021, 50.6%/2022–2023, 65.2%/2024–2025), associated with an enrichment of spa-t1994 (9.8%/2018–2021, 59.6%/2024–2025), and a decrease in CC30 prevalence. High frequencies of mupirocin-resistant (MUPR, mostly mediated by mupA) and fusidic-acid-resistant (FAR, mostly mediated by fusB) were observed among S. aureus (43.8 and 30.9%, respectively), and resistance to both (MUPR-FAR) was found in 29.5% of isolates, most of them MSSA-CC121 (95.3%). A significant increase in the rate of MUPR-FAR isolates was observed along the years, both among S. aureus (5.9%/2018–2021, 28.6%/2022–2023 and 43.8%/2024–2025) and CC121 isolates (27.3%/2018–2021, 53.8%/2022–2023 and 63.8%/2024–2025) (p < 0.05). The prevalence of impetigo cases among the pediatric SSTIs increased along the years (2018–2021: 37.3%; 2022–2023: 68.8%; 2024–2025: 80.9%); in addition, a significant increase was observed in the prevalence of MSSA-CC121 and MSSA-CC121-MUPR-FAR in impetigo cases along the years (p < 0.05).Conclusiona MUPR-FAR MSSA-CC121-t1994 clone, harboring mupA, fusB and exfoliatin genes, was increasingly detected among pediatric SSTIs in this hospital-based study, especially in impetigo cases, what deserves careful monitoring for its control.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1956861",
+    "date": "2026-11-10",
+    "authors": "Carmen Torres",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1956861",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2071,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3389/fmicb.2026.1956861"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4e94841b7ffcf8d474be0a20f0570d73fd3c679070de4e1a06e075f2f91dc7a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:56:21.839719+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1c5c84475b069d7347baeaa4f5e6a31a40b5c08fec90d98587be750e95ab928e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:56:21.839719+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "小児の皮膚・軟部組織感染症におけるムピロシンおよびフシジン酸耐性MSSA CC121-t1994クローンの有病率の上昇：スペインの病院における8年間の縦断的研究",
+    "abstract_ja": "はじめに小児患者における皮膚・軟部組織感染症（SSTI）は近年増加しており、ムピロシンおよびフシジン酸が重要な治療選択肢となっている。材料および方法2018年1月から2025年10月までにスペインの病院で回収された小児SSTI由来の黄色ブドウ球菌（Staphylococcus aureus）分離株217株すべてについて特性解析を行った（患者1名につき1株）。薬剤耐性、病原性遺伝子、および遺伝的系統の表現型および遺伝子型を、3つの期間（2018–2021年、2022–2023年、2024–2025年）にわたって解析した。結果217株の大部分がメチシリン感受性（MSSA, 91.2%）であり、これらのMSSAは14のクローン複合体（CC）に属していた。最も頻度が高かったのはCC121（54.5%）で、次いでCC30（11.6%）、CC45（7.1%）であった。MSSA-CC121分離株からは10種類のスパタイプが認められ、t1994（75.0%）が最多で、次いでt1077およびt272であった。同定された19株のMRSA分離株のうち17株は、CC8、CC30、およびCC5の系統に属していた。MSSA-CC121分離株の大部分はetaおよび/またはetbを保有しており（98/108, 90.7%）、この保有率はCC121-t1994分離株でさらに高かった（93.8%）。tst遺伝子は主にMSSA-CC30/CC22で検出された。MSSA-CC121分離株の保有率は8年間の研究期間を通じて増加し（2018–2021年：21.6%、2022–2023年：50.6%、2024–2025年：65.2%）、これはspa-t1994の増加（2018–2021年：9.8%、2024–2025年：59.6%）およびCC30の保有率の低下に関連していた。黄色ブドウ球菌においては、ムピロシン耐性（MUPR、主にmupAによる）およびフシジン酸耐性（FAR、主にfusBによる）が高い頻度で認められ（それぞれ43.8%および30.9%）、両者に対する耐性（MUPR-FAR）は分離株の29.5%に認められ、その大部分はMSSA-CC121（95.3%）であった。MUPR-FAR分離株の割合は年を追うごとに有意に増加し、黄色ブドウ球菌（2018–2021年：5.9%、2022–2023年：28.6%、2024–2025年：43.8%）およびCC121分離株（2018–2021年：27.3%、2022–2023年：53.8%、2024–2025年：63.8%）の両方で認められた（p < 0.05）。小児SSTIにおける伝染性膿痂疹症例の保有率は年を追うごとに増加し（2018–2021年：37.3%、2022–2023年：68.8%、2024–2025年：80.9%）、さらに、伝染性膿痂疹症例におけるMSSA-CC121およびMSSA-CC121-MUPR-FARの保有率も年を追うごとに有意に増加した（p < 0.05）。結論mupA、fusB、およびエクスフォリチン遺伝子を保有するMUPR-FAR MSSA-CC121-t1994クローンが、本病院ベースの研究において小児SSTI、特に伝染性膿痂疹症例でますます検出されるようになり、その制御に向けた慎重なモニタリングが必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "im",
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007349",
+    "title": "Pasteurella vulneris sp. nov., mainly obtained from large cats.",
+    "abstract": "Twenty-four strains mainly from lions, tigers and human wounds inflicted by these animals and strains from birds, elephants and a bite wound in a calf were investigated. As a consequence, the new species Pasteurella vulneris is proposed based on the phenotypic and genotypic similarity of strains, as well as differences to the other species of the genus. Monophyly was confirmed by partial 16S rRNA and rpoB gene sequence comparisons. The intra-species identity of P. vulneris 16S rRNA gene sequences was 99-100%, and the identity to strains of Pasteurella multocida was 99% or less. The identity to taxon 46-like of Bisgaard was 96-98%, to taxon 46 of Bisgaard 97-98%, and identities to Pasteurella stomatis, Pasteurella dagmatis, Pasteurella canis and Pasteurella oralis were within the range of 95-97%. The whole genomic sequences of ten strains obtained in a previously published study and analysed by the type strain genome server showed the highest digital DNA-DNA hybridization of 31% to the genome of the type strain of P. multocida and 59-93% between strains of P. vulneris. Average nucleotide identity was 95-98% between members of the new species with 87% to the type strain of P. multocida. Colonies of P. vulneris on bovine blood agar were regular, smooth, convex, opaque, greyish, non-haemolytic and circular after 24 h of incubation at 37 °C. Mucoid colonies are observed for some strains. Analysis of isolates by MALDI-TOF MS clustered them close together and separated them from other Pasteurella species, allowing discrimination and making this the method of choice for identification. The G+C content of the type strain HIM 1004-6 T isolated from a chipmunk (=Schmid351T=CCUG 77952T=DSM 118578T) is 40.78 mol%, calculated from the whole genome.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007349",
+    "date": "2026-11-01",
+    "authors": "Christensen H, Larsen J, Kuhnert P, Angen Ø, Henton MM, Buys A, Foggin C, Bisgaard M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43013341",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43013341",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4063,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1099/ijsem.0.007349"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a210ce41a1354780f63b3b75c6f9b714374801e94c133120aa81456dc888f2bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:56:21.839719+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "708b90fae9b5747ff92583b61a650122c43ec0760076d4ca316644fccc8b65ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:56:21.839719+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "主に大型ネコ科動物から得られたPasteurella vulneris sp. nov.",
+    "abstract_ja": "主にライオン、トラ、およびこれらの動物によるヒトの創傷由来の24株に加え、鳥類、ゾウ、および仔牛の咬傷由来の株について検討した。その結果、株間の表現型および遺伝子型の類似性、ならびに本属の他種との相違に基づき、新種 Pasteurella vulneris を提案する。部分的な16S rRNAおよびrpoB遺伝子配列の比較により、単系統性が確認された。P. vulnerisの16S rRNA遺伝子配列の種内同一性は99～100%であり、Pasteurella multocidaの株との同一性は99%以下であった。Bisgaardのtaxon 46-likeとの同一性は96～98%、Bisgaardのtaxon 46との同一性は97～98%であり、Pasteurella stomatis、Pasteurella dagmatis、Pasteurella canis、およびPasteurella oralisとの同一性は95～97%の範囲内であった。既報の研究で得られた10株の全ゲノム配列をタイプ株ゲノムサーバーで解析したところ、P. multocidaのタイプ株のゲノムに対して31%、P. vulnerisの株間では59～93%という最高のデジタルDNA-DNAハイブリダイゼーション率が示された。新種のメンバー間の平均塩基同一性は95～98%であり、P. multocidaのタイプ株に対しては87%であった。ウシ血寒天培地上のP. vulnerisコロニーは、37°Cで24時間培養後、規則的で平滑、凸状、不透明、灰色を帯び、非溶血性かつ円形であった。一部の株では粘液状コロニーが観察された。分離株をMALDI-TOF MSで解析したところ、互いに近接してクラスターを形成し、他のPasteurella属の種から分離されたため、識別が可能となり、本手法が同定の最適法となった。シマリス（=Schmid351T=CCUG 77952T=DSM 118578T）から分離されたタイプ株HIM 1004-6 TのG+C含有量は、全ゲノムから算出して40.78 mol%であった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.117956",
+    "title": "ELAVL1 overexpression potentiates cervical cancer malignancy via regulating the ACVRL1/CASP14 pathway.",
+    "abstract": "Cervical cancer is the fourth common gynecological malignancy. To explore new therapeutic targets, we found that the transcriptional and translational levels of ELAVL1 were markedly increased in SiHa and HeLa cells as well as cervical cancer specimens. Knockdown of ELAVL1 substantially suppressed the proliferation, invasion, and migration of cervical cancer cells, while inducing apoptosis. Conversely, overexpression of ELAVL1 resulted in a substantial increase in the proliferative, invasive, and migratory capacities of SiHa cells. Bioinformatics predictions, RIP-qPCR and dual-luciferase reporter assays indicated that ELAVL1 might interact with the 3'UTR of ACVRL1, and upregulate ACVRL1 and CASP14 expression. Co-transfection experiments and functional assays revealed that ELAVL1 might modulate malignant phenotypes of cervical cancer cells via the ACVRL1/CASP14 pathway. Furthermore, in vivo si-ELAVL1 administration significantly inhibited tumor growth in nude mouse xenograft models. ELAVL1 may promote cervical cancer progression, potentially through regulating the ACVRL1/CASP14 pathway, rendering ELAVL1 a potential candidate for therapeutic intervention.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117956",
+    "date": "2026-10-20",
+    "authors": "Liu J, Wang J, Gao Y, Cui X, Wang W, Ma H, Jiao Y, Xu J, Hao J, Xu Z, Li L, Hao M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42936392",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13697326",
+    "pmid": "42936392",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4012,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1016/j.isci.2026.117956"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7f066322ffef883ffab76842f0a6a92aade2c21bba60d54f085051c9ea9cbc18",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:56:21.839719+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e981c821f061479f4265107cbe21ad7dfce20d090166381a0e91b154a80c5fd1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:56:21.839719+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ELAVL1の過剰発現は、ACVRL1/CASP14経路を調節することで子宮頸癌の悪性度を亢進させる。",
+    "abstract_ja": "子宮頸癌は、婦人科領域で4番目に頻度の高い悪性腫瘍である。新たな治療標的を探索するため、我々はSiHa細胞、HeLa細胞、および子宮頸癌検体において、ELAVL1の転写および翻訳レベルが著しく上昇していることを見出した。ELAVL1のノックダウンは、子宮頸癌細胞の増殖、浸潤、および遊走を著しく抑制する一方で、アポトーシスを誘導した。対照的に、ELAVL1の過剰発現は、SiHa細胞の増殖能、浸潤能、および遊走能を著しく亢進させた。バイオインフォマティクスによる予測、RIP-qPCRおよびデュアルルシフェラーゼレポーターアッセイにより、ELAVL1がACVRL1の3'UTRと相互作用し、ACVRL1およびCASP14の発現を亢進させる可能性が示された。共トランスフェクション実験および機能アッセイにより、ELAVL1がACVRL1/CASP14経路を介して子宮頸癌細胞の悪性形質を調節している可能性が明らかになった。さらに、in vivoでのsi-ELAVL1投与は、ヌードマウスゼノグラフトモデルにおいて腫瘍増殖を有意に抑制した。ELAVL1は、ACVRL1/CASP14経路を調節することで子宮頸癌の進行を促進する可能性があり、治療介入の有望な候補となり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "discussion",
+      "journal article"
+    ],
+    "id": "10.1128/mbio.03340-25",
+    "title": "mGem: Innate immune sensing of HIV-1 transcription in myeloid cells-a tale of two transcription start sites.",
+    "abstract": "Suppressive antiretroviral therapy (ART) in people with HIV (PWH) arrests progression to AIDS and onward viral transmission. However, viral transcription from integrated HIV-1 proviruses persists on treatment and is linked to markers of chronic immune activation, contributing to the accelerated development of comorbidities in PWH. Of particular interest are persistent responses in long-lived tissue-resident myeloid cells, which direct tissue-level inflammatory processes through cytokine secretion and interactions with other immune cell populations. Here, we review recent findings on viral nucleic acid sensing events in HIV-infected myeloid cells to shed light on possible mechanisms of persistent inflammation resulting from chronic HIV-1 transcription in myeloid cells in PWH.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.03340-25",
+    "date": "2026-10-20",
+    "authors": "Hughes IK, Gummuluru S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42899715",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13753826",
+    "pmid": "42899715",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4047,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/mbio.03340-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6f43dda8f86ad810f5e70870769879f4f10dd9a802ae182323ae0e65bc1777d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:56:21.839719+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0ef8e3b6e1519bd0adc9e7044113cf19b79a7bd39a0fae1c6959d00f477af3e7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T00:56:21.839719+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "mGem: 骨髄系細胞におけるHIV-1転写の自然免疫センシング――2つの転写開始部位の物語",
+    "abstract_ja": "HIV感染者（PWH）における抑制的抗レトロウイルス療法（ART）は、AIDSへの進行およびその後のウイルス伝播を阻止する。しかし、組み込み型HIV-1プロウイルスからのウイルス転写は治療後も持続し、慢性的な免疫活性化のマーカーと関連しており、PWHにおける併存疾患の加速的な発症に寄与している。特に注目すべきは、長寿命の組織常在性骨髄系細胞における持続的な応答であり、これらの細胞はサイトカイン分泌や他の免疫細胞集団との相互作用を通じて、組織レベルの炎症プロセスを誘導する。本稿では、HIV感染骨髄系細胞におけるウイルス核酸感知事象に関する最新の知見を概説し、PWHの骨髄系細胞における慢性的なHIV-1転写に起因する持続的炎症の考えられる機序を明らかにする。"
   }
 ]
