@@ -184020,5 +184020,298 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "水中接着剤としてのバイオフィルム由来ペプチド。",
     "abstract_ja": "水中で機能する湿潤接着剤は、産業および生物医学分野において幅広く応用されている。これまで、水中接着剤の分子設計は、主にムール貝やフジツボなどの海洋生物から着想を得てきた。本研究では、水中接着剤の代替的な着想源として、細菌バイオフィルムを提案する。具体的には、悪名高い病原体であるコレラ菌（Vibrio cholerae）が形成するバイオフィルム由来のペプチドの応用可能性を実証する。共焦点顕微鏡法、分子動力学シミュレーション、原子間力顕微鏡、ラップせん断試験、および分光分析手法を組み合わせて、このバイオフィルム由来ペプチドの各種表面への吸着能および湿潤表面への接着能を特性評価する。さらに、このペプチドが有効な凝集剤として機能する微小球と共凝集し得ることを示す。本研究の結果は、天然のバイオフィルムに着想を得た水中接着剤の新たな設計可能性を切り拓くものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1116",
+    "title": "ThermoMutDB 2.0: semiautomated literature curation and structural enrichment of thermostability data for protein mutations",
+    "abstract": "AbstractExperimental measurements of protein thermodynamic stability are essential for understanding the relationship between protein structure and function, the molecular consequences of mutations, and their potential implications for protein malfunction and disease. However, extracting these data from the literature remains constrained by labor-intensive manual curation. Here, we present ThermoMutDB 2.0, a scalable framework for semiautomated literature curation and systematic structural enrichment. It introduces a major architectural redesign that integrates a large language model with rule-based entity recognition to identify and prioritize publications reporting experimentally measured effects of protein mutations on thermostability, while retaining expert validation as the final curation step. Complementing this literature-processing workflow, ThermoMutDB 2.0 systematically enriches curated mutations with mutant structural models, enabling interactive three-dimensional contextualization of experimentally derived thermodynamic data. Applied to the literature retrieved from January 1976 to the most recent search update in 2026, the pipeline screened 5,934 candidate publications and prioritized 254 for expert review, resulting in the incorporation of 102 articles and 1763 new entries. Rather than representing a simple expansion of database content, ThermoMutDB 2.0 establishes an extensible human-in-the-loop architecture in which automated literature triage, expert curation, and structural modeling operate as an integrated workflow. This redesign provides a sustainable foundation for continuous database maintenance and for linking experimental protein stability measurements with their structural context (available at http://thermomutdb.pathotrack.health/).",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1116",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1116/9026632?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2052,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1116"
+    ],
+    "translation": {
+      "title": {
+        "hash": "26107a799f6248dcb3051ffd6690811fc905ea106c218aacce4176299323b92e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:24:02.062532+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fd5f2cdb747fe72930f181f9f1819fa1cc157c8285acbb9635b406ac474f90cb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:24:02.062532+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ThermoMutDB 2.0: タンパク質変異の熱安定性データの半自動文献キュレーションおよび構造拡充",
+    "abstract_ja": "要旨タンパク質の熱力学的安定性に関する実験的測定は、タンパク質の構造と機能の関係、変異による分子レベルの影響、およびタンパク質の機能不全や疾患への潜在的な影響を理解する上で不可欠である。しかし、文献からこれらのデータを抽出する作業は、依然として多大な労力を要する手作業によるキュレーションという制約を受けている。本研究では、半自動化された文献キュレーションと体系的な構造エンリッチメントのためのスケーラブルなフレームワークであるThermoMutDB 2.0を提案する。本フレームワークでは、大規模言語モデルとルールベースのエンティティ認識を統合した大幅なアーキテクチャ設計の刷新を行い、タンパク質変異が熱安定性に及ぼす実験的測定効果を報告する論文を特定・優先順位付けする一方で、最終キュレーションステップとして専門家による検証を維持する。この文献処理ワークフローを補完するものとして、ThermoMutDB 2.0はキュレーションされた変異に変異体の構造モデルを体系的に付加し、実験的に導出された熱力学データのインタラクティブな3次元的コンテキスト化を可能にする。1976年1月から2026年の最新の検索更新までに取得された文献に適用したところ、本パイプラインは5,934件の候補論文をスクリーニングし、そのうち254件を専門家レビューの優先対象として選定した結果、102本の論文と1,763件の新規エントリが組み込まれた。ThermoMutDB 2.0は、単なるデータベース内容の拡張ではなく、自動的な文献トリアージ、専門家によるキュレーション、および構造モデリングが統合されたワークフローとして機能する、拡張可能なヒューマン・イン・ザ・ループ・アーキテクチャを構築する。この再設計は、継続的なデータベースメンテナンス、および実験的なタンパク質安定性測定とその構造的コンテキストとの紐付けのための持続可能な基盤を提供する（http://thermomutdb.pathotrack.health/ で利用可能）。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0359950",
+    "title": "In vivo Nupr1 regulates oxidative stress-endoplasmic reticulum stress crosstalk and mitochondria-dependent apoptosis in varicocele-related testicular injury.",
+    "abstract": "Varicocele (VCL) is a major cause of male infertility and is closely associated with oxidative stress (OS)-induced testicular injury. Increasing evidence suggests that endoplasmic reticulum stress (ERS) interacts with OS and mitochondrial dysfunction in the pathogenesis of spermatogenic impairment, but the molecular regulators linking these processes remain incompletely understood. In this study, we investigated the role of Nupr1 in VCL-related testicular stress responses. Re-analysis of transcriptomic data from VCL rat testes identified Nupr1 as a candidate gene associated with OS, ERS, and apoptosis. Nupr1 expression was significantly increased in VCL testes and was similarly upregulated in GC-2 and TM4 cells under H2O2-induced OS or tunicamycin-induced ERS. Stable knockdown of Nupr1 in GC-2 cells reduced viability under oxidative challenge, increased intracellular ROS accumulation, decreased mitochondrial membrane potential, and enhanced apoptosis, accompanied by increased cleaved caspase-3 expression and an elevated Bax/Bcl-2 ratio. Notably, Nupr1 deficiency attenuated the adaptive ERS response, as shown by reduced expression of GRP78, IRE1/p-IRE1, PERK/p-PERK, and ATF6. Pharmacological induction of ERS with tunicamycin further worsened cell injury in Nupr1-deficient cells, whereas 4-PBA failed to restore cell viability or GRP78 expression. Collectively, these findings indicate that Nupr1 is involved in the cellular stress response relevant to VCL and may help maintain adaptive UPR signaling and mitochondrial homeostasis in spermatogenic cells under oxidative stress.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0359950",
+    "date": "2026-11-04",
+    "authors": "Jiang X, Tang L, Ma Z, Wu X, Zhang Z, Nian W, Li T, Liao Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981290",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734504",
+    "pmid": "42981290",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2965,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0359950"
+    ],
+    "translation": {
+      "title": {
+        "hash": "34781510989bb2320d82569603381e2cd6a90bd7744afec55fe83396f7170330",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:24:02.062532+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "51382aca9a766f1ea26ed3674f41025a2836c53d3d257bea962965f03a4b8f0f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:24:02.062532+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生体内において、Nupr1は精索静脈瘤関連精巣損傷における酸化ストレスと小胞体ストレスのクロストーク、およびミトコンドリア依存性アポトーシスを調節する。",
+    "abstract_ja": "精索静脈瘤（VCL）は男性不妊の主要な原因であり、酸化ストレス（OS）誘発性の精巣損傷と密接に関連している。精子形成障害の病態形成において、小胞体ストレス（ERS）がOSおよびミトコンドリア機能不全と相互作用することを示唆する証拠が増えているが、これらのプロセスを結びつける分子調節因子については十分に解明されていない。本研究では、VCL関連の精巣ストレス応答におけるNupr1の役割を検討した。VCLラット精巣のトランスクリプトームデータを再解析した結果、Nupr1がOS、ERS、およびアポトーシスに関連する候補遺伝子として同定された。Nupr1の発現はVCL精巣で有意に増加しており、H2O2誘発性OSまたはツニカマイシン誘発性ERS下では、GC-2およびTM4細胞でも同様に発現が亢進していた。GC-2細胞においてNupr1を安定的にノックダウンすると、酸化ストレス負荷下での生存率が低下し、細胞内ROS蓄積が増加し、ミトコンドリア膜電位が低下し、アポトーシスが亢進した。これに伴い、切断型カスパーゼ-3の発現増加とBax/Bcl-2比の上昇が認められた。特筆すべきことに、Nupr1欠損はGRP78、IRE1/p-IRE1、PERK/p-PERK、およびATF6の発現低下に示されるように、適応的なERS応答を減弱させた。ツニカマイシンによる薬理学的ERS誘導は、Nupr1欠損細胞における細胞損傷をさらに悪化させたが、4-PBAでは細胞生存率やGRP78の発現を回復させることはできなかった。総じて、これらの知見は、Nupr1がVCLに関連する細胞ストレス応答に関与しており、酸化ストレス下における精子形成細胞の適応的なUPRシグナル伝達およびミトコンドリア恒常性の維持に寄与している可能性を示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2620770123",
+    "title": "A symbiogenic merger enabled by oxygen initiated the evolution of eukaryotes.",
+    "abstract": "Recently, extensive genetic information about archaeal hosts at the basis of eukaryogenesis has come to light. Characterization of these first eukaryotic common ancestor (FECA) related organisms allows improved understanding of the enigmatic FECA to last eukaryotic common ancestor (LECA) transition. However, these gene-centered discoveries have the unfortunate side effect of entrenching erroneous ideas about early eukaryotic evolution. This is apparent in the two-Domain vision of life, with eukaryotes seen as specialized Asgard archaea, while underestimating the contribution of the endosymbiont to eukaryogenesis. Establishment of the alpha-proteobacterium as the future mitochondrion is treated as one of many such endosymbiotic occurrences, ignoring its unique evolutionary position. I will marshal evidence for symbiogenic mechanisms involved in the FECA to LECA transition, with a key role for the endosymbiont's electron transport chain and its acceptor molecular oxygen, especially in the incarnation of reactive oxygen species occurring in the host cytoplasm. We should overcome overestimating gene determinism, while not sufficiently allowing for effects of biological hierarchies, emergent properties, and chance. Many eukaryotic properties are best understood by envisaging the crucial uptake of the future mitochondrion as a merger instead of an acquisition. This merger is characterized by a new kind of elaborate cellular entity emerging as a result of rapid coevolution, replacing a scenario in which already complex pre-eukaryotes acquired endosymbionts, accompanied by important, but limited, changes. Successful mergers are rare because they are intrinsically more difficult, but synergistically open up completely new areas of possibilities, as illustrated by incredible eukaryotic success.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2620770123",
+    "date": "2026-10-29",
+    "authors": "Speijer D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956035",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956035",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2430,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2620770123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "38f1b01d9d9fb581711152b281bcc2871998ea81158a8df2e6d269e0b65fe7ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:24:02.062532+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3bbc54b0ee730165429eda8ae6af5f455af07eec11566bd3e3bb1b77f5b88406",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:24:02.062532+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "酸素によって促進された共生的融合が、真核生物の進化をもたらした。",
+    "abstract_ja": "近年、真核生物の起源の基盤となった古細菌宿主に関する広範な遺伝情報が明らかになってきた。これら最初の真核生物共通祖先（FECA）関連生物の特性解析により、謎に包まれたFECAから最後の真核生物共通祖先（LECA）への移行に対する理解が深まっている。しかし、こうした遺伝子中心の発見は、初期真核生物の進化に関する誤った概念を定着させるという、不幸な副作用をもたらしている。これは、真核生物を特化したアスガルド古細菌と見なす「二ドメイン生命観」に顕著に表れており、真核生物の起源における内共生体の寄与を過小評価している。アルファプロテオバクテリアを将来のミトコンドリアとして位置づけることは、こうした内共生現象の一つとして扱われ、その独自の進化的位置付けが無視されている。私は、FECAからLECAへの移行に関与した共生生成メカニズムの証拠を集約し、特に宿主細胞質で起こる活性酸素種の生成において、内共生体の電子伝達系とその受容体である分子状酸素が重要な役割を果たすことを示す。我々は、遺伝子決定論を過大評価する傾向を克服しつつ、生物学的階層、創発的特性、および偶然の影響を十分に考慮すべきである。多くの真核生物の特性は、将来のミトコンドリアの決定的な取り込みを、獲得ではなく融合として捉えることで最もよく理解できる。この融合は、急速な共進化の結果として出現する新たな種類の精巧な細胞実体によって特徴づけられ、すでに複雑な前真核生物が、重要ながらも限定的な変化を伴って内共生体を獲得したというシナリオに取って代わるものである。成功した融合は、本質的に困難であるため稀であるが、驚異的な真核生物の成功が示すように、相乗的に全く新しい可能性の領域を切り拓くのである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aei7819",
+    "title": "Massively parallel self-assembly of suspendable microcompartments for functional cell screening.",
+    "abstract": "Modern biology increasingly demands platforms that can compartmentalize and analyze single cells and cell-cell interactions at massive scale, yet existing compartmentalization strategies based on microfluidics suffer from critical limitations. Emerging lab-on-a-particle technologies such as nanovials enable anchored single cells or small groups of cells to be isolated and assayed in a fully suspendable and parallelized manner using standard instrumentation, although their open architectures can result in loss of growing or un-attached cells. Here, we introduce capped nanovials: self-assembling hydrogel compartments formed by docking spherical capping particles into bowl-shaped nanovials. We routinely achieve capping of >80% of all nanovials in a sample and >90% sorting yield by flow cytometry, making the capped nanovial system well-suited for preparing and running large-scale assays. Furthermore, we demonstrate stable clonal expansion of single mammalian, yeast, and bacterial cells; growth-based selections of >10,000 colonies; enhanced signal-to-noise in secretion assays; and high-purity selection of antibody-secreting cells based on activation of co-encapsulated T cell reporters (>30-fold signal, up to 100% selection purity). By combining the simplicity of a well plate with the functional precision of droplet microfluidics without requiring oil or custom instrumentation, capped nanovials realize accessible, high-throughput, and high-resolution experimentation.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei7819",
+    "date": "2026-11-04",
+    "authors": "Mellody M, Nakagawa Y, Arnheim A, Shang L, Soo C, Tsubamoto N, Taylor S, Ghosh R, Ho M, Guenther AM, Shastry S, Luk W, Morales I, Liang J, de Rutte J, James RG, Di Carlo D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981392",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13733826",
+    "pmid": "42981392",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1468,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1126/sciadv.aei7819"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ab72e371ebd087e70d5bec20c781bf1c2efb03d336df2f6b78752fe289e422a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:24:02.062532+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b3f960c9994de2c191ec4a8e6267d5225469f705c581667c0627649bdfe0a605",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:24:02.062532+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "機能的細胞スクリーニングのための懸濁型マイクロコンパートメントの大規模並列自己組織化",
+    "abstract_ja": "現代の生物学では、単一細胞および細胞間相互作用を大規模に区画化・解析できるプラットフォームへの需要が高まっているが、マイクロ流体工学に基づく既存の区画化戦略には重大な限界がある。ナノバイアルなどの新興のラボ・オン・ア・パーティクル技術は、アンカー化された単一細胞や少数の細胞群を、標準的な機器を用いて完全に懸濁・並列化した状態で単離・アッセイすることを可能にするが、その開放型構造により、増殖中または未固定の細胞が失われる可能性がある。本報では、ボウル状のナノバイアルに球状のキャッピング粒子をドッキングさせて形成される自己組織化ハイドロゲル区画である「キャッピング・ナノバイアル」を提案する。我々は、フローサイトメトリーにより、サンプル中の全ナノバイアルの80%超のキャッピングと90%超のソーティング収率を日常的に達成しており、このキャッピング・ナノバイアルシステムは大規模なアッセイの調製および実施に極めて適している。さらに、単一の哺乳類、酵母、および細菌細胞の安定したクローン増殖、10,000個を超えるコロニーの増殖ベースの選別、分泌アッセイにおけるシグナル対ノイズ比の向上、および共封止されたT細胞レポーターの活性化に基づく抗体分泌細胞の高純度選別（30倍以上のシグナル、最大100%の選別純度）を実証する。ウェルプレートの簡便さと、オイルや専用機器を必要としないドロップレットマイクロ流体工学の機能的精度を組み合わせることで、キャッピング・ナノバイアルは、簡便でハイスループットかつ高解像度な実験を実現する。"
   }
 ]
