@@ -176359,5 +176359,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヒトDNA複製におけるDNAポリメラーゼηのストランドおよび複製タイミング依存的機能。",
     "abstract_ja": "効率的なDNA複製には、複製酵素とエラーを起こしやすいポリメラーゼの協調的な利用が必要であり、これにより突然変異誘発を代償として柔軟性が確保される。DNAポリメラーゼη（Pol η）は、トランスレジョン合成（TLS）を介してUV誘発性損傷に耐えるが、より広範にDNA合成に寄与している可能性がある。ポリメラーゼ利用シーケンシング（Pu-seq）を用いて、ヒト細胞における非撹乱複製時のPol η活性をゲノム全域にわたってマッピングした。Pol ηは、出芽酵母と同様に、ラギング鎖の複製に優先的に関与する。この偏りには直接的なPCNAとの相互作用が必要であり、複製フォークにおけるPCNA結合型中間体の確率的な関与が示唆される。また、Pol ηの利用はS期を通じて変動し、後期複製ドメインにおいてPCNAユビキチン化依存的な濃縮が認められる。がんゲノムでは、特徴的なPol η変異が後期複製領域に濃縮されており、RAD18発現と相関していることから、PCNAユビキチン化がPol η介在性の突然変異誘発に関連していることが示唆される。したがって、Pol ηの利用は非撹乱複製時の鎖および複製タイミングによって偏り、ヒトゲノムにおける変異負荷に寄与している可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02941-25",
+    "title": "Antibacterial mechanism of hypocrellin against <i>Ralstonia solanacearum</i> in tobacco and its modulation of the endophytic microbiome.",
+    "abstract": "The photosensitive compound hypocrellin, derived from the traditional Chinese medicinal fungus Shiraia bambusicola Henn., shows potential as a novel pesticide. To evaluate its efficacy against bacterial wilt disease caused by Ralstonia solanacearum in tobacco, this study examined its antibacterial mechanisms through in vitro experiments and analyzed their impact on tobacco endophytic microbiota. An optimized hypocrellin offering a promising sustainable formulation-with a 2:3 ratio of hypocrellin A to hypocrellin B-was developed for enhanced antibacterial activity, and its interaction with bacterial DNA, intracellular components, and membrane integrity was systematically investigated. Hypocrellins exhibited strong antibacterial effects by disrupting the cell wall and membrane integrity of R. solanacearum, increasing membrane permeability, and inducing the leakage of intracellular K+, soluble proteins, and reducing sugars. Dual DNA-binding mechanisms were suggested: electrostatic adsorption to phosphate groups, followed by groove insertion, and intercalation between base pairs. In tobacco plants, hypocrellin treatment significantly altered the endophytic microbial community, increasing microbial richness and diversity, increasing the proportion of Bacillota and Pseudomonadota, and significantly reducing pathogen abundance. Predictive functional analysis based on PICRUSt2 suggested that hypocrellin may have influenced metabolic pathways associated with microbial basal metabolic activity and proliferation potential. Hypocrellins mitigate R. solanacearum infection through multi-target mechanisms: physical disruption of bacterial membranes and DNA, restoration of beneficial endophytic microbiota, and activation of metabolic pathways critical for plant defense.IMPORTANCEThis study highlights the multi-target antibacterial mechanisms and microbiome-modulating effects of hypocrellin, offering a promising candidate for a sustainable strategy for controlling soil-borne diseases. Unlike conventional chemical pesticides, hypocrellin acts through physical disruption of bacterial membranes and DNA interaction, while simultaneously restoring beneficial endophytic microbiota and activating metabolic pathways critical for plant defense in tobacco. Its ability to suppress Ralstonia solanacearum and enhance microbial ecological balance positions hypocrellin as both an effective antibacterial agent and a microbiome regulator. These findings provide a scientific basis for developing hypocrellin-based bio-pesticides and support further research into its application in eco-friendly agricultural practices.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02941-25",
+    "date": "2026-10-22",
+    "authors": "Du W, Sun C, Wang J, Liu J, Wang Y, Huang W, Liu G, Li J, Wang R, Su Z, Zhao W, Wang C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42911032",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42911032",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 545,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.02941-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ca493472c2bba80459f0d8ef2975c7ef9d12d89f21fda0d8bda821d7ac9ca26f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:43:06.298370+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a8b259e5ae49400427c3da95cd1f601dba02677d775a77875ff520ad9e48af5e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:43:06.298370+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タバコにおける<i>Ralstonia solanacearum</i>に対するヒポクレリンの抗菌機構と内生微生物叢の調節",
+    "abstract_ja": "中国の伝統薬用菌であるShiraia bambusicola Henn.由来の光感受性化合物ヒポクレリンは、新規農薬としての可能性を示している。タバコにおけるRalstonia solanacearumによる細菌性萎凋病に対する有効性を評価するため、本研究ではin vitro実験を通じてその抗菌メカニズムを検討し、タバコの内生微生物叢への影響を解析した。抗菌活性を高めるため、ヒポクレリンAとヒポクレリンBの比率を2:3とした、有望な持続可能製剤として最適化されたヒポクレリンを開発し、細菌DNA、細胞内成分、および細胞膜の完全性との相互作用を系統的に調査した。ヒポクレリンは、R. solanacearumの細胞壁および細胞膜の完全性を破壊し、細胞膜透過性を亢進させ、細胞内K+、可溶性タンパク質、および還元糖の漏出を誘導することで、強力な抗菌効果を示した。リン酸基への静電吸着に続く溝への挿入、および塩基対間のインターカレーションという、二重のDNA結合メカニズムが示唆された。タバコ植物において、ヒポクレリン処理は内生微生物群集を有意に変化させ、微生物の豊富さと多様性を増加させ、Bacillota属およびPseudomonadota属の割合を増加させ、病原菌の存在量を有意に減少させた。PICRUSt2に基づく予測機能解析により、ヒポクレリンが微生物の基礎代謝活性および増殖能に関連する代謝経路に影響を及ぼした可能性が示唆された。ヒポクレリンは、細菌の細胞膜およびDNAの物理的破壊、有益な内生微生物叢の回復、および植物防御に不可欠な代謝経路の活性化という多標的メカニズムを通じて、R. solanacearumの感染を軽減する。意義本研究は、ヒポクレリンの多標的抗菌メカニズムとマイクロバイオーム調節効果を浮き彫りにし、土壌伝染性病害制御のための持続可能な戦略における有望な候補を提示するものである。従来の化学農薬とは異なり、ヒポクレリンは細菌の細胞膜の物理的破壊とDNA相互作用を通じて作用すると同時に、有益な内生微生物叢を回復させ、タバコの植物防御に不可欠な代謝経路を活性化する。Ralstonia solanacearumを抑制し、微生物の生態学的バランスを向上させる能力により、ヒポクレリンは効果的な抗菌剤であると同時にマイクロバイオーム調節剤としても位置づけられる。これらの知見は、ヒポクレリンベースのバイオ農薬開発のための科学的根拠を提供し、環境に配慮した農業実践への応用に関するさらなる研究を後押しするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1038/s41586-026-11147-6",
+    "title": "A single-molecule spin-photon interface.",
+    "abstract": "Optical interfaces that connect long-lived spin qubits to photons are a central requirement for quantum networking and distributed quantum information processing. At present, solid-state atomic defects are leading candidates because of their inherent spin and optical coherence1,2. Building on these advancements, synthetically tailored molecular systems represent a fundamental change in the field, using precise atomic control and consistent bottom-up assembly3,4. However, a molecular platform that concurrently satisfies the demands of a robust spin-photon interface-namely, the combination of bright fluorescence, high spectral stability and long ground-state spin lifetimes-has yet to be realized at the single-molecule level. Here we show that a triplet ground-state carbene molecule, embedded within a structurally matched host crystal, functions as a robust spin-photon interface with single-molecule addressability. The system exhibits narrow ZPLs, spectral stability over more than an hour, spin-selective optical transitions and single-molecule optically detected magnetic resonance. Coherent control yields millisecond-scale dynamical-decoupling coherence and tens-of-milliseconds spin relaxation at a temperature of 4.5 K. These results establish molecular qubits as a viable platform for single-emitter quantum optics5,6 while preserving the advantages of bottom-up chemical design7 and processable materials8-10.",
+    "journal": "Nature",
+    "doi": "10.1038/s41586-026-11147-6",
+    "date": "2026-10-28",
+    "authors": "Roggors S, Unden T, Aubele A, Mentzel P, Bayer G, Salhov A, Scharpf J, Plenio MB, Retzker A, Jelezko F, Eichhorn TR, Schaub TA, Pfender M, Neumann P, Schwartz I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951951",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13716814",
+    "pmid": "42951951",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3440,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1038/s41586-026-11147-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8d41f8710e36fa3ad125bfc40db4fa2ea8c52cc8688e5727c5add800ec347bf0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:43:06.298370+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "39c2627f61ff1458997c9faa6e6d5e3580ea78cc131e68cd394d4b9516dd61c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:43:06.298370+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単分子スピン・光子界面。",
+    "abstract_ja": "長寿命のスピン量子ビットを光子に接続する光学インターフェースは、量子ネットワークおよび分散型量子情報処理における中核的な要件である。現在、固体原子欠陥は、その固有のスピンおよび光学コヒーレンス1,2により、有力な候補となっている。こうした進展を踏まえ、精密な原子制御と一貫したボトムアップアセンブリ3,4を用いた合成的に調整された分子系は、本分野における根本的な変革をもたらしている。しかしながら、堅牢なスピン-光子インターフェース、すなわち明るい蛍光、高いスペクトル安定性、および長い基底状態スピン寿命の組み合わせという要求を同時に満たす分子プラットフォームは、単一分子レベルではまだ実現されていない。本研究では、構造的に整合したホスト結晶内に埋め込まれた三重項基底状態カルベン分子が、単一分子アドレス可能性を備えた堅牢なスピン-光子インターフェースとして機能することを示す。本系は、狭いZPL、1時間以上にわたるスペクトル安定性、スピン選択的な光学遷移、および単一分子で光学的に検出可能な磁気共鳴を示す。コヒーレント制御により、4.5 Kの温度でミリ秒スケールの動的デカップリングコヒーレンスと数十ミリ秒のスピン緩和が得られる。これらの結果は、ボトムアップ化学設計7およびプロセス可能な材料8-10の利点を維持しつつ、分子量子ビットを単一発光体量子光学5,6のための実用的なプラットフォームとして確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1038/s41467-026-78463-3",
+    "title": "Ocean acidification, reduced silicate availability and declines in Ocean productivity.",
+    "abstract": "Understanding rising atmospheric CO2 effects on the chemistry of the world's ecosystems remains nascent. CO2 dissolved in water forms carbonic acid, thereby lowering pH (ocean acidification [OA]). Diatoms, which generate 40% of ocean primary productivity, depend on dissolved silicon to construct their silica frustules; lower pH reduces silica (SiO2) solubility in seawater. Recent experiments document enhanced silica sedimentation under elevated CO2, implying reduced Si recycling and availability to support diatom production at the ecosystem scale. We tested this hypothesis using long-term data from a productive Pacific coastline undergoing rapid pH decline. Over two decades, as pH declined, dissolved Si:N and water column chlorophyll concurrently declined strongly. Accounting for variation in potential Si transport vectors did not change these relationships. Our results support the OA Si loss hypothesis and indicate that this process is already ongoing in some productive ocean regions, with implications for the carbon cycle, coastal food webs, and human well-being.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-78463-3",
+    "date": "2026-10-22",
+    "authors": "Wootton JT, Tanda MO, Bogan EM, Gaskins LC, Wootton AM, Pfister CA.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42918793",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13691082",
+    "pmid": "42918793",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatom",
+        "Diatoms",
+        "diatom"
+      ],
+      "context": {
+        "marine": [
+          "ocean",
+          "seawater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1280,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41467-026-78463-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f4e6cac45239980a2c849ca03d3795d20cdd9512784c98a5fd666bafd3b799ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:43:06.298370+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "143e0d44d2460f406d067c0657d020a20c65d424685fb3f06722b78f83223f16",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:43:06.298370+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋酸性化、ケイ酸塩の利用可能性の低下、および海洋生産性の低下。",
+    "abstract_ja": "大気中のCO2濃度上昇が世界の生態系の化学組成に及ぼす影響の解明は、まだ初期段階にある。水中に溶解したCO2は炭酸を生成し、それによってpHを低下させる（海洋酸性化［OA］）。海洋の一次生産性の40%を担う珪藻は、珪酸質の殻を形成するために溶解ケイ素に依存しており、pHの低下は海水中のケイ素（SiO2）の溶解度を低下させる。近年の実験では、CO2濃度上昇下で珪酸質の沈降が促進されることが報告されており、これは生態系スケールでの珪藻生産を支えるためのSiの循環と利用可能性が低下していることを示唆している。我々は、急速なpH低下が進んでいる生産性の高い太平洋沿岸域の長期データを用いて、この仮説を検証した。20年間にわたるpHの低下に伴い、溶解Si:Nおよび水柱中のクロロフィルが同時に著しく減少した。潜在的なSi輸送ベクトルの変動を考慮しても、これらの関係に変化は見られなかった。我々の結果は、OAによるSi喪失仮説を支持するものであり、このプロセスが一部の生産性の高い海洋域ですでに進行していることを示しており、炭素循環、沿岸域の食物網、および人間のウェルビーイングに影響を及ぼすものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41592-026-03296-3",
+    "title": "In situ profiling of plasma cell clonality with image-based single-cell transcriptomics.",
+    "abstract": "Image-based single-cell transcriptomics can identify diverse cell types in intact tissues. However, in adaptive immunity, V(D)J recombination generates unique immune receptors in cells of the same type, leading to important functional variation that is not yet defined by these methods. Here we introduce B cell receptor multiplexed error-robust fluorescence in situ hybridization (BCR-MERFISH), which measures plasma cell clonality based on V gene usage in combination with transcriptome profiling. We demonstrate that BCR-MERFISH accurately identifies V gene usage in cell culture and in mice with restricted or native plasma cell diversity. We then use BCR-MERFISH to elucidate the microbiota-dependent changes in plasma cell abundance, clonal diversity, and public clonotype usage in the mouse gut and the non-uniform distribution of plasma cell clones along the mouse ileum. Given that tissue context is an essential modulator of plasma cell dynamics, we anticipate that BCR-MERFISH may offer new insights into a wide range of immunological questions.",
+    "journal": "Nature Methods",
+    "doi": "10.1038/s41592-026-03296-3",
+    "date": "2026-11-10",
+    "authors": "Yang E, Aceves-Salvador J, Castrillon C, Herrmann US, Akama-Garren EH, Carroll MC, Moffitt JR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43009623",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43009623",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2909,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1038/s41592-026-03296-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "554daa69d4a04144226c9b92c634a5ecfbce64cd21748ebdd55c10791d3aa2ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:43:06.298370+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "41112f39d3a4afb47a743510a40244319d03a949d738cde9f159ae94b9edd723",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:43:06.298370+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "画像ベースのシングルセルトランスクリプトミクスによる形質細胞クローナリティのin situプロファイリング",
+    "abstract_ja": "画像ベースのシングルセルトランスクリプトミクスは、無傷の組織において多様な細胞種を同定できる。しかし、獲得免疫においては、V(D)J組換えが同一細胞種の細胞内に固有の免疫受容体を生成し、これらの手法ではまだ定義されていない重要な機能的変異をもたらす。本研究では、トランスクリプトームプロファイリングと組み合わせてV遺伝子の使用状況に基づき形質細胞のクローナリティを測定する、B細胞受容体マルチプレックスエラーロバスト蛍光in situハイブリダイゼーション（BCR-MERFISH）を提案する。我々は、BCR-MERFISHが、細胞培養および形質細胞の多様性が制限された、あるいは本来の状態にあるマウスにおいて、V遺伝子の使用状況を正確に同定することを実証する。次に、BCR-MERFISHを用いて、マウス腸管における形質細胞の存在量、クローナル多様性、およびパブリック・クローノタイプの使用状況の微生物叢依存的な変化と、マウス回腸に沿った形質細胞クローンの不均一な分布を明らかにする。組織コンテキストが形質細胞動態の不可欠な調節因子であることを踏まえ、BCR-MERFISHが広範な免疫学的課題に対して新たな知見をもたらすと期待している。"
   }
 ]
