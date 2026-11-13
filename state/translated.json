@@ -194949,5 +194949,302 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "未使用の生理用ナプキンから分離された<i>Bacillus licheniformis</i>株TCCC11148のドラフトゲノム配列",
     "abstract_ja": "Bacillus licheniformisは、環境中に広範に分布し、産業的および生態学的に重要な胞子形成細菌である。本報では、ナイジェリアのオグボモソで未使用の生理用ナプキンから回収されたB. licheniformis分離株のドラフトゲノム配列を報告する。アセンブルされたゲノムは、12個のコンティグからなる4.1 Mbで、GC含量は46%である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1966638",
+    "title": "Fermentative valorization of edible algae: nutritional potential, food applications, safety considerations, and industrial challenges.",
+    "abstract": "Edible algae, including microalgae and macroalgae, are recognized as sustainable aquatic bioresources for future food systems, with high areal productivity, low reliance on arable land and freshwater, and rich nutrients including proteins, polyunsaturated fatty acids, pigments, minerals, vitamins and functional polysaccharides. Yet their wider application in mainstream foods is limited by low digestibility, rigid cell walls, marine off-flavors, variable safety and high processing costs. This review examines the nutritional potential, food applications, fermentation strategies, safety considerations and industrial bottlenecks of edible algae, focusing on fermentation-mediated valorization as an enabling strategy beyond conventional preservation. Lactic acid, alcoholic and mixed-culture fermentation can boost shelf stability, release intracellular nutrients, modulate sensory attributes, generate bioactive metabolites, and support circular use of residual algal biomass. Meanwhile, advanced technologies like enzyme-assisted extraction, non-thermal extraction, microfluidics and nanoencapsulation help enhance ingredient functionality and bioactive delivery. The review also notes that the future value of algae-based foods relies on matrix-specific formulation, standardized safety control for heavy metals and iodine, strain improvement, biorefinery integration and consumer-oriented sensory design. Overall, fermentative and precision-processing strategies offer a promising route to transform algae from niche supplements into safe, palatable, multifunctional ingredients for sustainable food innovation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1966638",
+    "date": "2026-10-26",
+    "authors": "Ma D, Xia C, Jia A, Zhang G, Zhao Y, Ren H, Liu X, Li F, Li L, Jia R, Li K.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005664",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13746162",
+    "pmid": "43005664",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microalgae"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "freshwater",
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2083,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1966638"
+    ],
+    "translation": {
+      "title": {
+        "hash": "282d7201d1e17bc5b1d37d152a0adbaa9f08a4fa1a0ddbbc2b584bc9858d1edd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:13:50.362636+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e3a7644c45ea0c28b392bd349360b88a77476a852b4a57ec2c71e2b9f61499bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:13:50.362636+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食用藻類の発酵による価値化：栄養学的ポテンシャル、食品への応用、安全性上の留意点、および産業上の課題。",
+    "abstract_ja": "微細藻類および大型藻類を含む食用藻類は、高い面積生産性、耕作地や淡水への依存度の低さ、そしてタンパク質、多価不飽和脂肪酸、色素、ミネラル、ビタミン、機能性多糖類などの豊富な栄養素を備えており、将来の食料システムにおける持続可能な水生生物資源として認識されている。しかし、主流の食品へのより広範な応用は、消化率の低さ、硬い細胞壁、海洋由来の異味、安全性のばらつき、および高い加工コストによって制限されている。本総説では、従来の保存法を超えた実現戦略としての発酵介在型価値化に焦点を当て、食用藻類の栄養学的ポテンシャル、食品への応用、発酵戦略、安全性上の考慮事項、および産業上のボトルネックについて検討する。乳酸発酵、アルコール発酵、および混合培養発酵は、保存安定性の向上、細胞内栄養素の放出、官能特性の調節、生物活性代謝物の生成、および残存藻類バイオマスの循環利用の促進に寄与し得る。一方、酵素補助抽出、非熱抽出、マイクロ流体工学、ナノカプセル化などの先進技術は、原料の機能性向上と生物活性物質の送達を支援する。また、本総説では、藻類由来食品の将来的な価値は、マトリックス固有の配合、重金属およびヨウ素の標準化された安全管理、菌株の改良、バイオリファイナリーとの統合、および消費者志向の官能設計に依存すると指摘している。総じて、発酵および精密加工戦略は、藻類をニッチなサプリメントから、持続可能な食料イノベーションのための安全で嗜好性が高く多機能な原料へと転換させる有望な道筋を提示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02130-26",
+    "title": "A dual endogenous selectable marker system for <i>Aspergillus flavus</i> and its application in characterizing <i>nsdD</i> function in development and aflatoxin biosynthesis.",
+    "abstract": "Aspergillus flavus poses a significant threat to global food security and public health, as it not only triggers severe mold spoilage in staple crops like peanuts and corn but also produces aflatoxin, a potent carcinogen. However, genetic manipulation of this fungus is notoriously challenging due to its inherent insensitivity to conventional antibiotics. To overcome this barrier, we established a robust, fully endogenous genetic transformation system for a highly toxigenic wild-type strain, A. flavus-SD, using polyethylene glycol (PEG)-mediated protoplast transfection with two selectable markers: pyrG (uracil auxotrophy/5-FOA counterselection) and a β-tubulin E198A point mutation (carbendazim resistance). We successfully constructed the tool strains with a ΔpyrG mutation, which were used for gene knockout and overexpression, and the β-tubulin E198A mutant was used for gene complementation. To validate the operational efficacy of this platform, we performed knockout, complementation, and overexpression of the nsdD gene as a test case. This study provides a reliable technical foundation for elucidating the molecular mechanisms governing aflatoxin biosynthesis and pathogenicity, thereby facilitating the identification of novel targets for A. flavus control.ImportanceThis study established a novel genetic transformation system for a highly toxigenic wild-type strain, Aspergillus flavus-SD, utilizing fully endogenous selectable markers: pyrG (uracil auxotrophy/5-FOA counterselection) and a β-tubulin E198A point mutation (carbendazim resistance). This platform eliminates the need for heterologous antibiotic resistance cassettes, thereby reducing biosafety concerns while enabling iterative genome editing through marker recycling. Using this system, we demonstrated its efficacy by validating the expected phenotypic changes upon nsdD manipulation, revealing a previously unrecognized trade-off between sclerotia formation and aflatoxin biosynthesis. This work provides a valuable, compliance-friendly resource for the fungal research community and lays a foundation for identifying novel targets to disrupt fungal persistence and mycotoxin production in agricultural settings.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02130-26",
+    "date": "2026-11-09",
+    "authors": "Zhao X-L, Zhang Q, Li P-W, Luo C-X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001793",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001793",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1612,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/spectrum.02130-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2025c09324cf92a6a0778958950864efc49ccddc2084384497352d73af07c390",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:13:50.362636+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "61cd2a33d9c0656bbfc3161396f67b2c70bdb51e66fde71f54db1b059b9ba553",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:13:50.362636+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Aspergillus flavus</i>の二重内因性選択的マーカー系と、発生およびアフラトキシン生合成における<i>nsdD</i>機能の特性解析への応用",
+    "abstract_ja": "Aspergillus flavusは、落花生やトウモロコシなどの主要作物に深刻なカビによる腐敗を引き起こすだけでなく、強力な発がん物質であるアフラトキシンを産生するため、世界の食料安全保障と公衆衛生にとって重大な脅威となっている。しかし、本菌は従来の抗生物質に対して本質的に不感受性であるため、遺伝子操作は極めて困難であることで知られている。この障壁を克服するため、我々は、2つの選択可能なマーカー（pyrG（ウラシル要求性／5-FOA対抗選択）およびβ-チューブリンE198A点変異（カルベンダジム耐性））を用いたポリエチレングリコール（PEG）媒介性プロトプラストトランスフェクションにより、高毒性野生型株A. flavus-SDのための堅牢かつ完全内因性の遺伝子形質転換系を確立した。我々は、遺伝子ノックアウトおよび過剰発現に用いたΔpyrG変異を持つツール株の構築に成功し、β-チューブリンE198A変異株は遺伝子相補に用いた。本プラットフォームの運用上の有効性を検証するため、テストケースとしてnsdD遺伝子のノックアウト、相補、および過剰発現を行った。本研究は、アフラトキシンの生合成と病原性を制御する分子メカニズムを解明するための信頼性の高い技術的基盤を提供し、これによりA. flavus制御のための新規標的の同定を促進するものである。重要性 本研究は、完全内因性の選択可能なマーカーであるpyrG（ウラシル要求性／5-FOA対抗選択）およびβ-チューブリンE198A点変異（カルベンダジム耐性）を利用し、高毒性野生型株Aspergillus flavus-SDのための新規遺伝子形質転換系を確立した。このプラットフォームにより、異種抗生物質耐性カセットが不要となり、バイオセーフティ上の懸念が軽減されるとともに、マーカーの再利用による反復的なゲノム編集が可能となった。本システムを用いて、nsdD操作時に予想される表現型変化を検証することでその有効性を実証し、菌核形成とアフラトキシン生合成との間に、これまで認識されていなかったトレードオフがあることを明らかにした。本研究は、真菌研究コミュニティにとって有用でコンプライアンスに配慮したリソースを提供するとともに、農業現場における真菌の生存とマイコトキシン産生を阻害するための新規標的を同定するための基盤を築くものである。"
+  },
+  {
+    "id": "10.1093/molbev/msag278",
+    "title": "A conserved tetrapolar mating system permits sexual hybridization and recombinant host phenotypes in wheat- and barley-adapted Puccinia striiformis",
+    "abstract": "AbstractHost specialization can restrict gene flow in fungal pathogens, yet sexual compatibility may persist when mating occurs on a shared alternate host. We tested this possibility by crossing wheat-adapted Puccinia striiformis f. sp. tritici and barley-adapted P. striiformis f. sp. hordei on Berberis vulgaris. Despite contrasting host specialization and genome-wide sequence differentiation, reciprocal crosses produced 18 viable aeciospore-derived progeny. Chromosome-scale parental assemblies revealed physically unlinked homeodomain (HD) and pheromone receptor (PR) mating-type loci, consistent with a conserved tetrapolar mating system. All progeny inherited one HD haplotype from each parent, representing all four parental HD haplotype combinations. Phenotyped progeny displayed host-interaction profiles distinct from either parent, including compatibility with selected genotypes of both wheat and barley. These findings demonstrate that host-associated differentiation in P. striiformis can coexist with incomplete intrinsic reproductive isolation between the tested parental isolates, allowing sexual hybridization to generate novel host phenotypes.",
+    "journal": "Molecular Biology and Evolution",
+    "doi": "10.1093/molbev/msag278",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msag278/9042377?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5325/advanceAccess_3191.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4450,
+    "collected_at": "2026-11-13T22:47:08.483162+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5325/advanceAccess_3191.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/molbev/msag278"
+    ],
+    "translation": {
+      "title": {
+        "hash": "740fb53c2251a35a9be99ebb0c1c72eba4dfa9ca3c55ae653ea7c74d25c7cbc3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:13:50.362636+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7d5ea528d0c1e6fcc16798b78c9c92d253c690a2928285637e1d11bf1f1d5d7a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:13:50.362636+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "保存された四極性交配系により、コムギおよびオオムギ適応型のPuccinia striiformisにおいて有性交雑と組換え宿主表現型が可能となる。",
+    "abstract_ja": "要旨 宿主特化は真菌病原体における遺伝子流動を制限し得るが、共通の代替宿主で交配が行われる場合には、有性適合性が維持される可能性がある。我々は、小麦適応型のPuccinia striiformis f. sp. triticiと大麦適応型のP. striiformis f. sp. hordeiをBerberis vulgaris上で交配させ、この可能性を検証した。宿主特化およびゲノムワイドな配列分化が対照的であったにもかかわらず、相互交配により18株の生存可能なアエシオスポア由来後代が得られた。染色体スケールの親系統アセンブリにより、物理的に非連鎖したホメオドメイン（HD）およびフェロモン受容体（PR）の交配型遺伝子座が明らかとなり、これは保存された四極交配系と一致していた。すべての後代は各親から1つのHDハプロタイプを継承しており、これは親の4通りのHDハプロタイプ組み合わせすべてを表していた。表現型解析を行った後代は、小麦および大麦の両方の特定の遺伝子型との適合性を含め、いずれの親とも異なる宿主相互作用プロファイルを示した。これらの知見は、P. striiformisにおける宿主関連分化が、検証した親分離株間の不完全な内在的生殖隔離と共存し得ることを示しており、有性交雑によって新規の宿主表現型が生成され得ることを明らかにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1111/mec.70654",
+    "title": "Evidence of Putative Mitonuclear Incompatibilities in the Bullock's and Baltimore Oriole Hybrid Zone.",
+    "abstract": "Mitonuclear incompatibilities are genetic mismatches between mitochondrial and nuclear genomes that initially arise through hybridization. Although these incompatibilities can reduce hybrid fitness and contribute to reproductive isolation, they remain poorly understood in most avian hybrid zones. To investigate mitonuclear discordance in the extensively studied hybrid zone between Bullock's (Icterus bullockii) and Baltimore Orioles (I. galbula), we used whole-genome resequencing and mitochondrial haplotyping to assign mitochondrial ancestry to 136 individuals previously characterized for their levels of nuclear genomic admixture. We detected a narrow mitochondrial cline across the hybrid zone and strong asymmetry in mitochondrial inheritance, with 83% of putative F1 hybrids having I. galbula mitochondrial ancestry, a pattern consistent with predictions from Darwin's corollary to Haldane's rule involving uniparentally inherited loci. Genome-wide association analyses revealed nonrandom associations between mitochondrial haplotype and autosomal nuclear loci, notably including candidate genes with mitochondrial functions. Population-specific signals of positive selection at these loci further suggest differential selective pressures linked to mitochondrial ancestry. Together, our results provide evidence that mitonuclear interactions may contribute to asymmetric introgression and the maintenance of species boundaries in this classic avian hybrid zone.",
+    "journal": "Molecular Ecology",
+    "doi": "10.1111/mec.70654",
+    "date": "2026-11-01",
+    "authors": "Goch LP, Khalil S, Butcher B, Lovette IJ, Walsh J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001336",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001336",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1831,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1111/mec.70654"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b5344237abfa1254cee0dcdaa77f4e630df4f4aea0262cb2d4ceb0cccd30c210",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:13:50.362636+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "987e96852c9c286d94c277f20dd241b1ba8d1b0adce6abcd94b8a567e7887abf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:13:50.362636+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブルロックオリオールとボルチモアオリオールの交雑帯における推定ミト核不適合性の証拠",
+    "abstract_ja": "ミト核不適合性とは、ハイブリッド化によって初期に生じるミトコンドリアゲノムと核ゲノム間の遺伝的ミスマッチである。こうした不適合性はハイブリッドの適応度を低下させ、生殖的隔離の一因となり得るが、ほとんどの鳥類ハイブリッドゾーンにおいてその実態は十分に解明されていない。ブルロックオリオール（Icterus bullockii）とボルチモアオリオール（I. galbula）の間で広く研究されてきたハイブリッドゾーンにおけるミト核不一致を調査するため、我々は全ゲノムリシーケンシングとミトコンドリアハプロタイピングを用い、核ゲノムの混交レベルが既報である136個体のミトコンドリア祖先系統を特定した。その結果、ハイブリッドゾーン全域にわたる狭いミトコンドリアクラインと、ミトコンドリア遺伝における強い非対称性が検出され、推定F1ハイブリッドの83%がI. galbulaのミトコンドリア祖先系統を有していた。このパターンは、単一親から継承される遺伝子座に関するダーウィンの系論からハルデーンの法則への帰結による予測と一致していた。ゲノムワイド関連解析により、ミトコンドリアハプロタイプと常染色体核遺伝子座との間に非ランダムな関連が認められ、特にミトコンドリア機能を持つ候補遺伝子が含まれていた。これらの遺伝子座における集団特異的な正の選択シグナルは、ミトコンドリア祖先系統に関連した選択圧の差異をさらに示唆している。以上の結果を総合すると、本研究の知見は、ミト核間の相互作用が、この典型的な鳥類ハイブリッドゾーンにおける非対称な遺伝子浸透および種境界の維持に寄与している可能性を示すものである。"
   }
 ]
