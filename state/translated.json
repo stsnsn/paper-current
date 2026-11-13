@@ -177787,5 +177787,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "バイオインフォマティクスと機械学習を用いた、内皮間葉転換を介した動脈硬化における潜在的標的の同定",
     "abstract_ja": "背景内皮細胞から間葉系細胞への分化（EndMT）は、動脈硬化（AS）の主要な駆動因子である。本研究では、複数のRNAトランスクリプトームおよびシングルセルトランスクリプトームデータセットを統合し、EndMTとASに共通する遺伝子発現シグネチャーを同定した。方法GEO発現プロファイルを、発現変動解析、重み付き遺伝子共発現ネットワーク解析（WGCNA）、および機能エンリッチメント解析により解析した。ランダムフォレストモデルを用いて主要遺伝子を評価し、その発現および診断性能を検証した。さらに、シングルセルRNAシーケンシング（scRNA-seq）により発現パターンを評価し、転写因子（TF）-mRNA-miRNA調節ネットワークを解析した。結果15個の重複遺伝子が同定され、そのうち6つの候補をタンパク質間相互作用（PPI）ネットワークを用いてスクリーニングし、in vitroで検証した。ランダムフォレストモデルの適用により、有意に発現上昇している2つの主要ハブ遺伝子、CCL5およびIL1Bを同定した。これらの診断的曲線下面積（AUC）は、個別に評価した場合は0.7を超え、統合モデルでは0.85以上に上昇した。核因子カッパB（NF-κB）経路の3つの共通TF（NFKBIA、NFKB1、RELA）が同定され、疾患進行における同経路の中心的な役割が浮き彫りとなった。結論CCL5およびIL1Bは、ヌクレオチド結合オリゴマー化ドメイン様（NOD様）受容体、腫瘍壊死因子（TNF）、およびNF-κBシグナル伝達を含む炎症性経路を介して、EndMT介在性ASを調節する可能性のある主要遺伝子であり、ASの有望な診断および治療標的となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02596-26",
+    "title": "Correlation-based analysis of gene expression in <i>Cardinium</i>, <i>Wolbachia</i>, and <i>Tyrophagus putrescentiae</i> reveals distinct host-symbiont interactions and parallel evolutionary expansion of infection-associated genes.",
+    "abstract": "Cardinium and Wolbachia are phylogenetically distinct intracellular symbionts that have convergently evolved mechanisms to infect a wide range of arthropod and nematode hosts. Here, we investigated the interaction dynamics of two basal strains, Cardinium (cTPut) and Wolbachia (wTPut), in the stored-product mite Tyrophagus putrescentiae (Acari: Astigmata). The KEGG-annotated gene expression profiles of mite samples were analyzed in single infections (Cardinium or Wolbachia) and mixed infections across three time points (2, 4, and 6 months). Temporal effects on gene expression were marginal; therefore, correlation-based network analyses were used to characterize host-symbiont interactions. The symbionts exhibited distinct host-targeting strategies: Wolbachia displayed a \"broad\" interaction pattern characterized by numerous weak correlations with host KEGG genes, whereas Cardinium showed a \"focused\" strategy involving fewer but stronger correlations. These patterns were consistent across global KEGG data sets, immune and regulatory pathways (including AMPK, autophagy, endocytosis, Hippo, lysosome, MAPK, mTOR, and Notch), receptor subsets, and metabolic pathways. Consistent with these interaction patterns, orthologous analyses across Cardinium and selected Wolbachia genomes revealed that infection-associated genes are not broadly conserved but are enriched in lineage-specific, duplicated gene families, particularly in T. putrescentiae-associated symbionts. These findings indicate that infection-related traits evolve primarily through lineage-specific gene family expansion rather than conservation and suggest that basal Cardinium and Wolbachia employ fundamentally distinct host interaction strategies.IMPORTANCEThe study provides novel insight into host-symbiont interactions: Cardinium, Wolbachia infecting mite Tyrophagus putrescentiae, an important producer of allergens (i) Cardinium gene expression responds to the presence of Wolbachia, whereas Wolbachia gene expression shows no reciprocal response; (ii) the two symbionts employ contrasting host interaction strategies with the host, with Cardinium exhibiting fewer but stronger associations and Wolbachia showing widespread but weaker correlations; (iii) distinct host pathways are differentially associated with each symbiont; and (iv) we identified 40 of the most correlated bacterial genes to the host that include candidates of viral origin, suggesting a potential role of horizontally acquired elements in the host. Furthermore, evolutionary analyses demonstrate that infection-associated genes are primarily lineage expanded rather than broadly conserved across symbiont genomes. Given the allergenic relevance of T. putrescentiae, these findings suggest that symbiont-specific interaction strategies can indirectly influence host physiology and allergen production.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02596-26",
+    "date": "2026-10-21",
+    "authors": "Hubert J, Glowska-Patyniak E, Stara J, Green S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904635",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904635",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 218,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.02596-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bc7e47edc15837f78980984c00a0028e8ba559f36f2299eb9871417846a9f7ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:54:52.126894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "63ed8d39068b133d745dab2fa700a280951a98ce9e3c46be35280080cc0b0fe3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:54:52.126894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Cardinium</i>、<i>Wolbachia</i>、および<i>Tyrophagus putrescentiae</i>における遺伝子発現の相関解析により、宿主と共生菌の特異的な相互作用と、感染関連遺伝子の並行的な進化的拡大が明らかになった。",
+    "abstract_ja": "CardiniumとWolbachiaは、系統的に異なる細胞内共生体であり、広範な節足動物および線虫宿主に感染するための機構を収斂的に進化させてきた。本研究では、貯蔵産物ダニTyrophagus putrescentiae（Acari: Astigmata）における2つの基底株、Cardinium（cTPut）とWolbachia（wTPut）の相互作用ダイナミクスを調査した。ダニ試料のKEGGアノテーション済み遺伝子発現プロファイルを、単一感染（CardiniumまたはWolbachia）および3つの時点（2、4、6か月）にわたる混合感染において解析した。遺伝子発現への時間的影響は限定的であったため、相関に基づくネットワーク解析を用いて宿主-共生体間の相互作用を特性評価した。共生体はそれぞれ異なる宿主標的化戦略を示した。Wolbachiaは、宿主のKEGG遺伝子との弱い相関が多数見られる「広範な」相互作用パターンを示したのに対し、Cardiniumは、相関数は少ないがより強い相関を伴う「集中的な」戦略を示した。これらのパターンは、グローバルなKEGGデータセット、免疫および調節経路（AMPK、オートファジー、エンドサイトーシス、Hippo、リソソーム、MAPK、mTOR、Notchを含む）、受容体サブセット、および代謝経路にわたって一貫していた。これらの相互作用パターンと一致して、Cardiniumと選択したWolbachiaゲノム間のオーソログ解析により、感染関連遺伝子は広範に保存されておらず、特にT. putrescentiae関連共生体において、系統特異的な重複遺伝子ファミリーに濃縮されていることが明らかになった。これらの知見は、感染関連形質が保存ではなく主に系統特異的な遺伝子ファミリーの拡大を通じて進化することを示しており、基底的なCardiniumとWolbachiaが根本的に異なる宿主相互作用戦略を採用していることを示唆している。重要性本研究は、宿主-共生体間の相互作用に関する新たな知見を提供する。アレルゲンの重要な産生源であるダニTyrophagus putrescentiaeに感染するCardiniumとWolbachiaについて、(i) Cardiniumの遺伝子発現はWolbachiaの存在に応答するが、Wolbachiaの遺伝子発現には相互応答が見られない、(ii) 2つの共生体は宿主に対して対照的な宿主相互作用戦略を採用しており、Cardiniumは関連数は少ないがより強い関連を示し、Wolbachiaは広範だがより弱い相関を示す、(iii) 共生体ごとに異なる宿主経路が差異的に関連している、(iv) 宿主と最も相関の高い細菌遺伝子40個を同定し、その中にウイルス由来の候補が含まれていたことから、宿主における水平伝播要素の潜在的な役割が示唆された。さらに、進化解析により、感染関連遺伝子は共生体ゲノム間で広範に保存されているのではなく、主に系統的に拡大していることが示された。T. putrescentiaeのアレルゲンとしての関連性を考慮すると、これらの知見は、共生体特異的な相互作用戦略が宿主の生理機能やアレルゲン産生に間接的な影響を及ぼし得ることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41564-026-02523-z",
+    "title": "A human gut-associated picobirnavirus establishes the Picobirnaviridae as the third clade of RNA bacteriophages.",
+    "abstract": "Picobirnaviruses (PBVs) are commonly detected RNA viruses in human and animal guts and are associated with multiple human diseases. Although PBVs have been assumed to infect vertebrate hosts, there is neither direct evidence for this nor any culture system to propagate PBVs. Here we demonstrate that a PBV infects bacteria and is therefore an RNA phage. Two different PBVs from human faeces were propagated in germ-free mice after faecal microbiota transplantation, establishing a mouse model for PBV. One PBV could be cultured in vitro, in a community of anaerobic gut bacteria, and its growth could be inhibited by multiple antibiotics. RNA fluorescence in situ hybridization revealed PBV RNA within bacterial cells, and enrichment and sequencing of PBV RNA-containing cells identified a previously unidentified 'Candidatus Anaerotignum faecalis' as its host. Our findings define the family Picobirnaviridae as only the third clade of RNA phages in addition to leviviruses and cystoviruses.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02523-z",
+    "date": "2026-10-29",
+    "authors": "Gan T, Rosen AL, Wang L, Vernon S, Droit L, Pinski AN, Wu G, Chica Cardenas LA, Mihindukulasuriya KA, Paredes A, Pios Z, Baldridge MT, Rimmer JE, Parkes M, Dinsdale EA, Edwards RA, Segall AM, Handley SA, Kau AL, Wang D.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42957852",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42957852",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "microbiota",
+        "phage",
+        "phages",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 3262,
+    "collected_at": "2026-11-11T10:55:29.934283+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1038/s41564-026-02523-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d667432a6e9ed4bda0c6b70e53387f2724921b318e6010f757bb8037cb1c1ddb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:54:52.126894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "28c2e7730e2f913d15f45f1428a7321ad123dc67c2769fb7ae5af2785b9928f1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:54:52.126894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト腸管関連ピコビルナウイルスにより、ピコビルナウイルス科がRNAバクテリオファージの第3のクレードとして確立された。",
+    "abstract_ja": "ピコビルナウイルス（PBV）は、ヒトおよび動物の腸管内で一般的に検出されるRNAウイルスであり、ヒトの複数の疾患に関連している。PBVは脊椎動物宿主に感染すると考えられてきたが、これを裏付ける直接的な証拠はなく、PBVを増殖させる培養系も存在しない。本研究では、PBVが細菌に感染し、したがってRNAファージであることを実証する。ヒト糞便由来の2種類の異なるPBVを、糞便微生物叢移植後の無菌マウスで増殖させ、PBVのマウスモデルを構築した。一方のPBVは、嫌気性腸内細菌群集においてin vitroで培養可能であり、その増殖は複数の抗生物質によって抑制された。RNA蛍光in situハイブリダイゼーションにより細菌細胞内にPBV RNAが検出され、PBV RNA含有細胞の濃縮およびシーケンシングにより、これまで未同定であった「Candidatus Anaerotignum faecalis」がその宿主として同定された。本知見により、ピコビルナウイルス科は、レヴィウイルスおよびシストウイルスに加えて、RNAファージのわずか3番目のクレードであることが定義される。"
+  },
+  {
+    "id": "10.1093/nar/gkag1180",
+    "title": "The Chemical Probes Portal—2026: expanding and enhancing this expert review-based public resource to sustain chemical probe selection and application in bioscience",
+    "abstract": "AbstractThe Chemical Probes Portal (https://www.chemicalprobes.org) is an open, international, resource empowering scientific robustness by supporting responsible research using chemical probes. The Portal informs best-practice in the selection and application of small-molecule chemical probes through expert review, manual curation, and community engagement. Used correctly, high-quality chemical probes are powerful, versatile research tools enabling the fundamental study of protein function, target validation, and development of new therapeutics. Conversely, the inappropriate selection and use of these chemical tools can compromise experimental interpretation, reliability, and translational impact, highlighting the need for trusted advisory resources. The Portal addresses this challenge, providing a unique collection of curated data, expert reviews, and related guidance. We describe significant developments to the Portal’s content and infrastructure. We have substantially expanded the content, with curated probes increasing by 26% since our last update. We have significantly enhanced website functionality through implementation of new, more informative probe pages, improved search tools and enhancements in data accessibility, machine readability, and interoperability. Together, these developments strengthen the Portal as a trustworthy, user-friendly provider of expert-reviewed chemical probe information and an increasingly valuable source of gold-standard FAIR, accessible data in the era of AI-assisted information discovery, underpinning reliable bioscience research.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1180",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1180/9036063?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4141,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1180"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2ac8f12d7eb38487a9b7e78db61abe5c6d7b5a66ee221e7b95d1e3962535b5ad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:54:52.126894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "72e8bad8875f649be5f9e684faad63da5721efbf63740e6378090285cf905293",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:54:52.126894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ケミカルプローブ・ポータル―2026年：バイオサイエンスにおけるケミカルプローブの選定と応用を持続させるため、専門家によるレビューに基づく本公開リソースを拡充・強化する",
+    "abstract_ja": "要旨Chemical Probes Portal（https://www.chemicalprobes.org）は、化学プローブを用いた責任ある研究を支援することで、科学的な堅牢性を高めるオープンな国際リソースである。本ポータルは、専門家によるレビュー、手動キュレーション、およびコミュニティの参画を通じて、低分子化学プローブの選定と応用におけるベストプラクティスを提供している。適切に使用されれば、高品質な化学プローブは、タンパク質機能の基礎的研究、標的検証、および新規治療薬の開発を可能にする、強力かつ汎用性の高い研究ツールとなる。逆に、これらの化学ツールの不適切な選定や使用は、実験の解釈、信頼性、およびトランスレーショナルなインパクトを損なう可能性があり、信頼できるアドバイザリーリソースの必要性を浮き彫りにしている。本ポータルはこの課題に対処し、キュレーションされたデータ、専門家レビュー、および関連ガイダンスの独自のコレクションを提供している。本稿では、本ポータルのコンテンツおよびインフラストラクチャにおける重要な進展について述べる。コンテンツを大幅に拡充し、前回の更新以降、キュレーション済みプローブは26%増加した。また、より情報量の多い新しいプローブページの実装、検索ツールの改善、ならびにデータのアクセシビリティ、機械可読性、および相互運用性の向上を通じて、ウェブサイトの機能を大幅に強化した。これらの進展が相まって、本ポータルは、専門家レビュー済みの化学プローブ情報の信頼できるユーザーフレンドリーな提供源として、また、AI支援による情報探索の時代においてますます価値を高めるゴールドスタンダードのFAIRでアクセシブルなデータの情報源として、信頼性の高いバイオサイエンス研究を支える存在となっている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.7717/peerj.21903",
+    "title": "Identification of Endoplasmic reticulum Homeostasis-associated diagnostic biomarkers for Sarcopenia through integrated Bioinformatics and Experimental Validation.",
+    "abstract": "Sarcopenia is an age-related skeletal muscle disorder characterized by progressive loss of muscle mass and function, yet reliable biomarkers for early diagnosis remain limited. Emerging evidence suggests that disruption of endoplasmic reticulum (ER) homeostasis contributes to skeletal muscle aging, however, the diagnostic relevance of ER stress- and reticulophagy-related alterations in sarcopenia remains poorly understood. In this study, three skeletal muscle transcriptomic datasets (GSE25941, GSE28422, and GSE38718) were integrated following batch-effect correction to identify differentially expressed genes (DEGs) between sarcopenic and control samples. DEGs were intersected with ER stress and reticulophagy related gene sets to obtain sarcopenia-associated candidate genes. Subsequently, three machine-learning algorithms, including least absolute shrinkage and selection operator (LASSO), random forest (RF), and support vector machine (SVM), were applied to identify key hub genes. Functional enrichment analyses, transcription factor (TF)-miRNA regulatory network construction, protein-chemical interaction analyses, external validation, nomogram development, and quantitative real-time PCR (qRT-PCR) verification were performed. A total of 236 DEGs were identified, comprising 34 upregulated and 202 downregulated genes. Intersection analysis with 1,772 ER stress and reticulophagy related genes yielded 10 candidate genes, from which five hub genes (ACTC1, NPY, CDKN2B, GADD45G, and GRIA1) were consistently identified by machine-learning analyses. Functional enrichment analysis indicated significant involvement in extracellular matrix organization, cytokine-cytokine receptor interaction, mitochondrial translation, and respiratory electron transport pathways. Regulatory network analyses further revealed potential interactions with multiple transcription factors, miRNAs, and chemical compounds. In the independent validation cohort (GSE1428), ACTC1 showed strong individual discriminative performance, NPY and GADD45G showed moderate performance, whereas GRIA1 showed limited discrimination and CDKN2B showed near-chance individual performance, whereas the combined gene signature exhibited improved discriminative ability. A predictive nomogram was established. Moreover, qRT-PCR analysis of human skeletal muscle biopsy specimens confirmed significantly increased expression of ACTC1, NPY, CDKN2B, and GRIA1, together with decreased expression of GADD45G in sarcopenic muscle tissues compared with controls (all p < 0.05). Collectively, our findings identified a five-gene signature associated with ER stress and reticulophagy related molecular networks in sarcopenia. Although these genes are not established core regulators of ER stress or reticulophagy, they exhibited promising diagnostic value and may reflect ER homeostasis-related molecular alterations during skeletal muscle aging, providing novel biomarkers and potential insights into the molecular basis of sarcopenia.",
+    "journal": "PeerJ",
+    "doi": "10.7717/peerj.21903",
+    "date": "2026-11-02",
+    "authors": "Shi L, Yan H, Lu J, Yu W, Li Y, Zhang Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42992195",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13738190",
+    "pmid": "42992195",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2388,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.7717/peerj.21903"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8e675fa964189acb3265083558dc179394926ca4af69567703f609919dcd68cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:54:52.126894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bbd519fb30f1e4df1e423f68e0768b754fc48b32be19577dfe8d8894bfa9b04a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:54:52.126894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バイオインフォマティクスと実験的検証の統合による、サルコペニアにおける小胞体恒常性関連診断バイオマーカーの同定",
+    "abstract_ja": "サルコペニアは、筋量および筋機能の進行性喪失を特徴とする加齢性骨格筋疾患であるが、早期診断のための信頼性の高いバイオマーカーは依然として限られている。近年の知見では、小胞体（ER）恒常性の破綻が骨格筋の老化に寄与することが示唆されているが、サルコペニアにおけるERストレスおよびレティクロファジー関連の変化の診断的意義については、十分に解明されていない。本研究では、バッチ効果補正を施した3つの骨格筋トランスクリプトームデータセット（GSE25941、GSE28422、およびGSE38718）を統合し、サルコペニア検体と対照検体の間で発現変動遺伝子（DEGs）を同定した。DEGsをERストレスおよびレティクロファジー関連遺伝子セットと交差解析し、サルコペニア関連候補遺伝子を抽出した。続いて、最小絶対縮小選択演算子（LASSO）、ランダムフォレスト（RF）、およびサポートベクターマシン（SVM）を含む3種類の機械学習アルゴリズムを適用し、主要なハブ遺伝子を同定した。さらに、機能エンリッチメント解析、転写因子（TF）-miRNA調節ネットワークの構築、タンパク質-化学物質相互作用解析、外部検証、ノモグラムの開発、および定量リアルタイムPCR（qRT-PCR）による検証を実施した。計236個のDEGsが同定され、その内訳は発現上昇遺伝子34個、発現低下遺伝子202個であった。1,772個のERストレスおよびレティクロファジー関連遺伝子との交差解析により10個の候補遺伝子が得られ、そのうち5つのハブ遺伝子（ACTC1、NPY、CDKN2B、GADD45G、およびGRIA1）が機械学習解析によって一貫して同定された。機能エンリッチメント解析の結果、細胞外マトリックスの構築、サイトカイン-サイトカイン受容体相互作用、ミトコンドリア翻訳、および呼吸電子伝達経路への有意な関与が示された。調節ネットワーク解析では、複数の転写因子、miRNA、および化学化合物との潜在的な相互作用がさらに明らかになった。独立した検証コホート（GSE1428）において、ACTC1は強い個別識別能を示し、NPYとGADD45Gは中程度の識別能を示した一方、GRIA1は識別能が限定的であり、CDKN2Bは偶然レベルの個別識別能を示したが、統合遺伝子シグネチャーは向上した識別能を示した。予測ノモグラムが確立された。さらに、ヒト骨格筋生検検体のqRT-PCR解析により、対照群と比較してサルコペニア筋組織においてACTC1、NPY、CDKN2B、およびGRIA1の発現が有意に増加し、GADD45Gの発現が減少していることが確認された（すべてp < 0.05）。総じて、本研究の知見により、サルコペニアにおけるERストレスおよびレティクロファジー関連分子ネットワークに関連する5つの遺伝子シグネチャーが同定された。これらの遺伝子は、ERストレスやレティクロファジーの確立されたコア調節因子ではないが、有望な診断的価値を有しており、骨格筋の老化過程におけるER恒常性関連の分子変化を反映している可能性があり、新たなバイオマーカーの提供およびサルコペニアの分子基盤に関する知見をもたらすと考えられる。"
   }
 ]
