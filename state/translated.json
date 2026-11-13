@@ -191829,5 +191829,332 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Acrolejeunea sandvicensis (Gottsche) Steph. (Lejeuneaceae, Marchantiophyta) の擬染色体レベルのゲノムアセンブリ",
     "abstract_ja": "学術データ、オンライン公開：2026年11月7日；doi:10.1038/s41597-026-08602-4Acrolejeunea sandvicensis (Gottsche) Steph. (Lejeuneaceae, Marchantiophyta) の擬染色体レベルのゲノムアセンブリ"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1948708",
+    "title": "Isolation and characterization of novel <i>Klebsiella</i> phages from Benin and their antibiofilm activities on multidrug resistant and hypervirulent <i>Klebsiella pneumoniae</i> strains.",
+    "abstract": "Hypervirulent Klebsiella pneumoniae represents a growing clinical threat, particularly where multidrug resistance limits treatment options. This study aims to characterize Klebsiella phages isolated in Benin and evaluate their efficacy in reducing bacterial cell growth, biofilm inhibition and biofilm disruption. To achieve this objective, we isolated Klebsiella phages by enriching samples of hospital effluent, pig droppings, and stool, using clinical multidrug resistant and hypervirulent K. pneumoniae strains as hosts. These phages were characterized using transmission electron microscopy, whole-genome sequencing, and biological assays. Then, we evaluated their antibiofilm activity and stability under harsh conditions (pH and temperature) in vitro. So, we report the isolation and characterization of three novel lytic phages from Benin (Kp1Bj_HH11_M23, Kp2Bj_LN294_M23, and Kp10Bj_LN54_14). These Myoviruses, belonging to the genera Marfavirus and Jiaodavirus, display broad host range activity against multidrug resistant and hypervirulent K. pneumoniae strains with various capsular serotypes including KL114, KL53, KL8, KL62, KL64, KL124, KL102, KL57, KL39, KL48, KL17, KL20, KL2, KL30, KL51, KL105, KL146, KL28, KL122, KL38, KL3, and KL163. Genomic analysis confirmed the absence of virulence and antimicrobial resistance genes. The phages exhibit rapid adsorption, short latency periods (5-10 min), and high burst sizes (119-2208 PFU/cell). All three phages have significantly biofilm disruption effect in vitro (Kp1Bj_HH11_M23, biofilm disruption rate of 98.46 %, p-value = 0.0170; Kp2Bj_LN294_M23, biofilm disruption rate of 65.56%, p-value p-value = 0.003). Their stability across a wide range of temperatures and pH further supports their potential for therapeutic development. Together, these data highlight the value of locally sourced phages as candidates for tackling region-specific antimicrobial resistance challenges.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1948708",
+    "date": "2026-10-26",
+    "authors": "Agbankpe AJ, Fabiyi K, Hounmanou YMG, Nougbologni GR, Balarabe R, Michniewski S, Hougbenou JB, Deguenon E, Dougnon V, Bankolé H, Baba-Moussa L, Nazir R, Clokie MRJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005322",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13745481",
+    "pmid": "43005322",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 599,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1948708"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4fff6fea8eb40f4536261059f02991aa6dcb7ccd17060cb40dc5dedea2003b2c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:50:02.496895+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7e84e89131af2de4a96eca903a66f6c7e1a3963d904049560f5fb87b828f1d2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:50:02.496895+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ベナン産の新規<i>Klebsiella</i>ファージの単離・特性解析、および多剤耐性・超強毒性<i>Klebsiella pneumoniae</i>株に対する抗バイオフィルム活性",
+    "abstract_ja": "超強毒性Klebsiella pneumoniaeは、特に多剤耐性により治療選択肢が制限される状況において、臨床上の脅威となりつつある。本研究は、ベナンで分離されたKlebsiellaファージの特性解析を行い、細菌細胞増殖の抑制、バイオフィルム阻害、およびバイオフィルム破壊における有効性を評価することを目的とする。この目的を達成するため、臨床的に多剤耐性および超強毒性を示すK. pneumoniae株を宿主として、病院廃液、豚糞、および便の試料を濃縮し、Klebsiellaファージを分離した。これらのファージについて、透過型電子顕微鏡観察、全ゲノムシーケンシング、および生物学的アッセイを用いて特性解析を行った。次いで、in vitroにおいて、抗バイオフィルム活性および過酷な条件（pHおよび温度）下での安定性を評価した。以上より、ベナンで分離された3種類の新規溶菌性ファージ（Kp1Bj_HH11_M23、Kp2Bj_LN294_M23、およびKp10Bj_LN54_14）の分離および特性解析について報告する。Marfavirus属およびJiaodavirus属に属するこれらのマイオウイルスは、KL114、KL53、KL8、KL62、KL64、KL124、KL102、KL57、KL39、KL48、KL17、KL20、KL2、KL30、KL51、KL105、KL146、KL28、KL122、KL38、KL3、およびKL163を含む様々な莢膜血清型の多剤耐性および超強毒性K. pneumoniae株に対して、広範な宿主適応性を示す。ゲノム解析により、病原性遺伝子および薬剤耐性遺伝子の欠如が確認された。これらのファージは、迅速な吸着、短い潜伏期間（5～10分）、および高いバーストサイズ（119～2208 PFU/細胞）を示す。3種類すべてのファージが、in vitroにおいて有意なバイオフィルム破壊効果を示した（Kp1Bj_HH11_M23：バイオフィルム破壊率 98.46%、p値 = 0.0170；Kp2Bj_LN294_M23：バイオフィルム破壊率 65.56%、p値 = 0.003）。広範な温度およびpH範囲における安定性は、治療開発への可能性をさらに裏付けるものである。以上のデータは、地域特有の薬剤耐性課題に対処するための候補として、現地由来のファージが持つ価値を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1087",
+    "title": "AnnelidaDB: a comprehensive platform of taxonomic and multi-omic resources across annelids.",
+    "abstract": "Annelids inhabit marine, freshwater, and terrestrial ecosystems and are important models for studying animal evolution, regeneration, and host-microbe interactions, yet their rapidly growing omics resources remain dispersed across repositories and publications. We developed AnnelidaDB (www.annelidadb.com), a species-centred database built on an updated phylogenetic framework that integrates genomes, mitochondrial genomes, transcriptomes, proteomes, epigenomes, single-cell datasets, host-associated symbiont genomes, and comparative synteny for Annelida. The current release covers 1121 species, including 152 species with nuclear genomes, 177 with mitochondrial genomes, 591 with transcriptome data, 5 with single-cell datasets comprising 209 802 cells, and 30 bacterial symbiont genomes. AnnelidaDB organizes these resources through 10 navigation directories and connects species, genome, gene, functional annotation, and gene-family records. Users can browse genomic assemblies, explore interactive single-cell atlases and 12 200 precomputed Oxford plots, run BLAST queries and search genes against the annelid-specific database, and submit chromosome-level data for syntenic analysis against 20 Annelida linkage groups. Sequences, annotations, and private results are available for download. As a comprehensive multi-omics resource dedicated to annelids, AnnelidaDB provides an accessible platform for comparative investigations of annelid genome evolution, adaptation, regeneration, and symbiosis.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1087",
+    "date": "2026-10-31",
+    "authors": "Li Y, Liu H, Perez M, Li YX, Hui F, Shen Z, Sun Y, Martín-Durán JM, Rouse GW, Qian PY, Xu J, Xie X, Qiu JW.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963947",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963947",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "database",
+        "epigenome",
+        "framework",
+        "genome",
+        "microbe",
+        "phylogenetic",
+        "proteome",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "marine"
+        ],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 17,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1087"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bc4961c364fcca840b0f7520f2693e25ade3f7cc543572c2bb15a0e30051b663",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:50:02.496895+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d21197ec75edada26c35840514da2349664e762e63705f17e209b33ff7f6de69",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:50:02.496895+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "AnnelidaDB：環形動物にわたる分類学的およびマルチオミクスリソースの包括的プラットフォーム。",
+    "abstract_ja": "環形動物は海洋、淡水、および陸域の生態系に生息しており、動物の進化、再生、および宿主と微生物の相互作用を研究する上で重要なモデルとなるが、急速に拡充されているオミクスリソースは、依然としてリポジトリや論文に分散している。我々は、ゲノム、ミトコンドリアゲノム、トランスクリプトーム、プロテオーム、エピゲノム、単一細胞データセット、宿主関連共生体ゲノム、および環形動物の比較シンテニーを統合した更新版の系統解析フレームワークに基づき、種中心型データベースであるAnnelidaDB（www.annelidadb.com）を開発した。現在のリリースでは、核ゲノムを有する152種、ミトコンドリアゲノムを有する177種、トランスクリプトームデータを有する591種、209 802個の細胞からなる単一細胞データセットを有する5種、および30種の細菌共生体ゲノムを含む計1,121種を網羅している。AnnelidaDBは、これらのリソースを10のナビゲーションディレクトリを通じて整理し、種、ゲノム、遺伝子、機能アノテーション、および遺伝子ファミリーのレコードを相互に関連付けている。ユーザーは、ゲノムアセンブリの閲覧、インタラクティブな単一細胞アトラスや12 200個の事前計算済みOxfordプロットの探索、BLASTクエリの実行および環形動物専用データベースを用いた遺伝子検索、ならびに20の環形動物連鎖群に対するシンテニー解析のための染色体レベルデータの提出を行うことができる。配列、アノテーション、および非公開の結果はダウンロード可能である。環形動物に特化した包括的なマルチオミクスリソースとして、AnnelidaDBは、環形動物のゲノム進化、適応、再生、および共生に関する比較研究のためのアクセスしやすいプラットフォームを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2620406123",
+    "title": "Reduction of aflatoxin contamination in maize kernels mediated by host-induced gene silencing.",
+    "abstract": "Aflatoxins produced by some species of Aspergillus pose a significant threat to global food safety, because they contaminate a variety of crops including maize. In this study, we used host-induced gene silencing (HIGS) to reduce aflatoxin accumulation in maize upon infection with Aspergillus flavus and Aspergillus parasiticus. Two RNAi constructs were designed and introduced into maize, one targeting two essential fungal genes involved in ergosterol biosynthesis (CYP51A and CYP51B) and the other targeting three aflatoxin biosynthesis genes (AflC, AflD, and AflR). The presence of RNAi transgenes was confirmed in 17 and 14 independent lines possessing the CYP51A/CYP51B RNAi construct and the AflC/AflD/AflR RNAi construct, respectively. Most transgenic lines had single-locus integrations and one or two copies of the transgene. Transgene expression varied considerably among the lines. Small RNA sequencing confirmed the production of siRNAs from the HIGS trigger sequences. Levels of CYP51A, AflC, AflD, and AflR transcripts in Aspergillus spp. were successfully decreased upon infection of transgenic maize. However, significant reduction in the level of CYP51B transcripts was not achieved and the CYP51A/CYP51B RNAi transgene had no discernible effect on fungal growth in infected maize. In contrast, we observed significant reductions in aflatoxin accumulation in four AflC/AflD/AflR RNAi transgenic lines infected with A. flavus and in two transgenic lines infected with A. parasiticus. Notably, one AflC/AflD/AflR transgenic line exhibited minimal aflatoxin contamination upon kernel infection with A. parasiticus. These results demonstrate the potential of HIGS to reduce aflatoxin production in mature corn kernels.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2620406123",
+    "date": "2026-10-22",
+    "authors": "Ahmed A, Cavanaugh K, Baldrich P, Stergiopoulos I, Michelmore R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42911867",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13715819",
+    "pmid": "42911867",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2689,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2620406123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2f98f1cb1b45b87360e5f70c14ddea4f1a2e31e9201191e363eb76738184f74b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:50:02.496895+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf8325ddbcbed45b85ff55ea7932c567c9957df814e4a8243ac1f06d5c6a216d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:50:02.496895+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主誘導性遺伝子サイレンシングを介したトウモロコシ粒におけるアフラトキシン汚染の低減",
+    "abstract_ja": "一部のアスペルギルス属菌が産生するアフラトキシンは、トウモロコシを含む多様な作物を汚染するため、世界的な食品安全に対する重大な脅威となっている。本研究では、宿主誘導性遺伝子サイレンシング（HIGS）を用いて、アスペルギルス・フラバスおよびアスペルギルス・パラシティクス感染時のトウモロコシにおけるアフラトキシン蓄積を低減させた。2種類のRNAiコンストラクトを設計してトウモロコシに導入した。一方はエルゴステロール生合成に関与する2つの必須真菌遺伝子（CYP51AおよびCYP51B）を標的とし、もう一方は3つのアフラトキシン生合成遺伝子（AflC、AflD、およびAflR）を標的とした。RNAiトランスジーンの存在は、CYP51A/CYP51B RNAiコンストラクトおよびAflC/AflD/AflR RNAiコンストラクトをそれぞれ保有する17系統および14系統の独立した系統において確認された。ほとんどのトランスジェニック系統では、単一遺伝子座への組み込みが認められ、トランスジーンは1コピーまたは2コピー存在していた。トランスジーンの発現は系統間で大きく異なっていた。小型RNAシーケンシングにより、HIGSトリガー配列からのsiRNA産生が確認された。トランスジェニックトウモロコシへの感染により、アスペルギルス属菌におけるCYP51A、AflC、AflD、およびAflR転写産物のレベルを低下させることに成功した。しかし、CYP51B転写産物のレベルの有意な低下は得られず、CYP51A/CYP51B RNAiトランスジーンは感染トウモロコシの真菌増殖に対して顕著な影響を及ぼさなかった。対照的に、アスペルギルス・フラバス感染の4系統のAflC/AflD/AflR RNAiトランスジェニック系統、およびアスペルギルス・パラシティクス感染の2系統のトランスジェニック系統において、アフラトキシン蓄積の有意な減少が認められた。特筆すべきは、AflC/AflD/AflRトランスジェニック系統の1系統において、アスペルギルス・パラシティクスによる粒感染時のアフラトキシン汚染が最小限であったことである。これらの結果は、成熟したトウモロコシ粒におけるアフラトキシン産生を低減させるHIGSの可能性を示すものである。"
+  },
+  {
+    "id": "10.1038/s41597-026-08509-0",
+    "title": "A chromosome-level genome assembly of Muscina stabulans Fallén (Diptera: Muscidae)",
+    "abstract": "Scientific Data, Published online: 07 November 2026; doi:10.1038/s41597-026-08509-0A chromosome-level genome assembly of Muscina stabulans Fallén (Diptera: Muscidae)",
+    "journal": "Scientific Data",
+    "doi": "10.1038/s41597-026-08509-0",
+    "date": "2026-11-07",
+    "authors": "Yu Wang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41597-026-08509-0",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/sdata.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2128,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.nature.com/sdata.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41597-026-08509-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4a7783b27bb0c1c15a5b863de75e0cdcc84d4b965929010c7cf32b1a30876b0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:50:02.496895+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "db72a7861a1591db4fd7ff8be1833a1ca49d08741908d62816a572151f46cc76",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:50:02.496895+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Muscina stabulans Fallén (双翅目: イエバエ科) の染色体レベルのゲノムアセンブリ",
+    "abstract_ja": "学術データ、オンライン公開：2026年11月7日；doi:10.1038/s41597-026-08509-0A Muscina stabulans Fallén (Diptera: Muscidae) の染色体レベルのゲノムアセンブリ"
   }
 ]
