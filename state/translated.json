@@ -179449,13 +179449,18 @@
         "source": "Europe PMC bioinformatics",
         "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "scope": "candidate"
+      },
+      {
+        "source": "https://academic.oup.com/rss/site_5281/advanceAccess_3147.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
       }
     ],
     "publication_types": [
       "journal article"
     ],
     "id": "10.1093/gbe/evag275",
-    "title": "Conserved and taxon-restricted orthogroup expansions of pan-eukaryotic protein complexes.",
+    "title": "Conserved and taxon-restricted orthogroup expansions of pan-eukaryotic protein complexes",
     "abstract": "Protein complexes are central to cell biology and typically verified via a combination of interaction data, complete genome sequencing and comprehensive protein-coding gene predictions for reference eukaryotes. However, this information is lacking for non-reference eukaryotes. Protein complexes can be predicted in species for which no interaction data is available by mapping orthology of verified protein complex components from reference eukaryotes to predicted proteomes. Studies that map conservation of protein complex components by orthology are often limited to a small number of protein queries, an under-representation of non-reference, microbial eukaryotes and are scattered across the literature. Here, I integrate orthology and protein interaction data by mapping proteins of experimentally verified complexes to orthogroups of proteins spanning 31 diverse eukaryotes. Proteins within complex-harbouring orthogroups are retained and distributed more evenly across taxa than non-complex orthogroups. I identified 184 universal orthogroups that included orthologs of known protein complex components from all 31 eukaryotes, consistent with a conserved core repertoire, likely present in the last eukaryotic common ancestor (LECA). I generated the protein complex orthology cartographer (PCOC) suite to find significant duplications and reductions of proteins in universal orthogroups across and between eukaryotes. This revealed both multi-copy and notably single-copy proteins, in all queried species, from the exosome, spliceosome, proteasome, small-ribosomal processome, tRNA synthetases, MCM complexes and RNA polymerase III. Case analyses of Naegleria gruberi and Guillardia theta highlight taxon-specific expansions and show how broader protist inclusion improves domain-wide inference of eukaryotic protein-complex evolution.",
     "journal": "Genome Biology and Evolution",
     "doi": "10.1093/gbe/evag275",
@@ -179465,7 +179470,7 @@
       "微生物ゲノミクス",
       "微生物進化"
     ],
-    "source_url": "https://europepmc.org/article/MED/43006768",
+    "source_url": "https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evag275/9027003?rss=1",
     "preprint": false,
     "review": false,
     "pmcid": "",
@@ -179500,29 +179505,30 @@
     "collected_at": "2026-11-13T07:56:57.456049+00:00",
     "collected_date": "2026-11-13",
     "sources": [
-      "Europe PMC bioinformatics"
+      "Europe PMC bioinformatics",
+      "https://academic.oup.com/rss/site_5281/advanceAccess_3147.xml"
     ],
     "first_seen": "2026-11-13",
     "related_dois": [
       "10.1093/gbe/evag275"
     ],
     "translation": {
-      "title": {
-        "hash": "62a68d3012f3ee778cccc2c66037b2008ed793878181e52e9f1b2c216b04b88a",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-13T08:32:18.731412+00:00",
-        "format": "pfml3-ja-v1"
-      },
       "abstract": {
         "hash": "8b0eac66fc1568fde8979ed2b6fb1b48b458c00dec7071487000a8e1774876c7",
         "model": "plamo-3-translate-2b",
         "date": "2026-11-13T08:32:18.731412+00:00",
         "format": "pfml3-ja-v1"
+      },
+      "title": {
+        "hash": "39a9f592d0ffa9a1147b436e62ecdfa89ed03cb2b68da1000648c5de0b327c02",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:08:23.698750+00:00",
+        "format": "pfml3-ja-v1"
       }
     },
+    "abstract_ja": "タンパク質複合体は細胞生物学の中核をなすものであり、通常は相互作用データ、全ゲノムシーケンシング、および参照真核生物に対する包括的なタンパク質符号化遺伝子予測を組み合わせて検証される。しかし、非参照真核生物においては、こうした情報が不足している。相互作用データが存在しない種においても、参照真核生物で検証済みのタンパク質複合体構成要素のオーソロジーを予測プロテオームにマッピングすることで、タンパク質複合体を予測することが可能である。オーソロジーによるタンパク質複合体構成要素の保存性をマッピングする研究は、少数のタンパク質クエリに限定されることが多く、非参照の微生物真核生物の代表性が不十分であり、文献間でも散在している。本研究では、実験的に検証された複合体のタンパク質を、31種の多様な真核生物にわたるタンパク質のオーソグループにマッピングすることで、オーソロジーとタンパク質相互作用データを統合した。複合体を保持するオーソグループ内のタンパク質は、複合体を持たないオーソグループよりも保持され、分類群間でより均等に分布していた。私は、全31種の真核生物から既知のタンパク質複合体構成要素のオーソログを含む184個のユニバーサル・オーソグループを同定した。これは、おそらく最後の真核生物共通祖先（LECA）に存在していた保存的なコアレパトアと整合する。私は、真核生物間および真核生物間でユニバーサル・オーソグループにおけるタンパク質の有意な重複および減少を特定するため、タンパク質複合体オーソロジー・カートグラファー（PCOC）スイートを構築した。これにより、クエリしたすべての種において、エクソソーム、スプライソソーム、プロテアソーム、小リボソームプロセソーム、tRNA合成酵素、MCM複合体、およびRNAポリメラーゼIIIから、マルチコピータンパク質と顕著なシングルコピータンパク質の両方が明らかになった。Naegleria gruberiおよびGuillardia thetaのケース解析では、分類群特異的な拡張が浮き彫りになり、原生生物をより広範に含めることで、真核生物のタンパク質複合体進化に関するドメインワイドな推論が向上することが示された。",
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "汎真核タンパク質複合体の保存的かつ分類群に限定されたオルソグループ拡張",
-    "abstract_ja": "タンパク質複合体は細胞生物学の中核をなすものであり、通常は相互作用データ、全ゲノムシーケンシング、および参照真核生物に対する包括的なタンパク質符号化遺伝子予測を組み合わせて検証される。しかし、非参照真核生物においては、こうした情報が不足している。相互作用データが存在しない種においても、参照真核生物で検証済みのタンパク質複合体構成要素のオーソロジーを予測プロテオームにマッピングすることで、タンパク質複合体を予測することが可能である。オーソロジーによるタンパク質複合体構成要素の保存性をマッピングする研究は、少数のタンパク質クエリに限定されることが多く、非参照の微生物真核生物の代表性が不十分であり、文献間でも散在している。本研究では、実験的に検証された複合体のタンパク質を、31種の多様な真核生物にわたるタンパク質のオーソグループにマッピングすることで、オーソロジーとタンパク質相互作用データを統合した。複合体を保持するオーソグループ内のタンパク質は、複合体を持たないオーソグループよりも保持され、分類群間でより均等に分布していた。私は、全31種の真核生物から既知のタンパク質複合体構成要素のオーソログを含む184個のユニバーサル・オーソグループを同定した。これは、おそらく最後の真核生物共通祖先（LECA）に存在していた保存的なコアレパトアと整合する。私は、真核生物間および真核生物間でユニバーサル・オーソグループにおけるタンパク質の有意な重複および減少を特定するため、タンパク質複合体オーソロジー・カートグラファー（PCOC）スイートを構築した。これにより、クエリしたすべての種において、エクソソーム、スプライソソーム、プロテアソーム、小リボソームプロセソーム、tRNA合成酵素、MCM複合体、およびRNAポリメラーゼIIIから、マルチコピータンパク質と顕著なシングルコピータンパク質の両方が明らかになった。Naegleria gruberiおよびGuillardia thetaのケース解析では、分類群特異的な拡張が浮き彫りになり、原生生物をより広範に含めることで、真核生物のタンパク質複合体進化に関するドメインワイドな推論が向上することが示された。"
+    "title_ja": "汎真核タンパク質複合体の保存的かつ分類群限定的なオルソグループ拡張"
   },
   {
     "id": "10.3389/fmicb.2026.1899514",
@@ -194393,5 +194399,233 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "scMRdb: 複雑な形質の細胞型解像度によるメンデルランダム化に関する包括的なリソース。",
     "abstract_ja": "メンデルランダム化（MR）法は、遺伝的変異を操作変数として用いることで、交絡や逆因果関係を軽減し、遺伝子発現とヒト疾患との間の推定因果関係を推論する強力な解析手法である。しかし、既存のMRリソースは主にバルク組織発現量的形質遺伝子座（eQTL）に依存しており、細胞集団全体の発現を平均化することで、細胞種特異的な転写効果を覆い隠している。さらに、シングルセルeQTL（sc-eQTL）MR解析による細胞種分解の因果的エビデンスは、個々の研究間で断片化されており、ワークフローも一貫していないため、標準化された細胞種間比較を行うことが困難である。本研究では、ヒトの複雑な形質および疾患を対象とした細胞種分解MRの包括的リソースであるscMRdb（https://ngdc.cncb.ac.cn/scmrdb）を提案する。scMRdbは、欧州系および東アジア系の祖先を持つ5,206件のゲノムワイド関連解析（GWAS）要約統計量と、110種類の細胞種を含む11の組織・細胞系にわたる585件のsc-eQTLデータセットを整合させる。統一的なパイプラインにより、すべての遺伝子-形質ペアをMRで評価し、続いてSteiger方向性検定を行う。有意な関連は共局在法によって評価され、結果は統合的な薬剤-標的アノテーションを備えた6段階の信頼度レベルに層別化される。scMRdbは、バルク組織解析では希釈されたり不明確になったりしがちな細胞種分解の調節エビデンスに裏付けられた、候補因果遺伝子の系統的な回収を可能にする。我々は、scMRdbが細胞種情報に基づいた機序仮説の生成や、複雑なヒト疾患に対する実行可能な治療標的の優先順位付けを行うための、ユーザーフレンドリーなポータルとして機能することを期待している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01504-26",
+    "title": "Modulation of the general stress response impacts protein expression, energy economy, and heterogeneity in virtually non-dividing yeast cultures.",
+    "abstract": "Microbial cells adapt their physiology when growth is restricted by nutrient limitation, balancing survival with the capacity to produce proteins. Here, we investigated this adaptation in Saccharomyces cerevisiae by comparing retentostat cultures, in which specific growth rates reached below 0.001 h⁻¹, of a reference strain (ScNTi001) and a ∆msn2∆msn4 mutant (ScNTm001). We show that general stress-response transcription factors Msn2 and Msn4 are crucial for maintaining energy efficiency and for survival under this extreme calorie restriction. Their absence increased population heterogeneity and reduced viability, underscoring a role beyond merely stress resistance. To understand (heterologous) protein expression dynamics, we monitored how a stress-inducible promoter (PHSP12) and a constitutive promoter (PTEF1) impacted protein levels. The PHSP12 remained active at moderate to low growth rates, but expression sharply dropped below 0.001 h⁻¹, whereas the PTEF1 sustained protein expression, with activity linked to specific glucose uptake rates rather than growth rate. This decoupling revealed a trade-off: although PTEF1-driven ymNeongreen-specific production rates were 70% higher in the absence of ∆msn2∆msn4, overall product yields were 13% lower.ImportanceThis study demonstrates how Msn2 and Msn4 govern cellular robustness under extreme nutrient-limited conditions at near-zero growth rates. It also guides promoter selection strategies for growth-independent production processes. More broadly, this study shows that retentostats can be used as a valuable tool to dissect stress-response pathways, survival mechanisms, and growth-independent expression systems in microbial cell factories.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01504-26",
+    "date": "2026-11-09",
+    "authors": "Temelli N, Raats SAC, Lucheti PR, Weusthuis RA, Bisschops MMM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001889",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001889",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "microbial",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1611,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/aem.01504-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "74f6b77caa31e076958383355d6f917031ee05e85a6ff8552d556c0bf50c3c6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:08:23.698750+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8818d99a4fbeb1182dd23811e52df57c62d78726a207c2101e503a50bf4662bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:08:23.698750+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ほぼ無分裂の酵母培養系において、全般的なストレス応答の調節は、タンパク質発現、エネルギー代謝、および不均一性に影響を及ぼす。",
+    "abstract_ja": "微生物細胞は、栄養制限によって増殖が抑制されると、タンパク質産生能力と生存のバランスを取りながら生理機能を適応させる。本研究では、特定の増殖速度が0.001 h⁻¹を下回るリテントスタット培養において、参照株（ScNTi001）と∆msn2∆msn4変異株（ScNTm001）を比較することで、Saccharomyces cerevisiaeにおけるこの適応機構を調査した。我々は、一般的なストレス応答転写因子であるMsn2およびMsn4が、この極端なカロリー制限下でのエネルギー効率の維持と生存に不可欠であることを示した。これらの因子が欠如すると集団の不均一性が増大し、生存率が低下したことから、単なるストレス耐性にとどまらない役割があることが浮き彫りとなった。（異種）タンパク質発現動態を理解するため、ストレス誘導性プロモーター（PHSP12）と構成的プロモーター（PTEF1）がタンパク質レベルにどのような影響を与えるかをモニタリングした。PHSP12は中程度から低い増殖速度においても活性を維持していたが、発現量は0.001 h⁻¹を下回って急激に低下した。一方、PTEF1はタンパク質発現を維持し、その活性は増殖速度ではなく特定のグルコース取り込み速度に連動していた。この脱共役により、トレードオフが明らかになった。すなわち、∆msn2∆msn4が欠如した状態では、PTEF1駆動によるymNeongreen特異的な産生速度は70%高かったものの、全体の産物収量は13%低下していた。重要性 本研究は、増殖速度がほぼゼロに近い極端な栄養制限条件下において、Msn2およびMsn4が細胞の頑健性をどのように制御しているかを実証するものである。また、増殖に依存しない生産プロセスにおけるプロモーター選択戦略の指針ともなる。より広範には、本研究は、リテントスタットが微生物細胞工場におけるストレス応答経路、生存機構、および増殖に依存しない発現系を解析するための有用なツールとなり得ることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1991703",
+    "title": "Double-probe rolling circle amplification with lateral flow readout for highly specific detection of the phytopathogenic and keratocutaneous pathogen <i>Fusarium proliferatum</i>.",
+    "abstract": "Fusarium proliferatum is a soilborne phytopathogenic fungus that poses a serious threat to global crop production owing to its broad host range, strong toxigenicity, and wide distribution. Beyond its agricultural impact, this fungus has also emerged as an opportunistic pathogen capable of infecting human cornea and skin, particularly in immunocompromised individuals. Rapid and accurate on-site detection is critical for early disease intervention. In this study, we adapted and optimized a dual-probe rolling circle amplification integrated with lateral flow assay (dpRCA-LFA) for the specific detection of F. proliferatum, building on previously reported dpRCA-LFA principles. The main contributions of this work are the design of F. proliferatum-specific probes and the optimization of the reaction system for soil and field sample testing. The conventional single padlock probe was redesigned into two probes (long probe and short probe), establishing a dual-recognition mechanism that substantially enhances specificity. Under optimized conditions, the lowest concentration at which a visible positive signal was observed was 6.6 × 10-4 ng μL-1 for genomic DNA and 2.7 × 102 copies μL-1 for recombinant plasmid containing the TEF-1α. These values represent the detection end-points under the tested conditions rather than statistically established limits of detection, and correspond to a 100-fold improvement over conventional PCR-AGE in the tested dilution series. Specificity testing against 19 fungal strains yielded positive signals exclusively for F. proliferatum. The assay exhibited robust anti-interference performance, with consistent detection even when target DNA constituted only 1% of total DNA. In artificially inoculated soil samples, dpRCA-LFA achieved a 10-fold higher sensitivity than PCR-AGE. In field samples, dpRCA-LFA identified five positive samples versus four detected by PCR-AGE. Given the limited number of field samples, this difference is presented as a preliminary observation rather than a demonstration of superior field performance. The entire process, from amplification to visual result interpretation, can be completed within 90 min without requiring specialized equipment. Collectively, dpRCA-LFA offers a rapid, sensitive, and specific tool for the detection of F. proliferatum in fungal cultures and soil matrices, with potential utility for decentralized screening after suitable DNA extraction and controlled reaction processing. Clinical application remains a future direction.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1991703",
+    "date": "2026-10-28",
+    "authors": "Liu F, Xia W, Wu H, Wang Y, Zhang Y, Li X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43017107",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43017107",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2013,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1991703"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ed2f3525e3f2ff1a385f2e069370d6ef6379cd5424c35d426220e868c65c3429",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:08:23.698750+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f4ff5629de7859a9698d8261cf05a926f2c2e3f2e52732804a55586e8c9b2fe1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:08:23.698750+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "植物病原性および角皮道病原体<i>Fusarium proliferatum</i>の極めて特異的な検出のための、側方フロー読み出し方式による二重プローブローリングサークル増幅法。",
+    "abstract_ja": "Fusarium proliferatumは、宿主範囲が広く、強い毒性を有し、分布域も広いため、世界的な作物生産に深刻な脅威をもたらす土壌伝染性植物病原菌である。農業への影響にとどまらず、本菌はヒトの角膜や皮膚、特に免疫不全状態にある個体に感染し得る日和見病原体としても出現している。早期の病害介入には、迅速かつ正確な現場検出が不可欠である。本研究では、既報のdpRCA-LFAの原理に基づき、F. proliferatumを特異的に検出するための、ラテラルフローアッセイと統合したデュアルプローブ・ローリングサークル増幅法（dpRCA-LFA）を改良・最適化した。本研究の主な貢献は、F. proliferatum特異的プローブの設計と、土壌および圃場試料検査のための反応系の最適化である。従来の単一パッドロックプローブを2本のプローブ（ロングプローブおよびショートプローブ）へと再設計し、特異性を大幅に向上させるデュアル認識機構を確立した。最適化条件下において、可視的な陽性シグナルが観察された最低濃度は、ゲノムDNAで6.6 × 10-4 ng μL-1、TEF-1αを含む組換えプラスミドで2.7 × 102 copies μL-1であった。これらの値は、統計的に確立された検出限界ではなく、試験条件下における検出エンドポイントを示すものであり、試験した希釈系列において従来のPCR-AGE比で100倍の向上に相当する。19株の真菌株に対する特異性試験では、F. proliferatumに対してのみ陽性シグナルが得られた。本アッセイは堅牢な抗干渉性能を示し、標的DNAが全DNAのわずか1%である場合でも一貫した検出が可能であった。人工接種した土壌試料において、dpRCA-LFAはPCR-AGEよりも10倍高い感度を達成した。圃場試料では、dpRCA-LFAが5検体の陽性サンプルを同定したのに対し、PCR-AGEでは4検体であった。圃場試料の数が限られていたため、この差異は優れた圃場性能の実証ではなく、予備的な観察結果として提示する。増幅から視覚的な結果解釈に至る全工程は、専用機器を必要とせず90分以内に完了できる。総じて、dpRCA-LFAは、真菌培養物および土壌マトリックスにおけるF. proliferatum検出のための迅速、高感度かつ特異的なツールであり、適切なDNA抽出および制御された反応処理を経れば、分散型スクリーニングへの活用が期待される。臨床応用は今後の方向性である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jb.00324-26",
+    "title": "<i>Porphyromonas gingivalis</i> TonB2 is required for protease maturation and cell surface remodeling.",
+    "abstract": "TonB-dependent transport systems are essential for nutrient acquisition in Gram-negative bacteria. Although Porphyromonas gingivalis, a major periodontal pathogen, encodes multiple TonB-dependent receptors (TBDT), the identity and function of its TonB energy transducers remain poorly understood. Here, we identified three putative TonB proteins encoded by PG0633 (TonB1), PG0785 (TonB2), and PG2185 (TonB3), and generated a TonB2-deficient strain to investigate its biological role. Bioinformatics analyses revealed that TonB2 possesses unique structural features conserved within members of the Cytophaga-Flavobacterium-Bacteroides (CFB) group while retaining a C-terminal domain homologous to well-characterized TonB proteins from Helicobacter pylori and Escherichia coli. Both protein sequence similarity and genomic organization further support the conservation of TonB2 among members of the phylum Bacteroidota. Loss of TonB2 resulted in extensive proteomic remodeling, including increased abundance of proteins involved in gene regulation, translation, protection against oxidative and nitrosative stress, and glycosylation, accompanied by decreased levels of proteins associated with polysaccharide export, efflux systems, and lipoprotein biogenesis. Phenotypic analyses demonstrated that the TonB2-deficient mutant was impaired in heme accumulation at the cell surface, exhibited reduced gingipain activity, and displayed diminished capsule production. Furthermore, although the mutant adhered to and invaded host cells more efficiently than the wild type, its intracellular survival was significantly compromised. Collectively, these findings reveal an unexpected role for TonB2 in cell surface biogenesis, virulence-associated functions, and host-pathogen interactions, expanding our understanding of TonB system versatility and suggesting functional crosstalk between the TonB and Tol energy transduction systems.ImportanceThe TonB system is a major energy-transducing complex in Gram-negative bacteria, but its functions outside classical nutrient acquisition remain poorly understood, particularly in the phylum Bacteroidota. Here, we show that Porphyromonas gingivalis TonB2 plays a role distinct from canonical TonB-dependent transport. Rather than primarily supporting iron uptake, TonB2 contributes to gingipain maturation, capsule production, cell surface organization, and interactions with host cells. These diverse phenotypes suggest a broader role in coordinating cell envelope biogenesis and integrity. We propose that TonB2 has been adapted to couple energy transduction with envelope maintenance, revealing an unexpected functional diversification of TonB proteins that supports virulence and cellular homeostasis.",
+    "journal": "Journal of Bacteriology",
+    "doi": "10.1128/jb.00324-26",
+    "date": "2026-11-10",
+    "authors": "Rostami S, Belvin BR, Lewis JP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43007055",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43007055",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1578,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/jb.00324-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6bf6bc92056bf6fb6dc7c12a43bb2cce31e9b1d995b1685b64e784661fe0267b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:08:23.698750+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "15098095c49cb763d642855137c92e764d35ce78df8fb28dfca0f3e1fcb0ea46",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:08:23.698750+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Porphyromonas gingivalis</i> TonB2は、プロテアーゼの成熟および細胞表面リモデリングに必要である。",
+    "abstract_ja": "TonB依存性輸送系は、グラム陰性菌における栄養獲得に不可欠である。主要な歯周病原菌であるPorphyromonas gingivalisは、複数のTonB依存性受容体（TBDT）をコードしているものの、そのTonBエネルギー変換因子の実体と機能については十分に解明されていない。本研究では、PG0633（TonB1）、PG0785（TonB2）、およびPG2185（TonB3）によってコードされる3種類の推定TonBタンパク質を同定し、TonB2欠損株を作製してその生物学的役割を検討した。バイオインフォマティクス解析により、TonB2は、Cytophaga-Flavobacterium-Bacteroides（CFB）群のメンバー間で保存された独自の構造的特徴を有する一方で、Helicobacter pyloriおよびEscherichia coli由来の十分に特性解析されたTonBタンパク質と相同なC末端ドメインを保持していることが明らかになった。タンパク質配列の類似性とゲノム構成の双方が、Bacteroidota門のメンバー間でのTonB2の保存性をさらに裏付けている。TonB2の欠損は、遺伝子調節、翻訳、酸化・ニトロ化ストレスからの保護、および糖鎖付加に関与するタンパク質の存在量増加を含む広範なプロテオームリモデリングを引き起こし、それに伴い多糖類の輸出、排出系、およびリポタンパク質生合成に関連するタンパク質のレベルが低下した。表現型解析により、TonB2欠損変異株は細胞表面におけるヘム蓄積能が低下し、ジンジパイン活性が減弱し、莢膜産生が減少することが示された。さらに、この変異株は野生型よりも効率的に宿主細胞に接着・侵入したものの、細胞内での生存能は著しく損なわれていた。総じて、これらの知見は、細胞表面生合成、病原性関連機能、および宿主・病原体間相互作用におけるTonB2の予期せぬ役割を明らかにするものであり、TonB系の汎用性に関する理解を広げるとともに、TonBおよびTolエネルギー変換系間の機能的なクロストークを示唆している。重要性TonB系はグラム陰性菌における主要なエネルギー変換複合体であるが、古典的な栄養獲得以外の機能については、特にBacteroidota門において十分に解明されていない。本研究では、Porphyromonas gingivalisのTonB2が、典型的なTonB依存性輸送とは異なる役割を担っていることを示す。TonB2は主に鉄の取り込みを支えるのではなく、ジンジパインの成熟、莢膜産生、細胞表面の構成、および宿主細胞との相互作用に寄与している。これらの多様な表現型は、細胞包膜の生合成と完全性の協調におけるより広範な役割を示唆している。我々は、TonB2がエネルギー変換と包膜維持を連動させるように適応したことを提唱し、病原性と細胞恒常性を支えるTonBタンパク質の予期せぬ機能的多様化を明らかにした。"
   }
 ]
