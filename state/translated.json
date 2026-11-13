@@ -10538,7 +10538,7 @@
     "id": "10.64898/2026.11.03.763925",
     "doi": "10.64898/2026.11.03.763925",
     "title": "Sourmash accurately profiles strains from long-read metagenomes preserving gene content",
-    "abstract": "Background. Metagenomic strain-level profiling remains challenging because closely related bacterial strains often share more than 99% average nucleotide identity (ANI). However, they can differ substantially in gene content and functional potential. Sourmash uses k-mer sketches with FracMinHash to compare sequencing reads against reference databases, which makes it an interesting approach for strain-level profiling. Because it compares sketches rather than full alignments, it enables fast searches against large reference databases. However, its ability to recover biologically relevant strains and preserve community gene content has not been specifically assessed. Here, we evaluated the performance of sourmash for strain-level identification abundance, functional gene content recovery, and abundance estimations using five mock communities of increasing complexity with known composition. Results. We first assessed whether nucleotide similarity reflects functional similarity between strains. Gene content similarity was generally consistent with ANI but revealed important divergences between closely related strains. For example, Escherichia coli strains sharing more than 98% ANI showed gene content similarities ranging from 20% to 57%, highlighting that nucleotide similarity alone is insufficient to assess functional proximity and consequently the accuracy of strain identification. Above sufficient genome coverage, sourmash identified strains either exactly or with closely related strains sharing highly conserved gene content. These closely related strains provided a biologically relevant representation of the expected functional potential of the mock communities. Gene content recovery was highly accurate, with F1 scores ranging from 0.942 to 0.998 across the five mock communities. Genome abundances estimated against sourmash-identified genomes closely matched the expected community composition: Pearson correlation coefficients ranged from 0.823 to 1 at strain level and from 0.978 to 1 at species level. Conclusions. Our results show that sourmash provides a biologically relevant approach for strain-level characterisation in microbial ecosystems. Even when the exact strain could not be identified, closely related strains retained most of the expected gene content and abundance estimations were accurate, supporting the use of sourmash for downstream functional profiling or metabolic network reconstruction.",
+    "abstract": "Background:  Metagenomic strain-level profiling remains challenging because closely related bacterial strains often share more than 99% average nucleotide identity (ANI). However, they can differ substantially in gene content and functional potential. Sourmash uses k-mer sketches with FracMinHash to compare sequencing reads against reference databases, which makes it an interesting approach for strain-level profiling. Because it compares sketches rather than full alignments, it enables fast searches against large reference databases. However, its ability to recover biologically relevant strains and preserve community gene content has not been specifically assessed. Here, we evaluated the performance of sourmash for strain-level identification abundance, functional gene content recovery, and abundance estimations using five mock communities of increasing complexity with known composition. Results. We first assessed whether nucleotide similarity reflects functional similarity between strains. Gene content similarity was generally consistent with ANI but revealed important divergences between closely related strains. For example, Escherichia coli strains sharing more than 98% ANI showed gene content similarities ranging from 20% to 57%, highlighting that nucleotide similarity alone is insufficient to assess functional proximity and consequently the accuracy of strain identification. Above sufficient genome coverage, sourmash identified strains either exactly or with closely related strains sharing highly conserved gene content. These closely related strains provided a biologically relevant representation of the expected functional potential of the mock communities. Gene content recovery was highly accurate, with F1 scores ranging from 0.942 to 0.998 across the five mock communities. Genome abundances estimated against sourmash-identified genomes closely matched the expected community composition: Pearson correlation coefficients ranged from 0.823 to 1 at strain level and from 0.978 to 1 at species level. Conclusions. Our results show that sourmash provides a biologically relevant approach for strain-level characterisation in microbial ecosystems. Even when the exact strain could not be identified, closely related strains retained most of the expected gene content and abundance estimations were accurate, supporting the use of sourmash for downstream functional profiling or metabolic network reconstruction.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -10547,22 +10547,26 @@
       "10.64898/2026.11.03.763925"
     ],
     "date": "2026-11-04",
-    "authors": "Angevin, L.; Lipovac, J.; Peterlongo, P.; Roux, E.; Vicedomini, R.",
+    "authors": "Angevin L, Lipovac J, Peterlongo P, Roux E, Vicedomini R.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763925v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1358732",
     "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC genome methods",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "Escherichia",
+        "bacteria",
         "bacterial",
+        "metagenom",
         "metagenomes",
         "metagenomic",
         "microbial"
@@ -10571,7 +10575,10 @@
         "marine": [],
         "genomics": [
           "genom",
-          "metagenom"
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
         ],
         "evolution": []
       },
@@ -10579,6 +10586,29 @@
         "微生物ゲノミクス"
       ]
     },
+    "collection_order": 170,
+    "collected_at": "2026-11-06T00:00:00+09:00",
+    "collected_date": "2026-11-06",
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
         "hash": "d22e4fb7c561a527f9bdaa31519a5b9a6fdb50607fcb824a2a556ffcf4d96315",
@@ -10587,16 +10617,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "f33e2a517f1036b650e78d9f0e5e8337f2157a66a0de35255d40ce9b65620fcc",
+        "hash": "9ab7e567546aa6b6037a97424749ea58d0ef859cfce1b0e595a2581fc8cbaf6d",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T14:19:32.887260+00:00",
+        "date": "2026-11-13T23:49:45.113608+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Sourmashは、遺伝子内容を保持したまま、ロングリードメタゲノムから菌株を正確にプロファイリングする。",
-    "abstract_ja": "背景。近縁な細菌株間で平均塩基同一性（ANI）が99%を超えることが多いため、メタゲノムの菌株レベルプロファイリングは依然として困難な課題である。しかし、遺伝子内容や機能的ポテンシャルには著しい差異が見られることがある。Sourmashは、FracMinHashを用いたk-merスケッチによりシーケンシングリードを参照データベースと比較する手法を採用しており、これは菌株レベルプロファイリングにおいて興味深いアプローチである。完全なアライメントではなくスケッチを比較するため、大規模な参照データベースに対する高速な検索が可能となる。しかしながら、生物学的に意義のある菌株を復元し、コミュニティの遺伝子内容を保持する能力については、具体的に評価されていない。本研究では、組成が既知で複雑度が増す5つのモックコミュニティを用い、菌株レベルの同定量、機能的遺伝子内容の復元、および存在量推定におけるSourmashの性能を評価した。結果。まず、塩基類似性が菌株間の機能的類似性を反映しているかを検証した。遺伝子内容の類似性は概ねANIと一致していたが、近縁な菌株間では重要な分岐が認められた。例えば、ANIが98%を超える大腸菌（Escherichia coli）株間では、遺伝子内容の類似性が20%から57%の範囲にあり、塩基類似性だけでは機能的近接性、ひいては菌株同定の精度を評価するには不十分であることが浮き彫りとなった。十分なゲノムカバレッジにおいて、Sourmashは菌株を正確に同定するか、あるいは高度に保存された遺伝子内容を共有する近縁な菌株を同定した。これらの近縁菌株は、モックコミュニティに期待される機能的ポテンシャルを生物学的に意義のある形で表現していた。遺伝子内容の復元精度は非常に高く、5つのモックコミュニティ全体でF1スコアは0.942から0.998の範囲であった。Sourmashで同定されたゲノムに基づいて推定したゲノム存在量は、期待されるコミュニティ組成と密接に一致した。ピアソン相関係数は、菌株レベルで0.823から1、種レベルで0.978から1の範囲であった。結論。本研究の結果は、Sourmashが微生物生態系における菌株レベルの特性解析において、生物学的に意義のあるアプローチを提供することを示している。正確な菌株を同定できなかった場合でも、近縁な菌株は期待される遺伝子内容の大部分を保持しており、存在量推定も正確であったため、ダウンストリームの機能的プロファイリングや代謝ネットワークの再構築へのSourmashの活用が支持される。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "背景：メタゲノムの菌株レベルプロファイリングは、近縁な細菌株間で平均塩基同一性（ANI）が99%を超えることが多いため、依然として困難な課題である。しかし、遺伝子内容や機能的ポテンシャルには著しい差異が見られることがある。Sourmashは、FracMinHashを用いたk-merスケッチによりシーケンシングリードを参照データベースと比較する手法を採用しており、これは菌株レベルプロファイリングにおいて興味深いアプローチである。完全なアライメントではなくスケッチを比較するため、大規模な参照データベースに対する高速な検索が可能となる。しかし、生物学的に関連のある菌株を復元し、コミュニティの遺伝子内容を保持する能力については、具体的に評価されていない。本研究では、組成が既知で複雑度が段階的に増加する5つのモックコミュニティを用い、菌株レベルの同定量、機能的遺伝子内容の復元、および存在量推定におけるSourmashの性能を評価した。結果。まず、塩基類似性が菌株間の機能的類似性を反映しているかを検証した。遺伝子内容の類似性は概ねANIと一致していたが、近縁な菌株間では重要な分岐が認められた。例えば、ANIが98%を超える大腸菌（Escherichia coli）株間では、遺伝子内容の類似性が20%から57%の範囲にあり、塩基類似性だけでは機能的近接性、ひいては菌株同定の精度を評価するには不十分であることが浮き彫りとなった。十分なゲノムカバレッジにおいて、Sourmashは菌株を正確に同定するか、あるいは高度に保存された遺伝子内容を共有する近縁菌株を同定した。これらの近縁菌株は、モックコミュニティに期待される機能的ポテンシャルを生物学的に適切に表現していた。遺伝子内容の復元精度は非常に高く、5つのモックコミュニティ全体でF1スコアは0.942から0.998の範囲であった。Sourmashで同定されたゲノムに基づいて推定されたゲノム存在量は、期待されるコミュニティ組成と密接に一致していた。ピアソン相関係数は、菌株レベルで0.823から1、種レベルで0.978から1の範囲であった。結論。本研究の結果は、Sourmashが微生物生態系における菌株レベルの特性解析において、生物学的に適切なアプローチを提供することを示している。正確な菌株を同定できなかった場合でも、近縁菌株は期待される遺伝子内容の大部分を保持しており、存在量推定も正確であった。このことは、後続の機能的プロファイリングや代謝ネットワークの再構築におけるSourmashの利用を支持するものである。"
   },
   {
     "id": "10.64898/2026.10.29.762618",
@@ -10645,7 +10674,7 @@
     "id": "10.64898/2026.11.03.763908",
     "doi": "10.64898/2026.11.03.763908",
     "title": "SeCAT (Sequence Consensus Amplicon Trimming): a simulation-informed Nextflow pipeline for cross-study harmonisation of 16S rRNA metabarcoding datasets",
-    "abstract": "Global syntheses of 16S rRNA metabarcoding data rely on combining datasets, yet amplicon sequence variants generated with different primer pairs can rarely be compared directly. Existing approaches correct batch effects statistically or aggregate taxonomically; none first establishes whether the sequences are positionally comparable. We present SeCAT (Sequence Consensus Amplicon Trimming), a Nextflow pipeline that maps every studys variants onto a 16S rRNA full-length reference alignment, determines the largest window shared across studies, and tests by simulation whether trimming to that window degrades community structure before any data are merged. Applied to thirteen marine studies sequenced with three primer sets, twelve converged on a consensus window with a median trimmed read length of 249 bp (9,582 alignment columns). Degradation tests across twelve studies and six taxonomic ranks (72 study-rank combinations) returned 31 passes, 38 cautions and three confirmed failures. Eleven studies (682 samples after filtering) were harmonised (trimmed to the window and merged), collapsing 20,891 primer-specific variants into 12,667 MetaASVs, trimmed sequences deduplicated across studies. Harmonisation preserved community structure at family level (Mantel r = 1.00; Procrustes m{superscript 2} < 0.001) without adding between-study variance (|{Delta}R{superscript 2}| < 0.001). Alpha diversity, including observed richness, was recovered across all levels (intraclass correlations 0.93-1.00), whereas sequence-level congruence was moderate (Procrustes m{superscript 2} = 0.52), as expected where between-study similarity at sequence level exists only after harmonisation. The harmonised output supports synthesis from aggregated ranks down to exact sequences. By establishing positional comparability before merging, SeCAT opens the archive of primer-fragmented 16S rRNA surveys to sequence-level synthesis.",
+    "abstract": "Global syntheses of 16S rRNA metabarcoding data rely on combining datasets, yet amplicon sequence variants generated with different primer pairs can rarely be compared directly. Existing approaches correct batch effects statistically or aggregate taxonomically; none first establishes whether the sequences are positionally comparable. We present SeCAT (Sequence Consensus Amplicon Trimming), a Nextflow pipeline that maps every study’s variants onto a 16S rRNA full-length reference alignment, determines the largest window shared across studies, and tests by simulation whether trimming to that window degrades community structure before any data are merged. Applied to thirteen marine studies sequenced with three primer sets, twelve converged on a consensus window with a median trimmed read length of 249 bp (9,582 alignment columns). Degradation tests across twelve studies and six taxonomic ranks (72 study-rank combinations) returned 31 passes, 38 cautions and three confirmed failures. Eleven studies (682 samples after filtering) were harmonised (trimmed to the window and merged), collapsing 20,891 primer-specific variants into 12,667 MetaASVs, trimmed sequences deduplicated across studies. Harmonisation preserved community structure at family level (Mantel r = 1.00; Procrustes mZ < 0.001) without adding between-study variance (|ΔRZ| < 0.001). Alpha diversity, including observed richness, was recovered across all levels (intraclass correlations 0.93–1.00), whereas sequence-level congruence was moderate (Procrustes mZ = 0.52), as expected where between-study similarity at sequence level exists only after harmonisation. The harmonised output supports synthesis from aggregated ranks down to exact sequences. By establishing positional comparability before merging, SeCAT opens the archive of primer-fragmented 16S rRNA surveys to sequence-level synthesis.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -10654,33 +10683,65 @@
       "10.64898/2026.11.03.763908"
     ],
     "date": "2026-11-04",
-    "authors": "Terrey, D.; Huber, P.; Pereira, E.; Pelayo, M. C.; Ferguson, R. M. W.; Dumbrell, A. J.; Sweet, M.; Bani, A.; Metz, S.",
+    "authors": "Terrey D, Huber P, Pereira E, Pelayo MC, Ferguson RMW, Dumbrell AJ, Sweet M, Bani A, Metz S.",
     "tags": [
+      "微生物ゲノミクス",
       "海洋微生物"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763908v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1358687",
     "sources": [
+      "Europe PMC genome methods",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
-        "16s rrna"
+        "16S rRNA",
+        "16s rrna",
+        "alignment",
+        "pipeline",
+        "sequence",
+        "simulation"
       ],
       "context": {
         "marine": [
           "marine"
         ],
-        "genomics": [],
+        "genomics": [
+          "16S rRNA",
+          "alignment",
+          "pipeline",
+          "sequence",
+          "simulation"
+        ],
         "evolution": []
       },
       "tags": [
-        "海洋微生物"
+        "海洋微生物",
+        "微生物ゲノミクス"
       ]
     },
+    "collection_order": 172,
+    "collected_at": "2026-11-06T00:00:00+09:00",
+    "collected_date": "2026-11-06",
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
         "hash": "1aa31968e157e3befba705e10b677ee05b7067f92c2ec50ea3c2f5710665b871",
@@ -10689,16 +10750,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "bdbba9470c8acea7c4c709e00d2101298fd3efea72b3ac5269839f5d15d469be",
+        "hash": "bd15e985d2f514a19161e4f3bd283f0710971a7cfb895ebe97964db2f9ddb9be",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T14:19:32.887260+00:00",
+        "date": "2026-11-13T23:49:45.113608+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "SeCAT (Sequence Consensus Amplicon Trimming)：16S rRNAメタバーコーディングデータセットの研究間調和のためのシミュレーションに基づくNextflowパイプライン",
-    "abstract_ja": "16S rRNAメタバーコーディングデータのグローバルな統合は、データセットの統合に依存しているが、異なるプライマーペアで生成されたアンプリコン配列バリアントを直接比較できることは稀である。既存の手法では、バッチ効果を統計的に補正するか、あるいは分類学的に集約するものであり、配列が位置的に比較可能であるかをまず検証するものはない。本稿では、あらゆる研究のバリアントを16S rRNA全長リファレンスアライメントにマッピングし、研究間で共通する最大ウィンドウを特定した上で、データ統合前にそのウィンドウへのトリミングがコミュニティ構造を劣化させるかどうかをシミュレーションで検証するNextflowパイプライン「SeCAT (Sequence Consensus Amplicon Trimming)」を提案する。3組のプライマーセットを用いてシーケンシングされた13件の海洋研究に適用したところ、12件がコンセンサスウィンドウに収束し、トリミング後のリード長の中央値は249 bp（アライメント列数 9,582）であった。12件の研究および6つの分類学的ランク（72通りの研究・ランクの組み合わせ）にわたる劣化テストの結果、31回のパス、38回の注意、および3回の確定失敗が得られた。11件の研究（フィルタリング後のサンプル数 682）はハーモナイズ（ウィンドウへのトリミングおよび統合）され、20,891個のプライマー特異的バリアントが12,667個のMetaASVに集約され、トリミング済み配列は研究間で重複排除された。ハーモナイズにより、研究間の分散を加えることなくファミリーレベルでのコミュニティ構造が維持され（Mantel r = 1.00; Procrustes m{superscript 2} < 0.001）、研究間の類似性も保持された（|{Delta}R{superscript 2}| < 0.001）。観測されたリッチネスを含むアルファ多様性はすべてのレベルで回復し（クラス内相関 0.93-1.00）、一方で配列レベルの一致度は中程度であった（Procrustes m{superscript 2} = 0.52）。これは予想通り、配列レベルでの研究間類似性がハーモナイズ後にのみ現れる場合に認められる結果である。ハーモナイズされた出力は、集約ランクから正確な配列に至るまでの統合を可能にする。統合前に位置的な比較可能性を確立することで、SeCATはプライマー断片化された16S rRNAサーベイのアーカイブを配列レベルの統合へと開放する。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "16S rRNAメタバーコーディングデータのグローバルな統合は、データセットの統合に依存しているが、異なるプライマーペアで生成されたアンプリコン配列バリアントを直接比較できることは稀である。既存の手法は、バッチ効果を統計的に補正するか、あるいは分類学的に集約するものであり、配列の位置的な比較可能性をまず確立するものはない。本稿では、各研究のバリアントを16S rRNA全長リファレンスアライメントにマッピングし、研究間で共通する最大ウィンドウを特定した上で、データ統合前にそのウィンドウへのトリミングがコミュニティ構造を劣化させるかどうかをシミュレーションで検証するNextflowパイプライン「SeCAT (Sequence Consensus Amplicon Trimming)」を提案する。3組のプライマーセットを用いてシーケンシングされた13件の海洋研究に適用したところ、12件がコンセンサスウィンドウに収束し、トリミング後のリード長の中央値は249 bp（アライメント列数9,582）であった。12件の研究および6つの分類学的ランク（72通りの研究・ランクの組み合わせ）にわたる劣化テストの結果、31件のパス、38件の注意、および3件の確定失敗が得られた。11件の研究（フィルタリング後のサンプル数682）はハーモナイズ（ウィンドウへのトリミングおよび統合）され、20,891個のプライマー特異的バリアントが12,667個のMetaASVに集約され、トリミング済み配列は研究間で重複排除された。ハーモナイズにより、研究間の分散を加えることなくファミリーレベルでのコミュニティ構造が維持され（Mantel r = 1.00; Procrustes mZ < 0.001）、研究間の差異は生じなかった（|ΔRZ| < 0.001）。観測されたリッチネスを含むアルファ多様性はすべてのレベルで回復し（クラス内相関 0.93–1.00）、一方で配列レベルの一致度は中程度であった（Procrustes mZ = 0.52）。これは予想通りであり、配列レベルでの研究間類似性はハーモナイズ後にのみ現れる。ハーモナイズされた出力は、集約されたランクから正確な配列に至るまでの統合を可能にする。統合前に位置的な比較可能性を確立することで、SeCATはプライマー断片化された16S rRNAサーベイのアーカイブを配列レベルの統合へと開放する。"
   },
   {
     "id": "10.64898/2026.11.04.764206",
@@ -198346,5 +198406,145 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "クロマチンアクセシビリティ予測から明らかになった、造血系における非コード変異の系統構造的な影響",
     "abstract_ja": "背景。非コード変異はゲノムワイド関連解析（GWAS）の知見の90%以上を占めるが、そのメカニズムは不明なことが多い。配列機能モデルは、遺伝的変異が分子表現型に及ぼす影響を予測することで、変異の解釈に対する一つのアプローチを提供する。ChromBPNetはクロマチンアクセシビリティに対する変異の影響を予測するが、これらの予測が分化階層においてどのように構成され、直交する予測とどのように関連しているかは依然として不明である。結果。17種類の造血細胞株を対象にChromBPNetモデルを学習させ、302,830個の変異をスコアリングした。少なくとも1つの細胞株でアクセシブルであった242,307個の変異のうち、5.6%がクロマチンアクセシビリティを変化させると予測された。より多くの細胞株で活性を示す変異ほど、予測される影響が大きかった。予測された影響は造血系譜構造を反映しており、系譜距離とともに共有性は低下したが、親子比較の99.6%において影響の方向性は維持されていた。ChromBPNetの予測はGWASのファインマッピングと一致したが、大部分は個別の変異を同定した。ファインマッピングのみの変異は、コーディングおよび転写関連変異に富んでいた一方、ChromBPNetのみの変異は、調節エレメント、アクセシブルなクロマチン、および形質関連活性に富んでいた。K562 CRISPRiデータセットにおいて、予測されたアクセシビリティの向上は、標的遺伝子の検証との関連性が限定的であった。CTCFモチーフを含む調節エレメントは、検証済みの標的遺伝子を持つ可能性が低く、これは遺伝子活性化ではなくクロマチン組織化における役割と一致していた。結論。ChromBPNetとファインマッピングは、変異の機能に関する相補的な情報を提供する。予測されたアクセシビリティの影響は、非コード変異が作用する可能性が高い細胞株を特定し、造血系譜にわたる関係性を捉えるが、それらが調節する遺伝子に関する情報は限定的である。すべての予測結果は https://bloodnnet.ccbr.utoronto.ca/ で入手可能である。"
+  },
+  {
+    "id": "10.64898/2026.11.10.765651",
+    "title": "Divergent methane production and microbial community responses to carbon enrichment in freshwater wetland sediments",
+    "abstract": "Methane (CH4) accumulation in wetland sediments reflects interactions among organic matter, sediment chemistry, and microbial communities. We combined depth-resolved field characterization across four wetland habitats in northern Israel with complementary incubations to examine methane accumulation and responses to labile-carbon enrichment. Sediment cores were characterized using Rock-Eval analysis, porewater chemistry, oxygen profiling at three sites, and mcrA amplicon sequencing. High CH4 concentrations occurred under contrasting conditions: Ein Nimfit (EN) contained approximately 12% total organic carbon and reached 2.1 mM CH4, whereas Ein Afek site EA2 contained approximately 5% carbon and accumulated 0.7-1.7 mM CH4. Both showed sulfate depletion, but EN exhibited pronounced sulfide accumulation, whereas EA2 showed greater dissolved iron and nutrient enrichment. Their classified methanogenic assemblages also differed. EA1 remained methane poor despite increasing carbon content with depth, while EA3 combined low carbon content and CH4 accumulation with detectable methanogens and lower methanogenic diversity. In a 36-day bottle experiments using sediments from two of the four wetland habitats, sucrose-amended EA3 exhibited a transient maximum of 18.8 mmol collected CH4 kg-1 wet sediment during Days 22-29, whereas EN reached its highest collected amount during Days 29-36. Methane proportions increased before the large output increase in EA3 but remained comparatively stable and high in EN. Soluble chemical oxygen demand trajectories and microbial community changes also differed. These findings identify distinct biogeochemical settings supporting methane accumulation and demonstrate methanogenic potential in low-CH4 sediment, emphasizing the complementary information provided by field profiles, microbial characterization, and exploratory enrichment experiments.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765651",
+    "date": "2026-11-12",
+    "authors": "Ghantous, J., Azaizah, H., Levintal, E., Golan, R., Rosenberg, Y. O., Antler, G., Yanuka-Golub, K.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765651v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "methanogen",
+        "methanogenic",
+        "methanogens",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4183,
+    "collected_at": "2026-11-12T18:29:35.929157+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.10.765651"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c0d5f38051697bff7f56f30d5dbd9e903bd572ac3fa2df3cad0a95e397511365",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:49:45.113608+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "febede5352946ddbdebc6ea5eee5ea29d35b84af302e412aa3ead3bfe8f718ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:49:45.113608+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "淡水湿地堆積物における炭素富化に対するメタン生成の差異と微生物群集の応答",
+    "abstract_ja": "湿地堆積物におけるメタン（CH4）の蓄積は、有機物、堆積物化学、および微生物群集間の相互作用を反映している。本研究では、イスラエル北部の4つの湿地生息地における深度分解能を用いた野外特性評価と、相補的なインキュベーションを組み合わせ、メタンの蓄積および不安定な炭素の富化に対する応答を検討した。堆積物コアの特性評価には、Rock-Eval分析、間隙水化学、3地点での酸素プロファイリング、およびmcrAアンプリコンシーケンシングを用いた。高いCH4濃度は、対照的な条件下で認められた。Ein Nimfit（EN）では全有機炭素が約12%含まれ、CH4濃度は2.1 mMに達した一方、Ein Afek地点のEA2では炭素含有量は約5%であり、0.7～1.7 mMのCH4が蓄積した。両地点とも硫酸塩の枯渇が認められたが、ENでは顕著な硫化物の蓄積が見られたのに対し、EA2では溶存鉄および栄養塩の富化がより顕著であった。分類されたメタン生成群集も異なっていた。EA1は深度に伴う炭素含有量の増加にもかかわらずメタン含有量が低いままであった一方、EA3は低炭素含有量とCH4蓄積を併せ持ち、検出可能なメタン生成菌を有し、メタン生成多様性も低かった。4つの湿地生息地のうち2つの堆積物を用いた36日間のボトル実験において、スクロース添加EA3では22～29日目に回収CH4量で18.8 mmol kg⁻¹という一過性の最大値を示したが、ENでは29～36日目に最大回収量に達した。メタンの割合は、EA3で出力が大幅に増加する前に上昇したが、ENでは比較的安定し、高い水準を維持した。可溶性化学的酸素要求量の推移および微生物群集の変化も異なっていた。これらの知見は、メタン蓄積を支える異なる生物地球化学的環境を特定し、低CH4堆積物におけるメタン生成能を実証するものであり、野外プロファイル、微生物特性評価、および探索的富化実験によって提供される相補的な情報の重要性を強調するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.09.765523",
+    "title": "Reverse Transcription Loop-Mediated Isothermal Amplification Combined with Lateral Flow Assay (RT-LAMP-LFA) for Rapid Detection of the 2026 Bundibugyo Virus (BDBV) Outbreak Strain",
+    "abstract": "Making accurate diagnosis is a critical first step in patient management and control for emerging and re-emerging disease outbreaks. Bundibugyo virus (BDBV) is a filovirus that causes Ebola disease, and the 2026 outbreak highlights the need for rapid diagnostic approaches that can be deployed in settings with limited laboratory infrastructure. Here, we developed a reverse transcription loop-mediated isothermal amplification-lateral flow assay (RT-LAMP-LFA) for rapid detection of the 2026 BDBV outbreak strain. LAMP primers were designed based on the genome sequence of the 2026 outbreak strain, and the conservation of the primer binding sites among all available 2026 outbreak genomes was confirmed in silico. LAMP primers were evaluated for analytical specificity and sensitivity using in vitro-transcribed RNA (ivtRNA) from BDBV and other filoviruses, as well as RNA derived from arboviruses and mammalian cells. Amplification products were detected using a Chromatography-Printed Array Strip (C-PAS) lateral flow platform. The newly designed primers specifically detected the presence of BDBV RNA without nonspecific amplification of the other viral or cellular RNA samples tested. Consistent amplification was observed down to 103 copies per reaction. In addition, BDBV viral RNA was successfully amplified, and the amplification products were detected using C-PAS, with the total workflow being completed within 25 min. These findings demonstrate the analytical specificity and sensitivity of the developed RT-LAMP-LFA assay and its compatibility with rapid visual lateral flow detection, supporting its potential application as a point-of-care approach for BDBV detection.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765523",
+    "date": "2026-11-12",
+    "authors": "Sato, L. S., Ihara, M., Hidano, A., Takamatsu, Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765523v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4184,
+    "collected_at": "2026-11-12T18:29:35.929157+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.09.765523"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c0aea7cbd3bb9adbe3eeb55070f2bd427a02df6fccdf73ecf6064e3188ee442c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:49:45.113608+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7f70a9d21d5c69fa6c92608c248e822df7ac57c2ef2cca4aad21a6ba28247c51",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:49:45.113608+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2026年ブンディブギョウイルス（BDBV）流行株の迅速検出に向けた逆転写ループ媒介等温増幅法とラテラルフローアッセイの併用（RT-LAMP-LFA）",
+    "abstract_ja": "正確な診断を行うことは、新興および再興感染症のアウトブレイクにおける患者管理と制御の極めて重要な第一歩である。ブンディブギョウイルス（BDBV）はエボラ病を引き起こすフィロウイルスであり、2026年のアウトブレイクは、検査インフラが限られた環境で展開可能な迅速な診断手法の必要性を浮き彫りにしている。本研究では、2026年BDBVアウトブレイク株を迅速に検出するための、逆転写ループ媒介等温増幅ラテラルフローアッセイ（RT-LAMP-LFA）を開発した。LAMPプライマーは2026年アウトブレイク株のゲノム配列に基づいて設計され、利用可能なすべての2026年アウトブレイクゲノム間でプライマー結合部位が保存されていることがin silicoで確認された。LAMPプライマーの分析特異性と感度は、BDBVおよび他のフィロウイルス由来のin vitro転写RNA（ivtRNA）、ならびにアルボウイルスおよび哺乳類細胞由来のRNAを用いて評価した。増幅産物は、クロマトグラフィー印刷アレイストリップ（C-PAS）ラテラルフロープラットフォームを用いて検出した。新たに設計したプライマーは、試験した他のウイルスまたは細胞RNAサンプルの非特異的な増幅を引き起こすことなく、BDBV RNAの存在を特異的に検出した。1反応あたり103コピーまでの一貫した増幅が認められた。さらに、BDBVウイルスRNAの増幅に成功し、増幅産物をC-PASを用いて検出することができ、全ワークフローは25分以内に完了した。これらの知見は、開発したRT-LAMP-LFAアッセイの分析特異性と感度、および迅速な視覚的ラテラルフロー検出との適合性を示すものであり、BDBV検出のためのポイントオブケア手法としての潜在的な応用を裏付けるものである。"
   }
 ]
