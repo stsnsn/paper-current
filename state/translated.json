@@ -188380,5 +188380,362 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "抗ファージ防御システムおよび多剤耐性の共伝播は、第7波のパンデミックにおける<i>Vibrio cholerae</i>デフェンソームに関連している。",
     "abstract_ja": "Vibrio choleraeの抗ファージ防御システムは、薬剤耐性（AMR）および病原性遺伝子を担う可動性遺伝要素の積荷として認識されているが、V. choleraeのデフェンソームがパンデミックO1系統と環境非O1リザーバーの間でどのように分かれているかという集団規模の視点はこれまで欠けていた。我々は、1934年から2022年にかけて60カ国から採取された1,740件のRefSeq V. choleraeゲノム（O1 773件、非O1 967件）を解析した。DefenseFinderを用いて防御システムをカタログ化したところ、非O1リザーバーには、いかなるO1にも存在しない283のサブタイプと55のファミリーが存在することが判明した。この非対称性は、各コアゲノム系統を単一の代表系統に集約した後も持続していたが、これは非O1の多様性がより大きいことを部分的に反映していた。O1では感染不全システムが好まれた（非O1の14.1%に対しO1は36.8%；P<0.001）。防御およびプロファージ負荷はO1内では逆相関を示したが（R=-0.15）、非O1では弱正の相関を示した。また、50年間にわたる再構築により、O1において防御多様性の増大とプロファージ負荷の減少という鏡像的な軌跡が明らかになり、これはSXT/R391統合接合要素によるAMRと一致していた。二部構成ネットワークにより強い防御-AMR関連（Phi最大0.80）が同定され、AbiE、AbiJ、AvcID、Menshen、Retron-I_A、およびLamassu-Famが共同獲得積荷の候補として挙げられた。これらの多くはクローン性であるが、重複除去後の最強の関連は0.51から0.68であった。一様多様体近似および投影クラスタリングにより7つのデフェンソーム系統が特定され、防御プロファイルで学習させたランダムフォレスト分類器は、交差検証済み受信者動作特性曲線下面積（AUC）0.96で多剤耐性ステータスを予測し、O1（0.92）、非O1（0.93）、年代（0.88）、および地域（AUC=0.92）にわたって汎化した。5系統シグネチャー（AbiE、BREX-I、CBAS-II、AvcID、AbiJ）はAUC=0.91を達成した。これらのデータを総合すると、パンデミックデフェンソームはプロファージ負荷ではなく、AMR担体モジュロームと歩調を合わせて拡大しており、防御遺伝子と耐性遺伝子はパンデミックEl Torの第7世代要素上で共同継承されていることが示される。これらの関連は、因果的または機序的な関連性ではなく、共有された系統史を反映したものであり、デフェンソームは多剤耐性の記述的なゲノム相関因子として機能している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1980805",
+    "title": "Mechanisms of unique chaotropic resistance and biocalcification in a halophilic <i>Virgibacillus</i> isolated from ephemeral microbial mats of the calcium-rich Don Juan pond in Antarctica.",
+    "abstract": "IntroductionDon Juan Pond (DJP), located in the McMurdo Dry Valleys of Antarctica, is one of the most extreme cold aquatic environments on our planet and most similar to Mars due to its CaCl₂-rich brines, low water activity, exceptional chaotropicity, average annual subzero temperatures and intense solar radiation during the Antarctic summer. Although the central DJP brine is considered anathema to life, the surrounding basin seasonally hosts temporary streams, ponds, and, very rarely, ephemeral microbial mats.MethodsIn this study, we investigated the diversity of these microbial mats and attempted to cultivate Ca2+-tolerant bacteria and analyze the phenotypic and molecular characteristics of the most promising isolates. To understand the molecular mechanisms underlying their adaptive strategy, further analysis of their genomic potential, adaptive epigenetic transformations and differential transcriptomics was conducted. Predicted functions were verified through physiological experiments.ResultsThe most calcium-tolerant isolate, Virgibacillus flavescens DJP025-4, was studied in detail, including its adaptive physiology and, in particular, its remarkable tolerance to varying calcium concentrations, unmatched by other prokaryotes. DJP025-4 cells were able to survive and remain cultivable after 3 months of exposure to 3.0 M Ca2+, corresponding to a water activity of approximately 0.63 and total chaotropicity value of +276.6 kJ kg-1, conditions well below the current limit for life survival equivalent. Transcriptome analysis revealed that the primary metabolic response of strain DJP025-4 to Ca2+ stress includes enzymatically induced urease-independent CaCO3 precipitation, enhanced uptake of external compatible solutes, and activation of cell surface structures biosynthesis, including peptidoglycan metabolism, biofilm matrix formation, and cellular appendage assembly, which finally increase the cell surface area and the number of Ca2 + precipitation centers on it. Whole-genome analysis revealed a high degree of genetic plasticity in this bacterium, involving natural transformation with genetic material acquired from the bacterial community and adaptive epigenetic mechanisms of gene regulation.DiscussionAmong the key findings, it is worth noting that, in addition to developing remarkable adaptation mechanisms to withstand and thrive in a harsh, calcium-rich environment, strain DJP025-4 appears to remain dependent on the presence of external compatible solutes. We hypothesize that within the DJP stream ecosystem, it is able to survive at high Ca2+ concentrations by utilizing trace amounts of such substances produced by other organisms, specifically, moderate halophiles inhabiting surface microbial mats in lower-salinity zones, which release dissolved organic matter and osmolytes into the environment.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1980805",
+    "date": "2026-10-28",
+    "authors": "Marturano L, La Cono V, Smedile F, La Spada G, Crisafi F, Selivanova EA, Ignatenko ME, Mudaliyar M, Ghosal D, Messina E, Modica A, Reva ON, Gavrilov SN, Yakimov MM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43017569",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43017569",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "microbial",
+        "prokaryote"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 91,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1980805"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4e49781c147fb448c66a6d8950d4d680c6d602a84e2f335f34666c942411594b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:13:40.574932+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4059e11b470a2b26c569e65949a6d061d9fa2ecdd544e5758fe12aea7a34f678",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:13:40.574932+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "南極のカルシウム豊富なドン・フアン池の一時的な微生物マットから単離された好塩性<i>Virgibacillus</i>における、特異なカオトロピック耐性および生物石灰化の機構。",
+    "abstract_ja": "はじめに南極のマクマード乾谷に位置するドン・ファン池（DJP）は、CaCl₂に富む塩水、低い水活性、極めて高いカオストロピー性、年間平均の氷点下温度、および南極の夏季における強烈な太陽放射により、地球上で最も過酷な寒冷水圏環境の一つであり、火星に最も類似した環境である。DJPの中心部の塩水は生命にとって忌避的な環境とされるが、周囲の盆地には季節的に一時的な河川や池、そして極めて稀に一時的な微生物マットが存在する。方法本研究では、これら微生物マットの多様性を調査し、Ca2+耐性菌の培養を試みるとともに、最も有望な分離株の表現型および分子特性の解析を行った。その適応戦略の根底にある分子メカニズムを解明するため、ゲノムポテンシャル、適応的エピジェネティック変換、および差分トランスクリプトミクスのさらなる解析を実施した。予測された機能は、生理学的実験を通じて検証された。結果最もカルシウム耐性の高い分離株であるVirgibacillus flavescens DJP025-4について、適応生理学、特に他の原核生物に類を見ない多様なカルシウム濃度に対する顕著な耐性を含めて詳細に検討した。DJP025-4細胞は、3.0 M Ca2+に3 か月間曝露した後でも生存し、培養可能な状態を維持した。これは水活性約0.63、総カオストロピー値+276.6 kJ kg-1に相当し、現在の生命生存相当限界を十分に下回る条件であった。トランスクリプトーム解析により、DJP025-4株のCa2+ストレスに対する主要な代謝応答には、酵素誘導によるウレアーゼ非依存的なCaCO3沈殿、外部適合溶質の取り込み促進、およびペプチドグリカン代謝、バイオフィルムマトリックス形成、細胞付属体の組み立てを含む細胞表面構造の生合成活性化が含まれており、これらが最終的に細胞表面積と細胞表面のCa2+沈殿中心数を増加させることが明らかになった。全ゲノム解析により、本細菌には高度な遺伝的可塑性が認められ、これには細菌群集から獲得した遺伝物質による自然形質転換と、遺伝子調節の適応的エピジェネティック機構が関与していることが示された。考察主要な知見の中で特筆すべきは、DJP025-4株が、カルシウムに富む過酷な環境に耐え、そこで繁栄するための顕著な適応機構を発達させただけでなく、依然として外部適合溶質の存在に依存していると思われる点である。我々は、DJPの河川生態系において、他の生物（具体的には低塩分帯の表面微生物マットに生息し、溶存有機物やオスモライトを環境中に放出する中程度の好塩菌）が産生する微量のこうした物質を利用することで、高Ca2+濃度下でも生存可能であるという仮説を立てている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.03460-25",
+    "title": "Ecological and genomic insights into seaweed-associated <i>Verrucomicrobiota</i> from the Gulf of Mannar.",
+    "abstract": "Members of the phylum Verrucomicrobiota are increasingly recognized for their ecological versatility and capacity to degrade complex polysaccharides across diverse marine and freshwater ecosystems. In this study, we recovered 11 metagenome-assembled genomes (MAGs) affiliated with the orders Puniceicoccales and Verrucomicrobiales from seaweed-associated microbiomes in the Gulf of Mannar, India. Verrucomicrobiota constituted 0.6%-2.9% of the total bacterial community across the analyzed algal samples, indicating their consistent presence but low abundance in these habitats. Five high-quality MAGs (JB022, JB024, JB025, JB027, JB023; completeness >90%, contamination Verrucomicrobiota families, expanding the known diversity of this phylum in marine algal ecosystems. Comparative genomic analysis showed that these genomes encode diverse biosynthetic gene clusters and a rich repertoire of carbohydrate-active enzymes (CAZymes) and sulfatases, suggesting adaptation to the degradation of polysaccharides typical of seaweed substrates. These binned genomes also possess genes related to fermentative metabolism, nitrogen fixation, and partial denitrification, indicating metabolic versatility and potential contributions to nutrient cycling within algal holobionts. These findings reveal that seaweed-associated Verrucomicrobiota from the Gulf of Mannar represent phylogenomically distinct and functionally specialized lineages with ecological relevance in carbon and nitrogen cycling in coastal marine ecosystems. This study provides the first genomic insights into seaweed-associated Verrucomicrobiota from India, representing potential new taxa and underscoring their potential roles in polysaccharide degradation and holobiont functioning.ImportanceCoastal biomes harbor a rich diversity of microorganisms, and only a few studies have focused on the diversity and functional role of members of the phylum Verrucomicrobiota. Despite their low abundance, members of the phylum Verrucomicrobiota can play an important role in regulating the fate of carbon within marine ecosystems. This study presents the first identification of novel Verrucomicrobial taxa from India, particularly from the Gulf of Mannar, a marine biodiversity hotspot with limited prior microbial investigations. Through metagenome-resolved genomic analysis, this work infers the potential ecological role of these newly discovered Verrucomicrobiota members and suggests their probable role in the carbon cycling and ecosystem processes.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.03460-25",
+    "date": "2026-11-10",
+    "authors": "Ramudu B, Sreya PK, Vighnesh L, Biswas R, Mahima D, Sushmita M, Hari Naga Papa Rao A, Sasikala C, Venkata Ramana C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006868",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006868",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 9,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/spectrum.03460-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1abcccb9d5a3c1a4d0350dfc37ed961963f1becd9b2d0d0b979fa9ab759a0dc9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:13:40.574932+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ada487fd6aebb3d13ed331ef6d9cd3c5fdb8790af03b928b4a78fd5833acd035",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:13:40.574932+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マンナール湾産海藻関連<i>Verrucomicrobiota</i>に関する生態学的・ゲノム学的知見",
+    "abstract_ja": "ヴェルコミクロビオータ門のメンバーは、その生態学的な汎用性と、多様な海洋および淡水生態系において複雑な多糖類を分解する能力がますます認識されるようになっている。本研究では、インドのマンナール湾における海藻関連マイクロバイオームから、プニセイコッカ目およびヴェルコミクロビアレス目に属する11個のメタゲノムアセンブルゲノム（MAG）を回収した。解析した藻類サンプル全体の細菌群集において、ヴェルコミクロビオータは0.6%～2.9%を占めており、これらの生息地において一貫して存在しているものの、存在量は少ないことが示された。5つの高品質なMAG（JB022, JB024, JB025, JB027, JB023；完全性 >90%、ヴェルコミクロビオータ科の混入）により、海洋藻類生態系における本門の既知の多様性が拡大した。比較ゲノム解析の結果、これらのゲノムは多様な生合成遺伝子クラスターと、豊富な糖質活性酵素（CAZymes）およびスルファターゼのレパートリーをコードしており、海藻基質に典型的な多糖類の分解への適応が示唆された。これらのビン分けされたゲノムは、発酵代謝、窒素固定、および部分的脱窒に関連する遺伝子も保持しており、代謝的な汎用性と、藻類ホロビオント内における栄養循環への潜在的な寄与を示している。これらの知見は、マンナール湾の海藻関連ヴェルコミクロビオータが、沿岸海洋生態系における炭素および窒素循環において生態学的な意義を持つ、系統学的に異なり機能的に特化した系統であることを明らかにしている。本研究は、インドの海藻関連ヴェルコミクロビオータに関する初のゲノム的知見を提供するものであり、潜在的な新分類群を提示するとともに、多糖類分解およびホロビオント機能におけるそれらの潜在的な役割を強調するものである。重要性 沿岸バイオームには豊かな多様性の微生物が生息しているが、ヴェルコミクロビオータ門のメンバーの多様性と機能的役割に焦点を当てた研究はわずかしかない。存在量は少ないものの、ヴェルコミクロビオータ門のメンバーは海洋生態系における炭素の運命調節において重要な役割を果たすことができる。本研究は、特にこれまで微生物学的調査が限られていた海洋生物多様性ホットスポットであるマンナール湾において、インドから新規のヴェルコミクロビアレス分類群を初めて同定したものである。メタゲノム解析によるゲノム解析を通じて、本研究はこれら新たに発見されたヴェルコミクロビオータメンバーの潜在的な生態学的役割を推定し、炭素循環および生態系プロセスにおけるそれらの考えられる役割を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msystems.00827-26",
+    "title": "IBD is associated with species-specific changes in gut microbial gene diversity.",
+    "abstract": "Intra-species genomic variation provides the raw material for natural selection and can reflect the recent diversification history of microbial populations. Environmental stress may be regarded as the ultimate accelerator of the evolutionary process, especially for microorganisms, which can alter their DNA if presented with nutrient limitation, toxins, or pathogen attack. Chronic intestinal inflammation, as in inflammatory bowel disease (IBD), represents prolonged environmental stress for gut commensal bacteria, bringing many enteric species down to undetectable levels. However, it remains unclear how microbes that colonize IBD patients actually respond to IBD-associated stressors and whether stress-driven bacterial dynamics may be identified at the population level from the bacterial gut metagenome. To investigate IBD-associated strain-level population dynamics, we performed metagenomic analyses focusing on measuring within-individual bacterial diversity for a panel of gut commensals present across IBD patients and Controls. First, we found species-specific differences in genome-level bacterial diversity. Then, we found that certain genes and functions may harbor different levels and kinds of genetic divergence within the same species across IBD patients and Controls. Functions that were enriched in IBD with both neutral divergence and functional divergence were associated with motility and iron-scavenging, among others. These results may point toward functions that are under selection in the context of IBD stress and could inform future mechanistic work, exploring previously unknown routes of bacterial diversification and adaptation to stress in the gut microbiome.ImportanceInflammatory bowel disease (IBD) is characterized by profound alterations in the gut microbiome composition, and most research so far has focused on changes in species-level abundance to understand gut microbiome contributions to disease dynamics. However, investigating strain-level variation has the potential to uncover previously unknown factors underlying bacterial persistence during gut inflammation, hence revealing key aspects driving gut dysbiosis. Here, we showed that IBD is associated with species-specific changes in gut microbial population-level genetic diversity and identified individual genes and functions that seem to harbor differential genetic diversity within IBD-associated strains. More broadly, our results highlight how intra-species population- and gene-level diversity could be used as sensors of environmental stress in the gut microbiome, and further studies could follow up on the functions highlighted in this work to establish causal links between gut inflammatory conditions and processes of bacterial adaptation to stress.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.00827-26",
+    "date": "2026-11-09",
+    "authors": "Mazzoni C, Yassour M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001898",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001898",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome",
+        "metagenomic",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 10,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/msystems.00827-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cd470243a0a3d7ba2cfb790d4f0ae197879056aab86cdedd16c1ac8bba563882",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:13:40.574932+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "219195e851539af7374dfe2efa49946ec97141ea688aa0448436ff810970150c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:13:40.574932+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "IBDは、種特異的な腸内微生物の遺伝子多様性の変化と関連している。",
+    "abstract_ja": "種内ゲノム変異は自然選択の原材料となり、微生物集団の最近の多様化史を反映し得る。環境ストレスは、特に微生物にとって進化プロセスの究極の加速因子と見なされ得、栄養制限、毒素、あるいは病原体の攻撃にさらされることでDNAを変化させることがある。炎症性腸疾患（IBD）に見られるような慢性的な腸管炎症は、腸内常在菌にとって長期的な環境ストレスとなり、多くの腸内細菌種を検出不能なレベルまで減少させる。しかし、IBD患者に定着する微生物が実際にIBD関連のストレッサーにどのように応答するのか、また、ストレス駆動型の細菌動態が腸内細菌メタゲノムから集団レベルで同定可能であるかは依然として不明である。IBD関連の菌株レベルの集団動態を調査するため、我々はIBD患者および対照群に存在する腸内常在菌パネルを対象に、個体内細菌多様性の測定に焦点を当てたメタゲノム解析を行った。まず、ゲノムレベルの細菌多様性において種特異的な差異を見出した。次に、特定の遺伝子および機能が、IBD患者と対照群の間で同一種内において異なるレベルおよび種類の遺伝的分化を示す可能性があることを見出した。IBDにおいて中立的な分化と機能的な分化の両方で濃縮されていた機能には、運動能や鉄除去などが含まれていた。これらの結果は、IBDストレスの文脈で選択を受けている機能を示唆しており、腸内マイクロバイオームにおけるこれまで未知であった細菌の多様化経路やストレス適応を探索する今後のメカニズム研究に知見を与え得る。重要性 炎症性腸疾患（IBD）は腸内マイクロバイオーム組成の著しい変化を特徴としており、これまでの研究の多くは、疾患動態に対する腸内マイクロバイオームの寄与を理解するために、種レベルの存在量の変化に焦点を当ててきた。しかし、菌株レベルの変異を調査することで、腸管炎症時の細菌の持続性の根底にあるこれまで未知であった因子を明らかにできる可能性があり、ひいては腸内ディスバイオーシスを駆動する重要な側面を解明できる。本研究では、IBDが腸内微生物集団レベルの遺伝的多様性における種特異的な変化と関連していることを示し、IBD関連菌株内で異なる遺伝的多様性を有すると考えられる個々の遺伝子および機能を同定した。より広範には、我々の結果は、種内集団レベルおよび遺伝子レベルの多様性を腸内マイクロバイオームにおける環境ストレスのセンサーとしてどのように利用できるかを浮き彫りにしており、今後の研究では、本研究で明らかにした機能をさらに追究することで、腸管の炎症状態と細菌のストレス適応プロセスとの間の因果関係を確立できる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research support, non-u.s. gov't",
+      "research-article",
+      "journal article",
+      "research support, n.i.h., extramural"
+    ],
+    "id": "10.1038/s41467-026-78976-x",
+    "title": "Electrode-associated growth reveals structure of OmcZ-type cytochrome nanowires in anaerobic methanotrophic archaea.",
+    "abstract": "Anaerobic methanotrophic (ANME) archaea are key regulators of methane emissions in anoxic environments, yet their physiology remains poorly understood due to the lack of axenic cultures. Here, we show that cultivation on poised electrodes yields near-axenic cultures (95.8% relative abundance) of a freshwater ANME, for which we propose the name 'Candidatus Methanoperedens vercellensis'. We identified key physiological properties of 'Ca. M. vercellensis': doubling times of 4.6 days at 30 °C, menaquinone as respiratory electron carrier, the inability to oxidize ethane, and preferential reduction of iron oxides over nitrate after cultivation on electrodes. A 3.3 Å cryo-electron microscopy structure of filaments displayed on the archaeal surface revealed polymerized OmcZ-type cytochrome nanowires, which are homologous to OmcZ nanowires essential for long-range (>10 μm) extracellular electron transfer (EET) in Geobacter sulfurreducens. The archaeal OmcZ-type nanowires include dense, collinear stacking of protected hemesakin to bacterial OmcZ nanowires, but with post-translational modification, thus yielding morphology distinct from bacterial OmcZ nanowires. Notably, in contrast to bacterial OmcZ, archaeal OmcZ-type nanowires do not form interconnected networks, and hemes are less solvent-exposed, which can protect them from the environment. Surprisingly, these archaea assemble OmcZ into nanowires even in the apparent absence of prolyl isomerase involved in folding bacterial OmcZ. This work establishes a model system for molecular understanding of nanowire-mediated EET in archaea.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-78976-x",
+    "date": "2026-11-09",
+    "authors": "Wissink M, Shen C, Wang J, Egas RA, Smid P, Elling FJ, Becker KW, Pabst M, Jetten MSM, Liu J, Malvankar NS, Welte CU.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43003847",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13748539",
+    "pmid": "43003847",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "methanotroph",
+        "methanotrophic"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 438,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1038/s41467-026-78976-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "56c4e2e025e47985c4134199f2895bd647945e6ffe80e68e09cd56549c64ebf9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:13:40.574932+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4092926e067a023505d977f4bd517042477c9ffe32938687eb256aa45bd59084",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:13:40.574932+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "電極関連成長により、嫌気性メタン酸化古細菌におけるOmcZ型シトクロムナノワイヤの構造が明らかになった。",
+    "abstract_ja": "嫌気性メタン酸化細菌（ANME）は、無酸素環境におけるメタン排出の主要な調節因子であるが、無菌培養法が確立されていないため、その生理学的特性は依然として十分に解明されていない。本研究では、電極上での培養により、淡水性ANMEのほぼ無菌状態の培養物（相対存在率95.8%）が得られることを示し、これに「Candidatus Methanoperedens vercellensis」という名称を提案する。我々は、「Ca. M. vercellensis」の主要な生理学的特性として、30 °Cにおける倍加時間の4.6日、呼吸電子伝達体としてのメナキノン、エタンの酸化能の欠如、および電極培養後における硝酸塩よりも酸化鉄の優先的な還元を明らかにした。古細菌表面に形成されたフィラメントの3.3 Åクライオ電子顕微鏡構造解析により、重合したOmcZ型シトクロムナノワイヤが認められた。これらは、Geobacter sulfurreducensにおける長距離（>10 μm）の細胞外電子伝達（EET）に不可欠なOmcZナノワイヤと相同である。古細菌のOmcZ型ナノワイヤは、保護されたヘメサキンが細菌のOmcZナノワイヤに高密度かつ共線的に積層しているが、翻訳後修飾を受けており、細菌のOmcZナノワイヤとは異なる形態を呈している。特筆すべきは、細菌のOmcZとは対照的に、古細菌のOmcZ型ナノワイヤは相互接続されたネットワークを形成せず、ヘムの溶媒曝露も少ないため、環境から保護され得る点である。驚くべきことに、これらの古細菌は、細菌のOmcZのフォールディングに関与するプロリルイソメラーゼが一見存在しない状態であっても、OmcZをナノワイヤへと組み立てる。本研究は、古細菌におけるナノワイヤ介在性EETの分子レベルでの理解のためのモデル系を確立するものである。"
   }
 ]
