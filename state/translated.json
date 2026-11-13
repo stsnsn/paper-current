@@ -182189,5 +182189,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "DUSP2-RPAシグナルの喪失は、仮想記憶T細胞を介した自然免疫様抗ウイルス免疫を増強する。",
     "abstract_ja": "仮想記憶CD8+ T（TVM）細胞は、迅速なエフェクター能を有する抗原未経験細胞であるが、その分化と抗ウイルス活性がどのように調節されているかは不明である。本研究では、自己抗体ベースのスクリーニング戦略を用いて、ホスファターゼDUSP2をTVM細胞応答の主要な調節因子として同定した。二重特異性ホスファターゼ2（DUSP2）欠損は、CD8+ T細胞依存性抗ウイルス免疫を増強し、高度に活性化されたCD44super-high TVMサブセットの拡大を促進する。ウイルス負荷時、これらのTVM細胞は抗原認識なしに迅速に応答し、増強されたエフェクターおよびサイトカインプログラムを示し、従来の抗原特異的想起ではなく、自然免疫様の抗ウイルス免疫様式を支持する。機序的には、DUSP2は複製タンパク質A（RPA）複合体と相互作用して、RPA2のリン酸化とクロマチン結合を調節する。DUSP2-RPA軸の破綻はRループの蓄積を促進し、クロマチンアクセシビリティを増加させ、それがさらにEomesodermin（EOMES）関連転写プログラムを活性化し、最終的にTVM細胞の分化を促進する。T細胞特異的なRPA1欠損はこれらの効果を表現型的に再現し、自発的なTVM細胞の蓄積と、ウイルス負荷時の迅速なエフェクター様応答をもたらす。以上の知見を総合すると、TVM細胞の発達と自然免疫様抗ウイルス免疫を抑制するDUSP2-RPA-Rループ軸が確立される。"
+  },
+  {
+    "id": "10.1093/nar/gkag1166",
+    "title": "gcPathogen 2.0: an expanded multi-omics database advancing global pathogen surveillance and One Health research",
+    "abstract": "AbstractLaunched in 2024, gcPathogen established a critical foundation for the genomic surveillance of human pathogens. Here, we present gcPathogen 2.0, a major multi-omics update designed to address key analytical bottlenecks, including the integration of genomic and transcriptional profiles, systematic tracking of cross-habitat distribution, and large-scale discovery of antimicrobial peptides (AMPs). This release expands coverage from 1134 to 1506 pathogenic species, spanning 557 bacteria, 508 fungi, 258 viruses, and 183 parasites, and increases total genomic records past 2.3 million. By incorporating 12 597 transcriptomes across 148 species, gcPathogen 2.0 bridges the gap between gene carriage and functional expression for risk assessment. Furthermore, the platform integrates 285 925 pathogen metagenome-assembled genomes (MAGs) spanning human, animal, and environmental niches. Mapped across 68 Environment Ontology (ENVO) habitat categories, these MAGs enable comprehensive tracking of cross-habitat distribution of pathogens, antibiotic resistance genes (ARGs), virulence factors (VFs), and mobile genetic elements (MGEs). Leveraging a nonredundant reference set curated from seven public databases, we identified over 77 million AMPs belonging to >55 000 families across 438 bacterial pathogens. Finally, pan-genome analyses of 440 bacterial species map intraspecies functional distributions across core, accessory, and unique gene repertoires. gcPathogen 2.0 is publicly accessible at https://nmdc.cn/gcpathogen/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1166",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1166/9026641?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungi",
+        "metagenom",
+        "metagenome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2046,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1166"
+    ],
+    "translation": {
+      "title": {
+        "hash": "13cc4113520cdcd79af29fd7426c9066993724b5f95b00d32d889722045d66d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:05:50.017246+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "40b44dfd304d2b38c1fc3222f41cf96a472273df6f3f768886b7ad97a2eed983",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:05:50.017246+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "gcPathogen 2.0：世界的な病原体サーベイランスおよびワンヘルス研究を推進する拡張型マルチオミクスデータベース",
+    "abstract_ja": "要旨 2024年にリリースされたgcPathogenは、ヒト病原体のゲノムサーベイランスにおける極めて重要な基盤を確立した。本稿では、ゲノムおよび転写プロファイルの統合、生息環境を横断した分布の体系的な追跡、および抗菌ペプチド（AMP）の大規模探索といった、主要な解析上のボトルネックを解消するために設計された大規模なマルチオミクス・アップデートであるgcPathogen 2.0を紹介する。本リリースでは、対象範囲を1,134種から1,506種の病原体種へと拡大し、細菌557種、真菌508種、ウイルス258種、寄生虫183種を網羅するとともに、総ゲノムレコード数を230万件超に増加させた。148種にわたる12,597件のトランスクリプトームを組み込むことで、gcPathogen 2.0はリスク評価における遺伝子担持と機能的発現の乖離を埋める。さらに、本プラットフォームは、ヒト、動物、および環境のニッチにわたる285,925件の病原体メタゲノムアセンブルゲノム（MAG）を統合している。68の環境オントロジー（ENVO）生息環境カテゴリにわたってマッピングされたこれらのMAGにより、病原体、抗生物質耐性遺伝子（ARG）、病原性因子（VF）、および可動性遺伝要素（MGE）の生息環境を横断した分布の包括的な追跡が可能となる。7つの公開データベースからキュレートされた非冗長なリファレンスセットを活用し、438種の細菌病原体にわたる55,000以上のファミリーに属する7,700万件以上のAMPを同定した。最後に、440種の細菌のパンゲノム解析により、コア、補助、および固有の遺伝子レパートリーにわたる種内機能的分布をマッピングした。gcPathogen 2.0は、https://nmdc.cn/gcpathogen/ で一般公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pcbi.1014861",
+    "title": "SADRP: A structurally aware multi-modal framework for drug response prediction.",
+    "abstract": "MotivationPredicting drug sensitivity across diverse cancer samples is a fundamental challenge in personalized therapy and drug discovery. This task requires comprehensive characterization of both drug and cancer cell line features. Current approaches often fail to fully capture the complex structural characteristics and interactions of drug compounds and struggle to integrate multi-omics features derived from the same sample, limiting their feature representation capacity. Consequently, there is a need for modeling frameworks that can jointly model molecular structural features and multi-modal cellular contexts in a unified manner.ResultsWe present SADRP, a structurally aware multi-modal framework for drug response prediction, designed to model complex molecular structures and multi-omics data. For drug representation, SADRP incorporates Shortest Distance Path (SDP) encoding and edge encoding to capture both topological relationships and bond-type chemical semantics. For cell line profiling, a multi-view interactive encoder integrates gene expression and DNA methylation, capturing cross-omics synergistic complementarity. SADRP consistently outperforms state-of-the-art methods, while also identifying potential therapeutic candidates and biomarkers, providing mechanistic insights and supporting applications in drug discovery and personalized medicine.",
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014861",
+    "date": "2026-10-21",
+    "authors": "Qi R, Liu S, Quan T, Wu T, Shaytan AK, Liu B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905750",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13686522",
+    "pmid": "42905750",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3797,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1371/journal.pcbi.1014861"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4406dd24e66e1228c68ff9b1a19789376d1b6f79dc19d40ee16054f9c15d58c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:05:50.017246+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "131f657283950b01b9f288b2b8372ff87a7ede7d56d1795836a6f91e501b37a8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:05:50.017246+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SADRP：薬物反応予測のための構造認識型マルチモーダルフレームワーク",
+    "abstract_ja": "動機多様ながん検体における薬物感受性の予測は、個別化治療および創薬における根本的な課題である。このタスクには、薬物とがん細胞株の双方の特徴に関する包括的な特性評価が求められる。現行の手法では、薬物化合物の複雑な構造的特性や相互作用を十分に捉えきれないことが多く、同一検体から得られるマルチオミクス特徴量の統合にも苦慮しており、特徴表現能力が制限されている。したがって、分子構造特徴量とマルチモーダルな細胞コンテキストを統一的にモデル化できるモデリングフレームワークが求められている。結果複雑な分子構造とマルチオミクスデータをモデル化するために設計された、薬物応答予測のための構造認識型マルチモーダルフレームワーク「SADRP」を提案する。薬物表現において、SADRPは最短距離経路（SDP）エンコーディングとエッジエンコーディングを組み込むことで、トポロジカルな関係性と結合型の化学的セマンティクスの双方を捉える。細胞株プロファイリングでは、マルチビュー・インタラクティブエンコーダーが遺伝子発現とDNAメチル化を統合し、クロスオミクスにおける相乗的な相補性を捉える。SADRPは最先端の手法を一貫して上回る性能を示すとともに、潜在的な治療候補物質やバイオマーカーを同定し、機序的な知見を提供するとともに、創薬および個別化医療への応用を支援する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0361466",
+    "title": "Integrated transcriptomic analysis and machine learning identify AURKA and CENPM as candidate biomarkers in focal segmental glomerulosclerosis.",
+    "abstract": "BackgroundFocal segmental glomerulosclerosis (FSGS) is a leading cause of steroid-resistant nephrotic syndrome and progression to end-stage renal disease, but existing therapeutics and diagnostics are limited. Therefore, reliable diagnostic biomarkers that contribute to FSGS therapy and diagnostics are urgently needed.MethodsGene expression data for FSGS (GSE104948; 37 samples: 16 FSGS vs 21 controls) were obtained from GEO. A weighted gene co-expression network analysis (WGCNA) was employed. Key genes within significant modules were identified using Support Vector Machine Recursive Feature Elimination (SVM-RFE), random forest (RF), and cytoHubba Maximal Clique Centrality (MCC). Functional enrichment analyses were executed, while diagnostic accuracy was evaluated by receiver operating characteristic (ROC) analysis. Immune cell infiltration (ICI) levels were quantified using CIBERSORT, and validation was conducted with an independent external dataset (GSE129973; 20 FSGS vs 20 controls).ResultsThe green-yellow module demonstrated robust association with the FSGS phenotype, from which 39 candidate genes were selected. Integration of RF, SVM-RFE and cytoHubba analyses pinpointed two primary hub genes: AURKA, which was recovered consistently across cross-validation folds, and CENPM, a less consistently recovered candidate. Functional enrichment underscored the involvement of these genes in pivotal biological processes, particularly mitosis and regulation of the cell cycle. Analysis of immune infiltration revealed significant shifts in the immune microenvironment (IME) of FSGS, correlating elevated expression of AURKA and CENPM with altered ICI patterns. ROC curve analyses showed the diagnostic performance of these genes, with AURKA achieving an AUC of 0.95 and CENPM 0.94 in the training dataset (independent validation: AURKA AUC 0.797, CENPM AUC 0.720). These results showed a consistent direction of change between FSGS patients and healthy controls in an independent validation cohort.ConclusionUsing a combined analytical approach involving WGCNA, machine learning (ML) algorithms, and protein-protein interaction (PPI) networks, this study identified AURKA and CENPM as exploratory tissue-based candidate biomarkers for FSGS, with AURKA being the more robustly supported of the two; both require functional validation and independent confirmation before any therapeutic application can be considered.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0361466",
+    "date": "2026-11-10",
+    "authors": "Lin X, Huang G, Sun Q, Zhang X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43007984",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13750537",
+    "pmid": "43007984",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2936,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1371/journal.pone.0361466"
+    ],
+    "translation": {
+      "title": {
+        "hash": "02f0f4ad2c0474ad2b262f93ee62c97d564be61b3f2f29403251edeb4aea9c76",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:05:50.017246+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d9c371e3c90d772ca9e2262851a1f0c9206b281801adb6a37daf7fc292a04932",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:05:50.017246+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合トランスクリプトーム解析と機械学習により、局所性分節性糸球体硬化症におけるバイオマーカー候補としてAURKAおよびCENPMが同定された。",
+    "abstract_ja": "背景 巣状分節性糸球体硬化症（FSGS）は、ステロイド抵抗性ネフローゼ症候群および末期腎不全への進行の主要な原因であるが、既存の治療法および診断法は限られている。したがって、FSGSの治療および診断に寄与する信頼性の高い診断バイオマーカーが急務となっている。方法 FSGSの遺伝子発現データ（GSE104948；37検体：FSGS 16検体 vs 対照群 21検体）をGEOから取得した。重み付き遺伝子共発現ネットワーク解析（WGCNA）を実施した。有意なモジュール内の主要遺伝子を、サポートベクターマシン再帰的特徴量除去（SVM-RFE）、ランダムフォレスト（RF）、およびcytoHubba最大クリーク中心性（MCC）を用いて同定した。機能エンリッチメント解析を行い、診断精度を受信者動作特性（ROC）解析により評価した。免疫細胞浸潤（ICI）レベルをCIBERSORTを用いて定量化し、独立した外部データセット（GSE129973；FSGS 20検体 vs 対照群 20検体）を用いて検証を行った。結果 緑黄色モジュールはFSGSの表現型と強固な関連を示し、そこから39個の候補遺伝子が選定された。RF、SVM-RFE、およびcytoHubba解析を統合した結果、2つの主要なハブ遺伝子が特定された。すなわち、交差検証のフォールド間で一貫して検出されたAURKAと、検出の一貫性が低かった候補遺伝子であるCENPMである。機能エンリッチメント解析により、これらの遺伝子が極めて重要な生物学的プロセス、特に有糸分裂および細胞周期の調節に関与していることが裏付けられた。免疫浸潤の解析では、FSGSの免疫微小環境（IME）に有意な変化が認められ、AURKAおよびCENPMの発現上昇がICIパターンの変化と相関していた。ROC曲線解析によりこれらの遺伝子の診断性能が示され、訓練データセットにおいてAURKAはAUC 0.95、CENPMは0.94を達成した（独立検証：AURKA AUC 0.797、CENPM AUC 0.720）。これらの結果は、独立した検証コホートにおいて、FSGS患者と健常対照群の間で一貫した変化方向を示した。結論 WGCNA、機械学習（ML）アルゴリズム、およびタンパク質間相互作用（PPI）ネットワークを組み合わせた解析手法を用い、本研究ではAURKAおよびCENPMをFSGSの探索的な組織ベースの候補バイオマーカーとして同定した。このうちAURKAの方がより強固に支持されており、いずれの遺伝子も治療への応用を検討する前に、機能的な検証および独立した確認が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2626713123",
+    "title": "Codfishes survived essential gene loss by functionally co-opting freshwater ovulatory pathways to marine egg hydration.",
+    "abstract": "Adaptive evolution associated with dispensable gene loss is widespread in the animal kingdom. However, loss of genes essential for embryonic survival and the mechanisms that evolved to bypass negative selection and extinction are less well known. Here, we show that all Gadiformes, an ecologically dominant order of codfishes, lost the aqp1ab-type genes that are essential for the formation of hydrated pelagic eggs and embryonic survival of marine teleosts in oceanic environments. Despite such gene loss, codfishes produce some of the most highly hydrated pelagic eggs of all marine teleosts. To resolve this apparent paradox, we initially confirmed that the mechanisms of osmotic drive are conserved with other pelagic-egg-producing marine teleosts, and then conducted comparative transcript analyses of aquaporin water channels in distantly-related freshwater and marine teleosts. This uncovered Aqp4-type channels that have been chromosomally linked to the Aqp1-type channels in jawed vertebrate genomes for >450 million years as the primary candidates. Using immunolocalization, functional assays, and inhibition experiments with zebrafish and Atlantic cod as model organisms, we show that short isoforms of Aqp4 are required for egg ovulation in more ancestral lineages of freshwater teleosts and were recruited to the oocyte hydration pathway of codfishes. By contrast, the oldest and most modern lineages of marine teleosts producing pelagic eggs still utilize the aqp1ab genes for egg hydration. Our data thus reveal that codfishes survived essential gene loss by functionally co-opting freshwater ovulatory pathways to marine egg hydration.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2626713123",
+    "date": "2026-11-04",
+    "authors": "Rey-Alfonso Á, Yilmaz O, Chauvigné F, Finn RN, Cerdà J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981029",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42981029",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "freshwater",
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 246,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2626713123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "581a24602b358e11b1150c94696a7cd2c6992f519e354a6b20e78fb9a83c8b67",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:05:50.017246+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6370314aae19f2f291a49a78f254d1bc1d7995c00235e7032d53b0a3d8ebd09f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:05:50.017246+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タラ類は、淡水の排卵経路を海洋での卵の水和に機能的に転用することで、必須遺伝子の喪失を乗り切った。",
+    "abstract_ja": "不要な遺伝子の喪失に伴う適応進化は、動物界に広く見られる。しかし、胚の生存に不可欠な遺伝子の喪失や、負の選択と絶滅を回避するために進化した機構については、あまり知られていない。本研究では、生態学的に優占的なタラ目の全種が、海洋環境における海洋性真骨魚類の水和した外洋性卵の形成と胚の生存に不可欠なaqp1ab型遺伝子を喪失したことを示す。このような遺伝子喪失にもかかわらず、タラ類はすべての海洋性真骨魚類の中でも、極めて水和度の高い外洋性卵を産む。この一見矛盾する現象を解明するため、我々はまず、浸透圧駆動機構が他の外洋性卵を産む海洋性真骨魚類においても保存されていることを確認し、次いで、遠縁の淡水性および海洋性真骨魚類におけるアクアポリン水チャネルの比較トランスクリプト解析を行った。これにより、顎を持つ脊椎動物のゲノムにおいて4億5,000万年以上にわたりAqp1型チャネルと染色体的に連鎖してきたAqp4型チャネルが、主要な候補として明らかになった。免疫局在法、機能アッセイ、およびゼブラフィッシュと大西洋タラをモデル生物とした阻害実験を用いて、淡水性真骨魚類のより祖先的な系統ではAqp4の短鎖アイソフォームが卵の排卵に必要であり、それがタラ類の卵母細胞水和経路へと取り込まれたことを示す。対照的に、外洋性卵を産む海洋性真骨魚類の最古かつ最新の系統では、依然として卵の水和にaqp1ab遺伝子を利用している。以上のデータは、タラ類が淡水性の排卵経路を海洋性の卵水和へと機能的に転用することで、不可欠な遺伝子の喪失を生き延びたことを明らかにしている。"
   }
 ]
