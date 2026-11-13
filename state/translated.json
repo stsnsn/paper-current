@@ -180710,5 +180710,296 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "多様な細菌および古細菌におけるアミノ酸生合成の新規酵素：GapMind 2026",
     "abstract_ja": "Morgan N. Price, Valentine V. Trotter, Markus de Raad, Suzanne M. Kosina, Hira P. Lesea, Anthony L. Shiver, Leslie A. Day, Surya Tripathi, Marta Torres, Trenton K. Owens, Audrey Liwen Wang, Anna Lisa Fear, Xuanyu Tao, Jizhong Zhou, Adam M. Deutschbauer, Adam P. Arkin 著\n\n我々は以前、細菌および古細菌のゲノムにおけるアミノ酸生合成経路のアノテーションを行うための自動ウェブベースツール「GapMind」について報告した。GapMindを用いて生合成経路のギャップを同定し、比較ゲノミクスおよびハイスループット遺伝学を体系的に活用して、これらのギャップを埋める候補遺伝子を同定した。種間相補性アッセイを用いることで、提案された酵素のうち10種類の活性を確認した。主な知見としては、グリオキシル酸を経由するグリシンへの経路、ホスホセリンホスファターゼを置換し得る2つのファミリー、代替的なN-サクシニル-L,L-ジアミノピメレート脱サクシニル化酵素、代替的なN-アセチルオルニチン脱アセチル化酵素、および推定される二機能性MetB/MetCが挙げられる。これらの追加酵素を組み込むため、GapMindを更新した。高品質なゲノムを持ち、最小培地で生育可能な208種の原核生物において、アミノ酸生合成における未解明の欠落ステップまたはギャップの平均数は、1ゲノムあたり1.4から0.7へと減少した。残存するギャップの大部分は、リン酸基の獲得または喪失に関わるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1956719",
+    "title": "Phenome-wide genetic analysis of EBV EBNA1 and ZEBRA seroreactivity identifies divergent disease associations and candidate inflammatory pathways",
+    "abstract": "IntroductionEpstein–Barr virus (EBV) infects most adults worldwide, but the disease relevance of host responses to distinct EBV antigens remains incompletely characterized. We compared disease associations of seroreactivity to the latency-associated antigen EBNA1 and the immediate-early lytic antigen ZEBRA and explored candidate host pathways.MethodsWe performed phenome-wide genetic screening of 1,075 phenotypes using UK Biobank summary statistics from 408,961 participants, followed by two-sample Mendelian randomization using FinnGen R11 data. Literature mining analyzed SemRep-derived subject–predicate–object (SPO) triples from 42,392 PubMed abstracts to map EBV-related diseases, genes, and therapies. Host genes were prioritized through summary-data-based MR of anti-ZEBRA GWAS and GTEx v8 eQTL data, GeneCards disease-gene intersections, and protein interaction analysis. Experiments used an ovalbumin-induced mouse asthma model and B95-8 and Raji cells.ResultsPhenome-wide screening prioritized 40 antibody–phenotype pairs. Of the 34 pairs evaluated by Mendelian randomization, 21 reached nominal significance and 19 remained significant after false discovery rate correction. Genetically proxied anti-ZEBRA seroreactivity showed positive associations with type 1 diabetes, rheumatoid arthritis, psoriasis, nasal polyps, asthma, and hypothyroidism. In contrast, genetically proxied anti-EBNA1 seroreactivity showed inverse associations with several overlapping autoimmune phenotypes and a positive association with multiple sclerosis. Literature mining yielded 62,334 triples, with autoimmune disease concepts less frequent than malignancy or infection concepts. Frequently cited EBV-linked genes were enriched in inflammatory pathways, including NF-κB signaling. Integrative analyses identified 55 shared candidate genes, with NFKB1 showing the highest connectivity in the resulting interaction network. Lung tissues from the murine asthma model showed reduced cytoplasmic p105 and increased nuclear p50. BZLF1 overexpression in B95-8 and Raji cells was associated with reduced whole-cell p105 and increased nuclear p50. In B95-8 cells without BZLF1 overexpression, NFKB1-targeting siRNA reduced p105 abundance and was associated with higher EBV DNA levels.DiscussionEBNA1 and ZEBRA seroreactivity exhibited distinct genetically supported disease-association patterns. Integrative analyses and experimental observations prioritize NFKB1 as a candidate hub within ZEBRA-associated inflammatory pathways, providing a basis for further mechanistic investigation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1956719",
+    "date": "2026-11-13",
+    "authors": "Huan Xiao",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1956719",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4372,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1956719"
+    ],
+    "translation": {
+      "title": {
+        "hash": "435e1d2d05b73e18f4fe93605863287546fa502c21dc2191a429565925516ba2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:49:11.870738+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a6b40e729c8001c3156a2feb6f62b32441f16949d8cc818a3c96a9b2e8911275",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:49:11.870738+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "EBV EBNA1およびZEBRAの血清反応性に関するフェノームワイドな遺伝子解析により、異なる疾患関連および炎症性経路候補が同定された",
+    "abstract_ja": "はじめにエプスタイン・バーウイルス（EBV）は世界中のほとんどの成人に感染しているが、異なるEBV抗原に対する宿主応答の疾患関連性は依然として十分に解明されていない。本研究では、潜伏関連抗原EBNA1および即時早期溶菌抗原ZEBRAに対する血清反応性の疾患関連性を比較し、候補となる宿主経路を検討した。方法UK Biobankの参加者408,961例の要約統計量を用いて1,075の表現型についてフェノームワイドな遺伝子スクリーニングを行い、続いてFinnGen R11データを用いて2サンプル・メンデルランダム化解析を実施した。文献マイニングでは、42,392件のPubMed抄録からSemRep由来の主語・述語・目的語（SPO）トリプルを解析し、EBV関連疾患、遺伝子、および治療法のマッピングを行った。宿主遺伝子の優先順位付けは、anti-ZEBRA GWASおよびGTEx v8 eQTLデータの要約データに基づくMR、GeneCardsの疾患・遺伝子交差、およびタンパク質相互作用解析を通じて行った。実験には、オバルブミン誘発マウス喘息モデルならびにB95-8およびRaji細胞を用いた。結果フェノームワイドスクリーニングにより、40組の抗体－表現型ペアが優先的に抽出された。メンデルランダム化解析で評価した34組のうち、21組が名目有意に達し、19組は偽発見率補正後も有意であった。遺伝的に近接したanti-ZEBRA血清反応性は、1型糖尿病、関節リウマチ、乾癬、鼻ポリープ、喘息、および甲状腺機能低下症と正の関連を示した。対照的に、遺伝的に近接したanti-EBNA1血清反応性は、複数の重複する自己免疫表現型と逆の関連を示し、多発性硬化症と正の関連を示した。文献マイニングでは62,334組のトリプルが得られ、自己免疫疾患の概念は悪性腫瘍や感染症の概念よりも出現頻度が低かった。頻繁に引用されたEBV関連遺伝子は、NF-κBシグナル伝達を含む炎症経路に濃縮されていた。統合解析により55個の共通候補遺伝子が同定され、得られた相互作用ネットワークにおいてNFKB1が最も高い結合性を示した。マウス喘息モデルの肺組織では、細胞質p105の減少と核内p50の増加が認められた。B95-8およびRaji細胞におけるBZLF1の過剰発現は、全細胞p105の減少および核内p50の増加と関連していた。BZLF1過剰発現のないB95-8細胞において、NFKB1を標的とするsiRNAはp105量を減少させ、より高いEBV DNAレベルと関連していた。考察EBNA1およびZEBRAの血清反応性は、遺伝的に裏付けられた異なる疾患関連パターンを示した。統合解析および実験的観察により、NFKB1がZEBRA関連炎症経路における候補ハブとして優先的に特定され、さらなる機序的調査の基礎が得られた。"
+  },
+  {
+    "id": "10.1093/nar/gkag1153",
+    "title": "Truncated APC regulates alternative splicing by interacting with DDX21 in colorectal cancer",
+    "abstract": "AbstractTruncating mutations in the adenomatous polyposis coli (APC) gene—a key driver of colorectal cancer (CRC) initiation—frequently lead to the production of a truncated APC protein (Trunc-APC). However, its post-transcriptional roles and oncogenic potential remain largely unexplored. Here, we demonstrate that Trunc-APC functions as an RNA-binding protein, directly associating with pre-mRNA via its N-terminal 1–169 amino acid region to regulate widespread alternative splicing (AS) in CRC cells. Specifically, Trunc-APC promotes exon inclusion in ARHGEF11, producing an oncogenic isoform that is associated with enhanced Bcl-xL/BAX complex formation and reduced apoptosis. Mechanistically, Trunc-APC interacts with the RNA helicase DDX21 and facilitates SF3B complex recruitment to pre-mRNA, thereby modulating splicing patterns. Notably, treatment with the splicing inhibitor Madrasin significantly reduced tumor burden in ApcMin/+ CRC mice, indicating strong antitumor efficacy. Collectively, these findings establish Trunc-APC as a novel regulator of alternative splicing and a promoter of CRC progression, and highlight the therapeutic potential of targeting the Trunc-APC/DDX21/SF3B axis in CRC.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1153",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1153/9029965?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3295,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1153"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e87b86a719f3255202f80a73debe3ec00ac65eced6139fad219d727f80d901b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:49:11.870738+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e4bfdf75f39dd9c2bc332b91aa0512490b2f456caff68066d4d5966d80745159",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:49:11.870738+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大腸癌において切断型APCはDDX21と相互作用することで選択的スプライシングを調節する",
+    "abstract_ja": "要旨大腸がん（CRC）発症の主要な駆動因子である結腸腺腫性ポリポーシス（APC）遺伝子の変異を切断すると、しばしば切断型APCタンパク質（Trunc-APC）が産生される。しかし、その転写後役割および発がん能については、依然としてほとんど解明されていない。本研究では、Trunc-APCがRNA結合タンパク質として機能し、N末端の1～169アミノ酸領域を介してpre-mRNAに直接結合することで、CRC細胞における広範な選択的スプライシング（AS）を制御することを実証する。具体的には、Trunc-APCはARHGEF11のエクソン取り込みを促進し、Bcl-xL/BAX複合体形成の亢進およびアポトーシスの抑制に関連する発がん性アイソフォームを産生する。機序としては、Trunc-APCがRNAヘリカーゼDDX21と相互作用し、SF3B複合体のpre-mRNAへの動員を促進することで、スプライシングパターンを調節する。特筆すべきは、スプライシング阻害剤Madrasinによる処理がApcMin/+ CRCマウスにおいて腫瘍負荷を有意に減少させたことであり、強力な抗腫瘍効果が示された。総じて、これらの知見は、Trunc-APCが選択的スプライシングの新規調節因子であり、CRC進行の促進因子であることを立証するとともに、CRCにおけるTrunc-APC/DDX21/SF3B軸を標的とした治療の可能性を浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pcbi.1014839",
+    "title": "Sequence-based coevolutionary prediction of species-specific interactomes.",
+    "abstract": "Evolutionarily conserved protein-protein interactions (PPIs) reveal fundamental biological processes. However, predicting protein function solely from these interactions provides an incomplete picture of biological systems. Computational methods for predicting PPIs often struggle due to limited functional annotations in databases, making it difficult to fully understand unique biological systems. This study introduces ContextMirror2.0 (CM2.0), a coevolution-based method designed to address these limitations. Coevolutionary approaches, unlike supervised machine learning methods, do not rely on labelled datasets, proving valuable in addressing the scarcity of data for species-specific PPIs. Around 40% of CM2.0's top-1000 predicted PPIs for E. coli, S. enterica, and S. aureus are supported by experimental PPI databases. However, comparative analysis of the resulting functional communities further revealed both highly conserved interaction patterns and species-specific interactions. CM2.0 leverages coevolutionary information at the phylogenetic level to explore protein interaction dynamics and understand the functional consequences of species-specific variations. This information can inform further studies on the emergence of novel functions, adaptation to specific environments, and the development of targeted therapies.",
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014839",
+    "date": "2026-11-06",
+    "authors": "Fernandez-Martin M, Pontes C, Ruiz-Serra V, Valencia A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993688",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13742926",
+    "pmid": "42993688",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2526,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pcbi.1014839"
+    ],
+    "translation": {
+      "title": {
+        "hash": "70b750da254da13a72ab4c43b484d534e817b17f85d2bbd43d73e635009ac110",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:49:11.870738+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b9bab36de65827f24679a5c7ff9a595abc25d47178a7671ef08081061b602ea0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:49:11.870738+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "配列に基づく種特異的インタラクトームの共進化的予測",
+    "abstract_ja": "進化的に保存されたタンパク質間相互作用（PPI）は、基礎的な生物学的プロセスを明らかにする。しかし、これらの相互作用のみからタンパク質機能を予測しても、生物学的システムの全体像を不完全にしか把握できない。PPI予測のための計算手法は、データベースにおける機能アノテーションが限られていることから困難を伴うことが多く、固有の生物学的システムを完全に理解することを難しくしている。本研究では、こうした限界に対処するために設計された共進化ベースの手法であるContextMirror2.0（CM2.0）を提案する。共進化的アプローチは、教師あり機械学習手法とは異なり、ラベル付きデータセットに依存しないため、種特異的なPPIに関するデータ不足の解消において有用である。大腸菌（E. coli）、腸炎菌（S. enterica）、および黄色ブドウ球菌（S. aureus）についてCM2.0が予測した上位1,000件のPPIのうち、約40%が実験的なPPIデータベースによって裏付けられている。しかし、得られた機能コミュニティの比較解析により、高度に保存された相互作用パターンと種特異的な相互作用の両方がさらに明らかになった。CM2.0は、系統発生レベルの共進化情報を活用してタンパク質相互作用のダイナミクスを探索し、種特異的な変異がもたらす機能的帰結を理解する。この情報は、新規機能の出現、特定環境への適応、および標的療法の開発に関するさらなる研究に資するものである。"
+  },
+  {
+    "id": "10.1371/journal.pgen.1012379",
+    "title": "Paralogous guanine deaminases acquired from bacteria by horizontal gene transfer promote purine homeostasis in Caenorhabditis elegans",
+    "abstract": "by Sushila Bhattacharya, Lisa Fischer, Evrim Fer, Jennifer Snoozy, Grace N. Hagedorn, Marco Herde, Betül Kaçar, Claus-Peter Witte, Kurt Warnhoff\n\nDisruptions in purine metabolism contribute to a range of human diseases, from rare genetic disorders such as Lesch-Nyhan syndrome and xanthinuria to common conditions including gout and cancer. To better understand the metabolic networks that regulate purine homeostasis, we developed a Caenorhabditis elegans model of xanthine dehydrogenase (xdh-1) deficiency. Remarkably, xdh-1 mutant animals form rare xanthine stones, recapitulating a hallmark of human xanthinuria. To uncover genetic regulators of purine homeostasis, we performed a forward genetic screen for mutations that exacerbate xanthine stone formation in xdh-1 mutants. This approach identified multiple loss-of-function alleles in a previously uncharacterized gene, which we named gda-1. We show that gda-1 encodes an intestinal guanine deaminase that mediates a key enzymatic step in purine catabolism. The C. elegans genome also encodes a paralog, gda-2, which shares guanine deaminase activity but is expressed in distinct tissues. While gda-2 can compensate for gda-1 loss in guanine metabolism, the two genes exhibit non-redundant roles in regulating xanthine accumulation and stone formation. Interestingly, our evolutionary analyses suggest that gda-2 was acquired by nematodes via horizontal gene transfer from bacteria. These findings reveal a spatially regulated purine catabolism pathway in C. elegans and suggest that acquisition of bacterial genes has shaped a core nematode metabolic network.",
+    "journal": "PLOS Genetics",
+    "doi": "10.1371/journal.pgen.1012379",
+    "date": "2026-11-10",
+    "authors": "Kurt Warnhoff",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012379",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/plosgenetics/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2083,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://journals.plos.org/plosgenetics/feed/atom"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pgen.1012379"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c0839ed5033cd31dab5f3da5d69a77fbcd9fc0d24363f8f1976a7ca561ad47ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:49:11.870738+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8ff0ff1770e860d1640be80908d37d571bd94ed0094067ac93ed0e3f6f203e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:49:11.870738+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水平遺伝子伝達により細菌から獲得されたパラログ型グアニンデアミナーゼは、カエノラブディティス・エレガンスにおけるプリン恒常性を促進する。",
+    "abstract_ja": "Sushila Bhattacharya, Lisa Fischer, Evrim Fer, Jennifer Snoozy, Grace N. Hagedorn, Marco Herde, Betül Kaçar, Claus-Peter Witte, Kurt Warnhoff 著\n\nプリン代謝の障害は、レッシュ・ナイハン症候群やキサンチン尿症などの稀な遺伝性疾患から、痛風やがんを含む一般的な疾患に至るまで、ヒトのさまざまな疾患の一因となっている。プリン恒常性を調節する代謝ネットワークをより深く理解するため、我々はキサンチン脱水素酵素（xdh-1）欠損のC. elegansモデルを作製した。驚くべきことに、xdh-1変異体動物は稀なキサンチン結石を形成し、ヒトのキサンチン尿症の特徴的な所見を再現した。プリン恒常性の遺伝的調節因子を明らかにするため、我々はxdh-1変異体においてキサンチン結石形成を増悪させる変異の順方向遺伝学的スクリーニングを行った。この手法により、これまで特性解析されていなかった遺伝子に複数の機能喪失アレルが同定され、我々はこれをgda-1と命名した。我々は、gda-1がプリン異化の重要な酵素的段階を媒介する腸管グアニン脱アミノ酵素をコードしていることを示す。C. elegansのゲノムには、グアニン脱アミノ酵素活性を共有しながらも異なる組織で発現するパラログであるgda-2も存在する。gda-2はグアニン代謝におけるgda-1の欠損を補完できるが、これら2つの遺伝子はキサンチン蓄積および結石形成の調節において非冗長的な役割を担っている。興味深いことに、我々の進化解析は、gda-2が細菌からの水平遺伝子伝達によって線虫に獲得されたことを示唆している。これらの知見は、C. elegansにおいて空間的に調節されたプリン異化経路が存在することを明らかにし、細菌遺伝子の獲得が線虫の中核的な代謝ネットワークを形成したことを示唆している。"
   }
 ]
