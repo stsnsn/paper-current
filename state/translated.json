@@ -183725,5 +183725,300 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "有毒水銀、水圏生態系の崩壊、そして古代低地マヤ。",
     "abstract_ja": "古典期（西暦250～920年）の低地マヤが受けた環境影響には、干ばつ、森林破壊、および土壌侵食が含まれていた。水銀（Hg）汚染とシアノトキシンに関する近年の研究は、水質の悪化もまた先コロンブス期のマヤにとってのストレス要因であったことを示唆している。マヤ地域におけるHgは、単体水銀と鉱物辰砂（HgS）の両方の使用に関連しており、後者は赤色顔料として用いられていた。しかしながら、Hgの毒性や、先史時代のHg曝露が生態系およびヒトの健康に及ぼした影響については、依然として疑問が残っている。本研究では、ユカタン半島の2つの湖から採取した堆積物コアにおける古典期のHg濃度が、古代マヤの居住期間中の数世紀にわたり、現代の堆積物におけるHg毒性閾値を数桁上回っていたことを示す。また、堆積物からは水生食物網の崩壊（藻類、細菌、シアノバクテリア、オストラコド類、巻貝、および非刺咬性ユスリカ）の痕跡が認められ、これはHg濃度が高かった時期と一致しており、Hg毒性が古典期マヤの集団にとってさらなる環境ストレス要因であったことを裏付けている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1120",
+    "title": "The Immune Epitope Database (IEDB) in 2026: updates of immune receptor data",
+    "abstract": "AbstractThe Immune Epitope Database (IEDB, iedb.org) is a freely available resource cataloging experimentally defined immune epitopes and, where reported, the immune receptors that recognize them. The IEDB currently records ∼235 000 distinct T cell receptors and ∼6400 distinct B cell receptors/antibodies with experimentally verified epitope specificity. Here, we describe recent updates to the IEDB, centered on a comprehensive revision of these receptor data. Because receptors were curated from 3879 references spanning decades, heterogeneity in gene nomenclature and CDR delimitation presents challenges for computational analyses and user queries. We rebuilt the standardization and validation pipeline to compute IUIS/IMGT-compliant V/D/J gene names and consistently delimited V domain, CDR1, 2, 3, and Junction sequences, and identify anomalous receptors from 822 references for re-curation. The IEDB web interface was expanded to include receptor search features directly on the homepage, support V/J gene and species options in the refined receptor search, and direct data export in the Adaptive Immune Receptor Repertoire (AIRR) format. We anticipate that the improved data quality will simplify bioinformatics analyses and facilitate integration into cross-repository data resources, such as the AIRR Knowledge Commons.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1120",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1120/9026633?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2051,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1120"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9db3aeef0a782bb6463fd3dd46fab4e93d43ff6a774ac4879b07967480682c98",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:21:00.471164+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6ed496da684e7c1204a3c27ee1a91f42313689eee25175b663f353a38cf3602b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:21:00.471164+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2026年時点の免疫エピトープデータベース（IEDB）：免疫受容体データの更新",
+    "abstract_ja": "要旨免疫エピトープデータベース（IEDB, iedb.org）は、実験的に定義された免疫エピトープ、および報告されている場合にはそれらを認識する免疫受容体をカタログ化した、無料で利用可能なリソースである。IEDBには現在、実験的にエピトープ特異性が検証された約235,000種類のT細胞受容体と、約6,400種類のB細胞受容体／抗体が登録されている。本稿では、これらの受容体データの包括的な改訂を中心とした、IEDBの最近の更新内容について述べる。受容体は数十年にわたる3,879件の文献からキュレーションされたため、遺伝子命名法やCDR境界設定の不均一性が、計算解析やユーザークエリにおける課題となっている。我々は、IUIS/IMGT準拠のV/D/J遺伝子名を算出し、Vドメイン、CDR1、2、3、およびジャンクション配列を一貫して境界設定するための標準化および検証パイプラインを再構築するとともに、822件の文献から異常受容体を特定して再キュレーションを行った。IEDBのウェブインターフェースを拡張し、ホームページ上で直接受容体を検索できる機能、精緻化された受容体検索におけるV/J遺伝子および種のオプションへの対応、およびAdaptive Immune Receptor Repertoire（AIRR）形式での直接データエクスポート機能を追加した。データ品質の向上により、バイオインフォマティクス解析が簡素化され、AIRR Knowledge Commonsなどのクロスリポジトリデータリソースへの統合が促進されると期待している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0362219",
+    "title": "Integrative analysis reveals shared biomarkers and pathways in osteoporosis and rheumatoid arthritis using machine learning and single-cell sequencing.",
+    "abstract": "BackgroundOsteoporosis (OP) and Rheumatoid Arthritis (RA) are prevalent chronic diseases characterized by bone loss and immune dysregulation. Evidence suggests that patients with RA are at increased risk of developing OP; however, the shared molecular mechanisms linking these conditions remain incompletely understood.MethodsPublicly available bulk transcriptomic and single-cell RNA sequencing (scRNA-seq) datasets for OP and RA were obtained from the Gene Expression Omnibus (GEO) database. Weighted gene co-expression network analysis (WGCNA) was applied to identify shared gene modules associated with both diseases. Functional enrichment and protein-protein interaction analyses were performed to characterize common biological pathways. Machine learning algorithms, including Random Forest (RF) and Support Vector Machine (SVM), were used to identify and validate shared hub genes and to construct diagnostic models. Immune cell infiltration was evaluated using CIBERSORT, and the cellular localization of hub genes was further validated using scRNA-seq analysis.ResultsWGCNA identified 329 genes shared between OP- and RA-associated modules, which were significantly enriched in muscle-related processes, cytokine signaling, and immune-inflammatory pathways. RF analysis identified three shared candidate genes: ANO5, IL27RA, and CNTN3. Among these, ANO5 and IL27RA demonstrated consistent expression evidence and literature support, whereas CNTN3 emerged as a computationally nominated candidate requiring cautious interpretation and experimental validation. An SVM-based model incorporating these genes demonstrated robust predictive accuracy in both OP and RA validation cohorts. Immune infiltration analysis revealed distinct yet coordinated immune landscapes, with hub genes showing significant correlations with T cells, macrophages, B cells, and plasma cells. ScRNA-seq analysis revealed that ANO5 was predominantly expressed in macrophages and fibroblasts, IL27RA was mainly enriched in T cells, whereas CNTN3 showed minimal enrichment at the single-cell level in both OP bone and RA synovial tissues.ConclusionThis integrative bioinformatics and machine learning study identifies shared molecular signatures and immune-related mechanisms underlying OP and RA. ANO5 and IL27RA emerge as robust candidate regulators linking immune dysregulation and bone remodeling, whereas CNTN3-although identified by machine learning-requires cautious interpretation and further investigation due to limited supporting evidence. These findings provide novel insights into the pathogenesis of RA-associated OP and highlight potential biomarkers and therapeutic targets for their comorbidity.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0362219",
+    "date": "2026-11-04",
+    "authors": "Zhao J, Chen Y, Yang F, Tian C, Luo W, Su Z, Yang B, Liu W, Yang H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981373",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734575",
+    "pmid": "42981373",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2964,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0362219"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0ad111161737657f2d3adabf951709646f1d9846713141a320c3b6a7a2040c37",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:21:00.471164+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "14b07aa9225981f96cd1227029b5ffb7fe1847e0e507b863b0db9ace1670feb4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:21:00.471164+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合解析により、機械学習とシングルセルシーケンシングを用いて、骨粗鬆症と関節リウマチにおける共通のバイオマーカーおよびパスウェイが明らかになった。",
+    "abstract_ja": "背景骨粗鬆症（OP）および関節リウマチ（RA）は、骨量減少と免疫調節異常を特徴とする頻度の高い慢性疾患である。RA患者はOPを発症するリスクが高いことが示唆されているが、これらの疾患を結びつける共通の分子メカニズムについては未だ十分に解明されていない。方法OPおよびRAに関して公開されているバルクトランスクリプトーム解析およびシングルセルRNAシーケンシング（scRNA-seq）データセットを、Gene Expression Omnibus（GEO）データベースから取得した。両疾患に関連する共通遺伝子モジュールを同定するため、重み付き遺伝子共発現ネットワーク解析（WGCNA）を適用した。共通の生物学的パスウェイを特性評価するため、機能エンリッチメント解析およびタンパク質間相互作用解析を実施した。ランダムフォレスト（RF）およびサポートベクターマシン（SVM）を含む機械学習アルゴリズムを用いて、共通ハブ遺伝子の同定と検証、および診断モデルの構築を行った。免疫細胞浸潤をCIBERSORTを用いて評価し、ハブ遺伝子の細胞局在をscRNA-seq解析によりさらに検証した。結果WGCNAにより、OP関連モジュールとRA関連モジュールに共通する329個の遺伝子が同定され、これらは筋肉関連プロセス、サイトカインシグナル伝達、および免疫炎症パスウェイにおいて有意に濃縮されていた。RF解析により、ANO5、IL27RA、およびCNTN3の3つの共通候補遺伝子が同定された。これらのうち、ANO5とIL27RAは一貫した発現エビデンスと文献的裏付けが認められた一方、CNTN3は計算機により指名された候補であり、慎重な解釈と実験的検証が必要であることが示された。これらの遺伝子を組み込んだSVMベースのモデルは、OPおよびRAの両方の検証コホートにおいて堅牢な予測精度を示した。免疫浸潤解析の結果、それぞれ異なるが協調的な免疫ランドスケープが明らかになり、ハブ遺伝子はT細胞、マクロファージ、B細胞、および形質細胞と有意な相関を示した。scRNA-seq解析により、ANO5は主にマクロファージおよび線維芽細胞で発現し、IL27RAは主にT細胞で濃縮されていた一方、CNTN3はOPの骨組織およびRAの滑膜組織の両方において、シングルセルレベルでの濃縮が最小限であることが明らかになった。結論本統合バイオインフォマティクスおよび機械学習研究は、OPおよびRAの根底にある共通の分子シグネチャーおよび免疫関連メカニズムを同定した。ANO5およびIL27RAは、免疫調節異常と骨リモデリングを結びつける堅牢な候補調節因子として浮上したが、CNTN3は機械学習によって同定されたものの、裏付けとなるエビデンスが限られているため、慎重な解釈とさらなる調査が必要である。これらの知見は、RA関連OPの病態形成に関する新たな洞察を与えるとともに、両者の併存における潜在的なバイオマーカーおよび治療標的を浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2621335123",
+    "title": "Geochemical signatures of magnetite are conserved in diverse populations of environmental magnetotactic bacteria.",
+    "abstract": "Magnetotactic bacteria (MTB) synthesize intracellular magnetite nanoparticles in a genetically controlled manner. They may represent some of the earliest biomineralizing organisms on Earth, and a unique window into ancient life and the environments that hosted it. Yet, identification of their mineralogical remains in ancient rocks is highly challenging due to the lack of reliable and lasting proxies. Previous results obtained from laboratory cultures of single strains of MTB revealed trace element and Fe isotope patterns that are not shared by any other source of magnetite, which could be used as reliable proxies for the identification of ancient MTB. However, the environmental relevance of these previous findings for environmental and mixed population of MTB is unknown. We report the trace element and Fe isotope compositions of magnetite extracted from environmental MTB collected in the water column of Lake Pavin, France, and show that the most distinctive geochemical traits (enrichment in Mo, Se, Sn, and light Fe isotopes) of magnetite produced by MTB cultivated in the laboratory are conserved in environmental populations. They represent potential biological signatures that can be searched in ancient rocks and coupled with magnetic and mineralogical tracers to support the presence of MTB and reconstruct their emergence and evolution.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2621335123",
+    "date": "2026-11-03",
+    "authors": "Busigny V, Praharaj A, Amor M, Mathon FP, Monteil CL, Menguy N, Benzerara K, Mehta N, Jézéquel D, Viollier E, Lefèvre CT.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975941",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42975941",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [
+          "lake"
+        ],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2221,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2621335123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4dd34e940a920305adcd939d6a2fa0cdd02b352223920f2bd1763dd3cefe47fa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:21:00.471164+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "293706aaf4967d0bc9a881859e2343c964330e82ff5e698f3a966805ad6b4d1e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:21:00.471164+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "磁鉄鉱の地球化学的シグネチャーは、多様な環境磁性細菌集団において保存されている。",
+    "abstract_ja": "磁性細菌（MTB）は、遺伝的に制御された様式で細胞内に磁鉄鉱ナノ粒子を合成する。これらは地球上で最も初期の生物鉱物形成生物の一部である可能性があり、古代の生命とそれを支えた環境を垣間見る独自の窓となり得る。しかし、信頼性が高く永続的なプロキシが不足しているため、古代の岩石におけるその鉱物学的遺構の同定は極めて困難である。MTBの単一株を用いた実験室培養から得られた先行研究の結果では、他のいかなる磁鉄鉱源とも共通しない微量元素およびFe同位体パターンが明らかになっており、これらは古代MTBの同定における信頼性の高いプロキシとして利用できる可能性がある。しかし、これらの先行知見が環境中および混合集団のMTBに対して持つ環境学的な意義は不明である。本報では、フランスのパヴァン湖の水柱から採取した環境中MTBから抽出した磁鉄鉱の微量元素およびFe同位体組成を報告し、実験室で培養されたMTBによって生成された磁鉄鉱の最も特徴的な地球化学的特性（Mo、Se、Sn、および軽Fe同位体の濃縮）が、環境集団においても保持されていることを示す。これらは、古代の岩石において探索可能な潜在的な生物学的シグネチャーであり、磁気および鉱物学的トレーサーと組み合わせることで、MTBの存在を裏付け、その出現と進化を復元することが可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aei1795",
+    "title": "A biofilm-derived peptide as an underwater adhesive.",
+    "abstract": "Wet adhesives that perform under water have broad applications in industrial and biomedical settings. To date, molecular designs for underwater adhesives have largely been inspired by marine animals including mussels and barnacles. Here, we propose bacterial biofilms as an alternative source of inspiration for underwater adhesives. Specifically, we demonstrate the application potential of a peptide derived from biofilms formed by the notorious pathogen Vibrio cholerae. We characterize the ability of this biofilm-derived peptide to adsorb onto various surfaces and to glue wet surfaces by using a combination of confocal microscopy, molecular dynamics simulations, atomic force microscopy, lap shear tests, and spectroscopic tools. We further show that the peptide can coaggregate with microspheres acting as an effective flocculant. Our results open new design possibilities for underwater adhesives inspired by natural biofilms.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei1795",
+    "date": "2026-11-04",
+    "authors": "Huang X, Liszczyk ED, Prasad R, Mitchell ME, Wang Z, Liu Y, Saluja S, Wang M, Jackson RA, Dahl P, Eguiluz RA, Malvankar N, Yan ECY, Olson R, Zhou HX, Yan J.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981400",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13733808",
+    "pmid": "42981400",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1467,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1126/sciadv.aei1795"
+    ],
+    "translation": {
+      "title": {
+        "hash": "acd0d484b801c8aa0cf5c9ceb48696e441d2411afeb1344630f163f5cb8f4fb2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:21:00.471164+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b0948a99d3eb172a449fbf2ed58e813868e0c58c5df576c81eb88bb5ccae56f8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:21:00.471164+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水中接着剤としてのバイオフィルム由来ペプチド。",
+    "abstract_ja": "水中で機能する湿潤接着剤は、産業および生物医学分野において幅広く応用されている。これまで、水中接着剤の分子設計は、主にムール貝やフジツボなどの海洋生物から着想を得てきた。本研究では、水中接着剤の代替的な着想源として、細菌バイオフィルムを提案する。具体的には、悪名高い病原体であるコレラ菌（Vibrio cholerae）が形成するバイオフィルム由来のペプチドの応用可能性を実証する。共焦点顕微鏡法、分子動力学シミュレーション、原子間力顕微鏡、ラップせん断試験、および分光分析手法を組み合わせて、このバイオフィルム由来ペプチドの各種表面への吸着能および湿潤表面への接着能を特性評価する。さらに、このペプチドが有効な凝集剤として機能する微小球と共凝集し得ることを示す。本研究の結果は、天然のバイオフィルムに着想を得た水中接着剤の新たな設計可能性を切り拓くものである。"
   }
 ]
