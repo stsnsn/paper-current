@@ -178398,5 +178398,299 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "敗血症における静脈血栓塞栓症リスク因子に関連する候補マーカーとしての基本ロイシンジッパーATF様転写因子（BATF）：バイオインフォマティクスと機械学習を用いた統合解析",
     "abstract_ja": "背景敗血症は世界中で毎年1,900万人以上に影響を及ぼしており、静脈血栓塞栓症（VTE）のリスク増加と関連しており、これが臨床転帰を著しく悪化させる。しかし、Dダイマーなどの現行のバイオマーカーは特異性に欠けており、敗血症におけるVTEリスクに関連する分子シグネチャーは依然として不明である。方法統合トランスクリプトミクスおよび機械学習手法を適用し、敗血症関連データセットにおけるVTE関連バイオマーカーを同定した。公開されているデータセットを用いて、重み付き遺伝子共発現ネットワーク解析（WGCNA）、遺伝子発現変動解析、および免疫浸潤評価を実施した。候補バイオマーカーについては、受信者動作特性（ROC）解析、Cox回帰、ノモグラムモデリング、シングルセルRNAシーケンシング、および定量的ポリメラーゼ連鎖反応（qPCR）による検証を用いてさらに評価した。結果基本ロイシンジッパーATF様転写因子（BATF）が有力な候補バイオマーカーとして浮上し、敗血症およびVTE関連データセットの双方と有意に関連していた（倍率変化 >1.5、p）。BATFの発現は複数の独立したコホートにおいて一貫して上昇しており、疾患またはリスクスコアで定義された表現型に対して識別能を示し、曲線下面積（AUC）値は0.831～0.953の範囲であった。BATFの高発現は、敗血症患者におけるプロトロンビン時間の延長および28日死亡率と関連していた（p = 0.024）。シングルセル解析では、マクロファージおよび樹状細胞におけるBATFの濃縮が認められた。結論BATFは、敗血症関連コホートにおけるVTE高リスク表現型および28日死亡率に関連する候補バイオマーカーとなり得る。しかし、本研究では判定済みまたは画像診断で確認されたVTEイベントに対するBATFの検証は行われていないため、確定したVTEの診断マーカーや血栓症の直接的な予測因子として解釈すべきではない。その臨床的有用性を確認するには、判定済みのVTE転帰を有する前向きコホートが必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01949-26",
+    "title": "DksA regulates intestinal colonization of <i>Klebsiella pneumoniae</i> through metabolic plasticity.",
+    "abstract": "Intestinal colonization by Klebsiella pneumoniae is recognized as a pivotal prerequisite for its systemic dissemination and subsequent invasive infection; however, the metabolic basis and regulatory mechanisms underlying this process remain poorly understood. In this study, we employed transposon insertion sequencing (Tn-seq) to systematically identify metabolic genes associated with intestinal colonization in K. pneumoniae. By integrating high-throughput screening with in vivo phenotypic validation, we identified the global transcriptional regulator DksA as a key factor that markedly enhances K. pneumoniae intestinal colonization. Mechanistically, DksA may contribute to intestinal colonization through modulation of central carbon metabolism. Integrated transcriptomic and metabolomic analyses, together with homology modeling and molecular dynamics simulations, suggested that DksA may contribute to allosteric remodeling of key RNA polymerase structural domains, thereby influencing the expression of metabolic genes, carbon source utilization, and intestinal colonization by K. pneumoniae. Collectively, our findings highlight the important role of metabolic plasticity associated with transcriptional regulation in K. pneumoniae intestinal colonization and provide a theoretical framework and potential targets for developing anti-colonization strategies that exploit pathogen metabolic vulnerabilities.ImportanceIntestinal colonization is a critical first step in the pathogenesis and transmission of Klebsiella pneumoniae, yet the bacterial factors that support persistence in the gut remain incompletely understood. In this study, we identified the transcriptional regulator DksA as an important contributor to intestinal colonization through genome-wide genetic screening and in vivo validation. Multi-omics analyses suggest that DksA is associated with the regulation of bacterial carbon metabolism and metabolic adaptation, processes that are likely important for survival in the nutrient-variable intestinal environment. Structural modeling further provides insight into how DksA may influence transcriptional regulation. These findings expand our understanding of the factors that facilitate K. pneumoniae gut colonization and highlight bacterial metabolic adaptation as a potential target for strategies aimed at limiting colonization and subsequent infection.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01949-26",
+    "date": "2026-10-21",
+    "authors": "Wan J, Wang Y, Wang L, Li Y, Xiong S, Chu X, Zhou D, Li J, Li M, Xia X, Wang W, Yang M, Liu W, Wen Y, Qiu Z, Feng S, Tian G-B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904630",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904630",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1318,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.01949-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ede07ebfca8ff47e48c7d071a938a412e87478201eab4240acc74868f905a7ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:00:32.677603+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bb764cc9daa4518d0fac5703a4ad247e25d3e4d71341b6d126f960dfb705c8f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:00:32.677603+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DksAは代謝可塑性を介して<i>Klebsiella pneumoniae</i>の腸管定着を調節する。",
+    "abstract_ja": "Klebsiella pneumoniaeによる腸管定着は、その全身への拡散およびその後の侵襲性感染における極めて重要な前提条件であると認識されているが、そのプロセスの根底にある代謝基盤および調節機構については十分に解明されていない。本研究では、トランスポゾン挿入シーケンシング（Tn-seq）を用いて、K. pneumoniaeの腸管定着に関連する代謝遺伝子を系統的に同定した。ハイスループットスクリーニングとin vivo表現型検証を統合することで、グローバルな転写調節因子DksAが、K. pneumoniaeの腸管定着を著しく促進する鍵因子であることを同定した。機序的には、DksAは中心炭素代謝の調節を通じて腸管定着に寄与している可能性がある。統合的なトランスクリプトームおよびメタボローム解析を、ホモロジーモデリングおよび分子動力学シミュレーションと併せて行った結果、DksAが主要なRNAポリメラーゼ構造ドメインのアロステリックリモデリングに寄与し、それによって代謝遺伝子の発現、炭素源の利用、およびK. pneumoniaeによる腸管定着に影響を及ぼしている可能性が示唆された。総じて、本研究の知見は、K. pneumoniaeの腸管定着における転写調節に関連する代謝可塑性の重要な役割を浮き彫りにするとともに、病原体の代謝上の脆弱性を利用した抗定着戦略を開発するための理論的枠組みと潜在的な標的を提供するものである。重要性腸管定着は、Klebsiella pneumoniaeの病態形成および伝播における極めて重要な第一段階であるが、腸内での持続性を支える細菌因子については依然として十分に解明されていない。本研究では、ゲノムワイドな遺伝学的スクリーニングとin vivo検証を通じて、転写調節因子DksAが腸管定着の重要な寄与因子であることを同定した。マルチオミクス解析により、DksAが細菌の炭素代謝および代謝適応の調節に関与していることが示唆されており、これらのプロセスは、栄養条件が変動する腸管環境における生存に重要である可能性が高い。構造モデリングにより、DksAが転写調節にどのように影響を及ぼし得るかについてのさらなる知見が得られた。これらの知見は、K. pneumoniaeの腸管定着を促進する因子に関する理解を深めるとともに、定着およびその後の感染を制限することを目的とした戦略の潜在的な標的として、細菌の代謝適応を浮き彫りにするものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1216",
+    "title": "SnoDB 3.0: a specialized database featuring murine and human annotation and cross-species correspondence for the snoRNA community",
+    "abstract": "AbstractSmall nucleolar RNAs (snoRNAs) are a large, evolutionarily conserved family of non-coding RNAs that guide ribosomal RNA (rRNA) modifications. Recent years have seen growing interest in the biological and biomedical roles of snoRNAs, their guided rRNA modifications, and their alternative functions. snoDB is a specialized database that aggregates human snoRNA annotations and features, including genomic location, host gene, conserved motifs, protein and RNA interactors, expression levels, as well as rRNA target sites and modification levels. In this third release, we expand the database to include murine snoRNAs with an equivalent level of annotation, update human snoRNA host genes, RNA interactors and protein interactors, and introduce new tools to establish snoRNA and rRNA target cross-species correspondence. snoDB 3.0 is available at https://bioinfo-scottgroup.med.usherbrooke.ca/snoDB/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1216",
+    "date": "2026-11-12",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1216/9036061?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4143,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1216"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5715ac4b0c4752d57209e488b419a77e490431854a1081f49dc70ca7c788344c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:00:32.677603+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97ef22e52dbfc19c977248e1c9145c408b961c1c1b204ec6c9ce031b24b34fd8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:00:32.677603+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SnoDB 3.0: snoRNAコミュニティ向けのマウスおよびヒトのアノテーションと種間対応を備えた特化型データベース",
+    "abstract_ja": "要旨：小核小体RNA（snoRNA）は、リボソームRNA（rRNA）修飾を誘導する、進化的に保存された大規模な非コードRNAファミリーである。近年、snoRNAの生物学的・生物医学的役割、それらが誘導するrRNA修飾、および代替機能への関心が高まっている。snoDBは、ゲノム上の位置、宿主遺伝子、保存モチーフ、タンパク質およびRNA相互作用因子、発現レベル、ならびにrRNA標的部位および修飾レベルを含む、ヒトsnoRNAのアノテーションと特徴を集約した特化型データベースである。本第3リリースでは、同等レベルのアノテーションを用いてマウスsnoRNAをデータベースに追加し、ヒトsnoRNAの宿主遺伝子、RNA相互作用因子およびタンパク質相互作用因子を更新するとともに、snoRNAとrRNAの標的間の種間対応関係を確立するための新たなツールを導入した。snoDB 3.0は、https://bioinfo-scottgroup.med.usherbrooke.ca/snoDB/ で利用可能である。"
+  },
+  {
+    "id": "10.1371/journal.pbio.3004089",
+    "title": "The importance of genes does not predict their mutation rate",
+    "abstract": "by Sofia Radrizzani, Laurence D. Hurst\n\nThe convention that mutation is a random process has been challenged by suggestions that selection has acted on between-gene variation in the mutation rate, with claims that more important genes are protected from mutation in part, in prokaryotes, by being on the leading strand, while those required for rapid adaptive evolution have higher mutation rates, in part by being on the lagging strand. The original selectionist claims have proven contentious with several replication failures. However, none of the replication attempts fully allow for covariates and many employ data from mismatch repair (MMR) knockout strains. To address these limitations, we consider amassed mutation accumulation data for wild-type Escherichia coli, the focal species for adaptive claims, and Saccharomyces cerevisiae, in a multiple parameter-controlled analysis to predict between-gene variation in mutational density (mutations per base pair). Along with covariates, we consider putative selectively relevant parameters: protein level and essentiality to capture genic “importance”, and, in E. coli, strand with respect to DNA replication. We consider deviation of correlation and partial correlation values from those expected under trinucleotide-controlled simulations. While in E. coli more highly transcribed genes may have slightly lower mutation rates, potentially consistent with a selectionist model, the same is not seen in yeast, and in neither species do genes for more abundant or essential proteins have lower mutation rates. In E. coli there is no difference in mutation rate between genes on different strands, a lack of difference replicated in other prokaryotes. The degree of purifying selection is also not predictive of mutation density. We additionally highlight a strong artefact seen using the standard off-the-shelf statistical approach and note that results from MMR-deficient strains are discordant. We conclude that as trends are nearly uniformly unsupportive, not consistent between species and of miniscule effect size, they present no challenge to convention.",
+    "journal": "PLOS Biology",
+    "doi": "10.1371/journal.pbio.3004089",
+    "date": "2026-11-12",
+    "authors": "Laurence D. Hurst",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004089",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Saccharomyces",
+        "prokaryote",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/plosbiology/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4295,
+    "collected_at": "2026-11-13T00:32:03.610806+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://journals.plos.org/plosbiology/feed/atom"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1371/journal.pbio.3004089"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ba34e413caf691b39b1c9edf77afae2f21ace5ac9413e19f1b3fbaad0f9bd826",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:00:32.677603+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "81599bd59e38b0397ceca06e2a33ce33411f225dec27c6a132492c673b9d5f0c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:00:32.677603+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝子の重要性は、その変異率を予測しない。",
+    "abstract_ja": "ソフィア・ラドリッツァーニ、ローレンス・D・ハースト 著\n\n突然変異がランダムな過程であるという通説に対し、遺伝子間変異率に選択が作用してきたという示唆がなされている。その主張によれば、原核生物においては、より重要な遺伝子がリーディング鎖に位置することで部分的に突然変異から保護される一方で、迅速な適応進化に必要な遺伝子は、部分的にラギング鎖に位置することで突然変異率が高くなるという。当初の選択論的な主張は、いくつかの再現実験の失敗により論争の的となってきた。しかし、いずれの再現実験も共変量を完全には考慮しておらず、また多くはミスマッチ修復（MMR）ノックアウト株のデータを用いている。これらの限界に対処するため、我々は適応論的な主張の焦点となる野生型大腸菌（Escherichia coli）および出芽酵母（Saccharomyces cerevisiae）の蓄積された突然変異蓄積データを用い、多パラメータ制御解析を行うことで、突然変異密度（塩基対あたりの突然変異数）の遺伝子間変異を予測する。共変量に加え、選択的に関連していると考えられるパラメータとして、遺伝子の「重要性」を捉えるためのタンパク質量と必須性、および大腸菌においてはDNA複製に関する鎖の位置を検討する。また、三ヌクレオチド制御シミュレーションで予想される値からの、相関値および部分相関値の乖離についても検討する。大腸菌では、転写量の多い遺伝子ほど突然変異率がやや低い傾向にあり、これは選択論的モデルと整合する可能性があるが、酵母では同様の傾向は見られず、またいずれの種においても、より豊富に存在するタンパク質や必須タンパク質の遺伝子において突然変異率が低いということはない。大腸菌では、異なる鎖上の遺伝子間で突然変異率に差は見られず、この差異の欠如は他の原核生物でも再現されなかった。純化選択の程度も、突然変異密度の予測因子とはならない。さらに、標準的な市販の統計的手法を用いた際に認められる顕著なアーティファクトを指摘し、MMR欠損株の結果に不一致があることを述べる。結論として、傾向はほぼ一様に支持されず、種間で一貫しておらず、効果量も極めて小さいため、これらは通説に異議を唱えるものではないとする。"
+  },
+  {
+    "id": "10.1371/journal.pcbi.1014954",
+    "title": "Sphinx: An R package for adaptive spatial neighborhood modeling and functional analysis in spatial omics",
+    "abstract": "by Mengyi Yan, Xiaoxiu Tan, Zhenhao Liu, Siwen Zhang, Yiwen Du, Hong Li, Lanming Chen, Lu Xie\n\nSpatial omics enables analysis of tissue microenvironmental heterogeneity, but most spatial tools are optimized for transcriptomics and poorly suited to proteomics data. We developed Sphinx, an R package providing a comprehensive workflow for spatial proteomics, including preprocessing, cell annotation, adaptive spatial neighborhood modeling, and functional characterization. Importantly, it introduces an adaptive parameter selection framework guided by spatial statistical metrics and incorporates computational optimizations for large-scale datasets, enabling robust neighborhood modeling. Notably, Sphinx offers improved computational efficiency and scalability. Across lung adenocarcinoma, colorectal cancer, and mouse spleen datasets, Sphinx robustly identifies cell types and spatial functional units, including tertiary lymphoid structures. We also explored the application of Sphinx to paired high-resolution spatial transcriptomics datasets, illustrating its potential applicability. Sphinx provides a flexible and efficient framework for spatial proteomics, enabling robust characterization of spatial organization and tissue microenvironments.",
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014954",
+    "date": "2026-11-11",
+    "authors": "Lu Xie",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014954",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "proteomic",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/ploscompbiol/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4175,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://journals.plos.org/ploscompbiol/feed/atom"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1371/journal.pcbi.1014954"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ea302d7a2dedaa35c41e538658b725f50575e114311c33ea0ae54e6578af017e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:00:32.677603+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bd5f10ffea65426dfc9d51341560ed201abecb8928bf02a49c49b0d4ec86a0e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T02:00:32.677603+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Sphinx: 空間オミクスにおける適応的空間近傍モデリングおよび関数解析のためのRパッケージ",
+    "abstract_ja": "Mengyi Yan, Xiaoxiu Tan, Zhenhao Liu, Siwen Zhang, Yiwen Du, Hong Li, Lanming Chen, Lu Xie 著\n\n空間オミクスは組織微小環境の不均一性の解析を可能にするが、ほとんどの空間解析ツールはトランスクリプトミクス向けに最適化されており、プロテオミクスデータには適していない。我々は、前処理、細胞アノテーション、適応型空間近傍モデリング、および機能特性解析を含む、空間プロテオミクスのための包括的なワークフローを提供するRパッケージ「Sphinx」を開発した。特筆すべきは、空間統計指標に基づく適応型パラメータ選択フレームワークを導入し、大規模データセット向けの計算最適化を組み込むことで、堅牢な近傍モデリングを可能にした点である。さらに、Sphinxは計算効率とスケーラビリティの向上を実現している。肺腺癌、大腸癌、およびマウス脾臓のデータセットにおいて、Sphinxは細胞種および三次リンパ系構造を含む空間機能ユニットを堅牢に同定した。また、ペア化された高解像度空間トランスクリプトミクスデータセットへのSphinxの適用を検討し、その潜在的な適用可能性を示した。Sphinxは空間プロテオミクスのための柔軟かつ効率的なフレームワークを提供し、空間組織化および組織微小環境の堅牢な特性解析を可能にする。"
   }
 ]
