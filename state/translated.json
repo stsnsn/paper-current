@@ -196197,5 +196197,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "OSCAR：細胞特異的な遺伝子調節の解読に向けた、ペアシングルセルATAC-seqおよびRNA-seqのオミクスアトラス。",
     "abstract_ja": "ペアシングルセルクロマチンアクセシビリティおよびトランスクリプトームプロファイルは、多様な生物学的プロセスやヒト疾患の根底にある細胞特異的な調節プログラムを解析するための強力なフレームワークとなる。トランスポザーゼアクセス可能クロマチンシーケンシング（scATAC-seq）およびシングルセルRNAシーケンシング（scRNA-seq）のペアシングルセルアッセイデータが急速に蓄積されたことで、シングルセル解像度における調節ランドスケープを明らかにするために、これらのデータを包括的に統合する必要性が急務となっている。このニーズに応えるため、我々は大規模なペアscATAC-seqおよびscRNA-seqデータをキュレートし、包括的な調節アノテーションと解析を提供するOSCAR（ペアシングルセルATACおよびRNA-seqのオミクスアトラス、https://bio.liclab.net/OSCAR/）を開発した。現行バージョンのOSCARでは、30種類の組織タイプにわたる1,136サンプル、計7,749 898個のヒト細胞がカタログ化されている。特筆すべきは、OSCARがペアscATAC-seqおよびscRNA-seqプロファイルを統合して共同の細胞クラスタリングおよびピークから遺伝子へのリンケージ同定を行い、マーカーピークならびにマーカー遺伝子の調節エレメント（スーパーエンハンサー、エンハンサー、エンハンサーRNA（eRNA）、一般的およびリスクのある一塩基多型、発現量的形質遺伝子座、転写因子結合部位、転写因子／転写共因子結合ピーク、クラスター化規則的間隔短回文反復（CRISPR）/Cas9標的部位、DNase I過敏性部位、クロマチンアクセシビリティ領域、DNAメチル化部位、クロマチン相互作用領域、およびトポロジカル関連ドメインを含む）に対して詳細な（エピ）遺伝学的アノテーションを提供している点である。さらに、OSCARは、細胞タイプエンリッチメント解析、配列ベースのピーク調節解析、およびピークから遺伝子へのリンケージ解析という3つのオンライン解析ツールを提供している。したがって、OSCARは、多様なヒト組織や疾患にわたる細胞特異的な調節プログラムをクエリ、閲覧、解析、および可視化するための有用なプラットフォームである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1064",
+    "title": "Rice Expression Database (RED) 2.0: an updated rice database integrating diverse RNA expression profiles based on the telomere-to-telomere reference genome.",
+    "abstract": "Rice Expression Database (RED) is a rice gene expression database derived from large-scale RNA-seq data across different tissues and experimental conditions. Here, we present RED 2.0 (https://ngdc.cncb.ac.cn/red) with significant updates and enhancements. Specifically, RED 2.0 contains 357 projects covering 6471 bulk RNA-seq experiments across 18 tissues and 78 single-cell RNA-seq experiments comprising 984 495 cells. All projects are further manually curated and grouped into diverse biological contexts, including abiotic stress, biotic stress, hormone, development, genotype, and anatomy. Notably, based on the telomere-to-telomere assembly of the Nipponbare genome, RED 2.0 incorporates comprehensive expression profiles for 57 359 protein-coding genes (67 818 transcripts), 16 522 long non-coding RNA genes (47 396 transcripts), and 79 007 circular RNAs. In addition, it is equipped with online tools for differential expression analysis, functional enrichment analysis, co-expression network construction, and genome browser. Collectively, RED 2.0 provides a comprehensive expression landscape for both coding and non-coding genes across diverse conditions, serving as an important resource for rice functional genomics and molecular breeding.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1064",
+    "date": "2026-10-27",
+    "authors": "Wang Z, Li M, Chen M, Li Z, Yang D, Zou D, Zhang Z, Xu T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42935250",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42935250",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "database",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3947,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1064"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af9e1acb456ee05886830a56fcee5da8f2435057aaffcdff14d7df74ade21ef5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:23:26.794863+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f52cc764649923946f4c13b7fb8310e2fe3d4859fce62d2b1d6749c278d56937",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:23:26.794863+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Rice Expression Database (RED) 2.0：テロメア間リファレンスゲノムに基づく多様なRNA発現プロファイルを統合した更新版のイネデータベース。",
+    "abstract_ja": "イネ発現データベース（RED）は、異なる組織および実験条件にわたる大規模なRNA-seqデータから構築されたイネの遺伝子発現データベースである。本稿では、大幅な更新と機能強化を施したRED 2.0（https://ngdc.cncb.ac.cn/red）を提示する。具体的には、RED 2.0には、18組織にわたる6,471件のバルクRNA-seq実験と、984 495個の細胞からなる78件のシングルセルRNA-seq実験を網羅する357件のプロジェクトが含まれている。すべてのプロジェクトはさらに手動でキュレーションされ、非生物的ストレス、生物的ストレス、ホルモン、発生、遺伝子型、および解剖学的構造を含む多様な生物学的コンテキストに分類されている。特筆すべき点として、Nipponbareゲノムのテロメア間アセンブリに基づき、RED 2.0には57 359個のタンパク質符号化遺伝子（67 818個の転写産物）、16 522個の長鎖非コードRNA遺伝子（47 396個の転写産物）、および79 007個の環状RNAの包括的な発現プロファイルが組み込まれている。さらに、発現変動解析、機能エンリッチメント解析、共発現ネットワーク構築、およびゲノムブラウザのためのオンラインツールを備えている。総じて、RED 2.0は多様な条件下における符号化遺伝子および非符号化遺伝子双方の包括的な発現ランドスケープを提供し、イネの機能ゲノミクスおよび分子育種のための重要なリソースとなる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1040",
+    "title": "CellMarker 3.0: an updated resource of manually curated and computationally predicted cell markers in human/mouse and interactive web tools for single-cell and spatial transcriptomics analysis.",
+    "abstract": "The updated CellMarker 3.0 resource (http://bio-bigdata.hrbmu.edu.cn/CellMarker) offers a comprehensive resource, integrating experimentally validated and robustly algorithm-predicted marker genes for diverse cell types across human and mouse tissues. In addition, web tools for analyzing single-cell RNA-seq (scRNA-seq) and spatial transcriptomics (ST) data are described. CellMarker 3.0 was updated with more data and new features, including (i) appending 274 tissues, 1877 cell types, 64 040 markers, and 1 245 923 tissue-cell type-marker entries over the previous version. The current release contains 930 tissues, 4455 cell types, and 90 955 cell markers, resulting in a total of 1 329 284 tissue-cell type-marker entries. (ii) Expanding the resource to include computationally predicted cell-type markers derived from six algorithms, namely Spapros, Seurat::FindAllMarkers, SEMITONES, Cepo, CelliD, and COSG. (iii) New marker information was incorporated from 168 sequencing technologies, such as CEL-Seq2 and SNARE-seq. (iv) Covering 35 types of cell markers, including protein-coding genes, rRNAs, and pseudogenes. (v) The cell tool module was comprehensively restructured and upgraded, with the original six scRNA-seq analysis modules systematically optimized and two new spatial transcriptomics modules, Spatial Expression, and Spatial Chat, added. CellMarker 3.0 is a valuable resource that integrates cell identity identification, single-cell transcriptomics, and spatial transcriptomics analysis.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1040",
+    "date": "2026-10-27",
+    "authors": "Hu C, Li T, Zhu M, Li L, Ren B, Yang K, Wang Z, Li M, Qi B, Long Y, Lv N, Yang X, Fu R, Bai J, Li X, Zhang Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42935241",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42935241",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "resource",
+        "tool",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4018,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1093/nar/gkag1040"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f6a575ada46c6bc175ce66152d604b9208b69a01ad7ed21fee609bfd03da1660",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:23:26.794863+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5b1165303a6f77096f32204142e8c9a02be37220766dcdf88d1bfe55114cafd9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:23:26.794863+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CellMarker 3.0：ヒトおよびマウスにおいて手動でキュレーションおよび計算的に予測されたセルマーカーの更新版リソースと、シングルセルおよび空間トランスクリプトミクス解析のためのインタラクティブなウェブツール。",
+    "abstract_ja": "更新されたCellMarker 3.0リソース（http://bio-bigdata.hrbmu.edu.cn/CellMarker）は、ヒトおよびマウス組織における多様な細胞種を対象に、実験的に検証され、かつアルゴリズムによって堅牢に予測されたマーカー遺伝子を統合した包括的なリソースを提供している。さらに、シングルセルRNA-seq（scRNA-seq）および空間トランスクリプトミクス（ST）データの解析用ウェブツールについても記述されている。CellMarker 3.0は、より多くのデータと新機能が追加されて更新されており、具体的には、(i) 前バージョンから274種類の組織、1,877種類の細胞種、64,040個のマーカー、および1,245,923件の組織・細胞種・マーカーエントリが追加された。現在のリリースには、930種類の組織、4,455種類の細胞種、および90,955個の細胞マーカーが含まれており、合計で1,329,284件の組織・細胞種・マーカーエントリとなっている。(ii) Spapros、Seurat::FindAllMarkers、SEMITONES、Cepo、CelliD、およびCOSGという6つのアルゴリズムから導出された計算機予測による細胞種マーカーがリソースに拡充された。(iii) CEL-Seq2やSNARE-seqなど、168種類のシーケンシング技術から新たなマーカー情報が組み込まれた。(iv) タンパク質コード遺伝子、rRNA、および擬似遺伝子を含む35種類の細胞マーカーが網羅されている。(v) 細胞ツールモジュールが包括的に再構成・アップグレードされ、従来の6つのscRNA-seq解析モジュールが体系的に最適化されたほか、新たに2つの空間トランスクリプトミクスモジュールであるSpatial ExpressionおよびSpatial Chatが追加された。CellMarker 3.0は、細胞識別、シングルセルトランスクリプトミクス、および空間トランスクリプトミクス解析を統合した価値あるリソースである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1029",
+    "title": "SMARTFlexDB: a paired apo-holo RNA structure database and analysis platform for RNA conformational flexibility and small-molecule recognition.",
+    "abstract": "RNA structures can undergo substantial conformational changes upon small-molecule binding, yet existing structural resources provide only static RNA-ligand snapshots without connecting ligand-bound (holo) RNA structures to corresponding ligand-free (apo) conformations. SMARTFlexDB is a curated database and analysis platform that uses paired apo-holo RNA structures to characterize conformational differences and RNA-small molecule recognition. Candidate pairs were identified from the Protein Data Bank by matching RNA chains with at least 90% sequence identity and coverage, and fully conserved binding pocket nucleotides. The current release contains 434 binding pockets from 266 holo structures, linked to 186 apo structures to yield 1187 pocket-level apo-holo pairs organized into 734 database entries, spanning 150 small molecules and 23 RNA functional classes. Each entry integrates RNA sequence and secondary-structure annotations, apo and holo three-dimensional structures, RNA-ligand atomic interactions, and quantitative descriptors of global and local conformational changes. An interactive web interface enables users to explore sequence alignments and structural overlays, compare secondary structures and RNA motifs, and upload paired apo-holo structures for customized analysis. By linking ligand-bound and ligand-free RNA structures, SMARTFlexDB provides a robust foundation for investigating RNA structural flexibility and supporting RNA-targeted small-molecule drug discovery. The database and analysis platform are available at https://aidd.rc.ufl.edu/app/smartflexdb/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1029",
+    "date": "2026-10-26",
+    "authors": "Jiang S, Wei J, Taghavi A, Seabra G, Childs-Disney JL, Li C, Disney MD, Li Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42929196",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42929196",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "database"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3594,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1029"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f4e49c2c71d1ad2638ffa74a550618b709bab79e68eea3d16d869aec35dae3d7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:23:26.794863+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9ec67a7259d56dcc4d88ad51c04edfe7353ce573fd8bb41efeb08ec597f79f04",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:23:26.794863+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SMARTFlexDB：RNAの立体構造柔軟性および低分子認識のための、対になったアポホロRNA構造データベースおよび解析プラットフォーム。",
+    "abstract_ja": "RNA構造は低分子結合に伴い著しいコンフォメーション変化を起こし得るが、既存の構造リソースが提供するのは静的なRNA-リガンドスナップショットのみであり、リガンド結合状態（ホロ）のRNA構造を対応するリガンド非結合状態（アポ）のコンフォメーションに結びつけることはできていない。SMARTFlexDBは、ペアとなったアポ-ホロRNA構造を用いてコンフォメーションの差異およびRNA-低分子認識を特性評価する、キュレーション済みのデータベースおよび解析プラットフォームである。候補ペアは、RNA鎖を少なくとも90%の配列同一性とカバレッジ、および完全に保存された結合ポケットヌクレオチドと照合することで、Protein Data Bankから同定された。本リリースには、266のホロ構造由来の434個の結合ポケットが含まれており、これらが186のアポ構造に紐付けられ、計1,187組のポケットレベルのアポ-ホロペアが734件のデータベースエントリとして整理されている。これらは150種類の低分子および23種類のRNA機能クラスを網羅している。各エントリには、RNA配列と二次構造のアノテーション、アポおよびホロの三次元構造、RNA-リガンド間の原子間相互作用、ならびに大域的および局所的なコンフォメーション変化の定量的記述子が統合されている。インタラクティブなウェブインターフェースにより、ユーザーは配列アライメントや構造オーバーレイの探索、二次構造やRNAモチーフの比較、およびカスタマイズ解析のためのペアとなったアポ-ホロ構造のアップロードを行うことができる。リガンド結合状態とリガンド非結合状態のRNA構造を紐付けることで、SMARTFlexDBはRNAの構造的柔軟性の調査およびRNAを標的とした低分子創薬を支援する強固な基盤を提供する。本データベースおよび解析プラットフォームは、https://aidd.rc.ufl.edu/app/smartflexdb/ で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1031",
+    "title": "FITdb, an integrated Functional Immunogenomics and Transcriptomics database.",
+    "abstract": "Genetic screens in immune cells enable the systematic interrogation of gene function at scale, uncovering key regulators of cell functions such as tumor cell killing and persistence. However, existing datasets typically focus on specific biological questions, employ targeted gene panels, are generated under diverse experimental conditions, and are not readily accessible, which together limit their integration and future usability. To address this, we developed the Functional Immunogenomics and Transcriptomics database (FITdb), a freely accessible resource that harmonizes functional genomics datasets for the study of immune cell biology. FITdb currently integrates 43 independent functional genetics screens, including 31 bulk and 12 single-cell screens, spanning 20 696 mouse genes and 22 293 human genes across 199 immune cell types and cell states across 29 conditions. Datasets are reanalyzed using a standardized workflow to facilitate cross-study exploration. FITdb provides intuitive, gene-centric visualizations, detailed exploration of individual screens, and access to single-guide RNA-level data. Additionally, built-in tools such as \"Compare MyGeneSet\" and \"Compare MyScreen\" identify statistically significant overlaps between user-defined gene lists and functional gene sets in FITdb, and enable direct comparison of user-generated screening data with existing datasets, respectively. Together, FITdb provides a curated, continuously expanding, and user-friendly platform for accelerating the discovery of immune regulatory programs. The database is freely available at https://fitdb.lji.org.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1031",
+    "date": "2026-10-23",
+    "authors": "Cen X, Ma Q, Kim K, Gamas-Vis S, Goldrath A, Heeg M, Reina-Campos M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42922361",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42922361",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "genomic",
+        "resource",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3907,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1031"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a3f7b2cc5ba4f53b518f59b48823d48a0499ae8023f0ccd12dcc0fe3bd8a7ba0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:23:26.794863+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d5175b22bb042d90d293ba43f0c8ebec777fdec14ec47577c191decfb7852358",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:23:26.794863+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FITdb：統合型機能的免疫ゲノミクスおよびトランスクリプトミクスデータベース。",
+    "abstract_ja": "免疫細胞における遺伝子スクリーニングは、遺伝子機能の大規模な系統的解析を可能にし、腫瘍細胞の殺傷や生存といった細胞機能の主要な調節因子を明らかにする。しかし、既存のデータセットは通常、特定の生物学的問いに焦点を当て、標的遺伝子パネルを採用し、多様な実験条件下で生成されており、かつ容易にアクセスできないため、それらの統合や将来的な利用可能性が制限されている。この課題に対処するため、我々は、免疫細胞生物学の研究に向けた機能ゲノミクスデータセットを調和させた、無料で利用可能なリソースであるFunctional Immunogenomics and Transcriptomicsデータベース（FITdb）を開発した。FITdbは現在、31件のバルクスクリーニングと12件のシングルセルスクリーニングを含む43件の独立した機能遺伝学スクリーニングを統合しており、29の条件下における199種類の免疫細胞タイプおよび細胞状態にわたる20 696個のマウス遺伝子と22 293個のヒト遺伝子を網羅している。データセットは、研究間の探索を容易にするため、標準化されたワークフローを用いて再解析される。FITdbは、直感的な遺伝子中心の可視化、個々のスクリーニングの詳細な探索、およびシングルガイドRNAレベルのデータへのアクセスを提供する。さらに、「Compare MyGeneSet」や「Compare MyScreen」などの組み込みツールにより、ユーザー定義の遺伝子リストとFITdb内の機能遺伝子セットとの間の統計的に有意な重複を特定でき、それぞれユーザー生成のスクリーニングデータと既存のデータセットとの直接比較が可能となる。総じて、FITdbは、免疫調節プログラムの発見を加速させるための、キュレーションされ、継続的に拡充されるユーザーフレンドリーなプラットフォームを提供する。本データベースは、https://fitdb.lji.org で無料で利用可能である。"
   }
 ]
