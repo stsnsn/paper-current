@@ -189969,5 +189969,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "宿主および解剖学的フィルターが、鳥類スカベンジャーにおけるマイクロバイオームの収束を妨げる。",
     "abstract_ja": "環境中の微生物に高度にさらされる状況下で、宿主関連マイクロバイオームがどのように構築されるかは、微生物生態学における中心的な問いであり続けている。ハゲワシ類は、摂食生態と死骸利用の様式が著しく異なるため、特異な自然システムを構成している。本研究では、欧州の4種の絶対ハゲワシ類（Gypaetinae亜科：Gypaetus barbatus、Neophron percnopterus、およびAegypiinae亜科：Aegypius monachus、Gyps fulvus）と、条件的スカベンジャーであるMilvus milvusの計155個体を対象に、4つの解剖学的ニッチ（顔面、頬部、気管、および総排泄腔）にわたる細菌群集を特性評価した。マイクロバイオームの組成は、宿主種と解剖学的ニッチによって共同で構造化されており、解剖学的区画よりも宿主の種の方がより大きな変異を説明し、種間分化が身体部位に依存していることを示す有意な相互作用が認められた。各ニッチはそれぞれ異なる細菌アセンブラージュとコアマイクロバイオームを有していた。総排泄腔の群集では嫌気性の腸管関連分類群が豊富であった一方、顔面および気管の群集では環境および呼吸器関連の細菌が多く含まれていた。宿主特異的な分類学的シグネチャーは、同一の死骸関連微生物プールに繰り返しさらされているにもかかわらず、解剖学的ニッチ内でも維持されていた。年齢は群集組成にさらなる影響を及ぼしたが、性別による検出可能な影響はほとんど認められなかった。条件的スカベンジャーにおいても、絶対スカベンジャーで観察されたものと同様の広範な解剖学的区画化が認められたが、分類学的シグネチャーは種間で異なっていた。したがって、微生物的に豊かな共通資源に持続的にさらされていても、共通のスカベンジャー・マイクロバイオームを形成するには不十分であった。むしろ、マイクロバイオームの構築は、宿主種、解剖学的環境、および個体発生による階層的なフィルタリングを反映していた。これらの知見は、微生物への曝露と微生物の持続性を区別するものであり、脊椎動物宿主において、生態学的および解剖学的スケールにわたる共通の環境微生物リザーバーに繰り返しさらされているにもかかわらず、宿主関連群集がいかにして分化を維持しているかを理解するための自然モデルとして鳥類スカベンジャーを確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1982443",
+    "title": "Polyextremotolerant lignocellulolytic bacteria from contrasting halo-alkaline habitats as sources of extremozymes for rice husk saccharification and biofuel applications.",
+    "abstract": "RationaleLignocellulosic agricultural residues represent an enormous and largely untapped feedstock for second-generation biofuels, yet their structural recalcitrance remains the central bottleneck for cost-effective bioconversion. Conventional mesophilic enzymes lose much of their activity under the high-salinity, alkaline and thermally stressful conditions that define industrial biomass processing- a gap that microorganisms from naturally halo-alkaline ecosystems are well positioned to fill. Rice husk, generated in massive quantities as a by-product of rice milling across South Asia, remains an underutilized substrate whose silica-rich, lignin-shielded architecture makes it an appropriate and demanding test case for halotolerant biocatalysts.MethodsThree ecologically distinct saline habitats were sampled: Poovar Lake, a brackish mangrove estuary in Kerala (pH 6.92, salinity (chloride concentration) 1.90 g/L), Varkala Beach, a high-chloride concentration coastal site (pH 8.24, salinity (chloride concentration) 31.16 g/L), and Sanjay Lake, an anthropogenic inland lake in Delhi (pH 9.25, salinity (chloride concentration) 0.42 g/L). Using selective enrichment on halophilic media at 40 °C across a salinity range of 3-9% (w/v) NaCl, 29 halotolerant isolates were recovered and screened for xylanase, cellulase, lipase, amylase and protease activity using plate-based zone assays. The four most active cellulase- and xylanase-producing isolates, identified by 16S rRNA gene sequencing as Priestia flexa (XBL51), Bacillus proteolyticus (XBL61), Bacillus paralicheniformis (XBL66) and \"Vibrio neocaledonicus\" (XBL71), were then evaluated for their ability to hydrolyze alkaline-pretreated rice husk (1.5% (w/v) NaOH, 60 °C, 90 min) under saline-alkaline stress (4.5% (w/v) NaCl, pH 8.5, 40 °C). Growth kinetics and reducing sugar release were monitored over 6-days, and post-degradation structural changes in the biomass were characterized by X-ray diffraction (XRD) and scanning electron microscopy (SEM).ResultsAlkaline pretreatment significantly disrupted the crystalline architecture of rice husk, reducing the crystallinity index (CrI) from 49.31% to 33.93%, thereby loosening the structure and substantially improving substrate accessibility for enzymatic attack. Among individual isolates, monoculture of XBL61 and XBL71, as well as XBL51 + XBL66 + XBL71 showed the strongest growth on pretreated rice husk as the sole carbon source. Reducing sugar release across the top-performing isolates and consortia ranged from 1.69 to 1.97 mg/g over the 6-day incubation. Monocultures XBL61 and XBL66 emerged as the most effective isolates, exhibiting sustained sugar production. Among the two-isolate consortium, XBL51 + XBL71 exhibited synergistic growth and hydrolysis activity. Post-incubation, XRD analysis showed that XBL61 alone raised the CrI marginally to 52.10%, suggesting reduction of amorphous regions, including non-cellulosic components such as hemicellulose and amorphous cellulose. By contrast, the XBL51 + XBL71 consortium reduced the CrI to 49.07%, reflecting more extensive and balanced structural deconstruction. SEM corroborated these findings, revealing a clear progression from the intact, tightly laminated surface of untreated biomass through the fissured, loosened layers of the pretreated material, to the deeply porous, honeycombed morphology left following consortium-mediated degradation.ConclusionThese results demonstrate that halotolerant bacteria isolated from contrasting saline habitats, particularly when used as rationally designed consortia, can effectively deconstruct alkaline-pretreated rice husk under conditions that would substantially inhibit conventional mesophilic cellulases. The inherent stress tolerance of these isolates makes them promising candidates for lignocellulosic biorefinery processes where elevated salinity and alkaline pH are unavoidable operational realities. Enzyme-level characterization and fermentation coupling of these isolates represent logical next steps toward translating these findings into scalable platforms for second-generation biofuel production.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1982443",
+    "date": "2026-10-28",
+    "authors": "Gupta A, Pandey S, Agrawal A, Chauhan A, Huang KW, Karan R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43016732",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43016732",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Bacillus",
+        "Vibrio",
+        "bacteria",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "lake"
+        ],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 902,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1982443"
+    ],
+    "translation": {
+      "title": {
+        "hash": "63dd3a07cfb2cf977ef77b834062f6aa8e0f8469e75bb5811b635417742af9b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:30:52.597914+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9ed2ac7ec9522b9ecee18b0cdc90c29bf7a9e8c291a2eeaabf2664d3182e7a14",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:30:52.597914+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "籾殻糖化およびバイオ燃料用途のエクストリームザイム源となる、対照的なハロアルカリ環境由来の多伸長性極限耐性リグノセルロース分解細菌。",
+    "abstract_ja": "理論的根拠リグノセルロース系農業残渣は、第二世代バイオ燃料にとって膨大かつ大部分が未利用の原料であるが、その構造的な難分解性が、費用対効果の高いバイオコンバージョンにおける中心的なボトルネックとなっている。従来の中温性酵素は、工業的なバイオマス処理に特有の高塩分、アルカリ性、および熱ストレス条件下で活性の多くを失う。このギャップを埋める上で、天然のハロアルカリ性生態系由来の微生物は極めて適した存在である。南アジア全域で米の精米工程の副産物として大量に生成される籾殻は、依然として十分に活用されていない基質であり、そのシリカに富みリグニンで保護された構造は、ハロ耐性バイオ触媒にとって適切かつ要求水準の高い試験ケースとなる。方法生態学的に異なる3つの塩類生息地をサンプリングした：ケララ州の汽水マングローブ河口域であるプーヴァル湖（pH 6.92、塩分（塩化物濃度）1.90 g/L）、高塩化物濃度の沿岸地点であるヴァルカラビーチ（pH 8.24、塩分（塩化物濃度）31.16 g/L）、およびデリーの人工内陸湖であるサンジャイ湖（pH 9.25、塩分（塩化物濃度）0.42 g/L）である。40 °Cの好塩性培地を用い、3～9% (w/v) NaClの塩分範囲にわたって選択的濃縮を行った結果、29株のハロ耐性分離株を回収し、プレートベースのゾーンアッセイを用いてキシラナーゼ、セルラーゼ、リパーゼ、アミラーゼ、およびプロテアーゼ活性のスクリーニングを行った。16S rRNA遺伝子シーケンシングによりPriestia flexa (XBL51)、Bacillus proteolyticus (XBL61)、Bacillus paralicheniformis (XBL66)、および「Vibrio neocaledonicus」(XBL71)と同定された、最も活性の高い4株のセルラーゼ・キシラナーゼ産生分離株について、塩類・アルカリ性ストレス条件下（4.5% (w/v) NaCl, pH 8.5, 40 °C）でアルカリ前処理を施した籾殻（1.5% (w/v) NaOH, 60 °C, 90 min）を加水分解する能力を評価した。増殖速度論および還元糖の放出を6日間にわたってモニタリングし、分解後のバイオマスにおける構造変化をX線回折（XRD）および走査型電子顕微鏡（SEM）を用いて特性評価した。結果アルカリ前処理は籾殻の結晶構造を著しく破壊し、結晶性指数（CrI）を49.31%から33.93%に低下させた。これにより構造が緩み、酵素攻撃に対する基質のアクセス性が大幅に向上した。個々の分離株の中で、XBL61およびXBL71の単培養、ならびにXBL51 + XBL66 + XBL71は、唯一の炭素源として前処理済み籾殻に対して最も強い増殖を示した。最も性能の高い分離株およびコンソーシアムにおける還元糖の放出量は、6日間のインキュベーションで1.69～1.97 mg/gの範囲であった。単培養のXBL61およびXBL66は、持続的な糖生産を示し、最も効果的な分離株となった。2株のコンソーシアムでは、XBL51 + XBL71が相乗的な増殖と加水分解活性を示した。インキュベーション後、XRD解析によりXBL61単独でCrIがわずかに52.10%まで上昇したことが示され、ヘミセルロースや非晶質セルロースなどの非セルロース成分を含む非晶質領域の減少が示唆された。対照的に、XBL51 + XBL71コンソーシアムはCrIを49.07%まで低下させ、より広範かつバランスの取れた構造分解を反映していた。SEMによりこれらの知見が裏付けられ、未処理バイオマスの完全で密に積層された表面から、前処理材の亀裂が入った緩んだ層を経て、コンソーシアム介在性分解後に残された深く多孔質なハニカム構造へと明確に進行していることが明らかになった。結論これらの結果は、対照的な塩類生息地から分離されたハロ耐性細菌が、特に合理的に設計されたコンソーシアムとして用いられた場合、従来の中温性セルラーゼを著しく阻害する条件下においても、アルカリ前処理済み籾殻を効果的に分解できることを示している。これらの分離株が本来持つストレス耐性は、高塩分およびアルカリ性pHが避けられない運用上の現実であるリグノセルロース系バイオリファイナリープロセスにおいて、有望な候補となる。これらの分離株の酵素レベルの特性評価および発酵カップリングは、これらの知見を第二世代バイオ燃料生産のためのスケーラブルなプラットフォームへと転換するための論理的な次のステップとなる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1203",
+    "title": "VastDB 2.0: a multispecies atlas of alternative splicing profiles, evolution, and function",
+    "abstract": "AbstractVastDB is a widely used resource for the systematic exploration of alternative splicing, integrating quantitative splicing profiles with gene expression, genomic features, evolutionary conservation, and protein impact. Here, we present VastDB 2.0, a major expansion of the database in phylogenetic breadth and functional information. VastDB 2.0 covers 26 animal species spanning the major bilaterian clades and Cnidaria, comprising 7769 RNA-seq samples across diverse cell types, tissues, developmental stages, and other physiological contexts. Exon-level evolutionary relationships have been substantially expanded, enabling comparative analyses of exon conservation, gain, and loss across a larger phylogeny. In addition, VastDB 2.0 introduces a manually curated functional classification of alternative splicing events comprising 12 476 annotations from primary literature, which follows a standardized nomenclature and facilitates both biological interpretation and experimental prioritization. The web interface has also been redesigned with improved visualization and updated computational annotations. Together, VastDB 2.0 provides a comprehensive comparative framework for investigating the regulation, evolution, and functional impact of alternative splicing across Metazoa. VastDB 2.0 is freely available at https://vastdb.crg.eu.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1203",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1203/9041022?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "phylogenetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4385,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1203"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a238ed26c1544dfc43a9550b5247a727d0d0d4f9daa9c00f03933ab31d729d47",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:30:52.597914+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d5222381b971cc47842c0d967b89280fd13e92c6eb4d3e40098d21ae4b1eaaa6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:30:52.597914+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "VastDB 2.0: 選択的スプライシングプロファイル、進化、および機能の多種アトラス",
+    "abstract_ja": "要旨VastDBは、定量的スプライシングプロファイルを遺伝子発現、ゲノム特性、進化的保存性、およびタンパク質への影響と統合し、選択的スプライシングを体系的に探索するための広く利用されているリソースである。本稿では、系統学的網羅性と機能情報の大幅な拡充を実現したデータベース、VastDB 2.0を提案する。VastDB 2.0は、主要な左右相称動物系統群および刺胞動物にわたる26種の動物を網羅しており、多様な細胞種、組織、発生段階、およびその他の生理学的コンテキストにわたる7,769件のRNA-seqサンプルを収録している。エクソンレベルの進化的関係が大幅に拡張されたことで、より大きな系統樹にわたるエクソンの保存、獲得、および喪失の比較解析が可能となった。さらに、VastDB 2.0では、一次文献からの12 476件のアノテーションからなる、手作業でキュレーションされた選択的スプライシング事象の機能分類を導入しており、標準化された命名法に従うことで、生物学的解釈と実験的優先順位付けの双方を容易にする。また、ウェブインターフェースを刷新し、可視化の改善と計算アノテーションの更新を行った。これらを総合して、VastDB 2.0は後生動物全体における選択的スプライシングの調節、進化、および機能的影響を調査するための包括的な比較フレームワークを提供する。VastDB 2.0は、https://vastdb.crg.eu にて無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0361031",
+    "title": "IL15.3, a synthetic antimicrobial peptide, attenuates LPS-induced inflammatory responses in RAW 264.7 macrophages via transcriptional and proteomic modulation.",
+    "abstract": "Inflammation underlies numerous pathological conditions, driving the need for safe and effective anti-inflammatory agents. Anti-inflammatory peptides (AIPs) are promising therapeutics due to their specificity, efficacy, and safety. This study evaluated the cationic antimicrobial peptide IL15.3 for anti-inflammatory activity and cytocompatibility in vitro. IL15.3 demonstrated low cytotoxicity in MTT assays using RAW 264.7 macrophages, normal human dermal fibroblasts (NHDF), and HaCaT keratinocytes. In LPS-stimulated RAW 264.7 cells, IL15.3 significantly reduced nitric oxide (NO) production and reactive oxygen species (ROS) in a dose-dependent manner without affecting cell viability. qRT-PCR analysis revealed significant suppression of iNOS, COX-2, TNF-α, and IL-6 mRNA expression, alongside downregulation of NF-κB, JNK, STAT1, and STAT3, and a reciprocal shift in Keap1/Nrf2 expression suggestive of possible antioxidant pathway activation. Label-free proteomic profiling identified 5,191 proteins, revealing a multi-modal mechanism of action. IL15.3 treatment exclusively induced 4 anti-inflammatory proteins (ISG15, PEX14, TNIP3, PR) and upregulated negative regulators NRG1, DAB2IP, IL-18BP and SOCS5. Critically, IL15.3 suppressed key pro-inflammatory mediators including IKKβ, JAK1, JAK3, JNK, and IL-1RAcP, demonstrating comprehensive modulation of NF-κB, JAK/STAT, and MAPK pathways. In silico molecular docking further predicted potential interactions of IL15.3 with iNOS and the Keap1 Kelch domain, offering preliminary structural insight consistent with its putative dual anti-inflammatory and antioxidant activity. Together, these findings indicate that IL15.3 exhibits potent anti-inflammatory and antioxidant activity through multiple mechanisms in LPS-stimulated macrophages at transcriptional and proteomic levels. The coordinated upregulation of negative regulators and suppression of central inflammatory mediators collectively suggest that IL15.3 may represent a promising therapeutic candidate for inflammatory disorders.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0361031",
+    "date": "2026-10-22",
+    "authors": "Boonmark C, Roytrakul S, Saengyotha F, Tankrathok A, Wanthong A, Daduang J, Daduang S, Chaveerach A, Jangpromma N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42911985",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13690211",
+    "pmid": "42911985",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3730,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1371/journal.pone.0361031"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0deb9319286f2d696accb50af06bb050dc94a0e395fe9c5ec1c62bd9bb524bab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:30:52.597914+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f53786f9cb9c4d75f7f12b22d9b2bea450ffb45227e1a532137f50439e3e05fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:30:52.597914+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "合成抗菌ペプチドIL15.3は、転写およびプロテオーム調節を介して、RAW 264.7マクロファージにおけるLPS誘導性炎症反応を軽減する。",
+    "abstract_ja": "炎症は数多くの病理学的状態の根底にあり、安全かつ効果的な抗炎症剤へのニーズを高めている。抗炎症ペプチド（AIPs）は、その特異性、有効性、および安全性から、有望な治療薬である。本研究では、カチオン性抗菌ペプチドIL15.3の抗炎症活性および細胞適合性をin vitroで評価した。IL15.3は、RAW 264.7マクロファージ、正常ヒト真皮線維芽細胞（NHDF）、およびHaCaT角化細胞を用いたMTTアッセイにおいて、低い細胞毒性を示した。LPS刺激下のRAW 264.7細胞において、IL15.3は細胞生存率に影響を与えることなく、一酸化窒素（NO）産生および活性酸素種（ROS）を用量依存的に有意に減少させた。qRT-PCR解析により、iNOS、COX-2、TNF-α、およびIL-6のmRNA発現の有意な抑制とともに、NF-κB、JNK、STAT1、およびSTAT3の発現低下、ならびにKeap1/Nrf2発現の相互的なシフトが認められ、抗酸化経路の活性化の可能性が示唆された。ラベルフリープロテオミクスプロファイリングにより5,191種類のタンパク質が同定され、多様式的な作用機序が明らかになった。IL15.3処理は、4種類の抗炎症タンパク質（ISG15、PEX14、TNIP3、PR）のみを誘導し、負の調節因子であるNRG1、DAB2IP、IL-18BP、およびSOCS5をアップレギュレートした。極めて重要な点として、IL15.3はIKKβ、JAK1、JAK3、JNK、およびIL-1RAcPを含む主要な炎症促進性メディエーターを抑制し、NF-κB、JAK/STAT、およびMAPK経路の包括的な調節を示した。in silico分子ドッキングにより、IL15.3とiNOSおよびKeap1 Kelchドメインとの潜在的な相互作用がさらに予測され、想定される二重の抗炎症・抗酸化活性と整合する予備的な構造的知見が得られた。以上の知見を総合すると、IL15.3はLPS刺激下のマクロファージにおいて、転写レベルおよびプロテオームレベルの複数の機序を通じて、強力な抗炎症および抗酸化活性を示すことが示唆される。負の調節因子の協調的なアップレギュレーションと中心的な炎症メディエーターの抑制は、総じて、IL15.3が炎症性疾患に対する有望な治療候補となり得ることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2602335123",
+    "title": "A voltage-gated porin PPE1 regulates secretion and drug resistance in <i>Mycobacterium tuberculosis</i>.",
+    "abstract": "Drug resistance in Mycobacterium tuberculosis (Mtb) remains a formidable clinical hurdle, compounded by the fact that the pathways by which antibiotics penetrate its multilayered cell envelope remain incompletely mapped. We identify PPE1 as a voltage-gated outer-membrane porin that mediates the secretion of kupyaphores while also facilitating the uptake of the frontline anti-tubercular drug isoniazid (INH). Genome-wide association analysis of 38,038 clinical isolates links ppe1 mutations with INH resistance, highlighting its clinical relevance. Consistent with this, the Mtb Δppe1 mutant shows increased tolerance to INH, accompanied by markedly reduced intracellular accumulation of INH compared with the wild-type strain. The Δppe1 strain exhibits attenuated infection, impaired growth, and reduced virulence in a murine infection model. Electron microscopy, molecular modeling, and single-channel electrophysiology reveal that PPE1 assembles into an unusual pentameric α-helical channel, distinct from classical β-barrel bacterial porins. Together, our findings identify PPE1 as a key determinant of mycobacterial membrane permeability that coordinates metallophore secretion and also antibiotic influx. This work uncovers a previously unrecognized mechanism governing Mtb physiology, virulence, and drug susceptibility, providing a potential target for therapeutic intervention.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2602335123",
+    "date": "2026-10-27",
+    "authors": "Yadav M, C A NF, Mandal D, Shukla J, Sarkar B, Kumar Mahtha S, Chandramouli A, Prasad A, Kamat SS, Mohanty D, Dutta S, Mahendran KR, Gokhale RS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42945251",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42945251",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1789,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2602335123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aec6dd5f413660da18ac5c979b6daab68fac3fedffc13c0ab223cdab28afcce8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:30:52.597914+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b85dee5bfb06f7b6663e54ce023b2ca805847b2ddfcf96050c8f88e462120a0e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:30:52.597914+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "電位依存性ポリンPPE1は、<i>Mycobacterium tuberculosis</i>における分泌と薬剤耐性を調節する。",
+    "abstract_ja": "結核菌（Mtb）における薬剤耐性は、依然として臨床上の重大な課題であり、抗生物質が多層構造の細胞包膜を透過する経路が十分に解明されていないことがその要因となっている。我々は、PPE1を、クピヤフォレスの分泌を媒介すると同時に、第一選択の抗結核薬であるイソニアジド（INH）の取り込みを促進する電位依存性外膜ポリンとして同定した。38,038株の臨床分離株を用いたゲノムワイド関連解析により、ppe1変異とINH耐性との関連が示され、その臨床的意義が浮き彫りとなった。これと一致して、Mtb Δppe1変異株はINHに対する耐性が亢進しており、野生型株と比較してINHの細胞内蓄積が著しく減少していた。Δppe1株は、マウス感染モデルにおいて感染力の減弱、増殖能の低下、および病原性の減弱を示した。電子顕微鏡観察、分子モデリング、および単チャンネル電気生理学的解析により、PPE1が従来のβバレル型細菌ポリンとは異なる、特異な五量体αヘリックスチャネルを形成することが明らかになった。以上の知見を総合すると、PPE1は金属結合子の分泌と抗生物質の流入を調整する、結核菌膜透過性の主要な決定因子であることが特定された。本研究は、Mtbの生理機能、病原性、および薬剤感受性を制御する、これまで認識されていなかったメカニズムを明らかにしたものであり、治療介入の潜在的な標的となり得る。"
   }
 ]
