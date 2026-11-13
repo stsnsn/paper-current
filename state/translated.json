@@ -187745,5 +187745,324 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "インド・バイガ族の腸内細菌叢組成：特に脆弱な先住民族集団から得られた知見",
     "abstract_ja": "伝統的な採集生活から近代化された都市環境への移行は、ヒト腸内マイクロバイオームの多様性の低下と関連している。インド亜大陸におけるこの変化を検証するため、我々はショットガンメタゲノミクスを用いて、成人50名（先住民族で採集生活を送り、特に脆弱な立場にあるバイガ族25名と、インド中部ボーパールの都市住民25名）の腸内細菌叢を比較した。バイガ族は、RoseburiaやFaecalibacteriumなどの食物繊維分解菌に富んだ多様な生態系を維持しており、複雑な炭水化物発酵に適したネットワークを形成していた。一方、都市のマイクロバイオームは系統的多様性と均一性が低く、Prevotella copriや乳製品適応型分類群の相対存在量が高かった。機能的には、部族の腸内には環境感知や複雑な植物代謝の経路が保持されていたのに対し、都市の腸内では潜在的な炎症に関連する経路が豊富であった。これらの知見は、バイガ族が代謝健康に関連するヒト微生物多様性が保存されたリザーバーであることを明らかにしている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1920304",
+    "title": "Comparative analysis of gut microbiota structure in the Xinjiang (China) population of children with mild-to-moderate and severe autism spectrum disorder",
+    "abstract": "BackgroundAutism spectrum disorder (ASD) exhibits substantial clinical heterogeneity; however, the relationship between gut microbiome features and ASD severity remains incompletely understood.MethodsWe enrolled 88 children with ASD from Xinjiang, China, and characterized gut microbial profiles using 16S rRNA gene sequencing. α and β diversity were compared between children with mild-to-moderate ASD (MM-ASD) and severe ASD (S-ASD), and their associations with Childhood Autism Rating Scale (CARS) scores were assessed. Differential abundance analyses were performed using ANCOM-BC2, LinDA, and LEfSe. Predicted functional potentials were inferred using PICRUSt2. A nested cross-validation framework with random forest models was applied to evaluate the discriminative performance of microbial features.ResultsNo significant differences were observed in overall α or β diversity between the MM-ASD and S-ASD groups, and CARS scores were not significantly associated with microbial diversity metrics. By integrating results from ANCOM-BC2, LinDA, and LEfSe, five candidate genera with consistent enrichment patterns were identified: Angelakisella and CAG-83 were enriched in the S-ASD group, whereas Terrisporobacter, Lactobacillus, and Adlercreutzia were enriched in the MM-ASD group. The relative abundances of Angelakisella and CAG-83 showed positive correlations with CARS scores, while Adlercreutzia exhibited a negative correlation with CARS scores. PICRUSt2-based analysis suggested differences in predicted energy metabolism-related functional potentials; however, these functional inferences remain hypothetical and require validation using direct functional assays. In nested cross-validation, the microbial feature-based model demonstrated limited discriminative performance (AUC = 0.579) compared with the baseline model (AUC = 0.521).ConclusionIn this small, single-region, cross-sectional cohort, gut microbial characteristics were not robustly associated with overall ASD severity. Future multicenter, larger-scale longitudinal studies integrating multi-omics approaches and standardized clinical assessments are warranted to further clarify the relationship between gut microbiome features and ASD severity.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1920304",
+    "date": "2026-11-13",
+    "authors": "Rena Maimaiti",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1920304",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4390,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1920304"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e1f8425c85c74db738f8e0199e977a635b38b25aa7186a946986142f5fc85e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:05:21.004753+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e9ed7ecb3956d61255f78c9978039b73c5f71b697ca7ee0ee0bc10e9ff77e8c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:05:21.004753+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国新疆の軽度・中等度および重度の自閉スペクトラム症児における腸内細菌叢構造の比較解析",
+    "abstract_ja": "背景自閉スペクトラム症（ASD）は臨床的に著しい多様性を示すが、腸内細菌叢の特徴とASD重症度との関係については十分に解明されていない。方法中国新疆のASD児88例を対象とし、16S rRNA遺伝子シーケンシングを用いて腸内細菌プロファイルを解析した。軽度から中等度のASD（MM-ASD）児と重度のASD（S-ASD）児の間でαおよびβ多様性を比較し、児童期自閉症評価尺度（CARS）スコアとの関連を評価した。ANCOM-BC2、LinDA、およびLEfSeを用いて差次的存在量解析を行った。予測機能ポテンシャルはPICRUSt2を用いて推定した。ランダムフォレストモデルを用いた入れ子型交差検証フレームワークを適用し、微生物特徴の識別性能を評価した。結果MM-ASD群とS-ASD群の間で、全体的なαまたはβ多様性に有意な差は認められず、CARSスコアと微生物多様性指標との間に有意な関連は見られなかった。ANCOM-BC2、LinDA、およびLEfSeの結果を統合したところ、一貫した濃縮パターンを示す5つの候補属が同定された。Angelakisella属およびCAG-83属はS-ASD群で濃縮されていた一方、Terrisporobacter属、Lactobacillus属、およびAdlercreutzia属はMM-ASD群で濃縮されていた。Angelakisella属およびCAG-83属の相対存在量はCARSスコアと正の相関を示したが、Adlercreutzia属はCARSスコアと負の相関を示した。PICRUSt2に基づく解析では、予測されるエネルギー代謝関連の機能ポテンシャルに差異があることが示唆されたが、これらの機能的推論は仮説段階にあり、直接的な機能アッセイによる検証が必要である。入れ子型交差検証において、微生物特徴に基づくモデルは、ベースラインモデル（AUC = 0.521）と比較して識別性能が限定的であった（AUC = 0.579）。結論この小規模な単一地域・横断的コホートにおいて、腸内細菌の特性は全体的なASD重症度と強固に関連していなかった。腸内細菌叢の特徴とASD重症度との関係をさらに解明するためには、マルチオミクスアプローチと標準化された臨床評価を統合した、今後の多施設共同によるより大規模な縦断的研究が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "im",
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007324",
+    "title": "Clavispora mexcalensis sp. nov.: a novel Mexican yeast species isolated from mezcal must with promising polyol and ethanol production from lignocellulose hydrolysates.",
+    "abstract": "Yeasts are micro-organisms with high biotechnological potential for various industrial processes. Non-conventional yeasts offer advantages over classic Saccharomyces yeasts, such as the ability to assimilate pentoses natively. This project aimed to describe and characterize a new yeast species isolated from mezcal must in Oaxaca, México. For its identification, whole-genome sequencing was performed. Phylogenomic analyses (BUSCO, OrthoFinder and IQ-TREE) indicated 99.0% genome completeness of included 2,319 orthologs. Comparative genomic analyses were performed using average nucleotide identity (ANI), calculated with FastANI and core-proteome phylogenomics, complemented by average amino acid identity (AAI) comparisons. Additionally, macro- and micro-morphological analyses (the latter by scanning electron microscopy) were performed. l-arabinose assimilation and thermotolerance were also assessed. The uptake of various sugars, including xylose and arabinose, was evaluated, and the corresponding metabolic pathways were confirmed through experimental and genomic analyses. Phylogenomic analysis, together with FastANI and complementary AAI values, confirmed that, despite its close relationship to Clavispora lusitaniae and Clavispora paralusitaniae, this strain represents a novel species, for which the name Clavispora mexcalensis sp. nov. is proposed. The strain exhibits marked thermotolerance, maintaining substantial growth at 48 °C. It assimilates glucose, d-xylose, l-arabinose and cellobiose as sole carbon sources, and produces xylitol, ethanol and arabitol. Macro- and micro-morphological characteristics are consistent with those of other members of the genus Clavispora, although some cells exhibit numerous bud scars. These results expand the known diversity of yeasts associated with mezcal and indicate that Cl. mexcalensis sp. nov. is a potential candidate for biotechnological applications requiring high-temperature tolerance or the bioconversion of unconventional sugars.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007324",
+    "date": "2026-11-01",
+    "authors": "Lara-Meléndez A, Hernández-García JA, Ponce-Noyola T, Villa-Tanaca L, Ramos-Valdivia AC, Barrera-Cortés J, Salgado LM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43019089",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43019089",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "average amino acid identity",
+        "average nucleotide identity",
+        "micro-organisms",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 320,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1099/ijsem.0.007324"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8801a6a0f9c871e42f90a0f5e68522e9e982b86c126757db4f1f19205327bcd9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:05:21.004753+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74e4867e780e903953683736b1f5656b2557993e6e5bf6f0413833bfce748225",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:05:21.004753+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Clavispora mexcalensis sp. nov.：メスカルマストから単離されたメキシコ産酵母の新種。リグノセルロース加水分解物からのポリオールおよびエタノール生産が期待される。",
+    "abstract_ja": "酵母は、さまざまな工業プロセスにおいて高いバイオテクノロジー的ポテンシャルを有する微生物である。非従来型酵母は、ペントースを本来的に資化できる点など、従来のサッカロマイセス属酵母に比べて優位性を持つ。本プロジェクトでは、メキシコ・オアハカ州のメスカルマストから単離された新規酵母種の記載および特性解析を目的とした。同定のため、全ゲノムシーケンシングを実施した。系統ゲノム解析（BUSCO、OrthoFinderおよびIQ-TREE）の結果、解析対象とした2,319個のオーソログのゲノム完全性は99.0%であった。比較ゲノム解析は、FastANIおよびコアプロテオーム系統ゲノミクスを用いて算出した平均ヌクレオチド同一性（ANI）と、平均アミノ酸同一性（AAI）比較を用いて行った。さらに、マクロおよびミクロ形態学的解析（後者は走査型電子顕微鏡による）を実施した。L-アラビノースの資化能および耐熱性についても評価した。キシロースやアラビノースを含む各種糖の取り込みを評価し、対応する代謝経路を実験的およびゲノム解析によって確認した。系統ゲノム解析は、FastANIおよび補完的なAAI値と併せて、本株がClavispora lusitaniaeおよびClavispora paralusitaniaeと近縁であるにもかかわらず、新規種であることを裏付けており、Clavispora mexcalensis sp. nov.という名称を提案する。本株は顕著な耐熱性を示し、48 °Cにおいても十分な増殖を維持する。グルコース、d-キシロース、L-アラビノース、およびセロビオースを唯一の炭素源として資化し、キシリトール、エタノール、およびアラビトールを産生する。マクロおよびミクロ形態学的特性はClavispora属の他の種と一致しているが、一部の細胞には多数の芽痕が認められる。これらの結果は、メスカルに関連する酵母の既知の多様性を拡大するものであり、Cl. mexcalensis sp. nov.が、高温耐性や非従来型糖の生物変換を必要とするバイオテクノロジー応用の潜在的な候補種であることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jb.00400-26",
+    "title": "Catabolite activator protein and quorum sensing cross-control group behaviors in <i>Vibrio campbellii</i>.",
+    "abstract": "Vibrio species adapt to different niches by sensing and responding to environmental signals such as nutrients, host cues, and quorum sensing autoinducers. Vibrio campbellii uses the master quorum sensing transcription factor LuxR to control the expression of hundreds of genes at high cell density. Furthermore, many gamma-proteobacteria use the global transcription factor catabolite activator protein (CAP) to control numerous physiologically relevant pathways, many of which are also modulated by quorum sensing, such as competence, biofilm formation, and carbon metabolism. However, the extent to which these two global transcription factors overlap to co-regulate gene expression and bacterial behaviors is understudied. In this work, we used chromatin immunoprecipitation coupled with high-throughput Illumina sequencing (ChIP-seq) and RNA-seq to determine the individual and combined regulons of CAP and LuxR in V. campbellii. We found that CAP and LuxR co-occupied 11 promoters to synergistically or antagonistically co-regulate genes involved with metabolism, respiration, and virulence. It was previously proposed that CAP and LuxR both bound the bioluminescence (luxCDABE) promoter to co-regulate these genes, and our RNA-seq data showed that these were indeed the most strongly co-regulated genes. However, our ChIP-seq data revealed that only LuxR bound the luxCDABE promoter in vivo. This pattern of co-regulation-where both CAP and LuxR strongly impact transcription, but only LuxR binds the promoter-was the most common mechanism observed. Our model for bioluminescence regulation is that CAP indirectly activates luxCDABE expression through the regulation of an intermediate factor. This study established new connections between the global gene regulatory networks underpinning nutrient sensing and population sensing.ImportanceVibrio bacteria (vibrios) colonize and infect diverse marine hosts, including corals, fish, oysters, and shrimp, and can also cause life-threatening human infections, all of which are rising annually due to increasing ocean temperatures. To develop effective treatments against Vibrio infections, it is critical to understand the global gene regulation mechanisms vibrios use that enable pathogenic lifestyles. Signal transduction systems in bacteria are well-characterized; however, how vibrios coordinate global gene expression changes in response to multiple environmental inputs is understudied. Here, we determined how the aquaculture pathogen Vibrio campbellii regulates global gene expression in response to bacterial population signals and nutrient availability signals. Our findings help contextualize how vibrios respond to their fluctuating environments in nature.",
+    "journal": "Journal of Bacteriology",
+    "doi": "10.1128/jb.00400-26",
+    "date": "2026-11-10",
+    "authors": "Mullins CM, Ball AS, Geyman LJ, Lukich LK, Hermann LK, Podicheti R, Ren Z, Wang X, Rusch DB, van Kessel JC.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43007054",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43007054",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 684,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/jb.00400-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e1c30237da2ca81a9ab9848144f4236e81deea9b595c96d94e86e484e06e5c0c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:05:21.004753+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b839e719c25c8aea69c23c7c6f89ed842e7a1613e46ac45cc9d02373440613d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:05:21.004753+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Vibrio campbellii</i>におけるカタボライト活性化タンパク質とクオラムセンシングのクロスコントロール群の挙動",
+    "abstract_ja": "ビブリオ属細菌は、栄養素、宿主のシグナル、クオラムセンシング自己誘導因子などの環境シグナルを感知し、それに応答することで、異なるニッチに適応している。V. campbelliiは、マスタークオラムセンシング転写因子LuxRを用いて、高い細胞密度において数百もの遺伝子の発現を制御している。さらに、多くのガンマプロテオバクテリアは、グローバル転写因子であるカタボライト活性化タンパク質（CAP）を用いて、生理学的に重要な数多くの経路を制御しており、その多くはコンピテンス、バイオフィルム形成、炭素代謝など、クオラムセンシングによっても調節されている。しかし、これら2つのグローバル転写因子がどの程度重複して遺伝子発現や細菌の挙動を共調節しているかについては、十分に研究されていない。本研究では、クロマチン免疫沈降法とハイスループットIlluminaシーケンシングを組み合わせた手法（ChIP-seq）およびRNA-seqを用いて、V. campbelliiにおけるCAPとLuxRの個別および複合的なレギュロンを同定した。その結果、CAPとLuxRが11個のプロモーターに共局在し、代謝、呼吸、および病原性に関与する遺伝子を相乗的または拮抗的に共調節していることが判明した。これまで、CAPとLuxRの両方が生物発光（luxCDABE）プロモーターに結合してこれらの遺伝子を共調節することが提唱されており、我々のRNA-seqデータからも、これらが実際に最も強く共調節されている遺伝子であることが示された。しかし、ChIP-seqデータにより、in vivoではLuxRのみがluxCDABEプロモーターに結合することが明らかになった。CAPとLuxRの両方が転写に強く影響する一方で、プロモーターに結合するのはLuxRのみであるというこの共調節パターンが、最も頻繁に観察されたメカニズムであった。生物発光調節に関する我々のモデルは、CAPが中間因子の調節を介して間接的にluxCDABEの発現を活性化するというものである。本研究は、栄養感知と個体群感知を支えるグローバル遺伝子調節ネットワーク間の新たな関連性を明らかにした。重要性ビブリオ属細菌（ビブリオ）は、サンゴ、魚類、カキ、エビなど多様な海洋宿主に定着・感染し、人間に対しても生命を脅かす感染症を引き起こすことがあり、これらはすべて海洋温度の上昇に伴い年々増加している。ビブリオ感染症に対する効果的な治療法を開発するためには、ビブリオが病原性の生活様式を可能にするグローバル遺伝子調節機構を理解することが極めて重要である。細菌のシグナル伝達系は十分に解明されているが、複数の環境入力に応じてビブリオがどのようにグローバル遺伝子発現の変化を調整しているかについては、十分に研究されていない。本研究では、養殖病原体であるV. campbelliiが、細菌個体群シグナルおよび栄養利用可能量シグナルに応じて、どのようにグローバル遺伝子発現を調節しているかを明らかにした。我々の知見は、自然界においてビブリオが変動する環境にどのように応答しているかを文脈づける一助となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001873",
+    "title": "A <i>Sargassum</i>-associated phage slows <i>Vibrio alginolyticus</i> persistence on macroalgal surfaces.",
+    "abstract": "Macroalgal surfaces harbour dense and metabolically active microbial consortia in which Vibrio alginolyticus exhibits marked ecological plasticity, spanning from mutualistic to opportunistic lifestyles. In these structured biofilm habitats, phages play a central role in shaping bacterial population structure and metabolic interactions. Here, a lytic phage vB_ValP-R39Z (R39Z) and its V. alginolyticus host were isolated from the surface of Sargassum hemiphyllum. Phage R39Z displays a podovirus morphotype, with a latent period of ~50 min and a burst size of 109 p.f.u. per cell, a narrow host range restricted to its original host, and stability across environmentally relevant conditions (pH 7-9 and 4-35 °C). R39Z harbours a 71.8 kb dsDNA genome (37.7 mol% G+C), encoding 83 ORFs, and is distinct from established genera, representing a previously unclassified genus. Functionally, R39Z significantly reduced biofilm biomass in vitro, and in an ex vivo assay using Sargassum blades, it reduced the viable cell abundance of V. alginolyticus ZS10 on blade surfaces by ~99%, as determined by c.f.u. enumeration. These findings demonstrate that R39Z efficiently disrupts biofilm formation and suppresses Vibrio colonization on macroalgal surfaces, underscoring its ecological relevance and potential for targeted biocontrol in algal-associated microbiomes.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001873",
+    "date": "2026-11-01",
+    "authors": "Zuo Z, Jiang H, Zhu P, Zhang Q, Li M, Zou L, Zhang R, Yang Y, Yang Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006773",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13749740",
+    "pmid": "43006773",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 323,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1099/mgen.0.001873"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8537048f58eb1e22827b13e0ac54806a70bdf4acd618a28ed32c347f75df3a07",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:05:21.004753+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dc5bb6c88ed8c84d8d61e09463d6ad0ea367951ef3e4aeb050732dc8207cd316",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:05:21.004753+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Sargassum</i>関連ファージは、大型藻類表面における<i>Vibrio alginolyticus</i>の持続性を低下させる。",
+    "abstract_ja": "大型藻類の表面には、高密度で代謝活性の高い微生物コンソーシアムが存在し、その中でVibrio alginolyticusは、相利共生から日和見的な生活様式に至るまで、顕著な生態学的可塑性を示す。こうした構造化されたバイオフィルム生息環境において、ファージは細菌の個体群構造や代謝相互作用の形成に中心的な役割を果たしている。本研究では、Sargassum hemiphyllumの表面から、溶菌性ファージvB_ValP-R39Z（R39Z）とその宿主であるV. alginolyticusを単離した。ファージR39Zはポドウイルス形態型を示し、潜伏期間は約50 min、バーストサイズは細胞あたり109 p.f.u.であり、宿主範囲は本来の宿主に限定され、環境的に重要な条件（pH 7-9および4-35 °C）において安定性を示す。R39Zは71.8 kbのdsDNAゲノム（37.7 mol% G+C）を有し、83個のORFをコードしており、既知の属とは異なる未分類の属である。機能的には、R39Zはin vitroでバイオフィルムバイオマスを有意に減少させ、Sargassumの葉身を用いたex vivoアッセイでは、c.f.u.計数により葉身表面におけるV. alginolyticus ZS10の生菌数を約99%減少させた。これらの知見は、R39Zが大型藻類表面におけるバイオフィルム形成を効率的に阻害し、Vibrioの定着を抑制することを示しており、その生態学的意義と、藻類関連マイクロバイオームにおける標的型バイオコントロールの可能性を裏付けるものである。"
   }
 ]
