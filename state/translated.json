@@ -191200,5 +191200,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "チョウ Parasarpa houlberti (Oberthür, 1913) の染色体レベルのゲノムアセンブリおよび全長トランスクリプトームリソース",
     "abstract_ja": "学術データ、オンライン公開：2026年11月11日；doi:10.1038/s41597-026-08593-2A チョウ Parasarpa houlberti (Oberthür, 1913) の染色体レベルのゲノムアセンブリおよび全長トランスクリプトームリソース"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1997145",
+    "title": "Compound microbial intelligent membrane fermentation reshapes the bacterial community and reduces antibiotic, metal, and biocide resistance genes and virulence factors in duck litter.",
+    "abstract": "BackgroundContaminated duck litter is a leading cause of flock disease and a bottleneck for the sustainable development of large-scale dry-rearing systems.MethodsWe applied shotgun metagenomics to litter from four positions within each of three independent compound microbial intelligent membrane fermentation beds, with unfermented litter from the same three batches as the control. We investigated the bacterial community alongside the abundance of antibiotic, metal and biocide resistance genes (ARGs, MRGs and BRGs) and of virulence factor genes (VFGs).ResultsFermented litter was consistently enriched in thermophilic and thermotolerant taxa and in beneficial genera such as Paenibacillus and Bacillus, while opportunistic pathogens including Streptococcus, Mycobacterium and Escherichia were clearly reduced. The total burden of the ARG and VFG classes fell in every fermented position, and representative determinants were consistently depleted: floR, qacEdelta1 and sul2 among the ARGs, ruvB among the MRGs, mexF, ideR and sodA among the BRGs, and htpB, clpV and katA among the VFGs. A small number of genes, tet(L), fexA and bacA among them, rose in the most active zones, indicating structural remodeling of the resistance reservoir rather than uniform removal. Fermentation was not spatially uniform: the upper and edge layers were more active, and the center-lower layer remained closest to the unfermented control.ConclusionIntelligent membrane fermentation reduced the overall abundance of resistance and virulence determinants in the litter microbiome, and spatial uniformity is important for the process. Because these data are DNA-based, they describe the abundance of resistance and virulence determinants and not resistance or virulence phenotypes.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1997145",
+    "date": "2026-10-26",
+    "authors": "Sun T, Mei G, Li M, Mo J, Zhang C, Ma Y, Zhao J, Peng S, Lin F, Chen JL, Li Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005165",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13745515",
+    "pmid": "43005165",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 142,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1997145"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f312d8a912aa7df84c407159acf1495fd73a662dcb2f6655e24ff1d8a204d479",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:44:27.141020+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "71ea6e7f2ad85e753d1efa55d08df4e0f805ff0300aaec6d2365637f112c2112",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:44:27.141020+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "複合微生物によるインテリジェント膜発酵は、細菌群集を再構築し、アヒルの糞便中における抗生物質、金属、および殺生物剤耐性遺伝子ならびに病原性因子を減少させる。",
+    "abstract_ja": "背景汚染されたアヒル用敷料は、家禽群の疾病の主要な原因であり、大規模乾式飼育システムの持続可能な発展におけるボトルネックとなっている。方法3つの独立した複合微生物インテリジェント膜発酵床のそれぞれにおける4箇所の敷料に対し、ショットガンメタゲノミクスを適用し、対照として同一の3バッチから採取した未発酵敷料も用いた。細菌群集とともに、抗生物質・金属・殺生物剤耐性遺伝子（ARGs、MRGs、BRGs）および病原性因子遺伝子（VFGs）の存在量を調査した。結果発酵敷料では、好熱性および耐熱性分類群、ならびにPaenibacillus属やBacillus属などの有益菌属が一貫して増加していた一方、Streptococcus属、Mycobacterium属、Escherichia属を含む日和見病原体は明らかに減少していた。ARGおよびVFGクラスの総負荷量は発酵したすべての箇所で低下し、代表的な決定因子も一貫して減少していた：ARGではfloR、qacEdelta1、sul2、MRGsではruvB、BRGsではmexF、ideR、sodA、VFGsではhtpB、clpV、katAである。tet(L)、fexA、bacAを含む少数の遺伝子が最も活性の高い領域で増加しており、これは均一な除去ではなく、耐性リザーバーの構造的リモデリングを示唆している。発酵は空間的に均一ではなく、上層および縁辺層でより活性が高く、中心下部層は未発酵の対照層に最も近い状態であった。結論インテリジェント膜発酵は、敷料微生物叢における耐性および病原性決定因子の全体的な存在量を減少させ、このプロセスにおいては空間的な均一性が重要である。これらのデータはDNAベースであるため、耐性および病原性決定因子の存在量を記述したものであり、耐性または病原性の表現型を記述したものではない。"
+  },
+  {
+    "id": "10.1093/nar/gkag1253",
+    "title": "Correction to ‘Different modes of engagement with the nucleosome acidic patch yield distinct functional outcomes’",
+    "abstract": "This is a correction to: Ujani Chakraborty, Emma Christina Saccone, Grisel Cruz-Becerra, Laiba F Khan, Nina Arslanovic, Rhiannon Aguilar, Susan L Gloor, Sabrina R Hunt, Heather J Folkwein, Natalia Ledo Husby, Keith E Maier, Matthew R Marunde, Noah K Schomburg, Anup Vaidya, Martis W Cowles, Bryan J Venters, George Kassavetis, Zu-Wen Sun, James T Kadonaga, Jean-Paul Armache, Michael-Christopher Keogh, Jessica K Tyler, Different modes of engagement with the nucleosome acidic patch yield distinct functional outcomes, Nucleic Acids Research, Volume 54, Issue 13, 22 July 2026, gkag693, https://doi.org/10.1093/nar/gkag693",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1253",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1253/9026628?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2113,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1253"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1294b1e681eba3e903506ee3f357646298f0618f6ef4bba9dd59aea5a0c7e7e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:44:27.141020+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "402c691a68880c541f33390e1c22311a070efbc612b2dbdc34c2220cc2b34b32",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:44:27.141020+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "「ヌクレオソーム酸性パッチへの異なる関与様式が異なる機能的結果をもたらす」の訂正",
+    "abstract_ja": "本論文は、以下の文献の訂正である：Ujani Chakraborty, Emma Christina Saccone, Grisel Cruz-Becerra, Laiba F Khan, Nina Arslanovic, Rhiannon Aguilar, Susan L Gloor, Sabrina R Hunt, Heather J Folkwein, Natalia Ledo Husby, Keith E Maier, Matthew R Marunde, Noah K Schomburg, Anup Vaidya, Martis W Cowles, Bryan J Venters, George Kassavetis, Zu-Wen Sun, James T Kadonaga, Jean-Paul Armache, Michael-Christopher Keogh, Jessica K Tyler, Different modes of engagement with the nucleosome acidic patch yield distinct functional outcomes, Nucleic Acids Research, Volume 54, Issue 13, 22 July 2026, gkag693, https://doi.org/10.1093/nar/gkag693"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2616836123",
+    "title": "The revised diploid genome sequence of an individual human: A workflow for near telomere-to-telomere assemblies using only Oxford Nanopore Technologies Simplex-reads.",
+    "abstract": "The first draft diploid genome assembly (HuRef) of an individual in 2007 was a milestone in genomics. Here, we report HuRef2.0, a revision of HuRef assembled using only Oxford Nanopore Technologies (ONT) Simplex-reads and the hifiasm assembler. Results are close in continuity to the telomere-to-telomere (T2T) assemblies but were assembled from standard DNA samples without using multiple sequencing and mapping technologies, including ultra-long-reads and/or proximity-ligation. Three ONT flowcells (~103× coverage) from fresh blood DNA produced an assembly comprising 26 contigs, with gapless assembly of 23 chromosomes (Chr). Two gaps on ChrY were locally assembled to yield the final T2T-assembly, HuRef2.0, with base accuracy >Q60.34 and 2,393 phase blocks with an NG50 value of 2.36 Mb. Assembly from a single ONT flowcell (~35× coverage) consistently produced an assembly more contiguous than GRCh38.p14, providing a foundation for further optimization and scaling. Assembly quality was assessed by direct chromosome-level alignments to a reference genome, variant calling, and annotation of gene-rich regions at Chr22q11, the extended MHC locus, and at several difficult to assemble regions, including the rRNA gene clusters, the subtelomeric region on Chr4q35, ChrY, and the centromeres. More accurate but shorter Pacific Biosciences HiFi-reads produced less contiguous assemblies than from equivalent coverage of error-corrected ONT reads, indicating the importance of read-length. We compared HuRef2.0 to an assembly of a low-passage EBV-transformed lymphoblastoid cell line derived from the same donor. At least at a 400 kb resolution, we did not observe notable structural differences in the two assemblies.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2616836123",
+    "date": "2026-10-23",
+    "authors": "Lok S, Lau TNH, Tong AHY, Trost B, Reuter MS, Thiruvahindrapuram B, Paton TA, MacDonald JR, Lau LYS, Marshall CR, Craig Venter J, Scherer SW.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42912785",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42912785",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "sequence",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3883,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1073/pnas.2616836123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "87db8f67e5b07154193fc52627fc9a23b42e14d77a527f2f0339ee8ac33717c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:44:27.141020+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "81ac0685190b9135adf06392e233e67ddadb6d38837e06d456f27f28484d6a29",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:44:27.141020+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト個体の改訂版二倍体ゲノム配列：Oxford Nanopore Technologies Simplex-readsのみを用いたテロメア近傍～テロメア間アセンブリのワークフロー",
+    "abstract_ja": "2007年に行われた個体の二倍体ゲノムアセンブリの初稿（HuRef）は、ゲノミクスにおける画期的な成果であった。本報では、Oxford Nanopore Technologies (ONT) のSimplex-readsとhifiasmアセンブラのみを用いてアセンブルしたHuRefの改訂版であるHuRef2.0について報告する。結果はテロメア間（T2T）アセンブリと連続性が近いが、超長リードや近接ライゲーションを含む多重シーケンシングおよびマッピング技術を用いず、標準的なDNAサンプルからアセンブルされたものである。新鮮血液DNAを用いた3つのONTフローセル（約103×カバレッジ）により、26個のコンティグからなるアセンブリが得られ、23本の染色体（Chr）のギャップレスアセンブリが構築された。ChrY上の2つのギャップを局所的にアセンブルすることで、塩基精度>Q60.34、NG50値2.36 Mbの2,393個のフェーズブロックを持つ最終的なT2TアセンブリHuRef2.0が得られた。単一のONTフローセル（約35×カバレッジ）からのアセンブリは、GRCh38.p14よりも一貫して連続性の高いアセンブリとなり、さらなる最適化とスケールアップのための基盤となった。アセンブリの品質は、リファレンスゲノムへの直接的な染色体レベルのアライメント、バリアントコール、およびChr22q11、拡張MHC遺伝子座、ならびにrRNA遺伝子クラスター、Chr4q35上のサブテロメア領域、ChrY、セントロメアを含むアセンブルが困難な複数の領域における遺伝子豊富領域のアノテーションによって評価した。より高精度だが短いPacific Biosciences HiFi-readsでは、エラー訂正済みONTリードの同等カバレッジと比較して連続性の低いアセンブリが得られ、リード長の重要性が示された。HuRef2.0を、同一ドナー由来の低継代EBV形質転換リンパ芽球様細胞株のアセンブリと比較した。少なくとも400 kbの解像度において、2つのアセンブリ間に顕著な構造的差異は認められなかった。"
+  },
+  {
+    "id": "10.1038/s41597-026-08678-y",
+    "title": "Chromosome-scale reference genome assembly of an Aokubi Raphanus sativus doubled haploid line",
+    "abstract": "Scientific Data, Published online: 11 November 2026; doi:10.1038/s41597-026-08678-yChromosome-scale reference genome assembly of an Aokubi Raphanus sativus doubled haploid line",
+    "journal": "Scientific Data",
+    "doi": "10.1038/s41597-026-08678-y",
+    "date": "2026-11-11",
+    "authors": "Tomomi Tadokoro",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41597-026-08678-y",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/sdata.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4179,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.nature.com/sdata.rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1038/s41597-026-08678-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "09f6cf14345245fd949aa965d60eea23e8395d8d3f1e521cf348d3ec86f2b9a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:44:27.141020+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "058e69a800800fdfcb192c00c85e865202a74b392e3f5afa381525dff2fce0e7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:44:27.141020+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アオクビダイの倍数体系統における染色体スケールのリファレンスゲノム構築",
+    "abstract_ja": "学術データ、オンライン公開：2026年11月11日；doi:10.1038/s41597-026-08678-yAokubi Raphanus sativusの倍数体系統の染色体スケール参照ゲノムアセンブリ"
   }
 ]
