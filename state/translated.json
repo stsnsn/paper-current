@@ -100541,7 +100541,7 @@
     "id": "10.64898/2026.11.02.763575",
     "doi": "10.64898/2026.11.02.763575",
     "title": "Factors affecting microbial community composition in Split Lake, MB, Canada",
-    "abstract": "Split Lake is a large freshwater lake in northern Manitoba, Canada, that receives major inflows from the Nelson River, Burntwood River, and Grassy River. In 1976, during the Churchill River Diversion (CRD) project, most of the water in the Churchill River was diverted into the Nelson River via the Rat River, and the Burntwood River, creating a large inflow pressure in the lower Nelson area, including Split Lake. Decades after its implementation, the Churchill River Diversion still influences ecological and environmental processes in the area. In this study, metabarcoding of the 16S rRNA gene was employed to characterize the microbial community structure of the lake. Environmental factors (temperature, pH, turbidity, dissolved oxygen) and cyanotoxin levels were also assessed. The objectives of this study were to establish a baseline for microbiota across the lake and examine how environmental variables affect microbial population dynamics. The study was conducted in the summer of 2024, encompassing 14 sites on Split Lake and 2 sites on Assean Lake, an adjacent waterbody with minimal influence from hydroelectric infrastructure. Split Lake was found to harbor six distinct microbial clusters, with turbidity and dissolved oxygen levels correlating with different aquatic regimes within the lake. The predominant taxa in Split Lake included Actinobacteria hgcI clade and Cyanobium. Microcystin concentrations measured throughout the study were always below the Maximum Acceptable Concentration (MAC) set for Canadian federal drinking water standards.",
+    "abstract": "Split Lake is a large freshwater lake in northern Manitoba, Canada, that receives major inflows from the Nelson River, Burntwood River, and Grassy River. In 1976, during the Churchill River Diversion (CRD) project, most of the water in the Churchill River was diverted into the Nelson River via the Rat River, and the Burntwood River, creating a large inflow pressure in the lower Nelson area, including Split Lake. Decades after its implementation, the Churchill River Diversion still influences ecological and environmental processes in the area. In this study, metabarcoding of the 16S rRNA gene was employed to characterize the microbial community structure of the lake. Environmental factors (temperature, pH, turbidity, dissolved oxygen) and cyanotoxin levels were also assessed.  The objectives of this study were to establish a baseline for microbiota across the lake and examine how environmental variables affect microbial population dynamics. The study was conducted in the summer of 2024, encompassing 14 sites on Split Lake and 2 sites on Assean Lake, an adjacent waterbody with minimal influence from hydroelectric infrastructure. Split Lake was found to harbor six distinct microbial clusters, with turbidity and dissolved oxygen levels correlating with different aquatic regimes within the lake. The predominant taxa in Split Lake included Actinobacteria hgcI clade and  Cyanobium . Microcystin concentrations measured throughout the study were always below the Maximum Acceptable Concentration (MAC) set for Canadian federal drinking water standards.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -100550,36 +100550,57 @@
       "10.64898/2026.11.02.763575"
     ],
     "date": "2026-11-04",
-    "authors": "Vidanage, T.; Tataskweyak Environmental Monitoring Agency,  ; Collins, R. E.",
+    "authors": "Vidanage T, Tataskweyak Environmental Monitoring Agency, Collins RE.",
     "tags": [
-      "微生物学"
+      "海洋微生物"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763575v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1358860",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "16s rrna",
         "microbial",
         "microbiota"
       ],
       "context": {
-        "marine": [],
+        "marine": [
+          "aquatic",
+          "freshwater",
+          "lake",
+          "river"
+        ],
         "genomics": [],
         "evolution": []
       },
       "tags": [
-        "微生物学"
+        "海洋微生物"
       ]
     },
     "collection_order": 1699,
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC genome methods",
       "bioRxiv"
     ],
     "first_seen": "2026-11-08",
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
         "hash": "bb9c11e1c9280170ac576f92221aed594ae84bdc04433fe87d9f8583b6864de9",
@@ -100588,16 +100609,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "8a14291361306605b62a3853f21f2908f9cbdee52184e0d5fa38c0aeddbc8d58",
+        "hash": "603f3a6f1a75d94997863ec5cfae8d9e38bb78c8a5a2c94f69f64f2a8979bf74",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T14:00:03.120417+00:00",
+        "date": "2026-11-13T23:52:31.356478+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "カナダ・マニトバ州スプリットレイクにおける微生物群集組成に影響を及ぼす要因",
-    "abstract_ja": "スプリット湖は、カナダ・マニトバ州北部に位置する大規模な淡水湖であり、ネルソン川、バーントウッド川、およびグラッシー川から主要な流入水を受けている。1976年のチャーチル川転流（CRD）プロジェクトにおいて、チャーチル川の水の大部分がラット川およびバーントウッド川を経由してネルソン川へと転流されたため、スプリット湖を含むネルソン川下流域に多大な流入圧が生じた。実施から数十年が経過した現在も、チャーチル川転流は同地域の生態学的・環境的プロセスに影響を及ぼし続けている。本研究では、16S rRNA遺伝子のメタバーコーディングを用いて、同湖の微生物群集構造を特性評価した。また、環境要因（水温、pH、濁度、溶存酸素）およびシアノトキシン濃度についても評価を行った。本研究の目的は、湖全域における微生物相のベースラインを確立し、環境変数が微生物個体群の動態にどのような影響を及ぼすかを検討することであった。研究は2024年夏に実施され、スプリット湖の14地点と、水力発電インフラの影響が最小限である隣接水域のアセアン湖の2地点を対象とした。スプリット湖には6つの異なる微生物クラスターが存在することが判明し、濁度および溶存酸素濃度は、湖内の異なる水圏レジームと相関していた。スプリット湖における主要な分類群には、Actinobacteria hgcIクレードおよびCyanobiumが含まれていた。研究期間を通じて測定されたマイクロシスチン濃度は、いずれもカナダ連邦飲料水基準で設定された最大許容濃度（MAC）を下回っていた。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "スプリット湖は、カナダ・マニトバ州北部に位置する大規模な淡水湖であり、ネルソン川、バーントウッド川、およびグラッシー川から主要な流入水を受けている。1976年のチャーチル川転流（CRD）プロジェクトにおいて、チャーチル川の水の大部分がラット川およびバーントウッド川を経由してネルソン川へと転流されたため、スプリット湖を含むネルソン川下流域に大きな流入圧が生じた。実施から数十年が経過した現在も、チャーチル川転流は同地域の生態学的・環境的プロセスに影響を及ぼし続けている。本研究では、16S rRNA遺伝子のメタバーコーディングを用いて、同湖の微生物群集構造の特性評価を行った。また、環境要因（水温、pH、濁度、溶存酸素）およびシアノトキシン濃度についても評価した。本研究の目的は、湖全域における微生物相のベースラインを確立し、環境変数が微生物個体群の動態にどのような影響を及ぼすかを検討することであった。研究は2024年夏に実施され、スプリット湖の14地点と、水力発電インフラの影響が最小限である隣接水域のアセアン湖の2地点を対象とした。スプリット湖には6つの異なる微生物クラスターが存在することが判明し、濁度および溶存酸素濃度は、湖内の異なる水圏レジームと相関していた。スプリット湖における主要な分類群には、Actinobacteria hgcIクレードおよびCyanobiumが含まれていた。研究期間を通じて測定されたマイクロシスチン濃度は、いずれもカナダ連邦飲料水基準で設定された最大許容濃度（MAC）を下回っていた。"
   },
   {
     "id": "10.64898/2026.11.02.763581",
@@ -101285,7 +101305,7 @@
     "id": "10.64898/2026.11.02.763679",
     "doi": "10.64898/2026.11.02.763679",
     "title": "Genome-scale metabolic models reveal phylogenetic conservation of amino acid fermentation-linked metabolic traits in soil bacteria",
-    "abstract": "Soil microorganisms drive biogeochemical cycling of carbon, nitrogen, and other elements, but the partitioning of metabolic fluxes among taxa remains poorly understood, limiting our ability to link community composition to ecosystem function. Genome-scale metabolic models (GEMs) offer a mechanistic framework to connect taxa and their metabolic pathways to these fluxes. However, heterogeneity of soil communities has hampered recovery of high-quality metagenome-assembled genomes (MAGs), constraining application of flux balance analysis (FBA) to soil metagenomes and skewing available GEMs towards cultured model organisms. This gap limits our understanding of soil microbial physiology and responses to disturbance. Here, we present a collection of GEMs for 550 MAGs (497 bacterial, 53 archaeal) recovered from 94 soil samples across the continental United States. As an example application, we used FBA to estimate uptake and secretion of 44 commonly exchanged metabolites and tested whether these fluxes are phylogenetically conserved. While the overall bacterial phylogenetic signal was weak (median r = 0.029), eight metabolites showed significant conservation: amino acids (L-methionine, L-leucine, L-isoleucine), fermentation intermediates (pyruvate, acetaldehyde, ethanol), and amino acid degradation by-products NH and CO2. Most bacterial MAGs were predicted to import branched-chain amino acids, and a subset also secreted pyruvate and ethanol, identifying candidate cross-feeding interactions. Thus, fermentation-linked traits may be phylogenetically conserved and predictable from community composition, whereas most other metabolites showed no detectable signal. Ultimately, this resource enables genome-resolved prediction of soil microbial metabolisms, from cross-feeding and carbon-use efficiency to community responses to disturbance, providing a mechanistic bridge between microbial taxonomy and ecosystem-scale biogeochemistry.",
+    "abstract": "Soil microorganisms drive biogeochemical cycling of carbon, nitrogen, and other elements, but the partitioning of metabolic fluxes among taxa remains poorly understood, limiting our ability to link community composition to ecosystem function. Genome-scale metabolic models (GEMs) offer a mechanistic framework to connect taxa and their metabolic pathways to these fluxes. However, heterogeneity of soil communities has hampered recovery of high-quality metagenome-assembled genomes (MAGs), constraining application of flux balance analysis (FBA) to soil metagenomes and skewing available GEMs towards cultured model organisms. This gap limits our understanding of soil microbial physiology and responses to disturbance. Here, we present a collection of GEMs for 550 MAGs (497 bacterial, 53 archaeal) recovered from 94 soil samples across the continental United States. As an example application, we used FBA to estimate uptake and secretion of 44 commonly exchanged metabolites and tested whether these fluxes are phylogenetically conserved. While the overall bacterial phylogenetic signal was weak (median r = 0.029), eight metabolites showed significant conservation: amino acids (L-methionine, L-leucine, L-isoleucine), fermentation intermediates (pyruvate, acetaldehyde, ethanol), and amino acid degradation by-products NH  3 and CO  2 . Most bacterial MAGs were predicted to import branched-chain amino acids, and a subset also secreted pyruvate and ethanol, identifying candidate cross-feeding interactions. Thus, fermentation-linked traits may be phylogenetically conserved and predictable from community composition, whereas most other metabolites showed no detectable signal. Ultimately, this resource enables genome-resolved prediction of soil microbial metabolisms, from cross-feeding and carbon-use efficiency to community responses to disturbance, providing a mechanistic bridge between microbial taxonomy and ecosystem-scale biogeochemistry.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -101294,31 +101314,37 @@
       "10.64898/2026.11.02.763679"
     ],
     "date": "2026-11-04",
-    "authors": "Song, Y. C.; Ayala-Ortiz, C. O.; Stratton, K. G.; Chakrawal, A.; Graham, E. B.",
+    "authors": "Song YC, Ayala-Ortiz C, Stratton KG, Chakrawal A, Graham EB.",
     "tags": [
       "微生物ゲノミクス",
       "微生物進化"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763679v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1358773",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
+        "archaea",
         "archaeal",
         "bacteria",
         "bacterial",
+        "metagenom",
         "metagenome",
         "metagenomes",
         "microbial",
+        "microorganism",
         "microorganisms"
       ],
       "context": {
         "marine": [],
         "genomics": [
           "genom",
+          "genome",
           "metagenom",
-          "phylogen"
+          "metagenome",
+          "phylogen",
+          "phylogenetic"
         ],
         "evolution": [
           "phylogenetic"
@@ -101333,9 +101359,25 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC bioinformatics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-08",
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
         "hash": "a85b8bf664848626b44ae6ebb96ba3d96899fe7e6a6b06c849fa632a11a35b9b",
@@ -101344,16 +101386,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "17a682be54b43e014b39060939f328f109cf06e5aef2ad60f5351e429ea11af8",
+        "hash": "6648b2240dae864c1941e9e12971a1a64cddf5a60415705fc3bef0ff277dae92",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T14:04:58.720848+00:00",
+        "date": "2026-11-13T23:52:31.356478+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ゲノムスケールの代謝モデルが示す土壌細菌におけるアミノ酸発酵関連代謝形質の系統的保存性",
-    "abstract_ja": "土壌微生物は炭素、窒素、およびその他の元素の生物地球化学的循環を駆動しているが、分類群間における代謝フラックスの分配については依然として十分に解明されておらず、群集組成と生態系機能を関連付ける能力が制限されている。ゲノムスケール代謝モデル（GEMs）は、分類群とその代謝経路をこれらのフラックスに結びつけるための機構的枠組みを提供する。しかし、土壌群集の不均一性が、高品質なメタゲノムアセンブル済みゲノム（MAGs）の回収を妨げており、土壌メタゲノムへのフラックスバランス解析（FBA）の適用を制約するとともに、利用可能なGEMsを培養モデル生物に偏らせる要因となっている。このギャップは、土壌微生物の生理学および撹乱に対する応答に関する理解を制限している。本研究では、米国本土全域の94の土壌試料から回収した550個のMAGs（細菌497個、古細菌53個）のGEMsコレクションを提示する。応用例として、FBAを用いて一般的に交換される44種類の代謝物の取り込みと分泌を推定し、これらのフラックスが系統的に保存されているかを検証した。細菌全体の系統発生的シグナルは弱かったが（中央値 r = 0.029）、8種類の代謝物において有意な保存性が認められた。具体的には、アミノ酸（L-メチオニン、L-ロイシン、L-イソロイシン）、発酵中間体（ピルビン酸、アセトアルデヒド、エタノール）、およびアミノ酸分解の副産物であるNHおよびCO2である。ほとんどの細菌MAGsは分岐鎖アミノ酸を取り込むことが予測され、その一部はピルビン酸とエタノールを分泌しており、クロスフィーディング相互作用の候補が特定された。したがって、発酵に関連する形質は系統的に保存されており、群集組成から予測可能である可能性がある一方で、その他のほとんどの代謝物では検出可能なシグナルは認められなかった。最終的に、本リソースは、クロスフィーディングや炭素利用効率から撹乱に対する群集応答に至るまで、土壌微生物代謝のゲノム解像度での予測を可能にし、微生物分類学と生態系スケールの生物地球化学を結ぶ機構的な架け橋となる。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "土壌微生物は炭素、窒素、およびその他の元素の生物地球化学的循環を駆動しているが、分類群間における代謝フラックスの分配については依然として十分に解明されておらず、群集組成と生態系機能を関連付ける能力が制限されている。ゲノムスケール代謝モデル（GEMs）は、分類群とその代謝経路をこれらのフラックスに結びつけるための機構的枠組みを提供する。しかし、土壌群集の不均一性が、高品質なメタゲノムアセンブル済みゲノム（MAGs）の回収を妨げており、土壌メタゲノムへのフラックスバランス解析（FBA）の適用を制約するとともに、利用可能なGEMsを培養モデル生物に偏らせる要因となっている。このギャップは、土壌微生物の生理学および撹乱に対する応答に関する理解を制限している。本研究では、米国本土全域の94の土壌サンプルから回収した550個のMAGs（細菌由来497個、古細菌由来53個）のGEMsコレクションを提示する。応用例として、FBAを用いて一般的に交換される44種類の代謝物の取り込みと分泌を推定し、これらのフラックスが系統的に保存されているかを検証した。細菌の全体的な系統的シグナルは弱かったが（中央値 r = 0.029）、8種類の代謝物において有意な保存性が認められた。具体的には、アミノ酸（L-メチオニン、L-ロイシン、L-イソロイシン）、発酵中間体（ピルビン酸、アセトアルデヒド、エタノール）、およびアミノ酸分解副産物であるNH₃とCO₂である。ほとんどの細菌MAGsは分岐鎖アミノ酸を取り込むことが予測され、その一部はピルビン酸とエタノールを分泌しており、クロスフィーディング相互作用の候補が特定された。したがって、発酵に関連する形質は系統的に保存されており、群集組成から予測可能である可能性がある一方で、その他のほとんどの代謝物では検出可能なシグナルは認められなかった。最終的に、本リソースは、クロスフィーディングや炭素利用効率から撹乱に対する群集応答に至るまで、土壌微生物代謝のゲノム解像度での予測を可能にし、微生物分類学と生態系スケールの生物地球化学を結ぶ機構的な架け橋となる。"
   },
   {
     "id": "10.64898/2026.08.11.744155",
@@ -198546,5 +198587,151 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "2026年ブンディブギョウイルス（BDBV）流行株の迅速検出に向けた逆転写ループ媒介等温増幅法とラテラルフローアッセイの併用（RT-LAMP-LFA）",
     "abstract_ja": "正確な診断を行うことは、新興および再興感染症のアウトブレイクにおける患者管理と制御の極めて重要な第一歩である。ブンディブギョウイルス（BDBV）はエボラ病を引き起こすフィロウイルスであり、2026年のアウトブレイクは、検査インフラが限られた環境で展開可能な迅速な診断手法の必要性を浮き彫りにしている。本研究では、2026年BDBVアウトブレイク株を迅速に検出するための、逆転写ループ媒介等温増幅ラテラルフローアッセイ（RT-LAMP-LFA）を開発した。LAMPプライマーは2026年アウトブレイク株のゲノム配列に基づいて設計され、利用可能なすべての2026年アウトブレイクゲノム間でプライマー結合部位が保存されていることがin silicoで確認された。LAMPプライマーの分析特異性と感度は、BDBVおよび他のフィロウイルス由来のin vitro転写RNA（ivtRNA）、ならびにアルボウイルスおよび哺乳類細胞由来のRNAを用いて評価した。増幅産物は、クロマトグラフィー印刷アレイストリップ（C-PAS）ラテラルフロープラットフォームを用いて検出した。新たに設計したプライマーは、試験した他のウイルスまたは細胞RNAサンプルの非特異的な増幅を引き起こすことなく、BDBV RNAの存在を特異的に検出した。1反応あたり103コピーまでの一貫した増幅が認められた。さらに、BDBVウイルスRNAの増幅に成功し、増幅産物をC-PASを用いて検出することができ、全ワークフローは25分以内に完了した。これらの知見は、開発したRT-LAMP-LFAアッセイの分析特異性と感度、および迅速な視覚的ラテラルフロー検出との適合性を示すものであり、BDBV検出のためのポイントオブケア手法としての潜在的な応用を裏付けるものである。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765871",
+    "title": "Chemical warfare in the rice plant rhizosphere: Diverse Pseudomonas antagonize the green alga Chlamydomonas",
+    "abstract": "Algae and bacteria form dynamic partnerships that shape diverse ecosystems. The model green microalga Chlamydomonas reinhardtii is often found in paddy rice fields, where the diversity and functional characteristics of its bacterial partners remain largely unexplored. Here, we isolated 12 bacterial strains from the rice rhizosphere and its surrounding soil. Phylogenetic analysis based on 16S rRNA gene sequences revealed that eight isolates belong to the genus Pseudomonas. Three Pseudomonas rhizosphere strains exhibited antagonistic effects against C. reinhardtii, negatively impacting its growth, pigmentation and cell morphology. Close physical associations between the three antagonistic Pseudomonas strains and C. reinhardtii were observed in liquid cultures. Whole genome sequencing identified the antagonistic strains as Pseudomonas alloputida, Pseudomonas tohonis, and Pseudomonas asiatica. The three bacterial genomes encode several factors well-known for mediating chemical warfare. Notably, P. tohonis bears a gene cluster encoding the phenolic toxin, 2,4-diacetylphloroglucinol (DAPG). DAPG inhibits the growth and alters the cell morphology of C. reinhardtii. These findings expand our understanding of the diversity of bacterial partners associated with C. reinhardtii and highlight the role of Pseudomonas rice rhizosphere-associated bacteria as potent green algal antagonists. They harbor a reservoir of common functional traits that negatively influence green algal population dynamics.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765871",
+    "date": "2026-11-12",
+    "authors": "Yang, X., Shetty, P., Vajrangi, B., Ul Haq, I., Mittag, M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765871v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4376,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765871"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5bec3a94489313f0eb3a5425eeccc3f94ea16e48bcc30832e8fa255283bef204",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:52:31.356478+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "81677e435343d5ad053e7876c913c91ef264e9e96332f323eaa78c1ee6bdc6f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:52:31.356478+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "イネ根圏における化学戦：多様なシュードモナス属菌が緑藻クラミドモナス属と拮抗する",
+    "abstract_ja": "藻類と細菌は動的な共生関係を形成し、多様な生態系を形作っている。緑色微細藻類のモデル種であるChlamydomonas reinhardtiiは水田で頻繁に観察されるが、その共生細菌の多様性と機能的特性については未だほとんど解明されていない。本研究では、イネの根圏およびその周辺土壌から12株の細菌株を単離した。16S rRNA遺伝子配列に基づく系統解析の結果、8株がPseudomonas属に属することが明らかとなった。Pseudomonas属の根圏株のうち3株はC. reinhardtiiに対して拮抗作用を示し、その増殖、色素形成、および細胞形態に悪影響を及ぼした。液体培養において、これら3株の拮抗性Pseudomonas属菌とC. reinhardtiiとの間に密接な物理的関連性が認められた。全ゲノム解析により、これらの拮抗性株はPseudomonas alloputida、Pseudomonas tohonis、およびPseudomonas asiaticaであると同定された。これら3種の細菌ゲノムには、化学戦を媒介することで知られる複数の因子がコードされている。特にP. tohonisは、フェノール性毒素である2,4-ジアセチルフロログルシノール（DAPG）をコードする遺伝子クラスターを保有している。DAPGはC. reinhardtiiの増殖を抑制し、その細胞形態を変化させる。これらの知見は、C. reinhardtiiに関連する細菌パートナーの多様性に関する理解を深めるとともに、イネ根圏に関連するPseudomonas属細菌が強力な緑藻拮抗菌として果たす役割を浮き彫りにするものである。これらの細菌は、緑藻の個体群動態に悪影響を及ぼす共通の機能的形質の貯蔵庫を有している。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765681",
+    "title": "Comparative transcriptomic response of bank vole kidney and respiratory epithelial cells to distinct orthohantaviruses",
+    "abstract": "Orthohantaviruses are rodent-borne viruses distributed worldwide that can cause diseases of varying severity in humans following occasional aerosol transmission. While infections remain asymptomatic in their natural small-mammal reservoirs, hantaviral pathogenesis in humans is associated with an exacerbated immune response. The increasing number of outbreaks in endemic regions caused by the modification of rodent habitats due to human activities and the risks of reassortments in areas where multiple orthohantaviruses co-circulate with their animal reservoirs, are of public health concern. These challenges highlight the need to better understand how these viruses interact with host cells to spread within and between organisms, and how antiviral responses are regulated, particularly in their natural hosts. We previously showed that cellular susceptibility to orthohantaviruses depends on both cell type and virus species and correlates with cellular restrictions acting at different stages of the viral cycle. Here, we performed a comparative RNA-sequencing study and transcriptomic analysis of the cellular responses induced by three different orthohantaviruses in kidneys and respiratory tract cells derived from bank voles, the natural host of an orthohantavirus pathogenic to humans. Transcriptomic analyses revealed common as well as virus- and tissue-specific regulatory pathways that may underlie distinct infection outcomes. It highlighted the complexity of viral interactions with bank vole at a cellular level, including innate immune responses and antiviral signaling pathways.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765681",
+    "date": "2026-11-12",
+    "authors": "Badonnel, K., Cokelaer, T., Turc, E., Monot, M., Manuguerra, J.-C., Ermonval, M., Gallo, G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765681v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4377,
+    "collected_at": "2026-11-13T08:07:33.881331+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.11.765681"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b63d771a219b161168c75aab1662c4b93d06564a1984f900b6681640ad92f843",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:52:31.356478+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "972d27997042300638ae9af9c5c4e64dbe7a7e8d66326a3c8bc11a67a19e84b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:52:31.356478+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "異なるオルソハンタウイルスに対するバンクハタネズミの腎および呼吸器上皮細胞の比較トランスクリプトーム応答",
+    "abstract_ja": "オルソハンタウイルスは、世界中に分布する齧歯類媒介性ウイルスであり、時折エアロゾル伝播を経てヒトに様々な重症度の疾患を引き起こすことがある。天然の小型哺乳類リザーバーでは感染は無症状であるが、ヒトにおけるハンタウイルスの病態形成は、免疫応答の亢進に関連している。人間活動による齧歯類の生息地の改変に起因する流行地域におけるアウトブレイクの増加や、複数のオルソハンタウイルスが動物リザーバーと共存する地域における再集合のリスクは、公衆衛生上の懸念事項である。これらの課題は、これらのウイルスが宿主細胞とどのように相互作用して生物体内および生物間に広がるのか、また特に天然宿主において抗ウイルス応答がどのように調節されているのかをより深く理解する必要性を浮き彫りにしている。我々は以前、オルソハンタウイルスに対する細胞の感受性が細胞種とウイルス種の両方に依存し、ウイルスサイクルの異なる段階で作用する細胞制限と相関することを示した。本研究では、ヒトに病原性を示すオルソハンタウイルスの天然宿主であるバンクボレス由来の腎臓および呼吸器系細胞において、3種類の異なるオルソハンタウイルスによって誘導される細胞応答の比較RNAシーケンシング研究およびトランスクリプトーム解析を行った。トランスクリプトーム解析により、異なる感染転帰の根底にある可能性のある、共通の経路ならびにウイルスおよび組織特異的な調節経路が明らかになった。これにより、自然免疫応答や抗ウイルスシグナル伝達経路を含む、細胞レベルにおけるバンクボレスとのウイルス相互作用の複雑さが浮き彫りとなった。"
   }
 ]
