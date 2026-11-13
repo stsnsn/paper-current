@@ -10818,26 +10818,30 @@
       "10.64898/2026.11.04.764218"
     ],
     "date": "2026-11-05",
-    "authors": "Freidlin, P. J.; Rubinstein, M.; Fass, E.; Kutikov, I.; Zizelski Valenci, G.; Losev, Y.; Dveyrin, Z.; Rorman, E.; Nissan, I.",
+    "authors": "Freidlin PJ, Rubinstein M, Fass E, Kutikov I, Zizelski Valenci G, Losev Y, Dveyrin Z, Rorman E, Nissan I.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764218v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1359668",
     "sources": [
+      "Europe PMC bioinformatics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
-    "translation": {},
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "topic_filter": {
-      "accepted": false,
-      "reason": "no_microbial_evidence",
-      "version": "microbial-rules-v1",
-      "matched": [],
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method",
+        "sequencing"
+      ],
       "context": {
         "marine": [],
         "genomics": [
-          "genom"
+          "genom",
+          "genome"
         ],
         "evolution": []
       },
@@ -10845,7 +10849,41 @@
         "微生物ゲノミクス"
       ]
     },
-    "discovery": []
+    "collection_order": 175,
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "collected_at": "2026-11-06T00:00:00+09:00",
+    "collected_date": "2026-11-06",
+    "translation": {
+      "title": {
+        "hash": "0c7be99877cb52d6c7431a5986d94216e64d2610a1cbecf5feeaac0e9fd86d4c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:44:22.363477+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f49170a7e42ce6403656462002efad774574682be199749593ff6e3ade3498af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:44:22.363477+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HiSpoT：結核菌複合体におけるNGSスポリゴタイピング用アンプリコンライブラリ調製のための新規ワンチューブ・デュアルバーコードPCR法",
+    "abstract_ja": "結核は依然として世界的に主要な感染症による死因の一つであり、効果的なアウトブレイク追跡および疫学的サーベイランスには、迅速かつ正確で低コストな菌株型判定が不可欠である。現行の型判定法の限界と高コストという課題に対処するため、我々は、結核菌複合体（MTBC）のスポリゴタイピングに向けた標的型次世代シーケンシング（NGS）アンプリコンライブラリ調製のための、新規のシングルチューブ・デュアルバーコードPCR法を開発し、これをHiSpoT（High-throughput Spoligotyping by Targeted next generation sequencing）と命名した。本アッセイは、CRISPR直接反復（DR）領域における43種類の保存スペーサーオリゴヌクレオチドを標的としており、単一チューブで96検体をマルチプレックス処理するために必要な、未発表の設計困難なデュアルバーコードプライマーセットと共に本稿で提示する。HiSpoTは正確かつ迅速でハイスループット、かつ低コストであり、市販のNGSライブラリ調製キットを必要としない。HiSpoTはPCRベースであるため、得られたスポリゴタイプは、数十年にわたって蓄積されてきた大規模なPCRベースのスポリゴタイプデータベースと直接比較可能であり、より高解像度の全ゲノムシーケンシング（WGS）データが得られる一方で、各国の結核負荷の迅速なアウトブレイク追跡および生物地理学的特性評価を可能にする。イスラエルの臨床用MTBC分離株288株（2020-2022年）の解析では、広範な遺伝的系統が示され、HiSpoTとWGSの両方で解析した79株の比較では70%の完全な一致が認められ、不一致のほぼすべてはPCRプライマー部位におけるシングルスペーサー挿入エレメントの破壊に起因していた。また、GitHubで無料で公開されている2つのオープンソースGoogle Colab Pythonツール、Spoligotyping_MTBC_gclおよびその短縮版であるHiSpoT_Spoligotyping_v8_ready VIBEバリアントについても提示する。これらは、HiSpoTまたはWGSによるIlluminaペアエンドfastq出力を自動的に処理し、バイナリおよび8進数のスポリゴタイプ、スポリゴ国際型（SIT）、およびMTBCファミリー分類を、付随する品質管理レポートと共に報告する。"
   },
   {
     "id": "10.1093/femsml/uqag032",
@@ -97225,7 +97263,7 @@
     "id": "10.64898/2026.11.04.764350",
     "doi": "10.64898/2026.11.04.764350",
     "title": "Creation of genomic chimeras via megabase scale genome expansion",
-    "abstract": "An organism's physiology is controlled by its genomic content. Building genomic chimeras would enable melding of the diverse functions and properties of life. However, prior arts in genome synthesis are limited to reconstituting pre-existing functions within a singular genome rather than combining diverse genomic functions across multiple distinct genomes. Existing methods are also prohibitively expensive, labor intensive, and time consuming, and thus fundamentally not scalable for creating large synthetic chimeric genomes. To address all these limitations, we invented Additive Conjugative-CAST Engineering (ACE) combining conjugation with CRISPR-associated transposition (CAST) to deliver and integrate up to half a genome per step from a donor cell into a precisely defined position in the recipient's genome. We have demonstrated ACE's capability to integrate at least a 2-megabase donor genomic segment in a single step and at least 3 megabase in two consecutive steps. Importantly, we confirmed ACE's generality through the creation of multiple genomic chimeras across species, genus, and at least order barriers. With ACE, we further demonstrate such chimeric organisms, or what we call genome expanded organisms (GEOs), can be stably forged from at least three starting bacterial strains, and can be stably maintained to express all their acquired genomic parts in a single chimera. ACE offers a new paradigm of creating artificial lifeforms to combine desired properties and potentially create novel functions beyond the constraints of nature. ACE also offers a unique perspective to probe unexplored plasticity in genome architecture and expression patterns of novel, massively expanded genomes.",
+    "abstract": "An organism′s physiology is controlled by its genomic content. Building genomic chimeras would enable melding of the diverse functions and properties of life. However, prior arts in genome synthesis are limited to reconstituting pre-existing functions within a singular genome rather than combining diverse genomic functions across multiple distinct genomes. Existing methods are also prohibitively expensive, labor intensive, and time consuming, and thus fundamentally not scalable for creating large synthetic chimeric genomes. To address all these limitations, we invented Additive Conjugative-CAST Engineering (ACE) combining conjugation with CRISPR-associated transposition (CAST) to deliver and integrate up to half a genome per step from a donor cell into a precisely defined position in the recipient′s genome. We have demonstrated ACE′s capability to integrate at least a 2-megabase donor genomic segment in a single step and at least 3 megabase in two consecutive steps. Importantly, we confirmed ACE′s generality through the creation of multiple genomic chimeras across species, genus, and at least order barriers. With ACE, we further demonstrate such chimeric organisms, or what we call genome expanded organisms (GEOs), can be stably forged from at least three starting bacterial strains, and can be stably maintained to express all their acquired genomic parts in a single chimera. ACE offers a new paradigm of creating artificial lifeforms to combine desired properties and potentially create novel functions beyond the constraints of nature. ACE also offers a unique perspective to probe unexplored plasticity in genome architecture and expression patterns of novel, massively expanded genomes.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -97234,22 +97272,25 @@
       "10.64898/2026.11.04.764350"
     ],
     "date": "2026-11-06",
-    "authors": "Sanfiorenzo, C.; Zhang, R. J.; Wythes, G.; Wang, M.; Huang, J.; Hur, J.; Lipschitz, M.; Zhou, J.; Swift, R.; Gerber, B.; Wang, K.",
+    "authors": "Sanfiorenzo C, Zhang RJ, Wythes G, Wang M, Huang J, Hur J, Lipschitz M, Zhou J, Swift R, Gerber B, Wang K.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764350v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1361041",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
+        "bacteria",
         "bacterial"
       ],
       "context": {
         "marine": [],
         "genomics": [
-          "genom"
+          "genom",
+          "genome",
+          "genomic"
         ],
         "evolution": []
       },
@@ -97261,9 +97302,25 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC topics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-08",
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
         "hash": "054a732c8a6c0e5c3addf46c7f42c1d8a7dca2c17ca680b57dc4dba8210a355a",
@@ -97272,16 +97329,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "a437743de5e25f3e70e6d4089f1e27642e3d1025d22623f1b9096c9f53701eae",
+        "hash": "84f3f7f2807045571e2267e40158523c22ee3e935f1acb454f5115cc16d72523",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T07:25:37.990009+00:00",
+        "date": "2026-11-13T23:44:22.363477+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "メガベーススケールのゲノム拡張によるゲノムキメラの作製",
-    "abstract_ja": "生物の生理学は、そのゲノム内容によって制御されている。ゲノムキメラを構築することで、生命の多様な機能や特性を融合させることが可能となる。しかし、ゲノム合成における従来の技術は、複数の異なるゲノムにわたる多様なゲノム機能を組み合わせるのではなく、単一のゲノム内で既存の機能を再構成することに限定されている。また、既存の手法は極めて高価で労力と時間を要するため、大規模な合成キメラゲノムを構築する上での拡張性が根本的に欠如している。これらの限界をすべて克服するため、我々は、接合とCRISPR関連トランスポジション（CAST）を組み合わせたAdditive Conjugative-CAST Engineering（ACE）を考案した。これにより、ドナー細胞からレシピエントゲノムの精密に定義された位置へ、1ステップあたり最大0.5ゲノムを送達・組み込むことが可能となる。我々は、ACEが1ステップで少なくとも2メガベースのドナーゲノムセグメントを、また2連続ステップで少なくとも3メガベースを組み込む能力を有することを実証した。重要な点として、種、属、および少なくとも目の境界を越えて複数のゲノムキメラを作成することで、ACEの汎用性を確認した。ACEを用いることで、このようなキメラ生物、あるいは我々がゲノム拡張生物（GEOs）と呼ぶものが、少なくとも3つの出発細菌株から安定的に作製でき、また、単一のキメラ内で獲得したすべてのゲノム部位を発現させる状態で安定的に維持できることをさらに実証した。ACEは、望ましい特性を組み合わせ、自然界の制約を超えた新たな機能を創出し得る人工生命体の構築という、新たなパラダイムを提示するものである。また、ACEは、ゲノム構造における未探索の可塑性や、新規かつ大規模に拡張されたゲノムの発現パターンを探究するための独自の視点を提供する。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "生物の生理学は、そのゲノム内容によって制御されている。ゲノムキメラを構築することで、生命の多様な機能や特性を融合させることが可能となる。しかし、従来のゲノム合成技術は、複数の異なるゲノムにわたる多様なゲノム機能を組み合わせるのではなく、単一のゲノム内で既存の機能を再構成することに限定されていた。また、既存の手法はコストが極めて高く、多大な労力と時間を要するため、大規模な合成キメラゲノムを構築する上で根本的にスケールしない。これらの限界をすべて克服するため、我々は、接合とCRISPR関連転移（CAST）を組み合わせたAdditive Conjugative-CAST Engineering（ACE）を考案した。これにより、ドナー細胞からレシピエントゲノムの精密に定義された位置へ、1ステップあたり最大0.5ゲノムを送達・組み込むことが可能となった。我々は、ACEが単一ステップで少なくとも2メガベースのドナーゲノムセグメントを、また連続する2ステップで少なくとも3メガベースを組み込む能力を有することを実証した。重要な点として、種、属、および少なくとも目の境界を越えて複数のゲノムキメラを作成することで、ACEの汎用性を確認した。ACEを用いることで、このようなキメラ生物、あるいは我々がゲノム拡張生物（GEOs）と呼ぶものが、少なくとも3つの出発細菌株から安定的に作製でき、また、単一のキメラ内で獲得したすべてのゲノム部位を発現させる状態で安定的に維持できることをさらに実証した。ACEは、望ましい特性を組み合わせ、自然界の制約を超えた新たな機能を創出し得る人工生命体を構築するという、新たなパラダイムを提示する。また、ACEは、ゲノム構造における未探索の可塑性や、新規かつ大規模に拡張されたゲノムの発現パターンを探究するための独自の視点を提供する。"
   },
   {
     "id": "10.64898/2026.11.05.764678",
@@ -197949,5 +198005,170 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "bofasaは、多様な多菌種細菌ゲノムセットにわたって高品質なオーソロジー推論を可能にする。",
     "abstract_ja": "細菌種は、数十億年にわたる進化を経て分化してきた。しかし、こうした古代の系統関係に関する研究は、多様性の低い真核生物向けに開発された手法に依存することが多い。こうした手法では、水平遺伝子伝達の事例を混入として扱うことがあり、パラログの分割に際しては種の系統樹に大きく依存し、また一部の遺伝子が持つマルチドメイン構造を考慮しきれない場合がある。本研究では、遠縁の細菌種間におけるオーソログ群の高品質かつ自動的な推論を行うソフトウェア「bofasa」を提案し、実証およびベンチマークを行う。bofasaは再帰的アルゴリズムを用いて粗いホモログ群をパラログ部分集合に分割し、タンパク質全体間の進化関係を評価する前に、まずドメインレベルのオーソログ群を特定する。多菌種細菌比較ゲノミクスで一般的に用いられる他の手法と比較して、bofasaはオーソログ予測において大幅に保守的でありながら、多くの場合、最大の単一コピーコアゲノムを復元することができる。オーソログ推論に加え、本ソフトウェアは、どのオーソログ群が可動性遺伝要素に共通して見られるか、あるいは可変的なゲノムコンテキストを持つかの評価など、いくつかの追加的なユーティリティ機能も備えている。"
+  },
+  {
+    "id": "10.64898/2026.11.12.765623",
+    "title": "Exploring taxonomic diversity in the genus Suberites Nardo, 1833: Insights from microbial, phylogenetic, and morphological analyses",
+    "abstract": "Marine sponges (phylum Porifera) are a highly diverse and polymorphic group of marine invertebrates whose taxonomic delimitation is often challenging due to high intraspecific variability and the scarcity of diagnostic morphological characters. Their close association with microbial symbionts also makes them an important source of secondary metabolites, some of which may contribute to sponge colouration. Here, we use morphological characters, molecular phylogenetic markers, and 16S metabarcoding of the symbiont community to understand speciation in a common Mediterranean sponge lineage. We collected 43 specimens of the genus Suberites from the Mediterranean Sea and the North and South Atlantic Oceans, between 55-150 m depths, and sequenced two barcoding genes, cytochrome c oxidase I and 28S rDNA, as well as studied their spicular complements. We identified five closely-related species: S. domuncula, S. ficus/pagurorum, S. dandelenae, S. ambulodomus, and a new species of Suberites from the Balearic Islands, Suberites sp. nov. The latter represents a potential new pseudo-cryptic species closely related to S. domuncula, because of their strong morphological and molecular affinities. The potential new Mediterranean species exhibits six colour morphotypes (yellow, gray, orange, brown, red, and blue), and the microbiome analyses of the symbiotic communities revealed significant differences in bacterial community composition among colour morphotypes, specially of bacteria that produce different pigments which potentially give the sponge is colouration. These results provide valuable insights into species boundaries and evolutionary relationships within the genus Suberites and support a role for the microbiome in sponge colouration.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.765623",
+    "date": "2026-11-13",
+    "authors": "Llorente-Vaquero, V., Gracia-Sancha, C., Baldo, F., Turon, M., Minarro, M., Corral-Lou, A., Cassidy, R., Cristobo, J., Taboada, S., Riesgo, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.765623v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4445,
+    "collected_at": "2026-11-13T22:47:08.483162+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.12.765623"
+    ],
+    "translation": {
+      "title": {
+        "hash": "07d7a52499e02eeb6756dc5a2258770eb495d8af7aac3225a9b6773d40d28298",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:44:22.363477+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2414340933e1e1a54c03df9e0efe1876692c190feae2463e6311dd020b18f725",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:44:22.363477+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Suberites Nardo, 1833属の分類学的多様性の探究：微生物学的、系統学的、および形態学的解析から得られた知見",
+    "abstract_ja": "海綿動物（海綿門）は、極めて多様で多形的な海洋無脊椎動物群であり、種内変異が大きく診断的な形態形質が乏しいため、分類学的な境界設定が困難なことが多い。また、微生物共生体と密接に関連しているため、二次代謝産物の重要な供給源となっており、その一部が海綿の体色に寄与している可能性がある。本研究では、形態形質、分子系統マーカー、および共生体群集の16Sメタバーコーディングを用いて、地中海産の一般的な海綿系統における種分化を解明した。地中海および南北大西洋の水深55～150mの海域からSuberites属の標本43点を採集し、2つのバーコーディング遺伝子であるシトクロムcオキシダーゼIおよび28S rDNAの配列を決定したほか、海綿骨針の補体についても解析した。その結果、S. domuncula、S. ficus/pagurorum、S. dandelenae、S. ambulodomus、およびバレアレス諸島産のSuberites属の新種Suberites sp. nov.という、近縁な5種を同定した。後者は、形態的および分子的な親和性が強いことから、S. domunculaに近縁な潜在的な新擬暗黒種であると考えられる。この潜在的な地中海産新種は6種類の体色形態型（黄色、灰色、橙色、褐色、赤色、青色）を示し、共生体群集のマイクロバイオーム解析により、体色形態型間で細菌群集組成に有意な差があること、特に海綿に体色を付与している可能性のある異なる色素を産生する細菌に顕著な差があることが明らかになった。これらの結果は、Suberites属における種境界および進化的関係に関する貴重な知見を提供するとともに、海綿の体色におけるマイクロバイオームの役割を支持するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.12.766053",
+    "title": "RAMP-Seq: a single-tube nanopore workflow for co-amplifying full-length 16S rRNA and antimicrobial resistance genes for integrated taxonomic and resistance profiling",
+    "abstract": "Antimicrobial resistance (AMR) surveillance needs workflows that both identify bacteria and detect resistance genes from a single sample, but current targeted nanopore assays typically split these steps into separate reactions or library preparations. We introduce RAMP-Seq (Rapid AMR Profiling by Sequencing), a workflow that simultaneously amplifies the full-length 16S rRNA gene (~1,500 bp) together with eight resistance determinants (~600 - 700 bp) in a single multiplex PCR and then sequences the resulting mixed-length amplicon pool as a single nanopore library. The eight-primer pair set targets dominant alleles of {beta}-lactamase, carbapenemase, quinolone-resistance and silver-resistance families. Read-length distributions confirmed that both size classes were co-amplified evenly using a single, non-equimolar primer pool. From extracted DNA to the first taxonomically classified reads took 8.2 {+/-} 0.6 h. Full-length 16S sequencing of an eight-member mock community identified all anticipated taxa, and the observed abundances closely followed the expected log-scaled composition (Pearson's r = 0.879). The full nineplex amplicon assay was subsequently tested on three distinct matrices: pooled clinical isolates, spiked human blood, and environmental water samples. Using an equal-mass pool of genomic DNA from eleven multidrug-resistant clinical and repository isolates, the full assay produced genus-level and resistance-gene profiles that were consistent across biological replicates (r = 0.998 and r = 0.824), and it specifically identified all seven panel targets present, confirmed by Illumina whole-genome sequencing. After carbonate-based host DNA depletion, Klebsiella pneumoniae was recovered from spiked human blood at every titration down to 102 CFU/mL, as were all five panel targets carried by that strain. Across five water-sampling sites from a sewage treatment plant (STP) to a connected lake system, microbial communities and resistance-gene profiles were site-specific: influent and effluent communities overlapped little, while the lake inlet and outlet were similar. Target resistance genes were most numerous and abundant in STP influent, fewer in effluent, and rare or absent in lake and well samples. Because bacterial identification relies on amplification of the conserved, near-universal 16S rRNA gene, rather than on species-specific primer sets, RAMP-Seq can detect and taxonomically classify bacteria in a design-agnostic manner. The same single-tube chemistry therefore serves sample types as different as clinical specimens and environmental water and is extendable to longer ribosomal targets and further resistance-gene families.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766053",
+    "date": "2026-11-13",
+    "authors": "Pathak, D., Jagtap, S., Godbole, R., Patel, N., Mohammed, A., Jeevanandan, S. P., Sarkar, D., Roy, I., Shridhar, V., Natarajan, A., Srikantaiah, V., Roy, R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766053v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "gene",
+        "microbial",
+        "sequence",
+        "sequencing",
+        "workflow"
+      ],
+      "context": {
+        "marine": [
+          "lake"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4446,
+    "collected_at": "2026-11-13T22:47:08.483162+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.12.766053"
+    ],
+    "translation": {
+      "title": {
+        "hash": "978a47cd58742b6a71ce32a31d1099f74d15f040ab7f0be8d1501d0fa905e2aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:44:22.363477+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6a3ccf242235513e52ded27ae4453b3be255b86ef78a26b2ef03325d4969ae6e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:44:22.363477+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RAMP-Seq：統合的な分類学的解析および耐性プロファイリングのための、全長16S rRNAと薬剤耐性遺伝子の共増幅を行うシングルチューブナノポアワークフロー",
+    "abstract_ja": "薬剤耐性（AMR）サーベイランスには、単一の検体から細菌の同定と耐性遺伝子の検出の両方を行うワークフローが必要であるが、現在の標的型ナノポアアッセイでは、通常これらの工程が個別の反応やライブラリ調製に分かれている。本研究では、全長16S rRNA遺伝子（約1,500 bp）と8種類の耐性決定因子（約600～700 bp）を単一のマルチプレックスPCRで同時に増幅し、得られた混合長アンプリコンプールを単一のナノポアライブラリとしてシーケンシングするワークフロー「RAMP-Seq（Rapid AMR Profiling by Sequencing）」を提案する。この8種類のプライマーペアセットは、{β}-ラクタマーゼ、カルバペネマーゼ、キノロン耐性、および銀耐性ファミリーの優占アレルを標的とする。リード長分布の解析により、単一の非等モルプライマープールを用いて、両方のサイズクラスが均一に共増幅されたことが確認された。抽出DNAから分類学的に分類された最初のリードを得るまで8.2 {+/-} 0.6時間を要した。8種からなるモックコミュニティの全長16Sシーケンシングにより、想定されていたすべての分類群を同定し、観測された存在量は期待される対数スケールの組成に密接に一致した（Pearsonのr = 0.879）。続いて、フルナインプレックスアンプリコンアッセイを、プールした臨床分離株、スパイクしたヒト血液、および環境水試料という3つの異なるマトリックスで検証した。11種類の多剤耐性臨床分離株およびリポジトリ分離株由来の等質量ゲノムDNAプールを用いたところ、本アッセイにより属レベルおよび耐性遺伝子プロファイルが得られ、これらは生物学的レプリケート間で一貫しており（r = 0.998 および r = 0.824）、さらにIllumina全ゲノムシーケンシングによって確認された7つのパネル標的すべてが特異的に同定された。炭酸塩ベースの宿主DNA除去後、スパイクしたヒト血液からは、102 CFU/mLまでの各滴定においてKlebsiella pneumoniaeが回収され、同株が保有する5つのパネル標的すべても同様に回収された。下水処理場（STP）から接続された湖沼系に至る5つの採水地点において、微生物群集および耐性遺伝子プロファイルは地点ごとに異なっていた。流入水と流出水の群集はほとんど重複しなかった一方、湖の流入口と流出口は類似していた。標的耐性遺伝子は、STPの流入水において最も多く豊富に存在し、流出水では少なく、湖および井戸の試料では稀であるか、あるいは認められなかった。細菌の同定は、種特異的なプライマーセットではなく、保存されたほぼ普遍的な16S rRNA遺伝子の増幅に依存しているため、RAMP-Seqは設計に依存しない方法で細菌を検出し、分類学的に分類することができる。したがって、同一のシングルチューブ化学法が、臨床検体や環境水といった異なる検体タイプに対応し、さらに長いリボソーム標的や別の耐性遺伝子ファミリーへと拡張可能である。"
   }
 ]
