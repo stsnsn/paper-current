@@ -528,16 +528,17 @@
   {
     "id": "10.64898/2026.11.03.764080",
     "title": "Sarrella massiliensis gen. nov. sp. nov., a new gut genus isolated from the stool of a healthy donor",
-    "abstract": "Strain Marseille-QA0792 (=CSUR QA0792, CECT 31199) was isolated from the feces of a healthy person using the culturomics method. The fecal sample originated from leftover material collected for a fecal microbiota transplantation (FMT) procedure, obtained during a routine screening in accordance with the guidelines of the French National Agency for Medicines and Health Products Safety (ANSM). This strain is Gram-stain-negative, rod-shaped, non-motile, and non-spore-forming. It is strictly anaerobic, with optimal growth at 37{degrees}C. Strain Marseille-QA0792 presented its highest 16S rRNA identity, 96.2%, with ''Merdibacter massiliensis'' strain Marseille-P3254 (not validly published) (accession number LT598590) and ANI similarity of 75.0% with the same species. Among validly published species, strain Marseille-QA0792 showed its highest 16S rRNA gene sequence similarity (91.5%) with Faecalicoccus acidiformans strain 37-2a (accession number HQ452864), whereas all computed average nucleotide identity (ANI) values were below 75%. Genome sequencing revealed a genome size of 2.67 Mb and a G+C content of 50.01%. This species is classified within the Erysipelotrichaceae family in the Bacillota phylum. Thus, we isolated for the first time a novel genus named Sarrella massiliensis gen. nov., sp. nov., strain Marseille-QA0792. This discovery highlights the importance of continuing culturomics efforts to explore the human microbiome.",
+    "abstract": "Strain Marseille-QA0792 (=CSUR QA0792, CECT 31199) was isolated from the feces of a healthy person using the culturomics method. The fecal sample originated from leftover material collected for a fecal microbiota transplantation (FMT) procedure, obtained during a routine screening in accordance with the guidelines of the French National Agency for Medicines and Health Products Safety (ANSM). This strain is Gram-stain-negative, rod-shaped, non-motile, and non-spore-forming. It is strictly anaerobic, with optimal growth at 37°C. Strain Marseille-QA0792 presented its highest 16S rRNA identity, 96.2%, with ″Merdibacter massiliensis″ strain Marseille-P3254 (not validly published) (accession number  LT598590 ) and ANI similarity of 75.0% with the same species. Among validly published species, strain Marseille-QA0792 showed its highest 16S rRNA gene sequence similarity (91.5%) with Faecalicoccus acidiformans strain 37-2a (accession number  HQ452864 ), whereas all computed average nucleotide identity (ANI) values were below 75%. Genome sequencing revealed a genome size of 2.67 Mb and a G+C content of 50.01%. This species is classified within the Erysipelotrichaceae family in the Bacillota phylum. Thus, we isolated for the first time a novel genus named Sarrella massiliensis gen. nov., sp. nov., strain Marseille-QA0792. This discovery highlights the importance of continuing culturomics efforts to explore the human microbiome.",
     "journal": "bioRxiv",
     "doi": "10.64898/2026.11.03.764080",
     "date": "2026-11-04",
-    "authors": "Semmar, R.; Beye, M.; Orain, N.; Robinne, S.; Alibar, S.; Bakour, S.; Lagier, J.-C.; Dubourg, G.; Tidjani Alou, M.; Valles, C.",
+    "authors": "Semmar R, Beye M, Orain N, Robinne S, Alibar S, Bakour S, Lagier J, Dubourg G, Tidjani Alou M, Valles C.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.764080v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1358682",
     "sources": [
+      "Europe PMC genome methods",
       "bioRxiv",
       "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
     ],
@@ -548,6 +549,47 @@
     "related_dois": [
       "10.64898/2026.11.03.764080"
     ],
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "average nucleotide identity",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 8,
+    "collected_at": "2026-11-06T00:00:00+09:00",
+    "collected_date": "2026-11-06",
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
         "hash": "e19344603d65ad5f2769e61fc41dda4b5c155e1fea1fab3528960bd06b9e7619",
@@ -556,36 +598,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "656f78cd6717f954c818fbfa0d186cafc0113bc2155441391b969fcbbefe3efa",
+        "hash": "9beae508854ae7c2f1b0ac24f9476a8be25307f8ab08ec031fbb6f9399ab04c3",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-05T20:01:31.785350+00:00",
+        "date": "2026-11-13T23:47:19.616292+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "title_ja": "Sarrella massiliensis gen. nov. sp. nov. － 健常ドナーの糞便から分離された新規腸内属",
-    "abstract_ja": "Marcelle-QA0792株（=CSUR QA0792, CECT 31199）は、カルチュロミクス法を用いて健常者の糞便から分離された。この糞便試料は、フランス国立医薬品・保健製品安全庁（ANSM）のガイドラインに従った定期スクリーニングにおいて採取された、糞便微生物移植（FMT）処置用の残渣に由来する。本株はグラム陰性で、桿菌状、非運動性、かつ非芽胞形成性である。厳密な嫌気性であり、37{degrees}Cで最適増殖を示す。Marcelle-QA0792株は、''Merdibacter massiliensis''株Marseille-P3254（有効に公表されていない）（アクセッション番号 LT598590）との16S rRNA同一性が96.2%と最も高く、同種とのANI類似度は75.0%であった。有効に公表されている菌種の中では、Marcelle-QA0792株はFaecalicoccus acidiformans株37-2a（アクセッション番号 HQ452864）との16S rRNA遺伝子配列類似度が最も高く（91.5%）、一方で算出された平均ヌクレオチド同一性（ANI）値はすべて75%未満であった。ゲノムシーケンシングにより、ゲノムサイズは2.67 Mb、G+C含量は50.01%であることが明らかになった。本種はBacillota門のErysipelotrichaceae科に分類される。以上より、我々はSarrella massiliensis gen. nov., sp. nov.と命名した新属およびMarcelle-QA0792株を初めて分離した。この発見は、ヒトマイクロバイオームを探索するためのカルチュロミクス研究を継続することの重要性を浮き彫りにするものである。",
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "topic_filter": {
-      "accepted": true,
-      "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
-      "matched": [
-        "16s rrna",
-        "microbiome",
-        "microbiota"
-      ],
-      "context": {
-        "marine": [],
-        "genomics": [
-          "genom"
-        ],
-        "evolution": []
-      },
-      "tags": [
-        "微生物ゲノミクス"
-      ]
-    },
-    "discovery": []
+    "abstract_ja": "菌株Marseille-QA0792（=CSUR QA0792, CECT 31199）は、カルチュロミクス法を用いて健常者の糞便から分離された。この糞便試料は、フランス国立医薬品・保健製品安全庁（ANSM）のガイドラインに従った定期スクリーニングにおいて採取された、糞便微生物移植（FMT）処置用の残渣に由来する。本菌株はグラム陰性、桿菌状、非運動性、かつ非芽胞形成性である。厳密な嫌気性であり、37°Cで最適増殖を示す。菌株Marseille-QA0792は、″Merdibacter massiliensis″株Marseille-P3254（有効に公表されていない）（アクセッション番号 LT598590）に対して最高の16S rRNA同一性96.2%を示し、同種とのANI類似度は75.0%であった。有効に公表されている種の中では、菌株Marseille-QA0792はFaecalicoccus acidiformans株37-2a（アクセッション番号 HQ452864）に対して最高の16S rRNA遺伝子配列類似度（91.5%）を示したが、算出された平均ヌクレオチド同一性（ANI）値はすべて75%未満であった。ゲノムシーケンシングにより、ゲノムサイズは2.67 Mb、G+C含量は50.01%であることが明らかになった。本種はBacillota門のErysipelotrichaceae科に分類される。したがって、我々はSarrella massiliensis gen. nov., sp. nov.という新属および菌株Marseille-QA0792を初めて分離した。この発見は、ヒトマイクロバイオームを探索するためのカルチュロミクス研究を継続することの重要性を浮き彫りにするものである。"
   },
   {
     "id": "10.64898/2026.11.03.763973",
@@ -84810,7 +84831,7 @@
     "id": "10.64898/2026.11.04.764337",
     "doi": "10.64898/2026.11.04.764337",
     "title": "Provenance-aware handling of identical dengue genome records alters inferred envelope-protein variation in Bangladesh DENV-3",
-    "abstract": "The reliability of interpreting dengue virus (DENV) envelope (E) protein variations depends on whether identical public sequence records are kept as representatives or eliminated based on provenance reviews. We evaluated three record-handling strategies using a frozen Bangladesh-associated dataset of 426 E sequences: exact-sequence deduplication, a prespecified provenance-sensitive exclusion method, and an independently curated Nextstrain accession list. Within the 2021 DENV3 subset (96 accessions), 18 records dated August 2021 were identical across 10,707 nucleotides to the older Sri Lankan genome AY099336.1. There were 21 variable E positions within the original 96-accession DENV3 cohort. Whole-cohort deduplication (47 retained) and retaining one representative of the 18-record group (79 retained) preserved all 21 positions. Excluding the group (78 retained) resulted in eight variable positions: 13 of 21 (61.9%) were lost due to differences in state at those positions between the excluded group and retained cohort. Nextstrain reference-specific exclusions selected the same 18 records; applying its full saved list produced 77 accessions and the same eight variable positions. E270 and E383, which had pre-2021 antibody-related evidence, did not meet the sequence-variation criteria for follow-up; however, E223 and E224 remained variable. Antibody-position enrichment was not statistically significant. These results indicate that cohort eligibility decisions may impact dengue E-protein variant prioritization despite representative-retaining deduplication. Genome identity does not indicate specimen identity or an antigenic phenotype.",
+    "abstract": "The reliability of interpreting dengue virus (DENV) envelope (E) protein variations depends on whether identical public sequence records are kept as representatives or eliminated based on provenance reviews. We evaluated three record-handling strategies using a frozen Bangladesh-associated dataset of 426 E sequences: exact-sequence deduplication, a prespecified provenance-sensitive exclusion method, and an independently curated Nextstrain accession list. Within the 2021 DENV3 subset (96 accessions), 18 records dated August 2021 were identical across 10,707 nucleotides to the older Sri Lankan genome  AY099336.1 . There were 21 variable E positions within the original 96-accession DENV3 cohort. Whole-cohort deduplication (47 retained) and retaining one representative of the 18-record group (79 retained) preserved all 21 positions. Excluding the group (78 retained) resulted in eight variable positions: 13 of 21 (61.9%) were lost due to differences in state at those positions between the excluded group and retained cohort. Nextstrain reference-specific exclusions selected the same 18 records; applying its full saved list produced 77 accessions and the same eight variable positions. E270 and E383, which had pre-2021 antibody-related evidence, did not meet the sequence-variation criteria for follow-up; however, E223 and E224 remained variable. Antibody-position enrichment was not statistically significant. These results indicate that cohort eligibility decisions may impact dengue E-protein variant prioritization despite representative-retaining deduplication. Genome identity does not indicate specimen identity or an antigenic phenotype.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -84819,22 +84840,23 @@
       "10.64898/2026.11.04.764337"
     ],
     "date": "2026-11-05",
-    "authors": "Begum, K. T.; Rafea, K. A. G.",
+    "authors": "Begum KT, Rafea KAG.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764337v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1361215",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "virus"
       ],
       "context": {
         "marine": [],
         "genomics": [
-          "genom"
+          "genom",
+          "genome"
         ],
         "evolution": []
       },
@@ -84843,10 +84865,28 @@
       ]
     },
     "sources": [
+      "Europe PMC topics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
     "collected_date": "2026-11-07",
+    "collection_order": 1461,
+    "collected_at": "2026-11-07T00:00:00+09:00",
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
         "hash": "6b0cd877d215e255d0864e6cf910baa8b5f95c993abe99c388479958241aadcc",
@@ -84855,16 +84895,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "95466571aba6da1accde84cc9c39e2adc01b68820bf2f5cb9dedfd9628dfa468",
+        "hash": "a1735f7dd04fc79cae7e85fdd38313ab24dc4ea29a141320094cd868d4d7ca3d",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-07T00:10:24.403533+00:00",
+        "date": "2026-11-13T23:47:19.616292+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "同一のデング熱ゲノム記録の由来を考慮した取り扱いにより、バングラデシュDENV-3における推定エンベロープタンパク質変異が変化する",
-    "abstract_ja": "デングウイルス（DENV）エンベロープ（E）タンパク質変異の解釈の信頼性は、同一の公開配列レコードを代表例として保持するか、あるいは由来解析に基づいて除外するかに依存する。我々は、バングラデシュ関連の凍結データセット（E配列426件）を用い、完全配列重複除去、あらかじめ規定された由来感受性除外法、および独立してキュレーションされたNextstrainアクセッションリストという3つのレコード処理戦略を評価した。2021年のDENV3サブセット（96アクセッション）のうち、2021年8月付の18件のレコードは、10,707塩基にわたって旧スリランカゲノムAY099336.1と同一であった。元の96アクセッションのDENV3コホート内には、21箇所の可変E部位が存在した。コホート全体の重複除去（47件保持）および18レコード群の代表例1件を保持する方法（79件保持）では、全21部位が保持された。当該群を除外した場合（78件保持）には8箇所の可変部位が認められ、21箇所中13箇所（61.9%）が、除外群と保持コホートにおける当該部位の状態の相違により消失した。Nextstrainのリファレンス特異的除外では同一の18レコードが選択され、その保存済みリストをすべて適用した結果、77アクセッションと同一の8箇所の可変部位が得られた。2021年以前に抗体関連のエビデンスがあったE270およびE383は、フォローアップの配列変異基準を満たさなかったが、E223およびE224は可変のままであった。抗体部位の濃縮は統計的に有意ではなかった。これらの結果は、代表例保持型の重複除去を行ったとしても、コホートの適格性判定がデングEタンパク質変異の優先順位付けに影響を及ぼし得ることを示している。ゲノム同一性は、検体の同一性や抗原表現型を示すものではない。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "デングウイルス（DENV）エンベロープ（E）タンパク質変異の解釈の信頼性は、同一の公開配列レコードを代表例として保持するか、あるいは由来解析に基づいて除外するかに依存する。我々は、バングラデシュ関連の凍結データセット（E配列426件）を用い、完全配列重複除去、あらかじめ規定された由来感受性除外法、および独立してキュレーションされたNextstrainアクセッションリストという3つのレコード処理戦略を評価した。2021年のDENV3サブセット（96アクセッション）のうち、2021年8月付の18件のレコードは、10,707塩基にわたって旧スリランカゲノムAY099336.1と同一であった。元の96アクセッションのDENV3コホートには、21箇所の可変E部位が存在していた。コホート全体の重複除去（47件保持）および18レコード群の代表例1件を保持する方法（79件保持）では、21箇所すべてが保持された。当該群を除外した場合（78件保持）には8箇所の可変部位が認められ、21箇所中13箇所（61.9%）が、除外群と保持コホートにおける当該部位の状態の相違により消失した。Nextstrainのリファレンス特異的除外では同一の18レコードが選択され、その保存済みリストをすべて適用した結果、77アクセッションと同一の8箇所の可変部位が得られた。2021年以前に抗体関連のエビデンスがあったE270およびE383は、フォローアップのための配列変異基準を満たさなかったが、E223およびE224は可変のままであった。抗体部位の濃縮は統計的に有意ではなかった。これらの結果は、代表例を保持する重複除去を行ったとしても、コホートの適格性判定がデングEタンパク質変異の優先順位付けに影響を及ぼし得ることを示している。ゲノム同一性は、検体の同一性や抗原表現型を示すものではない。"
   },
   {
     "id": "10.64898/2026.11.04.764426",
@@ -198170,5 +198209,142 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "RAMP-Seq：統合的な分類学的解析および耐性プロファイリングのための、全長16S rRNAと薬剤耐性遺伝子の共増幅を行うシングルチューブナノポアワークフロー",
     "abstract_ja": "薬剤耐性（AMR）サーベイランスには、単一の検体から細菌の同定と耐性遺伝子の検出の両方を行うワークフローが必要であるが、現在の標的型ナノポアアッセイでは、通常これらの工程が個別の反応やライブラリ調製に分かれている。本研究では、全長16S rRNA遺伝子（約1,500 bp）と8種類の耐性決定因子（約600～700 bp）を単一のマルチプレックスPCRで同時に増幅し、得られた混合長アンプリコンプールを単一のナノポアライブラリとしてシーケンシングするワークフロー「RAMP-Seq（Rapid AMR Profiling by Sequencing）」を提案する。この8種類のプライマーペアセットは、{β}-ラクタマーゼ、カルバペネマーゼ、キノロン耐性、および銀耐性ファミリーの優占アレルを標的とする。リード長分布の解析により、単一の非等モルプライマープールを用いて、両方のサイズクラスが均一に共増幅されたことが確認された。抽出DNAから分類学的に分類された最初のリードを得るまで8.2 {+/-} 0.6時間を要した。8種からなるモックコミュニティの全長16Sシーケンシングにより、想定されていたすべての分類群を同定し、観測された存在量は期待される対数スケールの組成に密接に一致した（Pearsonのr = 0.879）。続いて、フルナインプレックスアンプリコンアッセイを、プールした臨床分離株、スパイクしたヒト血液、および環境水試料という3つの異なるマトリックスで検証した。11種類の多剤耐性臨床分離株およびリポジトリ分離株由来の等質量ゲノムDNAプールを用いたところ、本アッセイにより属レベルおよび耐性遺伝子プロファイルが得られ、これらは生物学的レプリケート間で一貫しており（r = 0.998 および r = 0.824）、さらにIllumina全ゲノムシーケンシングによって確認された7つのパネル標的すべてが特異的に同定された。炭酸塩ベースの宿主DNA除去後、スパイクしたヒト血液からは、102 CFU/mLまでの各滴定においてKlebsiella pneumoniaeが回収され、同株が保有する5つのパネル標的すべても同様に回収された。下水処理場（STP）から接続された湖沼系に至る5つの採水地点において、微生物群集および耐性遺伝子プロファイルは地点ごとに異なっていた。流入水と流出水の群集はほとんど重複しなかった一方、湖の流入口と流出口は類似していた。標的耐性遺伝子は、STPの流入水において最も多く豊富に存在し、流出水では少なく、湖および井戸の試料では稀であるか、あるいは認められなかった。細菌の同定は、種特異的なプライマーセットではなく、保存されたほぼ普遍的な16S rRNA遺伝子の増幅に依存しているため、RAMP-Seqは設計に依存しない方法で細菌を検出し、分類学的に分類することができる。したがって、同一のシングルチューブ化学法が、臨床検体や環境水といった異なる検体タイプに対応し、さらに長いリボソーム標的や別の耐性遺伝子ファミリーへと拡張可能である。"
+  },
+  {
+    "id": "10.64898/2026.11.12.765316",
+    "title": "Development of African Swine Fever Virus Pseudotype Systems for Ba71v and Georgia 2007 strains",
+    "abstract": "African swine fever virus (ASFV) is a large, complex DNA virus that causes a severe haemorrhagic disease in domestic swine and Eurasian wild boar. Due to its high pathogenicity, research involving ASFV is restricted to high-containment laboratories, which significantly limits investigations into its biology, host interactions and the development of effective control measures. To overcome these limitations, this study utilised pseudotyped virus (PV) technology to identify ASFV proteins involved in cell entry. Candidate proteins were identified through bioinformatic analysis and a review of the published literature, incorporated into PVs, and subsequently assessed for their ability to facilitate cellular entry. This approach identified a combination of three ASFV proteins that, when combined, resulted in the most efficient cell entry. This work represents the successful generation of the first functional ASF pseudotype system for both Ba71v and Georgia 2007 strains, enabling the safe study of ASFV entry mechanisms under containment level 2.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.765316",
+    "date": "2026-11-13",
+    "authors": "Hooper, G. L., Wright, E., Netherton, C. L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.765316v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4447,
+    "collected_at": "2026-11-13T22:47:08.483162+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.12.765316"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2029f4c00fa28fe9e4bf0c7a506b11680b32dce79f5abe0b2d39117a32676624",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:47:19.616292+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "75636a0039bd4c063a7bbd7f4706fb91d950852f463aa53a632c34a3034212d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:47:19.616292+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Ba71v株およびGeorgia 2007株のアフリカ豚熱ウイルス擬似型システムの開発",
+    "abstract_ja": "アフリカ豚熱ウイルス（ASFV）は、家畜豚およびユーラシア野生イノシシに重篤な出血性疾患を引き起こす、大型で複雑なDNAウイルスである。その高い病原性のため、ASFVに関する研究は高封じ込め施設に限定されており、それが生物学的特性や宿主との相互作用、および効果的な防除策の開発に関する研究を著しく制限している。こうした制約を克服するため、本研究では擬似型ウイルス（PV）技術を用いて、細胞侵入に関与するASFVタンパク質を同定した。候補タンパク質をバイオインフォマティクス解析および既報文献のレビューを通じて同定し、PVに組み込んだ上で、細胞侵入を促進する能力を評価した。この手法により、3種類のASFVタンパク質の組み合わせを同定し、これらを組み合わせることで最も効率的な細胞侵入が実現した。本研究は、Ba71v株およびGeorgia 2007株の双方において、初の機能的なASF擬似型システムの構築に成功したものであり、封じ込めレベル2下でのASFV侵入機構の安全な研究を可能にするものである。"
+  },
+  {
+    "id": "10.64898/2026.11.12.766027",
+    "title": "Chromatin accessibility predictions reveal lineage-structured effects of noncoding variants across hematopoiesis",
+    "abstract": "Background. Noncoding variants account for over 90% of genome-wide association study (GWAS) findings, but their mechanisms are often unclear. Sequence-to-function models provide one approach to variant interpretation by predicting the effects of genetic variation on molecular phenotypes. ChromBPNet predicts variant effects on chromatin accessibility, but how these predictions are organized across differentiation hierarchies and relate to orthogonal predictions remains unclear. Results. We trained ChromBPNet models for 17 hematopoietic cell types and scored 302,830 variants. Of 242,307 variants accessible in at least one cell type, 5.6% were predicted to alter chromatin accessibility. Variants active in more cell types had larger predicted effects. Predicted effects also reflected hematopoietic lineage structure, with sharing declining with lineage distance while effect direction was preserved in 99.6% of parent-child comparisons. ChromBPNet predictions agreed with GWAS fine-mapping but largely identified distinct variants. Fine-mapping-only variants were enriched for coding and transcript-associated variation, whereas ChromBPNet-only variants were enriched for regulatory elements, accessible chromatin, and trait-relevant activity. In K562 CRISPRi datasets, predicted accessibility gain showed limited association with target-gene validation. Regulatory elements containing CTCF motifs were less likely to have validated target genes, consistent with a role in chromatin organization rather than gene activation. Conclusions. ChromBPNet and fine-mapping provide complementary information about variant function. Predicted accessibility effects identify the cell types in which noncoding variants are likely to act and capture relationships across the hematopoietic hierarchy, but provide limited information about the genes they regulate. All predictions are available at: https://bloodnnet.ccbr.utoronto.ca/.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766027",
+    "date": "2026-11-13",
+    "authors": "Kazemi, M., Morris, J. A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766027v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "chromatin",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4448,
+    "collected_at": "2026-11-13T22:47:08.483162+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.12.766027"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b85b1e821155b0a474c50b322388fa1361d8d836107f892cf94536831dee89f2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:47:19.616292+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a8e25f281ee0f599195a0c9c8d5febb96c9d944afa12f5e5b384ad4fde0b28ed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:47:19.616292+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クロマチンアクセシビリティ予測から明らかになった、造血系における非コード変異の系統構造的な影響",
+    "abstract_ja": "背景。非コード変異はゲノムワイド関連解析（GWAS）の知見の90%以上を占めるが、そのメカニズムは不明なことが多い。配列機能モデルは、遺伝的変異が分子表現型に及ぼす影響を予測することで、変異の解釈に対する一つのアプローチを提供する。ChromBPNetはクロマチンアクセシビリティに対する変異の影響を予測するが、これらの予測が分化階層においてどのように構成され、直交する予測とどのように関連しているかは依然として不明である。結果。17種類の造血細胞株を対象にChromBPNetモデルを学習させ、302,830個の変異をスコアリングした。少なくとも1つの細胞株でアクセシブルであった242,307個の変異のうち、5.6%がクロマチンアクセシビリティを変化させると予測された。より多くの細胞株で活性を示す変異ほど、予測される影響が大きかった。予測された影響は造血系譜構造を反映しており、系譜距離とともに共有性は低下したが、親子比較の99.6%において影響の方向性は維持されていた。ChromBPNetの予測はGWASのファインマッピングと一致したが、大部分は個別の変異を同定した。ファインマッピングのみの変異は、コーディングおよび転写関連変異に富んでいた一方、ChromBPNetのみの変異は、調節エレメント、アクセシブルなクロマチン、および形質関連活性に富んでいた。K562 CRISPRiデータセットにおいて、予測されたアクセシビリティの向上は、標的遺伝子の検証との関連性が限定的であった。CTCFモチーフを含む調節エレメントは、検証済みの標的遺伝子を持つ可能性が低く、これは遺伝子活性化ではなくクロマチン組織化における役割と一致していた。結論。ChromBPNetとファインマッピングは、変異の機能に関する相補的な情報を提供する。予測されたアクセシビリティの影響は、非コード変異が作用する可能性が高い細胞株を特定し、造血系譜にわたる関係性を捉えるが、それらが調節する遺伝子に関する情報は限定的である。すべての予測結果は https://bloodnnet.ccbr.utoronto.ca/ で入手可能である。"
   }
 ]
