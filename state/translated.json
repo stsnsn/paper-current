@@ -189043,5 +189043,324 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "B型肝炎ウイルスC型株の固有の複製優位性は、基礎コアプロモーターのA1762T/G1764A変異とは独立している。",
     "abstract_ja": "本研究では、ジェノタイプBおよびCに共感染した患者から個々のB型肝炎ウイルス（HBV）株を分離・特性解析し、その固有の複製能を直接比較することを目的とした。慢性B型肝炎患者からHBV DNAを分離した。ジェノタイプをジェノタイプ特異的ポリメラーゼ連鎖反応（PCR）により判定し、全長ゲノムをクローニングした。サブジェノタイプB2（c17）およびC1（c21）を代表する2つのクローンを選定し、配列決定を行った後、HepG2細胞にトランスフェクションした。ウイルス複製は、サザンブロット法および定量PCRにより評価した。C1クローンにおける共通のアデニン（A）1762チミン（T/）グアニン（G）1764A変異の役割を、部位特異的変異導入法により検討した。その結果、ジェノタイプC1クローンはB2クローンよりも有意に高い複製能を示した。直感に反して、C1クローンのA1762T/G1764A変異を野生型に戻すと複製能がさらに向上したことから、この変異が高複製適応度の主因ではないことが示された。結論として、HBVジェノタイプC1は、古典的な基本コアプロモーター（BCP）変異とは独立して、B2よりも高い固有の複製能を有しており、これが共感染における重篤な疾患転帰との関連に関するウイルス学的な説明となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1957049",
+    "title": "Antimicrobial resistance in environment and wastewaters of a swine slaughterhouse - tracking ESKAPE bacteria and ESBL-/carbapenemase-producing <i>Escherichia coli</i>.",
+    "abstract": "IntroductionThis study investigated the occurrence, antimicrobial resistance (AMR) profiles, and genomic features of selected ESKAPE bacteria and ESBL-/carbapenemase-producing Escherichia coli isolated from wastewater and floor swabs in a swine slaughterhouse in Central Italy.MethodsBy integrating microbiological and genomic analyses across different operational phases, the study observed persistence and dissemination of antimicrobial resistant bacteria (ARB) within the abattoir environment.ResultsE. coli was the most prevalent species (39.6%) across all matrices, confirming its role as an indicator of fecal and environmental contamination. Despite cleaning and depuration, few ARB and antimicrobial resistance genes (ARGs) persisted, particularly in wastewater, reflecting the partial efficacy of conventional sanitation and treatment measures. The antimicrobial susceptibility tests revealed high resistance against ampicillin (47.2%), tetracycline (41.2%), and trimethoprim (34.0%), with multidrug resistant isolates occurring in nearly one-third of samples. Whole-genome sequencing identified the resistome, e.g., bla TEM, bla CTX-M, and bla OXA-48 genes. The detection of bla NDM in treated wastewater underscores the potential for environmental dissemination of carbapenemase producers. Phylogenetic analyses revealed clonal persistence of OXA- and ESBL-producing E. coli and Acinetobacter baumannii across samples, while livestock-associated MRSA ST398 indicated localized contamination events.DiscussionThese findings demonstrate that slaughterhouse ecosystems can function as active reservoirs and transmission nodes for AMR.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1957049",
+    "date": "2026-10-28",
+    "authors": "Manfreda C, Guarneri F, Ferri G, Di Vittori C, Olivastri A, Piccioni MA, Ianieri A, Alborali GL, Vergara A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43017071",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43017071",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 361,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1957049"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4afdd5ef16a076c29cc93b4fabf9592cbae7adb1fb69624548a01384138f0cd6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:20:43.139265+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "63194b36c6160470628d6406c10fc4f036ce20ac0616a4af801ab2f5ccd8ed8c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:20:43.139265+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "豚屠畜場の環境および廃水における薬剤耐性 ― ESKAPE菌およびESBL-/カルバペネマーゼ産生<i>Escherichia coli</i>の追跡",
+    "abstract_ja": "はじめに本研究では、イタリア中部の豚屠畜場における廃水および床スワブから分離された選定されたESKAPE菌およびESBL-/カルバペネマーゼ産生大腸菌の出現状況、薬剤耐性（AMR）プロファイル、およびゲノム特性について調査した。方法異なる運用段階にわたる微生物学的およびゲノム解析を統合することで、屠畜場環境内における薬剤耐性菌（ARB）の持続および拡散を観察した。結果すべてのマトリックスにおいて大腸菌が最も頻度の高い菌種（39.6%）であり、糞便および環境汚染の指標としての役割が確認された。洗浄および脱汚染を行ったにもかかわらず、特に廃水においてARBおよび薬剤耐性遺伝子（ARGs）の残存例は少なく、従来の衛生・処理措置の有効性が部分的であったことが示された。薬剤感受性試験では、アンピシリン（47.2%）、テトラサイクリン（41.2%）、およびトリメトプリム（34.0%）に対して高い耐性が認められ、サンプルのほぼ3分の1で多剤耐性分離株が検出された。全ゲノムシーケンシングにより、bla TEM、bla CTX-M、およびbla OXA-48遺伝子などのレジストームが同定された。処理済み廃水からbla NDMが検出されたことは、カルバペネマーゼ産生菌の環境中への拡散の可能性を示唆している。系統解析の結果、サンプル間でOXA-およびESBL産生大腸菌ならびにAcinetobacter baumanniiのクローン持続が認められた一方、家畜関連のMRSA ST398は局所的な汚染事象を示していた。考察これらの知見は、屠畜場の生態系がAMRの活性リザーバーおよび伝播ノードとして機能し得ることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02327-26",
+    "title": "Alternative sigma factor σ<sup>54</sup> (RpoN) of <i>Vibrio fischeri</i> is required during initial squid light organ colonization but its continued induction is not required for maintenance.",
+    "abstract": "Animals depend on bacterial symbionts that provide functions essential for host physiology and fitness. The marine bacterium Vibrio fischeri establishes a mutualistic association within the light organ of the Hawaiian bobtail squid Euprymna scolopes, where bacterial bioluminescence enables a host camouflage behavior. Successful colonization of the light organ requires the alternative sigma factor σ54 (RpoN), which activates genes involved in biofilm formation and motility that are essential for bacterial entry into the host. However, whether σ54 remains important after the initial stages of colonization has been unclear. Here, using an IPTG-inducible rpoN expression system, we demonstrate that induction of rpoN is required for initial entry into the light organ, but continued inducer exposure is not required for subsequent maintenance of colonization and bioluminescence production. Transcriptomic analysis of RNA-sequencing of low-cell-density cultures identified σ54-dependent expression of genes involved in flagellar motility, chemotaxis, nitrogen assimilation, molybdenum cofactor (Moco) biosynthesis, and formate metabolism. We further show that the bacterial enhancer-binding protein VF_1401 activates genes required for Moco biosynthesis and formate metabolism but is not required for light organ colonization. Together, these findings define the temporal requirement for σ54 during symbiosis establishment and reveal a previously unrecognized role for σ54 in regulating molybdenum-dependent metabolism in V. fischeri.IMPORTANCEMany bacteria encode the alternative sigma factor σ54 (RpoN), which enables selective activation of specific cellular processes in response to environmental signals. Our findings refine the conditions under which σ54 contributes to host colonization by a bacterial symbiont, providing new insight into the context-dependent roles of this conserved regulator. In addition, our transcriptomic analysis identifies a previously unrecognized link between σ54 and molybdenum assimilation, revealing a potential mechanism by which σ54 coordinates trace element homeostasis with bacterial physiology. These findings broaden our understanding of σ54 regulatory networks and may inform future strategies to manipulate the physiology of beneficial bacterial symbionts.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02327-26",
+    "date": "2026-11-09",
+    "authors": "Muriel-Mundo CA, Miyashiro TI.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001777",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001777",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 698,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/spectrum.02327-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3b8d35f75bee04b8529c035715db09b04e97976ecff90983dc378c17eafbc194",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:20:43.139265+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dbdee728064e084dbfe39175d2e58a34a967f513c13c64c9b21708f9a485275c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:20:43.139265+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Vibrio fischeri</i>の代替シグマ因子σ<sup>54</sup>（RpoN）は、イカの発光器への初期定着時に必要であるが、維持のために継続的な誘導は必要ない。",
+    "abstract_ja": "動物は、宿主の生理機能や適応度に不可欠な機能を提供する細菌共生体に依存している。海洋細菌Vibrio fischeriは、ハワイボブテイルイカ（Euprymna scolopes）の発光器官内に相利共生関係を形成しており、そこでは細菌の生物発光によって宿主の擬態行動が可能となっている。発光器官への定着を成功させるには、細菌の宿主侵入に不可欠なバイオフィルム形成および運動に関わる遺伝子を活性化する代替シグマ因子σ54（RpoN）が必要である。しかし、定着の初期段階以降もσ54が重要であり続けるかは不明であった。本研究では、IPTG誘導性rpoN発現系を用い、発光器官への初期侵入にはrpoNの誘導が必要である一方、その後の定着維持および生物発光の産生には誘導因子への継続的な曝露は不要であることを実証した。低細胞密度培養物のRNAシーケンシングによるトランスクリプトーム解析により、鞭毛運動、走化性、窒素同化、モリブデン補因子（Moco）生合成、およびギ酸代謝に関与する遺伝子のσ54依存的な発現が同定された。さらに、細菌エンハンサー結合タンパク質VF_1401が、Moco生合成およびギ酸代謝に必要な遺伝子を活性化するが、発光器官への定着には不要であることを示した。これらの知見を総合すると、共生関係の確立におけるσ54の時間的要件が定義され、V. fischeriにおけるモリブデン依存性代謝の調節におけるσ54のこれまで認識されていなかった役割が明らかになった。重要性：多くの細菌は、環境シグナルに応じて特定の細胞プロセスを選択的に活性化させる代替シグマ因子σ54（RpoN）をコードしている。本研究の知見は、細菌共生体による宿主定着にσ54が寄与する条件を精緻化し、この保存された調節因子の文脈依存的な役割に関する新たな知見を提供するものである。加えて、我々のトランスクリプトーム解析により、σ54とモリブデン同化との間にこれまで認識されていなかった関連性が同定され、σ54が微量元素の恒常性を細菌の生理機能と協調させる潜在的なメカニズムが明らかになった。これらの知見は、σ54調節ネットワークに関する理解を広げるものであり、有益な細菌共生体の生理機能を操作するための将来的な戦略に資する可能性がある。"
+  },
+  {
+    "id": "10.1093/nar/gkag1076",
+    "title": "Evo2VED: a database of DNA large language model-derived scores for variant interpretation",
+    "abstract": "AbstractThe Evo2 Variant Effect Database (Evo2VED; https://dnallmved.org/) is a publicly accessible resource cataloging precomputed Evo2-derived variant effect scores, defined as allelic score differences, for 6.48 million human variants common in the gnomAD non-Finnish European population. Evo2VED includes scores from the 7B and 40B models under three scoring schemes, alongside annotations of variant function, evolutionary constraint, allele age, and disease associations. It integrates genome-wide association study (GWAS) data from UK Biobank, FinnGen, and the Million Veteran Program. Three complementary modules support variant-level interpretation, regional and region-set exploration, and trait-level analysis through flexible queries, interactive visualizations, and downloadable results. Evo2VED also catalogs associations between Evo2 annotations and per-SNP heritability across thousands of traits from these biobanks. A guided workflow connects GWAS with associated regions and individual variant evidence. Case studies of hypertension and depression illustrate how regional comparisons of Evo2 scores and GWAS signals can guide candidate variant prioritization. Evaluations using massively parallel reporter assays, molecular QTLs, fine-mapping probabilities, and clinical annotations assess associations with Evo2 scores alone and their added value beyond conservation and regulatory annotations. By providing accessible scores, contextual annotations, and comparative analyses, Evo2VED facilitates exploration and application of genomic language model predictions in human genetics research.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1076",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1076/9041026?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "database"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4382,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1076"
+    ],
+    "translation": {
+      "title": {
+        "hash": "765b05088748538fd6b33f454dcaf6133cadc07a057d83be6fcf2aef8663593c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:20:43.139265+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d4a056f2931f6b6a1cb48cd1ff6b8de00fcfde3dd00e550301830b3616b237b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:20:43.139265+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Evo2VED: バリアント解釈のためのDNA大規模言語モデル由来スコアのデータベース",
+    "abstract_ja": "要旨Evo2バリアント効果データベース（Evo2VED; https://dnallmved.org/）は、gnomADの非フィンランド系欧州集団に共通して見られる648万個のヒトバリアントについて、アレルスコアの差として定義される事前計算済みのEvo2由来バリアント効果スコアをカタログ化した、一般公開のリソースである。Evo2VEDには、3つのスコアリングスキームに基づく7Bおよび40Bモデルのスコアに加え、バリアント機能、進化的制約、アレル年齢、および疾患関連のアノテーションが含まれている。また、UK Biobank、FinnGen、およびMillion Veteran Programのゲノムワイド関連解析（GWAS）データを統合している。3つの補完的なモジュールが、柔軟なクエリ、インタラクティブな可視化、およびダウンロード可能な結果を通じて、バリアントレベルの解釈、地域および地域セットの探索、ならびに形質レベルの解析をサポートしている。さらにEvo2VEDは、これらのバイオバンクにおける数千の形質にわたる、Evo2アノテーションとSNPごとの遺伝率との関連をカタログ化している。ガイド付きワークフローにより、GWASを関連領域および個々のバリアントのエビデンスと結びつけることができる。高血圧およびうつ病のケーススタディでは、Evo2スコアとGWASシグナルの地域間比較が、候補バリアントの優先順位付けにどのように役立つかが示されている。大規模並列レポーターアッセイ、分子QTL、ファインマッピング確率、および臨床アノテーションを用いた評価により、Evo2スコア単体との関連、および保存・調節アノテーションを超えた付加価値が検証されている。アクセス可能なスコア、コンテキストに応じたアノテーション、および比較解析を提供することで、Evo2VEDはヒト遺伝学研究におけるゲノム言語モデルの予測の探索と応用を促進する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0359888",
+    "title": "Paperclip RNAs bypass clathrin mediated endocytosis in insect and fungal cells.",
+    "abstract": "Insects and fungi are among the most destructive pests and pathogens affecting agriculture and public health. Although chemical pesticides have long been the primary means of control, their broad‑spectrum activity and widespread use have accelerated resistance in many systems. RNA interference (RNAi) has therefore emerged as a promising species‑specific alternative. RNAi is initiated by double‑stranded RNA (dsRNA), which triggers sequence‑directed degradation of target transcripts. However, RNAi efficiency varies markedly across species, influenced by nuclease activity, dsRNA length, and the cellular uptake route. We previously showed that long dsRNA uptake in Aedes aegypti depends on clathrin‑mediated endocytosis (CME), whereas paperclip RNA (pcRNA), a compact dsRNA structure developed in our laboratory, bypasses CME and enters cells through a distinct pathway. Here, we compared the uptake and RNAi performance of two dsRNA formats, long dsRNA (210-230 bp) and pcRNA (21-23 bp), in three representative species: Aedes aegypti (mosquito), Spodoptera frugiperda (moth), and Sclerotinia sclerotiorum (fungus). To assess cellular uptake of these dsRNAs, we used two CME inhibitors, chlorpromazine (CPZ) and bafilomycin A1 (BafA1), along with fluorescein‑labeled dsRNAs. CME inhibition prevented long dsRNA from entering the cytoplasm and abolished its ability to induce RNAi. In contrast, pcRNAs were readily internalized and produced significant gene knockdowns under both inhibitor treatments. Microscopy further revealed that all three cell types, pretreated with either CPZ or BafA1, prevented long dsRNA from entering the cytoplasm. pcRNA, consistently reached the cytoplasm and showed superior uptake across all species. Together, these findings demonstrate that pcRNA uses an uptake mechanism distinct from long dsRNA, enabling it to circumvent CME-dependent barriers. This unique internalization route likely reflects its compact size and structural configuration and highlights pcRNA as a promising platform for improving RNAi-based pest and pathogen control.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0359888",
+    "date": "2026-10-28",
+    "authors": "Amanat N, Kernodle BM, Castillo B, Tayler A, Belmonte M, Whyard S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949895",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13716168",
+    "pmid": "42949895",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2480,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0359888"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4907a5490c869424c79eec5ca897e64ad546cd8482b0e70c6428ff317b3d65f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:20:43.139265+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "df318a85b024ac057ede8219aa2c5525d45d7f154ac5a1f372e57e8332bf62f9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:20:43.139265+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ペーパークリップRNAは、昆虫および真菌細胞においてクラスリン介在性エンドサイトーシスを回避する。",
+    "abstract_ja": "昆虫や真菌は、農業および公衆衛生に影響を及ぼす最も破壊的な害虫や病原体の一部である。化学農薬が長らく主要な防除手段となってきたが、その広範な作用と広範な使用により、多くの系統において耐性化が加速している。そのため、RNA干渉（RNAi）が種特異的な有望な代替手段として登場した。RNAiは二本鎖RNA（dsRNA）によって開始され、標的転写産物の配列指向性分解を誘発する。しかし、RNAiの効率は、ヌクレアーゼ活性、dsRNAの長さ、および細胞内取り込み経路の影響を受け、種によって著しく異なる。我々は以前、ネッタイシマカにおける長鎖dsRNAの取り込みがクラスリン介在性エンドサイトーシス（CME）に依存するのに対し、当研究室で開発したコンパクトなdsRNA構造であるペーパークリップRNA（pcRNA）はCMEを介さず、別の経路で細胞内に進入することを示した。本研究では、ネッタイシマカ（蚊）、Spodoptera frugiperda（ガ）、およびSclerotinia sclerotiorum（真菌）という3つの代表的な種において、2種類のdsRNA形式、すなわち長鎖dsRNA（210-230 bp）とpcRNA（21-23 bp）の取り込みおよびRNAi性能を比較した。これらのdsRNAの細胞内取り込みを評価するため、2種類のCME阻害剤であるクロルプロマジン（CPZ）およびバフィロマイシンA1（BafA1）と、フルオレセイン標識dsRNAを用いた。CME阻害により、長鎖dsRNAの細胞質への進入が阻止され、RNAiを誘導する能力が消失した。対照的に、pcRNAは容易に細胞内に取り込まれ、いずれの阻害剤処理においても有意な遺伝子ノックダウンをもたらした。顕微鏡観察により、CPZまたはBafA1で前処理した3種類すべての細胞型において、長鎖dsRNAの細胞質への進入が阻止されたことが明らかになった。pcRNAは一貫して細胞質に到達し、すべての種において優れた取り込み性能を示した。以上の知見を総合すると、pcRNAは長鎖dsRNAとは異なる取り込み機構を利用しており、これによりCME依存的な障壁を回避できることが示される。この独自の取り込み経路は、そのコンパクトなサイズと構造的構成を反映していると考えられ、RNAiに基づく害虫・病原体防除を改善するための有望なプラットフォームとしてpcRNAを際立たせるものである。"
   }
 ]
