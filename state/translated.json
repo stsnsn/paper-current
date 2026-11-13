@@ -175314,5 +175314,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "トランスクリプトームの収束と自閉症における女性保護効果。",
     "abstract_ja": "自閉スペクトラム症（ASD）は遺伝性が非常に高く、数百もの遺伝子における変異が、個々の稀なASDの原因として関与していることが示唆されている1-3。機能的に多様なこれらの遺伝子の機能不全が、いかにしてASDの中核的特徴をもたらすのかを解明することは、依然として大きな課題である4。さらに、ASDは女性よりも男性において3〜4倍多く見られ5、女性の自閉症者は男性に比べてASDの常染色体リスクアレルをより多く保有する傾向がある6,7。しかし、この「女性保護効果（FPE）」の生物学的基盤は不明なままであった8,9。本研究では、ヒト神経前駆細胞における18個のASD遺伝子の個々の摂動が、他のASD遺伝子の広範な発現低下を含む、遺伝子発現への共通の影響へと収束することを示す。遺伝子調節ネットワークのde novo再構築により、著名なASD遺伝子であるCHD8やRESTを含む候補遺伝子など、このトランスクリプトーム的な収束を駆動する中心的な転写調節因子の同定が可能となった。さらに、女性において活性型および不活性型の両方のX染色体から発現するX連鎖性転写因子ZFX10が、多くのASD遺伝子の主要な活性化因子として浮上した。我々は、女性の脳で観察されるより高いZFX発現レベルが、多様なASD遺伝子における有害な変異を緩衝し、女性保護効果に寄与している可能性を提案する。以上の結果を総合すると、主要な遺伝子調節ネットワークが、個々のASD遺伝子の機能不全によって広範かつ同様に調節不全に陥り得ることが示され、ASDにおける女性保護効果に関する分子生物学的な知見が得られる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1989196",
+    "title": "Intestinal adaptation of crayfish to pond and rice paddy farming: a microbiome-enzyme perspective.",
+    "abstract": "The red swamp crayfish (Procambarus clarkii) is a globally significant aquaculture species, yet the biological trade-offs between intensive pond monoculture and integrated rice-crayfish co-culture systems remain poorly understood at the intestinal level. This study investigated the intestinal physiological and microbial adaptations of P. clarkii reared in pond (high-input formulated feed) and rice paddy (low-input natural diet) systems for 60 days. We integrated analyses of intestinal digestive, antioxidant, immune barrier, and energy metabolism enzymes with 16S rRNA sequencing of the gut content-associated microbiota. Rice paddy-cultured crayfish exhibited significantly higher amylase activity, enhanced antioxidant enzyme activities (SOD, CAT, GSH-Px), and lower oxidative damage (MDA), alongside higher immune barrier enzyme activities (AKP, ACP) and reduced Na+/K+-ATPase activity compared to pond-cultured crayfish. Conversely, pond-cultured crayfish showed elevated lipase and total protease activities, lower immune barrier enzyme activities, and greater energy transport workload. Microbial analysis of intestinal lumen contents revealed higher lumen-associated microbial diversity in the rice paddy group, with enrichment of Bacteroidota and taxa commonly associated with polysaccharide degradation, whereas the pond group showed enrichment of Pseudomonadota (formerly Proteobacteria) and taxa that include potential opportunistic pathogens such as Citrobacter and Acinetobacter. BugBase phenotype prediction indicated higher abundance of \"Potentially pathogenic\" phenotypes in the pond group. These findings suggest that the two aquaculture systems are associated with distinct, coordinated intestinal adaptation patterns: a \"stress-resistance-oriented\" phenotype in rice paddies characterized by enhanced antioxidant defense, efficient carbohydrate utilization, lower physiological burden, and a more diverse lumen-associated microbiota with greater abundance of potentially beneficial taxa, versus a \"growth-oriented\" phenotype in ponds characterized by elevated metabolic load, oxidative stress, altered immune status, and opportunistic pathogen enrichment. This study provides a basis for further hypothesis-driven research and may help inform sustainable aquaculture practices, balancing productivity with animal health and welfare.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1989196",
+    "date": "2026-10-26",
+    "authors": "Gao G, Wei J, Gan L, Wang H, Zhang H, Yu X, Bi B.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005250",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13745700",
+    "pmid": "43005250",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4167,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1989196"
+    ],
+    "translation": {
+      "title": {
+        "hash": "68056b6b6cc0785a328ed7ff63ce6412ead88f8a802989fb673b247987f5fc26",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:30:53.615369+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b41d16731590c4001c45da697f448b9ba55b9d4dfa0c180b3c9cd030fe9265c6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:30:53.615369+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "池沼および水田農業に対するザリガニの腸管適応：マイクロバイオーム・酵素学的視点から",
+    "abstract_ja": "レッドスワンプクレイフィッシュ（Procambarus clarkii）は世界的に重要な水産養殖種であるが、集約的な池での単文化栽培と統合的な稲・クレイフィッシュ共養殖システムとの間の生物学的トレードオフについては、腸管レベルにおいて十分に解明されていない。本研究では、池（高投入型配合飼料）および水田（低投入型天然飼料）システムで60日間飼育したP. clarkiiの腸管生理学的および微生物学的適応について調査した。腸管の消化酵素、抗酸化酵素、免疫バリア酵素、およびエネルギー代謝酵素の解析を、腸内内容物に関連する微生物叢の16S rRNAシーケンシングと統合して行った。水田で飼育したクレイフィッシュは、池で飼育した個体と比較して、アミラーゼ活性が有意に高く、抗酸化酵素活性（SOD, CAT, GSH-Px）が亢進し、酸化損傷（MDA）が低かった。一方で、免疫バリア酵素活性（AKP, ACP）は高く、Na+/K+-ATPase活性は低下していた。対照的に、池で飼育したクレイフィッシュでは、リパーゼおよび総プロテアーゼ活性が上昇し、免疫バリア酵素活性が低下し、エネルギー輸送負荷が増大していた。腸管腔内容物の微生物学的解析により、水田群では腔内関連微生物の多様性が高く、Bacteroidotaおよび多糖類分解に一般的に関与する分類群の富集が認められた。一方、池群ではPseudomonadota（旧Proteobacteria）およびCitrobacterやAcinetobacterなどの潜在的な日和見病原体を含む分類群の富集が認められた。BugBaseの表現型予測では、池群において「潜在的病原性」表現型の存在量が多いことが示された。これらの知見は、2つの水産養殖システムが、それぞれ異なる協調的な腸管適応パターンに関連していることを示唆している。すなわち、水田では、抗酸化防御の強化、効率的な炭水化物利用、生理的負荷の軽減、および潜在的に有益な分類群をより多く含む多様な腔内関連微生物叢を特徴とする「ストレス耐性指向型」表現型を示すのに対し、池では、代謝負荷の増大、酸化ストレス、免疫状態の変化、および日和見病原体の富集を特徴とする「成長指向型」表現型を示す。本研究は、さらなる仮説駆動型研究の基礎となるものであり、生産性と動物の健康および福祉のバランスを考慮した持続可能な水産養殖の実践に資するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.03373-25",
+    "title": "Establishment and preliminary application of the <i>Mo</i> RPA-CRISPR/Cas12a rapid detection method.",
+    "abstract": "Mycoplasma ovipneumoniae (Mo) is a common pathogen prevalent worldwide that causes pneumonia and leads to significant economic losses in sheep farming. Early testing of nasal swabs from diseased sheep in Xinjiang yielded a 51.5% positivity rate, indicating severe infection within the sheep population. Existing detection methods are time-consuming and rely on large-scale equipment, making them unsuitable for frontline clinical testing. Rapid, accurate, and on-site pathogen detection is essential for the early prevention and control of infectious diseases. Conventional nucleic acid detection methods are limited by long reaction duration, sophisticated instruments, and strict operating requirements, which restrict their application in grassroots rapid diagnosis scenarios. Herein, we established a combined Mo-RPA integrated CRISPR/Cas12a detection assay, which realized constant-temperature nucleic acid detection without large-scale laboratory equipment. The entire detection workflow was completed within 30 min under a constant temperature of 37°C. The optimized assay achieved a limit of detection of 10° copies/μL, with 100% analytical specificity against non-target pathogen strains. In clinical sample verification, the detection consistency between the established method and standard real-time PCR assay reached 100%. The established constant-temperature detection system integrates rapid nucleic acid amplification and CRISPR fluorescent signal output and provides a quantifiable on-site detection scheme for grassroots epidemic surveillance.ImportanceIn this study, we demonstrated a novel RPA-CRISPR-Cas12a-based diagnostic method for Mycoplasma ovipneumoniae (Mo) infection with high sensitivity and specificity. The detection rate reached 51.5% (85/165). Subsequently, an RPA-CRISPR/Cas12a rapid test targeting the 16S rRNA gene of Mo was developed, achieving a detection time of 30 min, 100% specificity, and a sensitivity of 100 copies/μL-10⁶ times more sensitive than PCR. During preliminary application, the RPA-CRISPR/Cas12a method detected Mo in 84/102 samples (82.35%), representing 1.7 times the detection rate of PCR. Consequently, RPA-Cas12a testing has demonstrated significant potential for routine Mo screening and offers high accessibility for population screening or molecular diagnostics in resource-limited settings.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.03373-25",
+    "date": "2026-10-23",
+    "authors": "Li Y, Wei Y, Chen R, Wen X, Shi H, Fu Q, Ma X, Li N, Chu Y, Li Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925060",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925060",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 3861,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1128/spectrum.03373-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9616db6b6764c5a9e0ad4028a6f85a973efe9e976e9be3fd3309dfe613b0334a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:30:53.615369+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4fce1e3eb9793636b753557aba40e0f75e2ccc9f7eced107d5d068f3af95379d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:30:53.615369+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Mo</i> RPA-CRISPR/Cas12a迅速検出法の確立と予備的応用。",
+    "abstract_ja": "Mycoplasma ovipneumoniae（Mo）は世界的に蔓延している一般的な病原体であり、肺炎を引き起こし、羊の飼育において多大な経済的損失をもたらしている。新疆の罹患羊から採取した鼻腔スワブの早期検査では陽性率が51.5%に達し、羊集団内での重篤な感染が示された。既存の検出法は時間がかかり、大規模な設備を必要とするため、最前線の臨床検査には適していない。感染症の早期予防と制御には、迅速かつ正確でオンサイトの病原体検出が不可欠である。従来の核酸検出法は、反応時間の長期化、精巧な器具、および厳格な操作要件という制約があり、草の根レベルの迅速診断シナリオへの適用が制限されていた。本研究では、Mo-RPA統合型CRISPR/Cas12a検出アッセイを確立し、大規模な実験設備を必要とせずに定温核酸検出を実現した。検出ワークフロー全体は、37°Cの定温下で30分以内に完了した。最適化されたアッセイは10°コピー/μLの検出限界を達成し、非標的病原体株に対して100%の分析特異性を示した。臨床検体の検証において、確立した手法と標準的なリアルタイムPCRアッセイとの検出一致率は100%に達した。確立された定温検出システムは、迅速な核酸増幅とCRISPR蛍光シグナル出力を統合しており、草の根レベルの疫学監視のための定量可能なオンサイト検出スキームを提供する。重要性 本研究では、高い感度と特異性を有するMycoplasma ovipneumoniae（Mo）感染の新規RPA-CRISPR-Cas12aベースの診断法を実証した。検出率は51.5%（85/165）に達した。続いて、Moの16S rRNA遺伝子を標的としたRPA-CRISPR/Cas12a迅速検査法を開発し、検出時間30分、特異性100%、および感度100コピー/μLという、PCRよりも10⁶倍高い感度を達成した。予備的な適用において、RPA-CRISPR/Cas12a法は102検体中84検体（82.35%）でMoを検出し、これはPCRの検出率の1.7倍に相当した。したがって、RPA-Cas12a検査は日常的なMoスクリーニングにおいて大きな可能性を示しており、資源の限られた環境における集団スクリーニングや分子診断において高いアクセシビリティを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41586-026-11170-7",
+    "title": "Eukaryotes' closest relatives are internally simple syntrophic peptidotrophic archaea.",
+    "abstract": "Eukaryotes are theorized to have an origin associated with the archaeal phylum Promethearchaeota (formerly Asgard archaea)1-3. The first cultured representatives revealed valuable insights4,5 but are still distantly related to eukaryotes, leaving many unknowns regarding eukaryogenesis. Here we report the isolation of two strains, HC1 and SC1, that belong to the archaeal lineage that branches closest to eukaryotes (Heimdallarchaeia);6-8 these isolates are members of a pure co-culture and a tri-culture with methanogenic partners. Both are obligately anaerobic, syntrophic, peptide-degrading and mesophilic archaea that produce protrusions and vesicles but lack persistent internal membrane structures, like Promethearchaeales4,5. All Promethearchaeota isolates demonstrate behaviour focused on cell construction and membrane structures rather than division, in contrast to typical prokaryotes9. Strain HC1 possesses genes associated with aerobic lifestyles (such as cytochrome c oxidase (Cox)) but co-cultures cannot grow under (micro)oxic conditions. Meanwhile, the strain demonstrates growth under microoxic conditions when in the presence of aerobes, suggesting that Cox supports oxygen detoxification rather than respiration. Comparative genomics provides evidence that, like HC1, Cox-possessing Heimdallarchaeia studied to date probably do not respire oxygen. The wide conservation of anaerobiosis, cell structure without persistent intracellular membranes and membrane protrusions across Promethearchaeota suggest that the archaeal ancestor of eukaryotes may have had such physiological features. In this cultivation-informed scenario for eukaryogenesis, the archaea-eukaryote transition would involve a steep transition in cell structure and physiological shift from anaerobiosis to (facultative) aerobiosis10, with early interactions between the archaeal host and mitochondrial ancestor probably occurring under low-oxygen conditions and at least partially mediated by oxygen detoxification.",
+    "journal": "Nature",
+    "doi": "10.1038/s41586-026-11170-7",
+    "date": "2026-10-28",
+    "authors": "Imachi H, Nobu MK, Ishii S, Hashiguchi H, Hirakata Y, Hosogi N, Ikuta T, Isaji Y, Miyata M, Miyazaki M, Morono Y, Murata K, Nakagawa S, Narita A, Ogawara M, Okada S, Saito Y, Sakai S, Shimamura S, Tahara YO, Takaki Y, Takano Y, Tasumi E, Uematsu K, Yoshimura T, Takai K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951967",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951967",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "methanogen",
+        "methanogenic",
+        "prokaryote"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 769,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41586-026-11170-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b8b84a001d91d243d444dc2f0fb0116722139f4f2575e2b864cee01ded679157",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:30:53.615369+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "65de7d8226a531eb441cb9a559903733cc6e6112bf4de60fccf061a5d6936f10",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:30:53.615369+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真核生物に最も近い近縁種は、内部構造が単純な共生性ペプチド栄養性古細菌である。",
+    "abstract_ja": "真核生物は、古細菌門プロメテアーキオータ（旧称アスガルド古細菌）1-3に関連して起源を持つという説がある。最初に培養された代表株は貴重な知見をもたらしたが4,5、依然として真核生物とは遠縁であり、真核生物の起源に関しては多くの未知の点が残っている。本報では、真核生物に最も近い分岐を持つ古細菌系統（ヘイムダル古細菌）6-8に属する2つの株、HC1およびSC1の単離について報告する。これらの分離株は、純共培養株およびメタン生成パートナーとの三培養株の構成員である。いずれも絶対嫌気性、共生性、ペプチド分解能、および中温性の古細菌であり、突起や小胞を形成するが、プロメテアーキア目4,5のように持続的な内部膜構造を欠いている。すべてのプロメテアーキオータ分離株は、典型的な原核生物とは対照的に、分裂よりも細胞構築や膜構造に重点を置いた挙動を示す9。HC1株は好気的生活様式に関連する遺伝子（シトクロムcオキシダーゼ（Cox）など）を保有しているが、共培養株は（微小）酸素条件下では増殖できない。一方で、本株は好気菌が存在する微小酸素条件下では増殖を示し、Coxが呼吸ではなく酸素解毒を担っていることを示唆している。比較ゲノミクスにより、HC1と同様に、これまで研究されてきたCox保有ヘイムダル古細菌はおそらく酸素呼吸を行っていないという証拠が得られている。プロメテアーキオータ全体に見られる嫌気性、持続的な細胞内膜を欠く細胞構造、および膜突起の広範な保存は、真核生物の古細菌祖先がこのような生理学的特徴を有していた可能性を示唆している。このような培養に基づく真核生物の起源シナリオにおいて、古細菌から真核生物への移行は、細胞構造の急激な変化と、嫌気性から（通性）好気性への生理学的転換を伴うと考えられ10、古細菌宿主とミトコンドリア祖先との初期の相互作用は、おそらく低酸素条件下で起こり、少なくとも部分的には酸素解毒によって媒介されていたと考えられる。"
+  },
+  {
+    "id": "10.1038/s41467-026-79636-w",
+    "title": "Phylogeographic and functional assembly of population-level bacterial immunity",
+    "abstract": "In this study, the authors use comparative genomics and cross-infection assays to show a spatially and evolutionarily structured bacterial immune reservoir in which interactions among defense systems can reinforce or undermine phage resistance, refining the pan-immunity framework.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79636-w",
+    "date": "2026-11-12",
+    "authors": "Bin Li",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79636-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/ncomms.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4163,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1038/s41467-026-79636-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b33b3b384d610f4cd51201e09a97d3e544ac1d72352091ff46f418d827a7202a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:30:53.615369+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e5e7a2198956cc4830ef200c83135428c96048c13bad09b43e44b58a8533266e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:30:53.615369+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "集団レベルの細菌免疫の系統地理学的・機能的構成",
+    "abstract_ja": "本研究において、著者らは比較ゲノミクスとクロスインフェクションアッセイを用いて、防御システム間の相互作用がファージ耐性を強化あるいは低下させ得る、空間的・進化的に構造化された細菌免疫リザーバーを明らかにし、汎免疫フレームワークを精緻化した。"
   }
 ]
