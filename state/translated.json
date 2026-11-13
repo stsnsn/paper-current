@@ -183422,5 +183422,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "説明可能なAIは、トウモロコシおよび<i>Brassica</i>におけるサブゲノム進化の主要な予測因子として、組換えとクロマチン環境を特定している。",
     "abstract_ja": "倍数性、すなわち全ゲノム重複は、偏った遺伝子喪失と調節機構の再編成を通じてゲノムを再構築するが、サブゲノム間における偏った分画の駆動要因は依然として不明である。トウモロコシとブラッシカ・ラパをモデルとなるアロ倍数体として用い、トウモロコシで60項目、B. rapaで45項目のゲノムおよびエピゲノム特性を収集し、サブゲノムの同一性に基づいて遺伝子を分類する教師あり機械学習モデルを構築した。両種において、説明可能な人工知能（XAI）手法は、サブゲノム群間に有意な平均値の差がないにもかかわらず、組換え率が最も影響力が強く、かつ相互に密接に関連した特徴であることを特定した。染色体位置、トランスポゾン密度、およびアクセシブルなクロマチン領域と遺伝子との近接性や、H3K9acおよびH3K27acなどの活性ヒストン標識を含むクロマチン関連特徴は、一貫してサブゲノム分類の主要な寄与因子として上位に挙げられた。XAIから導出された共変動および相互作用ネットワークにより、組換え率が有意な特徴間を結ぶ中心的なノードであることがさらに明らかになった。以上の結果を総合すると、組換えとクロマチン環境が、倍数体ゲノムにおけるサブゲノム分化の主要な予測因子であることが浮き彫りになった。"
+  },
+  {
+    "id": "10.1093/nar/gkag1131",
+    "title": "Gene Expression Nebulas 2.0: an updated resource of gene expression profiles by incorporating more datasets, annotations, and functionalities",
+    "abstract": "AbstractGene Expression Nebulas (GEN; https://ngdc.cncb.ac.cn/gen/) is an open-access database that provides standardized transcriptomic profiles and manually curated metadata across diverse species. Compared with the previous release, the updated GEN has expanded in terms of datasets from 323 to 668, samples from 50 500 to 102 679, cells from 15 540 169 to 23 461 252, and species from 30 to 100. GEN 2.0 adds spatial transcriptomics data and disease-associated expression annotations from 82 human bulk RNA-seq datasets spanning 62 disease categories, including distinct subtypes, across 12 disease systems. In addition, it has been significantly upgraded by providing high-quality gene expression profiles for artificial intelligence applications, a web-based service to accept transcriptomic data submission, and an updated online analysis tool for gene expression comparisons across species, tissues, and diseases. Together, GEN offers more comprehensive, standardized gene expression profiles across diverse species and thus serves as a fundamental resource for uncovering molecular functional mechanisms and deciphering complex regulatory architecture.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1131",
+    "date": "2026-11-10",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1131/9026634?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "gene",
+        "resource",
+        "tool",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2050,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1131"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f21811d8efab6203beb67c47b1f8024a360752f01e283307e4739774fb4e096a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:18:13.263842+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3f1511a03ab4fdd4336831691f5392296bc042886f3723d2fcf85c8180fddc79",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:18:13.263842+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Gene Expression Nebulas 2.0：より多くのデータセット、アノテーション、および機能を組み込んだ遺伝子発現プロファイルの更新版リソース",
+    "abstract_ja": "要旨Gene Expression Nebulas (GEN; https://ngdc.cncb.ac.cn/gen/) は、多様な生物種にわたって標準化されたトランスクリプトームプロファイルと手動でキュレーションされたメタデータを提供するオープンアクセスデータベースである。前回のリリースと比較して、更新版のGENでは、データセット数が323から668に、サンプル数が50 500から102 679に、細胞数が15 540 169から23 461 252に、そして生物種数が30から100へと拡充された。GEN 2.0では、12の疾患系にわたる、異なるサブタイプを含む62の疾患カテゴリーを網羅する82のヒトバルクRNA-seqデータセットから、空間トランスクリプトミクスデータおよび疾患関連の発現アノテーションが追加された。さらに、人工知能アプリケーション向けの高品質な遺伝子発現プロファイル、トランスクリプトームデータの提出を受け付けるウェブベースのサービス、および生物種・組織・疾患間の遺伝子発現比較のための更新されたオンライン解析ツールが提供され、大幅にアップグレードされた。総じて、GENは多様な生物種にわたってより包括的かつ標準化された遺伝子発現プロファイルを提供しており、分子機能メカニズムの解明や複雑な調節アーキテクチャの解析のための基礎的なリソースとして機能する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0362081",
+    "title": "Identification and validation of biomarkers associated with mitochondrial dynamics dysfunction in Parkinson's disease based on GEO datasets.",
+    "abstract": "BackgroundParkinson's disease (PD), the second most prevalent neurodegenerative disorder, is characterized by an unclear etiology and a lack of specific early diagnostic biomarkers. This study investigated novel biomarkers associated with mitochondrial dynamics (MD) dysfunction in PD.MethodsTranscriptomic data from the Gene Expression Omnibus database (training set: GSE6613, n = 72; validation set: GSE99039, n = 438) and 23 MD-related genes (MDRGs) were integrated. Differentially expressed genes were screened using the limma package. Three machine learning algorithms (random forest, support vector machine, and generalized linear model) were employed to construct diagnostic models. Feature importance analysis identified key candidate biomarkers, which were preliminarily validated in clinical samples via reverse transcription quantitative PCR (RT-qPCR). Functional enrichment, immune infiltration, and compound prediction analyses were subsequently performed.ResultsCysteinyl leukotriene receptor 2 (CYSLTR2) and alpha‑tocopherol transfer protein‑like gene (TTPAL) were identified as MDRG score-correlated biomarkers. In the validation set, CYSLTR2 was significantly downregulated (log2FC = -1.25, P ConclusionThis study identified CYSLTR2 and TTPAL as novel candidate biomarkers associated with MD dysfunction in PD, providing novel targets for mechanistic investigation and therapeutic exploration.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0362081",
+    "date": "2026-11-04",
+    "authors": "Gong D, Li G, Li M, Zhang B, Wang W, Chen J, Zhao Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981378",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734593",
+    "pmid": "42981378",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2177,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pone.0362081"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bb8387cf08b78462b4c887c7050e851af524d4f43079750a86158e4a0128e844",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:18:13.263842+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "57cd197d259b7ba4fdddaba2ad045662a32b04e2bd334aadd90aa0f627724216",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:18:13.263842+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GEOデータセットに基づくパーキンソン病のミトコンドリア動態機能障害に関連するバイオマーカーの同定および検証",
+    "abstract_ja": "背景パーキンソン病（PD）は、2番目に頻度の高い神経変性疾患であり、原因が不明であること、および早期診断のための特異的なバイオマーカーが欠如していることが特徴である。本研究では、PDにおけるミトコンドリア動態（MD）機能不全に関連する新規バイオマーカーを検討した。方法Gene Expression Omnibusデータベース（トレーニングセット：GSE6613, n = 72；バリデーションセット：GSE99039, n = 438）のトランスクリプトームデータと、23種類のMD関連遺伝子（MDRGs）を統合した。発現変動遺伝子のスクリーニングにはlimmaパッケージを用いた。診断モデルの構築には、3種類の機械学習アルゴリズム（ランダムフォレスト、サポートベクターマシン、および一般化線形モデル）を採用した。特徴量重要度解析により主要な候補バイオマーカーを同定し、臨床検体を用いて逆転写定量PCR（RT-qPCR）により予備的な検証を行った。続いて、機能エンリッチメント解析、免疫浸潤解析、および化合物予測解析を実施した。結果システイニルロイコトリエン受容体2（CYSLTR2）およびα-トコフェロールトランスファータンパク質様遺伝子（TTPAL）が、MDスコアと相関のあるバイオマーカーとして同定された。バリデーションセットにおいて、CYSLTR2は有意に発現低下していた（log2FC = -1.25, P 結論本研究により、PDにおけるMD機能不全に関連する新規候補バイオマーカーとしてCYSLTR2およびTTPALが同定され、機序解明および治療探索のための新たな標的が提示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2627912123",
+    "title": "Core effectors of the <i>Fusarium</i> pan-effectome contribute to host specificity.",
+    "abstract": "Fusarium fungi cause economically important diseases of cereal crops, including Fusarium head blight, ear blight, and root rot. Central to these interactions are secreted effector proteins that manipulate host biology to promote infection. In turn, plants have evolved to recognize effector activity to activate immune responses and restrict disease. Despite their importance, the diversity, conservation, and evolution of Fusarium effectors remain poorly understood. Here, we present the Fusarium sambucinum Species complex Effector Compendium (FUSEC), a sequence-defined pan-effectome constructed from 188 high-quality genomes representing 27 species. FUSEC comprises 4,057 sequence-defined effector families, including a conserved soft-core repertoire of 235 families present in at least 95% of isolates. Structure-guided comparisons reorganized these conserved families into 184 structure-defined groups, revealing relationships that extend beyond sequence similarity and identifying similarities to numerous experimentally characterized fungal (a)virulence factors. Despite their broad conservation, soft-core families exhibited substantial within-family sequence diversity, and analyses of diversifying selection identified 44 candidate families undergoing adaptive evolution. Functional screening revealed that the majority of these candidates altered wheat immune responses, and CRISPR-Cas9-mediated gene deletions in Fusarium graminearum demonstrated that multiple conserved effectors contribute to cultivar-dependent Fusarium head blight severity.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2627912123",
+    "date": "2026-11-03",
+    "authors": "Blackman CT, Aguayo-Limon A, Lei T, Zarrouki M, Balcerzak M, Witte T, Rampitsch C, Desveaux D, Subramaniam R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975944",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42975944",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 657,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1073/pnas.2627912123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2ee5f62d18eaaacd001ca8638e97f24e2523ee8cc94afb7b2ba8e1acc0d4e935",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:18:13.263842+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "982f70aa624244121470cf4b03df65f46f9548bb7759e7ad250b5bfe460fc752",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:18:13.263842+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Fusarium</i>の汎エフェクターの中核的なエフェクターは、宿主特異性に寄与している。",
+    "abstract_ja": "フザリウム菌は、フザリウム頭部枯病、穂枯病、根腐れ病など、穀物作物の経済的に重要な病害を引き起こす。これらの相互作用の中核をなすのは、宿主の生物学的特性を操作して感染を促進する分泌型エフェクタータンパク質である。これに対し、植物はエフェクター活性を認識して免疫応答を活性化し、病害を抑制するように進化してきた。その重要性にもかかわらず、フザリウムエフェクターの多様性、保存性、および進化については十分に解明されていない。本研究では、27種を代表する188の高品質ゲノムから構築した配列定義型パンエフェクトームであるFusarium sambucinum種複合体エフェクターコンペンディウム（FUSEC）を提示する。FUSECは4,057の配列定義型エフェクターファミリーで構成されており、その中には少なくとも95%の分離株に存在する235ファミリーの保存されたソフトコアレパートリーが含まれている。構造ガイドに基づく比較により、これらの保存ファミリーを184の構造定義型グループに再編成し、配列類似性にとどまらない関係性を明らかにするとともに、実験的に特性解析された数多くの真菌(a)病原性因子との類似性を同定した。広範な保存性にもかかわらず、ソフトコアファミリーはファミリー内で相当な配列多様性を示し、多様化選択の解析により、適応進化を遂げている44の候補ファミリーが同定された。機能スクリーニングにより、これらの候補の大部分が小麦の免疫応答を変化させることが明らかになり、Fusarium graminearumにおけるCRISPR-Cas9介在性の遺伝子欠失は、複数の保存型エフェクターが栽培品種依存的なフザリウム頭部枯病の重症度に寄与していることを示した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aeh3280",
+    "title": "Toxic mercury, aquatic ecosystem collapse, and the ancient Lowland Maya.",
+    "abstract": "Environmental impacts endured by the Lowland Maya during the Classic Period (250 to 920 CE) included droughts, deforestation, and soil erosion. Recent studies on mercury (Hg) pollution and cyanotoxins suggest that degraded water quality was also a stressor for the Pre-Columbian Maya. Hg in the Maya region is related to use of both elemental mercury and mineral cinnabar (HgS), the latter used as a red pigment. Questions, however, remain concerning the toxicity of Hg or the consequences of prehistoric Hg exposure on ecosystem and human health. Here, we show that Classic Period Hg concentrations in sediment cores from two lakes on the Yucatán Peninsula exceeded modern sediment Hg toxicity thresholds by orders of magnitude for centuries during ancient Maya occupation. Sediments also have evidence of aquatic food web collapse (algae, bacteria, cyanobacteria, ostracods, snails, and nonbiting midges), coincident with the time of high Hg concentrations, confirming that Hg toxicity was an additional environmental stressor for Classic Maya populations.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh3280",
+    "date": "2026-11-04",
+    "authors": "Waters MN, Wooten SL, Abrook AM, Brenner M, Curtis JH, Langdon PG, Medina-Gonzalez RM, Paradeisis-Stathis S, Vachula RS.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42981413",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13733889",
+    "pmid": "42981413",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "cyanobacteria"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "lake"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1466,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1126/sciadv.aeh3280"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d12351922975ca642f2f23ce660e07482b76e1e3b8d84ccf897a8aae6be49661",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:18:13.263842+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8397b0bfc44267a86368685763f010eed88922cc08b81cdcb9a7dcd02863f4a6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T09:18:13.263842+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "有毒水銀、水圏生態系の崩壊、そして古代低地マヤ。",
+    "abstract_ja": "古典期（西暦250～920年）の低地マヤが受けた環境影響には、干ばつ、森林破壊、および土壌侵食が含まれていた。水銀（Hg）汚染とシアノトキシンに関する近年の研究は、水質の悪化もまた先コロンブス期のマヤにとってのストレス要因であったことを示唆している。マヤ地域におけるHgは、単体水銀と鉱物辰砂（HgS）の両方の使用に関連しており、後者は赤色顔料として用いられていた。しかしながら、Hgの毒性や、先史時代のHg曝露が生態系およびヒトの健康に及ぼした影響については、依然として疑問が残っている。本研究では、ユカタン半島の2つの湖から採取した堆積物コアにおける古典期のHg濃度が、古代マヤの居住期間中の数世紀にわたり、現代の堆積物におけるHg毒性閾値を数桁上回っていたことを示す。また、堆積物からは水生食物網の崩壊（藻類、細菌、シアノバクテリア、オストラコド類、巻貝、および非刺咬性ユスリカ）の痕跡が認められ、これはHg濃度が高かった時期と一致しており、Hg毒性が古典期マヤの集団にとってさらなる環境ストレス要因であったことを裏付けている。"
   }
 ]
