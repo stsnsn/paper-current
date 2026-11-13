@@ -176954,5 +176954,275 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "地球規模の変化時代における土壌微生物叢",
     "abstract_ja": "土壌とその微生物叢は、急速な地球規模の変化によって深刻な影響を受けている。したがって、人為的なストレス要因が土壌微生物叢に及ぼす影響を理解することは、土壌のレジリエンスを高め、地球の健全性を確保する上で極めて重要である。本フォーカス号では、地下の微生物生物多様性に対する喫緊の脅威と、それを回復させるための機会と課題を取り上げる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01352-26",
+    "title": "Lineage-associated genomic features and phenotypic heterogeneity in clinical borderline oxacillin-resistant <i>Staphylococcus aureus</i>.",
+    "abstract": "Borderline oxacillin-resistant Staphylococcus aureus (BORSA) represents a mecA/mecC-negative phenotype characterized by oxacillin minimum inhibitory concentrations (MICs) of 1-8 mg/L. The molecular basis of this resistance, particularly regarding lineage-associated differences in induction profiles, remains incompletely understood. In this study, 11 clinical BORSA isolates from pneumonia and bloodstream infections were identified among 374 clinical S. aureus isolates. Resistance-associated features were investigated using phenotypic profiling, whole-genome sequencing (WGS), RT-qPCR of blaZ expression, and time-kill assays. All BORSA isolates were cefoxitin-susceptible, β-lactamase-positive, and distributed across six clonal backgrounds, with ST25 and ST7 each represented by three isolates. WGS identified a shared GdpP N105D substitution in all isolates, together with lineage-associated variations in pbp1 and pbp4. Following oxacillin exposure, blaZ was significantly upregulated in all three ST25 isolates (all P gdpP variation, inducible β-lactamase activity, and alterations in penicillin-binding proteins (PBPs). The cefoxitin susceptibility of these isolates presents a diagnostic challenge that may lead to therapeutic misclassification and subsequent inappropriate therapy. β-lactam/β-lactamase inhibitor combinations demonstrated promising in vitro activity and warrants further investigation for BORSA isolates exhibiting strong inducible β-lactamase activity.IMPORTANCEBorderline oxacillin-resistant Staphylococcus aureus (BORSA) is difficult to detect because it lacks mecA/mecC and remains susceptible to cefoxitin, increasing the risk of misclassification and inappropriate β-lactam therapy. This study suggests that BORSA resistance in this cohort is multifactorial, involving candidate gdpP variation, lineage-associated variations in penicillin-binding proteins, and inducible β-lactamase activity. Importantly, the ST25 isolates in this cohort exhibited rapid blaZ induction and stronger responses to oxacillin/sulbactam than to oxacillin alone. These findings improve understanding of BORSA biology, highlight a significant diagnostic blind spot in routine susceptibility testing, and support further evaluation of β-lactam/β-lactamase inhibitor combinations as a promising treatment strategy for BORSA isolates exhibiting strong inducible β-lactamase activity.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01352-26",
+    "date": "2026-10-22",
+    "authors": "Bian Q, Xi L, Li S, Fang H, Ma C, Yang X, Shi X, Li N, Yang P, Dong W, Wu H, Wang X, Wu J, Guo B, Zhang J, Fan Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910944",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910944",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 864,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.01352-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fcfa10a101bc21fb66bf812f56ab6fc2bdbff0b3b3e6842dd382eb3d14374556",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:47:41.219661+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1bb8fe92184a919f0b2b7703dcfbe0ed618c7e05571e92979eec29f446330bf6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:47:41.219661+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "臨床的境界域のオキサシリン耐性<i>Staphylococcus aureus</i>における系統関連のゲノム特性と表現型の不均一性",
+    "abstract_ja": "境界域オキサシリン耐性黄色ブドウ球菌（BORSA）は、オキサシリンの最小発育阻止濃度（MIC）が1～8 mg/Lであることを特徴とするmecA/mecC陰性の表現型である。この耐性の分子基盤、特に系統に関連する誘導プロファイルの差異については、依然として十分に解明されていない。本研究では、374株の臨床用黄色ブドウ球菌分離株の中から、肺炎および血流感染症由来の臨床用BORSA分離株11株を同定した。耐性関連の特徴を、表現型プロファイリング、全ゲノムシーケンシング（WGS）、blaZ発現のRT-qPCR、およびタイムキルアッセイを用いて検討した。すべてのBORSA分離株はセフォキシチン感受性かつβ-ラクタマーゼ陽性であり、6つのクローン背景に分布し、ST25およびST7はそれぞれ3株ずつ認められた。WGSにより、すべての分離株において共通のGdpP N105D置換が同定され、併せてpbp1およびpbp4に系統関連の変異が認められた。オキサシリン曝露後、3株すべてのST25分離株においてblaZが有意に亢進した（すべての株でP gdpP変異、誘導性β-ラクタマーゼ活性、およびペニシリン結合タンパク質（PBPs）の変化が認められた）。これらの分離株のセフォキシチン感受性は、治療上の誤分類およびそれに続く不適切な治療を招く恐れのある診断上の課題となっている。β-ラクタム/β-ラクタマーゼ阻害薬併用療法はin vitroで有望な活性を示しており、強い誘導性β-ラクタマーゼ活性を示すBORSA分離株に対してさらなる検討を行う価値がある。重要性：境界域オキサシリン耐性黄色ブドウ球菌（BORSA）は、mecA/mecCを欠き、セフォキシチン感受性を維持するため検出が困難であり、誤分類および不適切なβ-ラクタム療法のリスクを高める。本研究は、本コホートにおけるBORSA耐性が多因子的であり、候補となるgdpP変異、ペニシリン結合タンパク質の系統関連変異、および誘導性β-ラクタマーゼ活性が関与していることを示唆している。重要な点として、本コホートのST25分離株は迅速なblaZ誘導を示し、オキサシリン単独よりもオキサシリン/スルバクタムに対してより強い反応を示した。これらの知見は、BORSAの生物学的理解を深めるとともに、ルーチンの感受性試験における重大な診断上の盲点を浮き彫りにし、強い誘導性β-ラクタマーゼ活性を示すBORSA分離株に対する有望な治療戦略として、β-ラクタム/β-ラクタマーゼ阻害薬併用療法のさらなる評価を支持するものである。"
+  },
+  {
+    "id": "10.1038/s41564-026-02544-8",
+    "title": "S-layer expansion is mediated by hoop-like cracks in the paracrystalline lattice during Bacillus anthracis growth",
+    "abstract": "Hoop-like cracking of the S-layer, filled either completely or partially, respectively leading to dispersed or focused modes of S-layer synthesis, enables S-layer expansion during Bacillus anthracis growth.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02544-8",
+    "date": "2026-11-10",
+    "authors": "David Z. Rudner",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02544-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2552,
+    "collected_at": "2026-11-10T22:50:05.049458+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41564-026-02544-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b8da447021a6d8a978975211c3afe93264c21694b02bd8972a34c64a046dcda7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:47:41.219661+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "21e2d636cbb13b238421e1d0cf0696be4b4ba8f0a1047c481a49c086c6dcf4f8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:47:41.219661+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "S層の拡大は、Bacillus anthracisの増殖過程におけるパラ結晶格子のフープ状亀裂によって媒介される。",
+    "abstract_ja": "S層のフープ状の亀裂（完全または部分的に充填されたもの）により、S層合成の様式が分散型または集中型となり、Bacillus anthracisの増殖過程におけるS層の拡大が可能となる。"
+  },
+  {
+    "id": "10.1038/s41579-026-01389-6",
+    "title": "The small intestine microbiome: composition, host interactions and therapeutic potential",
+    "abstract": "In this Review, Britton and colleagues examine the composition of the small intestinal microbiome and its interactions with the host, highlighting emerging insights into its roles in physiology and health. They also discuss the challenges of studying this understudied microbial community and its potential as a source of future microbial therapeutics.",
+    "journal": "Nature Reviews Microbiology",
+    "doi": "10.1038/s41579-026-01389-6",
+    "date": "2026-11-10",
+    "authors": "Robert A. Britton",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41579-026-01389-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nrmicro.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 2118,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.nature.com/nrmicro.rss"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41579-026-01389-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "79ac3286f1b82595455bfaff1b5ab4f41982b5345f90a6fba751f6105b9c814c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:47:41.219661+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ed0051015d461ab14e59c543d5708a8a9f3b8ddbbe40913b564cd78efca6cc61",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:47:41.219661+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "小腸マイクロバイオーム：組成、宿主との相互作用および治療的可能性",
+    "abstract_ja": "本総説において、Brittonらは小腸マイクロバイオームの組成と宿主との相互作用について検討し、生理学および健康におけるその役割に関する新たな知見を明らかにしている。また、研究が進んでいないこの微生物群集の研究における課題と、将来的な微生物治療薬の源泉となり得る可能性についても論じている。"
+  },
+  {
+    "id": "10.1038/s41522-026-01185-3",
+    "title": "Gut microbiota-derived butyrate orchestrates Astragalus Polysaccharide-mediated colitis remission via macrophage immunometabolic reprogramming",
+    "abstract": "Gut microbiota-derived butyrate orchestrates Astragalus Polysaccharide-mediated colitis remission via macrophage immunometabolic reprogramming",
+    "journal": "npj Biofilms and Microbiomes",
+    "doi": "10.1038/s41522-026-01185-3",
+    "date": "2026-11-11",
+    "authors": "Bo Yi",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41522-026-01185-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/npjbiofilms.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3300,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://www.nature.com/npjbiofilms.rss"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1038/s41522-026-01185-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2308329ec90c027bbb27ada32def6bf1ca6c1cb25365520b8ed78a319e5cf037",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:47:41.219661+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2308329ec90c027bbb27ada32def6bf1ca6c1cb25365520b8ed78a319e5cf037",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:47:41.219661+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸内細菌叢由来の酪酸は、マクロファージの免疫代謝リプログラミングを介して、黄耆多糖類による大腸炎の寛解を制御する。",
+    "abstract_ja": "腸内細菌叢由来の酪酸は、マクロファージの免疫代謝リプログラミングを介して、アストラガルス多糖類介在性大腸炎の寛解を制御する。"
   }
 ]
