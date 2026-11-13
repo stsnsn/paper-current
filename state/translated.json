@@ -115503,8 +115503,8 @@
   },
   {
     "id": "10.3389/fmicb.2026.1934085",
-    "title": "Genomic epidemiology unravels simultaneous clusters of linezolid-resistant Staphylococcus epidermidis isolated in Austria, 2023-2025.",
-    "abstract": "Staphylococcus epidermidis is an opportunistic pathogen causing bloodstream and device-associated infections. Due to the use of linezolid (LZD) against infections caused by multidrug-resistant Gram-positive bacteria, the emergence of LZD-resistant S. epidermidis (LRSE) is an increasing concern. This study aimed to characterize genomic clusters, resistance mechanisms, and epidemiological links among LRSE isolates collected during a suspected outbreak in two Austrian hospitals. A confirmed case was defined as a patient with LRSE (MIC > 4 mg/L) isolated from clinical or screening samples in Hospital A or Hospital B between March 2023 and April 2025. All isolates underwent whole-genome sequencing (WGS) for typing and identification of resistance determinants. Epidemiological data, including the hospital and ward of detection as well as inter-hospital transfers, were analyzed to explore potential epidemiological links between cases. A total of 53 LRSE cases were identified, including 22 in Hospital A and 31 in Hospital B. A LZD-resistant Staphylococcus hominis isolate originating from a patient admitted to Hospital B after traveling abroad and no epidemiological link with the LRSE cases was also recovered. Epidemiological and genomic data identified five clusters belonging to three sequence types (ST2, ST5, ST22). Most Cluster 1 cases were detected in Hospital B, especially in the surgical ICU, while Clusters 2-4 were exclusively identified in Hospital A. However, the available epidemiological information was insufficient to determine transmission direction or identify the origin of the clusters. Forty-five of 53 LRSE isolates displayed high-level LZD resistance (MIC ≥48 mg/L). Distinct resistance-associated mutations were identified in each ST, including G2576U in ST2 isolates, C2534U and U2504A in ST22 isolates, and characteristic alterations in ribosomal proteins L3 and L4. Genomic analysis identified five distinct LRSE clusters belonging to three STs and revealed ST-specific resistance mutations, suggesting multiple independent evolutionary pathways to LZD resistance. However, limited epidemiological information, including incomplete data on LZD administration and patient movements, prevented definitive assessment of transmission dynamics. Our findings demonstrate the utility of WGS for the detection and characterization of LRSE clusters and highlight the importance of comprehensive epidemiological data for interpreting genomic links.",
+    "title": "Genomic epidemiology unravels simultaneous clusters of linezolid-resistant <i>Staphylococcus epidermidis</i> isolated in Austria, 2023-2025.",
+    "abstract": "IntroductionStaphylococcus epidermidis is an opportunistic pathogen causing bloodstream and device-associated infections. Due to the use of linezolid (LZD) against infections caused by multidrug-resistant Gram-positive bacteria, the emergence of LZD-resistant S. epidermidis (LRSE) is an increasing concern. This study aimed to characterize genomic clusters, resistance mechanisms, and epidemiological links among LRSE isolates collected during a suspected outbreak in two Austrian hospitals.MethodsA confirmed case was defined as a patient with LRSE (MIC > 4 mg/L) isolated from clinical or screening samples in Hospital A or Hospital B between March 2023 and April 2025. All isolates underwent whole-genome sequencing (WGS) for typing and identification of resistance determinants. Epidemiological data, including the hospital and ward of detection as well as inter-hospital transfers, were analyzed to explore potential epidemiological links between cases.ResultsA total of 53 LRSE cases were identified, including 22 in Hospital A and 31 in Hospital B. A LZD-resistant Staphylococcus hominis isolate originating from a patient admitted to Hospital B after traveling abroad and no epidemiological link with the LRSE cases was also recovered. Epidemiological and genomic data identified five clusters belonging to three sequence types (ST2, ST5, ST22). Most Cluster 1 cases were detected in Hospital B, especially in the surgical ICU, while Clusters 2-4 were exclusively identified in Hospital A. However, the available epidemiological information was insufficient to determine transmission direction or identify the origin of the clusters. Forty-five of 53 LRSE isolates displayed high-level LZD resistance (MIC ≥48 mg/L). Distinct resistance-associated mutations were identified in each ST, including G2576U in ST2 isolates, C2534U and U2504A in ST22 isolates, and characteristic alterations in ribosomal proteins L3 and L4.ConclusionGenomic analysis identified five distinct LRSE clusters belonging to three STs and revealed ST-specific resistance mutations, suggesting multiple independent evolutionary pathways to LZD resistance. However, limited epidemiological information, including incomplete data on LZD administration and patient movements, prevented definitive assessment of transmission dynamics. Our findings demonstrate the utility of WGS for the detection and characterization of LRSE clusters and highlight the importance of comprehensive epidemiological data for interpreting genomic links.",
     "journal": "Frontiers in Microbiology",
     "doi": "10.3389/fmicb.2026.1934085",
     "date": "2026-10-20",
@@ -115523,15 +115523,17 @@
     "topic_filter": {
       "accepted": true,
       "reason": "unfiltered_journal",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "bacteria"
       ],
       "context": {
         "marine": [],
         "genomics": [
+          "evolution",
           "genom",
-          "evolution"
+          "genome",
+          "genomic"
         ],
         "evolution": [
           "evolution",
@@ -115547,30 +115549,41 @@
     "collected_at": "2026-11-10T01:46:09.892797+00:00",
     "collected_date": "2026-11-10",
     "sources": [
-      "Europe PMC journals 2"
+      "Europe PMC journals 2",
+      "Europe PMC topics"
     ],
     "first_seen": "2026-11-10",
     "related_dois": [
       "10.3389/fmicb.2026.1934085"
     ],
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
     "translation": {
       "title": {
-        "hash": "3e15339a3e611c65db0034c431cb857f4a86a8a166616732f30ef79bdb76c73a",
+        "hash": "60ec1872f88494121db43912c4f5eefd00e1f3c0ee937c3c0ee28ef7e6fa5e19",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-10T07:42:40.230047+00:00",
+        "date": "2026-11-13T01:40:00.393553+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "dfe5e23f6c0632619e266025b77591b9eea4c5b1df9d392a8d5bcffc05849677",
+        "hash": "a282b262575e4c29fd7afecfef0b0fda87a7a088597ca37dbfe4f83fb14b0726",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-10T07:42:40.230047+00:00",
+        "date": "2026-11-13T01:40:00.393553+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "ゲノム疫学により、オーストリアで2023～2025年に分離されたリネゾリド耐性表皮ブドウ球菌の同時多発的なクラスターが解明された。",
-    "abstract_ja": "表皮ブドウ球菌（Staphylococcus epidermidis）は、血流感染症やデバイス関連感染症を引き起こす日和見病原体である。多剤耐性グラム陽性菌による感染症に対してリネゾリド（LZD）が使用されているため、LZD耐性表皮ブドウ球菌（LRSE）の出現が懸念が高まっている。本研究では、オーストリアの2つの病院でアウトブレイクが疑われた際に採取されたLRSE分離株におけるゲノムクラスター、耐性機序、および疫学的関連性を明らかにすることを目的とした。確定症例は、2023年3月から2025年4月の間に、病院Aまたは病院Bの臨床検体またはスクリーニング検体から分離されたLRSE陽性患者（MIC > 4 mg/L）と定義した。すべての分離株に対し、型別判定および耐性決定因子の同定を目的とした全ゲノムシーケンシング（WGS）を実施した。検出された病院および病棟、ならびに病院間の転院を含む疫学的データを解析し、症例間の潜在的な疫学的関連性を検討した。計53例のLRSE症例が同定され、そのうち22例が病院A、31例が病院Bであった。また、海外渡航後に病院Bに入院した患者に由来し、LRSE症例との疫学的関連性が認められないLZD耐性ヒトブドウ球菌（Staphylococcus hominis）分離株も回収された。疫学的およびゲノムデータにより、3つの配列型（ST2、ST5、ST22）に属する5つのクラスターが同定された。クラスター1の症例の多くは病院B、特に外科ICUで検出された一方、クラスター2～4は病院Aのみで同定された。しかし、利用可能な疫学的情報は、伝播方向の特定やクラスターの起源の同定には不十分であった。53例のLRSE分離株のうち45例が高レベルのLZD耐性（MIC ≥ 48 mg/L）を示した。各STにおいて、ST2分離株のG2576U、ST22分離株のC2534UおよびU2504A、ならびにリボソームタンパク質L3およびL4の特徴的な変異など、それぞれ異なる耐性関連変異が同定された。ゲノム解析により、3つのSTに属する5つの異なるLRSEクラスターが同定され、ST特異的な耐性変異が明らかになったことから、LZD耐性に至る複数の独立した進化経路が示唆された。しかし、LZD投与や患者の移動に関する不完全なデータを含む疫学的情報が限られていたため、伝播動態の確定的な評価はできなかった。本研究の知見は、LRSEクラスターの検出および特性解析におけるWGSの有用性を示すとともに、ゲノム関連性を解釈する上での包括的な疫学的データの重要性を強調するものである。",
-    "discovery": []
+    "title_ja": "ゲノム疫学により、オーストリアで2023～2025年に分離されたリネゾリド耐性<i>Staphylococcus epidermidis</i>の同時多発的なクラスターが解明された。",
+    "abstract_ja": "はじめにStaphylococcus epidermidisは、血流感染症およびデバイス関連感染症を引き起こす日和見病原体である。多剤耐性グラム陽性菌による感染症に対してリネゾリド（LZD）が使用されているため、LZD耐性S. epidermidis（LRSE）の出現が懸念が高まっている。本研究では、オーストリアの2つの病院でアウトブレイクが疑われた際に採取されたLRSE分離株におけるゲノムクラスター、耐性機序、および疫学的関連性を明らかにすることを目的とした。方法確定症例は、2023年3月から2025年4月の間に病院Aまたは病院Bの臨床検体またはスクリーニング検体から分離されたLRSE陽性患者（MIC > 4 mg/L）と定義した。すべての分離株に対し、型別判定および耐性決定因子の同定を目的とした全ゲノムシーケンシング（WGS）を実施した。検出された病院および病棟、ならびに病院間転院を含む疫学データを解析し、症例間の潜在的な疫学的関連性を検討した。結果計53例のLRSE症例が同定され、そのうち22例が病院A、31例が病院Bであった。また、海外渡航後に病院Bに入院した患者に由来し、LRSE症例との疫学的関連性が認められないLZD耐性Staphylococcus hominis分離株も回収された。疫学的およびゲノムデータにより、3つの配列型（ST2、ST5、ST22）に属する5つのクラスターが同定された。クラスター1の症例の多くは病院B、特に外科ICUで検出された一方、クラスター2～4は病院Aのみで同定された。しかし、利用可能な疫学的情報は、伝播方向の特定やクラスターの起源の同定には不十分であった。53例のLRSE分離株のうち45例が高レベルのLZD耐性（MIC ≥ 48 mg/L）を示した。各STにおいて、ST2分離株のG2576U、ST22分離株のC2534UおよびU2504A、ならびにリボソームタンパク質L3およびL4の特徴的な変異など、それぞれ異なる耐性関連変異が同定された。結論ゲノム解析により、3つのSTに属する5つの異なるLRSEクラスターが同定され、ST特異的な耐性変異が明らかになった。これは、LZD耐性に至る複数の独立した進化経路が存在することを示唆している。しかし、LZD投与や患者の移動に関する不完全なデータを含む疫学的情報の不足により、伝播動態の確定的な評価は困難であった。本研究の知見は、LRSEクラスターの検出および特性解析におけるWGSの有用性を示すとともに、ゲノム関連性を解釈する上での包括的な疫学データの重要性を強調するものである。"
   },
   {
     "id": "10.1371/journal.pone.0360735",
@@ -176113,5 +176126,238 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "シロイヌナズナ根におけるCa<sup>2+</sup>シグネチャゲートの外因性オーキシンに対する応答性。",
     "abstract_ja": "植物は、特にストレス下において、成長と停止のバランスを絶えず維持しなければならない。オーキシンシグナル伝達はこの過程における中心的な調節ハブとして機能するが、オーキシンシグナル伝達をリアルタイムで動的に調整するメカニズムは依然として不明である。本研究では、光依存性かつCa2+透過性のチャネルロドプシン2変異体XXM2.0を用い、シロイヌナズナの根細胞に特定のCa2+シグネチャーを光遺伝的に付与した。反復的な光活性化は細胞質Ca2+シグナルを誘発し、それがひいては膜脱分極および外因性オーキシンによって誘発されるCa2+一過性応答を抑制する。さらに、持続的な光遺伝的Ca2+刺激は、オーキシン応答性の転写リプログラミングに影響を及ぼす。表現型の結果として、細胞分裂と伸長の抑制による根成長の可逆的な阻害が観察される。我々はさらに、外因性オーキシンに対する応答性のCa2+依存的なゲート制御、およびCa2+依存的な根成長阻害を媒介すると考えられるCaM7-CNGC14モジュールの候補を同定した。以上の研究により、本研究は植物細胞におけるカルシウム-オーキシン間のクロストークを解析するための合成生物学的アプローチを導入し、光遺伝的に付与された細胞質Ca2+シグナルが根におけるオーキシン感受性の動的調節因子として機能することを実証した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01607-26",
+    "title": "Core bacterial and host fruit-specific yeast microbiota in a polyphagous fly pest.",
+    "abstract": "Holometabolous polyphagous insects undergo metamorphosis and exploit multiple host plants, exposing them to highly variable ecological conditions across both life stages and host plants. Whether these insects harbor a stable core microbiota, a life stage- or a host plant-specific microbiota remains open questions. Here, we characterized fungal and bacterial communities associated with Drosophila suzukii across life stages (larvae, pupae, and emerging flies) and host fruits (cherry, blackberry, and strawberry) using 16S and ITS metabarcoding. We tested the relative influence of life stage and host fruit on microbiota composition using community and network-based analyses. First, we identified that yeasts, but not bacteria, were strongly structured among host fruits. Bacteria and filamentous fungi were shared across fruits, constituting a fruit core microbiota dominated by Gluconobacter cerinus, Tatumella sp., and Cladosporium spp. In contrast, yeast were rather fruit-specific: the genera Hanseniaspora and Pichia were mostly associated with cherries and strawberries, contrary to Metschnikowia with blackberries. Second, we found that fungal, but not bacterial, communities of D. suzukii were structured among host fruits. D. suzukii harbored a core bacterial microbiota composed of G. cerinus and a niche-specific (host plant-specific) microbiota composed of yeasts: Hanseniaspora was typical in individuals related to cherry and strawberry, whereas Metschnikowia to blackberry. We also verified that individuals from artificial laboratory infestations and natural field infestations harbored similar microbial communities when they developed under the same laboratory conditions. Components of both core and niche-specific microbiota were most likely horizontally acquired by D. suzukii from host fruits. Taken together, our results underline the importance of metacommunity approaches to investigate tripartite interactions among insects, host plants, and microbiota.IMPORTANCEThe role of microbiota in mediating interactions between phytophagous insects and their host plants has been well illustrated in specialist species. However, it has been less comprehensively studied in polyphagous species, which infest multiple host plants, and across life stages in holometabolous species that experience separate ecological niches through development. We tested the existence of a core, a niche-specific, and a stage-specific microbiota in a polyphagous holometabolous species, D. suzukii. We examined both fungal and bacterial communities in larvae, pupae, and emerging flies infesting three host fruits. Our results showed, first, that the assembly of bacteria, filamentous fungi, and yeasts on fruits is driven by different ecological processes. Second, D. suzukii harbors a core bacterial microbiota, a niche-specific microbiota constituted by yeasts and no stage-specific microbiota. Our study emphasizes the importance of considering jointly the assembly of host plant and polyphagous insect microbial communities to better understand insect-microbe interactions.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01607-26",
+    "date": "2026-10-22",
+    "authors": "Dunis S, Lapègue M, Deschamps C, Cesari L, Loiseau A, Facon B, Rode NO.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42911031",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42911031",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbe",
+        "microbial",
+        "microbiota",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 210,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1128/spectrum.01607-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e11e0137d748cdb6775e9d8a56cd8563d0f84d3259e4cc637c67e5e60ff10c79",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:40:00.393553+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "385e8bbc318eb70554218ceb89e1f7f0dee1cf8179fb784f7d135541335daf3e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:40:00.393553+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多食性ハエ害虫におけるコア細菌叢および宿主果実特異的酵母微生物叢",
+    "abstract_ja": "完全変態性の広食性昆虫は変態を行い、複数の宿主植物を利用するため、生活史の各段階および宿主植物にわたって、極めて変動の激しい生態学的条件にさらされる。これらの昆虫が安定したコア微生物叢を保持しているのか、あるいは生活史段階や宿主植物に特異的な微生物叢を保持しているのかについては、依然として未解明である。本研究では、16SおよびITSメタバーコーディングを用いて、Drosophila suzukiiに関連する真菌および細菌群集を、生活史段階（幼虫、蛹、羽化個体）および宿主果実（サクランボ、ブラックベリー、イチゴ）にわたって特性評価した。また、群集解析およびネットワーク解析を用いて、生活史段階および宿主果実が微生物叢組成に及ぼす相対的な影響を検証した。まず、宿主果実間において、細菌ではなく酵母が強く構造化されていることを同定した。細菌および糸状菌は果実間で共通しており、Gluconobacter cerinus、Tatumella sp.、およびCladosporium spp.が優占する果実コア微生物叢を構成していた。対照的に、酵母はむしろ果実特異的であり、Metschnikowiaがブラックベリーに関連していたのに対し、Hanseniaspora属およびPichia属は主にサクランボおよびイチゴに関連していた。次に、D. suzukiiの真菌群集は細菌群集とは異なり、宿主果実間で構造化されていることを見出した。D. suzukiiは、G. cerinusからなるコア細菌微生物叢と、酵母からなるニッチ特異的（宿主植物特異的）微生物叢を保持していた。Hanseniasporaはサクランボおよびイチゴに関連する個体に典型的であった一方、Metschnikowiaはブラックベリーに関連していた。また、人工的な実験室寄生個体および自然の野外寄生個体を同一の実験室条件下で発育させたところ、同様の微生物群集を保持していることが確認された。コア微生物叢およびニッチ特異的微生物叢の双方の構成要素は、D. suzukiiが宿主果実から水平伝播によって獲得したものである可能性が高い。以上の結果を総合すると、昆虫、宿主植物、および微生物叢の間の三者間相互作用を調査する上で、メタコミュニティアプローチが重要であることが強調される。重要性 植食性昆虫とその宿主植物との相互作用を媒介する微生物叢の役割は、特化種において十分に解明されてきた。しかし、複数の宿主植物に寄生する広食性種や、発育過程を通じて個別の生態的ニッチを経験する完全変態性種の生活史段階にわたる研究は、それほど包括的に行われてこなかった。我々は、広食性の完全変態性種であるD. suzukiiにおいて、コア微生物叢、ニッチ特異的微生物叢、および生活史段階特異的微生物叢の存在を検証した。3種類の宿主果実に寄生した幼虫、蛹、および羽化個体における真菌および細菌群集の双方を調査した。その結果、第一に、果実上の細菌、糸状菌、および酵母の集合は、それぞれ異なる生態学的プロセスによって駆動されていることが示された。第二に、D. suzukiiはコア細菌微生物叢、酵母からなるニッチ特異的微生物叢を保持しており、生活史段階特異的な微生物叢は保持していなかった。本研究は、昆虫と微生物の相互作用をより深く理解するために、宿主植物と広食性昆虫の微生物群集の集合を併せて検討することの重要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41586-026-10438-2",
+    "title": "Tandem repeat variation shapes immune cell type-specific gene expression.",
+    "abstract": "Tandem repeats (TRs)-highly polymorphic, repetitive sequences across the human genome-are important regulators of gene expression but remain underexplored due to challenges in accurate genotyping and analysis1. Here we generate whole-genome and single-cell RNA sequencing from more than 5.4 million blood-derived cells across 1,925 individuals in two cohorts2, and perform meta-analysis to characterize the impact of variation in more than 1.7 million TR loci on immune cell type-specific gene expression. We identify more than 69,000 single-cell expression quantitative trait loci, 30.7% of which are specific to 1 of 28 immune cell types, and reveal dynamic regulatory effects using cell-state inference. Matched single-cell assay for transposase-accessible chromatin with high-throughput sequencing profiles from more than 3.4 million nuclei in 922 individuals3 uncover chromatin accessibility quantitative trait loci for nearly one-third of expression-associated TRs, supporting coordinated effects on cis-regulatory architecture. Fine-mapping implicates 1,490 TRs as candidate causal drivers of gene expression in 6.1% of tested genes, and colocalization analyses highlight more than 200 genes in which TRs likely mediate genetic associations with immune and haematological traits. Together, these results provide a genome-wide, multiomic view of TR-mediated regulation in the human immune system, establishing TRs as key contributors to cell type-specific regulatory variation and complex trait architecture.",
+    "journal": "Nature",
+    "doi": "10.1038/s41586-026-10438-2",
+    "date": "2026-10-28",
+    "authors": "Tanudisastro HA, Cuomo ASE, Weisburd B, Welland M, Spenceley E, Franklin M, Xue A, Huang HL, Bowen B, Fan J, Dong OA, Henry A, Allen PC, Wing K, Tang O, Gray M, Reis ALM, Margoliash J, Kurtas NE, Pullin JM, Lee AS, Brand H, Harper M, Bobowik K, Silk M, Miniter A, Marshall J, Bakiris V, Madala BS, Uren C, Bartie C, McCloy RA, Senabouth A, Dashnow H, Fearnley L, Martin-Trujillo A, Dolzhenko E, Qiao Z, Grieve SM, Nguyen T, Ben-David E, Chen L, Farh KK, Talkowski ME, Alexander SI, Siggs OM, Gruenschloss L, Nicholas HR, Piscionere J, Simons C, Wallace C, Gymrek M, Deveson IW, Hewitt AW, Figtree GA, de Lange KM, Powell JE, MacArthur DG.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951975",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42951975",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2470,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41586-026-10438-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9767aa1c61c18811546528054255c76a0cc8a66f511d748ad9ee290f9e0d4a9d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:40:00.393553+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e253e81addc1a9195396f769b861daa6cbfffbd1876fb7ecfe6794f7f4d9af81",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:40:00.393553+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンデムリピートの変異は、免疫細胞種特異的な遺伝子発現を変化させる。",
+    "abstract_ja": "タンデムリピート（TR）――ヒトゲノム全体にわたる高度に多型的な反復配列――は、遺伝子発現の重要な調節因子であるが、正確なジェノタイピングと解析における課題により、依然として十分に解明されていない1。本研究では、2つのコホートに属する1,925名、540万個以上の血液由来細胞から全ゲノムおよびシングルセルRNAシーケンシングを行い、メタ解析を実施することで、170万個以上のTR遺伝子座における変異が免疫細胞種特異的な遺伝子発現に及ぼす影響を特性評価した。その結果、69,000個以上のシングルセル発現量的形質遺伝子座を同定し、そのうち30.7%が28種類の免疫細胞種のうち1種類に特異的であることを明らかにするとともに、細胞状態推論を用いて動的な調節効果を明らかにした。922名、340万個以上の核から得られたハイスループットシーケンシングプロファイルを用いたトランスポザーゼアクセス可能クロマチンのマッチドシングルセルアッセイ3により、発現関連TRのほぼ3分の1においてクロマチンアクセシビリティ量的形質遺伝子座が同定され、シス調節構造に対する協調的な影響が裏付けられた。ファインマッピングにより、解析対象遺伝子の6.1%において1,490個のTRが遺伝子発現の候補的な因果的駆動因子として関与していることが示され、共局在解析では、TRが免疫および血液学的形質との遺伝的関連を媒介している可能性が高い200個以上の遺伝子が浮き彫りとなった。以上の結果を総合すると、ヒト免疫系におけるTR媒介性調節のゲノムワイドかつマルチオミクス的な視点が得られ、TRが細胞種特異的な調節変異および複雑な形質構造の主要な寄与因子であることが確立された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research support, non-u.s. gov't",
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1038/s41467-026-78467-z",
+    "title": "Strand- and replication timing-dependent functions of DNA polymerase η in human DNA replication.",
+    "abstract": "Efficient DNA replication requires coordinated use of replicative and error-prone polymerases, which provide flexibility at the cost of mutagenesis. DNA polymerase η (Pol η) tolerates UV-induced lesions via translesion synthesis (TLS), but may contribute more broadly to DNA synthesis. Using polymerase usage sequencing (Pu-seq), we map Pol η activity genome-wide during unperturbed replication in human cells. Pol η preferentially participates in lagging strand replication, as in budding yeast. This bias requires direct PCNA interaction, suggesting stochastic engagement of PCNA-bound intermediates at replication forks. Pol η usage also varies across S phase, with PCNA ubiquitylation-dependent enrichment in late-replicating domains. In cancer genomes, characteristic Pol η mutations are enriched in late-replicating regions and correlate with RAD18 expression, linking PCNA ubiquitylation to Pol η-mediated mutagenesis. Thus, Pol η usage is biased by strand and replication timing during unperturbed replication and may contribute to mutational burden in human genomes.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-78467-z",
+    "date": "2026-10-28",
+    "authors": "Bainbridge LJ, Masuda Y, Minamisawa T, Takahashi M, Kaneko K, Masutani C, Daigaku Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42951897",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13716900",
+    "pmid": "42951897",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1748,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1038/s41467-026-78467-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ce04ed9c1788a654cfb209baf019a25d8b1539d9468ec368dbc855a9c9fd61e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:40:00.393553+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5ed52c060ca59afdae0412661d10b2135b31c677ffedad8a2a3a59e8b09d3d5b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T01:40:00.393553+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトDNA複製におけるDNAポリメラーゼηのストランドおよび複製タイミング依存的機能。",
+    "abstract_ja": "効率的なDNA複製には、複製酵素とエラーを起こしやすいポリメラーゼの協調的な利用が必要であり、これにより突然変異誘発を代償として柔軟性が確保される。DNAポリメラーゼη（Pol η）は、トランスレジョン合成（TLS）を介してUV誘発性損傷に耐えるが、より広範にDNA合成に寄与している可能性がある。ポリメラーゼ利用シーケンシング（Pu-seq）を用いて、ヒト細胞における非撹乱複製時のPol η活性をゲノム全域にわたってマッピングした。Pol ηは、出芽酵母と同様に、ラギング鎖の複製に優先的に関与する。この偏りには直接的なPCNAとの相互作用が必要であり、複製フォークにおけるPCNA結合型中間体の確率的な関与が示唆される。また、Pol ηの利用はS期を通じて変動し、後期複製ドメインにおいてPCNAユビキチン化依存的な濃縮が認められる。がんゲノムでは、特徴的なPol η変異が後期複製領域に濃縮されており、RAD18発現と相関していることから、PCNAユビキチン化がPol η介在性の突然変異誘発に関連していることが示唆される。したがって、Pol ηの利用は非撹乱複製時の鎖および複製タイミングによって偏り、ヒトゲノムにおける変異負荷に寄与している可能性がある。"
   }
 ]
