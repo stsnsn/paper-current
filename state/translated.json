@@ -181298,5 +181298,297 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "シアノバクテリアにおいて、特徴的なコアマイナーピリン複合体が特殊化したタイプIVフィラメントをプライミングする。",
     "abstract_ja": "モデルシアノバクテリアであるSynechocystis sp. PCC 6803は、タイプIVピルスフィラメントの主要なピリンに加え、広範かつ部分的に未解明なマイナーピリンのレパートリーをコードしている。特性解析済みのシアノバクテリア・マイナーピリンの役割は、驚くほど多様な機能にわたっている。未解明のマイナーピリンの役割を体系的に解明するため、我々は90のゲノムにわたって構造ゲノミクスを適用し、シアノバクテリアのピリンを、2つの異なる推定コアプライミング複合体を形成する6つの保存ファミリーに分類した。我々は、これらの複合体が、形態的に異なる2種類のタイプIVピルスフィラメント、すなわち自然コンピテンスのための短く超動的なピリンと、運動性および走光性のための長く接着性のピリンの組み立てを開始することを実証した。構造解析により、PilXサブユニットに保存されたβ-ソレノイドドメインが明らかになり、これがPilY1ホモログのキャッピング機能を担っていることを提唱する。プロテオームデータは、マイナーピリンPilX2が運動性ピリンの組み立てを促進することを示しており、これはDnaJ3コシャペロンレベルの維持およびcAMP依存的な表面センシングの誘発に必要である。これらの知見は、単一の多目的ピルスという概念に疑問を投げかけるものであり、シアノバクテリアが共通の機構を利用して2つの特化したフィラメントを組み立て、それぞれを異なるコアマイナーピリン複合体によってプライミングすることで、DNA取り込みと表面運動性という相反する生物物理学的要求を満たしていることを明らかにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1968333",
+    "title": "A cyclic swarming assay produces genetically and phenotypically distinctive variants of <i>Enterobacter</i> sp. SM3.",
+    "abstract": "IntroductionSwarming motility, the collective migration of bacteria across semi-solid surfaces, is often associated with cell elongation and increased flagella number or strength. Enterobacter sp. SM3 is a strain originally isolated from murine gut and previously shown to mitigate colitis in mice.MethodsTo investigate phenotypic and genomic correlates of enhanced surface motility, we derived hyper-swarming variants of SM3 through serial passage from a single clonal isolate, generating five independent lineages collectively termed \"Swarmium.\"ResultsOptical microscopy revealed that Swarmium populations contained cells that were two to three times longer than the parental strain. Motility analysis showed similar swimming speed and tumble duration, but longer run times and reduced tumble angles. Whole-genome sequencing (mean coverage 634×; range 571-845×) identified population-level sequence variants affecting loci annotated for functions including flagellar regulation (rcsB), cell division (ftsL), translation machinery (ribosomal RNA operons and EF-Tu), and Type VI secretion-associated loci (including PAAR-adjacent regions and DUF6531-containing proteins).DiscussionThese findings identify candidate genes associated with the hyper-swarming phenotype, although their functional significance remains unclear. This study identifies genetic changes in populations selected based on swarm expansion rate and provides useful leads for future functional and mechanistic investigations of bacterial swarm motility.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1968333",
+    "date": "2026-10-28",
+    "authors": "Kim DDH, Pagano FS, Costa SK, Germann DA, Belenky P, Tang JX.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43017261",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43017261",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4322,
+    "collected_at": "2026-11-13T07:56:57.456049+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1968333"
+    ],
+    "translation": {
+      "title": {
+        "hash": "56ce5cca0655edc6ddf99487ff8b554bf73d574c1aca4a45f97fd9f483d3dc17",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:55:43.610134+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f233780dadf1df7ec5dd111bdf2478dc43773b4ca2d3c74214a6b2673397b779",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:55:43.610134+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "環状スウォーミングアッセイにより、遺伝的および表現型的に特徴的な<i>Enterobacter</i> sp. SM3の変異株が得られる。",
+    "abstract_ja": "はじめに半固形状表面における細菌の集団的な移動であるスウォーミング運動は、しばしば細胞の伸長や、鞭毛数または強度の増加を伴う。Enterobacter sp. SM3は、もともとマウスの腸管から単離され、マウスの大腸炎を軽減することが示されている菌株である。方法表面運動の亢進に関連する表現型およびゲノム上の相関因子を調べるため、単一のクローン分離株から連続継代によりSM3の超スウォーミング変異株を誘導し、「Swarmium」と総称される5つの独立した系統を作製した。結果光学顕微鏡観察により、Swarmium集団には親株よりも2〜3倍長い細胞が含まれていることが明らかになった。運動能解析では、遊泳速度とタンブル持続時間は同程度であったが、走行時間は長く、タンブル角度は小さくなっていた。全ゲノムシーケンシング（平均カバレッジ 634×、範囲 571-845×）により、鞭毛調節（rcsB）、細胞分裂（ftsL）、翻訳機構（リボソームRNAオペロンおよびEF-Tu）、およびタイプVI分泌関連遺伝子座（PAAR隣接領域およびDUF6531含有タンパク質を含む）などの機能としてアノテーションされた遺伝子座に影響を与える集団レベルの配列変異が同定された。考察これらの知見は、超スウォーミング表現型に関連する候補遺伝子を特定するものであるが、その機能的意義は依然として不明である。本研究は、スウォーム拡大速度に基づいて選抜された集団における遺伝的変化を明らかにし、細菌のスウォーミング運動に関する今後の機能的・機序的研究に有用な手がかりを提供するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1155",
+    "title": "Bipartite DNA-binding domain of transcription factor BCL11B binds clustered short DNA sequence motifs",
+    "abstract": "AbstractB-cell leukemia/lymphoma 11B (BCL11B), despite its name, is a key regulator of T-cell development, lineage specification, and T-cell malignancies. BCL11B contains a bipartite DNA-binding domain composed of two C2H2 zinc finger arrays: low-affinity ZF2-3 and high-affinity ZF4-6. These arrays recognize similar six-nucleotide motifs, TG(n)CC(n), as seven of the eight DNA base-contacting residues are conserved between them. The most conserved interactions involve the central GG dinucleotides, recognized by arginine and lysine residues at the key base-interacting positions of ZF3 and ZF5. We determined eight crystal structures of ZF2-3 bound to 12- or 20-base pair DNA duplexes containing either one or two binding motifs. The structures reveal that ZF2-3 recognizes DNA with remarkable configurational flexibility, binding motifs on either the same or opposite DNA strands with variable spacing in three relative orientations: head-to-tail (or tail-to-head), head-to-head, and tail-to-tail. Analysis of BCL11B ChIP-seq peaks revealed a strong enrichment of 1-bp-spaced, same-orientation TGACC(c/t) motif pairs. We also examined six neurodevelopmental disorder-associated missense variants affecting DNA base-contacting residues. Substitutions that replace bulky, positively charged arginine or lysine with smaller or hydrophobic amino acids weaken DNA-binding affinity and specificity, whereas substitutions between asparagine and lysine alter base recognition preferences.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1155",
+    "date": "2026-11-11",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1155/9029963?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 3297,
+    "collected_at": "2026-11-11T11:05:56.711241+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1155"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3f90539ceba5f267cdcadc6378a1cffbb3430e2d98b15b457590fb9456c8c383",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:55:43.610134+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4ea2fa66c005599be91d6bf5089eaa212e2f212fd6fd806ccfcb7cb86972fda6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:55:43.610134+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "転写因子BCL11Bの二部構成DNA結合ドメインは、クラスター化した短鎖DNA配列モチーフに結合する。",
+    "abstract_ja": "要旨B細胞白血病/リンパ腫11B（BCL11B）は、その名称に反して、T細胞の分化、系譜決定、およびT細胞悪性腫瘍の主要な調節因子である。BCL11Bは、低親和性ZF2-3と高親和性ZF4-6という2つのC2H2ジンクフィンガーアレイからなる二部構成のDNA結合ドメインを有している。これらのアレイは、8つのDNA塩基接触残基のうち7つが共通して保存されているため、類似した6塩基モチーフであるTG(n)CC(n)を認識する。最も保存された相互作用は中央のGGジヌクレオチドに関与しており、ZF3およびZF5の主要な塩基相互作用部位にあるアルギニンおよびリシン残基によって認識される。我々は、1つまたは2つの結合モチーフを含む12または20塩基対のDNA二本鎖に結合したZF2-3の8つの結晶構造を決定した。これらの構造から、ZF2-3が極めて高い立体構造的柔軟性をもってDNAを認識し、同一または対向するDNA鎖上の結合モチーフに、ヘッド・トゥ・テール（またはテール・トゥ・ヘッド）、ヘッド・トゥ・ヘッド、およびテール・トゥ・テールという3つの相対的配向において可変的な間隔で結合することが明らかになった。BCL11BのChIP-seqピークを解析した結果、1塩基間隔で同一配向のTGACC(c/t)モチーフペアが強く濃縮されていることが判明した。また、DNA塩基接触残基に影響を与える、神経発達障害に関連する6つのミスセンス変異についても検討した。嵩高く正電荷を持つアルギニンまたはリシンを、より小さいアミノ酸や疎水性アミノ酸に置換すると、DNA結合親和性と特異性が低下する一方、アスパラギンとリシンの間の置換は塩基認識の選好性を変化させる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pcbi.1014897",
+    "title": "Cd47 deficiency in mouse brain under excitotoxic stress.",
+    "abstract": "CD47, a transmembrane protein with well-established immune and neurodevelopmental roles, was recently identified as an abundant presynaptic protein in humans, non-human primates, and mice. To investigate how Cd47 influences neuronal stress and injury, we performed single-nucleus RNA sequencing of hippocampi from wild-type (WT) and Cd47 knockout (KO) mice exposed to kainic acid (KA) at convulsive (KA25; 25 mg/kg) or subconvulsive (KA3; 3 mg/kg) doses. Integrating cell-type annotations with Weighted Gene Co-expression Network Analysis (WGCNA) revealed distinct neuronal and glial gene modules whose co-expression structure differed by genotype and by KA exposure. Notably, certain modules showed KA-associated changes in co-expression structure only in Cd47-deficient cells. Enrichment analyses of these modules highlighted translational, bioenergetic, and synaptic gene sets. Comparing transcriptome-wide distributions using Wasserstein distance demonstrated that vehicle-treated KO cells most closely resembled WT cells exposed to KA3, of all fifteen pairwise comparisons. These findings suggest that Cd47 loss shifts the hippocampal transcriptome toward a state resembling mild excitotoxic stress, implicating Cd47 as a candidate regulator of neuronal stress adaptation and providing a hypothesis for testing that role.",
+    "journal": "PLOS Computational Biology",
+    "doi": "10.1371/journal.pcbi.1014897",
+    "date": "2026-10-29",
+    "authors": "Kiamari M, Perna A, Santoro M, El Ariss A, Berson E, Zhao J, Gajera CR, Fox EJ, Montine KS, Aghaeepour N, Montine TJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956090",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13734605",
+    "pmid": "42956090",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2427,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1371/journal.pcbi.1014897"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ffa6559918c61f6d6d41ebfd7e9cfe548176670356d81b183254c331dd11e55f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:55:43.610134+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0b94e69acb162f63e528685291a4995301343566fa73561c5759dd7233ccda6a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:55:43.610134+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "興奮毒性ストレス下におけるマウス脳のCd47欠乏症。",
+    "abstract_ja": "免疫および神経発達における役割が十分に確立されている膜貫通タンパク質CD47は、近年、ヒト、非ヒト霊長類、およびマウスにおいて豊富に存在するシナプス前タンパク質として同定された。Cd47が神経細胞のストレスや損傷にどのように影響するかを調査するため、痙攣性（KA25; 25 mg/kg）または亜痙攣性（KA3; 3 mg/kg）用量のカイニン酸（KA）に曝露させた野生型（WT）およびCd47ノックアウト（KO）マウスの海馬において、単一核RNAシーケンシングを実施した。細胞型アノテーションと重み付き遺伝子共発現ネットワーク解析（WGCNA）を統合した結果、遺伝子型およびKA曝露によって共発現構造が異なる、明確な神経細胞およびグリア細胞の遺伝子モジュールが明らかになった。特筆すべきことに、特定のモジュールでは、Cd47欠損細胞においてのみKAに関連した共発現構造の変化が認められた。これらのモジュールのエンリッチメント解析により、翻訳、生体エネルギー、およびシナプスの遺伝子セットが浮き彫りになった。ワッサースタイン距離を用いてトランスクリプトーム全体の分布を比較したところ、15組のペアワイズ比較すべてにおいて、溶媒処理を施したKO細胞がKA3に曝露したWT細胞に最も類似していることが示された。これらの知見は、Cd47の喪失が海馬のトランスクリプトームを軽度の興奮毒性ストレスに似た状態へとシフトさせることを示唆しており、Cd47が神経細胞のストレス適応の候補調節因子であることを示し、その役割を検証するための仮説を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0355142",
+    "title": "CRISPR/Cas9-mediated PD-L1 knockout reshapes temporal transcriptomic responses to PRRSV infection in porcine alveolar macrophages.",
+    "abstract": "Porcine reproductive and respiratory syndrome virus (PRRSV) suppresses innate antiviral immunity in porcine alveolar macrophages, and the PD-1/PD-L1 axis is thought to contribute to this immune dysregulation. This study investigated how PD-L1 knockout (KO) alters the host transcriptional response to PRRSV infection compared to wild-type (WT) immortalized porcine alveolar macrophages (iPAMs). PD-L1 KO iPAMs were generated by CRISPR/Cas9 targeting exon 2 of porcine CD274 locus, and knockout was confirmed in clone #35. After PRRSV-2 infection, KO#35 cells exhibited approximately 5-fold reduced viral RNA accumulation at 48 h post-infection compared with WT cells. Time-course RNA sequencing at 0, 6, and 48 h post-infection was then performed to characterize the transcriptional consequences of PD-L1 KO during acute PRRSV-2 infection. PD-L1 KO iPAMs exhibited downregulation of immune checkpoint and exhaustion-related genes (LAG3, PDCD1, TIGIT, TOX family) and NF-κB inhibitors (SOCS4, NFKBIA), alongside upregulation of antigen presentation (MHC I/II genes like SLA-2, SLA-5, B2M, SLA-DMA, SLA-DMB, HLA-DRA) and co-stimulatory molecules (CD80, CD86, CD40). Cytokine profiling indicated a reprogrammed response favoring antiviral signaling, including sustained elevation of CXCL10/11, ISGs (MX1/2, ISG15, IFIT1-3), and select interleukins (IL15, IL6), while suppressing pro-inflammatory TNF and CXCL8 across time points. Pathway enrichment analysis revealed significant enrichment of the cytokine-receptor interaction pathway. Weighted gene co-expression network analysis (WGCNA) further identified a key co-expression module containing 1,763 DEGs that was associated with innate immune activation. Moreover, protein-protein interaction (PPI) network analysis detected PXDN as a key hub gene connected to the PI3K-Akt signaling and natural killer cytotoxicity pathways. These findings provide transcriptomic insight into the association between PD-L1 deficiency and altered macrophage transcriptional responses to PRRSV infection in an in-vitro iPAM model and provide a basis for future mechanistic investigation of PD-L1 in PRRSV pathogenesis.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0355142",
+    "date": "2026-11-10",
+    "authors": "Sheet S, Kim HJ, Kim WI, Kim S, Lee P, Cho A, Kim D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43008001",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43008001",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2071,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1371/journal.pone.0355142"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b51c28a268b1782a50488ec1a453f7c0f6bbfa122ed710df3b6573c276a9ea15",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:55:43.610134+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "554bd184b5451a44f7835ff388122c75b61671106fdfacc4be463950e5a62331",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T08:55:43.610134+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CRISPR/Cas9介在性PD-L1ノックアウトは、ブタ肺胞マクロファージにおけるPRRSV感染に対する時間応答性トランスクリプトーム応答を変化させる。",
+    "abstract_ja": "豚生殖呼吸器症候群ウイルス（PRRSV）は、豚肺胞マクロファージにおける自然抗ウイルス免疫を抑制しており、PD-1/PD-L1軸がこの免疫調節不全に寄与していると考えられている。本研究では、野生型（WT）不死化豚肺胞マクロファージ（iPAMs）と比較して、PD-L1ノックアウト（KO）がPRRSV感染に対する宿主の転写応答をどのように変化させるかを検討した。PD-L1 KO iPAMsは、CRISPR/Cas9を用いて豚CD274遺伝子座のエクソン2を標的として作製し、クローン#35においてノックアウトが確認された。PRRSV-2感染後、KO#35細胞では、感染後48時間時点でWT細胞と比較してウイルスRNAの蓄積が約5分の1に減少した。次いで、急性PRRSV-2感染時におけるPD-L1 KOの転写上の影響を明らかにするため、感染後0、6、および48時間の時点で経時的なRNAシーケンシングを実施した。PD-L1 KO iPAMsでは、免疫チェックポイントおよび疲弊関連遺伝子（LAG3、PDCD1、TIGIT、TOXファミリー）ならびにNF-κB阻害因子（SOCS4、NFKBIA）の発現低下が認められた一方で、抗原提示（SLA-2、SLA-5、B2M、SLA-DMA、SLA-DMB、HLA-DRAなどのMHC I/II遺伝子）および共刺激分子（CD80、CD86、CD40）の発現上昇が認められた。サイトカインプロファイリングの結果、CXCL10/11、ISGs（MX1/2、ISG15、IFIT1-3）、および特定のインターロイキン（IL15、IL6）の持続的な上昇を含む、抗ウイルスシグナル伝達に有利なリプログラミングされた応答が示されるとともに、各時点において炎症性のTNFおよびCXCL8が抑制されていた。パスウェイエンリッチメント解析により、サイトカイン-受容体相互作用パスウェイの有意な濃縮が明らかになった。重み付き遺伝子共発現ネットワーク解析（WGCNA）では、自然免疫活性化に関連する1,763個のDEGを含む主要な共発現モジュールがさらに同定された。さらに、タンパク質間相互作用（PPI）ネットワーク解析により、PI3K-Aktシグナル伝達およびナチュラルキラー細胞の細胞傷害性パスウェイに関連する主要なハブ遺伝子としてPXDNが検出された。これらの知見は、in vitro iPAMモデルにおいて、PD-L1欠損とPRRSV感染に対するマクロファージの転写応答の変化との関連性に関するトランスクリプトームレベルの知見を提供するとともに、PRRSVの病態形成におけるPD-L1の今後の機序的研究の基礎となるものである。"
   }
 ]
