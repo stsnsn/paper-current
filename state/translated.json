@@ -186803,5 +186803,318 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "統合的な単一細胞エピゲノムアトラスが、成体マウス脳の調節ゲノムをアノテーションしている。",
     "abstract_ja": "ヒストン修飾は、哺乳類の脳における驚異的な細胞多様性を駆動する細胞種特異的な遺伝子調節プログラムの基盤となっている。本研究では、成体マウス脳の250万個の核において、4種類のヒストン修飾とトランスクリプトームを共同でプロファイリングした。これらのデータをクロマチンアクセシビリティ、DNAメチル化、および3次元ゲノム構造と統合することで、100を超える脳細胞サブクラスを網羅する統一的なエピゲノムアトラスを構築し、ゲノムの81%にわたって活性型、プライミング型、および抑制型のクロマチン状態を割り当てた。組み合わせ型ヒストン修飾によって標識された活性型クロマチン状態は、クロマチンアクセシビリティ単独よりも機能的根拠を伴うエンハンサー候補をより適切に特定し、一方でH3K27me3およびH3K9me3で標識されたクロマチン状態は、細胞種特異的な遺伝子抑制の異なる様式を画定する。最後に、このマルチモーダルリソースにより、DNA配列から細胞種特異的なエピゲノム特徴および遺伝子発現を予測する深層学習モデルの開発が可能となり、脳調節ゲノムのアノテーションおよび非コード疾患リスクバリアントの解釈のための包括的なフレームワークが提供される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aac.00734-26",
+    "title": "Reducing bacterial resistance evolution through antimicrobial peptide modifications.",
+    "abstract": "Antimicrobial peptides (AMPs) have emerged as promising alternatives to conventional antibiotics, yet bacteria can evolve resistance toward them through mechanisms that are poorly understood. Here, we selected a well-characterized antimicrobial peptide, melittin, as a model peptide that was shown to induce high levels of resistance in the human pathogen Staphylococcus aureus. We hypothesize that the physicochemical properties of AMPs might play a role in resistance development. To explore this hypothesis, we used computational approaches to design melittin derivatives with diverse physicochemical characteristics. A data set of 191 melittin-derived sequences (8-26 amino acids long) was analyzed to identify representative peptides spanning diverse physicochemical clusters. Selected peptides were synthesized and tested in an experimental evolution assay. Resistance dynamics, cross-resistance patterns, and cytotoxicity were evaluated in parallel. Full-length melittin with an amide or carboxylic acid C' terminus and highly hydrophobic derivatives [e.g., Mel(2-22)] showed high resistance occurrence, whereas Mel(5-24), a truncated variant, maintained antimicrobial activity while eliciting minimal resistance development. Whole-genome sequencing of endpoint populations revealed that melittin-evolved strains accumulated convergent mutations most prominently in pmtR, whereas Mel(5-24)-evolved populations converged only on ydbT, with no mutations in canonical resistance loci, suggesting fewer accessible adaptive pathways against the truncated peptide. Our results indicate that peptide hydrophobicity and chain length correlated with resistance fold change, whereas coil propensity showed a negative correlation. Notably, Mel(5-24) displayed reduced cross-resistance to other peptides and lower cytotoxicity toward mammalian cells than melittin, suggesting a broader therapeutic window. Overall, our findings indicate that tuning peptide hydrophobicity and chain length along with structural propensity can mitigate the evolutionary pressure driving resistance while maintaining antibacterial potency. Rational modulation of such physicochemical properties may provide a practical route for designing AMPs with improved selectivity and lower resistance potential.",
+    "journal": "Antimicrobial Agents and Chemotherapy",
+    "doi": "10.1128/aac.00734-26",
+    "date": "2026-11-09",
+    "authors": "Cohen Tzemach H, Maron B, Malach E, Hayouka Z.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43002076",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43002076",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1084,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/aac.00734-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2c56aaeb43a81052abf10d8e030df2efb9d1e633d72878db43e694abf5b83b30",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:55:45.345193+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "02ea1bc4095545449e78637c157c3333000118a2f4e6ef78ae27343468dcba47",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:55:45.345193+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗菌ペプチドの修飾による細菌の耐性進化の抑制。",
+    "abstract_ja": "抗菌ペプチド（AMP）は、従来の抗生物質に代わる有望な選択肢として台頭しているが、細菌は十分に解明されていない機序を通じて、これらに対する耐性を獲得し得る。本研究では、ヒト病原体である黄色ブドウ球菌において高いレベルの耐性を誘導することが示されている、十分に特性解析された抗菌ペプチドであるメリチンをモデルペプチドとして選定した。我々は、AMPの物理化学的特性が耐性獲得に関与している可能性があるという仮説を立てた。この仮説を検証するため、計算科学的手法を用いて、多様な物理化学的特性を有するメリチン誘導体を設計した。191種類のメリチン由来配列（長さ8～26アミノ酸）のデータセットを解析し、多様な物理化学的クラスターにわたる代表的なペプチドを同定した。選定したペプチドを合成し、実験的進化アッセイで試験した。耐性動態、交差耐性パターン、および細胞毒性を並行して評価した。アミド基またはカルボン酸をC末端に持つ全長メリチンおよび高度に疎水性の誘導体［例：Mel(2-22)］は高い耐性発現を示したが、切断型変異体であるMel(5-24)は、抗菌活性を維持しつつ耐性獲得を最小限に抑えた。エンドポイント集団の全ゲノムシーケンシングにより、メリチン進化株はpmtRに最も顕著に収束型変異を蓄積したのに対し、Mel(5-24)進化集団はydbTにのみ収束し、正準耐性遺伝子座には変異が認められなかったことから、切断型ペプチドに対する利用可能な適応経路が少ないことが示唆された。我々の結果は、ペプチドの疎水性と鎖長が耐性の倍率変化と相関した一方で、コイル形成傾向は負の相関を示したことを示している。特筆すべきことに、Mel(5-24)はメリチンよりも他のペプチドに対する交差耐性が低く、哺乳類細胞に対する細胞毒性も低かったことから、より広範な治療ウィンドウを持つことが示唆された。総じて、我々の知見は、構造的傾向とともにペプチドの疎水性と鎖長を調整することで、抗菌能を維持しつつ耐性を誘発する進化圧を軽減できることを示している。このような物理化学的特性を合理的に調節することは、選択性が向上し耐性ポテンシャルの低いAMPを設計するための実用的な手段となり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "im",
+      "journal article"
+    ],
+    "id": "10.1016/j.cell.2026.08.012",
+    "title": "Single-cell multimodal atlas reveals regulatory programs in the human brain.",
+    "abstract": "Direct measurement of chromatin states together with transcription is essential for understanding how cell-type-specific regulatory programs are established and maintained in the adult human brain. Here, we present a large-scale single-cell multimodal atlas by jointly profiling the transcriptome with active (H3K27ac) or repressive (H3K27me3) histone modifications across 18 adult brain regions. We targeted over 750,000 nuclei spanning 160 cell types and integrated these data with chromatin accessibility, DNA methylation, 3D genome architecture, and spatial transcriptomes. This framework resolved chromatin states for over 500,000 candidate regulatory elements, identified enhancer-gene links and regulatory programs, revealed Polycomb-associated ultra-long-range contacts, and uncovered brainwide epigenomic heterogeneity. We further developed a sequence-to-function model to predict cell-type-specific effects of candidate neurological disease variants. Finally, comparative analyses across species reveal conservation in active regulatory programs but divergence in repressive programs. Together, this study provides a comprehensive epigenomic reference for interpreting regulatory principles and epigenetic memory underlying human brain organization and disease.",
+    "journal": "Cell",
+    "doi": "10.1016/j.cell.2026.08.012",
+    "date": "2026-11-01",
+    "authors": "Xie Y, Chang L, Zhong G, Rink JA, Báez-Becerra CT, Armand E, Ding W, Li K, Bonne E, Indralingam HS, Lie A, Dong K, Loe T, Huang B, Wang Z, Barcoma AS, Willier JK, Knutson KW, Liu J, Cho S, Cao S, Russo KG, Young CK, Arzavala J, Sanchez Y, Bikkina A, Schenker-Ahmed N, Kern JC, Zhao Z, Klein A, Flores J, Tai CY, Olness J, Monell A, Moghadami S, Barragan C, Chen C, Owens W, Wang W, O'Connor C, Liem M, Marrin MV, Rose C, Alt SN, Emerson N, Osteen J, Lucero J, Zemke NR, Li D, Hodge RD, Wang T, Keene CD, Xu X, Zhu Q, Ecker JR, Behrens MM, Ren B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43020026",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43020026",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1229,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1016/j.cell.2026.08.012"
+    ],
+    "translation": {
+      "title": {
+        "hash": "58ba5ec1cfb5b92f98ca1f4d065413b7a5c0ba16bb5a63c0814566a8c534cbfd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:55:45.345193+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a796134d5130c65a8bf1d57ee1a130dae27509452bd45ca55efa7d316f411c96",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:55:45.345193+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一細胞マルチモーダルアトラスがヒト脳における調節プログラムを明らかにする。",
+    "abstract_ja": "転写と併せてクロマチン状態を直接測定することは、ヒト成体脳において細胞種特異的な調節プログラムがどのように確立・維持されるかを理解する上で不可欠である。本研究では、18の成体脳領域にわたって、活性型（H3K27ac）または抑制型（H3K27me3）ヒストン修飾とトランスクリプトームを共同でプロファイリングすることにより、大規模な単一細胞マルチモーダルアトラスを提示する。我々は、160種類の細胞種にわたる75万個以上の核を対象とし、これらのデータをクロマチンアクセシビリティ、DNAメチル化、3次元ゲノム構造、および空間的トランスクリプトームと統合した。このフレームワークにより、50万個以上の候補調節エレメントのクロマチン状態が解明され、エンハンサー遺伝子の関連や調節プログラムが同定されたほか、ポリコーム関連の超長距離接触が明らかになり、脳全体にわたるエピゲノムの不均一性が明らかになった。さらに、候補となる神経疾患バリアントの細胞種特異的な影響を予測するための配列機能モデルを開発した。最後に、種間比較解析により、活性型調節プログラムには保存性が見られる一方、抑制型プログラムには分岐があることが明らかになった。総じて、本研究は、ヒト脳の組織化と疾患の根底にある調節原理およびエピジェネティック記憶を解釈するための包括的なエピゲノムリファレンスを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1007/s00792-026-01445-2",
+    "title": "Microbial hydrocarbonoclastic responses to extreme marine environments: adaptive strategies of psychrophilic and halophilic microorganisms.",
+    "abstract": "The biological remediation of complex petroleum waste streams suffers from severe performance bottlenecks in industrial and marine settings due to the simultaneous thermal, osmotic and mechanical stress. In these hypersaline and multi-extreme matrices, such as produced water, coastal oil spills, and refinery lagoons, conventional mesophiles succumb to rapid plasmolysis, catalytic deceleration, and metabolic uncoupling. Halophilic microorganisms offer indispensable advantages for remediating these hostile environments; their specialized adaptations including acidic proteomes that resist salting-out, compatible solute accumulation that maintains cellular turgor, and cell-bound biosurfactant secretion preserve biocatalytic integrity where conventional degraders fail. This review provides a detailed overview of recent advances in the structural biology of extremophilic enzymes, biosurfactant-mediated interfacial bioavailability changes and genome-scale regulatory networks regulating hydrocarbonoclastic psychrophiles and halophiles. This article integrates structural insights, e.g. localized molecular flexibility of cold-active oxygenases and surface acidity stabilizing salt-tolerant biocatalysts, with functional multi-omics workflows that trace carbon flux from dynamic stress-sensing mechanisms to complete hydrocarbon mineralization. In addition, this paper discusses particular eco-physiological challenges of oil spills in the open ocean, such as the spatial compartmentalization of deep-water plumes, the dynamics of marine oil snow formation, and the metabolic trade-offs imposed by synthetic chemical dispersants. Also, this review discusses how the integration of high-throughput multi-omics data with artificial intelligence pipelines and predictive machine learning algorithms can accelerate strain engineering and bioprocess optimization. Finally, it offers a strong data-driven systems biology approach to move next-generation extremophilic bioprocesses from exploratory laboratory concepts to scalable, field-reproducible industrial realities.",
+    "journal": "Extremophiles",
+    "doi": "10.1007/s00792-026-01445-2",
+    "date": "2026-11-10",
+    "authors": "Ahmed A, Kumar A, Hazarika J, Geed SR.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43007510",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "43007510",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 681,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1007/s00792-026-01445-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "01814af106c5c5bca3c79a526b663dc085f6ad48429f1c112d95b5bb6baa4ca9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:55:45.345193+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bd5b2505dd71c7520bf25665a62c777c516fcea0ff74bd66839bcfa13bff9aea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:55:45.345193+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "極限海洋環境に対する微生物の炭化水素分解応答：低温好性および好塩性微生物の適応戦略",
+    "abstract_ja": "複雑な石油廃棄物ストリームの生物学的浄化は、工業および海洋環境において、熱的、浸透圧的、および機械的ストレスが同時に作用するため、深刻な性能ボトルネックに直面している。生産水、沿岸部の原油流出、製油所ラグーンといった超塩濃度かつ多極限的なマトリックス環境では、従来の中温性微生物は、急速な原形質溶解、触媒減速、および代謝脱共役によって機能不全に陥る。好塩性微生物は、こうした過酷な環境の浄化において不可欠な優位性を備えている。塩析に抵抗する酸性プロテオーム、細胞膨圧を維持する適合溶質蓄積、および細胞結合型バイオ界面活性剤の分泌といった特化した適応機構により、従来の分解酵素が機能しない環境においても生物触媒としての完全性が維持される。本総説では、極限環境性酵素の構造生物学における最近の進展、バイオ界面活性剤を介した界面バイオアベイラビリティの変化、および炭化水素分解性好冷菌・好塩菌を制御するゲノムスケールの調節ネットワークについて詳細に概説する。本稿では、低温活性型オキシゲナーゼの局所的な分子柔軟性や、表面酸性度を安定化させる耐塩性バイオ触媒といった構造的知見を、動的なストレス感知機構から完全な炭化水素鉱物化に至る炭素フラックスを追跡する機能的マルチオミクスワークフローと統合する。さらに、外洋における原油流出の特有の生態生理学的課題として、深海プルームの空間的区画化、海洋油雪形成のダイナミクス、および合成化学分散剤によって課される代謝トレードオフについて論じる。また、ハイスループットマルチオミクスデータと人工知能パイプラインおよび予測機械学習アルゴリズムの統合が、菌株工学およびバイオプロセス最適化をいかに加速させ得るかについても考察する。最後に、次世代の極限環境性バイオプロセスを、研究室での探索的コンセプトから、スケールアップ可能でフィールド再現可能な産業的現実へと移行させるための、強力なデータ駆動型システム生物学的アプローチを提示する。"
+  },
+  {
+    "id": "10.1093/femsmc/xtag057",
+    "title": "Multi-stress tolerant Bacillus from salt-affected arid soil",
+    "abstract": "AbstractSalinity, drought, and heat severely constrain microbial activity in arid soils. This study investigated whether multi-stress tolerance in Bacillus isolated from the rhizosphere of Suaeda vera is associated with a genomic complement of stress-response and plant growth-promoting genes. We isolated 150 bacterial isolates from this rhizosphere soil at saline sites (16–32 dS/m) of Sehb El Mesjoune, central Morocco. Among these isolates, 65 were classified as multi-stress tolerant, as they grew in culture media under salinity (1.7–3.4 M NaCl), drought (10–20% PEG), and elevated temperatures (≥47°C), with Bacillus (33%) as the dominant genus. Out of these isolates, five Bacillus strains were selected for further analysis. Whole-genome sequencing revealed a genomic architecture with multiple abiotic stress tolerance mechanisms, including KtrABCD transporters, Na+/H+ antiporters, the opuABCD pathway, and the stressosome sensory complex, with operons for biofilm formation (epsA-O, tasA, bslA) potentially relevant to root association. Comparative ortholog analysis detected 444 orthogroups common to the strains from Sehb El Mesjoune and the saline reference B. halotolerans ZB201702 but absent from the non-saline reference B. velezensis FZB42. Of these, 81 were annotated as stress tolerance or plant growth-promoting genes, a pattern that may reflect environmental filtering, although species-level ancestry cannot be excluded. Additionally, in vitro assays and SEM imaging confirmed these traits were functionally expressed, resulting in Bacillus strains attaching to wheat seeds. These findings suggest that the five selected Bacillus strains represent promising candidates for future greenhouse and field testing as bacterial inoculants for crops grown in salt-affected arid soils.",
+    "journal": "FEMS Microbes",
+    "doi": "10.1093/femsmc/xtag057",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/femsmicrobes/advance-article/doi/10.1093/femsmc/xtag057/9045775?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4380,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/femsmc/xtag057"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0a1553818e9646b3a1043d88c10923165fcf16574ac01165aaa4b79c5358e7f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:55:45.345193+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1dd7c36382fc93a53ff2a89a8ed68787e93f592d1c31a783c8609949f6203e2b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T16:55:45.345193+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "塩害乾燥土壌由来の多ストレス耐性バチルス",
+    "abstract_ja": "要旨 塩類集積、干ばつ、および高温は、乾燥土壌における微生物活性を著しく制限する。本研究では、Suaeda veraの根圏から単離したBacillus属菌の多ストレス耐性が、ストレス応答および植物成長促進遺伝子のゲノム構成と関連しているかどうかを検討した。モロッコ中部のSehb El Mesjouneにおける塩類集積地（16–32 dS/m）の根圏土壌から、150株の細菌分離株を単離した。これらの分離株のうち、65株が塩類集積（1.7–3.4 M NaCl）、干ばつ（10–20% PEG）、および高温（≥47°C）条件下の培養培地で生育したため、多ストレス耐性株に分類され、優占属はBacillus属（33%）であった。これらの分離株の中から、さらに解析を行うために5株のBacillus属菌株を選定した。全ゲノム配列解析により、KtrABCDトランスポーター、Na+/H+アンチポーター、opuABCD経路、およびストレスソーム感覚複合体を含む、複数の非生物的ストレス耐性機構を備えたゲノム構造が明らかになり、バイオフィルム形成のためのオペロン（epsA-O, tasA, bslA）が根への付着に関連している可能性が示された。比較オルソログ解析により、Sehb El Mesjoune株および塩類集積参照株B. halotolerans ZB201702に共通し、非塩類集積参照株B. velezensis FZB42には存在しない444個のオルソグループが検出された。このうち81個がストレス耐性遺伝子または植物成長促進遺伝子としてアノテーションされており、このパターンは環境フィルタリングを反映している可能性があるが、種レベルの系統的起源を排除することはできない。さらに、in vitroアッセイおよびSEMイメージングにより、これらの形質が機能的に発現していることが確認され、結果としてBacillus属菌株が小麦種子に付着した。これらの知見は、選定された5株のBacillus属菌株が、塩類集積乾燥土壌で栽培される作物の細菌接種剤として、今後の温室および圃場試験における有望な候補となることを示唆している。"
   }
 ]
