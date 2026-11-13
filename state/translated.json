@@ -188737,5 +188737,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "電極関連成長により、嫌気性メタン酸化古細菌におけるOmcZ型シトクロムナノワイヤの構造が明らかになった。",
     "abstract_ja": "嫌気性メタン酸化細菌（ANME）は、無酸素環境におけるメタン排出の主要な調節因子であるが、無菌培養法が確立されていないため、その生理学的特性は依然として十分に解明されていない。本研究では、電極上での培養により、淡水性ANMEのほぼ無菌状態の培養物（相対存在率95.8%）が得られることを示し、これに「Candidatus Methanoperedens vercellensis」という名称を提案する。我々は、「Ca. M. vercellensis」の主要な生理学的特性として、30 °Cにおける倍加時間の4.6日、呼吸電子伝達体としてのメナキノン、エタンの酸化能の欠如、および電極培養後における硝酸塩よりも酸化鉄の優先的な還元を明らかにした。古細菌表面に形成されたフィラメントの3.3 Åクライオ電子顕微鏡構造解析により、重合したOmcZ型シトクロムナノワイヤが認められた。これらは、Geobacter sulfurreducensにおける長距離（>10 μm）の細胞外電子伝達（EET）に不可欠なOmcZナノワイヤと相同である。古細菌のOmcZ型ナノワイヤは、保護されたヘメサキンが細菌のOmcZナノワイヤに高密度かつ共線的に積層しているが、翻訳後修飾を受けており、細菌のOmcZナノワイヤとは異なる形態を呈している。特筆すべきは、細菌のOmcZとは対照的に、古細菌のOmcZ型ナノワイヤは相互接続されたネットワークを形成せず、ヘムの溶媒曝露も少ないため、環境から保護され得る点である。驚くべきことに、これらの古細菌は、細菌のOmcZのフォールディングに関与するプロリルイソメラーゼが一見存在しない状態であっても、OmcZをナノワイヤへと組み立てる。本研究は、古細菌におけるナノワイヤ介在性EETの分子レベルでの理解のためのモデル系を確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1828118",
+    "title": "Microbiome-targeted strategies for Alzheimer's disease: multi-omics signatures, mechanistic links, and intervention evidence.",
+    "abstract": "Alzheimer's disease (AD) is increasingly studied in relation to gut microbial mechanisms because microbial metabolism, mucosal barrier function, and peripheral immune activation may influence neuroinflammation and host metabolic stress. This review evaluates microbiome-linked evidence in AD with emphasis on studies that combine metagenomics, metabolomics, inflammatory markers, neuroimaging, cerebrospinal fluid or blood biomarkers, and cognitive phenotyping. Current data support several recurring but not yet causal axes, including bile acid transformation, short-chain fatty acid (SCFA) production, trimethylamine N-oxide (TMAO), bacterial product-related inflammatory signaling, and barrier dysfunction. We also review microbiome-targeted interventions, including diet and prebiotics, strain-specified probiotics and synbiotics, oligosaccharide-based agents, gut-restricted antimicrobials, and fecal microbiota transplantation (FMT). The strength of evidence differs substantially across these strategies: sodium oligomannate has been tested in a phase 3 trial, whereas many probiotic, antimicrobial, and FMT approaches remain early clinical, preclinical, or mechanism-generating. Future trials should define a priori microbial, metabolite, immune, and brain biomarker endpoints; control diet, medication, and comorbidity confounding; and validate candidate signatures across independent cohorts before using microbiome profiles for screening or treatment selection.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1828118",
+    "date": "2026-10-28",
+    "authors": "Huang X, Zhang X, Zhu Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43017556",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "43017556",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 223,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.3389/fmicb.2026.1828118"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f336a4145b4de372845ab937e42024a69a522eccb6ae515e758761b6c4acb9be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:17:32.436118+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cc576ed172c7c7766af7aa9606c4eb0b5e983c9860b31a49a294e3121ee9c292",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:17:32.436118+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アルツハイマー病に対するマイクロバイオーム標的戦略：マルチオミクスシグネチャー、機序的関連性、および介入のエビデンス",
+    "abstract_ja": "アルツハイマー病（AD）では、微生物代謝、粘膜バリア機能、および末梢免疫活性化が神経炎症や宿主の代謝ストレスに影響を及ぼし得るため、腸内微生物機構との関連について研究が進められている。本総説では、メタゲノミクス、メタボロミクス、炎症マーカー、神経画像診断、脳脊髄液または血液バイオマーカー、および認知機能フェノタイピングを組み合わせた研究を中心に、ADにおけるマイクロバイオーム関連のエビデンスを評価する。現在のデータは、胆汁酸変換、短鎖脂肪酸（SCFA）産生、トリメチルアミンN-オキシド（TMAO）、細菌産物関連の炎症性シグナル伝達、およびバリア機能不全など、繰り返し報告されているものの、まだ因果関係が立証されていない複数の軸を支持している。また、食事およびプレバイオティクス、菌株特異的プロバイオティクスおよびシンバイオティクス、オリゴ糖系薬剤、腸管限定性抗菌薬、および糞便微生物移植（FMT）を含む、マイクロバイオームを標的とした介入策についても概説する。エビデンスの強度はこれらの戦略によって大きく異なる。例えば、ナトリウムオリゴマンネートは第3相試験で検証されている一方、多くのプロバイオティクス、抗菌薬、およびFMTのアプローチは、依然として初期の臨床段階、前臨床段階、あるいは機序解明の段階にある。今後の試験では、マイクロバイオームプロファイルをスクリーニングや治療法選択に用いる前に、微生物、代謝物、免疫、および脳バイオマーカーのエンドポイントを事前定義し、食事、薬剤、および併存疾患による交絡因子を制御し、独立したコホート間で候補シグネチャーを検証すべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01326-26",
+    "title": "Identification of ebastine and ceritinib as effective inhibitors of <i>Fusobacterium nucleatum</i> FtsZ.",
+    "abstract": "The role of microorganisms in cancer is not a new concept-bacteria, parasites, and viruses have all been implicated in cancer development. Fusobacterium nucleatum, a member of the oral microbiota, has emerged as an important cancer-associated bacterium. Unbiased global genomic analyses have demonstrated that F. nucleatum is enriched in human colorectal cancer (CRC) tissues compared with noncancerous colorectal tissues, underscoring the urgent need for specific antimicrobial agents targeting F. nucleatum for CRC prevention and treatment. In this study, structure-based virtual screening successfully identified ebastine and ceritinib as antimicrobial agents targeting Fusobacterium nucleatum FtsZ (FnFtsZ). Their potent anti-F. nucleatum activity was confirmed through in vitro assays, including minimum inhibitory concentration determination and microscopic observation of filamentous morphology. Both ebastine and ceritinib exhibited significant antibacterial effects. Enzyme activity and polymerization assays demonstrated that their mechanism of action involves inhibition of FnFtsZ GTPase activity and disruption of FnFtsZ polymerization. Scanning electron microscopy (SEM) and light microscopy further confirmed that these compounds effectively disrupt cell division, leading to abnormal or halted division and inhibiting F. nucleatum proliferation. Overall, our findings identified ebastine and ceritinib as potential drugs against F. nucleatum proliferation, although further structural optimization is required. Additionally, our results demonstrate the effectiveness of an integrated computational-experimental approach targeting bacterial cell division in microbiome-associated pathologies.ImportanceColorectal cancer (CRC) is strongly driven by the enrichment of the oncogenic bacterium Fusobacterium nucleatum in gut lesions. However, the lack of targeted anti-F. nucleatum drugs significantly limits microbe-related interventions for CRC. In this study, we repurposed two clinically approved drugs, ebastine and ceritinib, as highly effective inhibitors of FnFtsZ, the key protein responsible for bacterial cell division. We demonstrated that both drugs inhibit bacterial proliferation by suppressing FnFtsZ function and disrupting the cell division process. Our work offers safe, readily available candidate agents for controlling CRC-associated pathogenic bacteria and establishes a reliable computational-experimental workflow to screen division-targeted antimicrobials for microbiome-related cancers.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01326-26",
+    "date": "2026-11-09",
+    "authors": "Fang H, Shu Y, Zhou Z, Li Y, Gong T, Yang M, Zhang B, Jin Y, Liu Y, Wang C, Zhao L, Liu Y, Chen P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001780",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001780",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "microbe",
+        "microbiome",
+        "microbiota",
+        "microorganism",
+        "microorganisms",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 67,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1128/spectrum.01326-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "79b1c5021d3b5fcbe2e02c6de170902ad71754f5288c33842beecc0daf74e7f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:17:32.436118+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a7a3e8c4e98a45d7c01998834af836554a504b593381675b812fc1315c52b7a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:17:32.436118+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Fusobacterium nucleatum</i> FtsZの有効な阻害剤としてのエバスチンおよびセリチニブの同定",
+    "abstract_ja": "がんにおける微生物の役割は新たな概念ではなく、細菌、寄生虫、ウイルスはいずれもがんの発症に関与してきた。口腔微生物叢の一員であるFusobacterium nucleatumは、重要ながん関連細菌として注目されている。偏りのない世界的なゲノム解析により、F. nucleatumは非がん性の大腸組織と比較してヒト大腸がん（CRC）組織に豊富に存在することが示されており、CRCの予防および治療に向けたF. nucleatumを標的とする特異的な抗菌薬の緊急の必要性が浮き彫りとなっている。本研究では、構造ベースのバーチャルスクリーニングにより、Fusobacterium nucleatum FtsZ（FnFtsZ）を標的とする抗菌薬としてエバスチンおよびセリチニブを同定することに成功した。これらの強力な抗F. nucleatum活性は、最小発育阻止濃度の決定および糸状形態の顕微鏡観察を含むin vitroアッセイによって確認された。エバスチンとセリチニブはともに有意な抗菌効果を示した。酵素活性および重合アッセイにより、その作用機序にはFnFtsZ GTPase活性の阻害およびFnFtsZ重合の阻害が関与していることが示された。走査型電子顕微鏡（SEM）および光学顕微鏡による観察では、これらの化合物が細胞分裂を効果的に阻害し、分裂の異常または停止を引き起こしてF. nucleatumの増殖を抑制することがさらに確認された。総じて、本研究の知見により、エバスチンおよびセリチニブはF. nucleatumの増殖に対する潜在的な薬剤として同定されたが、さらなる構造最適化が必要である。加えて、本結果は、マイクロバイオーム関連疾患における細菌の細胞分裂を標的とした統合的な計算・実験アプローチの有効性を示すものである。重要性大腸がん（CRC）は、腸管病変における発がん性細菌Fusobacterium nucleatumの濃縮によって強く促進される。しかし、標的を絞った抗F. nucleatum薬が不足しているため、CRCに対する微生物関連の介入は著しく制限されている。本研究では、細菌の細胞分裂を担う主要タンパク質であるFnFtsZの極めて有効な阻害剤として、臨床承認済みの2つの薬剤、エバスチンおよびセリチニブを転用した。我々は、両薬剤がFnFtsZの機能を抑制し、細胞分裂プロセスを阻害することで細菌の増殖を抑制することを実証した。本研究は、CRC関連の病原細菌を制御するための安全で容易に入手可能な候補薬剤を提供するとともに、マイクロバイオーム関連がんに対する分裂標的型抗菌薬をスクリーニングするための信頼性の高い計算・実験ワークフローを確立するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1158",
+    "title": "M2iOR: a quantitative, context-resolved atlas of insect odorant receptor-odorant interactions",
+    "abstract": "AbstractOlfactory detection in insects relies on interactions between odorant molecules and odorant receptors (ORs) expressed in olfactory sensory neurons. Although numerous studies have characterized insect OR-ligand interactions, these data remain scattered across the literature and heterogeneous in terms of species, experimental systems, and reporting standards, limiting their systematic analysis. Here, we present the Molecule to Insect Odorant Receptor database (M2iOR, https://m2ior.chemsensim.fr/), a curated, publicly accessible resource designed to centralize and standardize odorant-receptor interaction data. In its current release, M2iOR compiles 35 891 bioassay experiments describing 30 348 distinct insect OR-molecule pairs, extracted from 41 peer-reviewed publications and public databases. The resource integrates ligand structures, receptor sequences, species names, mixture information, and detailed experimental metadata. M2iOR provides flexible query tools allowing users to retrieve activity profiles for individual molecules or compound sets, and identify agonists and nonagonists for specific insect ORs, enabling comparative analyses across receptors, species, or bioassay systems. Advanced filtering based on curated metadata and batch search functionality support high-throughput analyses. For each query, users can visualize and download a curated aggregation of experimental results, including a binarized combinatorial representation of olfactory coding suitable for downstream computational studies. M2iOR provides a comprehensive framework for data-driven research in insect olfaction and comparative chemosensory biology.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1158",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1158/9041028?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4381,
+    "collected_at": "2026-11-13T16:31:13.033423+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1158"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d235e166367b57d73f37452fe8d91e6a8866fba78f6eb307ffb79ae50d1eeb1b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:17:32.436118+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e41afdceabbb69f69866b367b938b7b1a591a84b76689dedceb496706651fff0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:17:32.436118+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "M2iOR: 昆虫の匂い受容体－匂い相互作用に関する定量的かつコンテキスト解析済みアトラス",
+    "abstract_ja": "要旨昆虫における嗅覚検出は、匂い分子と、嗅覚感覚ニューロンに発現する匂い受容体（OR）との相互作用に依存している。昆虫のOR-リガンド相互作用については数多くの研究が行われてきたが、これらのデータは文献全体に散在しており、種、実験系、報告基準の面で不均一であるため、体系的な解析が制限されている。本報では、匂い分子-受容体相互作用データを一元化し標準化するために設計された、キュレーション済みの公開リソースであるMolecule to Insect Odorant Receptorデータベース（M2iOR, https://m2ior.chemsensim.fr/）を紹介する。現行リリースのM2iORは、41件の査読付き論文および公開データベースから抽出した、30,348組の個別の昆虫OR-分子ペアを記述する35,891件のバイオアッセイ実験を収録している。本リソースは、リガンド構造、受容体配列、種名、混合物情報、および詳細な実験メタデータを統合している。M2iORは柔軟なクエリツールを提供しており、ユーザーは個々の分子や化合物セットの活性プロファイルを取得し、特定の昆虫ORに対するアゴニストおよび非アゴニストを同定できるため、受容体、種、またはバイオアッセイ系を横断した比較解析が可能となる。キュレーション済みメタデータに基づく高度なフィルタリング機能とバッチ検索機能により、ハイスループット解析がサポートされる。各クエリにおいて、ユーザーは実験結果のキュレーション済み集約データを可視化・ダウンロードでき、これには後続の計算研究に適した嗅覚コーディングの二値化組合せ表現も含まれる。M2iORは、昆虫の嗅覚および比較化学感覚生物学におけるデータ駆動型研究のための包括的なフレームワークを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.7717/peerj.21866",
+    "title": "Intrinsic replication advantage of a Hepatitis B Virus genotype C strain is independent of the basal core promoter A1762T/G1764A mutation.",
+    "abstract": "This study aimed to isolate and characterize individual hepatitis B virus (HBV) strains from a patient co-infected with genotype B and C, and to directly compare their intrinsic replication capacities. HBV DNA was isolated from a chronic hepatitis B patient. Genotypes were determined by genotype-specific polymerase chain reaction (PCR), and full-length genomes were cloned. Two clones representing subgenotype B2 (c17) and C1 (c21) were selected, sequenced and transfected into HepG2 cells. Viral replication was assessed via Southern blot and quantitative PCR. The role of the common Adenine (A)1762Thymine (T/)Guanine (G)1764A mutation in the C1 clone was investigated by site-directed mutagenesis. As a result, the genotype C1 clone exhibited significantly higher replication capacity than the B2 clone. Counterintuitively, reverting the A1762T/G1764A mutation in the C1 clone to wild-type further enhanced its replication, indicating this mutation was not the primary driver of its high replicative fitness. In conclusion, HBV genotype C1 possesses a greater inherent replication capacity than B2, independent of the classic basal core promoter (BCP) mutation, providing a virological explanation for its association with severe disease outcomes in co-infection.",
+    "journal": "PeerJ",
+    "doi": "10.7717/peerj.21866",
+    "date": "2026-11-05",
+    "authors": "Xiao Y, Chen X, Li Z, Lei S, Chen Z, Cai J, Cui X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001121",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001121",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1126,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.7717/peerj.21866"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c332e079b8a8d613867fbb54d51fb398f3b0a5060f0a6431520cbc69bbe8cbbc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:17:32.436118+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fce36305e557b02ef6f5753d9abc9892cf741a696d9645341056c6e6779f4ccd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T17:17:32.436118+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "B型肝炎ウイルスC型株の固有の複製優位性は、基礎コアプロモーターのA1762T/G1764A変異とは独立している。",
+    "abstract_ja": "本研究では、ジェノタイプBおよびCに共感染した患者から個々のB型肝炎ウイルス（HBV）株を分離・特性解析し、その固有の複製能を直接比較することを目的とした。慢性B型肝炎患者からHBV DNAを分離した。ジェノタイプをジェノタイプ特異的ポリメラーゼ連鎖反応（PCR）により判定し、全長ゲノムをクローニングした。サブジェノタイプB2（c17）およびC1（c21）を代表する2つのクローンを選定し、配列決定を行った後、HepG2細胞にトランスフェクションした。ウイルス複製は、サザンブロット法および定量PCRにより評価した。C1クローンにおける共通のアデニン（A）1762チミン（T/）グアニン（G）1764A変異の役割を、部位特異的変異導入法により検討した。その結果、ジェノタイプC1クローンはB2クローンよりも有意に高い複製能を示した。直感に反して、C1クローンのA1762T/G1764A変異を野生型に戻すと複製能がさらに向上したことから、この変異が高複製適応度の主因ではないことが示された。結論として、HBVジェノタイプC1は、古典的な基本コアプロモーター（BCP）変異とは独立して、B2よりも高い固有の複製能を有しており、これが共感染における重篤な疾患転帰との関連に関するウイルス学的な説明となる。"
   }
 ]
