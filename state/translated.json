@@ -195549,5 +195549,342 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "p32ファミリーRNA編集因子はミトコンドリアリボソーム生合成に関与する",
     "abstract_ja": "要旨 単細胞寄生虫Trypanosoma bruceiにおけるミトコンドリアリボソーム（ミトリボソーム）の生合成には、極めて広範な組立因子群が必要であり、これらはクライオ電子顕微鏡法（cryoEM）により、大小のミトリボソームサブユニット（mtLSUおよびmtSSU）の安定前駆体において同定されている。本研究では、これまで組成が不明であった最も初期に特性解析されたmtSSU前駆体である免疫沈降組立体の遺伝子改変およびプロテオーム解析を用い、これまで未知であった組成を持つ特徴的な突起のキャップ部分がp22ホモ三量体で構成されていることを明らかにした。このタンパク質は、以前にシトクロムcオキシダーゼサブユニットII転写産物のウリジン挿入編集に関与していることが示唆されていた。我々の機能解析はこの役割を裏付けるとともに、このタンパク質の欠損がmtSSUの喪失およびミトコンドリア翻訳の全身的な低下を引き起こし、確立されたミトリボソーム組立因子の枯渇をフェノコピーすることを明らかにした。その結果、酸化的リン酸化系およびミトコンドリア機能が損なわれる。p22タンパク質はp32ファミリーに属する。我々は、p32ファミリーの6つのトリパノソーマ構成員のうち5つがmtSSUの生合成に関与していることを示した。特筆すべきは、p32タンパク質が他の2つの遠縁な真核生物系統においてもミトリボソームに関連していることである。真核生物全域にわたるp32タンパク質のマッピングにより、その存在がミトコンドリアゲノムの保持と相関していることが示された。以上の知見を総合すると、トリパノソーマのp22はミトコンドリア遺伝子発現の二重機能コーディネーターとして再定義され、p32ファミリーの祖先的な役割がミトコンドリア翻訳に関連していることが明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "im",
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1215",
+    "title": "RecA protein activates the E. coli topoisomerase III catenation function: essential role of the RecA ATPase.",
+    "abstract": "RecA protein loaded into lesion-containing post-replication gaps must engage in strand exchange utilizing DNA substrates with no free ends, a process that is topologically constrained. The process can be mimicked by examining RecA-mediated DNA strand exchange between a circular ssDNA and a partially homologous circular supercoiled DNA. RecA protein can pair these substrates but cannot promote a net strand exchange. On its own, topoisomerase III promotes little reaction with the same two substrates. However, the two proteins together promote a robust reaction that rapidly, within 1-2 min, converts the substrates quantitatively to catenanes and hemicatenanes. The results reveal an important new functional interaction for bacterial topoisomerase III. The reaction is tightly coupled to RecA-mediated ATP hydrolysis. The rate of RecA-promoted ATP hydrolysis controls not just the extent but also the rate of the catenation/hemicatenation reaction. The ssDNA substrate is also required. Post-replication gaps are created in essentially every replication cycle and can be lethal if left unresolved. Given the need for rapid gap amelioration prior to the arrival of a new replication fork, the strong enzymatic and topological collaboration between RecA and topoisomerase III may have been a major evolutionary driver for the RecA ATPase activity.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1215",
+    "date": "2026-11-01",
+    "authors": "Phan KL, Dunbar EL, Cox MM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43021745",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43021745",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1812,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1093/nar/gkag1215"
+    ],
+    "translation": {
+      "title": {
+        "hash": "39cbb979c62393fe288dc20aa4d06d3035a3c17181fd6908fe1910d0e02d58dc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:18:56.313183+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "268777f984a0ae1e9ff509572370915eadc2289c62aec3e81fff4f9e6ad402e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:18:56.313183+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RecAタンパク質は大腸菌トポイソメラーゼIIIのカテーネーション機能を活性化する：RecA ATPaseの必須的役割。",
+    "abstract_ja": "病変を含む複製後ギャップにロードされたRecAタンパク質は、遊離末端を持たないDNA基質を利用した鎖交換を行う必要があり、このプロセスはトポロジカルに制約されている。このプロセスは、環状ssDNAと部分的に相同な環状超らせんDNAとの間でのRecA介在性DNA鎖交換を調べることで模倣できる。RecAタンパク質はこれらの基質を対合させることができるが、正味の鎖交換を促進することはできない。トポイソメラーゼIII単独では、同一の2つの基質を用いた反応はほとんど促進されない。しかし、これら2つのタンパク質が共存すると、1〜2分以内に基質を定量的にカテナンおよびヘミカテナンへと迅速に変換する強力な反応が促進される。これらの結果は、細菌のトポイソメラーゼIIIにおける重要な新たな機能的相互作用を明らかにしている。この反応は、RecA介在性ATP加水分解と密接に共役している。RecAが促進するATP加水分解の速度は、カテナン化／ヘミカテナン化反応の程度だけでなく、その速度をも制御する。ssDNA基質もまた必要である。複製後ギャップは実質的にすべての複製サイクルで形成され、解消されないままであれば致死的となり得る。新たな複製フォークが到達する前に迅速なギャップ解消が必要であることから、RecAとトポイソメラーゼIIIの間の強力な酵素的およびトポロジカルな協調は、RecA ATPase活性の主要な進化的駆動要因であった可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2631654123",
+    "title": "Rare recovery of reassortants between contemporary clade 2.3.4.4b H5N1 viruses and human influenza A viruses in vitro.",
+    "abstract": "Influenza A virus (IAV) pandemics can arise when animal-derived and human-adapted IAVs exchange genome segments; however, whether contemporary clade 2.3.4.4b H5N1 viruses can generate viable reassortants with human IAVs is unclear. Here, we tested the reassortment potential of two clade 2.3.4.4b H5N1 viruses with human-adapted H1N1 and H3N2 IAVs using a biosafe reassortment system. Across multiple coinfection conditions, we genotyped 2,698 plaque-purified viral clones and recovered 20 reassortants (0.74%). Polymerase assays identified human IAV subunits, particularly H1N1 PA or H3N2 PB2, that increased H5N1 polymerase activity. Thus, contemporary clade 2.3.4.4b H5N1 viruses can reassort with human IAVs, but factors beyond polymerase compatibility may limit their recovery.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2631654123",
+    "date": "2026-11-09",
+    "authors": "Ankerhold J, Kessler S, Petric PP, Jakob C, Beer M, Schwemmle M, Reuther P, Ciminski K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43002684",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43002684",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1606,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.1073/pnas.2631654123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "db9ffa4bccc98c014da6f0f67b7e22d82600e90189de6afd7c9e8a61b1fc7100",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:18:56.313183+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "692d61cccd122fe85d9144981e46e2a621f522f9622290289bd023038e666776",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:18:56.313183+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "in vitroにおける現代のクレード2.3.4.4b H5N1ウイルスとヒトA型インフルエンザウイルスとの再組換えの稀な回復。",
+    "abstract_ja": "A型インフルエンザウイルス（IAV）のパンデミックは、動物由来のIAVとヒト適応型IAVがゲノム断片を交換することで発生し得るが、現代のクレード2.3.4.4b H5N1ウイルスがヒトIAVと生存可能な再集合体を形成し得るかは不明である。本研究では、バイオセーフな再集合システムを用いて、2種類のクレード2.3.4.4b H5N1ウイルスとヒト適応型H1N1およびH3N2 IAVとの再集合能を検証した。複数の共感染条件下で、2,698株のプラーク精製ウイルスクローンをジェノタイピングし、20株の再集合体（0.74%）を回収した。ポリメラーゼアッセイにより、H5N1ポリメラーゼ活性を上昇させるヒトIAVサブユニット、特にH1N1 PAまたはH3N2 PB2が同定された。したがって、現代のクレード2.3.4.4b H5N1ウイルスはヒトIAVと再集合し得るが、ポリメラーゼの適合性以外の要因が回収を制限する可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1070",
+    "title": "MitImpact 4: a genome-wide resource for the interpretation of coding and non-coding mitochondrial DNA variants.",
+    "abstract": "Mitochondrial DNA variants are a frequent cause of inherited disease, yet their computational interpretation has focused almost exclusively on the 13 protein-coding genes. Variants in tRNA and rRNA genes, which carry a disproportionate share of the known pathogenic alleles, have remained a diagnostic blind spot, because their effect depends on RNA structure rather than on protein sequence and few dedicated predictors exist. MitImpact 4 removes this asymmetry. The database now covers all 49 704 single-nucleotide variants that can occur in the mitochondrial genome and reports their functional consequence, phylogenetic conservation, local mutational constraint, and population frequency in gnomAD, HelixMTdb, and ToMMo. Missense variants are annotated with APOGEE 2 and with newly added predictors, including AlphaMissense, ESM1b, VARITY, and LIST-S2, while tRNA and rRNA variants receive predictions from nAPOGEE, our RNA-specific model, alongside MitoTIP and PON-mt-tRNA. For both classes, scores are accompanied by posterior probabilities of pathogenicity that can be used within the ACMG/AMP framework for mitochondrial DNA. Clinical annotation from ClinVar and MITOMAP, including ClinGen expert-panel classifications, is integrated in a redesigned interface that also annotates user-submitted VCF files. MitImpact 4 is freely available at https://mitimpact.mcb2lab.org.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1070",
+    "date": "2026-10-29",
+    "authors": "Giovannetti A, Napoli A, Liorni N, Petrizzelli F, Biagini T, Gasbarrini A, Caputo V, Mazza T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42952409",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42952409",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "genome",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3229,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.1093/nar/gkag1070"
+    ],
+    "translation": {
+      "title": {
+        "hash": "447945c77167ab4815a497003167b0b480e3a4080f3ba84acb3be00ef2f5b9a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:18:56.313183+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d139e08184af686eedcb143c8fede81133cd4729f7f79589c2adee60ceb76ba4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:18:56.313183+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MitImpact 4：コーディングおよび非コーディングのミトコンドリアDNA変異の解析のためのゲノムワイドリソース。",
+    "abstract_ja": "ミトコンドリアDNA変異は遺伝性疾患の頻繁な原因となるが、その計算科学的な解析はほぼ例外なく13個のタンパク質コード遺伝子に限定されてきた。既知の病原性アレルの不釣り合いに高い割合を占めるtRNAおよびrRNA遺伝子の変異は、その効果がタンパク質配列ではなくRNA構造に依存することや、専用の予測因子が少ないことから、診断上の盲点となっていた。MitImpact 4はこの非対称性を解消する。本データベースは、ミトコンドリアゲノムに生じ得る全49,704個の一塩基変異を網羅し、それらの機能的帰結、系統学的保存性、局所的な変異制約、およびgnomAD、HelixMTdb、ToMMoにおける集団頻度を報告する。ミスセンス変異にはAPOGEE 2および、AlphaMissense、ESM1b、VARITY、LIST-S2を含む新たに追加された予測因子を用いてアノテーションが施されており、tRNAおよびrRNA変異には、MitoTIPおよびPON-mt-tRNAに加え、我々のRNA特化型モデルであるnAPOGEEによる予測が付与されている。両クラスにおいて、スコアにはミトコンドリアDNAのACMG/AMPフレームワーク内で利用可能な病原性の事後確率が付随する。ClinGenエキスパートパネルによる分類を含むClinVarおよびMITOMAPからの臨床アノテーションは、ユーザー提出のVCFファイルにもアノテーションを付与する刷新されたインターフェースに統合されている。MitImpact 4は、https://mitimpact.mcb2lab.org で無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1067",
+    "title": "ArthroVerse: mapping protein family diversity across arthropod-associated microbiomes.",
+    "abstract": "Metagenomic studies of arthropod-associated microbiomes have generated vast amounts of sequence data, yet the functional and structural organization of these proteins remains largely unexplored. Here, we present ArthroVerse, the first comprehensive database of protein families derived from arthropod-associated metagenomes. Non-redundant protein families were generated after rigorous filtering, deduplication, and clustering. The protein families were further annotated with microbial taxonomy, host associations, protein structural information, and carbohydrate-active enzymes predictions. The resulting dataset integrates both metagenomic and reference genome-derived proteins, enabling systematic exploration of functional diversity, evolutionary relationships, and host-microbe interactions in insect microbiomes. ArthroVerse provides a valuable resource for the study of microbial ecology and arthropod physiology, offering unprecedented insight into the protein landscape of insect-associated microbial communities. ArthroVerse is publicly accessible at https://envofams.org/arthroverse/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1067",
+    "date": "2026-10-27",
+    "authors": "Chasapi IN, Aplakidou E, Chasapi MN, Lamari E, Galaras A, Diplari S, Iliopoulos I, Emiris IZ, Georgakopoulos-Soares I, Patalano S, Stravopodis DJ, Karatzas E, Baltoumas FA, Kyrpides NC, Pavlopoulos GA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934169",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42934169",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "metagenom",
+        "metagenome",
+        "metagenomes",
+        "metagenomic",
+        "microbe",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 113,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1093/nar/gkag1067"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e1a29744597f003061629835ba5a3aea7d65939d21fda058f166e432593d77db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:18:56.313183+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "968d509bb31c5d0489213b16b39cec3fa6f697ade2a2139bba19055b38e0dc0a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:18:56.313183+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ArthroVerse：節足動物関連マイクロバイオームにおけるタンパク質ファミリーの多様性のマッピング",
+    "abstract_ja": "節足動物関連マイクロバイオームのメタゲノム研究により、膨大な量の配列データが生成されてきたが、これらのタンパク質の機能的・構造的構成については依然としてほとんど解明されていない。本研究では、節足動物関連メタゲノム由来のタンパク質ファミリーを網羅した初のデータベース「ArthroVerse」を提案する。厳格なフィルタリング、重複除去、およびクラスタリングを経て、非冗長なタンパク質ファミリーを構築した。さらに、これらのタンパク質ファミリーに対し、微生物分類、宿主との関連性、タンパク質構造情報、および糖質活性酵素の予測アノテーションを付与した。得られたデータセットは、メタゲノム由来およびリファレンスゲノム由来のタンパク質の両方を統合しており、昆虫マイクロバイオームにおける機能的多様性、進化的関係、および宿主・微生物間相互作用の系統的な探索を可能にする。ArthroVerseは、微生物生態学および節足動物生理学の研究にとって貴重なリソースとなり、昆虫関連微生物群集のタンパク質ランドスケープに関する前例のない知見を提供する。ArthroVerseは、https://envofams.org/arthroverse/ で一般公開されている。"
   }
 ]
