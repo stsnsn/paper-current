@@ -209765,5 +209765,324 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PCB曝露による腸内細菌叢は神経行動学的欠損を再誘発し、海馬のトランスクリプトームシグネチャーをリプログラミングする",
     "abstract_ja": "要旨　ポリ塩化ビフェニル（PCB）は、発達神経毒性および自閉スペクトラム症（ASD）に関連する残留性環境汚染物質である。しかし、PCB誘発性の腸内細菌叢の変化が、直接的な化学物質曝露とは独立して神経発達毒性に寄与するか否かは依然として不明である。本研究では、PCB関連腸内細菌叢の移植が、仔において早期の神経行動学的変化を引き起こし、脳の分子経路を撹乱するかどうかを検討した。Fox River PCB混合物（FRM; 6.0 mg/kg/日）または溶媒に曝露した通常の母動物由来の腸内細菌叢を、PCBを直接投与することなく無菌レシピエント雌に移植した。生後7日（P7）に、仔に対して超音波発声（USV）検査、全脳RNAシーケンシング（n = 4/性/群）、および非標的血清メタボロミクスを実施した。ドナー母動物においても非標的血清メタボロミクスを行った。PCB関連糞便微生物叢の移植（FMT）は、仔のUSVを有意に減少させ、母動物への直接的なPCB曝露後に観察される再現効果を示した。仔の脳トランスクリプトミクスでは、雌（1,082個）よりも雄（9,339個）において大幅に多くの発現変動遺伝子が同定され、その中には512個の共通遺伝子が含まれていた。協調的に調節される遺伝子からは、RNAプロセシング経路の亢進とともに、神経伝達物質シグナル伝達およびイオンチャネル経路の低下が明らかになった。雄に関連する反応にはタンパク質合成および神経細胞シグナル伝達の変化が含まれ、雌に関連する反応にはDNA修復および細胞外マトリックスのリモデリングが含まれていた。これらの分子的な相違にもかかわらず、行動反応に有意な性依存的影響は認められなかった。母動物のメタボロミクスでは、胆汁酸の増加とインドール-3-プロピオン酸の減少が認められ、AhR-NFκBおよび胆汁酸に関連するシグナル伝達機構の可能性が示された。仔のメタボロミクスでは、さらに脂質関連代謝物および代謝プロファイルの変化が同定された。総じて、これらの知見は、PCB曝露微生物叢の移植が早期の神経行動学的変化を再現し、共通かつ性バイアスのある分子反応を誘発することを示しており、母動物の腸内マイクロバイオームを、PCB曝露と発達神経毒性を結びつける候補媒介因子として特定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.764790",
+    "title": "PP271, a novel bacteriophage primase-polymerase, enables Primer-Free DNA Amplification",
+    "abstract": "Primases are essential enzymes that initiate DNA replication by synthesizing  de novo primers for replicative DNA polymerases, which ensure accurate genome duplication owing to their high specificity, fidelity, and processivity. PrimPols have emerged as versatile DNA-initiating enzymes that are widely distributed across diverse replication systems, from bacteriophages to humans.  In this work, a novel PrimPol enzyme, PP271, encoded by bacteriophage vB_EfaS-271, was characterized. PP271 belongs to the archaeal–eukaryotic primase (AEP) superfamily and contains the conserved catalytic core, together with a C-terminal PriCT domain. Enzymatic analysis demonstrated that PP271 functions as a  bona fide PrimPol, i.e. a DNA primase capable of synthetizing short DNA primers. PP271 priming activity is strongly stimulated by  ADP , which serves as the preferred initiating nucleotide. Additionally, PP271 exhibits relaxed specificity for selecting the priming site, compared to other PrimPols with more restricted template preferences.  TruePrime™ amplification technology combines the  Thermus thermophilus PrimPol and the highly processive Phi29 DNA polymerase to achieve primer-free DNA amplification. While highly efficient, further improvements in amplification yield, fidelity and product complexity remain possible. Here, we show that DNA primers synthesized by PP271 are efficiently extended by Phi29 DNA polymerase, enabling their coordinated action. Moreover, the short primers generated by PP271 are expected to minimize the contribution of primase-derived errors to the final amplification product while allowing efficient DNA synthesis across a broader range of sequence contexts. Altogether, these findings identify PP271 as a promising alternative for improving primase-dependent DNA amplification.  Key points  Bacteriophage EFAS271 encodes PP271, a DNA-dependent DNA primase-polymerase PP271 preferentially uses  ADP as the initiating nucleotide during primer synthesis  PP271 enables primer-free isothermal DNA amplification with Phi29 DNApol",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764790",
+    "date": "2026-11-09",
+    "authors": "Jiménez-Mejías A, Guerra-González S, Olmos R, Lázaro I, Blanco L, Martínez-Jiménez MI.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362531",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteriophage",
+        "bacteriophages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 700,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.06.764790"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1d4053583ee6bf7b5b98e5f52988994adf3e97606571c78dc2158753e87f3735",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:20:04.264352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ed5dc7163e8ed1d9d5788ee5ee0c579c253256c659406bfb67f5631764a64859",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:20:04.264352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新規バクテリオファージプライマーゼ・ポリメラーゼPP271は、プライマーフリーDNA増幅を可能にする。",
+    "abstract_ja": "プライマーゼは、複製DNAポリメラーゼのためのデノボプライマーを合成することでDNA複製を開始させる必須酵素であり、その高い特異性、忠実度、およびプロセス性により、正確なゲノム複製を保証する。PrimPolsは、バクテリオファージからヒトに至るまで、多様な複製系に広く分布する汎用性の高いDNA開始酵素として登場している。本研究では、バクテリオファージvB_EfaS-271によってコードされる新規PrimPol酵素PP271の特性解析を行った。PP271は古細菌・真核生物プライマーゼ（AEP）スーパーファミリーに属し、保存された触媒コアとC末端のPriCTドメインを有している。酵素解析により、PP271が真正なPrimPol、すなわち短鎖DNAプライマーを合成可能なDNAプライマーゼとして機能することが示された。PP271のプライミング活性は、優先的な開始ヌクレオチドとして機能するADPによって強く促進される。さらに、PP271は、より限定的な鋳型嗜好性を持つ他のPrimPolと比較して、プライミング部位の選択における特異性が低い。TruePrime™増幅技術は、Thermus thermophilusのPrimPolとプロセス性の高いPhi29 DNAポリメラーゼを組み合わせることで、プライマーフリーのDNA増幅を実現する。極めて効率的である一方、増幅収量、忠実度、および産物の複雑性のさらなる向上の余地がある。本研究では、PP271によって合成されたDNAプライマーがPhi29 DNAポリメラーゼによって効率的に伸長され、協調的な作用が可能になることを示す。さらに、PP271によって生成される短鎖プライマーは、最終的な増幅産物に対するプライマーゼ由来のエラーの寄与を最小限に抑えつつ、より広範な配列コンテキストにおいて効率的なDNA合成を可能にすると期待される。総じて、これらの知見は、プライマーゼ依存的なDNA増幅を改善するための有望な代替手段としてPP271を特定するものである。要点 バクテリオファージEFAS271はDNA依存性DNAプライマーゼPP271をコードする PP271はプライマー合成時にADPを優先的な開始ヌクレオチドとして利用する PP271はPhi29 DNApolによるプライマーフリーの等温DNA増幅を可能にする"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.26367422",
+    "title": "Molecular evolution of Andes virus lineages leading to recent human outbreaks",
+    "abstract": "Andes virus (ANDV) is exceptional among hantaviruses in its capacity for person-to-person transmission, but whether outbreaks reflect recent viral adaptation or emergence of pre-existing reservoir lineages remains unclear. We generated paired blood- and nasal-derived genomes from the MV Hondius outbreak and integrated them with a segment-linked collection of human- and rodent-derived ANDV sequences, including incomplete genomes. We developed a linkage-informed missing-segment framework that preserves isolate identity, sampling time, and cross-segment placement without imputing nucleotide states, enabling sensitivity analyses of patchy segment coverage. Across five human outbreaks, dated phylogenies placed outbreak lineages independently within geographically structured reservoir diversity, with closest sampled ancestry predating detection. Time-dependent-rate analyses indicated a deeper reservoir-associated history, while mutation reconstruction, selection tests, branch-rate comparisons, and structural mapping found no recurrent adaptive transition preceding human transmission. MV Hondius samples showed minimal consensus-level diversification. These results shift attention from repeated recent adaptation toward deeper lineage properties and ecological opportunity.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.26367422",
+    "date": "2026-11-09",
+    "authors": "Sharma C, Översti S, Stass R, Lucaci AG, Audet J, Safronetz D, Zhao L, Lythgoe K, Katzourakis A, Bowden TA, Lytras S, Ghafari M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362336",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "nucleotide",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 702,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.06.26367422"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a2b2254d64470f0848403314a87813f31d8e4164d92e969a116a161cdd32e0af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:20:04.264352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c7cf2da6c1bfb1e7263b2396e7a81384154e1ca290d137a61547465dffd63439",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:20:04.264352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "近年のヒト集団発生に至ったアンデスウイルス系統の分子進化",
+    "abstract_ja": "アンデスウイルス（ANDV）は、ヒトからヒトへの伝播能においてハンタウイルスの中でも際立った特性を持つが、アウトブレイクが近年のウイルス適応を反映しているのか、あるいは既存のリザーバー系統の出現によるものかは依然として不明である。我々は、MV Hondiusアウトブレイクから血液および鼻腔由来のペアゲノムを生成し、不完全なゲノムを含むヒトおよび齧歯類由来のANDV配列のセグメント連結コレクションと統合した。また、ヌクレオチド状態を推定することなく、分離株の同一性、サンプリング時期、およびセグメント間の配置を保持するリンケージ情報に基づく欠損セグメントフレームワークを開発し、パッチ状のセグメントカバレッジに対する感度解析を可能にした。5つのヒトアウトブレイクにおいて、年代を特定した系統樹により、アウトブレイク系統は地理的に構造化されたリザーバー多様性の中に独立して配置され、最も近いサンプリング系統は検出前に存在していた。時間依存率解析は、より深いリザーバー関連の履歴を示唆したが、変異再構築、選択検定、分岐率比較、および構造マッピングでは、ヒトへの伝播に先立つ反復的な適応遷移は認められなかった。MV Hondiusのサンプルでは、コンセンサスレベルの多様化は最小限であった。これらの結果は、近年の反復的な適応から、より深い系統特性および生態学的機会へと注目を移すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11223342/v1",
+    "title": "CRISPR-Based Metabolic Engineering of Microbial Cell Factories for Sustainable Bio manufacturing: A Systematic analysis of 1,000 Studies (2012–2026)",
+    "abstract": "Abstract  CRISPR genome editing and microbial metabolic engineering now work hand in hand. That pairing has changed sustainable bio manufacturing in real ways. This review pulls together 1,000 peer-reviewed articles from 2012 to 2026. They come from 201 journals. We mapped how the field evolved, how the technology diversified, which host chassis researchers prefer, what product classes they target, and where in the world the work gets done. Our approach mixed bibliometric, feature engineering, and multivariate statistics. That includes principal component analysis, hierarchical clustering, co-occurrence network analysis, and correlation mapping. We tracked the CRISPR variant landscape, host chassis distribution, product class priorities, and geographic concentration of research output. The temporal analysis shows a shift. Early work explored many CRISPR variants. Recent work focuses on applications. Mean CRISPR variants per article dropped from 2.42 in 2018 to 1.40 in 2026. Our findings give a quantitative roadmap of where the field is heading. They also point to emerging opportunities in non-conventional yeast, filamentous fungi, and cyanobacterial chassis for sustainable bio manufacturing.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11223342/v1",
+    "date": "2026-11-09",
+    "authors": "Zeeshan N, Afzal T, Ahmed Z, Abid I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361891",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria",
+        "cyanobacterial",
+        "fungi",
+        "microbial",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 704,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11223342/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a5bac6f45b87a6636bfafb09de5c38ba943dc98eff7ce73b45128cb0669a8a97",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:20:04.264352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "65d1b72f7794347ab5dbca8197c7ed160a540efed9f87a22ae4197a677fd32da",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:20:04.264352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "持続可能なバイオ製造に向けた微生物細胞工場のCRISPRベースの代謝工学：1,000報の研究（2012–2026年）の系統的解析",
+    "abstract_ja": "要旨  CRISPRゲノム編集と微生物代謝工学は、今や密接に連携している。この組み合わせは、持続可能なバイオ製造のあり方を根本的に変えた。本総説では、2012年から2026年までの査読付き論文1,000報をまとめた。これらは201誌の学術誌から得られたものである。我々は、この分野がどのように発展し、技術がどのように多様化し、研究者がどのようなホストシャーシを好み、どの製品クラスを標的とし、そして世界のどこで研究が行われているかをマッピングした。分析手法には、ビブリオメトリクス、特徴量エンジニアリング、および多変数統計を用いた。これには、主成分分析、階層的クラスタリング、共起ネットワーク分析、および相関マッピングが含まれる。我々は、CRISPRバリアントのランドスケープ、ホストシャーシの分布、製品クラスの優先順位、および研究成果の地理的な集中度を追跡した。時系列分析により、変化が認められた。初期の研究では多くのCRISPRバリアントが探索されていたが、近年の研究は応用に焦点を当てている。論文1本あたりの平均CRISPRバリアント数は、2018年の2.42から2026年には1.40へと減少した。本研究の知見は、この分野が向かう先を示す定量的なロードマップとなる。また、持続可能なバイオ製造に向けた、非従来型の酵母、糸状菌、およびシアノバクテリアシャーシにおける新たな機会を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11324934/v1",
+    "title": "Impacts of algal community structure on algae-derived phosphorus concentrations in Lake Taihu, China, from 2021 to 2025",
+    "abstract": "Abstract    Phosphorus control remains a critical challenge for managing eutrophication in Lake Taihu, yet quantitative assessments of algae-derived phosphorus (ADP) and its response to community shifts remain scarce. Based on monthly data from 20 entire-lake stations during 2021–2025 and an experimentally determined cellular phosphorus content for  Microcystis  spp. (1.46×10  − 10  mg/cell), we estimated cell-specific phosphorus for 113 algal species by cell-volume conversion and quantified ADP and phylum-level contributions. Annual mean total algal density decreased from 1.2×10  8  cells/L in 2021 to 6.9×10  7  cells/L in 2025, with marked turnover:  Microcystis  spp. fell from 83.6% to 32.4% of total density, while diatoms, cryptophytes and chlorophytes rose significantly. Annual mean ADP ranged from 0.015 to 0.022 mg/L (33.4% of TP) and was dominated by cyanobacteria, diatoms and chlorophytes. Cyanobacteria supplied over 65% of ADP during 2021–2022, declining markedly after 2023, while diatom and chlorophyte contributions rose. Notably, an algal rebound in December 2024 (density up 79.3% year-on-year) coincided with a 25.0% ADP decrease, because a large gain in small-celled cyanobacteria was outweighed by a much smaller loss of large-celled diatoms containing seven to eight times more phosphorus per cell. These findings show that ADP is a key component of TP in Lake Taihu and is governed by two mechanistically distinct controls: algal biomass (quantity) and the community-weighted cell-specific phosphorus content set by the assemblage cell-size structure (quality), which can act in opposite directions. Algal community structure thus acts as an active regulator of lake phosphorus and must be considered alongside algal density in phosphorus management.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11324934/v1",
+    "date": "2026-11-09",
+    "authors": "Yang Z, Zhu B, Zhang J, Dai X, Zhang H, Xu Y, Song T, Zhuang Y.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362032",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatom",
+        "Diatoms",
+        "cyanobacteria",
+        "diatom"
+      ],
+      "context": {
+        "marine": [
+          "lake"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1089,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11324934/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7e7cad4b5491b072c03b7b0a18c6b0c9fbba5f201f24cbf28c1ca6de06906960",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:20:04.264352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cc88149191570702d5dcdce37f836cc67a72289456d2588b29cdd4e19c95a2c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:20:04.264352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2021年から2025年にかけての中国太湖における藻類群集構造が藻類由来リン濃度に及ぼす影響",
+    "abstract_ja": "要旨    太湖における富栄養化の管理において、リンの制御は依然として重大な課題であるが、藻類由来リン（ADP）およびその群集変動に対する応答に関する定量的評価は依然として乏しい。2021～2025年の湖全域20地点の月次データと、Microcystis属の実験的に決定された細胞内リン含有量（1.46×10⁻¹⁰ mg/細胞）に基づき、細胞体積換算法を用いて113種の藻類の細胞特異的リン量を推定し、ADPおよび門レベルの寄与度を定量化した。年平均総藻類密度は、2021年の1.2×10⁸細胞/Lから2025年には6.9×10⁷細胞/Lへと減少し、顕著な入れ替わりが見られた。Microcystis属は総密度の83.6%から32.4%へと減少した一方、珪藻類、クリプト藻類、および緑藻類は有意に増加した。年平均ADPは0.015～0.022 mg/L（TPの33.4%）の範囲にあり、シアノバクテリア、珪藻類、および緑藻類が大部分を占めていた。2021～2022年にはシアノバクテリアがADPの65%以上を供給していたが、2023年以降は著しく減少し、一方で珪藻類と緑藻類の寄与度が上昇した。特筆すべきは、2024年12月の藻類の回復（密度が前年比79.3%増）がADPの25.0%減少と一致したことである。これは、小型細胞のシアノバクテリアの大幅な増加が、1細胞あたり7～8倍多くのリンを含む大型細胞の珪藻類のはるかに小さな減少によって相殺されたためである。これらの知見は、太湖においてADPがTPの主要構成要素であり、藻類バイオマス（量）と、群集の細胞サイズ構造によって決定される群集加重細胞特異的リン含有量（質）という、機構的に異なる2つの制御要因によって支配されており、これらが相反する方向に作用し得ることを示している。したがって、藻類群集構造は湖のリンの能動的な調節因子として機能しており、リン管理においては藻類密度と併せて考慮する必要がある。"
   }
 ]
