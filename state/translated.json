@@ -217086,5 +217086,335 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "スティル川（ウクライナ）における下水放流下流の植物プランクトン群集の栄養塩および有機物駆動型再編成",
     "abstract_ja": "要旨　本研究では、原子力発電所からの排水排出の影響を受けるシュティル川における植物プランクトン群集の変化を調査した。目的は、排水排出に伴う栄養塩負荷が、植物プランクトンの種組成、個体数、バイオマス、および群集構造に及ぼす影響を評価することであった。試料は2024年5月から8月にかけて、排水排出地点の上流および下流に位置する2か所の河川地点で採取した。水試料について、溶存有機炭素（DOC）、全窒素（TN）、および全リン（TP）の分析を行った。UV–Vis光学指標は、より芳香族的で高分子量のDOM特性へと下流方向にシフトしていることを示しており、これは溶存有機物プールの組成変化と一致していた。植物プランクトンについては、個体数、バイオマス、平均細胞バイオマス、および分類学的構造の観点から評価した。水化学的変数と生物学的変数の関係を調べるため、相関分析および主成分分析（PCA）を用いた。排出地点の下流では、基準地点と比較して、DOC、TN、およびTPの濃度がそれぞれ19.4%、56.5%、72.7%増加した。このような背景のもと、植物プランクトンの個体数は3.0 × 10⁶から0.5 × 10⁶ cells dm⁻³へと減少し、バイオマスは0.70から0.15 mg dm⁻³へと減少した。同時に、平均細胞バイオマスは増加しており、群集のサイズ構造のシフトが示された。上流ではバクイラリオ藻類が優占し、総個体数の79%、総バイオマスの85%を占めていた。下流では緑藻類およびミドリムシ類が優勢となり、一方で珪藻の寄与は著しく低下した。腐生指数は1.96から2.61へと上昇し、有機物負荷の増加を示した。相関分析の結果、栄養塩濃度とバクイラリオ藻類との間には負の関係が認められたが、緑藻類およびミドリムシ類との間には正の関係が認められた。PCAにより、栄養勾配に沿って植物プランクトン群集が明確に空間的に分離していることが確認された。総じて、排水影響域における有機物および栄養塩濃度の増加は、珪藻の寄与の減少と、有機汚染耐性分類群の寄与の増加を特徴とする植物プランクトン群集の再構造化を伴っていた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10972339/v1",
+    "title": "Self-organized colloidal growth of stromatolites",
+    "abstract": "Abstract  Stromatolites have been widely regarded as key biosignatures of early life, yet the controls on their morphogenesis and diversity remain poorly constrained. Here, we investigate Mesoproterozoic ironstones from North China featuring stromatolitic structures and composed of laminated Fe(III)-oxyhydroxide colloids. Microstructural observations and colloidal stability calculations indicate that terrestrial colloids flocculated rapidly upon mixing with seawater in an estuarine environment and aggregated on the seafloor. We then numerically simulate the forming processes of stromatolites via diffusion-limited aggregation and surface diffusion (DLA–SD) mechanism and reveal that stromatolitic morphogenesis is primarily controlled by depositional and aggregation dynamics of colloids, which are related to geochemical and hydrodynamic conditions in estuaries. This DLA–SD framework also provides quantitative insights into the microbial sediment-trapping mechanisms for the formation of carbonate stromatolites and reveals that the diversification of morphologies of stromatolite were linked to the evolution of oceanic chemistry and microbial communities throughout the Earth history.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10972339/v1",
+    "date": "2026-11-04",
+    "authors": "Zhou M, Qiu W, Ballhaus C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358036",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "estuarine",
+          "ocean",
+          "seawater"
+        ],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 972,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10972339/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2724d08d95ea24b248392271ca8d8ee1ab420c95454c3bf3f34db3afc05f8068",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:46:40.331880+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "01ac6f1ae4933278a1026d7ac5c31e235f1578f9eee7aef4149e515be6591cdf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:46:40.331880+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ストロマトライトの自己組織化コロイド成長",
+    "abstract_ja": "要旨　ストロマトライトは初期生命の重要なバイオシグネチャーとして広く認識されてきたが、その形態形成と多様性を制御する要因については依然として十分に解明されていない。本研究では、ストロマトライト構造を有し、積層状のFe(III)-オキシ水酸化物コロイドで構成される中国北部の中原生代鉄鉱石について調査した。微細構造観察およびコロイド安定性計算の結果、河口域環境において陸域由来のコロイドが海水と混合した際に速やかに凝集し、海底で集積することが示された。次いで、拡散限定凝集および表面拡散（DLA–SD）機構を介してストロマトライトの形成過程を数値的にシミュレーションし、ストロマトライトの形態形成が主にコロイドの堆積・凝集ダイナミクスによって制御されており、それが河口域における地球化学的・流体力学的条件に関連していることを明らかにした。このDLA–SDフレームワークは、炭酸塩ストロマトライト形成における微生物の堆積物捕捉機構に関する定量的な知見を提供するとともに、ストロマトライトの形態の多様化が、地球史を通じた海洋化学および微生物群集の進化に関連していたことを明らかにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0358.v1",
+    "title": "Antimicrobial Nanoparticles Against Resistant Bacteria and Biofilms: From Material Design to Clinical Translation",
+    "abstract": "Antimicrobial resistance (AMR) and biofilm-associated infections continue to compromise the effectiveness of conventional antibiotics, highlighting the need for complementary therapeutic approaches. Nanoparticle-based systems offer two distinct but potentially convergent strategies: direct antibacterial activity and improved delivery of antimicrobial agents. This narrative review critically examines inorganic, organic, and hybrid nanoplatforms, including metal and metal-oxide nanoparticles, carbon-derived materials, mesoporous silica, polymeric carriers, lipid-based systems, and stimuli-responsive formulations. Their mechanisms of action, physicochemical determinants of efficacy, and potential applications against multidrug-resistant bacteria and biofilm-associated infections are discussed. Particular attention is given to the distinction between bacterial resistance, tolerance, and persistence, as well as the challenges associated with nanoparticle penetration, antimicrobial synergy, and reproducible antibacterial activity. Although preclinical findings demonstrate considerable therapeutic potential, translation into clinical practice remains limited. Inhaled liposomal amikacin illustrates the clinical relevance of indication-specific nanodelivery, while emphasizing that therapeutic benefits cannot be generalized across nanoparticle formulations. Major challenges include cytotoxicity, bacterial adaptation, biodistribution, stability in biological environments, manufacturing scalability, regulatory requirements, and environmental safety. Future research should prioritize standardized characterization, clinically relevant infection models, robust comparisons with conventional treatments, and integrated assessments of safety and resistance evolution. Within a One Health framework, nanoparticle-based technologies may contribute to more effective antimicrobial therapies, provided that their development is guided by demonstrable clinical benefits, responsible antimicrobial use, and consideration of their broader environmental impact.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0358.v1",
+    "date": "2026-11-04",
+    "authors": "Ferraz MP.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360052",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2254,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0358.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a5f83c67e92a50737eab0a58a9fda327590a11200e5267c7141f247327cb7692",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:46:40.331880+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "13a2c77c2bb75ee23ee4feeca855fadbaa8c3932e980debc0f09f5fe16fc56a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:46:40.331880+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "耐性菌およびバイオフィルムに対する抗菌ナノ粒子：材料設計から臨床応用まで",
+    "abstract_ja": "薬剤耐性（AMR）およびバイオフィルム関連感染症は、従来の抗菌薬の有効性を損ない続けており、補完的な治療アプローチの必要性を浮き彫りにしている。ナノ粒子ベースのシステムは、直接的な抗菌活性と抗菌薬の送達向上という、異なるが潜在的に相乗的な2つの戦略を提供する。本ナラティブレビューでは、金属および金属酸化物ナノ粒子、炭素由来材料、メソポーラスシリカ、高分子キャリア、脂質ベースのシステム、および刺激応答性製剤を含む、無機、有機、およびハイブリッドナノプラットフォームを批判的に検討する。それらの作用機序、有効性の物理化学的決定要因、ならびに多剤耐性菌およびバイオフィルム関連感染症に対する潜在的な応用について論じる。特に、細菌の耐性、耐性化、および持続性の区別に加え、ナノ粒子の浸透、抗菌薬の相乗効果、および再現性のある抗菌活性に関連する課題に焦点を当てる。前臨床研究の結果は相当な治療ポテンシャルを示しているものの、臨床現場への実用化は依然として限定的である。吸入用リポソームアミカシンは、適応症特化型のナノデリバリーの臨床的意義を示すと同時に、治療上の利点をナノ粒子製剤全般に一般化することはできない点を強調している。主な課題としては、細胞毒性、細菌の適応、生体分布、生物学的環境における安定性、製造のスケーラビリティ、規制要件、および環境安全性が挙げられる。今後の研究では、標準化された特性評価、臨床的に意義のある感染症モデル、従来の治療法との堅牢な比較、ならびに安全性と耐性進化の統合的評価を優先すべきである。ワンヘルス（One Health）の枠組みにおいて、ナノ粒子ベースの技術は、実証可能な臨床的利点、責任ある抗菌薬の使用、およびより広範な環境影響への配慮に基づいた開発が行われる限り、より効果的な抗菌療法に寄与し得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0384.v1",
+    "title": "The Good, the Bad, the Ugly (and the Blind): The Role of Aryl Hydrocarbon Receptor in Health and Disease",
+    "abstract": "Chronic inflammation and subfertility converge on a number of ligand-dependent transcription factors induced by chemically heterogeneous environmental exposures. Foremost among them is the aryl hydrocarbon receptor (AhR), of the basic helix-loop-helix (bHLH)–PER-ARNT-SIM (PAS) superfamily. Identified first as the receptor for dioxins and long regarded as a mediator of xenobiotic toxicity, AhR is now established as a regulator of physiological homeostasis, responding to microbial, dietary, phytochemical substances and endogenously generated metabolites. In this review, we examine AhR ligands and the transcriptional programmes they elicit, organising the evidence around one distinction: whether a ligand is a substrate for the cytochrome P450 enzymes it induces, and therefore self-limiting, or whether it persists and converts a single exposure into a chronic stimulus. We follow the receptor through the gastrointestinal tract, skin and adipose tissue; through the eye, where biallelic loss-of-function genetic variants cause foveal hypoplasia and retinitis pigmentosa and through the reproductive axis, where AhR sets ovarian aromatase expression, follicular recruitment, spermatogenesis and trophoblast invasion. Spanning the good, the bad, the ugly and the blind, we argue that therapeutic progress depends not on deciding whether to activate or inhibit AhR, but on confining modulation to a defined tissue, ligand residence time and transcriptional output.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0384.v1",
+    "date": "2026-11-04",
+    "authors": "Semerikova T, Dakhnevich A, Aftabsavad S, Galieva A, Egorov AD.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360022",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2373,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0384.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "631e9504d323980cf80791680866456b3263295b4a0d04bb83b962b47fea635d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:46:40.331880+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8bb0e064635a9a5118927438e3334d67b599866c79138d3cfb468bd702481c0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:46:40.331880+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "善玉、悪玉、醜い奴（そして盲目の奴）：健康と疾患におけるアリール炭化水素受容体の役割",
+    "abstract_ja": "慢性炎症と不妊症は、化学的に不均一な環境曝露によって誘導される、数多くのリガンド依存性転写因子に集約される。その最たるものが、基本ヘリックス・ループ・ヘリックス（bHLH）–PER-ARNT-SIM（PAS）スーパーファミリーに属するアリール炭化水素受容体（AhR）である。当初はダイオキシン類の受容体として同定され、長らく外来性毒性の媒介因子と見なされてきたが、現在ではAhRは、微生物、食事、植物化学物質、および内因的に生成される代謝物に応答する、生理的恒常性の調節因子として確立されている。本総説では、AhRリガンドとそれらが惹起する転写プログラムについて検討し、「リガンドが誘導するシトクロムP450酵素の基質となり、したがって自己限定的であるか、あるいは持続して単一の曝露を慢性刺激へと転換させるか」という一つの区別を軸にエビデンスを整理する。我々は、この受容体が消化管、皮膚、脂肪組織を経由する過程、ならびに、二アレル性の機能喪失型遺伝子変異が中心窩低形成や網膜色素変性症を引き起こす眼における過程、そしてAhRが卵巣アロマターゼの発現、卵胞動員、精子形成、および栄養膜細胞浸潤を制御する生殖軸における過程を辿る。「善」「悪」「醜」「盲目」にわたるこれらの様相を踏まえ、治療の進展は、AhRを活性化するか抑制するかの判断ではなく、調節を特定の組織、リガンドの滞留時間、および転写出力に限定できるかどうかにかかっていると論じる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11057485/v1",
+    "title": "Genomic and plasmid-level identity between an environmental Klebsiella pneumoniae isolate from India and the high-risk clinical clone HS11286: a comparative genomic analysis of the K. pneumoniae species complex",
+    "abstract": "Abstract    Background  Klebsiella pneumoniae is a leading cause of multidrug-resistant infection, and its persistence in environmental reservoirs is increasingly recognized as a One Health concern. Objectives  To characterize the genomic relatedness of clinical and environmental K. pneumoniae species complex isolates from India to the internationally significant high-risk clinical strain HS11286. Methods  Eleven publicly available  K. pneumoniae  species complex genomes from clinical, river, lake, raw milk, and soil sources were typed using Kleborate and compared by pan-genome (Panaroo) and core-genome phylogenetic analysis (IQ-TREE), average nucleotide identity (fastANI), plasmid replicon typing (PlasmidFinder), and accessory-genome Jaccard similarity. Results  One river water isolate, DCP2, shared sequence type ST11, capsule locus KL103 and O-locus OL2α.1 with HS11286, with a whole-genome average nucleotide identity of 99.99%, the highest pairwise value in the dataset. The two isolates formed a fully supported sister pair (bootstrap = 100) with near-zero branch length, shared an identical complement of five plasmid replicon types at matching sequence identity, and carried the same nine resistance gene classes, including KPC-2 and rmtB. Accessory-genome Jaccard similarity between HS11286 and DCP2 was 0.9956, with 436 accessory genes shared exclusively by this pair. Conclusions  DCP2 and HS11286 represent the same clonal lineage, sharing near-identical core, accessory and plasmid genomic content despite different countries and years of isolation, providing genomic evidence that environmental water can harbour, and potentially disseminate, high-risk clinical K. pneumoniae clones.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11057485/v1",
+    "date": "2026-11-04",
+    "authors": "Ayesha N, Nair SSD.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358268",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_genome_method",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [
+          "lake",
+          "river"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2412,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11057485/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7adf310fb23aa6e90e49024e8cd1da420d02ab1eaf49b8656c042d986bb119c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:46:40.331880+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "91d7c7c7ddfdebfc986ea357023a268652de55ea527d21ccda729ed1a5f98f87",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:46:40.331880+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インド由来の環境分離株Klebsiella pneumoniaeと高リスク臨床クローンHS11286のゲノムおよびプラスミドレベルにおける同一性：K. pneumoniae種複合体の比較ゲノム解析",
+    "abstract_ja": "要旨    背景  Klebsiella pneumoniaeは多剤耐性感染症の主要な原因であり、環境リザーバーにおける持続性は、ワンヘルス（One Health）上の懸念としてますます認識されるようになっている。目的  インド由来の臨床および環境由来のK. pneumoniae種複合体分離株と、国際的に重要な高リスク臨床株HS11286とのゲノム関連性を明らかにすること。方法  臨床、河川、湖沼、生乳、および土壌由来の、公開されている11株のK. pneumoniae種複合体ゲノムをKleborateを用いてタイピングし、パンゲノム（Panaroo）およびコアゲノム系統解析（IQ-TREE）、平均塩基同一性（fastANI）、プラスミドレプリコンタイピング（PlasmidFinder）、およびアクセサリーゲノムJaccard類似度により比較した。結果  河川水由来の分離株DCP2は、HS11286と配列型ST11、莢膜遺伝子座KL103、およびO遺伝子座OL2α.1を共有しており、全ゲノム平均塩基同一性は99.99%で、本データセットにおけるペアワイズ値の中で最高値であった。これら2株は、分岐長がほぼゼロで完全に支持された姉妹ペア（bootstrap = 100）を形成し、一致する配列同一性において5種類のプラスミドレプリコン型の同一の相補セットを共有し、KPC-2およびrmtBを含む同一の9つの耐性遺伝子クラスを有していた。HS11286とDCP2のアクセサリーゲノムJaccard類似度は0.9956であり、このペアのみで共有されるアクセサリー遺伝子は436個であった。結論  DCP2とHS11286は、分離された国や年が異なるにもかかわらず、ほぼ同一のコア、アクセサリー、およびプラスミドゲノム内容を共有する同一のクローン系統であり、環境水中に高リスクの臨床用K. pneumoniaeクローンが潜伏し、潜在的に拡散し得ることを示すゲノム上の証拠を提示している。"
   }
 ]
