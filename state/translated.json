@@ -223156,5 +223156,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "堆肥関連微生物叢は根の転写応答を調節し、トマトの耐乾性を高める",
     "abstract_ja": "要旨  堆肥は、多様な微生物群集を宿しながら養分と有機物を供給するため、鉱物肥料に代わる有望な持続可能な代替手段である。しかし、植物への施用によってさまざまな生物的・非生物的ストレスが軽減されることが実証されているとはいえ、その有益性が物理化学的特性に起因するのか、付随する微生物叢に起因するのか、あるいはその両方によるものなのかは依然として不明である。本研究では、トマト品種cv. Micro-Tomを用い、堆肥、無菌堆肥、および同等の多量要素供給を行うNPK処理が及ぼす影響を比較した。最適条件下における葉の生理学的パラメータおよび根の分子応答を評価した後、3種類の施肥処理条件下で乾燥ストレス実験を行い、さらに基質の保水特性の調査によって解析を補完した。すべての施肥処理において、養分に乏しい土壌と比較して植物の生育成績は向上したが、RNAシーケンシングにより、堆肥、無菌堆肥、およびNPK処理の間で根の転写プロファイルに明確な差異が認められ、堆肥処理ではホルモンシグナル伝達、養分代謝、ストレス応答など、植物の成長と健康に関連する複数の経路が亢進していた。深刻な水ストレス条件下において、堆肥処理を施した植物は他の処理と比較して最高の光合成効率を維持し、最高の有効水分量を示した。これらの知見は、基質の水分利用可能性と堆肥付随微生物叢の複合的な効果により、堆肥がトマトの乾燥耐性を高める可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763619",
+    "title": "Molecular insights into the regulation of coenzyme selection in NADP-specific glutamate dehydrogenase from  Saccharomyces cerevisiae",
+    "abstract": "Coenzyme specificity is one of the crucial aspects of the functional regulations in enzymes. Understanding the molecular basis of coenzyme specificity in glutamate dehydrogenase (GDH) is highly essential as this is the only enzyme that fulfils various physiological demands in terms of energy production and/or nitrogen assimilation via its strict functional regulation by connecting carbon and nitrogen metabolic cycles in every living organism. We have studied  S. cerevisiae GDH3 (ScGDH3), as a model system for NADP-specific fungal GDHs. K272R and S250E mutants of ScGDH3 exhibited remarkable alteration in coenzyme specificity, with 15-55-fold and 3-14-fold more preference towards non-specific coenzymes [NAD(H)], respectively. S250E exhibited higher NADH affinity (∼ 1.3-fold) than that of towards NADPH. K272R showed ∼ 10-fold increased coenzyme affinity (  1/K  M ) and binding affinity (  1/k  d ) towards NADH, compared to the wild type enzyme (ScGDH3-WT). We solved the crystal structure of ScGDH3-K272R complexed with NADP  + at 2.50 Å resolution with a unique oligomeric arrangement having two distinct subunit conformations (“open” and “super-closed”) and it is the first structure of a GDH from  S. cerevisiae . Molecular dynamics (MD) simulations provide insights into NADH binding and its increased affinity to ScGDH3-K272R. Further structure-based sequence analyses unravelled that a lysine and an arginine are naturally preferred residues for providing NADP(H) and NAD(H) specificity, respectively for various amino acid dehydrogenases. Taken together biochemical and structural data, our study successfully illustrates the evolutionary conserved mechanism of coenzyme related regulation in fungal and other GDHs; as well as amino acid dehydrogenases.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763619",
+    "date": "2026-11-03",
+    "authors": "Banerjee A, Roy A, Saha S, Godsora BKJ, Bhaumik P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357569",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2232,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763619"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ee285cadfac2d0c1e23be97c97b5c3cd739a10c0842592ccccac8f247670b09d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:49:08.865819+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "07e774824c395d292192e56f921421b5871eec755f4deea40cda5c8a4bb496ed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:49:08.865819+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Saccharomyces cerevisiae由来NADP特異的グルタミン酸脱水素酵素における補酵素選択の制御に関する分子生物学的知見",
+    "abstract_ja": "補酵素特異性は、酵素における機能調節の極めて重要な側面の一つである。グルタミン酸脱水素酵素（GDH）における補酵素特異性の分子基盤を理解することは極めて重要である。なぜなら、GDHは、あらゆる生物において炭素代謝サイクルと窒素代謝サイクルを連結させる厳格な機能調節を通じて、エネルギー産生および／または窒素同化に関する多様な生理学的要求を満たす唯一の酵素だからである。我々は、NADP特異的な真菌GDHのモデル系として、S. cerevisiae GDH3（ScGDH3）について研究を行った。ScGDH3のK272RおよびS250E変異体では、補酵素特異性に顕著な変化が認められ、非特異的補酵素［NAD(H)］に対してそれぞれ15～55倍および3～14倍の選好性を示した。S250Eは、NADPHに対する親和性よりも高いNADH親和性（約1.3倍）を示した。K272Rは、野生型酵素（ScGDH3-WT）と比較して、NADHに対する補酵素親和性（1/K M）および結合親和性（1/k d）が約10倍に増加していた。我々は、NADP+と複合体を形成したScGDH3-K272Rの結晶構造を2.50 Åの分解能で決定した。この構造は、2つの異なるサブユニットコンフォメーション（「オープン」および「スーパークローズド」）を有する独自のオリゴマー配置を示しており、S. cerevisiae由来のGDHとしては初の構造解析となる。分子動力学（MD）シミュレーションにより、NADH結合およびScGDH3-K272Rに対する親和性の向上に関する知見が得られた。さらに、構造に基づく配列解析により、さまざまなアミノ酸脱水素酵素において、リシンとアルギニンがそれぞれNADP(H)およびNAD(H)特異性を付与するための天然の優先残基であることが明らかになった。生化学的データと構造的データを総合すると、本研究は、真菌およびその他のGDH、ならびにアミノ酸脱水素酵素における補酵素関連調節の進化的に保存された機構を実証することに成功した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763652",
+    "title": "Establishing  de novo  microbial biosynthesis of anisole",
+    "abstract": "ABSTRACT  Anisole is a valuable aromatic ether and promising green solvent whose industrial manufacture relies exclusively on petroleum-derived phenol and hazardous alkali-mediated methylation. Here, we establish the first  de novo microbial biosynthesis of anisole from glucose in  Pseudomonas putida KT2440 by integrating retrosynthetic pathway design with growth-coupled directed evolution. Using a selection platform in an engineered double auxotroph, in which growth depends on S-adenosylmethionine-dependent methylation, we evolved a promiscuous plant chavicol O-methyltransferase to yield phenol O-methyltransferase 1 (POMT1; bearing a key D264N substitution), which improved anisole production by 2.3-fold over the wild-type enzyme. To overcome product volatility, we integrated an  in situ two-phase extraction system using dodecane that achieved near-quantitative product recovery. Then, we compared two phenol routes from the shikimate pathway, selected the 4-hydroxybenzoate route, and raised precursor supply by deleting competing reactions and introducing feedback-resistant and reduced-flux variants in two shikimate pathway enzymes. The final strain produced up to 0.57 mM anisole (62 mg/L) from glucose.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763652",
+    "date": "2026-11-03",
+    "authors": "Bruinsma L, Rosas Gomez D, La Rocca C, Escrig Molina JE, Martins dos Santos VAP, Batianis C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357524",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2234,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763652"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ae738992915f25574e749c59e80952abf4609465c81d219629c45f5d84d1db66",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:49:08.865819+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "beb186f36e927c1f2abdb56ab90bd5e83ea04183b148179441755c39936e285f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:49:08.865819+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アニソールの微生物によるde novo生合成の確立",
+    "abstract_ja": "要旨　アニソールは有用な芳香族エーテルであり、有望なグリーン溶媒であるが、その工業的製造は石油由来のフェノールおよび有害なアルカリ介在性メチル化のみに依存している。本研究では、レトロ合成経路設計と増殖共役型指向性進化法を統合することにより、Pseudomonas putida KT2440におけるグルコースからのアニソールの初のde novo微生物生合成を確立した。増殖がS-アデノシルメチオニン依存性メチル化に依存する改変二重栄養生物を用いた選抜プラットフォームにより、プロミシュアス型植物チャビコールO-メチルトランスフェラーゼを進化させ、フェノールO-メチルトランスフェラーゼ1（POMT1；鍵となるD264N置換を有する）を得た。これにより、野生型酵素と比較してアニソール生産量が2.3倍に向上した。生成物の揮発性を克服するため、ドデカンを用いたin situ二相抽出系を組み込み、ほぼ定量的な生成物回収を実現した。次いで、シキミ酸経路由来の2つのフェノール経路を比較し、4-ヒドロキシ安息香酸経路を選択し、競合反応の除去および2つのシキミ酸経路酵素へのフィードバック耐性型および還元フラックス型変異体の導入によって前駆体供給量を増加させた。最終株は、グルコースから最大0.57 mMのアニソール（62 mg/L）を生産した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.3897/arphapreprints.e221892",
+    "title": "How to name dark fungal taxa outside the Code: The International Standard to Catalogue Dark Fungal Taxa (ISCDFT)",
+    "abstract": "There is an exponential increase in the number of fungal OTUs being documented by environmental DNA (eDNA) metabarcoding. Many of these, the so-called dark fungal taxa (DFT), are known only from eDNA data, with no associated physical specimen or derived culture. Of the millions of fungal species predicted to exist, only ~205,000 are currently described, making it likely that many of these unknown or undescribed fungi are represented only by eDNA data. For more than a decade mycologists have struggled with whether the  International Code of Nomenclature for algae, fungi, and plants (the  Code ) should allow for formal description of fungal taxa from eDNA data alone, i.e. with a DNA sequence serving as a type. It is, however, unlikely that an amendment to the  Code with this provision will pass in the near future. It is therefore imperative to establish an informal yet structured naming system to allow unified communication about DFT. The system proposed herein applies most of the principles of the  Code to generate designations that, while nomenclatorially invalid, can nonetheless be integrated into fungal classifications and diversity assessments. We used the 2025 Westerdijk Spring Symposium \"DNA Sequences as Type\" to bring mycologists together to work out community consensus-driven conventions and standards for what we call the International Standard to Catalogue Dark Fungal Taxa (ISCDFT). The established guidelines principally refer to naming conventions, quality and standards for the underlying data, and standards regarding the underlying analysis leading to the detection of new DFT. The ISCDFT does not compete with the  Code but enables the community to catalogue DFT and integrate these into fungal classifications while adhering to broadly established principles. For ease of immediate implementation, we provide examples to illustrate these newly established guidelines, a checklist for publishing new DFTs under the ISCDFT, and convert some previously published fungal names based on eDNA sequences to ISCDFT-compliant names.",
+    "journal": "",
+    "doi": "10.3897/arphapreprints.e221892",
+    "date": "2026-11-03",
+    "authors": "Aime MC, Kõljalg U, May T, Bensch K, Bradshaw M, Cardinali G, Crous P, Groenewald E(, Guzman-Davalos L, Hawksworth D, Hernández-Restrepo M, Hibbett D, Hyde KD, Malosso E, Nilsson RH, Rosling A, Schoutteten N, Stadler M, Vasco-Palacios A, Visagie C, Wijayawardene N, Yurkov A, Abarenkov K, Ariyawansa H, Araújo J, Baschien C, Bakhshi M, Bendiksby M, Chuvochina M, Conti A, D'hooge E, Flores-Almaraz V, Furneaux B, Griffith G, Hernández-Hernández D, Houbraken J, Jones EBG, Kirk P, Marin-Felix Y, Meyer W, Pyrri I, Rämä T, Robert V, Steenwyk J, Stephens D, Tedersoo L, Thines M, Vu D, Xu J, Zhang N, Lücking R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357352",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2236,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3897/arphapreprints.e221892"
+    ],
+    "translation": {
+      "title": {
+        "hash": "beab78f66323fffc143b2b798215bd37f20b0d4dca4238a914c1bbe61e11a18b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:49:08.865819+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0f90423ca97096a7bfc17f46966bffae210e6197452fa58b7bd96e1a9adb7c15",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:49:08.865819+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Code: The International Standard to Catalogue Dark Fungal Taxa (ISCDFT) 以外での暗色菌類分類群の命名法",
+    "abstract_ja": "環境DNA（eDNA）メタバーコーディングによって記録される真菌OTUの数は、指数関数的に増加している。これらのうち、いわゆる「暗黒真菌分類群（DFT）」の多くは、関連する実物標本や得られた培養物が存在せず、eDNAデータのみから知られている。存在が予測されている数百万種の真菌のうち、現在記載されているのは約20万5,000種に過ぎず、これら未知または未記載の真菌の多くは、eDNAデータのみによって代表されている可能性が高い。10年以上にわたり、菌類学者たちは、藻類・真菌・植物国際命名規約（以下「本規約」）において、eDNAデータのみ、すなわちDNA配列をタイプとして用いることによる真菌分類群の正式な記載を認めるべきかどうかという課題に取り組んできた。しかしながら、このような規定を盛り込んだ本規約の改正が近い将来に可決される可能性は低い。したがって、DFTに関する統一的なコミュニケーションを可能にするため、非公式ながらも体系的な命名体系を確立することが不可欠である。本稿で提案する体系は、本規約の原則の大部分を適用し、命名法上は無効であるものの、真菌の分類や多様性評価に組み込むことが可能な指定名を生成するものである。我々は、2025年のWesterdijk Spring Symposium「DNA Sequences as Type」において、菌類学者を集め、我々が「暗黒真菌分類群カタログ国際標準（ISCDFT）」と呼ぶもののための、コミュニティの合意に基づく慣例および標準を策定した。策定されたガイドラインは、主に命名慣例、基礎データの品質と標準、および新規DFTの検出に至る基礎解析に関する標準について規定している。ISCDFTは本規約と競合するものではなく、広く確立された原則を遵守しつつ、コミュニティがDFTをカタログ化し、それらを真菌分類に組み込むことを可能にするものである。即時の導入を容易にするため、我々はこれらの新たに策定されたガイドラインを例示する事例、ISCDFTに基づく新規DFTの公表用チェックリストを提供し、eDNA配列に基づいて以前に公表された一部の真菌名をISCDFT準拠の名称に変換する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11281673/v1",
+    "title": "A multidimensional “omics” approach reveals biased signaling through flg22- and UDP-glucose-induced, AtRGS1-driven signaling circuits",
+    "abstract": "Abstract  Different cellular inputs into a central signaling core elicit different outputs in a process called biased signaling. Often this occurs by imprinting the signaling core with a phosphorylation bar code, functionally analogous to a microprocessor. The bacterial peptide flg22 and UDP-glucose both utilize a heterologous G protein core that contains a 7-transmembrane RGS protein, AtRGS1, to mediate changes differentially in plant defense and growth. Both flg22 and UDP-glucose launch rapid endocytosis of AtRGS1 at the plasma membrane but the destination and route are signal specific. flg22 directs plasma membrane AtRGS1 to the nucleus followed by different gene expression profiles. UDP-glucose does not direct AtRGS1 to the nucleus and does not elicit transcriptional reprogramming. Instead, UDP-glucose causes a massive, time-dependent restructuring of the G protein complex that likely traffics to the endosomal compartment. Associated with these two outcomes are phosphorylation bar codes that correlate with different patterns of AtRGS1-associated partners over time.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11281673/v1",
+    "date": "2026-11-03",
+    "authors": "Walley J, Li Z, Simoni E, Yang J, Montes C, Jones A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356273",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2237,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11281673/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7ee07fa1e4d990d66ee1a9772dfa3b87b173f45aa70b99c880978c69efcff70e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:49:08.865819+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "11c8fde065af8c74bfacacaedab3c412b6cd8d59ab490098243ff40d5fb751e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:49:08.865819+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多次元的な「オミクス」アプローチにより、flg22およびUDP-グルコース誘導性のAtRGS1駆動型シグナル伝達回路を介したシグナル伝達の偏りが明らかとなった。",
+    "abstract_ja": "要旨　中枢性シグナル伝達コアへの異なる細胞入力は、「バイアスシグナル伝達」と呼ばれるプロセスにおいて、それぞれ異なる出力を惹起する。多くの場合、これはシグナル伝達コアにリン酸化バーコードを刻印することで起こり、これは機能的にマイクロプロセッサに相当する。細菌ペプチドflg22およびUDP-グルコースは、いずれも7回膜貫通型RGSタンパク質AtRGS1を含む異種Gタンパク質コアを利用し、植物の防御および成長において差異的な変化を媒介する。flg22とUDP-グルコースはともに、細胞膜においてAtRGS1の迅速なエンドサイトーシスを誘導するが、その標的および経路はシグナル特異的である。flg22は細胞膜のAtRGS1を核へと誘導し、その後異なる遺伝子発現プロファイルをもたらす。UDP-グルコースはAtRGS1を核へと誘導せず、転写リプログラミングも惹起しない。その代わりに、UDP-グルコースはGタンパク質複合体の大規模な時間依存的再構成を引き起こし、この複合体はおそらくエンドソーム区画へと輸送される。これら2つの結果に関連して、時間の経過とともにAtRGS1関連パートナーの異なるパターンと相関するリン酸化バーコードが存在する。"
   }
 ]
