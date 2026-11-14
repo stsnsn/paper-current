@@ -210747,5 +210747,352 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "MOCHIは、ショートリードRNA-seqデータから独立したイントロン転写シグナル候補を系統的に同定することを可能にする。",
     "abstract_ja": "標準的なショートリードRNA-seq解析パイプラインは、アノテーション済みエクソン上の発現量を定量化し、イントロンにマッピングされたシグナルを無視するため、独立して転写されたイントロンRNAを見逃す。既存の手法は、アノテーション、生物学的に粗いイントロン全体の定量化、あるいは主観的でスループットの低い手動によるゲノムブラウザ検査に依存している。本研究では、リファレンス非依存的なk-merベースのシグナル探索と、リファレンス誘導型のゲノム解釈、およびカスタムの多段階フィルタリングモジュールを組み合わせたフレームワークMOCHI（Mapping of Cryptic Hidden Intronic Transcripts）を提案する。これにより、ストランド特異的なショートリードRNA-seqデータから、潜在的な独立イントロン転写単位を系統的にキュレートする。2つのシミュレーションデータセットにおいて、MOCHIはリファレンスから除外されたアノテーション済みセンスイントロン長鎖非コードRNAを回収し、それらをイントロンシグナルのコンファウンダーから区別した。10種類のがん細胞株由来の、リボソームRNA除去およびポリ(A)選択を施したペアライブラリにおいて、MOCHIはホストイントロンに転写開始シグナルが強く濃縮されている候補をキュレートした。候補の発現はホスト遺伝子のエクソンから概ね独立しており、そのゲノム特性はアノテーション済み長鎖非コードRNAに類似している。The Cancer Genome Atlasの10のマッチドコホートにおいて、腫瘍サンプルから候補が検出され、年齢およびホスト遺伝子発現を調整した後、そのサブセットが全生存期間と関連していた。したがって、MOCHIは既存のショートリードRNA-seqデータからマイニング可能なトランスクリプトームのランドスケープを拡張し、ダウンストリーム解析のための候補イントロン転写産物のキュレート済みリソースを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.32942/x2q988",
+    "title": "The Geography of Speciation Across Andean-Centred Clades",
+    "abstract": "Aim:  Mountains harbour a disproportionate share of global biodiversity, yet the geographic pathways through which this diversity arises remain debated. In the Andes, diversification has been linked both to geographic isolation generated by complex topography and climatic dynamics, and to ecological divergence across steep environmental gradients. Here, we assess the predominant geographic modes of speciation across Andean-centred clades using a large-scale comparative framework, while evaluating how alternative representations of species distributions influence macroevolutionary inference. Location: Andes, South America. Taxon: A total of 102 Andean-centred genera of animals, plants, and fungi. Methods: We combined time-calibrated phylogenies with species distribution data derived from two alternative spatial representations: concave polygons and potential distribution models. For each genus, we estimated 13 summary metrics capturing range overlap, range asymmetry, and phylogenetic structure. We then used simulation-trained, likelihood-free classification approaches, including linear discriminant analysis and two approximate Bayesian computation methods, to assign each clade to its most probable geographic mode of speciation: vicariant, peripatric, parapatric, sympatric, or mixed geographic scenarios. Results: Across clades, overlap-associated scenarios, corresponding to parapatric or sympatric classifications, were inferred as predominant in 57–67% of genera, whereas strictly allopatric scenarios, that is, vicariant or peripatric speciation, accounted for 23–30%, depending on the spatial representation and classification method used. Sympatric scenarios alone were inferred in 38–52% of genera, particularly when potential distribution models were used. At least one-third of clades showed congruent classifications across both analytical methods and spatial representations. However, several genera were sensitive to how species distributions were represented, with some shifting between allopatric and sympatric classifications depending on the spatial input used. Main Conclusions: Our results suggest that Andean diversification has not followed a single dominant geographic pathway, but instead reflects a mosaic of spatial contexts involving both isolation-driven and overlap-associated scenarios. However, classifications as parapatric or sympatric should be interpreted as hypotheses of geographic overlap during lineage divergence, rather than as direct evidence of speciation with gene flow. By shifting from single-clade case studies to a broad multi-taxon comparative perspective, this study suggests that the geography of Andean speciation reflects a heterogeneous process shaped by multiple spatial pathways to lineage divergence, while identifying candidate clades for future phylogeographic, ecological, cytogenetic, and population genomic studies of mountain biodiversity.",
+    "journal": "",
+    "doi": "10.32942/x2q988",
+    "date": "2026-11-06",
+    "authors": "Ramos Torres A, Molina-Henao YF.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360886",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 596,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.32942/x2q988"
+    ],
+    "translation": {
+      "title": {
+        "hash": "284f7de922e9fbe78b90491694070b88c9103c8213da11b08915bacf21d6079f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:29:56.106633+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0d751c90b33d53293b82d9be88b6f640b1969c297b9f221928be82348432e44f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:29:56.106633+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アンデスを中心とするクレードにおける種分化の地理学",
+    "abstract_ja": "目的：山岳地帯は地球規模の生物多様性において不釣り合いに大きな割合を占めているが、この多様性が生じる地理的経路については依然として議論が分かれている。アンデス山脈では、多様化が、複雑な地形や気候動態によって生じた地理的隔離と、急峻な環境勾配にわたる生態学的分化の両方に関連付けられてきた。本研究では、大規模な比較枠組みを用いて、アンデス山脈を中心とするクレードにおける主要な地理的種分化様式を評価するとともに、種分布の代替的な表現形式が大進化的な推論にどのような影響を与えるかを検討する。場所：南アメリカ、アンデス山脈。分類群：アンデス山脈を中心とする動物、植物、菌類の計102属。手法：時間較正済みの系統樹と、凹状多角形およびポテンシャル分布モデルという2つの代替的な空間表現から得られた種分布データを組み合わせた。各属について、分布域の重複、分布域の非対称性、および系統構造を捉える13の要約指標を推定した。次いで、線形判別分析および2つの近似的ベイズ計算手法を含む、シミュレーションで訓練された尤度フリーの分類手法を用い、各クレードを最も確率の高い地理的種分化様式（ヴィカリアント、周縁的、側生的、同所的、または混合的な地理的シナリオ）に割り当てた。結果：クレード間で、側生的または同所的な分類に対応する重複関連シナリオが57～67%の属で支配的であると推論された一方、厳密な異所的シナリオ、すなわちヴィカリアントまたは周縁的な種分化は、使用した空間表現および分類手法に応じて23～30%を占めた。同所的シナリオのみは、特にポテンシャル分布モデルを用いた場合に、38～52%の属で推論された。少なくとも3分の1のクレードでは、分析手法と空間表現の両方で一致する分類が示された。しかし、いくつかの属は種分布の表現方法に敏感であり、使用した空間入力に応じて異所的分類と同所的分類の間で変動するものもあった。主な結論：本研究の結果は、アンデス山脈の多様化が単一の支配的な地理的経路を辿ったのではなく、隔離駆動型と重複関連シナリオの両方を含む空間的文脈のモザイクを反映していることを示唆している。ただし、側生的または同所的な分類は、遺伝子流動を伴う種分化の直接的な証拠ではなく、系統分化過程における地理的重複の仮説として解釈されるべきである。単一クレードのケーススタディから広範な多分類群比較の視点へと転換することで、本研究は、アンデス山脈の種分化の地理が、系統分化に至る複数の空間的経路によって形作られた不均質なプロセスを反映していることを示唆するとともに、山岳生物多様性に関する今後の系統地理学的、生態学的、細胞遺伝学的、および集団ゲノム学的研究のための候補クレードを特定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.32942/x2b12t",
+    "title": "Acquire and rewire: mobile genetic elements co-opt the bacterial core genome",
+    "abstract": "It is assumed that bacterial genomes are streamlined, with genes encoding core functions integrated with one another and with aligned fitness interests. Such genes can gain little from horizontal transfer, as any recipient would already carry its own copy better adapted to resident networks. These restrictions motivated the ‘complexity hypothesis’, which predicts that core genes are rarely transferred. Yet homologues of core genes are repeatedly found outside their native chromosomal context, carried by mobile genetic elements such as plasmids and phage-plasmids, and by domesticated replicons such as chromids. Explaining this pattern requires us to ask whether a copy rides a mobile, self-interested element or a domesticated, host-aligned one. On domesticated, vertically inherited carriers, a second copy plausibly serves the host, through dosage, niche-specific benefit or functional specialization. On mobile, selfish elements, it may instead serve the element, by promoting behaviors that favor onward transmission. Because they enter cells that already have a host-encoded copy, we propose that mobile variants can act through dosage or through effects disproportionate to their abundance, for example by co-assembling with the chromosomal product. Here, we discuss the evolutionary drivers and consequences of extrachromosomal core genes and argue that these overlooked copies deserve systematic study.",
+    "journal": "",
+    "doi": "10.32942/x2b12t",
+    "date": "2026-11-06",
+    "authors": "Carvalho R, Hall J, Botelho J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360883",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 597,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.32942/x2b12t"
+    ],
+    "translation": {
+      "title": {
+        "hash": "514cdb26b2b24c22f335d3f9e0889e87c6e1e164bb1ef38d800553eaf99013cb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:29:56.106633+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ea483524694eb871209de8f22033fd1b00f1574d87a42976085fde3acc7c24af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:29:56.106633+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "獲得と再配線：可動性遺伝要素による細菌コアゲノムの乗っ取り",
+    "abstract_ja": "細菌のゲノムは効率化されており、中核機能をコードする遺伝子同士が統合され、適応度上の利害が一致していると考えられている。このような遺伝子は、受容体がすでに宿主ネットワークにより適合した自身のコピーを保持しているため、水平伝播による恩恵をほとんど受けられない。こうした制約が、中核遺伝子が伝播することは稀であると予測する「複雑性仮説」の根拠となった。しかし、中核遺伝子のホモログは、プラスミドやファージプラスミドなどの可動性遺伝要素や、クロミドなどの馴化レプリコンによって、本来の染色体上の文脈外で繰り返し検出される。このパターンを説明するには、あるコピーが可動性で自己利益的な要素に乗っているのか、あるいは馴化され宿主に適応した要素に乗っているのかを問う必要がある。垂直伝播する馴化キャリアにおいては、2つ目のコピーは、量的な寄与、ニッチ特異的な利益、あるいは機能的な特化を通じて、宿主に資している可能性が高い。一方、可動性の利己的要素においては、むしろさらなる伝播に有利な行動を促進することで、その要素に資している可能性がある。これらのコピーは、すでに宿主がコードするコピーを持つ細胞内に侵入するため、可動性バリアントは量的な寄与、あるいはその存在量に比して不釣り合いな効果（例えば、染色体産物との共形成など）を通じて作用し得ると我々は提唱する。本稿では、染色体外の中核遺伝子の進化的駆動要因とその帰結について論じ、これらの見落とされてきたコピーが系統的な研究に値することを主張する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11405359/v1",
+    "title": "Discovery of Apis mellifera filamentous virus in the blue orchard bee: Characterization of impacts and interactions with an organosilicone surfactant",
+    "abstract": "Abstract    While RNA viruses have received attention in impacts on bee health, research is limited for DNA viruses. DNA viruses, such as  Apis mellifera filamentous virus  (AmFV), have been identified in solitary bees; but infection dynamics and impacts are not well studied. We detected AmFV in diapausing  Osmia lignaria  adults and dead larvae from wild populations using metagenomic sequencing. Finding AmFV in diapausing adults in cocoons indicated an active AmFV infection. Unmodified larval provisions from nests had significant levels of AmFV, suggesting virus transmission may occur via fecal/oral routes via pollen. Using established rearing methods, we fed  O. lignaria  larvae AmFV and monitored survival, development, and adult weight metrics. Increased amounts of AmFV in larval provisions resulted in increased mortality. Co-exposure to an organosilicone surfactant (OSS) in provisions synergistically increased AmFV titers in larvae and adults, indicating that agrochemicals could affect viral infections. With increased development time from 2nd instar to pupation, bees of both sexes weighed more; however, male and female bees were impacted differently by AmFV and OSS. OSS plus AmFV exposure significantly increased the time to pupation in female bees. Male bees exposed to OSS weighed more. These results provide crucial insights into AmFV disease dynamics.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11405359/v1",
+    "date": "2026-11-06",
+    "authors": "Williams MF, Schaeffer RN, Cox-Foster DL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360360",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 598,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11405359/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d09f25e4b41076ef7f99b6b63488f3078420794ff0e4989ab88f81c7ec2f4780",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:29:56.106633+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "99cc931689d5514c9924a2a8fc05e5ab9c7cd53de0f9da8b71d7ecdb2294ef04",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:29:56.106633+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アオナガハナバチにおけるApis mellifera糸状ウイルスの発見：有機ケイ素系界面活性剤との影響および相互作用の特性解析",
+    "abstract_ja": "要旨    RNAウイルスがミツバチの健康に及ぼす影響については注目されてきたが、DNAウイルスに関する研究は限られている。Apis mellifera糸状ウイルス（AmFV）などのDNAウイルスは単独性ミツバチにおいて同定されているが、感染動態や影響については十分に研究されていない。本研究では、メタゲノムシーケンシングを用いて、野生個体群の羽化期のOsmia lignaria成虫および死亡幼虫からAmFVを検出した。繭内の羽化期成虫からAmFVが検出されたことは、AmFV感染が進行中であることを示している。巣から採取した未処理の幼虫給餌料には有意なレベルのAmFVが含まれており、花粉を介した糞口経路によるウイルス伝播の可能性が示唆された。確立された飼育法を用い、Os. lignariaの幼虫にAmFVを給餌し、生存率、発育、および成虫体重の指標をモニタリングした。幼虫給餌料中のAmFV量の増加は、死亡率の上昇をもたらした。給餌料中の有機ケイ素系界面活性剤（OSS）への共曝露は、幼虫および成虫におけるAmFV力価を相乗的に上昇させ、農薬がウイルス感染に影響を及ぼし得ることを示した。第2齢から蛹化までの発育時間の延長に伴い、雌雄ともに体重は増加したが、雄蜂と雌蜂ではAmFVおよびOSSによる影響の現れ方が異なっていた。OSSとAmFVの併用曝露は、雌蜂の蛹化までの期間を有意に延長させた。OSSに曝露した雄蜂は体重が増加した。これらの結果は、AmFVの疾病動態に関する重要な知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.26367289",
+    "title": "Genomic epidemiology reconstructs the pre-detection transmission and establishment of chikungunya virus in Guangdong, China",
+    "abstract": "In 2025, a chikungunya outbreak in southern China resulted in more than 25,000 confirmed cases, but its origins and transmission history remain unresolved. As part of the public health investigation, we generated 1,264 near-complete chikungunya virus (CHIKV) genomes from Guangdong Province and integrated genomic, epidemiological, entomological, and human mobility data to reconstruct the emergence and spread of this outbreak. Our analyses traced the outbreak to a single dominant introduction of a Reunion-associated East/Central/South African (ECSA) virus lineage and dated the origin of the sampled Guangdong outbreak lineage from late April to early May 2025. The interval between the estimated origin of the outbreak lineage and the first reported case was consistent with a period of undetected local transmission and exposed limitations in passive surveillance for early arboviral outbreak detection. Spatiotemporal reconstruction showed two distinct epidemic waves with contrasting transmission dynamics. The Foshan wave involved frequent medium- to long-distance viral movement, while the Jiangmen wave remained relatively localized. Together, these findings reconstruct the early establishment and spatially heterogeneous spread of the largest documented CHIKV epidemic in southern China to date and demonstrate the necessity of expanding active genomic surveillance in areas at the fringe of CHIKV endemic transmission for timely detecting and characterizing emerging epidemics.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.26367289",
+    "date": "2026-11-06",
+    "authors": "Peng X, Chen Z, Jia P, Zhang C, Zhang M, Zhong Y, Sun A, Huang S, Li W, Zhang X, Cai J, Liu Z, Luo J, Su J, Sun C, Yu Q, Tan Q, Zheng Z, Zou L, He J, Li B, Faria NR, Yu H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360964",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 925,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.04.26367289"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7ff611568c05f8d02da0bbefd77d0bb1955813a5e71b38ce7ba5de7b5d5dc865",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:29:56.106633+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "06b2f7fc76b88dcb3b052d0dc988da91b64e94d92677fc0e2b3ce7dbb51ad715",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:29:56.106633+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノム疫学による中国広東省におけるチクングニアウイルスの検出前の伝播と定着の復元",
+    "abstract_ja": "2025年、中国南部で発生したチクングニア熱のアウトブレイクにより、2万5,000例以上の確定症例が報告されたが、その起源と伝播経路は依然として解明されていない。公衆衛生調査の一環として、我々は広東省からほぼ完全なチクングニアウイルス（CHIKV）ゲノム1,264株を作製し、ゲノム、疫学、昆虫学的データ、および人の移動データを統合して、本アウトブレイクの発生と拡大過程を再構築した。解析の結果、本アウトブレイクはレユニオン関連東・中央・南部アフリカ（ECSA）ウイルス系統の単一の支配的な導入に起因することが明らかとなり、サンプリングされた広東省のアウトブレイク系統の起源は2025年4月下旬から5月上旬であると推定された。推定されたアウトブレイク系統の起源から最初の報告症例までの期間は、未検出の地域内伝播が存在していた時期と一致しており、初期のアルボウイルスアウトブレイク検出における受動的サーベイランスの限界が浮き彫りとなった。時空間的な再構築により、伝播動態が対照的な2つの明確な流行波が確認された。仏山波では中・長距離のウイルス移動が頻繁に認められた一方、江門波は比較的局地的な範囲に留まった。これらの知見を総合すると、中国南部でこれまで記録された最大規模のCHIKV流行の初期成立と空間的に不均一な拡大過程が再構築され、新興流行を適時に検出・特性評価するためには、CHIKV常在感染の周辺地域において能動的なゲノムサーベイランスを拡大する必要性が示された。"
   }
 ]
