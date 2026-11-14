@@ -224347,5 +224347,305 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ナノスケールの農薬送達は、病原体を抑制し、有益な微生物叢を拡充することで、より安全な作物保護を実現する。",
     "abstract_ja": "ナノキャリアを用いた農薬送達プラットフォームは、農薬の利用効率を大幅に向上させるが、根圏および土壌微生物生態に及ぼす連鎖的な生態学的影響については十分に解明されていない。本研究では、スターポリカチオン（SPc）ナノキャリアを用いて、典型的なナノ農薬特性を有するマトリンナノ製剤（MT@SPc）を作製した。MT@SPcおよび市販のマトリン製剤（MT SL）を代表的な系として用い、根圏および土壌微生物生態系への影響をさらに評価した。MT SLと比較して、MT@SPcは植物病原菌を抑制し、有益細菌の増殖を促進することで、根圏微生物群集を再編した。土壌から得られた4種類の代表的な細菌分離株を用いたさらなる検証により、MT@SPcが植物病原菌であるPectobacterium carotovorumの増殖を有意に抑制した一方で、増殖した有益細菌はMT@SPcに対する感受性が低いことが示された。マルチスケールの機構解析により、MT@SPcが物理化学的相互作用を通じて細菌細胞表面と相互作用し、その結果、P. carotovorumにおいて顕著な表面変形と構造的損傷が生じることが明らかになった。生理学的および生化学的アッセイを伴うマルチオミクス解析により、MT@SPcが細胞壁および細胞膜の完全性を破壊し、イオンバランスの乱れ、代謝物の漏出、および酸化ストレスを引き起こすことがさらに示された。しかし、有益細菌はより高い安定性を維持し、その増殖は病原菌抑制後の微生物群集のシフトに関連していた。総じて、本研究は、ナノ農薬が微生物の応答差を通じて根圏群集の再構成を駆動することを明らかにし、複雑な生態システムにおけるナノ農薬とマイクロバイオームの相互作用に関する機構的な知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1968489",
+    "title": "Conservation and plasticity of IncHI2 plasmid-borne metal resistance loci in <i>Salmonella enterica</i> Serovar Heidelberg.",
+    "abstract": "The incompatibility group (Inc) HI2 plasmid is frequently detected in Salmonella enterica serovar Heidelberg and is commonly associated with heavy metal and multidrug resistance genes. In this study, we assessed the characteristics of IncHI2A plasmids of eight copper-resistant Sal. Heidelberg isolates from animal and human sources. A comparative analysis of the genetic architecture of these plasmids with that of the parent plasmid R478 from Serratia marcescens and the reference plasmid pSH111_227 from Sal. Heidelberg revealed high conservation of the plasmid backbone, as well as copper/silver and tellurium resistance cassettes. Notably, the gene encoding the periplasmic silver-binding protein SilF was present in all Sal. Heidelberg isolates but was absent in R478, whereas the tellurite resistance gene terF was absent in all isolates. Additionally, except for two isolates, the IncHI2A plasmids lacked mercury resistance genes found in the parental plasmid R478. Tetracycline and aminoglycoside resistance genes are conserved among the IncHI2A plasmids of all Sal. Heidelberg isolates and the reference plasmids. In addition, all Sal. Heidelberg isolates included neomycin-family aminoglycoside resistance genes, which conferred resistance to neomycin and kanamycin. Analysis of the non-IncHI2A plasmids in these isolates showed that the majority of the isolates carried multidrug resistance (MDR) genes, whereas three isolates did not contain any detectable MDR genes. In conclusion, these variations within the heavy metal resistance (HMR) loci underscore the dynamic nature of IncHI2A plasmids and their potential role in the acquisition and retention of these genes under selective pressure.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1968489",
+    "date": "2026-10-28",
+    "authors": "Hikal AF, Sopovski D, Revollo J, Brangsch H, Foley SL, Khan AA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43017067",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13752096",
+    "pmid": "43017067",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4379,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1968489"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5b37bb552ade22c783dbccc864ed0d65e8847cdbae76e7f02387001779004ca4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:01:29.620947+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "34ca1471b263f409d51628ea958c0ed0d33c79ea79074c42f9edde233e455e51",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:01:29.620947+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Salmonella enterica</i> Serovar HeidelbergにおけるIncHI2プラスミド媒介性金属耐性遺伝子座の保存性と可塑性",
+    "abstract_ja": "不適合群（Inc）HI2プラスミドは、Salmonella enterica血清群Heidelbergにおいて頻繁に検出され、一般に重金属耐性および多剤耐性遺伝子と関連している。本研究では、動物およびヒト由来の銅耐性Sal. Heidelberg分離株8株のIncHI2Aプラスミドの特性を評価した。これらのプラスミドの遺伝的構造を、Serratia marcescens由来の親プラスミドR478およびSal. Heidelberg由来の参照プラスミドpSH111_227と比較解析した結果、プラスミド骨格、ならびに銅/銀およびテルル耐性カセットが高い保存性を示すことが明らかとなった。特筆すべき点として、ペリプラズム銀結合タンパク質SilFをコードする遺伝子はすべてのSal. Heidelberg分離株に存在したが、R478には認められなかった。一方、テルル鉱耐性遺伝子terFはすべての分離株で欠失していた。さらに、2株を除き、IncHI2Aプラスミドは親プラスミドR478に見られる水銀耐性遺伝子を欠いていた。テトラサイクリンおよびアミノグリコシド耐性遺伝子は、すべてのSal. Heidelberg分離株のIncHI2Aプラスミドおよび参照プラスミド間で保存されていた。加えて、すべてのSal. Heidelberg分離株にネオマイシン系アミノグリコシド耐性遺伝子が含まれており、これによりネオマイシンおよびカナマイシンへの耐性が付与されていた。これらの分離株における非IncHI2Aプラスミドを解析したところ、大部分の分離株が多剤耐性（MDR）遺伝子を保有していたのに対し、3株では検出可能なMDR遺伝子が認められなかった。結論として、重金属耐性（HMR）遺伝子座におけるこれらの変異は、IncHI2Aプラスミドの動的な性質と、選択圧下におけるこれらの遺伝子の獲得および保持における潜在的な役割を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1974318",
+    "title": "Intelligent systemic microbial monitoring method for fresh food supply chain safety.",
+    "abstract": "IntroductionMicrobial safety monitoring in fresh-food systems increasingly relies on heterogeneous information sources, including hyperspectral measurements, microscopy images, structured environmental variables, and temporally related observations. These information sources are not uniformly available across monitoring scenarios, making it inappropriate to impose the same temporal, spectral, or contextual assumptions on every sample. This study proposes the ForwardSpectralProbabilistic (FSP) framework for microbial classification and pathogen-risk prediction under heterogeneous sensing conditions.MethodsFSP employs modality-specific encoders to map spectral, image, and structured observations to a common latent dimensionality while preserving their native input representations. Contextual information is incorporated through gated residual fusion when environmental, operational, or acquisition metadata are available. The Forward Consistency Projector generates temporally aligned latent evidence only for observations with a valid predecessor target correspondence, whereas the Spectral Consistency Mapper operates only on measurements with a native spectral axis. The Probabilistic Mixture Integrator then combines the available current, temporal, and spectral representations through availability-normalized learned weights. Harmonic State Projection (HSP) is further introduced as a structured regularization strategy that constrains temporal projection consistency and preserves relationships among low-frequency spectral components without constructing unavailable modalities. The framework is evaluated independently on four publicly accessible microbial-safety datasets covering Salmonella serovar classification from hyperspectral measurements, microscopy-based bacterial classification, poultry Salmonella-Campylobacter risk prediction, and agricultural-water microbial marker prediction. The experiments use modality-matched comparison methods, grouped or stratified data partitioning, and repeated random seeds.Results and discussionThe descriptive results show that FSP is competitive across heterogeneous tasks, while its strongest observed performance is not obtained uniformly for every metric and dataset. Spectral-consistency and harmonic-relation modeling provide the clearest gains for native hyperspectral measurements, meteorological context and temporally aligned evidence contribute to the structured poultry-risk task, and acquisition metadata improve robustness under microscopy domain shift. Modality-aware ablation experiments further indicate that spectral, temporal, and contextual mechanisms provide complementary contributions only when the corresponding information is available. FSP provides an availability-aware formulation for microbial monitoring that maintains a consistent prediction framework without imposing artificial spectral or temporal structure on heterogeneous food-safety data.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1974318",
+    "date": "2026-10-28",
+    "authors": "Tian Q.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43017270",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13752496",
+    "pmid": "43017270",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4382,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1974318"
+    ],
+    "translation": {
+      "title": {
+        "hash": "79bd801ff8ad21adbeb4688a122729fc1d64c2f6952b0316208cc2f7d2042cf7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:01:29.620947+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "014b92b8276b1b8b3578bf0364baaa73ff5ba0c55e94631070cb69bdeea27ecd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:01:29.620947+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生鮮食品サプライチェーンの安全性に関するインテリジェントな系統的微生物モニタリング手法",
+    "abstract_ja": "はじめに生鮮食品システムにおける微生物安全性モニタリングでは、ハイパースペクトル測定、顕微鏡画像、構造化環境変数、および時間的に関連付けられた観測値など、不均一な情報源への依存度が高まっている。これらの情報源はモニタリングシナリオによって一様に利用可能とは限らず、すべてのサンプルに対して同一の時間的、スペクトル的、あるいは文脈的な仮定を課すことは適切ではない。本研究では、不均一なセンシング条件下における微生物分類および病原体リスク予測のためのForwardSpectralProbabilistic (FSP) フレームワークを提案する。手法FSPは、モダリティ固有のエンコーダを用いて、スペクトル、画像、および構造化観測値を、元の入力表現を保持したまま共通の潜在次元へとマッピングする。環境、運用、または取得のメタデータが利用可能な場合には、ゲート付き残差融合を通じて文脈情報が組み込まれる。Forward Consistency Projectorは、有効な先行ターゲット対応関係を持つ観測値に対してのみ時間的に整合された潜在エビデンスを生成し、Spectral Consistency Mapperは元のスペクトル軸を持つ測定値に対してのみ動作する。その後、Probabilistic Mixture Integratorが、可用性で正規化された学習済み重みを用いて、利用可能な現在の時間的およびスペクトル的表現を統合する。さらに、時間的投影の一貫性を制約し、利用不可能なモダリティを構築することなく低周波スペクトル成分間の関係を保持する構造化正則化戦略として、Harmonic State Projection (HSP) を導入する。本フレームワークは、ハイパースペクトル測定によるサルモネラ血清群分類、顕微鏡に基づく細菌分類、家禽のサルモネラおよびカンピロバクターリスク予測、および農業用水の微生物マーカー予測を網羅する、公開されている4つの微生物安全性データセットを用いて個別に評価した。実験では、モダリティ整合型の比較手法、グループ化または層化データ分割、および反復乱数シードを用いた。結果と考察記述的な結果から、FSPは不均一なタスクにおいて競争力を示す一方で、最も優れた性能があらゆる指標やデータセットで一様に得られるわけではないことが示された。スペクトル整合性と調和関係モデリングは、元のハイパースペクトル測定において最も顕著な性能向上をもたらし、気象学的文脈と時間的に整合されたエビデンスは構造化家禽リスクタスクに寄与し、取得メタデータは顕微鏡ドメインシフト下での頑健性を向上させる。モダリティを考慮したアブレーション実験により、スペクトル、時間的、および文脈的なメカニズムは、対応する情報が利用可能な場合にのみ相補的な寄与をすることがさらに示された。FSPは、不均一な食品安全性データに人工的なスペクトル的または時間的構造を課すことなく、一貫した予測フレームワークを維持する、微生物モニタリングのための可用性を考慮した定式化を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1959028",
+    "title": "Microbial community structure of cigar tobacco leaves in Hunan production area and its regulatory mechanism on quality formation.",
+    "abstract": "IntroductionTo elucidate the microbial community structure of domestic cigar tobacco leaves and its regulatory function in quality formation, the present work focuses on characterizing microbial flora, identifying origin-mediated community divergence, and exploring their linkages to flavor quality for cigar tobacco planted in Hunan.MethodsHigh-throughput sequencing, chemical profiling and sensory evaluation were combined to systematically analyze different cigar varieties from the Hunan production region. ANOSIM and correlation network analysis were performed to evaluate microbial community variation and inter-taxa correlations.Results and discussionBacterial communities were dominated by Proteobacteria, Cyanobacteria, Firmicutes, and Actinobacteria; fungi were overwhelmingly dominated by Ascomycota (relative abundance >93%). At genus level, dominant bacteria included Pantoea, Pseudomonas, Klebsiella, Brachybacterium, and Curtobacterium, while dominant fungi were Aspergillus, Gibberella, and Alternaria. ANOSIM (R = 0.50, P = 0.001) demonstrated that geographical origin acted as the primary driver of microbial community differentiation, and the same cultivar Cuba No.7 showed highly significant interregional differences (R = 0.95, P = 0.001). Correlation network showed flavor-positive genera (Pantoea, Curtobacterium, Aureimonas) were enriched in Yongding District samples, whereas flavor-negative genus Trichoderma was abundant in Sangzhi County and Chenzhou samples. Unsaturated fatty acids, succinic acid and malic acid were key metabolites connecting microbial communities and sensory traits. These results support the hypothesis that microorganisms dominate quality formation of cigar tobacco leaves, and offer theoretical support for site-specific cultivation and fermentation optimization based on regional microecological features.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1959028",
+    "date": "2026-10-28",
+    "authors": "Cai W, Zhang Q, Liu J, Hu W, Chai Z, Tan Y, Xing L, Li D.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43016784",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13752101",
+    "pmid": "43016784",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "Pseudomonas",
+        "bacteria",
+        "cyanobacteria",
+        "fungi",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4383,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1959028"
+    ],
+    "translation": {
+      "title": {
+        "hash": "020079955bac106e27ab13f4e9625b1e4c6214052940d8b62031e66d3fd5cc78",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:01:29.620947+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d7d1a479ada42af324289a4a1131813c7db657e0fc0e5213bda0ca7fb4a96fbe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:01:29.620947+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "湖南省の葉巻用タバコ葉における微生物群集構造と品質形成への調節機構",
+    "abstract_ja": "はじめに 国産シガータバコ葉の微生物群集構造および品質形成における調節機能を解明するため、本研究では微生物叢の特性解析、産地に起因する群集の分化の同定、ならびに湖南省で栽培されるシガータバコの風味品質との関連性の探索に焦点を当てた。方法 ハイスループットシーケンシング、化学的プロファイリング、および官能評価を組み合わせて、湖南省の生産地域における異なるシガー品種を系統的に解析した。微生物群集の変動および分類群間の相関を評価するため、ANOSIMおよび相関ネットワーク解析を実施した。結果と考察 細菌群集はプロテオバクテリア、シアノバクテリア、フィルミクテス、およびアクチノバクテリアが優占し、真菌類では子嚢菌門が圧倒的（相対存在量 >93%）に優占していた。属レベルでは、優占細菌としてPantoea、Pseudomonas、Klebsiella、Brachybacterium、およびCurtobacteriumが挙げられ、優占真菌としてはAspergillus、Gibberella、およびAlternariaが認められた。ANOSIM（R = 0.50, P = 0.001）の結果、地理的な産地が微生物群集分化の主要な要因であることが示され、同一品種のCuba No.7においても地域間で非常に有意な差が認められた（R = 0.95, P = 0.001）。相関ネットワーク解析では、風味陽性属（Pantoea, Curtobacterium, Aureimonas）が永定区のサンプルで豊富であった一方、風味陰性属であるTrichodermaは桑植県および郴州のサンプルで豊富であった。不飽和脂肪酸、コハク酸、およびリンゴ酸は、微生物群集と官能特性を結びつける主要な代謝物であった。これらの結果は、微生物がシガータバコ葉の品質形成を支配しているという仮説を支持するものであり、地域の微小生態学的特性に基づいた部位別栽培および発酵最適化への理論的根拠を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1975842",
+    "title": "Microcosm evaluation of saturation and labile carbon controls on nitrate persistence in vadose zone soils.",
+    "abstract": "Groundwater table recovery increases water saturation in the lower vadose zone, altering nitrate persistence. To clarify how soil properties and substrate availability modulate these dynamics, two microcosm experiments compared static water-filled pore space levels (50%, 80%, and 100%) and various nutrient additions in a Beijing soil profile. Between days 1 and 45, nitrate remained stable at 50% WFPS but declined by 39.15%~53.52% at 100% WFPS, with the largest reduction in the deepest soil due to higher initial organic carbon. Glucose addition enhanced the 45-day decline to 85.30% by inducing reducing conditions (-89 mV) within the first 15 days. In contrast, ammonium inputs persisted as the dominant dissolved form, while glycine triggered a sequential cascade marked by organic nitrogen decrease and transient ammonium, nitrite, and nitrate peaks. Day 45 sequencing confirmed that glucose and glycine shifted bacterial structures and gene profiles. Although gaseous measurements or isotope tracing are required to resolve specific pathways, these findings demonstrate that labile carbon governs the extent of nitrate decline under high saturation, while substrate composition shapes inorganic nitrogen accumulation timing.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1975842",
+    "date": "2026-10-28",
+    "authors": "Chen L, Liu X, Li Z, Li H, Xu Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43016588",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13751607",
+    "pmid": "43016588",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4384,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1975842"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ce8dd85a0c2d08b8e8f0d2f4cbdf113eed2d0e6869ce6a5cd1b9e8730fd6f028",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:01:29.620947+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "87faa2ad48f7552d5fe2a8e3e16459842e182a5faffdca38c8f13151c863e715",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:01:29.620947+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "vadose帯土壌における硝酸塩の持続性に及ぼす飽和度および不安定な炭素制御の微小宇宙評価",
+    "abstract_ja": "地下水位の回復は下層vadose帯の水飽和度を上昇させ、硝酸塩の持続性を変化させる。土壌特性と基質の利用可能性がこれらの動態をどのように調節しているかを明らかにするため、北京の土壌断面において、静的な水充填孔隙空間レベル（50%、80%、100%）および各種養分添加を比較する2つのマイクロコスム実験を行った。1日目から45日目にかけて、硝酸塩はWFPS 50%で安定していたが、WFPS 100%では39.15%～53.52%減少し、初期の有機炭素量が多いほど最深層でより大きな減少が認められた。グルコースの添加は、最初の15日以内に還元条件（-89 mV）を誘導することで、45日目の減少幅を85.30%まで拡大させた。対照的に、アンモニウムの投入は主要な溶存形態として持続した一方、グリシンは、有機窒素の減少と、一過性のアンモニウム、亜硝酸塩、および硝酸塩のピークを特徴とする逐次的なカスケードを引き起こした。45日目のシーケンシングにより、グルコースとグリシンが細菌の構造および遺伝子プロファイルを変化させたことが確認された。特定の経路を解明するにはガス測定や同位体トレーシングが必要であるが、これらの知見は、高飽和度条件下では不安定炭素が硝酸塩減少の程度を支配し、一方で基質組成が無機窒素の蓄積タイミングを規定することを示している。"
   }
 ]
