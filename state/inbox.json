@@ -377545,5 +377545,684 @@
     "related_dois": [
       "10.1099/ijsem.0.007336"
     ]
+  },
+  {
+    "id": "10.1093/ismejo/wrag283",
+    "title": "Wolbachia induces excess ecdysteroid production to enhance female reproduction in Laodelphax striatellus",
+    "abstract": "AbstractWolbachia, one of the most widespread intracellular bacteria, is abundant in the ovaries of the small brown planthopper, Laodelphax striatellus. Wolbachia significantly enhances L. striatellus egg production; however, the mechanistic role of host hormones remains unclear. Here, we investigated how Wolbachia manipulates L. striatellus reproduction through the host ecdysteroid hormone pathway. Wolbachia infection elevated the levels of ovarian ecdysone and 20-hydroxyecdysone (20E), hormonal increases that are crucial as RNA interference knockdown of the synthesis genes CYP315A1 (for ecdysone) and CYP314A1 (for 20E) reduced hormone titres and suppressed fecundity, whereas 20E supplementation restored egg production. Furthermore, we precisely located germline stem cells (GSCs) in the posterior tropharium and identified mitotic nurse cell precursors (NCPs) in the anterior region. In infected females, these specific tropharia regions exhibited a high proportion of pH3-positive GSCs and NCPs and low apoptosis rate. Wolbachia microinjection into uninfected hosts recapitulated the entire phenotype, elevating 20E levels, enhancing tropharia cell proliferation, and increasing fecundity, confirming a direct causal relationship. Collectively, our findings demonstrate that Wolbachia elevates ovarian 20E levels to stimulate mitosis and suppress apoptosis within precisely mapped GSC and NCP populations in the tropharium, thereby enhancing host reproduction. These findings provide valuable insights into symbiont-driven reproductive enhancement and highlight potential strategies for insect population management.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag283",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag283/9049871?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4456,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/ismejo/wrag283"
+    ]
+  },
+  {
+    "id": "10.1093/ismeco/ycag328",
+    "title": "Source and concentration of natural microbial inoculum influence growth, survival, and associated microbiota of larval amphibians",
+    "abstract": "AbstractLarval amphibians reared under captive conditions are exposed to drastically reduced microbial diversity. Moreover, these conditions often lead to substantial intrinsic mortality and life-long differences such as increased disease susceptibility as adults. Microbiome “rewilding” has been proposed to improve conservation efficacy, but raising amphibians entirely in natural pond waters is logistically prohibitive. Here, we tested whether seeding captive enclosures with small volumes of natural pond water inoculum was sufficient to impact tadpole survival and increase gut and skin microbiota diversity. Pond water inoculum was obtained from two geographic sites to determine whether distinct site-specific microbiomes can be acquired by larval tadpoles in the lab. Captive-bred green frog (Lithobates clamitans) tadpoles were raised in water from these two geographic sources at varying concentrations, alongside microbially-depleted and standard husbandry controls. Addition of pond water inoculum, even at concentrations of 1–25%, significantly increased tadpole survival, body mass, gut- and skin-microbiota richness, and shaped gut- and skin-microbiota community composition and structure. in a concentration- and source-dependent manner. Microbial depletion treatments suggest these effects were driven by inoculum microbial composition rather than abiotic components alone. Together, these results support small-volume pond water inoculation as a practical and effective method for introducing specific microbial communities in captive amphibians.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag328",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag328/9049161?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4457,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/ismeco/ycag328"
+    ]
+  },
+  {
+    "id": "10.1093/ismehm/aazag022",
+    "title": "Human footprints in the gut: how anthropization reshapes the microbiome of chacma baboons",
+    "abstract": "AbstractAnthropogenic pressures are increasingly reshaping wildlife habitats worldwide. These transformations reduce natural areas, but also create new ecological niches, food resources, and environmental stressors, with potential consequences for wildlife behaviour, physiology, and morphology. These changes may affect the gut microbiome, a critical component of host health, yet such effects are often inconsistent across species, particularly in wild non-human primates, and remain poorly understood. Here, we investigated how the gut microbiome of chacma baboons (Papio ursinus ursinus), an ecologically flexible generalist, responds to an anthropization gradient. We analysed 512 fecal samples collected from 33 wild troops across a broad range of human-modified environments in the Western Cape, South Africa. Using a multi-metric approach including the Human Footprint Index, land-use variables and dietary proxies derived from stable isotopes, we assessed gut microbial diversity and composition based on 16S rRNA gene (V4) sequencing. Human-altered environments characterized by high Human Footprint and built-up areas were associated with reduced microbial diversity, and compositional and functional shifts, including decline in fiber-degrading taxa and increase in bacteria associated with simple carbohydrate and dairy metabolism. In contrast, highly cultivated areas showed no diversity difference and distinct microbial assemblages, while dietary variation had weaker effects, primarily altering rare taxa. Our results demonstrate that different components of anthropogenic pressure exert contrasting effects on the baboon gut microbiome, reflecting multiple ecological pathways extending beyond diet alone. Microbiome shifts may have implications for host health, potentially increasing susceptibility to pathogens or inflammatory diseases, with consequences for wildlife populations.",
+    "journal": "ISME Host Microbe",
+    "doi": "10.1093/ismehm/aazag022",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismehm/advance-article/doi/10.1093/ismehm/aazag022/9049068?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4458,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/ismehm/aazag022"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1190",
+    "title": "CROST 2.0: an expanded repository of spatial transcriptomics",
+    "abstract": "AbstractCROST (https://ngdc.cncb.ac.cn/crost) is a public spatial transcriptomics resource that offers curated datasets, standardized analytical results, structured spatial knowledge, and interactive exploration tools. In version 2.0, our collection has expanded to 544 projects and 3538 samples, nearly a three-fold increase from version 1.0 (182 projects and 1033 samples). We have also substantially expanded the derived resources for spatial colocalization and spatially variable cancer genes. To facilitate spatial microenvironment analysis, CROST 2.0 introduces an analytical framework comprising niche-associated differential expression, spatially resolved gene-set activity analysis, spatial interaction hotspot and topic analyses, and molecular and cell-type niche analysis. CROST 2.0 also provides the Spatial Compare function to compare spatial gene expression, cell-type distributions, and niche composition across samples. It introduces the Cancer NicheDE module to systematically characterize cancer niche-associated differential expression and integrates an online cell-type annotation tool, SCType, enabling the use of single-cell reference information in spatial transcriptomic analysis. These updates extend CROST into an integrated spatial transcriptomics resource for characterizing spatial microenvironments, investigating cancer-associated spatial features, and comparing spatial patterns across samples.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1190",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1190/9052016?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4459,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1190"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1085",
+    "title": "PVDive: the plant virus diversity database",
+    "abstract": "AbstractPlant viruses are a diverse class of infectious agents affecting agricultural crop production, plant health, and international movement of plant material. While availability and accessibility of scientific data related to plant viruses is essential for plant protection activities, scientific research, diagnostics, plant breeding, and beyond, publicly available data on plant viruses are at present not easily accessible; they are non-standardized, scattered across different resources, poorly interlinked, and not easily searchable by scientists or digital agents. We present PVDive (Plant Virus Diversity Database; https://pvdive.dsmz.de), a freely accessible resource providing high-quality, standardized, and integrated data associated with plant viruses. PVDive primarily offers information at the level of individual plant virus isolates and samples originating from the plant virus collection of the Leibniz Institute DSMZ (Germany). The data are integrated with information on plant virus species and host plants available in existing public resources and their access is centralized in a single platform. Through an intuitive, user-friendly interface with a number of search functionalities and a RESTful application programming interface, PVDive improves findability, accessibility, retrievability, and interoperability of plant virus data. To support data exploration, the platform also includes tools such as advanced search, sequence viewer, host gallery, and interactive data views.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1085",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1085/9052014?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4460,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1085"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1164",
+    "title": "PubChem 2027 update",
+    "abstract": "AbstractPubChem (https://pubchem.ncbi.nlm.nih.gov) is a public chemical information resource that serves scientific communities across various domains, as well as the general public. Over the past 2 years, substantial changes have been made to PubChem. The addition of over 100 new data sources has broadened its data coverage. A new data collection, RefChem, containing chemical records compiled by the PubChem team from authoritative and curated sources, was introduced to improve annotation mapping and disambiguation and to provide better access to information on substances with non-discrete structures. The Quick Search supports general exploration across multiple data collections, while the Advanced Search provides more structured, fielded search options for individual collections. The new Search History page enables users to formulate complex queries using Boolean operators. Major updates were also made to the Classification Browser and Co-occurrence Panels. Updates to PubChemRDF improved its search performance and interoperability. Practical guidance was provided for its efficient use in cloud environments. This article provides an overview of the latest updates to PubChem.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1164",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1164/9051921?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4461,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1164"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1185",
+    "title": "GPCRdb in 2027: new structure and ligand data and analysis tools, and updated data mapper and snakeplot visualizations",
+    "abstract": "AbstractG protein-coupled receptors database (GPCRdb) enables research on GPCRs through tailored resources for reference data, analysis, visualization, experiment design, and dissemination. Our 7th major update to GPCRdb brings extensive updates to the structural and ligand resources, along with several improvements that facilitate easier use. The Structure coverage page has been overhauled to better overview all experimental structures and to break these down into a GPCR class, receptor family, or an individual receptor. We have expanded the annotation on the Structures page by combining AI with manual curation. We add structure models of drug- and peptide-GPCR complexes generated by Boltz-2 and AlphaFold2–Multimer, respectively, and score their confidence. For ligands, we have enhanced the data in the GPCR-ligand interactions resource, implemented variants distinguishing stereoisomers, salts, and labeled versions, assigned persistent identifiers enabling lookup and database cross-linking, and visualized peptide sequences in 2D. Finally, the Data mapper page now has a simplified data input directly in the web interface enabling swift mapping of users’ own data for receptors visualized as a GPCRome wheel, tree, clusters, list, or heatmap. Together, these new features aid a multitude of use cases spanning from basic research on GPCR structure-function to drug design. GPCRdb is available at https://gpcrdb.org.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1185",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1185/9051885?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4462,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1185"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1163",
+    "title": "proMGE2—a planetary-scale resource of mobile genetic elements in microbial (meta)genomes",
+    "abstract": "AbstractproMGE is a resource of prokaryotic mobile genetic elements (MGEs) that systematically catalogues MGEs from prokaryotes, their intercellular spread, antimicrobial resistance gene carriage, and MGE nesting interactions. We present proMGE2 featuring a 6X expansion, a total of >16.4 million MGEs from 670k high-quality isolate genomes, and 180k metagenome-assembled genomes (MAGs), spanning diverse MGE categories: transposons and insertion sequences, phages, phage-like elements, conjugative elements, mobility islands, and integrons. proMGE2 includes MGEs from MAGs derived from environmental microbiomes, encompassing ~50k samples across several major habitat types. proMGE2 provides a standardized MGE reference collection of >5 million non-redundant MGE sequences drawn from our curated database, and enables identification of MGEs in user-provided genomes. proMGE2 captures MGE diversity and their functional potential at unprecedented scale to support future research of mobile genetic elements and transfer of genetic material in microbes. The database is available at http://promge.embl.de/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1163",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1163/9051884?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "genome",
+        "metagenom",
+        "metagenome",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "phage",
+        "phages",
+        "prokaryote",
+        "prokaryotic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4463,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1163"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1159",
+    "title": "Sequence resources of the National Center for Biotechnology Information in 2027",
+    "abstract": "AbstractThe National Center for Biotechnology Information (NCBI) provides three principal resources containing DNA, RNA, and protein sequence data: the Sequence Read Archive (SRA), GenBank®, and the Reference Sequence (RefSeq™) collection. All resources are free to the public. SRA and GenBank are part of the International Nucleotide Sequence Database Collaboration and share data daily. After summarizing the current state of these resources, we review significant updates in the past two years, including these to the Submission Portal, the primary interface for submitting data to SRA and GenBank. We also describe access points for these data including NCBI Datasets’ website and programmatic interface, and present improvements in NCBI’s main sequence analysis and visualization tools, such as annotation pipelines, BLAST, and the Multiple Comparative Genome Viewer.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1159",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1159/9051883?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "resource",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4464,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1159"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1112",
+    "title": "QPD: a comprehensive database integrating global quarantine regulations with biological, molecular, and spatial resources",
+    "abstract": "AbstractQuarantine pests pose major threats to global biosafety, agriculture, and biodiversity. However, information of their regulatory status, biology, distribution, and molecular resources remains fragmented across multiple sources, which hinders the in-depth analysis of quarantine pests. Here, we present the Quarantine Pest Database (QPD, https://qpests.insect-genome.com), an open-access resource that integrates global regulations with biological knowledge, multi-omics sequences, and distribution of quarantine pests. QPD integrates official quarantine pest lists, complementary phytosanitary notifications, and distribution records of 231 countries and regions, covering 9849 regulated pest taxa, 7666 host plants, 2057 genome assemblies, 4877 transcriptomes, and 1 311 846 DNA barcode sequences. We also provide 21 747 habitat suitability maps for 4350 quarantine pests under historical and future climate conditions. Each pest entry contains the comprehensive information of standardized taxonomy and jurisdiction-specific quarantine status with host associations, distribution records, morphological descriptions, images, literature references, and available omics resources. Moreover, QPD provides interactive browsing and retrieval, DNA barcode finding, global distribution visualization, and model-based habitat suitability maps. To the best of our knowledge, QPD is the first database to integrate global quarantine regulations with biological, molecular, and spatial information of quarantine pests, providing a centralized resource for the community of pest risk assessment and biosecurity research.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1112",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1112/9051877?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "genome",
+        "resource",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assemblies",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4465,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1112"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1151",
+    "title": "PDBe in 2027: integrating literature annotations, molecular dynamics data, and AI-ready access",
+    "abstract": "AbstractThe Protein Data Bank in Europe (PDBe; pdbe.org) provides open access to experimentally determined biomacromolecular structures and enriches these data with biological and functional context. Here, we describe recent developments that expand the information connected to PDB structures and introduce new ways for researchers and computational tools to access it. Literature integration has been extended to additional open-access publications, substantially increasing the availability of residue-level annotations mined from the scientific literature. Cross-links to molecular dynamics simulations in MDposit have been established, and simulation-derived residue-level annotations, including relative solvent accessibility and membrane-related properties, have been integrated into PDBe-KB (pdbekb.org). PDBe entry pages now expose additional experimental and sequence information, links to related resources, and extended PDB identifiers. Protein channel, tunnel, and pore analyses generated using MOLE have also been incorporated into our weekly release pipeline and made available for download. Improved API documentation facilitates the discovery of data fields and search parameters, while three Model Context Protocol servers facilitate agentic access to the PDBe APIs, Search, and the PDBe-KB knowledge graph. Together, these developments make structural data and its wider biological context easier to discover, interpret, and reuse through both conventional and agentic workflows.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1151",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1151/9051874?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4466,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1151"
+    ]
+  },
+  {
+    "id": "10.1111/1462-2920.70496",
+    "title": "Humic Fractions Are Linked to Distinct Arsenic‐Mobilizing Host–Virome Assemblages and Enrichment of Large Temperate Phages Carrying Receiver‐Only AioR‐Like Loci",
+    "abstract": "Humic fractions were linked to distinct arsenic‐mobilizing host–virome assemblages in anaerobic paddy soil, with fulvic and humic acids producing greater late‐transfer As(III) accumulation. Rare large putatively temperate phages carrying receiver‐only AioR‐like loci reveal a candidate viral regulatory layer alongside host‐encoded arsenic transformations.\n\nABSTRACT\nArsenic mobilization in flooded rice paddies is driven by microbial redox reactions, but how redox‐active organic matter coordinates arsenic‐gene‐bearing hosts and soil viromes remains unresolved. We examined the effects of fulvic acid (FA), humic acid (HA) and humin (HM) on arsenic‐mobilizing host–virome assemblages using sequential anoxic slurry‐transfer enrichments, genome‐resolved metagenomics and curated virome analysis. FA and HA produced greater late‐transfer arsenite accumulation than HM or unamended soil, while treatment‐associated host genomes carried contrasting arsenic redox and detoxification repertoires. We identified two large temperate phages (> 100 kb) carrying receiver‐only AioR‐like loci in the FA and HA enrichments, with host‐prediction signals converging on Bacillaceae. These loci were supported by hallmark‐rich viral scaffold context and intact‐locus read coverage and remained invariant despite genome‐wide polymorphism. Reanalysis of 49,649 soil‐derived viral genomes showed that arsenic‐associated viral genes were rare among the 9518 quality‐filtered genomes (0.29%) and occurred mainly as truncated regulatory architectures, particularly AioR‐like receiver and AioS‐like kinase‐core fragments, on putatively lytic 30–70 kb genomes. By contrast, arsenic‐associated viral‐gene carriers were more frequent in our enrichment viromes (3.7%). These findings link distinct humic fractions to arsenic‐mobilizing host–virome assemblages and reveal a candidate regulatory layer involving rare large temperate phages carrying receiver‐only AioR‐like loci.\n\nHumic fractions were linked to distinct arsenic-mobilizing host–virome assemblages in anaerobic paddy soil, with fulvic and humic acids producing greater late-transfer As(III) accumulation. Rare large putatively temperate phages carrying receiver-only AioR-like loci reveal a candidate viral regulatory layer alongside host-encoded arsenic transformations.\n\nABSTRACT\nArsenic mobilization in flooded rice paddies is driven by microbial redox reactions, but how redox-active organic matter coordinates arsenic-gene-bearing hosts and soil viromes remains unresolved. We examined the effects of fulvic acid (FA), humic acid (HA) and humin (HM) on arsenic-mobilizing host–virome assemblages using sequential anoxic slurry-transfer enrichments, genome-resolved metagenomics and curated virome analysis. FA and HA produced greater late-transfer arsenite accumulation than HM or unamended soil, while treatment-associated host genomes carried contrasting arsenic redox and detoxification repertoires. We identified two large temperate phages (> 100 kb) carrying receiver-only AioR-like loci in the FA and HA enrichments, with host-prediction signals converging on Bacillaceae. These loci were supported by hallmark-rich viral scaffold context and intact-locus read coverage and remained invariant despite genome-wide polymorphism. Reanalysis of 49,649 soil-derived viral genomes showed that arsenic-associated viral genes were rare among the 9518 quality-filtered genomes (0.29%) and occurred mainly as truncated regulatory architectures, particularly AioR-like receiver and AioS-like kinase-core fragments, on putatively lytic 30–70 kb genomes. By contrast, arsenic-associated viral-gene carriers were more frequent in our enrichment viromes (3.7%). These findings link distinct humic fractions to arsenic-mobilizing host–virome assemblages and reveal a candidate regulatory layer involving rare large temperate phages carrying receiver-only AioR-like loci.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70496",
+    "date": "2026-11-14",
+    "authors": "Jiangtao Qiao, \nManjia Chen, \nMao Ye, \nYating Chen, \nRuichuan Gao, \nLiping Fang, \nFangbai Li",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70496?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "phage",
+        "phages",
+        "viral",
+        "virome",
+        "viromes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4467,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1111/1462-2920.70496"
+    ]
+  },
+  {
+    "id": "10.1186/s13059-026-04316-3",
+    "title": "AMP Challenge: towards a standardized, community-wide benchmark for AI-driven antimicrobial peptide design",
+    "abstract": "",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04316-3",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04316-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4468,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1186/s13059-026-04316-3"
+    ]
   }
 ]

@@ -6353,6 +6353,13 @@
     ]
   },
   {
+    "name": "Nutricion hospitalaria",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Nutritional neuroscience",
     "scope": []
   },
@@ -6415,6 +6422,7 @@
   {
     "name": "One health (Amsterdam, Netherlands)",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -6471,6 +6479,13 @@
   },
   {
     "name": "Organogenesis",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Osteoarthritis and cartilage open",
     "scope": [
       "genomics",
       "microbiology"
