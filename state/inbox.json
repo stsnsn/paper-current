@@ -376601,5 +376601,293 @@
     "related_dois": [
       "10.1021/acs.jmedchem.6c02716"
     ]
+  },
+  {
+    "id": "10.1186/s40168-026-02564-w",
+    "title": "A specialized microbiome enriched in nitrification and halogen cycling potential resolved from multi-omics investigation of a Caribbean suboxic and acidic marine sinkhole",
+    "abstract": "Background\n                The Luymes Sinkholes, located on the Luymes Bank northwest of Saba, represent a unique marine environment characterized by distinct biogeochemical gradients. Most noticeable is an acidic (pH ≈ 6.25) and suboxic (O2 < 60 µmol/kg) submerged ‘lake’ at ~ 220 m depth exhibiting extreme deviations from standard oceanographic patterns, including elevated inorganic carbon, nitrate, and phosphate, and a lower temperature (20.3 ºC vs 26.4 ºC). To determine how the microbiome within the submerged acid lake adapted to these unique conditions, we collected 59 coupled samples of size-filtered (0.22 µm) planktonic microbes for shotgun metagenomics and solid-phase extracted dissolved organic matter for untargeted metabolomics from 21 stations at depths ranging from 2 to 600 m during a 10-day research cruise in December 2019.\n              \n                Results\n                We identified a distinct microbial community within the submerged acid lake different from the non-acidic sinkholes, with increased abundances of Nitrospinota, Thermoproteota, Planctomycetota, and Actinobacteriota. We also found three enriched classes of dissolved compounds within the submerged acid lake: (1) large, (2) low-polarity, and (3) halogenated metabolites, including iodides and halobenzoic acids. Correlations between microbial taxa and metabolite classes show potential links between nitrifying archaea and halogenated compound cycling. We further supported these findings using the functional annotation of metagenome-assembled genomes (MAGs) and protein clusters showing enrichment of nitrification and halogen cycling genes, suggesting the presence of specialized degradation and biosynthetic pathways, directly connecting microbial metabolism to the observed geochemical conditions.\n              \n                Conclusion\n                These findings demonstrate that the submerged acid lake contains specific microbially driven biogeochemical processes under acidified and low-oxygen conditions, providing a natural model for future extreme ocean acidification scenarios. With this multi‑omics approach, we were able to connect the microbial metabolism with this unique environment, thereby expanding our understanding of how both are interconnected.\n                \n\n                  \n                    \n                      \n                        Video Abstract",
+    "journal": "Microbiome",
+    "doi": "10.1186/s40168-026-02564-w",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40168-026-02564-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "metagenom",
+        "metagenome",
+        "metagenomics",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "lake",
+          "marine",
+          "ocean",
+          "plankton"
+        ],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4451,
+    "collected_at": "2026-11-14T03:23:41.582958+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40168"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1186/s40168-026-02564-w"
+    ]
+  },
+  {
+    "id": "10.1186/s40168-026-02572-w",
+    "title": "Low-abundance taxa are associated with a refined rumen microbiome–resistome interplay in high-yielding dairy cows: an absolute abundance-based metagenomic perspective",
+    "abstract": "Background\n                     The rumen microbiota undergoes dynamic shifts in response to fluctuations in physiological stages and host-related factors, and has been associated with productive traits including milk yield, feed efficiency, and methane emissions. However, the ecological mechanisms underlying the relationship between microbial relative abundance, absolute abundance, and shifts in microbiota structure, and their connection to host production performance, remain incompletely understood. This study aimed to characterize the rumen microecological features across cows with divergent lactation performance, with particular emphasis on linking microbial absolute abundance, mobile genetic elements, and antibiotic resistance genes to productivity in high-yielding cows. In this study, rumen fluid was collected from 8 high-yielding cows and 8 low-yielding cows selected from 90 mid-lactation Holstein cows. Shotgun metagenomics with spike-in-based absolute quantification and untargeted metabolomics were employed to investigate the characteristics and potential associations and transmission patterns of rumen microbial communities and ARGs in cows with different milk yields.\n                  \n                     Results\n                     We observed that high-yielding cows exhibited stronger carbohydrate metabolism capacity, higher Chao1 and ACE indices, and lower total microbial absolute abundance. Moreover, high-yielding cows displayed reduced absolute abundances of bacteria and viruses, increased relative abundances of archaea and eukaryotes, and a more intricate microbial network architecture. These shifts were accompanied by a reduction in ARGs prevalence, particularly within peptide, elfamycin, and fluoroquinolone antibiotic categories, and were accompanied by a streamlined ARGs interaction network. Furthermore, the attenuation of ARGs was associated with reduced levels of MGEs, especially those linked to replication, phage activity, genetic transfer, and defense functions. These findings suggest potential associations among microbial structure, MGEs, and ARGs in the rumen ecosystem.\n                  \n                     Conclusion\n                     These findings indicate that complex microbial networks involving low-abundance taxa, together with a streamlined ARGs ecosystem, are associated with high milk yield in dairy cows. This perspective offers valuable implications for mitigating antibiotic resistance risks in intensive livestock systems and advancing efficient, healthy dairy production.\n                     \nVideo Abstract",
+    "journal": "Microbiome",
+    "doi": "10.1186/s40168-026-02572-w",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40168-026-02572-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiota",
+        "phage",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4452,
+    "collected_at": "2026-11-14T03:23:41.582958+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40168"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1186/s40168-026-02572-w"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.12.766112",
+    "title": "Multi-locus pairing expands the functional repertoire of two-peptide bacteriocins",
+    "abstract": "Two-peptide bacteriocins are generally viewed as self-contained systems whose peptides are encoded at the same biosynthetic locus and co-expressed to form an active antimicrobial pair. Here, we show that functional pairing extends beyond this organization. Comparative genomic analysis revealed frequent co-occurrence of putative two-peptide bacteriocins encoded at distinct chromosomal loci in streptococci. Testing pairwise combinations of 47 peptides produced by cell-free protein synthesis identified 54 combinations with enhanced antimicrobial activity, with inter-locus combinations more frequent than intra-locus combinations. In Streptococcus mitis strain C22, four dispersed bacteriocin loci are coordinately expressed during exponential growth despite regulation by partially independent signaling pathways, providing an opportunity for inter-locus pairing. Split-luciferase complementation assays showed that active peptide pairs associate and that these interactions depend predominantly on amino acid sequence. Using a bacteriocin-free S. mitis background, we further show that components produced by distinct bacterial cells can act together to increase producer competitiveness in co-culture with S. pneumoniae. These findings reveal a modular organization in which peptides encoded at different loci can form functional combinations, including when produced by separate cells. This flexibility expands the antimicrobial repertoire available to individual strains and provides a mechanism for bacteriocin diversification while retaining functional compatibility.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766112",
+    "date": "2026-11-13",
+    "authors": "Lanca, J., Borralho, J., Sa-Leao, R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766112v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4453,
+    "collected_at": "2026-11-14T03:23:41.582958+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.64898/2026.11.12.766112"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.12.766216",
+    "title": "The FraA adhesin and Ebp pili mediate Enterococcus faecalis adhesion under fluid flow",
+    "abstract": "Enterococcus faecalis is a frequent cause of infective endocarditis and catheter-associated urinary tract infections (CAUTI). Successful colonization is challenged by blood and urine flow and relies on a strong and resilient bacterial attachment. Here, we identify molecular determinants that enable E. faecalis to maintain adhesion under flow, notably the flow-related adhesin (FraA), a previously uncharacterized adhesion factor encoded by OG1RF_11764. Transcriptomic analysis revealed increased fraA expression in surface-attached bacteria exposed to shear stress. Structural predictions identified an N-terminal region with homology to characterized Gram-positive adhesins, followed by tandem CLIPPER repeats with putative isopeptide-bond-forming residues and a C-terminal cell-wall sorting signal. Using microfluidics and single-cell tracking, we found that deletion of fraA accelerated detachment from hydrophobic abiotic surfaces under fluid flow. In line with this finding, loss of fraA reduced catheter colonization in a murine CAUTI model. Analysis of 9,192 E. faecalis genomes identified FraA in 50.8% of isolates, spanning clinical and non-clinical sources, with sequence type-associated variation in CLIPPER repeat number. Another determinant, Ebp pilus, enhances adhesion at high shear stress and contributes to a shear-enhanced adhesion pattern. Collectively, these findings identify FraA as an adhesion factor contributing to medical-device colonization and together with Ebp pili support attachment across different hydrodynamic conditions. Identifying these adhesion mechanisms could inform strategies to prevent colonization of medical devices exposed to fluid flow.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766216",
+    "date": "2026-11-13",
+    "authors": "Antypas, H., Roch, M., Ng, K. K. F., Silva Rosa da Luz, B., Wen, R. T. J., Thomas, R. Z., Filloux, A., Kline, K. A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766216v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4454,
+    "collected_at": "2026-11-14T03:23:41.582958+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.64898/2026.11.12.766216"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.765836",
+    "title": "Mechanical unloading and exercise volume differentially modulate the gut microbiome and intestinal gene expression in mice",
+    "abstract": "Mechanical unloading and physical activity can influence the gut microbiome and intestinal physiology, but the effects of exercise volume and prior hindlimb suspension remain incompletely understood. This study investigated how hindlimb suspension, different exercise volumes, and exercise following hindlimb suspension affect gut microbial composition and intestinal gene expression in mice. Mice were assigned to five groups: control (C), hindlimb suspension (HL), high-volume exercise (HE), low-volume exercise (LE), and hindlimb suspension followed by exercise (HLE). Cecal microbiota composition was characterized using 16S rRNA gene sequencing, followed by alpha- and beta-diversity analyses and LinDA differential-abundance analysis. Jejunal gene expression was assessed by quantitative PCR for markers related to oxidative stress, inflammation, metabolic signaling, and epithelial function. Hindlimb suspension reduced microbial richness, as indicated by the Observed, Chao1, and ACE indices, and was associated with a significant difference in overall microbial community composition compared with controls. It was also associated with reductions in Streptococcaceae/Streptococcus and Spirochaetota. Low-volume exercise produced the most extensive phylum-level differential-abundance findings, whereas high-volume exercise showed no significant phylum-level differences from controls. Both exercise groups (HE and LE) exhibited increased intestinal expression of GPX1, HMOX1, NFKB1, and SOD2. HE also increased IGF and MUC2 expression, whereas HLE reduced IGF expression compared with controls. Community composition did not differ significantly between HLE and HL, and LGR5 expression did not differ significantly among groups. In conclusion, hindlimb suspension was associated with reduced microbial richness and selective taxonomic changes, whereas low-volume exercise produced the most extensive phylum-level alterations in microbial composition. Exercise volume was also associated with distinct intestinal transcriptional responses, while exercise following mechanical unloading did not produce a microbial community composition significantly different from that observed following unloading alone. These findings highlight the context-dependent effects of mechanical unloading and exercise on gut microbial composition and intestinal gene expression.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765836",
+    "date": "2026-11-13",
+    "authors": "Hundam, S., Al-Zghoul, M. B., Ogiliat, S., Makableh, D., Abu-Haniyeh, L. A., Shahatit, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765836v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4455,
+    "collected_at": "2026-11-14T03:23:41.582958+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.64898/2026.11.11.765836"
+    ]
   }
 ]

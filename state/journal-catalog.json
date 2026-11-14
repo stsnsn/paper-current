@@ -45,6 +45,13 @@
     ]
   },
   {
+    "name": "ACS infectious diseases",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "ACS nano",
     "scope": [
       "genomics",
@@ -602,6 +609,13 @@
     ]
   },
   {
+    "name": "Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Aquaculture nutrition",
     "scope": []
   },
@@ -859,6 +873,13 @@
     "name": "Bioinformatics Advances",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Biologics : targets & therapy",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -2058,6 +2079,13 @@
     ]
   },
   {
+    "name": "Current molecular medicine",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Current neurology and neuroscience reports",
     "scope": [
       "genomics",
@@ -2149,6 +2177,13 @@
     ]
   },
   {
+    "name": "Current protein & peptide science",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Current protocols",
     "scope": [
       "genomics",
@@ -2192,6 +2227,13 @@
   },
   {
     "name": "Cytokine & growth factor reviews",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Cytotechnology",
     "scope": [
       "genomics",
       "microbiology"
@@ -3261,6 +3303,7 @@
     "name": "Harmful algae",
     "scope": [
       "ecology",
+      "genomics",
       "microbiology"
     ]
   },
@@ -3428,6 +3471,14 @@
   {
     "name": "Infectious agents and cancer",
     "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Infectious Disease Modelling",
+    "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -4054,6 +4105,7 @@
   {
     "name": "Journal of basic microbiology",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -4186,6 +4238,13 @@
   },
   {
     "name": "Journal of chemical information and modeling",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "The Journal of chemical physics",
     "scope": [
       "genomics",
       "microbiology"
@@ -4570,6 +4629,10 @@
       "genomics",
       "microbiology"
     ]
+  },
+  {
+    "name": "Journal of infection in developing countries",
+    "scope": []
   },
   {
     "name": "The Journal of infectious diseases",
@@ -4991,6 +5054,7 @@
   {
     "name": "Journal of the American Chemical Society",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -5490,6 +5554,13 @@
   },
   {
     "name": "Microbial cell factories",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Microbial cell (Graz, Austria)",
     "scope": [
       "genomics",
       "microbiology"
@@ -6225,6 +6296,13 @@
   },
   {
     "name": "Non-coding RNA",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Non-coding RNA research",
     "scope": [
       "genomics",
       "microbiology"
