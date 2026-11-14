@@ -202346,5 +202346,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "空間トランスクリプトミクスにおける空間領域検出の統計的有意性検定",
     "abstract_ja": "空間トランスクリプトミクスにおいて、ドメイン検出手法は、プラットフォーム固有の空間計測単位（細胞、ビン、または多細胞スポット）を空間ドメインにグループ化し、分子プログラム、細胞組成、および組織領域間の相互作用を比較する。しかし、同一組織内で検出される候補ドメインの数は、ユーザーが指定したパラメータやモデル選択基準によって変動し得る。候補ドメインを統合すべきか否かは、単一ドメインの帰無仮説の検定として定式化でき、この仮説では、各遺伝子が統合領域内のすべての空間単位において一定の平均発現量を持つと想定される。しかし、候補ドメインの検出に用いた同一の遺伝子発現データを用いて検定を行うと、事後選択バイアスが生じ、反保存的なp値が得られる可能性があり、過剰セグメンテーションのリスクが高まる。これらの課題に対処するため、我々は空間ドメイン検出のための仮説検定フレームワークであるSigDoTS（statistical Significance testing for Domain deTection in Spatial transcriptomics）を提案する。SigDoTSは、ファミリーワイズ誤差制御を調整した上で、階層的検定を用いてどの候補ドメインを保持または統合するかを決定する。本手法は遺伝子間共分散と空間依存性を考慮し、適合させた単一ドメイン帰無仮説の下でシミュレーションされたデータセットに対して上流のドメイン検出パイプラインを再実行することでp値を算出する。シミュレーションにおいて、SigDoTSは単一ドメイン帰無仮説の下でルートノードにおける第一種過誤率を抑制し、複数のドメインが存在する場合に真の空間ドメインの復元精度を向上させた。ヒト背外側前頭前皮質において、SigDoTSは表層および深層のLayer 6ドメインを保持したが、初期の候補ドメイン数が異なる場合にはLayer 3の候補ドメインを統合した。卵巣がんおよび大腸がんにおいて、SigDoTSは異なる遺伝子発現プログラムと局所免疫環境を持つ上皮ドメインを、免疫、間質、および血管ドメインとともに保持した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.10.26367377",
+    "title": "CDC123 variants associated with developmental abnormalities alter CDC123-eIF2 subunit interactions and impair protein synthesis",
+    "abstract": "The translation initiation factor eIF2 is an essential regulator of cellular protein synthesis with direct links to human physiology and development. Composed of eIF2α, β, and γ subunits, eIF2 heterotrimer assembly requires the activity of its dedicated chaperone and the essential protein, CDC123. Accordingly, CDC123 is a key determinant of protein synthesis and cell growth. Previous research has demonstrated that variants in eIF2γ impair neurodevelopment, and CDC123 variants of uncertain significance have recently been reported for pediatric patients with neurologic findings. However, the potential pathogenicity, and cell and molecular impacts of these clinically relevant CDC123 variants remains entirely unexplored. In this work, we describe four unrelated families with pediatric patients that present with neurodevelopmental delays, hypotonia, and motor dysfunction. The probands are heterozygous for three novel CDC123 missense variants. The potential pathogenicity of the variants is comprehensively assessed through appraisal of CDC123 variant allele frequencies, protein conservational analyses, structural modeling, and functional assays in both humanized yeast and human cell-based model systems. Cellular and biochemical studies indicated that the variants are damaging to CDC123 activity, altering CDC123-eIF2 subunit interactions and leading to reduced cell growth. Furthermore, we demonstrate that the CDC123 variants display dominant-negative effects on yeast cell growth and protein synthesis, rather than causing haploinsufficiency. Together, our findings provide the first link between CDC123 missense variants and human disease and highlight that CDC123-mediated eIF2 heterotrimer formation is essential for human development.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.26367377",
+    "date": "2026-11-10",
+    "authors": "Erb A, Misciagna A, Rodriguez-Martinez A, Gasser B, DeFilippo C, Gillam A, Beleford D, VanNoy G, Young-Baird S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363649",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2950,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.10.26367377"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b00b98b1362bf4e9b99e2a0764494853d9f0ac51383f3e38735d93b03c44a52e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:08:06.489359+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e3c554ce014768fc4a6d9262976156f1358fe668116875cb27df6aaa02307f00",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:08:06.489359+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "発育異常に関連するCDC123変異体は、CDC123-eIF2サブユニット間の相互作用を変化させ、タンパク質合成を阻害する。",
+    "abstract_ja": "翻訳開始因子eIF2は、ヒトの生理機能および発生に直接的に関与する、細胞内タンパク質合成の必須調節因子である。eIF2α、β、およびγサブユニットから構成されるeIF2ヘテロ三量体の構築には、専用のシャペロンおよび必須タンパク質であるCDC123の活性が必要である。したがって、CDC123はタンパク質合成および細胞増殖の重要な決定因子である。先行研究により、eIF2γの変異が神経発達を損なうことが示されており、最近では神経学的所見を有する小児患者において、意義不明のCDC123変異が報告されている。しかしながら、これらの臨床的に意義のあるCDC123変異の潜在的な病原性、ならびに細胞および分子レベルへの影響については、全く解明されていない。本研究では、神経発達遅滞、筋緊張低下、および運動機能障害を呈する小児患者において、互いに関連のない4つの家系について報告する。被検者は、3つの新規CDC123ミスセンス変異のヘテロ接合体である。これらの変異の潜在的な病原性については、CDC123変異アレル頻度の評価、タンパク質保存性解析、構造モデリング、およびヒト化酵母およびヒト細胞ベースのモデル系における機能アッセイを通じて包括的に評価した。細胞および生化学的研究により、これらの変異がCDC123活性に悪影響を及ぼし、CDC123-eIF2サブユニット間の相互作用を変化させ、細胞増殖の低下を招くことが示された。さらに、CDC123変異はハプロ不全を引き起こすのではなく、酵母細胞の増殖およびタンパク質合成に対してドミナントネガティブ効果を示すことを実証した。以上の知見は、CDC123ミスセンス変異とヒト疾患との間の初の関連性を示すものであり、CDC123を介したeIF2ヘテロ三量体の形成がヒトの発生に不可欠であることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11394404/v1",
+    "title": "Hydrogen peroxide, chlorine, and peracetic acid disinfectants outperform quaternary ammonium compounds against Staphylococcus aureus and Pseudomonas aeruginosa wet and dry surface biofilms",
+    "abstract": "Abstract      Background:    Wet and dry surface biofilms (WSB and DSB), are a recognized source for healthcare-associated infections (HAI), and effective cleaning and disinfection regimens are critical to reducing HAI risk for patients. Disinfectant efficacy against biofilms on dry surfaces, however, remains poorly characterized relative to that against planktonic organisms.    Methods:    The bactericidal efficacy of eight EPA-registered hospital-grade, one-step cleaner-disinfectants was assessed against WSB and DSB of  Staphylococcus aureus  (ATCC 6538) and  Pseudomonas aeruginosa  (ATCC 15442)  .  Biofilms were grown in a CDC biofilm reactor following EPA-MLB-SOP-MB-19-06 and, for DSB formation, dehydrated at 25 and 21  o  C for  S. aureus  and  P. aeruginosa  respectively for 24, 48, and 72 h intervals to reflect recommended cleaning frequencies for healthcare surfaces. Biofilms were challenged with each disinfectant at its label-specified contact time following EPA-MLB-SOP-MB-20-04. Efficacy was expressed as log  10  CFU/cm  2  reduction, and experiments were performed in triplicate.    Results:    Hydrogen peroxide-, chlorine- and peracetic acid-based disinfectants demonstrated significantly greater efficacy than quaternary ammonium-based products against  S. aureus  biofilms (P .  Desiccation time significantly impacts bactericidal efficacy of  P. aeruginosa  biofilms (P S. aureus  . There is greater disinfectant efficacy against  P. aeruginosa  biofilms with the addition of a solvent to a quaternary ammonium product.    Conclusions:    Our findings indicate that current planktonic-based registration testing may overstate real-world disinfectant performance against the biofilm-embedded organisms healthcare facilities are realistically working to control, and that this gap varies by chemistry, organism, and how long a biofilm has been allowed to persist before disinfection.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11394404/v1",
+    "date": "2026-11-10",
+    "authors": "Horn CM, Spray HN, Garris AJ, Teska PJ, Oliver-Jischke H.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363433",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2954,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.21203/rs.3.rs-11394404/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b1c38951f513d93203205a625ade4ea6ad1f2a1fc89e8d6821580f61291cc76a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:08:06.489359+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "50525ef0266c330fe32b662dd98554b293e658129cd6639d517c6cdc6c04ce45",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:08:06.489359+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "過酸化水素、塩素、および過酢酸消毒剤は、黄色ブドウ球菌および緑膿菌の湿潤・乾燥表面バイオフィルムに対して、第四級アンモニウム化合物よりも優れた効果を発揮する。",
+    "abstract_ja": "要旨      背景：    湿潤および乾燥表面バイオフィルム（WSBおよびDSB）は、医療関連感染（HAI）の既知の原因であり、効果的な洗浄・消毒レジメンは患者のHAIリスクを低減する上で極めて重要である。しかしながら、乾燥表面上のバイオフィルムに対する消毒剤の有効性は、プランクトン性微生物に対する有効性と比較して、十分に解明されていない。    方法：    EPA登録済みの病院グレードの1ステップ洗浄・消毒剤8種について、Staphylococcus aureus（ATCC 6538）およびPseudomonas aeruginosa（ATCC 15442）のWSBおよびDSBに対する殺菌有効性を評価した。バイオフィルムは、EPA-MLB-SOP-MB-19-06に従ってCDCバイオフィルムリアクター内で培養し、DSB形成については、医療施設表面の推奨洗浄頻度を反映させるため、S. aureusおよびP. aeruginosaそれぞれについて、25℃および21℃で24時間、48時間、72時間の間隔で脱水処理を行った。バイオフィルムに対し、EPA-MLB-SOP-MB-20-04に従い、各消毒剤のラベル指定の接触時間で負荷試験を実施した。有効性はlog 10 CFU/cm²の減少量として表し、実験は3連で実施した。    結果：    過酸化水素、塩素、および過酢酸ベースの消毒剤は、S. aureusバイオフィルムに対して、第四級アンモニウムベースの製品よりも有意に高い有効性を示した（P. 乾燥時間はP. aeruginosaバイオフィルムの殺菌有効性に有意な影響を及ぼす（P S. aureus）。第四級アンモニウム製品に溶媒を添加することで、P. aeruginosaバイオフィルムに対する消毒剤の有効性が向上する。    結論：    本研究の結果は、現在のプランクトン性微生物ベースの登録試験が、医療施設が現実的に制御に取り組んでいるバイオフィルム内埋在性微生物に対する消毒剤の実世界での性能を過大評価している可能性があり、この乖離は化学組成、微生物、および消毒前にバイオフィルムがどの程度の期間持続したかによって異なることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10880387/v1",
+    "title": "Functional transcriptomic profiling ofVeillonella parvula in oral microenvironments of patients with oral cancer: A cross-sectional study. Veillonella parvula Transcriptomics in Oral Cancer",
+    "abstract": "Abstract    Background.  Oral squamous cell carcinoma is a pathology associated with microbial dysbiosis.  Veillonella parvula  modulates the microenvironment by facilitating the maturation of complex biofilms; its role in carcinogenesis could therefore be decisive. Objectives.  To determine the active biological processes of  Veillonella parvula  in saliva, dental plaque, and tumor tissue samples from patients with oral squamous cell carcinoma. Methods  This cross-sectional study analyzed dental plaque, saliva, and tumor tissue from 10 oral squamous cell carcinoma patients. Following quality control (FastQC/Trimmomatic), Veillonella parvula was identified using Kraken and reference databases. Transcriptomic analysis (BLAST, STRING, KEGG) was performed on normalized data for differential abundance, clustering, PCA, and pathway enrichment. This approach characterized gene functions and identified tumor-associated signatures across microenvironments in a 69-word methodology. CLINICAL TRIAL REGISTRATION  Not applicable. This study was observational and did not involve a clinical intervention.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10880387/v1",
+    "date": "2026-11-10",
+    "authors": "Erira A, Polania JFN, Guevara LAC, Tosse FT, Robayo DAG.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363349",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2957,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.21203/rs.3.rs-10880387/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "75ae32852c54f706c6d1edb9a9d0ded0277cb715a3bd8c0ea6f84b0208e33aa5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:08:06.489359+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e73755b29171ef0d68b8d61076a521c7d8a83ee7058551aa544399ea3bb77253",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:08:06.489359+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "口腔癌患者の口腔微小環境におけるVeillonella parvulaの機能的トランスクリプトームプロファイリング：横断的研究。口腔癌におけるVeillonella parvulaのトランスクリプトミクス",
+    "abstract_ja": "要旨    背景。口腔扁平上皮癌は、微生物叢の乱れに関連する病態である。Veillonella parvulaは、複雑なバイオフィルムの成熟を促進することで微小環境を調節しており、したがって発癌におけるその役割が決定的な要因となり得る。目的。口腔扁平上皮癌患者の唾液、歯垢、および腫瘍組織検体におけるVeillonella parvulaの活性な生物学的プロセスを明らかにすること。方法 本横断的研究では、口腔扁平上皮癌患者10例の歯垢、唾液、および腫瘍組織を解析した。品質管理（FastQC/Trimmomatic）後、Krakenおよびリファレンスデータベースを用いてVeillonella parvulaを同定した。正規化データに対し、トランスクリプトーム解析（BLAST, STRING, KEGG）を行い、差次的存在量、クラスタリング、PCA、およびパスウェイエンリッチメントを解析した。このアプローチにより、69語の手法を用いて遺伝子機能を特性評価し、微小環境全体にわたる腫瘍関連シグネチャーを同定した。臨床試験登録 該当なし。本研究は観察研究であり、臨床的介入は伴わなかった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11381407/v1",
+    "title": "Uncertainty Aware Prediction of Near Complete Brilliant Green Photodegradation over CaTiO 3 Using Hybrid Machine Learning and Kinetic Modeling",
+    "abstract": "Abstract    Brilliant Green (BG) is a persistent cationic dye that can harm aquatic environments by reducing light penetration, disrupting photosynthesis, altering microbial activity, and causing toxicity. Because BG degradation depends on interacting operating conditions, accurate prediction and optimization remain challenging. In this study, we analysed 90 previously published CaTiO  3  photocatalytic observations using an integrated machine-learning and kinetic framework. Twelve regression models Extra Trees, Random Forest, Gradient Boosting, CatBoost, XGBoost, HistGradientBoosting, SVR, GPR, KNN, Elastic Net, Ridge, and PLSR were optimized using Bayesian search and evaluated through five-fold cross-validation and held-out testing. XGBoost achieved the strongest individual performance, with mean CV R  2  of 0.9844 and test R  2  of 0.9796. An XGBoost-GPR hybrid improved test R  2  to 0.9809, with RMSE and MAE of 3.4058 and 2.4556, respectively. SHAP analysis identified degradation time as the most influential predictor. Since measured removal reached only 89.53%, direct models could not reliably predict near-complete degradation. Therefore, pseudo-first-order rate constants were modeled using SVR. The framework identified a 2:7 CaCO  3  /TiO  2  ratio, 200 mg catalyst, and 10 ppm BG for 99.9% removal in 275.6 min. Bootstrap uncertainty analysis yielded a median time of 251.7 min.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11381407/v1",
+    "date": "2026-11-10",
+    "authors": "Khan MAH, Islam MM, Rahman S.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363192",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2958,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.21203/rs.3.rs-11381407/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c17fe6e30cd1b063b609ded38518b16e526bcfaeda2e6a8a45e15a756ebdcd5d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:08:06.489359+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8686f9a6a104d7a66479ba7eae38f67baec7c14443f28e9ceb6641638bec0787",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:08:06.489359+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ハイブリッド機械学習と速度論的モデリングを用いたCaTiO 3におけるほぼ完全なブリリアントグリーン光劣化の不確かさを考慮した予測",
+    "abstract_ja": "要旨    ブリリアントグリーン（BG）は残留性カチオン性色素であり、光透過率の低下、光合成の阻害、微生物活性の変化、および毒性の発現を通じて水圏環境に悪影響を及ぼす可能性がある。BGの分解は相互作用する運転条件に依存するため、正確な予測と最適化は依然として困難な課題である。本研究では、統合的な機械学習および速度論的フレームワークを用いて、既報のCaTiO₃光触媒に関する90件の観測データを解析した。Extra Trees、Random Forest、Gradient Boosting、CatBoost、XGBoost、HistGradientBoosting、SVR、GPR、KNN、Elastic Net、Ridge、およびPLSRの12種類の回帰モデルをベイズ探索を用いて最適化し、5分割交差検証およびホールドアウトテストにより評価した。XGBoostが最高の個別性能を示し、平均CV R²は0.9844、テストR²は0.9796であった。XGBoost-GPRハイブリッドモデルはテストR²を0.9809まで向上させ、RMSEおよびMAEはそれぞれ3.4058および2.4556であった。SHAP解析により、分解時間が最も重要な予測因子であることが特定された。実測除去率は89.53%にとどまったため、直接的なモデルではほぼ完全な分解を確実に予測することはできなかった。そこで、SVRを用いて擬似一次速度定数をモデル化した。本フレームワークでは、CaCO₃/TiO₂比2:7、触媒量200 mg、BG濃度10 ppmの条件において、275.6分で99.9%の除去率が得られることが特定された。ブートストラップ不確実性解析の結果、時間の中央値は251.7分であった。"
   }
 ]
