@@ -213003,5 +213003,348 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "移植後の腸内細菌叢異常は標的可能な軸である",
     "abstract_ja": "要旨    維持免疫抑制療法にもかかわらず、長期的なグラフト脱落は依然として重大な課題である。免疫抑制は腸管の免疫恒常性および微生物群集を乱し、それが血管炎症や慢性的なグラフト損傷の一因となる可能性がある。我々は以前、マウス腸管マイクロバイオームにおいて、複数の異なる免疫抑制剤クラスに長期間曝露された際に共通して見られる特徴として、ムリバクル科（Muribaculaceae）の増殖を同定した。本研究では、慢性タクロリムス投与下での完全MHCミスマッチマウス心臓移植モデルを用い、プロトレロゲン性のBifidobacterium pseudolongum subsp. globosum（Bifido）または炎症促進性のDesulfovibrio desulfuricans（Desulfo）の経口投与が、このディスバイオティック状態を転換させ、グラフトの運命に影響を与え得るかを検証した。経時的なメタゲノムおよびメタボロームプロファイリングにより、タクロリムスに関連した秩序ある微生物遷移が認められ、それは管腔内および循環代謝の協調的なリモデリングを伴う持続的なムリバクル科の濃縮へと至った。DesulfoではなくBifidoが、ムリバクル科の濃縮を減少させ、特定の発酵性共生菌を増加させ、さらにキヌレン酸やN-アセチルスペルミンを含む上皮および免疫調節に関連する代謝物を産生することで、群集の軌跡を転換させた。空間トランスクリプトミクスにより、Bifidoは初期のタクロリムス誘発性の結腸代謝、ストレス、および上皮リモデリングプログラムを部分的に減弱させる一方で、その後、回腸の抗菌防御、陰窩近位部の代謝適応、および粘膜液性免疫を選択的に再プログラムすることが示された。これらの変化に伴い、グラフト血管炎および線維化は最小限に抑えられ、腸間膜および末梢リンパ節（LN）におけるFoxp3⁺制御性T細胞の局在が増加し、寛容性ストラムラミニンα4:α5組織化が部分的に維持された。対照的に、Desulfo投与マウスではムリバクル科の濃縮が維持され、進行性の血管損傷が生じた。探索的なヒト-マウス糞便微生物叢移植（FMT）実験において、慢性同種グラフト血管症（CAV）関連のドナー便は、内因性のマウスムリバクル科の増殖と特有の微生物機能状態を促進し、同時にグラフト線維化、T細胞浸潤、LNリモデリング、および血管炎を増加させた。一方、非CAVドナー便はBifidoの濃縮を促進し、グラフト病理の軽減に関連していた。以上の知見を総合すると、免疫抑制剤によって攪乱された腸管エコシステムが標的可能な軸であるという原理実証が得られ、免疫抑制を補完し慢性的なグラフト損傷を軽減する新規補助療法を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11057030/v1",
+    "title": "A symbiont-derived biosurfactant couples bacterial surface properties to host-mediated clearance",
+    "abstract": "Abstract  Host mechanisms that regulate intestinal colonization are viewed as acting on microbes, yet microbial traits that determine susceptibility to host control remain poorly understood. Using the association between Caenorhabditis elegans and its symbiont Pseudomonas lurida MYb11, we identify the cyclic lipopeptide biosurfactant massetolide as a bacterial factor that couples microbial physiology to host-mediated clearance. An unbiased screen of >11,000 bacterial mutants coupled to a host transcriptional reporter, combined with bacterial and host genetics, chemical complementation, transcriptomics, and physiological analyses, revealed that massetolide triggers host TGF-β and serotonergic signaling to promote intestinal peristalsis, limiting colonization. Massetolide also alters bacterial surface properties and promotes swarming. Experimentally increased serotonin-dependent peristalsis selectively reduces colonization by massetolide-producing bacteria, whereas massetolide-deficient bacteria remain resistant to host-mediated expulsion. Together, our findings reveal a symbiont-derived biosurfactant that links host neuroimmune control of intestinal peristalsis with bacterial susceptibility to expulsion, coupling host and microbial physiology to regulate symbiont abundance.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11057030/v1",
+    "date": "2026-11-05",
+    "authors": "Pees B, Escudero-Hernández C, von Hoyningen-Huene A, Rosenstiel P, Schmitz R, Dierking K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359452",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 620,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11057030/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fbd7976a296248c8e93395462c5173f7fc3f2ffe11ae9010c6ddfe97d993f7b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:55:20.158483+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a621924ba7ec1e79ff1d1992e2787608210b7c0f01eb43d42b50e187f13040f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:55:20.158483+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "共生生物由来の生体界面活性剤が、細菌の表面特性と宿主介在性クリアランスを連関させる",
+    "abstract_ja": "要旨　腸管定着を制御する宿主機構は、微生物に作用するものと考えられているが、宿主による制御への感受性を決定づける微生物の特性については依然として十分に解明されていない。我々は、Caenorhabditis elegansとその共生菌Pseudomonas lurida MYb11との関連性を利用し、微生物の生理機能と宿主介在性のクリアランスを連関させる細菌因子として、環状リポペプチド生体界面活性剤マセトリドを同定した。11,000株を超える細菌変異株を宿主転写レポーターと組み合わせたバイアスのないスクリーニングに、細菌および宿主の遺伝学的解析、化学的相補性、トランスクリプトミクス、および生理学的解析を組み合わせた結果、マセトリドが宿主のTGF-βおよびセロトニン作動性シグナル伝達を誘発して腸管蠕動運動を促進し、定着を制限することが明らかになった。また、マセトリドは細菌の表面特性を変化させ、スウォーミングを促進する。実験的に増強したセロトニン依存性蠕動運動は、マセトリド産生菌による定着を選択的に減少させる一方、マセトリド欠損菌は宿主介在性の排出に対して耐性を維持する。以上の知見を総合すると、我々の研究は、腸管蠕動運動に対する宿主の神経免疫制御と、細菌の排出感受性とを結びつける共生菌由来の生体界面活性剤を明らかにし、宿主および微生物の生理機能を連関させることで共生菌の存在量を調節していることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11334404/v1",
+    "title": "ProteoKnight: Image-Based Encoding for Phage Virion Protein Classification and Uncertainty Estimation",
+    "abstract": "Abstract  Accurate prediction of Phage Virion Proteins (PVPs) is essential for genomic studies due to their crucial role as structural elements in bacteriophages. Machine learning has emerged as a promising approach for annotating phage protein sequences obtained via high-throughput sequencing. However, effective annotation requires informative sequence encoding. This paper introduces ProteoKnight, an image-based encoding method that adapts the classical DNA-Walk algorithm using amino-acid-specific pixel colors and adjusted walk distances. It addresses the spatial information loss inherent in the previously reported image-based representation for PVP classification, frequency chaos game representation (FCGR). Moreover, this study bridges a gap in uncertainty analysis for protein sequence classification by evaluating prediction uncertainty in binary PVP classification through the Monte Carlo Dropout technique.In this study, variance and entropy measures were used to assess prediction uncertainty across proteins of various classes and lengths, forming the foundation of this investigation into protein classification and uncertainty quantification.The experiments highlight the efficacy of our approach in binary classification, achieving approximately 89% accuracy, demonstrating competitive performance with previously reported methods. Nevertheless, multi-class classification accuracy remains suboptimal. Furthermore, the uncertainty analysis unveils variability in prediction confidence influenced by protein class and sequence length, contributing novel insights to protein classification research.Combined with parameter-efficient convolutional neural networks, ProteoKnight enables accurate PVP prediction. Moreover, our uncertainty investigation identifies data points associated with low-confidence predictions, enhancing the comprehensiveness of our analysis.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11334404/v1",
+    "date": "2026-11-05",
+    "authors": "Khan MI, Bhuiyan AA, Neha SA, Rahman MK, Noor J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359436",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteriophage",
+        "bacteriophages",
+        "classification",
+        "phage",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 621,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11334404/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "475ecbcf1f5144d0c0a2973969c70cbfe77e8b40818fdec1c5ce84b7dd1f5c4f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:55:20.158483+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1d64b8d47fba994698a5591584ece31fcf0940141eb01d0aa43d2c672ed9ea90",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:55:20.158483+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ProteoKnight: ファージビリオンタンパク質分類および不確実性推定のための画像ベース符号化",
+    "abstract_ja": "要旨　ファージウイルス粒子タンパク質（PVP）は、バクテリオファージの構造要素として極めて重要な役割を果たすため、ゲノム研究において正確な予測が不可欠である。機械学習は、ハイスループットシーケンシングによって得られたファージタンパク質配列のアノテーションにおける有望な手法として台頭している。しかし、効果的なアノテーションには、情報量の多い配列エンコーディングが必要である。本論文では、アミノ酸固有のピクセル色と調整されたウォーク距離を用いて従来のDNA-Walkアルゴリズムを適応させた、画像ベースのエンコーディング手法「ProteoKnight」を提案する。本手法は、PVP分類のために従来報告されてきた画像ベースの表現形式である周波数カオスゲーム表現（FCGR）に固有の空間情報の損失という課題に対処するものである。さらに、本研究では、モンテカルロ・ドロップアウト手法を用いて二値PVP分類における予測不確実性を評価することで、タンパク質配列分類の不確実性解析における空白を埋める。本研究では、さまざまなクラスおよび長さのタンパク質にわたって予測不確実性を評価するために分散およびエントロピー指標を用い、タンパク質分類と不確実性定量化に関する本研究の基礎を築いた。実験の結果、二値分類における本手法の有効性が浮き彫りとなり、約89%の正解率を達成し、既報の手法に匹敵する性能を示した。しかしながら、多クラス分類の正解率は依然として最適とは言えない。さらに、不確実性解析により、タンパク質クラスや配列長の影響を受ける予測信頼度の変動が明らかになり、タンパク質分類研究に新たな知見をもたらした。パラメータ効率の高い畳み込みニューラルネットワークと組み合わせることで、ProteoKnightは正確なPVP予測を可能にする。また、本研究の不確実性解析により、信頼度の低い予測に関連するデータポイントが特定され、解析の網羅性が向上した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11614101/v1",
+    "title": "A systematic review of whole-genome sequencing studies of Mycobacterium bovis that determine the direction of transmission between badgers and cattle",
+    "abstract": "Abstract  Background: Tuberculosis, caused by Mycobacterium bovis, is a bacterial disease affecting cattle and other domestic species, wild mammals, and with resilience to survive in the wider environment for many months. Whole-genome sequencing (WGS) methods can distinguish closely related isolates and local transmission clusters. However, the relatively slow evolutionary rate of M. bovis, with substitutions accumulating more slowly than individual transmission events occur, results in limited genetic divergence between epidemiologically linked isolates and a weak temporal signal, greatly limiting the ability to determine precisely ‘who infected whom’ and to estimate transmission rates. Differences in surveillance, sampling intensity, geographic coverage, and detection probability between cattle and the European badger Meles meles warrants a review to examine the strength of evidence, to better inform disease control considerations. Methods: Following PRISMA guidance, we searched PubMed/MEDLINE, Web of Science, Scopus, and Embase for peer-reviewed studies using WGS data from sympatric cattle and European badgers. Studies were assessed according to their sampling design, temporal and geographic coverage, genomic diversity, analytical framework, treatment of unsampled and environmental transmission pathways, and integration of genomic and epidemiological data. Evidence was considered separately for host sharing, local persistence, maintenance, spillover, and transmission direction. Results: The reviewed studies consistently showed close genetic relationships and local sharing of M. bovis strains between cattle and badgers. However, estimates of transmission direction varied substantially between studies with large variation in sampling quality and analytical approaches. Some studies reported patterns compatible with greater badger-to-cattle transmission, while others indicated the opposite, and some emphasized within-species spread and cattle movement. Directional estimates were potentially sensitive to unequal host sampling, differences in surveillance processes, weak temporal signal, incomplete observation of infection chains, the treatment of environmental or unsampled transmission pathways, and especially model assumptions. Close genomic similarity supported shared local transmission histories but generally did not establish direct transmission or its direction. Collectively the evidence base is considered insuﬀiciently rigorous for findings to be definitive and this is recognised by most authors. Conclusions: Current WGS studies demonstrate shared local M. bovis strains and epidemiological connections, but directionality and reservoir status remain highly uncertain and particularly sensitive to sampling and modelling assumptions some of which show signs of confirmation bias. Existing caveated estimates of transmission are presently insuﬀicient to inform generalised conclusions about variation in interspecies transmission rates and their use to validate badger intervention in disease control strategy.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11614101/v1",
+    "date": "2026-11-05",
+    "authors": "Torgerson P, Ghielmetti G, Langton T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359406",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 622,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11614101/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e28e3a85c7eb70eb3f7570bbc93ba4d6d0871c4b429ec881a7f57a04be94cae4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:55:20.158483+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5e0fc8e8e2ace2f05f3cec87b174d81e4c67d707d6cd52e48a01729127ffc74b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:55:20.158483+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アナグマとウシ間の伝播方向を解明するMycobacterium bovisの全ゲノム解析研究に関するシステマティックレビュー",
+    "abstract_ja": "要旨  背景：Mycobacterium bovisによって引き起こされる結核は、牛やその他の家畜種、野生哺乳類に影響を及ぼす細菌性疾患であり、広範な環境下で数ヶ月間生存する耐性を有する。全ゲノムシーケンシング（WGS）法を用いれば、近縁な分離株や局所的な伝播クラスターを区別することが可能である。しかし、M. bovisの進化速度は比較的緩やかであり、個々の伝播事象が発生する速度よりも置換の蓄積速度が遅いため、疫学的に関連のある分離株間の遺伝的分化は限定的であり、時間的シグナルも弱い。このため、「誰が誰に感染させたか」を正確に特定し、伝播率を推定する能力が著しく制限されている。牛とヨーロッパアナグマ（Meles meles）との間におけるサーベイランス、サンプリング強度、地理的カバー範囲、および検出確率の差異を踏まえ、疾病管理上の検討に資するため、エビデンスの強度を検証するレビューを行う必要がある。方法：PRISMAのガイドラインに従い、同所的に生息する牛およびヨーロッパアナグマのWGSデータを用いた査読済み研究をPubMed/MEDLINE、Web of Science、Scopus、およびEmbaseで検索した。研究は、サンプリング設計、時間的・地理的カバー範囲、ゲノム多様性、解析枠組み、未サンプリング経路および環境伝播経路の取り扱い、ならびにゲノムデータと疫学データの統合に基づいて評価した。エビデンスは、宿主の共有、局所的な持続性、維持、スピルオーバー、および伝播方向について個別に検討した。結果：レビューした研究では、牛とアナグマの間でM. bovis株の密接な遺伝的関係と局所的な共有が一貫して示されていた。しかし、伝播方向の推定値は、サンプリングの質や解析手法に大きなばらつきがあったため、研究間で大きく異なっていた。アナグマから牛への伝播がより多いことと整合するパターンを報告した研究もあれば、その逆を示した研究もあり、また種内拡散や牛の移動を強調した研究もあった。方向の推定値は、不均等な宿主サンプリング、サーベイランスプロセスの差異、弱い時間的シグナル、感染連鎖の不完全な観察、環境または未サンプリングの伝播経路の取り扱い、そして特にモデルの仮定に対して敏感である可能性があった。ゲノムの密接な類似性は、局所的な伝播履歴の共有を支持したが、一般的に直接的な伝播やその方向を立証するには至らなかった。総じて、エビデンス基盤は知見を確定的にするには不十分であると考えられており、この点はほとんどの著者によって認識されている。結論：現在のWGS研究は、M. bovis株の局所的な共有と疫学的な関連性を示しているが、方向性およびリザーバーとしての地位は依然として極めて不確実であり、特にサンプリングやモデリングの仮定に敏感である。これらの仮定の中には、確証バイアスの兆候が見られるものもある。既存の留保付きの伝播推定値は、種間伝播率の変動に関する一般化された結論を導き出すため、また疾病管理戦略におけるアナグマへの介入を検証するために用いるには、現時点では不十分である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11134472/v1",
+    "title": "Population genetics reveals adaptive signatures of Exidia glandulosa across diverse climates from China",
+    "abstract": "Abstract    Background  Wood-decaying fungus  Exidia glandulosa  , as the type species of the genus  Exidia  , is widely distributed in China. However, the scarcity of genomic limits the development of subsequent resources mining and utilization. Results  Here, we firstly assembled the high-quality reference genome of  E. glandulosa  using third-generation and next-generation sequencing technologies, systematically analyzed the population structure and adaptive evolution characteristics of  E. glandulosa  across diverse climatic regions in China based on 78 samples. This assembled genome revealed an abnormally high level of genome heterozygosity, suggesting elevated ancestral genetic diversity or historical inter-lineage hybridization events. Population genetic analyses indicated that genetic differentiation among  E. glandulosa  populations, likely driven by regional climatic variations. Selection signal analysis suggested that temperate populations mainly responded to climate variations through enhancing signal transduction and stress responses, subtropical populations focused on energy metabolism, and plateau populations through multidirectional regulation of pathways including energy sensing, autophagy regulation, and DNA damage repair. Conclusions  This study elucidates the significant roles of climatic and geographic factors in driving population differentiation and local adaptation in  E. glandulosa  . The rich genetic diversity and flexible molecular regulation mechanisms identified here underpin its wide ecological distribution. Additionally, this work provides a valuable genomic resource for future  Exidia-  related omics research and contributes to birding the gap in studies on climate adaptability of wood-decaying fungi within the framework population genetics.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11134472/v1",
+    "date": "2026-11-05",
+    "authors": "Liu S, Zhao H, Li W, Ablat T, Wu F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359249",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 624,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11134472/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ce434bd201226254db3766e487e09d38ef6224f57cc68ef4065cd4b1c07d45c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:55:20.158483+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "480969da1a6dfe1e7c2fbc00e425d7269e62a102d70b8a3b559d5cdcc2f713c6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:55:20.158483+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "集団遺伝学が明らかにする、中国の多様な気候におけるExidia glandulosaの適応形質",
+    "abstract_ja": "要旨    背景  Exidia属のタイプ種である木材腐朽菌Exidia glandulosaは、中国に広く分布している。しかし、ゲノムが希少であるため、後続の資源の探索および利用の開発が妨げられている。結果  本研究では、まず第3世代および次世代シーケンシング技術を用いてE. glandulosaの高品質なリファレンスゲノムをアセンブルし、78サンプルに基づき、中国の多様な気候地域におけるE. glandulosaの集団構造と適応進化特性を系統的に解析した。このアセンブルされたゲノムからは、ゲノムヘテロ接合性が異常に高いことが明らかになり、祖先的な遺伝的多様性の増大、あるいは歴史的な系統間交雑イベントの存在が示唆された。集団遺伝学的解析により、E. glandulosaの集団間における遺伝的分化は、おそらく地域的な気候変動によって駆動されていることが示された。選択シグナル解析の結果、温帯集団は主にシグナル伝達の強化とストレス応答を通じて気候変動に応答し、亜熱帯集団はエネルギー代謝に焦点を当て、高原集団はエネルギー感知、オートファジー調節、DNA損傷修復を含む経路の多方向的な調節を通じて応答していることが示唆された。結論  本研究は、E. glandulosaの集団分化と局所適応を駆動する気候的・地理的要因の重要な役割を解明した。ここで同定された豊かな遺伝的多様性と柔軟な分子調節機構が、その広範な生態学的分布を支えている。さらに、本研究は今後のExidia関連オミクス研究にとって貴重なゲノム資源を提供するとともに、集団遺伝学の枠組みにおいて、木材腐朽菌の気候適応性に関する研究の空白を埋めることに寄与する。"
   }
 ]
