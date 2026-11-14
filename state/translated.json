@@ -224953,5 +224953,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "生ビールおよび低アルコールビールのマイクロバイオーム。",
     "abstract_ja": "市販の樽生ノンアルコールおよび低アルコールビールの微生物学的エコシステムを評価し、特に腐敗ポテンシャルを有する主要な微生物の同定と、微生物群集構造の変動特性の解明に重点を置いた。英国ノッティンガム市内の12か所の異なるパブ（アカウント）において、20種類のノンアルコールおよび低アルコールビール（7つの異なるビールスタイル：ラガー、インディア・ペールエール、ペールエール、ウィート、ラドラー、ピルスナー、アンバーエール、および17のブランド）を代表する50点以上のサンプルを採取し、分析を行った。細菌および真菌の同定は、アンプリコンベースのナノポアシーケンシング（Oxford Nanopore Technologies）を用いた第3世代シーケンシング技術により実施した。サンプルの分析により、アセトバクター属、ブレタノマイセス属、およびサッカロマイセス属の種がマイクロバイオームの中核的な構成員であることが示された。ビールを採取したアカウントは、異なる微生物群集を有していることが示され、微生物群集構造を決定する支配的な要因となっており、変動の72.6%を説明した。本研究は、樽生ノンアルコールおよび低アルコールビールの分析に第3世代シーケンシング技術を適用した初の研究である。これらの知見は、樽生製品が微生物による腐敗に対して脆弱であることを浮き彫りにするとともに、特に微生物学的に感受性の高いノンアルコールおよび低アルコール飲料を供出する際には、樽生ライン、タップ、ケグカプラー、およびノズルに焦点を当てた厳格な衛生管理を実施することの重要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "systematic review",
+      "systematic-review",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1940090",
+    "title": "Global prevalence of <i>Salmonella</i> spp. and <i>Escherichia coli</i> in reptile taxa: a systematic review and meta-analysis.",
+    "abstract": "BackgroundReservoirs of zoonotic agents have been well-described in reptiles; however, global consensus across reptile taxa is lacking. In this systematic review and meta-analysis, the global prevalence of Salmonella spp. and Escherichia coli were estimated in reptiles to provide an overview of their occurrence and potential public health relevance.MethodsThe Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines were adhered to. Five online databases PubMed, Scopus, ScienceDirect, Google Scholar, and Medline were thoroughly searched to conduct meta-analyses. Data on prevalence were pooled using the random-effects model and heterogeneity was quantified using I2 statistics to ensure robustness of the data. Further, the publication bias was carefully assessed by Egger's linear regression and Begg's rank correlation tests.ResultsThe pooled prevalence of Salmonella spp. and Escherichia coli was examined using Comprehensive Meta-Analyses software v4.0. A total of 189 studies met the criteria for inclusion in this meta-analysis. Across these studies, a combined total of 24,152 specimens were assessed, resulting in the evaluation of 5,046 E. coli and Salmonella spp. isolates. The overall pooled prevalence of E. coli and Salmonella spp. was 25.1% (95% CI: 18.9-32.5%) and 33.3% (95% CI: 29.3-37.5%), respectively. Lizards exhibited the highest pooled prevalence at 36.8% (95% CI: 21.5-55.4%), while snakes showed the lowest prevalence at 16.8% (95% CI: 8.7-29.9%). Regarding geographic distribution, the highest pooled prevalence occurred in Indonesia, reaching 98.7% (95% CI: 88.1-99.9%) for Salmonella spp. and an identical 98.7% (95% CI: 88.1-99.9%) for E. coli. Subgroup analysis by sample type revealed that the highest pooled prevalence of Salmonella spp. was documented in composite fecal samples, reaching 45.8% (95% CI: 32.5-59.8%). Conversely, for E. coli, the highest pooled estimate was derived from isolated fecal samples at 40.5% (95% CI: 7.6-84.9%). Methodological subgroup analysis revealed that the combination of culture and serotyping resulted in the highest pooled prevalence for Salmonella spp. at 48.1% (95% CI: 35.6-60.9%). On the contrary, the highest pooled prevalence of E. coli was 50.3% (95% CI: 32.2-68.3%) obtained from the studies using a combination of culture, biochemical testing and serotyping.ConclusionA high global colonization burden of Salmonella spp. and E. coli exists in reptiles with significant variation by host taxonomy, geography and diagnostic method, and highlight the widespread occurrence of these bacteria in reptiles and their potential as zoonotic significance.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1940090",
+    "date": "2026-10-28",
+    "authors": "Mlangeni LN, Price C, Nkhebenyane J, Ramatla T, Weldon C.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43016826",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13752144",
+    "pmid": "43016826",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4395,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1940090"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1d10d26e9abbd09a888dcf600ba6bbf407afa4746e4c679733061580bf8639e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:07:48.661607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8148c3256bbcb3dba41e6d9f06a5c260bd50a434cfa17b0d46ad62439edef9de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:07:48.661607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "爬虫類分類群における<i>Salmonella</i>属および<i>Escherichia coli</i>属の世界的な分布：系統的レビューおよびメタ解析",
+    "abstract_ja": "背景 爬虫類における人獣共通感染症病原体のリザーバーについては十分に報告されているが、爬虫類の分類群間での世界的なコンセンサスは得られていない。本システマティックレビューおよびメタ解析では、爬虫類におけるSalmonella属菌およびEscherichia coliの世界的な有病率を推定し、その出現状況と公衆衛生上の潜在的な関連性について概説した。方法 システマティックレビューおよびメタ解析のための優先報告項目（PRISMA）ガイドラインに準拠した。メタ解析を実施するため、PubMed、Scopus、ScienceDirect、Google Scholar、およびMedlineの5つのオンラインデータベースを詳細に検索した。有病率に関するデータはランダム効果モデルを用いて統合し、データの頑健性を確保するため、I²統計量を用いて異質性を定量化した。さらに、Eggerの線形回帰分析およびBeggの順位相関検定により、出版バイアスを慎重に評価した。結果 Salmonella属菌およびEscherichia coliの統合有病率を、Comprehensive Meta-Analysesソフトウェアv4.0を用いて検討した。計189件の研究が本メタ解析の組み入れ基準を満たした。これらの研究を通じて、合計24,152検体が評価され、結果として5,046株のE. coliおよびSalmonella属菌の分離株が解析された。E. coliおよびSalmonella属菌の全体的な統合有病率は、それぞれ25.1%（95% CI: 18.9-32.5%）および33.3%（95% CI: 29.3-37.5%）であった。トカゲは36.8%（95% CI: 21.5-55.4%）と最も高い統合有病率を示し、ヘビは16.8%（95% CI: 8.7-29.9%）と最も低い有病率を示した。地理的分布に関しては、インドネシアで最も高い統合有病率が観察され、Salmonella属菌で98.7%（95% CI: 88.1-99.9%）、E. coliでも同様に98.7%（95% CI: 88.1-99.9%）に達した。検体タイプ別のサブグループ解析の結果、Salmonella属菌の最も高い統合有病率は複合糞便検体で記録され、45.8%（95% CI: 32.5-59.8%）に達した。対照的に、E. coliの最も高い統合推定値は、分離糞便検体から得られ、40.5%（95% CI: 7.6-84.9%）であった。方法論的サブグループ解析の結果、培養と血清型判定を組み合わせた手法により、Salmonella属菌の最も高い統合有病率が48.1%（95% CI: 35.6-60.9%）となった。一方、E. coliの最も高い統合有病率は、培養、生化学的検査、および血清型判定を組み合わせた研究から得られた50.3%（95% CI: 32.2-68.3%）であった。結論 爬虫類においてSalmonella属菌およびE. coliの高い世界的な定着負荷が存在しており、宿主の分類群、地理、および診断方法によって顕著な変動が見られる。このことは爬虫類におけるこれらの細菌の広範な出現と、人獣共通感染症としての潜在的な重要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1984969",
+    "title": "Enterovirus A71 neuroinvasion: central nervous system entry, blood-brain barrier dynamics, and multistage constraints.",
+    "abstract": "Enterovirus A71 (EV-A71) is an important cause of severe neurological complications of hand, foot, and mouth disease in children. Most infections remain confined to peripheral sites, whereas only a small proportion progress to central nervous system (CNS) disease, and the mechanisms underlying this transition remain incompletely understood. Here, we reappraise EV-A71 neuropathogenesis as a multistage process comprising peripheral replication, systemic dissemination, CNS entry, establishment of productive CNS infection, and subsequent tissue injury. This distinction is important because these events are mechanistically connected but not interchangeable. Current evidence supports both neurovascular and peripheral neural routes of CNS entry, although the nature and strength of the supporting evidence differ. Human-derived blood-brain barrier (BBB) models demonstrate that EV-A71 and virus-associated carriers can engage and cross neurovascular interfaces, whereas temporal studies in animals, perturbation of axonal transport, and compartmentalized neuronal models provide stronger causal support for retrograde axonal transport once the virus has accessed peripheral nerves. These findings establish mechanistic feasibility, but the timing, necessity, and relative contribution of each route during natural infection in children remain unresolved. We further emphasize that BBB crossing is not synonymous with BBB disruption, and that CNS entry does not necessarily result in productive CNS infection. On this basis, we propose a multistage progression-constraint model, in which progression to severe neurological disease requires EV-A71 to overcome distinct constraints imposed by tissue context, viral properties, and host factors at successive stages. This framework provides a testable explanation for why most infections remain peripheral while only a minority progress to severe neurological disease, and highlights the need for longitudinal clinical studies and directly comparable experimental models to identify where disease trajectories first diverge.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1984969",
+    "date": "2026-10-27",
+    "authors": "Zhang Y, Li Z, Gu Y, Huang B, Zou Z.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43011947",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13750525",
+    "pmid": "43011947",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4380,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1984969"
+    ],
+    "translation": {
+      "title": {
+        "hash": "153ab95a8d665207dc7103726e4e2aa0aa554993bbce5fe740885e93e2b9bcb8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:07:48.661607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6dfd608f334d71175613ac11c32c99d7352a14bc4e10de2644478f15f02e0e62",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:07:48.661607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エンテロウイルスA71の神経侵入：中枢神経系への侵入、血液脳関門の動態、および多段階の制約。",
+    "abstract_ja": "エンテロウイルスA71（EV-A71）は、小児における手足口病の重篤な神経学的合併症の重要な原因である。ほとんどの感染は末梢部位に留まるが、中枢神経系（CNS）疾患へと進展するのはごく一部であり、その移行の根底にある機序は依然として十分に解明されていない。本研究では、EV-A71の神経病原性を、末梢での複製、全身への拡散、CNSへの侵入、産生性CNS感染の成立、およびその後の組織損傷からなる多段階プロセスとして再評価する。これらの事象は機序的に関連しているものの、相互に代替可能ではないため、この区別が重要となる。現在のエビデンスは、CNS侵入の神経血管経路と末梢神経経路の両方を支持しているが、その裏付けとなるエビデンスの性質や強度は異なる。ヒト由来の血液脳関門（BBB）モデルは、EV-A71およびウイルス関連キャリアが神経血管界面に接触しこれを通過できることを示している。一方、動物を用いた経時的研究、軸索輸送の攪乱、およびコンパートメント化された神経モデルは、ウイルスが末梢神経に到達した後の逆行性軸索輸送について、より強力な因果的根拠を提供している。これらの知見は機序的な実現可能性を立証するものであるが、小児における自然感染時の各経路のタイミング、必要性、および相対的な寄与については未解明のままである。さらに我々は、BBB通過がBBB破壊と同義ではないこと、およびCNS侵入が必ずしも産生性CNS感染をもたらすわけではないことを強調する。この根拠に基づき、我々は多段階進行制約モデルを提案する。このモデルでは、重篤な神経疾患への進行には、各段階で組織コンテキスト、ウイルス特性、および宿主因子によって課される異なる制約をEV-A71が克服することが必要となる。この枠組みは、なぜほとんどの感染が末梢に留まり、ごく一部のみが重篤な神経疾患へと進行するのかについて検証可能な説明を提供し、疾患の軌跡がどこで最初に分岐するのかを特定するための縦断的な臨床研究および直接的に比較可能な実験モデルの必要性を浮き彫りにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1924725",
+    "title": "Chaihuang weikuining protects against ethanol-induced gastric ulcer through modulation of gut microbiota and inhibition of JAK1/STAT3 signaling.",
+    "abstract": "BackgroundChaihuang weikuining (CHWKN) is a traditional Chinese medicinal formula with reported anti-ulcer activity. However, the underlying mechanisms remain unclear. This study aimed to investigate the protective effects of CHWKN against ethanol-induced gastric ulcer (GU) and to explore the role of gut microbiota in mediating these effects.MethodsAn ethanol-induced GU model was established in rats. Histological staining (H&E and PAS) and biochemical analyses were used to evaluate gastric injury. Antibiotic (ABX) treatment and fecal microbiota transplantation (FMT) were performed to determine the involvement of gut microbiota. 16S rDNA sequencing was conducted to analyse microbial composition.ResultsCHWKN markedly alleviated ethanol-induced gastric mucosal injury, as evidenced by improved histopathological features and restored of gastric function. CHWKN significantly reduced myeloperoxidase (MPO) and pro-inflammatory cytokines (IL-1β, IL-6, TNF-α, and LPS) while increasing IL-10 levels, accompanied by suppression of JAK1/STAT3 signaling. Notably, depletion of gut microbiota abolished the protective and anti-inflammatory effects of CHWKN. Conversely, FMT from CHWKN-treated donors (the donor rats treated with ethanol and CHWKN) restored gastric mucosal integrity and reduced inflammation in recipient rats. Furthermore, CHWKN remodeled the composition of gut microbiota by increasing potentially beneficial bacteria and reversing ethanol-induced dysbiosis.ConclusionThese findings demonstrate that CHWKN exerts protective effects against ethanol-induced GU by modulating of gut microbiota and subsequently inhibiting of JAK1/STAT3-mediated inflammation. This highlights a microbiota-dependent mechanism underlying its therapeutic action.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1924725",
+    "date": "2026-10-27",
+    "authors": "Fu A, Guo R, Wang K, Zhuge H, Ying G, Ma W, Ding Q, Li S, Bao J, Yu W.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43010961",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13747876",
+    "pmid": "43010961",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rdna",
+        "bacteria",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4381,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1924725"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bc2bd0d96ab1e1b79b6d54f200365f339559a94ad490f58f6bdb24e8adf4c382",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:07:48.661607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "013da8b2098f5d21c2f027a818c91936369c50795c10d63dbcf24fbd59d62181",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:07:48.661607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "柴黄維帰寧は、腸内細菌叢の調節およびJAK1/STAT3シグナル伝達の抑制を介して、エタノール誘発性胃潰瘍を予防する。",
+    "abstract_ja": "背景Chaihuang weikuining (CHWKN) は、抗潰瘍作用が報告されている中国の伝統薬方である。しかし、その根底にある機序は依然として不明である。本研究では、エタノール誘発性胃潰瘍 (GU) に対するCHWKNの保護効果を検討し、これらの効果を媒介する腸内細菌叢の役割を探索することを目的とした。方法ラットを用いてエタノール誘発性GUモデルを作製した。組織学的染色（H&EおよびPAS）および生化学的解析を用いて胃損傷を評価した。腸内細菌叢の関与を明らかにするため、抗菌薬 (ABX) 投与および糞便微生物移植 (FMT) を行った。微生物組成を解析するため、16S rDNAシーケンシングを実施した。結果CHWKNは、組織病理学的特徴の改善および胃機能の回復に示されるように、エタノール誘発性胃粘膜損傷を著しく軽減した。CHWKNは、JAK1/STAT3シグナル伝達の抑制に伴い、ミエロペルオキシダーゼ (MPO) および炎症性サイトカイン（IL-1β、IL-6、TNF-α、およびLPS）を有意に減少させ、IL-10レベルを上昇させた。特筆すべきことに、腸内細菌叢の枯渇により、CHWKNの保護作用および抗炎症作用が消失した。対照的に、CHWKN投与ドナー（エタノールおよびCHWKNを投与したドナーラット）からのFMTは、レシピエントラットにおいて胃粘膜の完全性を回復させ、炎症を軽減させた。さらに、CHWKNは有益である可能性のある細菌を増加させ、エタノール誘発性のディスバイオーシスを逆転させることで、腸内細菌叢の組成を再構築した。結論これらの知見は、CHWKNが腸内細菌叢を調節し、次いでJAK1/STAT3介在性の炎症を抑制することにより、エタノール誘発性GUに対して保護効果を発揮することを示している。これは、その治療作用の根底にある細菌叢依存的な機序を浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1943837",
+    "title": "Effects of continuous cropping on yield, medicinal quality, and rhizosphere soil microecological environment of <i>Atractylodes chinensis</i> in the Horqin Sandy land.",
+    "abstract": "BackgroundContinuous cropping is a major constraint that limits the sustainable cultivation of medicinal plants. However, the effects of continuous cropping on yield, medicinal quality, and the rhizosphere soil microecological environment of Atractylodes chinensis, particularly in the Horqin Sandy Land, remain unclear. In this study, we conducted a field experiment with continuous cropping and rotation systems to compare the yield, bioactive compound content, soil chemical properties, and rhizosphere microbial communities of A. chinensis and to further elucidate their potential relationships.MethodsPlant and soil samples were collected to assess plant yield and bioactive compounds, soil chemical properties, and soil microbial communities using high-throughput sequencing, followed by bioinformatic analysis of the sequencing data.ResultsCompared with crop rotation, continuous cropping significantly reduced yield and the contents of major bioactive compounds, including atractylodin, atractylon and β-eudesmol. Continuous cropping significantly increased soil pH, electrical conductivity (EC), and available potassium, and decreased alkali-hydrolyzable nitrogen and organic matter (OM). Additionally, continuous cropping decreased fungal richness (Chao1 index) and increased bacterial diversity (Shannon index) and evenness (Pielou's evenness). Fusarium and Volutella were significantly enriched, whereas Nocardioides and Arthrobacter were depleted. The predicted microbial functional potential associated with carbon and nitrogen cycling significantly decreased under continuous cropping. The correlation analysis revealed that the yield of A. chinensis was negatively correlated with soil EC and positively correlated with OM content, and the relative abundances of Heydenia and Enterocarpus. Atractylon content was positively correlated with Aleuria and Acremonium and negatively correlated with Volutella.ConclusionThese findings demonstrate that continuous cropping reduces the yield and medicinal quality of A. chinensis in the Horqin Sandy Land and is associated with the deterioration of several soil chemical properties and dysbiosis of the rhizosphere microbial community. This study provides novel insights into the continuous cropping constraint associated with A. chinensis and its ecological consequences in the Horqin Sandy Land and establishes a theoretical foundation for optimizing cropping systems, maintaining soil ecological health, and improving the yield and quality of this medicinal herb.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1943837",
+    "date": "2026-10-27",
+    "authors": "Wang K, Li K, Sun D, Guo Y, Li Z, Zhao Y, Yin Y, Jia J.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43011113",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13748433",
+    "pmid": "43011113",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4386,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1943837"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0f227de32f9344a249c9c2bbda9e8a259a5ce1e19ab769e118ee3440b62f11fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:07:48.661607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5278d8da648e409c0bf53736935c3a23f5d33d2cba59381d69ea50f490c47e3a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:07:48.661607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ホルチン砂地における<i>Atractylodes chinensis</i>の連作が収量、薬効および根圏土壌微小生態環境に及ぼす影響",
+    "abstract_ja": "背景連作は、薬用植物の持続可能な栽培を制限する主要な制約要因である。しかし、連作がAtractylodes chinensisの収量、薬効、および根圏土壌微小生態環境に及ぼす影響、特にホルキン砂地における影響は依然として不明である。本研究では、連作および輪作体系を用いた野外実験を行い、A. chinensisの収量、生理活性化合物含有量、土壌化学的特性、および根圏微生物群集を比較し、それらの潜在的な関連性をさらに解明した。方法植物および土壌試料を採取し、ハイスループットシーケンシングを用いて植物収量、生理活性化合物、土壌化学的特性、および土壌微生物群集を評価し、続いてシーケンシングデータのバイオインフォマティクス解析を行った。結果輪作と比較して、連作は収量およびアトラクチロジン、アトラクチロン、β-エウデスモールを含む主要な生理活性化合物の含有量を有意に低下させた。また、連作は土壌pH、電気伝導度（EC）、および可給態カリウムを有意に上昇させ、アルカリ加水分解性窒素および有機物（OM）を減少させた。さらに、連作は菌類の豊富さ（Chao1指数）を低下させ、細菌の多様性（Shannon指数）および均一性（Pielouの均一性）を増加させた。FusariumおよびVolutellaは有意に増加した一方、NocardioidesおよびArthrobacterは減少した。炭素および窒素循環に関連する予測微生物機能ポテンシャルは、連作下で有意に低下した。相関解析の結果、A. chinensisの収量は土壌ECと負の相関を示し、OM含有量およびHeydeniaとEnterocarpusの相対存在量とは正の相関を示した。アトラクチロン含有量はAleuriaおよびAcremoniumと正の相関を示し、Volutellaとは負の相関を示した。結論これらの知見は、連作がホルキン砂地におけるA. chinensisの収量および薬効を低下させ、いくつかの土壌化学的特性の悪化および根圏微生物群集のディスバイオーシスに関連していることを示している。本研究は、ホルキン砂地におけるA. chinensisに関連する連作の制約とその生態学的影響について新たな知見を提供するとともに、作付体系の最適化、土壌生態学的健全性の維持、および本薬用植物の収量と品質の向上のための理論的基盤を確立するものである。"
   }
 ]
