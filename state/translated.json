@@ -219636,5 +219636,366 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "海洋古細菌における低温適応と海綿宿主適応のプロテオームシグネチャー",
     "abstract_ja": "温度は微生物タンパク質の生化学的特性を規定しており、微生物プロテオームにおける低温適応を検出するために、いくつかのアミノ酸組成指標が提案されてきた。北極海のような寒冷な海洋環境に豊富に存在する古細菌において、これらの指標が低温適応を捉えられるかは検証されていない。我々は、細菌・ウイルスバイオインフォマティクスリソースセンター（BV-BRC）の海洋グループI（MG-I; Thaumarchaeota）ゲノム142件およびユーリ古細菌（Euryarchaeota）ゲノム146件、ならびに西北極海から回収された3件のMG-Iメタゲノムアセンブルドゲノム（MAGs）を対象に、全球的なタンパク質ファミリーにわたる6つのアミノ酸組成指標（アルギニン対リシン比、酸性残基割合、脂肪族指数、芳香族性、ヒドロパシシティの総平均、およびプロリン残基割合）を算出した。北極海のMAGsは、より広範なMG-I集団の指標値および系統的距離の範囲内にあり、低温適応のシグネチャーは検出されなかった。むしろ、指標値は2つの主要なMG-I系統群間、および淡水ゲノムと海洋ゲノムの間で異なっており、ユーリ古細菌は系統樹と整合する指標ベースの5つのクラスターを形成した。海綿動物に関連する19件のMG-I MAGsのグループは、他のMG-Iよりもアルギニン対リシン比が有意に高く、アラニンとリシンを除くすべてのアミノ酸の使用法が異なり、コドン使用法が独特でGC含有量が高かった。これらがMG-Iの系統樹において異常な位置にあることは、長枝誘引（long-branch attraction）と整合する。これらの結果は、細菌向けに開発されたアミノ酸組成指標が古細菌の低温適応を検出する能力に限界があることを示す一方で、海綿動物に関連するThaumarchaeotaにおいて、宿主適応に関連する強力なプロテオームシグネチャーが存在することを明らかにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763590",
+    "title": "Metagenome-assembled genomes reveal water-mass-associated distribution ecotypes of marine Archaea in the Western Arctic Ocean",
+    "abstract": "Archaea are important contributors to marine biogeochemical cycling, yet their ecology remains poorly characterized in the Arctic Ocean. The three dominant marine archaeal lineages, Marine Groups I, II, and III (MG-I, MG-II, and MG-III), are generally reported to have distinct, clade-consistent vertical distributions that are attributed to light penetration and temperature. Here, we used shotgun metagenomic sequencing of seawater collected during the 2015 U.S. Arctic GEOTRACES expedition (GN01) to recover archaeal metagenome-assembled genomes (MAGs) from the Western Arctic Ocean and to relate their relative abundances to water mass structure. Temperature, salinity, silicate, and N  * distinguished four water mass layers: the summer surface layer, the Polar Mixed Layer, Atlantic Water, and Arctic Ocean basin water. Of 155 MAGs recovered from a metagenomic co-assembly, 17 were archaeal and represented all three marine groups (four MG-I, eleven MG-II, and two MG-III). Abundance-based clustering of samples from two deep central Arctic stations separated microbial communities according to water mass. Mapping MAG relative abundance across several hundred samples revealed surface, mid-depth, and deep distribution ecotypes; members of every marine group displayed more than one ecotype, and ecotype was not consistent with MAG phylogeny. These results indicate that archaeal distributions in the Western Arctic Ocean are more closely tied to water mass stratification than to clade identity, and that previously reported clade-specific depth distributions of marine Archaea may partly reflect the limited resolution of amplicon-based surveys and shallow sampling.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763590",
+    "date": "2026-11-03",
+    "authors": "Green K, Collins RE.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358991",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "metagenom",
+        "metagenome",
+        "metagenome-assembled genome",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean",
+          "seawater"
+        ],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 8,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763590"
+    ],
+    "translation": {
+      "title": {
+        "hash": "34769c0019a1f8bd126f1014d03402e9b8be90a132d0f772ffcbc8e9ea3ec153",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:12:00.950919+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "297c033fb6d99863e388fc4d00a956c71e89ced55aac55a80fe20cd2fb2bc0e1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:12:00.950919+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタゲノムアセンブルドゲノムが明かす西北極海における海洋古細菌の水塊関連分布生態型",
+    "abstract_ja": "古細菌は海洋の生物地球化学的循環において重要な寄与因子であるが、北極海におけるその生態は依然として十分に解明されていない。主要な3つの海洋古細菌系統群である海洋グループI、II、およびIII（MG-I、MG-II、MG-III）は、一般に、光の浸透と温度に起因する、クレードに整合した明確な垂直分布を示すと報告されている。本研究では、2015年の米国北極GEOTRACES遠征（GN01）で採取した海水のショットガンメタゲノムシーケンシングを用い、西北極海から古細菌メタゲノムアセンブルドゲノム（MAG）を回収し、それらの相対存在量を水塊構造と関連付けた。温度、塩分、ケイ酸塩、および窒素（N）により、夏季表層、極混合層、大西洋水、および北極海盆水という4つの水塊層が区別された。メタゲノム共アセンブリから回収された155個のMAGのうち、17個が古細菌であり、3つの海洋グループすべて（MG-Iが4個、MG-IIが11個、MG-IIIが2個）を代表していた。北極海中央部の2つの深層観測所の試料を存在量に基づいてクラスタリングしたところ、水塊に応じて微生物群集が分離された。数百個の試料にわたるMAGの相対存在量をマッピングした結果、表層、中層、および深層の分布エコタイプが明らかになった。すべての海洋グループの構成員が複数のエコタイプを示し、エコタイプはMAGの系統樹とは一致しなかった。これらの結果は、西北極海における古細菌の分布が、クレードの同一性よりも水塊の成層化とより密接に関連していること、および、既報の海洋古細菌のクレード特異的な深度分布が、アンプリコンベースの調査の解像度の低さや浅層サンプリングを部分的に反映している可能性があることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11569155/v1",
+    "title": "An AI-assisted genomic census of 193,342 assemblies finds a GFP-barrel family in unreported lineages, carrying pseudogenes in both fungi and cnidarians",
+    "abstract": "Abstract  Green fluorescent protein and its homologues share an eleven-stranded beta-barrel enclosing a central helix, on which three consecutive residues cyclise to form the chromophore. A family of these barrels carrying a buried network of two arginines, two glutamates and a tyrosine, with a hydrophobic residue in place of the chromophore tyrosine, was recently assembled from protein records by Schneider and Zimmer. Here 193,342 genome assemblies were searched in all six reading frames, returning 396 loci, of which 140 read the complete buried network and collapse to 77 distinct carrying organisms. The charge network family reaches two sponge genera, a coronate jellyfish, three dinoflagellate transcriptome records and an archaeal genome, none of them represented in any proteome. In fungi and in cnidarians a substantial minority of loci carry an in-frame stop or a frameshift: 36 of 144 fungal loci, and 18 of 66 cnidarian loci across eleven genera. A Dollo reconstruction over a 28-genome Aspergillus clade requires two to six independent losses at the species level. The copies that survive are under purifying selection, at a median ratio of non-synonymous to synonymous substitution of 0.146 per species pair over 39 such pairs, and in one anthozoan lineage the gene is instead tandemly amplified to eleven copies. Two novel bacterial copies sit in mobile DNA, one inside a phiE-type prophage in Burkholderia pseudomallei and one beside an IS4 family transposase within a toxin-antitoxin array in a Myxococcota genome. A family that protein records show as intact is, in genomic sequence, intact in some lineages and breaking down in others.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11569155/v1",
+    "date": "2026-11-03",
+    "authors": "Sidaway A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356408",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "dinoflagellate",
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 14,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11569155/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ce46d1d68f8c1a14704398c845ecde6bbdd2858be5fa73b675b2c2679e4d0bf4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:12:00.950919+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a23bf9b2e4a1490286100e95485f1790993bf6518574303a29e16600b73c72a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:12:00.950919+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "193,342個のアセンブリを対象としたAI支援によるゲノム全数調査により、未報告の系統にGFPバレルファミリーが存在することが判明した。このファミリーは、真菌類と刺胞動物の双方において擬遺伝子を保有している。",
+    "abstract_ja": "要旨　緑色蛍光タンパク質およびそのホモログは、中心ヘリックスを囲む11本鎖のβバレルを共有しており、その上を3つの連続する残基が環化することで発色団を形成している。最近、SchneiderおよびZimmerにより、2つのアルギニン、2つのグルタミン酸、および1つのチロシンからなる埋没ネットワークを有し、発色団であるチロシンの代わりに疎水性残基を持つこれらのバレルのファミリーが、タンパク質記録から構築された。本研究では、193,342件のゲノムアセンブリを全6つのリーディングフレームで検索し、396個の遺伝子座を同定した。そのうち140個は完全な埋没ネットワークを読み取り、77個の独立した保有生物へと崩壊した。この電荷ネットワークファミリーは、2つの海綿動物属、1つの冠水母、3つの渦鞭毛藻トランスクリプトーム記録、および1つの古細菌ゲノムに及んでいるが、いずれもプロテオームには反映されていない。真菌類および刺胞動物では、相当数の遺伝子座がフレーム内ストップまたはフレームシフトを有しており、11属にわたる真菌の144遺伝子座のうち36個、刺胞動物の66遺伝子座のうち18個がこれに該当する。28ゲノムのAspergillusクレードを用いたDolloによる再構築では、種レベルで2〜6箇所の独立した喪失が必要である。生存したコピーは純化選択を受けており、39組の種ペアにおける非同義置換と同義置換の中央値比は0.146であった。また、ある花虫類系統では、この遺伝子が代わりにタンデムに増幅され、11コピーとなっている。2つの新規細菌コピーは可動性DNA内に存在し、一方はBurkholderia pseudomalleiのphiE型プロファージ内に、もう一方はMyxococcotaゲノムの毒素-抗毒素アレイ内のIS4ファミリートランスポザーの傍らに位置している。タンパク質記録では完全であるとされるファミリーが、ゲノム配列においては、一部の系統では完全なままであり、他の系統では崩壊している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11344362/v1",
+    "title": "Genomic Characterization and Environmental Adaptability of Burkholderia cenocepacia Isolated from Commercial Liquid Soap in Bangladesh",
+    "abstract": "Abstract    Commercial liquid soaps may harbor opportunistic pathogens such as  Burkholderia cepacia  complex (BCC), yet genome-scale characterization of soap-associated BCC isolates remains limited in South Asia. In this study, a bacterial isolate, designated DG4, was recovered from a commercial liquid detergent and characterized using phenotypic, biochemical, whole-genome, and comparative genomic approaches. The isolate exhibited substantial growth under alkaline conditions, with optimum growth observed at pH 8 and detectable growth up to pH 10, while growth was severely restricted at pH 11–12. The isolate was catalase and lipase-positive and its crude supernatant demonstrated surface-active properties, producing a 1.08 ± 0.10 cm oil-displacement zone and an emulsification index (E24) of 53.07 ± 0.11%. The strain also exhibited strong biofilm-forming ability, with an OD570 of 0.508 ± 0.00. Whole-genome sequencing revealed a 7.89-Mb draft genome comprising 459 contigs, with 67.16% GC content and 40× sequencing coverage. Genome-based taxonomic analyses, including ANI and phylogenetic analysis, identified DG4 as  Burkholderia cenocepacia  , with an ANI of 98.28% against the reference strain  B. cenocepacia  J2315 genome. Multilocus sequence typing revealed a potential novel allelic profile not assigned to a previously recognized sequence type. Genome annotation identified 7,964 coding sequences, including genes associated with stress adaptation, membrane transport, biofilm formation, antimicrobial resistance, virulence, and diverse metabolic pathways. The genome contained multiple resistance determinants, including  adeF  ,  amrA  ,  qacG  ,  OXA-1142  ,  PEN-B1  , and a  vanF  -associated  vanH  gene. PathogenFinder predicted a human pathogenicity probability of 0.9819. In addition, numerous genes involved in hydrocarbon degradation, aromatic compound metabolism, desulfurization, and biosurfactant-associated functions were identified, supporting considerable bioremediation potential. AntiSMASH analysis detected 21 biosynthetic gene clusters, while prophage, mobile genetic element, and CRISPR-Cas analyses demonstrated substantial genomic plasticity and defense capacity. Comparative orthologous analysis revealed a conserved core genome of 5,243 gene clusters and only 14 DG4-specific clusters among six  B. cenocepacia  genomes. Commercial liquid detergent can harbor environmentally adapted  B. cenocepacia  with clinically relevant resistance and virulence determinants. These findings emphasize the importance of microbiological quality control and AMR surveillance of personal care products while highlighting the strain's potential for bioremediation research.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11344362/v1",
+    "date": "2026-11-03",
+    "authors": "Tasnim A, Uddin N, Islam S, Jashim A, Islam MI.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356207",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 151,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11344362/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6ff001c353e0f653c7eb94fcbc3a9246f9f9fb0f98f0c7ab4f535cba13982509",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:12:00.950919+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9589cc7b3c85e2620598b5a750fa798d76279963d773fdca55de6bcd13f3ecdd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:12:00.950919+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バングラデシュの市販液体石鹸から分離されたBurkholderia cenocepaciaのゲノム特性解析と環境適応能",
+    "abstract_ja": "要旨    市販の液体石鹸には、Burkholderia cepacia complex (BCC) などの日和見病原体が潜んでいる可能性があるが、南アジアにおいて石鹸関連BCC分離株のゲノムスケールの特性解析は依然として限られている。本研究では、市販の液体洗剤からDG4と命名した細菌分離株を回収し、表現型、生化学的、全ゲノム、および比較ゲノム解析を用いて特性解析を行った。本分離株はアルカリ条件下で顕著な増殖を示し、pH 8で至適増殖、pH 10まで検出可能な増殖が認められた一方、pH 11–12では増殖が著しく制限された。本分離株はカタラーゼおよびリパーゼ陽性であり、その粗上清は界面活性特性を示し、1.08 ± 0.10 cmの油置換帯と乳化指数 (E24) 53.07 ± 0.11%を記録した。また、本株は強いバイオフィルム形成能を示し、OD570は0.508 ± 0.00であった。全ゲノムシーケンシングにより、459個のコンティグからなる7.89-Mbのドラフトゲノムが明らかとなり、GC含量は67.16%、シーケンシングカバレッジは40×であった。ANIおよび系統解析を含むゲノムベースの分類学的解析により、DG4はBurkholderia cenocepaciaと同定され、参照株B. cenocepacia J2315ゲノムに対するANIは98.28%であった。マルチローカスシーケンスタイピングにより、既知の配列型に分類されない潜在的な新規アレルプロファイルが明らかになった。ゲノムアノテーションでは、ストレス適応、膜輸送、バイオフィルム形成、抗微生物薬耐性、病原性、および多様な代謝経路に関連する遺伝子を含む7,964個のコーディング配列が同定された。ゲノムには、adeF、amrA、qacG、OXA-1142、PEN-B1、およびvanF関連のvanH遺伝子を含む複数の耐性決定因子が含まれていた。PathogenFinderによるヒト病原性確率は0.9819と予測された。さらに、炭化水素分解、芳香族化合物代謝、脱硫、およびバイオ界面活性剤関連機能に関与する多数の遺伝子が同定され、相当なバイオレメディエーションの可能性が示唆された。AntiSMASH解析では21個の生合成遺伝子クラスターが検出され、プロファージ、可動性遺伝因子、およびCRISPR-Cas解析では、顕著なゲノム可塑性と防御能が示された。比較オルソログ解析により、6つのB. cenocepaciaゲノムの中で、5,243個の遺伝子クラスターからなる保存されたコアゲノムと、わずか14個のDG4特異的クラスターが明らかになった。市販の液体洗剤には、臨床的に意義のある耐性および病原性決定因子を持つ、環境に適応したB. cenocepaciaが潜んでいる可能性がある。これらの知見は、パーソナルケア製品における微生物学的品質管理およびAMRサーベイランスの重要性を強調するとともに、本株のバイオレメディエーション研究における可能性を浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11058591/v1",
+    "title": "The differential effects of dupilumab and Janus kinase 1-selective inhibitors on the skin microbiome in adult patients with moderate-to-severe atopic dermatitis using metagenomic sequencing: results from the BioDay registry",
+    "abstract": "Abstract    Background  The skin microbiome in atopic dermatitis (AD) is characterized by decreased bacterial diversity and increased  Staphylococcus aureus  colonization. Although dupilumab has been shown to improve the skin microbiome in adult AD patients, little is known about the effects of Janus kinase 1-selective inhibitors (JAK1-i). Therefore, the aim of this study was to evaluate the differential effects of dupilumab and JAK1-i on the skin microbiome of adult AD patients. Skin swabs were collected from dupilumab-treated patients (N = 10) lesional/facial at baseline (T0) and week 16 (T16), from JAK1-i-treated patients (N = 15) lesional/facial at T0, week 4 (T4) and week 28 (T28), and from healthy controls (HCs; N = 17) at a single time point. Shotgun metagenomic sequencing was used to assess microbial composition and diversity. Results  During both treatments, the Eczema Area and Severity Index (EASI) scores significantly decreased over time (both p S. aureus  abundance significantly decreased after 16 weeks of dupilumab, whereas a nonsignificant decrease was observed after 28 weeks of JAK1-i. Microbial diversity increased in dupilumab-treated patients, approaching levels observed in HCs, while no such shift occurred during JAK1-i treatment. In both groups, commensal bacteria and fungi remained less abundant than in HCs. Conclusions  Despite comparable clinical improvements, dupilumab induced a more pronounced shift in the skin microbiome towards healthy skin compared with JAK1-i.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11058591/v1",
+    "date": "2026-11-03",
+    "authors": "Vroman F, Top J, Boesjes CM, Bayraktar D, Schürch A, de Graaf M, Bruin-Weller MS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356518",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungi",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 253,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11058591/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fb9c87ad10e3bf29fea410153a722bbd780b2e50acfe378cb3a156b65a4d9aed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:12:00.950919+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bc712b52e41d7817740245b3c4c909ddd6a71331993f83ebd50bbd392523f777",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:12:00.950919+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタゲノムシーケンシングを用いた中等症～重症アトピー性皮膚炎の成人患者におけるデュピルマブおよびヤヌスキナーゼ1選択的阻害薬の皮膚マイクロバイオームへの差異的影響：BioDayレジストリの結果",
+    "abstract_ja": "要旨    背景  アトピー性皮膚炎（AD）における皮膚マイクロバイオームは、細菌多様性の低下と黄色ブドウ球菌（Staphylococcus aureus）の定着増加を特徴とする。デュピルマブは成人AD患者の皮膚マイクロバイオームを改善することが示されているが、ヤヌスキナーゼ1選択的阻害薬（JAK1-i）の効果についてはほとんど解明されていない。したがって、本研究の目的は、成人AD患者の皮膚マイクロバイオームに対するデュピルマブとJAK1-iの差異的な影響を評価することであった。皮膚スワブは、デュピルマブ投与患者（N = 10）からベースライン（T0）および16週（T16）の病変部／顔面から、JAK1-i投与患者（N = 15）からT0、4週（T4）および28週（T28）の病変部／顔面から、そして健常対照群（HCs; N = 17）から単一時点で採取した。微生物組成および多様性の評価には、ショットガンメタゲノムシーケンシングを用いた。結果  両治療において、湿疹面積・重症度指数（EASI）スコアは経時的に有意に低下した（デュピルマブ投与では16週後にp S. aureusの存在量が有意に減少したのに対し、JAK1-i投与では28週後に有意差のない減少が認められた）。微生物多様性はデュピルマブ投与患者で増加し、健常対照群で観察されるレベルに近づいたが、JAK1-i投与ではそのような変化は認められなかった。両群ともに、常在菌および真菌の存在量は健常対照群よりも少ないままであった。結論  臨床的改善は同程度であったものの、デュピルマブはJAK1-iと比較して、皮膚マイクロバイオームを健常皮膚方向へより顕著に変化させた。"
   }
 ]
