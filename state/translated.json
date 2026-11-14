@@ -225553,5 +225553,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "持続可能な土壌品質の向上と農業廃棄物の資源化に向けた、廃糖蜜の微生物による一段階変換による生物活性フルボ酸様肥料の製造",
     "abstract_ja": "糖生産の副産物である炭素豊富な廃糖蜜（WM）は、十分に活用されていないことが多く、その結果、環境汚染や資源の損失を招いている。本研究では、Bacillus subtilisを用いた一段階の微生物バイオコンバージョンプロセスを開発し、WMを糖蜜由来フルボ酸（MFA）へと変換した。最高のMFA収率（33.54%）は、35 °C、48時間、接種率5%の条件下で得られた。GC-MSおよびLC-MSによる統合解析により、発酵過程における動的な基質変換が明らかとなり、4-ヒドロキシ-2-メチルアセトフェノン、4-オキソドデカン二酸、および3-ヒドロキシ-2-オクチルペンタンジ酸が、MFA形成に関与する推定中間体であることが示唆された。構造解析の結果、得られたMFAは疎らで多孔質な形態を有し、豊富な水酸基、カルボキシル基、およびカルボニル基を備えていることが示された。150日間の単一圃場試験において、MFAの施用は、無施肥対照区よりも土壌有機炭素量および腐植含有量の増加に関連し、トウモロコシの栄養成長を促進した。また、MFAはPseudomonas、Acidobacterium、Actinobacteria、およびBacteroidetesを含む微生物群集を富化させた。rbcL、rbcS、accB、accC、およびpccAを含む、炭素同化およびカルボキシル化に関連する複数の遺伝子の存在量も増加した。メタボローム解析により、解糖系やペントースリン酸経路を含む中心的な炭素代謝経路に関連する代謝物のシフトがさらに明らかになった。MFAの施用は、化学肥料の投入なしにトウモロコシの成長を著しく促進し、有機土壌改良材および部分肥料代替品としての可能性を示した。総じて、これらの知見は、一段階の微生物変換によってWMを機能的なフルボ酸様酸肥料に変換できることを示唆している。本手法は、鉱物由来FA生産の潜在的な経路を提供するものである。同時に、農業廃棄物の再利用、土壌品質の向上、部分肥料依存性の低減、および循環型農業の発展を実現するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1939230",
+    "title": "Gut microbiota developmental trajectories in min and DLY pigs during lactation and nursery stages and the alleviation of ETEC-induced diarrhea by fecal microbiota transplantation.",
+    "abstract": "IntroductionThe gut microbiota plays a vital role in porcine growth, intestinal barrier function, and disease resistance, yet the influence of host genetics on microbiota development and breed-specific phenotypes remains unclear. This study investigated gut microbiota dynamics in genetically distinct pig breeds and evaluated the functional impact of breed-specific microbiota on intestinal health.MethodsA total of 76 healthy 3-day-old piglets from Min pigs and Duroc × Landrace × Yorkshire (DLY) pigs were monitored from day 3 to day 49. Microbiota composition was analyzed at eight developmental stages using high-resolution 2bRAD-M sequencing. Intestinal tissues were collected at day 49 for spatial microbiota profiling and barrier function assessment. Additionally, twelve 21-day-old DLY piglets were assigned to control, Enterotoxigenic Escherichia coli (ETEC) K88 challenge, and fecal microbiota transplantation (FMT) groups to evaluate the protective effects of Min pig microbiota.ResultsSignificant breed-specific differences were observed in microbial composition, developmental trajectories, and ecological succession patterns. Min pigs exhibited higher microbial diversity and greater community stability during early weaning compared to DLY pigs, accompanied by improved intestinal barrier integrity and reduced diarrhea incidence. FMT from Min pigs significantly enhanced microbial diversity, strengthened intestinal barrier function, and alleviated diarrhea following ETEC challenge.DiscussionThese findings demonstrate that host genetics shapes gut microbiota development, influencing intestinal health and disease resistance. Microbiota derived from Min pigs confers protective effects against enteric infection, highlighting its potential as a microbial resource to improve gut health in commercial pig production.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1939230",
+    "date": "2026-10-26",
+    "authors": "Xie W, Li Z, Lin J, Bai H, Li J, Cui W, Jiang Y, Song B, Wang X, Tang L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005063",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13745252",
+    "pmid": "43005063",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4389,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1939230"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8ba4e720c207d89a12a142ab43c9440444ff4ada1e948e88fa304c53718ae686",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:16:18.261973+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "166f465cde5e4c4100aa1cf2b2004e6fb11f5804008a78b790acd3cc23fd59e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:16:18.261973+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "授乳期および育成期のminおよびDLY豚における腸内細菌叢の発達軌跡と、糞便微生物移植によるETEC誘発性下痢の軽減",
+    "abstract_ja": "はじめに腸内細菌叢は、豚の成長、腸管バリア機能、および疾患抵抗性において極めて重要な役割を果たすが、宿主の遺伝的要因が細菌叢の発達や品種特異的な表現型に及ぼす影響は依然として不明である。本研究では、遺伝的に異なる豚品種における腸内細菌叢の動態を調査し、品種特異的な細菌叢が腸管健康に及ぼす機能的影響を評価した。方法Min種およびDuroc × Landrace × Yorkshire (DLY) 種の健康な生後3日の子豚計76頭を対象に、3日目から49日目までモニタリングを行った。高解像度2bRAD-Mシーケンシングを用いて、8つの発育段階における細菌叢組成を解析した。49日目に腸管組織を採取し、空間的な細菌叢プロファイリングおよびバリア機能評価を実施した。さらに、生後21日のDLY種子豚12頭を、対照群、腸管毒素原性大腸菌（ETEC）K88チャレンジ群、および糞便微生物移植（FMT）群に振り分け、Min種の細菌叢による保護効果を評価した。結果微生物組成、発育軌跡、および生態学的遷移パターンにおいて、有意な品種間差が認められた。Min種は、DLY種と比較して離乳初期における微生物多様性が高く、群集の安定性に優れており、それに伴い腸管バリアの完全性が向上し、下痢の発生頻度が減少していた。Min種からのFMTは、微生物多様性を有意に高め、腸管バリア機能を強化し、ETECチャレンジ後の下痢を軽減させた。考察これらの知見は、宿主の遺伝的要因が腸内細菌叢の発達を規定し、腸管健康および疾患抵抗性に影響を与えることを示している。Min種由来の細菌叢は腸管感染に対する保護効果を付与しており、商業的養豚における腸管健康改善のための微生物資源としての可能性が示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1975307",
+    "title": "Gut microbiota-host co-metabolism in sepsis and critical illness: source, compartment, immune state, and host defense.",
+    "abstract": "Critical illness can profoundly disturb the intestinal microbiota-metabolite-host immune axis through the combined effects of shock, hypoxia, altered nutritional intake, antimicrobial exposure, organ dysfunction, and impaired epithelial barrier integrity. These changes can reshape microbial metabolic capacity, host co-metabolism, and systemic metabolite exposure, while the host may simultaneously exhibit overlapping features of hyperinflammation, immune tolerance, lymphocyte dysfunction, impaired antimicrobial defense, and tissue repair. Metabolites generated through microbial metabolism or shared microbial-host pathways may therefore contribute to immune reprogramming, although their effects are highly context dependent and cannot be regarded as uniformly beneficial or detrimental. This narrative review examines short-chain fatty acids, tryptophan-derived indoles, secondary bile acids, succinate, lactate, trimethylamine N-oxide, polyamines, and aromatic metabolites, with particular attention to source attribution, anatomical compartment, host co-metabolism, receptor signaling, and their potential influence on antimicrobial immunity. These metabolites may act through G-protein-coupled receptors, AhR, PXR, FXR, TGR5, VDR, HIF-1α, inflammasome pathways, mitochondrial signaling, and epigenetic mechanisms to modulate macrophages, neutrophils, dendritic cells, innate lymphoid cells, T lymphocytes, epithelial barriers, and endothelial responses. The direction and magnitude of these effects are likely to vary according to timing, concentration, anatomical compartment, immune-cell state, pathogen burden, and renal or hepatic clearance. Within this framework, attenuation of inflammatory signaling may help limit early collateral tissue injury, yet the same response could become disadvantageous when antimicrobial competence is already impaired. Similarly, succinate and lactate may reflect or contribute to distinct inflammatory, regulatory, or reparative programs depending on whether they arise from microbial or host metabolism and whether they act within intracellular or extracellular compartments. Human studies in critically ill populations have linked dysbiosis and metabolomic alterations with secondary infection, prolonged organ support, and mortality; however, most have not been able to resolve microbial source attribution or establish causal mediation. Future work would therefore benefit from integrating longitudinal microbiome, metabolome, immune-function, and organ-clearance measurements with source-resolved approaches, including isotope tracing, as well as state-specific and trajectory-informed clinical endpoints. Microbiome-directed interventions may be most appropriately investigated as context-dependent modulators of host defense rather than as broadly anti-inflammatory strategies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1975307",
+    "date": "2026-10-26",
+    "authors": "Wu C, Liu R.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005796",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13746269",
+    "pmid": "43005796",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4391,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1975307"
+    ],
+    "translation": {
+      "title": {
+        "hash": "105c8bd7075d834b9c3daf27544674d3fe26437e82fd454a5b5edff2cc6d01c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:16:18.261973+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b7be9d67d00ac6ddcace817e904b965bf869db8db99a4e438779c3c56aca81a2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:16:18.261973+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "敗血症および重症疾患における腸内細菌叢と宿主の共代謝：供給源、コンパートメント、免疫状態、および宿主防御",
+    "abstract_ja": "重症疾患は、ショック、低酸素状態、栄養摂取の変化、抗菌薬曝露、臓器機能障害、および上皮バリアの完全性の低下といった複合的な影響を通じて、腸管微生物叢・代謝物・宿主間の免疫軸を著しく攪乱し得る。これらの変化は、微生物の代謝能、宿主の共代謝、および全身的な代謝物曝露を変容させる一方で、宿主においては同時に、過剰炎症、免疫寛容、リンパ球機能不全、抗菌防御能の低下、および組織修復といった重複する特徴が現れることがある。したがって、微生物代謝または微生物・宿主間の共通経路を通じて生成される代謝物は、免疫リプログラミングに寄与し得るが、その影響は文脈に強く依存しており、一律に有益あるいは有害であるとはみなせない。本ナラティブレビューでは、短鎖脂肪酸、トリプトファン由来インドール類、二次胆汁酸、コハク酸、乳酸、トリメチルアミンN-オキシド、ポリアミン、および芳香族代謝物について検討し、特に由来の特定、解剖学的コンパートメント、宿主の共代謝、受容体シグナル伝達、および抗菌免疫への潜在的な影響に着目する。これらの代謝物は、Gタンパク質共役受容体、AhR、PXR、FXR、TGR5、VDR、HIF-1α、インフラマソーム経路、ミトコンドリアシグナル伝達、およびエピジェネティック機構を介して作用し、マクロファージ、好中球、樹状細胞、自然リンパ球、Tリンパ球、上皮バリア、および内皮応答を調節し得る。これらの影響の方向性と程度は、タイミング、濃度、解剖学的コンパートメント、免疫細胞の状態、病原体負荷、および腎または肝クリアランスに応じて変動すると考えられる。この枠組みにおいて、炎症性シグナル伝達の減弱は初期の付随的組織損傷の抑制に寄与する可能性があるが、抗菌能がすでに低下している場合には、同様の反応がかえって不利に働く可能性がある。同様に、コハク酸や乳酸は、微生物代謝または宿主代謝のいずれに由来するか、また細胞内コンパートメントまたは細胞外コンパートメントのいずれで作用するかによって、異なる炎症性、調節性、あるいは修復性プログラムを反映または寄与し得る。重症患者集団を対象としたヒト研究では、ディスバイオーシスやメタボロームの変化が、二次感染、臓器支持の長期化、および死亡率と関連していることが示されているが、その多くは微生物由来の特定や因果関係の立証に至っていない。したがって、今後の研究においては、縦断的なマイクロバイオーム、メタボローム、免疫機能、および臓器クリアランスの測定値を、同位体トレーシングを含む由来特定アプローチや、状態別および軌跡情報に基づく臨床エンドポイントと統合することが有益である。マイクロバイオーム指向の介入は、広範な抗炎症戦略としてではなく、宿主防御の文脈依存的な調節因子として検討することが最も適切であると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1996310",
+    "title": "<i>Fusobacterium nucleatum</i>-associated metabolites in disease pathogenesis: from cancer to immunotherapy.",
+    "abstract": "Fusobacterium, especially Fusobacterium nucleatum, has emerged as a metabolically active pathobiont that can affect host physiology and disease pathogenesis. Through its ability to produce and regulate various metabolites, Fusobacterium can shape immune response, cellular metabolism, and disease progression. Short-chain fatty acids (SCFAs), being part of Fusobacterium-associated metabolic changes observed during disease, are involved in microbial cross-feeding and can affect neutrophil recruitment and inflammatory signaling through free fatty acid receptors. In the case of colorectal cancer (CRC), Fusobacterium-derived metabolites can impact tumor and immune cell phenotype via a number of mechanisms, including aryl hydrocarbon receptor (AhR) activation via indole derivatives, inflammatory and metabolic signaling via hydrogen sulfide, as well as an increase in Glucose transporter 1 (GLUT1) expression, lactate production, and histone lactylation via formate-related metabolites. Besides, F. nucleatum can reshape tumor-cell metabolism, including cholesterol biosynthesis through miR-130a-3p-mediated inhibition of AMP-activated protein kinase (AMPK) signaling, whereas butyrate has been reported to counteract this metabolic phenotype in experimental CRC models. In addition, F. nucleatum-associated succinate has been shown to suppress cGAS-Interferon beta (IFN-β) signaling, thereby reducing antitumor immune activation, impairing CD8+ T-cell trafficking, and promoting immune escape and resistance to anti-Programmed Cell Death Protein 1 (PD-1) therapy. The present review provides an overview of current understanding of the biological roles of Fusobacterium-derived metabolites, focusing on SCFAs, succinate, indole derivatives, hydrogen sulfide, and formate-related metabolites.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1996310",
+    "date": "2026-10-26",
+    "authors": "Farah H, PadmaPriya G, Sahoo S, Alhasso B, Srivastav SK, Rani A, Singh R, Khdyr AH.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005681",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13747227",
+    "pmid": "43005681",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4392,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1996310"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a8bef00253f5338635268d1718b12db826f5b42651ebd0df4dd3873bb6b297a4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:16:18.261973+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "093d6e6655c9f454424c1923d3f6e8f7d2e57d60656e96941ef2ab45ecc6f3be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:16:18.261973+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Fusobacterium nucleatum</i>関連代謝物と疾患病態形成：がんから免疫療法まで",
+    "abstract_ja": "フソバクテリウム属、特にFusobacterium nucleatumは、宿主の生理機能や疾患の病態形成に影響を及ぼし得る代謝活性を有するパソビオントとして注目されている。多様な代謝物を産生・調節する能力を通じて、フソバクテリウム属は免疫応答、細胞代謝、および疾患の進行を制御することができる。疾患時に観察されるフソバクテリウム属関連の代謝変化の一環である短鎖脂肪酸（SCFAs）は、微生物間クロスフィーディングに関与しており、遊離脂肪酸受容体を介して好中球の動員や炎症性シグナル伝達に影響を及ぼし得る。大腸癌（CRC）においては、フソバクテリウム属由来の代謝物が、インドール誘導体を介したアリール炭化水素受容体（AhR）の活性化、硫化水素を介した炎症性および代謝性シグナル伝達、ならびにギ酸関連代謝物を介したグルコーストランスポーター1（GLUT1）発現の増加、乳酸産生、およびヒストンの乳酸化など、複数の機序を通じて腫瘍および免疫細胞の表現型に影響を及ぼし得る。さらに、F. nucleatumは、miR-130a-3pによるAMP活性化プロテインキナーゼ（AMPK）シグナル伝達の抑制を介したコレステロール生合成を含む腫瘍細胞代謝を再構築し得る一方、実験的CRCモデルにおいては、酪酸がこの代謝表現型に拮抗することが報告されている。加えて、F. nucleatum関連のコハク酸は、cGAS-インターフェロンβ（IFN-β）シグナル伝達を抑制し、それによって抗腫瘍免疫活性化を減弱させ、CD8+ T細胞のトラフィッキングを阻害し、免疫逃避および抗プログラム細胞死蛋白1（PD-1）療法への耐性を促進することが示されている。本総説では、SCFAs、コハク酸、インドール誘導体、硫化水素、およびギ酸関連代謝物に焦点を当て、フソバクテリウム属由来代謝物の生物学的役割に関する現在の知見を概説する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "brief-report",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1971766",
+    "title": "Translational plausibility of honey-derived antimicrobial biomaterials against biofilm-associated infections.",
+    "abstract": "Chronic biofilm-associated infections drive antimicrobial resistance (AMR) via prolonged systemic antibiotic therapy that is often ineffective. Honeys from Apis mellifera and stingless bees (Meliponini) exhibit antimicrobial and anti-biofilm activity via complementary mechanisms: osmotic stress, low pH, hydrogen peroxide, methylglyoxal, bee defensin-1, and phenolic and organic compounds. This is most effective when concentrated at the application site. Yet honey therapeutics are often framed as systemic nutraceuticals despite biologically incoherent pharmacokinetics. We propose translational plausibility, an analytical framework built on four interdependent dimensions: spatial, temporal, dose, and compositional coherence that distinguishes microbiologically defensible interventions from speculative ones, applicable beyond honey to natural-product antimicrobials. Applied to honey, the framework identifies topical, localized application as the only translationally coherent clinical route. Reframed as ecological therapeutic biomaterials, honeys address interconnected AMR priorities: disrupting polymicrobial ESKAPE biofilms, preserving distant microbiotas, reducing systemic antibiotic use in wound care, potentiating antibiotics, and supporting stewardship. Planetary health benefits, pollinator conservation, meliponiculture, and equitable access emerge as corollaries, not primary justification.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1971766",
+    "date": "2026-10-26",
+    "authors": "Machado A, Majtan J, Álvarez-Suárez JM.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005153",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13745490",
+    "pmid": "43005153",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiological",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4399,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1971766"
+    ],
+    "translation": {
+      "title": {
+        "hash": "539ab252b379c4963d7533373ed9aa510aae7ff45f2434e04791ff996e69e9ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:16:18.261973+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cb555ecf4c51815d72ea4b951d0117683a53c46779fb49f209cf72b9b045fa80",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:16:18.261973+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バイオフィルム関連感染症に対する蜂蜜由来抗菌バイオマテリアルの翻訳的妥当性",
+    "abstract_ja": "慢性的なバイオフィルム関連感染症は、しばしば効果が不十分な長期の全身性抗菌薬療法を通じて、薬剤耐性（AMR）を助長する。Apis melliferaおよび刺針のないハチ（Meliponini）の蜂蜜は、浸透圧ストレス、低pH、過酸化水素、メチルグリオキサール、ビーデフェンシン-1、ならびにフェノール性および有機化合物という相補的な機序を介して、抗菌活性および抗バイオフィルム活性を示す。これは、塗布部位に濃縮された場合に最も効果を発揮する。しかし、蜂蜜による治療は、生物学的に整合性のない薬物動態にもかかわらず、しばしば全身性ニュートラシューティカルズとして位置づけられる。我々は、空間的、時間的、用量的、および組成的な整合性という、相互に依存する4つの次元に基づいた分析枠組みである「トランスレーショナルな妥当性（translational plausibility）」を提案する。この枠組みは、微生物学的に妥当な介入と推測に基づく介入を区別するものであり、蜂蜜のみならず天然物系抗菌薬にも適用可能である。蜂蜜に適用した場合、この枠組みは、局所的な塗布こそが唯一トランスレーショナルに整合性のある臨床的経路であることを明らかにする。生態学的治療バイオマテリアルとして再定義された蜂蜜は、多微生物ESKAPEバイオフィルムの破壊、遠隔微生物叢の保全、創傷ケアにおける全身性抗菌薬の使用削減、抗菌薬の増強、およびスチュワードシップの支援という、相互に関連するAMRの優先課題に対処する。地球規模の健康上の利益、授粉媒介者の保全、メリポニカルチャー、および公平なアクセスは、主たる正当化理由ではなく、付随的な成果として導き出される。"
   }
 ]
