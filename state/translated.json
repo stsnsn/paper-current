@@ -221627,5 +221627,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "アイソレーションフォレストを用いた遺伝子調節バリアントの教師なし優先順位付け",
     "abstract_ja": "最も一般的なバリアントは、非コード領域のゲノムに存在する。数多くの発現量的形質遺伝子座（eQTL）が、近傍の遺伝子発現に影響を及ぼし得る。多様な形質や疾患において、多くのゲノムワイド関連解析（GWAS）遺伝子座がeQTLと共局在することが示されており、遺伝子調節の因果メカニズムを裏付けている。しかし、連鎖不平衡（LD）により因果バリアントの同定が困難となるため、機能アノテーションによる優先順位付けが必要となる。従来発表されているバリアント優先順位付けツールは、進化的保存性やクロマチン情報といった多様な特徴量の組み合わせに基づく機械学習に依存していたが、より最近の深層学習ツールは、遺伝子調節DNA配列文法を学習し記述する。しかし、後者のアプローチではバリアントごとに膨大な数のスコアが生成されることが多い。我々は、アイソレーションフォレストに基づく新たな教師なし機械学習アプローチを設計し、広く利用されているEnformer深層学習モデルによる予測を、各一般的なバリアントに対する単一の遺伝子調節予測スコアへと統合した。我々の新たなアイソレーションフォレストを用いたeQTL予測手法（eQIF）は、eQTLおよび遺伝子調節GWASバリアントの予測において高い性能を示す。我々は、上位のeQIFバリアントが進化的に保存された転写因子結合部位（TFBS）フットプリントに位置していること、および、過剰に発現しているTFBSモチーフにおける上位eQIFバリアントの頻度が、モチーフの情報含有量を再現していることを示す。eQIF予測は9,421,183個の一般的なバリアントについて事前計算されており、公開されている。要旨 図 グラフィカル要旨。eQIFは、バリアントの遺伝子調節への影響を予測するための新たなスコアである。eQIFは、一般的なgnomADバリアントと重複する、公開されている事前計算済みのEnformer深層学習クロマチン予測から得られた上位20個の主成分（PC）に基づいている。これらのPCをアイソレーションフォレストに入力し、多次元特徴空間における大域的な密度を学習させた。モデルの学習後、すべてのgnomADバリアントに対する大域的異常スコア（eQIF）の予測に適用した。最終的に、eQIFはファインマップされたバリアントの分類、機能的バリアントの発見、および情報量の多いTFBS位置の精密な優先順位付けに使用された。BioRenderで作成。Schmidt, A. W. (2026)  https://BioRender.com/6dgiji3"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11399586/v1",
+    "title": "Silent methodological failures in AI-assisted science: benchmarking large language model agents for virtual gene knockout analysis",
+    "abstract": "Abstract  Large language models (LLMs) are increasingly deployed as autonomous agents in computational biology, yet their reliability in executing complex scientific workflows remains poorly characterized. Here, we benchmarked five LLM agents (DeepSeek V4 Pro, GLM 5.1, HY3 Preview, Kimi K2.6, and Minimax M2.7) on virtual gene knockout analyses using four computational frameworks across two single-cell RNA-sequencing datasets. All agents successfully completed the assigned workflows, but their quantitative outputs varied substantially: execution times spanned a 31fold range (61 − 1,920 s), while cross-model coefficients of variation reached 142.1%. Notably, four of five agents (80%) exhibited “silent methodological failures,” generating computationally valid, error-free code that produced biologically implausible results. Among the evaluated agents, GLM 5.1 showed the most balanced performance across computational efficiency and biological plausibility. These findings demonstrate that successful code execution alone does not ensure scientific validity and highlight cross-model concordance and biological validation as important quality-control strategies for Artificial Intelligence (AI)-assisted computational biology workflows.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11399586/v1",
+    "date": "2026-11-03",
+    "authors": "Wang B, Li J, Zhang S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356308",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "benchmark",
+          "gene",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2473,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11399586/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "821ae9dd67137ae4fefa7f2d6d551784b25584f488e7dba6d359d5266d0c8a99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:32:30.312041+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d730bcb249ae2c74c2d0958359975602baed58cfdda26a72b79fc2aa0987ea24",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:32:30.312041+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "AI支援科学における潜在的な方法論的失敗：仮想遺伝子ノックアウト解析における大規模言語モデルエージェントのベンチマーク",
+    "abstract_ja": "要旨　大規模言語モデル（LLM）は、計算生物学において自律型エージェントとしてますます導入されているが、複雑な科学的ワークフローを実行する際の信頼性については、依然として十分に解明されていない。本研究では、2つのシングルセルRNAシーケンシングデータセットを用い、4つの計算フレームワークによる仮想遺伝子ノックアウト解析において、5つのLLMエージェント（DeepSeek V4 Pro、GLM 5.1、HY3 Preview、Kimi K2.6、Minimax M2.7）の性能評価を行った。すべてのエージェントが割り当てられたワークフローを正常に完了したが、定量的な出力には著しいばらつきが見られた。実行時間は31倍の範囲（61 − 1,920 s）に及び、モデル間の変動係数は142.1%に達した。特筆すべきは、5つのエージェントのうち4つ（80%）に「サイレントな手法上の失敗」が認められ、計算量的に妥当でエラーのないコードを生成しながらも、生物学的に妥当性に欠ける結果をもたらした点である。評価したエージェントの中で、GLM 5.1は計算効率と生物学的妥当性の両面において最もバランスの取れた性能を示した。これらの知見は、コードの実行成功だけでは科学的妥当性が保証されないことを示しており、人工知能（AI）支援型の計算生物学ワークフローにおいて、モデル間の整合性と生物学的検証が重要な品質管理戦略であることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763549",
+    "title": "NPlasmid-seq: Cas9-encoded terminal signatures enable molecule-level nanopore quality control of vector and IVT-template plasmids",
+    "abstract": "Consensus-based plasmid quality control can overlook structural heterogeneity within a preparation. We developed NPlasmid-seq, a Cas9-guided nanopore workflow that encodes sample identity through paired terminal signatures generated at predefined backbone positions, without sample-specific oligonucleotide barcodes. We cleavage-validated 24 sgRNAs. In five representative assigned read bins, each bin showed its strongest sequence agreement with its cognate reference. Contaminant detection was evaluated with a single class-specific classifier applied both to computational read mixtures and to physical DNA mixtures, placing the two designs on a common scale. In computational read mixtures of 5,000 reads, a contaminant was detected in all 20 independent subsamples at each of 0.2%, 0.5%, 1% and 5% abundance and in 13 of 20 subsamples at 0.1%; precision was 1.000 in all 100 subsamples, with no false-positive calls among 493,200 reads from the declared target plasmid. In physical DNA mixtures carried through cleavage, pooled library preparation and sequencing, a contaminant was detected in all six samples prepared at 0.5 mol% input and all six at 1 mol%. Observed read fractions did not distinguish the 0.5 and 1 mol% input levels. Instead, they differed systematically by 4.0-fold between preparation pools, a larger effect than the difference between the two input levels. We therefore interpret the workflow as a detector, not a quantifier, of sub-percent contamination. Read-level analysis identified a recurrent 93-bp deletion in 61.7% of reads from a preparation that had passed consensus-based quality control. Sanger genotyping of 24 colonies identified deletion-type profiles in 10 colonies and intact-type profiles in three. The remaining 11 colonies showed double peaks at the diagnostic locus, consistent with coexistence of both sequence forms within individual clones. In in vitro transcription template plasmids, longer poly(A) tracts were associated with higher multimeric-read fractions. Across ten matched A90 culture pairs, propagation at 30 °C reduced these fractions relative to 37 °C (paired t-test, P = 0.0098). These measurements describe recovered read populations, not absolute molecular abundances. NPlasmid-seq therefore complements consensus validation by revealing sequence and structural heterogeneity within a preparation and by identifying a culture condition associated with a lower multimeric-read fraction.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763549",
+    "date": "2026-11-03",
+    "authors": "Xu Y, Wen W, Sun D, Yin Y, Ma X, Ren J, Zhang S, Chang J, Pang S, Wang S, Zhang X, Zhang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357598",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2494,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763549"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c0d50f00d7a6359de1e3e4d4dc0fcdebf1a8aff79cc5081286fa15e9403ffbcf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:32:30.312041+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "56a120d5997c0018f8c3326f0f4783bde63e0a465481576fa6074f744ea70af1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:32:30.312041+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NPlasmid-seq: Cas9符号化末端シグネチャーによるベクターおよびIVTテンプレートプラスミドの分子レベルのナノポア品質管理",
+    "abstract_ja": "コンセンサスに基づくプラスミド品質管理では、調製物内の構造的不均一性が見落とされる可能性がある。我々は、サンプル固有のオリゴヌクレオチドバーコードを用いず、あらかじめ定義されたバックボーン位置で生成されるペア末端シグネチャーを通じてサンプルの同一性を符号化する、Cas9誘導型ナノポアワークフロー「NPlasmid-seq」を開発した。24種類のsgRNAを用いて切断検証を行った。代表的な5つの割り当て済みリードビンにおいて、各ビンは対応するリファレンス配列と最も強い配列一致を示した。コンタミナント検出は、計算上のリード混合物と物理的なDNA混合物の両方に単一のクラス特異的分類器を適用して評価し、これら2つの設計を共通の尺度で比較した。5,000リードの計算上のリード混合物では、収量0.2%、0.5%、1%、5%の各条件において全20個の独立したサブサンプルでコンタミナントが検出され、0.1%の条件では20個中13個のサブサンプルで検出された。全100個のサブサンプルにおける適合率は1.000であり、申告された標的プラスミド由来の493,200リードにおいて偽陽性判定は認められなかった。切断、プールライブラリ調製、およびシーケンシングを経て得られた物理的なDNA混合物では、入力濃度0.5 mol%で調製した全6サンプル、および1 mol%で調製した全6サンプルでコンタミナントが検出された。観察されたリード分率では、0.5 mol%と1 mol%の入力レベルの区別は認められなかった。むしろ、調製プール間で系統的に4.0倍の差があり、これは2つの入力レベル間の差よりも大きな影響であった。したがって、我々はこのワークフローを、サブパーセントのコンタミネーションの定量器ではなく検出器として解釈する。リードレベルの解析により、コンセンサスに基づく品質管理を通過した調製物において、リードの61.7%に反復的な93 bpの欠失が認められた。24個のコロニーのサンガージェノタイピングにより、10個のコロニーで欠失型プロファイルが、3個のコロニーで完全型プロファイルが同定された。残りの11個のコロニーでは診断遺伝子座にダブルピークが認められ、これは個々のクローン内で両方の配列形態が共存していることと一致していた。in vitro転写テンプレートプラスミドでは、より長いポリ(A)トラクトが、より高い多量体リード分率と関連していた。10組の対応したA90培養ペアにおいて、30 °Cでの増殖は37 °Cと比較してこれらの分率を低下させた（対応のあるt検定、P = 0.0098）。これらの測定値は、回収されたリード集団を示すものであり、絶対的な分子量を示すものではない。したがって、NPlasmid-seqは、調製物内の配列および構造的不均一性を明らかにし、多量体リード分率の低下に関連する培養条件を特定することで、コンセンサス検証を補完するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762359",
+    "title": "LOTUS: lineage-aware optimal transport reconstructs continuous clonal fate dynamics",
+    "abstract": "Destructive sampling in single-cell sequencing obscures ancestor–descendant relationships, limiting the continuous reconstruction of cell-fate dynamics. Here we present Lineage-aware optimal transport for unbalanced single-cell dynamics (LOTUS), a framework that integrates time-resolved transcriptomic snapshots with clonal lineage information from engineered barcodes or endogenous T cell receptor clonotypes. LOTUS couples clone-level optimal transport with neural unbalanced transport to model continuous cellular state change, population growth and clonal propagation under lineage-consistent constraints. In branching simulations, LOTUS reduced lineage-inconsistent transport relative to benchmark methods, lowering off-target routing from 4.94–14.84% to 1.10%. On LARRY lineage-barcode scRNA-seq of hematopoiesis, LOTUS reconstructed branching trajectories, improved early neutrophil–monocyte fate-boundary prediction, and inferred multi-fate progenitors and fate-biased meta-clones, linking their distinct fate potentials to inferred epigenetic priming. On CellTagging scRNA-seq of fibroblast reprogramming, it distinguished reprogrammed from failed trajectories and prioritized fate-associated perturbation genes. In longitudinal scRNA-seq and TCR-seq of malaria-responsive memory (CD45RA-) CD4+ T cells, it preserved endogenous clonotype structure and reconstructed TR1 dynamics and regulatory networks. LOTUS thus converts lineage-resolved single-cell snapshots into interpretable, continuous models of fate dynamics and their regulatory programs.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762359",
+    "date": "2026-11-03",
+    "authors": "Lu J, Hou H, Zhang Z, Lin Y, Lin Y, Zhou P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357546",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2509,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762359"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2cbccc884cb90fbf9d288c26cd9e6e244a2a01e2d6c54f0a16b9f64ee4f0033b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:32:30.312041+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "916f0c139dd24e6b9391848bd17ca52e1d31a4782767741e846e62b196f59106",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:32:30.312041+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LOTUS: 系統認識型最適輸送による連続的なクローン運命動態の再構築",
+    "abstract_ja": "シングルセルシーケンシングにおける破壊的サンプリングは、祖先－子孫関係を不明瞭にし、細胞運命ダイナミクスの連続的な再構築を制限する。本研究では、不均衡なシングルセルダイナミクスに対する系統認識型最適輸送（Lineage-aware optimal transport for unbalanced single-cell dynamics: LOTUS）を提案する。これは、時間分解トランスクリプトームスナップショットと、設計したバーコードまたは内因性T細胞受容体クローノタイプからのクローン系統情報を統合するフレームワークである。LOTUSは、クローンレベルの最適輸送とニューラル不均衡輸送を組み合わせることで、系統整合的な制約条件下における連続的な細胞状態変化、集団増殖、およびクローン増殖をモデル化する。分岐シミュレーションにおいて、LOTUSはベンチマーク手法と比較して系統不整合な輸送を低減し、オフターゲットルーティングを4.94–14.84%から1.10%へと低下させた。造血のLARRY系統バーコードscRNA-seqにおいて、LOTUSは分岐軌跡を再構築し、初期の好中球－単球運命境界予測を改善し、多運命前駆細胞および運命バイアスを持つメタクローンを推定し、それらの異なる運命ポテンシャルを推定されたエピジェネティックプライミングに結びつけた。線維芽細胞リプログラミングのCellTagging scRNA-seqでは、リプログラミング成功軌跡と失敗軌跡を区別し、運命関連の摂動遺伝子を優先した。マラリア応答性メモリー（CD45RA-）CD4+ T細胞の縦断的scRNA-seqおよびTCR-seqでは、内因性クローノタイプ構造を保持し、TR1ダイナミクスおよび調節ネットワークを再構築した。このように、LOTUSは系統分解能を持つシングルセルスナップショットを、運命ダイナミクスとその調節プログラムの解釈可能な連続的モデルへと変換する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763788",
+    "title": "RNA accessibility sequencing reveals transcriptome-wide RBP binding and RNA structure",
+    "abstract": "We introduce RAD-seq (RNA Accessibility via Deamination sequencing), a simple and scalable method that quantifies RNA accessibility by protein binding in vivo. RAD-seq uses TadA8.20-mediated adenosine deamination to report the local exposure of each adenosine to its molecular environment, integrating the combined effects of base pairing, RNA folding, and RNA-binding protein (RBP) occupancy in a single experiment. RAD-seq profiles recapitulate known structural signatures, reveal high-resolution RBP footprints, report on the influence of RNA modifications, and capture dynamic remodeling of RNA accessibility during oxidative and heat-shock stress. By integrating RAD-seq with RNA Bind-n-Seq motifs, we detected local enrichment of the RNA  N 6 -methyladenosine (m  6 A) methyltransferase recruiter TRA2A following knockdown of the exon junction anchor protein EIF4A3, revealing a potential mechanism that links RNA accessibility to enhanced TRA2A recruitment and m  6 A deposition. Extending this framework, we introduce an unsupervised statistical model that combines RAD-seq with motif priors to infer binding landscapes for multiple RBPs, reproducing the information from numerous CLIP-seq datasets from a single RAD-seq experiment. These results indicate RAD-seq as a generalizable approach for joint profiling of RNA structure and protein occupancy, defining enzymatic RNA accessibility as a new dimension to investigate regulatory elements on RNA.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763788",
+    "date": "2026-11-03",
+    "authors": "Li Y, Ye C, Ge R, Ju C, Xiao Y, Tang W, Chen M, He C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358963",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "method",
+        "protein",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2537,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763788"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8af38526f98109ea0ab917f02b70bcff77a28a25d241f3e33ef6d6513445726e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:32:30.312041+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ac468b5b59cf92dc7aecd663b72b042c7823414b7e79b9f31a4f66a6a351c3ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:32:30.312041+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNAアクセシビリティシーケンシングにより明らかになるトランスクリプトーム全域のRBP結合とRNA構造",
+    "abstract_ja": "本研究では、in vivoにおけるタンパク質結合を介してRNAアクセシビリティを定量化する、簡便かつスケーラブルな手法であるRAD-seq（RNA Accessibility via Deamination sequencing）を提案する。RAD-seqは、TadA8.20介在性のアデノシン脱アミノ化を利用して、各アデノシンの分子環境に対する局所的な露出状態を報告し、塩基対形成、RNAフォールディング、およびRNA結合タンパク質（RBP）の占有による複合的な影響を単一の実験で統合する。RAD-seqによるプロファイリングは、既知の構造シグネチャーを再現し、高分解能のRBPフットプリントを明らかにし、RNA修飾の影響を報告するとともに、酸化ストレスおよび熱ショックストレス下におけるRNAアクセシビリティの動的なリモデリングを捉える。RAD-seqをRNA Bind-n-Seqモチーフと統合することで、エクソン接合部アンカータンパク質EIF4A3のノックダウン後に、RNA N 6-メチルアデノシン（m 6 A）メチルトランスフェラーゼリクルーターTRA2Aの局所的な濃縮を検出し、RNAアクセシビリティとTRA2Aのリクルート促進およびm 6 Aの沈着を結びつける潜在的なメカニズムを明らかにした。このフレームワークを拡張し、RAD-seqとモチーフ事前分布を組み合わせて複数のRBPの結合ランドスケープを推論する教師なし統計モデルを導入し、単一のRAD-seq実験から多数のCLIP-seqデータセットの情報を再現した。これらの結果は、RAD-seqがRNA構造とタンパク質占有の同時プロファイリングのための汎用的なアプローチであることを示しており、酵素的なRNAアクセシビリティを、RNA上の調節要素を調査するための新たな次元として定義するものである。"
   }
 ]
