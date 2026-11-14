@@ -223465,5 +223465,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "多次元的な「オミクス」アプローチにより、flg22およびUDP-グルコース誘導性のAtRGS1駆動型シグナル伝達回路を介したシグナル伝達の偏りが明らかとなった。",
     "abstract_ja": "要旨　中枢性シグナル伝達コアへの異なる細胞入力は、「バイアスシグナル伝達」と呼ばれるプロセスにおいて、それぞれ異なる出力を惹起する。多くの場合、これはシグナル伝達コアにリン酸化バーコードを刻印することで起こり、これは機能的にマイクロプロセッサに相当する。細菌ペプチドflg22およびUDP-グルコースは、いずれも7回膜貫通型RGSタンパク質AtRGS1を含む異種Gタンパク質コアを利用し、植物の防御および成長において差異的な変化を媒介する。flg22とUDP-グルコースはともに、細胞膜においてAtRGS1の迅速なエンドサイトーシスを誘導するが、その標的および経路はシグナル特異的である。flg22は細胞膜のAtRGS1を核へと誘導し、その後異なる遺伝子発現プロファイルをもたらす。UDP-グルコースはAtRGS1を核へと誘導せず、転写リプログラミングも惹起しない。その代わりに、UDP-グルコースはGタンパク質複合体の大規模な時間依存的再構成を引き起こし、この複合体はおそらくエンドソーム区画へと輸送される。これら2つの結果に関連して、時間の経過とともにAtRGS1関連パートナーの異なるパターンと相関するリン酸化バーコードが存在する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11408684/v1",
+    "title": "Strigolactone analog GR24 modulates hyphal growth, mitochondrial activity, and superoxide accumulation in the ectomycorrhizal fungus Rhizopogon roseolus",
+    "abstract": "Abstract    Plant hormone strigolactone (SL) is an important rhizosphere signal that mediate communication between plants and diverse soil organisms. However, the role of SL in ectomycorrhizal (ECM) fungi remains largely unexplored, despite ECM fungi representing a major group of plant symbiotic fungi. To address this knowledge gap, we examined the effects of widely used SL analog GR24 with different stereoisomers and concentrations on several ECM fungal species. Deeper investigation on cellular and transcriptional response to GR24 was conducted on  Rhizopogon roseolus  . The evaluated parameters include fungal growth and branching, mitochondrial activity, superoxide accumulation, Ca  2+  signaling, and gene expression. Our findings reveal that ECM fungal responses to GR24 depend on fungal species, as well as GR24 stereoisomers and concentration. Further analysis on  R. roseolus  suggested that GR24 enhanced mitochondrial activity and increased mitochondria-associated superoxide accumulation. Based on pharmacological approach, the response of  R. roseolus  to GR24 required extracellular Ca  2+  influx. Consistent with these morphological and cellular responses, GR24 induce transcriptional response in genes related to cell-wall biosynthesis, mitochondrial respiratory chain, superoxide detoxification, and Ca  2+  signaling. Together, these findings provide novel insight into SL responsiveness in ECM fungi by integrating morphological, cellular, and transcriptional analyses.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11408684/v1",
+    "date": "2026-11-03",
+    "authors": "Pratiwi MN, Nathawan K, Chollada S, Hiroyuki A, Aimi T, Shimomura N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356116",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2239,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11408684/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "40709f417cfee2544165c6881ebc3a1630c2144a21e78adc19cc785a4726c5ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:52:19.958294+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e3b04fd9ae0324c378779d724d2a1b403fcd92ff5b4112446c460c8da3bd4220",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:52:19.958294+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ストリゴラクトン類縁体GR24は、外生菌根菌Rhizopogon roseolusにおいて菌糸伸長、ミトコンドリア活性、およびスーパーオキシド蓄積を調節する。",
+    "abstract_ja": "要旨    植物ホルモンであるストリゴラクトン（SL）は、植物と多様な土壌生物との間のコミュニケーションを媒介する重要な根圏シグナルである。しかし、外生菌根（ECM）菌が植物共生菌の主要なグループであるにもかかわらず、ECM菌におけるSLの役割は依然としてほとんど解明されていない。この知見の空白を埋めるため、本研究では、広く用いられているSLアナログであるGR24の異なる立体異性体および濃度が、複数のECM菌種に及ぼす影響を検討した。GR24に対する細胞および転写応答の詳細な解析をRhizopogon roseolusを用いて行った。評価項目には、菌類の増殖と分枝、ミトコンドリア活性、スーパーオキシド蓄積、Ca2+シグナル伝達、および遺伝子発現が含まれる。本研究の結果、ECM菌のGR24に対する応答は、菌種ならびにGR24の立体異性体および濃度に依存することが明らかになった。R. roseolusを用いたさらなる解析により、GR24がミトコンドリア活性を高め、ミトコンドリア関連のスーパーオキシド蓄積を増加させることが示唆された。薬理学的アプローチに基づくと、R. roseolusのGR24に対する応答には細胞外からのCa2+流入が必要であった。これらの形態学的および細胞応答と一致して、GR24は細胞壁生合成、ミトコンドリア呼吸鎖、スーパーオキシド解毒、およびCa2+シグナル伝達に関連する遺伝子において転写応答を誘導した。以上の知見を総合すると、形態学的、細胞学的、および転写解析を統合することで、ECM菌におけるSL応答性に関する新たな知見が得られた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11512593/v1",
+    "title": "Turning Large Electron Microscopy Datasets into Quantitative Measurements with Model-Assisted Analysis",
+    "abstract": "Abstract  Large electron microscopy datasets require extensive annotation and review before they can be converted into reliable measurements. ACORN is an open-source, locally executable application that offers image preparation, reviewed annotation, task-specific model training, batch inference, calibrated measurement, and statistical analysis in a single format. Users can create and correct annotations manually or with promptable segmentation and use the reviewed annotations to train models directly within ACORN. Its Cryo-EM Lab Utility (CLU) assistant also allows users to request any analysis or training operations in plain language. To show its use cases, we evaluated ACORN using low-dose cryogenic TEM images of polymeric nanoparticles and SEM images of bacterial spores. YOLO models trained in ACORN produced validation F1 scores of \\(0.906\\pm0.013\\) and \\(0.624\\pm0.016\\), respectively. Controlled simulations built in ACORN provided 25,983 exact object annotations for further model development and a controlled evaluation of software performance. On held-out simulation images, equivalent-circular-diameter mean absolute error was 3.60~nm (10.1\\%) for TEM particles and 31.48~nm (3.7\\%) for SEM spores among matched detections. The software logs every interaction, training step, and annotation in a sample history for provenance tracking. ACORN provides an environment where annotations, image calibration, model checkpoints, object measurements, and statistical records are easily accessible and traceable. This software provides a traceable path from electron microscopy images to quantitative results in multiple user-friendly formats.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11512593/v1",
+    "date": "2026-11-03",
+    "authors": "Williams AN, Harris CR, Oh J, Zachman MJ, Borisevich AY, Hoglund ER, Haque A, Harris SB, Toro-González M, Lasseter JC, Hochanadel LH, Vasileva DP, Morrell-Falvey JL, Michener JK, Davern SM, Sanders BC, Retterer ST.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356079",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2240,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11512593/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7009957a70c7a6f5922000aa2f1d2751107cf765fce67919c13efb40d8bce627",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:52:19.958294+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "38d45fcf1e1d48e56f13a86db71554d5325089b7a1a60db4131f41c3aea66110",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:52:19.958294+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "モデル支援解析による大型電子顕微鏡データセットの定量的測定への転換",
+    "abstract_ja": "要旨　大規模な電子顕微鏡データセットを信頼性の高い測定値に変換するには、広範なアノテーションとレビューが必要となる。ACORNは、画像準備、レビュー済みアノテーション、タスク特化型モデルの学習、バッチ推論、キャリブレーション済み測定、および統計解析を単一のフォーマットで提供する、オープンソースのローカル実行型アプリケーションである。ユーザーは、手動またはプロンプトによるセグメンテーションを用いてアノテーションを作成・修正でき、レビュー済みアノテーションを用いてACORN内で直接モデルを学習させることができる。また、Cryo-EM Lab Utility (CLU) アシスタントにより、あらゆる解析や学習操作を平易な言葉でリクエストすることが可能である。ユースケースを示すため、高分子ナノ粒子の低線量極低温TEM画像および細菌胞子のSEM画像を用いてACORNを評価した。ACORNで学習させたYOLOモデルは、検証用F1スコアとしてそれぞれ\\(0.906\\pm0.013\\)および\\(0.624\\pm0.016\\)を記録した。ACORNに組み込まれた制御シミュレーションにより、さらなるモデル開発およびソフトウェア性能の制御評価のための正確なオブジェクトアノテーションが25,983件得られた。ホールドアウトしたシミュレーション画像において、マッチングされた検出結果の等円径平均絶対誤差は、TEM粒子で3.60~nm (10.1\\%)、SEM胞子で31.48~nm (3.7\\%)であった。本ソフトウェアは、プロベナンス追跡のため、すべてのインタラクション、学習ステップ、およびアノテーションをサンプル履歴にログとして記録する。ACORNは、アノテーション、画像キャリブレーション、モデルチェックポイント、オブジェクト測定、および統計記録に容易にアクセスでき、追跡可能な環境を提供する。本ソフトウェアは、電子顕微鏡画像から定量的な結果に至るまで、複数のユーザーフレンドリーなフォーマットで追跡可能なパスを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11359839/v1",
+    "title": "Ecological niche and plantation composition differentially shape bacterial community composition and assembly across the root-soil continuum in Populus simonii plantations",
+    "abstract": "Abstract    Mixed plantations are widely established to restore degraded sandy landscapes, yet bacterial community patterns across roots and surrounding soils remain poorly understood. This study examined bacterial diversity, composition, inferred assembly patterns, environmental associations, and predicted functional potential in contrasting  Populus simonii  plantations. We analysed 60 composite samples from root (R), rhizosphere (RS), and non-rhizosphere soil (NRS) in four stands in the Kubuqi Desert, northern China. These comprised a  P. simonii  monoculture and mixtures with  Salix psammophila  ,  Caragana korshinskii  , and  Pinus sylvestris  var.  Mongolica  , with five plots sampled per stand. Root communities exhibited lower richness and diversity and distinct taxonomic composition compared with the two soil compartments. PERMANOVA confirmed significant effects of both ecological niche (  F   = 24.995,  p   = 0.001) than stand type (  F   = 2.649,  p   = 0.005) on community composition, with niche showing the stronger association. Null-model classifications varied among sample groups. Homogeneous selection was the most frequently assigned category in most groups, whereas dispersal limitation accounted for a larger proportion of comparisons in the sampled  P. simonii  and  C. korshinskii  mixture. Co-occurrence patterns also varied across ecological niches and plantation types, with the rhizosphere showing the highest connectivity and mixed plantations generally exhibiting greater connectivity than the monoculture. Soil water content was strongly associated with bacterial community variation (  r²  =0.815,  p   = 0.0005). Predicted KEGG and COG profiles varied among niche and plantation combinations, but no consistent functional response to mixed planting was observed. Together, these results reveal that bacterial taxonomic composition and community assembly responded to different ecological dimensions, ecological niche was more strongly associated with compositional differentiation, whereas assembly processes varied more clearly among the four sampled stands. This decoupling highlights the multidimensional organization of bacterial communities across the root-soil continuum in sandy plantations.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11359839/v1",
+    "date": "2026-11-03",
+    "authors": "Ren Y, Yang G, Su M, Guo X, Qiao S, Shang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356049",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2242,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11359839/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a9eb62a113721e9c79187528b2d729ca5c41f2a219c7fa3711e7d510b727b852",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:52:19.958294+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b45f27ef8ca35577f3fd1b57c8a06345564e5a012700aa5fe73ef14b1f016360",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:52:19.958294+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Populus simonii植林地における生態的ニッチと植林組成が、根・土壌連続体にわたる細菌群集組成および集合をそれぞれ異なる形で規定する",
+    "abstract_ja": "要旨    劣化した砂質景観の復元のために混植林が広く導入されているが、根および周辺土壌における細菌群集パターンについては依然として十分に解明されていない。本研究では、対照的なPopulus simoniiの植林地において、細菌の多様性、組成、推定される群集形成パターン、環境との関連性、および予測される機能的ポテンシャルを検討した。中国北部のクブチ砂漠にある4つの林分において、根（R）、根圏（RS）、および非根圏土壌（NRS）から得られた60個の複合サンプルを分析した。これらは、P. simoniiの単文化と、Salix psammophila、Caragana korshinskii、およびPinus sylvestris var. Mongolicaとの混合林で構成され、各林分につき5つのプロットからサンプルを採取した。根群集は、2つの土壌コンパートメントと比較して、富度と多様性が低く、分類学的組成も異なっていた。PERMANOVA解析の結果、群集組成に対しては、林分タイプ（F = 2.649, p = 0.005）よりも生態的ニッチ（F = 24.995, p = 0.001）の方が有意な影響を及ぼすことが確認され、ニッチの方がより強い関連性を示した。ヌルモデルによる分類はサンプル群によって異なっていた。ほとんどの群において同質選択が最も頻繁に割り当てられたカテゴリーであった一方、採取したP. simoniiとC. korshinskiiの混合林では、分散制限が比較においてより大きな割合を占めていた。共起パターンも生態的ニッチや植林タイプによって異なり、根圏が最も高い連結性を示し、混植林は一般に単文化よりも高い連結性を示した。土壌水分量は細菌群集の変動と強く関連していた（r² = 0.815, p = 0.0005）。予測されたKEGGおよびCOGプロファイルはニッチと植林タイプの組み合わせによって異なっていたが、混植に対する一貫した機能的応答は認められなかった。以上の結果を総合すると、細菌の分類学的組成と群集形成は異なる生態学的次元に応答しており、生態的ニッチは組成の分化とより強く関連していた一方で、群集形成プロセスは採取した4つの林分間でより明確に異なっていたことが明らかになった。この脱結合は、砂質植林地における根・土壌連続体にわたる細菌群集の多次元的な組織化を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763509",
+    "title": "Defining nutrient dependencies of intestinal  Klebsiella pneumoniae  guides rational probiotic engineering",
+    "abstract": "Summary  Klebsiella pneumoniae is a major cause of antibiotic-resistant infections, yet the ecological determinants enabling its intestinal expansion remain poorly defined. Here, we combined  in vivo transcriptomics and metabolomics to identify carbon sources exploited by  K. pneumoniae during colonization of the antibiotic-disrupted gut across strains and dietary contexts. Despite its metabolic breadth,  K. pneumoniae consistently exploited a restricted set of substrates, including arabinose, raffinose, oligogalacturonate, arabitol, xylose, and gluconate, that contributed to intestinal fitness, with related metabolic signatures also observed in antibiotic-treated human samples. Guided by these findings, we engineered  Escherichia coli Nissle to enhance consumption of these nutrients and assembled a defined consortium, NICHE, designed to reinforce colonization resistance through nutrient competition. NICHE restricted intestinal expansion of multidrug-resistant and hypervirulent  K. pneumoniae in preventive and therapeutic settings, with efficacy influenced by dietary nutrient availability. Together, this work defines exploitable  K. pneumoniae nutrient dependencies and a framework for rational probiotic engineering.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763509",
+    "date": "2026-11-03",
+    "authors": "Zhou Y, David C, Kulkarni G, Long T, Garzón MJ, Prados J, Kloehn J, Rohr OV, Meister I, Xavier KB, Ubeda C, Yu F, Chen L, Becattini S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359004",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2995,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763509"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f53726a749b17c0a6971527c20409c15e5cd46d1ce4375c785dacae6ba4546f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:52:19.958294+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "088a6f3cae7882f64a0462ef3e78c07d84423b029eba59f190ebb8c9327bcfcb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:52:19.958294+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸管Klebsiella pneumoniaeの栄養依存性の解明は、合理的なプロバイオティクス工学の指針となる。",
+    "abstract_ja": "要旨  Klebsiella pneumoniaeは抗生物質耐性感染症の主要な原因であるが、その腸内拡大を可能にする生態学的決定要因は依然として十分に解明されていない。本研究では、in vivoトランスクリプトミクスとメタボロミクスを組み合わせ、抗生物質によって攪乱された腸内への定着過程において、菌株や食事条件を問わずK. pneumoniaeが利用する炭素源を同定した。代謝の多様性にもかかわらず、K. pneumoniaeはアラビノース、ラフィノース、オリゴガラクツロネート、アラビトール、キシロース、グルコン酸を含む限定的な基質群を一貫して利用しており、これらは腸内適応度に寄与していた。また、抗生物質処理を施したヒト検体においても、関連する代謝シグネチャーが観察された。これらの知見に基づき、我々はこれらの栄養素の消費を亢進させるようEscherichia coli Nissleを改変し、栄養競合を通じて定着耐性を強化することを目的とした定義済みコンソーシアム「NICHE」を構築した。NICHEは、予防および治療の両設定において、多剤耐性および超強毒性のK. pneumoniaeの腸内拡大を抑制し、その有効性は食事性栄養素の利用可能性に影響された。以上の研究により、利用可能なK. pneumoniaeの栄養依存性と、合理的なプロバイオティクス工学のためのフレームワークが定義された。"
   }
 ]
