@@ -207960,5 +207960,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "アノテーションデータの選択は、ゲノムスケールの代謝ネットワークの自動再構築に大きな影響を及ぼす。",
     "abstract_ja": "ゲノムスケールの代謝モデルは、代謝工学やヒト疾患の解明など、多くの応用分野において代謝を研究するための有用なツールである。しかし、キュレーション済みのモデルが利用可能な生物種は限られており、追加の生物種に対して高品質なモデルを生成することは依然として課題となっている。この課題に対処するため、ドラフトモデルを自動的に生成できる複数のソフトウェアツールが開発されてきたが、これらのドラフトモデルの品質は、手動でキュレーションされたものに及ばない。したがって、これらのツールのさらなる改良が依然として求められている。これまでの研究では、主に遺伝子アノテーションやギャップ充填といった、再構築プロセスの各ステップにおけるより優れた手法の開発に焦点が当てられてきた。本研究では、タンパク質配列と機能の既知の関連性など、これらの手法の基盤となるデータに着目する。その結果、再構築データのソースを変更することが、生成されるモデルの内容や予測に多大な影響を及ぼすことが明らかになった。実際、データのソースは、再構築手法の選択よりも大きな影響を及ぼし得る。さらに、再構築プロセスが再構築データにおける遺伝子アノテーションの精度に敏感であることも示す。最後に、モデルを構築する対象生物と密接に関連する生物の機能アノテーションデータを持つことの重要性を示す。これらの知見は、再構築データの重要性を浮き彫りにするとともに、再構築ツールのデータ選定時に考慮すべき原則を明らかにするものである。"
+  },
+  {
+    "id": "10.1111/1462-2920.70496",
+    "title": "Humic Fractions Are Linked to Distinct Arsenic‐Mobilizing Host–Virome Assemblages and Enrichment of Large Temperate Phages Carrying Receiver‐Only AioR‐Like Loci",
+    "abstract": "Humic fractions were linked to distinct arsenic‐mobilizing host–virome assemblages in anaerobic paddy soil, with fulvic and humic acids producing greater late‐transfer As(III) accumulation. Rare large putatively temperate phages carrying receiver‐only AioR‐like loci reveal a candidate viral regulatory layer alongside host‐encoded arsenic transformations.\n\nABSTRACT\nArsenic mobilization in flooded rice paddies is driven by microbial redox reactions, but how redox‐active organic matter coordinates arsenic‐gene‐bearing hosts and soil viromes remains unresolved. We examined the effects of fulvic acid (FA), humic acid (HA) and humin (HM) on arsenic‐mobilizing host–virome assemblages using sequential anoxic slurry‐transfer enrichments, genome‐resolved metagenomics and curated virome analysis. FA and HA produced greater late‐transfer arsenite accumulation than HM or unamended soil, while treatment‐associated host genomes carried contrasting arsenic redox and detoxification repertoires. We identified two large temperate phages (> 100 kb) carrying receiver‐only AioR‐like loci in the FA and HA enrichments, with host‐prediction signals converging on Bacillaceae. These loci were supported by hallmark‐rich viral scaffold context and intact‐locus read coverage and remained invariant despite genome‐wide polymorphism. Reanalysis of 49,649 soil‐derived viral genomes showed that arsenic‐associated viral genes were rare among the 9518 quality‐filtered genomes (0.29%) and occurred mainly as truncated regulatory architectures, particularly AioR‐like receiver and AioS‐like kinase‐core fragments, on putatively lytic 30–70 kb genomes. By contrast, arsenic‐associated viral‐gene carriers were more frequent in our enrichment viromes (3.7%). These findings link distinct humic fractions to arsenic‐mobilizing host–virome assemblages and reveal a candidate regulatory layer involving rare large temperate phages carrying receiver‐only AioR‐like loci.\n\nHumic fractions were linked to distinct arsenic-mobilizing host–virome assemblages in anaerobic paddy soil, with fulvic and humic acids producing greater late-transfer As(III) accumulation. Rare large putatively temperate phages carrying receiver-only AioR-like loci reveal a candidate viral regulatory layer alongside host-encoded arsenic transformations.\n\nABSTRACT\nArsenic mobilization in flooded rice paddies is driven by microbial redox reactions, but how redox-active organic matter coordinates arsenic-gene-bearing hosts and soil viromes remains unresolved. We examined the effects of fulvic acid (FA), humic acid (HA) and humin (HM) on arsenic-mobilizing host–virome assemblages using sequential anoxic slurry-transfer enrichments, genome-resolved metagenomics and curated virome analysis. FA and HA produced greater late-transfer arsenite accumulation than HM or unamended soil, while treatment-associated host genomes carried contrasting arsenic redox and detoxification repertoires. We identified two large temperate phages (> 100 kb) carrying receiver-only AioR-like loci in the FA and HA enrichments, with host-prediction signals converging on Bacillaceae. These loci were supported by hallmark-rich viral scaffold context and intact-locus read coverage and remained invariant despite genome-wide polymorphism. Reanalysis of 49,649 soil-derived viral genomes showed that arsenic-associated viral genes were rare among the 9518 quality-filtered genomes (0.29%) and occurred mainly as truncated regulatory architectures, particularly AioR-like receiver and AioS-like kinase-core fragments, on putatively lytic 30–70 kb genomes. By contrast, arsenic-associated viral-gene carriers were more frequent in our enrichment viromes (3.7%). These findings link distinct humic fractions to arsenic-mobilizing host–virome assemblages and reveal a candidate regulatory layer involving rare large temperate phages carrying receiver-only AioR-like loci.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70496",
+    "date": "2026-11-14",
+    "authors": "Jiangtao Qiao, \nManjia Chen, \nMao Ye, \nYating Chen, \nRuichuan Gao, \nLiping Fang, \nFangbai Li",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70496?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "phage",
+        "phages",
+        "viral",
+        "virome",
+        "viromes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4467,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1111/1462-2920.70496"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b156c1e356b9ca759477e524ccaae1ff2496f2b8628b6a00581de688af0b0ef6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T11:59:58.895435+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5f77bc72cb8c9bdee36a310e8183871eb6d201144fadc5564a99cdd4feba17a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T11:59:58.895435+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腐植画分は、異なるヒ素動員性宿主－ウイルス複合体、および受容体特異的AioR様遺伝子座を有する大型温帯ファージの濃縮に関連している。",
+    "abstract_ja": "嫌気性水田土壌において、腐植分画は明確なヒ素動員型宿主－バイローム複合体と関連しており、フルボ酸および腐植酸は後期移行型As(III)のより顕著な蓄積をもたらした。レシーバーのみのAioR様遺伝子座を有する稀な大型温帯性ファージは、宿主がコードするヒ素変換と並行して、ウイルス調節層の候補を明らかにしている。\n\n要旨\n湛水水田におけるヒ素動員は微生物の酸化還元反応によって駆動されるが、酸化還元活性を持つ有機物が、ヒ素遺伝子保有宿主および土壌バイロームをどのように協調させているかは未解明である。我々は、逐次的な無酸素スラリー移送濃縮法、ゲノム分解能メタゲノミクス、およびキュレート済みバイローム解析を用いて、フルボ酸（FA）、腐植酸（HA）、およびヒューミン（HM）がヒ素動員型宿主－バイローム複合体に及ぼす影響を検討した。FAおよびHAは、HMや未処理土壌よりも後期移行型亜ヒ酸のより顕著な蓄積をもたらした一方、処理関連の宿主ゲノムは、対照的なヒ素酸化還元および解毒レパートリーを有していた。我々は、FAおよびHA濃縮物において、レシーバーのみのAioR様遺伝子座を有する2つの大型温帯性ファージ（> 100 kb）を同定し、宿主予測シグナルはバチルス科に収束していた。これらの遺伝子座は、ホールマーク豊富なウイルススキャフォールドコンテキストおよび完全な遺伝子座リードカバレッジによって裏付けられており、ゲノムワイドな多型にもかかわらず不変であった。土壌由来のウイルスゲノム49,649件を再解析した結果、品質フィルタリング済みの9,518件のゲノムにおいて、ヒ素関連ウイルス遺伝子は稀であり（0.29%）、主に切断された調節構造、特にAioR様レシーバーおよびAioS様キナーゼコア断片として、推定される溶菌性30–70 kbゲノムに認められた。対照的に、ヒ素関連ウイルス遺伝子のキャリアは、我々の濃縮バイロームにおいてより高頻度に認められた（3.7%）。これらの知見は、異なる腐植分画をヒ素動員型宿主－バイローム複合体に関連付けるとともに、レシーバーのみのAioR様遺伝子座を有する稀な大型温帯性ファージが関与する調節層の候補を明らかにするものである。\n\n嫌気性水田土壌において、腐植分画は明確なヒ素動員型宿主－バイローム複合体と関連しており、フルボ酸および腐植酸は後期移行型As(III)のより顕著な蓄積をもたらした。レシーバーのみのAioR様遺伝子座を有する稀な大型温帯性ファージは、宿主がコードするヒ素変換と並行して、ウイルス調節層の候補を明らかにしている。\n\n要旨\n湛水水田におけるヒ素動員は微生物の酸化還元反応によって駆動されるが、酸化還元活性を持つ有機物が、ヒ素遺伝子保有宿主および土壌バイロームをどのように協調させているかは未解明である。我々は、逐次的な無酸素スラリー移送濃縮法、ゲノム分解能メタゲノミクス、およびキュレート済みバイローム解析を用いて、フルボ酸（FA）、腐植酸（HA）、およびヒューミン（HM）がヒ素動員型宿主－バイローム複合体に及ぼす影響を検討した。FAおよびHAは、HMや未処理土壌よりも後期移行型亜ヒ酸のより顕著な蓄積をもたらした一方、処理関連の宿主ゲノムは、対照的なヒ素酸化還元および解毒レパートリーを有していた。我々は、FAおよびHA濃縮物において、レシーバーのみのAioR様遺伝子座を有する2つの大型温帯性ファージ（> 100 kb）を同定し、宿主予測シグナルはバチルス科に収束していた。これらの遺伝子座は、ホールマーク豊富なウイルススキャフォールドコンテキストおよび完全な遺伝子座リードカバレッジによって裏付けられており、ゲノムワイドな多型にもかかわらず不変であった。土壌由来のウイルスゲノム49,649件を再解析した結果、ヒ素関連ウイルス遺伝子は品質フィルタリング済みの9,518件のゲノムにおいて稀であり（0.29%）、主に切断された調節構造、特にAioR様レシーバーおよびAioS様キナーゼコア断片として、推定される溶菌性30–70 kbゲノムに認められた。対照的に、ヒ素関連ウイルス遺伝子のキャリアは、我々の濃縮バイロームにおいてより高頻度に認められた（3.7%）。これらの知見は、異なる腐植分画をヒ素動員型宿主－バイローム複合体に関連付けるとともに、レシーバーのみのAioR様遺伝子座を有する稀な大型温帯性ファージが関与する調節層の候補を明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1933938",
+    "title": "HIV-1 drug resistance and associated risk factors in antiretroviral therapy failure: a 2022-2024 surveillance in Huzhou, China.",
+    "abstract": "IntroductionCharacterizing acquired drug resistance (ADR) profiles among individuals experiencing antiretroviral therapy (ART) failure is critical for optimizing clinical management.MethodsThis study aimed to delineate the HIV-1 drug resistance landscape, specific resistance-associated mutations, and epidemiological determinants in Huzhou, China, from 2022 to 2024. Blood samples and epidemiological data were collected from 184 HIV-1-infected patients experiencing ART failure. Viral pol region sequences were amplified, and drug resistance mutations (DRMs) were interpreted using the Stanford University HIV Drug Resistance Database.ResultsThe overall prevalence of ADR was 44.0% (81/184). Resistance to protease inhibitors (PIs) remained notably low at 1.6%,whereas the prevalence of DRMs associated with nucleoside (NRTIs) and non nucleoside reverse transcriptase inhibitors (NNRTIs) reached 27.7% and 41.8%, respectively. The most frequently detected NRTI-associated DRMs included M184V/I and K65R, while dominant NNRTI-associated mutations comprised V179D/E/F, K103N, V106I/L/M, G190A/Q/S/T, and Y181C/L. Furthermore, multivariable logistic regression identified patient age, plasma viral load, and specific HIV-1 subtypes as independent risk factors for DRM development.DiscussionUltimately, this study elucidates the evolving mutational landscape among ART-experienced individuals, providing critical evidence-based insights for optimizing personalized antiretroviral regimens and mitigating the onward transmission of drug-resistant HIV-1 variants within the region.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1933938",
+    "date": "2026-10-29",
+    "authors": "Lu Z, Wu Y, Zha Y, Dong F, Yang Z, Ji L, Zhu X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43022236",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43022236",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3681,
+    "collected_at": "2026-11-14T11:27:51.659174+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1933938"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e3466551aed46b4eb90865713c6214270f2ae952369fa8e8266ac906c7439e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T11:59:58.895435+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cd70c98d2c19e9696e7c3aacf363f8025ab08d3ecac7ed593f133d390cc9cbe9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T11:59:58.895435+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗レトロウイルス療法の失敗におけるHIV-1薬剤耐性および関連リスク因子：中国・湖州市における2022-2024年のサーベイランス",
+    "abstract_ja": "はじめに抗レトロウイルス療法（ART）不応例における獲得性薬剤耐性（ADR）プロファイルの特性評価は、臨床管理の最適化において極めて重要である。方法本研究は、2022年から2024年にかけて中国の湖州市におけるHIV-1薬剤耐性の実態、特定の耐性関連変異、および疫学的決定因子を明らかにすることを目的とした。ART不応例であるHIV-1感染患者184例から、血液検体および疫学データを収集した。ウイルスのpol領域配列を増幅し、スタンフォード大学HIV薬剤耐性データベースを用いて薬剤耐性変異（DRM）を解析した。結果ADRの全体的な有病率は44.0%（81/184）であった。プロテアーゼ阻害薬（PI）に対する耐性は1.6%と著しく低い水準に留まった一方、ヌクレオシド系阻害薬（NRTI）および非ヌクレオシド系逆転写酵素阻害薬（NNRTI）に関連するDRMの有病率は、それぞれ27.7%および41.8%に達した。最も頻繁に検出されたNRTI関連DRMにはM184V/IおよびK65Rが含まれ、主要なNNRTI関連変異としてはV179D/E/F、K103N、V106I/L/M、G190A/Q/S/T、およびY181C/Lが認められた。さらに、多変数ロジスティック回帰分析により、患者の年齢、血漿中ウイルス量、および特定のHIV-1サブタイプがDRM発現の独立したリスク因子として同定された。考察最終的に、本研究はART不応例における変異状況の変遷を解明し、個別化抗レトロウイルスレジメンの最適化および当該地域内における薬剤耐性HIV-1変異株のさらなる伝播抑制に向けた、エビデンスに基づく重要な知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007336",
+    "title": "<i>Zhuyongguania soli</i> gen. nov., sp. nov., a difficult-to-culture isolate from paddy soil: proposal of <i>Zhuyongguaniaceae</i> fam. nov.",
+    "abstract": "Members of the phylum Verrucomicrobiota are widespread but remain underrepresented in culture collections. In a cultivation survey of paddy soils in Fujian Province, China, two strains, sgz303538T and sgz304111, were obtained on modified Reasoner's 2A agar supplemented with nucleotides. The strains were conspecific (100% 16S rRNA gene sequence identity) and shared low similarity with validly published taxa, with Terrimicrobium sacchariphilum CGMCC 1.5168T (family Terrimicrobiaceae, order Terrimicrobiales) as the closest relative (88.5%). Phylogenetic analyses of the 16S rRNA gene and a 120-marker phylogenomic dataset consistently placed strain sgz303538T as a deeply branching lineage within the order Terrimicrobiales, clearly separated from Terrimicrobiaceae. The genome of sgz303538T is 7.83 Mb with a DNA G+C content of 57.5% and showed low genomic relatedness to T. sacchariphilum (ANI 71.2%; AAI 57.3%). On the basis of phylogenomics together with phenotypic and chemotaxonomic traits, strain sgz303538T represents a novel family within the order Terrimicrobiales, for which the name Zhuyongguaniaceae fam. nov. is proposed. The genus and species proposed for Zhuyongguaniaceae are Zhuyongguania soli sp. nov. (type strain sgz303538T=MCCC 1K09987T=KCTC 102448T).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007336",
+    "date": "2026-11-01",
+    "authors": "Liu GH, Shi SZ, Lu XF, Zhou SG.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43019081",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43019081",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4130,
+    "collected_at": "2026-11-14T11:27:51.659174+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1099/ijsem.0.007336"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6297222fc00e7377402b05246f15b46d16d2cf4ddd4dfe6da1a7dad39104a255",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T11:59:58.895435+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "57866767471857e0ba17f382703e1495d0c00818b801fa5ca9bcaadfe280e037",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T11:59:58.895435+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Zhuyongguania soli</i> gen. nov., sp. nov., 水田土壌由来の培養困難な分離株：<i>Zhuyongguaniaceae</i> fam. nov. の提唱",
+    "abstract_ja": "ヴェルコミクロビオータ門の菌株は広く分布しているが、培養コレクションにおける代表性は依然として低い。中国福建省の水田土壌を対象とした培養調査において、ヌクレオチドを添加した改変Reasoner 2A寒天培地から、sgz303538Tおよびsgz304111の2株が得られた。これらの株は同種であり（16S rRNA遺伝子配列の同一性100%）、有効に公表された分類群との類似性は低く、Terrimicrobium sacchariphilum CGMCC 1.5168T（Terrimicrobiaceae科、Terrimicrobiales目）が最も近縁な分類群であった（88.5%）。16S rRNA遺伝子および120マーカーの系統ゲノムデータセットを用いた系統解析の結果、sgz303538T株はTerrimicrobiales目内の深く分岐した系統として一貫して位置付けられ、Terrimicrobiaceae科とは明確に区別された。sgz303538Tのゲノムサイズは7.83 Mbで、DNA G+C含量は57.5%であり、T. sacchariphilumとのゲノム関連性は低かった（ANI 71.2%; AAI 57.3%）。系統ゲノム解析ならびに表現型および化学分類学的形質に基づき、sgz303538T株はTerrimicrobiales目内の新規科を構成しており、その名称としてZhuyongguaniaceae fam. nov.を提案する。Zhuyongguaniaceae科に提案される属および種は、Zhuyongguania soli sp. nov.（タイプ株 sgz303538T=MCCC 1K09987T=KCTC 102448T）である。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag328",
+    "title": "Source and concentration of natural microbial inoculum influence growth, survival, and associated microbiota of larval amphibians",
+    "abstract": "AbstractLarval amphibians reared under captive conditions are exposed to drastically reduced microbial diversity. Moreover, these conditions often lead to substantial intrinsic mortality and life-long differences such as increased disease susceptibility as adults. Microbiome “rewilding” has been proposed to improve conservation efficacy, but raising amphibians entirely in natural pond waters is logistically prohibitive. Here, we tested whether seeding captive enclosures with small volumes of natural pond water inoculum was sufficient to impact tadpole survival and increase gut and skin microbiota diversity. Pond water inoculum was obtained from two geographic sites to determine whether distinct site-specific microbiomes can be acquired by larval tadpoles in the lab. Captive-bred green frog (Lithobates clamitans) tadpoles were raised in water from these two geographic sources at varying concentrations, alongside microbially-depleted and standard husbandry controls. Addition of pond water inoculum, even at concentrations of 1–25%, significantly increased tadpole survival, body mass, gut- and skin-microbiota richness, and shaped gut- and skin-microbiota community composition and structure. in a concentration- and source-dependent manner. Microbial depletion treatments suggest these effects were driven by inoculum microbial composition rather than abiotic components alone. Together, these results support small-volume pond water inoculation as a practical and effective method for introducing specific microbial communities in captive amphibians.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag328",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag328/9049161?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4457,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/ismeco/ycag328"
+    ],
+    "translation": {
+      "title": {
+        "hash": "77d5ad4a64265b007e13545ff148338947199f2f6661abd0d469bbf19058a0c3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T11:59:58.895435+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ad41c4a2e1542dac970d3641a438c65821c88c01885a2549022917a4cb294302",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T11:59:58.895435+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "天然微生物接種源の由来と濃度は、両生類幼生の成長、生存、および関連微生物叢に影響を及ぼす。",
+    "abstract_ja": "要旨 飼育下で育成された両生類の幼生は、微生物多様性が著しく低下した状態にさらされる。さらに、こうした環境はしばしば顕著な固有の死亡率を招き、成体における疾患感受性の亢進といった生涯にわたる差異をもたらす。保全効果を向上させるためにマイクロバイオームの「リワイルディング」が提案されているが、両生類を完全に自然の池水で飼育することは物流上の制約から困難である。本研究では、飼育下の飼育容器に少量の自然池水接種液を添加することが、オタマジャクシの生存率に影響を与え、腸管および皮膚の微生物叢の多様性を高めるのに十分であるかを検証した。研究室において幼生が部位特異的なマイクロバイオームを獲得できるかを確認するため、2つの地理的地点から池水接種液を調達した。飼育下で育成したグリーンフロッグ（Lithobates clamitans）のオタマジャクシを、これら2つの地理的供給源からの水を用いて、濃度を変えて、微生物除去対照群および標準飼育対照群とともに飼育した。池水接種液の添加は、1～25%の濃度であっても、オタマジャクシの生存率、体重、腸管および皮膚の微生物叢の豊富さを有意に増加させ、腸管および皮膚の微生物叢の群集組成と構造を濃度および供給源依存的に変化させた。微生物除去処理の結果は、これらの効果が非生物的成分のみではなく、接種液の微生物組成によってもたらされたことを示唆している。以上の結果を総合すると、少量の池水接種は、飼育下の両生類に特定の微生物群集を導入するための実用的かつ効果的な手法であることが支持される。"
   }
 ]
