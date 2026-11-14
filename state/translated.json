@@ -214895,5 +214895,336 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "耐性に対抗する抗菌ペプチドの設計：分子機構からAI駆動型創薬まで",
     "abstract_ja": "抗菌ペプチド（AMP）は、細菌からヒトに至る生物において進化的に古くから存在する自然免疫の一翼を担う、短鎖で主にカチオン性かつ両親媒性の分子であり、薬剤耐性（AMR）に対する有力な候補として再び注目を集めている。本総説では、AMPの生合成、構造・機能相関、分子機構、薬理学、および生物医学的トランスレーショナル研究について統合的に概説する。AMPは、その生合成と構造に基づいて以下のように分類できる。リボソーム合成ペプチド――古典的な宿主防御ペプチド、リボソーム合成および翻訳後修飾ペプチド（RiPPs）、バクテリオシン、およびモジュール型メガ酵素によって組み立てられる非リボソームペプチド（非リボソームペプチド合成酵素 -NRPS）を含む。その活性は、固定された配列よりも、カチオン性、疎水性、および両親媒性の調整可能なバランスによって制御されており、これらが相まって効力と選択性を決定づける。機構的には、AMPは膜透過性の亢進（バレル・ステーブ型、トーラス孔型、カーペット型モデル）を介して作用し、また近年認識されつつあるように、脂質II、核酸、リボソーム、シャペロンなどの細胞内標的や、宿主の免疫調節を介して作用する。全身投与における主な障壁は、好ましくない薬物動態、タンパク質分解による不安定性、迅速なクリアランス、および血清中への蓄積である。そのため、広範なペプチド工学（D-アミノ酸、環化、脂質化、ペプチドミメティクス）や、最近では、天文学的な規模の配列空間を探索して多目的最適解を導き出す機械学習および生成人工知能（AI）が、新規AMPの開発に用いられている。臨床的に検証されたAMP（ニシン、ダプトマイシン、ポリミキシン、グラミシジン、バシトラシン）は、薬物動態上の制約が最も少ない領域に集積しており、一方で抗真菌、抗ウイルス、抗バイオフィルム、免疫調節、抗がん、および抗生物質耐性化への応用が進んでいる。耐性に対する遺伝的障壁が比較的高いことから、AMPはAMRへの応答において、代替ではなく補完的なクラスとして位置づけられている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.764017",
+    "title": "Gene regulatory architecture in antibiotic resistance is optimized for specific dynamic regimens",
+    "abstract": "Cellular responses to antibiotics face a fundamental trade-off: resistance must be deployed quickly enough to prevent the accumulation of drug inside the cell, but expression of resistance genes is costly in the absence of the drug. Therefore, antibiotic responses are typically regulated, controlling not only whether resistance is expressed, but also when, how strongly, and for how long. These regulatory strategies are implemented through the strength and arrangement of promoters and operators. However, it is still not clear how the dynamics of drug exposure select for specific regulatory strategies. Here, we develop a dynamical model of a typical antibiotic response, where a transcriptional repressor senses the drug and regulates expression of a resistance protein, coupled to the effects of the drug on cell growth and gene expression. We define a cost function that weighs the different burdens imposed on the cell over the course of the response, and perform  in silico optimization of the regulatory parameters under different selective pressures for three architectures of increasing complexity: constitutive expression of resistance, repression by a constitutively expressed repressor, and repression by a self-regulated repressor. We find that strong drug exposures favor constitutive expression of resistance, high costs of basal expression favor repression by a constitutive repressor, and self-regulation of the repressor is favored only when the response must provide protection while also restraining overexpression of resistance. Stochastic simulations further show that self-regulation of the repressor protects cells against fluctuations in repressor levels, which cause unnecessary induction of resistance before exposure and failed induction after exposure. This framework links the dynamics of the environment to the evolution of gene regulation, providing a basis to predict which regulatory strategies are expected to arise under specific selective pressures.  Significance  Bacteria regulate the expression of antibiotic resistance genes to avoid the costs of producing resistance when it is not needed. However, regulated responses take time to activate, which can be fatal when cells are suddenly exposed to large drug doses. Here, we use a mathematical model of antibiotic responses to identify which regulatory strategies are optimal under different selective pressures. We show that the choice between constitutive and regulated expression of resistance, and the use of self-regulation by the repressor, depend on the dynamics of drug exposure and on which costs dominate the response. Noise in gene expression further favors self-regulation of the repressor near the limit of tolerable drug exposures. These results help explain the diversity of regulatory architectures found in natural resistance mechanisms, and the frequent loss of regulation in pathogens exposed to antibiotic treatments.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.764017",
+    "date": "2026-11-05",
+    "authors": "Geng H, Schultz D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359759",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2205,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.03.764017"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f3c35d487fbb3f93e6e8197c604792bb1fcc0cf32492d0e421df7ef9d14a6c03",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:15:33.879718+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "01a958d34bb80cd3a231d96dc173e35d70cc8c171a8866ad0b6079c2aa5c5a90",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:15:33.879718+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗生物質耐性における遺伝子調節機構は、特定の動的レジメンに最適化されている。",
+    "abstract_ja": "抗生物質に対する細胞応答は、根本的なトレードオフに直面している。すなわち、細胞内での薬剤の蓄積を防ぐためには十分に迅速に耐性を獲得しなければならないが、薬剤が存在しない状況では耐性遺伝子の発現にはコストが伴う。そのため、抗生物質応答は通常、制御されており、耐性が発現するかどうかだけでなく、いつ、どの程度の強さで、どのくらいの期間発現するかまでもが制御されている。これらの制御戦略は、プロモーターやオペレーターの強度と配置によって実現される。しかし、薬剤曝露の動態がどのようにして特定の制御戦略を選択するのかは、依然として明らかになっていない。本研究では、転写抑制因子が薬剤を感知して耐性タンパク質の発現を制御し、それが細胞増殖や遺伝子発現に及ぼす薬剤の影響と連関した、典型的な抗生物質応答の動的モデルを構築する。我々は、応答の過程で細胞に課される異なる負荷を重み付けするコスト関数を定義し、複雑性が増す3つのアーキテクチャ（耐性の構成的発現、構成的に発現する抑制因子による抑制、および自己調節型抑制因子による抑制）について、異なる選択圧下での制御パラメータのin silico最適化を行った。その結果、強い薬剤曝露は耐性の構成的発現を促進し、基底的発現の高コストは構成的抑制因子による抑制を促進し、抑制因子の自己調節は、応答が保護を提供すると同時に耐性の過剰発現を抑制しなければならない場合にのみ促進されることが分かった。確率的シミュレーションにより、抑制因子の自己調節が、曝露前の不要な耐性誘導や曝露後の誘導失敗を引き起こす抑制因子レベルの変動から細胞を保護することがさらに示された。この枠組みは、環境の動態を遺伝子制御の進化に結びつけるものであり、特定の選択圧下でどのような制御戦略が出現すると予想されるかを予測するための基盤を提供する。意義 細菌は、耐性が必要ない時に耐性を産生するコストを避けるため、抗生物質耐性遺伝子の発現を制御している。しかし、制御された応答の活性化には時間がかかり、細胞が突然大量の薬剤に曝露された場合には致命的となり得る。本研究では、抗生物質応答の数理モデルを用いて、異なる選択圧下でどの制御戦略が最適であるかを特定した。耐性の構成的発現と制御的発現の選択、および抑制因子による自己調節の利用は、薬剤曝露の動態と、どのコストが応答を支配するかに依存することを示した。遺伝子発現におけるノイズは、許容可能な薬剤曝露量の限界付近において、抑制因子の自己調節をさらに促進する。これらの結果は、自然耐性機構に見られる制御アーキテクチャの多様性や、抗生物質処理に曝露された病原体において制御が頻繁に喪失する現象を説明する一助となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0594.v1",
+    "title": "Distinct Bacterial and Fungal Profiles in Leishmania Vector and Non-Vector Sand Flies from Antioquia, Colombia",
+    "abstract": "Phlebotomine sand flies are the biological vectors of Leishmania spp. and host complex microbial communities that may modulate insect physiology, ecological adaptation, and vector competence. In Colombia, where leishmaniasis remains a significant public health concern, characterization of sand fly-associated microbiota may provide insights into host–microbe–parasite interactions and identify candidates for microbiome-informed control strategies. Here, we characterized the bac-terial and fungal microbiomes of field-collected female sand flies from three municipalities in Antioquia, Colombia. Specimens were identified using morphological characters and confirmed by cytochrome C oxidase subunit I sequencing. Bacterial and fungal community composition was assessed by amplicon sequencing of the 16S rRNA gene and the internal transcribed spacer 2 (ITS2) region, respectively. To determine natural parasite infection status, all specimens were screened for Leishmania by nested PCR targeting the cyt b gene. Five sand fly species were de-tected, including the recognized vector species Nyssomyia olmeca bicolor, Lutzomyia gomezi, and Psychodopygus panamensis, and the non-vectors Pressatia dysponeta and Pr. camposi. No specimen tested positive for Leishmania. Across taxa, bacterial communities were dominated by members of the phyla Proteobacteria, Firmicutes, and Actinobacteria. In contrast, Bacteroidetes exhibited significantly higher relative abundance in vector species than in non-vectors, suggesting possible associations between bacterial community structure and vector status. Fungal communities were primarily composed of Basidiomycota and Ascomycota, and beta-diversity analyses indicated significant compositional differentiation among genera. Collectively, these data demonstrate that sand flies from endemic areas of Colombia harbor taxonomically distinct bacterial and fungal assemblages, with detectable differences between vector and non-vector species.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0594.v1",
+    "date": "2026-11-05",
+    "authors": "Calle-Tobón AF, Zorrilla VO, Larson R, Rúa G, Vasquez GM, Londono-Rentería B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361661",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbe",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4140,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.20944/preprints202611.0594.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a8e5b5fc86708ad39e0ffe32e4d49f0b01150f201fe251ae6d0e6e58f9a5310d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:15:33.879718+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8ed162cb9b173b58d8eae5828b7edf742daebaf198bca2f70e237d271c977a50",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:15:33.879718+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コロンビア・アンティオキア州のリーシュマニア媒介蚊および非媒介蚊における細菌・真菌プロファイルの相違",
+    "abstract_ja": "フレボトミンサシバエは、Leishmania属菌および宿主複合微生物群集の生物学的媒介生物であり、昆虫の生理機能、生態的適応、および媒介能を調節する可能性がある。リーシュマニア症が依然として重大な公衆衛生上の懸念となっているコロンビアにおいて、サシバエ関連微生物叢の特性解析は、宿主・微生物・寄生虫間の相互作用に関する知見を提供し、マイクロバイオームに基づいた制御戦略の候補を特定する一助となる可能性がある。本研究では、コロンビア・アンティオキア県の3つの自治体で野外採集した雌のサシバエの細菌および真菌マイクロバイオームを特性解析した。検体は形態学的特徴を用いて同定し、シトクロムCオキシダーゼサブユニットIシーケンシングにより確認した。細菌および真菌群集の組成は、それぞれ16S rRNA遺伝子および内部転写スペーサー2（ITS2）領域のアンプリコンシーケンシングにより評価した。自然寄生虫感染状態を判定するため、すべての検体を対象に、cyt b遺伝子を標的としたネストPCRによりLeishmania属菌のスクリーニングを行った。その結果、既知の媒介種であるNyssomyia olmeca bicolor、Lutzomyia gomezi、Psychodopygus panamensis、および非媒介種であるPressatia dysponetaとPr. camposiを含む5種のサシバエが検出された。Leishmania属菌陽性となった検体はなかった。分類群全体で見ると、細菌群集はProteobacteria門、Firmicutes門、およびActinobacteria門の菌種が優占していた。対照的に、Bacteroidetes門は非媒介種よりも媒介種において相対存在量が有意に高く、細菌群集構造と媒介生物の状態との間に関連がある可能性が示唆された。真菌群集は主にBasidiomycota門とAscomycota門で構成されており、ベータ多様性解析により、属間で有意な組成の分化が認められた。総じて、これらのデータは、コロンビアの流行地域のサシバエが分類学的に異なる細菌および真菌の集合体を保有しており、媒介種と非媒介種の間に検出可能な差異があることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11199507/v1",
+    "title": "Comparative multi-omics of host genome, metabolome and associated rhizosphere microbiota across karst-endemic and widespread Rhododendron species",
+    "abstract": "Abstract    Background  To examine how classically calcifuge plants persist in phosphorus-poor, high-Ca  2+  karst bare-rock habitats, we compared genome, leaf-metabolome and associated rhizosphere-microbiome patterns in the karst-endemic  Rhododendron bailiense  Y.P.Ma, C.Q.Zhang & D.F.Chamb. with those in the widespread  R. delavayi  Franch. and allopatric  R. ambiguum  Hemsl. We integrated a multi-omics investigation across three natural microhabitats to decode these inter-kingdom interactions, combining whole-genome comparative analysis, UHPLC-MS/MS non-targeted leaf metabolomics, fungal internal transcribed spacer (ITS) amplicon profiling, and deep rhizosphere metagenomic sequencing. Results  Comparative genomics revealed significant expansion of secondary metabolism gene families in  R. bailiense  . Metabolomics showed a distinct chemical profile rich in specific flavonoids and polyacetylenes, such as luteolinidin and safynol. These species-specific metabolite profiles co-varied with microbial hubs, including  Piloderma  ,  Streptomyces  ,  Pseudorhodoplanes  and  Candidatus Sulfotelmatobacter  , whose reported or predicted functions are relevant to phosphorus mobilization, rhizosphere defence, recalcitrant-carbon turnover and mineral-associated sulfur cycling. In contrast, the  R. delavayi  and  R. ambiguum  rhizospheres were enriched in saprotrophic taxa, including  Mortierella  , consistent with broader nutrient-turnover potential. Conclusions  R. bailiense  showed a species-specific leaf-metabolite profile that co-varied with a distinctive rhizosphere microbiome. Together, these coordinated patterns suggest a potential functional link between species-specific host chemistry and rhizosphere-community organization, and highlight microbial and metabolic candidates relevant to karst persistence and conservation.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11199507/v1",
+    "date": "2026-11-04",
+    "authors": "Wen S, Leng Y, Yao H, Zhou K, Min Y, Peng L, Ou J, Qiao G, Wen X, Ding G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358192",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Streptomyces",
+        "fungal",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 40,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11199507/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6261f838fbfc6d72a5c5d22614a3038f300b6c13690c8fafaa155aed6b07706a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:15:33.879718+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d3626c269a73c8ddc9fb7402a7b258ce0ab0e71b01ca5ba963ce04cb551809dd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:15:33.879718+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カルスト固有種および広域分布するツツジ属種における宿主ゲノム、メタボローム、および関連する根圏微生物叢の比較マルチオミクス解析",
+    "abstract_ja": "要旨    背景  リン欠乏かつ高Ca 2+ のカルスト裸岩生息地において、古典的な石灰質除去植物がどのように生存しているかを検討するため、カルスト固有種である Rhododendron bailiense Y.P.Ma, C.Q.Zhang & D.F.Chamb. におけるゲノム、葉メタボロームおよび関連する根圏微生物叢のパターンを、広く分布する R. delavayi Franch. および異所的分布の R. ambiguum Hemsl のものと比較した。全ゲノム比較解析、UHPLC-MS/MS 非標的型葉メタボロミクス、真菌内部転写スペーサー（ITS）アンプリコンプロファイリング、および深層根圏メタゲノムシーケンシングを組み合わせ、3つの自然微小生息地にわたるマルチオミクス調査を統合することで、これらの界間相互作用を解明した。結果  比較ゲノミクスにより、R. bailiense において二次代謝遺伝子ファミリーの有意な拡大が認められた。メタボロミクスでは、ルテオリニジンやサフィノールなどの特定のフラボノイドやポリアセチレンに富む明確な化学的プロファイルが示された。これらの種特異的な代謝物プロファイルは、Piloderma、Streptomyces、Pseudorhodoplanes、および Candidatus Sulfotelmatobacter を含む微生物ハブと共変しており、これらのハブの報告または予測される機能は、リンの動員、根圏防御、難分解性炭素のターンオーバー、および鉱物関連硫黄循環に関連している。対照的に、R. delavayi および R. ambiguum の根圏では、Mortierella を含む腐生菌分類群が豊富であり、より広範な栄養塩ターンオーバー能と一致していた。結論  R. bailiense は、特徴的な根圏微生物叢と共変する種特異的な葉代謝物プロファイルを示した。これらの協調的なパターンは、種特異的な宿主化学と根圏コミュニティの構成との間に潜在的な機能的関連性があることを示唆しており、カルストの存続と保全に関連する微生物および代謝候補を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11292388/v1",
+    "title": "Beyond the CaCl₂ Brine: Transient Microbial Communities at the Edge of Habitability in lifeless Don Juan Pond, McMurdo Dry Valleys, Antarctica",
+    "abstract": "Abstract    Background  Don Juan Pond (DJP), located in the McMurdo Dry Valleys of Antarctica, is one of the most extreme aquatic environments on Earth due to its CaCl₂-rich brines, low water activity, exceptional chaotropicity, subzero temperatures, intense solar radiation, and recurrent desiccation. Although the central DJP brine has long been considered largely inhabitable, the surrounding basin seasonally harbors temporary streams, ponds, and sparse microbial mat. Here, we investigated the diversity, ecological organization, and environmental factor chaping the structure of microbial communities inhabiting these peripheral habitats by integrating hydrochemical analyses, in situ reflectance spectroscopy, DNA metabarcoding, and ecological network analysis.  Results  No DNA suitable for PCR amplification was recovered from the central CaCl₂ brine. In contrast, peripheral streams and ponds supported diverse prokaryotic, microeukaryotic, and fungal communities, with the highest alpha diversity consistently observed in the hydrologically heterogeneous S1 stream system. Prokaryotic assemblages were primarily associated with salinity-related variables, including chlorinity and Mg/Ca ratios, whereas eukaryotic and fungal communities were more strongly correlated with hyperspectral indices indicative of photosynthetic biomass. Transient habitats also hosted micro-metazoans, including rotifers, tardigrades, and nematodes, indicating ecological refugia capable of sustaining complex trophic interactions under polyextreme conditions. Hyperspectral indices successfully discriminated active microbial mats from inactive sedimentary crusts and were significantly associated with the distribution of multiple bacterial, fungal, and microeukaryotic taxa. Network analyses revealed highly interconnected multi-domain communities composed of bacteria, fungi, algae, protists, and microbial grazers.  Conclusions  The presence of life in the Don Juan Pond basin appears to be largely restricted to temporary habitats supported by seasonal meltwater inputs rather than the central CaCl₂ saturated brine itself, which is anathema to all life forms due to a number of strict physicochemical constraints imposed on life. The contrasting responses of prokaryotic and eukaryotic communities suggest that adaptation and persistence represent distinct ecological strategies in this polyextreme ecosystem. These findings indicate that environmental stability may be as important as salinity/chaotropicity in determining habitability limits and demonstrate the value of integrating molecular and hyperspectral approaches to investigate life in extreme terrestrial and exo-planetary analogous environments.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11292388/v1",
+    "date": "2026-11-04",
+    "authors": "Smedile F, Spada GL, Cono VL, Marturano L, Crisafi F, Azzaro M, Porcino N, Giani M, Laudicella VA, Pasti L, Chenet T, Traversa G, Mauro BD, Canini F, Zucconi L, Yakimov MM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358369",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial",
+        "prokaryotic",
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 146,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11292388/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "173b3e3e2d6c5d9dbe7cc28dd4a38fcf37751fd9c9a02c6bd2a7dc0efb6e1b99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:15:33.879718+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c59538e101cdfd0f44e7104b81c43fad4ccf6688c6448267f8687c38323ff819",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:15:33.879718+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CaCl₂塩水を越えて：南極マクマードドライバレーの生命なきドン・ファン池における居住可能性の境界域の一過性微生物群集",
+    "abstract_ja": "要旨    背景  南極のマクマード乾谷に位置するドン・ファン池（DJP）は、CaCl₂に富む塩水、低い水活動、卓越したカオストロピー性、氷点下の温度、強烈な太陽放射、および繰り返される乾燥により、地球上で最も過酷な水環境の一つである。DJPの中心部の塩水は長らく大部分が居住不能であると考えられてきたが、周囲の盆地には季節的に一時的な河川、池、およびまばらな微生物マットが存在する。本研究では、水化学分析、その場反射分光法、DNAメタバーコーディング、および生態ネットワーク解析を統合することで、これらの周辺生息地に生息する微生物群集の多様性、生態学的組織化、および構造を規定する環境要因について調査した。  結果  中心部のCaCl₂塩水からは、PCR増幅に適したDNAは回収されなかった。対照的に、周辺の河川や池には多様な原核生物、微小真核生物、および真菌群集が存在し、水文学的に不均質なS1河川系において一貫して最も高いα多様性が観察された。原核生物群集は主に、塩素濃度やMg/Ca比を含む塩分関連変数と関連していた一方、真核生物および真菌群集は、光合成バイオマスを示すハイパースペクトル指数とより強く相関していた。また、一時的な生息地には輪形動物、クマムシ、線虫などの微小後生動物も生息しており、ポリエクストリーム条件下で複雑な栄養段階間相互作用を維持できる生態学的リフュージアであることが示された。ハイパースペクトル指数は、活性な微生物マットを不活性な堆積性クラストから正常に識別し、複数の細菌、真菌、および微小真核生物の分類群の分布と有意に関連していた。ネットワーク解析により、細菌、真菌、藻類、原生生物、および微生物草食動物からなる、高度に相互接続されたマルチドメイン群集が明らかになった。  結論  ドン・ファン池盆地における生命の存在は、中心部のCaCl₂飽和塩水そのものではなく、季節的な融解水の流入によって維持される一時的な生息地に概ね限定されているようである。中心部の塩水は、生命に課せられる多くの厳格な物理化学的制約により、あらゆる生命形態にとって忌避されるものである。原核生物群集と真核生物群集の対照的な応答は、このポリエクストリーム生態系において、適応と持続性がそれぞれ異なる生態学的戦略であることを示唆している。これらの知見は、居住可能性の限界を決定する上で、環境の安定性が塩分濃度やカオストロピー性と同等に重要である可能性を示しており、極限的な陸上および系外惑星類似環境における生命を調査するために、分子生物学的アプローチとハイパースペクトルアプローチを統合することの価値を実証するものである。"
   }
 ]
