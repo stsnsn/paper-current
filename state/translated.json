@@ -205461,5 +205461,297 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "等温増幅法による環境DNAの迅速検出：ナッタージャックヒキガエル（Epidalea calamita）におけるリアルタイム定量PCRとの比較",
     "abstract_ja": "環境DNA（eDNA）に基づく種検出は、従来、ポリメラーゼ連鎖反応（PCR）に依存してきた。この増幅法は一般に最低1時間を要し、多くの場合、専門の研究室や設備へのアクセスが必要となる。臨床研究に端を発する等温増幅法は、迅速かつ現場で導入可能な代替手法として台頭しつつある。しかし、その感度、特異性、およびコスト・時間効率が、従来のリアルタイム定量PCR（qPCR）に匹敵するかどうかは、依然として評価の余地がある。本研究では、水圏ろ過系からナッタージャックヒキガエル（Epidalea calamita）を検出するため、ループ媒介等温増幅法（LAMP）および組換え酵素ポリメラーゼ増幅法（RPA）の性能をqPCRと比較した。この目的は3つのステップで達成された。まず、ミトコンドリアゲノムに基づき、対象種に特異的なLAMPおよびRPAプライマーを開発した。次に、E. calamitaおよび近縁種の組織から得られたDNA抽出物を、LAMP、RPA、およびqPCRの市販プロトコルを用いたリアルタイム蛍光検出により増幅し、3つの手法の感度と特異性を評価・比較した。最後に、フィールド科学者が調査した池の水サンプルから回収したeDNA抽出物を用いて、すべてのプロトコルを検証した。その結果、RPAはqPCRと同等の感度を示した一方、LAMPの感度は10分の1であった。我々のアッセイはすべて、フィールド科学者が当該種を確認したeDNAサンプルにおいて、その種のDNAを増幅した。以上の研究を通じて、我々はeDNA応用のための等温増幅アッセイを実装するための堅牢な手法を提案するとともに、時間や研究室設備が限られている状況において、保全優先種（すなわち保護種または侵入種）の検出においてRPAがqPCRに代わる有効な手法であることを示す。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764844",
+    "title": "Genome assembly and characterization of two Brazilian soybean cultivars contrasting for stink bug resistance",
+    "abstract": "Brazil's tropical soybean germplasm still has few genomic resources: only one assembly of a Brazilian cultivar is available at NCBI. Here we describe chromosome-level de novo assemblies of two contrasting cultivars: IAC-100, described as resistant to phytophagous stink bugs, and CD-215, susceptible. We sequenced high molecular weight DNA using 10x Genomics linked reads, assembled the reads with Supernova, anchored the assembly to the Williams 82 reference with RaGOO and corrected structural errors with REAPR. The assemblies span 1.057 and 1.061 Gb, with scaffold N50 values of 53.6 and 54.2 Mb (48.0 and 47.7 Mb excluding gaps), and recover more than 97% of conserved plant genes assessed by BUSCO. Homology-based projection of the reference protein-coding genes generated 46,774 and 46,620 gene models. Comparing the proteomes of the two cultivars, we identified 2,002 divergent isoforms in 1,427 loci, classified by sequence divergence, length variation, combined divergence and non-conserved homology. These data expand the genomic resources for tropical soybean germplasm, still underrepresented in public databases, and for studies of insect resistance.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764844",
+    "date": "2026-11-09",
+    "authors": "Godoy Filho, M. A. d., Viana, J. P. G., Santos, L. B. d., Wei, W., Santos, M. d. F., Pinheiro, J. B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764844v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2101,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.06.764844"
+    ],
+    "translation": {
+      "title": {
+        "hash": "27b72d599e4d595858f327e0295002e5c3509846f9d0a08b07d8849f4a309d3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:44:06.177317+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a736921461196dd01da040b526606abbdd6f19a173040712ff983289e50feb90",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:44:06.177317+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カメムシ抵抗性に対照的なブラジル産ダイズ2品種のゲノム構築と特性解析",
+    "abstract_ja": "ブラジルの熱帯ダイズ胚源に関するゲノムリソースは依然として限られており、NCBIで利用可能なブラジル産栽培品種のアセンブリはわずか1種類のみである。本稿では、植食性カメムシ抵抗性とされるIAC-100と、感受性とされるCD-215という、対照的な2つの栽培品種の染色体レベルのde novoアセンブリについて報告する。10x Genomicsのリンクドリードを用いて高分子量DNAをシーケンシングし、Supernovaでリードをアセンブルし、RaGOOでWilliams 82リファレンスにアンカー固定し、REAPRで構造エラーを補正した。アセンブリのサイズは1.057 Gbおよび1.061 Gbであり、スキャフォールドN50値はそれぞれ53.6 Mbおよび54.2 Mb（ギャップを除くと48.0 Mbおよび47.7 Mb）で、BUSCOで評価した保存植物遺伝子の97%以上を回収した。リファレンスタンパク質符号化遺伝子の相同性に基づくプロジェクションにより、46,774個および46,620個の遺伝子モデルが生成された。2つの栽培品種のプロテオームを比較した結果、配列の分岐、長さの変動、複合分岐、および非保存相同性によって分類される1,427箇所の遺伝子座において、2,002個の分岐アイソフォームを同定した。これらのデータは、公開データベースにおいて依然として十分に代表されていない熱帯ダイズ胚源のゲノムリソース、および昆虫抵抗性研究のためのリソースを拡充するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764768",
+    "title": "A genomic prediction framework for growth traits in black soldier fly (Hermetia illucens) breeding programmes",
+    "abstract": "Background Genomic prediction has been applied in livestock, plant and aquaculture species to accelerate genetic gain. However, its application and potential still remain unexplored in farmed black soldier fly (BSF), an emerging globally important insect production species. Due to the diversity of BSF feed sources, selection strategies need to be evaluated across various feedstocks and production environments to aid in building genomic selection into BSF breeding programmes. In this study, 2,083 BSF larvae from the base population were reared on three diets (SYK: Soy-okara, BSG: brewers' spent grain and FVW: fruit and vegetable waste), and 536 from the F7 population were reared on a chicken starter feed diet. Larvae were phenotyped for four growth traits (LBW, larval body weight; LL, larval length; LW, larval width; LSA, larval surface area) and genotyped across 4,680 SNPs. Genomic prediction was evaluated using seven methods under additive (A) and additive-dominance (AD) models, considering across- and within-diet effects, genotype by diet (G x D) interactions, differences amongst reference and test generations, and SNP densities. Results Performance varied across all scenarios, with LBW showing higher predictive ability (PA) among the growth traits. Accounting for dominance generally improved PA. Multivariate models accounting for G x D performed similarly to, or marginally better than, within-diet predictions. Cross-diet prediction was more variable and generally lower than within-diet prediction, showing reduced transferability across untested nutritional environments. Reducing the SNP density from 4,680 to 3,000 SNPs maintained comparable PA; however, PA decreased below 3,000 SNPs. Across multiple generations, predictive performance declined, resulting from reduced genetic connectivity and possible genotype-by-environment (G x E) interactions between the reference and testing populations. Conclusions Overall, these results provide an application-based framework for genomic prediction in BSF in semi- or commercial production settings. Results also highlight the importance of the genetic model, representative reference populations, and appropriate marker densities for genomic selection.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764768",
+    "date": "2026-11-09",
+    "authors": "Gowda, K. B., Massault, C., Jerry, D. R., Zenger, K. R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764768v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genomic",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2102,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.05.764768"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e8337f2ae87431a3ddc6b5761f98a049a5f7dffc6c4fd1cbaa1a983b06b86339",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:44:06.177317+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3e054989589bda8349ae388f1ae5a48811d65f938d0825860a617785e30fbaff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:44:06.177317+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クロ Soldier Fly (Hermetia illucens) の育種プログラムにおける成長形質のゲノム予測フレームワーク",
+    "abstract_ja": "背景 ゲノム予測は、遺伝的改良を加速させるため、家畜、植物、および水産養殖種に適用されてきた。しかし、世界的に重要な新興の昆虫生産種であるクロ Soldier Fly (BSF) におけるその適用と可能性については、依然として未解明のままである。BSFの飼料源は多様であるため、BSFの育種プログラムにゲノム選抜を組み込む一助となるよう、さまざまな飼料原料および生産環境における選抜戦略を評価する必要がある。本研究では、基礎集団から得られた2,083匹のBSF幼虫を3種類の飼料（SYK：大豆・オカラ、BSG：ビール粕、FVW：果物・野菜廃棄物）で飼育し、F7集団から得られた536匹を鶏用スターター飼料で飼育した。幼虫について、4つの成長形質（LBW：幼虫体重、LL：幼虫体長、LW：幼虫幅、LSA：幼虫表面積）の表現型解析を行い、4,680個のSNPにわたる遺伝子型解析を実施した。ゲノム予測は、飼料間および飼料内効果、飼料別遺伝子型（G x D）相互作用、参照世代と試験世代の差異、およびSNP密度を考慮し、加法（A）モデルおよび加法優性（AD）モデルの7つの手法を用いて評価した。結果 性能はすべてのシナリオで異なり、成長形質の中ではLBWが高い予測能（PA）を示した。優性を考慮することで、一般にPAが向上した。G x Dを考慮した多変数モデルは、飼料内予測と同等、あるいはわずかに良好な性能を示した。飼料間予測はより変動が大きく、一般に飼料内予測よりも低値となり、未検証の栄養環境間における転移性の低下が認められた。SNP密度を4,680個から3,000個に低減しても同等のPAが維持されたが、3,000個未満ではPAが低下した。複数世代にわたると、遺伝的連関の低下および参照集団と試験集団間の環境別遺伝子型（G x E）相互作用の可能性により、予測性能が低下した。結論 総じて、これらの結果は、半商業的または商業的な生産環境におけるBSFのゲノム予測のための、応用ベースのフレームワークを提供するものである。また、本結果は、ゲノム選抜における遺伝モデル、代表的な参照集団、および適切なマーカー密度の重要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0878.v1",
+    "title": "Doxycycline and Nitazoxanide as a Candidate Immunomodulatory Combination for the Early Management of Ebola Disease Caused by Bundibugyo Virus",
+    "abstract": "As of 5 November 2026, Bundibugyo virus disease in the Democratic Republic of the Congo had produced 10,741 confirmed cases and 5,230 deaths, with close to two of every three deaths in an earlier WHO reporting interval occurring in communities rather than treatment centres. No vaccine or treatment is approved for this species, and the agents in trials are monoclonal antibodies and direct-acting antivirals. In 2021 I proposed reclassifying COVID-19, Ebola virus disease and Nipah virus infection as a novel acute onset immune dysrhythmia syndrome. Read through it, the pathology now described in Bundibugyo-infected macaques points to two arms: fatal animals showed a myeloid hyperinflammatory profile with raised interleukin-6 and myeloperoxidase, survivors transcripts of an intact T cell response. Basing on that convergence I propose doxycycline and nitazoxanide as an early immunomodulatory combination, each acting on a different arm. Doxycycline inhibits matrix metalloproteinases at exposures achievable in man, and nitazoxanide amplifies the RIG-I and PKR arm the virus suppresses. To be noted that none of this establishes efficacy in Bundibugyo disease. What it offers is a mechanism worth testing in two licensed, oral, inexpensive drugs on the shelf, with the host-directed concentration still unmeasured. I therefore ask for species-specific work: activity in relevant cells and in the macaque model, the unbound concentration-response relationship, and a two-by-two factorial evaluation, preclinical and clinical, powered for the interaction. I strongly believe the search for safe immunomodulators is the one most likely to end in a drug available on the day it is needed.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0878.v1",
+    "date": "2026-11-09",
+    "authors": "Kelleni MT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362718",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2088,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.20944/preprints202611.0878.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e2663e13fd148ffd99df1dede7282c5e5dc29cc3853ef316703d282ffd2687c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:44:06.177317+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "76ab7a5ab5d70c3c1966c9c2c139ae7986a23986b6ec4e823cd5dc225e361809",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:44:06.177317+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブンディブギョウイルスによるエボラ病の早期管理に向けた免疫調節併用療法候補としてのドキシサイクリンおよびニタゾキサニド",
+    "abstract_ja": "2026年11月5日時点で、コンゴ民主共和国におけるブンディブギョウイルス病の確定症例数は10,741例、死亡者数は5,230人に達しており、WHOの前回の報告期間における死亡者の約3人に2人は、治療センターではなく地域社会で発生していた。本種に対するワクチンや治療法は承認されておらず、現在試験中の薬剤はモノクローナル抗体および直接作用型抗ウイルス薬である。2021年、私はCOVID-19、エボラウイルス病、およびニパウイルス感染症を、新規の急性発症性免疫調節異常症候群として再分類することを提案した。その内容を読み通せば、現在ブンディブギョ感染マカクで報告されている病理学的所見は2つのアームを示唆している。すなわち、致死的な動物ではインターロイキン-6およびミエロペルオキシダーゼの上昇を伴う骨髄系炎症プロファイルが認められ、生存個体では完全なT細胞応答の転写産物が認められた。この収束に基づき、私はドキシサイクリンとニタゾキサニドを、それぞれ異なるアームに作用する早期免疫調節併用療法として提案する。ドキシサイクリンはヒトで達成可能な曝露量でマトリックスメタロプロテアーゼを阻害し、ニタゾキサニドはウイルスが抑制するRIG-IおよびPKRアームを増幅させる。なお、これらはいずれもブンディブギョ病における有効性を確立するものではないことに留意されたい。これらが提示するのは、承認済みの経口で安価な市販薬2剤を用いて検証する価値のある機序であり、宿主指向性濃度はまだ測定されていない。したがって、私は種特異的な研究、すなわち関連細胞およびマカクモデルにおける活性、非結合型濃度-反応関係、ならびに相互作用を検証するための前臨床および臨床における2×2の因子評価を求める。安全な免疫調節薬の探索こそが、必要とされるその日に利用可能な薬剤の実現につながる可能性が最も高いと私は強く信じている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764654",
+    "title": "A Human Tumor Virus Recruits HSP70 Chaperone to Remodel Its Replisome on DNA",
+    "abstract": "Human Merkel cell polyomavirus (MCV) large T (LT) protein functions as a replication helicase analogous to the cellular MCM complex but requires a second MCV protein, small T (sT), for efficient LT-initiated replication. Both LT and sT encode highly-conserved DnaJ domains that bind to the cellular refolding molecule, heat shock protein 70 (HSP70). Using single-molecule imaging and FRET, we find that sT recruits dimeric HSP70 to serve as a molecular bridge between sT and LT on DNA and that this complex facilitates remodeling LT into a functional double-hexameric helicase. Disruption of LT-HSP70-HSP70-sT interaction with HSP70 inhibitors or by mutations to the LT-sT DnaJ domains collapse the LT-HSP70-HSP70-sT complex, abolishing sT-enhanced LT dodecamerization and ATP-dependent DNA unwinding. Assembly of virus-free mammalian MCM3, MCM4 and MCM6 in nuclear extracts similarly recruits HSP70 to DNA suggesting that Hsp70 remodeling is used for efficient eukaryotic assembly of the multi-protein replication machinery.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764654",
+    "date": "2026-11-09",
+    "authors": "Wan L, Li X, Vittot P, Brodsky J, Wipf P, Moore PS, Chang Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362583",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2106,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.05.764654"
+    ],
+    "translation": {
+      "title": {
+        "hash": "96e87349bc41da03992544102051e2597e515eca4c9969562c23676713a7f5ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:44:06.177317+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "addac95cf16febaf8150343148d0304f1743bba61f300a65988e09a96859b9f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:44:06.177317+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト腫瘍ウイルスはHSP70シャペロンを動員してDNA上のレプリソームをリモデリングする",
+    "abstract_ja": "ヒトメルケル細胞ポリオーマウイルス（MCV）の大型T（LT）タンパク質は、細胞内MCM複合体に類似した複製ヘリカーゼとして機能するが、効率的なLT誘導型複製には第2のMCVタンパク質である小型T（sT）を必要とする。LTおよびsTはともに、細胞内リフォールディング分子であるヒートショックプロテイン70（HSP70）に結合する高度に保存されたDnaJドメインをコードしている。単分子イメージングおよびFRETを用いた解析により、sTが二量体HSP70をリクルートしてDNA上でsTとLTの間の分子架け橋として機能させ、この複合体がLTの機能的な二重六量体ヘリカーゼへのリモデリングを促進することが明らかになった。HSP70阻害剤による、あるいはLT-sT DnaJドメインの変異によるLT-HSP70-HSP70-sT相互作用の阻害は、LT-HSP70-HSP70-sT複合体を崩壊させ、sTによるLTのドデカマー化およびATP依存的なDNA巻き戻しを消失させる。核抽出液中におけるウイルス不含の哺乳類MCM3、MCM4およびMCM6の会合も同様にHSP70をDNAへとリクルートしており、このことはHsp70のリモデリングが多タンパク質複製機構の効率的な真核生物レベルでの構築に利用されていることを示唆している。"
   }
 ]
