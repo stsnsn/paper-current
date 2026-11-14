@@ -214590,5 +214590,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ノルフロキサシンの眼内投与用高分子ナノ粒子の物理化学的特性評価、細胞毒性および抗菌活性",
     "abstract_ja": "要旨    眼感染症は重篤な合併症を引き起こす可能性があり、適切に治療が行われない場合は視力喪失に至ることがある。広域スペクトルフルオロキノロン系抗菌薬であるノルフロキサシン（NFX）は、細菌のDNA複製および転写を阻害することで作用し、重篤な眼感染症に一般的に伴う薬剤耐性病原体に対して有効である。しかし、水溶性が低いため、眼内送達における治療上の有用性が制限されている。本研究では、NFXの眼内バイオアベイラビリティを向上させるため、Eudragit® RS 100（ERS100）およびポリカプロラクトン（PCL）を用いてナノ粒子を製剤化した。ナノ粒子はスプレードライ法を用いて調製した。特性評価試験の結果、最適化された製剤は粒子径383.43 ± 8.01 nm、低いPDI 0.135 ± 0.01、および正電荷のゼータ電位+ 34.97 ± 0.22 mVを示し、優れた安定性と負に帯電した眼表面との良好な相互作用が認められた。これはNFXの眼内バイオアベイラビリティを向上させる可能性がある。ヒト網膜色素上皮細胞株（ARPE-19）を用いたMTTアッセイによる細胞毒性試験により、ナノ粒子の眼内安全性が確認された。IC 50 値はいずれも最小発育阻止濃度（MIC）を著しく上回っており、広範な治療安全域が示された。抗菌薬効は、ディスク拡散法およびMICアッセイによってさらに確認された。得られた結果に基づき、ERS100–PCLベースのナノ粒子は、重篤な眼感染症の治療におけるNFXの有効な眼内送達システムとして高い潜在能力を有すると結論付けられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.1099/acmi.0.001334.v2",
+    "title": "A Concentration-Matrix Approach to Assess Planktonic Growth and Biofilm Biomass in Pseudomonas aeruginosa Exposed to Rifampicin and Moringa oleifera Leaf Ethanolic Extract",
+    "abstract": "Biofilm formation by Pseudomonas aeruginosa complicates antimicrobial treatment, particularly in persistent infections, and motivates the assessment of plant-derived antibiotic adjuncts. The influence of Moringa oleifera leaf ethanolic extract on rifampicin responses across planktonic growth and biofilm formation requires concentration-resolved evaluation. Three independent experiments assessed planktonic growth and crystal violet-stained biofilm biomass across ethanolic extract–rifampicin concentration matrices. Conventional PCR screened selected biofilm-associated genes. The ethanolic extract alone yielded 99.33–119.33% planktonic growth relative to controls at 1–64 µg/mL. Rifampicin alone reduced growth to 58.67 ± 1.15% and 6.67 ± 0.58% at 16 and 32 µg/mL, respectively. Adding 16 µg/mL ethanol fraction to 16 µg/mL rifampicin yielded 44.67 ± 30.99% growth, compared with 58.67 ± 1.15% for rifampicin alone. At 32 µg/mL rifampicin, the same fraction addition yielded 16.00 ± 13.00% growth, compared with 6.67 ± 0.58% for rifampicin alone. Biofilm biomass at 16 µg/mL rifampicin was 55.67 ± 67.00%, reaching 70.00 ± 86.88% with ethanol fraction addition. All 49 paired comparisons per assay yielded false-discovery-rate-adjusted q-values above 0.05. PCR detected pelA, pslA, pslD, pqsA, lasR, and ndvB. The concentration matrices revealed distinct planktonic growth and biofilm biomass responses. These findings position complementary planktonic and biofilm measurements as essential criteria for assessing plant–antibiotic combinations, providing concentration-specific evidence to guide formulation screening and antimicrobial candidate prioritization.",
+    "journal": "",
+    "doi": "10.1099/acmi.0.001334.v2",
+    "date": "2026-11-05",
+    "authors": "Hapsari BK, Natzir R, Sultan AR, Syamsuri F, Astuti I, Bahar B, Aswad M, Hatta M.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359624",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2143,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/acmi.0.001334.v2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f42370059a954414becc54414c8ef313292f6ff7f4d884a9d3c1fa85d79761a8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:12:06.404310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ecc18f11dabb9b8293481397c523170e76955b1d223eae90e116f5d9744d587c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:12:06.404310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リファンピシンおよびモリンガ・オレイフェラ葉エタノール抽出物に曝露したPseudomonas aeruginosaにおけるプランクトン増殖とバイオフィルムバイオマスの評価に向けた濃度行列法",
+    "abstract_ja": "Pseudomonas aeruginosaによるバイオフィルム形成は、特に持続性感染症において抗菌薬治療を困難にするため、植物由来の抗菌薬アジュバントの評価が求められている。プランクトン増殖およびバイオフィルム形成におけるリファンピシン応答に対するMoringa oleifera葉のエタノール抽出物の影響については、濃度分解能を用いた評価が必要である。3つの独立した実験により、エタノール抽出物－リファンピシン濃度マトリックスにおけるプランクトン増殖およびクリスタルバイオレット染色によるバイオフィルムバイオマスを評価した。従来のPCR法を用いて、バイオフィルム関連遺伝子の選定スクリーニングを行った。エタノール抽出物単独では、1～64 µg/mLの条件下で、対照群と比較して99.33～119.33%のプランクトン増殖が認められた。リファンピシン単独では、増殖率はそれぞれ16および32 µg/mLにおいて58.67 ± 1.15%および6.67 ± 0.58%に低下した。16 µg/mLのリファンピシンに16 µg/mLのエタノール画分を添加したところ、増殖率は44.67 ± 30.99%となり、リファンピシン単独の58.67 ± 1.15%と比較して高い値を示した。32 µg/mLのリファンピシンにおいて、同様の画分添加による増殖率は16.00 ± 13.00%となり、リファンピシン単独の6.67 ± 0.58%と比較して高い値を示した。16 µg/mLのリファンピシンにおけるバイオフィルムバイオマスは55.67 ± 67.00%であり、エタノール画分の添加により70.00 ± 86.88%に達した。各アッセイにおける全49組の比較において、偽発見率調整後のq値は0.05を超えた。PCR法により、pelA、pslA、pslD、pqsA、lasR、およびndvBが検出された。濃度マトリックスからは、プランクトン増殖およびバイオフィルムバイオマスに対する明確な応答が認められた。これらの知見は、プランクトンおよびバイオフィルムの相補的な測定を、植物－抗菌薬併用の評価における不可欠な基準として位置づけるものであり、製剤スクリーニングおよび抗菌薬候補の優先順位付けを導くための濃度特異的な根拠を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.22541/authorea.15011719/v1",
+    "title": "Beneath functional traits: material organization in postgenomic ecology and evolution",
+    "abstract": "Ecology has progressed from describing species diversity through taxonomic indices to explaining ecological processes using functional traits. Yet traits such as growth, body size, reproduction, and resource-use efficiency are compressed representations of biological systems whose functions emerge from complex material organization. Here, I develop trait compression as the many-to-one relationship through which distinct biochemical and material states generate similar conventional ecological traits. Drawing on the view of organisms as open, far-from-equilibrium multielement systems, I argue that elemental inventories and log compositional coordinates (LCCs) offer tractable descriptions of material organization without requiring exhaustive molecular reconstruction. Environmental geochemical heterogeneity in natural rock pools and ionomic variation among laboratory-maintained isolates of the zooplankter, Daphnia, illustrate the diversity of material conditions and organismal states. Observations of experimentally evolved populations of the bacterium, Serratia marcescens, demonstrate that similar growth rates can accompany distinct multielement compositions. Reanalysis of recombinant Daphnia pulicaria clones further reveals substantial variation in body phosphorus (P) content among clones exhibiting overlapping growth rates, but little improvement in predicting growth across phosphorus environments when body P is included alongside initial growth. Together, these observations illustrate trait compression while distinguishing material heterogeneity from its predictive consequences. I propose that material-state differences become ecologically consequential when they predict distinct responses among organisms exhibiting similar initial traits. Trait compression thus identifies a testable limitation of conventional trait-based approaches and provides a framework for connecting biochemical organization to ecological prediction and evolutionary outcomes.",
+    "journal": "",
+    "doi": "10.22541/authorea.15011719/v1",
+    "date": "2026-11-05",
+    "authors": "Jeyasingh P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359489",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2908,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.22541/authorea.15011719/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eebf60b5bb53b68b3278e090c1213f79f439e29957fc97e9e6758e9ab5b9385d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:12:06.404310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf82f17840047e477452b9e110696b0aa820b5ac514244b4afcf2aa694814f17",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:12:06.404310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "機能的形質の深層：ポストゲノム生態学と進化における物質的組織化",
+    "abstract_ja": "生態学は、分類学的指標による種多様性の記述から、機能的形質を用いた生態学的プロセスの説明へと発展してきた。しかし、成長、体サイズ、生殖、資源利用効率といった形質は、複雑な物質組織化から機能が創発する生物学的システムの圧縮表現に過ぎない。本稿では、異なる生化学的・物質的状態が類似した従来の生態学的形質を生み出す「多対一の関係」として、形質圧縮を提唱する。生物を、平衡状態から遠く離れた開放的な多元素系として捉える視点に基づき、元素インベントリや対数組成座標（LCC）を用いることで、網羅的な分子再構成を必要とせずに物質組織化を扱いやすく記述できると論じる。天然の岩盤池における環境地球化学的不均質性や、実験室で維持された動物プランクトンであるミジンコ（Daphnia）の分離株間におけるイオン学的変異は、物質条件と生物状態の多様性を例証している。細菌Serratia marcescensの実験的に進化させた集団の観察からは、類似した成長率が互いに異なる多元素組成を伴うことが示されている。組換えミジンコ（Daphnia pulicaria）クローンの再解析により、成長率が重複するクローン間において体内リン（P）含有量に相当な変動があることが明らかとなったが、初期成長とともに体内Pを含めても、リン環境における成長予測の精度はほとんど向上しなかった。これらの観察結果を総合すると、物質的不均質性とその予測的帰結を区別しつつ、形質圧縮の実態が浮き彫りになる。私は、物質状態の差異が、類似した初期形質を示す生物間で異なる応答を予測する場合に、生態学的な意義を持つと提唱する。したがって、形質圧縮は、従来の形質ベースのアプローチにおける検証可能な限界を特定するものであり、生化学的組織化を生態学的予測および進化的帰結へと結びつける枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11393609/v1",
+    "title": "IL-4 Licenses B Cell Activation Through Cholesterol Synthesis",
+    "abstract": "Abstract  IL-4 is a pleiotropic cytokine that was first identified as a B cell co-mitogen over 30 years ago1. However, how IL-4 signaling mechanistically supports B cell proliferation is incompletely understood. Here, we find that the cholesterol biosynthetic program is transcriptionally upregulated by IL-4 signaling during the early B cell response to influenza virus infection and is required for B cell activation in vivo. Induction of lipid synthesis genes required both STAT6 and SREBP2 transcription factors, allowing IL-4 activated B cells to enter the cell cycle and proliferate in the absence of lipids. Genetic inhibition of de novo cholesterol synthesis via SREBP2 deletion reduced plasmablasts and subsequent germinal center B cell formation at steady state and following influenza infection. SREBP2-deficency blocked IL-4 mediated cell cycle entry, ER expansion, and subsequent proliferation in a cholesterol dependent manner. Further mechanistic studies revealed that ER cholesterol content promoted sustained STAT6 signaling associated with ER expansion and B cell survival. In sum, we demonstrate that the well-known ability of IL-4 to act as a B cell growth factor is through a previously unknown rewiring of specific lipid anabolic programs, relieving sensitivity of cells of environmental nutrient availability.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11393609/v1",
+    "date": "2026-11-05",
+    "authors": "York A, Steach H, Mattingly J, Skadow M, Wu A, Li M, Wang F, Chen S, Brewer J, Mowel W, Bailis W, Williams K, Bensinger S, Craft J, Flavell R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359421",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2909,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11393609/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dc6b5621dab974d039cd04e9a53ccde96616957e8a539e4fd358862618af807a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:12:06.404310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "30f4c794b4ea13bf10307676a77dd885bdcab293ebcf32afe5e60ae4d44f8d45",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:12:06.404310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "IL-4はコレステロール合成を介してB細胞を活性化する",
+    "abstract_ja": "要旨  IL-4は多面的な作用を有するサイトカインであり、30年以上前にB細胞共ミトゲンとして初めて同定された1。しかし、IL-4シグナル伝達が機序的にどのようにB細胞の増殖を支えているのかについては、十分に解明されていない。本研究では、インフルエンザウイルス感染に対するB細胞の初期応答において、コレステロール生合成プログラムがIL-4シグナル伝達によって転写的に亢進し、in vivoでのB細胞活性化に必須であることを明らかにした。脂質合成遺伝子の誘導にはSTAT6およびSREBP2の両転写因子が必要であり、これによりIL-4活性化B細胞は脂質不在下でも細胞周期に移行し、増殖することが可能となる。SREBP2の欠損によるde novoコレステロール合成の遺伝的抑制は、定常状態およびインフルエンザ感染後における形質芽細胞の減少と、それに続く胚中心B細胞の形成を減少させた。SREBP2欠損は、コレステロール依存的にIL-4介在性の細胞周期移行、ER拡大、およびその後の増殖を阻害した。さらなる機序解析により、ER内のコレステロール含有量が、ER拡大およびB細胞生存に関連する持続的なSTAT6シグナル伝達を促進することが明らかになった。以上のことから、IL-4がB細胞増殖因子として作用するという周知の機能は、これまで知られていなかった特定の脂質同化プログラムの再編成によるものであり、これにより細胞の環境栄養素の利用可能性に対する感受性が緩和されることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0629.v1",
+    "title": "Designing Antimicrobial Peptides Against Resistance: From Molecular Mechanisms to AI-Driven Discovery",
+    "abstract": "Antimicrobial peptides (AMPs) are short, mostly cationic and amphipathic molecules that constitute an evolutionarily ancient arm of innate immunity in organisms ranging from bacteria to humans, and they have re-emerged as leading candidates against antimicrobial resistance (AMR). This review integrates the biosynthesis, structure–function relationships, molecular mechanisms, pharmacology and biomedical translation of AMPs. AMPs can be classified according their biosynthesis and structures: Ribosomally synthesized peptides—including classical host-defence peptides, ribosomally synthesized and post-translationally modified peptides (RiPPs), bacteriocins and non-ribosomal peptides assembled by modular megaenzymes (non-ribosomal peptide synthetases -NRPS. Activity is governed less by a fixed sequence than by a tunable balance of cationicity, hydrophobicity and amphipathicity that jointly determine potency and selectivity. Mechanistically, AMPs act through membrane permeabilization (barrel-stave, toroidal-pore and carpet models) and, as is increasingly recognized, through intracellular targets such as lipid II, nucleic acids, the ribosome and chaperones, as well as through host immunomodulation. The principal barrier to systemic use is due to unfavorable pharmacokinetics, proteolytic lability, rapid clearance and serum sequestration. Therefore, extensive peptide engineering (D-amino acids, cyclisation, lipidation, peptidomimetics) and most recently, machine learning and generative artificial intelligence (AI) to navigate an astronomically large sequence space toward multi-objective optima are used to develop new AMPs. Clinically validated AMPs (nisin, daptomycin, polymyxins, gramicidin, bacitracin) cluster where pharmacokinetic constraints are least binding, while antifungal, antiviral, antibiofilm, immunomodulatory, anticancer and antibiotic-resensitizing applications are advancing. With a comparatively high genetic barrier to resistance, AMPs are positioned as a complementary—not a replacement—class within the response to the AMR.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0629.v1",
+    "date": "2026-11-05",
+    "authors": "Islek Camadan EE, Kocagoz T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361622",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2171,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.20944/preprints202611.0629.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1f91d5b4368daed5668a91108a65f42fd65a704e5bd21970f081036a889a9676",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:12:06.404310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cdc6d0b9ded1ea59f83f04f0bdadaa9b429c6166fa5b15cdab50df298cbfa0b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:12:06.404310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "耐性に対抗する抗菌ペプチドの設計：分子機構からAI駆動型創薬まで",
+    "abstract_ja": "抗菌ペプチド（AMP）は、細菌からヒトに至る生物において進化的に古くから存在する自然免疫の一翼を担う、短鎖で主にカチオン性かつ両親媒性の分子であり、薬剤耐性（AMR）に対する有力な候補として再び注目を集めている。本総説では、AMPの生合成、構造・機能相関、分子機構、薬理学、および生物医学的トランスレーショナル研究について統合的に概説する。AMPは、その生合成と構造に基づいて以下のように分類できる。リボソーム合成ペプチド――古典的な宿主防御ペプチド、リボソーム合成および翻訳後修飾ペプチド（RiPPs）、バクテリオシン、およびモジュール型メガ酵素によって組み立てられる非リボソームペプチド（非リボソームペプチド合成酵素 -NRPS）を含む。その活性は、固定された配列よりも、カチオン性、疎水性、および両親媒性の調整可能なバランスによって制御されており、これらが相まって効力と選択性を決定づける。機構的には、AMPは膜透過性の亢進（バレル・ステーブ型、トーラス孔型、カーペット型モデル）を介して作用し、また近年認識されつつあるように、脂質II、核酸、リボソーム、シャペロンなどの細胞内標的や、宿主の免疫調節を介して作用する。全身投与における主な障壁は、好ましくない薬物動態、タンパク質分解による不安定性、迅速なクリアランス、および血清中への蓄積である。そのため、広範なペプチド工学（D-アミノ酸、環化、脂質化、ペプチドミメティクス）や、最近では、天文学的な規模の配列空間を探索して多目的最適解を導き出す機械学習および生成人工知能（AI）が、新規AMPの開発に用いられている。臨床的に検証されたAMP（ニシン、ダプトマイシン、ポリミキシン、グラミシジン、バシトラシン）は、薬物動態上の制約が最も少ない領域に集積しており、一方で抗真菌、抗ウイルス、抗バイオフィルム、免疫調節、抗がん、および抗生物質耐性化への応用が進んでいる。耐性に対する遺伝的障壁が比較的高いことから、AMPはAMRへの応答において、代替ではなく補完的なクラスとして位置づけられている。"
   }
 ]
