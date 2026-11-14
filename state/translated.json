@@ -216504,5 +216504,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Gallaecimonas zhanjiangensis</i> sp. nov.：マングローブ堆積物から分離されたPseudomonadota門の新属種。",
     "abstract_ja": "中国広東省湛江市のマングローブ堆積物から、RL-SH01Tと命名された細菌株が分離された。RL-SH01T株は、グラム陰性の桿菌で、鞭毛を有する。本株は、15-35 °C（至適温度 25-35 °C）、pH 4-10（至適pH 5.0-9.0）、および塩分濃度 0-8%（w/v）（至適 0.5-5.0%）の条件下で増殖可能である。16S rRNA遺伝子配列に基づく系統解析の結果、RL-SH01T株はGallaecimonas属に属することが示された。ゲノムワイドデジタルDNA-DNAハイブリダイゼーション（dDDH）解析により、RL-SH01T株とGallaecimonas属の他のタイプ株との間のdDDH値は、種境界の閾値である70%を下回っていた。主要な脂肪酸は、C16 : 0、Summed Feature 3（C16 : 1  ω6c および/または C16 : 1  ω7c）、C12 : 0 3-OH、Summed Feature 8（C18 : 1  ω7c および/または C18 : 1  ω6c）、C17 : 1  ω8c、C17 : 0、およびC12 : 0であった。主要な呼吸キノンはQ8（97.8%）であった。極性脂質には、アミノホスホリピッド、ホスファチジルエタノールアミン、ホスファチジルグリセロール、リン脂質、および未同定の脂質が含まれていた。RL-SH01T株のDNA G+C含有量は58.50 mol%であった。形態学的、生理学的、化学分類学的、およびゲノム学的根拠に基づき、RL-SH01T株はGallaecimonas属の新種であり、Gallaecimonas zhanjiangensis sp. nov. という名称が提案される。タイプ株はRL-SH01T（=MCCC 1K10613T=KCTC 18644T）である。一般に、本新種の発見はGallaecimonas属の遺伝資源を拡充し、その系統的多様性および生態学的分布に関する理解を広げるものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag821",
+    "title": "Analyzing epigenetic modifications at sample-specific CpG loci in long-read data using a likelihood-based framework in bsseq",
+    "abstract": "AbstractSummaryDNA in CpG context is often epigenetically modified in vertebrate genomes which increases their mutation rate. However, it remains challenging to identify sample-specific CpG loci for analysis of epigenetic modifications. Here, we present a read-based likelihood framework for identifying reference and non-reference CpG loci with high precision and sensitivity in single-molecule long-read sequencing data from Nanopore and PacBio platforms. Including all sample-specific CpG loci increases the number of analyzable loci and reduces bias in modification level estimates, both critical factors for accurate analyses of epigenetic modifications.Availability and ImplementationThe likelihood framework is implemented in the R package bsseq with the source code available on github https://github.com/hansenlab/bsseq. Installation instructions and a user guide for long-read analysis and likelihood-based filtering of CpG loci are available on Bioconductor https://www.bioconductor.org/packages/release/bioc/html/bsseq.html.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag821",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag821/9044470?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4471,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/bioinformatics/btag821"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e459b68cf590457aa03e17133bd7a030e2c0bfa90fc20c8422db6655dc1bba3d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:39:18.535279+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c17565d2a700fcd48b746419f2e2d204297b8d4554e9be9ffb80c68eb512f17c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:39:18.535279+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "bsseqにおける尤度ベースのフレームワークを用いたロングリードデータのサンプル特異的CpG部位におけるエピジェネティック修飾の解析",
+    "abstract_ja": "要旨CpGコンテキストにおけるDNAは、脊椎動物ゲノムにおいてしばしばエピジェネティックに修飾されており、これにより突然変異率が上昇する。しかしながら、エピジェネティック修飾の解析に向けたサンプル特異的なCpG遺伝子座を同定することは、依然として困難な課題である。本研究では、NanoporeおよびPacBioプラットフォームのシングル分子ロングリードシーケンシングデータを用いて、リファレンスおよび非リファレンスCpG遺伝子座を高精度かつ高感度に同定するためのリードベースの尤度フレームワークを提案する。すべてのサンプル特異的CpG遺伝子座を含めることで、解析可能な遺伝子座の数が増加し、修飾レベル推定におけるバイアスが低減される。これらはいずれも、エピジェネティック修飾の正確な解析において極めて重要な要因である。利用可能性と実装本尤度フレームワークはRパッケージbsseqに実装されており、ソースコードはGitHub https://github.com/hansenlab/bsseq で公開されている。インストール手順ならびにロングリード解析およびCpG遺伝子座の尤度ベースフィルタリングに関するユーザーガイドは、Bioconductor https://www.bioconductor.org/packages/release/bioc/html/bsseq.html で入手可能である。補足情報補足データはBioinformatics onlineで公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1934395",
+    "title": "Water chlorination and environmental factors are associated with dolphin skin microbiome diversity and composition.",
+    "abstract": "Dolphin skin microbiome is constantly exposed to a microorganism-rich medium and represents the first line of defense from environmental stressors and potential pathogens. While some bacteria cause skin diseases and ulcerating wounds, high water temperature, salinity, and pH seem to lower dolphin wound rates and promote accelerated scar healing. Despite its importance in host health, interactions of dolphin skin microbiome with physical and chemical characteristics of habitats remain poorly understood. Using 16S rRNA metabarcoding, we characterized and compared the skin bacteria communities of 87 common bottlenose dolphins (Tursiops truncatus) and 4 rough-toothed dolphins (Steno bredanensis) living in chlorinated tanks, enclosed lagoons, or open bays. Dolphins living in enclosed lagoons and open bays had skin microbiomes dominated by Enhydrobacter, a bacteria genus found on cetacean skin that occurred at low relative abundance in dolphins in chlorinated tanks. The skin microbiome of dolphins in chlorinated tanks was the most diverse and showed a significant increase of Staphylococcus relative abundance and prevalence when compared to enclosed lagoons and open bay specimens. Among dolphins sampled in open bays across seasons, summer conditions (higher temperature and pH) were associated with up to 10-fold lower Mycobacterium relative abundance, as well as a significant decrease of Streptococcus prevalence, genera associated with slow healing of cutaneous wounds in dolphins. Our results reveal novel insights into the association of physical/chemical environmental factors with dolphin skin microbiome composition. We highlight how the relative abundance and prevalence of potentially opportunistic bacteria on dolphins may vary across human-managed and wild habitats, providing crucial information for the improvement of dolphin husbandry practices and conservation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1934395",
+    "date": "2026-10-28",
+    "authors": "Fiori L, Lin Y, Gu S, Sánchez-Contreras GJ, Walker K, Orbach DN.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43017565",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13753770",
+    "pmid": "43017565",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "microbiome",
+        "microbiomes",
+        "microorganism"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4195,
+    "collected_at": "2026-11-14T17:59:45.478009+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1934395"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c55eb9350ffe368bd35a41f32a0cf6a010d115f6920f4bf829b2735cfa50016d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:39:18.535279+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "72fbc6f1934c86214fc26a3f7485be048ff6bc19479167567c96407248c2d751",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:39:18.535279+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水の塩素処理および環境要因は、イルカの皮膚微生物叢の多様性と組成に関連している。",
+    "abstract_ja": "イルカの皮膚マイクロバイオームは、微生物が豊富な環境に常にさらされており、環境ストレス要因や潜在的な病原体に対する第一防衛線として機能している。一部の細菌は皮膚疾患や潰瘍性創傷を引き起こすが、高い水温、塩分濃度、およびpHは、イルカの創傷発生率を低下させ、瘢痕治癒を促進するようである。宿主の健康における重要性にもかかわらず、イルカの皮膚マイクロバイオームと生息地の物理的・化学的特性との相互作用については、依然として十分に解明されていない。我々は16S rRNAメタバーコーディングを用いて、塩素処理水槽、閉鎖型ラグーン、または開放型湾に生息する87頭のハンドウイルカ（Tursiops truncatus）および4頭のラフトゥースイルカ（Steno bredanensis）の皮膚細菌群集を特性評価し、比較した。閉鎖型ラグーンおよび開放型湾に生息するイルカの皮膚マイクロバイオームは、鯨類の皮膚に見られる細菌属であるEnhydrobacter属が優占しており、塩素処理水槽のイルカでは相対存在量が低かった。塩素処理水槽のイルカの皮膚マイクロバイオームは最も多様性に富み、閉鎖型ラグーンおよび開放型湾の個体と比較して、Staphylococcus属の相対存在量および保有率の有意な増加が認められた。季節を問わず開放型湾でサンプリングしたイルカにおいて、夏季の条件（より高い水温およびpH）は、Mycobacterium属の相対存在量の最大10分の1の低下、およびイルカの皮膚創傷の治癒遅延に関連する属であるStreptococcus属の保有率の有意な低下と関連していた。本研究の結果は、物理的・化学的な環境要因とイルカの皮膚マイクロバイオーム組成との関連性について、新たな知見を提供するものである。我々は、イルカにおける潜在的な日和見細菌の相対存在量および保有率が、人間管理下の生息地と野生の生息地でどのように異なる可能性があるかを浮き彫りにし、イルカの飼育管理の改善および保全にとって極めて重要な情報を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.7717/peerj.21921",
+    "title": "Detection of <i>Arsenophonus</i> and <i>Spiroplasma</i> throughout the life cycle of Colombian populations of <i>Spodoptera frugiperda</i>: evidence of potential vertical transmission.",
+    "abstract": "BackgroundSpodoptera frugiperda, commonly known as the fall armyworm (FAW), is a pest of great economic importance in corn. The species has recently expanded from the Western Hemisphere to Africa, Asia, and Oceania, increasing its global impact. FAW has diverged into two strains, corn and rice, which differ in genetics, reproductive isolation, resistance to insecticides and to Bacillus thuringiensis, and, more recently found, in their microbiota. Endosymbionts such as Arsenophonus and Spiroplasma have been detected using next-generation sequencing (NGS) of the 16S rRNA gene. However, information on additional endosymbionts and their transmission dynamics remains limited. Therefore, the objectives of this study were to (i) evaluate the presence of endosymbionts such as Arsenophonus, Cardinium, Spiroplasma, and Wolbachia as well as the intracellular parasite Microsporidia, throughout the life cycle of both strains of S. frugiperda, (ii) assess their potential vertical transmission, and (iii) examine possible associations between these symbionts and life-history traits in this insect.MethodsLarvae were sampled from corn and rice fields in central and eastern Colombia. Laboratory colonies of the corn and rice strains of S. frugiperda were maintained under controlled conditions. Strain identity was confirmed using diagnostic molecular markers (MspI, SacI, FR). Within each strain, one-to-one crosses were performed to construct life cycle tables and estimate life-history traits components. DNA was subsequently extracted from parental individuals and from eggs, larvae, pupae, and adults. Following extraction, conventional and real-time polymerase chain reaction (PCR) using an intercalating dye were conducted to identify the genera Arsenophonus, Cardinium, Spiroplasma, and Wolbachia, the intracellular parasite Microsporidia and positive amplifications were confirmed by Sanger sequencing.ResultsArsenophonus was detected exclusively in the corn strain using conventional PCR and confirmed by Sanger sequencing. Additionally, Spiroplasma was detected in both strains using real-time PCR using an intercalating dye. The detection of these endosymbionts across developmental stages is consistent with, vertical transmission. Differences in life-history traits components were observed between the two strains, but no clear association was detected between these differences and the presence of either endosymbiont under the conditions evaluated. These results highlight the need for further studies to evaluate the potential role of endosymbionts in the biology of this pest and to further on to better understand their transmission dynamics and possible ecological interactions.",
+    "journal": "PeerJ",
+    "doi": "10.7717/peerj.21921",
+    "date": "2026-11-09",
+    "authors": "Yepes-Acevedo AJ, Lopez-Rivera N, Montoya-Ruiz C, Moreno-Herrera CX, Saldamando-Benjumea CI.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43022695",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43022695",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Bacillus",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4236,
+    "collected_at": "2026-11-14T17:59:45.478009+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.7717/peerj.21921"
+    ],
+    "translation": {
+      "title": {
+        "hash": "569a474500e7ab00f53124162642d36294e8be512f42e5c0f19b81798d510f5c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:39:18.535279+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "703e67f809da5ab22299352fd2e21b0c0436fba73b907d304bddf41361d67ed8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:39:18.535279+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コロンビア産<i>Spodoptera frugiperda</i>個体群の生活史全般における<i>Arsenophonus</i>および<i>Spiroplasma</i>の検出：垂直伝播の可能性を示す証拠",
+    "abstract_ja": "背景Spodoptera frugiperda（一般にフォールアーミーワーム（FAW）として知られる）は、トウモロコシにおいて経済的に極めて重要な害虫である。本種は近年、西半球からアフリカ、アジア、オセアニアへと分布を拡大しており、世界的な影響が増大している。FAWはトウモロコシ系統とイネ系統の2つの系統に分化しており、これらは遺伝的特性、生殖的隔離、殺虫剤およびBacillus thuringiensisへの抵抗性、そして近年発見された微生物叢において相違がある。16S rRNA遺伝子の次世代シーケンシング（NGS）により、ArsenophonusやSpiroplasmaなどの内共生菌が検出されている。しかし、その他の内共生菌およびその伝播動態に関する情報は依然として限られている。したがって、本研究の目的は、(i) S. frugiperdaの両系統の生活環全体におけるArsenophonus、Cardinium、Spiroplasma、Wolbachiaなどの内共生菌、および細胞内寄生虫であるMicrosporidiaの存在を評価すること、(ii) それらの垂直伝播の可能性を評価すること、および(iii) これらの共生菌と本昆虫の生活史形質との間の潜在的な関連性を検討することであった。方法コロンビア中部および東部のトウモロコシおよびイネ圃場から幼虫を採取した。S. frugiperdaのトウモロコシ系統およびイネ系統の実験室コロニーを制御条件下で維持した。系統の同定は、診断用分子マーカー（MspI、SacI、FR）を用いて行った。各系統内において、1対1の交配を行い、生活環表を作成して生活史形質の構成要素を推定した。その後、親個体ならびに卵、幼虫、蛹、および成虫からDNAを抽出した。抽出後、インターカレーティング色素を用いた従来法およびリアルタイムポリメラーゼ連鎖反応（PCR）を実施し、Arsenophonus、Cardinium、Spiroplasma、Wolbachiaの各属および細胞内寄生虫Microsporidiaを同定し、サンガーシーケンシングにより陽性増幅を確認した。結果従来法によるPCRでArsenophonusがトウモロコシ系統のみで検出され、サンガーシーケンシングにより確認された。さらに、インターカレーティング色素を用いたリアルタイムPCRにより、両系統でSpiroplasmaが検出された。発達段階にわたってこれらの内共生菌が検出されたことは、垂直伝播と整合している。2つの系統間で生活史形質の構成要素に差異が認められたが、評価した条件下では、これらの差異といずれかの内共生菌の存在との間に明確な関連性は認められなかった。これらの結果は、本害虫の生物学における内共生菌の潜在的な役割を評価するためのさらなる研究の必要性と、さらにその伝播動態および起こりうる生態学的相互作用をより深く理解する必要性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag835",
+    "title": "Integer quantized multilayer perceptron neural network for lossless compression of nanopore signal",
+    "abstract": "AbstractMotivationNanopore sequencing is indispensable for advanced genomic analyses, but the raw signal output creates substantial storage and bandwidth demands. Specialized model-free compressors such as VBZ and ex-zd have been proposed to address this challenge. They deliver high throughput and strong compression performance, yet they cannot fully exploit higher-order statistical dependencies, which limits further gains. Learning-based compressors can achieve better compression ratios, but they often introduce floating-point non-determinism and are too slow for large-scale nanopore datasets, reducing their practicality.ResultsWe introduce SigComp, a learned lossless compressor for nanopore signal data. SigComp employs a compact multilayer perceptron network with a fixed context window to capture higher-order dependencies within the dominant one-byte signal deltas. By integrating post-training quantization and a fully GPU-native range coder, SigComp eliminates GPU–CPU synchronization overhead in the autoregressive coding loop while ensuring strict bit-exactness across diverse execution settings. Evaluations on diverse species and sequencing chemistries (DNA R10.4.1 and RNA004) demonstrate that SigComp consistently reduces compressed file sizes by 6.00%–7.09% and 3.86%–5.34% over VBZ and ex-zd, respectively, albeit with a 10× lower processing throughput. Compared to the leading neural compressor, SigComp achieves a comparable compression ratio, sacrificing merely 0.4%–1.9%, while delivering 46–74× higher throughput. Ablation studies confirm that SigComp’s integer-only, GPU-native approach improves throughput by 7.75–8.30× overall over hybrid GPU–CPU pipelines without model quantization, and the default 64-symbol context window effectively captures the vast majority of exploitable redundancy. SigComp can also be extended to lossy compression by eliminating the least significant bits, and achieve compression ratios of 4.047–4.868, outperforming lossy ex-zd by 9.18%–14.38%. Although processing remains slower than specialized codecs, SigComp offers an excellent trade-off for long-term cold archival storage, particularly when scaled via multi-GPU environments.Availability and implementationSigComp is freely available on GitHub at: https://github.com/BioinfoSZU/SigComp. It supports CPU-only, NVIDIA, and AMD GPU execution backends with seamless cross-platform archive interoperability, as well as multi-GPU scaling.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag835",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag835/9044239?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4472,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/bioinformatics/btag835"
+    ],
+    "translation": {
+      "title": {
+        "hash": "284f19659fd5140e062df9574b060e77acce820fe5c6dfbaa75f498d261b4238",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:39:18.535279+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c44b8230ae410cfbc8fdd2b85d49d50d3d92df39754e7a856444a39b5a602113",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:39:18.535279+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ナノポア信号のロスレス圧縮のための整数量子化多層パーセプトロンニューラルネットワーク",
+    "abstract_ja": "要旨動機ナノポアシーケンシングは高度なゲノム解析に不可欠であるが、出力される生信号は膨大なストレージ容量と帯域幅を必要とする。この課題に対処するため、VBZやex-zdといった特化型のモデルフリー圧縮器が提案されてきた。これらは高スループットと優れた圧縮性能を実現する一方で、高次統計的依存性を十分に活用できず、さらなる性能向上が制限されている。学習ベースの圧縮器はより高い圧縮率を達成できるが、浮動小数点の非決定性が生じることが多く、また大規模なナノポアデータセットに対しては処理速度が遅すぎるため、実用性に欠ける。結果ナノポア信号データ向けの学習型ロスレス圧縮器であるSigCompを提案する。SigCompは、固定コンテキストウィンドウを備えたコンパクトな多層パーセプトロンネットワークを採用し、支配的な1バイト信号のデルタ内における高次依存性を捉える。ポストトレーニング量子化と完全なGPUネイティブなレンジコーダーを統合することで、SigCompは自己回帰符号化ループにおけるGPU-CPU同期オーバーヘッドを排除しつつ、多様な実行環境において厳密なビット完全性を保証する。多様な生物種およびシーケンシング化学種（DNA R10.4.1およびRNA004）を用いた評価により、SigCompは処理スループットが10分の1に低下するものの、圧縮ファイルサイズをVBZおよびex-zdと比較してそれぞれ6.00%–7.09%および3.86%–5.34%一貫して削減できることが示された。主要なニューラル圧縮器と比較して、SigCompはわずか0.4%–1.9%の犠牲で同等の圧縮率を達成し、46倍–74倍のスループットを実現している。アブレーションスタディにより、SigCompの整数のみを用いたGPUネイティブなアプローチは、モデル量子化を用いないハイブリッドGPU-CPUパイプラインと比較して全体として7.75倍–8.30倍のスループット向上をもたらし、デフォルトの64シンボルのコンテキストウィンドウが活用可能な冗長性の大部分を効果的に捉えていることが確認された。また、SigCompは最下位ビットを除去することで非可逆圧縮へと拡張でき、4.047–4.868の圧縮率を達成し、非可逆のex-zdを9.18%–14.38%上回る性能を示した。処理速度は特化型コーデックよりも依然として遅いものの、SigCompは長期的なコールドアーカイブ保存において優れたトレードオフを提供し、特にマルチGPU環境でスケールさせた場合にその真価を発揮する。利用可能性と実装SigCompはGitHubにて無料で公開されている：https://github.com/BioinfoSZU/SigComp。CPUのみ、NVIDIA、およびAMD GPUの実行バックエンドをサポートし、シームレスなクロスプラットフォームのアーカイブ相互運用性およびマルチGPUスケーリングを実現している。補足情報補足データはBioinformatics onlineで入手可能である。"
   }
 ]
