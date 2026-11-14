@@ -201156,5 +201156,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "結核菌感染性マイコバクテリオファージSWU1におけるビリオン集合の構造的基盤",
     "abstract_ja": "薬剤耐性結核の脅威の高まりにより、喫緊の代替手段としてバクテリオファージ療法への関心が改めて高まっている。しかし、これらのウイルスを合理的に解析するには、ビリオン構造に関する原子レベルの理解が不可欠である。マイコバクテリオファージSWU1は、結核菌（M. tuberculosis）に感染することが知られている数少ないマイコバクテリオファージ系統の一つであるサブクラスターA2に属する。単粒子クライオ電子顕微鏡法（cryo-EM）を用い、カプシド、ポータル頂点、テール、ベースプレートの4つのモジュールをそれぞれ3.62 [A]、3.51 [A]、3.70 [A]、3.22 [A]の分解能で局所的に再構築することで、SWU1ビリオン構造のほぼ全域を解明した。T=7のカプシドは、HK97フォールドの主要カプシドタンパク質を415コピー含み、密度方向に装飾タンパク質を欠いている。12フォールドのポータルは、明確に定義された非等価なサブユニット間接触を通じて、カプシド頂点とのC5-C12ミスマッチを解消している。ベースプレートは、6フォールドのハブ上に13フォールドのテールファイバーリングを有しており、これは特性解析されたファージの中では前例のない幾何学的構造であり、本研究において対称性のない再構築によって確立された。これらの知見は、SWU1の組み立てと感染に関する重要な洞察を与えるものであり、ファージベースの抗結核治療薬の将来的な最適化に向けた構造的基盤を築くものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764209",
+    "title": "Metagenomic Insights into the Fecal Microbiome, Resistome, and Mobilome of Beef Cattle in Cow-Calf Operations in Florida, United States",
+    "abstract": "Food-producing animals are a focus of One Health approaches to antimicrobial resistance (AMR) as reservoirs of antimicrobial-resistant bacteria (ARB) and antimicrobial resistance genes (ARGs). We hypothesized that microbial composition, ARGs profiles, and mobile genetic element (MGE) profiles would differ by operation size and animal age group. Fecal samples from 162 cows and calves were combined into 54 composite samples, each comprising three animals of the same age group. Across operation sizes, Bacillota (51.4-64.9%), Bacteroidota (12.0-17.3%), Pseudomonadota (10.3-16.5%), and Actinomycetota (3.3-10.9%) were predominant phyla. Alpha diversity did not differ among operation sizes; however, cows exhibited greater observed richness, Shannon diversity, and Simpson diversity than calves (all P < 0.001). Microbial composition did not differ significantly among operation sizes (PERMANOVA, R{superscript 2} = 0.065, P = 0.609) but differed significantly between cows and calves (R{superscript 2} = 0.200, P < 0.001). Seventy-five ARGs representing 14 resistance classes were identified. Normalized ARG hit rates were higher in small operations (0.444) than in medium (0.278) and large operations (0.222; P = 0.088), whereas calves exhibited a higher estimated marginal mean normalized ARG hit rate than cows (0.383 vs. 0.247 hits/million reads; P < 0.001). Of 1,054 curated ARG hits, 23.9% occurred on predicted plasmid contigs, 0.9% on predicted viral contigs, and 7.1% on contigs containing insertion sequences. Overall findings demonstrate differences in fecal microbiome diversity and ARG abundance between cows and calves and indicate that predicted plasmids are associated with a notable proportion of ARG hits in Florida beef cow-calf operations.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764209",
+    "date": "2026-11-10",
+    "authors": "Ali, A., K. Edison, L., Bittar, J. H. J., Denagamage, T., Lee, A. C. Y., Jeong, K. C., Hernandez, J. A., Kariyawasam, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764209v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2090,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.04.764209"
+    ],
+    "translation": {
+      "title": {
+        "hash": "24ba4b5913618358bb7a9a8133829138e35eb8fd0a6cf6e2d8d9ac17458e9cb8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:54:22.880468+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7fe00694764578976efd3721b64dc241c66025e49dd759b3995aba1732f0231a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:54:22.880468+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "米国フロリダ州の母牛・子牛飼育経営における肉牛の糞便微生物叢、レジストーム、およびモビロームに関するメタゲノム的知見",
+    "abstract_ja": "食用動物は、薬剤耐性菌（ARB）および薬剤耐性遺伝子（ARG）の保有宿主として、薬剤耐性（AMR）に対するワンヘルス（One Health）アプローチの重点対象となっている。我々は、微生物組成、ARGプロファイル、および可動性遺伝因子（MGE）プロファイルが、経営規模および動物の年齢群によって異なるという仮説を立てた。162頭の牛および子牛から得られた糞便試料を、同一年齢群の3頭ずつからなる54個の複合試料に統合した。経営規模間では、Bacillota（51.4-64.9%）、Bacteroidota（12.0-17.3%）、Pseudomonadota（10.3-16.5%）、およびActinomycetota（3.3-10.9%）が主要な門であった。アルファ多様性は経営規模間で差が認められなかったが、牛は子牛よりも観察された豊富度、シャノン多様性、およびシンプソン多様性が高かった（すべて P < 0.001）。微生物組成は経営規模間で有意な差は認められなかったが（PERMANOVA, R{superscript 2} = 0.065, P = 0.609）、牛と子牛の間では有意な差が認められた（R{superscript 2} = 0.200, P < 0.001）。14の耐性クラスを代表する75個のARGが同定された。正規化ARGヒット率は、小規模経営（0.444）が中規模（0.278）および大規模経営（0.222; P = 0.088）よりも高かった一方、子牛は牛よりも推定限界平均正規化ARGヒット率が高かった（0.383 vs. 0.247 hits/million reads; P < 0.001）。キュレートされた1,054件のARGヒットのうち、23.9%が予測プラスミドコンティグに、0.9%が予測ウイルスコンティグに、そして7.1%が挿入配列を含むコンティグに認められた。以上の知見は、牛と子牛の間で糞便マイクロバイオームの多様性およびARG存在量に差があることを示しており、フロリダ州の肉用牛・子牛経営において、予測プラスミドが相当割合のARGヒットに関連していることを示している。"
+  },
+  {
+    "id": "10.64898/2026.11.08.765189",
+    "title": "Genomes2Genes: A Progressive Cactus Gene Analysis Pipeline",
+    "abstract": "Whole-genome alignments are fundamental resources in comparative genomics, because they place genes and their surrounding sequences in a shared evolutionary context. Progressive Cactus aligns large numbers of genomes without a reference genome and reconstructs ancestral sequences along the input phylogeny. However, its Hierarchical Alignment Format output has mainly been used for visualization, phylogenomics, and pangenome studies, and gene-level analyses of these alignments remain difficult. Here, we present Genomes2Genes, a pipeline that converts Progressive Cactus graph-based alignments into validated coding sequence alignments of extant species and their reconstructed ancestors. The pipeline extracts exon alignment blocks, handles atypical genomic jumps, stitches exons into transcripts, and reports start codons, stop codons, and frameshifting indels across species, with validation steps throughout and a base-by-base audit of the final alignments. It catches both biological and technical artifacts and can be run on any part of the genome. We anticipate that this pipeline will be useful in identifying and removing problematic regions used in the potential reconstruction of species or gene phylogenies. We developed and tested the pipeline on a whole-genome alignment of 21 Brassicaceae species and 2 outgroups and found that, among 45,491 lineage-specific genes, the pipeline supported 22,376 candidate de novo genes, of which 1,811 had complete evidence of enabler mutations. Genomes2Genes is publicly available and extends whole-genome alignments to gene-level questions in comparative genomics and evolutionary biology.",
+    "journal": "",
+    "doi": "10.64898/2026.11.08.765189",
+    "date": "2026-11-10",
+    "authors": "Sanders, S. C., Casola, C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.08.765189v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "alignment",
+        "gene",
+        "genome",
+        "pipeline",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "pangenom",
+          "pangenome",
+          "phylogen",
+          "phylogenomic",
+          "phylogeny",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2091,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.08.765189"
+    ],
+    "translation": {
+      "title": {
+        "hash": "72929c78d7d87770ffc090154271f8f4d266cc8e50f85bcb950f6e1e93d6b376",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:54:22.880468+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bc9806c1386b1bb5271a19c5c2a9ad0f12b2fad3e2d1f3ce320ec5fe19a4e56f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:54:22.880468+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Genomes2Genes: 漸進的サボテン遺伝子解析パイプライン",
+    "abstract_ja": "全ゲノムアライメントは、遺伝子とその周辺配列を共通の進化的文脈に位置づけるため、比較ゲノミクスにおける基礎的なリソースである。Progressive Cactusは、リファレンスゲノムなしで多数のゲノムをアライメントし、入力された系統樹に沿って祖先配列を再構築する。しかし、そのHierarchical Alignment Formatの出力は主に可視化、フィロジェノミクス、およびパンゲノム研究に用いられてきており、これらのアライメントの遺伝子レベルの解析は依然として困難である。本報では、Progressive Cactusのグラフベースのアライメントを、現生種およびその再構築された祖先の検証済みコーディング配列アライメントに変換するパイプライン「Genomes2Genes」を提案する。本パイプラインは、エクソンアライメントブロックを抽出し、非典型的なゲノムジャンプを処理し、エクソンを転写産物へと繋ぎ合わせ、種をまたいで開始コドン、終止コドン、およびフレームシフトインデルを報告する。また、全工程にわたる検証ステップと、最終アライメントの塩基単位の監査を備えている。本パイプラインは生物学的および技術的なアーティファクトの両方を検出でき、ゲノムのあらゆる部位で実行可能である。我々は、このパイプラインが、種や遺伝子の系統樹の再構築に用いられる可能性のある領域において、問題のある領域を特定し除去する上で有用であると期待している。我々は、アブラナ科21種および2つのアウトグループの全ゲノムアライメントを用いて本パイプラインを開発・検証し、45,491個の系統特異的遺伝子のうち、本パイプラインが22,376個のde novo候補遺伝子を支持し、そのうち1,811個にイネーブラー変異の完全な証拠があることを確認した。Genomes2Genesは公開されており、比較ゲノミクスおよび進化生物学における全ゲノムアライメントを遺伝子レベルの問いへと拡張するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.07.765104",
+    "title": "Telotrons: spliceosomal introns composed of telomeric repeats",
+    "abstract": "Spliceosomal intron numbers vary widely across eukaryotes, but the only established mechanism for large bursts of intron gain is the spread of transposable introner elements. We describe telotrons, spliceosomal introns composed predominantly of telomeric repeats. In a survey of 10,310 eukaryotic genome assemblies, we identified 7,008 introns with >85% telomeric repeat coverage and an additional 44,423 with >50% to [≤]85% coverage, in 25 genomes spanning haptophytes, dinoflagellates, a cryptophyte, stramenopiles, the apicomplexan Eimeria, and the nematode Mesorhabditis. Most telotrons carry GT-AG or GC-AG splice boundaries, and RNA-seq supports their splicing. Their repeat orientations are consistent with telomerase extension of broken DNA ends, and intron absence at corresponding positions in orthologs supports widespread de novo gain. In Eimeria and Mesorhabditis, telotrons instead occupy positions where orthologs carry ordinary introns, suggesting modification of existing introns. Telotrons thus point to telomerase as an endogenous driver of structural innovation through intron creation and remodeling.",
+    "journal": "",
+    "doi": "10.64898/2026.11.07.765104",
+    "date": "2026-11-10",
+    "authors": "Kramer, A. M., Corbett-Detig, R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.07.765104v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "dinoflagellate"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assemblies",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2092,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.07.765104"
+    ],
+    "translation": {
+      "title": {
+        "hash": "297e2da748166b03d66917f0b396296641a730008d3229af8184e46ae38fd06a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:54:22.880468+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6ac401ce69ff051996c084839e11b455f6030ac75d6438057997afc6ae174d3d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:54:22.880468+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "テロトロン：テロメア反復配列からなるスプライソソームイントロン",
+    "abstract_ja": "スプライソソーム内イントロンの数は真核生物間で大きく異なるが、イントロンの大量獲得に関する唯一確立されたメカニズムは、転移可能なイントロナー要素の拡散である。本稿では、主にテロメア反復配列から構成されるスプライソソーム内イントロンであるテロトロンについて述べる。10,310組の真核生物ゲノムアセンブリを対象とした調査において、ハプト藻類、渦鞭毛藻類、クリプト藻類、ストラメノパイル類、アピコンプレックス門のエイメリア、および線虫のメソラブディティスにわたる25のゲノムから、テロメア反復配列の被覆率が85%を超えるイントロンを7,008個、さらに50%から[≤]85%の被覆率を示すものを44,423個同定した。ほとんどのテロトロンはGT-AGまたはGC-AGのスプライス境界を有しており、RNA-seqによってそのスプライシングが裏付けられている。これらの反復配列の配向は、切断されたDNA末端のテロメラーゼによる伸長と一致しており、オルソログの対応する位置におけるイントロンの欠如は、広範なde novo獲得を支持している。エイメリアおよびメソラブディティスでは、テロトロンが代わりにオルソログが通常のイントロンを有する位置に存在しており、これは既存のイントロンの修飾を示唆している。したがって、テロトロンは、イントロンの創出とリモデリングを通じた構造的革新の内因的駆動因子としてテロメラーゼの存在を示している。"
+  },
+  {
+    "id": "10.64898/2026.11.07.765058",
+    "title": "Lifestyle-mediated shifts in the gut microbiome and host genetics modulate gene expression in intestinal organoids",
+    "abstract": "Industrialization-associated shifts in the gut microbiome have been linked to disease, but the mechanisms by which microbial communities influence host gene regulation remain poorly understood. We developed a live microbiome-colonic organoid (colonoid) co-culture system to investigate genotype-dependent host responses to gut microbial community variation. Colonoid 2D monolayers from healthy donors were co-cultured with live gut microbial communities from individuals living urban or rural lifestyles, followed by RNA-sequencing. Urban and rural microbiomes elicited largely shared transcriptional responses, however they induced distinct host genetic effects on gene expression. We identified 511 host genes with microbiome-dependent allele-specific expression (ASE) which were involved in epithelial architecture, cell-matrix interactions and structural integrity. Notably, 149 host genes had distinct allelic effects between Urban and Rural microbiomes (urban-rural condition specific ASE or cASE), revealing genotype-dependent host responses to lifestyle-associated microbiomes. Urban-rural cASE was associated with microbial community composition, predominantly involving Prevotella and Bacteroides species. Targeted Prevotella copri spike-in recapitulated Prevotella-associated allelic effects at specific loci, including one in the IBD-associated autophagy gene, ATG4B. Together, these findings establish an experimental framework to investigate genotype-by-microbiome interactions, and demonstrate that lifestyle-mediated shifts in the microbiome modify host cis-regulatory genetic effects on gene expression.",
+    "journal": "",
+    "doi": "10.64898/2026.11.07.765058",
+    "date": "2026-11-10",
+    "authors": "Nirmalan, S., Arif, S., Garlicki, G., Alazizi, A., Hutchins, K., Poyet, M., Groussin, M., Carbonetto, P., Pique-Regi, R., Blekhman, R., Luca, F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.07.765058v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2093,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.07.765058"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bc6ed8db67cf19123ff8ff8eedc34e068e7bd3222a1ebd0c2673a5373ba1ca80",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:54:22.880468+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "47fe5db4516d8fc4b58d0ddec6dbb6ad9e9fca9b1ead50dab6d18916ba42e58d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:54:22.880468+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ライフスタイルを介した腸内細菌叢および宿主遺伝情報の変化は、腸管オルガノイドにおける遺伝子発現を調節する",
+    "abstract_ja": "工業化に伴う腸内マイクロバイオームの変化は疾患との関連が指摘されているが、微生物群集が宿主の遺伝子調節に影響を及ぼすメカニズムについては十分に解明されていない。我々は、腸内微生物群集の変動に対する遺伝子型依存的な宿主応答を調査するため、生マイクロバイオーム・結腸オルガノイド（コロノイド）共培養系を開発した。健常ドナー由来のコロノイド2次元単層を、都市部または農村部のライフスタイルで生活する個人由来の生腸内微生物群集と共培養し、続いてRNAシーケンシングを行った。都市部と農村部のマイクロバイオームは、概ね共通の転写応答を惹起したが、遺伝子発現に対してはそれぞれ異なる宿主遺伝学的影響を及ぼした。我々は、上皮構造、細胞-マトリックス相互作用、および構造的完全性に関与し、マイクロバイオーム依存的なアレル特異的発現（ASE）を示す511個の宿主遺伝子を同定した。特筆すべきことに、149個の宿主遺伝子が都市部と農村部のマイクロバイオーム間で異なるアレル効果（都市-農村条件特異的ASEまたはcASE）を示し、ライフスタイルに関連するマイクロバイオームに対する遺伝子型依存的な宿主応答が明らかになった。都市-農村間のcASEは微生物群集の組成と関連しており、主にPrevotella属およびBacteroides属の菌種が関与していた。標的化したPrevotella copri spike-inは、IBD関連オートファジー遺伝子ATG4Bを含む特定の遺伝子座において、Prevotella関連のアレル効果を再現した。以上の知見を総合すると、遺伝子型とマイクロバイオームの相互作用を調査するための実験的枠組みが確立され、ライフスタイルを介したマイクロバイオームの変化が、遺伝子発現に対する宿主のシス調節遺伝学的効果を修飾することが実証された。"
   }
 ]
