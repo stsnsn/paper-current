@@ -205167,5 +205167,299 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "細菌ゲノミクスと宿主トランスクリプトミクスの統合により、Burkholderia pseudomalleiの変異と類鼻疽病の死亡率および好中球応答との関連性が明らかになった。",
     "abstract_ja": "細菌の遺伝的変異は感染の転帰に寄与するが、同一患者において宿主の免疫応答との関連性が調査されることは稀であり、病原体関連疾患の重症度に関する生物学的解釈を制限する要因となっている。本研究では、病原体ゲノミクス、臨床転帰、および宿主トランスクリプトミクスを統合し、Burkholderia pseudomalleiによって引き起こされるしばしば致死的な感染症である類骨髄症における宿主・病原体相互作用を調査した。2012年から2023年にかけて収集された5つのコホートにわたる、2,142例の患者の前向き臨床データ、2,101株の感染分離株の全ゲノム配列、および646組の宿主血液トランスクリプトームを解析した。感染は通常単一株が主体であり、宿主内での多様性は限定的であったため、感染分離株のゲノムを用いて病原体関連の臨床転帰を調査することが妥当であった。細菌のゲノムワイド関連解析により、ゲノムワイドな有意性をもって二値死亡に関連する1つの遺伝子座が同定された。患者の年齢、性別、体格指数、およびチャールソン併存疾患指数を組み込むことでこの数は4つに増加し、死亡までの時間を連続的な表現型としてモデル化することで7つの遺伝子座が同定された。宿主トランスクリプトームとの統合により、死亡に関連する細菌の遺伝的変異が、未熟好中球の増加および好中球脱顆粒の減少という推定シグネチャーに関連していることが示された。さらに、ポリケチド合成遺伝子座BPSS1006-BPSS1011の上流にある遺伝子間領域が、骨髄系細胞シグナル伝達および細胞増殖経路に関与する宿主遺伝子の発現低下に関連していた。これらの知見は、死亡に関連する自然発生的なB. pseudomalleiのゲノム変異を、異なる宿主免疫シグネチャーへと結びつけるものであり、重症類骨髄症の根底にある病原体・宿主相互作用に関する洞察を提供するとともに、病原体の遺伝的多様性が臨床転帰に及ぼす寄与を調査するための枠組みを提示するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764604",
+    "title": "Uncertainty-Aware Personalised Gene Expression Prediction Improves Cell-Type-Specific Association Testing",
+    "abstract": "Linking genetic variation to disease requires accurate prediction of its effects on gene expression in relevant cell types. Sequence-to-function models offer a way to predict these effects and, with training on personal genomes, have begun to capture inter-individual expression differences. However, effect sign accuracy remains limited, and predictive uncertainty is unquantified. Here we introduce ATTICUS, which combines personalised sequence representations with uncertainty-aware expression prediction. ATTICUS transfers regulatory information learned in bulk expression pretraining to cell-type-specific expression prediction without requiring genotypes paired with single-cell expression data. Across blood and brain cell types in OneK1K and ROSMAP, ATTICUS approximately doubles expression prediction correlations relative to scPrediXcan and substantially improves sign accuracy. Moreover, ATTICUS enables uncertainty-aware transcriptome-wide association studies (TWAS). Applied to systemic lupus erythematosus and Alzheimer's disease, ATTICUS identifies more associations, with greater cell-type specificity and stronger directional concordance, and reduced statistical inflation. Together, our results demonstrate that personalised training makes predictions more directionally consistent, and uncertainty propagation improves the calibration of TWAS and the prioritisation of disease genes. ATTICUS provides a framework for both, enabling the use of single-cell expression datasets without matched genotypes to inform uncertainty-aware TWAS, expanding their use in prioritising disease-associated genes and cell types.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764604",
+    "date": "2026-11-09",
+    "authors": "Styll, P., Di, Y., Cai, N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764604v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2097,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.06.764604"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6b1665f19b6029622bc07b962327beb88965bef3bebde7f64ffe11bf01c5c2fa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:40:56.715022+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "085ee9355decbf2cde3d164732f292774a744980e8317b7f6f168b1cba2836ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:40:56.715022+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "不確実性を考慮した個別化遺伝子発現予測による細胞種特異的な関連検定の向上",
+    "abstract_ja": "遺伝的変異を疾患に関連付けるには、関連する細胞種における遺伝子発現への影響を正確に予測する必要がある。配列機能予測モデルはこれらの影響を予測する手法を提供し、個人ゲノムを用いた学習により、個体間の発現差異を捉え始めている。しかし、影響の符号の精度は依然として限定的であり、予測の不確実性は定量化されていない。本研究では、個別化配列表現と不確実性を考慮した発現予測を組み合わせたATTICUSを提案する。ATTICUSは、バルク発現事前学習で得られた調節情報を、単一細胞発現データと対になった遺伝子型を必要とせずに、細胞種特異的な発現予測へと転移させる。OneK1KおよびROSMAPにおける血液および脳の細胞種において、ATTICUSはscPrediXcanと比較して発現予測の相関を約2倍に高め、符号の精度を大幅に向上させた。さらに、ATTICUSは不確実性を考慮したトランスクリプトームワイド関連解析（TWAS）を可能にする。全身性エリテマトーデスおよびアルツハイマー病に適用したところ、ATTICUSはより多くの関連を同定し、より高い細胞種特異性と強い方向性の一致を示し、統計的インフレーションを低減させた。以上の結果から、個別化学習によって予測の方向性の一貫性が高まり、不確実性の伝播によってTWASのキャリブレーションと疾患遺伝子の優先順位付けが改善されることが示された。ATTICUSはこれら双方のためのフレームワークを提供し、対応する遺伝子型のない単一細胞発現データセットを不確実性を考慮したTWASに活用することを可能にすることで、疾患関連遺伝子および細胞種の優先順位付けにおけるその利用を拡大する。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764562",
+    "title": "Segment-dependent phylogenetic resolution reveals geographic and host sampling gaps in Oropouche virus genomes",
+    "abstract": "Background. Oropouche virus (OROV) has been reported in areas beyond its historical Amazonian range since 2023, accompanied by rapid growth in publicly available genomic data. However, the extent to which these data provide reliable phylogenetic and epidemiological resolution, and whether that resolution differs among genome segments, has not been systematically examined. Methods. Nucleotide sequences annotated under Orthobunyavirus oropoucheense were retrieved from NCBI Virus (accessed 13 May 2025) and filtered to retain records at least 70% of the reference length for each segment, yielding 898 S, 831 M, and 832 L sequences. Segments were aligned independently with MAFFT, and maximum-likelihood phylogenies were inferred with IQ-TREE using ModelFinder and ultrafast bootstrap approximation. Trees were annotated with collection date, country, and host in iTOL. Results. Phylogenetic resolution differed among segments. Contemporary Brazilian sequences formed a largely unresolved region in the S segment tree, whereas the M and L trees resolved recent clusters to differing degrees. Resolution did not track segment length: the M tree resolved contemporary structure more strongly than the longer L tree, and total tree length was approximately 3.5 times greater in the M tree despite near-identical taxon sampling. Sequences collected before 2010 were recovered in supported clusters in all three segment trees, although their configuration differed by segment. These sequences were also predominantly non-Brazilian and non-human, preventing collection date, geographic origin, and host from being separated as explanations for the observed clustering. The species-level query also retained three reassortant viruses, which may influence segment-specific topologies; sequences annotated to the United States were Iquitos virus rather than OROV. Two Italian sequences clustered with Cuban sequences across all three trees, concordant with published travel histories. Conclusions. Publicly available sequences contain phylogenetic structure that differs among the S, M, and L segment trees, but interpretation is constrained by uneven temporal, geographic, and host sampling and by the inclusion of reassortant species in a species-level dataset. The concentration of sequences from Brazil and human hosts, together with limited representation of non-human hosts, restricts inference about OROV diversity and ecology. Broader and more balanced genomic surveillance would improve the ability to resolve OROV evolutionary and transmission patterns.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764562",
+    "date": "2026-11-09",
+    "authors": "Siam, R., Elbehery, A. H. A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764562v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2098,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.05.764562"
+    ],
+    "translation": {
+      "title": {
+        "hash": "24ae1d369520afd8117f676a66d265a76a953dc77a2f0fd4f3a4c45c661d3ebe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:40:56.715022+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "23b7f39c703f74e66a8897879bff5b217364fd298c1e3fb17522bebe344031bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:40:56.715022+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "セグメント依存的な系統解析により、オロプーシュウイルスゲノムにおける地理的および宿主サンプリングのギャップが明らかになった。",
+    "abstract_ja": "背景。オロプーシュウイルス（OROV）は2023年以降、従来のアマゾン地域外の領域でも報告されており、それに伴い公開ゲノムデータも急速に増加している。しかし、これらのデータがどの程度信頼性の高い系統学的・疫学的解像度を提供しているか、またその解像度がゲノムセグメント間で異なるかについては、体系的な検討がなされてこなかった。方法。Orthobunyavirus oropoucheenseとしてアノテーションされた塩基配列をNCBI Virus（2025年5月13日閲覧）から取得し、各セグメントのリファレンス長の少なくとも70%を保持するようにフィルタリングした結果、S、M、Lの各セグメントでそれぞれ898、831、832本の配列が得られた。各セグメントをMAFFTを用いて独立してアライメントし、ModelFinderおよびultrafast bootstrap approximationを用いたIQ-TREEにより最大尤度系統樹を推定した。系統樹にはiTOLを用いて、採取日、国、および宿主をアノテーションした。結果。系統学的解像度はセグメント間で異なっていた。ブラジルの現生配列はSセグメントの系統樹において大部分が未解決の領域を形成していた一方、MおよびLの系統樹では最近のクラスターの解像度に差が見られた。解像度はセグメント長に連動せず、M系統樹はより長いL系統樹よりも現生構造をより強く解析しており、分類群のサンプリングがほぼ同一であるにもかかわらず、総系統樹長はM系統樹の方が約3.5倍長かった。2010年より前に採取された配列は、3つのセグメント系統樹すべてにおいて支持されたクラスターに回収されたが、その構成はセグメント間で異なっていた。これらの配列は主にブラジル外および非ヒト由来であり、観察されたクラスター形成の説明として、採取日、地理的起源、および宿主を切り離して考えることは困難であった。種レベルのクエリにおいても3つの再集合性ウイルスが保持されており、これがセグメント固有のトポロジーに影響を与えている可能性がある。米国にアノテーションされた配列は、OROVではなくイキトスウイルスであった。イタリアの2つの配列は、3つの系統樹すべてにおいてキューバの配列とクラスターを形成しており、これは公表されている渡航歴と一致していた。結論。公開されている配列には、S、M、Lの各セグメント系統樹間で異なる系統構造が含まれているが、その解釈は、時間的、地理的、および宿主のサンプリングの不均一性、ならびに種レベルのデータセットに再集合性種が含まれていることによって制約を受けている。ブラジルおよびヒト宿主からの配列の集中と、非ヒト宿主の代表性の不足が、OROVの多様性と生態に関する推論を制限している。より広範でバランスの取れたゲノムサーベイランスを実施することで、OROVの進化および伝播パターンを解明する能力が向上すると考えられる。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764761",
+    "title": "Chromosome-level genome assembly of Greenland scurvy-grass (Cochlearia groenlandica) reveals extensive centromeric satellite arrays",
+    "abstract": "We present a chromosome-level, haplotype-resolved genome assembly from Greenland scurvy-grass (Cochlearia groenlandica). The assembly comprises two pseudo-haplotypes of 322 Mb and 295 Mb, with 89.7% and 95.6% respectively, each scaffolded into 7 chromosomes. Assembly completeness is high (BUSCO 97.8% in each haplotype), with 34,213 and 29,684 annotated protein-coding genes for haplotypes one and two, respectively. The chromosomes contain extensive centromeric satellite arrays that cover up to half of some chromosomes. Their precise functional boundaries remain undetermined.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764761",
+    "date": "2026-11-09",
+    "authors": "Torresen, O. K., Brysting, A. K., Danneels, B., Sandean, R., Kollias, S., Ferrari, G., Tooming-Klunderud, A., Yant, L., Jakobsen, K. S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764761v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2099,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.05.764761"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6b8d8abcebee8a346c1dc172a8c8dd2b15e77116042aed143cfcdd26710aa7bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:40:56.715022+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "93269327c6b29eead3bcb3f4557c43d34ea82ff45daf3c4773ffd0a026e0875b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:40:56.715022+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "グリーンランド・スケルヴィー草（Cochlearia groenlandica）の染色体レベルのゲノムアセンブリにより、広範なセントロメア衛星アレイが明らかになった。",
+    "abstract_ja": "本研究では、グリーンランド・スケルヴィー草（Cochlearia groenlandica）の染色体レベルかつハプロタイプ分解能を有するゲノムアセンブリを提示する。このアセンブリは、322 Mbおよび295 Mbの2つの擬似ハプロタイプ（それぞれ89.7%および95.6%）から構成され、それぞれが7本の染色体に足場化されている。アセンブリの完全性は高く（各ハプロタイプにおいてBUSCO 97.8%）、ハプロタイプ1および2のアノテーション済みタンパク質コード遺伝子数は、それぞれ34,213個および29,684個である。これらの染色体には、一部の染色体の最大半分に及ぶ広範な中心体サテライトアレイが存在する。その正確な機能的境界は未解明のままである。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764843",
+    "title": "Rapid environmental DNA detection with isothermal amplification methods: a comparison with the real-time quantitative PCR in the natterjack toad (Epidalea calamita).",
+    "abstract": "Species detection relying on environmental DNA (eDNA) traditionally relies on Polymerase Chain Reaction (PCR). This amplification technique takes in general a minimum of one hour and requires in most cases access to specialized laboratories and equipment. Isothermal amplification techniques, originating from clinical research, are emerging as rapid and field-deployable alternative methods. Yet, whether their sensitivity, specificity, and cost/time-efficiency are comparable to the traditional real-time quantitative PCR (qPCR) remains to be assessed. In this work, we compare the performance of loop-mediated isothermal amplification (LAMP) and recombinase polymerase amplification (RPA) with qPCR to detect the natterjack toad (Epidalea calamita) from aquatic filtrations. This objective was achieved in three steps. First, we developed LAMP and RPA primers specific to the target species based on its mitochondrial genome. Second, we amplified DNA extracts from E. calamita and from tissues of closely related species using real-time fluorescence detection with LAMP, RPA, and qPCR commercially available protocols to evaluate and compare the sensitivity and specificity of the three methods. Finally, we validated all protocols on eDNA extracts recovered from water samples from ponds surveyed by field scientists. We show that RPA had a sensitivity equivalent to that of the qPCR, while LAMP sensitivity was ten times lower. All our assays amplified the species DNA in eDNA samples where the species was observed by field scientists. Through this work, we thus propose a robust methodology for implementing isothermal amplification assays for eDNA applications and show that RPA is a good alternative to qPCR for detecting conservation-priority species (i.e. protected or invasive species) when time and lab facilities are constrained.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764843",
+    "date": "2026-11-09",
+    "authors": "Chieux, A., Guerrieri, A., Bellemain, E., Boyer, F., Merzi, T., Tablerlet, P., Iribar, A., Zinger, L., Bonin, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764843v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "method"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2100,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.06.764843"
+    ],
+    "translation": {
+      "title": {
+        "hash": "425b77a3ac91deee4f1cc00d3e1fba6104c91d122c9fbe94236fd4d92fdb424d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:40:56.715022+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6a6cf04d53ae940a8ff0b9ebcd53c939ceb198145db17d515021ff8aaf74bb8d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:40:56.715022+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "等温増幅法による環境DNAの迅速検出：ナッタージャックヒキガエル（Epidalea calamita）におけるリアルタイム定量PCRとの比較",
+    "abstract_ja": "環境DNA（eDNA）に基づく種検出は、従来、ポリメラーゼ連鎖反応（PCR）に依存してきた。この増幅法は一般に最低1時間を要し、多くの場合、専門の研究室や設備へのアクセスが必要となる。臨床研究に端を発する等温増幅法は、迅速かつ現場で導入可能な代替手法として台頭しつつある。しかし、その感度、特異性、およびコスト・時間効率が、従来のリアルタイム定量PCR（qPCR）に匹敵するかどうかは、依然として評価の余地がある。本研究では、水圏ろ過系からナッタージャックヒキガエル（Epidalea calamita）を検出するため、ループ媒介等温増幅法（LAMP）および組換え酵素ポリメラーゼ増幅法（RPA）の性能をqPCRと比較した。この目的は3つのステップで達成された。まず、ミトコンドリアゲノムに基づき、対象種に特異的なLAMPおよびRPAプライマーを開発した。次に、E. calamitaおよび近縁種の組織から得られたDNA抽出物を、LAMP、RPA、およびqPCRの市販プロトコルを用いたリアルタイム蛍光検出により増幅し、3つの手法の感度と特異性を評価・比較した。最後に、フィールド科学者が調査した池の水サンプルから回収したeDNA抽出物を用いて、すべてのプロトコルを検証した。その結果、RPAはqPCRと同等の感度を示した一方、LAMPの感度は10分の1であった。我々のアッセイはすべて、フィールド科学者が当該種を確認したeDNAサンプルにおいて、その種のDNAを増幅した。以上の研究を通じて、我々はeDNA応用のための等温増幅アッセイを実装するための堅牢な手法を提案するとともに、時間や研究室設備が限られている状況において、保全優先種（すなわち保護種または侵入種）の検出においてRPAがqPCRに代わる有効な手法であることを示す。"
   }
 ]
