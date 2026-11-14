@@ -218694,5 +218694,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "浮遊鉤苔 Warnstorfia fluitans の新規ゲノムアセンブリ",
     "abstract_ja": "浮遊鉤状コケ類のWarnstorfia fluitansは、亜寒帯および北極圏の水圏生態系において優占する天然種である。本種は寒冷で酸性かつ栄養不足の環境に適応しており、寒冷気候条件下で汚染水から汚染物質を除去することで、バイオレメディエーションにおいて大きな可能性を有している。本報では、プールされた雄および雌の配偶体から得られたW. fluitansの初のde novoゲノムアセンブリを提示する。アセンブリのサイズは725.04 Mbであり、N50は193.5 kb、BUSCO完全性はViridiplantae系統に対して97.6%、Embryophyta系統に対して82%である。アセンブリ全体のMerqury品質値は37、Merqury完全性は92%である。計30,421個のタンパク質コード遺伝子が予測され、完全性はcompleasmで78.62%、Embryophyta系統に対するOArk完全性は87%であった。反復配列はゲノムの56.16%を占める。また、本報ではW. fluitansの2つの完全な環状葉緑体ゲノムおよび線状ミトコンドリアゲノムを提示する。このゲノムリソースは、コケ植物における生態的適応の研究や、広範な生物学的・進化学的研究を促進するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.764126",
+    "title": "Unified cell segmentation for spatial transcriptomics via transcript reassignment",
+    "abstract": "High-resolution spatial transcriptomics (ST) measures gene expression as individually localized molecules on imaging-based platforms or as counts in subcellular bins on sequencing-based platforms, and both must be assigned to cells before cell-level analysis. Existing segmentation methods focus on delineating cell boundaries, yet transcripts that diffuse beyond their cell of origin, fall where cells overlap, or lie in bins that cells only partially cover are still misassigned. Here we present Tracel, a two-stage optimal transport framework that assigns spatial observations to cells under the guidance of a matched single-cell RNA-sequencing reference. Tracel first aligns reference cells to spatial cells to estimate the expected expression profile at each cell location, and then maps transcripts to cells against these profiles. The same formulation assigns transcripts from imaging-based platforms (e.g., Xenium, CosMx) and bin counts from sequencing-based platforms (e.g., Visium HD). Across five human datasets spanning three platforms and three tissues, Tracel improves the separation of cell types over existing methods, assigning cell-type markers to their correct cells, retaining more cell-intrinsic transcripts and reducing contamination from neighboring cells. Tracel also preserves variation within cell types, yielding more accurate differential expression across spatial locations, and its expression profiles attribute ligand-receptor interactions to the correct cell-type pairs in cell-cell communication analysis. Tracel can enter the segmentation workflow at different stages, either refining an existing segmentation or segmenting cells starting from nucleus segmentation. Availability  Code and example data are available at:  https://tracel.readthedocs.io/en/latest/",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.764126",
+    "date": "2026-11-04",
+    "authors": "Zhang J, Cheng X, Wang J, Chen W, Chen H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358714",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2536,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.764126"
+    ],
+    "translation": {
+      "title": {
+        "hash": "56794afde7c25155a990d36ea13a603abd996711bab9bf56b6f3bb53c1108de7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:02:21.465732+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "75f8ce995884eaf9a61c24d29632a692298bb00e44c681f2e5a33e5d333ea859",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:02:21.465732+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "転写産物の再割り当てによる空間トランスクリプトミクスのための統一的な細胞セグメンテーション",
+    "abstract_ja": "高解像度空間トランスクリプトミクス（ST）は、イメージングベースのプラットフォームでは個別に局在化した分子として、シーケンシングベースのプラットフォームでは細胞内ビン内のカウントとして遺伝子発現を測定するものであり、細胞レベルの解析を行う前に、両者を細胞に割り当てる必要がある。既存のセグメンテーション手法は細胞境界の画定に重点を置いているが、由来細胞を超えて拡散した転写産物や、細胞が重複する領域に分布する転写産物、あるいは細胞が部分的にしかカバーしていないビンに属する転写産物は、依然として誤って割り当てられている。本研究では、マッチングされたシングルセルRNAシーケンシングリファレンスのガイダンスに基づき、空間的観測値を細胞に割り当てる2段階の最適輸送フレームワーク「Tracel」を提案する。Tracelはまず、リファレンス細胞を空間的細胞にアライメントして各細胞位置における期待される発現プロファイルを推定し、次にこれらのプロファイルに基づいて転写産物を細胞にマッピングする。同様の定式化により、イメージングベースのプラットフォーム（例：Xenium、CosMx）からの転写産物と、シーケンシングベースのプラットフォーム（例：Visium HD）からのビンカウントを割り当てる。3つのプラットフォームと3つの組織にわたる5つのヒトデータセットにおいて、Tracelは既存手法よりも細胞タイプの分離精度を向上させ、細胞タイプマーカーを正しい細胞に割り当て、より多くの細胞固有の転写産物を保持し、隣接細胞からのコンタミネーションを低減する。また、Tracelは細胞タイプ内の変動を保持するため、空間的位置間におけるより正確な発現変動を導き出し、その発現プロファイルにより、細胞間コミュニケーション解析においてリガンド-受容体相互作用を正しい細胞タイプペアに帰属させる。Tracelは、既存のセグメンテーションを精緻化するか、あるいは核セグメンテーションから開始して細胞をセグメンテーションするかといった、異なる段階でセグメンテーションワークフローに組み込むことができる。利用可能性 コードおよびサンプルデータは以下で入手可能である：https://tracel.readthedocs.io/en/latest/"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.26367099",
+    "title": "Pandemic-Driven Shifts in RSV Diversity, Evolution, and Global Spread",
+    "abstract": "The COVID-19 pandemic dramatically disrupted the seasonal circulation of RSV, with subsequent heterogeneous global resurgence. We aimed to characterize how pandemic-era disruptions restructured global RSV transmission dynamics, evolutionary patterns, and drivers of reemergence. We show that RSV-A and RSV-B genetic diversity underwent profound pandemic-associated suppression followed by heterogeneous resurgence. The post-pandemic period was characterized by pronounced changes in diversity, with the emergence of novel RSV-A genotypes (A.D.3 and A.D.5.2) and the expansion of the RSV-B, B.D.E.1 genotype. The recovery of RSV-B deviated strongly from neutral expectations and positive selection was detected at 20 sites in the G glycoprotein, F fusion protein, and M2-2 regulatory protein. Phylogeographic reconstruction revealed a sharp decline in international viral spread during the pandemic, followed by increasing persistence. Europe consistently served as the predominant global source, followed by Western Pacific and North America. Air-travel volume was the strongest predictor of dissemination (log coefficient >0.68 for both subtypes). Post-pandemic RSV resurgence represented fundamental epidemiological restructuring shaped by a population bottleneck, positive selection and major impact of air-travel. These findings underscore the need for robust genomic surveillance to track the global circulation of lineages, and to monitor effectiveness of pharmaceutical interventions given the emergence of new genotypes. One Sentence Summary  Air Mobility and Diversifying Selection Shape Post-Pandemic RSV Global Diversity",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.26367099",
+    "date": "2026-11-04",
+    "authors": "Gustani-Buss E, Weinberger DM, Grubaugh ND, Colizza V, Shao Y, Suchard M, Evers A, Mazur NI, Wildenbeest JG, Lebbink RJ, van Zoggel HJ, Bont L, Lemey P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359801",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1453,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.26367099"
+    ],
+    "translation": {
+      "title": {
+        "hash": "62e706360693a9e4f73836882ae73c515ca14745aa8531f823b0a008b1563d54",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:02:21.465732+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "849bc10b9b04b6b7a31b888f3739959b87bc61b1e33f60d2e04bad049b9ec294",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:02:21.465732+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パンデミックがもたらしたRSVの多様性・進化・世界的拡散の変化",
+    "abstract_ja": "COVID-19パンデミックはRSVの季節的循環を著しく乱し、その後、世界的に不均一な再興が認められた。本研究では、パンデミック期の攪乱が世界的なRSV伝播動態、進化パターン、および再興の要因をどのように再構成したかを明らかにすることを目的とした。その結果、RSV-AおよびRSV-Bの遺伝的多様性が、パンデミックに伴う著しい抑制を経て、不均一な再興を遂げたことが示された。パンデミック後の期間は多様性の顕著な変化が特徴であり、新規のRSV-A遺伝子型（A.D.3およびA.D.5.2）の出現と、RSV-Bの遺伝子型（B.D.E.1）の拡大が認められた。RSV-Bの回復は中立的な予測から大きく逸脱しており、G糖タンパク質、F融合タンパク質、およびM2-2調節タンパク質の20部位において正の選択が検出された。系統地理学的再構築により、パンデミック期間中に国際的なウイルス拡散が急激に減少し、その後持続性が高まったことが明らかになった。世界的には一貫して欧州が主要な発生源であり、次いで西太平洋および北米であった。航空移動量は、拡散の最も強力な予測因子であった（両サブタイプともに対数係数 > 0.68）。パンデミック後のRSV再興は、集団ボトルネック、正の選択、および航空移動の多大な影響によって形作られた根本的な疫学的再構成を表していた。これらの知見は、系統の世界的な循環を追跡するための強固なゲノムサーベイランスの必要性と、新規遺伝子型の出現を踏まえた薬剤介入の有効性のモニタリングの必要性を強調するものである。一文要約：航空移動と多様化選択がパンデミック後のRSVの世界的多様性を形作る"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11365499/v1",
+    "title": "Design and Recombinant Production of Proline-rich Antimicrobial Peptide 385P",
+    "abstract": "Abstract    The rapid emergence of antimicrobial resistance has increased the search for alternative agents with novel mechanisms of action. Here, we established an end-to-end framework for the rational development of proline-rich antimicrobial peptides (PrAMPs), integrating computational motif discovery, peptide design, recombinant production, and biological characterization. Conserved motifs from highly active PrAMPs were identified and ranked using MEME and rationally assembled to generate the 36-amino acid peptide 385P. A C-terminal hexahistidine-tagged construct (r385P) was successfully produced in  Pichia pastoris  GS115 and confirmed by SDS-PAGE, Western blotting, and His-tag ELISA. r385P exhibited broad-spectrum antimicrobial activity, with MICs of 4–32 µg/mL against Gram-negative bacteria, 2–32 µg/mL against Gram-positive bacteria, and 64 µg/mL against  Candida albicans  and  Candida glabrata  , with the highest antibacterial activity against  Listeria monocytogenes  and  Acinetobacter baumannii  . r385P exhibited strong antibiofilm activity, achieving 83.83% inhibition against  Escherichia coli  O157:H7 at MIC/2 and complete inhibition against  Staphylococcus aureus  at MIC. FICI assays revealed antibiotic- and species-dependent interactions, including synergy with kanamycin against  Klebsiella pneumoniae  (FICI = 0.375) and consistent additive interactions with tetracycline. r385P retained full antimicrobial activity after exposure to 50–200 mM NaCl and 1–4 h of trypsin treatment, while MICs increased two- and four-fold following exposure to 65 and 95°C, respectively. Hemolysis remained below 4% at 256 µg/mL, while MRC-5 cell viability was 71% at 320 µg/mL. Collectively, these findings demonstrate the potential of conserved-motif assembly as a practical strategy for developing functionally robust PrAMP candidates.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11365499/v1",
+    "date": "2026-11-04",
+    "authors": "Kesmen Z, Canpolat M, Herdem D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358374",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "Escherichia",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1461,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11365499/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a5fcd80f1ea7a7ba7cbb30e630de2050e7c54ba7f6ec5cfefc858ffafef5b4bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:02:21.465732+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "79bbac46297d68429acf3b655ca50f4db30aac67343dde3090fb63ad07d3b81a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:02:21.465732+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プロリンリッチ抗菌ペプチド385Pの設計と組換え生産",
+    "abstract_ja": "要旨    薬剤耐性の急速な出現により、新規作用機序を有する代替薬剤の探索が加速している。本研究では、計算機によるモチーフ探索、ペプチド設計、組換え生産、および生物学的特性解析を統合し、プロリンリッチ抗菌ペプチド（PrAMPs）の合理的開発のためのエンドツーエンドのフレームワークを構築した。活性の高いPrAMPsから保存されたモチーフを同定し、MEMEを用いて順位付けした上で合理的にアセンブルすることで、36アミノ酸ペプチド385Pを作製した。C末端にヘキサヒスチジンタグを付与したコンストラクト（r385P）をPichia pastoris GS115において作製することに成功し、SDS-PAGE、ウェスタンブロッティング、およびHisタグELISAによりその有効性を確認した。r385Pは広範な抗菌活性を示し、MICはグラム陰性菌に対して4–32 µg/mL、グラム陽性菌に対して2–32 µg/mL、Candida albicansおよびCandida glabrataに対して64 µg/mLであり、特にListeria monocytogenesおよびAcinetobacter baumanniiに対して最も高い抗菌活性を示した。r385Pは強力な抗バイオフィルム活性を示し、Escherichia coli O157:H7に対してMIC/2で83.83%の阻害効果を、Staphylococcus aureusに対してMICで完全な阻害効果を達成した。FICIアッセイにより、Klebsiella pneumoniaeに対するカナマイシンとの相乗効果（FICI = 0.375）や、テトラサイクリンとの一貫した相加的相互作用を含む、抗生物質および菌種依存的な相互作用が明らかになった。r385Pは、50–200 mM NaClへの曝露および1–4時間のトリプシン処理後も完全な抗菌活性を維持したが、MICは65℃および95℃への曝露後、それぞれ2倍および4倍に上昇した。溶血は256 µg/mLで4%未満に留まり、MRC-5細胞の生存率は320 µg/mLで71%であった。総じて、これらの知見は、機能的に堅牢なPrAMP候補を開発するための実用的な戦略として、保存モチーフアセンブルの可能性を示すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11177768/v1",
+    "title": "HLA-B*57 as a Dominant Genetic Determinant of HIV-1 Elite Control: Comparative Reanalysis of MHC Variant Associations in European andAfrican-American Cohorts A reanalysis of published genomic association data",
+    "abstract": "Abstract  Background  HIV-1 elite controllers (EC) maintain undetectable viral loads without antiretroviral therapy; a phenotype strongly linked to variation in the Major Histocompatibility Complex (MHC). HLA-B*57:01 is the most replicated genetic association with elite control in individuals of European ancestry, with HLA-B*57:03 identified as its counterpart in African-ancestry populations. Whether the structure of this association – its dose-dependence and independence from other MHC signals – has been characterized consistently across both ancestries has not been addressed in accessible form. Methods  Using published allele/carrier frequencies from Rahmouni et al. (2025, 2023), we analyzed a European cohort (543 elite controllers, 3,272 uninfected controls) and an African-American cohort (759 HIV-1-seropositive individuals enriched for elite controllers, cs1 + cs2, ICGH consortium). For the European cohort, we performed: (1) primary HLA-B*57 association testing, (2) a nine-variant MHC panel analysis, (3) a viral-load trend test, and (4) an HLA-B*57-Stratified Association Analysis. For the African-American cohort, we tested enrichment of rs1131446 (the HLA-B*57:03 tag SNP) relative to its background frequency in the general African population (1000 Genomes AFR, n = 661). All tests used Fisher's exact test with Benjamini-Hochberg FDR correction where applicable. Results  In the European cohort, HLA-B*57 carriage was strongly associated with elite control (OR = 5.92, 95% CI: 4.66–7.51, p",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11177768/v1",
+    "date": "2026-11-04",
+    "authors": "Frimpong EO.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358337",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1462,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11177768/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8abed39b7d6be2a8fd34918ac7d2e23519b4ca0767a0fc2e02887aec55b9ebf1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:02:21.465732+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "30dd8912249e8033c7df2b3371cc464ad829602d63e240a025a629b79ce7fce2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:02:21.465732+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIV-1エリートコントロールの優性遺伝的決定因子としてのHLA-B*57：欧州およびアフリカ系アメリカ人コホートにおけるMHCバリアント関連の比較再解析 既報のゲノム関連データの再解析",
+    "abstract_ja": "要旨  背景  HIV-1エリートコントローラー（EC）は、抗レトロウイルス療法なしで検出限界以下のウイルス量を維持しており、この表現型は主要組織適合性複合体（MHC）の変異と強く関連している。HLA-B*57:01は、欧州系集団においてエリートコントローラーと最も高頻度に認められる遺伝的関連であり、アフリカ系集団ではその対応関係にある因子としてHLA-B*57:03が同定されている。この関連構造――用量依存性および他のMHCシグナルからの独立性――が、両系統において一貫して特性解析されているかについては、公表された形式では検討されていない。方法  Rahmouniら（2025, 2023）による既報のアレル/キャリア頻度を用い、欧州系コホート（エリートコントローラー543例、非感染対照群3,272例）およびアフリカ系アメリカ人コホート（エリートコントローラーに富むHIV-1血清陽性者759例、cs1 + cs2, ICGHコンソーシアム）を解析した。欧州系コホートに対しては、(1) 一次HLA-B*57関連解析、(2) 9バリアントMHCパネル解析、(3) ウイルス量推移検定、(4) HLA-B*57層別関連解析を実施した。アフリカ系アメリカ人コホートに対しては、一般アフリカ人集団（1000 Genomes AFR, n = 661）における背景頻度に対するrs1131446（HLA-B*57:03タグSNP）の濃縮性を検証した。すべての検定では、適宜ベンジャミニ・ホッホバーグFDR補正を用いたフィッシャーの正確確率検定を適用した。結果  欧州系コホートにおいて、HLA-B*57の保有はエリートコントローラーと強く関連していた（OR = 5.92, 95% CI: 4.66–7.51, p"
   }
 ]
