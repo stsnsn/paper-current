@@ -216800,5 +216800,291 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ナノポア信号のロスレス圧縮のための整数量子化多層パーセプトロンニューラルネットワーク",
     "abstract_ja": "要旨動機ナノポアシーケンシングは高度なゲノム解析に不可欠であるが、出力される生信号は膨大なストレージ容量と帯域幅を必要とする。この課題に対処するため、VBZやex-zdといった特化型のモデルフリー圧縮器が提案されてきた。これらは高スループットと優れた圧縮性能を実現する一方で、高次統計的依存性を十分に活用できず、さらなる性能向上が制限されている。学習ベースの圧縮器はより高い圧縮率を達成できるが、浮動小数点の非決定性が生じることが多く、また大規模なナノポアデータセットに対しては処理速度が遅すぎるため、実用性に欠ける。結果ナノポア信号データ向けの学習型ロスレス圧縮器であるSigCompを提案する。SigCompは、固定コンテキストウィンドウを備えたコンパクトな多層パーセプトロンネットワークを採用し、支配的な1バイト信号のデルタ内における高次依存性を捉える。ポストトレーニング量子化と完全なGPUネイティブなレンジコーダーを統合することで、SigCompは自己回帰符号化ループにおけるGPU-CPU同期オーバーヘッドを排除しつつ、多様な実行環境において厳密なビット完全性を保証する。多様な生物種およびシーケンシング化学種（DNA R10.4.1およびRNA004）を用いた評価により、SigCompは処理スループットが10分の1に低下するものの、圧縮ファイルサイズをVBZおよびex-zdと比較してそれぞれ6.00%–7.09%および3.86%–5.34%一貫して削減できることが示された。主要なニューラル圧縮器と比較して、SigCompはわずか0.4%–1.9%の犠牲で同等の圧縮率を達成し、46倍–74倍のスループットを実現している。アブレーションスタディにより、SigCompの整数のみを用いたGPUネイティブなアプローチは、モデル量子化を用いないハイブリッドGPU-CPUパイプラインと比較して全体として7.75倍–8.30倍のスループット向上をもたらし、デフォルトの64シンボルのコンテキストウィンドウが活用可能な冗長性の大部分を効果的に捉えていることが確認された。また、SigCompは最下位ビットを除去することで非可逆圧縮へと拡張でき、4.047–4.868の圧縮率を達成し、非可逆のex-zdを9.18%–14.38%上回る性能を示した。処理速度は特化型コーデックよりも依然として遅いものの、SigCompは長期的なコールドアーカイブ保存において優れたトレードオフを提供し、特にマルチGPU環境でスケールさせた場合にその真価を発揮する。利用可能性と実装SigCompはGitHubにて無料で公開されている：https://github.com/BioinfoSZU/SigComp。CPUのみ、NVIDIA、およびAMD GPUの実行バックエンドをサポートし、シームレスなクロスプラットフォームのアーカイブ相互運用性およびマルチGPUスケーリングを実現している。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag834",
+    "title": "A systematic review of EC number prediction algorithms based on reaction chemical structures",
+    "abstract": "AbstractMotivationEnzymes catalyse most of the metabolic reactions in living organisms. The functional characterization of enzymes is critical to understand the metabolic processes involved in different fields such as biotechnology, nutrition, ecology, and drug development. The Enzyme Commission (EC) numbers provide a hierarchical framework for classifying enzymatic reactions, linking gene and protein sequences to biochemical transformations. However, the incomplete annotation of biochemical reaction databases limits the accurate representation of metabolism of living organisms.ResultsTo address this gap, several computational methods have been developed to predict EC numbers from reaction chemical structures, broadly classified into reaction similarity-based and machine/deep learning approaches. We systematically review these tools, comparing their performance predicting EC numbers from different databases, and assessing their robustness across enzyme classes. We also apply these methods to predict EC numbers from drug metabolism reactions, highlighting their potential to improve functional annotation of uncharacterized metabolic pathways.Availability and ImplementationAll the necessary data and code to reproduce the results of this manuscript are available within https://github.com/PlanesLab/ECNumberPrediction GitHub repository and in Zenodo https://doi.org/10.5281/zenodo.22957403.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag834",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag834/9044223?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4473,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/bioinformatics/btag834"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fb9de073281f2f7924860c897df0502996e1c7f5f881a4473b874d6627adcb12",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:42:57.144392+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c1c74f01ab1a55300de97803bf15760a8180edd7d7524ec163cce241f910c14f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:42:57.144392+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "反応化学構造に基づくEC番号予測アルゴリズムの系統的レビュー",
+    "abstract_ja": "要旨動機酵素は生物体内における代謝反応の大部分を触媒する。酵素の機能特性解析は、バイオテクノロジー、栄養学、生態学、創薬といった多様な分野に関わる代謝プロセスを理解する上で極めて重要である。酵素委員会（EC）番号は、酵素反応を分類するための階層的枠組みを提供し、遺伝子配列やタンパク質配列を生化学的変換へと結びつける。しかし、生化学反応データベースのアノテーションが不完全であるため、生物の代謝を正確に表現することが困難となっている。結果この課題に対処するため、反応の化学構造からEC番号を予測する複数の計算手法が開発されており、これらは大別して反応類似性に基づく手法と、機械学習／深層学習アプローチに分類される。本稿では、これらのツールを体系的にレビューし、異なるデータベースからのEC番号予測における性能を比較するとともに、酵素クラスを横断した頑健性を評価する。また、これらの手法を薬物代謝反応からのEC番号予測に適用し、未特性解析の代謝経路の機能アノテーションを改善できる可能性を強調する。利用可能性と実装本原稿の結果を再現するために必要なすべてのデータおよびコードは、GitHubリポジトリ https://github.com/PlanesLab/ECNumberPrediction およびZenodo https://doi.org/10.5281/zenodo.22957403 で公開されている。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1979681",
+    "title": "Study on <i>Gardeniae Fructus</i> for treating depression with combination of network pharmacology, metabolomics and gut microbiota.",
+    "abstract": "BackgroundDepression is a prevalent and disabling mental disorder with limited therapeutic efficacy and delayed response to conventional antidepressants, highlighting the urgent need for safe and effective alternatives. Gardeniae Fructus (GF), a traditional Chinese medicine with documented neuroprotective properties, has shown rapid antidepressant-like effects, yet its mechanisms remain incompletely understood.MethodsDepression-like behaviors were induced by reserpine in adult Sprague-Dawley rats. Thirty-five rats were randomly and evenly divided into five groups: control (CON), Model, low-dose GF (GFL, 1.2 g/kg·d), high-dose GF (GFH, 2.4 g/kg·d), and fluoxetine (FLU, 10 mg/kg·d). Depressive behaviors were assessed by sucrose preference test, forced swimming test, open field test, body temperature, and eyelid ptosis tests. Differential metabolites were identified through serum untargeted metabolomics, and metabolic pathways were analyzed using MetaboAnalyst. The anti-depression targets of GF were determined by network pharmacology. A network pharmacology-metabolomics network was constructed in Cytoscape, and interactions between key components and key targets were verified by molecular docking. Gut microbiota of rats in different groups was analyzed by 16S rDNA sequencing, and multi-omics integration analysis was performed.Results11 active components of GF and 140 potential targets associated with depression were identified, with quercetin emerging as a key compound. Protein-protein interaction analysis highlighted AKT1, TNF, IL6, VEGFA, and TP53 as core targets. In reserpine-induced depressive rats, GF treatment significantly ameliorated depressive-like behaviors, involving shortened immobility time and enhanced sucrose preference, improved body temperature, and alleviated eyelid ptosis. 16S rRNA sequencing revealed that GF modulated gut microbiota composition, and altering functional pathways including thiamine, butanoate, and fatty acid metabolism. Untargeted metabolomics identified 28 differentially expressed metabolites between GF-treated and model groups, predominantly involving lipids and amino acids. Integrated network and metabolomic analyses pinpointed glycosphingolipid metabolism as a critical pathway, with PTEN as a key target and sphinganine and phytosphingosine as principal metabolites. Molecular docking confirmed stable binding between quercetin and PTEN (binding energy: -7.2 kcal/mol). Correlation analyses demonstrated that Bifidobacterium and Turicibacter exhibited pronounced associations with multiple metabolic alterations.ConclusionThis integrative approach reveals that GF alleviates depression through multi-target, multi-pathway mechanisms involving regulation of gut microbiota, modulation of glycosphingolipid metabolism, and targeting of PTEN, providing a comprehensive basis for its neuroprotective effects and offering novel insights into Traditional Chinese Medicine-based antidepressant strategies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1979681",
+    "date": "2026-10-28",
+    "authors": "Dong Y, Deng P, Zhan D, Li Y, Liu QE.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43016894",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13751934",
+    "pmid": "43016894",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rdna",
+        "16s rrna",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4242,
+    "collected_at": "2026-11-14T17:59:45.478009+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1979681"
+    ],
+    "translation": {
+      "title": {
+        "hash": "532c442b699f73729fac309deeaac8388f6edd4702402e397ce444a527cc3504",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:42:57.144392+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1cc40ee74d5e96f985b356a2d49fdbc88991bbc86274fb2da9b99dfaf661589d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:42:57.144392+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ネットワーク薬理学、メタボロミクス、および腸内細菌叢を組み合わせたうつ病治療に向けた<i>Gardeniae Fructus</i>に関する研究",
+    "abstract_ja": "背景うつ病は、治療効果が限られ、従来の抗うつ薬への反応も遅延する、頻度が高く生活機能を損なう精神疾患であり、安全で効果的な代替薬が急務となっている。神経保護作用が実証されている中薬のクチナシ果実（GF）は、抗うつ様効果を速やかに示すが、その機序は依然として十分に解明されていない。方法成体Sprague-Dawleyラットを用い、レセルピンによりうつ病様行動を誘発した。35匹のラットを無作為に均等に、対照群（CON）、モデル群、低用量GF（GFL, 1.2 g/kg·d）、高用量GF（GFH, 2.4 g/kg·d）、およびフルオキセチン（FLU, 10 mg/kg·d）の5群に分けた。抑うつ行動は、スクロース嗜好性試験、強制水泳試験、オープンフィールド試験、体温、および眼瞼下垂試験により評価した。差異代謝物は血清非標的メタボロミクスにより同定し、代謝経路はMetaboAnalystを用いて解析した。GFの抗うつ標的はネットワーク薬理学により決定した。Cytoscapeを用いてネットワーク薬理学・メタボロミクスネットワークを構築し、主要成分と主要標的間の相互作用を分子ドッキングにより検証した。各群のラットの腸内細菌叢を16S rDNAシーケンシングにより解析し、マルチオミクス統合解析を行った。結果GFの活性成分11種と、うつ病に関連する潜在的標的140種が同定され、ケルセチンが主要な化合物として浮上した。タンパク質間相互作用解析により、AKT1、TNF、IL6、VEGFA、およびTP53がコア標的として同定された。レセルピン誘発性の抑うつラットにおいて、GF投与は不動時間の短縮とスクロース嗜好性の亢進、体温の改善、および眼瞼下垂の緩和を伴い、抑うつ様行動を有意に改善した。16S rRNAシーケンシングにより、GFが腸内細菌叢の組成を調節し、チアミン、ブタン酸、および脂肪酸代謝を含む機能的経路を変化させることが明らかになった。非標的メタボロミクスにより、GF投与群とモデル群の間で28種類の発現変動代謝物が同定され、その大部分は脂質およびアミノ酸であった。統合的なネットワーク解析およびメタボロミクス解析により、糖脂質代謝が重要な経路であることが特定され、PTENが主要標的、スフィンガニンおよびフィトスフィンゴシンが主要な代謝物であった。分子ドッキングにより、ケルセチンとPTENの安定した結合が確認された（結合エネルギー：-7.2 kcal/mol）。相関解析の結果、BifidobacteriumおよびTuricibacterが複数の代謝変化と顕著な関連を示すことが明らかになった。結論この統合的アプローチにより、GFが腸内細菌叢の調節、糖脂質代謝の調節、およびPTENへの標的作用を含むマルチターゲット・マルチパスウェイ機構を通じてうつ病を緩和することが明らかとなり、その神経保護効果の包括的な根拠となるとともに、中薬に基づく抗うつ戦略への新たな知見を提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.13.766501",
+    "title": "A genome-guided multilocus sequence analysis scheme to detect and resolve diversity within the X-disease phytoplasma group (16SrIII)",
+    "abstract": "Phytoplasmas of the X-disease group (16SrIII) cause economically important diseases of vegetables, forage and staple crops, fruit trees and ornamentals in South America, where they are diagnosed and classified only by 16S rRNA gene RFLP. Because this gene is highly conserved, strains that differ in host range, vectors and regulatory relevance cannot be distinguished. We developed a multilocus sequence analysis (MLSA) scheme for typing 16SrIII phytoplasmas, using genome data to select the markers and to define reference lineages. Five single-copy loci (tuf, secA, secY, mutM, cimH) were chosen from 16 curated genomes; primers matched all genomes in silico, and four of the five pairs did not amplify phytoplasmas of other groups co-occurring in the region (16SrI, 16SrVII, 16SrXIII). Genome comparisons resolved four lineages, including one restricted to South America that shared only 90.8-93.9% average nucleotide identity with the other lineages, despite > 98.8% 16S rRNA identity. The concatenated MLSA (2,870 nt) reproduced the genome-based lineages and assigned five Argentinian field isolates from weeds, fodder beet, cassava, plum and a native shrub. Identical 16SrIII-B RFLP patterns occurred in different lineages, and one 16SrIII-B isolate grouped within the 16SrIII-J clade, showing that subgroups are not reliable proxies for lineages. The South American lineage had the broadest host range, spanning six plant families. We also detected chimeric rRNA copies and sequencing artefacts that can cause misclassification. This MLSA provides a PCR-based tool to identify 16SrIII lineages in crops, weeds and insects, supporting epidemiological studies, disease management and phytosanitary decisions.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766501",
+    "date": "2026-11-14",
+    "authors": "Fernandez, F. D., Bongiorno, V., Conci, L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766501v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4477,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.64898/2026.11.13.766501"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d72ab1c76bb90a07bc5816e972aa30f3b93d84308328a22a28042cf2f8bbf544",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:42:57.144392+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ebf821236b142fe1ba8b6e36139ff4ce0e1ffe75b9f962c307209cfcc3d5f928",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:42:57.144392+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "X病フィトプラズマ群（16SrIII）の多様性を検出・解明するためのゲノムガイド型多座配列解析スキーム",
+    "abstract_ja": "X病群（16SrIII）のファイトプラズマは、南米の野菜、飼料作物、主食作物、果樹および観賞用植物において経済的に重要な病害を引き起こしており、同地域では16S rRNA遺伝子RFLPのみによって診断および分類されている。この遺伝子は高度に保存されているため、宿主範囲、媒介生物、および調節上の関連性が異なる株を区別することはできない。我々は、ゲノムデータを用いてマーカーの選定および参照系統の定義を行う、16SrIIIファイトプラズマの型別のための多遺伝子座配列解析（MLSA）スキームを開発した。キュレートされた16のゲノムから5つのシングルコピー遺伝子座（tuf, secA, secY, mutM, cimH）を選定した。プライマーはin silicoで全てのゲノムに一致し、5組のうち4組では、その領域に共存する他の群（16SrI, 16SrVII, 16SrXIII）のファイトプラズマは増幅されなかった。ゲノム比較により4つの系統が同定され、そのうち1つは南米に限定された系統であり、16S rRNAの同一性は98.8%を超えていたものの、他の系統との平均塩基同一性は90.8～93.9%にとどまった。連結MLSA（2,870 nt）はゲノムに基づく系統を再現し、雑草、飼料用ビート、キャッサバ、スモモ、および在来低木由来のアルゼンチン産圃場分離株5株を割り当てた。同一の16SrIII-B RFLPパターンが異なる系統で認められ、また1つの16SrIII-B分離株が16SrIII-Jクレードにグループ化されたことから、サブグループは系統の信頼できる代理指標ではないことが示された。南米系統は宿主範囲が最も広く、6つの植物科にわたっていた。また、誤分類の原因となり得るキメラrRNAコピーおよびシーケンシングアーティファクトも検出された。本MLSAは、作物、雑草、および昆虫における16SrIII系統を同定するためのPCRベースのツールを提供し、疫学研究、病害管理、および植物検疫上の意思決定を支援するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11529414/v1",
+    "title": "Nutrient and Organic Matter Driven Reorganization of Phytoplankton Communities Downstream of Wastewater Discharge in the Styr River (Ukraine)",
+    "abstract": "Abstract  The study investigated changes in the phytoplankton community of the Styr River in the area affected by wastewater discharge from a nuclear power plant. The aim was to assess the effects of nutrient loading associated with wastewater discharge on phytoplankton species composition, abundance, biomass, and community structure. Samples were collected in May - August 2024 at two river sites located upstream and downstream of the wastewater discharge point. Water samples were analyzed for dissolved organic carbon (DOC), total nitrogen (TN), and total phosphorus (TP). UV–Vis optical indices indicated a downstream shift toward more aromatic and higher-molecular-weight DOM characteristics, consistent with changes in the composition of the dissolved organic matter pool. Phytoplankton was assessed in terms of abundance, biomass, mean cell biomass, and taxonomic structure. Correlation analysis and principal component analysis (PCA) were used to examine relationships between hydrochemical and biological variables. Downstream of the discharge point, DOC, TN, and TP concentrations increased by 19.4%, 56.5%, and 72.7%, respectively, compared with the reference site. Against this background, phytoplankton abundance decreased from 3.0 × 10⁶ to 0.5 × 10⁶ cells dm⁻³, while biomass decreased from 0.70 to 0.15 mg dm⁻³. At the same time, mean cell biomass increased, indicating a shift in the size structure of the community. Bacillariophyta dominated upstream, accounting for 79% of total abundance and 85% of total biomass. Downstream, Chlorophyta and Euglenophyta became predominant, whereas the contribution of diatoms declined markedly. The saprobity index increased from 1.96 to 2.61, indicating increased organic loading. Correlation analysis showed negative relationships between nutrient concentrations and Bacillariophyta, but positive relationships with Chlorophyta and Euglenophyta. PCA confirmed clear spatial separation of the phytoplankton communities along the trophic gradient. Overall, increased organic matter and nutrient concentrations in the discharge-affected area were accompanied by a restructuring of the phytoplankton community, characterized by a reduced contribution of diatoms and an increased contribution of taxa tolerant of organic pollution.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11529414/v1",
+    "date": "2026-11-04",
+    "authors": "Biedunkova O, Kuznietsov P, Pryshchepa A, Statnyk I.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358216",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatoms",
+        "diatom"
+      ],
+      "context": {
+        "marine": [
+          "phytoplankton",
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 971,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11529414/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ba7179f4c8c9ed206243e2c70ef262ec19002d02334d6fe755f41988bcc5d620",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:42:57.144392+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "db74b6de8e436df1652cb47b859878e1e994546ad6d183ca756dc0dcf78efde1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:42:57.144392+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "スティル川（ウクライナ）における下水放流下流の植物プランクトン群集の栄養塩および有機物駆動型再編成",
+    "abstract_ja": "要旨　本研究では、原子力発電所からの排水排出の影響を受けるシュティル川における植物プランクトン群集の変化を調査した。目的は、排水排出に伴う栄養塩負荷が、植物プランクトンの種組成、個体数、バイオマス、および群集構造に及ぼす影響を評価することであった。試料は2024年5月から8月にかけて、排水排出地点の上流および下流に位置する2か所の河川地点で採取した。水試料について、溶存有機炭素（DOC）、全窒素（TN）、および全リン（TP）の分析を行った。UV–Vis光学指標は、より芳香族的で高分子量のDOM特性へと下流方向にシフトしていることを示しており、これは溶存有機物プールの組成変化と一致していた。植物プランクトンについては、個体数、バイオマス、平均細胞バイオマス、および分類学的構造の観点から評価した。水化学的変数と生物学的変数の関係を調べるため、相関分析および主成分分析（PCA）を用いた。排出地点の下流では、基準地点と比較して、DOC、TN、およびTPの濃度がそれぞれ19.4%、56.5%、72.7%増加した。このような背景のもと、植物プランクトンの個体数は3.0 × 10⁶から0.5 × 10⁶ cells dm⁻³へと減少し、バイオマスは0.70から0.15 mg dm⁻³へと減少した。同時に、平均細胞バイオマスは増加しており、群集のサイズ構造のシフトが示された。上流ではバクイラリオ藻類が優占し、総個体数の79%、総バイオマスの85%を占めていた。下流では緑藻類およびミドリムシ類が優勢となり、一方で珪藻の寄与は著しく低下した。腐生指数は1.96から2.61へと上昇し、有機物負荷の増加を示した。相関分析の結果、栄養塩濃度とバクイラリオ藻類との間には負の関係が認められたが、緑藻類およびミドリムシ類との間には正の関係が認められた。PCAにより、栄養勾配に沿って植物プランクトン群集が明確に空間的に分離していることが確認された。総じて、排水影響域における有機物および栄養塩濃度の増加は、珪藻の寄与の減少と、有機汚染耐性分類群の寄与の増加を特徴とする植物プランクトン群集の再構造化を伴っていた。"
   }
 ]
