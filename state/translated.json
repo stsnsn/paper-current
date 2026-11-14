@@ -200572,5 +200572,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "原生生物の深海堆積物への輸出マッピングにより、輸出と輸送のパターンの乖離が明らかになった。",
     "abstract_ja": "重力による粒子の沈降は、生物炭素ポンプにおける炭素輸出の主要なメカニズムである。しかし、表層から海底に至る粒子随伴性原生生物群集の連結性については、依然として十分に解明されていない。本研究では、18S rRNA遺伝子メタバーコーディングを用いて、南西太平洋の亜熱帯および亜南極海域における沈降粒子および深海堆積物中の輸出原生生物群集の特性解析を行った。沈降粒子は、多深度のホルマリン固定・保存剤不使用（生）粒子インターセプタートラップを用いて採取し、水柱群集（上層：5-40 m、下層：70-500 m）と比較した。固定トラップおよび堆積物試料において、上層水柱試料由来のアンプリコン配列変異体（ASV）は、下層水柱試料と比較してリード数およびASV豊富度が2～4倍高く、輸出に対する表層原生生物の寄与がより強いことが示唆された。上層水柱試料と固定トラップ試料におけるASVの相対存在量パターンを追跡したところ、混合層におけるASV輸出能と上層中深層への輸送能との間に、分類群特異的なデカップリングが認められた。固定トラップと生トラップ間でのASV豊富度の分類群特異的な減少によっても示唆されるこれらの輸出パターンは、生物地球化学的に対照的な水塊間においても同様であった。このことは、輸出過程における粒子随伴性原生生物の喪失の駆動要因が、特定の微生物間相互作用や細胞特性など、環境条件を問わず一貫した特性に関連している可能性を示唆している。輸送能は深海堆積物におけるASV検出の強力な指標となり、遠洋・底生連続体にわたる複数の深度で輸出を追跡することが、長期的な炭素隔離を駆動する原生生物分類群を同定する上で極めて重要であることを強調している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cell.2026.09.041",
+    "title": "Circuit-aligned specialization of human basal ganglia astrocytes.",
+    "abstract": "Astrocytes shape synapses and circuits, yet their diversity within the human basal ganglia remains poorly defined. Integrating single-nucleus transcriptomic and epigenomic profiling with spatial transcriptomics, we identify three anatomically organized astrocyte subgroups-striatal gray matter (GM), extra-striatal GM, and white matter (WM)-distinguished by neurotransmitter transporter expression and synapse-associated programs that reflect afferent input. These molecular distinctions generalize brain-wide, separating telencephalic from non-telencephalic astrocytes, with LHX2 marking telencephalic astrocyte identity across species. Within the striatum (STR), dorsal and ventral populations align with distinct microcircuits; a ventral population maps to the nucleus accumbens mediodorsal shell alongside specialized neuronal subtypes, a pattern conserved in nonhuman primates. A deep learning sequence model identifies subgroup-specific enhancer codes and recovers established transcription factor motif logic from published enhancer-AAV datasets, providing a foundation for targeted viral vector design. These findings define intersecting axes of human astrocyte specialization and offer a framework for cell-type-specific dissection of basal ganglia circuits.",
+    "journal": "Cell",
+    "doi": "10.1016/j.cell.2026.09.041",
+    "date": "2026-11-01",
+    "authors": "Fu Y, Kempynck N, Ding W, Turner MA, Garcia AD, Schmitz MT, Close J, Kapen I, Hewitt M, Seeman SC, Long B, Ding SL, Ho W, Mahoney JT, Mich JK, Levi BP, Klein A, Behrens MM, Ecker J, Aerts S, Johansen NJ, Hodge RD, Lein ES, Bakken TE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43020029",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43020029",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3485,
+    "collected_at": "2026-11-14T03:13:11.939144+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1016/j.cell.2026.09.041"
+    ],
+    "translation": {
+      "title": {
+        "hash": "33dadb8e2237a776b9bd24faa17fcb8ac8a45363e8713ca58aff8f92fdd6f354",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:48:20.023249+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "453d86e05d21ea556260e7f891a91ff44d9ea71a94d324705b5251344d5054b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:48:20.023249+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト基底核アストロサイトの回路特異的な分化。",
+    "abstract_ja": "アストロサイトはシナプスや回路を形成するが、ヒトの基底核におけるその多様性は依然として十分に解明されていない。単一核トランスクリプトームおよびエピゲノムプロファイリングを空間トランスクリプトミクスと統合することで、我々は、神経伝達物質トランスポーターの発現および求心性入力を反映するシナプス関連プログラムによって区別される、解剖学的に組織化された3つのアストロサイトサブグループ――線条体灰白質（GM）、線条体外GM、および白質（WM）――を同定した。これらの分子的な区別は脳全体に汎在しており、終脳性アストロサイトと非終脳性アストロサイトを分離し、LHX2が種を超えて終脳性アストロサイトのアイデンティティを標識している。線条体（STR）内では、背側および腹側の集団がそれぞれ異なる微小回路に対応しており、腹側集団は特化した神経細胞サブタイプとともに側坐核の中背側殻にマッピングされる。このパターンは非ヒト霊長類においても保存されている。深層学習シーケンスモデルにより、サブグループ特異的なエンハンサーコードが同定され、既報のエンハンサー-AAVデータセットから確立された転写因子モチーフの論理が復元され、標的型ウイルスベクター設計の基盤が提供された。これらの知見は、ヒトアストロサイトの分化における交差軸を定義し、基底核回路の細胞種特異的な解析のための枠組みを提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118103",
+    "title": "The ssDNA-binding protein MEIOB sustains synaptonemal complex integrity by stabilizing recombination intermediates during male meiosis.",
+    "abstract": "The synaptonemal complex (SC) is fundamental to meiotic recombination and crossover formation between homologous chromosomes. In yeast, the SC is assembled and sustained by the ZZS complex (Zip2-Zip4-Spo16). However, how ZZS components are recruited and stabilized at chromosomes, and whether their mammalian orthologs (SHOC1-TEX11-SPO16) play similar roles, remain poorly understood. Here, we report that germ cell-specific ablation of the meiosis-specific single-stranded DNA-binding protein MEIOB in mice causes premature chromosomal desynapsis in early pachytene spermatocytes, leading to their elimination before mid-pachytene. Mechanistically, MEIOB associates with SPO16 in vitro, and Spo16-deficient pachytene-like spermatocytes display comparable premature desynapsis and severely reduced MEIOB foci on chromosomal axes. Moreover, the recruitment of another ZZS component, TEX11, to recombination intermediates is markedly diminished in Meiob knockout pachytene spermatocytes. Together, our findings suggest that the MEIOB-SPATA22 complex may cooperate with SPO16 to support SC integrity and crossover formation during mammalian meiosis.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118103",
+    "date": "2026-11-02",
+    "authors": "Feng H, Jiang B, Gao Y, Zubair M, Hu L, Wang H, Wang X, Li M, Luo M, Sun J, Huo L, Liu D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43022385",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43022385",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3437,
+    "collected_at": "2026-11-14T03:13:11.939144+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1016/j.isci.2026.118103"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bf57aa5a86d4f9db5c23e9f8920a82a5161bebf2d6c4d24dd39243e644b7e27b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:48:20.023249+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "678f68f0b29488d4bfcdc7b78a57286f8887fd0368102bdf6cee88c0550f6072",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:48:20.023249+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ssDNA結合タンパク質MEIOBは、雄性減数分裂において組換え中間体を安定化させることで、シナプトネマ複合体の完全性を維持している。",
+    "abstract_ja": "シナプトネマル複合体（SC）は、相同染色体間の減数分裂組換えおよび交叉形成において不可欠である。酵母では、SCはZZS複合体（Zip2-Zip4-Spo16）によって構築・維持される。しかし、ZZS構成因子が染色体上でどのように動員・安定化されるのか、また哺乳類におけるオルソログ（SHOC1-TEX11-SPO16）が同様の役割を担っているのかについては、依然として十分に解明されていない。本研究では、マウスにおいて減数分裂特異的な一本鎖DNA結合タンパク質MEIOBを生殖細胞特異的に欠損させると、初期パキテン精母細胞において染色体の早期脱シナプシスが引き起こされ、パキテン中期前にこれらの細胞が排除されることを報告する。機序として、MEIOBはin vitroでSPO16と会合し、Spo16欠損型のパキテン様精母細胞では、同様の早期脱シナプシスと、染色体軸上におけるMEIOBフォーカスの著しい減少が認められる。さらに、別のZZS構成因子であるTEX11の組換え中間体への動員は、減数分裂ノックアウトパキテン精母細胞において著しく低下している。以上の知見を総合すると、MEIOB-SPATA22複合体がSPO16と協調して、哺乳類の減数分裂におけるSCの完全性と交叉形成を支えている可能性が示唆される。"
+  },
+  {
+    "id": "10.1186/s40168-026-02572-w",
+    "title": "Low-abundance taxa are associated with a refined rumen microbiome–resistome interplay in high-yielding dairy cows: an absolute abundance-based metagenomic perspective",
+    "abstract": "Background\n                     The rumen microbiota undergoes dynamic shifts in response to fluctuations in physiological stages and host-related factors, and has been associated with productive traits including milk yield, feed efficiency, and methane emissions. However, the ecological mechanisms underlying the relationship between microbial relative abundance, absolute abundance, and shifts in microbiota structure, and their connection to host production performance, remain incompletely understood. This study aimed to characterize the rumen microecological features across cows with divergent lactation performance, with particular emphasis on linking microbial absolute abundance, mobile genetic elements, and antibiotic resistance genes to productivity in high-yielding cows. In this study, rumen fluid was collected from 8 high-yielding cows and 8 low-yielding cows selected from 90 mid-lactation Holstein cows. Shotgun metagenomics with spike-in-based absolute quantification and untargeted metabolomics were employed to investigate the characteristics and potential associations and transmission patterns of rumen microbial communities and ARGs in cows with different milk yields.\n                  \n                     Results\n                     We observed that high-yielding cows exhibited stronger carbohydrate metabolism capacity, higher Chao1 and ACE indices, and lower total microbial absolute abundance. Moreover, high-yielding cows displayed reduced absolute abundances of bacteria and viruses, increased relative abundances of archaea and eukaryotes, and a more intricate microbial network architecture. These shifts were accompanied by a reduction in ARGs prevalence, particularly within peptide, elfamycin, and fluoroquinolone antibiotic categories, and were accompanied by a streamlined ARGs interaction network. Furthermore, the attenuation of ARGs was associated with reduced levels of MGEs, especially those linked to replication, phage activity, genetic transfer, and defense functions. These findings suggest potential associations among microbial structure, MGEs, and ARGs in the rumen ecosystem.\n                  \n                     Conclusion\n                     These findings indicate that complex microbial networks involving low-abundance taxa, together with a streamlined ARGs ecosystem, are associated with high milk yield in dairy cows. This perspective offers valuable implications for mitigating antibiotic resistance risks in intensive livestock systems and advancing efficient, healthy dairy production.\n                     \nVideo Abstract",
+    "journal": "Microbiome",
+    "doi": "10.1186/s40168-026-02572-w",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40168-026-02572-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiota",
+        "phage",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4452,
+    "collected_at": "2026-11-14T03:23:41.582958+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40168"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1186/s40168-026-02572-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3df97e5abad32f3e63fbed34369d6c88ea1e0d9ad63b1de98a15aedcea335c24",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:48:20.023249+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5d59b606eb14728175c1432eb8f5ba75dc6d796a3f4985d79d5a24531c07f631",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:48:20.023249+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "高産乳牛における低存在量菌群と精緻なルーメン微生物叢－レジストーム相互作用：絶対存在量に基づくメタゲノム的視点",
+    "abstract_ja": "背景\n                     ルーメン微生物叢は、生理的段階や宿主関連因子の変動に応じて動的に変化し、乳量、飼料効率、メタン排出量などの生産的形質との関連が指摘されてきた。しかし、微生物の相対存在量、絶対存在量、および微生物叢構造の変化の相互関係と、宿主の生産性能との関連性を支える生態学的メカニズムについては、依然として十分に解明されていない。本研究では、泌乳性能に差異のある牛におけるルーメン微小生態学的特性を明らかにすることを目的とし、特に高産乳牛における微生物の絶対存在量、可動性遺伝因子、および抗生物質耐性遺伝子と生産性との関連に着目した。本研究では、泌乳中期のホルスタイン牛90頭の中から選定した高産乳牛8頭および低産乳牛8頭からルーメン液を採取した。スパイクイン法に基づく絶対定量および非標的メタボロミクスを用いたショットガンメタゲノミクスにより、乳量の異なる牛におけるルーメン微生物群集およびARGの特性、ならびに潜在的な関連性と伝播パターンを調査した。\n                  \n                     結果\n                     高産乳牛では、炭水化物代謝能がより高く、Chao1およびACE指数が高く、微生物の総絶対存在量が少ないことが観察された。さらに、高産乳牛では細菌およびウイルスの絶対存在量が減少し、古細菌および真核生物の相対存在量が増加し、微生物ネットワーク構造がより複雑であった。これらの変化に伴い、特にペプチド系、エルファマイシン系、およびフルオロキノロン系抗生物質カテゴリーにおいてARGの存在量が減少し、ARG相互作用ネットワークが簡略化していた。さらに、ARGの減少は、MGE、特に複製、ファージ活性、遺伝子伝達、および防御機能に関連するMGEのレベル低下と関連していた。これらの知見は、ルーメン生態系における微生物構造、MGE、およびARGの間に潜在的な関連性があることを示唆している。\n                  \n                     結論\n                     これらの知見は、低存在量の分類群を含む複雑な微生物ネットワークと、簡略化されたARG生態系が、乳牛の高い乳量と関連していることを示している。この視点は、集約的な畜産システムにおける抗生物質耐性リスクの軽減、および効率的で健全な酪農生産の推進に重要な示唆を与えるものである。\n                     \nビデオ抄録"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cell.2026.10.012",
+    "title": "Cross-species multiomic atlas of the primate basal ganglia.",
+    "abstract": "The basal ganglia (BG) are conserved brain regions essential for motor control, learning, emotion, and cognition and are implicated in neurological and psychiatric disease, yet a unified cross-species taxonomy of BG cell types is lacking. We present a multiomic consensus atlas of 1.8 million nuclei from humans, macaques, and marmosets spanning eight BG structures, integrating gene expression, open chromatin, and spatial profiling. Alignment across species and to mouse and human whole-brain atlases identifies 61 homologous cell types conserved over 76 million years. Dorsal-ventral spatial identity is more conserved than D1/D2 receptor or striosome/matrix identity, and striatum (STR) D2 SMYD2-HTR7 spiny projection neurons have distinct molecular, electrophysiological, and morphological features. Cis-regulatory analysis reveals conserved sequence grammars that encode cell identity and inform viral targeting, and cell-type-resolved mapping localizes psychiatric and neurodegenerative risk to specific BG cell populations. This work provides a foundational resource for BG evolution, function, and disease.",
+    "journal": "Cell",
+    "doi": "10.1016/j.cell.2026.10.012",
+    "date": "2026-11-01",
+    "authors": "Johansen NJ, Fu Y, Schmitz M, Dubuc A, Kempynck N, Wirthlin M, Garcia AD, Hewitt M, Turner MA, Seeman SC, Long B, Liu XP, Budzillo A, Dan S, DeBerardine M, Kapen I, Yanny AM, Ding W, Avola A, Barlow ST, Bertagnolli D, Bhandiwad A, Nieto Caballero VE, Caceres L, Casper T, Chakka AB, Chakrabarty R, Clark M, Daniel S, Eggermont J, Ferrer R, French L, Gloe J, Goldy J, Guilford N, Guzman J, Hirschstein D, Ho W, James K, Jones DL, Jungert M, Kannan M, Kedzierska KZ, Kroes T, Leytze M, Manning A, McCue R, Morrison C, Nguy B, Otto S, Pena N, Pham T, Phillips E, Rajagopal A, Rimorin C, Rivera AD, Rocha D, Sanchez R, Schau G, Schembri J, Shapovalova NV, Sherman J, Thijssen J, Tieu M, Torkelson A, Tran A, Vieth A, Wang Y, Yuan D, Close J, Daigle TL, Dalley R, Dee N, Ding SL, Fiabane E, Gouwens N, Huynh G, Lee BR, Levi BP, McMillen D, Miller JA, Mollenkopf T, Ng L, Ray PL, Sobieski C, Sorensen SA, Yao Z, Yazdani F, Freiwald W, Ecker JR, Lelieveldt B, Kalmbach B, Keene CD, Gillis J, Osumi-Sutherland D, Ting JT, Zeng H, Smith K, Krienen FM, Hodge RD, Lein ES, Bakken TE.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43020019",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43020019",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3486,
+    "collected_at": "2026-11-14T03:13:11.939144+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1016/j.cell.2026.10.012"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cce0554089462deb004e925c4c7b6d076f94b0daec43a03ccdca9251f191daad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:48:20.023249+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "95943065d5d498d8ee3887c439cad75ab2eed7f913f5fef73a6b553f020bde95",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:48:20.023249+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "霊長類基底核の種間マルチオミクスアトラス",
+    "abstract_ja": "基底核（BG）は、運動制御、学習、情動、および認知に不可欠な保存された脳領域であり、神経疾患や精神疾患に関与しているが、BG細胞種の統一的な種横断的分類体系は未だ確立されていない。本研究では、遺伝子発現、オープンクロマチン、および空間プロファイリングを統合し、8つのBG構造にわたるヒト、マカクザル、およびマーモセット由来の180万個の核からなるマルチオミクス・コンセンサスアトラスを提示する。種間、およびマウスとヒトの全脳アトラスとのアライメントにより、7,600万年にわたって保存されてきた61種類の相同細胞種が同定された。背腹方向の空間的同一性は、D1/D2受容体や線条体/基質の同一性よりも保存されており、線条体（STR）D2 SMYD2-HTR7棘突起ニューロンは、分子生物学的、電気生理学的、および形態学的に明確な特徴を有する。シス調節解析により、細胞同一性を符号化しウイルス標的化の手がかりとなる保存された配列文法が明らかになり、細胞種分解能のマッピングによって、精神疾患および神経変性疾患のリスクが特定のBG細胞集団に局在することが示された。本研究は、BGの進化、機能、および疾患に関する基礎的なリソースを提供するものである。"
   }
 ]
