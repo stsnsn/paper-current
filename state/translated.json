@@ -9970,7 +9970,7 @@
     "id": "10.64898/2026.10.28.762191",
     "doi": "10.64898/2026.10.28.762191",
     "title": "A comparison of two culture and three sequencing methods for detection of the urobiome",
-    "abstract": "Standard urine culture (SUC), the clinical reference method, is optimized for fast-growing aerobes and misses much of the urinary microbiota. Enhanced culture and sequencing methods have rarely been compared on the same specimens. We compared five methods (SUC, expanded quantitative urine culture [EQUC], short-read V4 16S rRNA gene sequencing, long-read near full-length 16S rRNA gene sequencing, and PCR-free long-read shotgun metagenomic sequencing) on parallel aliquots of urine from pregnant participants screened for asymptomatic bacteriuria. Of 98 cultured samples, 98 (100.0%) were EQUC-positive while 85 (86.7%) SUC-positive. EQUC detected 102 species, but SUC only detected 41. Short-read 16S rRNA gene sequencing, long-read 16S rRNA gene sequencing, and shotgun sequencing were positive for 188/188, 186/188 and 139/139 samples, detecting 195, 69 and 528 species, respectively. In the 79 samples positive by EQUC and all three sequencing methods, sequencing profiles resembled each other more than culture profiles, and SUC captured only a subset of taxa detected by every other method. Shotgun sequencing gave the broadest taxonomic coverage and was the only sequencing method to identify Escherichia coli to the species level. With EQUC, it outperformed both 16S sequencing methods in detecting Gardnerella vaginalis and distinguishing Lactobacillus species, and it resolved six Gardnerella species, three detected by no other method. Long-read 16S rRNA gene sequencing gave the most confident amplicon-based species assignments, whereas culture better recovered Corynebacterium and Staphylococcus species. No single method was best across all endpoints, but long-read shotgun metagenomics provided the broadest species-level view. Method choice should match the research or clinical question; outcome-based studies are needed to establish clinical utility.",
+    "abstract": "ABSTRACT  Standard urine culture (SUC), the clinical reference method, is optimized for fast-growing aerobes and misses much of the urinary microbiota. Enhanced culture and sequencing methods have rarely been compared on the same specimens. We compared five methods (SUC, expanded quantitative urine culture [EQUC], short-read V4 16S rRNA gene sequencing, long-read near full-length 16S rRNA gene sequencing, and PCR-free long-read shotgun metagenomic sequencing) on parallel aliquots of urine from pregnant participants screened for asymptomatic bacteriuria. Of 98 cultured samples, 98 (100.0%) were EQUC-positive while 85 (86.7%) SUC-positive. EQUC detected 102 species, but SUC only detected 41. Short-read 16S rRNA gene sequencing, long-read 16S rRNA gene sequencing, and shotgun sequencing were positive for 188/188, 186/188 and 139/139 samples, detecting 195, 69 and 528 species, respectively. In the 79 samples positive by EQUC and all three sequencing methods, sequencing profiles resembled each other more than culture profiles, and SUC captured only a subset of taxa detected by every other method. Shotgun sequencing gave the broadest taxonomic coverage and was the only sequencing method to identify  Escherichia coli to the species level. With EQUC, it outperformed both 16S sequencing methods in detecting  Gardnerella vaginalis and distinguishing  Lactobacillus species, and it resolved six  Gardnerella species, three detected by no other method. Long-read 16S rRNA gene sequencing gave the most confident amplicon-based species assignments, whereas culture better recovered  Corynebacterium and  Staphylococcus species. No single method was best across all endpoints, but long-read shotgun metagenomics provided the broadest species-level view. Method choice should match the research or clinical question; outcome-based studies are needed to establish clinical utility.  IMPORTANCE  The microbes reported in a urine sample depend heavily on how that sample is analyzed. Standard urine culture, the test most clinical laboratories rely on, detected only a fraction of the bacteria found by enhanced culture or by DNA sequencing of the same specimens. Sequencing methods also differed from each other: short-read 16S rRNA gene sequencing captured broad diversity but often could not name species, whereas long-read methods distinguished clinically and ecologically important species. PCR-free long-read shotgun metagenomics detected the widest range of taxa and resolved species, such as  Escherichia coli and multiple  Gardnerella species, that amplicon methods could not. Because each method has distinct strengths and blind spots, detection methods should be chosen according to the question being asked, and sequencing-based diagnostics must be validated against patient outcomes before they can replace culture.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -9979,30 +9979,40 @@
       "10.64898/2026.10.28.762191"
     ],
     "date": "2026-11-03",
-    "authors": "Khemmani, M.; Noronha, M. F.; Pham, T.; Ferneyhough, B.; Roddis, M.; Parkinson, N. J.; Wolfe, A. J.",
+    "authors": "Khemmani M, Noronha MF, Pham TT, Ferneyhough B, Roddis MJ, Parkinson NJ, Wolfe AJ.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762191v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1357527",
     "sources": [
+      "Europe PMC genome methods",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
+        "16S rRNA",
         "16s rrna",
         "Escherichia",
+        "bacteria",
+        "metagenom",
         "metagenomic",
         "metagenomics",
-        "microbiota"
+        "method",
+        "microbe",
+        "microbes",
+        "microbiota",
+        "sequencing"
       ],
       "context": {
         "marine": [],
         "genomics": [
-          "metagenom"
+          "DNA",
+          "metagenom",
+          "metagenomic"
         ],
         "evolution": []
       },
@@ -10010,6 +10020,24 @@
         "微生物ゲノミクス"
       ]
     },
+    "collection_order": 160,
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "collected_at": "2026-11-06T00:00:00+09:00",
+    "collected_date": "2026-11-06",
     "translation": {
       "title": {
         "hash": "30687cca1acd88139a1c47f0de5dc84080280a2b748ac3a8d45762b1c17c9c8f",
@@ -10018,22 +10046,21 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "af1eb2dab198b2c4f8660cdee175295d386b9922b59d98bbafbfd13a85b53d88",
+        "hash": "e4a7cae85e77ae73c41f49aefd3d5915e4d8ac3f905633fb53ddcaae8ef806f5",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T14:22:06.410684+00:00",
+        "date": "2026-11-14T00:00:26.237279+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ウロバイオーム検出における2種類の培養法と3種類のシーケンシング手法の比較",
-    "abstract_ja": "臨床的参照法である標準尿培養（SUC）は、増殖の速い好気性菌に最適化されており、尿微生物叢の多くを捕捉できていない。同一検体を用いて、改良された培養法とシーケンシング法を比較した例は稀である。我々は、無症候性細菌尿のスクリーニングを受けた妊婦から採取した並列アリコート尿を用い、5つの手法（SUC、拡張定量尿培養［EQUC］、ショートリードV4 16S rRNA遺伝子シーケンシング、ロングリードほぼ全長16S rRNA遺伝子シーケンシング、およびPCRフリー・ロングリードショットガンメタゲノムシーケンシング）を比較した。培養した98検体のうち、98検体（100.0%）がEQUC陽性であり、85検体（86.7%）がSUC陽性であった。EQUCでは102種が検出されたが、SUCで検出されたのは41種のみであった。ショートリード16S rRNA遺伝子シーケンシング、ロングリード16S rRNA遺伝子シーケンシング、およびショットガンシーケンシングでは、それぞれ188/188検体、186/188検体、139/139検体が陽性となり、195種、69種、528種が検出された。EQUCおよび3つのシーケンシング法すべてで陽性となった79検体において、シーケンシングプロファイルは培養プロファイルよりも互いに類似しており、SUCは他のすべての手法で検出された分類群の一部しか捕捉できなかった。ショットガンシーケンシングは最も広範な分類学的網羅性を示し、大腸菌（Escherichia coli）を種レベルで同定できた唯一のシーケンシング法であった。EQUCでは、Gardnerella vaginalisの検出およびLactobacillus属種の識別において両方の16Sシーケンシング法を上回り、他のどの手法でも検出されなかった3種を含む6種のGardnerella属種を分離した。ロングリード16S rRNA遺伝子シーケンシングは、アンプリコンに基づく種同定において最も信頼性の高い結果を示したが、Corynebacterium属およびStaphylococcus属種の回収には培養法の方が優れていた。すべての評価項目において最適となる単一の手法はなかったが、ロングリード・ショットガンメタゲノミクスが最も広範な種レベルの知見を提供した。手法の選択は研究または臨床上の問いに合わせるべきであり、臨床的有用性を確立するにはアウトカムベースの研究が必要である。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "要旨　臨床参照法である標準尿培養法（SUC）は、増殖の速い好気性菌に対して最適化されており、尿微生物叢の多くを捕捉できていない。強化培養法とシーケンシング法を同一検体で比較した例は稀である。本研究では、無症候性細菌尿のスクリーニングを受けた妊婦の尿の並列分注検体を用い、5つの手法（SUC、拡張定量尿培養法［EQUC］、ショートリードV4 16S rRNA遺伝子シーケンシング、ロングリード近全長16S rRNA遺伝子シーケンシング、およびPCRフリー・ロングリードショットガンメタゲノムシーケンシング）を比較した。培養した98検体のうち、98検体（100.0%）がEQUC陽性であり、85検体（86.7%）がSUC陽性であった。EQUCでは102種が検出されたが、SUCでは41種のみであった。ショートリード16S rRNA遺伝子シーケンシング、ロングリード16S rRNA遺伝子シーケンシング、およびショットガンシーケンシングでは、それぞれ188/188、186/188、139/139検体で陽性となり、195、69、528種が検出された。EQUCおよび3つのシーケンシング法すべてで陽性となった79検体において、シーケンシングプロファイルは培養プロファイルよりも互いに類似しており、SUCは他のすべての手法で検出された分類群の一部しか捕捉できなかった。ショットガンシーケンシングは最も広範な分類学的網羅性を示し、大腸菌（Escherichia coli）を種レベルで同定できた唯一のシーケンシング法であった。EQUCでは、Gardnerella vaginalisの検出およびラクトバチルス（Lactobacillus）属の種の識別において両方の16Sシーケンシング法を上回り、他のどの手法でも検出されなかった3種を含む6種のGardnerella属を同定した。ロングリード16S rRNA遺伝子シーケンシングは、アンプリコンに基づく種の割り当てにおいて最も信頼性の高い結果を示したが、培養法はコリネバクテリウム（Corynebacterium）属およびブドウ球菌（Staphylococcus）属をより良好に回収できた。すべての評価項目において最適となる単一の手法はなかったが、ロングリード・ショットガンメタゲノミクスが最も広範な種レベルの知見を提供した。手法の選択は研究または臨床上の問いに合わせるべきであり、臨床的有用性を確立するにはアウトカムベースの研究が必要である。重要性　尿検体で報告される微生物は、その検体がどのように分析されるかに大きく依存する。ほとんどの臨床検査室が依拠している標準尿培養法では、同一検体の強化培養法やDNAシーケンシング法で検出された細菌のごく一部しか検出できなかった。シーケンシング法同士にも相違があった。ショートリード16S rRNA遺伝子シーケンシングは広範な多様性を捕捉したが、種名を特定できないことが多く、一方でロングリード法は臨床的および生態学的に重要な種を識別できた。PCRフリー・ロングリード・ショットガンメタゲノミクスは、最も広範な分類群を検出し、アンプリコン法では検出できなかった大腸菌や複数のGardnerella属などの種を同定した。各手法には固有の強みと盲点があるため、検出法は問いに応じて選択されるべきであり、シーケンシングに基づく診断法は、培養法に取って代わる前に、患者のアウトカムに照らして検証されなければならない。"
   },
   {
     "id": "10.64898/2026.11.02.763701",
     "doi": "10.64898/2026.11.02.763701",
-    "title": "Description of Alternaria kierstenii sp. nov. from invasive garlic mustard highlights agricultural biosecurity risks of foreign weeds as pathogen reservoirs",
-    "abstract": "Invasive weeds can increase agricultural biosecurity risks by serving as reservoirs for emerging or undercharacterized plant pathogens. Garlic mustard (Alliaria petiolata), an invasive brassicaceous weed in North America, occurs near agricultural landscapes and is susceptible to multiple crop pathogens. A previously undescribed Alternaria species was isolated from a diseased garlic mustard population in Maryland, USA, prompting investigation of its taxonomy, origins, and host range. De novo genome sequencing produced a near-chromosome scale assembly of 35.8 Mb comprising 17 contigs. Comparative genomic analyses with other crucifer-infecting Alternaria species revealed expanded repertoires of predicted CAZymes and peptidases, as well as unique effectors and biosynthetic gene clusters. Phylogenetic and comparative analyses supported recognition of this fungus as Alternaria kierstenii sp. nov., representing a distinct lineage within section Sonchi. Host range assays demonstrated that A. kierstenii was highly aggressive on diverse hosts in the Brassicaceae, including vegetable, ornamental, cover crop, and invasive species. The disease caused by this new pathogen manifested as foliar and stem lesions, chlorosis, necrosis, leaf death, and, in several hosts, rapid plant mortality. Amplicon sequence data from a nationwide garlic mustard microbiome study detected closely related taxa only in the plants from the eastern states of Maryland, Pennsylvania, and New York, suggesting a geographically restricted population consistent with expectations for a potentially emerging pathogen. The description of this phylogenetically unique, broad host range pathogen demonstrates the potential for widespread invasive weeds to harbor pathogens and pathogen genomic diversity with agricultural relevance, underscoring the hidden biosecurity risk of understudied invasive weeds.",
+    "title": "Description of  Alternaria kierstenii  sp. nov. from invasive garlic mustard highlights agricultural biosecurity risks of foreign weeds as pathogen reservoirs",
+    "abstract": "ABSTRACT  Invasive weeds can increase agricultural biosecurity risks by serving as reservoirs for emerging or undercharacterized plant pathogens. Garlic mustard (  Alliaria petiolata ), an invasive brassicaceous weed in North America, occurs near agricultural landscapes and is susceptible to multiple crop pathogens. A previously undescribed  Alternaria species was isolated from a diseased garlic mustard population in Maryland, USA, prompting investigation of its taxonomy, origins, and host range.  De novo genome sequencing produced a near-chromosome scale assembly of 35.8 Mb comprising 17 contigs. Comparative genomic analyses with other crucifer-infecting  Alternaria species revealed expanded repertoires of predicted CAZymes and peptidases, as well as unique effectors and biosynthetic gene clusters. Phylogenetic and comparative analyses supported recognition of this fungus as  Alternaria kierstenii sp. nov., representing a distinct lineage within section  Sonchi. Host range assays demonstrated that  A. kierstenii was highly aggressive on diverse hosts in the Brassicaceae, including vegetable, ornamental, cover crop, and invasive species. The disease caused by this new pathogen manifested as foliar and stem lesions, chlorosis, necrosis, leaf death, and, in several hosts, rapid plant mortality. Amplicon sequence data from a nationwide garlic mustard microbiome study detected closely related taxa only in the plants from the eastern states of Maryland, Pennsylvania, and New York, suggesting a geographically restricted population consistent with expectations for a potentially emerging pathogen. The description of this phylogenetically unique, broad host range pathogen demonstrates the potential for widespread invasive weeds to harbor pathogens and pathogen genomic diversity with agricultural relevance, underscoring the hidden biosecurity risk of understudied invasive weeds.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -10042,28 +10069,33 @@
       "10.64898/2026.11.02.763701"
     ],
     "date": "2026-11-03",
-    "authors": "Sawyer, C.; Thomas, J. L.; Groben, G.; Fulcher, M. R.; Tancos, M.",
+    "authors": "Sawyer C, Thomas JL, Groben G, Fulcher MR, Tancos MA.",
     "tags": [
       "微生物ゲノミクス",
       "微生物進化"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.02.763701v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1359006",
     "sources": [
+      "Europe PMC bioinformatics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "microbiome"
       ],
       "context": {
         "marine": [],
         "genomics": [
+          "assembly",
           "genom",
-          "phylogen"
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
         ],
         "evolution": [
           "phylogenetic"
@@ -10074,24 +10106,41 @@
         "微生物進化"
       ]
     },
+    "collection_order": 161,
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "collected_at": "2026-11-06T00:00:00+09:00",
+    "collected_date": "2026-11-06",
     "translation": {
       "title": {
-        "hash": "e7bf724dffa60a99beaf9839494d962b09f052a394b3207b2e8e8490f0e48b78",
+        "hash": "b4c6915fae00b5c2c4f05e58d560047dba1ea254087db8327298e124839c1412",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T14:22:06.410684+00:00",
+        "date": "2026-11-14T00:00:26.237279+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "9e59c36f0ed88d41bd8cecf7452590ab91a14b004c06be83692c30ddd41477c6",
+        "hash": "f90d42cb6f00dc9deb287aad07ea50a6a7f24210f0e342d33acdff49754d6b30",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T14:22:06.410684+00:00",
+        "date": "2026-11-14T00:00:26.237279+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "侵入種ニンニクナタネ由来のAlternaria kierstenii sp. nov.の記載は、病原体リザーバーとしての外来雑草がもたらす農業バイオセキュリティ上のリスクを浮き彫りにしている。",
-    "abstract_ja": "侵入雑草は、新興または特性が十分に解明されていない植物病原体のリザーバーとなることで、農業バイオセキュリティ上のリスクを増大させる可能性がある。北米におけるアブラナ科の侵入雑草であるニンニクカラシ（Alliaria petiolata）は、農業景観の近傍に分布し、複数の作物病原体に感受性を示す。米国メリーランド州の病害ニンニクカラシ集団から、これまで記載されていなかったAlternaria属の一種が分離されたため、その分類、起源、および宿主範囲に関する調査が行われた。de novoゲノムシーケンシングにより、17個のコンティグからなる35.8 Mbのほぼ染色体スケールのアセンブリが得られた。他のアブラナ科感染性Alternaria属種との比較ゲノム解析により、予測されるCAZymesおよびペプチダーゼのレパートリーの拡大に加え、固有のエフェクターや生合成遺伝子クラスターの存在が明らかになった。系統解析および比較解析により、本菌はSonchi節内の独立した系統を代表するAlternaria kierstenii sp. nov.として認識された。宿主範囲試験では、A. kiersteniiが野菜、観賞用植物、被覆作物、および侵入種を含むアブラナ科の多様な宿主に対して極めて強い攻撃性を示すことが実証された。この新規病原体による病害は、葉および茎の病斑、クロロシス、壊死、葉の枯死、そして一部の宿主では急速な植物死亡として現れた。全米規模のニンニクカラシ・マイクロバイオーム研究から得られたアンプリコン配列データでは、メリーランド州、ペンシルベニア州、およびニューヨーク州の東部諸州の植物においてのみ近縁の分類群が検出され、潜在的に新興する病原体に期待される通り、地理的に限定された集団であることが示唆された。系統的に特異で宿主範囲が広い本病原体の記載は、広範な侵入雑草が農業上重要な病原体や病原体ゲノムの多様性を保持し得る可能性を示しており、研究が進んでいない侵入雑草が持つ潜在的なバイオセキュリティリスクを浮き彫りにしている。",
-    "discovery": []
+    "title_ja": "侵入種ニンニクナズナ由来のAlternaria kierstenii sp. nov.の記載は、病原体リザーバーとしての外来雑草がもたらす農業バイオセキュリティ上のリスクを浮き彫りにしている。",
+    "abstract_ja": "要旨　侵入雑草は、新興または特性が十分に解明されていない植物病原体のリザーバーとなることで、農業バイオセキュリティ上のリスクを増大させる可能性がある。北米の侵入性アブラナ科雑草であるニンニクカラシ（Alliaria petiolata）は、農業景観の近傍に分布し、複数の作物病原体に対して感受性を示す。米国メリーランド州の病害ニンニクカラシ集団から、これまで記載されていなかったAlternaria属の一種が分離されたため、その分類、起源、および宿主範囲に関する調査が行われた。de novoゲノムシーケンシングにより、17個のコンティグからなる35.8 Mbのほぼ染色体スケールのアセンブリが得られた。他のアブラナ科感染性Alternaria属種との比較ゲノム解析により、予測されるCAZymesおよびペプチダーゼのレパートリーの拡充に加え、固有のエフェクターや生合成遺伝子クラスターが明らかになった。系統解析および比較解析により、本菌はSonchi節内の独立した系統を代表するAlternaria kierstenii sp. nov.として認識された。宿主範囲試験の結果、A. kiersteniiは、野菜、観賞用植物、被覆作物、および侵入種を含むアブラナ科の多様な宿主に対して極めて強い攻撃性を示すことが実証された。この新規病原体による病害は、葉および茎の病斑、クロロシス、壊死、葉の枯死、および一部の宿主における急速な植物死亡として現れた。全米規模のニンニクカラシ・マイクロバイオーム研究によるアンプリコン配列データでは、メリーランド州、ペンシルベニア州、およびニューヨーク州の東部諸州の植物においてのみ近縁の分類群が検出され、潜在的な新興病原体に期待される通り、地理的に限定された集団であることが示唆された。系統的に特異で宿主範囲の広い本病原体の記載は、広範に分布する侵入雑草が農業的に重要な病原体や病原体ゲノムの多様性を保持し得る可能性を示しており、研究が進んでいない侵入雑草に潜むバイオセキュリティ上のリスクを浮き彫りにしている。"
   },
   {
     "id": "10.64898/2026.11.02.763672",
@@ -199128,5 +199177,148 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "HIV-1 ASP相互作用因子のプロテオミクススクリーニングにより、宿主細胞の恒常性に対する多面的な影響が明らかになった。",
     "abstract_ja": "HIV-1のアンチセンス遺伝子aspが同定されてから40年近くが経過した現在も、そのタンパク質産物の機能は依然として不明である。生体内でのASP発現の証拠や、パンデミックHIV-1株間におけるasp遺伝子の高い保存性は、ウイルスにとって有益な役割を果たしていることを示唆している。質量分析（MS）を用いたASP相互作用因子のプロテオミクススクリーニングにより、核、細胞質、およびミトコンドリアの宿主因子を同定し、これらは細胞内におけるASPの多様な局在と一致していた。MSスクリーニングで同定された宿主因子の大部分は、DNA損傷修復、細胞内タンパク質輸送、ミトコンドリア機能、およびタンパク質翻訳を含む、宿主細胞の恒常性に不可欠な経路に関与している。これらの知見の生物学的意義を検証するため、我々は、ASPが核へシャトル輸送されることで、遺伝毒性ストレスに応答してDNA損傷修復と細胞生存能を促進することを実証した。また、ASPが細胞呼吸に関与するミトコンドリア符号化宿主タンパク質の翻訳を促進し、ミトコンドリア膜電位の維持に寄与していることを見出した。以上の研究を総合すると、ASPは感染細胞における細胞恒常性の2つの主要な経路の調節因子であることが明らかとなり、これはHIV-1の持続性、拡散、およびウイルスリザーバーの長期生存に直接的な影響を及ぼす。"
+  },
+  {
+    "id": "10.64898/2026.11.10.765358",
+    "title": "Development of a core genome Multilocus Sequence Typing (cgMLST) and Life Identification Number (LIN) code schema for the Burkholderia cepacia complex",
+    "abstract": "Background The Burkholderia cepacia complex (Bcc) currently comprises over 20 closely related species; however, understanding Bcc population biology is complicated due to the continual advances in taxonomy and diversity driven by extensive horizontal gene transfer (HGT). Whilst there are conventional typing schemes for the Bcc, including Multilocus Sequence Typing (MLST), there remains a gap for fine-scale resolution typing of the species complex. Here, we present a 1,925 loci core genome MLST (cgMLST) and 14-digit Life Identification Number (LIN) barcoding scheme for the Bcc, that is embedded in the PubMLST database (https://PubMLST.org/organisms/burkholderia-cepacia-complex). Methods A dataset of 142 complete Bcc genomes spanning 19 species were downloaded from NCBI to develop the draft cgMLST scheme (Dataset 1). Two pangenome tools (PIRATE and PEPPAN) were then combined to give a consensus core gene list from Dataset 1. The 'core genes' from these outputs were then screened against the PubMLST loci, using a sequence tag scan, to identify their presence and curate new alleles. The core genes were then validated using a larger Bcc dataset (n = 934 genomes; 22 species) on PubMLST, which had been filtered for high-quality ([≤]200 contigs and 100% ribosomal MLST confidence). This refined the core gene list, ensuring a robust and reliable scheme using a threshold of 99% to classify the gene as 'core'. The population structure of the Bcc was subsequently analysed using the validation dataset to identify genetic clusters using ReporTree. Combined with statistical analysis, 14 allelic mismatch thresholds were identified for the LIN codes. Results The Bcc cgMLST scheme consists of 1,925 loci, which have been designated an arbitrary 'BCC' identifier. The cgMLST scheme and 14-threshold LIN code has been implemented in PubMLST and are publicly available for use. The Bcc genomes in the PubMLST database have been assigned cgSTs and LIN codes. Use cases of the LIN codes were validated using three previously published datasets, which spanned both outbreak investigation and phylogenomic lineage structures. Conclusions This stable, hierarchical LIN code nomenclature enhanced the ability to cluster isolates at multiple levels of resolution with examples overlayed on published datasets provided. The LIN code system is also backwards compatible with previous MLST and clonal complex (CC) nomenclature. Overall, the updated typing scheme will facilitate improve global public health through surveillance of the Bcc epidemiology including source tracing and outbreak investigation",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765358",
+    "date": "2026-11-11",
+    "authors": "Parfitt, K. M., Jolley, K. A., Peeters, C., Krisna, M. A., Mahenthiralingam, E., Maiden, M. C. J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765358v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "pangenom",
+          "pangenome",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3928,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.10.765358"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3e96171bc2738b21bbf88fb51c97d23e0872b8c805ffd7c6256812bb10b61514",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:00:26.237279+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eeef2bc7ea0428227458d59fe79d6434799dc9dbe8acb8b5f2264c6f9c70b299",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:00:26.237279+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Burkholderia cepacia複合体におけるコアゲノム多遺伝子座配列型判定（cgMLST）およびライフ識別番号（LIN）コードスキームの開発",
+    "abstract_ja": "背景 Burkholderia cepacia複合体（Bcc）は現在、近縁な20種以上の種で構成されているが、広範な水平遺伝子転移（HGT）に伴う分類学および多様性の絶え間ない進展により、Bccの集団生物学の理解は困難となっている。多遺伝子座配列型判定（MLST）を含むBccの従来の型別スキームは存在するものの、本種複合体の微細解像度型別においては依然として課題が残っている。本報では、PubMLSTデータベース（https://PubMLST.org/organisms/burkholderia-cepacia-complex）に組み込まれた、Bcc向けの1,925遺伝子座コアゲノムMLST（cgMLST）および14桁のLife Identification Number（LIN）バーコーディングスキームを提案する。方法 19種にわたる142個の完全なBccゲノムのデータセットをNCBIからダウンロードし、cgMLSTスキームのドラフト版を開発した（データセット1）。次に、2つのパンゲノムツール（PIRATEおよびPEPPAN）を組み合わせ、データセット1からコンセンサスコア遺伝子リストを導出した。これらの出力から得られた「コア遺伝子」を、配列タグスキャンを用いてPubMLSTの遺伝子座と照合し、その存在を特定して新規アレルをキュレートした。その後、高品質（[≤]200コンティグかつリボソームMLST信頼度100%）にフィルタリングされたPubMLST上のより大規模なBccデータセット（n = 934ゲノム、22種）を用いて、コア遺伝子の検証を行った。これにより、遺伝子を「コア」として分類するための閾値を99%に設定し、堅牢で信頼性の高いスキームとしてコア遺伝子リストを精緻化した。続いて、検証データセットを用いてBccの集団構造を解析し、ReporTreeを用いて遺伝的クラスターを同定した。統計解析と組み合わせることで、LINコードに対して14種類のアレルミスマッチ閾値を特定した。結果 Bcc cgMLSTスキームは1,925個の遺伝子座で構成され、それぞれに任意の「BCC」識別子が割り当てられた。cgMLSTスキームおよび14閾値のLINコードはPubMLSTに実装され、一般に利用可能となっている。PubMLSTデータベース内のBccゲノムには、cgSTおよびLINコードが割り当てられている。LINコードのユースケースは、アウトブレイク調査と系統ゲノム系統構造の両方を網羅する、既報の3つのデータセットを用いて検証された。結論 この安定した階層型LINコード命名法により、複数の解像度レベルで分離株をクラスター化する能力が向上し、提供された既報データセット上に例が重ね合わせて表示されている。また、LINコードシステムは、従来のMLSTおよびクローン複合体（CC）命名法との後方互換性を有している。総じて、更新された型別スキームは、発生源追跡やアウトブレイク調査を含むBccの疫学サーベイランスを通じて、世界的な公衆衛生の向上に寄与するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.10.765554",
+    "title": "Preclinical Development of Enterobacter ludwigii LS57, a Human-Derived Swarming Strain, as a Live Biotherapeutic Product for Inflammatory Bowel Disease",
+    "abstract": "Inflammatory Bowel Disease (IBD) remains an area of major unmet need, and the undefined composition and manufacturing burden of fecal microbiota transplantation have motivated a shift toward single-strain Live Biotherapeutic Products (LBPs). Swarming bacteria are enriched in the stressed gut and limit mucosal damage, but no human-derived swarming strain has been developed as an LBP. We therefore report the complete preclinical development of Enterobacter ludwigii LS57, a swarming strain isolated from human feces. Chemistry, Manufacturing and Controls (CMC) covered a three-tier cell bank, 30 L fed-batch fermentation and a colon-targeted enteric-coated capsule, enabling consistent pilot-scale production. No treatment-related findings emerged in safety pharmacology (Sprague-Dawley rats) or in single-dose and Good Laboratory Practice (GLP)-compliant 1-week repeat-dose toxicity studies (Sprague-Dawley rats and Beagle dogs). LS57 was identified as E. ludwigii by 16S rRNA and whole-genome sequencing and produced metabolites with reported anti-inflammatory activity in culture. In Dextran Sulfate Sodium (DSS)-induced colitis, LS57 reduced weight loss, preserved colon length, lowered colonic pro-inflammatory cytokines and remodeled the gut microbiota. It also attenuated Trinitrobenzene Sulfonic Acid (TNBS)-induced colitis and enhanced the effect of ciclosporin A. In vitro, LS57 was non-hemolytic, non-cytotoxic, and acid-labile, formed no biofilm, and its resistance to aminopenicillins, cephamycins and imipenem was not transferable by conjugation. In vivo, LS57 colonized the inflamed colon without translocation in wild-type and interleukin-10-deficient mice, and experimental bacteremia was treatable with gentamicin or levofloxacin. LS57 combines efficacy across two mechanistically distinct colitis models with a safety package that addresses the principal regulatory concerns for LBPs, and a scalable manufacturing process, compatible with current good manufacturing practice, in which enteric coating overcomes the strain's poor gastric survival. These data support clinical development of LS57 in IBD.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765554",
+    "date": "2026-11-11",
+    "authors": "Chen, W., Zhu, C., Guo, Y., Yang, W., Zhang, Y., Qu, Z., Wang, M., Gong, S., Wu, S., Zhu, L., Feng, L., Liu, L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765554v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3929,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.10.765554"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d5bcee307b556b1b295b37832c92b616a41acaec26f05f9fb324d554721b013a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:00:26.237279+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cd66d5208df2d644290930b35a2e983156935400c01ac38a5a963d82cb30ad2f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:00:26.237279+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "炎症性腸疾患の生体内バイオ治療薬としてのヒト由来群集性菌株Enterobacter ludwigii LS57の前臨床開発",
+    "abstract_ja": "炎症性腸疾患（IBD）は依然として重大なアンメットニーズの領域であり、糞便微生物移植における組成および製造負荷が未解明であることから、単一菌株のライブバイオセラピューティック製品（LBP）への移行が促されてきた。群生細菌はストレス状態の腸管内で増殖し、粘膜損傷を抑制するが、LBPとして開発されたヒト由来の群生菌株は存在しない。そこで我々は、ヒト糞便から単離した群生菌株であるEnterobacter ludwigii LS57の完全な前臨床開発について報告する。化学・製造・管理（CMC）では、3層構造のセルバンク、30 Lの流加式発酵、および結腸標的型腸管コーティングカプセルを用い、一貫したパイロットスケール生産を実現した。安全性薬理学（Sprague-Dawleyラット）、および単回投与およびGLP（適正試験実施基準）準拠の1週間反復投与毒性試験（Sprague-Dawleyラットおよびビーグル犬）において、治療に関連する所見は認められなかった。LS57は16S rRNAおよび全ゲノムシーケンシングによりE. ludwigiiと同定され、培養下で抗炎症活性が報告されている代謝物を産生した。デキストラン硫酸ナトリウム（DSS）誘発性結腸炎において、LS57は体重減少を抑制し、結腸長を維持し、結腸の炎症性サイトカインを低下させ、腸内細菌叢を再構築した。また、トリニトロベンゼンスルホン酸（TNBS）誘発性結腸炎を軽減し、シクロスポリンAの効果を増強した。in vitroにおいて、LS57は非溶血性、非細胞毒性、酸不安定性であり、バイオフィルムを形成せず、アミノペニシリン系、セファマイシン系、およびイミペネム系に対する耐性は接合により伝播しなかった。in vivoにおいて、LS57は野生型およびインターロイキン-10欠損マウスの炎症を起こした結腸に定着し、移行は認められず、実験的菌血症はゲンタマイシンまたはレボフロキサシンで治療可能であった。LS57は、機序的に異なる2つの結腸炎モデルにわたる有効性と、LBPにおける主要な規制上の懸念に対処する安全性プロファイル、および現在の適正製造基準に適合し、腸管コーティングによって菌株の胃内生存率の低さを克服した拡張可能な製造プロセスを兼ね備えている。これらのデータは、IBDにおけるLS57の臨床開発を支持するものである。"
   }
 ]
