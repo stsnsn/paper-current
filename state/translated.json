@@ -226754,5 +226754,364 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "検証可能な深層学習：スマートコントラクトを活用した分散型台帳上のモデル整合性とプロバナンス",
     "abstract_ja": "要旨  深層学習のアーティファクトは、データセット、前処理パイプライン、チェックポイント、評価設定、およびデプロイ済みバージョンが異なる主体によって管理され得る、長期かつ可変的なライフサイクルを辿る。ハッシュアンカリングは個々のバイトの改ざん検知を可能にするが、チェックポイントが認可されたデータから導出されたことや、その主張された計算が実際に行われたことを立証するものではない。本稿では、モデルの進化を型付けされポリシー制約のある遷移システムとして扱う、プロベナンス連動型検証仕様であるProofWeaveを提案する。各遷移は、コンテンツのコミットメント、認証済みの親参照、バージョンルール、および明示的なエビデンス義務を紐付ける。提案するコントラクト状態マシンは、ポリシー的に妥当な遷移のみを許容する。我々は、健全な外部証明バックエンドを前提とした完全な計算証明と、有限母集団検出限界を持つ確率的なコミット済みステップ監査を区別する。透明性の高い評価のため、ライブブロックチェーンやゼロ知識証明サービスではなく、ローカルな整合性プロトタイプを実装した。3つの公開データセットを用いて7種類の決定論的な整合性フォールトタイプを評価し、4つのネストされたバリデータが、議論した9つの広範な脅威クラスのうち2、4、6、および7をカバーしている。本質的なセキュリティ境界を明らかにするため、さらに7つのランダムシードと5つの制御された学習ラベル破損率を用いて、105回の実際のMLP学習ランを実施した。ハッシュ/署名マイクロベンチマークおよび最大65,536葉のメルクルツリーにより、ローカルなスケーリング特性を評価した。制御されたモンテカルロ監査研究により、ローカルな測定とは別に、コミット済みステップサンプリング下での確率的検出を定量化した。本エビデンスは、予備的なプロベナンスチェックの正当性を裏付け、その限界を定量化するものであり、オンチェーンコストやエンドツーエンドで検証可能なニューラル学習を立証するものではない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11578744/v1",
+    "title": "Increased Zoonotic Risk Posed by Emerging Haemagglutinin Variants of Clade 2.3.4.4b A(H5Nx) High Pathogenicity Avian Influenza Virus",
+    "abstract": "Abstract  High pathogenicity avian influenza viruses (HPAIVs) remain a major threat to animal and human health. The clade 2.3.4.4b H5Nx panzootic has been marked by increasing cross-species adaptation, including outbreaks in dairy cattle. The surge in mammalian infections in both wild and captive populations heighten concerns about zoonotic and pandemic potential. Here, we analyse haemagglutinin (HA) evolution in clade 2.3.4.4b H5Nx viruses from 2020 to 2025, focusing on key residues within the receptor-binding domain. We identify HA E185K (mature H5 HA numbering; E189K in H3 numbering) as a novel immune escape mutation that confers increased binding to avian- and human-type sialic acid receptors. Strikingly, this mutation is increasingly prevalent in cattle-derived H5N1 viruses and enhances binding to human-like receptors. However, ferret studies demonstrated that whilst pathogenicity of the E185K virus was comparable to the cattle derived isolate, the E185K mutation did not confer transmission to direct or indirect contact ferrets. Our results reveal a mechanism linking immune escape with expanded receptor specificity, highlighting a potential pathway for mammalian adaptation. These findings underscore the need for continued surveillance of evolving H5Nx viruses to mitigate emerging zoonotic threats.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11578744/v1",
+    "date": "2026-11-03",
+    "authors": "Iqbal M, Yang J, Billington E, Harvey W, Riccio S, Johnson S, Valdez, Klim H, Sukhova K, Yu J, Karunarathna T, Qureshi M, Richardson S, Carter T, Hassan J, Genova C, Ward G, Roper K, Sadeyen J, Hawkins D, Masonou T, Woodall M, Smith C, Liu Y, Slomka M, Banyard A, Peacock T, Brown I, Digard P, Lycett S, Barclay W, James J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356045",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3051,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11578744/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0e14c8f19e37fb6beef55c16a3f78b14b3af6afbb9bf8ed29dfb049b2c595389",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:30:17.711053+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b3e48803c218314d704e5063a586f967d8fb9b84468368add469af7ee6a71c2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:30:17.711053+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クレード2.3.4.4b A(H5Nx)高病原性鳥インフルエンザウイルスの新興ヘマグルチニン変異株による人獣共通感染リスクの増大",
+    "abstract_ja": "要旨　高病原性鳥インフルエンザウイルス（HPAIVs）は、依然として動物およびヒトの健康に対する重大な脅威となっている。クレード2.3.4.4b H5Nxパンズー病は、乳牛におけるアウトブレイクを含む、種を越えた適応の進展が顕著である。野生個体群および飼育個体群の双方における哺乳類感染の急増は、人獣共通感染およびパンデミックの可能性に対する懸念を高めている。本研究では、2020年から2025年にかけてのクレード2.3.4.4b H5Nxウイルスにおけるヘマグルチニン（HA）の進化を、受容体結合ドメイン内の主要残基に着目して解析した。我々は、HA E185K（成熟H5 HA番号体系ではE189K、H3番号体系ではE189K）を、鳥類型およびヒト型シアル酸受容体への結合能を高める新規の免疫逃避変異として同定した。特筆すべきことに、この変異はウシ由来H5N1ウイルスにおいてますます高頻度に認められ、ヒト型受容体への結合能を向上させている。しかし、フェレットを用いた研究では、E185Kウイルスの病原性はウシ由来分離株と同等であったものの、E185K変異は直接または間接接触によるフェレットへの伝播をもたらさないことが示された。本研究の結果は、免疫逃避と受容体特異性の拡大を結びつけるメカニズムを明らかにしており、哺乳類への適応の潜在的な経路を浮き彫りにしている。これらの知見は、新たに出現する人獣共通感染の脅威を軽減するため、進化し続けるH5Nxウイルスの継続的なサーベイランスの必要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.01.763356",
+    "title": "Isolation and characterization of diverse Veillonella phages reveal novel lineages and distinct host interactions",
+    "abstract": "The human oral microbiome is diverse and home to many species of bacteria, archaea, microeukaryotes, fungi and viruses. Homeostasis in the oral microbiome is important for health and dysbiosis in these communities leads to periodontal and systemic diseases. Veillonella are gram-negative, anaerobic, lactate-fermenting early colonizers of the mouth and are abundant in healthy oral microbiomes. Although considered commensals, Veillonella serve as bridging species in dental biofilms, promoting later colonization by pathogens, with mounting evidence supporting their roles as accessory pathogens in dental caries and periodontal disease. Bacteriophages are key regulators of bacterial community composition and are important drivers of microbial diversity, evolution, and ecology of the oral environment. Despite the ecological importance of Veillonella in the oral microbiome, phages infecting Veillonella remain largely uncharacterized. Here, we report the isolation of ten phages infecting natural isolates of three Veillonella species, representing seven distinct phage genomes. These phages exhibit diverse morphologies, genome organizations, and host ranges, with infection restricted to strains within the species of isolation. Several phages establish stable lysogeny, confer resistance to superinfection, and differ substantially in spontaneous production of infectious phage progeny. Genetic analysis of resistant mutants implicates lipopolysaccharide O-antigen as the receptor for one phage. Although none of the isolated phages had close matches in existing oral virome catalogs, related sequences were detected in oral metagenomes from geographically diverse populations. Together, these findings establish an experimentally characterized collection of Veillonella phages and connect previously uncharacterized oral viral diversity to bacterial hosts and infection phenotypes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.01.763356",
+    "date": "2026-11-02",
+    "authors": "Basu A, Lee H, Fenner J, Ruan J, Gaulke C, Vanderpool CK.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357826",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "fungi",
+        "metagenom",
+        "metagenomes",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "phage",
+        "phages",
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.01.763356"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bfcf4704dc7ed29564281194ad0dd6ffc1344c23d52b08fbd48e9da8a9737076",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:30:17.711053+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "418e0e190a8132b2e23c5388bfed8b8056012823358b8946d4cde0afffdeff62",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:30:17.711053+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多様なVeillonellaファージの単離および特性解析により、新規系統と特異的な宿主相互作用が明らかになった。",
+    "abstract_ja": "ヒト口腔マイクロバイオームは多様であり、多くの種の細菌、古細菌、微小真核生物、真菌、およびウイルスが生息している。口腔マイクロバイオームの恒常性は健康にとって重要であり、これらの群集におけるディスバイオーシスは歯周病や全身性疾患を引き起こす。Veillonella属はグラム陰性、嫌気性、乳酸発酵性の口腔初期定着菌であり、健康な口腔マイクロバイオームに豊富に存在する。常在菌とされるものの、Veillonella属は歯科バイオフィルムにおけるブリッジ種として機能し、その後の病原体の定着を促進する。また、う蝕や歯周病における補助病原体としての役割を支持する証拠が蓄積されつつある。バクテリオファージは細菌群集組成の主要な調節因子であり、口腔環境における微生物の多様性、進化、および生態の重要な駆動要因である。口腔マイクロバイオームにおけるVeillonella属の生態学的重要性にもかかわらず、Veillonella属に感染するファージの特性はほとんど解明されていない。本報では、3種のVeillonella属の天然分離株に感染する10種類のファージの単離について報告する。これらは7つの異なるファージゲノムを代表している。これらのファージは多様な形態、ゲノム構成、および宿主範囲を示し、感染は単離された種内の株に限定されている。いくつかのファージは安定した溶原性を示し、二重感染に対する耐性を付与し、感染性ファージ子孫の自然産生においても著しく異なる。耐性変異体の遺伝子解析により、あるファージの受容体としてリポ多糖O抗原が関与していることが示唆された。単離されたファージのいずれも既存の口腔ウイルス叢カタログに密接に一致するものは認められなかったが、地理的に多様な集団由来の口腔メタゲノムにおいて関連配列が検出された。以上の知見を総合すると、実験的に特性解析されたVeillonella属ファージのコレクションが確立され、これまで特性解析されていなかった口腔ウイルスの多様性が、細菌宿主および感染表現型と結びつけられることになる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11389263/v1",
+    "title": "Genomic and ecological specialization of Methanobrevibacter species shape human methane emission and overall gut ecosystem function",
+    "abstract": "Abstract  Methane is a unique archaeal metabolite that links gut microbial ecology to host physiology. Although intestinal methane production varies by several orders of magnitude between individuals and has been associated with gastrointestinal transit and disease states, the ecological and functional determinants underlying this variation remain poorly understood. Here, we integrate breath methane phenotyping with shotgun metagenomics, metatranscriptomics, comparative genomics, cultivation and stable-isotope tracing in 80 deeply characterized individuals to determine the species-level and functional basis of human gut methanogenesis. Breath methane levels strongly reflected archaeal abundance but could not fully explain methane emission; species-resolved profiling revealed that methane emission represents distinct archaeome states rather than differences in methanogen quantity alone. High methane emitters were dominated by Methanobrevibacter smithii and M. intestini, whereas low emitters harbored a previously uncharacterized Methanobrevibacter lineage (M. sp900766745), for which we propose the name Candidatus Methanobrevibacter hominipaucus sp. nov. Comparative genomics revealed that M. sp900766745 represents a metabolically streamlined lineage lacking several methyl-compound utilization pathways and displaying reduced substrate acquisition capacity. Communities of low-emission individuals exhibited reduced microbial transcriptional activity and accumulated incompletely processed dietary metabolites, indicating lower fermentative turnover and altered hydrogen flux.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11389263/v1",
+    "date": "2026-11-02",
+    "authors": "Moissl-Eichinger C, Kumpitsch C, Mahnert A, Duller S, Blohs M, Mohammadzadeh R, Schmidberger L, Vrbancic S, Madl T, Habisch H, Leithner K, Haitzmann T, Lackner S, Holasek S, Högenauer C, Moser A, Zurabischvili T, Diener C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355487",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "metagenom",
+        "metagenomics",
+        "metatranscriptom",
+        "metatranscriptomics",
+        "methanogen",
+        "methanogenesis",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 42,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11389263/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2af07832670ac2456661a15606fc1bbc69a1eef029748d4259d6673bd32d2902",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:30:17.711053+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dcbc0b3a3e5a2d3c305f241e9c4eaee8ca1b7457c7112bd640d0d93c2ee472b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:30:17.711053+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタノブレビバクター属のゲノムおよび生態学的特化が、ヒトのメタン排出と腸管生態系全体の機能を規定する",
+    "abstract_ja": "要旨　メタンは、腸内微生物生態学と宿主生理学を結びつける特異な古細菌代謝産物である。腸内でのメタン産生量は個体間で数桁にわたり異なり、消化管通過や疾患状態との関連が指摘されてきたが、この変動の根底にある生態学的・機能的決定要因については依然として十分に解明されていない。本研究では、詳細な特性解析が行われた80個体を対象に、呼気中メタンのフェノタイピングを、ショットガンメタゲノミクス、メタトランスクリプトミクス、比較ゲノミクス、培養および安定同位体トレーシングと統合し、ヒト腸内メタン生成の種レベルおよび機能的基盤を明らかにした。呼気中メタン濃度は古細菌の存在量を強く反映していたが、メタン放出を完全に説明することはできなかった。種分解プロファイリングにより、メタン放出は単にメタン生成菌の量の違いではなく、異なるアーキオーム状態を表していることが明らかになった。メタン放出量の多い個体ではMethanobrevibacter smithiiおよびM. intestiniが優占していた一方、放出量の少ない個体には、これまで特性解析されていなかったMethanobrevibacter系統（M. sp900766745）が認められた。我々はこの系統に対し、Candidatus Methanobrevibacter hominipaucus sp. nov.という名称を提案する。比較ゲノミクスにより、M. sp900766745は、いくつかのメチル化合物利用経路を欠き、基質獲得能が低下した、代謝的に効率化された系統であることが明らかになった。放出量の少ない個体群では、微生物の転写活性が低下し、不完全に処理された食事由来代謝物が蓄積しており、これは発酵ターンオーバーの低下と水素フラックスの変化を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0004.v1",
+    "title": "Hologenomic Analysis of Anopheles plumbeus Reveals Genomic Complementarity with Its Endosymbiont Candidatus Tisiphia sp.",
+    "abstract": "Anopheles plumbeus is a widespread forest mosquito species and an effective vector of human, animal, and avian malaria pathogens. In this study, we sequenced and assembled the genome of female An. plumbeus mosquitoes obtained from a laboratory culture. The mosquitoes were collected at the larval stage in the vicinity of Sochi (Black Sea coast of the Caucasus) and reared to adulthood on an artificial diet. The genome was generated using Oxford Nanopore Technologies long-read sequencing. The resulting hologenome comprises 1,449 contigs with a total length of 188,457,274 bp. It has been deposited in the European Nucleotide Archive (ENA) and is publicly available as a metagenome-assembled genome. The high quality of the eukaryotic metagenome-assembled genome (eMAG) assembly was confirmed by BUSCO analysis, demonstrating 97.5% complete BUSCOs. A single intracellular bacterial symbiont, Candidatus Tisiphia sp., was identified within the hologenome. The symbiont genome was assembled via a Whole-Genome Shotgun (WGS) approach using the Flye assembler (v. 2.9-b1774), yielding a size of 1.7 Mb. The registered assembly of Candidatus Tisiphia sp. was designated as a 'reference sequence'. Genome annotation revealed 1,761 genes, including 1,525 protein-coding genes, 4 rRNA genes, and 38 tRNA genes. A distinctive feature of this novel Candidatus Tisiphia genome is the high abundance of IS DNA transposons belonging to several families. In total, 361 IS elements were identified in the Candidatus Tisiphia sp. genome. Eight identified IS transposon families—IS6, IS701, IS4, IS630, ISNCY, IS110, IS5, and IS1634—are multicopy. Crucially, we identified for the first time in this bacterial species the biosynthetic genes for folic acid (vitamin B9), biotin (vitamin B7), and thiamine (vitamin B1), as well as a gene cluster for heme biosynthesis, which is essential for the functioning of mitochondrial cytochromes in the mosquito's respiratory chain. These data provide a foundational framework for developing biocontrol strategies against this potentially dangerous malaria vector.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0004.v1",
+    "date": "2026-11-02",
+    "authors": "Andrianov B, Bega A, Vasilenko O, Goryacheva I, Gorelova T, Moskaev A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355077",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 43,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC genome methods",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0004.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d681eae8b454dd00e6c3d31ad5cfcfe7676079fc81313942b9393f093843f060",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:30:17.711053+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7a7fc7d5d9519baace182042d884828cb1bde8f0123d92670f6ab93605db2940",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:30:17.711053+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Anopheles plumbeusのホロゲノミクス解析により明らかになった内共生候補種Tisiphia sp.とのゲノム相補性",
+    "abstract_ja": "Anopheles plumbeusは広く分布する森林性蚊の一種であり、ヒト、動物、および鳥類のマラリア病原体の有効な媒介生物である。本研究では、実験室培養から得られた雌のAn. plumbeus蚊のゲノムを配列決定し、アセンブルした。蚊は幼虫期にソチ（コーカサスの黒海沿岸）近郊で採集され、人工飼料を用いて成虫まで飼育された。ゲノムはOxford Nanopore Technologies社のロングリードシーケンシングを用いて構築された。得られたホロゲノムは1,449個のコンティグからなり、総長は188,457,274 bpである。本ゲノムは欧州ヌクレオチドアーカイブ（ENA）に寄託され、メタゲノムアセンブルゲノムとして公開されている。真核生物メタゲノムアセンブルゲノム（eMAG）アセンブルの高品質さはBUSCO解析によって確認され、97.5%の完全なBUSCOが示された。ホロゲノム内には、単一の細胞内細菌共生体であるCandidatus Tisiphia sp.が同定された。この共生体ゲノムは、Flyeアセンブラ（v. 2.9-b1774）を用いたWhole-Genome Shotgun（WGS）アプローチによりアセンブルされ、サイズは1.7 Mbとなった。登録されたCandidatus Tisiphia sp.のアセンブルは「リファレンス配列」と指定された。ゲノムアノテーションにより、タンパク質コード遺伝子1,525個、rRNA遺伝子4個、tRNA遺伝子38個を含む1,761個の遺伝子が明らかになった。この新規Candidatus Tisiphiaゲノムの顕著な特徴は、複数のファミリーに属するIS DNAトランスポゾンが豊富に存在することである。Candidatus Tisiphia sp.ゲノムでは、計361個のISエレメントが同定された。同定された8つのISトランスポゾンファミリー（IS6、IS701、IS4、IS630、ISNCY、IS110、IS5、IS1634）はマルチコピーである。極めて重要なことに、本細菌種において、葉酸（ビタミンB9）、ビオチン（ビタミンB7）、およびチアミン（ビタミンB1）の生合成遺伝子に加え、蚊の呼吸鎖におけるミトコンドリアシトクロムの機能に不可欠なヘム生合成遺伝子クラスターを初めて同定した。これらのデータは、潜在的に危険なこのマラリア媒介生物に対する生物的防除戦略を開発するための基礎的な枠組みを提供するものである。"
   }
 ]
