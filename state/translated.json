@@ -222547,5 +222547,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "cGASは血小板におけるToll様受容体シグナル伝達を統合し、血栓性炎症を促進する。",
     "abstract_ja": "血栓性炎症は自然免疫シグナル伝達によって駆動され、敗血症時に組織損傷を促進する。細菌産物やアラミンによる血小板の活性化は、炎症、凝固、および血栓形成機能障害を増幅させる。しかし、これら多様な炎症シグナルが収束して共通の血小板応答を惹起する機序は、大部分が未解明のままである。ミトコンドリアは細胞ストレス応答の重要な統合因子であり、ミトコンドリアDNAの放出およびDNAセンサーcGASの関与を通じて、自然免疫経路を活性化することができる。そこで我々は、自然免疫受容体の刺激が血小板内で内因性cGASリガンドを生成し、異なる炎症シグナルがcGAS-STINGシグナル伝達に収束するための統一的な機序を提供するという仮説を立てた。本研究では、TLR4、TLR1/2、およびTLR5の活性化が、血小板固有のmtDNA-cGAS-STING軸を活性化し、血小板の活性化を促進することを実証した。エンドトキシン血症モデルにおいて、cGASの遺伝的欠損は、血小板活性化、血小板減少症、パイロトーシス、および初期の全身性炎症応答を減弱させた。血小板移入実験により、血小板固有のcGASがin vivoにおいて炎症応答を増幅させるのに十分であることがさらに確認された。機序面では、血小板におけるmtDNAの細胞質蓄積およびcGAS-STINGシグナル伝達経路の活性化が、ミトコンドリアカルシウムユニポーター（MCU）に依存し、ミトコンドリア膜電位の喪失およびミトコンドリア活性酸素種の産生と相関することを実証した。対照的に、古典的な血小板アゴニストはcGASとは独立して血小板を活性化し、顕著な細胞質mtDNA蓄積を誘導しなかった。重要な点として、このシグナル伝達構造はヒト血小板においても保存されており、TLR1/2介在性の活性化にはMCUおよびSTING依存的なシグナル伝達が必要であった一方、トロンビン受容体活性化ペプチドおよびコラーゲン関連ペプチドに対する応答はほとんど影響を受けなかった。以上の知見を総合すると、cGASは、ミトコンドリア由来DNAの感知を通じて多様な自然免疫受容体が共通の血小板活性化経路に収束することを可能にする細胞内シグナル統合ノードであり、これにより微生物産物に対する迅速な血小板応答が可能になることが明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0178.v1",
+    "title": "Runs That Succeed and Are Wrong: An Audit of Silent Failures in a Multi-Omics Platform’s Validation Runs",
+    "abstract": "Bioinformatics pipelines can finish with a success status, write parseable summaries and report wrong results. We audited the 42 validation runs of a multi-omics Nextflow platform that the author built, reading the summary archived for each run; every summary records the status “success”. Of the runs, 14 carry a confirmed silent failure in one of five classes, each traced to code. Bulk RNA-seq of fly, Arabidopsis and yeast was quantified against a default human transcript index, and fly and bacterial variants were annotated with the human SnpEff database. The proteomics pipeline’s false discovery rate (FDR) filter aborted on an option that OpenMS had renamed, and a shell fallback passed the unfiltered list on, as we reproduced in the OpenMS build behind its container. Metabolomics features were matched across samples on exact rounded keys, so that the matrix paired almost none of the features that replicate injections of one reference plasma share. And a spatial run filed as a brain section processed bronchoalveolar-lavage reads from another study. In the validation’s later round, its model judge gave the maximum score on every metric to answers that repeated the failures’ signatures: the expected answers came from the same summaries, and the metrics measure agreement with them, not whether a summary is true. A mapping-rate floor, which only five of the failed runs report, catches three. Checks written after the failures were known flag all 13 failures of the four classes they target, as they must, since a failure counts as confirmed only when its summary shows the signature; no check looks for reads from another study. Only clean runs test the checks, and no provenance, identity or invariant check flags any of the nine clean runs, a result that allows a false-positive rate as high as 34 percent; the checks behind eight of the 13 detections never ran on a clean run. On the run outputs, the checks catch the same failures and, after a fix to the audit’s strain table that had flagged a control, flag no clean run. How well the checks detect failures they were not written for is untested.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0178.v1",
+    "date": "2026-11-03",
+    "authors": "Palanikumar N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357989",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1489,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0178.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ffa5daac8e29a959c7465b6ea8a9f32abc545ea6bbeb56bd58704fcff6c6fe01",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:42:17.904780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f71f0997ed4038054f8bdb3bef348017e1a53a42a0dbc2217f299ebe38e75ab1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:42:17.904780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "成功しつつも誤ったラン：マルチオミクスプラットフォームのバリデーションランにおけるサイレント失敗の監査",
+    "abstract_ja": "バイオインフォマティクスのパイプラインは、成功ステータスで終了することもあれば、解析可能なサマリーを出力したり、誤った結果を報告したりすることもある。著者が構築したマルチオミクスNextflowプラットフォームの42回の検証ランを監査し、各ランでアーカイブされたサマリーを読み込んだところ、すべてのサマリーに「success」というステータスが記録されていた。ランのうち14件では、5つのクラスのいずれかで確定したサイレントフェイルが発生しており、それぞれコードに起因していた。ショウジョウバエ、シロイヌナズナ、および酵母のバルクRNA-seqは、デフォルトのヒトトランスクリプトインデックスを用いて定量化され、ショウジョウバエおよび細菌のバリアントにはヒトSnpEffデータベースを用いてアノテーションが施された。プロテオミクスパイプラインの偽発見率（FDR）フィルターは、OpenMSが名称を変更したオプションで中断したが、シェルフォールバックがフィルタリング前のリストをそのまま通過した。これは、コンテナ背後のOpenMSビルドで再現した通りである。メタボロミクスのフィーチャーは、正確な丸めキーを用いてサンプル間でマッチングされたため、マトリクスでは、単一のリファレンスプラズマの注入を再現したフィーチャー同士がほぼ全くペアにならなかった。また、脳切片として報告された空間ランが、別の研究の気管支肺胞ラベージュリードを処理していた。検証の後半ラウンドでは、モデルジャッジが、フェイルのシグネチャを繰り返す回答に対してすべての指標で最高スコアを与えた。期待される回答は同じサマリーから得られたものであり、指標はそれらとの一致度を測定するもので、サマリーが真であるかどうかを判定するものではない。失敗したランのうち5件のみが報告するマッピングレートの下限値が、3件を検出した。フェイルが判明した後に記述されたチェックは、対象とする4つのクラスの全13件のフェイルをフラグ立てしており、これは必然である。なぜなら、サマリーにシグネチャが示されて初めてフェイルが確定と見なされるためであり、別の研究のリードを探すチェックは存在しない。クリーンランのみがチェックのテスト対象となり、プロベナンス、アイデンティティ、または不変量のチェックは9件のクリーンランのいずれもフラグ立てしなかった。この結果、偽陽性率が34%に達する可能性がある。13件の検出のうち8件の背後にあるチェックは、クリーンランでは一度も実行されていなかった。ランの出力において、チェックは同じフェイルを検出し、コントロールにフラグを立てていた監査のストレインテーブルを修正した後では、クリーンランを一つもフラグ立てしなかった。チェックが、想定していないフェイルをどの程度検出できるかは検証されていない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.01.763451",
+    "title": "Human senataxin uses distinct peripheral elements to unwind R-loops and act on RNA polymerase II",
+    "abstract": "ABSTRACT  Persistent R-loops and paused or stalled RNA polymerase II (RNAPII) elongation complexes can threaten genome stability. Senataxin (SETX) contributes to R-loop resolution and RNAPII regulation, but their intimate connection during transcription makes the individual contributions of these activities difficult to distinguish in cells. To determine whether these activities rely on the same molecular features, we investigated the structure and biochemical properties of the SETX helicase domain (SETX-HD). Cryo-EM defines the conserved helicase core and RNA-binding channel of SETX-HD, while biochemical analyses identify distinct roles for two peripheral elements: a previously uncharacterised C-terminal RNA-binding domain (CT-RBD) and the prong subdomain. In reconstituted mammalian transcription assays, SETX-HD promotes passage beyond a defined RNAPII pause and elongation-complex dissociation on the same template. The CT-RBD stabilises RNA engagement and is required for efficient R-loop unwinding, whereas its deletion preserves both RNAPII-associated activities. Conversely, replacing the native SETX prong with its fungal Sen1 counterpart preserves R-loop unwinding but impairs both RNAPII outcomes. These reciprocal separation-of-function effects establish that a common SETX-HD RNA-translocation core depends on distinct peripheral elements for R-loop unwinding and action on mammalian RNAPII. This separation provides a direct route to determine how these activities contribute to SETX function in cells.",
+    "journal": "",
+    "doi": "10.64898/2026.11.01.763451",
+    "date": "2026-11-03",
+    "authors": "Lanicek M, Sedova K, Hasanova Z, Porrua O, Sebesta M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357704",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1510,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.01.763451"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e18f527d9c23d55e6fe762599959eb64bfdb1ffaee6f25bbe04861221b26108",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:42:17.904780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f85db48b1a90d9ef70520a2ea1396736b0d9f047a0d88f6b1ac9fedda9064dc8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:42:17.904780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトセナタキシンは、特有の末梢エレメントを用いてRループをほどき、RNAポリメラーゼIIに作用する。",
+    "abstract_ja": "要旨　持続的なRループや、一時停止または停滞したRNAポリメラーゼII（RNAPII）伸長複合体は、ゲノム安定性を脅かす可能性がある。セナタキシン（SETX）はRループの解消およびRNAPIIの調節に寄与するが、転写過程における両者の密接な関連性により、細胞内ではそれぞれの寄与を区別することが困難である。これらの活性が同一の分子的特徴に依存しているかを明らかにするため、我々はSETXヘリカーゼドメイン（SETX-HD）の構造および生化学的特性を解析した。クライオ電子顕微鏡法により、SETX-HDの保存されたヘリカーゼコアおよびRNA結合チャネルが同定された一方、生化学的解析により、2つの周辺要素、すなわちこれまで特性解析されていなかったC末端RNA結合ドメイン（CT-RBD）とプロングサブドメインのそれぞれが異なる役割を担っていることが明らかになった。再構成した哺乳類転写アッセイにおいて、SETX-HDは同一テンプレート上での規定のRNAPII一時停止および伸長複合体解離の通過を促進した。CT-RBDはRNA結合を安定化させ、効率的なRループ巻き戻しに必須である一方、その欠損はRNAPII関連活性の両方を維持した。逆に、天然のSETXプロングを真菌由来のSen1対応物に置換すると、Rループ巻き戻しは維持されるが、RNAPIIの結果はいずれも損なわれた。これらの相互的な機能分離効果は、共通のSETX-HD RNAトランスロケーションコアが、Rループ巻き戻しおよび哺乳類RNAPIIへの作用において、それぞれ異なる周辺要素に依存していることを裏付けている。この分離は、細胞内でこれらの活性がSETXの機能にどのように寄与しているかを解明するための直接的な経路を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.763842",
+    "title": "Antibiotics drive immunometabolic rewiring of human immune responses",
+    "abstract": "Antibiotics are routinely evaluated for their antimicrobial activity, potential host toxicity, and disruption of the microbiome. Certain antibiotics can also impact cell-intrinsic host processes, including evolutionarily conserved processes in the mitochondria. These raise the possibility that antibiotics can directly impact host immunity, which relies on mitochondrial function for their immunometabolic activation. However, the immunological consequences of most antibiotics in current use have not been systematically examined. Here, we performed a comprehensive analysis of the effects of clinically used antibiotics on activation of primary human immune cells. We uncovered an underappreciated antibiotic-specific modulation of immune function in healthy individuals and infectious disease patients. Focusing on the immunomodulatory antibiotic ciprofloxacin, we found altered mitochondrial gene expression across multiple immune populations, driving distinct, lineage-specific responses and heightened sensitivity of T-cells. Ciprofloxacin impaired primary human T-cell expansion and activation and altered mitochondrial function and metabolism. We further demonstrated immunomodulatory effects of selected antibiotics in response to inactivated bacteria and during live viral infection. Finally, to test the implications of our findings in vivo, we showed that immune activation is altered shortly after a single dose of antibiotic administration in mice. This work established a widespread impact of antibiotics on immune-cell function, and identified mitochondrial perturbation as one underlying mechanism, with implications for host-pathogen interactions and antimicrobial therapy.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.763842",
+    "date": "2026-11-03",
+    "authors": "Hen-Avivi S, Bossel Ben-Moshe N, Avera R, Adin I, Kitsberg Y, Lyskov SK, Navon S, Zalmanovich A, Yardeni T, Ben-Ami R, Avraham R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357399",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbiome",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1513,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.763842"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f2abb825a48fcef100a3a1b03cbacf5e8c57a8a7e01e1ec7c2a49e1c242042e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:42:17.904780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "44db3c31c788838a9fc36154b852cbc5b82c48a31cb15e43330ab9e6c2293ba3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:42:17.904780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗生物質はヒトの免疫応答の免疫代謝的リワイヤリングを誘導する",
+    "abstract_ja": "抗生物質は、その抗菌活性、潜在的な宿主毒性、およびマイクロバイオームの攪乱について日常的に評価されている。特定の抗生物質は、ミトコンドリアにおける進化的に保存されたプロセスを含む、細胞固有の宿主プロセスにも影響を及ぼし得る。これらのことから、免疫代謝活性化にミトコンドリア機能に依存している宿主免疫に、抗生物質が直接的に影響を及ぼす可能性が考えられる。しかし、現在使用されているほとんどの抗生物質による免疫学的影響については、体系的な検討が行われてこなかった。本研究では、臨床的に使用されている抗生物質がヒト初代免疫細胞の活性化に及ぼす影響について包括的な解析を行った。その結果、健常者および感染症患者において、これまで十分に認識されてこなかった抗生物質特異的な免疫機能調節を明らかにした。免疫調節作用を有する抗生物質であるシプロフロキサシンに着目したところ、複数の免疫集団においてミトコンドリア遺伝子発現の変化が認められ、それが系統特異的な応答の誘導およびT細胞の感受性亢進をもたらしていた。シプロフロキサシンは、ヒト初代T細胞の増殖および活性化を阻害し、ミトコンドリア機能と代謝を変化させた。さらに、不活化細菌に対する反応および生ウイルス感染時における、特定の抗生物質の免疫調節効果を実証した。最後に、本知見のin vivoにおける意義を検証するため、マウスにおいて抗生物質を単回投与した直後に免疫活性化が変化することを示した。本研究は、抗生物質が免疫細胞機能に広範な影響を及ぼすことを立証し、ミトコンドリアの攪乱をその根底にあるメカニズムの一つとして特定した。これは、宿主・病原体相互作用および抗菌療法に重要な示唆を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11097410/v1",
+    "title": "Activity of Aztreonam-Avibactam and Comparators against Difficult-To-Treat Resistant (DTR) Enterobacterales from European Medical Centres Stratified by Infection Type and Country (2021– 2025)",
+    "abstract": "Abstract  Background: Difficult-to-treat resistant (DTR) isolates, defined as bacterial isolates expressing nonsusceptibility to all first-line agents, is a major problem worldwide. We evaluated the activity of aztreonam-avibactam and comparators against DTR Enterobacterales from European medical centres. Methods: 30,345 Enterobacterales isolates were consecutively collected from 41 European medical centres in 19 countries in 2021–2025. Isolates were susceptibility tested by broth microdilution and MIC interpreted according to EUCAST breakpoints. The collection included 1113 DTR isolates, defined as a carbapenem-resistant isolate (MIC ≥4 mg/L for meropenem and/or imipenem) not susceptible to fluoroquinolones. All DTR isolates were screened for β-lactamase genes by whole genome sequencing. Results were stratified by infection type and country. Results: Aztreonam-avibactam was active against 99.6% of DTR (MIC50/90, 0.25/0.5 mg/L), and exhibited consistent activity against DTR isolates from all infection types. Cefiderocol was active against 78.8% of DTR isolates; ceftazidime-avibactam, meropenem-vaborbactam, imipenem-relebactam, and the aminoglycosides exhibited limited activity against these organisms. The frequency of DTR was higher among isolates from pneumonia (6.6%) compared to other infection types (2.3–3.4%) and varied from 0.0% (Switzerland) to 19.7% (Poland) among countries. DTR susceptibility to aztreonam-avibactam ranged from 94.4% (France) to 100.0% (14 countries). Aztreonam-avibactam retained potent activity against DTR isolates nonsusceptible to ceftazidime-avibactam (99.2% susceptible), meropenem-vaborbactam (99.6% susceptible), and/or cefiderocol (97.8% susceptible). The most common carbapenemase identified among DTR isolates was NDM (41.2% of DTR), followed by OXA-48–like (38.2%), and KPC (34.3%). Moreover, 99.6% of metallo-β-lactamase (MBL) producers were susceptible to aztreonam-avibactam and 68.2% were susceptible to cefiderocol. Conclusions: Aztreonam-avibactam retained potent activity against DTR Enterobacterales from European medical centres and its activity was not adversely affected by clinically relevant carbapenemases or resistance to agents currently used to treat multidrug-resistant Enterobacterales. The activities of other β-lactamase inhibitor combinations and cefiderocol were compromised by the increased occurrence of MBL producers.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11097410/v1",
+    "date": "2026-11-03",
+    "authors": "SADER HS, MENDES RE, PEREZ K, STONE G, PAPP-WALLACE KM, CASTANHEIRA M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356027",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1514,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11097410/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ebb260e41f8dcf8b89ea7639e9d1d9bddcf6f1b2ac68fac2c5be03ea2fdfc85b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:42:17.904780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c4d8f5563506319b0a0b02ad26b4178571b2001e1c365eaa43bf08f184723676",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:42:17.904780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "感染型および国別に層別化した欧州医療センターにおける難治性耐性（DTR）腸内細菌目菌に対するアズトレオナム・アビバクタムおよび比較薬の活性（2021– 2025年）",
+    "abstract_ja": "要旨  背景：すべての第一選択薬に不感受性を示す細菌分離株と定義される治療困難な耐性（DTR）分離株は、世界的に重大な問題となっている。本研究では、欧州の医療センターから得られたDTR腸内細菌目菌に対するアズトレオナム・アビバクタムおよび比較薬の活性を評価した。方法：2021～2025年に、19カ国の欧州の医療センター41施設から30,345株の腸内細菌目菌分離株を順次収集した。分離株の感受性試験はブロスマイクロダイリューション法により実施し、MICはEUCASTのブレイクポイントに基づいて解釈した。収集した分離株のうち、1,113株がDTR分離株（カルバペネム耐性分離株：メロペネムおよび／またはイミペネムに対するMIC ≥4 mg/Lであり、かつフルオロキノロン系薬剤に感受性を示さないもの）と定義された。すべてのDTR分離株に対し、全ゲノムシーケンシングによりβ-ラクタマーゼ遺伝子のスクリーニングを行った。結果は、感染症型および国別に層別化した。結果：アズトレオナム・アビバクタムはDTRの99.6%に対して活性を示し（MIC50/90, 0.25/0.5 mg/L）、すべての感染症型のDTR分離株に対して一貫した活性を示した。セフィデロコールはDTR分離株の78.8%に対して活性を示したが、セフタジジム・アビバクタム、メロペネム・バボルバクタム、イミペネム・レレバクタム、およびアミノグリコシド系薬剤は、これらの菌に対する活性が限定的であった。DTRの頻度は、他の感染症型（2.3～3.4%）と比較して肺炎由来の分離株（6.6%）で高く、国によって0.0%（スイス）から19.7%（ポーランド）まで幅があった。アズトレオナム・アビバクタムに対するDTRの感受性は、94.4%（フランス）から100.0%（14カ国）の範囲であった。アズトレオナム・アビバクタムは、セフタジジム・アビバクタム（感受性99.2%）、メロペネム・バボルバクタム（感受性99.6%）、および／またはセフィデロコール（感受性97.8%）に不感受性なDTR分離株に対しても、強力な活性を維持した。DTR分離株で同定された最も一般的なカルバペネマーはNDM（DTRの41.2%）であり、次いでOXA-48様（38.2%）、KPC（34.3%）であった。さらに、メタロβ-ラクタマーゼ（MBL）産生菌の99.6%がアズトレオナム・アビバクタムに感受性を示し、68.2%がセフィデロコールに感受性を示した。結論：アズトレオナム・アビバクタムは、欧州の医療センター由来のDTR腸内細菌目菌に対して強力な活性を維持しており、その活性は、臨床的に意義のあるカルバペネマーや、多剤耐性腸内細菌目菌の治療に現在用いられている薬剤への耐性によって悪影響を受けることはなかった。他のβ-ラクタマーゼ阻害薬の併用およびセフィデロコールの活性は、MBL産生菌の出現頻度の増加により低下した。"
   }
 ]
