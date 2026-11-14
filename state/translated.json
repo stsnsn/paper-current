@@ -215226,5 +215226,336 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CaCl₂塩水を越えて：南極マクマードドライバレーの生命なきドン・ファン池における居住可能性の境界域の一過性微生物群集",
     "abstract_ja": "要旨    背景  南極のマクマード乾谷に位置するドン・ファン池（DJP）は、CaCl₂に富む塩水、低い水活動、卓越したカオストロピー性、氷点下の温度、強烈な太陽放射、および繰り返される乾燥により、地球上で最も過酷な水環境の一つである。DJPの中心部の塩水は長らく大部分が居住不能であると考えられてきたが、周囲の盆地には季節的に一時的な河川、池、およびまばらな微生物マットが存在する。本研究では、水化学分析、その場反射分光法、DNAメタバーコーディング、および生態ネットワーク解析を統合することで、これらの周辺生息地に生息する微生物群集の多様性、生態学的組織化、および構造を規定する環境要因について調査した。  結果  中心部のCaCl₂塩水からは、PCR増幅に適したDNAは回収されなかった。対照的に、周辺の河川や池には多様な原核生物、微小真核生物、および真菌群集が存在し、水文学的に不均質なS1河川系において一貫して最も高いα多様性が観察された。原核生物群集は主に、塩素濃度やMg/Ca比を含む塩分関連変数と関連していた一方、真核生物および真菌群集は、光合成バイオマスを示すハイパースペクトル指数とより強く相関していた。また、一時的な生息地には輪形動物、クマムシ、線虫などの微小後生動物も生息しており、ポリエクストリーム条件下で複雑な栄養段階間相互作用を維持できる生態学的リフュージアであることが示された。ハイパースペクトル指数は、活性な微生物マットを不活性な堆積性クラストから正常に識別し、複数の細菌、真菌、および微小真核生物の分類群の分布と有意に関連していた。ネットワーク解析により、細菌、真菌、藻類、原生生物、および微生物草食動物からなる、高度に相互接続されたマルチドメイン群集が明らかになった。  結論  ドン・ファン池盆地における生命の存在は、中心部のCaCl₂飽和塩水そのものではなく、季節的な融解水の流入によって維持される一時的な生息地に概ね限定されているようである。中心部の塩水は、生命に課せられる多くの厳格な物理化学的制約により、あらゆる生命形態にとって忌避されるものである。原核生物群集と真核生物群集の対照的な応答は、このポリエクストリーム生態系において、適応と持続性がそれぞれ異なる生態学的戦略であることを示唆している。これらの知見は、居住可能性の限界を決定する上で、環境の安定性が塩分濃度やカオストロピー性と同等に重要である可能性を示しており、極限的な陸上および系外惑星類似環境における生命を調査するために、分子生物学的アプローチとハイパースペクトルアプローチを統合することの価値を実証するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10844716/v1",
+    "title": "Mycobacteriophage Cluster A Immunity Repressors: A Conserved Protein Fold Adapted for Diverse Biological Functions",
+    "abstract": "Abstract    Mycobacteriophage cluster A immunity repressors are unusual in that they silence lytic gene expression by binding numerous DNA binding sites located throughout the viral genome. They can also provide immunity to infection by genetically similar phages that contain the same or similar DNA binding sites. Despite containing similar DNA binding sites and repressor proteins, cluster A viruses often display heteroimmune phenotypes, the molecular details of which are currently unclear. Using a combination of small-angle X-ray scattering, protein crystallography, bioinformatics, and DNA binding and  in vivo  immunity assays, we show that cluster A repressors conserve a common protein fold yet appear to provide DNA specificity through a narrow region of the novel stoperator DNA binding domain. Additionally, both viral and bacterial genomes contain cluster A-like repressor proteins fused to diverse protein domains, which suggest that these repressors have evolved to do more than just silence viral lytic gene expression.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10844716/v1",
+    "date": "2026-11-04",
+    "authors": "Wallen J, McKinney R, Park S, Bonogafsky H, Tuhro A, Turner M, Hollis T, Gainey M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358289",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage",
+        "phages",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 244,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10844716/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "abe5984783bb95a28b8f97dfd29ead755b916ed6599de209ea4970f0b91e0f3f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:19:34.625653+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6c0068714a70c1e75ea663027fa1418491dea2b101b2f3e0305975513841584b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:19:34.625653+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイコバクテリウムファージクラスターA免疫抑制因子：多様な生物学的機能に適応した保存的タンパク質フォールド",
+    "abstract_ja": "要旨    マイコバクテリオファージのクラスターA免疫抑制因子は、ウイルスゲノム全域に分布する多数のDNA結合部位に結合することで溶菌遺伝子の発現をサイレンシングするという特異な性質を持つ。また、同一または類似のDNA結合部位を有する遺伝的に類似したファージによる感染に対しても、免疫を付与することができる。類似したDNA結合部位と抑制因子タンパク質を有しているにもかかわらず、クラスターAウイルスはしばしばヘテロ免疫表現型を示し、その分子的な詳細は現在のところ不明である。小角X線散乱法、タンパク質結晶構造解析、バイオインフォマティクス、およびDNA結合・in vivo免疫アッセイを組み合わせて用いることで、クラスターA抑制因子が共通のタンパク質フォールドを保持しつつ、新規のストッパーDNA結合ドメインの狭い領域を介してDNA特異性を発揮していることを明らかにした。さらに、ウイルスおよび細菌の両ゲノムには、多様なタンパク質ドメインに融合したクラスターA様抑制因子タンパク質が存在しており、これらの抑制因子が単にウイルスの溶菌遺伝子発現をサイレンシングする以上の役割を果たすよう進化してきたことが示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11079559/v1",
+    "title": "Rumen metagenomics of Tan sheep with divergent growth rate: functional gene and MAG profiles do not distinguish the groups",
+    "abstract": "Abstract    Background  Feed conversion ratio (FCR) is a key economic trait in lamb production, and the rumen microbiome governs the energy the host obtains from feed. Because genus-level biomarkers are inconsistent across studies, we examined whether efficient and inefficient Tan sheep differ at the level of metabolic genes and metagenome-assembled genomes (MAGs). Sixteen Tan sheep, drawn from a finishing cohort of 100 animals, were ranked by average daily gain (ADG) and split into a high-growth/low-FCR group (n = 10) and a low-growth/high-FCR group (n = 6); individual feed intake was not recorded, so ADG, not measured FCR, defined the groups. Rumen contents were deep-shotgun sequenced, assembled and binned. Of 3,283 retained KEGG orthologues (KOs), a candidate required both a Wilcoxon between-group difference (P Results  Global community structure did not differ (ANOSIM taxonomy R = -0.139, P = 0.95; function R = -0.064, P = 0.682). The two-layer screen yielded 36 direction-concordant KOs (54 between-group and 94 ADG-correlated; union 112), enriched for sugar-transport (ABC/PTS) and energy genes, whereas canonical VFA genes showed no detectable difference (buk, pct, acs; all P > 0.7; absence of evidence rather than evidence of absence). However, 36 double-evidence KOs did not exceed the label-permutation null expectation (null mean 67, 95th percentile 195; P = 0.59), and the same was true for each single layer (between-group: 54 observed versus null mean 131, P = 0.83; ADG-correlated: 94 observed versus null mean 167, P = 0.67). A classifier built on the 36 KOs and evaluated with the feature set fixed in advance reached AUC = 1.000 and 87.5% accuracy, but under nested cross-validation the same pipeline gave AUC = 0.767 and 56.2% accuracy (9/16), which did not differ significantly from the permutation null (null mean AUC = 0.525, 95th percentile 0.883; P = 0.190). Initial body weight was confounded with group (Spearman rho with ADG = 0.67, P = 0.005). Only three MAGs were double-evidence, all inefficient-enriched and negatively correlated with ADG, representing unnamed novel genera (two Firmicutes-affiliated and one Bacteroidota-affiliated).  Conclusions  In this cohort of 16 Tan sheep, growth-efficiency divergence was not accompanied by any statistically detectable remodelling of rumen functional genes: the carbohydrate-uptake and energy-metabolism candidate panel did not exceed permutation-based null expectations, no KO approached FDR significance, and no classifier generalised under nested validation. The 591 MAGs recovered here provide a breed-specific genome resource for Tan sheep, and the contrast between the non-nested (AUC = 1.000) and nested (AUC = 0.767) estimates quantifies how much apparent signal feature selection performed outside cross-validation can manufacture at this sample size.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11079559/v1",
+    "date": "2026-11-04",
+    "authors": "Wang¹ J, Fan¹ Y, Zhang¹ H, Ma¹ J, Ma¹ Q, Li¹ X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358104",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenomics",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 245,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11079559/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "032c567589226def08bf2f29c9579fec6412a3a2678be2ae5bf87edb9e518df9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:19:34.625653+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "53674725cdbe54f013c59f5c2d36a69765d1c8340ad3c10a327a7dd35fc829ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:19:34.625653+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "成長率が異なるタン羊のルーメンメタゲノム解析：機能性遺伝子およびMAGプロファイルでは群間の区別がつかない",
+    "abstract_ja": "要旨    背景  飼料変換率（FCR）は子羊生産における重要な経済的特性であり、ルーメン微生物叢は宿主が飼料から得るエネルギーを制御している。属レベルのバイオマーカーは研究間で一貫性がないため、本研究では、高成長・低FCRのタン種羊が、代謝遺伝子およびメタゲノムアセンブルゲノム（MAG）レベルで異なるかどうかを検証した。肥育群100頭のタン種羊16頭を平均日増体量（ADG）で順位付けし、高成長/低FCR群（n = 10）と低成長/高FCR群（n = 6）に分けた。個々の飼料摂取量は記録されていなかったため、FCRではなくADGに基づいて群を定義した。ルーメン内容物はディープショットガンシーケンシングにより解析し、アセンブルおよびビン分けを行った。保持された3,283個のKEGGオルソログ（KO）のうち、候補となった1つはウィルコクソンの群間差（P）および結果の両方を必要とした。グローバルコミュニティ構造に差は認められなかった（ANOSIM分類 R = -0.139, P = 0.95; 機能 R = -0.064, P = 0.682）。2層スクリーニングの結果、方向的に一致するKOが36個（群間差あり54個、ADG相関あり94個、合計112個）得られ、これらは糖輸送（ABC/PTS）およびエネルギー遺伝子に富んでいた。一方、正準VFA遺伝子には検出可能な差は認められなかった（buk, pct, acs; すべて P > 0.7; 欠如の証拠ではなく、欠如の証拠の不在）。しかし、36個の二重証拠KOはラベル置換の帰無期待値（帰無平均 67, 95パーセンタイル 195; P = 0.59）を超えず、各単一層においても同様の結果となった（群間差あり：観測値 54 対 帰無平均 131, P = 0.83; ADG相関あり：観測値 94 対 帰無平均 167, P = 0.67）。これら36個のKOに基づき構築し、特徴量セットを事前に固定して評価した分類器は、AUC = 1.000、正解率 87.5%を達成したが、入れ子型交差検証を用いた場合、同一のパイプラインではAUC = 0.767、正解率 56.2%（9/16）となり、これは置換帰無期待値（帰無平均 AUC = 0.525, 95パーセンタイル 0.883; P = 0.190）と有意な差はなかった。初期体重は群と交絡していた（ADGとのスピアマンのρ = 0.67, P = 0.005）。二重証拠となったMAGはわずか3つであり、すべて低効率に富み、ADGと負の相関を示していた。これらは未命名の新規属（Firmicutes属に属する2つ、およびBacteroidota属に属する1つ）であった。結論  このタン種羊16頭のコホートにおいて、成長効率の乖離に伴って、ルーメン機能遺伝子の統計的に検出可能なリモデリングは認められなかった。炭水化物取り込みおよびエネルギー代謝の候補パネルは置換ベースの帰無期待値を超えず、FDR有意水準に近づくKOはなく、入れ子型検証下で一般化する分類器も存在しなかった。ここで回収された591個のMAGは、タン種羊の品種特異的なゲノムリソースとなる。また、非入れ子型（AUC = 1.000）と入れ子型（AUC = 0.767）の推定値の対比は、このサンプルサイズにおいて、交差検証外で実施された見かけ上のシグナル特徴量選択がどの程度の効果をもたらし得るかを定量化するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.26366130",
+    "title": "The origin of the MV Hondius Andes outbreak",
+    "abstract": "In April-July 2026, Andes virus (ANDV) caused an outbreak aboard the MV Hondius cruise ship resulting in 12 confirmed cases and three deaths. Before symptom onset, the index case had travelled through hantavirus-endemic regions of Chile and Argentina, leaving the geographic origin of infection unresolved. We conducted phylogenetic and phylogeographic analyses using newly generated ANDV genomes from human cases and rodent reservoirs to investigate the likely origin of the outbreak. Through phylogenetic analyses, we show that the outbreak genome falls within a geographically structured lineage spanning southern Chile and Argentine Andean Patagonia. Using phylogeographic reconstructions across all three segments, integrated with the index case’s travel itinerary, we identified the Toltén-Lanco area of southern Chile as the most likely geographic origin of the outbreak genome, with two candidate locations accounting for >98% of the posterior support. However, the index case visited this area 62-66 days before symptom onset, exceeding the conventionally reported ANDV incubation period of 7-42 days. Thus, while genomic evidence supports a southern Chilean origin of the outbreak genome, the timing and circumstances of transmission to the index case remain unresolved.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.26366130",
+    "date": "2026-11-04",
+    "authors": "Ulloa-Zepeda L, Parker E, Gangavarapu K, Castillo A, Pavez C, Fernandez J, Vilches M, Vial P, Rambaut A, Andersen KG, Vial C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358702",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 398,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.04.26366130"
+    ],
+    "translation": {
+      "title": {
+        "hash": "85723a8b4aa8854af59669b3a6af05358ddd8d770b39772a17b0a6712e9171de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:19:34.625653+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7b821c1b93e950e678497bf0c1adc1b7305d3a9131223c18ab03e9d71187f5c3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:19:34.625653+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MVホンディウス号アンデス号爆発事故の原因",
+    "abstract_ja": "2026年4月から7月にかけて、クルーズ船MV Hondius号においてアンデスウイルス（ANDV）のアウトブレイクが発生し、12例の感染確認と3名の死亡者が確認された。発症前、インデックス症例はチリおよびアルゼンチンのハンタウイルス流行地域を渡航しており、感染の地理的起源は未解明のままであった。本研究では、アウトブレイクの推定起源を調査するため、ヒト症例および齧歯類リザーバーから新たに得られたANDVゲノムを用いて、系統解析および系統地理学的解析を実施した。系統解析の結果、アウトブレイクゲノムはチリ南部およびアルゼンチン・アンデスパタゴニアにわたる地理的に構造化された系統群に属することが示された。3つのセグメントすべてにわたる系統地理学的再構築をインデックス症例の渡航歴と統合した結果、チリ南部のトルテン＝ランコ地域がアウトブレイクゲノムの最も可能性の高い地理的起源であると特定され、2つの候補地が事後支持度の98%超を占めた。しかし、インデックス症例は発症の62～66日前に同地域を訪れており、これは従来報告されているANDVの潜伏期間である7～42日を上回っている。したがって、ゲノム学的証拠はアウトブレイクゲノムのチリ南部起源を支持しているが、インデックス症例への伝播の時期および状況については依然として未解明のままである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11472634/v1",
+    "title": "Characterization of lactic and acetic acid bacteria and their phages from a California winery",
+    "abstract": "Abstract    Spoilage of wine from volatile acidity or off flavors caused by uncontrolled growth of lactic acid bacteria (LAB) and acetic acid bacteria (AAB) results in significant economic losses. We aim to survey the persistence of LAB and AAB throughout the wine processing stages, and to evaluate the potential of phages as targeted microbial control. Cabernet Sauvignon samples were collected from a winery in Livermore, California during 2025 harvest season, covering grape rinse, juice/must, the end of primary fermentation and malolactic fermentation steps. Bacterial 16S amplicon sequencing of these samples identified key species that persist through the wine processing steps, including  Lactiplantibacillus plantarum  and  Levilactobacillus lactis  among LAB, and  Acetobacter oryzoeni  and  Acetobacter pasteurianus  among AAB. Phages targeting  L. brevis  ,  A. pasteurianus  and  A. fabarum  were isolated.  L. brevis  phages Indaco_L1 and Indaco_L2 (genome size of 135,623 bp and 141,184 bp, respectively) are related to phages in the  Tybeckvirus  genus of the  Herelleviridae  family, but distinct enough to form two novel species. The two novel  Acetobacter  phages, a first reported  Acetobacter  jumbo phage Vinphasol_A1 (genome size 397,952 bp) and Vinphasol_A2 (genome size 56,636 bp), share little DNA sequence similarity to phages in the current NCBI database. These isolated phages were able to inhibit the growth of  L. brevis, A. pasteurianus  and  A. fabarum  for up to 7 days in conditions simulating wine fermentation, suggests their potential application in controlling microbial spoilage during wine making processes.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11472634/v1",
+    "date": "2026-11-04",
+    "authors": "Boeckman J, Gill J, Jafri A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358078",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 400,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11472634/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "454654ba24459e332e5087b9c3764b6e8a55aaafd6516397809a2ce64ebed96e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:19:34.625653+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5e91269266201cad64cbd03c1bd14e9f8a03b4902c9d3bc4ed049b4c57183af5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:19:34.625653+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カリフォルニアのワイナリー産乳酸菌、酢酸菌およびそのファージの特性解析",
+    "abstract_ja": "要旨    乳酸菌（LAB）および酢酸菌（AAB）の制御不能な増殖に起因する揮発性酸度や異味によるワインの劣化は、多大な経済的損失をもたらす。本研究では、ワイン醸造工程全体におけるLABおよびAABの残存性を調査し、標的微生物制御としてのファージの可能性を評価することを目的とした。2025年の収穫期に、カリフォルニア州リバーモアのワイナリーから、ブドウの洗浄、果汁／マスト、一次発酵の最終段階、およびマロラクティック発酵の各工程にわたるカベルネ・ソーヴィニヨンのサンプルを採取した。これらのサンプルの細菌16Sアンプリコンシーケンシングにより、LABではLactiplantibacillus plantarumおよびLevilactobacillus lactis、AABではAcetobacter oryzoeniおよびAcetobacter pasteurianusなど、醸造工程を通じて残存する主要な菌種が同定された。L. brevis、A. pasteurianus、およびA. fabarumを標的とするファージが単離された。L. brevisファージのIndaco_L1およびIndaco_L2（ゲノムサイズはそれぞれ135,623 bpおよび141,184 bp）は、Herelleviridae科Tybeckvirus属のファージに関連しているが、2つの新規種を形成するほど十分に異なっている。2つの新規Acetobacterファージ、すなわち初めて報告されたAcetobacter jumboファージのVinphasol_A1（ゲノムサイズ397,952 bp）およびVinphasol_A2（ゲノムサイズ56,636 bp）は、現行のNCBIデータベースにあるファージとのDNA配列の類似性がほとんど認められない。これらの単離されたファージは、ワイン発酵を模した条件下において、L. brevis、A. pasteurianus、およびA. fabarumの増殖を最大7日間抑制することができ、ワイン製造工程における微生物性劣化の制御への応用の可能性が示唆された。"
   }
 ]
