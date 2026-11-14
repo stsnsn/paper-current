@@ -222855,5 +222855,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "感染型および国別に層別化した欧州医療センターにおける難治性耐性（DTR）腸内細菌目菌に対するアズトレオナム・アビバクタムおよび比較薬の活性（2021– 2025年）",
     "abstract_ja": "要旨  背景：すべての第一選択薬に不感受性を示す細菌分離株と定義される治療困難な耐性（DTR）分離株は、世界的に重大な問題となっている。本研究では、欧州の医療センターから得られたDTR腸内細菌目菌に対するアズトレオナム・アビバクタムおよび比較薬の活性を評価した。方法：2021～2025年に、19カ国の欧州の医療センター41施設から30,345株の腸内細菌目菌分離株を順次収集した。分離株の感受性試験はブロスマイクロダイリューション法により実施し、MICはEUCASTのブレイクポイントに基づいて解釈した。収集した分離株のうち、1,113株がDTR分離株（カルバペネム耐性分離株：メロペネムおよび／またはイミペネムに対するMIC ≥4 mg/Lであり、かつフルオロキノロン系薬剤に感受性を示さないもの）と定義された。すべてのDTR分離株に対し、全ゲノムシーケンシングによりβ-ラクタマーゼ遺伝子のスクリーニングを行った。結果は、感染症型および国別に層別化した。結果：アズトレオナム・アビバクタムはDTRの99.6%に対して活性を示し（MIC50/90, 0.25/0.5 mg/L）、すべての感染症型のDTR分離株に対して一貫した活性を示した。セフィデロコールはDTR分離株の78.8%に対して活性を示したが、セフタジジム・アビバクタム、メロペネム・バボルバクタム、イミペネム・レレバクタム、およびアミノグリコシド系薬剤は、これらの菌に対する活性が限定的であった。DTRの頻度は、他の感染症型（2.3～3.4%）と比較して肺炎由来の分離株（6.6%）で高く、国によって0.0%（スイス）から19.7%（ポーランド）まで幅があった。アズトレオナム・アビバクタムに対するDTRの感受性は、94.4%（フランス）から100.0%（14カ国）の範囲であった。アズトレオナム・アビバクタムは、セフタジジム・アビバクタム（感受性99.2%）、メロペネム・バボルバクタム（感受性99.6%）、および／またはセフィデロコール（感受性97.8%）に不感受性なDTR分離株に対しても、強力な活性を維持した。DTR分離株で同定された最も一般的なカルバペネマーはNDM（DTRの41.2%）であり、次いでOXA-48様（38.2%）、KPC（34.3%）であった。さらに、メタロβ-ラクタマーゼ（MBL）産生菌の99.6%がアズトレオナム・アビバクタムに感受性を示し、68.2%がセフィデロコールに感受性を示した。結論：アズトレオナム・アビバクタムは、欧州の医療センター由来のDTR腸内細菌目菌に対して強力な活性を維持しており、その活性は、臨床的に意義のあるカルバペネマーや、多剤耐性腸内細菌目菌の治療に現在用いられている薬剤への耐性によって悪影響を受けることはなかった。他のβ-ラクタマーゼ阻害薬の併用およびセフィデロコールの活性は、MBL産生菌の出現頻度の増加により低下した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763616",
+    "title": "Chromosomally-Encoded Hok/Sok Toxin/Antitoxin Systems Inhibit Phage Infection",
+    "abstract": "ABSTRACT  The primary physiological role of toxin/antitoxin (TA) systems is phage defense; they are also used to stabilize mobile genetic elements. In the initial publication in 1996, plasmid-encoded Hok/Sok, a type I TA system (protein toxin, RNA antitoxin that inhibits toxin mRNA), was shown to inhibit T4 phage infection in  Escherichia coli by reducing its efficiency of plating and burst size and by increasing the time for mature phage to form (latent period). This publication also identified that the mechanism of Hok/Sok inhibiting T4 was host transcription shutoff, arguably the most-general phage inhibition system since most phages impair host transcription. However, recently, the role of Hok/Sok in phage inhibition has been challenged. Therefore, here we investigated the role of four  E. coli chromosomally-expressed,  hok + /sok + loci and the one orphan  hok + locus and found that the Hok proteins inhibit the infection of  E. coli by BASEL phage 48, a Vequintavirus with myovirus morphology. Of the five Hok proteins, the greatest phage inhibition was by HokB, and infection by BASEL phages 34 and 39 were also inhibited by HokB. We also find BASEL phage 48 requires the WecB-generated receptor NGR for infection. Therefore, chromosomally-derived orphan Hok proteins, produced at physiological levels, are relevant for phage inhibition.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763616",
+    "date": "2026-11-03",
+    "authors": "Seo E, Cingle ME, Wood TK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359005",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2200,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763616"
+    ],
+    "translation": {
+      "title": {
+        "hash": "36285af8ebfc955eb54d29eef7953815c547cfca424d45ef6c2eff4f1940e0f2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:46:10.444447+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "14fb37a7f3b02d0f1f4e26c1cbd3d9c60a52a887af64a01aec6641a9962af011",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:46:10.444447+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "染色体コード型Hok/Sok毒素・抗毒素系はファージ感染を抑制する",
+    "abstract_ja": "要旨　毒素／抗毒素（TA）系の主要な生理学的役割はファージ防御であり、また可動性遺伝因子の安定化にも利用される。1996年の最初の論文において、プラスミド符号化型Hok/Sok（タイプI TA系：タンパク質毒素、毒素mRNAを阻害するRNA抗毒素）が、コロニー形成効率とバーストサイズを低下させ、成熟ファージの形成までの時間（潜伏期間）を延長させることで、大腸菌におけるT4ファージ感染を阻害することが示された。また、同論文では、Hok/SokによるT4阻害のメカニズムが宿主の転写シャットオフであることが特定された。ほとんどのファージが宿主の転写を阻害するため、これはおそらく最も汎用的なファージ阻害系であると言える。しかしながら、近年、ファージ阻害におけるHok/Sokの役割に疑問が呈されている。そこで本研究では、大腸菌において染色体上に発現する4つのhok +/sok + 遺伝子座と、1つのオーファンhok + 遺伝子座の役割を調査し、Hokタンパク質が、ミオウイルス形態を持つヴェキンタウイルスであるBASELファージ48による大腸菌への感染を阻害することを見出した。5つのHokタンパク質のうち、最も強いファージ阻害効果を示したのはHokBであり、BASELファージ34および39による感染もHokBによって阻害された。また、BASELファージ48が感染にWecBによって生成される受容体NGRを必要とすることも判明した。したがって、生理的レベルで産生される染色体由来のオーファンHokタンパク質は、ファージ阻害に関与している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763782",
+    "title": "Targeted cancer ablation via programmable sensing of amplified oncogenic RNA",
+    "abstract": "Selectively eliminating cancer cells based on their oncogenic drivers holds great promise but remains challenging for targeted cancer therapy. Here, we present ORCA (Oncogenic RNA-triggered Cancer Ablation), a programmable and modular platform that couples RADAR-based detection of oncogenic RNA with conditional expression of therapeutic payloads in cancer cells. We identify RADAR sensors targeting the transcripts of endogenously amplified oncogenes, including  MYC ,  FGFR2 and wild-type  KRAS in colorectal and gastric cancer cells. Focusing on colorectal cancer (CRC) driven by extrachromosomal DNA-amplified  MYC , we demonstrate targeted ablation of high-  MYC cancer cells using two orthogonal strategies: anti-CD19 CAR-T therapy and enzyme-prodrug therapy.  In vivo delivery of ORCA using adeno-associated virus (AAV) suppresses tumor growth in a subcutaneous xenograft model and prolongs survival in a CRC liver metastasis model. ORCA establishes oncogenic RNAs as actionable inputs for targeted cancer therapy via programmable RNA sensing, thus offering a strategy to target tumors through the transcripts of otherwise difficult-to-drug oncogenes such as  MYC .",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763782",
+    "date": "2026-11-03",
+    "authors": "Zhang M, Hu Y, Yamada-Hunter SA, Sotillo E, Dai H, Call CC, Tousley AM, Kim SJ, Liu W, Winslow MM, Mackall CL, Gao XJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358966",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2201,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763782"
+    ],
+    "translation": {
+      "title": {
+        "hash": "edd14e725efea2c226904f5cf2aed497cd899741b3f5819c5fdbd8adcf67d4ed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:46:10.444447+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6edb3a2e45f64bf2363c15235b9bc6e13fbb870e472118bc406756a724889cf2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:46:10.444447+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "増幅された発がん性RNAのプログラム可能なセンシングによる標的がんアブレーション",
+    "abstract_ja": "発がんドライバーに基づいてがん細胞を選択的に除去することは大きな可能性を秘めているが、標的がん治療においては依然として困難な課題である。本研究では、発がんRNAのRADARベースの検出と、がん細胞における治療ペイロードの条件付き発現を組み合わせた、プログラム可能かつモジュール式のプラットフォームであるORCA（Oncogenic RNA-triggered Cancer Ablation）を提案する。我々は、大腸がんおよび胃がん細胞において、MYC、FGFR2、および野生型KRASを含む、内因性に増幅されたがん遺伝子の転写産物を標的とするRADARセンサーを同定した。染色体外DNAによって増幅されたMYCが駆動する大腸がん（CRC）に着目し、抗CD19 CAR-T療法と酵素プロドラッグ療法という2つの直交する戦略を用いて、高MYCがん細胞の標的アブレーションを実証した。アデノ随伴ウイルス（AAV）を用いたORCAのin vivo送達は、皮下ゼノグラフトモデルにおいて腫瘍増殖を抑制し、CRC肝転移モデルにおいて生存期間を延長させた。ORCAは、プログラム可能なRNAセンシングを通じて、発がんRNAを標的がん治療のための実用的な入力として確立し、これにより、MYCのような本来では薬剤化が困難ながん遺伝子の転写産物を介して腫瘍を標的とする戦略を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762471",
+    "title": "Spatial transcriptomics of pediatric tuberculosis lymph nodes reveals a conserved hypoxia–SPP1 niche",
+    "abstract": "Pediatric tuberculosis (TB) often presents as primary disease involving the mediastinal lymph nodes; however, its granuloma microenvironment remains poorly characterized because these population patient tissues are rarely available for study. Here, we use spatial transcriptomics to profile 60 granulomas from four children aged 4 to 36 months. We identified nine recurrent transcriptional microenvironments shared across granulomas, despite their marked histological heterogeneity. One macrophage-rich microenvironment showed strong hypoxia-associated activity and  secreted phosphoprotein 1 (SPP1) enrichment. This microenvironment was present in both non-necrotic and necrotic lesions and overlapped with a Mtb-persistence macrophage signature previously identified in murine TB lymph nodes. Pathway analysis revealed the enrichment of both antimicrobial and regulatory programs within this microenvironment, suggesting partial immune control rather than uniform inflammatory or suppressive activity in this region. SPP1 expression was associated with regions enriched for both M1- and M2-like macrophages, suggesting a macrophage program that extends beyond conventional polarization classifications and may be influenced by the local granuloma microenvironment. We further observed a similar spatial association between hypoxia-associated activity and SPP1 expression in an independent adult TB dataset (pooled Spearman ρ=0.65) and validated this association at protein level by multiplex immunofluorescence in our pediatric TB granuloma sample. Overall, this study identified a hypoxia-associated  SPP1 -enriched microenvironment that may contribute to incomplete bacterial clearance and could provide a framework for evaluating host-directed strategies to enhance sterilizing immunity without exacerbating tissue damage.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762471",
+    "date": "2026-11-03",
+    "authors": "Adebiyi SO, Goussard P, De Wet DR, Janson JT, Jooste T, Shabangu A, Dorhoi A, Bondoc S, Nekorchuk M, Chao MC, Fortune SM, Busman-Sahay K, Estes JD, Shamskhou EA, Urdahl KB, Gerner MY, Walzl G, Du-Plessis N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357642",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2230,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762471"
+    ],
+    "translation": {
+      "title": {
+        "hash": "542b288389238d13d773b3ce8832e4d5df021d10b2ff89ecd751f8bdd5a80f24",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:46:10.444447+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1455e641404ceb0c59975cf2393bee00b4e662298505e507b3970e1903ba5cd6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:46:10.444447+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "小児結核リンパ節の空間トランスクリプトミクスにより、保存された低酸素-SPP1ニッチが明らかになった",
+    "abstract_ja": "小児結核（TB）は、しばしば縦隔リンパ節を侵す原発性疾患として発症するが、これらの患者集団の組織が研究に供されることが稀であるため、その肉芽腫微小環境については十分に解明されていない。本研究では、空間トランスクリプトミクスを用いて、4～36か月の小児4例から得られた60例の肉芽腫のプロファイル解析を行った。その結果、組織学的な異質性が顕著であるにもかかわらず、肉芽腫間で共通する9つの反復的な転写微小環境を同定した。マクロファージが豊富なある微小環境では、強い低酸素関連活性が認められ、ホスホプロテイン1（SPP1）の濃縮が認められた。この微小環境は、非壊死性病変および壊死性病変の双方に認められ、マウス結核リンパ節で以前に同定されたMtb持続性マクロファージのシグネチャーと重複していた。パスウェイ解析により、この微小環境内では抗菌プログラムと調節プログラムの両方が濃縮されていることが明らかになり、この領域において一様な炎症性または抑制性活性ではなく、部分的な免疫制御が働いていることが示唆された。SPP1の発現は、M1様およびM2様マクロファージの両方が濃縮された領域と関連しており、従来の極性分類を超えたマクロファージプログラムが存在し、それが局所的な肉芽腫微小環境の影響を受けている可能性が示唆された。さらに、独立した成人結核データセット（プール解析：Spearman ρ=0.65）においても、低酸素関連活性とSPP1発現の間に同様の空間的関連性が認められ、小児結核肉芽腫サンプルを用いたマルチプレックス免疫蛍光法により、タンパク質レベルでこの関連性を検証した。総じて、本研究は、不完全な細菌除去に寄与し得る低酸素関連のSPP1濃縮微小環境を同定した。これは、組織損傷を増悪させることなく殺菌免疫を強化するための宿主指向性戦略を評価する枠組みを提供し得るものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762138",
+    "title": "Compost-associated microbiota modulates root transcriptional responses and enhances tomato drought resilience",
+    "abstract": "Summary  Compost is a promising sustainable alternative to mineral fertilization because it supplies nutrients and organic matter while hosting diverse microbial communities. However, even if its application to plants has been proven to alleviate different biotic and abiotic stresses, it remains unclear whether its benefits arise from its physico-chemical properties, its associated microbiota, or both. In this study, we compared the impact of compost, sterile compost and an NPK treatment providing equivalent macronutrient inputs on tomato plants cv. Micro-Tom. After assessing physiological parameters of the leaves and molecular responses of the roots under optimal conditions, we performed a drought stress experiment under the three fertilization treatments, complementing the analysis with the investigation of substrate water-retention properties. Although all fertilized treatments improved plant performance relative to nutrient-poor soil, RNA sequencing revealed distinct root transcriptional profiles among compost, sterile compost and NPK, with the compost treatment upregulating several pathways related to plant growth and health, such as hormone signaling, nutrient metabolism, and stress responses. When subjected to severe water stress, compost-treated plants retained the highest photosynthetic efficiency and compost showed the highest available water content compared to the other treatments. These findings suggest that compost may enhance tomato drought resilience through combined effects of substrate water availability and compost-associated microbiota.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762138",
+    "date": "2026-11-03",
+    "authors": "Cipriani R, Strickler SR, Petruzzellis F, Ghirardello G, Greggio L, Zanardi W, Bonato T, Baldan B, Nigris S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357592",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2231,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762138"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1617231919e4fbdf2e9f7bd84d1d34f07ea065cf60f39ffc890f0d244fcc0236",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:46:10.444447+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "37216379f1ecbd4f12b26b09da2fbd73493e3f15b82fcd212f8fdd91994bff67",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:46:10.444447+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "堆肥関連微生物叢は根の転写応答を調節し、トマトの耐乾性を高める",
+    "abstract_ja": "要旨  堆肥は、多様な微生物群集を宿しながら養分と有機物を供給するため、鉱物肥料に代わる有望な持続可能な代替手段である。しかし、植物への施用によってさまざまな生物的・非生物的ストレスが軽減されることが実証されているとはいえ、その有益性が物理化学的特性に起因するのか、付随する微生物叢に起因するのか、あるいはその両方によるものなのかは依然として不明である。本研究では、トマト品種cv. Micro-Tomを用い、堆肥、無菌堆肥、および同等の多量要素供給を行うNPK処理が及ぼす影響を比較した。最適条件下における葉の生理学的パラメータおよび根の分子応答を評価した後、3種類の施肥処理条件下で乾燥ストレス実験を行い、さらに基質の保水特性の調査によって解析を補完した。すべての施肥処理において、養分に乏しい土壌と比較して植物の生育成績は向上したが、RNAシーケンシングにより、堆肥、無菌堆肥、およびNPK処理の間で根の転写プロファイルに明確な差異が認められ、堆肥処理ではホルモンシグナル伝達、養分代謝、ストレス応答など、植物の成長と健康に関連する複数の経路が亢進していた。深刻な水ストレス条件下において、堆肥処理を施した植物は他の処理と比較して最高の光合成効率を維持し、最高の有効水分量を示した。これらの知見は、基質の水分利用可能性と堆肥付随微生物叢の複合的な効果により、堆肥がトマトの乾燥耐性を高める可能性を示唆している。"
   }
 ]
