@@ -209114,5 +209114,334 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "GraffiTEを用いた転移因子の統合的なジェノタイピング、アノテーション、およびエピジェネティック特性解析",
     "abstract_ja": "ロングリードシーケンシング（LRS）とde novoアセンブリにより、TE変異のジェノタイピング、アノテーション、および特性解析は飛躍的に進展した。また、LRS技術はCpGメチル化を明らかにし、これによりエピゲノムに対するTEの影響を測定することが可能となり、調節配列としてのTEの役割を解明している。しかし、TEジェノタイピングツールは、アレル特異的な貴重なエピジェネティック情報を切り捨てている。本稿では、SVのジェノタイピング、多型性可動要素（MEI）のアノテーション、およびパンゲノムグラフを用いたエピジェネティックデータのTEへのマッピングを単一コマンドで実行する初のNextflowパイプライン「GraffiTE v1.1」を提案する。GraffiTE v1.1は、Fiber-seqを含む、LRSステンシルに基づくあらゆるエピジェネティック情報のマッピングを行うよう設計されている。我々は、フランス系カナダ人のケベック州住民20名から得られたゲノムおよびメチロームを解析することで、GraffiTE v1.1の性能を実証した。これらのゲノムにおいて、TEアノテーションにより、4,908個のAlu、704個のLINE1、112個のSVA、および21個のHERVK（HML-2）という個別の多型性可動要素（MEI）が同定された。また、単独のLTRとプロウイルスの間で、あるいはプロウイルスのコピー数において変動する10箇所の固定HERVK挿入を同定した。これらのMEIは、リファレンスに存在しない144,748個の追加CpGに寄与していることが判明した。ここから、低メチル化状態にある480個のAlu、67個のLINE1、12個のSVA、および2個のHERVKを同定した。なお、AluおよびSVAは、他のLINE1やHERVKよりもメチル化が進んでいる。最後に、MEIの報告された平均年代は1.08 Mya（中央値：640 kya）であり、ベータ回帰により、年代がMEIに中程度の脱メチル化効果を及ぼすことが示された（効果：log10年あたり-0.069 log-odds, P < 6.08x10 -19）。我々の結果は、LINE1 MEIのメチル化レベルが、最初の1 Myaで86.4%から80.8%に低下することが予想されることを示している。結論として、GraffiTE v1.1はLRSの潜在能力を最大限に活用することで、SVのジェノタイピング、MEIのアノテーション、および集団規模でのエピジェネティック状態の特性解析を行う。本稿ではヒトデータへの適用例を示したが、本パイプラインはTEライブラリが利用可能なあらゆるモデルに展開可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.764892",
+    "title": "PyTorch Frustratometer: An Ultra-fast, Parallelized Tool for Proteome-Scale Local Energetic Frustration Analysis",
+    "abstract": "Most natural protein sequences fold into well-defined three-dimensional structural ensembles, satisfying interactions that have been shaped over evolutionary timescales. The principle of minimal frustration states that most native interactions are energetically more favorable than alternative non-native ones, resulting in a funnel-shaped folding energy landscape. The FrustratometeR tool measures how the energetics of a residue or contact compares to decoys with different amino acid identities or configurations. Contacts are classified as minimally frustrated when these are more stable than random alternatives, highly frustrated when less stable, or neutral when energetically indistinguishable from them. Clusters of highly frustrated interactions are often evolutionarily conserved and are typically associated with functional regions. Therefore, identifying and quantifying local frustration can provide insights into both protein stability and function. Here we present a PyTorch reimplementation of FrustratometeR that accelerates conventional frustration calculations by ∼70–13,000× on a single GPU, depending on chosen frustration mode and protein size, with substantially larger gains for exhaustive mutational scanning, enabling proteome-scale local frustration analysis. We benchmark against the original algorithm on the CATH v4.4 S40 dataset and show near-identical results across all three frustration modes and mutational scanning. Source code is freely available at  https://github.com/ParraLab-ESBG/pytorch-frustratometer .",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764892",
+    "date": "2026-11-09",
+    "authors": "Draizen EJ, Jaafari H, Bueno C, Llaberia A, Clark F, Galpern EA, Simonetti FL, Freiberger MI, Wolynes PG, Ferreiro DU, Parra RG.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362485",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "proteome",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4341,
+    "collected_at": "2026-11-13T07:56:57.456049+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.06.764892"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bbbe6c3bc2b46fc64dd39952eb70120aad768524664ec1983915799090ba40f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:13:11.457236+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8d18d31f319fd50088b9c1a66724c67ae9faaa8876c3c7b090b56a1d6929216b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:13:11.457236+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PyTorch Frustratometer: プロテオームスケールの局所的エネルギーフラストレーション解析のための超高速並列化ツール",
+    "abstract_ja": "ほとんどの天然タンパク質配列は、進化的な時間スケールで形成されてきた相互作用を満たす、明確に定義された三次元構造アンサンブルへと折り畳まれる。最小フラストレーションの原理によれば、ほとんどの天然相互作用は、代替となる非天然相互作用よりもエネルギー的に有利であり、その結果、漏斗状の折り畳みエネルギーランドスケープが形成される。FrustratometeRツールは、残基またはコンタクトのエネルギー特性が、異なるアミノ酸の同一性や構成を持つデコイと比較してどうであるかを測定する。コンタクトは、ランダムな代替候補よりも安定な場合を「最小フラストレーション」、安定性が低い場合を「高度フラストレーション」、エネルギー的に区別がつかない場合を「中立」と分類する。高度フラストレーションを示す相互作用のクラスターは、しばしば進化的に保存されており、通常は機能領域に関連している。したがって、局所的なフラストレーションを同定し定量化することは、タンパク質の安定性と機能の双方に関する知見をもたらし得る。本研究では、選択したフラストレーションモードとタンパク質サイズに応じて、単一GPU上で従来のフラストレーション計算を約70～13,000倍高速化するFrustratometeRのPyTorchによる再実装を提示する。これは、網羅的な変異スキャンにおいて大幅に大きな性能向上をもたらし、プロテオームスケールの局所的フラストレーション解析を可能にする。CATH v4.4 S40データセットを用いてオリジナルアルゴリズムとのベンチマークを行い、3つのフラストレーションモードおよび変異スキャンのすべてにおいてほぼ同一の結果を示す。ソースコードは https://github.com/ParraLab-ESBG/pytorch-frustratometer で無料で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0840.v1",
+    "title": "Scoping Review of Computational Drug Repurposing Methods Using Electronic Health Records and Genomic Data",
+    "abstract": "Background:  Computational drug repurposing increasingly combines electronic health records (EHRs), genomic data and other related omics resources, but the methods used for this purpose and particular datasets have not been fully assessed. Objective: To retrieve and characterise computational approaches that use EHR, genomic or related omics data to identify and prioritise medicines for drug repurposing. Eligibility criteria: We included original research articles, preprints and conference abstracts that described or applied computational methods for drug repurposing using eligible clinical, genomic or related omics data. Literature reviews were used for supplementary reference searching but were not included in the analysis. Publications not written in English were excluded. Sources of evidence: Embase, MEDLINE, Web of Science Core Collection and Epistemonikos were searched from database inception to 30 September 2025. References of relevant reviews were also examined.Charting and synthesis: One reviewer screened the records and extracted publication, data source, methodological, validation and accessibility information using a structured data-charting framework. Findings were summarised with counts, percentages, tables and graphical mapping of methods and data-source combinations. Results: After deduplication and screening, 117 documents were included. Genomic and transcriptomic data were the most common data types, while EHR-based studies commonly used observational causal inference or large-scale target-trial emulation approaches. Functional annotation and integration with drug-target databases were the most frequent methodological strategies. Independent validation of prioritised targets and complete open-source code availability were uncommon. Among studies reporting cohort location, Europe and North America were most frequently represented. Conclusions: Computational drug-repurposing research is expanding and increasingly integrates multiple data domains. Important gaps remain in geographical representation, validation, reproducibility and open-source analytical code availability.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0840.v1",
+    "date": "2026-11-09",
+    "authors": "López-Güell K, Xie J, Català M, Jödicke AM, Prieto-Alhambra D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362755",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4359,
+    "collected_at": "2026-11-13T07:56:57.456049+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.20944/preprints202611.0840.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "82ce696a333db9e167bcbdd1d30137df5eb59c0555ed9542f615af0582dc908b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:13:11.457236+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dd2220dccf6a6846962422b1224878156ae3f5de8ea5d982de3ac19282d5a501",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:13:11.457236+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "電子カルテとゲノムデータを用いた計算機的ドラッグリポジショニング法のスコーピングレビュー",
+    "abstract_ja": "背景：計算科学的なドラッグリパーパシングでは、電子健康記録（EHR）、ゲノムデータ、およびその他の関連オミクスリソースの統合が進んでいるが、その目的で使用される手法や特定のデータセットについては十分に評価されていない。目的：EHR、ゲノムデータ、または関連オミクスデータを用いて、ドラッグリパーパシング対象薬の特定および優先順位付けを行う計算科学的アプローチを抽出し、特性評価すること。適格基準：適格な臨床データ、ゲノムデータ、または関連オミクスデータを用いたドラッグリパーパシングのための計算科学的手法を記述または適用した原著論文、プレプリント、および学会抄録を対象とした。文献レビューは補足的なリファレンス検索に用いたが、分析には含めなかった。英語で執筆されていない論文は除外した。エビデンスソース：Embase、MEDLINE、Web of Science Core Collection、およびEpistemonikosを、データベース開設時から2025年9月30日まで検索した。関連するレビューの参考文献についても検討した。チャート作成および統合：1名のレビュー担当者がレコードをスクリーニングし、構造化データチャートフレームワークを用いて、出版物、データソース、方法論、検証、およびアクセシビリティ情報を抽出した。知見は、カウント、パーセンテージ、表、および手法とデータソースの組み合わせのグラフィカルなマッピングを用いて要約した。結果：重複排除およびスクリーニングの結果、117件の文書が含まれた。ゲノムおよびトランスクリプトームデータが最も一般的なデータタイプであり、EHRベースの研究では、観察的因果推論または大規模なターゲット試験エミュレーションアプローチが一般的に用いられていた。機能的アノテーションおよび薬物-標的データベースとの統合が、最も頻繁に用いられた方法論的戦略であった。優先順位付けされたターゲットの独立した検証や、完全なオープンソースコードの公開は稀であった。コホートの所在地を報告した研究では、欧州および北米が最も頻繁に見られた。結論：計算科学的なドラッグリパーパシング研究は拡大しており、複数のデータドメインの統合が進んでいる。地理的な代表性、検証、再現性、およびオープンソースの解析コードの利用可能性において、依然として重要な課題が残っている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.764884",
+    "title": "Assembly of host-specific bacterial and fungal communities from soil by diverse subaerial green algae",
+    "abstract": "Green algae recruit microbes from their environment to the phycosphere, a region closely surrounding algal cells which is analogous to the rhizosphere of land plants. Recent work showed that subaerial green algae can recruit and assemble their phycosphere microbiota from soil-derived bacteria. However, how widespread this ability is among diverse green algae, whether host identity shapes community composition, and whether soil-borne fungi can be recruited to the phycosphere remained unclear. Here, we show that subaerial green algae spanning Chlorophyta and Streptophyta assemble distinct phycosphere communities from soil-derived bacteria and fungi, with host identity as the primary driver of phycosphere composition, both in natural soil and in a liquid mesocosm. In soil, bacterial communities were strongly reshaped by algal hosts, whereas the fungal communities responded more weakly and less consistently. In liquid system, bacterial community composition was correlated with host phylogeny. Phycosphere communities included taxa known to associate with land plants in the rhizosphere, supporting the finding that some microbial taxa associate with a wide range of photosynthetic hosts. Our findings demonstrate that the green algae capacity to assemble distinct phycosphere communities possibly predates the divergence of Chlorophyta and Streptophyta. The stronger effect of host identity on bacterial than fungal community mirrors patterns observed in land plant microbiota, suggesting that principles of host-microbe interactions are conserved across evolutionarily distant photosynthetic hosts.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764884",
+    "date": "2026-11-09",
+    "authors": "Slawinska MW, Melkonian B, Melkonian M, Flores-Uribe J, Durán P, Garrido-Oter R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362363",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 68,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.06.764884"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b1af81592b4c5f04a158993ded783f7f65c7c54c89a7cbb1dfbf4e3e0469385a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:13:11.457236+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3cf9b2de1e35666eaccc8de4ec01eb77758ec893fcc9fd779bab2c212a225203",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:13:11.457236+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多様な亜空中緑藻による土壌からの宿主特異的な細菌・真菌群集の形成",
+    "abstract_ja": "緑藻は、周囲の環境から微生物をフィコスフィア（藻類細胞を密接に囲む領域であり、陸上植物の根圏に相当する）へと取り込む。近年の研究により、地上性緑藻が土壌由来の細菌からフィコスフィア微生物叢を取り込み、構築できることが示された。しかし、この能力が多様な緑藻の間でどの程度広く見られるのか、宿主の種が群集組成を規定するのか、そして土壌由来の真菌をフィコスフィアに取り込めるのかについては、依然として不明であった。本研究では、緑藻門（Chlorophyta）および連鎖藻門（Streptophyta）にわたる地上性緑藻が、天然土壌および液体メソコスムの双方において、土壌由来の細菌と真菌からそれぞれ異なるフィコスフィア群集を構築すること、ならびに宿主の種がフィコスフィア組成の主要な駆動要因となることを示す。土壌中では、細菌群集は藻類宿主によって強く再形成されたのに対し、真菌群集の反応はより弱く、一貫性も低かった。液体系では、細菌群集の組成は宿主の系統と相関していた。フィコスフィア群集には、根圏において陸上植物と共生することが知られている分類群が含まれており、一部の微生物分類群が広範な光合成宿主と共生するという知見を裏付ける結果となった。本研究の知見は、緑藻が異なるフィコスフィア群集を構築する能力が、おそらく緑藻門と連鎖藻門の分岐よりも古くから存在していたことを示している。真菌群集よりも細菌群集において宿主の種がより強い影響を及ぼすことは、陸上植物の微生物叢で観察されるパターンを反映しており、宿主と微生物の相互作用の原理が、進化的に離れた光合成宿主間においても保存されていることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764726",
+    "title": "Host control and regulation of human anellovirus persistence",
+    "abstract": "SUMMARY  Anelloviruses are the most abundant and diverse eukaryotic viruses known to infect humans and can persist throughout our lifetimes. Despite their ubiquity, the host factors governing their physiologic distribution and abundance remain poorly understood. Here, we construct a viral pangenome of 2,023 strains to quantify anellovirus DNA in >1.1 million participants spanning three genetic biobanks. Genome-wide association studies identify 121 loci linked to viral persistence, predominantly via immune regulation by NF-κB signaling. Further, we associate variable anellovirus detection with conditions characterized by immune dysfunction, including lymphoid malignancies. By screening 3.2 petabases of human single-cell sequencing data, we identify myeloid progenitors in the bone marrow as a prominent site of anellovirus transcription in vivo. Finally, Perturb-seq of anellovirus proteins reveals that anellovirus ORF2, particularly from Alphatorquevirus, attenuates TNF-α-induced NF-κB signaling, connecting host genetic variation, cellular context, and viral immunomodulation to characterize the persistence of the eukaryotic human virome’s most abundant component.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764726",
+    "date": "2026-11-09",
+    "authors": "Gutierrez JC, Ali TA, Honeycutt CC, Neo JH, Helmsauer K, Nyeo SS, Le A, Vela AJ, Kida LC, Varela AA, Ardy RC, Metzner E, Ulirsch JC, Dhindsa RS, Fiziev PP, Chikhi R, Norman TM, Dey KK, Lareau CA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362566",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "pangenom",
+          "pangenome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 169,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.05.764726"
+    ],
+    "translation": {
+      "title": {
+        "hash": "409ffae39cedbf2116ef0328f584adb4f353f5dca857734f79635caa75d6df41",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:13:11.457236+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c7d5c9621e9640892d2c852db12a421015f7e254f976568db6ffdccb1791088c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:13:11.457236+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主によるヒトアネロウイルスの持続性の制御と調節",
+    "abstract_ja": "要旨  アネロウイルスは、ヒトに感染することが知られている真核ウイルスの中で最も豊富かつ多様なウイルスであり、生涯を通じて持続し得る。その遍在性にもかかわらず、生理的な分布と存在量を規定する宿主因子については依然として十分に解明されていない。本研究では、3つの遺伝子バイオバンクにわたる110万人以上の被験者を対象に、2,023株のウイルスパンゲノムを構築し、アネロウイルスDNAを定量した。ゲノムワイド関連解析により、主にNF-κBシグナル伝達による免疫調節を介して、ウイルスの持続性に関連する121箇所の遺伝子座が同定された。さらに、アネロウイルスの検出率の変動を、リンパ系悪性腫瘍を含む免疫機能不全を特徴とする病態と関連付けた。ヒトシングルセルシーケンシングデータ3.2ペタベースをスクリーニングした結果、骨髄における骨髄系前駆細胞が、生体内におけるアネロウイルス転写の主要な部位であることを同定した。最後に、アネロウイルスタンパク質のPerturb-seqにより、アネロウイルスORF2（特にAlphatorquevirus由来）がTNF-α誘導性NF-κBシグナル伝達を減弱させることが明らかとなり、宿主の遺伝的変異、細胞コンテキスト、およびウイルスの免疫調節を結びつけることで、真核ヒトビロームにおいて最も豊富に存在する構成要素の持続性を解明した。"
   }
 ]
