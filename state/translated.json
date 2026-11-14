@@ -208531,5 +208531,290 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PVDive: 植物ウイルス多様性データベース",
     "abstract_ja": "要旨 植物ウイルスは、農作物の生産、植物の健全性、および植物材料の国際的な移動に影響を及ぼす多様な感染性因子の一群である。植物ウイルスに関する科学的データの利用可能性とアクセシビリティは、植物保護活動、科学研究、診断、植物育種などにおいて不可欠である一方、現時点で公開されている植物ウイルスデータは容易にアクセスできず、標準化されておらず、異なるリソースに散在し、相互連携が不十分であり、科学者やデジタルエージェントによる検索も容易ではない。本稿では、植物ウイルスに関連する高品質で標準化された統合データを提供する、無料で利用可能なリソースであるPVDive（Plant Virus Diversity Database; https://pvdive.dsmz.de）を紹介する。PVDiveは主に、個々の植物ウイルス分離株、およびライプニッツ研究所DSMZ（ドイツ）の植物ウイルスコレクションに由来するサンプルレベルの情報を提供している。データは、既存の公開リソースで利用可能な植物ウイルス種および宿主植物の情報と統合されており、そのアクセスは単一のプラットフォームに集約されている。数多くの検索機能を備えた直感的でユーザーフレンドリーなインターフェースとRESTfulアプリケーションプログラミングインターフェースを通じて、PVDiveは植物ウイルスデータの発見性、アクセシビリティ、検索性、および相互運用性を向上させる。データ探索を支援するため、本プラットフォームには詳細検索、配列ビューア、ホストギャラリー、およびインタラクティブなデータビューなどのツールも含まれている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1164",
+    "title": "PubChem 2027 update",
+    "abstract": "AbstractPubChem (https://pubchem.ncbi.nlm.nih.gov) is a public chemical information resource that serves scientific communities across various domains, as well as the general public. Over the past 2 years, substantial changes have been made to PubChem. The addition of over 100 new data sources has broadened its data coverage. A new data collection, RefChem, containing chemical records compiled by the PubChem team from authoritative and curated sources, was introduced to improve annotation mapping and disambiguation and to provide better access to information on substances with non-discrete structures. The Quick Search supports general exploration across multiple data collections, while the Advanced Search provides more structured, fielded search options for individual collections. The new Search History page enables users to formulate complex queries using Boolean operators. Major updates were also made to the Classification Browser and Co-occurrence Panels. Updates to PubChemRDF improved its search performance and interoperability. Practical guidance was provided for its efficient use in cloud environments. This article provides an overview of the latest updates to PubChem.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1164",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1164/9051921?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4461,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1164"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3dcb820a83ae3fabe533c60909ee14290a784013891234610de5dcb0776828f6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:07:16.066941+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1d34c49559789ee8ca5b738a69f3aaaf9fda81f1138b6242f92336509515f058",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:07:16.066941+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PubChem 2027アップデート",
+    "abstract_ja": "AbstractPubChem (https://pubchem.ncbi.nlm.nih.gov) は、さまざまな分野の科学コミュニティおよび一般市民に提供される公開化学情報リソースである。過去2年間にわたり、PubChemには大幅な変更が加えられた。100を超える新たなデータソースの追加により、データの網羅範囲が拡大した。注釈マッピングと曖昧性解消を改善し、非離散構造を持つ物質に関する情報へのアクセスを向上させるため、PubChemチームが権威ある厳選された情報源からまとめた化学記録を収録した新たなデータコレクション「RefChem」が導入された。クイック検索は複数のデータコレクションにわたる全般的な探索をサポートし、詳細検索では個々のコレクションに対してより構造化されたフィールド形式の検索オプションが提供される。新しい検索履歴ページにより、ユーザーはブール演算子を用いて複雑なクエリを策定できるようになった。また、分類ブラウザおよび共起パネルにも大幅な更新が行われた。PubChemRDFの更新により、検索性能と相互運用性が向上した。クラウド環境で効率的に利用するための実践的なガイダンスが提供された。本稿では、PubChemの最新の更新内容について概説する。"
+  },
+  {
+    "id": "10.1093/nar/gkag1185",
+    "title": "GPCRdb in 2027: new structure and ligand data and analysis tools, and updated data mapper and snakeplot visualizations",
+    "abstract": "AbstractG protein-coupled receptors database (GPCRdb) enables research on GPCRs through tailored resources for reference data, analysis, visualization, experiment design, and dissemination. Our 7th major update to GPCRdb brings extensive updates to the structural and ligand resources, along with several improvements that facilitate easier use. The Structure coverage page has been overhauled to better overview all experimental structures and to break these down into a GPCR class, receptor family, or an individual receptor. We have expanded the annotation on the Structures page by combining AI with manual curation. We add structure models of drug- and peptide-GPCR complexes generated by Boltz-2 and AlphaFold2–Multimer, respectively, and score their confidence. For ligands, we have enhanced the data in the GPCR-ligand interactions resource, implemented variants distinguishing stereoisomers, salts, and labeled versions, assigned persistent identifiers enabling lookup and database cross-linking, and visualized peptide sequences in 2D. Finally, the Data mapper page now has a simplified data input directly in the web interface enabling swift mapping of users’ own data for receptors visualized as a GPCRome wheel, tree, clusters, list, or heatmap. Together, these new features aid a multitude of use cases spanning from basic research on GPCR structure-function to drug design. GPCRdb is available at https://gpcrdb.org.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1185",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1185/9051885?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4462,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1185"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c9bd040d051e84e1f8d49598dc94b8699e927b5e354f7a17b5d516759611772b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:07:16.066941+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8c524e8a211efbc0fd33d3c39a5b8961e8ec34e2fc4e62c7b962ef5a33abf53c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:07:16.066941+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2027年のGPCRdb：新たな構造・リガンドデータと解析ツール、および更新されたデータマッパーとスネークプロット可視化",
+    "abstract_ja": "概要：タンパク質共役受容体データベース（GPCRdb）は、リファレンスデータ、解析、可視化、実験設計、および普及のための特化型リソースを通じて、GPCRに関する研究を可能にする。GPCRdbの第7回メジャーアップデートでは、構造およびリガンドリソースに広範な更新を行うとともに、利用の利便性を高める複数の改善を実施した。「Structure coverage」ページを刷新し、すべての実験構造をより包括的に把握できるようにするとともに、それらをGPCRクラス、受容体ファミリー、または個別の受容体ごとに分類した。「Structures」ページでは、AIと手動キュレーションを組み合わせることでアノテーションを拡充した。また、Boltz-2およびAlphaFold2–Multimerによってそれぞれ生成された薬物およびペプチドGPCR複合体の構造モデルを追加し、それらの信頼度をスコアリングした。リガンドについては、GPCR-リガンド相互作用リソースのデータを強化し、立体異性体、塩、およびラベル付きバージョンを区別するバリアントを実装したほか、ルックアップやデータベース間のクロスリンクを可能にする永続的識別子を割り当て、ペプチド配列を2Dで可視化した。最後に、「Data mapper」ページにおいて、ウェブインターフェース上で直接データを入力できる機能を簡素化し、ユーザーが保有するデータを、GPCRomeのホイール、ツリー、クラスター、リスト、またはヒートマップとして可視化された受容体へ迅速にマッピングできるようにした。これらの新機能が相まって、GPCRの構造・機能に関する基礎研究から創薬に至るまで、多岐にわたるユースケースを支援する。GPCRdbは https://gpcrdb.org で利用可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1163",
+    "title": "proMGE2—a planetary-scale resource of mobile genetic elements in microbial (meta)genomes",
+    "abstract": "AbstractproMGE is a resource of prokaryotic mobile genetic elements (MGEs) that systematically catalogues MGEs from prokaryotes, their intercellular spread, antimicrobial resistance gene carriage, and MGE nesting interactions. We present proMGE2 featuring a 6X expansion, a total of >16.4 million MGEs from 670k high-quality isolate genomes, and 180k metagenome-assembled genomes (MAGs), spanning diverse MGE categories: transposons and insertion sequences, phages, phage-like elements, conjugative elements, mobility islands, and integrons. proMGE2 includes MGEs from MAGs derived from environmental microbiomes, encompassing ~50k samples across several major habitat types. proMGE2 provides a standardized MGE reference collection of >5 million non-redundant MGE sequences drawn from our curated database, and enables identification of MGEs in user-provided genomes. proMGE2 captures MGE diversity and their functional potential at unprecedented scale to support future research of mobile genetic elements and transfer of genetic material in microbes. The database is available at http://promge.embl.de/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1163",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1163/9051884?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "genome",
+        "metagenom",
+        "metagenome",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "phage",
+        "phages",
+        "prokaryote",
+        "prokaryotic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4463,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1163"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d9b7233865c366886c0a8b5133d9cf204985acd54af18fda8f2affadf5124a69",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:07:16.066941+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4d3c8f8ae954ca7bca482f5e65c3d45668a8ff0215a143c7155460b41389acb6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:07:16.066941+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "proMGE2—微生物（メタ）ゲノムにおける惑星規模の可動性遺伝因子資源",
+    "abstract_ja": "要旨proMGEは、原核生物由来の可動性遺伝要素（MGE）を体系的にカタログ化したリソースであり、MGEの細胞間拡散、抗微生物薬耐性遺伝子の保有、およびMGEのネスティング相互作用を網羅している。本稿では、6倍の拡張、67万件の高品質な分離株ゲノムおよび18万件のメタゲノムアセンブルゲノム（MAG）から得られた計1,640万件以上のMGEを収録したproMGE2を提示する。これらは、トランスポゾンおよび挿入配列、ファージ、ファージ様要素、接合要素、可動性アイランド、インテグロンといった多様なMGEカテゴリーにわたる。proMGE2には、環境マイクロバイオーム由来のMAGに含まれるMGEが含まれており、複数の主要な生息環境タイプにわたる約5万件のサンプルを網羅している。proMGE2は、キュレーション済みデータベースから抽出された500万件以上の非冗長なMGE配列からなる標準化されたMGEリファレンスコレクションを提供し、ユーザー提供のゲノムにおけるMGEの同定を可能にする。proMGE2は、可動性遺伝要素および微生物における遺伝物質の転移に関する今後の研究を支援するため、かつてない規模でMGEの多様性とその機能的ポテンシャルを捉えている。本データベースは http://promge.embl.de/ で利用可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1159",
+    "title": "Sequence resources of the National Center for Biotechnology Information in 2027",
+    "abstract": "AbstractThe National Center for Biotechnology Information (NCBI) provides three principal resources containing DNA, RNA, and protein sequence data: the Sequence Read Archive (SRA), GenBank®, and the Reference Sequence (RefSeq™) collection. All resources are free to the public. SRA and GenBank are part of the International Nucleotide Sequence Database Collaboration and share data daily. After summarizing the current state of these resources, we review significant updates in the past two years, including these to the Submission Portal, the primary interface for submitting data to SRA and GenBank. We also describe access points for these data including NCBI Datasets’ website and programmatic interface, and present improvements in NCBI’s main sequence analysis and visualization tools, such as annotation pipelines, BLAST, and the Multiple Comparative Genome Viewer.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1159",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1159/9051883?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "resource",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4464,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1159"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3f22712dd678784d8a391757154e284222d9c1b5ddb769093990e18a6c9d38b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:07:16.066941+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "586e438a79ffc07f0093fe2a283a9b2a6eadc845a39eb1d0c55fdf20c2c399c3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:07:16.066941+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2027年における国立生物工学情報センターの配列リソース",
+    "abstract_ja": "要旨 米国国立生物工学情報センター（NCBI）は、DNA、RNA、およびタンパク質の配列データを含む3つの主要なリソース、すなわちSequence Read Archive（SRA）、GenBank®、およびReference Sequence（RefSeq™）コレクションを提供している。これらのリソースはすべて一般に無料で公開されている。SRAとGenBankは国際塩基配列データベース共同利用計画（International Nucleotide Sequence Database Collaboration）の一環であり、日々データを共有している。本稿では、これらのリソースの現状を概説した上で、SRAおよびGenBankへのデータ提出の主要インターフェースであるSubmission Portalへの更新を含む、過去2年間の重要なアップデートについて概観する。また、NCBI Datasetsのウェブサイトやプログラムインターフェースを含むこれらのデータへのアクセスポイントについて説明するとともに、アノテーションパイプライン、BLAST、Multiple Comparative Genome Viewerなど、NCBIの主要な配列解析および可視化ツールの改善点について述べる。"
   }
 ]
