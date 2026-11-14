@@ -212665,5 +212665,343 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "pLM-bVAE: タンパク質言語モデルによる二値表現の強化が、量子アニーリングに基づくタンパク質配列設計を向上させる",
     "abstract_ja": "量子アニーリング（QA）は、膨大な組み合わせ配列空間におけるタンパク質設計の手法として検討されてきた。タンパク質配列設計にQAを適用するには、アミノ酸配列をバイナリベクトルとして符号化し、最適化されたベクトルを再びアミノ酸配列へと復号する必要がある。したがって、効果的なQAベースの最適化には、バイナリ符号化の品質と配列再構成精度の双方が重要となる。QAベースのタンパク質配列設計では、タンパク質配列をバイナリ表現にマッピングするためにバイナリ変分オートエンコーダ（bVAE）が用いられてきた。しかし、bVAEはもともと自然言語モデリング向けに開発されたものであり、タンパク質への適性については体系的に評価されてこなかった。本研究では、事前学習済みタンパク質言語モデル（pLM）から導出されたタンパク質表現を元のbVAEモデルに組み込んだpLM-bVAEを提案する。3つの公開タンパク質バリアントデータセットを用いた計算実験において、pLM-bVAEはbVAEよりも高い配列再構成精度とバイナリ符号化性能を示した。さらに、pLM-bVAEをQAベースのタンパク質配列設計フレームワークに組み込んだ。3つのデータセットすべてにおいて、pLM-bVAEはbVAEよりも、訓練データおよび検証データとの配列非類似度が高く、スコアの高い配列をより多く生成した。本結果は、pLM-bVAEがQAベースのタンパク質配列設計を改善するための効果的なバイナリ表現を提供することを実証している。要点 ● QAベースのタンパク質配列設計に向けた、タンパク質言語モデルで強化されたバイナリ表現手法であるpLM-bVAEを開発した。 ● 既存手法であるbVAEと比較して、pLM-bVAEはより高い配列再構成精度を達成し、バイナリ潜在空間における配列関係をより良好に保持した。 ● pLM-bVAEをQAベースのタンパク質配列設計フレームワークに組み込むことで、最適化性能が向上した。 ● pLM-bVAEを用いたQAは、bVAEと比較して、訓練データおよび検証データとの配列非類似度が高く、スコアの高い配列をより多く生成した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10801725/v1",
+    "title": "Characterization and Functional Analysis of the Oropharyngeal Microbiome in ICU staff via Metagenomic Sequencing",
+    "abstract": "Abstract  Background  ICU staff face an elevated risk of colonization by drug-resistant bacteria, potentially associated with persistent occupational exposure to hospital environments. The oropharynx, as a key ecological niche at the interface of the respiratory and digestive tracts, serves as an important reservoir for opportunistic pathogens. This study employed shotgun metagenomic sequencing to systematically characterize the composition and functional profiles of the oropharyngeal microbiota in ICU staff. Methods  A cross-sectional study was conducted, enrolling 10 full-time ICU staff (with ≥ 5 years of clinical experience) and 10 healthy non-medical controls with no history of medical-related employment. Oropharyngeal swabs were collected for metagenomic sequencing. Multi-dimensional comparative analyses were conducted between the two groups, covering community structure, taxonomic composition, KEGG metabolic pathways, virulence factor profiles, and antibiotic resistance gene (ARG) profiles. Results  Compared with the control group, ICU staff exhibited significantly reduced genus-level richness (Chao1 index) but elevated community evenness, resulting in higher Shannon and Simpson indices, with a clearly distinct overall microbial community structure. The abundances of potential pathogenic genera including Pseudomonas, Streptococcus, Escherichia, Mycobacteroides, and Helicobacter were significantly enriched, whereas core oral commensal genera such as Prevotella were depleted. Functionally, ICU staff exhibited significant enrichment in bacterial biofilm formation, drug metabolism–cytochrome P450, and ABC transporter pathways; marked upregulation of virulence factors associated with adhesion, immune evasion, and endotoxin biosynthesis; and elevated abundances of five resistance genes primarily derived from Streptococcus and Haemophilus species (mel, patB, mdtG, hmrM, and rlmA(II)). Conclusion  ICU occupational exposure is associated with systematic remodeling of the oropharyngeal microbiota, characterized by depletion of core oral commensals and enrichment of opportunistic pathogens. Functionally, this remodeling supports the formation of a potential synergistic resistance system of \"biofilm barrier–P450 metabolic inactivation–ABC active efflux,\" providing novel metagenomic evidence for microbiome-based surveillance and occupational health protection of healthcare workers.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10801725/v1",
+    "date": "2026-11-05",
+    "authors": "Zhou k, Li j, Ling B, Fan z, Xiu g.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359186",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 94,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10801725/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "119ad05328da0b3c48ac2375c2489528657a4722dbee01d2dd07e060375a8e17",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:51:28.413856+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "274e9235de9d614274618364051ab05632b26db6ea1a40bfca84b3dc9a24a4c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:51:28.413856+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタゲノムシーケンシングによるICUスタッフの口腔咽頭マイクロバイオームの特性解析と機能解析",
+    "abstract_ja": "要旨  背景  ICUスタッフは、病院環境への持続的な職業曝露に関連している可能性のある、薬剤耐性菌の定着リスクが高い。口腔咽頭は、呼吸器系と消化管の境界に位置する重要な生態学的ニッチであり、日和見病原体の重要なリザーバーとして機能する。本研究では、ショットガンメタゲノムシーケンシングを用いて、ICUスタッフにおける口腔咽頭微生物叢の組成および機能的プロファイルを系統的に解析した。方法  横断的研究を実施し、フルタイムのICUスタッフ10名（臨床経験5年以上）と、医療関連の就業歴のない健康な非医療対照群10名を登録した。メタゲノムシーケンシングのため、口腔咽頭スワブを採取した。2群間で、コミュニティ構造、分類学的組成、KEGG代謝経路、病原性因子プロファイル、および抗生物質耐性遺伝子（ARG）プロファイルを網羅する多次元比較解析を行った。結果  対照群と比較して、ICUスタッフでは属レベルのリッチネス（Chao1指数）が有意に低下していたが、コミュニティの均一性は向上しており、その結果、Shannon指数およびSimpson指数が高く、全体的な微生物コミュニティ構造に明確な差異が認められた。Pseudomonas、Streptococcus、Escherichia、Mycobacteroides、およびHelicobacterを含む潜在的な病原性属の存在量は有意に増加していた一方、Prevotellaなどの主要な口腔常在菌属は減少していた。機能的には、ICUスタッフにおいて、細菌バイオフィルム形成、薬物代謝－シトクロムP450、およびABCトランスポーター経路の有意な濃縮が認められた。また、接着、免疫逃避、およびエンドトキシン生合成に関連する病原性因子の顕著な発現上昇と、主にStreptococcus属およびHaemophilus属に由来する5つの耐性遺伝子（mel、patB、mdtG、hmrM、およびrlmA(II)）の存在量増加が認められた。結論  ICUへの職業曝露は、主要な口腔常在菌の減少と日和見病原体の濃縮を特徴とする、口腔咽頭微生物叢の系統的なリモデリングに関連している。機能的には、このリモデリングは「バイオフィルムバリア－P450代謝不活性化－ABC能動排出」という潜在的な相乗的耐性システムの形成を支えており、医療従事者のマイクロバイオームに基づくサーベイランスおよび職業保健保護のための新たなメタゲノム的根拠を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0484.v1",
+    "title": "Development of a Four-Strain Rhizobacterial Consortium: Detection in the Field by Strain-Specific qPCR and Impact on the Wheat Rhizosphere Microbiome",
+    "abstract": "Multi-strain consortia are expected to protect plants more reliably than single strains, yet this is rarely tested directly, and the behavior of introduced strains in the field is difficult to follow. We assembled a consortium of Stenotrophomonas rhizophila MGMM118, Bacillus halotolerans MGMM119, Pseudomonas grimontii MGMM120 and Pseudomonas viciae MGMM121 strains isolated from the winter wheat rhizosphere and characterized their hydrolytic activities, auxin production, and analyzed their genomes. The consortium increased shoot and root length of wheat. In biocontrol experiments on barley, the consortium reduced the root rot disease index caused by Fusarium culmorum by approximately ten-fold (5.6% vs. 59.7%), outperforming each individual strain (11.9–17.9%). The consortium also reduced Fusarium root rot in tomato by two-fold. In a field experiment on wheat, strain-specific qPCR detected all introduced microorganisms in the wheat rhizosphere at up to 106 CFU per gram of soil, demonstrating different dynamics for each individual strain. Metabarcoding showed that community structure depended on plant developmental stage rather than on the consortium application. Since metabarcoding could not reliably identify the introduced strains, we suppose that strain-specific qPCR is a more appropriate tool for monitoring of inoculants, particularly in complex soil microbial communities.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0484.v1",
+    "date": "2026-11-05",
+    "authors": "Shulga EY, Valiakhmetov EE, Sukhanov AY, Komissarov EN, Frolov M, Islamov BR, Yarullin KI, Shahnazarova VY, Vishnevskaya NA, Lebedinskii MI, Belimov AA, Validov SZ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359923",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "Pseudomonas",
+        "microbial",
+        "microbiome",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 376,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0484.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ad5c25d5a623278ba59a976bdab9aff0303f400214001cfef65a04faf0260179",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:51:28.413856+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e4b572cb899aa4a67565329934ea322671955908f40f16664adc575dd09ab993",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:51:28.413856+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "4菌株の根圏細菌コンソーシアムの開発：菌株特異的qPCRによる野外での検出とコムギ根圏微生物叢への影響",
+    "abstract_ja": "多菌株コンソーシアムは、単一菌株よりも確実に植物を保護することが期待されるが、これが直接的に検証されることは稀であり、圃場における導入菌株の挙動を追跡することは困難である。我々は、冬小麦の根圏から単離したStenotrophomonas rhizophila MGMM118、Bacillus halotolerans MGMM119、Pseudomonas grimontii MGMM120、およびPseudomonas viciae MGMM121の菌株からなるコンソーシアムを編成し、それらの加水分解活性とオーキシン産生量を特性評価するとともに、ゲノム解析を行った。このコンソーシアムは、小麦の地上部および根の長さを伸長させた。大麦を用いた生物的防除実験において、本コンソーシアムはFusarium culmorumによる根腐病指数を約10分の1に低減させ（5.6% vs. 59.7%）、個々の菌株（11.9–17.9%）を上回った。また、トマトにおけるFusarium根腐病も2分の1に低減させた。小麦を用いた圃場実験では、菌株特異的qPCRにより、小麦根圏において導入されたすべての微生物が土壌1gあたり最大106 CFU検出され、個々の菌株ごとに異なる動態を示すことが明らかになった。メタバーコーディングの結果、群集構造はコンソーシアムの適用ではなく、植物の生育段階に依存することが示された。メタバーコーディングでは導入菌株を確実に同定できなかったため、特に複雑な土壌微生物群集において、菌株特異的qPCRが接種菌のモニタリングにより適切な手法であると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11347362/v1",
+    "title": "Isolation and Probiotic Characterization of Bacillus stercoris VR19 from the polyherbal Ayurvedic fermented formulation Madhookasavam",
+    "abstract": "Abstract    Probiotics are live microorganisms that provide health benefits to the host when administered in adequate amounts. In this study, bacterial isolates from Madhookasavam, a polyherbal Ayurvedic fermented formulation, were screened to identify potential probiotic candidates. Preliminary safety assessment included Gram staining, hemolysis testing, and antibiotic susceptibility profiling. Among the isolates, VR19 was the only strain to exhibit γ-hemolysis, indicating a non-hemolytic phenotype, and was susceptible to several clinically relevant antibiotics, including Chloramphenicol and azithromycin. The isolate VR19 demonstrated tolerance to acidic conditions and simulated gastrointestinal stresses, including pepsin (0.1–1%), bile salts (0.1–3%), and NaCl (1–10%). Functional characterization revealed cellulase activity of up to 1.95 U/mL, corresponding to the release of 0.959 mg/mL reducing sugars. The isolate also exhibited concentration-dependent antioxidant activity, reaching a maximum DPPH radical-scavenging activity of 72.9%. Probiotic performance was further evaluated using  Caenorhabditis elegans  as an in vivo model. VR19 showed effective intestinal colonization and persistence, as demonstrated by bacterial enumeration and Gram staining of colonies recovered from the nematode intestine. Molecular identification based on, 16S rRNA gene sequencing, and phylogenetic analysis identified VR19 as  Bacillus stercoris  . Collectively, these findings show that  Bacillus stercoris  VR19 possesses promising probiotic properties, including a non-hemolytic phenotype, gastrointestinal stress tolerance, cellulolytic and antioxidant activities, and effective intestinal colonization. The strain therefore warrants further safety and efficacy evaluation for potential therapeutic and functional-food applications.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11347362/v1",
+    "date": "2026-11-05",
+    "authors": "Rathi V, Babu KR, Chauhan N.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359305",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Bacillus",
+        "bacteria",
+        "bacterial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 385,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11347362/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6375a03120d52e13d74a38fce60ce56b87dcaa01881dba48213f771810411952",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:51:28.413856+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0f4b8856005bed00b190c6cb04f28eb55e71dfdb09e31dcd79f444350de2bb57",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:51:28.413856+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多草本アーユルヴェーダ発酵製剤Madhookasavam由来Bacillus stercoris VR19の単離およびプロバイオティクス特性解析",
+    "abstract_ja": "要旨    プロバイオティクスとは、適切な量で投与された際に宿主に健康上の利点をもたらす生きた微生物である。本研究では、多生薬を用いたアーユルヴェーダ発酵製剤であるMadhookasavam由来の細菌分離株をスクリーニングし、潜在的なプロバイオティクス候補を同定した。予備的な安全性評価には、グラム染色、溶血試験、および抗生物質感受性プロファイリングが含まれた。分離株の中で、γ-溶血性を示し、非溶血性表現型であることを明らかにした唯一の株はVR19であり、クロラムフェニコールやアジスロマイシンを含む、臨床的に意義のある複数の抗生物質に対して感受性を示した。分離株VR19は、ペプシン（0.1–1%）、胆汁酸塩（0.1–3%）、およびNaCl（1–10%）を含む酸性条件および模擬的な消化管ストレスに対する耐性を示した。機能特性解析により、最大1.95 U/mLのセルラーゼ活性が認められ、これは0.959 mg/mLの還元糖の遊離に相当した。また、本分離株は濃度依存的な抗酸化活性を示し、最大DPPHラジカル消去活性は72.9%に達した。プロバイオティクスとしての性能は、Caenorhabditis elegansをin vivoモデルとして用いてさらに評価した。VR19は、線虫の腸管から回収したコロニーの細菌計数およびグラム染色によって示されるように、効果的な腸管定着および持続性を示した。16S rRNA遺伝子シーケンシングおよび系統解析に基づく分子同定により、VR19はBacillus stercorisと同定された。以上の知見を総合すると、Bacillus stercoris VR19は、非溶血性表現型、消化管ストレス耐性、セルロース分解活性および抗酸化活性、ならびに効果的な腸管定着を含む、有望なプロバイオティクス特性を有していることが示された。したがって、本株は、潜在的な治療用途および機能性食品への応用に向けて、さらなる安全性および有効性の評価を行う価値がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11272317/v1",
+    "title": "Post-Transplant Gut Dysbiosis is a Targetable Axis",
+    "abstract": "Abstract    Long-term graft attrition remains a critical challenge despite maintenance immunosuppression, which perturbs intestinal immune homeostasis and microbial communities, which may contribute to vascular inflammation and chronic graft injury. We previously identified  Muribaculaceae  expansion as a shared feature of long-term exposure to multiple distinct immunosuppressant classes in the murine gut microbiome. In this study, using a fully MHC-mismatched mouse heart transplant model under chronic tacrolimus treatment, we tested whether oral administration of the protolerogenic  Bifidobacterium pseudolongum subsp. globosum  (  Bifido  ) or pro-inflammatory  Desulfovibrio desulfuricans  (  Desulfo  ) could redirect this dysbiotic state and affect graft fate. Longitudinal metagenomic and metabolomic profiling showed an ordered tacrolimus-associated microbial succession that culminated in sustained  Muribaculaceae  enrichment with coordinated luminal and circulating metabolic remodeling.  Bifido  , but not  Desulfo  , redirected the community trajectory by reducing  Muribaculaceae  enrichment, increasing selected fermentative commensals, and establishing metabolites linked to epithelial and immune regulation, including kynurenic acid and N-acetylspermine. Spatial transcriptomics showed that  Bifido  partially attenuated early tacrolimus-induced colonic metabolic, stress, and epithelial-remodeling programs while later selectively reprogramming ileal antimicrobial defense, crypt-proximal metabolic adaptation, and mucosal humoral immunity. These changes were accompanied by minimal graft vasculitis and fibrosis, increased Foxp3⁺ regulatory T-cell localization in mesenteric and peripheral lymph nodes (LNs), and partial preservation of tolerogenic stromal laminin α4:α5 organization. In contrast,  Desulfo  -treated mice retained  Muribaculaceae  enrichment and developed progressive vascular injury. In an exploratory human-to-mouse fecal microbiota transfer (FMT) experiment, chronic allograft vasculopathy (CAV)-associated donor stool promoted expansion of endogenous murine  Muribaculaceae  and a distinct microbial functional state, together with increased graft fibrosis, T cell infiltration, LNs remodeling, and vasculitis. Whereas non-CAV donor stool favored  Bifido  enrichment and was associated with lessened graft pathology. Together, these findings provide proof of principle that the immunosuppressant-perturbed gut ecosystem is a targetable axis, supporting novel adjunct therapies that complement immunosuppression and mitigate chronic graft injury.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11272317/v1",
+    "date": "2026-11-05",
+    "authors": "Ma B, Kensiski A, Wu L, Gavzy S, Zhang T, Chaudry I, France M, Lwin HW, WillsonShirkey M, Lohmar B, Piao W, Mas V, Bromberg J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359050",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 386,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11272317/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c2000e6715926f8eaa94a961c4abe1faa9664291fce09edf285f06e5b7aa3f1b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:51:28.413856+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa9e7c21b8e46809ee0ca1e5496c2cee81102ecffb69a7924908c9058f61cfdb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:51:28.413856+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "移植後の腸内細菌叢異常は標的可能な軸である",
+    "abstract_ja": "要旨    維持免疫抑制療法にもかかわらず、長期的なグラフト脱落は依然として重大な課題である。免疫抑制は腸管の免疫恒常性および微生物群集を乱し、それが血管炎症や慢性的なグラフト損傷の一因となる可能性がある。我々は以前、マウス腸管マイクロバイオームにおいて、複数の異なる免疫抑制剤クラスに長期間曝露された際に共通して見られる特徴として、ムリバクル科（Muribaculaceae）の増殖を同定した。本研究では、慢性タクロリムス投与下での完全MHCミスマッチマウス心臓移植モデルを用い、プロトレロゲン性のBifidobacterium pseudolongum subsp. globosum（Bifido）または炎症促進性のDesulfovibrio desulfuricans（Desulfo）の経口投与が、このディスバイオティック状態を転換させ、グラフトの運命に影響を与え得るかを検証した。経時的なメタゲノムおよびメタボロームプロファイリングにより、タクロリムスに関連した秩序ある微生物遷移が認められ、それは管腔内および循環代謝の協調的なリモデリングを伴う持続的なムリバクル科の濃縮へと至った。DesulfoではなくBifidoが、ムリバクル科の濃縮を減少させ、特定の発酵性共生菌を増加させ、さらにキヌレン酸やN-アセチルスペルミンを含む上皮および免疫調節に関連する代謝物を産生することで、群集の軌跡を転換させた。空間トランスクリプトミクスにより、Bifidoは初期のタクロリムス誘発性の結腸代謝、ストレス、および上皮リモデリングプログラムを部分的に減弱させる一方で、その後、回腸の抗菌防御、陰窩近位部の代謝適応、および粘膜液性免疫を選択的に再プログラムすることが示された。これらの変化に伴い、グラフト血管炎および線維化は最小限に抑えられ、腸間膜および末梢リンパ節（LN）におけるFoxp3⁺制御性T細胞の局在が増加し、寛容性ストラムラミニンα4:α5組織化が部分的に維持された。対照的に、Desulfo投与マウスではムリバクル科の濃縮が維持され、進行性の血管損傷が生じた。探索的なヒト-マウス糞便微生物叢移植（FMT）実験において、慢性同種グラフト血管症（CAV）関連のドナー便は、内因性のマウスムリバクル科の増殖と特有の微生物機能状態を促進し、同時にグラフト線維化、T細胞浸潤、LNリモデリング、および血管炎を増加させた。一方、非CAVドナー便はBifidoの濃縮を促進し、グラフト病理の軽減に関連していた。以上の知見を総合すると、免疫抑制剤によって攪乱された腸管エコシステムが標的可能な軸であるという原理実証が得られ、免疫抑制を補完し慢性的なグラフト損傷を軽減する新規補助療法を支持するものである。"
   }
 ]
