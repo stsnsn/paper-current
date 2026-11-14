@@ -221933,5 +221933,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "RNAアクセシビリティシーケンシングにより明らかになるトランスクリプトーム全域のRBP結合とRNA構造",
     "abstract_ja": "本研究では、in vivoにおけるタンパク質結合を介してRNAアクセシビリティを定量化する、簡便かつスケーラブルな手法であるRAD-seq（RNA Accessibility via Deamination sequencing）を提案する。RAD-seqは、TadA8.20介在性のアデノシン脱アミノ化を利用して、各アデノシンの分子環境に対する局所的な露出状態を報告し、塩基対形成、RNAフォールディング、およびRNA結合タンパク質（RBP）の占有による複合的な影響を単一の実験で統合する。RAD-seqによるプロファイリングは、既知の構造シグネチャーを再現し、高分解能のRBPフットプリントを明らかにし、RNA修飾の影響を報告するとともに、酸化ストレスおよび熱ショックストレス下におけるRNAアクセシビリティの動的なリモデリングを捉える。RAD-seqをRNA Bind-n-Seqモチーフと統合することで、エクソン接合部アンカータンパク質EIF4A3のノックダウン後に、RNA N 6-メチルアデノシン（m 6 A）メチルトランスフェラーゼリクルーターTRA2Aの局所的な濃縮を検出し、RNAアクセシビリティとTRA2Aのリクルート促進およびm 6 Aの沈着を結びつける潜在的なメカニズムを明らかにした。このフレームワークを拡張し、RAD-seqとモチーフ事前分布を組み合わせて複数のRBPの結合ランドスケープを推論する教師なし統計モデルを導入し、単一のRAD-seq実験から多数のCLIP-seqデータセットの情報を再現した。これらの結果は、RAD-seqがRNA構造とタンパク質占有の同時プロファイリングのための汎用的なアプローチであることを示しており、酵素的なRNAアクセシビリティを、RNA上の調節要素を調査するための新たな次元として定義するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0201.v1",
+    "title": "Algorithm Verification of the Wind Power Generation Modelling System Using Scada and Open Meteorological Data",
+    "abstract": "Reliable software verification is a prerequisite for developing information systems intended for renewable energy modelling. This paper presents an information system for modelling wind power generation together with a methodology for verifying its computational algorithms using heterogeneous data from open meteorological sources and operational SCADA measurements. The system integrates NASA POWER meteorological data, wind turbine technical characteristics, and SCADA operational records to calculate theoretical power generation based on the turbine power curve. The proposed verification framework combines statistical performance metrics, correlation analysis, empirical power-curve comparison, time-series analysis, and error distribution assessment to distinguish algorithmic errors from uncertainties caused by meteorological input data. Experimental verification was performed using publicly available SCADA data from the Penmanshiel Wind Farm equipped with Senvion MM82 wind turbines. The results confirm the correctness of the implemented calculation algorithms, achieving a correlation coefficient of r = 0.968 when validated against theoretical SCADA-based calculations. At the same time, simulations using NASA POWER meteorological data exhibited substantially lower accuracy (RMSE = 432.1 kW), demonstrating that modelling performance is primarily constrained by the quality of meteorological input rather than by the software implementation itself. The proposed verification methodology improves the reliability assessment of renewable energy information systems and can be applied to the validation of software tools that integrate heterogeneous environmental and operational datasets.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0201.v1",
+    "date": "2026-11-03",
+    "authors": "Zaporozhets A, Verpeta V, Matushkin D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357965",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "algorithm",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2538,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0201.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c6da018bbd2208730773e857297983c6b6f8fbac921f6a523602fe32d35a4132",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:35:54.319134+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "94b5d0d6a9239deb99ac6655d1368a37c0719b4a0c08033c851e5117dd1d390e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:35:54.319134+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Scadaおよびオープン気象データを用いた風力発電モデリングシステムのアルゴリズム検証",
+    "abstract_ja": "再生可能エネルギーのモデリングを目的とした情報システムの開発において、信頼性の高いソフトウェア検証は不可欠な前提条件である。本論文では、風力発電のモデリング用情報システムと、公開気象ソースおよび運用中のSCADA計測値からなる異種データを用いてその計算アルゴリズムを検証する手法を提案する。本システムは、NASA POWERの気象データ、風力タービンの技術特性、およびSCADAの運用記録を統合し、タービンの出力曲線に基づいて理論上の発電量を算出する。提案する検証フレームワークは、統計的性能指標、相関分析、実証的な出力曲線比較、時系列解析、および誤差分布評価を組み合わせることで、アルゴリズムの誤差と気象入力データに起因する不確実性を区別する。検証実験は、Senvion MM82風力タービンを備えたペンマンシール風力発電所の公開SCADAデータを用いて実施した。その結果、実装された計算アルゴリズムの正当性が確認され、理論上のSCADAベースの計算と照合した際に相関係数 r = 0.968 を達成した。同時に、NASA POWERの気象データを用いたシミュレーションでは精度が大幅に低く（RMSE = 432.1 kW）、モデリング性能はソフトウェア実装そのものよりも、主に気象入力データの品質によって制約を受けることが示された。提案する検証手法は、再生可能エネルギー情報システムの信頼性評価を向上させるものであり、異種の環境データセットおよび運用データセットを統合するソフトウェアツールの検証にも適用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0218.v1",
+    "title": "From DNA Detection to Reliable Biodiversity Assessment: Methodological Priorities for Environmental DNA Metabarcoding in the African Great Lakes Region",
+    "abstract": "Environmental DNA (eDNA) metabarcoding can broaden freshwater biodiversity assessment by detecting genetic material released by organisms into water. Its value for conservation, however, depends on how confidently sequence detections can be linked to taxa and interpreted in space and time. This narrative mini review examines methodological priorities for tropical African freshwater monitoring, using the Lake Albert study in the Albertine Rift as a geographically direct example and the Rufiji River catchment in Tanzania as a comparative East African river-system case. A targeted, non-systematic literature search was used to identify these focal studies and methodological literature on reference libraries, marker resolution, eDNA transport and persistence, replication, contamination control, and taxonomic assignment. The review distinguishes two related but different identification problems: missing or unreliable reference sequences and markers that cannot separate closely related species even when reference sequences are available. It also explains why DNA transported downstream or persisting after release can indicate genetic material without proving that a living population occupies the precise sampling point. Practical recommendations are presented for interpreting negative controls, replicate agreement, and assignment confidence without imposing universal thresholds that are not supported across assays and ecosystems. The main contribution is a focused inference framework for moving from sequence detection to defensible biodiversity claims in the African Great Lakes region. Priorities for Rwanda and neighbouring countries include regionally curated reference libraries, spatially and temporally appropriate sampling, transparent quality assurance, conservative taxonomic reporting, and validation against complementary surveys.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0218.v1",
+    "date": "2026-11-03",
+    "authors": "Habiyakare JdD, Niyonsaba D, Munezero V, I. Mudahunga O.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357949",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "method"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "lake",
+          "river"
+        ],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2539,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0218.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8696b0994deef8d7ee2febd01e09133004d8d2b2e721067391996c43b6057f15",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:35:54.319134+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a1b98cb47f5b1ea56f3446288c0026836e046c2c95d3de0d3360b88f881fcf3f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:35:54.319134+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DNA検出から信頼性の高い生物多様性評価へ：アフリカ大湖地域における環境DNAメタバーコーディングの方法論的優先課題",
+    "abstract_ja": "環境DNA（eDNA）メタバーコーディングは、生物が水中に放出した遺伝物質を検出することで、淡水生物多様性評価の範囲を広げることができる。しかし、保全におけるその有用性は、検出された配列をどの程度の確信度で分類群に結びつけ、空間的・時間的に解釈できるかにかかっている。本ナラティブ形式のミニレビューでは、アルベルティン地溝帯のアルバート湖研究を地理的に直接的な例として、またタンザニアのルフィジ川流域を比較対象として東アフリカの河川系事例に挙げ、熱帯アフリカの淡水モニタリングにおける方法論的な優先事項を検討する。対象を絞った非系統的な文献検索を行い、これらの重点研究、および参照ライブラリ、マーカー分解能、eDNAの輸送と持続性、再現性、汚染制御、分類学的割り当てに関する方法論的文献を特定した。本レビューでは、関連性はあるが異なる2つの同定上の問題、すなわち、参照配列の欠如または信頼性の低さと、参照配列が利用可能であっても近縁種を分離できないマーカーについて区別して論じる。また、下流へ輸送されたDNAや、放出後に持続するDNAが、生存個体群が正確なサンプリング地点に存在していることを証明せずとも、遺伝物質の存在を示し得る理由についても説明する。さらに、アッセイや生態系間で支持されていない普遍的な閾値を課すことなく、陰性対照、再現性の一致、および割り当ての信頼度を解釈するための実践的な推奨事項を提示する。本研究の主な貢献は、アフリカ大湖地域において、配列検出から妥当性のある生物多様性の主張へと移行するための、焦点を絞った推論フレームワークを提示した点にある。ルワンダおよび近隣諸国における優先事項には、地域的にキュレーションされた参照ライブラリ、空間的・時間的に適切なサンプリング、透明性の高い品質保証、保守的な分類学的報告、および補完的な調査による検証が含まれる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762468",
+    "title": "DoAggregate: a pipeline for aggregation testing for rare-variant on a gene and pathway level",
+    "abstract": "Motivation  Aggregation tests overcome the classical limitation of rare variant analysis in cohort study design. Choosing the right statistical test remains one of the biggest challenges. Existing tools fall short in offering a comprehensive solution that includes automatic data processing, testing across all genes, as well as exploration of broader genetic regions such as pathways and Gene Ontology (GO) terms. Most aggregation tests only report p-values and basic statistics, lacking in the presentation of cohort level statistics and comparison of results across whole genome or exome scales. Results  We introduce DoAggregate, an innovative, scalable pipeline designed to address these challenges. DoAggregate enables users to perform aggregation tests across genes, pathways, and GO terms. It leverages Excalibur, an ensemble approach combining 36 distinct aggregation methods. The pipeline enhances data analysis by presenting over-representation analysis and aggregation results in detailed Excel sheets, complete with annotations and plots to facilitate nuanced interpretation and comparison. Applied to public exome data from the 1000 Genomes Project, DoAggregate tested 10,447 genes, 49 over-represented pathways and 36 over-represented GO terms in a single run, returning annotated, cohort-level results for each region. Availability and implementation  DoAggregate source code, documentation and installation instructions as well as test data sets and results are freely available at  https://github.com/boutrys/DoAggregate and released under the MIT license. The repository contains the serial implementation (R package), the parallel implementation for Slurm-based computer clusters and the web application.  Supplementary information  Supplementary data are available online.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762468",
+    "date": "2026-11-03",
+    "authors": "Boutry S, Van Marcke C, Limaye N, Smits G, Brouillard P, De Bortoli M, Pairet E, Saadat A, Helaers R, Fellay J, Lenaerts T, Vikkula M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357450",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2544,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762468"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b18175714b0417cc88cc5bdb790a2cb1a645b523619be1c1919d1518ff2f1fc2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:35:54.319134+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6ee60f4e435521cc04a6361666542d501e3adc309f5406dabbfda632b9e56405",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:35:54.319134+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DoAggregate: 遺伝子およびパスウェイレベルでの希少バリアントの集約検定用パイプライン",
+    "abstract_ja": "動機  集約検定は、コホート研究の設計における希少バリアント解析の古典的な限界を克服するものである。適切な統計検定の選択は、依然として最大の課題の一つとなっている。既存のツールでは、自動データ処理、全遺伝子にわたる検定、さらにはパスウェイやGene Ontology (GO) タームといったより広範な遺伝領域の探索を含む包括的なソリューションを提供するには至っていない。ほとんどの集約検定はp値と基本的な統計量のみを報告しており、コホートレベルの統計量の提示や、全ゲノムまたはエクソームスケールでの結果比較が不足している。結果  我々は、これらの課題に対処するために設計された、革新的かつスケーラブルなパイプラインであるDoAggregateを提案する。DoAggregateにより、ユーザーは遺伝子、パスウェイ、およびGOタームにわたる集約検定を実行できる。本パイプラインは、36種類の異なる集約手法を組み合わせたアンサンブルアプローチであるExcaliburを活用している。このパイプラインは、過剰表現解析および集約結果を詳細なExcelシートで提示することでデータ分析を強化し、精緻な解釈と比較を容易にするためのアノテーションとプロットを完備している。1000 Genomes Projectの公開エクソームデータに適用したところ、DoAggregateは単一の実行で10,447個の遺伝子、49個の過剰表現パスウェイ、および36個の過剰表現GOタームを検定し、各領域についてアノテーション付きのコホートレベルの結果を返した。利用可能性と実装  DoAggregateのソースコード、ドキュメント、インストール手順、ならびにテストデータセットおよび結果は、https://github.com/boutrys/DoAggregate で無料で公開されており、MITライセンスの下でリリースされている。リポジトリには、シリアル実装（Rパッケージ）、Slurmベースのコンピュータクラスター向け並列実装、およびウェブアプリケーションが含まれている。  補足情報  補足データはオンラインで利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11188049/v1",
+    "title": "Matched-Control Benchmarking of Quantum Machine Learning Models for Hierarchical Protein Function Prediction",
+    "abstract": "Abstract  Predicting protein function requires assigning hierarchical Gene Ontology (GO) terms to sequences with limited experimental annotation. We tested whether quantum machine learning improves this task when each model is compared with a classical control matched to its architecture or input representation. Five quantum models spanning variational circuits, quantum features, and fidelity kernels were evaluated on 40,000 proteins from the CAFA6 training release, using frozen 480-dimensional ESM-2 embeddings, 180 GO terms, and an internal cluster-disjoint train–validation–test split. Kernel bandwidths were selected through a training-only concentration screen (Gate-0), which also estimated shots required per kernel entry. Across five seeds, the standalone quantum models scored below their matched controls by 0.0023–0.0847 in aspect-mean maximum F-measure; the 48-layer re-uploading kernel was admitted in only two seeds and lost in both. Freezing the variational circuit did not reduce performance. Late fusion of quantum and classical predictions improved on cosine nearest neighbours by 0.0034, but kernel-level mixing selected a purely classical weight, and the fused score (0.6697) remained below that of a classical RBF nearest-neighbour model (0.6719). Finite-shot simulations preserved this ordering, although the quantum kernel ridge model was sensitive to shot noise. These results provide no evidence of a standalone quantum advantage on this benchmark. The fusion gain is consistent with complementary prediction errors, but its mechanism remains to be tested against a matched classical ensemble.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11188049/v1",
+    "date": "2026-11-03",
+    "authors": "Majidi F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356460",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2545,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11188049/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "177b2b977be93db704527878d666fe8e8d3e79b27217a8722843917092de5107",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:35:54.319134+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dca9a0a35abe6d475e722c56b8de6d66c5bf2aa409ee19f7283274b738ca7664",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:35:54.319134+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "階層的タンパク質機能予測のための量子機械学習モデルのマッチング制御ベンチマーク",
+    "abstract_ja": "要旨　タンパク質機能の予測には、限定的な実験的アノテーションしか持たない配列に対して、階層的なGene Ontology (GO) タームを割り当てる必要がある。本研究では、各モデルを、そのアーキテクチャまたは入力表現に適合させた古典的対照モデルと比較することで、量子機械学習がこのタスクを改善できるかを検証した。変分回路、量子特徴量、およびフィデリティカーネルにわたる5つの量子モデルを、CAFA6トレーニングリリースの40,000個のタンパク質を対象に、凍結された480次元ESM-2埋め込み、180個のGOターム、および内部的にクラスター非重複な訓練・検証・テスト分割を用いて評価した。カーネル帯域幅は、訓練専用の濃縮スクリーニング（Gate-0）を通じて選定され、このスクリーニングではカーネルエントリごとに必要となるショット数も推定された。5つのシードにおいて、スタンドアロンの量子モデルは、アスペクト平均最大F値で適合対照モデルを0.0023～0.0847ポイント下回った。48層の再アップロードカーネルが採択されたのは2つのシードのみであり、いずれのシードでも性能が低下した。変分回路を凍結しても性能は向上しなかった。量子予測と古典的予測の後期融合は、コサイン最近傍法において0.0034ポイント改善したが、カーネルレベルの混合では純粋に古典的な重みが選択され、融合スコア（0.6697）は古典的RBF最近傍モデル（0.6719）を下回る結果となった。有限ショットシミュレーションでもこの順位は維持されたが、量子カーネルリッジモデルはショットノイズの影響を受けやすかった。これらの結果から、本ベンチマークにおいてスタンドアロンの量子優位性を示す証拠は得られなかった。融合による向上は相補的な予測誤差と整合的であるが、そのメカニズムについては、適合させた古典的アンサンブルとの比較による検証が必要である。"
   }
 ]
