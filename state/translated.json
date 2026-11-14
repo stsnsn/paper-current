@@ -201454,5 +201454,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ライフスタイルを介した腸内細菌叢および宿主遺伝情報の変化は、腸管オルガノイドにおける遺伝子発現を調節する",
     "abstract_ja": "工業化に伴う腸内マイクロバイオームの変化は疾患との関連が指摘されているが、微生物群集が宿主の遺伝子調節に影響を及ぼすメカニズムについては十分に解明されていない。我々は、腸内微生物群集の変動に対する遺伝子型依存的な宿主応答を調査するため、生マイクロバイオーム・結腸オルガノイド（コロノイド）共培養系を開発した。健常ドナー由来のコロノイド2次元単層を、都市部または農村部のライフスタイルで生活する個人由来の生腸内微生物群集と共培養し、続いてRNAシーケンシングを行った。都市部と農村部のマイクロバイオームは、概ね共通の転写応答を惹起したが、遺伝子発現に対してはそれぞれ異なる宿主遺伝学的影響を及ぼした。我々は、上皮構造、細胞-マトリックス相互作用、および構造的完全性に関与し、マイクロバイオーム依存的なアレル特異的発現（ASE）を示す511個の宿主遺伝子を同定した。特筆すべきことに、149個の宿主遺伝子が都市部と農村部のマイクロバイオーム間で異なるアレル効果（都市-農村条件特異的ASEまたはcASE）を示し、ライフスタイルに関連するマイクロバイオームに対する遺伝子型依存的な宿主応答が明らかになった。都市-農村間のcASEは微生物群集の組成と関連しており、主にPrevotella属およびBacteroides属の菌種が関与していた。標的化したPrevotella copri spike-inは、IBD関連オートファジー遺伝子ATG4Bを含む特定の遺伝子座において、Prevotella関連のアレル効果を再現した。以上の知見を総合すると、遺伝子型とマイクロバイオームの相互作用を調査するための実験的枠組みが確立され、ライフスタイルを介したマイクロバイオームの変化が、遺伝子発現に対する宿主のシス調節遺伝学的効果を修飾することが実証された。"
+  },
+  {
+    "id": "10.64898/2026.11.08.765139",
+    "title": "Gene-level structure of prior knowledge and perturbation responses informs target-level predictability in prior-informed models",
+    "abstract": "Background: Predictive models of transcriptional responses to unseen genetic perturbations increasingly incorporate biological prior knowledge. However, it remains unclear how well prior knowledge reflects each target's perturbation-response relationships and how closely prior-derived measures track target-level predictive performance. Here, we develop a gene-similarity framework to quantify agreement among eight sources of biological prior knowledge and between prior knowledge and co-function or co-regulation relationships derived from six Perturb-seq datasets. Results: In genome-wide and essential-gene screens, prior agreement accounted for 30-47% of the variance in co-function agreement and 35-43% in co-regulation agreement. Agreement with Perturb-seq responses was higher for essential genes, lower for transcription factor and signaling genes, and varied with gene expression characteristics and cellular context. We compared prior agreement and prior-derived train-test similarity with measures based on the observed test response in tracking target-level predictive performance. Across three prior-informed models, predictions were more accurate for targets whose observed perturbation-response relationships better matched prior knowledge and that were more similar to training perturbations. Notably, prior agreement and prior-derived train-test similarity, calculated without the test response, tracked relative differences in target-level predictive performance. The strength of these associations varied across models and datasets and, for train-test similarity, across prior sources. Conclusion: Our framework reveals gene- and context-level heterogeneity in how biological knowledge aligns with perturbation responses, and provides an a priori basis for assessing relative perturbation predictability before perturbation responses are measured.",
+    "journal": "",
+    "doi": "10.64898/2026.11.08.765139",
+    "date": "2026-11-10",
+    "authors": "Park, J., Sim, H., Hwang, B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.08.765139v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2553,
+    "collected_at": "2026-11-10T22:50:05.049458+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.08.765139"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aa634b28f841fa16e787a9e5dd5ec9d8e7c02b229db1818a2cd5879e471ce622",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:57:31.933950+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8b56ef0b7e5e6130418ec5790b04255ac825431888ef95ecfda664ce44396945",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:57:31.933950+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "事前知識と摂動応答の遺伝子レベルの構造が、事前情報活用モデルにおけるターゲットレベルの予測可能性に寄与する。",
+    "abstract_ja": "背景：未知の遺伝的摂動に対する転写応答の予測モデルには、生物学的事前知識がますます組み込まれるようになっている。しかし、事前知識が各標的の摂動－応答関係をどの程度反映しているか、また事前知識から導出された指標が標的レベルの予測性能をどの程度忠実に追跡しているかは、依然として不明である。本研究では、8つの生物学的事前知識ソース間、および事前知識と6つのPerturb-seqデータセットから導出された共機能または共調節関係との一致度を定量化するための遺伝子類似性フレームワークを開発した。結果：ゲノムワイドおよび必須遺伝子スクリーニングにおいて、事前知識による一致度は、共機能一致度の分散の30～47％、共調節一致度の分散の35～43％を占めていた。Perturb-seq応答との一致度は、必須遺伝子でより高く、転写因子およびシグナル伝達遺伝子でより低く、遺伝子発現特性や細胞コンテキストによって異なっていた。我々は、標的レベルの予測性能の追跡において、事前知識による一致度および事前知識から導出された訓練－テスト類似度を、観測されたテスト応答に基づく指標と比較した。3つの事前知識情報モデルにおいて、観測された摂動－応答関係が事前知識とより良く一致し、かつ訓練摂動により類似している標的ほど、予測精度が高かった。特筆すべきは、テスト応答を用いずに算出した事前知識による一致度および事前知識から導出された訓練－テスト類似度が、標的レベルの予測性能の相対的な差異を追跡していたことである。これらの関連性の強さはモデルやデータセットによって異なり、訓練－テスト類似度については事前知識ソース間でも異なっていた。結論：本フレームワークは、生物学的知識が摂動応答とどのように整合するかという点における遺伝子およびコンテキストレベルの異質性を明らかにし、摂動応答を測定する前に相対的な摂動予測可能性を評価するための事前的な根拠を提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.03.763893",
+    "title": "Contig-Resolved Genetic Context of Antimicrobial Resistome in Sediments of Two Contrasting Wastewater-Impacted Rivers",
+    "abstract": "River sediments harbor diverse antimicrobial resistance (AMR) determinants; however, gene abundance alone provides limited insight into their genomic context, mobility potential, and associated bacterial hosts. This study employed an assembly- and read-mapping metagenomic framework to surface-sediment metagenomes (40.78 Gb clean data) from two contrasting wastewater-impacted Indian rivers, Adyar (Chennai) and Musi (Hyderabad), retaining sample-, contig- and open reading frame level provenance. ARG-carrying contigs (ACCs; n = 2,402) were annotated for mobile genetic elements (MGEs), biocide/metal resistance genes (BMRGs), virulence factor genes (VFGs), nitrogen-cycling genes (NCycGs), and putative host taxonomy. The resistomes exhibited substantial diversity (264 ARG subtypes) and spatial heterogeneity, with subtype richness in the Adyar (up to 171 subtypes) than in the Musi, where richness progressively declined downstream. Rank IV determinants dominated ARG abundance (77.82%), whereas Rank I determinants accounted for only 9.89%. MGEs were detected on just 3.12% (75/2,402) of ACCs, predominantly comprising plasmid-like contigs and proximal ARG-MGE associations. Co-occurrence with BMRGs was observed on 386 ACCs, whereas VFGs were uncommon (26 ACCs) and primarily represented dual-annotated efflux and envelope-integrity determinants rather than independent virulence loci. NCyc annotations were sparse (12 ACCs), with no evidence of complete nitrification or denitrification pathways. Taxonomic classification resolved 217 ACCs to the species level, with no matches to curated human pathogenic bacteria. Only two Acinetobacter-assigned ACCs exhibited both genus-level pathogenicity and mobility evidence. These findings highlight the importance of integrating mobility and host-taxonomic information to distinguish baseline environmental resistance from potential priorities for AMR surveillance.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.763893",
+    "date": "2026-11-10",
+    "authors": "Kashyap, A., Sonkar, V., Nambi, I. M., Thatikonda, S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763893v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomes",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2554,
+    "collected_at": "2026-11-10T22:50:05.049458+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.763893"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1da15d3e828cdfe50beef65d3b88e3f3a0fb94f4bd6dae18bcb26bdf51f2eb41",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:57:31.933950+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7f939f7cbc17e4cd7d3938b467a88c7bb19349db90b7a8df7063d7f4e2c78b90",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:57:31.933950+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "下水の影響を受けた対照的な2河川の堆積物における抗菌薬耐性ゲノムのコンティグ解析による遺伝的背景",
+    "abstract_ja": "河川堆積物には多様な薬剤耐性（AMR）決定因子が存在するが、遺伝子量のみでは、そのゲノム的背景、可動性の可能性、および関連する細菌宿主に関する知見は限定的である。本研究では、アセンブリおよびリードマッピング型メタゲノムフレームワークを用い、インドの対照的な2つの廃水影響河川であるアディヤール川（チェンナイ）とムシ川（ハイデラバード）から得られた表層堆積物メタゲノム（40.78 Gbのクリーンデータ）を解析し、サンプル、コンティグ、およびオープンリーディングフレームレベルの由来を保持した。ARG保有コンティグ（ACCs; n = 2,402）に対し、可動性遺伝要素（MGEs）、殺生物剤／金属耐性遺伝子（BMRGs）、病原性因子遺伝子（VFGs）、窒素循環遺伝子（NCycGs）、および推定宿主分類のアノテーションを行った。レジストームは顕著な多様性（264種類のARGサブタイプ）と空間的不均一性を示し、サブタイプの豊富さはムシ川よりもアディヤール川（最大171サブタイプ）で高く、下流に向かうにつれて徐々に減少した。ARG量の大部分（77.82%）はランクIV決定因子が占め、ランクI決定因子はわずか9.89%であった。MGEはACCのわずか3.12%（75/2,402）で検出され、その大部分はプラスミド様コンティグおよび近接したARG-MGE関連配列で構成されていた。BMRGsは386個のACCで共起が認められた一方、VFGsは稀であり（26 ACC）、独立した病原性遺伝子座ではなく、主にデュアルアノテーションされた排出および包膜完全性決定因子であった。NCycアノテーションはまばらであり（12 ACC）、完全な硝化または脱窒経路の証拠は認められなかった。分類学的分類により、217個のACCが種レベルまで同定されたが、キュレート済みのヒト病原細菌との一致は認められなかった。Acinetobacter属に割り当てられたACCのうち、属レベルの病原性と可動性の両方の証拠を示したのはわずか2個であった。これらの知見は、ベースラインの環境耐性とAMRサーベイランスにおける潜在的な優先事項を区別する上で、可動性と宿主分類情報を統合することの重要性を強調するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.09.765253",
+    "title": "Northern palsa and peat ecosystem microbiomes are potentially supported by hydrogen and carbon monoxide metabolism",
+    "abstract": "Northern peatland and permafrost ecosystems are facing rapid changes, with increasing temperatures, permafrost thaw and shifts in hydrology. Characterizing microbial communities and metabolic potential from the soils and associated water bodies is crucial to understanding the changes in biogeochemical cycling in these ecosystems. For this, samples were collected and sequenced from subarctic palsa and peat soils, along with samples from associated thaw ponds and streams. Metagenomics was utilized in describing the microbiome and its metabolic potential in these environments. Palsa soils hosted microbial communities that were distinct from the peatland soils, ponds and stream waters. Soils and their adjacent ponds shared taxa, and peat soils and ponds also shared taxa with the streams, unlike palsa soils which were likely more hydrologically isolated. Based on metabolic marker gene ratio for denitrification [(nirS+nirK)/nosZ], palsa soils had the strongest potential to be a source of nitrous oxide (N2O) out of all the sample types. Marker genes for hydrogen gas (H2) and carbon monoxide (CO) utilization were abundant across soil environments and metagenome assembled genomes, suggesting that trace gas oxidation is likely one of the key energy sources for microbiomes. In the palsa ponds and peat soils pmoA, marker gene for methanotrophy, was the most abundant compared to the other sample types.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765253",
+    "date": "2026-11-10",
+    "authors": "Tuomela, N., Thomas, D. N., Kaartokallio, H., Välikangas, T., Hultman, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765253v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenomics",
+        "methanotroph",
+        "methanotrophy",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3193,
+    "collected_at": "2026-11-10T23:48:31.251622+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.09.765253"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3619b90f108d568a8f725360ce3e561f5438368bd7a4a445a37f6e6a0fd661c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:57:31.933950+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5a6b97ec94191e52cee491b6c137c49ffc7433b7aee32de6e673c933799c002d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:57:31.933950+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "北方のパルサおよび泥炭生態系の微生物叢は、水素および一酸化炭素代謝によって維持されている可能性がある。",
+    "abstract_ja": "北方の泥炭地および永久凍土生態系は、気温の上昇、永久凍土の融解、および水文学的変動に伴い、急速な変化に直面している。土壌および関連する水域における微生物群集と代謝能を特性評価することは、これらの生態系における生物地球化学的循環の変化を理解する上で極めて重要である。このため、亜寒帯のパルサ土壌および泥炭土壌、ならびにそれに付随する融解池や河川から試料を採取し、シーケンシングを行った。これらの環境におけるマイクロバイオームとその代謝能を記述するために、メタゲノミクスを活用した。パルサ土壌には、泥炭地の土壌、池、および河川水とは異なる微生物群集が存在していた。土壌とその隣接する池は分類群を共有しており、また、おそらく水文学的に孤立していたパルサ土壌とは異なり、泥炭土壌と池は河川とも分類群を共有していた。脱窒の代謝マーカー遺伝子比［(nirS+nirK)/nosZ］に基づくと、すべての試料タイプの中でパルサ土壌が亜酸化窒素（N2O）の供給源となる可能性が最も高かった。水素ガス（H2）および一酸化炭素（CO）利用のマーカー遺伝子は、土壌環境およびメタゲノムアセンブルゲノムの全域で豊富に存在しており、微量ガス酸化がマイクロバイオームの主要なエネルギー源の一つである可能性が高いことが示唆された。パルサ池および泥炭土壌では、メタン酸化のマーカー遺伝子であるpmoAが、他の試料タイプと比較して最も豊富に存在していた。"
+  },
+  {
+    "id": "10.64898/2026.11.09.763769",
+    "title": "Gene-resolved metagenomics reveals partitioned nitrogen transformation potential in a landfill leachate sequencing batch reactor microbiome",
+    "abstract": "Landfill leachate can contain high concentrations of ammonia and organic nitrogen requiring treatment before discharge. Sequencing batch reactors (SBRs) promote biological nitrogen removal through alternating aerobic and anoxic conditions, but taxonomic profiling alone cannot resolve how nitrogen transformation and competing retention pathways are distributed across microbial communities. This study applied gene-resolved metagenomics to a sludge sample collected from a UK landfill leachate SBR. Nitrogen-metabolism genes were linked to contig-level taxonomic assignments and metagenome-assembled genome bins to examine nitrification, denitrification, dissimilatory nitrate reduction to ammonium (DNRA), and assimilatory nitrate reduction (ANR). Nitrogen-transformation potential was partitioned across dominant and minor taxa. Nitrospirota and Pseudomonadota were the most abundant classified phyla, whereas Actinomycetota represented only 4% of the community but included Actinomycetes, which showed the highest within-taxon proportion of nitrogen metabolism associated genes. amoABC was assigned only to Nitrosomonas and Nitrososphaerota, whereas denitrification genes were more widely distributed but frequently occurred as partial pathways. nosZ was detected only in the minor phyla Chloroflexota, Acidobacteriota and Myxococcota. DNRA and ANR-associated genes occurred across multiple lineages; nirA in Nitrospira and DNRA-associated nirBD elsewhere within Nitrospirota suggested nitrifier-associated lineages may also encode nitrogen retention potential. Gene-resolved metagenomics identified candidate low-abundance contributors, restricted distributions of genes associated with ammonia oxidation and nitrous oxide reduction, and nitrogen-retention potential not apparent from taxonomic composition alone. Because the study examined DNA-level potential in a single sludge sample, expression, reactor chemistry and longitudinal data are needed to establish pathway activity and operational relevance.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.763769",
+    "date": "2026-11-10",
+    "authors": "Rattray, S., Blake, L., Ingrey, N., MacArthur, I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.763769v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenome-assembled genome",
+        "metagenomics",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3194,
+    "collected_at": "2026-11-10T23:48:31.251622+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.09.763769"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2e651e39688630e32eb3830fa9842c457f6ba9fa2841f40a6f90df30d8d92024",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:57:31.933950+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8825219a2a2a640dad00306e03867bb370d914b3e6d7727a2f8be134fc0efee6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:57:31.933950+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝子解析によるメタゲノミクスにより、埋立地浸出液シーケンシングバッチ反応器マイクロバイオームにおける分割型窒素変換能が明らかになった。",
+    "abstract_ja": "埋立地浸出液には高濃度のアンモニアおよび有機窒素が含まれることがあり、排出前に処理が必要となる。シーケンシングバッチリアクター（SBR）は、好気的条件と嫌気的条件を交互に繰り返すことで生物学的窒素除去を促進するが、分類学的プロファイリングだけでは、窒素変換および競合的な保持経路が微生物群集内にどのように分布しているかを解明することはできない。本研究では、英国の埋立地浸出液SBRから採取した汚泥試料に対し、遺伝子分解能メタゲノミクスを適用した。窒素代謝遺伝子をコンティグレベルの分類学的割り当ておよびメタゲノムアセンブルされたゲノムビンに紐付け、硝化、脱窒、異化的硝酸還元によるアンモニウム化（DNRA）、および同化的硝酸還元（ANR）を検討した。窒素変換能は、優占分類群と非優占分類群に区分された。分類された門の中で最も豊富に存在したのはニトロスピロタ門とシュードモナドタ門であり、一方でアクチノマイセトータ門は群集のわずか4%を占めるにとどまったが、同門内には窒素代謝関連遺伝子の分類群内比率が最も高いアクチノマイセテス門が含まれていた。amoABCはニトロソモナス門とニトロソスファエロタ門にのみ割り当てられた一方、脱窒遺伝子はより広く分布していたが、多くの場合、部分的な経路として認められた。nosZは、非優占門であるクロロフレクタ門、アシドバクテリオータ門、およびミクソコッカータ門でのみ検出された。DNRAおよびANR関連遺伝子は複数の系統にわたって存在し、ニトロスピラ門におけるnirAおよびニトロスピロタ門の他の部位におけるDNRA関連nirBDは、硝化菌関連系統が窒素保持能もコードしている可能性を示唆した。遺伝子分解能メタゲノミクスにより、低存在量の寄与因子候補、アンモニア酸化および亜酸化窒素還元に関連する遺伝子の限定的な分布、ならびに分類学的組成のみからは明らかでない窒素保持能が同定された。本研究では単一の汚泥試料におけるDNAレベルの能を調査したため、経路活性および運用上の関連性を確立するには、発現、リアクター化学、および経時的データが必要である。"
   }
 ]
