@@ -211094,5 +211094,322 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ゲノム疫学による中国広東省におけるチクングニアウイルスの検出前の伝播と定着の復元",
     "abstract_ja": "2025年、中国南部で発生したチクングニア熱のアウトブレイクにより、2万5,000例以上の確定症例が報告されたが、その起源と伝播経路は依然として解明されていない。公衆衛生調査の一環として、我々は広東省からほぼ完全なチクングニアウイルス（CHIKV）ゲノム1,264株を作製し、ゲノム、疫学、昆虫学的データ、および人の移動データを統合して、本アウトブレイクの発生と拡大過程を再構築した。解析の結果、本アウトブレイクはレユニオン関連東・中央・南部アフリカ（ECSA）ウイルス系統の単一の支配的な導入に起因することが明らかとなり、サンプリングされた広東省のアウトブレイク系統の起源は2025年4月下旬から5月上旬であると推定された。推定されたアウトブレイク系統の起源から最初の報告症例までの期間は、未検出の地域内伝播が存在していた時期と一致しており、初期のアルボウイルスアウトブレイク検出における受動的サーベイランスの限界が浮き彫りとなった。時空間的な再構築により、伝播動態が対照的な2つの明確な流行波が確認された。仏山波では中・長距離のウイルス移動が頻繁に認められた一方、江門波は比較的局地的な範囲に留まった。これらの知見を総合すると、中国南部でこれまで記録された最大規模のCHIKV流行の初期成立と空間的に不均一な拡大過程が再構築され、新興流行を適時に検出・特性評価するためには、CHIKV常在感染の周辺地域において能動的なゲノムサーベイランスを拡大する必要性が示された。"
+  },
+  {
+    "id": "10.64898/2026.11.05.764686",
+    "title": "Disparities in avian genomic resources highlight gaps across the Global South",
+    "abstract": "Avian genomes have proliferated rapidly in recent years while expanding our knowledge of genomic evolution. However, evaluating bird sampling across the tree of life and across their distributions is necessary to assess their contributions to global bird diversity and diversification patterns. We evaluated all available avian genome assemblies across geography, taxonomy, conservation status, and time. The 1,712 species with at least one genome assembly represent only ~15% of recognized avian diversity. Although all orders were represented, 24 bird families (all restricted to the Global South) lacked any genome assembly, and only ~37% (N= 2,397) of recognized genera had genomic representation. Nearly 78% of the most evolutionarily distinct and globally endangered (EDGE) lineages lacked a genome. Genomic resources are concentrated in temperate regions of the Global North, whereas species-rich tropical regions in Africa, South America, and Southeast Asia remain severely underrepresented relative to their diversity. Even after accounting for conservation status, evolutionary distinctiveness, and ecology, Global South species had roughly fourfold lower odds of having a genome than Global North species. Notably, the post-2021 surge in genome sequencing has counter-intuitively widened this gap. Together, our results highlight persistent gaps in genomic resources across the Global South and the need to collectively address these global knowledge gaps via collaborative efforts.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764686",
+    "date": "2026-11-06",
+    "authors": "K. L., V., Arvind, C., Goyal, N., Warudkar, A., Reddy, S., Robin, V. V.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764686v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2104,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.05.764686"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f67a6675d5cc7baf8642f65663a96aeac1dc1602c7253d736aac388f37391277",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:33:15.436832+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5480d8907439c7363335bb5fa1224f9ec190644ab2c0c3c38e2785377611baab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:33:15.436832+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "鳥類ゲノム資源の格差は、グローバルサウスにおける空白を浮き彫りにしている。",
+    "abstract_ja": "近年、鳥類のゲノムは急速に増加しており、ゲノム進化に関する知見も拡大している。しかし、世界的な鳥類の多様性や多様化パターンへの寄与度を評価するには、生命の系統樹および分布域にわたる鳥類のサンプリング状況を評価することが不可欠である。我々は、地理、分類学、保全状況、および年代にわたる、利用可能なすべての鳥類ゲノムアセンブリを評価した。少なくとも1つのゲノムアセンブリが得られた1,712種は、認められている鳥類の多様性の約15%に過ぎない。すべての目を網羅していたものの、24の鳥類科（すべてグローバルサウスに限定）ではゲノムアセンブリが存在せず、認められている属のうちゲノムが得られたのは約37%（N= 2,397）にとどまった。進化的に最も特異的で世界的に絶滅の危機に瀕している（EDGE）系統の約78%において、ゲノムが欠如していた。ゲノム資源はグローバルノースの温帯地域に集中している一方、アフリカ、南アメリカ、東南アジアの種多様性に富んだ熱帯地域は、その多様性に比して著しく代表性が低いままである。保全状況、進化的特異性、および生態学的要因を考慮しても、グローバルサウスの種がゲノムを有する確率は、グローバルノースの種に比べて約4分の1であった。特筆すべきは、2021年以降のゲノムシーケンシングの急増が、直感に反してこの格差を拡大させた点である。以上の結果は、グローバルサウス全域におけるゲノム資源の根強い不足と、共同の取り組みを通じてこれらの世界的な知見の空白に共同で対処する必要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11476274/v1",
+    "title": "Biosynthesis-Integrated Editing of Bacterial Cellulose Enables Sequence-Programmable Biointerfaces",
+    "abstract": "Abstract  Structural polysaccharides self-assemble into densely packed fibrils, providing a molecular foundation for the hierarchical organization and mechanical integrity of biological materials. However, the same interchain interactions that stabilize these structures severely restrict chemical accessibility, making molecular editing after assembly a formidable challenge. Here, we integrate regiochemical editing into bacterial cellulose biosynthesis using azido-glucose analogues substituted at C2, C3, or C6. The resulting cellulose materials exhibit regioisomer-dependent differences in crystallinity, fibrillar organization, and mechanical properties, while precursor feeding further modulates crystallinity. The incorporated azide groups remain chemically accessible after assembly, enabling DNA conjugation and rolling-circle amplification to construct sequence-programmable aptamer interfaces. By varying the aptamer sequence, the same cellulose platform can be reprogrammed for either selective cell capture and release or HGF-mimetic regulation of endothelial behavior. This work establishes a biosynthesis-integrated strategy that connects molecular editing during cellulose formation with hierarchical material organization and subsequent biological programming.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11476274/v1",
+    "date": "2026-11-06",
+    "authors": "Yang G, Tang G, He Q, Zou S, Wang H, Huang G, Yin W, Shi Z, Chen Z, Yin L, Chen G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360565",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2154,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11476274/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9c94996a8f45e2c0b1ad1fe57ab2e58a1dbd8efaa0d43f52be34d9fc8668ccdf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:33:15.436832+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "95009ab19d2bdca0e044b9e53351a2df773a86fc4b7e75876c71d070e26fc451",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:33:15.436832+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌セルロースの生合成・統合編集による配列プログラム可能なバイオインターフェースの実現",
+    "abstract_ja": "要旨　構造性多糖類は高密度に充填された線維へと自己組織化し、生体材料の階層的組織化と機械的完全性の分子基盤となる。しかし、これらの構造を安定化させる同一の鎖間相互作用が化学的アクセス性を著しく制限するため、組織化後の分子編集は困難な課題となっている。本研究では、C2、C3、またはC6位に置換されたアジドグルコース類縁体を用いて、細菌セルロース生合成に位置化学的編集を統合した。得られたセルロース材料は、位置異性体依存的な結晶性、線維組織化、および機械的特性の差異を示し、前駆体の供給によって結晶性がさらに調節される。組み込まれたアジド基は組織化後も化学的にアクセス可能な状態を維持し、DNA共役やローリングサークル増幅を可能にすることで、配列プログラム可能なアプタマー界面を構築できる。アプタマー配列を変化させることで、同一のセルロースプラットフォームを、選択的な細胞捕捉・放出、あるいはHGF模倣による内皮挙動の調節へと再プログラムすることが可能となる。本研究は、セルロース形成時の分子編集を、階層的な材料組織化およびその後の生物学的プログラミングへと結びつける、生合成統合型戦略を確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11398870/v1",
+    "title": "PM₂.₅-Associated Variation in Airborne Antimicrobial Resistance Gene Abundance During Winter Smog Episodes in Urban Pakistan (2022–2023)",
+    "abstract": "Abstract    Airborne particulate matter (PM₂.₅) is a major component of winter smog and has been increasingly recognized as a potential carrier of microbial contaminants, including antimicrobial resistance genes (ARGs). However, limited data are available on the distribution of airborne ARGs associated with PM₂.₅ in urban environments of Pakistan.  Objective  This study aimed to quantify the relative abundance of clinically relevant ARGs in PM₂.₅-associated bacterial communities across three cities of Pakistan and to evaluate their association with air pollution and meteorological conditions.  Methodology  PM₂.₅ samples were collected from Lahore, Islamabad, and Okara during the winter months (November–December 2022 and 2023). External DNA (eDNA) associated with particulate matter was extracted and analysed using quantitative real-time PCR (qPCR). The relative abundance of selected ARGs (  sul1, blaTEM, blaCTX-M-32, blaNDM-1, vanA, vanRA, tnpA, intI1  , and  blaTEM-F  ) was determined using the 2^(-ΔCt) method and normalized against the 16S rRNA gene. Environmental parameters, including PM₂.₅ concentration, Air Quality Index (AQI), temperature, and humidity, were also assessed.  Results  Lahore exhibited the highest pollution levels, with PM₂.₅ concentrations reaching 276.6 ± 27.4 µg/m³ and AQI values up to 289.3 ± 42.7. PM₂.₅ showed strong positive correlations with AQI (r = 0.92) and relative humidity (r = 0.91) and a negative correlation with temperature (r = − 0.38). Distinct spatial variation in ARG relative abundance was observed across the study sites. The  blaNDM-1  gene demonstrated the highest relative abundance, particularly in Lahore (0.077) and Islamabad (0.056), while  vanA  showed a comparatively higher abundance in Okara. Other ARGs, including  blaTEM-F, sul1  , and  intI1  , exhibited variable distribution patterns across cities, indicating heterogeneous environmental resistome profiles.  Conclusion  The findings reveal significant spatial variability in airborne ARG relative abundance associated with PM₂.₅ and highlight the influence of environmental conditions on resistome distribution. These results underscore the importance of monitoring airborne antimicrobial resistance in polluted urban environments and provide baseline data for future environmental and public health assessments.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11398870/v1",
+    "date": "2026-11-06",
+    "authors": "Khan MI, Amin A, Khalid N, Ahmed I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360192",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2155,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11398870/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7af6d373e1229a46a0ac1b2c7b56d37f3b6cba3f05336288209ffa12ef08d948",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:33:15.436832+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "91177ea736df4335b27fb659c5dea36a48887f16f652da1fe28274072d7a19e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:33:15.436832+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パキスタン都市部における冬季スモッグ発生時のPM₂.₅関連の大気中抗菌薬耐性遺伝子量の変動（2022–2023年）",
+    "abstract_ja": "要旨    大気中の粒子状物質（PM₂.₅）は冬季スモッグの主要な構成要素であり、薬剤耐性遺伝子（ARG）を含む微生物汚染物質の潜在的な運搬体として認識されつつある。しかし、パキスタンの都市環境におけるPM₂.₅に関連する大気中ARGの分布に関するデータは限られている。  目的  本研究は、パキスタンの3都市におけるPM₂.₅関連細菌群集中の臨床的に意義のあるARGの相対存在量を定量し、それらと大気汚染および気象条件との関連性を評価することを目的とした。  方法  冬季（2022年および2023年11月～12月）に、ラホール、イスラマバード、およびオカラからPM₂.₅試料を採取した。粒子状物質に随伴する外部DNA（eDNA）を抽出し、定量リアルタイムPCR（qPCR）を用いて解析した。選定したARG（sul1, blaTEM, blaCTX-M-32, blaNDM-1, vanA, vanRA, tnpA, intI1, blaTEM-F）の相対存在量を2^(-ΔCt)法を用いて決定し、16S rRNA遺伝子を基準として正規化した。また、PM₂.₅濃度、大気質指数（AQI）、気温、および湿度を含む環境パラメータについても評価した。  結果  ラホールでは汚染レベルが最も高く、PM₂.₅濃度は276.6 ± 27.4 µg/m³、AQI値は最大289.3 ± 42.7に達した。PM₂.₅はAQI（r = 0.92）および相対湿度（r = 0.91）と強い正の相関を示し、気温（r = − 0.38）とは負の相関を示した。調査地点間で、ARGの相対存在量に顕著な空間的変動が認められた。blaNDM-1遺伝子はラホール（0.077）およびイスラマバード（0.056）で特に高い相対存在量を示した一方、vanAはオカラで比較的高い存在量を示した。blaTEM-F、sul1、intI1を含むその他のARGは、都市間で分布パターンにばらつきが見られ、環境レジストームプロファイルの不均一性が示された。  結論  本研究の結果は、PM₂.₅に関連する大気中ARGの相対存在量に顕著な空間的変動があることを明らかにし、環境条件がレジストーム分布に及ぼす影響を浮き彫りにした。これらの結果は、汚染された都市環境における大気中の薬剤耐性のモニタリングの重要性を強調するものであり、今後の環境および公衆衛生評価のための基礎データを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764477",
+    "title": "Integrative identification of Tetratostichococcus sp. CCAH0201 (Trebouxiophyceae, Chlorophyta) from Rhizophora leaves in the Can Gio Mangrove Forest, Vietnam",
+    "abstract": "A microalgal strain from Rhizophora leaves in the Can Gio Mangrove Forest, Vietnam, was examined by light microscopy and three molecular markers. Thirty-six cells from 22 micrographs measured 6.68-12.74 by 3.49-4.79 micrometres. Homologous phylogenetic windows comprised 550 nucleotides for SSU rDNA, 711 for ITS and 1,170 for rbcL. CCAH0201, P1 and Tetratostichococcus jenerensis SAG 2138 shared the SSU 3-prime sequence, whereas ITS and rbcL placed CCAH0201 with P1 (SH-aLRT/UFBoot 87/94 and 96.9/99). CCAH0201 differed from P1 at 22/711 ITS and 4/1,170 rbcL sites. Structure-guided ITS2 comparison identified one strict CBC, one two-sided change from a wobble pair and three hemi-CBCs relative to P1. CCAH0201 is thus identified as Tetratostichococcus sp. in a lineage close to P1.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764477",
+    "date": "2026-11-06",
+    "authors": "Nguyen T, Tran H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361033",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microalgal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2220,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.05.764477"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0b9f2da5bbbd5993daffe2a61ac3a5ec203eddcabe92e78c88238bbe38f580ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:33:15.436832+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "957e537838c9575d801b665b44f3b7c20fea6e865214bbceeb85e1a8018f919b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:33:15.436832+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ベトナム・カンジオマングローブ林の根生葉におけるTetratostichococcus sp. CCAH0201（トレボウキ藻綱、緑藻綱）の統合的同定",
+    "abstract_ja": "ベトナムのカンギオマングローブ林のリゾフォラ葉由来の微細藻類株について、光学顕微鏡観察および3つの分子マーカーを用いて解析を行った。22枚の顕微鏡写真から得られた36個の細胞のサイズは、6.68–12.74 × 3.49–4.79 μmであった。相同系統解析ウィンドウは、SSU rDNAで550ヌクレオチド、ITSで711ヌクレオチド、rbcLで1,170ヌクレオチドであった。CCAH0201、P1、およびTetratostichococcus jenerensis SAG 2138はSSU 3-prime配列を共有していたが、ITSおよびrbcLの解析により、CCAH0201はP1（SH-aLRT/UFBoot 87/94および96.9/99）に位置付けられた。CCAH0201は、ITSの22/711部位およびrbcLの4/1,170部位においてP1と異なっていた。構造ガイドを用いたITS2比較により、P1に対して1つの厳格なCBC、1つのウォブルペアからの両側変化、および3つの半CBCが同定された。したがって、CCAH0201はP1に近い系統のTetratostichococcus sp.として同定された。"
   }
 ]
