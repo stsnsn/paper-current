@@ -229063,5 +229063,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "scRM: scRNA-seqリードで学習したシングルセル基盤モデル",
     "abstract_ja": "シングルセル基盤モデルは現在、遺伝子カウント行列から学習を行っている。この行列は、RNA配列、スプライス部位の利用状況、3' UTRアイソフォームの同一性、および基盤となるシーケンシングリードに含まれる変異情報を排除した、種特異的な要約を離散化したものである。本稿では、シーケンシングリードを用いて直接基盤モデルを学習させるフレームワークである「シングルセル生データ事前学習」を提案する。本手法はリードアライメントやカウント行列を必要とせず、学習済みモデルを任意の種に適用可能にする。本フレームワークにおける最初のモデルであるシングルセルリードモデルscRMは、2つのTransformerエンコーダを階層的なアテンションプールで組み合わせた構成となっており、120万個のパラメータを有する。我々はこれをJEPAとして、単一のH100上の3,000個のマウス神経細胞を用いて1時間で学習させ、パラメータ数および学習細胞数が数桁多い主要なシングルセル基盤モデルとゼロショットでベンチマーク評価を行った。その結果、我々の軽量モデルはすべてのタスクにおいて既存モデルと同等の性能に達し、シーケンスレベルの詳細を必要とする摂動検出タスクではそれらすべてを上回ることが示された。我々の知る限り、scRMはシーケンシングリードを用いて学習された初のシングルセル基盤モデルであり、生データ事前学習が実現可能であるだけでなく、計算コストを大幅に抑えて競争力を持つことを実証している。今後、このフレームワークをスケールさせ、代替アーキテクチャを模索することで、カウントモデルではアクセスできない生物学的情報を明らかにし、既に可能となっているデータセット固有の事前学習をさらに拡張できると期待している。ソースコードは https://github.com/altoslabs/scRM で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763231",
+    "title": "A new tool for quantifying mitochondrial RNA processing intermediates reveals increased levels of immature mRNA species under oxidative stress",
+    "abstract": "Summary  Mitochondrial gene expression in mammals requires the processing of polycistronic transcripts into mature RNAs, generating multigene maturation intermediates. Yet these species and their potential association with mitochondrial stress remain poorly characterized. We analyzed intact RNA species in healthy mouse hearts through direct RNA sequencing and identified polyadenylated mitochondrial transcripts containing complete mRNA sequences with uncleaved tRNA extensions, which we termed immature mRNAs (imRNAs). Guided by these findings, we developed a new computational tool to estimate imRNA levels using conventional short-read RNA-seq datasets. Analysis of mouse hearts deficient in mitochondrial superoxide dismutase 2 (SOD2), a model of mitochondrial oxidative stress, revealed selectively elevated levels of imRNAs retaining 5’ tRNA extensions, without increases in those with 3’ tRNA extensions. Comparative analyses of several mouse models with defects in mitochondrial respiration, transcription, translation, or proteostasis did not reproduce this pattern. A mouse model of mitochondrial import stress with reduced ROS generation exhibited decreased levels of imRNAs retaining 5’ tRNA extensions. Conversely, human induced pluripotent stem cells treated with rotenone, which elevates mitochondrial ROS, showed increased levels of imRNAs retaining 5’ but not 3’ tRNA extensions, reproducing the pattern observed in SOD2-deficient mouse hearts. These findings identify an imRNA signature potentially associated with mitochondrial oxidative stress. The presence of imRNAs described here suggests that widely used transcriptome analysis pipelines may count these species as mature mRNAs, overestimating mitochondrial mRNA levels and overlooking defects in RNA maturation. By enabling retrospective analysis of processing intermediates, our tool provides access to previously unexamined information in existing RNA-seq datasets.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763231",
+    "date": "2026-11-02",
+    "authors": "Ozkurede U, Rajhans S, Accornero F, Liu JC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357741",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2548,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.763231"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2d057ef73f6341d88f4ca457dfdea524bd29ac218496aea7be22f243601750e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:55:16.912401+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dac23e30cd6e58716cde5d4a5c170233b84a531ede29a8eedf7bff439eb1752e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:55:16.912401+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ミトコンドリアRNAプロセシング中間体を定量化する新規ツールにより、酸化ストレス下で未成熟mRNA種のレベルが上昇することが明らかになった。",
+    "abstract_ja": "要旨  哺乳類におけるミトコンドリア遺伝子の発現には、ポリシストロン転写産物を成熟RNAへとプロセシングし、多遺伝子成熟中間体を生成する過程が必要である。しかし、これらの種およびミトコンドリアストレスとの潜在的な関連性については、依然として十分に解明されていない。我々は、健康なマウス心臓における完全なRNA種をダイレクトRNAシーケンシングにより解析し、未切断のtRNA伸長部を持つ完全なmRNA配列を含むポリアデニル化ミトコンドリア転写産物を同定し、これらを未成熟mRNA（imRNA）と命名した。これらの知見に基づき、従来のショートリードRNA-seqデータセットを用いてimRNAレベルを推定する新たな計算ツールを開発した。ミトコンドリア酸化ストレスのモデルであるミトコンドリアスーパーオキシドジスムターゼ2（SOD2）欠損マウス心臓の解析により、3’ tRNA伸長部を持つimRNAは増加しなかった一方で、5’ tRNA伸長部を保持するimRNAのレベルが選択的に上昇していることが明らかになった。ミトコンドリアの呼吸、転写、翻訳、またはプロテオスタシスに欠損を持つ複数のマウスモデルを用いた比較解析では、このパターンは再現されなかった。ROS生成が低下したミトコンドリア取り込みストレスマウスモデルでは、5’ tRNA伸長部を保持するimRNAのレベルが低下していた。対照的に、ミトコンドリアROSを上昇させるロテノンで処理したヒト人工多能性幹細胞では、3’ tRNA伸長部ではなく5’ tRNA伸長部を保持するimRNAのレベルが上昇しており、SOD2欠損マウス心臓で観察されたパターンが再現された。これらの知見は、ミトコンドリア酸化ストレスに関連している可能性のあるimRNAシグネチャーを同定するものである。ここで記述したimRNAの存在は、広く用いられているトランスクリプトーム解析パイプラインが、これらの種を成熟mRNAとしてカウントし、ミトコンドリアmRNAレベルを過大評価してRNA成熟の欠陥を見落としている可能性を示唆している。プロセシング中間体の後向き解析を可能にすることで、本ツールは既存のRNA-seqデータセットにおける、これまで解析されていなかった情報へのアクセスを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.31.763113",
+    "title": "Structure of  Bacillus cereus  ZmaM, a peptidase-ABC transporter that secretes and activates zwittermicin A",
+    "abstract": "Bacteria engage in microbial warfare by secreting toxic molecules. These toxins can serve as therapeutics or drug discovery starting points, motivating investigations of their production. Bacteria that produce these toxins must protect themselves, and a common strategy is to synthesize an inactive prodrug that is activated upon secretion. Some prodrugs are capped with  N -acyl-ᴅ-asparagine motifs, which are removed by two types of prodrug peptidases. Type I peptidases are membrane-bound S12 hydrolases; type II peptidases have an additional C-terminal half-ABC transporter module. Recent structures of a type I peptidase revealed how its transmembrane domain completes the substrate-binding site, but little is known about type II peptidases. Here, we show that the  B. cereus type II peptidase ZmaM is responsible for both the export of prezwittermicin and its activation into zwittermicin. The structure of homodimeric ZmaM reveals a central type IV ABC transporter flanked by peptidase modules. The periplasmic hydrolase domains interact over the transporter’s open outer vestibule. Mutations to intermodule interfaces impact both peptidase and ATP hydrolysis activities, indicating the peptidase and transporter modules are interdependent. Together, our findings reveal an evolutionary strategy to coordinate toxin activation with its export and inform future efforts to harness these systems in biotechnology.",
+    "journal": "",
+    "doi": "10.64898/2026.10.31.763113",
+    "date": "2026-11-02",
+    "authors": "Zavala GE, Velilla JA, Walsh RM, Patel M, Mennes K, Rafat W, Aguilar Ramos MA, Daniel-Ivad M, Ramírez-Guadiana FH, Rudner DZ, Balskus EP, Gaudet R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357740",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacteria",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1525,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.31.763113"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cb59f6ba1e2067f6bbcd97470ab875fe5ddcfa508802cbb56a1b89563195296c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:55:16.912401+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a1d3159e0f24bca8b5cbb0abc76007527251c131645c2754a34f35092579bf5b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:55:16.912401+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ズウィッターマイシンAを分泌・活性化するペプチダーゼ-ABCトランスポーターBacillus cereus ZmaMの構造",
+    "abstract_ja": "細菌は毒性分子を分泌することで微生物戦を展開する。これらの毒素は治療薬や創薬の出発点となり得るため、その産生に関する研究が促進される。これらの毒素を産生する細菌は自らを防御する必要があり、一般的な戦略として、分泌時に活性化される不活性なプロドラッグを合成することが挙げられる。一部のプロドラッグはN-アシル-α-アスパラギンモチーフでキャップされており、これは2種類のプロドラッグペプチダーゼによって除去される。タイプIペプチダーゼは膜結合型S12ヒドロラーゼであり、タイプIIペプチダーゼはさらにC末端にハーフABCトランスポーターモジュールを有する。タイプIペプチダーゼの最近の構造解析により、その膜貫通ドメインが基質結合部位を完結させる仕組みが明らかになったが、タイプIIペプチダーゼについてはほとんど解明されていない。本研究では、B. cereusのタイプIIペプチダーゼZmaMが、プレズウィッターマイシンの排出と、そのズウィッターマイシンへの活性化の両方を担っていることを示す。ホモ二量体ZmaMの構造からは、ペプチダーゼモジュールに挟まれた中心のタイプIV ABCトランスポーターが明らかとなった。ペリプラズム側のヒドロラーゼドメインは、トランスポーターの開放型外前庭部を介して相互作用する。モジュール間インターフェースの変異は、ペプチダーゼ活性とATP加水分解活性の両方に影響を及ぼし、ペプチダーゼモジュールとトランスポーターモジュールが相互依存していることを示している。以上の知見を総合すると、毒素の活性化とその排出を協調させる進化戦略が明らかになり、バイオテクノロジーにおいてこれらのシステムを活用する今後の取り組みに資するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762896",
+    "title": "Single-probe, amplification-free multiplex mRNA PNA-FISH maps bacterial gene expression in intact three-dimensional biofilms",
+    "abstract": "Biofilms are spatially structured communities in which local microenvironments drive physiological differentiation, yet mapping gene expression inside intact three-dimensional biofilms remains challenging. Bacterial spatial transcriptomics methods typically rely on tiled probe sets, sequential hybridization rounds, or signal amplification. Here, we show that a single short, directly labelled peptide nucleic acid (PNA) probe per target is sufficient to quantify bacterial mRNA  in situ without amplification. With all probes designed for a common hybridization condition, a transcript panel is resolved in one hybridization on a standard confocal microscope, in unmodified cells while preserving biofilm architecture. Benchmarked against the biphasic cycle of  Legionella pneumophila , multiplex mRNA PNA-FISH recovers the expected transcriptional switch and agrees quantitatively with RT-qPCR in planktonic and biofilm populations. In flow-cell biofilms, it shows that sessile populations do not recapitulate the planktonic program and that transcriptional differences follow cellular aggregation state rather than depth.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762896",
+    "date": "2026-11-02",
+    "authors": "Barbosa A, Smith HJ, Parker A, Jones CJ, Goeres DM, Azevedo NF, Cerqueira L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355740",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1536,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762896"
+    ],
+    "translation": {
+      "title": {
+        "hash": "815c21cc4b7234f2c82a45e755c020cb6c7b4f5864e053bb9e26e50b7a313629",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:55:16.912401+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1bc3d520c86eb4b5837eb5c5b2fb3d7dcca929d754413875c75a40cf75827f87",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:55:16.912401+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一プローブ・増幅不要のマルチプレックスmRNA PNA-FISHによる無傷の三次元バイオフィルムにおける細菌遺伝子発現のマッピング",
+    "abstract_ja": "バイオフィルムは、局所的な微小環境が生理的な分化を駆動する空間的に構造化されたコミュニティであるが、完全な三次元バイオフィルム内部における遺伝子発現のマッピングは依然として困難な課題である。細菌の空間トランスクリプトミクス手法は、通常、タイル状プローブセット、逐次的なハイブリダイゼーションラウンド、あるいはシグナル増幅に依存している。本研究では、標的ごとに単一の短鎖直接標識ペプチド核酸（PNA）プローブを用いるだけで、増幅なしに細菌mRNAをin situで定量可能であることを示す。すべてのプローブを共通のハイブリダイゼーション条件に合わせて設計することで、バイオフィルム構造を維持したまま、未改変の細胞において標準的な共焦点顕微鏡を用いた一度のハイブリダイゼーションでトランスクリプトパネルを解析できる。Legionella pneumophilaの二相性サイクルをベンチマークとした結果、マルチプレックスmRNA PNA-FISHは期待通りの転写スイッチを検出し、プランクトン集団およびバイオフィルム集団においてRT-qPCRと定量的に一致した。フローセルバイオフィルムにおいては、固着集団がプランクトンプログラムを再現しないこと、および転写の差異が深度ではなく細胞凝集状態に従うことが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763198",
+    "title": "Machine learning guided design of strong transcriptional activation domains",
+    "abstract": "Summary  Artificial intelligence has accelerated the design of structured proteins, but it remains difficult to design functional intrinsically disordered proteins because of weak structural constraints and poorly defined sequence-to-function relationships  1 . Activation domains (ADs), transcription factor regions that recruit coactivators, are an excellent test case for the  de novo design of intrinsically disordered sequences. ADs are one of the oldest groups of functional intrinsically disordered sequences  2 and designed ADs have applications in synthetic biology, biotechnology, and agriculture. We computationally generated 500,000 candidate sequences that resembled known ADs and predicted AD function with extant machine learning models, including three neural networks. From high-scoring sequences, we selected 18,750 for experimental validation in yeast. Surprisingly, >90% of the 16,770 well-measured sequences function as ADs. Sequences predicted to be active by multiple models were stronger, motivating development of a fast and accurate consensus AD predictor, MADRIGAL. A number of our designed ADs retain functionality across fungi, plants, and human cells. This work illustrates a generalizable paradigm for incorporating sequence-to-function models into the design loop to efficiently generate functional intrinsically disordered sequences.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763198",
+    "date": "2026-11-02",
+    "authors": "Zintel MA, LeBlanc CJ, Kotha SR, Soriano M, Bansal RJ, Aguilera D, Majidi T, Ornelas I, Kirkpatrick LD, Udupa A, Hu G, Agarwal P, Lam AWY, Nuñez JK, Shih PM, Sozzani R, Strader LC, Staller MV.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355735",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1537,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.763198"
+    ],
+    "translation": {
+      "title": {
+        "hash": "efc6809d74c56cb58ce141386d4b1a8bea1a2c8002d6cc6950e6fee7002c9c08",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:55:16.912401+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cfa651875afe45d6d28d5309b4e47ce8da52264ed04e5e16dccb920fc7e71f42",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:55:16.912401+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "機械学習を用いた強力な転写活性化ドメインの設計",
+    "abstract_ja": "要旨  人工知能は構造化タンパク質の設計を加速させてきたが、構造的制約が弱く、配列と機能の関係が十分に定義されていないため、機能的な天然変性タンパク質の設計は依然として困難である 1。共活性化因子をリクルートする転写因子領域である活性化ドメイン（AD）は、天然変性配列のde novo設計における優れたテストケースとなる。ADは機能的な天然変性配列の中で最も古くから存在するグループの一つであり 2、設計したADは合成生物学、バイオテクノロジー、および農業分野で応用されている。我々は、既知のADに類似した50万件の候補配列を計算的に生成し、3つのニューラルネットワークを含む既存の機械学習モデルを用いてADの機能を予測した。スコアの高い配列の中から18,750件を選出し、酵母を用いた実験的検証を行った。驚くべきことに、十分に測定された16,770件の配列のうち90%以上がADとして機能していた。複数のモデルによって活性があると予測された配列はより強力であり、これが高速かつ高精度なコンセンサスAD予測モデルであるMADRIGALの開発の動機となった。我々が設計したADの多くは、真菌、植物、およびヒト細胞において機能を維持している。本研究は、機能的な天然変性配列を効率的に生成するために、配列・機能モデルを設計ループに組み込むための汎用的なパラダイムを提示するものである。"
   }
 ]
