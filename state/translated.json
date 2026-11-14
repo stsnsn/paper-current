@@ -206682,5 +206682,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "TurboANIを用いたホモロジーを考慮した大規模平均ヌクレオチド同一性推定",
     "abstract_ja": "本稿では、SIMDシーディング、コンパクトインデックス作成、軽量チェイニング、およびキャッシュ効率に優れたビットセットスライディング・ミンワイズハッシングを用いてシードチェーン準アライメント方式を実装した、高速なホモロジー認識型平均ヌクレオチド同一性（ANI）推定アルゴリズム「TurboANI」を提案する。本アルゴリズムは、アライメントベースのANIアルゴリズムと比較して最大約40,000倍の高速化を実現し、ほぼ完全な一致を達成している。また、TurboANIは最先端のFastANIを40倍以上、skaniを10倍上回りつつ、より高い精度を維持している。センシティブモードにおいては、skaniよりも10倍高い真のANI復元率を示す。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.22541/authorea.15011838/v1",
+    "title": "Decoupled responses of protist composition and food-web structure to environmental and spatial drivers in mountain wetlands",
+    "abstract": "Understanding how environmental filters and spatial structure reorganize community composition and trophic structure simultaneously is essential for predicting ecosystem responses, yet this relationship remains poorly understood in microbial food webs. Here, we evaluated the relationship between food-web composition and structure along environmental gradients and spatial scales. We reconstructed protist-based food webs from 18S rRNA metabarcoding data using trait-based trophic inference across 219 mountain wetland communities distributed across five Iberian mountain ranges. We show that compositional turnover and food-web structural dissimilarity were positively but nonlinearly related, with limited food-web reorganization except at high compositional turnover. This suggests that community composition and inferred food-web structure represent distinct, non-interchangeable dimensions of protist biodiversity. Protist community composition responded to broad-scale climatic gradients, fine-scale environmental conditions and spatial structure, with pH emerging as the main driver. In contrast, food-web structure responded only to fine-scale conditions, with water table depth and vegetation structure defining contrasting network configurations. Shallower water tables were associated with larger, more internally structured food webs, while greater vascular plant canopy cover was associated with lower protist basal representation, consistent with shading by vegetation. The observed decoupling between protist community composition and food-web structure is consistent with functional redundancy in protist communities, whereby taxonomically distinct taxa can occupy similar trophic roles without substantially altering food-web structure. Our results suggest that pH-driven turnover may occur among protists occupying comparable trophic roles, whereas changes in water table depth or vegetation structure may promote replacement among more functionally distinct taxa, leading to greater food-web reorganization. The association of spatial structure with community composition, but not with food-web structure, suggests that geographically distant communities may differ markedly in protist community composition while maintaining similar trophic structure when they experience similar fine-scale environmental conditions. Climate-driven changes may therefore indirectly reshape microbial food webs by altering local environmental conditions.",
+    "journal": "",
+    "doi": "10.22541/authorea.15011838/v1",
+    "date": "2026-11-09",
+    "authors": "Lecegui V, Jassey V, Wangensteen O, Osorio V, Pladevall-Izard E, Jiménez-Alfaro B, Illa E, Garcés-Pastor S, Gomà J, Grau O, Ninot J, Vez-Garzón M, Ventura M, Pérez-Haase A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362246",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18S rRNA",
+        "18s rrna",
+        "microbial",
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "18S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4126,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.22541/authorea.15011838/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ffc91bda6cb0b515f790e4926208751f0a64bde14cc4244ac76d56cf3d1f3bbb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:56:31.531687+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "73c8b5ee550bd691f4dfaf38c761e84736d73595769848952b7475d91d671728",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:56:31.531687+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "山地湿地における環境・空間的駆動要因に対する原生生物組成と食物網構造の脱結合した応答",
+    "abstract_ja": "環境フィルターと空間構造がいかにして群集組成と栄養構造を同時に再編成するかを理解することは、生態系応答を予測する上で不可欠であるが、微生物食物網におけるこの関係は依然として十分に解明されていない。本研究では、環境勾配および空間スケールに沿った食物網の組成と構造の関係を評価した。イベリア半島の5つの山脈に分布する219の山岳湿地群集を対象に、18S rRNAメタバーコーディングデータを用い、形質に基づく栄養段階推論によって原生生物ベースの食物網を再構築した。その結果、組成の入れ替わりと食物網構造の非類似性は、正の非線形関係にあり、組成の入れ替わりが大きい場合を除いて、食物網の再編成は限定的であることが示された。このことは、群集組成と推論された食物網構造が、原生生物の生物多様性における異なる、相互に交換不可能な次元であることを示唆している。原生生物の群集組成は、広域的な気候勾配、微細な環境条件、および空間構造に応答し、pHが主要な駆動要因として現れた。対照的に、食物網構造は微細な環境条件にのみ応答し、地下水位の深さと植生構造が対照的なネットワーク構成を規定していた。地下水位が低いほど、より大規模で内部構造が緻密な食物網と関連しており、一方で維管束植物の林冠被覆率が高いほど、原生生物の基底代表性が低くなっており、これは植生による遮光と一致していた。原生生物の群集組成と食物網構造の間に観察された脱結合は、原生生物群集における機能的冗長性と整合しており、分類学的に異なる分類群が、食物網構造を実質的に変えることなく同様の栄養段階的役割を担うことができることを示している。我々の結果は、pH駆動型の入れ替わりは同等の栄養段階的役割を担う原生生物間で起こる可能性がある一方で、地下水位の深さや植生構造の変化は、機能的により異なる分類群間の置換を促進し、より大きな食物網の再編成をもたらす可能性を示唆している。空間構造が群集組成と関連し、食物網構造とは関連しないことは、地理的に離れた群集が、同様の微細な環境条件下にある場合、同様の栄養構造を維持しつつ、原生生物の群集組成において著しく異なる可能性があることを示唆している。したがって、気候駆動型の変化は、局所的な環境条件を変化させることで、微生物食物網を間接的に再形成する可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11650723/v1",
+    "title": "Integrating intraspecific genetic variation and species distribution models to predict the potential impacts of climate change on Sepia pharaonis",
+    "abstract": "Abstract  Incorporating intraspecific genetic variation into species distribution models (SDMs) can improve the accuracy of species distribution predictions. However, few studies have evaluated its importance for SDMs. The pharaoh cuttlefish (Sepia pharaonis), widely distributed across the Indo-Pacific, exhibits genetic differentiation. In this study, we investigated intraspecific genetic variation based on mitochondrial COI and 16S rRNA sequences and integrated genetic information into SDMs to predict distribution shifts and ecological vulnerability at the lineage level. Phylogeographic analysis identified five lineages: Red Sea (RE), Australian (AU), Persian Gulf and Oman Sea (PE), central Indian Ocean (CE), and western Pacific (WE) lineages. These lineages exhibited substantial niche differentiation. At the species level, S. pharaonis preferred waters with high primary productivity. Suitable habitats were projected to expand southward, and relatively high ecological vulnerability was predicted in the Persian Gulf, the South China Sea, and Malaysian coastal waters. Lineage-level models revealed divergent climate responses masked by the species-level model. The CE and PE lineages preferred high productivity environments, consistent with the species-level SDM prediction, whereas the AU and WE lineages exhibited stronger tolerance to low-productivity environments. The WE and CE lineages faced higher risks of range contraction under SSP5-8.5. The WE lineage also harbored lower genetic diversity, potentially increasing its vulnerability to climate change. In contrast, the AU and PE lineages were projected to expand their suitable habitats eastward under most climate scenarios, reflecting their greater climate tolerances. This study provides crucial information for climate-adaptive conservation and management based on more precise taxonomic units for S. pharaonis.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11650723/v1",
+    "date": "2026-11-09",
+    "authors": "Chi H, Wang X, Zheng j, Zheng X.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362029",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 4137,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11650723/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0782be7a8c969f99cf3b50d287ad2ad92ffc3bd5425ad0f545a908a4f2ee14e1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:56:31.531687+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "69fe328b171305a3a150a9e73669d43762dc4b54c8073e552338ad1f7fe9cb95",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:56:31.531687+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "種内遺伝的変異と種分布モデルを統合し、Sepia pharaonisに対する気候変動の潜在的影響を予測する",
+    "abstract_ja": "要旨　種内遺伝的変異を種分布モデル（SDM）に組み込むことで、種分布予測の精度を向上させることができる。しかし、SDMにおけるその重要性を評価した研究は少ない。インド太平洋に広く分布するファラオコウイカ（Sepia pharaonis）は遺伝的分化を示す。本研究では、ミトコンドリアCOIおよび16S rRNA配列に基づく種内遺伝的変異を調査し、遺伝情報をSDMに統合することで、系統レベルでの分布シフトと生態学的脆弱性を予測した。系統地理学的解析により、紅海（RE）、オーストラリア（AU）、ペルシャ湾およびオマーン海（PE）、インド洋中部（CE）、および西太平洋（WE）の5つの系統が同定された。これらの系統は顕著なニッチ分化を示していた。種レベルでは、S. pharaonisは一次生産性の高い海域を好んだ。適地は南方向へ拡大すると予測され、ペルシャ湾、南シナ海、およびマレーシア沿岸海域では比較的高い生態学的脆弱性が予測された。系統レベルのモデルでは、種レベルのモデルでは覆い隠されていた、異なる気候応答が明らかになった。CEおよびPE系統は、種レベルのSDM予測と一致して高生産性環境を好んだ一方、AUおよびWE系統は低生産性環境に対してより強い耐性を示した。WEおよびCE系統は、SSP5-8.5の下で分布域縮小のリスクがより高かった。また、WE系統は遺伝的多様性が低く、気候変動に対する脆弱性が高まる可能性がある。対照的に、AUおよびPE系統は、ほとんどの気候シナリオにおいて適地を東方向へ拡大すると予測され、これはそれらの気候耐性がより大きいことを反映している。本研究は、S. pharaonisのより精密な分類単位に基づく、気候適応型の保全および管理にとって極めて重要な知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11468653/v1",
+    "title": "Plant Growth–Promoting Potential of Endophytic Bacteria Isolated from Asparagus racemosus Willd and their role in improving Chickpea (Cicer arietinum L.) Germination",
+    "abstract": "Abstract    Endophytic bacteria inhabiting internal plant tissues are increasingly recognized for their role in enhancing plant growth and stress tolerance. The present study investigated the plant growth-promoting potential of root-associated endophytic bacteria isolated from the medicinal plant  Asparagus racemosus  Willd. and evaluated their effect on seed germination of desi chickpea (  Cicer arietinum  L.). Healthy tuberous roots were surface sterilized, and endophytic bacteria were isolated using standard microbiological techniques. Seven morphologically distinct bacterial isolates were obtained and characterized through morphological, biochemical, and molecular approaches. The isolates were screened for important plant growth-promoting traits including indole-3-acetic acid (IAA) production, phosphate solubilization, nitrogen fixation, siderophore production, ammonia production, hydrogen cyanide production, ACC deaminase activity, and extracellular hydrolytic enzymes. Among the isolates, strain AR1 exhibited the most comprehensive PGP profile, showing positive responses for IAA production, phosphate solubilization, nitrogen fixation, siderophore production, ACC deaminase activity, and multiple hydrolytic enzymes. Molecular identification based on 16S rRNA gene sequencing revealed that AR1 belonged to  Enterobacter wuhouensis  , while amplification of the nifH gene confirmed its nitrogen-fixing potential. Seed inoculation experiments demonstrated a substantial enhancement in chickpea germination, with inoculated seeds achieving 85.19% germination compared to 29.63% in uninoculated controls. Enhanced radicle growth and seedling vigor were also observed. These findings highlight  A. racemosus  as a valuable reservoir of beneficial endophytic bacteria and demonstrate the potential of strain AR1 as a bioinoculant for sustainable crop production. Further investigations involving whole-genome sequencing, transcriptomic analyses, and multilocation field evaluations are warranted to validate its agricultural applicability under diverse environmental conditions.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11468653/v1",
+    "date": "2026-11-09",
+    "authors": "Dhali S, Pradhan M, Swain CK, Das A, Pradhan C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362084",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4148,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11468653/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "038e804e4fe6b147be470ad8ecffc13b3b1a816d6a56ec1f9a46f420b07c6a0c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:56:31.531687+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ba488c7c05e31b1d103a13b381156dd1d008a3c2e5d25f9a78deb0bec6c80f7a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:56:31.531687+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Asparagus racemosus Willdから単離した内生細菌の植物成長促進能とヒヨコマメ（Cicer arietinum L.）の発芽促進における役割",
+    "abstract_ja": "要旨    植物の内部組織に生息する内生細菌は、植物の成長促進およびストレス耐性向上における役割がますます認識されつつある。本研究では、薬用植物 Asparagus racemosus Willd. から単離した根共生性内生細菌の植物成長促進能を調査し、デシヒヨコマメ（Cicer arietinum L.）の種子発芽に及ぼす影響を評価した。健全な塊根を表面滅菌し、標準的な微生物学的手法を用いて内生細菌を単離した。形態学的に区別可能な7株の細菌分離株を得て、形態学的、生化学的、および分子生物学的手法により特性解析を行った。これらの分離株について、インドール-3-酢酸（IAA）産生、リン酸可溶化、窒素固定、シデロフォア産生、アンモニア産生、シアン化水素産生、ACC脱アミノ酵素活性、および細胞外加水分解酵素を含む、重要な植物成長促進形質のスクリーニングを行った。分離株の中で、AR1株は最も包括的なPGPプロファイルを示し、IAA産生、リン酸可溶化、窒素固定、シデロフォア産生、ACC脱アミノ酵素活性、および複数の加水分解酵素において陽性反応を示した。16S rRNA遺伝子シーケンシングに基づく分子同定により、AR1株は Enterobacter wuhouensis 属に属することが判明し、nifH遺伝子の増幅によってその窒素固定能が確認された。種子接種実験では、ヒヨコマメの発芽が著しく促進され、接種種子の発芽率は85.19%に達したのに対し、未接種対照群では29.63%であった。また、幼根の成長促進および苗の活力向上も認められた。これらの知見は、A. racemosus が有益な内生細菌の貴重なリザーバーであることを浮き彫りにし、持続可能な作物生産のためのバイオイノキュラントとしてのAR1株の可能性を示すものである。多様な環境条件下における農業的適用性を検証するため、全ゲノムシーケンシング、トランスクリプトーム解析、および多地点での圃場評価を含むさらなる調査が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0861.v1",
+    "title": "A Transcriptomic Resource for the Cold‐Water Octocoral Dentomuricea aff. meteor Reveals Shared Stress‐Response Architecture Across Deep‐Sea Invertebrate Lineages",
+    "abstract": "Cold-water octocorals are increasingly exposed to environmental pressures associated with seabed disturbance and metal contamination, resulting from deep-sea mining, yet the molecular systems underlying their stress responses remain to be fully characterized. Previous experimental work on Dentomuricea aff. meteor relied on a small set of targeted molecular markers, providing information on response state but little context for the broader molecular repertoire from which those responses arise. Here, we revisit an archival RNA-seq dataset generated from D. aff. meteor in 2016 and establish a benchmarked transcriptomic resource for gene discovery and comparative analysis. Contemporary reconstruction of the original reads produced 575,058 transcripts and 95,468 predicted coding sequences. Recovery of conserved anthozoan BUSCOs remained low and closely matched that of the original 2016 assembly (3.5% versus 3.4% complete), indicating that the archival dataset should be interpreted as a partial transcriptomic resource rather than a comprehensive gene catalog. Nevertheless, contemporary annotation recovered a substantial functionally interpretable sequence fraction, and targeted curation identified 141 distinct genes supported by Swiss-Prot and/or diagnostic Pfam evidence within a broader stress- and innate-immunity framework. Comparative orthology across five anthozoans assigned 4,172 Dentomuricea genes (8.7%) to orthogroups restricted to the focal species within the sampled panel. The corresponding estimate was 33.1% in a preliminary three-species panel but 8.7% in the separate definitive five-anthozoan panel, illustrating the sensitivity of apparent lineage specificity to comparison-panel composition and taxonomic breadth. Among Pfam-annotated genes remaining in the restricted set, 37.4% contained transposable-element (TE)-associated domains, while sequence-level inspection further showed that several apparent low-copy duplications reflected fragmented transcript reconstruction. A targeted comparison with the independently assembled gill transcriptome of the deep-sea mussel Bathymodiolus azoricus recovered supported candidates for 19 of 22 stress- and innate-immunity targets in both species. Twelve selected protein representatives showed reciprocal sequence similarity within the curated target sets. HSP90, Cu/Zn-superoxide dismutase and ferritin displayed the strongest correspondence, with substantial amino-acid identity and high reciprocal sequence coverage, whereas TLR-, RHD-, JUN- and STAT-associated proteins retained similarity primarily within conserved domains. Together, these analyses transform an incomplete archival dataset into a biologically informative molecular resource, extending earlier biomarker-based ecotoxicology toward a broader view of stress-response capacity in D. aff. meteor. They further show that apparent molecular novelty depends strongly on taxonomic sampling and that core components of protein homeostasis, oxidative defense; iron homeostasis and innate-immune signaling remain recognizable across deeply divergent deep-sea invertebrate lineages.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0861.v1",
+    "date": "2026-11-09",
+    "authors": "Bettencourt R, Martins I, Colaço A, Carreiro-Silva M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362729",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "resource",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4194,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.20944/preprints202611.0861.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0371ff633ba71848e9a39b13de4d76b308c5aadc80df44afa7b45deee1a15021",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:56:31.531687+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "da3ba1fcb5e0754ef4b6b4083f27e93c8138a335329967e1d3336bb67c016222",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:56:31.531687+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "冷水性八放サンゴ類 Dentomuricea aff. meteor のトランスクリプトーム資源が明かす深海無脊椎動物系統間の共通ストレス応答構造",
+    "abstract_ja": "冷水性八放サンゴは、深海採掘に起因する海底攪乱や金属汚染に伴う環境圧力にますますさらされているが、そのストレス応答の基盤となる分子システムはいまだ十分に解明されていない。Dentomuricea aff. meteorに関するこれまでの実験的研究は、少数の標的分子マーカーに依存しており、応答状態に関する情報は得られたものの、それらの応答が生じるより広範な分子レパートリーに関する知見はほとんど得られていなかった。本研究では、2016年にD. aff. meteorから生成されたアーカイブRNA-seqデータセットを再検討し、遺伝子探索および比較解析のためのベンチマーク済みトランスクリプトームリソースを構築する。オリジナルリードの現代的な再構築により、575,058個の転写産物と95,468個の予測コーディング配列が得られた。保存された花虫類BUSCOsの回収率は依然として低く、2016年のオリジナルアセンブリとほぼ同等（完全率3.5%対3.4%）であった。このことは、アーカイブデータセットを包括的な遺伝子カタログではなく、部分的なトランスクリプトームリソースとして解釈すべきであることを示している。それにもかかわらず、現代的なアノテーションによって機能的に解釈可能な配列分画が相当量回収され、標的キュレーションにより、広範なストレスおよび自然免疫の枠組みの中で、Swiss-Protおよび／または診断用Pfamの根拠によって支持される141個の個別の遺伝子が同定された。5種の花虫類にわたる比較オーソロジーにより、サンプリングパネル内の焦点種に限定されたオーソグループに、4,172個のDentomuricea遺伝子（8.7%）が割り当てられた。対応する推定値は、予備的な3種パネルでは33.1%であったが、独立した確定的な5種花虫類パネルでは8.7%であり、見かけ上の系統特異性が比較パネルの構成や分類学的な広がりに敏感であることが示された。限定セットに残ったPfamアノテーション済み遺伝子のうち、37.4%に転移因子（TE）関連ドメインが含まれており、さらに配列レベルの精査により、いくつかの見かけ上の低コピー重複が断片化した転写産物の再構築を反映していることが示された。独立にアセンブルされた深海ムール貝Bathymodiolus azoricusのひだトランスクリプトームとの標的比較により、両種において22個のストレスおよび自然免疫標的のうち19個の支持候補が回収された。選定された12個のタンパク質代表体は、キュレートされた標的セット内で相互的な配列類似性を示した。HSP90、Cu/Zn-スーパーオキシドジスムターゼ、およびフェリチンが最も強い対応関係を示し、相当なアミノ酸同一性と高い相互配列カバレッジを有していた一方、TLR-、RHD-、JUN-、およびSTAT関連タンパク質は、主に保存ドメイン内で類似性を維持していた。これらの解析を総合すると、不完全なアーカイブデータセットが生物学的に有益な分子リソースへと変換され、従来のバイオマーカーに基づく生態毒性学を、D. aff. meteorにおけるストレス応答能のより広範な視点へと拡張するものである。さらに、見かけ上の分子的新規性は分類学的サンプリングに強く依存すること、およびタンパク質恒常性、酸化防御、鉄恒常性、および自然免疫シグナル伝達の中核的構成要素が、深く分岐した深海無脊椎動物の系統間においても認識可能であることが示された。"
   }
 ]
