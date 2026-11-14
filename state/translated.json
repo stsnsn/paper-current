@@ -203629,5 +203629,322 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ゲノムおよび表現型解析により、砂漠由来のSaccharothrixにおける分類学的・生合成的多様性が明らかになった。",
     "abstract_ja": "要旨    希少な放線菌類は、生物活性天然物の供給源として十分に探索されていないが、その分類学的多様性と生合成能は依然として十分に解明されていない。本研究では、中国北西部新疆ウイグル自治区のグルバントゥングット砂漠から単離された10株のSaccharothrix属菌株を対象に、系統ゲノミクス、比較ゲノミクス、生合成遺伝子クラスター（BGC）マイニング、および抗菌活性試験を用いて解析を行った。ゲノム解析により、新規種である可能性のある2つの系統が同定された。10株のゲノム全体で、計413個のBGCが予測された。比較BiG-SCAPE解析により、研究対象株10株、参照Saccharothrixゲノム、およびMIBiG由来の1,461個のBGCが、735個の遺伝子クラスターファミリー（GCF）に分類された。MIBiG参照BGCを含む19個のGCFのうち、研究対象株由来のBGCも含まれていたのはわずか3個であり、既知のBGCとの重複は限定的であることが示された。300組の菌株－培地－指標の組み合わせのうち89組で抗菌活性が検出され、細菌性指標よりも真菌性指標において陽性結果が多く認められた。特筆すべきは、予測されたBGC数が最多であった菌株であっても、抗菌スペクトルが最も広範であったわけではなかった点である。これらの知見は、砂漠由来のSaccharothrix属菌における分類学的および生合成的な多様性を明らかにするものであり、さらなる天然物探索に向けた菌株および生合成経路の優先順位付けの根拠となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.1067.v1",
+    "title": "Antimicrobial Resistance at Slaughterhouse and Meat-Processing Interfaces in East Africa: A One Health Review of Contamination Pathways, Occupational Exposure and Control Strategies",
+    "abstract": "Antimicrobial resistance (AMR) is a major One Health challenge because resistant microorganisms and resistance determinants can circulate among humans, animals and the environment. Slaughterhouses and meat-processing facilities represent important interfaces within this interconnected system. Animals carrying resistant bacteria may introduce them into slaughter environments, where contamination can occur through gastrointestinal contents, hides, carcasses, workers’ hands, knives, equipment, water and processing surfaces. These pathways may expose workers and consumers while contributing to the wider environmental dissemination of resistant microorganisms. This review examines evidence concerning AMR at slaughterhouse and meat-processing interfaces in East Africa, with emphasis on contamination pathways, occupational exposure, bacterial resistance patterns, genomic evidence and feasible control strategies. A targeted narrative literature search was conducted using PubMed-indexed records, PubMed Central, publisher platforms, institutional repositories and international policy sources. Relevant evidence was identified from Kenya, Tanzania, Uganda and Ethiopia. Studies from western Kenya have demonstrated resistant bacteria in slaughterhouse environments, carcasses and workers, while investigations in Tanzania have identified antimicrobial-resistant Escherichia coli in goat meat and meat-handler-associated isolates. Evidence from Ethiopia has documented Salmonella and Staphylococcus aureus contamination across carcasses, workers and processing environments. A 2026 investigation in southwestern Uganda additionally reported antimicrobial residues and resistant bacteria in beef samples. Genomic investigations from Tanzania have identified extended-spectrum beta-lactamase-producing E. coli, including isolates carrying blaCTX-M-15 and multidrug-resistance-associated plasmids. However, the available evidence is geographically uneven, methodologically heterogeneous and insufficient to establish the direction or frequency of transmission between animals, workers, meat and environmental compartments. Important limitations include inconsistent sampling designs, variable antimicrobial susceptibility testing, limited genomic surveillance and a lack of longitudinal studies linking antimicrobial use, slaughterhouse contamination and human colonization. A coordinated One Health response should combine antimicrobial stewardship in livestock production, ante-mortem and post-mortem inspection, hygienic slaughter practices, worker protection, water and waste management, food-chain surveillance and genomic epidemiology. Strengthening these measures through regional collaboration could improve food safety and reduce opportunities for the dissemination of antimicrobial-resistant bacteria in East Africa.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.1067.v1",
+    "date": "2026-11-10",
+    "authors": "Habiyakare JdD, Niyonsaba D, Munezero V, I. Mudahunga O, Uwonkunda D, Dushimumubyeyi A, Ineza Singizwa A, Mutimukeye L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363920",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 675,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.20944/preprints202611.1067.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e28336570ac3c2d65b8459282263c8cb8d0177d39e40cd5f087b0d3636857ad3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:22:10.497061+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1434aad73fe18f0e9de4007d8fa735958d7d2d6cd63e76fe5cb33829856fef5f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:22:10.497061+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "東アフリカの屠畜場および食肉加工現場における薬剤耐性：汚染経路、職業的曝露および管理戦略に関するワンヘルスレビュー",
+    "abstract_ja": "薬剤耐性（AMR）は、耐性微生物や耐性決定因子がヒト、動物、および環境の間で循環し得るため、ワンヘルスにおける主要な課題となっている。屠畜場や食肉加工施設は、この相互連関したシステムにおける重要な接点である。耐性菌を保有する動物が屠畜環境にそれらを持ち込むことがあり、そこでは消化管内容物、皮、枝肉、作業員の手指、ナイフ、設備、水、および加工面を通じて汚染が生じ得る。これらの経路は、作業員や消費者を曝露させる可能性があると同時に、耐性微生物のより広範な環境中への拡散に寄与する。本総説では、東アフリカの屠畜場および食肉加工施設の接点におけるAMRに関するエビデンスを検討し、特に汚染経路、職業的曝露、細菌の耐性パターン、ゲノムエビデンス、および実現可能な制御戦略に焦点を当てる。PubMed索引付きレコード、PubMed Central、出版社プラットフォーム、機関リポジトリ、および国際的な政策情報源を用いて、対象を絞ったナラティブ文献検索を実施した。ケニア、タンザニア、ウガンダ、およびエチオピアから関連するエビデンスが特定された。ケニア西部の研究では、屠畜環境、枝肉、および作業員において耐性菌が検出されており、タンザニアでの調査では、ヤギ肉における薬剤耐性大腸菌（Escherichia coli）および食肉取扱者関連分離株が同定された。エチオピアのエビデンスでは、枝肉、作業員、および加工環境全体にわたるサルモネラ属菌（Salmonella）および黄色ブドウ球菌（Staphylococcus aureus）の汚染が記録されている。2026年のウガンダ南西部における調査では、牛肉サンプルから薬剤残留物および耐性菌がさらに報告された。タンザニアのゲノム調査では、blaCTX-M-15を保有する分離株や多剤耐性関連プラスミドを含む、広域β-ラクタマーゼ産生大腸菌が同定された。しかし、利用可能なエビデンスは地理的に不均一であり、方法論的にも異質で、動物、作業員、食肉、および環境コンパートメント間の伝播の方向性や頻度を確定させるには不十分である。重要な限界としては、サンプリング設計の不一致、薬剤感受性試験のばらつき、ゲノムサーベイランスの限定的な実施、および薬剤使用、屠畜場汚染、ヒトへの定着を結びつける縦断的研究の不足が挙げられる。連携したワンヘルス対応では、畜産における抗菌薬適正使用、屠殺前・後の検査、衛生的な屠畜慣行、作業員の保護、水および廃棄物管理、フードチェーン・サーベイランス、およびゲノム疫学を組み合わせるべきである。地域的な連携を通じてこれらの対策を強化することで、食品安全性を向上させ、東アフリカにおける薬剤耐性菌の拡散機会を低減できる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.07.765025",
+    "title": "Melanoidins Suppress Cucumber and Tomato Diseases Incited by Pathogens that are Oomycetes, Bacteria and a Virus",
+    "abstract": "We recently reported that solutions of the nitrogenous compounds melanoidins (M), that are formed during the final stages of the Maillard Reaction, are inducers of plant resistance (Elad et al. 2026). M promoted immunity and induced disease resistance through an effect on the transcriptome, primarily through the salicylic acid pathway. Here we tested the effect of M on plant diseases that are caused by Oomycetes, bacteria and a tobamovirus. Drench and spray of M suppressed Pythium aphanidermatum damping off in cucumber, cucumber downy mildew (Pseudoperonospera cubensis), tomato late blight (Phytophthora infestans), bacterial speck (Pseudomonas syringae pv. tomato), bacterial canker (Clavibacter michiganensis subsp. michiganensis) and the Tobamovirus Tomato brown rugose fruit virus (ToBRFV) in tomato. In various experiments control was achieved by concentrations of 0.03 and 0.1% and on older and younger leaves and even in long term experiments where the M was applied for ca 11 weeks. It can be concluded that the disease resistance inducer M can suppress soilborne and foliar diseases that are caused by Oomycetes, bacteria and a virus of the genus Tobamovirus, in addition to the fungal pathogen Botrytis cinerea reported earlier.",
+    "journal": "",
+    "doi": "10.64898/2026.11.07.765025",
+    "date": "2026-11-10",
+    "authors": "Elad Y, Rav-David D, Tsechansky L, Graber ER.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363725",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 686,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.07.765025"
+    ],
+    "translation": {
+      "title": {
+        "hash": "de4813979addf1a2745df5ec929b42a9f5dec466552b5918b5ddeee623df4180",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:22:10.497061+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74958f42ccec01b7aa4022f7391d69820e588e848f8684b3f885b09f0c20e33a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:22:10.497061+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メラノイジンは、卵菌類、細菌およびウイルスなどの病原体によって誘発されるキュウリおよびトマトの病害を抑制する。",
+    "abstract_ja": "我々は最近、メイラード反応の最終段階で生成される窒素化合物メラノイジン（M）の溶液が、植物の抵抗性誘導剤となることを報告した（Elad et al. 2026）。Mは、主にサリチル酸経路を介してトランスクリプトームに作用することで、免疫を促進し、病害抵抗性を誘導した。本研究では、卵菌類、細菌、およびトバモウイルスによって引き起こされる植物病害に対するMの効果を検証した。Mの灌注および散布により、キュウリにおけるPythium aphanidermatumによるべと病、キュウリべと病（Pseudoperonospera cubensis）、トマト晩枯病（Phytophthora infestans）、細菌性斑点病（Pseudomonas syringae pv. tomato）、細菌性潰瘍病（Clavibacter michiganensis subsp. michiganensis）、およびトマトにおけるトバモウイルストマト褐斑粗粒果ウイルス（ToBRFV）を抑制した。各種実験において、0.03%および0.1%の濃度、ならびに新旧の葉への処理、さらにはMを約11週間投与した長期実験において対照効果が認められた。以上の結果から、病害抵抗性誘導剤であるMは、既報の真菌病原体Botrytis cinereaに加え、卵菌類、細菌、およびトバモウイルス属のウイルスによって引き起こされる土壌伝染性および葉面性病害を抑制し得ると結論付けられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11324389/v1",
+    "title": "Epidemiological Investigation and Genetic Evolution Analysis of Feline Calicivirus during 2025–2026 in Shandong Province",
+    "abstract": "Abstract  Feline calicivirus (FCV) is a major viral pathogen associated with feline respiratory diseases. To characterize the epidemiological and evolutionary features of FCV in Shandong Province, China, 656 clinical feline specimens were collected during 2025–2026. RT-PCR was used to screen for common feline viral pathogens, and FCV-positive samples were subjected to virus isolation, purification and whole-genome sequencing. The overall FCV-positive rate was 1.67% (11/656). Co-infections predominated among FCV-positive specimens, with feline parvovirus (FPV) as the most frequent co-infecting agent. Eleven local FCV strains were isolated; genogroup analysis showed that both GI (six strains) and GII (five strains) were circulating. Four high-confidence recombination events were identified. Notably, strain F1481 (genogroup GI) originated from inter-genogroup recombination between a GII-type isolate (F1506) and a GI-type isolate (F1498), providing bioinformatic evidence for natural inter-genogroup recombination between GI and GII FCV strains. These findings indicate that recombination and antigenic drift are important evolutionary forces shaping local FCV populations and provide empirical evidence for regional disease control and the development of geographically matched vaccine candidates.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11324389/v1",
+    "date": "2026-11-10",
+    "authors": "Wang Y, Tian A, Wei K, Yang S, Zhao L, Qi L, Lin X, Sun W, Ma F, Fang L, Zhang L, Wu J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363404",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 687,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11324389/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2785d44e17d6fa84f73aaa73f71aac4562bc9f88498e7961a73c9dafaf040680",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:22:10.497061+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e36cd2de6f331af9e39e4039012e8aee6069c0165d9215fe7a140707c26f1476",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:22:10.497061+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "山東省における2025–2026年のネコカリシウイルスの疫学調査および遺伝的進化解析",
+    "abstract_ja": "要旨　ネコカリシウイルス（FCV）は、ネコの呼吸器疾患に関連する主要なウイルス性病原体である。中国山東省におけるFCVの疫学的および進化学的特徴を明らかにするため、2025～2026年にネコの臨床検体656例を収集した。RT-PCRを用いてネコの一般的なウイルス性病原体のスクリーニングを行い、FCV陽性検体に対してウイルスの分離、精製、および全ゲノムシーケンシングを実施した。全体のFCV陽性率は1.67%（11/656）であった。FCV陽性検体では共感染が主体であり、最も頻度の高い共感染因子はネコパルボウイルス（FPV）であった。地域内で11株のFCV株が分離され、ジェノグループ解析の結果、GI（6株）およびGII（5株）の両方が循環していることが示された。4例の高信頼度の組換え事象が同定された。特筆すべきは、株F1481（ジェノグループGI）がGII型分離株（F1506）とGI型分離株（F1498）のジェノグループ間組換えに由来したことであり、これはGI株とGII株のFCV間における自然なジェノグループ間組換えを裏付けるバイオインフォマティクス上の証拠となる。これらの知見は、組換えと抗原ドリフトが地域のFCV集団を形成する重要な進化的要因であることを示しており、地域的な疾病管理および地理的特性に適合したワクチン候補の開発に向けた実証的根拠となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11651433/v1",
+    "title": "PlasmidCall: predicting whether resistance genes in short-read assemblies lie on plasmids or chromosomes, tested in 432 carbapenem-resistant Enterobacterales",
+    "abstract": "Abstract  Antimicrobial resistance genes (ARGs) can lie on the bacterial chromosome, where they are passed on mainly with the host strain, or on plasmids, which can move them between bacteria. Most bacterial genomes are sequenced with short reads, which assemble into many fragments (contigs), so whether a contig, and any ARG on it, comes from a plasmid or from the chromosome usually has to be predicted. Plasmid classifiers are software tools that make this prediction for each contig from different kinds of evidence, and each tends to fail on different contigs. PlasmidCall v1.2-General is a logistic-regression model that combines the plasmid or chromosome calls of twelve such classifiers into one decision. Four gradient-boosting models, fitted on a larger training set, combine some or all of these calls with features of the contig, its neighbours in the assembly graph and its isolate. The five models were tested without refitting on 432 carbapenem-resistant Enterobacterales isolates from one hospital, none used in model development. For each isolate, a hybrid assembly built from long and short reads provided reference labels (plasmid or chromosome) for 30,986 of its 35,805 short-read contigs of at least 1 kb, whether or not they carried an ARG. PlasmidCall v1.2-General gave a decision on every contig: 94.9% of its plasmid calls were correct (precision 0.9491; 95% CI 0.8915-0.9642, resampling clusters of closely related isolates), and it found 91.8% of plasmid contigs (recall 0.9184). Its precision was 0.028 lower than a previously reported estimate; the two 95% intervals overlapped when clusters of related isolates were resampled, but not when single isolates were. The gradient-boosting models found 98.9-99.2% of plasmid contigs at precision 0.887-0.922. On contigs carrying ARGs, v1.2-General had precision 0.935 and recall 0.969, and on the 383 contigs carrying the carbapenemase gene blaKPC (post hoc), 0.994 and 0.970. PlasmidCall can therefore place resistance genes, including blaKPC, on a plasmid or the chromosome from short-read data alone, with a choice between higher precision and higher recall.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11651433/v1",
+    "date": "2026-11-10",
+    "authors": "Piranfar V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363260",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 688,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11651433/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8a4925fea4a90b1b043d6d4ff44b8afb48294278300ac0fb9a5e1e66708852f9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:22:10.497061+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "79996d7979b1017f9331d9777a433d2f7ddb120f8ecc6db4517e840c45ffee73",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:22:10.497061+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PlasmidCall: 短鎖アセンブリにおける耐性遺伝子がプラスミド上か染色体上かを予測する手法 ― カルバペネム耐性Enterobacterales 432株を用いて検証",
+    "abstract_ja": "要旨　薬剤耐性遺伝子（ARG）は、主に宿主株を介して伝播する細菌染色体上に存在する場合もあれば、細菌間で移動可能なプラスミド上に存在する場合もある。ほとんどの細菌ゲノムはショートリードを用いてシーケンシングされており、それらは多くの断片（コンティグ）に組み合わされるため、あるコンティグおよびそこに含まれるARGがプラスミド由来か染色体由来かは、通常、予測する必要がある。プラスミド分類器は、さまざまな根拠に基づいて各コンティグの予測を行うソフトウェアツールであり、それぞれ異なるコンティグに対して誤判定を示す傾向がある。PlasmidCall v1.2-Generalは、このような12種類の分類器によるプラスミドまたは染色体の判定結果を一つの判定に統合するロジスティック回帰モデルである。より大規模な訓練セットで適合させた4つの勾配ブースティングモデルが、これらの判定結果の一部またはすべてを、コンティグ、そのアセンブリグラフにおける隣接コンティグ、および分離株の特徴量と組み合わせる。これら5つのモデルを、モデル開発に使用されていないある病院由来のカルバペネム耐性Enterobacterales分離株432株を用いて、再適合なしで検証した。各分離株について、ロングリードとショートリードから構築したハイブリッドアセンブリにより、ARGの有無にかかわらず、1 kb以上のショートリードコンティグ35,805個のうち30,986個に対して参照ラベル（プラスミドまたは染色体）が付与された。PlasmidCall v1.2-Generalはすべてのコンティグに対して判定を行い、プラスミド判定の94.9%が正解となり（適合率 0.9491; 95%信頼区間 0.8915-0.9642、近縁分離株のクラスターを再サンプリングした場合）、プラスミドコンティグの91.8%を検出した（再現率 0.9184）。その適合率は、以前に報告された推定値より0.028低く、近縁分離株のクラスターを再サンプリングした場合には2つの95%信頼区間が重複したが、単一の分離株の場合は重複しなかった。勾配ブースティングモデルは、98.9-99.2%のプラスミドコンティグを検出し、適合率は0.887-0.922であった。ARGを保持するコンティグにおいて、v1.2-Generalの適合率は0.935、再現率は0.969であり、カルバペネマーゼ遺伝子blaKPCを保持する383個のコンティグ（事後解析）では、それぞれ0.994および0.970であった。したがって、PlasmidCallは、ショートリードデータのみから、blaKPCを含む耐性遺伝子をプラスミドまたは染色体上に配置することができ、より高い適合率かより高い再現率かを選択することが可能である。"
   }
 ]
