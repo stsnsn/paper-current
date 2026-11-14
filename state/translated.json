@@ -224647,5 +224647,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "vadose帯土壌における硝酸塩の持続性に及ぼす飽和度および不安定な炭素制御の微小宇宙評価",
     "abstract_ja": "地下水位の回復は下層vadose帯の水飽和度を上昇させ、硝酸塩の持続性を変化させる。土壌特性と基質の利用可能性がこれらの動態をどのように調節しているかを明らかにするため、北京の土壌断面において、静的な水充填孔隙空間レベル（50%、80%、100%）および各種養分添加を比較する2つのマイクロコスム実験を行った。1日目から45日目にかけて、硝酸塩はWFPS 50%で安定していたが、WFPS 100%では39.15%～53.52%減少し、初期の有機炭素量が多いほど最深層でより大きな減少が認められた。グルコースの添加は、最初の15日以内に還元条件（-89 mV）を誘導することで、45日目の減少幅を85.30%まで拡大させた。対照的に、アンモニウムの投入は主要な溶存形態として持続した一方、グリシンは、有機窒素の減少と、一過性のアンモニウム、亜硝酸塩、および硝酸塩のピークを特徴とする逐次的なカスケードを引き起こした。45日目のシーケンシングにより、グルコースとグリシンが細菌の構造および遺伝子プロファイルを変化させたことが確認された。特定の経路を解明するにはガス測定や同位体トレーシングが必要であるが、これらの知見は、高飽和度条件下では不安定炭素が硝酸塩減少の程度を支配し、一方で基質組成が無機窒素の蓄積タイミングを規定することを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1994433",
+    "title": "Microbiome-guided rhizosphere engineering for sustainable remediation of agricultural soil contaminants.",
+    "abstract": "Agricultural soils increasingly carry mixtures of pesticide residues, heavy metals, petroleum hydrocarbons and microplastics, and conventional phytoremediation is too slow and too contaminant-specific to address them. Rhizosphere engineering, the deliberate manipulation of root-associated microbial communities, is widely proposed as the alternative, but the literature reports laboratory, pot and field results in a single register, so a reader cannot easily tell which approaches are deployable. This mini-review stratifies that evidence rather than surveying it. Every approach examined is assigned to one of three tiers: field-validated, emerging at pot or microcosm scale, or conceptual. Only two domains prove to be field-validated, namely metal immobilization and phytoextraction through bioaugmentation and bulk amendment, and hydrocarbon rhizoremediation by defined consortia; both rest on cultured isolates rather than engineered organisms. Microplastic rhizoremediation has not been demonstrated in soil, and we separate interception, adsorption, weathering, transformation and mineralization to show why reported removal is usually not degradation. Synthetic biology, CRISPR-based community editing and computational design remain conceptual, and we set out the horizontal gene transfer, containment, non-target and regulatory obstacles that stand between them and field use. We identify the measurements that would move an approach from one tier to the next, and argue that the principal deficit in this field is not technical capability but field-scale evidence reported to a common standard.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1994433",
+    "date": "2026-10-28",
+    "authors": "Arunkumar P.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43016950",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13752575",
+    "pmid": "43016950",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4385,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1994433"
+    ],
+    "translation": {
+      "title": {
+        "hash": "29cf44cc06fbb454564ef08775ca2c985e52561aa2eb557966083543307c5957",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:04:51.450607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "911b7247127367d729f1266f908713194c13418df08ccb1f56f4d13d3fcfb7ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:04:51.450607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "農業土壌汚染物質の持続可能な浄化に向けたマイクロバイオーム誘導型根圏工学",
+    "abstract_ja": "農業土壌には、農薬残留物、重金属、石油系炭化水素、およびマイクロプラスチックの混合物がますます多く含まれるようになっており、従来の植物浄化法では処理速度が遅すぎる上、汚染物質ごとに特性が異なるため、十分な対応が困難である。根圏工学、すなわち根に関連する微生物群集を意図的に操作する手法が代替案として広く提案されているが、文献では実験室、ポット、および圃場での結果が単一のレジスタにまとめられているため、読者はどのアプローチが適用可能であるかを容易に判断できない。本ミニレビューは、こうしたエビデンスを概観するのではなく、体系的に分類するものである。検討した各アプローチは、「圃場検証済み」、「ポットまたはマイクロコスムスケールで登場しつつある」、あるいは「概念的」の3つの階層のいずれかに割り当てられる。圃場検証済みであると証明されたのは、金属固定化、およびバイオオーグメンテーションとバルク施肥による植物抽出、ならびに定義されたコンソーシアムによる炭化水素の根圏浄化という2つの領域のみであり、いずれも工学的生物ではなく培養分離株に基づいている。マイクロプラスチックの根圏浄化は土壌中では実証されておらず、我々は捕捉、吸着、風化、変換、および鉱物化を区別し、報告されている除去が通常なぜ分解ではないのかを明らかにする。合成生物学、CRISPRベースの群集編集、および計算設計は依然として概念的な段階にあり、我々はこれらと圃場利用との間に立ちはだかる水平遺伝子転移、封じ込め、非標的化、および規制上の障壁を提示する。我々は、あるアプローチを次の階層へと移行させるための測定指標を特定し、この分野における主たる欠陥は技術的能力ではなく、共通の基準で報告された圃場スケールのエビデンスにあると論じる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "brief-report",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1967626",
+    "title": "Microalgal-bacterial granular sludge: bridging the gap between laboratory discovery and engineering reality.",
+    "abstract": "Microalgal-bacterial granular sludge (MBGS) has been extensively studied as a promising process for energy-efficient and carbon-neutral wastewater treatment. The self-sustaining synergy of this process has been validated under laboratory conditions, and CO₂ supplementation has been shown to push the system toward carbon-negative operation. However, the technology remains largely confined to laboratory benchtops, with most studies conducted under constant conditions using synthetic wastewater. Existing reviews have mainly summarized performance or individual operational factors, but have not translated these findings into a coherent engineering framework for scalable deployment. Based on a comprehensive synthesis of past review articles and experimental studies, this Perspective proposes seven testable and, where possible, quantifiable engineering perspectives: dynamic diel carbon management for net greenhouse gas removal, active microbiome engineering for targeted pollutant degradation, multi-layer stacked photobioreactors with integrated light-guide systems, self-cleaning reactor walls to overcome biofouling, integrated design strategies for simultaneous shear delivery and light utilization in a single reactor, hydrocyclone-based physical selection for long-term stability, and tiered biorefinery with integrated life-cycle assessment. The key advance is not the individual concepts themselves, but their integration into a coordinated, hypothesis-driven framework that shifts the focus from laboratory feasibility to scalable engineering implementation. These perspectives are grounded in established knowledge and offered as testable hypotheses to guide the next generation of research and development toward full-scale deployment.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1967626",
+    "date": "2026-10-28",
+    "authors": "Ji B.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43016444",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13751382",
+    "pmid": "43016444",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microalgal",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4390,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1967626"
+    ],
+    "translation": {
+      "title": {
+        "hash": "edfb3b29a320f2fff32d9c6d829fe20d68c24474b38d2ae372ffb3c231a2530d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:04:51.450607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a195624a632b99226f80645c4e05c8b2d22d5718e0a9a9ee49440ae186e70e98",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:04:51.450607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微細藻類・細菌性粒状汚泥：研究室での発見と工学的実用化の橋渡し。",
+    "abstract_ja": "微細藻類・細菌性粒状汚泥（MBGS）は、エネルギー効率が高くカーボンニュートラルな廃水処理の有望なプロセスとして広く研究されてきた。本プロセスの自己持続的な相乗効果は実験室条件下で検証されており、CO₂の補給によってシステムをカーボンネガティブ運転へと導くことが示されている。しかしながら、この技術は依然として主に実験室レベルに留まっており、ほとんどの研究は合成廃水を用いた一定条件下で実施されている。既存の総説は主に性能や個別の運転因子を要約しているに過ぎず、これらの知見をスケールアップ可能な展開に向けた一貫した工学的枠組みへと落とし込めていない。過去の総説論文および実験研究を包括的に統合した上で、本パースペクティブでは、検証可能であり、かつ可能な場合には定量化可能な7つの工学的視点を提案する。すなわち、正味の温室効果ガス除去のための動的日周炭素管理、標的汚染物質の分解のための能動的マイクロバイオーム工学、光導波システムを統合した多層積層型光バイオリアクター、生物付着を克服するための自己洗浄型リアクター壁面、単一リアクター内でのせん断力供給と光利用を同時に実現する統合設計戦略、長期安定性のためのハイドロサイクロンに基づく物理的選別、およびライフサイクルアセスメントを統合した階層型バイオリファイナリーである。重要な進展は、個々の概念そのものではなく、それらを協調的かつ仮説駆動型の枠組みへと統合し、焦点を実験室での実現可能性からスケールアップ可能な工学的実装へと移行させた点にある。これらの視点は確立された知見に基づいており、次世代の研究開発を本格的な展開へと導くための、検証可能な仮説として提示されるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1961106",
+    "title": "Bakuchiol perturbs purine metabolism and ABC transporter pathways in <i>Streptococcus agalactiae</i>, possibly affecting <i>S. agalactiae</i>-induced mastitis.",
+    "abstract": "ObjectiveTo evaluate the bacteriostatic effect of Bakuchiol (Bak) against Streptococcus agalactiae, explored its antibacterial mechanism in vitro, and investigated its in-vivo therapeutic activity in a mouse mastitis model.MethodsThe Oxford cup assay was performed to test its inhibitory activity on S. agalactiae. Scanning electron microscopy and qPCR were employed to unravel the in-vitro molecular mechanism of Bak. Metabolomics was conducted to assess the impact of Bak on bacterial metabolites. A S. agalactiae-induced mouse mastitis model was constructed, and its therapeutic efficacy in mice was evaluated via histopathological sections and detection of inflammatory cytokine (IL-6, IL-8, IL-1β and TNF-α) expression.ResultsAmong 24 natural small-molecule phenolic compounds, Bak exhibited favorable antibacterial activity against Streptococcus agalactiae. Mechanistic studies revealed that Bak significantly inhibited the production of virulence factors and the expression of virulence genes. Notably, it suppressed biofilm formation by disrupting initial adhesion, eliminating mature biofilms, and reducing biofilm metabolism and extracellular polymer production. Untargeted metabolomics analysis revealed that Bak might produce antibacterial activity through significant disruption of purine metabolism and ABC transport-associated metabolic pathways in S. agalactiae. Acute toxicity studies indicated that Bak exhibited low toxicity. In a mouse mastitis model, Bak significantly improved mastitis by mitigating tissue damage, and downregulating pro-inflammatory cytokine levels.ConclusionBak attenuated S. agalactiae pathogenicity through a multi-target mechanism, positioning it as a potential therapeutic candidate for bacterial mastitis.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1961106",
+    "date": "2026-10-28",
+    "authors": "Wang R, Jin YR, Jiang WQ, An JX, Mou GL, Zhang LJ, Liu YQ, Zhang ZJ, Zhang SY.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43017095",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13752109",
+    "pmid": "43017095",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4393,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1961106"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a236ad3b7ad71ad25e98cf151e1857c133fc3a04f7f3386332c521e5016ea721",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:04:51.450607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e021761a684ec62d857124d8fa0ad4d0339a882caf43f7c495ace5b52778b0c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:04:51.450607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バクチオールは<i>Streptococcus agalactiae</i>においてプリン代謝およびABCトランスポーター経路を撹乱し、<i>S. agalactiae</i>誘発性乳腺炎に影響を及ぼす可能性がある。",
+    "abstract_ja": "目的Bakuchiol（Bak）のStreptococcus agalactiaeに対する静菌効果を評価し、in vitroにおける抗菌機序を解明するとともに、マウス乳腺炎モデルにおけるin vivoでの治療活性を検討すること。方法S. agalactiaeに対する阻害活性を検証するため、Oxford cupアッセイを実施した。Bakのin vitroにおける分子機序を解明するため、走査型電子顕微鏡観察およびqPCRを用いた。Bakが細菌代謝物に及ぼす影響を評価するため、メタボロミクス解析を行った。S. agalactiae誘導性マウス乳腺炎モデルを作製し、組織病理学的切片および炎症性サイトカイン（IL-6、IL-8、IL-1β、TNF-α）の発現検出により、マウスにおける治療効果を評価した。結果24種類の天然低分子フェノール化合物のうち、BakはStreptococcus agalactiaeに対して良好な抗菌活性を示した。機序解析の結果、Bakは病原因子の産生および病原遺伝子の発現を有意に抑制することが明らかになった。特に、初期接着の阻害、成熟バイオフィルムの除去、ならびにバイオフィルム代謝および細胞外ポリマー産生の抑制により、バイオフィルム形成を抑制した。非標的メタボロミクス解析により、BakはS. agalactiaeにおけるプリン代謝およびABC輸送関連代謝経路を著しく阻害することで、抗菌活性を発揮する可能性が示された。急性毒性試験では、Bakは低毒性であることが示された。マウス乳腺炎モデルにおいて、Bakは組織損傷を軽減し、炎症性サイトカインレベルを低下させることで、乳腺炎を有意に改善した。結論Bakは多標的機序を通じてS. agalactiaeの病原性を減弱させ、細菌性乳腺炎の潜在的な治療候補物質として位置づけられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1966818",
+    "title": "The microbiome of draught no- and low-alcohol beer.",
+    "abstract": "The microbiological ecosystem of commercially available draught dispensed no- and low-alcohol beers was evaluated, with a focus on identifying predominant microorganisms with spoilage potential and characterizing variation in community structure. More than 50 samples, representing 20 no- and low- alcohol beers (7 different beer styles: lager, India pale ale, pale ale, wheat, radler, pilsner and amber ale; and 17 brands) were collected for analysis across 12 different public houses (accounts) in Nottingham, UK. Bacterial and fungal identification was achieved via third generation sequencing technologies, using amplicon-based nanopore sequencing (Oxford Nanopore Technologies). Analysis of samples indicated that species of Acetobacter, Brettanomyces and Saccharomyces were core microbiome members. The account from which a beer was sampled was shown to harbor distinct microbial communities and was the dominant factor in determining microbial community structure, explaining 72.6% of variation. This is the first study to apply third-generation sequencing technology for the analysis of draught no- and low-alcohol beers. The findings underscore the vulnerability of draught products to microbial spoilage, and highlight the importance of implementing strict hygiene control focused on draught lines, taps, keg couplers and nozzles, especially when dispensing microbiologically sensitive no- and low-alcohol beverages.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1966818",
+    "date": "2026-10-28",
+    "authors": "Roselli GE, Smart KA, Crow M, Powell CD.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43017044",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13752092",
+    "pmid": "43017044",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial",
+        "microbiological",
+        "microbiome",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4394,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1966818"
+    ],
+    "translation": {
+      "title": {
+        "hash": "26f4553d1fa417ac64b2060a41c7ef676777731e46bb5ec55e41caa307490f8e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:04:51.450607+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "21e15d486bded84d6f32a8eba026a2115b4035fa5d68d70eaf69c1bf5fbc1cd6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:04:51.450607+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生ビールおよび低アルコールビールのマイクロバイオーム。",
+    "abstract_ja": "市販の樽生ノンアルコールおよび低アルコールビールの微生物学的エコシステムを評価し、特に腐敗ポテンシャルを有する主要な微生物の同定と、微生物群集構造の変動特性の解明に重点を置いた。英国ノッティンガム市内の12か所の異なるパブ（アカウント）において、20種類のノンアルコールおよび低アルコールビール（7つの異なるビールスタイル：ラガー、インディア・ペールエール、ペールエール、ウィート、ラドラー、ピルスナー、アンバーエール、および17のブランド）を代表する50点以上のサンプルを採取し、分析を行った。細菌および真菌の同定は、アンプリコンベースのナノポアシーケンシング（Oxford Nanopore Technologies）を用いた第3世代シーケンシング技術により実施した。サンプルの分析により、アセトバクター属、ブレタノマイセス属、およびサッカロマイセス属の種がマイクロバイオームの中核的な構成員であることが示された。ビールを採取したアカウントは、異なる微生物群集を有していることが示され、微生物群集構造を決定する支配的な要因となっており、変動の72.6%を説明した。本研究は、樽生ノンアルコールおよび低アルコールビールの分析に第3世代シーケンシング技術を適用した初の研究である。これらの知見は、樽生製品が微生物による腐敗に対して脆弱であることを浮き彫りにするとともに、特に微生物学的に感受性の高いノンアルコールおよび低アルコール飲料を供出する際には、樽生ライン、タップ、ケグカプラー、およびノズルに焦点を当てた厳格な衛生管理を実施することの重要性を強調するものである。"
   }
 ]
