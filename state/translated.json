@@ -201760,5 +201760,283 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "遺伝子解析によるメタゲノミクスにより、埋立地浸出液シーケンシングバッチ反応器マイクロバイオームにおける分割型窒素変換能が明らかになった。",
     "abstract_ja": "埋立地浸出液には高濃度のアンモニアおよび有機窒素が含まれることがあり、排出前に処理が必要となる。シーケンシングバッチリアクター（SBR）は、好気的条件と嫌気的条件を交互に繰り返すことで生物学的窒素除去を促進するが、分類学的プロファイリングだけでは、窒素変換および競合的な保持経路が微生物群集内にどのように分布しているかを解明することはできない。本研究では、英国の埋立地浸出液SBRから採取した汚泥試料に対し、遺伝子分解能メタゲノミクスを適用した。窒素代謝遺伝子をコンティグレベルの分類学的割り当ておよびメタゲノムアセンブルされたゲノムビンに紐付け、硝化、脱窒、異化的硝酸還元によるアンモニウム化（DNRA）、および同化的硝酸還元（ANR）を検討した。窒素変換能は、優占分類群と非優占分類群に区分された。分類された門の中で最も豊富に存在したのはニトロスピロタ門とシュードモナドタ門であり、一方でアクチノマイセトータ門は群集のわずか4%を占めるにとどまったが、同門内には窒素代謝関連遺伝子の分類群内比率が最も高いアクチノマイセテス門が含まれていた。amoABCはニトロソモナス門とニトロソスファエロタ門にのみ割り当てられた一方、脱窒遺伝子はより広く分布していたが、多くの場合、部分的な経路として認められた。nosZは、非優占門であるクロロフレクタ門、アシドバクテリオータ門、およびミクソコッカータ門でのみ検出された。DNRAおよびANR関連遺伝子は複数の系統にわたって存在し、ニトロスピラ門におけるnirAおよびニトロスピロタ門の他の部位におけるDNRA関連nirBDは、硝化菌関連系統が窒素保持能もコードしている可能性を示唆した。遺伝子分解能メタゲノミクスにより、低存在量の寄与因子候補、アンモニア酸化および亜酸化窒素還元に関連する遺伝子の限定的な分布、ならびに分類学的組成のみからは明らかでない窒素保持能が同定された。本研究では単一の汚泥試料におけるDNAレベルの能を調査したため、経路活性および運用上の関連性を確立するには、発現、リアクター化学、および経時的データが必要である。"
+  },
+  {
+    "id": "10.64898/2026.11.09.765219",
+    "title": "Functional Conservation Amid Extreme Divergence in Freshwater SAR11 Hypervariable Region 2",
+    "abstract": "The Ca. Pelagibacterales order (SAR11) is a ubiquitous bacterioplankton in aquatic ecosystems. The genomes of SAR11 bacteria contain hypervariable region 2 (HVR2), the largest HVR with extreme diversity. Previous studies collectively indicated the enrichment of cell-surface modification genes on HVR2, which have been hypothesized to facilitate phage evasion. However, characterisation of HVR2 has primarily targeted marine clades and been limited for freshwater SAR11 (aka. Fontibacterium). Here, we employed single-cell genomics and recovered 176 Fontibacterium HVR2 sequences from Lake Biwa (Japan) and Lake Zurich (Switzerland), across multiple sampling years for Lake Biwa. Comparative sequence analyses revealed that freshwater HVR2 showed high intra-population diversity and appears to evolve independently of the rest of the genome, mirroring patterns observed in marine counterparts. Nevertheless, highly conserved HVR2 sequence pairs were observed for distinct Fontibacterium species from the two intercontinental habitats, suggesting horizontal transfers of HVR2 with conserved functional configurations across divergent lineages and large spatial scales. Further comparison with 145 marine HVR2 sequences revealed HVR2 sequences displaying synteny between Fontibacterium and marine SAR11, and 209 gene families conserved across habitats, including three near-universally conserved families. All examined freshwater HVR2s contained initiator methionine tRNA genes concentrated near the boundaries of the 5S region, suggesting a tDNA-anchored integration mechanism. These results suggest the functional equivalence of HVR2 across marine and freshwater SAR11 clades, and the existence of a shared pool of HVR2 sequences that evolve reticulately through mutual genetic exchange, independent of the vertical inheritance of the rest of the genome.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765219",
+    "date": "2026-11-10",
+    "authors": "Daniel, S., Andrei, A.-S., Nishikawa, Y., Takeyama, H., Ogata, H., Okazaki, Y.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765219v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "watchlist_keyword",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "SAR11"
+      ],
+      "context": {
+        "marine": [
+          "SAR11"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3195,
+    "collected_at": "2026-11-10T23:48:31.251622+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.09.765219"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5f7df990133b40779a69b8c7950de142eb947daabfc52a740af0df65b4012865",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:00:52.236116+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1637a5fdd5ad73dc0ec25ec83298b4f24de7eb3634935b0ae2abc9b2aede864c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:00:52.236116+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "淡水SAR11超可変領域2における極端な分岐下での機能的保存",
+    "abstract_ja": "Ca. Pelagibacterales目（SAR11）は、水圏生態系に遍在する細菌プランクトンである。SAR11細菌のゲノムには、極めて高い多様性を有する最大のHVRである超可変領域2（HVR2）が存在する。先行研究では、HVR2上に細胞表面修飾遺伝子が濃縮されていることが一貫して示されており、これらはファージ逃避を促進するという仮説が立てられている。しかし、HVR2の特性解析は主に海洋系統群を対象としており、淡水SAR11（別名Fontibacterium）については限定的であった。本研究では、シングルセルゲノミクスを用い、琵琶湖（日本）およびチューリッヒ湖（スイス）から、複数のサンプリング年にわたる176個のFontibacterium HVR2配列を回収した。比較配列解析の結果、淡水HVR2は集団内で高い多様性を示し、海洋の対応配列と同様のパターンを反映して、ゲノムの他の部分とは独立して進化していることが明らかとなった。それにもかかわらず、2つの大陸間生息地の異なるFontibacterium種間で、高度に保存されたHVR2配列ペアが観察され、保存された機能的構成を持つHVR2が、分岐した系統間および大きな空間スケールにわたって水平伝播したことが示唆された。さらに、145個の海洋HVR2配列との比較により、Fontibacteriumと海洋SAR11の間でシンテニーを示すHVR2配列、および、ほぼ普遍的に保存された3つのファミリーを含む、生息地間で保存された209の遺伝子ファミリーが明らかになった。検討したすべての淡水HVR2は、5S領域の境界付近に集中したイニシエーターメチオニンtRNA遺伝子を含んでおり、tDNAをアンカーとした組み込み機構が示唆された。これらの結果は、海洋および淡水SAR11系統群間でHVR2の機能的等価性があること、および、ゲノムの他の部分の垂直遺伝とは独立して、相互の遺伝的交換を通じて網状的に進化する共有のHVR2配列プールが存在することを示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.09.765251",
+    "title": "Women's health outreach using a rapid and fieldable Nanopore-based microbiome profiling workflow.",
+    "abstract": "Background In recent years, scientific interest in the vaginal microbiome has increased due to its impact on women's health. Colonization of the Lactobacillus species in the vagina may contribute to protection against vaginal infectious diseases. In order to create public awareness regarding vaginal health and to provide insights into the vaginal microbiome, a rapid field microbiome analysis using Nanopore sequencing was evaluated at Lowlands, a three-day music festival in the Netherlands. This study aimed not only to evaluate a rapid sequencing workflow, but also to explore citizen science as a tool for health promotion and public engagement in women's health. Methods The workflow at Lowlands contained the following steps; (i) Dialogue concerning vaginal health, with invitation to participate. (ii) Informed consent and questionnaire to investigate knowledge on vaginal health, life-style and contraceptive usage; (iii) self-collection of a vaginal swab; (iv) DNA isolation using QuickExtract DNA extraction solution; (v) Ultrafast amplification of the 16S rRNA gene using NextGenPCR thermal cycling using 16S Barcoding kit 24 V14; (vi) Library preparation and sequencing was performed according to the manufacturers protocol using R10 chemistry; (vii) For data-analysis, MABA16S was used, with slight modifications. This workflow was established within 4 hours and results were communicated with interested participants.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765251",
+    "date": "2026-11-10",
+    "authors": "Boden, S., Waldekker, C., Kaijen - Lambers, M. E. H., van den Braak, N. P. W. C. J., Brackel, D. C. J., Wijnstroom-de Quartel, L., Pinheiro-Keulers, L., Klaassens, E. S., de Bot, C. M. A., van Gestel, M. A., Schrauwen, E. J. A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765251v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3244,
+    "collected_at": "2026-11-11T02:57:06.205781+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.09.765251"
+    ],
+    "translation": {
+      "title": {
+        "hash": "286826745a2684dcaf9974edd3aad3d6a9076d8fc1b6b09fa404bdc15e744500",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:00:52.236116+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "94b4a7c713fd60f9bb3f9988702e982d47074f7dc17937afa0c7cab672913c69",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:00:52.236116+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "迅速かつ現場で実施可能なナノポアベースのマイクロバイオームプロファイリングワークフローを用いた女性の健康アウトリーチ。",
+    "abstract_ja": "背景 近年、女性の健康に及ぼす影響から、腟内マイクロバイオームに対する科学的関心が高まっている。腟内におけるラクトバチルス属菌の定着は、腟感染症の予防に寄与する可能性がある。腟の健康に関する公衆の意識を高め、腟内マイクロバイオームに関する知見を提供するため、オランダで開催された3日間の音楽フェスティバル「Lowlands」において、Nanoporeシーケンシングを用いた迅速フィールドマイクロバイオーム解析の評価を行った。本研究は、迅速シーケンシングワークフローを評価するだけでなく、健康増進および女性の健康への公衆参画のためのツールとして、シチズンサイエンスを模索することを目的とした。方法 Lowlandsにおけるワークフローは、以下の手順で構成されていた。(i) 腟の健康に関する対話および参加の呼びかけ。(ii) インフォームド・コンセント、および腟の健康、ライフスタイル、避妊法の使用に関する知識を調査するためのアンケート。(iii) 腟スワブの自己採取。(iv) QuickExtract DNA抽出液を用いたDNA単離。(v) 16S Barcodingキット 24 V14を用いたNextGenPCRサーマルサイクリングによる16S rRNA遺伝子の超高速増幅。(vi) メーカーのプロトコルに従い、R10ケミストリーを用いてライブラリ調製およびシーケンシングを実施。(vii) データ解析には、若干の改変を加えたMABA16Sを使用した。このワークフローは4時間以内に確立され、結果は関心のある参加者に共有された。"
+  },
+  {
+    "id": "10.64898/2026.11.09.765264",
+    "title": "LIGR-Nue for the global mapping of the bacterial sRNA targetome in vivo",
+    "abstract": "Interactions between regulatory small RNAs (sRNAs) and their target transcripts are central for post-transcriptional regulation in bacteria. Based on RNA-seq analysis, we determined the relative abundance of several sRNAs in the photosynthetic cyanobacterium Synechocystis sp. PCC 6803 under photoautotrophic growth conditions and after transfer to darkness. We observed an increase in the abundance of the sRNAs DsiR1 to 58.6% and of CsiR1 to 19% of the sRNA transcriptome after transfer to darkness. We then developed a duplex-directed, transcriptome-wide mapping strategy of RNA-RNA interactions in vivo, called LIGR-Nue, which involves aminomethyltrioxsalen-mediated UV cross-linking, proximity ligation, crosslink reversal, reverse transcription and sequencing. The data were analysed using the RNANUE pipeline for the detection of chimeric reads and mapping, and benchmarked against known targetome data for the sRNAs PsrR1 and NsiR4. Using this methodology, we identified RNA-RNA interactions, such as PsrR1 as a regulator of carbon assimilation, and DsiR1 as a global silencing factor of photosynthesis-associated mRNAs in the dark. This data enables the comprehensive analysis of sRNA functions in post-transcriptional gene regulation. LIGR-Nue is broadly applicable to map RNA-RNA interactions in bacteria.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765264",
+    "date": "2026-11-10",
+    "authors": "Mandal, M., Adelmann, C., Georg, J., Kurukuti, S., Voss, B., Hess, W. R., Prakash, J. S. S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765264v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3245,
+    "collected_at": "2026-11-11T02:57:06.205781+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.09.765264"
+    ],
+    "translation": {
+      "title": {
+        "hash": "954464f1efdef680b5a703af1c37d954b9bafbf3e14936d1ee277572484e6fd9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:00:52.236116+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f565cd84165cdac86ef808fcf7e9b0d924b0b5d4802fa057a0e67a84f7849f0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:00:52.236116+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "in vivoにおける細菌sRNAターゲットームの全球的マッピングに向けたLIGR-Nue",
+    "abstract_ja": "調節性小分子RNA（sRNA）とその標的転写産物との相互作用は、細菌における転写後調節の中核をなす。RNA-seq解析に基づき、光独立栄養増殖条件下および暗転後における、光合成シアノバクテリアSynechocystis sp. PCC 6803における複数のsRNAの相対存在量を決定した。暗転後、sRNA DsiR1の存在量は58.6%に、CsiR1の存在量はsRNAトランスクリプトームの19%に増加することが観察された。次いで、アミノメチルトリオキサレン介在性UV架橋、近接ライゲーション、架橋解除、逆転写、およびシーケンシングを含む、in vivoでのRNA-RNA相互作用のデュプレックス指向型トランスクリプトームワイドマッピング戦略「LIGR-Nue」を開発した。データは、キメラリードの検出およびマッピングにRNANUEパイプラインを用いて解析し、sRNA PsrR1およびNsiR4の既知のターゲトムデータとベンチマークした。この手法を用いて、PsrR1が炭素同化の調節因子であることや、DsiR1が暗所における光合成関連mRNAのグローバルサイレンシング因子であることなど、RNA-RNA相互作用を同定した。これらのデータにより、転写後遺伝子調節におけるsRNA機能の包括的な解析が可能となる。LIGR-Nueは、細菌におけるRNA-RNA相互作用のマッピングに広く適用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.08.759712",
+    "title": "Peptide Sequence Determines the Efficacy of Single-Dose AAV-Vectorized GLP-1R Agonists in Diet-Induced Obese Mice",
+    "abstract": "Background:  Glucagon-like peptide-1 receptor (GLP-1R) agonists such as semaglutide produce substantial weight loss and glycemic improvement, but their long-term efficacy depends on sustained adherence to chronic dosing. Adeno-associated virus (AAV) gene therapy could, in principle, provide durable GLP-1R agonist (GLP-1RA) exposure from a single administration, but the degree of peptide engineering required for a vectorized GLP-1RA transgene to be efficacious in vivo is unknown. Methods: We generated four self-complementary AAV (scAAV) constructs encoding: native human GLP-1(7-36) (GLP-1), a DPP-IV-resistant Gly8-GLP-1(7-36) variant (Gly8), Exendin-4 (Ex4), or an Exendin-4 human IgG4 Fc fusion protein (Ex4-Fc). All four constructs were validated to secrete functional GLP-1R agonists in vitro using a conditioned-media potency assay. Subsequently, these constructs were packaged into PHP.eB capsids and administered as a single intravenous dose (5x1012 vg/kg) to diet-induced obese (DIO) mice alongside a vehicle control. Body weight, body composition, food intake, fasting plasma insulin, and oral glucose tolerance were assessed over a 3-week period. At the end of the study, tissues were harvested for assessments of plasma/liver lipids, tissue transgene transcript and peptide levels. Results: HEK293 cells transfected with the four AAV constructs all secreted active peptides/proteins as assessed by a cell-based GLP-1R activation assay, although the effective concentration of the GLP-1 constructs in the media spanned nearly four orders of magnitude 72 hours after transfection. In diet-induced obese (DIO) mice, Ex4 and Ex4-Fc vectors, but not GLP-1 or Gly8 vectors, produced significant reductions in body weight of up to 22.6% of starting body weight out to 21 days after a single dose. In addition, reductions in food intake, fat mass, and fasting insulin relative to vehicle were also observed for Ex4 and Ex4-Fc. Furthermore, Ex4-Fc improved oral glucose tolerance while reducing plasma cholesterol and liver triglycerides relative to vehicle. Although transcript levels did not differ appreciably among the four constructs in either brain or liver, measurable peptide product in plasma and brain lysate tracked the rank order of the in vitro supernatant screen, with GLP-1 and Gly8 groups indistinguishable from endogenous background. Conclusions: PHP.eB scAAV Ex4 and Ex4-Fc showed robust efficacy on multiple metabolic endpoints including weight loss and glucose tolerance. In contrast, vectorized GLP-1 and Gly8 showed no in vivo efficacy despite comparable levels of viral transcript in the brain and the liver. Vectorized GLP-1 and Gly8 also performed poorly compared to exendin-4-based constructs in vitro, suggesting that conditioned-media potency screening is a valid early filter for construct selection in vectorized-peptide AAV development. Engineering peptides to improve translation and secretion efficiency, in addition to circulating plasma stability, could further optimize vectorized GLP-1RA therapeutics.",
+    "journal": "",
+    "doi": "10.64898/2026.11.08.759712",
+    "date": "2026-11-10",
+    "authors": "Lee D, Bokvist K, Nachtrab G, Mezo A, Brust T, Trefts E, Brusilovsky J, Suk J, Luczak V, Edwards L, Benedetto B, Onyia J, Woldbye D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1364901",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2055,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.08.759712"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d7aa3824a395e46ad558f3592accf10dd378c2b692459f252d1b22bf663c7310",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:00:52.236116+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "269dcda4ad8d6bf51b582f85e05252593cdb1e8e7f5d65b202e5581ab9dccc76",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:00:52.236116+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ペプチド配列が食事誘発性肥満マウスにおける単回投与AAVベクター化GLP-1Rアゴニストの有効性を決定づける",
+    "abstract_ja": "背景：セマグルチドなどのグルカゴン様ペプチド-1受容体（GLP-1R）作動薬は、著しい体重減少と血糖改善をもたらすが、その長期的有効性は慢性投与の継続的な遵守に依存する。アデノ随伴ウイルス（AAV）遺伝子治療は、原理的には単回投与で持続的なGLP-1R作動薬（GLP-1RA）曝露を提供し得るが、ベクター化GLP-1RAトランスジーンが生体内で有効に機能するために必要なペプチド工学の程度は不明である。方法：我々は、天然型ヒトGLP-1(7-36)（GLP-1）、DPP-IV耐性Gly8-GLP-1(7-36)変異体（Gly8）、Exendin-4（Ex4）、またはExendin-4ヒトIgG4 Fc融合タンパク質（Ex4-Fc）をコードする4種類の自己相補的AAV（scAAV）コンストラクトを作製した。これら4つのコンストラクトすべてについて、条件付き培地力価アッセイを用いて、in vitroで機能的なGLP-1R作動薬を分泌することが検証された。続いて、これらのコンストラクトをPHP.eBカプシドに封入し、食事誘発性肥満（DIO）マウスにキャリアコントロールと共に単回静脈内投与（5x1012 vg/kg）した。体重、体組成、食物摂取量、空腹時血漿インスリン値、および経口糖耐容能を3週間にわたって評価した。研究終了時に、血漿・肝脂質、組織トランスジーン転写産物およびペプチドレベルの評価のために組織を採取した。結果：4種類のAAVコンストラクトをトランスフェクションしたHEK293細胞は、細胞ベースのGLP-1R活性化アッセイで評価したところ、すべて活性ペプチド／タンパク質を分泌したが、トランスフェクションから72時間後の培地中におけるGLP-1コンストラクトの有効濃度は、4桁近くの差があった。食事誘発性肥満（DIO）マウスにおいて、Ex4およびEx4-Fcベクターは、GLP-1またはGly8ベクターとは異なり、単回投与後21日目までに初期体重の最大22.6%という有意な体重減少をもたらした。さらに、Ex4およびEx4-Fcでは、キャリアと比較して食物摂取量、脂肪量、および空腹時インスリン値の減少も認められた。加えて、Ex4-Fcはキャリアと比較して、血漿コレステロールおよび肝トリグリセリドを減少させると同時に、経口糖耐容能を改善した。脳および肝臓のいずれにおいても4つのコンストラクト間で転写産物レベルに顕著な差は認められなかったが、血漿および脳ライセート中の測定可能なペプチド産物はin vitro上清スクリーニングの順位に従い、GLP-1およびGly8群は内因性バックグラウンドと区別がつかなかった。結論：PHP.eB scAAV Ex4およびEx4-Fcは、体重減少や糖耐容能を含む複数の代謝エンドポイントにおいて強固な有効性を示した。対照的に、ベクター化GLP-1およびGly8は、脳および肝臓におけるウイルス転写産物レベルが同等であったにもかかわらず、生体内での有効性は認められなかった。また、ベクター化GLP-1およびGly8はin vitroにおいてExendin-4ベースのコンストラクトと比較して性能が低く、このことは条件付き培地力価スクリーニングが、ベクター化ペプチドAAV開発におけるコンストラクト選択の有効な初期フィルターであることを示唆している。循環血漿中での安定性に加え、翻訳および分泌効率を向上させるためのペプチド工学により、ベクター化GLP-1RA治療薬をさらに最適化できる可能性がある。"
   }
 ]
