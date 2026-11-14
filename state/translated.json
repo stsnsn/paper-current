@@ -225255,5 +225255,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ホルチン砂地における<i>Atractylodes chinensis</i>の連作が収量、薬効および根圏土壌微小生態環境に及ぼす影響",
     "abstract_ja": "背景連作は、薬用植物の持続可能な栽培を制限する主要な制約要因である。しかし、連作がAtractylodes chinensisの収量、薬効、および根圏土壌微小生態環境に及ぼす影響、特にホルキン砂地における影響は依然として不明である。本研究では、連作および輪作体系を用いた野外実験を行い、A. chinensisの収量、生理活性化合物含有量、土壌化学的特性、および根圏微生物群集を比較し、それらの潜在的な関連性をさらに解明した。方法植物および土壌試料を採取し、ハイスループットシーケンシングを用いて植物収量、生理活性化合物、土壌化学的特性、および土壌微生物群集を評価し、続いてシーケンシングデータのバイオインフォマティクス解析を行った。結果輪作と比較して、連作は収量およびアトラクチロジン、アトラクチロン、β-エウデスモールを含む主要な生理活性化合物の含有量を有意に低下させた。また、連作は土壌pH、電気伝導度（EC）、および可給態カリウムを有意に上昇させ、アルカリ加水分解性窒素および有機物（OM）を減少させた。さらに、連作は菌類の豊富さ（Chao1指数）を低下させ、細菌の多様性（Shannon指数）および均一性（Pielouの均一性）を増加させた。FusariumおよびVolutellaは有意に増加した一方、NocardioidesおよびArthrobacterは減少した。炭素および窒素循環に関連する予測微生物機能ポテンシャルは、連作下で有意に低下した。相関解析の結果、A. chinensisの収量は土壌ECと負の相関を示し、OM含有量およびHeydeniaとEnterocarpusの相対存在量とは正の相関を示した。アトラクチロン含有量はAleuriaおよびAcremoniumと正の相関を示し、Volutellaとは負の相関を示した。結論これらの知見は、連作がホルキン砂地におけるA. chinensisの収量および薬効を低下させ、いくつかの土壌化学的特性の悪化および根圏微生物群集のディスバイオーシスに関連していることを示している。本研究は、ホルキン砂地におけるA. chinensisに関連する連作の制約とその生態学的影響について新たな知見を提供するとともに、作付体系の最適化、土壌生態学的健全性の維持、および本薬用植物の収量と品質の向上のための理論的基盤を確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1946607",
+    "title": "Outbreak of penicillin-susceptible, <i>eta</i>-positive <i>Staphylococcus aureus</i> in a neonatal intensive care unit.",
+    "abstract": "Staphylococcus aureus is one of the most common microorganisms causing wound infections, and outbreaks of multi-drug-resistant strains in neonatal intensive care units (NICUs) are a major concern. In Germany, screening patients for colonization with multi-drug-resistant bacteria is strongly recommended in these wards under national infection-control guidelines. Outbreaks caused by penicillin-susceptible strains are less commonly reported. In the first few months of 2024, penicillin-susceptible S. aureus was detected in 20 infants, of whom 10 developed confirmed infections, primarily purulent conjunctivitis. Using a cumulative sum (CUSUM) control chart applied to monthly acquisition counts from January 2021 to December 2025, an outbreak was identified between December 2023 and May 2024. Whilst the detection rate during the non-outbreak phase was 1.17 patients per month, it rose to 3.33 patients per month during the outbreak (p p p = 0.029). Four isolates from three affected children had undergone detailed typing. All isolates exhibited the same spa- (t328), ST- (15), and CT- (38152) types. In the cgMLST analysis, these isolates form a single cluster. All four isolates harbored the eta gene, suggesting the potential for expression of exfoliative toxin A. Following implementation of a bundle of enhanced infection-control measures, no further outbreak-associated detections occurred. As part of this response, and because systematic identifiable staff screening was restricted by data-protection requirements, all staff members were offered voluntary anonymous screening for nasal S. aureus colonization and, where appropriate, access to mupirocin decolonization. Although the contribution of individual interventions cannot be determined, the temporal association suggests that the combined infection-control measures likely contributed to containment of the outbreak. Our report shows that antibiotic susceptible pathogens can cause outbreaks in NICUs. Surveillance that also includes susceptible pathogens may facilitate the detection and epidemiological assessment of suspicious clusters.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1946607",
+    "date": "2026-10-27",
+    "authors": "Meintrup D, Vilser D, Layer-Nicolaou F, Müller F, Strommenger B, Rieß B, Hücherig B, Borgmann S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43011409",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13748460",
+    "pmid": "43011409",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4397,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1946607"
+    ],
+    "translation": {
+      "title": {
+        "hash": "01ebdfb3fb113d26e3892b7622afe7ad48d53e61f7bb33a11162fc8245f41f41",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:11:50.644122+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a0835fc307bd788c8b1af1f781176492432c670208b6b7ae3bce0ecf075b355b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:11:50.644122+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新生児集中治療室におけるペニシリン感受性<i>eta</i>陽性<i>Staphylococcus aureus</i>のアウトブレイク",
+    "abstract_ja": "黄色ブドウ球菌は創傷感染症を引き起こす最も一般的な微生物の一つであり、新生児集中治療室（NICU）における多剤耐性株のアウトブレイクは重大な懸念事項である。ドイツでは、国家感染管理ガイドラインに基づき、これらの病棟において多剤耐性菌の定着に関する患者スクリーニングが強く推奨されている。ペニシリン感受性株によるアウトブレイクの報告は比較的少ない。2024年の最初の数か月間で、20例の乳児からペニシリン感受性黄色ブドウ球菌が検出され、そのうち10例で確定感染症（主に化膿性結膜炎）が認められた。2021年1月から2025年12月までの月次採取数に累積和（CUSUM）対照チャートを適用した結果、2023年12月から2024年5月にかけてアウトブレイクが確認された。アウトブレイク前の検出率は月間1.17例であったが、アウトブレイク期間中は月間3.33例に上昇した（p p p = 0.029）。罹患した3例の小児から得られた4株の分離株について、詳細な型別判定を行った。すべての分離株は同一のspa- (t328)、ST- (15)、およびCT- (38152) 型を示した。cgMLST解析において、これらの分離株は単一のクラスターを形成していた。4株すべてがeta遺伝子を保有しており、剥離毒素Aの発現の可能性が示唆された。強化された感染管理措置の一連の導入後、アウトブレイクに関連する検出例は発生しなかった。この対応の一環として、またデータ保護要件により系統的な特定可能スタッフスクリーニングが制限されていたため、全スタッフに対し、鼻腔内黄色ブドウ球菌定着の任意かつ匿名のスクリーニングと、適宜ムピロシンによる脱定着処置へのアクセスが提供された。個々の介入の寄与度を特定することはできないが、時間的関連性から、統合的な感染管理措置がアウトブレイクの封じ込めに寄与した可能性が高いと考えられる。本報告は、抗生物質感受性病原体がNICUにおいてアウトブレイクを引き起こし得ることを示している。感受性病原体も含めたサーベイランスにより、疑わしいクラスターの検出および疫学的評価が促進される可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1928317",
+    "title": "Livestock-associated methicillin-resistant <i>Staphylococcus aureus</i> along the pork food chain: a study of four commercial pig fattening farms in north-east Germany and survival in processed meat products.",
+    "abstract": "IntroductionLivestock-associated methicillin-resistant Staphylococcus aureus (LA-MRSA) of Sequence Type (ST) 398 is widespread in European pig farming, yet molecular evidence linking specific farm strains to finished pork products remains limited.MethodsFour commercial pig fattening farms in northeastern Germany were sampled for MRSA across the full pork production chain, from nasal swabs collected from pigs and environmental samples taken on farms, through slaughter, to four processed meat products representing a gradient of processing intensity (Hackepeter, Frische Zwiebelmettwurst, cervelat-type sliceable raw sausage, and Lyoner). MRSA isolation followed two-step selective enrichment culture with confirmation by multiplex Real-Time PCR; all isolates were characterized by spa- and SCCmec-typing and subjected to whole-genome sequencing with Core Genome Multilocus Sequence Typing (cgMLST)-based cluster analysis using a 1,861-locus Staphylococcus aureus scheme.ResultsMRSA was detected on 3/4 farms (75%); all pooled nasal swab samples from positive farms were positive at both the farm (7/7 pools) and slaughterhouse (8/8 pools) levels. cgMLST revealed that pest flies carried ST398 strains genomically nearly identical (as few as 1 allele) to those colonizing farm pigs, identifying farm-associated pests as potential carriers of LA-MRSA. Among finished products, MRSA was not detected in seasoned raw minced meat (Hackepeter; 0/9) and heat-treated cooked sausage (Lyoner; 0/12). In contrast, LA-MRSA ST398 (t034/SCCmec V) survived in spreadable raw sausage (Frische Zwiebelmettwurst; 6/12 positive) through the full seven-day shelf life; a single ST398 MRSA (t011/SCCmec V) was detected in cervelat-type sliceable raw sausage after fermentation.DiscussionWhole-genome sequencing and cgMLST confirmed the recent common ancestry of ST398 isolates recovered from pig nasal swabs, farm environments, slaughter stages, and final meat products, including raw fermented sausages, providing genomic evidence of LA-MRSA transmission along the farm-to-fork chain. Human-associated MRSA (ST39, t007/SCCmec II) was detected exclusively at the slaughterhouse and the meat processing stage and carried the human-associated immune evasion and egc enterotoxin gene clusters, absent from all ST398 isolates, implicating that the slaughterhouse may be an entry point for a non-livestock MRSA lineage into the pork food chain.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1928317",
+    "date": "2026-10-27",
+    "authors": "Ebert M, Rose S, Biggel M, Fetsch A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43011265",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13748208",
+    "pmid": "43011265",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4398,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1928317"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c14c1a9a16df99af703e44dc036701fb28d909e86268863e931d80da2c4e4ca1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:11:50.644122+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b16b410028bcaace6630d6a8b2419417f52ffb42ace813b76aa1e141a2279ad2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:11:50.644122+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "豚肉の食品連鎖における家畜由来のメチシリン耐性<i>Staphylococcus aureus</i>：ドイツ北東部の商業用肥育豚農場4施設および加工肉製品における残存に関する研究",
+    "abstract_ja": "はじめに\n配列型（ST）398の家畜関連メチシリン耐性黄色ブドウ球菌（LA-MRSA）は、欧州の養豚業において広く分布しているが、特定の農場株と最終豚肉製品を結びつける分子生物学的根拠は依然として限られている。\n方法\nドイツ北東部の商業用肥育豚農場4施設を対象に、豚から採取した鼻腔スワブおよび農場で採取した環境試料から、屠畜を経て、処理強度の勾配を示す4種類の加工肉製品（Hackepeter、Frische Zwiebelmettwurst、cervelat型スライス可能生ソーセージ、Lyoner）に至る豚肉生産チェーン全体にわたってMRSAのサンプリングを行った。MRSAの分離は、2段階の選択的濃縮培養を行い、マルチプレックスリアルタイムPCRで確認した。すべての分離株はspa-およびSCCmec-タイピングにより特性解析され、1,861遺伝子座の黄色ブドウ球菌スキームを用いたCore Genome Multilocus Sequence Typing（cgMLST）に基づくクラスター解析による全ゲノムシーケンシングに供された。\n結果\nMRSAは4施設中3施設（75%）で検出された。陽性農場から採取したプール鼻腔スワブ試料はすべて、農場レベル（7/7プール）および屠畜場レベル（8/8プール）の両方で陽性であった。cgMLSTの結果、害虫ハエが農場の豚に定着している株とゲノム的にほぼ同一（アレル数はわずか1）のST398株を保有していることが判明し、農場関連の害虫がLA-MRSAの潜在的な保菌者であることが示された。最終製品においては、味付け済みの生ミンチ肉（Hackepeter; 0/9）および加熱処理済みの調理済みソーセージ（Lyoner; 0/12）からMRSAは検出されなかった。対照的に、LA-MRSA ST398（t034/SCCmec V）は、スプレッド可能な生ソーセージ（Frische Zwiebelmettwurst; 6/12陽性）において、7日間の保存期間を通じて生存していた。発酵後のcervelat型スライス可能生ソーセージからは、単一のST398 MRSA（t011/SCCmec V）が検出された。\n考察\n全ゲノムシーケンシングおよびcgMLSTにより、豚の鼻腔スワブ、農場環境、屠畜段階、および生発酵ソーセージを含む最終肉製品から回収されたST398分離株の最近共通祖先性が確認され、農場から食卓に至るチェーンに沿ったLA-MRSAの伝播を示すゲノム的根拠が得られた。ヒト関連MRSA（ST39, t007/SCCmec II）は、屠畜場および食肉処理段階のみで検出され、すべてのST398分離株には認められないヒト関連の免疫回避およびegc腸管毒素遺伝子クラスターを保有していた。このことは、屠畜場が非家畜由来のMRSA系統が豚肉食品チェーンに侵入するエントリーポイントとなる可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1943891",
+    "title": "Beyond the billion: dose-response immunophenotyping and machine learning classification of live vs. heat-treated gram-positive probiotic strains in human peripheral blood mononuclear cells-a single-donor proof-of-concept study.",
+    "abstract": "Probiotic research is constrained by three pervasive yet insufficiently challenged assumptions: the requirement for a minimum of 1 billion colony-forming units for efficacy, the necessity for gut colonization, and the inherent superiority of live over heat-treated preparations. This study addresses these gaps through a fully factorial experimental design evaluating 10 Gram-positive probiotic strains in both viable (Active Fluorescent Units, AFU) and heat-treated (Total Fluorescent Units, TFU) forms across three flow cytometry-verified concentrations (105, 106, and 107 cells/well per ISO 19344:2015) in primary human peripheral blood mononuclear cells (PBMC) from a single healthy male Caucasian donor (58 years), with simultaneous quantification of 17 cytokines by BioPlex suspension array. Viable preparations induced substantially greater absolute cytokine responses than heat-treated preparations across 16 of 17 analytes, heat-treated preparations demonstrated stronger dose-response correlations (mean within-strain Spearman ρ up to 1.00) for 13 of 17 cytokines, a finding we attribute to the uncontrolled proliferation of live bacteria during 24-h co-culture compressing the effective concentration range. Six of ten viable strains exhibited monotonically increasing profiles; two strains displayed non-monotonic bell-shaped kinetics with peak activity at 106 AFU/well and significant attenuation at 107, directly falsifying the assumption that dose escalation uniformly increases immunological activity. MCP-1 was the sole cytokine showing no significant difference between viability states under the paired analysis (q = 0.98, geometric-mean ratio 0.99, 95% CI 0.89-1.12, excluding any difference beyond approximately 11% in either direction), providing an internal methodological control. In this single-donor model, unsupervised hierarchical clustering identified three immunological phenotype clusters, requiring multi-donor validation before these groupings can be treated as generalizable biological phenotypes, with Random Forest classification achieving 83.3% internal partition-recovery consistency (95% CI 66.4-92.7%; clusters derived from the same data; not an estimate of generalization to novel strains) vs. 33.3% chance; In this single-donor experiment, IL-12p70, IL-13, and IFN-γ, not IL-6 or IL-1β, were the primary discriminators of strain identity; generalizability of this ranking requires multi-donor validation. Heat-treated preparations achieved ≥70% functional equivalence relative to viable preparations at 107 TFU/well in 80 of the 140 evaluable strain × analyte combinations, 57.1% of those evaluable (Functional Equivalence Dose, FED70), while one strain showed strongly attenuated activity in heat-treated form across all concentrations, a finding subject to the caveat that no positive control stimulus was included to formally verify PBMC functional competence on the experimental day. These findings establish a methodological framework integrating flow cytometric standardization, multiplex immunophenotyping, and machine learning for evidence-based dose characterization, postbiotic functional equivalence assessment, and data-driven strain classification in probiotic research (all p-values are descriptive within a single-donor experimental context).",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1943891",
+    "date": "2026-10-26",
+    "authors": "Deusebio G, Visciglia A, Amoruso A, Pane M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005239",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13745699",
+    "pmid": "43005239",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4387,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1943891"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fb114ebc16d234a747092901ccf563b6d8cb52ccb05b145a17e85827a243e29e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:11:50.644122+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "831899c9791c3961fe5f91984c685d1fe0bd03b4cc2284c6137274f900cf54fa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:11:50.644122+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "10億を超えて：ヒト末梢血単核球における生菌対熱処理グラム陽性プロバイオティクス株の用量反応免疫表現型解析および機械学習による分類―単一ドナーを用いた概念実証研究―",
+    "abstract_ja": "プロバイオティクス研究は、広範ながら十分に検証されていない3つの前提、すなわち、有効性には最低10億個のコロニー形成単位が必要であるという要件、腸内定着の必要性、および加熱処理済み製剤に対する生菌製剤の本質的な優位性によって制約を受けている。本研究では、単一の健康な白人男性ドナー（58歳）由来のヒト一次末梢血単核球（PBMC）を用い、フローサイトメトリーで検証された3つの濃度（ISO 19344:2015に準拠し、1ウェルあたり10⁵、10⁶、10⁷個）において、10種類のグラム陽性プロバイオティクス株を、生菌（活性蛍光単位：AFU）および加熱処理（総蛍光単位：TFU）の両形態で評価する完全因子実験デザインにより、これらの知見の空白を埋めるとともに、BioPlex懸濁液アレイを用いて17種類のサイトカインを同時に定量した。生菌製剤は、17種類の分析項目のうち16項目において、加熱処理製剤よりも有意に高い絶対サイトカイン応答を誘導した。また、17種類のサイトカインのうち13種類において、加熱処理製剤の方がより強い用量反応相関（株内平均スピアマンρ値で最大1.00）を示し、この結果は、24時間の共培養中に生菌が制御不能に増殖し、有効濃度範囲が圧縮されたことに起因すると考えられる。10株の生菌株のうち6株は単調に増加するプロファイルを示したが、2株は非単調なベル型の動態を示し、1ウェルあたり10⁶ AFUで活性がピークに達し、10⁷では有意な減弱が見られた。これは、用量増加が一様に免疫活性を高めるという前提を直接的に否定するものである。ペア分析において、MCP-1は生菌状態間で有意な差を示さなかった唯一のサイトカインであり（q = 0.98、幾何平均比 0.99、95% CI 0.89-1.12、いずれの方向においても約11%を超える差は除外）、内部的な方法論的コントロールとなった。この単一ドナーモデルにおいて、教師なし階層的クラスタリングにより3つの免疫学的表現型クラスターが特定された。これらのグループを一般化可能な生物学的表現型として扱うには、マルチドナー検証が必要である。ランダムフォレスト分類では、内部分割回復一致率83.3%（95% CI 66.4-92.7%；同一データから導出されたクラスターであり、新規株への一般化の推定値ではない）に対し、偶然度は33.3%であった。この単一ドナー実験において、株の同一性を判別する主要な因子は、IL-6やIL-1βではなく、IL-12p70、IL-13、およびIFN-γであった。このランキングの一般化可能性については、マルチドナー検証が必要である。加熱処理製剤は、評価可能な140通りの株×分析項目の組み合わせのうち80通りにおいて、1ウェルあたり10⁷ TFUで生菌製剤に対し70%以上の機能的同等性を達成し（評価可能項目の57.1%；機能的同等用量：FED70）、一方で1株はすべての濃度において加熱処理形態で活性が著しく減弱していた。ただし、この結果には、実験当日にPBMCの機能的能力を正式に検証するための陽性対照刺激が含まれていなかったという注意点がある。これらの知見は、フローサイトメトリーの標準化、マルチプレックス免疫表現型解析、および機械学習を統合した方法論的枠組みを確立するものであり、プロバイオティクス研究におけるエビデンスに基づく用量特性評価、ポストバイオティクスの機能的同等性評価、およびデータ駆動型の株分類を可能にする（すべてのp値は単一ドナーの実験文脈における記述的なものである）。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1998010",
+    "title": "One-step microbial conversion of waste molasses into bioactive fulvic-like acid fertilizer for sustainable soil quality improvement and agricultural waste valorization.",
+    "abstract": "Waste molasses (WM), a carbon rich by-product of sugar production, is frequently underutilized, resulting in environmental pollution and resource loss. In this study, a one-step microbial bioconversion process using Bacillus subtilis was developed to transform WM into molasses derived fulvic acid (MFA). The highest MFA yield (33.54%) was achieved at 35 °C, 48 h, and a 5% inoculation rate. Integrated GC-MS and LC-MS analyses revealed dynamic substrate transformation during fermentation and suggested that 4-hydroxy-2-methylacetophenone, 4-oxododecanedioic acid, and 3-hydroxy-2-octylpentanedioic acid were putative intermediates involved in MFA formation. Structural characterization showed that the resulting MFA possessed a loose, porous morphology and abundant hydroxyl, carboxyl, and carbonyl groups. In a single 150 d field trial, MFA application was associated with higher soil organic carbon and humus contents than the unfertilized control and promoted maize vegetative growth. MFA also enriched the microbial communities including Pseudomonas, Acidobacterium, Actinobacteria, and Bacteroidetes. The abundance of several genes related to carbon assimilation and carboxylation, including rbcL, rbcS, accB, accC, and pccA, has also increased. Metabolomic analysis further revealed shifts in metabolites associated with central carbon metabolic pathways, including glycolysis and the pentose phosphate pathway MFA application also markedly promoted maize growth without chemical fertilizer input, demonstrating its potential as an organic soil amendment and partial fertilizer substitute. Collectively, these findings suggest that a one-step microbial transformation can convert WM into functional fulvic-like acid fertilizer. This method provides a potential route for mineral derived FA production. Simultaneously combining the reuse of agricultural waste, improvement of soil quality, reduction of partial fertilizer dependence, and development of circular agriculture.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1998010",
+    "date": "2026-10-26",
+    "authors": "Zhang Y, Pan S, Wang R, Cheng H, Feng S, Wang H.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005390",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13745690",
+    "pmid": "43005390",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "Pseudomonas",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4388,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1998010"
+    ],
+    "translation": {
+      "title": {
+        "hash": "06559e95e664cfae475883c78391f564e0c03740682441b9a53c4f820841cbe5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:11:50.644122+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "405bd5427fb982b769f5e5ca14f28a1a031b98a510142388a0f69e4094b826ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:11:50.644122+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "持続可能な土壌品質の向上と農業廃棄物の資源化に向けた、廃糖蜜の微生物による一段階変換による生物活性フルボ酸様肥料の製造",
+    "abstract_ja": "糖生産の副産物である炭素豊富な廃糖蜜（WM）は、十分に活用されていないことが多く、その結果、環境汚染や資源の損失を招いている。本研究では、Bacillus subtilisを用いた一段階の微生物バイオコンバージョンプロセスを開発し、WMを糖蜜由来フルボ酸（MFA）へと変換した。最高のMFA収率（33.54%）は、35 °C、48時間、接種率5%の条件下で得られた。GC-MSおよびLC-MSによる統合解析により、発酵過程における動的な基質変換が明らかとなり、4-ヒドロキシ-2-メチルアセトフェノン、4-オキソドデカン二酸、および3-ヒドロキシ-2-オクチルペンタンジ酸が、MFA形成に関与する推定中間体であることが示唆された。構造解析の結果、得られたMFAは疎らで多孔質な形態を有し、豊富な水酸基、カルボキシル基、およびカルボニル基を備えていることが示された。150日間の単一圃場試験において、MFAの施用は、無施肥対照区よりも土壌有機炭素量および腐植含有量の増加に関連し、トウモロコシの栄養成長を促進した。また、MFAはPseudomonas、Acidobacterium、Actinobacteria、およびBacteroidetesを含む微生物群集を富化させた。rbcL、rbcS、accB、accC、およびpccAを含む、炭素同化およびカルボキシル化に関連する複数の遺伝子の存在量も増加した。メタボローム解析により、解糖系やペントースリン酸経路を含む中心的な炭素代謝経路に関連する代謝物のシフトがさらに明らかになった。MFAの施用は、化学肥料の投入なしにトウモロコシの成長を著しく促進し、有機土壌改良材および部分肥料代替品としての可能性を示した。総じて、これらの知見は、一段階の微生物変換によってWMを機能的なフルボ酸様酸肥料に変換できることを示唆している。本手法は、鉱物由来FA生産の潜在的な経路を提供するものである。同時に、農業廃棄物の再利用、土壌品質の向上、部分肥料依存性の低減、および循環型農業の発展を実現するものである。"
   }
 ]
