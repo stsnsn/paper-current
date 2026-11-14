@@ -9614,7 +9614,7 @@
     "id": "10.64898/2026.10.28.762566",
     "doi": "10.64898/2026.10.28.762566",
     "title": "GraphExperiment: infrastructure for high-dimensional quantitative data and associated networks in R/Bioconductor",
-    "abstract": "Networks are widely used to represent relationships among features (e.g. genes, proteins, and microbial taxa) and among observations (e.g. cells, samples, and species) in omics data, as well as their neighborhoods. The Bioconductor ecosystem provides users and developers with modular and interoperable software tools by relying on standard data structures that are reused across packages. However, Bioconductor lacks a standard data structure to store such networks together with the quantitative data from which they are inferred. Here, we present GraphExperiment, an R/Bioconductor package that provides an S4 class extending SingleCellExperiment with containers for feature- level (rowGraphs) and observation-level (colGraphs) networks stored as igraph objects. Networks are kept in sync with assays, row and column metadata, allowing the simultaneous manipulation of quantitative data and graphs. We demonstrate GraphExperiment in seven use cases covering bulk and single-cell transcriptomics, single-cell proteomics, microbiome, and comparative genomics data, with networks ranging from gene coexpression and protein co-abundance networks to cell-cell communication and phylogenetic networks. GraphExperiment is available on Bioconductor (https://bioconductor.org/packages/GraphExperiment).",
+    "abstract": "Networks are widely used to represent relationships among features (e.g. genes, proteins, and microbial taxa) and among observations (e.g. cells, samples, and species) in omics data, as well as their neighborhoods. The Bioconductor ecosystem provides users and developers with modular and interoperable software tools by relying on standard data structures that are reused across packages. However, Bioconductor lacks a standard data structure to store such networks together with the quantitative data from which they are inferred. Here, we present  GraphExperiment , an R/Bioconductor package that provides an S4 class extending  SingleCellExperiment with containers for feature-level (  rowGraphs ) and observation-level (  colGraphs ) networks stored as  igraph objects. Networks are kept in sync with assays, row and column metadata, allowing the simultaneous manipulation of quantitative data and graphs. We demonstrate  GraphExperiment in seven use cases covering bulk and single-cell transcriptomics, single-cell proteomics, microbiome, and comparative genomics data, with networks ranging from gene coexpression and protein co-abundance networks to cell-cell communication and phylogenetic networks.  GraphExperiment is available on Bioconductor (  https://bioconductor.org/packages/GraphExperiment ).",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -9623,20 +9623,21 @@
       "10.64898/2026.10.28.762566"
     ],
     "date": "2026-11-02",
-    "authors": "Almeida-Silva, F.",
+    "authors": "Almeida-Silva F.",
     "tags": [
       "微生物ゲノミクス",
       "微生物進化"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.28.762566v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1357759",
     "sources": [
+      "Europe PMC bioinformatics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "microbial",
         "microbiome"
@@ -9645,7 +9646,9 @@
         "marine": [],
         "genomics": [
           "genom",
+          "genomic",
           "phylogen",
+          "phylogenetic",
           "transcript"
         ],
         "evolution": [
@@ -9657,6 +9660,24 @@
         "微生物進化"
       ]
     },
+    "collection_order": 154,
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "collected_at": "2026-11-06T00:00:00+09:00",
+    "collected_date": "2026-11-06",
     "translation": {
       "title": {
         "hash": "e537c8a91c5e366a3a9a8426b7203774b29bc6f6b33e59bf605243f4c92f82f4",
@@ -9665,16 +9686,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "156f2fee185a1ff8de4be55a509dc5126d7d9dede72c89cc34dbc7853ee31140",
+        "hash": "7e6cbb1e3216c97ddaa542d32969d8b66b9cd598bc131c9b8708eb8362d005f9",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T14:26:56.672322+00:00",
+        "date": "2026-11-14T00:06:47.296083+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "GraphExperiment: R/Bioconductorにおける高次元定量データおよび関連ネットワークのためのインフラストラクチャ",
-    "abstract_ja": "ネットワークは、オミクスデータにおける特徴量（例：遺伝子、タンパク質、微生物分類群）間および観測値（例：細胞、サンプル、種）間の関係、ならびにそれらの近傍を表現するために広く用いられている。Bioconductorエコシステムでは、パッケージ間で再利用される標準的なデータ構造を活用することで、ユーザーや開発者にモジュール式で相互運用可能なソフトウェアツールを提供している。しかし、Bioconductorには、こうしたネットワークと、そこから推定された定量データを併せて格納するための標準的なデータ構造が存在しない。本稿では、SingleCellExperimentを拡張したS4クラスであるGraphExperimentを提案する。このクラスは、特徴量レベル（rowGraphs）および観測値レベル（colGraphs）のネットワークをigraphオブジェクトとして格納するコンテナを備えている。ネットワークはアッセイ、行および列のメタデータと同期されており、定量データとグラフの同時操作が可能である。我々は、バルクおよびシングルセルトランスクリプトミクス、シングルセルプロテオミクス、マイクロバイオーム、および比較ゲノミクスデータを網羅する7つのユースケースを用いてGraphExperimentを実演する。対象となるネットワークは、遺伝子共発現やタンパク質共存在ネットワークから、細胞間コミュニケーションや系統発生ネットワークまで多岐にわたる。GraphExperimentはBioconductor（https://bioconductor.org/packages/GraphExperiment）で利用可能である。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "ネットワークは、オミクスデータにおける特徴量（例：遺伝子、タンパク質、微生物分類群）間および観測値（例：細胞、サンプル、種）間の関係、ならびにそれらの近傍を表現するために広く用いられている。Bioconductorエコシステムは、パッケージ間で再利用される標準的なデータ構造を活用することで、ユーザーや開発者にモジュール式かつ相互運用可能なソフトウェアツールを提供している。しかし、Bioconductorには、こうしたネットワークと、そこから推定される定量データをまとめて格納するための標準的なデータ構造が存在しない。本稿では、SingleCellExperimentを拡張したS4クラスであるGraphExperimentを提案する。本クラスは、特徴量レベル（rowGraphs）および観測値レベル（colGraphs）のネットワークをigraphオブジェクトとして格納するコンテナを備えている。ネットワークはアッセイ、行および列のメタデータと同期されており、定量データとグラフの同時操作が可能である。我々は、バルクおよびシングルセルトランスクリプトミクス、シングルセルプロテオミクス、マイクロバイオーム、および比較ゲノミクスデータを網羅する7つのユースケースを用いてGraphExperimentを実演する。対象となるネットワークは、遺伝子共発現やタンパク質共存在ネットワークから、細胞間コミュニケーションや系統発生ネットワークまで多岐にわたる。GraphExperimentはBioconductor（https://bioconductor.org/packages/GraphExperiment）で利用可能である。"
   },
   {
     "id": "10.64898/2026.05.05.722951",
@@ -100463,8 +100483,8 @@
   {
     "id": "10.64898/2026.10.26.762046",
     "doi": "10.64898/2026.10.26.762046",
-    "title": "The Braarudosphaera bigelowii genome reveals cellular remodeling around a nitrogen-fixing organelle",
-    "abstract": "Braarudosphaera bigelowii hosts the nitrogen-fixing cyanobacterial organelle UCYN-A, or the nitroplast, but the absence of a reference genome has limited investigation of the genomic features accompanying this association. Here, we present nuclear and organellar genome resources for the cultured B. bigelowii strain FR-21. The assembly comprises a 472.1-Mb nuclear genome together with representative nitroplast, chloroplast, and mitochondrial genomes of 1.49 Mb, 107 kb, and 44 kb, respectively. The four genomic compartments have strongly differentiated GC compositions, consistent with their distinct evolutionary origins. The large nuclear genome does not appear to reflect a corresponding expansion of protein-coding capacity. Repeat annotation indicates that approximately 77% of the nuclear assembly is repetitive, leaving approximately 108 Mb of nonrepetitive sequence containing roughly 16,000 predicted protein-coding genes. Phylogenomic analysis places B. bigelowii within the expected diversity of haptophytes, indicating that its unusual diazotrophic lifestyle is not associated with an anomalous phylogenetic position. Comparative analysis of nitrogen metabolism genes reveals extensive remodeling of host nitrogen acquisition and assimilation. B. bigelowii lacks major components required for nitrate and nitrite assimilation and has reduced capacity to use urea, cyanate, and several internally recycled nitrogen sources. In contrast, ammonium transport and the glutamine synthetase-glutamate synthase pathway are retained. This combination suggests reduced flexibility in nitrogen use and a host metabolism increasingly centered on ammonium supplied by the nitroplast. B. bigelowii also encodes an expanded set of flavodoxin and cryptochrome genes. Eleven of 14 flavodoxin candidates and 21 of 39 cryptochrome candidates contained motifs linked to nitroplast targeting. Together with previous evidence that some of these proteins are abundantly imported into the nitroplast, these expansions point to host-encoded roles in nitroplast redox metabolism and diel regulation. These genome resources establish a foundation for investigating nitroplast protein import, host-organelle metabolic integration, and the genomic consequences of acquiring an intracellular nitrogen-fixing compartment. They further show that the evolution of the B. bigelowii-UCYN-A relationship involved substantial remodeling of genome architecture and nitrogen metabolism in both partners.",
+    "title": "The  Braarudosphaera bigelowii  genome reveals cellular remodeling around a nitrogen-fixing organelle",
+    "abstract": "Braarudosphaera bigelowii hosts the nitrogen-fixing cyanobacterial organelle UCYN-A, or the nitroplast, but the absence of a reference genome has limited investigation of the genomic features accompanying this association. Here, we present nuclear and organellar genome resources for the cultured  B. bigelowii strain FR-21. The assembly comprises a 472.1-Mb nuclear genome together with representative nitroplast, chloroplast, and mitochondrial genomes of 1.49 Mb, 107 kb, and 44 kb, respectively. The four genomic compartments have strongly differentiated GC compositions, consistent with their distinct evolutionary origins.  The large nuclear genome does not appear to reflect a corresponding expansion of protein-coding capacity. Repeat annotation indicates that approximately 77% of the nuclear assembly is repetitive, leaving approximately 108 Mb of nonrepetitive sequence containing roughly 16,000 predicted protein-coding genes. Phylogenomic analysis places  B. bigelowii within the expected diversity of haptophytes, indicating that its unusual diazotrophic lifestyle is not associated with an anomalous phylogenetic position.  Comparative analysis of nitrogen metabolism genes reveals extensive remodeling of host nitrogen acquisition and assimilation.  B. bigelowii lacks major components required for nitrate and nitrite assimilation and has reduced capacity to use urea, cyanate, and several internally recycled nitrogen sources. In contrast, ammonium transport and the glutamine synthetase-glutamate synthase pathway are retained. This combination suggests reduced flexibility in nitrogen use and a host metabolism increasingly centered on ammonium supplied by the nitroplast.  B. bigelowii also encodes an expanded set of flavodoxin and cryptochrome genes. Eleven of 14 flavodoxin candidates and 21 of 39 cryptochrome candidates contained motifs linked to nitroplast targeting. Together with previous evidence that some of these proteins are abundantly imported into the nitroplast, these expansions point to host-encoded roles in nitroplast redox metabolism and diel regulation.  These genome resources establish a foundation for investigating nitroplast protein import, host-organelle metabolic integration, and the genomic consequences of acquiring an intracellular nitrogen-fixing compartment. They further show that the evolution of the  B. bigelowii -UCYN-A relationship involved substantial remodeling of genome architecture and nitrogen metabolism in both partners.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "2",
@@ -100472,26 +100492,35 @@
     "related_dois": [
       "10.64898/2026.10.26.762046"
     ],
-    "date": "2026-11-04",
-    "authors": "Coale, T.; Mak, W. K. E.; Turk-Kubo, K. A.; Hagino, K.; Cornejo-Castillo, F. M.; Fussy, Z.; Zehr, J.",
+    "date": "2026-10-31",
+    "authors": "Coale TH, Füssy Z, Cornejo-Castillo FM, Mak WKE, Turk-Kubo KA, Hagino K, Zehr JP.",
     "tags": [
       "微生物ゲノミクス",
       "微生物進化"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.26.762046v2",
+    "source_url": "https://europepmc.org/article/PPR/PPR1354924",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
-        "cyanobacterial"
+        "cyanobacteria",
+        "cyanobacterial",
+        "genome",
+        "resource"
       ],
       "context": {
         "marine": [],
         "genomics": [
-          "genom",
+          "annotation",
+          "assembly",
           "evolution",
-          "phylogen"
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
         ],
         "evolution": [
           "evolution",
@@ -100508,27 +100537,42 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC bioinformatics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-08",
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
-        "hash": "1fb7f01728b10ea4704eb714176abab0ba531a2facf7207f6879a594f2186483",
+        "hash": "485603ecb88c43fbc55f96544ab84cb2557de4b5381177327429007efe530ad8",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T13:58:13.625398+00:00",
+        "date": "2026-11-14T00:06:47.296083+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "fef5018dc749dc5ee68eca467d527dda655a17eed2620b3ba349de249bb7829c",
+        "hash": "bc873864656281ad3a8e31a4b2728d62dc302aa4f215c84459ac4c5aa806514f",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T13:58:13.625398+00:00",
+        "date": "2026-11-14T00:06:47.296083+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Braarudosphaera bigelowiiのゲノムが明かす窒素固定オルガネラ周辺の細胞リモデリング",
-    "abstract_ja": "Braarudosphaera bigelowiiは、窒素固定能を持つシアノバクテリアの細胞小器官UCYN-A（ニトロプラスト）を宿主としているが、リファレンスゲノムが存在しないため、この共生に伴うゲノム特性の調査は限定的であった。本研究では、培養株B. bigelowii FR-21の核および細胞小器官ゲノムリソースを提示する。このアセンブリは、472.1 Mbの核ゲノムと、それぞれ1.49 Mb、107 kb、44 kbの代表的なニトロプラスト、葉緑体、およびミトコンドリアゲノムで構成されている。これら4つのゲノム区画はGC組成が著しく異なっており、これはそれぞれが異なる進化的起源を持つことと整合している。大規模な核ゲノムは、それに対応するタンパク質コード能の拡大を反映していないと考えられる。リピートアノテーションの結果、核アセンブリの約77%が反復配列であり、約16,000個の予測タンパク質コード遺伝子を含む約108 Mbの非反復配列が残存していることが示された。系統ゲノム解析により、B. bigelowiiはハプト藻類の想定される多様性の中に位置づけられ、その特異な窒素固定生活が異常な系統的位置と関連していないことが示された。窒素代謝遺伝子の比較解析により、宿主の窒素獲得および同化の広範なリモデリングが明らかになった。B. bigelowiiは、硝酸塩および亜硝酸塩の同化に必要な主要成分を欠いており、尿素、シアネート、およびいくつかの内部循環窒素源を利用する能力が低下している。対照的に、アンモニウム輸送およびグルタミン合成酵素-グルタミン酸合成酵素経路は保持されている。この組み合わせは、窒素利用の柔軟性の低下と、ニトロプラストから供給されるアンモニウムを中心とした宿主代謝への移行を示唆している。また、B. bigelowiiは拡張されたフラボドキシンおよびクリプトクロム遺伝子セットをコードしている。14個のフラボドキシン候補のうち11個、および39個のクリプトクロム候補のうち21個に、ニトロプラスト標的化に関連するモチーフが含まれていた。これらのタンパク質の一部がニトロプラストに豊富に取り込まれているという先行知見と合わせると、これらの拡張は、ニトロプラストの酸化還元代謝および日周調節における宿主コードの役割を示唆している。これらのゲノムリソースは、ニトロプラストタンパク質の取り込み、宿主-細胞小器官間の代謝統合、および細胞内窒素固定区画獲得によるゲノム上の帰結を調査するための基盤を確立するものである。さらに、B. bigelowii-UCYN-Aの関係の進化において、双方のパートナーでゲノム構造と窒素代謝の大幅なリモデリングが行われたことが示された。",
-    "discovery": []
+    "abstract_ja": "Braarudosphaera bigelowiiは、窒素固定能を持つシアノバクテリアの細胞小器官UCYN-A（ニトロプラスト）を宿主としているが、リファレンスゲノムが存在しないため、この共生に伴うゲノム特性の研究は限定的であった。本報では、培養株B. bigelowii FR-21の核および細胞小器官ゲノムリソースを提示する。このアセンブリは、472.1 Mbの核ゲノムに加え、それぞれ1.49 Mb、107 kb、44 kbの代表的なニトロプラスト、葉緑体、およびミトコンドリアゲノムで構成されている。これら4つのゲノム区画はGC組成が著しく異なっており、これはそれぞれが異なる進化的起源を持つことと整合している。大規模な核ゲノムは、それに対応するタンパク質コード能の拡大を反映していないと考えられる。リピートアノテーションの結果、核アセンブリの約77%が反復配列であり、約16,000個の予測タンパク質コード遺伝子を含む約108 Mbの非反復配列が残存していることが示された。系統ゲノム解析により、B. bigelowiiはハプト藻類の想定される多様性の中に位置づけられ、その特異な窒素固定生活が異常な系統的位置と関連していないことが示された。窒素代謝遺伝子の比較解析により、宿主の窒素獲得および同化の広範なリモデリングが明らかになった。B. bigelowiiは、硝酸塩および亜硝酸塩の同化に必要な主要構成要素を欠いており、尿素、シアネート、およびいくつかの内部循環窒素源を利用する能力が低下している。対照的に、アンモニウム輸送およびグルタミン合成酵素-グルタミン酸合成酵素経路は保持されている。この組み合わせは、窒素利用の柔軟性の低下と、ニトロプラストから供給されるアンモニウムにますます依存する宿主代謝を示唆している。また、B. bigelowiiは拡張されたフラヴォドキシンおよびクリプトクロム遺伝子セットをコードしている。14個のフラヴォドキシン候補遺伝子のうち11個、および39個のクリプトクロム候補遺伝子のうち21個に、ニトロプラスト標的化に関連するモチーフが含まれていた。これらのタンパク質の一部がニトロプラストに豊富に取り込まれているという先行知見と合わせ、これらの拡張は、ニトロプラストの酸化還元代謝および日周調節における宿主コードの役割を示唆している。これらのゲノムリソースは、ニトロプラストタンパク質の取り込み、宿主-細胞小器官間の代謝統合、および細胞内窒素固定区画獲得によるゲノム上の帰結を研究するための基盤を確立するものである。さらに、B. bigelowii-UCYN-A関係の進化において、双方のパートナーにおいてゲノム構造と窒素代謝の大幅なリモデリングが伴ったことが示された。"
   },
   {
     "id": "10.64898/2026.11.02.763629",
@@ -199507,5 +199551,152 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "スフィンゴ脂質水酸化は真菌の病原性と薬剤感受性を制御する：Candida albicansにおける薬剤標的Scs7",
     "abstract_ja": "スフィンゴ脂質は、真菌の細胞膜における必須の構造成分であり、病原性を制御する重要なシグナル伝達ハブである。真菌と哺乳類の双方がスフィンゴ脂質の水酸化を行うが、それぞれ進化的に分化した酵素系に依存しており、選択的標的化に利用可能な生化学的分岐が確立されている。本研究では、スフィンゴ脂質代謝遺伝子のスクリーニングを通じて、スフィンゴ脂質-水酸化酵素Scs7を、Candida albicansにおける膜恒常性、病原性、およびカスポファンギン感受性の中心的な調節因子として同定した。SCS7の遺伝的欠損は、水酸化スフィンゴ脂質を枯渇させ、メンブランアンの組織化を乱し、細胞壁の完全性を損なう。これらが相まって、cAMP-PKAシグナル伝達軸の遮断を介して、菌糸形態形成、バイオフィルム形成、およびストレス耐性を阻害する。マウス皮膚感染モデルにおいて、SCS7の欠損は真菌負荷、過剰炎症、および表皮バリアの破綻を著しく軽減し、宿主-病原体相互作用における非冗長的な役割を浮き彫りにした。真菌特異的なScs7の構造を利用してバーチャルスクリーニングを実施し、レスベラトロールを天然のScs7阻害剤として同定した。レスベラトロールは、SCS7欠損によるリピドミクスおよび表現型の欠陥を再現し、カスポファンギンと相乗的に作用して真菌殺傷能を高める。本研究は、スフィンゴ脂質-水酸化を真菌膜適応度の主要な決定因子として確立し、Scs7を、抗病原性活性と化学感受性付与活性を併せ持つ有望な真菌特異的抗真菌標的として検証した。"
+  },
+  {
+    "id": "10.64898/2026.11.10.765652",
+    "title": "Evolutionarily distinct dengue virus type 2 with a unique type-specific neutralization determinant",
+    "abstract": "Dengue viruses 1-4 (DENV1-4) mostly circulate in endemic cycles involving humans and Aedes mosquitoes. However, rare dengue outbreaks originate from non-human primates. These spillovers are caused by sylvatic virus genotypes that are closely related to endemic strains of the same serotype, but some are caused by strains that fall between the four canonical serotypes on phylogenetic trees. It is not clear whether these genotypic differences are reflected in corresponding antigenic differences. Here, we characterized the antigenic features of QML-22, a divergent strain most closely related to DENV2. On an antigenic map, QML-22 clustered with other globally representative DENV2 strains. QML-22 was not as well neutralized by antisera raised against endemic DENV2 and was better neutralized by antisera from DENV1, 3, and 4 infections than other strains of DENV2. QML-22 had a cluster of distinct amino acid residues in domain I of the envelope (E) protein, with only scattered point mutations elsewhere in the envelope. A potently neutralizing anti-DENV2 antibody that targets this site in domain I of the E protein, 3F9, had >1000-fold lower neutralization of QML-22 than other endemic DENV2 strains, whereas other cross-reactive and DENV2-specific antibodies neutralized QML-22 and endemic strains to similar titers. When antisera from non-human primates infected with QML-22 or DENV2 reference strain S16803 were depleted with the heterologous virions, homologous neutralization was unaffected but heterologous neutralization was reduced, suggesting homologous neutralization was due to distinct epitopes. Evolutionary analyses showed the 3F9 epitope was under relaxed selection pressure compared to other neutralizing epitopes and that QML-22 had unique amino acids in this epitope relative to the likely common ancestor of all DENV2. These findings provide insight into the antigenic diversification of DENV and the possible evolution of new serotypes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765652",
+    "date": "2026-11-11",
+    "authors": "Mayer, S., Winkelmann, E., Coello Escoto, A., Dorman, J., McCracken, M., Fritz, D., Baric, R., Tse, L., Herbert, R., Cummings, D., Whitehead, S., Best, S., Dolan, P., Aaskov, J., Gromowski, G., Katzelnick, L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765652v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4129,
+    "collected_at": "2026-11-12T01:42:41.693412+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.10.765652"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e818f0dc3230988a8e95976d87f38f78325855c14c5985d05724c10cefd54ea3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:06:47.296083+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b1d5348b3277182cf8210f303f67ee866748bd66d86c6e9e8efc485035c6ac6d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:06:47.296083+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "固有の型特異的中和決定基を有する進化的に異なるデングウイルス2型",
+    "abstract_ja": "デングウイルス1-4（DENV1-4）は、主にヒトとヤブカが関与する流行サイクルの中で循環している。しかし、稀に非ヒト霊長類に起因するデング熱のアウトブレイクが発生する。こうしたスピルオーバーは、同一血清型の流行株と近縁な野生型ウイルス遺伝子型によって引き起こされるが、中には系統樹上の4つの正準血清型の中間に位置する株によって引き起こされるものもある。これらの遺伝子型の差異が、対応する抗原性の差異に反映されているかどうかは明らかではない。本研究では、DENV2に最も近縁な分岐株であるQML-22の抗原性特性を明らかにした。抗原マップにおいて、QML-22は世界的に代表的な他のDENV2株とクラスターを形成した。QML-22は、流行型DENV2に対して作製した抗血清による中和能が低く、他のDENV2株よりもDENV1、3、および4感染由来の抗血清によってより良好に中和された。QML-22は、エンベロープ（E）タンパク質のドメインIにおいて特徴的なアミノ酸残基のクラスターを有しており、それ以外の部位には散在的な点変異が認められるのみであった。Eタンパク質ドメインIのこの部位を標的とする強力な中和抗DENV2抗体3F9は、他の流行型DENV2株と比較してQML-22の中和能が1,000倍以上低かったが、他の交差反応性抗体およびDENV2特異的抗体は、QML-22および流行株を同程度の力価で中和した。QML-22またはDENV2参照株S16803に感染した非ヒト霊長類由来の抗血清を異種ウイルス粒子で除去したところ、相同中和は影響を受けなかったが、異種中和は低下した。この結果は、相同中和が異なるエピトープによるものであることを示唆している。進化解析の結果、3F9エピトープは他の中和エピトープと比較して選択圧が緩和されており、QML-22はこのエピトープにおいて、すべてのDENV2の共通祖先と考えられるものとは異なる固有のアミノ酸を有していることが示された。これらの知見は、DENVの抗原性の多様化と、新たな血清型の進化の可能性に関する洞察を与えるものである。"
+  },
+  {
+    "id": "10.64898/2026.11.10.765633",
+    "title": "A chromosome-level genome assembly of the endangered northern dragonhead sap beetle, Thymogethes norvegicus (Easton, 1959)",
+    "abstract": "The northern dragonhead sap beetle (Thymogethes norvegicus) is believed to be endemic to Norway and is classified as endangered. Its life cycle is closely tied to the host plant northern dragonhead (Dracocephalum ruyschiana), itself classified as vulnerable in Norway. Here, we present a chromosome-level genome assembly of a male T. norvegicus. The assembly comprises two pseudo-haplotypes, hap1 and hap2, of 1,142 and 1,109 Mb, with 96.3% and 96.8% scaffolded into chromosomes, respectively. Hap1 contains 8 autosomes and the X chromosome, while hap2 contains 8 autosomes. Assembly quality was high, with conserved single-copy ortholog completeness scores of 96.6% and 90.7% and combined k-mer completeness of 98.1%. A total of 13,484 and 12,550 protein-coding genes were annotated in hap1 and hap2, respectively. This assembly provides a valuable genomic resource for the conservation of this endangered endemic species totally dependent on the vulnerable plant, the northern dragonhead.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765633",
+    "date": "2026-11-11",
+    "authors": "Strand, M. A., Toerresen, O. K., Skage, M., Ferrari, G., Tooming-Klunderud, A., Elven, H., Jakobsen, K. S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765633v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4130,
+    "collected_at": "2026-11-12T01:42:41.693412+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.10.765633"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6b71b3a4f32b1e7888abac85980b7e7c548be75c12c1080d2036a397209b764b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:06:47.296083+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c28a14104b369b2f2ec4a5b98f848ec53a6859d9cc5ecf7a4ad6e0465e7c918a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:06:47.296083+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "絶滅危惧種であるキタリュウコウチュウ Thymogethes norvegicus (Easton, 1959) の染色体レベルのゲノムアセンブリ",
+    "abstract_ja": "キタリュウキンカコガネ（Thymogethes norvegicus）はノルウェーの固有種と考えられており、絶滅危惧種に分類されている。その生活環は、ノルウェーで危急種に分類されている宿主植物のキタリュウキンカ（Dracocephalum ruyschiana）と密接に関連している。本報では、オスのT. norvegicusの染色体レベルのゲノムアセンブリを提示する。このアセンブリは、1,142 Mbおよび1,109 Mbの2つの擬似ハプロタイプhap1およびhap2からなり、それぞれ96.3%および96.8%が染色体にスキャフォールディングされている。hap1は8本の常染色体とX染色体を含み、hap2は8本の常染色体を含む。アセンブリの品質は高く、保存された単一コピーオーソログの完全性スコアは96.6%および90.7%、結合k-merの完全性は98.1%であった。hap1およびhap2には、それぞれ計13,484個および12,550個のタンパク質符号化遺伝子がアノテーションされた。本アセンブリは、危急種である植物キタリュウキンカに完全に依存しているこの絶滅危惧の固有種の保全にとって、貴重なゲノムリソースとなる。"
   }
 ]
