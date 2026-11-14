@@ -206056,5 +206056,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ニックDNAを認識するコヒーシンアセチル化複合体",
     "abstract_ja": "真核生物のDNA複製産物は、細胞分裂における忠実な継承を可能にするため、コヒーシンによって保持されている。安定した姉妹染色分体コヒージョンの確立には、コヒーシンSmc3 ATPase頭部にある2つの保存されたリシンの複製共役型アセチル化が必要である。本研究では、AlphaFold 3を用いて、複製タンパク質PCNA、コヒーシンサブユニットPds5、およびEco1アセチルトランスフェラーゼからなる酵母の芽形成期コヒーシンアセチル化複合体の存在を予測した。予測された複合体は、アセチル化を制御する複製フォーク決定因子であるニックDNAと特異的に接触する。さらに、コヒーシンの関与により、予測されたコンフォメーション適応が生じ、アセチルCoAがSmc3標的リシンの極めて近い距離まで接近する。我々は、この反応経路の予想される特徴を裏付ける生化学的および遺伝学的実験を行った。関連するコヒーシンアセチル化複合体は、ヒトを含む他の真核生物においても形成されると予測される。本研究は、AI支援による構造予測とウェットベンチ実験を組み合わせることで、姉妹染色分体コヒージョンの確立過程における複製共役型コヒーシンアセチル化の推定メカニズムを明らかにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.764933",
+    "title": "Amino acid clustering and epistasis guide sequence-based prediction of phenotype modulation",
+    "abstract": "Protein sequences encode the molecular information necessary for their biological function. As functional adaptation often emerges from combined effects of multiple positions, understanding how sequence variation gives rise to functional differences remains a central challenge. Here, we developed an improved strategy to identify phenotype modulating positions and use them to predict phenotypes, by relating amino acid identity to experimentally measured quantitative properties across families. Using family-specific sequence-phenotype datasets, our results show that epistasis plays a crucial role in phenotype modulation. Position specific amino acid clustering further improved performance indicating that key functional information is often captured by broad physicochemical amino acid classes, with hydrophobicity playing a crucial role in phenotype modulation. Our identified phenotype modulating positions involve both proximal and distal sites relative to functional sites. While the former is captured by individual positions, the latter is captured when epistasis is taken into account. Comparison with experimentally identified positions showed partial recovery of known functionally relevant residues, while at the same time revealing candidate positions that may contribute to phenotypic variation. Taken together, these results suggest that quantitative phenotypes are often governed by a network of interacting amino acid residues and may be engineered by a limited amount of sequence modifications. This finding highlights the potential of our framework to deepen our understanding of protein function, evolution, and adaptation, providing new targets for the rational modulation and engineering of protein phenotypes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764933",
+    "date": "2026-11-09",
+    "authors": "Hernandez Berthet AS, Sanchez IE, Noguera ME, Roman EA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362432",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "amino acid",
+        "clustering",
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2997,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.06.764933"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1be32f34b94d1ac62b3276a0f5169089043198285d9d7d8e3661f34d3509c086",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:50:10.584206+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "57edb41e26bd1c82de6479fb3915c6d5470443715ea13b5632f30976bd96a358",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:50:10.584206+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アミノ酸クラスタリングとエピスタシスによる表現型修飾の配列に基づく予測",
+    "abstract_ja": "タンパク質配列は、その生物学的機能に必要な分子情報をコードしている。機能的適応はしばしば複数の部位の複合的な効果によって生じるため、配列変異がいかにして機能的差異をもたらすかを理解することは、依然として中心的な課題である。本研究では、アミノ酸の同一性をファミリー間で実験的に測定された定量的特性に関連付けることで、表現型調節部位を同定し、それらを用いて表現型を予測する改良戦略を開発した。ファミリー特異的な配列－表現型データセットを用いた結果、エピスタシスが表現型調節において極めて重要な役割を果たしていることが示された。部位特異的なアミノ酸クラスタリングにより性能がさらに向上し、主要な機能的情報は広範な物理化学的アミノ酸クラスによって捉えられることが多く、中でも疎水性が表現型調節において重要な役割を果たすことが示された。同定された表現型調節部位には、機能的部位に対する近位および遠位の両方の部位が含まれていた。前者は個々の部位によって捉えられる一方、後者はエピスタシスを考慮した場合に捉えられた。実験的に同定された部位との比較により、機能的に関連することが知られている残基が部分的に復元されると同時に、表現型変異に寄与し得る候補部位が明らかになった。これらの結果を総合すると、定量的な表現型はしばしば相互作用するアミノ酸残基のネットワークによって支配されており、限られた量の配列修飾によって設計され得ることが示唆される。この知見は、タンパク質の機能、進化、および適応に関する理解を深める本フレームワークの可能性を浮き彫りにするものであり、タンパク質表現型の合理的調節および設計のための新たな標的を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.765004",
+    "title": "FACT frees Ubp10 from nucleosome sequestration after rapid H2B deubiquitination",
+    "abstract": "Chromatin-modifying enzymes must engage their substrate, act on it and release it, but which step limits their turnover is unclear. Using three-color single-molecule fluorescence, we directly visualized the yeast deubiquitinase Ubp10 removing ubiquitin from H2B on individual nucleosomes. Ubp10 cleaved the mark within seconds of binding, without detectable DNA unwrapping, yet it did not let go: ~80% of nucleosomes remained bound after 45 minutes, and unmodified nucleosomes formed similarly long-lived complexes. Ubp10 turnover is therefore limited by release rather than catalysis. The histone chaperone FACT relieved this bottleneck by accelerating Ubp10-nucleosome dissociation. In living yeast, nuclear depletion of the FACT subunit Spt16 increased the slowly diffusing, chromatin-bound fraction of nucleoplasmic Ubp10. These findings identify FACT-dependent release as a likely mechanism for recycling Ubp10 on chromatin. More broadly, a nucleosome can sequester the enzyme acting on it, making enzyme release a step at which chromatin modification can be controlled.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.765004",
+    "date": "2026-11-09",
+    "authors": "Merino-Urteaga R, Zaehringer J, Nune M, Wolberger C, Ha T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362351",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3002,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.06.765004"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7eb30870a3230361dded625c10a3e4a09efcd42578be5aaa26ffab78a8bbd103",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:50:10.584206+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3497ec6422be9c8ee5d8e97d52b2d78299ea66a1fa89b4dfdacdc97ceab214e4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:50:10.584206+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FACTは、迅速なH2B脱ユビキチン化を経て、Ubp10をヌクレオソームからの隔離から解放する。",
+    "abstract_ja": "クロマチン修飾酵素は、基質と結合して作用し、それを遊離させなければならないが、どの段階がターンオーバーを制限しているのかは明らかではない。我々は、3色単一分子蛍光法を用いて、酵母脱ユビキチン化酵素Ubp10が個々のヌクレオソーム上のH2Bからユビキチンを除去する様子を直接可視化した。Ubp10は結合後数秒以内に、検出可能なDNAの巻き戻しを伴わずに標識を切断したが、それでも遊離しなかった。45分後もヌクレオソームの約80%が結合したままであり、未修飾のヌクレオソームも同様に長寿命の複合体を形成した。したがって、Ubp10のターンオーバーは、触媒作用ではなく遊離によって制限されている。ヒストンシャペロンFACTは、Ubp10とヌクレオソームの解離を促進することで、このボトルネックを解消した。生酵母において、FACTサブユニットSpt16の核内枯渇は、拡散速度の遅いクロマチン結合型の核質Ubp10分画を増加させた。これらの知見は、FACT依存的な遊離が、クロマチン上におけるUbp10のリサイクルの有力なメカニズムであることを示している。より広範には、ヌクレオソームは自身に作用する酵素を隔離することができ、酵素の遊離はクロマチン修飾を制御し得る段階となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.22541/authorea.15011839/v1",
+    "title": "Parasitic manipulations may determine the fate of ecosystems",
+    "abstract": "The ecological importance of parasites has been increasingly recognized. Beyond effects on host survival and longevity, parasites induce phenotypic changes in their hosts that alter species interactions. Such changes are often called parasitic manipulations, a common phenomenon in which parasites alter the phenotypes of their hosts to increase their own fitness. In my manuscript, I introduce the idea that parasitic manipulations can determine the fate of ecosystems by directing them towards alternative stable states. Starting from a solitary, stochastic infection event, parasitic manipulations can generate positive feedback loops that practically irreversibly push an ecosystem along divergent developmental pathways. The specific path taken depends on the transmission strategy of the manipulative parasite colonizing the naïve community first. Using three ecologically realistic scenarios, I demonstrate how particular manipulative strategies can drive the assembly of communities that are virtually resistant to the invasion of alternative manipulative strategies. Furthermore, I outline how ecosystems, which I call ‘naïve to parasites’, arise and explain why such scenarios are likely to become more frequent in the Anthropocene, making parasitic manipulations increasingly important drivers of ecosystem dynamics. I then discuss possible empirical tests of this hypothesis and its potential limitations. Finally, I position my hypothesis within established ecological theory such as ecosystem engineering, regime shift theory, and the manipulative microbiome hypothesis.",
+    "journal": "",
+    "doi": "10.22541/authorea.15011839/v1",
+    "date": "2026-11-09",
+    "authors": "Gopko M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362245",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3003,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.22541/authorea.15011839/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4a64d6f355315a85b40dd3fd585f378f2c5b9e5b8ac248e221b513452755a5f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:50:10.584206+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2905dcfb54a24134684befc69f8912f676e660b298acc417a49c7556be3a8b39",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:50:10.584206+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "寄生的な操作が生態系の運命を決定づける可能性がある。",
+    "abstract_ja": "寄生生物の生態学的重要性はますます認識されるようになっている。宿主の生存や寿命への影響にとどまらず、寄生生物は宿主に表現型の変化を誘発し、種間相互作用を変容させる。こうした変化はしばしば「寄生的操作」と呼ばれ、寄生生物が自らの適応度を高めるために宿主の表現型を変化させるという一般的な現象である。本原稿では、寄生的操作が生態系を代替的な安定状態へと導くことで、その運命を決定づけ得るという考えを提示する。単独の確率的な感染事象を起点として、寄生的操作は正のフィードバックループを生成し、生態系を実質的に不可逆的に異なる発達経路へと押し進めることがある。具体的にどの経路をたどるかは、まず未操作の群集に定着する操作的寄生生物の伝播戦略に依存する。生態学的に現実的な3つのシナリオを用いて、特定の操作戦略が、代替的な操作戦略による侵入に対して実質的に耐性を持つ群集の形成をいかに促進し得るかを示す。さらに、私が「寄生生物に対して未操作」と呼ぶ生態系がどのように生じるかを概説し、なぜこのようなシナリオが人新世においてより頻繁に発生する可能性が高いのか、ひいては寄生的操作が生態系ダイナミクスのますます重要な駆動要因となる理由を説明する。続いて、この仮説に対する実証的な検証の可能性と、その潜在的な限界について論じる。最後に、本仮説を、生態系工学、レジームシフト理論、および操作的マイクロバイオーム仮説といった確立された生態学理論の中に位置づける。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11403689/v1",
+    "title": "Design, Additive Fabrication, and Prototype Validation of 3D-Printed PETG Microalgal Curtain- Wall Modules with Embedded Control",
+    "abstract": "Abstract  Building-integrated photobioreactors require façade components that reconcile geometric adaptability, manufacturability, liquid containment, modularity, and operational monitoring. This study develops a 3D-printed PETG microalgal curtain-wall module integrating parametric design, additive fabrication, embedded sensing, and prototype operation. Nine Rhino/Grasshopper-generated variants (150 × 150 mm) exhibited closed-mesh areas of 707.0–729.4 cm² and predicted filament demand of 29.75–30.54 g (CV 0.87%). Recorded printing times ranged from 100 to 125 min (CV 7.87%). A continuous single-wall spiral-vase strategy enabled transparent reactor prototypes for liquid filling and circulation. An STM32-based system provided multi-source sensing and rule-based pump actuation. Prototype tests showed liquid containment, pump-driven circulation with Spirulina (Arthrospira) culture medium, and preliminary multi-module assembly. The results establish the prototype-level building-engineering feasibility of additively manufactured bio-reactive curtain-wall modules while identifying the requirements for future façade-scale performance validation.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11403689/v1",
+    "date": "2026-11-09",
+    "authors": "Sheng B, Guo Y, Feng M, Chen Y, Zheng X, Chen L, Bardón CC, Chao Z, Bao D, Valladares OP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362183",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microalgal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3004,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.21203/rs.3.rs-11403689/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d55143acc1f80f6d1eb1ff0fd69367e5b32c1d2a6a831f8bc547a080919bfa14",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:50:10.584206+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2e2fc7bf037e21725e5dc234b107625c6f696cb4b7838829b14cf2b41f8788ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:50:10.584206+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "制御機能内蔵型3DプリントPETG微細藻類カーテンウォールモジュールの設計、積層造形および試作検証",
+    "abstract_ja": "要旨　建物一体型フォトバイオリアクターには、幾何学的適応性、製造性、液体封じ込め、モジュール性、および運用モニタリングを両立させるファサード構成要素が求められる。本研究では、パラメトリック設計、積層造形、組み込みセンシング、およびプロトタイプ運用を統合した、3DプリントPETG製微細藻類カーテンウォールモジュールを開発した。Rhino/Grasshopperで生成した9種類のバリエーション（150 × 150 mm）において、閉メッシュ面積は707.0–729.4 cm²、予測フィラメント需要は29.75–30.54 g（CV 0.87%）であった。記録されたプリント時間は100～125分の範囲であった（CV 7.87%）。連続単一壁のスパイラルベース構造戦略により、液体充填および循環のための透明なリアクタープロトタイプを実現した。STM32ベースのシステムにより、マルチソースセンシングとルールベースのポンプ駆動を実現した。プロトタイプ試験では、液体封じ込め、Spirulina (Arthrospira) 培養液を用いたポンプ駆動循環、および予備的なマルチモジュール組立が確認された。本成果は、積層造形によるバイオ反応性カーテンウォールモジュールのプロトタイプレベルにおける建築工学的な実現可能性を実証するとともに、将来的なファサードスケールでの性能検証に必要な要件を明らかにするものである。"
   }
 ]
