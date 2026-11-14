@@ -221291,5 +221291,341 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ケニア西部のCOVID-19パンデミック検体におけるSARS-CoV-2、A型インフルエンザおよび呼吸器合胞体ウイルス（RSV）の鑑別を目的とした、多重呼吸器RT-LAMPアッセイの設計とバリデーション",
     "abstract_ja": "COVID-19パンデミックは、パンデミックへの備えを確実にするため、広範かつアクセス可能なウイルスサーベイランスの重要性を浮き彫りにした。呼吸器感染症の迅速な診断は、効果的な患者管理のみならず、アウトブレイク検出のための継続的なサーベイランスにおいても極めて重要である。逆転写酵素ループ媒介等温増幅法（RT-LAMP）アッセイは、迅速かつ低コストであるため、資源の限られた環境における迅速かつ分散型の検査において、逆転写酵素ポリメラーゼ連鎖反応（RT-PCR）に代わる魅力的な選択肢となる。本報では、蛍光標識LAMPプローブを組み込むことで、SARS-CoV-2、A型インフルエンザ、および呼吸器合胞体ウイルスを同時に検出するマルチプレックスRT-LAMPアッセイの設計と評価について報告する。ケニアのキスムで実施されたMALCOVコホート研究の登録日に175名の参加者から採取した鼻腔スワブ検体を、RT-LAMPアッセイの評価に用いた。全体として、Allplex SARS-CoV-2/FluA/FluB/RSV RT-PCRキット（Seegene Inc）のリファレンステストにより、コホート内でSARS-CoV-2が114検体、A型インフルエンザが6検体、B型インフルエンザが2検体、RSVが0検体検出され、さらに53検体が陰性であった。RT-PCRと比較したRT-LAMPアッセイ（SARS-CoV-2/FluA/RSV）の感度および特異度は、全検体において40分時点でそれぞれ82.64%［CI95%: 74.70-88.92%］および100%［CI95%: 93.40-100%］であった。陽性結果が得られるまでの平均時間は11分であり、より一般的に用いられているRT-PCRと比較して本技術の迅速性が示された。RT-LAMPは、RT-PCRと同等の診断精度で、複数の病原体の迅速な検出を可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.1099/acmi.0.001276.v2",
+    "title": "Draft genome sequence of a potential new species of Mesorhizobium isolated from Neltuma juliflora, a tropical legume in Costa Rica",
+    "abstract": "We present the draft genome of the Mesorhizobium sp. LEGMi-168a strain isolated from Neltuma juliflora (Sw.) Raf. (Fabaceae, Caesalpinioideae) in Costa Rica. It exhibited an average nucleotide identity (ANI) of 91.88% and a digital DNA-DNA hybridization (dDDH) value of 49.90% compared to its closest relative, Mesorhizobium captivum van Lill et al. 2024 (VK22ET). Furthermore, the phylogenetic tree based on the 16S rRNA suggests that the strain belongs to a clade alongside Mesorhizobium shonense Degefu et al. 2013 (DSM 29846T) and Mesorhizobium sp. M1B.F.Ca.ET.045.04.1.1. However, the phylogenomic analyses suggest that this strain does not fall within any currently described species clade. Functional in silico annotation identified the presence of genes related to nodulation capacity (nodA, nodB, nodC, nodD, nodN, and nodO) and others associated with nitrogen fixation (fixU, nifA, nifB, nifE, nifH, nifN, nifQ, and nifW). The differences in ANI and dDDH values, combined with the phylogenomic position relative to known species observed in the in silico analysis, suggest that strain LEGMi-168a represents a potential new species. In this study, we presented the draft genome sequence of strain LEGMi-168a and provided genomic and phylogenetic evidence supporting its potential status as a novel Mesorhizobium species. The genome sequence provided a resource for future comparative, taxonomic, and symbiosis related studies of Mesorhizobium associated with leguminous plants.",
+    "journal": "",
+    "doi": "10.1099/acmi.0.001276.v2",
+    "date": "2026-11-03",
+    "authors": "Campos-Parra D, Jiménez-Fallas g, Mendoza-Guido B, Rojas-Jimenez K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357345",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2410,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/acmi.0.001276.v2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1bda4bf269a27ec78a6589a47d10e3f38ed54f2a8a354d0a3c46daef533b16eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:28:50.963243+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d0a185050b882dfe3406db4485757b44dce45dc75aa773ceb763aa468ff42de9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:28:50.963243+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コスタリカの熱帯マメ科植物Neltuma julifloraから分離されたMesorhizobium属の新種候補のドラフトゲノム配列",
+    "abstract_ja": "コスタリカのNeltuma juliflora (Sw.) Raf. (Fabaceae, Caesalpinioideae)から単離されたMesorhizobium sp. LEGMi-168a株のドラフトゲノムを提示する。本株は、最も近縁な種であるMesorhizobium captivum van Lill et al. 2024 (VK22ET)と比較して、平均塩基同一性 (ANI) 91.88%、デジタルDNA-DNAハイブリダイゼーション (dDDH) 値 49.90%を示した。さらに、16S rRNAに基づく系統樹からは、本株がMesorhizobium shonense Degefu et al. 2013 (DSM 29846T) およびMesorhizobium sp. M1B.F.Ca.ET.045.04.1.1と共に一つのクレードに属することが示唆される。しかし、フィロゲノミック解析の結果、この株は現在記載されているいずれの種クレードにも属さないことが示された。機能的なin silicoアノテーションにより、結節形成能に関連する遺伝子（nodA、nodB、nodC、nodD、nodN、nodO）および窒素固定に関連するその他の遺伝子（fixU、nifA、nifB、nifE、nifH、nifN、nifQ、nifW）の存在が同定された。ANIおよびdDDH値の差異と、in silico解析で観察された既知種に対するフィロゲノミック上の位置とを総合すると、LEGMi-168a株は潜在的な新種であると考えられる。本研究では、LEGMi-168a株のドラフトゲノム配列を提示し、本株が新規Mesorhizobium種である可能性を支持するゲノム学的および系統学的根拠を示した。本ゲノム配列は、マメ科植物に関連するMesorhizobiumの今後の比較研究、分類学的研究、および共生関連研究のためのリソースとなる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763557",
+    "title": "Oil biodegradation and marine oil snow formation in Arctic seawater microcosms at 4 °C",
+    "abstract": "Hudson Bay is a sub-Arctic inland sea characterized by seasonal sea-ice cover, which governs marine circulation, biological productivity, and ecosystem structure. In recent decades, the duration of sea-ice cover has declined, resulting in longer ice-free seasons that are expected to elevate marine activity and environmental exposure to anthropogenic disturbances. As such, the potential for oil spill incidents associated with increased marine operations is expected to rise. To understand microbial biodegradation dynamics associated with marine oil snow (MOS), seawater microcosms amended with diesel fuel were incubated at 4 °C for 6 weeks. We amended all our microcosms with UV-weathered Churchill diesel fuel at 1% (v/v). 16S rRNA sequencing of the incubations revealed a decline in overall microbial diversity and a dramatic increase in specialized oil-degrading taxa, with  Pseudomonas and  Pseudoalteromonas being the main taxa involved, as both effectively degrade hydrocarbons under ambient and stimulated conditions. Biostimulation with nutrients (NaNO  3 , KH  2 PO  4 ) and an alternative dispersant at 0.1% (v/v) resulted in a greater abundance of MOS aggregates and rapid enrichment of oil-degraders. Simple n-alkanes exhibited the highest biodegradation loss relative to complex polycyclic aromatic hydrocarbons (PAHs); however, biostimulation did not substantially enhance their degradation. Additionally, UV weathering resulted in a 22% loss of PAHs, which is three times higher than the UV loss observed for n-alkanes. Biostimulated samples exhibited an elevated transfer of high molecular weight alkanes and PAHs from the oil into the aqueous phase, accompanied by a rapid enrichment of oil-degrading taxa.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763557",
+    "date": "2026-11-03",
+    "authors": "Vidanage T, Desmond D, Isleifson D, Stern G, Collins RE.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358999",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Pseudomonas",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2429,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763557"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b88a11c9231e4d65e9c8272c4c8973a5359707b1f42cb715dbc8e0caef1330ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:28:50.963243+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c68844286a7ae5457dfc0cdf07e7b9206e82d008fd384981c135702b3bdfb739",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:28:50.963243+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "4 °Cの北極海海水マイクロコスムにおける石油の生分解と海洋油雪の形成",
+    "abstract_ja": "ハドソン湾は亜北極海の内海であり、季節的な海氷被覆を特徴とする。この海氷被覆は、海洋循環、生物生産性、および生態系構造を支配している。ここ数十年の間に海氷被覆の持続期間は短縮しており、その結果、無氷期が長期化し、海洋活動の活発化や人為的攪乱に対する環境曝露の増大が予想される。そのため、海洋操業の増加に伴う原油流出事故の発生リスクが高まると見込まれる。海洋油雪（MOS）に関連する微生物の生分解動態を解明するため、ディーゼル燃料を添加した海水マイクロコスムを4 °Cで6週間培養した。すべてのマイクロコスムに、UV風化処理を施したチャーチル社製ディーゼル燃料を1% (v/v) 添加した。培養液の16S rRNAシーケンシングにより、微生物多様性の全体的な低下と、特化した石油分解菌群の劇的な増加が認められた。特にPseudomonas属およびPseudoalteromonas属が主要な菌群であり、いずれも環境条件下および刺激条件下で効果的に炭化水素を分解した。栄養塩（NaNO 3, KH 2 PO 4）および代替分散剤を0.1% (v/v) で添加して生物刺激を行ったところ、MOS凝集体の存在量が増加し、石油分解菌が急速に濃縮された。単純なn-アルカンは、複雑な多環芳香族炭化水素（PAHs）と比較して最も高い生分解損失を示したが、生物刺激によってその分解能が著しく向上することはなかった。さらに、UV風化によりPAHsが22%減少したが、これはn-アルカンで観察されたUV損失の3倍に相当する。生物刺激を施した試料では、油相から水相への高分子量アルカンおよびPAHsの移行が亢進し、それに伴い石油分解菌が急速に濃縮された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.26366506",
+    "title": "Variant Classification of a Non-Protein Coding Gene: ACMG/AMP Specifications for  RMRP  from the Clinical Genome Resource Severe Combined Immunodeficiency Disease Variant Curation Expert Panel",
+    "abstract": "Purpose  This study, conducted by the Clinical Genome Resource Severe Combined Immunodeficiency Disease Variant Curation Expert Panel (ClinGen SCID-VCEP), aimed to adapt the American College of Medical Genetics and Genomics/Association for Molecular Pathology (ACMG/AMP) framework for germline variant interpretation in  RMRP . Unlike the protein-coding genes for which the framework was primarily developed,  RMRP encodes a non-protein-coding RNA. Biallelic pathogenic variants in  RMRP cause cartilage–hair hypoplasia, which can include severe combined immunodeficiency disease and other immune abnormalities.  Methods  An  RMRP -focused SCID-VCEP subgroup reviewed all 28 ACMG/AMP evidence criteria using population databases, published clinical and experimental data, computational predictions, and expert consensus. Each criterion was retained, modified, or designated as not applicable based on  RMRP biology and disease mechanisms. The resulting specifications were pilot tested using 27 variants selected from ClinVar and research laboratory data.  Results  Fifteen ACMG/AMP criteria were determined to be applicable to  RMRP , while 13 were considered not applicable. Several criteria were modified to evaluate nucleotide-level effects on transcriptional regulation, critical promoter regions, and RNA secondary structure. The specifications also incorporated  RMRP -specific recommendations for population frequency, functional evidence, variant phase, segregation, and phenotype. Application of the specifications classified 6 variants as pathogenic, 10 as likely pathogenic, 7 as variants of uncertain significance, and 4 as benign. Previously pathogenic or likely pathogenic variants remained within the pathogenic spectrum, and all previously benign variants remained benign. Variants with conflicting ClinVar interpretations were resolved as either likely pathogenic or uncertain. PM1, PM3, and PP4 were the primary criteria supporting pathogenic classifications.  Conclusion  The SCID-VCEP specifications provide a standardized approach to the classification of germline  RMRP variants in cartilage–hair hypoplasia and demonstrate how the ACMG/AMP framework can be adapted for a disease-associated non-protein-coding RNA gene. These specifications support the development of variant interpretation frameworks for other clinically relevant non-protein-coding genes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.26366506",
+    "date": "2026-11-03",
+    "authors": "Jacovas VC, Demirkol Y, Nieto-Patlan A, Martin S, McNulty S, Allenspach EJ, Vakkilainen S, Notarangelo LD, Puck JM, Walter J, Chan AY, Cowan MJ, Hershfield MS, van Oers NSC, Verbsky J, Chung BH, Ghosh R, Luo X, Piazza M, Schulze KV, Sivakumaran TA, Yuan B, Johnson BA, Chinn IK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357559",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "classification",
+        "gene",
+        "genome",
+        "protein",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2453,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.26366506"
+    ],
+    "translation": {
+      "title": {
+        "hash": "62899e6678196df4ff98d9b1facb84db70cd98480d4db0fe99459c13497958be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:28:50.963243+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9008de8f160e0a1eaea88d74f20925f1431276e0b1489d31ca468267b763b444",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:28:50.963243+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非タンパク質コード遺伝子のバリアント分類：臨床ゲノムリソース「重症複合免疫不全症バリアントキュレーション専門家パネル」によるRMRPのACMG/AMP仕様",
+    "abstract_ja": "目的  本研究は、臨床ゲノムリソース重症複合免疫不全症変異キュレーション専門家パネル（ClinGen SCID-VCEP）によって実施され、RMRPにおける生殖細胞系列変異の解釈に向けて、米国医学遺伝学・ゲノミクス学会／分子病理学会（ACMG/AMP）のフレームワークを適応させることを目的とした。同フレームワークが主に開発されたタンパク質符号化遺伝子とは異なり、RMRPは非タンパク質符号化RNAを符号化している。RMRPのバイアレル性病原性変異は軟骨・毛髪低形成を引き起こし、これには重症複合免疫不全症やその他の免疫異常が含まれることがある。  方法  RMRPに特化したSCID-VCEPサブグループが、集団データベース、公表済みの臨床および実験データ、計算予測、および専門家のコンセンサスを用いて、ACMG/AMPの全28のエビデンス基準を検討した。各基準は、RMRPの生物学および疾患機序に基づき、維持、修正、または適用外と判定された。得られた仕様は、ClinVarおよび研究室データから選定された27の変異を用いてパイロットテストが行われた。  結果  ACMG/AMP基準のうち15項目がRMRPに適用可能であると判定され、13項目は適用外とされた。いくつかの基準は、転写調節、重要なプロモーター領域、およびRNA二次構造に対するヌクレオチドレベルの影響を評価するように修正された。また、仕様には、集団頻度、機能的エビデンス、変異相、分離、および表現型に関するRMRP固有の推奨事項が組み込まれた。仕様の適用により、6つの変異が病原性、10個が病原性の可能性が高い、7個が意義不明の変異、4個が良性に分類された。以前に病原性または病原性の可能性が高いと判定された変異は病原性スペクトラム内に留まり、以前に良性と判定されたすべての変異は良性のままであった。ClinVarの解釈が相反する変異は、病原性の可能性が高いか、あるいは不確実であると判定された。PM1、PM3、およびPP4が、病原性分類を裏付ける主要な基準となった。  結論  SCID-VCEPの仕様は、軟骨・毛髪低形成における生殖細胞系列RMRP変異の分類に対する標準化されたアプローチを提供し、ACMG/AMPフレームワークを疾患関連の非タンパク質符号化RNA遺伝子にどのように適応させることができるかを示すものである。これらの仕様は、他の臨床的に関連のある非タンパク質符号化遺伝子に対する変異解釈フレームワークの開発を支援するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762447",
+    "title": "Unsupervised prioritization of gene-regulatory variants with isolation forests",
+    "abstract": "Most common variants occur in non-coding genomic regions. Numerous expression quantitative trait loci (eQTLs) can influence nearby gene expression. Across diverse traits and diseases, many genome-wide association study (GWAS) loci have been shown to colocalize with eQTLs, supporting gene-regulatory causal mechanisms. However, linkage disequilibrium (LD) obscures the identification of the causal variant(s), necessitating prioritization by functional annotations. Previously published variant prioritization tools relied on the machine-learning-based combination of diverse feature types like evolutionary conservation and chromatin information, whereas more recent deep learning tools learn and describe gene-regulatory DNA sequence grammar. However, the latter approaches often generate a large number of scores per variant. We designed a novel unsupervised machine-learning approach based on isolation forests to integrate the predictions from the broadly used Enformer deep learning model into a single gene-regulatory predictive score for each common variant. Our novel approach eQTL prediction with isolation forests (eQIF) demonstrates strong performance in predicting eQTLs and gene-regulatory GWAS variants. We show that top eQIF variants are located in evolutionarily conserved transcription factor binding site (TFBS) footprints, and that the frequency of top eQIF variants within overrepresented TFBS motifs recapitulates the motif information content. eQIF predictions are precomputed for 9,421,183 common variants and publicly available. Abstract Figure  Graphical Abstract. eQIF is a novel score for predicting the gene-regulatory impact of variants. eQIF is based on the top 20 principal components (PCs) from the publicly available precomputed Enformer deep-learning chromatin predictions overlapping common gnomAD variants. The PCs were provided to an isolation forest to learn global density within the multi-dimensional feature space. After training the model, it was applied to predict a global anomaly score (eQIF) for all gnomAD variants. eQIF was finally used for fine-mapped variant classification, functional variant discovery and precise prioritization of highly informative TFBS positions. Created in BioRender. Schmidt, A. W. (2026)  https://BioRender.com/6dgiji3",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762447",
+    "date": "2026-11-03",
+    "authors": "Schmidt AW, Rosendahl J, Laumen H, Ossowski S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357466",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2469,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762447"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bcfe99934dd8c4b532542465a56703d1862526ba4fc42445b147e82330b1454c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:28:50.963243+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "77d89f81e66dea584ad09c72c70479e13c6df9873bdf5cc17a287b0df0a95659",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:28:50.963243+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アイソレーションフォレストを用いた遺伝子調節バリアントの教師なし優先順位付け",
+    "abstract_ja": "最も一般的なバリアントは、非コード領域のゲノムに存在する。数多くの発現量的形質遺伝子座（eQTL）が、近傍の遺伝子発現に影響を及ぼし得る。多様な形質や疾患において、多くのゲノムワイド関連解析（GWAS）遺伝子座がeQTLと共局在することが示されており、遺伝子調節の因果メカニズムを裏付けている。しかし、連鎖不平衡（LD）により因果バリアントの同定が困難となるため、機能アノテーションによる優先順位付けが必要となる。従来発表されているバリアント優先順位付けツールは、進化的保存性やクロマチン情報といった多様な特徴量の組み合わせに基づく機械学習に依存していたが、より最近の深層学習ツールは、遺伝子調節DNA配列文法を学習し記述する。しかし、後者のアプローチではバリアントごとに膨大な数のスコアが生成されることが多い。我々は、アイソレーションフォレストに基づく新たな教師なし機械学習アプローチを設計し、広く利用されているEnformer深層学習モデルによる予測を、各一般的なバリアントに対する単一の遺伝子調節予測スコアへと統合した。我々の新たなアイソレーションフォレストを用いたeQTL予測手法（eQIF）は、eQTLおよび遺伝子調節GWASバリアントの予測において高い性能を示す。我々は、上位のeQIFバリアントが進化的に保存された転写因子結合部位（TFBS）フットプリントに位置していること、および、過剰に発現しているTFBSモチーフにおける上位eQIFバリアントの頻度が、モチーフの情報含有量を再現していることを示す。eQIF予測は9,421,183個の一般的なバリアントについて事前計算されており、公開されている。要旨 図 グラフィカル要旨。eQIFは、バリアントの遺伝子調節への影響を予測するための新たなスコアである。eQIFは、一般的なgnomADバリアントと重複する、公開されている事前計算済みのEnformer深層学習クロマチン予測から得られた上位20個の主成分（PC）に基づいている。これらのPCをアイソレーションフォレストに入力し、多次元特徴空間における大域的な密度を学習させた。モデルの学習後、すべてのgnomADバリアントに対する大域的異常スコア（eQIF）の予測に適用した。最終的に、eQIFはファインマップされたバリアントの分類、機能的バリアントの発見、および情報量の多いTFBS位置の精密な優先順位付けに使用された。BioRenderで作成。Schmidt, A. W. (2026)  https://BioRender.com/6dgiji3"
   }
 ]
