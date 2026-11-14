@@ -219997,5 +219997,335 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "メタゲノムシーケンシングを用いた中等症～重症アトピー性皮膚炎の成人患者におけるデュピルマブおよびヤヌスキナーゼ1選択的阻害薬の皮膚マイクロバイオームへの差異的影響：BioDayレジストリの結果",
     "abstract_ja": "要旨    背景  アトピー性皮膚炎（AD）における皮膚マイクロバイオームは、細菌多様性の低下と黄色ブドウ球菌（Staphylococcus aureus）の定着増加を特徴とする。デュピルマブは成人AD患者の皮膚マイクロバイオームを改善することが示されているが、ヤヌスキナーゼ1選択的阻害薬（JAK1-i）の効果についてはほとんど解明されていない。したがって、本研究の目的は、成人AD患者の皮膚マイクロバイオームに対するデュピルマブとJAK1-iの差異的な影響を評価することであった。皮膚スワブは、デュピルマブ投与患者（N = 10）からベースライン（T0）および16週（T16）の病変部／顔面から、JAK1-i投与患者（N = 15）からT0、4週（T4）および28週（T28）の病変部／顔面から、そして健常対照群（HCs; N = 17）から単一時点で採取した。微生物組成および多様性の評価には、ショットガンメタゲノムシーケンシングを用いた。結果  両治療において、湿疹面積・重症度指数（EASI）スコアは経時的に有意に低下した（デュピルマブ投与では16週後にp S. aureusの存在量が有意に減少したのに対し、JAK1-i投与では28週後に有意差のない減少が認められた）。微生物多様性はデュピルマブ投与患者で増加し、健常対照群で観察されるレベルに近づいたが、JAK1-i投与ではそのような変化は認められなかった。両群ともに、常在菌および真菌の存在量は健常対照群よりも少ないままであった。結論  臨床的改善は同程度であったものの、デュピルマブはJAK1-iと比較して、皮膚マイクロバイオームを健常皮膚方向へより顕著に変化させた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10978238/v1",
+    "title": "Family-specific structure in infant gut viromes enables closed-set mother-child matching",
+    "abstract": "Abstract  The early-life gut virome differs so strongly between individuals that the variation is usually treated as noise. We show it is structured by family, specifically enough that a child's virus set points to their own mother. Across 2,664 catalogue metagenomes, 142 twin libraries and 284 shotgun metagenomes re-quantified from raw reads, we ranked 32 candidate mothers by viral overlap with each of 125 child samples from 32 families. Using all detected vOTUs, the true mother ranked first for 67 of 125 samples (53.6%; median rank 1), against a median sample-level accuracy of 2.4% after permuting maternal labels across families. The mean within-family accuracy was 52.0% (family bootstrap 95% confidence interval 37.2% to 66.6%), and the true mother ranked first at least once in 22 of 32 families. Specificity comes from where the background is empty, not where the signal is large: the own-mother excess is largest for viruses of intermediate prevalence (+ 0.64) and small for the rarest (+ 0.09), yet rare viruses discriminate best because unrelated pairs share almost none. The same asymmetry appears independently in the twin cohort, where rare-virus sharing separates co-twins from unrelated pairs at AUC 0.997. Matching is not merely taxonomic: median agreement across cohort-variable consensus positions in shared vOTUs was 1.000 for mother-child pairs against 0.768 for unrelated pairs, positive in all 24 evaluable families. These findings support family structure in infant viromes, with additional within-vOTU consensus-sequence concordance in the evaluable subset of shared viruses. The comparisons are closed-set and do not resolve transmission direction or separate maternal acquisition from continued shared exposure.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10978238/v1",
+    "date": "2026-11-03",
+    "authors": "Wang A, Lai L, Johnson CP, Yang X, Ye C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356521",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomes",
+        "viral",
+        "virome",
+        "viromes",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 413,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10978238/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "76ae5405ab12467ea4fa1129f41f4e826f09f2a5608904f143cc6f3845489559",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:15:53.896615+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "41dcbb08dbfb16e2e262e93c682f62c8ec26be54b702ae1384b01b2eaeef24be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:15:53.896615+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "乳児腸内バイロームの家族特異的構造が母子のクローズドセットマッチングを可能にする",
+    "abstract_ja": "要旨　乳幼児期の腸内ウイルス叢は個体間の差異が極めて大きいため、その変動は通常ノイズとして扱われる。本研究では、これが家族単位で構造化されており、具体的には、児のウイルスセットが自身の母親を指し示すほどに構造化されていることを示す。カタログ化された2,664件のメタゲノム、142件のツインライブラリ、および生リードから再定量化した284件のショットガンメタゲノムを対象に、32家族の125の児サンプルそれぞれとのウイルス重複に基づき、32組の母親候補を順位付けした。検出されたすべてのvOTUを用いたところ、家族間で母親ラベルを置換した後のサンプルレベルの精度の中央値が2.4%であったのに対し、125サンプル中67サンプル（53.6%、順位中央値1）で真の母親が1位となった。家族内精度の平均値は52.0%（家族ブートストラップ95%信頼区間 37.2%～66.6%）であり、32家族中22家族において真の母親が少なくとも1回は1位となった。この特異性は、シグナルが大きい箇所ではなく、背景が空である箇所に起因する。すなわち、自身の母親に偏る傾向は、中程度の頻度のウイルスで最大（+ 0.64）、最も稀なウイルスで最小（+ 0.09）であったが、無関係なペア間ではほとんど共有されないため、稀なウイルスが最も識別能が高い。同様の非対称性はツインコホートにおいても独立して認められ、稀なウイルスの共有により、共双生児と無関係なペアがAUC 0.997で区別された。この一致は単なる分類学的なものではない。共有vOTUにおけるコホート変数のコンセンサス位置の中央値一致度は、母親・児ペアで1.000であったのに対し、無関係なペアでは0.768であり、評価可能な全24家族において正の値を示した。これらの知見は、乳児ウイルス叢における家族構造を支持するものであり、さらに評価可能な共有ウイルスのサブセットにおいて、vOTU内のコンセンサス配列の一致も認められた。これらの比較はクローズドセットであり、伝播方向や、母親による獲得と継続的な共有曝露の分離を明らかにするものではない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11548844/v1",
+    "title": "AI-driven structural informatics reveals diverse glycosylation machinery across double-stranded DNA viruses",
+    "abstract": "Abstract  Glycosylation is widespread in biology and shapes molecular recognition, yet the diversity and biosynthetic organization of viral glycosyltransferases (GTs) remain poorly understood. Here we integrate structural-alphabet-guided searches and structure similarity networks with genomic-neighbourhood and biosynthetic gene cluster embedding analyses to examine viral GT-A proteins. This approach reveals extensive structural diversity overlooked by sequence-based annotation, including previously uncharacterized viral GT lineages. Most strikingly, we identified a jumbo-phage locus encoding five tandem glycosyltransferases alongside hydroxymethyl-pyrimidine biosynthetic and sulfation-associated enzymes, suggesting a previously unrecognized form of viral DNA modification involving a sulfated pentasaccharide. Beyond these examples, predicted saccharide-associated loci span divergent double-stranded DNA viruses, from giant viruses to tailed phages, and occupy multiple regions of the reference biosynthetic landscape. Together, our findings uncover an underappreciated repertoire of virus-encoded glycosylation machinery and suggest that viral glycan biosynthesis encompasses diverse molecular contexts and potential biological functions.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11548844/v1",
+    "date": "2026-11-03",
+    "authors": "Na L, Tajule R, Fang R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356101",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "phage",
+        "phages",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 414,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11548844/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "90254ad10f075e9798ce4bf066c4df1d3e337fd631e5d928968d7ddf92937724",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:15:53.896615+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6849774e19f026246cd74ad95e79b406c0cdbebe952741c9ddaac076f5969557",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:15:53.896615+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "AIを活用した構造情報学により、二本鎖DNAウイルスにおける多様な糖鎖付加機構が明らかとなった",
+    "abstract_ja": "要旨　糖鎖付加は生物学全般に広く見られ、分子認識を規定しているが、ウイルス糖転移酵素（GT）の多様性と生合成上の構成については依然として十分に解明されていない。本研究では、構造アルファベット誘導型探索および構造類似性ネットワークを、ゲノム近傍解析および生合成遺伝子クラスター埋め込み解析と統合し、ウイルスGT-Aタンパク質を検討した。このアプローチにより、配列に基づくアノテーションでは見落とされていた広範な構造的多様性が明らかになり、これまで特性解析されていなかったウイルスGT系統も含まれていた。最も特筆すべきは、5つのタンデム糖転移酵素に加え、ヒドロキシメチルピリミジン生合成酵素および硫酸化関連酵素をコードするジャンボファージ遺伝子座を同定したことであり、これは硫酸化五糖が関与する、これまで認識されていなかった形態のウイルスDNA修飾を示唆している。これらの例に加え、予測された糖鎖関連遺伝子座は、巨大ウイルスから尾部ファージに至るまで、異なる二本鎖DNAウイルスにわたって分布し、参照生合成ランドスケープの複数の領域を占めている。以上の知見を総合すると、ウイルスがコードする糖鎖付加機構の過小評価されていたレパートリーが明らかになり、ウイルスの糖鎖生合成が多様な分子的コンテキストと潜在的な生物学的機能を包含していることが示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.31.762157",
+    "title": "Biosensor-guided genome-wide CRISPR screens enable  cis  ,  cis  -muconic acid overproduction in yeast",
+    "abstract": "ABSTRACT  Classical pathway metabolic engineering relies on enhancing strain productivity through the introduction of rationally identified genetic perturbations, which while useful, are time-consuming and miss unintuitive targets. Genome-wide CRISPR screens offer an alternative by efficiently sampling genomes, enabling the engineering of novel phenotypes, and are further enhanced when combined with high-throughput strain interrogation methods. Here, using  Saccharomyces cerevisiae , we engineered small molecule biosensors into population enrichment tools using zeocin resistance and fluorescence as signal outputs. We then introduced the multi-functional genome-wide CRISPR (MAGIC) library that targets every gene for activation, interference, or deletion, thus creating biosensor-aided MAGIC, or senMAGIC. As a case study, we utilized senMAGIC to identify single genetic determinants that improve productivity of the nylon precursors protocatechuic and  cis ,  cis -muconic acids (PCA and ccM). These were then randomly assembled as triple gRNA-tRNA arrays for multiplexed gene perturbations to identify combinatorial effects. Top gRNA hits were then confirmed using direct genomic integrations in senMAGIC-free production strains, resulting in identifying known as well as novel targets that increase PCA and ccM titres. Our results demonstrate senMAGIC as a robust automation-friendly whole-genome evolution tool and highlight limitations of the method, providing a roadmap for future multifunctional CRISPR screens to optimize host metabolism for efficient bioprocesses.",
+    "journal": "",
+    "doi": "10.64898/2026.10.31.762157",
+    "date": "2026-11-03",
+    "authors": "Nasr MA, Knoops A, Thornbury M, Davies M, Kwan DH, Martin VJ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357676",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 661,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.31.762157"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e876f368fc5974b30a3369069465dfd70ed2331be2f45e1401230a3dddc618bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:15:53.896615+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4c0d26a6266d557f99172a7a75c439eaad27e88fb6845fdad2b824d3d541d0f2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:15:53.896615+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バイオセンサー誘導型ゲノムワイドCRISPRスクリーニングにより、酵母におけるcis-mucon酸の過剰産生が可能となる。",
+    "abstract_ja": "要旨　古典的な経路代謝工学は、合理的に同定された遺伝的摂動の導入による菌株生産性の向上に依存している。こうした手法は有用である一方、時間を要し、直感的ではない標的を見逃す傾向がある。ゲノムワイドCRISPRスクリーニングは、ゲノムを効率的にサンプリングすることで新たな表現型の工学的改変を可能にする代替手段となり、ハイスループットな菌株解析手法と組み合わせることでさらに強化される。本研究では、Saccharomyces cerevisiaeを用い、ゼオシン耐性と蛍光をシグナル出力とする低分子バイオセンサーを集団濃縮ツールへと改変した。次いで、あらゆる遺伝子を活性化、干渉、または欠失の標的とする多機能ゲノムワイドCRISPR（MAGIC）ライブラリを導入し、バイオセンサー支援型MAGIC（senMAGIC）を構築した。ケーススタディとして、senMAGICを用いて、ナイロン前駆体であるプロトカテク酸およびシス-ムコン酸（PCAおよびccM）の生産性を向上させる単一の遺伝的決定因子を同定した。これらを、組み合わせ効果を同定するための多重遺伝子摂動用トリプルgRNA-tRNAアレイとしてランダムにアセンブルした。得られた上位のgRNAヒットをsenMAGIC非保有の生産株における直接的なゲノム組み込みにより確認した結果、PCAおよびccMの力価を上昇させる既知および新規の標的を同定することができた。本結果は、senMAGICが堅牢で自動化に適した全ゲノム進化ツールであることを実証するとともに、本手法の限界を浮き彫りにし、効率的なバイオプロセスに向けて宿主代謝を最適化するための将来的な多機能CRISPRスクリーニングのロードマップを提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.32942/x2mh58",
+    "title": "Resurrecting host–microbiome interactions: combining resurrection ecology and microbiome transplants to test temporal local adaptation",
+    "abstract": "Host-associated microbiomes can influence fitness, respond rapidly to environmental change, and potentially contribute to host adaptation. Yet, determining whether host–microbiome associations evolve adaptively over ecological timescales remains challenging because historical host genotypes and their associated microbial communities are rarely available for experimental comparison. Resurrection ecology offers a means of recovering historical host genotypes from dormant propagules, while microbiome transplantation provides an experimental approach for testing the effects of microbial communities on host performance. Combining these approaches could enable direct tests of temporal local adaptation in host–microbiome associations. Freshwater Daphnia provide a promising model because their dormant eggs can persist in lake sediments, allowing historical host genotypes to be resurrected. However, the microbiota associated with dormant eggs may originate from multiple sources, including ancestral hosts, lake water, and surrounding sediment, complicating the recovery of historically associated microbial communities. We outline a framework combining sediment archives, host resurrection, microbiome characterisation, and reciprocal transplantation experiments to test whether historical and contemporary hosts perform better with microbiomes from their respective time periods. We discuss the conceptual predictions, methodological challenges, and experimental controls required to distinguish temporal local adaptation from microbial environmental effects, host-genotype specificity, and changes in community composition. This framework could extend resurrection ecology beyond host evolution to experimentally investigate the historical evolution of host–microbiome interactions.",
+    "journal": "",
+    "doi": "10.32942/x2mh58",
+    "date": "2026-11-03",
+    "authors": "Paplauskas S, Frisch D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357346",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "lake"
+        ],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 663,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.32942/x2mh58"
+    ],
+    "translation": {
+      "title": {
+        "hash": "00e254b3e35f63bb582e708b5303664c79f05ef71ff797393c484bef7b351327",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:15:53.896615+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4b512a292cbc0dfc8cf96f6a443f78ca2f094d5efa80d67b9d094c86b611428d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:15:53.896615+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主－微生物叢相互作用の再活性化：再活性化生態学と微生物叢移植を組み合わせた時間的局所適応の検証",
+    "abstract_ja": "宿主関連マイクロバイオームは、適応度に影響を与え、環境変化に迅速に反応し、宿主の適応に寄与する可能性がある。しかし、歴史的な宿主遺伝子型とそれに関連する微生物群集を実験的に比較できる例が稀であるため、宿主とマイクロバイオームの関連性が生態学的時間スケールで適応的に進化するかどうかを解明することは依然として困難である。復活生態学は、休眠状態の繁殖子から歴史的な宿主遺伝子型を復元する手段を提供し、一方でマイクロバイオーム移植は、微生物群集が宿主の性能に及ぼす影響を検証するための実験的アプローチを提供する。これらのアプローチを組み合わせることで、宿主とマイクロバイオームの関連性における時間的局所適応を直接的に検証できる可能性がある。淡水ミジンコは、休眠卵が湖底堆積物の中で生存し続けることができ、歴史的な宿主遺伝子型の復活を可能にするため、有望なモデルとなる。しかし、休眠卵に関連する微生物叢は、祖先宿主、湖水、周囲の堆積物など複数の供給源に由来する場合があり、歴史的に関連していた微生物群集の復元を複雑にする。本稿では、堆積物アーカイブ、宿主の復活、マイクロバイオーム特性解析、および相互移植実験を組み合わせた枠組みを提示し、歴史的な宿主と現代の宿主が、それぞれ対応する時代のマイクロバイオームにおいてより優れた性能を示すかどうかを検証する。また、時間的局所適応を微生物の環境効果から区別するために必要な概念的予測、方法論的課題、実験的制御、宿主遺伝子型特異性、および群集組成の変化について論じる。この枠組みは、復活生態学を宿主の進化の枠を超えて拡張し、宿主とマイクロバイオームの相互作用の歴史的進化を実験的に調査することを可能にするものである。"
   }
 ]
