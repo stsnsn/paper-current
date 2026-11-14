@@ -225852,5 +225852,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "バイオフィルム関連感染症に対する蜂蜜由来抗菌バイオマテリアルの翻訳的妥当性",
     "abstract_ja": "慢性的なバイオフィルム関連感染症は、しばしば効果が不十分な長期の全身性抗菌薬療法を通じて、薬剤耐性（AMR）を助長する。Apis melliferaおよび刺針のないハチ（Meliponini）の蜂蜜は、浸透圧ストレス、低pH、過酸化水素、メチルグリオキサール、ビーデフェンシン-1、ならびにフェノール性および有機化合物という相補的な機序を介して、抗菌活性および抗バイオフィルム活性を示す。これは、塗布部位に濃縮された場合に最も効果を発揮する。しかし、蜂蜜による治療は、生物学的に整合性のない薬物動態にもかかわらず、しばしば全身性ニュートラシューティカルズとして位置づけられる。我々は、空間的、時間的、用量的、および組成的な整合性という、相互に依存する4つの次元に基づいた分析枠組みである「トランスレーショナルな妥当性（translational plausibility）」を提案する。この枠組みは、微生物学的に妥当な介入と推測に基づく介入を区別するものであり、蜂蜜のみならず天然物系抗菌薬にも適用可能である。蜂蜜に適用した場合、この枠組みは、局所的な塗布こそが唯一トランスレーショナルに整合性のある臨床的経路であることを明らかにする。生態学的治療バイオマテリアルとして再定義された蜂蜜は、多微生物ESKAPEバイオフィルムの破壊、遠隔微生物叢の保全、創傷ケアにおける全身性抗菌薬の使用削減、抗菌薬の増強、およびスチュワードシップの支援という、相互に関連するAMRの優先課題に対処する。地球規模の健康上の利益、授粉媒介者の保全、メリポニカルチャー、および公平なアクセスは、主たる正当化理由ではなく、付随的な成果として導き出される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "systematic review",
+      "systematic-review",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1907410",
+    "title": "Comparative efficacy of gut microbiota-targeted therapies for motor and non-motor symptoms in Parkinson's disease: a systematic review and network meta-analysis.",
+    "abstract": "BackgroundGut dysbiosis may contribute to Parkinson's disease (PD) through the microbiota-gut-brain axis. Probiotics, synbiotics, and fecal microbiota transplantation (FMT) have been studied as potential treatments, but their comparative effects remain uncertain.MethodsWe searched trial registries and electronic databases from inception to April 1, 2026 for randomized controlled trials of gut microbiota-targeted therapies in PD. We performed a frequentist network meta-analysis. Risk of bias was assessed with Cochrane RoB 2, and confidence in the evidence was assessed with CINeMA. Treatment rankings were summarized using SUCRA values.ResultsNineteen RCTs involving 1,156 participants and five treatment options (FMT, probiotics, synbiotics, routine care, and placebo) were included. Probiotics increased spontaneous bowel movement (SBM) frequency compared with placebo (MD = 1.93, 95% CI: 0.23 to 3.64; SUCRA = 88.3%). In the oral-administration subgroup, probiotics (MD = 2.01, 95% CI: 0.64 to 3.39) and synbiotics (MD = 1.23, 95% CI: 0.01 to 2.45) increased SBM frequency. No active treatment significantly improved MDS-UPDRS III scores compared with placebo, although synbiotics and FMT had higher SUCRA rankings. Evidence certainty was Moderate for oral probiotics on SBM frequency and Low to Very Low for motor function and quality of life.ConclusionOral probiotics improved SBM frequency in patients with PD. Evidence for motor function and quality of life was uncertain, and the higher rankings of FMT and synbiotics should be considered exploratory. Larger head-to-head randomized trials are needed.Systematic review registrationhttps://www.crd.york.ac.uk/PROSPERO/recorddashboard.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1907410",
+    "date": "2026-10-26",
+    "authors": "Yang X, Li Y, Hu Q, Pan X, Hong J, Li L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43005077",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13745344",
+    "pmid": "43005077",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4400,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1907410"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c4a6aaa86473c54fe5cd5f7b12c37900cb19426c4cfd765d2b1d8c9df376cd96",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:19:50.385228+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5efbcd5cf67a6b975d48fab9c9d386c21dbb561d372a0998b488805e19302eb9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:19:50.385228+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パーキンソン病の運動症状および非運動症状に対する腸内細菌叢を標的とした治療法の有効性比較：システマティックレビューおよびネットワークメタ解析",
+    "abstract_ja": "背景腸内細菌叢の乱れは、微生物叢-腸-脳軸を介してパーキンソン病（PD）に関与している可能性がある。プロバイオティクス、シンバイオティクス、および糞便微生物移植（FMT）が潜在的な治療法として研究されてきたが、その比較効果は依然として不確実である。方法PDにおける腸内細菌叢を標的とした治療法のランダム化比較試験を、試験開始当初から2026年4月1日までの試験レジストリおよび電子データベースから検索した。頻度主義的ネットワークメタ解析を実施した。バイアスリスクはCochrane RoB 2を用いて評価し、エビデンスへの信頼度はCINeMAを用いて評価した。治療の順位付けはSUCRA値を用いてまとめた。結果参加者1,156名、5つの治療選択肢（FMT、プロバイオティクス、シンバイオティクス、通常ケア、プラセボ）を含む19件のRCTが組み入れられた。プロバイオティクスは、プラセボと比較して自発排便（SBM）頻度を増加させた（MD = 1.93, 95% CI: 0.23～3.64; SUCRA = 88.3%）。経口投与サブグループでは、プロバイオティクス（MD = 2.01, 95% CI: 0.64～3.39）およびシンバイオティクス（MD = 1.23, 95% CI: 0.01～2.45）がSBM頻度を増加させた。プラセボと比較して、活性治療によるMDS-UPDRS IIIスコアの有意な改善は認められなかったが、シンバイオティクスおよびFMTはより高いSUCRA順位を示した。エビデンスの確実性は、経口プロバイオティクスのSBM頻度については「中程度」、運動機能および生活の質については「低い～極めて低い」であった。結論経口プロバイオティクスは、PD患者においてSBM頻度を改善させた。運動機能および生活の質に関するエビデンスは不確実であり、FMTおよびシンバイオティクスのより高い順位は探索的なものと考えるべきである。より大規模な直接比較ランダム化試験が必要である。システマティックレビュー登録https://www.crd.york.ac.uk/PROSPERO/recorddashboard."
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763241",
+    "title": "GSET: Gene Signals from Embedding Trajectories select compact contexts for mechanistic GRN inference",
+    "abstract": "Mechanistic inference of gene regulatory networks from temporal transcriptomic data can become computationally prohibitive at transcriptome scale, making gene selection an important determinant of which regulatory relationships can be recovered. However, gene selection for GRN inference commonly relies on static expression or co-expression structure, rather than prioritizing dynamically informative genes whose temporal patterns capture how transcriptional programs change and relate to one another. We introduce GSET (Gene Signals from Embedding Trajectories), an upstream retrieval framework that extracts dynamic information from temporal gene embeddings using two complementary signals: an optimal transport residual, which captures gene-specific deviations from global embedding movement, and a KL divergence, which detects changes in local co-expression neighborhoods. Temporal gene-embedding similarity identifies static transcriptional programs, whereas vectorial GSET signals represent coordinated temporal changes among genes, complementing this static structure. Lagged comparisons of these signals further prioritize temporal relationships between programs and candidate bridge genes associated with their transitions. Integrated with CardamomOT, GSET combines static program cores with dynamically retrieved bridge genes into compact, program-informed gene sets for mechanistic GRN inference. In synthetic benchmarks, at equal gene budget these sets recover more of the regulatory links between programs than static selections of the same size, and inference on the edges within the set is comparable to that of the full-gene model on the same gene pairs. On a time course of mouse fibroblasts reprogrammed into induced pluripotent stem cells, GSET traces the transition from the fibroblast program to the cell-cycle program. By providing a dynamic retrieval layer upstream of GRN inference, GSET nominates bridge genes as candidate regulators of cell-state transitions, which, once refined by a mechanistic model such as CardamomOT and confirmed by perturbation experiments, could open the way to controlling these transitions.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763241",
+    "date": "2026-11-03",
+    "authors": "Weizmann Z, Ventre E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358988",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "inference"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2996,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.763241"
+    ],
+    "translation": {
+      "title": {
+        "hash": "93dbba1b42489cb783f48224387c273eb9f763703780f19b632aeee463501c53",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:19:50.385228+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4a174bef3702a0a349062ff8d0b8e1ae2efc16404ff6c81aa12191f8a507334e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:19:50.385228+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GSET: 埋め込み軌跡からの遺伝子シグナルが機構的GRN推論のためのコンパクトなコンテキストを選択する",
+    "abstract_ja": "時系列トランスクリプトームデータからの遺伝子調節ネットワークの機構的推論は、トランスクリプトーム規模になると計算コストが極めて高くなる可能性があり、遺伝子選択がどの調節関係を復元できるかを決定する重要な要因となる。しかし、GRN推論のための遺伝子選択は、転写プログラムの変化や相互関係を捉える時系列パターンを持つ動的に情報量の多い遺伝子を優先するのではなく、静的な発現構造や共発現構造に依存することが多い。本研究では、2つの相補的なシグナル、すなわちグローバルな埋め込み移動からの遺伝子固有の偏差を捉える最適輸送残差と、局所的な共発現近傍の変化を検出するKLダイバージェンスを用いて、時系列遺伝子埋め込みから動的情報を抽出するアップストリーム検索フレームワークGSET（Gene Signals from Embedding Trajectories）を提案する。時系列遺伝子埋め込みの類似性は静的な転写プログラムを特定する一方、ベクトル形式のGSETシグナルは遺伝子間の協調的な時系列変化を表し、この静的な構造を補完する。これらのシグナルを遅行比較することで、プログラム間の時系列関係や、その遷移に関連する候補ブリッジ遺伝子をさらに優先させる。CardamomOTと統合することで、GSETは静的なプログラムコアと動的に検索されたブリッジ遺伝子を組み合わせ、機構的GRN推論のためのコンパクトでプログラム情報に基づいた遺伝子セットを構築する。合成ベンチマークにおいて、同一の遺伝子予算条件下では、これらのセットは同規模の静的選択よりも多くのプログラム間調節リンクを復元でき、セット内のエッジに関する推論は、同一の遺伝子ペアを用いた全遺伝子モデルの推論と同等である。誘導多能性幹細胞へとリプログラミングされたマウス線維芽細胞のタイムコースにおいて、GSETは線維芽細胞プログラムから細胞周期プログラムへの遷移を追跡する。GRN推論の上流に動的検索レイヤーを提供することで、GSETはブリッジ遺伝子を細胞状態遷移の候補調節因子として指名する。これらがCardamomOTのような機構的モデルによって精緻化され、摂動実験によって確認されれば、これらの遷移を制御する道が開かれる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.31.763146",
+    "title": "Lac1-dependent ceramide synthesis couples septum assembly to cell separation in  Schizosaccharomyces pombe",
+    "abstract": "ABSTRACT  Ceramides are precursors of complex sphingolipids and bioactive membrane lipids. In the fission yeast  Schizosaccharomyces pombe , they are produced by a ceramide synthase with two catalytic subunits, Lac1 and Lag1, which are redundant but not functionally equivalent: only Lac1 is required for normal growth and cell size. Why Lac1 has this unique role, and how ceramide synthesis contributes to cell morphogenesis, remain unknown. Here, we show that Lac1 couples septum assembly to cell separation. Cells lacking Lac1 die predominantly during cell separation and build septa with a thinner primary layer and markedly thicker secondary layers, accompanied by altered deposition of β-(1,3)-glucans and galactomannan. These defects are not rescued by osmotic stabilization. The essential glucan synthase Bgs4 is mislocalized to cytoplasmic granules, and total β-(1,3)-glucan synthase activity is partially reduced. Nevertheless, Ags1, Bgs1 and Bgs4 accumulate to higher levels and persist almost twice as long at the division site, indicating defective clearance rather than delivery of the septum-synthesis machinery. Plasma membrane sterol distribution remains unaffected. To accurately impair ceramide synthesis, we isolated thermosensitive  lac1-ts alleles in a  lag1 Δ background. Their substitutions cluster in the conserved TRAM/LAG1 domain. Metabolic labeling showed that these alleles reduce ceramide synthesis at the restrictive temperature. Molecular dynamics simulations indicated that two substitutions perturb distinct contacts with C26-CoA, while Lac1-M167T loses its endoplasmic reticulum localization. Acute inactivation recapitulates the deletion phenotype, causing septum accumulation and cell death. Together, our findings establish that Lac1-dependent ceramide synthesis is required for the orderly completion of septum assembly and cell separation.",
+    "journal": "",
+    "doi": "10.64898/2026.10.31.763146",
+    "date": "2026-11-03",
+    "authors": "Serrano A, Gómez-Delgado L, Hanaoka K, Matsunaga K, Funato K, Cortés JCG, Ribas JC, Alcaide-Gavilan M, Flor-Parra I, Lucena R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357703",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3033,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.31.763146"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5aef6d1aeceb8b8fffa275c6f63d5b8cc2a2472eddbac0e73d0bd1bf6dcdba4b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:19:50.385228+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3f4110d5594a313f7452e33333f6e74ab51566222a2ff62618c27ae5e88e85f9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:19:50.385228+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Schizosaccharomyces pombeにおけるLac1依存性セラミド合成は、隔壁形成と細胞分離を共役させる。",
+    "abstract_ja": "要旨　セラミドは、複合スフィンゴ脂質および生理活性膜脂質の前駆体である。分裂酵母 Schizosaccharomyces pombe において、セラミド合成酵素は、2つの触媒サブユニットLac1およびLag1によって産生される。これらは冗長ではあるが機能的に同等ではなく、正常な増殖と細胞サイズにはLac1のみが必要とされる。なぜLac1がこのような特異的な役割を担うのか、またセラミド合成が細胞形態形成にどのように寄与するのかは依然として不明である。本研究では、Lac1が隔壁形成と細胞分離を共役させることを示す。Lac1欠損細胞は主に細胞分離時に死滅し、一次層が薄く二次層が著しく厚い隔壁を形成するが、それに伴ってβ-(1,3)-グルカンおよびガラクトマンナンの沈着に変化が生じる。これらの欠損は、浸透圧安定化によっても回復しない。必須グルカン合成酵素Bgs4は細胞質顆粒へと局在異常を起こし、総β-(1,3)-グルカン合成酵素活性は部分的に低下する。それにもかかわらず、Ags1、Bgs1およびBgs4はより高いレベルで蓄積し、分裂部位においてほぼ2倍の期間持続することから、隔壁合成機構の輸送ではなくクリアランスの不全が示唆される。細胞膜ステロール分布は影響を受けない。セラミド合成を正確に阻害するため、我々はlag1 Δ背景において温度感受性のlac1-tsアレルを単離した。これらの置換遺伝子は、保存されたTRAM/LAG1ドメインにクラスターを形成している。代謝標識により、これらのアレルが制限温度においてセラミド合成を低下させることが示された。分子動力学シミュレーションでは、2つの置換がC26-CoAとの異なる接触を乱す一方で、Lac1-M167Tは小胞体局在を失うことが示された。急性不活性化は欠失表現型を再現し、隔壁の蓄積と細胞死を引き起こす。以上の知見を総合すると、Lac1依存的なセラミド合成が、隔壁形成と細胞分離の秩序ある完了に必要であることが立証される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.31.763378",
+    "title": "A respiratory microdomain links ubiquinone biosynthesis to succinate dehydrogenase in an apicomplexan mitochondrion lacking Complex I",
+    "abstract": "Mitochondrial complex I (CI) is a major entry point for NADH-derived electrons and an important site of redox regulation in most eukaryotes. However, apicomplexan parasites, including  Toxoplasma gondii , lack CI, raising a fundamental question of how mitochondrial respiration is organized in these parasites. Here, we identify a parasite-specific mitochondrial microdomain that physically and functionally couples ubiquinone (UQ) biosynthesis to succinate dehydrogenase (SDH). Using proximity labeling, membrane-based yeast two-hybrid analyses, reciprocal co-immunoprecipitations, and blue native PAGE, we show that UQ biosynthesis proteins associate with parasite-specific SDH subunits and co-migrate as a high-molecular-weight assembly. Knockdown of TgCoq4, a component of the UQ biosynthesis pathway, reduced SDH activity, and adding exogenous UQ to the assay did not restore it, indicating that UQ availability is not sufficient for efficient succinate oxidation. FCCP stimulates malate- and TMPD/ascorbate-supported respiration to maximal capacity but fails to do so with succinate as the substrate. This result, combined with reactive oxygen species (ROS) data, suggests that succinate causes over-reduction of the UQ pool, limiting further electron flow. We also find that CIII associates with the UQ synthesis machinery, suggesting a larger protein assembly. Together, these findings reveal that UQ biosynthesis and electron transport are physically and functionally integrated in  T. gondii , defining a previously unrecognized organization of mitochondrial respiration in an organism lacking CI.",
+    "journal": "",
+    "doi": "10.64898/2026.10.31.763378",
+    "date": "2026-11-03",
+    "authors": "Baierna B, Moreno SN.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357697",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3034,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.31.763378"
+    ],
+    "translation": {
+      "title": {
+        "hash": "771cd0e89a84c67b53aff2ec2d0ceea7098492111d1a803c777e1f8828042cc1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:19:50.385228+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ce9f91c0f520940bc7352fb8f319c95c3218bf7dc5d5a344f8dbd802af11ada6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:19:50.385228+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "呼吸マイクロドメインは、複合体Iを欠くアピコンプレックス生物のミトコンドリアにおいて、ユビキノン生合成とコハク酸脱水素酵素を連結している。",
+    "abstract_ja": "ミトコンドリア複合体I（CI）は、NADH由来電子の主要な取り込み部位であり、ほとんどの真核生物において酸化還元調節の重要な部位である。しかし、トキソプラズマ・ゴンディイを含むアピコンプレックス門の寄生虫はCIを欠いており、これらの寄生虫においてミトコンドリア呼吸がどのように構成されているかという根本的な問いが提起されている。本研究では、ユビキノン（UQ）生合成をコハク酸脱水素酵素（SDH）に物理的・機能的に結合させる、寄生虫特異的なミトコンドリアマイクロドメインを同定した。近接標識法、膜ベースの酵母ツーハイブリッド解析、相互共免疫沈降法、およびブルーネイティブPAGEを用いて、UQ生合成タンパク質が寄生虫特異的なSDHサブユニットと会合し、高分子量アセンブリとして共移行することを示した。UQ生合成経路の構成要素であるTgCoq4をノックダウンするとSDH活性が低下し、アッセイに外因性UQを添加しても活性は回復しなかったことから、UQの利用可能性だけでは効率的なコハク酸酸化には不十分であることが示された。FCCPは、リンゴ酸およびTMPD/アスコルビン酸支持呼吸を最大能力まで促進するが、コハク酸を基質とした場合にはその促進効果が認められない。この結果は、活性酸素種（ROS）データと併せると、コハク酸がUQプールの過剰還元を引き起こし、さらなる電子流を制限していることを示唆している。また、CIIIがUQ合成機構と会合していることが判明し、より大きなタンパク質アセンブリが存在することが示唆された。以上の知見を総合すると、T. gondiiにおいてUQ生合成と電子伝達が物理的・機能的に統合されており、CIを欠く生物におけるミトコンドリア呼吸の、これまで認識されていなかった構成が明らかになった。"
   }
 ]
