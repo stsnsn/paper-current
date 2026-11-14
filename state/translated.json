@@ -214280,5 +214280,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ドメイン、機能部位、およびバリアント効果予測のためのタンパク質言語モデル",
     "abstract_ja": "タンパク質配列データベースの拡充速度は、実験的にキュレーションされたアノテーションの速度を遥かに上回っており、新たに同定されたタンパク質やコーディングバリアントの機能的解釈を制限する要因となっている。我々は、ソフトターゲット目的関数を通じて重複および入れ子構造のアノテーションを保持しつつ、ドメインと機能部位の出現を共同で予測するタンパク質アノテーション言語モデル「PALM」を開発した。PALMは、ESM2に低ランク適応（LoRA）、学習済みレイヤー集約、および双方向長短期記憶（BiLSTM）エンコーダを統合したものである。PALMは、17,951のドメインクラスと1,383の部位クラスにわたる約1,500万件のInterProアノテーション済みUniRef50配列を用いて学習された。230万件のホールドアウトタンパク質において、PALMはドメイン出現および部位出現のF1スコアでそれぞれ0.941と0.877を達成し、学習および検証データとの配列同一性が20%未満のタンパク質においても十分な性能を維持した。また、PALMはESM3アノテーションのベースラインを大幅に上回る性能を示した。バリアントの病原性ラベルを用いた学習を行わない条件下でも、PALMの埋め込みディスラプションは、ESM2の埋め込みディスラプションよりも151,823件のClinVarミスセンスバリアントをより正確に識別し（AUROC 0.835対0.710）、PALMの埋め込みディスラプションとESM2の尤度比シグナルを組み合わせることで、AUROC 0.877を達成した。同様の組み合わせによるゼロショットスコアは、文献由来でClinVarデータベースには存在しない128,161件のミスセンスバリアントを含むベンチマークデータセットにおいて、AlphaMissenseを上回った。タンパク質レベルでは、PALMの埋め込みは、凍結されたESM2およびESM3の埋め込みよりも強力なCATH-Gene3Dスーパーファミリー構造を示し、ESM2と組み合わせた場合には実験的な活性化および抑制効果の予測精度が向上した。ダウンストリームのケーススタディでは、PALM由来の埋め込みを深層変異スキャニング（DMS）のプロキシとして利用する能力を実証し、PALMの広範な適用可能性を示した。総じて、PALMはキュレーションされた残基レベルの知見を、タンパク質配列、機能、およびバリアントの帰結を結びつける、転移可能かつ機構的に解釈可能な表現へと変換する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.764154",
+    "title": "TRACE: a framework for traceable biomedical resource construction demonstrated through single-cell glaucoma data",
+    "abstract": "The growing availability of public omics datasets presents opportunities for biomedical research, yet constructing research question-driven resources from distributed studies remains challenging due to heterogeneous data, incomplete metadata and limited documentation of curation decisions. Here, we present TRACE (Traceable Resource Assembly and Curation Ecosystem), a general framework that links systematic knowledge discovery, data curation and resource delivery while preserving provenance throughout resource construction. We demonstrate TRACE through TRACE-scGlaucoma, a curated single-cell transcriptomics resource for glaucoma and optic nerve biology. Systematic screening identified 57 eligible studies, of which 42 provided accessible datasets comprising approximately 3.3 million cells. The resource provides harmonised metadata, standardised cell-type annotations and reusable expression objects while retaining original study information and curation provenance. We demonstrate its analytical utility through cellular enrichment of glaucoma GWAS-associated genes, comparing candidate drug-repurposing signals across distinct biological contexts and assessment of cell-type annotation reliability. TRACE provides a systematic and traceable approach to transforming fragmented public datasets into reusable biomedical resources, supporting reproducible analyses and future extensions across disease areas and data modalities.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764154",
+    "date": "2026-11-05",
+    "authors": "Liang X, Jayakumar R, Strbenac D, Torkel M, Bian B, Lee E, Gu J, Phan VTN, Crowston J, Yang JYH, Shim H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359751",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "framework",
+        "gene",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1435,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.04.764154"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d89848bbe0530830e2dbda9b537348f1ed8729d6da077cc2c4e6a8f853992599",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:08:46.752165+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fe6973de215fec2bcbb6b9eb8c7781d5ec8599dd75510518a66c20b2fa6fd577",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:08:46.752165+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TRACE：単一細胞緑内障データで実証する追跡可能な生物医学リソース構築のためのフレームワーク",
+    "abstract_ja": "公開オミクスデータセットの利用可能性の拡大は、生物医学研究に機会をもたらしているが、データの異質性、メタデータの不備、およびキュレーション決定に関するドキュメントの不足により、分散した研究から研究課題主導のリソースを構築することは依然として困難な課題である。本研究では、リソース構築全体を通じてプロベナンスを保持しつつ、体系的な知識発見、データキュレーション、およびリソース提供を連携させる汎用フレームワークであるTRACE（Traceable Resource Assembly and Curation Ecosystem）を提案する。我々は、緑内障および視神経生物学のためのキュレーション済みシングルセルトランスクリプトミクスリソースであるTRACE-scGlaucomaを通じて、TRACEを実証する。系統的なスクリーニングにより57件の適格な研究が特定され、そのうち42件から約330万個の細胞を含むアクセス可能なデータセットが提供された。本リソースは、元の研究情報とキュレーションのプロベナンスを保持しつつ、調和されたメタデータ、標準化された細胞種アノテーション、および再利用可能な発現オブジェクトを提供する。我々は、緑内障GWAS関連遺伝子の細胞濃縮、異なる生物学的コンテキストにおける候補薬物転用シグナルの比較、および細胞種アノテーションの信頼性評価を通じて、その解析上の有用性を実証する。TRACEは、断片化した公開データセットを再利用可能な生物医学リソースへと変換するための体系的かつ追跡可能なアプローチを提供し、再現性のある解析や、疾患領域およびデータモダリティを横断した将来的な拡張を支援する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.763740",
+    "title": "Mapping the regulatory wiring of endothelial cell differentiation reveals a critical role for Hippo mechanosignaling",
+    "abstract": "At each step of development, stem cells encounter a branching decision to differentiate into one type of cell or another. This decision is executed through the action of competing gene programs that specify different cellular identities. Consequently, creating a comprehensive map of the gene programs that drive each branching step of human cell differentiation remains a long-sought goal of developmental and stem cell biology. Here, we introduce a framework combining genome-wide CRISPR screens, single-cell readouts, and gene program inference to systematically discover and characterize regulators of cell differentiation. This framework includes a method for CRISPR perturbations paired with single-cell RNA-seq called circular capture Perturb-seq (CC-Perturb-seq), which improves gRNA detection from split-pool combinatorial indexing protocols and enables perturbing many candidate regulators to map their effects on gene programs. We applied this framework to map how human pluripotent stem cells differentiate into arterial endothelial cells (ECs), and identified 174 regulators that promote or inhibit EC differentiation. By tracking gene programs across three stages of differentiation, we resolved when and how regulators divert cells toward alternative fates. This map revealed an unexpected requirement for the Hippo mechanosignaling pathway in EC specification. During lateral mesoderm differentiation, Hippo mechanosignaling was required to activate ETV2, the master transcriptional regulator of endothelial identity. Inhibiting Hippo blocked ETV2 even in the presence of VEGF and diverted progenitors to a mesenchymal fate in vitro. Likewise, Hippo signaling was required for maximal etv2 expression in developing zebrafish embryos. Conversely, pharmacologically activating the Hippo pathway increased the purity of both arterial and venous EC differentiation in vitro. Our framework thus identifies novel regulators of endothelial cell differentiation, improves stem-cell differentiation protocols via manipulation of mechanosignaling, and provides a generalizable platform for mapping the regulatory wiring of human development.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.763740",
+    "date": "2026-11-05",
+    "authors": "Nguyen TC, King HD, Amgalan D, Pushkarev O, Mo YA, Munger CJ, McCreery C, Gupta R, Zeng T, Zhou R, Conley SD, Batta SPR, Sheth MU, Mattei E, Masaltseva A, Kang HY, Ma XR, Tran N, Gaskell L, Shoresh N, Orlova V, Kundaje A, Sumanas S, Ang LT, Loh KM, Engreitz JM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359678",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "genome",
+        "inference"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1441,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.04.763740"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5f0e35fe0409c20e24e9373c1048052504893a8aa1e5268c5beed5d9bb243d43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:08:46.752165+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0e397daab28f83652fbd15e657caccc8baf5918ff94e98fb8808bd14df3bf75a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:08:46.752165+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "内皮細胞分化の制御配線のマッピングにより、Hippoメカノシグナリングの重要な役割が明らかになる",
+    "abstract_ja": "発生の各段階において、幹細胞はある種類の細胞に分化するかどうかの分岐決定に直面する。この決定は、異なる細胞アイデンティティを指定する競合する遺伝子プログラムの作用によって実行される。したがって、ヒト細胞分化の各分岐ステップを駆動する遺伝子プログラムの包括的なマップを作成することは、発生および幹細胞生物学における長年の目標となっている。ここで我々は、ゲノムワイドCRISPRスクリーニング、シングルセルリードアウト、および遺伝子プログラム推論を組み合わせたフレームワークを紹介し、細胞分化の調節因子を体系的に発見・特性評価する。このフレームワークには、シングルセルRNA-seqと組み合わせたCRISPR摂動法であるcircular capture Perturb-seq（CC-Perturb-seq）が含まれており、これによりスプリットプールコンビナトリアルインデックス法からのgRNA検出が改善され、多くの候補調節因子を摂動させて遺伝子プログラムへの影響をマッピングすることが可能になる。我々は、このフレームワークを適用して、ヒト多能性幹細胞が動脈内皮細胞（EC）へと分化する過程をマッピングし、EC分化を促進または抑制する174種類の調節因子を同定した。分化の3段階にわたって遺伝子プログラムを追跡することで、調節因子がいつ、どのように細胞を代替的な運命へと誘導するのかを明らかにした。このマップにより、EC指定においてHippoメカノシグナリング経路が予期せず必要であることが明らかになった。側方中胚葉分化において、Hippoメカノシグナリングは、内皮アイデンティティのマスター転写調節因子であるETV2を活性化するために必要であった。Hippoを阻害すると、VEGFが存在する場合でもETV2が遮断され、in vitroで前駆細胞が間葉系運命へと誘導された。同様に、発生中のゼブラフィッシュ胚においてETV2の発現を最大化するには、Hippoシグナル伝達が必要であった。逆に、薬理学的にHippo経路を活性化すると、in vitroで動脈および静脈の両方のEC分化の純度が向上した。したがって、我々のフレームワークは、内皮細胞分化の新規調節因子を同定し、メカノシグナリングの操作を通じて幹細胞分化プロトコルを改善し、ヒト発生の調節配線をマッピングするための汎用可能なプラットフォームを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11442499/v1",
+    "title": "Bacillus cereus MHI 86 and Bacillus thuringiensis 5-29 both produce the antilisterial bacteriocin thuricin S – analysis of antimicrobial spectrum, stability, and producer strain suitability, including cytotoxicity evaluation",
+    "abstract": "Abstract    Thuricin-like bacteriocins are known for their potent antibacterial properties. This study characterizes thuricin S from  Bacillus (B.) cereus  MHI 86 and  B. thuringiensis  5–29 previously isolated from foods. Cell-free supernatants and partially purified thuricin S exhibited antibacterial activity against Gram-positive species, including  Listeria  and  Bacillus  . Thuricin S production started at mid exponential growth phase. Minimum inhibitory concentrations against  L. monocytogenes  were 5.73 µg/mL (MHI 86) and 10.77 µg/mL (5–29). Both genomes harbor thuricin S-encoding open reading frames. From 8 h of growth, transcription of the bacteriocin gene cluster was consistently detected with most prominent bands at 120 bp. Accordingly, antibacterially active peptides were found at ~ 3.1 kDa, consistent with the size of thuricin S. Ultra-performance liquid chromatography-electrospray ionization mass spectrometry confirmed the molecular mass of the partially purified peptides as 3137.6 Da. The bacteriocins were active at neutral and acidic pH (3–7) and up to 80°C. In conclusion, this study is the first to provide a comparative characterisation of thuricin S in two different  Bacillus  spp. It sheds light on the genetic and transcriptional basis of thuricin S production, as well as its growth and production kinetics, antimicrobial activity, molecular weight, stability, and associated toxin production and cytotoxicity. Notably, thuricin S can be used as a natural agent against  L. monocytogenes  to control post-pasteurisation contamination.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11442499/v1",
+    "date": "2026-11-05",
+    "authors": "Batman SG, Kittler S, Plötz M, Dräger G, Jessberger N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359418",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1442,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11442499/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f02ba623ff92d4675b3d1dd1dc8b5e1a34890b0ddb8a2696805db45bede91951",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:08:46.752165+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bf2ddd5fe48b9d6e91315a1eaae04392f95abff0004de25618b8c6207f01f170",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:08:46.752165+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Bacillus cereus MHI 86およびBacillus thuringiensis 5-29はともに抗リステリア菌バクテリオシンであるthuricin Sを産生する。抗菌スペクトル、安定性、および産生菌株の適性（細胞毒性評価を含む）の解析",
+    "abstract_ja": "要旨    トゥリシン様バクテリオシンは、その強力な抗菌特性で知られている。本研究では、食品から以前に単離されたBacillus (B.) cereus MHI 86およびB. thuringiensis 5–29由来のトゥリシンSの特性解析を行った。無細胞上清および部分精製トゥリシンSは、ListeriaやBacillusを含むグラム陽性菌に対して抗菌活性を示した。トゥリシンSの産生は、対数増殖期の中期に開始した。L. monocytogenesに対する最小発育阻止濃度は、5.73 µg/mL（MHI 86）および10.77 µg/mL（5–29）であった。両ゲノムともに、トゥリシンSをコードするオープンリーディングフレームを保有していた。8時間の増殖後、バクテリオシン遺伝子クラスターの転写が一貫して検出され、120 bpに最も顕著なバンドが認められた。これに伴い、トゥリシンSのサイズと一致する約3.1 kDaの抗菌活性ペプチドが見出された。超高速液体クロマトグラフィー－エレクトロスプレーイオン化質量分析により、部分精製ペプチドの分子量は3137.6 Daであることが確認された。これらのバクテリオシンは、中性および酸性pH（3–7）ならびに最大80°Cで活性を示した。結論として、本研究は2種類の異なるBacillus属におけるトゥリシンSの比較特性解析を初めて行ったものである。本研究は、トゥリシンS産生の遺伝的・転写的基盤に加え、その増殖・産生速度論、抗菌活性、分子量、安定性、および関連する毒素産生と細胞毒性を明らかにするものである。特筆すべきは、トゥリシンSがL. monocytogenesに対する天然剤として、低温殺菌後の汚染制御に利用可能である点である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10984628/v1",
+    "title": "Physicochemical Characterization, Cytotoxicity, and Antimicrobial Activity of Polymeric Nanoparticles for Ocular Delivery of Norfloxacin",
+    "abstract": "Abstract    Ocular infections, can lead to severe complications, and may result in vision loss, if not treated effectively. Norfloxacin (NFX), a broad-spectrum fluoroquinolone antibiotic, acts by inhibiting bacterial DNA replication and transcription and is effective against drug-resistant pathogens commonly associated with serious ocular infections. However, its poor water solubility limits its therapeutic potential for ocular delivery. In this study nanoparticles was formulated with Eudragit® RS 100 (ERS100) and Polycaprolactone (PCL) to enhance the ocular bioavailability of NFX. The nanoparticles were prepared using the spray-drying method. According to the characterization studies the optimized formulation exhibited a particle size of 383.43 ± 8.01 nm, a low PDI of 0.135 ± 0.01, and a positively charged zeta potential of + 34.97 ± 0.22 mV, indicating excellent stability and favorable interaction with the negatively charged ocular surface, which may enhance the ocular bioavailability of NFX. Cytotoxicity studies using the MTT assay on the human retinal pigment epithelial cell line (ARPE-19) confirmed the ocular safety of the nanoparticles, as their IC  50  values vastly exceeded their minimum inhibitory concentrations (MICs), indicating a broad therapeutic safety margin. Antimicrobial efficacy was further confirmed through disk diffusion and MIC assays. Based on the obtained results, it can be concluded that ERS100–PCL-based nanoparticles have strong potential as an effective ocular delivery system for NFX in the treatment of severe ocular infections.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10984628/v1",
+    "date": "2026-11-05",
+    "authors": "ÖZDEMİR İ, AYKAÇ K, ÖZMEN CK, ŞENEL B, SOYER P, BAŞARAN E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359163",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1443,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10984628/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5a42c8df17e7f972d861bf65868d101ec7ecc56f918540080c152db4b5227bcd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:08:46.752165+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0385438b3665560f20d0141e6b51738429cd983a49d5514b99b411eb0bd50ea8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:08:46.752165+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ノルフロキサシンの眼内投与用高分子ナノ粒子の物理化学的特性評価、細胞毒性および抗菌活性",
+    "abstract_ja": "要旨    眼感染症は重篤な合併症を引き起こす可能性があり、適切に治療が行われない場合は視力喪失に至ることがある。広域スペクトルフルオロキノロン系抗菌薬であるノルフロキサシン（NFX）は、細菌のDNA複製および転写を阻害することで作用し、重篤な眼感染症に一般的に伴う薬剤耐性病原体に対して有効である。しかし、水溶性が低いため、眼内送達における治療上の有用性が制限されている。本研究では、NFXの眼内バイオアベイラビリティを向上させるため、Eudragit® RS 100（ERS100）およびポリカプロラクトン（PCL）を用いてナノ粒子を製剤化した。ナノ粒子はスプレードライ法を用いて調製した。特性評価試験の結果、最適化された製剤は粒子径383.43 ± 8.01 nm、低いPDI 0.135 ± 0.01、および正電荷のゼータ電位+ 34.97 ± 0.22 mVを示し、優れた安定性と負に帯電した眼表面との良好な相互作用が認められた。これはNFXの眼内バイオアベイラビリティを向上させる可能性がある。ヒト網膜色素上皮細胞株（ARPE-19）を用いたMTTアッセイによる細胞毒性試験により、ナノ粒子の眼内安全性が確認された。IC 50 値はいずれも最小発育阻止濃度（MIC）を著しく上回っており、広範な治療安全域が示された。抗菌薬効は、ディスク拡散法およびMICアッセイによってさらに確認された。得られた結果に基づき、ERS100–PCLベースのナノ粒子は、重篤な眼感染症の治療におけるNFXの有効な眼内送達システムとして高い潜在能力を有すると結論付けられる。"
   }
 ]
