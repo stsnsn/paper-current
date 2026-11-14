@@ -376889,5 +376889,661 @@
     "related_dois": [
       "10.64898/2026.11.11.765836"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1182/blood.2026033881",
+    "title": "Pathological effects of NETs: seed and soil hypothesis for inflammation spread by primed neutrophils.",
+    "abstract": "AbstractThe ability of activated neutrophils to release decondensed chromatin as neutrophil extracellular traps (NETs) in response to stimuli is conserved throughout evolution. Although NETs support host defense by forming physical barriers against microbes, their toxicity can cause tissue damage. Large NET networks, generated through the activation of NLRP3 inflammasome, the citrullinating enzyme peptidylarginine deiminase 4, and neutrophil-derived enzymes, are central to the pathogenesis of numerous diseases. Chronic disorders often originate at a localized site, for example, the joints in rheumatoid arthritis, or after a major inflammatory event before progressing to distant organs, such as the heart. In this perspective, we hypothesize that circulating primed neutrophils represent the \"seeds\" of chronic disease that adhere to activated vessels, the \"soil\" of susceptible organs. We explore the mechanisms underlying NET formation and discuss animal and human evidence supporting our hypothesis.",
+    "journal": "Blood",
+    "doi": "10.1182/blood.2026033881",
+    "date": "2026-11-01",
+    "authors": "Wagner DD, Heger LA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42684992",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42684992",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3589,
+    "collected_at": "2026-11-14T11:27:51.659174+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1182/blood.2026033881"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.20960/nh.06142",
+    "title": "Global research landscape on the brain-gut axis in early life: a bibliometric and visualized study.",
+    "abstract": "IntroductionBackground: the brain-gut axis was recognized as a bidirectional communication system linking the central and enteric nervous systems through neural, hormonal, immune, and metabolic pathways. It played a pivotal role in early-life neurodevelopment, immune programming, and gastrointestinal function. Although the field had grown rapidly, a comprehensive bibliometric evaluation of global research trends, hotspots, and collaborations was lacking. Methods: we conducted a bibliometric and visualized analysis of publications on the brain-gut axis in early life from 2004 to 2024, using the Web of Science Core Collection (WoSCC) database. CiteSpace was used to generate co-authorship, institutional collaboration, keyword co-occurrence, and co-citation networks, as well as burst detection, timeline views, and dual-map overlays. Results: a total of 1,429 publications were analyzed. Research output increased steadily from 2015 and peaked in 2023, reflecting growing global interest. The United States and China were the most productive countries, with strong collaborative ties observed among institutions in North America, Europe, and East Asia. University College Cork, University of California System, and Harvard University were the leading institutions, while J. F. Cryan, T. G. Dinan, and G. Clarke were the most influential authors. Early studies focused on anatomical and developmental aspects, while recent hotspots included autism spectrum disorder, intestinal permeability, fecal microbiota transplantation, and psychological stress. Mechanistic keywords highlighted short-chain fatty acids, tryptophan metabolism, vagus nerve signaling, and microglia-immune interactions. Conclusions: this study provided a comprehensive bibliometric overview of early-life brain-gut axis research over the past two decades. It revealed dynamic thematic evolution, expanding interdisciplinary collaboration, and the emergence of translational opportunities. These findings offer a valuable reference for future research directions in pediatric neurogastroenterology and microbiota-based interventions.",
+    "journal": "Nutricion hospitalaria",
+    "doi": "10.20960/nh.06142",
+    "date": "2026-11-01",
+    "authors": "Hu Z, Xu J, Jiang F, Liu Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42563598",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42563598",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3593,
+    "collected_at": "2026-11-14T11:27:51.659174+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.20960/nh.06142"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.mtbio.2026.103791",
+    "title": "A pH-responsive GelMA-KerMA hydrogel delivering luteolin-loaded PLGA nanoparticles promotes myocardial repair via Akt/Bad signaling and multitarget regulation.",
+    "abstract": "Myocardial infarction (MI) triggers cardiomyocyte apoptosis, oxidative stress imbalance, ventricular fibrosis, and impaired angiogenesis. Luteolin, a natural flavonoid compound, possesses antioxidant, anti-apoptotic, and cardioprotective properties, making it a promising candidate for MI treatment. However, its poor water solubility, low bioavailability, and chemical instability severely hinder its clinical translation. To address these limitations, we developed a photo-crosslinked composite hydrogel delivery system using gelatin methacryloyl and keratin methacryloyl (GelMA-KerMA). Luteolin-loaded poly(lactic-co-glycolic acid) (PLGA) nanoparticles were uniformly dispersed within a three-dimensional gel network to achieve pH-triggered local drug delivery. The covalent GelMA-KerMA network retained structural integrity under both pH conditions. In the weakly acidic infarct microenvironment, acid-catalyzed hydrolysis of PLGA ester bonds was the primary driver of accelerated luteolin release, whereas the network mainly acted as a sustained-retarding reservoir. The incorporation of KerMA endowed the patch with enhanced mechanical stability and cytocompatibility, enabling better mechanical matching with the infarcted myocardium. The composite hydrogel promotes myocardial repair and functional recovery through the coordinated regulation of the rapid Akt/Bad phosphorylation cascade. It also sustains MAPK/Rap1-dependent transcriptional reprogramming. It inhibits mitochondrial apoptosis, scavenges reactive oxygen species (ROS), suppresses fibroblast activation, and promotes neovascularization. This study presents a protein-based delivery platform that integrates tailored physicochemical and mechanical properties with multi-pathway myocardial repair capabilities, offering a biomaterial strategy for minimally invasive local drug delivery in ischemic MI.",
+    "journal": "Materials today. Bio",
+    "doi": "10.1016/j.mtbio.2026.103791",
+    "date": "2026-10-31",
+    "authors": "Jiang D, Li J, Hu J, Jiang D, Yang W, Huang W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43022325",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43022325",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3601,
+    "collected_at": "2026-11-14T11:27:51.659174+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1016/j.mtbio.2026.103791"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acsomega.6c07991",
+    "title": "A Pyrroloquinoline-Based Colchicine-Binding Site Inhibitor Drives Mitotic Arrest and Caspase-Dependent Apoptosis.",
+    "abstract": "Targeting the colchicine-binding site on tubulin represents a promising strategy for developing anticancer agents capable of overcoming drug resistance and alleviating limitations of current microtubule-targeting therapies. Building on the pharmacological potential of quinoline scaffolds, we designed pyrroloquinoline-based compounds aimed at targeting the colchicine-binding site on tubulin. A hypothesis-driven design strategy, guided by structure- and ligand-based molecular modeling, was employed to prioritize the designed molecules for strong predicted binding and pharmacophoric complementarity within the colchicine-binding site. A concise, efficient synthetic strategy was employed to access the target molecules, which were subsequently evaluated for antiproliferative activity across various cancer cell lines. The hit compounds reported in this paper, 4a and 5b, exhibited potent cytotoxicity, competitively inhibited the formation of the EBI-β-tubulin adduct, and induced pronounced disruption of the intracellular microtubule network. Compound 4a, in particular, consistently displayed significant biological activity, as mechanistic studies revealed that it triggers sustained G2/M phase arrest, suppresses proliferative signaling, and activates DNA damage-associated stress responses, followed by caspase-3 activation and PARP cleavage, indicative of caspase-dependent apoptosis. These results reinforce the utility of the quinoline scaffold for the development of colchicine-site microtubule inhibitors and highlight their potential in advancing new chemotherapeutic candidates.",
+    "journal": "ACS omega",
+    "doi": "10.1021/acsomega.6c07991",
+    "date": "2026-10-29",
+    "authors": "Garain T, Waddell S, Rai P, Reed CN, Williams BD, Harrison JM, Clark CJ, Zeleke F, Barnes S, Ma D, Jessen JR, Bicker KL, Weissmiller AM, Li W, Banerjee S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43022519",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43022519",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3680,
+    "collected_at": "2026-11-14T11:27:51.659174+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1021/acsomega.6c07991"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1933938",
+    "title": "HIV-1 drug resistance and associated risk factors in antiretroviral therapy failure: a 2022-2024 surveillance in Huzhou, China.",
+    "abstract": "IntroductionCharacterizing acquired drug resistance (ADR) profiles among individuals experiencing antiretroviral therapy (ART) failure is critical for optimizing clinical management.MethodsThis study aimed to delineate the HIV-1 drug resistance landscape, specific resistance-associated mutations, and epidemiological determinants in Huzhou, China, from 2022 to 2024. Blood samples and epidemiological data were collected from 184 HIV-1-infected patients experiencing ART failure. Viral pol region sequences were amplified, and drug resistance mutations (DRMs) were interpreted using the Stanford University HIV Drug Resistance Database.ResultsThe overall prevalence of ADR was 44.0% (81/184). Resistance to protease inhibitors (PIs) remained notably low at 1.6%,whereas the prevalence of DRMs associated with nucleoside (NRTIs) and non nucleoside reverse transcriptase inhibitors (NNRTIs) reached 27.7% and 41.8%, respectively. The most frequently detected NRTI-associated DRMs included M184V/I and K65R, while dominant NNRTI-associated mutations comprised V179D/E/F, K103N, V106I/L/M, G190A/Q/S/T, and Y181C/L. Furthermore, multivariable logistic regression identified patient age, plasma viral load, and specific HIV-1 subtypes as independent risk factors for DRM development.DiscussionUltimately, this study elucidates the evolving mutational landscape among ART-experienced individuals, providing critical evidence-based insights for optimizing personalized antiretroviral regimens and mitigating the onward transmission of drug-resistant HIV-1 variants within the region.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1933938",
+    "date": "2026-10-29",
+    "authors": "Lu Z, Wu Y, Zha Y, Dong F, Yang Z, Ji L, Zhu X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43022236",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43022236",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3681,
+    "collected_at": "2026-11-14T11:27:51.659174+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1933938"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acsomega.6c09344",
+    "title": "Comparative Transcriptomic and Lipidomic Analysis of Amphotericin B‑Susceptible and Resistant Clinical Isolates of <i>Malassezia</i> spp.",
+    "abstract": "Malassezia spp. are lipid-dependent skin commensal yeasts associated with superficial infections and fungemia. Amphotericin B remains a key treatment for systemic infections despite its toxicity and decreased susceptibility. This study characterized amphotericin B susceptibility profiles and identified transcriptomic and lipidomic signatures of polyene resistance in clinical Malassezia isolates. Clinical isolates of M. sympodialis and M. furfur, and reference strains (CBS 7222 and CBS 1878), were evaluated using the modified M27-A3 CLSI protocol for MICs and subinhibitory concentrations. One isolate per species was susceptible (MIC 0.5-2.0 μg/mL), while another was resistant (MIC ≥ 16 μg/mL). Transcriptomes generated by Oxford Nanopore sequencing were analyzed using DESeq2 (|log2FC|>2, p M. sympodialis and 63 for M. furfur. Although global class abundances remained unchanged, resistant clinical isolates showed differences in the relative abundance of selected lipid species, with increased levels of long-chain fatty acids, diacylglycerols, and ceramides. Resistant M. sympodialis showed higher cholesterol levels. Integrated analysis separated susceptible and resistant groups, with DEGs-DLMs correlations highlighting networks in membrane organization, stress tolerance, and metabolism. These findings suggest that amphotericin B resistance may be associated with metabolic alterations and changes in membrane lipid composition, supporting the use of multiomics markers for detection and therapeutic strategies.",
+    "journal": "ACS omega",
+    "doi": "10.1021/acsomega.6c09344",
+    "date": "2026-10-27",
+    "authors": "Galvis-Marín JC, Tabares-Villa FA, Zuluaga-Vélez A, Rojas-Estevez P, Cala MP, Celis-Ramírez AM, Sepúlveda-Arias JC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43022999",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43022999",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3779,
+    "collected_at": "2026-11-14T11:27:51.659174+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1021/acsomega.6c09344"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.onehlt.2026.101637",
+    "title": "Climate change and antimicrobial resistance: A systematic review and causal mapping across One Health systems.",
+    "abstract": "Climate change and antimicrobial resistance (AMR) are among the most pressing threats to human, animal and environmental health. While associations between climate change and AMR have been reported, evidence across One Health systems remains fragmented. We systematically reviewed original studies reporting associations of air temperature, rainfall or humidity with antibiotic-resistant bacteria or antibiotic resistance genes across human, animal and environmental settings. Searches of four databases covering publications up to January 2025 identified 11,830 records, of which 37 studies met the eligibility criteria. Temperature associations varied by setting, with higher temperatures generally associated with increased AMR measures in human and animal-linked settings, but lower resistance measures in some environmental reservoirs. Rainfall and humidity associations were inconsistent. No study focused exclusively on the animal sector; animal-related findings were derived primarily from three animal-environment studies and one study covering all three One Health domains. Studies were concentrated in Asia and Europe, with only one region-specific study each from Africa and Oceania, alongside four global studies. A causal systems map was developed to synthesise hypothesised pathways linking climatic conditions, contextual factors and AMR. Collectively, these findings identify reported patterns and research gaps, but do not establish causal effects of climate change. Priorities include geographically broader AMR surveillance, animal and cross-sector research, and longitudinal analyses accounting for antimicrobial use and other confounders.",
+    "journal": "One health (Amsterdam, Netherlands)",
+    "doi": "10.1016/j.onehlt.2026.101637",
+    "date": "2026-10-26",
+    "authors": "Pham Y, Loftus MJ, Comte REP, Bourke LA, Ezure Y, Wozniak TM, Xue X.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43022376",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "43022376",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3835,
+    "collected_at": "2026-11-14T11:27:51.659174+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1016/j.onehlt.2026.101637"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.ocarto.2026.100890",
+    "title": "Genetically informed search for potential osteoarthritis drug targets across the proteome.",
+    "abstract": "ObjectiveOsteoarthritis (OA) is a leading cause of disability, yet no licensed therapies can prevent or slow its progression. We aimed to identify potential disease-modifying OA drug (DMOAD) targets by integrating genetic and differential protein abundance (DPA) evidence.MethodWe evaluated genetically predicted perturbations of plasma protein levels using cis-protein quantitative trait loci (cis-pQTLs) across three European cohorts (UK Biobank Pharma Proteomics Project, deCODE, and Fenland) and outcome data from the Genetics of Osteoarthritis Consortium across 11 OA phenotypes. Following limit-of-detection and missingness filtering, DPA evaluated 2133 proteins in 7186 prevalent OA cases and 29,584 controls from UK Biobank. MR-prioritised proteins were further assessed using summary-data-based Mendelian randomisation (SMR) with OA joint-tissue eQTL data, alongside pathway, protein-interaction, and druggability analyses.ResultsCis-MR and colocalisation prioritised 81 proteins, of which 30 showed joint-tissue transcriptomic support in SMR analyses. DPA identified 1436 proteins associated with ≥1 OA phenotype, of which 1314 (91.5%) retained significance in sensitivity analyses. Seventeen proteins had matched MR and DPA support, including three Tier 1 druggable targets (DLK1, SOST, and TNFRSF9); seven of these had SMR support. EHBP1, LGALS3, and OGN showed concordant DPA and MR effects and cross-platform evidence. EHBP1, PCSK7 and ITIH4 emerged as under-recognised candidates. Pathway analyses recapitulated established OA processes, while drug enrichment identified hypothesis-generating compounds.ConclusionIntegration of cis-MR, colocalisation, DPA, and tissue-specific transcriptomic evidence prioritised several potential OA therapeutic targets. DLK1, LGALS3, OGN and EHBP1 emerged as high-priority candidates, while EHBP1, PCSK7 and ITIH4 represent under-recognised candidates warranting functional investigation.",
+    "journal": "Osteoarthritis and cartilage open",
+    "doi": "10.1016/j.ocarto.2026.100890",
+    "date": "2026-10-24",
+    "authors": "Liu W, Zuckerman BP, Schuermans A, Orozco G, Honigberg MC, Bowes J, O'Neill TW, Zhao SS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43022691",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43022691",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3897,
+    "collected_at": "2026-11-14T11:27:51.659174+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1016/j.ocarto.2026.100890"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.diagmicrobio.2026.117738",
+    "title": "Genus-wide PCR and 23S-5S ISR sequencing reveals diverse non-pneumophila Legionella in clinical respiratory samples.",
+    "abstract": "ObjectivesTo determine how the breadth of the molecular diagnostic target shapes detection of Legionella in clinical respiratory samples, and to characterise the species diversity of non-pneumophila Legionella (non-Lp) using 23S-5S rRNA intergenic spacer region (ISR) sequencing.MethodsRespiratory samples reported Legionella PCR-positive by Danish laboratories during 2023-2024 were reconfirmed at the national reference laboratory by real-time PCR targeting 16S rRNA (genus), mip (L. pneumophila) and wzm (serogroup 1). Samples positive for 16S rRNA but negative for mip underwent 23S-5S ISR sequencing with phylogenetic and UPGMA-based species assignment. Detection patterns were compared between hospitals using genus-wide versus L. pneumophila-specific assays. Culture confirmation was modelled against Ct value by species and specimen type.ResultsAmong 509 PCR-positive patients, genus-level 16S rRNA testing reconfirmed Legionella in clinically indicated samples that L. pneumophila-specific assays would have reported negative. Of 96 high-quality ISR sequences, non-Lp detections were distributed broadly across the Legionella phylogeny, including L. longbeachae, L. bozemanae, L. anisa, several rare species and unassigned clusters. A subset of mip-negative samples was genuinely L. pneumophila, showing that even same-species narrow detection can fail. Culture confirmation was higher for L. pneumophila (50%) than for non-Lp species (0-47%). Among 420 notified Legionnaires' disease cases, 85 (20.2%) were non-Lp.ConclusionsA negative L. pneumophila PCR does not exclude legionellosis. Genus-wide molecular detection recovers confirmed infections missed by narrow assays, and the wide phylogenetic spread of organisms means a broad approach, not a small species-specific add-on, is required for adequate diagnosis and surveillance.",
+    "journal": "Diagnostic microbiology and infectious disease",
+    "doi": "10.1016/j.diagmicrobio.2026.117738",
+    "date": "2026-11-06",
+    "authors": "Sparvath JS, Petersen RF, Jensen JS, Kjelsø C, Uldum SA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43019744",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43019744",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4120,
+    "collected_at": "2026-11-14T11:27:51.659174+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1016/j.diagmicrobio.2026.117738"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.1099/acmi.0.001328.v2",
+    "title": "Comparative bacterial community profiling of hospital, community, and abattoir wastewater in Mbarara, Uganda, using 16S rRNA amplicon sequencing",
+    "abstract": "Wastewater-based epidemiology provides a complementary approach to public-health and environmental surveillance, but comparative bacterial community data from different wastewater systems in Uganda remain limited. This study characterised bacterial communities in hospital-associated, community and abattoir wastewater lagoons in Mbarara, Uganda. Forty-five wastewater samples were collected weekly from 18 February to 18 March 2026 at the inlet, midpoint and outlet of the TASO, Kizuungu and Ruti lagoons. Bacterial communities were characterised using 16S rRNA gene amplicon sequencing. Sequence processing and diversity analyses used nf-core/ampliseq and QIIME 2, while functional potential was inferred using PICRUSt2. Sequencing identified 9,870 amplicon sequence variants. Bacterial community composition differed significantly among the three lagoons across Bray–Curtis, Jaccard, weighted UniFrac and unweighted UniFrac metrics, whereas alpha-diversity measures did not differ significantly. Of 13 bacterial genus-level groups examined for public-health relevance, Acinetobacter (q = 0.0013) and Enterobacter (q = 0.0248) differed significantly among lagoons after false-discovery-rate correction. Acinetobacter was relatively abundant in TASO and Ruti wastewater but less abundant in Kizuungu, while Enterobacter had its highest mean relative abundance in TASO. PICRUSt2 predicted broadly overlapping metabolic pathway profiles across the lagoons. The three lagoons harboured distinct bacterial community compositions despite comparable within-sample diversity. These findings establish baseline microbiome information for comparative wastewater surveillance in Mbarara and provide a foundation for further investigation of microbial patterns across additional wastewater systems.",
+    "journal": "",
+    "doi": "10.1099/acmi.0.001328.v2",
+    "date": "2026-11-10",
+    "authors": "Nalumaga PP, Nakimuli CN, Kawuma S, Bazira J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1364725",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4125,
+    "collected_at": "2026-11-14T11:27:51.659174+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1099/acmi.0.001328.v2"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007336",
+    "title": "<i>Zhuyongguania soli</i> gen. nov., sp. nov., a difficult-to-culture isolate from paddy soil: proposal of <i>Zhuyongguaniaceae</i> fam. nov.",
+    "abstract": "Members of the phylum Verrucomicrobiota are widespread but remain underrepresented in culture collections. In a cultivation survey of paddy soils in Fujian Province, China, two strains, sgz303538T and sgz304111, were obtained on modified Reasoner's 2A agar supplemented with nucleotides. The strains were conspecific (100% 16S rRNA gene sequence identity) and shared low similarity with validly published taxa, with Terrimicrobium sacchariphilum CGMCC 1.5168T (family Terrimicrobiaceae, order Terrimicrobiales) as the closest relative (88.5%). Phylogenetic analyses of the 16S rRNA gene and a 120-marker phylogenomic dataset consistently placed strain sgz303538T as a deeply branching lineage within the order Terrimicrobiales, clearly separated from Terrimicrobiaceae. The genome of sgz303538T is 7.83 Mb with a DNA G+C content of 57.5% and showed low genomic relatedness to T. sacchariphilum (ANI 71.2%; AAI 57.3%). On the basis of phylogenomics together with phenotypic and chemotaxonomic traits, strain sgz303538T represents a novel family within the order Terrimicrobiales, for which the name Zhuyongguaniaceae fam. nov. is proposed. The genus and species proposed for Zhuyongguaniaceae are Zhuyongguania soli sp. nov. (type strain sgz303538T=MCCC 1K09987T=KCTC 102448T).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007336",
+    "date": "2026-11-01",
+    "authors": "Liu GH, Shi SZ, Lu XF, Zhou SG.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43019081",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43019081",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4130,
+    "collected_at": "2026-11-14T11:27:51.659174+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1099/ijsem.0.007336"
+    ]
   }
 ]
