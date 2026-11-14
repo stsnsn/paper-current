@@ -1751,6 +1751,13 @@
     ]
   },
   {
+    "name": "Clinical and experimental vaccine research",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Clinical and molecular hepatology",
     "scope": [
       "genomics",
@@ -5722,6 +5729,13 @@
     "name": "Mini reviews in medicinal chemistry",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Mitochondrial DNA. Part B, Resources",
+    "scope": [
       "genomics",
       "microbiology"
     ]
