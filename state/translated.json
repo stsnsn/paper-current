@@ -227113,5 +227113,370 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Anopheles plumbeusのホロゲノミクス解析により明らかになった内共生候補種Tisiphia sp.とのゲノム相補性",
     "abstract_ja": "Anopheles plumbeusは広く分布する森林性蚊の一種であり、ヒト、動物、および鳥類のマラリア病原体の有効な媒介生物である。本研究では、実験室培養から得られた雌のAn. plumbeus蚊のゲノムを配列決定し、アセンブルした。蚊は幼虫期にソチ（コーカサスの黒海沿岸）近郊で採集され、人工飼料を用いて成虫まで飼育された。ゲノムはOxford Nanopore Technologies社のロングリードシーケンシングを用いて構築された。得られたホロゲノムは1,449個のコンティグからなり、総長は188,457,274 bpである。本ゲノムは欧州ヌクレオチドアーカイブ（ENA）に寄託され、メタゲノムアセンブルゲノムとして公開されている。真核生物メタゲノムアセンブルゲノム（eMAG）アセンブルの高品質さはBUSCO解析によって確認され、97.5%の完全なBUSCOが示された。ホロゲノム内には、単一の細胞内細菌共生体であるCandidatus Tisiphia sp.が同定された。この共生体ゲノムは、Flyeアセンブラ（v. 2.9-b1774）を用いたWhole-Genome Shotgun（WGS）アプローチによりアセンブルされ、サイズは1.7 Mbとなった。登録されたCandidatus Tisiphia sp.のアセンブルは「リファレンス配列」と指定された。ゲノムアノテーションにより、タンパク質コード遺伝子1,525個、rRNA遺伝子4個、tRNA遺伝子38個を含む1,761個の遺伝子が明らかになった。この新規Candidatus Tisiphiaゲノムの顕著な特徴は、複数のファミリーに属するIS DNAトランスポゾンが豊富に存在することである。Candidatus Tisiphia sp.ゲノムでは、計361個のISエレメントが同定された。同定された8つのISトランスポゾンファミリー（IS6、IS701、IS4、IS630、ISNCY、IS110、IS5、IS1634）はマルチコピーである。極めて重要なことに、本細菌種において、葉酸（ビタミンB9）、ビオチン（ビタミンB7）、およびチアミン（ビタミンB1）の生合成遺伝子に加え、蚊の呼吸鎖におけるミトコンドリアシトクロムの機能に不可欠なヘム生合成遺伝子クラスターを初めて同定した。これらのデータは、潜在的に危険なこのマラリア媒介生物に対する生物的防除戦略を開発するための基礎的な枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0055.v1",
+    "title": "Phylogenomic and Comparative Genomic Analyses Support the Monophyly and Genomic Cohesion of the Pseudomonas Fluorescens Lineage but Not the Broader “Pseudomonas_E” Grouping",
+    "abstract": "The genus Pseudomonas comprises a large and diverse group of bacteria of major clinical, ecological, and biotechnological importance. Genome-based studies have shown that species currently assigned to this genus are distributed among multiple distinct evolutionary lineages. In this study, we examined the evolutionary relationships and genomic cohesion of the Fluorescens lineage using genome sequences from more than 450 members of the family Pseudomonadaceae. Phylogenomic trees constructed from multiple datasets, including 987 core proteins, the Bac120 marker set, a six-protein housekeeping dataset, and 16S rRNA gene sequences, consistently recovered the Fluorescens lineage as a large and strongly supported monophyletic clade. Whole-genome similarity analyses based on average amino acid identity, percentage of conserved proteins, and Dice similarity further supported the genomic cohesion of this lineage. Pangenome analyses identified 18 protein families for which homologs sharing a minimum of 50% sequence identity and 50% sequence length were present in all examined members of the Fluorescens lineage but absent from other species in the analyzed dataset. In contrast, no protein family meeting these criteria was identified for the broader GTDB grouping formerly designated “Pseudomonas_E”. Additionally, our analyses identified a molecular signature consisting of a conserved one-amino-acid deletion in the SurA N-terminal domain-containing protein that was uniquely shared by all examined members of this lineage. In the GTDB classification, the Fluorescens lineage is included within the broader “Pseudomonas_E” grouping, more recently designated Aquipseudomonas. However, the composition and boundaries of this broader grouping vary among phylogenetic analyses, and it lacks the comparable genomic cohesion and defining molecular characteristics observed for the Fluorescens lineage. These results provide independent evidence that the Fluorescens lineage represents a stable, monophyletic, and genomically cohesive evolutionary group, whereas the broader GTDB grouping is not supported as a comparably coherent lineage.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0055.v1",
+    "date": "2026-11-02",
+    "authors": "Gupta RS, Rudra B, Lalucat J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355026",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "pangenom",
+          "pangenome",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 63,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC genome methods",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0055.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f9dca866c423936025f0f922496032784fab1c0742052a90af2cb0f12be70b75",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:33:44.690234+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d469b10e162ca8fedb7d371423abe25d786ded04f81cb2abdb6f466e92243cf9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:33:44.690234+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "系統ゲノム解析および比較ゲノム解析は、Pseudomonas Fluorescens系統の単系統性とゲノム的まとまりを支持するが、より広範な「Pseudomonas_E」グループ化は支持しない。",
+    "abstract_ja": "Pseudomonas属は、臨床的、生態学的、およびバイオテクノロジー的に極めて重要な、大規模かつ多様な細菌群で構成されている。ゲノムに基づく研究により、現在本属に分類されている種が、複数の異なる進化系統に分布していることが示されている。本研究では、Pseudomonadaceae科の450種以上のメンバーのゲノム配列を用いて、Fluorescens系統の進化的関係とゲノム的結束性を検討した。987種類のコアタンパク質、Bac120マーカーセット、6種類のタンパク質からなるハウスキーピングデータセット、および16S rRNA遺伝子配列を含む複数のデータセットから構築した系統樹において、Fluorescens系統は一貫して、大規模で強固に支持される単系統群として得られた。平均アミノ酸同一性、保存タンパク質の割合、およびDice類似度に基づく全ゲノム類似性解析により、本系統のゲノム的結束性がさらに裏付けられた。パンゲノム解析では、最低50%の配列同一性と50%の配列長を共有するホモログが、Fluorescens系統の全調査メンバーに存在し、かつ解析データセット内の他の種には存在しない18のタンパク質ファミリーが同定された。対照的に、以前に「Pseudomonas_E」と指定されていたより広範なGTDBグループ化においては、これらの基準を満たすタンパク質ファミリーは同定されなかった。さらに、我々の解析により、SurA N末端ドメイン含有タンパク質における保存された1アミノ酸欠失からなる分子シグネチャーが同定され、これは本系統の全調査メンバーに固有に共有されていた。GTDB分類において、Fluorescens系統は、より最近にAquipseudomonasと指定されたより広範な「Pseudomonas_E」グループに含まれている。しかし、この広範なグループ化の構成と境界は系統解析によって異なり、Fluorescens系統で観察されたような比較可能なゲノム的結束性や定義的な分子特性を欠いている。これらの結果は、Fluorescens系統が安定かつ単系統的でゲノム的に結束した進化群である一方、より広範なGTDBグループ化は同等に一貫した系統群として支持されないという独立した証拠を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11310385/v1",
+    "title": "Australian isolates of cell fusing agent virus and Culex flavivirus provide new tools to study insect-specific flaviviruses",
+    "abstract": "Abstract    Cell fusing agent virus (CFAV) and  Culex  Flavivirus virus (CxFV) represent the prototype insect-specific flaviviruses (ISFs) found in  Aedes  and  Culex  species, respectively. While these viruses have been isolated from mosquitoes on several different continents, no isolates have been reported from Australian mosquitoes. In this study we successfully isolated CFAV from  Aedes aegypti  originating from Cairns in North Queensland, Australia and CxFV from  Culex quinquefasciatus  collected from Brisbane in South-East Queensland, representing the first field isolates for both viruses from Australia. Phylogenetic analysis of these isolates revealed that the new CFAV isolates were closely related to CFAV sequences previously detected by deep sequencing of pools of  Aedes aegypti  collected in North Queensland, while the genome sequences of the Brisbane CxFV isolates were most closely related to isolates of CxFV from  Culex quinquefasciatus  collected from Mexico in 2008. Using these Australian isolates, we report the first infectious clone created for CFAV, and the first infectious clone of the Australian strain of CxFV. Growth kinetics revealed that infectious clones of CFAV and CxFV replicated more efficiently than their wild-type counterparts, reaching titres more than 10  8  TCID  50  /ml. Deep-sequencing of these isolates indicated that differences in replication were due to co-infections of mosquito-derived native viruses with other viruses absent in infectious clone stocks. Using a panel of novel monoclonal antibodies raised against the CFAV virion proteins, we demonstrated antigenic relatedness between CFAV and CxFV and other lineage I ISFs, particularly those carrying the conserved FKW motif at positions 106–108 in the fusion loop region of the viral envelope protein. All generated mAbs bound CFAV with one mAb additionally recognising the ISFs CxFV, Palm Creek virus (PCV), Parramatta River virus (PaRV) and Niénokoué virus (NIEV). While these mAbs did not bind CxFV and CFAV proteins in mosquitoes injected with the infectious clones, the first immunofluorescence analysis of disseminated of CFAV in  Aedes  mosquitoes was visualised through anti-dsRNA staining, showing widespread infection across multiple mosquito tissues, including the midgut and ovaries. These advancements in the development of elementary tools provide opportunity to further our understanding of ISFs and pave the way for their potential application in laboratory research, as well as innovative mosquito-borne disease control strategies.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11310385/v1",
+    "date": "2026-11-02",
+    "authors": "Peterson AJ, McMahon IE, Hall LD, Johnston RA, Argent MS, Potter JR, Paramitha D, Parry RH, Newton ND, Ang CC, Rawle DJ, Darbro J, Hall RA, Hugo LE, Hobson-Peters J, Harrison JJ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355318",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 420,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11310385/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fed700272219c4b53b1884d477ea220c8af5faa412a6378b3fa79c29724f4d33",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:33:44.690234+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1e79e8bbb67f7b4b964a186e5e16a7a66ea42606187f5dd1730ddaccaf8eff50",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:33:44.690234+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞融合剤ウイルスおよびCulexフラビウイルスのオーストラリア分離株は、昆虫特異的フラビウイルス研究のための新たなツールとなる。",
+    "abstract_ja": "要旨    細胞融合剤ウイルス（CFAV）およびCulexフラビウイルス（CxFV）は、それぞれAedes属およびCulex属の種に見られる昆虫特異的フラビウイルス（ISF）のプロトタイプである。これらのウイルスは複数の異なる大陸の蚊から分離されているが、オーストラリアの蚊からの分離例は報告されていない。本研究では、オーストラリア・クイーンズランド州北部のケアンズで採取したAedes aegyptiからCFAVを、またクイーンズランド州南東部のブリスベンで採取したCulex quinquefasciatusからCxFVをそれぞれ分離することに成功し、これらはオーストラリアにおける両ウイルスの初の野外分離株となった。これらの分離株の系統解析の結果、新規のCFAV分離株は、クイーンズランド州北部で採取したAedes aegyptiプールのディープシーケンシングにより以前に検出されたCFAV配列と近縁である一方、ブリスベンのCxFV分離株のゲノム配列は、2008年にメキシコで採取されたCulex quinquefasciatus由来のCxFV分離株と最も近縁であることが明らかになった。これらのオーストラリア産分離株を用いて、CFAVの初の感染性クローン、およびCxFVのオーストラリア株の初の感染性クローンを作製したことを報告する。増殖動態解析により、CFAVおよびCxFVの感染性クローンは野生型よりも効率的に複製され、力価は10⁸ TCID 50/mlを超えた。これらの分離株のディープシーケンシングにより、複製の差異は、蚊由来の在来ウイルスと、感染性クローン株には存在しない他のウイルスとの共感染に起因することが示された。CFAVビリオンタンパク質に対して作製した新規モノクローナル抗体パネルを用い、CFAVおよびCxFVと他の系統I ISF、特にウイルスエンベロープタンパク質の融合ループ領域の106～108位に保存されたFKWモチーフを有するISFとの抗原関連性を実証した。作製したすべてのmAbはCFAVに結合し、さらに1つのmAbがISFであるCxFV、パームクリークウイルス（PCV）、パラマッタリバーウイルス（PaRV）、およびニエンコウエウイルス（NIEV）を認識した。これらのmAbは、感染性クローンを接種した蚊のCxFVおよびCFAVタンパク質には結合しなかったが、Aedes属の蚊に拡散したCFAVの初の免疫蛍光解析を抗dsRNA染色によって可視化したところ、中腸や卵巣を含む複数の蚊の組織にわたって広範な感染が認められた。基礎的なツールの開発におけるこれらの進展は、ISFの理解をさらに深める機会を提供し、研究室での研究や革新的な蚊媒介性疾患制御戦略への応用への道を切り拓くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11507981/v1",
+    "title": "Replicon-resolved pangenomics reveals functional specialisation and genome evolution in Vibrio coralliilyticus",
+    "abstract": "Abstract  Multipartite genomes define the genus Vibrio, yet replicon specialisation remains poorly understood, particularly in environmental species. We developed a machine-learning classifier to assign draft contigs to putative replicons with high accuracy, integrating complete and draft genomes in comparative analyses. Independent implementation in Vibrio cholerae yielded similar performance, supporting broader applicability. Analysis of 41 Vibrio coralliilyticus genomes revealed functional specialisation between chromosomes despite similar proportions of core and flexible gene families. Chromosome I was enriched in essential cellular processes, central metabolism, motility and regulation, whereas chromosome II was enriched in environmental sensing, signal transduction, transport and interaction-associated functions. Chromosome I also exhibited greater plasticity, with more extensive homologous recombination and higher densities of mobile genetic elements and defence systems. Two previously undescribed conjugative megaplasmid lineages (254–628 kb) displayed contrasting adaptive repertoires. One was broadly distributed across hosts and geographic regions, encoding a conserved accessory repertoire including a giant multidomain putative effector predicted to mediate host interactions. The other was restricted to Mediterranean coral isolates, with an expanded mobilome and a conserved Sofic-like anti-phage defence system. Together, these findings show that functional specialisation can coexist with similar gene conservation patterns, while chromosomes and megaplasmids make complementary contributions to adaptation and genome evolution.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11507981/v1",
+    "date": "2026-11-02",
+    "authors": "Rubio-Portillo E, Nadal-Molero F, Martin-Cuadrado A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355222",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "pangenom",
+          "pangenomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 421,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11507981/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1ae3a685b2dc1173abf9ca2ddadabbfecf56f8a20e21c5fc26cb333898523d4b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:33:44.690234+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4ed9c8f5d42f701c5ab201aa55b0e31c44f0a8f66110052888520bf662494b99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:33:44.690234+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Replicon解析によるパンゲノミクスが明らかにしたVibrio coralliilyticusの機能特化とゲノム進化",
+    "abstract_ja": "要旨　多部構成ゲノムはVibrio属を定義しているが、特に環境種におけるレプリコンの特化については依然として十分に解明されていない。我々は、比較解析において完全なゲノムとドラフトゲノムを統合し、ドラフトコンティグを推定レプリコンに高精度で割り当てる機械学習分類器を開発した。Vibrio choleraeを用いた独立した実装においても同様の性能が得られ、より広範な適用可能性が裏付けられた。Vibrio coralliilyticusのゲノム41件の解析により、コア遺伝子ファミリーとフレキシブル遺伝子ファミリーの割合が同程度であるにもかかわらず、染色体間で機能的な特化が見られることが明らかになった。第I染色体は必須の細胞プロセス、中心代謝、運動能および調節に富んでいた一方、第II染色体は環境感知、シグナル伝達、輸送、および相互作用関連機能に富んでいた。また、第I染色体はより高い可塑性を示し、相同組換えがより広範に行われ、可動性遺伝要素および防御システムの密度が高かった。これまで報告されていなかった2つの接合性メガプラスミド系統（254–628 kb）は、対照的な適応レパートリーを示した。一方は宿主や地理的領域に広く分布し、宿主間相互作用を媒介すると予測される巨大なマルチドメイン推定エフェクターを含む、保存された補助レパートリーをコードしていた。もう一方は地中海のサンゴ分離株に限定されており、拡張されたモビロームと保存されたSofic様抗ファージ防御システムを有していた。これらの知見を総合すると、機能的な特化が同様の遺伝子保存パターンと共存し得る一方で、染色体とメガプラスミドが適応とゲノム進化に対して相補的な寄与を果たしていることが示される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0064.v1",
+    "title": "The Global Landscape of Publicly Available Norovirus Sequences: Genotype Annotations, Genome Completeness, and Geographic Representation",
+    "abstract": "Background:  and Objectives: In the present work, we assessed genotype annotations, genome completeness, and geographic representation of norovirus in the National Center for Biotechnology Information Virus database. Methods: We analyzed metadata for 70,632 complete and partial norovirus sequence records retrieved on 17 August 2026. Major capsid protein (VP1) genotypes and RNA-dependent RNA polymerase (RdRp) types were extracted from deposited annotations. Genome completeness and geographic distribution were summarized descriptively, and 55 selected complete genomes underwent phylogenetic analysis. Results: GII.4 was the most frequently annotated specific VP1 genotype (18,503 records). Specific VP1 and RdRp assignments were unavailable in the analyzed annotations for 24,804 (35.12%) and 51,892 (73.47%) records, respectively. Only 1,859 records (2.63%) were annotated as complete genomes. Country metadata were available for 65,915 records (93.32%), of which Asia contributed 56.15%. The selected phylogeny showed broad genogroup clustering, with three animal-associated genomes belonging to GIV and GVI. Conclusion: This repository snapshot identified limited complete-genome representation, incomplete typing annotations, and uneven geographic representation. These findings describe deposited records rather than population prevalence. Improved genome coverage, annotation consistency, and metadata availability could support more informative comparative analyses.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0064.v1",
+    "date": "2026-11-02",
+    "authors": "Vargas D, Godoy M, Gaggero A, Kibenge M, Kibenge F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355018",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "genome",
+        "sequence",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 422,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0064.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dd05c27f811e88f4a82fd02fd10913f420096e87782bf36db0664a75fc7bc954",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:33:44.690234+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "327d37673820181f4fb831f838bf7a3cd977abbed223ffe982dc11933977c89d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:33:44.690234+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "公開されているノロウイルス配列の世界的概況：遺伝子型アノテーション、ゲノム完全性、および地理的分布",
+    "abstract_ja": "背景：および目的：本研究では、国立生物工学情報センターのウイルスデータベースにおいて、ノロウイルスの遺伝子型アノテーション、ゲノム完全性、および地理的分布を評価した。方法：2026年8月17日に取得した、完全および部分的なノロウイルス配列レコード70,632件のメタデータを解析した。寄託されたアノテーションから、主要カプシドタンパク質（VP1）遺伝子型およびRNA依存性RNAポリメラーゼ（RdRp）型を抽出した。ゲノム完全性と地理的分布を記述的にまとめ、選定した55件の完全ゲノムについて系統解析を行った。結果：最も頻繁にアノテーションされていた特定のVP1遺伝子型はGII.4（18,503件）であった。解析したアノテーションにおいて、特定のVP1およびRdRpの割り当てが得られなかったのは、それぞれ24,804件（35.12%）および51,892件（73.47%）であった。完全ゲノムとしてアノテーションされていたのは、わずか1,859件（2.63%）であった。国別メタデータは65,915件（93.32%）で利用可能であり、そのうちアジアが56.15%を占めていた。選定した系統解析では広範な遺伝子群のクラスタリングが認められ、動物関連のゲノム3件がGIVおよびGVIに属していた。結論：本リポジトリのスナップショットでは、完全ゲノムの代表性が限られていること、タイピングアノテーションが不完全であること、および地理的分布に偏りがあることが明らかになった。これらの知見は、集団における有病率ではなく、寄託されたレコードに関するものである。ゲノムカバレッジの向上、アノテーションの一貫性、およびメタデータの可用性の改善により、より情報量の多い比較解析が可能になると考えられる。"
   }
 ]
