@@ -204263,5 +204263,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ナイジェリア南西部の三次病院2施設における病原性Klebsiella quasipneumoniaeのgyrBに基づく分子同定および系統学的関連性",
     "abstract_ja": "要旨    背景  尿路感染症（UTI）は世界的に最も頻度の高い細菌感染症の一つであり、重大な公衆衛生上の問題となっている。  Klebsiella  属菌はUTIの主要な原因であり、しばしば薬剤耐性を伴う。本研究では、ナイジェリア南西部の2つの三次病院から得られた尿路病原性Klebsiella  spp.分離株のgyrB遺伝子を配列決定・比較し、GenBankで利用可能なKlebsiella  pneumoniae複合体の参照株と照合することで、それらの系統的関連性を判定し、ナイジェリア南西部における尿路病原性Klebsiella  spp.の遺伝的関連性に関する知見の空白を埋めることを目的とした。方法  ナイジェリア・オグン州のユニバーシティ・カレッジ病院イバダンおよびアベオクタ連邦医療センターから227検体の尿サンプルを採取し、生化学的にKlebsiella  spp.を同定した。耐性パターンに基づき、7株の分離株についてgyrB遺伝子の配列決定を行った。系統解析はNGPhylogeny.frを用いて実施し、系統樹はInteractive Tree of Life (iTOL)により可視化した。結果  培養サンプルのうち、96コロニーがエオジンメチレンブルー寒天培地（EMB）上で形態学的にKlebsiella  spp.様であった。生化学的同定の結果、  K  .  pneumoniae  (42)および  Klebsiella oxytoca  22がKlebsiella様分離株を構成し、残りの(32)はEnterobacter  spp.であった。無作為に選定した7株のKlebsiella pneumoniae分離株は、gyrB遺伝子配列を用いてKlebsiella quasipneumoniaeと同定された。系統解析の結果、2つの病院由来の分離株は参照株と密接にクラスターを形成しており、共通の進化系統を共有していることが示された。結論  ナイジェリア南西部の2つの病院から得られた尿路病原性Klebsiella  spp.分離株は、K. pneumoniae複合体のメンバーと密接に関連している。これらの知見は、継続的な分子サーベイランスの重要性を強調するものであり、保存された国境を越えた系統が適切な分類学的分類に関与していることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11432235/v1",
+    "title": "Bacterial Preconditioning Differentially Reshapes Neuronal Responses to Intermittent and Continuous Hypoxia-Like Stress",
+    "abstract": "Abstract    The microbiota–gut–brain axis exposes the nervous system to microbial information, but whether such exposure becomes part of the biological history that shapes later neuronal stress responses remains unknown. Here, we tested whether transient direct exposure to live  Lactiplantibacillus plantarum  (  L. plantarum  ) alters how differentiated B35 neuronal cells subsequently respond to hypoxia-like metabolic stress. We compared two trajectories combining chemical HIF stabilization with nutrient restriction: an intermittent, sublethal condition with recovery periods (MHX), relevant to recurrent vascular insufficiency, and a continuous severe condition (SHX). These trajectories generated distinct structural, metabolic and transcriptional states. Prior  L. plantarum  exposure was associated with higher MTT-derived metabolic viability after MHX but not SHX, and induced broader transcriptional reorganization under MHX (167 versus 64 differentially expressed genes), engaging signaling and cytoskeletal programs together with pathways linked to negative regulation of apoptosis and oxidative-stress-induced cell death. Only one bacterially responsive gene was shared between the two stress trajectories. Thus,  L. plantarum  did not impose a fixed neuroprotective program. Instead, prior microbial exposure acted as a biological input whose consequences depended on the subsequent stress trajectory. These findings establish neuron–bacteria communication as history-dependent and define an adaptive range in which microbial signals can influence neuronal responses before metabolic stress becomes overwhelming—a principle relevant to preventive intervention during recurrent vascular stress.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11432235/v1",
+    "date": "2026-11-10",
+    "authors": "Leaño-Hinojosa A, Lombardo-Hernandez J, Benitez-Cruz J, Rapetta I, García-Esteban MT, Murciano-Cespedosa A, Juan-Llamas C, Serrano-Regal MP, Geuna S, Cocolin L, Herrera-Rincon C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363096",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1069,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11432235/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4405fb1edde6d4822467e0c31ccfa7ac3bb12833172998c94186e4dd38b4801e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:29:33.612337+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "77d2a06ccd1df14a9598361205348e1809e84331561229291e41e92c45e21f4f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:29:33.612337+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌プレコンディショニングは、間欠的および持続的な低酸素様ストレスに対する神経細胞応答を差異的に再形成する。",
+    "abstract_ja": "要旨    微生物叢－腸－脳軸は、神経系を微生物情報にさらすが、そのような曝露が、その後の神経細胞のストレス応答を形作る生物学的履歴の一部となるかは不明である。本研究では、生菌のLactiplantibacillus plantarum（L. plantarum）への一過性の直接曝露が、分化したB35神経細胞の低酸素様代謝ストレスに対するその後の応答様式を変化させるか否かを検証した。我々は、化学的HIF安定化と栄養制限を組み合わせた2つの軌跡、すなわち、反復性血管不全に関連する間欠的な亜致死条件と回復期間を伴う条件（MHX）、および連続的な重度条件（SHX）を比較した。これらの軌跡は、構造的、代謝的、および転写的な異なる状態を惹起した。事前のL. plantarum曝露は、SHXではなくMHX後にMTT由来の代謝生存率の上昇と関連しており、またMHX下でより広範な転写再編成（発現変動遺伝子数167対64）を誘導し、シグナル伝達および細胞骨格プログラムを、アポトーシスの負の調節や酸化ストレス誘発性細胞死に関連する経路とともに関与させた。細菌応答性遺伝子のうち、2つのストレス軌跡間で共通していたのはわずか1つであった。したがって、L. plantarumは固定的な神経保護プログラムを課すものではなかった。むしろ、事前の微生物曝露は生物学的入力として作用し、その帰結はその後のストレス軌跡に依存していた。これらの知見は、神経細胞－細菌間のコミュニケーションが履歴依存的であることを立証し、代謝ストレスが圧倒的なものになる前に微生物シグナルが神経細胞応答に影響を与えうる適応範囲を定義するものであり、これは反復性血管ストレスにおける予防的介入に関連する原理である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11659327/v1",
+    "title": "Metagenomic assessment of airborne and surface viral signals and worker acceptability during a partial-lid intervention in a Cambodian live bird market",
+    "abstract": "Abstract  Mechanical defeathering can disperse viral material in live poultry markets, but interventional machine modifications must fit routine work. This nonrandomized field study evaluated partial lids on defeathering machines at Orussey Market, Cambodia, across six sampling days, three with lids and three without. Targeted RT-qPCR and target-enriched metagenomics characterised viral RNA in air samples collected during a three-hour air-sampling period and in nearby surface samples collected before and after that period, while work questionnaires assessed usability. Sequencing detected 73 poultry-associated viral taxa. Influenza A virus, avian coronavirus and rotavirus G together accounted for over 80% of relative metagenomic abundance in 14 of 18 air samples. In air samples, RT-qPCR cycle thresholds correlated inversely with metagenomic relative abundance for avian influenza virus and Newcastle disease virus (Spearman’s ρ = −0.645 and − 0.684, respectively). Airborne richness was descriptively lower on days with lids, but targeted viral detections did not change consistently, and composition profiles overlapped. Surface profiles changed from before to after the air-sampling period on days with and without lids; the study did not establish a lid-associated difference in these changes. All five workers reported discomfort and perceived slower work; none wanted to use the lid in its tested form, although three would continue if it were permanently integrated into the machine. With only three sampling days per condition, the study did not establish a consistent reduction in airborne or surface viral contamination associated with lid use. Future studies should evaluate lids redesigned with workers alongside complementary measures addressing ventilation, hygiene, and clean water and waste management to reduce occupational exposure.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11659327/v1",
+    "date": "2026-11-10",
+    "authors": "Sparaciari FE, Cronin P, Heang V, Tok S, Sin S, Rith C, Khun L, Nuon S, Top C, Ley L, Saulim S, Heng L, Bulloch B, Sour K, Hul V, Chhel K, Horm VS, Rath S, Sopheap S, Monrado S, Chrach R, Siegers JY, Bunnary S, Tum S, Su YCF, Smith GJD, Firth C, Horwood PF, Karlsson EA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363064",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1070,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11659327/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f3fcc21c05386de95eca8ce78a2192ba524bdec4c89d7ba6a968ac9d530a77fa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:29:33.612337+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b3fbe2e32239fd24c550bc104594b756dc72531db9e6f22fa3f359fef02c5b03",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:29:33.612337+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カンボジアの生きた鳥市場における一部蓋閉鎖措置中の、空気中および地表のウイルスシグナルのメタゲノム解析と作業者の受容性",
+    "abstract_ja": "要旨　機械的な脱殻作業は生きた家禽市場においてウイルス物質を飛散させる可能性があるが、介入的な機械改造は日常業務に適合している必要がある。本非無作為化フィールド研究では、カンボジアのオルッセイ市場における脱殻機の部分的な蓋について、6日間のサンプリング（蓋あり3日、蓋なし3日）にわたり評価した。3時間の空気サンプリング期間中に採取した空気試料および、その前後に採取した近隣の表面試料から、標的RT-qPCRおよび標的濃縮メタゲノミクスを用いてウイルスRNAを解析し、同時に作業アンケートによりユーザビリティを評価した。シーケンシングにより、家禽関連のウイルス分類群73種が検出された。18件の空気試料のうち14件において、A型インフルエンザウイルス、鳥コロナウイルス、およびロタウイルスGが合わせてメタゲノム相対存在量の80%以上を占めていた。空気試料において、RT-qPCRのサイクル閾値は、鳥インフルエンザウイルスおよびニューカッスル病ウイルスのメタゲノム相対存在量と逆相関を示した（スピアマンのρ = −0.645 および −0.684、それぞれ）。空気中の存在量は、蓋ありの日において記述的に低かったが、標的ウイルスの検出結果は一貫して変化せず、組成プロファイルは重複していた。表面プロファイルは、蓋ありの日となしの日で、空気サンプリング期間前後で変化したが、本研究ではこれらの変化に蓋に関連した差異は認められなかった。作業員5名全員が不快感と作業速度の低下を報告し、試験した形態の蓋の使用を希望する者はいなかったが、3名は機械に恒久的に組み込まれるのであれば使用を継続すると回答した。条件あたりのサンプリング日数が3日のみであったため、本研究では蓋の使用に伴う空気中または表面のウイルス汚染の一貫した減少は確認されなかった。今後の研究では、作業員と共に蓋を再設計するとともに、職業的曝露を低減するための換気、衛生、および清潔な水と廃棄物管理に関する補完的な対策を評価すべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.07.764600",
+    "title": "Learning from Hi-C reveals nuclear dynamical reorganization in budding yeast across the cell cycle",
+    "abstract": "Hi-C contact maps provide population-averaged measurements of chromosomal contacts. Converting these measurements, however, into three-dimensional structures and associated dynamics remains an underdetermined problem. Existing approaches broadly fall into two classes. Data-driven reconstruction methods that infer either a consensus structure or an ensemble of conformations, but do not inform on chromosome dynamics. Physics-based models, which generate dynamical trajectories, but require prior assumptions about nuclear geometry, chromatin mechanics, tethering, or molecular interactions. Here, we bridge these approaches using the Full-Inversion Chromatin model, a data-driven whole-genome polymer framework that learns an effective force field directly from Hi-C contact probabilities; integrated with Serpentine, a tool to quantify contact-map discrepancies while accounting for differences in sequencing coverage and sparsity. This generates structural ensembles of chromosomes and effective chromatin dynamics. We apply this method at 5-kb resolution to  Saccharomyces cerevisiae in G1, mid-S, S/G2, G2/M, anaphase, and quiescence. Without explicitly imposing the spindle pole body, centromere or telomere tethering, predefined chromatin states, or nuclear-envelope interactions, the inferred ensembles recover these major features of yeast nuclear organization. Importantly, although dynamical information is not used during model training, the resulting polymer trajectories reproduce the subdiffusive scaling and chromosomal variations of independently measured chromatin motion. The model further predicts heterogeneous mobility along chromosomes and a distinctive telomere-dependent dynamical organization. Thus, population-averaged Hi-C contacts contain sufficient information to infer not only three-dimensional genome organization, but also effective, locus-dependent chromatin dynamics.",
+    "journal": "",
+    "doi": "10.64898/2026.11.07.764600",
+    "date": "2026-11-10",
+    "authors": "Oliveira AB, Contessoto VG, Mozziconacci J, Onuchic JN, Scolari VF.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363777",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1583,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.07.764600"
+    ],
+    "translation": {
+      "title": {
+        "hash": "019ce0cd8662ae7481de851bc14851be1190abec19bea7f06ab99be27729b306",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:29:33.612337+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "138a458ade25cfa75c3e9db521a1ea2939558e02a3d274c313d1458a2729f335",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:29:33.612337+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Hi-Cから得られた知見が明かす、細胞周期を通じた出芽酵母における核の動的再編成",
+    "abstract_ja": "Hi-Cコンタクトマップは、染色体コンタクトの集団平均測定値を提供する。しかし、これらの測定値を三次元構造および関連するダイナミクスへと変換することは、依然として十分に解明されていない課題である。既存の手法は、大きく2つのカテゴリーに分類される。コンセンサス構造またはコンフォメーションのアンサンブルを推定するが、染色体ダイナミクスに関する情報は提供しないデータ駆動型の再構成手法。動的な軌跡を生成するが、核の幾何学的構造、クロマチン力学、テザリング、あるいは分子間相互作用に関する事前の仮定を必要とする物理ベースのモデルである。本研究では、Hi-Cコンタクト確率から直接有効力場を学習するデータ駆動型の全ゲノムポリマーフレームワークであるFull-Inversion Chromatinモデルを用いて、これらのアプローチを橋渡しする。このモデルを、シーケンシングカバレッジやスパース性の差異を考慮しつつコンタクトマップの不一致を定量化するツールであるSerpentineと統合した。これにより、染色体の構造アンサンブルと有効なクロマチンダイナミクスが生成される。我々は、この手法を5 kbの解像度で、G1、mid-S、S/G2、G2/M、後期、および静止期のSaccharomyces cerevisiaeに適用した。紡錘体極体、セントロメアまたはテロメアのテザリング、事前定義されたクロマチン状態、あるいは核膜相互作用を明示的に課すことなく、推定されたアンサンブルは酵母の核組織化におけるこれらの主要な特徴を再現した。重要な点として、モデルの学習過程で動的情報は使用されていないが、得られたポリマー軌跡は、独立して測定されたクロマチン運動の亜拡散スケーリングおよび染色体変動を再現している。さらに本モデルは、染色体に沿った不均一な可動性と、特徴的なテロメア依存的な動的組織化を予測する。したがって、集団平均のHi-Cコンタクトは、三次元的なゲノム組織化だけでなく、遺伝子座依存的な有効なクロマチンダイナミクスを推定するために十分な情報を含んでいる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11647131/v1",
+    "title": "Probiotics with cranberry extract and vitamin C in women with recurrent urinary tract infections: a randomized controlled trial",
+    "abstract": "Abstract    Introduction and Hypothesis  : Recurrent urinary tract infections (rUTIs) pose a significant clinical burden in women and contribute to antibiotic use. This study investigates the probiotic properties of  Lactiplantibacillus plantarum  KABP062 and KABP063, and their efficacy combined with cranberry extract and vitamin C in reducing rUTIs recurrence.  Methods  : Probiotic functionality and safety were assessed using  in vitro  and  in silico  approaches, including antimicrobial activity against uropathogens, gastrointestinal tolerance, enzymatic safety, and genomic screening for bacteriocin and biogenic amine biosynthesis genes. Clinical efficacy of the multi-component formulation was investigated in a double-blind, randomized, placebo-controlled trial involving women with active or recent rUTIs. Participants received daily capsules containing probiotic strains (≥ 10  8  colony forming units, CFUs), cranberry extract (240 mg) and vitamin C (40 mg), or placebo for six months. The primary endpoint was the proportion of women with physician-confirmed recurrences. Secondary outcomes included number of recurrences, antibiotic use (days), vaginal microbiota, and safety.  Results  : Both  L. plantarum  strains inhibited multiple uropathogens, including  Escherichia coli  , and showed gastrointestinal tolerance and a favorable safety profile. A total of 106 women were randomized. After six months, the proportion of participants experiencing at least one UTI did not differ between groups (p = 0.689). However, the active group was associated with a lower number of UTIs compared to control group (p = 0.013). Antibiotic use was also significantly reduced (p = 0.031) in active group vs control, alongside decreases in seven UTI-associated genera in the vaginal microbiota, including  Escherichia/Shigella  . Adverse events were comparable between groups. Conclusions: The multi-component formula was safe. Although the primary endpoint was not met, the intervention was associated with a lower number of UTIs and reduced antibiotic use, together with potential reductions in the vaginal uropathogen reservoir.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11647131/v1",
+    "date": "2026-11-10",
+    "authors": "Martin LL, Barea VM, Suárez JB, Gómez GM, Bregante JFE, Ibaigar-Pedraza I, Guerrero-Bonmatty R, Carrillo-Norte JA, Perez M, González-Enguita C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363343",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1584,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11647131/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "32aa6946a85d1866ea4ac74c79001611ce06beccd3a1bdbce6f82919bf346921",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:29:33.612337+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c63f7de5bb52e34453926dff45212d2841d24eeba161d015a85f8a452dc2cca3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:29:33.612337+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "反復性尿路感染症を有する女性におけるクランベリー抽出物およびビタミンC配合プロバイオティクス：ランダム化比較試験",
+    "abstract_ja": "要旨    序論および仮説  ：再発性尿路感染症（rUTIs）は女性において重大な臨床的負担となっており、抗菌薬の使用の一因となっている。本研究では、Lactiplantibacillus plantarum KABP062およびKABP063のプロバイオティクス特性と、クランベリー抽出物およびビタミンCとの併用によるrUTIs再発抑制効果について検討する。  方法  ：プロバイオティクスの機能性と安全性を、尿路病原体に対する抗菌活性、消化管耐性、酵素学的安全性、およびバクテリオシンおよび生体アミン生合成遺伝子のゲノムスクリーニングを含むin vitroおよびin silicoアプローチを用いて評価した。多成分製剤の臨床的有効性については、活動性または最近rUTIsを発症した女性を対象とした二重盲検ランダム化プラセボ対照試験により検討した。被験者には、プロバイオティクス菌株（≥ 10 8 コロニー形成単位［CFU］）、クランベリー抽出物（240 mg）およびビタミンC（40 mg）を含むカプセル、またはプラセボを6か月間毎日投与した。主要評価項目は、医師により再発が確認された女性の割合とした。副次評価項目には、再発回数、抗菌薬使用日数、腟内微生物叢、および安全性を含めた。  結果  ：L. plantarumの両菌株は、Escherichia coliを含む複数の尿路病原体を抑制し、消化管耐性および良好な安全性プロファイルを示した。計106名の女性をランダムに割り付けた。6か月後、少なくとも1回の尿路感染症（UTI）を経験した被験者の割合は、群間で差が認められなかった（p = 0.689）。しかし、活動群では対照群と比較してUTI回数が少なかった（p = 0.013）。また、活動群では対照群と比較して抗菌薬の使用量が有意に減少し（p = 0.031）、併せて腟内微生物叢においてEscherichia/Shigellaを含むUTI関連7属の減少が認められた。有害事象は群間で同等であった。結論：本多成分製剤は安全であった。主要評価項目は達成されなかったものの、本介入によりUTI回数の減少と抗菌薬使用量の低減が認められ、併せて腟内尿路病原体リザーバーの減少が期待される。"
   }
 ]
