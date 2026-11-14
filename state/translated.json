@@ -205753,5 +205753,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヒト腫瘍ウイルスはHSP70シャペロンを動員してDNA上のレプリソームをリモデリングする",
     "abstract_ja": "ヒトメルケル細胞ポリオーマウイルス（MCV）の大型T（LT）タンパク質は、細胞内MCM複合体に類似した複製ヘリカーゼとして機能するが、効率的なLT誘導型複製には第2のMCVタンパク質である小型T（sT）を必要とする。LTおよびsTはともに、細胞内リフォールディング分子であるヒートショックプロテイン70（HSP70）に結合する高度に保存されたDnaJドメインをコードしている。単分子イメージングおよびFRETを用いた解析により、sTが二量体HSP70をリクルートしてDNA上でsTとLTの間の分子架け橋として機能させ、この複合体がLTの機能的な二重六量体ヘリカーゼへのリモデリングを促進することが明らかになった。HSP70阻害剤による、あるいはLT-sT DnaJドメインの変異によるLT-HSP70-HSP70-sT相互作用の阻害は、LT-HSP70-HSP70-sT複合体を崩壊させ、sTによるLTのドデカマー化およびATP依存的なDNA巻き戻しを消失させる。核抽出液中におけるウイルス不含の哺乳類MCM3、MCM4およびMCM6の会合も同様にHSP70をDNAへとリクルートしており、このことはHsp70のリモデリングが多タンパク質複製機構の効率的な真核生物レベルでの構築に利用されていることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11244820/v1",
+    "title": "Pharmacological enhancement of 20S proteasome-mediated degradation exposes a vulnerability in human papillomavirus (HPV)-driven cervical cancer",
+    "abstract": "Abstract  Abstract: Despite the availability of prophylactic vaccines against human papillomavirus (HPV), infection and subsequent cervical cancer remain a significant global health problem. HPV viral oncoproteins E6 and E7 drive oncogenesis, in part through disruption of cell growth control pathways via degradation of the tumor suppressors p53 and pRB, respectively. These proteins contain intrinsically disordered regions that enable interactions with multiple cellular targets but also complicate the development of conventional therapeutics. While these proteins have previously been associated with a ubiquitin-dependent clearance mechanism through the 26S proteasome, we show that these HPV viral proteins can be degraded in a ubiquitin-independent method through the 20S proteasome alone. We also show that the small molecule-enhancement of this protease reduces HPV E6 and E7 protein levels across high-risk strains of the virus in a proteasome-dependent and transcription-independent manner. 20S proteasome activation suppressed HPV-driven phenotypes, including reduced proliferation and restoration of cell-cycle regulatory signaling. Whole cell proteomic analysis revealed remodeling of cancer-associated pathways including shifts consistent with reduced proliferative and oncogenic metabolic signaling. Collectively, these findings identify a previously unrecognized vulnerability of HPV oncoproteins and establish 20S proteasome activation as a potential therapeutic strategy for HPV-associated cancers.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11244820/v1",
+    "date": "2026-11-09",
+    "authors": "Tepe J, Cartwright S, Le L, Carranza A, Hartnett K, Ghaffari B, Dou Y, Konduru G, Kumar P, Zhang T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361732",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2111,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.21203/rs.3.rs-11244820/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7a45f6660b7d169b808be96db653becc4c4d6a8fe50a976e33a4b1af85022f22",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:47:18.557894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bbeba506b69ee5078f763175dbbe86988f0f2ea573f2594b846a30a84c017b47",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:47:18.557894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "20Sプロテアソーム介在性分解の薬理学的増強は、ヒトパピローマウイルス（HPV）誘発性子宮頸癌の脆弱性を露呈させる",
+    "abstract_ja": "要旨  要旨：ヒトパピローマウイルス（HPV）に対する予防ワクチンが利用可能であるにもかかわらず、感染およびそれに続く子宮頸がんは、依然として世界的な重大な保健問題となっている。HPVウイルスのオンコプロテインE6およびE7は、それぞれ腫瘍抑制因子p53およびpRBの分解を介して細胞増殖制御経路を阻害することで、部分的に発がんを促進する。これらのタンパク質は、複数の細胞標的との相互作用を可能にする固有の無秩序領域を有しているが、これが従来の治療薬の開発を困難にしている。これまで、これらのタンパク質は26Sプロテアソームを介したユビキチン依存的なクリアランス機構に関連付けられてきたが、本研究では、これらのHPVウイルスタンパク質が20Sプロテアソームのみを介して、ユビキチン非依存的な方法で分解され得ることを示す。また、このプロテアーゼの低分子化合物による増強が、プロテアソーム依存的かつ転写非依存的な様式で、高リスク株のウイルスにおけるHPV E6およびE7タンパク質レベルを低下させることを示す。20Sプロテアソームの活性化は、増殖の抑制や細胞周期調節シグナルの回復を含む、HPV駆動性の表現型を抑制した。全細胞プロテオーム解析により、増殖および発がん性代謝シグナルの低下と整合するシフトを含む、がん関連経路のリモデリングが明らかになった。総じて、これらの知見は、HPVオンコプロテインのこれまで認識されていなかった脆弱性を特定し、20Sプロテアソーム活性化をHPV関連がんに対する潜在的な治療戦略として確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.764881",
+    "title": "Generative design of de novo AAV vectors with unique serological profiles",
+    "abstract": "More than 5000 monogenic diseases are potentially curable by replacing a single defective gene with one that functions normally. Currently, the only clinically approved vector able to effectively deliver a therapeutic gene to a target tissue is Adeno-Associated Viruses (AAVs). However, despite decades of work, only a handful of gene replacement therapies have been approved, and many patients remain ineligible for even those. A major barrier to broad adoption of AAV therapies is pre-existing immunity to AAVs, mediated by neutralizing antibodies (nAbs). It is potentially possible to change exposed capsid surfaces in AAV capsids to avoid nAb recognition. However, traditional techniques such as rational design and directed evolution only allow modest changes. AAV function becomes compromised long before full nAb avoidance is achieved. Recent advances in protein design by generative modelling provide a new way to overcome this problem by learning AAV design constraints from natural sequences. We built a variational autoencoder that could learn these sequence constraints and generate functional AAV capsid proteins de novo. More than 255 designs were synthesized and tested in vitro in two design sets, with one set dedicated to exploring uncertain regions of the sequence space. Between the two campaigns, seven designs transduced human cells with >50% efficiency, of which four avoided nAb neutralization (NT50 < 1:50) in all human sera that were reactive to AAV. In one of these designs, sequence identity to the nearest natural AAV sequence was 18% divergent. Given the radical sequence diversity and its unique serological profile, this new capsid design would represent the first ever AAV serotype designed de novo.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764881",
+    "date": "2026-11-09",
+    "authors": "Garton M, Chiesa G, Lyu S, Nguyen M, Benjamin J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363818",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2969,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.06.764881"
+    ],
+    "translation": {
+      "title": {
+        "hash": "419682904acfb6e881ce3566fc5d9b8f760da89d1d9106d2d96c92fc35808c70",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:47:18.557894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3d48b4adf457e8d490197ec7c0b45437311e7f28b6b245224714a9bd18bc0476",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:47:18.557894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "独自の血清学的プロファイルを有するde novo AAVベクターのジェネレーティブデザイン",
+    "abstract_ja": "5,000種類以上の単一遺伝子疾患は、単一の欠損遺伝子を正常に機能する遺伝子に置換することで治療できる可能性がある。現在、治療用遺伝子を標的組織へ効果的に送達できる臨床承認済みのベクターは、アデノ随伴ウイルス（AAV）のみである。しかし、数十年にわたる研究にもかかわらず、承認された遺伝子置換療法はごくわずかであり、多くの患者はそれらの治療さえ受けられない状況にある。AAV療法の広範な普及における大きな障壁は、中和抗体（nAb）を介したAAVに対する既存の免疫である。AAVカプシドの露出した表面を改変することで、nAbによる認識を回避できる可能性がある。しかし、合理的設計や指向性進化といった従来の手法では、わずかな変更しか行えない。完全なnAb回避が達成されるずっと前に、AAVの機能が損なわれてしまう。近年の生成モデリングによるタンパク質設計の進展は、天然配列からAAVの設計制約を学習することで、この問題を克服する新たな手法を提供している。我々は、これらの配列制約を学習し、機能的なAAVカプシドタンパク質をde novoで生成できる変分オートエンコーダを構築した。255種類以上の設計案を合成し、2つの設計セットを用いてin vitroで検証した。そのうち1つのセットは、配列空間の不確実な領域の探索に特化したものである。これら2つのキャンペーンを通じて、7つの設計案が50%を超える効率でヒト細胞に導入され、そのうち4つはAAVに反応したすべてのヒト血清においてnAbによる中和を回避した（NT50 < 1:50）。これらの設計案の一つでは、最も近い天然AAV配列との配列同一性が18%乖離していた。この劇的な配列多様性と独自の血清学的プロファイルを考慮すると、この新しいカプシド設計は、de novoで設計された史上初のAAV血清型となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0825.v1",
+    "title": "Protein Expression to Functional Interaction: Evaluating Evidence for Therapeutic Targets in Cancer",
+    "abstract": "Protein abundance helps identify candidate cancer targets. Their therapeutic relevance depends on the protein’s molecular state, its role in the tumor, and how the treatment acts on it. This review synthesizes evidence from quantitative proteomics, protein interaction mapping, structural analysis, genetic perturbation, and pharmacological studies. Preclinical examples involving epidermal growth factor receptor trafficking, hexokinase 2 scaffolding, chromatin complex assembly, and protein turnover illustrate how localization, binding partners, and post-translational modifications shape protein function. Studies of targeted degraders and molecular glues show why target engagement, ubiquitin ligase recruitment, and protein loss require separate verification. Clinical responses to revumenib in genetically defined acute leukemias support targeting the menin–KMT2A interaction, while acquired MEN1 mutations reveal a mechanism of resistance. Trastuzumab deruxtecan in HER2-low breast cancer illustrates a distinct use of protein expression to guide patient selection when the target serves as a delivery antigen. We propose a framework that evaluates protein expression, physical interaction, functional dependence, drug mechanism, and clinical benefit as distinct forms of evidence. The framework matches validation experiments and patient-selection biomarkers to the therapeutic modality. Confidence in a target is greatest when independent evidence connects the proposed mechanism to a cancer-relevant effect at achievable and tolerable drug exposures.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0825.v1",
+    "date": "2026-11-09",
+    "authors": "Ayaz M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362769",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2970,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.20944/preprints202611.0825.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e4643b74a001539de96e0f2353eaa32ae3b78957e04fbcc528dd92e74c7d9e0a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:47:18.557894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d3ebfc4f39ef2b329415d779d8eb602d98b714a4fbb5bcd18caed3673f84bcd7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:47:18.557894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質発現から機能的相互作用へ：がんにおける治療標的のエビデンス評価",
+    "abstract_ja": "タンパク質の存在量は、がんの標的候補を同定する上で有用である。その治療的意義は、タンパク質の分子状態、腫瘍における役割、および治療がタンパク質にどのように作用するかに依存する。本総説では、定量プロテオミクス、タンパク質相互作用マッピング、構造解析、遺伝子摂動、および薬理学的研究から得られたエビデンスを統合して提示する。上皮成長因子受容体の輸送、ヘキソキナーゼ2の足場形成、クロマチン複合体の構築、およびタンパク質ターンオーバーに関する前臨床例は、局在、結合パートナー、および翻訳後修飾がタンパク質の機能をどのように規定するかを示している。標的分解酵素および分子グルーに関する研究は、標的への結合、ユビキチンリガーゼの動員、およびタンパク質の喪失に、なぜ個別の検証が必要なのかを明らかにしている。遺伝的に定義された急性白血病におけるレブメニブへの臨床反応は、メニン–KMT2A相互作用を標的とすることを支持する一方、獲得性MEN1変異は耐性機序を明らかにしている。HER2低発現乳がんにおけるトラスツズマブ デルクステカンは、標的がデリバリー抗原として機能する場合に、患者選択の指針としてタンパク質発現を利用するという独自の手法を示している。我々は、タンパク質発現、物理的相互作用、機能的依存性、薬物機序、および臨床的有用性を、それぞれ独立したエビデンスの形態として評価するフレームワークを提案する。このフレームワークは、検証実験および患者選択バイオマーカーを治療モダリティに合致させる。標的に対する確信度は、独立したエビデンスによって、提案された機序が、達成可能かつ耐容可能な薬物曝露量においてがんに関連する効果に結びついていることが示されたときに最も高くなる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764696",
+    "title": "A cohesin acetylation complex that recognises nicked DNA",
+    "abstract": "Eukaryotic DNA replication products are held together by cohesin to enable their faithful inheritance during cell division. The establishment of stable sister chromatid cohesion requires replication-coupled acetylation of two conserved lysines on the cohesin Smc3 ATPase head. Here, we use AlphaFold 3 to predict the existence of a budding yeast cohesin acetylation complex, consisting of the replication protein PCNA, the cohesin subunit Pds5 and the Eco1 acetyltransferase. The predicted complex specifically contacts nicked DNA, a replication fork determinant that controls acetylation. Furthermore, cohesin engagement results in predicted conformational adaptations that bring acetyl-CoA in striking distance of the Smc3 target lysine. We perform biochemical and genetic experiments that confirm anticipated features of this reaction trajectory. Related cohesin acetylation complexes are predicted to form in other eukaryotes, including humans. Our study combines AI-assisted structure predictions and wet-bench experimentation to reveal the likely mechanism of replication-coupled cohesin acetylation during sister chromatid cohesion establishment.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764696",
+    "date": "2026-11-09",
+    "authors": "Bouchoux C, Uhlmann F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362544",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2993,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.05.764696"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b7fc92d737a3eab6588745ffa1690bc7edd139f19cefe8dd6f1c53b6264f781e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:47:18.557894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7bc823e241d1666a06ee301012b460ddc3cc12f746a02330c6d9872772d84038",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:47:18.557894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ニックDNAを認識するコヒーシンアセチル化複合体",
+    "abstract_ja": "真核生物のDNA複製産物は、細胞分裂における忠実な継承を可能にするため、コヒーシンによって保持されている。安定した姉妹染色分体コヒージョンの確立には、コヒーシンSmc3 ATPase頭部にある2つの保存されたリシンの複製共役型アセチル化が必要である。本研究では、AlphaFold 3を用いて、複製タンパク質PCNA、コヒーシンサブユニットPds5、およびEco1アセチルトランスフェラーゼからなる酵母の芽形成期コヒーシンアセチル化複合体の存在を予測した。予測された複合体は、アセチル化を制御する複製フォーク決定因子であるニックDNAと特異的に接触する。さらに、コヒーシンの関与により、予測されたコンフォメーション適応が生じ、アセチルCoAがSmc3標的リシンの極めて近い距離まで接近する。我々は、この反応経路の予想される特徴を裏付ける生化学的および遺伝学的実験を行った。関連するコヒーシンアセチル化複合体は、ヒトを含む他の真核生物においても形成されると予測される。本研究は、AI支援による構造予測とウェットベンチ実験を組み合わせることで、姉妹染色分体コヒージョンの確立過程における複製共役型コヒーシンアセチル化の推定メカニズムを明らかにする。"
   }
 ]
