@@ -215557,5 +215557,352 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "カリフォルニアのワイナリー産乳酸菌、酢酸菌およびそのファージの特性解析",
     "abstract_ja": "要旨    乳酸菌（LAB）および酢酸菌（AAB）の制御不能な増殖に起因する揮発性酸度や異味によるワインの劣化は、多大な経済的損失をもたらす。本研究では、ワイン醸造工程全体におけるLABおよびAABの残存性を調査し、標的微生物制御としてのファージの可能性を評価することを目的とした。2025年の収穫期に、カリフォルニア州リバーモアのワイナリーから、ブドウの洗浄、果汁／マスト、一次発酵の最終段階、およびマロラクティック発酵の各工程にわたるカベルネ・ソーヴィニヨンのサンプルを採取した。これらのサンプルの細菌16Sアンプリコンシーケンシングにより、LABではLactiplantibacillus plantarumおよびLevilactobacillus lactis、AABではAcetobacter oryzoeniおよびAcetobacter pasteurianusなど、醸造工程を通じて残存する主要な菌種が同定された。L. brevis、A. pasteurianus、およびA. fabarumを標的とするファージが単離された。L. brevisファージのIndaco_L1およびIndaco_L2（ゲノムサイズはそれぞれ135,623 bpおよび141,184 bp）は、Herelleviridae科Tybeckvirus属のファージに関連しているが、2つの新規種を形成するほど十分に異なっている。2つの新規Acetobacterファージ、すなわち初めて報告されたAcetobacter jumboファージのVinphasol_A1（ゲノムサイズ397,952 bp）およびVinphasol_A2（ゲノムサイズ56,636 bp）は、現行のNCBIデータベースにあるファージとのDNA配列の類似性がほとんど認められない。これらの単離されたファージは、ワイン発酵を模した条件下において、L. brevis、A. pasteurianus、およびA. fabarumの増殖を最大7日間抑制することができ、ワイン製造工程における微生物性劣化の制御への応用の可能性が示唆された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763643",
+    "title": "GeneFamHunter: annotation-independent recovery of divergent and tandemly arrayed gene-family members from genome assemblies",
+    "abstract": "Motivation  Gene families expand by tandem duplication, diverge and decay, so their members are often missing, fragmented or fused in automated genome annotations, and divergent copies escape pairwise similarity searches. These challenges are particularly pronounced in non-model organisms, for which well-annotated genomes and reference proteomes are often unavailable, limiting the applicability of protein-based gene family recovery methods. Results  We developed GeneFamHunter to recover gene-family members directly from nucleotide assemblies. It searches continuous six-frame translations of overlapping genomic windows using four complementary domain- and profile-based methods, clusters hits while distinguishing tandem paralogs, predicts and validates gene models, and constructs gene trees. Across six Quest for Orthologs genomes, window-based HMMER searches recovered all 130 reference papain-like (C1A) loci, with 21 off-target hits, compared with 45 for stop-to-stop ORF searches; whole-contig HMMER searches recovered 108 (83.1%). With 11 distantly related queries, PSI-BLAST and DELTA-BLAST recovered all reference loci, whereas RPSTBLASTN recovered 98.5–99.2% and TBLASTN, as used by BITACORA, recovered 94.6– 95.4%. Across six mite genomes, GeneFamHunter recovered all 209 previously reported C1 loci and identified 37 additional candidate loci. In a separate comparison, it recovered all 128 reference UniProt C1A proteins and identified five additional loci without annotated gene models; OrthoFinder included 35 non-C1A proteins, whereas OMA recovered 98 reference proteins. Availability and implementation  GeneFamHunter is implemented in Bash for Linux and SLURM clusters and is freely available at  https://github.itap.purdue.edu/HeLab/GeneFamHunter (MIT license). Benchmark code and data:  https://github.itap.purdue.edu/HeLab/GeneFamHunter_benchmarks and Zenodo (DOI: 10.5281/zenodo.23744704).  Supplementary information  Supplementary data are available at  Bioinformatics online.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763643",
+    "date": "2026-11-04",
+    "authors": "Klimov PB, He Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358767",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "gene",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 634,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763643"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6684b053d7b12b549bdb9c7453e9ec0c3245ffc5efd03fc9efda193f941246c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:23:26.076660+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "52ef055bbcdcb77c1f2b2336af7a38b955710ed118e088828cde289664fdeefc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:23:26.076660+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GeneFamHunter: ゲノムアセンブリからの分岐型およびタンデム配列の遺伝子ファミリーメンバーのアノテーションに依存しない回収",
+    "abstract_ja": "動機  遺伝子ファミリーはタンデム重複によって拡大し、分岐し、消失するため、自動ゲノムアノテーションでは構成員が欠落、断片化、あるいは融合していることが多く、また分岐コピーはペアワイズ類似性検索から逃れる。こうした課題は、十分にアノテーションされたゲノムやリファレンスプロテオームが入手できないことが多い非モデル生物において特に顕著であり、タンパク質ベースの遺伝子ファミリー復元手法の適用範囲を制限している。結果  我々は、ヌクレオチドアセンブリから遺伝子ファミリー構成員を直接復元するためのGeneFamHunterを開発した。本ツールは、4つの相補的なドメインおよびプロファイルベースの手法を用いて、重複するゲノムウィンドウの連続的な6フレーム翻訳を検索し、タンデムパラログを区別しながらヒットをクラスタリングし、遺伝子モデルを予測・検証し、遺伝子系統樹を構築する。6つのQuest for Orthologsゲノムにおいて、ウィンドウベースのHMMER検索では130箇所すべてのリファレンスパパイン様（C1A）遺伝子座が復元され、オフターゲットヒットは21件であった（stop-to-stop ORF検索では45件）。全コンティグHMMER検索では108箇所（83.1%）が復元された。遠縁のクエリ11件において、PSI-BLASTおよびDELTA-BLASTはすべてのリファレンス遺伝子座を復元し、一方でRPSTBLASTNは98.5–99.2%、BITACORAで使用されたTBLASTNは94.6–95.4%を復元した。6つの線虫ゲノムにおいて、GeneFamHunterは既報のC1遺伝子座209箇所すべてを復元し、さらに37箇所の候補遺伝子座を同定した。別の比較では、128箇所すべてのリファレンスUniProt C1Aタンパク質を復元し、アノテーション済み遺伝子モデルのない遺伝子座をさらに5箇所同定した。OrthoFinderは35箇所の非C1Aタンパク質を含み、一方でOMAは98箇所のリファレンスタンパク質を復元した。利用可能性と実装  GeneFamHunterはBash for LinuxおよびSLURMクラスターで実装されており、https://github.itap.purdue.edu/HeLab/GeneFamHunter（MITライセンス）で無料で利用可能である。ベンチマークコードおよびデータ：https://github.itap.purdue.edu/HeLab/GeneFamHunter_benchmarksおよびZenodo（DOI: 10.5281/zenodo.23744704）。補足情報  補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.01.763506",
+    "title": "Deterministic DNA-first discovery reveals recurrent genomic architectures",
+    "abstract": "Genome mining typically begins with known genes or protein families, which can make systems defined primarily by genomic organization difficult to detect. We developed a DNA-first framework combining asymmetric-ovariance natural-vector representations with generic positional recurrence, joining separately calibrated signals through genomic coordinates. In benchmarks of array-associated reverse transcriptase (ART) loci, the target-free mathematical arm localized seven of eight predeclared loci, including all seven with exact-array coordinates. Dual-arm signals occurred in none of three non-array RT controls and in one of five UG27 systems, indicating selectivity within these small control sets. A separate profile-guided search of 6.12 Gb identified five candidate array-associated RT-like systems. In an independent 54.38-Gb evaluation of this profile-guided arm, structural compatibility was 24/32 under a historical-rule mirror, 12/32 after novelty-only selection, and 0/17 for architecture-selected complete ORFs; the two 32-member panels shared six exact sequences. Together, these results suggest that mathematical features of raw DNA can complement protein-directed searches in nominating genomic architectures for experimental RNA-to-DNA studies.",
+    "journal": "",
+    "doi": "10.64898/2026.11.01.763506",
+    "date": "2026-11-04",
+    "authors": "Hu G, Wang H, Yau SS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358679",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "framework",
+        "gene",
+        "genomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 635,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.01.763506"
+    ],
+    "translation": {
+      "title": {
+        "hash": "823f13a1c229b4de970d22f094fb5f71e3d7a2541e5caa3f2b294b7eb63c42df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:23:26.076660+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8e5e84ccc40b40105f72019d8ed34e216746e5718a925b834c97af9eb1e8f9d3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:23:26.076660+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "決定論的なDNA先行探索が明かす反復的なゲノム構造",
+    "abstract_ja": "ゲノムマイニングは通常、既知の遺伝子やタンパク質ファミリーを起点として行われるため、主にゲノム構造によって定義されるシステムの検出が困難になることがある。我々は、非対称不変性自然ベクトル表現と汎用的な位置反復を組み合わせたDNAファースト・フレームワークを開発し、個別に較正されたシグナルをゲノム座標を介して統合した。アレイ関連逆転写酵素（ART）遺伝子座のベンチマークにおいて、ターゲットフリーの数学的アームは、事前に定義された8つの遺伝子座のうち7つを特定し、そのうち7つすべてが正確なアレイ座標を有していた。デュアルアームのシグナルは、3つの非アレイRTコントロールのいずれにおいても認められず、5つのUG27システムのうち1つで認められたことから、これらの小規模なコントロールセット内に選択性があることが示された。別途実施した6.12 Gbのプロファイル誘導型探索では、アレイ関連のRT様システム候補が5つ同定された。このプロファイル誘導型アームを独立して評価した54.38 Gbの解析では、構造的適合性は、ヒストリカルルールのミラー下で24/32、新規性のみの選択後で12/32、アーキテクチャ選択による完全なORFでは0/17であった。これら2つの32メンバーパネルは、6つの完全配列を共有していた。以上の結果を総合すると、生のDNAの数学的特徴が、実験的なRNA-to-DNA研究におけるゲノムアーキテクチャの特定において、タンパク質指向型探索を補完し得ることが示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11198719/v1",
+    "title": "Detection, Genetic Characterization, and Evolutionary Analysis of Jingmen Tick Virus in Ticks from Border Regions of Yunnan Province, China",
+    "abstract": "Abstract    Background  Jingmen tick virus (JMTV), an emerging tick-borne arbovirus of global public health concern, is a segmented positive-sense RNA virus assigned to the genus Flavivirus of the family Flaviviridae. Although JMTV has been detected in ticks and mammals across Asia, Africa, Europe, and the Americas, epidemiological data from the border regions of southwestern China remain limited. This study investigated the prevalence and genetic characteristics of JMTV in ticks collected from border areas of Yunnan Province, China. Methods  A total of 1,035 ticks infesting cattle were collected from five border regions of Yunnan (including Ruili and Malipo) between May 2024 and August 2025. Tick species were identified by PCR amplification and sequencing of the mitochondrial  COI  and 16S rDNA genes. JMTV was detected by RT-qPCR, and genetic and phylogenetic analyses were performed on near-full-genome sequences of positive samples; attempts were made to isolate the virus in Vero, BHK-21, and C6/36 cells and in Kunming mice. Results  Three tick species were identified:  Rhipicephalus microplus  ,  Haemaphysalis longicornis  , and  Haemaphysalis bispinosa  . The overall JMTV-positive rate was 70.82% (733/1,035), with JMTV detected exclusively in  R. microplus  ; the regional positive rates were 93.90% in Ruili and 71.33% in Malipo, a statistically significant difference (P R. microplus  along the China–Myanmar and China–Vietnam borders of Yunnan, posing a potential public health risk and providing epidemiological evidence to support local JMTV prevention and control. Because sampling was uneven across regions, more balanced future surveys are needed to refine regional epidemiological estimates.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11198719/v1",
+    "date": "2026-11-04",
+    "authors": "Zhang H, Wu H, Ji X, Ren M, Yin S, Han D, Tao J, Ai J, Song Z.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358009",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rdna",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 637,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11198719/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a2abbce9ab68fef64f1d20ec066a7fc109d3617a107ac3d261b64d6d2edb620f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:23:26.076660+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "19f11f96374bb6beb56b0d161db9d59dc735e5c972cb4f83f58847e12ccbe4cb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:23:26.076660+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国雲南省国境地域のマダニにおける靖門マダニウイルスの検出、遺伝的特性解析および進化解析",
+    "abstract_ja": "要旨    背景  世界的な公衆衛生上の懸念となっている新興のマダニ媒介性アルボウイルスであるジンメンマダニウイルス（JMTV）は、フラビウイルス科フラビウイルス属に分類される分節型プラス鎖RNAウイルスである。JMTVはアジア、アフリカ、ヨーロッパ、およびアメリカ大陸のマダニおよび哺乳類から検出されているが、中国南西部の国境地域における疫学データは依然として限られている。本研究では、中国雲南省の国境地域で採集したマダニにおけるJMTVの保有率および遺伝的特性を調査した。方法  2024年5月から2025年8月にかけて、雲南省の5つの国境地域（瑞麗および麻栗坡を含む）から、牛に寄生する計1,035匹のマダニを採集した。マダニの種は、PCR増幅およびミトコンドリアCOIおよび16S rDNA遺伝子のシーケンシングにより同定した。JMTVはRT-qPCRにより検出し、陽性検体のほぼ全ゲノム配列を用いて遺伝学的および系統学的解析を行った。また、Vero、BHK-21、およびC6/36細胞、ならびに昆明マウスを用いてウイルスの分離を試みた。結果  Rhipicephalus microplus、Haemaphysalis longicornis、およびHaemaphysalis bispinosaの3種のマダニが同定された。全体のJMTV陽性率は70.82%（733/1,035）であり、JMTVはR. microplusのみで検出された。地域別陽性率は、瑞麗で93.90%、麻栗坡で71.33%であり、統計的に有意な差が認められた（P R. microplus  雲南省の中国・ミャンマー国境および中国・ベトナム国境沿いにおいて、潜在的な公衆衛生上のリスクとなり、地域のJMTV予防・管理を裏付ける疫学的根拠を提供するものである。地域間でサンプリングに偏りがあったため、地域的な疫学推定値を精緻化するには、今後よりバランスの取れた調査が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0289.v1",
+    "title": "Deciphering Viral Antigenic Relationships Through Antigenic Cartography: A Narrative Review",
+    "abstract": "Background:  Antigenic cartography is a computational approach that quantitatively visualizes antigenic relationships among viral strains using serological data, including hemagglutination inhibition and virus-neutralization assays. Since its introduction in the early 2000s, it has substantially advanced the study of viral antigenic evolution by transforming complex serological measurements into interpretable antigenic maps, thereby facilitating assessment of antigenic diversity, immune escape, cross-reactivity, and vaccine–virus relationships. Objective: This review examines the historical development, methodological principles, applications, limitations, and emerging directions of antigenic cartography across clinically relevant viruses, with particular emphasis on its relevance to viral surveillance, antigenic drift monitoring and vaccine-strain selection. Methods: The literature was synthesized comparatively across major applications of antigenic cartography, encompassing human seasonal influenza and other viruses, including dengue, lyssaviruses, foot-and-mouth disease virus, Enterovirus A71, norovirus, rotavirus, SARS-CoV-2, and HIV. Particular attention was given to real-world applications, methodological advances, sources of uncertainty, and integration with genomic, structural, evolutionary, and computational approaches. Findings: Influenza remains the most extensively studied viral pathogen, where antigenic cartography has supported recognition of epidemiologically relevant antigenic transitions and informed vaccine decisions. Examples include the emergence of A/Fujian/411/2002-like H3N2 viruses during 2004–2005 and assessment of A/California/07/2009 during 2010–2011. Applications to other viruses demonstrate broader utility for characterizing antigenic landscapes and evaluating cross-protective immunity and vaccine performance. However, map reliability is influenced by serological assay variability, serum-panel composition, measurement noise, incomplete and geographically biased datasets. Limited inter-operability among serological, genomic, and structural datasets further restricts reproducibility and cross-study comparability. Future Directions and Conclusions: The field is transitioning from retrospective visualization toward predictive and mechanistically informed antigenic surveillance. Integration of artificial intelligence, protein language models, evolutionary modelling, structural vaccinology, and real-time genomic–serological surveillance could enable earlier prediction of antigenic drift, identification of emerging vaccine mismatches, and prioritization of candidate vaccine strains. Future platforms should incorporate standardized and automated serological measurements, inter-laboratory calibration, harmonized data standards, geographically representative datasets, experimental validation, and interpretable continuously updated models. Such integration could establish antigenic cartography as a scalable predictive framework for vaccine design and for strengthening preparedness against emerging viral threats.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0289.v1",
+    "date": "2026-11-04",
+    "authors": "Biswas D, Subaschandrabose RK, Ningombam JD.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357878",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 638,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0289.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fc69ecfc40bfef6477009c1a31dcec17894d1c5a5384d26f341a6baa80d7c3d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:23:26.076660+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3c68ac677fd8073280a3fdc503b635c0fff81e590827f81cd0687c76a04c98b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:23:26.076660+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗原地図作成法によるウイルス抗原間の関係性の解明：ナラティブレビュー",
+    "abstract_ja": "背景：抗原カートグラフィーは、赤血球凝集抑制試験やウイルス中和試験を含む血清学的データを用いて、ウイルス株間の抗原関係を定量的に可視化する計算科学的アプローチである。2000年代初頭に導入されて以来、複雑な血清学的測定値を解釈可能な抗原マップへと変換することで、ウイルス抗原進化の研究を大幅に進展させ、抗原多様性、免疫逃避、交差反応性、およびワクチンとウイルスの関係の評価を容易にしてきた。目的：本総説では、臨床的に重要なウイルスにおける抗原カートグラフィーの歴史的発展、方法論的原則、応用、限界、および新たな方向性について、特にウイルスサーベイランス、抗原ドリフトのモニタリング、およびワクチン株の選定における関連性に重点を置いて検討する。方法：ヒト季節性インフルエンザおよび、デング熱、リッサウイルス、口蹄疫ウイルス、エンテロウイルスA71、ノロウイルス、ロタウイルス、SARS-CoV-2、HIVを含むその他のウイルスを対象とした、抗原カートグラフィーの主要な応用例について文献を比較検討した。特に、実世界での応用、方法論的な進展、不確実性の要因、およびゲノム、構造、進化、計算科学的アプローチとの統合に重点を置いた。知見：インフルエンザは依然として最も広範に研究されているウイルス病原体であり、抗原カートグラフィーは疫学的に重要な抗原遷移の認識を裏付け、ワクチンの意思決定に寄与してきた。具体例としては、2004–2005年におけるA/Fujian/411/2002様H3N2ウイルスの出現や、2010–2011年におけるA/California/07/2009の評価が挙げられる。他のウイルスへの応用は、抗原ランドスケープの特性評価や、交差防御免疫およびワクチン性能の評価において、より広範な有用性を示している。しかし、マップの信頼性は、血清学的アッセイのばらつき、血清パネルの構成、測定ノイズ、不完全なデータセット、および地理的な偏りによって影響を受ける。血清学的、ゲノム的、および構造的データセット間の相互運用性が限られていることが、再現性および研究間の比較可能性をさらに制限している。今後の方向性と結論：本分野は、回顧的な可視化から、予測的かつ機序に基づいた抗原サーベイランスへと移行しつつある。人工知能、タンパク質言語モデル、進化モデリング、構造ワクチン学、およびリアルタイムのゲノム・血清学的サーベイランスの統合により、抗原ドリフトのより早期の予測、新たなワクチンミスマッチの特定、および候補ワクチン株の優先順位付けが可能になると考えられる。将来のプラットフォームには、標準化・自動化された血清学的測定、研究室間の較正、調和されたデータ標準、地理的に代表的なデータセット、実験的検証、および解釈可能で継続的に更新されるモデルを組み込むべきである。このような統合により、抗原カートグラフィーを、ワクチン設計および新たなウイルス脅威への備えを強化するための、拡張可能な予測フレームワークとして確立できる可能性がある。"
   }
 ]
