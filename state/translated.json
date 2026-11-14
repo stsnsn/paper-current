@@ -200876,5 +200876,285 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "霊長類基底核の種間マルチオミクスアトラス",
     "abstract_ja": "基底核（BG）は、運動制御、学習、情動、および認知に不可欠な保存された脳領域であり、神経疾患や精神疾患に関与しているが、BG細胞種の統一的な種横断的分類体系は未だ確立されていない。本研究では、遺伝子発現、オープンクロマチン、および空間プロファイリングを統合し、8つのBG構造にわたるヒト、マカクザル、およびマーモセット由来の180万個の核からなるマルチオミクス・コンセンサスアトラスを提示する。種間、およびマウスとヒトの全脳アトラスとのアライメントにより、7,600万年にわたって保存されてきた61種類の相同細胞種が同定された。背腹方向の空間的同一性は、D1/D2受容体や線条体/基質の同一性よりも保存されており、線条体（STR）D2 SMYD2-HTR7棘突起ニューロンは、分子生物学的、電気生理学的、および形態学的に明確な特徴を有する。シス調節解析により、細胞同一性を符号化しウイルス標的化の手がかりとなる保存された配列文法が明らかになり、細胞種分解能のマッピングによって、精神疾患および神経変性疾患のリスクが特定のBG細胞集団に局在することが示された。本研究は、BGの進化、機能、および疾患に関する基礎的なリソースを提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.12.766112",
+    "title": "Multi-locus pairing expands the functional repertoire of two-peptide bacteriocins",
+    "abstract": "Two-peptide bacteriocins are generally viewed as self-contained systems whose peptides are encoded at the same biosynthetic locus and co-expressed to form an active antimicrobial pair. Here, we show that functional pairing extends beyond this organization. Comparative genomic analysis revealed frequent co-occurrence of putative two-peptide bacteriocins encoded at distinct chromosomal loci in streptococci. Testing pairwise combinations of 47 peptides produced by cell-free protein synthesis identified 54 combinations with enhanced antimicrobial activity, with inter-locus combinations more frequent than intra-locus combinations. In Streptococcus mitis strain C22, four dispersed bacteriocin loci are coordinately expressed during exponential growth despite regulation by partially independent signaling pathways, providing an opportunity for inter-locus pairing. Split-luciferase complementation assays showed that active peptide pairs associate and that these interactions depend predominantly on amino acid sequence. Using a bacteriocin-free S. mitis background, we further show that components produced by distinct bacterial cells can act together to increase producer competitiveness in co-culture with S. pneumoniae. These findings reveal a modular organization in which peptides encoded at different loci can form functional combinations, including when produced by separate cells. This flexibility expands the antimicrobial repertoire available to individual strains and provides a mechanism for bacteriocin diversification while retaining functional compatibility.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766112",
+    "date": "2026-11-13",
+    "authors": "Lanca, J., Borralho, J., Sa-Leao, R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766112v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4453,
+    "collected_at": "2026-11-14T03:23:41.582958+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.64898/2026.11.12.766112"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d64fca7cbd62169d2e08a865f69b57bfcc75d36bfb51d6d6e3a09fc5351e50d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:51:14.775350+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "91b74bddc591078428e7955522eae617d8e2e01a424ff6545d455206322e525a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:51:14.775350+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチローカスペアリングは2ペプチド型バクテリオシンの機能レパートリーを拡張する",
+    "abstract_ja": "2ペプチドバクテリオシンは一般に、ペプチドが同一の生合成遺伝子座でコードされ、共発現して活性のある抗菌ペアを形成する自己完結型のシステムであると考えられている。本研究では、機能的なペアリングがこの組織化にとどまらないことを示す。比較ゲノム解析により、連鎖球菌において異なる染色体遺伝子座でコードされる推定2ペプチドバクテリオシンが頻繁に共起することが明らかになった。無細胞タンパク質合成により作製した47種類のペプチドのペアワイズ組み合わせを試験したところ、抗菌活性が増強された54の組み合わせが同定され、遺伝子座間の組み合わせは遺伝子座内組み合わせよりも頻度が高かった。Streptococcus mitis株C22では、部分的に独立したシグナル伝達経路による調節にもかかわらず、4つの分散したバクテリオシン遺伝子座が対数増殖中に協調的に発現しており、これが遺伝子座間ペアリングの機会となっている。スプリットルシフェラーゼ相補性アッセイにより、活性のあるペプチドペアが会合し、これらの相互作用が主にアミノ酸配列に依存することが示された。バクテリオシン非産生のS. mitis背景を用いて、異なる細菌細胞によって産生された構成要素が協調的に作用し、S. pneumoniaeとの共培養において産生菌の競争力を高め得ることをさらに示した。これらの知見は、異なる遺伝子座でコードされるペプチドが、別々の細胞によって産生される場合も含め、機能的な組み合わせを形成し得るモジュール式の組織化を明らかにしている。この柔軟性は、個々の菌株が利用可能な抗菌レパートリーを拡大し、機能的な互換性を維持しつつバクテリオシンの多様化を実現するメカニズムを提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.12.766216",
+    "title": "The FraA adhesin and Ebp pili mediate Enterococcus faecalis adhesion under fluid flow",
+    "abstract": "Enterococcus faecalis is a frequent cause of infective endocarditis and catheter-associated urinary tract infections (CAUTI). Successful colonization is challenged by blood and urine flow and relies on a strong and resilient bacterial attachment. Here, we identify molecular determinants that enable E. faecalis to maintain adhesion under flow, notably the flow-related adhesin (FraA), a previously uncharacterized adhesion factor encoded by OG1RF_11764. Transcriptomic analysis revealed increased fraA expression in surface-attached bacteria exposed to shear stress. Structural predictions identified an N-terminal region with homology to characterized Gram-positive adhesins, followed by tandem CLIPPER repeats with putative isopeptide-bond-forming residues and a C-terminal cell-wall sorting signal. Using microfluidics and single-cell tracking, we found that deletion of fraA accelerated detachment from hydrophobic abiotic surfaces under fluid flow. In line with this finding, loss of fraA reduced catheter colonization in a murine CAUTI model. Analysis of 9,192 E. faecalis genomes identified FraA in 50.8% of isolates, spanning clinical and non-clinical sources, with sequence type-associated variation in CLIPPER repeat number. Another determinant, Ebp pilus, enhances adhesion at high shear stress and contributes to a shear-enhanced adhesion pattern. Collectively, these findings identify FraA as an adhesion factor contributing to medical-device colonization and together with Ebp pili support attachment across different hydrodynamic conditions. Identifying these adhesion mechanisms could inform strategies to prevent colonization of medical devices exposed to fluid flow.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766216",
+    "date": "2026-11-13",
+    "authors": "Antypas, H., Roch, M., Ng, K. K. F., Silva Rosa da Luz, B., Wen, R. T. J., Thomas, R. Z., Filloux, A., Kline, K. A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766216v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4454,
+    "collected_at": "2026-11-14T03:23:41.582958+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.64898/2026.11.12.766216"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cdd64bf5e2859bcb9ad2d67208686d5a8402b456771af1d210ffd48771e5f11c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:51:14.775350+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf8304df50a72adf7aa4abc485b449ca6593787727cf3c349c928af1bc780391",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:51:14.775350+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FraAアドヘシンとEbpピリは、流体流動下におけるEnterococcus faecalisの接着を媒介する。",
+    "abstract_ja": "Enterococcus faecalisは、感染性心内膜炎およびカテーテル関連尿路感染症（CAUTI）の頻繁な原因菌である。定着の成功は血流および尿流によって阻害され、強固で耐性のある細菌付着に依存している。本研究では、E. faecalisが流動下で付着を維持することを可能にする分子決定因子を同定した。特に、OG1RF_11764によってコードされる、これまで特性解析されていなかった付着因子である流動関連アドヘシン（FraA）を明らかにした。トランスクリプトーム解析により、せん断応力にさらされた表面付着細菌においてfraAの発現が増加していることが明らかになった。構造予測により、特性解析済みのグラム陽性アドヘシンと相同性を持つN末端領域が同定され、続いて、推定イソペプチド結合形成残基を含むタンデムCLIPPERリピートと、C末端の細胞壁選別シグナルが同定された。マイクロ流体技術とシングルセルトラッキングを用いて、fluid流動下においてfraAの欠失が疎水性の非生物表面からの剥離を促進することを見出した。この知見と一致して、マウスCAUTIモデルにおいてfraAの欠損はカテーテル定着を減少させた。9,192株のE. faecalisゲノムを解析した結果、臨床および非臨床由来の分離株の50.8%にFraAが同定され、CLIPPERリピート数には配列タイプに関連した変動が認められた。別の決定因子であるEbp pilusは、高いせん断応力下で付着を強化し、せん断増強型付着パターンに寄与する。総じて、これらの知見は、FraAが医療機器への定着に寄与する付着因子であり、Ebp pilusと共に異なる流体力学的条件下での付着を支えることを明らかにしている。これらの付着機構を同定することは、流体流動にさらされる医療機器への定着を防止するための戦略に資すると考えられる。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765836",
+    "title": "Mechanical unloading and exercise volume differentially modulate the gut microbiome and intestinal gene expression in mice",
+    "abstract": "Mechanical unloading and physical activity can influence the gut microbiome and intestinal physiology, but the effects of exercise volume and prior hindlimb suspension remain incompletely understood. This study investigated how hindlimb suspension, different exercise volumes, and exercise following hindlimb suspension affect gut microbial composition and intestinal gene expression in mice. Mice were assigned to five groups: control (C), hindlimb suspension (HL), high-volume exercise (HE), low-volume exercise (LE), and hindlimb suspension followed by exercise (HLE). Cecal microbiota composition was characterized using 16S rRNA gene sequencing, followed by alpha- and beta-diversity analyses and LinDA differential-abundance analysis. Jejunal gene expression was assessed by quantitative PCR for markers related to oxidative stress, inflammation, metabolic signaling, and epithelial function. Hindlimb suspension reduced microbial richness, as indicated by the Observed, Chao1, and ACE indices, and was associated with a significant difference in overall microbial community composition compared with controls. It was also associated with reductions in Streptococcaceae/Streptococcus and Spirochaetota. Low-volume exercise produced the most extensive phylum-level differential-abundance findings, whereas high-volume exercise showed no significant phylum-level differences from controls. Both exercise groups (HE and LE) exhibited increased intestinal expression of GPX1, HMOX1, NFKB1, and SOD2. HE also increased IGF and MUC2 expression, whereas HLE reduced IGF expression compared with controls. Community composition did not differ significantly between HLE and HL, and LGR5 expression did not differ significantly among groups. In conclusion, hindlimb suspension was associated with reduced microbial richness and selective taxonomic changes, whereas low-volume exercise produced the most extensive phylum-level alterations in microbial composition. Exercise volume was also associated with distinct intestinal transcriptional responses, while exercise following mechanical unloading did not produce a microbial community composition significantly different from that observed following unloading alone. These findings highlight the context-dependent effects of mechanical unloading and exercise on gut microbial composition and intestinal gene expression.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765836",
+    "date": "2026-11-13",
+    "authors": "Hundam, S., Al-Zghoul, M. B., Ogiliat, S., Makableh, D., Abu-Haniyeh, L. A., Shahatit, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765836v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4455,
+    "collected_at": "2026-11-14T03:23:41.582958+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.64898/2026.11.11.765836"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6f3d420c61179d6d8bd74d96a544ad85e1569b1a140b4842ae3dc2b1a6fd7502",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:51:14.775350+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "73d2be9ba2533a4480896c631b193a393cfb0500e57c20d15a88daa7190460b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:51:14.775350+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "機械的負荷および運動量は、マウスの腸内細菌叢および腸管遺伝子発現を差異的に調節する。",
+    "abstract_ja": "機械的負荷および身体活動は、腸内細菌叢および腸管生理に影響を及ぼし得るが、運動量および事前の後肢懸垂の影響については依然として十分に解明されていない。本研究では、後肢懸垂、異なる運動量、および後肢懸垂後の運動が、マウスの腸内細菌組成および腸管遺伝子発現にどのような影響を及ぼすかを検討した。マウスを、対照群（C）、後肢懸垂群（HL）、高運動量運動群（HE）、低運動量運動群（LE）、および後肢懸垂後に運動を行った群（HLE）の5群に分けた。盲腸微生物叢の組成は、16S rRNA遺伝子シーケンシングを用いて特性評価し、続いてα多様性およびβ多様性解析、ならびにLinDA差次存在量解析を行った。空腸の遺伝子発現については、酸化ストレス、炎症、代謝シグナル伝達、および上皮機能に関連するマーカーを用いて定量PCRにより評価した。後肢懸垂は、Observed、Chao1、およびACE指数で示されるように微生物豊富度を低下させ、対照群と比較して全体的な微生物群集組成に有意な差をもたらした。また、Streptococcaceae/StreptococcusおよびSpirochaetotaの減少とも関連していた。低運動量運動では門レベルで最も広範な差次存在量の所見が認められた一方、高運動量運動では対照群との間に有意な門レベルの差は認められなかった。両運動群（HEおよびLE）において、GPX1、HMOX1、NFKB1、およびSOD2の腸管発現の増加が認められた。HEではIGFおよびMUC2の発現も増加したが、HLEでは対照群と比較してIGFの発現が減少した。群集組成はHLEとHLの間で有意な差は認められず、LGR5の発現についても群間で有意な差は認められなかった。結論として、後肢懸垂は微生物豊富度の低下および選択的な分類学的変化に関連していた一方、低運動量運動は微生物組成において門レベルで最も広範な変化をもたらした。運動量はまた、異なる腸管転写応答と関連していたが、機械的負荷後の運動では、負荷単独後に観察されたものと有意に異なる微生物群集組成は認められなかった。これらの知見は、機械的負荷および運動が腸内細菌組成および腸管遺伝子発現に及ぼす文脈依存的な影響を浮き彫りにしている。"
+  },
+  {
+    "id": "10.64898/2026.11.08.765204",
+    "title": "Structural basis of virion assembly in the Mycobacterium tuberculosis-infecting mycobacteriophage SWU1",
+    "abstract": "The rising threat of drug-resistant tuberculosis has renewed interest in bacteriophage therapy as an urgently needed alternative. Rational engineering of these viruses, however, requires an atomic-level understanding of virion architecture. Mycobacteriophage SWU1 belongs to subcluster A2, one of the few mycobacteriophage lineages known to infect Mycobacterium tuberculosis (M. tuberculosis). Using single-particle cryogenic electron microscopy (cryo-EM), we resolved essentially the entire SWU1 virion architecture by localized reconstruction of four modules, the capsid, portal vertex, tail and baseplate, at resolutions of 3.62 [A], 3.51 [A], 3.70 [A] and 3.22 [A], respectively. The T=7 capsid comprises 415 copies of an HK97-fold major capsid protein and lacks any decoration protein in density. The 12-fold portal reconciles its C5-C12 mismatch with the capsid vertex through defined, non-equivalent subunit contacts. The baseplate carries a 13-fold tail-fiber ring on a 6-fold hub, a geometry without precedent among characterized phages, established here by symmetry-free reconstruction. These findings provide the critical insights into the assembly and infection of SWU1, laying a structural foundation for the future optimization of phage-based anti-TB therapeutics.",
+    "journal": "",
+    "doi": "10.64898/2026.11.08.765204",
+    "date": "2026-11-10",
+    "authors": "Bian, Q., Huang, Y., Feng, T., Fan, C., Wei, Y., Xu, H., Liu, S., Sun, Q., Zhang, X., Zhu, J., Yang, X., Zhang, W., Chen, X., Rao, Z., Liu, S., Xie, J., Yang, H., Gao, Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.08.765204v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteriophage",
+        "phage",
+        "phages",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2089,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.08.765204"
+    ],
+    "translation": {
+      "title": {
+        "hash": "80aec66f1af16a228f0c575f9576703e779ee1b0d8b9f93415f98ce947db6d3e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:51:14.775350+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ddcea07960724641f231fde5b16dcbfad4f69ea0012251d51b49bcc2440a99ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:51:14.775350+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "結核菌感染性マイコバクテリオファージSWU1におけるビリオン集合の構造的基盤",
+    "abstract_ja": "薬剤耐性結核の脅威の高まりにより、喫緊の代替手段としてバクテリオファージ療法への関心が改めて高まっている。しかし、これらのウイルスを合理的に解析するには、ビリオン構造に関する原子レベルの理解が不可欠である。マイコバクテリオファージSWU1は、結核菌（M. tuberculosis）に感染することが知られている数少ないマイコバクテリオファージ系統の一つであるサブクラスターA2に属する。単粒子クライオ電子顕微鏡法（cryo-EM）を用い、カプシド、ポータル頂点、テール、ベースプレートの4つのモジュールをそれぞれ3.62 [A]、3.51 [A]、3.70 [A]、3.22 [A]の分解能で局所的に再構築することで、SWU1ビリオン構造のほぼ全域を解明した。T=7のカプシドは、HK97フォールドの主要カプシドタンパク質を415コピー含み、密度方向に装飾タンパク質を欠いている。12フォールドのポータルは、明確に定義された非等価なサブユニット間接触を通じて、カプシド頂点とのC5-C12ミスマッチを解消している。ベースプレートは、6フォールドのハブ上に13フォールドのテールファイバーリングを有しており、これは特性解析されたファージの中では前例のない幾何学的構造であり、本研究において対称性のない再構築によって確立された。これらの知見は、SWU1の組み立てと感染に関する重要な洞察を与えるものであり、ファージベースの抗結核治療薬の将来的な最適化に向けた構造的基盤を築くものである。"
   }
 ]
