@@ -203298,5 +203298,336 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "在来微生物叢の広帯域in situ遺伝子リプログラミング",
     "abstract_ja": "複雑な微生物群集は、陸域、水域、および動物関連の生態系全体に分布している。在来群集内の個別の微生物分類群を遺伝子改変することは、マイクロバイオームの機能を研究し拡張するための強力な手段となる。本研究では、広範な在来マイクロバイオームに大規模な合成DNAをパッケージ化、送達、および組み込むためのワンステップ戦略として、Synthetic Phage Assisted Reprogrammable and Targetable Addition (SPARTA) を開発した。SPARTAは、広域スペクトルの合成ファージ粒子を活用し、複雑な土壌、淡水、および哺乳類糞便マイクロバイオーム内でのin situゲノムエンジニアリングを行い、16科にわたる59種の在来種を再プログラミングした。SPARTAの構成要素を調整することで、標的とするマイクロバイオーム集団に対するSPARTAのチューニング可能性をさらに実証した。さらに、エンジニアリングされた分類群を定量的に同定するための新規コンパニオンツール「16S crRNA-guided inference of bacterial engineering sequencing（ScRibe-seq）」を構築した。SPARTA-ScRibe-seqパイプラインは、元の微生物群集構造を維持しつつ、多様な在来マイクロバイオームにおいて機能的な合成遺伝子クラスターを送達し、検証した。これらを合わせたこの新規ゲノムエンジニアリングフレームワークは、在来マイクロバイオームの合理的かつカスタマイズ可能な再プログラミングを実現するエンドツーエンドのプログラマブルプラットフォームを構成する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202606.1536.v4",
+    "title": "Genetic Diversity, Phylogenetic Structure, and Assessment of the Zoonotic Potential of Coxiella burnetii Strains Circulating in Africa: Review Study",
+    "abstract": "Background:  Coxiella burnetii, the agent of Q fever, is an obligate intracellular bacterium with worldwide distribution and major zoonotic and economic impact. In Africa, knowledge of the genetic diversity and phylogenetic structure of circulating strains remains fragmentary. Methods: This structured narrative review, reported with reference to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 statement, examined articles published between January 2006 and October 2026 that characterised C. burnetii in Africa by multispacer sequence typing (MST), multiple-locus variable-number tandem-repeat analysis (MLVA), icd typing, whole-genome sequencing or IS1111/htpB sequence typing. Methodological quality was appraised with an adapted observational-study checklist based on the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement. Results: Of 183 records screened, 19 studies from 11 countries were included (North Africa, n = 7; West, East and Southern Africa, n = 4 each). Sixteen were rated as high and three as moderate quality. The studies reported marked genetic heterogeneity, with several genotypes described as new by the primary studies (for example MST86–MST89 in Guinea and MST75 and MST76 in Senegal). MST20 occurred in both Algerian cattle and Ethiopian ticks. None of the included studies linked genotypes to clinical outcomes. Conclusion: Proposed genomic determinants of virulence (QpH1 plasmid, adaA gene, Type IVB secretion system effectors) remain hypothesis-generating. Uneven coverage and non-standardised methods limit comparability; harmonised genotyping and One Health surveillance are needed to clarify the zoonotic potential of African C. burnetii lineages.",
+    "journal": "",
+    "doi": "10.20944/preprints202606.1536.v4",
+    "date": "2026-11-10",
+    "authors": "Tea MA, Salko AS, Barry AO, Ghigo E.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1364028",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4351,
+    "collected_at": "2026-11-13T07:56:57.456049+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.20944/preprints202606.1536.v4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fd6f100341d0aadb3617f4b505d5b0746298a36d6a06471ef87f84ebdfbff572",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:18:25.414168+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9aeeeb6550cc9f58c1627e1ac009cb3d2ba9978d74b1719a41f53db9f600885d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:18:25.414168+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アフリカで流行するコクシエラ・バーネッティ株の遺伝的多様性、系統構造および人獣共通感染能の評価：総説研究",
+    "abstract_ja": "背景：Q熱の原因菌であるCoxiella burnetiiは、世界的に分布し、重大な人獣共通感染および経済的影響を及ぼす偏性細胞内寄生細菌である。アフリカにおいては、流行株の遺伝的多様性および系統構造に関する知見は依然として断片的である。方法：本構造化ナラティブレビューでは、「系統的レビューおよびメタ解析のための優先報告項目（PRISMA）2020」声明を参照し、2006年1月から2026年10月までに公表された論文を対象に、マルチスペーサー配列タイピング（MST）、多遺伝子座可変数タンデムリピート解析（MLVA）、ICDタイピング、全ゲノムシーケンシング、またはIS1111/htpB配列タイピングによってアフリカにおけるC. burnetiiの特性解析を行った研究を検討した。方法論的質については、「疫学における観察研究の報告強化（STROBE）」声明に基づき調整した観察研究チェックリストを用いて評価した。結果：スクリーニングした183件の記録のうち、11カ国（北アフリカ n = 7、西・東・南部アフリカ 各 n = 4）の19研究が組み入れられた。そのうち16研究が高品質、3研究が中程度と評価された。報告された研究では顕著な遺伝的不均一性が認められ、主要な研究によって複数の遺伝子型が新規として報告された（例：ギニアにおけるMST86–MST89、セネガルにおけるMST75およびMST76）。MST20はアルジェリアの牛とエチオピアのマダニの両方で認められた。組み入れられた研究の中で、遺伝子型と臨床転帰を関連付けたものはなかった。結論：提案された病原性のゲノム決定因子（QpH1プラスミド、adaA遺伝子、IVB型分泌系エフェクター）については、依然として仮説形成の段階にある。網羅性の不均一さと手法の非標準化が比較可能性を制限しており、アフリカのC. burnetii系統の人獣共通感染の可能性を明らかにするためには、標準化された遺伝子型判定およびワンヘルス（One Health）サーベイランスが必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11433369/v1",
+    "title": "Isolation, genomic and comparative proteomic characterization of three lytic Pseudomonas aeruginosa bacteriophages from wastewater in Bobo-Dioulasso, Burkina Faso",
+    "abstract": "Abstract    Background.  Pseudomonas aeruginosa  is a leading cause of opportunistic and healthcare-associated infections and is listed by the World Health Organization among the pathogens for which new therapeutic options are most urgently needed. Lytic bacteriophages are one of the few alternatives that can be deployed rapidly and at low cost, but phage collections and phage genome sequences remain very unevenly distributed geographically, and West Africa is particularly under-represented. Wastewater, which combines high bacterial densities with continuous inputs of faecal, hospital and industrial effluent, is the most productive environment for recovering phages that are locally adapted to circulating clinical strains. We therefore set out to isolate lytic phages active against clinical  P. aeruginosa  isolates from wastewater in Bobo-Dioulasso, Burkina Faso, and to characterize their genomes. Results.  Twenty-eight lytic phages were isolated from five wastewater sites using six  P. aeruginosa  host strains, and screened against a panel of eleven clinical and reference strains. Host ranges were broad: eleven isolates lysed at least ten of the eleven strains and three lysed all eleven, while only two isolates were restricted to four strains. Five phages were selected for whole-genome sequencing and three yielded complete, high-quality assemblies. All three belong to the class  Caudoviricetes  . vB_PaeM_CM0001 (57,614 bp; 63.5% GC; 88 CDSs) is a member of the family  Mesyanzhinovviridae  , subfamily  Bradleyvirinae  , genus  Abidjanvirus  . vB_PaeP_CM0002 (43,491 bp) and vB_PaeP_CM0003 (43,177 bp), each encoding 65 CDSs with 62.3–62.6% GC, belong to the family  Autographiviridae  , subfamily  Krylovirinae  , genus  Phikmvvirus  . Intergenomic similarities indicate that vB_PaeM_CM0001 is a new isolate of an existing  Abidjanvirus  species, whereas vB_PaeP_CM0002 and vB_PaeP_CM0003 represent two new  Phikmvvirus  species. The two  Phikmvvirus  genomes share 91.9% nucleotide identity and 62 orthogroups and are fully collinear with each other and with their closest relatives; their divergence is confined to nucleotide substitution and to a single 2.0 kb region spanning the tail fibre locus. vB_PaeM_CM0001 shares no detectable orthogroups with them. Conclusions.  These three genomes are the first  P. aeruginosa  phage genomes reported from Burkina Faso. Two of them represent new species. Their broad host ranges, strictly lytic gene repertoires and absence of resistance determinants make them credible starting points for a national phage bank and for future therapeutic evaluation.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11433369/v1",
+    "date": "2026-11-10",
+    "authors": "Gnada K, Silga EW, Essoh CY, Yao RK, Sanou AQ, Ouangraoua A, Gomgnimbou MK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362963",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 166,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11433369/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ed1fbb310f11c578b1a9c64758b0f3d3a5280cf9d16afb42267cf523bc7432d0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:18:25.414168+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d0a6dafa195aedfc30b4e939d61ef2d654a234db5d7d69d065ec0a585092caf8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:18:25.414168+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブルキナファソ、ボボ・ディウラッソの廃水由来の3種の溶菌性Pseudomonas aeruginosaバクテリオファージの単離、ゲノムおよび比較プロテオーム解析",
+    "abstract_ja": "要旨    背景。緑膿菌（Pseudomonas aeruginosa）は、日和見感染症および医療関連感染症の主要な原因であり、世界保健機関（WHO）によって、新たな治療選択肢が最も急務とされる病原体の一つに挙げられている。溶菌性バクテリオファージは、迅速かつ低コストで展開可能な数少ない代替手段の一つであるが、ファージのコレクションおよびファージゲノム配列の地理的分布は依然として極めて不均一であり、特に西アフリカにおける代表性が低い。高い細菌密度に加え、糞便、病院、および工業廃液が継続的に流入する廃水は、循環する臨床株に局所的に適応したファージを回収する上で最も生産性の高い環境である。そこで我々は、ブルキナファソのボボ・ディウラッソにおける廃水から、臨床用緑膿菌分離株に対して活性を示す溶菌性ファージを単離し、そのゲノム特性を明らかにすることを目的とした。結果。6株の緑膿菌宿主株を用い、5か所の廃水地点から28株の溶菌性ファージを単離し、11株の臨床株および参照株のパネルを用いてスクリーニングを行った。宿主範囲は広く、11株のうち少なくとも10株を溶菌させたものが11株、11株すべてを溶菌させたものが3株であった一方、4株に限定されたのはわずか2株であった。5株のファージを全ゲノム配列解析に選定し、そのうち3株から完全かつ高品質なアセンブリが得られた。これら3株はいずれもカウドウイルス綱（Caudoviricetes）に属する。vB_PaeM_CM0001（57,614 bp; 63.5% GC; 88 CDS）は、メシャンジノウイルス科（Mesyanzhinovviridae）ブラッドリーウイルス亜科（Bradleyvirinae）アビジャンウイルス属（Abidjanvirus）に属する。vB_PaeP_CM0002（43,491 bp）およびvB_PaeP_CM0003（43,177 bp）は、それぞれ65個のCDSをコードしGC含量が62.3–62.6%であり、オートグラフィウイルス科（Autographiviridae）クリロウイルス亜科（Krylovirinae）フィクムウイルス属（Phikmvvirus）に属する。インターゲノム類似性の解析により、vB_PaeM_CM0001は既存のアビジャンウイルス種の新規分離株である一方、vB_PaeP_CM0002およびvB_PaeP_CM0003は2つの新規フィクムウイルス種であることが示された。これら2つのフィクムウイルスゲノムは、91.9%の塩基同一性と62個のオルソグループを共有し、互いに、また最も近縁な系統とも完全に共線している。両者の分岐は塩基置換および、テイルファイバー遺伝子座にわたる単一の2.0 kb領域に限定されている。vB_PaeM_CM0001は、これらと検出可能なオルソグループを共有していない。結論。これら3つのゲノムは、ブルキナファソから報告された初の緑膿菌ファージゲノムである。そのうち2株は新種である。広範な宿主範囲、厳密な溶菌性遺伝子レパートリー、および耐性決定因子の欠如により、これらは国家的なファージバンクの出発点として、また将来的な治療評価の対象として有望である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11491586/v1",
+    "title": "Large-genome phages encode diverse proteins associated with host cell envelope functions",
+    "abstract": "Abstract  Huge phages (or jumbo phages, > 200 kilobases) encode extensive protein repertoires, yet their functional diversity and potential roles in host physiology remain poorly understood. Using protein structure-based analyses of dominant protein families across 7,187 non-redundant genomes of huge phages, we uncovered pronounced phylogenetic and habitat-associated diversification. Notably, we identified diverse proteins associated with bacterial cell envelope functions, particularly in human gut-associated huge phages. These included previously unreported phage-encoded sortase B, whose putative substrates contain signal peptides and cell-wall sorting signals, suggesting a potential route for displaying phage proteins on bacterial surfaces. Phage-encoded phage shock protein A (PspA) was distributed across diverse lineages and frequently neighbored genes associated with membrane organization and transport, implicating potential roles in membrane physiology. We also identified 1,603 β-barrel outer membrane proteins (OMPs) across 1,303 huge phages from diverse ecosystems. These OMPs exhibited structural diversity and associations with predicted host taxonomy, habitat, and neighboring envelope-related genes. Metatranscriptomic analysis supported expression of representative phage-encoded PspA and OMP genes in natural communities including the human gut. Together, these findings reveal bacterial cell envelope processes as a previously underappreciated potential interface for huge phage–host interactions.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11491586/v1",
+    "date": "2026-11-10",
+    "authors": "Chen L, Yuan L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363436",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metatranscriptom",
+        "metatranscriptomic",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 274,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11491586/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2f36d03ed1361b1d07a069aa933490001552755c236f0e80281ea9d5cc5d3157",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:18:25.414168+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1a0d423bb9056bbf902c7415cae3eb0e9d0cdf9ff7ce5203c5d3c1c226c22e17",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:18:25.414168+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大ゲノムファージは宿主細胞の外膜機能に関連する多様なタンパク質をコードする",
+    "abstract_ja": "要旨　巨大ファージ（またはジャンボファージ、> 200キロベース）は、広範なタンパク質レパートリーをコードしているが、その機能的多様性や宿主生理学における潜在的な役割については依然として十分に解明されていない。巨大ファージの非冗長ゲノム7,187件にわたる主要タンパク質ファミリーのタンパク質構造解析を用いて、顕著な系統学的および生息環境に関連した多様化を明らかにした。特に、細菌細胞包膜機能に関連する多様なタンパク質を同定し、とりわけヒト腸管関連の巨大ファージにおいてその傾向が認められた。これらには、これまで報告されていなかったファージコード型ソーターゼBが含まれており、その推定基質にはシグナルペプチドや細胞壁選別シグナルが含まれていることから、細菌表面にファージタンパク質を提示する潜在的な経路が示唆される。ファージコード型ファージショックタンパク質A（PspA）は多様な系統にわたって分布し、膜組織化や輸送に関連する遺伝子と頻繁に隣接しており、膜生理学における潜在的な役割が示唆された。また、多様な生態系由来の巨大ファージ1,303件から、1,603種類のβバレル型外膜タンパク質（OMP）を同定した。これらのOMPは構造的多様性を示し、予測される宿主分類、生息環境、および隣接する包膜関連遺伝子との関連性が認められた。メタトランスクリプトーム解析により、ヒト腸管を含む自然群集において、代表的なファージコード型PspAおよびOMP遺伝子の発現が確認された。以上の知見を総合すると、細菌細胞包膜プロセスが、巨大ファージと宿主の相互作用における、これまで十分に認識されてこなかった潜在的な界面であることが明らかとなった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11382928/v1",
+    "title": "Genomic and phenotypic analysis reveals taxonomic and biosynthetic diversity in desert-derived Saccharothrix",
+    "abstract": "Abstract    Rare actinomycetes represent an underexplored source of bioactive natural products, yet their taxonomic diversity and biosynthetic potential remain incompletely characterized. Here, ten  Saccharothrix  strains isolated from the Gurbantunggut Desert in Xinjiang, northwestern China, were investigated using phylogenomics, comparative genomics, biosynthetic gene cluster (BGC) mining, and antimicrobial assays. Genome-based analyses identified two lineages that may represent novel species. A total of 413 BGCs were predicted across the ten genomes. Comparative BiG-SCAPE analysis grouped 1,461 BGCs from the ten study strains, reference  Saccharothrix  genomes, and MIBiG into 735 gene cluster families (GCFs). Only three of the 19 GCFs containing MIBiG reference BGCs also included BGCs from the study strains, indicating limited overlap with characterized BGCs. Antimicrobial activity was detected in 89 of 300 strain–medium–indicator combinations, with positive results more frequent against fungal than bacterial indicators. Notably, the strain with the largest number of predicted BGCs did not exhibit the broadest antimicrobial spectrum. These findings reveal taxonomic and biosynthetic diversity among desert-derived  Saccharothrix  and provide a basis for prioritizing strains and biosynthetic pathways for further natural product discovery.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11382928/v1",
+    "date": "2026-11-10",
+    "authors": "Li S, Dong L, Wang Z, Wang X, Bobushova S, Tian C, Duixiannale A, Chen X, Zhang W, Fang B, Liu Y, Li X, Li W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363114",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 275,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11382928/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "91736f17aac7a890c07cd083ba3696af09b77f16de5aba91132f1431959a05e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:18:25.414168+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "13edd299e0bb8d2dafeb691a97bb41b5e918389428da315a2a9a6f729493e494",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:18:25.414168+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムおよび表現型解析により、砂漠由来のSaccharothrixにおける分類学的・生合成的多様性が明らかになった。",
+    "abstract_ja": "要旨    希少な放線菌類は、生物活性天然物の供給源として十分に探索されていないが、その分類学的多様性と生合成能は依然として十分に解明されていない。本研究では、中国北西部新疆ウイグル自治区のグルバントゥングット砂漠から単離された10株のSaccharothrix属菌株を対象に、系統ゲノミクス、比較ゲノミクス、生合成遺伝子クラスター（BGC）マイニング、および抗菌活性試験を用いて解析を行った。ゲノム解析により、新規種である可能性のある2つの系統が同定された。10株のゲノム全体で、計413個のBGCが予測された。比較BiG-SCAPE解析により、研究対象株10株、参照Saccharothrixゲノム、およびMIBiG由来の1,461個のBGCが、735個の遺伝子クラスターファミリー（GCF）に分類された。MIBiG参照BGCを含む19個のGCFのうち、研究対象株由来のBGCも含まれていたのはわずか3個であり、既知のBGCとの重複は限定的であることが示された。300組の菌株－培地－指標の組み合わせのうち89組で抗菌活性が検出され、細菌性指標よりも真菌性指標において陽性結果が多く認められた。特筆すべきは、予測されたBGC数が最多であった菌株であっても、抗菌スペクトルが最も広範であったわけではなかった点である。これらの知見は、砂漠由来のSaccharothrix属菌における分類学的および生合成的な多様性を明らかにするものであり、さらなる天然物探索に向けた菌株および生合成経路の優先順位付けの根拠となるものである。"
   }
 ]
