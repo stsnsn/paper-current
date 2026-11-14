@@ -213346,5 +213346,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "集団遺伝学が明らかにする、中国の多様な気候におけるExidia glandulosaの適応形質",
     "abstract_ja": "要旨    背景  Exidia属のタイプ種である木材腐朽菌Exidia glandulosaは、中国に広く分布している。しかし、ゲノムが希少であるため、後続の資源の探索および利用の開発が妨げられている。結果  本研究では、まず第3世代および次世代シーケンシング技術を用いてE. glandulosaの高品質なリファレンスゲノムをアセンブルし、78サンプルに基づき、中国の多様な気候地域におけるE. glandulosaの集団構造と適応進化特性を系統的に解析した。このアセンブルされたゲノムからは、ゲノムヘテロ接合性が異常に高いことが明らかになり、祖先的な遺伝的多様性の増大、あるいは歴史的な系統間交雑イベントの存在が示唆された。集団遺伝学的解析により、E. glandulosaの集団間における遺伝的分化は、おそらく地域的な気候変動によって駆動されていることが示された。選択シグナル解析の結果、温帯集団は主にシグナル伝達の強化とストレス応答を通じて気候変動に応答し、亜熱帯集団はエネルギー代謝に焦点を当て、高原集団はエネルギー感知、オートファジー調節、DNA損傷修復を含む経路の多方向的な調節を通じて応答していることが示唆された。結論  本研究は、E. glandulosaの集団分化と局所適応を駆動する気候的・地理的要因の重要な役割を解明した。ここで同定された豊かな遺伝的多様性と柔軟な分子調節機構が、その広範な生態学的分布を支えている。さらに、本研究は今後のExidia関連オミクス研究にとって貴重なゲノム資源を提供するとともに、集団遺伝学の枠組みにおいて、木材腐朽菌の気候適応性に関する研究の空白を埋めることに寄与する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.1099/acmi.0.001340.v1",
+    "title": "Analysing antimicrobial resistance mobility patterns using a diverse dataset of over 8000 bacterial species",
+    "abstract": "Advances in genomics have enhanced surveillance of antimicrobial resistance (AMR), yet the factors governing resistance gene mobility, and therefore their risk of spread, remain poorly characterized. Here, we analyzed AMR gene distributions across thousands of bacterial genomes from NCBI RefSeq, encompassing clinical, agricultural and environmental isolates, to quantify associations with plasmids and predicted mobile genomic islands. AMR genes were identified using the Resistance Gene Identifier, and in addition to plasmid identification, mobile chromosomal elements were predicted using IslandViewer 4. Analysing both the full dataset and subsets of data with corrections for sampling bias, we show that known AMR genes are significantly enriched in mobile regions overall. However, stratification by resistance mechanism supported marked heterogeneity: certain drug classes and mechanisms are strongly associated with mobile elements, whereas others are predominantly chromosomal and non-mobile. Notably, mechanisms with specialized functions showed higher mobility, consistent with their role as “ecological public goods” that need not be present in all cells to confer community-level benefit. Differences were also observed across bacteria with distinct cell envelope structures. Together, these findings lay the groundwork for predictive models of AMR gene mobility and provide a framework for incorporating gene-level mobility into AMR risk assessment and antimicrobial stewardship policy.",
+    "journal": "",
+    "doi": "10.1099/acmi.0.001340.v1",
+    "date": "2026-11-05",
+    "authors": "Jia B, Alcock BP, Raphenya AR, Spence J, Maguire F, Beiko RG, McArthur AG, Bertelli C, Brinkman FS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359625",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 955,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/acmi.0.001340.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d9e5d804f5a660115751f6ee5f5ca4fd6c72512d8b40f390878e88e18fe7e2c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:58:48.074806+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c4c36b8a873325ece38f262d0d12c36f85cc044c614086fe36c9d35d94076ba6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:58:48.074806+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "8,000種を超える細菌の多様なデータセットを用いた薬剤耐性の移動パターンの解析",
+    "abstract_ja": "ゲノミクスの進展により、薬剤耐性（AMR）のサーベイランスは強化されたが、耐性遺伝子の可動性、ひいてはその拡散リスクを規定する要因については、依然として十分に解明されていない。本研究では、臨床、農業、および環境由来の分離株を含むNCBI RefSeqの数千に及ぶ細菌ゲノムを対象にAMR遺伝子の分布を解析し、プラスミドとの関連性および予測される可動性ゲノムアイランドを定量化した。AMR遺伝子はResistance Gene Identifierを用いて同定し、プラスミドの同定に加えて、IslandViewer 4を用いて可動性染色体エレメントを予測した。全データセットおよびサンプリングバイアスを補正したデータサブセットの双方を解析した結果、既知のAMR遺伝子は全体として可動性領域に有意に濃縮されていることが示された。しかし、耐性機構による層別化を行うと顕著な不均一性が認められた。特定の薬剤クラスや機構は可動性エレメントと強く関連している一方で、他の機構は主に染色体上に存在し、可動性を持たない。特筆すべきは、特化した機能を持つ機構ほど可動性が高く、これは集団レベルの利益をもたらすために必ずしもすべての細胞に存在する必要はない「生態学的公共財」としての役割と一致している。また、細胞外被構造が異なる細菌間でも差異が認められた。これらの知見を総合すると、AMR遺伝子の可動性に関する予測モデルの基礎が築かれ、遺伝子レベルの可動性をAMRリスク評価および抗菌薬適正使用政策に組み込むための枠組みが提供される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0510.v1",
+    "title": "Anti-PBP2a Vaccines and Immunotherapies Against Methicillin-Resistant Staphylococcus Aureus: Current Evidence, Challenges, and Perspectives",
+    "abstract": "Methicillin-resistant Staphylococcus aureus (MRSA) is a major antimicrobial-resistant pathogen worldwide and a high-priority target for new therapeutic strategies. Methicillin resistance is primarily mediated by the mecA gene, which encodes penicillin-binding protein 2a (PBP2a), a transpeptidase with reduced affinity for β-lactam antibiotics. Because PBP2a plays a key role in bacterial survival under β-lactam pressure, highly specific to Methicillin-resistant Staphylococci, and immunologically recognizable, it represents an attractive target for immunotherapeutic approaches. This review summarizes current knowledge of PBP2a structure, biological function, and immunological relevance, focusing on vaccine and antibody-based strategies. Studies employing DNA vaccines, recombinant proteins, multi-epitope constructs, and passive immunization have demonstrated protective immune responses and reduced bacterial burden in animal models of MRSA infection. Monoclonal antibodies targeting PBP2a have also shown prophylactic and therapeutic efficacy, including activity independent of Fc-mediated effector functions, suggesting direct interference with PBP2a function. Their potential use in rapid immunodiagnostic assays for methicillin resistance is also discussed. Emerging strategies, including antibody engineering, glycoengineering, antibody-drug conjugates, mucosal vaccination, and combination therapies with antibiotics, may further enhance clinical applicability. Although evidence remains preclinical, PBP2a represents a promising target for active and passive immunization against Methicillin-resistant staphylococci.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0510.v1",
+    "date": "2026-11-05",
+    "authors": "Senna JP, Boechat JPC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359898",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2239,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0510.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cf9dad6135530c919c5f0fb125b9754d8ac1dc47e4ff976cf1f6f8e813d2717d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:58:48.074806+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dbbc61ebbb3c02c84644fb98f90b354f4a95e56fe52c10c8f2ad1c43ceb55e56",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:58:48.074806+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メチシリン耐性黄色ブドウ球菌に対する抗PBP2aワクチンおよび免疫療法：現状のエビデンス、課題、および展望",
+    "abstract_ja": "メチシリン耐性黄色ブドウ球菌（MRSA）は世界的に主要な薬剤耐性病原体であり、新たな治療戦略の最優先標的である。メチシリン耐性は主にmecA遺伝子によって媒介されており、同遺伝子はβ-ラクタム系抗菌薬に対する親和性が低下したトランスペプチダーゼであるペニシリン結合タンパク質2a（PBP2a）をコードしている。PBP2aは、メチシリン耐性ブドウ球菌に極めて特異的であり、かつ免疫学的に認識可能なβ-ラクタム系薬剤負荷下における細菌の生存に重要な役割を果たすため、免疫療法的アプローチの魅力的な標的となる。本総説では、ワクチンおよび抗体ベースの戦略に焦点を当て、PBP2aの構造、生物学的機能、および免疫学的関連性に関する現在の知見をまとめる。DNAワクチン、組換えタンパク質、マルチエピトープ構築体、および受動免疫を用いた研究により、MRSA感染の動物モデルにおいて保護的な免疫応答と細菌量の減少が示されている。PBP2aを標的としたモノクローナル抗体も、Fc介在性エフェクター機能に依存しない活性を含む予防的および治療的有効性を示しており、PBP2aの機能への直接的な干渉が示唆されている。また、メチシリン耐性の迅速免疫診断アッセイにおける潜在的な利用についても考察する。抗体工学、糖鎖工学、抗体薬物複合体、粘膜ワクチン接種、および抗菌薬との併用療法を含む新たな戦略により、臨床応用性がさらに向上する可能性がある。エビデンスは依然として前臨床段階にあるが、PBP2aはメチシリン耐性ブドウ球菌に対する能動的および受動的免疫化の有望な標的である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11281631/v1",
+    "title": "Performance of the BIOFIRE® Joint Infection Panel in the diagnosis of osteoarticular infections in adults and children in Santiago, Chile",
+    "abstract": "Abstract    Purpose  To evaluate the diagnostic performance and clinical utility of the BIOFIRE® Joint Infection multiplex PCR panel compared to conventional culture and 16S rRNA sequencing for the diagnosis of acute osteoarticular infections (OAI) in a Latin American setting. Methods  A prospective study was conducted between August 2022 and January 2024 at two tertiary hospitals in Santiago, Chile, involving a dual cohort of 124 adults and 32 children. A total of 156 samples (synovial fluid and osteoarticular tissue) were analyzed. JI panel's performance was compared against a Composite Reference Standard (CRS) consisting of standard-of-care culture and universal 16S rRNA PCR with sequencing. Results  Staphylococcus aureus  was the predominant pathogen identified in both cohorts (49.3% by culture vs. 46.8% by JI). For all on-panel microorganisms, the JI panel demonstrated an overall sensitivity of 90.9% (95% CI: 81.3–96.6%) and a negative predictive value (NPV) of 92.4% (95% CI: 84.2–97.2%). In the pediatric population, the panel achieved a specificity of 95.2% and an NPV of 95.2%. Notably, the JI panel maintained high performance in 20.5% of patients with prior antibiotic exposure and successfully identified polymicrobial infections that were missed or underreported by traditional cultures. Conclusions  The JI panel is a rapid, highly accurate tool for the microbiological documentation of OAIs in real-world clinical settings in Latin America. Its high NPV and rapid turnaround time (65 minutes) support its integration into diagnostic stewardship algorithms to optimize early and optimal antimicrobial therapy, particularly in pediatric cases and patients with suspected fastidious or culture-negative infections.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11281631/v1",
+    "date": "2026-11-05",
+    "authors": "Benadof D, Acuña M, Leiva Y, Yohannessen K, Martínez Á, Oyarzun A, Aldunate JT, Clement P, Bohle C, Vilches V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359101",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbiological",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2416,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11281631/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6e1ba1d9cb5d60347513b121899a4b5ec51f7c1c2f7f6e822f69706411f53cfb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:58:48.074806+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aa6cd6cc1f0f56f2d384aab131d463d1d5523990aba25015fb2b5fd3c0c41432",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:58:48.074806+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "チリ・サンティアゴにおける成人および小児の骨関節感染症診断におけるBIOFIRE®関節感染症パネルの性能",
+    "abstract_ja": "要旨    目的  ラテンアメリカにおける急性骨関節感染症（OAI）の診断において、BIOFIRE® Joint InfectionマルチプレックスPCRパネルの診断能および臨床的有用性を、従来の培養および16S rRNAシーケンシングと比較して評価すること。方法  2022年8月から2024年1月にかけて、チリのサンティアゴにある2つの三次病院において、成人124例と小児32例の2つのコホートを対象とした前向き研究を実施した。計156検体（滑液および骨関節組織）を解析した。JIパネルの性能を、標準的治療である培養およびユニバーサル16S rRNA PCRとシーケンシングからなる複合参照標準（CRS）と比較した。結果  両コホートにおいて、黄色ブドウ球菌（Staphylococcus aureus）が主要な病原体として同定された（培養：49.3%、JI：46.8%）。パネルに組み込まれたすべての微生物において、JIパネルは総合感度90.9%（95% CI: 81.3–96.6%）および陰性的中率（NPV）92.4%（95% CI: 84.2–97.2%）を示した。小児集団においては、本パネルは特異度95.2%、NPV 95.2%を達成した。特筆すべき点として、JIパネルは抗生物質への曝露歴のある患者の20.5%において高い性能を維持し、従来の培養法では見逃された、あるいは過少報告されていた多菌種感染を正常に同定した。結論  JIパネルは、ラテンアメリカの実臨床現場におけるOAIの微生物学的記録のための、迅速かつ極めて精度の高いツールである。その高いNPVと迅速なターンアラウンドタイム（65分）は、特に小児症例や難治性または培養陰性感染が疑われる患者において、早期かつ最適な抗菌薬治療を最適化するための診断スチュワードシップ・アルゴリズムへの導入を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.763860",
+    "title": "PartiDesign: A structure-sequence co-design paradigm for practical all-to-all biomolecules design",
+    "abstract": "Engineering interactions among biomolecules offers a route to creating new biological functions. Although unified models have advanced biomolecular structure prediction and design, efficient and controllable generation across molecular modalities remains challenging. A key challenge is to couple three-dimensional structure generation with sequence or chemical-identity design across chemically diverse systems. Here, we introduce PartiDesign, a unified structure-sequence co-design model that extends the partially latent framework of La-Proteina to proteins, nucleic acids and small molecules. PartiDesign jointly generates molecular structures and their corresponding sequences or chemical identities, while providing fine-grained control over secondary structure, chemical bonding and amino acid preferences. Across diverse benchmarks for the de novo design of proteins, nucleic acids and small molecules against specified targets, PartiDesign achieved the highest estimated successful-design throughput among the evaluated methods on most benchmarks under the adopted compute-budget protocols. Its configurable constraints further support cyclic peptide and antibody design, allowing generation to be tailored to specific structural and chemical requirements. PartiDesign was developed using 128 Huawei Ascend 910B accelerators, each with 64 GB of memory. The source code is available at https://github.com/MegaGatlingPea/PartiDesign-official, and a freely accessible web server at https://cadd.zju.edu.cn/partidesign/ enables users to generate binding partners without programming expertise. Together, these capabilities provide a versatile and accessible framework for all-to-all biomolecular design, with applications in molecular engineering and drug discovery.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.763860",
+    "date": "2026-11-05",
+    "authors": "Jin Z, Zhang X, Kang Y, Hou T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359760",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "protein",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2448,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.763860"
+    ],
+    "translation": {
+      "title": {
+        "hash": "118546793be83bafbd4cfb0fa1934af3f547f8afbdb682c4c1e276d6ffac4bac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:58:48.074806+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "88a182bac376508766ee2224286e81c0091b3c281ab570fa1e4f28813d1daeb3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:58:48.074806+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PartiDesign：実用的な全分子バイオ分子設計のための構造・配列共設計パラダイム",
+    "abstract_ja": "生体分子間の工学的相互作用は、新たな生物学的機能を創出する道筋となる。統一的なモデルによって生体分子の構造予測と設計は進展したが、分子モダリティを横断した効率的かつ制御可能な生成は依然として困難な課題である。主要な課題は、化学的に多様な系において、三次元構造の生成を配列または化学的同一性の設計と結びつけることにある。本研究では、La-Proteinaの部分潜在フレームワークをタンパク質、核酸、および低分子へと拡張した統一的な構造・配列共設計モデル「PartiDesign」を提案する。PartiDesignは、分子構造とそれに対応する配列または化学的同一性を共同で生成すると同時に、二次構造、化学結合、およびアミノ酸の選好性に対するきめ細かな制御を可能にする。指定された標的に対するタンパク質、核酸、および低分子のde novo設計に関する多様なベンチマークにおいて、PartiDesignは、採用した計算予算プロトコルの下で、ほとんどのベンチマークにおいて評価手法の中で最高の推定成功設計スループットを達成した。また、設定可能な制約条件により環状ペプチドや抗体の設計をさらにサポートし、特定の構造的・化学的要件に合わせた生成が可能となる。PartiDesignは、それぞれ64 GBのメモリを搭載した128基のHuawei Ascend 910Bアクセラレータを用いて開発された。ソースコードは https://github.com/MegaGatlingPea/PartiDesign-official で公開されており、https://cadd.zju.edu.cn/partidesign/ で利用可能な無料のウェブサーバーにより、プログラミングの専門知識がなくても結合パートナーを生成できる。これらの機能が相まって、分子工学や創薬への応用が期待される、汎用的かつアクセスしやすい全対全生体分子設計フレームワークが提供される。"
   }
 ]
