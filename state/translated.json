@@ -224052,5 +224052,300 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "MAJIQ V3: スプライスグラフ代数と改良されたイントロン保持モデリングによる、スケーラブルかつ高精度なRNAスプライシング解析。",
     "abstract_ja": "RNAスプライシングは、遺伝子アイソフォームの細胞種特異的な発現において重要な役割を果たしており、数多くの疾患の原因ともなっている。これまでに、我々の研究グループは、RNAシーケンシングからのRNAスプライシングの検出、定量、および可視化のためのModeling Alternative Junction Inclusion Quantification (MAJIQ) V1およびV2を開発した。本稿では、より高速かつ高精度な定量アルゴリズムとともに、極めて重要な新機能を備えたアップデート版であるMAJIQ V3について報告する。MAJIQ V3では、ユーザーがスプライスグラフを統合し、スプライスグラフに基づいてRNA-seq実験からスプライシングを定量化し、さらにあるスプライスグラフを別のスプライスグラフと比較することが可能となり、RNA-seqからの高性能なRNAスプライシング解析の新たなパターンを実現する。MAJIQ V3は、イントロン保持を検出するための新たな確率モデルを採用し、従来のヒューリスティック法に起因していたバイアスを補正している。MAJIQ V3は、より高性能なI/Oパターン、データ構造、およびアルゴリズムを用いた全面的な再実装によって性能が向上している。我々は、異なるデータセットサイズを用いたさまざまな解析シナリオにおいて、GTExおよびLRGASPデータを用いてMAJIQ V3の利点を実証する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 1",
+        "query": "(JOURNAL:\"The ISME Journal\" OR JOURNAL:\"ISME Communications\" OR JOURNAL:\"ISME Host Microbe\" OR JOURNAL:\"FEMS Microbiology Ecology\" OR JOURNAL:\"FEMS Microbiology Letters\" OR JOURNAL:\"FEMS Microbiology Reviews\" OR JOURNAL:\"FEMS Yeast Research\" OR JOURNAL:\"FEMS Microbes\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/femsle/fnag133",
+    "title": "Microbiome science needs AI competence, not just AI literacy.",
+    "abstract": "Artificial intelligence is rapidly becoming embedded in microbiome research, yet the way microbiome scientists are trained has not kept pace. Existing discussions frequently emphasize AI literacy and responsible tool use. We argue that literacy alone is insufficient in a field where data leakage, incomplete metadata, ecological confounding, inappropriate model selection and unverified generative-AI outputs can produce convincing but biologically misleading conclusions. We propose an AI-competence framework comprising five connected capabilities: data and platform fluency, machine-learning competence, advanced model competence, large-language-model and agent competence, and biological closure. The final capability-the ability to connect computational predictions to independent data, mechanistic reasoning or experimental evidence-is essential for ensuring that predictive performance becomes meaningful biology. We further propose that competence should be demonstrated through reproducible scientific artifacts rather than course completion alone. Shared datasets, computational platforms and benchmark challenges could make such training broadly accessible while establishing common standards for evaluating AI competence in microbiome science.",
+    "journal": "FEMS Microbiology Letters",
+    "doi": "10.1093/femsle/fnag133",
+    "date": "2026-10-29",
+    "authors": "Anand A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954392",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954392",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4370,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 1"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/femsle/fnag133"
+    ],
+    "translation": {
+      "title": {
+        "hash": "debb3b216cd3de162d92740f56bee93a8c5308a2384379ef294f2d4b84064935",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:58:48.543948+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "adf4d4cd6069f993f878579bd83fc82272253b41f41f38bf69e47fa1705ded2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:58:48.543948+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイクロバイオーム科学に必要なのは、単なるAIリテラシーではなく、AIの習熟度である。",
+    "abstract_ja": "人工知能はマイクロバイオーム研究に急速に浸透しつつあるが、マイクロバイオーム研究者のトレーニング手法はそれに追いついていない。既存の議論では、AIリテラシーや責任あるツール利用が頻繁に強調されている。我々は、データ漏洩、不完全なメタデータ、生態学的交絡、不適切なモデル選択、および検証されていない生成AIの出力が、一見説得力があるが生物学的に誤解を招く結論を導き出し得る分野において、リテラシーだけでは不十分であると主張する。我々は、データおよびプラットフォームの習熟度、機械学習能力、高度なモデル能力、大規模言語モデルおよびエージェント能力、そして生物学的整合性という、相互に関連する5つの能力からなるAIコンピテンスフレームワークを提案する。最後の能力――計算による予測を独立したデータ、メカニズム論的推論、あるいは実験的根拠に結びつける能力――は、予測性能を有意義な生物学的知見へと昇華させるために不可欠である。さらに我々は、コンピテンスは単にコースの修了によって示されるのではなく、再現可能な科学的成果物を通じて実証されるべきであると提案する。共有データセット、計算プラットフォーム、およびベンチマーク課題を活用することで、こうしたトレーニングを広く利用可能にすると同時に、マイクロバイオーム科学におけるAIコンピテンス評価の共通基準を確立できると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1993442",
+    "title": "Effects of sulfate amendment and different temperatures on microbial community structure and hydrocarbon degradation in petroleum-contaminated soils.",
+    "abstract": "Environmental temperature fluctuations have substantial effects on sulfate-mediated anaerobic remediation of petroleum-contaminated soils, yet systematic investigations into the underlying mechanisms and temperature-dependent degradation signatures remain limited. In this study, hydrocarbon degradation in oxygen-limited microcosms and microbial community succession were characterized over successive remediation stages. Degradation efficiencies increased with increasing temperature across the tested thermal gradients (5 °C, 20 °C, and 40 °C). Compared with control groups, the total hydrocarbon removal efficiency was significantly greater in sulfate-amended groups. All temperature treatments resulted in a similar degradation pattern: rapid hydrocarbon removal during the initial phase, followed by gradual deceleration during later incubation stages. Functional prediction revealed enrichment of gene families involved in fatty acid metabolism, ABC-type transport systems, and stress-responsive sigma factors. High-throughput sequencing revealed that Pseudomonadota, Actinomycetota, Bacillota, and Planctomycetota were the dominant microbial taxa whose relative abundances fluctuated in response to temperature, sulfate amendment, and remediation duration. Collectively, these findings suggest that sulfate addition and incubation temperature jointly modulate hydrocarbon-degradation dynamics. Nevertheless, temperature, rather than sulfate amendment, was the primary factor structuring microbial-community composition.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1993442",
+    "date": "2026-10-28",
+    "authors": "Wang JD.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43017181",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13752197",
+    "pmid": "43017181",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4378,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1993442"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2905b4d002c3782d85cc6dea55aeaaf5a7679038cf3f5a3270a5e4291b63e321",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:58:48.543948+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "57dabc287ce9f03d04c1135f2f499e4ce7aa0b307a7e3b02c4ea51ab307917de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:58:48.543948+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "石油汚染土壌における硫酸塩施用および異なる温度が微生物群集構造と炭化水素分解に及ぼす影響",
+    "abstract_ja": "環境温度の変動は、硫酸塩を介した石油汚染土壌の嫌気的浄化に多大な影響を及ぼすが、その根底にあるメカニズムや温度依存的な分解シグネチャーに関する系統的な調査は依然として限られている。本研究では、酸素制限マイクロコスムにおける炭化水素分解および微生物群集の遷移を、一連の浄化段階にわたって特性評価した。試験した温度勾配（5 °C、20 °C、40 °C）において、温度の上昇に伴い分解効率は向上した。対照群と比較して、硫酸塩添加群では総炭化水素除去効率が有意に高かった。すべての温度処理において同様の分解パターンが認められ、初期段階では炭化水素が急速に除去され、その後の培養段階にかけて徐々に減速した。機能予測の結果、脂肪酸代謝、ABC型輸送系、およびストレス応答性シグマ因子に関与する遺伝子ファミリーの濃縮が明らかになった。ハイスループットシーケンシングにより、Pseudomonadota、Actinomycetota、Bacillota、およびPlanctomycetotaが主要な微生物分類群であり、それらの相対存在量が温度、硫酸塩添加、および浄化期間に応じて変動することが示された。総じて、これらの知見は、硫酸塩の添加と培養温度が共同して炭化水素分解の動態を調節することを示唆している。しかしながら、微生物群集組成を構造づける主要因は、硫酸塩添加ではなく温度であった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/nargab/lqag122",
+    "title": "ModCRElib: a standalone package to model <i>cis</i>-regulatory elements.",
+    "abstract": "The ModCRElib package provides various tools for the analysis and modelling of transcription factor (TF)-DNA and regulatory complex inter-protein interactions. It takes structural information on these interactions to predict TF-binding motifs, generate binding profiles along DNA sequences that score the binding affinity, predict TF-binding sites, and model the structure of higher order regulatory complexes. It is capable of working with a variety of input data formats and sources. The user may follow the analysis pipeline as outlined in the documentation or the user can make use of any of the multiple functionalities in an isolated manner. The package takes the service offered by the ModCRE server and enables users to apply its tools in an unrestricted and customizable manner. In this paper we provide five example uses of ModCRElib. This includes (i) TF-binding affinity prediction, (ii) TF ensemble pattern of bindings (aggregation of motifs), (iii) characterization of specificity in TF-binding sites along target DNA sequences, (iv) modelling TF bound to predicted binding sites, and (v) the generation of statistical potential derived scoring profiles of TF interacting with DNA.",
+    "journal": "NAR Genomics and Bioinformatics",
+    "doi": "10.1093/nargab/lqag122",
+    "date": "2026-10-21",
+    "authors": "Gohl P, Fornes O, Bota PM, Meseguer A, Bonet J, Molina-Fernández R, Planas-Iglesias J, Hernández AC, Gallego O, Fernandez-Fuentes N, Oliva B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42909365",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13684267",
+    "pmid": "42909365",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4376,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nargab/lqag122"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c47208669591991c8a360b5d9f8b313dd96472eacabe439b79005177196b34ee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:58:48.543948+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "95f7bdb16592838f8f50791479a70b60e8136d8aaeb6a60887db9c1a816e019e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:58:48.543948+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ModCRElib: <i>cis</i>調節エレメントをモデル化するためのスタンドアロンパッケージ。",
+    "abstract_ja": "ModCRElibパッケージは、転写因子（TF）-DNAおよび調節複合体のタンパク質間相互作用の解析・モデリングのための各種ツールを提供する。本パッケージは、これらの相互作用に関する構造情報を用いて、TF結合モチーフの予測、結合親和性をスコア化するDNA配列に沿った結合プロファイルの生成、TF結合部位の予測、および高次調節複合体の構造モデリングを行う。また、多様な入力データ形式やソースに対応している。ユーザーは、ドキュメントに記載された解析パイプラインに従うことも、複数の機能を個別に利用することも可能である。本パッケージはModCREサーバーが提供するサービスを活用し、ユーザーが制限なくカスタマイズ可能な形でツールを適用できるようにする。本論文では、ModCRElibの5つの活用例を提示する。これには、(i) TF結合親和性の予測、(ii) TF結合のアンサンブルパターン（モチーフの集約）、(iii) 標的DNA配列に沿ったTF結合部位の特異性の特性評価、(iv) 予測された結合部位に結合したTFのモデリング、および(v) DNAと相互作用するTFの統計的ポテンシャル由来スコアリングプロファイルの生成が含まれる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 1",
+        "query": "(JOURNAL:\"The ISME Journal\" OR JOURNAL:\"ISME Communications\" OR JOURNAL:\"ISME Host Microbe\" OR JOURNAL:\"FEMS Microbiology Ecology\" OR JOURNAL:\"FEMS Microbiology Letters\" OR JOURNAL:\"FEMS Microbiology Reviews\" OR JOURNAL:\"FEMS Yeast Research\" OR JOURNAL:\"FEMS Microbes\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/ismejo/wrag273",
+    "title": "Nanoscale pesticide delivery suppresses pathogens and enriches beneficial microbiomes for safer crop protection.",
+    "abstract": "Nanocarrier-based pesticide delivery platforms substantially boost agrochemical utilization efficiency, yet their cascading ecological repercussions for rhizosphere and soil microbial ecology remain insufficiently understood. Here, a star polycation (SPc) nanocarrier was employed to construct a matrine nano-formulation (MT@SPc) with typical nano-pesticide characteristics. MT@SPc and commercial matrine formulation (MT SL) were employed as representative systems to further evaluate their impacts on rhizosphere and soil microbial ecosystems. Compared with MT SL, MT@SPc reshaped rhizosphere microbial communities by suppressing phytopathogens and promoting the enrichment of beneficial bacteria. Further validation using four representative bacterial isolates obtained from soil demonstrated that MT@SPc significantly inhibited the growth of the phytopathogen Pectobacterium carotovorum, whereas enriched beneficial bacteria exhibited lower susceptibility to MT@SPc. Multi-scale mechanistic analyses revealed that MT@SPc could interact with bacterial cell surfaces through physicochemical interactions, resulting in pronounced surface deformation and structural damage in P. carotovorum. Multi-omics analyses associated with physiological and biochemical assays further demonstrated that MT@SPc disrupted cell wall and membrane integrity, leading to ionic imbalance, metabolite leakage and oxidative stress. However, beneficial bacteria maintained higher stability, and their enrichment was associated with microbial community shifts following pathogen suppression. Overall, this study reveals that nano-pesticides drive rhizosphere community restructuring through differential microbial responses, providing mechanistic insights into nano-pesticide-microbiome interactions in complex ecological systems.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag273",
+    "date": "2026-10-20",
+    "authors": "Luo M, Dong M, Qiao H, Jin D, Chang S, Ullah F, Yin M, Shen J, Yin Y, Yan S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42899707",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42899707",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4367,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 1"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/ismejo/wrag273"
+    ],
+    "translation": {
+      "title": {
+        "hash": "26e114fd6f944d479e4209876181ce8c155c7ea0b415bde415418a8c0ec95cc8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:58:48.543948+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2f776c8b7b33bc456afda35a1d2ff2ed9a95d7396ecdb061572d2198d05bf324",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:58:48.543948+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ナノスケールの農薬送達は、病原体を抑制し、有益な微生物叢を拡充することで、より安全な作物保護を実現する。",
+    "abstract_ja": "ナノキャリアを用いた農薬送達プラットフォームは、農薬の利用効率を大幅に向上させるが、根圏および土壌微生物生態に及ぼす連鎖的な生態学的影響については十分に解明されていない。本研究では、スターポリカチオン（SPc）ナノキャリアを用いて、典型的なナノ農薬特性を有するマトリンナノ製剤（MT@SPc）を作製した。MT@SPcおよび市販のマトリン製剤（MT SL）を代表的な系として用い、根圏および土壌微生物生態系への影響をさらに評価した。MT SLと比較して、MT@SPcは植物病原菌を抑制し、有益細菌の増殖を促進することで、根圏微生物群集を再編した。土壌から得られた4種類の代表的な細菌分離株を用いたさらなる検証により、MT@SPcが植物病原菌であるPectobacterium carotovorumの増殖を有意に抑制した一方で、増殖した有益細菌はMT@SPcに対する感受性が低いことが示された。マルチスケールの機構解析により、MT@SPcが物理化学的相互作用を通じて細菌細胞表面と相互作用し、その結果、P. carotovorumにおいて顕著な表面変形と構造的損傷が生じることが明らかになった。生理学的および生化学的アッセイを伴うマルチオミクス解析により、MT@SPcが細胞壁および細胞膜の完全性を破壊し、イオンバランスの乱れ、代謝物の漏出、および酸化ストレスを引き起こすことがさらに示された。しかし、有益細菌はより高い安定性を維持し、その増殖は病原菌抑制後の微生物群集のシフトに関連していた。総じて、本研究は、ナノ農薬が微生物の応答差を通じて根圏群集の再構成を駆動することを明らかにし、複雑な生態システムにおけるナノ農薬とマイクロバイオームの相互作用に関する機構的な知見を提供するものである。"
   }
 ]
