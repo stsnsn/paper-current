@@ -199978,5 +199978,287 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "乾燥ストレスはB群レンサ球菌の病原性ポテンシャルを亢進させる",
     "abstract_ja": "Streptococcus agalactiae（B群レンサ球菌、GBS）は、消化管および女性生殖器系に無症状で常在するが、感受性のある個体においては侵襲性疾患を引き起こすこともある。臨床的な重要性にもかかわらず、宿主外での生存能や、環境中での持続性が伝播および感染に寄与するか否かについては、比較的ほとんど解明されていない。本研究では、栄養飢餓および乾燥条件下におけるGBSの生存能を検討し、環境中での持続性に関連する表現型およびゲノム適応を明らかにした。GBSは、室温での飢餓条件下で30日間、乾燥条件下では80日以上にわたって生存し、定常期菌へと増殖したGBSは、活発に増殖している菌よりも高い生存率を示した。乾燥条件下での生存能は、臨床的に意義のある複数のGBS血清型において維持されていた。再水和後、乾燥GBSは対照となる非乾燥株と比較して、バイオフィルム形成能が亢進していた。全ゲノムシーケンシングにより、莢膜生合成、細胞外被恒常性、栄養輸送、および炭水化物代謝に関与する遺伝子の変異が同定され、複数の適応経路が環境中での持続性に寄与している可能性が示唆された。重要な点として、乾燥GBSは腟粘膜への定着能を保持しており、マウス腟定着モデルにおいて生殖組織への浸潤能の亢進を示した。全身感染モデルにおいて、乾燥GBSは対照となる非乾燥GBSと比較して病原性が亢進しており、環境中での生存が病原性を減弱させないことが示された。この環境中での持続性は、GBSの伝播および遅発性新生児疾患の疫学に寄与する、過小評価されてきた要因である可能性がある。"
+  },
+  {
+    "id": "10.64898/2026.11.10.765585",
+    "title": "A ribosome-dependent small-ORF switch controls flagellar gene expression and virulence",
+    "abstract": "RNA structures are active regulators of bacterial translation. Here, we identified a naturally occurring translation-enhancing small open reading frame (tesORF) that controls the expression of the flagellar operon fliFGHIJK in Salmonella enterica and other motile Enterobacterales. Nucleotide-resolution ribosome profiling revealed this previously unannotated 54-nucleotide ORF immediately upstream of fliF. Genetic, transcriptomic, and biochemical analyses support a model in which tesORF translation counteracts an inhibitory RNA structure, exposing the fliF ribosome-binding site and promoting translation initiation independently of the encoded peptide sequence. Disruption of tesORF translation reduced expression of the downstream operon and impaired motility and virulence-associated phenotypes in Escherichia coli, Salmonella, and Yersinia. Together, our findings reveal how translation of a conserved small ORF regulates an entire flagellar operon through RNA structural remodelling, with consequences expending to the wider flagellar regulon, linking RNA structural dynamics to bacterial motility and virulence.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765585",
+    "date": "2026-11-11",
+    "authors": "Lastovka, F., Bryant, O. J., Meggers, D., Alexeeva, E., Knorr, M., Narberhaus, F., Chung, B. Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765585v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4135,
+    "collected_at": "2026-11-12T03:17:43.925048+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.10.765585"
+    ],
+    "translation": {
+      "title": {
+        "hash": "33759248343c41dba3cc42b8719b7c8dc92f93915b322d193b7800c7e23b3e2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:12:02.653757+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a5ff7249a12a30a720617fe12d34a6352cce9479f44d0770e5e52e055eda1e79",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:12:02.653757+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リボソーム依存性のsmall-ORFスイッチが鞭毛遺伝子の発現と病原性を制御する",
+    "abstract_ja": "RNA構造は、細菌の翻訳における能動的な調節因子である。本研究では、Salmonella entericaおよびその他の運動性Enterobacterales属細菌において、鞭毛オペロンfliFGHIJKの発現を制御する天然に存在する翻訳促進型小型オープンリーディングフレーム（tesORF）を同定した。ヌクレオチド分解能リボソームプロファイリングにより、fliFの直上流に位置する、これまでアノテーションされていなかった54ヌクレオチドのORFが明らかになった。遺伝学的、トランスクリプトーム的、および生化学的解析により、tesORFの翻訳が抑制性RNA構造に拮抗し、fliFのリボソーム結合部位を露出させることで、コードされるペプチド配列とは独立して翻訳開始を促進するというモデルが支持された。tesORFの翻訳を阻害すると、下流のオペロンの発現が低下し、Escherichia coli、Salmonella、およびYersiniaにおいて運動性および病原性関連の表現型が損なわれた。以上の知見を総合すると、保存された小型ORFの翻訳がRNA構造再編成を通じて鞭毛オペロン全体を制御し、その影響がより広範な鞭毛レギュロンにまで及ぶことで、RNA構造ダイナミクスを細菌の運動性と病原性と結びつけていることが明らかになった。"
+  },
+  {
+    "id": "10.64898/2026.11.08.765187",
+    "title": "Using Oyster Genomics to Understand Human Health",
+    "abstract": "As sessile filter feeders that experience continuous environmental exposure, oysters, particularly Crassostrea virginica, offer a unique opportunity to understand how environmental exposure alters the genome and influence health. Furthermore, oysters must be sorted by size for market value for premium size and taste. However, it requires intensive labor, specialized equipment (tumblers), and is susceptible to environmental risks like pollution. Therefore, it is desirable to produce uniform oysters without machines. However, limitations in the previous reference genome [2] have constrained our understanding of how genes are organized and maintained in oyster populations. To this end, we harvested 240 adult oysters in same location, 120 extremely large size and 120 extremely small, controlled with all confounding factors such as age and water temperature. We perform a genome wide associate study (GWAS) using next generation whole genome sequencing, aiming to discover genomic regions associated with oyster size. Using PacBio HiFi, Illumina, and Hi-C technologies, we generated a 99.7% complete chromosome-level genome assembly for C. virginica (NCBI RefSeq GCF_053477285.1) [75]. We identified a ~13 Mb region on chromosome 1 uniquely expanded in C. virginica and enriched for innate immune and stress-response genes. To evaluate whether these structural features are reflected at the population level, we then conducted a k-mer analysis. This revealed differential sequence patterns by size, including enrichment of bacterial DNA in smaller individuals and host variation at the RNF213 locus within this region. By highlighting genome structure as a mediator of immune resilience, this work supports the use of oysters as sentinels to advance out understanding of how the dynamic reassembly of the genome due to environmental exposures influence health in human populations.",
+    "journal": "",
+    "doi": "10.64898/2026.11.08.765187",
+    "date": "2026-11-11",
+    "authors": "Bargmann, W., Chen, Z., Wang, S., Cawood, M. L., Parulekar, A., Martucci, C., Hoh, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.08.765187v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4167,
+    "collected_at": "2026-11-12T09:59:11.613660+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.08.765187"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3650c597207ff128fe8c1388dbc06fef793802d25997bbbfa89db159e97467c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:12:02.653757+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4d219b8b525f7651aad55ef9149a28bbee0fc822a472d0cdee567fdf48325f2c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:12:02.653757+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オイスターゲノミクスを用いたヒトの健康の理解",
+    "abstract_ja": "絶えず環境にさらされる固着性濾過摂食者であるカキ、特にCrassostrea virginicaは、環境曝露がゲノムをどのように変化させ、健康にどのような影響を及ぼすかを理解する上で独自の機会を提供する。さらに、高級サイズや味を求める場合、市場価値に応じてサイズ別に選別する必要がある。しかし、これには多大な労力と専用設備（タンブラー）が必要であり、汚染などの環境リスクにもさらされやすい。したがって、機械を用いずに均一なカキを生産することが望ましい。しかしながら、先行するリファレンスゲノム [2] の限界により、カキの個体群において遺伝子がどのように構成・維持されているかという理解が制約されてきた。この目的のため、我々は同一地点で成体カキ240個体（極めて大型の120個体と極めて小型の120個体）を採取し、年齢や水温などのあらゆる交絡因子を制御した。次に、次世代全ゲノムシーケンシングを用いてゲノムワイド関連解析（GWAS）を実施し、カキのサイズに関連するゲノム領域の同定を試みた。PacBio HiFi、Illumina、およびHi-C技術を用い、C. virginicaの99.7%完全な染色体レベルのゲノムアセンブリ（NCBI RefSeq GCF_053477285.1）[75] を構築した。その結果、第1染色体上に、C. virginicaにおいて特異的に拡大し、自然免疫およびストレス応答遺伝子が濃縮された約13 Mbの領域を同定した。これらの構造的特徴が個体群レベルで反映されているかを評価するため、次いでk-mer解析を行った。これにより、サイズによる配列パターンの差異が明らかになり、小型個体における細菌DNAの濃縮や、当該領域内のRNF213遺伝子座における宿主変異などが認められた。ゲノム構造を免疫応答能の媒介因子として浮き彫りにすることで、本研究は、環境曝露によるゲノムの動的な再構成がヒト集団の健康にどのような影響を及ぼすかという理解を深めるためのセンチネルとしてのカキの活用を支持するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.07.762903",
+    "title": "A global post-transcriptional regulator directs Acinetobacter baumannii carbon preference and gut colonization",
+    "abstract": "Acinetobacter baumannii is a multidrug-resistant pathogen that colonizes the gut, increasing the risk of subsequent infection and transmission. Recent work showed that A. baumannii catabolizes ornithine, a non-preferred carbon source, to colonize the gut. However, the mechanisms of carbon preference were unknown in A. baumannii. Here, experimental evolution identified the conserved RNA-binding protein CsrA as a regulator of carbon preference in A. baumannii, a previously unreported CsrA function. RNA immunoprecipitation sequencing (RIP-Seq) revealed hundreds of CsrA-associated transcripts. A. baumannii CsrA directly bound and repressed expression of the ast arginine/ornithine catabolic operons. The Pseudomonas aeruginosa CsrA homolog RsmA repressed arginine/ornithine catabolic operon expression, suggesting this CsrA function extends to other bacterial taxa. Finally, CsrA was required for competitive fitness during A. baumannii gut colonization. These findings uncover a previously unrecognized role for a global regulator in A. baumannii carbon preference and persistence in the gut, a critical reservoir for multidrug-resistant pathogens.",
+    "journal": "",
+    "doi": "10.64898/2026.11.07.762903",
+    "date": "2026-11-10",
+    "authors": "Clark, R. M., Sava, R. L., Holt, K. J. A., Gebhardt, M. J., Palmer, L. D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.07.762903v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2087,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.07.762903"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c29e857f0642aeb5a443c329db7c8f3bbd74003eba3684249899fdcee5159259",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:12:02.653757+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4dc6e907c6965fa411a0ed1452cc399ffff449665cc3c573c5c0bd078ccc5992",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:12:02.653757+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "世界的な転写後調節因子がAcinetobacter baumanniiの炭素選好性と腸内定着を制御する",
+    "abstract_ja": "Acinetobacter baumanniiは腸内に定着する多剤耐性病原体であり、その後の感染および伝播のリスクを高める。近年の研究により、A. baumanniiは非優先的な炭素源であるオルニチンを異化することで腸内に定着することが示された。しかし、A. baumanniiにおける炭素選好性のメカニズムは不明であった。本研究では、実験的進化により、保存されたRNA結合タンパク質CsrAがA. baumanniiにおける炭素選好性の調節因子として同定された。これはこれまで報告されていなかったCsrAの機能である。RNA免疫沈降シーケンシング（RIP-Seq）により、数百種類のCsrA関連転写産物が同定された。A. baumanniiのCsrAは、ASTアルギニン/オルニチン異化オペロンに直接結合し、その発現を抑制した。Pseudomonas aeruginosaのCsrAホモログRsmAはアルギニン/オルニチン異化オペロンの発現を抑制したことから、このCsrAの機能は他の細菌分類群にも及ぶことが示唆された。最後に、CsrAはA. baumanniiの腸内定着における競争的適応度に必要であった。これらの知見は、多剤耐性病原体の重要なリザーバーである腸内におけるA. baumanniiの炭素選好性と持続性において、グローバル調節因子がこれまで認識されていなかった役割を担っていることを明らかにするものである。"
+  },
+  {
+    "id": "10.64898/2026.11.04.764202",
+    "title": "Characterization of Lactobacillus rhamnosus-Derived Extracellular Vesicles and Their Cellular Cytoprotective Effects Against Trimethylamine-Induced Oxidative Stress in Caco-2 Cells",
+    "abstract": "Dietary trimethylamine (TMA) underwent gut microbiota-mediated catabolism and subsequent hepatic oxidation to generate trimethylamine N-oxide (TMAO), a key metabolic factor linked to vascular and colorectal diseases. While the systemic effects of circulating TMAO were heavily investigated, the direct localized cellular interactions of its precursor, TMA, at the intestinal epithelial level required further elucidation. This study characterized extracellular vesicles isolated from Lactobacillus rhamnosus (Lr-EVs) and evaluated their cytoprotective potential in an in vitro human intestinal Caco-2 cell model under TMA-induced stress. Exposure to a high concentration of TMA (20 mM) significantly reduced Caco-2 viability to 78.8%, triggered intracellular reactive oxygen species (ROS) accumulation, and compromised tight junction integrity as observed via the disruption of Zonula Occludens-1 (ZO-1) alignment. Co-treatment with Lr-EVs (100-300 g/mL) counteracted this cellular toxicity, enhancing cell survival up to 172%. Quantitative PCR analysis revealed that Lr-EVs suppressed the transcriptional upregulation of the pro-inflammatory gene IL-1{beta}, restored the expression of the metabolic regulator SIRT1, and stabilized transcript levels of key mitochondrial-encoded electron transport chain genes (ND6, CYTB, CO1, and ATP6). Additionally, Lr-EVs exhibited intrinsic radical scavenging activities in cell-free ABTS and DPPH assays. These preliminary in vitro findings demonstrated that Lr-EVs mitigated TMA-induced cellular injury, oxidative stress, and junctional disruption at the transcriptomic level, supporting further investigation of probiotic-derived EVs as prospective cell-free functional ingredients.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764202",
+    "date": "2026-11-10",
+    "authors": "Wang, L.-M., Kin, T. C., Hung, W.-C., Shi, Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.04.764202v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2088,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.04.764202"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a4284451cc4b6396387ebfe52b988ce353929691278e088970487bc9258dbbe5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:12:02.653757+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "de071da71f43d1e7165454123caae9bfec27ee62d831c0334c472e8d8c855068",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:12:02.653757+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Lactobacillus rhamnosus由来細胞外小胞の特性解析とCaco-2細胞におけるトリメチルアミン誘発性酸化ストレスに対する細胞保護効果",
+    "abstract_ja": "食事由来のトリメチルアミン（TMA）は、腸内細菌叢を介した異化作用とそれに続く肝酸化を経て、血管疾患および大腸疾患に関連する主要な代謝因子であるトリメチルアミンN-オキシド（TMAO）を生成する。循環血中のTMAOによる全身性影響については広範に研究されてきたが、その前駆体であるTMAの腸上皮レベルにおける直接的な局所細胞相互作用については、さらなる解明が必要であった。本研究では、Lactobacillus rhamnosusから単離した細胞外小胞（Lr-EVs）の特性評価を行い、TMA誘導性ストレス下におけるin vitroヒト腸管Caco-2細胞モデルでの細胞保護能を評価した。高濃度のTMA（20 mM）への曝露により、Caco-2の生存率は78.8%まで有意に低下し、細胞内活性酸素種（ROS）の蓄積が誘発されたほか、Zonula Occludens-1（ZO-1）配列の破綻を介してタイトジャンクションの完全性が損なわれた。Lr-EVs（100-300 g/mL）の併用投与はこの細胞毒性に拮抗し、細胞生存率を最大172%まで向上させた。定量PCR解析の結果、Lr-EVsは炎症促進性遺伝子IL-1{beta}の転写亢進を抑制し、代謝調節因子SIRT1の発現を回復させ、主要なミトコンドリア符号化電子伝達系遺伝子（ND6、CYTB、CO1、およびATP6）の転写レベルを安定化させることが明らかになった。さらに、Lr-EVsはcell-free ABTSおよびDPPHアッセイにおいて固有のラジカル消去活性を示した。これらのin vitroにおける予備的知見は、Lr-EVsがトランスクリプトームレベルでTMA誘発性の細胞損傷、酸化ストレス、および接合部破綻を軽減することを実証しており、プロバイオティクス由来のEVsを有望なcell-free機能性成分としてさらに検討することを支持するものである。"
   }
 ]
