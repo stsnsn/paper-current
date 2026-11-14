@@ -204571,5 +204571,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "反復性尿路感染症を有する女性におけるクランベリー抽出物およびビタミンC配合プロバイオティクス：ランダム化比較試験",
     "abstract_ja": "要旨    序論および仮説  ：再発性尿路感染症（rUTIs）は女性において重大な臨床的負担となっており、抗菌薬の使用の一因となっている。本研究では、Lactiplantibacillus plantarum KABP062およびKABP063のプロバイオティクス特性と、クランベリー抽出物およびビタミンCとの併用によるrUTIs再発抑制効果について検討する。  方法  ：プロバイオティクスの機能性と安全性を、尿路病原体に対する抗菌活性、消化管耐性、酵素学的安全性、およびバクテリオシンおよび生体アミン生合成遺伝子のゲノムスクリーニングを含むin vitroおよびin silicoアプローチを用いて評価した。多成分製剤の臨床的有効性については、活動性または最近rUTIsを発症した女性を対象とした二重盲検ランダム化プラセボ対照試験により検討した。被験者には、プロバイオティクス菌株（≥ 10 8 コロニー形成単位［CFU］）、クランベリー抽出物（240 mg）およびビタミンC（40 mg）を含むカプセル、またはプラセボを6か月間毎日投与した。主要評価項目は、医師により再発が確認された女性の割合とした。副次評価項目には、再発回数、抗菌薬使用日数、腟内微生物叢、および安全性を含めた。  結果  ：L. plantarumの両菌株は、Escherichia coliを含む複数の尿路病原体を抑制し、消化管耐性および良好な安全性プロファイルを示した。計106名の女性をランダムに割り付けた。6か月後、少なくとも1回の尿路感染症（UTI）を経験した被験者の割合は、群間で差が認められなかった（p = 0.689）。しかし、活動群では対照群と比較してUTI回数が少なかった（p = 0.013）。また、活動群では対照群と比較して抗菌薬の使用量が有意に減少し（p = 0.031）、併せて腟内微生物叢においてEscherichia/Shigellaを含むUTI関連7属の減少が認められた。有害事象は群間で同等であった。結論：本多成分製剤は安全であった。主要評価項目は達成されなかったものの、本介入によりUTI回数の減少と抗菌薬使用量の低減が認められ、併せて腟内尿路病原体リザーバーの減少が期待される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11661270/v1",
+    "title": "Natural genus-exclusive four-position VP24 configuration in Bundibugyo virus links host interferon tone to a testable cell-type ordering",
+    "abstract": "Abstract  Bundibugyo virus (BDBV) causes outbreaks with lower case-fatality than Ebola virus (EBOV); its VP24 carries the only BDBV-specific functional difference mapped to date. That difference was defined in an engineered virus. Here, we integrate a sequence census, a human cell-type expression atlas, and a reanalysis of public infection data to connect the natural BDBV VP24 configuration to host interferon (IFN) tone and derive a testable cell-type ordering of post-entry IFN-mediated restriction. All 31 full-length BDBV VP24 records and all 36 complete 2026 outbreak genomes carried S83/Q135/H140/A141; none of the other five orthoebolavirus species assessed carried the complete set. Two consensus-only single-position departures occurred among 860 callable copies in the surveillance data. Δ, a baseline IFN-tone score, tracks the IFN-stimulated level attained by a cell and predicts the strength of IFN-mediated suppression of viral RNA accumulation in cells infected with BDBV carrying the VP24 defect: high Δ denotes stronger suppression, low Δ weaker. Across 154 human cell types, Δ was higher in surface epithelia and circulating myeloid cells (enterocytes 1.28; monocytes 1.00) than in retinal and testicular cells (retinal pigment epithelium − 1.02; Sertoli cells − 0.68). A competing importin-α model predicted exemption in the 47 cell types with high Δ but low importin-α, including enteric epithelium and hepatocytes. In the HIV-1 restriction panel, Δ discriminated restricted from permissive cells (area under the curve (AUC) 0.87), whereas importin-α was at chance (AUC 0.47–0.50); functional data therefore descriptively support Δ.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11661270/v1",
+    "date": "2026-11-10",
+    "authors": "Huang W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363123",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1585,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11661270/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "82b3304156083e32f9d7d1c327a7d69fd965be134324f249fe3f5c55fe1f21d7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:33:00.546584+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e5873f716103bd2de68936610cfe1b821fb25ddcb159a774fab600e682497f3d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:33:00.546584+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブンディブギョウイルスにおける天然の属特異的な4ポジションVP24構成は、宿主のインターフェロントーンを試験可能な細胞型秩序に結びつけている。",
+    "abstract_ja": "要旨　ブンディブギョウイルス（BDBV）は、エボラウイルス（EBOV）よりも致死率の低いアウトブレイクを引き起こす。そのVP24は、これまでにマッピングされた唯一のBDBV特異的な機能的差異を有している。この差異は、改変ウイルスを用いて定義された。本研究では、配列サーベイ、ヒト細胞型発現アトラス、および公開感染データの再解析を統合し、天然のBDBV VP24構成を宿主インターフェロン（IFN）トーンに関連付けることで、侵入後のIFN介在性制限に関する検証可能な細胞型順序を導出した。31件の全長BDBV VP24レコードおよび36件の完全な2026年アウトブレイクゲノムはいずれもS83/Q135/H140/A141を有しており、評価した他の5種のオルソエボラウイルスはいずれもこの完全なセットを有していなかった。サーベイランスデータにおける860個のコール可能なコピーのうち、コンセンサスのみの単一位置逸脱が2箇所認められた。ベースラインIFNトーンスコアであるΔは、細胞が到達するIFN刺激レベルを追跡し、VP24欠損型BDBVに感染した細胞におけるウイルスRNA蓄積に対するIFN介在性抑制の強度を予測する：Δが高いほど抑制が強く、低いほど弱いことを示す。154種類のヒト細胞型において、Δは網膜および精巣細胞（網膜色素上皮 − 1.02；セルトリ細胞 − 0.68）よりも、表面上皮および循環骨髄系細胞（腸細胞 1.28；単球 1.00）で高かった。競合するimportin-αモデルでは、腸上皮や肝細胞を含む、Δが高くimportin-αが低い47種類の細胞型において例外的な結果が予測された。HIV-1制限パネルでは、Δは制限細胞と許容細胞を判別した（曲線下面積（AUC）0.87）のに対し、importin-αは偶然レベルであった（AUC 0.47–0.50）。したがって、機能的データは記述的にΔを支持している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11221162/v1",
+    "title": "Biosynthesis, Characterization, and Antimicrobial Activity of Gold Nanoparticles Using Chitosan Isolated From Portunus Sanguinolentus Shells",
+    "abstract": "Abstract    Marine bio-nanotechnology has emerged as a promising field for developing eco-friendly nanomaterials with biomedical applications. This study reports the biosynthesis, characterization, and antimicrobial evaluation of chitosan-gold nanoparticles (CHS-AuNPs) using chitosan extracted from the exoskeleton of  Portunus sanguinolentus  (three-spot swimming crab). Chitosan was successfully isolated from crab shell waste through sequential demineralization, deproteinization, decolorization, and deacetylation processes. The Chitosan-mediated AuNPs were characterized using UV-Visible spectroscopy, FT-IR, XRD, SEM-EDX, HR-TEM with SAED, DLS, and AFM techniques. UV-Vis spectroscopy revealed a characteristic surface plasmon resonance band at 529 nm, confirming the formation of gold nanoparticles. FT-IR analysis indicated the involvement of hydroxyl and amine groups in the reduction and stabilization of nanoparticles. XRD patterns confirmed the face-centered cubic crystalline structure of metallic gold, with Bragg reflections from the (111), (200), and (220) planes. SEM and HR-TEM images revealed predominantly spherical, polydisperse nanoparticles with sizes ranging from 8–10 nm (AFM) to 51.43 nm (DLS hydrodynamic diameter). EDAX analysis confirmed the elemental composition with a strong gold signal. The antimicrobial activity of CHS-AuNPs was evaluated against six bacterial strains (  E. coli  ,  Enterobacter  ,  P. aeruginosa  ,  K. pneumonia  e, S. aureus, and  E. faecalis  ) and four fungal strains (  A. niger  ,  Penicillium  ,  Rhizopus  , and  A. flavus  ) using the agar well diffusion method. The Chitosan-mediated AuNPs exhibited significant dose-dependent antibacterial activity, with the maximum zone of inhibition against S. aureus (22 ± 0.77 mm) and  P. aeruginosa  (22 ± 1.47 mm) at 40 µg/mL. Antifungal activity was highest against  Penicillium  (15 ± 0.57 mm) at the same concentration. The Chitosan-mediated AuNPs demonstrated superior antimicrobial efficacy compared to chitosan alone, highlighting their potential as promising therapeutic agents in biomedical applications, particularly in drug delivery and infection control.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11221162/v1",
+    "date": "2026-11-10",
+    "authors": "Sangeetha B.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363079",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1586,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11221162/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6b3da09d20f55002236ffcec7898d1d68f93790431e76e179169c6656fecfb86",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:33:00.546584+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "be3daea90a2727afec81b7c0279c36d3a1fc8f47d8d9f63db4371bac6f222ef7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:33:00.546584+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Portunus Sanguinolentusの殻から単離したキトサンを用いた金ナノ粒子の生合成、特性評価および抗菌活性",
+    "abstract_ja": "要旨    海洋バイオナノテクノロジーは、生物医学的応用が可能な環境調和型ナノ材料を開発するための有望な分野として台頭している。本研究では、Portunus sanguinolentus（ミツボシワタリガニ）の外骨格から抽出したキトサンを用い、キトサン－金ナノ粒子（CHS-AuNPs）の生合成、特性評価、および抗菌活性評価について報告する。キトサンは、脱ミネラル化、脱タンパク質化、脱色、および脱アセチル化の一連の工程を経て、カニ殻廃棄物から正常に単離された。キトサン媒介性AuNPsの特性評価には、紫外可視分光法、FT-IR、XRD、SEM-EDX、SAEDを用いたHR-TEM、DLS、およびAFM法を用いた。紫外可視分光法により、529 nmに特徴的な表面プラズモン共鳴帯が認められ、金ナノ粒子の形成が確認された。FT-IR分析では、ナノ粒子の還元および安定化に水酸基およびアミン基が関与していることが示された。XRDパターンにより、金属金の面心立方晶構造が確認され、(111)、(200)、および(220)面からのブラッグ反射が認められた。SEMおよびHR-TEM像からは、主に球形の多分散性ナノ粒子が認められ、そのサイズは8–10 nm（AFM）から51.43 nm（DLS流体力学的直径）の範囲であった。EDAX分析により、強い金シグナルを伴う元素組成が確認された。CHS-AuNPsの抗菌活性は、寒天ウェル拡散法を用いて、6種の細菌株（E. coli、Enterobacter、P. aeruginosa、K. pneumoniae、S. aureus、およびE. faecalis）および4種の真菌株（A. niger、Penicillium、Rhizopus、およびA. flavus）に対して評価した。キトサン媒介性AuNPsは顕著な用量依存性の抗菌活性を示し、40 µg/mLにおいてS. aureus（22 ± 0.77 mm）およびP. aeruginosa（22 ± 1.47 mm）に対する最大阻止円が認められた。抗真菌活性は、同濃度においてPenicilliumに対して最も高く（15 ± 0.57 mm）示された。キトサン媒介性AuNPsは、キトサン単独と比較して優れた抗菌効果を示し、生物医学的応用、特に薬物送達や感染制御における有望な治療薬としての可能性が示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11654766/v1",
+    "title": "Nebulized Covalent Killing of Macrolide-Resistant Mycoplasma pneumoniae: Computational Target Prediction and Design of a Proximity-Triggered Phosphorus(V) Conjugate",
+    "abstract": "Abstract    Macrolide-resistant  Mycoplasma pneumoniae  (MRMP) has reached crisis prevalence—97.1% of 421 isolates in a 2023–2024 multicenter survey in China and more than 90% across twenty provinces—while the pediatric formulary remains confined to three antibiotic classes that all act on intracellular housekeeping machinery. No mechanism-diverse drug exists for this pathogen, in part because covalent anchoring strategies have lacked trigger-site knowledge for bacterial surface proteins. Here we address that gap computationally through a proteome-scale tyrosine-trigger screen of thirteen  M. pneumoniae  surface proteins (82 qualifying hits), corroboration against experimental cryo-electron-microscopy structures (PDB 8A9A and 9GVG), antibody-epitope and pocket mapping, and conservation analysis across four complete genomes spanning both dominant P1 genotypes (P1-1 and P1-2). The screen identified the essential lipid-acquisition protein P116 as the sole Tier-1 target. Four trigger tyrosines (Tyr671, Tyr566, Tyr188, Tyr206) display phenol-hydroxyl solvent-accessible surface areas of 35.2–43.5 Å² in the physiological dimer, and Tyr398 resides inside a validated monoclonal-antibody epitope (residue SASA 52.4 Å² on the isolated P116 chain of the 9GVG complex; 31.9 Å² in the antibody-bound state). A 533 Å³ subsidiary pocket lies only 2.7 Å from Tyr671, but its entrance aperture measures only 4.0–4.5 Å—too narrow for any aromatic ring (in-plane widths: benzene 7.02 Å, naphthalene 7.36 Å)—which forced an architecture inversion: the recognition group was moved from the anchor end of the conjugate to the leaving-group side of the electrophilic warhead, so that binding occurs in a solvent-side groove without crossing any aperture. The resulting lead, K2 (C₂₉H₂₇FN₂O₈PS⁻, monoisotopic mass 613.1215 Da; two-carbon tether), achieves a qualifying docked-pose fraction of 0.85 (range 0.80–0.90 across four random seeds; 0.78 on an independent seed set), with a median warhead-P···Tyr671-OH distance of 5.60 Å, whereas the warhead-inactivated control K2-N scores 0.00 and the two top-scoring compounds by docking score (− 10.62 and − 10.45 kcal/mol) produce zero qualifying poses—motivating ranking by pose fraction rather than docking score. Successful exchange of K2 is predicted to generate a + 375.0421 Da covalent adduct, a proposed intact-protein mass-spectrometry readout. All eighteen trigger sites are invariant across the four genomes. Because the organism colonizes the airway lumen extracellularly, the design is compatible with nebulized local delivery at the site of infection. This work proposes the first proximity-triggered covalent antibacterial strategy and delivers a conservation-anchored target map together with synthetically tractable, architecture-inverted conjugate designs, providing a defined experimental path toward mechanism-diverse agents against MRMP.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11654766/v1",
+    "date": "2026-11-10",
+    "authors": "Shen C, Li D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363018",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1587,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11654766/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7e3c84736621318e614c5a853e97fae441c4b648f2e4b78a1fff4d338e272f2d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:33:00.546584+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b64565cce9ce82dfeda244e75869676af1e99e2af32d6d535810447669480cce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:33:00.546584+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マクロライド耐性肺炎マイコプラズマのネブライザー共役殺菌：計算による標的予測と近接トリガー型リン(V)抱合体の設計",
+    "abstract_ja": "要旨    マクロライド耐性肺炎マイコプラズマ（MRMP）は危機的な流行水準に達しており（2023–2024年の中国における多施設共同調査では421株中97.1%、20の省全体で90%超）、一方で小児用フォーミュラリーは、いずれも細胞内ハウスキーピング機構に作用する3つの抗生物質クラスに限定されたままである。この病原体に対するメカニズム多様性を有する薬剤は存在しないが、その一因は、共有結合アンカー戦略において細菌表面タンパク質のトリガー部位に関する知見が不足していたことにある。本研究では、13種類のM. pneumoniae表面タンパク質を対象としたプロテオームスケールのチロシントリガースクリーニング（適格ヒット82件）、実験的なクライオ電子顕微鏡構造（PDB 8A9Aおよび9GVG）による裏付け、抗体エピトープおよびポケットマッピング、ならびに主要なP1遺伝子型（P1-1およびP1-2）の両方にわたる4つの完全ゲノムを用いた保存性解析を通じて、このギャップに計算科学的にアプローチした。スクリーニングの結果、必須脂質獲得タンパク質P116が唯一のTier-1標的として同定された。4つのトリガーチロシン（Tyr671, Tyr566, Tyr188, Tyr206）は、生理的二量体において35.2–43.5 Å²のフェノール水酸基溶媒アクセス可能表面領域を示し、Tyr398は検証済みのモノクローナル抗体エピトープ内部（9GVG複合体の単離P116鎖上の残基SASAは52.4 Å²、抗体結合状態では31.9 Å²）に位置している。533 Å³の補助ポケットはTyr671からわずか2.7 Åの距離にあるが、その入口開口部はわずか4.0–4.5 Åであり、いかなる芳香環にとっても狭すぎる（面内幅：ベンゼン 7.02 Å、ナフタレン 7.36 Å）。このため、アーキテクチャの反転を余儀なくされ、認識基が共役体のアンカー末端から求電子性ウォーヘッドの脱離基側へと移動し、開口部を横切ることなく溶媒側の溝で結合が起こるようになった。その結果得られたリード化合物K2（C₂₉H₂₇FN₂O₈PS⁻、単同位体質量 613.1215 Da、二炭素テザー）は、適格なドッキングポーズ分率0.85（4つのランダムシードで0.80–0.90、独立したシードセットでは0.78）を達成し、ウォーヘッド-P···Tyr671-OH距離の中央値は5.60 Åであった。一方、ウォーヘッド不活化コントロールのK2-Nは0.00を記録し、ドッキングスコアで上位2位の化合物（−10.62および−10.45 kcal/mol）は適格ポーズをゼロとしたため、ドッキングスコアではなくポーズ分率によるランキングが妥当となった。K2の交換に成功すれば、+375.0421 Daの共有結合付加体が生成されると予測されており、これは未分解タンパク質質量分析法によるリードとして提案されている。18箇所すべてのトリガー部位は、4つのゲノム間で不変である。本生物は細胞外で気道管腔内に定着するため、本設計は感染部位へのネブライザーによる局所投与と互換性がある。本研究は、初の近接トリガー型共有結合抗菌戦略を提案し、保存性をアンカーとした標的マップと、合成的に扱いやすいアーキテクチャ反転共役体設計を提供することで、MRMPに対するメカニズム多様性を有する薬剤への明確な実験的道筋を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-8960093/v2",
+    "title": "Genome-Wide Pleiotropic Analyses Characterize the Genetic Etiology Shared between Cardiovascular and Gastrointestinal Tract Diseases",
+    "abstract": "Abstract    Background  This study aimed to investigate the shared genetic etiology between gastrointestinal tract and cardiovascular diseases, and to identify shared genomic loci, genes, and pathways.​  Methods  Using aggregated genome-wide association statistics from public data sources, a genome-wide pleiotropic association study was conducted. Multiple statistical genetic approaches were applied to sequentially explore pleiotropic associations across genome-wide single-nucleotide variations, genes, biological pathways, and gut microbiota. The potential shared genetic causes among 7 gastrointestinal tract diseases and 11 cardiovascular diseases were analyzed.​  Results  A total of 350 pleiotropic loci were identified. Colocalization analysis detected 95 shared causal loci across disease pairs. Multiple gene pathways were found to be closely associated with these diseases, and key biological processes—including cell signal transduction and T-cell activation—exhibited significant correlations across the studied diseases. A robust pleiotropic association was observed between gastrointestinal tract and cardiovascular diseases, suggesting that these diseases may cross-influence each other in the context of different immune cells and tissues, while sharing common immune response mechanisms. Several immune cell populations, such as CD103⁺ CD11b⁺ dendritic cells, CD8⁺ splenic lymph node DCs, and γδ T cells, showed cross-disease correlations, highlighting the critical role of the immune system in the pathogenesis of both gastrointestinal tract and cardiovascular diseases. Multitrait colocalization analysis via HyPrColoc identified 6 pleiotropic loci harboring shared microbiota, underscoring the significant involvement of gut microbiota in disease pleiotropy.​  Conclusions  This study establishes a genetic and mechanistic framework for the shared etiology of gastrointestinal tract and cardiovascular diseases, with pleiotropic variants, inflammatory pathways, and gut microbiota interactions as key drivers. These insights not only deepen our understanding of cardiovascular-gastrointestinal comorbidities but also lay the groundwork for precision medicine strategies targeting shared biological mechanisms.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-8960093/v2",
+    "date": "2026-11-10",
+    "authors": "Qiu Z, Li Z, Wu Y, Chong J, Chen C, Li J, Yang Y, Lu Z, Yuan X, Zhu Y, Chen T, Ma J, Li Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362912",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1588,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-8960093/v2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "db6c095ac09d157e7614d77c74a0e82cc321626884649a485780348614913225",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:33:00.546584+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ad3a63410353ee212a17a4917c2302d97daa6fca0be02b74737075adc7bca9a8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:33:00.546584+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムワイド多面的解析による心血管系疾患と消化管疾患に共通する遺伝的病因の解明",
+    "abstract_ja": "要旨    背景  本研究は、消化管疾患と心血管疾患の共通する遺伝的病因を調査し、共通のゲノム遺伝子座、遺伝子、およびパスウェイを同定することを目的とした。​  方法  公開データソースから集約したゲノムワイド関連統計を用いて、ゲノムワイド多面的関連解析を実施した。複数の統計遺伝学的手法を適用し、ゲノムワイドな一塩基変異、遺伝子、生物学的パスウェイ、および腸内細菌叢にわたる多面的関連を順次探索した。7種類の消化管疾患と11種類の心血管疾患の間で潜在的な共通の遺伝的原因を解析した。​  結果  計350個の多面的関連遺伝子座が同定された。共局在解析により、疾患ペア間で95個の共通原因遺伝子座が検出された。複数の遺伝子パスウェイがこれらの疾患と密接に関連していることが判明し、細胞シグナル伝達やT細胞活性化を含む主要な生物学的プロセスが、調査対象の疾患間で有意な相関を示した。消化管疾患と心血管疾患の間には強固な多面的関連が認められ、これらの疾患が異なる免疫細胞や組織の文脈において相互に影響し合いながら、共通の免疫応答機構を共有している可能性が示唆された。CD103⁺ CD11b⁺樹状細胞、CD8⁺脾リンパ節DC、およびγδ T細胞などの複数の免疫細胞集団が疾患間相関を示し、消化管疾患と心血管疾患の双方の病態形成における免疫系の重要な役割が浮き彫りとなった。HyPrColocを用いた多形質共局在解析により、共通の微生物叢を有する6つの多面的関連遺伝子座が同定され、疾患の多面性における腸内細菌叢の重要な関与が強調された。​  結論  本研究は、多面的変異、炎症性パスウェイ、および腸内細菌叢の相互作用を主要な駆動因子として、消化管疾患と心血管疾患の共通病因に関する遺伝的・機序的枠組みを確立した。これらの知見は、心血管・消化管併存疾患への理解を深めるだけでなく、共通の生物学的機序を標的とした精密医療戦略の基礎を築くものである。"
   }
 ]
