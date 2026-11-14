@@ -226450,5 +226450,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "チリ塩湖の微生物群集が蒸発不在下で石膏の共溶出と鉱化を促進する：実験的証拠",
     "abstract_ja": "微生物コンソーシアムは、多極限環境において鉱物学的プロセスを積極的に調節するが、生物学的メカニズムは蒸発岩の進化モデルから除外されることが多い。本研究では、アンデス山脈の3つの塩湖（リャマラ塩湖、パホナレス塩湖、ゴルベア塩湖）において、微生物マットと天然塩水によって駆動される石膏表面の溶解および二次鉱物核形成を、90日間のインキュベーション実験を通じて調査した。合成した石膏結晶を、制御条件下で接種培地および無菌塩水（非生物的対照）に曝露し、SEM-EDSおよびエピ蛍光顕微鏡を用いて解析した。その結果、微生物の定着が石膏の動態を二重に調節していることが示された。すなわち、見かけ上の微生物介在性穿孔によって円形の空洞が形成された一方で、細胞外高分子物質（EPS）マトリックスが拡散障壁として機能し、非生物的溶解を緩衝した。さらに、EPSは局所的な過飽和と自生的鉱物核形成を促進し、すべての地点で繊維状のユーグステライトと球状のMg-ケイ酸塩が得られたほか、ダンベル状方解石、同三晶系岩塩（パホナレス）、レンズ状 alunite（ゴルベア）といった地点固有の相も認められた。非生物的対照では、充填を伴わない、劈開面に沿った単純なパラジェネシスと角状溶解が認められた。EPS充填孔、ダンベル状方解石、Mg-Si球体、および胞隙状ユーグステライトを含む特定の生物誘起テクスチャーは、宇宙生物学に関連する潜在的な形態学的バイオシグネチャーである。本研究の知見は、純粋に非生物的な地球化学モデルでは塩水の進化を記述するには不十分であることを示しており、蒸発岩形成の枠組みに地球微生物学的相互作用を組み込むことが極めて重要であることを強調している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11583878/v1",
+    "title": "Analysis of HPV Genotype Distribution, Viral Load Profiles, and Their Relationship With Cervical Pathology Among Women in Samarkand Region (2023-2025)",
+    "abstract": "Abstract  Introduction:  Persistent infection with high-risk oncogenic human papillomavirus (HPV) is the primary cause of cervical cancer development. Objective  To evaluate the prevalence of various HPV genotypes, describe genotype-specific viral load patterns, and determine their relationship with patient age and cervical cytological changes among women in the Samarkand region. Methods  In a cross-sectional study (2023–2025), cervical epithelial samples from 535 women (aged 19–56 years) were analyzed. Genotyping of 21 HPV types and quantification of viral load (expressed in \\(\\:\\text{l}\\text{g}\\) copies of DNA/10⁵ cells) were performed using real-time PCR. Cytological status was classified according to The Bethesda System (TBS, 2014) in cohorts with monoinfection (n = 73) and mixed infection (n = 20). Results  Out of 116 HPV-positive cases, HPV 16 was unconditionally dominant (24%). An atypically low prevalence of HPV 18 (3%) was observed alongside a high detection rate of non-vaccine types: HPV 56 (6%), 51 (5%), and 58 (4%). No statistically significant correlation was found between patient age and viral load (p > 0.05). A significant overall association was revealed between HPV genotype and cytological status (χ²=97.06; df = 68; p = 0.012). HPV 58 demonstrated the highest pathogenetic potential (OR = 12.11; 80% of cases were ASC-US, 20% were ASC-H) and was never detected in normal cytology (NILM). No direct linear correlation was found between viral load level and lesion severity: peak loads were recorded in NILM cases, whereas the only severe case (HSIL, associated with HPV 68) presented with a low viral load (2.7 lg copies/10⁵ cells). Conclusion  The regional epidemiological profile is determined by the dominance of HPV 16 and a high circulation of high-risk non-vaccine strains (56, 51, 58). Viral load exhibits immense genotype-specific variability and does not directly correlate with the severity of cytological changes, highlighting the necessity of integrating multi-genotype PCR testing and cytological screening.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11583878/v1",
+    "date": "2026-11-03",
+    "authors": "Yarmukhamedova GK, Kan SV, Dushanova GA, Ziyadullayeva GZ, Khalilova SA, Yarmukhamedova MK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356458",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3043,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11583878/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2b93c43c7758b538970301a7664baaaa2459fc701bbddf5f6c2bf614fd25afd7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:26:50.301153+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b510e4517003d1433feabfe4ee955d4fd8a8e798322d443567d68e5bf5f7b74b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:26:50.301153+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サマルカンド州の女性におけるHPV遺伝子型分布、ウイルス量プロファイル、および子宮頸部病変との関連に関する解析（2023-2025年）",
+    "abstract_ja": "要旨  序論：高リスクの発がん性ヒトパピローマウイルス（HPV）の持続感染は、子宮頸がん発症の主因である。目的：サマルカンド地域の女性を対象に、各種HPV遺伝子型の有病率を評価し、遺伝子型別のウイルス量パターンを記述するとともに、患者の年齢および子宮頸部細胞学的変化との関連性を明らかにすること。方法：横断的研究（2023–2025年）において、女性535例（19～56歳）から採取した子宮頸部上皮検体を解析した。リアルタイムPCRを用いて21種類のHPV遺伝子型の判定およびウイルス量（DNA量 \\(\\:\\text{l}\\text{g}\\) コピー/10⁵細胞で表記）の定量を行った。細胞学的状態は、単感染群（n = 73）および混合感染群（n = 20）において、The Bethesda System（TBS, 2014）に基づき分類した。結果：HPV陽性例116例のうち、HPV 16が無条件に優位であった（24%）。HPV 18の有病率は非典型的に低く（3%）、一方で非ワクチン型の検出率が高かった：HPV 56（6%）、51（5%）、および58（4%）。患者の年齢とウイルス量との間に統計的に有意な相関は認められなかった（p > 0.05）。HPV遺伝子型と細胞学的状態との間には、有意な全体的な関連が認められた（χ²=97.06; df = 68; p = 0.012）。HPV 58は最も高い病原性ポテンシャルを示し（OR = 12.11; 症例の80%がASC-US、20%がASC-H）、正常細胞診（NILM）で検出されることはなかった。ウイルス量レベルと病変の重症度との間に直接的な線形相関は認められなかった。ピークのウイルス量はNILM症例で記録された一方、唯一の重症例（HPV 68に関連するHSIL）ではウイルス量が少なかった（2.7 lgコピー/10⁵細胞）。結論：地域の疫学的プロファイルは、HPV 16の優位および高リスク非ワクチン型株（56, 51, 58）の高い循環によって決定される。ウイルス量は遺伝子型によって極めて大きな変動を示し、細胞学的変化の重症度とは直接的な相関がないため、多遺伝子型PCR検査と細胞学的スクリーニングを統合する必要性が浮き彫りとなった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11410549/v1",
+    "title": "Neuroscience Research: Before and After the Evolution of Optogenetics",
+    "abstract": "Abstract  In an article titled “Thinking about the Brain,” published in a special issue of Scientific American devoted to the Brain in September 1979, Francis H.C. Crick wrote: “Reflecting on itself, the human brain has uncovered some marvelous facts. What appears to be needed for understanding how it works is new techniques for examining it and new ways of thinking about it.” He made several important observations about the technological limitations of the time, noting that electrodes cannot readily distinguish different types of neurons. Light could be an ideal signal to turn firing on and off in an alert animal (Crick 1999; Crick 1979). This conceptual blueprint was eventually realized experimentally through the groundbreaking work of Hegemann, Nagel, Deisseroth, and their colleagues, who harnessed the microbial channelrhodopsins to achieve fast, genetically targeted, light-driven control of neuronal activity (Boyden et al. 2005; Nagel et al. 2002; Nagel et al. 2003). Over the past two decades, optogenetics has become a mainstay of circuit neuroscience and is now emerging as a potential therapeutic approach. In light of the 2026 Nobel Prize awarded to optogenetics, this perspective narrates the evolution of neuroscience research before and after the advent of optogenetics, and summarizes how this technology has transformed our approaches to studying the brain.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11410549/v1",
+    "date": "2026-11-03",
+    "authors": "Pandey S, Abraham NM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356392",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3044,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11410549/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1c095c11d644063f1f8903d137025ccf93d903cd403455b5733f33a881782bdd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:26:50.301153+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b82fe49a788cba31b2c15ae482bdb978a5a3b1a26006ae586d2dc0131e0a7bf9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:26:50.301153+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "神経科学研究：光遺伝学の進化前後",
+    "abstract_ja": "要旨  1979年9月に発行された『サイエンティフィック・アメリカン』誌の脳特集号に掲載された「脳について考える」と題する論文の中で、フランシス・H.C.クリックは次のように記している。「人間の脳は自らを省察することで、いくつかの驚くべき事実を明らかにしてきた。その仕組みを理解するために必要と思われるのは、脳を解析するための新たな手法と、それに対する新たな考え方である」。彼は当時の技術的限界についていくつかの重要な指摘を行い、電極では異なる種類のニューロンを容易に区別できないことを述べた。光は、覚醒状態にある動物の発火をオン・オフに切り替えるための理想的な信号となり得る（Crick 1999; Crick 1979）。この概念的な設計図は、最終的にヘゲマン、ナーゲル、ダイセロスらとその共同研究者らによる画期的な研究を通じて実験的に実現された。彼らは微生物のチャネルロドプシンを活用し、ニューロン活動の高速かつ遺伝的に標的を絞った光駆動制御を達成した（Boyden et al. 2005; Nagel et al. 2002; Nagel et al. 2003）。過去20年間にわたり、光遺伝学は回路神経科学の主軸となり、現在は潜在的な治療アプローチとして台頭しつつある。2026年に光遺伝学に授与されたノーベル賞を踏まえ、本稿では光遺伝学の登場前後における神経科学研究の変遷を辿り、この技術が脳研究へのアプローチをいかに変容させたかを総括する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11579408/v1",
+    "title": "Sustained HBsAg Loss and Marked Reversal of Liver Cirrhosis in a Patient with Antiviral-Resistant Chronic Hepatitis B: A Case Report with 13-Year Follow-up",
+    "abstract": "Abstract    Background  Achieving sustained hepatitis B surface antigen (HBsAg) loss and reversing established cirrhosis is considered extremely challenging, especially in patients with prior antiviral resistance. We report a case of marked reversal of liver cirrhosis and sustained HBsAg loss in a patient with chronic hepatitis B (CHB) who previously failed standard antiviral therapy.  Case Presentation  A 60-year-old male patient was diagnosed with CHB in 2006 and developed cirrhosis after 6 years of standard antiviral therapy at a top-tier hospital. In February 2012, his liver stiffness (FibroScan) was 19.9 kPa, with HBV DNA at 1.47×10^7 IU/ml. He subsequently received combined Chinese-Western medicine (\"Neo-Chinese Medicine\") treatment. After 7 years and 2 months of treatment, his liver function normalized, HBV DNA became undetectable, and FibroScan decreased to 5.1 kPa. Notably, the patient achieved HBsAg loss and Pre-S1 antigen negativity. All medications were discontinued in April 2019. By November 2020, despite the patient developing hyperlipidemia and steatohepatitis due to lifestyle factors, imaging and elastography confirmed a marked reversal of cirrhosis (FibroScan: 6.2 kPa, normal portal vein diameter of 12 mm) without disease progression. Long-term follow-up up to 2025 consistently showed sustained HBsAg negativity (Conclusion  This case demonstrates that Neo-Chinese Medicine can achieve marked reversal of cirrhosis and sustained functional cure in patients with antiviral-resistant CHB. The durability of these outcomes after treatment discontinuation suggests a fundamental restoration of the hepatic microenvironment and the depletion of the viral reservoir.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11579408/v1",
+    "date": "2026-11-03",
+    "authors": "Li w.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356381",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3045,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11579408/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d48d3f20077eef7cf1d27312c4cd6aa31fd3688866a5e651f0abf69110290926",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:26:50.301153+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "64d6794377a3cd540af4275cc61d0846defa01baf0d9aefed9032f8da2a5997c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:26:50.301153+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗ウイルス薬耐性慢性B型肝炎患者におけるHBsAgの持続的喪失と肝硬変の著明な改善：13年間の追跡調査を伴う症例報告",
+    "abstract_ja": "要旨    背景  B型肝炎表面抗原（HBsAg）の持続的な消失と既往の肝硬変の改善は、特に抗ウイルス薬耐性を有する患者において極めて困難であると考えられている。本稿では、標準的な抗ウイルス療法に不応であった慢性B型肝炎（CHB）患者において、肝硬変の著明な改善とHBsAgの持続的な消失が認められた症例を報告する。  症例提示  60歳男性患者は、2006年にCHBと診断され、一流病院での6年間にわたる標準的な抗ウイルス療法後に肝硬変を発症した。2012年2月時点の肝硬度（FibroScan）は19.9 kPa、HBV DNAは1.47×10^7 IU/mlであった。その後、中西医結合療法（「新中医学」）による治療を受けた。治療開始から7年2か月後、肝機能は正常化し、HBV DNAは検出限界以下となり、FibroScanは5.1 kPaまで低下した。特筆すべきは、患者がHBsAgの消失およびPre-S1抗原陰性を達成したことである。すべての薬剤は2019年4月に中止された。2020年11月までに、生活習慣要因により高脂血症および脂肪性肝炎を発症したものの、画像検査およびエラストグラフィにより、疾患の進行を伴わずに肝硬変の著明な改善（FibroScan：6.2 kPa、門脈径正常値12 mm）が確認された。2025年までの長期フォローアップにおいても、一貫してHBsAg陰性が維持されていた（結論  本症例は、新中医学が抗ウイルス薬耐性CHB患者において、肝硬変の著明な改善と持続的な機能的治癒を達成し得ることを示している。治療中止後もこれらの転帰が維持されたことは、肝微小環境の根本的な回復とウイルスリザーバーの枯渇を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11377517/v1",
+    "title": "Verifiable Deep Learning: Smart Contract--Enabled Model Integrity and Provenance on Distributed Ledgers",
+    "abstract": "Abstract  Deep learning artifacts undergo long and mutable lifecycles in which datasets, preprocessing pipelines, checkpoints, evaluation configurations, and deployed versions may be controlled by different actors. Hash anchoring makes individual bytes tamper-evident but does not establish that a checkpoint was derived from authorized data or that its alleged computation actually occurred. We present ProofWeave, a provenance-coupled verification specification that treats model evolution as a typed, policy-constrained transition system. Each transition binds content commitments, authenticated parent references, version rules, and explicit evidence obligations; the proposed contract state machine admits only policy-valid transitions. We distinguish full computational proofs, conditioned on a sound external proving backend, from probabilistic committed-step audits with a finite-population detection bound. For transparent evaluation we implement a local integrity prototype, not a live blockchain or zero-knowledge proof service. Seven deterministic integrity fault types are assessed across three public datasets; four nested validators cover 2, 4, 6, and 7 of the nine broader threat classes discussed. To expose an essential security boundary, we additionally perform 105 real MLP training runs over seven random seeds and five controlled training-label corruption rates. Hash/signature microbenchmarks and Merkle trees of up to 65,536 leaves characterize local scaling. A controlled Monte Carlo audit study quantifies probabilistic detection under committed-step sampling, separately from the local measurements. The evidence supports preliminary provenance-check correctness and quantifies its limits; it does not establish on-chain costs or end-to-end verifiable neural training.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11377517/v1",
+    "date": "2026-11-03",
+    "authors": "Wu F, Yuan B, Wang Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356347",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3047,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11377517/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0d3cde10a5759a3f342f3c329027f054417a8f6cebe66e810e6e8b69286ee68c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:26:50.301153+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ad3bceecc0f2c7d49943ca6ca2d89179d4684539c328dd7eff127aa108dd3931",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:26:50.301153+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "検証可能な深層学習：スマートコントラクトを活用した分散型台帳上のモデル整合性とプロバナンス",
+    "abstract_ja": "要旨  深層学習のアーティファクトは、データセット、前処理パイプライン、チェックポイント、評価設定、およびデプロイ済みバージョンが異なる主体によって管理され得る、長期かつ可変的なライフサイクルを辿る。ハッシュアンカリングは個々のバイトの改ざん検知を可能にするが、チェックポイントが認可されたデータから導出されたことや、その主張された計算が実際に行われたことを立証するものではない。本稿では、モデルの進化を型付けされポリシー制約のある遷移システムとして扱う、プロベナンス連動型検証仕様であるProofWeaveを提案する。各遷移は、コンテンツのコミットメント、認証済みの親参照、バージョンルール、および明示的なエビデンス義務を紐付ける。提案するコントラクト状態マシンは、ポリシー的に妥当な遷移のみを許容する。我々は、健全な外部証明バックエンドを前提とした完全な計算証明と、有限母集団検出限界を持つ確率的なコミット済みステップ監査を区別する。透明性の高い評価のため、ライブブロックチェーンやゼロ知識証明サービスではなく、ローカルな整合性プロトタイプを実装した。3つの公開データセットを用いて7種類の決定論的な整合性フォールトタイプを評価し、4つのネストされたバリデータが、議論した9つの広範な脅威クラスのうち2、4、6、および7をカバーしている。本質的なセキュリティ境界を明らかにするため、さらに7つのランダムシードと5つの制御された学習ラベル破損率を用いて、105回の実際のMLP学習ランを実施した。ハッシュ/署名マイクロベンチマークおよび最大65,536葉のメルクルツリーにより、ローカルなスケーリング特性を評価した。制御されたモンテカルロ監査研究により、ローカルな測定とは別に、コミット済みステップサンプリング下での確率的検出を定量化した。本エビデンスは、予備的なプロベナンスチェックの正当性を裏付け、その限界を定量化するものであり、オンチェーンコストやエンドツーエンドで検証可能なニューラル学習を立証するものではない。"
   }
 ]
