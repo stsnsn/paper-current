@@ -228119,5 +228119,325 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "アイルランド中部の泥炭地における生態学的状態の生物指標としての線虫",
     "abstract_ja": "要旨　泥炭地は地球規模の炭素固定において極めて重要な役割を担っているが、広範な排水や土地利用の変化によってその水文学的特性と土壌の生物学的健全性が損なわれ、泥炭の分解と温室効果ガスの排出が加速している。再湿潤化は主要な復元戦略としてますます推進されているが、その地下生態系構造の再構築における有効性は依然として十分に解明されていない。本研究では、形態学的同定とDNAベースの分子シーケンシングを組み合わせ、原生泥炭地、劣化システム、再湿潤化および非再湿潤化の管理泥炭地、フェン、放棄泥炭地、および半自然地を含む広範な泥炭地生息地における線虫ベースの土壌食物網の応答を評価した。線虫群集の組成と機能構造は、エンリッチメント指数（EI）および構造指数（SI）診断を用いて評価した。原生泥炭地生息地では一貫して高いSI値と低いEI値が示され、これはDorylaimidaeやQudsianematidaeを含む、菌類関連および高次栄養段階の線虫科が優占する、構造化された食物網を反映していた。対照的に、劣化および非再湿潤化泥炭地では、高いEI値と、RhabditidaeやCephalobidaeなどの日和見的な細菌摂食科の優占を特徴とする、単純化された食物網が認められた。再湿潤化地は一般に非再湿潤化地に比べてEI値が低下しており、これは水文学的復元後の栄養塩の濃縮と微生物パルスの減退を示している。しかし、短期的にはSI値が低いままであり、高次栄養段階の複雑性の回復が限定的であることが示唆された。形態学的データセットと分子データセットの比較により、優占分類群については科レベルで強い一致が認められた一方、分子シーケンシングでは、形態学的手法だけでは一貫して復元されなかった追加の希少および隠蔽線虫科が検出され、両アプローチの相補性が強調された。フェン泥炭地では、本来的に栄養塩の利用可能性が高いことと一致して高いEI値が示されたが、放棄泥炭地では管理に関わらず、食物網が持続的に貧弱な状態であった。総じて、本結果は、再湿潤化が栄養動態を効果的に安定化させ、土壌食物網機能の早期回復を開始させることを示すが、栄養段階の複雑性を完全に復元するには長期的な生態学的回復が必要である。したがって、泥炭地の炭素貯留量と気候緩和ポテンシャルを最大化するためには、水文学的復元と生物学的モニタリングを統合することが不可欠である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11140836/v1",
+    "title": "Gut microbiota ablation depletes secondary bile acids and shifts the cytokine balance in BCG-infected mice",
+    "abstract": "Abstract    Background.  Antibiotic ablation is the standard test of whether a host phenotype depends on the gut microbiota, but it removes the community and perturbs the host at once, so depletion alone cannot assign a metabolite shift to the community. We built a four-arm mouse model on a single BCG infection background: untreated controls (NC), BCG alone, BCG after mixed-antibiotic ablation (ABX_BCG), and BCG followed by faecal microbiota transplantation with no antibiotic exposure at any point (BCG_FMT). The ablated and transplanted arms were independent branches, not a depletion-then-restoration sequence.  Results.  Dual-polarity untargeted LC-MS (9,706 negative-mode and 11,589 positive-mode features) and shotgun metagenomics showed that ablation left a block of 726 negative-mode and 313 positive-mode features absent from all three ABX_BCG samples but detected in 88–94% of the other nine; total ion signal in the ablated arm exceeded that of the quality-control injections, excluding dilution and matrix loss. Twenty-seven block features were annotated, resolving to 17 unique InChIKeys, 21 of them microbial compound classes including secondary bile acids. Deoxycholic acid eluted at 437.93 s in negative mode and 437.28 s in positive mode; deoxycholic and lithocholic acid were undetected in the ablated samples. Both omics layers resolved the same four groups (PERMANOVA R² = 0.562 for the genus table and 0.635 for the metabolome) yet failed to couple at sample level; exhaustive within-group re-pairing excluded sample mismatch, identifying a shared treatment rather than an individual axis. Ablation accompanied higher TNF-α and IL-6 and lower IFN-γ and IL-10 in bronchoalveolar lavage fluid and serum alike.  Conclusions.  The gut community contributes a set of metabolite features whose absence is specific to the ablated state rather than shared with infection or transplantation, and the same arm occupies the extreme of the cytokine readout in both compartments. Running the ablated and transplanted arms as independent branches off the infected baseline is what makes this an antibiotic-specific control, and the two omics layers carry a shared treatment structure rather than a shared individual axis.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11140836/v1",
+    "date": "2026-11-02",
+    "authors": "Ma Y, Zhu L, Xie Y, Gou Y, Zhang B, Zhang R, Xiao C, Chen J, Zhang L, Wu J, Li Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355225",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1037,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11140836/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9510be569a085443b5f9e16603a0e89a56200f6f49260f57b9cec8f0551e577b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:44:44.196745+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fc52bcf199e119238eece0a3d4ec1a2cb73127e64e1ac932da9eead1b13c6dba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:44:44.196745+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸内細菌叢の除去はBCG感染マウスにおいて二次胆汁酸を枯渇させ、サイトカインバランスを変化させる",
+    "abstract_ja": "要旨    背景. 抗生物質アブレーションは、宿主の表現型が腸内細菌叢に依存するかどうかを検証する標準的な試験法であるが、これは細菌叢を除去すると同時に宿主を撹乱するため、除去のみでは代謝物シフトを細菌叢に帰属させることはできない。我々は、単一のBCG感染背景に基づき、4群のマウスモデルを構築した：未処置対照群（NC）、BCG単独群、混合抗生物質アブレーション後のBCG群（ABX_BCG）、およびBCG投与後にいかなる時点においても抗生物質曝露を行わず糞便微生物叢移植を行った群（BCG_FMT）である。アブレーション群と移植群は独立したブランチであり、「除去後に復元」というシーケンスではない。結果. デュアル極性非標的型LC-MS（ネガティブモード9,706個、ポジティブモード11,589個の特徴量）およびショットガンメタゲノミクスにより、アブレーションによって3つのABX_BCGサンプルすべてにおいて726個のネガティブモード特徴量と313個のポジティブモード特徴量のブロックが消失し、他の9サンプルの88～94%で検出されたことが示された。希釈およびマトリックス損失を除いたアブレーション群の総イオン信号は、品質管理用注射液のそれを上回った。27個のブロック特徴量がアノテーションされ、17個の固有のInChIKeyに分解され、そのうち21個は二次胆汁酸を含む微生物化合物クラスであった。デオキシコール酸はネガティブモードで437.93秒、ポジティブモードで437.28秒で溶出したが、アブレーションサンプルではデオキシコール酸およびリトコール酸は検出されなかった。両オミクスレイヤーは同一の4群を分解したが（属テーブルのPERMANOVA R² = 0.562、メタボロームのR² = 0.635）、サンプルレベルでのカップリングには至らなかった。グループ内での網羅的な再ペアリングによりサンプルの不一致は排除され、個々の軸ではなく共通の処理が特定された。アブレーションに伴い、気管支肺胞洗浄液および血清の双方において、TNF-αおよびIL-6の上昇と、IFN-γおよびIL-10の低下が認められた。結論. 腸内細菌叢は、感染や移植と共通ではなく、アブレーション状態に特異的な一連の代謝物特徴量に寄与しており、同一の群は両コンパートメントにおいてサイトカインリードアウトの両極に位置している。アブレーション群と移植群を感染ベースラインからの独立したブランチとして扱うことが、本研究を抗生物質特異的な対照系たらしめており、2つのオミクスレイヤーは共通の個々の軸ではなく、共通の処理構造を有している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.12688/f1000research.191681.1",
+    "title": "The Genome Lab: designing a simpler interface for genome assembly and annotation",
+    "abstract": "Background:  Galaxy is a web-based platform for analysing data, particularly biological data such as DNA. While genome assembly and annotation is a typical starting point for users, navigating this process can be challenging: many factors affect which tools and settings are appropriate, and researchers with genomes to analyse often have deep taxonomic expertise but less bioinformatics experience. Methods To better present relevant resources, we built the Genome Lab: a domain-specific interface for genome assembly and annotation. Informed by user experience considerations, the design targets discoverability and navigation, and is intended to reduce the effort required to find resources and to understand the genome assembly process. Applying six key design decisions, we gave the Lab a clear, simple layout showing an organised set of tools and workflows, so that new users can get started quickly and experienced users have their frequently required resources at hand. Results We present a worked example of genome assembly and annotation, carried out the way a researcher might use the Genome Lab. Working from Nanopore sequencing reads, the curated path produced a genome assembly, a completeness assessment and gene models, viewed in a genome browser. Conclusions The Genome Lab has been implemented as a generic framework that other communities have since used to build Labs for their own domains, on Galaxy Australia and elsewhere. A curated, domain-specific interface provides a simpler entry point for researchers new to the field. We describe the design decisions, the framework and a worked example, which may help other groups build a similar interface for their own domain.",
+    "journal": "",
+    "doi": "10.12688/f1000research.191681.1",
+    "date": "2026-11-02",
+    "authors": "Syme A, Hyde C, Thang WM, Mok W, Price G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355000",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "assembly",
+        "genome",
+        "method",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2449,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.12688/f1000research.191681.1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "59f47fa22dfa5c73abfa245d2f7cbdd5d1751c249cc39449eddd7996b2c2e602",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:44:44.196745+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a2d4f38ec4340d9116244ec9e0ccccc25f839f987c1904d759c368091a12f3a2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:44:44.196745+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムラボ：ゲノムアセンブリとアノテーションのためのよりシンプルなインターフェースの設計",
+    "abstract_ja": "背景：Galaxyは、データ、特にDNAなどの生物学的データを解析するためのウェブベースのプラットフォームである。ゲノムアセンブリとアノテーションはユーザーにとって典型的な出発点となるが、このプロセスを進めることは困難な場合がある。どのツールや設定が適切であるかには多くの要因が影響し、解析対象のゲノムを持つ研究者は、分類学の深い専門知識は有していても、バイオインフォマティクスの経験が少ないことが多い。手法：関連するリソースをより適切に提示するため、我々はゲノムアセンブリおよびアノテーションのためのドメイン特化型インターフェースである「Genome Lab」を構築した。ユーザーエクスペリエンスへの配慮に基づき、本設計では発見性とナビゲーションを重視し、リソースの検索およびゲノムアセンブリプロセスの理解に要する労力を軽減することを目的としている。6つの主要な設計上の決定を適用することで、Labに明確かつシンプルなレイアウトを採用し、整理されたツールセットとワークフローを提示した。これにより、新規ユーザーは迅速に利用を開始でき、経験豊富なユーザーは頻繁に必要となるリソースをすぐに利用できる。結果：研究者がGenome Labを利用する際の手法で実施した、ゲノムアセンブリおよびアノテーションの具体例を提示する。Nanoporeシーケンシングリードを対象とし、キュレーションされたパスを通じて、ゲノムアセンブリ、完全性評価、および遺伝子モデルを生成し、それらをゲノムブラウザ上で表示した。結論：Genome Labは汎用的なフレームワークとして実装され、その後、他のコミュニティがGalaxy Australiaやその他の環境において、自らのドメイン向けのLabを構築するために利用している。キュレーションされたドメイン特化型インターフェースは、この分野に初めて触れる研究者にとって、よりシンプルなエントリーポイントとなる。本稿では、設計上の決定事項、フレームワーク、および具体例について説明し、他のグループが自らのドメイン向けに同様のインターフェースを構築する際の一助となれば幸いである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762149",
+    "title": "Local fractal dimension as an indicator of functional reorganization in molecular interaction networks",
+    "abstract": "Changes in protein abundance incompletely describe how molecular perturbations reshape cellular organization. Here we introduce DIFFRACT, a framework that integrates quantitative proteomics with protein-protein interaction networks to identify reorganization through changes in local fractal dimension. Molecular associations define effective distances between connected proteins, allowing the geometry of their surrounding network neighborhoods to be compared across conditions. Analyses across four organisms (  E. coli, A. thaliana ,  C. elegans , and  H. sapiens ) and three interaction resources (STRING, BioGRID, and IntAct) establish heterogeneous local scaling, while controlled perturbations demonstrate sensitivity to regional changes and invariance to uniform distance rescaling. Applied to RAVER1-deficient A549 cells, DIFFRACT identifies components associated with established RNA-regulatory functions and candidate roles in tRNA biology, mitochondrial organization and ciliogenesis. Selected RNA-regulatory and ciliary themes are not significantly enriched by abundance-ranked gene set analysis, supporting complementary information from network geometry. Selected functional annotations also recur in HEK293T cells. Guided by the ciliary predictions, we show that RAVER1 depletion increases the proportion of ciliated A549 cells 2.57-fold and increases cilium length. DIFFRACT thus connects changes in molecular network geometry to experimentally testable biological responses, extending the interpretation of proteomic perturbations beyond differential abundance.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762149",
+    "date": "2026-11-02",
+    "authors": "Hause F, Wedler-Geyer A, Lederer M, Fuchs T, Ihling CH, Tänzler D, Keil R, Sorokin O, Wussow S, Sinz A, Hüttelmaier S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357821",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "protein",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2462,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762149"
+    ],
+    "translation": {
+      "title": {
+        "hash": "206abadb25a0ebb380bab2bd64ce0ea0c2026ca2a4b35447625cae58b4530d2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:44:44.196745+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5f0f9e8046d02e1b9200b36a6cad9ad120c7814dec4a1cbdaafb615ca331dc4d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:44:44.196745+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "分子相互作用ネットワークにおける機能的再編成の指標としての局所フラクタル次元",
+    "abstract_ja": "タンパク質量の変化だけでは、分子摂動が細胞組織をどのように再形成するかを十分に記述できない。本研究では、定量プロテオミクスとタンパク質間相互作用ネットワークを統合し、局所的なフラクタル次元の変化を通じて再編成を同定するフレームワーク「DIFFRACT」を提案する。分子間結合は連結したタンパク質間の有効距離を定義し、これにより周囲のネットワーク近傍の幾何学的構造を条件間で比較することが可能となる。4種の生物（E. coli、A. thaliana、C. elegans、H. sapiens）および3つの相互作用リソース（STRING、BioGRID、IntAct）にわたる解析により、不均一な局所スケーリングが明らかになる一方、制御された摂動は領域的な変化に対する感度と、一様な距離再スケーリングに対する不変性を示す。RAVER1欠損A549細胞に適用したところ、DIFFRACTは、確立されたRNA調節機能に関連する構成要素や、tRNA生物学、ミトコンドリア組織化、および繊毛形成における候補的な役割を同定した。選定したRNA調節および繊毛に関するテーマは、量順の遺伝子セット解析によって有意に濃縮されることはなく、ネットワーク幾何学からの相補的な情報が裏付けられた。また、選定した機能的アノテーションはHEK293T細胞においても繰り返し認められた。繊毛に関する予測に基づき、RAVER1の枯渇が繊毛を有するA549細胞の割合を2.57倍に増加させ、繊毛長を伸長させることを示した。したがって、DIFFRACTは分子ネットワーク幾何学の変化を実験的に検証可能な生物学的応答へと結びつけ、プロテオーム摂動の解釈を量的な差異を超えて拡張するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11150377/v1",
+    "title": "BioGraphX-Sol: A Structure-Free, Fully Interpretable Protein Solubility Predictor Exceeds AlphaFold3-Based Methods and Reveals Nine Universal Cross-Species Determinants",
+    "abstract": "Abstract  Protein solubility is a critical determinant of recombinant expression yield, yet current state-of-the-art predictors often rely on either AlphaFold3-predicted structures or large ensembles of protein language models, limiting accessibility and interpretability. We present BioGraphX-Sol, a sequence-only predictor that constructs biophysically grounded constraint graphs directly from amino acid sequences to extract 200 physicochemical features spanning graph topology, IDP and polymer physics, aggregation-hotspot geometry, and novel surface- and terminal-conditioned descriptors, without requiring 3D coordinates, multiple sequence alignments, or pretrained models. On the standard eSOL benchmark, the XGB+ESM post-hoc ensemble essentially matches ProtSATT in predictive performance ($R^2 = 0.5451$ vs.\\$R^2 = 0.5450$), despite training only 1.44M neural parameters and requiring no structure prediction. The physics-only XGBoost configuration ($R^2 = 0.499$, ROC--AUC $= 0.873$) exceeds FGNNSol ($R^2 = 0.487$, ROC--AUC $= 0.867$), which combines AlphaFold3-derived 3D coordinates with ESM-C embeddings and structural descriptors across roughly 1,831 input dimensions, showing that explicit 3D structure prediction is unnecessary when the relevant physicochemical information is correctly encoded. A post-hoc $\\alpha$ sweep quantifies the physicochemical-to-evolutionary information balance at approximately 59\\%/41\\%, providing, to our knowledge, the first quantitative decomposition of information sources for protein solubility prediction. In zero-shot transfer to \\textit{S.\\cerevisiae}, the physics-only XGBoost achieves the highest ROC--AUC ($0.8524$) and PR--AUC ($0.9246$) among all evaluated methods. Permutation-importance analysis identifies nine universal solubility determinants exhibiting consistent directional effects across \\textit{E.\\coli} and \\textit{S.\\cerevisiae} (9/9 agreement). The physics-only configuration requires no GPU at inference and runs efficiently on standard CPU hardware, supporting the Green AI principle that compact, interpretable representations grounded in domain knowledge can provide a viable alternative to parameter scaling.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11150377/v1",
+    "date": "2026-11-02",
+    "authors": "Saeed A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355373",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "alignment",
+        "amino acid",
+        "method",
+        "predictor",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2464,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11150377/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "408a1b300409a12b296752ece5570875dbeaff1ebf86d6f9439570470f2d925a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:44:44.196745+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "99fade449915bff6d79b5c1b2fe27b7eca8b0f6b5f3d8665a794ed951f081a05",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:44:44.196745+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BioGraphX-Sol：構造に依存せず、完全に解釈可能なタンパク質溶解度予測モデルがAlphaFold3ベースの手法を凌駕し、9つの普遍的な種間決定因子を明らかにした",
+    "abstract_ja": "要旨  タンパク質の溶解性は組換え発現収量の決定的な要因であるが、現在の最先端の予測手法は、AlphaFold3による構造予測か、あるいは大規模なタンパク質言語モデルのアンサンブルに依存することが多く、アクセシビリティと解釈可能性が制限されている。本研究では、アミノ酸配列から直接生物物理学的根拠に基づく制約グラフを構築し、3D座標、多重配列アライメント、あるいは事前学習済みモデルを必要とせずに、グラフトポロジー、IDPおよび高分子物理学、凝集ホットスポットの幾何学的構造、ならびに新規の表面・末端条件付き記述子にわたる200の物理化学的特徴量を抽出する、配列のみの予測手法BioGraphX-Solを提案する。標準的なeSOLベンチマークにおいて、XGB+ESMの事後アンサンブルは、わずか144万個のニューラルパラメータで学習し、構造予測を一切必要としないにもかかわらず、予測性能においてProtSATTとほぼ同等の結果を示した（$R^2 = 0.5451$ vs.\\$R^2 = 0.5450$）。物理のみのXGBoost構成（$R^2 = 0.499$, ROC--AUC $= 0.873$）は、AlphaFold3由来の3D座標とESM-C埋め込みおよび構造記述子を約1,831の入力次元にわたって組み合わせたFGNNSol（$R^2 = 0.487$, ROC--AUC $= 0.867$）を上回っており、関連する物理化学的情報が正しくエンコードされていれば、明示的な3D構造予測は不要であることが示された。事後的な$\\alpha$スイープにより、物理化学的情報と進化的情報のバランスは約59\\%/41\\%と定量化され、我々の知る限り、タンパク質溶解性予測における情報源の初の定量的な分解を実現した。\\textit{S.\\cerevisiae}へのゼロショット転移において、物理のみのXGBoostは、評価した全手法の中で最高のROC--AUC（$0.8524$）およびPR--AUC（$0.9246$）を達成した。置換重要度分析により、\\textit{E.\\coli}と\\textit{S.\\cerevisiae}にわたって一貫した方向性の効果を示す9つの普遍的な溶解性決定因子が特定された（9/9の一致）。物理のみの構成は推論時にGPUを必要とせず、標準的なCPUハードウェアで効率的に動作し、ドメイン知識に基づいたコンパクトで解釈可能な表現がパラメータスケーリングに代わる有効な選択肢となり得るというGreen AIの原則を支持するものである。"
   }
 ]
