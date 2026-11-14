@@ -228439,5 +228439,324 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "BioGraphX-Sol：構造に依存せず、完全に解釈可能なタンパク質溶解度予測モデルがAlphaFold3ベースの手法を凌駕し、9つの普遍的な種間決定因子を明らかにした",
     "abstract_ja": "要旨  タンパク質の溶解性は組換え発現収量の決定的な要因であるが、現在の最先端の予測手法は、AlphaFold3による構造予測か、あるいは大規模なタンパク質言語モデルのアンサンブルに依存することが多く、アクセシビリティと解釈可能性が制限されている。本研究では、アミノ酸配列から直接生物物理学的根拠に基づく制約グラフを構築し、3D座標、多重配列アライメント、あるいは事前学習済みモデルを必要とせずに、グラフトポロジー、IDPおよび高分子物理学、凝集ホットスポットの幾何学的構造、ならびに新規の表面・末端条件付き記述子にわたる200の物理化学的特徴量を抽出する、配列のみの予測手法BioGraphX-Solを提案する。標準的なeSOLベンチマークにおいて、XGB+ESMの事後アンサンブルは、わずか144万個のニューラルパラメータで学習し、構造予測を一切必要としないにもかかわらず、予測性能においてProtSATTとほぼ同等の結果を示した（$R^2 = 0.5451$ vs.\\$R^2 = 0.5450$）。物理のみのXGBoost構成（$R^2 = 0.499$, ROC--AUC $= 0.873$）は、AlphaFold3由来の3D座標とESM-C埋め込みおよび構造記述子を約1,831の入力次元にわたって組み合わせたFGNNSol（$R^2 = 0.487$, ROC--AUC $= 0.867$）を上回っており、関連する物理化学的情報が正しくエンコードされていれば、明示的な3D構造予測は不要であることが示された。事後的な$\\alpha$スイープにより、物理化学的情報と進化的情報のバランスは約59\\%/41\\%と定量化され、我々の知る限り、タンパク質溶解性予測における情報源の初の定量的な分解を実現した。\\textit{S.\\cerevisiae}へのゼロショット転移において、物理のみのXGBoostは、評価した全手法の中で最高のROC--AUC（$0.8524$）およびPR--AUC（$0.9246$）を達成した。置換重要度分析により、\\textit{E.\\coli}と\\textit{S.\\cerevisiae}にわたって一貫した方向性の効果を示す9つの普遍的な溶解性決定因子が特定された（9/9の一致）。物理のみの構成は推論時にGPUを必要とせず、標準的なCPUハードウェアで効率的に動作し、ドメイン知識に基づいたコンパクトで解釈可能な表現がパラメータスケーリングに代わる有効な選択肢となり得るというGreen AIの原則を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.01.763325",
+    "title": "The genetic architecture of human DNA methylome variation",
+    "abstract": "Population DNA methylome analyses remain largely confined to reference-defined genomic space despite extensive human genetic diversity. A central challenge is therefore to define comparable methylation phenotypes across diverse genomes and map the genetic architecture of methylome variation. Here, using 460 haplotypes from the Human Pangenome Reference Consortium Release 2, we develop two complementary pangenome-based frameworks: one compares methylation within homologous regions while retaining haplotype-specific structural configuration and CpG content; the other represents CpG island (CGI) variation at homologous loci as sequence-resolved alleles. We identified 47,039 CGI alleles, including 8,040 absent from CHM13; 62% were attributable to structural variants and 31% to small variants. Through local genealogies, we reconstructed CGI gain, loss and turnover, revealing how present-day methylation differences align with CGI evolutionary trajectories. We found that genome-wide, methylation variability was buffered against genetic diversity across more than 90% of the genome, with exceptions at extreme nucleotide diversity and locally around structural variants. Our methylation framework enabled population-scale allele-aware methylation quantitative trait locus (mQTL) mapping into non-reference and structurally complex sequence, where mQTL-associated intervals were enriched. mQTLs linked methylation to transcriptomic phenotypes, population differentiation and complex traits, supporting 8% of population differentially methylated regions and colocalizing with more than half of genome-wide association study loci. Together, our study redefines human methylome analysis and our findings reveal a genome-wide architecture of genetic-epigenetic coupling, reshaping how methylation variation is interpreted across human development and disease.",
+    "journal": "",
+    "doi": "10.64898/2026.11.01.763325",
+    "date": "2026-11-02",
+    "authors": "Liu T, Macias-Velasco JF, Zhuo X, Lin J, Porubsky D, Zhang W, Li D, Tomlinson C, Belter EA, Dong Z, Dong S, Human Pangenome Reference Consortium (HPRC), Eichler EE, Wang T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355820",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "pangenome",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "pangenom",
+          "pangenome",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2470,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.01.763325"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e778b5937d679398ac2f0d7a6832b7ecf2af93edeb9d98ed0e4d9960dbd9b50a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:48:27.353239+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7e3a307f08ad2318c23b41db83d9914f72add24979d18c660d354e67291e2441",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:48:27.353239+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトDNAメチローム変動の遺伝的構造",
+    "abstract_ja": "ヒトの遺伝的多様性は広範であるにもかかわらず、集団DNAメチローム解析は依然として主にリファレンスで定義されたゲノム空間に限定されている。したがって、多様なゲノム間で比較可能なメチル化表現型を定義し、メチローム変異の遺伝的構造をマッピングすることが中心的な課題となっている。本研究では、Human Pangenome Reference Consortium Release 2の460個のハプロタイプを用い、相補的な2つのパンゲノムベースのフレームワークを開発した。一方は、ハプロタイプ固有の構造的構成とCpG含有量を保持したまま、相同領域内のメチル化を比較するものである。もう一方は、相同遺伝子座におけるCpGアイランド（CGI）変異を配列分解されたアレルとして表現するものである。我々は47,039個のCGIアレルを同定し、そのうち8,040個はCHM13に欠如していた。その62%は構造的変異に、31%は小変異に起因していた。局所的な系統樹を通じてCGIの獲得、喪失、およびターンオーバーを再構築し、現在のメチル化の差異がCGIの進化的軌跡とどのように整合しているかを明らかにした。ゲノム全域にわたるメチル化の変動性は、極端な塩基多様性や構造的変異周辺を除き、ゲノムの90%以上において遺伝的多様性に対して緩衝されていることがわかった。我々のメチル化フレームワークにより、非リファレンス領域や構造的に複雑な配列において、集団規模でのアレル認識型メチル化量的形質遺伝子座（mQTL）マッピングが可能となり、mQTL関連区間が濃縮された。mQTLはメチル化をトランスクリプトーム表現型、集団分化、および複雑な形質に関連付け、集団の差次的メチル化領域の8%を支持し、ゲノムワイド関連解析の遺伝子座の半数以上と共局在した。総じて、本研究はヒトメチローム解析を再定義するものであり、我々の知見は遺伝的・エピジェネティックな共役のゲノム全域にわたる構造を明らかにし、ヒトの発達および疾患におけるメチル化変異の解釈のあり方を塗り替えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.26366920",
+    "title": "Natural genetic diversity modulates structural stability changes caused by pathogenic variants in small proteins",
+    "abstract": "Clinical genomics relies heavily on linear reference genomes such as GRCh38, often ne-glecting natural sequence diversity that can modify variant expressivity and drive diagnostic health disparities. Meanwhile, variant interpretation is moving toward direct biophysical evidence of disrupted protein function, yet how natural genetic backgrounds modulate variant-induced protein stability changes remains uncharacterized. Here, we present a physics-based computational and data processing framework to evaluate how global sequence diversity alters the predicted thermodynamic impact of pathogenic mutations. Focusing on small human proteins (  ≤ 100 residues), we reconstructed natural DNA haplotypes from 1000 Genomes Project data and introduced ClinVar pathogenic variants, yielding both natural and pathogenic protein haplotypes that were structurally modeled and energetically relaxed. Across 271 tested variants in 46 genes, structural stability changes (ΔΔ  G ) for 168 variants (62%) differed significantly depending on the underlying natural haplotype background (Kruskal-Wallis, Bonferroni-adjusted  p < 0.01). These background-sensitive variants spanned 43 of the 46 genes (93%), suggesting that thermodynamic modulation by natural sequence context is a pervasive phenomenon across the human proteome. Accounting for haplotype context in protein stability profiling is therefore essential for equitable, ancestry-aware precision medicine.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.26366920",
+    "date": "2026-11-02",
+    "authors": "Niemeijer T, Swertz MA, van der Velde KJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357799",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2484,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.26366920"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dcf1678a7b60970a257824e330e227246b5cd93510fd584bd68f691898f76784",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:48:27.353239+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8cf1879447bdc8ce71940a67eea3163481237272fb60eb91ece4c17f2e0d3a0e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:48:27.353239+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "天然の遺伝的多様性は、低分子タンパク質の病原性変異によって生じる構造安定性の変化を調節する。",
+    "abstract_ja": "臨床ゲノミクスは、GRCh38などの線形リファレンスゲノムに大きく依存しており、変異体の発現能を変化させ、診断における健康格差を引き起こし得る天然配列の多様性をしばしば見落としている。一方で、変異体の解釈は、タンパク質機能の破綻を示す直接的な生物物理学的証拠へと移行しつつあるが、天然の遺伝的背景が変異誘発性のタンパク質安定性変化をどのように調節しているかについては、依然として解明されていない。本研究では、全ゲノム配列の多様性が病原性変異の予測される熱力学的影響をどのように変化させるかを評価するため、物理学に基づいた計算およびデータ処理フレームワークを提案する。ヒトの低分子タンパク質（100残基以下）に着目し、1000 Genomes Projectのデータから天然DNAハプロタイプを再構成し、ClinVar病原性変異を導入することで、構造的にモデル化されエネルギー的に緩和された天然および病原性タンパク質ハプロタイプの双方を得た。46遺伝子の試験対象となった271個の変異において、168個（62%）の変異の構造安定性変化（ΔΔ G）は、基礎となる天然ハプロタイプ背景によって有意に異なっていた（Kruskal-Wallis検定、Bonferroni補正済み p < 0.01）。これらの背景感受性変異は46遺伝子のうち43遺伝子（93%）に及び、天然配列のコンテキストによる熱力学的調節がヒトプロテオーム全体にわたる普遍的な現象であることが示唆された。したがって、タンパク質安定性プロファイリングにおいてハプロタイプコンテキストを考慮することは、公平で祖先情報を考慮した精密医療を実現するために不可欠である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762545",
+    "title": "Quantitative imaging of native tissue architecture combined with deep multi-omics reveals the spatial biology of kidney aging",
+    "abstract": "Aging alters tissue architecture and metabolism in spatially heterogeneous ways, yet the connections between these measurable structural and compositional phenotypes and underlying molecular changes are largely unknown. Here, we introduce NORIGAMI (NoRI-Guided AI for Multimodal Integration), a pipeline combining Normalized Raman Imaging (NoRI), deep learning, quantitative morphology, deep proteomics, and metabolomics to investigate renal aging. Unlike conventional histology, NoRI provides label-free, scattering-corrected measurements of absolute total protein and lipid mass concentrations (mg/mL). In 32 male rats aged 9, 18, 21 and 25 months, NORIGAMI predicted the chronological age of held-out rats from NoRI images (mean absolute error 0.78 months; R² = 0.97), and whole-tissue images outperformed models trained on isolated tubules. Quantitative imaging identified 41 age-associated morphological and compositional features (FDR < 0.05), revealing anatomically heterogeneous and non-linear changes in lipid droplet concentration, droplet size, cytoplasmic lipid concentration and tubular architecture. Deep molecular profiling quantified 11,485 proteins and 269 metabolites, revealing coordinated declines in differentiated proximal tubule (PT) identity and oxidative metabolism, selective increases in basement-membrane collagen-IV chains, and increasing molecular heterogeneity with age. A protein clock, built mainly from extracellular-matrix and heparan-sulfate proteins, predicted age with a mean absolute error of 1.6 months. Old kidneys diverged along a dominant injury-remodeling axis, seen separately in the proteome, in kidney RNA from 54 other rats and in the metabolome, in which tubular-injury and immune proteins, including the NAD  + -consuming enzyme CD38, rise as differentiated-tubule proteins and NAD  + fall. NORIGAMI subsequently linked NAD  + -associated molecular changes to candidate quantitative features of tubular geometry and protein–lipid organization in exploratory analyses, while complementary KIM-1-centered analyses identified overlapping candidate morphological associations involving epithelial injury and, possibly, lipid handling and yielded additional molecular candidates for mechanistic validation. Collectively, these findings suggest that declining tubular metabolic function, altered lipid organization and injury-associated molecular programs represent interconnected features of renal aging. NORIGAMI provides a framework for identifying the quantitative structural manifestations of molecular aging and generating spatially informed, experimentally testable hypotheses about tissue dysfunction.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762545",
+    "date": "2026-11-02",
+    "authors": "Trim WV, Diakova M, Sonnett M, Petrova K, Zhang B, Oh S, Donne R, McEwen C, Salmon H, Gadi A, Shavlakadze T, Chouchani ET, Glass DJ, Kirschner MW.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355762",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metabolomic",
+        "pipeline",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metabolomic",
+          "pipeline",
+          "proteomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2485,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762545"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a6bb2004e6db924ba22a2e7fc549c73eb5ba05a54b3e0b665838047f1f246ea2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:48:27.353239+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7895d064c07ad31de2c2081fbd1a74baf2e30182b82101d5d2e3dee9651d477d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:48:27.353239+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "天然組織構造の定量的イメージングと深層マルチオミクスの融合が明かす腎臓老化の空間生物学",
+    "abstract_ja": "加齢は組織構造と代謝を空間的に不均一な形で変化させるが、これらの測定可能な構造的・組成的表現型と、その根底にある分子変化との関連性については、大部分が未解明である。本研究では、腎加齢を調査するため、正規化ラマンイメージング（NoRI）、深層学習、定量形態学、深層プロテオミクス、およびメタボロミクスを組み合わせたパイプラインであるNORIGAMI（NoRI-Guided AI for Multimodal Integration）を提案する。従来の組織学的手法とは異なり、NoRIはラベルフリーかつ散乱補正済みの、絶対的な総タンパク質および脂質質量濃度（mg/mL）の測定値を提供する。9、18、21、および25か月齢の雄ラット32匹において、NORIGAMIはNoRI画像からホールドアウトしたラットの暦年齢を予測し（平均絶対誤差 0.78か月、R² = 0.97）、全組織画像は単離尿細管で学習させたモデルを上回る性能を示した。定量イメージングにより、加齢に関連する41の形態学的・組成的特徴（FDR < 0.05）が同定され、脂質滴濃度、滴サイズ、細胞質脂質濃度、および尿細管構造における解剖学的に不均一かつ非線形な変化が明らかになった。深層分子プロファイリングでは、11,485種類のタンパク質と269種類の代謝物が定量され、近位尿細管（PT）の分化アイデンティティと酸化代謝の協調的な低下、基底膜コラーゲンIV鎖の選択的な増加、および加齢に伴う分子不均一性の増大が明らかになった。主に細胞外マトリックスおよびヘパラン硫酸タンパク質から構築されたタンパク質時計は、平均絶対誤差1.6か月で年齢を予測した。老齢腎は、プロテオーム、他の54匹のラットの腎RNA、およびメタボロームにおいてそれぞれ認められた、損傷・リモデリングという支配的な軸に沿って乖離していた。メタボロームでは、NAD⁺消費酵素CD38を含む尿細管損傷および免疫タンパク質が分化尿細管タンパク質として上昇し、NAD⁺が低下していた。続いてNORIGAMIは、探索的解析において、NAD⁺関連の分子変化を、尿細管幾何学およびタンパク質・脂質組織化の候補となる定量的特徴に関連付けた。一方、補完的なKIM-1中心の解析では、上皮損傷および（おそらく）脂質処理に関わる重複した候補形態学的関連性が同定され、メカニズム検証のための追加的な分子候補が得られた。総じて、これらの知見は、尿細管代謝機能の低下、脂質組織化の変化、および損傷関連の分子プログラムが、腎加齢の相互に関連した特徴であることを示唆している。NORIGAMIは、分子加齢の定量的な構造的発現を同定し、組織機能不全に関する空間的知見に基づいた実験的に検証可能な仮説を構築するためのフレームワークを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11558063/v1",
+    "title": "Cell IO: a database linking single-cell transcriptomes to literature-derived knowledge of cell functions and perturbations",
+    "abstract": "Abstract  Single-cell transcriptome databases tell us which genes a cell type expresses, but what a cell type does, and what happens to it when a gene is perturbed, remains scattered across the literature. Cell IO (https://cell-io.riken.jp/) links these two kinds of knowledge through Cell Ontology identifiers. Its transcriptome layer re-processes 10x Chromium single- cell and single-nucleus RNA-seq experiments of human, mouse, and rat from the Sequence Read Archive with a uniform pipeline, annotates clusters with Cell Ontology terms restricted by the tissue of origin, and stores the cell type composition and UMAP embedding of every experiment (currently 14,931 experiments and 82.9 million cells). Its literature layer holds 895,258 claims extracted with a large language model and verified in a second pass from open-access abstracts, review articles, and gene perturbation studies in immunology and neuroscience, each with the verbatim sentence, highlighted entity spans, evidence strength, and ontology-normalized cell, gene, and context. The web interface lets users search cell types by name, synonym, or identifier, find the experiments in which a cell type is most abundant, inspect the composition and embedding of each experiment, read and filter the claims about a cell type by knowledge base, direction, evidence strength, and organism, and identify cell types whose functional characterization is missing from part of the literature. Cell IO is freely available without registration.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11558063/v1",
+    "date": "2026-11-02",
+    "authors": "Ozaki H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355551",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2486,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11558063/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "445c903de0fdc588965a8050571ef048c26a166bb456d3654b19f433d60635ff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:48:27.353239+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e2e23115e04ac22efc9c9999cbe2e47411516a863aa83cf56f9c310dfef8f322",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:48:27.353239+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Cell IO：単一細胞トランスクリプトームを、文献由来の細胞機能および摂動に関する知識に紐付けるデータベース",
+    "abstract_ja": "概要  単一細胞トランスクリプトームデータベースは、細胞種がどの遺伝子を発現しているかを示すが、細胞種がどのような機能を担うのか、また遺伝子に摂動が生じた際に何が起こるのかについては、依然として文献全体に散在している。Cell IO (https://cell-io.riken.jp/) は、Cell Ontology 識別子を通じてこれら2種類の知見を結びつける。そのトランスクリプトームレイヤーでは、Sequence Read Archive のヒト、マウス、ラットを対象とした 10x Chromium の単一細胞および単一核 RNA-seq 実験を統一的なパイプラインで再処理し、由来組織で制限された Cell Ontology 用語を用いてクラスターにアノテーションを付与するとともに、すべての実験の細胞種構成と UMAP 埋め込みを保存している（現在は 14,931 件の実験と 8,290 万個の細胞）。文献レイヤーには、大規模言語モデルで抽出され、オープンアクセスの抄録、総説論文、および免疫学・神経科学分野の遺伝子摂動研究から二次的に検証された 895,258 件のクレームが格納されており、それぞれに原文の一文、ハイライトされたエンティティスパン、エビデンス強度、およびオントロジー正規化された細胞・遺伝子・コンテキストが含まれている。ウェブインターフェースでは、ユーザーが細胞種を名称、同義語、または識別子で検索したり、特定の細胞種が最も豊富に存在する実験を検索したり、各実験の構成と埋め込みを確認したり、ナレッジベース、方向、エビデンス強度、生物種に基づいて細胞種に関するクレームを閲覧・フィルタリングしたり、文献の一部で機能特性の記述が欠落している細胞種を特定したりすることができる。Cell IO は登録不要で無料で利用可能である。"
   }
 ]
