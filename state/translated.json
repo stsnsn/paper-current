@@ -211411,5 +211411,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ベトナム・カンジオマングローブ林の根生葉におけるTetratostichococcus sp. CCAH0201（トレボウキ藻綱、緑藻綱）の統合的同定",
     "abstract_ja": "ベトナムのカンギオマングローブ林のリゾフォラ葉由来の微細藻類株について、光学顕微鏡観察および3つの分子マーカーを用いて解析を行った。22枚の顕微鏡写真から得られた36個の細胞のサイズは、6.68–12.74 × 3.49–4.79 μmであった。相同系統解析ウィンドウは、SSU rDNAで550ヌクレオチド、ITSで711ヌクレオチド、rbcLで1,170ヌクレオチドであった。CCAH0201、P1、およびTetratostichococcus jenerensis SAG 2138はSSU 3-prime配列を共有していたが、ITSおよびrbcLの解析により、CCAH0201はP1（SH-aLRT/UFBoot 87/94および96.9/99）に位置付けられた。CCAH0201は、ITSの22/711部位およびrbcLの4/1,170部位においてP1と異なっていた。構造ガイドを用いたITS2比較により、P1に対して1つの厳格なCBC、1つのウォブルペアからの両側変化、および3つの半CBCが同定された。したがって、CCAH0201はP1に近い系統のTetratostichococcus sp.として同定された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11360767/v1",
+    "title": "Functional convergence of soil fungal communities with biotic homogenization in a biodiversity hotspot",
+    "abstract": "Abstract    Aims  Soil fungal communities playcritical roles in ecosystem functions. However, soil fungal communities are becoming homogenization under human disturbance although the functional consequences remain poorly understood.  Methods  Here we investigated soil fungal community composition, diversity, and functional guild structure acrossagroecosystems, grasslands, and forests in four isolated valleys of the Mountains of Southwest China, a globally recognized biodiversity hotspot. We characterized the patterns of biotic homogenization and the relative abundance of functional guilds. Community assembly processes were inferred using the iCAMP framework.  Results  Agroecosystems harbored 30.3% higher phylotype richness than grasslands but exhibited significantly lower β-diversity (3.25% and 4.71% lower than grasslands and forests, respectively) and higher biotic homogenization degrees. Agroecosystems hosted more abundant plant pathogens than forests and grasslands (by 361.5% and 354.0%, respectively) and more saprotrophs (by 91.3% and 72.8%), but substantially fewer ectomycorrhizal fungi (93.3% lower than forests). Soil fungal communities in agroecosystems showed the highest importance of homogeneous selection, whereas heterogeneous selection was lowest, consistent with the homogenization pattern. The richness and abundance of plant pathogens and saprotrophs increased whereas those of ectomycorrhizal fungi decreased with biotic homogenization. Bin-level assembly analysis revealed that the assembly processes were associated with functional guilds. Soil total phosphorus, nitrate, and C:P ratio were key environmental drivers of homogenization and functional guild shifts.  Conclusions  These findings demonstrate that agricultural activities drive fungal community convergence through environmental filtering, with cascading effects on functional guilds that may compromise ecosystem multifunctionality and long-term soil health.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11360767/v1",
+    "date": "2026-11-06",
+    "authors": "Yan B, Sun Y, Li L, He G, Zhang M, Fang H, Shi L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360510",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2224,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11360767/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f7ae4ffde7feeec52d4517720eaa9b37a4ab5ca13ac66ac707ec86474f7c2eb8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:36:37.107152+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "488700ebd1d35575b94fd924b343b1ab8a10b2944ad05e3bdde9f9b426a3f77d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:36:37.107152+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生物多様性ホットスポットにおける生物的均質化に伴う土壌菌類群集の機能的収斂",
+    "abstract_ja": "要旨    目的  土壌真菌群集は生態系機能において極めて重要な役割を担っている。しかし、人間活動による攪乱に伴い土壌真菌群集の均質化が進んでおり、その機能的な影響については十分に解明されていない。  方法  本研究では、世界的に生物多様性のホットスポットとして認識されている中国南西部山岳地帯の4つの孤立した谷において、農業生態系、草原、および森林を対象に、土壌真菌群集の組成、多様性、および機能的ギルド構造を調査した。また、生物的均質化のパターンと機能的ギルドの相対的な存在量を特性評価した。群集形成プロセスはiCAMPフレームワークを用いて推定した。  結果  農業生態系は草原よりも系統型豊富度が30.3%高かったが、β多様性は有意に低く（草原より3.25%、森林より4.71%低い）、生物的均質化の程度は高かった。農業生態系では、森林や草原よりも植物病原菌が多く（それぞれ361.5%および354.0%）、腐生菌も多く（それぞれ91.3%および72.8%）見られたが、外生菌根菌は大幅に少なかった（森林より93.3%低い）。農業生態系の土壌真菌群集では、均質選択の重要性が最も高く、一方で不均質選択の重要性は最も低く、これは均質化のパターンと一致していた。生物的均質化に伴い、植物病原菌および腐生菌の豊富度と存在量は増加したが、外生菌根菌のそれらは減少した。ビンレベルの群集形成解析により、群集形成プロセスが機能的ギルドに関連していることが明らかになった。土壌中の全リン、硝酸塩、およびC:P比は、均質化および機能的ギルドのシフトにおける主要な環境駆動要因であった。  結論  これらの知見は、農業活動が環境フィルタリングを通じて真菌群集の収斂を促進し、それが機能的ギルドに連鎖的な影響を及ぼして、生態系の多機能性や長期的な土壌健全性を損なう可能性があることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11334725/v1",
+    "title": "Human parvovirus B19-associated Evans syndrome with fulminant hematologic onset mimicking thrombotic thrombocytopenic purpura: a case report",
+    "abstract": "Abstract    Background  Human parvovirus B19 infection rarely presents with severe bicytopenia and multiorgan involvement. Acute presentations with fulminant immune-mediated cytopenia closely mimic severe thrombotic microangiopathies (TMAs) like thrombotic thrombocytopenic purpura (TTP), making early diagnosis highly challenging.  Case presentation  A 65-year-old male was admitted with hematemesis and melena. Suspecting thrombotic thrombocytopenic purpura or other thrombotic microangiopathies, emergency plasma exchange and continuous renal replacement therapy were immediately initiated. Crucially, pre-treatment samples for ADAMTS13 and metagenomic next-generation sequencing were collected prior to these interventions. Following rapid clinical deterioration requiring endotracheal intubation, intravenous methylprednisolone was initiated. Initial platelet and hemoglobin levels were 3×10⁹/L and 90 g/L, which subsequently plummeted to nadirs of 1×10⁹/L and 46 g/L. Immunohematological tests identified immune-mediated cytopenia: a weakly positive direct antiglobulin test for IgG, positive C3, and spherocytes. ADAMTS13 activity was normal. The pre-treatment metagenomic next-generation sequencing exclusively detected parvovirus B19 (21632 reads), shifting the diagnostic focus to B19-associated Evans syndrome. Following comprehensive therapy, the patient demonstrated a progressive regenerative erythropoietic response. He was successfully extubated, with platelets recovering to 174×10⁹/L and hemoglobin to 86-87 g/L.  Conclusions  Parvovirus B19 should be actively considered in adults presenting with fulminant immune-mediated bicytopenia mimicking TTP. Procuring critical etiological and immunohematological samples prior to plasma exchange is essential to establish an accurate final diagnosis.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11334725/v1",
+    "date": "2026-11-06",
+    "authors": "Xie Z, Zou X, Zhang L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360433",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2225,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11334725/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f7dc77a80054c7441d9274369eb1aba256ef8a61f051286e4c8597a2c45d3026",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:36:37.107152+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d7a4152bb551af3062fdaceed0a352b1a75bc3d20d8db16ecd63268698abb457",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:36:37.107152+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "血栓性血小板減少性紫斑病を模した劇症型血液疾患発症を伴うヒトパルボウイルスB19関連エバンス症候群：症例報告",
+    "abstract_ja": "要旨    背景  ヒトパルボウイルスB19感染症において、重度の両性球菌減少症および多臓器障害を呈する症例は稀である。劇症型の免疫介在性血球減少症を伴う急性症例は、血栓性血小板減少性紫斑病（TTP）などの重度の血栓性微小血管障害に酷似しており、早期診断は極めて困難である。  症例提示  65歳男性が、吐血および黒色便を呈して入院した。血栓性血小板減少性紫斑病またはその他の血栓性微小血管障害を疑い、直ちに緊急血漿交換および持続腎代替療法を開始した。極めて重要な点として、これらの介入に先立ち、ADAMTS13およびメタゲノム次世代シーケンシングのための治療前検体を採取した。気管挿管を要する急速な臨床状態の悪化に伴い、メチルプレドニゾロンの静脈内投与を開始した。初期の血小板数およびヘモグロビン値は3×10⁹/Lおよび90 g/Lであったが、その後1×10⁹/Lおよび46 g/Lの最低値まで急落した。免疫血液学的検査により、免疫介在性血球減少症（IgG直接抗グロブリン検査で弱陽性、C3陽性、スフェロサイト陽性）が認められた。ADAMTS13活性は正常であった。治療前のメタゲノム次世代シーケンシングではパルボウイルスB19のみが検出され（21,632リード）、診断の焦点はB19関連エバンス症候群へと移行した。包括的治療の結果、患者は漸進的な再生性赤血球造血反応を示した。無事に抜管され、血小板数は174×10⁹/L、ヘモグロビン値は86-87 g/Lまで回復した。  結論  TTPに類似した劇症型の免疫介在性両性球菌減少症を呈する成人患者においては、パルボウイルスB19を積極的に考慮すべきである。正確な確定診断を下すためには、血漿交換前に重要な病因学的および免疫血液学的検体を採取することが不可欠である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11636126/v1",
+    "title": "From Access to Appropriate Use: Reimbursement Design for Pathogen Nucleic Acid Diagnostics across Six Health Systems, 2014–2026",
+    "abstract": "Abstract  Background  Pathogen nucleic acid diagnostics answer questions that culture, antigen detection and serology cannot answer within the treatment-decision window — slow-growing and fastidious organisms, paucibacillary disease, and genotypic resistance — yet are persistently reimbursed below that value; we ask whether that mismatch is transitional or structural. Methods  We compare six health systems (China, the United States, Germany, France, England, Japan) under a most-different-systems design, tracing three index technology classes defined by target scope — single-pathogen detection with or without a resistance-conferring variant; multi-pathogen targeted detection by multiplex or isothermal amplification or panel enrichment with sequencing; and untargeted metagenomic sequencing of the primary specimen — through a three-gates framework (approval, price assignment, coverage) using primary policy documents, 2014–2026, under confidence-tiered verification. Results  All six systems impose the same three gates, but the binding gate differs: China's price-item gate is being removed by the 2026 national price-item guideline (trial), which standardises item definitions but not price levels, so the binding constraint migrates to insurance listing rather than disappearing; the United States binds at clinical-utility evidence; Germany at coverage. A \"double squeeze\" of inpatient diagnosis-related-group bundling and outpatient price compression (Medicare's ratcheted PAMA repricing, repeatedly deferred; China's volume-based procurement cuts of 47–77%; Japan's FY2014 256-item fee cut) suppresses adoption of cost-effective tests. Five innovation carve-outs echoing the coverage-with-evidence-development concept underperform for diagnostics: Germany's inpatient innovation channel (NUB) integrated 105 of more than 3,400 methods into regular payment in 2005–2020 (single peer-reviewed source); Medicare's molecular-panel coverage policy excludes metagenomic sequencing from its scope, with no affirmative coverage elsewhere. Regulatory review itself ranges from months (Japan's targets; US 510(k) goals) to multiple years (China's Class III elapsed times; EU notified-body backlogs). For metagenomic sequencing, Gate 1 is a laboratory-accreditation regime rather than product review, and the longest lags sit at the approval–payment interface (median 5.7 years from FDA authorisation to nominal Medicare coverage in a 2016–2019 cohort; diagnostics' lags were shorter). Conclusion  The reimbursement gap is structural and is best explained by the externalisation of diagnostic value across budget silos; closing it requires diagnostic-specific payment design coupled to prescriber competency in test selection.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11636126/v1",
+    "date": "2026-11-06",
+    "authors": "Shen C, Li D, Chen H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360309",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2226,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11636126/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "38d5b653f0a376ef46a9802bc28d33676a618cedc61a6097bb94adc4c1cab017",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:36:37.107152+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e5b4673fb18c70b1f4cfc00febc11330e179a9337130c16b2e7c06184dd9bd39",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:36:37.107152+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アクセスから適正利用まで：6つの保健システムにおける病原体核酸診断の償還設計、2014–2026年",
+    "abstract_ja": "要旨  背景  病原体核酸診断は、培養、抗原検出、および血清学的検査では治療方針決定の期限内に解決できない課題――増殖緩徐かつ難培養性の微生物、少菌性疾患、および遺伝子型耐性――に応えるものであるが、その償還額は常に当該水準を下回っている。我々は、このミスマッチが過渡的なものなのか、あるいは構造的なものなのかを検証する。方法  最異システム設計に基づき、6つの医療制度（中国、米国、ドイツ、フランス、英国、日本）を比較した。対象範囲によって定義される3つの指標技術クラス――耐性付与変異体の有無を問わない単一病原体検出、マルチプレックス法、等温増幅法、またはシーケンシングを伴うパネル濃縮による多病原体標的検出、および一次検体の非標的型メタゲノムシーケンシング――を、一次政策文書（2014–2026年）を用い、信頼レベル別の検証を伴う3つのゲート（承認、価格割り当て、適用範囲）の枠組みを通じて追跡した。結果  6つの制度すべてで同一の3つのゲートが課されているが、拘束ゲートが異なる。中国の価格項目ゲートは、項目定義を標準化するが価格水準は標準化しない2026年の国家価格項目ガイドライン（試行）によって撤廃されつつあり、そのため拘束制約は消滅するのではなく保険リストへの掲載へと移行している。米国は臨床有用性のエビデンスを、ドイツは適用範囲を拘束条件としている。入院診断関連グループのバンドル化と外来価格の抑制（メディケアの段階的なPAMA価格改定の度重なる延期、中国の数量ベースの調達削減（47–77%）、日本の2014年度の256項目の費用削減）という「ダブル・スクイーズ」が、費用対効果の高い検査の導入を抑制している。適用範囲とエビデンス開発の概念を反映した5つのイノベーション除外措置は、診断領域において十分な成果を上げていない。ドイツの入院イノベーションチャネル（NUB）は、2005–2020年に3,400以上の手法のうち105を通常支払いに組み込んだ（単一の査読済み情報源）。メディケアの分子パネル適用方針では、メタゲノムシーケンシングが対象範囲から除外されており、他に肯定的な適用例はない。規制審査自体の期間は、数ヶ月（日本の目標、米国の510(k)目標）から数年（中国のクラスIII経過期間、EUの通知機関のバックログ）まで多岐にわたる。メタゲノムシーケンシングの場合、ゲート1は製品審査ではなく検査機関認定制度であり、最も長いラグは承認と支払いの接点に生じている（2016–2019年のコホートにおいて、FDA承認から名目上のメディケア適用までの中央値は5.7年であり、診断領域のラグはより短かった）。結論  償還の格差は構造的なものであり、予算上の縦割りを越えた診断価値の外部化によって最も適切に説明される。この格差を解消するには、診断に特化した支払い設計と、検査選択における処方医の能力を連動させることが必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11302422/v1",
+    "title": "A history of type 2 diabetes results in immune dysregulation and failure to contain a fatal fungal infection",
+    "abstract": "Abstract    Glucose metabolism enables antimicrobial defences, but it also contributes to pathogen proliferation and immune evasion. A key disease of glucose metabolism, type 2 diabetes (T2D), leads to worse outcomes of  Candida albicans  infections with poorly understood mechanisms. Here we used genetic and dietary animal models of T2D and show that, following bloodstream  C. albicans  infection, T2D animals develop strongly exacerbated disease across several T2D aetiologies. Obesity alone (without overt hyperglycaemia) is sufficient to worsen  C. albicans  disease, but it does not fully recapitulate the severity in T2D hosts that are both obese and overtly hyperglycaemic. Mechanistic analyses showed that a convergence of pathogen and host factors leads to poor outcomes in T2D.  C. albicans  exploits poor host glycaemic control through activation of a transcriptional program for glucose utilisation to drive pathogen proliferation. This, combined with dysregulated immunity characterised by increased pro-inflammatory responses and reduced interferon and NK cell signatures, leads to host failure in restricting fungal growth. We further show that life-long metabolic dysregulation, rather than blood glucose levels at infection, drives poor infection outcomes. Our study illuminates host and pathogen mechanisms leading to worse fungal infection in T2D, provides a rich multi-omics resource for understanding fungal infection in metabolic diseases, and suggests that long-term control of metabolic dysregulation, rather than acute lowering of glucose, is essential for improving survival.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11302422/v1",
+    "date": "2026-11-06",
+    "authors": "Traven A, Stölting H, Ghoshal A, Weerasinghe H, Wu Y, Rusu P, Multari D, Jeppe K, Barlow C, Schittenhelm R, O’Sullivan K, Mu A, Rose A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360304",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2227,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11302422/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a4a791c74b6c16609b8ffe4ebe1921c0e7aca434697f80f0552c4811c00c06a9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:36:37.107152+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f40d92bfc195f650a7bfb043487aa7b3e2574561b137b750ff6302d5eec32d71",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:36:37.107152+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2型糖尿病の既往は免疫調節不全を引き起こし、致死的な真菌感染症の封じ込めを困難にする。",
+    "abstract_ja": "要旨    グルコース代謝は抗菌防御を可能にする一方で、病原体の増殖や免疫逃避にも寄与している。グルコース代謝の主要な疾患である2型糖尿病（T2D）は、メカニズムが十分に解明されていない機序により、Candida albicans感染の転帰を悪化させる。本研究では、T2Dの遺伝的および食事性動物モデルを用い、血流中C. albicans感染後、T2D動物において複数のT2D病因にわたり疾患が著しく増悪することを示した。肥満のみ（明らかな高血糖を伴わない場合）でもC. albicans疾患を悪化させるのに十分であるが、肥満かつ明らかな高血糖状態にあるT2D宿主における重症度を完全に再現することはできない。メカニズム解析の結果、病原体因子と宿主因子の収束がT2Dにおける不良な転帰を招くことが明らかとなった。C. albicansは、グルコース利用のための転写プログラムを活性化させることで宿主の血糖コントロール不全を利用し、病原体の増殖を促進する。これに、炎症促進応答の亢進およびインターフェロンやNK細胞シグネチャーの低下を特徴とする免疫調節不全が相まって、真菌の増殖を抑制する宿主の機能不全を引き起こす。さらに、感染時の血糖値ではなく、生涯にわたる代謝調節不全が感染の不良な転帰を招くことを示した。本研究は、T2Dにおける真菌感染の悪化をもたらす宿主および病原体のメカニズムを解明し、代謝性疾患における真菌感染を理解するための豊富なマルチオミクスリソースを提供するとともに、血糖値の急性低下ではなく、代謝調節不全の長期的な制御が生存率向上に不可欠であることを示唆している。"
   }
 ]
