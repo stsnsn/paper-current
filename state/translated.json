@@ -222243,5 +222243,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "階層的タンパク質機能予測のための量子機械学習モデルのマッチング制御ベンチマーク",
     "abstract_ja": "要旨　タンパク質機能の予測には、限定的な実験的アノテーションしか持たない配列に対して、階層的なGene Ontology (GO) タームを割り当てる必要がある。本研究では、各モデルを、そのアーキテクチャまたは入力表現に適合させた古典的対照モデルと比較することで、量子機械学習がこのタスクを改善できるかを検証した。変分回路、量子特徴量、およびフィデリティカーネルにわたる5つの量子モデルを、CAFA6トレーニングリリースの40,000個のタンパク質を対象に、凍結された480次元ESM-2埋め込み、180個のGOターム、および内部的にクラスター非重複な訓練・検証・テスト分割を用いて評価した。カーネル帯域幅は、訓練専用の濃縮スクリーニング（Gate-0）を通じて選定され、このスクリーニングではカーネルエントリごとに必要となるショット数も推定された。5つのシードにおいて、スタンドアロンの量子モデルは、アスペクト平均最大F値で適合対照モデルを0.0023～0.0847ポイント下回った。48層の再アップロードカーネルが採択されたのは2つのシードのみであり、いずれのシードでも性能が低下した。変分回路を凍結しても性能は向上しなかった。量子予測と古典的予測の後期融合は、コサイン最近傍法において0.0034ポイント改善したが、カーネルレベルの混合では純粋に古典的な重みが選択され、融合スコア（0.6697）は古典的RBF最近傍モデル（0.6719）を下回る結果となった。有限ショットシミュレーションでもこの順位は維持されたが、量子カーネルリッジモデルはショットノイズの影響を受けやすかった。これらの結果から、本ベンチマークにおいてスタンドアロンの量子優位性を示す証拠は得られなかった。融合による向上は相補的な予測誤差と整合的であるが、そのメカニズムについては、適合させた古典的アンサンブルとの比較による検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11571067/v1",
+    "title": "Fast Protein Crystal detection and classification using Detectron2 and gaussian mixture models for continuous Bioprocessing",
+    "abstract": "Abstract  The fast and accurate detection of protein crystals is essential in the biopharmaceutical industry. This work presents a unified approach that integrates Detectron2-based instance segmentation with optimized image pre-processing and Gaussian Mixture Model clustering. Protein crystallization underpins structural biology and drug discovery, yet manual inspection of microscopy images is time-consuming, subjective, and error-prone. We developed an automated end-to-end pipeline for crystal detection and characterization on microfluidic platforms. The dataset contains 1,860 images, with 382 annotated, for instance segmentation. Baselines including YOLOv3 and edge-based methods, struggle in high-density conditions and produce false positives from artifacts. Models Detectron2 Mask R-CNN ResNet-101–FPN, achieving a high average statistical metric, the Dice Score of 0.90 while maintaining a false-positive rate below 5\\%, as confirmed through expert validation. A GMM module in PCA-reduced features identifies four clusters with weights [0.5926, 0.1650, 0.2252, 0.0172], reflecting morphology patterns. The framework enables accurate crystal measurement and morphology analysis, achieving 92\\% agreement with expert annotations and fewer than 5\\% false-positive detections during validation, thereby reducing observer-dependent bias and supporting high-throughput crystallisation screening. Improves reproducibility and efficiency, supports data-driven structural biology, and rational drug design, enabling faster protein structure determination and therapeutic discovery..",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11571067/v1",
+    "date": "2026-11-03",
+    "authors": "Kuhn R, Horacek F, Kumari P, Patel MN, Adedokun O, Bano S, Pancholi K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356403",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "classification",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2546,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11571067/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "86efa8ea50119287a9eb0e81a6a6e24667af70eeaf6d59b2d96e7d744b71c284",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:38:54.277862+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1aa5a9bee6c3ad6a218400f31bd9bff4fc8da3f9c06f46e84b8ca936766d5e01",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:38:54.277862+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "連続バイオプロセスにおけるDetectron2およびガウス混合モデルを用いた高速なタンパク質結晶の検出と分類",
+    "abstract_ja": "要旨　バイオ医薬品産業において、タンパク質結晶の迅速かつ高精度な検出は不可欠である。本研究では、Detectron2に基づくインスタンスセグメンテーションと、最適化された画像前処理およびガウス混合モデル（GMM）クラスタリングを統合した統一的アプローチを提案する。タンパク質結晶化は構造生物学および創薬の基盤となるが、顕微鏡画像の手動解析は時間がかかり、主観的であり、誤りが生じやすい。我々は、マイクロ流体プラットフォーム上での結晶検出および特性解析のための自動エンドツーエンドパイプラインを開発した。データセットには1,860枚の画像が含まれており、そのうち382枚にインスタンスセグメンテーションのアノテーションが施されている。YOLOv3やエッジベースの手法を含むベースラインは、高密度条件下で性能が低下し、アーティファクトによる偽陽性を発生させる。モデルにはDetectron2、Mask R-CNN、ResNet-101–FPNを採用し、専門家による検証を通じて、偽陽性率を5\\%未満に抑えつつ、高い平均統計指標であるDice Score 0.90を達成した。PCAで低減された特徴量におけるGMMモジュールは、形態パターンを反映した重み [0.5926, 0.1650, 0.2252, 0.0172] を持つ4つのクラスターを同定した。本フレームワークは、高精度な結晶測定と形態解析を可能にし、検証において専門家のアノテーションと92\\%の一致率を達成し、偽陽性検出を5\\%未満に抑えることで、観察者依存のバイアスを低減し、ハイスループットな結晶化スクリーニングを支援する。これにより、再現性と効率性が向上し、データ駆動型構造生物学および合理的創薬が支援され、タンパク質構造のより迅速な決定と治療薬の発見が可能になる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763748",
+    "title": "Proteolytic feedback of quorum sensing promotes infection by  Pseudomonas aeruginosa",
+    "abstract": "ABSTRACT  Quorum sensing (QS) enables bacteria to coordinate collective behaviors in response to population density. However, the mechanisms by which QS circuits are reset or attenuated remain poorly understood. In  Pseudomonas aeruginosa , the LuxR-type transcription factor RhlR controls virulence gene expression at high cell density, requiring both its cognate acyl-homoserine lactone signal and the accessory protein PqsE for full activity. Here, we show that RhlR abundance is actively controlled by ATP-dependent proteolysis through a self-limiting negative feedback loop. We identify an N-terminal degron within RhlR that is protected from protease recognition by PqsE binding and is required for degradation by both the Lon and the ClpP1-ClpP2 protease complex. Removal of this degron stabilizes RhlR, advancing the timing of QS-regulated gene expression, enhancing biofilm formation, imposes a competitive fitness cost  in vitro , and reduced virulence in an acute mouse lung infection. Mechanistically, RhlR directly activates transcription of  clpP2 , encoding a subunit of the protease complex required for its own degradation, establishing a self-limiting negative feedback loop. Disruption of RhlR DNA binding stabilizes the receptor through dual effects on reduced  clpP2 expression and increased PqsE availability via the loss of RhlR- dependent repression of  pqsE . Together, these findings reveal proteolytic turnover as an underappreciated regulatory layer of QS-activation and establish a mechanism for how receptor turnover may facilitate the transition away from high-cell density states.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763748",
+    "date": "2026-11-03",
+    "authors": "Mallery CP, Fernandes SE, Schumacher ML, Pope AN, Dillow H, Mendoza AG, Jorth PA, Paczkowski JE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359015",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1484,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763748"
+    ],
+    "translation": {
+      "title": {
+        "hash": "58d89c51933a59b95ff92e48de96e0b10683697f54e016e69a5edb0cd3ee6cb1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:38:54.277862+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "813c2fb05b35f6d46b27b911f76736be5d2a0a3a2f22efe065e66e17a8fcdd6b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:38:54.277862+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クオラムセンシングのタンパク質分解フィードバックがPseudomonas aeruginosaの感染を促進する",
+    "abstract_ja": "要旨　クオラムセンシング（QS）は、細菌が個体群密度に応じて集団的な挙動を調整することを可能にする。しかし、QS回路がリセットまたは減弱するメカニズムについては、依然として十分に解明されていない。Pseudomonas aeruginosaにおいて、LuxR型転写因子RhlRは、高細胞密度条件下で病原性遺伝子の発現を制御しており、その完全な活性には同族のアシルホモセリンラクトンシグナルとアクセサリータンパク質PqsEの両方が必要である。本研究では、RhlRの量が、自己制限的な負のフィードバックループを介したATP依存性タンパク質分解によって能動的に制御されていることを示す。我々は、RhlR内に、PqsEの結合によってプロテアーゼによる認識から保護され、LonおよびClpP1-ClpP2プロテアーゼ複合体の双方による分解に必要とされるN末端デグロンを同定した。このデグロンを除去するとRhlRが安定化し、QS制御遺伝子発現のタイミングが前進し、バイオフィルム形成が促進され、in vitroで競合的適応度コストが課され、マウスの急性肺感染症において病原性が低下する。機構的には、RhlRは自身の分解に必要なプロテアーゼ複合体のサブユニットをコードするclpP2の転写を直接活性化し、自己制限的な負のフィードバックループを形成する。RhlRのDNA結合が阻害されると、clpP2発現の低下と、RhlR依存的なpqsE抑制の喪失によるPqsE利用能の向上という二重の効果を通じて、受容体が安定化する。以上の知見を総合すると、タンパク質分解によるターンオーバーがQS活性化における過小評価されてきた調節層であることが明らかになり、受容体ターンオーバーが高細胞密度状態からの移行をいかに促進し得るかというメカニズムが確立された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763553",
+    "title": "Marine oil snow formation in microcosm incubations of artificial seawater at 4 °C",
+    "abstract": "Abstract   An oil spill in the Arctic would have far-reaching impacts on the environment, the biota, and the Inuit communities that depend on this unique ecosystem for their livelihoods. Due to the rapid retreat of sea ice in the region, the Arctic is becoming more vulnerable to oil spills. Since microorganisms are the first responders to oil contamination, understanding their behavior is critical for designing bioremediation approaches tailored to Arctic conditions. In this study, we conducted microcosm experiments at 4 °C in the dark to simulate an Arctic oil spill, using crude oil and diesel as hydrocarbon sources. Biostimulation was tested with the addition of nutrients NaNO  3 and KH  2 PO  4 , and soy lecithin–Tween 80 dissolved in ethanol as an alternative dispersant. Microcosms were placed on tube rollers at 3 rpm to mimic natural wave action and run with appropriate controls to assess microbial community shifts. Our objectives were to characterize the early microbial succession associated with oil degradation and marine oil snow (MOS) formation, and to determine how nutrients, dispersants, oil type (crude vs. diesel), photochemical aging (fresh vs. weathered), and oil concentration influence these processes.  We observed that the combined effect of nutrients and dispersant resulted in rapid MOS formation, occurring as early as 30 minutes after the initial setup. Microbial taxa exhibited varying tolerance to different concentrations of the same oil, and the dominant hydrocarbon degraders in fresh diesel treatments were distinctly different from those in weathered diesel. Furthermore, the nutrient–dispersant treatment promoted an earlier succession of oil-degrading taxa compared to nutrient-only or dispersant- only treatments. Together, these results highlight the importance of cold-adapted microbial communities in driving early oil degradation and MOS formation in Arctic waters, and they provide insights relevant to the development of Arctic-specific bioremediation strategies.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763553",
+    "date": "2026-11-03",
+    "authors": "Vidanage T, Collins RE.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359001",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1485,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763553"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bb9e0323c309858f476aa055894c52d7a20213f4a32c3511e4800c9aadd9a0d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:38:54.277862+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9a6e37890dafd5c414cc7aaebce1c8a4a24cefe5a1bff14c60f5ea4fef4760ed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:38:54.277862+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "4 °Cの人工海水を用いた微小環境培養における海洋性油雪の形成",
+    "abstract_ja": "要旨   北極圏における原油流出は、環境、生物相、およびこの特異な生態系に生計を依存しているイヌイットのコミュニティに広範な影響を及ぼす。同地域における海氷の急速な後退により、北極圏は原油流出に対してより脆弱になりつつある。微生物は原油汚染に対する第一対応者であるため、その挙動を理解することは、北極圏の条件に合わせた生物修復手法を設計する上で極めて重要である。本研究では、原油およびディーゼルを炭化水素源として用い、北極圏の原油流出を模擬するため、暗所で4 °Cの条件下にマイクロコスム実験を行った。栄養塩であるNaNO 3およびKH 2 PO 4の添加、ならびに代替分散剤としてエタノールに溶解させた大豆レシチン–Tween 80を用いて、生物刺激試験を実施した。マイクロコスムを3 rpmのチューブローラー上に配置して自然な波浪作用を再現し、適切な対照条件下で運転させることで、微生物群集の遷移を評価した。本研究の目的は、原油分解および海洋油雪（MOS）形成に伴う初期の微生物遷移を特性評価し、栄養塩、分散剤、原油の種類（原油対ディーゼル）、光化学的経時変化（新鮮対風化）、および原油濃度がこれらのプロセスにどのように影響するかを解明することであった。その結果、栄養塩と分散剤の複合的な効果により、初期セットアップからわずか30分後という早い段階で迅速なMOS形成が起こることが観察された。微生物分類群は、同一原油の異なる濃度に対して異なる耐性を示し、新鮮ディーゼル処理における主要な炭化水素分解菌は、風化ディーゼル処理におけるものとは明確に異なっていた。さらに、栄養塩・分散剤併用処理は、栄養塩単独または分散剤単独の処理と比較して、原油分解菌の遷移をより早期に促進した。以上の結果は、北極圏海域における初期の原油分解およびMOS形成を駆動する上で、寒冷適応型微生物群集が重要であることを浮き彫りにしており、北極圏特有の生物修復戦略の開発に関連する知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763723",
+    "title": "cGAS integrates Toll-like receptor signaling in platelets to promote thromboinflammation",
+    "abstract": "Thromboinflammation is driven by innate immune signaling and promotes tissue injury during sepsis. Activation of platelets by bacterial products and alarmins amplifies inflammation, coagulation, and thrombotic dysfunction. However, the mechanisms by which these diverse inflammatory signals converge to elicit common platelet responses remain largely undefined. Mitochondria are key integrators of cellular stress responses and can activate innate immune pathways through the release of mitochondrial DNA and engagement of the DNA sensor cGAS. We therefore hypothesized that stimulation of innate immune receptors generates endogenous cGAS ligands within platelets, providing a unifying mechanism by which distinct inflammatory cues converge on cGAS-STING signaling. Here, we demonstrate that activation of TLR4, TLR1/2, and TLR5 engages a platelet-intrinsic mtDNA-cGAS-STING axis that promotes platelet activation. In a model of endotoxemia, genetic deletion of cGAS reduced platelet activation, thrombocytopenia, pyroptosis and the early systemic inflammatory response. Platelet transfer experiments further established that platelet-intrinsic cGAS is sufficient to amplify inflammatory responses  in vivo . Mechanistically, we demonstrated that cytosolic accumulation of mtDNA and activation of cGAS-STING signaling pathway in platelets are dependent on mitochondrial calcium uniporter (MCU) and correlated with the loss of mitochondrial membrane potential and the production of mitochondrial reactive oxygen species. In contrast, canonical platelet agonists activated platelets independently of cGAS and failed to induce substantial cytosolic mtDNA accumulation. Importantly, this signaling architecture was conserved in human platelets, where TLR1/2-mediated activation required MCU- and STING-dependent signaling, whereas responses to thrombin receptor-activating peptide and collagen-related peptide remained largely unaffected. Together, these findings identify cGAS as an intracellular signal integration node that allows diverse innate immune receptors to converge on a common platelet activation pathway through sensing of mitochondria-derived DNA, allowing a rapid platelet response to microbial products.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763723",
+    "date": "2026-11-03",
+    "authors": "Bidias AR, Arsenault L, Fleury S, Welman M, Osouf M, Germain M, Pernet E, Lordkipanidzé M, Pepin G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358964",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1488,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763723"
+    ],
+    "translation": {
+      "title": {
+        "hash": "85360e978c64bcbc084cf2027f40033a6f8c280de3a7b84a84e313f1ee73dca0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:38:54.277862+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5ff35df7b2a3e083dd20d4d359c9e5b02cc4e1afa69c4fa879f1f0efff4df061",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:38:54.277862+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "cGASは血小板におけるToll様受容体シグナル伝達を統合し、血栓性炎症を促進する。",
+    "abstract_ja": "血栓性炎症は自然免疫シグナル伝達によって駆動され、敗血症時に組織損傷を促進する。細菌産物やアラミンによる血小板の活性化は、炎症、凝固、および血栓形成機能障害を増幅させる。しかし、これら多様な炎症シグナルが収束して共通の血小板応答を惹起する機序は、大部分が未解明のままである。ミトコンドリアは細胞ストレス応答の重要な統合因子であり、ミトコンドリアDNAの放出およびDNAセンサーcGASの関与を通じて、自然免疫経路を活性化することができる。そこで我々は、自然免疫受容体の刺激が血小板内で内因性cGASリガンドを生成し、異なる炎症シグナルがcGAS-STINGシグナル伝達に収束するための統一的な機序を提供するという仮説を立てた。本研究では、TLR4、TLR1/2、およびTLR5の活性化が、血小板固有のmtDNA-cGAS-STING軸を活性化し、血小板の活性化を促進することを実証した。エンドトキシン血症モデルにおいて、cGASの遺伝的欠損は、血小板活性化、血小板減少症、パイロトーシス、および初期の全身性炎症応答を減弱させた。血小板移入実験により、血小板固有のcGASがin vivoにおいて炎症応答を増幅させるのに十分であることがさらに確認された。機序面では、血小板におけるmtDNAの細胞質蓄積およびcGAS-STINGシグナル伝達経路の活性化が、ミトコンドリアカルシウムユニポーター（MCU）に依存し、ミトコンドリア膜電位の喪失およびミトコンドリア活性酸素種の産生と相関することを実証した。対照的に、古典的な血小板アゴニストはcGASとは独立して血小板を活性化し、顕著な細胞質mtDNA蓄積を誘導しなかった。重要な点として、このシグナル伝達構造はヒト血小板においても保存されており、TLR1/2介在性の活性化にはMCUおよびSTING依存的なシグナル伝達が必要であった一方、トロンビン受容体活性化ペプチドおよびコラーゲン関連ペプチドに対する応答はほとんど影響を受けなかった。以上の知見を総合すると、cGASは、ミトコンドリア由来DNAの感知を通じて多様な自然免疫受容体が共通の血小板活性化経路に収束することを可能にする細胞内シグナル統合ノードであり、これにより微生物産物に対する迅速な血小板応答が可能になることが明らかになった。"
   }
 ]
