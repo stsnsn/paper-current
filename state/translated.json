@@ -220327,5 +220327,320 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "宿主－微生物叢相互作用の再活性化：再活性化生態学と微生物叢移植を組み合わせた時間的局所適応の検証",
     "abstract_ja": "宿主関連マイクロバイオームは、適応度に影響を与え、環境変化に迅速に反応し、宿主の適応に寄与する可能性がある。しかし、歴史的な宿主遺伝子型とそれに関連する微生物群集を実験的に比較できる例が稀であるため、宿主とマイクロバイオームの関連性が生態学的時間スケールで適応的に進化するかどうかを解明することは依然として困難である。復活生態学は、休眠状態の繁殖子から歴史的な宿主遺伝子型を復元する手段を提供し、一方でマイクロバイオーム移植は、微生物群集が宿主の性能に及ぼす影響を検証するための実験的アプローチを提供する。これらのアプローチを組み合わせることで、宿主とマイクロバイオームの関連性における時間的局所適応を直接的に検証できる可能性がある。淡水ミジンコは、休眠卵が湖底堆積物の中で生存し続けることができ、歴史的な宿主遺伝子型の復活を可能にするため、有望なモデルとなる。しかし、休眠卵に関連する微生物叢は、祖先宿主、湖水、周囲の堆積物など複数の供給源に由来する場合があり、歴史的に関連していた微生物群集の復元を複雑にする。本稿では、堆積物アーカイブ、宿主の復活、マイクロバイオーム特性解析、および相互移植実験を組み合わせた枠組みを提示し、歴史的な宿主と現代の宿主が、それぞれ対応する時代のマイクロバイオームにおいてより優れた性能を示すかどうかを検証する。また、時間的局所適応を微生物の環境効果から区別するために必要な概念的予測、方法論的課題、実験的制御、宿主遺伝子型特異性、および群集組成の変化について論じる。この枠組みは、復活生態学を宿主の進化の枠を超えて拡張し、宿主とマイクロバイオームの相互作用の歴史的進化を実験的に調査することを可能にするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763693",
+    "title": "Helicase family proteins promote antiviral ADP-ribosylation of DNA purines",
+    "abstract": "DarTG defense systems studied to date contain a DarT1 or DarT2 toxin that blocks phage replication by ADP-ribosylating DNA and a NADAR or macrodomain antitoxin, DarG, that reverses this modification at homeostasis. Here, we identify additional DarTG subfamilies, one of which comprises a DarT3 toxin, an ADP-ribosylhydrolase (ARH)-domain antitoxin, and a helicase family protein, DarH. The  Escherichia coli DarHTG3 system confers broad phage defense, requires DarH and, unlike previously characterized DarTG systems, modifies adenine. Characterization of additional DarH-containing DarTG systems reveals that a subset also target guanine. Our data support a model in which ADP-bound DarH functions as a processivity factor by recruiting DarT to its single-stranded DNA substrate and allowing for ADP-ribosylation of multiple target sites. These findings reveal how a helicase family protein regulates an antiviral effector by promoting DNA engagement rather than unwinding and thereby expanding the functional repertoire of helicase family proteins in bacterial immunity.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763693",
+    "date": "2026-11-03",
+    "authors": "Griesman T, Arifah AQ, Tomko EJ, Tan Y, Tsao N, Trotter JT, Khochare SS, Carlson NA, Mosammaparast N, Zhang D, Galburt EA, Patinios C, LeRoux M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359013",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 987,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763693"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3eff10a2ee4b525d3044e4dadd289817799f97cb5e19b4ae3f54aa66ee9c02f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:18:59.205936+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "80539b4deb9c3a20083315b4cb8c7ccbe0e5fa4cfed32e20ba121ce1ccf28bf1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:18:59.205936+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヘリカーゼファミリータンパク質は、DNAプリンの抗ウイルス性ADPリボシル化を促進する。",
+    "abstract_ja": "これまでに研究されてきたDarTG防御システムは、ADPリボシル化DNAによってファージの複製を阻害するDarT1またはDarT2毒素と、恒常性維持下でこの修飾を逆転させるNADARまたはマクロドメイン抗毒素DarGを有している。本研究では、さらなるDarTGサブファミリーを同定した。そのうちの一つは、DarT3毒素、ADPリボシルヒドロラーゼ（ARH）ドメイン抗毒素、およびヘリカーゼファミリータンパク質DarHから構成される。Escherichia coliのDarHTG3システムは広範なファージ防御能を付与し、DarHを必要とし、既報のDarTGシステムとは異なりアデニンを修飾する。DarHを含む追加のDarTGシステムの特性解析により、そのサブセットがグアニンも標的とすることが明らかになった。我々のデータは、ADP結合型DarHがDarTを一本鎖DNA基質へとリクルートし、複数の標的部位のADPリボシル化を可能にすることで、プロセシビティ因子として機能するというモデルを支持している。これらの知見は、ヘリカーゼファミリータンパク質が、巻き戻しではなくDNA結合を促進することで抗ウイルスエフェクターを調節していることを明らかにしており、これにより細菌免疫におけるヘリカーゼファミリータンパク質の機能的レパートリーが拡大する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763580",
+    "title": "Prokaryotic Community Structures in the Bering and Chukchi Seas",
+    "abstract": "Bacteria are essential to marine ecosystems as they remineralize organic matter, cycle carbon, nitrogen, and other key elements, and support higher trophic levels through food webs. The Bering and Chukchi Seas off the coast of Alaska are among the most productive regions in the world, with intense seasonal algal blooms, yet their bacterial communities remain poorly characterized, and the region is warming rapidly as heat transport from the Pacific Ocean increases. Here, we used 16S rRNA gene amplicon sequencing of 181 samples collected on 0.2 µm filters at three depths (surface, middle, and bottom) across 62 stations during the Arctic Shelf Growth, Advection, Respiration and Deposition Rate Experiments (ASGARD) cruise in June 2017, when sea surface temperatures were anomalously warm. Hierarchical clustering of amplicon sequence variant (ASV) relative abundances resolved 11 sample clusters in three divisions, all dominated by Alphaproteobacteria, Gammaproteobacteria, and Bacteroidia. Community structure was related to water mass, salinity, and bloom stage, but not to depth. Clusters ranged from Gammaproteobacteria-dominant, Bacteroidia-poor assemblages in warm and cool Shelf Water (Division A) to Bacteroidia-rich assemblages spanning pre- to post-bloom conditions (Divisions B and C). In distance-based redundancy analysis, temperature, salinity, dissolved oxygen, nitrate, and fluorescence together explained 14.8 % of the variation in community composition, with salinity the strongest contributor. These results indicate that water-mass origin, physicochemical conditions, and bloom stage jointly shape bacterial communities, and that changes in temperature, salinity, and the magnitude and timing of blooms could substantially alter bacterial communities of this Pacific gateway to the Arctic.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763580",
+    "date": "2026-11-03",
+    "authors": "Shibue R, Collins RE.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358993",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 988,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763580"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dbea8182d126e096d630f276dd984b3dc8a973f398610304e7ee2d0d78922e5d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:18:59.205936+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "049db9bfed9b8ed04711f77cbc50675de0169acc9e6d3a43afe51f8818f0d250",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:18:59.205936+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ベーリング海およびチュクチ海における原核生物群集構造",
+    "abstract_ja": "細菌は、有機物の再無機化、炭素・窒素およびその他の主要元素の循環、ならびに食物網を通じた上位栄養段階の維持を担うため、海洋生態系において不可欠な存在である。アラスカ沖のベーリング海およびチュクチ海は、激しい季節的な藻類ブルームが発生する世界有数の生産性の高い海域であるが、細菌群集の特性は依然として十分に解明されておらず、太平洋からの熱輸送の増加に伴い、同海域は急速に温暖化している。本研究では、海面水温が異常に高かった2017年6月の北極棚成長・移流・呼吸・沈着速度実験（ASGARD）航海において、62地点の3つの水深（表層、中層、底層）で0.2 µmフィルターを用いて採取した181サンプルに対し、16S rRNA遺伝子アンプリコンシーケンシングを実施した。アンプリコン配列変異体（ASV）の相対存在量の階層的クラスタリングにより、3つの区分に分かれた11のサンプルクラスターが同定され、いずれもAlphaproteobacteria、Gammaproteobacteria、およびBacteroidiaが優占していた。群集構造は、水塊、塩分濃度、およびブルーム段階と関連していたが、水深とは関連していなかった。クラスターは、温暖および冷涼な棚水におけるGammaproteobacteria優占・Bacteroidia貧弱なアセンブラージュ（区分A）から、ブルーム前後の条件にわたるBacteroidia富裕なアセンブラージュ（区分BおよびC）まで多岐にわたっていた。距離ベースの冗長性解析では、水温、塩分濃度、溶存酸素、硝酸塩、および蛍光が合わせて群集組成の変動の14.8%を説明し、中でも塩分濃度が最も強い寄与を示した。これらの結果は、水塊の起源、物理化学的条件、およびブルーム段階が共同して細菌群集を形成しており、水温、塩分濃度、ならびにブルームの規模と時期の変化が、北極への太平洋の玄関口であるこの海域の細菌群集を著しく変化させ得ることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763219",
+    "title": "Making sense of chaos: replication and segregation defects in the yeast    mcm4  Chaos    3  mutant",
+    "abstract": "Genome instability is a defining feature of cancer and is strongly influenced by alterations in the fidelity and timing of DNA replication. The conserved Mini-Chromosome Maintenance (MCM 2-7) helicase is a central component of the eukaryotic DNA replication machinery, playing critical roles in origin licensing and activation. Genetic screens for genome instability mutations in mice identified  mcm4  Chaos3 , a hypomorphic allele of  MCM4 associated with the formation of micronuclei and tumorigenesis, suggesting that the  mcm4  Chaos3 allele causes genome instability. To define the mechanistic basis of this instability, we examined the effects of the corresponding mutation in  Saccharomyces cerevisiae. We found that  mcm4  Chaos3 selectively compromises origin firing at a subset of early S-phase origins, with pronounced effects at many centromere-proximal origins. Chromosome V, containing the sensitive centromere-adjacent  ARS510, exhibited elevated loss rates that were rescued by replacement with the robust early-firing origin  ARS305 , restoring both origin activity and chromosome stability. Together these findings demonstrate that  mcm4  Chaos3 compromises genome stability by impairing a subset of early, centromere-proximal origins that are intrinsically sensitive to origin activation capacity. Our results establish that robust origin function near centromeres is critical for accurate chromosome segregation and reveal how subtle perturbations in helicase function can lead to chromosome instability.  Author Summary  The defining feature of cell division is the distribution of replicated chromosomes to the two daughter cells. Each chromosome contains a single centromere that is essential for their faithful inheritance. But before a cell divides, it must duplicate its DNA. DNA replication begins at sites called origins that differ in their activity and regulation. We studied a mutant version of Mcm4, a component of the molecular machinery that unwinds DNA during replication, to determine how compromised replication affects chromosome inheritance. This mutation was first discovered in mice, where it causes chromosome instability and cancer. Using Baker’s yeast, we found that the mutation reduces activity at a subset of origins, with origins near centromeres being preferentially affected. We also found an approximately three-fold increases in the rate that a test chromosome (chr V) is lost. These results suggest that the  mcm4  Chaos3 mutation can promote genome instability by compromising timely replication of centromeres. Replacing a sensitive origin near the centromere with a robust origin from elsewhere in the genome restored local replication activity and rescued chromosome loss to normal levels. This rescue depended on origin-associated binding sites and a centromere-associated protein, indicating that both origin features and chromosomal context contribute to replication activity. Our findings show that selective defects in replication initiation can compromise chromosome inheritance and that restoring activity at a single centromere-proximal origin can suppress this instability.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763219",
+    "date": "2026-11-03",
+    "authors": "Verhey JI, Moore AK, Armstrong JO, Alvino GM, Dunham MJ, Brewer BJ, Raghuraman MK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358992",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 989,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.763219"
+    ],
+    "translation": {
+      "title": {
+        "hash": "711826c02a485fd18016c11878d9a76c9b678458a5c2c996ecaa90bb5e3632e1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:18:59.205936+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7474babb0b9c8b98d5a5e69af78a3b88c9d5f737ad128551826eb04095aa6b50",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:18:59.205936+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カオスの解明：酵母mcm4変異体における複製および分離異常",
+    "abstract_ja": "ゲノム不安定性はがんの決定的な特徴であり、DNA複製の忠実度およびタイミングの変化に強く影響される。保存されたミニ染色体維持（MCM 2-7）ヘリカーゼは、真核生物のDNA複製機構の中核的な構成要素であり、複製起点のライセンス付与と活性化において重要な役割を担っている。マウスを用いたゲノム不安定性変異の遺伝学的スクリーニングにより、微小核の形成および腫瘍形成に関連するMCM4の低形態性アレルであるmcm4 Chaos3が同定され、mcm4 Chaos3アレルがゲノム不安定性を引き起こすことが示唆された。この不安定性の機序的基盤を明らかにするため、我々はSaccharomyces cerevisiaeにおける対応する変異の影響を検討した。その結果、mcm4 Chaos3が初期S期の複製起点の一部において複製起点の発火を選択的に阻害し、特に多くのセントロメア近傍の複製起点で顕著な影響を及ぼすことが判明した。感受性の高いセントロメア隣接ARS510を含む第V染色体では、消失率の上昇が認められたが、これは堅牢な早期発火型複製起点であるARS305への置換によって救済され、複製起点の活性と染色体安定性の双方が回復した。これらの知見を総合すると、mcm4 Chaos3は、複製起点の活性化能に対して本質的に感受性の高い初期セントロメア近傍の複製起点の一部を損なうことで、ゲノム安定性を低下させることが示される。本研究の結果は、セントロメア近傍における堅牢な複製起点機能が正確な染色体分離に不可欠であることを立証し、ヘリカーゼ機能のわずかな摂動がいかにして染色体不安定性を引き起こし得るかを明らかにした。著者要旨 細胞分裂の決定的な特徴は、複製された染色体が2つの娘細胞に分配されることである。各染色体には、忠実な遺伝に不可欠な単一のセントロメアが存在する。しかし、細胞が分裂する前に、DNAを複製しなければならない。DNA複製は、活性と調節が異なる「複製起点」と呼ばれる部位で開始される。我々は、複製時にDNAをほどく分子機構の構成要素であるMcm4の変異体を用い、複製の阻害が染色体遺伝にどのような影響を及ぼすかを検討した。この変異はマウスにおいて初めて発見され、そこでは染色体不安定性とがんを引き起こす。Baker’s酵母を用いた解析により、この変異が一部の複製起点の活性を低下させ、特にセントロメア近傍の複製起点が優先的に影響を受けることが判明した。また、試験用染色体（chr V）の消失率が約3倍に増加することも分かった。これらの結果は、mcm4 Chaos3変異がセントロメアの適時な複製を損なうことで、ゲノム不安定性を促進し得ることを示唆している。セントロメア近傍の感受性の高い複製起点を、ゲノム内の別の部位にある堅牢な複製起点に置換したところ、局所的な複製活性が回復し、染色体の消失は正常レベルまで救済された。この救済は、複製起点関連の結合部位およびセントロメア関連タンパク質に依存しており、複製起点の特性と染色体コンテキストの両方が複製活性に寄与していることを示している。我々の知見は、複製開始における選択的な欠陥が染色体遺伝を損なう可能性があること、および単一のセントロメア近傍の複製起点の活性を回復させることで、この不安定性を抑制できることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763835",
+    "title": "Dual role of RBM3 in PEDV infection: stabilization of viral RNA and upregulation of the entry factor HSPA5",
+    "abstract": "RBM3, a member of the cold shock protein family, functions as an RNA chaperone that stabilizes target transcripts by binding to their untranslated regions (UTRs). Porcine epidemic diarrhea virus (PEDV) is an enteric coronavirus that poses a serious threat to the swine industry, and its replication heavily depends on its genomic and subgenomic RNAs, making these RNAs potential targets for host RNA binding proteins. In this study, we show that RBM3 promotes PEDV replication through a dual mechanism. On one hand, RBM3 exhibits a binding preference for the viral 3’UTR, which prolongs the half-life of viral RNA and thereby promotes PEDV proliferation. RBM3 also interacts with the PEDV nucleocapsid (N) protein and replication-associated double-stranded RNA (dsRNA) signals, suggesting that RBM3 may be associated with viral replication complexes, though its contribution to their functional integrity remains to be determined. On the other hand, RBM3 increases HSPA5 promoter activity and HSPA5 mRNA levels, linking RBM3 to HSPA5, a host factor known to facilitate PEDV attachment and internalization. These two mechanisms together provide a mechanistic basis for efficient PEDV infection. Our findings identify RBM3 as a positive host regulator of PEDV and establish, for the first time, a functional link between RBM3 and HSPA5, offering new insights into coronavirus host interactions and suggesting RBM3 as a potential target for antiviral intervention.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763835",
+    "date": "2026-11-03",
+    "authors": "Li S, Zeng Y, Li J, Liu Y, Liu H, Yang X, Qin W, Li T, Chen Z, Liu J, Tong G, Cao X, Kong N, Shan T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357670",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1005,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763835"
+    ],
+    "translation": {
+      "title": {
+        "hash": "70b7b8e804dba86bbf30553188b8ac63289359c9e9b8af9993e897e051ba319a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:18:59.205936+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c4f6724821935d7c68083744edcecd73b264a61c6a4dd52fac51fbe9473a386c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:18:59.205936+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PEDV感染におけるRBM3の二重の役割：ウイルスRNAの安定化と侵入因子HSPA5の発現上昇",
+    "abstract_ja": "コールドショックタンパク質ファミリーの一員であるRBM3は、標的転写産物の非翻訳領域（UTR）に結合することでそれらを安定化させるRNAシャペロンとして機能する。豚流行性下痢ウイルス（PEDV）は養豚業に深刻な脅威をもたらす腸管コロナウイルスであり、その複製はゲノムおよびサブゲノムRNAに大きく依存しているため、これらのRNAは宿主RNA結合タンパク質の潜在的な標的となる。本研究では、RBM3が二重のメカニズムを介してPEDVの複製を促進することを示す。一方で、RBM3はウイルス3’UTRへの結合選好性を示し、これによりウイルスRNAの半減期が延長され、PEDVの増殖が促進される。また、RBM3はPEDVのヌクレオカプシド（N）タンパク質および複製関連二本鎖RNA（dsRNA）シグナルとも相互作用しており、RBM3がウイルス複製複合体に関与している可能性が示唆されるが、その機能的完全性への寄与については今後解明される必要がある。他方で、RBM3はHSPA5プロモーター活性およびHSPA5 mRNAレベルを上昇させ、RBM3を、PEDVの付着と内部化を促進することが知られている宿主因子であるHSPA5に関連付ける。これら2つのメカニズムが相まって、効率的なPEDV感染の機構的基盤となる。本研究の知見は、RBM3をPEDVの正の宿主調節因子として同定するとともに、RBM3とHSPA5の機能的な関連性を初めて明らかにし、コロナウイルスと宿主の相互作用に関する新たな知見を提供するとともに、RBM3を抗ウイルス介入の潜在的な標的として示唆するものである。"
   }
 ]
