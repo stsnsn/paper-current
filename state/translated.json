@@ -212352,5 +212352,318 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "splicelogicを用いたトランスクリプトセットからのスプライシング事象の推定",
     "abstract_ja": "ロングリードRNAシーケンシングでは、全長転写産物の取得割合が高くなるため、より正確なアイソフォーム同定、新規アイソフォームの発見、およびより精緻な転写産物の使用差解析が可能となる。しかし、条件間、あるいは新規アイソフォームとアノテーション済みアイソフォームといったセット間で転写産物を比較すると、操作・要約・可視化が困難な複雑なアイソフォーム変化が生じる。さらに、一部のツールの垂直統合により、ダウンストリーム解析が特定の上流ツールの具体的な出力に依存するという問題がある。このギャップを解消するため、我々は、転写産物セットの比較を、エクソンスキッピング、選択的スプライシング部位、イントロン保持、選択的転写開始・終了部位といった個別のスプライシング事象に変換することで、生物学的に解釈可能にするR/Bioconductorパッケージ「splicelogic」を開発した。splicelogicは、既存のRNA-seqワークフローやツールと容易に統合できるよう設計されている。splicelogicの機能はモジュール式で可読性が高く、拡張性にも優れているため、ユーザーはコアロジックを独自の科学的な問いや新規のスプライシング定義に容易に適応させることができる。転写産物の変化から解釈可能なスプライシング事象を得ることで、splicelogicは、要約統計や可視化に加え、RNA結合タンパク質認識部位のアノテーションを含むダウンストリーム解析を可能にする。splicelogicパッケージは公開されており、Bioconductorを通じて配布されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11598892/v1",
+    "title": "Molecular Classification of Breast Cancer Using a Cuproptosis Related Gene Panel and a Robust REO Ensemble Classifier",
+    "abstract": "Abstract  Background  Cuproptosis is a mitochondria-dependent form of regulated cell death. Its interplay with cancer metabolism can modulate tumor aggressiveness. We hypothesized that cuproptosis-related gene expression defines distinct breast cancer (BRCA) subtypes and that a relative expression ordering (REO) ensemble classifier built on a 19-gene panel (CRG19) yields a technically robust, clinically translatable tool. Methods  We curated a mechanistically grounded 19-gene panel (CRG19) and analyzed primary BRCA RNA-seq samples from TCGA (n = 986, split into training n = 838 and testing n = 148). Consensus clustering (k = 3) identified molecular subtypes. From 171 pairwise gene relations, the top 100 discriminative REO pairs (chi-square ranking) were used to build an ensemble of four machine-learning models (SVM, Random Forest, Elastic Net, XGBoost) within a nested 5x5 cross-validation framework. Tumor microenvironment (CIBERSORTx), pathway activity (GSVA), and drug sensitivity (oncoPredict/CTRP2) were evaluated. External validation was performed on an independent cohort (GSE202203, n = 3,207). Results  Consensus clustering defined three reproducible subtypes (A, B, and C) with distinct biology and clinical outcomes (p = 0.035). Subtype A was enriched for basal-like/HER2-enriched PAM50 classes, showing pronounced cell cycle activation and poorer early survival. Subtype B was predominantly luminal with active hormone signaling. Subtype C exhibited a quiescent state and the best long-term prognosis. The REO ensemble achieved high probability calibration and stability between training and test sets (KS statistics 0.12–0.14). Subtype A showed higher predicted chemosensitivity, whereas Subtypes B/C were predicted to respond better to endocrine therapy. In external validation, differential pathway patterns across subtypes were highly reproducible (all-pathway Spearman r = 0.838–0.925, weighted direction consistency = 0.947). Conclusion  The CRG19 taxonomy defines biologically and clinically distinct breast cancer subtypes. The accompanying REO ensemble classifier provides a technically robust, cross-platform tool suitable for clinical risk stratification and therapeutic decision-making.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11598892/v1",
+    "date": "2026-11-06",
+    "authors": "Shi Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360451",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "classification",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "classification",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2529,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11598892/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6ca80c22182b20066455e150eb1d39e48a37e8e8383fd1aae9765d474d88ba6a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:46:56.035450+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9f79e35178075835493596a819197b022ccddb724de5043c34ec5f6a2f9f12b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:46:56.035450+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Cuproptosis関連遺伝子パネルと頑健なREOアンサンブル分類器を用いた乳がんの分子分類",
+    "abstract_ja": "要旨  背景  クプロプトーシスは、ミトコンドリア依存性の制御された細胞死の一形態である。がん代謝との相互作用により、腫瘍の悪性度が調節され得る。我々は、クプロプトーシス関連遺伝子の発現が乳がん（BRCA）の異なるサブタイプを定義すること、および19遺伝子パネル（CRG19）に基づく相対発現順序（REO）アンサンブル分類器が、技術的に堅牢で臨床応用可能なツールとなり得るという仮説を立てた。方法  我々は機序に基づいた19遺伝子パネル（CRG19）をキュレートし、TCGAのプライマリBRCA RNA-seqサンプル（n = 986、訓練用 n = 838、検証用 n = 148に分割）を解析した。コンセンサスクラスタリング（k = 3）により分子サブタイプを同定した。171組の遺伝子間関係から、判別力の高い上位100組のREOペア（カイ二乗順位）を用い、入れ子型5×5交差検証フレームワーク内で4つの機械学習モデル（SVM、ランダムフォレスト、エラスティックネット、XGBoost）からなるアンサンブルを構築した。腫瘍微小環境（CIBERSORTx）、パスウェイ活性（GSVA）、および薬剤感受性（oncoPredict/CTRP2）を評価した。外部検証は、独立したコホート（GSE202203, n = 3,207）を用いて実施した。結果  コンセンサスクラスタリングにより、生物学的特性および臨床転帰が異なる3つの再現性のあるサブタイプ（A、B、C）が定義された（p = 0.035）。サブタイプAはbasal-like/HER2濃縮PAM50クラスに富み、顕著な細胞周期活性化と早期生存率の低下を示した。サブタイプBは主に管腔型であり、活性なホルモンシグナル伝達を有していた。サブタイプCは静止状態にあり、最良の長期予後を示した。REOアンサンブルは、訓練セットと検証セット間で高い確率較正と安定性を達成した（KS統計量 0.12–0.14）。サブタイプAは予測化学感受性が高く、一方でサブタイプB/Cは内分泌療法への反応性がより高いと予測された。外部検証において、サブタイプ間のパスウェイパターンの差異は極めて再現性が高かった（全パスウェイSpearman r = 0.838–0.925、重み付き方向一貫性 = 0.947）。結論  CRG19分類体系は、生物学的および臨床的に異なる乳がんサブタイプを定義する。付随するREOアンサンブル分類器は、臨床的リスク層別化および治療方針の決定に適した、技術的に堅牢なクロスプラットフォームツールを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.764228",
+    "title": "Proteome-wide profiling reveals compartment-specific RNA buffering of protein aggregation during stress",
+    "abstract": "Cellular adaptation to stress requires extensive remodeling of RNA metabolism. The rewiring of the RNA-protein interaction landscape and the assembly of biomolecular condensates are central to this response, yet the global stress-induced reorganization of macromolecular RNA-protein assemblies remains incompletely characterized. Here, we apply R-DeeP, a density gradient approach coupled to quantitative mass spectrometry, to profile the RNA-dependent sedimentation behaviour of the  Saccharomyces cerevisiae proteome during heat and salt stress. We demonstrate that stress triggers a profound, stress-specific reorganization of the RNA interactome. Many proteins undergo pronounced, selective shifts into high-molecular weight fractions, indicative of aggregation. RNase treatment markedly exacerbates this aggregation, consistent with the model that RNA acts as a general chaperone that keeps proteins with intrinsically disordered regions soluble. Strikingly, our data demonstrate that this protection is compartmentalised. Nuclear proteins are partially shielded from stress-induced aggregation. This protection coincides with the nuclear accumulation of RNA caused by a block of RNA export during stress, and RNase treatment abolishes this protection. Nuclear RNA retention may therefore act as a buffer that actively increases the local chaperoning capacity of the nucleus. In contrast, cytoplasmic proteins, including translation factors and ribonucleoprotein granule components, exhibit increased aggregation under stress. Fluorescence microscopy confirmed that increased biochemical aggregation in density gradients reflects changes in assembly state  in vivo . For many stress-induced aggregators, these changes are visible as spatial reorganisation in stressed cells, such as the formation of foci. Our findings suggest that cells use subcellular RNA distribution to tune the condensation and/or aggregation threshold of proteins in a compartment-specific manner.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764228",
+    "date": "2026-11-06",
+    "authors": "Seidler JF, Thelen F, Wäber NB, Weber J, Lohle L, Timm T, Lochnit G, Blom J, Goesmann A, Sträßer K, Kilchert C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361188",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2143,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.04.764228"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a8ab17224f44048cf042f06b39c23b79a859c71667a84a5c1c6a57f1ddf91b0c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:46:56.035450+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fb67a3da2b2b330134c940850d7b3b19346a6ecb4181c4b0fc1aa0bc8c270a84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:46:56.035450+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プロテオームワイドプロファイリングにより、ストレス下におけるタンパク質凝集のコンパートメント特異的なRNA緩衝作用が明らかとなった",
+    "abstract_ja": "ストレスに対する細胞の適応には、RNA代謝の広範なリモデリングが必要である。RNA-タンパク質相互作用ランドスケープの再配線と生体分子凝縮体の形成はこの応答の中核をなすが、高分子RNA-タンパク質アセンブリのストレス誘発性の全体的な再編成については、いまだ十分に解明されていない。本研究では、定量質量分析法と組み合わせた密度勾配法であるR-DeePを適用し、熱および塩ストレス下におけるSaccharomyces cerevisiaeプロテオームのRNA依存的な沈降挙動をプロファイリングした。我々は、ストレスがRNAインタラクトームの顕著かつストレス特異的な再編成を誘発することを実証した。多くのタンパク質が、凝集を示す高分子量画分への顕著かつ選択的なシフトを起こす。RNase処理はこの凝集を著しく悪化させ、これはRNAが本来的に無秩序な領域を持つタンパク質を可溶状態に維持する汎用シャペロンとして機能するというモデルと整合する。特筆すべきことに、我々のデータはこの保護機構が区画化されていることを示している。核タンパク質は、ストレス誘発性の凝集から部分的に保護されている。この保護は、ストレス時のRNA輸送の遮断によって生じるRNAの核内蓄積と一致しており、RNase処理はこの保護を消失させる。したがって、核内RNAの保持は、核の局所的なシャペロン能を積極的に高めるバッファーとして機能している可能性がある。対照的に、翻訳因子やリボ核タンパク質顆粒構成成分を含む細胞質タンパク質は、ストレス下で凝集の増加を示す。蛍光顕微鏡観察により、密度勾配における生化学的凝集の増加が、in vivoにおけるアセンブリ状態の変化を反映していることが確認された。多くのストレス誘発性凝集因子において、これらの変化はフォーカスの形成など、ストレス負荷細胞における空間的な再編成として認められる。我々の知見は、細胞が細胞内RNA分布を利用して、区画特異的な様式でタンパク質の凝縮および／または凝集の閾値を調節していることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764597",
+    "title": "Genomic signatures distinguish isolates of  Salmonella  Typhimurium from humans and livestock",
+    "abstract": "Salmonella enterica serovar Typhimurium is a major cause of human salmonellosis and livestock represent an important reservoir for human infection through the food chain. However, it remains unclear whether isolates recovered from human disease reflect the broader livestock population or constitute a subset of livestock-associated isolates characterized by specific genetic features.  Here, we analysed 1,398  S. Typhimurium genomes from human, poultry, bovine and swine isolates to evaluate whether isolates associated with human disease can be distinguished from those circulating in livestock and to identify the genetic features underlying this discrimination.  Whole-genome multilocus sequence typing profiles were converted into a gene presence/absence matrix and analysed using four machine-learning algorithms, which showed high and consistent discriminatory performance. Model performance was influenced by the phylogenetic structure of the population and by the variable distribution of human- and livestock- associated isolates across lineages of sequence type (ST) 19, the most prevalent S. Typhimurium ST. Nevertheless, within ST19, 97 genes were significantly enriched and 36 were significantly depleted in human-associated genomes relative to genomes from each of the three livestock sources. Human-enriched genes included 14 genes required for biosynthesis of the lipopolysaccharide core, the O-antigen, the T1 antigen, and six virulence factors. These genes were consistently absent from livestock-associated genomes across ST19 lineages. Conversely, human-depleted genes included the galactitol utilisation cluster and five virulence genes, which are predominantly absent in specific ST19 lineages. Overall, our findings support the existence of host-associated genomic signatures that distinguish isolates associated with human disease from those sampled from the livestock reservoir. Data Summary  This study analysed publicly available  Salmonella Typhimurium genomes; no new sequencing data were generated. Genome assemblies, associated metadata and whole-genome multilocus sequence typing (wgMLST) allelic profiles were retrieved from EnteroBase (  https://enterobase.warwick.ac.uk ). The final dataset comprised 1,398 genomes, as detailed in Table S1. Custom analysis scripts, input datasets, intermediate files and analysis outputs are available in the GitHub repository (  https://github.com/GiovanniMerici/Typhimurium_Human_vs_Animal ). These include the train/test split membership, selected model hyperparameters and per-split SHAP matrices. Software versions and analysis parameters are described in the Methods.  Impact statement  Salmonella enterica serovar Typhimurium is among the leading causes of human salmonellosis, with livestock representing important reservoirs of infection. Genomic studies have primarily focused on identifying the animal reservoirs associated with human clinical isolates, while whether these isolates represent the broader bacterial populations circulating in livestock or a genetically distinguishable subset remains comparatively underexplored. Using 1,398 genomes and four machine-learning models, we demonstrate that human-associated isolates can be distinguished from poultry, bovine, and pig isolates with high accuracy and reproducibility. Although phylogenetic structure contributed to the classification, we were able to identify specific genes significantly enriched and depleted in human-associated genomes relative to genomes from each of the three livestock sources within the most prevalent S. Typhimurium ST. Importantly, these genomic differences were biologically coherent, rather than scattered across unrelated loci, involving genes associated with surface-antigen biosynthesis and virulence. These findings extend genomic source-attribution approaches by showing that human clinical isolates represent a distinguishable subset of livestock-associated  S . Typhimurium populations. This distinction provides a complementary perspective for interpreting genomic surveillance data and highlights the potential relevance of host-associated genomic variation for understanding the relationship between livestock reservoirs and human infection.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764597",
+    "date": "2026-11-06",
+    "authors": "Merici G, Scaltriti E, Pongolini S, Tambassi M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361083",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4217,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.05.764597"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3ed9b387dae6c7e56588dc4be5d9b5000928ce52572ab7e3964a99edef6706f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:46:56.035450+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2f7ad87097dfce722010089dba9daf05fbcb9ae80def52756f2c92c7e69a54b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:46:56.035450+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムシグネチャーにより、Salmonella typhimuriumの分離株をヒトおよび家畜から識別できる",
+    "abstract_ja": "Salmonella enterica serovar Typhimuriumはヒトサルモネラ症の主要な原因菌であり、家畜は食物連鎖を通じたヒト感染の重要なリザーバーとなっている。しかし、ヒト疾患から回収された分離株が、より広範な家畜集団を反映しているのか、あるいは特定の遺伝的特徴を有し家畜関連分離株のサブセットを構成するのかについては、依然として不明である。本研究では、ヒト、家禽、ウシ、およびブタの分離株から得られた1,398件のS. Typhimuriumゲノムを解析し、ヒト疾患に関連する分離株を家畜内で循環する分離株から区別できるか、またその判別の根拠となる遺伝的特徴を特定することを試みた。全ゲノム多遺伝子座シーケンスタイピングプロファイルを遺伝子の有無マトリクスに変換し、4つの機械学習アルゴリズムを用いて解析した結果、高く一貫した識別性能が示された。モデルの性能は、集団の系統構造、および最も頻度の高いS. Typhimurium STであるシーケンスタイプ（ST）19の系統におけるヒト関連および家畜関連分離株の変動的な分布の影響を受けた。それにもかかわらず、ST19内において、3つの家畜由来ゲノムそれぞれと比較して、ヒト関連ゲノムでは97個の遺伝子が有意に濃縮され、36個の遺伝子が有意に減少していた。ヒト関連に濃縮された遺伝子には、リポ多糖コアの生合成に必要な14個の遺伝子、O抗原、T1抗原、および6つの病原性因子が含まれていた。これらの遺伝子は、ST19の系統にわたる家畜関連ゲノムからは一貫して欠落していた。対照的に、ヒト関連に減少した遺伝子には、ガラクトシトール利用クラスターと5つの病原性遺伝子が含まれており、これらは特定のST19系統において主に欠落していた。全体として、本研究の知見は、ヒト疾患に関連する分離株を家畜リザーバーから採取された分離株から区別する宿主関連ゲノムシグネチャーの存在を支持するものである。データ概要 本研究では、公開されているSalmonella Typhimuriumゲノムを解析したが、新たなシーケンシングデータは生成されなかった。ゲノムアセンブリ、関連メタデータ、および全ゲノム多遺伝子座シーケンスタイピング（wgMLST）アレルプロファイルは、EnteroBase ( https://enterobase.warwick.ac.uk ) から取得した。最終的なデータセットは、表S1に詳述されている通り1,398件のゲノムで構成されていた。カスタム解析スクリプト、入力データセット、中間ファイル、および解析出力は、GitHubリポジトリ ( https://github.com/GiovanniMerici/Typhimurium_Human_vs_Animal ) で公開されている。これには、訓練/テスト分割のメンバーシップ、選択したモデルハイパーパラメータ、および分割ごとのSHAPマトリクスが含まれる。ソフトウェアバージョンおよび解析パラメータについては、「Methods」に記載している。インパクトステートメント Salmonella enterica serovar Typhimuriumはヒトサルモネラ症の主要な原因菌の一つであり、家畜は感染の重要なリザーバーとなっている。ゲノム研究は主にヒト臨床分離株に関連する動物リザーバーの特定に焦点を当ててきたが、これらの分離株が家畜内で循環するより広範な細菌集団を代表しているのか、あるいは遺伝的に区別可能なサブセットであるのかについては、比較的十分に調査されていない。1,398件のゲノムと4つの機械学習モデルを用いて、ヒト関連分離株を家禽、ウシ、およびブタの分離株から高い精度と再現性をもって区別できることを実証した。系統構造が分類に寄与したものの、最も頻度の高いS. Typhimurium ST内において、3つの家畜由来ゲノムそれぞれと比較して、ヒト関連ゲノムで有意に濃縮および減少している特定の遺伝子を同定することができた。重要な点として、これらのゲノム差異は、無関係な遺伝子座に散在しているのではなく、生物学的に整合しており、表面抗原の生合成および病原性に関連する遺伝子を含んでいた。これらの知見は、ヒト臨床分離株が家畜関連S. Typhimurium集団の区別可能なサブセットであることを示しており、ゲノムの由来帰属アプローチを拡張するものである。この区別は、ゲノムサーベイランスデータの解釈に補完的な視点を提供し、家畜リザーバーとヒト感染の関係を理解する上で、宿主関連のゲノム変異が潜在的に重要であることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764447",
+    "title": "pLM-bVAE: protein language model-enhanced binary representation improves quantum annealing-based protein sequence design",
+    "abstract": "Quantum annealing (QA) has been explored as an approach for protein design in vast combinatorial sequence spaces. Applying QA to protein sequence design requires amino acid sequences to be encoded as binary vectors, and optimized vectors to be decoded back into amino acid sequences. Thus, both the quality of binary encoding and sequence reconstruction accuracy are important for effective QA-based optimization. Binary variational autoencoder (bVAE) has been used to map protein sequences to binary representations in QA-based protein sequence design. However, bVAE was originally developed for natural language modeling, and its suitability for proteins has not been systematically evaluated. Here, we present pLM-bVAE, which incorporates protein representations derived from a pretrained protein language model (pLM) into the original bVAE model. In computational experiments on three public protein variant datasets, pLM-bVAE showed higher sequence reconstruction accuracy and binary encoding performance than bVAE. Moreover, we incorporated pLM-bVAE into a QA-based protein sequence design framework. Across all three datasets, pLM-bVAE generated more high-scoring sequences with greater sequence dissimilarity from the training and validation data than bVAE. Our results demonstrate that pLM-bVAE provides an effective binary representation for improving QA-based protein sequence design. Key Points  ● We developed pLM-bVAE, a protein language model-enhanced binary representation method for QA-based protein sequence design. ● Compared with the existing method bVAE, pLM-bVAE achieved higher sequence reconstruction accuracy and better preservation of sequence relationships in the binary latent space. ● Incorporating pLM-bVAE into a QA-based protein sequence design framework improved optimization performance. ● QA using pLM-bVAE generated more high-scoring sequences with greater sequence dissimilarity from the training and validation data, compared with bVAE.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764447",
+    "date": "2026-11-06",
+    "authors": "Ueda HH, Tučs A, Tsuda K, Umetsu M, Saito Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360926",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "method",
+          "protein",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4346,
+    "collected_at": "2026-11-13T07:56:57.456049+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.05.764447"
+    ],
+    "translation": {
+      "title": {
+        "hash": "23d2e103f1e38b910ec36a797dd736a29de98bbe5653d2640d60b5256cfc1b75",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:46:56.035450+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "86a4fa8b9d32c327471650361a716e9bb10776eba6b0a8205411ebb735d1bb83",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:46:56.035450+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "pLM-bVAE: タンパク質言語モデルによる二値表現の強化が、量子アニーリングに基づくタンパク質配列設計を向上させる",
+    "abstract_ja": "量子アニーリング（QA）は、膨大な組み合わせ配列空間におけるタンパク質設計の手法として検討されてきた。タンパク質配列設計にQAを適用するには、アミノ酸配列をバイナリベクトルとして符号化し、最適化されたベクトルを再びアミノ酸配列へと復号する必要がある。したがって、効果的なQAベースの最適化には、バイナリ符号化の品質と配列再構成精度の双方が重要となる。QAベースのタンパク質配列設計では、タンパク質配列をバイナリ表現にマッピングするためにバイナリ変分オートエンコーダ（bVAE）が用いられてきた。しかし、bVAEはもともと自然言語モデリング向けに開発されたものであり、タンパク質への適性については体系的に評価されてこなかった。本研究では、事前学習済みタンパク質言語モデル（pLM）から導出されたタンパク質表現を元のbVAEモデルに組み込んだpLM-bVAEを提案する。3つの公開タンパク質バリアントデータセットを用いた計算実験において、pLM-bVAEはbVAEよりも高い配列再構成精度とバイナリ符号化性能を示した。さらに、pLM-bVAEをQAベースのタンパク質配列設計フレームワークに組み込んだ。3つのデータセットすべてにおいて、pLM-bVAEはbVAEよりも、訓練データおよび検証データとの配列非類似度が高く、スコアの高い配列をより多く生成した。本結果は、pLM-bVAEがQAベースのタンパク質配列設計を改善するための効果的なバイナリ表現を提供することを実証している。要点 ● QAベースのタンパク質配列設計に向けた、タンパク質言語モデルで強化されたバイナリ表現手法であるpLM-bVAEを開発した。 ● 既存手法であるbVAEと比較して、pLM-bVAEはより高い配列再構成精度を達成し、バイナリ潜在空間における配列関係をより良好に保持した。 ● pLM-bVAEをQAベースのタンパク質配列設計フレームワークに組み込むことで、最適化性能が向上した。 ● pLM-bVAEを用いたQAは、bVAEと比較して、訓練データおよび検証データとの配列非類似度が高く、スコアの高い配列をより多く生成した。"
   }
 ]
