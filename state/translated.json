@@ -219003,5 +219003,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "HIV-1エリートコントロールの優性遺伝的決定因子としてのHLA-B*57：欧州およびアフリカ系アメリカ人コホートにおけるMHCバリアント関連の比較再解析 既報のゲノム関連データの再解析",
     "abstract_ja": "要旨  背景  HIV-1エリートコントローラー（EC）は、抗レトロウイルス療法なしで検出限界以下のウイルス量を維持しており、この表現型は主要組織適合性複合体（MHC）の変異と強く関連している。HLA-B*57:01は、欧州系集団においてエリートコントローラーと最も高頻度に認められる遺伝的関連であり、アフリカ系集団ではその対応関係にある因子としてHLA-B*57:03が同定されている。この関連構造――用量依存性および他のMHCシグナルからの独立性――が、両系統において一貫して特性解析されているかについては、公表された形式では検討されていない。方法  Rahmouniら（2025, 2023）による既報のアレル/キャリア頻度を用い、欧州系コホート（エリートコントローラー543例、非感染対照群3,272例）およびアフリカ系アメリカ人コホート（エリートコントローラーに富むHIV-1血清陽性者759例、cs1 + cs2, ICGHコンソーシアム）を解析した。欧州系コホートに対しては、(1) 一次HLA-B*57関連解析、(2) 9バリアントMHCパネル解析、(3) ウイルス量推移検定、(4) HLA-B*57層別関連解析を実施した。アフリカ系アメリカ人コホートに対しては、一般アフリカ人集団（1000 Genomes AFR, n = 661）における背景頻度に対するrs1131446（HLA-B*57:03タグSNP）の濃縮性を検証した。すべての検定では、適宜ベンジャミニ・ホッホバーグFDR補正を用いたフィッシャーの正確確率検定を適用した。結果  欧州系コホートにおいて、HLA-B*57の保有はエリートコントローラーと強く関連していた（OR = 5.92, 95% CI: 4.66–7.51, p"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-8695072/v2",
+    "title": "Turnip crinkle virus coat protein determines whether salicylic acid promotes or restricts infection",
+    "abstract": "Abstract  Turnip crinkle virus (TCV) coat protein (CP) coordinates virion assembly, immune recognition, and RNA silencing suppression, but how these functions shape disease remains unclear. We redirected CP from the nucleus by appending an identical nuclear export signal to either terminus. Despite similarly reducing nuclear CP accumulation, N- and C-terminal modifications produced opposing effects on disease, viral accumulation, particle formation, and HRT-mediated recognition, indicating that sustained nuclear CP is dispensable for these outcomes. Transcriptomic and biochemical analyses revealed that disease severity closely tracked salicylic acid (SA) accumulation. Genetic disruption of SA biosynthesis reduced chlorosis and necrosis, establishing SA as a driver of TCV-associated disease. However, SA had CP-dependent effects on viral accumulation, promoting WT and N-NES infection while restricting C-NES. The R6A CP mutant uncoupled disease from viral burden, inducing SA and severe symptoms despite reduced accumulation. Thus, CP determines SA induction and whether an SA-rich environment favors or restricts TCV.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-8695072/v2",
+    "date": "2026-11-04",
+    "authors": "Rademacher D, Kingsolver B, Dawane A, May J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358047",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1464,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-8695072/v2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6b42765b8040d4afdd02a5511bd72d7fb7e2d8954449a69a79c79b6f7fbc00d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:05:50.255303+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c61c60bb56aabcea244970556de6a3775c4cd6d45a5534c712dbbdffee133efd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:05:50.255303+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カブしわウイルスの外被タンパク質が、サリチル酸が感染を促進するか抑制するかを決定する",
+    "abstract_ja": "要旨　カブしわウイルス（TCV）のコートタンパク質（CP）は、ビリオンの組み立て、免疫認識、およびRNAサイレンシングの抑制を協調的に制御しているが、これらの機能が疾患をどのように形作っているかは依然として不明である。我々は、いずれかの末端に同一の核外輸送シグナルを付加することで、CPを核から誘導した。核内CPの蓄積を同様に減少させたにもかかわらず、N末端およびC末端の修飾は、疾患、ウイルス蓄積、粒子形成、およびHRT介在性認識に対して相反する影響を及ぼした。これは、持続的な核内CPがこれらの結果にとって必須ではないことを示している。トランスクリプトーム解析および生化学的解析により、疾患の重症度はサリチル酸（SA）の蓄積と密接に相関することが明らかになった。SA生合成の遺伝的阻害はクロロシスと壊死を減少させ、SAがTCV関連疾患の駆動因子であることを立証した。しかし、SAはウイルス蓄積に対してCP依存的な影響を及ぼし、WTおよびN-NES感染を促進する一方で、C-NES感染を制限した。R6A CP変異体は、蓄積量が減少しているにもかかわらず、SAおよび重篤な症状を誘発し、疾患をウイルス量から切り離した。したがって、CPがSAの誘導を決定し、SAが豊富な環境がTCVを促進するか、あるいは制限するかを規定している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.31.763357",
+    "title": "Reference-Guided De Novo Retrieval of 3D Chromatin Organizational Features with Representation Learning",
+    "abstract": "Chromosome conformation maps reveal spatial genome organization through recurring contact patterns, some associated with established architectural features and others with less understood biological processes. Identifying instances of a pattern across these maps is necessary to investigate its biological associations and recurrence across experimental settings. However, conventional feature callers typically target predefined patterns, offering limited support when researchers can provide examples of a feature of interest but lack a dedicated detection method. We introduce Chromatin Fetch (C-Fetch), a reference-guided retrieval framework that uses examples of a desired feature and a contrasting class to rank and assign contact-map patches at provided candidate coordinates. C-Fetch learns a generalized representation through weakly KL-regularized 3D autoencoding of structurally related, non-temporal Hi-C and Micro-C patches without architectural feature labels. We demonstrate retrieval of biologically defined contacts, visually specified patterns, and established architectural features. Polycomb-guided retrieval identifies contacts enriched for PRC2-associated signals, exceeding enrichment from loop-guided assignments at 5 kb, while queries resembling condensed domains retrieve patches with progressively stronger rectangular enrichment at higher ranks. Loop-guided retrieval increases aggregate focal enrichment relative to complete Mustache proposal sets across four held-out maps, and selected contacts show greater focality loss after cohesin depletion than matched remaining candidates. Retrieval also extends to Region Capture Micro-C and HiChIP, with ranking agreement retained across biological replicates and reduced sequencing depths. Together, these results establish reference examples as a flexible means of specifying contact-map features of interest, enabling biological investigation, exploration of visual patterns, and refinement of existing calls across datasets and technologies.",
+    "journal": "",
+    "doi": "10.64898/2026.10.31.763357",
+    "date": "2026-11-04",
+    "authors": "Moran S, Liu J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358880",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "chromatin",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2168,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.31.763357"
+    ],
+    "translation": {
+      "title": {
+        "hash": "26f77e5c191334bb9374252fdfa03075a9fc8bbc299cd033862287deb581e987",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:05:50.255303+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0db28a348ae301ace0705efaad66b556db06db0e2fbd50ca746f415ab07142a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:05:50.255303+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "表現学習を用いた3次元クロマチン構造特徴量の参照誘導型デノボ検索",
+    "abstract_ja": "染色体コンフォメーションマップは、反復的なコンタクトパターンを通じてゲノムの空間的構造を明らかにする。これらのパターンの中には、確立された構造的特徴に関連するものもあれば、生物学的プロセスが十分に解明されていないものもある。これらのマップ全体でパターンの出現例を特定することは、その生物学的関連性や実験設定における反復性を調査する上で不可欠である。しかし、従来のフィーチャーコーラーは通常、あらかじめ定義されたパターンを対象とするため、研究者が関心のあるフィーチャーの例を提示できても、専用の検出手法がない場合には限定的な支援しか提供できない。本研究では、目的とするフィーチャーの例と対照的なクラスを用いて、指定された候補座標におけるコンタクトマップパッチをランク付けし割り当てる、リファレンス誘導型検索フレームワーク「Chromatin Fetch (C-Fetch)」を提案する。C-Fetchは、構造的に関連し非時間的なHi-CおよびMicro-Cパッチを、構造的フィーチャーラベルなしに弱KL正則化3Dオートエンコーディングによって一般化された表現として学習する。我々は、生物学的に定義されたコンタクト、視覚的に指定されたパターン、および確立された構造的特徴の検索を実証した。Polycomb誘導型検索では、PRC2関連シグナルが濃縮されたコンタクトを特定でき、その濃縮度はループ誘導型割り当てによる5 kbの濃縮度を上回った。一方、凝縮ドメインに類似したクエリでは、上位ランクになるほど矩形の濃縮度が漸次的に強くなるパッチが検索された。ループ誘導型検索では、4つのホールドアウトマップにおいて、完全なMustacheプロポーザルセットに対する集約的な焦点濃縮度が向上し、選択されたコンタクトは、一致する残りの候補よりもコヒーシン枯渇後に高い焦点性の喪失を示した。また、検索はRegion Capture Micro-CおよびHiChIPにも及び、生物学的レプリケート間およびシーケンシング深度の低下においてもランキングの一致性が維持された。以上の結果は、リファレンス例を関心のあるコンタクトマップフィーチャーを指定するための柔軟な手段として確立するものであり、生物学的調査、視覚的パターンの探索、およびデータセットや技術を横断した既存のコールの精緻化を可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11325464/v1",
+    "title": "Decoupled geogenic and faecal hazards in shallow coastal groundwater: evidence and a screening framework from the lower Indus Delta, Pakistan",
+    "abstract": "Abstract  Shallow hand pumps supply drinking water to millions of people in low-lying deltas worldwide, where groundwater is exposed to geogenic salinisation and faecal contamination. Because these hazards are usually assessed together, it remains unclear whether they share a pathway and, therefore, which interventions are needed. In the lower Indus Delta (Pakistan), we analysed 93 hand pumps for 16 physicochemical variables, total coliforms and Escherichia coli, and combined hydrochemical diagnostics, a seawater mixing index (SMI), multivariate statistics, entropy-weighted and weighted-arithmetic water quality indices (EWQI, WA-WQI) and deterministic and Monte Carlo health-risk models. TDS exceeded 1000 mg/L in 58.1% of wells. A single salinity factor (65.9% of variance) integrated evaporation, cation exchange (slope −0.95, R² = 0.97) and limited marine mixing (SMI > 1 in 23.7%). E. coli occurred in 23.7% of wells, was independent of salinity (OR = 0.83, p = 0.81), was predicted only by turbidity (OR = 4.18 per log₁₀ NTU; AUC = 0.82) and, unlike salinity, was not spatially clustered, indicating wellhead ingress. WA-WQI assigned 66% of its weight to F⁻ and turbidity and agreed poorly with EWQI (weighted κ = 0.20). Child hazard index exceeded 1 with 46.1% probability, driven by F⁻, and drinking water supplied up to 122% of the WHO daily sodium limit. A well-by-well typology showed that only 26.9% of wells were safe, 8.6% needed only wellhead repair and 64.6% required treatment or a new source. The framework uses only routine monitoring data and is transferable to other salinising coastal deltas.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11325464/v1",
+    "date": "2026-11-04",
+    "authors": "Noonari TM, Gul N, Sawera M, Yousra M.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358371",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2172,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11325464/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eabe2fc57d7ea4c36a30144f2fb3b0071f0ed2007c9acf3063833fa3ce6589d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:05:50.255303+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a0fb85fa5300895dc79c87180f8f109121fe13de78f7eaaa510959267c5f618e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:05:50.255303+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "浅層沿岸地下水における地質学的ハザードと糞便性ハザードの分離：パキスタン・インダス川デルタ下流域における証拠とスクリーニング枠組み",
+    "abstract_ja": "要旨　浅層の手押しポンプは、地下水が地質学的な塩類化や糞便汚染にさらされている世界各地の低地デルタ地帯において、数百万人に飲料水を供給している。これらのハザードは通常まとめて評価されるため、両者が共通の経路を辿っているのか、したがってどのような介入が必要なのかは依然として不明である。インダス川デルタ下流域（パキスタン）において、我々は93基の手押しポンプを対象に、16の物理化学的変数、総大腸菌群および大腸菌、ならびに複合水化学診断、海水混合指数（SMI）、多変数統計、エントロピー重み付きおよび重み付き算術水質指数（EWQI, WA-WQI）、ならびに決定論的およびモンテカルロ健康リスクモデルを用いて分析を行った。井戸の58.1%でTDSが1000 mg/Lを超えていた。単一の塩分因子（分散の65.9%）が、蒸発、陽イオン交換（傾き −0.95, R² = 0.97）、および限定的な海洋混合（SMI > 1が23.7%）を統合していた。大腸菌は井戸の23.7%で検出され、塩分とは独立しており（OR = 0.83, p = 0.81）、濁度のみによって予測され（OR = 4.18 per log₁₀ NTU; AUC = 0.82）、塩分とは異なり空間的にクラスター化していなかったことから、井戸頭への流入が示唆された。WA-WQIは重みの66%をF⁻と濁度に割り当て、EWQIとの一致度は低い結果となった（重み付きκ = 0.20）。小児ハザード指数はF⁻の影響で46.1%の確率で1を超え、飲料水はWHOの1日ナトリウム制限値の最大122%まで供給されていた。井戸ごとの類型化の結果、安全な井戸はわずか26.9%であり、8.6%は井戸頭の修理のみで済み、64.6%は処理または新たな水源を必要としていた。本フレームワークは日常的なモニタリングデータのみを用いており、他の塩類化が進む沿岸デルタ地帯にも適用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11554586/v1",
+    "title": "Detecting chlorophylls and carotenoids utilizing a novel chromatographic method designed for HPLC-PDA-MS analyses and application to environmental and cultured algae and cyanobacteria",
+    "abstract": "Abstract    Chlorophylls and carotenoid analyses are important in aquaculture and freshwater and marine research as they are used to quantify algal biomass, food and supplement analyses, and to determine ecological diversity. The methods used for these analyses have often been limited to photometric detection, with some methods incorporating chromatographic separation. Mass spectrometric detection offers improved sensitivity, selectivity, and structural information compared to spectroscopy, but requires a full redesign of the separation system as previous chromatographic separations used solvent additives incompatible with mass spectrometry. The separation developed here used a YMC C30 “Carotenoid Column” with a novel mobile phase and elution scheme to separate a suite of algal pigments. Detection can be performed using a photodiode array alone, or in conjunction with mass spectrometry (MS). We report that the carotenoid echinenone (CAS 432-68-8) is actually an isomeric pair, which may have important implications for cyanobacterial photosynthesis and the orange carotenoid protein complex. New chlorophyll analogs, that could be hydroxylated or dehydroxylated derivatives, were detected in  Caulerpa  and  Planktothricoides  sp. BLCC-F182. This cyanobacterium produced novel chlorophylls, and it uniquely contained no echinenone or 3-OH echinenone. There was marked diversity in the types of pigments produced in the multiple strains analyzed, and the analyses demonstrated that there is likely to be more to discover in the pigments produced by algae and cyanobacteria. The inclusion of MS added significant value for the analysis of carotenoids and chlorophylls, and novel methodologies such as this may lead the field into important discoveries and advancements.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11554586/v1",
+    "date": "2026-11-04",
+    "authors": "Smith Z, Berthold DE, Gaffney KM, Laughinghouse HD, Hapeman CJ.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358272",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria",
+        "cyanobacterial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2173,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11554586/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7cb11fcbd291b00d364b483b6a403059fd395bc75ae9c474660889b71b5f24b9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:05:50.255303+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a8ef199180bab060434f0be5ab465cbab4f535faddb9eb0e6732fa1cc7e3d02f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:05:50.255303+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HPLC-PDA-MS分析用に考案した新規クロマトグラフィー法を用いたクロロフィルおよびカロテノイドの検出と、環境中および培養藻類・シアノバクテリアへの応用",
+    "abstract_ja": "要旨    クロロフィルおよびカロテノイドの分析は、藻類バイオマスの定量、飼料およびサプリメントの分析、ならびに生態学的多様性の判定に用いられるため、水産養殖ならびに淡水・海洋研究において重要である。これらの分析に用いられる手法は、多くの場合、光度検出に限定されており、一部の手法ではクロマトグラフィー分離が組み込まれていた。質量分析による検出は、分光法と比較して感度、選択性、および構造情報の向上が可能であるが、従来のクロマトグラフィー分離では質量分析と相容れない溶媒添加剤が使用されていたため、分離系の全面的な再設計が必要となる。本研究で開発した分離法では、新規の移動相および溶出スキームを備えたYMC C30「カロテノイドカラム」を用いて、一連の藻類色素を分離した。検出は、フォトダイオードアレイ単独、あるいは質量分析（MS）と併用して行うことができる。我々は、カロテノイドであるエチネンオン（CAS 432-68-8）が実際には異性体ペアであり、これがシアノバクテリアの光合成およびオレンジ色のカロテノイドタンパク質複合体に重要な影響を及ぼす可能性があることを報告する。Caulerpa planktothricoides sp. BLCC-F182において、水酸化または脱水酸化誘導体となり得る新規のクロロフィル類似体が検出された。このシアノバクテリアは新規のクロロフィルを産生しており、特異的にエチネンオンおよび3-OHエチネンオンを含まなかった。解析した複数の株において産生される色素の種類には顕著な多様性が認められ、藻類およびシアノバクテリアが産生する色素には、さらなる発見の余地がある可能性が高いことが分析により示された。MSの導入はカロテノイドおよびクロロフィルの分析に大きな価値をもたらし、このような新規手法は、この分野を重要な発見と進展へと導く可能性がある。"
   }
 ]
