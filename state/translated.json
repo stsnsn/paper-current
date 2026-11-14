@@ -223764,5 +223764,293 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "腸管Klebsiella pneumoniaeの栄養依存性の解明は、合理的なプロバイオティクス工学の指針となる。",
     "abstract_ja": "要旨  Klebsiella pneumoniaeは抗生物質耐性感染症の主要な原因であるが、その腸内拡大を可能にする生態学的決定要因は依然として十分に解明されていない。本研究では、in vivoトランスクリプトミクスとメタボロミクスを組み合わせ、抗生物質によって攪乱された腸内への定着過程において、菌株や食事条件を問わずK. pneumoniaeが利用する炭素源を同定した。代謝の多様性にもかかわらず、K. pneumoniaeはアラビノース、ラフィノース、オリゴガラクツロネート、アラビトール、キシロース、グルコン酸を含む限定的な基質群を一貫して利用しており、これらは腸内適応度に寄与していた。また、抗生物質処理を施したヒト検体においても、関連する代謝シグネチャーが観察された。これらの知見に基づき、我々はこれらの栄養素の消費を亢進させるようEscherichia coli Nissleを改変し、栄養競合を通じて定着耐性を強化することを目的とした定義済みコンソーシアム「NICHE」を構築した。NICHEは、予防および治療の両設定において、多剤耐性および超強毒性のK. pneumoniaeの腸内拡大を抑制し、その有効性は食事性栄養素の利用可能性に影響された。以上の研究により、利用可能なK. pneumoniaeの栄養依存性と、合理的なプロバイオティクス工学のためのフレームワークが定義された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 1",
+        "query": "(JOURNAL:\"The ISME Journal\" OR JOURNAL:\"ISME Communications\" OR JOURNAL:\"ISME Host Microbe\" OR JOURNAL:\"FEMS Microbiology Ecology\" OR JOURNAL:\"FEMS Microbiology Letters\" OR JOURNAL:\"FEMS Microbiology Reviews\" OR JOURNAL:\"FEMS Yeast Research\" OR JOURNAL:\"FEMS Microbes\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/femsle/fnag135",
+    "title": "Assessment of PFAS toxicity using lux-marked bioluminescent Pseudomonas biosensors.",
+    "abstract": "Per- and polyfluoroalkyl substances (PFAS) are persistent fluorinated contaminants of growing environmental concern, yet rapid methods for assessing their biological effects remain limited. This study evaluated lux-marked Pseudomonas putida F1 Tn5 luxCDABE and P. putida 12708 Tn5 luxCDABE as whole-cell biosensors for detecting sublethal PFAS toxicity. Fluoride bioassays confirmed both strains tolerated up to 1,000 mg L-1 fluoride without measurable bioluminescence inhibition, supporting their suitability for PFAS exposure studies. Growth and bioluminescence responses were then assessed in M9 minimal medium following exposure to PFOA, PFNA, and PFHxS. Conventional growth measurements showed limited effects across tested concentrations, with strain-specific reductions observed mainly in P. putida F1 Tn5 luxCDABE. Bioluminescence revealed clearer compound- and concentration-dependent responses. PFOA and PFNA caused significant inhibition of peak bioluminescence in P. putida F1 Tn5 luxCDABE, while P. putida 12708 Tn5 luxCDABE showed a variable response, including increased luminescence following PFOA exposure and inhibition at higher concentrations of selected PFAS. These findings demonstrate that lux-marked P. putida biosensors are able to detect PFAS-induced metabolic stress with greater sensitivity than conventional growth assays and highlights their potential as rapid tools for ecotoxicological screening of fluorinated contaminants.",
+    "journal": "FEMS Microbiology Letters",
+    "doi": "10.1093/femsle/fnag135",
+    "date": "2026-10-30",
+    "authors": "Senovilla-Herrero D, Campbell K, Helyar S, Moore H, Mbadugha L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42961056",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42961056",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4369,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 1"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/femsle/fnag135"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3f6d4f2d0450336045519e4afc7e1be92cc8c497613bfe1b6be0ee00cc16fedb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:55:20.125472+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3ee125dd826ea21b9ac132531e643310b35a504fbff00b86d2aa96f1d42a7705",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:55:20.125472+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "lux標識生物発光性シュードモナスバイオセンサを用いたPFAS毒性の評価",
+    "abstract_ja": "ペルフルオロアルキル化合物およびポリフルオロアルキル化合物（PFAS）は、環境上の懸念が高まっている残留性フッ素汚染物質であるが、その生物学的影響を評価するための迅速な手法は依然として限られている。本研究では、亜致死性PFAS毒性を検出するための全細胞バイオセンサーとして、lux標識を施したPseudomonas putida F1 Tn5 luxCDABEおよびP. putida 12708 Tn5 luxCDABEを評価した。フッ化物バイオアッセイにより、両株とも測定可能な生物発光抑制を示すことなく最大1,000 mg L-1のフッ化物に耐性を有することが確認され、PFAS曝露試験への適性が裏付けられた。続いて、PFOA、PFNA、およびPFHxSへの曝露後、M9最小培地における増殖および生物発光反応を評価した。従来の増殖測定では、試験した濃度範囲において影響は限定的であり、主にP. putida F1 Tn5 luxCDABEにおいて株特異的な減少が認められた。生物発光では、化合物および濃度に依存したより明確な反応が認められた。PFOAおよびPFNAはP. putida F1 Tn5 luxCDABEにおいてピーク生物発光の有意な抑制を引き起こした一方、P. putida 12708 Tn5 luxCDABEでは、PFOA曝露後の発光増加や、特定のPFASの高濃度における抑制など、変動的な反応が認められた。これらの知見は、lux標識P. putidaバイオセンサーが、従来の増殖アッセイよりも高い感度でPFAS誘発性の代謝ストレスを検出できることを示しており、フッ素汚染物質の生態毒性スクリーニングのための迅速なツールとしての可能性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1985869",
+    "title": "Time-split validation and cross-platform transferability of an explainable MALDI-TOF MS machine-learning model for carbapenem-resistant <i>Klebsiella pneumoniae</i> screening.",
+    "abstract": "MALDI-TOF MS-based machine learning may shorten the time to detection of carbapenem-resistant Klebsiella pneumoniae (CRKP), yet performance estimates often rest on random splits and spectrum-level evaluation, and transferability across instruments is rarely tested. In a laboratory-information-system-audited single-center cohort of 2,399 K. pneumoniae isolates (363 CRKP; 2,836 VITEK MS spectra; 2024-2026), we trained a LightGBM classifier on 1,766 isolates from 2024 to 2025 and evaluated it on 633 isolates from 2026. The out-of-fold area under the ROC curve (AUC) was 0.909 (95% CI 0.885-0.932); on the 2026 cohort the calibrated AUC was 0.833 (0.776-0.885), with an expected calibration error of 0.024 and a Brier score of 0.068. Thresholds derived independently from the training cohort gave a sensitivity of 0.493 on the 2026 cohort at both the Youden and the NPV-oriented threshold, with an observed NPV of 0.935; the higher sensitivity obtained with thresholds chosen on the 2026 cohort itself was not reproducible. Applying the model unchanged to 1,190 isolates from three other platforms (Autof, Bruker, Quantof) resulted in loss of essentially all discriminative ability (AUC 0.450-0.543); because those datasets also differ in population and label definition, the loss cannot be attributed to platform alone. SHAP analysis identified a dominant m/z 4517.5-4519.5 cluster. A deployable offline tool reproduced the audited performance (AUC 0.826, ECE 0.022), and a monitoring analysis on 564 spectra drawn from the same period was consistent with it. The model is not a stand-alone screening test: deployment is limited to the platform on which it was developed and validated, and requires ongoing monitoring. The labeled dataset is deposited in MassIVE (MSV000103080) for independent benchmarking.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1985869",
+    "date": "2026-10-28",
+    "authors": "Li K, Yang X, Li L, Wang J.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43016808",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13752067",
+    "pmid": "43016808",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4377,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1985869"
+    ],
+    "translation": {
+      "title": {
+        "hash": "788ece602dea621833b4acce4407e0f777a0ecb3e174d125fa3ceacef3c5aefd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:55:20.125472+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "acd50c9a6e9fbd3f15c86d04feb6a876085cb377a36366a1da231dd650058e18",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:55:20.125472+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カルバペネム耐性<i>Klebsiella pneumoniae</i>スクリーニングのための説明可能なMALDI-TOF MS機械学習モデルの時間分割検証およびクロスプラットフォーム転移性",
+    "abstract_ja": "MALDI-TOF MSベースの機械学習は、カルバペネム耐性肺炎桿菌（CRKP）の検出時間を短縮できる可能性があるが、性能推定はランダム分割やスペクトラムレベルの評価に基づいていることが多く、装置間の転移可能性が検証されることは稀である。研究室情報システムで監査された2,399株の肺炎桿菌分離株（CRKP 363株、VITEK MSスペクトラム 2,836件、2024-2026年）からなる単一施設コホートにおいて、2024年から2025年の分離株1,766株を用いてLightGBM分類器を学習させ、2026年の分離株633株で評価を行った。ROC曲線下面積（AUC）は0.909（95% CI 0.885-0.932）であり、2026年コホートにおける較正済みAUCは0.833（0.776-0.885）、期待較正誤差は0.024、Brierスコアは0.068であった。学習コホートから独立して導出した閾値を用いた場合、2026年コホートにおけるYoudenおよびNPV指向の両閾値での感度は0.493であり、観測NPVは0.935であった。2026年コホート自体で選択した閾値で得られたより高い感度は、再現できなかった。このモデルをそのまま他の3つのプラットフォーム（Autof、Bruker、Quantof）の分離株1,190株に適用したところ、判別能のほぼすべてが喪失した（AUC 0.450-0.543）。これらのデータセットは集団およびラベル定義も異なるため、この喪失をプラットフォームのみに起因するものとはできない。SHAP解析により、支配的なm/z 4517.5-4519.5クラスターが特定された。デプロイ可能なオフラインツールでは監査時の性能が再現され（AUC 0.826, ECE 0.022）、同期間から抽出した564件のスペクトラムを用いたモニタリング解析でもその結果と一致した。本モデルは単独のスクリーニング検査ではなく、デプロイは開発および検証に用いたプラットフォームに限定され、継続的なモニタリングが必要となる。ラベル付きデータセットは、独立したベンチマーク評価のためMassIVE（MSV000103080）に寄託されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mbio.02150-26",
+    "title": "Intraspecies competition reveals branched-chain amino acid homeostasis as a targetable metabolic vulnerability in uropathogenic <i>E. coli</i>.",
+    "abstract": "Urinary tract infections (UTIs) are among the most prevalent bacterial infections worldwide, with ~50% of women experiencing at least one UTI in their lifetime. Uropathogenic Escherichia coli (UPEC) is the causative agent of ~80% of UTIs. In contrast, asymptomatic bacteriuria E. coli 83972 (ABU 83972) colonizes the human urinary bladder without causing symptoms and inflammation. Deliberate colonization with ABU 83972 reduced UTI incidence in patients with voiding disorders. However, the mechanisms by which ABU 83972 outcompetes uropathogens in the urinary tract remain poorly understood and are the focus of this report. We performed comparative metabolomics to identify metabolites that promoted the fitness of ABU 83972 in human urine compared to UPEC strain CFT073. Competition assays were conducted between ABU 83972 and UPEC CFT073 in human urine supplemented with select metabolites that were differentially abundant in metabolome profiling. There was a significant reduction in the fitness of ABU 83972 when supplemented with branched-chain amino acids (BCAAs) such as leucine and isoleucine in a dose-dependent manner. Further, we identified that BrnQ, a low-affinity BCAA importer, is the main determinant of fitness advantage of ABU 83972 over UPEC. Using isogenic mutants, genetic complementation, amino acid analysis, cell culture, chemical inhibition of BCAA biosynthesis, and mouse models of UTI, we demonstrate that BCAA homeostasis represents a unique nutritional vulnerability in UPEC that could be targeted with chemical inhibitors. In summary, our study highlights that intraspecies competition between commensal and pathogenic strains could be used to detect novel fitness mechanisms and metabolic bottlenecks.ImportanceMillions of people suffer from urinary tract infection (UTI) globally, and uropathogenic E. coli is the main cause of UTI. A urinary probiotic strain of E. coli has been used clinically to prevent UTI in some high-risk groups for recurrent UTI for more than 25 years. However, the mechanism of competition between the probiotic and pathogenic strains is not clear. We demonstrate that competition for specific amino acids is critical for the probiotic to compete against the pathogen. Our study identifies specific amino acid import and biosynthetic processes as targets for controlling UPEC growth during UTI.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02150-26",
+    "date": "2026-11-10",
+    "authors": "George I, Vanitshavit V, Hejtmancik T, Kalairaj MS, Zarmakoupis I, Singh A, Zimmern PE, Ware TH, Subashchandrabose S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006890",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006890",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4396,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1128/mbio.02150-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dcfc71854b9ea8ffa63b3eeb714894018a933592db1856224c6478f34c968ef4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:55:20.125472+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6f34a23deb6b113a522580d51a98f37430b40892ffa5fd4ae1d8ff23c0a6f913",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:55:20.125472+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "種内競争により、尿路病原性<i>E. coli</i>における標的可能な代謝脆弱性として、分岐鎖アミノ酸の恒常性が明らかになった。",
+    "abstract_ja": "尿路感染症（UTI）は世界で最も頻度の高い細菌感染症の一つであり、女性の約50%が生涯に少なくとも一度はUTIを経験する。尿路病原性大腸菌（UPEC）は、UTIの約80%の原因菌である。対照的に、無症候性細菌尿原因菌である大腸菌83972（ABU 83972）は、症状や炎症を引き起こすことなくヒトの膀胱内に定着する。ABU 83972を意図的に定着させたところ、排尿障害を有する患者におけるUTIの発症率が低下した。しかし、ABU 83972が尿路において尿路病原菌を競争的に排除するメカニズムは依然として十分に解明されておらず、本報告の焦点となっている。我々は、ヒト尿中においてUPEC株CFT073と比較してABU 83972の適応度を高める代謝物を同定するため、比較メタボロミクスを実施した。メタボロームプロファイリングで含有量に差が認められた特定の代謝物を添加したヒト尿を用い、ABU 83972とUPEC CFT073の間で競争アッセイを行った。その結果、ロイシンやイソロイシンなどの分岐鎖アミノ酸（BCAA）を用量依存的に添加すると、ABU 83972の適応度が有意に低下した。さらに、低親和性BCAA取り込み因子であるBrnQが、UPECに対するABU 83972の適応度上の優位性の主要な決定要因であることを同定した。アイソジェニック変異体、遺伝的相補、アミノ酸分析、細胞培養、BCAA生合成の化学的阻害、およびUTIのマウスモデルを用いて、BCAA恒常性がUPECにおける特有の栄養的脆弱性であり、化学的阻害剤で標的化可能であることを示した。要約すると、本研究は、共生菌株と病原性菌株との種内競争が、新規の適応度メカニズムや代謝ボトルネックの検出に利用され得ることを強調するものである。重要性 世界中で数百万人が尿路感染症（UTI）に罹患しており、尿路病原性大腸菌がUTIの主な原因となっている。大腸菌の尿路プロバイオティクス株は、再発性UTIの高リスク群の一部において、25年以上にわたりUTI予防に臨床的に用いられてきた。しかし、プロバイオティクス株と病原性菌株との間の競争メカニズムは明らかではない。我々は、特定のアミノ酸をめぐる競争が、プロバイオティクスが病原菌に対抗する上で極めて重要であることを実証した。本研究は、UTIにおけるUPECの増殖を制御するための標的として、特定のアミノ酸の取り込みおよび生合成プロセスを同定した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/nargab/lqag126",
+    "title": "MAJIQ V3: Scalable and accurate RNA splicing analysis with splicegraph algebra and improved intron retention modeling.",
+    "abstract": "RNA splicing plays important roles in cell-type-specific expression of gene isoforms and is causally linked to numerous diseases. Previously, our group developed Modeling Alternative Junction Inclusion Quantification (MAJIQ) V1 and V2 for RNA splicing detection, quantification, and visualization from RNA sequencing. Here we report an update, MAJIQ V3, that offers critical new functionality together with faster and more accurate quantification algorithms. MAJIQ V3 enables users to combine splicegraphs, quantify splicing from an RNA-seq experiment with respect to a splicegraph, and compare one splicegraph to another, enabling new patterns of performant RNA splicing analyses from RNA-seq. MAJIQ V3 utilizes a new probabilistic model for detecting intron retention, correcting a bias that resulted from previous heuristics. MAJIQ V3 benefits from a full re-implementation utilizing more performant I/O patterns, data structures, and algorithms. We demonstrate the benefits of MAJIQ V3 using GTEx and LRGASP data for different analysis scenarios involving different dataset sizes.",
+    "journal": "NAR Genomics and Bioinformatics",
+    "doi": "10.1093/nargab/lqag126",
+    "date": "2026-10-21",
+    "authors": "Aicher JK, Slaff B, Jewell S, Gazzara MR, Bhoj EJK, Barash Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42909379",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13684277",
+    "pmid": "42909379",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4375,
+    "collected_at": "2026-11-14T22:23:11.371111+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nargab/lqag126"
+    ],
+    "translation": {
+      "title": {
+        "hash": "28f542ad36ef601c3f3443b83e97f094b995d20ba2cad25a1fc03f673cea9c39",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:55:20.125472+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2163585a4af80abb2734bf024e90bf1cfa445bda18b55821cf29d2d56333bc65",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T22:55:20.125472+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MAJIQ V3: スプライスグラフ代数と改良されたイントロン保持モデリングによる、スケーラブルかつ高精度なRNAスプライシング解析。",
+    "abstract_ja": "RNAスプライシングは、遺伝子アイソフォームの細胞種特異的な発現において重要な役割を果たしており、数多くの疾患の原因ともなっている。これまでに、我々の研究グループは、RNAシーケンシングからのRNAスプライシングの検出、定量、および可視化のためのModeling Alternative Junction Inclusion Quantification (MAJIQ) V1およびV2を開発した。本稿では、より高速かつ高精度な定量アルゴリズムとともに、極めて重要な新機能を備えたアップデート版であるMAJIQ V3について報告する。MAJIQ V3では、ユーザーがスプライスグラフを統合し、スプライスグラフに基づいてRNA-seq実験からスプライシングを定量化し、さらにあるスプライスグラフを別のスプライスグラフと比較することが可能となり、RNA-seqからの高性能なRNAスプライシング解析の新たなパターンを実現する。MAJIQ V3は、イントロン保持を検出するための新たな確率モデルを採用し、従来のヒューリスティック法に起因していたバイアスを補正している。MAJIQ V3は、より高性能なI/Oパターン、データ構造、およびアルゴリズムを用いた全面的な再実装によって性能が向上している。我々は、異なるデータセットサイズを用いたさまざまな解析シナリオにおいて、GTExおよびLRGASPデータを用いてMAJIQ V3の利点を実証する。"
   }
 ]
