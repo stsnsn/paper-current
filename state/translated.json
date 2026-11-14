@@ -202038,5 +202038,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ペプチド配列が食事誘発性肥満マウスにおける単回投与AAVベクター化GLP-1Rアゴニストの有効性を決定づける",
     "abstract_ja": "背景：セマグルチドなどのグルカゴン様ペプチド-1受容体（GLP-1R）作動薬は、著しい体重減少と血糖改善をもたらすが、その長期的有効性は慢性投与の継続的な遵守に依存する。アデノ随伴ウイルス（AAV）遺伝子治療は、原理的には単回投与で持続的なGLP-1R作動薬（GLP-1RA）曝露を提供し得るが、ベクター化GLP-1RAトランスジーンが生体内で有効に機能するために必要なペプチド工学の程度は不明である。方法：我々は、天然型ヒトGLP-1(7-36)（GLP-1）、DPP-IV耐性Gly8-GLP-1(7-36)変異体（Gly8）、Exendin-4（Ex4）、またはExendin-4ヒトIgG4 Fc融合タンパク質（Ex4-Fc）をコードする4種類の自己相補的AAV（scAAV）コンストラクトを作製した。これら4つのコンストラクトすべてについて、条件付き培地力価アッセイを用いて、in vitroで機能的なGLP-1R作動薬を分泌することが検証された。続いて、これらのコンストラクトをPHP.eBカプシドに封入し、食事誘発性肥満（DIO）マウスにキャリアコントロールと共に単回静脈内投与（5x1012 vg/kg）した。体重、体組成、食物摂取量、空腹時血漿インスリン値、および経口糖耐容能を3週間にわたって評価した。研究終了時に、血漿・肝脂質、組織トランスジーン転写産物およびペプチドレベルの評価のために組織を採取した。結果：4種類のAAVコンストラクトをトランスフェクションしたHEK293細胞は、細胞ベースのGLP-1R活性化アッセイで評価したところ、すべて活性ペプチド／タンパク質を分泌したが、トランスフェクションから72時間後の培地中におけるGLP-1コンストラクトの有効濃度は、4桁近くの差があった。食事誘発性肥満（DIO）マウスにおいて、Ex4およびEx4-Fcベクターは、GLP-1またはGly8ベクターとは異なり、単回投与後21日目までに初期体重の最大22.6%という有意な体重減少をもたらした。さらに、Ex4およびEx4-Fcでは、キャリアと比較して食物摂取量、脂肪量、および空腹時インスリン値の減少も認められた。加えて、Ex4-Fcはキャリアと比較して、血漿コレステロールおよび肝トリグリセリドを減少させると同時に、経口糖耐容能を改善した。脳および肝臓のいずれにおいても4つのコンストラクト間で転写産物レベルに顕著な差は認められなかったが、血漿および脳ライセート中の測定可能なペプチド産物はin vitro上清スクリーニングの順位に従い、GLP-1およびGly8群は内因性バックグラウンドと区別がつかなかった。結論：PHP.eB scAAV Ex4およびEx4-Fcは、体重減少や糖耐容能を含む複数の代謝エンドポイントにおいて強固な有効性を示した。対照的に、ベクター化GLP-1およびGly8は、脳および肝臓におけるウイルス転写産物レベルが同等であったにもかかわらず、生体内での有効性は認められなかった。また、ベクター化GLP-1およびGly8はin vitroにおいてExendin-4ベースのコンストラクトと比較して性能が低く、このことは条件付き培地力価スクリーニングが、ベクター化ペプチドAAV開発におけるコンストラクト選択の有効な初期フィルターであることを示唆している。循環血漿中での安定性に加え、翻訳および分泌効率を向上させるためのペプチド工学により、ベクター化GLP-1RA治療薬をさらに最適化できる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.08.765029",
+    "title": "Protecting host mitochondria with vitamin B3 preserves bioenergetics and thermogenesis during antibiotic treatment",
+    "abstract": "Antibiotics that target bacterial translation can also impair mitochondrial function because mitochondria retain bacterial-like ribosomes. As antibiotic resistance continues to increase and the use of several broad-spectrum antibiotics has been limited by their mitochondrial toxicity, there is a growing need to understand their off-target effects in host physiology, and to identify strategies that can mitigate antibiotic-induced mitochondrial dysfunction. We demonstrate that antibiotic chloramphenicol (CA) induces a dose-dependent reduction in mitochondrial respiration and mitochondrial thermogenesis in Drosophila S2 cells, human HEK293T cells and in developing Drosophila larvae. In vivo, CA exposure triggers female-biased aberrant innate immune activation of hosts carrying naturally occurring mitochondrial rRNA variants. Metabolomic profiling revealed alterations in vitamin B3 metabolism in Drosophila during and following CA exposure. Among the vitamin B3 vitamers examined, nicotinamide (NAM) exhibited the strongest protective effect, mitigating the CA-induced impairments in mitochondrial respiration and thermogenesis, as well as aberrant immune activation. We identify mitochondrial thermogenesis as a previously unrecognized target of antibiotic-induced mitochondrial perturbation and a sensitive marker of mitochondrial stress. Furthermore, we demonstrate that co-supplementation of CA with NAM mitigates antibiotic-induced mitochondrial toxicity through evolutionarily conserved mitochondrial pathways. Finally, we establish Drosophila as a powerful model for investigating antibiotic-induced mitochondrial dysfunction and for developing therapeutic strategies to protect host mitochondria during antibiotic treatment.",
+    "journal": "",
+    "doi": "10.64898/2026.11.08.765029",
+    "date": "2026-11-10",
+    "authors": "Tietz T, Terzioglu M, Vesala L, Tuomela T, Mahmud K, Paappanen T, Lindroos P, Nyman E, Moisio K, Juutila J, Karppinen K, Lehto K, Lehto K, Valanne S, Hietakangas V, Salminen TS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363772",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2082,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.08.765029"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e64a3c46871a86b9836e3ba69a44300ac71221a1e7ea79fb10012ca8504020b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:04:32.471374+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "89602139ffabe90986cca09a81f9d507e517fe529decc4e5bad77ee6056372a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:04:32.471374+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ビタミンB3による宿主ミトコンドリアの保護は、抗生物質投与中の生体エネルギー産生と熱産生を維持する。",
+    "abstract_ja": "細菌の翻訳を標的とする抗生物質は、ミトコンドリアが細菌様リボソームを保持しているため、ミトコンドリア機能を損なうこともある。抗生物質耐性が増大し続け、いくつかの広域スペクトル抗生物質の使用がそのミトコンドリア毒性によって制限されていることから、宿主生理学におけるオフターゲット効果を理解し、抗生物質誘発性のミトコンドリア機能障害を軽減できる戦略を特定する必要性が高まっている。我々は、抗生物質クロラムフェニコール（CA）が、ショウジョウバエS2細胞、ヒトHEK293T細胞、および発育中のショウジョウバエ幼虫において、ミトコンドリア呼吸およびミトコンドリア熱産生を用量依存的に低下させることを示す。in vivoにおいて、CA曝露は、天然に存在するミトコンドリアrRNA変異体を有する宿主において、雌に偏った異常な自然免疫活性化を誘発する。メタボロームプロファイリングにより、CA曝露中および曝露後にショウジョウバエのビタミンB3代謝に変化が生じることが明らかになった。検討したビタミンB3ビタミン類の中で、ニコチンアミド（NAM）が最も強い保護効果を示し、CA誘発性のミトコンドリア呼吸および熱産生の障害、ならびに異常な免疫活性化を軽減した。我々は、ミトコンドリア熱産生を、抗生物質誘発性のミトコンドリア摂動におけるこれまで認識されていなかった標的であり、かつミトコンドリアストレスの感受性マーカーとして同定した。さらに、CAにNAMを併用投与することで、進化的に保存されたミトコンドリア経路を介して抗生物質誘発性のミトコンドリア毒性が軽減されることを示す。最後に、我々は、抗生物質誘発性のミトコンドリア機能障害を調査し、抗生物質投与中の宿主ミトコンドリアを保護する治療戦略を開発するための強力なモデルとしてショウジョウバエを確立する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.08.763706",
+    "title": "Bacterial-Mimetic Membranes Reveal Hopanoid-Associated Domain-Like Lateral Heterogeneity",
+    "abstract": "Bacterial membranes are increasingly recognized as laterally heterogeneous assemblies whose local organization can regulate transport, stress adaptation, and interactions with membrane-active compounds. However, the physical principles by which bacterial lipid composition generates spatially distinct membrane environments remain poorly understood, partly because experimentally tractable models that reproducibly exhibit lateral segregation and permit quantitative characterization are limited. Here, we show that a multicomponent, hopanoid-containing bacterial-inspired membrane spontaneously self-organizes into laterally distinct physical environments that are consistently resolved in experiments and molecular simulations. Giant unilamellar vesicles prepared from a lipid mixture inspired by lipid classes found in hopanoid-producing bacteria, including Methylorubrum extorquens, exhibit stable micron-scale lateral segregation, which is independently reproduced in compositionally matched coarse-grained molecular dynamics simulations. The resulting membrane environments differ in composition, packing, order, mobility, and mechanical properties. Hopanoid-associated domain-like regions are more condensed, more ordered, and less mobile, whereas PE-rich non-domain regions remain more laterally expanded and exhibit faster lipid diffusion. At the global level, the bacterial-inspired membrane displays greater bending rigidity than a fluid phosphatidylcholine reference, while ATR-FTIR measurements independently support increased lipid-chain ordering and denser membrane packing. Together, these findings establish that hopanoid-containing bacterial-inspired membranes can spontaneously generate coexisting physical environments whose distinct local properties collectively determine global membrane behavior. The resulting experimental-computational framework provides a quantitative basis for investigating bacterial-like membrane heterogeneity and how local composition, dynamics, and mechanics govern responses to membrane-targeting perturbations.",
+    "journal": "",
+    "doi": "10.64898/2026.11.08.763706",
+    "date": "2026-11-10",
+    "authors": "Rzycki M, Kucharski M, Szulc N, Drabik D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363728",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2084,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.08.763706"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0c112fd88cbd0d633bd3d94c319f7c711af5342ec84704f7d5a33083a8b9d186",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:04:32.471374+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "08006198b88a70a5bfae5bcbc9122ac38759c7fb9f40d5a1efdf3f5a4bac47d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:04:32.471374+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌擬態膜が明かすホパノイド関連ドメイン様の側方不均一性",
+    "abstract_ja": "細菌膜は、局所的な組織化によって輸送、ストレス適応、および膜活性化合物との相互作用を調節し得る、横方向に不均一な集合体として認識されつつある。しかし、細菌の脂質組成が空間的に異なる膜環境を生み出す物理的原理については、横方向の分離を再現可能かつ定量的な特性評価を可能にする実験的に扱いやすいモデルが限られていることもあり、依然として十分に解明されていない。本研究では、多成分でホパノイドを含む細菌由来の膜が、実験および分子シミュレーションにおいて一貫して再現される、横方向に異なる物理的環境へと自発的に自己組織化することを示す。Methylorubrum extorquensを含むホパノイド産生細菌に見られる脂質クラスに着想を得た脂質混合物から調製した巨大単層小胞は、安定したミクロンスケールの横方向分離を示し、これは組成を一致させた粗視化分子動力学シミュレーションにおいても独立して再現される。得られた膜環境は、組成、パッキング、秩序、可動性、および機械的特性において異なる。ホパノイド関連のドメイン様領域は、より凝縮され、より秩序立っており、可動性が低い一方、PEに富む非ドメイン領域はより横方向に拡張したままであり、より速い脂質拡散を示す。大域的なレベルでは、細菌由来の膜は流体状のホスファチジルコリン参照系よりも高い曲げ剛性を示し、ATR-FTIR測定によっても、脂質鎖の秩序化の促進とより密な膜パッキングが独立して裏付けられる。これらの知見を総合すると、ホパノイドを含む細菌由来の膜は、共存する物理的環境を自発的に生成でき、それらの明確な局所的特性が相まって大域的な膜挙動を決定づけることが立証される。得られた実験・計算フレームワークは、細菌様の膜不均一性、および局所的な組成、ダイナミクス、力学が膜を標的とした摂動への応答をどのように支配するかを調査するための定量的な基盤を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11673623/v1",
+    "title": "Unravelling the Temporal and Geographic Patterns of HIV-1 Cases in Libya: Demographic Trends and Spatial Clustering.",
+    "abstract": "Abstract  Background  The epidemiology of HIV-1 in Libya has evolved substantially since the first major recognized outbreak in Benghazi during the 1990s. Although previous investigations have separately described the national geographic distribution of HIV infection and the molecular diversity of circulating HIV-1 strains, integrating these perspectives provides a broader framework for understanding the changing epidemic landscape. This study aimed to characterize the spatial and temporal distribution of reported HIV-1 infections in Libya and to examine the geographic distribution of major HIV-1 genetic subtypes. Methods  A retrospective nationwide analysis was conducted using routinely collected HIV surveillance records covering 1993–2017. A total of 8,015 newly diagnosed HIV cases with geographic information were included in the epidemiological analysis. Temporal changes in regional distribution and demographic characteristics were examined. Molecular findings were integrated from a previously characterized set of 159 HIV-1 strains obtained from 814 HIV-positive individuals across four Libyan regions between 1995 and 2010. HIV-1 subtypes were determined using molecular sequencing and phylogenetic analysis. Spatial patterns were interpreted by comparing regional case concentrations with the geographic distribution of characterized viral subtypes. Results  Among the 8,015 reported cases, 5,327 (66.5%) were male and 2,688 (33.5%) were female. Individuals aged 25–34 years represented the largest age group, with 2,965 cases (37.0%), followed by those aged 35–44 years, with 1,892 (23.6%). The geographic distribution changed markedly over the study period. The eastern region represented the major concentration during the earlier period, including 1,180 reported cases during 1998–2002, whereas the western region recorded 1,449 cases during 2010–2017. Central and southern regions also became increasingly represented during the later period. The molecular dataset comprised 117 (73.6%) subtype B strains, 29 (18.2%) CRF02_AG strains, and 13 (8.2%) subtype A strains. Subtype B was detected throughout the country and was particularly represented in the northern region; CRF02_AG was more frequently represented in the eastern region, whereas subtype A was observed particularly in western and southern areas. The combined epidemiological and molecular evidence indicates increasing geographic heterogeneity of HIV-1 across Libya over time. Conclusions  The Libyan HIV-1 epidemic demonstrates substantial spatial, temporal, demographic, and molecular heterogeneity. The epidemiological pattern evolved from an early concentration of reported infections in eastern Libya to a broader national distribution, while molecular surveillance demonstrated the circulation of multiple HIV-1 lineages with distinct regional patterns. These findings support the value of integrating molecular surveillance with national epidemiological and spatial monitoring",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11673623/v1",
+    "date": "2026-11-10",
+    "authors": "Daw MA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362972",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2085,
+    "collected_at": "2026-11-12T09:48:54.352024+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.21203/rs.3.rs-11673623/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4d939b4c88533258ab2c63541bcea4897aa16f3624547c93aa6a5f51711bfa6e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:04:32.471374+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ff70a27dfc05c100f9efc87ff140510e5ca0bd51d9c995cb70744c9beac9cec1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:04:32.471374+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リビアにおけるHIV-1症例の時間的・地理的パターンの解明：人口統計学的動向と空間的クラスター化",
+    "abstract_ja": "要旨  背景  リビアにおけるHIV-1の疫学は、1990年代にベンガジで最初の大規模なアウトブレイクが確認されて以来、著しく変遷してきた。これまでの研究では、HIV感染の全国的な地理的分布と循環するHIV-1株の分子的多様性がそれぞれ個別に報告されてきたが、これらの視点を統合することで、変化する流行状況を理解するためのより広範な枠組みが得られる。本研究は、リビアで報告されたHIV-1感染の空間的・時間的分布を明らかにするとともに、主要なHIV-1遺伝子サブタイプの地理的分布を検討することを目的とした。方法  1993年から2017年までルーチンで収集されたHIVサーベイランス記録を用い、全国規模の後方視的解析を実施した。地理的情報を含む新規診断HIV症例計8,015例を疫学解析の対象とした。地域分布および人口統計学的特性の経時的変化を検討した。分子生物学的知見は、1995年から2010年にかけてリビアの4地域でHIV陽性者814名から得られた、既報のHIV-1株159株のセットから統合した。HIV-1サブタイプは、分子シーケンシングおよび系統解析を用いて同定した。空間的パターンは、地域ごとの症例集中度と、同定されたウイルスサブタイプの地理的分布を比較することで解釈した。結果  報告された8,015例のうち、5,327例（66.5%）が男性、2,688例（33.5%）が女性であった。年齢層別では25～34歳が最多の2,965例（37.0%）であり、次いで35～44歳が1,892例（23.6%）であった。地理的分布は研究期間中に著しく変化した。初期の時点では東部地域が主要な集中地であり、1998～2002年に1,180例が報告された一方、2010～2017年には西部地域で1,449例が記録された。中南部地域も後期にかけて割合が増加した。分子生物学的データセットは、サブタイプB株117株（73.6%）、CRF02_AG株29株（18.2%）、サブタイプA株13株（8.2%）で構成されていた。サブタイプBは全国的に検出され、特に北部地域で多く認められた。CRF02_AGは東部地域でより頻繁に認められた一方、サブタイプAは特に西部および南部地域で観察された。疫学的および分子生物学的根拠を統合した結果、リビア全土においてHIV-1の地理的異質性が経時的に増大していることが示された。結論  リビアにおけるHIV-1の流行は、空間的、時間的、人口統計学的、および分子生物学的に著しい異質性を示している。疫学的パターンは、初期のリビア東部への感染報告の集中から、より広範な全国的分布へと変遷し、一方で分子生物学的サーベイランスでは、地域ごとに異なるパターンを持つ複数のHIV-1系統の循環が示された。これらの知見は、分子生物学的サーベイランスを全国的な疫学的・空間的モニタリングと統合することの有用性を裏付けるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.07.765075",
+    "title": "Statistical significance testing for spatial domain detection in spatial transcriptomics",
+    "abstract": "In spatial transcriptomics, domain-detection methods group platform-specific spatial measurement units—cells, bins or multicellular spots—into spatial domains for comparing molecular programs, cellular composition and interactions among tissue regions. However, the number of candidate domains detected in the same tissue can vary with user-specified parameters or model-selection criteria. Whether candidate domains should be merged can be framed as a test of a single-domain null hypothesis, under which each gene has constant mean expression across all spatial units in the combined region. However, testing candidate domains on the same gene-expression data used to detect them may induce post-selection bias and yield anti-conservative p-values, increasing the risk of oversegmentation. To address these challenges, we introduce SigDoTS (statistical Significance testing for Domain deTection in Spatial transcriptomics), a hypothesis-testing framework for spatial domain detection. SigDoTS uses hierarchical testing to determine which candidate domains to retain or merge, with adjustment for family-wise error control. It accounts for gene–gene covariance and spatial dependence and computes p-values by rerunning the upstream domain-detection pipeline on datasets simulated under the fitted single-domain null. In simulations, SigDoTS controlled the type I error rate at the root node under the single-domain null and improved recovery of the true spatial domains when multiple domains were present. In human dorsolateral prefrontal cortex, SigDoTS retained superficial and deep Layer 6 domains but merged Layer 3 candidate domains across different initial numbers of candidate domains. In ovarian and colorectal cancers, SigDoTS retained epithelial domains with different gene-expression programs and local immune environments, together with immune, stromal and vascular domains.",
+    "journal": "",
+    "doi": "10.64898/2026.11.07.765075",
+    "date": "2026-11-10",
+    "authors": "Wang H, Cao F, Shen H, Liu Y, Yan G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363797",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2947,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.07.765075"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8de95be47d2d8bf7d0930931e96860ee8941103e8917859d932e186f05ad0836",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:04:32.471374+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "774b07db9e772c6da118ba972f67c00621f3ddc14df01df8c685c305c9eb775a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:04:32.471374+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "空間トランスクリプトミクスにおける空間領域検出の統計的有意性検定",
+    "abstract_ja": "空間トランスクリプトミクスにおいて、ドメイン検出手法は、プラットフォーム固有の空間計測単位（細胞、ビン、または多細胞スポット）を空間ドメインにグループ化し、分子プログラム、細胞組成、および組織領域間の相互作用を比較する。しかし、同一組織内で検出される候補ドメインの数は、ユーザーが指定したパラメータやモデル選択基準によって変動し得る。候補ドメインを統合すべきか否かは、単一ドメインの帰無仮説の検定として定式化でき、この仮説では、各遺伝子が統合領域内のすべての空間単位において一定の平均発現量を持つと想定される。しかし、候補ドメインの検出に用いた同一の遺伝子発現データを用いて検定を行うと、事後選択バイアスが生じ、反保存的なp値が得られる可能性があり、過剰セグメンテーションのリスクが高まる。これらの課題に対処するため、我々は空間ドメイン検出のための仮説検定フレームワークであるSigDoTS（statistical Significance testing for Domain deTection in Spatial transcriptomics）を提案する。SigDoTSは、ファミリーワイズ誤差制御を調整した上で、階層的検定を用いてどの候補ドメインを保持または統合するかを決定する。本手法は遺伝子間共分散と空間依存性を考慮し、適合させた単一ドメイン帰無仮説の下でシミュレーションされたデータセットに対して上流のドメイン検出パイプラインを再実行することでp値を算出する。シミュレーションにおいて、SigDoTSは単一ドメイン帰無仮説の下でルートノードにおける第一種過誤率を抑制し、複数のドメインが存在する場合に真の空間ドメインの復元精度を向上させた。ヒト背外側前頭前皮質において、SigDoTSは表層および深層のLayer 6ドメインを保持したが、初期の候補ドメイン数が異なる場合にはLayer 3の候補ドメインを統合した。卵巣がんおよび大腸がんにおいて、SigDoTSは異なる遺伝子発現プログラムと局所免疫環境を持つ上皮ドメインを、免疫、間質、および血管ドメインとともに保持した。"
   }
 ]
