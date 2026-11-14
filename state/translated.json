@@ -208816,5 +208816,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "2027年における国立生物工学情報センターの配列リソース",
     "abstract_ja": "要旨 米国国立生物工学情報センター（NCBI）は、DNA、RNA、およびタンパク質の配列データを含む3つの主要なリソース、すなわちSequence Read Archive（SRA）、GenBank®、およびReference Sequence（RefSeq™）コレクションを提供している。これらのリソースはすべて一般に無料で公開されている。SRAとGenBankは国際塩基配列データベース共同利用計画（International Nucleotide Sequence Database Collaboration）の一環であり、日々データを共有している。本稿では、これらのリソースの現状を概説した上で、SRAおよびGenBankへのデータ提出の主要インターフェースであるSubmission Portalへの更新を含む、過去2年間の重要なアップデートについて概観する。また、NCBI Datasetsのウェブサイトやプログラムインターフェースを含むこれらのデータへのアクセスポイントについて説明するとともに、アノテーションパイプライン、BLAST、Multiple Comparative Genome Viewerなど、NCBIの主要な配列解析および可視化ツールの改善点について述べる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1112",
+    "title": "QPD: a comprehensive database integrating global quarantine regulations with biological, molecular, and spatial resources",
+    "abstract": "AbstractQuarantine pests pose major threats to global biosafety, agriculture, and biodiversity. However, information of their regulatory status, biology, distribution, and molecular resources remains fragmented across multiple sources, which hinders the in-depth analysis of quarantine pests. Here, we present the Quarantine Pest Database (QPD, https://qpests.insect-genome.com), an open-access resource that integrates global regulations with biological knowledge, multi-omics sequences, and distribution of quarantine pests. QPD integrates official quarantine pest lists, complementary phytosanitary notifications, and distribution records of 231 countries and regions, covering 9849 regulated pest taxa, 7666 host plants, 2057 genome assemblies, 4877 transcriptomes, and 1 311 846 DNA barcode sequences. We also provide 21 747 habitat suitability maps for 4350 quarantine pests under historical and future climate conditions. Each pest entry contains the comprehensive information of standardized taxonomy and jurisdiction-specific quarantine status with host associations, distribution records, morphological descriptions, images, literature references, and available omics resources. Moreover, QPD provides interactive browsing and retrieval, DNA barcode finding, global distribution visualization, and model-based habitat suitability maps. To the best of our knowledge, QPD is the first database to integrate global quarantine regulations with biological, molecular, and spatial information of quarantine pests, providing a centralized resource for the community of pest risk assessment and biosecurity research.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1112",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1112/9051877?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "genome",
+        "resource",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assemblies",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4465,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1112"
+    ],
+    "translation": {
+      "title": {
+        "hash": "923ccc3d3148c979ee5eb5d198f51004caca80662068480f696769c29f1826cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:09:46.758627+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3c8b43a7436c1e599a826f2ce58fe7011f2df5ca05c1195cff2fc15b1b3cb544",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:09:46.758627+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "QPD：世界的な検疫規制と生物学的・分子的・空間的リソースを統合した包括的データベース",
+    "abstract_ja": "要旨：検疫害虫は、世界的なバイオセーフティ、農業、および生物多様性に重大な脅威をもたらしている。しかし、その規制状況、生物学的特性、分布、および分子資源に関する情報は、複数の情報源にわたって断片化されており、検疫害虫の詳細な解析を妨げる要因となっている。本報では、世界的な規制、生物学的知見、マルチオミクス配列、および検疫害虫の分布を統合したオープンアクセスリソースである検疫害虫データベース（QPD, https://qpests.insect-genome.com）を紹介する。QPDは、231の国・地域の公式な検疫害虫リスト、補完的な植物検疫通知、および分布記録を統合しており、規制対象の害虫分類群9,849種、宿主植物7,666種、ゲノムアセンブリ2,057件、トランスクリプトーム4,877件、およびDNAバーコード配列1,311,846件を網羅している。また、過去および将来の気候条件下における4,350種の検疫害虫について、21,747枚の生息適地適合性マップを提供している。各害虫項目には、標準化された分類体系および管轄区域固有の検疫状況に関する包括的な情報に加え、宿主との関連性、分布記録、形態学的記述、画像、文献参照、および利用可能なオミクスリソースが含まれている。さらに、QPDはインタラクティブな閲覧・検索、DNAバーコードの検索、世界的な分布の可視化、およびモデルに基づく生息適地適合性マップを提供している。我々の知る限り、QPDは世界的な検疫規制を検疫害虫の生物学的、分子的、および空間的情報と統合した初のデータベースであり、害虫リスク評価およびバイオセキュリティ研究コミュニティに一元的なリソースを提供するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1151",
+    "title": "PDBe in 2027: integrating literature annotations, molecular dynamics data, and AI-ready access",
+    "abstract": "AbstractThe Protein Data Bank in Europe (PDBe; pdbe.org) provides open access to experimentally determined biomacromolecular structures and enriches these data with biological and functional context. Here, we describe recent developments that expand the information connected to PDB structures and introduce new ways for researchers and computational tools to access it. Literature integration has been extended to additional open-access publications, substantially increasing the availability of residue-level annotations mined from the scientific literature. Cross-links to molecular dynamics simulations in MDposit have been established, and simulation-derived residue-level annotations, including relative solvent accessibility and membrane-related properties, have been integrated into PDBe-KB (pdbekb.org). PDBe entry pages now expose additional experimental and sequence information, links to related resources, and extended PDB identifiers. Protein channel, tunnel, and pore analyses generated using MOLE have also been incorporated into our weekly release pipeline and made available for download. Improved API documentation facilitates the discovery of data fields and search parameters, while three Model Context Protocol servers facilitate agentic access to the PDBe APIs, Search, and the PDBe-KB knowledge graph. Together, these developments make structural data and its wider biological context easier to discover, interpret, and reuse through both conventional and agentic workflows.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1151",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1151/9051874?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4466,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1151"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bda6b236e7b0ba4472a2037a7528d0740feddd95a4ce98378c494fb987234269",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:09:46.758627+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "61c2ca754fb59c9dced7e5369325cee516d6ba3938af261ba7bdc01ab267185f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:09:46.758627+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2027年のPDBe：文献アノテーション、分子動力学データ、およびAI対応アクセスの統合",
+    "abstract_ja": "要旨欧州のProtein Data Bank（PDBe; pdbe.org）は、実験的に決定された生体高分子構造へのオープンアクセスを提供し、これらのデータに生物学的および機能的なコンテキストを付与している。本稿では、PDB構造に関連する情報を拡充する最近の進展について述べるとともに、研究者や計算ツールが当該情報にアクセスするための新たな手法を紹介する。文献統合の対象が追加のオープンアクセス出版物へと拡大され、科学文献から抽出された残基レベルのアノテーションの利用可能性が大幅に向上した。MDpositにおける分子動力学シミュレーションへのクロスリンクが確立され、相対的な溶媒アクセス性や膜関連特性を含むシミュレーション由来の残基レベルのアノテーションがPDBe-KB（pdbekb.org）に統合された。PDBeのエントリーページでは、追加の実験情報および配列情報、関連リソースへのリンク、および拡張PDB識別子が提供されるようになった。MOLEを用いて生成されたタンパク質チャネル、トンネル、およびポア解析も、週次リリースパイプラインに組み込まれ、ダウンロード可能となった。改善されたAPIドキュメントによりデータフィールドや検索パラメータの発見が容易になったほか、3台のModel Context Protocolサーバーが、PDBe API、Search、およびPDBe-KBナレッジグラフへのエージェント型アクセスを可能にした。これらの進展が相まって、従来のワークフローとエージェント型ワークフローの双方を通じて、構造データとそのより広範な生物学的コンテキストの発見、解釈、および再利用がより容易になった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.1099/acmi.0.001328.v2",
+    "title": "Comparative bacterial community profiling of hospital, community, and abattoir wastewater in Mbarara, Uganda, using 16S rRNA amplicon sequencing",
+    "abstract": "Wastewater-based epidemiology provides a complementary approach to public-health and environmental surveillance, but comparative bacterial community data from different wastewater systems in Uganda remain limited. This study characterised bacterial communities in hospital-associated, community and abattoir wastewater lagoons in Mbarara, Uganda. Forty-five wastewater samples were collected weekly from 18 February to 18 March 2026 at the inlet, midpoint and outlet of the TASO, Kizuungu and Ruti lagoons. Bacterial communities were characterised using 16S rRNA gene amplicon sequencing. Sequence processing and diversity analyses used nf-core/ampliseq and QIIME 2, while functional potential was inferred using PICRUSt2. Sequencing identified 9,870 amplicon sequence variants. Bacterial community composition differed significantly among the three lagoons across Bray–Curtis, Jaccard, weighted UniFrac and unweighted UniFrac metrics, whereas alpha-diversity measures did not differ significantly. Of 13 bacterial genus-level groups examined for public-health relevance, Acinetobacter (q = 0.0013) and Enterobacter (q = 0.0248) differed significantly among lagoons after false-discovery-rate correction. Acinetobacter was relatively abundant in TASO and Ruti wastewater but less abundant in Kizuungu, while Enterobacter had its highest mean relative abundance in TASO. PICRUSt2 predicted broadly overlapping metabolic pathway profiles across the lagoons. The three lagoons harboured distinct bacterial community compositions despite comparable within-sample diversity. These findings establish baseline microbiome information for comparative wastewater surveillance in Mbarara and provide a foundation for further investigation of microbial patterns across additional wastewater systems.",
+    "journal": "",
+    "doi": "10.1099/acmi.0.001328.v2",
+    "date": "2026-11-10",
+    "authors": "Nalumaga PP, Nakimuli CN, Kawuma S, Bazira J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1364725",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4125,
+    "collected_at": "2026-11-14T11:27:51.659174+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1099/acmi.0.001328.v2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af9b05adafdbe2bf4348f5a067fc7cec76278315964ad3266df41f7085485cf8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:09:46.758627+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9651825739e5210d824249e6426453945d54e381b279dad06e0503591e74f2d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:09:46.758627+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "16S rRNAアンプリコンシーケンシングを用いたウガンダ・ムバララにおける病院、地域、および屠畜場の廃水の細菌群集プロファイルの比較解析",
+    "abstract_ja": "下水ベースの疫学は、公衆衛生および環境サーベイランスに対する補完的なアプローチとなるが、ウガンダの異なる下水システムにおける細菌群集の比較データは依然として限られている。本研究では、ウガンダのムバララにある病院関連、地域、および屠畜場の下水ラグーンにおける細菌群集の特性評価を行った。2026年2月18日から3月18日まで、TASO、キズング、およびルティ各ラグーンの流入口、中間点、および流出口において、週単位で45検体の下水サンプルを採取した。細菌群集の特性評価には、16S rRNA遺伝子アンプリコンシーケンシングを用いた。配列処理および多様性解析にはnf-core/ampliseqおよびQIIME 2を使用し、機能的ポテンシャルはPICRUSt2を用いて推定した。シーケンシングにより、9,870個のアンプリコン配列バリアントが同定された。細菌群集の組成は、Bray–Curtis、Jaccard、重み付きUniFrac、および重みなしUniFracの指標において、3つのラグーン間で有意に異なっていたが、アルファ多様性指標に有意な差は認められなかった。公衆衛生上の関連性について検討した13の細菌属レベルのグループのうち、偽発見率補正後において、Acinetobacter（q = 0.0013）およびEnterobacter（q = 0.0248）はラグーン間で有意な差が認められた。AcinetobacterはTASOおよびルティの下水で比較的豊富であったが、キズングでは少なかった一方、EnterobacterはTASOにおいて平均相対存在量が最大であった。PICRUSt2は、各ラグーン間で代謝経路プロファイルが概ね重複していることを予測した。サンプル内の多様性は同程度であったものの、3つのラグーンはそれぞれ異なる細菌群集組成を有していた。これらの知見は、ムバララにおける比較下水サーベイランスのための基礎的なマイクロバイオーム情報を確立するものであり、さらなる下水システムにおける微生物パターンの調査に向けた基盤となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.764993",
+    "title": "Integrated genotyping, annotation and epigenetic characterization of transposable elements with GraffiTE",
+    "abstract": "Genotyping, annotating and characterizing TE variation leaped forward with long-read sequencing (LRS) and  de novo assembly. LRS techniques also reveal CpG methylation, which enables measuring the impact of TEs on epigenomes and sheds light on the role of TEs as regulatory sequences. Yet, TE genotyping tools discard the valuable allele-specific epigenetic information.  We introduce GraffiTE v1.1, the first Nextflow pipeline that genotypes SVs, annotates polymorphic mobile elements (MEI), and maps epigenetic data to TEs using pangenome graphs in one command. GraffiTE v1.1 is designed to map any epigenetic information that is based on LRS stencils, including Fiber-seq. We demonstrate the capabilities of GraffiTE v1.1 by analyzing genomes and methylomes obtained from 20 Quebec residents of French-Canadian descent. In these genomes, TE annotation yields 4,908 Alu, 704 LINE1, 112 SVA and 21 HERVK (HML-2) distinct polymorphic mobile elements (MEIs). We also identify 10 fixed HERVK insertions that vary between solo LTR and provirus, or in proviral copy number. We determine that these MEIs contribute 144,748 additional CpGs not present in the reference. From this, we identify 480 Alus, 67 LINE1s, 12 SVAs and 2 HERVKs in hypomethylated states. We note that Alus and SVAs are more methylated than other LINE1 and HERVK. Lastly, MEIs dating reported a mean of age 1.08 Mya (median: 640 kya) and beta regression identified a moderate demethylating effect of age on MEIs (effect: -0.069 log-odds per log10 years, P < 6.08x10  -19 ). Our results show that the methylation level of a LINE1 MEI is expected to decrease from 86.4% to 80.8% in the first Mya.  In conclusion, GraffiTE v1.1 genotypes SVs, annotates MEI, and characterizes their epigenetic state at the scale of populations by leveraging the full potential of LRS. While we showcase its application in human data, the pipeline can be deployed in any model for which a TE library is available.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764993",
+    "date": "2026-11-09",
+    "authors": "Goubert C, Laflamme R, Eveleigh RJ, Ragoussis J, Wheeler TJ, Lettre G, Bourque G, Groza C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362365",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "pangenome",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome",
+          "pangenom",
+          "pangenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4294,
+    "collected_at": "2026-11-13T07:56:57.456049+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.06.764993"
+    ],
+    "translation": {
+      "title": {
+        "hash": "71c27edc1e22b6162669dbad9ea30a74315d9d875db5eb8f6740cd83f57f553a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:09:46.758627+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "62242ea0b77ada90a31cce84c52e46799199d7d517fcf55a98922ffc7ddf053f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:09:46.758627+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GraffiTEを用いた転移因子の統合的なジェノタイピング、アノテーション、およびエピジェネティック特性解析",
+    "abstract_ja": "ロングリードシーケンシング（LRS）とde novoアセンブリにより、TE変異のジェノタイピング、アノテーション、および特性解析は飛躍的に進展した。また、LRS技術はCpGメチル化を明らかにし、これによりエピゲノムに対するTEの影響を測定することが可能となり、調節配列としてのTEの役割を解明している。しかし、TEジェノタイピングツールは、アレル特異的な貴重なエピジェネティック情報を切り捨てている。本稿では、SVのジェノタイピング、多型性可動要素（MEI）のアノテーション、およびパンゲノムグラフを用いたエピジェネティックデータのTEへのマッピングを単一コマンドで実行する初のNextflowパイプライン「GraffiTE v1.1」を提案する。GraffiTE v1.1は、Fiber-seqを含む、LRSステンシルに基づくあらゆるエピジェネティック情報のマッピングを行うよう設計されている。我々は、フランス系カナダ人のケベック州住民20名から得られたゲノムおよびメチロームを解析することで、GraffiTE v1.1の性能を実証した。これらのゲノムにおいて、TEアノテーションにより、4,908個のAlu、704個のLINE1、112個のSVA、および21個のHERVK（HML-2）という個別の多型性可動要素（MEI）が同定された。また、単独のLTRとプロウイルスの間で、あるいはプロウイルスのコピー数において変動する10箇所の固定HERVK挿入を同定した。これらのMEIは、リファレンスに存在しない144,748個の追加CpGに寄与していることが判明した。ここから、低メチル化状態にある480個のAlu、67個のLINE1、12個のSVA、および2個のHERVKを同定した。なお、AluおよびSVAは、他のLINE1やHERVKよりもメチル化が進んでいる。最後に、MEIの報告された平均年代は1.08 Mya（中央値：640 kya）であり、ベータ回帰により、年代がMEIに中程度の脱メチル化効果を及ぼすことが示された（効果：log10年あたり-0.069 log-odds, P < 6.08x10 -19）。我々の結果は、LINE1 MEIのメチル化レベルが、最初の1 Myaで86.4%から80.8%に低下することが予想されることを示している。結論として、GraffiTE v1.1はLRSの潜在能力を最大限に活用することで、SVのジェノタイピング、MEIのアノテーション、および集団規模でのエピジェネティック状態の特性解析を行う。本稿ではヒトデータへの適用例を示したが、本パイプラインはTEライブラリが利用可能なあらゆるモデルに展開可能である。"
   }
 ]
