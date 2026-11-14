@@ -218367,5 +218367,332 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "非メチル化DNAのハイスループットシーケンシング（UMR-seq）により、多様な植物種の低メチル化ゲノムにおける広範なエピジェネティック変異が明らかになった。",
     "abstract_ja": "要旨　ゲノム内の非メチル化領域（UMR）は、遺伝子および遺伝子調節遺伝子座の位置を明らかにすることができる。しかし、ゲノム全体にわたる、あるいはゲノム間におけるUMR変異の検出や、遺伝学およびエピジェネティクスが形質に及ぼす寄与を解明することは、個別のコストのかかる全DNAメチルローム解析および全ゲノム遺伝解析を必要とするため、困難である。多くの種において、これは少数のサンプルであっても極めて高額な費用を要するため、集団規模や育種規模での解析が制限されている。本研究では、ゲノムからUMRを特異的に捕捉し、遺伝的変異を同時にシーケンシングする、経済的で拡張性の高い単一アッセイ法であるUMR-seqを提案する。UMR-seqは低メチル化領域をマッピングし、そこに機能的に重要な調節遺伝子座が高度に濃縮されていることを明らかにする。UMRは植物の栄養器官間では高度に安定している一方、胚乳内では動的であり、系統間で大きく変動することがわかった。多様な種に適応可能な本手法を用いることで、種における遺伝子数とUMR含有量との間に正の相関があることを明らかにし、これがゲノムにおける遺伝子調節空間を反映していることを示した。小麦における従来のメチルロームシーケンシングコストの50分の1という低コストで、UMR-seqは機能的ゲノム空間における遺伝的およびエピジェネティックな変異の集団規模での同時解析を可能にする。187系統のエリート小麦栽培品種パネルにおいて、UMR変異のプロファイリングが集団グループ間のゲノム予測精度を向上させたこと、またUMRに基づく関連マッピングにより、SNPで検出されたものとは大きく異なる形質関連が特定されたことを明らかにし、形質生物学の理解と予測育種の向上に向けた新たな機会を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.26367217",
+    "title": "VaccineScout: A Computational Framework for Guiding the Composition and Valency of SARS-CoV-2 Vaccine Updates",
+    "abstract": "The continual evolution of SARS-CoV-2 necessitates periodic vaccine updates to maintain immunity against newly emerging variants. However, vaccine design remains largely guided by experimental serological studies, and there is no publicly available computational framework to help systematically prioritize vaccine variants and guide valency selection. Here, we analyze over 14 million SARS-CoV-2 genomes collected globally between 2021 and 2025 and find that over half of spike amino acid sequences (primary vaccine target) observed during the first six months after vaccine selection were already circulating at the time of selection, compared with only 5-10% of sequences during the subsequent six months. These findings provide quantitative support for annual COVID-19 vaccine updates. We further show that circulating variant prevalence and open-source variant fitness predictors can both effectively rank circulating variants by their future prevalence. Motivated by these findings, we developed VaccineScout, a computational framework that recommends vaccine candidates by minimizing the average spike amino acid substitution distances to the forecasted prevalence of circulating variants. VaccineScout also helps determine vaccine valency by quantifying diminishing returns as additional variants are introduced. Retrospective analyses showed that VaccineScout-recommended candidates either matched U.S. Food and Drug Administration recommendations or had lower average spike sequence distances to future variants and higher fitness. In addition, their spike distances to future variants were comparable to an oracle selection informed by future prevalence, indicating near-optimal performance by this metric. Together, VaccineScout introduces an in silico framework for systematically prioritizing SARS-CoV-2 vaccine candidates for costly downstream experimental validation.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.26367217",
+    "date": "2026-11-04",
+    "authors": "Gangwar P, Khanna S, Wertheim J, Lin B, Turakhia Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359783",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "amino acid",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2521,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.26367217"
+    ],
+    "translation": {
+      "title": {
+        "hash": "55dbd7e2110f114817757ac4f3f18cd2dfcefbe043e3f7ec69451e9c92c7c99c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:59:31.150062+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "402d2245f4a1d8082a8efa6017a8ce17777b78845f8a6db29a1d06616123f575",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:59:31.150062+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "VaccineScout: SARS-CoV-2ワクチン更新の組成と価を導くための計算論的フレームワーク",
+    "abstract_ja": "SARS-CoV-2の絶え間ない進化に伴い、新たに出現する変異株に対する免疫を維持するためには、定期的なワクチンの更新が不可欠である。しかし、ワクチンの設計は依然として主に実験的な血清学的研究に基づいており、ワクチン変異株を体系的に優先順位付けし、価の選択を導くための公開計算フレームワークは存在しない。本研究では、2021年から2025年にかけて世界的に収集された1,400万件以上のSARS-CoV-2ゲノムを解析し、ワクチン選択後の最初の6か月間に観察されたスパイクアミノ酸配列（主要なワクチン標的）の半数以上が、選択時点で既に流行していたのに対し、その後の6か月間では5～10%の配列にとどまっていたことを明らかにした。これらの知見は、年次のCOVID-19ワクチン更新を定量的に裏付けるものである。さらに、流行している変異株の保有率とオープンソースの変異株適応度予測モデルの双方が、流行変異株を将来の保有率に基づいて効果的に順位付けできることを示した。これらの知見に基づき、我々は、流行変異株の予測保有率に対する平均スパイクアミノ酸置換距離を最小化することでワクチン候補を推奨する計算フレームワーク「VaccineScout」を開発した。VaccineScoutはまた、新たな変異株が導入されるにつれて得られる便益が逓減することを定量化することで、ワクチンの価の決定を支援する。回顧的解析の結果、VaccineScoutが推奨した候補は、米国食品医薬品局（FDA）の推奨事項に合致するか、あるいは将来の変異株に対する平均スパイク配列距離がより短く、適応度が高いことが示された。加えて、将来の変異株に対するスパイク距離は、将来の保有率を考慮したオラクル選択と同等であり、この指標においてほぼ最適な性能を示した。総じて、VaccineScoutは、コストのかかる後続の実験的検証に向けて、SARS-CoV-2ワクチン候補を体系的に優先順位付けするためのin silicoフレームワークを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.763907",
+    "title": "Single-cell transcriptomics of enriched rare neural lineages of  Tribolium castaneum",
+    "abstract": "Background  Single-cell transcriptomic atlases have transformed our understanding of cell diversity. However, studies designed to profile entire tissues or organisms often omit or underrepresent rare cell populations. Enriching selected populations before sequencing offers a powerful approach to overcoming this limitation, but its application in insects has largely focused on  Drosophila , limiting opportunities for comparative studies. Here, we establish complementary workflows for targeted transcriptomic profiling of rare neural populations in the red flour beetle,  Tribolium castaneum .  Results  We developed two workflows combining population enrichment with single-cell or single-nucleus RNA sequencing. First, we generated cell suspensions from a transgenic reporter line labelling embryonic neuroblasts, enriched fluorescently labelled cells by fluorescence-activated cell sorting, and performed single-cell RNA sequencing. Second, we immunolabelled first-instar larval brains with an antibody against the nuclear transcription factor Rx, isolated and sorted labelled nuclei, and performed single-nucleus RNA sequencing. Both workflows yielded material suitable for transcriptomic profiling, demonstrating complementary reporter-based and antibody-based strategies for accessing selected neural populations at different developmental stages. Conclusions  These workflows establish a methodological framework for targeted single-cell and single-nucleus transcriptomic studies of rare or specific neural populations in  Tribolium . They provide practical starting points for adaptation to other insect systems, expanding opportunities for comparative investigations of neural development and cell-type evolution.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.763907",
+    "date": "2026-11-04",
+    "authors": "Cabañas N, Veloso A, Zinzen R, Bucher G, Mau C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358925",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "sequencing",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2533,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.763907"
+    ],
+    "translation": {
+      "title": {
+        "hash": "970bb80f29f1b8a11a4016d10b49f0b5dbdc5f5f6b8e20b67ad5cc0e8390f801",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:59:31.150062+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8c19ef7ab9f0ce1a93a90ffcaa519faf39e8c5162206db2a17f4417501774e74",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:59:31.150062+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Tribolium castaneumの濃縮された希少神経系系統の単一細胞トランスクリプトミクス",
+    "abstract_ja": "背景  単一細胞トランスクリプトームアトラスは、細胞多様性に関する我々の理解を一変させた。しかし、組織や個体全体のプロファイリングを目的とした研究では、希少な細胞集団が除外されたり、十分に代表されなかったりすることが多い。シーケンシング前に特定の集団を濃縮することは、この限界を克服するための強力なアプローチとなるが、昆虫への適用は主にショウジョウバエ（Drosophila）に限定されており、比較研究の機会を狭めていた。本研究では、アカミギロハナムグリ（Tribolium castaneum）における希少な神経細胞集団の標的型トランスクリプトームプロファイリングのための、相補的なワークフローを確立した。結果  我々は、集団濃縮と単一細胞または単一核RNAシーケンシングを組み合わせた2つのワークフローを開発した。まず、胚性神経芽細胞を標識したトランスジェニックレポーター系統から細胞懸濁液を調製し、蛍光活性化細胞選別法を用いて蛍光標識細胞を濃縮し、単一細胞RNAシーケンシングを行った。次に、核転写因子Rxに対する抗体で1齢幼虫の脳を免疫標識し、標識された核を単離・選別して、単一核RNAシーケンシングを行った。両ワークフローともにトランスクリプトームプロファイリングに適した試料が得られ、異なる発生段階にある特定の神経細胞集団にアクセスするための、レポーターベースおよび抗体ベースの相補的な戦略が実証された。結論  これらのワークフローは、Triboliumにおける希少または特定の神経細胞集団を対象とした、標的型単一細胞および単一核トランスクリプトーム研究のための方法論的枠組みを確立するものである。これらは、他の昆虫系への適応に向けた実用的な出発点となり、神経発生および細胞種進化の比較研究の機会を拡大するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763678",
+    "title": "Spectral Adaptive Repositioning for Flow-Based Single-Cell Perturbation Modeling",
+    "abstract": "Predicting transcriptome-wide cellular responses to genetic and biomolecular perturbations is central to functional genomics and therapeutic target discovery. Existing methods assign gene positional encodings derived from arbitrary orderings or static co-expression masks built from unperturbed cells, and cannot capture the functional rewiring induced by perturbations. We present  SPEAR , a generative framework built on two complementary positional mechanisms. Spectral positional encoding grounds each gene’s position in the geometry of the co-expression network via continuous coordinates derived from the graph Laplacian. Adaptive repositioning then derives each gene’s position from its perturbation-conditioned hidden state at every layer, allowing the attention genes exert on one another to reorganize without explicit supervision. Evaluated on genetic, pharmacological, and cytokine perturbation benchmarks, SPEAR demonstrates excellent recovery of differential gene-expression, distributional structure, and perturbation-specific identifiability. SPEAR also captures latent positional relationships that closely map to known transcription factor-target interactions.  https://github.com/shouryaverma/SPEAR",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763678",
+    "date": "2026-11-04",
+    "authors": "Verma S, Wang M, Kadadi S, Lanman NA, Mohammadi S, Grama A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358769",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2534,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763678"
+    ],
+    "translation": {
+      "title": {
+        "hash": "24aff21fcf343427f9fc501a2e286f3e1a2784f04135875d8de6fc36e27982c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:59:31.150062+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e6133c199f35b924d89d0828069023ef500f2ac49c9df0e142c8d1fdf4ef6ef9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:59:31.150062+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "流れに基づく単一細胞摂動モデリングのためのスペクトル適応的再配置",
+    "abstract_ja": "遺伝的および生体分子レベルの摂動に対するトランスクリプトーム全域にわたる細胞応答を予測することは、機能ゲノミクスおよび治療標的の探索において中核的な役割を担う。既存の手法では、任意の順序付けや摂動のない細胞から構築された静的な共発現マスクに由来する遺伝子位置エンコーディングを割り当てており、摂動によって誘発される機能的なリワイヤリングを捉えることはできない。本稿では、2つの相補的な位置決定メカニズムに基づいて構築された生成的フレームワーク「SPEAR」を提案する。スペクトル位置エンコーディングは、グラフラプラシアンから導出される連続座標を用いて、各遺伝子の位置を共発現ネットワークの幾何学的構造に基づかせる。続いて、適応的再配置が、各レイヤーにおける摂動条件付きの隠れ状態から各遺伝子の位置を導出することで、明示的な教師信号なしに、遺伝子同士が及ぼし合うアテンションを再編成することを可能にする。遺伝的、薬理学的、およびサイトカイン摂動のベンチマークで評価した結果、SPEARは遺伝子発現の差異、分布構造、および摂動特異的な識別可能性を極めて良好に復元できることが示された。また、SPEARは、既知の転写因子-標的相互作用に密接に対応する潜在的な位置関係も捉える。  https://github.com/shouryaverma/SPEAR"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.763626",
+    "title": "De novo genome assembly of the floating-hook moss Warnstorfia fluitans",
+    "abstract": "The floating-hook moss Warnstorfia fluitans is a natural species dominant in subarctic and Arctic aquatic ecosystems. It is adapted to cold, acidic, and nutrient-deficient environments and possesses great potential for bioremediation by removing contaminants from polluted water in cold climate conditions. Here, we present the first de novo genome assembly of W. fluitans generated from pooled male and female gametophytes. The assembly is 725.04 Mb, has a N50 of 193.5 kb, a BUSCO completeness of 97.6% against the Viridiplantae lineage and 82% against the Embryophyta lineage. The whole assembly has Merqury quality value of 37 and Merqury completeness of 92%. A total of 30421 protein coding genes were predicted, with 78.62% completeness by compleasm and 87% OMArk completeness against the Embryophyta lineage. Repetitive sequences comprise 56.16% of the genome. We also present here the two complete circular chloroplast genomes and a linear mitochondrial genome of W. fluitans. This genomic resource will facilitate studies of ecological adaptation and a wide range of biological and evolutionary studies in bryophytes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.763626",
+    "date": "2026-11-04",
+    "authors": "Nguyen M, Galarza JA, Koskimäki JJ, Mian AH, Podolich O, Ahonen SH, Pirttilä AM, Lehosmaa K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358755",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2535,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.763626"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4c3e3af04e4a075c79c35edfa3734399c11fb64cd22d3870991189fe459b15bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:59:31.150062+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c36d250654438fe1c3d2b014fa2c6c4fbe96e325e0a043ac11f9f8fee34395c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:59:31.150062+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "浮遊鉤苔 Warnstorfia fluitans の新規ゲノムアセンブリ",
+    "abstract_ja": "浮遊鉤状コケ類のWarnstorfia fluitansは、亜寒帯および北極圏の水圏生態系において優占する天然種である。本種は寒冷で酸性かつ栄養不足の環境に適応しており、寒冷気候条件下で汚染水から汚染物質を除去することで、バイオレメディエーションにおいて大きな可能性を有している。本報では、プールされた雄および雌の配偶体から得られたW. fluitansの初のde novoゲノムアセンブリを提示する。アセンブリのサイズは725.04 Mbであり、N50は193.5 kb、BUSCO完全性はViridiplantae系統に対して97.6%、Embryophyta系統に対して82%である。アセンブリ全体のMerqury品質値は37、Merqury完全性は92%である。計30,421個のタンパク質コード遺伝子が予測され、完全性はcompleasmで78.62%、Embryophyta系統に対するOArk完全性は87%であった。反復配列はゲノムの56.16%を占める。また、本報ではW. fluitansの2つの完全な環状葉緑体ゲノムおよび線状ミトコンドリアゲノムを提示する。このゲノムリソースは、コケ植物における生態的適応の研究や、広範な生物学的・進化学的研究を促進するものである。"
   }
 ]
