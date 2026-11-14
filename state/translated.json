@@ -206990,5 +206990,334 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "冷水性八放サンゴ類 Dentomuricea aff. meteor のトランスクリプトーム資源が明かす深海無脊椎動物系統間の共通ストレス応答構造",
     "abstract_ja": "冷水性八放サンゴは、深海採掘に起因する海底攪乱や金属汚染に伴う環境圧力にますますさらされているが、そのストレス応答の基盤となる分子システムはいまだ十分に解明されていない。Dentomuricea aff. meteorに関するこれまでの実験的研究は、少数の標的分子マーカーに依存しており、応答状態に関する情報は得られたものの、それらの応答が生じるより広範な分子レパートリーに関する知見はほとんど得られていなかった。本研究では、2016年にD. aff. meteorから生成されたアーカイブRNA-seqデータセットを再検討し、遺伝子探索および比較解析のためのベンチマーク済みトランスクリプトームリソースを構築する。オリジナルリードの現代的な再構築により、575,058個の転写産物と95,468個の予測コーディング配列が得られた。保存された花虫類BUSCOsの回収率は依然として低く、2016年のオリジナルアセンブリとほぼ同等（完全率3.5%対3.4%）であった。このことは、アーカイブデータセットを包括的な遺伝子カタログではなく、部分的なトランスクリプトームリソースとして解釈すべきであることを示している。それにもかかわらず、現代的なアノテーションによって機能的に解釈可能な配列分画が相当量回収され、標的キュレーションにより、広範なストレスおよび自然免疫の枠組みの中で、Swiss-Protおよび／または診断用Pfamの根拠によって支持される141個の個別の遺伝子が同定された。5種の花虫類にわたる比較オーソロジーにより、サンプリングパネル内の焦点種に限定されたオーソグループに、4,172個のDentomuricea遺伝子（8.7%）が割り当てられた。対応する推定値は、予備的な3種パネルでは33.1%であったが、独立した確定的な5種花虫類パネルでは8.7%であり、見かけ上の系統特異性が比較パネルの構成や分類学的な広がりに敏感であることが示された。限定セットに残ったPfamアノテーション済み遺伝子のうち、37.4%に転移因子（TE）関連ドメインが含まれており、さらに配列レベルの精査により、いくつかの見かけ上の低コピー重複が断片化した転写産物の再構築を反映していることが示された。独立にアセンブルされた深海ムール貝Bathymodiolus azoricusのひだトランスクリプトームとの標的比較により、両種において22個のストレスおよび自然免疫標的のうち19個の支持候補が回収された。選定された12個のタンパク質代表体は、キュレートされた標的セット内で相互的な配列類似性を示した。HSP90、Cu/Zn-スーパーオキシドジスムターゼ、およびフェリチンが最も強い対応関係を示し、相当なアミノ酸同一性と高い相互配列カバレッジを有していた一方、TLR-、RHD-、JUN-、およびSTAT関連タンパク質は、主に保存ドメイン内で類似性を維持していた。これらの解析を総合すると、不完全なアーカイブデータセットが生物学的に有益な分子リソースへと変換され、従来のバイオマーカーに基づく生態毒性学を、D. aff. meteorにおけるストレス応答能のより広範な視点へと拡張するものである。さらに、見かけ上の分子的新規性は分類学的サンプリングに強く依存すること、およびタンパク質恒常性、酸化防御、鉄恒常性、および自然免疫シグナル伝達の中核的構成要素が、深く分岐した深海無脊椎動物の系統間においても認識可能であることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.764801",
+    "title": "TideCluster: clustering and classification of tandem repeats for comparative and pangenomic analysis",
+    "abstract": "Satellite DNA, composed of tandem arrays of relatively short repeated units, is a ubiquitous component of plant and animal genomes. Despite its biological importance, systematic investigation of satellite DNA remains challenging, in part because integrated bioinformatic tools for structured comparative analyses across individual arrays, chromosomes, and genomes are lacking. Here, we present TideCluster, a reference-independent pipeline that converts fragmented tandem repeat detections into genome-wide, interpretable repeat family catalogs. Starting from a genome assembly, TideCluster consolidates detected regions into arrays, clusters arrays by sequence similarity, reconstructs representative monomer consensus sequences, estimates locus-specific periodicity, identifies higher-order repeats, and generates GFF3 annotations. In addition to predefined visualizations, including the chromosomal distributions of satellite repeat families, TideCluster produces information-rich outputs that can be adapted for user-specific downstream analyses. We demonstrate its capabilities using the well-characterized genome of Arabidopsis thaliana and a set of Solanum species with highly diverse satellite repeat complements that vary markedly in abundance and have monomer lengths ranging from a few base pairs to more than 20 kb.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764801",
+    "date": "2026-11-09",
+    "authors": "Novak P, Macas J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362515",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "classification",
+        "clustering",
+        "genome",
+        "pangenomic",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "assembly",
+          "genom",
+          "genome",
+          "pangenom",
+          "pangenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4201,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.06.764801"
+    ],
+    "translation": {
+      "title": {
+        "hash": "098304bd0795ded249f6bc8700736e2a9b11f91ad37759d6c2bebdb566d4c09f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:00:29.762322+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "71d3add99ce801eb3e9e540a802a886ae5f2ffa25a46dae9e7b35d0cbf6b64d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:00:29.762322+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TideCluster: 比較およびパンゲノミック解析のためのタンデムリピートのクラスタリングと分類",
+    "abstract_ja": "比較的短い反復単位のタンデムアレイで構成されるサテライトDNAは、植物および動物のゲノムに普遍的に存在する構成要素である。その生物学的重要性にもかかわらず、個々のアレイ、染色体、およびゲノムにわたる構造化された比較解析のための統合的なバイオインフォマティクスツールが不足していることなどが一因となり、サテライトDNAの系統的な調査は依然として困難な課題となっている。本報では、断片化されたタンデム反復の検出結果を、ゲノムワイドで解釈可能な反復ファミリーカタログに変換するリファレンス非依存型パイプラインであるTideClusterを提案する。TideClusterは、ゲノムアセンブリを起点として、検出された領域をアレイに統合し、配列類似性に基づいてアレイをクラスタリングし、代表的なモノマーコンセンサス配列を再構成し、遺伝子座特異的な周期性を推定し、高次反復を同定し、GFF3アノテーションを生成する。サテライト反復ファミリーの染色体分布を含む事前定義済みの可視化に加え、TideClusterは、ユーザー固有のダウンストリーム解析に適応可能な、情報豊富な出力を生成する。我々は、十分に特性解析されたシロイヌナズナのゲノムと、存在量に顕著な差があり、モノマー長が数塩基対から20 kb超まで多岐にわたる、極めて多様なサテライト反復補体を持つナス属の一連の種を用いて、その機能を実証する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.07.26367371",
+    "title": "A Framework for Variant Filtering to Improve Diagnostic Outcomes in Genome Sequencing",
+    "abstract": "Rare genetic disorders frequently remain undiagnosed despite the use of exome sequencing (ES) and genome sequencing (GS). This study aimed to enhance diagnostic yield by introducing a systematic framework: SMART filtering (Systematic, Multi-step, Automated, Rare variant prioritization Tool), designed to optimize GS analysis, with a particular emphasis on non-coding regions. We retrospectively analyzed 153 cases with previously negative ES and GS results. SMART filtering was applied as a pre-annotation filtering step, integrating conservation metrics, allele frequency thresholds, and splicing prediction scores. Then followed by phenotype-based prioritization and manual review. Application of this framework identified pathogenic or likely pathogenic variants in 4.6% of cases, strong variants of uncertain significance (VUS) in 1.3%, and additional candidate variants in 5.2% of cases. Several deep-intronic variants were confirmed by RNA studies and segregation analyses. The framework enabled efficient prioritization of non-coding and regulatory variants that were overlooked by standard analyses. In conclusion, SMART filtering offers a reproducible and scalable strategy to improve diagnostic yield in GS, particularly in cases where conventional analysis methods fall short. Integrating such frameworks into clinical genomic pipelines can enhance variant interpretability and diagnostic performance, ultimately leading to better patient care outcomes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.07.26367371",
+    "date": "2026-11-09",
+    "authors": "Birnbaum R, Lee K, Mazor Y, Unger Y, Yanovsky-Dagan S, Grundwag I, Chalk M, Shaul-Lotan N, Greenbaum L, Freireich O, Klopstock T, Dror T, Sebbagh M, Beeri R, Murik O, Raved D, Rock R, Pode-Shakked B, Shani H, Josefsberg S, Harel T, Mor H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362400",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genome",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4202,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.07.26367371"
+    ],
+    "translation": {
+      "title": {
+        "hash": "857792e5c9e9f5c5460140106749ac67215ccc3a1342bad271c5948247d7dd1e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:00:29.762322+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "717ff5a822b6f14df5c73bcbd441ad510d6baa6750d695998dcdd786f5017c21",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:00:29.762322+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムシーケンシングにおける診断成績向上のためのバリアントフィルタリングのフレームワーク",
+    "abstract_ja": "エキソームシーケンシング（ES）やゲノムシーケンシング（GS）が用いられているにもかかわらず、希少な遺伝性疾患は診断されないままであることが多い。本研究は、特に非コード領域に重点を置いてGS解析を最適化するために設計された体系的なフレームワーク「SMARTフィルタリング（Systematic, Multi-step, Automated, Rare variant prioritization Tool）」を導入することで、診断収率の向上を目指した。我々は、過去にESおよびGSの結果が陰性であった153例を後方視的に解析した。SMARTフィルタリングは、保存性指標、アレル頻度閾値、およびスプライシング予測スコアを統合した事前アノテーションフィルタリング工程として適用された。その後、表現型に基づく優先順位付けと手動レビューを行った。このフレームワークの適用により、症例の4.6%で病原性または病原性の可能性が高いバリアントが、1.3%で意義不明の強力なバリアント（VUS）が、そして5.2%で追加の候補バリアントが同定された。いくつかの深イントロンバリアントは、RNA解析および分離解析によって確認された。本フレームワークにより、標準的な解析では見落とされていた非コードバリアントや調節バリアントを効率的に優先順位付けすることが可能となった。結論として、SMARTフィルタリングは、特に従来の解析手法では不十分な症例において、GSの診断収率を向上させるための再現性と拡張性に優れた戦略を提供する。このようなフレームワークを臨床ゲノムパイプラインに組み込むことで、バリアントの解釈可能性と診断性能が向上し、最終的に患者ケアのアウトカム改善につながる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764226",
+    "title": "Accelerating discovery and integration from RNA to Protein with R2T2P",
+    "abstract": "Integrating transcriptomics and proteomics data remains an unmet challenge in the post-genomics era, discouraging researchers from pursuing integrative approaches to molecular biology research. Leveraging the power of translation profiling, we present RNA to Translation to Protein (R2T2P), a computational platform integrating genome-guided transcriptome assembly with identification of translation and proteins, including a tailored differential analysis framework and support for multiple reference transcriptomes. We applied R2T2P to investigate a cellular model of facioscapulohumeral muscular dystrophy (FSHD), where ectopic expression of the DUX4 retrogene in skeletal muscle triggers significant alterations in transcription and RNA metabolism. We uncovered hundreds of uncharacterized, highly overexpressed RNAs, including antisense and alternative transcripts, and quantified their contribution to translatome and proteome. Re-analysis of expression datasets from patient-derived myotubes and muscle biopsies validated this alternative transcriptome in FSHD patients, adding a reservoir of bona-fide novel molecular actors in a rare disease. Available at https://github.com/nfdata-omics/R2T2P/, R2T2P is a flexible and powerful workflow in modern integrative biology.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764226",
+    "date": "2026-11-09",
+    "authors": "Albanese R, Campbell AE, Bonfanti M, Ali AS, James CT, Graziadei A, Tasca G, Riva A, Krijgsveld J, Jagannathan S, Calviello L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362577",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "assembly",
+        "framework",
+        "genome",
+        "protein",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4214,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.05.764226"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f5f23b63c3e92cf1b392870b7138005b46823a305d00d1a1f0e60a4efbd6638c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:00:29.762322+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "54311041d3ebbc5d924c670ca45eb0947c5c5b74272775cac0477f3868347060",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:00:29.762322+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "R2T2PによるRNAからタンパク質への探索と統合の加速",
+    "abstract_ja": "トランスクリプトミクスおよびプロテオミクスデータの統合は、ポストゲノミクス時代においても依然として未解決の課題であり、研究者が分子生物学研究において統合的なアプローチを追求することを躊躇させる要因となっている。翻訳プロファイリングの威力を活用し、我々はゲノムガイド型トランスクリプトームアセンブリと、翻訳およびタンパク質の同定を統合した計算プラットフォーム「RNA to Translation to Protein (R2T2P)」を提案する。本プラットフォームには、専用の差分解析フレームワークおよび複数のリファレンストランスクリプトームへの対応が含まれている。我々はR2T2Pを適用して、顔面肩甲上腕型筋ジストロフィー（FSHD）の細胞モデルを解析した。このモデルでは、骨格筋におけるDUX4レトロジーンの異所性発現が、転写およびRNA代謝に著しい変化を引き起こす。我々は、アンチセンス転写産物や選択的転写産物を含む、未特性解析の高発現RNAを数百種類同定し、それらがトランスラトメおよびプロテオームに及ぼす寄与を定量化した。患者由来の筋管細胞および筋生検組織からの発現データセットを再解析した結果、FSHD患者におけるこの選択的トランスクリプトームが検証され、希少疾患における真正な新規分子因子のリザーバーが追加された。https://github.com/nfdata-omics/R2T2P/ で公開されているR2T2Pは、現代の統合生物学における柔軟かつ強力なワークフローである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11222930/v1",
+    "title": "Molecular Epidemiology and Resistance Profiling of Macrolide-Resistant Bacterial Pathogens in Egyptian Primary Healthcare Centers Using Third-Generation High-Throughput Sequencing",
+    "abstract": "Abstract    Background:  Antimicrobial resistance (AMR) is a major global public health challenge, with particularly important consequences in settings where antibiotic use, diagnostic capacity, and antimicrobial stewardship remain heterogeneous. Macrolides are widely used for community-acquired respiratory and skin and soft-tissue infections, but increasing resistance threatens their therapeutic effectiveness. Genomic surveillance data describing the molecular basis and dissemination of macrolide resistance in Egyptian primary healthcare settings remain limited.  Methods:  A multicenter cross-sectional investigation was conducted from January to December 2023 across 15 primary healthcare facilities in three Egyptian governorates: Cairo, Alexandria, and Assiut. A total of 842 clinical specimens were collected from patients presenting with suspected bacterial respiratory or skin and soft-tissue infections. Bacterial isolates were identified using matrix-assisted laser desorption/ionization time-of-flight mass spectrometry, and antimicrobial susceptibility testing was performed according to CLSI M100-Ed34 (2024). Macrolide-resistant isolates were subjected to genomic characterization using Oxford Nanopore MinION and Pacific Biosciences Sequel IIe sequencing platforms. Resistance determinants, plasmids, integrative conjugative elements, sequence types, and phylogenetic relationships were investigated using established antimicrobial-resistance and genome-analysis databases and bioinformatic pipelines. Targeted PacBio HiFi sequencing was additionally used to characterize 23S rRNA mutations.  Results:  Among 642 confirmed bacterial pathogens, 289 (45.0%, 95% CI: 41.2–48.9%) exhibited phenotypic macrolide resistance. Resistance was highest among Staphylococcus aureus (58.2%, 114/196), followed by Streptococcus pneumoniae (45.0%, 98/218), Streptococcus pyogenes (39.7%, 62/156), and Haemophilus influenzae (20.8%, 15/72). The ermB gene predominated among resistant streptococci, occurring in 81.6% of resistant S. pneumoniae and 80.6% of resistant S. pyogenes isolates, whereas ermC predominated among resistant S. aureus isolates (87.7%, 100/114). Long-read sequencing enabled reconstruction of 45 plasmids and 12 integrative conjugative elements associated with resistance determinants. A conserved ermC-carrying plasmid, designated pEC-Egy1 (3,142 bp), was detected in 68.0% of ermC-positive S. aureus isolates across the three governorates, with 99.8% sequence identity among detected variants. PacBio HiFi sequencing identified the A2058G 23S rRNA mutation in 22/289 resistant isolates (7.6%) and revealed mixed wild-type and mutant alleles consistent with heteroresistance in 9/289 isolates (3.1%). Heteroresistant isolates exhibited lower erythromycin MICs (4–16 μg/mL) than isolates carrying predominantly homogeneous A2058G mutant populations (32–128 μg/mL; pConclusion:  Integrated third-generation sequencing provided high-resolution characterization of macrolide resistance determinants, their genomic contexts, and dissemination patterns among bacterial pathogens from Egyptian primary healthcare facilities. The findings demonstrate the coexistence of clonal dissemination and horizontal mobility of resistance determinants and highlight the value of long-read sequencing for resolving plasmid structures, mobile genetic elements, and heterogeneous 23S rRNA resistance alleles. These genomic data provide a framework for continued molecular surveillance of macrolide resistance in Egyptian primary healthcare settings.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11222930/v1",
+    "date": "2026-11-09",
+    "authors": "Kassab¹ M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361747",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4215,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11222930/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b339e626d9db9cccc7e0574c7b3354b347d3617c86a2f8195b5fc53439624993",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:00:29.762322+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2df3436bfbc92a93275d82337e856a206a211485bff09f21e53450fd52963cd5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:00:29.762322+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "第三世代ハイスループットシーケンシングを用いたエジプトのプライマリヘルスケアセンターにおけるマクロライド耐性細菌性病原体の分子疫学および耐性プロファイリング",
+    "abstract_ja": "要旨    背景：薬剤耐性（AMR）は世界的な公衆衛生上の重大な課題であり、特に抗菌薬の使用状況、診断能力、および抗菌薬適正使用の状況にばらつきがある環境において深刻な影響を及ぼす。マクロライド系抗菌薬は、市中獲得性の呼吸器感染症および皮膚・軟部組織感染症に広く用いられているが、耐性の増加がその治療効果を脅かしている。エジプトのプライマリヘルスケア施設におけるマクロライド耐性の分子基盤および拡散状況を記述したゲノムサーベイランスデータは依然として限られている。  方法：2023年1月から12月にかけて、エジプトの3つの県（カイロ、アレクサンドリア、アシユート）にある15のプライマリヘルスケア施設を対象に、多施設共同横断的調査を実施した。細菌性呼吸器感染症または皮膚・軟部組織感染症が疑われる患者から、計842検体の臨床検体を収集した。細菌分離株の同定にはマトリックス支援レーザー脱離イオン化飛行時間型質量分析法を用い、薬剤感受性試験はCLSI M100-Ed34 (2024) に従って実施した。マクロライド耐性分離株については、Oxford Nanopore MinIONおよびPacific Biosciences Sequel IIeシーケンシングプラットフォームを用いてゲノム特性解析を行った。耐性決定因子、プラスミド、統合型接合要素、配列型、および系統的関係については、確立された薬剤耐性およびゲノム解析データベースならびにバイオインフォマティクスパイプラインを用いて検討した。さらに、23S rRNA変異の特性解析に標的型PacBio HiFiシーケンシングを用いた。  結果：確認された642株の細菌病原体のうち、289株（45.0%、95% CI: 41.2–48.9%）に表現型としてのマクロライド耐性が認められた。耐性率はStaphylococcus aureus（58.2%, 114/196）で最も高く、次いでStreptococcus pneumoniae（45.0%, 98/218）、Streptococcus pyogenes（39.7%, 62/156）、Haemophilus influenzae（20.8%, 15/72）の順であった。耐性連鎖球菌ではermB遺伝子が優位であり、耐性S. pneumoniae分離株の81.6%、耐性S. pyogenes分離株の80.6%に認められた。一方、耐性S. aureus分離株ではermCが優位であった（87.7%, 100/114）。ロングリードシーケンシングにより、耐性決定因子に関連する45種類のプラスミドと12種類の統合型接合要素の再構築が可能となった。保存されたermC保有プラスミド（pEC-Egy1と指定、3,142 bp）は、3県全体のermC陽性S. aureus分離株の68.0%で検出され、検出された変異株間の配列同一性は99.8%であった。PacBio HiFiシーケンシングにより、耐性分離株289株中22株（7.6%）でA2058G 23S rRNA変異が同定され、289株中9株（3.1%）でヘテロ耐性に合致する野生型と変異型のアレルの混在が認められた。ヘテロ耐性分離株は、主に均質なA2058G変異株集団を有する分離株（32–128 μg/mL; p結論：統合型第3世代シーケンシングにより、エジプトのプライマリヘルスケア施設における細菌病原体のマクロライド耐性決定因子、そのゲノム的背景、および拡散パターンの高解像度な特性解析が可能となった。本知見は、耐性決定因子のクローン拡散と水平伝播の共存を示しており、プラスミド構造、可動性遺伝要素、および不均一な23S rRNA耐性アレルの解明におけるロングリードシーケンシングの有用性を強調するものである。これらのゲノムデータは、エジプトのプライマリヘルスケア施設におけるマクロライド耐性の継続的な分子サーベイランスのための枠組みを提供するものである。"
   }
 ]
