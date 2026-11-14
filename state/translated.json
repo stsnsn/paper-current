@@ -203946,5 +203946,322 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PlasmidCall: 短鎖アセンブリにおける耐性遺伝子がプラスミド上か染色体上かを予測する手法 ― カルバペネム耐性Enterobacterales 432株を用いて検証",
     "abstract_ja": "要旨　薬剤耐性遺伝子（ARG）は、主に宿主株を介して伝播する細菌染色体上に存在する場合もあれば、細菌間で移動可能なプラスミド上に存在する場合もある。ほとんどの細菌ゲノムはショートリードを用いてシーケンシングされており、それらは多くの断片（コンティグ）に組み合わされるため、あるコンティグおよびそこに含まれるARGがプラスミド由来か染色体由来かは、通常、予測する必要がある。プラスミド分類器は、さまざまな根拠に基づいて各コンティグの予測を行うソフトウェアツールであり、それぞれ異なるコンティグに対して誤判定を示す傾向がある。PlasmidCall v1.2-Generalは、このような12種類の分類器によるプラスミドまたは染色体の判定結果を一つの判定に統合するロジスティック回帰モデルである。より大規模な訓練セットで適合させた4つの勾配ブースティングモデルが、これらの判定結果の一部またはすべてを、コンティグ、そのアセンブリグラフにおける隣接コンティグ、および分離株の特徴量と組み合わせる。これら5つのモデルを、モデル開発に使用されていないある病院由来のカルバペネム耐性Enterobacterales分離株432株を用いて、再適合なしで検証した。各分離株について、ロングリードとショートリードから構築したハイブリッドアセンブリにより、ARGの有無にかかわらず、1 kb以上のショートリードコンティグ35,805個のうち30,986個に対して参照ラベル（プラスミドまたは染色体）が付与された。PlasmidCall v1.2-Generalはすべてのコンティグに対して判定を行い、プラスミド判定の94.9%が正解となり（適合率 0.9491; 95%信頼区間 0.8915-0.9642、近縁分離株のクラスターを再サンプリングした場合）、プラスミドコンティグの91.8%を検出した（再現率 0.9184）。その適合率は、以前に報告された推定値より0.028低く、近縁分離株のクラスターを再サンプリングした場合には2つの95%信頼区間が重複したが、単一の分離株の場合は重複しなかった。勾配ブースティングモデルは、98.9-99.2%のプラスミドコンティグを検出し、適合率は0.887-0.922であった。ARGを保持するコンティグにおいて、v1.2-Generalの適合率は0.935、再現率は0.969であり、カルバペネマーゼ遺伝子blaKPCを保持する383個のコンティグ（事後解析）では、それぞれ0.994および0.970であった。したがって、PlasmidCallは、ショートリードデータのみから、blaKPCを含む耐性遺伝子をプラスミドまたは染色体上に配置することができ、より高い適合率かより高い再現率かを選択することが可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.764195",
+    "title": "LOca-1: A minimal calcium-activated arginyl-specific orthocaspase from the Loki’s Castle hydrothermal vent field",
+    "abstract": "Orthocaspases are prokaryotic homologs of metacaspases within the C14 family of cysteine proteases, yet their biochemical properties and cellular roles remain poorly understood. Here, we report the discovery and comprehensive characterization of LOca-1, a metagenome-derived orthocaspase from the Loki’s Castle hydrothermal vent field. LOca-1 consists primarily of a single, conserved p20 catalytic domain and undergoes calcium-dependent activation through cleavage at a conserved arginine residue. Once activated, LOca-1 displays strict arginyl-specific proteolytic activity and strong selectivity for residues surrounding the cleavage site. The enzyme is both thermoactive and thermostable, exhibiting maximal activity at 65 °C and a melting temperature of approximately 72 °C. Structural modelling revealed conservation of the catalytic core relative to plant metacaspases despite substantial sequence divergence. To our knowledge, LOca-1 is only the second biochemically characterized orthocaspase and the first reported from a deep-sea hydrothermal vent environment. LOca-1 expands the known biochemical diversity of prokaryotic metacaspase homologs and provides insights into the properties of a minimal p20-domain orthocaspase. Together, our findings establish LOca-1 as a thermostable, calcium-activated arginyl-specific orthocaspase and provide a foundation for future studies of orthocaspase function in prokaryotes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764195",
+    "date": "2026-11-10",
+    "authors": "Arsın H, Hribovšek P, Urich L, Fedøy A, Stokke R, Mak P, Kaczorowska A, O’Donoghue AJ, Kaczorowski T, Steen IH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363805",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "prokaryote",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1063,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.04.764195"
+    ],
+    "translation": {
+      "title": {
+        "hash": "342a70ddbdb9ac2978ad2684d608b3c6d50e7b222c43be388c55d1197521700f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:25:49.474931+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "98a6f55ae3e5f38b837af400f193f8b6b472e593eed2df7513b9feaba1e863cd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:25:49.474931+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LOca-1: ロキの城熱水噴出孔域由来の最小型カルシウム活性化アルギニル特異的オルソカスパーゼ",
+    "abstract_ja": "オルソカスパーゼは、システインプロテアーゼC14ファミリーに属するメタカスパーゼの原核生物ホモログであるが、その生化学的特性や細胞内での役割については依然として十分に解明されていない。本報では、ロキズ・キャッスル熱水噴出孔域から得られたメタゲノム由来のオルソカスパーゼLOca-1の発見および包括的な特性解析について報告する。LOca-1は主に単一の保存型p20触媒ドメインから構成され、保存されたアルギニン残基の切断を介してカルシウム依存的に活性化される。活性化後、LOca-1は厳密なアルギニル特異的タンパク質分解活性を示し、切断部位周辺の残基に対して強い選択性を有する。本酵素は熱活性かつ熱安定性を兼ね備えており、65 °Cで最大活性を示し、融点は約72 °Cである。構造モデリングの結果、配列の著しい分岐にもかかわらず、植物メタカスパーゼと比較して触媒コアが保存されていることが明らかになった。我々の知る限り、LOca-1は生化学的に特性解析されたわずか2例目のオルソカスパーゼであり、深海熱水噴出孔環境から報告された初のオルソカスパーゼである。LOca-1は、原核生物メタカスパーゼホモログの既知の生化学的多様性を拡大し、最小限のp20ドメインを持つオルソカスパーゼの特性に関する知見を提供する。以上の知見により、LOca-1は熱安定性でカルシウム活性化型のアルギニル特異的オルソカスパーゼであることが立証され、原核生物におけるオルソカスパーゼ機能の今後の研究の基盤となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.08.26367551",
+    "title": "SARS-CoV-2 susceptibility and vulnerability of human blastocysts during in vitro preimplantation development.",
+    "abstract": "Human preimplantation embryos express the SARS-CoV-2 entry factors ACE2, TMPRSS2 and BSG (CD147) on trophectoderm (TE) cells, suggesting susceptibility to infection. Likewise, SARS-CoV-2-pseudotyped reporter viruses induced cytopathic effects in blastocysts, while the zona pellucida (ZP) appeared to confer partial protection. The impact of authentic SARS-CoV-2 infection on embryonic lineage specification and developmental competence has not been established. Here, we exposed cryopreserved human embryos, donated under ethics approval and informed consent, to authentic SARS-CoV-2 (B.1.617.2, Delta variant). While embryos with an intact ZP remained uninfected, laser-assisted hatching rendered 19/21 (90.5%) of embryos susceptible to infection, as confirmed by detection of viral dsRNA. Moreover, SARS-CoV-2 infection had a pronounced effect on blastocyst development with a possibly fatal outcome. Compared to mock-treated embryos (n = 47), infected blastocysts (n = 48) showed a significantly reduced surface area (p = 0.0003), reduced total cell number (p = 0.0139), and reduced NANOG+ epiblast cell numbers (p = 0.0054) 24 hours post-exposure, while the number of GATA4+ primitive endoderm cells remained unaffected (p = 0.5255). Intriguingly, despite viral replication being largely confined to the trophectoderm (TE), this selective epiblast reduction suggests a disruption of TE-derived paracrine signaling required for epiblast specification. Finally, prolonged viral replication resulted in embryonic lysis and death. Digital transcriptomic profiling (mock, n = 29 embryos; SARS-CoV-2, n = 28 embryos; each in n = 5 minipools) revealed upregulation of innate antiviral and inflammatory genes, including IFIH1, IRF7, NOD2, and TNFRSF1A, as well as the recently identified SARS-CoV-2 entry factor TMEM106B, alongside altered developmental signatures concerning genome activation, pluripotency, and lineage-specific programs. These findings show that ZP disruption makes human blastocysts susceptible to productive SARS-CoV-2 infection, with adverse consequences for lineage allocation and direct implications for biosafety and virological counselling in medically assisted reproduction practice.",
+    "journal": "",
+    "doi": "10.64898/2026.11.08.26367551",
+    "date": "2026-11-10",
+    "authors": "Kumpanenko Y, Tryfonos M, Essahib W, De Munck N, Van Weyenbergh J, Alpizar YA, Dallmeier K, Van de Velde H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363750",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1066,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.08.26367551"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6642f279fe97bb984a0738f1a22fe5e587b73cdc1c3f62acd709fc2dbce10b4d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:25:49.474931+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "61c8e5ff99847b9c69b57a2c8da2825e071c9e8a70aa8f0361c04682efe9578e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:25:49.474931+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "in vitro胚盤胞形成過程におけるヒト胚盤胞のSARS-CoV-2感受性および脆弱性",
+    "abstract_ja": "ヒト着床前胚は、栄養外胚葉（TE）細胞においてSARS-CoV-2侵入因子であるACE2、TMPRSS2、およびBSG（CD147）を発現しており、感染感受性があることが示唆されている。同様に、SARS-CoV-2擬似型レポーターウイルスは胚盤胞に細胞傷害性影響を惹起した一方、透明帯（ZP）は部分的な保護効果をもたらすと考えられた。真正SARS-CoV-2感染が胚の系統分化および発生能に及ぼす影響は確立されていない。本研究では、倫理承認およびインフォームド・コンセントの下で提供された凍結保存ヒト胚を、真正SARS-CoV-2（B.1.617.2、デルタ変異株）に曝露させた。ZPが正常な胚は非感染のままであったが、レーザー補助孵化により21個中19個（90.5%）の胚が感染感受性となり、これはウイルスdsRNAの検出によって確認された。さらに、SARS-CoV-2感染は胚盤胞の発生に顕著な影響を及ぼし、致死的な転帰を招く可能性があった。擬似処理胚（n = 47）と比較して、感染胚盤胞（n = 48）では、曝露24時間後に表面積の有意な減少（p = 0.0003）、総細胞数の減少（p = 0.0139）、およびNANOG+上胚葉細胞数の減少（p = 0.0054）が認められた一方、GATA4+原始内胚葉細胞数は影響を受けなかった（p = 0.5255）。興味深いことに、ウイルス複製は主に栄養外胚葉（TE）に限定されていたにもかかわらず、この選択的な上胚葉の減少は、上胚葉分化に必要なTE由来のパラクリンシグナル伝達の破綻を示唆している。最後に、持続的なウイルス複製は胚の溶解および死に至った。デジタルトランスクリプトームプロファイリング（擬似：29胚、SARS-CoV-2：28胚、各n = 5のミニプール）により、IFIH1、IRF7、NOD2、TNFRSF1Aを含む自然抗ウイルスおよび炎症性遺伝子、ならびに最近同定されたSARS-CoV-2侵入因子TMEM106Bの発現上昇が認められたとともに、ゲノム活性化、多能性、および系統特異的プログラムに関する発生シグネチャーの変化が認められた。これらの知見は、ZPの破綻がヒト胚盤胞を産生能を有するSARS-CoV-2感染に対して感受性にし、系統配分に悪影響を及ぼすとともに、生殖補助医療におけるバイオセーフティおよびウイルス学的カウンセリングに直接的な影響を与えることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.09.765318",
+    "title": "Batch, Prefetch, Skip, Orient, Squeeze: Faster, Smaller k-mer dictionaries via the Spectral Burrows-Wheeler transform",
+    "abstract": "Looking up k-mers in an index is a core operation in genomics, underlying read mapping, metagenomic classification, and many other tasks. Queries are often streaming: the k-mers come from a longer sequence such as a sequencing read, and consecutive k-mers overlap. The fastest index for such queries is currently the hashing-based SSHash; indexes based on the spectral Burrows-Wheeler transform (SBWT) are competitive in space but slower. We show how to make SBWT indexes both faster and smaller. First, we process queries in small batches and prefetch the memory each will need next, hiding the latency of the dependent random accesses that dominate a lookup; together with a new rank structure that reads one cache line per query, this makes k-mer lookups about seven times faster than unbatched SBWT search. Second, we extend batching to streaming search and show that one failed lookup can rule out many k-mers of a read at once, which removes the need for the longest common suffix array. Third, we build an SBWT that stores only one orientation of each k-mer, thereby halving its size, with a modified search that exploits how rarely the orientation changes along a read. Finally, we adapt a compact subset rank structure to batched search. On the collections of the SSHash benchmark, and on two collections up to 15 times larger, our fastest index answers streaming queries for 31-mers faster than SSHash on every read set, by up to 4.9 times, using 12 bits per canonical k-mer against SSHash's 7.4-11.1. We also show that a 6.1-bit index is still faster than SSHash on most read sets, and that our smallest index needs about 4 bits per canonical k-mer. Unlike that of SSHash, the space of our indexes barely varies across collections. Our code is available at https://github.com/anadis504/sbwt-squeeze-rs.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765318",
+    "date": "2026-11-10",
+    "authors": "Diseth AC, Alanko JN, Mackenzie J, Puglisi SJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363663",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1067,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.09.765318"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c9be9a28762c21e22eb544a75bb07dcd4f996a2757ad195e4177bafd6aeea888",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:25:49.474931+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4029ee9ebb4733f2dc97ea71c4ae8edda1127688863ee333dd98680e704f06f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:25:49.474931+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Batch, Prefetch, Skip, Orient, Squeeze: Spectral Burrows-Wheeler変換によるk-mer辞書の高速化と軽量化",
+    "abstract_ja": "インデックス内でのk-merの検索はゲノミクスにおける中核的な操作であり、リードマッピングやメタゲノム分類、その他多くのタスクの基盤となっている。クエリはしばしばストリーミング形式で行われ、k-merはシーケンシングリードのようなより長い配列から得られるため、連続するk-mer同士が重複する。こうしたクエリにおいて現在最速のインデックスはハッシングベースのSSHashであり、スペクトルBurrows-Wheeler変換（SBWT）に基づくインデックスは、空間計算量は同等だが速度は劣る。本稿では、SBWTインデックスをより高速かつ小規模にする方法を示す。まず、クエリを小さなバッチで処理し、次に必要となるメモリをプリフェッチすることで、ルックアップの大部分を占める依存的なランダムアクセスのレイテンシを隠蔽する。これに、クエリごとに1つのキャッシュラインを読み出す新しいランク構造を組み合わせることで、k-merルックアップをバッチ処理なしのSBWT検索よりも約7倍高速化した。次に、バッチ処理をストリーミング検索に拡張し、1回のルックアップ失敗でリード内の多くのk-merを一度に除外できることを示す。これにより、最長共通接尾辞配列が不要となる。第三に、各k-merの向きを1つだけ格納するSBWTを構築してサイズを半減させ、リードに沿って向きが変化する頻度の低さを利用した改良型検索を実装した。最後に、コンパクトな部分集合ランク構造をバッチ検索に適応させた。SSHashベンチマークのコレクション、および最大15倍大規模な2つのコレクションにおいて、我々の最速インデックスは、すべてのリードセットで31-merのストリーミングクエリに対してSSHashより最大4.9倍高速であり、カノニカルk-merあたりの使用量は12ビットであるのに対し、SSHashは7.4〜11.1ビットであった。また、ほとんどのリードセットにおいて6.1ビットのインデックスが依然としてSSHashより高速であること、および最小のインデックスではカノニカルk-merあたり約4ビットで済むことを示す。SSHashとは異なり、我々のインデックスの空間計算量はコレクション間でほとんど変動しない。コードは https://github.com/anadis504/sbwt-squeeze-rs で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11630456/v1",
+    "title": "gyrB-BASED MOLECULAR IDENTIFICATION AND PHYLOGENETIC RELATEDNESS OF UROPATHOGENIC Klebsiella quasipneumoniae IN TWO TERTIARY HOSPITALS IN SOUTHWEST NIGERIA",
+    "abstract": "Abstract    Background  Urinary tract infections (UTIs) are among the most frequent bacterial infections worldwide and pose a major public health problem.  Klebsiella  species are primary causes of UTIs and are often associated with drug resistance. In this study, we sequenced and compared the  gyrB  gene of uropathogenic  Klebsiella  spp. isolates from two tertiary hospitals in southwest Nigeria with reference strains of the  Klebsiella  pneumoniae complex available in GenBank to determine their phylogenetic relatedness and bridge the knowledge gap on the genetic relatedness of uropathogenic  Klebsiella  spp. in southwest Nigeria. Methods  We collected 227 urine samples from University College Hospital Ibadan and Federal Medical Centre Abeokuta, Ogun State, Nigeria, and biochemically identified  Klebsiella  spp. Sequencing of the  gyrB  gene was conducted on 7 isolates based on resistance patterns. Phylogenetic analysis was done by NGPhylogeny.fr, and the phylogenetic tree was visualized by Interactive Tree of Life (iTOL). Results  Of the cultured samples, 96 colonies appeared morphologically as  Klebsiella  spp-like on Eosin Methylene Blue agar (EMB). Biochemical identification revealed that  K  .  pneumoniae  (42) and  Klebsiella oxytoca  22 made up the  Klebsiella-like  isolates, with the remaining (32) being  Enterobacter  spp. Seven randomly selected  Klebsiella pneumoniae  isolates were identified as  Klebsiella quasipneumoniae  using the  gyrB  gene sequence. Phylogenetic analysis revealed that the isolates from the two hospitals clustered closely with reference strains, indicating shared evolutionary lineages. Conclusion  The uropathogenic  Klebsiella  spp. isolates from the two hospitals in southwest Nigeria are closely related to members of the K. pneumoniae complex. These findings underscore the importance of continued molecular surveillance and suggest that conserved transnational lineages are involved in proper taxonomic classification.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11630456/v1",
+    "date": "2026-11-10",
+    "authors": "Sadiq SO, Ike WE, Oloyede AR, Ojo OE, Adewole AI.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363415",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1068,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11630456/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b4228421877a8cc9b9005d9687c2c46948c67e01daa99ae7dbb1d44362fe6d1f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:25:49.474931+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "64d9660d615bf954707e82b49eed90c30ce891aaa57f9732121035112cbcdb7f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:25:49.474931+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ナイジェリア南西部の三次病院2施設における病原性Klebsiella quasipneumoniaeのgyrBに基づく分子同定および系統学的関連性",
+    "abstract_ja": "要旨    背景  尿路感染症（UTI）は世界的に最も頻度の高い細菌感染症の一つであり、重大な公衆衛生上の問題となっている。  Klebsiella  属菌はUTIの主要な原因であり、しばしば薬剤耐性を伴う。本研究では、ナイジェリア南西部の2つの三次病院から得られた尿路病原性Klebsiella  spp.分離株のgyrB遺伝子を配列決定・比較し、GenBankで利用可能なKlebsiella  pneumoniae複合体の参照株と照合することで、それらの系統的関連性を判定し、ナイジェリア南西部における尿路病原性Klebsiella  spp.の遺伝的関連性に関する知見の空白を埋めることを目的とした。方法  ナイジェリア・オグン州のユニバーシティ・カレッジ病院イバダンおよびアベオクタ連邦医療センターから227検体の尿サンプルを採取し、生化学的にKlebsiella  spp.を同定した。耐性パターンに基づき、7株の分離株についてgyrB遺伝子の配列決定を行った。系統解析はNGPhylogeny.frを用いて実施し、系統樹はInteractive Tree of Life (iTOL)により可視化した。結果  培養サンプルのうち、96コロニーがエオジンメチレンブルー寒天培地（EMB）上で形態学的にKlebsiella  spp.様であった。生化学的同定の結果、  K  .  pneumoniae  (42)および  Klebsiella oxytoca  22がKlebsiella様分離株を構成し、残りの(32)はEnterobacter  spp.であった。無作為に選定した7株のKlebsiella pneumoniae分離株は、gyrB遺伝子配列を用いてKlebsiella quasipneumoniaeと同定された。系統解析の結果、2つの病院由来の分離株は参照株と密接にクラスターを形成しており、共通の進化系統を共有していることが示された。結論  ナイジェリア南西部の2つの病院から得られた尿路病原性Klebsiella  spp.分離株は、K. pneumoniae複合体のメンバーと密接に関連している。これらの知見は、継続的な分子サーベイランスの重要性を強調するものであり、保存された国境を越えた系統が適切な分類学的分類に関与していることを示唆している。"
   }
 ]
