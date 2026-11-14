@@ -9529,8 +9529,8 @@
   {
     "id": "10.64898/2026.11.01.763562",
     "doi": "10.64898/2026.11.01.763562",
-    "title": "Genome-wide CRISPRi-seq maps essential-gene contributions to aminoglycoside susceptibility in Pseudomonas aeruginosa",
-    "abstract": "Pseudomonas aeruginosa is an opportunistic ESKAPE pathogen whose multiple intrinsic and acquired antibiotic resistance mechanisms restrict treatment options. Essential genes offer potential antimicrobial targets, but their vulnerability to partial inhibition and contribution to antibiotic susceptibility remain incompletely characterized. Here, we developed a rhamnose-inducible CRISPR interference (CRISPRi) platform and an 83,078-guide library for genome-wide screening in PAO1, with mismatch guides enabling graded repression. Fitness profiling in antibiotic-free Mueller-Hinton medium identified 743 genes whose repression reduced competitive fitness and revealed sequence features associated with guide performance. Combining full-match and mismatch-guide responses revealed substantial variation in essential-gene fitness effects across predicted repression strengths, while comparison of fitness profiles between Mueller-Hinton medium and fetal bovine serum identified condition-dependent effects alongside a conserved fitness landscape. Under aminoglycoside exposure, we identified 118 recurrent sensitizing and 120 recurrent protective gene knockdowns, including many targeting essential and fitness-associated functions. Growth and killing assays with individual strains confirmed that CRISPRi targeting of atpI, accC, secA and ftsZ enhanced tobramycin activity. Finally, transcriptome analysis of these knockdowns confirmed target silencing, captured polar effects on neighboring genes and revealed distinct but overlapping transcriptional responses. Together, these findings quantify the variable fitness costs of essential-gene repression and identify candidate targets for potentiating aminoglycoside activity. IMPORTANCE Essential bacterial genes are difficult to study because their complete disruption prevents growth. Yet knowing that a gene is essential does not reveal how strongly its activity must be reduced to impair growth. Here, we developed a method to examine how reduced gene expression affects fitness across the genome of Pseudomonas aeruginosa, a major cause of difficult-to-treat infections. This approach identified essential functions particularly vulnerable to partial depletion and mapped how gene repression alters aminoglycoside susceptibility. Repressing selected genes impaired growth and disproportionately increased killing by tobramycin. These tools and datasets provide a resource for prioritizing candidate antibacterial targets and investigating whether partial inhibition of essential functions can enhance the activity of existing antibiotics.",
+    "title": "Genome-wide CRISPRi-seq maps essential-gene contributions to aminoglycoside susceptibility in  Pseudomonas aeruginosa",
+    "abstract": "ABSTRACT  Pseudomonas aeruginosa is an opportunistic ESKAPE pathogen whose multiple intrinsic and acquired antibiotic resistance mechanisms restrict treatment options. Essential genes offer potential antimicrobial targets, but their vulnerability to partial inhibition and contribution to antibiotic susceptibility remain incompletely characterized. Here, we developed a rhamnose-inducible CRISPR interference (CRISPRi) platform and an 83,078-guide library for genome-wide screening in PAO1, with mismatch guides enabling graded repression. Fitness profiling in antibiotic-free Mueller–Hinton medium identified 743 genes whose repression reduced competitive fitness and revealed sequence features associated with guide performance. Combining full-match and mismatch-guide responses revealed substantial variation in essential-gene fitness effects across predicted repression strengths, while comparison of fitness profiles between Mueller–Hinton medium and fetal bovine serum identified condition-dependent effects alongside a conserved fitness landscape.  Under aminoglycoside exposure, we identified 118 recurrent sensitizing and 120 recurrent protective gene knockdowns, including many targeting essential and fitness-associated functions. Growth and killing assays with individual strains confirmed that CRISPRi targeting of  atpI ,  accC ,  secA and  ftsZ enhanced tobramycin activity. Finally, transcriptome analysis of these knockdowns confirmed target silencing, captured polar effects on neighboring genes and revealed distinct but overlapping transcriptional responses. Together, these findings quantify the variable fitness costs of essential-gene repression and identify candidate targets for potentiating aminoglycoside activity.  IMPORTANCE  Essential bacterial genes are difficult to study because their complete disruption prevents growth. Yet knowing that a gene is essential does not reveal how strongly its activity must be reduced to impair growth. Here, we developed a method to examine how reduced gene expression affects fitness across the genome of  Pseudomonas aeruginosa , a major cause of difficult-to-treat infections. This approach identified essential functions particularly vulnerable to partial depletion and mapped how gene repression alters aminoglycoside susceptibility. Repressing selected genes impaired growth and disproportionately increased killing by tobramycin. These tools and datasets provide a resource for prioritizing candidate antibacterial targets and investigating whether partial inhibition of essential functions can enhance the activity of existing antibiotics.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "2",
@@ -9538,28 +9538,34 @@
     "related_dois": [
       "10.64898/2026.11.01.763562"
     ],
-    "date": "2026-11-03",
-    "authors": "Czekala, W.; Gawor, J.; Goitia Camacho, R. E.; Domanska, B.; Padilla Martinez, L. F.; Zuchniewicz, K.; Posnik, F.; Bartosik, A. A.; Liu, X.; Kawalek, A.",
+    "date": "2026-11-02",
+    "authors": "Czekała W, Gawor J, Goitia Camacho RE, Domańska B, Padilla Martinez LF, Żuchniewicz K, Pośnik F, Bartosik AA, Liu X, Kawałek A.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763562v2",
+    "source_url": "https://europepmc.org/article/PPR/PPR1357803",
     "sources": [
+      "Europe PMC bioinformatics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "Pseudomonas",
-        "bacterial"
+        "bacteria",
+        "bacterial",
+        "gene",
+        "genome",
+        "method"
       ],
       "context": {
         "marine": [],
         "genomics": [
           "genom",
+          "genome",
           "transcript"
         ],
         "evolution": []
@@ -9568,24 +9574,41 @@
         "微生物ゲノミクス"
       ]
     },
+    "collection_order": 153,
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "collected_at": "2026-11-06T00:00:00+09:00",
+    "collected_date": "2026-11-06",
     "translation": {
       "title": {
-        "hash": "43de5143c9b05e9c4d639dc2efa9c493269d0b66460ab193bf488f344d024b45",
+        "hash": "7654bd7c611e7b90d73aae7b94a2fa0d492c33fd2f0fe691634fded751d93db7",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T14:19:32.887260+00:00",
+        "date": "2026-11-14T00:03:55.047759+00:00",
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "641f725d69def57d9f530e2362cf69564413ed2329d89c2eab276b1df8980717",
+        "hash": "73b63d450c4ab8bb012e0c116071170f58d995ca8ebc7746e17a660fa6ca452d",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T14:19:32.887260+00:00",
+        "date": "2026-11-14T00:03:55.047759+00:00",
         "format": "pfml3-ja-v1"
       }
     },
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "ゲノムワイドなCRISPRi-seqによるPseudomonas aeruginosaのアミノグリコシド感受性への必須遺伝子の寄与のマッピング",
-    "abstract_ja": "Pseudomonas aeruginosaは日和見的なESKAPE病原体であり、その多様な内因性および獲得性の抗生物質耐性機構が治療選択肢を制限している。必須遺伝子は潜在的な抗菌薬標的となり得るが、部分的阻害に対する脆弱性や抗生物質感受性への寄与については、いまだ十分に解明されていない。本研究では、PAO1におけるゲノムワイドスクリーニングのためのラムノース誘導型CRISPR干渉（CRISPRi）プラットフォームおよび83,078個のガイドライブラリを開発し、ミスマッチガイドを用いることで段階的な抑制を可能にした。抗生物質不含のMueller-Hinton培地を用いた適応度プロファイリングにより、抑制によって競争的適応度が低下する743個の遺伝子を同定し、ガイド性能に関連する配列特徴を明らかにした。フルマッチおよびミスマッチガイドへの応答を組み合わせることで、予測される抑制強度に応じて必須遺伝子の適応度への影響に大幅なばらつきがあることが判明した一方、Mueller-Hinton培地と胎児牛血清における適応度プロファイルを比較したところ、保存された適応度ランドスケープとともに、条件依存的な影響が認められた。アミノグリコシド曝露下では、必須機能や適応度関連機能を標的とするものを多く含む、118個の反復的な感受性獲得遺伝子ノックダウンと120個の反復的な保護遺伝子ノックダウンを同定した。個別株を用いた増殖および殺菌アッセイにより、atpI、accC、secA、およびftsZに対するCRISPRi標的化がトブラマイシン活性を高めることが確認された。最後に、これらのノックダウンのトランスクリプトーム解析により、標的サイレンシングが確認され、隣接遺伝子への極性効果が捉えられたほか、異なるが重複する転写応答が明らかになった。これらの知見を総合すると、必須遺伝子抑制に伴う適応度コストの変動が定量化され、アミノグリコシド活性を増強させる候補標的が特定された。重要性：細菌の必須遺伝子は、完全に破壊されると増殖が阻害されるため、研究が困難である。しかし、ある遺伝子が必須であると分かっていても、増殖を損なうためにその活性をどの程度まで低下させる必要があるかまでは明らかにならない。本研究では、治療困難な感染症の主要な原因であるPseudomonas aeruginosaのゲノム全体において、遺伝子発現の低下が適応度にどのように影響するかを調べる手法を開発した。このアプローチにより、部分的な枯渇に対して特に脆弱な必須機能を同定し、遺伝子抑制がアミノグリコシド感受性をどのように変化させるかをマッピングした。選択した遺伝子を抑制すると増殖が阻害され、トブラマイシンによる殺菌作用が不釣り合いに増加した。これらのツールおよびデータセットは、抗菌薬標的候補の優先順位付けや、必須機能の部分的阻害が既存の抗生物質の活性を高め得るかを検証するためのリソースとなる。",
-    "discovery": []
+    "title_ja": "ゲノムワイドなCRISPRi-seqによるPseudomonas aeruginosaのアミノグリコシド感受性における必須遺伝子の寄与のマッピング",
+    "abstract_ja": "要旨  Pseudomonas aeruginosaは日和見的なESKAPE病原体であり、その多様な内因性および獲得性の抗生物質耐性機構が治療選択肢を制限している。必須遺伝子は潜在的な抗菌薬標的となり得るが、部分的な阻害に対する脆弱性や抗生物質感受性への寄与については、いまだ十分に解明されていない。本研究では、PAO1におけるゲノムワイドスクリーニングのためのラムノース誘導型CRISPR干渉（CRISPRi）プラットフォームおよび83,078個のガイドライブラリを開発し、ミスマッチガイドを用いることで段階的な抑制を可能にした。抗生物質不含のMueller–Hinton培地における適応度プロファイリングにより、抑制によって競争適応度が低下する743個の遺伝子を同定し、ガイドの性能に関連する配列特徴を明らかにした。フルマッチガイドとミスマッチガイドの応答を組み合わせることで、予測される抑制強度に応じて必須遺伝子の適応度への影響に大幅なばらつきがあることが判明した。また、Mueller–Hinton培地と胎児牛血清における適応度プロファイルを比較したところ、保存された適応度ランドスケープとともに、条件依存的な影響が認められた。アミノグリコシド曝露下において、必須遺伝子および適応度関連機能を標的とするものを多数含む、118個の反復的な感受性獲得遺伝子ノックダウンと120個の反復的な保護遺伝子ノックダウンを同定した。個別の菌株を用いた増殖および殺菌アッセイにより、atpI、accC、secA、およびftsZに対するCRISPRi標的化がトブラマイシン活性を増強することが確認された。最後に、これらのノックダウンのトランスクリプトーム解析により、標的のサイレンシングが確認され、隣接遺伝子への極性効果が捉えられたほか、異なるが重複する転写応答が明らかになった。これらの知見を総合すると、必須遺伝子抑制に伴う適応度コストの変動を定量化し、アミノグリコシド活性を増強させる候補標的を特定することができる。重要性  細菌の必須遺伝子は、完全に破壊されると増殖が阻害されるため、研究が困難である。しかし、ある遺伝子が必須であると分かっていても、増殖を損なうためにその活性をどの程度まで低下させる必要があるかまでは明らかにならない。本研究では、治療困難な感染症の主要な原因であるPseudomonas aeruginosaのゲノム全体において、遺伝子発現の低下が適応度にどのように影響するかを調べる手法を開発した。このアプローチにより、部分的な枯渇に対して特に脆弱な必須機能を同定し、遺伝子抑制がアミノグリコシド感受性をどのように変化させるかをマッピングした。選択した遺伝子を抑制すると増殖が阻害され、トブラマイシンによる殺菌作用が不釣り合いに増加した。これらのツールとデータセットは、抗菌薬標的候補の優先順位付けや、必須機能の部分的な阻害が既存の抗生物質の活性を高め得るかを検証するためのリソースとなる。"
   },
   {
     "id": "10.64898/2026.10.28.762566",
@@ -86392,7 +86415,7 @@
     "id": "10.64898/2026.11.03.763882",
     "doi": "10.64898/2026.11.03.763882",
     "title": "Gut microbiome-associated adaptability of suckermouth catfish inhabiting the polluted Buriganga River: insights into heavy-metal-remediating microorganisms",
-    "abstract": "The suckermouth catfish (SMCF), known for its pollutant tolerance and high invasiveness, is prevalent in the heavily contaminated Buriganga River in Bangladesh. This waterway, contaminated with a variety of pollutants, including heavy metals, has experienced the near-complete disappearance of native fish populations; however, the suckermouth catfish demonstrates remarkable adaptability in this environment. One objective of this study is to elucidate the role of the gut microbiome in SMCFs' adaptation to this severely polluted habitat. We performed next-generation sequencing (NGS) of gut contents from SMCFs to analyze the gut microbial profiles of the fish samples. The results indicated that the suckermouth catfish's gut is enriched with microbial communities, including Paraclostridium, Klebsiella, Staphylococcus, Bacillus, and Pseudomonas, which have the potential to remediate pollutants, including heavy metals. The subsequent aim of this research is to isolate and identify bacteria from the SMCF gut capable of remediating multiple heavy metals. We isolated three isolates with the potential to remediate multiple heavy metals and identified them as Staphylococcus pasteuri SD, Morganella morganii SAS1, and Sporosarcina saromensis SAS using partial 16S rRNA gene amplicon sequencing and conventional techniques. All isolates showed distinct capabilities for remediating multiple heavy metals. Notably, S. pasteuri showed the highest lead (Pb) bioaccumulation (36.28%), S. saromensis showed the highest chromium (Cr) uptake (39.22%), and M. morganii showed the highest nickel (Ni) uptake (35.90%). Furthermore, these isolates exhibited remarkable metal-tolerance profiles, with maximum tolerable concentrations ranging from 125 ppm to 1000 ppm, and sustained healthy growth under metal-supplemented conditions throughout a 48-hour incubation period. This validates their potential to remediate multiple heavy metals. Collectively, the results underscore the ecological adaptability of suckermouth catfish in polluted aquatic environments, which is associated with their gut microbiome, and highlight the bioremediation potential of these gut-derived microbes as effective agents for mitigating heavy metal contamination.",
+    "abstract": "The suckermouth catfish (SMCF), known for its pollutant tolerance and high invasiveness, is prevalent in the heavily contaminated Buriganga River in Bangladesh. This waterway, contaminated with a variety of pollutants, including heavy metals, has experienced the near-complete disappearance of native fish populations; however, the suckermouth catfish demonstrates remarkable adaptability in this environment. One objective of this study is to elucidate the role of the gut microbiome in SMCFs’ adaptation to this severely polluted habitat. We performed next-generation sequencing (NGS) of gut contents from SMCFs to analyze the gut microbial profiles of the fish samples. The results indicated that the suckermouth catfish’s gut is enriched with microbial communities, including  Paraclostridium ,  Klebsiella ,  Staphylococcus ,  Bacillus , and  Pseudomonas , which have the potential to remediate pollutants, including heavy metals. The subsequent aim of this research is to isolate and identify bacteria from the SMCF gut capable of remediating multiple heavy metals. We isolated three isolates with the potential to remediate multiple heavy metals and identified them as  Staphylococcus pasteuri SD,  Morganella morganii SAS1, and  Sporosarcina saromensis SAS using partial 16S rRNA gene amplicon sequencing and conventional techniques. All isolates showed distinct capabilities for remediating multiple heavy metals. Notably,  S. pasteuri showed the highest lead (Pb) bioaccumulation (36.28%), S. saromensis showed the highest chromium (Cr) uptake (39.22%), and  M. morganii showed the highest nickel (Ni) uptake (35.90%). Furthermore, these isolates exhibited remarkable metal-tolerance profiles, with maximum tolerable concentrations ranging from 125 ppm to 1000 ppm, and sustained healthy growth under metal-supplemented conditions throughout a 48-hour incubation period. This validates their potential to remediate multiple heavy metals. Collectively, the results underscore the ecological adaptability of suckermouth catfish in polluted aquatic environments, which is associated with their gut microbiome, and highlight the bioremediation potential of these gut-derived microbes as effective agents for mitigating heavy metal contamination.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -86401,39 +86424,62 @@
       "10.64898/2026.11.03.763882"
     ],
     "date": "2026-11-03",
-    "authors": "Dey, S.; Sikder, S. A.; Rahman, M.; Das, S. K.; Alam, M. Z.",
+    "authors": "Dey S, Sikder SA, Rahman Epa M, Das SK, Alam MZ.",
     "tags": [
-      "微生物学"
+      "海洋微生物"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763882v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1359003",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
         "16s rrna",
         "Bacillus",
         "Pseudomonas",
         "bacteria",
+        "microbe",
         "microbes",
         "microbial",
         "microbiome",
+        "microorganism",
         "microorganisms"
       ],
       "context": {
-        "marine": [],
+        "marine": [
+          "aquatic",
+          "river"
+        ],
         "genomics": [],
         "evolution": []
       },
       "tags": [
-        "微生物学"
+        "海洋微生物"
       ]
     },
     "sources": [
+      "Europe PMC genome methods",
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
     "collected_date": "2026-11-07",
+    "collection_order": 1435,
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "collected_at": "2026-11-07T00:00:00+09:00",
     "translation": {
       "title": {
         "hash": "00ac0c663215e4eaa9a71a3c421c4602759d31781962b99a7076cb9db86612df",
@@ -86442,16 +86488,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "dcf1c69231d05263a14d03ba1ddd1aa7f075fd52d3b4cda37d1d05e15656893a",
+        "hash": "18aea110044970f1c5c9cd0d24baafcd95bee92c4fe90737f45d294ff73710dd",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-07T00:21:48.449631+00:00",
+        "date": "2026-11-14T00:03:55.047759+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "汚染河川ブリガンガ川に生息する吸盤口ナマズの腸内細菌叢関連適応能：重金属浄化微生物に関する知見",
-    "abstract_ja": "汚染物質耐性と高い侵入性で知られる吸盤口ナマズ（SMCF）は、汚染の激しいバングラデシュのブリガンガ川に広く分布している。重金属を含む多様な汚染物質に汚染されたこの河川では、在来魚類の個体群がほぼ完全に消失しているが、吸盤口ナマズはこの環境において顕著な適応能力を示している。本研究の目的の一つは、このような深刻な汚染環境へのSMCFの適応における腸内微生物叢の役割を解明することである。我々は、魚類サンプルの腸内微生物プロファイルを解析するため、SMCFの腸内容物の次世代シーケンシング（NGS）を実施した。その結果、吸盤口ナマズの腸内には、重金属を含む汚染物質を浄化する可能性を持つParaclostridium、Klebsiella、Staphylococcus、Bacillus、およびPseudomonasなどの微生物群集が豊富に存在することが示された。本研究の次の目的は、複数の重金属を浄化可能な細菌をSMCFの腸から単離・同定することである。我々は、部分16S rRNA遺伝子アンプリコンシーケンシングおよび従来法を用いて、複数の重金属を浄化する可能性を持つ3つの分離株を単離し、それらをStaphylococcus pasteuri SD、Morganella morganii SAS1、およびSporosarcina saromensis SASと同定した。すべての分離株は、複数の重金属を浄化する異なる能力を示した。特に、S. pasteuriは鉛（Pb）の生物蓄積率が最高（36.28%）、S. saromensisはクロム（Cr）の取り込み率が最高（39.22%）、M. morganiiはニッケル（Ni）の取り込み率が最高（35.90%）であった。さらに、これらの分離株は顕著な金属耐性プロファイルを示し、最大許容濃度は125 ppmから1000 ppmの範囲にあり、48時間のインキュベーション期間を通じて金属添加条件下で健全な増殖を維持した。このことは、複数の重金属を浄化する可能性を裏付けるものである。総じて、これらの結果は、汚染された水圏環境における吸盤口ナマズの生態学的適応能が腸内微生物叢に関連していることを強調するとともに、重金属汚染を軽減するための有効な手段として、腸由来のこれらの微生物が持つバイオレメディエーションの可能性を浮き彫りにしている。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "汚染物質耐性と高い侵入性で知られる吸盤口ナマズ（SMCF）は、汚染の激しいバングラデシュのブリガンガ川に広く分布している。重金属を含む多様な汚染物質に汚染されたこの河川では、在来魚類の個体群がほぼ完全に消失しているが、吸盤口ナマズはこの環境において顕著な適応能力を示している。本研究の目的の一つは、このような深刻な汚染環境へのSMCFの適応における腸内微生物叢の役割を解明することである。我々は、魚類サンプルの腸内微生物プロファイルを解析するため、SMCFの腸内容物の次世代シーケンシング（NGS）を実施した。その結果、吸盤口ナマズの腸内には、重金属を含む汚染物質を浄化する可能性を持つParaclostridium、Klebsiella、Staphylococcus、Bacillus、およびPseudomonasなどの微生物群集が豊富に存在することが示された。本研究の次の目的は、複数の重金属を浄化可能な細菌をSMCFの腸から単離・同定することである。我々は、部分16S rRNA遺伝子アンプリコンシーケンシングおよび従来法を用いて、複数の重金属を浄化する可能性を持つ3つの分離株を単離し、それらをStaphylococcus pasteuri SD、Morganella morganii SAS1、およびSporosarcina saromensis SASと同定した。すべての分離株は、複数の重金属を浄化する異なる能力を示した。特に、S. pasteuriは鉛（Pb）の生物蓄積率が最高（36.28%）、S. saromensisはクロム（Cr）の取り込み率が最高（39.22%）、M. morganiiはニッケル（Ni）の取り込み率が最高（35.90%）であった。さらに、これらの分離株は顕著な金属耐性プロファイルを示し、最大許容濃度は125 ppmから1000 ppmの範囲にあり、48時間のインキュベーション期間を通じて金属添加条件下で健全な増殖を維持した。このことは、複数の重金属を浄化する可能性を裏付けるものである。総じて、これらの結果は、汚染された水圏環境における吸盤口ナマズの生態学的適応能が腸内微生物叢に関連していることを強調するとともに、重金属汚染を軽減するための有効な手段として、腸由来のこれらの微生物が持つバイオレメディエーションの可能性を浮き彫りにしている。"
   },
   {
     "id": "10.64898/2026.11.02.763686",
@@ -199320,5 +199365,147 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "炎症性腸疾患の生体内バイオ治療薬としてのヒト由来群集性菌株Enterobacter ludwigii LS57の前臨床開発",
     "abstract_ja": "炎症性腸疾患（IBD）は依然として重大なアンメットニーズの領域であり、糞便微生物移植における組成および製造負荷が未解明であることから、単一菌株のライブバイオセラピューティック製品（LBP）への移行が促されてきた。群生細菌はストレス状態の腸管内で増殖し、粘膜損傷を抑制するが、LBPとして開発されたヒト由来の群生菌株は存在しない。そこで我々は、ヒト糞便から単離した群生菌株であるEnterobacter ludwigii LS57の完全な前臨床開発について報告する。化学・製造・管理（CMC）では、3層構造のセルバンク、30 Lの流加式発酵、および結腸標的型腸管コーティングカプセルを用い、一貫したパイロットスケール生産を実現した。安全性薬理学（Sprague-Dawleyラット）、および単回投与およびGLP（適正試験実施基準）準拠の1週間反復投与毒性試験（Sprague-Dawleyラットおよびビーグル犬）において、治療に関連する所見は認められなかった。LS57は16S rRNAおよび全ゲノムシーケンシングによりE. ludwigiiと同定され、培養下で抗炎症活性が報告されている代謝物を産生した。デキストラン硫酸ナトリウム（DSS）誘発性結腸炎において、LS57は体重減少を抑制し、結腸長を維持し、結腸の炎症性サイトカインを低下させ、腸内細菌叢を再構築した。また、トリニトロベンゼンスルホン酸（TNBS）誘発性結腸炎を軽減し、シクロスポリンAの効果を増強した。in vitroにおいて、LS57は非溶血性、非細胞毒性、酸不安定性であり、バイオフィルムを形成せず、アミノペニシリン系、セファマイシン系、およびイミペネム系に対する耐性は接合により伝播しなかった。in vivoにおいて、LS57は野生型およびインターロイキン-10欠損マウスの炎症を起こした結腸に定着し、移行は認められず、実験的菌血症はゲンタマイシンまたはレボフロキサシンで治療可能であった。LS57は、機序的に異なる2つの結腸炎モデルにわたる有効性と、LBPにおける主要な規制上の懸念に対処する安全性プロファイル、および現在の適正製造基準に適合し、腸管コーティングによって菌株の胃内生存率の低さを克服した拡張可能な製造プロセスを兼ね備えている。これらのデータは、IBDにおけるLS57の臨床開発を支持するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.10.765689",
+    "title": "NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS BLOCK THE INCORPORATION OF VIRAL GLYCOPROTEINS INTO HIV-1 VIRIONS",
+    "abstract": "Non-nucleoside reverse transcriptase inhibitors (NNRTIs) are a key component of antiretroviral therapy that block reverse transcription in newly infected cells. NNRTIs have also been reported to induce premature activation of the HIV-1 protease in virus-producing cells, an activity that has been optimized in a class of NNRTIs known as targeted activators of cell kill (TACK). In this study, we used the TACK compound Pyr01 to investigate how NNRTI-induced premature protease activation affects virion composition and infectivity. We found that Pyr01 treatment markedly reduces the incorporation of the HIV-1 envelope (Env) glycoprotein into virus particles in an Env cytoplasmic tail-independent manner. Pyr01 treatment also disrupts the virion incorporation of foreign viral glycoproteins and causes a substantial loss of the viral enzymes from virions. Virions produced from NNRTI-treated cells exhibit reduced membrane order. The defect in viral glycoprotein incorporation requires an active protease, implicating premature protease-mediated disruption of the Gag lattice and resulting changes in membrane properties as the primary mechanism underlying these effects. These findings reveal that NNRTI-induced premature protease activation during virus assembly fundamentally changes the protein composition and membrane order of HIV-1 virions to markedly reduce particle infectivity. These results have implications for the use of TACK compounds therapeutically and provide basic insights into the properties of the viral membrane that promote viral glycoprotein incorporation.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765689",
+    "date": "2026-11-11",
+    "authors": "Waheed, A. A., Ibrahim, H., Raghunath, G., Vijayan, R., Melikyan, G. B., Freed, E. O.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765689v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4127,
+    "collected_at": "2026-11-12T01:42:41.693412+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.10.765689"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e4335e20a0b8abccd767caa1e37dab53d9768fdddc3f8f6228900ab02fc0b254",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:03:55.047759+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa0b6bca56dfb2bb7280cf4e79366bba4191253f13801a1003fddb25e198eb99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:03:55.047759+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非ヌクレオシド系逆転写酵素阻害剤は、ウイルス糖タンパク質のHIV-1ウイルス粒子への取り込みを阻害する。",
+    "abstract_ja": "非ヌクレオシド系逆転写酵素阻害剤（NNRTI）は、新たに感染した細胞における逆転写を阻害する抗レトロウイルス療法の主要成分である。また、NNRTIはウイルス産生細胞においてHIV-1プロテアーゼの早期活性化を誘導することが報告されており、この活性は標的型細胞殺傷活性化剤（TACK）として知られるNNRTIの一群において最適化されている。本研究では、TACK化合物であるPyr01を用いて、NNRTI誘導性のプロテアーゼ早期活性化がビリオンの組成および感染性にどのような影響を及ぼすかを検討した。その結果、Pyr01処理により、Env細胞質尾部に依存しない様式で、HIV-1エンベロープ（Env）糖タンパク質のウイルス粒子への取り込みが著しく減少することが明らかになった。また、Pyr01処理は外来性ウイルス糖タンパク質のビリオンへの取り込みを阻害し、ビリオンからのウイルス酵素の大幅な喪失を引き起こす。NNRTI処理細胞から産生されたビリオンでは、膜秩序の低下が認められる。ウイルス糖タンパク質の取り込み不全には活性型プロテアーゼが必要であり、これらの影響の根底にある主要な機序として、プロテアーゼを介したGag格子の早期破壊と、それに伴う膜特性の変化が示唆される。これらの知見は、ウイルス集合過程におけるNNRTI誘導性のプロテアーゼ早期活性化が、HIV-1ビリオンのタンパク質組成と膜秩序を根本的に変化させ、粒子の感染性を著しく低下させることを明らかにしている。これらの結果は、TACK化合物の治療的利用に重要な示唆を与えるとともに、ウイルス糖タンパク質の取り込みを促進するウイルス膜の特性に関する基礎的な知見を提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.09.765499",
+    "title": "Sphingolipid Hydroxylation Governs Fungal Pathogenicity and Drug Susceptibility: Scs7 as a Druggable Target in Candida albicans",
+    "abstract": "Sphingolipids are essential structural components of the fungal plasma membrane and key signaling hubs that orchestrate pathogenicity. While both fungi and mammals perform sphingolipid hydroxylation, they rely on evolutionarily divergent enzymatic systems, establishing a biochemical divergence exploitable for selective targeting. Here, through a screening of sphingolipid metabolic genes, we identify the sphingolipid -hydroxylase Scs7 as a central regulator of membrane homeostasis, virulence, and caspofungin susceptibility in Candida albicans. Genetic ablation of SCS7 depletes hydroxylated sphingolipids, disrupts memberane organization, and compromises cell wall integrity, which collectively impair hyphal morphogenesis, biofilm formation, and stress tolerance through blockade of the cAMP-PKA signaling axis. In a murine cutaneous infection model, SCS7 deletion markedly attenuates fungal burden, hyperinflammation, and epidermal barrier disruption, underscoring its non-redundant role in host-pathogen interaction. Leveraging the fungus-specific architecture of Scs7, we performed virtual screening and identified resveratrol as a natural Scs7 inhibitor. Resveratrol recapitulates the lipidomic and phenotypic defects of SCS7 deletion and synergizes with caspofungin to enhance fungal killing. Our study establishes sphingolipid -hydroxylation as a master determinant of fungal membrane fitness and validates Scs7 as a promising, fungus-specific antifungal target with dual anti-virulence and chemosensitizing activities.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765499",
+    "date": "2026-11-11",
+    "authors": "Mo, S., Chen, X., Yu, B., Peng, J., Zhan, M., Zhao, Q., Deng, Z., Zeng, L., Huang, X., Duan, J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765499v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4128,
+    "collected_at": "2026-11-12T01:42:41.693412+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.11.09.765499"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ccfd449ec286e9b7bbd77ab7d22f2540894c1b9a48fc9259ae7d982609a636a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:03:55.047759+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5137dbee7e71598e39a9d3a7fa0cf6e126d4fb64ea18b0610b0657e83f7579d0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T00:03:55.047759+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "スフィンゴ脂質水酸化は真菌の病原性と薬剤感受性を制御する：Candida albicansにおける薬剤標的Scs7",
+    "abstract_ja": "スフィンゴ脂質は、真菌の細胞膜における必須の構造成分であり、病原性を制御する重要なシグナル伝達ハブである。真菌と哺乳類の双方がスフィンゴ脂質の水酸化を行うが、それぞれ進化的に分化した酵素系に依存しており、選択的標的化に利用可能な生化学的分岐が確立されている。本研究では、スフィンゴ脂質代謝遺伝子のスクリーニングを通じて、スフィンゴ脂質-水酸化酵素Scs7を、Candida albicansにおける膜恒常性、病原性、およびカスポファンギン感受性の中心的な調節因子として同定した。SCS7の遺伝的欠損は、水酸化スフィンゴ脂質を枯渇させ、メンブランアンの組織化を乱し、細胞壁の完全性を損なう。これらが相まって、cAMP-PKAシグナル伝達軸の遮断を介して、菌糸形態形成、バイオフィルム形成、およびストレス耐性を阻害する。マウス皮膚感染モデルにおいて、SCS7の欠損は真菌負荷、過剰炎症、および表皮バリアの破綻を著しく軽減し、宿主-病原体相互作用における非冗長的な役割を浮き彫りにした。真菌特異的なScs7の構造を利用してバーチャルスクリーニングを実施し、レスベラトロールを天然のScs7阻害剤として同定した。レスベラトロールは、SCS7欠損によるリピドミクスおよび表現型の欠陥を再現し、カスポファンギンと相乗的に作用して真菌殺傷能を高める。本研究は、スフィンゴ脂質-水酸化を真菌膜適応度の主要な決定因子として確立し、Scs7を、抗病原性活性と化学感受性付与活性を併せ持つ有望な真菌特異的抗真菌標的として検証した。"
   }
 ]

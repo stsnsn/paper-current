@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "saved_at": "2026-11-14T00:03:28.465883+00:00",
+  "saved_at": "2026-11-14T00:06:20.712704+00:00",
   "sha256": {
     "inbox.json": "2be497c481b7eda165b370ee0a0d9103565ba0f8d2d746da28022b129b791b30",
-    "translated.json": "382ad448854e6f3bbc7327856b5d6d6c0f33e627b33ce1de2e025b9c435a3a2b",
+    "translated.json": "04b8a5dd533df3d92af859c6ffd5876c5919e186230ff681e094b5d0d579f0c6",
     "translation-retries.json": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
     "auto-state.json": "437399352b1177cb5c51c7306576bc068e5a53d3b05c64f608cf022e8b71fa8c",
     "journal-catalog.json": "867e5f915de9aaa6050b685d86d6ba0cad0e90939049e237371eff05583d779c",
-    "cloud-status.json": "bf6ac9d8033946fe12cbdc7bf85254812472bc2e51a3e6b931252e85e48308da",
+    "cloud-status.json": "4906a29687d8624dea3fb0bbc197bebeb15fcc606d31d9fcc27eb26836260df0",
     "backfill-progress.json": "c46e8a5680b571f0667f25618654b54af56558254621af7127edb480222a868a"
   }
 }
