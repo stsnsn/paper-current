@@ -208263,5 +208263,273 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "天然微生物接種源の由来と濃度は、両生類幼生の成長、生存、および関連微生物叢に影響を及ぼす。",
     "abstract_ja": "要旨 飼育下で育成された両生類の幼生は、微生物多様性が著しく低下した状態にさらされる。さらに、こうした環境はしばしば顕著な固有の死亡率を招き、成体における疾患感受性の亢進といった生涯にわたる差異をもたらす。保全効果を向上させるためにマイクロバイオームの「リワイルディング」が提案されているが、両生類を完全に自然の池水で飼育することは物流上の制約から困難である。本研究では、飼育下の飼育容器に少量の自然池水接種液を添加することが、オタマジャクシの生存率に影響を与え、腸管および皮膚の微生物叢の多様性を高めるのに十分であるかを検証した。研究室において幼生が部位特異的なマイクロバイオームを獲得できるかを確認するため、2つの地理的地点から池水接種液を調達した。飼育下で育成したグリーンフロッグ（Lithobates clamitans）のオタマジャクシを、これら2つの地理的供給源からの水を用いて、濃度を変えて、微生物除去対照群および標準飼育対照群とともに飼育した。池水接種液の添加は、1～25%の濃度であっても、オタマジャクシの生存率、体重、腸管および皮膚の微生物叢の豊富さを有意に増加させ、腸管および皮膚の微生物叢の群集組成と構造を濃度および供給源依存的に変化させた。微生物除去処理の結果は、これらの効果が非生物的成分のみではなく、接種液の微生物組成によってもたらされたことを示唆している。以上の結果を総合すると、少量の池水接種は、飼育下の両生類に特定の微生物群集を導入するための実用的かつ効果的な手法であることが支持される。"
+  },
+  {
+    "id": "10.1093/ismehm/aazag022",
+    "title": "Human footprints in the gut: how anthropization reshapes the microbiome of chacma baboons",
+    "abstract": "AbstractAnthropogenic pressures are increasingly reshaping wildlife habitats worldwide. These transformations reduce natural areas, but also create new ecological niches, food resources, and environmental stressors, with potential consequences for wildlife behaviour, physiology, and morphology. These changes may affect the gut microbiome, a critical component of host health, yet such effects are often inconsistent across species, particularly in wild non-human primates, and remain poorly understood. Here, we investigated how the gut microbiome of chacma baboons (Papio ursinus ursinus), an ecologically flexible generalist, responds to an anthropization gradient. We analysed 512 fecal samples collected from 33 wild troops across a broad range of human-modified environments in the Western Cape, South Africa. Using a multi-metric approach including the Human Footprint Index, land-use variables and dietary proxies derived from stable isotopes, we assessed gut microbial diversity and composition based on 16S rRNA gene (V4) sequencing. Human-altered environments characterized by high Human Footprint and built-up areas were associated with reduced microbial diversity, and compositional and functional shifts, including decline in fiber-degrading taxa and increase in bacteria associated with simple carbohydrate and dairy metabolism. In contrast, highly cultivated areas showed no diversity difference and distinct microbial assemblages, while dietary variation had weaker effects, primarily altering rare taxa. Our results demonstrate that different components of anthropogenic pressure exert contrasting effects on the baboon gut microbiome, reflecting multiple ecological pathways extending beyond diet alone. Microbiome shifts may have implications for host health, potentially increasing susceptibility to pathogens or inflammatory diseases, with consequences for wildlife populations.",
+    "journal": "ISME Host Microbe",
+    "doi": "10.1093/ismehm/aazag022",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismehm/advance-article/doi/10.1093/ismehm/aazag022/9049068?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4458,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/ismehm/aazag022"
+    ],
+    "translation": {
+      "title": {
+        "hash": "56860816ab45d53aeb287c5abc785a44fd465f2026e8f56fb82100dbc9caad9e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:04:17.831586+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "321b54dfaac6527bf5dd9bb9ac906b84182c510577263edccf74433d6c92453e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:04:17.831586+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸内におけるヒトの足跡：擬人化がチャクマヒヒのマイクロバイオームをいかに変容させるか",
+    "abstract_ja": "要旨 人為的圧力により、世界各地で野生動物の生息地が変容しつつある。こうした変容は自然地域を減少させるだけでなく、新たな生態的ニッチ、食物資源、および環境ストレス要因を生み出し、野生動物の行動、生理機能、および形態に影響を及ぼす可能性がある。これらの変化は、宿主の健康における極めて重要な構成要素である腸内マイクロバイオームに影響を及ぼす可能性があるが、こうした影響は種間、特に野生の非ヒト霊長類において一貫していないことが多く、依然として十分に解明されていない。本研究では、生態学的に柔軟なジェネラリストであるチャクマヒヒ（Papio ursinus ursinus）の腸内マイクロバイオームが、人為化勾配にどのように応答するかを調査した。南アフリカ・ウェスタンケープ州の広範な人間改変環境において、33の野生群れから採取した512検体の糞便サンプルを分析した。ヒューマンフットプリント指数、土地利用変数、および安定同位体由来の食性プロキシを含むマルチメトリック手法を用い、16S rRNA遺伝子（V4）シーケンシングに基づいて腸内微生物の多様性と組成を評価した。ヒューマンフットプリントが高く、市街地が発達した人間改変環境では、微生物多様性の低下に加え、繊維分解菌群の減少や、単純炭水化物および乳製品代謝に関連する細菌の増加など、組成および機能の変化が認められた。対照的に、高度に耕作された地域では多様性に差は見られず、明確な微生物群集が認められた一方、食性の変動による影響はより弱く、主に希少菌群を変化させていた。本研究の結果は、人為的圧力の異なる構成要素がヒヒの腸内マイクロバイオームに相反する影響を及ぼすことを示しており、食性のみにとどまらない複数の生態学的経路を反映している。マイクロバイオームの変化は宿主の健康に影響を及ぼし、病原体や炎症性疾患への感受性を高める可能性があり、野生動物個体群に波及すると考えられる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1190",
+    "title": "CROST 2.0: an expanded repository of spatial transcriptomics",
+    "abstract": "AbstractCROST (https://ngdc.cncb.ac.cn/crost) is a public spatial transcriptomics resource that offers curated datasets, standardized analytical results, structured spatial knowledge, and interactive exploration tools. In version 2.0, our collection has expanded to 544 projects and 3538 samples, nearly a three-fold increase from version 1.0 (182 projects and 1033 samples). We have also substantially expanded the derived resources for spatial colocalization and spatially variable cancer genes. To facilitate spatial microenvironment analysis, CROST 2.0 introduces an analytical framework comprising niche-associated differential expression, spatially resolved gene-set activity analysis, spatial interaction hotspot and topic analyses, and molecular and cell-type niche analysis. CROST 2.0 also provides the Spatial Compare function to compare spatial gene expression, cell-type distributions, and niche composition across samples. It introduces the Cancer NicheDE module to systematically characterize cancer niche-associated differential expression and integrates an online cell-type annotation tool, SCType, enabling the use of single-cell reference information in spatial transcriptomic analysis. These updates extend CROST into an integrated spatial transcriptomics resource for characterizing spatial microenvironments, investigating cancer-associated spatial features, and comparing spatial patterns across samples.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1190",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1190/9052016?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4459,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1190"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2d734dd399b77fe3c6ad8d92353268fe43ba2d849b2f1387ce40a52c291942f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:04:17.831586+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4c22852d9dd14ad9ac4098885d3b4e5f5091e1f13cc3eb00923dfe3be47136fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:04:17.831586+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CROST 2.0: 空間トランスクリプトミクスの拡張リポジトリ",
+    "abstract_ja": "概要CROST (https://ngdc.cncb.ac.cn/crost) は、キュレート済みデータセット、標準化された解析結果、構造化された空間的知見、およびインタラクティブな探索ツールを提供する公開空間トランスクリプトミクスリソースである。バージョン2.0では、コレクションが544プロジェクト、3,538サンプルへと拡大し、バージョン1.0（182プロジェクト、1,033サンプル）からほぼ3倍に増加した。また、空間的共局在および空間的に変動するがん遺伝子に関する派生リソースも大幅に拡充した。空間的微小環境解析を容易にするため、CROST 2.0では、ニッチ関連の発現変動、空間分解能による遺伝子セット活性解析、空間的相互作用ホットスポットおよびトピック解析、ならびに分子および細胞種別のニッチ解析からなる解析フレームワークを導入した。さらに、CROST 2.0では、サンプル間での空間的遺伝子発現、細胞種分布、およびニッチ組成を比較するための「Spatial Compare」機能を提供している。また、がんニッチ関連の発現変動を体系的に特性評価するための「Cancer NicheDE」モジュールを導入し、オンラインの細胞種アノテーションツール「SCType」を統合することで、空間トランスクリプトミクス解析におけるシングルセル参照情報の利用を可能にした。これらのアップデートにより、CROSTは、空間的微小環境の特性評価、がん関連の空間的特徴の調査、およびサンプル間の空間的パターンの比較を行うための統合的な空間トランスクリプトミクスリソースへと拡張された。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag283",
+    "title": "Wolbachia induces excess ecdysteroid production to enhance female reproduction in Laodelphax striatellus",
+    "abstract": "AbstractWolbachia, one of the most widespread intracellular bacteria, is abundant in the ovaries of the small brown planthopper, Laodelphax striatellus. Wolbachia significantly enhances L. striatellus egg production; however, the mechanistic role of host hormones remains unclear. Here, we investigated how Wolbachia manipulates L. striatellus reproduction through the host ecdysteroid hormone pathway. Wolbachia infection elevated the levels of ovarian ecdysone and 20-hydroxyecdysone (20E), hormonal increases that are crucial as RNA interference knockdown of the synthesis genes CYP315A1 (for ecdysone) and CYP314A1 (for 20E) reduced hormone titres and suppressed fecundity, whereas 20E supplementation restored egg production. Furthermore, we precisely located germline stem cells (GSCs) in the posterior tropharium and identified mitotic nurse cell precursors (NCPs) in the anterior region. In infected females, these specific tropharia regions exhibited a high proportion of pH3-positive GSCs and NCPs and low apoptosis rate. Wolbachia microinjection into uninfected hosts recapitulated the entire phenotype, elevating 20E levels, enhancing tropharia cell proliferation, and increasing fecundity, confirming a direct causal relationship. Collectively, our findings demonstrate that Wolbachia elevates ovarian 20E levels to stimulate mitosis and suppress apoptosis within precisely mapped GSC and NCP populations in the tropharium, thereby enhancing host reproduction. These findings provide valuable insights into symbiont-driven reproductive enhancement and highlight potential strategies for insect population management.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag283",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag283/9049871?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4456,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/ismejo/wrag283"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7c1ee5a95700b1af5ccfbf1ed84385776716d5475ad2d5d2af4cefc5bd3af560",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:04:17.831586+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4e044eb51da645e98897f69972f746e090e0c476e2a7ccacc75d594ed552d486",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:04:17.831586+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "WolbachiaはLaodelphax striatellusにおいてエクジステロイドの過剰産生を誘導し、雌の繁殖能を高める。",
+    "abstract_ja": "要旨最も広く分布する細胞内細菌の一つであるWolbachiaは、コガタブラウンプランクトン Laodelphax striatellus の卵巣に豊富に存在する。WolbachiaはL. striatellusの産卵量を著しく増加させるが、宿主ホルモンの機序的な役割は依然として不明である。本研究では、Wolbachiaが宿主のエクジステロイドホルモン経路を介してL. striatellusの生殖をどのように調節するかを調査した。Wolbachia感染により、卵巣内のエクジソンおよび20-ヒドロキシエクジソン（20E）のレベルが上昇した。これらのホルモン増加は、合成遺伝子CYP315A1（エクジソン用）およびCYP314A1（20E用）のRNA干渉によるノックダウンがホルモン価を低下させ繁殖力を抑制したのに対し、極めて重要であった。一方、20Eの補充は産卵量を回復させた。さらに、後方トロファリウムにおける生殖幹細胞（GSCs）を正確に局在させ、前方領域において有糸分裂期のナースセル前駆細胞（NCPs）を同定した。感染雌において、これらの特定のトロファリウム領域は、pH3陽性のGSCsおよびNCPsの割合が高く、アポトーシス率が低いことが示された。未感染宿主へのWolbachiaマイクロインジェクションにより、20Eレベルの上昇、トロファリウム細胞の増殖促進、および繁殖力の増加という全表現型が再現され、直接的な因果関係が確認された。総じて、本研究の知見は、Wolbachiaがトロファリウム内の精密にマッピングされたGSCおよびNCP集団において卵巣の20Eレベルを上昇させることで、有糸分裂を刺激しアポトーシスを抑制し、それによって宿主の生殖能を高めることを示している。これらの知見は、共生生物主導の生殖能向上に関する貴重な洞察を提供し、昆虫個体群管理のための潜在的な戦略を浮き彫りにするものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1085",
+    "title": "PVDive: the plant virus diversity database",
+    "abstract": "AbstractPlant viruses are a diverse class of infectious agents affecting agricultural crop production, plant health, and international movement of plant material. While availability and accessibility of scientific data related to plant viruses is essential for plant protection activities, scientific research, diagnostics, plant breeding, and beyond, publicly available data on plant viruses are at present not easily accessible; they are non-standardized, scattered across different resources, poorly interlinked, and not easily searchable by scientists or digital agents. We present PVDive (Plant Virus Diversity Database; https://pvdive.dsmz.de), a freely accessible resource providing high-quality, standardized, and integrated data associated with plant viruses. PVDive primarily offers information at the level of individual plant virus isolates and samples originating from the plant virus collection of the Leibniz Institute DSMZ (Germany). The data are integrated with information on plant virus species and host plants available in existing public resources and their access is centralized in a single platform. Through an intuitive, user-friendly interface with a number of search functionalities and a RESTful application programming interface, PVDive improves findability, accessibility, retrievability, and interoperability of plant virus data. To support data exploration, the platform also includes tools such as advanced search, sequence viewer, host gallery, and interactive data views.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1085",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1085/9052014?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4460,
+    "collected_at": "2026-11-14T11:38:24.825963+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/nar/gkag1085"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c9af2934ffe90644d64d194545823319b3585a95c3855b96cdaece8fdf79d331",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:04:17.831586+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b25d18482c3853ecb18abf6f524eac5cf2f2e43ce9152c3534f9299b6ea361d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:04:17.831586+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PVDive: 植物ウイルス多様性データベース",
+    "abstract_ja": "要旨 植物ウイルスは、農作物の生産、植物の健全性、および植物材料の国際的な移動に影響を及ぼす多様な感染性因子の一群である。植物ウイルスに関する科学的データの利用可能性とアクセシビリティは、植物保護活動、科学研究、診断、植物育種などにおいて不可欠である一方、現時点で公開されている植物ウイルスデータは容易にアクセスできず、標準化されておらず、異なるリソースに散在し、相互連携が不十分であり、科学者やデジタルエージェントによる検索も容易ではない。本稿では、植物ウイルスに関連する高品質で標準化された統合データを提供する、無料で利用可能なリソースであるPVDive（Plant Virus Diversity Database; https://pvdive.dsmz.de）を紹介する。PVDiveは主に、個々の植物ウイルス分離株、およびライプニッツ研究所DSMZ（ドイツ）の植物ウイルスコレクションに由来するサンプルレベルの情報を提供している。データは、既存の公開リソースで利用可能な植物ウイルス種および宿主植物の情報と統合されており、そのアクセスは単一のプラットフォームに集約されている。数多くの検索機能を備えた直感的でユーザーフレンドリーなインターフェースとRESTfulアプリケーションプログラミングインターフェースを通じて、PVDiveは植物ウイルスデータの発見性、アクセシビリティ、検索性、および相互運用性を向上させる。データ探索を支援するため、本プラットフォームには詳細検索、配列ビューア、ホストギャラリー、およびインタラクティブなデータビューなどのツールも含まれている。"
   }
 ]
