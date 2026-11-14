@@ -217733,5 +217733,328 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "SQANTI-evidence: ロングリードRNA-seq由来の未アノテーションゲノムに対する、アイソフォーム分解能かつエビデンス階層型の構造アノテーション",
     "abstract_ja": "ロングリードRNAシーケンシングでは全長の転写産物が取得されるが、現行のアノテーションパイプラインでは遺伝子予測に向けたデータの適切なキュレーションが行えていない。本研究では、リファレンスアノテーションやタンパク質データベースを必要とせず、ロングリードのみからゲノムをアノテーションする新規ソフトウェア「SQANTI-evidence」を提案する。SQANTI3でキュレートされた転写産物は、アイソフォームや非翻訳領域を含む観測通りの状態でアノテーションに反映される。AUGUSTUSは、リードによる裏付けがない遺伝子座においても遺伝子を予測する。ベンチマークにおいて、キュレート層は7種中5種で最も精度の高い遺伝子セットとなり、哺乳類ではBRAKERの2倍の正確なアイソフォームを回収し、3′末端をポリ(A)部位に最も近い位置に配置した。我々は13件のERGAデータセットをアノテーションした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.763961",
+    "title": "NORMA 3.0: aesthetic and group-aware visualization and analysis of annotated biological networks",
+    "abstract": "Summary  Interpreting a biological network often rests on the relationship between its connectivity and the functional groups annotated on it, such as pathways, complexes, or enriched terms. For example, whether a group forms a cohesive module, how groups overlap, and which proteins connect them. These relationships are often hard to assess visually when groups are numerous or overlap, and most tools represent membership only by node color. NORMA 3.0 is a complete client-side rewrite of its predecessors, delineating and laying out groups with convex hulls, bubble sets, or fog clouds. Multi-group nodes are rendered as pies and directed, and parallel edges retain their evidence channels. Eighteen 2D and nine 3D layouts are scored by silhouette width, outline intrusion and overlap, and benchmarked for group separation and run time. The implementation also includes edge bundling, network importers for six databases, 21 topological measures, group-level and enrichment statistics, comparison of up to ten networks, export of high-resolution images, and an Application Programming Interface. Availability and implementation  NORMA 3.0 is freely available at  https://normaviz.org . The source code is available at  https://github.com/PavlopoulosLab/NORMA .  Contact  pavlopoulos@fleming.gr Supplementary information  Supplementary data are available at  Bioinformatics online.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.763961",
+    "date": "2026-11-04",
+    "authors": "Baltoumas F, Karatzas E, Koutrouli M, Galaras A, Aplakidou E, Chasapi IN, Chasapi MN, Lazanas P, Lamari E, Pržulj N, Georgakopoulos-Soares I, Pavlopoulos GA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358662",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "biological network",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "biological network",
+          "visualization"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2474,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.763961"
+    ],
+    "translation": {
+      "title": {
+        "hash": "deb6d0338d343e1052272bc1977d320eda659144054d273bc74d443e6fc5af35",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:53:01.811986+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6d94829602d30a429a9888f5c728f2a5b56830ed70382fb8b95527f1b9495f37",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:53:01.811986+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NORMA 3.0: アノテーション済み生物学的ネットワークの審美的かつグループを考慮した可視化と解析",
+    "abstract_ja": "概要  生物学的ネットワークの解釈は、多くの場合、その接続性と、パスウェイ、複合体、あるいはエンリッチメント項といったアノテーションされた機能グループとの関係に基づいて行われる。例えば、あるグループがまとまりのあるモジュールを形成しているか、グループ同士がどのように重複しているか、そしてどのタンパク質がそれらを接続しているか、といった点である。グループ数が多かったり重複していたりする場合、これらの関係性を視覚的に評価することは困難なことが多く、ほとんどのツールではノードの色のみで所属を表現している。NORMA 3.0は、前身となるツールをクライアント側で完全に書き直したものであり、凸包、バブルセット、またはフォグクラウドを用いてグループを画定・レイアウトする。マルチグループノードはパイ状かつ有向でレンダリングされ、並列エッジはエビデンスチャネルを保持する。18種類の2Dレイアウトと9種類の3Dレイアウトについて、シルエット幅、アウトラインの侵入および重複によってスコアリングを行い、グループ分離と実行時間についてベンチマークを実施した。また、本実装にはエッジバンディング、6つのデータベースに対応したネットワークインポーター、21種類のトポロジカル指標、グループレベルおよびエンリッチメント統計、最大10個のネットワークの比較、高解像度画像のエクスポート、およびアプリケーションプログラミングインターフェースが含まれている。利用可能性と実装  NORMA 3.0は、https://normaviz.org で無料で利用可能である。ソースコードは https://github.com/PavlopoulosLab/NORMA で公開されている。  連絡先  pavlopoulos@fleming.gr 補足情報  補足データは Bioinformatics online で入手可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.01.763421",
+    "title": "Decoding Cell-type Specific Gene Regulation with CellReg3D by Integrating DNA Large Language Models and 3D Genome Structure",
+    "abstract": "Gene regulation is a core biological mechanism crucial for organismal growth and development. Recent advances in deep learning, coupled with increasing computational resources, have enabled large-scale modelling of gene regulatory processes. While numerous models have been proposed, effectively capturing long-range genomic interactions remains a central challenge. Here, we introduce CellReg3D, a multiscale and multi-modal deep learning framework designed to model cell-type-specific gene regulation by integrating local sequence patterns with long-range genomic interactions. Existing approaches often overlook the contribution of 3D genome architecture and face limitations in combining sequence-based features with chromatin interaction data. Specifically, CellReg3D overcomes these gaps by leveraging a DNA language model to encode sequence-level information and incorporating Hi-C-derived 3D chromatin interactions to capture chromatin spatial organization. We demonstrate that CellReg3D effectively learns epigenetic patterns and chromatin activity states, achieving state-of-the-art performance in predicting epigenetic marks and gene expression profiles across multiple cell types. Using interpretable methods, we illustrate how the model identifies cell-type-specific regulatory mechanisms and prioritizes functional non-coding variants. Furthermore, we apply CellReg3D to enhance the interpretation of expression quantitative trait loci (eQTLs) and uncover novel potential gene regulatory interactions. Overall, CellReg3D offers a integrative framework for decoding regulatory genomics, unifying sequence and 3D genome structure data to advance variant prioritization, disease mechanism discovery, and personalized functional genomics.",
+    "journal": "",
+    "doi": "10.64898/2026.11.01.763421",
+    "date": "2026-11-04",
+    "authors": "Wang X, Zhang Y, Chen S, Imoto S, Webb GI, Vasilakos AV, Li F, Wang K, Song J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358820",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "genomic",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2481,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.01.763421"
+    ],
+    "translation": {
+      "title": {
+        "hash": "79946b5c574abecd87db41cd9c0ecda0b7c6be396651c48a29c73a28b3cc97d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:53:01.811986+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f294c27ef9ed25cea842610d4757579f0f0961325e408df61c654ecee2c78729",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:53:01.811986+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DNA大規模言語モデルと3次元ゲノム構造を統合したCellReg3Dによる細胞種特異的な遺伝子制御の解読",
+    "abstract_ja": "遺伝子調節は、生物の成長と発達に不可欠な中核的な生物学的機構である。近年の深層学習の進展と計算資源の拡充により、遺伝子調節プロセスの大規模なモデリングが可能となった。数多くのモデルが提案されてきたが、長距離ゲノム相互作用を効果的に捉えることは依然として中心的な課題である。本研究では、局所的な配列パターンと長距離ゲノム相互作用を統合することで、細胞種特異的な遺伝子調節をモデル化するために設計されたマルチスケール・マルチモーダル深層学習フレームワーク「CellReg3D」を提案する。既存の手法では、3次元ゲノム構造の寄与が見落とされがちであり、配列ベースの特徴量とクロマチン相互作用データの組み合わせに限界がある。具体的に、CellReg3DはDNA言語モデルを活用して配列レベルの情報をエンコードし、Hi-C由来の3次元クロマチン相互作用を組み込むことで、クロマチンの空間的構造を捉え、これらのギャップを克服する。我々は、CellReg3Dがエピジェネティックパターンとクロマチン活性状態を効果的に学習し、複数の細胞種にわたるエピジェネティックマークおよび遺伝子発現プロファイルの予測において最先端の性能を達成することを実証する。解釈可能な手法を用いて、本モデルがいかにして細胞種特異的な調節機構を同定し、機能的な非コード変異を優先させるかを示す。さらに、CellReg3Dを適用して発現量的形質遺伝子座（eQTL）の解釈を強化し、新たな潜在的遺伝子調節相互作用を明らかにする。総じて、CellReg3Dは調節ゲノミクスを解読するための統合的なフレームワークを提供し、配列データと3次元ゲノム構造データを統合することで、変異の優先順位付け、疾患メカニズムの発見、および個別化機能ゲノミクスを推進する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762992",
+    "title": "Predicting single-molecule chromatin distribution from DNA sequence",
+    "abstract": "Genome regulation unfolds through dynamic and stochastic single-molecule events. Deep learning models that read gene regulatory activities from DNA sequences have markedly advanced our ability to predict cell-population-level averages. However, they cannot capture the full spectrum of heterogeneity and dynamics at the single-molecule level, which directly reflect the underlying mechanisms of genome regulation. Here, we introduce a sequence-to-distribution (S2d) framework that directly models the entire probabilistic distribution of single-molecule chromatin states from DNA sequence alone. We used this framework to train Mola, a model of single-molecule chromatin accessibility. We harness Mola to investigate sequence-based regulatory code and mechanisms for multiple aspects of chromatin regulation at the single-molecule level. By quantifying sequence-driven nucleosome regulation, we reveal distinct modes of transcription factor engagement with nucleosomes, including a novel nucleosome-trapping factor, ZNF146. We characterized the sequence determinants governing the +1 nucleosome after transcription start sites and identified YY1 as the strongest +1 nucleosome-positioning factor. Leveraging long-context single-molecule modeling, we further discovered a shared sequence basis for the co-accessibility of regulatory elements and the co-footprinting of transcription factors. Joint prediction of DNA methylation and accessibility reveals a sequence-driven bimodal state mediated by methylation-sensitive transcription factors. Beyond static single-molecule snapshots, the S2d framework can generate pseudo-dynamic trajectories of chromatin states and propose a roadmap toward genome-wide chromatin dynamics. Moreover, we showed that Mola can predict and interpret the effects of genetic variants at the single-molecule level, revealing how sequence changes reshape distal regulatory coordination. Together, this sequence-to-distribution framework lays the foundation for understanding how genomic sequence encodes stochastic and dynamic genome regulation, and how genetic variation changes it, one molecule at a time.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762992",
+    "date": "2026-11-04",
+    "authors": "Wang R, Jin J, Pott S, Zhou J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358784",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "chromatin",
+        "framework",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2482,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762992"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8005947de084cd0cd0ba430dd0a642c628b9af2835aa83eb7d44d2a949d06994",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:53:01.811986+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e4f807be0917217b30578f40a93f593b6e5cf064fbbaa4747fd6515b729a218d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:53:01.811986+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DNA配列からの単一分子クロマチン分布の予測",
+    "abstract_ja": "ゲノム調節は、動的かつ確率的な単一分子事象を通じて展開される。DNA配列から遺伝子調節活性を読み取る深層学習モデルは、細胞集団レベルの平均値を予測する能力を著しく向上させた。しかし、これらのモデルでは、ゲノム調節の根底にあるメカニズムを直接的に反映する、単一分子レベルの不均一性とダイナミクスの全スペクトルを捉えることはできない。本研究では、DNA配列のみから単一分子クロマチン状態の確率的分布全体を直接的にモデル化する、sequence-to-distribution（S2d）フレームワークを提案する。我々はこのフレームワークを用いて、単一分子クロマチンアクセシビリティモデルであるMolaを学習させた。Molaを活用し、単一分子レベルでのクロマチン調節の多面的な側面に関する配列ベースの調節コードとメカニズムを調査した。配列駆動型のヌクレオソーム調節を定量化することで、新規のヌクレオソーム捕捉因子ZNF146を含む、転写因子のヌクレオソームへの関与における異なる様式を明らかにした。また、転写開始部位の後にある+1ヌクレオソームを制御する配列決定因子を特性評価し、YY1を最も強力な+1ヌクレオソーム配置因子として同定した。ロングコンテキスト単一分子モデリングを活用することで、調節エレメントの共アクセシビリティと転写因子の共フットプリンティングに共通する配列基盤をさらに発見した。DNAメチル化とアクセシビリティの共同予測により、メチル化感受性転写因子によって媒介される、配列駆動型の二峰性状態が明らかになった。静的な単一分子スナップショットにとどまらず、S2dフレームワークはクロマチン状態の擬似動的軌跡を生成し、ゲノムワイドなクロマチンダイナミクスへのロードマップを提示することができる。さらに、Molaが単一分子レベルで遺伝的変異の影響を予測・解釈できることを示し、配列の変化が遠位の調節協調をどのように再形成するかを明らかにした。総じて、このsequence-to-distributionフレームワークは、ゲノム配列がいかにして確率的かつ動的なゲノム調節を符号化し、遺伝的変異がいかにして分子一つひとつでそれを変化させるかを理解するための基礎を築くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0264.v1",
+    "title": "Evolutionary Evidence in Human Disease Variant Interpretation: A Mechanism-First Framework for Comparative Genomics",
+    "abstract": "Interpreting human disease-associated variants remains challenging because no single evidence type reliably establishes whether a sequence change disrupts a disease-relevant mechanism. Comparative genomics is widely used to address this problem, particularly through evolutionary conservation and constraint, yet the biological meaning and evidentiary value of comparative signals can vary substantially across genes, variants and disease mechanisms. This critical narrative review examines when evolutionary evidence genuinely improves human disease variant interpretation and when it can mislead. We evaluate conservation and constraint across coding and noncoding sequences in relation to evolutionary distance, orthology, alignment quality, population variation, gene-disease validity, phenotype, functional assays, transcriptomics and structural information. We argue that evolutionary evidence should be treated as a conditional evidence layer rather than a direct indicator of pathogenicity. We further identify evidentiary dependence as an underappreciated source of overconfidence, because conservation measures and computational predictors such as CADD, REVEL and AlphaMissense may draw on overlapping evolutionary data, annotations or clinical labels. To address these limitations, we propose a mechanism-first framework that begins by defining the relevant disease mechanism and transcript, then selects comparative evidence according to the biological claim being tested and evaluates whether additional evidence provides genuinely independent information. The framework also considers lineage-specific function, regulatory turnover, ancestry, reference bias, structural variation, pangenomes and emerging sequence-based models. We conclude that evolutionary evidence is most informative when it helps resolve a specific mechanistic question, identifies variants for functional investigation, or strengthens a coherent interpretation, rather than serving as a shortcut from sequence similarity to clinical causality.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0264.v1",
+    "date": "2026-11-04",
+    "authors": "Abdulrahim LA, Ayua JN.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357903",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genomic",
+          "pangenom",
+          "pangenome",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2483,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0264.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9f7e45236b46c2ed2554a58b5f3cde05baa35b3815c225ff477d55aab8b5ad52",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:53:01.811986+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0ab9cfe3c6d93e4a7bbe272008da574d9a8e16120ae51009a840edc092af35c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:53:01.811986+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト疾患バリアント解釈における進化的証拠：比較ゲノミクスのためのメカニズム優先型フレームワーク",
+    "abstract_ja": "ヒト疾患関連変異の解釈は、配列変化が疾患関連メカニズムを阻害するかどうかを信頼性をもって立証できる単一のエビデンスタイプが存在しないため、依然として困難な課題である。この問題に対処するため、特に進化的保存性と制約を通じて比較ゲノミクスが広く用いられているが、比較シグナルの生物学的意義や証拠価値は、遺伝子、変異、および疾患メカニズムによって大きく異なる場合がある。本クリティカル・ナラティブ・レビューでは、進化的エビデンスがヒト疾患変異の解釈を真に改善する場合と、誤解を招く場合について検討する。我々は、進化的距離、オーソロジー、アライメント品質、集団変異、遺伝子・疾患妥当性、表現型、機能的アッセイ、トランスクリプトミクス、および構造情報に関連して、コーディング配列および非コーディング配列における保存性と制約を評価する。我々は、進化的エビデンスを病原性の直接的な指標ではなく、条件付きエビデンス層として扱うべきであると主張する。さらに、保存性指標やCADD、REVEL、AlphaMissenseなどの計算論的予測モデルは、重複する進化データ、アノテーション、または臨床ラベルに基づいている可能性があるため、「証拠依存性」が過信を招く過小評価された要因であることを指摘する。これらの限界に対処するため、我々は、まず関連する疾患メカニズムと転写産物を定義し、次に検証対象とする生物学的主張に応じて比較エビデンスを選択し、追加のエビデンスが真に独立した情報を提供するかどうかを評価するという「メカニズム優先」のフレームワークを提案する。このフレームワークでは、系統特異的な機能、調節ターンオーバー、祖先系統、参照バイアス、構造変異、パンゲノム、および新たな配列ベースモデルも考慮する。結論として、進化的エビデンスは、配列類似性から臨床的因果関係へのショートカットとして機能するのではなく、特定のメカニズム上の疑問の解決、機能的調査のための変異の同定、あるいは一貫した解釈の補強に役立つ場合に、最も有益な情報を提供するものである。"
   }
 ]
