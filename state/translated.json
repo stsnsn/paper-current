@@ -220642,5 +220642,342 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PEDV感染におけるRBM3の二重の役割：ウイルスRNAの安定化と侵入因子HSPA5の発現上昇",
     "abstract_ja": "コールドショックタンパク質ファミリーの一員であるRBM3は、標的転写産物の非翻訳領域（UTR）に結合することでそれらを安定化させるRNAシャペロンとして機能する。豚流行性下痢ウイルス（PEDV）は養豚業に深刻な脅威をもたらす腸管コロナウイルスであり、その複製はゲノムおよびサブゲノムRNAに大きく依存しているため、これらのRNAは宿主RNA結合タンパク質の潜在的な標的となる。本研究では、RBM3が二重のメカニズムを介してPEDVの複製を促進することを示す。一方で、RBM3はウイルス3’UTRへの結合選好性を示し、これによりウイルスRNAの半減期が延長され、PEDVの増殖が促進される。また、RBM3はPEDVのヌクレオカプシド（N）タンパク質および複製関連二本鎖RNA（dsRNA）シグナルとも相互作用しており、RBM3がウイルス複製複合体に関与している可能性が示唆されるが、その機能的完全性への寄与については今後解明される必要がある。他方で、RBM3はHSPA5プロモーター活性およびHSPA5 mRNAレベルを上昇させ、RBM3を、PEDVの付着と内部化を促進することが知られている宿主因子であるHSPA5に関連付ける。これら2つのメカニズムが相まって、効率的なPEDV感染の機構的基盤となる。本研究の知見は、RBM3をPEDVの正の宿主調節因子として同定するとともに、RBM3とHSPA5の機能的な関連性を初めて明らかにし、コロナウイルスと宿主の相互作用に関する新たな知見を提供するとともに、RBM3を抗ウイルス介入の潜在的な標的として示唆するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763450",
+    "title": "DarHTG is a tripartite phage defence system for purine DNA base ADP-ribosylation",
+    "abstract": "Bacteria evolved a variety of phage defence strategies to combat the constant onslaught of viral threats. DarTG toxin-antitoxin systems provide phage defence by ADP-ribosylation of bases in single-stranded DNA which interferes with viral replication and aborts phage infection. Here, we describe DarHTG, a system widespread among bacteria, that combines DarTG with a non- processive superfamily I helicase functioning as co-toxin for DarT and thereby enabling the ADP- ribosylation of double-stranded DNA. We identified two such DarHTG subclasses which catalyse the ADP-ribosylation of adenosine and guanosine bases, respectively, and reverse these modifications with structurally unique ARH superfamily antitoxins. Thus, DarHTG antitoxins expand the known macromolecular target spectrum of the ARH enzyme class to nucleic acids. These DarHTG systems confer resistance to a broad range of bacteriophages and can be triggered by the highly charged tails of viral single-stranded DNA-binding proteins, which occlude the active site of the ARH antitoxin.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763450",
+    "date": "2026-11-03",
+    "authors": "Ledermann R, Gotzler A, Steigenberger B, Wang Y, Zimmermann J, Geiger S, Fu J, Hoffmann J, Suyari O, Zhang Y, Lu Y, Mikoč A, Tang C, Ahel I, Schuller M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357656",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1006,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763450"
+    ],
+    "translation": {
+      "title": {
+        "hash": "930bb6b4157485571851e8c5007a87d6b988d1bd5f44fab6c49dcc488921807a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:22:31.475222+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e594e9060eb9015251875ed27d49796679b1e0228a85d86a7946f52be4db41e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:22:31.475222+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DarHTGは、プリンDNA塩基のADPリボシル化に対する三者構成のファージ防御システムである。",
+    "abstract_ja": "細菌は、絶え間なく押し寄せるウイルスの脅威に対抗するため、多様なファージ防御戦略を進化させてきた。DarTG毒素-抗毒素系は、一本鎖DNAの塩基をADPリボシル化することでファージ防御を実現し、ウイルスの複製を阻害してファージ感染を中断させる。本報では、細菌に広く見られるDarHTG系について述べる。これはDarTGと、DarTの共毒素として機能する非プロセッシング型スーパーファミリーIヘリカーゼを組み合わせたものであり、これにより二本鎖DNAのADPリボシル化が可能となる。我々は、それぞれアデノシン塩基およびグアノシン塩基のADPリボシル化を触媒する2種類のDarHTGサブクラスを同定し、構造的に特異なARHスーパーファミリー抗毒素によってこれらの修飾を逆転させた。このように、DarHTG抗毒素は、ARH酵素クラスの既知の高分子標的スペクトルを核酸へと拡張する。これらのDarHTG系は広範なバクテリオファージに対する耐性を付与し、ARH抗毒素の活性部位を遮蔽するウイルス一本鎖DNA結合タンパク質の高電荷テイルによって活性化され得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763805",
+    "title": "Comparative cryo-EM structures of CGMMV and ToMMV reveal divergent coat protein packing and electrostatics indicating  Tobamovirus  host specificity",
+    "abstract": "Tobamoviruses are a group of economically important plant viruses exhibiting extreme stability and persistence. Despite high morphological similarity, they show extensive host-family specificity, cause a range of symptoms, and cause significant global yield loss in fruit and vegetable plants. Composed of a rod-shaped helical assembly of identical coat proteins encasing a single-stranded RNA, Tobamoviruses have long served as fundamental models for understanding helical assemblies. Here we report the cryo-EM structures of two viruses from this genus, CGMMV and ToMMV, at 2.86 Å and 2.71 Å resolution, respectively. The structures reveal divergent packing strategies within the virion assembly. While ToMMV is genetically similar to the canonical Tobamovirus TMV and displays a structure closely resembling TMV, CGMMV employs a more hydrophobic packing strategy, particularly in the solvent-exposed inner loop region of the coat protein. Comparative biophysical and molecular dynamics analyses from the reconstructed structures reveal more stable and compact protein packing for CGMMV at both the subunit and assembly levels. Furthermore, this study reports a newly identified electrostatic patch existing at the lower alpha-helix region of the coat protein that serves as an additional RNA-stabilizing region, with host family-specific amino acid substitutions among Tobamoviruses. Our study elucidates the structural mechanics and evolutionary strategies driving virion stability and host diversity while maintaining a conserved helical assembly. These findings reveal how subtle electrostatic tuning and divergent packing strategies drive viral stability and host adaptation within a strictly conserved quaternary scaffold.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763805",
+    "date": "2026-11-03",
+    "authors": "Chatterjee A, Venkatasubramanian A, Jailani AAK, Mazumder P, Singh S, Basu S, Das U, Roy A, Mandal B, Datta PP.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357655",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1007,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763805"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c7319f41b4aef6f38a0b4f9658cc16843ea84a5a6201f78b55152180436657b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:22:31.475222+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6a63c36cbc820e358d0f30aea91e3e1b10b0fae556c73a4575f1e85a523bda7c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:22:31.475222+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CGMMVとToMMVの凍結電子顕微鏡構造比較により、コートタンパク質のパッキングと静電特性に相違が認められ、トバモウイルスの宿主特異性が示唆された。",
+    "abstract_ja": "トバモウイルスは、極めて高い安定性と持続性を示す経済的に重要な植物ウイルス群である。形態的な類似性が高いにもかかわらず、宿主科に対する広範な特異性を示し、多様な症状を引き起こし、果実や野菜の植物において世界的に著しい収量損失をもたらしている。一本鎖RNAを包む同一の外被タンパク質による棒状のらせん構造からなるトバモウイルスは、らせん構造を理解するための基礎的なモデルとして長らく用いられてきた。本報では、本属に属する2つのウイルス、CGMMVおよびToMMVのクライオ電子顕微鏡構造を、それぞれ2.86 Åおよび2.71 Åの分解能で報告する。これらの構造から、ビリオン構造内における異なるパッキング戦略が明らかになった。ToMMVは典型的なトバモウイルスであるTMVと遺伝的に類似しており、TMVに酷似した構造を示すが、CGMMVは、特に外被タンパク質の溶媒露出型インナーループ領域において、より疎水性の高いパッキング戦略を採用している。再構築された構造に基づく比較生物物理学的および分子動力学解析により、CGMMVではサブユニットレベルおよびアセンブリレベルの両方で、より安定かつコンパクトなタンパク質パッキングが認められることが明らかになった。さらに本研究では、外被タンパク質の下部αヘリックス領域に存在し、追加的なRNA安定化領域として機能する、新たに同定された静電パッチを報告する。このパッチは、トバモウイルス間で宿主科特異的なアミノ酸置換が見られる。本研究は、保存されたらせん構造を維持しつつ、ビリオンの安定性と宿主多様性を駆動する構造力学および進化戦略を解明するものである。これらの知見は、厳密に保存された四次骨格において、微細な静電的調整と異なるパッキング戦略が、いかにしてウイルスの安定性と宿主適応を駆動しているかを明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762580",
+    "title": "Phylogeny-Guided Global-Local Shrinkage for Microbiome Feature Selection",
+    "abstract": "Microbiome feature selection is challenging because sequencing counts are sparseand compositional, while evolutionarily related taxa may exhibit similar associations with an exposure. We propose phylogeny-guided global--local shrinkage (PGL), a Bayesian regression method for identifying exposure-associated differences in the relative abundances of individual amplicon sequence variants (ASVs). A multinomial logit-normal working model analyzes relative abundance among ASVs detected in each sample. A zero-sum constraint gives the regression coefficients a log-ratio interpretation relative to the mean across retained ASVs. Global--local shrinkage accommodates weak and large associations, while an estimated weight controls information sharing along a supplied phylogenetic tree. Simulation ablation studies showed that phylogenetic borrowing improved detection power and estimation of nonzero coefficients when associations aligned with the tree, with little change under a tree-independent generator. Estimated borrowing decreased as the supplied tree was corrupted. Comparisons with benchmark methods revealed different trade-offs between detection power and false discovery rates across simulation settings. In an HIV oral microbiome application, ablation analysis showed that phylogenetic borrowing preserved the overall pattern of estimated associations while changing posterior uncertainty and selecting three additional ASVs. PGL provides ASV-level inference with adaptive information sharing across evolutionarily related features.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762580",
+    "date": "2026-11-03",
+    "authors": "Zhu Z, Zhang S, Tang X, Zhang L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357510",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "microbiome",
+        "phylogeny",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1008,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762580"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b43a7a1bc966a1bae5b5562d140047d074a74489e864351398cc5a64581b2780",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:22:31.475222+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0762c58a3c89ff3d36ba334a5c27a3ff293b71082c00217c8b02ef71d2b74efe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:22:31.475222+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物叢の特徴選択のための系統樹に基づくグローバル・ローカル縮小法",
+    "abstract_ja": "マイクロバイオームの特徴量選択は、シーケンシングカウントが疎かつ組成的であり、かつ進化的に近縁な分類群が曝露に対して同様の関連性を示す可能性があるため、困難である。本研究では、個々のアンプリコン配列変異体（ASV）の相対存在量における曝露関連の差異を同定するためのベイズ回帰手法である、系統樹誘導型グローバル・ローカル・シュリンケージ（PGL）を提案する。多項ロジット正規分布の作業モデルを用いて、各サンプルで検出されたASV間の相対存在量を解析する。ゼロ和制約により、回帰係数は保持されたASVの平均に対する対数比として解釈される。グローバル・ローカル・シュリンケージは、弱い関連性および強い関連性の双方に対応し、推定重みによって提供された系統樹に沿った情報共有を制御する。シミュレーションによるアブレーション研究の結果、関連性が系統樹と整合している場合、系統樹借用によって検出力と非ゼロ係数の推定が向上し、系統樹非依存の生成器を用いた場合にはほとんど変化が見られないことが示された。提供された系統樹が汚染されるにつれて、推定される借用量は減少した。ベンチマーク手法との比較により、シミュレーション設定に応じて、検出力と偽発見率の間で異なるトレードオフがあることが明らかとなった。HIV口腔マイクロバイオームへの適用において、アブレーション解析の結果、系統樹借用は推定された関連性の全体的なパターンを維持しつつ、事後不確実性を変化させ、さらに3つのASVを選択した。PGLは、進化的に近縁な特徴量間で適応的な情報共有を行うことで、ASVレベルの推論を可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11177595/v1",
+    "title": "Severe Intracranial Hemorrhage and Intracranial Infection Caused by Ureaplasma parvum Infection in an Extremely Preterm Infant: A Case Report and Literature Review",
+    "abstract": "Abstract  Background:Ureaplasma parvum (Up) is an under-recognized pathogen in neonatal central nervous system infections. We retrospectively analyzed the clinical data of one extremely preterm infant presenting with severe intracranial hemorrhage (ICH) and intracranial infection attributed to Up infection, and systematically reviewed the relevant literature. The analysis covered perinatal history, neurological manifestations, serial cerebrospinal fluid (CSF) and imaging changes, metagenomic next-generation sequencing (mNGS) results, and treatment course. Case presentation:A male infant was born at 26⁺¹ weeks of gestation with a birth weight of 920 g. Intracranial hemorrhage, initially grade I on day 1 of life, progressed to grade IV by day 4. CSF examination showed typical features of intracranial infection: the nucleated cell count was markedly elevated, glucose was profoundly decreased (0.07 mmol/L), and protein reached 7,443 mg/L. Conventional bacterial cultures were repeatedly negative; however, mNGS of CSF identified Up (115 sequence reads; relative abundance 87.19%). Following targeted treatment with azithromycin, CSF inflammatory markers improved. Nevertheless, given the severity of the intracranial lesions, the family ultimately chose to withdraw care. Conclusion: This case suggests that Up infection may act as a synergistic factor in the development or progression of severe ICH in extremely preterm infants. Potential mechanisms include direct injury to the cerebral vascular endothelium and fragile germinal matrix vessels, as well as blood-brain barrier disruption secondary to inflammatory cytokine release. In extremely preterm infants with unusually rapid progression of ICH and poor response to conventional treatment, Up infection should be considered early, and mNGS testing should be arranged without delay. As this is a single case report, the causal relationship warrants confirmation in future studies.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11177595/v1",
+    "date": "2026-11-03",
+    "authors": "Pu J, Yan Q, Zhang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356221",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1009,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11177595/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1f8e8f38c6b763818c44c90a66b242e8d94218f8bb597f9594186a652fe737db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:22:31.475222+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ee0ba382cf64977a7e5178b9b9d37a76d1a555196dbe44f29a7b2e43ed27da0a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:22:31.475222+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "超早産児におけるUreaplasma parvum感染による重症頭蓋内出血および頭蓋内感染症：症例報告および文献検討",
+    "abstract_ja": "要旨  背景：Ureaplasma parvum（Up）は、新生児の中枢神経系感染症において十分に認識されていない病原体である。我々は、Up感染に起因する重度の頭蓋内出血（ICH）および頭蓋内感染を呈した超早産児1例の臨床データを後方視的に解析し、関連文献を系統的にレビューした。解析対象は、周産期歴、神経学的所見、経時的な脳脊髄液（CSF）および画像変化、メタゲノム次世代シーケンシング（mNGS）結果、および治療経過とした。症例提示：男児が妊娠26週1日で出生し、出生体重は920gであった。頭蓋内出血は、生後1日目にはグレードIであったが、4日目までにグレードIVへと進行した。CSF検査では、頭蓋内感染の典型的所見が認められた：有核細胞数が著明に増加し、グルコースが著しく低下（0.07 mmol/L）し、タンパク質は7,443 mg/Lに達した。従来の細菌培養検査では繰り返し陰性であったが、CSFのmNGSによりUpが同定された（115配列リード、相対存在量87.19%）。アジスロマイシンによる標的治療後、CSFの炎症マーカーは改善した。しかしながら、頭蓋内病変の重症度を考慮し、最終的に家族は治療の中止を選択した。結論：本症例は、超早産児における重度のICHの発症または進行において、Up感染が相乗的な要因として作用する可能性を示唆している。考えられる機序としては、脳血管内皮および脆弱な胚性基質血管への直接的な損傷、ならびに炎症性サイトカインの放出に続発する血液脳関門の破綻などが挙げられる。ICHの進行が異常に速く、従来の治療への反応が不良な超早産児においては、早期にUp感染を考慮すべきであり、遅滞なくmNGS検査を実施すべきである。本症例は単一例の報告であるため、因果関係については今後の研究で確認する必要がある。"
   }
 ]
