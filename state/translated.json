@@ -217416,5 +217416,322 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "インド由来の環境分離株Klebsiella pneumoniaeと高リスク臨床クローンHS11286のゲノムおよびプラスミドレベルにおける同一性：K. pneumoniae種複合体の比較ゲノム解析",
     "abstract_ja": "要旨    背景  Klebsiella pneumoniaeは多剤耐性感染症の主要な原因であり、環境リザーバーにおける持続性は、ワンヘルス（One Health）上の懸念としてますます認識されるようになっている。目的  インド由来の臨床および環境由来のK. pneumoniae種複合体分離株と、国際的に重要な高リスク臨床株HS11286とのゲノム関連性を明らかにすること。方法  臨床、河川、湖沼、生乳、および土壌由来の、公開されている11株のK. pneumoniae種複合体ゲノムをKleborateを用いてタイピングし、パンゲノム（Panaroo）およびコアゲノム系統解析（IQ-TREE）、平均塩基同一性（fastANI）、プラスミドレプリコンタイピング（PlasmidFinder）、およびアクセサリーゲノムJaccard類似度により比較した。結果  河川水由来の分離株DCP2は、HS11286と配列型ST11、莢膜遺伝子座KL103、およびO遺伝子座OL2α.1を共有しており、全ゲノム平均塩基同一性は99.99%で、本データセットにおけるペアワイズ値の中で最高値であった。これら2株は、分岐長がほぼゼロで完全に支持された姉妹ペア（bootstrap = 100）を形成し、一致する配列同一性において5種類のプラスミドレプリコン型の同一の相補セットを共有し、KPC-2およびrmtBを含む同一の9つの耐性遺伝子クラスを有していた。HS11286とDCP2のアクセサリーゲノムJaccard類似度は0.9956であり、このペアのみで共有されるアクセサリー遺伝子は436個であった。結論  DCP2とHS11286は、分離された国や年が異なるにもかかわらず、ほぼ同一のコア、アクセサリー、およびプラスミドゲノム内容を共有する同一のクローン系統であり、環境水中に高リスクの臨床用K. pneumoniaeクローンが潜伏し、潜在的に拡散し得ることを示すゲノム上の証拠を提示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11345830/v1",
+    "title": "Exploration of Low-Abundance Tundrisphaera and Tissue 3-Hydroxybutyric Acid (β-HB) in Gastric Cancer Lymphovascular Invasion: A Multi- Cohort Multi-Omics Study with Clearly Defined Evidence Boundaries",
+    "abstract": "Abstract  Background  Lymphovascular invasion (LVI) is one of the early routes of gastric cancer dissemination. Tissue-associated microorganisms and ketone-body metabolism may be associated with aggressive disease, but parallel between-group differences cannot establish a microbial–metabolic mechanism. This study integrated a discovery cohort with paired gastric tissue 16S rRNA and targeted metabolomics data, together with public transcriptomic, single-cell, methylation, dependency, and perturbation resources. Methods  Clinical LVI labels were available for 66 gastric cancer cases, of which 65 had both 16S and metabolomics data (32 LVI-negative [V0] and 33 LVI-positive [V1] cases). We evaluated microbial diversity, community composition, genus-level differences, and a random forest classifier with rigorous control of information leakage, and implemented a mutually exclusive two-stage descriptive genus screen. The strict tier required a mean relative abundance of ≤ 0.01% in V0 and ≥ 0.05% in V1, and a pseudocount-adjusted fold change of ≥ 10; genera that did not meet the strict-tier criteria entered a relaxed additional tier, which required a V1 cumulative genus-table count of ≥ 20 and a ≥ 10-fold increase in mean abundance. Genera with a V0 cumulative count of 0 were treated as zero-baseline candidates, for which fold changes were not estimated. We subsequently analyzed the tissue β-HB signal and the paired bridging relationship between continuous Tundrisphaera abundance and β-HB. We evaluated 6 prespecified non-immune programs in GSE62254, TCGA-STAD, GSE246963, GSE237876, GSE163558, GSE239676, and GSE261635: ketone-body handling, butyrate metabolism, fatty acid degradation, EMT/ECM invasion, endothelial/angiogenic activity, and epithelial integrity. DepMap and LINCS analyses were used only to prioritize experimental candidates. Results  The V1/V0 cumulative genus-table counts for Tundrisphaera were 33/1, the mean relative abundances were 0.002250%/0.000070%, and the pseudocount-adjusted fold change was 31.57; cumulative counts are not equivalent to the number of positive samples. The β-HB signal was higher in V1 (median, 68.49) than in V0 (median, 39.31; Mann–Whitney P = 0.0220318), but the metabolome-wide FDR was 0.9758. In the 65 paired samples, Tundrisphaera and β-HB showed a significant inverse bridging relationship (Spearman ρ = −0.6797; P",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11345830/v1",
+    "date": "2026-11-04",
+    "authors": "Gong J, Wang Q, Wang Z, Shi Y, Ren M, Li T, Wang D, Li G, Peng R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358176",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2446,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11345830/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8bc93ef408757e6e4975dd259f4d8e824a04f74e1bd54e268ffde8e60ba15618",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:49:42.170947+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "47edf3d05bc3595eb22cf91216343fd37ce79a688905cc1524411058c176eb8a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:49:42.170947+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "胃癌リンパ管侵襲における低存在量のTundrisphaeraおよび組織3-ヒドロキシ酪酸（β-HB）の探索：エビデンスの境界を明確にしたマルチコホート・マルチオミクス研究",
+    "abstract_ja": "要旨  背景  リンパ管浸潤（LVI）は、胃癌の早期播種経路の一つである。組織関連微生物およびケトン体代謝は悪性度の高い疾患に関連している可能性があるが、群間の差異だけでは微生物・代謝メカニズムを立証することはできない。本研究では、探索コホートにおける胃組織16S rRNAおよび標的メタボロミクスのペアデータと、公開されているトランスクリプトーム、シングルセル、メチル化、依存性、および摂動リソースを統合した。方法  胃癌症例66例について臨床的なLVIラベルが利用可能であり、そのうち65例で16Sおよびメタボロミクスデータの両方が得られた（LVI陰性［V0］32例、LVI陽性［V1］33例）。情報漏洩を厳格に制御した上で、微生物多様性、コミュニティ組成、属レベルの差異、およびランダムフォレスト分類器を評価し、相互排他的な2段階の記述的属スクリーニングを実施した。この厳格な基準では、V0で平均相対存在量≤0.01%、V1で≥0.05%、かつ擬似カウント調整後のフォールドチェンジ≥10を要求した。厳格基準を満たさない属は緩和された追加基準に移行し、V1の累積属テーブルカウント≥20および平均存在量の10倍以上の増加を要求した。V0の累積カウントが0の属はベースラインゼロ候補として扱われ、フォールドチェンジは推定されなかった。続いて、組織β-HBシグナル、および連続的なTundrisphaera存在量とβ-HBとの間のペアワイズなブリッジング関係を解析した。GSE62254、TCGA-STAD、GSE246963、GSE237876、GSE163558、GSE239676、およびGSE261635において、あらかじめ指定した6つの非免疫プログラム（ケトン体処理、酪酸代謝、脂肪酸分解、EMT/ECM浸潤、内皮/血管新生活性、および上皮完全性）を評価した。DepMapおよびLINCS解析は、実験的候補の優先順位付けにのみ用いた。結果  TundrisphaeraのV1/V0累積属テーブルカウントは33/1、平均相対存在量は0.002250%/0.000070%、擬似カウント調整後のフォールドチェンジは31.57であった。累積カウントは陽性サンプル数と同等ではない。β-HBシグナルはV0（中央値 39.31; Mann–Whitney P = 0.0220318）よりもV1（中央値 68.49）で高かったが、メタボローム全体のFDRは0.9758であった。65例のペアサンプルにおいて、Tundrisphaeraとβ-HBは有意な逆ブリッジング関係を示した（Spearman ρ = −0.6797; P"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.26367175",
+    "title": "A population-based resource for the prioritization of rare variants of unknown significance in clinical genomics",
+    "abstract": "Rare diseases represent a major public health challenge because they are often associated with severe phenotypes, yet many causal variants remain undiscovered. Founder populations provide a unique opportunity to identify disease-causing variants through the local enrichment of rare alleles. Using whole-genome sequencing data from individuals in the Saguenay-Lac-Saint-Jean population, enriched variants were identified and their founder status was assessed through identity-by-descent sharing. Variant impact was evaluated using functional prediction tools without relying on prior clinical classification. A total of 131 founder variants of interest were identified, most of which would likely have been overlooked by conventional approaches based on existing clinical annotations. We developed a web-based platform that facilitates clinician access to the latest interpretation of their genetic variants of interest. These findings demonstrate that potentially pathogenic variants can remain undetected even in extensively studied founder populations. More broadly, they highlight the value of population structure-based approaches for uncovering rare disease variants and improving the characterization of genetic disease risk across human populations.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.26367175",
+    "date": "2026-11-04",
+    "authors": "Tremblay S, Moreau C, Morin G, Laprise C, Girard SL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358745",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2452,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.26367175"
+    ],
+    "translation": {
+      "title": {
+        "hash": "125e918d7140a592863c4802b6577f0f4943c1a357a8b4676f210273083ccda4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:49:42.170947+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3ea742e7d2d1636ea4021f0e9a911e8e43761d45e9d38de00981409d3eee4539",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:49:42.170947+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "臨床ゲノミクスにおける意義不明の希少バリアントの優先順位付けのための集団ベースのリソース",
+    "abstract_ja": "希少疾患は、しばしば重篤な表現型を伴うため公衆衛生上の重大な課題となっているが、原因となる変異の多くは依然として未発見のままである。ファウンダー集団は、希少アレルの局所的な濃縮を通じて、疾患原因変異を同定する独自の機会を提供する。サグネ＝ラック＝サン＝ジャン集団の個人から得られた全ゲノムシーケンシングデータを用いて、濃縮変異を同定し、祖先共有（identity-by-descent sharing）によりそのファウンダーとしての地位を評価した。変異の影響は、事前の臨床分類に依存せず、機能予測ツールを用いて評価した。計131個の関心対象ファウンダー変異が同定され、その大部分は、既存の臨床アノテーションに基づく従来の手法では見落とされていた可能性が高い。我々は、臨床医が関心対象の遺伝子変異に関する最新の解釈に容易にアクセスできるウェブベースのプラットフォームを開発した。これらの知見は、広範に研究されてきたファウンダー集団においてさえ、潜在的に病原性を有する変異が検出されないまま残る可能性があることを示している。より広範には、希少疾患変異の解明や、ヒト集団全体における遺伝性疾患リスクの特性評価を向上させる上で、集団構造に基づくアプローチの有用性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.764034",
+    "title": "gcat, its_a_scam: modular tools for single cell data processing and per-cell quality control",
+    "abstract": "Motivation  The era of designing bioinformatic pipelines using open source tools is giving way to monolithic, and often proprietary, tools designed for end-to-end analysis, especially in the context of single cell data. While these tools are convenient for going from sequencing data to an almost complete data analysis “in a few clicks”, they can strongly limit data use beyond standard analyses. Results  We developed  Gene and Chromosome Analysis Toolkit (gcat) and  It’s a scam To Sell Another Single Cell Analysis Method (  its_a_scam ) for modular processing and quality control of single cell genomic data, freeing users from their reliance on proprietary tools. gcat is a C++ library for parsing genomic data and working with it over genomic coordinates.  its_a_scam is built on top of gcat and provides a suite of tools for a wide range of single cell data processing and quality control.  its_a_scam can be used in conjunction with commonly used open source tools for scRNA-seq and scATAC-seq count matrix generation, and for performing per-cell quality control directly from alignment files. These alignment-level per-cell metrics can be used for quality control of each cell or to understand celltype differences post-clustering or post-annotation. Using a peripheral blood mononuclear cell Multiome dataset, we show that the count matrices generated with the aid of  its_a_scam are highly concordant with those generated by proprietary pipelines. The alignment metrics further demonstrate celltype differences in aligned genomic regions, metagene profiles, and genebody coverage. The modular nature of  its_a_scam allows users to integrate it into their existing pipelines, while also enabling analysis beyond current pipelines.  Availability  gcat (distributed as gcatlib) and  its_a_scam are open source and available at  https://github.com/rishvanth-kp/gcatlib and  https://github.com/rishvanth-kp/its_a_scam . Detailed documentation is available at  https://gcatlib.readthedocs.io/ and  https://its-a-scam.readthedocs.io/ .",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.764034",
+    "date": "2026-11-04",
+    "authors": "Prabakar RK, Meyer HV.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358653",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genomic",
+        "method",
+        "quality control",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2454,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.764034"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c2eb3175332eccc836ab7b43b27de70807d0f4361c45e66f4a3a011df55ffc3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:49:42.170947+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aadec28bb62daf45da4a032891f12e56f5da8fbd4cfa8cb5df0134c9be0b89a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:49:42.170947+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "gcat, its_a_scam: 単一細胞データ処理および細胞ごとの品質管理のためのモジュール式ツール",
+    "abstract_ja": "動機  オープンソースツールを用いてバイオインフォマティクス・パイプラインを設計する時代は、特にシングルセルデータの文脈において、エンドツーエンド解析向けに設計されたモノリシックな、あるいは多くの場合プロプライエタリなツールへと移行しつつある。これらのツールは、シーケンシングデータからほぼ完全なデータ解析までを「数クリックで」行えるため便利である一方、標準的な解析を超えたデータ利用を強く制限する場合がある。成果  我々は、シングルセルゲノムデータのモジュール式処理および品質管理のために、Gene and Chromosome Analysis Toolkit (gcat) および Its a scam To Sell Another Single Cell Analysis Method (its_a_scam) を開発し、ユーザーがプロプライエタリなツールに依存しなくて済むようにした。gcatは、ゲノムデータのパースおよびゲノム座標を用いた操作を行うためのC++ライブラリである。its_a_scamはgcatをベースに構築されており、幅広いシングルセルデータの処理および品質管理のためのツールスイートを提供する。its_a_scamは、scRNA-seqやscATAC-seqのカウント行列生成、およびアライメントファイルからの直接的なセル単位の品質管理において、一般的に用いられるオープンソースツールと併用できる。これらのアライメントレベルのセル単位メトリクスは、各細胞の品質管理や、クラスタリング後またはアノテーション後の細胞タイプ間の差異を把握するために利用できる。末梢血単核球マルチオームデータセットを用いて、its_a_scamの支援により生成されたカウント行列が、プロプライエタリなパイプラインによって生成されたものと高度に一致することを示す。アライメントメトリクスはさらに、アライメントされたゲノム領域、メタジーンプロファイル、および遺伝子ボディカバレッジにおける細胞タイプ間の差異を実証する。its_a_scamのモジュール式の性質により、ユーザーはこれを既存のパイプラインに統合できると同時に、現在のパイプラインを超えた解析も可能となる。入手可能性  gcat（gcatlibとして配布）およびits_a_scamはオープンソースであり、https://github.com/rishvanth-kp/gcatlib および https://github.com/rishvanth-kp/its_a_scam で入手可能である。詳細なドキュメントは https://gcatlib.readthedocs.io/ および https://its-a-scam.readthedocs.io/ で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.01.763455",
+    "title": "SQANTI-evidence: isoform-resolved, evidence-tiered structural annotation of unannotated genomes from long-read RNA-seq",
+    "abstract": "Long-read RNA sequencing captures full-length transcripts, yet current annotation pipelines fail to properly curate the data for gene prediction. We present SQANTI-evidence, a novel software that annotates a genome from long reads alone, without the need for a reference annotation or protein database. SQANTI3-curated transcripts enter the annotation as observed, with isoforms and untranslated regions; AUGUSTUS predicts genes at loci without read support. In benchmarks, the curated layer was the most precise gene set in five of seven species, recovered twice as many exact isoforms as BRAKER in mammals and placed 3′ ends nearest the poly(A) site. We annotated 13 ERGA datasets.",
+    "journal": "",
+    "doi": "10.64898/2026.11.01.763455",
+    "date": "2026-11-04",
+    "authors": "Atienza López P, Conesa A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358793",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "annotation",
+        "database",
+        "genome",
+        "protein",
+        "software"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2458,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.01.763455"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a6310c5164d247b0ccebfe1cfecc373eb5f7a7b164afd524f1d076c747d2d2b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:49:42.170947+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c620234cf823ce9941fb85b8758b8170fc16bcd1648a9cb1a516538fe25d2703",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:49:42.170947+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SQANTI-evidence: ロングリードRNA-seq由来の未アノテーションゲノムに対する、アイソフォーム分解能かつエビデンス階層型の構造アノテーション",
+    "abstract_ja": "ロングリードRNAシーケンシングでは全長の転写産物が取得されるが、現行のアノテーションパイプラインでは遺伝子予測に向けたデータの適切なキュレーションが行えていない。本研究では、リファレンスアノテーションやタンパク質データベースを必要とせず、ロングリードのみからゲノムをアノテーションする新規ソフトウェア「SQANTI-evidence」を提案する。SQANTI3でキュレートされた転写産物は、アイソフォームや非翻訳領域を含む観測通りの状態でアノテーションに反映される。AUGUSTUSは、リードによる裏付けがない遺伝子座においても遺伝子を予測する。ベンチマークにおいて、キュレート層は7種中5種で最も精度の高い遺伝子セットとなり、哺乳類ではBRAKERの2倍の正確なアイソフォームを回収し、3′末端をポリ(A)部位に最も近い位置に配置した。我々は13件のERGAデータセットをアノテーションした。"
   }
 ]
