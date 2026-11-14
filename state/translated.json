@@ -213960,5 +213960,325 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Protify: タンパク質言語モデル評価におけるタスク依存性とホモロジー漏洩を明らかにするベンチマークプラットフォーム",
     "abstract_ja": "タンパク質言語モデル（pLM）は、計算科学的なタンパク質解析において不可欠なツールとなっており、アーキテクチャ、学習目的、および事前学習コーパスの急速な普及により、多様かつ拡大し続けるモデル環境が形成されている。しかし、評価手法は依然として断片化されており、研究によって使用されるデータセット、前処理パイプライン、報告規約が異なるため、結果を論文間で転用できることは稀である。本稿では、統一されたローコードインターフェースを通じて、ゼロショット、教師あり、および転移学習の各設定におけるpLMベンチマークを標準化するオープンソースプラットフォーム「Protify」を紹介する。Protifyは現在、35種類の事前学習済みモデルと61種類のキュレート済みデータセットをサポートしており、それぞれにカスタムバージョンを容易に追加できる。Protifyの高スループットなパイプラインを活用し、ProteinGymを用いて23種類のモデルをベンチマークした結果、DPLM3Bが現在最も性能の高い自己教師ありエンコーダであることが判明した。また、酵素分類、遺伝子オントロジーアノテーション、タンパク質間相互作用、細胞内局在、およびその他の機能的特性にわたる32の多様なタスクを用いた別の大規模教師あり評価では、特定のpLMが支配的になることはなかった。14種類の異なるモデルが少なくとも1つのデータセットで最高スコアを記録し、最上位モデルと2位のモデルの差は実行ごとの変動範囲内に収まっていた。酵素の最適pH予測においては、汎用プローブパイプラインが、11,550回の学習試行から選定された特化型モデルであるEpHodと、50回のハイパーパラメータ試行後に同等またはそれ以上の性能を示した（R2 = 0.482 対 0.425）。同一データのホモロジー制御分割では、すべてのプール埋め込みプローブがR2がほぼゼロまで低下し、全残基埋め込みを用いたTransformerプローブのみが顕著なシグナルを回復した（R2 = 0.248）。したがって、モデルの順位はモデル自体と同様に、評価設計にも依存する。Protifyは、こうした設計上の選択を明示的かつ制御可能で、再現可能なものにし、https://github.com/Gleghorn-Lab/Protify で無料で公開している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.764121",
+    "title": "memVar: an integrated resource for interpreting human membrane protein variation in molecular and disease contexts",
+    "abstract": "Interpreting membrane protein variation requires connecting clinical evidence to the membrane environments and molecular interactions that govern protein functions. Here, we introduce memVar (https://memvar.sunnylab.org), an integrated database of 10,906,688unique single-nucleotide variants from ClinVar, COSMIC, and gnomAD across 7,732 human membrane-associated proteins. memVar reconciles genomic, transcript, and protein coordinates to link variants with membrane topology, bilayer depth, lipid contacts, functional sites, partner-specific interaction interfaces, and variant-effect predictions, alongside disease, tissue-expression and regulatory annotations. Coordinated sequence, structure and variant views retain source provenance and distinguish clinical assertions, experimental observations, and computational predictions. Our analysis reveals that pathogenic/likely pathogenic missense substitutions are enriched in transmembrane segments and predicted protein-protein interaction sites relative to benign/likely benign substitutions, with pooled odds ratios of 2.47 and 6.67, respectively. IntAct-derived interaction loss or decrease was experimentally recorded for 57.9% of pathogenic/likely pathogenic substitutions versus 7.4% of benign/likely benign substitutions. CFTR examples contextualize the established G551D gating defect and prioritize W202R, a variant of uncertain significance, for tests of protein maturation, surface abundance and channel activity. By connecting variant records to specific molecular questions, memVar potentially supports mechanism-oriented investigation and prioritization of functional experiments.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764121",
+    "date": "2026-11-05",
+    "authors": "Xu Y, HUANG S, Zhao J, Sun J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359741",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "nucleotide",
+        "protein",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2502,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.04.764121"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d408684c16ce3f3c1b3e3f183c209fa6fd7abe0f4ba6540a8c65efecd065dd72",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:05:22.518908+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "38a90ccf65fdc739b972381913d5f8cbe6537d7f571c6072356312f03f92c8a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:05:22.518908+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "memVar: 分子および疾患の文脈におけるヒト膜タンパク質の変異を解析するための統合リソース",
+    "abstract_ja": "膜タンパク質の変異を解釈するには、臨床的エビデンスを、タンパク質機能を制御する膜環境や分子間相互作用に結びつける必要がある。本稿では、ClinVar、COSMIC、およびgnomADから得られた、7,732種類のヒト膜関連タンパク質における10,906,688個のユニークな一塩基変異を網羅した統合データベース「memVar」（https://memvar.sunnylab.org）を紹介する。memVarは、ゲノム、転写産物、およびタンパク質の座標を整合させることで、変異を膜トポロジー、二重層深度、脂質接触、機能部位、パートナー特異的相互作用インターフェース、および変異影響予測に結びつけるとともに、疾患、組織発現、および調節に関するアノテーションを提供する。座標化された配列・構造・変異ビューはソースの由来を保持し、臨床的主張、実験的観察、および計算上の予測を区別する。我々の解析により、病原性または病原性の可能性が高いミスセンス置換は、良性または良性の可能性が高い置換と比較して、膜貫通セグメントおよび予測されるタンパク質間相互作用部位に豊富に存在し、プールされたオッズ比はそれぞれ2.47および6.67であることが明らかになった。IntAct由来の相互作用の喪失または減少は、病原性または病原性の可能性が高い置換の57.9%で実験的に記録されたのに対し、良性または良性の可能性が高い置換では7.4%であった。CFTRの例は、既知のG551Dゲーティング欠損を文脈化し、タンパク質成熟、表面存在量、およびチャネル活性の検証において、意義不明の変異であるW202Rを優先させる。変異記録を特定の分子レベルの問いに結びつけることで、memVarはメカニズム指向の研究および機能実験の優先順位付けを支援し得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.764148",
+    "title": "WheatPanRef: a unified linear pan-reference genome for wheat genomics",
+    "abstract": "Linear reference genomes provide coordinates for read mapping, variant discovery and multi-omics data integration, yet assembly-specific coordinate systems limit data reuse, particularly in the large, repetitive and polyploid wheat genome. Here, we present WheatPanRef, a scalable linear pan-reference and coordinate framework that integrates wheat sequence diversity within a stable coordinate system. We reconciled independent Chinese Spring assemblies by resolving structural and sequences discrepancies to constructed a 14.50-Gb consensus sequences CS-NP. Using CS-NP as backbone, we incorporated 4.37 Gb of non-redundant non-CS sequences from 37 diverse wheat accessions, generating WheatPanRef (18.87 Gb). WheatPanRef improves read-alignment performance and captures putative wild-relative introgressions and sequences absent or unanchored in conventional references. Bidirectional coordinate-translation system enables accurate projection between WheatPanRef and individual assemblies without remapping, facilitating genomic resource integration and reuse. WheatPanRef provides a common sequence and coordinate foundation for population-scale wheat genomics, with potential utility for genomic resource integration in other complex crops.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764148",
+    "date": "2026-11-05",
+    "authors": "Niu J, Zhao P, Du W, Zhang X, He H, Appels R, Zhao J, Ma S, Chen T, Haberer G, Spannagl M, Cao Z, Zhang Y, Miao L, Chen S, Zhang B, Wu W, Wang L, Li G, Wu J, Wang Z, Chen Y, Jiao C, Zhang X, Pozniak CJ, Krattinger SG, Choulet F, Ling H, Jia J, Wang D, Yan W, Hu Z, Xin M, Peng H, Ni Z, Grewal S, Alaux M, Varshney RK, Guo W, Deng XW, Sun Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359694",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2503,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.04.764148"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d313793fcc0a5b8e68cc06c13cfa9b8ba67871c58fdb14e4b867da1b8067105e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:05:22.518908+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "96832543a44c84e8fd6c8188f041e7c9f6ba4ddf17ec86985bb26db0556a1757",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:05:22.518908+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "WheatPanRef: コムギゲノミクスのための統合型リニアパンリファレンスゲノム",
+    "abstract_ja": "線形リファレンスゲノムは、リードマッピング、変異体探索、およびマルチオミクスデータ統合のための座標を提供するが、アセンブリ固有の座標系は、特に大規模で反復的かつ多倍体であるコムギゲノムにおいて、データの再利用を制限する。本研究では、コムギの配列多様性を安定した座標系内に統合する、スケーラブルな線形パンリファレンスおよび座標フレームワークであるWheatPanRefを提案する。我々は、構造的および配列的な不一致を解消することで独立したChinese Springアセンブリを整合させ、14.50 Gbのコンセンサス配列CS-NPを構築した。CS-NPをバックボーンとして、37の多様なコムギアクセッションから4.37 Gbの非冗長な非CS配列を組み込み、WheatPanRef（18.87 Gb）を生成した。WheatPanRefはリードアライメント性能を向上させ、推定される野生近縁種の遺伝子浸透や、従来のリファレンスに存在しない、あるいはアンカーされていない配列を捕捉する。双方向座標変換システムにより、再マッピングを行うことなくWheatPanRefと個々のアセンブリとの間で正確な投影が可能となり、ゲノムリソースの統合と再利用が促進される。WheatPanRefは、集団規模のコムギゲノミクスのための共通の配列および座標基盤を提供し、他の複雑な作物におけるゲノムリソース統合にも有用である可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.01.763496",
+    "title": "OncoSpot enables benchmarking of cancer spatial transcriptomics methods across tumor evolutionary modes",
+    "abstract": "Spatial transcriptomics (ST) is increasingly used to map clonal architecture within tumors, yet methods for analyzing cancer ST data are difficult to evaluate because real tumors lack ground truth for copy-number alterations (CNAs), subclonal identity, and malignant cell fraction. Existing ST simulators model normal tissue and do not represent tumor evolution, CNA-driven expression, or the spatial organization of malignant subclones. We present OncoSpot, a cancer-aware simulator of Visium-like spot-based ST data. OncoSpot combines a spatial evolutionary scaffold from DEMON, CNAs generated along the resulting clonal phylogeny with CNAsim, cancer-type-specific malignant transcriptional programs, and spatially clustered nonmalignant cell types, and aggregates cells into spots with known malignant fraction, subclone, and copy-number profiles. We demonstrate OncoSpot on high-grade serous ovarian carcinoma, colorectal cancer, and hepatocellular carcinoma, which represent three distinct modes of tumor evolution. Simulated subclones were spatially clustered and showed stronger phylogeny–space concordance than those generated by scCube under matched subclone populations. Benchmarking CopyKAT, CancerFinder, Clonalscope, and RCTD revealed cancer-dependent performance: Clonalscope recovered copy-number signals more accurately in ovarian and colorectal cancer, whereas CopyKAT performed better in hepatocellular carcinoma, reflecting both the assumptions of each method and the copy-number landscapes of the three cancers. OncoSpot's ground truth also exposed a failure mode in Clonalscope's malignant spot identification, in which tumor and normal labels were inverted, and allowed us to trace its cause. These method-dependent behaviors would be difficult to detect in real data. OncoSpot provides a framework for benchmarking CNA inference, subclone detection, malignant spot identification, and normal spot deconvolution, and its modular design and guidelines allow extension to additional cancer types. OncoSpot is freely available at https://github.com/compbio-mallory/OncoSpot.",
+    "journal": "",
+    "doi": "10.64898/2026.11.01.763496",
+    "date": "2026-11-05",
+    "authors": "Bhattarai P, Yuan W, Zhou XM, Mallory X.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359755",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "method",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogeny",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2531,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.01.763496"
+    ],
+    "translation": {
+      "title": {
+        "hash": "56ce97c8d594824d60b20a9175c0a6d67bd94aa84c9e4bbc37c4fe4aaba5d36c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:05:22.518908+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b3e39be0cf6ce2f85e410cc3a17be5aa21e9c835fd72f53c31fd00e4358853dd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:05:22.518908+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "OncoSpotは、腫瘍の進化様式を横断したがん空間トランスクリプトミクス手法のベンチマークを可能にする。",
+    "abstract_ja": "空間トランスクリプトミクス（ST）は、腫瘍内のクローン構造をマッピングするためにますます活用されているが、実際の腫瘍にはコピー数変異（CNA）、サブクローンの同一性、および悪性細胞分画に関するグラウンドトゥルースが存在しないため、がんSTデータの解析手法の評価は困難である。既存のSTシミュレーターは正常組織をモデルとしており、腫瘍の進化、CNA駆動型の発現、あるいは悪性サブクローンの空間的構成を表現できていない。本稿では、VisiumのようなスポットベースのSTデータに対応した、がん特性を考慮したシミュレーターであるOncoSpotを提案する。OncoSpotは、DEMONによる空間的進化スキャフォールド、得られたクローン系統樹に沿って生成されたCNA（CNAsimによる）、がん種特異的な悪性転写プログラム、および空間的にクラスター化された非悪性細胞種を組み合わせ、既知の悪性分画、サブクローン、およびコピー数プロファイルを持つスポットへと細胞を集約する。我々は、腫瘍進化の3つの異なる様式を代表する高悪性度漿液性卵巣癌、大腸癌、および肝細胞癌を用いてOncoSpotを実証した。シミュレーションによるサブクローンは空間的にクラスター化され、対応するサブクローン集団を用いてscCubeで生成されたものよりも、系統樹と空間的な整合性がより高かった。CopyKAT、CancerFinder、Clonalscope、およびRCTDをベンチマークした結果、がん依存的な性能が明らかになった。Clonalscopeは卵巣癌および大腸癌においてコピー数シグナルをより正確に復元した一方、CopyKATは肝細胞癌においてより優れた性能を示し、これは各手法の前提条件と3つのがん種のコピー数ランドスケープの両方を反映している。また、OncoSpotのグラウンドトゥルースにより、Clonalscopeの悪性スポット同定における失敗モード（腫瘍ラベルと正常ラベルが反転していた点）が明らかになり、その原因を追跡することが可能となった。こうした手法依存的な挙動は、実際のデータでは検出が困難である。OncoSpotは、CNA推論、サブクローン検出、悪性スポット同定、および正常スポットのデコンボリューションをベンチマークするためのフレームワークを提供し、そのモジュール設計とガイドラインにより、追加のがん種への拡張が可能である。OncoSpotは、https://github.com/compbio-mallory/OncoSpot で無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.764008",
+    "title": "A protein language model for domain, functional site, and variant effect prediction",
+    "abstract": "Protein sequence databases are growing far faster than experimentally curated annotations, limiting functional interpretation of newly identified proteins and coding variants. We developed PALM, a protein annotation language model that jointly predicts domain and functional-site occurrence, while preserving overlapping and nested annotations through a soft-target objective. PALM integrates ESM2 with low-rank adaptation (LoRA), learned layer aggregation, and a bidirectional long short-term memory (BiLSTM) encoder. PALM was trained on ~15 million InterPro-annotated UniRef50 sequences spanning 17,951 domain and 1,383 site classes. Across 2.3 million held-out proteins, PALM achieved domain- and site-occurrence F1 scores of 0.941 and 0.877, respectively, and retained substantial performance in proteins with <20% sequence identity to the training and validation data. PALM also substantially outperformed ESM3 annotation baseline. Without training on variant-pathogenicity labels, PALM embedding disruption distinguished 151,823 ClinVar missense variants more accurately than ESM2 embedding disruption (AUROC 0.835 versus 0.710), and combining PALM embedding disruption with the ESM2 likelihood-ratio signal reached an AUROC of 0.877. The same combined zero-shot score outperformed AlphaMissense on a benchmark dataset on 128,161 missense variants, that were derived from literature but not present in ClinVar database. At the protein level, PALM embeddings showed stronger CATH-Gene3D superfamily organization than frozen ESM2 and ESM3 embeddings, and improved prediction of experimental activation and repression effects when combined with ESM2. In a downstream case study, we demonstrated the ability to use PALM-derived embedding as proxy of deep mutational scanning (DMS), showcasing the broad application of PALM. Together, PALM converts curated residue-level knowledge into transferable and mechanistically interpretable representations that connect protein sequence, function, and variant consequence.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.764008",
+    "date": "2026-11-05",
+    "authors": "Wang P, Ahsan MU, Chen T, Wang K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359687",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2532,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.764008"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c21fee5210c6649b90c43093445ac70e3935bbb664d616aa5453859c2534356f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:05:22.518908+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5214e5a856b5ce90ff6414a1d7331cb72704a1d557b26a9a1219a90241cd9376",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:05:22.518908+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ドメイン、機能部位、およびバリアント効果予測のためのタンパク質言語モデル",
+    "abstract_ja": "タンパク質配列データベースの拡充速度は、実験的にキュレーションされたアノテーションの速度を遥かに上回っており、新たに同定されたタンパク質やコーディングバリアントの機能的解釈を制限する要因となっている。我々は、ソフトターゲット目的関数を通じて重複および入れ子構造のアノテーションを保持しつつ、ドメインと機能部位の出現を共同で予測するタンパク質アノテーション言語モデル「PALM」を開発した。PALMは、ESM2に低ランク適応（LoRA）、学習済みレイヤー集約、および双方向長短期記憶（BiLSTM）エンコーダを統合したものである。PALMは、17,951のドメインクラスと1,383の部位クラスにわたる約1,500万件のInterProアノテーション済みUniRef50配列を用いて学習された。230万件のホールドアウトタンパク質において、PALMはドメイン出現および部位出現のF1スコアでそれぞれ0.941と0.877を達成し、学習および検証データとの配列同一性が20%未満のタンパク質においても十分な性能を維持した。また、PALMはESM3アノテーションのベースラインを大幅に上回る性能を示した。バリアントの病原性ラベルを用いた学習を行わない条件下でも、PALMの埋め込みディスラプションは、ESM2の埋め込みディスラプションよりも151,823件のClinVarミスセンスバリアントをより正確に識別し（AUROC 0.835対0.710）、PALMの埋め込みディスラプションとESM2の尤度比シグナルを組み合わせることで、AUROC 0.877を達成した。同様の組み合わせによるゼロショットスコアは、文献由来でClinVarデータベースには存在しない128,161件のミスセンスバリアントを含むベンチマークデータセットにおいて、AlphaMissenseを上回った。タンパク質レベルでは、PALMの埋め込みは、凍結されたESM2およびESM3の埋め込みよりも強力なCATH-Gene3Dスーパーファミリー構造を示し、ESM2と組み合わせた場合には実験的な活性化および抑制効果の予測精度が向上した。ダウンストリームのケーススタディでは、PALM由来の埋め込みを深層変異スキャニング（DMS）のプロキシとして利用する能力を実証し、PALMの広範な適用可能性を示した。総じて、PALMはキュレーションされた残基レベルの知見を、タンパク質配列、機能、およびバリアントの帰結を結びつける、転移可能かつ機構的に解釈可能な表現へと変換する。"
   }
 ]
