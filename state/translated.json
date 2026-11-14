@@ -226150,5 +226150,305 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "呼吸マイクロドメインは、複合体Iを欠くアピコンプレックス生物のミトコンドリアにおいて、ユビキノン生合成とコハク酸脱水素酵素を連結している。",
     "abstract_ja": "ミトコンドリア複合体I（CI）は、NADH由来電子の主要な取り込み部位であり、ほとんどの真核生物において酸化還元調節の重要な部位である。しかし、トキソプラズマ・ゴンディイを含むアピコンプレックス門の寄生虫はCIを欠いており、これらの寄生虫においてミトコンドリア呼吸がどのように構成されているかという根本的な問いが提起されている。本研究では、ユビキノン（UQ）生合成をコハク酸脱水素酵素（SDH）に物理的・機能的に結合させる、寄生虫特異的なミトコンドリアマイクロドメインを同定した。近接標識法、膜ベースの酵母ツーハイブリッド解析、相互共免疫沈降法、およびブルーネイティブPAGEを用いて、UQ生合成タンパク質が寄生虫特異的なSDHサブユニットと会合し、高分子量アセンブリとして共移行することを示した。UQ生合成経路の構成要素であるTgCoq4をノックダウンするとSDH活性が低下し、アッセイに外因性UQを添加しても活性は回復しなかったことから、UQの利用可能性だけでは効率的なコハク酸酸化には不十分であることが示された。FCCPは、リンゴ酸およびTMPD/アスコルビン酸支持呼吸を最大能力まで促進するが、コハク酸を基質とした場合にはその促進効果が認められない。この結果は、活性酸素種（ROS）データと併せると、コハク酸がUQプールの過剰還元を引き起こし、さらなる電子流を制限していることを示唆している。また、CIIIがUQ合成機構と会合していることが判明し、より大きなタンパク質アセンブリが存在することが示唆された。以上の知見を総合すると、T. gondiiにおいてUQ生合成と電子伝達が物理的・機能的に統合されており、CIを欠く生物におけるミトコンドリア呼吸の、これまで認識されていなかった構成が明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763677",
+    "title": "CrJAMs are transcriptional repressors of the monoterpenoid indole alkaloid pathway in  Catharanthus roseus",
+    "abstract": "Catharanthus roseus produces monoterpenoid indole alkaloids (MIAs) in response to the defense hormone jasmonate (JA). In  Arabidopsis , JA regulates defense processes through MYC2 and JA-Associated MYC2a-like transcription factors (JAMs). Here we characterize two previously identified  C. roseus JAMs, CrJAM2 and CrJAM3, as regulators of MIA biosynthesis.  Functional screens using viral-induced gene silencing and transient promoter activity assays showed that CrJAMs repress the MIA pathway; silencing both  CrJAM2 and  CrJAM3 increased expression of MIA pathway genes and MIA levels while their individual overexpression repressed promoter activity. To assess their activity broadly across MIA regulatory and biosynthetic genes, we generated  C. roseus hairy root cultures either constitutively overexpressing individual  CrJAMs or  CRISPR-Cas9 creating mutations in multiple  CrJAMs , and profiled their expression by RNA-Seq.  CrJAM2 overexpression decreased expression of most MIA biosynthetic genes relative to the  GUS control, while double mutant lines showed increased basal expression of these genes relative to non-targeting controls. Notably, methyl JA treatment perturbs this equilibrium, reversing these trends at 24 hrs in both  CrJAM overexpression and mutant lines relative to basal conditions.  In summary, CrJAMs broadly repress MIA regulatory and biosynthetic gene expression and together with CrJAZ and CrMYC2a regulates MIA biosynthesis. Summary sentence  We characterize two previously identified  Catharanthus roseus JAMs; CrJAM2 and CrJAM3 regulate overlapping and unique genes and broadly repress the expression of monoterpenoid indole alkaloid regulatory and biosynthetic genes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763677",
+    "date": "2026-11-03",
+    "authors": "Breselge S, Traverse KKF, Cole-Osborn LF, Sathitloetsakun S, Dürr K, Wang J, Childs KL, Cram EJ, Lee-Parsons CW.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357573",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3038,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763677"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ea5438aa7de96ef9a98ec09b1265555a6912174aa516f3055f6117b90f57a0a4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:23:13.542593+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "83e6102217e6007d074994cab7a3fc2c19d287860e6d3dc9cf1f9cbb817737e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:23:13.542593+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CrJAMsは、Catharanthus roseusにおけるモノテルペノイド・インドールアルカロイド経路の転写抑制因子である。",
+    "abstract_ja": "Catharanthus roseusは、防御ホルモンであるジャスモン酸（JA）に応答して、モノテルペノイドインドールアルカロイド（MIA）を産生する。シロイヌナズナにおいて、JAはMYC2およびJA関連MYC2a様転写因子（JAMs）を介して防御プロセスを調節する。本研究では、これまでに同定されたC. roseusの2つのJAMであるCrJAM2およびCrJAM3を、MIA生合成の調節因子として特性解析した。ウイルス誘導性遺伝子サイレンシングおよび一過性プロモーター活性アッセイを用いた機能スクリーニングにより、CrJAMsがMIA経路を抑制することが示された。CrJAM2およびCrJAM3の両方をサイレンシングすると、MIA経路遺伝子の発現およびMIAレベルが上昇した一方、それぞれの過剰発現はプロモーター活性を抑制した。MIA調節および生合成遺伝子全般にわたる活性を評価するため、個々のCrJAMを恒常的に過剰発現させたC. roseus毛根培養株、あるいは複数のCrJAMに変異を導入したCRISPR-Cas9導入株を作製し、RNA-Seqによりその発現プロファイルを解析した。CrJAM2の過剰発現は、GUS対照と比較してほとんどのMIA生合成遺伝子の発現を低下させた一方、二重変異株では、非標的対照と比較してこれらの遺伝子の基礎発現が増加した。特筆すべきは、メチルJA処理がこの平衡状態を乱し、基礎条件と比較して、CrJAM過剰発現株および変異株の双方において24時間後にこれらの傾向が逆転したことである。要約すると、CrJAMsはMIA調節および生合成遺伝子の発現を広範に抑制し、CrJAZおよびCrMYC2aと共にMIA生合成を調節する。要約文：我々は、これまでに同定されたCatharanthus roseusの2つのJAMであるCrJAM2およびCrJAM3を特性解析した。これらは重複する遺伝子および固有の遺伝子を調節し、モノテルペノイドインドールアルカロイドの調節および生合成遺伝子の発現を広範に抑制する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.31.763326",
+    "title": "Transcriptomic Analysis of Innate Immune Responses to  Toxoplasma gondii  in Bat Cells",
+    "abstract": "Bats exhibit remarkable tolerance to numerous viral infections, a phenotype associated with distinctive adaptations in innate immune and inflammatory pathways. Whether these adaptations also shape responses to nonviral intracellular pathogens remains poorly understood. Here, we investigated the interaction between the protozoan parasite  Toxoplasma gondii and epithelial cell lines derived from the black flying fox (Pteropus alecto). We found that both type I and type II strains of  T. gondii readily invaded and replicated in bat cells, demonstrating a high degree of cellular permissiveness to infection. Surprisingly, transcriptomic analysis revealed remarkably limited early host responses despite progressive intracellular parasite replication. A pronounced transcriptional response emerged only at later stages of infection, coinciding with extensive parasite replication and cellular damage, and was characterized by changes in genes associated with inflammatory signaling, metabolic adaptation, and tissue remodeling. Together, these findings reveal an unusual interaction between bat cells and an intracellular protozoan pathogen, characterized by efficient parasite replication and markedly delayed host transcriptional activation. Our results suggest that distinctive regulation of cellular responses to intracellular infection may extend beyond viral pathogens and represent a broader feature of bat immune biology.",
+    "journal": "",
+    "doi": "10.64898/2026.10.31.763326",
+    "date": "2026-11-03",
+    "authors": "Yarovinsky P, Kwok SF.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357419",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3040,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.31.763326"
+    ],
+    "translation": {
+      "title": {
+        "hash": "db3b3920b8a34a41deee76a5c0eb91cfd3f72b67ae6acb4dfd44fe20826aec48",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:23:13.542593+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "432aedae85a02b9eed4048d9feee93b97a28d128acf20b5b3b44a1861f8db6f8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:23:13.542593+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コウモリ細胞におけるトキソプラズマ・ゴンディイに対する自然免疫応答のトランスクリプトーム解析",
+    "abstract_ja": "コウモリは数多くのウイルス感染に対して顕著な耐性を示しており、この表現型は自然免疫および炎症経路における特有の適応に関連している。こうした適応が、非ウイルス性の細胞内病原体に対する応答にも影響を及ぼしているかどうかは、依然として十分に解明されていない。本研究では、原虫寄生虫であるトキソプラズマ・ゴンディイ（Toxoplasma gondii）と、クロオオコウモリ（Pteropus alecto）由来の上皮細胞株との相互作用について検討した。その結果、T. gondiiのI型およびII型株はいずれもコウモリ細胞に容易に侵入し増殖し、感染に対する高い細胞許容性を示すことが明らかとなった。驚くべきことに、トランスクリプトーム解析により、細胞内での寄生虫の漸進的な増殖にもかかわらず、宿主の初期応答が著しく限定的であることが明らかになった。顕著な転写応答は、広範な寄生虫の増殖および細胞損傷と一致する感染の後期段階においてのみ現れ、炎症シグナル伝達、代謝適応、および組織リモデリングに関連する遺伝子の変化を特徴としていた。これらの知見を総合すると、コウモリ細胞と細胞内原虫病原体との間に、効率的な寄生虫増殖と著しく遅延した宿主の転写活性化を特徴とする特異な相互作用が存在することが明らかになった。我々の結果は、細胞内感染に対する細胞応答の特異的な調節がウイルス病原体に留まらず、コウモリの免疫生物学におけるより広範な特徴である可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763258",
+    "title": "CTLA-4 checkpoint signalling modulates germinal centre dynamics and antibody avidity during  Borrelia burgdorferi  infection in mice",
+    "abstract": "Borrelia burgdorferi , the causative agent of Lyme borreliosis, persists in mammalian hosts despite robust activation of innate and adaptive immunity. A hallmark of murine infection is the production of low-avidity antibodies, yet the immunological mechanisms underlying this defective humoral response remain poorly understood.  Here, we used single-cell RNA sequencing of draining lymph node cells from Borrelia-infected mice at days 7 and 14 post-infection, comparing transcriptional profiles with those from mice immunised with heat-killed Borrelia or with a potent germinal centre-inducing protein immunisation. Borrelia infection induced a rapid germinal centre response, however, light zone B cells displayed diminished expression of co-stimulatory and T-B cell interaction molecules while maintaining core germinal centre identity markers, suggesting impaired positive selection. T follicular helper cells upregulated multiple inhibitory checkpoint receptor genes, most prominently Ctla4, alongside an active germinal centre engagement programme. Foxp3⁺ regulatory T cells upregulated genes associated with follicular-homing and suppressive function, including those implicated in CTLA-4-mediated trans-endocytosis. To test whether inhibitory signalling contributes to the impaired humoral response, infected mice were treated with anti-CTLA-4 blocking antibody. CTLA-4 blockade significantly increased plasma cell numbers and enhanced both the magnitude and avidity of  Borrelia - specific IgG responses, including the induction of complement-fixing IgG2a. These findings reveal that CTLA-4-dependent inhibitory signalling contributes to defective antibody quality during  Borrelia infection, identifying a mechanism by which dysregulated T cell responses may facilitate impaired humoral control of a persistent spirochaetal pathogen.  Authors summary  Borrelia burgdorferi , the bacteria that cause Lyme borreliosis, can persist in the body for long periods despite triggering a strong immune response. One puzzling feature of this infection is that the antibodies produced are often of poor quality and do not bind the bacteria effectively.  To investigate why, we examined individual immune cells in lymph nodes of  Borrelia -infected mice and compared them with cells from mice that received non-living  Borrelia or a vaccine- like immunisation known to generate strong antibody responses. Although  Borrelia infection rapidly triggered the formation of structures that normally help the immune system refine and improve antibodies, key communication signals between immune cells were reduced. At the same time, both helper and regulatory T cells showed increased activity of molecular pathways that act as brakes on immune responses. One such brake, controlled by a molecule called CTLA-4, appeared particularly important. When we blocked CTLA-4 during infection, mice produced more antibody-secreting cells and generated antibodies that had improved functional properties.  Our findings identify a mechanism that limits antibody quality during  Borrelia infection and help explain how the bacteria can evade effective immune control and persist in the host.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763258",
+    "date": "2026-11-03",
+    "authors": "Mäkinen V, Alinikula J, Fair-Mäkelä R, Sundqvist P, Salmi M, Mattila P, Pietikäinen A, Hytönen J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357414",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3041,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.763258"
+    ],
+    "translation": {
+      "title": {
+        "hash": "667195aee565ac3c9cc49e4526c6975d20835023b8d164fac37b59fdb28a3655",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:23:13.542593+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bd1b7373af74a8c3094589da3dcdfea1ea0eedb3769888dae0f50881021435a4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:23:13.542593+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CTLA-4チェックポイントシグナル伝達は、マウスにおけるBorrelia burgdorferi感染時の胚中心動態および抗体親和性を調節する。",
+    "abstract_ja": "ライムボレリア症の原因菌であるBorrelia burgdorferiは、自然免疫および獲得免疫が強力に活性化しているにもかかわらず、哺乳類宿主内で生存し続ける。マウス感染における顕著な特徴は低アビディティ抗体の産生であるが、この不全な液性応答の根底にある免疫学的メカニズムは十分に解明されていない。本研究では、Borrelia感染マウスの感染後7日目および14日目における排液リンパ節細胞のシングルセルRNAシーケンシングを行い、転写プロファイルを、熱死滅させたBorreliaまたは強力な胚中心誘導タンパク質による免疫を施したマウスのプロファイルと比較した。Borrelia感染は迅速な胚中心応答を誘導したが、軽帯B細胞は、コア胚中心のアイデンティティマーカーを維持しつつも、共刺激分子およびT-B細胞相互作用分子の発現が低下しており、これは陽性選択の障害を示唆していた。T濾胞ヘルパー細胞は、活発な胚中心関与プログラムとともに、Ctla4をはじめとする複数の抑制性チェックポイント受容体遺伝子を発現上昇させていた。Foxp3⁺制御性T細胞は、CTLA-4介在性トランスエンドサイトーシスに関与する遺伝子を含む、濾胞ホーミングおよび抑制機能に関連する遺伝子を発現上昇させていた。抑制性シグナル伝達が液性応答の障害に寄与しているかを検証するため、感染マウスに抗CTLA-4遮断抗体を投与した。CTLA-4遮断により形質細胞数が有意に増加し、補体固定型IgG2aの誘導を含むBorrelia特異的IgG応答の強度とアビディティの両方が向上した。これらの知見は、CTLA-4依存的な抑制性シグナル伝達がBorrelia感染時の抗体品質の不全に寄与していることを明らかにしており、調節不全となったT細胞応答が、持続的ならせん虫病原体に対する液性制御の障害を促進し得るメカニズムを特定したものである。著者らの要約：ライムボレリア症の原因となる細菌であるBorrelia burgdorferiは、強力な免疫応答を誘発するにもかかわらず、長期間にわたって体内に生存し続けることができる。この感染における不可解な特徴の一つは、産生される抗体の質が低いことが多く、細菌に効果的に結合しないことである。その理由を調査するため、我々はBorrelia感染マウスのリンパ節における個々の免疫細胞を調べ、非生菌のBorreliaまたは強力な抗体応答を誘導することが知られているワクチン様免疫を受けたマウスの細胞と比較した。Borrelia感染は、通常であれば免疫系が抗体を精製・改善するのを助ける構造の形成を迅速に誘発したが、免疫細胞間の主要な情報伝達シグナルは減少していた。同時に、ヘルパーT細胞と制御性T細胞の両方において、免疫応答のブレーキとして機能する分子経路の活性上昇が認められた。CTLA-4と呼ばれる分子によって制御されるそのようなブレーキの一つが、特に重要であると考えられた。感染中にCTLA-4を遮断したところ、マウスはより多くの抗体分泌細胞を産生し、機能的特性が向上した抗体を産生した。我々の知見は、Borrelia感染時の抗体品質を制限するメカニズムを特定し、細菌がいかにして効果的な免疫制御を回避し、宿主内で生存し続けるかを解明する一助となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.32388/ed4eyh.3",
+    "title": "Microbial Consortia from Chilean Salt Flats Drive Coupled Gypsum Dissolution and Mineralization in the Absence of Evaporation: Experimental Evidence",
+    "abstract": "Microbial consortia actively modulate mineralogical processes in polyextreme environments, yet biological mechanisms are often excluded from evaporite evolution models. Here, we investigated gypsum surface dissolution and secondary mineral nucleation driven by microbial mats and natural brines from three Andean salt flats (Salar de Llamara, Salar de Pajonales, and Salar de Gorbea) across 90-day incubation experiments. Synthesized gypsum crystals were exposed to inoculated media and sterile brines (abiotic controls) under controlled conditions, and analyzed using SEM-EDS and epifluorescence microscopy. Results demonstrate that microbial colonization dual-modulates gypsum dynamics: while apparent microbially-mediated boring formed rounded cavities, extracellular polymeric substance (EPS) matrices acted as diffusion barriers that buffered abiotic dissolution. Furthermore, EPS promoted localized supersaturation and authigenic mineral nucleation, yielding fibrous eugsterite and globular Mg-silicates across all sites, alongside site-specific phases such as dumbbell-shaped calcite, allotriomorphic halite (Pajonales), and lenticular alunite (Gorbea). Abiotic controls exhibited simpler parageneses and angular dissolution along cleavage planes without filling. Specific bio-induced textures, including EPS-infilled pores, dumbbell calcite, Mg-Si globules, and alveolar eugsterite, represent potential morphological biosignatures relevant to astrobiology. Our findings demonstrate that purely abiotic geochemical models are insufficient to describe brine evolution, underscoring the critical necessity of integrating geomicrobiological interactions into evaporite formation frameworks.",
+    "journal": "",
+    "doi": "10.32388/ed4eyh.3",
+    "date": "2026-11-03",
+    "authors": "Orellana I, Tebes C, Demergasso C, Cabestrero Ó.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357355",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3042,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.32388/ed4eyh.3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f642e7afdd0ed7b4f97aa7044d3d97fa6970e521535693dc8b864e6227848f12",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:23:13.542593+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fde55ca36f0ab01050721126b832e80f0bca98d70ea73a0340d9beb38c6bef01",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:23:13.542593+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "チリ塩湖の微生物群集が蒸発不在下で石膏の共溶出と鉱化を促進する：実験的証拠",
+    "abstract_ja": "微生物コンソーシアムは、多極限環境において鉱物学的プロセスを積極的に調節するが、生物学的メカニズムは蒸発岩の進化モデルから除外されることが多い。本研究では、アンデス山脈の3つの塩湖（リャマラ塩湖、パホナレス塩湖、ゴルベア塩湖）において、微生物マットと天然塩水によって駆動される石膏表面の溶解および二次鉱物核形成を、90日間のインキュベーション実験を通じて調査した。合成した石膏結晶を、制御条件下で接種培地および無菌塩水（非生物的対照）に曝露し、SEM-EDSおよびエピ蛍光顕微鏡を用いて解析した。その結果、微生物の定着が石膏の動態を二重に調節していることが示された。すなわち、見かけ上の微生物介在性穿孔によって円形の空洞が形成された一方で、細胞外高分子物質（EPS）マトリックスが拡散障壁として機能し、非生物的溶解を緩衝した。さらに、EPSは局所的な過飽和と自生的鉱物核形成を促進し、すべての地点で繊維状のユーグステライトと球状のMg-ケイ酸塩が得られたほか、ダンベル状方解石、同三晶系岩塩（パホナレス）、レンズ状 alunite（ゴルベア）といった地点固有の相も認められた。非生物的対照では、充填を伴わない、劈開面に沿った単純なパラジェネシスと角状溶解が認められた。EPS充填孔、ダンベル状方解石、Mg-Si球体、および胞隙状ユーグステライトを含む特定の生物誘起テクスチャーは、宇宙生物学に関連する潜在的な形態学的バイオシグネチャーである。本研究の知見は、純粋に非生物的な地球化学モデルでは塩水の進化を記述するには不十分であることを示しており、蒸発岩形成の枠組みに地球微生物学的相互作用を組み込むことが極めて重要であることを強調している。"
   }
 ]
