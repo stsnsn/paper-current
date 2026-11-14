@@ -219306,5 +219306,335 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "HPLC-PDA-MS分析用に考案した新規クロマトグラフィー法を用いたクロロフィルおよびカロテノイドの検出と、環境中および培養藻類・シアノバクテリアへの応用",
     "abstract_ja": "要旨    クロロフィルおよびカロテノイドの分析は、藻類バイオマスの定量、飼料およびサプリメントの分析、ならびに生態学的多様性の判定に用いられるため、水産養殖ならびに淡水・海洋研究において重要である。これらの分析に用いられる手法は、多くの場合、光度検出に限定されており、一部の手法ではクロマトグラフィー分離が組み込まれていた。質量分析による検出は、分光法と比較して感度、選択性、および構造情報の向上が可能であるが、従来のクロマトグラフィー分離では質量分析と相容れない溶媒添加剤が使用されていたため、分離系の全面的な再設計が必要となる。本研究で開発した分離法では、新規の移動相および溶出スキームを備えたYMC C30「カロテノイドカラム」を用いて、一連の藻類色素を分離した。検出は、フォトダイオードアレイ単独、あるいは質量分析（MS）と併用して行うことができる。我々は、カロテノイドであるエチネンオン（CAS 432-68-8）が実際には異性体ペアであり、これがシアノバクテリアの光合成およびオレンジ色のカロテノイドタンパク質複合体に重要な影響を及ぼす可能性があることを報告する。Caulerpa planktothricoides sp. BLCC-F182において、水酸化または脱水酸化誘導体となり得る新規のクロロフィル類似体が検出された。このシアノバクテリアは新規のクロロフィルを産生しており、特異的にエチネンオンおよび3-OHエチネンオンを含まなかった。解析した複数の株において産生される色素の種類には顕著な多様性が認められ、藻類およびシアノバクテリアが産生する色素には、さらなる発見の余地がある可能性が高いことが分析により示された。MSの導入はカロテノイドおよびクロロフィルの分析に大きな価値をもたらし、このような新規手法は、この分野を重要な発見と進展へと導く可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763690",
+    "title": "AlphaFold 3 Prediction Accuracy and Reliability across RNA Structures and Protein–RNA Interfaces",
+    "abstract": "AlphaFold 3 (AF3) models RNA and protein–RNA complexes, but when its predictions and confidence metrics can be trusted is unclear. We evaluated AF3 on more than 1,300 protein–RNA complexes and about 270 RNA-only systems, and compared post-cutoff RNAs with pre-cutoff candidates selected by sequence and fold similarity. On structurally novel RNAs, AF3 largely preserves the protein fold, while RNA-fold and interface accuracy drop sharply with little change in predicted RNA confidence score. Input ablations show that protein alignments and templates from RNA-bound proteins govern complex assembly, whereas RNA alignments matter most for single-chain and long RNAs. The most frequent failed interface retains protein-side contacts but places an often-misfolded RNA in the wrong pose. RNA interface confidence only partly distinguishes this error from correct placements. Against CLIP-seq, SELEX and RNAcompete motifs, AF3 usually places the protein against the experimentally observed motif-bearing RNA segment, even where the interface fails, but often not in the native pose. In protein–RNA complexes released in 2026, a score combining AF3 confidence with RNA familiarity and template use ranked RNA chains with accurate folds and correctly placed interfaces better than AF3’s ranking score. Graphical abstract",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763690",
+    "date": "2026-11-04",
+    "authors": "Tennie IK, Uhl M, Franke JK, Backofen R, Runge F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358719",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2947,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763690"
+    ],
+    "translation": {
+      "title": {
+        "hash": "63a48ed0921da23d17abd2078a8912dfdf524ef29e273208f5eebc00c9c4ea18",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:09:05.312868+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8c35cb7b1d4e27cfbf2f0c8949a0b75cb788681c2ba50e0448ebe6b25249c1f1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:09:05.312868+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNA構造およびタンパク質–RNA界面におけるAlphaFold 3の予測精度と信頼性",
+    "abstract_ja": "AlphaFold 3 (AF3) はRNAおよびタンパク質-RNA複合体をモデル化できるが、その予測および信頼度指標をどの程度信頼できるかは不明である。我々は1,300件以上のタンパク質-RNA複合体と約270件のRNA単独系を用いてAF3を評価し、カットオフ後のRNAを、配列およびフォールド類似性に基づいて選定したカットオフ前の候補と比較した。構造的に新規なRNAにおいて、AF3はタンパク質のフォールドを概ね保持する一方、RNAのフォールドおよびインターフェースの精度は、予測されたRNAの信頼度スコアにほとんど変化がないまま急激に低下した。入力アブレーションにより、タンパク質のアライメントおよびRNA結合タンパク質由来のテンプレートが複合体の構築を支配する一方で、シングルチェーンRNAや長鎖RNAではRNAのアライメントが最も重要であることが示された。最も頻繁に失敗したインターフェースは、タンパク質側の接触は維持しているものの、しばしばミスフォールドしたRNAを誤ったポーズに配置していた。RNAインターフェースの信頼度では、この誤りと正しい配置を部分的にしか区別できなかった。CLIP-seq、SELEX、およびRNAcompeteモチーフに対して、AF3はインターフェースが失敗した場合であっても、通常はタンパク質を実験的に観察されたモチーフ含有RNAセグメントに配置したが、ネイティブポーズにならないことが多かった。2026年に公開されたタンパク質-RNA複合体において、AF3の信頼度にRNAの馴染み度とテンプレート利用を組み合わせたスコアは、正確なフォールドと正しく配置されたインターフェースを持つRNA鎖を、AF3のランキングスコアよりも良好に順位付けした。グラフィカルアブストラクト"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763789",
+    "title": "Disentangling Context-Specific Alzheimer’s Disease Progression Signatures through an Explainable AI Framework",
+    "abstract": "Alzheimer’s disease (AD) progression involves stage-dependent transcriptional changes that are often masked by dominant cellular and biological variation. Here, we present  ADVISE (Alzheimer’s Disease Variational Isolation of Signal Embeddings) , an interpretable deep generative framework designed to disentangle Braak stage-associated transcriptional signals from background biological variation through separate latent representations. Using explainable AI, ADVISE prioritizes genes and pathways contributing to the disease-specific representation. Applying ADVISE to large-scale single-nucleus RNA sequencing data from the human prefrontal cortex, we identify shared and context-specific signatures of AD progression across global, sex-specific, and cell-type-specific analyses, revealing convergent molecular programs involving synaptic transmission, HSF1-associated proteostatic stress responses, and SLIT/ROBO axon guidance. Notably, ADVISE prioritizes  ROBO2 as a progression-associated candidate in excitatory neurons. Experimental validation using CRISPR activation in hiPSC-derived excitatory neurons demonstrates that  ROBO2 activation reduces the phosphorylated Tau-to-total Tau ratio. ADVISE thus reveals context-dependent molecular signatures of AD progression and bridges human single-cell discoveries with experimental validation of candidate regulators of AD pathology.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763789",
+    "date": "2026-11-04",
+    "authors": "Li AW, Qiu W, Arian C, Young JE, Lee S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358703",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2948,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763789"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8a0d8e818adce4a7910c9f3a37bf40ca00ef4128f1b035734d61f4ffe47a40ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:09:05.312868+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5df7270254c77009a46911d42ebed36a6ee11240c33fe6a2a004f4161af7b29f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:09:05.312868+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "説明可能なAIフレームワークによる、文脈特異的なアルツハイマー病進行シグネチャーの解明",
+    "abstract_ja": "アルツハイマー病（AD）の進行には、ステージ依存的な転写変化が伴うが、これらは多くの場合、支配的な細胞・生物学的変異によって覆い隠されている。本研究では、個別の潜在表現を用いることで、Braakステージに関連する転写シグナルを背景の生物学的変異から分離して解析するために設計された、解釈可能な深層生成フレームワークADVISE（Alzheimer’s Disease Variational Isolation of Signal Embeddings）を提案する。説明可能なAIを活用し、ADVISEは疾患特異的な表現に寄与する遺伝子およびパスウェイを優先的に抽出する。ヒト前頭前皮質の大規模なシングル核RNAシーケンシングデータにADVISEを適用した結果、グローバル解析、性特異的解析、および細胞種特異的解析のすべてにおいて、AD進行の共通およびコンテキスト特異的なシグネチャーを同定し、シナプス伝達、HSF1関連のタンパク質恒常性ストレス応答、およびSLIT/ROBO軸索誘導に関わる収束的な分子プログラムを明らかにした。特筆すべきは、ADVISEが興奮性ニューロンにおいてROBO2を進行関連候補として優先的に抽出した点である。hiPSC由来の興奮性ニューロンにおけるCRISPR活性化を用いた実験的検証により、ROBO2の活性化がリン酸化Tau対総Tau比を低下させることが示された。したがって、ADVISEはAD進行のコンテキスト依存的な分子シグネチャーを明らかにし、ヒト単一細胞レベルでの発見と、AD病理の候補調節因子の実験的検証とを結びつけるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.763866",
+    "title": "Uncovering cross-signal interactions in single-cell and spatial omics",
+    "abstract": "Individual cells simultaneously encode multiple biological signals in their gene expression profiles, including spatial position, circadian phase, and disease state. These signals can be entangled in complex ways, including circadian patterns that vary along disease progression and cell cycle dynamics that shift along developmental trajectories. While methods to disentangle such signals have been recently developed, characterizing the interaction itself between multicellular signals along with its effects on tissue function, localizing cellular subpopulations which exhibit signal interactions, and identifying potential candidate genes which drive such interactions, all remain major challenges. We present CRISP which characterizes signal interactions in single-cell gene expression data based on the correspondence between the multiple, probabilistic signal-specific projections of the data. Across simulations with tunable couplings and four single-cell and spatial transcriptomic datasets, CRISP recovers diverse biological signal interactions and localizes them to informative cellular subpopulations and groups of associated genes; CRISP distinguishes healthy from fibrotic liver samples and localizes the loss of zonation–position coupling to individual fibrotic hepatocytes, resolves the asymmetric coupling of TGF-  β response, EMT, and cell-cycle phase to specific cell subpopulations, and flags transcriptionally delayed hepatocytes in Plasmodium liver infection. Beyond quantifying and localizing signal interactions, CRISP can refine existing labels, uncover continuous cellular transitions and reveal condition-associated genes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.763866",
+    "date": "2026-11-04",
+    "authors": "Sasson J, Niasoff B, Karin J, Ezraty Y, Nitzan M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358697",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "data base",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2949,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.763866"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c10283327885bc04538f8f951770ad933f4c5f54cb046709329f61c0e53e3ee7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:09:05.312868+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c2ddeb3d27d66e39fc2d475849db0f5f0279b3f74234032df8e78caa61514d79",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:09:05.312868+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シングルセルおよび空間オミクスにおけるクロスシグナル相互作用の解明",
+    "abstract_ja": "個々の細胞は、その遺伝子発現プロファイルにおいて、空間的位置、概日位相、および疾患状態を含む複数の生物学的シグナルを同時に符号化している。これらのシグナルは、疾患の進行に伴って変化する概日パターンや、発生軌跡に沿ってシフトする細胞周期ダイナミクスなど、複雑な形で絡み合っていることがある。こうしたシグナルを解きほぐす手法は近年開発されてきたが、多細胞シグナル間の相互作用そのものとその組織機能への影響の特性評価、シグナル相互作用を示す細胞サブポピュレーションの局在化、およびこうした相互作用を駆動する潜在的な候補遺伝子の同定は、いずれも依然として大きな課題である。本研究では、データの複数の確率的なシグナル特異的投影間の対応関係に基づき、単一細胞遺伝子発現データにおけるシグナル相互作用を特性化するCRISPを提案する。調整可能なカップリングを用いたシミュレーションおよび4つの単一細胞・空間トランスクリプトームデータセットにおいて、CRISPは多様な生物学的シグナル相互作用を復元し、それらを情報価値の高い細胞サブポピュレーションおよび関連遺伝子群へと局在化させる。また、CRISPは健常な肝サンプルと線維化肝サンプルを判別し、ゾーニング・位置カップリングの喪失を個々の線維化肝細胞に局在化させ、TGF-β応答、EMT、および細胞周期位相の非対称なカップリングを特定の細胞サブポピュレーションに紐付け、さらにマラリア原虫の肝感染における転写遅延を起こした肝細胞を検出する。シグナル相互作用の定量化と局在化にとどまらず、CRISPは既存のラベルを精緻化し、連続的な細胞遷移を明らかにし、疾患関連遺伝子を同定することができる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763592",
+    "title": "Proteomic signatures of cold adaptation and sponge host adaptation in marine Archaea",
+    "abstract": "Temperature shapes the biochemistry of microbial proteins, and several amino acid compositional indices have been proposed to detect cold adaptation in microbial proteomes. Whether these indices capture cold adaptation in Archaea, which are abundant in cold marine environments such as the Arctic Ocean, has not been tested. We calculated six amino acid compositional indices (arginine to lysine ratio, acidic residue proportion, aliphatic index, aromaticity, grand average of hydropathicity, and proline residue proportion) across global protein families for 142 Marine Group I (MG-I; Thaumarchaeota) and 146 Euryarchaeota genomes from the Bacterial and Viral Bioinformatics Resource Center (BV-BRC), together with three MG-I metagenome-assembled genomes (MAGs) recovered from the Western Arctic Ocean. The Arctic MAGs fell within the range of index and phylogenetic distances of the wider MG-I population, and no signature of cold adaptation was detected. Instead, index values differed between the two main MG-I phylogenetic groups and between freshwater and marine genomes, and the Euryarchaeota formed five index-based clusters consistent with phylogeny. A group of 19 MG-I MAGs associated with sea sponges had significantly higher arginine to lysine ratios than other MG-I, differed in the usage of all amino acids except alanine and lysine, and had distinct codon usage and higher GC content; their anomalous placement in the MG-I phylogeny is consistent with long-branch attraction. These results indicate that amino acid compositional indices developed for Bacteria have limited power to detect cold adaptation in Archaea, but reveal strong proteomic signatures associated with host adaptation in sponge-associated Thaumarchaeota.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763592",
+    "date": "2026-11-03",
+    "authors": "Green K, Collins RE.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359008",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome",
+        "metagenome-assembled genome",
+        "microbial",
+        "viral"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 6,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.763592"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a06ed8483c6e5a9cbe630aa0af48f4b687db1669ee64a540f3e53f17b0e17c6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:09:05.312868+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "453317763b9b326823319ff530316c80f680c9ff28b3b5ddaff5d52c7bd94b46",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:09:05.312868+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋古細菌における低温適応と海綿宿主適応のプロテオームシグネチャー",
+    "abstract_ja": "温度は微生物タンパク質の生化学的特性を規定しており、微生物プロテオームにおける低温適応を検出するために、いくつかのアミノ酸組成指標が提案されてきた。北極海のような寒冷な海洋環境に豊富に存在する古細菌において、これらの指標が低温適応を捉えられるかは検証されていない。我々は、細菌・ウイルスバイオインフォマティクスリソースセンター（BV-BRC）の海洋グループI（MG-I; Thaumarchaeota）ゲノム142件およびユーリ古細菌（Euryarchaeota）ゲノム146件、ならびに西北極海から回収された3件のMG-Iメタゲノムアセンブルドゲノム（MAGs）を対象に、全球的なタンパク質ファミリーにわたる6つのアミノ酸組成指標（アルギニン対リシン比、酸性残基割合、脂肪族指数、芳香族性、ヒドロパシシティの総平均、およびプロリン残基割合）を算出した。北極海のMAGsは、より広範なMG-I集団の指標値および系統的距離の範囲内にあり、低温適応のシグネチャーは検出されなかった。むしろ、指標値は2つの主要なMG-I系統群間、および淡水ゲノムと海洋ゲノムの間で異なっており、ユーリ古細菌は系統樹と整合する指標ベースの5つのクラスターを形成した。海綿動物に関連する19件のMG-I MAGsのグループは、他のMG-Iよりもアルギニン対リシン比が有意に高く、アラニンとリシンを除くすべてのアミノ酸の使用法が異なり、コドン使用法が独特でGC含有量が高かった。これらがMG-Iの系統樹において異常な位置にあることは、長枝誘引（long-branch attraction）と整合する。これらの結果は、細菌向けに開発されたアミノ酸組成指標が古細菌の低温適応を検出する能力に限界があることを示す一方で、海綿動物に関連するThaumarchaeotaにおいて、宿主適応に関連する強力なプロテオームシグネチャーが存在することを明らかにしている。"
   }
 ]
