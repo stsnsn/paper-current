@@ -206359,5 +206359,328 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "制御機能内蔵型3DプリントPETG微細藻類カーテンウォールモジュールの設計、積層造形および試作検証",
     "abstract_ja": "要旨　建物一体型フォトバイオリアクターには、幾何学的適応性、製造性、液体封じ込め、モジュール性、および運用モニタリングを両立させるファサード構成要素が求められる。本研究では、パラメトリック設計、積層造形、組み込みセンシング、およびプロトタイプ運用を統合した、3DプリントPETG製微細藻類カーテンウォールモジュールを開発した。Rhino/Grasshopperで生成した9種類のバリエーション（150 × 150 mm）において、閉メッシュ面積は707.0–729.4 cm²、予測フィラメント需要は29.75–30.54 g（CV 0.87%）であった。記録されたプリント時間は100～125分の範囲であった（CV 7.87%）。連続単一壁のスパイラルベース構造戦略により、液体充填および循環のための透明なリアクタープロトタイプを実現した。STM32ベースのシステムにより、マルチソースセンシングとルールベースのポンプ駆動を実現した。プロトタイプ試験では、液体封じ込め、Spirulina (Arthrospira) 培養液を用いたポンプ駆動循環、および予備的なマルチモジュール組立が確認された。本成果は、積層造形によるバイオ反応性カーテンウォールモジュールのプロトタイプレベルにおける建築工学的な実現可能性を実証するとともに、将来的なファサードスケールでの性能検証に必要な要件を明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11042277/v1",
+    "title": "Endophytic colonization by Beauveria bassiana induces steroidal glycoalkaloids accumulation in tomato and suppresses Tuta absoluta performance",
+    "abstract": "Abstract    Beauveria bassiana  is widely used as an entomopathogen in sustainable pest management, and its endophytic colonization has been increasingly recognized as a potential means of priming plant defence against herbivores. Here we show that root drenching of tomato with  B. bassiana  substantially reduced the fitness of  Tuta absoluta  : larval development was prolonged by 2.1 days, fourth-instar larval weight dropped by 34%, pupal weight by 22%, and pupation rate, emergence rate and female fecundity all declined significantly. Foliar spray application produced weaker effects, affecting only pupal weight and emergence rate. No  B. bassiana  was re-isolated from insect bodies, ruling out direct infection and pointing to a plant-mediated mechanism. Transcriptomic profiling of  T. absoluta  larvae feeding on colonized plants revealed the upregulation of detoxification-related metabolic pathways, particularly cytochrome P450 genes. To test whether this response was triggered by steroidal glycoalkaloids (SGAs), we fed larvae on tomato mutants with reduced or elevated SGA content. Larvae feeding on SGA-knockout mutants showed no changes in detoxification enzyme activity or development relative to controls, whereas those feeding on SGA-overexpressing mutants exhibited strong developmental inhibition and a marked increase in cytochrome P450 activity. These results demonstrate that endophytic  B. bassiana  primes tomato defence against  T. absoluta  specifically through SGA induction. Our findings establish a mechanistic basis for integrating entomopathogenic fungi with plant innate immunity in pest management.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11042277/v1",
+    "date": "2026-11-09",
+    "authors": "He L, Chen H, Yan G, Wang Z, Liu W, Liu H, Wang Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362014",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3005,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.21203/rs.3.rs-11042277/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "327d98c802386abe1dc66f41b100f6b5d9da3735dc95c9f922e7131b53b65fc6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:52:52.992886+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "52158491b0538d6ffacf202c5bb9c88a6a4ca2bcd04c0ba626089323d71d88d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:52:52.992886+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Beauveria bassianaによる内生定着は、トマトにおけるステロイド系糖アルカロイドの蓄積を誘導し、Tuta absolutaの生育を抑制する。",
+    "abstract_ja": "要旨    Beauveria bassianaは、持続可能な病害虫管理における昆虫病原菌として広く利用されており、その内生定着は、草食動物に対する植物防御をプライミングする潜在的な手段としてますます認識されるようになっている。本研究では、トマトにB. bassianaを根面灌注することで、Tuta absolutaの適応度が著しく低下することを示した。具体的には、幼虫の発育期間が2.1日間延長し、4齢幼虫の体重が34%、蛹の体重が22%減少し、蛹化率、羽化率、および雌の産卵量がいずれも有意に低下した。葉面散布による効果はより弱く、蛹の体重と羽化率にのみ影響を及ぼした。昆虫の体からB. bassianaの再分離は認められず、直接的な感染の可能性は否定され、植物を介したメカニズムであることが示唆された。定着植物を摂食するT. absoluta幼虫のトランスクリプトームプロファイリングにより、解毒関連代謝経路、特にシトクロムP450遺伝子の発現上昇が明らかになった。この応答がステロイド系グリコアルカロイド（SGA）によって誘発されるかを検証するため、SGA含有量を低減または増加させたトマト変異体を幼虫に給餌した。SGAノックアウト変異体を摂食した幼虫では、対照群と比較して解毒酵素活性や発育に変化は認められなかったが、SGA過剰発現変異体を摂食した幼虫では、強い発育抑制とシトクロムP450活性の顕著な上昇が認められた。これらの結果は、内生のB. bassianaがSGA誘導を介して、特異的にT. absolutaに対するトマトの防御をプライミングすることを実証するものである。本研究の知見は、病害虫管理において昆虫病原性真菌を植物の自然免疫と統合するための機序的基盤を確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0791.v1",
+    "title": "Systems Integration of the SARS-CoV-2 ORF7b–c-Myc–PVT1–miR-145/214–HIF-2α–TFRC–CCL2 Axis in Long COVID Pathobiology and Epigenetic Reversal",
+    "abstract": "Post-Acute Sequelae of SARS-CoV-2 (PASC), clinically designated as Long COVID, affects over 400 million individuals globally, presenting as a multisystem disorder characterized by chronic microvascular endotheliitis, exertional exhaustion, pathological cardiac remodeling, and systemic autoimmunity [1–3]. While acute COVID-19 is primarily initiated by viral entry via ACE2, persistent post-viral sequelae are driven by sustained expression of viral accessory factors and host transcriptional hijacking [1,2,4]. Here, we establish a comprehensive systems-biology framework demonstrating that SARS-CoV-2 accessory protein Orf7b overexpression drives high-amplitude transactivation of master oncogene c-Myc, which hypertranscribes long non-coding RNA PVT1 [1,2]. The resultant multi-isoform surge of PVT1 linear, circPVT1, and ecDNA transcripts acts as a high-capacity competing endogenous RNA (ceRNA) network that sequesters protective host microRNA-145-5p (miR-145-5p) and miR-214 [1,2]. This dual microRNA depletion initiates a secondary derepression cascade involving hypoxia-inducible factor-2α (HIF-2α / EPAS1) and Transferrin Receptor 1 (TFRC / TfR1) [1,2,4,5]. Dense TFRC accumulation accelerates diferric transferrin endocytosis, expanding the intracellular labile iron pool, driving ROS-dependent transcription and secretion of chemokine CCL2, and provoking concentric cardiac hypertrophy, microvascular endotheliitis, ACE2-independent viral entry, and TLR7-regulated TFR1-driven B-cell autoimmunity [1–6]. Crucially, we demonstrate that this entire pathological network can be reversed upstream by host-directed p53/NRF2-based epigenetic shielding via miR-145-5p transactivation, 3'-UTR transcript cleavage, and mitochondrial cristae restoration [1,2,7].",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0791.v1",
+    "date": "2026-11-09",
+    "authors": "Lakshmanane B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361464",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3010,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.20944/preprints202611.0791.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b69613e247b602cf4fd21283de2754fe1e95563b802db475b22a7879cf30532d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:52:52.992886+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ba7c872df37f4f78dd47f15657ee2ab7b6623b3294e17631b8b7e4fc7382403f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:52:52.992886+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Long COVIDの病態生物学およびエピジェネティック逆転におけるSARS-CoV-2 ORF7b–c-Myc–PVT1–miR-145/214–HIF-2α–TFRC–CCL2軸のシステム統合",
+    "abstract_ja": "SARS-CoV-2の急性期後後遺症（PASC）は、臨床的にロングCOVIDと呼ばれ、世界中で4億人以上の人々に影響を及ぼしており、慢性微小血管内皮炎、労作時消耗、病理学的心リモデリング、および全身性自己免疫を特徴とする多系統疾患として現れる[1–3]。急性COVID-19は主にACE2を介したウイルス侵入によって開始されるが、持続的なウイルス後後遺症は、ウイルス補助因子の持続的な発現と宿主の転写ハイジャックによって引き起こされる[1,2,4]。本研究では、SARS-CoV-2補助タンパク質Orf7bの過剰発現が、マスターがん遺伝子c-Mycの高振幅トランス活性化を駆動し、これが長鎖非コードRNA PVT1を過剰転写することを示す包括的なシステム生物学的枠組みを構築する[1,2]。その結果として生じるPVT1リニア、circPVT1、およびecDNA転写物のマルチアイソフォーム急増は、保護的な宿主マイクロRNA-145-5p（miR-145-5p）およびmiR-214を隔離する高容量の競合性内因性RNA（ceRNA）ネットワークとして機能する[1,2]。この二重のマイクロRNA枯渇は、低酸素誘導因子-2α（HIF-2α / EPAS1）およびトランスフェリン受容体1（TFRC / TfR1）が関与する二次的な脱抑制カスケードを開始する[1,2,4,5]。高密度のTFRC蓄積は二価トランスフェリンのエンドサイトーシスを加速させ、細胞内遊離鉄プールを拡大し、ROS依存的な転写とケモカインCCL2の分泌を駆動し、同心性心肥大、微小血管内皮炎、ACE2非依存的なウイルス侵入、およびTLR7調節下のTFR1駆動性B細胞自己免疫を誘発する[1–6]。極めて重要な点として、我々は、この病理学的ネットワーク全体が、miR-145-5pのトランス活性化、3'-UTR転写物切断、およびミトコンドリアクリステの修復を介した、宿主指向性のp53/NRF2ベースのエピジェネティック・シールドングによって上流から逆転可能であることを示す[1,2,7]。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10841408/v1",
+    "title": "Carbon-Fixation Potential in Zhuqueibacterota from a Central Indian Ridge Hydrothermal Vent Extends beyond Zhuqueibacterales, Tracking Habitat Rather Than Lineage",
+    "abstract": "Abstract  Background Deep-sea hydrothermal vent fields are biological hotspots sustained by chemosynthetic primary production rather than photosynthesis. The Onnuri Vent Field (OVF), discovered in 2018 on the Central Indian Ridge, exhibits an unusual diffuse-flow regime and supports a distinct faunal community, yet its microbial contributors to primary production remain incompletely characterized. Zhuqueibacterota (formerly Ca. KSB1) is an uncultured bacterial phylum long considered strictly heterotrophic, although a recent study proposed that a single order within this phylum, Zhuqueibacterales, can perform carbon fixation via the Calvin-Benson-Bassham (CBB) cycle. Because CBB-competent Zhuqueibacterales had not previously been reported from deep-sea hydrothermal vents, whether Zhuqueibacterota inhabiting the OVF belong to this order, and whether their capacity for carbon fixation extends to this environment, remained unexamined. Results Comparative shotgun metagenomic analysis of sediment from the OVF and two co-located chimney-type vent fields, Edmond and Solitaire, revealed a prokaryotic community at the OVF marked by the near-absence of Epsilonproteobacteria, the typically dominant chemolithoautotrophic primary producers at hydrothermal vents. Metagenome-assembled genome analysis identified Zhuqueibacterota as a lineage with high relative abundance unique to the OVF, encoding the complete gene set for carbon fixation via non-canonical CBB cycle variants. Zhuqueibacterota-derived RuBisCO sequences accounted for 7.2% of total RbcL sequences at the OVF, the second-largest contribution after Gammaproteobacteria. This carbon-fixing genome belonged to Oceanimicrobiales rather than Zhuqueibacterales, the order previously reported as the sole lineage capable of the CBB cycle. Phylogenetic analysis showed that possession of Form I RuBisCO, and thus the potential for active CBB cycle operation, tracked with isolation habitat rather than taxonomic lineage across the phylum, a pattern corroborated by global mapping of Zhuqueibacterota-derived RbcL sequences against environmental metagenomes. Conclusions The identification of a carbon-fixing Zhuqueibacterota genome within Oceanimicrobiales, rather than the previously implicated Zhuqueibacterales, demonstrates that CBB cycle capacity within this phylum cannot be inferred from order-level taxonomy alone. Instead, the association between Form I RuBisCO possession and isolation habitat, corroborated by global metagenomic mapping, indicates that habitat exerts a stronger influence on carbon-fixation potential than phylogenetic lineage in Zhuqueibacterota. These findings identify Zhuqueibacterota as an unrecognized contributor to carbon fixation in deep-sea hydrothermal vent ecosystems.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10841408/v1",
+    "date": "2026-11-09",
+    "authors": "Park M, Kim YJ, Lee J, Yu J, Han G, Lee J, Kwon KK.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361836",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome",
+        "metagenomes",
+        "metagenomic",
+        "microbial",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4064,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-10841408/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8fe1e37690052a02826390a8e7232b59915230523e9a3b138bfcbfc290d3bd52",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:52:52.992886+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "72722e5f5dd6f64b887d0257bfe6bde90d7b498edf6eb68c440ec841aa6c7496",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:52:52.992886+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中央インド海嶺熱水噴出孔由来のZhuqueibacterotaにおける炭素固定能はZhuqueibacteralesに留まらず、系統よりも生息環境を反映している",
+    "abstract_ja": "要旨  背景 深海熱水噴出域は、光合成ではなく化学合成による一次生産によって維持される生物学的ホットスポットである。2018年に中央インド海嶺で発見されたオンヌリ噴出域（OVF）は、特異な拡散流体制を示し、独自の動物群集を有しているが、一次生産に寄与する微生物については未だ十分に解明されていない。Zhuqueibacterota（旧称 Ca. KSB1）は、長らく厳密な従属栄養生物と考えられてきた未培養の細菌門であるが、最近の研究では、この門内の単一の目であるZhuqueibacteralesが、カルビン・ベンソン・バッシャム（CBB）サイクルを介して炭素固定を行えることが提唱された。CBB能を持つZhuqueibacteralesは深海熱水噴出域からこれまで報告されていなかったため、OVFに生息するZhuqueibacterotaがこの目に属するのか、またその炭素固定能がこの環境まで及ぶのかは未検証のままであった。結果 OVFおよび同地点に位置する2つのチムニー型噴出域、エドモンド（Edmond）とソリティア（Solitaire）の堆積物を用いた比較ショットガンメタゲノム解析により、OVFにおいて、熱水噴出域で通常優占する化学合成独立栄養性の一次生産者であるEpsilonproteobacteriaがほぼ欠如していることを特徴とする原核生物群集が明らかになった。メタゲノムアセンブルゲノム解析により、ZhuqueibacterotaはOVFに固有の高い相対存在量を持つ系統として同定され、非正準なCBBサイクル変異体による炭素固定の完全な遺伝子セットをコードしていることが示された。Zhuqueibacterota由来のRuBisCO配列は、OVFにおける全RbcL配列の7.2%を占め、Gammaproteobacteriaに次いで2番目に大きな寄与を示した。この炭素固定ゲノムは、CBBサイクル能を持つ唯一の系統としてこれまで報告されていた目であるZhuqueibacteralesではなく、Oceanimicrobialesに属していた。系統解析の結果、Form I RuBisCOの保有、ひいては能動的なCBBサイクル作動の可能性は、分類学的系統ではなく門全体の隔離生息環境と相関しており、このパターンはZhuqueibacterota由来のRbcL配列を環境メタゲノムと照合した全球マッピングによって裏付けられた。結論 これまで関与が示唆されていたZhuqueibacteralesではなく、Oceanimicrobiales内に炭素固定能を持つZhuqueibacterotaゲノムが同定されたことは、本門におけるCBBサイクル能が目レベルの分類学のみから推論できるものではないことを示している。むしろ、全球メタゲノムマッピングによって裏付けられたForm I RuBisCOの保有と隔離生息環境との関連は、Zhuqueibacterotaにおいて生息環境が系統的系統よりも炭素固定能に強い影響を及ぼすことを示している。これらの知見は、Zhuqueibacterotaが深海熱水噴出域生態系における炭素固定の未認識の寄与因子であることを明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764740",
+    "title": "Homology-aware average nucleotide identity estimation at scale with TurboANI",
+    "abstract": "Here we introduce TurboANI, a fast homology-aware average nucleotide identity (ANI) estimation algorithm that implements the seed-chain-quasi-alignment scheme using SIMD seeding, compact indexing, lightweight chaining, and cache-friendly bitset sliding minwise hashing, achieving up to ~40,000-fold speedup over the alignment-based ANI algorithm with near-perfect agreement. TurboANI is also >40-fold faster than the state-of-the-art FastANI and ten-fold faster than skani while maintaining better accuracy. In the sensitive mode, it has a ten-fold higher true-ANI recovery rate than skani.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764740",
+    "date": "2026-11-09",
+    "authors": "Zhao J, McDonald D, Patel L, Wang C, Gonzalez A, Knight R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362580",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_genome_method",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "alignment",
+        "average nucleotide identity",
+        "nucleotide"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "average nucleotide identity",
+          "algorithm",
+          "alignment",
+          "nucleotide"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4066,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.05.764740"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c7356304b77d10024b2f4a91a98f3bea1fda6aea813df2c879611d8c15c6a5df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:52:52.992886+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d82f1e56951328b1a06e302fa08ef58b553bf518fbd312069eb62b09625ee5bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:52:52.992886+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TurboANIを用いたホモロジーを考慮した大規模平均ヌクレオチド同一性推定",
+    "abstract_ja": "本稿では、SIMDシーディング、コンパクトインデックス作成、軽量チェイニング、およびキャッシュ効率に優れたビットセットスライディング・ミンワイズハッシングを用いてシードチェーン準アライメント方式を実装した、高速なホモロジー認識型平均ヌクレオチド同一性（ANI）推定アルゴリズム「TurboANI」を提案する。本アルゴリズムは、アライメントベースのANIアルゴリズムと比較して最大約40,000倍の高速化を実現し、ほぼ完全な一致を達成している。また、TurboANIは最先端のFastANIを40倍以上、skaniを10倍上回りつつ、より高い精度を維持している。センシティブモードにおいては、skaniよりも10倍高い真のANI復元率を示す。"
   }
 ]
