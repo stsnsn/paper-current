@@ -457,6 +457,13 @@
     ]
   },
   {
+    "name": "Annals of medicine and surgery (2012)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Annals of neurosciences",
     "scope": [
       "genomics",
@@ -1562,6 +1569,13 @@
   },
   {
     "name": "Cell Reports Methods",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Cells",
     "scope": [
       "genomics",
       "microbiology"
@@ -3004,6 +3018,7 @@
   {
     "name": "Foods (Basel, Switzerland)",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -3715,6 +3730,7 @@
   {
     "name": "International journal of molecular sciences",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]

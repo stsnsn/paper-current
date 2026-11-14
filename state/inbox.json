@@ -380591,5 +380591,483 @@
     "related_dois": [
       "10.3390/ijms27219606"
     ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag839",
+    "title": "BioLM-Score: Language-Prior Conditioned Probabilistic Geometric Potentials for Protein-Ligand Scoring",
+    "abstract": "AbstractMotivationProtein-ligand scoring must address affinity prediction, pose selection, and virtual screening, but these objectives are not necessarily optimized together. Geometric likelihood models may generalize poorly when training-set structural coverage is limited. We test whether pretrained biomolecular representations improve scoring under a controlled geometric baseline.ResultsBioLM-Score integrates frozen protein and molecular language-model embeddings into a residue-atom distance-likelihood framework via gated graph convolutions. We evaluate geometry-only, jointly trained, and two-stage fine-tuned variants, using the jointly trained variant for the primary controlled comparisons. All three DEKOIS 2.0 screening endpoints improve over the matched geometric baseline with target-level paired support, but affinity scoring and ranking do not improve uniformly. Under a time-split protocol, scoring is significantly lower and ranking is also lower than the geometric baseline, while screening gains persist. On BDB2020+, the difference in affinity correlation between BioLM-Score and GenScore narrows after LP-PDBBind-compatible retraining. Shuffling protein embeddings at inference reduces the screening advantage. However, retrained shuffle controls recover much of the performance, so correct alignment is not established as necessary. BioLM-Score strengthens geometric scoring on screening tasks without retraining the language models.Availability and implementationCode, dataset-split identifiers, preprocessing and evaluation scripts, and language-model embedding-generation utilities are available at https://github.com/SZU-ADDG/BioLM-Score. An archival code snapshot and pretrained model weights are available at doi:10.5281/zenodo.21878818.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag839",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag839/9055668?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4469,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/bioinformatics/btag839"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag816",
+    "title": "Leveraging amino acid embeddings for accurate translation efficiency prediction",
+    "abstract": "AbstractMotivationAccurate prediction of translation efficiency from mRNA sequences is an important step toward mRNA sequence design. In recent years, the widespread adoption of high-resolution ribosome profiling techniques, such as Ribo-seq, has led to rapid accumulation of large-scale datasets that capture the relationship between mRNA sequences and translation efficiency. This progress has facilitated the development of machine-learning–based models for translation efficiency prediction. However, most existing approaches rely primarily on mRNA-derived features, such as codon usage frequency and 5’ untranslated regions (5’UTRs), and do not directly utilize the amino-acid-level information.ResultsIn this study, we show that incorporating distributed representations (embeddings) of amino acid sequences translated from mRNA as model features can improve translation efficiency prediction. By combining fixed amino acid embeddings derived from a pretrained protein language model with mRNA-derived features, the proposed model integrates complementary protein-level and nucleotide-level information for more accurate prediction of translation efficiency.Availability and implementationCodes are available at GitHub (https://github.com/gterai/AA_emb) and Zenodo (https://doi.org/10.5281/zenodo.23968476).",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag816",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag816/9044471?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "amino acid",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "amino acid",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4470,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/bioinformatics/btag816"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag821",
+    "title": "Analyzing epigenetic modifications at sample-specific CpG loci in long-read data using a likelihood-based framework in bsseq",
+    "abstract": "AbstractSummaryDNA in CpG context is often epigenetically modified in vertebrate genomes which increases their mutation rate. However, it remains challenging to identify sample-specific CpG loci for analysis of epigenetic modifications. Here, we present a read-based likelihood framework for identifying reference and non-reference CpG loci with high precision and sensitivity in single-molecule long-read sequencing data from Nanopore and PacBio platforms. Including all sample-specific CpG loci increases the number of analyzable loci and reduces bias in modification level estimates, both critical factors for accurate analyses of epigenetic modifications.Availability and ImplementationThe likelihood framework is implemented in the R package bsseq with the source code available on github https://github.com/hansenlab/bsseq. Installation instructions and a user guide for long-read analysis and likelihood-based filtering of CpG loci are available on Bioconductor https://www.bioconductor.org/packages/release/bioc/html/bsseq.html.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag821",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag821/9044470?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4471,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/bioinformatics/btag821"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag835",
+    "title": "Integer quantized multilayer perceptron neural network for lossless compression of nanopore signal",
+    "abstract": "AbstractMotivationNanopore sequencing is indispensable for advanced genomic analyses, but the raw signal output creates substantial storage and bandwidth demands. Specialized model-free compressors such as VBZ and ex-zd have been proposed to address this challenge. They deliver high throughput and strong compression performance, yet they cannot fully exploit higher-order statistical dependencies, which limits further gains. Learning-based compressors can achieve better compression ratios, but they often introduce floating-point non-determinism and are too slow for large-scale nanopore datasets, reducing their practicality.ResultsWe introduce SigComp, a learned lossless compressor for nanopore signal data. SigComp employs a compact multilayer perceptron network with a fixed context window to capture higher-order dependencies within the dominant one-byte signal deltas. By integrating post-training quantization and a fully GPU-native range coder, SigComp eliminates GPU–CPU synchronization overhead in the autoregressive coding loop while ensuring strict bit-exactness across diverse execution settings. Evaluations on diverse species and sequencing chemistries (DNA R10.4.1 and RNA004) demonstrate that SigComp consistently reduces compressed file sizes by 6.00%–7.09% and 3.86%–5.34% over VBZ and ex-zd, respectively, albeit with a 10× lower processing throughput. Compared to the leading neural compressor, SigComp achieves a comparable compression ratio, sacrificing merely 0.4%–1.9%, while delivering 46–74× higher throughput. Ablation studies confirm that SigComp’s integer-only, GPU-native approach improves throughput by 7.75–8.30× overall over hybrid GPU–CPU pipelines without model quantization, and the default 64-symbol context window effectively captures the vast majority of exploitable redundancy. SigComp can also be extended to lossy compression by eliminating the least significant bits, and achieve compression ratios of 4.047–4.868, outperforming lossy ex-zd by 9.18%–14.38%. Although processing remains slower than specialized codecs, SigComp offers an excellent trade-off for long-term cold archival storage, particularly when scaled via multi-GPU environments.Availability and implementationSigComp is freely available on GitHub at: https://github.com/BioinfoSZU/SigComp. It supports CPU-only, NVIDIA, and AMD GPU execution backends with seamless cross-platform archive interoperability, as well as multi-GPU scaling.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag835",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag835/9044239?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4472,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/bioinformatics/btag835"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag834",
+    "title": "A systematic review of EC number prediction algorithms based on reaction chemical structures",
+    "abstract": "AbstractMotivationEnzymes catalyse most of the metabolic reactions in living organisms. The functional characterization of enzymes is critical to understand the metabolic processes involved in different fields such as biotechnology, nutrition, ecology, and drug development. The Enzyme Commission (EC) numbers provide a hierarchical framework for classifying enzymatic reactions, linking gene and protein sequences to biochemical transformations. However, the incomplete annotation of biochemical reaction databases limits the accurate representation of metabolism of living organisms.ResultsTo address this gap, several computational methods have been developed to predict EC numbers from reaction chemical structures, broadly classified into reaction similarity-based and machine/deep learning approaches. We systematically review these tools, comparing their performance predicting EC numbers from different databases, and assessing their robustness across enzyme classes. We also apply these methods to predict EC numbers from drug metabolism reactions, highlighting their potential to improve functional annotation of uncharacterized metabolic pathways.Availability and ImplementationAll the necessary data and code to reproduce the results of this manuscript are available within https://github.com/PlanesLab/ECNumberPrediction GitHub repository and in Zenodo https://doi.org/10.5281/zenodo.22957403.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag834",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag834/9044223?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4473,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/bioinformatics/btag834"
+    ]
+  },
+  {
+    "id": "10.1186/s40793-026-00982-9",
+    "title": "Aridity drives divergent microbial survival strategies in the hyperarid Kumtagh Desert",
+    "abstract": "Extreme aridity imposes severe constraints on microbial life, yet the mechanisms that sustain microbial communities at the dry limit of terrestrial ecosystems remain poorly understood. Here, we investigated bacterial, fungal, and archaeal communities across the hyperarid Kumtagh Desert using amplicon sequencing, community assembly analyses, persistence profiling, and bacterial metagenomics. Community composition in all three domains was significantly associated with aridity, primarily through its effects on soil physicochemical properties. Community assembly responses differed among domains. Archaeal communities exhibited the strongest deterministic assembly, whereas fungal communities were largely governed by stochastic processes and shifted toward dispersal limitation at less arid sites. Bacterial communities showed intermediate assembly dynamics and maintained a persistent resident core. Persistence analyses further revealed three distinct ecological strategies: resident stability in bacteria, dormancy-like persistence in archaea, and opportunistic turnover in fungi. Metagenomic analyses demonstrated that bacterial persistence was associated with functional traits linked to nitrogen conservation and carbohydrate utilization, including enrichment of dissimilatory nitrate reduction and carbohydrate-active enzymes. Together, these findings show that hyperaridity reconfigures rather than simply reduces microbial communities, driving divergent domain-specific survival strategies. Our results provide a framework linking environmental filtering, community assembly, persistence, and functional adaptation in extreme desert ecosystems.",
+    "journal": "Environmental Microbiome",
+    "doi": "10.1186/s40793-026-00982-9",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40793-026-00982-9",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40793",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4474,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40793"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1186/s40793-026-00982-9"
+    ]
+  },
+  {
+    "id": "10.1186/s40793-026-00985-6",
+    "title": "Temporal and spatial patterns of multi-taxon microbial communities in the Chishui River: diversity, stability, and environmental drivers",
+    "abstract": "The Chishui River maintains natural hydrological connectivity, offering an ideal system to investigate freshwater biogeography and community assembly. Multi-taxon microbial communities comprising bacteria, fungi, single-celled eukaryotic algae (algae), and protozoa drive essential biogeochemical processes in aquatic ecosystems, yet their spatiotemporal dynamics and assembly mechanisms remain poorly understood. In this study, we analyzed metagenomic samples collected across four seasons from the Chishui River, with 25 sampling sites per season, to identify the ecological drivers shaping these diverse trophic groups. Our results reveal divergent environmental adaptability across microbial groups and asynchronous responses to environmental perturbations within these groups. Bacterial diversity peaked in summer, likely driven by elevated temperatures. In contrast, fungal and algal diversity declined during summer, whereas protozoan richness was highest in spring and lowest in autumn. These seasonal patterns may be partly attributable to hydrodynamic disturbances and turbidity-induced photoinhibition, while the spring maxima likely reflected environmental conditions favorable for early-stage ecological succession. Co-occurrence network analysis indicated that microbial interactions were most complex and stable in spring. This suggests that intermediate disturbance and warming temperatures in spring facilitate niche sharing and cross-trophic associations, whereas summer floods simplify network structures. Community assembly was shaped by both stochastic and deterministic processes, but with distinct taxonomic biases: stochastic processes, driven by high dispersal, dominated bacterial assembly, while deterministic environmental filtering exerted a stronger influence on protozoan communities, which are characterized by low dispersal. Furthermore, water temperature, dissolved oxygen saturation and total nitrogen were identified as the primary environmental drivers influencing shifts in microbial diversity, community stability, and network complexity. These findings highlight the asynchrony of microbial responses to environmental change, suggesting that riverine ecosystem stability relies on the differential buffering capacities of multi-trophic groups against seasonal hydrological fluctuations.",
+    "journal": "Environmental Microbiome",
+    "doi": "10.1186/s40793-026-00985-6",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40793-026-00985-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "freshwater",
+          "river"
+        ],
+        "genomics": [
+          "assembly",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40793",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4475,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40793"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1186/s40793-026-00985-6"
+    ]
+  },
+  {
+    "id": "10.1186/s42523-026-00656-4",
+    "title": "Association between maternal fecal microbiota composition and milk IgA concentration in lactating sows",
+    "abstract": "Background\n                     In mammals, breastfeeding is essential for transferring vital nutrients and immunological factors from the lactating mother. Antibodies, particularly IgA, found in milk, play a pivotal role in the development of intestinal barriers that protect offspring from infections. Experimental studies in mice have shown that the intestinal microbiota can induce Peyer’s patch-dependent secretion of maternal IgA into milk. Therefore, identifying the factors involved in milk IgA production is crucial for developing therapeutic approaches to strengthen mammary gland immunity. However, the concentrations of these antibodies in milk samples collected from multiple farms across different regions, as well as their correlation with fecal microbial communities, remain poorly understood, particularly in lactating pigs.\n                  \n                     Results\n                     We conducted a large-scale cross-sectional field investigation using paired milk and fecal samples collected from 409 lactating pigs across 19 farms in Japan. Milk samples were subjected to enzyme-linked immunosorbent assays (ELISA) to measure IgA concentrations, whereas fecal samples were analyzed by 16S rRNA amplicon sequencing to characterize the fecal microbiota of the animals. We found that farm explained more variation in fecal microbial community composition than milk-IgA group in both single-factor (27.20% vs. 1.99%) and marginal multivariable PERMANOVA (24.71% vs. 0.73%; milk-IgA group, p = 0.029). Importantly, these findings were examined using two complementary microbiota-based analytical approaches: (1) comparative microbiota analysis according to milk IgA concentration and (2) bacterial community structure (enterotype)-based classification followed by analysis of milk IgA concentration. However, 33 of 35 animals assigned to Enterotype 3 originated from a single farm.\n                  \n                     Conclusion\n                     These results suggest that maternal fecal microbiota composition is associated with milk IgA concentration in lactating pigs, although its contribution was small relative to farm-associated variation and the cross-sectional design precludes causal inference.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00656-4",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00656-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4476,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1186/s42523-026-00656-4"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.13.766501",
+    "title": "A genome-guided multilocus sequence analysis scheme to detect and resolve diversity within the X-disease phytoplasma group (16SrIII)",
+    "abstract": "Phytoplasmas of the X-disease group (16SrIII) cause economically important diseases of vegetables, forage and staple crops, fruit trees and ornamentals in South America, where they are diagnosed and classified only by 16S rRNA gene RFLP. Because this gene is highly conserved, strains that differ in host range, vectors and regulatory relevance cannot be distinguished. We developed a multilocus sequence analysis (MLSA) scheme for typing 16SrIII phytoplasmas, using genome data to select the markers and to define reference lineages. Five single-copy loci (tuf, secA, secY, mutM, cimH) were chosen from 16 curated genomes; primers matched all genomes in silico, and four of the five pairs did not amplify phytoplasmas of other groups co-occurring in the region (16SrI, 16SrVII, 16SrXIII). Genome comparisons resolved four lineages, including one restricted to South America that shared only 90.8-93.9% average nucleotide identity with the other lineages, despite > 98.8% 16S rRNA identity. The concatenated MLSA (2,870 nt) reproduced the genome-based lineages and assigned five Argentinian field isolates from weeds, fodder beet, cassava, plum and a native shrub. Identical 16SrIII-B RFLP patterns occurred in different lineages, and one 16SrIII-B isolate grouped within the 16SrIII-J clade, showing that subgroups are not reliable proxies for lineages. The South American lineage had the broadest host range, spanning six plant families. We also detected chimeric rRNA copies and sequencing artefacts that can cause misclassification. This MLSA provides a PCR-based tool to identify 16SrIII lineages in crops, weeds and insects, supporting epidemiological studies, disease management and phytosanitary decisions.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766501",
+    "date": "2026-11-14",
+    "authors": "Fernandez, F. D., Bongiorno, V., Conci, L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766501v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4477,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.64898/2026.11.13.766501"
+    ]
   }
 ]
