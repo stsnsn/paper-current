@@ -209443,5 +209443,327 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "宿主によるヒトアネロウイルスの持続性の制御と調節",
     "abstract_ja": "要旨  アネロウイルスは、ヒトに感染することが知られている真核ウイルスの中で最も豊富かつ多様なウイルスであり、生涯を通じて持続し得る。その遍在性にもかかわらず、生理的な分布と存在量を規定する宿主因子については依然として十分に解明されていない。本研究では、3つの遺伝子バイオバンクにわたる110万人以上の被験者を対象に、2,023株のウイルスパンゲノムを構築し、アネロウイルスDNAを定量した。ゲノムワイド関連解析により、主にNF-κBシグナル伝達による免疫調節を介して、ウイルスの持続性に関連する121箇所の遺伝子座が同定された。さらに、アネロウイルスの検出率の変動を、リンパ系悪性腫瘍を含む免疫機能不全を特徴とする病態と関連付けた。ヒトシングルセルシーケンシングデータ3.2ペタベースをスクリーニングした結果、骨髄における骨髄系前駆細胞が、生体内におけるアネロウイルス転写の主要な部位であることを同定した。最後に、アネロウイルスタンパク質のPerturb-seqにより、アネロウイルスORF2（特にAlphatorquevirus由来）がTNF-α誘導性NF-κBシグナル伝達を減弱させることが明らかとなり、宿主の遺伝的変異、細胞コンテキスト、およびウイルスの免疫調節を結びつけることで、真核ヒトビロームにおいて最も豊富に存在する構成要素の持続性を解明した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0804.v1",
+    "title": "Genome-Wide Identification of the CpG2-like Gene Family in Zucchini (Cucurbita pepo) and the Functional Characterization of CpG2-like74 in Fruit Peel Pigmentation",
+    "abstract": "Zucchini (Cucurbita pepo L.; 2n = 2x = 40) is an economically important vegetable crop worldwide. G2-like transcription factors, members of the plant-specific GARP superfamily, play important roles in chloroplast development and photosynthetic regulation. However, the G2-like gene family and its functions in zucchini remain insufficiently characterized. In this study, 98 CpG2-like genes were identified and classified into nine subfamilies based on phylogenetic analysis. Nine members clustered with AtGLK1, AtGLK2, and AtAPRR2, which are associated with chloroplast biogenesis and chlorophyll accumulation. Comparative qRT-PCR analysis of different tissues from two zucchini lines with white and dark green fruit peels identified CpG2-like74 as a candidate gene potentially associated with fruit peel coloration. Heterologous overexpression of CpG2-like74 in the Arabidopsis thaliana glk1 glk2 double mutant resulted in greener tissues, improved chloroplast ultrastructure, and increased chlorophyll and carotenoid contents. Subcellular localization analysis showed that CpG2-like74 localized to the nucleus. Yeast one-hybrid and dual-luciferase assays further indicated that CpG2-like74 bound to the promoters of CpCAB7 and CpCAB8 and activated their transcription. In addition, dual-luciferase assays supported its ability to activate the promoters of CpCAB7 and CpCAB8, which encode light-harvesting complex proteins. Collectively, these findings suggest that CpG2-like74 contributes to the regulation of chloroplast development and pigment accumulation and may be involved in fruit peel coloration in zucchini. This study provides a foundation for further investigation of the molecular mechanisms underlying fruit peel color variation and for the potential application of CpG2-like74 in zucchini breeding.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0804.v1",
+    "date": "2026-11-09",
+    "authors": "Wang G, Zhang K, Yang Q, Wang Y, Wang C, Qu S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362788",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 436,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.20944/preprints202611.0804.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "49474675ee85ef32d8b010af36d8c5098fa1fea8edf13e47ea8f390260675c8a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:16:10.420895+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b9279b9ae762436db9ae96000006ad904c6fcd8c38c8a71b0b3069a98a64c381",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:16:10.420895+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ズッキーニ（Cucurbita pepo）におけるCpG2様遺伝子ファミリーのゲノムワイドな同定と果実皮の色素沈着におけるCpG2様74の機能特性解析",
+    "abstract_ja": "ズッキーニ（Cucurbita pepo L.; 2n = 2x = 40）は、世界的に経済的に重要な野菜作物である。植物特異的なGARPスーパーファミリーに属するG2様転写因子は、葉緑体の形成および光合成調節において重要な役割を果たす。しかし、ズッキーニにおけるG2様遺伝子ファミリーとその機能については、いまだ十分に解明されていない。本研究では、98個のCpG2様遺伝子を同定し、系統解析に基づき9つのサブファミリーに分類した。そのうち9つの遺伝子は、葉緑体生合成およびクロロフィル蓄積に関連するAtGLK1、AtGLK2、およびAtAPRR2とクラスターを形成した。白色および濃緑色の果皮を持つ2系統のズッキーニの異なる組織を用いた比較qRT-PCR解析により、CpG2様74が果皮の着色に関与する可能性のある候補遺伝子として同定された。シロイヌナズナのglk1 glk2二重変異体においてCpG2様74を異種過剰発現させたところ、組織の緑色化、葉緑体超微細構造の改善、およびクロロフィルとカロテノイド含有量の増加が認められた。細胞内局在解析の結果、CpG2様74は核に局在することが示された。酵母のワンハイブリッドおよびデュアルルシフェラーゼアッセイにより、CpG2様74がCpCAB7およびCpCAB8のプロモーターに結合し、それらの転写を活性化することがさらに示された。加えて、デュアルルシフェラーゼアッセイにより、光捕集複合体タンパク質をコードするCpCAB7およびCpCAB8のプロモーターを活性化する能力が確認された。以上の知見を総合すると、CpG2様74は葉緑体の形成および色素蓄積の調節に寄与しており、ズッキーニの果皮着色に関与している可能性が示唆される。本研究は、果皮の着色変異の根底にある分子機構のさらなる解明、およびズッキーニの育種におけるCpG2様74の潜在的な応用に向けた基盤となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.07.764780",
+    "title": "Symbiotic and commensal root microbes are key determinants of plant responses to rising CO₂",
+    "abstract": "Rising atmospheric CO₂ stimulates plant growth, but this effect is often constrained by nutrient availability. While beneficial soil-derived microbial symbionts such as nitrogen-fixing rhizobia and mycorrhizal fungi are known to mitigate this limitation, the role of plant commensal microbiota remains unclear. Here, using a gnotobiotic growth system and the model legume Lotus japonicus, we show that the magnitude of plant responses to elevated CO₂ is largely explained by the composition of its root-associated microbial community. Axenic plants exhibited limited physiological responses to increasing CO₂ but inoculation with symbiotic and commensal microbes significantly amplified this effect. Commensal bacteria alone, while not increasing overall biomass, shifted plant carbon allocation belowground. Microbial abundances in roots increased with atmospheric CO₂, even when normalized to plant DNA. The strongest plant and microbial responses were observed when rhizobia, arbuscular mycorrhizal fungi, and the commensal bacterial community were all present. These findings indicate that multi-partner microbial associations will shape both plant growth and the allocation of carbon belowground as atmospheric CO₂ concentrations continue to rise.",
+    "journal": "",
+    "doi": "10.64898/2026.11.07.764780",
+    "date": "2026-11-09",
+    "authors": "Cotta MS, Kajdewicz P, Anastasopoulos L, Duran-Ballesteros C, Huang J, Kübler K, Göbel M, Trumbore S, Schulze-Lefert P, Garrido-Oter R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362360",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungi",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 444,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.07.764780"
+    ],
+    "translation": {
+      "title": {
+        "hash": "627ba578bfaefa436d43a1caf585b637c99d2e41004996f2a8367e47b5f25c4d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:16:10.420895+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "db75bb9e60072ca9244cfe91ef039371969be1d17e4d9966b1e6132dc0239aff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:16:10.420895+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "共生・片利共生の根微生物は、CO₂濃度上昇に対する植物の応答を決定づける鍵となる因子である。",
+    "abstract_ja": "大気中のCO₂濃度の上昇は植物の成長を促進するが、この効果は多くの場合、養分の利用可能性によって制限される。窒素固定根粒菌や菌根菌などの有益な土壌由来の微生物共生体がこの制限を緩和することが知られているが、植物の共生微生物叢の役割は依然として不明である。本研究では、グノトバイオティック成長系とモデルマメ科植物Lotus japonicusを用い、CO₂濃度上昇に対する植物の応答の大きさが、その根に関連する微生物群集の組成によって大きく説明されることを示す。無菌植物はCO₂濃度の上昇に対して限定的な生理応答を示したが、共生微生物および共生細菌の接種により、この効果が著しく増強された。共生細菌単独では、全体のバイオマスを増加させることはなかったが、植物の炭素配分を地下へと移行させた。根における微生物量は、植物DNAで正規化した場合でも、大気中のCO₂濃度の上昇に伴って増加した。植物と微生物の応答が最も強く観察されたのは、根粒菌、アーバスキュラー菌根菌、および共生細菌群集がすべて存在した場合であった。これらの知見は、大気中のCO₂濃度が上昇し続ける中で、多パートナー微生物共生が植物の成長と地下への炭素配分の両方を形作ることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11390617/v1",
+    "title": "Efficacy, Safety and Gut Microbiome Characteristics of Fecal Microbiota Transplantation and immunotherapy for Lung Cancer with Brain Metastases",
+    "abstract": "Abstract    Objective  The blood-brain barrier (BBB) and central immunosuppressive microenvironment impair the efficacy of immunotherapy in lung-cancer patients with brain metastases (LCBM). Fecal microbiota transplantation (FMT) remodels intestinal microecology to regulate central immunity via the gut-brain axis. This study aimed to explore the collaboration of FMT and immunotherapy in LCBM, and the potential mechanism by which FMT reshapes gut microbiota to improve intracranial therapeutic efficacy. Methods  Patients with LCBM who received FMT and immunotherapy at Changzhou Second People’s Hospital between May 2024 and April 2026 were enrolled in this retrospective study. Intracranial and extracranial lesion responses were assessed according to RECIST version 1.1. Survival analysis was conducted using the Kaplan-Meier method, and safety was evaluated based on CTCAE version 5.0. Fecal metagenomic sequencing was performed for one representative patient with prominent clinical benefit to characterize shifts in gut-microbiota composition and function before and after FMT. Results  The final follow-up date was August, 2026, with a median follow-up of 10.5 months. The median age of enrolled 16 patients was 68 years (range 49–81 years); 68.75% (11/16) were male. Adenocarcinoma accounted for 93.75% (15/16). 56.25% (9/16) of patients had an ECOG-PS score ≥ 2. 75% (12/16) received one FMT session, and 50% (8/16) were treated in third-line or later settings. The intracranial objective response rate (ORR) was 37.5% and disease control rate (DCR) was 100%, with a median intracranial progression-free survival (iPFS) of 6.1 months. The extracranial ORR was 25.0% and DCR was 93.75%, with a median extracranial progression-free survival (ePFS) of 7.2 months. No significant efficacy difference was observed between patients with EGFR-TKI resistance and those without EGFR mutations. Most FMT-related adverse events were grade 1–2 self-limiting gastrointestinal reactions. Microbiota analysis of the beneficiary patient revealed severe baseline gut dysbiosis characterized by over-enrichment of Firmicutes and near-depletion of Bacteroidetes. After FMT, microbial diversity was restored and elevated; the  Firmicutes/Bacteroidetes  ratio reached a balanced status.  Phocaeicola  ,  Bacteroides  and butyrate-producing beneficial bacteria were markedly enriched while pathogenic bacteria were effectively suppressed, accompanied by substantial improvement in anti-tumor metabolic capacity of the gut microbiome. Conclusion  FMT is safe and feasible for patients with LCBM. By remodeling intestinal microecological balance, FMT achieves promising and durable intracranial disease control when combined with immonotherapy.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11390617/v1",
+    "date": "2026-11-09",
+    "authors": "Qin L, Li D, Wang C, Qian D, Wei Y, Qi Y, Tao L, Chen P, Jiang H, Geng Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362035",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 445,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11390617/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "351f70d238b8e570bb9bafe32d05ddb9baaf05c25dbaea7e17ba3a792ecf99ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:16:10.420895+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d7c6fff7ddce79c07c31098169b6cb21c0ca4ebf715c63a1d5c0c0662dad56cd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:16:10.420895+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "脳転移を伴う肺癌に対する糞便微生物移植および免疫療法の有効性、安全性および腸内細菌叢特性",
+    "abstract_ja": "要旨    目的  血液脳関門（BBB）および中枢性免疫抑制性微小環境は、脳転移を有する肺癌患者（LCBM）における免疫療法の有効性を低下させる。糞便微生物移植（FMT）は腸管微小生態を再構築し、腸脳軸を介して中枢性免疫を調節する。本研究は、LCBMにおけるFMTと免疫療法の相乗効果、およびFMTが腸管微生物叢を再形成することで頭蓋内治療効果を向上させる潜在的な機序を探索することを目的とした。方法  2024年5月から2026年4月の間に常州市第二人民病院でFMTおよび免疫療法を受けたLCBM患者を本後方視的研究に組み入れた。頭蓋内および頭蓋外病変の奏効は、RECISTバージョン1.1に基づいて評価した。生存解析はカプラン・マイヤー法を用いて行い、安全性はCTCAEバージョン5.0に基づいて評価した。FMT前後における腸管微生物叢の組成および機能の変化を特性評価するため、臨床的有益性が顕著であった代表的な患者1例に対して糞便メタゲノムシーケンシングを実施した。結果  最終フォローアップ日は2026年8月であり、フォローアップ期間の中央値は10.5か月であった。組み入れられた16例の年齢中央値は68歳（範囲 49～81歳）であり、68.75%（11/16）が男性であった。腺癌が93.75%（15/16）を占めた。患者の56.25%（9/16）がECOG-PSスコア2以上であった。75%（12/16）がFMTを1回受け、50%（8/16）が3次治療以降の設定で治療を受けた。頭蓋内客観的奏効率（ORR）は37.5%、疾患制御率（DCR）は100%であり、頭蓋内無増悪生存期間（iPFS）の中央値は6.1か月であった。頭蓋外ORRは25.0%、DCRは93.75%であり、頭蓋外無増悪生存期間（ePFS）の中央値は7.2か月であった。EGFR-TKI耐性患者とEGFR変異のない患者との間で、有意な有効性の差は認められなかった。FMT関連の有害事象の大部分は、グレード1～2の自然消退性消化管反応であった。奏効した患者の微生物叢解析により、Firmicutesの過剰増殖とBacteroidetesのほぼ枯渇を特徴とする重度のベースライン時の腸管ディスバイオーシスが明らかになった。FMT後、微生物多様性は回復・向上し、Firmicutes/Bacteroidetes比は均衡状態に達した。Phocaeicola、Bacteroidesおよび酪酸産生有益菌が著しく増加し、病原性細菌が効果的に抑制されるとともに、腸管マイクロバイオームの抗腫瘍代謝能が大幅に改善した。結論  FMTはLCBM患者にとって安全かつ実施可能である。腸管微小生態のバランスを再構築することで、FMTは免疫療法と組み合わせた際に、有望かつ持続的な頭蓋内疾患制御を実現する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764721",
+    "title": "PCB-Exposed Gut Microbiota Recapitulate Neurobehavioral Deficits and Reprogram Hippocampal Transcriptomic Signatures",
+    "abstract": "ABSTRACT  Polychlorinated biphenyls (PCBs) are persistent environmental pollutants associated with developmental neurotoxicity and autism spectrum disorder (ASD). However, whether PCB-induced alterations in gut microbiota contribute to neurodevelopmental toxicity independently of direct chemical exposure remains unclear. Here, we investigated whether transplantation of PCB-associated gut microbiota produces early neurobehavioral alterations and disrupts brain molecular pathways in offspring. Gut microbiota from conventional dams exposed to the Fox River PCB mixture (FRM; 6.0 mg/kg/day) or vehicle were transplanted into germ-free recipient females without direct PCB administration. At postnatal day 7 (P7), offspring underwent ultrasonic vocalization (USV) testing, whole-brain RNA sequencing (n = 4/sex/group), and untargeted serum metabolomics. Untargeted serum metabolomics were also performed in donor dams. PCB-associated fecal microbiota transplantation (FMT) significantly reduced offspring USVs, reproducing effects observed following direct maternal PCB exposure. Brain transcriptomics in offspring identified substantially more differentially expressed genes in males (9,339) than females (1,082), including 512 shared genes. Concordantly regulated genes revealed downregulation of neurotransmitter signaling and ion channel pathways alongside upregulation of RNA processing pathways. Male-associated responses involved altered protein synthesis and neuronal signaling, whereas female-associated responses involved DNA repair and extracellular matrix remodeling. Despite these molecular differences, behavioral responses showed no significant sex-dependent effect. Maternal metabolomics revealed increased bile acids and decreased indole-3-propionic acid, highlighting potential AhR-NFκB and bile acid-associated signaling mechanisms. Offspring metabolomics further identified alterations in lipid-associated metabolites and metabolic profiles. Collectively, these findings show that transferring PCB-exposed microbiota reproduces early neurobehavioral alterations and induces shared and sex-biased molecular responses, identifying the maternal gut microbiome as a candidate mediator linking PCB exposure to developmental neurotoxicity.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764721",
+    "date": "2026-11-09",
+    "authors": "Suh YP, Wilson RJ, Breese NM, Lein PJ, Lehmler H, Cui JY.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362560",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 699,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.05.764721"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8698114ae7dd4cdb3606c239af83bed7e674d989022711f31fe6efc6bb48114e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:16:10.420895+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "88729d297b770076599f6fb904c47433743b3ac162a31968b5e0e0392421b1c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:16:10.420895+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PCB曝露による腸内細菌叢は神経行動学的欠損を再誘発し、海馬のトランスクリプトームシグネチャーをリプログラミングする",
+    "abstract_ja": "要旨　ポリ塩化ビフェニル（PCB）は、発達神経毒性および自閉スペクトラム症（ASD）に関連する残留性環境汚染物質である。しかし、PCB誘発性の腸内細菌叢の変化が、直接的な化学物質曝露とは独立して神経発達毒性に寄与するか否かは依然として不明である。本研究では、PCB関連腸内細菌叢の移植が、仔において早期の神経行動学的変化を引き起こし、脳の分子経路を撹乱するかどうかを検討した。Fox River PCB混合物（FRM; 6.0 mg/kg/日）または溶媒に曝露した通常の母動物由来の腸内細菌叢を、PCBを直接投与することなく無菌レシピエント雌に移植した。生後7日（P7）に、仔に対して超音波発声（USV）検査、全脳RNAシーケンシング（n = 4/性/群）、および非標的血清メタボロミクスを実施した。ドナー母動物においても非標的血清メタボロミクスを行った。PCB関連糞便微生物叢の移植（FMT）は、仔のUSVを有意に減少させ、母動物への直接的なPCB曝露後に観察される再現効果を示した。仔の脳トランスクリプトミクスでは、雌（1,082個）よりも雄（9,339個）において大幅に多くの発現変動遺伝子が同定され、その中には512個の共通遺伝子が含まれていた。協調的に調節される遺伝子からは、RNAプロセシング経路の亢進とともに、神経伝達物質シグナル伝達およびイオンチャネル経路の低下が明らかになった。雄に関連する反応にはタンパク質合成および神経細胞シグナル伝達の変化が含まれ、雌に関連する反応にはDNA修復および細胞外マトリックスのリモデリングが含まれていた。これらの分子的な相違にもかかわらず、行動反応に有意な性依存的影響は認められなかった。母動物のメタボロミクスでは、胆汁酸の増加とインドール-3-プロピオン酸の減少が認められ、AhR-NFκBおよび胆汁酸に関連するシグナル伝達機構の可能性が示された。仔のメタボロミクスでは、さらに脂質関連代謝物および代謝プロファイルの変化が同定された。総じて、これらの知見は、PCB曝露微生物叢の移植が早期の神経行動学的変化を再現し、共通かつ性バイアスのある分子反応を誘発することを示しており、母動物の腸内マイクロバイオームを、PCB曝露と発達神経毒性を結びつける候補媒介因子として特定するものである。"
   }
 ]
