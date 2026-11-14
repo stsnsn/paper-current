@@ -204875,5 +204875,297 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ゲノムワイド多面的解析による心血管系疾患と消化管疾患に共通する遺伝的病因の解明",
     "abstract_ja": "要旨    背景  本研究は、消化管疾患と心血管疾患の共通する遺伝的病因を調査し、共通のゲノム遺伝子座、遺伝子、およびパスウェイを同定することを目的とした。​  方法  公開データソースから集約したゲノムワイド関連統計を用いて、ゲノムワイド多面的関連解析を実施した。複数の統計遺伝学的手法を適用し、ゲノムワイドな一塩基変異、遺伝子、生物学的パスウェイ、および腸内細菌叢にわたる多面的関連を順次探索した。7種類の消化管疾患と11種類の心血管疾患の間で潜在的な共通の遺伝的原因を解析した。​  結果  計350個の多面的関連遺伝子座が同定された。共局在解析により、疾患ペア間で95個の共通原因遺伝子座が検出された。複数の遺伝子パスウェイがこれらの疾患と密接に関連していることが判明し、細胞シグナル伝達やT細胞活性化を含む主要な生物学的プロセスが、調査対象の疾患間で有意な相関を示した。消化管疾患と心血管疾患の間には強固な多面的関連が認められ、これらの疾患が異なる免疫細胞や組織の文脈において相互に影響し合いながら、共通の免疫応答機構を共有している可能性が示唆された。CD103⁺ CD11b⁺樹状細胞、CD8⁺脾リンパ節DC、およびγδ T細胞などの複数の免疫細胞集団が疾患間相関を示し、消化管疾患と心血管疾患の双方の病態形成における免疫系の重要な役割が浮き彫りとなった。HyPrColocを用いた多形質共局在解析により、共通の微生物叢を有する6つの多面的関連遺伝子座が同定され、疾患の多面性における腸内細菌叢の重要な関与が強調された。​  結論  本研究は、多面的変異、炎症性パスウェイ、および腸内細菌叢の相互作用を主要な駆動因子として、消化管疾患と心血管疾患の共通病因に関する遺伝的・機序的枠組みを確立した。これらの知見は、心血管・消化管併存疾患への理解を深めるだけでなく、共通の生物学的機序を標的とした精密医療戦略の基礎を築くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10806822/v2",
+    "title": "Challenges of Microalgae Integration in Recirculating Aquaculture Systems: Bridging Potential and Practice",
+    "abstract": "Abstract    Microalgae offer various benefits to aquaculture, serving as biofilters, immunostimulants, and nutrient‑rich feed additives that enhance water quality, growth, and disease resistance in recirculating aquaculture systems (RAS). Their ability to assimilate dissolved nutrients, capture CO  2  , oxygenate water, and proliferate rapidly without arable land or freshwater renders them environmentally attractive. In aquaculture, microalgae can partially replace conventional protein sources while providing omega-3 and omega-6 polyunsaturated fatty acids (PUFAs), reducing dependence on conventional feeds. Despite variability in biochemical composition and high production costs, incorporating microalgae into formulated feeds and  in situ  cultivation for direct grazing have been widely investigated. Recent advances in cultivation, nutrient recovery, reactor design, and techno-economic assessment have renewed interest in integrating microalgae into RAS. However, existing reviews focus on wastewater treatment, biomass production, or aquafeeds, rather than assessing the feasibility, economic viability, and scalability of  in situ  cultivation in commercial RAS. This review therefore evaluates current evidence on integrating live microalgae into aquaculture and RAS from technical, economic, and sustainability perspectives. Microalgae simultaneously enhance nutrient recovery, reduce aeration requirements, generate valuable biomass, and support animal health; however, evidence remains largely limited to pilot-scale studies. High light and energy demands, self-shading, and biofouling limit the photosynthetic efficiency of microalgae. Costly harvesting processes, instability among microalgal species, and water clarity management constrain consistent biomass production and scalability. Without advances in continuous, efficient harvesting, strain robustness, microbial control, and process economics, commercial adoption in RAS is likely to remain limited to niche applications rather than becoming a broadly viable strategy.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10806822/v2",
+    "date": "2026-11-10",
+    "authors": "Tiwari SP, Mudimu O, Mannott I, Lang I, Schulz C.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362906",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microalgae",
+        "microalgal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1589,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-10806822/v2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cf3aa0cdb38370add0447bac115966e73b559690907d063c87db632b5b538981",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:37:26.432775+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a4c4b51b0beb66734ac88df2cd4c314fda538582182fb9f796b4cd374b44b437",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:37:26.432775+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "循環式水産養殖システムにおける微細藻類導入の課題：可能性と実践の橋渡し",
+    "abstract_ja": "要旨    微細藻類は水産養殖において多様な利点をもたらし、再循環式養殖システム（RAS）における水質、成長、および疾病耐性を向上させるバイオフィルター、免疫刺激剤、および栄養豊富な飼料添加剤として機能する。溶存栄養素の同化、CO₂の捕捉、水への酸素供給、および耕作地や淡水を必要とせずに急速に増殖する能力により、環境面での魅力が高い。水産養殖において、微細藻類は従来のタンパク質源を部分的に代替しつつ、オメガ3およびオメガ6多価不飽和脂肪酸（PUFAs）を供給することで、従来の飼料への依存度を低減できる。生化学組成のばらつきや高い生産コストはあるものの、配合飼料への微細藻類の導入や、直接摂食のためのin situ培養については広く研究されてきた。近年の培養、栄養回収、反応器設計、および技術経済性評価における進展により、RASへの微細藻類の統合に対する関心が改めて高まっている。しかし、既存の総説は、商業用RASにおけるin situ培養の実現可能性、経済的妥当性、および拡張性の評価ではなく、廃水処理、バイオマス生産、あるいは水産飼料に焦点を当てている。したがって、本総説では、生きた微細藻類を水産養殖およびRASに統合することに関する現在のエビデンスを、技術的、経済的、および持続可能性の観点から評価する。微細藻類は、栄養回収の促進、曝気要求量の低減、価値あるバイオマスの生成、および動物の健康維持を同時に実現するが、エビデンスは依然としてパイロットスケールの研究に限定されている。高い光量およびエネルギー要求量、自己遮光、および生物付着が、微細藻類の光合成効率を制限している。コストのかかる収穫工程、微細藻類種間の不安定性、および水の透明度管理が、安定したバイオマス生産と拡張性を制約している。継続的かつ効率的な収穫、菌株の頑健性、微生物制御、およびプロセス経済性の進展がない限り、RASにおける商業的導入は、広範に実行可能な戦略となるのではなく、ニッチな用途に限定されたままとなる可能性が高い。"
+  },
+  {
+    "id": "10.64898/2026.10.29.762793",
+    "title": "MaaD-TAD: an all-atom model of the duplicated PRAMEF/HNRNPCL chromatin domain built from sequence homology",
+    "abstract": "In the nucleus, the placement of genes in the 3D fold of DNA affects how they function. Models of this fold use two kinds of data: contact maps constructed from Hi-C, and nucleosome maps showing where DNA is wound around nucleosomes. Over evolution, sections of the genome were copied, creating near-identical regions. Reads from these regions cannot be assigned to one copy and are discarded, leaving \"void regions\" in both maps. We tested MaaD-TAD, a pipeline that models topologically associating domains (TADs) at the atomic level, on the PRAMEF/HNRNPCL locus on human chromosome 1. This challenging locus spans 652 kb, with only 15% of its nucleosome positions known and most contact data missing. To test our hypothesis that copies with similar sequence lie close in space, i.e. homology as a surrogate for proximity, we constructed a map of sequence homology in place of Hi-C and used CSynth to fold it into a 3D path. We then lengthened the path to fit a chromatin fibre, and refined the model by adding cohesin complexes, which stabilize chromatin structure. Cohesin is a ring-shaped protein complex through which a loop of chromatin is threaded; the loop is commonly anchored by CTCF proteins bound on either leg. Using known databases, we placed CTCF sites in our model and joined three to their copies with cohesin rings; in each pair the sites face each other, as loop anchors do. The final model holds 3,359 nucleosomes and about 55 million atoms. Micro-C, an advanced, higher-resolution form of Hi-C, provided data on two other duplicated regions that support our hypothesis: matching copies touched 1.2 to 1.9 times more often than expected. Our approach provides a novel method to reconstruct DNA regions with absent contact data and, to our knowledge, the first all-atom model of a complete TAD.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762793",
+    "date": "2026-11-09",
+    "authors": "Santos, J. R. L., MacIsaac, M., Moon, E. B., Befus, A. D., Marcet-Palacios, M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762793v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2094,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762793"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2398134b1d40abcaa1aec69dafe3fa5bfd3f1d886e1dbb969d2c6172b755cda8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:37:26.432775+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0ab5e2be55b0931e34795cc54874075461d20911173a0202c8b5cbe5a0e9644c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:37:26.432775+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MaaD-TAD: 配列相同性に基づいて構築された重複型PRAMEF/HNRNPCLクロマチンドメインの全原子モデル",
+    "abstract_ja": "核内において、DNAの3次元フォールドにおける遺伝子の配置は、その機能に影響を及ぼす。このフォールドのモデルでは、Hi-Cから構築されたコンタクトマップと、DNAがヌクレオソームの周囲に巻き付いている位置を示すヌクレオソームマップという2種類のデータが用いられる。進化の過程でゲノムの各領域が複製され、ほぼ同一の領域が形成された。これらの領域から得られたリードは一方のコピーに割り当てることができず、破棄されるため、両方のマップに「空領域」が残る。我々は、トポロジカル関連ドメイン（TAD）を原子レベルでモデル化するパイプラインであるMaaD-TADを、ヒト第1染色体のPRAMEF/HNRNPCL遺伝子座で検証した。この困難な遺伝子座は652 kbに及び、ヌクレオソームの位置が判明しているのはそのわずか15%であり、ほとんどのコンタクトデータが欠落している。類似した配列を持つコピーは空間的に近接している、すなわち相同性が近接性の代理指標になるという我々の仮説を検証するため、Hi-Cの代わりに配列相同性マップを構築し、CSynthを用いてそれを3次元パスへとフォールディングした。次に、パスをクロマチンファイバーに適合するように延長し、クロマチン構造を安定化させるコヒーシン複合体を追加してモデルを精緻化した。コヒーシンは環状のタンパク質複合体であり、クロマチンのループがこれを貫通している。このループは通常、いずれかの脚に結合したCTCFタンパク質によって固定されている。既知のデータベースを用いてモデルにCTCF部位を配置し、3つの部位をコヒーシンリングでそれぞれのコピーに連結した。各ペアにおいて、ループアンカーと同様に、部位同士が互いに向き合う構造となった。最終的なモデルは3,359個のヌクレオソームと約5,500万個の原子を保持している。Hi-Cの高度な高解像度版であるMicro-Cは、我々の仮説を支持する他の2つの重複領域に関するデータを提供した。対応するコピー同士は、予想よりも1.2倍から1.9倍高い頻度で接触していた。我々の手法は、コンタクトデータが欠落しているDNA領域を再構築するための新たな手法を提供するものであり、我々の知る限り、完全なTADの初の全原子モデルである。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764851",
+    "title": "Systematic promoter perturbation reveals limitations of AlphaGenome gene expression predictions",
+    "abstract": "Sequence-to-function (S2F) models promise to facilitate the interpretation of noncoding variants by predicting their effects on gene regulation directly from genomic sequence. However, whether these models recapitulate fundamental principles of transcriptional biology remains unclear. Here, we tested whether AlphaGenome recognizes the expected consequences of promoter disruption on predicted gene expression. We systematically perturbed annotated promoter elements in silico for 2,111 promoter-gene pairs using dinucleotide shuffling, GC-adjusted random base substitution, and N-masking. We then compared AlphaGenome-predicted CAGE and RNA-sequencing signals across 20 tissues for reference and promoter-disrupted sequences. While CAGE and RNA-sequencing predictions were strongly correlated for reference sequences, promoter disruption markedly reduced predicted CAGE activity, with N masking producing reductions of approximately three orders of magnitude. By contrast, the predicted RNA-sequencing signals were substantially less affected, resulting in an uncoupling of two molecular readouts of gene expression. Exon-level analyses showed that AlphaGenome predicted reduced RNA-sequencing signal when exonic sequences are within the disrupted region, but frequently failed to propagate this effect to downstream exons. This divergence between the CAGE and RNA-sequencing readouts was apparent from the second exon onward and was more pronounced in longer genes. Although alternative transcription initiation and shared downstream exons may explain individual cases, it is unlikely to account for the systematic discordance between CAGE and RNA-sequencing predictions. These findings indicate that AlphaGenome can recognize the local loss of promoter activity without consistently capturing its consequences across the corresponding transcript. More broadly, our results show that predictions from individual S2F output tracks do not necessarily reflect a coherent model of transcription. Systematic biological benchmarking and experimental validation therefore remain essential before such predictions can be used to prioritize or classify noncoding variants in research or diagnostic settings.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764851",
+    "date": "2026-11-09",
+    "authors": "Sreenivasan, V. K. A., Aksu, E. D., Spielmann, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764851v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2095,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.06.764851"
+    ],
+    "translation": {
+      "title": {
+        "hash": "809f6df21c23d831ca86f4f837cc7a2eaec911780c85a5245190b8f4e26ac041",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:37:26.432775+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4df1bdf1e381720d2e0c638a66700ceeec109a2ac994b26e097b159e5e4f90d7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:37:26.432775+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "系統的なプロモーター摂動解析により明らかになったAlphaGenomeの遺伝子発現予測の限界",
+    "abstract_ja": "シーケンス・トゥ・ファンクション（S2F）モデルは、ゲノム配列から遺伝子調節への影響を直接予測することで、非コード変異の解釈を容易にすると期待されている。しかし、これらのモデルが転写生物学の基本原理を再現しているかどうかは依然として不明である。本研究では、AlphaGenomeがプロモーター破壊が予測される遺伝子発現に及ぼす予想される影響を認識できるかを検証した。ジヌクレオチドシャッフル、GC調整済みランダム塩基置換、およびNマスキングを用いて、2,111組のプロモーター・遺伝子ペアにおけるアノテーション済みプロモーターエレメントをin silicoで系統的に摂動させた。次いで、リファレンス配列とプロモーター破壊配列について、20種類の組織におけるAlphaGenome予測のCAGEおよびRNAシーケンシングシグナルを比較した。リファレンス配列ではCAGEおよびRNAシーケンシングの予測に強い相関が認められたが、プロモーター破壊により予測されるCAGE活性は著しく低下し、Nマスキングでは約3桁の減少が認められた。対照的に、予測されるRNAシーケンシングシグナルへの影響は大幅に小さく、その結果、遺伝子発現の2つの分子リードアウトの脱共役が生じた。エクソンレベルの解析では、エクソン配列が破壊領域内にある場合、AlphaGenomeはRNAシーケンシングシグナルの低下を予測したが、この影響を下流のエクソンまで伝播させられないことが多かった。CAGEとRNAシーケンシングのリードアウト間のこの乖離は、第2エクソン以降で顕著に認められ、より長い遺伝子においてより顕著であった。代替的な転写開始や共通の下流エクソンが個々の事例を説明し得るものの、CAGEとRNAシーケンシング予測間の系統的な不一致を説明できる可能性は低い。これらの知見は、AlphaGenomeがプロモーター活性の局所的な喪失を認識できるものの、その影響を対応する転写産物全体で一貫して捉えられるわけではないことを示している。より広範には、本研究の結果は、個々のS2F出力トラックによる予測が、必ずしも一貫した転写モデルを反映しているわけではないことを示している。したがって、研究や診断の現場において非コード変異の優先順位付けや分類にこうした予測を用いる前に、系統的な生物学的ベンチマークと実験的検証が不可欠である。"
+  },
+  {
+    "id": "10.64898/2026.11.06.764829",
+    "title": "Integrating bacterial genomics and host transcriptomics links Burkholderia pseudomallei variation to melioidosis mortality and neutrophil responses",
+    "abstract": "Bacterial genetic variation contributes to the outcome of infection, but its relationship with host immune responses is rarely investigated in the same patients, limiting the biological interpretation of pathogen-associated disease severity. Here, we integrated pathogen genomics, clinical outcomes and host transcriptomics to investigate host-pathogen interactions in melioidosis, a frequently fatal infection caused by Burkholderia pseudomallei. We analysed prospective clinical data from 2,142 patients, whole-genome sequences from 2,101 infecting isolates and 646 paired host blood transcriptomes across five cohorts collected between 2012 and 2023. Infections were typically dominated by a single strain, with limited within-host diversification, supporting the use of an infecting isolate genome to investigate pathogen-associated clinical outcomes. Bacterial genome-wide association studies identified one locus associated with binary mortality at genome-wide significance. Incorporating patient age, sex, body mass index and Charlson Comorbidity Index increased this to four, while modelling time to death as a continuous phenotype identified seven loci. Integration with paired host transcriptomes linked mortality-associated bacterial genetic variation to imputed signatures of increased immature neutrophils and reduced neutrophil degranulation. An intergenic region upstream of the polyketide synthesis locus BPSS1006-BPSS1011 was additionally associated with downregulation of host genes involved in myeloid-cell signalling and cell proliferation pathways. These findings connect naturally occurring B. pseudomallei genomic variation associated with mortality to distinct host immune signatures, providing insight into pathogen-host interactions underlying severe melioidosis and a framework for investigating the contribution of pathogen genetic diversity to clinical outcomes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764829",
+    "date": "2026-11-09",
+    "authors": "Wongprommoon, A., Boonklang, P., Burnham, K. L., Chomkatekaew, C., Angchagun, K., Wongsuvan, G., Ngernseng, T., Limmathurotsakul, D., Boonchalermvichien, T., Coston, T. D., Phunpang, R., Yimthin, T., Rongkard, P., Lee, W., Kronsteiner, B., Knight, J., Corander, J., Peacock, S. J., Parkhill, J., Day, N. P. J., Dunachie, S. J., West, T. E., Chantratita, N., Thomson, N. R., Davenport, E. E., Chewapreecha, C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764829v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 2096,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.06.764829"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a5f84933185107abdf7df5e92453edc3e668c6b80f2ae6ac834efe35c40be102",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:37:26.432775+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "08291cab933b4b40cbd934da757d725f630cbcaebfba278facb235b54e572e36",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:37:26.432775+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌ゲノミクスと宿主トランスクリプトミクスの統合により、Burkholderia pseudomalleiの変異と類鼻疽病の死亡率および好中球応答との関連性が明らかになった。",
+    "abstract_ja": "細菌の遺伝的変異は感染の転帰に寄与するが、同一患者において宿主の免疫応答との関連性が調査されることは稀であり、病原体関連疾患の重症度に関する生物学的解釈を制限する要因となっている。本研究では、病原体ゲノミクス、臨床転帰、および宿主トランスクリプトミクスを統合し、Burkholderia pseudomalleiによって引き起こされるしばしば致死的な感染症である類骨髄症における宿主・病原体相互作用を調査した。2012年から2023年にかけて収集された5つのコホートにわたる、2,142例の患者の前向き臨床データ、2,101株の感染分離株の全ゲノム配列、および646組の宿主血液トランスクリプトームを解析した。感染は通常単一株が主体であり、宿主内での多様性は限定的であったため、感染分離株のゲノムを用いて病原体関連の臨床転帰を調査することが妥当であった。細菌のゲノムワイド関連解析により、ゲノムワイドな有意性をもって二値死亡に関連する1つの遺伝子座が同定された。患者の年齢、性別、体格指数、およびチャールソン併存疾患指数を組み込むことでこの数は4つに増加し、死亡までの時間を連続的な表現型としてモデル化することで7つの遺伝子座が同定された。宿主トランスクリプトームとの統合により、死亡に関連する細菌の遺伝的変異が、未熟好中球の増加および好中球脱顆粒の減少という推定シグネチャーに関連していることが示された。さらに、ポリケチド合成遺伝子座BPSS1006-BPSS1011の上流にある遺伝子間領域が、骨髄系細胞シグナル伝達および細胞増殖経路に関与する宿主遺伝子の発現低下に関連していた。これらの知見は、死亡に関連する自然発生的なB. pseudomalleiのゲノム変異を、異なる宿主免疫シグネチャーへと結びつけるものであり、重症類骨髄症の根底にある病原体・宿主相互作用に関する洞察を提供するとともに、病原体の遺伝的多様性が臨床転帰に及ぼす寄与を調査するための枠組みを提示するものである。"
   }
 ]
