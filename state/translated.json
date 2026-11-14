@@ -216188,5 +216188,321 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Babylonia areolata</i>の養殖における水交換速度を介した、宿主関連（腸管および鰓）および環境（水および砂）微生物群集間の関係の解明",
     "abstract_ja": "水交換は水産養殖における生存に関連しているが、宿主と環境の微生物相互作用との関係は依然として不明である。本研究では、Babylonia areolata（象牙貝）の水産養殖における宿主関連および環境微生物叢の特性を明らかにすることを目的とし、群集間の関係、環境源の寄与、水質との関連性、および水交換率に応じた宿主の生存に着目した。象牙貝を、高（100% d-1）、中（50% d-1）、および低（0% d-1）の水交換率で60日間飼育した。60日目に、水、砂、腸管、および鰓の試料（各処理につき12検体）を16S rRNA遺伝子V3-V4アンプリコンシーケンシングを用いて解析した。その結果、生存率は低交換群においてのみ低かった（p p = 0.001）。SourceTrackerにより、砂が最大の環境寄与因子として同定され、水交換率の低下に伴い、その寄与度は腸管では48.0%から21.0%へ、鰓では65.7%から30.2%へと減少した。水交換率の低下は、腸管のNautellaおよび鰓関連のRuegeriaの相対存在量の減少とも関連していた。線形判別分析の効果量（LEfSe）により、低水交換条件下では両組織においてHalodesulfovibrioが共通のバイオマーカーとして同定された。冗長性解析（RDA）では、NO3 --NおよびpHが、環境微生物群集構造と最も強く関連する環境変数として同定された。属レベルの探索的相関解析では、飼育水のpHが両組織においてHalodesulfovibrioと負の相関を示した。総じて、これらの結果は、水交換率が宿主関連の微生物群集組成、環境源の寄与、および象牙貝の生存に関連していることを示している。今後の研究では、環境微生物群集、水質条件、および宿主の生存の間の関連性の根底にあるメカニズムを調査し、低水交換の水産養殖システムにおける微小生態学的管理に資すべきである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag816",
+    "title": "Leveraging amino acid embeddings for accurate translation efficiency prediction",
+    "abstract": "AbstractMotivationAccurate prediction of translation efficiency from mRNA sequences is an important step toward mRNA sequence design. In recent years, the widespread adoption of high-resolution ribosome profiling techniques, such as Ribo-seq, has led to rapid accumulation of large-scale datasets that capture the relationship between mRNA sequences and translation efficiency. This progress has facilitated the development of machine-learning–based models for translation efficiency prediction. However, most existing approaches rely primarily on mRNA-derived features, such as codon usage frequency and 5’ untranslated regions (5’UTRs), and do not directly utilize the amino-acid-level information.ResultsIn this study, we show that incorporating distributed representations (embeddings) of amino acid sequences translated from mRNA as model features can improve translation efficiency prediction. By combining fixed amino acid embeddings derived from a pretrained protein language model with mRNA-derived features, the proposed model integrates complementary protein-level and nucleotide-level information for more accurate prediction of translation efficiency.Availability and implementationCodes are available at GitHub (https://github.com/gterai/AA_emb) and Zenodo (https://doi.org/10.5281/zenodo.23968476).",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag816",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag816/9044471?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "amino acid",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "amino acid",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4470,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/bioinformatics/btag816"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3e04e3c01c678018e86e3aea8328f54faa65ba20448a0295508da638dfd1dd7d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:35:16.374499+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dc72ae3bdd7a9ba0c059f56fe60e26874ee16fd924a24dd66a15f2769fb5ff6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:35:16.374499+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アミノ酸埋め込みを活用した正確な翻訳効率予測",
+    "abstract_ja": "要旨動機mRNA配列からの翻訳効率の正確な予測は、mRNA配列設計における重要なステップである。近年、Ribo-seqなどの高解像度リボソームプロファイリング技術の普及により、mRNA配列と翻訳効率の関係を捉えた大規模なデータセットが急速に蓄積されてきた。こうした進展により、翻訳効率予測のための機械学習ベースのモデル開発が促進された。しかし、既存の手法の多くは、コドン使用頻度や5'非翻訳領域（5'UTR）といったmRNA由来の特徴量に主に依存しており、アミノ酸レベルの情報を直接活用していない。結果本研究では、mRNAから翻訳されたアミノ酸配列の分散表現（埋め込み表現）をモデルの特徴量として組み込むことで、翻訳効率の予測精度が向上することを示す。事前学習済みタンパク質言語モデルから得られた固定のアミノ酸埋め込み表現とmRNA由来の特徴量を組み合わせることで、提案モデルはタンパク質レベルとヌクレオチドレベルの情報を相補的に統合し、より正確な翻訳効率予測を実現する。利用可能性と実装コードはGitHub (https://github.com/gterai/AA_emb) およびZenodo (https://doi.org/10.5281/zenodo.23968476) で公開されている。"
+  },
+  {
+    "id": "10.1186/s40793-026-00985-6",
+    "title": "Temporal and spatial patterns of multi-taxon microbial communities in the Chishui River: diversity, stability, and environmental drivers",
+    "abstract": "The Chishui River maintains natural hydrological connectivity, offering an ideal system to investigate freshwater biogeography and community assembly. Multi-taxon microbial communities comprising bacteria, fungi, single-celled eukaryotic algae (algae), and protozoa drive essential biogeochemical processes in aquatic ecosystems, yet their spatiotemporal dynamics and assembly mechanisms remain poorly understood. In this study, we analyzed metagenomic samples collected across four seasons from the Chishui River, with 25 sampling sites per season, to identify the ecological drivers shaping these diverse trophic groups. Our results reveal divergent environmental adaptability across microbial groups and asynchronous responses to environmental perturbations within these groups. Bacterial diversity peaked in summer, likely driven by elevated temperatures. In contrast, fungal and algal diversity declined during summer, whereas protozoan richness was highest in spring and lowest in autumn. These seasonal patterns may be partly attributable to hydrodynamic disturbances and turbidity-induced photoinhibition, while the spring maxima likely reflected environmental conditions favorable for early-stage ecological succession. Co-occurrence network analysis indicated that microbial interactions were most complex and stable in spring. This suggests that intermediate disturbance and warming temperatures in spring facilitate niche sharing and cross-trophic associations, whereas summer floods simplify network structures. Community assembly was shaped by both stochastic and deterministic processes, but with distinct taxonomic biases: stochastic processes, driven by high dispersal, dominated bacterial assembly, while deterministic environmental filtering exerted a stronger influence on protozoan communities, which are characterized by low dispersal. Furthermore, water temperature, dissolved oxygen saturation and total nitrogen were identified as the primary environmental drivers influencing shifts in microbial diversity, community stability, and network complexity. These findings highlight the asynchrony of microbial responses to environmental change, suggesting that riverine ecosystem stability relies on the differential buffering capacities of multi-trophic groups against seasonal hydrological fluctuations.",
+    "journal": "Environmental Microbiome",
+    "doi": "10.1186/s40793-026-00985-6",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40793-026-00985-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "freshwater",
+          "river"
+        ],
+        "genomics": [
+          "assembly",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40793",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4475,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40793"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1186/s40793-026-00985-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7a83528040740a30fd2b01027d1875b9f11795e6146d3ac5f7e65bebabf7bdab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:35:16.374499+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f91df8f00e8840a249609b43a1d743a3caf586b4bac468e112e77ce1f93190a4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:35:16.374499+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "赤水河における多分類群微生物群集の時間的・空間的パターン：多様性、安定性、および環境要因",
+    "abstract_ja": "赤水河は自然な水文的連通性を維持しており、淡水の生物地理学および群集形成を研究する上で理想的な系となっている。細菌、真菌、単細胞真核藻類（藻類）、および原生動物からなる多分類群の微生物群集は、水圏生態系における不可欠な生物地球化学的プロセスを駆動しているが、その時空間的な動態や群集形成メカニズムについては十分に解明されていない。本研究では、赤水河において4つの季節にわたり収集されたメタゲノム試料（1シーズンあたり25地点）を解析し、これら多様な栄養段階群を形作る生態学的駆動要因を同定した。その結果、微生物群間で環境適応能に差異があること、および群集内における環境攪乱への非同期的な応答が明らかになった。細菌の多様性は夏季にピークに達し、これはおそらく気温の上昇によるものと考えられる。対照的に、真菌および藻類の多様性は夏季に減少した一方、原生動物の豊富さは春季に最大となり、秋季に最小となった。これらの季節的パターンは、流体力学的攪乱や濁度誘発性の光阻害に一部起因している可能性があり、春季の極大値は、初期段階の生態遷移に好適な環境条件を反映していたと考えられる。共起ネットワーク解析の結果、微生物間の相互作用は春季において最も複雑かつ安定していることが示された。これは、春季の中間的な攪乱と気温上昇がニッチ共有や栄養段階間の共生を促進する一方で、夏季の洪水がネットワーク構造を単純化することを示唆している。群集形成は確率的プロセスと決定論的プロセスの両方によって形作られていたが、分類学的な偏りが認められた。高い分散率に起因する確率的プロセスが細菌群集を支配したのに対し、決定論的な環境フィルタリングは、低分散を特徴とする原生動物群集により強い影響を及ぼした。さらに、水温、溶存酸素飽和度、および全窒素が、微生物多様性、群集安定性、およびネットワークの複雑性の変化に影響を与える主要な環境駆動要因として特定された。これらの知見は、環境変化に対する微生物応答の非同期性を浮き彫りにしており、河川生態系の安定性が、季節的な水文変動に対する多栄養段階群の差異的な緩衝能に依存していることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1996961",
+    "title": "Host species identity outweighs life form in shaping the root endophytic bacterial communities of 10 <i>Cymbidium</i> species grown under uniform conditions.",
+    "abstract": "Research on orchid microbiomes has long been dominated by mycorrhizal fungi, whereas the community structure of orchid-associated bacteria remains poorly understood, particularly across host life forms. We compared the root endophytic bacterial communities of 10 Cymbidium species (six epiphytic and four terrestrial), all cultivated in the same greenhouse. Communities were profiled by 16S rRNA gene amplicon sequencing, with six biological replicates per species. After rarefaction to 29,628 sequences per sample, we obtained 129,922 amplicon sequence variants (ASVs) assigned to 33 phyla and 779 genera. Proteobacteria dominated the communities (mean relative abundance 83.4%), followed by Actinobacteriota and Acidobacteriota; the most abundant genera were Pseudomonas, Sphingomonas, the Burkholderia-Caballeronia-Paraburkholderia complex, Bradyrhizobium and Reyranella. Only seven ASVs were shared by all 10 species (each detected in at least one replicate sample of every species), and only one ASV occurred in all 60 samples, indicating an extremely small interspecific core microbiome. No alpha-diversity index differed between life forms. Among host species, however, the Shannon, Simpson, and Pielou evenness indices differed significantly among species. Single-factor (marginal) permutational multivariate analysis indicated a hierarchy of host effects: life form explained only 6.9% of community variation, infrageneric section 35.6%, and host species 59.9%, with significant differentiation even among species within the same section (R 2 ≈ 0.51); because life form, infrageneric section and host species are partially confounded in this design, these values describe associations rather than fully independent effects. Random forest classification independently corroborated this hierarchy. Community composition correctly assigned all 60 samples to their host species, whereas life-form prediction did not generalize across species. Under leave-one-species-out cross-validation, life-form accuracy fell to 50.0%, below the 60% majority-class baseline. LEfSe analysis identified 279 biomarker taxa spanning all 10 species. Predicted functional profiles were dominated by biosynthesis pathways (69.8%) and were largely stable between life forms. The neutral community model explained little of the variation in ASV occurrence frequency (R 2 = 0.035). This indicates that neutral dispersal alone cannot account for community assembly. The normalized stochasticity ratio averaged 0.576, only slightly above the 0.5 threshold for stochastic dominance, pointing to predominantly deterministic assembly with a secondary stochastic contribution. Within the limits of this partially confounded design, these results indicate that, with environmental heterogeneity minimized, host species identity is a stronger correlate of root endophytic bacterial community differentiation than life form in Cymbidium, providing a basis for the species-specific utilization of beneficial endophytes in orchid cultivation and conservation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1996961",
+    "date": "2026-10-29",
+    "authors": "Chen X, Fang R, Zhang T, Zhao G, Wang F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43023135",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43023135",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "fungi",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4241,
+    "collected_at": "2026-11-14T17:59:45.478009+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1996961"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2b1539e53ae7766c112975c177c857c6da9fef343eea547bfffb31185b4baee0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:35:16.374499+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b7dc821300f05121301a0ebe63c29e7350595adf95cc0416484058cf4ca35394",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:35:16.374499+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "均一な条件下で栽培された10種の<i>Cymbidium</i>の根内共生細菌群集の形成においては、宿主種の同定が生活型よりも大きな影響を及ぼす。",
+    "abstract_ja": "ランの微生物叢に関する研究では、長らく菌根菌が中心的に扱われてきた一方で、ラン関連細菌の群集構造、特に宿主の生活型間における構造については十分に解明されていない。本研究では、同一の温室で栽培された10種のシンビジウム（着生種6種、陸生種4種）の根内共生細菌群集を比較した。群集のプロファイリングには16S rRNA遺伝子アンプリコンシーケンシングを用い、1種あたり6回の生物学的レプリケートを実施した。1サンプルあたり29,628配列にレアファクションを施した結果、33門779属に割り当てられる129,922個のアンプリコン配列バリアント（ASV）を得た。群集ではプロテオバクテリアが支配的であり（平均相対存在量 83.4%）、次いでアクチノバクテリウム門およびアシドバクテリウム門が続いた。最も存在量の多い属は、シュードモナス属、スフィンゴモナス属、バークホルデリア・カバレロニア・パラバークホルデリア複合体、ブラディリゾビウム属、およびレイラネラ属であった。全10種で共有されたASVはわずか7個（各種の少なくとも1つのレプリケートサンプルで検出）であり、全60サンプルに出現したASVはわずか1個であったことから、種間コア微生物叢は極めて小さいことが示された。アルファ多様性指数は生活型間で差が認められなかった。しかし、宿主種間では、シャノン、シンプソン、およびピエロウの均等性指数が種間で有意に異なっていた。単一因子（限界）置換多変数解析により、宿主効果の階層構造が示された。すなわち、生活型が群集変動のわずか6.9%を、属内節が35.6%を、宿主種が59.9%を説明しており、同一節内の種間でも有意な差異が認められた（R 2 ≈ 0.51）。この設計では生活型、属内節、および宿主種が部分的に交絡しているため、これらの値は完全な独立効果ではなく、関連性を示すものである。ランダムフォレスト分類によっても、この階層構造が独立して裏付けられた。群集組成は全60サンプルを宿主種に正しく割り当てたが、生活型予測は種間で一般化しなかった。1種除外交差検証では、生活型の正解率は50.0%まで低下し、多数クラスのベースラインである60%を下回った。LEfSe解析により、全10種にわたる279のバイオマーカー分類群が同定された。予測された機能プロファイルは生合成経路が支配的であり（69.8%）、生活型間でも概ね安定していた。中立群集モデルでは、ASV出現頻度の変動をほとんど説明できなかった（R 2 = 0.035）。これは、中立的な分散だけでは群集形成を説明できないことを示している。正規化確率性比の平均は0.576であり、確率的支配の閾値である0.5をわずかに上回る程度であった。このことは、主に決定論的な形成が行われ、副次的に確率的な寄与があることを示唆している。この部分的に交絡した設計の限界内において、これらの結果は、環境の不均一性が最小限に抑えられた場合、シンビジウムにおいては生活型よりも宿主種の同一性の方が根内共生細菌群集の分化のより強い相関因子であることを示しており、ランの栽培および保全における有益内生菌の種特異的な利用の根拠となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007353",
+    "title": "<i>Gallaecimonas zhanjiangensis</i> sp. nov., a novel member of the phylum Pseudomonadota isolated from mangrove sediments.",
+    "abstract": "A bacterial strain, designated RL-SH01T, was isolated from mangrove sediments in Zhanjiang, Guangdong Province, China. Strain RL-SH01T is a Gram-negative, rod-shaped and flagellated bacterium. It can grow at 15-35 °C (optimum, 25-35 °C), at pH 4-10 (optimum, pH 5.0-9.0) and with salinities of 0-8% (w/v) (optimum, 0.5-5.0%). Phylogenetic analysis based on 16S rRNA gene sequences showed that strain RL-SH01T belongs to the genus Gallaecimonas. Genome-wide digital DNA-DNA hybridization (dDDH) analysis showed that the dDDH values between strain RL-SH01T and the other type strains of genus Gallaecimonas were below the 70% species delineation threshold. The major fatty acids were C16 : 0, Summed Feature 3 (C16 : 1  ω6c and/or C16 : 1  ω7c), C12 : 0 3-OH, Summed Feature 8 (C18 : 1  ω7c and/or C18 : 1  ω6c), C17 : 1  ω8c, C17 : 0 and C12 : 0. The major respiratory quinone was Q8 (97.8%). Polar lipids included aminophospholipid, phosphatidylethanolamine, phosphatidylglycerol, phospholipid and an unidentified lipid. The DNA G+C content of strain RL-SH01T was 58.50 mol%. Based on morphological, physiological, chemotaxonomic and genomic evidence, strain RL-SH01T represents a novel species of the genus Gallaecimonas, for which the name Gallaecimonas zhanjiangensis sp. nov. is proposed. The type strain is RL-SH01T (=MCCC 1K10613T=KCTC 18644T). In general, the discovery of this new species enriches the germplasm resources of the genus Gallaecimonas, and broadens our understanding of its phylogenetic diversity and ecological distribution.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007353",
+    "date": "2026-11-01",
+    "authors": "Shi M, Wang Y, Hu H, Jia Y, Zhao B, Zhou JL, Ren L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43023326",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43023326",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4228,
+    "collected_at": "2026-11-14T17:59:45.478009+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1099/ijsem.0.007353"
+    ],
+    "translation": {
+      "title": {
+        "hash": "31af42a59c333f6bedc33d5a7398dcfdcbdee6663b5e00d9f9e112574f60ca42",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:35:16.374499+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6d4d949c271f6cfc509510cc7f31d3042807cd799004e6bc936cd3ebc1ab92aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:35:16.374499+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Gallaecimonas zhanjiangensis</i> sp. nov.：マングローブ堆積物から分離されたPseudomonadota門の新属種。",
+    "abstract_ja": "中国広東省湛江市のマングローブ堆積物から、RL-SH01Tと命名された細菌株が分離された。RL-SH01T株は、グラム陰性の桿菌で、鞭毛を有する。本株は、15-35 °C（至適温度 25-35 °C）、pH 4-10（至適pH 5.0-9.0）、および塩分濃度 0-8%（w/v）（至適 0.5-5.0%）の条件下で増殖可能である。16S rRNA遺伝子配列に基づく系統解析の結果、RL-SH01T株はGallaecimonas属に属することが示された。ゲノムワイドデジタルDNA-DNAハイブリダイゼーション（dDDH）解析により、RL-SH01T株とGallaecimonas属の他のタイプ株との間のdDDH値は、種境界の閾値である70%を下回っていた。主要な脂肪酸は、C16 : 0、Summed Feature 3（C16 : 1  ω6c および/または C16 : 1  ω7c）、C12 : 0 3-OH、Summed Feature 8（C18 : 1  ω7c および/または C18 : 1  ω6c）、C17 : 1  ω8c、C17 : 0、およびC12 : 0であった。主要な呼吸キノンはQ8（97.8%）であった。極性脂質には、アミノホスホリピッド、ホスファチジルエタノールアミン、ホスファチジルグリセロール、リン脂質、および未同定の脂質が含まれていた。RL-SH01T株のDNA G+C含有量は58.50 mol%であった。形態学的、生理学的、化学分類学的、およびゲノム学的根拠に基づき、RL-SH01T株はGallaecimonas属の新種であり、Gallaecimonas zhanjiangensis sp. nov. という名称が提案される。タイプ株はRL-SH01T（=MCCC 1K10613T=KCTC 18644T）である。一般に、本新種の発見はGallaecimonas属の遺伝資源を拡充し、その系統的多様性および生態学的分布に関する理解を広げるものである。"
   }
 ]
