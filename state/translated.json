@@ -228758,5 +228758,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Cell IO：単一細胞トランスクリプトームを、文献由来の細胞機能および摂動に関する知識に紐付けるデータベース",
     "abstract_ja": "概要  単一細胞トランスクリプトームデータベースは、細胞種がどの遺伝子を発現しているかを示すが、細胞種がどのような機能を担うのか、また遺伝子に摂動が生じた際に何が起こるのかについては、依然として文献全体に散在している。Cell IO (https://cell-io.riken.jp/) は、Cell Ontology 識別子を通じてこれら2種類の知見を結びつける。そのトランスクリプトームレイヤーでは、Sequence Read Archive のヒト、マウス、ラットを対象とした 10x Chromium の単一細胞および単一核 RNA-seq 実験を統一的なパイプラインで再処理し、由来組織で制限された Cell Ontology 用語を用いてクラスターにアノテーションを付与するとともに、すべての実験の細胞種構成と UMAP 埋め込みを保存している（現在は 14,931 件の実験と 8,290 万個の細胞）。文献レイヤーには、大規模言語モデルで抽出され、オープンアクセスの抄録、総説論文、および免疫学・神経科学分野の遺伝子摂動研究から二次的に検証された 895,258 件のクレームが格納されており、それぞれに原文の一文、ハイライトされたエンティティスパン、エビデンス強度、およびオントロジー正規化された細胞・遺伝子・コンテキストが含まれている。ウェブインターフェースでは、ユーザーが細胞種を名称、同義語、または識別子で検索したり、特定の細胞種が最も豊富に存在する実験を検索したり、各実験の構成と埋め込みを確認したり、ナレッジベース、方向、エビデンス強度、生物種に基づいて細胞種に関するクレームを閲覧・フィルタリングしたり、文献の一部で機能特性の記述が欠落している細胞種を特定したりすることができる。Cell IO は登録不要で無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762369",
+    "title": "TSNR: Protein-Specific Signals with Broad Molecular Context for Spatial Protein Prediction",
+    "abstract": "Spatial transcriptomics measures transcriptome-wide gene expression while preserving tissue organization, enabling prediction of spatial protein abundance beyond directly measured antibody panels. Such prediction draws on protein-specific transcript signals at the center spot and broader molecular context from the surrounding tissue. Existing spatial methods increasingly use context, but what molecular information the context should retain and how reliably it transfers across tissue environments remain unclear. We compare predictors that share a protein-specific center representation but differ in contextual molecular scope. Their transferred risk difference admits a value-mismatch characterization: broader context is favored when its target-side value advantage exceeds the corresponding change in source-to-target transfer mismatch. For convex prediction objectives, we further relate mismatch to cross-environment estimating-score variation; squared loss yields an explicit covariance geometry. This analysis motivates broad molecular context together with bounded-score robust regression. We develop Target-Specific Niche Regression (TSNR), which combines a protein-specific center representation, compact broad molecular context, and a protein-specific Huber regressor. On the six-section Spatial-CITE-seq benchmark, TSNR achieves the highest mean macro Spearman correlation among the reproduced methods under matched biological holdout evaluation. Controlled analyses support both broader context and robust regression. Across two independent external cohorts, protein-level broad-context gains are positively rank-correlated with the value-mismatch balance in all 11 held-out biological folds.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762369",
+    "date": "2026-11-02",
+    "authors": "Zhang X, Zhang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361219",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2510,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762369"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f14eb4d45532a9487351479dcfa9f23264b5a316ff63bcceea3815ceada02ed2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:51:56.275935+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e1b36b4f45068c5cee8072c059e58fa399354cb0ac77dd7bc9a074e287272efb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:51:56.275935+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TSNR: 空間的タンパク質予測のための広範な分子コンテキストを有するタンパク質特異的シグナル",
+    "abstract_ja": "空間トランスクリプトミクスは、組織構造を保持しつつトランスクリプトーム全域の遺伝子発現を測定し、直接測定した抗体パネルを超えた空間的なタンパク質存在量の予測を可能にする。こうした予測は、センタースポットにおけるタンパク質特異的な転写シグナルと、周囲組織からのより広範な分子コンテキストを活用する。既存の空間的手法ではコンテキストの利用が進んでいるが、コンテキストがどのような分子情報を保持すべきか、またそれが組織環境間でどの程度信頼性高く転移するかは依然として不明である。本研究では、タンパク質特異的なセンター表現を共有しつつ、コンテキストの分子範囲が異なる予測器を比較する。転移リスクの差から、値のミスマッチによる特性評価が可能となる。すなわち、ターゲット側の値の優位性が、ソースからターゲットへの転移ミスマッチの対応する変化を上回る場合に、より広範なコンテキストが有利に働く。凸型の予測目的関数を用い、さらにミスマッチを環境間の推定スコア変動に関連付けることで、損失の二乗により明示的な共分散幾何学が得られる。この解析により、広範な分子コンテキストと有界スコアロバスト回帰の併用が正当化される。我々は、タンパク質特異的なセンター表現、コンパクトな広範分子コンテキスト、およびタンパク質特異的なHuber回帰器を組み合わせたTarget-Specific Niche Regression (TSNR) を開発した。6セクションのSpatial-CITE-seqベンチマークにおいて、TSNRは、マッチングされた生物学的ホールドアウト評価下で、再現された手法の中で最高の平均マクロスピアマン相関を達成した。制御解析により、広範なコンテキストとロバスト回帰の双方が支持された。2つの独立した外部コホートにおいて、タンパク質レベルの広範コンテキストによる利得は、11の生物学的ホールドアウトフォールドすべてにおいて、値のミスマッチバランスと正の順位相関を示した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763100",
+    "title": "SpaceBlocks: an expert-supervised workflow for cohort-level spatial transcriptomics analysis",
+    "abstract": "Summary  Spatial transcriptomics (ST) has become a central tool in tissue biology, with multiple technologies addressing the issue from a different angle. Each platform imposes its own raw data format conventions, and few workflows address reproducible, scalable, cohort-level analyses while integrating expert-supervised decisions to strengthen computational and biological provenance. In this work, we present SpaceBlocks, a Snakemake workflow for reproducible cohort-level analysis of single-cell resolution-ST data that prioritizes expert supervision over full automation. SpaceBlocks homogenizes heterogeneous platform outputs into a common data format, whose structure is validated to ensure downstream processing. Comprehensive expert supervision is facilitated through per sample quality control and cell type annotation diagnostic visualizations, after which downstream analyses automatically follow. SpaceBlocks also allows the ingestion of technology-agnostic externally formatted data and provides interoperability with existing tools and technologies. We demonstrate the use of SpaceBlocks through the reanalysis of 37 samples from public Visium HD, Xenium 5K and MERSCOPE datasets. SpaceBlocks exhibited processing scalability across the three platforms. This reanalysis identified previously missed cell types in Visium HD and heterogeneous marker gene expression in MERSCOPE, highlighting the need for expert-supervised annotations. Moreover, SpaceBlocks facilitated the identification of differentially expressed genes associated with previously defined multiple sclerosis (MS) spatial domains in MERSCOPE, and transcriptional differences between healthy and malignant colorectal tissues in Visium HD. Together, these findings establish SpaceBlocks as a flexible and reproducible workflow for expert-supervised spatial transcriptomics analysis across technologies and biological cohorts. Availability and Implementation  SpaceBlocks is freely available under the MIT license on GitHub  https://github.com/cbib/SpaceBlocks and the official Snakemake catalog  https://snakemake.github.io/snakemake-workflow-catalog/docs/workflows/cbib/SpaceBlocks.html . SpaceBlocks v0.5.1 code, config files, and the public data formatting scripts used to reproduce the results from this study have been deposited in Zenodo (doi: 10.5281/zenodo.23378236).  Contact  macha.nikolski@u-bordeaux.fr ;  sergiooterino@usal.es Supplementary information  Supplementary information is available online. Conflict of interest: None declared.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763100",
+    "date": "2026-11-02",
+    "authors": "Oterino-Sogo S, Mechkouri N, García-Ruano D, Groppi A, Rezvani H, Nikolski M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355747",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "transcriptomic",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2520,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.763100"
+    ],
+    "translation": {
+      "title": {
+        "hash": "243f661863bc211d2d557d2f4003465bf87faaa2c1989bec0d796fa6fd07851f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:51:56.275935+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6ead21845f25e9c51f768e640ae87549afcbd4080f5be9a8c1087699efeb8d6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:51:56.275935+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SpaceBlocks：コホートレベルの空間トランスクリプトミクス解析のための専門家監修型ワークフロー",
+    "abstract_ja": "概要  空間トランスクリプトミクス（ST）は組織生物学における中核的なツールとなっており、複数の技術がそれぞれ異なるアプローチでこの課題に取り組んでいる。各プラットフォームは独自の生データ形式の規約を定めており、計算論的および生物学的な来歴を強化するための専門家による監督付きの意思決定を統合しつつ、再現性とスケーラビリティを備えたコホートレベルの解析を実現するワークフローは限られている。本研究では、完全な自動化よりも専門家による監督を優先した、シングルセル解像度のSTデータの再現性のあるコホートレベル解析のためのSnakemakeワークフロー「SpaceBlocks」を提案する。SpaceBlocksは、異種プラットフォームからの出力を共通のデータ形式に均質化し、その構造を検証することで後続処理の確実性を確保する。サンプルごとの品質管理と細胞種アノテーションの診断的可視化を通じて包括的な専門家による監督が容易になり、その後、後続の解析が自動的に行われる。また、SpaceBlocksは技術に依存しない外部形式のデータの取り込みを可能にし、既存のツールや技術との相互運用性を提供する。我々は、公開されているVisium HD、Xenium 5K、およびMERSCOPEデータセットの37サンプルを再解析することで、SpaceBlocksの有用性を実証した。SpaceBlocksは、これら3つのプラットフォームにわたって処理のスケーラビリティを示した。この再解析により、Visium HDではこれまで見逃されていた細胞種が、MERSCOPEでは異種マーカー遺伝子の発現が特定され、専門家による監督付きアノテーションの必要性が浮き彫りとなった。さらに、SpaceBlocksは、MERSCOPEにおいて以前に定義された多発性硬化症（MS）の空間ドメインに関連する発現変動遺伝子の同定、およびVisium HDにおける健常大腸組織と悪性大腸組織間の転写差異の同定を容易にした。これらの知見を総合すると、SpaceBlocksは、技術や生物学的コホートを横断して専門家による監督付きの空間トランスクリプトミクス解析を行うための、柔軟で再現性のあるワークフローであることが立証される。利用可能性と実装  SpaceBlocksは、GitHubのMITライセンス（https://github.com/cbib/SpaceBlocks）および公式のSnakemakeカタログ（https://snakemake.github.io/snakemake-workflow-catalog/docs/workflows/cbib/SpaceBlocks.html）の下で無料で利用可能である。SpaceBlocks v0.5.1のコード、設定ファイル、および本研究の結果を再現するために使用した公開データフォーマットスクリプトは、Zenodo（doi: 10.5281/zenodo.23378236）に寄託されている。  連絡先  macha.nikolski@u-bordeaux.fr ;  sergiooterino@usal.es 補足情報  補足情報はオンラインで入手可能である。利益相反：申告なし。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.1208.v3",
+    "title": "Should Dietary Planning Start from Energy? An Essential Amino Acid–First Framework",
+    "abstract": "Amino acids serve functions beyond protein synthesis. Genetic information is expressed largely through proteins assembled from them; they constitute structural proteins, enzymes and immune proteins, serve as precursors of neurotransmitters and act as signalling molecules. Nine of them, the essential amino acids (EAAs), cannot be synthesised by the human body and have no dedicated store, so the diet must supply them every day. Nevertheless, dietary planning starts from an energy target, partitioned among carbohydrate, fat and protein, and assumes that EAA requirements are met within the protein allowance. We argue that dietary planning should start from the EAAs. An energy-first plan is easily met with energy-dense foods that often lack other essential nutrients, and can leave one or more EAAs below requirement. Such diets may meet the EAA requirements only when much more food, and therefore energy, is eaten. Under energy restriction, as during weight loss, and in older adults or those eating only plant foods, the same sequence can leave the limiting EAA short. Starting from the EAAs removes this dependence. Meeting all nine from a single food with a high EAA content takes 10–53% of daily energy (2,000 kcal) in our examples; the remaining energy can be adjusted to individual needs and goals. This sequence also fits physiology: energy requirements fluctuate from day to day and are buffered by glycogen and adipose tissue, whereas EAA requirements scale with body weight. A plan should be anchored to the more stable target, with the more variable one adjusted to it. The framework has four steps: Select, Combine, Complete and Adjust. It concerns the sequence in which a diet is planned, not the order in which foods are eaten; it is neither a high-protein nor a supplement-based diet and uses ordinary foods within any dietary pattern.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.1208.v3",
+    "date": "2026-11-02",
+    "authors": "Duygu A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356001",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "amino acid",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "amino acid",
+          "framework"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2523,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.1208.v3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f508f570002d1d1d33d2ce995a81889fca888e6861f553f6855f97bc86fcb8f6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:51:56.275935+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6f271dcd0b32c22bb057580f468052fe3f8e9a5ee60af85d71557de21fae8612",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:51:56.275935+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食事計画はエネルギーから始めるべきか？必須アミノ酸優先のフレームワーク",
+    "abstract_ja": "アミノ酸はタンパク質合成以外にもさまざまな機能を担っている。遺伝情報は主にアミノ酸から組み立てられたタンパク質を通じて発現し、構造タンパク質、酵素、免疫タンパク質を構成するほか、神経伝達物質の前駆体やシグナル伝達分子としても機能する。このうち9種類、すなわち必須アミノ酸（EAA）は人体で合成できず、専用の貯蔵庫もないため、食事から毎日摂取する必要がある。しかしながら、食事計画は通常、炭水化物、脂質、タンパク質に配分されたエネルギー目標から始まり、タンパク質の許容量内でEAAの必要量を満たしていることを前提としている。我々は、食事計画はEAAから始めるべきであると主張する。エネルギー優先の計画は、他の必須栄養素を欠いていることが多いエネルギー密度の高い食品によって容易に達成でき、その結果、1種類以上のEAAが必要量を下回る可能性がある。このような食事では、はるかに多くの食品、ひいてはより多くのエネルギーを摂取して初めて、EAAの必要量を満たせる場合がある。減量時などのエネルギー制限下、あるいは高齢者や植物性食品のみを摂取している場合、同様の順序では制限となるEAAが不足することがある。EAAから始めることで、こうした依存性を排除できる。我々の例では、EAA含有量の高い単一の食品から9種類すべてを摂取するには、1日のエネルギー量（2,000 kcal）の10～53%が必要となる。残りのエネルギー量は、個々のニーズや目標に合わせて調整できる。この順序は生理学的にも整合している。エネルギー必要量は日によって変動し、グリコーゲンや脂肪組織によって緩衝される一方、EAAの必要量は体重に応じて変動する。計画はより安定した目標を軸とし、変動の大きい目標をそれに調整して組み込むべきである。この枠組みは、「選択（Select）」「組み合わせ（Combine）」「完了（Complete）」「調整（Adjust）」の4つのステップで構成される。これは食事を計画する際の順序に関するものであり、食品を食べる順番に関するものではない。また、高タンパク質食やサプリメントベースの食事ではなく、あらゆる食事パターンにおける通常の食品を用いるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.24.761590",
+    "title": "scRM: A single-cell foundation model trained on scRNA-seq reads",
+    "abstract": "Single-cell foundation models currently learn from gene count matrices, which are discretized, species-specific summaries that discard the RNA sequence, splice-site usage, 3  ′ UTR isoform identity and the mutational information present in the underlying sequencing reads. Here we introduce single-cell raw data pretraining, a framework that trains foundation models directly on sequencing reads, requiring no read alignment or count matrix, allowing any trained model to be applicable to arbitrary species.  Our first model in this framework, the single-cell read model scRM, pairs two transformer encoders with a hierarchy of attention pools and contains 1.2 million parameters. We trained it as a JEPA on 3,000 mouse neuron cells on a single H100 in one hour, and benchmarked it zero-shot against leading single-cell foundation models with orders of magnitude more parameters and training cells. Our results show that our lightweight model reaches the performance of existing models on all tasks, and exceeds every one of them on perturbation detection tasks whose detection requires sequence-level detail. To our knowledge, scRM is the first single-cell foundation model trained on sequencing reads, demonstrating that raw data pretraining is not only feasible but competitive at a fraction of the computational cost. We anticipate that scaling this framework and exploring alternative architectures will unlock biological information inaccessible to count models and extend the dataset-specific pretraining it already makes possible. The source code is available at  https://github.com/altoslabs/scRM .",
+    "journal": "",
+    "doi": "10.64898/2026.10.24.761590",
+    "date": "2026-11-02",
+    "authors": "He D, Patro R, Nassar M, Wu H, Yan Q, Xu G, Torkenczy K, Liu J, Tyanova S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357830",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "alignment",
+        "framework",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "alignment",
+          "framework",
+          "sequencing"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2547,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.24.761590"
+    ],
+    "translation": {
+      "title": {
+        "hash": "931916331a2bdf1f8f95578b4978cf40f99a46cd469b99fa8d3541c4cbe0a6dc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:51:56.275935+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4f2a2a321c29dc74d34d1109929d5beb3c1a2fe236620d1cac969dcb7dcf94b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:51:56.275935+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scRM: scRNA-seqリードで学習したシングルセル基盤モデル",
+    "abstract_ja": "シングルセル基盤モデルは現在、遺伝子カウント行列から学習を行っている。この行列は、RNA配列、スプライス部位の利用状況、3' UTRアイソフォームの同一性、および基盤となるシーケンシングリードに含まれる変異情報を排除した、種特異的な要約を離散化したものである。本稿では、シーケンシングリードを用いて直接基盤モデルを学習させるフレームワークである「シングルセル生データ事前学習」を提案する。本手法はリードアライメントやカウント行列を必要とせず、学習済みモデルを任意の種に適用可能にする。本フレームワークにおける最初のモデルであるシングルセルリードモデルscRMは、2つのTransformerエンコーダを階層的なアテンションプールで組み合わせた構成となっており、120万個のパラメータを有する。我々はこれをJEPAとして、単一のH100上の3,000個のマウス神経細胞を用いて1時間で学習させ、パラメータ数および学習細胞数が数桁多い主要なシングルセル基盤モデルとゼロショットでベンチマーク評価を行った。その結果、我々の軽量モデルはすべてのタスクにおいて既存モデルと同等の性能に達し、シーケンスレベルの詳細を必要とする摂動検出タスクではそれらすべてを上回ることが示された。我々の知る限り、scRMはシーケンシングリードを用いて学習された初のシングルセル基盤モデルであり、生データ事前学習が実現可能であるだけでなく、計算コストを大幅に抑えて競争力を持つことを実証している。今後、このフレームワークをスケールさせ、代替アーキテクチャを模索することで、カウントモデルではアクセスできない生物学的情報を明らかにし、既に可能となっているデータセット固有の事前学習をさらに拡張できると期待している。ソースコードは https://github.com/altoslabs/scRM で公開されている。"
   }
 ]
