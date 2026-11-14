@@ -202642,5 +202642,323 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ハイブリッド機械学習と速度論的モデリングを用いたCaTiO 3におけるほぼ完全なブリリアントグリーン光劣化の不確かさを考慮した予測",
     "abstract_ja": "要旨    ブリリアントグリーン（BG）は残留性カチオン性色素であり、光透過率の低下、光合成の阻害、微生物活性の変化、および毒性の発現を通じて水圏環境に悪影響を及ぼす可能性がある。BGの分解は相互作用する運転条件に依存するため、正確な予測と最適化は依然として困難な課題である。本研究では、統合的な機械学習および速度論的フレームワークを用いて、既報のCaTiO₃光触媒に関する90件の観測データを解析した。Extra Trees、Random Forest、Gradient Boosting、CatBoost、XGBoost、HistGradientBoosting、SVR、GPR、KNN、Elastic Net、Ridge、およびPLSRの12種類の回帰モデルをベイズ探索を用いて最適化し、5分割交差検証およびホールドアウトテストにより評価した。XGBoostが最高の個別性能を示し、平均CV R²は0.9844、テストR²は0.9796であった。XGBoost-GPRハイブリッドモデルはテストR²を0.9809まで向上させ、RMSEおよびMAEはそれぞれ3.4058および2.4556であった。SHAP解析により、分解時間が最も重要な予測因子であることが特定された。実測除去率は89.53%にとどまったため、直接的なモデルではほぼ完全な分解を確実に予測することはできなかった。そこで、SVRを用いて擬似一次速度定数をモデル化した。本フレームワークでは、CaCO₃/TiO₂比2:7、触媒量200 mg、BG濃度10 ppmの条件において、275.6分で99.9%の除去率が得られることが特定された。ブートストラップ不確実性解析の結果、時間の中央値は251.7分であった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11267566/v1",
+    "title": "Comparative evaluation of molecular assays for detection of Orientia tsutsugamushi in patients with acute febrile illness in Western Odisha",
+    "abstract": "Abstract  Scrub typhus is an important cause of acute febrile illness in India, but diagnosis may be difficult because molecular detection of Orientia tsutsugamushi and the host antibody response occur over different phases of infection. We compared four molecular assays targeting three genomic regions in 71 hospitalized patients with acute undifferentiated fever in Western Odisha. All patients were tested by IgM ELISA and by TSA-56 quantitative PCR (qPCR), 16S rRNA qPCR, 16S rRNA conventional PCR (cPCR), and GroEL cPCR. Using IgM ELISA as the reference comparator, 16S rRNA qPCR showed the strongest overall performance, with 78.6% sensitivity, 95.3% specificity, 88.7% accuracy and substantial agreement (κ = 0.758). TSA-56 qPCR showed 67.9% sensitivity, 95.3% specificity, 84.5% accuracy and κ = 0.661. GroEL cPCR showed 78.6% sensitivity, 81.4% specificity, 80.3% accuracy and κ = 0.592, whereas 16S rRNA cPCR had the lowest sensitivity (50.0%), accuracy (74.6%) and agreement (κ = 0.434). Comparative ROC analysis showed the highest AUC for 16S rRNA qPCR (0.870), followed by TSA-56 qPCR (0.816), GroEL cPCR (0.800) and 16S rRNA cPCR (0.703). These findings suggest that real-time PCR, particularly 16S rRNA qPCR, may provide useful complementary information to serology for scrub typhus detection. The results should be interpreted as agreement with an IgM ELISA comparator rather than definitive diagnostic accuracy.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11267566/v1",
+    "date": "2026-11-10",
+    "authors": "Panda RK, Dash PM, Rao BM, Mohanty SR, Behera AK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362855",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4068,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11267566/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "12cb84035915b6b51e81a654311a23355ddf2b98e2e95e181e5bffe346b24ac8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:11:19.745626+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e1326ed8c1ce4189413cb10384ec4d8a880edf7ba8d3e3ab30c38b9ee4484d6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:11:19.745626+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "西オディシャ州の急性熱性疾患患者におけるオリエンティア・ツツガムシ検出のための分子アッセイの比較評価",
+    "abstract_ja": "要旨　ツツガムシ病はインドにおける急性熱性疾患の主要な原因であるが、オリエンティア・ツツガムシの分子検出と宿主抗体応答が感染の異なる段階で生じるため、診断が困難な場合がある。本研究では、西オディシャ州の急性未分化熱で入院した患者71例を対象に、3つのゲノム領域を標的とした4種類の分子アッセイを比較した。全例に対し、IgM ELISAならびにTSA-56定量PCR（qPCR）、16S rRNA qPCR、16S rRNA従来型PCR（cPCR）、およびGroEL cPCRによる検査を実施した。IgM ELISAを基準比較法とした結果、16S rRNA qPCRが全体として最も優れた性能を示し、感度78.6%、特異度95.3%、正診率88.7%、および高い一致率（κ = 0.758）を記録した。TSA-56 qPCRは感度67.9%、特異度95.3%、正診率84.5%、κ = 0.661であった。GroEL cPCRは感度78.6%、特異度81.4%、正診率80.3%、κ = 0.592であった一方、16S rRNA cPCRは感度（50.0%）、正診率（74.6%）、および一致率（κ = 0.434）が最も低かった。比較ROC解析の結果、16S rRNA qPCRが最も高いAUC（0.870）を示し、次いでTSA-56 qPCR（0.816）、GroEL cPCR（0.800）、16S rRNA cPCR（0.703）の順であった。これらの知見は、リアルタイムPCR、特に16S rRNA qPCRが、ツツガムシ病の検出において血清学的検査を補完する有用な情報を提供し得ることを示唆している。本結果は、確定的な診断精度というよりも、IgM ELISAという比較法との一致として解釈されるべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.09.765303",
+    "title": "EMtrace: offline nanopore metagenomics on a laptop for rapid viral diagnostics, genome recovery and 16S profiling",
+    "abstract": "Nanopore sequencers produce reads within minutes, but metagenomic analysis remains challenging where internet access is limited, data are sensitive or computing resources are modest. EMtrace is an offline pipeline that runs on a laptop during sequencing: it classifies MinKNOW reads, estimates taxon abundance by expectation-maximization (EM) and assembles reference-based consensus genomes. We benchmarked it against five virome and four 16S rRNA tools on simulated, mock-community and clinical data. On field isolates and 16 SARS-CoV-2 clinical samples, EMtrace had the highest species-level F1 score (1.00 and 0.97) and one false-positive species, against 3-7 for the comparators. It recovered divergent viruses as completely as ViMOP, and low-titre field libraries more completely, at ≥99.7% identity. In replayed runs, it identified the target virus in the first 4,000-read batch (5-13 min). With a shared 16S reference, EMtrace reported two to three times fewer false-positive species than Emu.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765303",
+    "date": "2026-11-10",
+    "authors": "Weinstein I, Smura T, Leppanen O, Krupińska M, Vauhkonen H, Sironen T, Grzybek M, Vapalahti O, Kant R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1364916",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4095,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.09.765303"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2fe211edc2847f3c0588eee0d437fec86ead53970be9c6f11f90579f2267e159",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:11:19.745626+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf2c7ca92a3f0f19688ce521f1b2ec0ac863dfd4f9e87042588fd2864a14beb5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:11:19.745626+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "EMtrace：迅速なウイルス診断、ゲノム回収、および16SプロファイリングのためのノートPCによるオフラインナノポアメタゲノム解析",
+    "abstract_ja": "ナノポアシーケンサーは数分でリードを生成するが、インターネットアクセスが制限されている環境、データが機密性の高い場合、あるいは計算リソースが限られている状況では、メタゲノム解析は依然として困難な課題である。EMtraceは、シーケンシング中にノートパソコン上で動作するオフラインパイプラインであり、MinKNOWリードの分類、期待値最大化（EM）法による分類群の存在量推定、およびリファレンスに基づくコンセンサスゲノムのアセンブルを行う。我々は、シミュレーションデータ、モックコミュニティデータ、および臨床データを用いて、5種類のビロームツールおよび4種類の16S rRNAツールとベンチマーク評価を行った。フィールド分離株および16例のSARS-CoV-2臨床検体において、EMtraceは種レベルのF1スコアが最も高く（1.00および0.97）、偽陽性種は1例であったのに対し、比較対象ツールでは3〜7例であった。本ツールは、ViMOPと同等に完全に分岐ウイルスを検出し、低力価のフィールドライブラリについては99.7%以上の同一性でより完全に検出した。再実行においては、最初の4,000リードのバッチ（5〜13分）で標的ウイルスを同定した。共通の16Sリファレンスを用いた場合、EMtraceはEmuよりも偽陽性種を2〜3倍少なく報告した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11319580/v1",
+    "title": "Soil nitrogen availability reveals contrasting and genotype-dependent microbiome assembly strategies in eggplant ​",
+    "abstract": "Abstract    Aims  Plant genotype and nutrient availability are key drivers of root microbiome assembly, yet their relative contribution remains poorly understood in eggplant (  Solanum melongena  L.). Methods  In this study, root-associated bacterial communities from four eggplant genotypes, grown under contrasting nitrogen regimes, were characterized using a combined culture-dependent and 16S rRNA gene amplicon sequencing approach. Results  Across all genotypes, Proteobacteria dominated the root microbiome, while host genotype emerged as the primary determinant of bacterial diversity and community structure. Nitrogen availability acted as a secondary but consistent environmental driver, reshaping community composition and promoting the enrichment of Actinobacteriota under fertilized conditions. Genotypes did not differ in whether their microbiomes responded to nitrogen, but rather in the magnitude of community restructuring, revealing a continuum from highly constrained to more plastic microbial assemblages. Notably, one genotype maintained a stable Bacillus-dominated microbiome regardless of nitrogen availability, suggesting strong host-mediated filtering. Predicted functional profiles mirrored taxonomic differences, particularly for nitrogen-cycling and organic matter degradation functions. The integration of culture-dependent isolation generated a representative collection of dominant bacterial taxa, providing a valuable resource for future functional studies. Conclusions  Overall, these findings demonstrate that eggplant genotype plays a central role in shaping root microbiome assembly and its responsiveness to nutrient availability, highlighting the potential of microbiome-informed approaches for improving nutrient-use efficiency and crop performance.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11319580/v1",
+    "date": "2026-11-10",
+    "authors": "Guaschino M, Toppino L, Tassone MR, Rotino GL, Salamone F, Narduzzo A, Cacco G, Chitarra W, Nerva L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362950",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Bacillus",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4116,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11319580/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "933a624f13eec910bc8f2e42078e0a63a50d00c1f5bdef22b07e142c463df4c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:11:19.745626+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "446478e5229ef83ace81009e70bb4788d5ecd2feb03ba8d7a443197324548b95",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:11:19.745626+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "土壌窒素利用能が示す、ナスにおける対照的かつ遺伝子型依存的な微生物叢構築戦略",
+    "abstract_ja": "要旨    目的  植物の遺伝子型と養分利用可能性は、根マイクロバイオーム形成の主要な駆動要因であるが、ナス（Solanum melongena L.）における両者の相対的な寄与については十分に解明されていない。方法  本研究では、対照的な窒素施肥条件下で栽培した4つのナス遺伝子型から得られた根関連細菌群集を、培養依存的シーケンシングと16S rRNA遺伝子アンプリコンシーケンシングを組み合わせた手法を用いて特性解析した。結果  すべての遺伝子型において、根マイクロバイオームではプロテオバクテリアが優占しており、宿主遺伝子型が細菌多様性と群集構造の主要な決定要因であることが明らかになった。窒素利用可能性は二次的ながらも一貫した環境駆動要因として作用し、群集組成を変化させ、施肥条件下ではアクチノバクテリウム門の富集を促進した。マイクロバイオームの窒素応答性に遺伝子型間の差は認められず、むしろ群集再構成の程度に差異が見られたことから、極めて制約された微生物群集からより柔軟な微生物群集に至る連続的なスペクトラムが存在することが示された。特筆すべきは、ある遺伝子型では窒素利用可能性に関わらずバチルス属が優占する安定したマイクロバイオームが維持されていた点であり、宿主を介した強力なフィルタリングが示唆された。予測された機能プロファイルは分類学的な差異を反映しており、特に窒素循環および有機物分解機能において顕著であった。培養依存的単離法の統合により、優占細菌分類群の代表的なコレクションが得られ、今後の機能研究にとって貴重なリソースとなった。結論  総じて、これらの知見は、ナスの遺伝子型が根マイクロバイオームの形成および養分利用可能性への応答において中心的な役割を果たしていることを示しており、養分利用効率と作物収量を向上させるための、マイクロバイオーム情報に基づくアプローチの可能性を浮き彫りにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11417332/v1",
+    "title": "An index of oral-type gut genera is associated with lower muscle mass and with 3- year muscle loss in community-dwelling older adults: a cohort study",
+    "abstract": "Abstract  Background  Evidence on the gut-muscle axis is mostly cross-sectional and framed around microbial diversity. We examined whether a prespecified index of oral-type gut genera — organisms normally resident in the mouth whose faecal appearance marks a failing gastric acid barrier — was associated with muscle mass, muscle function and subsequent 3-year muscle loss. Methods  In the Kyotango Longevity Cohort Study, 782 community-dwelling adults aged 65 or older had faecal 16S rRNA profiling and a muscle assessment; 493 were reassessed a mean of 3.35 years later. Exposures were alpha diversity, community composition, 130 genera, and an index prespecified as the mean standardised centred log-ratio abundance of Streptococcus, Veillonella, Fusobacterium, Granulicatella, Actinomyces, Rothia and Haemophilus. Appendicular skeletal muscle mass (ASM) was the primary outcome; ASM/height², ASM/BMI, grip strength, knee extension strength and gait speed were secondary, with the false discovery rate controlled across them and across change in each at follow-up. Covariates were entered in five prespecified blocks, ending with gastrointestinal medication, constipation and disease. Longitudinal models were repeated with censoring weights. Results  Per 1 SD of the index, ASM was lower by 0.075 SD (95% CI 0.034 to 0.116) adjusted for age, sex and survey year, and by 0.067 SD (0.029 to 0.105) fully adjusted. Every secondary outcome survived correction except grip strength (q = 0.102): ASM/BMI − 0.059, gait speed − 0.088, ASM/height² -0.046 and knee extension − 0.067 (all q ≤ 0.026). Annual change in ASM was − 0.125%/year (-0.235 to -0.015) fully adjusted and − 0.180%/year (-0.292 to -0.067) weighted, but change in grip strength, knee extension strength and gait speed was unrelated to the index (q = 0.36 to 0.88), as was change in every diversity measure. Proton pump inhibitor use raised the index by 0.49 SD (0.18 to 0.81); no inflammatory marker was associated with it. Conclusions  An index of oral-type gut genera was associated with lower muscle mass, weaker knee extension and slower gait, and with subsequent loss of muscle mass but not of strength or speed; diversity was associated with none of these. The associations are small and observational. The gut-muscle axis may be better studied at taxonomic resolution and against continuous measures.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11417332/v1",
+    "date": "2026-11-10",
+    "authors": "Naito Y, Kitae H, Mizushima K, Ouchi N, Adachi A, Kamitani T, Yamamoto T, Narumoto J, Kitani T, Matoba S, Inoue R, Takagi T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363315",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4169,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11417332/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c757dd940ba688cd7b5cdeb08130f8997bb8204f818d0d2ac09eb4cc98de8e16",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:11:19.745626+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "419a3d8ec4b97ee119bc672bfe8fed6761e5a24688c9beb14a3650376bb5b33e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:11:19.745626+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "地域在住高齢者における口腔型腸内細菌叢指数と筋肉量の減少および3年間の筋肉量減少との関連：コホート研究",
+    "abstract_ja": "要旨  背景  腸管-筋軸に関するエビデンスの多くは横断的なものであり、微生物多様性を軸として構成されている。本研究では、口腔型腸内細菌属（通常は口腔内に常在し、糞便中の出現が胃酸バリアの機能不全を示す生物）の事前規定された指標が、筋肉量、筋機能、およびその後の3年間の筋量減少と関連しているかを検討した。方法  京丹後長寿コホート研究において、地域在住の65歳以上の成人782名を対象に、糞便16S rRNAプロファイリングおよび筋評価を実施した。そのうち493名を平均3.35年後に再評価した。曝露因子は、アルファ多様性、地域構成、130属、およびStreptococcus、Veillonella、Fusobacterium、Granulicatella、Actinomyces、Rothia、Haemophilusの平均標準化中心化対数比存在量として事前規定された指標とした。付属骨格筋量（ASM）を主要アウトカムとし、ASM/身長²、ASM/BMI、握力、膝伸展筋力、および歩行速度を副次アウトカムとした。これらの副次アウトカム間、および追跡調査における各アウトカムの変化量について、偽発見率を制御した。共変量は5つの事前規定ブロックで入力され、最後に消化管薬、便秘、および疾患のブロックを設けた。縦断モデルは、打ち切り重み付けを用いて反復解析した。結果  指標の1 SDあたり、ASMは年齢、性別、および調査年で調整後で0.075 SD（95% CI 0.034～0.116）、完全調整後で0.067 SD（0.029～0.105）低かった。握力（q = 0.102）を除き、すべての副次アウトカムが補正後も有意であった：ASM/BMI − 0.059、歩行速度 − 0.088、ASM/身長² −0.046、膝伸展筋力 − 0.067（すべてq ≤ 0.026）。ASMの年間変化量は、完全調整後で− 0.125%/年（-0.235～-0.015）、重み付け後で− 0.180%/年（-0.292～-0.067）であったが、握力、膝伸展筋力、および歩行速度の変化は指標と関連せず（q = 0.36～0.88）、すべての多様性指標の変化も同様であった。プロトンポンプ阻害薬の使用により指標は0.49 SD（0.18～0.81）上昇したが、炎症マーカーとの関連は認められなかった。結論  口腔型腸内細菌属の指標は、筋肉量の減少、膝伸展筋力の低下、および歩行速度の低下、ならびにその後の筋肉量の減少（筋力や速度の減少は伴わない）と関連していた。多様性はこれらのいずれとも関連していなかった。これらの関連性は小さく、観察的なものである。腸管-筋軸については、分類学的解像度を用い、かつ連続的な指標を用いて検討する方が適切であると考えられる。"
   }
 ]
