@@ -218056,5 +218056,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヒト疾患バリアント解釈における進化的証拠：比較ゲノミクスのためのメカニズム優先型フレームワーク",
     "abstract_ja": "ヒト疾患関連変異の解釈は、配列変化が疾患関連メカニズムを阻害するかどうかを信頼性をもって立証できる単一のエビデンスタイプが存在しないため、依然として困難な課題である。この問題に対処するため、特に進化的保存性と制約を通じて比較ゲノミクスが広く用いられているが、比較シグナルの生物学的意義や証拠価値は、遺伝子、変異、および疾患メカニズムによって大きく異なる場合がある。本クリティカル・ナラティブ・レビューでは、進化的エビデンスがヒト疾患変異の解釈を真に改善する場合と、誤解を招く場合について検討する。我々は、進化的距離、オーソロジー、アライメント品質、集団変異、遺伝子・疾患妥当性、表現型、機能的アッセイ、トランスクリプトミクス、および構造情報に関連して、コーディング配列および非コーディング配列における保存性と制約を評価する。我々は、進化的エビデンスを病原性の直接的な指標ではなく、条件付きエビデンス層として扱うべきであると主張する。さらに、保存性指標やCADD、REVEL、AlphaMissenseなどの計算論的予測モデルは、重複する進化データ、アノテーション、または臨床ラベルに基づいている可能性があるため、「証拠依存性」が過信を招く過小評価された要因であることを指摘する。これらの限界に対処するため、我々は、まず関連する疾患メカニズムと転写産物を定義し、次に検証対象とする生物学的主張に応じて比較エビデンスを選択し、追加のエビデンスが真に独立した情報を提供するかどうかを評価するという「メカニズム優先」のフレームワークを提案する。このフレームワークでは、系統特異的な機能、調節ターンオーバー、祖先系統、参照バイアス、構造変異、パンゲノム、および新たな配列ベースモデルも考慮する。結論として、進化的エビデンスは、配列類似性から臨床的因果関係へのショートカットとして機能するのではなく、特定のメカニズム上の疑問の解決、機能的調査のための変異の同定、あるいは一貫した解釈の補強に役立つ場合に、最も有益な情報を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10810674/v1",
+    "title": "Strain-resolved comparative genomics and functional characterization of culturable lactic acid bacteria from Guizhou sour soup",
+    "abstract": "Abstract    Guizhou sour soup is a traditional fermented food and a reservoir of diverse lactic acid bacteria (LAB), yet the strain-resolved genomic architecture and functional heterogeneity of its culturable LAB remain poorly defined. We established a large culture collection and integrated comparative genomics with targeted analyses of bile salt hydrolase (BSH), exopolysaccharide/capsular polysaccharide (EPS/CPS) loci, genomic safety, and in vitro phenotypes to evaluate strain-level diversity and identify traits relevant to functional strain selection. Among 1,741 culturable isolates recovered from red and white sour soups, Lactobacillales accounted for 85.69% and 95.24%, respectively. Whole-genome sequencing of 172 isolates, comprising 92  Lacticaseibacillus paracasei  , 30  Lactiplantibacillus plantarum  , and 50  Limosilactobacillus fermentum  , revealed open pan-genomes with distinct species-level functional architectures.  L. paracasei  showed the greatest accessory-genome contribution,  L. plantarum  the highest mean normalized BSH representation, and  L. fermentum  distinct oxidative-stress- and amino-acid-associated profiles. No antimicrobial resistance or virulence-associated genes were detected at the applied screening thresholds. BSH analyses showed lineage-specific sequence variation but conserved catalytic Cys2 and ligand-proximal architecture, whereas EPS/CPS loci varied among species and strains. Cholesterol removal was strongly strain- and condition-dependent:  L. paracasei  R1156 reached 71.69 ± 4.84% in standard MRS, while  L. plantarum  R2345, R2037, R1621, and R203 maintained 56.85–64.32% removal under 0.1% bile salts, exceeding the reference strain  Lacticaseibacillus rhamnosus  GG (LGG). These findings establish a strain-resolved genomic and phenotypic resource and demonstrate the value of integrating comparative genomics with direct phenotypic screening for rational selection of food-associated LAB for further biotechnological evaluation.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10810674/v1",
+    "date": "2026-11-04",
+    "authors": "bai f, wang n, liu y, wen q, hu c, zhu s, mou r, yang r, han y, luo p.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358020",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2493,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10810674/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "293ebdc8802ecb54207b2f6932f617f89f9ad639e55b3130842347e5c46dda12",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:56:03.344376+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f75836c108c50da96523709e96da47fa1402156ee40ce9f2f6b891a54a741d97",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:56:03.344376+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "貴州酸湯由来の培養可能乳酸菌の菌株解析に基づく比較ゲノミクスおよび機能特性解析",
+    "abstract_ja": "要旨    貴州酸湯は伝統的な発酵食品であり、多様な乳酸菌（LAB）の宝庫であるが、培養可能なLABの菌株レベルで解析されたゲノム構造および機能的多様性については、いまだ十分に解明されていない。本研究では、大規模な培養コレクションを構築し、比較ゲノミクスを、胆汁酸塩加水分解酵素（BSH）、エキソ多糖類／莢膜多糖類（EPS/CPS）遺伝子座、ゲノム安全性、およびin vitro表現型の標的解析と統合することで、菌株レベルの多様性を評価し、機能的菌株選抜に関連する形質を同定した。赤酸湯および白酸湯から回収された1,741株の培養可能分離株のうち、ラクトバシラス目（Lactobacillales）がそれぞれ85.69%および95.24%を占めた。Lacticaseibacillus paracasei 92株、Lactiplantibacillus plantarum 30株、およびLimosilactobacillus fermentum 50株からなる172株の全ゲノム配列解析により、種レベルで異なる機能的構造を持つオープンな汎ゲノムが明らかになった。L. paracaseiは補助ゲノムの寄与が最も大きく、L. plantarumは平均正規化BSH代表性が最も高く、L. fermentumは酸化ストレスおよびアミノ酸に関連する特徴的なプロファイルを示した。適用したスクリーニング閾値において、薬剤耐性遺伝子や病原性関連遺伝子は検出されなかった。BSH解析では、系統特異的な配列変異が認められた一方で、触媒Cys2およびリガンド近傍構造は保存されていたが、EPS/CPS遺伝子座は種や菌株間で異なっていた。コレステロール除去は菌株および条件に強く依存しており、L. paracasei R1156は標準MRSにおいて71.69 ± 4.84%に達したのに対し、L. plantarum R2345、R2037、R1621、およびR203は0.1%未満の胆汁酸塩条件下で56.85–64.32%の除去率を維持し、参照株であるLacticaseibacillus rhamnosus GG (LGG) を上回った。これらの知見は、菌株レベルで解析されたゲノムおよび表現型リソースを確立するものであり、さらなるバイオテクノロジー的評価に向けた食品関連LABの合理的選抜において、比較ゲノミクスと直接表現型スクリーニングを統合することの有用性を実証するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0343.v1",
+    "title": "Amino Acid Metabolic Flexibility: A Framework for Locating Anabolic Resistance in Aging and Obesity-Related Insulin Resistance",
+    "abstract": "Anabolic resistance, a reduced muscle protein synthetic response to protein or exercise, is reported in older adults and in people with obesity and insulin resistance. Yet it is still measured with one readout: the increment in muscle protein synthesis over a few hours after a single dose. This review makes four contributions. First, it identifies five impasses: single doses confound sensitivity with maximal responsiveness; most of an ingested meal goes untracked; breakdown is rarely measured; individual reproducibility is unknown; and acute responses are not validated predictors of muscle mass. Second, it proposes amino acid metabolic flexibility as a disposal framework in which an attenuated response can arise through four routes: reduced delivery, impaired sensing and translation, competing oxidative disposal, and impaired antiproteolysis. Third, it treats exercise as a probe as well as a stimulus, because whether prior exercise corrects a deficit helps to locate it. Fourth, applying the framework to aging and obesity-related insulin resistance suggests that similar synthetic phenotypes arise through different routes and yields a testable hypothesis: that insulin resistance diverts absorbed amino acids toward oxidation. A multidomain, repeated-measures design to test these predictions is outlined.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0343.v1",
+    "date": "2026-11-04",
+    "authors": "Nunes EA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360064",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "amino acid",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "amino acid",
+          "framework"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2495,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202611.0343.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d60f9987b41744aa347314f6685a0ea9f812b0b28ad4fdd5b77ec5e501fd50de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:56:03.344376+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e4cd23ef2881972025872a40cf07a7e97d9d2838d67562c1177a5a3943184032",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:56:03.344376+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アミノ酸代謝の柔軟性：加齢および肥満関連インスリン抵抗性における同化抵抗性の同定に向けた枠組み",
+    "abstract_ja": "同化抵抗性、すなわちタンパク質や運動に対する筋タンパク質合成反応の低下は、高齢者や肥満およびインスリン抵抗性を有する人々において報告されている。しかしながら、その測定は依然として、単回投与後数時間における筋タンパク質合成の増加量という単一の指標のみで行われている。本総説では4つの知見を提示する。第一に、5つの限界点を特定する。すなわち、単回投与が感受性と最大反応性を混同させること、摂取した食事の大部分が追跡されないこと、分解が測定されることは稀であること、個人間の再現性が不明であること、そして急性反応が筋量の妥当な予測因子ではないことである。第二に、アミノ酸代謝の柔軟性を排出メカニズムとして提唱し、減弱した反応が4つの経路――供給量の減少、感知および翻訳の障害、競合的な酸化的排出、および抗タンパク質分解の障害――を通じて生じ得ることを示す。第三に、運動を刺激であると同時にプローブとして扱う。なぜなら、事前の運動が欠損を是正するかどうかが、欠損部位の特定に役立つからである。第四に、この枠組みを加齢および肥満関連のインスリン抵抗性に適用すると、同様の合成表現型が異なる経路を通じて生じることが示唆され、インスリン抵抗性が吸収されたアミノ酸を酸化へと誘導するという検証可能な仮説が得られる。これらの予測を検証するための、マルチドメイン・反復測定デザインの概要を述べる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.01.763475",
+    "title": "An end-to-end in silico framework for truth-based validation and regression testing of clinical genome sequencing pipelines, from simulated reads to reportable findings",
+    "abstract": "Clinical genome sequencing pipelines change often, and each change requires proportionate revalidation. Guidelines accept in silico data as a supplement but leave variant interpretation outside pipeline validation, and, to our knowledge, no framework tests a pipeline against a known truth up to the reportable finding, so report specificity is not measured. We present a source-available framework that tests a pipeline end to end, from sequencing reads to the report, against a truth fixed before any run. It plants expert-curated pathogenic and benign variants from the same genes, and optionally synthetic variants that no database holds, into the GIAB HG002 germline background and records the expected class and report decision of each variant. It then simulates reads and runs secondary and tertiary analysis as black boxes through exchangeable adapters. Findings are compared with the truth at the call-set and report levels, each failure is assigned to the first pipeline stage where it appears, and a variant-by-variant comparison of two runs serves as a regression test. We applied the framework to nf-core/sarek with DeepVariant and to the ACMG/AMP classifier BIAS-2015, using 243 ClinGen-curated variants in five test sets. Single-nucleotide variant recall against the HG002 benchmark was 99.5% on simulated and 99.3% on real reads, and every planted variant was present in the reads and called with the correct genotype. The report included 115 of 117 pathogenic and likely pathogenic variants (98.3%) but withheld only 106 of 126 variants that must not be reported (84.1%), mainly because variants of uncertain significance were upgraded and recessive carriers were reported. Without ClinVar-derived criteria, report sensitivity fell to 74.4%. Most false reports of one test set came from diploid calling of the male chromosome X, and haploid calling removed them without side effects. In supplementary experiments, indels were called completely up to 20 bp, and BIAS-2015 left 74% of synthetic loss-of-function variants unreported because it combined criteria by the 2015 rules. The framework measures report-level sensitivity and specificity and localizes regressions, so it can supplement validation on human samples and support change control.",
+    "journal": "",
+    "doi": "10.64898/2026.11.01.763475",
+    "date": "2026-11-04",
+    "authors": "Dvorský B, Komárková M, Kollinová K, Klempíř O, Krupička R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358811",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genome",
+        "pipeline",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2504,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.01.763475"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2504fa2f3b81380045078d3bd43761b3cfa6f169c9d57187c2b83ef6ca09c247",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:56:03.344376+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b33be0d4f651396a385ca179ba00d4605931d8cec5c1c4c3a0cb672da623c08c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:56:03.344376+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シミュレーションリードから報告可能な知見に至るまで、臨床ゲノムシーケンシングパイプラインの真実ベースの検証および回帰検定のためのエンドツーエンドのin silicoフレームワーク",
+    "abstract_ja": "臨床ゲノムシーケンシングパイプラインは頻繁に変更され、そのたびに相応の再検証が必要となる。ガイドラインではin silicoデータを補足情報として認めているが、変異の解釈についてはパイプラインの検証範囲外としており、我々の知る限り、報告可能な所見に至るまでパイプラインを既知の正解データと照合して検証するフレームワークは存在しないため、報告の特異性は測定されていない。本研究では、シーケンシングリードから報告書に至るまで、実行前に固定された正解データに対してパイプラインをエンドツーエンドで検証する、ソースが利用可能なフレームワークを提案する。本フレームワークは、専門家がキュレーションした同一遺伝子由来の病原性および良性変異、および任意でデータベースに存在しない合成変異をGIAB HG002生殖細胞系列背景に組み込み、各変異の期待されるクラスと報告判定を記録する。その後、リードをシミュレートし、交換可能なアダプターを介して二次および三次解析をブラックボックスとして実行する。所見はコールセットおよび報告レベルで正解データと比較され、各失敗はそれが出現した最初のパイプライン段階に割り当てられ、2回の実行における変異ごとの比較が回帰検定として用いられる。本フレームワークを、DeepVariantを用いたnf-core/sarekおよびACMG/AMP分類器BIAS-2015に適用し、5つのテストセットにおいてClinGenがキュレーションした243個の変異を使用した。HG002ベンチマークに対する一塩基変異の再現率は、シミュレーションリードで99.5%、実リードで99.3%であり、組み込まれたすべての変異がリードに存在し、正しい遺伝子型でコールされた。報告書には、病原性および病原性の可能性が高い変異117個のうち115個（98.3%）が含まれたが、報告してはならない126個の変異のうち106個（84.1%）は除外された。これは主に、意義が不確実な変異が格上げされ、劣性保因者が報告されたためである。ClinVar由来の基準を用いない場合、報告感度は74.4%まで低下した。あるテストセットにおける偽報告の大部分は、雄性X染色体の二倍体コールに起因しており、一倍体コールによって副作用なくこれらが除去された。補足実験では、インデルを最大20 bpまで完全にコールし、BIAS-2015は2015年のルールに基づく基準を組み合わせたため、合成機能喪失変異の74%を未報告のままとした。本フレームワークは報告レベルの感度と特異性を測定し、回帰分析の箇所を特定するため、ヒト検体における検証を補完し、変更管理を支援することができる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762724",
+    "title": "High-throughput sequencing of unmethylated DNA (UMR-seq) reveals extensive epigenetic variation in the hypomethylome of diverse plant species",
+    "abstract": "ABSTRACT  The unmethylated regions (UMRs) in a genome can reveal the location of genes and gene regulatory loci. However, discovering UMR variation across and between entire genomes and disentangling the contribution of genetics and epigenetics to traits are challenging because they require separate and costly whole-DNA methylome and whole-genome genetic analyses. In many species this is prohibitively expensive for even a small number of samples, curtailing analysis on a population or breeding scale. Here we introduce UMR-seq, a method for the specific capture of UMRs from a genome and simultaneous sequencing of genetic variants in a single economical and scalable assay. UMR-seq charts the hypomethylome, revealing that it is highly enriched with functionally important regulatory loci. While UMRs are highly stable between vegetative tissues in plants, we find they are dynamic in the endosperm and vary substantially between accessions. Adaptable to diverse species, using this method we uncover a positive correlation between gene number in a species and UMR content, reflecting gene regulatory space in a genome. At 1/50  th of the conventional cost of methylome sequencing in wheat, UMR-seq enables simultaneous population scale analysis of genetic and epigenetic variation in the functional genomic space. We reveal that in a panel of 187 elite wheat cultivars, profiling UMR variation improved genomic prediction across population groups, and UMR-based association mapping identified trait associations that were largely distinct from those detected with SNPs, providing new opportunities to understand trait biology and to enhance predictive breeding.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762724",
+    "date": "2026-11-04",
+    "authors": "Putland V, Robinson H, Eglitis-Sexton JIM, Yoshikawa GV, Hintzsche J, Andrews H, Andersen S, Yoon S, Tong J, Mangila LM, Sree A, Zanini S, Schmidt M, Zhang Y, Snowdon RJ, Golicz A, Voss-Fels KP, Hickey LT, Crisp PA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358792",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "genome",
+        "method",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2505,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762724"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eafc128b3dc36611578ad2a6a705074cd592664aafa3f639c42b4cdaabadbaa0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:56:03.344376+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7546e8894dcdc1054818ec43ef8f17504f12838fb0a97526ae7f84404315edac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:56:03.344376+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非メチル化DNAのハイスループットシーケンシング（UMR-seq）により、多様な植物種の低メチル化ゲノムにおける広範なエピジェネティック変異が明らかになった。",
+    "abstract_ja": "要旨　ゲノム内の非メチル化領域（UMR）は、遺伝子および遺伝子調節遺伝子座の位置を明らかにすることができる。しかし、ゲノム全体にわたる、あるいはゲノム間におけるUMR変異の検出や、遺伝学およびエピジェネティクスが形質に及ぼす寄与を解明することは、個別のコストのかかる全DNAメチルローム解析および全ゲノム遺伝解析を必要とするため、困難である。多くの種において、これは少数のサンプルであっても極めて高額な費用を要するため、集団規模や育種規模での解析が制限されている。本研究では、ゲノムからUMRを特異的に捕捉し、遺伝的変異を同時にシーケンシングする、経済的で拡張性の高い単一アッセイ法であるUMR-seqを提案する。UMR-seqは低メチル化領域をマッピングし、そこに機能的に重要な調節遺伝子座が高度に濃縮されていることを明らかにする。UMRは植物の栄養器官間では高度に安定している一方、胚乳内では動的であり、系統間で大きく変動することがわかった。多様な種に適応可能な本手法を用いることで、種における遺伝子数とUMR含有量との間に正の相関があることを明らかにし、これがゲノムにおける遺伝子調節空間を反映していることを示した。小麦における従来のメチルロームシーケンシングコストの50分の1という低コストで、UMR-seqは機能的ゲノム空間における遺伝的およびエピジェネティックな変異の集団規模での同時解析を可能にする。187系統のエリート小麦栽培品種パネルにおいて、UMR変異のプロファイリングが集団グループ間のゲノム予測精度を向上させたこと、またUMRに基づく関連マッピングにより、SNPで検出されたものとは大きく異なる形質関連が特定されたことを明らかにし、形質生物学の理解と予測育種の向上に向けた新たな機会を提供する。"
   }
 ]
