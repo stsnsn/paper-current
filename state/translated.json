@@ -212036,5 +212036,321 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "RPFace: 偏った構造ベンチマークから汎用的なRNA-タンパク質界面予測へ",
     "abstract_ja": "共フォールディングおよびドッキング手法を用いたタンパク質-RNA複合体のモデリングは一般的であるが、これらの手法は、学習やチューニングに用いられた既報の構造を反映したベンチマークで評価されており、報告された性能が真の汎化性能を反映しているかは不透明である。本研究では、生物学的シグナルを担う領域である結合界面に焦点を当てて評価を行う。我々は初めて、タンパク質-RNAデータを構造的・実験的なグループに区分した公正なベンチマークを構築・公開し、集計平均よりも厳格な汎化性能の検証を可能にする。このベンチマークにおいて、共フォールディング手法による結合部位検出の精度はリボソーム複合体に集中しており、実験モダリティなどの要因によって系統的に変動することが明らかになった。ドッキング手法については、入力コンフォメーションが既に結合状態に近い場合にのみ信頼性が高く、RNAクラス間で一貫性に欠ける。これら両系統の手法は、in vivo CLIP実験への転移ができない。このギャップを埋めるため、我々はRPFaceを提案する。これは我々の知る限り、実験構造やテンプレート、多重配列アライメントを必要とせず、配列から直接すべてのタンパク質残基とすべてのRNAヌクレオチドの結合選好性を共同で予測する初のモデルである。RPFaceは、予測された二次構造のアンサンブルと、RNA基盤モデルおよび構造予測モデルの表現を融合させるマルチモーダル埋め込みエンリッチメントスキームを組み合わせている。既存の手法とは異なり、本モデルは非常に小規模かつ高速であり、構造的・実験的条件を問わず安定した性能を発揮し、コンフォメーション変化に対しても頑健で、広範な事前学習なしにin vivoデータセットへ汎化できる。その結果、RPFaceは進化情報のないタンパク質界面において最先端の手法に匹敵し、RNA界面ではそれらを凌駕しており、配列情報のみを使用しているにもかかわらず、ゼロショット設定において最大の性能向上を達成した。モデル、コード、およびデータはGithubで公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.763984",
+    "title": "Joint protein-DNA language modeling enables prediction and engineering of DNA recognition specificity",
+    "abstract": "Protein-DNA recognition specificity underlies transcriptional regulation, DNA replication, chromatin remodeling and genome editing. Protein-DNA recognition depends on both interacting sequences, yet language models that learn this cross-molecular dependence explicitly during pretraining remain limited. Here, we developed the Protein-DNA Language Models (PDLMs), interaction-aware language models that jointly represent protein and DNA sequences. PDLMs were built by continued pretraining from ESM2 with masked language modeling on paired protein-DNA sequences. A shared encoder places amino acids and nucleotides in the same molecular context, enabling conditional sequence scoring and transferable pair representations. We further introduced a domain-aware masking strategy that increased masking probability within DNA-binding domains to strengthen learning of interaction-relevant regions. Across downstream tasks, PDLMs improved protein-DNA pair classification relative to independent-encoder baselines and supported prediction of mutation-associated binding changes. Zero-shot scoring recovered known changes in DNA-recognition specificity and prioritized variants with higher editing activity. Learned representations also supported cross-study prediction of base editor activity. After fine-tuning on transcription factor binding data, PDLMs predicted DNA motifs directly from protein sequences. Together, PDLMs provide a framework for interaction-aware biomolecular language modeling, with potential applications in protein engineering and genome editing.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.763984",
+    "date": "2026-11-06",
+    "authors": "Xiong Y, Ren J, Wei X, Li X, Li J, Wei W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360918",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2478,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.05.763984"
+    ],
+    "translation": {
+      "title": {
+        "hash": "267cc48821d8b7cb42ea0a633e930309a3eed7eb13a03ec88f708423ff977af1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:44:13.674702+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0180ffe4a1dc648aedae7de64fe75c1e6ceecaac831a1cc768fc31a4a0972964",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:44:13.674702+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質とDNAの共同言語モデリングにより、DNA認識特異性の予測と設計が可能となる",
+    "abstract_ja": "タンパク質-DNA認識の特異性は、転写調節、DNA複製、クロマチンリモデリング、およびゲノム編集の基盤となっている。タンパク質-DNA認識は相互作用する配列の双方に依存するが、事前学習においてこの分子間依存性を明示的に学習する言語モデルは依然として限られている。本研究では、タンパク質配列とDNA配列を共同で表現する相互作用認識型言語モデルであるProtein-DNA Language Models（PDLMs）を開発した。PDLMsは、ペアとなったタンパク質-DNA配列に対するマスク付き言語モデリングを用いたESM2からの継続事前学習によって構築された。共有エンコーダがアミノ酸とヌクレオチドを同一の分子コンテキストに配置することで、条件付き配列スコアリングと転移可能なペア表現が可能となる。さらに、DNA結合ドメイン内でのマスキング確率を高めるドメイン認識型マスキング戦略を導入し、相互作用に関連する領域の学習を強化した。ダウンストリームタスクにおいて、PDLMsは独立エンコーダのベースラインと比較してタンパク質-DNAペアの分類精度を向上させ、変異に伴う結合変化の予測を可能にした。ゼロショットスコアリングにより、既知のDNA認識特異性の変化を復元し、編集活性の高いバリアントを優先した。学習された表現は、ベースエディター活性の研究横断的な予測にも寄与した。転写因子結合データによるファインチューニング後、PDLMsはタンパク質配列から直接DNAモチーフを予測した。総じて、PDLMsは相互作用認識型生体分子言語モデリングのフレームワークを提供し、タンパク質工学やゲノム編集への応用が期待される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764684",
+    "title": "Tools for genetic mapping and gene identification in Caenorhabditis briggsae",
+    "abstract": "The nematode Caenorhabditis briggsae serves as an important companion species for Caenorhabditis elegans for comparative studies. Because C. briggsae exhibits androdioecious reproduction and ease of laboratory culture similar to C. elegans, it has long been used for genetic studies in cross-species comparisons of mutant phenotypes to uncover the evolution of gene function. Here, we provide an updated toolkit for C. briggsae genetic experiments, leveraging the resource of recently improved C. briggsae genome sequence assemblies with variant mapping tools and gene identification methods. We identify and validate a set of indel variants between CGC2 (AF16) and two divergent strains, HK104 and VX34. We then use these variants to genetically map 10 previously isolated mutations and identify the impacted genes using high-throughput sequencing. We combine these new genes with others curated from the literature into an updated map with 73 genes, providing an enriched resource for C. briggsae genetic studies.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764684",
+    "date": "2026-11-06",
+    "authors": "Lyu H, Jhaveri NS, O'Connor LM, Tanny RE, Freytag K, Genova C, Gupta B, Andersen EC, Chamberlin HM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360973",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2498,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.05.764684"
+    ],
+    "translation": {
+      "title": {
+        "hash": "44645483192f7e5f395266231d563168617497e8a5077ade6da3dbc180e31516",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:44:13.674702+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "94c984e3052c8afb2853f2fad9d0ff86b938b4aa723d31b4e3f977cb54c3b5f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:44:13.674702+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Caenorhabditis briggsaeにおける遺伝子マッピングおよび遺伝子同定のためのツール",
+    "abstract_ja": "線虫Caenorhabditis briggsaeは、比較研究においてCaenorhabditis elegansの重要なコンパニオン種として用いられている。C. briggsaeは、C. elegansと同様に雄性生殖を示し、実験室での培養が容易であるため、遺伝子機能の進化を明らかにするための変異体表現型の種間比較における遺伝学的研究に長らく利用されてきた。本研究では、バリアントマッピングツールおよび遺伝子同定法を備えた、近年改良されたC. briggsaeゲノム配列アセンブリというリソースを活用し、C. briggsaeの遺伝学的実験のための更新版ツールキットを提供する。我々は、CGC2 (AF16) と2つの分岐株HK104およびVX34との間の一連のインデル変異を同定し、検証した。次いで、これらの変異を用いて、以前に単離された10種類の変異を遺伝的にマッピングし、ハイスループットシーケンシングにより影響を受けた遺伝子を同定した。これらの新規遺伝子を文献からキュレートした他の遺伝子と組み合わせることで、73個の遺伝子を含む更新版マップを作成し、C. briggsaeの遺伝学的研究のための拡充されたリソースを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.764349",
+    "title": "Learning interpretable compositional features associated with continuous covariates",
+    "abstract": "Compositional variation as a function of continuous covariates, such as time, presents challenges for learning interpretable features and accounting for their construction in subsequent inference. Motivated by temporal change in isoform usage in genomics, we introduce IsoVita, a statistical framework integrating covariate-informed balance learning designed for compositional data with complementary tests for abrupt and gradual compositional variation. IsoVita estimates a dominant covariate-dependent direction in the log-ratio coordinates and approximates it as a log ratio of their geometric mean proportions between two learned component groups, linking statistical evidence to explicit component membership. Change point and spline tests evaluate this interpretable feature, while a selection-aware permutation procedure repeats feature construction and testing under each permutation. In transcript-level simulations, IsoVita maintained low empirical false discovery proportions with power to detect differences and change point accuracy improving as temporal signals strengthened. However, the performance depended on trajectory shape and study design. Applications to two human brain bulk RNA-sequencing datasets identified widespread temporal variation in isoform composition while retaining transcript-level interpretability. IsoVita integrates interpretable compositional feature learning with inference along continuous covariates, with potential applications beyond transcriptomics. IsoVita is available as a PyPI package (https://pypi.org/project/isovita).",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764349",
+    "date": "2026-11-06",
+    "authors": "Chen X, Hicks SC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361125",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2527,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.04.764349"
+    ],
+    "translation": {
+      "title": {
+        "hash": "595a151b1966e3816a610152a05d04dacbb45178732a2d1fc7559147b0bc5abc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:44:13.674702+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "24f22dbee13e6d83c6be08c659a68ff0b1e3387ca838ba4c40a4f304f0c67130",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:44:13.674702+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "連続共変量に関連する解釈可能な構成的特徴の学習",
+    "abstract_ja": "時間などの連続的な共変量の関数としての組成変動は、解釈可能な特徴量の学習や、後続の推論におけるその構築の考慮において課題となる。ゲノミクスにおけるアイソフォーム利用の時間的変化に着目し、我々は、組成データ向けに設計された共変量情報に基づくバランス学習を統合し、急激な組成変動と緩やかな組成変動に対する相補的な検定を備えた統計的フレームワーク「IsoVita」を提案する。IsoVitaは、対数比座標において支配的な共変量依存方向を推定し、それを学習された2つの成分群間の幾何平均比率の対数比として近似することで、統計的根拠を明示的な成分帰属へと結びつける。チェンジポイント検定およびスプライン検定によってこの解釈可能な特徴量を評価し、選択を考慮した置換手順によって、各置換の下で特徴量の構築と検定を繰り返す。トランスクリプトレベルのシミュレーションにおいて、IsoVitaは低い経験的偽発見率を維持し、差異を検出する検出力とチェンジポイントの精度は、時間的シグナルが強まるにつれて向上した。ただし、その性能は軌跡の形状や研究デザインに依存した。2つのヒト脳バルクRNAシーケンシングデータセットへの適用により、トランスクリプトレベルの解釈可能性を保持しつつ、アイソフォーム組成における広範な時間的変動が同定された。IsoVitaは、解釈可能な組成特徴量の学習と連続的な共変量に沿った推論を統合しており、トランスクリプトミクスを超えた応用の可能性を秘めている。IsoVitaはPyPIパッケージ（https://pypi.org/project/isovita）として提供されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.762958",
+    "title": "Deducing splicing events from transcript sets with splicelogic",
+    "abstract": "Long-read RNA sequencing captures a greater proportion of full-length transcripts, enabling more accurate isoform identification, discovery of novel isoforms, and more precise differential transcript usage analysis. However, comparing transcripts, whether between conditions or between sets such as novel and annotated isoforms, yields complex isoform changes that are hard to manipulate, summarize, and visualize. This is compounded by vertical integration of some tools, where downstream analysis depends on the specific output of a particular upstream tool. To address this gap, we have developed splicelogic, an R/Bioconductor package that makes transcript-set comparisons biologically interpretable by turning them into discrete splicing events, such as exon skipping, alternative splice sites, intron retention, and alternative transcription start and end sites. We designed splicelogic to integrate easily with existing RNA-seq workflows and tools. The splicelogic functions are modular, readable, and extensible, making it easy for users to adapt core logic to their own custom scientific questions or novel splicing definitions. By obtaining interpretable splicing events from transcript changes, splicelogic enables downstream analyses, including annotation of RNA-binding protein recognition sites, alongside summary statistics and visualization. The splicelogic package is publicly available and distributed through Bioconductor.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.762958",
+    "date": "2026-11-06",
+    "authors": "Campillo B, Love MI.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360921",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "tool",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2528,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.762958"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7e41f83fd6e48e487be62460b3dde69a252c4541880211a8ea273bc461d797a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:44:13.674702+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e14dbb4ec0b8bfc9d8d0e0596235e235b2c7364acb79e3939da9a286e8339f94",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:44:13.674702+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "splicelogicを用いたトランスクリプトセットからのスプライシング事象の推定",
+    "abstract_ja": "ロングリードRNAシーケンシングでは、全長転写産物の取得割合が高くなるため、より正確なアイソフォーム同定、新規アイソフォームの発見、およびより精緻な転写産物の使用差解析が可能となる。しかし、条件間、あるいは新規アイソフォームとアノテーション済みアイソフォームといったセット間で転写産物を比較すると、操作・要約・可視化が困難な複雑なアイソフォーム変化が生じる。さらに、一部のツールの垂直統合により、ダウンストリーム解析が特定の上流ツールの具体的な出力に依存するという問題がある。このギャップを解消するため、我々は、転写産物セットの比較を、エクソンスキッピング、選択的スプライシング部位、イントロン保持、選択的転写開始・終了部位といった個別のスプライシング事象に変換することで、生物学的に解釈可能にするR/Bioconductorパッケージ「splicelogic」を開発した。splicelogicは、既存のRNA-seqワークフローやツールと容易に統合できるよう設計されている。splicelogicの機能はモジュール式で可読性が高く、拡張性にも優れているため、ユーザーはコアロジックを独自の科学的な問いや新規のスプライシング定義に容易に適応させることができる。転写産物の変化から解釈可能なスプライシング事象を得ることで、splicelogicは、要約統計や可視化に加え、RNA結合タンパク質認識部位のアノテーションを含むダウンストリーム解析を可能にする。splicelogicパッケージは公開されており、Bioconductorを通じて配布されている。"
   }
 ]
