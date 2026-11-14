@@ -227478,5 +227478,328 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "公開されているノロウイルス配列の世界的概況：遺伝子型アノテーション、ゲノム完全性、および地理的分布",
     "abstract_ja": "背景：および目的：本研究では、国立生物工学情報センターのウイルスデータベースにおいて、ノロウイルスの遺伝子型アノテーション、ゲノム完全性、および地理的分布を評価した。方法：2026年8月17日に取得した、完全および部分的なノロウイルス配列レコード70,632件のメタデータを解析した。寄託されたアノテーションから、主要カプシドタンパク質（VP1）遺伝子型およびRNA依存性RNAポリメラーゼ（RdRp）型を抽出した。ゲノム完全性と地理的分布を記述的にまとめ、選定した55件の完全ゲノムについて系統解析を行った。結果：最も頻繁にアノテーションされていた特定のVP1遺伝子型はGII.4（18,503件）であった。解析したアノテーションにおいて、特定のVP1およびRdRpの割り当てが得られなかったのは、それぞれ24,804件（35.12%）および51,892件（73.47%）であった。完全ゲノムとしてアノテーションされていたのは、わずか1,859件（2.63%）であった。国別メタデータは65,915件（93.32%）で利用可能であり、そのうちアジアが56.15%を占めていた。選定した系統解析では広範な遺伝子群のクラスタリングが認められ、動物関連のゲノム3件がGIVおよびGVIに属していた。結論：本リポジトリのスナップショットでは、完全ゲノムの代表性が限られていること、タイピングアノテーションが不完全であること、および地理的分布に偏りがあることが明らかになった。これらの知見は、集団における有病率ではなく、寄託されたレコードに関するものである。ゲノムカバレッジの向上、アノテーションの一貫性、およびメタデータの可用性の改善により、より情報量の多い比較解析が可能になると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.31.763320",
+    "title": "A RecBCD-like enzyme regulates expression of bacterial defense operons in response to DNA damage",
+    "abstract": "ABSTRACT  Bacteria must quickly respond to stress signals including bacteriophage (phage) infection, invasion by mobile genetic elements, and other threats. DNA damage is a stress-signaling nexus in bacteria, initiating global responses such as the SOS response and triggering expression of specific defense and immune pathways through DNA damage-sensing transcriptional regulators. Here we identify a three-protein pathway termed Cerberus that senses dsDNA ends that become available during DNA damage or inhibition of the key DNA repair complex RecBCD, and controls expression of an associated defense/immune operon. The central player in Cerberus is a large peptidase-helicase-nuclease fusion protein, CerC, that is architecturally similar to the RecBC complex itself. Upon DNA damage or RecBCD inhibition, CerC binds and unwinds free DNA ends to allosterically activate its fused HExxH metallopeptidase domain. CerC specifically cleaves the adjacently encoded anti-sigma factor CerB to release its cognate sigma factor CerA, allowing CerA to mediate transcription of a defense/immune operon encoded nearby. Cerberus therefore represents a pathway that has co-opted a key DNA repair machine for DNA damage sensing, and linked that activity to transcriptional control through anti-sigma factor cleavage.",
+    "journal": "",
+    "doi": "10.64898/2026.10.31.763320",
+    "date": "2026-11-02",
+    "authors": "Chambers LR, Patel KM, Gong M, Basu D, Tian E, Ouderkirk SN, Zhou Y, Ye Q, Pham BQ, Mishanina TV, Whiteley AT, Corbett KD.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357823",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 677,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.31.763320"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bf1818c1e8cdf1c0dd671964b31f02c70025a7da590554edd1dc3ae28931fcba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:37:18.598707+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "18670ee87ac798dbd67c2f755894d31e85a2e33cec0441a20cf61c0bce56588d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:37:18.598707+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RecBCD様酵素は、DNA損傷に応じて細菌の防御オペロンの発現を調節する。",
+    "abstract_ja": "要旨　細菌は、バクテリオファージ（ファージ）感染、可動性遺伝因子による侵入、およびその他の脅威を含むストレスシグナルに迅速に応答しなければならない。DNA損傷は細菌におけるストレスシグナル伝達の中核であり、SOS応答などの全般的な応答を誘発するとともに、DNA損傷感知転写調節因子を介して特定の防御・免疫経路の発現を惹起する。本研究では、DNA損傷時または主要なDNA修復複合体RecBCDの阻害時に利用可能となるdsDNA末端を感知し、関連する防御・免疫オペロンの発現を制御する、Cerberusと呼ばれる3タンパク質経路を同定した。Cerberusの中心的な構成要素は、RecBC複合体自体と構造的に類似した大型のペプチダーゼ・ヘリカーゼ・ヌクレアーゼ融合タンパク質CerCである。DNA損傷またはRecBCD阻害時に、CerCは遊離DNA末端に結合してそれをほどき、融合したHExxHメタロペプチダーゼドメインをアロステリックに活性化する。CerCは、隣接してコードされるアンチシグマ因子CerBを特異的に切断して対応するシグマ因子CerAを遊離させ、これによりCerAが近傍にコードされる防御・免疫オペロンの転写を媒介することを可能にする。したがって、Cerberusは、主要なDNA修復機構をDNA損傷感知に転用し、その活性をアンチシグマ因子の切断を介して転写制御に結びつけた経路である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.01.763422",
+    "title": "Molecular and Structural Characterisation of the MERS-Coronavirus Polymerase",
+    "abstract": "MERS-CoV (Middle East respiratory syndrome coronavirus) belongs to the  Betacoronavirus genus, which also includes SARS-CoV-2, the causative agent of the COVID-19 pandemic. MERS-CoV is the pathogen responsible for Middle East Respiratory Syndrome (MERS), a respiratory disease with a 36.5% case fatality rate. Given the capacity of coronaviruses for genetic recombination and mutation, MERS-CoV remains a pathogen of significant pandemic potential, with viral evolution potentially facilitating enhanced adaptation and transmission in humans. There are no approved treatments for MERS-CoV infection. The MERS-CoV replication-transcription complex (RTC), a multimeric protein complex key to genome amplification, has no cellular analogues and a highly conserved sequence, making it a useful target for antiviral compounds; however, structural and biochemical characterisation of the MERS-CoV RTC is limited. Here, we characterise the minimal MERS-CoV RTC using in vitro and single-molecule assays and show that it is susceptible to the RNA-dependent-RNA-polymerase inhibitor suramin. We present a structure of the minimal MERS-CoV RTC in complex with an RNA duplex, which shows strong structural similarity to the SARS-CoV-2 RTC. We use cross-subunit swapping experiments to show that the MERS-CoV NSP12 core can efficiently utilise SARS-CoV-2 cofactors NSP7 and NSP8, whereas SARS-CoV-2 NSP12 exhibits reduced in vitro activity with the MERS-CoV NSP8. This asymmetric cross-species compatibility highlights both the evolutionary conservation and virus-specific adaptation of coronavirus polymerase-cofactor interactions. Together, these findings provide a structural and mechanistic framework for understanding MERS-CoV RNA synthesis and establish its conserved RTC as a potential target for the development of broadly acting coronavirus antivirals.  Significance Statement  Middle East respiratory syndrome coronavirus (MERS-CoV) causes severe respiratory disease and represents a significant pandemic threat because of the capacity of coronaviruses to mutate and recombine. Despite this risk, there are no approved vaccines or specific treatments for MERS, and no structure of the essential replication-transcription complex (RTC) has been available. Here, we define the biochemical properties of the MERS-CoV RTC and determine its structure bound to RNA, revealing conserved and virus-specific features of coronavirus replication. We further demonstrate inhibition of the polymerase by suramin. By establishing a structural and functional framework for MERS-CoV genome replication, this work addresses a key gap in our preparedness for MERS-CoV and supports the development of antivirals that could be effective against multiple coronaviruses.",
+    "journal": "",
+    "doi": "10.64898/2026.11.01.763422",
+    "date": "2026-11-02",
+    "authors": "Cunnison RF, Philip SS, Deng A, Groves D, Spence AM, Coleman CM, Keown J, Robb NC.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357817",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 678,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.01.763422"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bd3d4857f69ce0971c615448b3e8948fd7bf5679d97f1ebd906b61185b53e197",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:37:18.598707+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8922e83d68a1a49464bd0964aa2e8bbee3bf1f83cee602507511ee08520aebac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:37:18.598707+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MERSコロナウイルスポリメラーゼの分子・構造解析",
+    "abstract_ja": "MERS-CoV（中東呼吸器症候群コロナウイルス）は、COVID-19パンデミックの原因ウイルスであるSARS-CoV-2を含むベータコロナウイルス属に属する。MERS-CoVは、致死率36.5%の呼吸器疾患である中東呼吸器症候群（MERS）の病原体である。コロナウイルスの遺伝子組換えおよび変異能力を考慮すると、MERS-CoVは依然として重大なパンデミック潜在性を有する病原体であり、ウイルスの進化によってヒトへの適応と伝播が促進される可能性がある。MERS-CoV感染症に対して承認された治療法は存在しない。ゲノム増幅に不可欠な多量体タンパク質複合体であるMERS-CoV複製転写複合体（RTC）は、細胞内類似体が存在せず、配列が高度に保存されているため、抗ウイルス化合物の有用な標的となる。しかし、MERS-CoV RTCの構造的および生化学的特性解析は限定的である。本研究では、in vitroおよび単分子アッセイを用いて最小型MERS-CoV RTCの特性解析を行い、それがRNA依存性RNAポリメラーゼ阻害剤であるスラミンに感受性であることを示す。また、RNA二本鎖と複合体を形成した最小型MERS-CoV RTCの構造を提示し、これがSARS-CoV-2 RTCと強い構造的類似性を持つことを示す。さらに、クロスサブユニット交換実験により、MERS-CoV NSP12コアがSARS-CoV-2の補因子であるNSP7およびNSP8を効率的に利用できる一方で、SARS-CoV-2 NSP12はMERS-CoV NSP8とのin vitro活性が低下することを示す。この非対称な種間適合性は、コロナウイルスのポリメラーゼ-補因子相互作用における進化的な保存性とウイルス特異的な適応性の双方を浮き彫りにしている。これらの知見を総合すると、MERS-CoVのRNA合成を理解するための構造的・機構的な枠組みが提供され、保存されたRTCが広域作用型コロナウイルス抗ウイルス薬開発の潜在的な標的として確立される。意義に関する記述 中東呼吸器症候群コロナウイルス（MERS-CoV）は重篤な呼吸器疾患を引き起こし、コロナウイルスの変異および組換え能力により、重大なパンデミックの脅威となる。このリスクにもかかわらず、MERSに対する承認済みのワクチンや特異的な治療法は存在せず、必須の複製転写複合体（RTC）の構造も解明されていない。本研究では、MERS-CoV RTCの生化学的特性を定義し、RNAに結合した状態の構造を決定することで、コロナウイルス複製における保存的かつウイルス特異的な特徴を明らかにした。さらに、スラミンによるポリメラーゼ阻害を実証した。MERS-CoVゲノム複製の構造的・機能的枠組みを確立することで、本研究はMERS-CoVへの備えにおける重要な空白を埋めるとともに、複数のコロナウイルスに対して有効となり得る抗ウイルス薬の開発を後押しするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.31.760369",
+    "title": "CYP123, a sterol C4-methyl oxidase, acts with CYP51 to initiate mycobacterial lanosterol catabolism",
+    "abstract": "Mycobacteria exploit host cholesterol, both as a carbon source and as a source of catabolites proposed to modulate host immunity, but their capacity to catabolise other host sterols has not been established. Lanosterol, the first sterol intermediate of host cholesterol biosynthesis, accumulates in the activated macrophages these bacteria infect. Here we define the initiating steps of mycobacterial lanosterol catabolism, combining genomic enzymology, transcriptional profiling, mutagenesis, biochemistry, NMR and crystallography. We identify the cytochrome P450 CYP123 as a sterol C4-methyl oxidase. It is encoded with the lanosterol 14α-demethylase CYP51 in a co-oriented region conserved across most  Mycobacteriaceae . The region carries no binding site for the cholesterol-responsive regulators KstR or KstR2, and in  M. abscessus lanosterol induces both genes while cholesterol does not. CYP123 oxidises the C4α-methyl group of C14-demethylated sterols in three steps to the carboxylic acid, yet acts on neither lanosterol nor cholesterol, because Met82 excludes the C14-methylated precursor. An M82A variant binds and oxidises lanosterol. In a single reaction containing both recombinant  M. smegmatis enzymes, CYP51 converts lanosterol to FF-MAS, which CYP123 then oxidises to the C4-carboxylic acid, so the two act in sequence.  M. smegmatis ,  M. phlei and  M. abscessus grow on lanosterol as a sole carbon source. Growth slows in  M. smegmatis cyp123 and  cyp51 mutants. Mycobacterial sterol catabolism therefore extends beyond cholesterol, and blocking the cholesterol route alone may not deprive these organisms of host sterols. Induction where lanosterol confers no growth advantage raises the possibility that the pathway also serves functions beyond carbon acquisition.  Significance  Mycobacteria feed on host cholesterol, a dependence long proposed as a drug target but never exploited therapeutically. This work shows that they also catabolise lanosterol, an early cholesterol precursor that accumulates in activated macrophages. Two cytochrome P450s encoded in a conserved, lanosterol-induced locus act in sequence: CYP51 removes the C14-methyl group, and CYP123 then oxidises the C4α-methyl group to a carboxylic acid. This explains why mycobacteria retain CYP51 despite being unable to make sterols, and identifies CYP123 as the first bacterial P450 sterol C4-methyl oxidase and a third enzymatic solution to C4-demethylation. The locus is conserved across more than 90% of  Mycobacteriaceae , spanning pathogens of humans, livestock and the environment, and contributes to fitness during infection, making both enzymes attractive, azole-binding drug targets. Because cholesterol and lanosterol run through separate routes, depriving mycobacteria of host sterols would require blocking both.",
+    "journal": "",
+    "doi": "10.64898/2026.10.31.760369",
+    "date": "2026-11-02",
+    "authors": "Yuan D, Hatfield LR, Ryan H, Williams H, Dong M, Parker JE, Jin Y, Zallot R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357828",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1018,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.31.760369"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fccdf49667e618c02b9061f0e28e812c09d2e66d528145808b5a06c0d78a6bcc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:37:18.598707+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9d72a3cf55f6bf86e624f17c5ba928d8abc02ec62622661df1b4bb2fde7b52fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:37:18.598707+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ステロールC4-メチルオキシダーゼであるCYP123は、CYP51と協調してマイコバクテリアのラノステロール異化作用を開始させる。",
+    "abstract_ja": "マイコバクテリアは、炭素源として、また宿主免疫を調節すると考えられている異化産物の供給源として、宿主コレステロールを利用するが、他の宿主ステロールを異化分解する能力については確立されていない。宿主コレステロール生合成の最初のステロール中間体であるラノステロールは、これらの細菌が感染した活性化マクロファージに蓄積する。本研究では、ゲノム酵素学、転写プロファイリング、変異導入、生化学、NMR、および結晶構造解析を組み合わせて、マイコバクテリアによるラノステロール異化の開始段階を定義する。我々は、シトクロムP450 CYP123をステロールC4-メチルオキシダーゼとして同定した。これは、ほとんどのマイコバクテリウム科に保存された共配向領域において、ラノステロール14α-脱メチル化酵素CYP51と共にコードされている。この領域には、コレステロール応答性調節因子KstRまたはKstR2の結合部位は存在せず、M. abscessusにおいては、コレステロールは両遺伝子を誘導するが、ラノステロールは誘導しない。CYP123は、C14-脱メチル化ステロールのC4α-メチル基を3段階でカルボン酸へと酸化するが、Met82がC14-メチル化前駆体を排除するため、ラノステロールにもコレステロールにも作用しない。M82A変異体はラノステロールに結合し、これを酸化する。組換えM. smegmatisの両酵素を含む単一反応において、CYP51はラノステロールをFF-MASに変換し、次いでCYP123がこれをC4-カルボン酸へと酸化するため、両者は逐次的に作用する。M. smegmatis、M. phlei、およびM. abscessusは、唯一の炭素源としてラノステロールで増殖する。M. smegmatisのcyp123およびcyp51変異体では、増殖速度が低下する。したがって、マイコバクテリアのステロール異化はコレステロールに留まらず、コレステロール経路を遮断するだけでは、これらの生物から宿主ステロールを奪うことはできない可能性がある。ラノステロールが増殖上の利点をもたらさない場合の誘導は、この経路が炭素獲得以外の機能も果たしている可能性を示唆している。意義：マイコバクテリアは宿主コレステロールを栄養源としており、この依存性は長らく創薬標的として提案されてきたが、治療的に利用されたことはない。本研究は、彼らが活性化マクロファージに蓄積する初期コレステロール前駆体であるラノステロールも異化分解することを示した。保存されたラノステロール誘導性遺伝子座にコードされた2つのシトクロムP450が逐次的に作用する。CYP51がC14-メチル基を除去し、次いでCYP123がC4α-メチル基をカルボン酸へと酸化する。これにより、マイコバクテリアがステロールを合成できないにもかかわらずCYP51を保持している理由が説明され、CYP123が初の細菌性P450ステロールC4-メチルオキシダーゼであり、C4-脱メチル化に対する3番目の酵素的解決策であることが特定された。この遺伝子座は、ヒト、家畜、および環境の病原体にわたるマイコバクテリウム科の90%以上に保存されており、感染時の適応度に寄与しているため、両酵素はアゾール系結合薬の魅力的な標的となる。コレステロールとラノステロールは別々の経路を通るため、マイコバクテリアから宿主ステロールを奪うには、両者を遮断する必要がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.31.763344",
+    "title": "One-step glycan photoaffinity probe synthesis enables identification of human milk oligosaccharide-interacting microbiota",
+    "abstract": "Glycans are found on the surfaces of all living cells and engage in cell signaling through the binding of various molecular targets. However, chemical probes to detect and identify carbohydrate interactions remain difficult to produce, due in large part to the challenges of late-stage, site-specific functionalization of oligosaccharides. Here, we report the synthesis and application of a minimal bifunctional diazirine/alkyne linker utilizing an  N,O -dialkylhydroxylamine (NODHA) moiety that can readily be installed on the anomeric position of unprotected sugars. Our linker functionalizes glycans with complete β-stereoselectivity, appends less mass than a single hexose unit, and maintains the closed-ring structure of the reducing end sugar. With this molecule, we generate glycan photoaffinity probes in a single step using unprotected human milk oligosaccharides (HMOs). We then validate binding selectivity of our compounds using lectins with known affinity towards our sugars. Finally, we demonstrate the utility of these glycan photoaffinity probes by performing photocrosslinking on a complex microbiota community and use cell sorting paired with metagenomic sequencing to identify potential new HMO-interacting microbes. Together, our work provides a one-step route to synthesize photoaffinity probes from unprotected, reducing glycans for interrogating carbohydrate interactions at the host-microbiota interface.",
+    "journal": "",
+    "doi": "10.64898/2026.10.31.763344",
+    "date": "2026-11-02",
+    "authors": "Chun Y, Leonard JT, Griffin ME.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357825",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbe",
+        "microbes",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1019,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.31.763344"
+    ],
+    "translation": {
+      "title": {
+        "hash": "048b49c42ffa73d12eaf458368e2fc8ec5b91479e189192ec68bbf7d90bb6f8c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:37:18.598707+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9b2c3ac9fe73d2423f4c10b858eab76cad024449d153cf2262f04d792979369e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T23:37:18.598707+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ワンステップ糖鎖光親和性プローブ合成によるヒト乳オリゴ糖相互作用微生物叢の同定",
+    "abstract_ja": "糖鎖はすべての生細胞の表面に存在し、さまざまな分子標的への結合を介して細胞シグナル伝達に関与している。しかし、糖の相互作用を検出・同定するための化学プローブの作製は、主にオリゴ糖の後期段階における部位特異的な機能化の困難さにより、依然として容易ではない。本報では、未保護糖のアノマー位に容易に導入可能なN,O-ジアルキルヒドロキシルアミン（NODHA）部位を利用した、最小限の二機能性ジアジン/アルキンリンカーの合成と応用について報告する。本リンカーは、完全なβ-立体選択性をもって糖鎖を機能化し、単一の六炭糖ユニットよりも少ない質量を付加し、還元末端糖の閉環構造を維持する。この分子を用いることで、未保護のヒト乳オリゴ糖（HMO）を用いた糖鎖光親和性プローブを一段階で作製する。次いで、本糖鎖に対して既知の親和性を有するレクチンを用いて、化合物の結合選択性を検証する。最後に、複雑な微生物群集に対して光架橋反応を行うことで、これらの糖鎖光親和性プローブの有用性を実証し、細胞ソーティングとメタゲノムシーケンシングを組み合わせることで、HMOと相互作用する潜在的な新規微生物を同定する。以上の研究により、宿主-微生物群集界面における糖相互作用を調べるための、未保護の還元性糖鎖からの光親和性プローブ合成の一段階法を提示する。"
   }
 ]
