@@ -213654,5 +213654,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PartiDesign：実用的な全分子バイオ分子設計のための構造・配列共設計パラダイム",
     "abstract_ja": "生体分子間の工学的相互作用は、新たな生物学的機能を創出する道筋となる。統一的なモデルによって生体分子の構造予測と設計は進展したが、分子モダリティを横断した効率的かつ制御可能な生成は依然として困難な課題である。主要な課題は、化学的に多様な系において、三次元構造の生成を配列または化学的同一性の設計と結びつけることにある。本研究では、La-Proteinaの部分潜在フレームワークをタンパク質、核酸、および低分子へと拡張した統一的な構造・配列共設計モデル「PartiDesign」を提案する。PartiDesignは、分子構造とそれに対応する配列または化学的同一性を共同で生成すると同時に、二次構造、化学結合、およびアミノ酸の選好性に対するきめ細かな制御を可能にする。指定された標的に対するタンパク質、核酸、および低分子のde novo設計に関する多様なベンチマークにおいて、PartiDesignは、採用した計算予算プロトコルの下で、ほとんどのベンチマークにおいて評価手法の中で最高の推定成功設計スループットを達成した。また、設定可能な制約条件により環状ペプチドや抗体の設計をさらにサポートし、特定の構造的・化学的要件に合わせた生成が可能となる。PartiDesignは、それぞれ64 GBのメモリを搭載した128基のHuawei Ascend 910Bアクセラレータを用いて開発された。ソースコードは https://github.com/MegaGatlingPea/PartiDesign-official で公開されており、https://cadd.zju.edu.cn/partidesign/ で利用可能な無料のウェブサーバーにより、プログラミングの専門知識がなくても結合パートナーを生成できる。これらの機能が相まって、分子工学や創薬への応用が期待される、汎用的かつアクセスしやすい全対全生体分子設計フレームワークが提供される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11489874/v1",
+    "title": "RNAflash: Fast and Sensitive Structure-aware RNA Homology Detection and Alignment",
+    "abstract": "Abstract  RNA homology search plays a crucial role in RNA structure prediction, facing a trade-off between sensitivity and speed. Here we present RNAflash, a two-stage framework that combines RNA language model-based retrieval with structure-informed reranking and alignment. A retrieval bi-encoder RNAflash-R trained through contrastive learning first retrieves candidate RNA sequences from a large pre-encoded database. Then, its cross-encoder RNAflash-A reranks and aligns the retrieved RNA candidates via jointly trained prediction heads, using predicted secondary structures to refine nucleotide correspondence scores. Across held-out Rfam families, RNAflash retrieved RNA homologs more sensitively than sequence-based methods, and produced alignments comparable to those of structure-based methods. In large-scale searches of RNAcentral, RNAflash generated multiple sequence alignments (MSAs) with stronger coupling and covariation signals than sequence-based and Infernal pipelines, while performing search and MSA construction 3.7-fold faster than non-iterative Riboseek and over 100-fold faster than Infernal and RNAcmap. The lightweight variant RNAflash-L achieves sub-second average search times per query while producing higher-quality MSAs than nhmmer and non-iterative Riboseek. The results show that RNAflash makes sensitive RNA homology search and MSA construction more scalable, and provides an efficient source of MSAs for downstream RNA structure prediction.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11489874/v1",
+    "date": "2026-11-05",
+    "authors": "Pan X, Chen B, Wang S, Zhu W, Xue Y, Shen H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359241",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "alignment",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "alignment",
+          "framework"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2467,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11489874/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e41e46be501c42cf242fe151cadeb74111d97d4b2f61eaa69ec1b827921f76f2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:01:59.587602+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf473b566fdf5a808d486b47d4612a2faa3d785861b7ffa770032dde9a6448bc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:01:59.587602+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNAflash: 高速かつ高感度な構造認識型RNA相同性検出・アライメント",
+    "abstract_ja": "要旨  RNAホモロジー検索はRNA構造予測において極めて重要な役割を果たすが、感度と速度のトレードオフという課題に直面している。本研究では、RNA言語モデルに基づく検索と、構造情報を考慮したリランキングおよびアライメントを組み合わせた2段階フレームワーク「RNAflash」を提案する。対照学習によって訓練された検索用バイエンコーダRNAflash-Rは、まず大規模な事前エンコード済みデータベースから候補RNA配列を検索する。次に、そのクロスエンコーダRNAflash-Aが、共同訓練された予測ヘッドを用いて検索されたRNA候補のリランキングとアライメントを行い、予測された二次構造を用いてヌクレオチド対応スコアを精緻化する。ホールドアウトしたRfamファミリーにおいて、RNAflashは配列ベースの手法よりも感度高くRNAホモログを検索し、構造ベースの手法に匹敵するアライメントを生成した。RNAcentralを用いた大規模検索において、RNAflashは配列ベースおよびInfernalパイプラインよりも強いカップリングおよび共変動シグナルを持つ多重配列アライメント（MSA）を生成し、検索およびMSA構築を、非反復的なRiboseekより3.7倍、InfernalおよびRNAcmapより100倍以上高速に実行した。軽量版のRNAflash-Lは、クエリあたりの平均検索時間を1秒未満に抑えつつ、nhmmerや非反復的なRiboseekよりも高品質なMSAを生成する。以上の結果は、RNAflashが感度の高いRNAホモロジー検索とMSA構築のスケーラビリティを高め、ダウンストリームのRNA構造予測に向けた効率的なMSAソースを提供することを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.764286",
+    "title": "RPI-Zero: Zero-shot RNA-Protein Interaction Prediction",
+    "abstract": "In vivo protein-RNA interactions are mapped almost exclusively by CLIP-seq, which profiles one protein in one cell type per experiment and needs a specific antibody; only about 10% of the roughly 2,000 human RNA-binding proteins have been assayed, and the Protein Data Bank holds around 5,000 protein-RNA complexes, a quarter of them ribosomes. Sequence-based prediction could extend coverage to unprofiled, newly discovered, or designed molecules, but existing predictors are not built for that case. One family trains a separate model per protein and cannot move beyond proteins with CLIP data; the other scores pairs but targets a single RNA class. Most are evaluated with random splits and randomly paired negatives that leave near-identical sequences on both sides of the split, and many require structure or read only short windows, discarding the context around a binding site. Their accuracy falls sharply when whole molecules are held out. We address this with two contributions. First, a strict benchmark of 2.1 million examples built from 11.6 million peaks of CLIP experiments targeting 209 proteins, taken from four public databases, in which each RNA is a spliced transcript with nucleotide-level labels, and sequence-similarity clusters are assigned whole to training, validation, and test sets, giving separate slices for unseen RNAs, unseen proteins, and unseen pairs. Negatives are matched to positives in length and in the number of other proteins binding the transcript, removing the shortcut by which a model predicts binding from how popular a transcript is without reading the protein. Second, RPI-Zero, a sequence-only model that reads any full-length protein and RNA jointly in up to 4,096 tokens, so the RNA representation is conditioned on the protein, and describes every protein as a mixture of shared motif prototypes, placing unseen proteins in the same terms as training ones. One model covers all proteins and RNA classes, uses no structure, and needs no interaction data for a new molecule. Compared with five state-of-the-art methods, it achieves the highest score in eight different metrics on unseen RNAs, unseen proteins, and unseen pairs. The model and data are available at https://github.com/ciceklab/RPI-Zero and https://zenodo.org/records/23748141, respectively.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764286",
+    "date": "2026-11-05",
+    "authors": "Eren K, Esendemir EI, Shukueian Tabrizi S, Hashemi Aghdam H, Cicek AE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359764",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2479,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.04.764286"
+    ],
+    "translation": {
+      "title": {
+        "hash": "250554c90c82f717baa139a11593b832b2710bdfb886b894ec3081193e02da41",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:01:59.587602+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d14fd6148417b89e284e8235dd8a8d839b0f8e593dad9e77cc0084c41389c399",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:01:59.587602+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RPI-Zero: Zero-shot RNA-Protein Interaction Prediction",
+    "abstract_ja": "生体内におけるタンパク質-RNA相互作用のマッピングは、ほぼ例外なくCLIP-seqによって行われている。この手法は、1実験につき1種類の細胞株における1つのタンパク質をプロファイリングするものであり、特定の抗体を必要とする。約2,000種類のヒトRNA結合タンパク質のうち、解析済みのものはわずか10%程度に過ぎず、Protein Data Bankが保有するタンパク質-RNA複合体は約5,000件で、その4分の1はリボソームである。配列ベースの予測を用いれば、未プロファイリングの分子や新たに発見された分子、あるいは設計した分子まで網羅範囲を広げられる可能性があるが、既存の予測モデルはそのようなケースを想定して構築されていない。あるファミリーはタンパク質ごとに個別のモデルを学習させるため、CLIPデータのあるタンパク質以上の解析は行えない。また別のファミリーは、ペアをスコアリングするものの、単一のRNAクラスを対象としている。その多くは、ランダムな分割と、分割の両側でほぼ同一の配列が残るようなランダムにペアリングされたネガティブサンプルを用いて評価されており、その多くは構造情報を必要とするか、あるいは短いウィンドウのみを読み取り、結合部位周辺のコンテキストを無視している。分子全体を除外すると、その精度は急激に低下する。我々はこの課題に対し、2つの貢献を通じて対処する。第一に、4つの公開データベースから収集した209種類のタンパク質を対象としたCLIP実験の1,160万個のピークから構築した、210万例の厳格なベンチマークである。各RNAはヌクレオチドレベルのラベルが付いたスプライス済み転写産物であり、配列類似性クラスターは学習・検証・テストセット全体に割り当てられている。これにより、未見のRNA、未見のタンパク質、および未見のペアに対して個別のスライスが提供される。ネガティブサンプルは、長さおよび当該転写産物に結合する他のタンパク質の数においてポジティブサンプルと一致させており、タンパク質を読まずに転写産物の人気度から結合を予測するというショートカットを排除している。第二に、RPI-Zeroである。これは配列のみを扱うモデルで、任意の全長タンパク質とRNAを最大4,096トークンで同時に読み取る。そのため、RNAの表現はタンパク質に依存し、すべてのタンパク質を共有モチーフのプロトタイプの混合として記述することで、未見のタンパク質を学習済みタンパク質と同じ条件で扱う。このモデルはすべてのタンパク質およびRNAクラスをカバーし、構造情報を必要とせず、新しい分子に対する相互作用データも不要である。5つの最先端手法と比較して、未見のRNA、未見のタンパク質、および未見のペアに関する8つの異なる指標において最高スコアを達成した。本モデルおよびデータは、それぞれ https://github.com/ciceklab/RPI-Zero および https://zenodo.org/records/23748141 で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.763266",
+    "title": "Physiological mapping and prediction reveal stress-responsive translation initiation landscapes",
+    "abstract": "Translation initiation defines the protein output of the transcriptome, but its physiological dynamics in cells and tissues remain incompletely characterized. Here we develop TISCA2, an inhibitor-free method that captures eIF5B-associated initiating ribosomes to map translation initiation sites genome-wide. By directly identifying start sites rather than inferring translation from elongating-ribosome periodicity, TISCA2 improves the detection of short and overlapping translons. Translation of a subset of TISCA2-identified translons is supported by N-terminal proteomics and HLA-I immunopeptidomics. The arsenite-induced integrated stress response broadly redistributes start-site usage, reducing upstream initiation in favor of downstream initiation. TISCA2 further reveals tissue-specific initiation landscapes in vivo, with increased detection of downstream candidate start sites in the testis. Finally, we develop IncepTIS, a sequence-based deep learning model that predicts position-resolved and condition-dependent initiation landscapes. IncepTIS-guided optimization generates de novo mRNA 5′ leaders with stress-responsive initiation patterns. Together, TISCA2 and IncepTIS provide an experimental and computational framework for mapping, predicting and engineering translation initiation in mammalian cells and tissues.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.763266",
+    "date": "2026-11-05",
+    "authors": "Ichihara K, Shiraishi T, Morita H, Shiraishi C, Hirata M, Yamashiki N, Setsu S, Tsuboyama K, Hatano A, Tokita S, Mishiro-Sato E, Sakamoto A, Ito T, Abe K, Seki M, Suzuki Y, Ajiro M, Yoshimi A, Kanaseki T, Matsumoto M, Adachi S, Baranov PV, Shimamura T, Matsumoto A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359738",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2480,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.03.763266"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d881d93cf8418ec315b59509bce8fcea0863657cdc1900959c7a3ff76b2b3011",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:01:59.587602+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ec78ec1d93743f4848302c79c40243d60ae90005391aff5ec4aa98318bb9f8b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:01:59.587602+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生理学的マッピングと予測により、ストレス応答性の翻訳開始ランドスケープが明らかになる",
+    "abstract_ja": "翻訳開始はトランスクリプトームのタンパク質出力を決定づけるが、細胞および組織におけるその生理学的動態は依然として十分に解明されていない。本研究では、eIF5B関連の開始リボソームを捕捉し、ゲノム全域で翻訳開始部位をマッピングする、阻害剤不使用の手法であるTISCA2を開発した。伸長中のリボソームの周期性から翻訳を推定するのではなく、開始部位を直接同定することで、TISCA2は短鎖および重複した転写産物の検出能を向上させる。TISCA2によって同定された転写産物の一部の翻訳は、N末端プロテオミクスおよびHLA-I免疫ペプチドミクスによって裏付けられている。亜硝酸塩誘導性の統合的ストレス応答は、開始部位の利用パターンを広範に再分配し、上流側の開始を抑制して下流側の開始を促進する。さらにTISCA2は、in vivoにおける組織特異的な開始ランドスケープを明らかにし、精巣において下流側の候補開始部位の検出率を向上させる。最後に、位置分解能かつ条件依存的な開始ランドスケープを予測する、配列ベースの深層学習モデルであるIncepTISを開発した。IncepTISによる最適化により、ストレス応答性の開始パターンを持つde novo mRNA 5′リーダーが生成される。総じて、TISCA2とIncepTISは、哺乳類の細胞および組織における翻訳開始のマッピング、予測、およびエンジニアリングのための実験的・計算的フレームワークを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.764373",
+    "title": "Protify: A Benchmarking Platform Revealing Task Dependence and Homology Leakage in Protein Language Model Evaluation",
+    "abstract": "Protein Language Models (pLMs) have become essential tools for computational protein analysis, and the rapid proliferation of architectures, training objectives, and pretraining corpora has produced a diverse and expanding model landscape. Evaluation practices, however, remain fragmented: studies use different datasets, preprocessing pipelines, and reporting conventions, so results rarely transfer between publications. Here we introduce Protify, an open-source platform that standardizes pLM benchmarking across zero-shot, supervised, and transferlearning settings through a unified, low-code interface. Protify currently supports 35 pretrained models and 61 curated datasets and it is easy to add custom versions of each. Leveraging Protify's high throughput pipelines, we benchmarked 23 models on ProteinGym, discovering that DPLM3B is currently the top-performing self-supervised encoder. Another large-scale supervised evaluation across 32 diverse tasks, spanning enzyme classification, gene ontology annotation, protein-protein interaction, subcellular localization, and other functional properties, found that no single pLM dominated: 14 different models took the top score on at least one dataset, and the margins between the best and second-best models fell within run-to-run variability. On enzyme optimal pH prediction, a general-purpose probe pipeline matched or exceeded EpHod, a specialized model selected from 11,550 training runs, after 50 hyperparameter trials (R2 = 0.482 versus 0.425). Under a homology-controlled split of the same data, every pooled-embedding probe collapsed to near-zero R2, and only a transformer probe over full residue embeddings recovered appreciable signal (R2 = 0.248). Model rankings therefore depend as much on evaluation design as on the models themselves. Protify makes those design choices explicit, controlled, and replayable, and is freely available at https://github.com/Gleghorn-Lab/Protify.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764373",
+    "date": "2026-11-05",
+    "authors": "Rafailidis N, Hallee LP, Peleg T, Horger C, Haviland L, Gleghorn JP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361191",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2499,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.04.764373"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1355ad5088cba284c9987ffd71f0af3e1fc6b9f3a29dbc246226697e0fc18c99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:01:59.587602+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "db5a860d9938c0016cdccf65e79b36dfe3ca668de04bea9dff228deddfade706",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T13:01:59.587602+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Protify: タンパク質言語モデル評価におけるタスク依存性とホモロジー漏洩を明らかにするベンチマークプラットフォーム",
+    "abstract_ja": "タンパク質言語モデル（pLM）は、計算科学的なタンパク質解析において不可欠なツールとなっており、アーキテクチャ、学習目的、および事前学習コーパスの急速な普及により、多様かつ拡大し続けるモデル環境が形成されている。しかし、評価手法は依然として断片化されており、研究によって使用されるデータセット、前処理パイプライン、報告規約が異なるため、結果を論文間で転用できることは稀である。本稿では、統一されたローコードインターフェースを通じて、ゼロショット、教師あり、および転移学習の各設定におけるpLMベンチマークを標準化するオープンソースプラットフォーム「Protify」を紹介する。Protifyは現在、35種類の事前学習済みモデルと61種類のキュレート済みデータセットをサポートしており、それぞれにカスタムバージョンを容易に追加できる。Protifyの高スループットなパイプラインを活用し、ProteinGymを用いて23種類のモデルをベンチマークした結果、DPLM3Bが現在最も性能の高い自己教師ありエンコーダであることが判明した。また、酵素分類、遺伝子オントロジーアノテーション、タンパク質間相互作用、細胞内局在、およびその他の機能的特性にわたる32の多様なタスクを用いた別の大規模教師あり評価では、特定のpLMが支配的になることはなかった。14種類の異なるモデルが少なくとも1つのデータセットで最高スコアを記録し、最上位モデルと2位のモデルの差は実行ごとの変動範囲内に収まっていた。酵素の最適pH予測においては、汎用プローブパイプラインが、11,550回の学習試行から選定された特化型モデルであるEpHodと、50回のハイパーパラメータ試行後に同等またはそれ以上の性能を示した（R2 = 0.482 対 0.425）。同一データのホモロジー制御分割では、すべてのプール埋め込みプローブがR2がほぼゼロまで低下し、全残基埋め込みを用いたTransformerプローブのみが顕著なシグナルを回復した（R2 = 0.248）。したがって、モデルの順位はモデル自体と同様に、評価設計にも依存する。Protifyは、こうした設計上の選択を明示的かつ制御可能で、再現可能なものにし、https://github.com/Gleghorn-Lab/Protify で無料で公開している。"
   }
 ]
