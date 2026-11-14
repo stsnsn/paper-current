@@ -207319,5 +207319,322 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "第三世代ハイスループットシーケンシングを用いたエジプトのプライマリヘルスケアセンターにおけるマクロライド耐性細菌性病原体の分子疫学および耐性プロファイリング",
     "abstract_ja": "要旨    背景：薬剤耐性（AMR）は世界的な公衆衛生上の重大な課題であり、特に抗菌薬の使用状況、診断能力、および抗菌薬適正使用の状況にばらつきがある環境において深刻な影響を及ぼす。マクロライド系抗菌薬は、市中獲得性の呼吸器感染症および皮膚・軟部組織感染症に広く用いられているが、耐性の増加がその治療効果を脅かしている。エジプトのプライマリヘルスケア施設におけるマクロライド耐性の分子基盤および拡散状況を記述したゲノムサーベイランスデータは依然として限られている。  方法：2023年1月から12月にかけて、エジプトの3つの県（カイロ、アレクサンドリア、アシユート）にある15のプライマリヘルスケア施設を対象に、多施設共同横断的調査を実施した。細菌性呼吸器感染症または皮膚・軟部組織感染症が疑われる患者から、計842検体の臨床検体を収集した。細菌分離株の同定にはマトリックス支援レーザー脱離イオン化飛行時間型質量分析法を用い、薬剤感受性試験はCLSI M100-Ed34 (2024) に従って実施した。マクロライド耐性分離株については、Oxford Nanopore MinIONおよびPacific Biosciences Sequel IIeシーケンシングプラットフォームを用いてゲノム特性解析を行った。耐性決定因子、プラスミド、統合型接合要素、配列型、および系統的関係については、確立された薬剤耐性およびゲノム解析データベースならびにバイオインフォマティクスパイプラインを用いて検討した。さらに、23S rRNA変異の特性解析に標的型PacBio HiFiシーケンシングを用いた。  結果：確認された642株の細菌病原体のうち、289株（45.0%、95% CI: 41.2–48.9%）に表現型としてのマクロライド耐性が認められた。耐性率はStaphylococcus aureus（58.2%, 114/196）で最も高く、次いでStreptococcus pneumoniae（45.0%, 98/218）、Streptococcus pyogenes（39.7%, 62/156）、Haemophilus influenzae（20.8%, 15/72）の順であった。耐性連鎖球菌ではermB遺伝子が優位であり、耐性S. pneumoniae分離株の81.6%、耐性S. pyogenes分離株の80.6%に認められた。一方、耐性S. aureus分離株ではermCが優位であった（87.7%, 100/114）。ロングリードシーケンシングにより、耐性決定因子に関連する45種類のプラスミドと12種類の統合型接合要素の再構築が可能となった。保存されたermC保有プラスミド（pEC-Egy1と指定、3,142 bp）は、3県全体のermC陽性S. aureus分離株の68.0%で検出され、検出された変異株間の配列同一性は99.8%であった。PacBio HiFiシーケンシングにより、耐性分離株289株中22株（7.6%）でA2058G 23S rRNA変異が同定され、289株中9株（3.1%）でヘテロ耐性に合致する野生型と変異型のアレルの混在が認められた。ヘテロ耐性分離株は、主に均質なA2058G変異株集団を有する分離株（32–128 μg/mL; p結論：統合型第3世代シーケンシングにより、エジプトのプライマリヘルスケア施設における細菌病原体のマクロライド耐性決定因子、そのゲノム的背景、および拡散パターンの高解像度な特性解析が可能となった。本知見は、耐性決定因子のクローン拡散と水平伝播の共存を示しており、プラスミド構造、可動性遺伝要素、および不均一な23S rRNA耐性アレルの解明におけるロングリードシーケンシングの有用性を強調するものである。これらのゲノムデータは、エジプトのプライマリヘルスケア施設におけるマクロライド耐性の継続的な分子サーベイランスのための枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0827.v1",
+    "title": "Operationalizing Resiliomics: Quantifying Transcriptomic Perturbation and Recovery Dynamics in Arabidopsis Following Drought Rehydration",
+    "abstract": "Biological resilience is commonly understood as the capacity of a system to respond to perturbation and recover toward a previous state. However, operational approaches for quantifying resilience from time-resolved molecular data remain insufficiently standardized. Here, we present an empirical proof of concept for Resiliomics, a systems-level framework designed to characterize biological recovery through the temporal dynamics of transcriptomic perturbation. We applied this framework to bulk RNA-sequencing data from Arabidopsis thaliana subjected to drought stress and subsequent rehydration. Three experimental bulks with distinct sampling designs were analyzed separately. Following count-matrix quality assessment and expression normalization, global transcriptomic variation was characterized using principal component analysis. Recovery was quantified through multivariate distances between recovery samples and their corresponding time-matched controls. These distances were used to derive complementary indicators, including maximum perturbation amplitude, relative recovery trajectories, time to 50% recovery (T_50), and integrated transcriptomic distance over time. Bootstrap resampling was used to characterize uncertainty in the estimated metrics. The analysis revealed distinct temporal recovery patterns across experimental bulks, including non-monotonic trajectories and differences in the extent of convergence toward control expression profiles. The reliability of threshold-based recovery estimates varied among experimental bulks: a comparatively stable T_50 estimate was obtained for Bulk 1, whereas the 50% recovery threshold was not consistently reached in Bulks 2 and 3. These findings illustrate the potential of time-resolved transcriptomic data to support a quantitative characterization of molecular recovery. However, the resulting metrics remain dependent on normalization, feature selection, dimensionality reduction, sampling design, and biological replication. Transcriptomic recovery should therefore be interpreted as one molecular component of resilience rather than a direct measure of whole-plant functional recovery. These results provide an empirical basis for operationalizing transcriptomic recovery within Resiliomics while highlighting the importance of explicit reference states, temporal sampling, and uncertainty assessment.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0827.v1",
+    "date": "2026-11-09",
+    "authors": "Zarid M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362765",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4233,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.20944/preprints202611.0827.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d09e14ede46b031ea0f0cfe2bba4acb6acf7c563fe841829d43707f1bd312944",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:04:13.728550+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4d79939aec6ef2c8c6bba69660cdf0ae6950ca288dff2ffe32312767f9cef4a9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:04:13.728550+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "レジリオミクスの実用化：干ばつ再水和後のシロイヌナズナにおけるトランスクリプトーム摂動と回復動態の定量化",
+    "abstract_ja": "生物学的レジリエンスは一般に、系が摂動に応答し、以前の状態へと回復する能力として理解されている。しかし、時間分解分子データからレジリエンスを定量化するための運用上のアプローチは、依然として標準化が不十分である。本研究では、トランスクリプトーム摂動の時間的ダイナミクスを通じて生物学的回復を特性評価するために設計されたシステムレベルのフレームワークであるResiliomicsの実証的な概念実証を提示する。我々は、干ばつストレスおよびその後の再水和処理を施したシロイヌナズナのバルクRNAシーケンシングデータにこのフレームワークを適用した。異なるサンプリング設計を用いた3つの実験バルクを個別に解析した。カウント行列の品質評価と発現正規化を経て、主成分分析を用いてグローバルなトランスクリプトーム変動を特性評価した。回復は、回復サンプルとそれに対応する時間同期コントロールとの間の多変数距離によって定量化された。これらの距離を用いて、最大摂動振幅、相対的回復軌跡、50%回復までの時間（T_50）、および時間経過に伴う積分トランスクリプトーム距離を含む相補的な指標を導出した。推定指標の不確実性を特性評価するために、ブートストラップ・リサンプリングを用いた。解析の結果、実験バルク間で非単調な軌跡や、コントロール発現プロファイルへの収束度合いの差異など、異なる時間的回復パターンが明らかになった。閾値に基づく回復推定値の信頼性は実験バルク間で異なり、バルク1では比較的安定したT_50推定値が得られたのに対し、バルク2および3では50%回復閾値が一貫して到達しなかった。これらの知見は、時間分解トランスクリプトームデータが分子レベルの回復の定量的特性評価を支援し得る可能性を示している。しかし、得られた指標は依然として正規化、特徴量選択、次元削減、サンプリング設計、および生物学的再現に依存している。したがって、トランスクリプトーム回復は、植物全体の機能的回復の直接的な尺度ではなく、レジリエンスの分子構成要素の一つとして解釈されるべきである。これらの結果は、Resiliomicsにおいてトランスクリプトーム回復を運用化するための実証的根拠を提供すると同時に、明示的な参照状態、時間的サンプリング、および不確実性評価の重要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764757",
+    "title": "scPolyA enables efficient, interactive and agent-guided alternative polyadenylation analysis in single-cell and spatial transcriptomes",
+    "abstract": "Alternative polyadenylation (APA) changes which regulatory sequences an RNA retains, creating a layer of cellular variation that gene-level expression profiles cannot resolve. Here we present scPolyA, a unified, AI-enabled framework that transforms conventional single-cell and spatial 3′-end transcriptomes into quantitative maps of RNA-end choice. scPolyA connects de novo poly(A)-site discovery to cell- and spot-resolved measurements of terminal-site usage, 3′ untranslated region length and intronic polyadenylation, enabling differential APA analysis across cell states and tissue regions. Its integrated deep-learning module, DeepCPS, improves recognition of sparsely supported poly(A) sites and predicts cleavage positions at nucleotide resolution. An integrated graphical workspace brings parameter exploration, efficient rerunning and genome browsing together, while an APA-specialised AI agent translates natural-language research questions into executed analyses, verified outputs and evidence-guided interpretation. Across diverse single-cell protocols and spatial platforms, scPolyA achieves higher reference-atlas agreement than most evaluated de novo methods, while single-cell benchmarks demonstrate competitive runtime and memory use. Applied to cutaneous squamous cell carcinoma, scPolyA reveals recurrent 3′ untranslated region shortening in tumour keratinocytes across all ten patients and corresponding patterns in tumour-enriched regions, with tissue-level contrasts shaped by cellular composition. scPolyA extends conventional transcriptomics from gene abundance to RNA-end regulation, linking transcript choices to cellular states and tissue organisation.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764757",
+    "date": "2026-11-09",
+    "authors": "Yang J, Yang H, Liu L, Wen J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362575",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4246,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.05.764757"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9886dd2d8a6f0789256e970b725d6cb438b005e7f7279d0c1239eceacfd54b34",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:04:13.728550+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0cecb4a3a94bb3c3b21deedd219e8e978bb73e88006fe4bb18d5bd6e131537a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:04:13.728550+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scPolyAは、単一細胞および空間トランスクリプトームにおいて、効率的かつインタラクティブでエージェント誘導型の代替ポリアデニル化解析を可能にする。",
+    "abstract_ja": "代替ポリアデニル化（APA）は、RNAが保持する調節配列を変化させ、遺伝子レベルの発現プロファイルでは解明できない細胞レベルの変異層を形成する。本研究では、従来のシングルセルおよび空間的3′末端トランスクリプトームをRNA末端選択の定量的マップへと変換する、AI搭載の統合フレームワーク「scPolyA」を提案する。scPolyAは、de novoポリ(A)部位の探索と、末端部位の利用状況、3′非翻訳領域長、およびイントロンポリアデニル化の細胞・スポット分解能測定を連携させ、細胞状態や組織領域を横断した差異的なAPA解析を可能にする。統合された深層学習モジュール「DeepCPS」は、支持が乏しいポリ(A)部位の認識精度を向上させ、ヌクレオチド分解能で切断位置を予測する。統合されたグラフィカルワークスペースは、パラメータ探索、効率的な再実行、およびゲノムブラウジングを統合し、APA特化型のAIエージェントが自然言語による研究質問を、実行可能な解析、検証済みの出力、およびエビデンスに基づく解釈へと変換する。多様なシングルセルプロトコルおよび空間的プラットフォームにおいて、scPolyAは評価したほとんどのde novo手法よりも高いリファレンスアトラス一致率を達成し、シングルセルベンチマークでは競争力のある実行時間とメモリ使用量を示した。皮膚扁平上皮癌に適用したところ、scPolyAは全10例の患者において腫瘍角化細胞で反復的な3′非翻訳領域の短縮と、それに対応する腫瘍濃縮領域のパターンを明らかにし、組織レベルの対比は細胞組成によって規定されていた。scPolyAは、従来のトランスクリプトミクスを遺伝子量からRNA末端調節へと拡張し、転写産物の選択を細胞状態および組織構造に結びつける。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764563",
+    "title": "Bioinformatic pipeline for functional inference of Rickettsia akari hypothetical proteins reveals virulence-associated and effector candidates",
+    "abstract": "Background:  Rickettsia akari, the causative agent of rickettsialpox, is an obligate intracellular pathogen with a highly reduced genome encoding numerous hypothetical proteins (HPs) of unknown function. Many of these HPs are expressed during host-cell infection, yet their roles in bacterial physiology and potential contribution to virulence remain unclear. Methodology/Principal Findings We performed an integrative in silico characterization of 54 R. akari HPs previously identified by mass spectrometry in purified bacterial cells. Using a benchmarked computational workflow, we predicted their physicochemical properties, subcellular localization, putative secretion signals, protein folds, potential interaction partners, and evolutionary conservation. Most HPs were predicted to be thermostable. The majority of HPs were predicted to be cytoplasmic (37.00%) or membrane-associated (29.63%). Predicted features associated with the type IV secretion system were more frequent than those associated with type I secretion. Network and structural analyses identified candidate HPs with features consistent with potential roles in outer membrane assembly, host-cell interaction, and immune modulation, including predicted peptidyl-prolyl cis/trans isomerases, oxidoreductases, methyltransferases, and putative E3 ubiquitin ligases. Several HPs were predicted to be antigenic and showed conservation across multiple rickettsial genomes. Molecular docking and normal mode analysis supported the plausibility of selected predicted protein-protein and protein-ligand interactions. Evolutionary analyses indicated predominant purifying selection among the analyzed HPs. A8GP20 showed elevated sequence divergence and warrants further investigation as a potential effector candidate. Conclusions/Significance Our findings prioritize A8GPG8, A8GP63, A8GNV4, A8GMM8, A8GM41, A8GMJ7, A8GMI5, A8GP20, A8GN23, A8GMB4, A8GM08, and A8GM39 as promising candidates for experimental validation of their predicted functions and potential roles in R. akari biology and pathogenicity. This work provides an integrative and reproducible bioinformatic framework to guide functional discovery in R. akari and related neglected intracellular pathogens, and identifies candidate proteins for future studies of rickettsial pathogenesis, antigen discovery, and therapeutic target development.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764563",
+    "date": "2026-11-09",
+    "authors": "Kaliukanov S, Csicsay F, Skultety L, Quevedo Diaz MA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362494",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "inference",
+        "pipeline",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4248,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.05.764563"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2e768fbc3a37c500f3d521292e78c276f6f2b6646c6093eea0e531a194e94388",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:04:13.728550+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a399ac273abfe48e5c4e9df614e557eabcf34b197238af6af15d74ba4bfa5d4c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:04:13.728550+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Rickettsia akariの仮説タンパク質の機能推論に向けたバイオインフォマティクス・パイプラインにより、病原性関連およびエフェクター候補が明らかになった。",
+    "abstract_ja": "背景：リケッチア痘の原因菌であるRickettsia akariは、機能未知の多数の仮説上のタンパク質（HP）をコードする、ゲノムが著しく縮小した絶対細胞内病原体である。これらのHPの多くは宿主細胞への感染時に発現するが、細菌の生理機能における役割や病原性への寄与の可能性については依然として不明である。手法／主要な知見：我々は、精製細菌細胞において質量分析法により同定された54種類のR. akari HPについて、統合的なin silico特性解析を行った。検証済みの計算ワークフローを用いて、それらの物理化学的特性、細胞内局在、推定分泌シグナル、タンパク質フォールド、潜在的な相互作用パートナー、および進化的保存性を予測した。ほとんどのHPは耐熱性であると予測された。HPの大部分は、細胞質性（37.00%）または膜関連（29.63%）であると予測された。IV型分泌系に関連する予測特徴は、I型分泌に関連するものよりも頻繁に認められた。ネットワーク解析および構造解析により、外膜構築、宿主細胞との相互作用、および免疫調節における潜在的な役割と一致する特徴を持つHP候補が同定された。これには、予測されたペプチジルプロリルcis/transイソメラーゼ、酸化還元酵素、メチルトランスフェラーゼ、および推定E3ユビキチンリガーゼが含まれる。いくつかのHPは抗原性を有すると予測され、複数のリケッチアゲノムにわたって保存性が認められた。分子ドッキングおよび正規モード解析により、選択された予測タンパク質間およびタンパク質-リガンド相互作用の妥当性が裏付けられた。進化解析の結果、解析したHPの間では浄化選択が支配的であることが示された。A8GP20は配列分岐の増大を示しており、潜在的なエフェクター候補としてさらなる調査が必要である。結論／意義：本研究の知見により、A8GPG8、A8GP63、A8GNV4、A8GMM8、A8GM41、A8GMJ7、A8GMI5、A8GP20、A8GN23、A8GMB4、A8GM08、およびA8GM39が、R. akariの生物学および病原性における予測機能と潜在的な役割の実験的検証に向けた有望な候補として優先される。本研究は、R. akariおよび関連する顧みられない細胞内病原体における機能探索を導くための、統合的かつ再現性のあるバイオインフォマティクス・フレームワークを提供し、リケッチア病原性の研究、抗原探索、および治療標的開発に向けた候補タンパク質を同定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.764816",
+    "title": "scHiR learns joint cellular representations from paired single-cell transcriptome and 3D genome data",
+    "abstract": "Simultaneously sequenced scRNA-seq and scHi-C technologies provide matched measurements of gene expression and three-dimensional (3D) genome organization within individual cells, offering complementary insights into cellular state. However, integrative analysis remains challenging due to the heterogeneous structures and characteristics of these modalities. To realize the full potential of such data, we need effective computational methods to learn joint cellular representations. Here, we present scHiR, a framework based on a hyperspherical variational autoencoder (S-VAE) for learning co-embeddings from paired gene-expression profiles and chromatin contact maps. The framework facilitate downstream analyses such as cell clustering, fine-grained cell-state characterization, and developmental trajectory inference, while modality-specific decoders enable the signal recovery of input profiles. We evaluated scHiR across six paired datasets generated by HiRES, GAGE-seq, and LiMCA. scHiR captured cell-type-specific information and achieved improved clustering performance compared with representative single-omics methods. It was also capable of resolving fine-grained subclusters and revealed discordant and distinct cellular profiles. In developmental biological datasets, scHiR preserved trajectory-related structure and improved pseudotime in agreement with known developmental progression. Finally, scHiR generated reconstructed transcriptomic and chromatin contact profiles with reduced noise, enhanced cell-type-related signals, and improved recovery of held-out chromatin contacts. These results demonstrate that scHiR provides an effective method for learning joint cellular representations from paired scRNA-seq and scHi-C data.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764816",
+    "date": "2026-11-09",
+    "authors": "Zhao Y, Jia P, Hill MC, Tang L, Fang Z, Zheng R, Li M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362476",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "chromatin",
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4249,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.06.764816"
+    ],
+    "translation": {
+      "title": {
+        "hash": "48997754110012484cc17ca3b19d757c1a1d4faa82dc50cee74bb1df7a6dacc4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:04:13.728550+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "edb0eedaed2445a6c86558abc8c7643c3e37b86c82a54b9edf6232ca471f1279",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:04:13.728550+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scHiRは、ペアとなった単一細胞トランスクリプトームおよび3Dゲノムデータから関節細胞表現を学習する。",
+    "abstract_ja": "同時シーケンシングされたscRNA-seqおよびscHi-C技術は、個々の細胞内における遺伝子発現と三次元（3D）ゲノム構成の一致した測定値を提供し、細胞状態に関する相補的な知見をもたらす。しかし、これらのモダリティの構造や特性が異質であるため、統合的な解析は依然として困難である。このようなデータの潜在能力を最大限に引き出すには、共同細胞表現を学習するための効果的な計算手法が必要である。本報では、ペアとなった遺伝子発現プロファイルとクロマチン接触マップから共埋め込みを学習するための、超球面変分オートエンコーダ（S-VAE）に基づくフレームワークscHiRを提案する。本フレームワークは、細胞クラスタリング、細粒度の細胞状態特性評価、発生軌跡の推論といった下流解析を容易にし、モダリティ固有のデコーダによって入力プロファイルの信号復元を可能にする。我々は、HiRES、GAGE-seq、およびLiMCAによって生成された6つのペアデータセットを用いてscHiRを評価した。scHiRは細胞種固有の情報を捉え、代表的なシングルオミクス手法と比較してクラスタリング性能が向上した。また、細粒度のサブクラスターを分離することが可能であり、不一致かつ異なる細胞プロファイルを明らかにした。発生生物学データセットにおいて、scHiRは軌跡関連の構造を保持し、既知の発生進行と一致して擬似時間を改善した。最後に、scHiRはノイズが低減され、細胞種関連信号が強化され、ホールドアウトされたクロマチン接触の復元が改善された、再構築されたトランスクリプトームおよびクロマチン接触プロファイルを生成した。これらの結果は、scHiRがペアとなったscRNA-seqおよびscHi-Cデータから共同細胞表現を学習するための効果的な手法であることを示している。"
   }
 ]
