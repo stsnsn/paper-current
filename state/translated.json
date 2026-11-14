@@ -9794,13 +9794,14 @@
       "bioRxiv"
     ],
     "first_seen": "2026-11-06",
-    "translation": {},
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "topic_filter": {
-      "accepted": false,
-      "reason": "no_microbial_evidence",
-      "version": "microbial-rules-v1",
-      "matched": [],
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "sequence"
+      ],
       "context": {
         "marine": [],
         "genomics": [
@@ -9816,7 +9817,25 @@
         "微生物進化"
       ]
     },
-    "discovery": []
+    "collection_order": 157,
+    "discovery": [],
+    "translation": {
+      "title": {
+        "hash": "84f85a1920f7bb9211385c04c0467b1a14376e56ac67ceaec6bad3f4b9ace4fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:57:37.504537+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0792e447cbc7ae019af747af9f85ffff86e3529dba6a65da8e65da43d7ee78bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:57:37.504537+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "厳格な相同性制約下におけるデュアルターゲット抗菌ペプチド探索のためのタンパク質言語モデルのパラメータ効率の高い適応",
+    "abstract_ja": "薬剤耐性（AMR）の世界的な拡大は、現代の公衆衛生にとって深刻な課題となっており、新たなクラスの治療薬の開発が求められている。抗菌ペプチド（AMP）は、共進化的な耐性と迅速な膜破壊ダイナミクスを備えているため、低分子抗生物質に代わる極めて有望な選択肢となる。しかし、計算科学的なAMPリードを臨床候補薬へと橋渡しする過程では、主に哺乳類赤血球に対する溶血活性といったオフターゲット細胞毒性が依然としてボトルネックとなっている。事前学習済みの基盤タンパク質言語モデル（PLM）によって分子特性予測は急速に進展したが、現在のアーキテクチャでは、抗菌活性と細胞毒性が切り離された単一タスクのパイプラインとして孤立したり、厳格な相同性制御評価下で壊滅的な性能低下を招いたりすることが多い。最近、Quantitative Mapping of Antimicrobial Peptides (QMAP) ベンチマークにより、凍結されたPLM埋め込み表現は溶血活性に対して線形的にアクセス可能な特徴が弱く、分布外配列分割において低い順位相関（{rho} < 0.25）を示すことが示唆された。本研究では、配列リークを起こすことなく、抗菌活性の最適化と哺乳類細胞毒性の最小化を同時に実現するように設計された、エンドツーエンドのマルチタスク・パラメータ効率型転移学習フレームワークを提案する。ESM-2 (150M) を基盤とする本アーキテクチャは、自己注意投影に低ランク適応（LoRA）を組み込んでおり、モデル重みの約0.70%をファインチューニングしている。異なる膜溶解機構に起因する勾配干渉を回復させるため、ケンドールの等分散不確実性重み付けに基づく適応型マルチタスク損失関数を実装した。最大配列同一性閾値60%を課した事前定義済みのQMAPベンチマーク分割で評価した結果、本統合アーキテクチャは、従来の線形プローブ、ツリーベースの回帰器、および凍結された基盤モデルを著しく上回る性能を示した。本フレームワークは、大腸菌（E. coli）における活性順位相関 {rho} = 0.6132 (r = 0.6816) を達成し、溶血毒性相関を {rho} = 0.5374 (r = 0.5541) まで向上させることに成功した。実世界での有用性を実証するため、最適化された統合ネットワークを、de-novo設計のペプチド749種類からなるキュレート済みin silicoライブラリのスクリーニングに適用した。その結果、広範な溶解モチーフ（TI < 2.0）を効果的に除外しつつ、治療指数（TI = HC50/MIC）144.03までの選択的なカチオン性両親媒性候補化合物を同定することに成功した。これらの知見は、パラメータ効率型適応が基盤PLMにおける精緻な生物活性構造セマンティクスを解き放ち、治療用ペプチド工学のための正確でスケーラブルなフレームワークを提供することを実証している。"
   },
   {
     "id": "10.64898/2026.10.08.757545",
@@ -102411,7 +102430,7 @@
     "id": "10.64898/2026.11.03.763945",
     "doi": "10.64898/2026.11.03.763945",
     "title": "MicrobeRT: A Framework and Suite of Fine-tuned Language Models for Genomic Sequences",
-    "abstract": "Accurate and reproducible metagenomic analysis is essential for effective infectious disease surveillance. Targeted diagnostics such as culturing, antigen assays, and multiplex PCR panels identify only predefined organisms and can fail to identify atypical or novel infections. Shotgun metagenomics offers hypothesis-free detection, but adoption is limited by workflow complexity, dependence on mutable reference databases, and high computational cost. To combat these challenges, we introduce MicrobeRT, an integrated suite of genomic language models fine-tuned to classify metagenomic sequencing reads across three tasks: (i) species level taxonomic identification, (ii) antibiotic resistance gene detection, and (iii) pathogenicity assessment. The framework builds on three pre-trained genomic language models - Nucleotide Transformer (Dalla-Torre et al 2025), DNABERT (Ji et al 2021, Zhou et al 2024), and HyenaDNA (Nguyen et al 2024) - leveraging their large-scale genomic pre-training, adaptability to downstream tasks, and, in the case of HyenaDNA, ability to capture long-range sequence dependencies. The models are fine-tuned on large, curated datasets spanning microbial, viral, fungal, and human genomes, including more than 500,000 genomes and 250,000 antibiotic resistance gene sequences. To evaluate the performance of our fine-tuned genomic language models across classification tasks, we developed a benchmarking framework that compares MicrobeRT against state-of-the-art (SOTA) bioinformatics tools. Across both simulated and empirical datasets, the models achieve strong performance while reducing computational overhead. MicrobeRT is released as open-source software, enabling further fine-tuning and reproducible integration of alternative models and classifiers. We also demonstrate seamless, drop-in integration by incorporating our fine-tuned taxonomic classification models as an optional add-on within the open-source TaxTriage pipeline (Merritt et al 2026). MicrobeRT demonstrates the feasibility of three clinically relevant multi-label analyses, offering a practical path to scalable, reproducible metagenomic diagnostics and enabling broader deployment of AI/ML-enhanced infectious disease testing.",
+    "abstract": "Accurate and reproducible metagenomic analysis is essential for effective infectious disease surveillance. Targeted diagnostics such as culturing, antigen assays, and multiplex PCR panels identify only predefined organisms and can fail to identify atypical or novel infections. Shotgun metagenomics offers hypothesis-free detection, but adoption is limited by workflow complexity, dependence on mutable reference databases, and high computational cost.  To combat these challenges, we introduce MicrobeRT, an integrated suite of genomic language models fine-tuned to classify metagenomic sequencing reads across three tasks: (i) species level taxonomic identification, (ii) antibiotic resistance gene detection, and (iii) pathogenicity assessment. The framework builds on three pre-trained genomic language models - Nucleotide Transformer (Dalla-Torre et al 2025), DNABERT (Ji et al 2021, Zhou et al 2024), and HyenaDNA (Nguyen et al 2024) - leveraging their large-scale genomic pre-training, adaptability to downstream tasks, and, in the case of HyenaDNA, ability to capture long-range sequence dependencies. The models are fine-tuned on large, curated datasets spanning microbial, viral, fungal, and human genomes, including more than 500,000 genomes and 250,000 antibiotic resistance gene sequences.  To evaluate the performance of our fine-tuned genomic language models across classification tasks, we developed a benchmarking framework that compares MicrobeRT against state-of-the-art (SOTA) bioinformatics tools. Across both simulated and empirical datasets, the models achieve strong performance while reducing computational overhead. MicrobeRT is released as open-source software, enabling further fine-tuning and reproducible integration of alternative models and classifiers. We also demonstrate seamless, drop-in integration by incorporating our fine-tuned taxonomic classification models as an optional add-on within the open-source TaxTriage pipeline (Merritt et al 2026). MicrobeRT demonstrates the feasibility of three clinically relevant multi-label analyses, offering a practical path to scalable, reproducible metagenomic diagnostics and enabling broader deployment of AI/ML-enhanced infectious disease testing.",
     "journal": "bioRxiv",
     "preprint": true,
     "version": "1",
@@ -102420,27 +102439,39 @@
       "10.64898/2026.11.03.763945"
     ],
     "date": "2026-11-04",
-    "authors": "Narayan, V.; Merritt, B.; Choudhery, S.; Jimenez, D.; Ta, S.; Berman, D. S.; Ratcliff, J.; Gallagher, M. E.",
+    "authors": "Narayan V, Merritt B, Choudhery S, Jimenez D, Ta S, Berman DS, Ratcliff J, Gallagher ME.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763945v1",
+    "source_url": "https://europepmc.org/article/PPR/PPR1358677",
     "topic_filter": {
       "accepted": true,
       "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
+      "version": "microbial-rules-v3",
       "matched": [
+        "benchmark",
+        "bioinformatics",
+        "classification",
+        "framework",
         "fungal",
+        "genomic",
+        "metagenom",
         "metagenomic",
         "metagenomics",
+        "microbe",
         "microbial",
+        "sequence",
+        "tool",
         "viral"
       ],
       "context": {
         "marine": [],
         "genomics": [
           "genom",
-          "metagenom"
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic"
         ],
         "evolution": []
       },
@@ -102452,9 +102483,25 @@
     "collected_at": "2026-11-08T05:59:13.421860+00:00",
     "collected_date": "2026-11-08",
     "sources": [
+      "Europe PMC bioinformatics",
       "bioRxiv"
     ],
     "first_seen": "2026-11-08",
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
     "translation": {
       "title": {
         "hash": "c612f33792745caecba4f740e8758eecc6ce040c0950463bf3d059e6c213f030",
@@ -102463,16 +102510,15 @@
         "format": "pfml3-ja-v1"
       },
       "abstract": {
-        "hash": "0636cd9b2889397ee9c17a408cd9bdee1b62cf93ea22208a9336032aa1dd508c",
+        "hash": "3fbec40380cd630091f86f56c452f2e7062a014150f9362516df9acd575fd51b",
         "model": "plamo-3-translate-2b",
-        "date": "2026-11-08T14:11:25.161165+00:00",
+        "date": "2026-11-13T23:57:37.504537+00:00",
         "format": "pfml3-ja-v1"
       }
     },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "MicrobeRT: ゲノム配列向けファインチューニング済み言語モデルのフレームワークおよびスイート",
-    "abstract_ja": "正確かつ再現性のあるメタゲノム解析は、効果的な感染症サーベイランスに不可欠である。培養、抗原アッセイ、マルチプレックスPCRパネルなどの標的型診断法は、あらかじめ定義された微生物のみを同定するため、非典型的または新規の感染症を同定できない場合がある。ショットガン・メタゲノミクスは仮説不要の検出を可能にするが、その導入は、ワークフローの複雑さ、可変的なリファレンスデータベースへの依存、および高い計算コストによって制限されている。これらの課題に対処するため、我々は、メタゲノムシーケンシングリードを3つのタスク（i）種レベルの分類学的同定、（ii）抗生物質耐性遺伝子の検出、（iii）病原性評価に分類するようにファインチューニングされた統合型ゲノム言語モデルスイート「MicrobeRT」を提案する。本フレームワークは、Nucleotide Transformer (Dalla-Torre et al 2025)、DNABERT (Ji et al 2021, Zhou et al 2024)、およびHyenaDNA (Nguyen et al 2024) という3つの事前学習済みゲノム言語モデルを基盤としており、それらの大規模なゲノム事前学習、ダウンストリームタスクへの適応性、およびHyenaDNAにおける長距離配列依存性の捕捉能力を活用している。これらのモデルは、微生物、ウイルス、真菌、およびヒトゲノムにわたる大規模でキュレートされたデータセット（50万件以上のゲノムと25万件の抗生物質耐性遺伝子配列を含む）を用いてファインチューニングされている。分類タスクにおけるファインチューニング済みゲノム言語モデルの性能を評価するため、我々はMicrobeRTを最先端（SOTA）のバイオインフォマティクスツールと比較するベンチマークフレームワークを開発した。シミュレーションデータセットおよび実証データセットの双方において、本モデルは計算オーバーヘッドを削減しつつ、高い性能を達成した。MicrobeRTはオープンソースソフトウェアとして公開されており、さらなるファインチューニングや、代替モデルおよび分類器の再現性のある統合が可能である。また、オープンソースのTaxTriageパイプライン (Merritt et al 2026) 内に、ファインチューニング済みの分類学的分類モデルをオプションのアドオンとして組み込むことで、シームレスなドロップイン統合を実証した。MicrobeRTは、臨床的に意義のある3つのマルチラベル解析の実現可能性を示し、スケーラブルで再現性のあるメタゲノム診断への実用的な道筋を提示するとともに、AI/MLで強化された感染症検査のより広範な展開を可能にする。",
-    "discovery": []
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "abstract_ja": "正確かつ再現性のあるメタゲノム解析は、効果的な感染症サーベイランスに不可欠である。培養、抗原アッセイ、マルチプレックスPCRパネルなどの標的型診断法は、あらかじめ定義された微生物のみを同定するため、非典型的または新規の感染症を同定できない場合がある。ショットガン・メタゲノミクスは仮説不要の検出を可能にするが、その導入は、ワークフローの複雑さ、可変的なリファレンスデータベースへの依存、および高い計算コストによって制限されている。これらの課題に対処するため、我々は、メタゲノムシーケンシングリードを3つのタスク（i）種レベルの分類学的同定、（ii）抗生物質耐性遺伝子の検出、（iii）病原性評価に分類するようにファインチューニングされた統合型ゲノム言語モデルスイート「MicrobeRT」を提案する。本フレームワークは、Nucleotide Transformer (Dalla-Torre et al 2025)、DNABERT (Ji et al 2021, Zhou et al 2024)、およびHyenaDNA (Nguyen et al 2024) という3つの事前学習済みゲノム言語モデルを基盤としており、それらの大規模なゲノム事前学習、ダウンストリームタスクへの適応性、およびHyenaDNAにおける長距離配列依存性の捕捉能力を活用している。これらのモデルは、微生物、ウイルス、真菌、およびヒトゲノムにわたる大規模でキュレートされたデータセット（50万件以上のゲノムと25万件の抗生物質耐性遺伝子配列を含む）を用いてファインチューニングされている。分類タスクにおけるファインチューニング済みゲノム言語モデルの性能を評価するため、我々はMicrobeRTを最先端（SOTA）のバイオインフォマティクスツールと比較するベンチマークフレームワークを開発した。シミュレーションデータセットおよび実証データセットの双方において、本モデルは計算オーバーヘッドを削減しつつ、高い性能を達成した。MicrobeRTはオープンソースソフトウェアとして公開されており、さらなるファインチューニングや、代替モデルおよび分類器の再現性のある統合が可能である。また、オープンソースのTaxTriageパイプライン (Merritt et al 2026) にファインチューニング済みの分類学的分類モデルをオプションのアドオンとして組み込むことで、シームレスなドロップイン統合を実証した。MicrobeRTは、臨床的に意義のある3つのマルチラベル解析の実現可能性を示し、スケーラブルで再現性のあるメタゲノム診断への実用的な道筋を提示するとともに、AI/MLで強化された感染症検査のより広範な展開を可能にする。"
   },
   {
     "id": "10.64898/2026.11.03.763809",
@@ -198924,5 +198970,163 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "非病原性サルモネラワクチン株の宿主内進化により、機能喪失を伴わない病原性機能の調節的チューニングが明らかになった。",
     "abstract_ja": "非チフス性サルモネラ（NTS）は、微生物叢を介した定着抵抗性を克服するため、サルモネラ病原性アイランド1（SPI-1）にコードされたコストの高い上皮侵入プログラムに依存している。SPI-1の発現は、少数の侵入性SPI-1ON細胞が広範な細菌集団に利益をもたらす協調的な形質であるため、炎症性感染モデルでは、SPI-1機能に欠損を持つ恒久的に非病原性の「チーター」変異体が容易に選択される。しかし、急性感染時に頻繁に観察される一方で、ヒトNTSの持続感染分離株において明らかなSPI-1機能喪失変異が認められることは稀であり、急性腸管炎症の誘導や組織内持続を超えて、SPI-1が細菌の適応度に寄与しているのかという疑問が生じる。本研究では、SPI-1依存的な宿主相互作用と免疫原性を維持しつつ、明らかな炎症性病理や組織感染を引き起こすことなくマウス腸管に持続的に定着する、代謝的に弱毒化されつつも上皮侵入能を有する栄養要求性サルモネラ血清型Typhimurium（STm）ワクチン株（STmAux）を用いて、この疑問に取り組んだ。最大5年間にわたる宿主内進化を追跡した結果、STmAux集団には古典的なhilDやその他の明らかなSPI-1機能喪失型チーター変異体は蓄積しなかった。代わりに、並行進化によってBarA/SirA二成分調節系が繰り返し標的となり、これはヒトNTSの持続感染における既往の観察結果と密接に一致していた。機能解析により、進化したbarAおよびsirAアレルは、個々の上皮侵入能を維持したままSPI-1ON細胞の割合を著しく減少させることで、SPI-1機能を消失させるのではなく調整していることが示された。原栄養性株の背景で再構築された初期の進化分離株は、in vitroでSPI-1ON頻度が著しく減少していたにもかかわらず、in vivoでは完全な腸管および全身性の病原性を保持していた。驚くべきことに、hilD欠損株の背景においても同一のsirA変異アレルが出現しており、これらの適応変異の選択が、古典的なHilD依存性SPI-1活性化に依存していないことが示された。長期にわたる進化の過程で、上皮侵入能は維持されつつも全身性病原性の喪失に関連する追加の変異が蓄積しており、これはSPI-1介在性病原性を超えて宿主相互作用経路に影響を及ぼす後続の適応を示唆している。以上の知見を総合すると、BarA/SirA制御ネットワークの調節調整が、NTSの長期持続における保存された進化経路であることが特定される。古典的なチーター駆動型の病原性機能喪失を促進するのではなく、長期的な適応は、表現型的に病原性を持つSPI-1ON細胞の割合を減少させつつ、相当なSPI-1依存性の宿主相互作用を維持しているのである。"
+  },
+  {
+    "id": "10.64898/2026.11.10.765580",
+    "title": "Structural signatures of salinity adaptation in Microviricetes capsids",
+    "abstract": "Phages, like their bacterial hosts, have evolved to proliferate across the full range of environments on Earth, but the specific amino acid residues that underlie their environmental adaptations remain elusive. Here, we developed a computational framework that uses structure-based multiple sequence alignments, a random forest classifier, and a phylogeny-aware regression model to find amino acid residues linked to specific environments. Applying this framework to public metagenomic data, we analyzed 1,110 Microviricetes major capsid proteins (MCPs) from the lake and ocean biomes, and found that ocean virus capsids were highly enriched in negatively charged residues on internal and external surfaces. This adaptation likely helps maintain solubility at high salt concentrations and stabilizes ssDNA-capsid interactions by sequestering positively charged ions inside the capsid. At intersubunit interfaces, ocean capsids showed enrichment of cation-{pi} and {pi}-{pi} interactions, which are more resistant to solvation than salt bridges and hydrogen bonds. Amino acid residues in lake capsids were more often substituted by biochemically dissimilar amino acids in ocean capsids than the reverse. Together, these results show that microvirus capsids adapt to high-salt environments through changes in surface charge and substitutions affecting intersubunit interactions. Further, we describe a general approach for studying the adaptation and stability of any protein family under complementary environmental or phenotypic conditions.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765580",
+    "date": "2026-11-11",
+    "authors": "Khot, V. M., Krupovic, M., Dutilh, B. E.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765580v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "alignment",
+        "amino acid",
+        "bacteria",
+        "bacterial",
+        "framework",
+        "metagenom",
+        "metagenomic",
+        "phage",
+        "phages",
+        "phylogeny",
+        "sequence",
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "lake",
+          "ocean"
+        ],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3926,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.10.765580"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8733e8d7e57cce6227f10e8fc86258be48efabeaa56844d83dbdc2b8c0e570fd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:57:37.504537+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f7b62824b2ea0e5096b278719aa0cc61c67f668e1fe40c2827063ed027bf30c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:57:37.504537+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Microviricetesカプシドにおける塩濃度適応の構造的特徴",
+    "abstract_ja": "ファージは、細菌宿主と同様に、地球上のあらゆる環境にわたって増殖するように進化してきたが、その環境適応の基盤となる特定のアミノ酸残基は依然として解明されていない。本研究では、構造ベースの多重配列アライメント、ランダムフォレスト分類器、および系統樹を考慮した回帰モデルを用いて、特定の環境に関連付けられたアミノ酸残基を同定する計算フレームワークを開発した。このフレームワークを公開メタゲノムデータに適用し、湖沼および海洋バイオーム由来の1,110種類のMicroviricetes majorカプシドタンパク質（MCP）を解析した結果、海洋ウイルスのカプシドでは、内部および外部表面において負に帯電した残基が高度に濃縮されていることが判明した。この適応は、高塩濃度下での溶解性の維持に寄与し、正に帯電したイオンをカプシド内部に隔離することでssDNA-カプシド間の相互作用を安定化させていると考えられる。サブユニット間界面において、海洋カプシドでは、塩橋や水素結合よりも溶媒和耐性の高いカチオン-{π}および{π}-{π}相互作用の濃縮が認められた。湖沼カプシドのアミノ酸残基が海洋カプシドにおいて生化学的に異なるアミノ酸に置換されている頻度は、その逆よりも高かった。以上の結果を総合すると、マイクロウイルスのカプシドは、表面電荷の変化およびサブユニット間相互作用に影響を与える置換を通じて、高塩環境に適応していることが示される。さらに、相補的な環境条件または表現型条件下におけるあらゆるタンパク質ファミリーの適応性と安定性を研究するための汎用的なアプローチについて述べる。"
+  },
+  {
+    "id": "10.64898/2026.11.10.765637",
+    "title": "A proteomics screen of HIV-1 ASP interactors reveals multifaceted effects on host cell homeostasis",
+    "abstract": "Nearly four decades after the identification of the HIV-1 antisense gene asp, the function of its protein product remains unclear. Evidence of ASP expression in vivo and the high degree of conservation of the asp gene among pandemic HIV-1 strains suggest a beneficial role for the virus. Using a mass spectrometry (MS)-based proteomics screen for ASP interactors, we identified nuclear, cytosolic, and mitochondrial host factors, congruent with variable sub-cellular ASP localization. A majority of the host factors identified in the MS screen are involved in pathways essential for host cell homeostasis, including DNA damage repair, intracellular protein transport, mitochondrial function and protein translation. Validating the biological relevance of these findings, we demonstrate that ASP shuttles to the nucleus to promote DNA damage repair and cell viability in response to genotoxic stress. We also finds that ASP promotes translation of mitochondrially encoded host proteins involved in cellular respiration and contributes to maintain mitochondrial membrane potential. Together, these studies identify ASP as a modulator of two major pathways of cellular homeostasis in infected cells, which has direct implications for HIV-1 persistence, spread, and the long-term survival of the viral reservoir.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765637",
+    "date": "2026-11-11",
+    "authors": "Iqbal, M. S., Lee, T.-H., Li, C. L., Wang, Y., Ji, X., Li, R., Liu, X., Caico, I., Oberdoerffer, P., Romerio, F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765637v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 3927,
+    "collected_at": "2026-11-11T18:52:26.778258+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.11.10.765637"
+    ],
+    "translation": {
+      "title": {
+        "hash": "13ee1c7651b61daf5dd535ea63ea8e5acf3db2d34b5ac2345682ea7e85431638",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:57:37.504537+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "deb51e1a263403f301a919caaf6dfe2b4aef68c5ac102f886c305fb51dac052d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-13T23:57:37.504537+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIV-1 ASP相互作用因子のプロテオミクススクリーニングにより、宿主細胞の恒常性に対する多面的な影響が明らかになった。",
+    "abstract_ja": "HIV-1のアンチセンス遺伝子aspが同定されてから40年近くが経過した現在も、そのタンパク質産物の機能は依然として不明である。生体内でのASP発現の証拠や、パンデミックHIV-1株間におけるasp遺伝子の高い保存性は、ウイルスにとって有益な役割を果たしていることを示唆している。質量分析（MS）を用いたASP相互作用因子のプロテオミクススクリーニングにより、核、細胞質、およびミトコンドリアの宿主因子を同定し、これらは細胞内におけるASPの多様な局在と一致していた。MSスクリーニングで同定された宿主因子の大部分は、DNA損傷修復、細胞内タンパク質輸送、ミトコンドリア機能、およびタンパク質翻訳を含む、宿主細胞の恒常性に不可欠な経路に関与している。これらの知見の生物学的意義を検証するため、我々は、ASPが核へシャトル輸送されることで、遺伝毒性ストレスに応答してDNA損傷修復と細胞生存能を促進することを実証した。また、ASPが細胞呼吸に関与するミトコンドリア符号化宿主タンパク質の翻訳を促進し、ミトコンドリア膜電位の維持に寄与していることを見出した。以上の研究を総合すると、ASPは感染細胞における細胞恒常性の2つの主要な経路の調節因子であることが明らかとなり、これはHIV-1の持続性、拡散、およびウイルスリザーバーの長期生存に直接的な影響を及ぼす。"
   }
 ]
