@@ -207636,5 +207636,329 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "scHiRは、ペアとなった単一細胞トランスクリプトームおよび3Dゲノムデータから関節細胞表現を学習する。",
     "abstract_ja": "同時シーケンシングされたscRNA-seqおよびscHi-C技術は、個々の細胞内における遺伝子発現と三次元（3D）ゲノム構成の一致した測定値を提供し、細胞状態に関する相補的な知見をもたらす。しかし、これらのモダリティの構造や特性が異質であるため、統合的な解析は依然として困難である。このようなデータの潜在能力を最大限に引き出すには、共同細胞表現を学習するための効果的な計算手法が必要である。本報では、ペアとなった遺伝子発現プロファイルとクロマチン接触マップから共埋め込みを学習するための、超球面変分オートエンコーダ（S-VAE）に基づくフレームワークscHiRを提案する。本フレームワークは、細胞クラスタリング、細粒度の細胞状態特性評価、発生軌跡の推論といった下流解析を容易にし、モダリティ固有のデコーダによって入力プロファイルの信号復元を可能にする。我々は、HiRES、GAGE-seq、およびLiMCAによって生成された6つのペアデータセットを用いてscHiRを評価した。scHiRは細胞種固有の情報を捉え、代表的なシングルオミクス手法と比較してクラスタリング性能が向上した。また、細粒度のサブクラスターを分離することが可能であり、不一致かつ異なる細胞プロファイルを明らかにした。発生生物学データセットにおいて、scHiRは軌跡関連の構造を保持し、既知の発生進行と一致して擬似時間を改善した。最後に、scHiRはノイズが低減され、細胞種関連信号が強化され、ホールドアウトされたクロマチン接触の復元が改善された、再構築されたトランスクリプトームおよびクロマチン接触プロファイルを生成した。これらの結果は、scHiRがペアとなったscRNA-seqおよびscHi-Cデータから共同細胞表現を学習するための効果的な手法であることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.764926",
+    "title": "Ok-k-mer: Selecting k-mer length ensembles for calculating genomic distance",
+    "abstract": "Current methods for computing sequence similarity across large groups of genome sequences tend to do so at the level of k-mers since this is far more efficient than base-by-base alignment. While these methods use default k-mer lengths, recent work shows that the particular choice of k-mer length greatly affects accuracy, and that using multiple values of k can boost accuracy relative to the best single choice of k, particularly when the goal is to estimate genomic distances that reflect true phylogenetic relationships. Here, we introduce Ok-k-mer, a tool to systematically select weighted k-mer length ensembles for pairwise genomic distance estimation, thereby increasing the accuracy of those estimates. Given a phylogenetic tree, Ok-k-mer ranks genome pairs by Jaccard distance across a range of k and uses a progressive search to maximize the Spearman correlation, ρ, between weighted-average k-mer ranks and branch distances. Across eight Genome Taxonomy Database datasets, Ok-k-mer ensembles improved correlation over standard default k-mer lengths. In the Chlamydiales taxonomy, a three-length ensemble k=(9,17,22) achieved a 23.9% relative improvement over the best single length (k=20) and a 36.7% improvement over a commonly used default of 31-mers. We demonstrate that Ok-k-mer k-mer length ensembles remain stable (i.e. lengths and weights change only moderately) under genome subsampling within a taxonomy but vary across datasets. Ok-k-mer can annotate all subtrees of a phylogeny, which reveals distinct patterns of ensembles reflecting potential differences in genome evolution. Ok-k-mer provides a framework for moving beyond a \"one-k-fits-all\" k-mer analysis, improving genomic distance estimation in the era of massive-scale genomics.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764926",
+    "date": "2026-11-09",
+    "authors": "Hwang S, Langmead B.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362426",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4250,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.06.764926"
+    ],
+    "translation": {
+      "title": {
+        "hash": "425fe12f103c1c949ef53456c2b0323a053ea07e3ea79031dc05e0a9b66d2ce3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:07:42.153918+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "13384cc403c4465e72616eb85db863401762d0b2d5c58a7e6335b22d1d51f5a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:07:42.153918+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Ok-k-mer: ゲノム距離算出のためのk-mer長アンサンブルの選択",
+    "abstract_ja": "大規模なゲノム配列群における配列類似性を算出する現在の手法は、塩基単位のアライメントよりもはるかに効率的であるため、k-merレベルで計算を行う傾向にある。これらの手法ではデフォルトのk-mer長が用いられるが、近年の研究により、k-mer長の具体的な選択が精度に大きく影響すること、また、特に真の系統関係を反映するゲノム距離の推定を目的とする場合には、複数のk値を用いることで、最適な単一のk値を選択した場合に比べて精度を向上させられることが示されている。本研究では、ペアワイズゲノム距離推定のために重み付きk-mer長アンサンブルを体系的に選択し、それによって推定精度を向上させるツールであるOk-k-merを提案する。系統樹が与えられた場合、Ok-k-merはkの範囲にわたるJaccard距離に基づいてゲノムペアを順位付けし、漸進的探索を用いて、重み付き平均k-mer順位と分岐距離との間のスピアマン相関係数ρを最大化する。8つのGenome Taxonomy Databaseデータセットにおいて、Ok-k-merアンサンブルは標準的なデフォルトのk-mer長よりも相関を改善した。Chlamydiales分類体系では、3つの長さからなるアンサンブルk=(9,17,22)が、最適な単一長（k=20）に対して23.9%の相対的改善を、一般的に用いられるデフォルトの31-merに対して36.7%の改善を達成した。我々は、Ok-k-merのk-mer長アンサンブルが、分類体系内でのゲノムサブサンプリングにおいても安定しており（すなわち、長さと重みの変化は緩やかである）、データセット間で変動することを示す。Ok-k-merは系統樹のすべての部分木にアノテーションを付与することができ、これにより、ゲノム進化における潜在的な差異を反映したアンサンブルの明確なパターンが明らかになる。Ok-k-merは、「万能な単一k-mer」解析から脱却するためのフレームワークを提供し、大規模ゲノミクス時代におけるゲノム距離推定を向上させる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11639131/v1",
+    "title": "Meta-analysis of the agreement and accuracy of functional inference from 16S amplicon studies in arsenic-affected soils and aquifers",
+    "abstract": "Abstract    Background.  Almost all archived environmental sequence data are 16S amplicon, so gene content is inferred from lineage rather than measured, yet inferred profiles are routinely read as measurements. Whether the reliability of inference differs between genes, and whether the predictor’s own confidence metric identifies the unreliable ones, has not been tested at archive scale. Here, 3,041 archived 16S amplicon runs from 78 studies of rice-paddy soil, arsenic-contaminated soil and arsenic-affected aquifers were re-analysed through one pipeline. Gene content was inferred by a curated marker-taxa bridge and by PICRUSt2, their agreement was quantified per gene and tested against candidate predictors, and both routes were checked against paired shotgun metagenomes. Compartments were compared under depth adjustment and study-level permutation.  Results.  Agreement between the routes varied widely by gene, from ρ = 0.906 (mcrA) to ρ = −0.118 (arsM), around a weak median of ρ = 0.286 across 698 gene-study comparisons in 57 studies. PICRUSt2’s confidence metric did not explain that range, whereas agreement tracked how consistently the marker taxa carried each gene in PICRUSt2’s reference genomes (ρ = +0.66). FAPROTAX, a published lookup, matched PICRUSt2 no better than the bridge, whereas Tax4Fun2, a second genome-based predictor, matched it more closely (ρ = +0.43 against ρ = +0.29). Sequencing depth lowered inferred abundance in 15 of 20 genes, while its effect on detection was positive for every gene. Against shotgun metagenomes from 267 biosamples in 16 studies, PICRUSt2 tracked measured abundance weakly (median ρ = +0.21), Tax4Fun2 no better, and the bridge barely (ρ = +0.05). Agreement between the bridge and PICRUSt2 predicted the accuracy of the bridge but not of PICRUSt2. No compartment difference was resolved after adjustment.  Conclusions.  Agreement between amplicon-based inference routes differs by gene within a single panel. Neither the predictor’s confidence metric nor phylogenetic conservation identifies the discordant genes, while carriage within the marker taxa partly anticipates them. Disagreement between independent routes flags method-dependent genes, but agreement does not certify accuracy. The routes disagree on arsM, one of only two arsenic-cycling genes both score. Compartment differences in arsenic-cycling potential cannot be resolved from public amplicon data without shotgun metagenomes.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11639131/v1",
+    "date": "2026-11-09",
+    "authors": "Hasan MR, Zubyer S, Rupa MAK, Rabbi MFA, Zahid A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362103",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4251,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11639131/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ddeae3142e5b256a8428a52cfb3e8a26029747e430713a37f56e817e71db5d17",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:07:42.153918+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "239546bccf91b6553bd964beb623a6a04f23cd054b15e5a1ac560b36c955d3ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:07:42.153918+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒ素影響を受けた土壌および帯水層における16Sアンプリコン研究による機能推論の一致度と精度に関するメタ解析",
+    "abstract_ja": "要旨    背景。アーカイブされた環境配列データのほぼすべては16Sアンプリコンであるため、遺伝子含量は測定ではなく系統から推定されるが、推定プロファイルは慣例的に測定値として読み解かれている。推定の信頼性が遺伝子間で異なるか、また予測器自体の信頼度指標が信頼性の低い遺伝子を特定できるかについては、アーカイブ規模では検証されていない。本研究では、イネ水田土壌、ヒ素汚染土壌、およびヒ素影響帯水層に関する78研究から得られた3,041件のアーカイブ16Sアンプリコンランを、単一のパイプラインを用いて再解析した。遺伝子含量は、キュレートされたマーカー・タクソノミー・ブリッジおよびPICRUSt2によって推定し、その一致度を遺伝子ごとに定量化して候補予測器と照合した。また、両手法をペアショットガンメタゲノムと照合した。コンパートメント間の比較は、深度調整および研究レベルの置換を用いて行った。結果。手法間の一致度は遺伝子によって大きく異なり、ρ = 0.906 (mcrA) から ρ = −0.118 (arsM) まで幅があったが、57研究における698件の遺伝子・研究間比較では、中央値 ρ = 0.286 という低い値を示した。PICRUSt2の信頼度指標ではこの範囲を説明できなかったが、一致度は、PICRUSt2のリファレンスゲノムにおいてマーカータクソノミーが各遺伝子をどの程度一貫して保持しているかを追跡していた（ρ = +0.66）。既報のルックアップであるFAPROTAXは、ブリッジと比較してPICRUSt2を上回る一致度を示さなかったが、もう一つのゲノムベースの予測器であるTax4Fun2は、より密接に一致した（ρ = +0.43 対 ρ = +0.29）。シーケンシング深度の低下は、20遺伝子中15遺伝子において推定収量を減少させたが、検出への影響はすべての遺伝子で正であった。16研究の267バイオサンプルのショットガンメタゲノムと比較して、PICRUSt2は測定収量を弱く追跡し（中央値 ρ = +0.21）、Tax4Fun2は同等、ブリッジはわずかに追跡した（ρ = +0.05）。ブリッジとPICRUSt2の一致度は、ブリッジの精度を予測したが、PICRUSt2の精度は予測できなかった。調整後も、コンパートメント間の差異は解消されなかった。結論。アンプリコンに基づく推定手法間の一致度は、単一パネル内でも遺伝子によって異なる。予測器の信頼度指標も系統保存性も、不一致な遺伝子を特定することはできないが、マーカータクソノミー内での保持がそれらを部分的に予測する。独立した手法間の不一致は手法依存的な遺伝子を示唆するが、一致度は精度を保証するものではない。両手法は、ともにスコアが得られたわずか2つのヒ素循環遺伝子の一つであるarsMについて一致しなかった。ヒ素循環能におけるコンパートメント間の差異は、ショットガンメタゲノムを用いない限り、公開アンプリコンデータからは解消できない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764758",
+    "title": "GeneEmbedLLM: Harnessing Large Language Models for Gene Functional Embedding and Association Prediction",
+    "abstract": "将上述摘要提取为连续文本如下： Effective and high-quality gene function representations are crucial for bioinformatics tasks. While biological knowledge about genes is inherently textual, encompassing functional descriptions and pathway annotations, current methods often rely on single-source, non-textual data, failing to capture the rich semantic information in multi-source gene annotations. In this paper, we propose GeneEmbedLLM, a Large Language Model (LLM)-powered framework for generating universal, semantically-aware gene embeddings. The proposed approach advances the gene representation learning through multi-source structured text integration from five authoritative databases and attribute-aware attention based on Longformer architecture and contrastive learning. Experimental results on diverse downstream tasks, ranging from molecular interactions and phenotypic dependencies to epigenetic regulation, confirm the validity and effectiveness of our proposed approach, where competitive performance is achieved across all evaluated benchmarks. We further validate the quality of the generated embeddings through comprehensive analyses, including embedding visualizations, intra-pathway similarity assessments, ablation study, and parameter analysis.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764758",
+    "date": "2026-11-09",
+    "authors": "zhang z, yang l, he z, ding j, Li Y, Shen R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362530",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4290,
+    "collected_at": "2026-11-13T07:56:57.456049+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.05.764758"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6e9601b929b44d3f46752634342376ecb9568b4ba0723cb8de8bf5323bf1c101",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:07:42.153918+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8e768eb0e99472bdca04bc4ffb269555d8f6ea00bc57e1654b9f59a6e1a84582",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:07:42.153918+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GeneEmbedLLM: 大規模言語モデルを活用した遺伝子機能埋め込みと関連予測",
+    "abstract_ja": "上記の要旨を連続テキストとして抽出すると以下の通りとなる：効果的かつ高品質な遺伝子機能表現は、バイオインフォマティクスタスクにおいて極めて重要である。遺伝子に関する生物学的知識は、機能記述やパスウェイアノテーションを含む本質的にテキスト形式であるが、現行の手法は単一ソースの非テキストデータに依存することが多く、マルチソースの遺伝子アノテーションに含まれる豊かな意味情報を捉えきれていない。本論文では、普遍的かつ意味情報を考慮した遺伝子埋め込みを生成するための、大規模言語モデル（LLM）搭載フレームワークであるGeneEmbedLLMを提案する。提案手法は、5つの権威あるデータベースからのマルチソース構造化テキストの統合と、Longformerアーキテクチャおよび対照学習に基づく属性認識型アテンションを通じて、遺伝子表現学習を高度化する。分子間相互作用や表現型依存性からエピジェネティック制御に至るまで、多様なダウンストリームタスクにおける実験結果は、評価したすべてのベンチマークにおいて競争力のある性能を達成しており、提案手法の妥当性と有効性を裏付けている。さらに、埋め込みの可視化、パスウェイ内類似度評価、アブレーションスタディ、およびパラメータ解析を含む包括的な分析を通じて、生成された埋め込みの品質を検証する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764556",
+    "title": "Choice of annotation data significantly impacts automated reconstruction of genome-scale metabolic networks",
+    "abstract": "Genome-scale metabolic models are valuable tools for studying metabolism in many applications, such as metabolic engineering or understanding human disease. However, curated models are available for only a limited number of organisms, and generating high-quality models for additional organisms remains a challenge. To help address this challenge, several software tools have been developed that can produce draft models in an automated fashion, but the quality of these draft models lags behind manually curated ones. Thus, there is still a need to improve these tools. Previous work has focused primarily on developing better methods for each step in the reconstruction process, such as gene annotation and gap-filling. Here, we focus on the data that underlies these methods, such as known connections between protein sequence and function. We find that changing the source of reconstruction data has a substantial impact on the contents and predictions of generated models. In fact, the source of data can have a bigger impact than the choice of reconstruction method. Additionally, we show that the reconstruction process is sensitive to the accuracy of gene annotations in the reconstruction data. Finally, we demonstrate the importance of having functional annotation data from an organism that is closely related to the one for which a model is being built. These observations highlight the importance of reconstruction data and identify principles that should be considered when selecting data for reconstruction tools.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764556",
+    "date": "2026-11-09",
+    "authors": "Bates BA, Papin JA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362465",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4291,
+    "collected_at": "2026-11-13T07:56:57.456049+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.05.764556"
+    ],
+    "translation": {
+      "title": {
+        "hash": "92a243d357743a72cbd04710df249bd26987c1efd650d7218e752ff70daac06f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:07:42.153918+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8c630578a606b09ec4bb0c3c70347c565a7b1650d96fe16ca995a633dd1fbee5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T05:07:42.153918+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アノテーションデータの選択は、ゲノムスケールの代謝ネットワークの自動再構築に大きな影響を及ぼす。",
+    "abstract_ja": "ゲノムスケールの代謝モデルは、代謝工学やヒト疾患の解明など、多くの応用分野において代謝を研究するための有用なツールである。しかし、キュレーション済みのモデルが利用可能な生物種は限られており、追加の生物種に対して高品質なモデルを生成することは依然として課題となっている。この課題に対処するため、ドラフトモデルを自動的に生成できる複数のソフトウェアツールが開発されてきたが、これらのドラフトモデルの品質は、手動でキュレーションされたものに及ばない。したがって、これらのツールのさらなる改良が依然として求められている。これまでの研究では、主に遺伝子アノテーションやギャップ充填といった、再構築プロセスの各ステップにおけるより優れた手法の開発に焦点が当てられてきた。本研究では、タンパク質配列と機能の既知の関連性など、これらの手法の基盤となるデータに着目する。その結果、再構築データのソースを変更することが、生成されるモデルの内容や予測に多大な影響を及ぼすことが明らかになった。実際、データのソースは、再構築手法の選択よりも大きな影響を及ぼし得る。さらに、再構築プロセスが再構築データにおける遺伝子アノテーションの精度に敏感であることも示す。最後に、モデルを構築する対象生物と密接に関連する生物の機能アノテーションデータを持つことの重要性を示す。これらの知見は、再構築データの重要性を浮き彫りにするとともに、再構築ツールのデータ選定時に考慮すべき原則を明らかにするものである。"
   }
 ]
