@@ -211713,5 +211713,328 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "2型糖尿病の既往は免疫調節不全を引き起こし、致死的な真菌感染症の封じ込めを困難にする。",
     "abstract_ja": "要旨    グルコース代謝は抗菌防御を可能にする一方で、病原体の増殖や免疫逃避にも寄与している。グルコース代謝の主要な疾患である2型糖尿病（T2D）は、メカニズムが十分に解明されていない機序により、Candida albicans感染の転帰を悪化させる。本研究では、T2Dの遺伝的および食事性動物モデルを用い、血流中C. albicans感染後、T2D動物において複数のT2D病因にわたり疾患が著しく増悪することを示した。肥満のみ（明らかな高血糖を伴わない場合）でもC. albicans疾患を悪化させるのに十分であるが、肥満かつ明らかな高血糖状態にあるT2D宿主における重症度を完全に再現することはできない。メカニズム解析の結果、病原体因子と宿主因子の収束がT2Dにおける不良な転帰を招くことが明らかとなった。C. albicansは、グルコース利用のための転写プログラムを活性化させることで宿主の血糖コントロール不全を利用し、病原体の増殖を促進する。これに、炎症促進応答の亢進およびインターフェロンやNK細胞シグネチャーの低下を特徴とする免疫調節不全が相まって、真菌の増殖を抑制する宿主の機能不全を引き起こす。さらに、感染時の血糖値ではなく、生涯にわたる代謝調節不全が感染の不良な転帰を招くことを示した。本研究は、T2Dにおける真菌感染の悪化をもたらす宿主および病原体のメカニズムを解明し、代謝性疾患における真菌感染を理解するための豊富なマルチオミクスリソースを提供するとともに、血糖値の急性低下ではなく、代謝調節不全の長期的な制御が生存率向上に不可欠であることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11631012/v1",
+    "title": "Genome-Wide Identification of the Potato MAPKKKK Gene Family Reveals StMAPKKKK1 as a Positive Regulator of Salt and Drought Tolerance",
+    "abstract": "Abstract    Mitogen-activated protein kinase kinase kinase kinases (MAP4Ks/MAPKKKKs) reside at the apex of MAPK signalling cascades, yet their roles in potato abiotic stress responses remain unexplored. Here, we identified eight  StMAPKKKK  genes via genome-wide identification in potato. StMAPKKKK1 protein was strongly induced by salt and drought stress and localized to the plasma membrane and cytoplasm. Yeast two-hybrid (Y2H), bimolecular fluorescence complementation (BiFC), and split-luciferase complementation (SLC) experiments show that StMAPKKKK1 physically interacts with StMAPKK2. To assess its function, we generated  StMAPKKKK1-  overexpressing (OE) and RNA interference (RNAi) lines in potato cultivar  'Atlantic'  . OE lines exhibited improved growth, with higher plant height, biomass, and leaf number, whereas RNAi lines were more sensitive than non-transgenic (NT) controls under both salt and drought stress conditions. Higher activities of ascorbate peroxidase (APX), catalase (CAT), superoxide dismutase (SOD), and peroxidase (POD), as well as proline and total chlorophyll contents, along with lower levels of hydrogen peroxide (H  2  O  2  ) and malondialdehyde (MDA) were observed in OE lines. In contrast, RNAi lines showed opposite trends for all above-mentioned parameters. These results indicate alleviated oxidative damage, enhanced osmotic adjustment, and better pigment retention. This study presents the first functional characterization of the  StMAPKKKK  family in potato and establishes  StMAPKKKK1  as a positive regulator of salt and drought tolerance, acting at least partially through interaction with StMAPKK2 and activation of the antioxidant defense system.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11631012/v1",
+    "date": "2026-11-06",
+    "authors": "zhu X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360160",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2229,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11631012/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4e13cf650aab9e4c6aaf8798f42848a622f1dfad81cafd79fddb6571af4d038d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:40:25.904651+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2b9a97ccc7ca4d2b56f70d6947ff062cb94c93efaef6447dc41af3826d9c3e9c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:40:25.904651+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ジャガイモMAPKKKK遺伝子ファミリーのゲノムワイド同定により、StMAPKKKK1が塩害・乾燥耐性の正の調節因子であることが明らかになった。",
+    "abstract_ja": "要旨    ミトゲン活性化プロテインキナーゼキナーゼキナーゼキナーゼ（MAP4Ks/MAPKKKKs）は、MAPKシグナル伝達カスケードの頂点に位置しているが、ジャガイモの非生物的ストレス応答における役割は未解明である。本研究では、ジャガイモにおけるゲノムワイドな同定により、8つのStMAPKKKK遺伝子を同定した。StMAPKKKK1タンパク質は、塩ストレスおよび乾燥ストレスによって強く誘導され、細胞膜および細胞質に局在した。酵母ツーハイブリッド（Y2H）、二分子蛍光相補法（BiFC）、およびスプリットルシフェラーゼ相補法（SLC）を用いた実験により、StMAPKKKK1が物理的にStMAPKK2と相互作用することが示された。その機能を評価するため、ジャガイモ栽培品種「Atlantic」において、StMAPKKKK1過剰発現（OE）系統およびRNA干渉（RNAi）系統を作製した。OE系統では、草丈、バイオマス、および葉数の増加を伴う生育の改善が認められた一方、RNAi系統は、塩ストレスおよび乾燥ストレスの両条件下において、非トランスジェニック（NT）対照系統よりも感受性が高かった。OE系統では、アスコルビン酸ペルオキシダーゼ（APX）、カタラーゼ（CAT）、スーパーオキシドジスムターゼ（SOD）、およびペルオキシダーゼ（POD）の活性、ならびにプロリンおよび総クロロフィル含有量の増加が認められ、一方で過酸化水素（H₂O₂）およびマロンジアルデヒド（MDA）のレベルは低下していた。対照的に、RNAi系統では、上述のすべてのパラメータにおいて相反する傾向が認められた。これらの結果は、酸化損傷の軽減、浸透圧調節の亢進、および色素保持の改善を示している。本研究は、ジャガイモにおけるStMAPKKKKファミリーの初の機能的特性解析を行い、StMAPKKKK1が、少なくとも部分的にStMAPKK2との相互作用および抗酸化防御系の活性化を介して、塩および乾燥耐性の正の調節因子であることを明らかにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10994937/v1",
+    "title": "Chromosome-level genome assembly of the cigarette beetle Lasioderma serricorne reveals genomic adaptations to stored-product niches",
+    "abstract": "Abstract    Background  Lasioderma serricorne  (Coleoptera: Ptinidae) is a globally significant stored‑product pest renowned for its exceptional adaptability to diverse substrates, including toxin‑rich tobacco. Despite its economic importance and ecological relevance, the genomic basis of its adaptation to stored‑product niches remains largely unexplored. Results  Here, we present a chromosome‑level genome assembly of  L. serricorne  generated through an integrative approach combining PacBio HiFi, Hi‑C, and NGS sequencing. The 188.96 Mb genome is anchored into 11 pseudochromosomes with a scaffold N50 of 19.11 Mb and a BUSCO completeness of 97.1%, representing a high‑quality reference for this species. Comparative genomic analyses across 20 Coleoptera species with a Neuroptera outgroup revealed that 41 gene families have undergone significant expansion in the  L. serricorne  lineage, with prominent enrichments in detoxification pathways (including insecticide metabolism and response to toxic substances) and carbohydrate metabolism. Among these, the ELL (elongation factor for RNA polymerase II) gene family exhibits a remarkable lineage‑specific expansion to 89 copies, suggesting enhanced transcriptional responsiveness to environmental stressors. Furthermore, positive selection analysis identified 88 genes under adaptive evolution along the  L. serricorne  branch, including  ABCC10  (ATP‑binding cassette transporter),  MAN1B1  (glycosyl hydrolase), and  CPT1A  (carnitine palmitoyltransferase), which harbour lineage‑specific amino acid substitutions potentially linked to nicotine tolerance and metabolic adaptation. Conclusions  These genomic features collectively illustrate how  L. serricorne  has evolved to exploit stored‑product environments through expansions of detoxification and digestive gene repertoires, alongside adaptive changes in energy metabolism. This reference genome provides a foundational resource for understanding the genetic mechanisms of pest adaptation and for developing novel management strategies.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10994937/v1",
+    "date": "2026-11-06",
+    "authors": "Zhang J, Li W, Liu X, Xu J, Liu X, Qian Y, Han Y, Jiao T, Lu J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360158",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome",
+        "genomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2463,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10994937/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "36f70f88358cea7ff444ccb3293a729e8c3ee1a8f75bc275544bc88b40e3e4b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:40:25.904651+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "342c76e7334bf90a1d6091b55407780c0c3c71e10fec9eaf95b9de96caa0f34f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:40:25.904651+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タバコシバンムシ Lasioderma serricorne の染色体レベルのゲノムアセンブリにより、貯蔵産物ニッチへのゲノム適応が明らかになった。",
+    "abstract_ja": "要旨    背景  Lasioderma serricorne（鞘翅目：タバコガ科）は、毒素を豊富に含むタバコを含む多様な基質に対する卓越した適応能で知られる、世界的に重要な貯蔵作物害虫である。その経済的重要性と生態学的意義にもかかわらず、貯蔵作物ニッチへの適応のゲノム基盤については、依然として大部分が未解明のままである。結果  本研究では、PacBio HiFi、Hi-C、およびNGSシーケンシングを組み合わせた統合的アプローチにより得られた、L. serricorneの染色体レベルのゲノムアセンブリを提示する。188.96 Mbのゲノムは11本の擬似染色体に固定されており、スキャフォールドN50は19.11 Mb、BUSCO完全性は97.1%であり、本種の高品質なリファレンスとなる。Neuropteraを外群とした20種の鞘翅目昆虫を用いた比較ゲノム解析の結果、L. serricorne系統において41の遺伝子ファミリーが著しく拡大しており、特に解毒経路（殺虫剤代謝や毒性物質への応答を含む）および炭水化物代謝において顕著な濃縮が認められた。このうち、ELL（RNAポリメラーゼII伸長因子）遺伝子ファミリーは、系統特異的に89コピーまで著しく拡大しており、環境ストレスに対する転写応答性の向上が示唆される。さらに、正の選択解析により、L. serricorne系統において適応進化を遂げた88個の遺伝子が同定された。これには、ABCC10（ATP結合カセットトランスポーター）、MAN1B1（グリコシルヒドロラーゼ）、およびCPT1A（カルニチンパルミトイルトランスフェラーゼ）が含まれ、これらはニコチン耐性や代謝適応に関連する可能性のある系統特異的なアミノ酸置換を有している。結論  これらのゲノム的特徴は総じて、L. serricorneがエネルギー代謝の適応的変化とともに、解毒および消化遺伝子レパートリーの拡大を通じて、貯蔵作物環境を利用するように進化してきたことを示している。本リファレンスゲノムは、害虫の適応の遺伝的メカニズムの理解および新規管理戦略の開発のための基礎的なリソースとなる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.26367303",
+    "title": "Benchmarking Structural Variant Detection in Whole-Exome Sequencing of 67 Multiple Myeloma Cell Lines",
+    "abstract": "Background:  Although the majority of structural variant (SV) workflows have been derived based on whole genome sequencing (WGS) data, they continue to be applied to whole exome sequence (WES) data for which many studies have evaluated their performance in cancer. An equally important consideration that has not been well studied is the impact of cancer context specific features among WGS-derived SV callers applied to WES data. Similar to personalized medicine, not all SV callers are alike and optimal for use with all cancer types and sequence data types. In addition to sequencing related data features, cancer types have embedded features withing the sequencing data that should be considered. Herein, we performed an analysis of SV heterogeneity among WGS-derived SV callers to WES data in multiple myeloma (MM), a cancer known for its genetically heterogeneous nature. Using WES data derived from a panel of 67 Multiple Myeloma (MM) cell lines, we evaluated seven WGS-derived SV detection tools (Delly, SvABA, BreakDancer, Smoove, LUMPY and Manta) for their ability to identify cytogenetically known genetic abnormalities and to characterize overall differences in the number, length, type, and runtime of SVs called among them. Results. Among the seven tools, Smoove and Manta both had the shortest runtime, processing files in less than 2 minutes, in contrast to tools that required more than two hours to run such as SvABA and Pindel. Smoove was the only SV caller to identify a range of SV types, while SvABA was the most restrictive, calling only breakends. All tools differed in the length of SVs called, with SvABA's unfiltered output including the shortest length of less than 10 base pairs (bps), and Delly and BreakDancer's output including the longest, with SVs of less than 1,000 bps. At the chromosome level, SvABA's unfiltered output and Delly's output included 78% and 27.5% of known SVs, respectively, with the remaining tools (including SvABA's filtered output) achieved recall rates of less of less than 10%. By comparison, at the genomics coordinate level, no tool identified more than 20% of known SVs. Conclusions. As all evaluated SV detection tools achieved poor recall rates on this comprehensive catalog of MM cell lines, this study implies SVs detected by WGS-based SV callers on WES data should be confirmed experimentally before being declared legitimate. Heterogeneity in these tools' output lends support to their combined use in practice. Considering that many clinical grade sequencing panels continue to expand their repertoire of rearrangements with therapeutic implications, our results prompt the potential need for cancer type-matched workflows to evaluate the calling of such rearrangements.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.26367303",
+    "date": "2026-11-06",
+    "authors": "Pugalenthi LS, Nanduri R, Hong R, Ylagan M, Prasad R, Arasappan D, Kowalski-Muegge J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361296",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2476,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.06.26367303"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3b62a806812ac3758c2ee068f493a37ab9fe5c53ced7e518d52a6966788fadbd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:40:25.904651+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b85a2c4f744babeabad65f6aa414002ca37f400a341e5a1dee078284f5cd0cf7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:40:25.904651+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "67種の多発性骨髄腫細胞株の全エクソーム解析における構造変異検出のベンチマーク解析",
+    "abstract_ja": "背景：構造変異（SV）ワークフローの大部分は全ゲノムシーケンシング（WGS）データに基づいて導出されてきたが、依然として全エクソームシーケンシング（WES）データにも適用されており、多くの研究でその性能ががんにおいて評価されてきた。同様に重要でありながら十分に研究されていない検討事項は、WGS由来のSVコーラーをWESデータに適用した際の、がんのコンテキストに特有の特徴による影響である。個別化医療と同様に、すべてのSVコーラーが同一であるわけではなく、あらゆるがん種やシーケンシングデータタイプに対して最適であるとは限らない。シーケンシング関連のデータ特徴量に加え、がん種にはシーケンシングデータ内に組み込まれた特徴量があり、これらを考慮する必要がある。本研究では、遺伝的に不均一な性質で知られるがんである多発性骨髄腫（MM）において、WGS由来のSVコーラーによるWESデータのSV不均一性の解析を行った。67種類の多発性骨髄腫（MM）細胞株パネルから得られたWESデータを用い、7つのWGS由来SV検出ツール（Delly、SvABA、BreakDancer、Smoove、LUMPY、Manta）について、細胞遺伝学的に既知の遺伝子異常を同定する能力と、それらの間でコールされたSVの数、長さ、タイプ、および実行時間における全体的な差異を特徴づける能力を評価した。結果。7つのツールのうち、SmooveとMantaはともに実行時間が最も短く、2分未満でファイルを処理した。これに対し、SvABAやPindelなどのツールは実行に2時間以上を要した。Smooveは幅広いSVタイプを同定できた唯一のSVコーラーであった一方、SvABAは最も限定的であり、ブレイクエンドのみをコールした。すべてのツールでコールされるSVの長さに差があり、SvABAの未フィルタリング出力には最短の10塩基対（bps）未満のものが含まれていたのに対し、DellyとBreakDancerの出力には最長の1,000 bps未満のSVが含まれていた。染色体レベルでは、SvABAの未フィルタリング出力とDellyの出力に既知のSVがそれぞれ78%および27.5%含まれており、残りのツール（SvABAのフィルタリング済み出力を含む）の再現率は10%未満であった。対照的に、ゲノミクス座標レベルでは、既知のSVの20%を超えて同定したツールはなかった。結論。評価したすべてのSV検出ツールが、MM細胞株のこの包括的なカタログにおいて低い再現率を示したことから、本研究は、WESデータにおいてWGSベースのSVコーラーで検出されたSVは、正当であると判定される前に実験的に確認されるべきであることを示唆している。これらのツールの出力における不均一性は、実臨床における併用を支持するものである。多くの臨床グレードのシーケンシングパネルが、治療的意義を持つ再編成のレパートリーを拡大し続けていることを踏まえると、本研究の結果は、こうした再編成のコールを評価するためのがん種適合型ワークフローの潜在的な必要性を提起するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.764332",
+    "title": "RPFace: From biased structural benchmarks to generalizable RNA-protein interface prediction",
+    "abstract": "Modeling protein-RNA complexes with co-folding and docking methods is routine, yet these methods are evaluated on benchmarks whose composition mirrors the deposited structures on which they were trained or tuned, leaving open whether their reported performance reflects true generalization. Here, we focus the evaluation on the region that carries the biological signal: the binding interface. For the first time, we construct and release a fair benchmark that stratifies protein-RNA data into distinct structural and experimental groups, providing a more stringent test of generalization than aggregate averages. On this benchmark, we find that accuracy of detecting the binding site using co-folding methods is concentrated in ribosomal complexes and varies systematically with factors such as experimental modality. For docking methods, it is reliable only when the input conformations are already close to the bound state, and it is inconsistent across RNA classes. Both families of methods fail to transfer to in vivo CLIP experiments. To address this gap, we introduce RPFace, to the best of our knowledge the first model that jointly predicts the binding preference of every protein residue and every RNA nucleotide directly from sequence, requiring no experimental structure, template, or multiple sequence alignment. RPFace combines an ensemble of predicted secondary structures with a multi-modal embedding-enrichment scheme that fuses representations from RNA foundation models and structure prediction models. Unlike existing approaches, it is a very small and fast model that delivers stable performance across structural and experimental conditions, is robust to conformational change, and generalizes to in vivo datasets without extensive pretraining. As a result, RPFace matches the state-of-the-art methods on protein interfaces with no evolutionary information, and outperforms them on RNA interfaces, with the largest gains in zero-shot settings despite using only sequence information. The model, code, and data are available at Github.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764332",
+    "date": "2026-11-06",
+    "authors": "Hashemi Aghdam H, Shukueian Tabrizi S, Cicek AE.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361169",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "alignment",
+        "benchmark",
+        "gene",
+        "nucleotide",
+        "prediction",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2477,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.04.764332"
+    ],
+    "translation": {
+      "title": {
+        "hash": "14c5e67de772d1ef26a4918d60bbed7ec8c8d96ed93862d35989fef1d8383e7d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:40:25.904651+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "832c633c92b50ff2b5c3fe1c33f097d8953f74489c3343cd73b501781c26b4b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:40:25.904651+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RPFace: 偏った構造ベンチマークから汎用的なRNA-タンパク質界面予測へ",
+    "abstract_ja": "共フォールディングおよびドッキング手法を用いたタンパク質-RNA複合体のモデリングは一般的であるが、これらの手法は、学習やチューニングに用いられた既報の構造を反映したベンチマークで評価されており、報告された性能が真の汎化性能を反映しているかは不透明である。本研究では、生物学的シグナルを担う領域である結合界面に焦点を当てて評価を行う。我々は初めて、タンパク質-RNAデータを構造的・実験的なグループに区分した公正なベンチマークを構築・公開し、集計平均よりも厳格な汎化性能の検証を可能にする。このベンチマークにおいて、共フォールディング手法による結合部位検出の精度はリボソーム複合体に集中しており、実験モダリティなどの要因によって系統的に変動することが明らかになった。ドッキング手法については、入力コンフォメーションが既に結合状態に近い場合にのみ信頼性が高く、RNAクラス間で一貫性に欠ける。これら両系統の手法は、in vivo CLIP実験への転移ができない。このギャップを埋めるため、我々はRPFaceを提案する。これは我々の知る限り、実験構造やテンプレート、多重配列アライメントを必要とせず、配列から直接すべてのタンパク質残基とすべてのRNAヌクレオチドの結合選好性を共同で予測する初のモデルである。RPFaceは、予測された二次構造のアンサンブルと、RNA基盤モデルおよび構造予測モデルの表現を融合させるマルチモーダル埋め込みエンリッチメントスキームを組み合わせている。既存の手法とは異なり、本モデルは非常に小規模かつ高速であり、構造的・実験的条件を問わず安定した性能を発揮し、コンフォメーション変化に対しても頑健で、広範な事前学習なしにin vivoデータセットへ汎化できる。その結果、RPFaceは進化情報のないタンパク質界面において最先端の手法に匹敵し、RNA界面ではそれらを凌駕しており、配列情報のみを使用しているにもかかわらず、ゼロショット設定において最大の性能向上を達成した。モデル、コード、およびデータはGithubで公開されている。"
   }
 ]
