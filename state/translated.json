@@ -202960,5 +202960,343 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "地域在住高齢者における口腔型腸内細菌叢指数と筋肉量の減少および3年間の筋肉量減少との関連：コホート研究",
     "abstract_ja": "要旨  背景  腸管-筋軸に関するエビデンスの多くは横断的なものであり、微生物多様性を軸として構成されている。本研究では、口腔型腸内細菌属（通常は口腔内に常在し、糞便中の出現が胃酸バリアの機能不全を示す生物）の事前規定された指標が、筋肉量、筋機能、およびその後の3年間の筋量減少と関連しているかを検討した。方法  京丹後長寿コホート研究において、地域在住の65歳以上の成人782名を対象に、糞便16S rRNAプロファイリングおよび筋評価を実施した。そのうち493名を平均3.35年後に再評価した。曝露因子は、アルファ多様性、地域構成、130属、およびStreptococcus、Veillonella、Fusobacterium、Granulicatella、Actinomyces、Rothia、Haemophilusの平均標準化中心化対数比存在量として事前規定された指標とした。付属骨格筋量（ASM）を主要アウトカムとし、ASM/身長²、ASM/BMI、握力、膝伸展筋力、および歩行速度を副次アウトカムとした。これらの副次アウトカム間、および追跡調査における各アウトカムの変化量について、偽発見率を制御した。共変量は5つの事前規定ブロックで入力され、最後に消化管薬、便秘、および疾患のブロックを設けた。縦断モデルは、打ち切り重み付けを用いて反復解析した。結果  指標の1 SDあたり、ASMは年齢、性別、および調査年で調整後で0.075 SD（95% CI 0.034～0.116）、完全調整後で0.067 SD（0.029～0.105）低かった。握力（q = 0.102）を除き、すべての副次アウトカムが補正後も有意であった：ASM/BMI − 0.059、歩行速度 − 0.088、ASM/身長² −0.046、膝伸展筋力 − 0.067（すべてq ≤ 0.026）。ASMの年間変化量は、完全調整後で− 0.125%/年（-0.235～-0.015）、重み付け後で− 0.180%/年（-0.292～-0.067）であったが、握力、膝伸展筋力、および歩行速度の変化は指標と関連せず（q = 0.36～0.88）、すべての多様性指標の変化も同様であった。プロトンポンプ阻害薬の使用により指標は0.49 SD（0.18～0.81）上昇したが、炎症マーカーとの関連は認められなかった。結論  口腔型腸内細菌属の指標は、筋肉量の減少、膝伸展筋力の低下、および歩行速度の低下、ならびにその後の筋肉量の減少（筋力や速度の減少は伴わない）と関連していた。多様性はこれらのいずれとも関連していなかった。これらの関連性は小さく、観察的なものである。腸管-筋軸については、分類学的解像度を用い、かつ連続的な指標を用いて検討する方が適切であると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.07.765118",
+    "title": "CPDD: Adapting an autoregressive DNA language model for bidirectional phage genome modeling",
+    "abstract": "Autoregressive DNA language models generate sequences efﬁciently from left to right, but many genome-analysis and sequence-editing problems are naturally conditioned on both ﬂanks. We introduce CreatiPhage, a 144.5M-parameter autoregressive DNA language model for bacteriophages, and its diffusion extension, CreatiPhage Diffusion DNA-LM (CPDD). CPDD is a 147.5M-parameter bidirectional discrete diffusion model initialized from the six-epoch CreatiPhage checkpoint. CPDD retains the pretrained Transformer, block attention residuals, and Engram conditional memory, while introducing non-causal attention, a MASK-aware base-5 Engram, centered depthwise convolution, and position-aligned nucleotide readout. Training combines masked and GIDD-style uniformly substituted bases with nucleotide- and amino-acid-level losses over a 10 kb, 32 kb, and whole-source context curriculum. On a screened panel of 522 phage CDSs, CPDD achieves higher random-mask restoration accuracy than a comparable diffusion model and performs well above codon-level references. In a mixed-corruption test, it restores 42.4% of visible incorrect bases. Frozen CPDD representations also support infA ﬁtness prediction and seven-class phage virion protein subtype classiﬁcation. Controlled evaluations further characterize how restoration depends on visible context and identify opportunities to improve longer-range sequence recovery. Together, these results support scaffold-conditioned sequence modeling as a step towards modular design of phage genomes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.07.765118",
+    "date": "2026-11-10",
+    "authors": "ding h, Wu N, Qiu T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363810",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteriophage",
+        "bacteriophages",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4234,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.07.765118"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bd9cc8981137ad7a50bf17664b8e270733b9b7c13fb0fc35c5cde5ca2f564907",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:15:00.774398+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4dd68797ba0b0b060eb4ba1369ecd9f5d76059393d3520a1b3d69a1c9f40f420",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:15:00.774398+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CPDD: 双方向ファージゲノムモデリングに向けた自己回帰型DNA言語モデルの適応",
+    "abstract_ja": "自己回帰型DNA言語モデルは、左から右へと効率的に配列を生成するが、多くのゲノム解析や配列編集問題は、本質的に両方向の条件付けを必要とする。本研究では、バクテリオファージ向けの144.5Mパラメータの自己回帰型DNA言語モデルであるCreatiPhageと、その拡散拡張版であるCreatiPhage Diffusion DNA-LM (CPDD) を提案する。CPDDは、6エポックのCreatiPhageチェックポイントから初期化された147.5Mパラメータの双方向離散拡散モデルである。CPDDは、事前学習済みTransformer、ブロックアテンション残差、およびEngram条件付きメモリを保持しつつ、非因果的アテンション、MASK認識型の5塩基Engram、中心深度方向畳み込み、および位置整合型ヌクレオチドリードアウトを導入している。学習では、マスク付きおよびGIDDスタイルの一様置換塩基を、10 kb、32 kb、およびソース全体のコンテキスト・カリキュラムにわたるヌクレオチドおよびアミノ酸レベルの損失関数を用いて組み合わせる。スクリーニングした522個のファージCDSパネルにおいて、CPDDは同等の拡散モデルよりも高いランダムマスク復元精度を達成し、コドンレベルのリファレンスを大幅に上回る性能を示した。混合汚染テストでは、可視的な誤塩基の42.4%を復元した。凍結されたCPDD表現は、infA適合性予測および7クラスのファージビリオンタンパク質サブタイプ分類もサポートする。制御された評価により、復元が可視コンテキストにどのように依存するかがさらに明らかになり、より長距離の配列復元を改善するための機会が特定された。これらの結果を総合すると、足場条件付けによる配列モデリングは、ファージゲノムのモジュール設計に向けた一歩として支持される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11470720/v1",
+    "title": "Complex diversityin papaya ringspot virus (PRSV) populations is governed by the host species and the geo-climatic locations",
+    "abstract": "Abstract    Papaya ringspot virus (PRSV) is one of the most important viral pathogens limiting papaya and cucurbit production globally. However, the evolutionary processes governing its population structure across diverse agro-ecological environments remain insufficiently understood. This study examined the genetic diversity, recombination patterns, and population structure of PRSV-P and PRSV-W isolates collected from different hosts and geo-climatic regions of India. Twenty-seven PRSV isolates originated from papaya and multiple cucurbit species were analyzed based onthe sequences of three protein coding regions: helper component proteinase (HC-Pro), nuclear inclusion proteinase-a (NIa-Pro), and coat protein (CP). The CP gene displayed substantial variation, ranging from 837 to 876 nucleotides, with the amino acid (aa)sequence diversities reaching up to 20%. Higher diversity was observed among cucurbit-derived PRSV-P isolates from warm semi-arid (WSA) regions, primarily through frequent aainsertion and deletion events. Phylogenetic analyses revealed varying evolutionary patterns among genomic regions. CP sequences grouped according to geo-climatic origin, whereas NIa-Pro differentiated based on host-& pathotype-associated lineages (PRSV-P and PRSV-W), while HC-Pro showed no distinct clustering patterns. Recombination analysis identified gene-specific evolutionary dynamics, with recombination detected in CP and NIa-Pro but not in HC-Pro. Population genetic analyses indicated extremely high haplotype diversity (  Hd   = 0.996), strong population subdivision (  Snn   = 0.88889–1.00000;  p   ≤ 0.004), and moderate to high genetic differentiation (  Fst   = 0.1899–0.7713), despite restricted gene flow (  Nm   = 0.20). Negative Tajima’s D values suggested recent population expansion and/or strong purifying selection. Overall, environmental variation, host association, and gene-specific constraints jointly influence PRSV evolution, while genetic isolation and limited gene flow promote diversification and ecological adaptation across distinct geo-climatic regions.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11470720/v1",
+    "date": "2026-11-10",
+    "authors": "Bhandari S, BASAVARAJ YB, Ashwini K, Kumar A, Sharma SK, Jain RK.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363118",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4238,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11470720/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "93871b5deb252a7f355be6a7707b14cb1d1138fe7e35ca34e7d2c2ce7b863280",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:15:00.774398+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "006fa7cb3a9cde66063319c0ec4dd89bb877c6267370475fe47fc39f59ff21fd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:15:00.774398+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パパイヤ輪紋ウイルス（PRSV）集団における複雑な多様性は、宿主種および地理的・気候的条件によって規定されている。",
+    "abstract_ja": "要旨    パパイヤ輪紋病ウイルス（PRSV）は、世界的にパパイヤおよびウリ科植物の生産を制限する最も重要なウイルス性病原体の一つである。しかし、多様な農生態環境におけるその集団構造を支配する進化過程については、依然として十分に解明されていない。本研究では、インドの異なる宿主および地気候地域から採取したPRSV-PおよびPRSV-W分離株の遺伝的多様性、組換えパターン、および集団構造を検討した。パパイヤおよび複数のウリ科植物種に由来する27株のPRSV分離株を、3つのタンパク質コーディング領域（ヘルパーコンポーネントプロテアーゼ（HC-Pro）、核封入プロテアーゼ-a（NIa-Pro）、および外被タンパク質（CP））の配列に基づいて解析した。CP遺伝子は837～876ヌクレオチドに及ぶ顕著な変異を示し、アミノ酸（aa）配列の多様性は最大20%に達した。温暖半乾燥（WSA）地域由来のウリ科植物由来PRSV-P分離株では、主に頻繁なaa挿入および欠失イベントにより、より高い多様性が認められた。系統解析の結果、ゲノム領域間で異なる進化パターンが明らかになった。CP配列は地気候的な起源に基づいてグループ化された一方、NIa-Proは宿主および病原型に関連する系統（PRSV-PおよびPRSV-W）に基づいて分化しており、HC-Proには明確なクラスター形成パターンは見られなかった。組換え解析により遺伝子特異的な進化動態が同定され、組換えはCPおよびNIa-Proで検出されたが、HC-Proでは検出されなかった。集団遺伝学的解析では、遺伝子流動が限定的であるにもかかわらず（Nm = 0.20）、極めて高いハプロタイプ多様性（Hd = 0.996）、強い集団細分化（Snn = 0.88889–1.00000; p ≤ 0.004）、および中程度から高い遺伝的分化（Fst = 0.1899–0.7713）が示された。負の田島D値は、最近の集団拡大および／または強い純化選択を示唆していた。総じて、環境変動、宿主との関連性、および遺伝子特異的な制約が共同してPRSVの進化に影響を与えており、一方で遺伝的隔離と限定的な遺伝子流動が、異なる地気候地域における多様化と生態学的適応を促進している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11314390/v1",
+    "title": "Cell-Level Auditing of an Orthology-Database-Derived Gene Presence/Absence Matrix Reveals Lineage-Specific Gene Gain, Duplication, and Pseudogenization",
+    "abstract": "Abstract  Cross-species gene presence/absence (PA) matrices are widely used to infer metabolic-pathway evolution, but orthology database clusters may contain deeply diverged homologs, lineage-specific duplicates, or pseudogenes, leading to erroneous assignments. Using OrthoDB v12 as the initial data source, we constructed a PA matrix comprising 34 human genes involved in nitrogen waste excretion and ammonia metabolism across 60 species, totaling 2,040 gene-by-species cells. Cells with uncertain assignments or distributions inconsistent with biological expectations were iteratively audited using NCBI/RefSeq searches, whole-genome tblastn, competitive paralog discrimination, locus-level clustering, phylogenetic priors, and published evidence. The final matrix contained 412 cells without support for the focal ortholog, 1,578 OrthoDB-only presence calls, 38 presence calls additionally supported by RefSeq or tblastn, 6 ancestral or unresolved homolog calls, 5 known pseudogenes, and 1 cluster bleed-through call. Sequence-level assessment of 20 randomly sampled OrthoDB-only presence cells yielded confirmation rates of 75% under a strict single-HSP criterion and 85% under a locus-aggregate criterion. Direct sequence evidence supported all four highest-risk absence assignments. All six candidate GLUD loci examined in non-ape vertebrates favored GLUD1 over GLUD2, with five exceeding the 2σ discrimination threshold, supporting the ape-specific retrocopy origin of GLUD2. Two loci on different chromosomes in Anolis carolinensis showed GLUD1-favored signals, suggesting a candidate GLUD1 duplication in this lineage. UOX sequences from four great apes shared a codon 33 stop mutation, supporting UOX pseudogenization in the Hominidae ancestor. These findings demonstrate that database cluster membership cannot be equated directly with focal-ortholog or functional-gene presence. Cell-level auditing provides a transparent and traceable framework for interpreting orthology-database-derived PA matrices and lineage-specific gene gain, duplication, and pseudogenization.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11314390/v1",
+    "date": "2026-11-10",
+    "authors": "Ling Y, Fu H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362925",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4278,
+    "collected_at": "2026-11-13T07:56:57.456049+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11314390/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b11c5fa36b80e1fdc8907f22e4b4de63b744ae1558f019f528a2f98f95037fd4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:15:00.774398+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "296149dc18bea3d6395ef7f5fd2d4970b12f7b368dab35b501b3538ec2b9302b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:15:00.774398+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オーソロジーデータベース由来の遺伝子存在・不在マトリクスの細胞レベル監査により、系統特異的な遺伝子獲得・重複・擬似遺伝子化が明らかになる",
+    "abstract_ja": "要旨　種間遺伝子存在/不在（PA）行列は、代謝経路の進化を推定するために広く用いられているが、オーソロジーデータベースのクラスターには、著しく分岐したホモログ、系統特異的な重複遺伝子、あるいは擬似遺伝子が含まれることがあり、これが誤った割り当てにつながる。OrthoDB v12を初期データソースとして用い、60種にわたる窒素廃棄物排泄およびアンモニア代謝に関与するヒト遺伝子34種からなるPA行列を構築した。総計2,040個の遺伝子-種間細胞を対象とした。割り当てが不確実な細胞や、生物学的予測と一致しない分布を示す細胞については、NCBI/RefSeq検索、全ゲノムtblastn、競合的パラログ識別、遺伝子座レベルのクラスタリング、系統学的事前確率、および既報のエビデンスを用いて反復的に監査を行った。最終的な行列には、焦点となるオーソログの支持が得られない細胞412個、OrthoDBのみで存在が判定された細胞1,578個、RefSeqまたはtblastnによってさらに支持された存在判定38個、祖先的または未解決のホモログ判定6個、既知の擬似遺伝子5個、およびクラスターのブリードスルー判定1個が含まれていた。ランダムに抽出したOrthoDBのみの存在細胞20個を配列レベルで評価した結果、厳格な単一HSP基準下で75%、遺伝子座集約基準下で85%の確認率が得られた。直接的な配列エビデンスにより、最もリスクの高い4つの不在判定すべてが支持された。非類人猿脊椎動物で検討した6つの候補GLUD遺伝子座はすべて、GLUD2よりもGLUD1を支持し、そのうち5つは2σ識別閾値を超えており、GLUD2の類人猿特異的なレトロコピー起源を支持する結果となった。Anolis carolinensisの異なる染色体上の2つの遺伝子座ではGLUD1を支持するシグナルが認められ、この系統におけるGLUD1の重複候補が示唆された。4種の大型類人猿由来のUOX配列はコドン33の終止変異を共有しており、ヒト科の祖先におけるUOXの擬似遺伝子化を支持する結果となった。これらの知見は、データベースクラスターへの所属を、焦点となるオーソログや機能性遺伝子の存在と直接的に同一視できないことを示している。細胞レベルの監査は、オーソロジーデータベース由来のPA行列、および系統特異的な遺伝子の獲得、重複、擬似遺伝子化を解釈するための、透明性と追跡可能性を備えたフレームワークを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.764085",
+    "title": "Broad-spectrum in situ genetic reprogramming of native microbiomes",
+    "abstract": "Complex microbial communities are found throughout terrestrial, aquatic, and animal-associated ecosystems. Genetic modification of discrete microbial taxa within native communities represents a powerful tool to study and augment microbiome functions. Herein, we develop Synthetic Phage Assisted Reprogrammable and Targetable Addition (SPARTA) as a one-step strategy for packaging, delivering, and integrating large synthetic DNA into a broad range of native microbiomes. SPARTA leverages a broad-spectrum synthetic phage particle for in situ genome engineering within complex soil, freshwater, and mammalian fecal microbiomes, reprogramming 59 native species across 16 families. By modulating SPARTA components, we further demonstrated tunability of SPARTA towards targeted microbiome population. Additionally, we built a novel companion tool to quantitatively identify engineered taxa, named 16S crRNA-guided inference of bacterial engineering sequencing or ScRibe-seq. The SPARTA-ScRibe-seq pipeline delivered and validated functional synthetic gene clusters in diverse native microbiomes while preserving the original microbial community structure. Together, this novel genome engineering framework constitutes an end-to-end programmable platform for rational and customizable reprogramming of native microbiomes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.764085",
+    "date": "2026-11-10",
+    "authors": "Hur J, Sanfiorenzo C, Simpson B, Oguienko A, Huang J, Lipschitz M, Zhang RJ, Gawda T, Mazmanian S, Wang K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363683",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "framework",
+        "genome",
+        "inference",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "phage",
+        "sequencing",
+        "tool"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "freshwater"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4288,
+    "collected_at": "2026-11-13T07:56:57.456049+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.03.764085"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ec70999b218011eaccf355bc7dbee2c60b658814415e89892ae77900a3445ec6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:15:00.774398+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa9fd19bfcb05d2ac8ee019e81a88dd33fe8cc6912e1d7755556ca0d39904344",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T04:15:00.774398+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "在来微生物叢の広帯域in situ遺伝子リプログラミング",
+    "abstract_ja": "複雑な微生物群集は、陸域、水域、および動物関連の生態系全体に分布している。在来群集内の個別の微生物分類群を遺伝子改変することは、マイクロバイオームの機能を研究し拡張するための強力な手段となる。本研究では、広範な在来マイクロバイオームに大規模な合成DNAをパッケージ化、送達、および組み込むためのワンステップ戦略として、Synthetic Phage Assisted Reprogrammable and Targetable Addition (SPARTA) を開発した。SPARTAは、広域スペクトルの合成ファージ粒子を活用し、複雑な土壌、淡水、および哺乳類糞便マイクロバイオーム内でのin situゲノムエンジニアリングを行い、16科にわたる59種の在来種を再プログラミングした。SPARTAの構成要素を調整することで、標的とするマイクロバイオーム集団に対するSPARTAのチューニング可能性をさらに実証した。さらに、エンジニアリングされた分類群を定量的に同定するための新規コンパニオンツール「16S crRNA-guided inference of bacterial engineering sequencing（ScRibe-seq）」を構築した。SPARTA-ScRibe-seqパイプラインは、元の微生物群集構造を維持しつつ、多様な在来マイクロバイオームにおいて機能的な合成遺伝子クラスターを送達し、検証した。これらを合わせたこの新規ゲノムエンジニアリングフレームワークは、在来マイクロバイオームの合理的かつカスタマイズ可能な再プログラミングを実現するエンドツーエンドのプログラマブルプラットフォームを構成する。"
   }
 ]
