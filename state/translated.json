@@ -220979,5 +220979,317 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "超早産児におけるUreaplasma parvum感染による重症頭蓋内出血および頭蓋内感染症：症例報告および文献検討",
     "abstract_ja": "要旨  背景：Ureaplasma parvum（Up）は、新生児の中枢神経系感染症において十分に認識されていない病原体である。我々は、Up感染に起因する重度の頭蓋内出血（ICH）および頭蓋内感染を呈した超早産児1例の臨床データを後方視的に解析し、関連文献を系統的にレビューした。解析対象は、周産期歴、神経学的所見、経時的な脳脊髄液（CSF）および画像変化、メタゲノム次世代シーケンシング（mNGS）結果、および治療経過とした。症例提示：男児が妊娠26週1日で出生し、出生体重は920gであった。頭蓋内出血は、生後1日目にはグレードIであったが、4日目までにグレードIVへと進行した。CSF検査では、頭蓋内感染の典型的所見が認められた：有核細胞数が著明に増加し、グルコースが著しく低下（0.07 mmol/L）し、タンパク質は7,443 mg/Lに達した。従来の細菌培養検査では繰り返し陰性であったが、CSFのmNGSによりUpが同定された（115配列リード、相対存在量87.19%）。アジスロマイシンによる標的治療後、CSFの炎症マーカーは改善した。しかしながら、頭蓋内病変の重症度を考慮し、最終的に家族は治療の中止を選択した。結論：本症例は、超早産児における重度のICHの発症または進行において、Up感染が相乗的な要因として作用する可能性を示唆している。考えられる機序としては、脳血管内皮および脆弱な胚性基質血管への直接的な損傷、ならびに炎症性サイトカインの放出に続発する血液脳関門の破綻などが挙げられる。ICHの進行が異常に速く、従来の治療への反応が不良な超早産児においては、早期にUp感染を考慮すべきであり、遅滞なくmNGS検査を実施すべきである。本症例は単一例の報告であるため、因果関係については今後の研究で確認する必要がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11596698/v1",
+    "title": "Soil pH, not land-use type, predicts microbial motility and denitrification genes after rainforest conversion in Sumatra and Borneo",
+    "abstract": "Abstract    Conversion of lowland rainforest to rubber and oil palm alters soil microbial communities, but whether functional gene responses are consistent across regions, and what drives them, is unclear. Public soil shotgun metagenomes from Jambi, Sumatra (32 plots: rainforest, jungle rubber, rubber, oil palm) and Sabah, Borneo (24 plots: unlogged forest, logged forest, oil palm) were reanalysed. The Sumatran workflow reproduced published fold changes (r = 0.998). In Sumatra, land use explained 41% of the variation in functional composition (permutation test, p = 0.0001); flagellar assembly genes declined by 27–35%, chemotaxis genes by 17–20% and secretion-system genes by 10–12% in converted systems, while denitrification genes increased in oil palm (  nirS   + 220%,  nosZ   + 164%). In Sabah, oil palm differed little from unlogged forest, and oil palm effects pooled across sites were not significant and highly heterogeneous (I² = 83–99%). In contrast, relationships with soil pH were consistent in both regions: denitrification (combined ρ = 0.69) and nitrogen-fixation genes (ρ = 0.50) increased with pH, whereas type VI secretion (ρ = −0.64), flagellar motility (ρ = −0.53) and chemotaxis genes (ρ = −0.41) decreased (all p ≤ 0.002). Plantations raised soil pH consistently in Sumatra but not in Sabah. Decimal errors in 32 published soil values and a misassigned  mcrA  gene were also corrected. Soil chemistry, particularly pH altered by liming, predicts microbial functional responses to rainforest conversion better than land-use type alone. Measuring soil pH alongside metagenomes should improve predictions of microbial denitrification potential in plantation landscapes, including in the Philippines.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11596698/v1",
+    "date": "2026-11-03",
+    "authors": "Cababan MA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356096",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1011,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11596698/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eeed83c3b3f89c4314b27092f7436cf47dc1405057375bcdbc58ba24496a95d7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:25:35.954503+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b5eccd0af1fc8b424c2ddd27f3eb8b936f31d9fa7b0d9b7b6c0206a4f31a14af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:25:35.954503+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "スマトラ島およびボルネオ島における熱帯雨林転換後の微生物の運動性と脱窒遺伝子を予測するのは、土地利用形態ではなく土壌pHである。",
+    "abstract_ja": "要旨    低地雨林からゴムおよびアブラヤシへの転換は土壌微生物群集を変化させるが、機能的な遺伝子応答が地域間で一貫しているか、また何がそれを左右するのかは明らかではない。スマトラ島ジャンビ（32プロット：雨林、ジャングルゴム、ゴム、アブラヤシ）およびボルネオ島サバ（24プロット：未伐採林、伐採林、アブラヤシ）の公開土壌ショットガンメタゲノムを再解析した。スマトラ島のワークフローでは、既報のフォールドチェンジが再現された（r = 0.998）。スマトラ島では、土地利用が機能的組成の変動の41%を説明した（置換検定、p = 0.0001）。転換後の系では、鞭毛形成遺伝子が27–35%、走化性遺伝子が17–20%、分泌系遺伝子が10–12%減少した一方、アブラヤシでは脱窒遺伝子が増加した（  nirS   + 220%,  nosZ   + 164%）。サバでは、アブラヤシは未伐採林とほとんど差がなく、サイト間で統合されたアブラヤシの影響は有意ではなく、極めて不均一であった（I² = 83–99%）。対照的に、土壌pHとの関係は両地域で一貫していた。脱窒遺伝子（合算 ρ = 0.69）および窒素固定遺伝子（ρ = 0.50）はpHの上昇に伴い増加したが、タイプVI分泌（ρ = −0.64）、鞭毛運動（ρ = −0.53）、および走化性遺伝子（ρ = −0.41）は減少した（すべて p ≤ 0.002）。植林地はスマトラ島では一貫して土壌pHを上昇させたが、サバでは上昇しなかった。既報の土壌値32件における小数点誤差および誤割り当てされたmcrA遺伝子も修正された。土壌化学、特に石灰施用によって変化したpHは、土地利用タイプ単独よりも、雨林転換に対する微生物の機能的応答をより良好に予測する。メタゲノムと併せて土壌pHを測定することで、フィリピンを含む植林地景観における微生物の脱窒能の予測精度が向上すると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10623247/v1",
+    "title": "RNA pol II speed controls the level of read-through mediated transcriptional interference",
+    "abstract": "Abstract    Transcriptional interference, which can be mediated by read-through transcription, is recognized as a mechanism negatively controlling gene expression levels. Recent studies highlighted the importance of transcriptional interference mediated by read-through transcription in response to different kinds of stresses and in response to viral infections. In this study we investigated the extent of transcriptional interference mediated by read-through transcription in different human cell lines. Our results, based on the analysis of transcriptomics and genomics data, reveal that transcriptional interference is widespread in the human genome in unperturbed conditions. Furthermore, through the use of RNA pol II mutants with different velocity, we show that transcriptional interference can be controlled by RNA pol II speed. Finally, we observe that read-through transcription invading downstream genes significantly associates with decreased level of translation of downstream genes in tandem gene pairs, therefore probably affecting protein levels. Together these data indicate that transcriptional interference is a mechanism controlling gene expression in unperturbed conditions. In addition, our results uncover the importance of transcription speed in controlling the expression level of downstream genes in tandem gene pairs.  *Virginie Jouffret and Maurane Eisele contributed equally to this work.  **Didier Trouche and Lisa Muniz contributed equally to this work.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10623247/v1",
+    "date": "2026-11-03",
+    "authors": "Jouffret* V, Eisele* M, Caetano T, Iacovone M, Bossuyt J, Delpech C, Aguirrebengoa M, Delmas M, Nicolas E, Trouche** D, Muniz** L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356080",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1012,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10623247/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "035fc796537cef893e31bd49647b7a37246e9f739fa2a0597cd09271109eefe7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:25:35.954503+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b4d1beaeea5a7d3e5c9a53a800115c051305c77034016e63c0f002b163417da7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:25:35.954503+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNAポリメラーゼIIの速度は、リードスルーを介した転写干渉のレベルを制御する。",
+    "abstract_ja": "要旨    リードスルー転写によって媒介され得る転写干渉は、遺伝子発現レベルを負に制御する機構として認識されている。近年の研究では、さまざまな種類のストレスやウイルス感染に応答して、リードスルー転写を介した転写干渉が重要であることが強調されている。本研究では、異なるヒト細胞株において、リードスルー転写を介した転写干渉の程度を調査した。トランスクリプトミクスおよびゲノミクスデータの解析に基づく我々の結果は、非撹乱条件下において、転写干渉がヒトゲノム全体に広範に存在することを明らかにしている。さらに、速度の異なるRNA pol II変異体を用いることで、転写干渉がRNA pol IIの速度によって制御され得ることを示した。最後に、下流遺伝子に侵入するリードスルー転写が、タンデム遺伝子ペアにおける下流遺伝子の翻訳レベルの低下と有意に関連しており、したがっておそらくタンパク質レベルに影響を及ぼしていることを観察した。これらのデータを総合すると、転写干渉は非撹乱条件下で遺伝子発現を制御する機構であることが示される。加えて、我々の結果は、タンデム遺伝子ペアにおける下流遺伝子の発現レベルの制御において、転写速度が重要であることを明らかにしている。  *Virginie JouffretおよびMaurane Eiseleは、本研究に同等に寄与した。  **Didier TroucheおよびLisa Munizは、本研究に同等に寄与した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.12688/wellcomeopenres.25981.2",
+    "title": "A genomic toolkit for surveillance and elimination of the principal malaria vectors in Southeast Asia.",
+    "abstract": "While substantial progress has been made toward malaria elimination in Southeast Asia, major challenges remain. The principal mosquito vectors,  Anopheles dirus and  Anopheles minimus , inhabit diverse ecological niches and exhibit a wide range of behavioural and physiological insecticide resistance phenotypes, complicating vector control efforts. In Africa, genomic surveillance has transformed our understanding of vector evolution and resistance, supported by open-access tools and data. Comparable resources for Southeast Asian vectors remain limited. Here, we release Adir1.0, a curated, analysis-ready catalog of 540  An. dirus whole-genome sequences, accessible for interactive cloud-based analysis via the malariagen-data-python application programming interface (API). Alongside, we provide an updated Amin1.0 API to enhance functionality and usability, enabling integrated analyses across historical and new datasets. We demonstrate these resources by performing the first exploratory population genomic analysis of  An. dirus from Bangladesh, Thailand, and Cambodia, revealing population structure, candidate regions of physiological resistance, and genomic structural variation. Together, these resources provide a foundation for genomic surveillance studies to inform vector control and malaria elimination strategies in Southeast Asia.",
+    "journal": "",
+    "doi": "10.12688/wellcomeopenres.25981.2",
+    "date": "2026-11-03",
+    "authors": "Dennis TP, Vantaux A, Kobylinski KC, Alam MS, Witkowski B, Al-Amin HM, Lobo NF, Wilson AJ, Drury E, Goncalves S, Harding NJ, Kwiatkowski D, Clarkson CS, Hernandez-Koutoucheva A, Miles A, Donnelly MJ, St. Laurent B.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355890",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1013,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.12688/wellcomeopenres.25981.2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d7287832c890ac8a128e6775119dceb6a3b006d991a0b959d40e36db4760f833",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:25:35.954503+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "731678011efcbe400012e427a3a56eb6439645f08da055ab035125ba8c806f66",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:25:35.954503+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "東南アジアにおける主要なマラリア媒介蚊のサーベイランスおよび駆除のためのゲノムツールキット。",
+    "abstract_ja": "東南アジアにおけるマラリア根絶に向けて大幅な進展が見られた一方で、依然として大きな課題が残っている。主要な媒介蚊である Anopheles dirus および Anopheles minimus は、多様な生態的ニッチに生息し、行動的・生理的な殺虫剤耐性表現型が多岐にわたるため、媒介蚊の防除活動を困難にしている。アフリカでは、オープンアクセスのツールやデータに支えられたゲノムサーベイランスにより、媒介蚊の進化と耐性に関する理解が一変した。一方、東南アジアの媒介蚊に関する同様のリソースは依然として限られている。本研究では、540件の An. dirus 全ゲノム配列をキュレーションし、解析可能な状態で提供したカタログ「Adir1.0」を公開する。本カタログは、malariagen-data-python アプリケーションプログラミングインターフェース（API）を介して、インタラクティブなクラウドベースの解析が可能である。併せて、機能性とユーザビリティを向上させるために更新した Amin1.0 API を提供し、過去のデータセットと新規データセットにわたる統合解析を可能にする。我々は、バングラデシュ、タイ、カンボジアの An. dirus を対象とした初の探索的集団ゲノム解析を実施することでこれらのリソースを実証し、集団構造、生理的耐性の候補領域、およびゲノム構造変異を明らかにした。これらのリソースを総合することで、東南アジアにおける媒介蚊の防除およびマラリア根絶戦略に資するゲノムサーベイランス研究の基盤が構築される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_IDATE:[2026-11-07 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.26366519",
+    "title": "Design and Validation of Multiplexed Respiratory RT-LAMP assay for the differentiation of SARS-CoV-2, Influenza A and Respiratory Syncytial Virus (RSV) in COVID-19 Pandemic Samples from Western Kenya.",
+    "abstract": "The COVID-19 pandemic highlighted the importance of widespread, accessible viral surveillance to ensure pandemic-preparedness. The rapid diagnosis of respiratory infections is crucial not only for effective patient management but also to inform ongoing surveillance for the detection of outbreaks. Reverse transcriptase-Loop mediated isothermal amplification (RT-LAMP) assays are an attractive alternative to reverse transcriptase polymerase chain reaction (RT-PCR) for rapid, decentralised testing in resource limited settings due being rapid and low cost. Here we present the design and evaluation of a multiplexed RT-LAMP assay for the simultaneous detection of SARS-CoV-2, Influenza A and Respiratory Syncytial Virus via the incorporation of fluorescently labelled LAMP probes. Mid-nasal swabs collected from 175 participants on the day of enrolment in the MALCOV Cohort study in Kisumu, Kenya were used in the evaluation of the RT-LAMP assay. Overall, 114 SARS-CoV-2, six Influenza A, two Influenza B and zero RSV samples were identified in the cohort by the Allplex SARS-CoV-2/FluA/FluB/RSV RT-PCR kit (Seegene Inc) reference test, in addition to 53 negatives. Sensitivity and specificity of the RT-LAMP assay (SARS-CoV-2/FluA/RSV) when compared to RT-PCR was 82.64% [CI95%:74.70-88.92%] and 100% [CI95%:93.40-100%] at 40 minutes for all samples respectively. The mean time to a positive result was 11minutes, highlighting the speed of this technology compared to the more commonly used RT-PCR. RT-LAMP enables rapid multi-pathogen detection with comparable diagnostic accuracy to RT-PCR.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.26366519",
+    "date": "2026-11-03",
+    "authors": "Greenland-Bews C, Suwara MI, Voto IAP, Shah S, Achieng M, Badoum ES, Barsosio HC, Brazal-Monzo H, Canizales J, Drabko A, Hannan L, Kabore JT, Lesosky M, Marlais T, Matthewman J, Nebie I, Onyango ED, Ouedraogo A, Otieno K, Serme S, Sirima SB, Soulama BI, Tangara B, Tiono AB, Wu W, Soulama I, Rehak M, Kariuki S, Drakeley C, ter Kuile FO, Allen DJ, Adams ER, Gillies EA, Edwards T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361434",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2256,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.02.26366519"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fd1e535f8b94170c23701893c6d9488bed7e63bf9bde5985c3ec4ed7e3396049",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:25:35.954503+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "58db0002c24fb3b80caa211b6417b866c4e3342ffd89ae95db89b4582dabd99a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T19:25:35.954503+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ケニア西部のCOVID-19パンデミック検体におけるSARS-CoV-2、A型インフルエンザおよび呼吸器合胞体ウイルス（RSV）の鑑別を目的とした、多重呼吸器RT-LAMPアッセイの設計とバリデーション",
+    "abstract_ja": "COVID-19パンデミックは、パンデミックへの備えを確実にするため、広範かつアクセス可能なウイルスサーベイランスの重要性を浮き彫りにした。呼吸器感染症の迅速な診断は、効果的な患者管理のみならず、アウトブレイク検出のための継続的なサーベイランスにおいても極めて重要である。逆転写酵素ループ媒介等温増幅法（RT-LAMP）アッセイは、迅速かつ低コストであるため、資源の限られた環境における迅速かつ分散型の検査において、逆転写酵素ポリメラーゼ連鎖反応（RT-PCR）に代わる魅力的な選択肢となる。本報では、蛍光標識LAMPプローブを組み込むことで、SARS-CoV-2、A型インフルエンザ、および呼吸器合胞体ウイルスを同時に検出するマルチプレックスRT-LAMPアッセイの設計と評価について報告する。ケニアのキスムで実施されたMALCOVコホート研究の登録日に175名の参加者から採取した鼻腔スワブ検体を、RT-LAMPアッセイの評価に用いた。全体として、Allplex SARS-CoV-2/FluA/FluB/RSV RT-PCRキット（Seegene Inc）のリファレンステストにより、コホート内でSARS-CoV-2が114検体、A型インフルエンザが6検体、B型インフルエンザが2検体、RSVが0検体検出され、さらに53検体が陰性であった。RT-PCRと比較したRT-LAMPアッセイ（SARS-CoV-2/FluA/RSV）の感度および特異度は、全検体において40分時点でそれぞれ82.64%［CI95%: 74.70-88.92%］および100%［CI95%: 93.40-100%］であった。陽性結果が得られるまでの平均時間は11分であり、より一般的に用いられているRT-PCRと比較して本技術の迅速性が示された。RT-LAMPは、RT-PCRと同等の診断精度で、複数の病原体の迅速な検出を可能にする。"
   }
 ]
