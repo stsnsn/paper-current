@@ -215904,5 +215904,289 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "抗原地図作成法によるウイルス抗原間の関係性の解明：ナラティブレビュー",
     "abstract_ja": "背景：抗原カートグラフィーは、赤血球凝集抑制試験やウイルス中和試験を含む血清学的データを用いて、ウイルス株間の抗原関係を定量的に可視化する計算科学的アプローチである。2000年代初頭に導入されて以来、複雑な血清学的測定値を解釈可能な抗原マップへと変換することで、ウイルス抗原進化の研究を大幅に進展させ、抗原多様性、免疫逃避、交差反応性、およびワクチンとウイルスの関係の評価を容易にしてきた。目的：本総説では、臨床的に重要なウイルスにおける抗原カートグラフィーの歴史的発展、方法論的原則、応用、限界、および新たな方向性について、特にウイルスサーベイランス、抗原ドリフトのモニタリング、およびワクチン株の選定における関連性に重点を置いて検討する。方法：ヒト季節性インフルエンザおよび、デング熱、リッサウイルス、口蹄疫ウイルス、エンテロウイルスA71、ノロウイルス、ロタウイルス、SARS-CoV-2、HIVを含むその他のウイルスを対象とした、抗原カートグラフィーの主要な応用例について文献を比較検討した。特に、実世界での応用、方法論的な進展、不確実性の要因、およびゲノム、構造、進化、計算科学的アプローチとの統合に重点を置いた。知見：インフルエンザは依然として最も広範に研究されているウイルス病原体であり、抗原カートグラフィーは疫学的に重要な抗原遷移の認識を裏付け、ワクチンの意思決定に寄与してきた。具体例としては、2004–2005年におけるA/Fujian/411/2002様H3N2ウイルスの出現や、2010–2011年におけるA/California/07/2009の評価が挙げられる。他のウイルスへの応用は、抗原ランドスケープの特性評価や、交差防御免疫およびワクチン性能の評価において、より広範な有用性を示している。しかし、マップの信頼性は、血清学的アッセイのばらつき、血清パネルの構成、測定ノイズ、不完全なデータセット、および地理的な偏りによって影響を受ける。血清学的、ゲノム的、および構造的データセット間の相互運用性が限られていることが、再現性および研究間の比較可能性をさらに制限している。今後の方向性と結論：本分野は、回顧的な可視化から、予測的かつ機序に基づいた抗原サーベイランスへと移行しつつある。人工知能、タンパク質言語モデル、進化モデリング、構造ワクチン学、およびリアルタイムのゲノム・血清学的サーベイランスの統合により、抗原ドリフトのより早期の予測、新たなワクチンミスマッチの特定、および候補ワクチン株の優先順位付けが可能になると考えられる。将来のプラットフォームには、標準化・自動化された血清学的測定、研究室間の較正、調和されたデータ標準、地理的に代表的なデータセット、実験的検証、および解釈可能で継続的に更新されるモデルを組み込むべきである。このような統合により、抗原カートグラフィーを、ワクチン設計および新たなウイルス脅威への備えを強化するための、拡張可能な予測フレームワークとして確立できる可能性がある。"
+  },
+  {
+    "id": "10.1186/s42523-026-00656-4",
+    "title": "Association between maternal fecal microbiota composition and milk IgA concentration in lactating sows",
+    "abstract": "Background\n                     In mammals, breastfeeding is essential for transferring vital nutrients and immunological factors from the lactating mother. Antibodies, particularly IgA, found in milk, play a pivotal role in the development of intestinal barriers that protect offspring from infections. Experimental studies in mice have shown that the intestinal microbiota can induce Peyer’s patch-dependent secretion of maternal IgA into milk. Therefore, identifying the factors involved in milk IgA production is crucial for developing therapeutic approaches to strengthen mammary gland immunity. However, the concentrations of these antibodies in milk samples collected from multiple farms across different regions, as well as their correlation with fecal microbial communities, remain poorly understood, particularly in lactating pigs.\n                  \n                     Results\n                     We conducted a large-scale cross-sectional field investigation using paired milk and fecal samples collected from 409 lactating pigs across 19 farms in Japan. Milk samples were subjected to enzyme-linked immunosorbent assays (ELISA) to measure IgA concentrations, whereas fecal samples were analyzed by 16S rRNA amplicon sequencing to characterize the fecal microbiota of the animals. We found that farm explained more variation in fecal microbial community composition than milk-IgA group in both single-factor (27.20% vs. 1.99%) and marginal multivariable PERMANOVA (24.71% vs. 0.73%; milk-IgA group, p = 0.029). Importantly, these findings were examined using two complementary microbiota-based analytical approaches: (1) comparative microbiota analysis according to milk IgA concentration and (2) bacterial community structure (enterotype)-based classification followed by analysis of milk IgA concentration. However, 33 of 35 animals assigned to Enterotype 3 originated from a single farm.\n                  \n                     Conclusion\n                     These results suggest that maternal fecal microbiota composition is associated with milk IgA concentration in lactating pigs, although its contribution was small relative to farm-associated variation and the cross-sectional design precludes causal inference.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00656-4",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00656-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4476,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1186/s42523-026-00656-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e6ae87fbb2d4cedda8af85d1c2277309409717412ae946786dd862bf10469d7a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:31:51.141289+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6152c9cfa310242b908b84aed6b7efadff318e590a43cd07cf2d4cb559baa6cd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:31:51.141289+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "授乳期母豚における母性糞便微生物叢組成と乳中IgA濃度の関連",
+    "abstract_ja": "背景\n                     哺乳類において、授乳は授乳母動物から重要な栄養素や免疫因子を移行させるために不可欠である。乳中に認められる抗体、特にIgAは、仔を感染症から保護する腸管バリアの形成において極めて重要な役割を果たす。マウスを用いた実験研究により、腸内細菌叢が乳汁中への母動物由来IgAのパイエル板依存性分泌を誘導できることが示されている。したがって、乳汁中IgA産生に関与する因子を同定することは、乳腺免疫を強化するための治療アプローチを開発する上で極めて重要である。しかし、異なる地域の複数の農場から採取した乳汁サンプルにおけるこれらの抗体濃度や、糞便微生物群集との相関については、特に授乳期の豚において十分に解明されていない。\n                  \n                     結果\n                     本研究では、日本国内の19農場の授乳期豚409頭から採取した乳汁および糞便のペアサンプルを用い、大規模な横断的フィールド調査を実施した。乳汁サンプルについては酵素結合免疫吸着法（ELISA）を用いてIgA濃度を測定し、糞便サンプルについては16S rRNAアンプリコンシーケンシングにより解析を行い、動物の糞便微生物叢の特性評価を行った。その結果、単一因子（27.20% vs. 1.99%）および限界多変数PERMANOVA（24.71% vs. 0.73%；乳汁-IgA群、p = 0.029）のいずれにおいても、糞便微生物群集組成の変動は乳汁-IgA群よりも農場による影響が大きいことが判明した。重要な点として、これらの知見は、(1) 乳汁IgA濃度に基づく微生物叢の比較解析、および (2) 細菌群集構造（エンテロタイプ）に基づく分類とそれに続く乳汁IgA濃度の解析という、2つの相補的な微生物叢ベースの解析手法を用いて検討された。しかし、エンテロタイプ3に分類された35頭の動物のうち、33頭は単一の農場由来であった。\n                  \n                     結論\n                     これらの結果は、授乳期の豚において母動物の糞便微生物叢組成が乳汁IgA濃度と関連していることを示唆しているが、農場関連の変動に比べその寄与は小さく、また横断的デザインであるため因果関係の推論はできない。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag839",
+    "title": "BioLM-Score: Language-Prior Conditioned Probabilistic Geometric Potentials for Protein-Ligand Scoring",
+    "abstract": "AbstractMotivationProtein-ligand scoring must address affinity prediction, pose selection, and virtual screening, but these objectives are not necessarily optimized together. Geometric likelihood models may generalize poorly when training-set structural coverage is limited. We test whether pretrained biomolecular representations improve scoring under a controlled geometric baseline.ResultsBioLM-Score integrates frozen protein and molecular language-model embeddings into a residue-atom distance-likelihood framework via gated graph convolutions. We evaluate geometry-only, jointly trained, and two-stage fine-tuned variants, using the jointly trained variant for the primary controlled comparisons. All three DEKOIS 2.0 screening endpoints improve over the matched geometric baseline with target-level paired support, but affinity scoring and ranking do not improve uniformly. Under a time-split protocol, scoring is significantly lower and ranking is also lower than the geometric baseline, while screening gains persist. On BDB2020+, the difference in affinity correlation between BioLM-Score and GenScore narrows after LP-PDBBind-compatible retraining. Shuffling protein embeddings at inference reduces the screening advantage. However, retrained shuffle controls recover much of the performance, so correct alignment is not established as necessary. BioLM-Score strengthens geometric scoring on screening tasks without retraining the language models.Availability and implementationCode, dataset-split identifiers, preprocessing and evaluation scripts, and language-model embedding-generation utilities are available at https://github.com/SZU-ADDG/BioLM-Score. An archival code snapshot and pretrained model weights are available at doi:10.5281/zenodo.21878818.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag839",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag839/9055668?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4469,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1093/bioinformatics/btag839"
+    ],
+    "translation": {
+      "title": {
+        "hash": "00e978a93f6bdbb90d1a0554e66a25d64ec245f4c30953f2acf5e5b4f68ce02f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:31:51.141289+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3f421d39337686732982d196e77940e2ec03b54460167be931070ba462b2c2dc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:31:51.141289+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BioLM-Score: タンパク質-リガンドスコアリングのための言語事前条件付き確率的幾何ポテンシャル",
+    "abstract_ja": "要旨動機タンパク質-リガンドスコアリングは、親和性予測、ポーズ選択、およびバーチャルスクリーニングに対応する必要があるが、これらの目的が必ずしも同時に最適化されているとは限らない。訓練セットの構造カバレッジが限られている場合、幾何学的尤度モデルは汎化性能が低くなる可能性がある。本研究では、制御された幾何学的ベースラインの下で、事前学習済み生体分子表現がスコアリングを向上させるかを検証する。結果BioLM-Scoreは、ゲート付きグラフ畳み込みを用いて、凍結されたタンパク質および分子言語モデルの埋め込みを、残基-原子間距離のような尤度フレームワークに統合する。幾何学的スコアリングのみのバリアント、共同学習済みバリアント、および2段階ファインチューニング済みバリアントを評価し、主要な対照比較には共同学習済みバリアントを用いた。3つのDEKOIS 2.0スクリーニングエンドポイントはいずれも、ターゲットレベルのペアサポートを備えたマッチング済み幾何学的ベースラインを上回ったが、親和性スコアリングとランキングは一様に向上したわけではない。タイムスプリットプロトコルでは、スコアリングは幾何学的ベースラインよりも有意に低く、ランキングも同様に低かったが、スクリーニングの向上は維持された。BDB2020+において、BioLM-ScoreとGenScoreの親和性相関の差は、LP-PDBBind互換の再学習後に縮小した。推論時にタンパク質埋め込みをシャッフルすると、スクリーニングにおける優位性が低下する。しかし、再学習済みのシャッフル対照群では性能の多くが回復したため、必ずしも正しいアライメントが確立されるとは限らない。BioLM-Scoreは、言語モデルを再学習させることなく、スクリーニングタスクにおける幾何学的スコアリングを強化する。利用可能性と実装コード、データセット分割識別子、前処理および評価スクリプト、ならびに言語モデル埋め込み生成ユーティリティは、https://github.com/SZU-ADDG/BioLM-Score で公開されている。アーカイブ版のコードスナップショットおよび事前学習済みモデルの重みは、doi:10.5281/zenodo.21878818 で公開されている。補足情報補足データはBioinformatics onlineで公開されている。"
+  },
+  {
+    "id": "10.1186/s40793-026-00982-9",
+    "title": "Aridity drives divergent microbial survival strategies in the hyperarid Kumtagh Desert",
+    "abstract": "Extreme aridity imposes severe constraints on microbial life, yet the mechanisms that sustain microbial communities at the dry limit of terrestrial ecosystems remain poorly understood. Here, we investigated bacterial, fungal, and archaeal communities across the hyperarid Kumtagh Desert using amplicon sequencing, community assembly analyses, persistence profiling, and bacterial metagenomics. Community composition in all three domains was significantly associated with aridity, primarily through its effects on soil physicochemical properties. Community assembly responses differed among domains. Archaeal communities exhibited the strongest deterministic assembly, whereas fungal communities were largely governed by stochastic processes and shifted toward dispersal limitation at less arid sites. Bacterial communities showed intermediate assembly dynamics and maintained a persistent resident core. Persistence analyses further revealed three distinct ecological strategies: resident stability in bacteria, dormancy-like persistence in archaea, and opportunistic turnover in fungi. Metagenomic analyses demonstrated that bacterial persistence was associated with functional traits linked to nitrogen conservation and carbohydrate utilization, including enrichment of dissimilatory nitrate reduction and carbohydrate-active enzymes. Together, these findings show that hyperaridity reconfigures rather than simply reduces microbial communities, driving divergent domain-specific survival strategies. Our results provide a framework linking environmental filtering, community assembly, persistence, and functional adaptation in extreme desert ecosystems.",
+    "journal": "Environmental Microbiome",
+    "doi": "10.1186/s40793-026-00982-9",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40793-026-00982-9",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40793",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4474,
+    "collected_at": "2026-11-14T18:10:21.980317+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40793"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1186/s40793-026-00982-9"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6f2ed19235a56ca09181d3da19c9682d8875f4cff0720274630fe1c5d16c6dd3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:31:51.141289+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "184d8a5c65b106020aa56e4730adfe5848c410760d2612fae0014162719f4d3e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:31:51.141289+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "超乾燥地帯クムタグ砂漠におけるアリディティが引き起こす微生物の生存戦略の分岐",
+    "abstract_ja": "極端な乾燥は微生物生命に厳しい制約を課すが、陸上生態系の乾燥限界において微生物群集を維持するメカニズムは十分に解明されていない。本研究では、アンプリコンシーケンシング、群集アセンブリ解析、持続性プロファイリング、および細菌メタゲノミクスを用いて、超乾燥地帯であるクムタグ砂漠における細菌、真菌、および古細菌の群集を調査した。これら3つのドメインすべてにおいて、群集組成は乾燥度と有意に関連しており、主に土壌の物理化学的特性への影響を通じてその傾向が認められた。群集アセンブリの応答はドメイン間で異なっていた。古細菌群集は最も強い決定論的アセンブリを示した一方、真菌群集は主に確率的プロセスによって支配されており、乾燥度の低い地点では分散限界へと移行した。細菌群集は中間的なアセンブリ動態を示し、持続的な常駐コアを維持していた。持続性解析により、細菌における常駐安定性、古細菌における休眠様持続性、および真菌における日和見的なターンオーバーという3つの異なる生態学的戦略がさらに明らかになった。メタゲノム解析により、細菌の持続性は、異化型硝酸還元酵素や糖質活性酵素の濃縮を含む、窒素保存および糖質利用に関連する機能的形質と関連していることが示された。これらの知見を総合すると、超乾燥は単に微生物群集を減少させるのではなく、再構成することで、ドメイン固有の多様な生存戦略を駆動していることがわかる。本研究の結果は、極端な砂漠生態系における環境フィルタリング、群集アセンブリ、持続性、および機能的適応を結びつける枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1890193",
+    "title": "Elucidating the relationships between host-associated (intestinal and gill) and environmental (water and sand) microbial communities across water exchange rates in <i>Babylonia areolata</i> aquaculture.",
+    "abstract": "Water exchange is linked to survival in aquaculture, but its relationship with host-environment microbial interactions remains unclear. We aimed to characterize host-associated and environmental microbiota in Babylonia areolata (ivory shell) aquaculture, focusing on community relationships, environmental source contributions, associations with water quality, and host survival across water exchange rates. Ivory shells were reared for 60 days at high (100% d-1), medium (50% d-1), and low (0% d-1) water exchange rates. On day 60, water, sand, intestinal, and gill samples (12 samples per treatment) were profiled using 16S rRNA gene V3-V4 amplicon sequencing. The results showed that survival was lower only in the low-exchange group (p p = 0.001). SourceTracker identified sand as the largest environmental contributor; its contribution declined from 48.0 to 21.0% in the intestine and from 65.7 to 30.2% in the gills as the water exchange rate decreased. Reduced water exchange rates were also associated with declines in the relative abundance of intestinal Nautella and gill-associated Ruegeria. Linear discriminant analysis effect size (LEfSe) identified Halodesulfovibrio as a shared biomarker in both tissues under low water exchange conditions. Redundancy analysis (RDA) identified NO3 --N and pH as the environmental variables most strongly associated with environmental microbial community structure. Exploratory genus-level correlations showed that rearing water pH was negatively associated with Halodesulfovibrio in both tissues. Collectively, these results indicate that the water exchange rate is associated with host-associated microbial community composition, environmental source contributions, and ivory shell survival. Future studies should investigate the mechanisms underlying the associations among environmental microbial communities, water quality conditions, and host survival, thereby informing microecological management in low water exchange aquaculture systems.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1890193",
+    "date": "2026-10-29",
+    "authors": "Tang D, Tu Z, Liu H, Yu F, Zou W, Shen M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43022056",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43022056",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4230,
+    "collected_at": "2026-11-14T17:59:45.478009+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.3389/fmicb.2026.1890193"
+    ],
+    "translation": {
+      "title": {
+        "hash": "475ddd91f6c1f966be61b6adf9069114623d38395cdfdbc5cb5fb33c64551183",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:31:51.141289+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bcf2273eb00d970ce94df87bebf453fd6a4072fc5e1538501b7a640fe3429fef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T18:31:51.141289+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Babylonia areolata</i>の養殖における水交換速度を介した、宿主関連（腸管および鰓）および環境（水および砂）微生物群集間の関係の解明",
+    "abstract_ja": "水交換は水産養殖における生存に関連しているが、宿主と環境の微生物相互作用との関係は依然として不明である。本研究では、Babylonia areolata（象牙貝）の水産養殖における宿主関連および環境微生物叢の特性を明らかにすることを目的とし、群集間の関係、環境源の寄与、水質との関連性、および水交換率に応じた宿主の生存に着目した。象牙貝を、高（100% d-1）、中（50% d-1）、および低（0% d-1）の水交換率で60日間飼育した。60日目に、水、砂、腸管、および鰓の試料（各処理につき12検体）を16S rRNA遺伝子V3-V4アンプリコンシーケンシングを用いて解析した。その結果、生存率は低交換群においてのみ低かった（p p = 0.001）。SourceTrackerにより、砂が最大の環境寄与因子として同定され、水交換率の低下に伴い、その寄与度は腸管では48.0%から21.0%へ、鰓では65.7%から30.2%へと減少した。水交換率の低下は、腸管のNautellaおよび鰓関連のRuegeriaの相対存在量の減少とも関連していた。線形判別分析の効果量（LEfSe）により、低水交換条件下では両組織においてHalodesulfovibrioが共通のバイオマーカーとして同定された。冗長性解析（RDA）では、NO3 --NおよびpHが、環境微生物群集構造と最も強く関連する環境変数として同定された。属レベルの探索的相関解析では、飼育水のpHが両組織においてHalodesulfovibrioと負の相関を示した。総じて、これらの結果は、水交換率が宿主関連の微生物群集組成、環境源の寄与、および象牙貝の生存に関連していることを示している。今後の研究では、環境微生物群集、水質条件、および宿主の生存の間の関連性の根底にあるメカニズムを調査し、低水交換の水産養殖システムにおける微小生態学的管理に資すべきである。"
   }
 ]
