@@ -200260,5 +200260,317 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Lactobacillus rhamnosus由来細胞外小胞の特性解析とCaco-2細胞におけるトリメチルアミン誘発性酸化ストレスに対する細胞保護効果",
     "abstract_ja": "食事由来のトリメチルアミン（TMA）は、腸内細菌叢を介した異化作用とそれに続く肝酸化を経て、血管疾患および大腸疾患に関連する主要な代謝因子であるトリメチルアミンN-オキシド（TMAO）を生成する。循環血中のTMAOによる全身性影響については広範に研究されてきたが、その前駆体であるTMAの腸上皮レベルにおける直接的な局所細胞相互作用については、さらなる解明が必要であった。本研究では、Lactobacillus rhamnosusから単離した細胞外小胞（Lr-EVs）の特性評価を行い、TMA誘導性ストレス下におけるin vitroヒト腸管Caco-2細胞モデルでの細胞保護能を評価した。高濃度のTMA（20 mM）への曝露により、Caco-2の生存率は78.8%まで有意に低下し、細胞内活性酸素種（ROS）の蓄積が誘発されたほか、Zonula Occludens-1（ZO-1）配列の破綻を介してタイトジャンクションの完全性が損なわれた。Lr-EVs（100-300 g/mL）の併用投与はこの細胞毒性に拮抗し、細胞生存率を最大172%まで向上させた。定量PCR解析の結果、Lr-EVsは炎症促進性遺伝子IL-1{beta}の転写亢進を抑制し、代謝調節因子SIRT1の発現を回復させ、主要なミトコンドリア符号化電子伝達系遺伝子（ND6、CYTB、CO1、およびATP6）の転写レベルを安定化させることが明らかになった。さらに、Lr-EVsはcell-free ABTSおよびDPPHアッセイにおいて固有のラジカル消去活性を示した。これらのin vitroにおける予備的知見は、Lr-EVsがトランスクリプトームレベルでTMA誘発性の細胞損傷、酸化ストレス、および接合部破綻を軽減することを実証しており、プロバイオティクス由来のEVsを有望なcell-free機能性成分としてさらに検討することを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.cell.2026.09.008",
+    "title": "Single-cell analysis of chromatin state and transcriptome in the human basal ganglia.",
+    "abstract": "The basal ganglia are central to motor control, learning, emotion, and reward processing, and their dysfunction contributes to many neurological and psychiatric disorders. Here, we generated a single-cell multi-omic atlas of histone modifications and transcriptomes across eight basal ganglia regions from neurotypical human donors. This atlas resolved cell-type- and region-specific landscapes of active and repressive candidate cis-regulatory elements and delineated gene regulatory networks underlying cell identity. We found that the combinatorial expression of homeobox transcription factors provides distinctive molecular descriptors of neuronal cell identities in the basal ganglia. Integration with matched MERFISH spatial transcriptomics further uncovered regional heterogeneity in epigenomic and transcriptional programs. Finally, we used this atlas to interpret noncoding risk variants associated with neuropsychiatric disorders and to construct a deep-learning model that predicts gene regulatory activities and variant effects. Together, this work provides a multimodal regulatory framework for understanding human basal ganglia organization, evolution, and disease genetics.",
+    "journal": "Cell",
+    "doi": "10.1016/j.cell.2026.09.008",
+    "date": "2026-11-01",
+    "authors": "Chang L, Li K, Xie Y, Zhong G, Rink JA, Báez-Becerra CT, Lie A, Indralingam HS, Loe T, Dong K, Gao X, Wang Z, Zu S, Kern JC, Zhao Z, Boone E, Flores J, Monell A, Olness J, Barragan C, Osgood E, Owens W, Schenker-Ahmed N, Zhang W, Liu D, Barcoma AS, Willier JK, Knutson KW, Russo KG, Liu J, Cho S, Arzavala J, Young CK, Sundaram GV, Manning AC, Sanchez Y, Bikkina A, Berry JV, O'Connor C, Liem M, Marrin MV, Rose C, Alt SN, Zhu C, Zemke NR, Ding W, Klein A, Fu Y, Johansen N, Bakken TE, Hodge RD, Keene CD, Lein ES, Li D, Zhu Q, Wang T, Xu X, Ecker JR, Behrens MM, Ren B.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43020024",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43020024",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2603,
+    "collected_at": "2026-11-14T03:13:11.939144+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1016/j.cell.2026.09.008"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d8fbc7d834fd278fc86932dbe6ea9e31a3ba8fe4a4a9ce6ae404265ef14262b3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:45:13.185462+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "98d6be3ddd7e21f6ca94a5c16f07f5312bdfb553d4ea0724757f3028b37bc861",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:45:13.185462+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト基底核におけるクロマチン状態およびトランスクリプトームの単一細胞解析",
+    "abstract_ja": "大脳基底核は、運動制御、学習、情動、および報酬処理の中核を担っており、その機能不全は多くの神経疾患や精神疾患の一因となる。本研究では、定型発達のヒトドナー由来の8つの大脳基底核領域におけるヒストン修飾およびトランスクリプトームのシングルセル・マルチオミクスアトラスを構築した。このアトラスにより、活性型および抑制型の候補シス調節エレメントの細胞種・領域特異的なランドスケープが解明され、細胞アイデンティティの基盤となる遺伝子調節ネットワークが描き出された。また、ホメオボックス転写因子の組み合わせ発現が、大脳基底核における神経細胞アイデンティティの特徴的な分子記述子となることを見出した。対応するMERFISH空間トランスクリプトミクスとの統合により、エピゲノムおよび転写プログラムにおける領域間の不均一性がさらに明らかになった。最後に、本アトラスを用いて、神経精神疾患に関連する非コード領域のリスクバリアントを解釈し、遺伝子調節活性およびバリアント効果を予測する深層学習モデルを構築した。以上の成果を総合すると、本研究はヒト大脳基底核の組織化、進化、および疾患遺伝学を理解するためのマルチモーダルな調節フレームワークを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118125",
+    "title": "Identification and validation of serum EPHB2 as a candidate biomarker for colorectal cancer and precancerous lesions.",
+    "abstract": "This study identifies and validates serum EPHB2 as a non-invasive candidate biomarker for early detection of colorectal cancer (CRC) and precancerous adenomas. Through integrative analysis of multi-cohort transcriptomics, pan-cancer databases, and single-cell RNA sequencing, EPHB2 was identified as a CRC-specific marker predominantly localized to malignant epithelial cells, with expression progressively elevated from precancerous lesions through advanced carcinoma. Clinical ELISA validation in prospective local and independent external cohorts, supported by tissue immunohistochemistry, demonstrated robust diagnostic performance across both cohorts: serum EPHB2 achieved AUCs of 0.794-0.839 for adenoma detection and 0.816-0.897 for distinguishing CRC from healthy controls, and effectively discriminated neoplastic from benign inflammatory lesions (AUCs of 0.817-0.874). Mechanistic analyses further revealed that EPHB2 expression is associated with Wnt/β-catenin signaling activation in colorectal tumorigenesis. Collectively, these findings establish serum EPHB2 as a promising candidate biomarker that warrants further prospective evaluation for early detection of colorectal neoplasia.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118125",
+    "date": "2026-11-05",
+    "authors": "Zhang D, Wang J, Pan H, Zhao S, Jin X, Lu W, Ji C, Cui R, Ying H, Wang J, Li B, Jin H, Wang L, Yang J, Kang N, Huang X, Xu C, Xie X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43017150",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43017150",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "scoped_query",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3271,
+    "collected_at": "2026-11-14T03:13:11.939144+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1016/j.isci.2026.118125"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c85b90d0738265210a93c0ab4ebca3da8f37dda11f1d4353dda4183cf5724004",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:45:13.185462+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9ecea9db691d7c3245ff45a5cfec5e67251cddd9169f614532a5b2cf4c1b656a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:45:13.185462+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大腸癌および前癌病変のバイオマーカー候補としての血清EPHB2の同定と検証",
+    "abstract_ja": "本研究では、血清EPHB2を大腸癌（CRC）および前癌性腺腫の早期検出に向けた非侵襲的な候補バイオマーカーとして同定し、その妥当性を検証した。マルチコホートトランスクリプトミクス、汎癌データベース、およびシングルセルRNAシーケンシングの統合解析を通じて、EPHB2は主に悪性上皮細胞に局在するCRC特異的マーカーであり、前癌性病変から進行癌にかけて発現が漸次的に上昇することが明らかとなった。組織免疫組織化学による裏付けを伴う、前向きの局所コホートおよび独立した外部コホートにおける臨床ELISA検証では、両コホートにおいて強固な診断性能が示された。血清EPHB2は、腺腫検出において0.794～0.839、CRCと健常対照群の判別において0.816～0.897のAUCを達成し、腫瘍性病変と良性炎症性病変を効果的に判別した（AUC 0.817～0.874）。機序解析により、EPHB2の発現が大腸腫瘍形成におけるWnt/β-カテニンシグナル伝達の活性化に関連していることがさらに明らかになった。総じて、これらの知見は、血清EPHB2が大腸新生物の早期検出に向けたさらなる前向き評価に値する有望な候補バイオマーカーであることを立証するものである。"
+  },
+  {
+    "id": "10.1186/s40168-026-02564-w",
+    "title": "A specialized microbiome enriched in nitrification and halogen cycling potential resolved from multi-omics investigation of a Caribbean suboxic and acidic marine sinkhole",
+    "abstract": "Background\n                The Luymes Sinkholes, located on the Luymes Bank northwest of Saba, represent a unique marine environment characterized by distinct biogeochemical gradients. Most noticeable is an acidic (pH ≈ 6.25) and suboxic (O2 < 60 µmol/kg) submerged ‘lake’ at ~ 220 m depth exhibiting extreme deviations from standard oceanographic patterns, including elevated inorganic carbon, nitrate, and phosphate, and a lower temperature (20.3 ºC vs 26.4 ºC). To determine how the microbiome within the submerged acid lake adapted to these unique conditions, we collected 59 coupled samples of size-filtered (0.22 µm) planktonic microbes for shotgun metagenomics and solid-phase extracted dissolved organic matter for untargeted metabolomics from 21 stations at depths ranging from 2 to 600 m during a 10-day research cruise in December 2019.\n              \n                Results\n                We identified a distinct microbial community within the submerged acid lake different from the non-acidic sinkholes, with increased abundances of Nitrospinota, Thermoproteota, Planctomycetota, and Actinobacteriota. We also found three enriched classes of dissolved compounds within the submerged acid lake: (1) large, (2) low-polarity, and (3) halogenated metabolites, including iodides and halobenzoic acids. Correlations between microbial taxa and metabolite classes show potential links between nitrifying archaea and halogenated compound cycling. We further supported these findings using the functional annotation of metagenome-assembled genomes (MAGs) and protein clusters showing enrichment of nitrification and halogen cycling genes, suggesting the presence of specialized degradation and biosynthetic pathways, directly connecting microbial metabolism to the observed geochemical conditions.\n              \n                Conclusion\n                These findings demonstrate that the submerged acid lake contains specific microbially driven biogeochemical processes under acidified and low-oxygen conditions, providing a natural model for future extreme ocean acidification scenarios. With this multi‑omics approach, we were able to connect the microbial metabolism with this unique environment, thereby expanding our understanding of how both are interconnected.\n                \n\n                  \n                    \n                      \n                        Video Abstract",
+    "journal": "Microbiome",
+    "doi": "10.1186/s40168-026-02564-w",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40168-026-02564-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "metagenom",
+        "metagenome",
+        "metagenomics",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "lake",
+          "marine",
+          "ocean",
+          "plankton"
+        ],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4451,
+    "collected_at": "2026-11-14T03:23:41.582958+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40168"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1186/s40168-026-02564-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2931fefd19d01471403a9b505a7d26a99a4b4ee1a9a2bad2ed0873f0c25066f1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:45:13.185462+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "65e8c19287617b98b734166caa82a7cc6ee29ed7283aae52fd394ebe9c9138e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:45:13.185462+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カリブ海の亜酸素・酸性海洋シンクホールのマルチオミクス解析から解明された、硝化およびハロゲン循環能に富む特異的なマイクロバイオーム",
+    "abstract_ja": "背景\n                サバ島北西のルイメスバンクに位置するルイメス・シンクホールは、顕著な生物地球化学的勾配を特徴とする特異な海洋環境である。最も顕著なのは、水深約220mに存在する酸性（pH≈6.25）かつ亜酸素（O₂ < 60 µmol/kg）の海底「湖」であり、無機炭素、硝酸塩、リン酸塩の高濃度化や水温の低下（20.3 ºC vs 26.4 ºC）など、標準的な海洋学的パターンから著しく逸脱した状態にある。この海底酸性湖内の微生物叢がこれらの特異な条件にどのように適応しているかを明らかにするため、2019年12月の10日間にわたる調査航海において、水深2～600mの21地点から、ショットガンメタゲノミクス用のサイズフィルター（0.22 µm）でろ過したプランクトン性微生物のペアサンプル59点と、非標的メタボロミクス用の固相抽出溶存有機物サンプルを採取した。\n              \n                結果\n                海底酸性湖内において、非酸性のシンクホールとは異なる明確な微生物群集を同定し、Nitrospinota、Thermoproteota、Planctomycetota、およびActinobacteriotaの存在量の増加を確認した。また、海底酸性湖内において、(1) 大型、(2) 低極性、(3) ハロゲン化代謝物（ヨウ化物やハロベンゾ酸を含む）という3つの濃縮された溶存化合物クラスを見出した。微生物分類群と代謝物クラスの相関関係は、硝化古細菌とハロゲン化化合物の循環との間に潜在的な関連性があることを示している。さらに、メタゲノムアセンブルドゲノム（MAGs）の機能アノテーションおよびタンパク質クラスターを用いてこれらの知見を裏付けたところ、硝化およびハロゲン循環遺伝子の濃縮が認められ、特化した分解・生合成経路の存在が示唆された。これにより、微生物代謝が観測された地球化学的条件に直接的に結びついていることが明らかとなった。\n              \n                結論\n                これらの知見は、海底酸性湖が酸性化および低酸素条件下において、微生物主導の特異的な生物地球化学的プロセスを有していることを示しており、将来の極端な海洋酸性化シナリオにおける自然なモデルとなる。このマルチオミクスアプローチにより、微生物代謝をこの特異な環境と結びつけることができ、両者がどのように相互に関連しているかについての理解を深めることができた。\n                \n\n                  \n                    \n                      \n                        ビデオ要旨"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research support, non-u.s. gov't",
+      "journal article"
+    ],
+    "id": "10.1111/mec.70640",
+    "title": "Mapping Protist Export to Deep-Sea Sediments Reveals Decoupled Export and Transfer Patterns.",
+    "abstract": "Gravitational particle sinking is the main mechanism for carbon export in the biological carbon pump. However, the connectivity of particle-associated protist communities from the surface to the seafloor remains poorly resolved. We used 18S rRNA gene metabarcoding to characterise exported protist communities within sinking particles and deep-sea sediments in subtropical and subantarctic waters of the southwest Pacific Ocean. Sinking particles were collected with multi-depth formalin-fixed and preservative-free (live) particle interceptor traps and compared against the water column community (upper: 5-40 m; lower: 70-500 m). Amplicon sequence variants (ASVs) from upper water column samples accounted for a 2- to 4-fold higher proportion of reads and ASV richness compared to lower water column samples in fixed trap and sediment samples, suggesting a stronger surface protist contribution towards export. Tracing differential abundance patterns of ASVs in upper water column and fixed trap samples revealed taxa-specific decoupling between ASV export potential across the mixed layer and transfer potential to the upper mesopelagic. These export patterns, similarly suggested by taxa-specific decrease in ASV richness between fixed and live traps, remained comparable across biogeochemically contrasting water masses. This suggests that the drivers of particle-associated protist loss during export might be linked to characteristics consistent across environmental conditions, such as specific microbial interactions or cell properties. Transfer potential was a strong indicator of ASV detection in deep-sea sediments, emphasising that tracing export at multiple depths across the pelagic-benthic continuum is critical to identify protist taxa driving long-term carbon sequestration.",
+    "journal": "Molecular Ecology",
+    "doi": "10.1111/mec.70640",
+    "date": "2026-11-01",
+    "authors": "Ong DRY, Gutiérrez-Rodríguez A, Bilewitch J, Nodder SD, Stukel MR, Décima M, Kelly TB, Lopes Dos Santos A.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43023588",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43023588",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18s rrna",
+        "microbial",
+        "protist"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2601,
+    "collected_at": "2026-11-14T03:13:11.939144+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-14",
+    "related_dois": [
+      "10.1111/mec.70640"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7a59507f60305544fa60ead379c3368826a4ed22c3f910cede276bb7e1ddcd17",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:45:13.185462+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cb99dd2ab96be1803b781b1e5492e991401312b30d1c8dae18d1df347a837d18",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T03:45:13.185462+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "原生生物の深海堆積物への輸出マッピングにより、輸出と輸送のパターンの乖離が明らかになった。",
+    "abstract_ja": "重力による粒子の沈降は、生物炭素ポンプにおける炭素輸出の主要なメカニズムである。しかし、表層から海底に至る粒子随伴性原生生物群集の連結性については、依然として十分に解明されていない。本研究では、18S rRNA遺伝子メタバーコーディングを用いて、南西太平洋の亜熱帯および亜南極海域における沈降粒子および深海堆積物中の輸出原生生物群集の特性解析を行った。沈降粒子は、多深度のホルマリン固定・保存剤不使用（生）粒子インターセプタートラップを用いて採取し、水柱群集（上層：5-40 m、下層：70-500 m）と比較した。固定トラップおよび堆積物試料において、上層水柱試料由来のアンプリコン配列変異体（ASV）は、下層水柱試料と比較してリード数およびASV豊富度が2～4倍高く、輸出に対する表層原生生物の寄与がより強いことが示唆された。上層水柱試料と固定トラップ試料におけるASVの相対存在量パターンを追跡したところ、混合層におけるASV輸出能と上層中深層への輸送能との間に、分類群特異的なデカップリングが認められた。固定トラップと生トラップ間でのASV豊富度の分類群特異的な減少によっても示唆されるこれらの輸出パターンは、生物地球化学的に対照的な水塊間においても同様であった。このことは、輸出過程における粒子随伴性原生生物の喪失の駆動要因が、特定の微生物間相互作用や細胞特性など、環境条件を問わず一貫した特性に関連している可能性を示唆している。輸送能は深海堆積物におけるASV検出の強力な指標となり、遠洋・底生連続体にわたる複数の深度で輸出を追跡することが、長期的な炭素隔離を駆動する原生生物分類群を同定する上で極めて重要であることを強調している。"
   }
 ]
