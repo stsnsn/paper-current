@@ -210084,5 +210084,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "2021年から2025年にかけての中国太湖における藻類群集構造が藻類由来リン濃度に及ぼす影響",
     "abstract_ja": "要旨    太湖における富栄養化の管理において、リンの制御は依然として重大な課題であるが、藻類由来リン（ADP）およびその群集変動に対する応答に関する定量的評価は依然として乏しい。2021～2025年の湖全域20地点の月次データと、Microcystis属の実験的に決定された細胞内リン含有量（1.46×10⁻¹⁰ mg/細胞）に基づき、細胞体積換算法を用いて113種の藻類の細胞特異的リン量を推定し、ADPおよび門レベルの寄与度を定量化した。年平均総藻類密度は、2021年の1.2×10⁸細胞/Lから2025年には6.9×10⁷細胞/Lへと減少し、顕著な入れ替わりが見られた。Microcystis属は総密度の83.6%から32.4%へと減少した一方、珪藻類、クリプト藻類、および緑藻類は有意に増加した。年平均ADPは0.015～0.022 mg/L（TPの33.4%）の範囲にあり、シアノバクテリア、珪藻類、および緑藻類が大部分を占めていた。2021～2022年にはシアノバクテリアがADPの65%以上を供給していたが、2023年以降は著しく減少し、一方で珪藻類と緑藻類の寄与度が上昇した。特筆すべきは、2024年12月の藻類の回復（密度が前年比79.3%増）がADPの25.0%減少と一致したことである。これは、小型細胞のシアノバクテリアの大幅な増加が、1細胞あたり7～8倍多くのリンを含む大型細胞の珪藻類のはるかに小さな減少によって相殺されたためである。これらの知見は、太湖においてADPがTPの主要構成要素であり、藻類バイオマス（量）と、群集の細胞サイズ構造によって決定される群集加重細胞特異的リン含有量（質）という、機構的に異なる2つの制御要因によって支配されており、これらが相反する方向に作用し得ることを示している。したがって、藻類群集構造は湖のリンの能動的な調節因子として機能しており、リン管理においては藻類密度と併せて考慮する必要がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11298151/v1",
+    "title": "Long-term organic fertilizer amendment improves citrus yield and quality in calcareous soil mainly by shaping the microbiome and mobilizing soil phosphorus",
+    "abstract": "Abstract    Background and aims  Citrus, the largest fruit globally, often encounters nutritional imbalances, notably phosphorus (P) deficiency, when cultivated in calcareous soil. Although organic fertilizers outperform inorganic alternatives in citrus production, their specific impacts and the microbiome’s role in calcareous soil remain unclear. This study aimed to investigate the effects of rapeseed cakes (RC) and cow manure (CM) on citrus plant-soil performance and their correlations with microbiome composition and functional profiles. Methods  We conducted a 5-year long-term positioning field experiment on citrus under calcareous soil conditions. Field experiments combined with amplicon and metagenome sequencing were employed to analyze differences in plant-soil performance and rhizosphere microbiome traits under RC and CM treatments. Isolation-culture verification was further performed to validate the function of key differential microorganisms. Results  RC and CM supplementation enhanced fruit yield and quality while facilitating P utilization in calcareous soil, with CM showing a better improvement effect. Both organic fertilizers induced significant alterations in rhizosphere microbiome composition and function. The genus  Cupriavidus  was significantly enriched in rhizosphere under organic fertilizer treatments. Isolation-culture verification confirmed it enhanced soil P availability by secreting organic acids, alkaline phosphatases and other enzymes, serving as plant-growth-promoting rhizobacteria for citrus. Conclusion  Our findings clarify the effects of rapeseed cakes and cow manure on citrus growth and soil P activation in calcareous soil, and reveal the key role of the rhizosphere microbiome represented by  Cupriavidus  in this process. This study advances our understanding of microbiome-mediated improvement of citrus growth and P utilization via organic fertilizer application.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11298151/v1",
+    "date": "2026-11-09",
+    "authors": "gong k, wang h, you c, zheng c, Qian W, Pang Y, yang w, yin h, Li q, zeng y, peng l, wang n, Chun C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361937",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "microbiome",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1090,
+    "collected_at": "2026-11-13T16:20:52.922504+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11298151/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "83b2a1fe4b35a65cbe4a5539029bc4edf0397e7f983a1cc3bd5c79c5b95dcbf7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:23:23.641793+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f874eb4c6a8938795e7f31e81b2cbc194d008afd7a9f3ec44b44500df6b34a0e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:23:23.641793+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "長期にわたる有機質肥料の施用は、主に微生物叢の形成と土壌リンの遊離を通じて、石灰質土壌における柑橘類の収量と品質を向上させる。",
+    "abstract_ja": "要旨    背景および目的  世界最大の果実である柑橘類は、石灰質土壌で栽培される際、栄養不均衡、特にリン（P）欠乏に陥ることが多い。柑橘類の生産においては有機肥料が無機肥料を上回る性能を示すものの、その具体的な影響や、石灰質土壌における微生物叢の役割については依然として不明である。本研究では、菜種粕（RC）および牛糞（CM）が柑橘類の植物・土壌性能に及ぼす影響と、それらと微生物叢の組成および機能プロファイルとの相関関係を調査することを目的とした。方法  石灰質土壌条件下において、柑橘類を対象とした5年間の長期定置野外実験を実施した。RCおよびCM処理下における植物・土壌性能および根圏微生物叢の特性の差異を解析するため、野外実験にアンプリコンシーケンシングおよびメタゲノムシーケンシングを組み合わせた。さらに、主要な差異微生物の機能を検証するため、単離培養による確認を行った。結果  RCおよびCMの施用は、果実の収量と品質を向上させるとともに、石灰質土壌におけるP利用を促進し、特にCMにおいてより顕著な改善効果が認められた。両有機肥料ともに、根圏微生物叢の組成および機能に有意な変化をもたらした。Cupriavidus属は、有機肥料処理下の根圏において有意に増加していた。単離培養による検証により、同属が有機酸、アルカリホスファターゼおよびその他の酵素を分泌することで土壌中のP利用能を高め、柑橘類の植物成長促進根圏細菌として機能していることが確認された。結論  本研究の知見は、石灰質土壌における柑橘類の成長および土壌P活性化に対する菜種粕および牛糞の影響を明らかにするとともに、この過程においてCupriavidus属に代表される根圏微生物叢が果たす重要な役割を解明したものである。本研究は、有機肥料の施用による微生物叢を介した柑橘類の成長促進およびP利用の改善に関する理解を深めるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764608",
+    "title": "Modular assembly of mitochondrial complex III from a dynamic matrix domain pool",
+    "abstract": "Mitochondrial complex III is a central component of the cellular energy metabolism. It is an obligate dimer of catalytic and accessory subunits that are encoded by two genomes. How its large matrix domain, formed by the core proteins Qcr1 and Qcr2, is built and joined to the membrane part and during assembly is not known. Here we show that Qcr1 and Qcr2 preassemble independently of complex III into matrix domain modules. Cryo-EM structures from a cardiolipin-deficient yeast strain and of recombinant protein resolved single, double and triple matrix domains, which are linked by the C-terminal tail of Qcr1. In the mature complex III, the same tail binds cytochrome b and cardiolipin. The modules form a dynamic pool, in which assembly species interconvert and exchange subunits. Mutations at the module interfaces, including mimics of human disease variants, reshape this pool and deletion of the Qcr1 tail impairs respiratory growth. Substitution of a tyrosine residue linked to parkinsonism exposes a conserved cysteine residue to oxidation. A cryo-EM structure of an assembly intermediate shows a cap of two matrix domains bound to a monomeric membrane module of cytochrome b, Qcr7, Qcr8 and cytochrome c1. We propose that complex III receives its matrix domain from a dynamic pool of prebuilt modules, which organizes the dimerization of the complex.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764608",
+    "date": "2026-11-09",
+    "authors": "Jimenez-Niebla J, Jha R, Wirth C, Busto JV, Feignier A, Cosenza-Contreras M, Ruoff K, Dorer M, Babic R, Drepper F, Kraft C, Huesgen PF, Wiedemann N, Kao W, Hunte C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362578",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1617,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.05.764608"
+    ],
+    "translation": {
+      "title": {
+        "hash": "245b8b9173b644a30df9297d410a6a58a4aa72dcbbf949705c89766af159983e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:23:23.641793+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2cb2a6966403569cb2423a3cf43c323166429d0e964b61383123ce433efa05a8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:23:23.641793+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "動的マトリックスドメインプールからのミトコンドリア複合体IIIのモジュール式アセンブリ",
+    "abstract_ja": "ミトコンドリア複合体IIIは、細胞のエネルギー代謝における中心的な構成要素である。これは、2つのゲノムによってコードされる触媒サブユニットと補助サブユニットからなる必須の二量体である。コアタンパク質であるQcr1およびQcr2によって形成される巨大なマトリックスドメインが、どのように構築され、膜部分と結合し、そして組み立てられるのかは解明されていない。本研究では、Qcr1およびQcr2が複合体IIIとは独立して、マトリックスドメインモジュールへと事前組み立てされることを示す。カルジオリピン欠損酵母株および組換えタンパク質のクライオ電子顕微鏡構造解析により、単一、二重、および三重のマトリックスドメインが同定され、これらはQcr1のC末端テイルによって連結されている。成熟した複合体IIIでは、同一のテイルがシトクロムbおよびカルジオリピンに結合する。これらのモジュールは動的なプールを形成し、その中で組み立て種が相互変換し、サブユニットを交換する。ヒト疾患バリアントの模倣体を含むモジュール界面の変異はこのプールの構造を変化させ、Qcr1テイルの欠失は呼吸増殖を阻害する。パーキンソン病に関連するチロシン残基を置換すると、保存されたシステイン残基が酸化にさらされる。組み立て中間体のクライオ電子顕微鏡構造解析では、2つのマトリックスドメインのキャップが、シトクロムb、Qcr7、Qcr8、およびシトクロムc1からなる単量体膜モジュールに結合している様子が示される。我々は、複合体IIIがあらかじめ構築されたモジュールの動的プールからマトリックスドメインを受け取り、それが複合体の二量体化を組織化することを提唱する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.764921",
+    "title": "Dual-reporter assay for selective small molecule inhibition of expanded toxic huntingtin",
+    "abstract": "Huntington's disease (HD) is a neurodegenerative disorder caused by an expansion of CAG repeats in exon 1 of the human huntingtin gene (HTT). The resultant pathogenic allele (mHTT) produces a mutant huntingtin protein (mHtt) containing an expanded polyglutamine tract. Because mHtt drives neurodegeneration while wildtype huntingtin (Htt) remains critical for regulation of gene transcription and cell survival, an ideal therapeutic would specifically downregulate mHtt expression while preserving Htt. Small molecules are attractive candidates for HD given their ability to penetrate the blood-brain barrier and amenability to oral dosing, but there remains no high-throughput platform that reports both efficacy and allele selectivity. Here, we present a bacterial assay in which exon 1 of HTT and mHTT, each fused to spectrally distinct fluorescent proteins, are co-expressed in the same cell, allowing simultaneous quantification of their expression in the presence of small molecules. This high-throughput assay isolates the effect of small molecules on huntingtin expression without confounding factors present in mammalian cells, such as endogenous Htt or human RNA-binding proteins. To validate this assay, we evaluated two previously reported CAG repeat binding compounds and used circular dichroism spectroscopy and cell-free protein synthesis to investigate their underlying mechanisms. Furamidine exhibited reproducible, sequence-dependent effects, altering the structural stability of HTT RNA and selectively decreasing the wildtype Htt expression (a selectivity profile opposite to what is therapeutically required). In contrast, myricetin did not affect HTT RNA stability and its decreased signal in the dual-expression assay was due to fluorophore artifacts. This highlights the importance of complementary workflows in distinguishing genuine modulators from reporter-specific artifacts. Collectively, these findings establish the dual-expression assay as a screening platform for CAG repeat-targeting small molecules and demonstrate the importance of determining which allele reported compounds preferentially affect.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764921",
+    "date": "2026-11-09",
+    "authors": "Kraichely EA, Kim S, Wang J, Jung KW, Chung P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362440",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1618,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.11.06.764921"
+    ],
+    "translation": {
+      "title": {
+        "hash": "00530b63f1b7c354a043828a60a28e2a7bdc144d9d57154f4256c346ca1ef556",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:23:23.641793+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "01f0fb8b115da49939e8ba58eeb28235ea54ae947d11534df2963d000ddb4f07",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:23:23.641793+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "拡張型毒性ハンチンチンの選択的低分子阻害のためのデュアルレポーターアッセイ",
+    "abstract_ja": "ハンチントン病（HD）は、ヒトハンチンチン遺伝子（HTT）のエクソン1におけるCAGリピートの伸長によって引き起こされる神経変性疾患である。その結果生じる病原性アレル（mHTT）は、伸長したポリグルタミン鎖を含む変異型ハンチンチンタンパク質（mHtt）を産生する。mHttが神経変性を駆動する一方で、野生型ハンチンチン（Htt）は遺伝子転写の調節および細胞生存に不可欠であるため、理想的な治療法は、Httを維持しつつmHttの発現を特異的にダウンレギュレートするものである。低分子化合物は、血液脳関門を通過し経口投与が可能であることから、HDの有望な候補であるが、有効性とアレル選択性の両方を報告するハイスループットプラットフォームは未だ存在しない。本研究では、HTTおよびmHTTのエクソン1をそれぞれスペクトル的に異なる蛍光タンパク質と融合させ、同一細胞内で共発現させることで、低分子化合物存在下における両者の発現を同時に定量できる細菌アッセイを提案する。このハイスループットアッセイは、内因性HttやヒトRNA結合タンパク質といった哺乳類細胞に存在する交絡因子を排除し、低分子化合物がハンチンチン発現に及ぼす影響を単離する。本アッセイの妥当性を検証するため、既報の2種類のCAGリピート結合化合物を評価し、円二色性分光法および無細胞タンパク質合成を用いてその根底にあるメカニズムを調査した。フラミジンは再現性のある配列依存的な効果を示し、HTT RNAの構造安定性を変化させ、野生型Httの発現を選択的に低下させた（これは治療的に必要とされるものとは逆の選択性プロファイルである）。対照的に、ミリセチンはHTT RNAの安定性に影響を与えず、デュアル発現アッセイにおけるシグナルの低下は蛍光色素のアーティファクトによるものであった。このことは、真の調節因子とレポーター特異的なアーティファクトを区別する上で、相補的なワークフローが重要であることを浮き彫りにしている。総じて、これらの知見は、デュアル発現アッセイをCAGリピートを標的とする低分子化合物のスクリーニングプラットフォームとして確立するものであり、報告された化合物がどのアレルに優先的に影響を及ぼすかを判定することの重要性を示すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11479563/v1",
+    "title": "Viperin deficiency in CD4⁺ T cells enhances protective immunity against Mycobacterium tuberculosis infection",
+    "abstract": "Abstract  Tuberculosis (TB), caused by Mycobacterium tuberculosis (Mtb), remains a major global health threat. CD4⁺ T cells are indispensable for protective immunity against Mtb infection. This study defines the T-cell-intrinsic role of Viperin (encoded by Rsad2) during Mtb infection. We utilized T cell-specific Viperin knockout (Rsad2cko) mice and adoptive transfer models into Rag1-/- hosts to assess outcomes following aerosol Mtb infection. We found that Viperin deficiency in CD4⁺ T cells significantly reduced bacterial burden and pathology in Mtb-infected lungs. This enhanced protection was associated with an increased frequency and activation of Mtb-specific CD4⁺ T cells. Viperin-deficient CD4⁺ T cells exhibited enhanced early activation, proliferation, and a bias towards differentiating into short-lived effector memory (Tem) over central memory (Tcm) cells. Furthermore, these cells showed a pronounced skewing towards a Th1 phenotype, with robust IFN-γ production, both in vivo and under Th1-polarizing conditions in vitro. Viperin-deficient CD4⁺ T cells displayed reduced apoptosis and increased activation of the PI3K-Akt-mTOR and PKC-θ-NF-κB pro-survival pathways upon T cell receptor (TCR) stimulation, accompanied by transcriptional downregulation of the pro-apoptotic mediator Bbc3 (PUMA) and the proliferation brake Gadd45a in vivo. Collectively, our study reveals that Viperin intrinsically dampens CD4⁺ T cell function by restraining Th1 differentiation, proliferation, and survival, thereby identifying Viperin as a potential immunotherapeutic target for enhancing T cell-mediated defense against TB. These findings also highlight a context-dependent duality of Viperin, which is protective in viral infection but detrimental in Mtb infection, underscoring its role as a homeostatic regulator of T cell immunity.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11479563/v1",
+    "date": "2026-11-09",
+    "authors": "Zhou X, Liang Y, Lin L, Li H, Niu H, Han Z, Xu M, Wen Q, Zhou L, Zhou C, Ma L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362020",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1621,
+    "collected_at": "2026-11-13T22:36:48.103116+00:00",
+    "collected_date": "2026-11-14",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.21203/rs.3.rs-11479563/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2c1aec43b2763f01ed15384236da66ab38c9a81174670d8f17293e80be0ec77a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:23:23.641793+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cace16ca4a039b8500da22d651fdba1e71bdcd6cf2c675af5e9297473a7e7555",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-14T12:23:23.641793+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CD4⁺ T細胞におけるバイパーリン欠損は結核菌感染に対する防御免疫を増強する",
+    "abstract_ja": "要旨　結核菌（Mtb）によって引き起こされる結核（TB）は、依然として世界的な主要な健康脅威である。CD4⁺ T細胞は、Mtb感染に対する防御免疫に不可欠である。本研究では、Mtb感染時におけるViperin（Rsad2によりコードされる）のT細胞内在性の役割を明らかにする。我々は、T細胞特異的Viperinノックアウト（Rsad2cko）マウスおよびRag1-/-宿主への養子移入モデルを用い、エアロゾル性Mtb感染後の転帰を評価した。その結果、CD4⁺ T細胞におけるViperin欠損により、Mtb感染肺における細菌量および病理学的所見が有意に減少することが認められた。この防御能の向上は、Mtb特異的CD4⁺ T細胞の出現頻度の増加および活性化に関連していた。Viperin欠損CD4⁺ T細胞は、初期活性化および増殖の亢進を示し、中枢性メモリー（Tcm）細胞よりも短寿命のエフェクターメモリー（Tem）細胞へと分化する傾向が認められた。さらに、これらの細胞は、in vivoおよびin vitroのTh1極性化条件下の双方において、強固なIFN-γ産生を伴う顕著なTh1表現型への偏向を示した。Viperin欠損CD4⁺ T細胞では、T細胞受容体（TCR）刺激に対するPI3K-Akt-mTORおよびPKC-θ-NF-κB生存促進経路の活性化が亢進し、アポトーシスが減少するとともに、in vivoにおいてアポトーシス促進メディエーターBbc3（PUMA）の転写抑制および増殖抑制因子Gadd45aの増殖抑制が認められた。総じて、本研究は、ViperinがTh1分化、増殖、および生存を抑制することでCD4⁺ T細胞の機能を内在的に減弱させることを明らかにしており、これによりViperinを結核に対するT細胞介在性防御を強化するための潜在的な免疫治療標的として同定した。これらの知見はまた、Viperinがウイルス感染では保護的に作用する一方でMtb感染では有害であるという、文脈依存的な二面性を浮き彫りにしており、T細胞免疫の恒常性調節因子としての役割を強調するものである。"
   }
 ]
