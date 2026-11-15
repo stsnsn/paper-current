@@ -250265,5 +250265,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "転写開始部位に変異を有するプロウイルスから転写されたヒト免疫不全ウイルス1型ゲノムRNAの5'末端の構造解析",
     "abstract_ja": "要旨 近年の研究により、ヒト免疫不全ウイルス1型（HIV-1）において3つのG残基を含む転写開始部位から転写されるRNAの機能的役割は、5′末端のG残基数によって決定される構造安定性によって制御されていることが示されている。これに対し、HIV-1によって生成された新規感染細胞におけるほとんどのプロウイルスは、転写開始部位に導入された変異を保持していることが示されている。3番目のG残基にCまたはU変異が導入されると、その位置からの転写は起こりにくく、代わりに1番目または2番目のG残基から転写が起こることが示唆される。変異がない場合、これらの転写産物はゲノムRNAに取り込まれるのではなく、翻訳に利用されると考えられる。したがって、これらのRNAの機能が決定されるメカニズムは依然として不明である。本研究では、変異を含むモデルRNAを設計し、その構造と安定性を解析した。5′末端にGCまたはGUを持つ2番目のG残基から転写されたRNAは、ic RNAとして機能する天然ウイルスの3番目のG残基から転写されたRNAと同様の安定な構造を形成した。これらの結果は、これらの変異が存在する場合、2番目のGから転写されたRNAがゲノムRNAとして機能することを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11267412/v1",
+    "title": "SPxLINCS: a GWAS-guided, tissue-resolved framework for drug repurposing in hepatocellular carcinoma",
+    "abstract": "Abstract  Background  Hepatocellular carcinoma (HCC) is the third leading cause of cancer-related mortality, yet effective therapeutic options remain limited. Although Genome-Wide Association Studies (GWAS) have identified multiple HCC susceptibility loci, translating these discoveries into therapeutic leads has proven challenging. Here we present a reverse transcriptomic repurposing pipeline that combines evidence from multiple GWAS, tissue-resolved transcriptomics, and small-molecule perturbational profiles to identify candidate drugs for HCC. Materials and methods  We developed a reproducible drug-repositioning pipeline linking 12 HCC-related GWAS datasets with multi-tissue GTEx regulatory profiles and LINCS L1000 perturbational signatures through S-PrediXcan and LINCS-based transcriptomic connectivity analysis (SPxLINCS). Previously calculated compound-level evidence scores were retained for ranking and visualization. Candidate networks were visualized in Cytoscape as bipartite and tripartite graphs, and clinical plausibility was assessed by Drug Set Enrichment Analysis (DrugEnrichr vs. SIDER) with Benjamini–Hochberg correction. Results  Across the 12 datasets, the SPxLINCS pipeline prioritized compounds that could be grouped into five mechanism-related categories after key-tissue and reverse-signature filtering: cell-cycle and mitotic kinase inhibitors, including CDK- and PLK1-related compounds; focal adhesion kinase inhibitors; DNA-dependent protein kinase and DNA-damage-response agents; topoisomerase I inhibitors; and translation-related inhibitors. Network visualization distinguished compounds that recurred across multiple GWAS datasets from compounds primarily associated with individual phenotypes. Drug-set enrichment analysis identified enrichment of terms related to hepatocellular and other hepatic malignancy indications in the SIDER database. Importazole, ER-27319, and LDN-193189 were recurrently prioritized across multiple datasets and tissues despite limited prior characterization in HCC. These compounds should therefore be regarded as computationally nominated and hypothesis-generating candidates requiring experimental validation. Conclusions  This multi-GWAS reverse transcriptomic approach yields a mechanism-guided candidate list for drug repurposing in HCC. Signal consistency across independent datasets, combined with indication-level enrichment, supports advancing prioritized compounds into biomarker-stratified preclinical and early clinical evaluation.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11267412/v1",
+    "date": "2026-10-27",
+    "authors": "Peng J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351138",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "pipeline",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1202,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11267412/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d988813261f0a8c50d3c1c8642ea52ea6f0b59d9963728b2ea1aa79cef5f46b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:49:52.924644+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c10b30beb7671de78b88c1d29ff2f34ca2bf031dd25f9a0bf8eb3a5dd48df103",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:49:52.924644+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SPxLINCS：肝細胞癌におけるドラッグリポジショニングのためのGWASガイド型組織解像度フレームワーク",
+    "abstract_ja": "要旨  背景  肝細胞癌（HCC）はがん関連死亡の第3位の原因であるが、有効な治療選択肢は依然として限られている。ゲノムワイド関連解析（GWAS）によって複数のHCC感受性遺伝子座が同定されてきたが、これらの知見を治療リードへと結びつけることは困難であることが判明している。本研究では、複数のGWAS、組織解像度トランスクリプトミクス、および低分子摂動プロファイルからのエビデンスを統合し、HCCの候補薬剤を同定するリバーストランスクリプトミクス・リパーパシング・パイプラインを提案する。材料および方法  我々は、S-PrediXcanおよびLINCSベースのトランスクリプトミクス接続性解析（SPxLINCS）を用いて、12のHCC関連GWASデータセットを、多組織GTEx調節プロファイルおよびLINCS L1000摂動シグネチャーと結びつける再現性のある薬剤リポジショニング・パイプラインを開発した。ランキングおよび可視化のため、事前に算出された化合物レベルのエビデンススコアを保持した。候補ネットワークはCytoscapeで二部グラフおよび三部グラフとして可視化し、臨床的妥当性はBenjamini–Hochberg補正を用いたDrug Set Enrichment Analysis（DrugEnrichr vs. SIDER）により評価した。結果  12のデータセット全体において、SPxLINCSパイプラインは、主要組織およびリバースシグネチャーによるフィルタリング後、5つの機序関連カテゴリーにグループ化可能な化合物を優先した：CDKおよびPLK1関連化合物を含む細胞周期および有糸分裂キナーゼ阻害剤、焦点接着キナーゼ阻害剤、DNA依存性プロテインキナーゼおよびDNA損傷応答剤、トポイソメラーゼI阻害剤、および翻訳関連阻害剤である。ネットワーク可視化により、複数のGWASデータセットで繰り返し出現した化合物と、主に個々の表現型に関連する化合物とを区別することができた。Drug-set enrichment analysisにより、SIDERデータベースにおいて肝細胞癌およびその他の肝悪性腫瘍の適応症に関連する用語の濃縮が認められた。Importazole、ER-27319、およびLDN-193189は、HCCにおける事前の特性解析が限られていたにもかかわらず、複数のデータセットおよび組織にわたって繰り返し優先された。したがって、これらの化合物は、実験的検証を必要とする、計算機的に候補として指名され仮説を生成した候補とみなすべきである。結論  このマルチGWASリバーストランスクリプトミクスアプローチは、HCCにおける薬剤リポジショニングのための機序ガイド付き候補リストを提供する。独立したデータセット間におけるシグナルの一貫性と、適応症レベルの濃縮が相まって、優先された化合物をバイオマーカー層別化された前臨床および初期臨床評価へと進めることを支持する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11085262/v1",
+    "title": "Discovering pathogens and evaluating the microbial and chemical contamination in the Machángara and the San Pedro Rivers in Quito, Ecuador: A temporal and longitudinal analysis",
+    "abstract": "Abstract    Water pollution poses major environmental and public health challenges, particularly in regions with insufficient wastewater treatment. This study evaluated seasonal changes in microbial and chemical contamination at three sampling points along the San Pedro and Machángara Rivers in Quito, Ecuador, during two rainy seasons and one dry season.  Escherichia coli  , total coliforms, yeasts, molds, and  Candida  spp. were quantified by selective culture, while selected pathogens were identified by PCR and Sanger sequencing.  E. coli  and total coliform levels frequently exceeded international standards.  Giardia intestinalis  ,  Cryptosporidium parvum  , and  Mycobacterium tuberculosis  were consistently detected, whereas  Helicobacter pylori  ,  Campylobacter jejuni  ,  C. upsaliensis  ,  M. leprae  , and several  E. coli  pathotypes were detected sporadically. Physico-chemical parameters showed seasonal variation, with elevated pH and chemical oxygen demand in the Machángara River and excessive nitrite concentrations in both rivers. Several metals, including Al, Fe, Cr, and Mn, exceeded Ecuadorian limits, indicating impaired water quality. Kruskal–Wallis analyses showed significant differences in most microbial and physico-chemical parameters among sampling points, particularly between upstream reference and downstream contaminated sites, whereas seasonal differences in pathogen occurrence were generally not significant. These findings provide an integrated seasonal assessment of microbial and chemical pollution in urban Andean rivers and highlight the need for improved wastewater treatment, continuous water-quality monitoring, and targeted remediation strategies.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11085262/v1",
+    "date": "2026-10-27",
+    "authors": "Cabrera-Ontaneda A, Yépez-del-Pozo-Tobar MP, Borja-Serrano P, Pineda-Cabrera CC, Zambrano-Romero A, Carpintero-Salvador N, Maurice L, Graham JP, Trueba G, Tejera E, Ochoa-Herrera V, Machado A.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350886",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "Escherichia",
+        "microbial",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1203,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11085262/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5381d3d5bb6084c2a835d72c1e7bd12e162e455f28ca26578d3140ce12cd1f61",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:49:52.924644+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c341775b9a890f65df084534b3269e45c5e9b77b8ed9df62de93fac5fcc8ffb1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:49:52.924644+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エクアドル、キトのマチャンガラ川およびサン・ペドロ川における病原体の検出と微生物・化学的汚染の評価：時間的・縦断的解析",
+    "abstract_ja": "要旨    水質汚染は、特に下水処理が不十分な地域において、環境および公衆衛生上の重大な課題となっている。本研究では、エクアドルのキトにおけるサン・ペドロ川およびマチャンガラ川沿いの3つの採水地点を対象に、2回の雨季と1回の乾季にわたる微生物および化学的汚染の季節的変化を評価した。大腸菌（Escherichia coli）、総大腸菌群、酵母、カビ、およびカンジダ属菌（Candida spp.）は選択培養により定量し、特定の病原体はPCRおよびサンガーシーケンシングにより同定した。大腸菌および総大腸菌群の濃度は、しばしば国際基準を上回った。ジアルジア・インテスティナリス（Giardia intestinalis）、クリプトスポリジウム・パルブム（Cryptosporidium parvum）、および結核菌（Mycobacterium tuberculosis）は一貫して検出された一方、ヘリコバクター・ピロリ（Helicobacter pylori）、カンピロバクター・ジェジュニ（Campylobacter jejuni）、C. upsaliensis、M. leprae、および複数の大腸菌パスタイプは散発的に検出された。物理化学的パラメータには季節的な変動が見られ、マチャンガラ川ではpHおよび化学的酸素要求量が上昇し、両河川で亜硝酸塩濃度が過剰であった。Al、Fe、Cr、Mnを含む複数の金属がエクアドルの基準値を超えており、水質の悪化が示された。クラスカル・ウォリス解析の結果、採水地点間、特に上流の基準地点と下流の汚染地点との間で、ほとんどの微生物および物理化学的パラメータに有意な差が認められたが、病原体の出現における季節的な差異は概して有意ではなかった。これらの知見は、アンデス山脈の都市部河川における微生物および化学的汚染の統合的な季節的評価を提供するものであり、下水処理の改善、継続的な水質モニタリング、および的を絞った浄化戦略の必要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2642.v1",
+    "title": "Advances and Translational Challenges in mRNA–Lipid Nanoparticle Vaccines Against Helicobacter pylori: From Rational Antigen Design to Mucosal Immunity",
+    "abstract": "Helicobacter pylori chronically infects more than half of the global population and is the sole bacterium classified as a Group 1 carcinogen by the International Agency for Research on Cancer. Despite decades of effort, no prophylactic H. pylori vaccine has reached the market, largely because conventional subunit and whole-cell candidates failed to induce durable, mucosa-protective T-helper 1 (Th1)/Th17 immunity in humans. The clinical success of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) mRNA–lipid nanoparticle (mRNA-LNP) vaccines has re-energized nucleic-acid vaccine research and provided a validated, scalable delivery platform. This review synthesizes the emerging mechanistic rationale and early preclinical evidence evaluating whether mRNA-LNP technology can address key bottlenecks in H. pylori vaccine development: cytoplasmic antigen expression naturally favors major histocompatibility complex (MHC) class I/II presentation and CD8⁺/Th1 responses (notably, recent human and murine evidence demonstrates that cytotoxin-associated gene A [CagA]-specific gastric CD8⁺ tissue-resident memory T [TRM] cells control early H. pylori infection), multi-antigen and conserved-epitope designs can be generated rapidly by reverse vaccinology, and the LNP carrier itself acts as an intrinsic innate immune adjuvant. We summarize the principal candidate antigens (urease subunit B [UreB], CagA, vacuolating cytotoxin A [VacA], neutrophil-activating protein [NAP], H. pylori adhesin A [HpaA], and γ-glutamyl transpeptidase [GGT]), dissect LNP composition and intracellular trafficking, and critically appraise the nascent body of preclinical H. pylori mRNA and nanocarrier studies published between 2021 and 2026—specifically distinguishing two recent in vivo mRNA-LNP preprints (encoding full-length UreB or UreB₁₉₉–₃₃₈ cytokine/immunoglobulin Z [IgZ] fusions) from peer-reviewed in silico multi-epitope mRNA and self-amplifying RNA (saRNA) designs, LNP-adjuvanted recombinant UreB/NapA protein vaccines, all-trans retinoic acid-loaded gut-tropic nanovaccines, and oral/lipid DNA vaccine benchmarks. We also reconcile classic evidence that bacterial clearance can proceed in B-cell-deficient mice via MHC class II-restricted CD4⁺ T cells with the ancillary role of functional adhesion- and urease-blocking antibodies, and we examine critical safety and immunopathological constraints—including post-immunization gastritis, oncogenic CagA EPIYA motif detoxification, and target-population stratification (uninfected children versus infected adults). We conclude that while mRNA-LNP represents a promising exploratory modality for an H. pylori vaccine, the current experimental evidence base remains narrow and preliminary; peer-reviewed validation of in vivo Th17 induction, antigen breadth, mucosal delivery route, and long-term durability in non-human primate and human challenge models will be required to establish clinical feasibility.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2642.v1",
+    "date": "2026-10-27",
+    "authors": "Zhao Y, Cheng H, Zhou S, He L, Xiu C, Huang B, Lu X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350578",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1204,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2642.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3b78157be1c2d877801f8931adcedb1ca25afa96eda1fcdb46e555e895c0d106",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:49:52.924644+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5f753a7946acde009667876768229869a452f9e43c7ecd5a751ad269cc0c616f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:49:52.924644+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヘリコバクター・ピロリに対するmRNA－脂質ナノ粒子ワクチンの進展と橋渡し的課題：合理的抗原設計から粘膜免疫まで",
+    "abstract_ja": "ヘリコバクター・ピロリ（H. pylori）は世界人口の半数以上に慢性的に感染しており、国際がん研究機関（IARC）によってグループ1発がん性物質に分類されている唯一の細菌である。数十年にわたる取り組みにもかかわらず、予防的なH. pyloriワクチンは市販に至っていない。その主な理由は、従来のサブユニット型および全細胞型候補ワクチンが、ヒトにおいて持続的な粘膜保護性Tヘルパー1（Th1）/Th17免疫を誘導できなかったためである。重症急性呼吸器症候群コロナウイルス2（SARS-CoV-2）mRNA-脂質ナノ粒子（mRNA-LNP）ワクチンの臨床的成功は、核酸ワクチン研究を再活性化させ、検証済みで拡張可能なデリバリープラットフォームを提供した。本総説では、mRNA-LNP技術がH. pyloriワクチン開発における主要なボトルネックを解消できるかを評価するため、新たに明らかになりつつある機序的根拠と初期の前臨床エビデンスを統合して提示する。具体的には、細胞質抗原発現が自然に主要組織適合性複合体（MHC）クラスI/II提示およびCD8⁺/Th1応答を促進すること（特に、近年のヒトおよびマウスのエビデンスにより、サイトトキシン関連遺伝子A［CagA］特異的な胃CD8⁺組織常在性メモリーT［TRM］細胞が初期のH. pylori感染を制御していることが示されている）、リバースワクチン学によって多抗原および保存エピトープ設計を迅速に生成できること、そしてLNPキャリア自体が内在性の自然免疫アジュバントとして機能することである。我々は、主要な候補抗原（ウレアーゼサブユニットB［UreB］、CagA、空胞化サイトトキシンA［VacA］、好中球活性化タンパク質［NAP］、H. pyloriアドヘシンA［HpaA］、およびγ-グルタミルトランスペプチダーゼ［GGT］）をまとめ、LNPの組成と細胞内輸送を詳細に解析するとともに、2021年から2026年にかけて発表された初期の前臨床H. pylori mRNAおよびナノキャリア研究を批判的に評価する。具体的には、最近の2つのin vivo mRNA-LNPプレプリント（全長UreBまたはUreB₁₉₉–₃₃₈サイトカイン/免疫グロブリンZ［IgZ］融合体をコードするもの）を、査読済みのin silico多エピトープmRNAおよび自己増幅RNA（saRNA）設計、LNPアジュバント添加組換えUreB/NapAタンパク質ワクチン、オールトランスレチノイン酸搭載腸管指向性ナノワクチン、および経口/脂質DNAワクチンのベンチマークから明確に区別する。また、B細胞欠損マウスにおいてMHCクラスII制限性CD4⁺ T細胞を介して細菌クリアランスが進行し得るという古典的なエビデンスと、機能的な接着・ウレアーゼ遮断抗体の補助的な役割を整合させ、さらに、免疫付与後の胃炎、発がん性CagA EPIYAモチーフの解毒、および標的集団の層別化（非感染児対感染成人）を含む、重要な安全性および免疫病理学的制約を検討する。結論として、mRNA-LNPはH. pyloriワクチンの有望な探索的手法であるものの、現在の実験的エビデンス基盤は依然として限定的かつ予備的なものである。臨床的実現可能性を確立するには、非ヒト霊長類およびヒトチャレンジモデルにおけるin vivo Th17誘導、抗原幅、粘膜デリバリー経路、および長期持続性の査読済み検証が必要となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2670.v1",
+    "title": "Temporal Ecology of the Grapevine Microbiome: A Framework for Assembly, Persistence and Disease in Perennial Crops",
+    "abstract": "Plant microbiome studies increasingly resolve community composition, but evidence derived largely from annual-plant models and cross-sectional surveys remains poorly suited to reconstruct ecological history in woody crops. We propose grapevine as an information-rich reference system for temporal microbiome ecology because clonal propagation, grafting, nursery-to-vineyard transfer, organs with contrasting lifespans, recurrent management and chronic disease align assembly processes across nested timescales. We synthesise current evidence into a four-clock framework spanning microbial arrival and establishment over days to weeks, seasonal organ renewal, multi-year field transitions and decades of host ageing and disease development. Grapevine compartments can be treated as a candidate connected metacommunity in which source pools, dispersal, abiotic and host filtering, and priority effects shape residence. Disturbance may elicit resistant, resilient or history-dependent responses. This framework separates pathogen detection from microbial activity, tissue damage and symptom expression, and views chronic disease as a trajectory in host-microbiome function. We identify the limits of current amplicon-based and cross-sectional evidence and propose designs combining individual-level longitudinal sampling, quantitative load, spatial and functional multi-omics, cultivation, synthetic communities and multisite validation. The framework generates testable hypotheses for separating temporal association from persistence, legacy, memory and disease causation across perennial crop systems.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2670.v1",
+    "date": "2026-10-27",
+    "authors": "Eichmeier A, Li Y, Gramaje D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352800",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1776,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2670.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6e666f894f2c77b1cffe4a36adcdc22ff829a87a809c7048e5e297b939f4ba2e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:49:52.924644+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fcc26061554b0966b05f7d9d57d2999f2aa001a0b9371a9a3a1c4a78355975f9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:49:52.924644+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブドウ微生物叢の時間生態学：多年生作物における構成、持続性、および病害の枠組み",
+    "abstract_ja": "植物マイクロバイオーム研究により、群集組成の解明が進んでいるが、主に年単位の植物モデルや横断的調査から得られた知見は、木本作物の生態史を再構築するには依然として不十分である。我々は、クローン増殖、接ぎ木、苗圃からブドウ園への移植、寿命の異なる器官、反復的な管理、および慢性病といったプロセスが、入れ子状の時間スケールにわたってアセンブリ過程と整合することから、ブドウを時間的マイクロバイオーム生態学における情報豊富な参照系として提案する。我々は、微生物の到達と定着（数日から数週間）、季節的な器官の更新、複数年にわたる圃場遷移、そして数十年にわたる宿主の老化と病害発生にわたる、現在の知見を4つのクロックからなるフレームワークへと統合する。ブドウのコンパートメントは、ソースプール、散布、非生物的・宿主フィルタリング、および優先効果が滞在形態を規定する、連結メタコミュニティの候補として扱うことができる。撹乱は、耐性、回復力、あるいは履歴依存的な応答を誘発し得る。このフレームワークは、病原体の検出を微生物活性から、組織損傷や症状発現から分離し、慢性病を宿主・マイクロバイオーム機能の軌跡として捉える。我々は、現在のアンプリコンベースおよび横断的な知見の限界を特定し、個体レベルの縦断的サンプリング、定量的負荷、空間的・機能的マルチオミクス、栽培、合成群集、およびマルチサイト検証を組み合わせた設計を提案する。このフレームワークは、多年生作物システムにおいて、時間的関連性を持続性、レガシー、記憶、および病害の原因から分離するための、検証可能な仮説を導き出す。"
   }
 ]
