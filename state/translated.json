@@ -231266,5 +231266,328 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "宿主特異性、季節性、および都市性が、共生昆虫の腸内微生物叢を形作る。",
     "abstract_ja": "ムクロジカメムシ（Jadera haematoloma）は、急速な適応進化の典型的なモデルであり、在来の草本サピンド類から導入種であるゴールデンレインツリー（Koelreuteria spp.）への宿主転換が十分に報告されている。この宿主転換により、本種は新たな人為的都市生息地への拡散が促進された。微生物叢の共生関係は、昆虫の環境適応においてしばしば極めて重要となる。本研究では、在来および導入宿主植物、季節的遷移、および都市化の勾配にわたるJ. haematolomaの腸内微生物叢の特性を明らかにする。我々の知見は、ムクロジカメムシの腸内マイクロバイオームが高度に特化しており、主に根粒菌科（Rhizobiaceae）、レンサ球菌科（Streptococcaceae）、腸内細菌科（Enterobacteriaceae）、および乳酸桿菌科（Lactobacillaceae）に属する少数のコア細菌アンプリコン配列変異体（ASVs）で構成されていることを示している。性や翅の形態といった形質はマイクロバイオーム構造と相関しないが、宿主植物が群集組成の主要な決定要因として機能する。祖先宿主植物を摂食する個体は、腸内環境に腸内細菌科を含むより多様で均一な微生物群集を維持するのに対し、導入宿主を摂食する個体の腸内環境は、未分類の単一の根粒菌科ASVによって圧倒的に支配されている。さらに、季節的遷移は補助的な微生物分類群の間で著しい入れ替わりを引き起こす。最後に、都市化が本種のマイクロバイオームに明確な生態学的影響を及ぼすことを実証する。局所的な緑地の程度は、宿主内の分類学的多様性を系統的に変化させることはないものの、平均群集組成のわずかな変化に関連しており、微生物群集の分散を著しく乱す。都市化の進展はベータ分散の有意な上昇と相関しており、これは人為的環境がより確率的なマイクロバイオームをもたらすことを示しており、環境ストレスの指標となる可能性がある。以上の結果を総合すると、急速な食性宿主の転換と都市化による生態学的圧力がどのように相互作用し、共人性昆虫のマイクロバイオームを形成するかが明らかになる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.762998",
+    "title": "Dynamic evolution of diaphorin biosynthetic genes against a background of genome conservation in  Profftella",
+    "abstract": "The Asian citrus psyllid  Diaphorina citri (Insecta: Hemiptera), a major agricultural pest, harbors the unusual obligate bacterial symbiont  “Candidatus Profftella armatura” (  Profftella ), which is intimately integrated with its host yet devotes a remarkably large proportion of its highly reduced genome to the production of diaphorin, a bioactive polyketide. To gain insight into the evolution of this distinctive symbiont, we determined the genomes of  Profftella and the co-resident nutritional symbiont  “Candidatus Carsonella ruddii” (  Carsonella ) from  Diaphorina lycii and compared them with previously characterized counterparts from  D. citri and  D . cf.  continua . The  Profftella and  Carsonella chromosomes from  D. lycii were 471 and 174 kb, respectively, and  Profftella harbored an 8-kb plasmid. Genome organization and gene content were highly conserved across the three lineages. The diaphorin biosynthetic system likewise retained its overall organization, consistent with an important role for diaphorin in the  Diaphorina symbiotic system. Remarkably, however, pronounced lineage-specific structural variation was observed in diaphorin synthases DipP and DipT, encoded by two of the 20 diaphorin biosynthetic genes. These synthases contained three extensively amplified tandem arrays of acyl carrier protein (ACP) domains that carry growing polyketide intermediates, with up to seven copies compared with one or two at corresponding positions in the related pederin synthases. All three regions of tandem ACP repeats showed copy-number variation among the  Profftella lineages. This variation indicates that ACP amplification remains evolutionarily dynamic despite the otherwise highly constrained symbiotic genome. Together, our findings show that even highly integrated obligate symbionts retain evolutionary flexibility in specialized functional systems.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.762998",
+    "date": "2026-10-31",
+    "authors": "Yasuda Y, Piel J, Malenovský I, Gjonov I, Hirose Y, Nakabachi A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354973",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 718,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.762998"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d275a113c6a8362b610456adee45f5b3bfa78f8841280775ea034b5522f16cdc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:19:37.451291+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a078e960f479099236bede42c47fc1581c100a36e8736c104f9964e6da0b15e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:19:37.451291+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プロフテエラにおけるゲノム保存を背景としたジアフォリン生合成遺伝子の動的進化",
+    "abstract_ja": "主要な農業害虫であるアジアカンキツキジラミ Diaphorina citri（昆虫綱：半翅目）は、宿主と密接に統合されながらも、高度に縮小したゲノムの極めて大きな割合を、生物活性ポリケチドであるジアフォリンの産生に充てるという、特異な絶対細菌共生体「Candidatus Profftella armatura」（Profftella）を宿している。この特徴的な共生体の進化に関する知見を得るため、我々は Diaphorina lycii 由来の Profftella および共棲栄養共生体「Candidatus Carsonella ruddii」（Carsonella）のゲノムを決定し、D. citri および D. cf. continua から以前に特性解析された対応種と比較した。D. lycii 由来の Profftella および Carsonella の染色体は、それぞれ 471 kb および 174 kb であり、Profftella は 8 kb のプラスミドを保持していた。ゲノム構成および遺伝子内容は、3つの系統間で高度に保存されていた。ジアフォリン生合成系も同様に全体的な構成を維持しており、これは Diaphorina 共生系におけるジアフォリンの重要な役割と整合している。しかし驚くべきことに、20 個のジアフォリン生合成遺伝子のうち2つによってコードされるジアフォリン合成酵素 DipP および DipT において、系統特異的な顕著な構造変異が観察された。これらの合成酵素には、成長中のポリケチド中間体を運ぶアシルキャリアタンパク質（ACP）ドメインの、高度に増幅された3つのタンデム配列が含まれており、近縁なペデリン合成酵素の対応する位置にある1〜2コピーに対し、最大7コピー存在していた。タンデムACPリピートの3つの領域すべてにおいて、Profftella の系統間でコピー数の変異が認められた。この変異は、共生ゲノムが本来極めて制約されているにもかかわらず、ACPの増幅が進化的に動的であり続けていることを示している。以上の知見を総合すると、高度に統合された絶対共生体であっても、特化した機能系においては進化的な柔軟性を保持していることがわかる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763179",
+    "title": "Distinct labeling of host and viral genomes highlights redistribution of nuclear proteins during HSV-1 infection",
+    "abstract": "Herpes simplex virus type 1 (HSV-1) coordinates viral and cellular proteins during infection. While proteins associated with HSV-1 genomes have been identified, changes in proteins associated with the host genome during infection remain poorly understood. We adapted accelerated native isolation of proteins on nascent DNA (aniPOND) to label and purify cellular and viral DNA then identify associated proteins by mass spectrometry. Using this approach, we confirm observations that cellular transcription, DNA replication, and repair proteins are enriched on viral genomes after the onset of viral DNA replication. We assessed how protein interactions with cellular DNA change during infection relative to protein abundance. Targets of the viral E3 ubiquitin ligase, ICP0, are depleted from the nucleus and cellular genome during infection. Transcription regulatory factors, Pol II, and the proteasome are depleted from the host genome, while association with DNA damage response and nuclear pore proteins increases. We also provide evidence for HSV-1 disruption of ribosome biogenesis. Results demonstrate reorganization of the nucleus during infection and validate this technique to identify changes to host genome-associated factors during infection. Author Summary  Viruses remodel host cells to create an environment conducive to infection. Herpesviruses are known to alter host protein levels and localization to manipulate cellular processes and pathways. In this study, we explored how HSV-1 infection remodels host nuclei through changes to nuclear protein levels and association of proteins with cellular DNA using a novel approach to study host genome interactions during infection. Results provide a comprehensive view of how HSV-1 dramatically remodels host chromatin and nuclear processes and establishes a method that can be used to explore how nuclei are remodeled during infection with other DNA and RNA viruses.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763179",
+    "date": "2026-10-31",
+    "authors": "Lloyd AE, Packard JE, Rutan SL, Dembowski JA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354931",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 719,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.763179"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7fee2488cfcf542b31da9c7222c89435ae48bc32bf9df51a4467a343f4a6ca15",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:19:37.451291+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "98927c80a217994e0ff4ea20c162065dddea801c0e4cfcc016fc3a8d033b9e51",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:19:37.451291+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主ゲノムとウイルスゲノムの明確な標識化は、HSV-1感染時における核内タンパク質の再分布を浮き彫りにする。",
+    "abstract_ja": "単純ヘルペスウイルス1型（HSV-1）は、感染時にウイルスタンパク質と細胞タンパク質の協調的な機能調節を行う。HSV-1ゲノムに関連するタンパク質は同定されているが、感染時に宿主ゲノムに関連するタンパク質にどのような変化が生じるかについては、依然として十分に解明されていない。我々は、新生DNA上のタンパク質の加速型天然物単離法（aniPOND）を応用し、細胞およびウイルスDNAの標識・精製を行った上で、質量分析法により関連タンパク質を同定した。この手法を用いて、ウイルスDNA複製の開始後、細胞の転写、DNA複製、および修復タンパク質がウイルスゲノムに濃縮されるという観察結果を確認した。また、感染に伴い、細胞DNAとのタンパク質相互作用がタンパク質量に対してどのように変化するかを評価した。ウイルスE3ユビキチンリガーゼの標的であるICP0は、感染時に核および細胞ゲノムから枯渇する。転写調節因子、Pol II、およびプロテアソームは宿主ゲノムから枯渇する一方、DNA損傷応答および核膜孔タンパク質との結合が増加する。さらに、HSV-1がリボソーム生合成を阻害するという証拠も提示した。これらの結果は、感染時の核の再編成を示しており、感染時における宿主ゲノム関連因子の変化を同定するための本手法の有効性を裏付けるものである。著者要旨 ウイルスは宿主細胞をリモデリングすることで、感染に好適な環境を作り出す。ヘルペスウイルスは、細胞のプロセスや経路を操作するために、宿主のタンパク質レベルや局在を変化させることが知られている。本研究では、感染時の宿主ゲノム相互作用を研究するための新規アプローチを用い、核内タンパク質レベルの変化および細胞DNAとのタンパク質結合を通じて、HSV-1感染が宿主核をどのようにリモデリングするかを検討した。その結果、HSV-1が宿主のクロマチンおよび核プロセスを劇的にリモデリングする様子を包括的に捉えることができ、他のDNAおよびRNAウイルスの感染時に核がどのようにリモデリングされるかを探索するために利用可能な手法を確立した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763042",
+    "title": "Host identity drives distinct prokaryotic and microeukaryotic microbiomes across four cold-water coral species in a near-pristine Mediterranean reef",
+    "abstract": "Cabliers is the widest Mediterranean cold-water coral (CWC) mound province exhibiting active growth. This area, a ridge-like CWC mound located in the Alboran Sea (SW Mediterranean) is characterized by thriving CWC reefs and accompanying mega-benthic communities (i.e.: gorgonians, black corals, sponges) found in near-pristine conditions and undergoing an almost null human pressure. We provide in this study the first characterization of the prokaryotic and microeukaryotic microbiomes of four key deep corals structuring the Cabliers province:  Madrepora oculata ,  Desmophyllum pertusum ,  Leiopathes glaberrima, and  Acanthogorgia hirsuta . We used DNA metabarcoding of the 16S and 18S rRNA gene V4 regions via Illumina MiSeq technology to elucidate symbiotic relationships that enable the holobiont to thrive. We found that host identity was the primary driver of microbial community structure, identifying specific signature microbiomes within coral species. The octocoral  A. hirsuta showed reliance on microbes for organic matter processing such as the BD1-7 clade, while scleractinians  M. oculata and  D. pertusum displayed distinct symbionts, including  Endozoicomonas (involved in the sulfur cycle) and the SUP05 clade, respectively. We suggest that coral microbiomes are vital for the continuous growth of Cabliers, with physiological needs and host identity shaping unique microbial communities within these deep coral ecosystems.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763042",
+    "date": "2026-10-31",
+    "authors": "Ardanaz-Ullate A, Agazzi M, Lo Iacono C, del Campo J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354955",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18s rrna",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1083,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.763042"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9756e309e6d0dedaf326dc63ab8ebc49417f528cada995ba5bd525271e5f7df2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:19:37.451291+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b47dbd114a6986c047f007b5dee8aa72db0f01c43b516ed43123fafebde0aaad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:19:37.451291+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ほぼ手つかずの地中海礁における4種の冷水サンゴの宿主アイデンティティが、それぞれ異なる原核生物および微小真核生物の微生物叢を駆動している。",
+    "abstract_ja": "カブリエーズは、活発な成長を示す地中海産冷水サンゴ（CWC）マウンド域の中で最も幅の広い地域である。アルボラン海（地中海南西部）に位置する尾根状のCWCマウンドであるこの海域は、繁栄するCWC礁と、それに伴うメガ底生生物群集（すなわち、ヤギ類、黒サンゴ、海綿動物）が、ほぼ手つかずの状態で、かつ人間による影響が極めて少ない環境下で存在することを特徴とする。本研究では、カブリエーズ域を構成する4種の主要な深海サンゴ、すなわちMadrepora oculata、Desmophyllum pertusum、Leiopathes glaberrima、およびAcanthogorgia hirsutaの原核生物および微小真核生物マイクロバイオームの初の特性解析を行う。Illumina MiSeq技術を用いて16Sおよび18S rRNA遺伝子V4領域のDNAメタバーコーディングを行い、ホロビオントの繁栄を可能にする共生関係を解明した。その結果、宿主の種が微生物群集構造の主要な駆動要因であることが分かり、サンゴ種ごとに固有のシグネチャー・マイクロバイオームが特定された。八放サンゴのA. hirsutaは、BD1-7クレードなどの有機物処理において微生物に依存している一方、硬骨サンゴのM. oculataおよびD. pertusumは、それぞれEndozoicomonas（硫黄サイクルに関与）やSUP05クレードを含む異なる共生生物を示した。我々は、サンゴのマイクロバイオームがカブリエーズの継続的な成長に不可欠であり、生理的ニーズと宿主の種が、これらの深海サンゴ生態系における固有の微生物群集を形成していることを示唆する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762465",
+    "title": "Dairy cattle movement networks govern the spread and persistence of H5N1 B3.13 in the United States",
+    "abstract": "Avian influenza virus H5N1 is predominantly found in wild and domestic birds. H5N1 genotype B3.13 was first detected in United States dairy cattle in March 2024 and spread through much of the country during 2024 and 2025, resulting in the largest known H5N1 outbreak in domestic mammals. By analysing viral genomic data jointly with historical cattle movement patterns, we find that live cattle movement is the predominant contributor to H5N1 spatial spread, rather than wild or domestic birds. Using phylogeographic methods we estimate that >40% of interstate viral transmissions occurred before B3.13’s first detection and >70% occurred before interstate dairy cattle movement restrictions were implemented in April 2024. After this implementation, interstate transmission slowed but within-state spread persisted, driven by local cattle network density and movement volume. Our epidemic simulations demonstrate that the connectivity of counties within and around the Texas Panhandle—where the earliest cases were documented—predisposed the region to become an outbreak epicentre. Counterfactual simulations indicate that interstate restrictions needed to have begun 2–3 months earlier in order to limit the epizootic substantively, given the extent of cryptic spread before detection. Network-informed interventions outperformed geographically-defined containment, but response speed (rather than intervention strength) was the limiting factor in our epidemic models, underscoring the need for surveillance systems capable of detecting pathogen emergence before widespread dissemination.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762465",
+    "date": "2026-10-31",
+    "authors": "Pekar JE, Shao Y, Crespo-Bellido A, Sambaturu P, Baele G, Wertheim JO, Gangavarapu P, Gangavarapu K, Dudas G, Peacock TP, Maksiaev A, Rajamand T, Sanderson MW, Bahl J, Plunkett E, Dokter AM, Ochoa J, Andersen KG, Pybus O, Worobey M, Nelson MI, Kraemer MUG, Suchard MA, Rambaut A, Lemey P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354974",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1623,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762465"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e38c126d3f690e4102f2dba33ea99ef3443177a7ad810ef3eab4cd65383bd692",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:19:37.451291+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f81f88c322b06b3b007809eb3f45a41def83e822c8f75d0600d4479d631ca3af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:19:37.451291+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "乳牛の移動ネットワークが米国におけるH5N1 B3.13の拡散と持続を支配している",
+    "abstract_ja": "鳥インフルエンザウイルスH5N1は、主に野生鳥類および家禽に認められる。H5N1遺伝子型B3.13は、2024年3月に米国の乳牛で初めて検出され、2024年から2025年にかけて国内の広範囲に拡大し、家禽類における既知の最大規模のH5N1アウトブレイクとなった。ウイルスゲノムデータと過去の牛の移動パターンを併せて解析した結果、H5N1の空間的拡散には、野生鳥類や家禽ではなく、生きた牛の移動が主たる要因となっていることが明らかになった。系統地理学的手法を用いた推定によれば、州間のウイルス伝播の40%以上がB3.13の初回検出前に発生しており、70%以上が2024年4月の州間乳牛移動制限の施行前に発生していた。この施行後、州間伝播は鈍化したものの、地域内の牛ネットワーク密度と移動量に起因して、州内での拡散は持続した。本研究の流行シミュレーションは、最初期の症例が記録されたテキサス州パンハンドル地域およびその周辺の郡間の連結性が、同地域をアウトブレイクの震源地となりやすくしたことを示している。反実仮想シミュレーションでは、検出前の潜伏拡散の規模を考慮すると、流行を実質的に抑制するためには、州間制限を2〜3か月早く開始する必要があったことが示された。ネットワーク情報に基づく介入策は、地理的に定義された封じ込め策を上回る効果を示したが、本流行モデルにおいて制限要因となったのは（介入の強度ではなく）対応速度であり、広範な拡散に先立って病原体の出現を検知できる監視システムの必要性が浮き彫りとなった。"
   }
 ]
