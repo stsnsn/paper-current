@@ -251789,5 +251789,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "肝細胞癌におけるcGAS-STING経路が関与する放射線耐性機構と放射線免疫療法を増強する新規解決策",
     "abstract_ja": "肝細胞癌（HCC）はがん関連死の主要な原因であり、メタボリックシンドロームの有病率の上昇やアルコール摂取の増加に伴い、症例数が増加している。HCCは予後不良であり、肝臓の免疫寛容な性質と、それに伴う免疫抑制的な腫瘍微小環境（TME）により治療が困難である。放射線療法は、cGAS-STING経路およびその下流の抗腫瘍免疫応答を活性化するdsDNA切断を誘導することで、HCC腫瘍のTMEをリモデリングできる有効な治療法として台頭してきた。しかし、放射線誘発性のcGAS-STING活性化の抑制や、逆説的に、持続的またはコンテキスト依存的なcGAS-STINGシグナル伝達から生じ得る免疫抑制効果など、数多くの放射線耐性機序が放射線療法の有効性を制限し得る。本総説では、まず肝マトリックスの剛性、腸内細菌叢の乱れ、腫瘍変異といった基礎疾患がいかにしてSTING活性化を阻害し得るか、また、新規STINGアゴニストやDNA損傷応答（DDR）阻害剤がいかにしてSTING活性化を増強することで放射線感受性を促進し得るかについて検討する。さらに、免疫療法がSTING活性化による免疫抑制効果を軽減することで放射線療法といかに相乗的に作用し得るか、また、人工知能をどのように統合してHCC患者の転帰を改善し得るかについて論じる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761373",
+    "title": "Exploring the antimicrobial potential of streptococcal fratricins",
+    "abstract": "Many streptococci are competent for natural transformation, during which they express a murein hydrolase that lyses and kills closely related species, thereby making homologous DNA available for uptake by competent cells. This process, termed fratricide, is mediated by enzymes known as fratricins. The most extensively studied fratricin, CbpD from  Streptococcus pneumoniae , is highly specific, efficient, and rapid in its killing, highlighting the potential of fratricins as targeted antimicrobial agents. Here, we screened nine putative fratricins to evaluate their antimicrobial activity. Of these, Zoocin A from  Streptococcus agalactiae , ScrM from  Streptococcus dysgalactiae , and CbpD from  Streptococcus vestibularis were successfully purified. Zoocin A exhibited the broadest target range, whereas ScrM and CbpD-ves showed somewhat narrower activity. All three enzymes predominantly targeted streptococci. Notably, Zoocin A was active against  Streptococcus mutans and  Streptococcus sobrinus , species associated with dental caries. The enzymes were also active against  S. agalactiae ,  S. dysgalactiae , and  S. pyogenes , which are associated with severe infections in humans and animals. We characterised the activity and stability of Zoocin A and ScrM and found that both retained activity under physiologically relevant conditions of pH, temperature, and ionic strength. ScrM activity was independent of divalent cations, whereas Zoocin A activity required cations and was observed with both Ca  2+ and Mn  2+ . For both enzymes, peptidoglycan cleavage was localised to the septal region of dividing cells. Zoocin A shows promise as an antimicrobial agent against  S. mutans , but its efficacy against biofilms would likely benefit from further optimisation or combination with biofilm-disrupting agents.  Importance  Streptococci are major pathogens of humans and animals, causing infections ranging from common mucosal and dental diseases to severe invasive and systemic infections. The increasing prevalence of antimicrobial resistance among clinically important streptococci is a major challenge to healthcare systems who are running out of treatment options. It is therefore necessary to develop new approaches to prevent and treat streptococcal infections. Fratricins are streptococcal peptidoglycan hydrolases that mediate killing of closely related bacteria during natural competence, suggesting that they could be harnessed as targeted antimicrobials against pathogenic streptococci. However, the diversity and antimicrobial potential of fratricins remain poorly explored. By identifying and characterising putative fratricins, this work contributes to expanding the repertoire of antimicrobials and provides a foundation for developing fratricin-based approaches to combat streptococcal infections.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761373",
+    "date": "2026-10-27",
+    "authors": "Moe R, Kjos M, Straume D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351728",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3518,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.23.761373"
+    ],
+    "translation": {
+      "title": {
+        "hash": "451e6bfc85e0491f384e1afcf6da002f4b54e30cb9c0d598af786851337a4e3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:04:30.875202+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ee18fe0a738ae70279295e3195559092bb3ffe186084e2435de3d957de94b415",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:04:30.875202+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "連鎖球菌フラトリシンの抗菌活性の探索",
+    "abstract_ja": "多くの連鎖球菌は自然形質転換能を有しており、その過程で、近縁種を溶解・死滅させるムレインヒドロラーゼを発現することで、形質転換能を持つ細胞が相同DNAを取り込めるようにする。フラトリサイドと呼ばれるこの過程は、フラトリシンとして知られる酵素によって媒介される。最も広範に研究されているフラトリシンである肺炎球菌由来のCbpDは、極めて特異性が高く、効率的かつ迅速な殺菌作用を示し、標的型抗菌薬としてのフラトリシンの可能性を浮き彫りにしている。本研究では、9種類の推定フラトリシンをスクリーニングし、その抗菌活性を評価した。このうち、アガラクチア連鎖球菌由来のZoocin A、ディスガラクティア連鎖球菌由来のScrM、およびヴェスティブルリス連鎖球菌由来のCbpDの精製に成功した。Zoocin Aは最も広範な標的範囲を示した一方、ScrMおよびCbpD-vesはやや限定的な活性を示した。これら3つの酵素はいずれも主に連鎖球菌を標的とした。特筆すべきは、Zoocin Aがう蝕に関連する種であるミュータンス連鎖球菌およびソブリヌス連鎖球菌に対して活性を示したことである。また、これらの酵素は、ヒトや動物における重篤な感染症に関連するS. agalactiae、S. dysgalactiae、およびS. pyogenesに対しても活性を示した。我々はZoocin AおよびScrMの活性と安定性を特性評価し、両者がpH、温度、およびイオン強度という生理学的に妥当な条件下で活性を保持することを見出した。ScrMの活性は二価陽イオンに依存しなかったが、Zoocin Aの活性は陽イオンを必要とし、Ca 2+およびMn 2+の両方で観察された。両酵素において、ペプチドグリカンの切断は分裂細胞の隔壁領域に局在していた。Zoocin Aはミュータンス連鎖球菌に対する抗菌薬として有望であるが、バイオフィルムに対する有効性は、さらなる最適化やバイオフィルム破壊剤との併用によって向上する可能性が高い。重要性：連鎖球菌はヒトおよび動物の主要な病原体であり、一般的な粘膜疾患や歯科疾患から、重篤な侵襲性感染症や全身性感染症に至るまで、幅広い感染症を引き起こす。臨床的に重要な連鎖球菌における薬剤耐性の蔓延は、治療選択肢が尽きつつある医療体制にとって大きな課題となっている。したがって、連鎖球菌感染症を予防・治療するための新たなアプローチを開発することが不可欠である。フラトリシンは連鎖球菌のペプチドグリカンヒドロラーゼであり、自然形質転換時に近縁細菌の殺菌を媒介することから、病原性連鎖球菌に対する標的型抗菌薬として活用できる可能性が示唆される。しかし、フラトリシンの多様性と抗菌能については依然として十分に解明されていない。推定フラトリシンを同定し特性評価することで、本研究は抗菌薬のレパートリーを拡充することに寄与し、連鎖球菌感染症に対抗するためのフラトリシンベースのアプローチ開発の基盤を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761895",
+    "title": "BLOOM: Biologically Informed Flow Matching for Transcriptomic Virtual Embryo Modeling",
+    "abstract": "Constructing a virtual embryo requires a generative representation of how heterogeneous cell populations change across developmental time. Here we introduce BLOOM, a biologically informed framework for conditional generation of developmental cell populations. BLOOM integrates temporal population context with developmental and regulatory priors through conditional flow matching to generate cell-expression distributions at queried stages in either temporal direction. Evaluation spans three mouse single-cell atlases covering prenatal development, visual-cortex maturation and multi-organ endothelial specialization. In comparisons with 22 time-series forecasting baselines, BLOOM ranks first for gene- and cell-expression correlations across all three datasets. Measured-stage evaluations support recovery of developmental expression patterns, population organization and marker-specific temporal relationships. Biological analyses connect these predictions to cell-state identities, gene programmes and regulatory associations. At unmeasured stages, interpolation and autoregressive history and future rollouts extend simulated expression dynamics between and beyond measured timepoints. Analyses of marker genes and temporal descriptors identify candidate differences in the timing of muscle-associated, neural and vascular-specialization programmes. Input-based gene perturbations further probe predicted responses of edited genes and associated molecular programmes across time. Together, BLOOM supports transcriptomic virtual embryo modeling by bridging temporal sampling gaps, exploring extended developmental trajectories and prioritizing gene-dependent hypotheses for experimental investigation.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761895",
+    "date": "2026-10-27",
+    "authors": "Liang Z, Li S, Li B, Huang Y, Yu L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351625",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3521,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.26.761895"
+    ],
+    "translation": {
+      "title": {
+        "hash": "876fa07aff09a4155732681e615f6498fa7241578831f7ae309539d5aebe95d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:04:30.875202+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "01071708e7ba114a46901e2c41ade2e4695db528d181daa9dcf405b211a8841c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:04:30.875202+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BLOOM: トランスクリプトーム仮想胚モデリングのための生物学的知見に基づくフローマッチング",
+    "abstract_ja": "仮想胚の構築には、不均一な細胞集団が発生過程においてどのように変化するかを示す生成的表現が必要である。本研究では、発生細胞集団の条件付き生成のための生物学的知見に基づくフレームワークであるBLOOMを提案する。BLOOMは、条件付きフローマッチングを通じて、時間的集団コンテキストと発生および調節の事前知識を統合し、クエリされたステージにおける細胞発現分布を、いずれの時間方向においても生成する。評価は、胎生期の発生、視覚野の成熟、および多臓器内皮分化を網羅する3つのマウス単一細胞アトラスにわたって行われる。22種類の時系列予測ベースラインとの比較において、BLOOMは3つのデータセットすべてにおいて、遺伝子および細胞発現の相関で第1位となった。測定ステージにおける評価では、発生過程の発現パターン、集団構成、およびマーカー固有の時間的関係の再現が確認された。生物学的解析により、これらの予測は細胞状態の識別、遺伝子プログラム、および調節上の関連性へと結び付けられた。未測定ステージにおいては、補間および自己回帰的な履歴・未来ロールアウトにより、測定された時点間およびそれ以降におけるシミュレーション上の発現ダイナミクスを拡張した。マーカー遺伝子および時間的記述子の解析により、筋肉関連、神経、および血管分化プログラムのタイミングにおける候補的な差異が特定された。入力に基づく遺伝子摂動により、編集された遺伝子および関連する分子プログラムの予測応答を経時的にさらに検証した。総じて、BLOOMは、時間的サンプリングのギャップを埋め、拡張された発生軌跡を探索し、実験的検証に向けた遺伝子依存的な仮説を優先させることで、トランスクリプトームによる仮想胚モデリングを支援する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761891",
+    "title": "Long-term experimental evolution of seasonal influenza A/H3N2 virus reveals diverse evolutionary potential",
+    "abstract": "The repeatability of evolutionary outcomes is a fundamental question with implications for predicting the evolution pathogens like influenza viruses. Here, we tested whether seasonal A/H3N2 influenza virus evolution follows reproducible paths in a simplified setting where the natural cellular environment is maintained but adaptive immune selection is removed. We serially passaged replicate populations of an A/H3N2 virus for 1,200 generations across 12 independent differentiated human airway epithelium culture lines (three replicates of four donors) and performed deep sequencing to reconstruct the evolutionary dynamics. Rates of variant accumulation differed significantly among lines but not among donors, and parallel evolution was minimal. Populations generated polymorphisms not observed in the global human population, reversions to historical sequences, and changes at positions held near-invariant globally since 1968. These findings suggest A/H3N2 evolutionary trajectories are shaped less by intrinsic functional constraint than by selective context and help explain why predicting influenza virus evolution remains difficult.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761891",
+    "date": "2026-10-27",
+    "authors": "de Rooij AJH, Hulme KD, van Leeuwen S, de Haan K, van Groeningen LE, van Hoesel M, Félix Garza ZC, Eggink D, de Jong SPJ, Han AX, Russell CA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351610",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3522,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.26.761891"
+    ],
+    "translation": {
+      "title": {
+        "hash": "da89c5cade297d2f917a66b79e5eb44dc0c21360f0ae846be5e47ef9181a3bf8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:04:30.875202+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "093feaadf8654e4643c8bcf77695509cb4f0d56d5458cebf1812bd998e1391f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:04:30.875202+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "季節性インフルエンザA/H3N2ウイルスの長期実験進化から明らかになった多様な進化ポテンシャル",
+    "abstract_ja": "進化結果の再現性は、インフルエンザウイルスなどの病原体の進化経路を予測する上で重要な意味を持つ根本的な問いである。本研究では、自然な細胞環境は維持しつつ適応免疫選択を除去した簡略化された設定において、季節性A/H3N2インフルエンザウイルスの進化が再現可能な経路をたどるかを検証した。A/H3N2ウイルスの複製集団を、12系統の独立した分化ヒト気道上皮培養株（4人のドナーによる3つの複製）を用いて1,200世代にわたり連続的に継代し、ディープシーケンシングを行って進化動態を再構築した。変異の蓄積速度は株間では有意に異なっていたが、ドナー間では差が認められず、並行進化は最小限であった。これらの集団では、世界的なヒト集団では観察されない多型や、過去の配列への復帰、および1968年以降世界的にほぼ不変であった部位における変化が生じた。これらの知見は、A/H3N2の進化軌跡が内在的な機能的制約よりも選択的文脈によって形作られていることを示唆しており、インフルエンザウイルスの進化予測が依然として困難である理由を説明する一助となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.762023",
+    "title": "Divide and conquer: a viral bifunctional RNA utilizes both RNA and protein to modulate pro-tumourigenic pathways",
+    "abstract": "ABSTRACT  Kaposi’s sarcoma-associated herpesvirus (KSHV) is an oncogenic herpesvirus that causes the endothelial cell neoplasm Kaposi’s sarcoma (KS) and other B-cell malignancies. The viral transcript  kaposin is largely composed of GC-rich direct repeats (DRs) and is expressed during all phases of KSHV replication.  Kaposin is polycistronic, encoding for at least 3 kaposin (Kap) proteins; of these, KapB is the most abundant and well-studied. Recent work from our lab discovered that  kaposin is found in nuclear speckles (NSs) and that DRs are required for NS retention. During latency,  kaposin is predominantly in NSs and is not exported or translated into KapB. During viral reactivation, abundant  kaposin correlates with  kaposin escape from NSs and KapB protein production. Thus, although  kaposin is a latent transcript, KapB protein production occurs only during lytic reactivation. The spatiotemporal regulation of  kaposin translation by NS retention during KSHV latency likewise suggests that these two biomolecules may have distinct functions. Because historically  kaposin was viewed as a protein-coding mRNA, overexpression studies attributed any function to KapB even though both  kaposin and KapB were produced in these systems. Armed with the knowledge that  kaposin is a bifunctional RNA which derives function from both the transcript and the protein(s) it encodes, it remains unclear whether prior phenotypes should be attributed to  kaposin or KapB. In this study, we developed a reductionist overexpression system to uncouple the effects of these biomolecules. To mimic  kaposin during viral latency, we used a construct capable of forming  kaposin NSs that does not translate reported Kap proteins (ΔStarts). To mimic late lytic reactivation, we used a recoded construct, AltB, that does not form  kaposin NSs, is readily exported from the nucleus, and translates abundant KapB. We found that KapB protein induced actin stress fibre formation, cell enlargement, increased total levels of Yes-associated protein (YAP) and increased YAP-target gene transcription including pro-growth and pro-inflammatory transcripts. Conversely,  kaposin RNA induced cell autonomous p-body disassembly with an overall reduction in pro-growth and pro-inflammatory transcripts, suggesting  kaposin might sustain cell survival while dampening immune signalling. Taken together, we demonstrate that  kaposin RNA and KapB protein have distinct and sometimes opposing effects on cellular growth and inflammatory signalling pathways, highlighting the ability of a viral bifunctional RNA to use both its RNA and protein products to mediate viral tumourigenesis.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.762023",
+    "date": "2026-10-27",
+    "authors": "Bui-Marinos MP, Corcoran JA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351584",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3524,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.26.762023"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e4e275b90e0986df8c5c6001b2c34d375864591ba93f94375f428af109ca8eb0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:04:30.875202+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "290b80ac4abd083e52c641d8b4575727e814f7b2de95e4fcd4d89c7176093c3f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:04:30.875202+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "分断統治：ウイルス性二機能性RNAがRNAとタンパク質の双方を利用して腫瘍形成促進経路を調節する",
+    "abstract_ja": "要旨　カポジ肉腫関連ヘルペスウイルス（KSHV）は、内皮細胞腫瘍であるカポジ肉腫（KS）およびその他のB細胞悪性腫瘍を引き起こす発がん性ヘルペスウイルスである。ウイルス転写産物であるカポシンは、主にGCリッチな直接反復配列（DR）で構成されており、KSHV複製の全段階において発現する。カポシンはポリシストロン構造を持ち、少なくとも3種類のカポシン（Kap）タンパク質をコードしている。これらのうち、KapBが最も豊富に存在し、十分に研究されている。当研究室の最近の研究により、カポシンが核小斑（NS）に存在し、NSへの保持にはDRが必要であることが明らかになった。潜伏期において、カポシンは主にNSに存在し、核外輸送されたりKapBへと翻訳されたりすることはない。ウイルス再活性化時には、豊富なカポシンの存在が、NSからのカポシンの脱出およびKapBタンパク質の産生と相関している。したがって、カポシンは潜伏性転写産物であるにもかかわらず、KapBタンパク質の産生は溶解性再活性化時にのみ起こる。KSHV潜伏期におけるNS保持によるカポシン翻訳の時空間的調節も同様に、これら2つの生体分子が異なる機能を持つ可能性を示唆している。従来、カポシンはタンパク質コードmRNAと見なされていたため、過剰発現研究では、カポシンとKapBの両方がこれらの系で産生されていたにもかかわらず、いずれかの機能がKapBに帰属されていた。カポシンが、自らがコードする転写産物とタンパク質の両方から機能を得る二機能性RNAであるという知見を踏まえると、従来の表現型をカポシンとKapBのどちらに帰属させるべきかは依然として不明である。本研究では、これら生体分子の影響を分離するための還元主義的な過剰発現系を開発した。ウイルス潜伏期のカポシンを模倣するため、報告されているKapタンパク質を翻訳しないカポシンNSを形成可能なコンストラクト（ΔStarts）を用いた。後期の溶解性再活性化を模倣するため、カポシンNSを形成せず、核から容易に核外輸送され、かつ豊富なKapBを翻訳するリコードされたコンストラクトAltBを用いた。その結果、KapBタンパク質がアクチンストレス線維の形成、細胞の肥大化、Yes関連タンパク質（YAP）の総量増加、および増殖促進性・炎症促進性転写産物を含むYAP標的遺伝子の転写増加を誘導することを見出した。対照的に、カポシンRNAは細胞自律的なp-bodyの分解を誘導し、増殖促進性および炎症促進性転写産物を全体的に減少させた。これは、カポシンが免疫シグナル伝達を抑制しつつ、細胞生存を維持している可能性を示唆している。以上の結果を総合すると、カポシンRNAとKapBタンパク質は、細胞増殖および炎症シグナル伝達経路に対して異なる、時には相反する影響を及ぼすことが実証され、ウイルス性二機能性RNAが自身のRNA産物とタンパク質産物の両方を用いてウイルス腫瘍形成を媒介する能力が浮き彫りとなった。"
   }
 ]
