@@ -949,6 +949,13 @@
     ]
   },
   {
+    "name": "Biomedical physics & engineering express",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
     "scope": [
       "genomics",
@@ -1541,6 +1548,13 @@
   },
   {
     "name": "Cell death & disease",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Cell discovery",
     "scope": [
       "genomics",
       "microbiology"
@@ -3236,6 +3250,13 @@
     ]
   },
   {
+    "name": "Genome",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Genome Biology",
     "scope": [
       "genomics",
@@ -3272,6 +3293,13 @@
   },
   {
     "name": "Genomics & informatics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Genomics, proteomics & bioinformatics",
     "scope": [
       "genomics",
       "microbiology"
@@ -3401,6 +3429,13 @@
   },
   {
     "name": "IDCases",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "IEEE transactions on computational biology and bioinformatics",
     "scope": [
       "genomics",
       "microbiology"
@@ -3966,6 +4001,13 @@
     ]
   },
   {
+    "name": "JMIR perioperative medicine",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "JMIR public health and surveillance",
     "scope": [
       "genomics",
@@ -4197,6 +4239,13 @@
     ]
   },
   {
+    "name": "Journal of biomolecular NMR",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of biomolecular structure & dynamics",
     "scope": [
       "genomics",
@@ -4212,6 +4261,13 @@
   },
   {
     "name": "Journal of biotechnology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "The Journal of bone and joint surgery. American volume",
     "scope": [
       "genomics",
       "microbiology"
@@ -4913,6 +4969,13 @@
   },
   {
     "name": "Journal of neuropathology and experimental neurology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of neuroradiology = Journal de neuroradiologie",
     "scope": [
       "genomics",
       "microbiology"
@@ -6176,6 +6239,13 @@
     ]
   },
   {
+    "name": "Nature computational science",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Nature Ecology & Evolution",
     "scope": [
       "genomics",
@@ -6425,7 +6495,21 @@
     ]
   },
   {
+    "name": "Nucleic acid therapeutics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Nutricion hospitalaria",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Nutrients",
     "scope": [
       "genomics",
       "microbiology"
@@ -7096,6 +7180,13 @@
     ]
   },
   {
+    "name": "Proteomics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Psychiatry research",
     "scope": [
       "genomics",
@@ -7111,6 +7202,13 @@
   },
   {
     "name": "Public health challenges",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Public health genomics",
     "scope": [
       "genomics",
       "microbiology"
@@ -7199,6 +7297,13 @@
   },
   {
     "name": "Reproductive toxicology (Elmsford, N.Y.)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Research and reports in urology",
     "scope": [
       "genomics",
       "microbiology"
@@ -7384,6 +7489,13 @@
     ]
   },
   {
+    "name": "Sensors (Basel, Switzerland)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Se pu = Chinese journal of chromatography",
     "scope": [
       "ecology",
@@ -7416,6 +7528,13 @@
     "name": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)",
     "scope": [
       "ecology",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "SLAS discovery : advancing life sciences R & D",
+    "scope": [
+      "genomics",
       "microbiology"
     ]
   },
@@ -7491,6 +7610,13 @@
     "name": "Systematic and applied microbiology",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Systematic biology",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -7910,6 +8036,13 @@
     "name": "Water research",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Wiener medizinische Wochenschrift (1946)",
+    "scope": [
       "genomics",
       "microbiology"
     ]
