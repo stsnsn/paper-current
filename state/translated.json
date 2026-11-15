@@ -244276,5 +244276,320 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "配列構造化された適応度ランドスケープはインフルエンザの進化を予測する",
     "abstract_ja": "季節性インフルエンザウイルスは、宿主の免疫を回避するために絶えず進化している。新たに流行する株から保護するためには、ワクチンを定期的に更新する必要があり、これがウイルスの進化を予測する取り組みの原動力となっている。近年の実験的および計算科学的手法によってこの問題は進展したが、ゲノムサーベイランスサンプルが考えられる配列空間のごく一部しかカバーしていないため、ウイルス進化を駆動する適応度ランドスケープを解明することは依然として困難である。本研究では、遺伝的に関連のある変異体間で情報を共有し、時系列配列データからウイルスの適応度に対する効果的な変異レベルの寄与を推定する生成的フレームワークを開発した。A/H3N2およびA/H1N1ウイルスのヘマグルチニンおよびノイラミニダーゼにこの手法を適用したところ、推定された適応度ランドスケープから抗原性の既知の決定因子が再現され、共通の抗体媒介選択と整合する、サブタイプ間の収束的な空間的組織化が明らかになった。これらのランドスケープを用いたフォワードシミュレーションでは、流行変異の固定または消失、およびウイルス集団の将来的な構成の両方が予測され、中立進化や多項ロジスティック増殖に基づくモデルを上回る性能を示した。総じて、本研究の結果は、病原体の適応度ランドスケープの解釈可能な表現が、生物学的に重要な特徴を明らかにし、将来的な進化予測を改善し得ることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762366",
+    "title": "Transcriptomic and metabolomic profiling reveals early responses of tomato plants elicited by compost-derived bacteria",
+    "abstract": "Compost produced from biowaste has a defined microbiota, and some bacterial species may represent promising resources for low-input crop systems. However, their effects on plant physiology are poorly investigated and remain difficult to predict from standard bacterial traits alone. We isolated several bacterial strains (  Bacillus sonorensis, Glutamicibacter arilaitensis, and  Kocuria rhizophila ) from biowaste compost and examined their early effects on tomato seedlings under controlled in vitro conditions. Responses were assessed by root phenotyping, root and shoot transcriptomics, and mass spectrometry-based profiling of primary metabolites in plant tissues, root exudates and bacterial culture filtrates.  B. sonorensis induces the broadest response, reducing primary root length and lateral root number and density and triggering broad transcriptional changes related to metabolism, redox balance, hormone signalling and defence-associated pathways.  G. arilaitensis elicits a more selective, tissue-dependent response, whereas  K. rhizophila has limited phenotypic and transcriptional effects at this stage. All isolates reshape primary metabolism, with recurrent effects on amino acid-, carbohydrate- and lipid-related pathways, together with isolate-specific changes in root exudate composition. This study characterises the early molecular and metabolic responses of tomato to compost-derived bacteria and identifies common and strain-specific physiological signatures that provide a foundation for future studies under biotic and abiotic stress.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762366",
+    "date": "2026-10-28",
+    "authors": "Ghirardello G, Araniti F, Cipriani R, Zanardi W, Bonato T, Baldan B, Nigris S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352243",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacteria",
+        "bacterial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1170,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762366"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fac045b8488db0355a2162de5155c1dc19d2cb24bba1f387e517ae0be9fd2580",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:16:09.863178+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b3e403aa76de1369f0332c8352577b8b4b1b4a152d4e8ca27a5bc82319bdc03d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:16:09.863178+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トランスクリプトームおよびメタボロームプロファイリングにより、堆肥由来細菌が誘発するトマト植物の初期応答が明らかとなった",
+    "abstract_ja": "バイオ廃棄物から製造された堆肥には固有の微生物叢が存在し、一部の細菌種は低投入型作物システムにおける有望な資源となり得る。しかし、植物生理学に及ぼす影響については十分に解明されておらず、標準的な細菌形質のみから予測することは依然として困難である。本研究では、バイオ廃棄物堆肥から複数の細菌株（Bacillus sonorensis、Glutamicibacter arilaitensis、およびKocuria rhizophila）を単離し、制御されたin vitro条件下でトマト苗に対する初期影響を検討した。反応の評価は、根のフェノタイピング、根および地上部のトランスクリプトミクス、ならびに植物組織、根分泌液、および細菌培養濾液における一次代謝産物の質量分析に基づくプロファイリングによって行った。B. sonorensisは最も広範な反応を誘導し、主根の長さならびに側根の数と密度を減少させるとともに、代謝、酸化還元バランス、ホルモンシグナル伝達、および防御関連経路に関連する広範な転写変化を引き起こした。G. arilaitensisはより選択的で組織依存的な反応を惹起した一方、K. rhizophilaは現段階では表現型および転写上の影響が限定的であった。すべての単離株は一次代謝を変容させ、アミノ酸、炭水化物、および脂質関連経路に反復的な影響を及ぼすとともに、単離株固有の根分泌液組成の変化をもたらした。本研究は、堆肥由来細菌に対するトマトの初期の分子・代謝応答を特性評価し、生物的および非生物的ストレス下での今後の研究の基盤となる、共通および株特異的な生理学的シグネチャーを同定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11324732/v1",
+    "title": "Infection-Induced SRSF2 Downregulation Drives VEGF-A Isoform Switching to Impair Angiogenesis in Diabetic Foot Ulcers",
+    "abstract": "Abstract    Background:  Impaired vascular repair and infection contribute to delayed healing in diabetic foot ulcers (DFUs). Whether infection-associated inflammatory stress affects endothelial function through altered RNA processing remains incompletely understood. We investigated SRSF2 and VEGFA isoform regulation in this setting. Human DFU tissues and microbiota were assessed across Wagner grades, and bacterial inoculation was examined in a diabetic mouse wound model. Human umbilical vein endothelial cells (HUVECs) were exposed to high glucose (HG) with or without lipopolysaccharide (LPS). SRSF2 was manipulated to assess scratch closure, EdU incorporation, and tube formation. Knockdown RNA sequencing was performed separately in HMEC-1 cells. Isoform-directed RT-qPCR, RNA immunoprecipitation (RIP)-qPCR, and a dual-fluorescence VEGFA minigene reporter were used to examine RNA regulation in HUVECs.  Results:  Higher Wagner grades were associated with lower granulation tissue and CD31-positive areas and differences in microbial composition. In diabetic mice, bacterial inoculation delayed wound closure and was accompanied by reduced vascularization and endothelial SRSF2 staining. HG+LPS reduced SRSF2 expression and impaired endothelial functional readouts. SRSF2 knockdown reproduced these defects, whereas overexpression partially improved them under HG+LPS. Transcriptomic analysis identified widespread splicing changes after SRSF2 depletion. Under HG+LPS, RT-qPCR showed lower VEGFA-165a and higher VEGFA-165b signals; SRSF2 overexpression partially reversed these changes. The minigene reporter shifted toward VEGF-A165b-associated output under HG+LPS or SRSF2 knockdown and toward VEGF-A165a-associated output following SRSF2 overexpression. VEGFA pre-mRNA was enriched in SRSF2 immunoprecipitates.  Conclusions:  SRSF2 contributes to endothelial angiogenic function under hyperglycemic and LPS stress, and its manipulation alters VEGFA isoform-associated readouts. These findings support a potential role for SRSF2-associated RNA processing in diabetic wound vascular dysfunction. They do not establish that VEGFA isoform switching mediates the functional effects of SRSF2 or that the same mechanism operates in human DFUs.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11324732/v1",
+    "date": "2026-10-28",
+    "authors": "Zeng Z, An J, Mo Z, Luo G, Liu C, Cai Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352016",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1172,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11324732/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "89b0357747e7c38027e421c1eb17f671b257294f468a89f3b107986a075c7349",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:16:09.863178+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6a3043a587fa84653fe31e12948bb2b67b4e55ed64f902309780df7b0c374e28",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:16:09.863178+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "感染誘導性SRSF2発現低下がVEGF-Aアイソフォームスイッチングを促進し、糖尿病性足潰瘍の血管新生を障害する",
+    "abstract_ja": "要旨    背景：血管修復障害および感染は、糖尿病性足潰瘍（DFU）の治癒遅延の一因となる。感染に伴う炎症性ストレスが、RNAプロセシングの変化を介して内皮機能に影響を及ぼすか否かについては、未だ十分に解明されていない。本研究では、この状況におけるSRSF2およびVEGFAアイソフォームの調節について検討した。ヒトDFU組織および微生物叢をワグナー分類のグレード別に評価し、糖尿病マウス創傷モデルにおいて細菌接種を検討した。ヒト臍帯静脈内皮細胞（HUVECs）を、高グルコース（HG）およびリポ多糖（LPS）添加の有無で曝露させた。SRSF2を操作し、創傷閉鎖、EdU取り込み、およびチューブ形成を評価した。HMEC-1細胞において、個別にノックダウンRNAシーケンシングを実施した。アイソフォーム指向性RT-qPCR、RNA免疫沈降（RIP）-qPCR、および二重蛍光VEGFAミニジーンレポーターを用いて、HUVECsにおけるRNA調節を検討した。結果：ワグナー分類のグレードが高いほど、肉芽組織およびCD31陽性領域が少なく、微生物組成にも差異が認められた。糖尿病マウスにおいて、細菌接種は創傷閉鎖を遅延させ、血管化の減少および内皮のSRSF2染色の低下を伴っていた。HG+LPSはSRSF2の発現を低下させ、内皮機能指標を損なった。SRSF2のノックダウンによりこれらの欠損が再現された一方、過剰発現はHG+LPS条件下でこれらの欠損を部分的に改善した。トランスクリプトーム解析により、SRSF2枯渇後に広範なスプライシング変化が認められた。HG+LPS条件下では、RT-qPCRによりVEGFA-165aシグナルの低下とVEGFA-165bシグナルの上昇が示され、SRSF2の過剰発現はこれらの変化を部分的に逆転させた。ミニジーンレポーターは、HG+LPSまたはSRSF2ノックダウン下ではVEGF-A165b関連の出力へとシフトし、SRSF2過剰発現後にはVEGF-A165a関連の出力へとシフトした。VEGFA前mRNAは、SRSF2免疫沈降物において濃縮されていた。結論：SRSF2は、高血糖およびLPSストレス下で内皮血管新生機能に寄与しており、その操作はVEGFAアイソフォーム関連の指標を変化させる。これらの知見は、糖尿病性創傷の血管機能不全において、SRSF2関連のRNAプロセシングが潜在的な役割を果たしていることを支持するものである。ただし、VEGFAアイソフォームの切り替えがSRSF2の機能的影響を媒介することや、同様のメカニズムがヒトDFUにおいても機能することを立証するものではない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10766793/v1",
+    "title": "Rhizobacterial genetic diversity associated with Paspalum atratum and Paspalum notatum by metagenomic analysis",
+    "abstract": "Abstract    The genus  Paspalum  belongs to the Poaceae family and encompasses several species native to South America. The  Paspalum  Germplasm Bank of Embrapa Pecuária Sudeste has about 450 accessions of 50 species. Among the conserved accessions,  Paspalum notatum  BGP 26 and  Paspalum atratum  BGP 308 were selected for their importance as turfgrass and forage, respectively. The rhizospheric bacterial community of  P. atratum  and  P. notatum  was analyzed via 16S (V3-V4 region) metabarcoding sequencing. The statistical difference found for the Chao ecological index indicates that the bacterial composition and diversity were associated with each species. Thirty-one operational taxonomic units (OTUs) were identified with a predominance higher than 1% from 9 phyla (Proteobacteria n = 11, Acidobacteria n = 8, Actinobacteria n = 3, Planctomycetes n = 2, Nitrospirae n = 2, Verrucomicrobia n = 2, Chloroflexi n = 1, Gemmatimonadetes n = 1, and Bacteroidetes n = 1). Among these, 19 OTUs significantly differed between the species studied. Soil hydrogen-ionic potential (pH) was one of the most important factors influencing the species-specific difference of bacterial populations among accessions. Acidobacteriaceae (Subgroup 1), from the phylum Acidobacteria, was the most abundant family in  P. atratum  . The main group found in  P. notatum  was related to the family Nitrosomonadaceae from the phylum Proteobacteria. Our findings highlight a significant distinction in the rhizospheric bacterial community among the examined  Paspalum  accessions and underscore the existence of a species-specific association. These results can aid soil management practices, particularly in relation to vital economic aspects. Further research could help optimize agricultural strategies and promote sustainable soil health.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10766793/v1",
+    "date": "2026-10-28",
+    "authors": "de Paula AF, de Andrade PHM, Matheucci E, Carazzolle MF, de Carvalho LM, Vigna BBZ, Bernardi ACdC, Fávero AP, Cunha AFd, Lacava PT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351941",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1173,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10766793/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "33a50f5e881baab0e20fe125c55b22a15565fe28a37c208fdda9570d89fc949c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:16:09.863178+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4dd594bbcf5ad7be96824646d9267bf2d49bacd4ce331689c9463b2eb19b7544",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:16:09.863178+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタゲノム解析によるPaspalum atratumおよびPaspalum notatumに関連する根粒菌の遺伝的多様性",
+    "abstract_ja": "要旨    パスパラム属（Paspalum）はイネ科に属し、南米原産の数種を含む。Embrapa Pecuária Sudesteのパスパラム胚質バンクには、50種約450のアクセッションが登録されている。保存されたアクセッションのうち、パスパラム・ノタトゥム（Paspalum notatum）BGP 26およびパスパラム・アトラトゥム（Paspalum atratum）BGP 308が、それぞれ芝草および飼料作物としての重要性から選定された。P. atratumおよびP. notatumの根圏細菌群集を、16S（V3-V4領域）メタバーコーディングシーケンシングを用いて解析した。Chao生態指数に認められた統計的差異は、細菌の組成および多様性が各種に関連していることを示している。9つの門（Proteobacteria n = 11, Acidobacteria n = 8, Actinobacteria n = 3, Planctomycetes n = 2, Nitrospirae n = 2, Verrucomicrobia n = 2, Chloroflexi n = 1, Gemmatimonadetes n = 1, Bacteroidetes n = 1）から、1%を超える優占率を示す31の操作分類単位（OTU）が同定された。これらのうち、19のOTUは調査した種間で有意な差異が認められた。土壌の水素イオン電位（pH）は、アクセッション間における細菌集団の種特異的な差異に影響を与える最も重要な要因の一つであった。Acidobacteria門のAcidobacteriaceae科（サブグループ1）は、P. atratumにおいて最も個体数の多い科であった。P. notatumで認められた主要なグループは、Proteobacteria門のNitrosomonadaceae科に関連していた。本研究の結果は、調査したパスパラム属のアクセッション間における根圏細菌群集の顕著な相違を浮き彫りにし、種特異的な関連性の存在を裏付けるものである。これらの結果は、特に重要な経済的側面に関連して、土壌管理手法の一助となり得る。さらなる研究は、農業戦略の最適化および持続可能な土壌健全性の促進に寄与すると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11520430/v1",
+    "title": "Bacterial supplementation during black soldier fly rearing improves frass plant growth-promoting properties",
+    "abstract": "Abstract    Background  Black soldier fly (BSF,  Hermetia illucens  ) frass is increasingly valued as an organic fertilizer, yet how the rearing substrate and its microbial supplementation shape the frass bacterial community and its agronomic quality remains poorly understood. Aims  We assessed whether microbial supplementation of an olive pomace substrate affects black soldier fly larval performance and the agronomic and microbial quality of the resulting frass. Methods  The substrate was supplemented with two commercial  Bacillus velezensis  formulations (CAL, LAL) and two gut-derived strains selected for broad enzymatic capabilities (LG, closest match  Paenibacillus cookii  ; PD, closest match  Shouchella clausii  ), each supplied live or heat-inactivated. Larval performance was recorded, the heat-treated frass (70°C, 60 min) was evaluated on cherry tomato, and the frass bacterial community was characterized by 16S rRNA sequencing. Results  Effects on larval performance were modest and preparation-dependent: inactivated PD increased larval weight, inactivated LG increased harvest weight, and frass production increased with live CAL, LAL and LG. All supplemented frass types increased root dry weight relative to non-supplemented frass, with LG-F performing best, and frass generally promoted greater plant biomass than mineral and organic fertilizers while maintaining germination. Despite similar chemical profiles, treatment explained 79.1% of the variation in frass community structure;  Bacillus  was enriched in LAL-F and  Oceanobacillus  , a genus with plant growth-promoting traits, in three of the four supplemented treatments. Conclusions  Although strain viability was not confirmed, microbial supplementation during rearing altered the bacterial composition and agronomic value of BSF frass, supporting its potential as a tailored biofertilizer.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11520430/v1",
+    "date": "2026-10-28",
+    "authors": "Fagua DC, Savio C, Fantatto RR, Souza CSe, Garcia-Fraile P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351861",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Bacillus",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1174,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11520430/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9050cbd03c69e2937310a5708e4920ab814af5496b0779418568256899c5dd0c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:16:09.863178+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "40a07fe97635d9cbd67dca3b59cc50d611f6315a37e1af8200e9550348c30d17",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:16:09.863178+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブユ飼育時の細菌添加は糞の植物成長促進作用を向上させる",
+    "abstract_ja": "要旨    背景  クロ Soldier Fly（BSF, Hermetia illucens）の糞は、有機肥料としてますます価値が高まっているが、飼育基質およびその微生物添加が、糞中の細菌群集および農学的品質をどのように形成するかについては、依然として十分に解明されていない。目的  オリーブポマース基質への微生物添加が、クロ Soldier Flyの幼虫の発育成績、および得られる糞の農学的・微生物学的品質に影響を及ぼすか評価した。方法  基質に、2種類の市販のBacillus velezensis製剤（CAL, LAL）と、広範な酵素活性を有するように選定された2種類の腸内由来株（LG, Paenibacillus cookiiに最も近い株；PD, Shouchella clausiiに最も近い株）を、それぞれ生菌または熱不活化状態で添加した。幼虫の発育成績を記録し、熱処理した糞（70°C, 60分）をチェリートマトで評価し、16S rRNAシーケンシングにより糞中の細菌群集を特性解析した。結果  幼虫の発育成績への影響は限定的であり、調製方法に依存していた。不活化PDは幼虫体重を増加させ、不活化LGは収穫重量を増加させ、生菌のCAL、LALおよびLGでは糞の生産量が増加した。添加したすべての糞タイプにおいて、非添加糞と比較して根の乾物重量が増加し、特にLG-Fが最良の結果を示した。また、糞は発芽を維持しつつ、一般的に無機肥料や有機肥料よりも植物バイオマスの増加を促進した。化学的プロファイルは類似していたが、処理によって糞群集構造の変動の79.1%が説明された。4つの添加処理のうち3つにおいて、LAL-Fおよび植物成長促進特性を持つ属であるOceanobacillusがBacillus株に豊富に含まれていた。結論  菌株の生存率は確認されなかったが、飼育中の微生物添加はBSF糞の細菌組成および農学的価値を変化させ、個別のニーズに合わせた生物肥料としての可能性を裏付けた。"
   }
 ]
