@@ -196212,6 +196212,11 @@
         "source": "Europe PMC topics",
         "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "scope": "target"
+      },
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
       }
     ],
     "publication_types": [
@@ -196219,17 +196224,17 @@
       "journal article"
     ],
     "id": "10.1093/nar/gkag1215",
-    "title": "RecA protein activates the E. coli topoisomerase III catenation function: essential role of the RecA ATPase.",
+    "title": "RecA protein activates the E. coli topoisomerase III catenation function: essential role of the RecA ATPase",
     "abstract": "RecA protein loaded into lesion-containing post-replication gaps must engage in strand exchange utilizing DNA substrates with no free ends, a process that is topologically constrained. The process can be mimicked by examining RecA-mediated DNA strand exchange between a circular ssDNA and a partially homologous circular supercoiled DNA. RecA protein can pair these substrates but cannot promote a net strand exchange. On its own, topoisomerase III promotes little reaction with the same two substrates. However, the two proteins together promote a robust reaction that rapidly, within 1-2 min, converts the substrates quantitatively to catenanes and hemicatenanes. The results reveal an important new functional interaction for bacterial topoisomerase III. The reaction is tightly coupled to RecA-mediated ATP hydrolysis. The rate of RecA-promoted ATP hydrolysis controls not just the extent but also the rate of the catenation/hemicatenation reaction. The ssDNA substrate is also required. Post-replication gaps are created in essentially every replication cycle and can be lethal if left unresolved. Given the need for rapid gap amelioration prior to the arrival of a new replication fork, the strong enzymatic and topological collaboration between RecA and topoisomerase III may have been a major evolutionary driver for the RecA ATPase activity.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1215",
-    "date": "2026-11-01",
+    "date": "2026-11-13",
     "authors": "Phan KL, Dunbar EL, Cox MM.",
     "tags": [
       "微生物ゲノミクス",
       "微生物進化"
     ],
-    "source_url": "https://europepmc.org/article/MED/43021745",
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1215/9041029?rss=1",
     "preprint": false,
     "review": false,
     "pmcid": "",
@@ -196264,29 +196269,30 @@
     "collected_at": "2026-11-13T22:36:48.103116+00:00",
     "collected_date": "2026-11-14",
     "sources": [
-      "Europe PMC topics"
+      "Europe PMC topics",
+      "https://academic.oup.com/rss/site_5127/3091.xml"
     ],
     "first_seen": "2026-11-13",
     "related_dois": [
       "10.1093/nar/gkag1215"
     ],
     "translation": {
-      "title": {
-        "hash": "39cbb979c62393fe288dc20aa4d06d3035a3c17181fd6908fe1910d0e02d58dc",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-13T23:18:56.313183+00:00",
-        "format": "pfml3-ja-v1"
-      },
       "abstract": {
         "hash": "268777f984a0ae1e9ff509572370915eadc2289c62aec3e81fff4f9e6ad402e3",
         "model": "plamo-3-translate-2b",
         "date": "2026-11-13T23:18:56.313183+00:00",
         "format": "pfml3-ja-v1"
+      },
+      "title": {
+        "hash": "0fece30a1565b9965eef8b9eab10d9f9377f6aae3ed832320f0ccfb2e60bd82e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:14:42.671203+00:00",
+        "format": "pfml3-ja-v1"
       }
     },
+    "abstract_ja": "病変を含む複製後ギャップにロードされたRecAタンパク質は、遊離末端を持たないDNA基質を利用した鎖交換を行う必要があり、このプロセスはトポロジカルに制約されている。このプロセスは、環状ssDNAと部分的に相同な環状超らせんDNAとの間でのRecA介在性DNA鎖交換を調べることで模倣できる。RecAタンパク質はこれらの基質を対合させることができるが、正味の鎖交換を促進することはできない。トポイソメラーゼIII単独では、同一の2つの基質を用いた反応はほとんど促進されない。しかし、これら2つのタンパク質が共存すると、1〜2分以内に基質を定量的にカテナンおよびヘミカテナンへと迅速に変換する強力な反応が促進される。これらの結果は、細菌のトポイソメラーゼIIIにおける重要な新たな機能的相互作用を明らかにしている。この反応は、RecA介在性ATP加水分解と密接に共役している。RecAが促進するATP加水分解の速度は、カテナン化／ヘミカテナン化反応の程度だけでなく、その速度をも制御する。ssDNA基質もまた必要である。複製後ギャップは実質的にすべての複製サイクルで形成され、解消されないままであれば致死的となり得る。新たな複製フォークが到達する前に迅速なギャップ解消が必要であることから、RecAとトポイソメラーゼIIIの間の強力な酵素的およびトポロジカルな協調は、RecA ATPase活性の主要な進化的駆動要因であった可能性がある。",
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "RecAタンパク質は大腸菌トポイソメラーゼIIIのカテーネーション機能を活性化する：RecA ATPaseの必須的役割。",
-    "abstract_ja": "病変を含む複製後ギャップにロードされたRecAタンパク質は、遊離末端を持たないDNA基質を利用した鎖交換を行う必要があり、このプロセスはトポロジカルに制約されている。このプロセスは、環状ssDNAと部分的に相同な環状超らせんDNAとの間でのRecA介在性DNA鎖交換を調べることで模倣できる。RecAタンパク質はこれらの基質を対合させることができるが、正味の鎖交換を促進することはできない。トポイソメラーゼIII単独では、同一の2つの基質を用いた反応はほとんど促進されない。しかし、これら2つのタンパク質が共存すると、1〜2分以内に基質を定量的にカテナンおよびヘミカテナンへと迅速に変換する強力な反応が促進される。これらの結果は、細菌のトポイソメラーゼIIIにおける重要な新たな機能的相互作用を明らかにしている。この反応は、RecA介在性ATP加水分解と密接に共役している。RecAが促進するATP加水分解の速度は、カテナン化／ヘミカテナン化反応の程度だけでなく、その速度をも制御する。ssDNA基質もまた必要である。複製後ギャップは実質的にすべての複製サイクルで形成され、解消されないままであれば致死的となり得る。新たな複製フォークが到達する前に迅速なギャップ解消が必要であることから、RecAとトポイソメラーゼIIIの間の強力な酵素的およびトポロジカルな協調は、RecA ATPase活性の主要な進化的駆動要因であった可能性がある。"
+    "title_ja": "RecAタンパク質は大腸菌トポイソメラーゼIIIのカテーネーション機能を活性化する：RecA ATPaseの必須的役割"
   },
   {
     "discovery": [
@@ -200502,6 +200508,11 @@
         "source": "Europe PMC topics",
         "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "scope": "target"
+      },
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/1365294x/most-recent",
+        "query": "RSS feed",
+        "scope": "candidate"
       }
     ],
     "publication_types": [
@@ -200509,16 +200520,16 @@
       "journal article"
     ],
     "id": "10.1111/mec.70640",
-    "title": "Mapping Protist Export to Deep-Sea Sediments Reveals Decoupled Export and Transfer Patterns.",
+    "title": "Mapping Protist Export to Deep‐Sea Sediments Reveals Decoupled Export and Transfer Patterns",
     "abstract": "Gravitational particle sinking is the main mechanism for carbon export in the biological carbon pump. However, the connectivity of particle-associated protist communities from the surface to the seafloor remains poorly resolved. We used 18S rRNA gene metabarcoding to characterise exported protist communities within sinking particles and deep-sea sediments in subtropical and subantarctic waters of the southwest Pacific Ocean. Sinking particles were collected with multi-depth formalin-fixed and preservative-free (live) particle interceptor traps and compared against the water column community (upper: 5-40 m; lower: 70-500 m). Amplicon sequence variants (ASVs) from upper water column samples accounted for a 2- to 4-fold higher proportion of reads and ASV richness compared to lower water column samples in fixed trap and sediment samples, suggesting a stronger surface protist contribution towards export. Tracing differential abundance patterns of ASVs in upper water column and fixed trap samples revealed taxa-specific decoupling between ASV export potential across the mixed layer and transfer potential to the upper mesopelagic. These export patterns, similarly suggested by taxa-specific decrease in ASV richness between fixed and live traps, remained comparable across biogeochemically contrasting water masses. This suggests that the drivers of particle-associated protist loss during export might be linked to characteristics consistent across environmental conditions, such as specific microbial interactions or cell properties. Transfer potential was a strong indicator of ASV detection in deep-sea sediments, emphasising that tracing export at multiple depths across the pelagic-benthic continuum is critical to identify protist taxa driving long-term carbon sequestration.",
     "journal": "Molecular Ecology",
     "doi": "10.1111/mec.70640",
-    "date": "2026-11-01",
-    "authors": "Ong DRY, Gutiérrez-Rodríguez A, Bilewitch J, Nodder SD, Stukel MR, Décima M, Kelly TB, Lopes Dos Santos A.",
+    "date": "2026-11-13",
+    "authors": "Denise Rui Ying Ong, \nAndrés Gutiérrez‐Rodríguez, \nJaret Bilewitch, \nScott D. Nodder, \nMichael R. Stukel, \nMoira Décima, \nThomas B. Kelly, \nAdriana Lopes dos Santos",
     "tags": [
       "海洋微生物"
     ],
-    "source_url": "https://europepmc.org/article/MED/43023588",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70640?af=R",
     "preprint": false,
     "review": false,
     "pmcid": "",
@@ -200549,29 +200560,30 @@
     "collected_at": "2026-11-14T03:13:11.939144+00:00",
     "collected_date": "2026-11-14",
     "sources": [
-      "Europe PMC topics"
+      "Europe PMC topics",
+      "https://onlinelibrary.wiley.com/feed/1365294x/most-recent"
     ],
     "first_seen": "2026-11-14",
     "related_dois": [
       "10.1111/mec.70640"
     ],
     "translation": {
-      "title": {
-        "hash": "7a59507f60305544fa60ead379c3368826a4ed22c3f910cede276bb7e1ddcd17",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-14T03:45:13.185462+00:00",
-        "format": "pfml3-ja-v1"
-      },
       "abstract": {
         "hash": "cb99dd2ab96be1803b781b1e5492e991401312b30d1c8dae18d1df347a837d18",
         "model": "plamo-3-translate-2b",
         "date": "2026-11-14T03:45:13.185462+00:00",
         "format": "pfml3-ja-v1"
+      },
+      "title": {
+        "hash": "6b3b9b917dfcbcc0b485177a8bd80a8f9283a14b00ecffeb8d3a5b9ef567de0c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:14:42.671203+00:00",
+        "format": "pfml3-ja-v1"
       }
     },
+    "abstract_ja": "重力による粒子の沈降は、生物炭素ポンプにおける炭素輸出の主要なメカニズムである。しかし、表層から海底に至る粒子随伴性原生生物群集の連結性については、依然として十分に解明されていない。本研究では、18S rRNA遺伝子メタバーコーディングを用いて、南西太平洋の亜熱帯および亜南極海域における沈降粒子および深海堆積物中の輸出原生生物群集の特性解析を行った。沈降粒子は、多深度のホルマリン固定・保存剤不使用（生）粒子インターセプタートラップを用いて採取し、水柱群集（上層：5-40 m、下層：70-500 m）と比較した。固定トラップおよび堆積物試料において、上層水柱試料由来のアンプリコン配列変異体（ASV）は、下層水柱試料と比較してリード数およびASV豊富度が2～4倍高く、輸出に対する表層原生生物の寄与がより強いことが示唆された。上層水柱試料と固定トラップ試料におけるASVの相対存在量パターンを追跡したところ、混合層におけるASV輸出能と上層中深層への輸送能との間に、分類群特異的なデカップリングが認められた。固定トラップと生トラップ間でのASV豊富度の分類群特異的な減少によっても示唆されるこれらの輸出パターンは、生物地球化学的に対照的な水塊間においても同様であった。このことは、輸出過程における粒子随伴性原生生物の喪失の駆動要因が、特定の微生物間相互作用や細胞特性など、環境条件を問わず一貫した特性に関連している可能性を示唆している。輸送能は深海堆積物におけるASV検出の強力な指標となり、遠洋・底生連続体にわたる複数の深度で輸出を追跡することが、長期的な炭素隔離を駆動する原生生物分類群を同定する上で極めて重要であることを強調している。",
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "原生生物の深海堆積物への輸出マッピングにより、輸出と輸送のパターンの乖離が明らかになった。",
-    "abstract_ja": "重力による粒子の沈降は、生物炭素ポンプにおける炭素輸出の主要なメカニズムである。しかし、表層から海底に至る粒子随伴性原生生物群集の連結性については、依然として十分に解明されていない。本研究では、18S rRNA遺伝子メタバーコーディングを用いて、南西太平洋の亜熱帯および亜南極海域における沈降粒子および深海堆積物中の輸出原生生物群集の特性解析を行った。沈降粒子は、多深度のホルマリン固定・保存剤不使用（生）粒子インターセプタートラップを用いて採取し、水柱群集（上層：5-40 m、下層：70-500 m）と比較した。固定トラップおよび堆積物試料において、上層水柱試料由来のアンプリコン配列変異体（ASV）は、下層水柱試料と比較してリード数およびASV豊富度が2～4倍高く、輸出に対する表層原生生物の寄与がより強いことが示唆された。上層水柱試料と固定トラップ試料におけるASVの相対存在量パターンを追跡したところ、混合層におけるASV輸出能と上層中深層への輸送能との間に、分類群特異的なデカップリングが認められた。固定トラップと生トラップ間でのASV豊富度の分類群特異的な減少によっても示唆されるこれらの輸出パターンは、生物地球化学的に対照的な水塊間においても同様であった。このことは、輸出過程における粒子随伴性原生生物の喪失の駆動要因が、特定の微生物間相互作用や細胞特性など、環境条件を問わず一貫した特性に関連している可能性を示唆している。輸送能は深海堆積物におけるASV検出の強力な指標となり、遠洋・底生連続体にわたる複数の深度で輸出を追跡することが、長期的な炭素隔離を駆動する原生生物分類群を同定する上で極めて重要であることを強調している。"
+    "title_ja": "原生生物の深海堆積物への輸出マッピングにより、輸出と輸送のパターンの分離が明らかになった"
   },
   {
     "discovery": [
@@ -231883,5 +231895,141 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "変態後も親から子への皮膚微生物叢の寄与が検出可能である",
     "abstract_ja": "要旨\n親による世話は微生物伝播の機会をもたらすが、特に変態過程にある種において、子の皮膚微生物叢への寄与については十分に解明されていない。本研究では、新熱帯区の毒ガエル Allobates femoralis を対象に、制御されたクロスフォスター実験を用いてこの役割を調査した。30回の試行にわたり、オタマジャクシは実父、養父によって運ばれるか、あるいは用意された水入れに手動で移された。16S rRNA遺伝子シーケンシング、ベイズ的ソーストラッキング、および共有配列変異の解析を用いて、成体、クラッチ粘液、オタマジャクシ、変態個体、および環境試料中の細菌群集を特性評価した。ソーストラッキングにより、群集組成に大幅な変化が生じた後でも、実父母および（クロスフォスターされた子の場合は）養父による寄与が推定されたとともに、環境由来の寄与も認められた。群集組成に大幅な変化が生じた後でも、親による微生物の寄与は変態後も検出可能であり、これは初期の親との接触が発達段階にわたる微生物の構成に影響を及ぼし得ることを示している。養父は輸送前にクラッチに接触していたため、その寄与は抱卵中、輸送中、またはその両方における微生物伝播を反映している可能性がある。親と子の間で共有されていた一部の配列変異は、Batrachochytrium dendrobatidis阻害性分離株が報告されている属に属していたが、阻害活性や疾患防御能の検証は行われなかった。本研究の結果は、実験室条件下において、親による世話が子の皮膚微生物構成に寄与する経路であることを明らかにした。また、親による世話の意義を、単なる餌の提供や移送にとどまらず拡張させるとともに、自然個体群における分類群レベルの持続性、機能的帰結、および伝播動態を確立する必要性を浮き彫りにした。\n要旨\n親による世話は微生物伝播の機会をもたらすが、特に変態過程にある種において、子の皮膚微生物叢への寄与については十分に解明されていない。本研究では、新熱帯区の毒ガエル Allobates femoralis を対象に、制御されたクロスフォスター実験を用いてこの役割を調査した。30回の試行にわたり、オタマジャクシは実父、養父によって運ばれるか、あるいは用意された水入れに手動で移された。16S rRNA遺伝子シーケンシング、ベイズ的ソーストラッキング、および共有配列変異の解析を用いて、成体、クラッチ粘液、オタマジャクシ、変態個体、および環境試料中の細菌群集を特性評価した。ソーストラッキングにより、実父母および（クロスフォスターされた子の場合は）養父による寄与が推定されたとともに、環境由来の寄与も認められた。群集組成に大幅な変化が生じた後でも、親による微生物の寄与は変態後も検出可能であり、これは初期の親との接触が発達段階にわたる微生物の構成に影響を及ぼし得ることを示している。養父は輸送前にクラッチに接触していたため、その寄与は抱卵中、輸送中、またはその両方における微生物伝播を反映している可能性がある。親と子の間で共有されていた一部の配列変異は、Batrachochytrium dendrobatidis阻害性分離株が報告されている属に属していたが、阻害活性や疾患防御能の検証は行われなかった。本研究の結果は、実験室条件下において、親による世話が子の皮膚微生物構成に寄与する経路であることを明らかにした。また、親による世話の意義を、単なる餌の提供や移送にとどまらず拡張させるとともに、自然個体群における分類群レベルの持続性、機能的帰結、および伝播動態を確立する必要性を浮き彫りにした。"
+  },
+  {
+    "id": "10.1093/nar/gkag1177",
+    "title": "An RNA-targeting ADP-ribosyltransferase toxin uncouples mRNA stability from productive translation",
+    "abstract": "AbstractMessenger RNA (mRNA) modifications regulate transcript stability and translation efficiency across diverse biological systems, but the consequences of toxin-mediated mRNA modification in bacteria remain poorly understood. RhsP2 was recently identified as an RNA-targeting interbacterial ADP-ribosyltransferase toxin, but whether mRNAs are physiological substrates remained unknown. Here, we show that RhsP2 targets mRNA coding sequences and in doing so prevents their efficient translation. eCLIP-seq reveals preferential association of RhsP2 with UAAG-enriched motifs, and biochemical analyses showed that these sequences are preferred substrates for ribose 2′-OH ADP-ribosylation. Unexpectedly, modified mRNAs were broadly stabilized despite impaired protein synthesis, demonstrating that RhsP2 uncouples transcript stability from productive translation. Monosome- and disome-seq analyses show that RhsP2-modified mRNAs induce ribosome stalling and collision, and in vitro translation reactions demonstrate that ADP-ribosylation of mRNAs is sufficient to block translation elongation. Together, these findings establish mRNA ADP-ribosylation as a mechanism of toxin-mediated translational sabotage in which chemically modified transcripts accumulate while disrupting protein synthesis.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1177",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1177/9051728?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4564,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/nar/gkag1177"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c6d25a80a080455009c167f3d74761c88d14d993f22ff0ee7b4ee14012657ae7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:14:42.671203+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7f1d6fd57e8e1610329eaaebc7dadddb1e092deac8d7ab984f5b2867714404b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:14:42.671203+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNA標的型ADPリボシル転移酵素毒素は、mRNAの安定性を生産的な翻訳から切り離す。",
+    "abstract_ja": "要旨メッセンジャーRNA（mRNA）修飾は、多様な生物学的系において転写産物の安定性と翻訳効率を調節するが、細菌における毒素介在性mRNA修飾の影響については十分に解明されていない。RhsP2は最近、RNAを標的とする細菌間ADP-リボシル転移酵素毒素として同定されたが、mRNAが生理学的基質であるかどうかは不明であった。本研究では、RhsP2がmRNAのコーディング配列を標的とし、それによって効率的な翻訳を妨げることを示す。eCLIP-seqにより、RhsP2がUAAG濃縮モチーフに優先的に結合することが明らかになり、生化学的解析により、これらの配列がリボース2′-OH ADP-リボシル化の優先的な基質であることが示された。予想外なことに、タンパク質合成が阻害されているにもかかわらず、修飾mRNAは広範に安定化しており、RhsP2が転写産物の安定性を生産的な翻訳から切り離すことが実証された。モノソームおよびダイソーム-seq解析により、RhsP2修飾mRNAがリボソームの停滞と衝突を誘発することが示され、in vitro翻訳反応では、mRNAのADP-リボシル化が翻訳伸長を阻止するのに十分であることが示された。以上の知見を総合すると、mRNA ADP-リボシル化は、化学的に修飾された転写産物が蓄積する一方でタンパク質合成を阻害するという、毒素介在性翻訳妨害のメカニズムであることが確立される。"
+  },
+  {
+    "id": "10.1093/nar/gkag1189",
+    "title": "Structure of a dopamine-binding RNA aptamer reveals metal-mediated ligand recognition",
+    "abstract": "AbstractThe selection of small-molecule-binding RNA aptamers enables the creation of ligand-responsive RNA tools, yet most aptamers fail to operate reliably across diverse environments. Scaffolded selection addresses this limitation by preserving the tertiary architecture of a riboswitch scaffold while driving the evolution of a new ligand-binding pocket. Using the purine riboswitch aptamer, we previously generated dopamine-binding aptamers. Here, we report the crystal structures of two representative variants in their apo and dopamine-bound states to define how they recognize ligand while maintaining scaffold integrity. The structures demonstrate that scaffolded selection enforces global fold conservation and retains the defining tertiary interactions of the parental riboswitch. Local remodeling, triggered by deletions acquired during selection, rewires the three-way junction to build extensive interaction networks that host the dopamine-binding pocket. A deeply buried potassium ion anchors ligand recognition, while the RNA engages the catechol ring through stacking and hydrogen bonding interactions. Structure probing shows minimal conformational changes upon ligand binding, indicating that the aptamers adopt a largely preorganized fold. The balance between structural stability and local plasticity expands the capacity of a single RNA fold to recognize chemically distinct ligands and positions scaffolded selection as a powerful platform for engineering robust RNA-based sensing and regulatory devices.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1189",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1189/9051727?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4565,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/nar/gkag1189"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0354d2120b015ea752dfdc4ef2d81368b7ff71fe72aec9268f8e0ef7c798ff9d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:14:42.671203+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2ec19335df120b657e707cf908a436ae46cabf304f5a3cac03df195d5ccbda4f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:14:42.671203+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ドーパミン結合型RNAアプタマーの構造から明らかになった金属介在性リガンド認識",
+    "abstract_ja": "要旨低分子結合型RNAアプタマーの選択により、リガンド応答性RNAツールの作製が可能となるが、ほとんどのアプタマーは多様な環境下で安定して機能しない。スキャフォールド選択は、リボスイッチ・スキャフォールドの三次構造を維持しつつ、新たなリガンド結合ポケットの進化を促進することで、この限界を解消する。我々は以前、プリンリボスイッチアプタマーを用いてドーパミン結合アプタマーを作製した。本報では、スキャフォールドの完全性を維持しつつリガンドを認識する仕組みを明らかにするため、代表的な2つのバリアントのアポ状態およびドーパミン結合状態における結晶構造を報告する。構造解析により、スキャフォールド選択が大域的なフォールド保存を強制し、親リボスイッチの特徴的な三次相互作用を保持していることが示された。選択過程で生じた欠失によって誘発される局所的なリモデリングが、三方接合部を再構成し、ドーパミン結合ポケットを収容する広範な相互作用ネットワークを構築する。深部に埋め込まれたカリウムイオンがリガンド認識のアンカーとなり、一方でRNAはスタッキングおよび水素結合相互作用を介してカテコール環と結合する。構造プロービングの結果、リガンド結合に伴うコンフォメーション変化は最小限であり、アプタマーが概ねあらかじめ組織化されたフォールドをとることが示された。構造安定性と局所的な可塑性のバランスにより、単一のRNAフォールドが化学的に異なるリガンドを認識する能力が拡大し、スキャフォールド選択は、堅牢なRNAベースのセンシングおよび調節デバイスを設計するための強力なプラットフォームとなる。"
   }
 ]
