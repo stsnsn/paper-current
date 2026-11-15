@@ -248649,5 +248649,327 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "単一細胞発現からの細胞組織の生成的3D空間再構成",
     "abstract_ja": "シングルセルRNAシーケンシングは、細胞の状態を大規模に解析できる一方で、その三次元（3D）空間構造を除去してしまう。この構造を再構築するには、個々の細胞の位置だけでなく、組織全体の物理的サイズ、幾何学的形状、および近傍領域を復元する必要がある。既存の手法では、細胞を測定済みの空間参照にマッピングするか、あるいは二次元断面を独立して再構築するため、新たな3D標本の統合的な再構築という課題が未解決のままとなっている。さらに、各細胞の妥当な平均位置を予測することで、組織の幾何学的形状を圧縮しつつ、細胞ごとの誤差を低減できる。本研究では、推論時に空間参照を必要とせず、シングルセル遺伝子発現から3D標本全体を共同で再構築する生成フレームワーク「ORBIS」を提案する。ORBISは、疎な連続断面、組織ブロック、および標本全体からサンプリングされた学習ビューを用い、共有物理座標系におけるフローマッチングを通じて空間構造を学習する。推論時には、動的に再グループ化されたウィンドウを通じて共有空間状態が反復的に更新され、組織領域を独立して再構築・接合することなく、数百万個の細胞位置を生成することが可能となる。我々は、正確な組織幾何学と低い細胞ごとの誤差を区別するため、物理的サイズ、細胞集団の形状、細胞ごとの配置、および近傍構造を個別に評価した。マウス全脳、厚脳ブロック、およびショウジョウバエ胚にわたる8つのホールドアウト標本において、ORBISはすべてのテストで評価した5つのベースラインよりも低い細胞集団形状誤差を達成し、最大370万個の細胞を含む標本を再構築した。単一GPUにおいて、ORBISは数百万個の細胞を含む脳を0.9～2.8分でサンプリングし、最先端の生成空間再構築手法であるLUNAの3D拡張版LUNAのサンプラーよりも約38倍高速であった。2つのホールドアウト脳テストにおいて、サンプリングにより、シングルコール版と比較してサイズ誤差が3.3分の1に、形状誤差が1.8分の1に低減した。独立した解離シングルセル脳アトラスにおいて、ORBISは23領域にわたり、各領域の細胞の平均37.9%を解離領域に復元し、LUNA-3Dの28.5%を上回った。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11635130/v1",
+    "title": "A Generalizable Dual-Engine Methodology for Predictive Process Intelligence and Analytical Quality Assurance",
+    "abstract": "Abstract  Industrial and engineered systems are exposed to at least two distinct sources of uncertainty: deviations in the physical process and errors or interference in the measurements used to assess that process. A process may be abnormal while its measurements remain valid; conversely, a process may be nominal while the measurement system is unreliable. This paper formalizes the Universal Dual-Engine Framework (UDEF), a modular methodology that separates and then integrates (i) dynamic process-state estimation and anomaly detection and (ii) analytical measurement-validity assessment. A domain-specific state-space model generates predictive residuals and uncertainty estimates. A separate measurement-assurance module evaluates sensor health, matrix interference, calibration status, recovery, and method-suitability evidence. A decision layer combines these outputs into operational states without conflating process faults with measurement faults. The paper defines mathematical interfaces, a reference decision algorithm, implementation requirements, and a reproducible synthetic benchmark spanning four stylized domains: bioprocessing, battery manufacturing, chemical processing, and logistics. In the benchmark (5,000 synthetic episodes per domain), the dual-engine rule achieved a mean joint classification accuracy of 0.944, compared with 0.797 for a single residual-threshold baseline. Mean process-fault F1 increased from 0.776 to 0.882, while the dual engine also classified synthetic measurement faults (mean F1 0.989). These results demonstrate only behavior under the stated synthetic data-generating assumptions; they do not establish superiority on real industrial data. The contribution is therefore a formalized, testable integration methodology and validation protocol, not a claim that predictive monitoring, sensor validation, QbD, or analytical validation are individually new.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11635130/v1",
+    "date": "2026-11-06",
+    "authors": "Shen Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360313",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4718,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.21203/rs.3.rs-11635130/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1b517822cc41cc6a04d52bdc9c5a3b82a251fc14e7965fa81a1d237707c6cc54",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:29:15.852181+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cec59aae482e536f7cc71d2645e9a0ebf1cac38f2bbc4fe2c11265de80cb36c3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:29:15.852181+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "予測的プロセスインテリジェンスと分析的品質保証のための汎用化可能なデュアルエンジン手法",
+    "abstract_ja": "要旨  産業およびエンジニアリングシステムは、少なくとも2つの異なる不確実性要因にさらされている。すなわち、物理プロセスの偏差と、そのプロセスを評価するために用いられる測定における誤差または干渉である。プロセスが異常であっても、その測定値が有効なままである場合がある。逆に、プロセスが正常であっても、測定システムが信頼性に欠ける場合がある。本論文では、(i) 動的なプロセス状態推定および異常検知、ならびに (ii) 解析的な測定妥当性評価を分離し、その後統合するモジュール式手法である「ユニバーサル・デュアルエンジン・フレームワーク（UDEF）」を定式化する。ドメイン固有の状態空間モデルが、予測残差と不確実性推定値を生成する。独立した測定保証モジュールが、センサの健全性、マトリクス干渉、校正状態、復旧、および手法の適合性に関するエビデンスを評価する。意思決定レイヤーは、これらの出力を、プロセス故障と測定故障を混同することなく運用状態へと統合する。本論文では、数学的インターフェース、参照意思決定アルゴリズム、実装要件、およびバイオプロセス、電池製造、化学プロセス、物流という4つの定型化されたドメインにわたる再現可能な合成ベンチマークを定義する。ベンチマーク（ドメインあたり5,000件の合成エピソード）において、デュアルエンジンルールは平均統合分類精度0.944を達成したのに対し、単一の残差閾値ベースラインでは0.797であった。平均プロセス故障F1は0.776から0.882に向上し、同時にデュアルエンジンは合成測定故障（平均F1 0.989）も分類した。これらの結果は、提示された合成データ生成の仮定下における挙動を示すものであり、実際の産業データにおける優位性を立証するものではない。したがって、本研究の貢献は、定式化され検証可能な統合手法および検証プロトコルを提供することにあり、予測モニタリング、センサ検証、QbD、または解析的検証が個別に新規であるという主張ではない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.12688/wellcomeopenres.28107.1",
+    "title": "The genome sequence of sour fig, Carpobrotus edulis N.E.Br. (Caryophyllales: Aizoaceae)",
+    "abstract": "We present a genome assembly of  Carpobrotus edulis (sour fig; Streptophyta; Magnoliopsida; Caryophyllales; Aizoaceae). The assembly consists of two haplotypes with total lengths of 939.89 megabases and 955.96 megabases. Most of the haplotype 1 assembly (93.62%) was scaffolded into nine chromosomal pseudomolecules. Haplotype 2 was assembled to scaffold level. The mitochondrial sequences have lengths of 3333.84 and 189.62 kilobases and the plastid genome assembly has a length of 148.81 kilobases. Gene annotation of the haplotype 1 assembly by Ensembl identified 20,735 protein-coding genes. This assembly was generated as part of the Darwin Tree of Life project, which produces reference genomes for eukaryotic species found in Britain and Ireland.",
+    "journal": "",
+    "doi": "10.12688/wellcomeopenres.28107.1",
+    "date": "2026-11-06",
+    "authors": "Christenhusz MJM, Leitch IJ, Fay MF, Royal Botanic Gardens Kew Genome Acquisition Lab, Darwin Tree of Life Barcoding collective, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359818",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4719,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.12688/wellcomeopenres.28107.1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7a7a09ef39ebb7fa6519d3e5c195e189612e938007fe75e79f1535ebdcd83900",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:29:15.852181+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "647685198f6d78eb132d386c56cfcdfb800be2981aba9bb5e1a41891aa69b175",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:29:15.852181+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サワーイチジク Carpobrotus edulis N.E.Br. (Caryophyllales: Aizoaceae) のゲノム配列",
+    "abstract_ja": "Carpobrotus edulis（サワーフィグ；ストレプト藻門；マグノリオプシダ綱；ナデシコ目；アイゾ科）のゲノムアセンブリを提示する。本アセンブリは、総長939.89メガベースおよび955.96メガベースの2つのハプロタイプから構成される。ハプロタイプ1アセンブリの大部分（93.62%）は、9つの染色体擬似分子へとスキャフォールディングされた。ハプロタイプ2はスキャフォールドレベルでアセンブルされた。ミトコンドリア配列の長さは3333.84および189.62キロベースであり、プラスチドゲノムアセンブリの長さは148.81キロベースである。Ensemblによるハプロタイプ1アセンブリの遺伝子アノテーションにより、20,735個のタンパク質符号化遺伝子が同定された。本アセンブリは、英国およびアイルランドに生息する真核生物種のリファレンスゲノムを構築するDarwin Tree of Lifeプロジェクトの一環として作成された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762293",
+    "title": "Chaos and repetition in algal evolution: A Chrysophyceae eco-genomic framework",
+    "abstract": "The Chrysophyceae are an algal class that, within relatively short evolutionary distances, have repeatedly adopted multiple trophic strategies (photoautotrophy, mixotrophy, heterotrophy) and are ubiquitous across marine, freshwater and cryosphere ecosystems. Historical understanding of marine chrysophytes has lagged behind that of freshwater taxa, limiting our ability to identify what genes determine their cellular and ecosystem function. We leverage new transcriptomes, meta-genomes and computational predictions to reveal the functional, genetic and eco-physiological diversity of Chrysophyceae, including newly documented marine groups. We show that their common ancestor was likely a marine mixotroph, with multiple independent colonizations of freshwater and cryospheres, and evolution of photoautotrophic and heterotrophic life-strategies. We identify characteristic biogeographical distributions for different Chrysophyceae orders, including new ones linking marine and freshwater cryospheres. We document convergent gene losses relating to cryotolerance, photosynthesis, and phagocytosis, including novel families widely spread across the algal tree of life. We map meta-gene distributions of marker genes and impute a latitudinal shift in Chrysophyceae trophic strategy, with photoautotrophy predominant in polar oceans and heterotrophy in oligotrophic tropical waters. Our study identifies new gene markers that may be determinant of lifestyle shifts across the algal tree of life and reveals probable responses of marine chrysophytes to climate change.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762293",
+    "date": "2026-10-28",
+    "authors": "Graf L, Zajac E, Probert I, Zhang X, Dorrell RG.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352324",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genomic"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4637,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.27.762293"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0cd9983eb5de7a3ed4f9308645f84fe7fea0dc9897f722ed429a1c201bc26d96",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:29:15.852181+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "af8046be44db047dd5a922180f10fc2003e31b4b7aabdfb5c55f82daae4c6432",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:29:15.852181+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "藻類進化におけるカオスと反復：紅藻綱のエコゲノム・フレームワーク",
+    "abstract_ja": "クリソフィセア綱は、比較的短い進化的距離の中で、複数の栄養戦略（光独立栄養、混合栄養、従属栄養）を繰り返し採用してきた藻類綱であり、海洋、淡水、および氷圏の生態系に遍在している。海洋性クリソフィセア類に関する歴史的な理解は淡水分類群に比べて遅れており、細胞および生態系における機能を決定づける遺伝子を特定する能力が制限されてきた。我々は、新たなトランスクリプトーム、メタゲノム、および計算予測を活用し、新たに記録された海洋群を含むクリソフィセア綱の機能的、遺伝的、および生態生理学的多様性を明らかにする。我々は、それらの共通祖先がおそらく海洋性の混合栄養生物であり、淡水および氷圏への複数回の独立した定着と、光独立栄養および従属栄養の生活戦略の進化を遂げたことを示す。また、海洋と淡水の氷圏を結びつける新たな群を含む、異なるクリソフィセア綱の目における特徴的な生物地理学的分布を特定する。さらに、凍結耐性、光合成、および食作用に関連する収斂的な遺伝子喪失を記録し、藻類の生命系統樹に広く分布する新規ファミリーを提示する。我々は、マーカー遺伝子のメタ遺伝子分布をマッピングし、クリソフィセア綱の栄養戦略における緯度依存的なシフトを推定し、極域の海洋では光独立栄養が、貧栄養の熱帯海域では従属栄養が支配的であることを明らかにする。本研究は、藻類の生命系統樹における生活様式の転換を決定づける可能性のある新たな遺伝子マーカーを特定し、海洋性クリソフィセア類の気候変動に対する想定される応答を明らかにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11283393/v1",
+    "title": "A high-throughput nanoscale imaging platform for direct visualization and rapid measurement of telomeres at single-molecule resolution",
+    "abstract": "Abstract  Telomere length is a biomarker of aging, cancer and telomeropathies, with some of the strongest health-related associations occurring at the extremes of the telomere-length spectrum. Critically short telomeres can drive chromosome instability, cellular stress and senescence, yet conventional assays largely provide population-average measurements that obscure these biologically important molecules, and the underlying heterogeneity of individual chromosome ends. In addition, amplification bias associated with highly repetitive telomeric sequences and inter-laboratory variability can limit measurement reproducibility. Although emerging technologies provide higher-resolution analyses, they often require high DNA input, specialized sample preparation, or complex instrumentation and bioinformatic tools, restricting broader adoption. Here, we present a high-throughput single-molecule platform that overcomes these barriers through an automated, user-friendly nanoscale imaging workflow compatible with standard genomic DNA preparations. The method combines a unique dual CRISPR-Cas9 telomere boundary labeling strategy with amplification-free magnetic-bead-based enrichment, preserving the native telomere-length distribution while minimizing representation bias. Using only 500 ng of input DNA and 2–4 h of hands-on processing, the assay accurately resolves intact telomeres spanning ~50 bp to >50 kb within the same sample, enabling simultaneous characterization of the full telomere-length spectrum. It also demonstrates high reproducibility across technical replicates and independent operators (ICC up to 0.90). Validation in telomere-length models, replicative aging systems, and clinical biospecimens, together with subtelomeric barcoding for chromosome-arm assignment, establishes a scalable platform for chromosome-resolved telomere profiling, biomarker development, and future clinical implementation in aging, cancer, and telomere biology.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11283393/v1",
+    "date": "2026-10-28",
+    "authors": "Jackson-Cook C, Gheghiani L, Mikheykin A, Laeken DV, Guest D, Archer K, Riethman H, Reed J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352115",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "genomic",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4638,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.21203/rs.3.rs-11283393/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5f692e12eb7aba35bf97629c76aabe9dd366f3a0822b570a30766c6a75ce9386",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:29:15.852181+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3f631a386cc1c08c4db8ae8719bde9c0d4ee049082775a581b31bb8ecb9019d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:29:15.852181+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単分子分解能でテロメアを直接可視化・高速計測するハイスループットナノスケールイメージングプラットフォーム",
+    "abstract_ja": "要旨　テロメア長は、老化、がん、およびテロメア病のバイオマーカーであり、健康に関連する最も強い関連性の一部は、テロメア長スペクトルの両端において認められる。極めて短いテロメアは、染色体不安定性、細胞ストレス、および老化を誘発し得るが、従来のアッセイ法は主に集団平均の測定値を提供するため、これらの生物学的に重要な分子や、個々の染色体末端に存在する根本的な不均一性が不明瞭になる。さらに、高度に反復的なテロメア配列に伴う増幅バイアスや研究室間のばらつきが、測定の再現性を制限する要因となり得る。新興技術によってより高解像度な解析が可能になりつつあるものの、それらは多くの場合、大量のDNA入力、特殊な試料調製、あるいは複雑な装置やバイオインフォマティクスツールを必要とし、広範な導入を妨げている。本報では、標準的なゲノムDNA調製法と互換性のある、自動化されたユーザーフレンドリーなナノスケールイメージングワークフローを通じて、これらの障壁を克服するハイスループットな単分子プラットフォームを提案する。本手法は、独自のデュアルCRISPR-Cas9テロメア境界標識戦略と、増幅を伴わない磁気ビーズベースの濃縮法を組み合わせることで、代表性バイアスを最小限に抑えつつ、本来のテロメア長分布を保持する。わずか500 ngの入力DNAと2～4時間の手作業による処理のみで、本アッセイは同一試料内において約50 bpから>50 kbに及ぶ完全なテロメアを正確に分離し、テロメア長スペクトル全体の同時特性解析を可能にする。また、技術的レプリケート間および独立したオペレーター間で高い再現性（ICC最大0.90）を示す。テロメア長モデル、複製老化システム、および臨床生体試料における検証に加え、染色体アーム割り当てのためのサブテロメアバーコーディングにより、染色体解像度のテロメアプロファイリング、バイオマーカー開発、および老化、がん、テロメア生物学における将来的な臨床実装のためのスケーラブルなプラットフォームを確立する。"
   }
 ]
