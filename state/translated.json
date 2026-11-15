@@ -246427,5 +246427,317 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "信頼度を考慮した自動擬似ラベル生成を用いたCNN-LSTMによる弱教師あり動画異常検知",
     "abstract_ja": "要旨  監視環境における動画異常検知は、大規模なフレームレベルのアノテーションの不足と手動ラベリングの高コストにより、困難な課題となっている。従来の完全教師あり手法は実環境においてスケーラビリティに欠け、既存の弱教師あり手法はノイズの多いバッグレベルのラベルに依存することが多く、きめ細かな教師信号を欠いている。本研究では、自動生成された擬似ラベルに基づく弱教師あり動画異常検知フレームワークを提案する。動画レベルのアノテーションのみに依存する既存手法とは異なり、本手法は、動きベースの前景推定、オブジェクトレベルの検出、およびピクセルレベルのセグメンテーションを統合した多段階の擬似ラベリングパイプラインを構築する。具体的には、まずMOG2による背景減算を用いて動き領域を抽出する。次に、YOLOv8を適用して動き検出フレーム内の候補オブジェクトを検出し、続いてSAMベースのセグメンテーションによりピクセルレベルでオブジェクト境界を精緻化する。これらの信号を融合し、信頼度スコアを伴うクリップレベルの擬似ラベルを生成する。自動生成ラベルのノイズに対処するため、信頼度を考慮した重み付け機構と時間的一貫性正則化項を導入する。さらに、軽量なCNN-LSTMアーキテクチャを採用し、ResNet18を凍結特徴量抽出器として使用することで、競争力のある性能を維持しつつ計算コストを大幅に削減する。UCF-Crimeデータセットを用いた実験的評価により、提案手法が再現可能なマルチラン評価プロトコルの下で、AUC 0.80およびF1スコア 0.78を達成することが示された。ソースコードおよび生成された擬似ラベルは、公開時に一般に提供される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11214964/v1",
+    "title": "SeAMT1;2a and SeAMT1;2b from the halophyte Salicornia europaea play dual roles in ammonium transport and salt tolerance",
+    "abstract": "Abstract    Aims  Ammonium (NH₄⁺) is an essential nitrogen nutrient for plant growth, but excessive NH₄⁺ from fertilizer application and aquaculture wastewater poses eutrophication risks in waterbodies. The halophyte  Salicornia europaea  can efficiently remove NH₄⁺ from wastewater, yet the molecular mechanisms governing its ammonium uptake remain largely elusive. This study aimed to identify and functionally characterize ammonium transporter (AMT) genes in  S. europaea  and to assess their roles in NH₄⁺ uptake and salt tolerance. Methods  We identified six AMT genes—  SeAMT1;1  ,  SeAMT1;2a  ,  SeAMT1;2b  ,  SeAMT1;3  ,  SeAMT1;4  , and  SeAMT3;1  —in  S. europaea  , determined their expression patterns and subcellular localization, and characterized their functions in ammonium transport and salt tolerance using transgenic yeast and Arabidopsis. Results  Among the six AMT genes,  SeAMT1;1  and  SeAMT1;3  were shoot-predominantly expressed genes, whereas  SeAMT1;2a  and  SeAMT1;2b  were root-expressed and transcriptionally induced by both nitrogen starvation and salt stress. Functional analyses revealed that SeAMT1;2a and SeAMT1;2b are the two major AMTs mediating high-affinity and low-affinity ammonium transport in  S. europaea  . Moreover, these two transporters also confer salt tolerance independent of NH₄⁺ uptake, with SeAMT1;2a exhibiting K⁺ transport activity that likely contributes to maintaining cellular K⁺ homeostasis under salinity. Furthermore, the high NH₄⁺ affinity of SeAMT1 transporters, which enables them to function effectively despite Na⁺ competition, allows  S. europaea  to sustain nitrogen acquisition even under highly saline conditions. Conclusions  Our findings provide new insights into SeAMT-mediated ammonium transport and salt tolerance in this halophyte, with promising potential for phytoremediation.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11214964/v1",
+    "date": "2026-10-28",
+    "authors": "Ma J, Ou Z, Chandrasekaran U, Yao Y, Xiao X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351931",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3465,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11214964/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ff2d540e7fdb81a1aee058e9cf59ad1605b70dd5b6ef15b1b0ee40329e36cf97",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:40:35.878069+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0ac8022e6533d72b1b2c766c31ae4078b8695b32796fca509084b8396cae6ead",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:40:35.878069+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "塩生植物Salicornia europaea由来のSeAMT1;2aおよびSeAMT1;2bは、アンモニウム輸送と耐塩性において二重の役割を担う。",
+    "abstract_ja": "要旨    目的  アンモニウム（NH₄⁺）は植物の成長に不可欠な窒素栄養素であるが、肥料施用や水産養殖廃水由来の過剰なNH₄⁺は、水域における富栄養化のリスクとなる。塩生植物Salicornia europaeaは廃水からNH₄⁺を効率的に除去できるが、そのアンモニウム取り込みを制御する分子機構は依然として大部分が不明である。本研究では、S. europaeaにおけるアンモニウムトランスポーター（AMT）遺伝子の同定および機能解析を行い、NH₄⁺取り込みと耐塩性におけるそれらの役割を評価することを目的とした。方法  S. europaeaにおいて6つのAMT遺伝子（SeAMT1;1、SeAMT1;2a、SeAMT1;2b、SeAMT1;3、SeAMT1;4、およびSeAMT3;1）を同定し、その発現パターンと細胞内局在を決定し、トランスジェニック酵母およびシロイヌナズナを用いてアンモニウム輸送と耐塩性における機能を解析した。結果  6つのAMT遺伝子のうち、SeAMT1;1およびSeAMT1;3は地上部で主に発現する遺伝子であった一方、SeAMT1;2aおよびSeAMT1;2bは根で発現し、窒素飢餓および塩ストレスの両方によって転写誘導された。機能解析の結果、SeAMT1;2aとSeAMT1;2bが、S. europaeaにおける高親和性および低親和性アンモニウム輸送を媒介する2つの主要なAMTであることが明らかになった。さらに、これらの2つのトランスポーターはNH₄⁺取り込みとは独立して耐塩性を付与しており、特にSeAMT1;2aはK⁺輸送活性を示し、これが塩濃度下における細胞内K⁺恒常性の維持に寄与していると考えられる。また、Na⁺との競合がある中でも効果的に機能するSeAMT1トランスポーターの高いNH₄⁺親和性により、S. europaeaは高塩濃度条件下においても窒素獲得を維持することができる。結論  本研究の知見は、この塩生植物におけるSeAMT介在性のアンモニウム輸送と耐塩性に関する新たな知見を提供するものであり、植物レメディエーションへの有望な可能性を有している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11255258/v1",
+    "title": "Pseudomonas aeruginosa CntM-Dependent Upregulation of Staphylococcus aureus cntA Enhances Fitness During Co-Infection",
+    "abstract": "Abstract    Background  Staphylococcus aureus  frequently occurs in polymicrobial infections, but how co-infecting species influence its in vivo fitness requirements remains poorly understood. Here, we investigated how  Pseudomonas aeruginosa  affects  S. aureus  fitness during co-infection. Results  We combined murine systemic mono-infection and co-infection models with transposon insertion sequencing (Tn-seq). Ninety genes met the fitness-gene criteria only during co-infection and were significantly enriched in the ATP-binding cassette (ABC) transporter pathway. Among genes assigned to this pathway,  cntA  , encoding the substrate-binding component of the Cnt metal acquisition system, showed the strongest depletion. Deletion of  cntA  caused no detectable fitness defect during mono-infection but reduced  S. aureus  fitness and tissue burdens during co-infection. In Zn-supplemented chemically defined medium, Δ  cntA  also showed reduced growth relative to the wild-type strain during co-culture with  P. aeruginosa  . Co-culture with  P. aeruginosa  increased  S. aureus cntA  transcription, but co-culture with  Acinetobacter baumannii  or  Klebsiella pneumoniae  did not. Physical separation of  S. aureus  and  P. aeruginosa  in a Transwell system did not prevent the increase in  cntA  transcription, and cell-free co-culture supernatant retained this ability. Deletion of the  P. aeruginosa  pseudopaline biosynthetic gene  cntM  markedly reduced the  P. aeruginosa  -associated increase in  cntA  transcription. Conclusions  We identify  cntA  as a fitness determinant for  S. aureus  during co-infection with  P. aeruginosa  .  P. aeruginosa  upregulates  cntA  transcription through the CntM-dependent pseudopaline biosynthetic pathway, thereby enhancing the fitness of  S. aureus  in the coexistence environment. These findings link metal-acquisition responses to interspecies adaptation during polymicrobial infection and further suggest that this cross-species regulation of metal acquisition may offer a potential therapeutic target for polymicrobial infections.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11255258/v1",
+    "date": "2026-10-28",
+    "authors": "He T, Zhou J, Li G, Rao Y, Tan Y, Yang Y, Shang W, Peng H, Hu Z, Li M, Zhao Y, Rao X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351908",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3466,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11255258/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2dcd207766afdcd991a96feb5fe523a18d1d5e5d542bfbf9900c4831910225d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:40:35.878069+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "729f41ae3c81925953b5d1d033fe88a74c9e195546ef0a12ba699e706e4a339e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:40:35.878069+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "緑膿菌CntM依存的な黄色ブドウ球菌cntAの発現上昇は、共感染における適応度を高める",
+    "abstract_ja": "要旨    背景  黄色ブドウ球菌は多菌種感染において頻繁に認められるが、共感染種がその生体内適応度要件にどのような影響を及ぼすかについては、依然として十分に解明されていない。本研究では、共感染時に緑膿菌が黄色ブドウ球菌の適応度にどのような影響を与えるかを検討した。結果  マウスの全身性単菌感染および共感染モデルを用い、トランスポゾン挿入シーケンシング（Tn-seq）を実施した。90個の遺伝子が共感染時にのみ適応度遺伝子の基準を満たし、ATP結合カセット（ABC）トランスポーター経路において有意に濃縮されていた。この経路に割り当てられた遺伝子のうち、Cnt金属獲得系の基質結合成分をコードするcntAにおいて、最も顕著な減少が認められた。cntAの欠失は、単菌感染時には検出可能な適応度の低下を引き起こさなかったが、共感染時には黄色ブドウ球菌の適応度および組織負荷を減少させた。Zn添加の化学的に定義された培地において、ΔcntAは緑膿菌との共培養時に野生型株と比較して増殖の低下を示した。緑膿菌との共培養は黄色ブドウ球菌のcntA転写を増加させたが、アシネトバクター・バウマニまたはクレブシエラ・ニューモニエとの共培養では増加が認められなかった。Transwellシステムにおける黄色ブドウ球菌と緑膿菌の物理的分離は、cntA転写の増加を妨げず、無細胞共培養上清はこの能力を保持していた。緑膿菌の擬似パリン生合成遺伝子cntMの欠失は、緑膿菌に関連するcntA転写の増加を著しく抑制した。結論  我々は、緑膿菌との共感染時における黄色ブドウ球菌の適応度決定因子としてcntAを同定した。緑膿菌はCntM依存性擬似パリン生合成経路を介してcntA転写を亢進させ、これにより共存環境における黄色ブドウ球菌の適応度を高めている。これらの知見は、多菌種感染における種間適応に対する金属獲得応答を結びつけるものであり、さらに、この種間金属獲得調節が多菌種感染の潜在的な治療標的となり得ることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.761125",
+    "title": "A haplotype-resolved, near telomere-to-telomere genome assembly of the desiccation-tolerant plant  Vellozia tubiflora",
+    "abstract": "Vegetative desiccation tolerance allows plants to survive the loss of up to 95% of their cellular water content and recover upon rehydration. The family Velloziaceae contains the largest number of desiccation-tolerant species among flowering plants, yet genomic resources for this lineage remain extremely limited. Here we report the first reference genome of the genus  Vellozia , the most species-rich genus of the family. Using PacBio HiFi sequencing and Omni-C chromatin conformation data, we generated a haplotype-resolved genome assembly of  Vellozia tubiflora with near telomere-to-telomere continuity. Hap1 and Hap2 span 423.2 Mb and 426.4 Mb, respectively, with both assemblies successfully anchored into nine chromosome-length scaffolds. The former presents a scaffold N50 of 49.8 Mb and 96.5% BUSCO completeness, while the latter reaches 50.0 Mb and 96.8%. Genome annotation predicted 23,352 and 23,549 protein-coding genes in Hap1 and Hap2, respectively. This resource is anticipated to foster new insights for comparative and evolutionary studies of vegetative desiccation tolerance across angiosperms and expands the genomic representation of plants from the Brazilian  campos rupestres , a threatened biodiversity hotspot characterized by extreme environmental conditions.  Significance  The first haplotype-resolved genome of  V. tubiflora provides a foundational resource for investigating the evolution and molecular basis of vegetative desiccation tolerance in the angiosperm lineage with the greatest number of resurrection species. As the most widely distributed species in Velloziaceae,  V. tubiflora also represents a valuable model for comparative studies of genome evolution, structural variation, and adaptation across environmentally heterogeneous landscapes, while expanding the genomic representation of the Brazilian  campos rupestres , a threatened ecosystem recognized for its exceptional biodiversity and high levels of endemism.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.761125",
+    "date": "2026-10-28",
+    "authors": "de Almeida FAN, Allsing NA, Marone MP, Cavalheiro MF, Canesin LEC, Escalona M, Nguyen OH, Sahasrabudhe R, Riaño-Pachón DM, Richards S, Lewin HA, Arruda P, Michael TP, Dante RA, Gerhardt IR.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352420",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3942,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.22.761125"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b042e8fef551f45e0e9daacdfaa6708c694ee857a91a6c02c7f85d04c2475b4c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:40:35.878069+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d34b0270e7b9fedffe8ca16f25c11dacfc6d5dfe4110578c08d2947017a35f0f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:40:35.878069+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "乾燥耐性植物Vellozia tubifloraのハプロタイプ解析に基づくテロメア間近傍ゲノムアセンブリ",
+    "abstract_ja": "栄養乾燥耐性により、植物は細胞内含水率の最大95%を失っても生存でき、再水和によって回復することが可能である。ヴェロジア科（Velloziaceae）は、被子植物の中で最も多くの乾燥耐性種を擁する科であるが、この系統に関するゲノム資源は極めて限られている。本報では、同科で最も種数が多い属であるヴェロジア属（Vellozia）の初のリファレンスゲノムについて報告する。PacBio HiFiシーケンシングとOmni-Cクロマチンコンフォメーションデータを用いて、テロメア間の連続性がほぼ保たれた、ハプロタイプ解析済みのVellozia tubifloraゲノムアセンブリを構築した。Hap1およびHap2はそれぞれ423.2 Mbおよび426.4 Mbに及び、両アセンブリとも9本の染色体長のスキャフォールドに正常に固定された。前者のスキャフォールドN50は49.8 MbでBUSCO完全性は96.5%であり、後者は50.0 Mbおよび96.8%に達した。ゲノムアノテーションの結果、Hap1およびHap2にはそれぞれ23,352個および23,549個のタンパク質符号化遺伝子が予測された。本リソースは、被子植物における栄養乾燥耐性の比較・進化研究に新たな知見をもたらすとともに、過酷な環境条件を特徴とする絶滅危惧種の生物多様性ホットスポットであるブラジルのカンポス・ルペストレス（campos rupestres）の植物のゲノム表現を拡充するものと期待される。意義 V. tubifloraの初のハプロタイプ解析済みゲノムは、最も多くの復活種を有する被子植物系統における栄養乾燥耐性の進化と分子基盤を研究するための基礎的なリソースとなる。ヴェロジア科で最も広く分布する種であるV. tubifloraは、環境的に不均質な景観におけるゲノム進化、構造変異、および適応の比較研究のための貴重なモデルとなると同時に、卓越した生物多様性と高い固有性で知られる絶滅危惧生態系であるブラジルのカンポス・ルペストレスのゲノム表現を拡充するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762208",
+    "title": "An Interactive Bidirectional De Novo Protein Design System",
+    "abstract": "We present a lightweight, interactive server that combines two generative models, a structure-aware graph neural network (GNN) for de novo sequence design and an ESMFold-based structure predictor, into a single bidirectional design loop. The tool requires no software installation beyond a web browser, and it visualizes and quantifies both directions of the sequence-structure mapping between predicted sequences and structures. Through the same interface, an included user-accessible Kabsch alignment tool superimposes a predicted structure onto the target backbone. It reports the resulting root mean square deviation directly in the interface. Rather than a new model, this paper contributes the tool itself: an accessible, flexible, and openly sourced codebase that lowers the barrier to using and analyzing a model. This interactive server can also be used to validate design hypotheses interactively and reused by other researchers with their own checkpoints. While slightly more challenging, the codebase includes a section for users to add their own model structures while still using the interactive server code. This paper describes the system’s architecture, interface, and intended workflow, and discusses its role as an open-source tool. All data and models used in this paper are derived from our previous companion papers [3, 4].",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762208",
+    "date": "2026-10-28",
+    "authors": "Gammill C, Tamil L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353457",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "predictor",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "predictor",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4013,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.27.762208"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8e8482e03e81c19de64809e48ab3269981c50e8cf3ec4667f6016fe645ac183e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:40:35.878069+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fdbd4fb2a8752ad9d56deaffefdeaa661493e0c6cb1c46013150fbf59f173996",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:40:35.878069+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インタラクティブな双方向型デノボタンパク質設計システム",
+    "abstract_ja": "本研究では、de novo配列設計のための構造認識型グラフニューラルネットワーク（GNN）とESMFoldベースの構造予測器という2つの生成モデルを、単一の双方向設計ループに統合した軽量かつインタラクティブなサーバーを提案する。本ツールはウェブブラウザ以外にソフトウェアのインストールを必要とせず、予測された配列と構造の間の配列-構造マッピングの両方向を可視化し、定量化する。同一のインターフェースを通じて、ユーザーが利用できる付属のKabschアライメントツールが、予測された構造をターゲットバックボーンに重ね合わせる。その結果得られた二乗平均平方根偏差は、インターフェース上で直接表示される。本論文では、新たなモデルではなく、ツール自体――モデルの利用と解析の障壁を低減する、アクセス可能で柔軟かつオープンソースのコードベース――を提供する。このインタラクティブサーバーは、設計仮説をインタラクティブに検証するためにも利用でき、他の研究者が独自のチェックポイントを用いて再利用することも可能である。多少手間はかかるものの、コードベースには、インタラクティブサーバーのコードを利用しつつ、ユーザーが独自のモデル構造を追加できるセクションが含まれている。本論文では、システムのアーキテクチャ、インターフェース、および想定されるワークフローについて説明し、オープンソースツールとしての役割について論じる。本論文で使用したすべてのデータおよびモデルは、先行する関連論文 [3, 4] から得られたものである。"
   }
 ]
