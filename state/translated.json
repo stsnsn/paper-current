@@ -258064,5 +258064,318 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "環状置換細菌タンパク質ケージから進化した人工ヌクレオカプシドの多形構造",
     "abstract_ja": "分子自己組織化は、サイズと形状が規定されたナノスケール構造を実現する経路となる。サブユニットの繰り返しによって構築されたタンパク質ケージは、分子貨物をパッケージング可能なコンパートメントを形成する。アミノ酸置換によってサブユニット間相互作用やケージ構造が変化することはあり得るが、タンパク質主鎖の連結性が、実験室での進化過程で到達可能なケージ構造とどのように関連しているかは依然として不明である。本研究では、Aquifex aeolicus lumazine synthase (AaLS) の環状置換変異体から人工ヌクレオカプシドを進化させた。実験室での進化により、前駆体と比較して精製ヌクレオカプシドの収量が増加し、進化変異体であるNC119-3は、その構成mRNAをパッケージングした。クライオ電子顕微鏡観察により、不均一なケージ集団が明らかになり、その中でそれぞれ36個および42個の五量体からなる180サブユニットおよび210サブユニットのケージファミリーを同定した。同定された各ファミリー内において、同一のサブユニット化学量論を持つ粒子間でも、五量体構成単位の配置と配向が異なっていた。正四面体構造の180サブユニットケージを2.90 Åで再構成したところ、配列が同一のサブユニットであっても、アセンブリ内での位置に応じて異なるコンフォメーションをとることがさらに明らかになった。これらの五量体ベースの構造は、異なる環状置換部位を持つAaLS変異体から進化したヌクレオカプシドについて以前に報告されたドメイン交換型T = 4ケージとは異なる。先行研究と併せて、これらの知見は、異なる主鎖連結性を持つ足場から進化したRNAパッケージング用ヌクレオカプシドが、異なるケージ構造をとり得ることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760403",
+    "title": "Interpreting Short Tandem Repeat Variations with Genomic Foundation Models in Olive",
+    "abstract": "Short tandem repeats (STRs) are highly mutable, multiallelic variants with distinctive mutation dynamics and have been associated with phenotypic variation across diverse species. However, genome-wide STR variation remains poorly characterized in olive, and the large number of naturally occurring alleles creates a challenge for variant interpretation. Genomic language models offer a potential way to assess how STR length changes alter learned sequence representations, but their responses to natural multiallelic STR series have not been systematically evaluated. Here, we identified 117,119 polymorphic STRs across 212 Iranian and Mediterranean olive accessions. STRs recovered the major SNP-defined ancestry axes while resolving additional geographically structured subcomponents. We then quantified STR-induced embedding perturbation using three plant genomic language models: AgroNT, PlantCAD2, and GPN. Across all three models, embedding distance generally increased with repeat-length difference from the reference allele, and 7,417 loci were embedding-sensitive in all three models. These signals were robust to fixed-length input construction and exceeded those of matched nonrepetitive indels at most tested loci. Integration with oil-composition associations prioritized four exploratory loci supported by all three models. Overall, we provide a genome-wide olive STR resource and show that plant genomic language models capture reproducible responses to natural STR length variation. Combining cross-model embedding evidence with phenotype association provides a potential framework for prioritizing candidate STRs for further investigation.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760403",
+    "date": "2026-10-26",
+    "authors": "Xia F, Xia F, Pakdel MH, Mazinani MH, Asadi A, Zeng Y, Zhang J, Shariati V, Anisimova M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350384",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "genomic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1836,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760403"
+    ],
+    "translation": {
+      "title": {
+        "hash": "03e8debd1655823eae25a579626e900bbe740fa100fa3e4ee1672c23b2583ada",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:44:21.865310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "84a536ac71e664a0a7f839efb11c79776bf10d2f2461231bb4c206f3c87f57d7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:44:21.865310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Oliveにおけるゲノム基盤モデルを用いた短いタンデムリピート変異の解釈",
+    "abstract_ja": "短タンデムリピート（STR）は、特徴的な変異動態を示す極めて変異性の高い多アレル変異体であり、多様な種における表現型の変異に関連している。しかし、オリーブにおけるゲノムワイドなSTR変異は依然として十分に解明されておらず、天然に存在するアレル数の多さが変異の解釈における課題となっている。ゲノム言語モデルは、STR長の変化が学習済みの配列表現にどのような影響を及ぼすかを評価するための有望な手法となり得るが、天然の多アレルSTR系列に対する応答は体系的に評価されていない。本研究では、イランおよび地中海地域のオリーブ212系統において、117,119個の多型STRを同定した。STRは、主要なSNP定義の祖先系統軸を復元するとともに、地理的に構造化された追加のサブコンポーネントを識別した。次に、AgroNT、PlantCAD2、GPNの3つの植物ゲノム言語モデルを用いて、STR誘発性の埋め込み摂動を定量化した。3つのモデルすべてにおいて、埋め込み距離は一般に参照アレルとのリピート長の差に応じて増加し、7,417個の遺伝子座が3つのモデルすべてで埋め込み感受性を示した。これらのシグナルは、固定長入力の構築に対しても頑健であり、テストしたほとんどの遺伝子座において、対応する非反復インデルのシグナルを上回った。油組成との関連付けを統合した結果、3つのモデルすべてで支持された4つの探索的遺伝子座が優先された。総じて、我々はゲノムワイドなオリーブSTRリソースを提供し、植物ゲノム言語モデルが天然のSTR長変異に対して再現性のある応答を捉えることを示した。モデル間の埋め込みエビデンスと表現型との関連を組み合わせることで、さらなる調査に向けた候補STRを優先順位付けするための潜在的な枠組みを提供することができる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11211670/v1",
+    "title": "Fatty acid synthesis system in Glaucophyta: Further evidence for the lack of chloroplast fatty acid synthesis in glaucophyte algae",
+    "abstract": "Abstract  We previously showed that the chloroplast of the glaucophyte Cyanophora paradoxa does not have fatty acid synthesis activity, based on both experimental and bioinformatic analyses. The present study was intended to extend the bioinformatic analysis to a wider range of Glaucophyta, using published genomic data. The results confirmed that the four species of Glaucophyta analyzed do not have prokaryotic acetyl-CoA carboxylase, which is found in the chloroplasts of Rhodophyta and Viridiplantae. Only the eukaryotic type of acetyl-CoA carboxylase was identified. Some components of prokaryotic fatty acid synthase (FAS II), such as acyl carrier protein (ACP), 2-oxoacyl ACP synthase (KAS I/II), and FabD, were detected in the glaucophytes, but other components especially KAS III were not detected. In contrast, the eukaryotic fatty acid synthase (FAS I) was found in Gloeochaete as well as Cyanophora. Although the genome data is still to be amended, the available evidence suggests that the lack of fatty acid synthesis in the chloroplast is a trait of not just Cyanophora but also shared by the phylum Glaucophyta. The relationship between photosynthesis and fatty acid synthesis is discussed with special attention to the origin of chloroplasts.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11211670/v1",
+    "date": "2026-10-26",
+    "authors": "Sato N, Awai K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350099",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1837,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11211670/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fc5c51cfbb660101f5fa84ee4b14f01544d0eafa4fd34c84c8ef235be405495a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:44:21.865310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "112f6ab6c91767a5ac827fee43570c1511c83983c1236682fdd65ba7efd86384",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:44:21.865310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "緑藻類における脂肪酸合成系：緑藻類における葉緑体脂肪酸合成の欠如を示すさらなる証拠",
+    "abstract_ja": "要旨　我々はこれまで、実験解析およびバイオインフォマティクス解析の双方に基づき、緑藻類シアノフォラ（Cyanophora paradoxa）の葉緑体には脂肪酸合成活性がないことを示してきた。本研究では、既報のゲノムデータを用い、バイオインフォマティクス解析をより広範な緑藻類へと拡張することを目的とした。その結果、解析対象とした4種の緑藻類には、紅藻類や緑藻植物の葉緑体に見られる原核生物型アセチルCoAカルボキシラーゼが存在しないことが確認された。同定されたのは、真核生物型のアセチルCoAカルボキシラーゼのみであった。原核生物型脂肪酸合成酵素（FAS II）の構成成分であるアシルキャリアタンパク質（ACP）、2-オキソアシルACP合成酵素（KAS I/II）、およびFabDは緑藻類において検出されたが、その他の構成成分、特にKAS IIIは検出されなかった。対照的に、真核生物型脂肪酸合成酵素（FAS I）は、グロエオカエテ（Gloeochaete）およびシアノフォラの双方で認められた。ゲノムデータはまだ修正が必要であるものの、得られた証拠は、葉緑体における脂肪酸合成の欠如がシアノフォラ特有の形質ではなく、緑藻類門に共通する形質であることを示唆している。光合成と脂肪酸合成の関係について、特に葉緑体の起源に着目して考察する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11005638/v1",
+    "title": "Multifunctional Potential of Priestia megaterium ZY25 and Its Plant Growth-Promoting Effects on Flue-Cured Tobacco",
+    "abstract": "Abstract    [Background]  Multifunctional microbial strains that occupy a consistent ecological niche can exhibit strong colonization capacity in the crop rhizosphere and, compared with multi-strain consortia, are less prone to community imbalance or mutual inhibition. Identifying and characterizing such multifunctional strains is therefore important for green agricultural development and improved agricultural resource-use efficiency.  [Objective]  This study investigated the multiple functions of Priestia megaterium strain ZY25 and evaluated its plant growth-promoting effects on flue-cured tobacco.  [Methods]  ZY25 was inoculated into straw compost and organic fertilizer to assess its straw-degradation and nitrogen-transformation capacities. During the tobacco seedling stage, a ZY25 culture suspension was applied as a root drench, and its effects on seedling growth and antioxidant capacity were evaluated. The complete genome of ZY25 was obtained using Illumina short-read and PacBio long-read sequencing, followed by analyses of functional genes, metabolic pathways, carbohydrate-active enzymes, and secondary-metabolite biosynthetic gene clusters.  [Results]  The ZY25 genome contained genes encoding carbohydrate-active enzymes from the GH, CE, GT, AA, and CBM classes; nitrogen-metabolism genes including ureA, ureB, ureC, ureD, ureE, ureF, ureG, glnA, gltB, gltD, glnK, glnR, narK, and napA; and biosynthetic gene clusters for siderophores, lanthipeptides, lasso peptides, terpenes, and polyketide synthases (PKSs). Relative to the uninoculated control, ZY25 promoted cellulose and hemicellulose degradation in straw compost, corresponding to decreases of 10.58% and 14.08% in cellulose and hemicellulose contents, respectively. In organic fertilizer, ZY25 enhanced nitrogen mineralization and inorganic-nitrogen release, as reflected by increased ammonification intensity and nitrate-N content. Metabolite profiling detected multiple phytohormones and related compounds, including IAA, IPA, GA24, GA9, GA1, iP, SA, and MeJA; IAA was the most abundant at 36.29 ng/mg. Application of the ZY25 culture suspension significantly increased plant height, maximum leaf area, dry-matter accumulation, root-to-shoot ratio, and root activity by 33.62%, 9.51%, 9.75%, 77.41%, and 46.88%, respectively. Nitrate reductase (NR) and catalase (CAT) activities increased by 25.77% and 125.57%, respectively, indicating enhanced nitrogen assimilation and antioxidant capacity in tobacco seedlings.  [Conclusion]  Priestia megaterium ZY25 exhibits multiple agriculturally relevant functions, including promotion of cellulose and hemicellulose degradation, enhancement of nitrogen transformation, production of growth-promoting phytohormones, and improvement of antioxidant capacity in flue-cured tobacco. ZY25 therefore has potential for use in microbe-based plant growth-promotion strategies in agricultural production.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11005638/v1",
+    "date": "2026-10-26",
+    "authors": "WANG T, MA J, LONG N, ZHANG M, DAI H, LI Y, ZHANG W, YIN W, HUANG Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350097",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1838,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11005638/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9fb0fd869dfe34936006fb48b4e259607c0e4c1d1b0fb2b479ab1272d2fe0710",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:44:21.865310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8a2b7e0d75c2014b8c13e7e5a540bb5d66e4a71537bcfb658d1082b5d1bb287",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:44:21.865310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Priestia megaterium ZY25の多機能性と、煙燻タバコに対する植物成長促進効果",
+    "abstract_ja": "要旨    [背景]  一貫した生態的ニッチを占める多機能性微生物株は、作物の根圏において強力な定着能を示すことがあり、多菌株コンソーシアムと比較して、群集の不均衡や相互抑制が生じにくい。したがって、このような多機能性株を同定・特性評価することは、グリーン農業の開発および農業資源利用効率の向上において重要である。  [目的]  本研究では、Priestia megaterium株ZY25の多機能性について調査し、煙道乾燥タバコに対する植物成長促進効果を評価した。  [方法]  ZY25をわら堆肥および有機肥料に接種し、わら分解能および窒素変換能を評価した。タバコ苗期において、ZY25培養懸濁液を根面灌注し、苗の成長および抗酸化能への影響を評価した。IlluminaショートリードおよびPacBioロングリードシーケンシングを用いてZY25の全ゲノムを取得し、続いて機能性遺伝子、代謝経路、糖活性酵素、および二次代謝産物生合成遺伝子クラスターの解析を行った。  [結果]  ZY25ゲノムには、GH、CE、GT、AA、およびCBMクラスの糖活性酵素をコードする遺伝子、ureA、ureB、ureC、ureD、ureE、ureF、ureG、glnA、gltB、gltD、glnK、glnR、narK、およびnapAを含む窒素代謝遺伝子、ならびにシデロフォア、ランティペプチド、ラッソペプチド、テルペン、およびポリケチド合成酵素（PKS）の生合成遺伝子クラスターが含まれていた。未接種の対照区と比較して、ZY25はわら堆肥中のセルロースおよびヘミセルロースの分解を促進し、セルロースおよびヘミセルロース含有量はそれぞれ10.58%および14.08%減少した。有機肥料においては、アンモニア化強度および硝酸態窒素含有量の増加に反映されるように、ZY25は窒素無機化および無機窒素放出を促進した。代謝物プロファイリングにより、IAA、IPA、GA24、GA9、GA1、iP、SA、およびMeJAを含む複数の植物ホルモンおよび関連化合物が検出され、IAAが36.29 ng/mgと最も豊富であった。ZY25培養懸濁液の施用により、草丈、最大葉面積、乾物蓄積量、根茎比、および根活性が、それぞれ33.62%、9.51%、9.75%、77.41%、および46.88%有意に増加した。硝酸還元酵素（NR）およびカタラーゼ（CAT）活性はそれぞれ25.77%および125.57%増加し、タバコ苗における窒素同化能および抗酸化能の向上が示された。  [結論]  Priestia megaterium ZY25は、煙道乾燥タバコにおけるセルロースおよびヘミセルロース分解の促進、窒素変換の強化、成長促進植物ホルモンの産生、および抗酸化能の向上など、農業的に重要な複数の機能を示す。したがって、ZY25は農業生産における微生物ベースの植物成長促進戦略に活用できる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-8857873/v1",
+    "title": "Tracking coastal phosphorus delivery in deep time",
+    "abstract": "Abstract  Phosphorus (P) availability exerts a first-order control on primary productivity, yet how the P cycle has changed in response to Earth’s surface evolution is poorly constrained. While sedimentary archives can be used to track fluctuations in ancient seawater P availability, different rock types have yielded conflicting interpretations. Here we develop a multi-proxy sedimentary record by combining analysis of the P content of ironstones, which provide novel insights into coastal settings, with rock types from deeper environments: banded iron formations, shales and phosphorites. Our record reveals that during the Archaean, inputs from continental weathering, hydrothermalism and regeneration of marine organic matter were limited. The early Palaeoproterozoic is widely hypothesised to have had elevated continental P fluxes, and this is reflected in coastal ironstone trends, likely due to continental emergence and intensified oxidative weathering. However, subsequent incomplete supercontinent breakup and low-relief orogens maintained lower P availability through the middle Proterozoic. Finally, elevated P contents in coastal and offshore archives, driven by marine oxygenation and crustal evolution in the Neoproterozoic, herald the emergence of a modern-like P cycle in which marine phosphate availability is governed by upwelling and organic matter oxidation. This new record reveals how tectonics, weathering, redox evolution and the biosphere interacted to progressively reshape the nutrient landscape that underlies biological productivity.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-8857873/v1",
+    "date": "2026-10-26",
+    "authors": "Lechte M, Wang C, Robbins L, Halverson G, Wallace M, Konhauser K, Brengman L, Tang D, Hood AvS, Porter S, Cole D, Galili N, Halevy I, Wan B.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350012",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1839,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-8857873/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "91e4e9677e9564a054c307ed3fc84e07d6a2f172ebe1935f3eb11e571df377dd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:44:21.865310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3d9661976e39123429bfae3bdd60897a30b476fe29df6c54ab31d8d9755fcb29",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:44:21.865310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "深層時間における沿岸域へのリン供給の追跡",
+    "abstract_ja": "要旨　リン（P）の利用可能性は一次生産性に対して一次的な制御作用を及ぼすが、地球表面の進化に応じてPサイクルがどのように変化したかについては、十分に解明されていない。堆積物記録は古代海水中のP利用可能性の変動を追跡するために利用できるが、岩石の種類によって解釈が分かれてきた。本研究では、沿岸域に関する新たな知見をもたらす鉄鉱石のP含有量分析と、より深部の環境由来の岩石タイプ（縞状鉄鉱層、頁岩、リン鉱）を組み合わせることで、マルチプロキシ堆積物記録を構築した。本記録により、始生代においては、大陸風化、熱水作用、および海洋有機物の再生による供給が限定的であったことが明らかになった。古原生代初期には、大陸からのPフラックスが増大していたという仮説が広く立てられており、これは大陸の出現と酸化風化の激化に起因すると考えられる沿岸域の鉄鉱石の傾向に反映されている。しかし、その後の不完全な超大陸分裂と低起伏の造山帯により、原生代中期を通じてP利用可能性は低い水準に維持された。最後に、新原生代における海洋酸素化と地殻進化によってもたらされた沿岸域および沖合の堆積物記録におけるP含有量の上昇は、海洋リン酸塩の利用可能性が湧昇と有機物酸化によって支配される、現代に近いPサイクルの出現を告げている。この新たな記録は、テクトニクス、風化、酸化還元進化、および生物圏がどのように相互作用し、生物生産性の基盤となる栄養塩環境を漸進的に再形成したかを明らかにするものである。"
   }
 ]
