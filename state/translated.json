@@ -234875,5 +234875,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "プロテアーゼ産生菌 Alishewanella aestuarii B11 の新たな供給源としての聖林土壌：インド・グジャラート州北部からの初報告",
     "abstract_ja": "要旨    聖林とは、地域コミュニティが宗教的根拠に基づき、世代を超えて保護してきた森林区画である。その土壌は耕起や放牧、化学的投入をほとんど受けてこなかったが、工業用途の細菌をスクリーニングした研究はほとんどない。本研究では、インド・グジャラート州北部の5地区（サバルカンタ、バナスカンタ、パタン、メフサナ、アラバリ）にある25箇所の聖林から土壌を採取し、脱脂乳寒天培地を用いた連続希釈法、スプレッドプレート法、およびクリアランスゾーン法により、プロテアーゼ産生菌のスクリーニングを行った。形態学的および生化学的に区別可能な98株の分離株のうち、各地区で最大のクリアランスゾーンを示した株を定量解析に供した。全体として最高の産生能を示したバナスカンタの聖林由来のBKNR-1株は、カゼイン寒天培地において29 mmのクリアランスゾーンを示し、16S rRNA遺伝子配列解析および系統解析により、グラム陰性でオキシダーゼおよびカタラーゼ陽性の細菌であるAlishewanella aestuarii B11と同定された。浸漬発酵における一因子ずつの最適化（OFAT）により、炭素源として2%（w/v）のフルクトース、窒素源として2%（w/v）の尿素を用い、初期pH 7.0、37°Cでインキュベートしたところ、48時間後に最大のプロテアーゼ産生が認められた。これらの条件下での活性は約655–700 U mL⁻¹ min⁻¹に達し、未最適化培地の約4.3倍であった。粗抽出液を硫酸アンモニウムで分画したところ比活性が上昇し、これは段階的な塩析によって精製された他の細菌プロテアーゼに関する報告と一致していた。我々の知る限り、インドの聖林土壌から強タンパク質分解性のA. aestuarii株が得られたという報告は本研究が初めてである。本属が酵素産生菌として研究されたことは稀であり、本結果は、洗剤、皮革、食品、および廃棄物管理分野で利用可能な加水分解酵素を求めて、伝統的に保全されてきた森林土壌のさらなるバイオプロスペクティングを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762752",
+    "title": "Lipopolysaccharide chain length and coat assembly keep guanylate-binding proteins upright on bacterial membranes",
+    "abstract": "Guanylate-binding proteins (GBPs) defend host cells by assembling on intracellular pathogen membranes. For human GBP1, this requires a switch from a compact, closed conformation to an extended, open one, whereas for murine orthologues the open state is not known. How the open state behaves at a membrane has remained inaccessible to experiment. Using all-atom and coarse-grained molecular dynamics simulations covering over 0.5 ms, we followed human GBP1 and murine GBP2 as monomers, dimers, and higher-order assemblies on phosphatidylcholine membranes, Shigella flexneri lipopolysaccharide (LPS), and phosphoinositide-containing bilayers. Closed GBPs dock through their prenyl anchor with minimal lipid selectivity. Open GBPs, by contrast, are intrinsically unstable: monomers fold back into membrane-bound resting states, and dimers tip over unless supported, either by long LPS O-antigen chains or by neighboring molecules within a coat. The open state thus appears to be maintained not by the nucleotide alone but by the protein's molecular environment.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762752",
+    "date": "2026-10-30",
+    "authors": "Bundschuh BF, Loschwitz J, Strodel B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354515",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "bacteria",
+        "bacterial",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1653,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762752"
+    ],
+    "translation": {
+      "title": {
+        "hash": "77b24380975d3dfb888c113ede25a27f06037dd9e361abe73a073fb6c5656a0f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:41:18.095085+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eea3548f9b31de152a1c8694572371bb2a1ad119fac38d2909b1c70b53901473",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:41:18.095085+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リポ多糖鎖長と外被構造により、グアニル酸結合タンパク質は細菌膜上で直立状態に維持される。",
+    "abstract_ja": "グアニル酸結合タンパク質（GBP）は、細胞内病原体の膜上に集合することで宿主細胞を防御する。ヒトGBP1の場合、これにはコンパクトな閉鎖型コンフォメーションから伸展した開放型コンフォメーションへのスイッチングが必要となるが、マウスのオルソログでは開放状態は知られていない。膜上において開放状態がどのように振る舞うかは、これまで実験的に解明されていなかった。0.5 msを超える全原子および粗視化分子動力学シミュレーションを用い、ホスファチジルコリン膜、Shigella flexneriリポ多糖（LPS）、およびホスホイノシチド含有二重層上におけるヒトGBP1およびマウスGBP2の単量体、二量体、および高次集合体の挙動を追跡した。閉鎖型GBPは、プレニルアンカーを介して最小限の脂質選択性をもってドッキングする。対照的に、開放型GBPは本質的に不安定であり、単量体は膜結合型の静止状態へと折りたたまれ、二量体は、長いLPS O-抗原鎖またはコート内の隣接分子による支持がない限り、転倒する。したがって、開放状態はヌクレオチド単独ではなく、タンパク質の分子環境によって維持されていると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762795",
+    "title": "Molecular characterization of thermo-adapted Novirhabdovirus variants and virulence  in vivo  in rainbow trout and zebrafish at different temperatures",
+    "abstract": "Controlling viral diseases in fish is a challenge for the sustainable development of aquaculture and improving the health of fish farms. Infectious hematopoietic necrosis virus (IHNV) is a major pathogen in aquaculture. It infects cold-water fish, but loses its infectivity at temperatures above 20°C. Since fish are poikilothermic animals, their body temperature fluctuates according to that of their environment. Faced with current climate change, it is crucial to understand how these pathogens will adapt to rising temperatures. Through a strategy simulating the impact of global warming, this virus has been progressively thermo-adapted to 25°C. The selected variant, IHNV  25 , replicates at 25°C while maintaining efficient replication at low temperatures, like its parental strain. Genome sequencing and a reverse genetics approach revealed that only 9 amino acid substitutions, distributed across 4 of the 6 viral genes, were essential for thermo-adaptation. Although IHNV  25 was highly attenuated in its natural host, the rainbow trout, at any temperatures, it proved highly virulent when injected in zebrafish larvae at 20°C and 25°C, inducing severe symptoms identical to those observed in trout (hemorrhages, oedema, and exophthalmia). At both temperatures, mortality was preceded by a massive viral replication and a delayed and inefficient interferon and inflammatory response. Unlike the parental strain, IHNV  25 was also capable of infecting larvae by bath immersion at 25°C, entering via the caudal fin, thus demonstrating its ability to cross the species barrier. The identification of viral markers of thermo-adaptation will therefore be of great interest for the epidemiological surveillance of field isolates.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762795",
+    "date": "2026-10-30",
+    "authors": "Fauvet C, Gourhannic E, Mehraz M, Bernard J, Lamoureux A, Aurousseau M, Mérour E, Frétaud M, Louboutin L, Blanchard Y, Morin T, Rigaudeau D, Langevin C, Millet JK, Biacchesi S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354494",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1654,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762795"
+    ],
+    "translation": {
+      "title": {
+        "hash": "75d904638efb0cc4e8490c3a753d7a4584016abdfb82c2e57450b27a0e10c04c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:41:18.095085+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a5c1669f65d056bc6c01974228eb8ad7a3111d503ff94caf29ae44867c80f54d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:41:18.095085+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "熱適応型ノビルハブドウイルス変異株の分子特性解析および異なる温度条件下におけるニジマスとゼブラフィッシュでのin vivo病原性",
+    "abstract_ja": "魚類におけるウイルス性疾患の制御は、水産養殖の持続可能な発展および養殖場の健全性向上に向けた課題である。感染性造血器壊死ウイルス（IHNV）は、水産養殖における主要な病原体である。本ウイルスは冷水魚に感染するが、20°Cを超える温度では感染性を失う。魚類は変温動物であるため、その体温は環境温度に応じて変動する。現在の気候変動に直面する中で、これらの病原体が温度上昇にどのように適応していくかを理解することは極めて重要である。地球温暖化の影響をシミュレートした戦略により、本ウイルスを段階的に25°Cまで温度適応させた。選定した変異株であるIHNV 25は、親株と同様に低温下でも効率的な複製を維持しつつ、25°Cで複製を行う。ゲノム配列解析およびリバースジェネティクス手法により、6つのウイルス遺伝子のうち4つにわたるわずか9箇所のアミノ酸置換が、温度適応に必須であることが明らかになった。IHNV 25は、自然宿主であるニジマスにおいていかなる温度でも高度に弱毒化していたが、ゼブラフィッシュの仔魚に20°Cおよび25°Cで接種したところ、極めて強い病原性を示し、マスで観察されるものと同一の重篤な症状（出血、浮腫、および眼球突出）を誘発した。いずれの温度においても、死亡に先立って大規模なウイルス複製が起こり、インターフェロンおよび炎症反応は遅延し不効率なものとなった。親株とは異なり、IHNV 25は25°Cでの浸漬浴によっても仔魚に感染し、尾鰭から侵入することが可能であり、種の壁を越える能力を示した。したがって、温度適応のウイルスマーカーの同定は、野外分離株の疫学的サーベイランスにおいて大きな意義を持つと考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761000",
+    "title": "Network-guided identification of candidate biomarkers for COPD-associated comorbidities using deep learning and real-world transcriptomic data",
+    "abstract": "Chronic obstructive pulmonary disease (COPD) frequently coexists with infections, metabolic disease, cardiovascular disease, inflammatory lung injury and lung cancer. Molecular markers derived by comparing a comorbidity with healthy controls need not identify the transition from an established COPD state to that comorbidity. We therefore developed a two-stage computational strategy that asks a narrower question: which proteins can distinguish COPD samples from samples annotated with a specific COPD-associated comorbidity? First, a Human Protein Network (HPN; 17,302 proteins and 492,195 relationships) was encoded by 20 graph-derived features. A convolutional-neural-network ensemble, termed the functional-distance model (FDM), was trained on known drug-target–indication relationships. Stored training-set predictions yielded an apparent balanced accuracy of 0.811 and Matthews correlation coefficient (MCC) of 0.627; these values describe resubstitution performance and are not an independent estimate of generalization. The COPD-centred network search evaluated 2,645 nearby proteins and retained 224 candidates using a COPD FDM score above 0.50. Candidate expression was then tested in independently assembled public patient-derived transcriptomic data using simple one-feature classifiers and cross-validation. The resulting exploratory panel contained GTF2I for bacterial infection, UBXN7 for type 2 diabetes, LIFR for hypertension, SRGN for lung neoplasm and FGF4 for pneumonitis. Across the saved cross-validation predictions, balanced accuracy ranged from 0.838 to 0.970 and MCC from 0.726 to 0.941. SRGN has direct experimental support in non-small-cell lung cancer, whereas the remaining candidates have varying indirect mechanistic support and should be regarded as hypotheses rather than established disease biomarkers. This work demonstrates an orthogonal discovery framework in which network-based functional prioritization and patient-derived molecular discrimination constrain one another. Its main contribution is methodological: it provides a reusable strategy for generating comorbidity-specific biomarker hypotheses from an index-disease state. Prospective longitudinal cohorts are required before claims of progression prediction or clinical utility can be made.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761000",
+    "date": "2026-10-30",
+    "authors": "Mas JM, Ramírez E, Daura X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354484",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1655,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761000"
+    ],
+    "translation": {
+      "title": {
+        "hash": "789c5a53eb2eb3f6a0f7c06952cb990a03f7f5047d417d60d7632fe86a71c740",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:41:18.095085+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "109fb7029607688177cc0ee8424676150cd208a7eaafb6b8b20a8309d0bf298a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:41:18.095085+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "深層学習と実世界トランスクリプトームデータを用いたCOPD関連併存疾患のバイオマーカー候補のネットワーク誘導型同定",
+    "abstract_ja": "慢性閉塞性肺疾患（COPD）は、感染症、代謝性疾患、心血管疾患、炎症性肺損傷、および肺癌と併存することが多い。併存疾患と健常対照群を比較することで得られる分子マーカーでは、確立したCOPD状態から当該併存疾患状態への移行を特定できない場合がある。そこで我々は、より限定的な問い、すなわち「どのタンパク質が、COPD検体と特定のCOPD関連併存疾患がアノテーションされた検体を区別できるか」という点を検証する2段階の計算戦略を開発した。まず、20のグラフ由来特徴量を用いてヒトタンパク質ネットワーク（HPN；17,302個のタンパク質と492,195件の関係性）をエンコードした。機能距離モデル（FDM）と呼ばれる畳み込みニューラルネットワークアンサンブルを、既知の薬物-標的-適応症関係を用いて学習させた。保存された訓練セットの予測結果では、見かけ上のバランス正解率が0.811、マシューズ相関係数（MCC）が0.627となった。これらの値は再置換性能を示すものであり、汎化性能の独立した推定値ではない。COPD中心のネットワーク探索では、近傍のタンパク質2,645個を評価し、COPD FDMスコアが0.50を超える224個の候補を保持した。その後、独立して構築された公開患者由来トランスクリプトームデータを用いて、単純な単一特徴量分類器と交差検証により候補の発現を検証した。得られた探索パネルには、細菌感染症のGTF2I、2型糖尿病のUBXN7、高血圧のLIFR、肺腫瘍のSRGN、および肺炎のFGF4が含まれていた。保存された交差検証予測において、バランス正解率は0.838から0.970、MCCは0.726から0.941の範囲であった。SRGNは非小細胞肺癌において直接的な実験的根拠を有するが、その他の候補は間接的な機序的根拠が様々であり、確立された疾患バイオマーカーというよりは仮説として捉えるべきである。本研究は、ネットワークベースの機能的優先順位付けと患者由来の分子識別が互いに制約し合う、直交的な発見フレームワークを提示する。その主な貢献は方法論的なものであり、インデックス疾患状態から併存疾患特異的なバイオマーカー仮説を生成するための再利用可能な戦略を提供する点にある。進行予測や臨床的有用性を主張する前には、前向き縦断コホートが必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762952",
+    "title": "CyranoPS, a novel compact temperate corynephage infecting  Corynebacterium glutamicum  MB001",
+    "abstract": "Here, we describe CyranoPS, a temperate phage isolated from the river Yvette in France, using the prophage-free strain  Corynebacterium glutamicum MB001. Negative-stain electron microscopy revealed virions with siphovirus morphology. Its 14,910-bp genome has a GC content of 53.0% and 14-nt 3’ overhangs at both ends. It carries 26 predicted genes, 10 without predicted functions, and no tRNAs. CyranoPS belongs to the newly established actinophage cluster ER, whose members have the smallest known genomes among  Corynebacterium -infecting phages. Deletion of genes encoding the porin PorAH and the protein mycoloyltransferase MytC abolished infection, while genes encoding the mycomembrane proteins PorBC and ProtX were dispensable. CyranoPS established lysogeny in  C. glutamicum through chromosomal integration probably mediated by its predicted tyrosine integrase. Integration truncated the immunity repressor gene Cyr_18, resulting in a protein devoid of its 15 C-terminal residues. The truncated repressor conferred stronger protection against superinfection than the full-length repressor. CyranoPS lysogens exhibited high levels of spontaneous prophage induction, reaching 10  9 PFU/mL under standard conditions, with no further increase upon treatment with mitomycin C. These findings suggest a potentially SOS-independent lytic-lysogenic switch and establish CyranoPS as a compact model to study infection and lysogeny regulation in Mycobacteriales.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762952",
+    "date": "2026-10-30",
+    "authors": "Roigé BB, Mechrouki S, Chaouat E, Hill O, Beaure N, Frunzke J, Regeard C, Rossier O.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354447",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1656,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762952"
+    ],
+    "translation": {
+      "title": {
+        "hash": "732f275bc83b9303a85d11c22dbb60bbbd863cfa61e6c877103ab9c62e22c78b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:41:18.095085+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "563ea92b2d7ce98559d9bd03e21e4740d6e9596b25d6bfd0f98f9e498722a4de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:41:18.095085+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Corynebacterium glutamicum MB001に感染する新規の小型温帯コリネファージCyranoPS",
+    "abstract_ja": "本報では、プロファージフリー株であるCorynebacterium glutamicum MB001を用いて、フランスのイヴェット川から単離した温性ファージCyranoPSについて報告する。陰性染色電子顕微鏡観察により、シフォウイルス様形態を有するビリオンが認められた。その14,910 bpのゲノムはGC含量53.0%であり、両端に14 ntの3'オーバーハングを有する。予測遺伝子を26個保持し、そのうち10個は機能が予測されておらず、tRNAは存在しない。CyranoPSは、新たに確立されたアクチノファージクラスターERに属しており、その構成員はCorynebacterium感染ファージの中で既知の最小のゲノムを有する。ポリンPorAHおよびタンパク質マイコロイルトランスフェラーゼMytCをコードする遺伝子の欠失により感染が消失した一方、マイコメムブレンタンパク質PorBCおよびProtXをコードする遺伝子は非必須であった。CyranoPSは、おそらく予測されるチロシンインテグラーゼを介した染色体組み込みにより、C. glutamicumにおいて溶原性を確立した。この組み込みにより免疫抑制遺伝子Cyr_18が切断され、その結果、15個のC末端残基を欠くタンパク質が生成された。この切断型抑制遺伝子は、全長型抑制遺伝子よりもスーパーインフェクションに対する強力な保護能を示した。CyranoPS溶原菌は高いレベルの自発的なプロファージ誘導を示し、標準条件下で10⁹ PFU/mLに達し、マイトマイシンC処理によるさらなる増加は認められなかった。これらの知見は、SOS非依存的な溶原性-溶原性スイッチの可能性を示唆するとともに、Mycobacterialesにおける感染および溶原性調節を研究するためのコンパクトなモデルとしてCyranoPSを確立するものである。"
   }
 ]
