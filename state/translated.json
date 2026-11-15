@@ -239546,5 +239546,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ゲノムサーベイランスと臨床実践の融合：SensiTyperを用いた淋病のルールベースによる個別化治療予測",
     "abstract_ja": "広範薬剤耐性（XDR）を有する淋菌株は、現在の経験的治療を脅かしている。我々は、全ゲノムシーケンシングデータから薬剤感受性を予測し、感受性に基づいた個別化治療推奨を生成するルールベースのフレームワーク「SensiTyper」を設計し、解析的に検証した。SensiTyperを、培養分離株および臨床分子サンプルを含む、1928年から2024年までの68カ国の淋菌ゲノム13,701件に適用し、過去のゲノムおよび表現型データを用いて予測のベンチマークを行った。セフトリアキソン、シプロフロキサシン、スペクチノマイシン、およびゾリフロダシンの感受性予測は、感度および特異度ともに98.9～100%であった。アジスロマイシンの感受性予測は感度92.5%、特異度97.1%であり、ゲポチダシンの感受性予測は感度100%であったが特異度は0%であった。このことは、低レベルの表現型ゲポチダシン耐性が、既知の唯一の耐性決定因子（GyrA A92TおよびParC D86N）によって引き起こされるものではないことを示している。SensiTreatモジュールは、薬剤感受性プロファイルを逐次的な治療ロジックに統合し、感受性に基づいた個別化治療推奨を提供するとともに、例えばシプロフロキサシンを優先する代替的なスチュワードシップ戦略を可能にする。SensiTyperは、XDR分離株を専門家によるフォローアップ、治療効果判定、および包括的な接触者追跡の対象としてフラグ立てする。結論として、SensiTyperは、淋菌の薬剤感受性予測、個別化治療、および薬剤スチュワードシップのための、堅牢かつ適応性の高いアプローチである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag792",
+    "title": "SomatiX: accurate and efficient somatic SNV detection from matched tumor-normal long-read DNA sequencing.",
+    "abstract": "MotivationAccurate somatic single-nucleotide variant (SNV) calling from matched tumor-normal long-read DNA sequencing remains challenging because sequencing errors, variable tumor purity, tumor-in-normal contamination, and low variant allele fractions (VAFs) can obscure tumor-specific signals. Although recent deep-learning methods have improved long-read somatic variant calling, robust low-VAF detection and efficient genome-scale analysis remain important methodological challenges.ResultsWe present SomatiX, a deep-learning method for somatic SNV detection from matched tumor-normal long-read DNA sequencing data, built on an allele-aware pileup representation. In comprehensive cancer benchmark analyses across diverse cell-line datasets, sequencing contexts, VAF bins, and minimum variant-supporting read thresholds, SomatiX outperformed DeepSomatic and ClairS in F1 score across most Oxford Nanopore Technologies (ONT) benchmark conditions and achieved competitive performance on Pacific Biosciences (PacBio) data. Across the held-out chromosome 1 cancer cell-line benchmarks, at the threshold of ≥3 variant-supporting reads and a VAF ≥0.05, SomatiX achieved mean F1 scores of 0.986 for ONT data and 0.988 for PacBio data. SomatiX showed particularly strong performance for low-VAF SNVs in ONT data while using a compact model and achieving the fastest runtime among the evaluated tools.Availability and implementationSomatiX is available at https://github.com/colinliuzelin/SomatiX and archived at Zenodo under DOI: https://doi.org/10.5281/zenodo.22062438. The repository includes source code, trained models, and benchmarking scripts.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag792",
+    "date": "2026-11-01",
+    "authors": "Liu Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42928626",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13725752",
+    "pmid": "42928626",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4605,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/bioinformatics/btag792"
+    ],
+    "translation": {
+      "title": {
+        "hash": "71cf1d02aaf884b901bb748909c383a3a44edb9fcd2bb1714ae9e421f6a957da",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:25:50.908258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "be79e1a16ae77a517a8dccb2a866bcb6e613d8faf054057a587f34917d846687",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:25:50.908258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SomatiX：マッチド腫瘍・正常ロングリードDNAシーケンシングによる、高精度かつ効率的な体細胞SNV検出。",
+    "abstract_ja": "動機：腫瘍・正常のマッチドロングリードDNAシーケンシングデータからの正確な体細胞一塩基変異（SNV）コールは、シーケンシングエラー、腫瘍純度のばらつき、腫瘍・正常間のコンタミネーション、および変異アレル分率（VAF）の低さが腫瘍特異的なシグナルを不明瞭にするため、依然として困難な課題である。近年の深層学習手法によりロングリード体細胞変異コールは改善されたものの、堅牢な低VAF検出と効率的なゲノムスケール解析は、依然として重要な方法論的課題である。結果：本研究では、アレル認識型パイルアップ表現に基づき構築された、腫瘍・正常のマッチドロングリードDNAシーケンシングデータからの体細胞SNV検出のための深層学習手法「SomatiX」を提案する。多様な細胞株データセット、シーケンシングコンテキスト、VAFビン、および最小変異支持リード閾値にわたる包括的ながんベンチマーク解析において、SomatiXはほとんどのOxford Nanopore Technologies (ONT) ベンチマーク条件においてF1スコアでDeepSomaticおよびClairSを上回り、Pacific Biosciences (PacBio) データにおいても競争力のある性能を示した。ホールドアウトされた第1染色体がん細胞株ベンチマークにおいて、変異支持リード数3本以上かつVAF 0.05以上の閾値において、SomatiXはONTデータで平均F1スコア0.986、PacBioデータで0.988を達成した。SomatiXは、コンパクトなモデルを用いつつ、評価したツールの中で最速の実行時間を実現し、特にONTデータの低VAF SNVにおいて優れた性能を示した。利用可能性と実装：SomatiXは https://github.com/colinliuzelin/SomatiX で利用可能であり、ZenodoにDOI: https://doi.org/10.5281/zenodo.22062438 でアーカイブされている。リポジトリにはソースコード、学習済みモデル、およびベンチマークスクリプトが含まれている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bib/bbag466",
+    "title": "MultiMHC: a multiscale learning framework integrating sequence and residue contact topology for peptide-MHC binding prediction.",
+    "abstract": "Accurate prediction of peptide-major histocompatibility complex (pMHC) binding is central to understanding antigen presentation and identifying T-cell epitopes in cancer immunotherapy. Although recent methods have achieved notable progress, most approaches rely predominantly on sequence-based features and only partially capture structural determinants of pMHC recognition. In this study, we present MultiMHC, a multiscale deep learning framework that integrates complementary sequential and biologically-informed residue contact topology for pMHC binding prediction. MultiMHC combines a recurrent neural network to model global sequence context with a graph-based representation to encode residue contact patterns derived from known pMHC binding interfaces. Features from these two pathways are subsequently fused to generate binding predictions across peptides of varying lengths. Benchmark evaluations show that MultiMHC achieves performance comparable to existing state-of-the-art methods, with particularly strong performance in ranking-based assessments. Moreover, evaluation on the Tumor Neoantigen Selection Alliance dataset showed that MultiMHC binding scores can enrich experimentally validated T-cell epitopes among top-ranked candidates, supporting its potential utility as an upstream binding-based filtering step in neoantigen discovery workflows. Together, these results highlight the value of incorporating residue interaction patterns and lightweight structural information into pMHC modeling and establish MultiMHC as a robust and extensive framework for antigen presentation analysis.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag466",
+    "date": "2026-11-01",
+    "authors": "Chen W, Chi Y, Wang Y, Wu J, Wei M, Zhao W, Kang Y, Bai X, Chen S, Zhou Z, Zhou R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993783",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13742130",
+    "pmid": "42993783",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "prediction",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4600,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/bib/bbag466"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d62536808aa08e684bb4534f830e02031fb971cce65615a04de89c77ff27399f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:25:50.908258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8cf239a3050a5ff77073fddb49277c826232524d4648c3211b90e33e841a3187",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:25:50.908258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MultiMHC：ペプチド-MHC結合予測のための、配列および残基接触トポロジーを統合したマルチスケール学習フレームワーク。",
+    "abstract_ja": "ペプチド-主要組織適合性複合体（pMHC）結合の正確な予測は、抗原提示の理解およびがん免疫療法におけるT細胞エピトープの同定において中核的な役割を果たす。近年の手法は顕著な進展を遂げているものの、ほとんどのアプローチは主に配列ベースの特徴量に依存しており、pMHC認識の構造的決定因子を部分的にしか捉えられていない。本研究では、pMHC結合予測のために、相補的な逐次的手法と生物学的知見に基づく残基接触トポロジーを統合したマルチスケール深層学習フレームワーク「MultiMHC」を提案する。MultiMHCは、大域的な配列コンテキストをモデル化するためのリカレントニューラルネットワークと、既知のpMHC結合界面から導出される残基接触パターンをエンコードするためのグラフベース表現を組み合わせる。これら2つの経路から得られた特徴量はその後融合され、異なる長さのペプチドにわたる結合予測が生成される。ベンチマーク評価の結果、MultiMHCは既存の最先端手法に匹敵する性能を達成し、特にランキングベースの評価において優れた性能を示した。さらに、Tumor Neoantigen Selection Allianceデータセットを用いた評価により、MultiMHCの結合スコアが、上位候補の中から実験的に検証されたT細胞エピトープを拡充できることが示され、ネオアンチゲン探索ワークフローにおける上流の結合ベースフィルタリングステップとしての潜在的な有用性が裏付けられた。以上の結果は、残基相互作用パターンと軽量な構造情報をpMHCモデリングに組み込むことの価値を浮き彫りにするとともに、MultiMHCを抗原提示解析のための堅牢かつ広範なフレームワークとして確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001876",
+    "title": "Genomic characterization of IncC plasmid-mediated triple carbapenemase-producing <i>Providencia hangzhouensis</i> ST222.",
+    "abstract": "Providencia hangzhouensis is a recently described species within the Providencia genus that is most closely related to Providencia rettgeri and is infrequently isolated from human infections. Its clinical relevance and epidemiology remain poorly understood. Here, we describe two P. hangzhouensis isolates recovered from urine specimens from two epidemiologically linked adult patients. Carbapenemase production in both isolates was determined using the modified carbapenem inactivation method. The presence of carbapenem resistance genes, bla NDM-1, bla KPC-2 and bla VIM-24, was identified by multiplex real-time PCR and whole-genome sequencing. Both isolates belong to the novel ST222 and carry all three carbapenem resistance genes on an IncC plasmid. Genetic environment analysis revealed complex integration of mobile genetic elements; notably, bla NDM-1 was localized within the variable region of an insertion sequence common region 1 element, bla KPC-2 was located within a putative Tn3-like transposon and bla VIM-24 was identified as a gene cassette within a second class 1 integron. Epidemiological data uncovered evidence of horizontal transfer of the IncC plasmid involving a Citrobacter freundii ST185 isolate. The convergence of multiple antimicrobial resistance genes, including those conferring resistance to last-line antimicrobials, underscores the potential threat posed by this emerging drug-resistant pathogen.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001876",
+    "date": "2026-11-01",
+    "authors": "Ikhimiukor OO, Prussing C, Cummings K, Marcinkiewicz AL, Kennedy SY, Cebelius J, Nazarian EJ, Musser KA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43007298",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13750824",
+    "pmid": "43007298",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4594,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1099/mgen.0.001876"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ffcf28400b5565a979987c2a9e90f945ad46001270734156a1ed519f2d738d91",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:25:50.908258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "70adc446b3dc1018487c97db4783105c89837931df9940184db10fdf3e0c4808",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:25:50.908258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "IncCプラスミド媒介性トリプルカルバペネマーゼ産生<i>Providencia hangzhouensis</i> ST222のゲノム特性解析",
+    "abstract_ja": "Providencia hangzhouensisは、Providencia属の中で最近記載された種であり、Providencia rettgeriに最も近縁で、ヒトの感染症から分離されることは稀である。その臨床的意義および疫学については依然として十分に解明されていない。本報では、疫学的に関連のある成人患者2例の尿検体から回収されたP. hangzhouensis分離株2株について報告する。両分離株におけるカルバペネマーゼ産生能は、改良型カルバペネム不活化法を用いて判定した。カルバペネム耐性遺伝子であるbla NDM-1、bla KPC-2およびbla VIM-24の存在は、マルチプレックスリアルタイムPCRおよび全ゲノムシーケンシングにより同定された。両分離株はいずれも新規のST222に属し、IncCプラスミド上にこれら3つのカルバペネム耐性遺伝子をすべて保有していた。遺伝的環境解析により、可動性遺伝要素の複雑な組み込みが明らかになった。特に、bla NDM-1は挿入配列共通領域1エレメントの可変領域内に局在し、bla KPC-2は推定Tn3様トランスポゾン内に位置し、bla VIM-24は第2クラス1インテグロン内の遺伝子カセットとして同定された。疫学的データにより、Citrobacter freundii ST185分離株が関与するIncCプラスミドの水平伝播の証拠が明らかになった。最終ライン抗菌薬への耐性を付与するものを含む複数の薬剤耐性遺伝子の収束は、この新興の薬剤耐性病原体がもたらし得る潜在的な脅威を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1086",
+    "title": "MetabDB: an integrated resource for human metabolic measures, disease associations, and genetic evidence.",
+    "abstract": "Population-scale metabolomics studies have linked metabolic measures to diseases, quantitative traits, and genetic variation, but the results are scattered across assay platforms, phenotype definitions, and analytical formats. MetabDB integrates 16 public studies spanning nuclear magnetic resonance, mass spectrometry, and lipidomics. The current release contains 2663 metabolic measures, 3524 diseases and outcomes, 3382 other genome-wide association traits, and 2025 molecular quantitative trait locus (QTL) targets. MetabDB links genomic variants, genes and proteins, metabolic measures, and diseases or traits through variant/QTL associations, fine-mapping, rare-variant or burden analyses, colocalization, Mendelian randomization, and population associations. Metabolic measures areretained in their source-reported forms, including compounds, lipid species, lipoprotein measures, ratios, percentages, and derived traits. Gene- and protein-level evidence can be examined alongside genomic signals and related disease or trait evidence for the same metabolic measure. Source information and reported analytical details are retained, including the source study, original variable or phenotype definition, assay, unit, exposure scale, analytical model, and statistics where available. Search, browse, and colocalization pages, together with gene evidence breadth and disease-association profiles, provide access to these records. MetabDB is freely available at http://www.mulinlab.org/metabdb/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1086",
+    "date": "2026-10-31",
+    "authors": "Huang D, Shi X, Cui S, Xu Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963951",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963951",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4615,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/nar/gkag1086"
+    ],
+    "translation": {
+      "title": {
+        "hash": "070830dec01582b44aa8b517ac0015addc61de0dc8c502290bb5158782834544",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:25:50.908258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0fddf897be0c5286bd8b0843c4b2503a957e1e603b5f05e716ce9b38113e6999",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:25:50.908258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MetabDB：ヒトの代謝指標、疾患との関連、および遺伝学的根拠を網羅する統合リソース。",
+    "abstract_ja": "集団規模のメタボロミクス研究では、代謝指標と疾患、定量的形質、および遺伝的変異との関連が示されてきたが、その結果はアッセイプラットフォーム、表現型の定義、および解析形式によってばらつきがある。MetabDBは、核磁気共鳴、質量分析、およびリピドミクスにわたる16件の公開研究を統合している。本リリースには、2,663件の代謝指標、3,524件の疾患およびアウトカム、3,382件のその他のゲノムワイド関連形質、および2,025件の分子定量的形質遺伝子座（QTL）ターゲットが含まれている。MetabDBは、変異/QTL関連、ファインマッピング、希少変異または負荷解析、共局在化、メンデルランダム化、および集団関連を通じて、ゲノム変異、遺伝子およびタンパク質、代謝指標、ならびに疾患または形質を紐付ける。代謝指標は、化合物、脂質種、リポタンパク質指標、比率、パーセンテージ、および派生形質を含む、原報告時の形式で保持されている。同一の代謝指標について、遺伝子およびタンパク質レベルのエビデンスを、ゲノムシグナルや関連する疾患・形質のエビデンスと併せて検討することが可能である。原報告研究、元の変数または表現型の定義、アッセイ、単位、曝露スケール、解析モデル、および利用可能な場合は統計量を含む、出典情報および報告された解析詳細が保持されている。検索、閲覧、および共局在化ページに加え、遺伝子エビデンスの網羅性と疾患関連プロファイルにより、これらのレコードへのアクセスが可能となっている。MetabDBは、http://www.mulinlab.org/metabdb/ で無料で利用可能である。"
   }
 ]
