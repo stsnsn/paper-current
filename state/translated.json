@@ -240777,5 +240777,328 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "マイルド抽出法は、グラム陽性菌の細胞壁糖高分子の不安定な構造的特徴を保持する。",
     "abstract_ja": "グラム陽性菌の細胞壁糖高分子は、構造的完全性、細胞分裂、およびストレス耐性において極めて重要である。これらの糖高分子の構造を解明することは、細菌の基礎的な生理学を理解する上で重要であるだけでなく、ワクチン開発、ファージ療法、抗生物質の設計、および食品発酵の安全性向上を促進する可能性がある。しかし、これまでの抽出プロトコルは、こうした高分子を損傷させ、構造的完全性を損ない、生物学的機能を不明瞭にし、収率を低下させる可能性のある過酷な化学物質に依存してきた。本報では、ペプチドグリカンへの結合を含む不可欠な構造的特徴を保持したまま、グラム陽性菌から細胞壁糖高分子を単離する簡便な手法を提案する。本手法は、系統的に多様な種にわたって幅広く適用可能であり、糖高分子の種類に限定されなかった。合計で、11種から17種類の異なる糖高分子を単離し、そのうち6種類は従来報告のない構造であった。収量の中央値は培養液1リットルあたり49 mgであった。本手法の簡便さと温和な性質、そして得られた産物の極めて高い純度は、グラム陽性菌の細胞壁糖高分子に関する研究に変革をもたらす可能性を秘めている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762049",
+    "title": "Population genomics of  Candida albicans  reveals genetic footprints that allow the prediction of antifungal resistance",
+    "abstract": "Rapid detection of drug resistance in fungi is becoming increasingly urgent. While multiple loci and mutations were linked to antifungal resistance in  Candida albicans , the utility of whole genome sequencing in predicting resistance has not been tested thoroughly. We address this by integrating more than 1000  C. albicans genomes, with associated resistance phenotypes to six antifungals, a curated repository of resistance-causing mutations and variant effect predictors. We used Genome Wide Association Studies and Machine Learning approaches to associate genetic variants to resistance phenotypes. We found that well curated databases like FungAMR are able to accurately identify markers predictive antifungal resistance. Curated mutations were detected in 56–74% of isolates with reduced azole susceptibility and 57–90% of those with reduced echinocandin susceptibility, revealing incomplete coverage of resistance across both drug classes. Complementary variant- and gene-level association analyses recovered established resistance determinants and uncovered additional candidate loci, whereas copy-number changes provided limited independent explanatory power. Genomic prediction declined when genetic backgrounds were absent from training, and when leading predictive features differed among backgrounds. We also found that models trained on a curated list of mutations and variant effect predictors performed well when classifying drug-susceptible strains, but the drug-resistance trait was predicted with a lower accuracy. These findings support the potential of genome-based resistance prediction while highlighting the need for broader population sampling, functional validation of candidate variants and expanded resistance catalogues to improve prediction across genetic backgrounds.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762049",
+    "date": "2026-10-29",
+    "authors": "Jay A, Bédard C, Pageau A, Gagnon-Arsenault I, Bautista C, Kus JV, McTaggart L, Dingle TC, Shokoples S, De Luca DG, Bharat A, Dufresne PJ, Fijarczyk A, Landry CR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353400",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungi",
+        "gene",
+        "genetic",
+        "genomic",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1140,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762049"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f19a359f53439887ca66ebcbce5c90d38183d67b4c13961cdb54b1e31398a5fa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:39:11.289560+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a43830e012534d8711344eccb7393e000a8d55185bab075414bc64a0fd42c2a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:39:11.289560+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Candida albicansの集団ゲノミクスにより、抗真菌薬耐性の予測を可能にする遺伝的フットプリントが明らかになった。",
+    "abstract_ja": "真菌における薬剤耐性の迅速な検出はますます急務となっている。Candida albicansの抗真菌耐性には複数の遺伝子座や変異が関与していたが、耐性予測における全ゲノムシーケンシングの有用性は十分に検証されていない。本研究では、1,000件以上のC. albicansゲノムと、6種類の抗真菌薬に対する関連耐性表現型、耐性原因変異のキュレーション済みリポジトリ、および変異効果予測因子を統合することで、この課題に取り組む。我々は、ゲノムワイド関連解析および機械学習手法を用いて、遺伝的変異と耐性表現型との関連付けを行った。その結果、FungAMRのような適切にキュレーションされたデータベースが、抗真菌耐性を予測するマーカーを正確に同定できることが明らかとなった。キュレーション済みの変異は、アゾール系薬剤への感受性が低下した分離株の56～74%、およびエキノカンジン系薬剤への感受性が低下した分離株の57～90%で検出され、両薬剤クラスにわたる耐性の網羅性が不十分であることが示された。相補的な変異レベルおよび遺伝子レベルの関連解析により、既知の耐性決定因子が回収され、さらに追加の候補遺伝子座が発見された一方、コピー数変化による独立した説明能は限定的であった。遺伝的背景が学習に含まれていない場合や、主要な予測特徴量が背景間で異なる場合には、ゲノム予測の性能が低下した。また、キュレーション済みの変異リストと変異効果予測因子を用いて学習させたモデルは、薬剤感受性株の分類においては良好な性能を示したが、薬剤耐性形質の予測精度は低下した。これらの知見は、ゲノムに基づく耐性予測の可能性を支持すると同時に、遺伝的背景を横断して予測精度を向上させるためには、より広範な集団サンプリング、候補変異の機能的検証、および耐性カタログの拡充が必要であることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.761787",
+    "title": "Thylakoid plasticity primes photoprotection in diatoms",
+    "abstract": "Summary  For many millions of years, diatoms have been major primary producers in marine ecosystems, supporting food webs and contributing to carbon sequestration through the export of photosynthetically fixed carbon to the deep ocean, mitigating atmospheric carbon dioxide levels and global climate. A key factor in their ecological success is their ability to rapidly adapt to fluctuating light, balancing efficient light harvesting under dim conditions with energy dissipation under excess light. However, the mechanisms behind this regulation have not been fully elucidated. This study shows that several processes contribute to dissipating excess excitation energy in diatoms exposed to light stress: (i) the detachment of the oxygen-evolving complex proteins from the PSII core, leading to energy dissipation via charge recombination, (ii) Non-Photochemical Quenching (NPQ) in the antenna, i.e., thermal dissipation of excited states and (iii) excitation energy transfer from PSII to PSI via energy spillover. The latter process is observed in parallel with high light-induced topological changes of the thylakoids that may favour transient interactions between the photosystems. Along with the accumulation of light-stress-protecting carotenoids on longer time-scales, this ensemble of photoprotective mechanisms provides a dynamic and flexible response to the light challenges expected in coastal marine habitats.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.761787",
+    "date": "2026-10-29",
+    "authors": "Perez Compte D, Tolleter D, Uwizeye C, Giustini C, Pernet L, Fenel D, Moriscot C, Wietrzynski W, Ünnep R, Nagy G, Garab G, Jouneau P, Schoehn G, Krieger-Liszkay A, Engel BD, Albanese P, Finazzi G, Flori S.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353361",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatoms",
+        "diatom"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 1142,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.761787"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2073aa6f60bb045373affc716fa3dd007ee6c8f3388bf9aa159d0ef0147b6d4e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:39:11.289560+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e59a442a76321f20e8a7fee4665f3f18be78ce862b6cb0440ef8b8cb40ea0414",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:39:11.289560+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "チラコイド可塑性が珪藻の光保護を準備する",
+    "abstract_ja": "要旨  数百万年にわたり、珪藻は海洋生態系における主要な一次生産者として、食物網を支え、光合成によって固定された炭素を深海へ輸送することで炭素隔離に寄与し、大気中の二酸化炭素濃度と地球規模の気候を緩和してきた。その生態学的成功の鍵となる要因は、変動する光に迅速に適応し、低照度条件下での効率的な光捕集と、過剰光下でのエネルギー散逸とのバランスを保つ能力にある。しかし、この調節機構の詳細は十分に解明されていない。本研究は、光ストレスにさらされた珪藻において、過剰な励起エネルギーの散逸に複数のプロセスが寄与していることを示す：(i) PSIIコアからの酸素発生複合タンパク質の解離による電荷再結合を介したエネルギー散逸、(ii) アンテナにおける非光化学的消光（NPQ）、すなわち励起状態の熱散逸、および(iii) エネルギースピルオーバーを介したPSIIからPSIへの励起エネルギー伝達である。後者のプロセスは、光化学系間の一過性相互作用を促進する可能性のある、チラコイドの高光誘導性トポロジカル変化と並行して観察される。より長い時間スケールでの光ストレス保護カロテノイドの蓄積と相まって、これらの光保護機構のアンサンブルは、沿岸海洋生息地で想定される光ストレスに対し、動的かつ柔軟な応答を可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762313",
+    "title": "Engineered probiotics target granulomas to treat mycobacterial infection",
+    "abstract": "Granulomas are a pathological niche for mycobacteria that remain difficult to access with conventional therapies. Here we show that probiotic  Escherichia coli Nissle 1917 (EcN) infiltrates and colonizes granulomas and can be engineered as a delivery system that senses the local microenvironment and releases antimycobacterial payloads. Specifically, we leveraged the hypoxic microenvironment of necrotic granulomas to restrict bacterial growth, and developed a dual-mode lysis circuit combining intracellular and extracellular killing for sustained payload release with limited evolutionary escape. We further engineered EcN to express a mycobacteriophage-derived enzyme, generating a strain that suppressed drug-sensitive and drug-resistant mycobacteria in vitro and potentiated conventional antibiotic activity. Engineered probiotics also reduced mycobacterial burden in vivo, and in a murine model of rifampicin-resistant infection, combination treatment with pretomanid achieved greater bacterial reduction than either monotherapy. Together, these results establish a synthetic biology framework for targeting granulomatous infections with programmable living microbes.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762313",
+    "date": "2026-10-29",
+    "authors": "Chen Y, Harimoto T, Makafe GG, Coker C, Kim H, Im J, Jing Y, Jin H, Hu X, Zutshi S, Raneri MR, Weinrick B, Danino T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353244",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1144,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762313"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aa8f29b75d90c5b31cb2b4b23f8ca903fc3855e81434e8323794333809bd228b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:39:11.289560+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "327ace8f9ffad5ed3ddb10be4c46accd49ff6cfefaa9166035f8468127e8d12d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:39:11.289560+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "工学的プロバイオティクスは、マイコバクテリア感染症の治療を目的として肉芽腫を標的とする。",
+    "abstract_ja": "肉芽腫は、従来の治療法では到達が困難なマイコバクテリアの病理学的ニッチである。本研究では、プロバイオティクスである大腸菌Nissle 1917（EcN）が肉芽腫に浸潤・定着すること、および局所微小環境を感知して抗マイコバクテリア性ペイロードを放出するデリバリーシステムとして設計可能であることを示す。具体的には、壊死性肉芽腫の低酸素微小環境を利用して細菌の増殖を抑制し、細胞内および細胞外殺傷を組み合わせたデュアルモード溶解回路を開発することで、進化的な逃避を制限しつつ持続的なペイロード放出を実現した。さらに、EcNにマイコバクテリウムファージ由来酵素を発現させるよう設計し、in vitroで薬剤感受性および薬剤耐性マイコバクテリアを抑制し、従来の抗生物質活性を増強する株を作製した。また、設計したプロバイオティクスはin vivoにおいてもマイコバクテリア負荷を減少させ、リファンピシン耐性感染症のマウスモデルにおいて、プレトマニダとの併用療法は、いずれかの単剤療法よりも高い細菌減少効果を示した。以上の結果を総合すると、プログラム可能な生きた微生物を用いて肉芽腫性感染症を標的とする合成生物学的フレームワークが確立された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11122869/v1",
+    "title": "Biopolyester Production Using Fruit Wastes as a Substrate by Soil Bacteria",
+    "abstract": "Abstract    The global dependence on petroleum-based plastics has led to severe environmental challenges due to their non-biodegradability and persistence in ecosystems. Biopolyesters, particularly polyhydroxyalkanoates (PHAs), have emerged as promising biodegradable alternatives due to their microbial origin, biocompatibility, and sustainable nature. The present study focused on the isolation and characterization of soil bacteria capable of synthesizing biopolyesters using fruit wastes—apple, orange, and banana peels—as renewable and cost-effective carbon substrates. Soil enrichment was performed through mulching with fruit and organic waste to stimulate the proliferation of biopolymer-producing bacteria, thereby enhancing the presence of naturally efficient PHA-accumulating strains in the soil environment. Primary screening for biopolyester producers was performed using Sudan Black B dye, while confirmatory screening employed Nile Blue A. Among twelve isolates, seven showed positive results for biopolymer accumulation, confirming their PHA-producing capability. Quantitative analysis using E  ₂  medium revealed that isolates MS-5 and MS-7 have the highest polyester production efficiencies, highlighting their superior metabolic potential. Subsequent fermentation experiments using fruit wastes as sole carbon sources demonstrated that apple peels provided the most favorable substrate for polyester yield, followed by orange and banana peels. The strain MS-7 produced quantities of polyester comparable to the positive control  Ralstonia eutropha  MTCC1285, further supporting its suitability as an efficient biopolymer-producing organism. Phylogenetic identification through 16S rRNA sequencing confirmed that MS-7 showed 99.83% sequence similarity with  Bacillus sp  ., validating its genetic affiliation with this genus and supporting the accuracy of its taxonomic placement. Extraction of biopolyester was optimized through a novel sonication-assisted method employing ethylene carbonate, which achieved comparable yields to conventional chloroform extraction but with significantly reduced toxicity and cost, demonstrating a more sustainable and environmentally safe extraction approach. Fourier Transform Infrared Spectroscopy (FTIR) analysis confirmed the presence of functional groups characteristic of polyhydroxybutyrate (PHB), validating the polymer identity, although slight intensity differences indicated minor impurities in the extracted sample. Plasmid curing experiments using ethidium bromide demonstrated that the biopolyester synthesis ability of isolates was chromosomally encoded rather than plasmid-mediated, indicating stable inheritance of the trait.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11122869/v1",
+    "date": "2026-10-29",
+    "authors": "- S, Hidayath H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353041",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Bacillus",
+        "bacteria",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1146,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11122869/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5ec33e3bf439893b058a94beffcc7d024b40688046d392f2ee37be18e19e8a9f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:39:11.289560+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b411978e78428cb6c2df28308807c710669d8a13b495d6d85420cec813ee5b29",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:39:11.289560+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "土壌細菌による果実廃棄物を基質としたバイオポリエステル生産",
+    "abstract_ja": "要旨    石油系プラスチックへの世界的な依存は、その非生分解性と生態系における残留性により、深刻な環境課題を引き起こしている。バイオポリエステル、特にポリヒドロキシアルカノエート（PHA）は、微生物由来であること、生体適合性、および持続可能性から、有望な生分解性代替品として注目されている。本研究では、リンゴ、オレンジ、バナナの皮といった果実廃棄物を再生可能かつ費用対効果の高い炭素基質として用い、バイオポリエステルを合成可能な土壌細菌の単離および特性解析に焦点を当てた。果実および有機廃棄物によるマルチングを通じて土壌富化を行い、バイオポリマー産生菌の増殖を促進することで、土壌環境における天然の高効率なPHA蓄積株の存在を高めた。バイオポリエステル産生菌の一次スクリーニングにはSudan Black B色素を、確認スクリーニングにはNile Blue Aを用いた。12株の分離株のうち、7株がバイオポリマー蓄積において陽性反応を示し、そのPHA産生能が確認された。E  ₂  培地を用いた定量分析により、分離株MS-5およびMS-7が最も高いポリエステル生産効率を示すことが明らかとなり、その優れた代謝能が浮き彫りとなった。続いて、果実廃棄物を唯一の炭素源として用いた発酵実験を行った結果、リンゴの皮がポリエステル収量において最も好適な基質であり、次いでオレンジおよびバナナの皮であることが示された。株MS-7は、陽性対照であるRalstonia eutropha  MTCC1285と同等の量のポリエステルを産生し、効率的なバイオポリマー産生生物としての適性がさらに裏付けられた。16S rRNAシーケンシングによる系統同定の結果、MS-7はBacillus sp  .と99.83%の配列類似性を示し、本属との遺伝的親縁性が検証されるとともに、分類学的位置付けの正確性が支持された。バイオポリエステルの抽出は、エチレンカーボネートを用いた新規の超音波アシスト法によって最適化され、従来のクロロホルム抽出と同等の収量を得つつ、毒性とコストを大幅に低減させることで、より持続可能で環境的に安全な抽出手法が実証された。フーリエ変換赤外分光法（FTIR）分析により、ポリヒドロキシブチレート（PHB）に特徴的な官能基の存在が確認され、ポリマーの同一性が検証されたが、強度のわずかな差から、抽出試料に軽微な不純物が含まれていることが示された。エチジウムブロミドを用いたプラスミド硬化実験により、分離株のバイオポリエステル合成能はプラスミド介在性ではなく染色体によってコードされていることが示され、この形質が安定的に継承されていることが明らかになった。"
   }
 ]
