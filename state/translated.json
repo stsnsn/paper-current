@@ -237927,5 +237927,339 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ジカウイルス感染時における広範かつ不均一なウイルス環状RNAの産生",
     "abstract_ja": "環状RNA（circRNA）は、調節機能を有する共有結合性の閉環RNA分子である。DNAウイルスではウイルス由来circRNA（vcircRNA）が十分に特性解析されているが、RNAウイルスにおけるその存在については依然として十分に解明されていない。コロナウイルスおよびC型肝炎ウイルスに関する最近の報告は、vcircRNAの産生が核複製ウイルスにとどまらないことを示唆している。本研究では、ベクター媒介性オルソフラビウイルスであるジカウイルス（ZIKV）が、神経幹細胞への感染時にvcircRNAを産生することを示す。ウイルスのバックスプライス接合部検出用に最適化した独自の計算パイプラインを用い、感染後72時間時点で、3つの生物学的レプリケート間で共通し、ウイルスゲノム全体に分布する113種類の推定vcircRNAのコアセットを同定した。異なるゲノム領域および存在量にわたる8種類の候補について、ローリングサークル逆転写法およびNanoporeシーケンシングにより実験的に検証した。これらの知見は、オルソフラビウイルスにおけるvcircRNA産生の初の証拠となるものであり、環状RNAの生合成がRNAウイルス生物学においてこれまで十分に認識されてこなかった特徴である可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11103134/v1",
+    "title": "A novel chromosomally encoded OXA-12-like β-lactamase variant (bla OXA-1433 ) in a new Aeromonas veronii sequence type (ST3591) from ready-to-eat oysters",
+    "abstract": "Abstract    Antibiotic resistance, a natural feature of bacterial evolution, is not confined to clinical settings but actively circulates across aquatic and terrestrial ecosystems, food chains, and animal and human populations. Aquatic ecosystems serve both as reservoirs of resistance determinants and as sources of food production, making seafood a critical interface for human exposure to environmentally derived resistance genes. This study aimed to characterize a novel chromosomally encoded OXA-12-like β-lactamase variant (  bla  OXA−1433  ) identified in a new  Aeromonas veronii  sequence type (ST3591) isolated from ready-to-eat oysters, and to investigate its genetic, structural, and phenotypic features. The isolate was subjected to hybrid whole-genome sequencing using short- and long-read technologies, followed by genome assembly, multilocus sequence typing, genomic context characterization, and antimicrobial susceptibility testing. The novel  bla  OXA−1433  variant was further characterized through sequence and phenotypic analyses. MLST analysis revealed a novel sequence type (ST3591), while genome mining identified a previously undescribed OXA-12-like β-lactamase variant. OXA-1433 shared 95.08% amino acid identity with OXA-12 and differed by 13 amino acid substitutions while retaining the conserved motifs characteristic of class D β-lactamases. Genomic context analysis demonstrated that  bla  OXA−1433  was chromosomally located within a conserved genomic region lacking detectable mobile genetic elements. Phenotypic assays demonstrated imipenem hydrolysis, consistent with carbapenemase activity. The identification of a novel  A. veronii  sequence type carrying a previously undescribed OXA-12-like β-lactamase variant expands current knowledge of the genetic diversity of this species in food-associated environments and highlights the value of genomic surveillance of seafood-associated bacteria for monitoring the evolution of antibiotic resistance determinants.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11103134/v1",
+    "date": "2026-10-29",
+    "authors": "Rocha G, Ribas MR, Palmeiro JK, Sincero TCM, Cunha MV.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353087",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 292,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11103134/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9cabaae4d2263d70d1514e3117e0c5df6fd39e9118ae8e658451649e7299629f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:09:32.597106+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0bf1b910d8915f83f7a0948ad7d6968d2f8f8cdebbd4771ebd636181912d3410",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:09:32.597106+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "即食牡蠣由来の新たなAeromonas veronii配列型（ST3591）における、新規の染色体コード型OXA-12様β-ラクタマーゼ変異株（bla OXA-1433）",
+    "abstract_ja": "要旨    細菌進化の自然な特徴である薬剤耐性は、臨床現場にとどまらず、水圏および陸圏の生態系、食物連鎖、ならびに動物およびヒトの集団において活発に循環している。水圏生態系は、耐性決定因子のリザーバーであると同時に食料生産の源でもあり、そのため水産物は、環境由来の耐性遺伝子にヒトが曝露するための極めて重要な接点となっている。本研究では、即食牡蠣から単離された新規のAeromonas veronii配列型（ST3591）において同定された、新規の染色体コード型OXA-12様β-ラクタマーゼ変異株（bla OXA−1433）の特性解析を行い、その遺伝的、構造的、および表現型的特徴を調査することを目的とした。当該分離株に対し、ショートリードおよびロングリード技術を用いたハイブリッド全ゲノムシーケンシングを実施し、続いてゲノムアセンブリ、マルチローカス配列タイピング、ゲノムコンテキスト特性解析、および薬剤感受性試験を行った。新規のbla OXA−1433変異株については、配列解析および表現型解析を通じてさらに特性解析を行った。MLST解析により新規の配列型（ST3591）が明らかとなり、ゲノムマイニングによりこれまで報告されていなかったOXA-12様β-ラクタマーゼ変異株が同定された。OXA-1433はOXA-12と95.08%のアミノ酸同一性を示し、クラスDβ-ラクタマーゼに特徴的な保存モチーフを保持しつつ、13箇所のアミノ酸置換が見られた。ゲノムコンテキスト解析により、bla OXA−1433は、検出可能な可動性遺伝要素を欠く保存されたゲノム領域内に染色体上に位置することが示された。表現型アッセイでは、カルバペネマーゼ活性と一致するイミペネム加水分解が認められた。これまで報告されていなかったOXA-12様β-ラクタマーゼ変異株を有する新規のA. veronii配列型の同定は、食品関連環境における本種の遺伝的多様性に関する現在の知見を拡充するものであり、薬剤耐性決定因子の進化をモニタリングする上での水産物関連細菌のゲノムサーベイランスの有用性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11293285/v1",
+    "title": "Community structure and hidden phylogenetic diversity of marine fungi in the tropical Indian and western Pacific Oceans",
+    "abstract": "Abstract    Background  Marine fungi remain a poorly understood component of ocean ecosystems despite their potential roles in marine biogeochemical cycling. Here, we investigated fungal diversity, community structure, vertical stratification, and environmental drivers across the tropical Indian and western Pacific Oceans using long-read 28S rRNA gene amplicon sequencing of 113 samples from surface waters, mesopelagic and bathypelagic zones, and sediments. Results  A total of 46,938 fungal OTUs were clustered, representing 35 phyla, 164 classes, 254 orders, 509 families, 940 genera, and 1,055 species. Ascomycota dominated fungal communities, followed by Basidiomycota, Chytridiomycota, Rozellomycota. Phylogenetic analyses revealed three deeply divergent fungal lineages distinct from currently recognized phyla. Pending further molecular and morphological validation, these lineages were provisionally designated as Candidate.Taichumycota, Candidate.Shizhenmycota, and Candidate.Xihemycota. Their distinct vertical stratification suggested potential ecological differentiation: Candidate.Taichumycota was restricted to surface waters, Candidate.Shizhenmycota was broadly distributed but enriched in surface communities, whereas Candidate.Xihemycota occurred across habitats and was particularly enriched in sediments. Both fungal taxonomic and functional compositions exhibited significant vertical differentiation across habitats (  p",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11293285/v1",
+    "date": "2026-10-29",
+    "authors": "Huang L, Xu L, Jiang H, Chai G, Li Y, Gong S, Yu K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352947",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 293,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11293285/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a8a9201da8fb73612266d98bc2efbf01b1c7b05ee977e260adc4bd811b965cc7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:09:32.597106+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cfb9a51a085567b5fcae083a3672ee32dc6846c2fc4bea2729fe337ed96b1646",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:09:32.597106+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "熱帯インド洋および西太平洋における海洋菌類の群集構造と潜在的な系統的多様性",
+    "abstract_ja": "要旨    背景  海洋真菌は、海洋生物地球化学的循環において潜在的な役割を担っているにもかかわらず、海洋生態系の構成要素として十分に解明されていない。本研究では、表層水、中深層および深海域、ならびに堆積物から得られた113サンプルを対象に、ロングリード28S rRNA遺伝子アンプリコンシーケンシングを用いて、熱帯インド洋および西太平洋における真菌の多様性、群集構造、垂直層化、および環境駆動要因を調査した。結果  計46,938個の真菌OTUがクラスター化され、35門、164綱、254目、509科、940属、1,055種が認められた。真菌群集では子嚢菌門が優占し、次いで担子菌門、ツボカビ門、ロゼル菌門の順であった。系統解析の結果、現在認められている門とは異なる、大きく分岐した3つの真菌系統が明らかになった。さらなる分子生物学的および形態学的検証を待つ段階であるが、これらの系統は暫定的にCandidate.Taichumycota、Candidate.Shizhenmycota、およびCandidate.Xihemycotaと命名された。これらの異なる垂直層化は、生態学的な分化の可能性を示唆していた。Candidate.Taichumycotaは表層水に限定して分布し、Candidate.Shizhenmycotaは広く分布していたが表層群集に富んでいた一方、Candidate.Xihemycotaは多様な生息環境に分布し、特に堆積物に富んでいた。真菌の分類学的および機能的組成の双方において、生息環境間で有意な垂直的分化が認められた（  p"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762472",
+    "title": "Crossfeeding interactions in a minimal marine chitin-degrading community",
+    "abstract": "Communities of heterotrophic particle-associated marine bacteria contribute to oceanic carbon cycling through interspecies interactions that can influence polysaccharide degradation. While these interactions have been extensively studied using single natural isolates or pairwise combinations thereof, their mechanistic relevance within multispecies communities remains unclear. To address this gap, we developed MCC4, a minimal chitin-degrading bacterial community consisting of two chitin degraders and two non-degrading isolates that represent globally prevalent marine bacterial taxa. We show that the community remains stable across ten growth-dilution cycles, establishing a reproducible model for controlled multi-isolate experiments. Using transcriptomic and metabolomic analyses combined with metabolite supplementation assays, we uncovered the underlying crossfeeding network. While one degrader drives chitin degradation, the other exploits chitin monomers and chitooligomers generated by the main degrader. The two non-degraders are sustained by consuming deacetylated chitin monomers, 2-carbon compounds, nucleotides, and branched-chain amino acids, likely released by degraders. Community assembly is driven by competitive scavenging abilities, potentially complemented by specific survival strategies such as increased motility and deployment of type VI secretion systems. Despite its simplicity, MCC4 captures dynamic microbial interactions characteristic of natural marine ecosystems. It offers a tractable, reproducible framework for investigating how environmental perturbations impact community function and testing ecological theories in particle-associated marine environments. Funding  We gratefully acknowledge funding from the Simons Foundation Principles of Microbial Ecosystems (PriME) collaboration (542395 to U.S.).",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762472",
+    "date": "2026-10-29",
+    "authors": "Haavisto V, Sauer U.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354363",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 459,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762472"
+    ],
+    "translation": {
+      "title": {
+        "hash": "671f496eaa923aa2a7d75c683b234354cf86039160abcf9046ccd2233e98a4e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:09:32.597106+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3d76f06b15b668abd2f693bfeca810c1b708835df330732d93d5aedbb3ba4636",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:09:32.597106+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "最小規模の海洋キチン分解生物群集における交差給餌相互作用",
+    "abstract_ja": "従属栄養性の粒子付着海洋細菌群集は、多糖類の分解に影響を及ぼし得る種間相互作用を通じて、海洋の炭素循環に寄与している。こうした相互作用は、単一の天然分離株あるいはそれらのペアワイズ組み合わせを用いて広範に研究されてきたが、多種群集におけるメカニズム上の関連性は依然として不明である。この知見の空白を埋めるため、我々は、世界的に普遍的に存在する海洋細菌分類群を代表する2種のキチン分解菌と2種の非分解分離株からなる最小のキチン分解細菌群集「MCC4」を開発した。我々は、この群集が10回の増殖希釈サイクルにわたって安定であることを示し、制御された多分離株実験のための再現可能なモデルを確立した。トランスクリプトーム解析およびメタボローム解析を代謝物補充アッセイと組み合わせることで、その根底にあるクロスフィーディングネットワークを明らかにした。一方の分解菌がキチン分解を駆動する一方で、もう一方は主分解菌によって生成されたキチンモノマーおよびキイトオリゴマーを利用している。2種の非分解菌は、分解菌によって放出されたと考えられる脱アセチル化キチンモノマー、2炭素化合物、ヌクレオチド、および分岐鎖アミノ酸を消費することで維持されている。群集の形成は競争的なスカベンジング能力によって駆動されており、運動性の亢進やタイプVI分泌系の展開といった特異的な生存戦略によって補完されている可能性がある。シンプルながらも、MCC4は天然の海洋生態系に特徴的な動的な微生物相互作用を捉えている。本モデルは、環境摂動が群集機能にどのような影響を及ぼすかを調査し、粒子付着海洋環境における生態学的理論を検証するための、扱いやすく再現可能な枠組みを提供する。資金提供：Simons Foundation Principles of Microbial Ecosystems (PriME) コラボレーション（542395 to U.S.）からの資金提供に深く感謝する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202609.2603.v2",
+    "title": "Unexplained Febrile Syndromes in Sub-Saharan Africa: Etiological Diversity, Diagnostic Challenges and Emerging Diagnostic Approaches—A Narrative Review",
+    "abstract": "Unexplained febrile syndromes represent a major diagnostic and public health challenge in Sub-Saharan Africa. Although malaria remains an important cause of fever, an increasing proportion of febrile episodes is attributable to nonmalarial etiologies, encompassing a wide range of bacterial, viral, parasitic, and fungal infections, as well as noninfectious causes. Their etiological characterization remains limited by the low specificity of clinical manifestations, the heterogeneity of definitions and diagnostic algorithms, and insufficient laboratory capacity. Microscopy, rapid diagnostic tests, cultures, and serology remain essential in resource-limited settings, but their targeted nature and variable performance may lead to diagnostic dead ends. Emerging approaches, particularly multiplex PCR, next-generation sequencing, and clinical metagenomics, offer new opportunities to broaden the diagnostic spectrum, identify neglected or emerging pathogens, and strengthen surveillance. However, their integration requires strengthening laboratory networks, quality systems, and human resources, as well as evaluating their relevance and cost-effectiveness. An integrated approach based on the “One Health” concept appears essential to improve the diagnosis and surveillance of febrile illnesses in Sub-Saharan Africa.",
+    "journal": "",
+    "doi": "10.20944/preprints202609.2603.v2",
+    "date": "2026-10-29",
+    "authors": "Keita AK, Gnimadi TAC, Kande A, Diallo H, Soumah AK, Kaba D, Toure A, Fenollar F, Mediannikov O, Keita AK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353654",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "metagenom",
+        "metagenomics",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 461,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202609.2603.v2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ef7721259144ff4bdef845d8220e6f7a637e08939adf6767c26c3c3732df3c8f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:09:32.597106+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "48e43ecba6a2e0ea29cd83c49ff3cebdc2805b622448490c5af9c0e73c14ebab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:09:32.597106+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サハラ以南アフリカにおける原因不明の発熱症候群：病因の多様性、診断上の課題、および新たな診断アプローチ――ナラティブレビュー",
+    "abstract_ja": "原因不明の発熱症候群は、サハラ以南のアフリカにおいて診断および公衆衛生上の重大な課題となっている。マラリアは依然として発熱の重要な原因であるが、発熱エピソードに占める非マラリア性病因の割合が増加しており、これには広範な細菌性、ウイルス性、寄生虫性、真菌性感染症のほか、非感染性の原因も含まれる。これらの病因の特性解明は、臨床症状の特異度の低さ、定義や診断アルゴリズムの不均一性、および検査体制の不足によって依然として制約を受けている。資源の限られた環境においては、顕微鏡検査、迅速診断検査、培養、および血清学的検査が引き続き不可欠であるが、その標的性の高さと性能のばらつきにより、診断上の行き詰まりを招く可能性がある。新たなアプローチ、特にマルチプレックスPCR、次世代シーケンシング、および臨床メタゲノミクスは、診断範囲の拡大、見過ごされてきた、あるいは新興の病原体の同定、およびサーベイランスの強化に向けた新たな機会を提供する。しかし、これらの統合には、検査ネットワーク、品質管理システム、および人的資源の強化に加え、その妥当性と費用対効果の評価が必要である。「ワンヘルス」概念に基づく統合的アプローチは、サハラ以南のアフリカにおける発熱性疾患の診断およびサーベイランスを改善する上で不可欠であると考えられる。"
   }
 ]
