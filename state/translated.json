@@ -236390,5 +236390,305 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "微細藻類Dunaliella salinaにおける細胞死の標準化された検出のための形態学的二重染色フレームワーク",
     "abstract_ja": "要旨    藻類の細胞死を検出するための簡便かつ普遍的なプロトコルが存在しないことは、水圏生態学および炭素循環研究における主要なボトルネックとなっている。本研究は、3-(4,5-ジメチルチアゾール-2-イル)-2,5-ジフェニルテトラゾリウム臭化物（MTT）とヨウ素染色の並列的な標識法に基づく実用的な診断フレームワークを確立することで、このギャップを埋めるものであり、光独立栄養生物の生存能を支える2つの柱である代謝活性（呼吸電子伝達系を介したもの）と光合成貯蔵の完全性を同時に解析する。ハロゲン耐性かつ壁を持たないモデル生物であるDunaliella salinaを用い、環境的に関連性の高いストレス要因に本手法を適用した。その結果、生存可能な細胞を明確に区別し、アポトーシス様、壊死、原形質溶解、および微生物汚染による新規の分泌型死という4つの異なる死の表現型を一貫して分類することができた。特筆すべきは、光誘導性壊死が、タイプII光線力学療法に類似した、一重項酸素介在性殺傷の形態学的特徴を示した点である。極めて重要な点として、マハルルー超塩湖の自然集団においても同一の死のシグネチャーが検出され、生態学的妥当性が確認された。堅牢でフィールド適応性の高いツールキットを提供するだけでなく、本研究の知見は、炭素固定を行う単細胞生物における細胞死の標準化された命名法および診断基準の欠如という、学問分野における重大な空白を浮き彫りにした。これらの生物は地球規模の炭素固定のほぼ半分を担っているため、その死亡率を定量化することは、炭素固定および成長モデルの改良、炭素フラックスの正確な予測、水圏炭素吸収源のレジリエンス評価、および気候変動の影響評価において不可欠である。したがって、我々は「炭素固定単細胞生物における細胞死に関する国際コンソーシアム」を提案し、細胞死表現型の定義を標準化し、この二重染色プロトコルを通じて手法を統一し、死亡率を炭素固定および成長モデルに明示的に組み込み、さらに研究室ベースの生存能指標を、生態系およびフォトバイオリアクタースケールの炭素管理のための予測ツールへと転換することを目指す。我々のフレームワークは、この世界的な標準化への取り組みにとって不可欠な方法論的基盤を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762748",
+    "title": "Protein co-scientist aided simulations of the structural and functional impact of O-GlcNAc Transferase TPR domain deletions and amino acid substitutions associated with X-Linked Intellectual Disability",
+    "abstract": "O-GlcNAc transferase (OGT) is an essential glycosyltransferase that regulates cellular processes through the addition of O-linked β-N-acetyglucosamine (O-GlcNAc) to target proteins. Substrate recognition and protein-protein interactions are mediated by the tetratricopeptide repeat (TPR) domain, yet the contributions of individual TPR repeats to structural stability and function remain poorly understood. Here, we employed an integrated computational framework combining an AI protein co-scientist, Speak to a Protein, which incorporates Boltz-2 for structure prediction and rDock for ligand binding evaluation, with external tools including AlphaFold3 for more advanced structure prediction and the HDOCK server for protein-protein docking. This framework was used to investigate how deletions of TPR domains and disease-associated amino acid substitutions within the TPR domain affect OGT structure and function. Five synthetic truncation OGT isoforms, thirteen single-TPR deletion variants, and five X-linked intellectual disability (XLID)-associated amino acid substitutions were modeled and aligned to wild-type OGT for comparison. Structural perturbations were quantified using backbone root mean square deviation (RMSD), while functional effects were assessed through docking analyses with UDP-GlcNAc, Host Cell Factor 1 (HCF1), and Tet methylcytosine dioxygenase 1 (TET1). Variation in TPR length altered global protein structure and induced long-range conformational changes within the catalytic domain despite no sequence modifications in that region. Single TPR deletions showed that individual repeats contribute unequally to structural stability, with deletions in mid-to-late TPR domains producing the largest structural disruptions. Disease-associated amino acid substitutions also generated conformational changes and reduced predicted ligand binding, consistent with known reductions in enzymatic activity in XLID. Protein-protein docking analyses demonstrated substrate-specific effects, as domain deletion and amino acid substitution variants of OGT had different interactions with TET1 and HCF1. Collectively, these findings identify the TPR domain as a regulatory domain that governs structure, ligand recognition, and protein interactions. More broadly, this work demonstrates how the integration of a protein co-scientist with protein structure modeling tools can be used to predict the structural and functional consequences of domain deletions or natural amino acid variants.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762748",
+    "date": "2026-10-30",
+    "authors": "Barth S, Bechard A, Krafft A, Yip C, Aboagye C, Fehl C, Siwo GH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354267",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "amino acid",
+        "protein",
+        "simulation"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "amino acid",
+          "protein",
+          "simulation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3254,
+    "collected_at": "2026-11-11T10:55:29.934283+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.29.762748"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b656fa7e190ef197efe799c850daab6aeb20db780c12b9e77a52c368d232af64",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:55:59.973016+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "996de5925dbe269f673d15c7cc8b4585f855ded8d392e1db41dc630a36c1f2a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:55:59.973016+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質共同研究者は、X連鎖性知的障害に関連するO-GlcNAc転移酵素TPRドメインの欠失およびアミノ酸置換が構造的・機能的に及ぼす影響のシミュレーションを支援した。",
+    "abstract_ja": "O-GlcNAc転移酵素（OGT）は、標的タンパク質にO結合型β-N-アセチルグルコサミン（O-GlcNAc）を付加することで細胞プロセスを調節する必須のグリコシル転移酵素である。基質認識およびタンパク質間相互作用はテトラトリコペプチドリピート（TPR）ドメインによって媒介されるが、個々のTPRリピートが構造安定性と機能に果たす寄与については十分に解明されていない。本研究では、構造予測にBoltz-2を、リガンド結合評価にrDockを組み込んだAIタンパク質共同サイエンティスト「Speak to a Protein」と、より高度な構造予測のためのAlphaFold3およびタンパク質間ドッキングのためのHDOCKサーバーを含む外部ツールを組み合わせた統合的な計算フレームワークを用いた。このフレームワークを用いて、TPRドメインの欠失およびTPRドメイン内の疾患関連アミノ酸置換がOGTの構造と機能にどのような影響を及ぼすかを調査した。5種類の合成切断型OGTアイソフォーム、13種類の単一TPR欠失変異体、および5種類のX連鎖性知的障害（XLID）関連アミノ酸置換をモデル化し、比較のために野生型OGTとアライメントした。構造摂動は主鎖の二乗平均平方根偏差（RMSD）を用いて定量し、機能的影響はUDP-GlcNAc、宿主細胞因子1（HCF1）、およびTetメチルシトシンジオキシゲナーゼ1（TET1）とのドッキング解析を通じて評価した。TPR長の変動は、当該領域に配列改変がないにもかかわらず、タンパク質全体の構造を変化させ、触媒ドメイン内で長距離のコンフォメーション変化を誘発した。単一TPR欠失では、個々のリピートが構造安定性に不均等に寄与することが示され、TPRドメインの中部から後部の欠失が最大の構造的乱れを引き起こした。疾患関連アミノ酸置換もコンフォメーション変化を生じさせ、予測されるリガンド結合を低下させたが、これはXLIDにおける酵素活性の低下として知られている現象と一致していた。タンパク質間ドッキング解析では、OGTのドメイン欠失変異体とアミノ酸置換変異体がTET1およびHCF1に対して異なる相互作用を示すことから、基質特異的な影響が認められた。総じて、これらの知見は、TPRドメインが構造、リガンド認識、およびタンパク質相互作用を制御する調節ドメインであることを明らかにしている。より広範には、本研究は、タンパク質共同サイエンティストとタンパク質構造モデリングツールの統合が、ドメイン欠失や天然アミノ酸変異による構造的・機能的帰結を予測するためにどのように活用できるかを示すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762690",
+    "title": "CpxR-CpxS two-component system exacerbates development of antibiotic resistance in  Pseudomonas aeruginosa",
+    "abstract": "Pseudomonas aeruginosa , as a member of the ESKAPE pathogens, is well known for its ability to develop multidrug resistance following antibiotic therapy. Overexpression of the efflux pumps, often caused by dysfunction of related transcriptional factors, is well known as a common mechanism underpins multidrug resistance. Previous work showed direct regulatory link of CpxR-CpxS, an OmpR-EnvZ family two-component system, with the expression of the predominant MexAB-OprM efflux pump in  P. aeruginosa . However, the contribution of this regulatory link to the development of antibiotic resistance has not been fully elucidated. In this work, it has been shown that deletion of  cpxR , but not  cpxS , reduces the emergence of multidrug resistant colonies almost 1000 times lower compared to the parental wild type  P. aeruginosa PA14 following sub-lethal antibiotic exposure, suggesting that apart from CpxS, other sensory component(s) or pathway(s) can also mediate CpxR activity in the development of antibiotic resistance in  P. aeruginosa . We further demonstrate that when glucose is used as the sole carbon source, it leads to increased expression levels of  mexA and reduced antibiotics susceptibilities in the PA14Δ  cpxS strain in a  cpxR dependent manner. GtrS, another EnvZ family sensor kinase, but not the well-known AckA-Pta pathway, mediates this glucose effects. Both  in vivo and  in vitro evidences support that GtrS can activate CpxR in a cross-talk manner in the absence of CpxS. Besides  gtrS , at least four other sensor kinase genes (  envZ ,  tctE ,  phoR and  colS ) can exert activation effect upon CpxR in the PA14Δ  cpxS strain. Having the risk of multiple way to antibiotic resistance development,  cpxS null mutations can be emerged in  P. aeruginosa clinical isolates. Since many OmpR-EnvZ family two-component system have been shown to be engaged in antibiotic resistance, its potential risk of exacerbating antibiotic resistance in ESKAPE pathogens has been discussed.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762690",
+    "date": "2026-10-30",
+    "authors": "Tian Z, Tian A, Ko KS, Wang Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354525",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3306,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.28.762690"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a77d0124c4123f4f668c23d4c9d4517c40779fcd26006d36abbb66a45c7aaccc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:55:59.973016+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "073a867f088926a97570719e0673d584efbdf084e907d0c9bc0e2c46a7a1823b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:55:59.973016+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CpxR-CpxS二成分系はPseudomonas aeruginosaにおける抗生物質耐性の獲得を増強する。",
+    "abstract_ja": "ESKAPE病原体の一種であるPseudomonas aeruginosaは、抗生物質治療後に多剤耐性を獲得する能力でよく知られている。関連する転写因子の機能不全によってしばしば引き起こされる排出ポンプの過剰発現は、多剤耐性を支える一般的なメカニズムとしてよく知られている。先行研究では、OmpR-EnvZファミリーの2成分系であるCpxR-CpxSが、P. aeruginosaにおける主要な排出ポンプであるMexAB-OprMの発現と直接的に調節的に関連していることが示されている。しかし、この調節的関連性が抗生物質耐性の獲得にどのように寄与しているかについては、十分に解明されていない。本研究では、cpxSではなくcpxRの欠失が、亜致死量の抗生物質曝露後の多剤耐性コロニーの出現を、親株である野生型P. aeruginosa PA14と比較してほぼ1,000分の1に減少させることが示された。このことは、CpxS以外にも、他のセンサー成分や経路がP. aeruginosaにおける抗生物質耐性の獲得においてCpxR活性を媒介し得ることを示唆している。さらに、グルコースを唯一の炭素源として用いた場合、PA14Δ cpxS株においてcpxR依存的にmexAの発現レベルが上昇し、抗生物質感受性が低下することを実証した。このグルコース効果を媒介するのは、別のEnvZファミリーセンサーキナーゼであるGtrSであり、よく知られたAckA-Pta経路ではない。in vivoおよびin vitroの両方の証拠により、CpxSが存在しない条件下でも、GtrSがクロストーク様式でCpxRを活性化し得ることが支持されている。gtrS以外にも、少なくとも4つの他のセンサーキナーゼ遺伝子（envZ、tctE、phoR、colS）がPA14Δ cpxS株においてCpxRに活性化効果を及ぼし得る。抗生物質耐性獲得への経路が複数存在するリスクがあるため、P. aeruginosaの臨床分離株においてcpxSのヌル変異が出現し得る。多くのOmpR-EnvZファミリー2成分系が抗生物質耐性に関与していることが示されているため、ESKAPE病原体における抗生物質耐性を増悪させる潜在的なリスクについて考察した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762886",
+    "title": "More insights into the dynamic assembly and rotation of the archaellum motor machinery",
+    "abstract": "Archaea use the archaellum for swimming motility. Rotation of the archaellum is driven by the ATPase ArlI and the membrane platform protein ArlJ. Structural studies suggest that conformational changes in ArlI power the rotation of ArlJ. However, how ATP hydrolysis is converted into rotation remains poorly understood. Using single-molecule total internal reflection fluorescence (TIRF) microscopy, we show that dimeric ArlJ forms a complex with ArlI. Combining conservation analysis, AlphaFold3 predictions and co-purifications, we identified conserved ArlJ residues required for interaction with ArlI, including a structurally rigid loop and the critical residue R341 at the ArlI interface. Motility assays in  Haloferax volcanii confirmed these findings. Together, these findings support a model in which a dimeric ArlJ is interacting with ArlI via conserved residues to generate torque.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762886",
+    "date": "2026-10-30",
+    "authors": "Joest M, Wüllner F, Schimpf J, Vollmar L, Steyer E, Kumariya R, Hugel T, Albers S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354511",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3307,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.29.762886"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5c1e69c202884d29ace0a2b445770ecdb9fde00a9668f1eca38cd3ae79e5dc0a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:55:59.973016+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9f618425dba20e4caaca9d7df08a9a6a2b0c6a7a4aaafd3bca5e00264dfe459f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:55:59.973016+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アーケラムのモーター機構の動的な組み立てと回転に関するさらなる知見",
+    "abstract_ja": "古細菌は、遊泳運動にアーキアラムを用いる。アーキアラムの回転は、ATPaseであるArlIと膜プラットフォームタンパク質であるArlJによって駆動される。構造解析研究により、ArlIのコンフォメーション変化がArlJの回転を駆動することが示唆されている。しかし、ATP加水分解がどのように回転へと変換されるのかについては、依然として十分に解明されていない。単分子全反射蛍光（TIRF）顕微鏡法を用いて、二量体ArlJがArlIと複合体を形成することを示した。保存性解析、AlphaFold3による予測、および共精製を組み合わせることで、構造的に剛直なループやArlI界面の重要残基R341など、ArlIとの相互作用に必要な保存的ArlJ残基を同定した。Haloferax volcaniiを用いた運動能アッセイにより、これらの知見が確認された。以上の結果を総合すると、二量体ArlJが保存的残基を介してArlIと相互作用し、トルクを発生させるというモデルが支持される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762704",
+    "title": "Dengue Virus Serotype 2 Infection Transcriptionally Reprograms Host Neutrophils to Establish an Immunosuppressive Microenvironment in Mice",
+    "abstract": "Dengue virus (DV) infection triggers profound alterations in host immune responses, yet the transcriptomic reprogramming of innate immune cells during disease progression remains incompletely understood. Here, we demonstrated that Dengue virus serotype 2 (DV-2) infection transcriptionally reprograms host neutrophils, establishing an immunosuppressive microenvironment that facilitates pathogenesis. Through scRNA transcriptomic profiling of bone marrow and spleen cells from the DV-2-infected AG129 mouse model, we delineated a distinct neutrophil signature that shows dynamic shifts in immature and activated populations over the course of dengue infection. We also characterized a specific Ly6G  low subpopulation, notably Fibrinogen-like protein 2 (FGL2)-expressing subsets, that appeared with disease progression. Serum FGL2 levels were significantly elevated in both DV-2-infected mice and human dengue-positive patients. Furthermore, treatment of splenocytes with FGL2 or FGL2-enriched neutrophil secretomes suppressed T cell functional activity and promoted an immunosuppressive phenotype. Together, these findings reveal how DV-2-driven neutrophil reprogramming shapes an immunosuppressive network, highlighting the importance of studying FGL2-expressing neutrophil subsets to understand dengue immunopathogenesis.  Added value of this study  This study provides the single-cell transcriptomic map of neutrophil heterogeneity during dengue virus serotype 2 infection in a mouse model, uncovering a critical temporal shift from early protective subsets to a severe-stage, immunosuppressive Ly6G  low and immature subpopulation. Progression triggers an abnormal cell subpopulation (Ly6G  low ) that secretes the soluble protein Fibrinogen-like protein 2 (FGL2) and suppresses T cell functional activity, promoting an immunosuppressive phenotype. By validating elevated plasma FGL2 levels in human dengue patients, this work identifies Ly6G  low neutrophil subsets that secrete FGL2 as a possible mediator of immunosuppression in severe dengue in the mouse model.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762704",
+    "date": "2026-10-30",
+    "authors": "Rawat S, Chhetri A, Nimesh S, Pandey AD, Sadhu S, Siddqui G, Samal S, Awasthi A, Banerjee A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354299",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3344,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.29.762704"
+    ],
+    "translation": {
+      "title": {
+        "hash": "846e2d5429743fbda4e02e01db2107496b472b7ea789600beaaca8dc0df96062",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:55:59.973016+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "61d6cd0e3fda5c69181e1e3c4912e58f54ac0cf79c38d795e1efcfc9d1d57eaf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:55:59.973016+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "デングウイルス血清型2感染は、マウスにおいて宿主好中球を転写的に再プログラミングし、免疫抑制性微小環境を構築する。",
+    "abstract_ja": "デングウイルス（DV）感染は宿主の免疫応答に著しい変化をもたらすが、疾患進行過程における自然免疫細胞のトランスクリプトーム・リプログラミングについては、いまだ十分に解明されていない。本研究では、デングウイルス血清型2（DV-2）感染が宿主の好中球を転写的にリプログラミングし、病態形成を促進する免疫抑制性微小環境を構築することを実証した。DV-2感染AG129マウスモデルの骨髄および脾細胞を用いたscRNAトランスクリプトームプロファイリングにより、デング感染の経過に伴い未成熟および活性化集団が動的に変化する、特徴的な好中球シグネチャーを明らかにした。また、疾患進行に伴って出現する特異的なLy6G lowサブポピュレーション、特にフィブリノゲン様タンパク質2（FGL2）発現サブセットを特性解析した。血清FGL2レベルは、DV-2感染マウスおよびヒトデング陽性患者の双方において有意に上昇していた。さらに、脾細胞をFGL2またはFGL2濃縮好中球セクレトームで処理すると、T細胞の機能的活性が抑制され、免疫抑制性表現型が促進された。これらの知見を総合すると、DV-2誘導性の好中球リプログラミングがいかにして免疫抑制ネットワークを形成するかが明らかになり、デングの免疫病態形成を理解する上でFGL2発現好中球サブセットを研究することの重要性が浮き彫りとなった。本研究の付加価値：本研究は、マウスモデルにおけるデングウイルス血清型2感染時の好中球不均一性のシングルセル・トランスクリプトームマップを提供し、初期の保護的サブセットから、重症期の免疫抑制性Ly6G lowおよび未成熟サブポピュレーションへの重要な時間的移行を明らかにした。疾患の進行は、可溶性タンパク質であるフィブリノゲン様タンパク質2（FGL2）を分泌しT細胞の機能的活性を抑制する異常細胞サブポピュレーション（Ly6G low）を誘発し、免疫抑制性表現型を促進する。ヒトデング患者における血漿中FGL2レベルの上昇を検証することで、本研究は、マウスモデルにおける重症デングの免疫抑制の潜在的な媒介因子として、FGL2を分泌するLy6G low好中球サブセットを同定した。"
   }
 ]
