@@ -249623,5 +249623,334 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "IBSにおけるNMRメタボロームと便性状：レイヤー別マルチオミクス比較",
     "abstract_ja": "要旨    背景  過敏性腸症候群（IBS）は極めて不均一であり [1]、分類学に基づく既存の生物学的サブタイピング（16S/メタゲノム種）は、被験者レベルの検証下では予測能が限られている。本研究では、実際の臨床ラベル（IBSサブタイプ、IBS-SSS重症度、ブリストル便性状）を用い、複数のオミクス層にわたる統一的な被験者グループ別クロスバリデーション比較を行い、外部コホート（ターゲットドメインラベルとの接触ゼロ）においてホールドアウト・ゼロショット検証およびラベルブラインドのトランスダクティブ・クロスコホート安定性選択を完了させた。中核となる比較タスクはブリストル便性状回帰であり、3クラスタスクは補助的な対照としてのみ機能する。  方法  Cell 2020の縦断的マルチオミクスコホート [2]（被験者75名、臨床ラベル付き便サンプル464検体：IBS-D 169、IBS-C 142、健常者153。層別可用性は異なり、属/種 457、KO/KEGG 459、NMR 445）を用いた。便日記から構築したブリストルスコア（サンプル441、被験者67；IBS-D 4.92 ＞ 健常者 3.94 ＞ IBS-C 2.93、方向検証済み）を中核的な定量的表現型とした。属/種分類、SHOGUN KEGGオーソロジー（KO）遺伝子、KEGGパスウェイ（375個を集約）、NMRメタボローム（19）、胆汁酸（12）、トリプトファン代謝物（12）、およびNMR+分類の組み合わせ（163次元）の8つの特徴層を比較した。すべてのモデリングには、ネスト型チューニングを用いた被験者グループ別5分割クロスバリデーション（StratifiedGroupKFold/GroupKFold）を採用した。回帰にはRidge/ElasticNetを用い（OOF R²およびSpearman ρで評価）、分類にはL2ロジスティック回帰を用いた。層間の一貫性は、機能的ポテンシャルと代謝物プールのSpearman相関（n = 423）で評価した。Cell 2020で学習させたモデルを凍結し、Jacobs 2023コホート [3]（サンプル368 × 代謝物601）でゼロショットのブラインドテストを行った。最後に、ソースドメインのクローズドループ安定性選択（ソースドメイングループ化されたブートストラップのみを用いた π_uni_cell、B = 300；ターゲットドメインの未ラベル特徴量のみを用いたプラットフォームシフトKS；事前スクリーニングのネスト型とフルネスト型の2つの感度レベルを用い、リサンプリング内でゲートを再計算）を実施した。セレクタを凍結した後、Jacobs（2000 × ペアブートストラップ）でフルホールドアウト・ゼロショット評価を行い、クロスプラットフォームで安定したコア（Iron-Core）を定義した。MiBioGenマイクロバイオームGWAS [4] とIBS GWAS (GCST90016564) [5] の間で、27の候補属がIBSリスクに及ぼす潜在的な因果効果を検証するため、2サンプル・メンデルランダム化（MR）を用いた（IVW/重み付き中央値/MR-Egger ＋ Cochran Q および leave-one-out感度、グローバルBH-FDR補正）。  結果  ① 分類層は、フルサンプルにおけるIBS-D/C/健常者の3クラスタスクで信号が限定的であった（属 0.506 ± 0.077, 95% CI [0.421, 0.595]、置換p = 0.005；種 0.520 ± 0.134, 95% CI [0.434, 0.611]；偶然 = 0.333）。共通の完全サブセットでは0.556/0.559まで上昇し、NMRとクラスターを形成した（②参照）。IBS-SSS重症度については信頼できる信号が得られなかった（属のバランス正解率 = 0.500, 95% CI [0.420, 0.578]、置換p = 0.458；70個の特徴量のうちq ρ = 0.468（有意なのは16/19）であり、共通の完全サブセットでも最高値を維持した（0.193 vs 0.196））。そのOOF R²点推定値は分類層（属 0.089/サブセット 0.037；種 0.043/サブセット − 0.023）、胆汁酸（0.053/0.073）、トリプトファン（0.023/0.015）、および機能遺伝子層（KO 0.005/−0.039; KEGG 0.036/−0.008）を上回った。フィルタリング前のNMR+属結合モデルは0.171/0.165で、NMRより低かった。同一の有病率でフィルタリング（= 0.10）した後、結合モデルは0.204（19 NMR + 68属、n = 424）となり、NMR単独と有意な差はなかった（Δ R²=+0.006, 95% CI − 0.081–+0.095, p = 0.454）。この初期の「結合希釈」は、主にフィルタリングされていない低有病率属に起因していた。中位層（属、種、胆汁酸、トリプトファン）の順序はサンプル組成に敏感であり（サブセット内で属と胆汁酸が入れ替わった）、強い順位付けの主張とはならない。補助的な3クラスタスクでは、フルサンプルのNMRバランス正解率は0.558 ± 0.085であったが、共通サブセットのNMR（0.556）では属（0.556）、種（0.559）、および結合（0.565）とクラスターを形成し、互いに区別がつかなかった。分類タスクにおける層の順序はサンプル組成に敏感であり、「分類にはNMRが最適である」という証拠にはならない。NMR内のShapley分解では、SCFA群の限界寄与度はφ = 0.106であり、アミノ酸群のφ = 0.045の2.4倍であった（SCFA除去後のΔ R²=0.076, p = 0.002；AA除去後のΔ R²=0.016, p = 0.085, 有意ではない）。これにより、「SCFAの優位性」を定性的な順序付けから再現可能な分解結論へと格上げした。③ ブリストル便性と最も強く正の相関を示したマーカーは、酢酸（ρ = 0.414）、酪酸（0.379）、リシン（0.374）、チロシン（0.311）、プロピオン酸（0.297）、コハク酸（0.273）、および分岐鎖アミノ酸（0.19–0.23）であった。分岐鎖短鎖脂肪酸である2-メチル酪酸が唯一の有意な負の相関因子（− 0.185）であった。④ サブタイプ内（探索的）：NMRはIBS-C内で信号を維持した（ρ = 0.288, 被験者クラスターブートストラップ 95% CI [+ 0.074, + 0.483]; R² CIはゼロを跨いだ）。IBS-D内では頑健な信号は検出されなかった（ρ = −0.263, 95% CI [− 0.573, + 0.128] ゼロを跨ぐ, P(ρ ≥ 0) = 0.083; R²=−0.048, 95% CI [− 0.226, − 0.001] 負側であり、予測能がないことを示す）。n ≈ 150という検出力制約の下では、これは探索的な仮説に過ぎず、サブタイプ内の教師なしサブグループ化を支持するには不十分である。⑤ 層間検証：機能的ポテンシャルと代謝物プールは概ね弱く結合していたが、酪酸産生コミュニティゲノム存在量マーカーbcd (K00248, ブチリルCoA脱水素酵素遺伝子, 非律速酵素) は便中酪酸プールと有意に正の相関を示した（ρ = 0.265, q = 8×10⁻⁶）。BSH/baiは胆汁酸プールとの関連を示さず、「ポテンシャル≠活性」であった。⑥ ゼロショット・クロスコホート検証（Cell 2020 → Jacobs 2023）：11の共有代謝物モデルは Diarrhea vs Constipation+Mixed AUC = 0.647（D vs C感度 0.676）、ρ =+0.278 を達成し、11/11で方向再現が認められた（片側符号検定 p = 4.9×10⁻⁴; 特徴量は独立ではないため、このp値は記述的なものに過ぎない）。ランダムな11特徴量ベースラインのAUC = 0.506（95% CI 0.434–0.589, p = 0.005）であったが、人口統計学的情報のみ（年齢/BMI/性別）のベースラインですでにAUC = 0.593（95% CI 0.509–0.675）に達していた。また、R11の人口統計学的情報に対する増加量は+ 0.053（95% CI − 0.045–+0.153, p = 0.148）であり、有意ではなかった。測定不能なSCFAを含むフル特徴量モデルはAUC = 0.558まで低下した。特徴量の転移可能性は、クロスコホート一般化における第一の制約である。⑦ ソースドメインのクローズドループ安定性選択（ラベルブラインド・トランスダクティブ：π_uni_cell ≥ 0.8 + プラットフォームシフトKS ; 凍結後、フルホールドアウトのターゲットコホートでのゼロショットAUCは0.634（95% CI 0.559–0.705）、ρ =+0.243であり、11の共有特徴量セット（R11, 0.647; ペアΔ AUC = − 0.013, p = 0.805）と有意な差はなく、補完されたSCFAを含むフル16特徴量セット（F16, 0.558; Δ AUC = + 0.075, p = 0.013）よりも有意に高かった。⑧ 2サンプルMR（属→IBS因果検定、代謝物層に依存しない；313の剪定SNPs → 259の調和SNPs）：現在の操作変数の検出力および近似的な距離剪定の枠組みでは、頑健な潜在的因果効果は検出されなかった（最小FDR = 0.835）。最も強い名目上の信号はBifidobacterium (OR = 1.070 [1.004–1.141], p = 0.039) とEubacterium hallii群 (OR = 1.074, p = 0.062) であり、いずれもヘテロジニティが低く（Cochran Q p > 0.7）、水平多面発現の証拠はなく（Eggerインターセプト p > 0.85）、leave-one-out推定値は安定していたが、観察方向と因果方向は収束しなかった。Roseburiaは名目上の保護傾向を示したが（OR = 0.930, p = 0.219）、これは正の観察相関（ρ =+0.284）とは逆であった。結論  被験者グループ別のクロスバリデーションにおいて、ブリストル連続形質回帰タスクで点推定OOF R²が最も高かった層は代謝物であり（NMR内で、SCFA群が支配的：Shapley φ = 0.106, 2.4倍 φ = 0.045）、分類や機能遺伝子ポテンシャルではなかった。クロスコホートのプラットフォーム堅牢なコアはデータ駆動型であり、5つの代謝物（リシン、チロシン、ウラシル、グルコース、ロイシン）で条件付き安定を示し、フルホールドアウトのターゲットコホートにおいて、特徴量の少ない11の共有特徴量セットと有意な差のない識別を達成し（0.634 vs 0.647）、16特徴量のフルモデル（0.558）よりも有意に高かった。結果は、方向性の一貫性という3つのメカニズム軸を支持しているが、証拠レベルは異なる。SCFA→セロトニン→腸管運動は、主にNMR内の証拠（Shapley φ = 0.106, 一貫したマーカー方向スペクトラム）によって支持される。タンパク質分解発酵フィンガープリントは、BCAA/芳香族アミノ酸の方向性の一貫性によって支持される。胆汁酸–TGR5分泌運動軸は、胆汁酸層Top6と軟便の方向性の正の相関によってのみ支持されており、機能的/因果的な検証（「ポテンシャル≠活性」）は欠けている。単一層の比較では、特徴量層の順位は「機能的ポテンシャル ＞ 分類 ＞ 代謝ポテンシャル」であった。この順位はブリストル回帰タスクの単一層比較にのみ適用され、サブタイプ分類に外挿すべきではない（3クラスタスクにおいて、NMRと分類層は共通サブセットで区別がつかず、順位も頑健ではなかった）。また、結合モデルにおいても同様であった（同一のフィルタリング後、結合モデルはNMRと有意な差がなかった）。さらに、予測強度とドメイン間転移可能性は等価ではないことが示された。クロスコホートの安定コアは、ドメイン内で最強の特徴量ではない。2サンプルMRはさらに、現在の操作変数の検出力および近似的なLD剪定の枠組みでは、主流の候補属とIBSリスクの間に頑健な潜在的因果証拠は検出されず（FDR補正後有意なものはない）、観察されたマイクロバイオーム–表現型の関連の因果的解釈には、より大規模なサンプル、双方向設計、およびより強力な手法が必要であることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11280378/v1",
+    "title": "Detection and molecular characterization of Tomato yellow leaf curl virus in Ukraine",
+    "abstract": "Abstract    Tomato yellow leaf curl virus (  Begomovirus flavisolanum  , TYLCV) is one of the most economically important viral pathogens of tomato worldwide, yet information regarding its molecular diversity in Ukraine has been limited. This study aimed to investigate the occurrence, molecular characteristics, and phylogenetic relationships of TYLCV isolates circulating in Ukrainian vegetable production systems. A total of 34 symptomatic tomato plants representing different cultivars were collected from several regions of Ukraine and analyzed by conventional PCR targeting the coat protein gene. Eighteen samples (52.9%) tested positive for TYLCV, while all healthy control plants were negative. In addition, TYLCV was detected in chili pepper (  Capsicum frutescens  ) and zucchini (  Cucurbita pepo  var.  giraumontia  ) growing adjacent to infected tomato plants, indicating a broader cultivated host range under field conditions. Partial genome sequencing of eight representative isolates generated GenBank accessions PX234052–PX234057, PX234062, and PX234063. Phylogenetic analyses based on Neighbor-Joining, Minimal Evolution, and Maximum Likelihood methods consistently demonstrated that Ukrainian isolates constitute a genetically homogeneous population with nucleotide identities exceeding 99%. Most isolates clustered tightly together, whereas isolate PX234052 represented the most divergent variant and the zucchini isolate (PX234057) formed a slightly differentiated branch while remaining within the TYLCV clade. Comparison with representative international sequences showed that all Ukrainian isolates grouped within the TYLCV-Israel (TYLCV-IL) lineage, exhibiting the closest relationship to isolates from Israel and Mediterranean countries, suggesting a common evolutionary origin. The limited genetic diversity observed among Ukrainian isolates indicates either a relatively recent introduction of TYLCV or the continued spread of a restricted number of closely related viral genotypes. These findings provide the first comprehensive molecular characterization of TYLCV populations in Ukraine and establish a baseline for future epidemiological surveillance, vector monitoring, and phytosanitary management. The detection of TYLCV in tomato, pepper, and zucchini further emphasizes the importance of integrated disease management and continuous monitoring of alternative cultivated hosts to reduce virus dissemination.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11280378/v1",
+    "date": "2026-10-27",
+    "authors": "Gerilovych A, Shevchenko N, Bashtan N, Miroshnichenko T, Chaiuk O, Ivchenko T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351160",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 498,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11280378/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6f3ced781fd8f06b3c8ce2f8634d11fdb40cad1825de311fb71cb7f9658bffa6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:43:50.057305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7e0c0263f66f7c3ac24c8ec076e98ed220c255faaa628d23dc272e700d321dac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:43:50.057305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウクライナにおけるトマト黄化葉巻ウイルスの検出および分子特性解析",
+    "abstract_ja": "要旨    トマト黄化葉巻ウイルス（Begomovirus flavisolanum, TYLCV）は、世界的に見て経済的に最も重要なトマトのウイルス性病原体の一つであるが、ウクライナにおけるその分子多様性に関する情報は限られている。本研究は、ウクライナの野菜生産体系で流通しているTYLCV分離株の出現状況、分子特性、および系統関係を調査することを目的とした。ウクライナの複数の地域から、異なる栽培品種を代表する症状のあるトマト植物計34株を採取し、コートタンパク質遺伝子を標的とした従来法によるPCR解析を行った。18検体（52.9%）がTYLCV陽性と判定された一方、健全な対照植物はすべて陰性であった。さらに、感染したトマト植物に隣接して栽培されていたトウガラシ（Capsicum frutescens）およびズッキーニ（Cucurbita pepo var. giraumontia）からもTYLCVが検出され、圃場条件下では栽培宿主の範囲がより広いことが示された。代表的な8株の分離株の部分ゲノム配列解析により、GenBankアクセッション番号PX234052–PX234057、PX234062、およびPX234063が生成された。ネイバージョイン法、最小進化法、および最尤法に基づく系統解析の結果、ウクライナの分離株はヌクレオチド同一性が99%を超える遺伝的に均質な集団であることが一貫して示された。ほとんどの分離株は密接にクラスターを形成していたが、分離株PX234052は最も分岐した変異株であり、ズッキーニ分離株（PX234057）はTYLCVクレード内に留まりつつも、わずかに分化した分岐を形成していた。代表的な国際配列との比較により、ウクライナのすべての分離株がTYLCV-イスラエル（TYLCV-IL）系統に属し、イスラエルおよび地中海沿岸諸国の分離株と最も近縁であることが示され、共通の進化起源が示唆された。ウクライナの分離株間で観察された遺伝的多様性の限定的さは、TYLCVが比較的最近に導入されたか、あるいは限定的な数の近縁なウイルス遺伝子型が拡散し続けていることを示唆している。これらの知見は、ウクライナにおけるTYLCV集団の初の包括的な分子特性解析を提供するものであり、今後の疫学サーベイランス、媒介生物モニタリング、および植物検疫管理のための基礎を確立するものである。トマト、トウガラシ、およびズッキーニにおけるTYLCVの検出は、ウイルスの拡散を抑制するための統合的な病害管理および代替栽培宿主の継続的なモニタリングの重要性をさらに強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11342114/v1",
+    "title": "Aquifer geochemistry shapes microbial diversity and carbon and nitrogen cycling potential",
+    "abstract": "Abstract    Despite the importance of groundwater and its ecosystem functions, including nitrogen cycling, subsurface microbial biodiversity and ecology remain poorly understood globally. We investigated how aquifer geochemistry shapes microbial diversity and metabolic potential across Aotearoa New Zealand using shotgun metagenomics of 39 groundwater samples from 11 regions. We recovered 494 high- and medium-quality metagenome-assembled genomes (MAGs), which clustered into four groups (A, B, C1 and C2), based on hydrochemistry, and differed significantly in taxonomy and metabolic pathways. Cluster A had the highest microbial diversity and was dominated by uncultured taxa, particularly  Patescibacteria  . Carbon fixation pathways, predominantly the Calvin-Benson-Bassham and reductive tricarboxylic acid cycles, varied among clusters and were associated with different redox metabolisms. Aerobic respiration pathways also differed, particularly the microaerophilic  cbb  3  cytochrome  c  oxidase. Differences were also observed in nitrogen, sulfur, carbohydrate and organic acid metabolism, with several MAGs strongly correlated with nitrate, sulfate and potassium. Our findings demonstrate that aquifer geochemistry is a major determinant of microbial community structure and metabolic potential across Aotearoa New Zealand groundwater ecosystems.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11342114/v1",
+    "date": "2026-10-27",
+    "authors": "Houghton KM, Moreau M, Tschritter C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351157",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenome-assembled genome",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 499,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11342114/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e55ac875eed8eb7a0cbae212b7337a005ebdcb599b05f01ab38e139f84c57aa6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:43:50.057305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a6d6af0caffd8e1e091ddb28d43ef242ce195d423da0b2a2f83221db9c4aa78c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:43:50.057305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "帯水層の地球化学的特性が微生物の多様性と炭素・窒素循環能を規定する",
+    "abstract_ja": "要旨    地下水の重要性や、窒素循環を含むその生態系機能にもかかわらず、地下の微生物生物多様性と生態学は世界的に依然として十分に解明されていない。本研究では、11地域から採取した39検体の地下水サンプルを用いたショットガンメタゲノミクスにより、アオテアロア・ニュージーランド全域において帯水層の地球化学が微生物多様性と代謝能にどのような影響を及ぼすかを調査した。その結果、メタゲノムアセンブルされた高品質および中品質のゲノム（MAG）を494件回収し、これらは水化学的特性に基づき4つのグループ（A、B、C1、C2）に分類され、分類学的特性および代謝経路において有意な差異が認められた。クラスターAは微生物多様性が最も高く、未培養の分類群、特にPatescibacteriaが優占していた。炭素固定経路（主にカルビン・ベンソン・バッシャム回路および還元的トリカルボン酸回路）はクラスター間で異なり、それぞれ異なる酸化還元代謝に関連していた。好気呼吸経路にも差異が認められ、特に微好気性のcbb 3 シトクロムc オキシダーゼに顕著であった。また、窒素、硫黄、炭水化物、および有機酸の代謝においても差異が観察され、複数のMAGが硝酸塩、硫酸塩、およびカリウムと強い相関を示した。本研究の結果は、アオテアロア・ニュージーランドの地下水生態系において、帯水層の地球化学が微生物群集構造と代謝能の主要な決定要因であることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761992",
+    "title": "Analysis of genome sequences of marine isolates of  Saccharomyces cerevisiae",
+    "abstract": "Saccharomyces cerevisiae is the workhorse of the fermentation industry, as well as a dominant laboratory model organism and chassis for synthetic biology. The great majority of known isolates are from terrestrial sources, but a number of strains are reported to have been isolated from seawater and marine sediments and organisms. Marine strains may have superior tolerance to salt and fermentation inhibitors, and other properties which may be useful in industry, especially in processes based on seawater and marine biomass, as well as casting new light on the physiology and evolution of this species. We have recently reported the isolation of several marine strains of  S. cerevisiae and comparisons with terrestrial strains for ethanol production. Here we describe the genome sequences of three marine  S. cerevisiae strains, AZ65, AZ118 and AZ123. To the best of our knowledge, these are the first genome sequences of marine  S. cerevisiae strains for which published isolation data are available. Superior salt and inhibitor tolerance of the strains, compared to multiple terrestrial and industrial comparators, was confirmed. Analysis of the  ENA locus, believed to be related to salt tolerance in  S. cerevisiae , did not show strong evidence for modification of copy number, protein sequence, or promoter sequence of this locus in response to a marine habitat. The physiological and genetic basis of salt and inhibitor tolerance thus remains to be determined.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761992",
+    "date": "2026-10-27",
+    "authors": "Aslam MF, Zaky A, Hou X, Chen Y, Hu Y, French CE.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352524",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 798,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761992"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8e431707d5310c60b2f208ebbe23d0d86598c596dd5b18cc1e7b24885a492aa1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:43:50.057305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ba5f018e6a8d08685d5e5712a3cb0335b8a9e0ca0a2bf4a72427f4236c919748",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:43:50.057305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Saccharomyces cerevisiaeの海洋分離株のゲノム配列解析",
+    "abstract_ja": "Saccharomyces cerevisiaeは、発酵産業における主力菌であるとともに、合成生物学における主要な実験モデル生物および基盤生物でもある。既知の分離株の大部分は陸上由来であるが、海水や海洋堆積物、および海洋生物から分離された株も複数報告されている。海洋株は、塩や発酵阻害剤に対する耐性に優れ、産業、特に海水や海洋バイオマスを基盤とするプロセスにおいて有用となり得るその他の特性を備えている可能性があり、また本種の生理学および進化に新たな知見をもたらす可能性がある。我々は最近、エタノール生産を目的としたS. cerevisiaeの海洋株数株の分離と、陸上株との比較について報告した。本稿では、海洋由来のS. cerevisiae株であるAZ65、AZ118、およびAZ123の3株のゲノム配列について報告する。我々の知る限り、これらは公表された分離データが存在する海洋由来S. cerevisiae株の初のゲノム配列である。複数の陸上および産業由来の比較株と比較して、これらの株が塩および阻害剤に対して優れた耐性を有することが確認された。S. cerevisiaeの塩耐性に関連すると考えられるENA遺伝子座を解析した結果、海洋環境への適応に伴う同遺伝子座のコピー数、タンパク質配列、またはプロモーター配列の改変を示す強い証拠は認められなかった。したがって、塩および阻害剤耐性の生理学的・遺伝学的基盤については、依然として解明されていない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761446",
+    "title": "U6  promoters in  Ulva prolifera  enable dual small-RNA/mRNA transcription and vector-based CRISPR-Cas9 genome editing",
+    "abstract": "For establishing vector-based gene editing in the green-tide-forming alga  Ulva prolifera , development of endogenous RNA polymerase III (Pol III) promoters is a prerequisite to drive single-guide RNA (sgRNA) transcription. To meet the need, the promoters of  U6 snRNA genes in  U. prolifera (  UpU6 ) were identified, cloned, and functionally characterized. Results showed that three  UpU6 copies shared identical sequences, with divergent 5’ upstream sequences containing a positionally conserved TATA box but lacking the USE element typical of seed plants. All three  UpU6 promoters were shown to be capable of driving not only small RNA transcription but also protein-coding gene expression in  U. prolifera , exhibiting the dual transcriptional activity. Unexpectedly, all three  UpU6 promoters also supported  GUS reporter gene expression in  Agrobacterium , representing the first demonstration of  U6 promoter activity in a prokaryotic system. The results of the gene-editing experiment showed that, all three  UpU6 promoters supported vector-based CRISPR-Cas9 targeting of the  APT gene, yielding mutant strains. The mutation-positive fraction among resistant thalli was 92.3% (48/52), and the editing frequency calculated from the estimated starting cell number averaged 3.26 × 10⁻⁶ across the three  UpU6 promoters and did not differ significantly among them. In the mutants, high-frequency occurrences of base substitutions (45.5%) and insertions of long Mutator-like element (MULE) (18.2%) were detected, highlighting a potential association between endogenous DNA transposon insertion and CRISPR-Cas9-mediated gene editing. These findings expanded understanding of eukaryotic  U6 promoter functionality and enrich the toolkit for vector-based CRISPR-Cas9 genome editing in  U. prolifera .",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761446",
+    "date": "2026-10-27",
+    "authors": "Hou Q, Wang Z, Zhao J, Jiang P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351748",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1192,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.761446"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5f56af195088c6ed9d8145e93c863eb4f8579630da920446d68eb5f4982214c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:43:50.057305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9f799791ea65fe84eec3a5f9c308a52962bcf5fb37dc39549d8b7fb97e8f295f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:43:50.057305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "U6  Ulva proliferaにおけるプロモーターは、デュアル小分子RNA/mRNA転写およびベクターベースのCRISPR-Cas9ゲノム編集を可能にする。",
+    "abstract_ja": "緑潮形成藻類Ulva proliferaにおけるベクターベースの遺伝子編集を確立するためには、シングルガイドRNA（sgRNA）の転写を誘導するための内因性RNAポリメラーゼIII（Pol III）プロモーターの開発が不可欠である。このニーズに応えるため、U. proliferaにおけるU6 snRNA遺伝子（UpU6）のプロモーターを同定・クローニングし、機能的特性解析を行った。その結果、3つのUpU6コピーは同一の配列を共有しており、分岐した5'上流配列には位置的に保存されたTATAボックスが含まれるものの、種子植物に典型的なUSEエレメントを欠いていることが示された。これら3つのUpU6プロモーターはいずれも、U. proliferaにおいて小分子RNAの転写だけでなくタンパク質コード遺伝子の発現も誘導可能であり、二重の転写活性を示すことが明らかとなった。予想外なことに、これら3つのUpU6プロモーターはいずれもAgrobacteriumにおけるGUSレポーター遺伝子の発現も支持しており、これは原核生物系におけるU6プロモーター活性の初の実証例となった。遺伝子編集実験の結果、3つのUpU6プロモーターすべてがAPT遺伝子のベクターベースのCRISPR-Cas9ターゲティングを支持し、変異株が得られた。耐性葉体における変異陽性率は92.3%（48/52）であり、推定開始細胞数から算出した編集頻度は、3つのUpU6プロモーター間で平均3.26 × 10⁻⁶となり、有意な差は認められなかった。変異株では、塩基置換（45.5%）および長いMutator-likeエレメント（MULE）の挿入（18.2%）が高頻度で検出され、内因性DNAトランスポゾン挿入とCRISPR-Cas9介在性遺伝子編集との潜在的な関連性が浮き彫りとなった。これらの知見は、真核生物におけるU6プロモーターの機能に関する理解を深めるとともに、U. proliferaにおけるベクターベースのCRISPR-Cas9ゲノム編集のツールキットを拡充するものである。"
   }
 ]
