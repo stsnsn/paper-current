@@ -236988,5 +236988,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "塩ストレス下におけるRhizobiumおよびPGPRの併用接種によるGlycyrrhiza uralensis Fisch.の生理活性成分増強に関するマルチオミクス解析",
     "abstract_ja": "要旨    背景および目的  世界中で広く栽培されている重要な飼料作物である甘草は、野生資源の不足が深刻化しており、人工栽培が市場供給の主要な手段となっている。塩ストレスは甘草の品質と収量に悪影響を及ぼす一方、微生物接種は塩ストレスによる被害を効果的に軽減するだけでなく、その品質を向上させることができる。本研究では、塩ストレスに対する甘草の応答機構を解明するため、塩ストレス下における生理学的、トランスクリプトーム的、およびメタボローム的な変化を調査した。結果  その結果、複合接種群では浸透圧物質およびクロロフィル含有量が有意に増加することが示された。トランスクリプトームおよびメタボロームのシーケンシング解析とパスウェイ検証により、CK  vs  CKNaCl、GM9ZNaCl  vs  CKNaCl、およびGM10NaCl  vs  CKNaClの各群において、それぞれ34個、76個、54個の発現変動遺伝子（DEGs）が同定された。これらの遺伝子は主に、ABCトランスポーター、酸化的リン酸化、植物ホルモンシグナル伝達、およびジャスモン酸生合成などのパスウェイに濃縮されていた。甘草中のリノール酸、アミノ酸、およびジャスモン酸を含む代謝物の含有量は有意に増加していた。結論  複合接種は、塩ストレス下におけるG. uralensis根の浸透圧調節能および抗酸化防御能を高め、ジャスモン酸などの植物ホルモンシグナル伝達経路を活性化することで、関連する機能遺伝子の発現を協調的に調節し、G. uralensisの耐塩性を効果的に向上させ、二次代謝産物の合成を促進する可能性があると推察される。本研究は、塩アルカリ土壌における薬用植物の生育改善に微生物剤を活用するための重要な理論的根拠を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11015621/v1",
+    "title": "Hyperscale Data Centres, EIA Classification and Fiscal Incentives in India: Lessons from the Visakhapatnam Projects",
+    "abstract": "Abstract  This paper examines the application of India’s Environmental Impact Assessment (EIA) framework to hyperscale data-centre infrastructure, with particular attention to the structural features of the EIA Notification, 2006 and the environmental context of the Visakhapatnam region. Drawing on peer-reviewed analyses of groundwater vulnerability, coastal contamination, and the evolution of the EIA regime, it situates large-scale digital facilities within an already stressed hydrological and ecological baseline. The analysis proceeds through critical legal and environmental review of project classification under Schedule item 8(a), the consequences of Category B2 treatment, and the limited institutionalisation of cumulative assessment and public consultation. Regional studies document declining groundwater levels, high contamination vulnerability, and elevated heavy-metal and microbial loads in coastal soils and waters. Scholarly evaluations of the 2006 Notification consistently identify the exemption of B2 projects from full impact studies and statutory public hearings as a persistent constraint on the depth of scrutiny. When facilities whose dominant pressures arise from continuous operational demand for power and water are placed on a pathway designed around construction-phase effects and built-up area, those limitations become the operative ones. The paper argues that classification and appraisal should follow operational intensity, that cluster-level cumulative assessment should be mandatory where parks share receptors, and that fiscal eligibility should not be independent of the depth of environmental review.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11015621/v1",
+    "date": "2026-10-30",
+    "authors": "Khan H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353921",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3353,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11015621/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6f1a5a9c6a6762abf3ebd5aadad7cbdca06d2a4a40709402761ec541529b4dee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:01:52.909355+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "60b3e8f54d57f92d87535459d8473e030da1d483b3c9f0f4810ee4b8ac42edce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:01:52.909355+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インドにおけるハイパースケールデータセンター、EIA分類および財政的インセンティブ：ヴィシャカパトナム・プロジェクトからの教訓",
+    "abstract_ja": "要旨　本論文では、インドの環境影響評価（EIA）枠組みをハイパースケールのデータセンター・インフラに適用することを検討し、特に2006年EIA通知の構造的特徴およびヴィシャカパトナム地域の環境的背景に着目する。地下水の脆弱性、沿岸域の汚染、およびEIA制度の変遷に関する査読済み分析に基づき、大規模なデジタル施設を、すでに負荷のかかっている水文・生態学的なベースラインの中に位置づける。分析は、別表第8(a)項に基づくプロジェクト分類、カテゴリーB2処理の影響、ならびに累積的評価およびパブリックコンサルテーションの制度化の限定的な実態について、法的・環境的な批判的検討を通じて進められる。地域研究では、地下水位の低下、高い汚染脆弱性、および沿岸部の土壌・水域における重金属および微生物負荷の増大が報告されている。2006年通知に関する学術的評価では、B2プロジェクトが全面的な影響評価および法定公聴会の対象から除外されていることが、精査の深度における根強い制約として一貫して指摘されている。電力および水の継続的な運用需要に主たる負荷が生じる施設が、建設段階の影響や建築面積を中心に設計された経路上に配置される場合、こうした制限が実質的な制約となる。本論文は、分類および評価は運用強度に従うべきであり、パークが受水施設を共有する場合にはクラスターレベルの累積的評価を義務付けるべきであること、また、財政的適格性は環境審査の深度に依存すべきではないと論じる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11153446/v1",
+    "title": "Eichhornia crassipes management in a eutrophic reservoir: Cover reduction, rapid recolonization, and cyanobacterial dynamics",
+    "abstract": "Abstract    Mechanical harvesting is widely used to control  Eichhornia crassipes  in reservoirs, yet its performance is judged by biomass removed rather than the reduction and stabilization of plant cover. We integrated a 129 month Sentinel-1 time series derived using U-Net segmentation with harvesting records and water quality monitoring to evaluate harvest campaigns, recurrent expansion and phytoplankton responses in a 177 ha eutrophic tropical urban reservoir. Harvesting effort was not proportional to cover change: campaigns with comparable biomass removal produced contrasting outcomes. Cover reductions were followed by recolonization, with the two fastest episodes doubling reservoir scale cover in 19 and 20 days. Expansion was fastest after low cover phases and declined as open water surface became occupied, whereas harvesting imposed a weaker constraint on cover gain. At the reservoir outlet, higher cover was associated with lower cyanobacterial density and dominance during the dry season, while chlorophyll-a remained unrelated to cover. Station specific Random Forest models interpreted with explainable AI (SHAP) retained true color and macrophyte cover as main predictors of cyanobacterial density. These findings distinguish three dimensions often conflated in macrophyte management: operational effort, spatial outcome and ecological state. Harvested biomass should therefore be treated as an effort metric, whereas net cover change, residual cover and rebound provide direct measures of management performance. Combining deep learning satellite mapping, operational records, explainable machine learning and in situ monitoring can support adaptive harvesting, but durable control will also require reductions in nutrient and suspended solid loads.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11153446/v1",
+    "date": "2026-10-30",
+    "authors": "Salim¹ DHC, Mello¹ CCS, Pereira² G, Maretto³ RV, Amorim¹ CC.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353676",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria",
+        "cyanobacterial"
+      ],
+      "context": {
+        "marine": [
+          "phytoplankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3359,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11153446/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f8d7b1cebf42de38e815cf5b9e3d650c06294d872fd4e99d86ff8f8576ec53c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:01:52.909355+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "708e64b2e91fa518ac174e040ea2593deabb3383961491d5dd7e1b8b55ffdc45",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:01:52.909355+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "富栄養化した貯水池におけるEichhornia crassipesの管理：被覆の減少、急速な再定着、およびシアノバクテリアの動態",
+    "abstract_ja": "要旨    貯水池におけるEichhornia crassipesの制御には機械的な採取が広く用いられているが、その性能は植物被覆の減少や安定化ではなく、除去されたバイオマス量によって評価される。本研究では、U-Netセグメンテーションを用いて導出した129か月分のSentinel-1時系列データに、採取記録および水質モニタリングを統合し、177 haの富栄養化した熱帯都市型貯水池における採取キャンペーン、反復的な拡大、および植物プランクトンの応答を評価した。採取労力は被覆変化に比例せず、同程度のバイオマス除去量を記録したキャンペーンであっても、結果は対照的であった。被覆の減少に続いて再定着が起こり、最も速かった2つのエピソードでは、貯水池規模の被覆が19日および20日で倍増した。拡大は被覆量の少ない時期に最も速く進行し、開水面が占有されるにつれて減少したが、一方で採取による被覆増加への制約はより弱かった。貯水池の流出口では、乾季において被覆量が多いほど、シアノバクテリアの密度および優占度が低い傾向が見られたが、クロロフィル-aは被覆量とは無関係であった。説明可能なAI（SHAP）を用いて解析した観測所固有のランダムフォレストモデルは、真の色彩と大型植物被覆をシアノバクテリア密度の主要な予測因子として保持した。これらの知見は、大型植物管理においてしばしば混同されがちな3つの次元、すなわち運用上の労力、空間的な成果、および生態学的状態を区別するものである。したがって、採取されたバイオマスは労力指標として扱うべきであり、一方で正味の被覆変化、残存被覆、およびリバウンドは、管理性能の直接的な指標となる。深層学習による衛星マッピング、運用記録、説明可能な機械学習、および現地モニタリングを組み合わせることで、適応的採取を支援できるが、持続的な制御には栄養塩および懸濁物質負荷の低減も必要となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.3038.v1",
+    "title": "Gastrointestinal Microbiomes of Fish and Shellfish and Their Applications in Disease Therapeutics",
+    "abstract": "Aquaculture has become an increasingly important industry today, and with rising demand for fish, the sector has been working diligently to enhance production while maintaining quality and improving efficiency. However, excessive use of antibiotics and other chemicals to control diseases in aquaculture has raised concerns about potential impacts on fish consumers and the aquatic environment. As a result, there has been concern about finding alternative methods to maintain fish health and boost productivity. In a recent investigation, it has been discovered that the use of the gastrointestinal commensal microbiome species can control the spread of diseases in aquaculture farming effectively. Therefore, the potential to manipulate the gastrointestinal microbiome to improve health and production is a fascinating prospect that has gained considerable attention in recent years.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.3038.v1",
+    "date": "2026-10-30",
+    "authors": "Diwan AD, Harke SN, Panche AN.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353528",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3360,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.20944/preprints202610.3038.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f1e117f1d1e85aec2d224de6e86ee701c48f40ef13e681c31da029a3b7367c19",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:01:52.909355+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a0dba68de2da0f5b4826b3b5a906ab20176bd542ca733e8e240328f1fddf8753",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:01:52.909355+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "魚類・貝類の消化管マイクロバイオームと疾患治療への応用",
+    "abstract_ja": "水産養殖は今日、ますます重要な産業となっており、魚類需要の高まりに伴い、同分野では品質の維持と効率向上を図りつつ、生産量の拡大に尽力してきた。しかし、水産養殖における疾病制御のための抗生物質やその他の化学物質の過剰使用は、魚類消費者や水圏環境に及ぼし得る影響への懸念を引き起こしている。その結果、魚類の健康維持と生産性向上のための代替手法の模索が懸念されている。最近の研究により、消化管共生微生物叢の種を用いることで、水産養殖における疾病の蔓延を効果的に抑制できることが明らかとなった。したがって、消化管微生物叢を操作して健康と生産性を向上させる可能性は、近年大きな注目を集めている興味深い展望である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762775",
+    "title": "Dietary fibre responses emerge through host-dietary regime interplay: Apple pectin modulates immune reactivity in adult zebrafish",
+    "abstract": "Dietary fibres are rarely consumed independently. Instead, they form part of an overall diet that includes dietary fibres from different sources, in varying amounts and consumed under different feeding patterns. Here, we tested how dietary regimes containing apple pectin, oat β-glucan, or cellulose shaped the host. We analysed gut microbiome composition by 16S rRNA sequencing, measured brain and intestinal SCFA profiles by targeted metabolomics, and assessed immunomodulation by measuring gene expression systemically in the blood and locally in the spleen, as well as intestinal enzyme activity. The dietary intervention was conducted for 12 weeks on adult female and male zebrafish (  Danio rerio ). Our results show that the gut microbial composition can be relatively stable across different dietary fibre exposure patterns yet still vary significantly between the sexes. Additionally, the effect of sex on the gut microbiome may become more evident when dietary fibres are administered at high dosages, but intermittently. Dietary fibre regimes can alter intestinal short-chain fatty acid profiles more readily than brain profiles, which show a stronger sexually dimorphic response. Interestingly, apple pectin modulated the zebrafish immune response through interactions dependent on the overall regime, tissue, sex, and host immune status. Notably, tissue  il1b gene expression differed depending on how apple pectin was administered and the host's physiological state. Collectively, our study emphasises the highly context-specific effects of dietary fibres, shaped by the dynamic interplay between the overall dietary regime and intertwined host factors.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762775",
+    "date": "2026-10-30",
+    "authors": "Abi Assaf J, Le Gall G, Sullivan R, Bezrucico-Pyatakov A, Carlsson H, Cohen-Krais J, de Coriolis J, Godden AM, Marcu D, Gorton D, Immler S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354446",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3824,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.29.762775"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c26872db7c88426b966a0d8a419cbf705b0b7f7ca261b4a645904b96454fd183",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:01:52.909355+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "249e1c699bab94a9519eb70c7378018ef0d3b65a43ccec76b5fd3ddfe68d3435",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:01:52.909355+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食物繊維への反応は宿主と飼料レジームの相互作用によって生じる：リンゴペクチンは成魚ゼブラフィッシュの免疫反応性を調節する",
+    "abstract_ja": "食物繊維が単独で摂取されることは稀である。むしろ、異なる供給源由来の食物繊維を、量や摂取パターンを変えて組み合わせた総合的な食事の一部として摂取される。本研究では、リンゴペクチン、オーツβ-グルカン、またはセルロースを含む食事レジメンが、宿主にどのような影響を与えるかを検証した。16S rRNAシーケンシングにより腸内マイクロバイオーム組成を解析し、標的メタボロミクスにより脳および腸管のSCFAプロファイルを測定した。さらに、血液中および脾臓における全身的な遺伝子発現、ならびに腸管酵素活性の測定により、免疫調節を評価した。この食事介入は、成体のゼブラフィッシュ（Danio rerio）の雌雄を対象に12週間実施した。その結果、腸内微生物組成は異なる食物繊維曝露パターンにおいても比較的安定し得る一方で、性差によって有意に異なることが示された。加えて、食物繊維を高用量で間欠的に投与した場合、性が腸内マイクロバイオームに及ぼす影響がより顕著に現れる可能性がある。食事レジメンは、性差による応答がより強い脳プロファイルよりも、腸管の短鎖脂肪酸プロファイルをより容易に変化させ得る。興味深いことに、リンゴペクチンは、全体的なレジメン、組織、性、および宿主の免疫状態に依存した相互作用を通じて、ゼブラフィッシュの免疫応答を調節した。特筆すべきは、組織のil1b遺伝子発現が、リンゴペクチンの投与方法および宿主の生理的状態によって異なる点である。総じて、本研究は、総合的な食事レジメンと相互に絡み合った宿主因子との動的な相互作用によって形成される、食物繊維の極めて文脈特異的な効果を強調するものである。"
   }
 ]
