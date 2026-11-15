@@ -243300,5 +243300,337 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "淡水植物プランクトンにおける温暖化およびリン制限に対する保存された細胞機構の特異的な転写応答",
     "abstract_ja": "湖沼では温暖化とリン制限が同時に進行しているが、同一門の植物プランクトン分類群が同様の分子メカニズムを通じて応答するかどうかは依然として不明であり、環境変化に対する生態学的応答の予測の根底にある一般的な仮定に疑問を投げかけている。我々は、2種の珪藻（Fragilaria crotonensis および Nitzschia palea）と2種のシアノバクテリア（Microcystis aeruginosa および Synechococcus sp.）を含む4種の淡水植物プランクトンを、温度（20、24、28 °C）およびリン（P）制限の因子勾配にわたって培養し、RNA-seq、発現変動解析、および符号付き遺伝子セットエンリッチメントを用いて遺伝子発現を解析した。さらに、増殖速度（GRH）および温度依存性生理仮説（TDPH）から導出された遺伝子機能カテゴリーについて、予想される応答の予測を行った。温暖化とP制限は、すべての種において予測された機能カテゴリーの大部分を関与させたが、応答の方向性は門内であっても一貫しておらず、2種のシアノバクテリアでは光合成、リボソーム、およびシャペロン遺伝子が逆方向に調節されていた。リボソームおよび翻訳関連遺伝子が最も強い温暖化応答を示し、N. palea では種内で方向が逆転して、20～24 °C で増加し、24～28 °C で減少した。これは中程度のP制限下で推定された当該株の熱的至適温度を下回る値であった。したがって、リボソームの配分は、異なる種や温度範囲において各仮説を支持しており、熱的位置のみからは予測されなかった。相互作用の影響を検証できたケースでは、P制限が新たな経路を動員することは稀であったが、既存の温暖化応答を修飾し、F. crotonensis ではそれらを抑制し、M. aeruginosa ではそれらを増幅・方向転換させた。したがって、複合的な駆動要因に対する分子応答は近縁な分類群間で異なっており、地球規模の変化に対する植物プランクトンの応答を予測する際に、種を機能グループに集約することには注意が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.762032",
+    "title": "Phylogenetic position and expanded host range of the photosymbiont Brandtodinium nutricula (Peridiniales, Dinophyceae)",
+    "abstract": "Brandtodinium nutricula is a dinoflagellate species commonly reported in symbiosis with the marine protist host lineage, Collodaria (Rhizaria). Despite the widespread abundance of this symbiosis throughout the open ocean, and clear indications that the alga should be capable of existing outside of the symbiosis, there are no reports to date of the alga in free-living form in the environment. Even though B. nutricula molecular data are publicly available, the phylogenetic position of B. nutricula remains unclear. Our taxon-rich 18S rRNA gene phylogenetic analysis revealed a close association between B. nutricula and the copepod parasite lineage, Blastodinium. We next analyzed Tara Oceans metabarcode data to assess B. nutricula abundance outside of the Collodaria symbiosis and found that B. nutricula is common in free-living form throughout the sunlit ocean. Similarly, B. nutricula does not significantly correlate with Collodaria in terms of read depth in Tara Oceans samples, despite their tight association. We also determined that B. nutricula can live symbiotically within planktonic Foraminifera using fluorescence lifetime imaging microscopy in combination with fluorescence in situ hybridization. These findings indicate that the radiolarian-B. nutricula symbiosis is less specific than previously suggested, highlighting the complexity of open ocean symbioses and the importance of weighing both host and symbiont perspectives when considering who benefits from the relationship.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.762032",
+    "date": "2026-10-28",
+    "authors": "Coots NL, Blanco Bercial L, Gile GH, Keeling PJ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352258",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18s rrna",
+        "dinoflagellate",
+        "protist"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean",
+          "plankton"
+        ],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 482,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.762032"
+    ],
+    "translation": {
+      "title": {
+        "hash": "beb49c4663ef2f14e5f0a5b2f9205df9dc7a133dc4e2b0346efd576739702244",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:06:08.284136+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74c8ec78cebc4873aa3c739e1e903b7c842e02bfc4d0012b6242ade2fdbaa601",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:06:08.284136+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "光共生藻 Brandtodinium nutricula (Peridiniales, Dinophyceae) の系統的位置と宿主範囲の拡大",
+    "abstract_ja": "Brandtodinium nutriculaは、海洋原生生物の宿主系統であるCollodaria（Rhizaria）と共生することが広く報告されている渦鞭毛藻の一種である。外洋全域でこの共生関係が広く見られること、またこの藻類が共生状態以外でも生存可能であることを示す明確な根拠があるにもかかわらず、環境中で自由生活形態のB. nutriculaが確認されたという報告はこれまでにない。B. nutriculaの分子データは公開されているものの、その系統的位置は依然として不明である。我々が行った分類群を豊富に含む18S rRNA遺伝子の系統解析により、B. nutriculaとカイアシ類寄生系統であるBlastodiniumとの間に密接な関連があることが明らかとなった。次に、Tara Oceansのメタバーコードデータを解析してCollodariaとの共生関係以外でのB. nutriculaの存在量を評価したところ、B. nutriculaは太陽光の届く海洋全域において自由生活形態で一般的に存在することが判明した。同様に、Tara Oceansのサンプルにおいて、B. nutriculaとCollodariaは密接に関連しているものの、リード深度の観点からは有意な相関は認められなかった。また、蛍光寿命イメージング顕微鏡法と蛍光in situハイブリダイゼーション法を組み合わせることで、B. nutriculaがプランクトン性有孔虫内で共生可能であることも突き止めた。これらの知見は、放散虫とB. nutriculaの共生関係が従来考えられていたよりも特異性が低いことを示しており、外洋における共生関係の複雑さと、誰がその関係から利益を得ているかを検討する際に、宿主と共生者双方の視点を考慮することの重要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11517937/v1",
+    "title": "An Integrated One-Click Python Pipeline for Bacterial Codon-Usage Analysis and Proteome-Wide Characterization",
+    "abstract": "Abstract    Background:  Codon-usage analysis provides insights into synonymous codon preferences, nucleotide composition, and potential evolutionary constraints, while protein physicochemical indices offer complementary information about proteome characteristics. Together, these sequence- and protein-level measures can provide a broader computational view of genomic and proteomic variation across bacterial genomes providing insights into crucial functional mechanisms like pathogenicity and antibiotic resistance. However, integrating these analyses into a streamlined and reproducible workflow can be challenging.  Methods:  We developed an integrated one-click Python pipeline for bacterial codon-usage analysis and proteome-wide characterization. The workflow processes FASTA sequences, applies sequence-quality filters, calculates codon-usage and nucleotide-composition indices, performs parity analysis, and conducts principal component analysis (PCA) using relative synonymous codon usage (RSCU) and relative amino-acid usage (RAAU). It also estimates protein-level characteristics, including theoretical isoelectric point, molecular weight, grand average of hydropathicity, aromaticity, and sequence-length measures. Results are organized into two worksheets within a single Excel output.  Results:  The pipeline was applied to coding sequences from  Acinetobacter baumannii  ,  Pseudomonas aeruginosa  , and  Elizabethkingia anophelis  . Comparisons with previously reported values showed broadly similar estimates for selected indices, including GC content, GC3s, GRAVY, and aromaticity. However, differences were observed in third-position nucleotide composition, codon adaptation index (CAI), frequency of optimal codons (Fop), and sequence-length-related measures. These discrepancies highlight the influence of computational definitions, reference sets, and sequence-processing criteria on the resulting estimates.  Conclusion:  The pipeline integrates codon-level and protein-level analyses into an accessible workflow that generates structured outputs. Further benchmarking against established tools using matched sequences and standardized definitions is needed to establish its numerical agreement, robustness, and broader applicability. Future development could expand reference-set customization and validation across diverse bacterial genomes.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11517937/v1",
+    "date": "2026-10-28",
+    "authors": "Dahal U.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351965",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "method",
+        "pipeline",
+        "proteome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 483,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11517937/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4895d5e81f2b0f985d6b20c8b766c074923f1bd10f10c792caf69a73a602fef2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:06:08.284136+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "922b5c2cf7aed767a41780e6538d6c12c207f29cdb2f4e939121561e4d654bbe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:06:08.284136+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌のコドン利用解析およびプロテオームワイド特性解析のための統合型ワンクリックPythonパイプライン",
+    "abstract_ja": "要旨    背景：コドン利用解析は、同義コドンの選好性、ヌクレオチド組成、および潜在的な進化的制約に関する知見を提供する一方、タンパク質物理化学的指標はプロテオーム特性に関する補完的な情報を提供する。これらの配列レベルおよびタンパク質レベルの指標を組み合わせることで、細菌ゲノム全体におけるゲノムおよびプロテオームの変異をより広範な計算的視点から捉えることができ、病原性や抗生物質耐性といった重要な機能メカニズムに関する知見を得ることが可能となる。しかし、これらの解析を効率的かつ再現性のあるワークフローに統合することは困難な場合がある。  手法：細菌のコドン利用解析およびプロテオーム全域の特性解析のための、統合型ワンクリックPythonパイプラインを開発した。本ワークフローは、FASTA配列を処理し、配列品質フィルタを適用し、コドン利用およびヌクレオチド組成指標を算出し、パリティ解析を行い、相対同義コドン利用（RSCU）および相対アミノ酸利用（RAAU）を用いて主成分分析（PCA）を実施する。また、理論等電点、分子量、ヒドロパシシティの大平均、芳香族性、および配列長指標を含むタンパク質レベルの特性を推定する。結果は、単一のExcel出力内の2つのワークシートに整理される。  結果：本パイプラインをAcinetobacter baumannii、Pseudomonas aeruginosa、およびElizabethkingia anophelisのコーディング配列に適用した。既報の値との比較により、GC含有量、GC3s、GRAVY、および芳香族性を含む選定指標について、概ね同様の推定値が得られた。しかし、第3位のヌクレオチド組成、コドン適応指数（CAI）、最適コドン頻度（Fop）、および配列長関連指標において差異が認められた。これらの不一致は、計算上の定義、参照セット、および配列処理基準が結果の推定値に及ぼす影響を浮き彫りにしている。  結論：本パイプラインは、コドンレベルおよびタンパク質レベルの解析を、構造化された出力を生成する使いやすいワークフローに統合したものである。数値的な一致性、頑健性、およびより広範な適用可能性を確立するためには、一致配列と標準化された定義を用いた既存ツールとのさらなるベンチマーク評価が必要である。今後の開発では、多様な細菌ゲノムにわたる参照セットのカスタマイズおよび検証の拡充が考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10986830/v1",
+    "title": "Construction and Evaluation of a Reference Strain System for Brucella melitensis Biovar 2 and Genomic Characteristic Analysis",
+    "abstract": "Abstract    Objective  To establish a candidate national reference strain of  Brucella melitensis  biovar 2 according to relevant technical standards using a  Brucella  strain preserved in the local biological sample repository in Zhuhai City.  Methods  In accordance with the Technical Evaluation Standard for National Pathogenic Microorganism Strains (WS/T 812–2022), morphological identification of the candidate Brucella strain was performed via colony observation, Gram-staining and transmission electron microscopy. Species-level identification was carried out using matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF-MS), biochemical assays, serum agglutination tests and phage lysis assays. Whole-genome sequencing was applied for biovar typing, virulence- and resistance-associated gene profiling. Physiological characteristics were further characterized by antimicrobial susceptibility testing and strain stability assessment.  Results  Strain ZH25-Bru-002 (abbreviated as ZH25 throughout the text) was a Gram-negative bacillus. It grew well on modified Brucella agar and blood agar at 37°C, with cell dimensions of (0.3–0.4) µm × (0.6–0.8) µm. MALDI-TOF-MS identified it as  B. melitensis  with a score of 2.366. The strain was positive for oxidase, catalase and urease, and negative for hydrogen sulphide production. Plaque formation was observed in the Bk-phage lysis test. Agglutination titer for serum A was higher than that for serum M. Among the 12 tested antibiotics, the strain was resistant only to erythromycin (MIC > 32 µg/mL). Whole-genome sequencing together with 16S rRNA and  rpoB  gene typing confirmed its identity as  B. melitensis  biovar 2. Following serial in-vitro passaging to obtain the 1st-generation (G1), 5th-generation (G5), and 10th-generation (G10) derivatives of ZH25, colony morphology, biochemical profiles and biovar features remained stable. The strain has been deposited in the Pathogenic Microorganism Repository of Guangdong Provincial Center for Disease Control and Prevention and assigned a national preservation accession number.  Conclusion  The  B. melitensis  biovar 2 strain obtained in this study exhibits typical phenotypic and genotypic features of the pathogen. It qualifies as a reference strain for brucellosis surveillance, vaccine evaluation and diagnostic reagent development. The strain has passed review by the national repository and obtained the official preservation number NPRC(S) 01.0114.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10986830/v1",
+    "date": "2026-10-28",
+    "authors": "Yang W, Wu J, Fang Y, Liu X, Cui Y, Ke C, Yao S, Wu J, Huang H, Lin Y, Deng X, Huang W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351882",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Bacillus",
+        "microorganism",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 484,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10986830/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c271064bfea02a5851acf0852f564bede87e87cd6babaee7d8e41d1e3be5dd14",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:06:08.284136+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f3013d08e162f97672a6af8543626f0a34d1b7fdeb70c7761f48f8dbc9456987",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:06:08.284136+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Brucella melitensis Biovar 2の基準菌株系の構築と評価およびゲノム特性解析",
+    "abstract_ja": "要旨    目的  珠海市の地域生物学的試料リポジトリに保存されているBrucella株を用い、関連技術基準に基づき、Brucella melitensis biovar 2の国家参照株候補を確立すること。  方法  国家病原微生物株技術評価基準（WS/T 812–2022）に従い、コロニー観察、グラム染色、および透過型電子顕微鏡観察により候補Brucella株の形態学的同定を行った。種レベルの同定は、マトリックス支援レーザー脱離イオン化飛行時間型質量分析法（MALDI-TOF-MS）、生化学的アッセイ、血清凝集試験、およびファージ溶解アッセイを用いて実施した。バイオバー型判定、ならびに病原性および耐性関連遺伝子プロファイリングには全ゲノムシーケンシングを適用した。生理学的特性については、さらに抗菌薬感受性試験および株の安定性評価により特性評価を行った。  結果  株ZH25-Bru-002（以下、本文中ではZH25と略記）は、グラム陰性桿菌であった。37°Cの改変Brucella寒天培地および血液寒天培地で良好に増殖し、細胞径は(0.3–0.4) µm × (0.6–0.8) µmであった。MALDI-TOF-MSにより、スコア2.366でB. melitensisと同定された。本株はオキシダーゼ、カタラーゼ、およびウレアーゼ陽性であり、硫化水素産生は陰性であった。Bkファージ溶解試験においてプラーク形成が認められた。血清Aに対する凝集力価は、血清Mに対するものよりも高かった。試験した12種類の抗菌薬のうち、本株はエリスロマイシンにのみ耐性を示した（MIC > 32 µg/mL）。全ゲノムシーケンシングならびに16S rRNAおよびrpoB遺伝子型判定により、B. melitensis biovar 2であることが確認された。ZH25の第1世代（G1）、第5世代（G5）、および第10世代（G10）誘導体を得るための連続的なin vitro継代を行った結果、コロニー形態、生化学的プロファイル、およびバイオバー特性は安定に維持された。本株は広東省疾病予防管理センターの病原微生物リポジトリに寄託され、国家保存アクセッション番号が付与された。  結論  本研究で得られたB. melitensis biovar 2株は、当該病原体の典型的な表現型および遺伝子型特性を示す。本株は、ブルセラ症のサーベイランス、ワクチン評価、および診断試薬開発のための参照株として適格である。本株は国家リポジトリによる審査を通過し、公式保存番号NPRC(S) 01.0114を取得した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762035",
+    "title": "Genetics and genomics of enteroarthroconidial development in  Coccidioides",
+    "abstract": "Regulated cell death is a cornerstone of plant and animal development. Distant orthologs of some cell death genes are also found in microbes, with roles that remain incompletely understood. The human fungal pathogen  Coccidioides causes the disease Valley fever when infectious spores called enteroarthroconidia are inhaled from soil. These spores develop via an unusual checkerboard-style differentiation in which alternating segments of hyphae (cellular filaments) die and disarticulate, releasing mature spores on either side. The molecular mechanisms are unknown. Adapting single-cell transcriptomics for filamentous fungi, we catalogued expression across the specialized cells of a developing  Coccidioides colony. With the resulting profiles, and cell-biological validation via protein tagging, we characterized high expression of the pyroptosis-like cell death pathway in hyphal segments destined to die. Genetic knockout of pyroptosis-like pathway genes resulted in developmental arrest at a late stage in the colony, preserving hyphal growth but abrogating cell death and spore production. Together, these findings reveal the pyroptosis-like pathway as a requirement for enteroarthroconidial development, and thus infectivity, in  Coccidioides . We propose that regulated cell death may prove to mediate events in development in many fungi with multicellular life cycles.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762035",
+    "date": "2026-10-28",
+    "authors": "Fleming KE, Christensen KC, Szewczyk E, Homer CM, Brem RB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353453",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi",
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 768,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762035"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c4bb1bf6d4ee08c83053164b34ad09b95eeedb3d182ec2be49446e3d8d627c94",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:06:08.284136+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "471f62262758415e01a49ac8dc54cdbedc9d2c962ecb50ccf1a861db29101247",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:06:08.284136+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Coccidioidesにおける腸関節核の発生の遺伝学およびゲノミクス",
+    "abstract_ja": "制御された細胞死は、植物および動物の発生における根幹をなすものである。一部の細胞死遺伝子の遠縁オルソログは微生物にも認められ、その役割は依然として十分に解明されていない。ヒト真菌病原体であるCoccidioidesは、エンテロアセロコニディアと呼ばれる感染性胞子が土壌から吸入されることで、バレー熱を引き起こす。これらの胞子は、菌糸（細胞性フィラメント）の交互のセグメントが死滅・解離し、その両側から成熟した胞子が放出されるという、特異なチェッカーボード型の分化過程を経て発達する。その分子機構は不明である。単細胞トランスクリプトミクスを糸状菌に適応させ、我々は発達過程にあるCoccidioidesコロニーの特殊化した細胞における発現をカタログ化した。得られたプロファイルと、タンパク質タグ付けによる細胞生物学的な検証により、死滅予定の菌糸セグメントにおけるパイロトーシス様細胞死経路の高発現を特性評価した。パイロトーシス様経路遺伝子の遺伝的ノックアウトにより、コロニーの後期段階で発生停止が引き起こされ、菌糸の成長は維持される一方で、細胞死と胞子形成が消失した。これらの知見を総合すると、パイロトーシス様経路がCoccidioidesのエンテロアセロコニディアの発生、ひいては感染能の必須条件であることが明らかになる。我々は、制御された細胞死が、多細胞生活環を持つ多くの真菌において、発生過程の事象を媒介している可能性を提案する。"
   }
 ]
