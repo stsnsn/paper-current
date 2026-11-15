@@ -245817,5 +245817,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "腫瘍溶解性ニューカッスル病ウイルスは、SUMO-1依存的なPRKN介在性c-Myc分解を介して腫瘍細胞のアポトーシスを促進する。",
     "abstract_ja": "要旨  発がん性転写因子c-Mycは多くのがんにおいて異常に亢進しており、腫瘍細胞の増殖と生存において中心的な役割を果たしている。しかし、c-Mycは本質的に無秩序な構造を有するため、直接的な薬理学的標的化は依然として困難である。ニューカッスル病ウイルス（NDV）は選択的な抗腫瘍活性を有する腫瘍溶解性ウイルスであるが、NDVが発がん性シグナル伝達を阻害する分子メカニズムは十分に解明されていない。本研究では、NDVが複数の腫瘍細胞株においてアポトーシスを誘導し、A549異種移植モデルにおいて腫瘍増殖を抑制することを示す。NDV感染は、腫瘍細胞におけるc-Mycタンパク質レベルを時間および用量依存的に著しく低下させ、c-MycのノックダウンはNDV誘導性の内因性アポトーシスをさらに増強した。機序的には、NDVはLys142におけるユビキチン化を介して、ユビキチン-プロテアソーム依存的なc-Mycの分解を促進した。候補E3ユビキチンリガーゼのスクリーニングにより、PRKNがNDV誘導性c-Myc分解の主要な媒介因子として同定された。NDV感染はPRKNのSUMO-1依存的な核移行を誘導し、これによりPRKNが核内c-Mycと相互作用してその分解を促進した。SUMO-1またはPRKNのノックダウンによってこの経路を阻害すると、PRKNの核内蓄積が損なわれ、c-Mycの安定性が回復し、NDV誘導性アポトーシスが減弱した。機能的には、分解耐性型c-Myc K142R変異体の発現、あるいはc-Mycノックダウン細胞におけるc-Mycの復元により、腫瘍細胞はNDV誘導性アポトーシスから保護された。以上の知見を総合すると、NDV誘導性腫瘍細胞アポトーシスを媒介するSUMO-1-PRKN-c-Mycシグナル軸が同定され、c-Mycの不安定化がNDVの腫瘍溶解活性の根底にある重要なメカニズムであることが明らかになった。意義  c-Mycはヒトがんにおける最も重要な発がんドライバーの一つであるが、従来の低分子阻害剤で直接的に標的とすることは依然として困難である。本研究は、腫瘍溶解性ニューカッスル病ウイルスがc-Mycの分解を促進する、これまで認識されていなかったメカニズムを同定した。NDVはE3ユビキチンリガーゼPRKNのSUMO-1依存的な核移行を誘導し、これがLys142におけるc-Mycのユビキチン化を媒介し、そのプロテアソーム分解を促進する。c-Mycの喪失は内因性アポトーシスシグナル伝達を活性化し、腫瘍細胞のアポトーシスを増強する。これらの知見は、NDVによって調節される新たなSUMO-1-PRKN-c-Myc軸を明らかにするとともに、腫瘍溶解性ウイルスが主要な発がん性タンパク質を不安定化させることでいかにして腫瘍細胞を排除し得るかについて、機序的な洞察を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.759946",
+    "title": "Pulmonary colonization of  Candida albicans  drives breast cancer lung metastasis via candidalysin",
+    "abstract": "The intratumoral mycobiome is emerging as a key modulator of cancer progression, with specific fungal taxa as potential biomarkers. However, whether and how mycobiomes colonizing distant organs contribute to tumor evolution remains largely unexplored. Here, we identify selective enrichment of  Candida albicans in breast cancer lung metastases. Mechanistically, the fungal virulence factor candidalysin activates pulmonary mast cells, which release chemotactic mediators that expand immunosuppressive populations and suppress cytotoxic lymphocyte activity, remodeling the lung into a metastasis-permissive microenvironment. Analysis of clinical isolates and isogenic mutants further demonstrates that candidalysin secretion levels dictate metastasis-promoting potential. Informed by these findings, we developed a combination regimen that concurrently eliminates fungal colonization, stabilizes mast cells, and reverses the immunosuppressive microenvironment, thereby significantly curtailing metastatic progression. Collectively, our study establishes pulmonary  C. albicans colonization as a driver of breast cancer lung metastasis and provides a mechanistic framework for targeting mycobiome-host interactions in metastatic disease.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.759946",
+    "date": "2026-10-28",
+    "authors": "Ma Z, Chen L, Fang Y, Gao F, Liu L, Wu J, Chen H, Tian Y, Zhang Y, Yang X, Wang Y, Ren M, Liu Y, Zhu L, Chen C, Guan M, Tang P, Wang L, Li C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352418",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2486,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.759946"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4ce14b94c0c5f37f650423e82159712c470b8e32e5a3abf44ab1864674226fa6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:34:30.041382+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e2a25532cf0bd039838ec5004355a88b5cd8487b06f7988555ef9c0ae2b4168b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:34:30.041382+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Candida albicansの肺定着は、カンジダリシンを介して乳がんの肺転移を促進する。",
+    "abstract_ja": "腫瘍内マイコバイオームは、がん進行の重要な調節因子として注目されており、特定の真菌分類群が潜在的なバイオマーカーとなり得る。しかし、遠隔臓器に定着したマイコバイオームが腫瘍の進展に寄与しているか、またどのように寄与しているかについては、依然としてほとんど解明されていない。本研究では、乳がん肺転移におけるCandida albicansの選択的濃縮を同定した。機序としては、真菌の病原性因子であるカンジダリシンが肺マスト細胞を活性化し、これらの細胞が放出する走化性メディエーターが免疫抑制細胞集団を増殖させ、細胞傷害性リンパ球の活性を抑制することで、肺を転移許容的な微小環境へと再構築する。臨床分離株および同質変異体の解析により、カンジダリシンの分泌レベルが転移促進能を決定づけることがさらに示された。これらの知見に基づき、我々は真菌の定着を排除し、マスト細胞を安定化させ、かつ免疫抑制的な微小環境を逆転させる併用療法を開発し、これにより転移の進行を有意に抑制した。総じて、本研究は肺におけるC. albicansの定着が乳がん肺転移の駆動因子であることを立証し、転移性疾患におけるマイコバイオームと宿主の相互作用を標的とするための機序的枠組みを提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761930",
+    "title": "The LudP arrest peptide stalls translation by remodeling the ribosomal A-site",
+    "abstract": "Bacterial ribosome arrest peptides couple translation to secretion and membrane homeostasis, providing an intracellular regulatory feedback system. Although several Sec/YidC-associated arrest peptides have been characterized, how evolutionarily diverse peptides converge on equivalent physiological outcomes remains unclear. Here we identify LudP (Lacrimispora upstream of secDF peptide), a previously unrecognized arrest peptide conserved in the genus Lacrimispora and encoded immediately upstream of secDF. In vitro and in vivo assays show that LudP induces robust Gram-positive-specific translation arrest that is released in a Sec signal-dependent manner. Using systematic mutagenesis and deep mutational scanning, we define a compact 15-residue C-terminal arrest element that governs arrest stability and A-site residue selectivity. Cryo-electron microscopy reveals that a LudP nascent-chain α-helix in the exit tunnel remodels the peptidyltransferase center, with Asp133-dependent conformational rearrangements of 23S rRNA, notably U2506, sterically and energetically destabilizing productive A-site aminoacyl-tRNA accommodation. These findings support functional convergent evolution of secretion-coupled arrest peptides across bacterial lineages.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761930",
+    "date": "2026-10-28",
+    "authors": "Gersteuer F, Harada Y, Fujiwara K, Safdari H, Harreither A, Bock L, Wilson DN, Chiba SN.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352268",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2489,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761930"
+    ],
+    "translation": {
+      "title": {
+        "hash": "92b1f4033cfe1872a07408f3852dd403a403535052b6a3250a35d3321a621883",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:34:30.041382+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fb3e615a40bcdb36cda29f4f9d740d7329aa1004b1c00dda4f5f57aa62296c11",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:34:30.041382+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LudP逮捕ペプチドは、リボソームAサイトをリモデリングすることで翻訳を停止させる。",
+    "abstract_ja": "細菌のリボソーム停止ペプチドは、翻訳を分泌および膜恒常性に連動させ、細胞内調節フィードバック系として機能する。これまでに複数のSec/YidC関連停止ペプチドが特性解析されてきたが、進化的に多様なペプチドがいかにして同等の生理学的結果へと収束するのかは依然として不明である。本研究では、Lacrimispora属に保存され、secDFの直上流にコードされる、これまで認識されていなかった停止ペプチドLudP（secDFペプチドの上流に位置するLacrimispora）を同定した。in vitroおよびin vivoアッセイにより、LudPが強固なグラム陽性菌特異的な翻訳停止を誘導し、それがSecシグナル依存的に解除されることが示された。系統的変異導入法および深層変異スキャンを用いて、停止安定性とAサイト残基選択性を制御するコンパクトな15残基のC末端停止エレメントを定義した。クライオ電子顕微鏡観察により、出口トンネル内のLudP新生鎖αヘリックスがペプチジルトランスフェラーゼ中心をリモデリングし、23S rRNA（特にU2506）のAsp133依存的なコンフォメーション再編成が、生産的なAサイトアミノアシルtRNAの収容を立体的およびエネルギー的に不安定化させることが明らかになった。これらの知見は、細菌の系統群全体において、分泌連動型停止ペプチドの機能的な収斂進化を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11286265/v1",
+    "title": "Multilevel balancing of laccase biosynthesis and secretion in Bacillus subtilis enables efficient tobacco straw delignification",
+    "abstract": "Abstract    Background  Efficient extracellular production of laccase remains a major constraint in developing microbial platforms for biological delignification of lignocellulosic biomass. Here, we established a multilevel engineering strategy to coordinate laccase biosynthesis and secretion in  Bacillus subtilis  .  Results  Screening of laccase-host combinations identified the  B. subtili  s-derived BsLac1 expressed in  B. subtili  s G600 as the most effective production system. Transcriptional output was enhanced using the maltose-inducible promoter P  malA  , while extracellular export was improved by coupling BsLac1 with the signal peptide SP  ykpC  . Translation initiation was subsequently fine-tuned using a ribosome-binding-site library to further balance protein synthesis with secretion capacity. The optimal variant, RBS10, achieved an extracellular laccase activity of 1764.82 U/L under shake-flask conditions. Upon fed-batch cultivation in a 3-L bioreactor, the engineered strain reached an OD600 of approximately 180 and a maximum extracellular laccase activity of 6339.61 U/L at 36 h. Importantly, the crude extracellular enzyme preparation was directly applicable to tobacco straw delignification, decreasing lignin content from 80.7 to 56.8 mg/g, corresponding to 29.6% lignin removal. SEM and FTIR analyses revealed disruption of the compact lignocellulosic matrix and reduction of lignin-associated structural features.  Conclusions  Collectively, this study demonstrates that coordinated engineering of transcription, translation, and protein export can substantially enhance extracellular laccase production in  B. subtilis  , providing a scalable microbial platform for biological pretreatment of lignocellulosic residues.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11286265/v1",
+    "date": "2026-10-28",
+    "authors": "Zhang H, Li Z, Lv X, Liu C, Mao J, Liu J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351925",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2492,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11286265/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ff923b77702c77839c1028c465cd17fd63595530196e49316262f0481c3eeebe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:34:30.041382+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ca4f6fc9be449dc9439960228a168b1c81dc901ac8510f417182255d4ce77df0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:34:30.041382+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Bacillus subtilisにおけるラッカーゼ生合成と分泌の多段階バランスにより、タバコ茎の効率的な脱リグニン化が可能となる。",
+    "abstract_ja": "要旨    背景  ラクケースの効率的な細胞外生産は、リグノセルロース系バイオマスの生物学的脱リグニン化に向けた微生物プラットフォームの開発における主要な制約となっている。本研究では、Bacillus subtilisにおけるラクケースの生合成と分泌を協調させる多層的なエンジニアリング戦略を確立した。結果  ラクケースと宿主の組み合わせをスクリーニングした結果、B. subtilis G600で発現するB. subtilis由来のBsLac1が最も効果的な生産系であることが同定された。マルトース誘導性プロモーターPmalAを用いることで転写出力を高め、BsLac1をシグナルペプチドSPykCと共役させることで細胞外輸送を改善した。続いて、リボソーム結合部位ライブラリを用いて翻訳開始を微調整し、タンパク質合成と分泌能のさらなるバランスを実現した。最適変異体であるRBS10は、振盪フラスコ条件下で1764.82 U/Lの細胞外ラクケース活性を達成した。3 Lバイオリアクターを用いた流加培養において、改変株は36時間時点でOD600が約180に達し、最大細胞外ラクケース活性は6339.61 U/Lとなった。重要な点として、粗細胞外酵素調製物はタバコ茎の脱リグニン化に直接適用可能であり、リグニン含有量を80.7から56.8 mg/gへと減少させ、これは29.6%のリグニン除去に相当する。SEMおよびFTIR解析により、コンパクトなリグノセルロースマトリックスの破壊と、リグニン関連構造的特徴の減少が明らかになった。結論  総じて、本研究は、転写、翻訳、およびタンパク質輸送の協調的なエンジニアリングがB. subtilisにおける細胞外ラクケース生産を大幅に向上させ得ることを実証しており、リグノセルロース残渣の生物学的前処理のためのスケーラブルな微生物プラットフォームを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11076342/v1",
+    "title": "Cultivation-dependent transcriptomic reprogramming and insecticidal performance of Beauveria bassiana A1 from solid-state and submerged cultures",
+    "abstract": "Abstract    Background  Beauveria bassiana  is an important entomopathogenic fungus widely used in microbial pest management. Solid-state fermentation (SSF) is the predominant production method, whereas submerged liquid fermentation (SLF) offers potential advantages in process control and scalability. However, how cultivation conditions affect fungal transcriptional programs and the insecticidal performance of the resulting spores remains insufficiently understood. This study compared the transcriptomic profiles and insecticidal efficacy of  B. bassiana  A1 produced by SSF and SLF against the diamondback moth,  Plutella xylostella  . Results  Transcriptomic analysis with a false discovery rate (FDR) B. bassiana  A1, particularly in extracellular degradation and secondary metabolism. These differences were associated with differences in the timing of host mortality rather than ultimate insecticidal efficacy. The ability of submerged conidia to achieve comparable mortality at high propagule density supports further evaluation of SLF as an alternative production platform for  B. bassiana  biopesticides, particularly when formulation and application strategies are optimized to compensate for differences in early infection dynamics.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11076342/v1",
+    "date": "2026-10-28",
+    "authors": "Liang Y, Yen J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351912",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2493,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11076342/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9b51e392d8cf110e54267024143a26c791cb4dda745affcbdc20541cfe407bf4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:34:30.041382+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0564ba622622b8a97960c4818c8ae68efc79d52b10675ca7ad378ab9bb9849b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:34:30.041382+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "固形状および沈水培養によるBeauveria bassiana A1の培養依存的なトランスクリプトーム・リプログラミングと殺虫性能",
+    "abstract_ja": "要旨    背景  Beauveria bassianaは、微生物害虫管理に広く用いられている重要な昆虫病原性真菌である。固体発酵（SSF）が主要な生産手法である一方、浸漬液発酵（SLF）はプロセス制御および拡張性の面で潜在的な利点を有する。しかし、培養条件が真菌の転写プログラムおよび得られた胞子の殺虫性能にどのような影響を及ぼすかについては、十分に解明されていない。本研究では、SSFおよびSLFによって産生されたB. bassiana A1のトランスクリプトームプロファイルと殺虫効力を、コナガ（Plutella xylostella）を用いて比較した。結果  トランスクリプトーム解析における偽発見率（FDR） B. bassiana A1、特に細胞外分解および二次代謝において。これらの差異は、最終的な殺虫効力ではなく、宿主の死亡時期の相違に関連していた。高い胞子密度において浸漬分生子が同等の死亡率を達成できる能力は、特に初期感染動態の差異を補うように製剤化および散布戦略を最適化した場合、B. bassiana生物農薬の代替生産プラットフォームとしてのSLFのさらなる評価を支持するものである。"
   }
 ]
