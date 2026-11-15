@@ -232031,5 +232031,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ドーパミン結合型RNAアプタマーの構造から明らかになった金属介在性リガンド認識",
     "abstract_ja": "要旨低分子結合型RNAアプタマーの選択により、リガンド応答性RNAツールの作製が可能となるが、ほとんどのアプタマーは多様な環境下で安定して機能しない。スキャフォールド選択は、リボスイッチ・スキャフォールドの三次構造を維持しつつ、新たなリガンド結合ポケットの進化を促進することで、この限界を解消する。我々は以前、プリンリボスイッチアプタマーを用いてドーパミン結合アプタマーを作製した。本報では、スキャフォールドの完全性を維持しつつリガンドを認識する仕組みを明らかにするため、代表的な2つのバリアントのアポ状態およびドーパミン結合状態における結晶構造を報告する。構造解析により、スキャフォールド選択が大域的なフォールド保存を強制し、親リボスイッチの特徴的な三次相互作用を保持していることが示された。選択過程で生じた欠失によって誘発される局所的なリモデリングが、三方接合部を再構成し、ドーパミン結合ポケットを収容する広範な相互作用ネットワークを構築する。深部に埋め込まれたカリウムイオンがリガンド認識のアンカーとなり、一方でRNAはスタッキングおよび水素結合相互作用を介してカテコール環と結合する。構造プロービングの結果、リガンド結合に伴うコンフォメーション変化は最小限であり、アプタマーが概ねあらかじめ組織化されたフォールドをとることが示された。構造安定性と局所的な可塑性のバランスにより、単一のRNAフォールドが化学的に異なるリガンドを認識する能力が拡大し、スキャフォールド選択は、堅牢なRNAベースのセンシングおよび調節デバイスを設計するための強力なプラットフォームとなる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1143",
+    "title": "Hypernova: a faster and brighter light-producing deoxyribozyme",
+    "abstract": "AbstractAs a functional nucleic acid motif is optimized, better variants become less abundant in sequence space and significantly more difficult to identify. Here, we used two types of libraries to discover an improved variant of a previously optimized light-producing deoxyribozyme called Supernova. One library was designed in such a way that most mutations were consistent with the sequence requirements and secondary structure of this catalytic motif. The second contained short stretches of random sequence in place of AAAA spacers previously introduced in minimization experiments. Catalytically active sequences were isolated from each library using single and multiple round selections. Mutations from the best deoxyribozymes were then combined to yield an improved variant containing 12 mutations, which we named Hypernova. The rate of Hypernova at subsaturating substrate concentrations was up to 97-fold higher than that of Supernova, and its initial rate of light production was up to 30-fold faster. In addition, sensors constructed using Hypernova outperformed those made from Supernova in three different assays. These results indicate that Hypernova can enhance the performance of light-producing deoxyribozyme sensors for applications such as diagnostics and high-throughput screening.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1143",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1143/9041023?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4566,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/nar/gkag1143"
+    ],
+    "translation": {
+      "title": {
+        "hash": "68822b66e06d6ecdd6eaa5ef49bea4183840061ad87049edc0bb9ba0cdd29e95",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:16:25.539532+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e6b8093e82a337701e0a5ec5a2425399570f94990ea0f62a4c9ed8f0c3f9833f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:16:25.539532+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ハイパーノヴァ：より高速かつ高輝度な発光デオキシリボザイム",
+    "abstract_ja": "要旨 機能性核酸モチーフが最適化されるにつれ、より優れたバリアントは配列空間における存在量が減少し、同定が著しく困難になる。本研究では、2種類のライブラリを用いて、以前に最適化された光産生デオキシリボザイムであるSupernovaの改良バリアントを発見した。一方のライブラリは、ほとんどの変異がこの触媒モチーフの配列要件および二次構造と整合するように設計されていた。もう一方には、最小化実験で以前に導入されたAAAAスペーサーの代わりに、ランダム配列の短い領域が含まれていた。単一ラウンドおよび複数回ラウンドの選択を用いて、各ライブラリから触媒活性を有する配列を単離した。次いで、最良のデオキシリボザイム由来の変異を組み合わせ、12個の変異を含む改良バリアントを得た。これをHypernovaと命名した。亜飽和基質濃度におけるHypernovaの反応速度は、Supernovaの最大97倍であり、初期の光産生速度は最大30倍速かった。さらに、Hypernovaを用いて構築したセンサーは、3つの異なるアッセイにおいてSupernova製センサーを上回る性能を示した。これらの結果は、Hypernovaが診断やハイスループットスクリーニングなどの用途に向けた光産生デオキシリボザイムセンサーの性能を向上させ得ることを示している。"
+  },
+  {
+    "id": "10.64898/2026.11.13.766375",
+    "title": "H9N2 avian influenza virus in Bangladesh: three genetically distinct co-circulating subgroups retain a largely conserved antigenic phenotype",
+    "abstract": "Low pathogenic avian influenza (LPAI) H9N2 viruses are endemic in poultry across Bangladesh, causing substantial economic losses and posing a persistent zoonotic risk. Although genetic surveillance has documented ongoing viral evolution, the relationship between genetic diversification and antigenic change remains poorly understood. This study investigated the genetic diversity, reassortment, and antigenic characteristics of contemporary H9N2 viruses circulating in Bangladesh. Phylogenetic analysis of 219 sampled sequences revealed three genetically distinct monophyletic haemagglutinin (HA) G-lineage sub-groups, each characterised by unique amino acid substitutions. In contrast, neuraminidase (NA) displayed similar genetic diversity without distinct phylogenetic clusters. A dual-metric analysis of paired HA and NA phylogenies identified 20 putative reassortant H9N2 viruses. Further analysis showed that genetic diversity was geographically structured; however, all three HA subgroups co-circulated across multiple regions, and some live bird markets contained representatives of all three groups simultaneously, suggesting that live bird markets may facilitate mixing between genetically distinct viruses, and create opportunities for reassortment among otherwise geographically separated strains. Despite substantial genetic diversity and reassortment, all viruses remained antigenically similar based on haemagglutination inhibition and virus neutralisation assays. However, a representative strain from one subgroup induced significantly lower homologous and heterologous antibody titres, suggesting reduced immunogenicity. Our findings demonstrate a notable disconnect between genetic evolution and antigenic change in Bangladeshi H9N2 viruses. While reassortment and genetic diversification continue to shape viral populations, antigenic properties remain largely conserved, supporting the continued relevance of current vaccine strategies while highlighting the importance of ongoing genetic and antigenic surveillance.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766375",
+    "date": "2026-11-14",
+    "authors": "Daines, R., Sadeyen, J.-R., Hasan, M., Das, T., Sizer, R. M., Uddin, M. H., Biswas, P. K., Samad, M. A., Hoque, M. A., Conan, A., Lynton-Jenkins, J. G., Banyard, A. C., Brown, I. H., Lewis, T., Raghwani, J., Fournie, G., Blake, D. P., Tomley, F., Iqbal, M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766375v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4563,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.13.766375"
+    ],
+    "translation": {
+      "title": {
+        "hash": "df181bad06bb2dddb1b372643c3a508ba003f4f6cb2bdf680f450d1a86772284",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:16:25.539532+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0f19833f20ce89fc8033039fca393e88c3fa36f63bae9228fb76423aecc4cee4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:16:25.539532+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バングラデシュにおけるH9N2型鳥インフルエンザウイルス：遺伝的に異なる3つの共流行サブグループが、大部分が保存された抗原表現型を保持している",
+    "abstract_ja": "低病原性鳥インフルエンザ（LPAI）H9N2ウイルスはバングラデシュ全土の家禽において常在しており、多大な経済的損失をもたらすとともに、持続的な人獣共通感染リスクとなっている。遺伝的サーベイランスによりウイルスの継続的な進化が記録されているものの、遺伝的多様化と抗原性変化の関係については依然として十分に解明されていない。本研究では、バングラデシュで流行している現代のH9N2ウイルスの遺伝的多様性、再集合、および抗原特性について調査した。採取した219配列の系統解析の結果、遺伝的に異なる3つの単系統的なヘマグルチニン（HA）G系統サブグループが明らかとなり、それぞれが固有のアミノ酸置換によって特徴づけられていた。対照的に、ノイラミニダーゼ（NA）は明確な系統群を認めないものの、同様の遺伝的多様性を示した。HAおよびNAの対になる系統樹の二重指標解析により、推定再集合型H9N2ウイルス20株が同定された。さらなる解析により、遺伝的多様性は地理的に構造化されていたが、3つのHAサブグループすべてが複数の地域で共存しており、一部の生きた鳥類市場では3つのグループすべての代表株が同時に存在していたことが判明した。このことは、生きた鳥類市場が遺伝的に異なるウイルス間の混合を促進し、本来であれば地理的に分離している株間の再集合の機会を生み出す可能性を示唆している。著しい遺伝的多様性と再集合が見られるにもかかわらず、ヘマグルチン化阻害試験およびウイルス中和試験に基づくと、すべてのウイルスは抗原性において類似していた。しかし、あるサブグループの代表株は、相同および異種抗体価を有意に低く誘導し、免疫原性の低下が示唆された。本研究の結果は、バングラデシュのH9N2ウイルスにおける遺伝的進化と抗原性変化との間に顕著な乖離があることを示している。再集合と遺伝的多様化がウイルス集団を形成し続けている一方で、抗原性特性は概ね保存されており、これは現行のワクチン戦略の継続的な妥当性を裏付けるとともに、継続的な遺伝的および抗原性サーベイランスの重要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11626000/v1",
+    "title": "Predicting GxE through phenomic prediction: A benchmark study across three species",
+    "abstract": "Abstract  Phenomic prediction (PP) is a genetic value prediction method inspired by genomic prediction (GP). One key feature of PP compared to GP is its potential ability to predict interactions between genotypes and environments (GxE). Using kernel-based models, many relationship matrix calculation methods for the G and GxE terms have been proposed but never fairly compared. In this study, we exhaustively tested different combinations of published methods to compute these matrices, and implemented a new method supposed to better split the genetic (G) and GxE information in their respective matrices. Using three datasets on maize, rice, and triticale, results show that the G effect matrix is the main driver of predictive abilities (PA). Computing the G effect matrix using BLUPs of wavelengths across environments was better when predicting new genotypes in known environments. To predict known genotypes in new environments or in a sparse testing scenario, it was better to compute one relationship matrix per environment and average them into a single G effect matrix. We found little differences between models including a GxE term and models without it. Nevertheless, dense GxE matrices including relationships within and across environments were generally the best choice. Finally, combining genomic information for the G effect, and phenomic information for the GxE effect gave the best results. Clear guidance of the best ways to take advantage of phenomic prediction to predict GxE will likely require a simulation approach to better control the GxE information in datasets.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11626000/v1",
+    "date": "2026-11-10",
+    "authors": "Bienvenu C, de Verdal H, Segura V, Pot D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363306",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4551,
+    "collected_at": "2026-11-15T02:39:01.161368+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.21203/rs.3.rs-11626000/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9349a77697260eb9246e2d2aa5b52166459c689a46a5b047796def5aefc06a90",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:16:25.539532+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9ea961e33ee8460fd00c897c48ed3c198bfd8560f4958fa8781200eb6f957c2c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:16:25.539532+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フェモニック予測によるGxEの予測：3種にわたるベンチマーク研究",
+    "abstract_ja": "要旨　フェノミクス予測（PP）は、ゲノム予測（GP）に着想を得た遺伝的価値予測手法である。GPと比較したPPの主要な特徴の一つは、遺伝子型と環境（GxE）の相互作用を予測できる可能性にある。カーネルベースのモデルを用いて、G項およびGxE項の関係行列を算出する手法が数多く提案されてきたが、それらが公平に比較されたことはなかった。本研究では、既報の手法のさまざまな組み合わせを網羅的に検証してこれらの行列を算出し、遺伝的（G）情報とGxE情報をそれぞれの行列により適切に分離することを目的とした新たな手法を実装した。トウモロコシ、イネ、およびトリティケールの3つのデータセットを用いた結果、G効果行列が予測能力（PA）の主要な要因であることが示された。環境間の波長のBLUPを用いてG効果行列を算出する方法は、既知の環境における新規遺伝子型の予測においてより有効であった。新規環境における既知の遺伝子型の予測や、疎なテストシナリオにおいては、環境ごとに1つの関係行列を算出し、それらを単一のG効果行列に平均化する方が効果的であった。GxE項を含むモデルと含まないモデルとの間には、ほとんど差が見られなかった。それにもかかわらず、環境内および環境間の関係を含む密なGxE行列が、一般的に最良の選択肢であった。最終的に、G効果にはゲノム情報を、GxE効果にはフェノミクス情報を組み合わせることで最良の結果が得られた。フェノミクス予測を活用してGxEを予測するための最適な手法を明確に導き出すには、データセット内のGxE情報をより適切に制御するためのシミュレーションアプローチが必要となる可能性が高い。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.764889",
+    "title": "Rapid generation of antibody conformational ensembles using machine learning",
+    "abstract": "We introduce Cadense, a generative framework for antibody ensemble prediction that produces diverse Fv structures from sequence, informed by conformational dynamics. While a valuable resource, static structure prediction provides only a single snapshot of dynamic proteins, whose motions influence their binding and other properties. This is particularly relevant for antibodies, an important class of molecules for drug discovery, where flexible complementarity determining region (CDR) loops are difficult to model with static approaches. Cadense addresses this gap by generating ensembles that match conformational and biophysical property distributions from molecular dynamics (MD), while reducing the computational burden from days of simulation to seconds of generation. We show Cadense ensembles can recover both  apo and  holo conformations of the same antibody and serve as effective input to physics-based docking, capturing the conformational flexibility important to properly model antibody–antigen interactions. Together, these results establish Cadense as a useful tool for antibody conformational ensemble generation with the promise to enable faster, dynamics-aware antibody design.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764889",
+    "date": "2026-11-09",
+    "authors": "Rao PV, Sommer D, Davidson D, Alberstein RG, Ludwiczak J, Kleinhenz J, Vani B, Park E, Lee JH, Izadi S, Kiefer JR, Bonneau R, Mahajan SP, Watkins AM, Dreyer FA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1367599",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene",
+          "prediction",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4453,
+    "collected_at": "2026-11-15T02:39:01.161368+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.06.764889"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3675e4358b04f18e5199cc7d83ee87335bc0b45c9e3dd7622b261a967881b286",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:16:25.539532+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6ab4cc93d5c1bb722be5a64ace3efcfc0fcfe09d235dab5499b8a9249a187bd7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:16:25.539532+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "機械学習を用いた抗体コンフォメーションアンサンブルの迅速生成",
+    "abstract_ja": "本研究では、コンフォメーションダイナミクスに基づき、配列から多様なFv構造を生成する抗体アンサンブル予測のための生成フレームワーク「Cadense」を提案する。静的な構造予測は有用なリソースであるものの、動的なタンパク質の単一のスナップショットしか提供できず、その運動が結合やその他の特性に影響を及ぼす。この点は、創薬において重要な分子クラスである抗体において特に顕著であり、柔軟な相補性決定領域（CDR）ループを静的な手法でモデル化することは困難である。Cadenseは、分子動力学（MD）によるコンフォメーションおよび生物物理学的特性の分布に合致するアンサンブルを生成することでこのギャップを埋め、計算負荷を数日に及ぶシミュレーションから数秒の生成へと低減させる。我々は、Cadenseのアンサンブルが同一抗体のアポ型とホロ型の両方のコンフォメーションを復元でき、かつ物理ベースドドッキングへの有効な入力として機能し、抗体－抗原相互作用を適切にモデル化する上で重要なコンフォメーション柔軟性を捉えられることを示す。以上の結果により、Cadenseは抗体コンフォメーションアンサンブル生成のための有用なツールであることが実証され、より高速でダイナミクスを考慮した抗体設計を実現する可能性が示された。"
   }
 ]
