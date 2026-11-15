@@ -253018,5 +253018,321 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CATFISHR: 網羅的な悪性細胞同定に向けたトランスクリプトームと推定CNVプロファイルの統合",
     "abstract_ja": "要旨  シングルセルRNAシーケンシング（scRNA-seq）における悪性細胞の同定は、トランスクリプトームによる細胞型判定、体細胞変異の検出、および推定コピー数解析の各手法にモダリティ固有の限界があるため、依然として困難な課題である。希少または曖昧な悪性細胞集団は、治療抵抗性、微小残存病変、および転移との関連性が高いにもかかわらず、誤分類や除外の影響を受けやすい。我々は、RNA発現の類似性、推定コピー数変動（CNV）プロファイル、およびコンセンサス細胞型判定を統合し、高信頼度のリファレンスに基づいて悪性細胞を分類する半自動ワークフロー「CATFISHR」を開発した。CATFISHRは、複数の癌種およびメラノーマ亜型にわたる7つのscRNA-seqデータセットと、1つの10x Visium空間トランスクリプトミクスサンプルを含む計8つのコホートで評価された。既存のベンチマークやグラウンドトゥルースと比較して、CATFISHRは8つのコホートのうち6つでバランス正解率0.85超を、6つでF1スコア0.80超を達成した。CATFISHRによって悪性として特異的に同定された細胞（「Hidden」細胞）はすべてのデータセットに存在し、標準的な品質管理指標では一貫して説明できなかった。いくつかのコホートにおいて、Hidden細胞は非悪性コンパートメントよりもベンチマークの悪性コンパートメントに転写的に近かった。Visiumデータでは、サンプリングされたHiddenスポットに組織学的に確認された形態学的悪性細胞が含まれていた。CATFISHRは、見逃した悪性判定を低減しつつ、希少、移行期、およびベンチマークと不一致な細胞集団を後続の解析のために保持する。図版付き要旨"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.24.761506",
+    "title": "OTTER: Orchestrated Transcriptomic, Tumor-xenograft (PDX/CDX), and Epigenomic Reporting Workflow",
+    "abstract": "Summary  Tumor xenograft sequencing libraries inevitably contain infiltrating murine host reads, but conventional deconvolution tools fail on bisulfite sequencing (BS-seq) because chemical C-to-T deamination collapses sequence entropy and destroys graft recall (  Availability and implementation  OTTER is implemented in Go and Rust, runs on x86 64 Linux (including CentOS 7 with glibc 2.17), and is freely available open-source under the MIT License at  https://github.com/otterlab-bio/otter ; test and validation data are provided at  https://huggingface.co/datasets/fallingstar10/otter-data .  Contact  xx-wang119@hotmail.com ,  fzhang@cmpt.ac.cn Supplementary information  Supplementary data are available with this preprint.",
+    "journal": "",
+    "doi": "10.64898/2026.10.24.761506",
+    "date": "2026-10-27",
+    "authors": "Zheng Y, Liu X, Yi Y, Sun X, Liu F, Yan X, Man C, Gu H, Wang X, Zhang F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351692",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "epigenomic",
+        "transcriptomic",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4642,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.24.761506"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c1ec4e1e9809e3994911d6252fa6422a20909c6252cb415c452684ff52fe7983",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:16:07.167757+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ef40d1b62d9d6561ccff39f9408fb34c794181a3d129c0cc48659ff48a97194a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:16:07.167757+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "OTTER：系統化されたトランスクリプトーム、腫瘍ゼノグラフト（PDX/CDX）、およびエピゲノム報告ワークフロー",
+    "abstract_ja": "概要  腫瘍ゼノグラフトシーケンシングライブラリには、必然的に浸潤したマウス宿主由来のリードが含まれるが、従来のデコンボリューションツールは亜硫酸塩シーケンシング（BS-seq）において機能しない。これは、化学的なC-to-T脱アミノ化によって配列エントロピーが崩壊し、グラフトリコールが損なわれるためである。（  利用可能性および実装  OTTERはGoおよびRustで実装されており、x86 64 Linux（glibc 2.17搭載のCentOS 7を含む）上で動作し、MITライセンスの下でオープンソースとして https://github.com/otterlab-bio/otter にて無料で公開されている。テストおよび検証データは https://huggingface.co/datasets/fallingstar10/otter-data で提供されている。  連絡先  xx-wang119@hotmail.com ,  fzhang@cmpt.ac.cn 補足情報  補足データは本プレプリントに付随している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.24.761531",
+    "title": "Identification of gene kinetics patterns improves RNA velocity and cell fate prediction using JuloVelo",
+    "abstract": "Single-cell RNA velocity has transformed our capacity to predict future cell states from sequencing snapshots, but existing methods rely on constant or binary kinetic assumptions that fail to capture the heterogeneous splicing dynamics of cellular differentiation. Here we present JuloVelo, a deep learning framework that demonstrates that identifying gene kinetics patterns to initialize neural network training dramatically improves RNA velocity model performance. By pre-determining whether each gene follows a Circle, Complete induction, or Complete repression pattern across cellular differentiation, JuloVelo initializes training with pattern-matched, pre-trained network weights, effectively guiding the cell-specific kinetics optimization away from biologically implausible parameter regimes. Additionally, JuloVelo demonstrates that multiome datasets can also be processed and modeled by utilizing promoter chromatin accessibility to guide kinetics pre-determination, and integrates an  in silico perturbation framework to simulate transcription factor modulation on cell fate. Validated across eight datasets spanning erythrogenesis, neurogenesis, and endocrinogenesis, JuloVelo consistently outperformed constant-rate and cell-specific models, resolving the entire five-lineage differentiation program in hippocampal neurogenesis. Multiome processing improved both intrinsic and extrinsic velocity stability, and JuloVelo reduced computational execution time by approximately 70% compared to cellDancer. JuloVelo is available as an open-source package at  https://github.com/jhlabtw/JuloVelo.jl .",
+    "journal": "",
+    "doi": "10.64898/2026.10.24.761531",
+    "date": "2026-10-27",
+    "authors": "Tung K, Tu Y, Hsieh K, Juan H, Huang H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351648",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework",
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4643,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.24.761531"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1c3ffe700bc5b91c9e1345fda3cd1e89c2934c58ae4af6bbb1c1b778517dc387",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:16:07.167757+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "54ef7dbdc89390c456fbbde592019909dc5cd33e4fc960cff1c53eb7b717a5de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:16:07.167757+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝子動態パターンの同定により、JuloVeloを用いたRNA速度および細胞運命の予測精度が向上する",
+    "abstract_ja": "単一細胞RNA速度解析により、シーケンシングのスナップショットから将来の細胞状態を予測する能力が飛躍的に向上したが、既存の手法は一定または二値的な速度論的仮定に依存しており、細胞分化における不均一なスプライシング動態を捉えきれていない。本研究では、遺伝子速度論パターンを特定してニューラルネットワークの学習を初期化することで、RNA速度モデルの性能が劇的に向上することを示す深層学習フレームワーク「JuloVelo」を提案する。細胞分化の過程において、各遺伝子が「サークル（Circle）」、「完全誘導（Complete induction）」、または「完全抑制（Complete repression）」のいずれのパターンに従うかを事前決定することで、JuloVeloはパターンに合致した事前学習済みネットワーク重みを用いて学習を初期化し、細胞特異的な速度論的最適化を生物学的に不自然なパラメータ領域から効果的に遠ざける。さらに、JuloVeloは、プロモータークロマチンアクセシビリティを利用して速度論的事前決定を導くことで、マルチオームデータセットの処理およびモデリングが可能であることを実証し、細胞運命における転写因子調節をシミュレートするためのin silico摂動フレームワークを統合している。赤血球形成、神経発生、および内分泌形成にわたる8つのデータセットで検証した結果、JuloVeloは一定速度モデルや細胞特異的モデルを一貫して上回り、海馬神経形成における5系統の分化プログラム全体を解明した。マルチオーム処理により、内因性および外因性の双方の速度安定性が向上し、JuloVeloはcellDancerと比較して計算実行時間を約70%短縮した。JuloVeloは、オープンソースパッケージとして https://github.com/jhlabtw/JuloVelo.jl で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2634.v1",
+    "title": "Local Entropy and LZ-Complexity of Hi-C Contact Profiles as Independent Predictors of Chromatin Accessibility Across Cell Lines",
+    "abstract": "Background:  Three-dimensional chromatin organization is tightly linked to gene regu- lation and genome function, yet quantitative descriptors connecting local contact patterns to functional state remain limited. Standard approaches such as A/B compartments (PC1), topologically associating domains (TADs), and chromatin loops are global or domain-level, and require complex computational pipelines. Methods. We propose two simple local features computed directly from a Hi-C contact profile: Shannon entropy of the contact distribution and normalized LZ-complexity of the binarized contact pattern. Their ability to predict chromatin accessibility (ATAC-seq coverage) was assessed with multiple linear regression, gradient boosting, and graph convolutional networks (GCN). The analysis was performed on two human cell lines—GM12878 (lymphoblastoid) and K562 (erythroleukemic)— for all 23 chromosomes (1–22, X) at 100 kb resolution. Results. Linear regression with entropy, LZ, and PC1 showed that entropy (β = −2.97, p  0.22), whereas the contribution of PC1 was smaller (0.12–0.19) and that of LZ was the smallest (0.05–0.11). Conclusions. Local entropy and LZ-complexity are simple, interpretable, and independent predictors of chromatin accessibility that outperform the standard compartment index in linear models. Graph neural networks provide an additional gain by exploiting local graph topology. The proposed approach is computationally efficient, requires no additional experimental data, and demonstrates stable results across two different cell lines, indicating generalizability. This work opens new avenues for studying the relationship between 3D genome structure and function using simple structural measures.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2634.v1",
+    "date": "2026-10-27",
+    "authors": "Timofeev A, Bratishchikov A, Anufriev A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350590",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "chromatin",
+        "predictor"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4644,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.20944/preprints202610.2634.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "10e72add166ec2b8d44362fea73dffe61db37353b2cf7f0185861f32bf7c7765",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:16:07.167757+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a3b8866479aacf09d5da94ea1cd4a2149052c1b03417c7d5ca2319c1c767ec18",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:16:07.167757+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞株間におけるクロマチンアクセシビリティの独立予測因子としてのHi-Cコンタクトプロファイルの局所エントロピーおよびLZ複雑性",
+    "abstract_ja": "背景：三次元クロマチン構造は遺伝子調節およびゲノム機能と密接に関連しているが、局所的な接触パターンを機能的状態に結びつける定量的な記述子は依然として限られている。A/Bコンパートメント（PC1）、トポロジカル関連ドメイン（TADs）、クロマチンループといった標準的な手法は、大域的またはドメインレベルのものであり、複雑な計算パイプラインを必要とする。方法：我々は、Hi-C接触プロファイルから直接算出される2つの簡便な局所的特徴量、すなわち接触分布のシャノンエントロピーと、二値化された接触パターンの正規化LZ複雑度を提案する。これらによるクロマチンアクセシビリティ（ATAC-seqカバレッジ）の予測能を、重回帰分析、勾配ブースティング、およびグラフ畳み込みネットワーク（GCN）を用いて評価した。解析は、2つのヒト細胞株（GM12878（リンパ芽球様）およびK562（赤白血病））を用い、全23染色体（1–22, X）について100 kbの解像度で実施した。結果：エントロピー、LZ、およびPC1を用いた線形回帰分析の結果、エントロピーが有意であった（β = −2.97, p = 0.22）一方、PC1の寄与はより小さく（0.12–0.19）、LZの寄与が最も小さかった（0.05–0.11）。結論：局所エントロピーおよびLZ複雑度は、簡便で解釈可能かつ独立したクロマチンアクセシビリティの予測因子であり、線形モデルにおいて標準的なコンパートメント指数を上回る性能を示す。グラフニューラルネットワークは、局所的なグラフトポロジーを活用することでさらなる性能向上をもたらす。提案手法は計算効率が高く、追加の実験データを必要とせず、2つの異なる細胞株にわたって安定した結果を示したことから、汎化可能性が示された。本研究は、簡便な構造的指標を用いて3次元ゲノム構造と機能の関係を研究するための新たな道を切り拓くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761785",
+    "title": "Ecological and metabolic signatures of biofilm viromes across a national river surveillance network",
+    "abstract": "Benthic biofilms are biogeochemical hotspots in rivers, yet their endogenous viral communities remain poorly resolved at national scales. We analysed 447 biofilm metagenomes from 146 sites within England’s River Surveillance Network (RSN), sampled in spring and autumn from 2021 to 2023, integrating viral operational taxonomic units (vOTUs), water-quality gradients, predicted host associations and auxiliary metabolic genes (AMGs). We recovered 38,534 vOTUs, revealing extensive viral novelty, where 93% of the vOTUs could not be assigned to a known family. Viromes were dominated by Caudoviricetes and unclassified lineages and were extremely heterogeneous: no vOTU occurred in more than 8.3% of samples. Season, but not sampling year, structured virome composition (family-level PERMANOVA R  2 = 0.050, p = 0.001; year p = 0.08), and within-site turnover between spring and autumn exceeded turnover between years. Bray–Curtis ordination linked virome structure weakly to pH, dissolved organic carbon, conductivity, nitrate-N and dissolved oxygen (envfit R  2 ≤ 0.066), while threshold indicator taxa analysis (TITAN) identified vOTUs with abrupt change points along alkalinity, dissolved oxygen, nitrate-N and temperature gradients. Predicted host associations were concentrated in Pseudomonodota, Cyanobacteriota and Bacteroidota, with  Microcoleus ,  Chamaesiphon and  Flavobacterium among the dominant host genera. Virus–host networks were modular, and module abundances correlated with water quality variables (dissolved oxygen, pH, nitrate etc.), suggesting that environmental filtering acts partly through host ecology. Predicted virus–host associations formed a sparse network organised around a few highly connected viral lineages. Functional profiling showed that the biofilm virome was dominated by nucleotide metabolism, DNA methylation, phosphate-stress, glycan-modification and photosynthesis-related AMGs, with  nrdA /  nrdB ribonucleotide reductase as the dominant AMG signal. Few vOTUs (1.2%) were detected as proviruses, although provirus fractions were higher in selected host-linked lineages. Collectively, these results show that river biofilm viromes are seasonally structured ecological communities whose composition, host associations and metabolic potential reflect the physicochemical and biological state of rivers. We propose that biofilm viromes provide a complementary layer of information for understanding river health, microbial ecology and the propagation of anthropogenic pressures in freshwater systems.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761785",
+    "date": "2026-10-26",
+    "authors": "Busi SB, Thorpe AC, Warren J, Walsh K, Read DS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351772",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomes",
+        "microbial",
+        "viral",
+        "virome",
+        "viromes",
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "river"
+        ],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 114,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761785"
+    ],
+    "translation": {
+      "title": {
+        "hash": "21edc12c939a2f840b2033986c7e02b6c3d2ddafe2e67c2f1af3746808cf1632",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:16:07.167757+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e0cc39fb4bf8ee6646df7565eb2dc05506ff9bd7f5091f09de16916a3b8b8774",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:16:07.167757+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "全国河川監視ネットワークにおけるバイオフィルム・ビロームの生態学的・代謝的シグネチャー",
+    "abstract_ja": "底生バイオフィルムは河川における生物地球化学的なホットスポットであるが、その内因性ウイルス群集の国家規模での解明は依然として不十分である。本研究では、2021年から2023年にかけて春季および秋季にサンプリングされたイングランド河川監視ネットワーク（RSN）内の146地点から得られた447件のバイオフィルムメタゲノムを解析し、ウイルス運用分類単位（vOTU）、水質勾配、予測される宿主関連、および補助代謝遺伝子（AMG）を統合した。その結果、38,534件のvOTUが回収され、広範なウイルスの新規性が明らかになった。このうち93%のvOTUは、既知の科に分類できなかった。バイロームはカウドウイルス目（Caudoviricetes）および未分類系統が支配的であり、極めて不均一であった。すなわち、8.3%を超えるサンプルにおいて単一のvOTUが検出されなかった。バイロームの組成はサンプリング年ではなく季節によって構造化されており（科レベルのPERMANOVA R = 0.050, p = 0.001；年レベル p = 0.08）、春季から秋季にかけての地点内ターンオーバーは、年間のターンオーバーを上回っていた。Bray–Curtis順序付け法による解析では、バイローム構造はpH、溶存有機炭素、導電率、硝酸態窒素、および溶存酸素と弱い関連を示した（envfit R ≤ 0.066）。一方、閾値指標分類群解析（TITAN）では、アルカリ度、溶存酸素、硝酸態窒素、および温度勾配に沿って急激な変化点を持つvOTUが同定された。予測された宿主関連はPseudomonodota、Cyanobacteriota、およびBacteroidotaに集中しており、Microcoleus、Chamaesiphon、およびFlavobacteriumが主要な宿主属であった。ウイルス–宿主ネットワークはモジュール構造を呈しており、モジュールの存在量は水質変数（溶存酸素、pH、硝酸塩など）と相関していた。このことは、環境フィルタリングが部分的に宿主の生態を介して作用していることを示唆している。予測されたウイルス–宿主関連は、少数の高度に連結したウイルス系統を中心に構成された疎なネットワークを形成していた。機能プロファイリングの結果、バイオフィルムバイロームはヌクレオチド代謝、DNAメチル化、リン酸ストレス、糖鎖修飾、および光合成関連のAMGによって支配されており、nrdA/nrdBリボヌクレオチド還元酵素が主要なAMGシグナルであることが示された。プロウイルスとして検出されたvOTUはわずか（1.2%）であったが、特定の宿主関連系統ではプロウイルスの割合が高かった。総じて、これらの結果は、河川バイオフィルムバイロームが季節的に構造化された生態群集であり、その組成、宿主関連、および代謝能が河川の物理化学的・生物学的状態を反映していることを示している。我々は、バイオフィルムバイロームが、河川の健全性、微生物生態、および淡水系における人為的圧力の伝播を理解するための補完的な情報層を提供すると提案する。"
   }
 ]
