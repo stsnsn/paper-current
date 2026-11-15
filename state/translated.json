@@ -253671,5 +253671,336 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "サルビア・ミルティオリザが誘引するコア微生物叢は、フザリウム根腐病に対する抵抗性を高める。",
     "abstract_ja": "要旨    土壌伝染性病原菌Fusarium oxysporumによって引き起こされるフザリウム根腐病は、農業上極めて重要な複数の作物において甚大な収量損失をもたらす。モデル種において根圏微生物叢は広範に研究されてきたが、植物の健全性に関連する根圏マイクロバイオームの構成については、さらなる理解が求められている。伝統医学における経済的重要性に鑑み、我々はSalvia miltiorrhizaおよびフザリウム根腐病をモデルとして、植物の健全性に関連する根圏マイクロバイオームの構成を解明した。本研究では、16S rRNAアンプリコンシーケンシングを用いて、地理的に異なる3つの栽培地域における土壌マイクロバイオームのプロファイル解析を行った。比較解析の結果、健全植物と病害植物の間で細菌群集構造に顕著な乖離が認められ、健全な根圏に富むコアマイクロバイオームにおいて、Lysobacter属がキーストーンとなる細菌分類群として同定された。機能検証により、単離したLysobacter株がF. oxysporumに対して強力な抗真菌活性を有することが示され、特にLysobacter enzymogenes株Ly-1は、温室および圃場実験の双方において一貫した生物的防除効果を示した。ゲノムおよびトランスクリプトーム解析により、Ly-1がシデロフォア合成および輸送機構を含む特殊な鉄獲得系をコードしており、鉄制限条件下でその抗真菌活性が著しく増強されることが明らかとなった。これは、鉄競合が他の生物的防除形質と協調するというモデルと整合している。総じて、本研究は新たな生物的防除パラダイムを確立するとともに、薬用植物における土壌伝染性病害の持続可能な管理に向けた、コア根圏細菌濃縮のトランスレーショナルな可能性を浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11236748/v1",
+    "title": "Genomic and experimental evidence from Antarctic geothermal sites indicates diverse thermophiles are globally cosmopolitan",
+    "abstract": "Abstract  Mt. Erebus, the world’s southernmost active volcano, is highly isolated, yet a previous study found its heated soils contain prokaryotes found elsewhere globally. This was unexpected, as non-sporulating thermophilic microorganisms are thought to be dispersal limited. We searched for the presence of metagenome assembled genomes (MAGs) from Antarctic geothermal sites outside Antarctica, finding that 62% of MAGs had matching species globally. Three of these cosmopolitan thermophiles isolated from Mt. Erebus could survive atmospheric-like conditions, with UV being the strongest selective pressure. Moreover, hot soils from Hawaiʻi sampled four years after a lava flow hosted many thermophilic MAGs with identical strains elsewhere globally, indicating that dispersal/recolonisation by thermophiles can be rapid. Finally, ice core sections from Fang Glacier (Mt. Erebus) associated with volcanic events were enriched in thermophiles, implying that thermophiles could disperse via volcanic events. Our findings dispel the common conception of thermophilic microorganisms as being inherently dispersal limited.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11236748/v1",
+    "date": "2026-10-26",
+    "authors": "McDonald I, Noell S, Dragone N, Cano-Prasad M, Pyne R, Rea L, Bertler N, Kyle P, Saw J, Archer S, Herbold C, Galilee C, Stott M, Cary S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350079",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "microorganism",
+        "microorganisms",
+        "prokaryote"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 315,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11236748/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "50648e6fa08b49b6b09ee239a9ac0e4149ae9216c29414ba6085115a4ab232d0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:22:10.111703+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7e8bf2742eb2abfb6c8861801ebb62488a877195da7d637c87279c8688efeee1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:22:10.111703+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "南極の地熱地帯から得られたゲノムおよび実験的証拠は、多様な好熱菌が世界的に遍在していることを示している。",
+    "abstract_ja": "要旨　世界最南端の活火山であるエレバス山は極めて孤立しているが、先行研究により、その加熱された土壌に世界各地で見られる原核生物が含まれていることが判明した。胞子を形成しない好熱性微生物は拡散が限定的であると考えられているため、これは予想外の結果であった。我々は、南極域外の南極地熱サイトからメタゲノムアセンブルドゲノム（MAG）の存在を探索したところ、MAGの62%が世界的に一致する種を有していることが分かった。エレバス山から単離されたこれら3種の汎地球的な好熱性微生物は、大気圏に近い条件下で生存可能であり、紫外線が最も強い選択圧となっていた。さらに、溶岩流から4年後に採取されたハワイの高温土壌には、世界各地の同一株を持つ好熱性MAGが多く含まれており、好熱性微生物による拡散・再定着が迅速に起こり得ることが示された。最後に、火山活動に関連するファング氷河（エレバス山）の氷床コア試料には好熱性微生物が豊富に含まれており、好熱性微生物が火山活動を介して拡散し得ることが示唆された。本研究の知見は、好熱性微生物が本質的に拡散が限定的であるという一般的な認識を覆すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.756838",
+    "title": "Influenza A virus H5Nx genotypes assigned by genetic similarity are incongruent with global phylogenies",
+    "abstract": "Influenza A virus H5N1 and related subtypes (H5Nx) have broad host ranges and pose a pandemic risk. Since early 2022, H5 clade 2.3.4.4b has predominated globally, causing unprecedented mortality in wild birds, poultry, and mammals, with spillovers to humans. Accurate viral classification is essential for tracking H5Nx variant emergence and spread, but reassortment among genome segments with distinct evolutionary histories complicates genotyping. H5Nx genotype assignment tools, GenoFlu in North America and Genin2 in Europe, assign segments to clusters by genetic similarity to reference sequences and define genotypes as constellations of segment clusters. However, genetic similarity does not necessarily imply recent shared ancestry due to independently re-occurring mutations and variability in the evolutionary rate. Furthermore, similarity is defined relative to references that may inadequately represent diversity. We evaluated the congruence of genetic similarity-based H5Nx clusters and genotypes with phylogenies of global sequences across eight segments. H5Nx genomes from 41,366 samples were assigned GenoFlu and Genin2 genotypes, and maximum likelihood phylogenies were inferred for each segment. CD-HIT and phylogenetic TreeCluster clusters were also generated for a range of distance thresholds. Clustering methods were evaluated based on phylogenetic purity, monophyly, and diversity. Reassortment within predominant GenoFlu and Genin2 genotypes was evaluated based on their phylogenetic cluster spans. Expectedly, GenoFlu was largely unable to assign genomes from outside of North America, South America, and Antarctica from 2022 to 2025, whereas Genin2 assignments struggled outside of Europe, Africa, and Western Asia. Only 14.2% of GenoFlu clusters were monophyletic, while Genin2 clusters were more variable across segments (overall 49.3% monophyletic). Despite CD-HIT yielding genetic distance clusters of similar size to TreeCluster, they were less monophyletic (44%) and encompassed greater phylogenetic diversity. We identified several genotypes, such as GenoFlu B3.13, D1.1, and D1.3, with segments that had diversified into separate subclusters. Similarly, GenoFlu genotypes B3.5 and A3, and Genin2 genotypes EA-2020-C, EA-2021-AB, and EA-2022-CH may erroneously combine multiple distinct reassortants. Genetic similarity-based H5Nx genotyping tools are rapid, stable, and sufficient for broad categorization, but may group viruses with distinct evolutionary histories and fail to assign divergent viruses, risking biased surveillance, modeling, and risk assessment.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.756838",
+    "date": "2026-10-26",
+    "authors": "McLaughlin A, Tran H, Tait D, Nguyen H, Rudar J, Giacinti JA, Signore AV, Lung OA, Berhane Y, Poljak Z, Maguire F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351776",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 502,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.756838"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ba2100794eab7daa11278b7a638951d11bf3a553e629a568b63e7bf4e0512a75",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:22:10.111703+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7cd2f3d0c1b060ae383b34d98695fee59a0390352233e2a0c4d175f2d6ebc0fa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:22:10.111703+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝的類似性に基づいて割り当てられたA型インフルエンザウイルスH5Nx遺伝子型は、世界的な系統樹と一致しない。",
+    "abstract_ja": "A型インフルエンザウイルスH5N1および関連亜型（H5Nx）は宿主範囲が広く、パンデミックのリスクをもたらす。2022年初頭以降、世界的にH5クレード2.3.4.4bが優勢となり、野生鳥類、家禽、哺乳類において前例のない致死率を引き起こし、ヒトへのスピルオーバーも発生している。H5Nx変異株の出現と拡散を追跡するには正確なウイルス分類が不可欠であるが、異なる進化史を持つゲノムセグメント間での再集合がジェノタイピングを困難にしている。北米のGenoFluおよび欧州のGenin2といったH5Nxジェノタイプ割り当てツールは、参照配列との遺伝的類似性に基づいてセグメントをクラスターに割り当て、セグメントクラスターの組み合わせとしてジェノタイプを定義する。しかし、独立して再発生する変異や進化速度のばらつきがあるため、遺伝的類似性が必ずしも最近の共通祖先を意味するわけではない。さらに、類似性は、多様性を十分に表現していない可能性のある参照配列を基準として定義される。我々は、8つのセグメントにわたり、遺伝的類似性に基づくH5Nxクラスターおよびジェノタイプと、全球配列の系統樹との一致性を評価した。41,366検体のH5NxゲノムにGenoFluおよびGenin2のジェノタイプを割り当て、各セグメントについて最大尤度系統樹を推定した。また、さまざまな距離閾値でCD-HITおよび系統樹上のTreeClusterクラスターを生成した。クラスタリング手法は、系統的純度、単系統性、および多様性に基づいて評価した。優勢なGenoFluおよびGenin2ジェノタイプ内での再集合については、それらの系統クラスターの範囲に基づいて評価した。予想通り、GenoFluは2022年から2025年にかけて、北米、南米、および南極以外のゲノムをほとんど割り当てることができず、一方でGenin2の割り当ては欧州、アフリカ、および西アジア以外で困難であった。GenoFluクラスターのうち単系統であったのはわずか14.2%であり、Genin2クラスターはセグメント間でよりばらつきが大きかった（全体で49.3%が単系統）。CD-HITはTreeClusterと同程度のサイズの遺伝的距離クラスターを生成したものの、単系統性は低く（44%）、より大きな系統的多様性を含んでいた。我々は、セグメントが個別のサブクラスターへと分化したGenoFlu B3.13、D1.1、D1.3などの複数のジェノタイプを同定した。同様に、GenoFluジェノタイプB3.5およびA3、ならびにGenin2ジェノタイプEA-2020-C、EA-2021-AB、EA-2022-CHは、複数の異なる再集合株を誤って統合する可能性がある。遺伝的類似性に基づくH5Nxジェノタイピングツールは迅速かつ安定しており、広範な分類には十分であるが、異なる進化史を持つウイルスをグループ化し、分岐したウイルスを割り当てられない場合があり、監視、モデリング、およびリスク評価にバイアスが生じる恐れがある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2419.v1",
+    "title": "In Silico Validation of Contemporary East African Rift Valley Fever Virus Genomes Confirms the Enduring Robustness of the Bird et al. (2007) RT-qPCR Assay",
+    "abstract": "Rift Valley fever virus (RVFV) is a zoonotic pathogen causing recurrent epizootics and epi-demics in East Africa. The quantitative reverse transcription PCR (RT-qPCR) assay devel-oped by Bird et al. (2007), targeting the large (L) genome segment, remains a global diag-nostic standard. However, continuous viral evolution raises concerns regarding diagnostic drift and potential assay failure. This study evaluated the contemporary robustness of this assay against East African RVFV genomes collected between 2005 and 2026. A total of 647 nucleotide records were retrieved from NCBI GenBank, from which a dataset of 193 L-segment sequences was curated based on geography, collection date, and segment an-notation. A custom sliding-window alignment algorithm quantified mismatches between the assay oligonucleotides and all valid sequences in both genomic orientations. Five se-quences initially exhibited high mismatch counts but were excluded after genomic coor-dinate mapping revealed they were partial fragments mapping outside the assay’s target region (nucleotides 4229–4723). Among the remaining 188 valid, target-spanning se-quences, 181 (96.3%) exhibited a perfect match to the forward primer, reverse primer, and TaqMan probe. Six sequences (3.2%) contained minor, biologically tolerable mismatches, and one (0.5%) showed probe-specific mismatches with intact primer binding sites. These findings confirm the enduring robustness of the Bird et al. (2007) assay against contempo-rary East African RVFV lineages, while simultaneously highlighting a critical genomic surveillance gap in Tanzania that warrants targeted infrastructural investment.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2419.v1",
+    "date": "2026-10-26",
+    "authors": "Msoka KM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350801",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 503,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2419.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "480c15d18c961c9ae06444eb93a02bb70f19bac71af004eb439021614619cd5d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:22:10.111703+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "63e48eea518296631366738e76c83391a5da7d5f2ee0a177d2c2726eb2d6af02",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:22:10.111703+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "現代東アフリカリフトバレー熱ウイルスゲノムのin silico検証により、Birdら（2007）のRT-qPCRアッセイの持続的な堅牢性が確認された。",
+    "abstract_ja": "リフトバレー熱ウイルス（RVFV）は、東アフリカにおいて反復的なエピズーティックおよびエピデミックを引き起こす人獣共通感染症病原体である。Birdら（2007）によって開発された、大型（L）ゲノムセグメントを標的とする定量逆転写PCR（RT-qPCR）アッセイは、今なお世界的な診断標準となっている。しかし、ウイルスの絶え間ない進化により、診断ドリフトやアッセイの失敗の可能性が懸念されている。本研究では、2005年から2026年にかけて収集された東アフリカのRVFVゲノムに対する本アッセイの現代的な頑健性を評価した。NCBI GenBankから計647件のヌクレオチドレコードを取得し、その中から地理的条件、収集日、およびセグメントアノテーションに基づいて193件のLセグメント配列のデータセットをキュレートした。独自のスライディングウィンドウアライメントアルゴリズムを用いて、アッセイ用オリゴヌクレオチドと両ゲノム方向のすべての有効配列との間のミスマッチを定量化した。当初、5つの配列で高いミスマッチ数が認められたが、ゲノム座標マッピングにより、それらがアッセイの標的領域外（ヌクレオチド4229–4723）にマッピングされた部分断片であることが判明したため、除外した。残りの188件の有効かつ標的領域をまたぐ配列のうち、181件（96.3%）がフォワードプライマー、リバースプライマー、およびTaqManプローブに対して完全一致を示した。6つの配列（3.2%）には生物学的に許容可能な軽微なミスマッチが含まれており、1件（0.5%）ではプライマー結合部位が保持されたままのプローブ特異的なミスマッチが認められた。これらの知見は、現代の東アフリカRVFV系統に対するBirdら（2007）のアッセイの持続的な頑健性を裏付けると同時に、タンザニアにおける、重点的なインフラ整備を要する重大なゲノムサーベイランスの空白を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.26365955",
+    "title": "Culture-free  Helicobacter pylori  genomics reveals within-host virulence heterogeneity and antibiotic resistance",
+    "abstract": "Helicobacter pylori (Hp) infects over 40% of the world’s population and causes most cases of gastric cancer worldwide, yet fundamental questions about its within-host genetic diversity remain unresolved. Decades of work on Hp genomics depends on culturing clinical isolates, which can distort within-host genetic heterogeneity that informs Hp virulence and antimicrobial resistance. Culture-free alternatives have been limited by the extremely low Hp abundance in gastric tissue (usually 10  −3 to 10  −7 of total genomic DNA), making direct metagenomics prohibitively expensive and existing enrichment strategies insufficient for whole-genome recovery. Here we develop ultra-sensitive Hp sequencing (uHp-seq) for reconstructing Hp genomes directly from gastric biopsies. uHp-seq achieves a thousand-fold Hp DNA enrichment and recovers near-complete genomes across samples spanning orders of magnitude in Hp abundance. Notably, individual hosts may harbor multiple co-existing Hp strains or cagA EPIYA variants with different oncogenic potential. Resistance-associated variants for six commonly used antibiotics are resolved with greater accuracy than PCR-based and probe-based commercial panels. Applied to minimally invasive gastric string samples, uHp-seq delivers reliable resistance profiles without endoscopy, opening a path to genome-guided Hp eradication.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.26365955",
+    "date": "2026-10-26",
+    "authors": "Liu Y, Ni M, Zhang X, Bass J, Deshpande P, Romero-Gallo J, Chen H, Fan Y, Wang D, Qiao W, Zhang Y, Mead EA, Dias-Neto E, Corvalan A, Brody R, Camargo MC, Szymczak W, Klion AD, Peek RM, Blaser MJ, Fang G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350424",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 509,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.26365955"
+    ],
+    "translation": {
+      "title": {
+        "hash": "39dbdfe1d4f70f53e81b8d2d46fc7c4c420001177b403f0ed085a03deda2f9a8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:22:10.111703+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "711657fa3b64d7068208874d8f3d7888ac21f1a943688a313967cf5a656feb74",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:22:10.111703+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "培養フリーのヘリコバクター・ピロリゲノム解析が示す宿主内における病原性の不均一性と抗生物質耐性",
+    "abstract_ja": "ヘリコバクター・ピロリ（Hp）は世界人口の40%以上に感染しており、世界中の胃がん症例の大部分の原因となっているが、宿主内における遺伝的多様性に関する根本的な疑問は依然として未解決のままである。Hpゲノミクスに関する数十年にわたる研究は臨床分離株の培養に依存しているが、この培養過程が、Hpの病原性や薬剤耐性の基盤となる宿主内遺伝的不均一性を歪める可能性がある。培養不要の代替手法は、胃組織におけるHpの存在量が極めて少ないこと（通常、全ゲノムDNAの10⁻³～10⁻⁷）により制限されており、直接的なメタゲノミクスはコストが極めて高く、既存の濃縮戦略では全ゲノムの回収が不十分である。本研究では、胃生検組織から直接Hpゲノムを再構築するための超高感度Hpシーケンシング（uHp-seq）を開発した。uHp-seqは1,000倍のHp DNA濃縮を実現し、Hp存在量に数桁の差があるサンプル間においても、ほぼ完全なゲノムを回収する。特筆すべきは、個々の宿主が、異なる発がん能を持つ複数のHp株やcagA EPIYA変異体を共存させている可能性がある点である。一般的に用いられる6種類の抗菌薬に対する耐性関連変異は、PCRベースやプローブベースの市販パネルよりも高い精度で解析される。低侵襲な胃ストリングサンプルに適用したuHp-seqは、内視鏡検査なしで信頼性の高い耐性プロファイルを提供し、ゲノム誘導型のHp根絶への道を切り拓くものである。"
   }
 ]
