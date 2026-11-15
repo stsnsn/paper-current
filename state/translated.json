@@ -253334,5 +253334,342 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "全国河川監視ネットワークにおけるバイオフィルム・ビロームの生態学的・代謝的シグネチャー",
     "abstract_ja": "底生バイオフィルムは河川における生物地球化学的なホットスポットであるが、その内因性ウイルス群集の国家規模での解明は依然として不十分である。本研究では、2021年から2023年にかけて春季および秋季にサンプリングされたイングランド河川監視ネットワーク（RSN）内の146地点から得られた447件のバイオフィルムメタゲノムを解析し、ウイルス運用分類単位（vOTU）、水質勾配、予測される宿主関連、および補助代謝遺伝子（AMG）を統合した。その結果、38,534件のvOTUが回収され、広範なウイルスの新規性が明らかになった。このうち93%のvOTUは、既知の科に分類できなかった。バイロームはカウドウイルス目（Caudoviricetes）および未分類系統が支配的であり、極めて不均一であった。すなわち、8.3%を超えるサンプルにおいて単一のvOTUが検出されなかった。バイロームの組成はサンプリング年ではなく季節によって構造化されており（科レベルのPERMANOVA R = 0.050, p = 0.001；年レベル p = 0.08）、春季から秋季にかけての地点内ターンオーバーは、年間のターンオーバーを上回っていた。Bray–Curtis順序付け法による解析では、バイローム構造はpH、溶存有機炭素、導電率、硝酸態窒素、および溶存酸素と弱い関連を示した（envfit R ≤ 0.066）。一方、閾値指標分類群解析（TITAN）では、アルカリ度、溶存酸素、硝酸態窒素、および温度勾配に沿って急激な変化点を持つvOTUが同定された。予測された宿主関連はPseudomonodota、Cyanobacteriota、およびBacteroidotaに集中しており、Microcoleus、Chamaesiphon、およびFlavobacteriumが主要な宿主属であった。ウイルス–宿主ネットワークはモジュール構造を呈しており、モジュールの存在量は水質変数（溶存酸素、pH、硝酸塩など）と相関していた。このことは、環境フィルタリングが部分的に宿主の生態を介して作用していることを示唆している。予測されたウイルス–宿主関連は、少数の高度に連結したウイルス系統を中心に構成された疎なネットワークを形成していた。機能プロファイリングの結果、バイオフィルムバイロームはヌクレオチド代謝、DNAメチル化、リン酸ストレス、糖鎖修飾、および光合成関連のAMGによって支配されており、nrdA/nrdBリボヌクレオチド還元酵素が主要なAMGシグナルであることが示された。プロウイルスとして検出されたvOTUはわずか（1.2%）であったが、特定の宿主関連系統ではプロウイルスの割合が高かった。総じて、これらの結果は、河川バイオフィルムバイロームが季節的に構造化された生態群集であり、その組成、宿主関連、および代謝能が河川の物理化学的・生物学的状態を反映していることを示している。我々は、バイオフィルムバイロームが、河川の健全性、微生物生態、および淡水系における人為的圧力の伝播を理解するための補完的な情報層を提供すると提案する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760963",
+    "title": "Insights Into The Early Diversification of  bla  NDM-1  Genetic Contexts Following its Emergence in  Acinetobacter  species and Spread to Enterobacterales",
+    "abstract": "Since its emergence, the New Delhi metallo-β-lactamase (NDM) has become a major global antimicrobial resistance threat, enabling bacterial hosts to resist most β-lactam antibiotics, including carbapenems, and spreading widely across bacterial species and geographic regions. Believed to have originated in  Acinetobacter spp.,  bla NDM subsequently spread to Enterobacterales through mobile genetic elements, despite barriers to lateral gene transfer between these phylogenetically distant taxa. To investigate the genetic diversity and mechanisms underlying this interspecies transfer and subsequent global expansion, we sequenced and characterized 13  bla NDM-1 -positive Gram-negative bacterial isolates collected in India in 2007, among the earliest known isolates harboring  bla NDM-1 . Clonal diversity was observed among both  Escherichia coli and  Klebsiella pneumoniae isolates. Comprehensive genomic analysis revealed that  bla NDM-1 was consistently embedded within a conserved multidrug resistance region, often associated with mobile genetic elements involved in lateral gene transfer. Notably, the insertion sequence IS  Aba14 was identified in 6 of the 13 sequences, suggesting a potential role in the early dissemination of  bla NDM-1 among diverse bacterial hosts. These findings contribute to our understanding of the evolutionary origins and early genetic context of  bla NDM-1 , highlighting the importance of continued genomic surveillance and functional studies to better understand the persistence and dissemination of carbapenem resistance.  Impact Statement  This study characterizes 13 previously undescribed genetic contexts of the New Delhi metallo-β-lactamase-1 gene (  bla NDM-1 ) in Enterobacterales isolates collected in India in 2007. These isolates represent some of the earliest known  bla NDM-1 -positive Enterobacterales and are the earliest collected  bla NDM-1 -positive Enterobacterales for which whole-genome sequences are now available. Their genetic contexts include diverse combinations of antibiotic resistance genes and associated mobile genetic elements. Notably, the insertion sequence IS  Aba14 was identified in 6 of the 13 sequences, highlighting its frequent association with  bla NDM-1 during the early stages of its dissemination. Together, these findings reveal substantial genetic diversity surrounding  bla NDM-1 early in its emergence and suggest that diverse arrangements of mobile genetic elements may have contributed to its early dissemination across bacterial hosts and the subsequent spread of carbapenem resistance.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760963",
+    "date": "2026-10-26",
+    "authors": "Allard N, Touati D, Faille N, Grenier F, Beauchemin-Lauzon E, Lévesque S, Rodrigue S, Haraoui L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351781",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 192,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.760963"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2f0d8ccd9bd7cb496e789140dd8cef649cad8d16360aebc17bdf3748fe22fadc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:19:09.259494+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "218b2ccc3e29cfc62d97fa4d01b75a917441063f6653acf2290cea49345e7b68",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:19:09.259494+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Acinetobacter属における出現およびEnterobacterales門への拡散後におけるbla NDM-1遺伝子コンテキストの初期多様化に関する知見",
+    "abstract_ja": "ニューデリー・メタロβ-ラクタマーゼ（NDM）は、出現以来、世界的な薬剤耐性の主要な脅威となっており、細菌宿主がカルバペネム系を含むほとんどのβ-ラクタム系抗菌薬に耐性を獲得することを可能にし、細菌種や地理的領域にわたって広く拡散している。Acinetobacter属に由来すると考えられているbla NDMは、その後、系統的に離れたこれらの分類群間における側方遺伝子伝達の障壁があるにもかかわらず、可動性遺伝因子を介してEnterobacter目へと広がった。この種間伝達およびその後の世界的な拡大の根底にある遺伝的多様性とメカニズムを調査するため、我々は、2007年にインドで採取された、bla NDM-1を保有することが知られている最初期の分離株のうち、bla NDM-1陽性のグラム陰性菌分離株13株の配列を決定し、その特性解析を行った。Escherichia coliおよびKlebsiella pneumoniaeの分離株の双方において、クローン多様性が認められた。包括的なゲノム解析により、bla NDM-1は一貫して保存された多剤耐性領域内に組み込まれており、多くの場合、側方遺伝子伝達に関与する可動性遺伝因子と関連していることが明らかになった。特筆すべきは、13の配列のうち6つにおいて挿入配列IS Aba14が同定されたことであり、これは多様な細菌宿主におけるbla NDM-1の初期拡散において潜在的な役割を果たしたことを示唆している。これらの知見は、bla NDM-1の進化的起源と初期の遺伝的背景の理解に寄与するものであり、カルバペネム系耐性の持続性と拡散をより深く理解するための、継続的なゲノムサーベイランスと機能研究の重要性を浮き彫りにしている。インパクトステートメント 本研究では、2007年にインドで採取されたEnterobacter目分離株における、ニューデリー・メタロβ-ラクタマーゼ-1遺伝子（bla NDM-1）のこれまで報告されていなかった13の遺伝的背景を特性解析した。これらの分離株は、既知の最初期のbla NDM-1陽性Enterobacter目の一部であり、全ゲノム配列が現在利用可能となっている最初期のbla NDM-1陽性Enterobacter目である。その遺伝的背景には、抗生物質耐性遺伝子と関連する可動性遺伝因子の多様な組み合わせが含まれている。特筆すべきは、13の配列のうち6つにおいて挿入配列IS Aba14が同定されたことであり、これは拡散の初期段階においてbla NDM-1と頻繁に関連していたことを示している。これらの知見を総合すると、bla NDM-1の出現初期における相当な遺伝的多様性が明らかになり、可動性遺伝因子の多様な配置が、細菌宿主間における初期の拡散およびその後のカルバペネム系耐性の拡大に寄与した可能性が示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760510",
+    "title": "Chromosome-scale nuclear and mitochondrial genome assemblies reveal extreme genome compartmentalization in the hazelnut pathogen  Anisogramma anomala",
+    "abstract": "Anisogramma anomala is an obligate biotrophic ascomycete and the causal agent of Eastern filbert blight, the most economically important disease of hazelnut in the United States. Here, we generated a chromosome-scale reference genome for  A. anomala isolate OR-Ennis-d and characterized its nuclear and mitochondrial genome architecture. The 344-Mb nuclear genome was resolved into 9 predicted chromosomes and is repeat-rich, with transposable elements comprising 88.8% of the assembly. Although transposable elements are abundant, their divergence landscape and low retention of conserved protein domains support a history of past extensive transposon proliferation followed by widespread degeneration. Repeat accumulation was highly uneven and generated pronounced genome compartmentalization. Approximately half of predicted genes occur in compact, TE-poor regions with short flanking intergenic regions that are enriched for conserved BUSCO orthologs. In contrast, genes in TE-rich, gene-sparse regions with long flanking intergenic regions are enriched for carbohydrate-active enzymes, secreted proteins, and candidate secreted effector proteins, consistent with a two-speed-like genome architecture. The 462-kb mitochondrial genome is among the largest reported for ascomycetes and contains 117 introns, including an intron adjacent to  cob codon 143 that may prevent acquisition of the p.G143A substitution associated with resistance to quinone outside inhibitor fungicides. Finally, we identified mitochondrial DNA insertions at 20 nuclear loci totaling at least 616.9 kb, an unusually extensive amount for a fungal genome. This chromosome-scale genome resource reveals the extreme nuclear and mitochondrial genome architecture in  A. anomala and provides a foundation for investigating genome evolution and adaptation to hazelnut resistance.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760510",
+    "date": "2026-10-26",
+    "authors": "Zaccaron AZ, Søndreli KL, LeBoldus JM, Weisberg AJ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350479",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assemblies",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 194,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.20.760510"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af8cd542842c31a4a57d4d71c07b3f766b2fe26396cc8c5237da81fb04840410",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:19:09.259494+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d02c780f7d8708387d386b68ae7d0827e6d3c5fca63918c6273078ab65291dfa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:19:09.259494+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "染色体スケールの核およびミトコンドリアゲノムアセンブリにより、ヘーゼルナッツ病原菌Anisogramma anomalaにおける極めて高度なゲノム区画化が明らかになった。",
+    "abstract_ja": "Anisogramma anomalaは完全栄養性子嚢菌類であり、米国においてヘーゼルナッツの経済的に最も重要な病害である東部フィルバート枯死病の原因菌である。本研究では、A. anomala分離株OR-Ennis-dの染色体スケールのリファレンスゲノムを構築し、その核およびミトコンドリアゲノム構造を解析した。344 Mbの核ゲノムは予測された9本の染色体に分解され、反復配列に富んでおり、転移因子がアセンブリの88.8%を占めていた。転移因子は豊富に存在するものの、その分化様式および保存タンパク質ドメインの保持率の低さは、過去に広範なトランスポゾンの増殖が起こり、その後広範な退化が進んだという経緯を示唆している。反復配列の蓄積は極めて不均一であり、顕著なゲノム区画化をもたらした。予測された遺伝子の約半分は、保存されたBUSCOオルソログが濃縮された短い隣接遺伝子間領域を持つ、コンパクトでTEに乏しい領域に存在していた。対照的に、長い隣接遺伝子間領域を持つTEに富み遺伝子が疎な領域の遺伝子は、糖質活性酵素、分泌タンパク質、および分泌エフェクタータンパク質候補に富んでおり、これは2-speed様のゲノム構造と一致していた。462 kbのミトコンドリアゲノムは、子嚢菌類で報告された中で最大級のものであり、117個のイントロンを含んでいる。その中には、阻害性殺菌真菌剤以外のキノン類に対する耐性に関連するp.G143A置換の獲得を妨げる可能性のある、コブコドン143に隣接するイントロンが含まれている。最後に、20箇所の核遺伝子座において合計少なくとも616.9 kbに及ぶミトコンドリアDNA挿入を同定したが、これは真菌ゲノムとしては異例に広範な量である。この染色体スケールのゲノムリソースは、A. anomalaにおける極端な核およびミトコンドリアゲノム構造を明らかにするものであり、ゲノム進化およびヘーゼルナッツ耐性への適応を研究するための基盤を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11117075/v1",
+    "title": "Comparative Genomics of Multidrug-Resistant and Extensively Drug-Resistant Acinetobacter Baumannii Clinical Isolates from an Intensive Care Unit in Northeastern Brazil",
+    "abstract": "Abstract    Acinetobacter baumannii  is an opportunistic pathogen linked to healthcare-associated infections and the dissemination of multidrug-resistant phenotypes in critical hospital settings. In this study, we performed a comparative genomic analysis of clinical isolates identified as  A. baumannii  by routine hospital microbiology, obtained from an intensive care unit in Northeastern Brazil and classified as susceptible (SEN), multidrug-resistant (MDR), or extensively drug-resistant (XDR). Fifteen isolates were subjected to whole-genome sequencing; after quality control, 14 genomes were included in the main comparative analyses. Genome assembly metrics, functional composition, pangenome, resistome, virulome, Pasteur MLST, core-genome phylogeny, phenotype–genotype concordance, and FastANI-based taxonomic refinement were evaluated. MDR and XDR isolates carried a higher burden of antimicrobial resistance (AMR) genes than SEN isolates. Pangenome analysis revealed a conserved core genome combined with variable accessory content, whereas the virulome was relatively conserved across phenotypic groups. Quinolone resistance-determining region (QRDR) mutations in  gyrA  and/or  parC  were detected in ciprofloxacin-resistant isolates, supporting the role of chromosomal mechanisms in fluoroquinolone resistance that may not be captured by analyses restricted to acquired resistance genes. FastANI analysis further revealed taxonomic discrepancies in two susceptible isolates, highlighting the complementary value of WGS for hospital surveillance and taxonomic refinement within the  Acinetobacter calcoaceticus–baumannii  complex. Overall, our findings indicate that antimicrobial resistance in these clinical isolates is a multifactorial phenomenon shaped by clonal diversity, accessory genome variation, AMR gene burden, chromosomal resistance mechanisms, and taxonomic complexity within the ACB complex.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11117075/v1",
+    "date": "2026-10-26",
+    "authors": "Gondim R, Ribeiro S, Alves A, Lino L, Lima I, Nogueira L, Maia M, Magalhães L, Damasceno L, Filho JS, Silva D, Mendes C, Castro L, Damasceno C, França A, Miyajima F, Lima A, Havt A, Clementino MA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350056",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "pangenom",
+          "pangenome",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 195,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11117075/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6fb6fc56118da6c44d28f3dd4378e71bef737d5479d0de67e8d9240411877e2b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:19:09.259494+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8c1b5771b05e4d802a4e77e4a60dcd6ec2d45143cc6067712767c25a1b229379",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:19:09.259494+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブラジル北東部の集中治療室における多剤耐性および広範薬剤耐性アシネトバクター・バウマニー臨床分離株の比較ゲノミクス",
+    "abstract_ja": "要旨    Acinetobacter baumanniiは、医療関連感染や、重症患者が収容される病院環境における多剤耐性表現型の拡散に関連する日和見病原体である。本研究では、ブラジル北東部の集中治療室から採取され、感受性（SEN）、多剤耐性（MDR）、または高度薬剤耐性（XDR）に分類された、病院のルーチン微生物学的検査によりA. baumanniiと同定された臨床分離株の比較ゲノム解析を行った。15株の分離株に対して全ゲノムシーケンシングを実施し、品質管理を経て、14株のゲノムを主要な比較解析に組み入れた。ゲノムアセンブリ指標、機能組成、パンゲノム、レジストーム、ビローム、Pasteur MLST、コアゲノム系統樹、表現型－遺伝子型の一致性、およびFastANIに基づく分類学的精緻化を評価した。MDRおよびXDR分離株は、SEN分離株よりも高い抗菌薬耐性（AMR）遺伝子負荷を有していた。パンゲノム解析の結果、保存されたコアゲノムと可変的なアクセサリーゲノムの組み合わせが認められた一方、ビロームは表現型グループ間で比較的保存されていた。シプロフロキサシン耐性分離株において、gyrAおよび/またはparCのキノロン耐性決定領域（QRDR）変異が検出され、獲得耐性遺伝子に限定した解析では捉えきれない、フルオロキノロン耐性における染色体メカニズムの役割が支持された。FastANI解析により、さらに2株の感受性分離株において分類学的な不一致が認められ、Acinetobacter calcoaceticus–baumannii複合体内における病院サーベイランスおよび分類学的精緻化に対するWGSの相補的な価値が浮き彫りとなった。総じて、本研究の知見は、これらの臨床分離株における抗菌薬耐性が、クローン多様性、アクセサリーゲノムの変異、AMR遺伝子負荷、染色体耐性メカニズム、およびACB複合体内の分類学的複雑性によって形成される多因子的な現象であることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10633457/v1",
+    "title": "Core microbiota recruited by Salvia miltiorrhiza enhance resistance against Fusarium root rot disease",
+    "abstract": "Abstract    Fusarium  root rot, caused by the soilborne pathogen  Fusarium oxysporum  , leads to substantial yield losses across multiple agriculturally crucial crops. While rhizosphere microbiota have been extensively studied in model species, a deeper understanding of the rhizosphere microbiome assembly associated with herb health is still needed. Given its economic importance in traditional medicine, we used  Salvia miltiorrhiza  and  Fusarium  root rot as a model to elucidate the rhizosphere microbiome assembly associated with plant health. Here, we employed 16S rRNA amplicon sequencing to profile the soil microbiome across three geographically distinct cultivation regions. Comparative analysis revealed marked divergence in bacterial community structures between healthy and diseased plants, identifying  Lysobacter  spp. as keystone bacterial taxa within the core microbiome enriched in healthy rhizospheres. Functional validation demonstrated potent antifungal activity of isolated  Lysobacter  strains against  F. oxysporum  , with  Lysobacter enzymogenes  strain Ly-1 exhibiting consistent biocontrol efficacy in both greenhouse and field experiments. Genomic and transcriptomic analyses further revealed that Ly-1 encodes specialized iron acquisition systems, including siderophore synthesis and transport machinery, with its antifungal activity being significantly amplified under iron-limited conditions, consistent with a model where iron competition cooperates with other biocontrol traits. Collectively, this study establishes a novel biocontrol paradigm and highlights the translational potential of core rhizobacterial enrichment for sustainable management of soilborne diseases in medicinal plants.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10633457/v1",
+    "date": "2026-10-26",
+    "authors": "You C, Gao Y, Ren P, Zhang W, Gong K, Zhang Q, Wang X, Zhou W, Kümmerli R, Xu Y, Shen Q, Wei Z, Wang X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350111",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 314,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10633457/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8af749d4039b317a4701d5dad22c444ce5688e680243820325fffeb11a39fd28",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:19:09.259494+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6399f8355a53ed688763d8e3e90e50d67f92ba0f4719e43b749015a5e731a4a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:19:09.259494+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サルビア・ミルティオリザが誘引するコア微生物叢は、フザリウム根腐病に対する抵抗性を高める。",
+    "abstract_ja": "要旨    土壌伝染性病原菌Fusarium oxysporumによって引き起こされるフザリウム根腐病は、農業上極めて重要な複数の作物において甚大な収量損失をもたらす。モデル種において根圏微生物叢は広範に研究されてきたが、植物の健全性に関連する根圏マイクロバイオームの構成については、さらなる理解が求められている。伝統医学における経済的重要性に鑑み、我々はSalvia miltiorrhizaおよびフザリウム根腐病をモデルとして、植物の健全性に関連する根圏マイクロバイオームの構成を解明した。本研究では、16S rRNAアンプリコンシーケンシングを用いて、地理的に異なる3つの栽培地域における土壌マイクロバイオームのプロファイル解析を行った。比較解析の結果、健全植物と病害植物の間で細菌群集構造に顕著な乖離が認められ、健全な根圏に富むコアマイクロバイオームにおいて、Lysobacter属がキーストーンとなる細菌分類群として同定された。機能検証により、単離したLysobacter株がF. oxysporumに対して強力な抗真菌活性を有することが示され、特にLysobacter enzymogenes株Ly-1は、温室および圃場実験の双方において一貫した生物的防除効果を示した。ゲノムおよびトランスクリプトーム解析により、Ly-1がシデロフォア合成および輸送機構を含む特殊な鉄獲得系をコードしており、鉄制限条件下でその抗真菌活性が著しく増強されることが明らかとなった。これは、鉄競合が他の生物的防除形質と協調するというモデルと整合している。総じて、本研究は新たな生物的防除パラダイムを確立するとともに、薬用植物における土壌伝染性病害の持続可能な管理に向けた、コア根圏細菌濃縮のトランスレーショナルな可能性を浮き彫りにするものである。"
   }
 ]
