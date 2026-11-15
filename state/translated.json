@@ -234562,5 +234562,318 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "トマトSlGLP11-1遺伝子の一過性の過剰発現およびサイレンシングにより、ROS恒常性を介した病害抵抗性の媒介における同遺伝子の重要な役割が明らかになった。",
     "abstract_ja": "要旨    発芽タンパク質および発芽様タンパク質（GLP）は、植物の発生過程や生物的・非生物的ストレスへの応答において、さまざまな役割を果たすことが知られている。多くのGLPが病原体感染に応じて発現変動を示すことが報告されており、宿主と病原体の相互作用における直接的な役割が示唆されている。植物の免疫において重要な役割を担っているにもかかわらず、トマト（Solanum lycopersicum L.）のGLPファミリーについては、ゲノムワイドな規模で包括的に研究されてこなかった。また、トマトのGLP遺伝子ファミリーの機能や活性に関する報告は極めて少ない。本研究では、トマトのGLPファミリーを解析し、トマトGLP遺伝子の標準化された命名法を定義した。トマトにおけるGLP遺伝子の染色体分布を決定し、系統解析を行った。さらに、トマトにおけるGLPのin silico細胞内局在を予測し、異なる植物ホルモン処理および病原体感染に対する遺伝子発現を検討した。最後に、病原体応答性のSlGLP候補を同定し、SlGLP11-1の機能的特性を明らかにした。Nicotianaの葉においてSlGLP11-1を一過性に過剰発現させると、Botrytis cinereaに対する抵抗性が向上した。同様に、トマトの葉においてウイルス誘導遺伝子サイレンシング（VIGS）によりSlGLP11-1を一過性にサイレンシングさせると、Botrytis cinerea感染への感受性が高まった。また、Botrytis感染の有無にかかわらず、Nicotiana benthamianaおよびトマトの一過性SlGLP11-1過剰発現葉およびサイレンシング葉において、内因性H₂O₂レベルとカタラーゼ活性をそれぞれ推定した。本研究の結果は、SlGLP11-1が、基底状態および病原体負荷状態の双方においてH₂O₂の蓄積を促進することで、ROS介在性の植物防御の正の調節因子として機能し、カタラーゼ活性が二次的な抗酸化応答としてH₂O₂レベルを追跡することを明らかにした。本研究は、植物免疫において役割を担うトマトGLPファミリーの今後の機能的研究の基盤となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762868",
+    "title": "Biosynthetic additive manufacturing through mycelium-bacteria consortia",
+    "abstract": "Lignocellulosic biomass is the most abundant renewable raw material on Earth, yet its structural and carbon-storage potential remains unrealized: microbial decomposition returns stored carbon to the atmosphere before it can be harnessed as a durable material. Distinct microbial processes, such as biosynthesis and biomineralization, offer a natural counterpoint, converting organic carbon into mechanically robust, persistent materials such as polymers and minerals. Here, we establish a biosynthetic additive manufacturing strategy through mycelium–bacteria consortia, by coupling fungal self-assembly with bacterial biomineralization inside fabricated three-dimensional scaffolds derived from lignocellulosic biomass.  Trametes versicolor forms a continuous living mycelial network that serves as both a structural template and a transport pathway, guiding the spatial colonization of  Sporosarcina pasteurii and enabling volumetric calcium carbonate deposition throughout the scaffold interior, overcoming the surface-limited mineralization of conventional microbial systems. Integration with helicoidal Bouligand architectures translates microscale mineral reinforcement into macroscale performance, increasing compressive Young’s modulus by 7-14-fold and ultimate strength by 5-fold relative to unmineralized conventional mycelium-based living composites. The living mycelial network also enables autonomous self-healing and modular self-assembly through hyphal bridging without external adhesives or energy input. This work establishes a scalable route for converting and upcycling transient biomass carbon into durable living structural materials for sustainable construction.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762868",
+    "date": "2026-10-30",
+    "authors": "Yuan H, Heller LJJ, Xing Y, Wang L, Huang J, Nguyen K, Cai Y, Waller B, Chen C, Hubbard G, Yong R, DelPlace E, Belo M, Manosh S, Inamdar S, Shan X, Zang X, Huang J, Li T, Bonito G, Lan K, Li J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354286",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1113,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762868"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4900ba828cc088047aa82201f209dbf1b8ce08a11e924db3898720c89cefd747",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:38:39.359236+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "db6df53a65e8ed009fbad979258d56462fadc746aec03933243f5acf74cedad2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:38:39.359236+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "菌糸体－細菌コンソーシアムによる生合成型積層造形",
+    "abstract_ja": "リグノセルロース系バイオマスは地球上で最も豊富に存在する再生可能原料であるが、その構造的および炭素貯蔵ポテンシャルは未だ十分に活用されていない。微生物による分解では、貯蔵された炭素が耐久性材料として利用される前に大気中へと放出されてしまうためである。生合成や生物鉱物化といった異なる微生物プロセスは、有機炭素をポリマーや鉱物などの機械的に堅牢で持続的な材料へと変換する、自然な対抗手段となる。本研究では、リグノセルロース系バイオマス由来の作製された三次元足場内部において、真菌の自己組織化と細菌の生物鉱物化を結合させることで、菌糸体－細菌コンソーシアムを用いた生合成型積層造形戦略を確立する。Trametes versicolorは、構造テンプレートと輸送経路の両方として機能する連続的な生きた菌糸ネットワークを形成し、Sporosarcina pasteuriiの空間的な定着を誘導するとともに、足場内部全域にわたる体積的な炭酸カルシウムの沈着を可能にすることで、従来の微生物システムにおける表面限定的な鉱物化を克服する。螺旋状のBouligand構造との統合により、微小スケールの鉱物補強がマクロスケールの性能へと変換され、未鉱物化の従来の菌糸体ベースのリビング複合材料と比較して、圧縮ヤング率を7～14倍、終局強度を5倍に向上させる。また、この生きた菌糸ネットワークは、外部接着剤やエネルギー入力を必要とせず、菌糸の架橋を通じて自律的な自己修復とモジュール式の自己組織化を可能にする。本研究は、一過性のバイオマス炭素を持続可能な建設のための耐久性のある生きた構造材料へと変換・アップサイクルするための、拡張可能な手法を確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.26366906",
+    "title": "Fasting plasma fructose is associated with postprandial ethanol levels and mitochondrial dysfunction: linking fasting fructose to MASLD",
+    "abstract": "High dietary fructose consumption is a recognized risk factor for metabolic dysfunction-associated steatotic liver disease (MASLD), but the clinical relevance of fasting fructose levels remains unexplored. This study investigated gut microbiota and hepatic transcriptional alterations associated with fasting fructose levels and their potential link to MASLD. We analyzed data from a subset of 49 morbidly obese individuals enrolled in the prospective BARIA cohort. Fasting plasma fructose levels were significantly higher in individuals with MASLD and were associated with polyol pathway downregulation and lipogenic gene upregulation. Fasting fructose also positively correlated with postprandial plasma ethanol increase, suggesting enhanced microbial endogenous production and/or altered ethanol catabolism, the latter supported by suppressed hepatic alcohol dehydrogenase gene expression. In addition, fasting fructose was associated with fecal gut microbiota alterations, including significant shifts in beta diversity and correlations with specific bacterial species. At the transcriptomic level, elevated fasting fructose was linked to impaired mitochondrial energy metabolism and antioxidant defense, signatures associated with MASLD-related metabolic disruption. In conclusion, our data indicate that fasting plasma fructose reflects dietary intake rather than endogenous production and increased levels are associated with metabolic and microbiota changes linked to MASLD. Although not intended to replace established glycemic markers, our findings suggest that fasting fructose may provide complementary insights into the metabolic state of the liver and MASLD-related dysregulation, supporting its potential as a MASLD risk biomarker.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.26366906",
+    "date": "2026-10-30",
+    "authors": "Westerbeke FH, Attaye I, Meijnikman AS, Farràs Solé N, Kovynev A, Akinrimisi OI, Verheij J, Doukas M, van de Laar A, Franken R, Rios-Morales M, Nieuwdorp M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354136",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1115,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.26366906"
+    ],
+    "translation": {
+      "title": {
+        "hash": "40e6a19f3895b54eef99517c9edacf0c971c985652894836707a98178b4d42d3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:38:39.359236+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "023efa33314406d82775a9feb1217733c7e29191cb1f91cae785b8822987c0e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:38:39.359236+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "空腹時血漿果糖は食後エタノール濃度およびミトコンドリア機能障害と関連する：空腹時果糖とMASLDの関連",
+    "abstract_ja": "食事性フルクトースの高摂取は、代謝機能障害に伴う脂肪性肝疾患（MASLD）の既知のリスク因子であるが、空腹時フルクトース値の臨床的意義については未解明である。本研究では、空腹時フルクトース値に関連する腸内細菌叢および肝転写変動と、それらとMASLDとの潜在的な関連性について検討した。前向き研究であるBARIAコホートに登録された病的肥満者49名のサブセットから得られたデータを解析した。空腹時血漿フルクトース値は、MASLD患者において有意に高く、ポリオール経路のダウンレギュレーションおよび脂肪合成遺伝子のアップレギュレーションと関連していた。また、空腹時フルクトース値は食後血漿エタノール濃度の上昇と正の相関を示し、微生物による内因性産生の亢進および／またはエタノール異化の変化が示唆された。後者は、肝アルコール脱水素酵素遺伝子の発現抑制によって裏付けられていた。さらに、空腹時フルクトース値は、β多様性の有意な変動や特定の細菌種との相関を含む、糞便中腸内細菌叢の変化と関連していた。トランスクリプトームレベルでは、空腹時フルクトース値の上昇は、ミトコンドリアエネルギー代謝および抗酸化防御の障害と関連しており、これらはMASLDに関連する代謝破綻の徴候であった。結論として、本データは、空腹時血漿フルクトース値が内因性産生ではなく食事摂取量を反映しており、その値の上昇がMASLDに関連する代謝および微生物叢の変化と関連していることを示している。確立された血糖マーカーに取って代わることを意図したものではないが、本知見は、空腹時フルクトース値が肝代謝状態およびMASLD関連の調節不全に関する補完的な知見を提供し、MASLDのリスクバイオマーカーとしての可能性を支持することを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762444",
+    "title": "Whole genome duplication uncouples cell volume scaling from mitochondrial homeostasis",
+    "abstract": "Whole genome duplication, or polyploidy, increases cell size and nuclear volume, yet how cells maintain cytonuclear balance and metabolic fitness following ploidy expansion remains unclear. Using isogenic series of  Saccharomyces cerevisiae strains ranging from haploid (1N) to tetraploid (4N), and isogenic human diploid and tetraploid cell lines, we investigated the impact of polyploidy on mitochondrial homeostasis and metabolic adaptation. Quantitative proteomics uncovered a sub-linear scaling of mitochondrial proteins with increasing ploidy, with pronounced depletion of respiratory chain components, mitochondrial DNA maintenance factors, and redox homeostasis proteins. These changes were highly conserved, indicating a conserved consequence of genome expansion. Impaired mitochondrial scaling reduced respiratory growth, membrane potential and oxygen consumption, and elevated oxidative stress. In budding yeast, the mitochondrial dysfunction triggered reactive oxygen species (ROS) accumulation and an unconventional activation of stress-responsive signaling pathways, including the Hog1 and cell integrity MAPK networks, which converged on Rtg2-dependent retrograde signaling to promote mitochondrial metabolism despite chronic dysfunction. Our findings identify defective mitochondrial scaling as a key consequence of polyploidy and establish ROS- and stress signaling-dependent retrograde response as a key adaptive mechanism linking genome duplication to mitochondrial homeostasis and cellular fitness.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762444",
+    "date": "2026-10-30",
+    "authors": "Hertel AR, Sagoe AM, Yahya G, Heusser A, Khan A, Räschle M, Herrmann JM, Storchová Z, Amponsah PS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354112",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1116,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762444"
+    ],
+    "translation": {
+      "title": {
+        "hash": "463519b00171849c126b1e75bd7465824d34d84a50359014975fe434a5a7e652",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:38:39.359236+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "04784951cdd0db6dc525bb944a16bf611b69757c344e2d04145fe84d69b0aaff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:38:39.359236+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "全ゲノム重複は細胞容積スケーリングとミトコンドリア恒常性を切り離す",
+    "abstract_ja": "全ゲノム重複（倍数性）は細胞サイズと核容積を増大させるが、倍数性の拡大に伴い細胞がいかにして細胞核のバランスと代謝適応能を維持するのかは依然として不明である。我々は、半数体（1N）から四倍体（4N）に至るSaccharomyces cerevisiae株のアイソジェニックシリーズ、およびヒトのアイソジェニックな二倍体・四倍体細胞株を用い、倍数性がミトコンドリアの恒常性および代謝適応に及ぼす影響を検討した。定量プロテオミクス解析により、倍数性の増加に伴いミトコンドリアタンパク質が亜線形的にスケーリングし、特に呼吸鎖構成成分、ミトコンドリアDNA維持因子、および酸化還元恒常性タンパク質の顕著な減少が認められた。これらの変化は極めて保存されており、ゲノム拡大による保存的な帰結であることが示された。ミトコンドリアのスケーリング不全は、呼吸増殖、膜電位および酸素消費量を低下させ、酸化ストレスを増大させた。出芽酵母において、ミトコンドリア機能不全は活性酸素種（ROS）の蓄積と、Hog1および細胞完全性MAPKネットワークを含むストレス応答性シグナル伝達経路の非定型的な活性化を引き起こし、これらは慢性的な機能不全にもかかわらず、Rtg2依存性の逆行性シグナル伝達へと収束してミトコンドリア代謝を促進した。本研究の知見は、ミトコンドリアのスケーリング不全を倍数性の主要な帰結として特定し、ROSおよびストレスシグナル伝達依存的な逆行性応答を、ゲノム重複をミトコンドリアの恒常性および細胞適応能に結びつける主要な適応機構として確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11554800/v1",
+    "title": "Sacred Grove Soil as a Novel Source of Protease-Producing Alishewanella aestuarii B11: A First Report from North Gujarat, India",
+    "abstract": "Abstract    Sacred groves are forest patches that local communities have protected for generations on religious grounds. Their soils have seen little tillage, grazing or chemical input, yet few studies have screened them for bacteria of industrial use. We collected soil from 25 sacred groves in five districts of North Gujarat, India (Sabarkantha, Banaskantha, Patan, Mehsana and Aravalli) and screened it for protease-producing bacteria by serial dilution, spread-plating and clearance-zone assays on skim-milk agar. Of the 98 morphologically and biochemically distinct isolates recovered, the isolate with the largest clearance zone in each district was taken forward for quantitative work. The best producer overall, BKNR-1 from a Banaskantha grove, gave a 29 mm clearance zone on casein agar and was identified by 16S rRNA gene sequencing and phylogenetic analysis as  Alishewanella aestuarii  B11, a Gram-negative, oxidase- and catalase-positive bacterium. In submerged fermentation, one-factor-at-a-time (OFAT) optimization gave maximum protease production after 48 h with 2% (w/v) fructose as carbon source, 2% (w/v) urea as nitrogen source, an initial pH of 7.0 and incubation at 37°C. Activity under these conditions reached about 655–700 U mL⁻¹ min⁻¹, roughly 4.3 times that of the unoptimized medium. Ammonium sulfate fractionation of the crude extract raised specific activity, in line with reports for other bacterial proteases purified by stepwise salting-out. To our knowledge, this is the first report of a strongly proteolytic  A. aestuarii  strain from Indian sacred-grove soil. The genus has rarely been studied as an enzyme producer, and the result supports further bioprospecting of traditionally conserved forest soils for hydrolytic enzymes with uses in the detergent, leather, food and waste-management sectors.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11554800/v1",
+    "date": "2026-10-30",
+    "authors": "Prajapati D, Gaikwada Z, Patil K, Chaudhari RG, Bhatt SA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353813",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1117,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11554800/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f2e681459edf3d656867ec4f7f6a3940bb6c0edf106a96475ac065c05f401da6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:38:39.359236+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "36492968c8efdad5ef506a5e321991b83e9d9c23236dcfca2b579756831cfabf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:38:39.359236+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プロテアーゼ産生菌 Alishewanella aestuarii B11 の新たな供給源としての聖林土壌：インド・グジャラート州北部からの初報告",
+    "abstract_ja": "要旨    聖林とは、地域コミュニティが宗教的根拠に基づき、世代を超えて保護してきた森林区画である。その土壌は耕起や放牧、化学的投入をほとんど受けてこなかったが、工業用途の細菌をスクリーニングした研究はほとんどない。本研究では、インド・グジャラート州北部の5地区（サバルカンタ、バナスカンタ、パタン、メフサナ、アラバリ）にある25箇所の聖林から土壌を採取し、脱脂乳寒天培地を用いた連続希釈法、スプレッドプレート法、およびクリアランスゾーン法により、プロテアーゼ産生菌のスクリーニングを行った。形態学的および生化学的に区別可能な98株の分離株のうち、各地区で最大のクリアランスゾーンを示した株を定量解析に供した。全体として最高の産生能を示したバナスカンタの聖林由来のBKNR-1株は、カゼイン寒天培地において29 mmのクリアランスゾーンを示し、16S rRNA遺伝子配列解析および系統解析により、グラム陰性でオキシダーゼおよびカタラーゼ陽性の細菌であるAlishewanella aestuarii B11と同定された。浸漬発酵における一因子ずつの最適化（OFAT）により、炭素源として2%（w/v）のフルクトース、窒素源として2%（w/v）の尿素を用い、初期pH 7.0、37°Cでインキュベートしたところ、48時間後に最大のプロテアーゼ産生が認められた。これらの条件下での活性は約655–700 U mL⁻¹ min⁻¹に達し、未最適化培地の約4.3倍であった。粗抽出液を硫酸アンモニウムで分画したところ比活性が上昇し、これは段階的な塩析によって精製された他の細菌プロテアーゼに関する報告と一致していた。我々の知る限り、インドの聖林土壌から強タンパク質分解性のA. aestuarii株が得られたという報告は本研究が初めてである。本属が酵素産生菌として研究されたことは稀であり、本結果は、洗剤、皮革、食品、および廃棄物管理分野で利用可能な加水分解酵素を求めて、伝統的に保全されてきた森林土壌のさらなるバイオプロスペクティングを支持するものである。"
   }
 ]
