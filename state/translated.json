@@ -259291,5 +259291,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "X世代女性における更年期移行期の進化的ミスマッチ：中年期管理のための臨床的枠組み",
     "abstract_ja": "慢性的なストレス、概日リズムの乱れ、座位行動、工業化された食生活、および腸内マイクロバイオームの攪乱により、祖先の生理機能と現代の環境との間に進化的なミスマッチが生じている。中年期の女性が閉経移行期に入ると、生活習慣や環境要因への累積的な曝露が、閉経に伴うホルモン変化を増悪させる可能性がある。その結果、中年期の女性には、血管運動系、身体系、泌尿生殖器系、心理系、および認知系の症状が混在して現れることがあり、これらは単独では診断や治療が不十分となることが多い。我々の先行レビューでは、ジェネレーションX（Gen X）女性における進化的なミスマッチが、内分泌系、心理社会的ストレス、および免疫代謝機構の収束を通じて周閉経期の生理機能を乱し、症状と心代謝リスクを増幅させる仕組みについて述べた。これには、閉経移行の基盤となる内分泌変化、慢性的な心理社会的ストレスが全身のストレス応答系をいかに圧倒するか、ならびに慢性炎症やインスリン抵抗性といった収束的な免疫代謝機構が全身のエネルギー恒常性に及ぼす影響についての詳細な考察が含まれていた。本レビューでは、このモデルを拡張し、Gen Xの臨床表現型と、それを臨床管理への統合的アプローチへと転換する進化的再調整フレームワークを提案する。提案するフレームワークは、概日リズムの調整、代謝柔軟性、栄養および生活習慣要因、アロスタティック負荷、環境曝露、脳およびミトコンドリアの健康、筋骨格系機能、腸・ホルモン・マイクロバイオーム間のシグナル伝達、および閉経期ホルモン療法を網羅しており、個々の症状ではなく根本的な生理学的駆動要因に対処する、中年期ケアへのシステムベースのアプローチを医療従事者に提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.761102",
+    "title": "Affinity Maturation Enables Dual Targeting of Cancer-Associated MUC1-Tn/STn and Drives Potent Tumor Control",
+    "abstract": "A major challenge in solid tumor immunotherapy is identifying tumor-restricted antigens while overcoming intratumoral antigen heterogeneity. The truncated O-glycans Tn (GalNAcα-O-Ser/Thr) and STn (Neu5Acα2-6GalNAcα-O-Ser/Thr) are aberrantly displayed on the transmembrane glycoprotein MUC1 across a broad spectrum of epithelial malignancies, making MUC1-Tn/STn an attractive shared tumor-associated antigen class. However, heterogeneous intratumoral Tn/STn expression renders single-glycoform-specific antibodies vulnerable to antigen-driven escape. To address this challenge, we used structure-guided directed evolution and yeast surface display to affinity-mature the anti-MUC1-Tn antibody 5E5, generating variants with high-affinity dual recognition of MUC1-Tn and MUC1-STn. Co-crystal structures revealed that heavy-chain CDR loops cooperatively engage the GalNAc moiety primarily through hydrogen-bonding networks, in which HCDR3 residue 98 fine-tunes glycoform preference: Tyr98 favors MUC1-Tn recognition, whereas His98 enhances MUC1-STn engagement, while both support high-affinity recognition of both glycoforms. When reformatted as bispecific T-cell engagers, the affinity-matured variants mediated potent and durable cytolytic activity against cancer cells with heterogeneous glycan profiles, suppressed mixed Tn/STn tumors in vivo where the parental antibody failed, and showed enhanced activity in patient-derived tumor-like clusters. Together, these findings establish functional glycoform coverage as a design principle for antibody engineering, whereby a single paratope is optimized to recognize a defined spectrum of tumor-associated glycoforms while preserving antigen specificity, providing a strategy to overcome glycan heterogeneity in solid tumor immunotherapy. Highlights  Directed evolution of antibody 5E5 generates variants with high-affinity dual recognition of MUC1-Tn and MUC1-STn. HCDR3 98 acts as a fine-tuning mechanism for glycoform preference, Tyr98 preferentially favors the recognition of MUC1-Tn, His98 shifts this preference toward MUC1-STn, whilst both residues support high-affinity binding to both glycoforms. A broadly transferable W27d substitution enhances glycopeptide recognition across structurally distinct anti-MUC1-Tn/STn antibody scaffolds. Engineered bispecific T-cell engagers overcome intratumoral glycan heterogeneity, suppressing tumor growth where the parental antibody fails.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.761102",
+    "date": "2026-10-26",
+    "authors": "Ye J, Zhu X, Lu H, Coppola J, Zhang D, Tian Y, Yang Z, Chung S, Cui L, Zhi J, Wen L, Xi JJ, Wilson IA, Jardine J, Wu P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350439",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3582,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.22.761102"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ce4d54b2cae68fb4c7372aa757235c91b91655a8160f4d85bd7256e78f9f946c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:56:00.726382+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0f09ae8e7640ee73f3c47ab125035bf7b86582d45f57597f292dfbb8259c2ef7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:56:00.726382+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "親和性成熟はがん関連MUC1-Tn/STnの二重標的化を可能にし、強力な腫瘍制御を促進する。",
+    "abstract_ja": "固形腫瘍免疫療法における主要な課題は、腫瘍内抗原の不均一性を克服しつつ、腫瘍特異的な抗原を同定することである。切断型O-糖鎖であるTn（GalNAcα-O-Ser/Thr）およびSTn（Neu5Acα2-6GalNAcα-O-Ser/Thr）は、広範な上皮性悪性腫瘍において膜貫通型糖タンパク質MUC1に異常発現しており、MUC1-Tn/STnは魅力的な共通腫瘍関連抗原クラスとなっている。しかし、腫瘍内におけるTn/STnの発現が不均一であるため、単一の糖鎖形態に特異的な抗体は抗原駆動型のエスケープに対して脆弱となる。この課題に対処するため、我々は構造ガイド型指向性進化法と酵母表面ディスプレイを用いて抗MUC1-Tn抗体5E5をアフィニティ成熟させ、MUC1-TnとMUC1-STnの双方を高親和性で二重認識するバリアントを作製した。共結晶構造解析により、重鎖CDRループが主に水素結合ネットワークを介してGalNAc部位に協調的に結合することが明らかとなり、その中でHCDR3残基98が糖鎖形態の選好性を微調整していることが示された。Tyr98はMUC1-Tnの認識を優先し、一方でHis98はMUC1-STnへの結合を促進するが、両者とも両方の糖鎖形態に対する高親和性認識をサポートしている。これらを二重特異性T細胞エンゲージャーとして再構成したところ、アフィニティ成熟バリアントは、不均一な糖鎖プロファイルを持つがん細胞に対して強力かつ持続的な細胞溶解活性を示し、親抗体では不十分であったin vivoでの混合Tn/STn腫瘍を抑制し、さらに患者由来の腫瘍様クラスターにおいても活性の向上を示した。以上の知見は、抗体工学の設計原理として機能的な糖鎖形態カバレッジを確立するものであり、単一のパラトープが抗原特異性を維持しつつ、定義された腫瘍関連糖鎖形態のスペクトルを認識するように最適化されることで、固形腫瘍免疫療法における糖鎖不均一性を克服する戦略を提供する。ハイライト：抗体5E5の指向性進化により、MUC1-TnとMUC1-STnを高親和性で二重認識するバリアントを作製した。HCDR3 98が糖鎖形態の選好性の微調整機構として機能し、Tyr98がMUC1-Tnの認識を優先的に促進し、His98がこの選好性をMUC1-STnへとシフトさせる一方で、両残基とも両方の糖鎖形態への高親和性結合をサポートする。広範に転移可能なW27d置換により、構造的に異なる抗MUC1-Tn/STn抗体スキャフォールド間で糖鎖ペプチド認識が向上した。工学的に作製された二重特異性T細胞エンゲージャーは、腫瘍内の糖鎖不均一性を克服し、親抗体では不十分であった腫瘍増殖を抑制した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11148693/v1",
+    "title": "Upregulation of chitinase and β-1,3-glucanase enzymes and modulation of biochemical defense response by fungal endophytes against Rhizoctonia solani in cotton",
+    "abstract": "Abstract    Rhizoctonia solani  is an important soil-borne pathogen of cotton, causing damping-off, root infection, and poor seedling establishment. The use of beneficial fungal endophytes as seed biopriming agents offers a promising approach for enhancing host defense and reducing dependence on use. In this study, selected fungal endophytes were evaluated to induce biochemical and molecular defense responses against  R. solani  in cotton. Seed biopriming with  Diaporthe longicolla  ,  Trichoderma sulphureum  , and  Daldinia eschscholtzii  substantially strengthened the defense status of cotton against  R. solani  . Among these,  D. eschscholtzii  produced the most pronounced accumulation of soluble proteins, sugars, reducing sugars, phenolics and total antioxidants, together with enhanced catalase activity at both 15 and 30 DAS.  T. sulphureum  was particularly effective in activating phenylalanine ammonia-lyase, while its peroxidase activity was highest at 30 days. At the molecular level, early defense activation was evident from strong induction of chitinase and β-1,3-glucanase transcripts. Chitinase expression increased approximately 8.5-, 16-, and 26-fold following treatment with  D. longicolla  ,  T. sulphureum  , and  D. eschscholtzii  , respectively, at 15 days after sowing, whereas β-1,3-glucanase reached approximately 9-fold induction with  D. eschscholtzii  . Transcript accumulation generally declined at 30 days, indicating a stronger early molecular response. Overall,  D. eschscholtzii  consistently elicited the broadest biochemical and molecular defense response, while  T. sulphureum  showed notable activation of phenylpropanoid- and peroxidase-associated defenses. Seed biopriming with fungal endophytes enhanced cotton defense against  R. solani  through coordinated modulation of biochemical defense mechanisms and pathogenesis-related gene expression.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11148693/v1",
+    "date": "2026-10-26",
+    "authors": "Vennela BS, Hiremani NS, Verma P, Das J, Nagrale DT, Gawande SP, Thube SH, Kumar SS, Meshram MD, Behere GT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350074",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3587,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11148693/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ee3dfa8ecfeea2f44fac7a989772c77ba1a7be884d8b93f60367d70c5c6175b9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:56:00.726382+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8baa32e2fa5c1490aebdc454e9c37c0dc36539ad423e25575c92625cc138f5d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:56:00.726382+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "綿花におけるチチナーゼおよびβ-1,3-グルカナーゼ酵素の発現亢進と、Rhizoctonia solaniに対する真菌内生菌による生化学的防御応答の調節",
+    "abstract_ja": "要旨    Rhizoctonia solaniは綿花の重要な土壌伝染性病原菌であり、倒伏、根腐病、および苗の定着不良を引き起こす。有益な真菌内生菌を種子バイオプライミング剤として用いることは、宿主の防御能を高め、薬剤への依存度を低減させる有望なアプローチとなる。本研究では、選定した真菌内生菌が綿花におけるR. solaniに対する生化学的および分子レベルの防御応答を誘導するかどうかを評価した。Diaporthe longicolla、Trichoderma sulphureum、およびDaldinia eschscholtziiを用いた種子バイオプライミングにより、R. solaniに対する綿花の防御状態が著しく強化された。これらのうち、D. eschscholtziiは、15日および30日DASの両時点で、可溶性タンパク質、糖類、還元糖、フェノール類、および総抗酸化物質の最も顕著な蓄積をもたらし、同時にカタラーゼ活性の亢進も示した。T. sulphureumはフェニルアラニンアンモニアリアーゼの活性化に特に有効であり、そのペルオキシダーゼ活性は30日目に最大となった。分子レベルでは、キチナーゼおよびβ-1,3-グルカナーゼ転写産物の強力な誘導により、早期の防御活性化が認められた。播種後15日目において、キチナーゼの発現はD. longicolla、T. sulphureum、およびD. eschscholtziiによる処理後、それぞれ約8.5倍、16倍、および26倍に増加した一方、β-1,3-グルカナーゼはD. eschscholtziiにより約9倍の誘導に達した。転写産物の蓄積は30日目に概ね減少しており、早期の分子応答がより強力であったことが示された。全体として、D. eschscholtziiは一貫して最も広範な生化学的および分子レベルの防御応答を惹起し、一方でT. sulphureumはフェニルプロパノイドおよびペルオキシダーゼ関連の防御機構の顕著な活性化を示した。真菌内生菌による種子バイオプライミングは、生化学的防御機構と病原性関連遺伝子発現の協調的な調節を通じて、R. solaniに対する綿花の防御能を強化した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2384.v1",
+    "title": "Microbiota Changes During Chemotherapy in Hodgkin and Non-Hodgkin Lymphoma: A Comparative Assessment with Il-17 and Il-12 Levels",
+    "abstract": "Objective:  This study aimed to investigate changes in gut microbiota composition during chemotherapy in patients with Hodgkin lymphoma (HL), non-Hodgkin lymphoma (NHL), and healthy controls, and to evaluate their potential impact on treatment outcomes. Additionally, changes in IL-12 and IL-17 levels during chemotherapy were assessed. Materials and Methods: Fifteen samples from patients with HL were collected after 2–3 cycles of therapy, whereas 15 samples from patients with NHL were collected after 3–4 cycles of therapy. Samples were also collected from healthy controls (n = 33). Microbial alpha diversity and microbiota composition were assessed using 16S rRNA gene sequencing and an operational taxonomic unit (OTU) table generated through R/RStudio. The expression levels of IL-12 and IL-17 were quantified by real-time quantitative PCR (RT-qPCR). Results: In HL patients, genera such as Agathobacter, Romboutsia, and Veillonella were predominantly identified in pre-treatment samples, whereas Dorea, Lactobacillus, and Weissella were enriched post-treatment. Actinobacteriota and Verrucomicrobiota were slightly more abundant before treatment. In NHL patients, Alistipes, Phascolarctobacterium, and Roseburia were characteristic of pre-treatment samples, while Lachnoclostridium, Parabacteroides, and UBA1819 were enriched post-treatment. Actinobacteriota levels increased modestly after chemotherapy. KEGG pathway analysis revealed distinct alterations in HL and NHL, and IL-12 levels differed significantly between NHL patients and healthy controls post-chemotherapy. Conclusions: Baseline gut microbiota profiling may help develop personalized strategies to mitigate chemotherapy-induced dysbiosis and enhance treatment efficacy. Microbiome modulation represents a promising adjunctive approach in lymphoma management.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2384.v1",
+    "date": "2026-10-26",
+    "authors": "Oncul O, Besisik SK, Gurer Kluge EE, Tiryaki TO, Sezerman OU, Oğuz F, Onat P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349753",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3837,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.20944/preprints202610.2384.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a07e4b91b6dbe832fd05ed422b80ef10af98b2a763473e39bcfd1aa7f64ed7e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:56:00.726382+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "92dd7cdc6da378b4df77c3c82ce595a622d42cff4e19a3dfe3b15068d7894b19",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:56:00.726382+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ホジキンリンパ腫および非ホジキンリンパ腫における化学療法中の微生物叢の変化：Il-17およびIl-12レベルを用いた比較評価",
+    "abstract_ja": "目的：本研究は、ホジキンリンパ腫（HL）患者、非ホジキンリンパ腫（NHL）患者、および健常対照群を対象に、化学療法中の腸内細菌叢組成の変化を調査し、治療成績に及ぼし得る影響を評価することを目的とした。また、化学療法中のIL-12およびIL-17レベルの変化についても評価した。材料および方法：HL患者からは2～3サイクルの治療後に15検体を、NHL患者からは3～4サイクルの治療後に15検体を採取した。また、健常対照群（n = 33）からも検体を採取した。微生物のアルファ多様性および細菌叢組成は、16S rRNA遺伝子シーケンシングおよびR/RStudioを用いて作成した操作分類単位（OTU）表を用いて評価した。IL-12およびIL-17の発現レベルは、リアルタイム定量PCR（RT-qPCR）により定量した。結果：HL患者では、治療前検体においてAgathobacter属、Romboutsia属、Veillonella属などが主に同定された一方、治療後にはDorea属、Lactobacillus属、Weissella属が増加していた。Actinobacteriota属およびVerrucomicrobiota属は、治療前にわずかに多く認められた。NHL患者では、治療前検体においてAlistipes属、Phascolarctobacterium属、Roseburia属が特徴的であった一方、治療後にはLachnoclostridium属、Parabacteroides属、UBA1819が増加していた。Actinobacteriota属のレベルは、化学療法後にわずかに上昇した。KEGGパスウェイ解析により、HLとNHLで明確な変化が認められ、化学療法後のIL-12レベルはNHL患者と健常対照群の間で有意に異なっていた。結論：ベースラインでの腸内細菌叢プロファイリングは、化学療法誘発性のディスバイオーシスを軽減し、治療効果を高めるための個別化戦略の開発に役立つ可能性がある。マイクロバイオーム調節は、リンパ腫管理における有望な補助的アプローチである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760860",
+    "title": "Predicting Protein-Protein Interactions Using Vectorized Sequence Descriptors and Machine Learning Classifiers",
+    "abstract": "ABSTRACT  Accurate prediction of protein-protein interactions (PPIs) is fundamental for elucidating cellular mechanisms and accelerating drug discovery. Although experimental techniques provide extensive interaction maps, their high cost and time requirements necessitate robust computational alternatives. In this study, we present an interpretable machine-learning framework that integrates sequence-derived descriptors,specifically 120 Auto-Covariance (AC) features, 686 Conjoint Triad (CT) features, and 1,820 Local Descriptors (LD) features, with classical classification algorithms, including Support Vector Machines (SVM), Random Forests (RF), and XGBoost (XGB). Evaluated on gold-standard sequence-based PPI benchmark dataset using stratified five fold cross-validation, the models achieved robust classification accuracies: 86.92% (SVM), 97.75% (RF), and a peak cross-validation accuracy of 97.97% with XGBoost (Rec: 98.09%, Pr: 98.10%, F1: 98.09%). Furthermore, rigorous evaluation on an independent unseen (Human-PPI) test set demonstrated exceptional generalization capabilities. The Random Forest model emerged as the top-performing architecture, yielding an outstanding accuracy of 99.51%, a precision of 99.72%, a recall of 99.29%, an F1-score of 99.50%, an Area Under the Receiver Operating Characteristic curve (AUROC) of 0.9990, and an Area Under the Precision-Recall Curve (AUPRC) of 0.9989 (closely followed by XGBoost with 98.54% accuracy, AUROC 0.9979, and AUPRC 0.9974). Feature-importance analysis revealed that short-range physicochemical correlations (such as polarity and hydrophobicity lags in Protein 2), regional amino-acid compositions, and specific triad patterns (e.g., A/G/V-M/S/T/Y-M/S/T/Y) drive accurate PPI discrimination. These findings demonstrate the effectiveness of domain-informed, handcrafted sequence features combined with machine-learning classifiers for PPI prediction, providing biologically interpretable insights with minimal computational overhead and enabling efficient, scalable interactome screening.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760860",
+    "date": "2026-10-26",
+    "authors": "Bhat R, Kumari V, Kaira VS, Kudari ZD, Shankar SP, Jaiganesh G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351761",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "classification",
+        "framework",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "algorithm",
+          "classification",
+          "framework",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3890,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.21.760860"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4c7cc4e45fc5cd115b06f55d779fe157ca0fe675c17674db5773e8233959b4e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:56:00.726382+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e96d7edf60bc6a6c9c54d22992248ed48c8d561e66f148a0dc9a1faa1d89ae86",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:56:00.726382+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ベクトル化配列記述子と機械学習分類器を用いたタンパク質間相互作用の予測",
+    "abstract_ja": "要旨　タンパク質間相互作用（PPI）の正確な予測は、細胞メカニズムの解明および創薬の加速において不可欠である。実験手法によって広範な相互作用マップが得られるものの、その高コストと時間を要する性質から、堅牢な計算手法による代替策が必要とされている。本研究では、配列由来の記述子（具体的には120個の自己共分散（AC）特徴量、686個の共関節三元（CT）特徴量、および1,820個の局所記述子（LD）特徴量）を、サポートベクターマシン（SVM）、ランダムフォレスト（RF）、およびXGBoost（XGB）を含む古典的な分類アルゴリズムと統合した、解釈可能な機械学習フレームワークを提案する。層化5分割交差検証を用いてゴールドスタンダードの配列ベースPPIベンチマークデータセットで評価した結果、モデルは86.92%（SVM）、97.75%（RF）という高い分類精度を達成し、XGBoostでは最大97.97%の交差検証精度を記録した（Rec: 98.09%, Pr: 98.10%, F1: 98.09%）。さらに、独立した未見データセット（Human-PPI）を用いた厳格な評価により、卓越した汎化性能が実証された。ランダムフォレストモデルが最高性能のアーキテクチャとなり、99.51%の精度、99.72%の適合率、99.29%の再現率、99.50%のF1スコア、0.9990の受信者動作特性曲線下面積（AUROC）、および0.9989の適合率-再現率曲線下面積（AUPRC）という優れた結果を示した（XGBoostが98.54%の精度、AUROC 0.9979、AUPRC 0.9974で僅差で続いた）。特徴量重要度解析により、短距離の物理化学的相関（Protein 2における極性や疎水性ラグなど）、領域ごとのアミノ酸組成、および特定の三元パターン（例：A/G/V-M/S/T/Y-M/S/T/Y）が、正確なPPI判別を駆動していることが明らかになった。これらの知見は、ドメイン知識に基づいたハンドクラフトの配列特徴量と機械学習分類器を組み合わせたPPI予測の有効性を示すものであり、最小限の計算オーバーヘッドで生物学的に解釈可能な知見を提供し、効率的かつスケーラブルなインタラクトームスクリーニングを可能にする。"
   }
 ]
