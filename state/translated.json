@@ -233585,5 +233585,330 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "臨床用淋菌検体におけるプローブ捕捉シーケンシングの設計と評価",
     "abstract_ja": "要旨  Neisseria gonorrhoeaeの分子疫学を特性評価することは、疾患負荷の把握、伝播動態の解明、ならびに臨床的意思決定および公衆衛生上の介入への情報提供において不可欠である。培養が困難な本病原体を、ルーチンの培養非依存的診断法によって迅速かつ高感度に検出できる現状を踏まえると、その疫学および進化動態を理解するためには、ゲノムサーベイランスをこれらのワークフローと整合させることが必要である。この課題に対処するため、我々は次世代シーケンシングにおいて病原体特異的DNAを選択的に濃縮するためのプローブキャプチャシーケンシングの有用性を検討した。Pathogenwatchで公開されているゲノムの遺伝情報を用いて、カスタムビオチン化オリゴヌクレオチドベイトを設計した。32,574個のアセンブリの中から、コアゲノムアミノ酸距離クラスタリング、および固有の耐性関連遺伝子型と予測耐性表現型の表現を用いて、プローブ生成に供する2,877個の代表的なゲノムを選定した。得られたプローブセットは、参照ゲノムであるN. gonorrhoeae FA 1090を十分にカバーしており、ヌクレオチドカバレッジは94.6%、アノテーション済み遺伝子の99.3%が少なくとも1つのプローブによってカバーされていた。相対的な病原体存在量が異なる12検体の臨床尿検体を用いて本技術をパイロット運用した結果、プローブキャプチャシーケンシングにより、複雑な検体からのN. gonorrhoeae配列リードの相対存在量が大幅に増加し（フォールドチェンジ範囲：226～2046）、広範なゲノムカバレッジの実現、高品質なゲノムアセンブリの構築、および耐性関連遺伝子型の検出が可能となった。これらの知見は、プローブキャプチャシーケンシングが臨床検体からN. gonorrhoeaeの遺伝物質を濃縮するための有効な手法であり、培養困難な病原体の疫学に関する培養非依存的なゲノム解析を可能にし、臨床および公衆衛生上の介入に資する実用的な知見を提供することを実証している。  重要性  細菌性病原体の分子疫学を理解することは、集団の多様性、伝播動態、および細菌の形質や臨床転帰に関連する遺伝子型を明らかにすることにつながる。培養の困難さが、Neisseria gonorrhoeaeの疫学を理解する上での妨げとなっている。ゲノムサーベイランスの手法を既存の臨床診断法と整合させることは、革新的なゲノムサーベイランスの実施を導く上で不可欠である。本論文では、代表的な公開ゲノムアセンブリを用いてカスタムビオチン化オリゴヌクレオチドベイトを設計し、次世代シーケンシングにおける複雑な臨床尿検体からの病原体特異的DNA収量の増加に成功した。プローブキャプチャシーケンシングは、臨床検体からの病原体特異的遺伝物質の検出を著しく改善し、高品質なゲノムアセンブリの構築および耐性関連遺伝子型の検出を可能にした。総じて、我々はプローブキャプチャシーケンシングが臨床検体から培養困難な病原体をシーケンシングするための有効な手法であることを実証し、本技術がこれらの病原体の疫学に関するゲノム解析を強化し、臨床的意思決定および公衆衛生上の介入に資する実用的な知見を提供し得ることを明らかにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.3092.v1",
+    "title": "Evaluation of the Safety and Efficacy of Fecal Microbiota Transplantations with Oral Capsules in Alzheimer’s Disease Patients Using Metagenomic Sequencing",
+    "abstract": "Background:  Alzheimer's disease (AD) is a progressive neurodegenerative disease. Numerous studies have shown that the gut microbiota is closely related to the occurrence and development of Alzheimer's disease, suggesting that alterations in gut microbiota may represent a therapeutic strategy. However, the role and mechanisms of the gut microbiota in AD remain unclear, and standard research protocols for the gut microbiota are not uniform. The clinical safety and efficacy of oral capsule fecal microbiota transplantation, ( FMT) in patients with AD are not yet established, and related clinical studies are lacking. Objective: This study aimed to investigate the safety and effects of FMT capsule on cognitive im-pairment in patients with mild to moderate Alzheimer's disease and to explore the re-lationship between cognition and gut microbiota by evaluating changes in gut microbial gene expression after FMT. Methods: In this study, 18 patients with clinically and radiologically confirmed mild to moderate AD aged 60-80years old were enrolled in this prospective single-arm clinical observation study. All subjects received allograft FMT (intestinal bacteria capsules with strict do-norscreening and in line with international FMT donor standards) three times at 0, 30 and 60 days. Serum and fecal samples were collected at 0, 30, 60 and 90 days, and MoCA, MMSE scores, HAMD, HAMA, ADL and fecal metagenomics sequencing were evalu-ated.During FMT and follow-up, safety was assessed by recording adverse events (AEs), vital signs, and laboratory parameters. Results After the intervention of FMT capsule, various cognitive and behavioral scores in FMT1 and FMT2 groups were not significantly changed, MMSE and MoCA scores in FMT3 group were significantly higher than those in FMT0 group (P Conclusion: In this study, FMT capsules can alter the intestinal microbiome structure and achieve intestinal microbiome remodeling, which may be a potential mechanism for microbiome capsules to improve AD related phenotypes.It is well tolerated and safe in the treatment of patients with mild to moderate Alzheimer's disease.Despite the limited sample size and lack of control group, the results still provide clinical evidence for targeted inter-vention of the gut-brain axis in AD, but larger, randomized, double-blind place-bo-controlled trials are needed to further verify its efficacy and mechanism.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.3092.v1",
+    "date": "2026-10-30",
+    "authors": "Wu J, Cui D, Si Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355139",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 446,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.3092.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "12953585a3a209dc0b0030ec3bd96a08c469527c7fe85f6d7fbb44a7516e8c69",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:30:09.942104+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5624d9bd68dbff527ea745da3b84406608c882c0d2323cf2ab4a91bcd8eaafd8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:30:09.942104+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタゲノムシーケンシングを用いたアルツハイマー病患者における経口カプセル剤による糞便微生物移植の安全性および有効性の評価",
+    "abstract_ja": "背景：アルツハイマー病（AD）は進行性の神経変性疾患である。数多くの研究により、腸内細菌叢がアルツハイマー病の発症および進展に密接に関連していることが示されており、腸内細菌叢の変化が治療戦略となり得ることが示唆されている。しかし、ADにおける腸内細菌叢の役割と機序は依然として不明であり、腸内細菌叢に関する標準的な研究プロトコルも統一されていない。AD患者における経口カプセル型糞便微生物移植（FMT）の臨床的安全性および有効性はまだ確立されておらず、関連する臨床研究も不足している。目的：本研究は、軽度から中等度のアルツハイマー病患者におけるFMTカプセルの安全性と認知機能障害への影響を調査するとともに、FMT後の腸内細菌遺伝子発現の変化を評価することで、認知機能と腸内細菌叢の関連性を探ることを目的とした。方法：本研究では、臨床的および放射線学的に軽度から中等度のADと診断された60～80歳の患者18名を、前向き単群臨床観察研究に組み入れた。全被験者に対し、厳格なドナースクリーニングを行い、国際的なFMTドナー基準に準拠した同種移植FMT（腸内細菌カプセル）を、0、30、60日目に3回投与した。0、30、60、90日目に血清および糞便検体を採取し、MoCA、MMSEスコア、HAMD、HAMA、ADL、および糞便メタゲノムシーケンシングを評価した。FMTおよびフォローアップ期間中、有害事象（AEs）、バイタルサイン、および検査値を記録することで安全性を評価した。結果：FMTカプセル投与後、FMT1群およびFMT2群における各種認知・行動スコアに有意な変化は認められなかったが、FMT3群のMMSEおよびMoCAスコアはFMT0群よりも有意に高かった（P）。結論：本研究において、FMTカプセルは腸内マイクロバイオーム構造を変化させ、腸内マイクロバイオームのリモデリングを実現し得る。これは、マイクロバイオームカプセルがAD関連表現型を改善させる潜在的な機序である可能性がある。本療法は、軽度から中等度のアルツハイマー病患者の治療において忍容性が高く、安全である。サンプルサイズが限られており対照群が存在しないものの、本結果はADにおける腸脳軸への標的介入に関する臨床的根拠を提供するものである。ただし、その有効性と機序をさらに検証するためには、より大規模なランダム化二重盲検プラセボ対照試験が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762876",
+    "title": "PloidyPeaks: R package for automated flow cytometry cell cycle analysis and visualization in fungal microbes",
+    "abstract": "ABSTRACT  Karyotypic variation in fungal populations from ecological, clinical, and industrial environments and is also a hallmark of many cancers. The evolutionary dynamics of karyotypic vriants (i.e., changes in the number of chromosomes, either as complete sets or single chromosomes) are the same as any  de novo mutation. To quantify karyotypic subpopulations within evolving populations, an unbiased computational method is required to identify subpopulations and quantify their abundance. Flow cytometry is the standard method to measure the genome size from large populations of individual cells. Cell populations typically include cells in all stages of the cell cycle (G0/G1 before DNA replication, S phase during replication, and G2/M after DNA replication but before cell division). Existing mathematical models can be fit to genome-size distributions to determine the base ploidy of a population, but existing algorithms assume a single base ploidy. Mixed-karyotype populations therefore require manual gating to subdivide the flow cytometry data before analysis, which introduces bias, as it is not always clear where or when gates should be drawn. To overcome this, we developed an new method that identifies and quantifies karyotypic subpopulations from flow cytometry data. The open-source R package  ploidyPeaks builds on existing Bioconductor tools to import and manipulate standard  .fcs flow cytometry files. Using reference populations of known ploidy, we established thresholds to distinguish single-genome size populations and identify candidate mixed-karyotype samples. We then developed a peak-detection algorithm to identify G0/G1 and G2/M peaks, resolve karyotypic subpopulations within mixed populations, and apply nonlinear least-squares fitting of the Dean-Jett-Fox cell-cycle model to each subpopulation, providing a confidence measure for model fit. Compared with existing methods, our approach quantifies genome size in mixed-karyotype populations without manual intervention while providing an objective measure of model fit. We demonstrate the utility of this method on 240 replicate populations initiated from 20  Candida albicans genetic backgrounds evolving for 100 generations to the antifungal drug fluconazole.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762876",
+    "date": "2026-10-30",
+    "authors": "Henry M, Kostna C, von Giese L, Gerstein A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354508",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungal",
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 447,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762876"
+    ],
+    "translation": {
+      "title": {
+        "hash": "59c9ff38ce095734036b9f031a0d0f8aaa10381c1eca5effd114a73efa5a8615",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:30:09.942104+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8cd3186bdeba49c294ceb90a45ecdc3fcc2f7396771af7483b9e90ff4c0e143b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:30:09.942104+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PloidyPeaks: 真菌微生物におけるフローサイトメトリーによる細胞周期解析および可視化を自動化するRパッケージ",
+    "abstract_ja": "要旨　核型特異的変異は、生態学的、臨床的、および産業的環境における真菌集団に見られるものであり、多くのがんの特徴的な所見でもある。核型特異的変異（すなわち、染色体の数の変化であり、完全なセットまたは単一の染色体として現れる）の進化動態は、あらゆるde novo変異と同様である。進化する集団内の核型特異的サブ集団を定量化するには、サブ集団を同定し、その存在量を定量化するためのバイアスのない計算手法が必要となる。フローサイトメトリーは、多数の個々の細胞からなる集団からゲノムサイズを測定するための標準的な手法である。細胞集団には通常、細胞周期のあらゆる段階にある細胞（DNA複製前のG0/G1期、複製中のS期、およびDNA複製後かつ細胞分裂前のG2/M期）が含まれる。既存の数理モデルをゲノムサイズ分布に適合させることで集団の基本倍数性を決定できるが、既存のアルゴリズムは単一の基本倍数性を前提としている。したがって、混合核型集団では、解析前にフローサイトメトリーデータを細分化するための手動によるゲーティングが必要となり、ゲートをいつどこに引くべきかが必ずしも明確ではないため、バイアスが生じる。これを克服するため、我々はフローサイトメトリーデータから核型特異的サブ集団を同定し定量化する新たな手法を開発した。オープンソースのRパッケージploidyPeaksは、既存のBioconductorツールを基盤として、標準的な.fcsフローサイトメトリーファイルのインポートおよび操作を行う。既知の倍数性を持つ参照集団を用いて、単一ゲノムサイズの集団を区別し、混合核型候補サンプルを同定するための閾値を設定した。次に、G0/G1およびG2/Mピークを同定し、混合集団内の核型特異的サブ集団を分離し、さらに各サブ集団にDean-Jett-Fox細胞周期モデルの非線形最小二乗フィッティングを適用してモデル適合の信頼度指標を提供するピーク検出アルゴリズムを開発した。既存の手法と比較して、我々のアプローチは、手動介入なしに混合核型集団のゲノムサイズを定量化し、同時にモデル適合の客観的な指標を提供する。我々は、抗真菌薬フルコナゾールに対して100世代にわたって進化させた20のCandida albicans遺伝的背景から開始した240の反復集団を用いて、本手法の有用性を実証した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11260125/v1",
+    "title": "Acute lethality and stress-responsive phenotypes differ among three Acinetobacter baumannii strains: phenotypic, genomic and transcriptomic analyses",
+    "abstract": "Abstract    Background  Acinetobacter baumannii  exhibits substantial strain-level heterogeneity in antimicrobial resistance, virulence-associated phenotypes and responses to environmental stress. Whether acute lethality covaries with surface-associated and stress-responsive phenotypes across different strain backgrounds remains unclear. We compared three clinically distinct  A. baumannii  strains, LS01, AB5075 and XH386, using phenotypic assays, comparative genome annotation and transcriptomic profiling. Results  The three strains displayed distinct phenotypic profiles. Following inoculation with 5 × 10^4 CFU in  Galleria mellonella  , 96-h survival was 20% for LS01, 45% for AB5075 and 60% for XH386. In immunocompetent C57BL/6J mice challenged by oropharyngeal aspiration with a common inoculum of 5 × 10^6 CFU, 120-h survival was 25% after LS01 infection, whereas all AB5075- and XH386-infected mice survived. XH386 yielded the highest HBE-cell-associated bacterial recovery in both independent experiments. OD600 trajectories during exposure to non-heat-inactivated human serum varied with serum concentration and donor; at 10% serum, XH386 showed a higher late-phase OD600 than LS01 in both donor experiments. Transmission electron microscopy showed the most prominent capsule-associated extracellular layer in AB5075, whereas LS01 showed a thinner layer and XH386 markedly attenuated capsule-associated material. Attached biomass varied with strain and environmental condition, with XH386 showing the highest biomass under 10% heat-inactivated serum in repeated experiments. Comparative genome annotation showed extensive overlap in major pathogenicity-, biofilm-, iron-acquisition-, secretion- and stress-associated systems despite these phenotypic differences. In XH386, DIP-mediated iron restriction produced the largest transcriptional response, with 1,059 genes meeting adjusted  P",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11260125/v1",
+    "date": "2026-10-30",
+    "authors": "Zhu Y, Yu H, Zhou H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353697",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 453,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11260125/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e1f5e9e16c7e35911aee21e1d87e59ad90264abf60f86e85d2260300d4cb89f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:30:09.942104+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "faaba26ae7fa4a4ea555ff4cdda8b4d9d3febc509115df4f0c723b20dbef421d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:30:09.942104+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Acinetobacter baumanniiの3株における急性致死性とストレス応答性表現型の相違：表現型、ゲノムおよびトランスクリプトーム解析",
+    "abstract_ja": "要旨    背景  Acinetobacter baumanniiは、薬剤耐性、病原性関連表現型、および環境ストレス応答において、菌株レベルで著しい不均一性を示す。異なる菌株背景において、急性致死性が表面関連表現型およびストレス応答性表現型と共変するかどうかは依然として不明である。我々は、表現型アッセイ、比較ゲノムアノテーション、およびトランスクリプトームプロファイリングを用いて、臨床的に異なる3つのA. baumannii菌株（LS01、AB5075、およびXH386）を比較した。結果  これら3つの菌株はそれぞれ異なる表現型プロファイルを示した。Galleria mellonellaに5 × 10^4 CFUを接種した後、96時間生存率はLS01で20%、AB5075で45%、XH386で60%であった。共通の5 × 10^6 CFU接種液を用いて口咽頭吸引により負荷した免疫能正常C57BL/6Jマウスにおいて、120時間生存率はLS01感染後で25%であったのに対し、AB5075およびXH386感染マウスはすべて生存した。XH386は、2つの独立した実験の両方において、HBE細胞関連細菌の回収量が最大であった。非熱不活化ヒト血清曝露中のOD600軌跡は、血清濃度およびドナーによって異なり、血清濃度10%において、両ドナー実験でXH386はLS01よりも高い後期相OD600を示した。透過型電子顕微鏡観察では、AB5075において最も顕著な莢膜関連細胞外層が認められた一方、LS01では層が薄く、XH386では莢膜関連物質が著しく減弱していた。付着バイオマスは菌株および環境条件によって異なり、反復実験においてXH386は10%熱不活化血清下で最も高いバイオマスを示した。比較ゲノムアノテーションにより、これらの表現型の相違にもかかわらず、主要な病原性、バイオフィルム、鉄獲得、分泌、およびストレス関連システムにおいて広範な重複が認められた。XH386では、DIP介在性の鉄制限が最大の転写応答を引き起こし、1,059個の遺伝子が調整済みPを満たした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.3039.v1",
+    "title": "Autonomous Hypothesis Testing Against Public Biomedical Data with Literature-Grounded Calibration",
+    "abstract": "Public biomedical repositories contain petabytes of data, yet testing hypotheses against those resources still requires expert effort. I present a four-phase blinded workflow for autonomous computational hypothesis testing: an agent receives a natural-language hypothesis, discovers public datasets with academic publisher domains blocked, executes an analysis pipeline and validates findings against the literature. Published studies serve as calibration rulers, measuring how closely an autonomous workflow approaches known answers before it is trusted on unknown ones. Across five biomedical tasks spanning bacterial genomics, single-cell multiomics, metagenomics, cancer genomics and GWAS functional genomics, the agent scored 5–9 out of 10 on pre-specified rubrics in 20–188 minutes (the single-cell multiomics score was corrected from an initial 8 to 5 after blinded judge review identified over-credited criteria; see Methods). An exploratory comparison across three successive model generations found scores directionally higher for the first generation (claude-opus-4-6) on all five tasks (one-sided Wilcoxon p = 0.031, rank-biserial r = 1.0; n = 5 studies), with newer models completing tasks faster; the benchmark also exposed generation-specific safety policy and schema differences that silently confound cross-generation comparisons if not corrected. Failures fell into three categories, tool-version sensitivity, data-scope limitation and analytical completeness, all self-diagnosed by the validation phase in all five cases examined here without human prompting. These results introduce a calibration framework and failure taxonomy for characterising when autonomous computational science workflows should and should not be trusted.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.3039.v1",
+    "date": "2026-10-30",
+    "authors": "O'Connell KA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353529",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomics"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 454,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.3039.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3479c2be24da22430d3895ef346afe8eecba4c1c1ba232af87d8a6e518abe6d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:30:09.942104+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "980c7e46c4cf6620b4509265adb4cfe7202fe7f7cb1f2e4eebfcff8cb91ca371",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:30:09.942104+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "文献に基づく較正を用いた公開生物医学データに対する自律的仮説検定",
+    "abstract_ja": "公開バイオメディカルリポジトリにはペタバイト規模のデータが蓄積されているが、それらのリソースを用いて仮説を検証するには、依然として専門家の労力を要する。本稿では、自律的な計算仮説検証のための4段階のブラインドワークフローを提案する。具体的には、エージェントが自然言語による仮説を受け取り、学術出版社のドメインがブロックされた公開データセットを探索し、解析パイプラインを実行して、得られた知見を文献に照らして検証する。既報の研究は較正基準として機能し、未知の解答に対して信頼が置かれる前に、自律的なワークフローが既知の解答にどの程度近いかを測定する。細菌ゲノミクス、シングルセルマルチオミクス、メタゲノミクス、がんゲノミクス、およびGWAS機能ゲノミクスにわたる5つのバイオメディカルタスクにおいて、エージェントはあらかじめ規定された評価指標に基づき、20～188分で10点満点中5～9点を記録した（シングルセルマルチオミクスのスコアは、ブラインド判定者のレビューにより過大評価されていた基準が特定されたため、当初の8点から5点に修正された。詳細は「Methods」を参照）。3世代にわたるモデルの探索的比較を行った結果、5つのタスクすべてにおいて第1世代（claude-opus-4-6）のスコアが方向性として高く（片側ウィルコクソン p = 0.031、順位二系列相関 r = 1.0; n = 5研究）、新しいモデルほどタスクを高速に完了することが明らかになった。また、このベンチマークにより、世代固有の安全ポリシーやスキーマの差異が露呈し、これらを修正しない限り、世代間比較において暗黙的に交絡要因となる。失敗事例は、ツールのバージョン感受性、データ範囲の制限、および解析の完全性という3つのカテゴリーに分類され、ここで検討した5つのケースすべてにおいて、人間によるプロンプティングなしに検証フェーズで自己診断された。これらの結果は、自律的な計算科学ワークフローをいつ信頼すべきか、あるいは信頼すべきでないかを特徴づけるための、較正フレームワークと失敗の分類体系を提示するものである。"
   }
 ]
