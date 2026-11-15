@@ -232945,5 +232945,305 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "代謝カスケードが特定の腸内コンソーシアムにおける空間的なプレバイオティクス発酵を駆動する",
     "abstract_ja": "食物繊維の不足は、腸内細菌叢を宿主粘液の分解へとシフトさせ、腸管の恒常性を損なう。代表的なモデル系の欠如により、食物繊維分解のin vitroにおける代謝動態をin vivoの結果に機序的に結びつけることは依然として困難である。定義されたOligo-Mouse-Microbiota (OMM12) in vitroコンソーシアムに空間的なムチン構造を導入することで、gnotobioticマウスにおけるキシオリゴ糖（XOS）処理の時空間的動態を再現することが可能となった。XOSの補充により、組成、代謝、および転写の各レベルにおいて、in vitroおよびin vivoで安定した群集状態が速やかに確立された。XOSの補充により、明確な機能的ギルドが形成された。Bifidobacterium animalisとBlautia coccoidesはキシロースとアラビノースの異化を分担する一方で、Bacteroides caecimurisはXOS分解から利益を得ている。結腸軸に沿って、空間的なXOS勾配がBl. coccoidesのキシロースに対する基質選好性を顕在化させ、縦断的な機能的適応を駆動する。総じて、我々の予測プラットフォームは、局所的な微小環境がプレバイオティクスの有効性を制御することを実証しており、標的を絞ったマイクロバイオーム介入における不可欠なパラメータとして空間的カスケードを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762784",
+    "title": "Multimodal profiling and intersectional genetics reveal CA1 border inhibitory neuron diversity and postnatal emergence of retrosplenial connectivity",
+    "abstract": "ABSTRACT  Inhibitory neurons (INs) at the stratum radiatum/stratum lacunosum-moleculare border of hippocampal CA1 comprise diverse populations, including long-range-projecting neurons that innervate the retrosplenial cortex (RSCtx). However, their molecular organization and developmental connectivity remain poorly understood. Here, we combine multimodal transcriptomic profiling, intersectional genetics, and retrograde tracing to characterize CA1 border INs. We identified two major caudal ganglionic eminence-derived,  Cxcl14 -enriched populations distinguished by  Syt6/Cck -related and  Ntng1 -expressing transcriptional profiles. We then generated a  Cxcl14 -Cre mouse line that, when combined with an IN-specific viral enhancer, provides genetic access to CA1 border INs. Retrograde labeling established that CA1 INs projecting to the RSCtx belong to the  Ntng1 -expressing population, and that this long-range projection emerges during postnatal mouse development, between postnatal days 3 and 5. Finally, analysis of genes encoding cell-surface proteins, key regulators of connectivity, revealed distinct expression profiles in RSCtx-projecting and SYT6-positive INs. Together, these findings establish a molecular and developmental framework for CA1 border IN diversity and provide a genetic strategy for investigating the assembly and function of these inhibitory circuits.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762784",
+    "date": "2026-10-31",
+    "authors": "Martínez Vizcaíno N, Thrupp N, Lorente-Echeverría B, Daaboul D, Alabi M, Milián Alastruey C, Linaro D, Fourne Y, Vandenbempt J, Lukacsovich D, Földy C, Lamote J, Wojno M, Poovathingal S, Fiers M, Wierda K, Lim L, Calafate S, de Wit J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354456",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2355,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762784"
+    ],
+    "translation": {
+      "title": {
+        "hash": "88d5394b20df482c17a9f3b46b215b98f8ec7a9424c08392add87904b9409e06",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:24:08.767252+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b7942b753af1464b061a9a8f12444f85b3215eb02fb46fd4924744312f1963d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:24:08.767252+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチモーダルプロファイリングと交差遺伝学により、CA1境界抑制性ニューロンの多様性と後天的な後脾連関の出現が明らかになった。",
+    "abstract_ja": "要旨　海馬CA1の放射層／層状網様体境界部に位置する抑制性ニューロン（IN）は、後脾皮質（RSCtx）に投射する長距離投射ニューロンを含む多様な集団で構成されている。しかし、その分子組織化および発達過程における結合性については、依然として十分に解明されていない。本研究では、マルチモーダルトランスクリプトームプロファイリング、インターセクショナル遺伝学、および逆行性トレーシングを組み合わせて、CA1境界部INの特性解析を行った。その結果、Syt6/Cck関連およびNtng1発現の転写プロファイルによって区別される、尾側神経節突起由来のCxcl14濃縮集団という2つの主要な集団を同定した。次いで、IN特異的なウイルスエンハンサーと組み合わせることでCA1境界部INへの遺伝的アクセスを可能にするCxcl14-Creマウス系統を作製した。逆行性標識により、RSCtxに投射するCA1 INがNtng1発現集団に属すること、およびこの長距離投射が生後3日から5日の間のマウスの出生後発達過程で出現することが明らかになった。最後に、結合性の主要な調節因子である細胞表面タンパク質をコードする遺伝子を解析したところ、RSCtxに投射するINとSYT6陽性INで異なる発現プロファイルが認められた。以上の知見を総合すると、CA1境界部INの多様性に関する分子・発達的枠組みが確立され、これらの抑制性回路の構築と機能を解明するための遺伝学的戦略が提示される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763006",
+    "title": "Systematic analysis reveals an Mln1-dependent trade-off between metabolic flexibility and thermotolerance in  Cryptococcus neoformans",
+    "abstract": "During infection, fungal pathogens must adapt to multiple environmental challenges, including changes in temperature, nutrient availability, and immune stress. Although transcriptional regulators are central to these adaptations, how individual regulators contribute to distinct environmental responses and how these responses are functionally interconnected remain poorly understood. Here, we investigated the functions of infection-associated transcription factors under distinct host-relevant conditions in  Cryptococcus neoformans . Integrating in vivo expression profiling with infectivity data from signature-tagged mutagenesis, we prioritized 24 transcription factors, 12 of which were induced under host-mimicking conditions. Initial functional analyses revealed distinct roles for these transcription factors in adaptation to temperature, carbon, and nitrogen availability. Further characterization of Mln1, a fungal basic helix-loop-helix transcription factor, uncovered an unexpected connection between carbon source adaptation and thermotolerance. Mig1-dependent repression limited  MLN1 expression in the presence of glucose, whereas Mln1 accumulated in the nucleus in the presence of trehalose or ethanol, but not glucose. Loss of  MLN1 impaired carbon-starvation gene expression and growth on non-preferred carbon sources, particularly trehalose. Conversely,  mln1 Δ cells accumulated more intracellular trehalose and exhibited enhanced thermotolerance, yet showed reduced melanization, titan cell formation, virulence in  Drosophila , and brain fungal burden in mice. Together, these results suggest that Mln1 contributes to metabolic flexibility and fungal virulence while differentially influencing thermotolerance. More broadly, these findings highlight a potential physiological trade-off between nutrient utilization and stress resistance, suggesting that these adaptive processes may be interconnected in fungal pathogens.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763006",
+    "date": "2026-10-31",
+    "authors": "Yu S, Lee M, Yang S, Cha H, Won D, Kim D, Choi J, Yu S, Seo R, Lee K, Lee J, Lee W, Lee D, Bahn Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354925",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3279,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.30.763006"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1e1a02fa5d6c6ece28afb6ea5fc7d879ccd41b15a1f86703575727364ae949ed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:24:08.767252+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0384f1fffe428066b150f8225b72971e7733001bed56e281e66f69d79b6c5c6f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:24:08.767252+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "系統解析により、Cryptococcus neoformansにおける代謝柔軟性と耐熱性の間にMln1依存的なトレードオフが存在することが明らかとなった。",
+    "abstract_ja": "感染過程において、真菌病原体は温度、栄養利用可能性、および免疫ストレスの変化を含む、複数の環境的課題に適応しなければならない。転写調節因子はこれらの適応において中心的な役割を担うが、個々の調節因子がいかにして異なる環境応答に寄与し、それらの応答が機能的にどのように相互関連しているかについては、依然として十分に解明されていない。本研究では、Cryptococcus neoformansにおいて、宿主に関連する異なる条件下での感染関連転写因子の機能を調査した。in vivo発現プロファイリングとシグネチャータグ変異導入による感染性データを組み合わせることで、24種類の転写因子を優先的に同定し、そのうち12種類は宿主模倣条件下で誘導された。初期の機能解析により、これらの転写因子が温度、炭素、および窒素の利用可能性への適応においてそれぞれ異なる役割を担っていることが明らかになった。真菌の塩基性ヘリックス-ループ-ヘリックス転写因子であるMln1をさらに特性解析したところ、炭素源への適応と耐熱性との間に予期せぬ関連性が認められた。Mig1依存的な抑制は、グルコース存在下でMLN1の発現を制限した一方、Mln1はトレハロースまたはエタノール存在下では核内に蓄積したが、グルコース存在下では蓄積しなかった。MLN1の欠損は、炭素飢餓遺伝子の発現および非優先的な炭素源（特にトレハロース）での増殖を阻害した。対照的に、mln1 Δ細胞はより多くの細胞内トレハロースを蓄積し、耐熱性が向上したが、メラニン化、チタン細胞形成、Drosophilaにおける病原性、およびマウスにおける脳真菌負荷は低下した。以上の結果を総合すると、Mln1は代謝の柔軟性と真菌の病原性に寄与する一方で、耐熱性には異なる影響を及ぼすことが示唆される。より広範には、これらの知見は栄養利用とストレス耐性の間の潜在的な生理学的トレードオフを浮き彫りにしており、真菌病原体においてこれらの適応プロセスが相互に関連している可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.26366817",
+    "title": "Serum Vitamin D Levels do not Affect Susceptibility to EBV Infection – A Mendelian Randomization Study",
+    "abstract": "Introduction  Epstein–Barr virus (EBV) infection and low serum 25-hydroxyvitamin D (25OHD) levels are strongly associated with multiple sclerosis (MS). We investigated whether genetically proxied serum vitamin D levels are causally linked to EBV infection, assessed by serology and detectable EBV DNA, using Mendelian randomisation (MR). Methods  We conducted two-sample cis-MR using genetic instruments associated with serum 25OHD concentrations, restricted to variants near genes implicated in vitamin D metabolism. Outcomes included EBV seropositivity, antibody responses to four EBV antigens, detectable EBV DNA in blood and saliva, and MS case status as a positive control. Results  Genetically proxied vitamin D levels had no clear effect on EBV seropositivity (odds ratio per standard deviation (SD) increase in rank-based inverse-normal transformation (RINT) 25OHD: 1.76, 95% confidence interval [CI] 0.83–3.73) or antibody responses to EBV antigens. No significant associations were observed with detectable EBV DNA in blood (beta 0.02, 95% CI −0.004 to 0.04) or saliva (beta 0.02, 95% CI −0.23 to 0.26). In contrast, genetically proxied vitamin D levels were associated with reduced MS risk (odds ratio per SD increase in RINT 25OHD 0.67, 95% CI 0.54–0.84). Discussion  We found no clear evidence that genetically proxied vitamin D levels causally influence EBV serological responses or detectable EBV DNA in blood or saliva. The protective association with MS supports previous genetic evidence. These findings suggest that vitamin D and EBV may influence MS risk through distinct pathways, although effects specific to early-life vitamin D exposure remain possible.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.26366817",
+    "date": "2026-10-31",
+    "authors": "Stanley J, Davey Smith G, Hamilton F, Hamilton F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354425",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3293,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.29.26366817"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ba0502d59515991965c06c671e244d43431d9521ea2bfba152da29ec73238615",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:24:08.767252+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8f50bdefc58e3fa25be392f55b5ec810adc9f552746464b29cc108229d7d1723",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:24:08.767252+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "血清ビタミンD濃度はEBV感染感受性に影響しない ― メンデルランダム化研究",
+    "abstract_ja": "はじめに  エプスタイン・バーウイルス（EBV）感染および血清25-ヒドロキシビタミンD（25OHD）値の低下は、多発性硬化症（MS）と強く関連している。本研究では、メンデルランダム化（MR）法を用いて、血清ビタミンD値の遺伝的指標がEBV感染と因果的に関連しているかを、血清学的検査および検出可能なEBV DNAにより評価した。方法  血清25OHD濃度に関連する遺伝子解析ツールを用い、ビタミンD代謝に関与する遺伝子近傍のバリアントに限定して、2サンプルシスMRを実施した。評価項目には、EBV血清陽性、4種類のEBV抗原に対する抗体反応、血液および唾液中の検出可能なEBV DNA、ならびに陽性対照としてのMS症例ステータスを含めた。結果  遺伝的指標によるビタミンD値は、EBV血清陽性（順位に基づく逆正規変換（RINT）25OHDの標準偏差（SD）あたりのオッズ比：1.76、95%信頼区間［CI］0.83–3.73）およびEBV抗原に対する抗体反応に明確な影響を及ぼさなかった。血液（β 0.02、95% CI −0.004～0.04）および唾液（β 0.02、95% CI −0.23～0.26）における検出可能なEBV DNAとの間に有意な関連は認められなかった。対照的に、遺伝的指標によるビタミンD値はMSリスクの低下と関連していた（RINT 25OHDのSDあたりのオッズ比：0.67、95% CI 0.54–0.84）。考察  遺伝的指標によるビタミンD値が、EBV血清学的反応、あるいは血液または唾液中の検出可能なEBV DNAに因果的影響を及ぼすという明確な証拠は認められなかった。MSに対する保護的な関連は、先行する遺伝学的知見を支持するものである。これらの知見は、ビタミンDとEBVが異なる経路を通じてMSリスクに影響を及ぼしている可能性を示唆しているが、若年期のビタミンD曝露に特異的な影響が存在する可能性も残されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762797",
+    "title": "FiberBrowser: a unified framework for single-molecule genomics",
+    "abstract": "Single-molecule footprinting methods are rapidly transforming chromatin biology. They resolve nucleosome positioning, regulatory-factor occupancy, and accessibility on individual DNA fibers, revealing combinatorial heterogeneity that bulk measurements average away. Emerging footprinting methods leverage diverse enzyme systems and sequencing platforms, necessitating tools that can accommodate these systems. We present FiberBrowser, a unified platform that converts these diverse datasets into a common per-molecule representation of nucleosomes, accessible DNA, and subnucleosomal footprints for interactive and scripted analyses. Its inference engine, FiberHMM, weighs each observation against the assay’s informative sites and sequence-specific modification probabilities, separating missing information from protection in four assays. FiberBrowser clusters, sorts and compares these calls across thousands of molecules in seconds, linking chromatin architecture to haplotype, CpG methylation and non-reference structural variants on the same molecules. Because the representation is independent of chemistry, models also transfer between assays. A classifier trained on Fiber-seq footprints identifies 12 scDAF-seq cells as lymphoblastoid without retraining, whereas a model trained on raw modification patterns fails to transfer. FiberBrowser thus provides a unified, expandable analytical framework for single-molecule chromatin footprinting.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762797",
+    "date": "2026-10-31",
+    "authors": "Tullius TW, Catalano C, Ranchalis J, Hu J, Vollger MR, Stergachis AB, Levine MS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354442",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3935,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.29.762797"
+    ],
+    "translation": {
+      "title": {
+        "hash": "83b8ea9ca1679650b7fa5951af7418fac3c41b349918573c223e903d19ccd47f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:24:08.767252+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "20c497dfeb33053056934b2171b5f029280d82dbd3626967d2444a6b8f55153a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:24:08.767252+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FiberBrowser: 単一分子ゲノミクスのための統合フレームワーク",
+    "abstract_ja": "単一分子フットプリンティング法は、クロマチン生物学を急速に変容させている。これらの手法は、個々のDNAファイバーにおけるヌクレオソームの配置、調節因子の占有、およびアクセシビリティを解明し、バルク測定では平均化されて消失してしまう組み合わせ的な不均一性を明らかにする。新たなフットプリンティング法は、多様な酵素系やシーケンシングプラットフォームを活用しており、これらのシステムに対応できるツールが必要とされている。本稿では、これら多様なデータセットを、インタラクティブかつスクリプトによる解析が可能な、ヌクレオソーム、アクセシブルDNA、およびサブヌクレオソーム・フットプリントの共通の分子単位表現へと変換する統合プラットフォーム「FiberBrowser」を提案する。その推論エンジンであるFiberHMMは、各観測値をアッセイの情報量の多い部位および配列特異的な修飾確率と照らし合わせ、4種類のアッセイにおいて欠損情報と保護情報を分離する。FiberBrowserは、数千個の分子にわたるこれらのコールを数秒でクラスタリング、ソート、比較し、同一分子上のクロマチン構造をハプロタイプ、CpGメチル化、および非参照構造変異に関連付ける。この表現は化学的特性に依存しないため、モデルの転移もアッセイ間で可能である。Fiber-seqフットプリントで学習させた分類器は、再学習なしに12個のscDAF-seq細胞をリンパ芽球様細胞として識別したが、生の修飾パターンで学習させたモデルは転移できなかった。したがって、FiberBrowserは、単一分子クロマチンフットプリンティングのための、統合的かつ拡張可能な解析フレームワークを提供する。"
   }
 ]
