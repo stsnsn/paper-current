@@ -241100,5 +241100,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "土壌細菌による果実廃棄物を基質としたバイオポリエステル生産",
     "abstract_ja": "要旨    石油系プラスチックへの世界的な依存は、その非生分解性と生態系における残留性により、深刻な環境課題を引き起こしている。バイオポリエステル、特にポリヒドロキシアルカノエート（PHA）は、微生物由来であること、生体適合性、および持続可能性から、有望な生分解性代替品として注目されている。本研究では、リンゴ、オレンジ、バナナの皮といった果実廃棄物を再生可能かつ費用対効果の高い炭素基質として用い、バイオポリエステルを合成可能な土壌細菌の単離および特性解析に焦点を当てた。果実および有機廃棄物によるマルチングを通じて土壌富化を行い、バイオポリマー産生菌の増殖を促進することで、土壌環境における天然の高効率なPHA蓄積株の存在を高めた。バイオポリエステル産生菌の一次スクリーニングにはSudan Black B色素を、確認スクリーニングにはNile Blue Aを用いた。12株の分離株のうち、7株がバイオポリマー蓄積において陽性反応を示し、そのPHA産生能が確認された。E  ₂  培地を用いた定量分析により、分離株MS-5およびMS-7が最も高いポリエステル生産効率を示すことが明らかとなり、その優れた代謝能が浮き彫りとなった。続いて、果実廃棄物を唯一の炭素源として用いた発酵実験を行った結果、リンゴの皮がポリエステル収量において最も好適な基質であり、次いでオレンジおよびバナナの皮であることが示された。株MS-7は、陽性対照であるRalstonia eutropha  MTCC1285と同等の量のポリエステルを産生し、効率的なバイオポリマー産生生物としての適性がさらに裏付けられた。16S rRNAシーケンシングによる系統同定の結果、MS-7はBacillus sp  .と99.83%の配列類似性を示し、本属との遺伝的親縁性が検証されるとともに、分類学的位置付けの正確性が支持された。バイオポリエステルの抽出は、エチレンカーボネートを用いた新規の超音波アシスト法によって最適化され、従来のクロロホルム抽出と同等の収量を得つつ、毒性とコストを大幅に低減させることで、より持続可能で環境的に安全な抽出手法が実証された。フーリエ変換赤外分光法（FTIR）分析により、ポリヒドロキシブチレート（PHB）に特徴的な官能基の存在が確認され、ポリマーの同一性が検証されたが、強度のわずかな差から、抽出試料に軽微な不純物が含まれていることが示された。エチジウムブロミドを用いたプラスミド硬化実験により、分離株のバイオポリエステル合成能はプラスミド介在性ではなく染色体によってコードされていることが示され、この形質が安定的に継承されていることが明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2901.v1",
+    "title": "Why PCR Won the 120-Year Adoption Race for Mycoplasma pneumoniae Diagnostics",
+    "abstract": "Diagnosing Mycoplasma pneumoniae (MP) has followed three technological paths — seeing the organism, reading the host's antibodies, reading the pathogen's genome — and the winners were rarely the best assays. Culture was analytically supreme and never adopted; serology ruled the clinic for fifty years despite documented misclassification; PCR outperformed both by 1990 yet took a decade and a half to reach routine use. We reconstructed 120 years of MP diagnostics as a diffusion dataset, scoring each technology on Rogers' five adoption attributes against its contemporaneous competitor, and tested the scores against regulatory archives (FDA, CE-IVD, China NMPA; search concluded 30 September 2026). Every documented displacement is consistent with four empirical laws: relative advantage in time-to-result outweighed analytic accuracy; workflow compatibility decided more contests than sensitivity; displacement occurred when a successor's turnaround crossed the clinical decision window; and adoption lagged roughly a decade behind technological maturity (mean 8.5 years across the eight measurable transitions) — a severity-gated lag that relaxed measurably after the 2023 resurgence. Applying the validated rubric prospectively, we predict that CRISPR-based point-of-care testing will obtain first regulatory approvals (NMPA before FDA) by end-2027 and achieve decisive adoption in pediatric emergency settings by end-2028, conditional on extraction-free, sample-to-answer workflow, while metagenomic sequencing consolidates in severe and atypical niches without crossing into first-line use before 2030. The predictions are falsifiable and dated — the archive is offered as an evaluation instrument, not an opinion.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2901.v1",
+    "date": "2026-10-29",
+    "authors": "Shen C, Li D, Chen H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352573",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1148,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2901.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d5f59e5b9fdea2459b0c62b487218de0a9559ce33d70ae818feaa23f946a966f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:42:21.263601+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8ce65d77cbca1e6c981f38a5d5429aff383a08fca0adda370c9d7b92c009166f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:42:21.263601+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "なぜPCRがマイコプラズマ肺炎診断の120年にわたる採用競争に勝利したのか",
+    "abstract_ja": "Mycoplasma pneumoniae（MP）の診断は、微生物の観察、宿主抗体の解析、病原体ゲノムの解析という3つの技術的アプローチを経てきたが、その中で勝利を収めたのが必ずしも最良の検査法であったわけではない。培養法は分析的性能において圧倒的であったが、採用されることはなかった。血清学的検査は、誤分類が記録されていたにもかかわらず50年間にわたり臨床現場を支配した。PCRは1990年までに両者を凌駕したが、日常的に普及するまでには15年を要した。我々は120年にわたるMP診断の歴史を拡散データセットとして再構築し、各技術をロジャーズの5つの導入属性に基づき同時代の競合技術と比較してスコア化し、そのスコアを規制アーカイブ（FDA、CE-IVD、中国NMPA；検索は2026年9月30日に終了）と照合した。記録されたあらゆる代替は、4つの経験則と整合している。すなわち、結果判明までの時間における相対的優位性が分析精度を上回ったこと、ワークフローの互換性が感度よりも多くの競争を決定づけたこと、後継技術のターンアラウンドが臨床的判断のウィンドウをまたいだ際に代替が起こったこと、そして導入が技術的成熟度よりも概ね10年遅れていたこと（測定可能な8つの移行期間における平均8.5年）である。この重症度に応じたタイムラグは、2023年の再拡大後に測定可能なレベルで緩和した。検証済みの評価基準を前向きに適用すると、CRISPRベースのポイントオブケア検査は、抽出不要のサンプル・トゥ・アンサー・ワークフローを条件として、2027年末までに最初の規制承認（FDAに先立つNMPA）を得て、2028年末までに小児救急現場で決定的な導入を達成すると予測される。一方で、メタゲノムシーケンシングは、重症および非定型的なニッチ領域で定着するが、2030年より前に第一選択の治療法となることはない。これらの予測は反証可能であり、かつ時代遅れである。本アーカイブは評価ツールとして提供されるものであり、見解を示すものではない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762626",
+    "title": "Kinetochore Proteins CENP-B and LIC2 are critical for Episome Persistence and Replication of Kaposi’s Sarcoma-Associated Herpesvirus",
+    "abstract": "Kaposi’s sarcoma-associated herpesvirus (KSHV) establishes lifelong latency by maintaining its genome as circular episomes tethered to host chromatin and faithfully segregated during mitosis. This process is primarily mediated by the latency-associated nuclear antigen (LANA), which interacts with host chromosome-associated factors to ensure viral genome persistence. Several kinetochore proteins, including CENP-F, Bub1, BubR1, Aurora B, Survivin, and NuMA, have been implicated in this process, yet the broader contribution of kinetochore components remains poorly defined. We performed a systematic shRNA-based screen of the 37 host genes encoding kinetochore-associated proteins to evaluate their role in KSHV episome maintenance. We validated involvement of previously reported factors and identified Centromere Protein B (CENP-B) and Light Intermediate Chain 2 of the dynein complex (LIC2) as novel kinetochore-associated proteins critical for KSHV episome persistence. Loss of these proteins significantly reduced episome stability, highlighting previously unrecognized host-virus interactions at the chromosome segregation machinery. These findings identify critical host factors that expand the repertoire of kinetochore proteins co-opted by KSHV for episome maintenance and provide new mechanistic insights into how viral episomes exploit host chromosome segregation pathways for long-term persistence. Our work underscores kinetochore proteins as a broader class of host dependency factors in Ƴ-herpesvirus biology and suggests potential therapeutic targets for KSHV-associated malignancies.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762626",
+    "date": "2026-10-29",
+    "authors": "Singh RK, Zhang S, Bose D, Ma N, Vangala R, Chunduru K, Robertson ES.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354362",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1688,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762626"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cc17db101f9700cea41cfb650b6b8ec57cc72590c1f782db4537a2a17495fb9a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:42:21.263601+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e00eefff92af83036a59861a95d9f2076df2f13a0a006807ac9db7e4eaec0415",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:42:21.263601+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "キネトコレタンパク質CENP-BおよびLIC2は、カポジ肉腫関連ヘルペスウイルスのエピソーム持続性と複製に不可欠である。",
+    "abstract_ja": "カポジ肉腫関連ヘルペスウイルス（KSHV）は、ゲノムを宿主クロマチンに結合した環状エピソームとして維持し、有糸分裂中に忠実に分離させることで、生涯にわたる潜伏状態を確立する。このプロセスは主に潜伏関連核抗原（LANA）によって媒介されており、LANAは宿主染色体関連因子と相互作用することでウイルスゲノムの持続性を確保している。CENP-F、Bub1、BubR1、Aurora B、Survivin、NuMAを含む複数のキネトコアタンパク質がこのプロセスに関与していることが示唆されているが、キネトコア構成因子のより広範な寄与については依然として十分に解明されていない。我々は、キネトコア関連タンパク質をコードする37種類の宿主遺伝子を対象に、shRNAを用いた系統的なスクリーニングを行い、KSHVエピソーム維持におけるそれらの役割を評価した。既報の因子の関与を検証するとともに、Centromere Protein B（CENP-B）およびダイニン複合体のLight Intermediate Chain 2（LIC2）を、KSHVエピソームの持続性に不可欠な新規キネトコア関連タンパク質として同定した。これらのタンパク質の欠損はエピソームの安定性を著しく低下させ、染色体分離機構におけるこれまで認識されていなかった宿主・ウイルス間の相互作用を浮き彫りにした。これらの知見は、KSHVがエピソーム維持に利用するキネトコアタンパク質のレパートリーを拡充する重要な宿主因子を特定するものであり、ウイルスエピソームが長期的な持続性のために宿主染色体分離経路をどのように利用しているかについて、新たな機序的知見を提供するものである。本研究は、γ-ヘルペスウイルス生物学における宿主依存因子のより広範なクラスとしてキネトコアタンパク質を位置づけるとともに、KSHV関連悪性腫瘍の潜在的な治療標的を示唆するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762647",
+    "title": "Automated anaerobic cultivation and phenotyping of diverse chain-elongating bacteria",
+    "abstract": "Anaerobic bacteria perform diverse metabolic functions with considerable biotechnological potential, yet their physiology remains poorly characterized because conventional anaerobic cultivation is low throughput. Here, we developed a Platform for Automated Cultivation of Microbial Anaerobes (PACMAN) and applied it to systematically characterize the physiology of diverse chain-elongating bacteria (CEB) that produce medium-chain carboxylic acids (MCCAs). High-throughput screening across nine CEB and 20 potential electron donors revealed extensive metabolic diversity, including previously unreported conversion of glycerol to octanoate by  Pseudoramibacter alactolyticus and xylose to hexanoate by  Caproiciproducens sp. 7D4C2. Comparison with genome-derived metabolic pathways further revealed widespread discrepancies between predicted and observed substrate utilization. Across diverse CEB and electron donors, decreasing the acetate-to-electron-donor ratio consistently shifted product distributions toward longer-chain carboxylates, revealing a general principle governing chain-length specificity, although maximum attainable chain length remained strain dependent. Finally, screening CEB across increasing carboxylate concentrations revealed substantial variation in MCCA tolerance, with Gram-positive MCCA producers exhibiting greater resilience than Gram-negative and butyrate-producing bacteria. Together, these findings reveal organizing principles underlying the metabolic versatility and product specificity of CEB and establish automated anaerobic phenotyping as a scalable approach for discovering microbial functions relevant to biomanufacturing.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762647",
+    "date": "2026-10-29",
+    "authors": "Howard JP, Lawson CE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354355",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1689,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762647"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8c3cde9c5265b15e581cd1ca056e08d9a6f5cfd28271c9f66328c96786c3277e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:42:21.263601+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4896c4ecd463c6ddbeddb97d586843c5ad862fc43ebeb0610f4bb8004214d89f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:42:21.263601+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多様な連鎖伸長細菌の自動嫌気培養および表現型解析",
+    "abstract_ja": "嫌気性細菌は、バイオテクノロジー上の大きな可能性を秘めた多様な代謝機能を担っているが、従来の嫌気性培養はスループットが低いため、その生理学的特性は十分に解明されていない。本研究では、微生物嫌気性菌自動培養プラットフォーム（PACMAN）を開発し、中鎖カルボン酸（MCCA）を産生する多様な鎖伸長細菌（CEB）の生理学的特性を系統的に解析するために適用した。9種のCEBおよび20種の潜在的な電子供与体を用いたハイスループットスクリーニングにより、これまで報告されていなかったPseudoramibacter alactolyticusによるグリセロールからオクタノ酸への変換や、Caproiciproducens sp. 7D4C2によるキシロースからヘキサノ酸への変換を含む、広範な代謝多様性が明らかになった。ゲノム由来の代謝経路との比較により、予測された基質利用と観察された利用との間に広範な乖離があることがさらに判明した。多様なCEBおよび電子供与体において、酢酸から電子供与体への比率を低下させると、産物分布は一貫して長鎖カルボン酸側へとシフトし、鎖長特異性を支配する一般原理が明らかになったが、達成可能な最大鎖長は菌株に依存していた。最後に、カルボキシレート濃度を上昇させてCEBをスクリーニングしたところ、MCCA耐性に顕著なばらつきが認められ、グラム陽性のMCCA産生菌は、グラム陰性菌や酪酸産生菌よりも高い耐性を示した。以上の知見を総合すると、CEBの代謝的汎用性と産物特異性の根底にある組織化原理が明らかになり、自動嫌気性フェノタイピングが、バイオ製造に関連する微生物機能を発見するためのスケーラブルな手法として確立された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760499",
+    "title": "Structures of MyD88 and its oncogenic mutant reveal DNA binding with implications for cytosolic DNA sensing",
+    "abstract": "MyD88 is a universal adaptor that connects to Toll-like receptors and interleukin-1 receptors through its Toll/IL-1R homology (TIR) domain and activates inflammatory signaling via its death domain (DD). However, how MyD88  TIR serves as the platform for these functions and if it has additional functions remain unclear. Here, we report cryogenic electron microscopy (cryo-EM) structures of MyD88  TIR and its cancer-specific mutant L252P (previously L265P) mainly in ring and spiral forms, respectively. Both assemblies are formed by antiparallel double-filaments, using canonical TIR interfaces within each strand but unique surfaces between the strands, and position MyD88  DD at the same sides of the assemblies for self-oligomerization and pathway activation. Surprisingly, these WT or L252P filaments are bound to dsDNA using the concave sides of the rings and the spirals. In vitro assays and cellular studies establish that MyD88 directly binds dsDNA and promotes inflammatory cytokine expression, particularly pro-IL-1β, following dsDNA transfection or viral infection. Notably, these responses are unaffected by deficiency of UNC93B1, the essential chaperone required for trafficking endosomal nucleic acid-sensing TLRs. Structure-guide MyD88 mutant that disrupts dsDNA binding specifically compromises dsDNA-induced transcriptional program while maintaining TLR signaling. RNA-seq further reveals that MyD88 plays a crucial role in inducing gene expression upon dsDNA sensing and that about half of cGAS-dependent genes are also MyD88-dependent. Together, our structural, biochemical and genetic data support the findings that MyD88 directly engages with cytosolic dsDNA and cooperates with cGAS to promote the full innate immune transcriptional response.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760499",
+    "date": "2026-10-29",
+    "authors": "Fontana P, Tufan AB, Günther P, Goldberg E, Dörfler S, Vora SM, Schirokauer L, Paulo JA, Oh HS, Gygi SP, Knipe DM, Wu H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353365",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assemblies",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1725,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760499"
+    ],
+    "translation": {
+      "title": {
+        "hash": "76486e0efc03439364cd20064a3c13a951d4a6eb6f5fda3451bdf87d3f1830e4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:42:21.263601+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8d32654858d8ca64bc7448295a2fe2a2588c3f5576d03c6eaea3fbaccc5efddb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:42:21.263601+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MyD88およびその発がん性変異体の構造解析から明らかになったDNA結合と細胞質DNAセンシングへの示唆",
+    "abstract_ja": "MyD88は、Toll/IL-1R相同性（TIR）ドメインを介してToll様受容体およびインターロイキン-1受容体に結合し、デスドメイン（DD）を介して炎症性シグナル伝達を活性化するユニバーサルアダプターである。しかし、MyD88のTIRがこれらの機能の基盤としてどのように機能するのか、また追加的な機能を有するのかについては依然として不明である。本報では、MyD88のTIRおよびそのがん特異的変異体L252P（旧称L265P）の、主にリング状およびらせん状の形態におけるクライオ電子顕微鏡（cryo-EM）構造を報告する。両アセンブリは、各ストランド内で正準なTIR界面を用いつつ、ストランド間の表面は固有であり、かつ自己オリゴマー化と経路活性化のためにMyD88のDDをアセンブリの同一側に配置した、反平行な二重フィラメントによって形成されている。驚くべきことに、これらのWTまたはL252Pフィラメントは、リングおよびらせんの凹状側面を用いてdsDNAに結合する。in vitroアッセイおよび細胞研究により、MyD88がdsDNAに直接結合し、dsDNAトランスフェクションまたはウイルス感染後に炎症性サイトカイン、特にpro-IL-1βの発現を促進することが示された。特筆すべきは、これらの応答が、エンドソーム核酸感知TLRの輸送に必須のシャペロンであるUNC93B1の欠損によって影響を受けないことである。dsDNA結合を阻害する構造ガイド型MyD88変異体は、TLRシグナル伝達を維持しつつ、dsDNA誘導性の転写プログラムを特異的に損なう。RNA-seqにより、MyD88がdsDNA感知時の遺伝子発現誘導において重要な役割を果たすこと、およびcGAS依存性遺伝子の約半分がMyD88依存的であることがさらに明らかになった。以上の構造的、生化学的、および遺伝学的データを総合すると、MyD88が細胞質のdsDNAと直接相互作用し、cGASと協調して完全な自然免疫転写応答を促進するという知見が支持される。"
   }
 ]
