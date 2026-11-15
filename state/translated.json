@@ -239220,5 +239220,331 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヤノマミ族集団間の比較から明らかになった、都市の影響下における腸内細菌叢の遷移的構成",
     "abstract_ja": "都市化は腸内微生物叢の組成と機能に影響を及ぼすが、対照的なライフスタイル間の比較では、どの微生物学的特徴が都市化の進展に対して最も敏感であるかについての知見は限られている。本研究では、伝統的な生業を維持しているアマゾン先住民族ヤノマミ族の参加者から、都市化の影響度が異なる地理的に異なる3つの集団、および都市部のベルギー人コホートの腸内ショットガンメタゲノムを解析した。ベルギー人とヤノマミ族の微生物叢は、分類学的組成および機能的ポテンシャルにおいて顕著な差異を示した。最も都市化の影響を受けたヤノマミ族の集団であるビチョ・アスーと、都市化の影響が最も少ないザマコローナを比較した結果、ビチョ・アスーは概ねヤノマミ族に特有の微生物叢を示す一方で、バクテロイデス属の存在量の増加や、グリコサミノグリカン分解および二次胆汁酸生合成経路に関与する遺伝子の相対存在量の上昇など、選択的な都市関連の特徴を示すことが明らかになった。さらに、属レベルの共起ネットワークの連結性は集団間で秩序あるシフトを示し、都市化の影響が増すにつれて漸次的に低下した。糖質活性酵素プロファイルにおいても、ベルギーでは非デンプン多糖類関連のシグナルがより強く、ザマコローナでは耐性デンプン関連の特徴が認められ、それぞれ異なる糖質処理戦略の存在が示唆された。本研究の知見は、都市化が微生物の組成、生態学的相互作用、および代謝能を変容させ、これらの次元における選択的なシフトを通じて遷移的な構成が形成されるというモデルを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag801",
+    "title": "Starlng: STability Analysis of coRegulated 'Nests' of Genes.",
+    "abstract": "MotivationSingle-cell assays (both single and multi-omics) represent the state-of-the-art for detailed characterization of cell phenotypes, a task frequently initialized with the identification of groups of genes linked to well-defined, stable subpopulations of cells. Gene expression covariation patterns are simplified precursors of Gene Regulatory Networks (GRNs) and play a crucial role in inferring causality and dynamics within GRNs. However, current gene clustering methods struggle to capture spatial organization and relationship dynamics along developmental trajectories, while remaining vulnerable to noise and algorithmic stochasticity.ResultsExpanding on the ClustAssess framework, which shifted the cluster-centric assessment of populations of cells to an element-centric perspective, we propose to assess the covariation induced by gene graph clustering. The Starlng (abbrev) framework provides an optimized, interactive environment for the identification of the filtered modules. The pipeline identifies the stable configuration of clustering parameters and robust gene modules (nests of genes), followed by the removal of the outlier clusters based on the pseudotime variance. We illustrate Starlng on the identification of reliable, reproducible communities of genes, as well as reveal unbiased hierarchical relationships between higher level cell clusters and more granular subgroups of genes.Availability and implementationStarlng is implemented in R and freely available at https://github.com/Core-Bioinformatics/Starlng.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag801",
+    "date": "2026-11-01",
+    "authors": "Munteanu A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949909",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42949909",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "clustering",
+        "framework",
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "algorithm",
+          "clustering",
+          "framework",
+          "gene",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4604,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/bioinformatics/btag801"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0883a7725f1f7823b126fb8d23608328cf0ad9a146ea1871c15c6cf61822656e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:22:48.797310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4f22cd44d6290588c47b015ba44b15e76301efd72eba1704cc9e39d0fb252815",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:22:48.797310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Starlng: 遺伝子の共調節「ネスト」の安定性解析",
+    "abstract_ja": "動機シングルセルアッセイ（シングルオミクスおよびマルチオミクスの双方）は、細胞表現型の詳細な特性解析における最先端の手法であり、この解析は多くの場合、明確に定義された安定した細胞サブポピュレーションに関連する遺伝子群の同定から始まる。遺伝子発現の共変パターンは、遺伝子調節ネットワーク（GRN）の簡略化された前駆体であり、GRN内の因果関係やダイナミクスを推論する上で極めて重要な役割を果たす。しかし、現行の遺伝子クラスタリング手法は、発達軌跡に沿った空間的組織化や関係性のダイナミクスを捉えることに苦慮しており、同時にノイズやアルゴリズムの確率性の影響を受けやすい。成果細胞集団のクラスタ中心の評価を要素中心の視点へと転換したClustAssessフレームワークを拡張し、遺伝子グラフクラスタリングによって誘導される共変を評価する手法を提案する。Starlng（略称）フレームワークは、フィルタリングされたモジュールの同定のための最適化されたインタラクティブな環境を提供する。本パイプラインは、クラスタリングパラメータの安定な設定と頑健な遺伝子モジュール（遺伝子のネスト）を同定し、続いて擬似時間分散に基づいて外れ値となるクラスタを除去する。本稿では、信頼性と再現性の高い遺伝子コミュニティの同定にStarlngを適用して例示するとともに、高次細胞クラスタと、より粒度の細かい遺伝子サブグループとの間のバイアスのない階層的関係を明らかにする。利用可能性と実装StarlngはRで実装されており、https://github.com/Core-Bioinformatics/Starlng で無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bib/bbag587",
+    "title": "Biosemantic graph transfer learning for cross-patient cell type annotation and cell-cell interaction analysis in tumor single-cell RNA sequencing.",
+    "abstract": "The exploration of cellular heterogeneity within the tumor microenvironment (TME) via single-cell RNA sequencing (scRNA-seq) is essential for understanding cancer progression and response to therapy. Current scRNA-seq approaches, however, lack spatial context and rely on incomplete datasets of ligand-receptor interactions, limiting accurate cell type annotation and cell-cell communication inference. This study addresses these challenges using a novel graph neural network model that enhances cell-type prediction and cell-interaction analysis. Our study utilized a dataset consisting of 49 024 cells from 19 patients across three cancer types: leukemia, breast invasive carcinoma, and colorectal cancer. The proposed scGSL model demonstrated robust performance, achieving an average accuracy of 84.83%, precision of 86.23%, recall of 81.51%, and an F1 score of 80.92% across all datasets. These metrics represent a significant enhancement over existing methods, which typically exhibit lower performance metrics. Additionally, by reviewing existing literature on gene interactions within the TME, the scGSL model proves to robustly identify biologically meaningful gene interactions in an unsupervised manner, validated by significant expression differences in key gene pairs across various cancers. The source code and data used in this study can be found at https://github.com/LiYuechao1998/scGSL.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag587",
+    "date": "2026-11-01",
+    "authors": "Li YC, Wong L, You HR, Wang XF, Wei MM, Wang L, Huang ZA, Huang YA, You ZH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43021601",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43021601",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "annotation",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4593,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/bib/bbag587"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dbed0711362c0ac45b893de3ee2917a99a3575639843f7e5512ef010e56db4c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:22:48.797310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "366faf1e7e3f96fa8a03e45f4b362801d3ee9dc2e10feb2dc1659bedb1a6e57c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:22:48.797310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腫瘍シングルセルRNAシーケンシングにおける患者間細胞種アノテーションおよび細胞間相互作用解析のためのバイオセマンティックグラフ転移学習",
+    "abstract_ja": "シングルセルRNAシーケンシング（scRNA-seq）による腫瘍微小環境（TME）内の細胞不均一性の解析は、がんの進行および治療反応性を理解する上で不可欠である。しかし、現行のscRNA-seq手法は空間的コンテキストを欠いており、リガンド-受容体相互作用の不完全なデータセットに依存しているため、正確な細胞型アノテーションや細胞間コミュニケーションの推論が制限されている。本研究では、細胞型予測と細胞間相互作用解析を強化する新規グラフニューラルネットワークモデルを用いて、これらの課題に対処する。本研究では、白血病、浸潤性乳癌、および大腸癌の3種類のがんにわたる19名の患者から得られた49,024個の細胞からなるデータセットを利用した。提案するscGSLモデルは堅牢な性能を示し、全データセットにおいて平均正解率84.83%、適合率86.23%、再現率81.51%、およびF1スコア80.92%を達成した。これらの指標は、通常、性能指標が低い既存手法と比較して大幅な向上を示している。さらに、TME内の遺伝子相互作用に関する既存文献を検討した結果、scGSLモデルは教師なしの手法で生物学的に意義のある遺伝子相互作用を頑健に同定できることが証明され、これは様々ながんにおける主要な遺伝子ペア間の有意な発現差によって検証された。本研究で使用したソースコードおよびデータは、https://github.com/LiYuechao1998/scGSL で入手可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001893",
+    "title": "Evolutionary dynamics and differential mutation strategies of two avian pathogenic <i>Escherichia coli</i> lineages during experimental evolution.",
+    "abstract": "Experimental evolution offers a powerful framework to investigate bacterial adaptation dynamics. In this study, we performed long-term evolution experiments over an estimated 376 generations under glucose-limited conditions using 2 clinical avian pathogenic Escherichia coli (APEC) lineages with strain 729-021014-1-4 representing sequence type 95 (ST95-729-021014-1-4) and strain 729-141114-1-15 representing ST131 (ST131-729-141114-1-15). Whole-genome sequencing of isolates across eight time points revealed distinct adaptive trajectories. The ST95-729-021014-1-4 lineage exhibited a rapid adaptation strategy characterized by a relatively high mutation accumulation rate. Sequence-based analysis predicted the transcriptional upregulation of the anti-adaptor protein IraP via a promoter mutation and the translational optimization of metabolic genes via synonymous codon changes as primary drivers of its improved growth rate. Conversely, the ST131-729-141114-1-15 lineage displayed a conservative evolutionary pattern with a lower mutation rate and minor growth rate improvement, suggesting a pre-adapted state that relied on genomic maintenance rather than extensive regulatory remodelling. Its mutations were largely restricted to envelope-associated genes and synonymous variants with reduced translational efficiency. While both lineages maintained clonal stability, their differential mutation strategies highlight lineage-specific potentials for adaptation. These findings provide critical insights into how different APEC clinical isolates may persist and evolve during the typical production cycle of poultry, underscoring the diversity of evolutionary strategies.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001893",
+    "date": "2026-11-01",
+    "authors": "Zhao Y, Yang L, Liu D, Li J, Christensen H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43024386",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43024386",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4592,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1099/mgen.0.001893"
+    ],
+    "translation": {
+      "title": {
+        "hash": "53a08eab2a7234ba4156d54fe6ec6f22a2f9eca384391fdc1257c01a2b5f6aa3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:22:48.797310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9fa6c13b2a21796a92d54729957591da873e51a4911e7be395efda98e708a58f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:22:48.797310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "実験的進化における鳥類病原性<i>Escherichia coli</i> 2系統の進化動態と差異的変異戦略",
+    "abstract_ja": "実験的進化は、細菌の適応動態を調査するための強力な枠組みを提供する。本研究では、グルコース制限条件下において、推定376世代にわたる長期進化実験を、配列型95（ST95-729-021014-1-4）を表す株729-021014-1-4およびST131（ST131-729-141114-1-15）を表す株729-141114-1-15という2つの臨床鳥病原性大腸菌（APEC）系統を用いて実施した。8つの時点における分離株の全ゲノムシーケンシングにより、それぞれ異なる適応軌跡が明らかになった。ST95-729-021014-1-4系統は、比較的高い変異蓄積速度を特徴とする迅速な適応戦略を示した。配列ベースの解析により、増殖速度向上の主要因として、プロモーター変異を介した抗アダプタータンパク質IraPの転写亢進と、同義コドン置換を介した代謝遺伝子の翻訳最適化が予測された。対照的に、ST131-729-141114-1-15系統は、変異率が低く増殖速度の向上も軽微な保守的な進化パターンを示し、広範な調節リモデリングではなくゲノム維持に依存した事前適応状態であることが示唆された。その変異は主にエンベロープ関連遺伝子や、翻訳効率が低下した同義変異に限定されていた。両系統ともにクローン安定性を維持していたが、その異なる変異戦略は、系統固有の適応能を浮き彫りにしている。これらの知見は、家禽の典型的な生産サイクルにおいて、異なるAPEC臨床分離株がどのように存続し進化し得るかについて重要な洞察を与えるものであり、進化戦略の多様性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research support, non-u.s. gov't",
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1038/s41467-026-79037-z",
+    "title": "Genomic surveillance meets clinical practice: rule-based individualized treatment prediction for gonorrhoea using SensiTyper.",
+    "abstract": "Extensively drug-resistant (XDR) Neisseria gonorrhoeae strains threaten the current empirical gonorrhoea treatment. We designed and analytically validated SensiTyper, a rule-based framework that predicts antimicrobial susceptibility from whole-genome sequencing data and generates susceptibility-guided individualized treatment recommendations. SensiTyper was applied to 13,701 gonococcal genomes from 68 countries in 1928-2024, including cultured isolates and clinical molecular samples, and benchmarked predictions against previous genomic and phenotypic data. Susceptibility predictions for ceftriaxone, ciprofloxacin, spectinomycin, and zoliflodacin had 98.9-100% sensitivity and specificity. Azithromycin susceptibility predictions had 92.5% sensitivity and 97.1% specificity, and gepotidacin susceptibility prediction 100% sensitivity, but 0% specificity, illustrating that low-level phenotypic gepotidacin resistance is not caused by the only known resistance determinants (GyrA A92T plus ParC D86N). The SensiTreat module integrates antimicrobial susceptibility profiles into sequential treatment logic, providing susceptibility-guided individualized treatment recommendations while also enabling alternative stewardship strategies prioritizing, e.g., ciprofloxacin. SensiTyper flags XDR isolates for expert follow-up, test-of-cure and comprehensive contact tracing. In conclusion, SensiTyper is a robust and adaptable approach for gonococcal antimicrobial susceptibility prediction, individualized gonorrhoea treatment and antimicrobial stewardship.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79037-z",
+    "date": "2026-10-30",
+    "authors": "Golparian D, Sánchez-Busó L, Unemo M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963361",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13722691",
+    "pmid": "42963361",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "genome",
+        "genomic",
+        "prediction",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4621,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1038/s41467-026-79037-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e547704f96b758932841da1eac1bc583cf09560b0eb80d0436c7548f027010b3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:22:48.797310+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5179aad948655f6738a8d6c676e47fcbe7ef05eebc6294a66209888790a46716",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:22:48.797310+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムサーベイランスと臨床実践の融合：SensiTyperを用いた淋病のルールベースによる個別化治療予測",
+    "abstract_ja": "広範薬剤耐性（XDR）を有する淋菌株は、現在の経験的治療を脅かしている。我々は、全ゲノムシーケンシングデータから薬剤感受性を予測し、感受性に基づいた個別化治療推奨を生成するルールベースのフレームワーク「SensiTyper」を設計し、解析的に検証した。SensiTyperを、培養分離株および臨床分子サンプルを含む、1928年から2024年までの68カ国の淋菌ゲノム13,701件に適用し、過去のゲノムおよび表現型データを用いて予測のベンチマークを行った。セフトリアキソン、シプロフロキサシン、スペクチノマイシン、およびゾリフロダシンの感受性予測は、感度および特異度ともに98.9～100%であった。アジスロマイシンの感受性予測は感度92.5%、特異度97.1%であり、ゲポチダシンの感受性予測は感度100%であったが特異度は0%であった。このことは、低レベルの表現型ゲポチダシン耐性が、既知の唯一の耐性決定因子（GyrA A92TおよびParC D86N）によって引き起こされるものではないことを示している。SensiTreatモジュールは、薬剤感受性プロファイルを逐次的な治療ロジックに統合し、感受性に基づいた個別化治療推奨を提供するとともに、例えばシプロフロキサシンを優先する代替的なスチュワードシップ戦略を可能にする。SensiTyperは、XDR分離株を専門家によるフォローアップ、治療効果判定、および包括的な接触者追跡の対象としてフラグ立てする。結論として、SensiTyperは、淋菌の薬剤感受性予測、個別化治療、および薬剤スチュワードシップのための、堅牢かつ適応性の高いアプローチである。"
   }
 ]
