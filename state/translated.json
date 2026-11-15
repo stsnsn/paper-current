@@ -233245,5 +233245,345 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "FiberBrowser: 単一分子ゲノミクスのための統合フレームワーク",
     "abstract_ja": "単一分子フットプリンティング法は、クロマチン生物学を急速に変容させている。これらの手法は、個々のDNAファイバーにおけるヌクレオソームの配置、調節因子の占有、およびアクセシビリティを解明し、バルク測定では平均化されて消失してしまう組み合わせ的な不均一性を明らかにする。新たなフットプリンティング法は、多様な酵素系やシーケンシングプラットフォームを活用しており、これらのシステムに対応できるツールが必要とされている。本稿では、これら多様なデータセットを、インタラクティブかつスクリプトによる解析が可能な、ヌクレオソーム、アクセシブルDNA、およびサブヌクレオソーム・フットプリントの共通の分子単位表現へと変換する統合プラットフォーム「FiberBrowser」を提案する。その推論エンジンであるFiberHMMは、各観測値をアッセイの情報量の多い部位および配列特異的な修飾確率と照らし合わせ、4種類のアッセイにおいて欠損情報と保護情報を分離する。FiberBrowserは、数千個の分子にわたるこれらのコールを数秒でクラスタリング、ソート、比較し、同一分子上のクロマチン構造をハプロタイプ、CpGメチル化、および非参照構造変異に関連付ける。この表現は化学的特性に依存しないため、モデルの転移もアッセイ間で可能である。Fiber-seqフットプリントで学習させた分類器は、再学習なしに12個のscDAF-seq細胞をリンパ芽球様細胞として識別したが、生の修飾パターンで学習させたモデルは転移できなかった。したがって、FiberBrowserは、単一分子クロマチンフットプリンティングのための、統合的かつ拡張可能な解析フレームワークを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762211",
+    "title": "A portable C-terminal rheostat calibrates RecE/Redα exonuclease activity for enhanced bacterial recombineering",
+    "abstract": "Recombineering enables precise genome engineering across diverse bacteria, yet efficient tools for large DNA integration remain underdeveloped for Streptomyces and other biotechnologically relevant bacteria. Here we identify a panel of highly active RecET recombinase pairs from actinobacteriophages that mediate efficient homologous recombination in Streptomyces. The lead candidate, Che9cRecET, supports genomic integration of kilobase-scale DNA with only 50bp homology arms and enables accurate insertion of 79kb biosynthetic gene clusters, far outperforming conventional genome editing approaches. Structural and biochemical analyses reveal Che9cRecE as a distinct C3-symmetric toroidal homotrimeric 5′-3′ exonuclease, whose extended C-terminal loop acts as a tunable rheostat calibrating exonuclease activity to an optimal window for recombination. We further show this portable C-terminal loop enhances recombineering efficiency across phylogenetically diverse exonucleases including Escherichia coli Redα/RecE and Pseudomonas A. Our work uncovers a conserved regulatory mechanism of the RecE/Redα exonuclease family and delivers a generalizable strategy for advancing bacterial genome editing.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762211",
+    "date": "2026-10-30",
+    "authors": "Luan J, Jiang C, Guo R, Wang C, Wang S, Stewart AF, Fu J, Zhang Y, Wang H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354289",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Pseudomonas",
+        "Streptomyces",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 46,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762211"
+    ],
+    "translation": {
+      "title": {
+        "hash": "89d4dc86678d794cd43373d147241c52d42c0888a12654209db09db93830b86e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:26:41.368174+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3d8e2d1c63514459cb412145603df832106d1a906e91e54d9661497c53c1fd8f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:26:41.368174+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "携帯型C末端レオスタットは、細菌の組換え強化に向けたRecE/Redαエキソヌクレアーゼ活性の校正を行う。",
+    "abstract_ja": "リコンビーナリングは、多様な細菌において精密なゲノム工学を可能にするが、ストレプトマイセス属やその他のバイオテクノロジー的に重要な細菌における大規模なDNA組み込みのための効率的なツールは依然として未開発である。本研究では、ストレプトマイセス属において効率的な相同組換えを媒介する、放線菌ファージ由来の極めて活性の高いRecETリコンビナーゼペア群を同定した。リード候補であるChe9cRecETは、わずか50bpの相同アームでキロベース規模のDNAのゲノム組み込みをサポートし、79kbの生合成遺伝子クラスターの正確な挿入を可能にし、従来のゲノム編集手法を遥かに凌駕する。構造解析および生化学的解析により、Che9cRecEは明確なC3対称性を有するトロイダル型ホモ三量体5′-3′エキソヌクレアーゼであり、その伸長したC末端ループが、組換えに最適なウィンドウへとエキソヌクレアーゼ活性を調整する可変式レオスタットとして機能することが明らかになった。さらに、この可搬型C末端ループが、Escherichia coli Redα/RecEやPseudomonas Aを含む系統的に多様なエキソヌクレアーゼにおいて、リコンビーナリング効率を向上させることを示す。本研究は、RecE/Redαエキソヌクレアーゼファミリーの保存された調節機構を明らかにし、細菌ゲノム編集を進展させるための汎用的な戦略を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762622",
+    "title": "Abundance-weighted analysis and deep functional metagenomic selection reveals unrecognized diversity of soil-derived streptothricin acetyltransferases",
+    "abstract": "ABSTRACT  Streptothricins (STCs) are broad-spectrum antibiotics under investigation for their therapeutic potential against antibiotic-resistant Gram-negative pathogens. However, the extent and diversity of genes that confer resistance to STCs, or their environmental resistome, remains largely unknown and is essentially limited to a handful of STC acetyltransferases. Here, we used a deep functional metagenomic approach to uncover previously unrecognized STC resistance determinants. A functional metagenomic library containing  ca. 700 Gigabases of soil metagenomic DNA was selected for resistance to nourseothricin (NTC), a mixture of STC congeners, resulting in collection and sequencing of nearly 30,000 resistant clones. An abundance-weighted sequence analysis identified 265 acetyltransferase-like candidates spanning broad phylogenetic, taxonomic, and genomic diversity. Re-cloning and experimental testing of 18 candidates chosen to cover acetyltransferase sequence space confirmed that 10 conferred significant NTC resistance in  Escherichia coli . Phylogenetic analyses identified three previously uncharacterized STC acetyltransferase lineages, designated as SatC, SatD, and SatE. Despite substantial sequence divergence from characterized streptothricin acetyltransferases (maximum amino acid identities of approximately 31% for SatC and SatD and up to 47.5% for SatE), these enzymes largely retained key residues associated with streptothricin binding and catalysis. In addition to strongly increasing NTC resistance, expression of the SatC construct in  E. coli also significantly decreased susceptibility to the aminoglycoside antibiotics amikacin and kanamycin. Together, these findings reveal a substantially broader than previously known environmental repertoire of STC acetyltransferases and demonstrate how deep functional metagenomic selections, combined with abundance-weighted hit calling, phylogenetic analysis, and structural prediction, can uncover novel resistance functions.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762622",
+    "date": "2026-10-30",
+    "authors": "Yang L, Crofts TS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354268",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 105,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762622"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6f2fad0ed8445e2c1209f5857270fb544ddbcf0dcd05636326afd636dcda2f53",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:26:41.368174+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "67bc0564b508f15c8bd68b27eb2b530d7e9fb91b8e40b2ffa1914fed755d91e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:26:41.368174+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "存在量加重解析と深層機能メタゲノム選抜により明らかになった土壌由来ストレプトトリシンアセチルトランスフェラーゼの未認識の多様性",
+    "abstract_ja": "要旨　ストレプトトリシン（STCs）は、抗生物質耐性グラム陰性病原体に対する治療的可能性について研究が進められている広域抗生物質である。しかし、STCsへの耐性を付与する遺伝子の範囲と多様性、あるいはその環境レジストームについては、依然として大部分が不明であり、実質的に少数のSTCアセチルトランスフェラーゼに限定されている。本研究では、深層機能的メタゲノムアプローチを用いて、これまで認識されていなかったSTC耐性決定因子を明らかにした。STC近縁種の混合物であるノウルセトリッシン（NTC）への耐性を有する、約700ギガベースの土壌メタゲノムDNAを含む機能的メタゲノムライブラリを選定し、その結果、30,000株近い耐性クローンの収集およびシーケンシングを行った。存在量重み付け配列解析により、広範な系統学的、分類学的、およびゲノム的多様性にわたる265種類のアセチルトランスフェラーゼ様候補が同定された。アセチルトランスフェラーゼの配列空間を網羅するように選定した18種類の候補について再クローニングおよび実験的検証を行った結果、そのうち10種類がEscherichia coliにおいて有意なNTC耐性を付与することが確認された。系統解析により、これまで特性解析されていなかった3つのSTCアセチルトランスフェラーゼ系統が同定され、SatC、SatD、およびSatEと命名された。特性解析済みのストレプトトリシンアセチルトランスフェラーゼとは大幅な配列分岐が見られたものの（最大アミノ酸同一性はSatCおよびSatDで約31％、SatEで最大47.5％）、これらの酵素はストレプトトリシンの結合および触媒作用に関連する主要な残基を概ね保持していた。E. coliにおけるSatCコンストラクトの発現は、NTC耐性を著しく高めるだけでなく、アミノグリコシド系抗生物質であるアミカシンおよびカナマイシンに対する感受性を有意に低下させた。以上の知見は、従来知られていたよりも大幅に広範なSTCアセチルトランスフェラーゼの環境レパートリーを明らかにするとともに、深層機能的メタゲノムセレクションを、存在量重み付けヒットコーリング、系統解析、および構造予測と組み合わせることで、いかにして新規の耐性機能を解明できるかを示すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762636",
+    "title": "A bacterial chaperone–usher pathway links interkingdom association to antimicrobial protection of a fungal partner",
+    "abstract": "ABSTRACT  Antimicrobial compounds (AMCs) influence species-level composition of microbial communities, governing beneficial and pathogenic interactions with plant and mammalian hosts. Phenazine-1- carboxylic acid (PCA) is a bacterially produced, redox-active AMC abundant in the rhizosphere. A recent study discovered the PCA-susceptible fungus  Aspergillus calidoustus can grow in PCA- abundant environments by associating with phenazine-tolerant bacteria, including the novel species  Paraburkholderia edwinii .  P. edwinii’s protection response is characterized by adherence to its fungal partner, bacterial aggregation, and sequestration and reduction of PCA, rendering PCA less toxic. Deletion of the bacterial transcriptional repressor HrcA generates a constitutively active protection response and enhanced protection of  A. calidoustus . Here, we use the Δ  hrcA strain to determine whether fungal protection uses bacterial self-protection machinery or dedicated interkingdom mechanisms. We identified a divergent archaic chaperone–usher pathway (CUP) operon encoding a predicted periplasmic chaperone, outer membrane usher, putative major pilin-like subunit, and putative adhesin-like tip protein. While many archaic CUP operons are annotated in diverse bacteria, their functions remain largely unexplored. We show these  f ungal  a ttachment  c omplex (  fac ) genes promote bacterial-fungal attachment, are required for  P. edwinii to sequester and detoxify PCA, and contribute to full fungal protection from PCA stress, despite not being required for  P. edwinii ’s own tolerance of PCA. We further identified the transcription regulator, FacR, that influences expression of the  fac system. Understanding the functions of divergent archaic CUP systems may illuminate protective interkingdom partnerships and inform how pathogenic and beneficial microbes gain entry to AMC-replete environments, shaping microbial communities in agricultural and clinical contexts.  IMPORTANCE  Some species of fungi can be opportunistic pathogens, while others promote rhizosphere stability. Antimicrobial compounds help govern the composition of microbial communities by excluding susceptible organisms and selecting for microbes with intrinsic resistance. However, susceptible fungi can gain entry into microbial communities containing antagonist compounds by partnering with protective bacteria, and it is unknown whether bacteria are extending the mechanisms of self-tolerance to fungal partners, or if there is dedicated machinery for interkingdom protection. Here, we show that  Paraburkholderia edwinii uses a divergent chaperone–usher system to associate with its fungal partner,  Aspergillus calidoustus , and protect it from phenazine stress. This system promotes fungal attachment, antimicrobial sequestration, and maintenance of a reducing environment, yet is dispensable for the bacterium’s own survival. These findings demonstrate that bacteria can deploy dedicated machinery to protect partners across kingdoms, revealing that antimicrobial tolerance can emerge from microbial interactions rather than intrinsic resistance alone.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762636",
+    "date": "2026-10-30",
+    "authors": "Gonzalez A, Dahlstrom K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354495",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "fungal",
+        "fungi",
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 170,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762636"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e6ece6efcec4e4f4c173dc51e84755918a0884c17fd5d98c54baaa5fae97e457",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:26:41.368174+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a9c9e4e23d6329781562dce416f3076dfa8e5b36a18b59ed3fce64dd5a607c1c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:26:41.368174+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌のシャペロン–アッシャー経路が、界間連関と真菌パートナーの抗菌保護を結びつける。",
+    "abstract_ja": "要旨　抗菌化合物（AMCs）は微生物群集の種レベルの組成に影響を与え、植物や哺乳類の宿主との有益な相互作用および病原性相互作用を制御している。フェナジン-1-カルボン酸（PCA）は、根圏に豊富に存在する細菌産生の酸化還元活性を持つAMCである。最近の研究により、PCA感受性真菌であるAspergillus calidoustusが、新規種Paraburkholderia edwiniiを含むフェナジン耐性細菌と共生することで、PCAが豊富な環境で生育できることが明らかになった。P. edwiniiの防御応答は、真菌パートナーへの付着、細菌の凝集、およびPCAの隔離・還元を特徴としており、これによりPCAの毒性が軽減される。細菌の転写抑制因子HrcAを欠損させると、恒常的に活性な防御応答が誘導され、A. calidoustusの防御能が向上する。本研究では、Δ hrcA株を用いて、真菌の防御に細菌の自己防御機構が利用されているのか、あるいは専用の界間機構が用いられているのかを検証した。我々は、予測されるペリプラズムシャペロン、外膜ウッシャー、推定される主要ピリン様サブユニット、および推定されるアドヘシン様先端タンパク質をコードする、分岐型古細菌シャペロン-ウッシャー経路（CUP）オペロンを同定した。多くの古細菌CUPオペロンは多様な細菌でアノテーションされているが、その機能の大部分は未解明のままである。我々は、これらの真菌付着複合体（fac）遺伝子が細菌と真菌の付着を促進し、P. edwiniiによるPCAの隔離および解毒に必要であり、さらにP. edwinii自身のPCA耐性には不要であるにもかかわらず、PCAストレスに対する完全な真菌防御に寄与していることを示した。さらに、facシステムの発現に影響を与える転写調節因子FacRを同定した。分岐型古細菌CUPシステムの機能を理解することは、防御的な界間パートナーシップを解明し、病原性および有益性微生物がAMCが豊富な環境にどのように侵入し、農業および臨床の文脈において微生物群集を形成するかを明らかにする手がかりとなる可能性がある。重要性　一部の真菌種は日和見病原体となり得る一方で、根圏の安定性を促進するものもある。抗菌化合物は、感受性生物を排除し、固有の耐性を持つ微生物を選択することで、微生物群集の組成を制御する役割を果たす。しかし、感受性真菌は防御細菌と共生することで、拮抗化合物を含む微生物群集に侵入することができ、細菌が自己耐性機構を真菌パートナーにまで拡張しているのか、あるいは界間防御のための専用機構が存在するのかは不明である。本研究では、Paraburkholderia edwiniiが分岐型シャペロン-ウッシャーシステムを用いて真菌パートナーであるAspergillus calidoustusと共生し、フェナジンストレスから同菌を保護していることを示した。このシステムは、真菌の付着、抗菌的な隔離、および還元環境の維持を促進するが、細菌自身の生存には必須ではない。これらの知見は、細菌が界を越えてパートナーを保護するための専用機構を展開できることを示しており、抗菌耐性が固有の耐性のみではなく、微生物間の相互作用から生じ得ることを明らかにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.26366443",
+    "title": "Design and evaluation of probe-capture sequencing for clinical  Neisseria gonorrhoeae  specimens",
+    "abstract": "ABSTRACT  Characterizing the molecular epidemiology of  Neisseria gonorrhoeae is essential for understanding disease burden, elucidating transmission dynamics, and informing clinical decision-making and public health interventions. Given that routine, culture-independent diagnostics rapidly and sensitively detect this difficult-to-cultivate pathogen, aligning genomic surveillance with these workflows is necessary to understand its epidemiology and evolutionary dynamics. To address this challenge, we investigated the utility of probe-capture sequencing to selectively enrich for pathogen-specific DNA during next-generation sequencing. Custom biotinylated oligonucleotide baits were designed using genetic information from publicly available genomes hosted on Pathogenwatch. Of the 32,574 assemblies, 2,877 representative genomes were selected to inform probe generation using core genome amino acid distance clustering and representation of unique resistance-associated genotypes and predicted resistance phenotypes. The resulting probe set provided generous coverage of the reference genome,  N. gonorrhoeae FA 1090, with 94.6% nucleotide coverage and 99.3% of annotated genes covered by at least one probe. Piloting this technology on 12 clinical urine specimens with variable relative pathogen abundances revealed that probe-capture sequencing substantially increased the relative abundance of  N. gonorrhoeae sequence reads from a complex sample (fold-change range, 226 - 2046), enabling considerable genome coverage, the construction of high-quality genome assemblies, and the detection of resistance-associated genotypes. These findings demonstrate that probe-capture sequencing is a viable method for enriching  N. gonorrhoeae genetic material from clinical samples, enabling culture-independent genomic investigations into the epidemiology of hard-to-culture pathogens and providing actionable insights to inform clinical and public health interventions.  IMPORTANCE  Understanding the molecular epidemiology of bacterial pathogens can illuminate population diversity, transmission dynamics, and genotypes associated with bacterial traits and clinical outcomes. Difficulties in cultivation hinder our ability to understand the epidemiology of  Neisseria gonorrhoeae . Aligning genomic surveillance methodologies with existing clinical diagnostic modalities is essential to guiding the implementation of innovative genomic surveillance. In this paper, we used representative public genome assemblies to design custom biotinylated oligonucleotide baits to successfully increase pathogen-specific DNA yield from complex clinical urine specimens during next-generation sequencing. Probe-capture sequencing markedly improved detection of pathogen-specific genetic material from clinical specimens, enabling construction of high-quality genome assemblies and detection of resistance-associated genotypes. Collectively, we demonstrate that probe-capture sequencing is a viable method for sequencing hard-to-culture pathogens from clinical specimens, highlighting how this technology could strengthen genomic investigations into the epidemiology of these pathogens and provide actionable insights to inform clinical decision-making and public health interventions.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.26366443",
+    "date": "2026-10-30",
+    "authors": "Singh A, Gontjes KJ, Badri Narayanan D, Won PM, Brunelle BW, Green SJ, Popovich KJ, Snitkin ES.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354214",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 283,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.26366443"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bc46cbb9d45dba7375fed665f21a74638b03a16cadedfe69a22e73fd6c77146c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:26:41.368174+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bc7cd8065c1b5f7820cfa8347eacc63bf9a820c02e57e670552fb78ec2e2d708",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:26:41.368174+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "臨床用淋菌検体におけるプローブ捕捉シーケンシングの設計と評価",
+    "abstract_ja": "要旨  Neisseria gonorrhoeaeの分子疫学を特性評価することは、疾患負荷の把握、伝播動態の解明、ならびに臨床的意思決定および公衆衛生上の介入への情報提供において不可欠である。培養が困難な本病原体を、ルーチンの培養非依存的診断法によって迅速かつ高感度に検出できる現状を踏まえると、その疫学および進化動態を理解するためには、ゲノムサーベイランスをこれらのワークフローと整合させることが必要である。この課題に対処するため、我々は次世代シーケンシングにおいて病原体特異的DNAを選択的に濃縮するためのプローブキャプチャシーケンシングの有用性を検討した。Pathogenwatchで公開されているゲノムの遺伝情報を用いて、カスタムビオチン化オリゴヌクレオチドベイトを設計した。32,574個のアセンブリの中から、コアゲノムアミノ酸距離クラスタリング、および固有の耐性関連遺伝子型と予測耐性表現型の表現を用いて、プローブ生成に供する2,877個の代表的なゲノムを選定した。得られたプローブセットは、参照ゲノムであるN. gonorrhoeae FA 1090を十分にカバーしており、ヌクレオチドカバレッジは94.6%、アノテーション済み遺伝子の99.3%が少なくとも1つのプローブによってカバーされていた。相対的な病原体存在量が異なる12検体の臨床尿検体を用いて本技術をパイロット運用した結果、プローブキャプチャシーケンシングにより、複雑な検体からのN. gonorrhoeae配列リードの相対存在量が大幅に増加し（フォールドチェンジ範囲：226～2046）、広範なゲノムカバレッジの実現、高品質なゲノムアセンブリの構築、および耐性関連遺伝子型の検出が可能となった。これらの知見は、プローブキャプチャシーケンシングが臨床検体からN. gonorrhoeaeの遺伝物質を濃縮するための有効な手法であり、培養困難な病原体の疫学に関する培養非依存的なゲノム解析を可能にし、臨床および公衆衛生上の介入に資する実用的な知見を提供することを実証している。  重要性  細菌性病原体の分子疫学を理解することは、集団の多様性、伝播動態、および細菌の形質や臨床転帰に関連する遺伝子型を明らかにすることにつながる。培養の困難さが、Neisseria gonorrhoeaeの疫学を理解する上での妨げとなっている。ゲノムサーベイランスの手法を既存の臨床診断法と整合させることは、革新的なゲノムサーベイランスの実施を導く上で不可欠である。本論文では、代表的な公開ゲノムアセンブリを用いてカスタムビオチン化オリゴヌクレオチドベイトを設計し、次世代シーケンシングにおける複雑な臨床尿検体からの病原体特異的DNA収量の増加に成功した。プローブキャプチャシーケンシングは、臨床検体からの病原体特異的遺伝物質の検出を著しく改善し、高品質なゲノムアセンブリの構築および耐性関連遺伝子型の検出を可能にした。総じて、我々はプローブキャプチャシーケンシングが臨床検体から培養困難な病原体をシーケンシングするための有効な手法であることを実証し、本技術がこれらの病原体の疫学に関するゲノム解析を強化し、臨床的意思決定および公衆衛生上の介入に資する実用的な知見を提供し得ることを明らかにした。"
   }
 ]
