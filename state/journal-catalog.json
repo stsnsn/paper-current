@@ -16,6 +16,20 @@
     ]
   },
   {
+    "name": "Accounts of chemical research",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "ACS applied bio materials",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "ACS applied materials & interfaces",
     "scope": [
       "ecology",
@@ -1414,6 +1428,13 @@
     ]
   },
   {
+    "name": "Cancer research",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Cancers",
     "scope": [
       "genomics",
@@ -2696,6 +2717,13 @@
     ]
   },
   {
+    "name": "European heart journal. Quality of care & clinical outcomes",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
     "scope": [
       "genomics",
@@ -3379,6 +3407,13 @@
     ]
   },
   {
+    "name": "Health science reports",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Hearing research",
     "scope": [
       "genomics",
@@ -3443,6 +3478,27 @@
   },
   {
     "name": "IEEE transactions on image processing : a publication of the IEEE Signal Processing Society",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "IEEE transactions on medical imaging",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "IEEE transactions on neural networks and learning systems",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "IEEE transactions on pattern analysis and machine intelligence",
     "scope": [
       "genomics",
       "microbiology"
@@ -3706,6 +3762,13 @@
   },
   {
     "name": "International journal of chronic obstructive pulmonary disease",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "International journal of computer assisted radiology and surgery",
     "scope": [
       "genomics",
       "microbiology"
@@ -4131,6 +4194,13 @@
   },
   {
     "name": "Journal of applied genetics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "The journal of applied laboratory medicine",
     "scope": [
       "genomics",
       "microbiology"
@@ -6367,6 +6437,13 @@
     ]
   },
   {
+    "name": "Neuro-oncology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Neuropeptides",
     "scope": [
       "genomics",
@@ -7181,6 +7258,13 @@
   },
   {
     "name": "Proteomics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Proteomics. Clinical applications",
     "scope": [
       "genomics",
       "microbiology"
