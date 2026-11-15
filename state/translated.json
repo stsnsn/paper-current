@@ -255557,5 +255557,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "マウス脳における遺伝的背景間の転写差異の空間的単一細胞マッピング",
     "abstract_ja": "遺伝的変異は臓器の構造や機能を変化させ得る。遺伝的背景にわたる臓器の比較統計解析には、反復解析における空間的、単一細胞レベルのアトラススケールデータが必要である。本研究では、単一細胞RNAシーケンシングデータから転写シグネチャーを学習し、数万個のオリゴヌクレオチドプローブを用いてそれらをin situで符号化し、さらにそれらを解読することで細胞種やインピュテーション済みトランスクリプトームを推定するスケーラブルな組織マッピング手法である、アグリゲートシグネチャーを用いたアトラススケールのトランスクリプトーム局在解析（ATLAS）を提案する。我々は、マーカー遺伝子の直接的なMERFISH測定および他の4つの技術との定量的比較を通じて、ATLASの妥当性を検証した。5匹の雄および5匹の雌のC57BL/6Jマウス、ならびに特発性自閉症モデルである5匹の雄のBTBR T+tf/Jマウスの中枢脳から、400以上の冠状断切片にわたる4,000万個の細胞をプロファイリングした。解析の結果、細胞種分布に40以上の有意な差異が認められ、雌雄間およびB6-BTBR間の比較において16箇所の領域構成の変化が同定された。したがって、ATLASは系統的な比較研究を可能にし、疾患モデルの臓器レベルにおける構造・機能解析を促進する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1111",
+    "title": "EVLncRNAs 4.0: an updated database of experimentally validated functional long non-coding RNAs with evidence-grounded AI access.",
+    "abstract": "Long non-coding RNAs (lncRNAs) have diverse biological functions, but experimentally validated evidence remains scattered across the literature and is often context dependent. EVLncRNAs 4.0 (https://www.sdklab-biophysics-dzu.net/EVLncRNAs4/) updates our manually curated database of functional lncRNAs supported by low-throughput experiments. For this release, 16 581 publications indexed between 15 May 2023 and 15 May 2026 were retrieved and manually screened. Compared with EVLncRNAs 3.0, EVLncRNAs 4.0 contains 7808 functional lncRNAs (+26%) from 199 species (+23%), 2313 diseases (+34%), 28 757 curated functional records (+21%), and 18 380 molecular interactions (+25%). EVLncRNAs 4.0 also introduces two AI-assisted functions built on the curated evidence base. AI Search uses an enhanced retrieval-augmented generation framework with adaptive selection across Quick, Expanded, and Exhaustive retrieval modes and generates answers from retrieved EVLncRNAs records with PMID-linked citations. Benchmark evaluation showed complete request execution, high retrieval coverage and full citation validity within the supplied evidence context. Functional Overview retrieves and aggregates lncRNA- and species-specific curated records before generating concise evidence-based summaries. In both functions, language models synthesize retrieved evidence rather than serve as independent sources of biological knowledge. EVLncRNAs 4.0 therefore provides an expanded, experimentally grounded resource for accessing and interpreting functional lncRNA evidence across species and biological contexts.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1111",
+    "date": "2026-10-31",
+    "authors": "Zhou B, Ji B, Li Z, Li Z, Liu C, Zhang X, Yu X, Huang P, Kong L, Yang S, Zeng Q, Dou X, Cao Z, Xu S, Zhao H, Yang Y, Zhou Y, Wang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963949",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963949",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "database"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "database"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4775,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/nar/gkag1111"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7a98374d0e6f80e49a4e5f4ed8dabd5b60c2bc28ef6ab5f3132b30a63d9c8e0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:24:18.753190+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b277572a743e76c7db21baabe3d3e3fb49cd171db405bc819c5f0ef805abc1c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:24:18.753190+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "EVLncRNAs 4.0：実験的に検証された機能的長鎖非コードRNAの更新版データベースであり、エビデンスに基づいたAIアクセスを提供する。",
+    "abstract_ja": "長鎖非コードRNA（lncRNA）は多様な生物学的機能を有するが、実験的に検証されたエビデンスは文献全体に散在しており、多くの場合、文脈に依存している。EVLncRNAs 4.0（https://www.sdklab-biophysics-dzu.net/EVLncRNAs4/）は、低スループット実験によって裏付けられた、手作業でキュレーションされた機能性lncRNAデータベースを更新したものである。本リリースでは、2023年5月15日から2026年5月15日の間に索引付けされた16,581件の論文を検索し、手作業でスクリーニングした。EVLncRNAs 3.0と比較して、EVLncRNAs 4.0には、199種（+23%）、2,313疾患（+34%）、28,757件のキュレーション済み機能性レコード（+21%）、および18,380件の分子間相互作用（+25%）からなる7,808件の機能性lncRNA（+26%）が含まれている。また、EVLncRNAs 4.0では、キュレーション済みのエビデンスベースに基づいて構築された2つのAI支援機能が導入されている。AI Searchは、Quick、Expanded、およびExhaustiveの各検索モードにわたる適応的選択を備えた、強化された検索拡張生成フレームワークを使用し、検索されたEVLncRNAレコードからPMIDリンク付きの引用情報を伴う回答を生成する。ベンチマーク評価の結果、提供されたエビデンスコンテキスト内において、リクエストの完全な実行、高い検索カバレッジ、および完全な引用の妥当性が確認された。Functional Overviewは、lncRNAおよび種特異的なキュレーション済みレコードを検索・集約し、エビデンスに基づいた簡潔な要約を生成する。両機能において、言語モデルは独立した生物学的知識の情報源として機能するのではなく、検索されたエビデンスを統合して生成する。したがって、EVLncRNAs 4.0は、種や生物学的コンテキストを横断して機能性lncRNAのエビデンスにアクセスし解釈するための、拡張された実験的根拠に基づくリソースを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pgen.1012366",
+    "title": "Adjusting for medication status in genome-wide association studies.",
+    "abstract": "When conducting genome-wide association studies, addressing medication status that is relevant to the trait of interest can prevent biases that could distort estimates of the true genetic effect. Here, we introduce the genetic empirical medication reduction adjustment (GEMRA) method which uses a heuristic search for an empirical adjustment to be applied to phenotypic values of participants reporting medication use. Through simulations we show that the direct genetic effect estimates in the GEMRA approach exhibited less bias and greater statistical power than common strategies such as including medication as a covariate, restricting the sample to unmedicated users or including all samples without adjustment. We then applied the GEMRA approach to estimate statin medication adjustment for analysis of low-density lipoprotein (LDL) cholesterol levels and antihypertensive medication adjustment for analyses of systolic (SBP) and diastolic (DBP) blood pressure using multi-population data from UK Biobank and the Uganda Genome Resource. We found that a relative rather than an absolute adjustment better modelled the effect of medication on LDL cholesterol, SBP and DBP, with an effect of 40%, 10% and 10% reduction appearing to be consistent across populations, respectively. We also show that spurious differences in medication effects across populations can arise when the effect scale is misspecified.",
+    "journal": "PLOS Genetics",
+    "doi": "10.1371/journal.pgen.1012366",
+    "date": "2026-11-02",
+    "authors": "Chong AHW, Kintu C, Cho Y, Fatumo S, Torres J, Davey Smith G, Gaunt TR, Hemani G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42970596",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13743034",
+    "pmid": "42970596",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4740,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1371/journal.pgen.1012366"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b1026b9e428242cae10dfe554d56ae8647bbea9fa07d1640da2593e1d972b115",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:24:18.753190+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c1c645727050cb5ab192c332f6b867d5c4f6bfd9ee62904c63714d514836f301",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:24:18.753190+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムワイド関連解析における薬剤投与状況の調整。",
+    "abstract_ja": "ゲノムワイド関連解析を実施する際、関心のある形質に関連する服薬状況を考慮することで、真の遺伝的効果の推定値を歪めかねないバイアスを防ぐことができる。本研究では、服薬状況を報告した参加者の表現型値に適用する経験的調整をヒューリスティックに探索する、遺伝的経験的服薬低減調整（GEMRA）法を提案する。シミュレーションを通じて、GEMRAアプローチによる直接的な遺伝的効果の推定値は、服薬を共変量として含める手法、サンプルを非服薬者に限定する手法、あるいは調整なしに全サンプルを含める手法といった一般的な戦略よりも、バイアスが少なく統計的検出力が高いことを示した。次に、UKバイオバンクおよびウガンダ・ゲノムリソースのマルチポピュレーションデータを用い、低密度リポタンパク質（LDL）コレステロール値の解析におけるスタチン服薬調整、および収縮期（SBP）および拡張期（DBP）血圧の解析における降圧薬服薬調整の推定にGEMRAアプローチを適用した。その結果、絶対的な調整よりも相対的な調整の方が、LDLコレステロール、SBP、およびDBPに対する服薬の影響をより適切にモデル化でき、40%、10%、および10%の低減効果がそれぞれの集団において一貫して認められたことがわかった。また、効果尺度が誤って指定されている場合、集団間で服薬効果に擬似的な差異が生じる可能性があることも示した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1098",
+    "title": "PROTAC-DB 4.0: an expanded knowledgebase of targeted protein degradation modalities with AI-powered knowledge discovery.",
+    "abstract": "Proteolysis-targeting chimeras (PROTACs) represent an emerging therapeutic modality that harnesses the ubiquitin-proteasome system to induce targeted protein degradation (TPD). Their event-driven and catalytic mechanisms provide new opportunities to target previously undruggable proteins. However, the rapid expansion of TPD technologies, including molecular glues (MGs) and X-functional targeting chimeras (XTACs), together with the increasing application of artificial intelligence (AI) in degrader design, highlights the need for comprehensive and continuously updated data resources. Here, we present PROTAC-DB 4.0, an expanded knowledgebase covering major targeted degradation and induced-proximity technologies. Compared with the previous version, PROTAC-DB 4.0 contains 15 502 PROTAC entries, together with 24 798 MG entries and 272 XTAC entries, with expanded experimental annotations, patent-derived compounds, and modality-specific data fields. A major advancement in PROTAC-DB 4.0 is the integration of a large language model and retrieval-augmented generation-based natural language query system, which connects structured database records with scientific literature to enable intuitive knowledge discovery across PROTACs, MGs, and XTACs. By combining comprehensive data curation with AI-assisted information retrieval, PROTAC-DB 4.0 provides an accessible platform to support degrader discovery, data-driven modeling, and rational design of next-generation targeted degradation and induced-proximity therapeutics. PROTAC-DB 4.0 is freely accessible at http://cadd.zju.edu.cn/protacdb/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1098",
+    "date": "2026-10-31",
+    "authors": "Ge J, Yin C, Li Y, Li S, Xu K, Tang R, Weng G, Luo H, Tang L, Qian Y, Gu S, Hsieh CY, Wu J, Li D, Sun H, Hou T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963943",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963943",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "knowledgebase",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4776,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/nar/gkag1098"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cd7a2ada6fdb96c07a379279d05164adbfeeeed1e3ba25db88b148e3209f9ef8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:24:18.753190+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c619743c3cb202d7a4d2aca3b91fe4492c1dbe402a4849bfe8833b1311088763",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:24:18.753190+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PROTAC-DB 4.0：AIを活用した知識発見による、標的タンパク質分解モダリティの拡張ナレッジベース。",
+    "abstract_ja": "プロテアーゼ分解標的化キメラ（PROTAC）は、ユビキチン-プロテアソーム系を利用して標的タンパク質分解（TPD）を誘導する、新たな治療モダリティである。その事象駆動型かつ触媒的なメカニズムは、これまで分解不可能であったタンパク質を標的とする新たな機会を提供する。しかし、分子グルー（MG）やX-機能性標的化キメラ（XTAC）を含むTPD技術の急速な拡大と、分解酵素設計における人工知能（AI）の活用拡大により、包括的かつ継続的に更新されるデータリソースの必要性が浮き彫りとなっている。本稿では、主要な標的分解および誘導近接技術を網羅する拡張ナレッジベースであるPROTAC-DB 4.0を提案する。前バージョンと比較して、PROTAC-DB 4.0には15,502件のPROTACエントリに加え、24,798件のMGエントリと272件のXTACエントリが収録されており、実験アノテーション、特許由来化合物、およびモダリティ固有のデータフィールドが拡充されている。PROTAC-DB 4.0における大きな進展は、大規模言語モデルと検索拡張型生成ベースの自然言語クエリシステムの統合であり、これにより構造化データベースレコードと学術文献が結びつき、PROTAC、MG、およびXTACにわたる直感的な知識発見が可能となった。包括的なデータキュレーションとAI支援による情報検索を組み合わせることで、PROTAC-DB 4.0は、分解酵素の探索、データ駆動型モデリング、および次世代の標的分解・誘導近接治療薬の合理的設計を支援する、アクセスしやすいプラットフォームを提供する。PROTAC-DB 4.0は、http://cadd.zju.edu.cn/protacdb/ にて無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1080",
+    "title": "ARIEL: an openly accessible database of experimental RNA-ligand binding affinities paired with 3D structures.",
+    "abstract": "RNA is an increasingly attractive target for small-molecule therapeutics, yet the rational design and computational modelling of RNA-binding small molecules are constrained by the scarcity of experimentally measured binding affinities linked to 3D structures. Here we present ARIEL (Affinity Resource for Interactions of RNA and Ligands), an openly accessible, manually curated database that pairs experimentally determined dissociation constants (Kd) of RNA-ligand complexes with the corresponding experimental structures. We screened 6954 RNA-containing structures from the Protein Data Bank, extracted 2843 complexes with a small ligand, and manually curated the associated primary literature to retrieve the corresponding Kd values. This yielded a nonredundant dataset of 278 RNA-ligand complexes with experimental affinities, including 179 unique ligands bound to 171 different RNA targets, with Kd values spanning nine orders of magnitude (-log Kd 2.1-11.0). Each entry also provides the Kd measurement method and conditions, full literature provenance, ligand physicochemical descriptors, and binding-pocket annotations, with direct cross-links between structures, ligands and source publications. ARIEL will be maintained through regular, versioned releases; it is freely available at https://aocdweb.com/BioTools/ARIEL/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1080",
+    "date": "2026-10-30",
+    "authors": "Zeyadah MOR, Alqahtani AJ, Fliti SA, Akhtar N, Sharma S, Petta A, Cavallo L, Oliva R, Chawla M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42958962",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42958962",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "database",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4787,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/nar/gkag1080"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5ff85dad6535e6f542dc128343e5695be5f6e9dfdde60f7ec1795018ba4d09c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:24:18.753190+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bb63a4220f5577679b954e428b8e5915dcbee8ec6ed1b820bf6a9721cda2c000",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:24:18.753190+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ARIEL：実験的なRNA-リガンド結合親和性と3次元構造をセットにした、オープンアクセスのデータベース。",
+    "abstract_ja": "RNAは低分子治療薬の標的としてますます注目を集めているが、RNA結合性低分子化合物の合理的設計および計算モデリングは、3次元構造に紐付いた実験的に測定された結合親和性の不足によって制約を受けている。本報では、RNA-リガンド複合体の実験的に決定された解離定数（Kd）と対応する実験構造を紐付けた、オープンアクセスかつ手動キュレーション済みのデータベースであるARIEL（Affinity Resource for Interactions of RNA and Ligands）を提案する。我々は、Protein Data BankからRNA含有構造6,954件をスクリーニングし、小型リガンドを有する複合体2,843件を抽出した上で、関連する一次文献を手動でキュレーションして対応するKd値を取得した。これにより、実験的親和性を有する278組のRNA-リガンド複合体からなる非冗長なデータセットが得られ、そこには171種類の異なるRNA標的に結合した179種類の固有リガンドが含まれ、Kd値は9桁の範囲（-log Kd 2.1-11.0）に及んでいた。各エントリには、Kdの測定方法と条件、完全な文献由来情報、リガンドの物理化学的記述子、および結合ポケットのアノテーションが提供されており、構造、リガンド、および出典論文間の直接的なクロスリンクが設けられている。ARIELは、定期的なバージョン管理付きリリースを通じて維持管理され、https://aocdweb.com/BioTools/ARIEL/ にて無料で利用可能である。"
   }
 ]
