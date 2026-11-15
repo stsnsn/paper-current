@@ -248971,5 +248971,332 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "単分子分解能でテロメアを直接可視化・高速計測するハイスループットナノスケールイメージングプラットフォーム",
     "abstract_ja": "要旨　テロメア長は、老化、がん、およびテロメア病のバイオマーカーであり、健康に関連する最も強い関連性の一部は、テロメア長スペクトルの両端において認められる。極めて短いテロメアは、染色体不安定性、細胞ストレス、および老化を誘発し得るが、従来のアッセイ法は主に集団平均の測定値を提供するため、これらの生物学的に重要な分子や、個々の染色体末端に存在する根本的な不均一性が不明瞭になる。さらに、高度に反復的なテロメア配列に伴う増幅バイアスや研究室間のばらつきが、測定の再現性を制限する要因となり得る。新興技術によってより高解像度な解析が可能になりつつあるものの、それらは多くの場合、大量のDNA入力、特殊な試料調製、あるいは複雑な装置やバイオインフォマティクスツールを必要とし、広範な導入を妨げている。本報では、標準的なゲノムDNA調製法と互換性のある、自動化されたユーザーフレンドリーなナノスケールイメージングワークフローを通じて、これらの障壁を克服するハイスループットな単分子プラットフォームを提案する。本手法は、独自のデュアルCRISPR-Cas9テロメア境界標識戦略と、増幅を伴わない磁気ビーズベースの濃縮法を組み合わせることで、代表性バイアスを最小限に抑えつつ、本来のテロメア長分布を保持する。わずか500 ngの入力DNAと2～4時間の手作業による処理のみで、本アッセイは同一試料内において約50 bpから>50 kbに及ぶ完全なテロメアを正確に分離し、テロメア長スペクトル全体の同時特性解析を可能にする。また、技術的レプリケート間および独立したオペレーター間で高い再現性（ICC最大0.90）を示す。テロメア長モデル、複製老化システム、および臨床生体試料における検証に加え、染色体アーム割り当てのためのサブテロメアバーコーディングにより、染色体解像度のテロメアプロファイリング、バイオマーカー開発、および老化、がん、テロメア生物学における将来的な臨床実装のためのスケーラブルなプラットフォームを確立する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11333020/v1",
+    "title": "A SHAP-Guided Retrieval-Augmented Generation Framework for Predictive Maintenance Decision Support",
+    "abstract": "Abstract  Predictive maintenance models can reach high detection performance, but their outputs often remain difficult to operationalize in industrial environments, where maintenance decisions require interpretability and actionable guidance. Existing approaches rarely establish a direct link between failure predictions, model explanations, and maintenance-oriented recommendations. This study proposes a proof-of-concept framework that extends retrieval-augmented generation (RAG) to tabular predictive maintenance data through SHAP-guided query construction. A supervised machine learning model is trained to predict machine failures from operational data. SHAP explanations are then extracted to identify the dominant factors driving each prediction and converted into structured queries. These queries guide retrieval from an experimental maintenance knowledge base using embedding-based similarity search. The retrieved information is used by a generation module to produce case-specific maintenance recommendations aligned with the predictive output and its explanation. The framework is evaluated on a benchmark predictive maintenance dataset, where the predictive model shows strong failure detection capability, with particular improvement in recall for rare failure events. The retrieval module further indicates that explanation-derived queries can retrieve semantically relevant maintenance information. The results support the feasibility of integrating predictive modeling, SHAP-based explanation, retrieval, and LLM-based generation for maintenance-oriented interpretation. The proposed framework remains a proof of concept and does not yet constitute a fully validated industrial decision-support system.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11333020/v1",
+    "date": "2026-10-28",
+    "authors": "IAICH AAH, ZAKI S, ABOUSSALEH M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351955",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4639,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.21203/rs.3.rs-11333020/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "38e92b68d7b5cb0da26882280be8089fb6ecaf702fad02737c19b763f51b432d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:31:43.964191+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bbbf752cc28158a267c4407ac140343500907606c35862d567ff03ca06b3a8bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:31:43.964191+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "予知保全意思決定支援のためのSHAP誘導型検索拡張生成フレームワーク",
+    "abstract_ja": "要旨　予知保全モデルは高い検出性能を達成できるが、その出力を産業環境で運用可能にすることはしばしば困難である。産業環境においては、保全判断に解釈可能性と実行可能な指針が求められるためである。既存の手法では、故障予測、モデルの説明、および保全重視の推奨事項との間に直接的な関連性を確立できることは稀である。本研究では、SHAP誘導型クエリ構築を通じて、検索拡張生成（RAG）を表形式の予知保全データへと拡張する概念実証フレームワークを提案する。教師あり機械学習モデルを訓練し、運用データから機械故障を予測させる。次に、SHAP説明を抽出して各予測を駆動する支配的な要因を特定し、それらを構造化クエリに変換する。これらのクエリは、埋め込みベースの類似性検索を用いて、実験的な保全ナレッジベースからの検索を導く。検索された情報は、生成モジュールによって利用され、予測出力およびその説明と整合したケース固有の保全推奨事項が生成される。本フレームワークをベンチマークとなる予知保全データセットで評価したところ、予測モデルは高い故障検出能力を示し、特に稀な故障事象における再現率の向上が確認された。さらに、検索モジュールにより、説明から導出されたクエリが意味的に関連のある保全情報を取得できることが示された。これらの結果は、予知モデリング、SHAPベースの説明、検索、およびLLMベースの生成を統合し、保全重視の解釈を実現することの実現可能性を裏付けるものである。提案フレームワークは依然として概念実証段階にあり、完全に検証された産業向け意思決定支援システムを構成するまでには至っていない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11340030/v1",
+    "title": "Light Perturbations Rapidly Reshape Community Structure and Functional Potential of Synechococcus and Its Co-occurring Bacterial Community in an Estuarine Ecosystem",
+    "abstract": "Abstract    Estuarine ecosystems frequently experience rapid fluctuations in light availability, yet the short-term responses of microbial communities to such perturbations remain incompletely understood, particularly with respect to shifts in functional potential and organic matter cycling. Multi-omics and geochemical analyses were applied to examine microbial community responses during 24-h light/dark shipboard incubations using seawater from the Yellow River Estuary (YRE). The dominant  Synechococcus  OTU (OTU61), affiliated with S5.1 Clade IX, increased in relative abundance in both Light and Dark treatments relative to the  in situ  samples. Surface communities showed greater compositional turnover during incubation than bottom communities, as reflected by higher OTU loss rates (57.72% vs. 46.51%), though enclosure effects cannot be excluded as a contributing factor. Functional annotation of metagenomic data revealed differences in the relative representation of enzymes associated with carbon metabolism and redox processes between Light and Dark treatments. Metabolomic profiles and dissolved organic carbon (DOC) concentrations also varied between treatments, potentially reflecting differences in organic matter pools associated with light conditions. These results indicate concurrent changes in microbial community composition, functional gene representation, and metabolite profiles during short-term light perturbation in shipboard incubation. These observations provide an exploratory framework for understanding light-associated microbial processes in estuarine systems and highlight the need for further validation using direct process-based approaches.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11340030/v1",
+    "date": "2026-10-27",
+    "authors": "Zhou Y, Wang T, Li J, Gao H, Qin S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351029",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Synechococcus",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "estuarine",
+          "river",
+          "seawater"
+        ],
+        "genomics": [
+          "annotation",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 75,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11340030/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f893b98582cbba54d50d9f18b6824ac4f59e428a5235f1473f482d9da501f38e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:31:43.964191+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ac0340ec1c84877eb9a5da5dabf762a6563ef448676dc7732cd7ae8b867977b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:31:43.964191+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "光摂動が河口域生態系におけるSynechococcusおよびその共生細菌群集の群集構造と機能的ポテンシャルを急速に再形成する",
+    "abstract_ja": "要旨    河口域の生態系では、光量の利用可能性が急激に変動することが多いが、こうした摂動に対する微生物群集の短期的な応答、特に機能的ポテンシャルや有機物循環の変化に関しては、依然として十分に解明されていない。黄河河口域（YRE）の海水を用い、24時間の明暗船内インキュベーションにおける微生物群集の応答を調べるため、マルチオミクスおよび地球化学的解析を適用した。S5.1 クレードIXに属する優占的なSynechococcus OTU（OTU61）は、in situサンプルと比較して、明条件および暗条件の両処理において相対存在量が増加した。表層群集は底層群集よりもインキュベーション中の組成ターンオーバーが大きく、これはOTU損失率の高さ（57.72% vs. 46.51%）に反映されていたが、囲い込み効果が寄与因子として排除できない。メタゲノムデータの機能アノテーションにより、明条件と暗条件の間で、炭素代謝および酸化還元プロセスに関連する酵素の相対的な発現量に差異があることが明らかになった。メタボロームプロファイルおよび溶存有機炭素（DOC）濃度も処理間で異なっており、これは光条件に関連する有機物プールの差異を反映している可能性がある。これらの結果は、船内インキュベーションにおける短期的な光摂動に伴い、微生物群集の組成、機能的遺伝子の発現、および代謝物プロファイルが同時に変化することを示している。これらの観察結果は、河口域システムにおける光関連の微生物プロセスを理解するための探索的な枠組みを提供するとともに、直接的なプロセスベースの手法を用いたさらなる検証の必要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11490262/v1",
+    "title": "Heptyl prodigiosin from estuarine Zooshikella sp. RANM57 induces caspase-dependent apoptosis and suppresses clonogenic survival in androgen-independent prostate cancer cells",
+    "abstract": "Abstract    Estuarine microbiomes are rich ecological niches for discovering novel secondary metabolites with therapeutic applications. This study focuses on the isolation, purification, structural elucidation, and antineoplastic evaluation of a red pigment from a marine microbial isolate. The bacterium  Zooshikella  sp. RANM57 was isolated from the Netravathi River estuary. Biomass was recovered using an alum-induced flocculation technique and solvent extraction, after which the primary pigment was purified via flash chromatography and structurally characterized using HRLCMS-QTOF and NMR spectroscopy. Anticancer potential was evaluated against human PC-3 prostate cancer cells using MTT and clonogenic assays. The underlying apoptotic mechanism was delineated using Annexin V/PI staining, Caspase-3 quantification, and TUNEL assays. The purified pigment was identified as the tripyrrole alkaloid heptyl prodigiosin based on HRLCMS-QTOF, UV-Vis/FT-IR profiling, and 1D NMR spectral concordance with reported prodiginine features.  In vitro  evaluations revealed significant dose-dependent cytotoxicity against PC-3 cells (IC  50   = 9.00 µg/mL), demonstrating high anticancer efficacy relative to cisplatin. Mechanistic profiling confirmed that cell death occurred exclusively via an intrinsic apoptotic cascade, as evidenced by significant phosphatidylserine externalization (17.60%), executioner Caspase-3 activation (52.45%), and terminal DNA fragmentation (21.25%), without inducing primary necrosis. Furthermore, treatment also reduced clonogenic survival after 24 h exposure and 8-day outgrowth. The successful isolation and characterization of heptyl prodigiosin from  Zooshikella  sp. RANM57 underscores the value of estuarine bacteria in natural product discovery. Our biological evaluations demonstrate that the compound functions as a precise, potent inducer of caspase-associated apoptosis, positioning this tripyrrole scaffold as a highly promising candidate for further anticancer pharmacological development.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11490262/v1",
+    "date": "2026-10-27",
+    "authors": "Madtha RS, Balakrishna K, Deen KR, Rithick S, Ignacimuthu S, Pandikumar P, Chirakkara SP, Abraham A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351258",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterium",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "estuarine",
+          "marine",
+          "river"
+        ],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 188,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11490262/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a5bfde29ff9ee8aa6f41553b6b820a3538f0b1e0566d08f56609ec16232d8d15",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:31:43.964191+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "beaf445bc5c1333376d53bff4bc9887520750408caf43628e745a746631f9021",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:31:43.964191+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "河口域のZooshikella sp. RANM57由来のヘプチルプロディジオシンは、アンドロゲン非依存性前立腺癌細胞においてカスパーゼ依存性アポトーシスを誘導し、クローン増殖能を抑制する。",
+    "abstract_ja": "要旨    河口域の微生物叢は、治療応用可能な新規二次代謝物を探索するための豊かな生態的ニッチである。本研究では、海洋微生物分離株由来の赤色色素の単離、精製、構造解明、および抗腫瘍評価に焦点を当てる。細菌 Zooshikella sp. RANM57 をネトラヴァティ川河口域から単離した。明礬誘導凝集法および溶媒抽出によりバイオマスを回収し、次いで一次色素をフラッシュクロマトグラフィーにより精製し、HRLCMS-QTOFおよびNMR分光法を用いて構造特性評価を行った。抗がん活性は、MTTおよびクローノゲン活性アッセイを用いてヒトPC-3前立腺がん細胞に対して評価した。根底にあるアポトーシス機構は、アネキシンV/PI染色、Caspase-3定量、およびTUNELアッセイを用いて解明した。精製色素は、HRLCMS-QTOF、UV-Vis/FT-IRプロファイリング、および報告されているプロジギニンの特徴との1D NMRスペクトルの一致に基づき、トリピロールアルカロイドであるヘプチルプロジギオシンと同定された。in vitro評価では、PC-3細胞に対して有意な用量依存性の細胞毒性（IC 50 = 9.00 µg/mL）が認めらえ、シスプラチンと比較して高い抗がん有効性が示された。機構的プロファイリングにより、一次壊死を誘導することなく、有意なホスファチジルセリンの外在化（17.60%）、エグゼキューターCaspase-3の活性化（52.45%）、および末端DNA断片化（21.25%）が認められ、細胞死が専ら内因性アポトーシスカスケードを介して起こることが確認された。さらに、処理により24時間の曝露および8日間の増殖後のクローノゲン活性生存率も低下した。Zooshikella sp. RANM57 からのヘプチルプロジギオシンの単離および特性評価の成功は、天然物探索における河口域細菌の価値を強調するものである。我々の生物学的評価により、本化合物がカスパーゼ関連アポトーシスの精密かつ強力な誘導剤として機能することが示され、このトリピロール骨格は、さらなる抗がん薬理学的開発に向けた極めて有望な候補として位置づけられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2697.v1",
+    "title": "Genomic and In Vitro Characterization of the Candidate Probiotic Yeast Pichia kluyveri PK88™",
+    "abstract": "Non-Saccharomyces yeasts are of growing interest as probiotic candidates, but strain-level charac-terization remains limited. We characterized Pichia kluyveri PK88™, isolated from coffee beans (NRRL deposit # 68561), using phenotypic assays, whole-genome sequencing, and in silico screen-ing. PK88™ was non-hemolytic and produced no detectable patulin, ochratoxin A, or aflatoxins. Genome analysis confirmed species identity (98.5–98.8% average nucleotide identity) and identi-fied no acquired antimicrobial-resistance genes, canonical virulence factors, or decarboxylases for harmful biogenic amines. By high-inoculum broth microdilution, MICs were low for echi-nocandins and amphotericin B and higher for fluconazole and posaconazole. Measured survival after acid, bile and anaerobic exposure was retained (93% at pH 2; 82–84% in bile), although sur-vival at pH 1 and under anaerobiosis was lower; hydrophobicity fell from 91% to 73–77% and auto-aggregation rose to 98–100%. PK88 supernatant inhibited Escherichia coli and Candida albi-cans in preliminary assays. In two independent experiments, Caco-2 cells exposed to PK88™ showed cytotoxicity ≤20% in every replicate up to 6 × 104 organisms/well and variable increases at higher doses. These preliminary data support further evaluation.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2697.v1",
+    "date": "2026-10-27",
+    "authors": "Ahmed S, Fnu S, Valentin ES, Eltokhy A, Khater S, Goodwin E, Deaton J, McCormick TS, Ghannoum MA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352776",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "Escherichia",
+        "Saccharomyces",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 488,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2697.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6831cefe1e5ba8cacac937cb2ad05466648ccdc699ec465af982471f60e99d4e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:31:43.964191+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6fe22d09d58b159c5690d07dcc97ba8320c74e2c6e0dbf7d1c2c07e353ff4baa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:31:43.964191+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プロバイオティクス酵母候補 Pichia kluyveri PK88™ のゲノムおよびin vitro特性解析",
+    "abstract_ja": "非サッカロマイセス属酵母はプロバイオティクス候補として関心が高まっているが、菌株レベルの特性解析は依然として限られている。本研究では、コーヒー豆から単離したPichia kluyveri PK88™（NRRL寄託番号 # 68561）について、表現型アッセイ、全ゲノムシーケンシング、およびin silicoスクリーニングを用いて特性解析を行った。PK88™は非溶血性であり、検出可能なパトゥリン、オクラトキシンA、またはアフラトキシンを産生しなかった。ゲノム解析により種同定（平均ヌクレオチド同一性 98.5–98.8%）が確認され、獲得性抗微生物耐性遺伝子、正準病原因子、または有害な生体内アミンに対する脱炭酸酵素は同定されなかった。高接種菌液マイクロダイリューション法による測定では、エキノカンジン類およびアンフォテリシンBの最小発育阻止濃度（MIC）は低く、フルコナゾールおよびポサコナゾールでは高かった。酸、胆汁、および嫌気的条件への曝露後の生存率は維持されたが（pH 2で93%、胆汁中で82–84%）、pH 1および嫌気条件下での生存率は低下した。疎水性は91%から73–77%に低下し、自己凝集は98–100%に上昇した。PK88上清は、予備アッセイにおいてEscherichia coliおよびCandida albicansを阻害した。2つの独立した実験において、PK88™に曝露したCaco-2細胞は、最大6 × 10⁴個/ウェルまでのすべての反復試験で20%以下の細胞毒性を示し、高用量では変動的な増加が認められた。これらの予備データは、さらなる評価を支持するものである。"
   }
 ]
