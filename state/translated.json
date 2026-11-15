@@ -229974,5 +229974,317 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "アゾレス諸島における生物多様性データの公開10年：知見の空白の解消と長期モニタリングの基盤構築",
     "abstract_ja": "10年にわたる生物多様性研究への専心と体系的なオープンデータ公開により、アゾレス諸島に関する広範かつ再利用可能な知識基盤が構築されてきた。本研究では、この共同成果をAZORES BIOTAおよびBioMonI-Plotコレクションとして統合し、ウォレシア短缺およびプレストン短缺の解消への寄与を評価するとともに、今後の研究およびモニタリングにおける優先事項を特定する。北大西洋のこの群島を構成する9つの島々に焦点を当て、2016年から2026年5月までに発行された、6つの界にわたる陸生および海洋生物を網羅する出版物をレビューする。精選された出版物およびデータセットのメタデータに、Darwin CoreのoccurrenceIDに紐付けられた種および亜種のレコードを組み合わせることで、空間的、分類学的、時間的、および方法論的な網羅性、定着状況別の種の蓄積、および島種と地域の関係を評価する。91件の出版物を通じて、本コレクションは動物931種、植物1,185種、菌類742種および亜種に加え、さらに3つの界の分類群を記録しており、アゾレス生物多様性ポータルのリファレンスリストに598件の追加種を特定している。この継続的な取り組みにより、種の分布に関する利用可能な知見が大幅に拡大し、ウォレシア短缺の軽減に寄与した。節足動物の個体数データセットと繰り返し実施された標準化調査も、個体群および群集の変化の評価を可能にすることで、プレストン短缺を緩和している。これらのリソースは総じて、生物多様性評価、侵入監視、および保全計画のための貴重なベースラインを確立するものである。また、本統合分析により、島々、分類群、および生息地間で網羅性にばらつきがあることが明らかになり、研究努力の空間的な差異が種と地域の関係の解釈を複雑にしていることが示された。アゾレス諸島の事例は、島嶼の生物多様性を理解する上で、継続的な地域的専門知識、連携、および標準化されたオープンデータ公開が持つ多大な科学的価値を実証している。成果を集約し、残されたギャップを明確にすることで、本統合分析は、十分に代表されていない生物相への重点的な投資、空間的にバランスの取れた調査、および継続的な個体数モニタリングの基盤を提供し、将来の生物多様性研究および保全のためのエビデンス基盤を強化するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10776782/v1",
+    "title": "A randomized dose-escalation phase I clinical trial of a nucleoprotein-based genetic vaccine against Crimean-Congo Hemorrhagic Fever",
+    "abstract": "Abstract    Crimean–Congo haemorrhagic fever virus (CCHFV) is an emerging tick-borne virus transmitted primarily by Hyalomma ticks, whose geographic distribution is expanding. CCHFV infection is associated with high case-fatality rates, and there are currently no widely approved vaccines available globally. We were the first to demonstrate that a genetic DNA vaccine (CCHF-N-pVAX1) targeting the nucleoprotein (N) of CCHFV can confer robust protection against lethal disease in mice and attenuate clinical symptoms in non-human primates (NHPs), providing proof-of-concept for a previously underexplored vaccine strategy through activation of NP-specific T cells and antibodies. The CCHF-N-pVAX1 vaccine was tested in a phase I clinical trial in 15 healthy volunteers (HVs) with three dose groups (0.45 mg, 0.90 mg, and 1.80 mg). Five HVs per group received vaccinations at day 0, 28, and 84 given intramuscularly using  in vivo  electroporation (EP; IGEA Medical), followed by 3 months of follow-up. The protocol-defined completed study reports the primary safety evaluation and secondary immunogenicity assessments through day 169. No power calculations were performed. All patients experienced temporary pain in close proximity to the vaccination/EP procedure. The vaccine was safe, and no serious adverse event (SAE) occurred. 139 other Adverse Events (AEs) occurred; 69 reactogenicity and 70 other. The AEs were mostly of mild grade (n = 123); 10 AEs were of moderate intensity, and 6 AEs were of severe intensity (diarrhea (n = 1), headache (n = 1), and fatigue (n = 4)). Most AEs (114/139) were likely or possibly related to the vaccine/EP. CCHFV N-specific antibodies and T cells appeared after the 2nd dose, and mean levels peaked after the 3rd dose at 1207 ± 2747 (endpoint titres) and 621 ± 561 (IFN-g spotforming cells), respectively. The T cell responses remained high during the 3-month follow-up. The data was consistent with our previous studies in NHPs. In conclusion, we show for the first time that a genetic nucleoprotein-based vaccine against CCHF is safe and immunogenic in humans, inducing strong T- and B-cell responses in most vaccine recipients, and suggesting a potential to confer protection against severe disease in humans. EU clinical trial number 2023-508556-18-00/IN, ClinicalTrials.gov identifier NCT06684431.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10776782/v1",
+    "date": "2026-11-02",
+    "authors": "Mirazimi A, nordentoft c, ljungman p, sweetapple l, Yan J, Aleman S, Cadossi M, Salati S, tobin k, Tuvesson O, Gidlund E, merinder o, hoglund u, Sallberg M, creignou m, Weber F, Appelberg S, Devignot S, Frelin L, Ahlen G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355523",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3100,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10776782/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ecd4e7a4c859630f8b0f380891c1bc5d85069411f2616367c07d61cbc6f1d35a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:05:24.836336+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2c07ba22198f494ce8d125d81551bb278ae19b172802610c42c97fc1a074f5d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:05:24.836336+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クリミア・コンゴ出血熱に対する核タンパク質ベースの遺伝子ワクチンのランダム化用量漸増第I相臨床試験",
+    "abstract_ja": "要旨    クリミア・コンゴ出血熱ウイルス（CCHFV）は、主にHyalomma属のマダニによって媒介される新興のダニ媒介性ウイルスであり、その地理的分布は拡大している。CCHFV感染は高い致死率に関連しており、現在、世界的に広く承認されたワクチンは存在しない。我々は、CCHFVの核タンパク質（N）を標的とした遺伝子DNAワクチン（CCHF-N-pVAX1）が、マウスにおいて致死的な疾患に対する強固な保護能を付与し、非ヒト霊長類（NHP）において臨床症状を軽減できることを初めて実証した。これは、NP特異的T細胞および抗体の活性化を介した、これまで十分に検討されてこなかったワクチン戦略の概念実証となるものである。CCHF-N-pVAX1ワクチンは、15名の健常ボランティア（HV）を対象とした第I相臨床試験において、3つの投与群（0.45 mg、0.90 mg、1.80 mg）で試験された。各群5名のHVに対し、0日目、28日目、および84日目に、in vivoエレクトロポレーション（EP; IGEA Medical）を用いて筋肉内接種を行い、その後3か月間の追跡調査を実施した。プロトコルで定義された完了済みの試験報告では、169日目までの一次安全性評価および二次免疫原性評価が報告されている。検出力計算は実施しなかった。すべての患者において、接種／EP処置の至近距離で一時的な疼痛が認められた。ワクチンは安全であり、重篤な有害事象（SAE）は発生しなかった。その他の有害事象（AE）は139件発生し、そのうち反応原性が69件、その他が70件であった。AEの多くは軽度であり（n = 123）、10件が中等度、6件が重度であった（下痢（n = 1）、頭痛（n = 1）、および倦怠感（n = 4））。ほとんどのAE（114/139）は、ワクチン／EPに関連している可能性が高いか、あるいは関連している可能性がある。CCHFV N特異的抗体およびT細胞は2回目接種後に出現し、平均レベルは3回目接種後にピークに達し、それぞれ1207 ± 2747（エンドポイント力価）および621 ± 561（IFN-γスポット形成細胞）であった。T細胞応答は3か月間の追跡期間中、高い水準を維持した。これらのデータは、NHPにおける我々の先行研究と一致していた。結論として、我々はCCHFに対する遺伝子核タンパク質ベースのワクチンがヒトにおいて安全かつ免疫原性であり、ほとんどの接種者において強力なT細胞およびB細胞応答を誘導することを初めて示し、ヒトにおける重症疾患に対する保護能を付与する可能性を示唆した。EU臨床試験番号 2023-508556-18-00/IN、ClinicalTrials.gov識別子 NCT06684431。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.31.763361",
+    "title": "Top2All: Benchmarking sparse-to-transcriptome reconstruction from high-expression profiles across sex- and sex-steroid-defined conditions",
+    "abstract": "Transcriptome-wide profiling at single-cell resolution is limited by sparse detection of gene expression, raising the question of how much transcriptomic information can be recovered from a small set of highly expressed genes. We developed Top2All, a Mouse-Geneformer-based framework for reconstructing transcriptome-wide expression from sample-specific sparse inputs. Using 24 cell-number-normalized RNA-seq profiles of mouse adrenal zona fasciculata cells across eight experimental conditions defined by sex and sex-steroid milieu, we evaluated condition-aware and no-condition models under replicate-wise out-of-fold and leave-one-condition-out validation. Top2All achieved near-unity sample-wise correlation with measured expression, but similarly high correlations were obtained using simple reference profiles, whereas gene-wise evaluation revealed substantially greater differences among methods. Explicit condition information did not consistently improve reconstruction, indicating that sex- and sex-steroid-associated condition information was already strongly encoded in the sparse expression profiles. Nearest-neighbor retrieval provided a stronger baseline than learned reconstruction, and input-depth analysis showed that increasing the number of input genes did not monotonically improve performance. These findings show that a relatively small set of highly expressed genes contains substantial information about transcriptomic state, while accurate reconstruction of gene-specific biological variation remains challenging. Sparse-to-transcriptome models should therefore be evaluated using gene-wise metrics, strong reference baselines, and tests of generalization beyond conditions represented during training.",
+    "journal": "",
+    "doi": "10.64898/2026.10.31.763361",
+    "date": "2026-11-02",
+    "authors": "Nishio Y, Yamashita T, Baba T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357729",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "framework",
+        "gene",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4081,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.31.763361"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2d69527a32f9a842fcff9db73f8c3d37871c2d56e99cb1c205aafe2993754990",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:05:24.836336+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "65cdfe6c9e01b81bf21f8ab6b2accd5e9d23236549563a4b8dce9b1078156a24",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:05:24.836336+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Top2All: 性および性ステロイド規定条件下における高発現プロファイルに基づくスパースからトランスクリプトームへの再構築のベンチマーク評価",
+    "abstract_ja": "単一細胞解像度でのトランスクリプトーム全域プロファイリングは、遺伝子発現の検出が疎であるという制約を受けており、少数の高発現遺伝子セットからどの程度のトランスクリプトーム情報を復元できるかという課題が生じている。我々は、サンプル固有の疎な入力からトランスクリプトーム全域の発現を再構築するための、Mouse-GeneformerベースのフレームワークであるTop2Allを開発した。性別および性ステロイド環境によって定義された8つの実験条件におけるマウス副腎帯束細胞の、細胞数正規化された24種類のRNA-seqプロファイルを用い、条件を考慮したモデルと条件を考慮しないモデルを、レプリカごとのout-of-foldおよびleave-one-condition-out検証の下で評価した。Top2Allは、測定された発現とサンプル単位でほぼ1に近い相関を示したが、単純なリファレンスプロファイルを用いた場合にも同様に高い相関が得られた一方で、遺伝子単位の評価では手法間の差異が著しく大きいことが明らかになった。明示的な条件情報は一貫して再構築の精度を向上させず、性別および性ステロイドに関連する条件情報が、疎な発現プロファイルにすでに強く符号化されていることが示された。最近傍検索は学習による再構築よりも強力なベースラインとなり、入力深度解析では、入力遺伝子数を増やしても性能が単調に向上するわけではないことが示された。これらの知見は、比較的少数の高発現遺伝子セットにトランスクリプトーム状態に関する相当な情報が含まれている一方で、遺伝子固有の生物学的変動を正確に再構築することは依然として困難であることを示している。したがって、スパース・トゥ・トランスクリプトームモデルは、遺伝子単位の指標、強力なリファレンスベースライン、および学習時に表現された条件を超えた汎化性能の検証を用いて評価されるべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11004578/v1",
+    "title": "Bacterial dysbiosis in sinonasal fungal ball: a paired 16S rRNA gene sequencing study",
+    "abstract": "Abstract    Purpose  Sinonasal fungal ball is usually classified as a non-invasive fungal disease. However, the bacterial changes that accompany the lesion are still not well defined. This study compared bacterial community structure and predicted functional potential between the affected sinus and the contralateral healthy side in patients with sinonasal fungal ball. Methods  Using high-throughput 16S rRNA gene sequencing, 29 paired sinus samples were analysed, including fungal ball diseased-side samples (FBDS) and matched healthy-side samples (FBHS). The cohort included 25 maxillary sinus fungal ball pairs and 4 sphenoid sinus fungal ball pairs. Taxonomic composition, alpha diversity, beta diversity, genus-level differential abundance, co-abundance networks, and PICRUSt-predicted KEGG functional profiles were compared. Results  FBDS and FBHS had distinct bacterial profiles. FBDS showed enrichment of Proteobacteria, Bacteroidetes and Fusobacteria, reduced alpha diversity, altered Bray-Curtis structure, and greater dispersion. Sixteen robust differential genera were identified, including FBDS-enriched  Achromobacter  and FBHS-enriched  Ochrobactrum, Desulfovibrio, Lactobacillus, Lentzea, Sphingomonas, Staphylococcus  and  Corynebacterium  . FBHS also showed a denser co-abundance network. PICRUSt predicted FBDS enrichment in lipopolysaccharide/glycan biosynthesis and translation-related pathways, whereas FBHS was linked to xenobiotic degradation and lipid metabolism. Most findings persisted in maxillary-only analysis. Conclusion  Sinonasal fungal ball was associated with local bacterial dysbiosis on the affected side. The main features were reduced diversity, altered community composition, higher inter-individual variation, a simpler co-abundance structure, and different predicted functional potential. These findings suggest that fungal ball disease may involve localized bacterial ecological remodeling, not only fungal colonization.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11004578/v1",
+    "date": "2026-11-01",
+    "authors": "Shi P, Wang Y, Zhang Y, Yang T, Zhou J, Zeng Y, Dong S, Li Y, Wei H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354725",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2419,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11004578/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c1b174c0feac52584304d9dea2dbcc158b54822f250326ebd7f90095994d45f6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:05:24.836336+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "269e146956b607c16e09bdeff0b02a7376220d4330683246b9c7631d0a44ae7a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:05:24.836336+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "副鼻腔真菌塊における細菌叢異常：ペア16S rRNA遺伝子シーケンシング研究",
+    "abstract_ja": "要旨    目的  上顎洞真菌球腫は通常、非侵襲性の真菌性疾患に分類される。しかし、病変に伴う細菌学的変化については依然として十分に解明されていない。本研究では、上顎洞真菌球腫患者の罹患側上顎洞と対側健側との間で、細菌群集構造および予測される機能的ポテンシャルを比較した。方法  ハイスループット16S rRNA遺伝子シーケンシングを用い、真菌球腫罹患側検体（FBDS）および対応する健側検体（FBHS）を含む29組の上顎洞検体を解析した。コホートには、上顎洞真菌球腫ペア25組および蝶形骨洞真菌球腫ペア4組が含まれていた。分類学的組成、α多様性、β多様性、属レベルの差次的存在量、共存在ネットワーク、およびPICRUStにより予測されたKEGG機能プロファイルを比較した。結果  FBDSとFBHSでは異なる細菌プロファイルが認められた。FBDSでは、Proteobacteria、Bacteroidetes、およびFusobacteriaの濃縮、α多様性の低下、Bray-Curtis構造の変化、および分散の増大が認められた。FBDSで濃縮されたAchromobacter、およびFBHSで濃縮されたOchrobactrum、Desulfovibrio、Lactobacillus、Lentzea、Sphingomonas、Staphylococcus、およびCorynebacteriumを含む16の頑健な差次的属が同定された。また、FBHSではより密な共存在ネットワークが認められた。PICRUStは、FBDSにおいてリポ多糖/糖鎖生合成および翻訳関連経路の濃縮を予測した一方、FBHSは外来物質分解および脂質代謝に関連していた。ほとんどの知見は上顎洞のみの解析においても認められた。結論  上顎洞真菌球腫は、罹患側における局所的な細菌叢の乱れに関連していた。主な特徴として、多様性の低下、群集組成の変化、個体間変動の増大、より単純な共存在構造、および異なる予測機能的ポテンシャルが挙げられた。これらの知見は、真菌球腫疾患が単なる真菌の定着だけでなく、局所的な細菌生態学的リモデリングを伴っている可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762818",
+    "title": "Gene Embedding Hub: a standardized resource for human gene representations",
+    "abstract": "Gene embeddings are vector representations of gene identity that provide machine-learning models with information from diverse biological sources. However, their use is hindered by a lack of standardization: inconsistent identifiers, formats, and preprocessing conventions. In this work, we present a unified resource of 67 human gene-embedding sets derived from protein, DNA and RNA sequences, biomedical text, bulk expression data, single-cell expression models, functional data, biological networks, knowledge graphs, regulatory genomics and multimodal models, covering up to 20,097 GENCODE-annotated protein-coding genes. The collection includes both published precomputed embeddings and representations generated or extracted from publicly available models and biological data. Each embedding set is organized in a folder containing the embedding matrix, the Ensembl gene identifiers, machine-readable metadata, and processing documentation. We validate the resource by measuring global and local similarity, cross-embedding consensus, and cross-embedding predictability. The collection is designed to allow community-contributed embeddings that meet predefined technical and documentation requirements, enables comparison of gene representations across modalities and provides standardized embeddings for training and downstream applications.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762818",
+    "date": "2026-11-01",
+    "authors": "Tabares D, Bohl M, Boeva V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355825",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "RNA",
+        "biological network",
+        "gene",
+        "genomic",
+        "protein",
+        "resource",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2472,
+    "collected_at": "2026-11-10T21:30:15.779850+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762818"
+    ],
+    "translation": {
+      "title": {
+        "hash": "284b6244935d970c8f15439064ad462f0de78d4f8d31d0e065e318ae34128a20",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:05:24.836336+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a9ccfb2952ea80a549688175a331562bca9f03ff03862669abd957a369115fd4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:05:24.836336+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Gene Embedding Hub：ヒト遺伝子表現のための標準化されたリソース",
+    "abstract_ja": "遺伝子埋め込みは、多様な生物学的情報源から機械学習モデルに情報を提供する、遺伝子アイデンティティのベクトル表現である。しかし、その利用は、識別子、フォーマット、および前処理規約の不統一といった標準化の欠如によって妨げられている。本研究では、タンパク質、DNAおよびRNA配列、生物医学テキスト、バルク発現データ、シングルセル発現モデル、機能データ、生物学的ネットワーク、ナレッジグラフ、調節ゲノミクス、およびマルチモーダルモデルから導出された67組のヒト遺伝子埋め込みセットからなる統一リソースを提示する。このコレクションには、既報の事前計算済み埋め込みと、公開されているモデルおよび生物学的データから生成または抽出された表現の両方が含まれている。各埋め込みセットは、埋め込み行列、Ensembl遺伝子識別子、機械可読メタデータ、および処理ドキュメントを含むフォルダに整理されている。我々は、大域的および局所的な類似性、埋め込み間コンセンサス、および埋め込み間予測可能性を測定することで、本リソースの妥当性を検証する。本コレクションは、あらかじめ定義された技術的要件およびドキュメント要件を満たすコミュニティ提供の埋め込みを可能にし、モダリティを横断した遺伝子表現の比較を実現し、学習およびダウンストリームアプリケーション向けの標準化された埋め込みを提供するように設計されている。"
   }
 ]
