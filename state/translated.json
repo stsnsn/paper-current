@@ -240461,5 +240461,321 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "暗黒下におけるゲノム拡大：洞窟棲息性レミペデ類のリピートリッチなゲノムが、六脚類姉妹群の進化を解明する。",
     "abstract_ja": "レミペデス類は、無光層洞窟生態系（無光・低酸素の地下環境）に固有の、謎に包まれた盲目の毒を持つ甲殻類であり、汎甲殻類の中で六脚類の姉妹群として極めて重要な系統学的位置を占めている。本分類群の高品質なゲノムアセンブリは、アクセスの困難さや、生息地から除去された際の脆弱性により、長らく困難であった。本研究では、レミペデス類のXibalbanus tulumensis（Xibalbanidae）について、30本の染色体スケールのスキャフォールドにわたる8.05 Gbの高度に連続した染色体レベルのゲノムアセンブリを提示し、これをこれまで報告された節足動物ゲノムの中で最大規模のものに位置づける。タンパク質コード遺伝子のレパートリーは極めて保存されており、節足動物のオルソログの97%以上が回収されたほか、マイクロRNA調査では汎甲殻類ゲノムと比較して高い網羅性（94%）が示された。ゲノムの拡張は、主にゲノムの約71%を占めるイントロンおよび反復要素の増殖によって推進されていると考えられる。比較ゲノム解析により、広範な遺伝子ファミリーの入れ替わりが明らかになり、系統特異的な拡張や縮小を示すファミリーは比較的少なかった。毒関連遺伝子ファミリーにはレミペデス類特有のXibalbinsが含まれていた一方、他の毒関連遺伝子ファミリーでは顕著な拡張と断続的な正の選択が認められた。マクロシンテニーの比較解析により、レミペデス類のゲノムには、汎甲殻類とアロトリオカリダ類を統合した古代の融合・混合イベントの痕跡が保持されており、レミペデス類と基部分岐型昆虫目の染色体構造には相当な類似性があることが明らかになった。本研究の知見は、レミペデス類に関する初のゲノムフレームワークを提供するとともに、極めて特異な環境に適応しながらも、その構造に深い系統学的シグナルを保持した、高度に拡張され反復に富んだゲノムを明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761767",
+    "title": "MiniMAP: An automatic pipeline for paediatric lower limb musculoskeletal model generation",
+    "abstract": "The generation of paediatric musculoskeletal models often requires compromise between data availability, accuracy, and computation time. Statistical shape models allow for rapid generation of bone geometries for use in musculoskeletal modelling. An articulated shape model allows for movement at the joints during optimisation to better fit to experimental data. Here we present a methodology for generating custom paediatric OpenSim models using an articulated shape model of the lower limb generated from CT scans of over 300 children aged 4 to 18 years old. Bone geometries are predicted using demographic factors (age, height, mass, and sex), linear bone measurements (bone widths and lengths), and 12 skin surface landmarks (L/R ASIS, L/R PSIS, medial/lateral epicondyles, and medial/lateral malleoli). To account for skin padding (bone to skin surface distance) a random forest algorithm was developed for skin padding prediction for these 12 landmarks. Accuracy of the model prediction was assessed using a leave-one-out analysis to assess landmark errors, bone surface errors, and clinical bone measurement errors (linear measurements and angular values). Motion capture and MRI data were collected from two paediatric test cases to test the workflow on unseen data. Skin padding values varied widely in this population with average values from 3.4mm at the lateral malleolus to 25.9mm at the PSIS. Skin padding was best predicted using age, height, mass, ASIS width, epicondylar width, and malleolar width with an average RMSE of 4.68mm. The articulated shape model predicted accurate bone geometries from skin surface landmarks with average bone surface RMSEs of 2.64 ± 0.99mm, 1.91 ± 0.59mm, and 1.69 ± 0.56mm in the pelvis, femora, and tibiae/fibulae respectively. In the two unseen test cases, average bone surface errors ranged from 1.64 ± 1.2mm to 3.41 ± 3.1mm. This study demonstrated the accuracy of ‘MiniMAP’, for the rapid generation of custom paediatric musculoskeletal models. Author Summary  Accurate modelling of the paediatric musculoskeletal system is important in applications including gait analysis, surgical planning, and rehabilitation. As large datasets in a paediatric population for any type of data are rare, therefore, compromises have to be made in the way both clinicians and researchers analyse motion capture data in a paediatric population. Often, this compromise will involve either a sacrifice in accuracy or a dramatic increase in computational time. For instance, we can approximate paediatric motion using an adult model. While this is a fast method, we know that there are differences when compared to a gold standard model. Alternatively, we can generate a fully subject specific model from medical imaging data, but this is time consuming and costly. Others prefer to use a mix of these two methods. Our research group has been focused on using statistical shape modelling as an alternative approach that allows for both rapid and accurate generation of paediatric musculoskeletal models. Presented here is the latest iteration of that work where we validate the performance of our open-source tools for generating custom models for clinicians and researchers alike.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761767",
+    "date": "2026-10-31",
+    "authors": "Carman L, Salemink Waldren T, Besier T, Choisne J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354917",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "method",
+          "pipeline"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4613,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.26.761767"
+    ],
+    "translation": {
+      "title": {
+        "hash": "679c696112dd19c628c5db8e61e519f58761ac063e24273b72f8c150d0ff511d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:35:27.710293+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a149ca7a0685a33f4422718e5d1c2a258df7b76f2e632d2bc8577cf6c1e2fd1b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:35:27.710293+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MiniMAP: 小児下肢筋骨格モデル生成のための自動パイプライン",
+    "abstract_ja": "小児の筋骨格モデルの生成においては、データの可用性、精度、および計算時間の間の妥協が必要となることが多い。統計的形状モデルを用いることで、筋骨格モデリングに用いる骨形状を迅速に生成することが可能となる。関節付き形状モデルを用いれば、最適化プロセスにおいて関節の可動性を確保でき、実験データへの適合性を高めることができる。本稿では、4歳から18歳までの300名以上の小児のCTスキャンから生成した下肢の関節付き形状モデルを用いて、カスタム小児OpenSimモデルを生成する手法を提案する。骨形状は、人口統計学的因子（年齢、身長、体重、性別）、線形骨計測値（骨幅および骨長）、および12箇所の皮膚表面ランドマーク（左右ASIS、左右PSIS、内側/外側上顆、内側/外側足根骨）を用いて予測される。皮膚パディング（骨から皮膚表面までの距離）を考慮するため、これら12箇所のランドマークに対する皮膚パディング予測用のランダムフォレストアルゴリズムを開発した。モデル予測の精度は、ランドマーク誤差、骨表面誤差、および臨床的な骨計測誤差（線形計測値および角度値）を評価するためのleave-one-out解析を用いて検証した。未知データに対するワークフローを検証するため、2名の小児被験者からモーションキャプチャデータおよびMRIデータを収集した。この集団における皮膚パディング値は幅広く、平均値は外側足根骨の3.4mmからPSISの25.9mmまでであった。皮膚パディングは、年齢、身長、体重、ASIS幅、上顆幅、および足根骨幅を用いて最も正確に予測され、平均RMSEは4.68mmであった。関節付き形状モデルは、皮膚表面ランドマークから正確な骨形状を予測し、骨盤、大腿骨、および脛骨/腓骨における平均骨表面RMSEは、それぞれ2.64 ± 0.99mm、1.91 ± 0.59mm、1.69 ± 0.56mmであった。2名の未知被験者において、平均骨表面誤差は1.64 ± 1.2mmから3.41 ± 3.1mmの範囲であった。本研究は、カスタム小児筋骨格モデルを迅速に生成するための「MiniMAP」の精度を実証した。著者要旨：小児筋骨格系の正確なモデリングは、歩行解析、手術計画、リハビリテーションなどの応用において重要である。小児集団におけるあらゆる種類のデータの大規模データセットは稀であるため、臨床医と研究者の双方が小児集団のモーションキャプチャデータを解析する際には、妥協を強いられることが多い。多くの場合、この妥協は精度の犠牲か、あるいは計算時間の大幅な増加を伴う。例えば、成人モデルを用いて小児の動作を近似することができる。これは迅速な手法ではあるが、ゴールドスタンダードモデルと比較すると差異があることが分かっている。あるいは、医用画像データから完全に被験者固有のモデルを生成することも可能だが、これには時間とコストがかかる。これら2つの手法を組み合わせて用いることを好む研究者もいる。我々の研究グループは、小児筋骨格モデルを迅速かつ正確に生成できる代替アプローチとして、統計的形状モデリングの活用に注力してきた。本稿では、その取り組みの最新バージョンを提示し、臨床医および研究者の双方に向けたカスタムモデル生成用オープンソースツールの性能を検証する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.31234/osf.io/xphm9_v2",
+    "title": "Evaluating Ratings from Large Language Models: A Simulation-Based Workflow",
+    "abstract": "Large Language Models (LLMs) are increasingly used as research tools to facilitate fast and automated ratings of text features. In psychological studies, they have been used to quantify the degree to which stimulus materials reflect certain psychological constructs. However, the application of LLMs entails a high degree of flexibility regarding prompt design (e.g., instruction details and examples) and model specification (e.g., model family, size, and configuration), which can produce divergent results and threaten the robustness and generalizability of conclusions. To navigate the multiverse of possible choices, we develop a systematic workflow for evaluating the quality of LLM-generated ratings across diverse model and prompt specifications. Motivated by generalizability theory, the workflow distinguishes between construct variance across stimulus items, method variance due to model and prompt choices, and residual variance across repeated iterations. To guide researchers through the planning, execution, and reporting of LLM simulation studies, we adapt the ADEMP (Aims, Data-generating mechanism, Estimands and targets, Methods, Performance measures) framework, originally developed for methodological simulation research. We develop a template supporting two complementary validation strategies: assessing consistency across LLM specifications based on generalizability theory via estimated variance components, and external validation against a benchmark (e.g., human ratings). We illustrate the workflow in a preregistered case study using local, open-weight LLMs which examines the influence of model choice, response format, and prompt examples on the quality of valence and arousal ratings for multi-word expressions.",
+    "journal": "",
+    "doi": "10.31234/osf.io/xphm9_v2",
+    "date": "2026-10-31",
+    "authors": "Angelike T, Heck DW.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354406",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "gene",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "benchmark",
+          "gene",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4616,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.31234/osf.io/xphm9_v2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ef5f3c2737c3bdf9682a8c945f834407abb5f6fb4985ecf6f99629a996d6a449",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:35:27.710293+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "21e2f1ca3f2f4a34d51fac9f0519213e3d15b7313416517f7bf843598460aafa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:35:27.710293+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大規模言語モデルによる評価：シミュレーションに基づくワークフロー",
+    "abstract_ja": "大規模言語モデル（LLM）は、テキスト特徴量の迅速かつ自動的な評価を促進する研究ツールとして、ますます活用されるようになっている。心理学研究においては、刺激材料が特定の心理学的構成概念をどの程度反映しているかを定量化するために用いられてきた。しかし、LLMの適用には、プロンプト設計（例：指示の詳細や例）およびモデル仕様（例：モデルファミリー、サイズ、構成）に関して高度な柔軟性が求められるため、結果にばらつきが生じ、結論の頑健性や一般化可能性が損なわれる恐れがある。こうした多様な選択肢の中から適切に判断できるよう、本研究では、多様なモデルおよびプロンプト仕様にわたるLLM生成評価の品質を評価するための体系的なワークフローを構築する。一般化可能性理論に基づき、本ワークフローでは、刺激項目間の構成概念分散、モデルおよびプロンプトの選択による手法分散、および反復試行間の残差分散を区別する。研究者がLLMシミュレーション研究の計画、実施、および報告を行う際の指針となるよう、もともと方法論的シミュレーション研究のために開発されたADEMP（Aims, Data-generating mechanism, Estimands and targets, Methods, Performance measures）フレームワークを応用した。我々は、2つの相補的な検証戦略をサポートするテンプレートを開発した。すなわち、推定分散成分を用いた一般化可能性理論に基づくLLM仕様間の一貫性の評価と、ベンチマーク（例：人間による評価）に対する外部検証である。本ワークフローを、ローカルなオープンウェイトLLMを用いた事前登録済みのケーススタディで例示し、複数語表現に対する価および覚醒度評価の品質に、モデルの選択、回答形式、およびプロンプト例が及ぼす影響を検証する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.24.761502",
+    "title": "Does a map-level insulation constraint improve sequence-based prediction of 3D genome folding? A Stage 1 Registered Report with a reverse-complement-equivariant state-space model (HiFold-Mamba)",
+    "abstract": "Background  Sequence-to-contact-map models are trained with pixel-wise losses, although the features of interest (insulation, domain boundaries, loops) are summaries of the map. Insulation-based losses help Hi-C resolution enhancement. No pre-specified test has asked whether they improve  sequence-based prediction, judged against annotations independent of the training data.  Proposed study  HiFold-Mamba predicts 448 × 448 maps at 2,048 bp from 1,048,576 bp of DNA on the DNALongBench contact-map task. Every component is reverse-complement-equivariant: convolutional tower, bidirectional Mamba blocks, multi-scale mixer and symmetric pairwise head. We pre-register three hypotheses: H1: it exceeds  each of three trained baselines (reproduced Akita, a parameter-matched Transformer and a parameter-matched CNN) by ≥ 0.01 stratum-adjusted correlation (SCC).  H2: an insulation and boundary loss, computed from the predicted map with the operator used on the observed map, improves boundary AUROC and loop AP against independent 4DN boundary calls and ENCODE CTCF ChIA-PET loops, at equal training steps and without loss of SCC.  H3: pretraining plus few-shot adaptation beats training from scratch on four held-out cell lines.  Tests use a paired bootstrap over 237 one-megabase test blocks (one-sided α = 0.025). Pilot data  Verification . The benchmark target, the window coordinates and the network’s equivariance were verified.  Locus-shared reference . Copying other cell lines’ measured maps at the same locus matches published Akita on the benchmark’s SCC (0.227 vs. 0.230).  SCC weightings . Two weightings in common use weight distance strata in opposite directions and agree only moderately (ρ = 0.54).  Comparison rule . In simulations calibrated on the pilot data, a per-block-best comparison against several baselines has no power. We therefore test against each baseline, which gives ≥ 90 % power at a true gain of 0.02 when between-model correlation is ≥ 0.95.  H2 positive control . On validation windows, observed maps recover the independent boundaries (AUROC 0.61–0.91) and loops (0.86–0.90). This fixed the insulation window and showed that these annotations are largely shared across cell types.",
+    "journal": "",
+    "doi": "10.64898/2026.10.24.761502",
+    "date": "2026-10-30",
+    "authors": "Malekpouri M, Lotfi S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354178",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4625,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.24.761502"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9485502c037c1881c2d58fe4d3d5dc4c103fa6776f854663cc0cf4516cf1a118",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:35:27.710293+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c7b32f06dedb8dee83aac43dad05873f1680f0534e45df0c55848c7a38bdd668",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:35:27.710293+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マップレベルの断熱制約は3次元ゲノムフォールディングのシーケンスベース予測を改善するか？逆相補体等変状態空間モデル（HiFold-Mamba）を用いたステージ1登録報告",
+    "abstract_ja": "背景  シーケンス・トゥ・コンタクトマップモデルはピクセル単位の損失関数を用いて学習されるが、着目対象となる特徴量（インシュレーション、ドメイン境界、ループ）はマップの要約である。インシュレーションに基づく損失関数は、Hi-Cの解像度向上に寄与する。学習データに依存しないアノテーションを用いて、シーケンスベースの予測性能が向上するかを検証した事前指定のテストは存在しない。  提案研究  HiFold-Mambaは、DNALongBenchのコンタクトマップタスクにおいて、1,048,576 bpのDNAから2,048 bpの448 × 448マップを予測する。各構成要素は、逆相補性等変的である：畳み込みタワー、双方向Mambaブロック、マルチスケールミキサー、および対称的なペアワイズヘッド。我々は3つの仮説を事前に設定した：H1：予測マップに観測マップで用いた演算子を適用して算出したインシュレーションおよび境界損失関数が、独立した4DN境界判定およびENCODE CTCF ChIA-PETループに対し、層調整済み相関（SCC）で0.01以上上回る。H2：予測マップに観測マップで用いた演算子を適用して算出したインシュレーションおよび境界損失関数が、同等の学習ステップにおいて、SCCを損なうことなく、独立した4DN境界判定およびENCODE CTCF ChIA-PETループに対する境界AUROCおよびループAPを向上させる。H3：4つのホールドアウト細胞株において、事前学習とfew-shot適応を組み合わせることが、ゼロからの学習を上回る。テストでは、237個の1メガベーステストブロックに対してペアブートストラップ法を用いた（片側α = 0.025）。パイロットデータ  検証。ベンチマークのターゲット、ウィンドウ座標、およびネットワークの等変性を検証した。  遺伝子座共有リファレンス。他の細胞株で測定されたマップを同一遺伝子座でコピーしたところ、ベンチマークのSCCにおいて公開済みのAkitaと一致した（0.227 vs. 0.230）。  SCC重み付け。一般的に用いられている2つの重み付けは、距離層を逆方向に重み付けしており、一致度は中程度であった（ρ = 0.54）。  比較ルール。パイロットデータでキャリブレーションしたシミュレーションにおいて、複数のベースラインに対するブロックごとの最良比較では検出力が不足していた。そこで、各ベースラインとの比較を行ったところ、モデル間相関が0.95以上の場合、真の利得0.02に対して90%以上の検出力が得られた。  H2ポジティブコントロール。検証ウィンドウにおいて、観測マップは独立した境界（AUROC 0.61–0.91）およびループ（0.86–0.90）を復元した。これによりインシュレーションウィンドウが固定され、これらのアノテーションが細胞種間で概ね共有されていることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762426",
+    "title": "Mild extraction preserves labile structural features of Gram-positive bacterial cell wall glycopolymers",
+    "abstract": "Cell wall glycopolymers in Gram-positive bacteria are crucial for structural integrity, cell division, and stress resistance. Elucidating the structure of these glycopolymers is not only important for understanding fundamental bacterial physiology, but may facilitate vaccine development, phage therapy, antibiotic design and improvements in food fermentation safety. However, extraction protocols have so far relied on harsh chemicals that can damage these polymers, compromise their structural integrity, obscure their biological functions, and result in low yields. We present a straightforward method for isolating cell wall glycopolymers from Gram-positive bacteria that preserves essential structural features including attachment to peptidoglycan. The method was broadly applicable across phylogenetically diverse species and was not restricted to glycopolymer types. In total, we isolated 17 distinct glycopolymers from 11 species, including six with previously unreported structures, with a median yield of 49 mg per litre of culture. The simplicity and mild nature of the method, combined with the exceptional purity of the resulting products, has the potential to transform research on Gram-positive cell wall glycopolymers.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762426",
+    "date": "2026-10-29",
+    "authors": "Boehlich GJ, Tsjokajev A, Mrozek P, Reglinski M, Straume D, Kjos M, Horn SJ, Dorfmueller HC, Vaaje-Kolstad G, Westereng B.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353404",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1139,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762426"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5e63340d24e60dfda064faaf4e0991604003caeeb067fc8b8357037cb5134d7a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:35:27.710293+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ebcf13b71987057e17727b3bceafc3cd61503a94644ae8feb0451430850c8640",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:35:27.710293+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイルド抽出法は、グラム陽性菌の細胞壁糖高分子の不安定な構造的特徴を保持する。",
+    "abstract_ja": "グラム陽性菌の細胞壁糖高分子は、構造的完全性、細胞分裂、およびストレス耐性において極めて重要である。これらの糖高分子の構造を解明することは、細菌の基礎的な生理学を理解する上で重要であるだけでなく、ワクチン開発、ファージ療法、抗生物質の設計、および食品発酵の安全性向上を促進する可能性がある。しかし、これまでの抽出プロトコルは、こうした高分子を損傷させ、構造的完全性を損ない、生物学的機能を不明瞭にし、収率を低下させる可能性のある過酷な化学物質に依存してきた。本報では、ペプチドグリカンへの結合を含む不可欠な構造的特徴を保持したまま、グラム陽性菌から細胞壁糖高分子を単離する簡便な手法を提案する。本手法は、系統的に多様な種にわたって幅広く適用可能であり、糖高分子の種類に限定されなかった。合計で、11種から17種類の異なる糖高分子を単離し、そのうち6種類は従来報告のない構造であった。収量の中央値は培養液1リットルあたり49 mgであった。本手法の簡便さと温和な性質、そして得られた産物の極めて高い純度は、グラム陽性菌の細胞壁糖高分子に関する研究に変革をもたらす可能性を秘めている。"
   }
 ]
