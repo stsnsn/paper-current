@@ -243632,5 +243632,329 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Coccidioidesにおける腸関節核の発生の遺伝学およびゲノミクス",
     "abstract_ja": "制御された細胞死は、植物および動物の発生における根幹をなすものである。一部の細胞死遺伝子の遠縁オルソログは微生物にも認められ、その役割は依然として十分に解明されていない。ヒト真菌病原体であるCoccidioidesは、エンテロアセロコニディアと呼ばれる感染性胞子が土壌から吸入されることで、バレー熱を引き起こす。これらの胞子は、菌糸（細胞性フィラメント）の交互のセグメントが死滅・解離し、その両側から成熟した胞子が放出されるという、特異なチェッカーボード型の分化過程を経て発達する。その分子機構は不明である。単細胞トランスクリプトミクスを糸状菌に適応させ、我々は発達過程にあるCoccidioidesコロニーの特殊化した細胞における発現をカタログ化した。得られたプロファイルと、タンパク質タグ付けによる細胞生物学的な検証により、死滅予定の菌糸セグメントにおけるパイロトーシス様細胞死経路の高発現を特性評価した。パイロトーシス様経路遺伝子の遺伝的ノックアウトにより、コロニーの後期段階で発生停止が引き起こされ、菌糸の成長は維持される一方で、細胞死と胞子形成が消失した。これらの知見を総合すると、パイロトーシス様経路がCoccidioidesのエンテロアセロコニディアの発生、ひいては感染能の必須条件であることが明らかになる。我々は、制御された細胞死が、多細胞生活環を持つ多くの真菌において、発生過程の事象を媒介している可能性を提案する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761871",
+    "title": "Single-vector AAV delivery of En-ISPmu1 and donor DNA for  in vivo  targeted genome integration",
+    "abstract": "TnpBs are compact RNA-guided nucleases ideally suited for  in vivo delivery. By screening novel TnpBs identified from large metagenomic datasets, ISPmu1 was discovered and its protein and ωRNA were engineered to generate En-ISPmu1, which achieved editing efficiencies exceeding 65% across 12 human loci. Owing to its compact size, En-ISPmu1 was delivered together with a donor DNA in a single AAV vector, yielding up to 12.7% targeted integration in mouse liver. These findings establish En-ISPmu1 as a promising versatile platform for  in vivo therapeutic genome editing applications.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761871",
+    "date": "2026-10-28",
+    "authors": "Conci A, Bonuzzi I, Ciciani M, Esposito F, Piccolo P, Collaud F, Ronzitti G, Auricchio A, Segata N, Cereseto A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352494",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 780,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761871"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b66819ce3cb870641c106ffaa1a8e1f773b7d15bd051d29af9a4ddb4f3cc3756",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:09:47.127398+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "117f8c546f245361c43ddbe8dad383dd3b5e71c2527e5eeddf8e93555cc8dd4c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:09:47.127398+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "in vivo標的ゲノム組み込みのためのEn-ISPmu1およびドナーDNAの単一ベクトルAAVデリバリー",
+    "abstract_ja": "TnpBは、in vivoデリバリーに最適なコンパクトなRNA誘導型ヌクレアーゼである。大規模なメタゲノムデータセットから同定された新規TnpBのスクリーニングにより、ISPmu1が発見され、そのタンパク質およびωRNAを改変してEn-ISPmu1を作製した。En-ISPmu1は、ヒトの12箇所の遺伝子座において65%を超える編集効率を達成した。そのコンパクトなサイズにより、En-ISPmu1はドナーDNAと共に単一のAAVベクターでデリバリーされ、マウス肝臓において最大12.7%の標的組み込み率を示した。これらの知見は、En-ISPmu1がin vivo治療用ゲノム編集応用に向けた有望かつ汎用性の高いプラットフォームであることを実証するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761754",
+    "title": "Multicellularity and virulence in the budding yeast,  Saccharomyces cerevisiae",
+    "abstract": "In the real world, microbes must cope with environmental fluctuations, compete for scarce resources, and avoid predation. One adaptation to survive this tangled web is the formation of multicellular aggregates, such as biofilms, which are known to be associated with pathogenicity. Despite the importance of the yeast  Saccharomyces cerevisiae to biomedical research, little is known about the natural variation in its multicellular, biofilm-related traits. We investigated five multicellular phenotypes in a diverse, worldwide panel of ∼1000 isolates. We found that all traits varied significantly and ∼2/3 of the isolates expressed at least one multicellular trait. Both recent ecology and evolutionary history explained some of this variation, with clinical isolates exhibiting increased levels of three biofilm-related traits. When tested against wax moth larvae, hyper-multicellular isolates tended to be more virulent than non-multicellular isolates. Genome-wide association analysis on each trait suggested a genetic architecture of many small effect loci, compatible with polygenic adaptation. Only four genes,  SLN1 ,  ECM5 ,  MLP2 , and  ECM9 , were shared among the traits; deletion of  MLP2 and  ECM9 verified their association with multicellularity. Our results show that this yeast expresses far more multicellularity than previously appreciated and suggest that the aggregative phenotypes are likely evolving independently.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761754",
+    "date": "2026-10-28",
+    "authors": "Zhong G, Ekdahl LI, Salchak A, Abundo A, Vanpelt Chan M, Bellamy G, Murphy H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352425",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "microbe",
+        "microbes",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 781,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761754"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1c457e2cb2b6d2d45d992f87162b384bd6200e97a94cf691ddd5bbcee13aadb4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:09:47.127398+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e78c89be956ae516e58df44ddd94775dc7bb7449af6da6465610f282f2861b9c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:09:47.127398+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "出芽酵母Saccharomyces cerevisiaeにおける多細胞性と病原性",
+    "abstract_ja": "自然界において、微生物は環境変動への対応、希少な資源をめぐる競争、そして捕食の回避を余儀なくされている。この複雑な相互関係の中で生き残るための適応の一つが、バイオフィルムのような多細胞凝集体の形成であり、これらは病原性に関連していることが知られている。生物医学研究における酵母Saccharomyces cerevisiaeの重要性にもかかわらず、その多細胞性やバイオフィルム関連形質の自然変異についてはほとんど解明されていない。我々は、世界中から収集した約1,000株の多様な分離株を用い、5つの多細胞表現型について調査した。その結果、すべての形質に有意な変異が認められ、分離株の約3分の2が少なくとも1つの多細胞形質を発現していた。近年の生態学的知見と進化史の双方がこの変異の一部を説明しており、臨床分離株では3つのバイオフィルム関連形質の発現レベルが上昇していた。ロウガ幼虫を用いた試験では、超多細胞分離株は非多細胞分離株よりも病原性が強い傾向が認められた。各形質に対するゲノムワイド関連解析の結果、ポリジェニック適応と整合する、多数の小効果遺伝子座からなる遺伝的構造が示唆された。形質間で共通していた遺伝子はSLN1、ECM5、MLP2、ECM9の4つのみであり、MLP2およびECM9の欠失により、それらの多細胞性との関連が確認された。本研究の結果は、この酵母が従来認識されていたよりもはるかに高い多細胞性を示すことを明らかにしており、凝集性表現型が独立して進化している可能性が高いことを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761465",
+    "title": "Siderophore-Mediated Competition Between Cystic Fibrosis Pathogens Increases Virulence Factor Production",
+    "abstract": "The airways of people with cystic fibrosis (CF) are colonized by a polymicrobial community and coinfections with multiple pathogens may exacerbate disease. By analyzing 16S rRNA gene sequencing datasets, we determined that  Achromobacter -  Pseudomonas coinfection was associated with worse lung function than infection with either pathogen alone, or coinfections with  Pseudomonas and other CF bacterial pathogens. We discovered  Achromobacter spp. induced production of the siderophore pyoverdine by  Pseudomonas aeruginosa strain PAO1 and other clinical isolates on synthetic CF sputum medium (SCFM), supplemented with physiologically relevant iron concentrations. We then tested 21  Achromobacter strains, encompassing seven species, and determined that 17 (81%) induced pyoverdine production. We sequenced the full genomes of these  Achromobacter and found 18 (86%) encoded a biosynthetic gene cluster for the production of alcaligin. This compound is an iron-chelating siderophore that has previously been shown to be involved in colonization of the respiratory tract by  Bordetella spp. Using mass spectrometry imaging, we confirmed that  Achromobacter dolens strain RMS0405 produces alcaligin during coculture with PAO1. Further, we found that supplementing SCFM with increasing iron abolishes pyoverdine induction by PAO1 during coculture. Pyoverdine is known to contribute directly to virulence and regulate expression of other virulence factors. Using transcriptomics and proteomics, we determined that RMS0405 induces a low-iron stress response in PAO1 and stimulates the production of exotoxin A and other known virulence factors. Together, our results indicate that  Achromobacter spp. and  P. aeruginosa may exacerbate virulence in the airways of people with CF as a byproduct of competition for iron.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761465",
+    "date": "2026-10-28",
+    "authors": "Bhowmik N, Rodriguez-Velandia L, Pérez Pérez M, Morabbi SM, Sanchez LM, Stubbendieck RM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352397",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 784,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.761465"
+    ],
+    "translation": {
+      "title": {
+        "hash": "475e7587662c935e05987cfc23c5cb235a6b3c5496290f35a9fa68d433b20406",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:09:47.127398+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ce95d7f3bca1e03ac99e56ecd485985ae57b71910d4c7c1c478219edcc6f917d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:09:47.127398+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "嚢胞性線維症病原体間の側方胞子介在性競合が病原性因子の産生を増加させる",
+    "abstract_ja": "嚢胞性線維症（CF）患者の気道には多菌叢が形成されており、複数の病原体による共感染が疾患を増悪させる可能性がある。16S rRNA遺伝子シーケンシングデータセットを解析した結果、Achromobacter属とPseudomonas属の共感染は、いずれか一方の病原体単独感染、あるいはPseudomonas属および他のCF細菌性病原体との共感染と比較して、肺機能の悪化に関連していることが判明した。我々は、生理学的に適切な鉄濃度を添加した合成CF喀痰培地（SCFM）において、Achromobacter属がPseudomonas aeruginosa PAO1株およびその他の臨床分離株によってシデロフォアであるピオベルジンの産生を誘導することを見出した。次いで、7種を含む21株のAchromobacter属株を試験し、そのうち17株（81%）がピオベルジンの産生を誘導することを確認した。これらのAchromobacter属の全ゲノムをシーケンシングしたところ、18株（86%）がアルカリギン産生のための生合成遺伝子クラスターをコードしていることが判明した。この化合物は鉄キレート性シデロフォアであり、Bordetella属による呼吸器系の定着に関与していることがこれまでに示されている。質量分析イメージングを用いて、Achromobacter dolens RMS0405株がPAO1との共培養中にアルカリギンを産生することを確認した。さらに、SCFMに鉄を添加すると、共培養におけるPAO1によるピオベルジン誘導が消失することがわかった。ピオベルジンは直接的に病原性に寄与し、他の病原性因子の発現を調節することが知られている。トランスクリプトミクスおよびプロテオミクスを用いて、RMS0405株がPAO1において低鉄ストレス応答を誘導し、エキソトキシンAおよびその他の既知の病原性因子の産生を刺激することを明らかにした。以上の結果を総合すると、Achromobacter属およびPseudomonas aeruginosaは、鉄をめぐる競合の副産物として、CF患者の気道における病原性を増悪させる可能性が示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761979",
+    "title": "Characterization of a spiramycin-inactivating macrolide esterase",
+    "abstract": "ABSTRACT  Recent functional annotation of α/β-hydrolases as macrolide esterases has the opened door to genome mining efforts exploring the sequencing diversity of the family. Nevertheless, unexplained resistance phenotypes associated with these enzymes remain in the literature. Inspired by a report of macrolide-resistant  Streptococcus uberis (1), we have annotated and characterized an enzyme named EstS as a macrolide esterase. Curiously, phylogenetic analyses revealed that EstS is most often encoded by  Escherichia coli , including human and animal pathogens, rather than Gram-positive organisms. Although EstS could hydrolyze a series of macrolides, heterologous expression of  estS conferred protection against only the natural products spiramycin and tylosin. Steady-state kinetic analyses by isothermal titration calorimetry and high-performance chromatography coupled to mass spectrometry revealed that EstS prefers spiramycin as a substrate consistent with higher protection observed in  E. coli .",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761979",
+    "date": "2026-10-28",
+    "authors": "Myziuk I, Mulla Z, Jannat T, Ruzzini A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352296",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 787,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761979"
+    ],
+    "translation": {
+      "title": {
+        "hash": "94be5ed61d7c6b66854b66f2ada7f98095cd5f2794b95cf1a6c91092181d6d90",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:09:47.127398+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4200ea0632f3f0430d9edb2b8b5c66068762e3802a4131d8a97662d7ad2d14fd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:09:47.127398+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "スピロマイシン不活化マクロライドエステラーゼの特性解析",
+    "abstract_ja": "要旨　近年、α/β-ヒドロラーゼをマクロライドエステラーゼとして機能アノテーションしたことで、本ファミリーの配列多様性を探索するゲノムマイニングの道が開かれた。それにもかかわらず、これらの酵素に関連する未解明の耐性表現型が文献に依然として存在する。マクロライド耐性Streptococcus uberis (1) の報告に着想を得て、我々はEstSと名付けられた酵素をマクロライドエステラーゼとしてアノテーションし、その特性解析を行った。興味深いことに、系統解析の結果、EstSはグラム陽性菌よりも、ヒトおよび動物の病原体を含むEscherichia coliによって最も頻繁にコードされていることが明らかになった。EstSは一連のマクロライドを加水分解し得たが、estSの異種発現によって保護効果が認められたのは、天然物であるスピラマイシンおよびチロシンのみであった。等温滴定熱量測定および質量分析法を組み合わせた高速クロマトグラフィーによる定常状態速度論解析の結果、EstSは基質としてスピラマイシンを好むことが判明し、これはE. coliで観察されるより高い保護効果と一致していた。"
   }
 ]
