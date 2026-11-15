@@ -254002,5 +254002,334 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "培養フリーのヘリコバクター・ピロリゲノム解析が示す宿主内における病原性の不均一性と抗生物質耐性",
     "abstract_ja": "ヘリコバクター・ピロリ（Hp）は世界人口の40%以上に感染しており、世界中の胃がん症例の大部分の原因となっているが、宿主内における遺伝的多様性に関する根本的な疑問は依然として未解決のままである。Hpゲノミクスに関する数十年にわたる研究は臨床分離株の培養に依存しているが、この培養過程が、Hpの病原性や薬剤耐性の基盤となる宿主内遺伝的不均一性を歪める可能性がある。培養不要の代替手法は、胃組織におけるHpの存在量が極めて少ないこと（通常、全ゲノムDNAの10⁻³～10⁻⁷）により制限されており、直接的なメタゲノミクスはコストが極めて高く、既存の濃縮戦略では全ゲノムの回収が不十分である。本研究では、胃生検組織から直接Hpゲノムを再構築するための超高感度Hpシーケンシング（uHp-seq）を開発した。uHp-seqは1,000倍のHp DNA濃縮を実現し、Hp存在量に数桁の差があるサンプル間においても、ほぼ完全なゲノムを回収する。特筆すべきは、個々の宿主が、異なる発がん能を持つ複数のHp株やcagA EPIYA変異体を共存させている可能性がある点である。一般的に用いられる6種類の抗菌薬に対する耐性関連変異は、PCRベースやプローブベースの市販パネルよりも高い精度で解析される。低侵襲な胃ストリングサンプルに適用したuHp-seqは、内視鏡検査なしで信頼性の高い耐性プロファイルを提供し、ゲノム誘導型のHp根絶への道を切り拓くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11287843/v1",
+    "title": "Genetic diversity, spatiotemporal dynamics and evolution of porcine reproductive and respiratory syndrome virus 2 (PRRSV-2) lineage 1 in China",
+    "abstract": "Abstract  Porcine reproductive and respiratory syndrome virus 2 (PRRSV-2) lineage 1 (L1) has become the dominant epidemic lineage worldwide, posing a serious threat to the swine industry. However, the fine-scale evolutionary history, spatiotemporal transmission dynamics, and molecular drivers of L1 in China remain poorly understood. In this study, 32,215 global PRRSV-2 ORF5 sequences including 1,213 ORF5 sequences from Chinese L1 strains were systemically analyzed. Phylogenetic analysis revealed a unipolar dominance of the L1C sublineage (NADC30-like strains), accounting for 86.12% of Chinese L1 strains and forming a well-supported monophyletic clade. Transmission network analysis identified Henan Province as the primary hub for cross-regional spread of L1C, with Shandong Province as the secondary hub and Fujian, Guangdong and Sichuan Provinces serving as tertiary transmission nodes. Positive selection analysis of ORF5 revealed that L1C accumulated a broader set of positively selected sites, highly enriched in B-cell epitopes and glycosylation sites, indicating a strong selective advantage in immune evasion. Furthermore, whole-genome recombination analysis of L1 identified major recombination hotspots concentrated in certain viral non-structural protein genes (nsp2, nsp9) and structural protein genes (ORF5, ORF6). Together, these findings demonstrate that the unipolar dominance of L1C in China is sustained by a synergistic cycle of transmission, antigenic evolution, and recombination, providing an important basis for precision molecular surveillance and region-specific control of PRRSV-2.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11287843/v1",
+    "date": "2026-10-26",
+    "authors": "Chi C, Yang N, Zhang P, Jiang S, Zheng W, Chen N, Zhu J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350095",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 510,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11287843/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c8a43f851e32fe7d5b40cf29ca2ae86f1717d956dfc24f1e5042e4046694e0c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:25:04.192502+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "80ad00ac43144f46b6ea5c576d55bfbba5954b9fbdbcaba42fc720e957fb9983",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:25:04.192502+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国における豚繁殖・呼吸障害症候群ウイルス2型（PRRSV-2）系統1の遺伝的多様性、時空間動態および進化",
+    "abstract_ja": "要旨　豚繁殖・呼吸障害症候群ウイルス2（PRRSV-2）系統1（L1）は、世界的に主要な流行系統となっており、養豚業に深刻な脅威をもたらしている。しかし、中国におけるL1の微細な進化史、時空間的な伝播動態、および分子生物学的駆動要因については、依然として十分に解明されていない。本研究では、中国のL1株由来のORF5配列1,213件を含む、世界全体のPRRSV-2 ORF5配列32,215件を系統的に解析した。系統解析の結果、L1C亜系統（NADC30様株）が単極的に優位であることが明らかとなり、これは中国のL1株の86.12%を占め、十分な支持を得た単系統群を形成していた。伝播ネットワーク解析により、L1Cの地域間拡散における主要なハブは河南省であり、山東省が二次的なハブ、福建省、広東省および四川省が三次的な伝播ノードであることが特定された。ORF5の正の選択解析により、L1Cはより広範な正の選択部位を蓄積しており、それらはB細胞エピトープや糖鎖付加部位に高度に濃縮されていることが明らかになり、免疫逃避における強い選択的優位性が示された。さらに、L1の全ゲノム組換え解析により、特定のウイルス非構造タンパク質遺伝子（nsp2, nsp9）および構造タンパク質遺伝子（ORF5, ORF6）に集中した主要な組換えホットスポットが同定された。これらの知見を総合すると、中国におけるL1Cの単極的優位は、伝播、抗原進化、および組換えの相乗的なサイクルによって維持されており、PRRSV-2の精密な分子サーベイランスおよび地域特異的な制御のための重要な基盤となることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11318808/v1",
+    "title": "Isolation and comparative genomic characterization of Ralstonia pickettii from bronchoalveolar lavage fluid of a cat with pneumonia",
+    "abstract": "Abstract    The clinical significance of  Ralstonia pickettii  recovered from the feline lower respiratory tract remains poorly characterized. A 1.5-year-old neutered male cat presented with recurrent respiratory signs for approximately four months and pulmonary radiographic abnormalities. Bronchoalveolar lavage fluid culture yielded a  Ralstonia  isolate, whereas concurrent lavage-fluid and instrument controls showed no bacterial growth. Identification as  R. pickettii  was supported by 16S rRNA sequencing and a digital DNA–DNA hybridization value of 77.2% with the type strain. Whole-genome sequencing yielded a 5.46-Mb draft assembly comprising 70 contigs. Broth microdilution testing identified susceptibility to levofloxacin, doxycycline and trimethoprim-sulfamethoxazole, and resistance to eight tested agents, including imipenem and meropenem. Marbofloxacin susceptibility was reported separately by the commercial laboratory. Clinical improvement occurred during ongoing marbofloxacin treatment and adjunctive nebulization. Comparison with 37 public reference genomes identified 3,389 core gene clusters. The feline isolate shared 99.9727% orthologous average nucleotide identity with the reference having the shortest estimated pairwise genetic distance, an International Space Station-associated isolate. Low support for the adjacent internal branch and unequal source representation limited interpretation of fine-scale relationships and acquisition source. This case documents a species-confirmed feline lower respiratory tract isolate and its genomic context. The single-case design, absence of concurrent lavage-fluid cytology and improvement during continuing combined treatment preclude firm conclusions about causation or treatment efficacy.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11318808/v1",
+    "date": "2026-10-26",
+    "authors": "Ma Y, Wang Y, Li B, Zhang S, Pan Z, Yao H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349975",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "average nucleotide identity",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 511,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11318808/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6260ecbc36a3a01a6ef5d3ac7fc0c71af1da7f556f3b79685d90679d080414c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:25:04.192502+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8517bd5e33602aa685793799593c5a082c1bdb56a33a471a85ceb2b4b6b8ac94",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:25:04.192502+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "肺炎を呈したネコの気管支肺胞洗浄液からのRalstonia pickettiiの分離および比較ゲノム特性解析",
+    "abstract_ja": "要旨    ネコの下気道から回収されたRalstonia pickettiiの臨床的意義については、依然として十分に解明されていない。1.5歳の去勢済みオス猫が、約4か月間にわたる反復性の呼吸器症状および肺の放射線学的異常を呈して受診した。気管支肺胞洗浄液の培養によりRalstonia分離株が得られた一方、同時に行った洗浄液および器具対照では細菌の増殖は認められなかった。16S rRNAシーケンシングおよび型株とのデジタルDNA-DNAハイブリダイゼーション値77.2%により、R. pickettiiとしての同定が支持された。全ゲノムシーケンシングにより、70個のコンティグからなる5.46 Mbのドラフトアセンブリが得られた。ブロスマイクロダイリューション試験により、レボフロキサシン、ドキシサイクリン、およびトリメトプリム・スルファメトキサゾールへの感受性と、イミペネムおよびメロペネムを含む試験した8剤への耐性が認められた。マルボフロキサシンへの感受性については、民間検査機関により別途報告された。マルボフロキサシンの継続投与および補助的なネブライザー治療により、臨床的改善が認められた。37種類の公開リファレンスゲノムとの比較により、3,389個のコア遺伝子クラスターが同定された。このネコ分離株は、推定ペアワイズ遺伝的距離が最も短いリファレンスである国際宇宙ステーション関連分離株と、99.9727%のオーソログ平均ヌクレオチド同一性を共有していた。隣接する内部分岐および不均等なソース表現の支持度が低かったため、微細なスケールの関係性および獲得源の解釈は限定的であった。本症例は、種が確定されたネコ下気道分離株とそのゲノム学的背景を報告するものである。単一症例のデザインであること、同時の洗浄液細胞診が行われなかったこと、および併用治療の継続中に改善が認められたことから、因果関係や治療効果について確定的な結論を導き出すことはできない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.25.761712",
+    "title": "Extracellular vesicle packaging of a supercluster-encoded antimicrobial combination with enhanced potency against fungal biofilms",
+    "abstract": "ABSTRACT  Bacterial specialized metabolites are bioactive compounds that have been mined extensively as antibacterials, antifungals, and other drugs. They are widely used as experimental probes of complex biological systems. Since their discovery, their functional characteristics have typically been investigated as single, soluble compounds. The discoveries in this work expand this model. First, we report the co-packaging in extracellular vesicles (EVs) of two specialized metabolite complexes, candicidin and antimycin A, the products of a supercluster of biosynthetic genes, by a  Streptomyces soil isolate. Secondly, we report that the products of this supercluster have synergistic antimicrobial activity against fungal biofilms, whereas biofilms are tolerant to the individual compounds. Finally, we show that co-packaging these compounds in EVs ensures simultaneous delivery with enhanced potency. This research advances understanding of the elegant complexity that shapes the evolution and function of bacterial specialized metabolites. In particular, the enhanced antibiofilm activity of co-packaged metabolites compared to individual soluble compounds is notable given the relevance of biofilms to microbial ecology and to pathogenesis. Our work supports the evolution of coordinated activity of specialized metabolites to counter conditional environmental challenges, and highlights co-packaging in EVs as one mechanism for secretion and co-delivery of combinations of bioactive molecules.",
+    "journal": "",
+    "doi": "10.64898/2026.10.25.761712",
+    "date": "2026-10-26",
+    "authors": "Meyer KJ, Chow V, Piliouras E, Lee Y, Ostapska H, Ojeda Valencia O, Ben Makhlouf I, Robbins N, Cowen LE, Nodwell JR.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351775",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Streptomyces",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 813,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.25.761712"
+    ],
+    "translation": {
+      "title": {
+        "hash": "94dc8e3d0aecf3ba780fc33528cdfbf6276e46d14d30116b81134ba6a7b7e505",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:25:04.192502+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fbdfbcf5a3096d76cebe48301acc93d16a0b8cc6c657cf80ed0c66691eb191d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:25:04.192502+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真菌バイオフィルムに対する効力を高めたスーパークラスター符号化抗菌薬コンビナションの細胞外小胞封入",
+    "abstract_ja": "要旨　細菌の特殊化代謝産物は、抗菌薬、抗真菌薬、およびその他の薬剤として広く抽出されてきた生物活性化合物である。これらは、複雑な生物学的システムの実験的プローブとして広く利用されている。発見以来、その機能的特性は通常、単一の可溶性化合物として研究されてきた。本研究における知見は、このモデルを拡張するものである。まず、Streptomyces属の土壌分離株により、生合成遺伝子スーパークラスターの産物である2種類の特殊化代謝産物複合体、カンディシジンおよびアンチマイシンAが細胞外小胞（EV）に共封入されたことを報告する。次に、このスーパークラスターの産物が真菌バイオフィルムに対して相乗的な抗菌活性を示す一方で、バイオフィルムは個々の化合物に対して耐性を有することを報告する。最後に、これらの化合物をEVに共封入することで、増強された効力を伴う同時送達が確保されることを示す。本研究は、細菌の特殊化代謝産物の進化と機能を形作る精妙な複雑性への理解を深めるものである。特に、微生物生態学および病原性におけるバイオフィルムの重要性に鑑みれば、個々の可溶性化合物と比較して共封入された代謝産物が示す増強された抗バイオフィルム活性は特筆すべきものである。本研究は、条件付きの環境的課題に対抗するための特殊化代謝産物の協調的活性の進化を支持するとともに、生物活性分子の組み合わせの分泌および共送達のメカニズムの一つとして、EVへの共封入を浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760862",
+    "title": "Genome-wide analysis of the annexin gene family in alfalfa (  Medicago sativa  L.) and functional characterization of  MsANN22  under drought stress",
+    "abstract": "Annexins are a conserved family of calcium-dependent phospholipid-binding proteins that participate in diverse plant stress responses. However, the annexin gene family in Medicago sativa and the molecular mechanisms underlying annexin-mediated drought tolerance remain largely unexplored. In this study, 73  MsANN genes were identified in the alfalfa genome. Their phylogenetic relationships, synteny, conserved motifs, gene structures, and promoter cis-acting elements were systematically analyzed. Synteny analysis revealed 75 segmental/whole-genome duplication-associated gene pairs but no tandem duplications, indicating that large-scale duplication was the major driver of  MsANN family expansion. The  MsANN promoters contained ABA- and drought-responsive elements. Expression profiling identified MsANN22 as a strongly drought-responsive gene encoding a cytoplasm-localized protein.  MsANN22 overexpression enhanced drought tolerance in both Arabidopsis thaliana and alfalfa: in Arabidopsis,  MsANN22 overexpression promoted seed germination under osmotic stress, whereas in alfalfa it enhanced antioxidant capacity, with superoxide dismutase and peroxidase activities reaching 1.38- and 1.70-fold those of wild-type plants, respectively. Consistently,  MsANN22 -overexpressing alfalfa accumulated approximately 20% less malondialdehyde and exhibited reduced H O and O • accumulation, as indicated by DAB and NBT staining. Yeast two-hybrid and luciferase complementation assays further supported physical interactions of MsANN22 with MsIAA and MsPR-10. These findings provide insight into the molecular mechanism by which  MsANN22 mediates drought tolerance and offer a candidate gene for improving drought resistance in alfalfa.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760862",
+    "date": "2026-10-26",
+    "authors": "Sheng Z, Jiang G, Wang J, He H, Du P, Li H, Meng Z, Shao Q, Li H, Xie Q.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351764",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 814,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760862"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dd87f54353e0efd20627ca0fbf0dee6619cfe2dfc2df91496de671b913678769",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:25:04.192502+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e6c92a54361e256fd9cbbf13636ebf3830bd6cd17778f6020d75c98632499284",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:25:04.192502+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アルファルファ（Medicago sativa L.）におけるアネキシン遺伝子ファミリーのゲノムワイド解析および干ばつストレス下におけるMsANN22の機能特性解析",
+    "abstract_ja": "アネキシンは、多様な植物ストレス応答に関与する、カルシウム依存性リン脂質結合タンパク質の保存されたファミリーである。しかし、Medicago sativaにおけるアネキシン遺伝子ファミリーおよびアネキシン介在性の耐乾性を支える分子機構については、依然として大部分が未解明である。本研究では、アルファルファゲノムにおいて73個のMsANN遺伝子を同定した。これらの系統関係、シンテニー、保存モチーフ、遺伝子構造、およびプロモーターのシス作用エレメントを系統的に解析した。シンテニー解析の結果、75組のセグメント的／全ゲノム重複関連遺伝子ペアが認められたが、タンデム重複は認められず、大規模な重複がMsANNファミリー拡大の主要な要因であったことが示された。MsANNプロモーターには、ABAおよび乾燥応答性エレメントが含まれていた。発現プロファイリングにより、MsANN22が細胞質局在タンパク質をコードする強い乾燥応答性遺伝子であることが同定された。MsANN22の過剰発現は、シロイヌナズナおよびアルファルファの双方において耐乾性を向上させた。シロイヌナズナでは、MsANN22の過剰発現が浸透圧ストレス下での種子発芽を促進した一方、アルファルファでは抗酸化能が向上し、スーパーオキシドジスムターゼおよびペルオキシダーゼ活性はそれぞれ野生型植物の1.38倍および1.70倍に達した。同様に、アルファルファでMsANN22を過剰発現させた個体では、マロンジアルデヒドの蓄積が約20%減少し、DABおよびNBT染色によって示されたように、H₂OおよびO₂の蓄積も減少した。酵母ツーハイブリッド法およびルシフェラーゼ相補法により、MsANN22とMsIAAおよびMsPR-10との物理的相互作用がさらに裏付けられた。これらの知見は、MsANN22が耐乾性を媒介する分子機構に関する洞察を与えるとともに、アルファルファの耐乾性向上のための候補遺伝子を提示するものである。"
   }
 ]
