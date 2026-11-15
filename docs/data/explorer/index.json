@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T12:47:53.925227+00:00",
-  "count": 3525,
+  "generated_at": "2026-11-15T19:34:34.215284+00:00",
+  "count": 3625,
   "years": [
     {
       "year": "2026",
-      "count": 3525,
-      "path": "data/explorer/2026-b7bc43375a07.json",
-      "bytes": 17807896
+      "count": 3625,
+      "path": "data/explorer/2026-d958faeba89a.json",
+      "bytes": 18361125
     }
   ],
   "journals": [
