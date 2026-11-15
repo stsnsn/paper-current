@@ -245513,5 +245513,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "DegQおよびSwrAは、Bacillus subtilisにおけるプロテアーゼ産生と鞭毛運動をそれぞれ異なる様式で調節する。",
     "abstract_ja": "要旨  Bacillus subtilisにおいて、DegS-DegU二成分系は、細胞外プロテアーゼの産生や、スウォーミングと呼ばれる鞭毛表面の運動性を含む、広範な適応応答を調節している。DegQとSwrAという2つのタンパク質は、それぞれリン酸化DegUの量を増加させ、DegUのDNA結合能を変化させると考えられている。本研究では、両タンパク質が機能するB. subtilis祖先株において、DegU関連表現型に対するDegQとSwrAの相対的な寄与を比較する。その結果、DegQは定常期における分泌型プロテアーゼの産生を亢進させ、対数増殖期のスウォーミング運動性を、DegSとDegUの両方に依存する機構によって抑制することが判明した。さらに、DegQによるスウォーミング抑制は、部分的にlong fla/cheオペロン内の転写レベルの低下に起因していた。対照的に、SwrAはDegSではなくDegUに依存する機構によってfla/cheオペロンのプロモーターを活性化する。また、SwrAはDegQの発現を抑制することで、細胞外プロテアーゼの産生を阻害する。以上のことから、DegQとSwrAはDegU依存的な表現型に対して相反する影響を及ぼしており、その機序も異なると結論付けられる。したがって、B. subtilisは、従来の二成分系を拡張し、遺伝子発現の差異化を実現するために、第三者調節因子を進化させた。重要性  応答調節因子DegUは、B. subtilisにおいて細胞外プロテアーゼの産生やスウォーミング運動性を含む、広範な適応応答の発現を調節している。本研究では、DegQとSwrAがDegU活性を調節することで、AprEプロテアーゼおよび鞭毛生合成のためのfla/cheオペロンの発現を逆方向に調節することを示す。本研究は、二成分系調節における補助因子の役割を浮き彫りにするとともに、実験室株の馴化過程で機能喪失した2つのタンパク質であるDegQとSwrAの関係を明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2758.v1",
+    "title": "Endoplasmic Reticulum Stress and Differential Regulation of UPR-Specific Genes in Response to SARS-CoV-2 Infection",
+    "abstract": "The coronavirus spike (S) protein is folded within the lumen of the endoplasmic reticulum (ER) and can induce ER stress and the unfolded protein response (UPR). Although SARS-CoV-2 infection is known to trigger ER stress, it remains unclear how UPR-associated genes respond across different levels of viral replication. To address this question, I quantified SARS-CoV-2 subgenomic RNAs (sgRNAs) and the expression of fourteen UPR-associated genes in A549 cells, A549 cells expressing human ACE2 (A549+hACE2), and Calu-3 cells infected with SARS-CoV-2. These genes represent the three branches of mammalian UPR. Cells with limited viral gene expression exhibited transcriptional changes consistent with adaptive UPR activation, including increased expression of genes associated with the IRE1α-XBP1 pathway and ER protein-folding functions. In contrast, cells expressing abundant viral sgRNAs displayed strong induction of the PERK-associated genes ATF4 and DDIT3, together with reduced expression of several ER chaperone genes, including HSPA5, CALR, CANX, and HSP90B1. Calu-3 cells exhibited an intermediate response. These findings reveal a continuum of ER-stress responses across increasing levels of SARS-CoV-2 infection and suggest that productive viral replication is associated with selective remodeling of the UPR transcriptional program rather than uniform activation of all UPR pathways. The results shed light on the conflict between the virus and the host cell in controlling the cell fate upon viral infection.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2758.v1",
+    "date": "2026-10-28",
+    "authors": "Xia X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352716",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2467,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2758.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "787ea27eac86827c9fb779a7dcf693e81d29fc12e980e2eb6f244831e26d8cdc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:30:53.077184+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "120e8137a5b90ba78f53ab18e16a1abaade78d3dc517fc000edeaf0025dd1ffc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:30:53.077184+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SARS-CoV-2感染に対する小胞体ストレスとUPR特異的遺伝子の差異的制御",
+    "abstract_ja": "コロナウイルススパイク（S）タンパク質は小胞体（ER）内腔でフォールディングしており、ERストレスおよび未フォールディングタンパク質応答（UPR）を誘導し得る。SARS-CoV-2感染がERストレスを誘発することは知られているが、ウイルス複製のレベルに応じてUPR関連遺伝子がどのように応答するかは依然として不明である。この疑問を解明するため、私はA549細胞、ヒトACE2発現A549細胞（A549+hACE2）、およびSARS-CoV-2感染Calu-3細胞において、SARS-CoV-2サブゲノムRNA（sgRNA）および14種類のUPR関連遺伝子の発現を定量した。これらの遺伝子は、哺乳類UPRの3つの分岐を表している。ウイルス遺伝子の発現が限定的な細胞では、IRE1α-XBP1経路およびERタンパク質フォールディング機能に関連する遺伝子の発現増加を含む、適応的UPR活性化と一致する転写変化が認められた。対照的に、ウイルスsgRNAを豊富に発現する細胞では、PERK関連遺伝子であるATF4およびDITT3の強力な誘導とともに、HSPA5、CALR、CANX、HSP90B1を含む複数のERシャペロン遺伝子の発現低下が認められた。Calu-3細胞では中間的な応答が認められた。これらの知見は、SARS-CoV-2感染レベルの上昇に伴うERストレス応答の連続体を明らかにしており、生産的なウイルス複製は、すべてのUPR経路の一様な活性化ではなく、UPR転写プログラムの選択的なリモデリングに関連していることを示唆している。本結果は、ウイルス感染時の細胞運命制御におけるウイルスと宿主細胞の対立を浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2871.v1",
+    "title": "Treating the Host, Not Only the Pathogen: The Macrolide-Resistance Paradox and Multi-Layer Computational Prioritization of Host-Directed Therapies in Pediatric Mycoplasma pneumoniae Pneumonia",
+    "abstract": "Mycoplasma pneumoniae pneumonia (MPP) has re-emerged globally since 2023, with macrolide-resistant M. pneumoniae (MRMP) exceeding 80% of isolates in China and the Republic of Korea; because tetracyclines and fluoroquinolones are age-restricted in children, no guideline-endorsed antibiotic class outside Japan combines reliable activity against resistant strains with an unrestricted pediatric safety profile. Macrolide resistance prolongs fever and hospitalization without worsening severity, implicating dysregulated host inflammation in the residual burden. We derived an MPP host disease signature from public pediatric transcriptomes and prioritized approved compounds through four executed evidence layers: pathway enrichment, network proximity, LINCS L1000 signature reversal, and literature triangulation. Re-analysis of the largest MPP blood cohort identified 159 differentially expressed genes, and the age-adjusted MPP-versus-viral model reproduced the published signature (2,976 shared genes, 99.8% concordance). The target map converges on NLRP3-IL-1β-pyroptosis and JAK-STAT axes, with a transcriptome-supported AIM2 signal; doxycycline (z = -3.81) was significantly proximal to the disease module, whereas quercetin (z = -3.03) is discounted for annotation-density artifacts. Corticosteroids anchor Tier 1, and JAK inhibitors are the highest-priority testable hypothesis. This hypothesis-generating framework provides a reproducible template for host-directed repurposing in antimicrobial-resistant pediatric respiratory infections.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2871.v1",
+    "date": "2026-10-28",
+    "authors": "Chen H, Li D, Wang X, Shen C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352601",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2468,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2871.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "df10db27e8c4efdeb6b52a312756512af791e4e66817454bdc9c7862a9ac04f1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:30:53.077184+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6f239e9936eedc355a55a1a72996b8a661a7ae905c28378ab73b71e70b1ca8d3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:30:53.077184+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "病原体だけでなく宿主を治療する：マクロライド耐性のパラドックスと小児マイコプラズマ肺炎における宿主指向性治療の多層的計算優先化",
+    "abstract_ja": "マイコプラズマ・ニューモニエ肺炎（MPP）は2023年以降、世界的に再流行しており、中国および大韓民国ではマクロライド耐性M. pneumoniae（MRMP）が分離株の80%を超えている。テトラサイクリン系およびフルオロキノロン系薬剤は小児において年齢制限があるため、日本国外でガイドラインが推奨する抗生物質クラスの中で、耐性株に対する信頼性の高い活性と、小児における制限のない安全性プロファイルを兼ね備えたものは存在しない。マクロライド耐性は、重症度を悪化させることなく発熱と入院を長期化させ、残存負荷における宿主炎症の調節不全が関与していることを示唆している。我々は、公開されている小児トランスクリプトームからMPP宿主疾患シグネチャーを導出し、パスウェイエンリッチメント、ネットワーク近接性、LINCS L1000シグネチャーの逆転、および文献トライアンギュレーションという4つの検証済みエビデンス層を通じて、承認済み化合物の優先順位付けを行った。最大規模のMPP血液コホートを再解析した結果、159個の発現変動遺伝子が同定され、年齢調整済みのMPP対ウイルスモデルは既報のシグネチャーを再現した（共有遺伝子2,976個、一致率99.8%）。ターゲットマップはNLRP3-IL-1β-パイロトーシス軸およびJAK-STAT軸に収束しており、トランスクリプトームに裏付けられたAIM2シグナルが認められた。ドキシサイクリン（z = -3.81）は疾患モジュールに有意に近接していたが、ケルセチン（z = -3.03）はアノテーション密度のアーティファクトにより除外された。副腎皮質ステロイドがTier 1に位置付けられ、JAK阻害薬が最優先の検証可能な仮説である。この仮説生成フレームワークは、薬剤耐性を伴う小児呼吸器感染症における宿主指向型リパーパシングのための、再現性のあるテンプレートを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761840",
+    "title": "Csx15 is a broad specificity ring nuclease bridging CRISPR-Cas and CBASS cyclic nucleotide signaling systems",
+    "abstract": "ABSTRACT  Prokaryotic antiviral type III CRISPR-Cas and CBASS systems use cyclic nucleotides as second messengers to activate diverse effector proteins. Whereas CBASS signaling typically triggers abortive infection, type III CRISPR-Cas signaling is tightly regulated through controlled signal production and degradation. Here, we define the molecular mechanism of the CRISPR-associated Csx15 protein family and demonstrate that Csx15 functions as a broad specificity ring nuclease capable of degrading cyclic nucleotide signals from both CRISPR-Cas and CBASS pathways. Structural and biochemical analyses reveal that Csx15 adopts diverse oligomeric states and undergoes ligand-induced conformational transitions that promote filament assembly required for catalytic activity, analogous to filament-forming SAVED-domain effectors. Finally, we provide evidence that Csx15 is a close relative of SAVED domains suggesting that Csx15-like proteins may have also contributed to the evolution of CBASS cyclic nucleotide signaling.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761840",
+    "date": "2026-10-28",
+    "authors": "Klimavicius D, Rafalski D, Smalakyte D, Ruksenaite A, Sasnauskas G, Tamulaitiene G, Venclovas Č, Bochtler M, Tamulaitis G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352456",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2483,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761840"
+    ],
+    "translation": {
+      "title": {
+        "hash": "10232b4407df35a869e68c487846e545f25101c0c2afb7742f926abac38bd289",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:30:53.077184+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2b7553d6f4600d61583214d02aec908a67df32660cec5182007eec4fff8915b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:30:53.077184+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Csx15は、CRISPR-CasとCBAS環状ヌクレオチドシグナル伝達系を橋渡しする、広範な特異性を有する環状ヌクレアーゼである。",
+    "abstract_ja": "要旨  原核生物の抗ウイルスIII型CRISPR-CasおよびCBASSシステムは、環状ヌクレオチドをセカンドメッセンジャーとして用い、多様なエフェクタータンパク質を活性化する。CBASSシグナル伝達は通常、感染の中断を引き起こすのに対し、III型CRISPR-Casシグナル伝達は、制御されたシグナルの産生と分解を通じて厳密に調節されている。本研究では、CRISPR関連Csx15タンパク質ファミリーの分子機構を解明し、Csx15がCRISPR-CasおよびCBASS経路の双方から生じる環状ヌクレオチドシグナルを分解可能な、広範な特異性を有するリングヌクレアーゼとして機能することを実証する。構造解析および生化学的解析により、Csx15が多様なオリゴマー状態をとり、フィラメント形成型SAVEDドメインエフェクターと同様に、触媒活性に必要なフィラメント構築を促進するリガンド誘導性の立体構造遷移を起こすことが明らかになった。最後に、Csx15がSAVEDドメインの近縁体であるという証拠を提示し、Csx15様タンパク質もまたCBASS環状ヌクレオチドシグナル伝達の進化に寄与した可能性を示唆する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.25.761721",
+    "title": "Oncolytic Newcastle disease virus promotes tumor cell apoptosis through SUMO-1-dependent PRKN-mediated degradation of c-Myc",
+    "abstract": "ABSTRACT  The oncogenic transcription factor c-Myc is aberrantly upregulated in many cancers and plays a central role in tumor cell proliferation and survival. However, direct pharmacological targeting of c-Myc remains challenging because of its intrinsically disordered structure. Newcastle disease virus (NDV) is an oncolytic virus with selective antitumor activity, but the molecular mechanisms by which NDV disrupts oncogenic signaling remain incompletely understood. Here, we show that NDV induces apoptosis in multiple tumor cell lines and suppresses tumor growth in an A549 xenograft model. NDV infection markedly reduced c-Myc protein levels in tumor cells in a time- and dose-dependent manner, and c-Myc knockdown further enhanced NDV-induced intrinsic apoptosis. Mechanistically, NDV promoted ubiquitin-proteasome-dependent degradation of c-Myc through ubiquitination at Lys142. Screening of candidate E3 ubiquitin ligases identified PRKN as a key mediator of NDV-induced c-Myc degradation. NDV infection induced SUMO-1-dependent nuclear translocation of PRKN, allowing PRKN to interact with nuclear c-Myc and promote its degradation. Disruption of this pathway by SUMO-1 or PRKN knockdown impaired PRKN nuclear accumulation, restored c-Myc stability, and attenuated NDV-induced apoptosis. Functionally, expression of the degradation-resistant c-Myc K142R mutant or restoration of c-Myc in c-Myc-knockdown cells protected tumor cells from NDV-induced apoptosis. Together, these findings identify a SUMO-1-PRKN-c-Myc signaling axis that mediates NDV-induced tumor cell apoptosis and reveal c-Myc destabilization as an important mechanism underlying the oncolytic activity of NDV. SIGNIFICANCE  c-Myc is one of the most important oncogenic drivers in human cancer, but it remains difficult to target directly with conventional small-molecule inhibitors. This study identifies a previously unrecognized mechanism by which oncolytic Newcastle disease virus promotes c-Myc degradation. NDV induces SUMO-1-dependent nuclear translocation of the E3 ubiquitin ligase PRKN, which mediates c-Myc ubiquitination at Lys142 and promotes its proteasomal degradation. Loss of c-Myc activates intrinsic apoptotic signaling and enhances tumor cell apoptosis. These findings reveal a new NDV-regulated SUMO-1-PRKN-c-Myc axis and provide mechanistic insight into how oncolytic viruses can eliminate tumor cells by destabilizing key oncogenic proteins.",
+    "journal": "",
+    "doi": "10.64898/2026.10.25.761721",
+    "date": "2026-10-28",
+    "authors": "Zhao C, Tang N, Shen L, Wang J, Meng S, Yu J, Zhu Y, Ke Z, Qu Y, Tan L, Song C, Qiu X, Liao Y, Sun Y, Ding C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352433",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2485,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.25.761721"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6863c5a10cc2db5910d2bc9205b467462c20890805bf55f46908301d534027ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:30:53.077184+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1488b14ac9363da61554ce22d0cc2edcf50ddd81de7af8e05fd2d642e9272973",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:30:53.077184+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腫瘍溶解性ニューカッスル病ウイルスは、SUMO-1依存的なPRKN介在性c-Myc分解を介して腫瘍細胞のアポトーシスを促進する。",
+    "abstract_ja": "要旨  発がん性転写因子c-Mycは多くのがんにおいて異常に亢進しており、腫瘍細胞の増殖と生存において中心的な役割を果たしている。しかし、c-Mycは本質的に無秩序な構造を有するため、直接的な薬理学的標的化は依然として困難である。ニューカッスル病ウイルス（NDV）は選択的な抗腫瘍活性を有する腫瘍溶解性ウイルスであるが、NDVが発がん性シグナル伝達を阻害する分子メカニズムは十分に解明されていない。本研究では、NDVが複数の腫瘍細胞株においてアポトーシスを誘導し、A549異種移植モデルにおいて腫瘍増殖を抑制することを示す。NDV感染は、腫瘍細胞におけるc-Mycタンパク質レベルを時間および用量依存的に著しく低下させ、c-MycのノックダウンはNDV誘導性の内因性アポトーシスをさらに増強した。機序的には、NDVはLys142におけるユビキチン化を介して、ユビキチン-プロテアソーム依存的なc-Mycの分解を促進した。候補E3ユビキチンリガーゼのスクリーニングにより、PRKNがNDV誘導性c-Myc分解の主要な媒介因子として同定された。NDV感染はPRKNのSUMO-1依存的な核移行を誘導し、これによりPRKNが核内c-Mycと相互作用してその分解を促進した。SUMO-1またはPRKNのノックダウンによってこの経路を阻害すると、PRKNの核内蓄積が損なわれ、c-Mycの安定性が回復し、NDV誘導性アポトーシスが減弱した。機能的には、分解耐性型c-Myc K142R変異体の発現、あるいはc-Mycノックダウン細胞におけるc-Mycの復元により、腫瘍細胞はNDV誘導性アポトーシスから保護された。以上の知見を総合すると、NDV誘導性腫瘍細胞アポトーシスを媒介するSUMO-1-PRKN-c-Mycシグナル軸が同定され、c-Mycの不安定化がNDVの腫瘍溶解活性の根底にある重要なメカニズムであることが明らかになった。意義  c-Mycはヒトがんにおける最も重要な発がんドライバーの一つであるが、従来の低分子阻害剤で直接的に標的とすることは依然として困難である。本研究は、腫瘍溶解性ニューカッスル病ウイルスがc-Mycの分解を促進する、これまで認識されていなかったメカニズムを同定した。NDVはE3ユビキチンリガーゼPRKNのSUMO-1依存的な核移行を誘導し、これがLys142におけるc-Mycのユビキチン化を媒介し、そのプロテアソーム分解を促進する。c-Mycの喪失は内因性アポトーシスシグナル伝達を活性化し、腫瘍細胞のアポトーシスを増強する。これらの知見は、NDVによって調節される新たなSUMO-1-PRKN-c-Myc軸を明らかにするとともに、腫瘍溶解性ウイルスが主要な発がん性タンパク質を不安定化させることでいかにして腫瘍細胞を排除し得るかについて、機序的な洞察を与えるものである。"
   }
 ]
