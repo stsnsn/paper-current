@@ -1323,6 +1323,13 @@
     ]
   },
   {
+    "name": "Cancer biology & medicine",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Cancer cell",
     "scope": [
       "genomics",
@@ -3286,6 +3293,13 @@
     ]
   },
   {
+    "name": "GigaByte (Hong Kong, China)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "GigaScience",
     "scope": [
       "genomics",
@@ -3450,6 +3464,13 @@
   },
   {
     "name": "Indian dermatology online journal",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "The Indian journal of medical research",
     "scope": [
       "genomics",
       "microbiology"
@@ -4941,6 +4962,13 @@
     ]
   },
   {
+    "name": "The journal of pathology. Clinical research",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of periodontal research",
     "scope": [
       "genomics",
@@ -6319,6 +6347,13 @@
   },
   {
     "name": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "New microbes and new infections",
     "scope": [
       "genomics",
       "microbiology"

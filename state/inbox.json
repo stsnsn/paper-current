@@ -387184,5 +387184,165 @@
     "related_dois": [
       "10.1007/s11033-026-13045-6"
     ]
+  },
+  {
+    "id": "10.64898/2026.11.13.766378",
+    "title": "Optimizing Avian Influenza Viral RNA Enrichment from Water: A Comparison of Concentration Methods for Low-Volume Samples",
+    "abstract": "Feed-baited water bins may provide a complementary approach for avian influenza virus (AIV) surveillance in wild waterbird populations. In a previous study, water from these bins was sampled using swabs after exposure to visiting birds, but the low sample volume limited the detection and subsequent characterization of AIV RNA (F. I. Rondi, J. Neumann-Heise, T. Harder, V. Allendorf, K. Depner, T. Homeier-Bachmann, L. Breuer, S. Knauf, S. Dreyer, and A. Globig, One Health 23:101548, 2026, https://doi.org/10.1016/j.onehlt.2026.101548). Here, we compared five sample-processing methods for improving AIV RNA detection in small (40-mL) water samples (tap and brackish water) spiked with an AIV of the H4N6 subtype under simulated field conditions: swab sampling, polyethylene glycol precipitation, activated carbon capture, combined activated carbon capture and polyethylene glycol precipitation (AC/PEG), and electronegative membrane adsorption (EM). AC/PEG and EM showed the strongest overall performance based on RT-qPCR results, although their relative performance varied across experimental conditions. The qPCR-derived viral signal was generally higher in tap water than in brackish water, whereas wheat presence was associated with a lower signal, particularly for swab sampling. Subsequent testing was conducted to ascertain the most effective storage conditions with regard to temperature and duration. During storage, AIV RNA detection remained relatively stable at minus 20 degrees Celsius for up to four weeks, with only minor increases in mean Ct values in both water matrices. Greater increases were observed at room temperature and 4 degrees Celsius, with significantly higher Ct values at both temperatures than at minus 20 degrees Celsius in both water matrices at Weeks 2 and 4 (p < 0.05). These findings support the potential of AC/PEG and EM to facilitate the recovery, detection and subsequent characterization of AIV from low-volume water samples by improving viral RNA detection using RT-qPCR. Given its overall performance and lower cost compared with EM, AC/PEG may represent a practical option for field-based surveillance. Regarding storage, minus 20 degrees Celsius provided the best conditions for maintaining AIV RNA detection, with relatively stable results for up to four weeks.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766378",
+    "date": "2026-11-14",
+    "authors": "Neumann Heise, J., Holzer, C., Stange, C., Thiem, A., Perlas, A., Urban, L., Harder, T. C., Breuer, L., Knauf, S., Globig, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766378v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "method",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4633,
+    "collected_at": "2026-11-15T11:01:16.194092+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.13.766378"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.13.766522",
+    "title": "Gain-of-function mutations in 1-phosphofructokinase (FruK) re-establish glycolysis in bacteria",
+    "abstract": "Secondary (promiscuous) activities provide enzymes with a reservoir of latent catalytic functions, which can be leveraged during selective pressure. Here we retrace the re-emergence of glycolysis from the promiscuous activity of 1-phosphofructokinase (FruK). We evolved a hexose-degradation-deficient Escherichia coli strain on glucose and recovered non-synonymous mutations in fruK. Reverse engineering, gene deletions and transcript quantification identified a modified and strongly overexpressed fruK as the determinant of the growth phenotype. Purified FruK variants phosphorylated fructose-6-phosphate in vitro, the best variant with ~170-fold improved catalytic efficiency over the wildtype enzyme. Crystal structures at up to 1.4 angstrom resolution captured FruK with ADP and either F1P, F6P or FBP bound. They identify a single active-site lysine that excludes the alternative substrate, and which E. coli FruK retains despite forgoing a 26 % gain in efficiency on its own native reaction. Since F1P, the product of the reverse reaction of FruK, is the effector of the global regulator Cra, we propose that this residue keeps glycolytic flux separate from transcriptional control. The same active-site motifs occur naturally across FruK clades, and a hexose-degradation-deficient Corynebacterium glutamicum strain converged on the same adaptation, indicating a common strategy across the Gram divide. The committed step of EMP glycolysis therefore lies a single substitution away within a widespread sugar kinase family, where it appears to be actively suppressed.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766522",
+    "date": "2026-11-14",
+    "authors": "Dronsella, B. B., Erb, T. J., Linder, S. N., Zarzycki, J., Barragan, L. T., Bonder, D., Piven, I., Hristov, S., Salehabadi, E., Satanowski, A., Schulz, L., Bar-Even, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766522v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4634,
+    "collected_at": "2026-11-15T11:01:16.194092+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.13.766522"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.13.766388",
+    "title": "Improved long-read sequencing technology reveals full genome architecture of Malian Plasmodium falciparum field isolates",
+    "abstract": "Understanding genome plasticity in malaria parasites and the diversity of their repetitive gene families requires high-quality reference genomes derived from parasites recently isolated from patients. However, generating such genomes in Plasmodium falciparum remains challenging owing to the parasite's extreme AT content, extensive repetitive regions, and the frequent occurrence of multiclonal infections in endemic settings. As a result, most available reference genomes are derived from laboratory-adapted strains, that have experienced prolonged in vitro maintenance, and that incompletely represent natural parasite diversity. We developed and optimized a de novo assembly strategy based on PacBio HiFi long-read sequencing and applied it to eight recently-isolated and cloned P. falciparum parasites from Mali. HiFi sequencing enabled highly accurate genome reconstruction, yielding assemblies with a mean of 18 contigs, 301 pseudogenes, and a frameshift rate of 0.04% following Liftoff annotation. Assemblies showed high structural integrity and near-complete chromosomes, including improved recovery of subtelomeric regions and multigene families, without requiring short-read correction. Despite overall conservation of chromosome organization, substantial variation was observed in chromosome-end architecture, subtelomeric structure, and telomeric repeat content among parasite genomes. Our approach simplifies the generation of high-quality P. falciparum genomes and reduces sequencing requirements fourfold. The resulting assemblies enabled characterization of natural variation in telomere plasticity and multicopy gene family diversity in field isolates. These findings establish PacBio HiFi sequencing as an effective and scalable strategy for producing highly contiguous and accurate de novo assemblies of P. falciparum, supporting the development of geographically-diverse, field-relevant malaria parasite reference genomes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766388",
+    "date": "2026-11-14",
+    "authors": "Diaz-Terenti, B., Diakite, M., Ranford-Cartwright, L. C., Pradhan, S., Martos-Contreras, M. d. C., Otto, T. D., Gomez-Diaz, E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766388v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4635,
+    "collected_at": "2026-11-15T11:01:16.194092+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.13.766388"
+    ]
   }
 ]
