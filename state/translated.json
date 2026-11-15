@@ -230286,5 +230286,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Gene Embedding Hub：ヒト遺伝子表現のための標準化されたリソース",
     "abstract_ja": "遺伝子埋め込みは、多様な生物学的情報源から機械学習モデルに情報を提供する、遺伝子アイデンティティのベクトル表現である。しかし、その利用は、識別子、フォーマット、および前処理規約の不統一といった標準化の欠如によって妨げられている。本研究では、タンパク質、DNAおよびRNA配列、生物医学テキスト、バルク発現データ、シングルセル発現モデル、機能データ、生物学的ネットワーク、ナレッジグラフ、調節ゲノミクス、およびマルチモーダルモデルから導出された67組のヒト遺伝子埋め込みセットからなる統一リソースを提示する。このコレクションには、既報の事前計算済み埋め込みと、公開されているモデルおよび生物学的データから生成または抽出された表現の両方が含まれている。各埋め込みセットは、埋め込み行列、Ensembl遺伝子識別子、機械可読メタデータ、および処理ドキュメントを含むフォルダに整理されている。我々は、大域的および局所的な類似性、埋め込み間コンセンサス、および埋め込み間予測可能性を測定することで、本リソースの妥当性を検証する。本コレクションは、あらかじめ定義された技術的要件およびドキュメント要件を満たすコミュニティ提供の埋め込みを可能にし、モダリティを横断した遺伝子表現の比較を実現し、学習およびダウンストリームアプリケーション向けの標準化された埋め込みを提供するように設計されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11319770/v1",
+    "title": "Global Carriage of Antimicrobial Resistance Genes and Virulence Factors Among Physicians in Cirrhosis Care",
+    "abstract": "Abstract  Cirrhosis patients are at high risk for drug-resistant infections, which may be transmitted between patients and healthcare providers. In this study, we used shotgun metagenomics to characterize the fecal microbiome of physicians in cirrhosis care (n = 55) across 9 countries. Our results indicate physicians from low- or middle-income countries carry greater antimicrobial resistance gene (ARG) diversity corresponding to increased taxonomic richness. Physicians carried a low prevalence of clinically relevant ARGs or virulence factors (VFs), regardless of country of practice or patient exposure. Further comparison of fecal microbiomes between a subset of cirrhosis patients and physicians’ fecal samples collected from the same medical facility in the United States indicated that cirrhosis patients carried a far greater burden of high-risk VFs and ARGs. Collectively, this study provides evidence that most physicians in cirrhosis care are unlikely to be a primary reservoir of drug-resistant pathogens, although further surveillance of healthcare workers is warranted.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11319770/v1",
+    "date": "2026-11-01",
+    "authors": "Sommer AJ, Sikaroodi M, Fagan A, Davis BC, Khoruts A, Gillevet PM, Bajaj JS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354812",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1583,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11319770/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a662712e867138afa4246b84e6e00462e0659187400dedde281fe22e6084e418",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:09:01.918053+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2136f03806e7ca56249f64d39f8650141eb4a91a9cb4d32e7c058f057dabcada",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:09:01.918053+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "肝硬変診療に携わる医師における薬剤耐性遺伝子および病原因子の世界的な保有状況",
+    "abstract_ja": "要旨　肝硬変患者は薬剤耐性感染症の高リスク群であり、こうした感染症は患者間や医療従事者間で伝播する可能性がある。本研究では、ショットガンメタゲノミクスを用いて、9カ国の肝硬変診療に従事する医師（n = 55）の糞便マイクロバイオームを解析した。その結果、低・中所得国の医師は、分類学的多様性の増大に対応する、より広範な薬剤耐性遺伝子（ARG）の多様性を有していることが示された。診療国や患者の曝露状況にかかわらず、医師において臨床的に意義のあるARGや病原性因子（VF）の保有率は低い水準であった。さらに、肝硬変患者のサブセットと、米国の同一医療施設で採取された医師の糞便検体との間で糞便マイクロバイオームを比較したところ、肝硬変患者は高リスクなVFおよびARGをはるかに多く保有していることが示された。総じて、本研究は、肝硬変診療に従事する医師の大部分が薬剤耐性病原体の主要なリザーバーとなる可能性は低いという証拠を示す一方で、医療従事者に対するさらなるサーベイランスの実施が必要であることも示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762279",
+    "title": "Follistatin-like 1 Promotes Neutrophil-mediated Host Defense against  Klebsiella pneumoniae",
+    "abstract": "Klebsiella pneumoniae is a leading cause of pneumonia and highly burdensome etiology of antibiotic-resistant infections constituting an urgent public health threat. Follistatin-like 1 (FSTL-1) is implicated in many processes including lung development and homeostasis, tissue remodeling, and inflammation though its role in antibacterial immunity remains poorly defined. We have observed that FSTL-1 is elevated in the lungs of both humans and mice during bacterial pneumonia. Using an inducible  Fstl1 knockout mouse model, we demonstrate that FSTL-1 is required for pulmonary bacterial clearance and neutrophil recruitment during  K. pneumoniae infection. Recombinant FSTL-1 rescues  Fstl1 -deficient susceptibility and enhances clearance of  K. pneumoniae in wild-type mice. Mechanistically, FSTL-1-mediated protection was lost upon neutrophil depletion and in  Cd14 -deficient or  Nr4a1 deficient mice – components of a lung-specific neutrophil transcriptional program. These findings identify FSTL-1 as a lung-derived factor that licenses neutrophil-mediated antibacterial defense via a novel FSTL-1/CD14/NR4A1-dependent signaling pathway critical for protection against bacterial pneumonia.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762279",
+    "date": "2026-11-01",
+    "authors": "Sugitani N, Henkel M, Applegate A, Partyka J, Wu T, Froelich NW, Dewicki A, Campfield BT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355836",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2305,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762279"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7f8f9efd621e0850df993fcf45f2ee6671e7cc7d7efa62993903236deb0ab4b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:09:01.918053+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f33ba3edb14f2fd329b1df3dd311c576e5a192bf9cd06d00891cc1aea3838b32",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:09:01.918053+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フォリスタチン様1は、肺炎桿菌に対する好中球介在性宿主防御を促進する。",
+    "abstract_ja": "Klebsiella pneumoniaeは肺炎の主要な原因であり、抗生物質耐性感染症の極めて負担の大きい病因として、喫緊の公衆衛生上の脅威となっている。フォリスタチン様1（FSTL-1）は、肺の発生と恒常性、組織リモデリング、および炎症を含む多くのプロセスに関与しているが、抗菌免疫における役割は依然として十分に解明されていない。我々は、細菌性肺炎においてヒトおよびマウスの両方の肺でFSTL-1が上昇していることを観察した。誘導性Fstl1ノックアウトマウスモデルを用いて、K. pneumoniae感染時の肺における細菌除去および好中球動員にFSTL-1が必要であることを実証した。組換えFSTL-1は、Fstl1欠損マウスの感受性を回復させ、野生型マウスにおけるK. pneumoniaeの除去能を向上させる。機序的には、FSTL-1介在性の保護作用は、好中球の枯渇、および肺特異的な好中球転写プログラムの構成要素であるCd14欠損マウスまたはNr4a1欠損マウスにおいて消失した。これらの知見は、FSTL-1を、細菌性肺炎に対する防御に不可欠な新規のFSTL-1/CD14/NR4A1依存性シグナル伝達経路を介して、好中球介在性の抗菌防御を可能にする肺由来因子として同定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10968848/v1",
+    "title": "Occult Hepatitis B Virus Infection Among HBsAg-Negative Maintenance Haemodialysis Patients in Malaysia: Association with Anti-HBs Serostatus",
+    "abstract": "Abstract  Background  Occult Hepatitis B infection (OBI)—defined as the presence of replication-competent HBV DNA in HBsAg-negative individuals—poses a severe transmission and reactivation risk in haemodialysis units. This study aims to investigate the prevalence and clinical characteristics of detectable HBV DNA among HBsAg-negative maintenance haemodialysis patients, particularly those with anti-HBc positivity. Methods  A retrospective observational study was conducted involving 2,146 patients who attended the dialysis unit at Universiti Malaya Medical Centre (UMMC) from 1 January 2019 to 30 June 2024. Patients established on maintenance haemodialysis were included, while those with HBsAg positivity or missing data were excluded. Patient demographics, clinical variables, and biochemical information were extracted from the Electronic Medical Record (EMR). Data collection was conducted using REDCap version 14.3.13, and statistical analysis was performed using SPSS version 29.0 and Python version 3.10.16. A Firth penalised multivariable binary logistic regression model was constructed utilising OBI status as the dependent variable to identify independent clinical predictors, addressing potential small-sample bias inherent in standard logistic regression. Results  Among 2,146 screened patients, 1,635 patients were included. Anti-HBc IgG positivity was identified in 23.5% (N = 384) of the cohort. HBV DNA testing was not performed in 146 patients under the testing practices prevailing during the study period. Within the tested core-positive subgroup (N = 238), overall OBI prevalence was 9.2% (N = 22). In patients with positive HBV DNA, 54.6% were concurrently Anti-HBs IgG positive (≥ 10 IU/L), and 18.2% possessed an Anti-HBs IgG level ≥ 100 IU/L. The multivariable Firth penalised logistic regression model revealed that while an Anti-HBs titre ≥ 10 IU/L was a significant negative predictor of OBI (OR 0.18, 95% CI 0.07–0.50, p = 0.001), it failed to exclude active viraemia entirely. Conclusion  Our study identified an overall OBI prevalence of 9.2% in a tested Malaysian ESKD cohort. Firth penalised logistic regression model utilising OBI status as the dependent variable confirmed that relying solely on Anti-HBs IgG to infer viral clearance is inadequate in this immunocompromised population, especially given that over half (54.6%) of OBI patients maintained Anti-HBs IgG positivity.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10968848/v1",
+    "date": "2026-11-01",
+    "authors": "Tan XYJ, Em JM, Ng ML, Lim SE, Abdullah A, Kun LS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354832",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2309,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10968848/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7d1918b7269819ebd769163f4885733e59095e10feabbd2ecac1a4284655daac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:09:01.918053+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8dc5fd13ba95b018134633d0c57966597fc4eeb3a3dca38b508001a04bc1197a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:09:01.918053+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マレーシアにおけるHBsAg陰性維持血液透析患者のオカルト性B型肝炎ウイルス感染：抗HBs血清学的状態との関連",
+    "abstract_ja": "要旨  背景  潜在性B型肝炎感染（OBI）――HBsAg陰性者における複製能を有するHBV DNAの存在と定義される――は、血液透析室において重篤な感染および再活性化のリスクをもたらす。本研究は、HBsAg陰性の維持血液透析患者、特に抗HBc陽性の患者における検出可能なHBV DNAの有病率および臨床的特徴を調査することを目的とする。方法  2019年1月1日から2024年6月30日までにマラヤ大学医療センター（UMMC）の透析室を受診した患者2,146例を対象に、後方視的観察研究を実施した。維持血液透析に移行した患者を対象とし、HBsAg陽性またはデータ欠損の患者は除外した。患者の属性、臨床変数、および生化学的情報は、電子カルテ（EMR）から抽出した。データ収集にはREDCapバージョン14.3.13を使用し、統計解析にはSPSSバージョン29.0およびPythonバージョン3.10.16を用いた。標準的なロジスティック回帰分析に内在する潜在的な小標本バイアスに対処するため、OBIステータスを従属変数として用いたFirthペナルティ付き多変数二値ロジスティック回帰モデルを構築した。結果  スクリーニング対象となった2,146例のうち、1,635例が組み入れられた。コホートの23.5%（N = 384）で抗HBc IgG陽性が確認された。研究期間中に施行されていた検査慣行に基づき、146例ではHBV DNA検査が実施されなかった。検査対象となったコア陽性サブグループ（N = 238）におけるOBIの全体的な有病率は9.2%（N = 22）であった。HBV DNA陽性患者のうち、54.6%が抗HBs IgG陽性（≥ 10 IU/L）を併発しており、18.2%が抗HBs IgG値≥ 100 IU/Lであった。多変数Firthペナルティ付きロジスティック回帰モデルの結果、抗HBs力価≥ 10 IU/LはOBIの有意な陰性予測因子であったが（OR 0.18, 95% CI 0.07–0.50, p = 0.001）、活動性ウイルス血症を完全に排除するには至らなかった。結論  本研究により、検査対象となったマレーシアのESKDコホートにおいて、OBIの全体的な有病率は9.2%であることが明らかとなった。OBIステータスを従属変数としたFirthペナルティ付きロジスティック回帰モデルにより、この免疫不全集団において、ウイルスクリアランスを推論するために抗HBs IgGのみに依存することは不十分であることが確認された。特に、OBI患者の半数以上（54.6%）が抗HBs IgG陽性を維持していたことを踏まえると、その必要性が示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11226001/v1",
+    "title": "Long-term Glucocorticoid Exposure in Angiostrongylus cantonensis Meningoencephalitis Without Eosinophilic Response—Insights Into Treatment Withdrawal From a Medical- Humanities Perspective: A case report",
+    "abstract": "Abstract    Background  Angiostrongylus cantonensis is the primary pathogen responsible for human eosinophilic meningitis. Atypical infection presentations lacking peripheral or cerebrospinal fluid (CSF) eosinophilia occasionally occur under immune-modulated conditions. Long-term glucocorticoid use is a plausible contributor to blunted eosinophilic inflammatory responses. This case highlights that chronic steroid-induced immune alteration may lead to diagnostically challenging, eosinophil-negative neuroangiostrongyliasis, requiring heightened clinical vigilance.  Case presentation  A 48-year-old male with a 30-year history of psoriasis and chronic irregular oral dexamethasone use presented with generalized pain, fever, and altered mental status. Admission laboratory tests revealed neither peripheral nor cerebrospinal fluid eosinophilia. CSF metagenomic next-generation sequencing (mNGS) identified 1853 specific reads of  Angiostrongylus cantonensis  , confirming the diagnosis of neuroangiostrongyliasis. Given the patient’s critical neurological deterioration and family concerns regarding irreversible severe neurological sequelae, the family declined antiparasitic treatment; the standard albendazole-glucocorticoid regimen was not administered.  Conclusions  To our knowledge, this is a real-world case of molecularly confirmed  A. cantonensis  meningoencephalitis characterized by double-negative eosinophil results, strongly associated with decades-long irregular glucocorticoid exposure. Normal eosinophil counts cannot rule out parasitic neuroinfection in patients receiving chronic glucocorticoid therapy. CSF-mNGS successfully resolved this diagnostic deadlock, validating its role as a critical alternative diagnostic tool when conventional testing yields negative results. Family-initiated treatment withdrawal illustrates prevalent real-world challenges in prognostic expectation management, risk communication, and shared decision-making for severe neglected tropical central nervous system infections.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11226001/v1",
+    "date": "2026-11-01",
+    "authors": "Wang Z, Xue Z, Pu Q, Zhi D, Wang W, Yu A, Dong Z, Wang G, Liu A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354575",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2311,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11226001/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4bb7839065812bb6d9d0d48c161914b6bed7e19716d1541ac4ac7189499463d0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:09:01.918053+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "44b3fe75c0704bb400e4596be5f5780d29e52391a31f49db835eb7282ff701aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:09:01.918053+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "好酸球反応を伴わないAngiostrongylus cantonensis髄膜脳炎における長期グルココルチコイド曝露―医学・人文学的視点からの治療離脱に関する知見：症例報告",
+    "abstract_ja": "要旨    背景  Angiostrongylus cantonensisは、ヒト好酸球性髄膜炎の主要な病原体である。免疫調節状態下では、末梢血または脳脊髄液（CSF）の好酸球増多を伴わない非定型的な感染像が時折認められる。長期のグルココルチコイド投与は、好酸球性炎症反応の減弱に寄与する要因として考えられる。本症例は、ステロイド誘発性の慢性的な免疫変化が、診断が困難な好酸球陰性の神経血管強直症を引き起こす可能性があり、高度な臨床的警戒が必要であることを浮き彫りにしている。  症例提示  乾癬の30年にわたる既往があり、経口デキサメタゾンを慢性的に不規則に服用していた48歳男性が、全身性疼痛、発熱、および意識状態の変化を主訴に受診した。入院時の検査では、末梢血および脳脊髄液のいずれにおいても好酸球増多は認められなかった。CSFのメタゲノム次世代シーケンシング（mNGS）によりAngiostrongylus cantonensisの特異的リードが1,853件検出され、神経血管強直症の診断が確定した。患者の重篤な神経学的悪化と、不可逆的な重度の神経学的後遺症に対する家族の懸念から、家族は抗寄生虫治療を拒否し、標準的なアルベンダゾール・グルココルチコイド併用療法は実施されなかった。  結論  我々の知る限り、本症例は分子生物学的に確認されたA. cantonensis髄膜脳炎の実臨床例であり、好酸球反応のダブルネガティブを特徴とし、数十年にわたる不規則なグルココルチコイド曝露と強く関連していた。慢性グルココルチコイド療法を受けている患者において、好酸球数が正常であっても、寄生虫による神経感染症を否定することはできない。CSF-mNGSによりこの診断上の難問が解決され、従来の検査で陰性結果が得られた場合の重要な代替診断ツールとしての有効性が検証された。家族主導による治療中止は、重症の顧みられない熱帯病による中枢神経系感染症における予後予測管理、リスクコミュニケーション、および共有意思決定において広く存在する実臨床上の課題を浮き彫りにしている。"
   }
 ]
