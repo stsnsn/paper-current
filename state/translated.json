@@ -258679,5 +258679,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ベトナム・ホーチミン市の感染症病院における血流感染を引き起こす肺炎桿菌分離株のゲノム多様性と表現型の不均一性",
     "abstract_ja": "Klebsiella pneumoniaeは従来、日和見病原体と考えられてきたが、現在では健康な個人においてもK. pneumoniaeによる血流感染症が一般的に認められ、肝膿瘍や敗血症性ショックなどの重篤な合併症を引き起こすことがある。その結果、本菌はヒト疾患の主要な原因となっている。薬剤耐性（AMR）遺伝子の重要なリザーバーである古典的K. pneumoniae（cKp）に加え、多数の病原性因子を保有する超強毒型K. pneumoniae（hvKp）が、臨床的に極めて高い懸念事項となりつつある。ベトナムにおける血流感染症（BSI）の相当数がK. pneumoniaeに関連しており、hvKpの疫学、集団構造、および伝播動態については十分に解明されている。しかし、このような状況において、病原性に関連する形質がどのように病原性の亢進に寄与しているのか、またどの遺伝的決定因子が病原性の変異に起因し得るのかについては、ほとんど解明されていない。本横断的研究では、臨床分離株のサブセットを用いてK. pneumoniae BSI分離株のゲノム構造と集団を定義し、さらに臨床症状に関連するhvKpの特異的な表現型特性を包括的に解析した。無作為に選定した83株のK. pneumoniae BSI分離株のゲノム解析により、KpI系統が最も一般的な系統（91.5%）であることが明らかになった。超強毒型配列タイプ23（ST23）が最も高頻度（18.5%）であり、次いで多剤耐性（MDR）系統であるST15およびST17（それぞれ7.7%）であった。hvKp ST23の特異的な表現型病原性試験では、同等の病原性因子群を保有しているにもかかわらず、病原性ポテンシャルに著しいばらつきが認められた。ST23分離株間のゲノム変異を包括的に解析した結果、異なる遺伝的背景が存在すること、および観察された表現型の多様性に関与し得る必須遺伝子に異なる変異が生じていることが明らかになった。これらの知見は、ベトナム由来のhvKp分離株の病原性ポテンシャルを示すとともに、これらの群に属する菌株による臨床的脅威を理解するための、表現型予測の改善の必要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11316217/v1",
+    "title": "Predicting carbapenemase production in Pseudomonas aeruginosa using machine learning on disk diffusion data",
+    "abstract": "Abstract    Purpose  : Detection of carbapenemase-production in  Pseudomonas aeruginosa  is challenging due to the co-occurrence of multiple resistance mechanisms. We developed a novel machine learning approach to predict carbapenemase production based on inhibition zone diameters (IZD) from routine disk diffusion testing.  Methods  : A CatBoost model (CBM) was trained on 246 whole-genome-sequenced clinical  P. aeruginosa  isolates, including 95 carbapenemase-producing  P. aeruginosa  (CPPA). Models based on different antibiotic combinations were evaluated and externally validated on two independent datasets. Performance was benchmarked against the phenotypic screening algorithm described by Gill  et al.  Results  : For Dataset 1, CBM achieved a sensitivity and specificity of 94% and 98%, compared with 94% and 38% for the Gill  et al.  algorithm. For Dataset 2, sensitivity/specificity were 95%/98% for CBM vs 100%/0% for the Gill algorithm. This represented a reduction in isolates requiring confirmatory testing of 76% in Dataset 1 and 52% in Dataset 2.  Conclusions  : CatBoost models trained on IZD represent a valuable tool for carbapenemase prediction in PA, substantially improving diagnostic performance and reducing the number of confirmatory tests required. These findings highlight the potential of machine learning to streamline the detection of resistance mechanisms within routine susceptibility testing workflows and may improve recognition of CPPA, especially in resource-limited settings.  Importance  : This approach could reduce unnecessary confirmation-testing for carbapenemases in  P. aeruginosa  , saving time and resources in clinical settings. It underscores the value of integrating machine learning with phenotypic data to address antimicrobial resistance challenges.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11316217/v1",
+    "date": "2026-10-26",
+    "authors": "Hamprecht A, Schaffarczyk L, Muhsal L, Laufenberg R, Pfennigwerth N, Gatermann S, Mancini S, Egli A, Nolte O, Strodthoff N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350267",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2576,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11316217/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fe70303bcf69b08e5503ab3dfb590b837ccdbca5672639e016f2b1fb9dc55678",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:50:23.629206+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f637c41463f4e40299729da2be5ffc2e9c1ebca86a8e99ab6e16c514419d5f0c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:50:23.629206+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ディスク拡散データを用いた機械学習によるPseudomonas aeruginosaのカルバペネマーゼ産生予測",
+    "abstract_ja": "要旨    目的  ：Pseudomonas aeruginosaにおけるカルバペネマーゼ産生の検出は、複数の耐性機構が共存するため困難である。我々は、ルーチンのディスク拡散試験による阻止円径（IZD）に基づき、カルバペネマーゼ産生を予測する新規機械学習手法を開発した。  方法  ：CatBoostモデル（CBM）を、カルバペネマーゼ産生P. aeruginosa（CPPA）95株を含む、全ゲノム配列が決定された臨床用P. aeruginosa分離株246株を用いて学習させた。異なる抗生物質組み合わせに基づくモデルを評価し、2つの独立したデータセットを用いて外部検証を行った。性能は、Gillらによって報告された表現型スクリーニングアルゴリズムと比較して検証した。結果  ：データセット1において、CBMは感度94%、特異度98%を達成したのに対し、Gillらのアルゴリズムでは感度94%、特異度38%であった。データセット2では、感度/特異度はCBMが95%/98%であったのに対し、Gillのアルゴリズムでは100%/0%であった。これにより、確定診断試験を必要とする分離株数が、データセット1で76%、データセット2で52%減少した。  結論  ：IZDを用いて学習させたCatBoostモデルは、PAにおけるカルバペネマーゼ予測のための有用なツールであり、診断性能を大幅に向上させ、必要となる確定診断試験の数を削減する。これらの知見は、ルーチンの感受性試験ワークフローにおける耐性機構の検出を効率化する機械学習の可能性を浮き彫りにしており、特に資源の限られた環境においてCPPAの認識向上に寄与する可能性がある。  重要性  ：本手法は、P. aeruginosaにおけるカルバペネマーゼの不要な確定診断試験を削減し、臨床現場における時間と資源を節約できる可能性がある。また、薬剤耐性の課題に対処するために、機械学習を表現型データと統合することの価値を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11272130/v1",
+    "title": "CausalDiffChem: Causal Network Restoration for Therapeutic Prioritization and Repurposing Across Diseases",
+    "abstract": "Abstract  Computational drug repurposing commonly relies on transcriptomic signature matching to identify compounds that reverse disease-associated gene expression, but such approaches do not distinguish putative causal drivers from downstream consequences of disease. Here, we present CausalDiffChem, a causal-network-guided framework that reconstructs disease-specific structural causal models from transcriptomic data using the NOTEARS algorithm and prioritizes compounds according to net_correction, a measure of network restoration under a simulated intervention propagated through the inferred linear structural causal model. We applied CausalDiffChem to multiple sclerosis, sarcoidosis, leishmaniasis and Alzheimer's disease, comprising 408 disease samples and 374 healthy controls. Independently reconstructed networks recovered biologically coherent disease-associated architecture, including a dominant apolipoprotein D interaction in Alzheimer's disease and a macrophage-associated regulatory axis in sarcoidosis. Screening FDA-approved, clinical-stage and preclinical compound libraries identified disease-specific candidates and recurrent prioritization across independently constructed networks. Cisplatin ranked first in both the FDA-approved and clinical-stage sarcoidosis libraries and recurred among the top-ranked candidates across multiple diseases, whereas memantine hydrochloride ranked first across all three compound libraries in leishmaniasis with identical restoration scores. Gene-level analyses further showed that high aggregate restoration could coexist with limited correction of dominant network interactions or discordant global alignment, demonstrating that network restoration, breadth and global transcriptional similarity capture complementary dimensions of therapeutic response. CausalDiffChem therefore provides an interpretable framework for prioritizing therapeutics according to their predicted effects on disease-specific regulatory structure, without requiring curated pathway annotations, and generates experimentally testable hypotheses for drug repurposing across heterogeneous diseases.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11272130/v1",
+    "date": "2026-10-26",
+    "authors": "Armah F, Abor E, Sam P, Sarpong E, Ghartey-Kwansah G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350185",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "framework",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2577,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11272130/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "42814d7c74a2a7b39af89864ae3c0f091f5a44b398f139690752b538918c428f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:50:23.629206+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b883e9039b32659843056b785c3ba810a86220d4fd328a59cf2c5e836ccd5bc7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:50:23.629206+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CausalDiffChem: 疾患横断的な治療優先順位付けと転用のための因果ネットワーク復元",
+    "abstract_ja": "要旨　計算科学的なドラッグリパーパシングでは、疾患関連遺伝子発現を逆転させる化合物を同定するためにトランスクリプトーム・シグネチャーマッチングが一般的に用いられているが、こうした手法では、推定される因果的駆動因子と疾患の下流的な帰結を区別することができない。本研究では、NOTEARSアルゴリズムを用いてトランスクリプトームデータから疾患特異的な構造因果モデルを再構成し、推論された線形構造因果モデルを通じて伝播するシミュレーション上の介入下におけるネットワーク復元度の指標であるnet_correctionに基づいて化合物の優先順位付けを行う、因果ネットワーク誘導型フレームワーク「CausalDiffChem」を提案する。我々は、多発性硬化症、サルコイドーシス、リーシュマニア症、およびアルツハイマー病を対象に、408例の疾患サンプルと374例の健常対照群を用いてCausalDiffChemを適用した。独立して再構成されたネットワークは、アルツハイマー病における支配的なアポリポタンパク質D相互作用や、サルコイドーシスにおけるマクロファージ関連の調節軸など、生物学的に整合性のある疾患関連アーキテクチャを復元した。FDA承認済み、臨床段階、および前臨床段階の化合物ライブラリをスクリーニングした結果、疾患特異的な候補化合物が同定され、独立して構築されたネットワーク間で一貫した優先順位付けが確認された。シスプラチンは、FDA承認済みおよび臨床段階のサルコイドーシスライブラリの両方で第1位となり、複数の疾患において上位候補として繰り返し出現した。一方、メマンチン塩酸塩は、リーシュマニア症の3つの化合物ライブラリすべてにおいて第1位となり、復元スコアも同一であった。遺伝子レベルの解析により、高い総体的な復元度が、支配的なネットワーク相互作用の限定的な補正や不一致なグローバルアライメントと共存し得ることが示され、ネットワークの復元度、網羅性、およびグローバルな転写類似性が、治療反応の相補的な次元を捉えていることが実証された。したがって、CausalDiffChemは、キュレートされたパスウェイアノテーションを必要とせず、疾患特異的な調節構造に対する予測効果に基づいて治療薬の優先順位付けを行う解釈可能なフレームワークを提供し、異種疾患にわたるドラッグリパーパシングのための実験的に検証可能な仮説を生成する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10299590/v1",
+    "title": "Global trait patterns and the economics spectrum of wood-inhabiting fungi",
+    "abstract": "Abstract  Wood-inhabiting fungi drive woody debris decomposition and forest carbon cycling, with their functional trait trade-offs and environmental adaptation strategies substantially shaping forest carbon sink dynamics. However, global-scale functional trait trade-offs and the adaptive responses to environmental gradients remain poorly understood. Here, we synthesized 26 key traits across 7,454 wood-inhabiting fungal species, integrating with approximately 4.58 million georeferenced occurrence records, to investigate the multidimensional trade-offs, environmental driving mechanisms, and future shifts of fungal functional traits. Our results reveal that fungal traits exhibit intramodule synergy and intermodule trade-offs. Three-dimensional functional axes cumulatively explain 72.1% of the total trait variation, with the microscopic reproductive–dispersal investment axis contributing 42.4%, as the primary driver of functional evolution. Climate and topography hierarchically govern trait axes: temperature and precipitation suppress microscopic reproductive–dispersal traits, whereas elevation positively regulates basidial and spore dimensions. Along the resource acquisition axis, temperature and elevation reduced generative hyphae, precipitation suppresses skeletal hyphae, and temperature, precipitation, and LAI synergistically promote binding hyphal thickening, with slope and aspect exerting secondary modulation. Environmental gradients elicited non-linear responses, low latitudes moderately expand reproductive–dispersal structures, whereas high latitudes exhibit compensatory decrease–increase patterns and trait decoupling, shifting toward brown-rot, gymnosperm-associated, monomitic, and thick-walled spore strategies. Under future climate change, fungal traits are projected to reorganize through macroscopic expansion, microscopic contraction, and hyphal reinforcement. This study establishes the first global wood-inhabiting fungal economics spectrum, elucidating adaptive mechanisms including stress compensation and macro-micro trait decoupling, and identifying key environmental dimensions underlying functional differentiation. This framework may improve the parameterization of fungal functional traits in Earth system models and improve mechanistic predictions of forest carbon-cycle feedbacks.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10299590/v1",
+    "date": "2026-10-26",
+    "authors": "Zhu B, Liu S, Zhang S, Ni C, Han M, Xu C, Ma H, Mo L, Jönsson M, Bässler C, Cui B.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350156",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2578,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10299590/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e1bf0c61cc93ea58d7a3086473caa782d3ab9d1f61b025c969dc9924e5dab4ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:50:23.629206+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5ad81600675d22ad4b27a18577dbcd0ee02dd220f17c8f335be9139455fb4ceb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:50:23.629206+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "木材寄生菌の世界的形質パターンと生態学的スペクトラム",
+    "abstract_ja": "要旨　木材生息菌類は、木質残渣の分解と森林炭素循環を駆動しており、その機能的形質のトレードオフと環境適応戦略が、森林炭素吸収源の動態を著しく規定している。しかし、地球規模での機能的形質のトレードオフや、環境勾配に対する適応応答については、依然として十分に解明されていない。本研究では、7,454種の木材生息菌類にわたる26の主要形質を、約458万件の地理参照済み出現記録と統合して解析し、菌類の機能的形質における多次元的なトレードオフ、環境駆動メカニズム、および将来的な変化を調査した。その結果、菌類の形質にはモジュール内シナジーとモジュール間トレードオフが存在することが明らかになった。3次元の機能的軸は、全形質変動の72.1%を累積的に説明しており、中でも微視的な生殖・散布投資軸が42.4%を占め、機能的進化の主要な駆動要因となっている。気候と地形は形質軸を階層的に支配しており、気温と降水量は微視的な生殖・散布形質を抑制する一方、標高は担子器および胞子のサイズを正方向に調節する。資源獲得軸においては、気温と標高が生殖菌糸を減少させ、降水量が骨格菌糸を抑制し、気温、降水量、およびLAIが相乗的に結合菌糸の肥厚を促進するとともに、傾斜とアスペクトが二次的な調節作用を及ぼす。環境勾配は非線形な応答を誘発し、低緯度では生殖・散布構造が適度に拡大する一方、高緯度では代償的な減少・増加パターンと形質のデカップリングが見られ、褐色腐朽、裸子植物関連、単味胞子、および厚壁胞子戦略へと移行する。将来の気候変動下では、菌類の形質は巨視的な拡大、微視的な収縮、および菌糸の強化を通じて再編成されると予測される。本研究は、初の地球規模の木材生息菌類経済スペクトラムを確立し、ストレス補償やマクロ・ミクロ間の形質デカップリングを含む適応メカニズムを解明するとともに、機能的分化の根底にある主要な環境次元を特定した。この枠組みは、地球システムモデルにおける菌類の機能的形質のパラメータ化を改善し、森林炭素循環フィードバックのメカニズム的な予測を向上させる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11115569/v1",
+    "title": "Probiotic Traits and Anti-Biofilm Potential of Bacillus subtilis JS03 From Freshwater Sponge Ephydatia fluviatilis Against Clinical Pathogens",
+    "abstract": "Abstract    Probiotics have been used for centuries to stimulate the immune system and serve as a promising alternative to antibiotics. This study investigated whether  Bacillus subtilis  JS03, isolated from the freshwater sponge  Ephydatia fluviatilis  , possesses significant probiotic characteristics. The isolate was identified through Gram staining, colony morphology, biochemical tests, and 16S rDNA sequencing, and screened for amylase, cellulase, gelatinase, protease, and lipase production, all yielding positive results. Probiotic characterization included survival at varying pH (1–5), bile salt concentrations (0.15–3%), sodium chloride concentrations (1–5%), and temperatures (40–80°C), alongside evaluation of auto-aggregation, hydrophobicity, and hemolytic activity. The isolate demonstrated moderate acid tolerance, with 80.76% survival at pH 3–4, 96.55% survival at 3% bile salt (3.5 × 10⁷ CFU/mL), relative growth OD of 0.617 at 1% NaCl, and 88.4% viability at 60°C for 30 min.  B. subtilis  JS03 exhibited strong antibacterial activity against  S. aureus  MTCC 737 (20 mm inhibition zone) and other clinical pathogens, including Coagulase-negative  Staphylococcus  spp., MSSA, and  Enterococcus faecalis  . Antimicrobial susceptibility testing revealed sensitivity to norfloxacin, ciprofloxacin, chloramphenicol, meropenem, and imipenem, with resistance to penicillin, ampicillin, tetracycline, and streptomycin. Non-hemolytic activity and absence of lecithinase production indicated no major pathogenic traits. Overall,  B. subtilis  JS03 demonstrates robust stress tolerance and significant antimicrobial activity, supporting its strong potential as a probiotic candidate.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11115569/v1",
+    "date": "2026-10-26",
+    "authors": "Arafath Y, Mannil M, Fathima A, Bharathan A, Gokila S, Kiran GS, Hassan S, Selvin J.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350085",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rdna",
+        "Bacillus"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2579,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11115569/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eddf3dd80c2224cdd1ed3c7bab06e478a418026b5667f3d6453519d42feab850",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:50:23.629206+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c9cd36e2c4a32d0df7a8ce73c43dfc55cd77d483aa6838f86e18b191c07fcaba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:50:23.629206+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "淡水海綿 Ephydatia fluviatilis 由来 Bacillus subtilis JS03 の臨床病原体に対するプロバイオティクス特性および抗バイオフィルム能",
+    "abstract_ja": "要旨    プロバイオティクスは、免疫系の活性化および抗生物質に代わる有望な選択肢として、数世紀にわたり利用されてきた。本研究では、淡水海綿 Ephydatia fluviatilis から単離した Bacillus subtilis JS03 が、顕著なプロバイオティクス特性を有するか否かを検討した。本分離株は、グラム染色、コロニー形態、生化学的試験、および16S rDNAシーケンシングにより同定され、アミラーゼ、セルラーゼ、ジェラチナーゼ、プロテアーゼ、およびリパーゼの産生についてスクリーニングを行った結果、いずれも陽性であった。プロバイオティクスとしての特性評価には、様々なpH（1–5）、胆汁酸塩濃度（0.15–3%）、塩化ナトリウム濃度（1–5%）、および温度（40–80°C）における生存率の確認に加え、自己凝集性、疎水性、および溶血活性の評価が含まれた。本分離株は中程度の耐酸性を示し、pH 3–4で80.76%、3%胆汁酸塩（3.5 × 10⁷ CFU/mL）で96.55%の生存率、1% NaClで0.617の相対増殖至度（OD）、および60°Cで30分間88.4%の生菌率を示した。B. subtilis JS03 は、S. aureus MTCC 737（20 mm 阻止円）および、コアグラーゼ陰性ブドウ球菌属、MSSA、Enterococcus faecalis を含むその他の臨床病原体に対して強い抗菌活性を示した。薬剤感受性試験の結果、ノルフロキサシン、シプロフロキサシン、クロラムフェニコール、メロペネム、およびイミペネムに感受性を示し、ペニシリン、アンピシリン、テトラサイクリン、およびストレプトマイシンには耐性を示した。非溶血活性およびレシチナーゼ産生の欠如は、主要な病原性形質がないことを示していた。総じて、B. subtilis JS03 は強固なストレス耐性と顕著な抗菌活性を示しており、プロバイオティクス候補としての高い潜在能力を裏付けるものである。"
   }
 ]
