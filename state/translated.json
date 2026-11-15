@@ -252704,5 +252704,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "大規模ATAC-Seqデータの前処理におけるベストプラクティス：疫学研究においてより厳格な処理が求められる理由",
     "abstract_ja": "シーケンシングを用いたトランスポザーゼアクセス可能クロマチンのアッセイ（ATAC-seq）および関連技術は、健康時および疾患時における遺伝子発現を制御するエピジェネティック機構に関する極めて重要な知見を提供する。生物学的に意義のあるクロマチンアクセシビリティシグナルの正確な同定は、依然として十分に解明されていない解析上の課題である。シーケンシング技術の進歩により、ATAC-seqデータセットの規模と複雑性が増大しており、スケーラブルで再現性が高く、かつ堅牢な計算解析フレームワークへの需要が高まっている。クロマチンアクセシビリティ領域を同定するピークコーリングは、あらゆる後続の定量解析の基盤となる重要なステップである。しかし、最適なピークコーリング戦略については合意が得られていない。本研究では、大規模ATAC-seqデータセットの品質管理およびピークセットのキュレーションのための新規バイオインフォマティクスパイプラインPIPPA（Pipeline for Integrative Peak calling in Population-scale ATAC-seq）を提案する。2つの独立した細胞種別ソート済みATAC-seqデータセットを用いて、ピークコーリングの性能がデータセットに依存すること、および単一の有意性閾値ではあらゆるシナリオにおいて最適に機能しないことを示す。さらに、高信頼度のクロマチンアクセシビリティプロファイルを生成するためのパラメータに関する実践的な推奨事項を提示する。我々のピークコーリング手法は、ChIP-seqやCUTcTagなどの他のゲノムワイドエピゲノムアッセイにも適用可能である。このプロセスを標準化することで、PIPPAパイプラインは、発達および疾患に関連するエピジェネティックな調節不全の同定に焦点を当てた疫学研究を強化する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10081230/v1",
+    "title": "Afanc: taxonomic deconvolution and probabilistic lineage assignment for pathogen genomic surveillance",
+    "abstract": "Abstract    Background:  Reliable pathogen genomic surveillance requires both broad tax- onomic sensitivity and high-resolution lineage or clade assignment, yet existing tools usually address only one of these tasks. We developed Afanc as an extensible framework that connects database construction, taxonomic deconvolution and probabilistic lineage assignment from pathogen sequencing data. Afanc source code is available at https://github.com/ArthurVM/Afanc.  Results:  Afanc integrates automated reference database construction, reference- quality and representativeness filtering, Kraken 2 report deconvolution, com- petitive mapping, variant calling and Bayesian SNP-based classification. We evaluated Afanc across Mycobacteriaceae species and subspecies assignment, mixed Mycobacteriaceae datasets, Mycobacterium tuberculosis lineage classifi- cation, Plasmodium falciparum geolineage prediction and Mpox lineage clas- sification. Afanc resolved Mycobacteriaceae taxa across all simulated coverage cohorts, including 1% genome breadth, and recovered all expected taxa from mixed datasets. For M. tuberculosis, Afanc assigned 955/958 samples at har- monised resolution with no wrong-branch calls. For P. falciparum, Afanc assigned 18,830/20,712 samples to regional lineages, outperforming Malaria-Profiler by 15.8 percentage points. For Mpox, Afanc produced no wrong-branch assignments and achieved 99.4% metadata-resolution-harmonised classification.  Conclusions:  Afanc provides a reusable framework for moving from noisy broad taxonomic evidence to interpretable lineage-level inference across diverse pathogen systems. By linking database curation, taxonomic deconvolution and probabilistic marker-based classification, Afanc supports pathogen genomic surveillance workflows in which mixed taxonomic signal, incomplete evidence and lineage ambiguity must be handled explicitly before downstream epidemiological or evolutionary interpretation.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10081230/v1",
+    "date": "2026-10-27",
+    "authors": "Morris AV, Price A, Connor T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351370",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "framework",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3905,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-10081230/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eb7fd1e6c0926a9872caf0370c44b818729a98d2129183e8272752b20eb90718",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:13:31.320829+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8637c5ede385616509ed4ef6e5158b0e575ca2375020f3c230148a75fbf717ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:13:31.320829+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Afanc: 病原体ゲノムサーベイランスのための分類学的デコンボリューションと確率的系統割り当て",
+    "abstract_ja": "要旨    背景：信頼性の高い病原体ゲノムサーベイランスには、広範な分類学的感度と高解像度の系統またはクレード割り当ての両方が求められるが、既存のツールは通常、これらのタスクのうち一方にしか対応していない。我々は、病原体シーケンシングデータからのデータベース構築、分類学的デコンボリューション、および確率的系統割り当てを連携させる拡張可能なフレームワークとしてAfancを開発した。Afancのソースコードは https://github.com/ArthurVM/Afanc で公開されている。結果：Afancは、自動リファレンスデータベース構築、リファレンス品質および代表性フィルタリング、Kraken 2レポートのデコンボリューション、コンペティティブマッピング、バリアントコール、およびベイズSNPベースの分類を統合している。我々は、Mycobacteriaceae属の種および亜種の割り当て、混合Mycobacteriaceaeデータセット、Mycobacterium tuberculosisの系統分類、Plasmodium falciparumの地理的系統予測、およびMpoxの系統分類を用いてAfancを評価した。Afancは、ゲノム幅1%を含むすべてのシミュレーションカバレッジコホートにおいてMycobacteriaceaeの分類群を同定し、混合データセットから期待されるすべての分類群を復元した。M. tuberculosisについては、Afancは調和解像度において958サンプル中955サンプルを割り当て、誤分岐判定は発生しなかった。P. falciparumについては、Afancは20,712サンプル中18,830サンプルを地域系統に割り当て、Malaria-Profilerを15.8パーセントポイント上回った。Mpoxについては、Afancは誤分岐割り当てを発生させず、メタデータ解像度調和分類において99.4%を達成した。結論：Afancは、ノイズの多い広範な分類学的エビデンスから、多様な病原体システムにわたる解釈可能な系統レベルの推論へと移行するための再利用可能なフレームワークを提供する。データベースキュレーション、分類学的デコンボリューション、および確率的マーカーベースの分類を連携させることで、Afancは、下流の疫学的または進化論的な解釈に先立ち、混合的な分類学的シグナル、不完全なエビデンス、および系統の曖昧さを明示的に処理する必要がある病原体ゲノムサーベイランスのワークフローを支援する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2664.v1",
+    "title": "Statistically Evaluating Connected Data: Topology-Aware Scores for Graph-Valued Predictions",
+    "abstract": "Graph-valued outcomes are increasingly common in a variety of scientific observations, ranging from biomedical domains such connectomes, bioinformatics networks such as protein interactions to other disparate areas such as communications and social networks . Networks are estimated by a variety of statistical and machine learning techniques such as stochastic block models and graph-learning algorithms; however, evaluation of the parameters and predictions form such learning techniques often target an external class label or require a tractable graph likelihood. We propose a topology-aware generalization of Brier-type scoring rules for direct evaluation of any graph-valued predictions through a prespecified vector of permutation-invariant graph functionals. The score is likelihood-free, strictly proper for the conditional mean of the selected topology functional, and admits an exact excess-risk identity. With block-diagonal weights, it also decomposes additively into scientifically interpretable components, such as density, degree heterogeneity, clustering, connectivity, and spectral structure. We distinguish this predictive target from likelihood-ratio testing, label classification, adjusted Rand index, area under the receiver operating characteristic curve, and class-label logarithmic loss. A matched-density simulation comparing Erdos–Rényi and random-hub networks illustrates a setting in which density-based evaluation is intentionally uninformative while the topology differs. A second empirical evaluation uses the real dataset PROTEINS benchmark of protein graphs. The proposed score is intended for out-of-sample comparison of graph forecasts, particularly when likelihoods are unavailable, misspecified, or scientifically less interpretable than selected topological features.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2664.v1",
+    "date": "2026-10-27",
+    "authors": "Banerjee A, Roy A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352808",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3944,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.20944/preprints202610.2664.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f44fb24cfe6f18f29c0d48e63f5bceffece3a44d5ff610d5cb535e4aa0e1212c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:13:31.320829+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a16a6e33bc008d590c070050023fe873faf98866ee83e1a7c4f1c8cec8efce78",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:13:31.320829+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コネクテッドデータの統計的評価：グラフ値予測のためのトポロジーを考慮したスコア",
+    "abstract_ja": "グラフ値の結果は、コネクトームなどの生物医学領域、タンパク質相互作用などのバイオインフォマティクスネットワーク、さらには通信やソーシャルネットワークといった多岐にわたる科学観測において、ますます一般的になっている。ネットワークの推定には、確率的ブロックモデルやグラフ学習アルゴリズムなど、多様な統計的手法や機械学習手法が用いられている。しかし、こうした学習手法のパラメータや予測の評価は、多くの場合、外部のクラスラベルを対象とするか、あるいは扱いやすいグラフ尤度を必要とする。本稿では、あらかじめ指定された置換不変のグラフ汎関数ベクトルを用いて、あらゆるグラフ値予測を直接評価するための、トポロジーを考慮したBrier型スコアリング規則の一般化手法を提案する。このスコアは尤度に依存せず、選択されたトポロジー汎関数の条件付き平均に対して厳密に適切であり、厳密な超過リスク恒等式を満たす。ブロック対角重みを用いることで、密度、次数不均一性、クラスタリング、連結性、スペクトル構造といった、科学的に解釈可能な成分へと加法的に分解される。本予測ターゲットを、尤度比検定、ラベル分類、調整済みRand指数、受信者動作特性曲線下面積、およびクラスラベル対数損失と区別する。Erdős–Rényiネットワークとランダムハブネットワークを比較したマッチド密度シミュレーションにより、トポロジーが異なる一方で、密度に基づく評価が意図的に情報量を欠く設定が例示される。第2の実証評価では、タンパク質グラフの実データセットであるPROTEINSベンチマークを用いる。提案するスコアは、特に尤度が利用できない場合、誤って指定されている場合、あるいは選択したトポロジー特徴量よりも科学的な解釈が困難な場合における、グラフ予測のアウトオブサンプル比較を目的としている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.762018",
+    "title": "Dynamical consequences of context-dependent mutation: visualizing antibody sequence evolution during somatic hypermutation",
+    "abstract": "Context-dependent mutation models describe how local sequence context affects individual substitution rates, but how these biases shape sequence evolution over multiple mutational steps remains challenging to characterize. Here, we develop a framework for analyzing and visualizing long-term sequence dynamics arising from context-dependent, non-reversible mutation processes. We apply it to somatic hypermutation during antibody affinity maturation, using previously inferred context-dependent mutation rates. Our analysis recovers conventional hypermutation hot- and cold-spot patterns while exposing substantial heterogeneity in mutability within these categories. We also identify sequences with low mutability that lack conventional cold-spot motifs. Applying the framework to antigen-binding regions from different antibody-encoding gene families reveals how differences in sequence composition lead to distinct mutational trajectories through sequence space, suggesting that hyper-mutation biases constrain how these regions diversify. We further show how mutational biases defined at the level of 5-nucleotide contexts propagate to the codon and amino acid levels, producing low stationary frequencies for stop codons and tyrosine and high stationary frequencies for proline. Changes in amino acid composition between naive and memory B cells are qualitatively consistent with these predictions. Together, our results provide a general framework for connecting local context-dependent mutation rates to long-term sequence evolution and demonstrate how intrinsic somatic hypermutation biases shape the relative accessibility of different regions of sequence space during affinity maturation.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.762018",
+    "date": "2026-10-27",
+    "authors": "Kovaleva VA, Meyer HV, McCandlish DM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351608",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3959,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.26.762018"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f14c1cb3782df77113250f68a753065e5420e0e8cebcbe72f901322a5f6126e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:13:31.320829+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a75adb1e4620b388923be1f25b69ee99cbcdd2e5c730bd6d48a3c32088c3cbc8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:13:31.320829+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "文脈依存的変異の動的帰結：体細胞超変異における抗体配列進化の可視化",
+    "abstract_ja": "コンテキスト依存的変異モデルは、局所的な配列コンテキストが個々の置換率にどのように影響するかを記述するが、こうしたバイアスが複数の変異ステップにわたる配列進化をどのように形作るかを特徴づけることは依然として困難である。本研究では、コンテキスト依存的な非可逆的変異プロセスから生じる長期的な配列ダイナミクスを解析・可視化するためのフレームワークを開発する。我々は、以前に推定されたコンテキスト依存的変異率を用いて、抗体親和性成熟過程における体細胞超変異にこのフレームワークを適用した。解析の結果、従来の超変異ホットスポットおよびコールドスポットパターンが再現されるとともに、これらのカテゴリー内における変異能の著しい不均一性が明らかになった。また、従来のコールドスポットモチーフを欠く、変異能の低い配列も同定した。異なる抗体符号化遺伝子ファミリー由来の抗原結合領域にこのフレームワークを適用したところ、配列組成の差異が配列空間を通じて異なる変異軌跡をもたらすことが明らかになり、超変異バイアスがこれらの領域の多様化を制約していることが示唆された。さらに、5ヌクレオチドコンテキストレベルで定義された変異バイアスがコドンおよびアミノ酸レベルへと伝播し、終止コドンとチロシンでは低い定常頻度を、プロリンでは高い定常頻度を生み出すことを示した。ナイーブB細胞とメモリーB細胞間におけるアミノ酸組成の変化は、これらの予測と定性的に一致している。以上の結果を総合すると、局所的なコンテキスト依存的変異率を長期的な配列進化に結びつける汎用的なフレームワークが提供され、固有の体細胞超変異バイアスが、親和性成熟過程における配列空間の異なる領域の相対的なアクセシビリティをどのように形作るかが実証された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760906",
+    "title": "CATFISHR: integration of transcriptome and inferred CNV profiles for comprehensive malignant cell identification",
+    "abstract": "ABSTRACT  Malignant cell identification in single-cell RNA sequencing (scRNA-seq) remains challenging because transcriptomic cell typing, somatic variant detection and inferred copy-number approaches each have modality-specific limitations. Rare or ambiguous malignant populations are especially vulnerable to misclassification or exclusion, despite their relevance to treatment resistance, minimal residual disease, and metastasis. We developed CATFISHR, a semi-automated workflow that integrates RNA-expression similarity, inferred copy-number variation (CNV) profiles, and consensus cell typing to classify malignant cells relative to high-confidence references. CATFISHR was evaluated across eight cohorts, including seven scRNA-seq datasets spanning multiple carcinomas and melanoma subtypes, and one 10x Visium spatial transcriptomics sample. Compared with available benchmarks or ground truths, CATFISHR achieved balanced accuracy > 0.85 in six of eight cohorts and F1 score > 0.80 in six of eight cohorts. Cells uniquely identified by CATFISHR as malignant (“Hidden” cells) were present in every dataset and were not consistently explained by standard quality-control metrics. In several cohorts, Hidden cells were transcriptionally closer to benchmark malignant than non-malignant compartments; in Visium data, sampled Hidden spots contained histologist-confirmed morphologically malignant cells. CATFISHR reduces missed malignant calls while preserving rare, transitional and benchmark-discordant populations for downstream investigation. GRAPHICAL ABSTRACT",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760906",
+    "date": "2026-10-27",
+    "authors": "Shukla P, Mannino M, Hofer M, Lattmann E, Haunerdinger V, Turko P, Levesque MP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351563",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3968,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.22.760906"
+    ],
+    "translation": {
+      "title": {
+        "hash": "df80005265bd59dba8c052106558063a8b02bef0b9b6faf21c37650efc614b79",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:13:31.320829+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7c9c996d7110d54f89f3fc489ab83e283e20885da29ec4de8604baa884f1907d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:13:31.320829+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CATFISHR: 網羅的な悪性細胞同定に向けたトランスクリプトームと推定CNVプロファイルの統合",
+    "abstract_ja": "要旨  シングルセルRNAシーケンシング（scRNA-seq）における悪性細胞の同定は、トランスクリプトームによる細胞型判定、体細胞変異の検出、および推定コピー数解析の各手法にモダリティ固有の限界があるため、依然として困難な課題である。希少または曖昧な悪性細胞集団は、治療抵抗性、微小残存病変、および転移との関連性が高いにもかかわらず、誤分類や除外の影響を受けやすい。我々は、RNA発現の類似性、推定コピー数変動（CNV）プロファイル、およびコンセンサス細胞型判定を統合し、高信頼度のリファレンスに基づいて悪性細胞を分類する半自動ワークフロー「CATFISHR」を開発した。CATFISHRは、複数の癌種およびメラノーマ亜型にわたる7つのscRNA-seqデータセットと、1つの10x Visium空間トランスクリプトミクスサンプルを含む計8つのコホートで評価された。既存のベンチマークやグラウンドトゥルースと比較して、CATFISHRは8つのコホートのうち6つでバランス正解率0.85超を、6つでF1スコア0.80超を達成した。CATFISHRによって悪性として特異的に同定された細胞（「Hidden」細胞）はすべてのデータセットに存在し、標準的な品質管理指標では一貫して説明できなかった。いくつかのコホートにおいて、Hidden細胞は非悪性コンパートメントよりもベンチマークの悪性コンパートメントに転写的に近かった。Visiumデータでは、サンプリングされたHiddenスポットに組織学的に確認された形態学的悪性細胞が含まれていた。CATFISHRは、見逃した悪性判定を低減しつつ、希少、移行期、およびベンチマークと不一致な細胞集団を後続の解析のために保持する。図版付き要旨"
   }
 ]
