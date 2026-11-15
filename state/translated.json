@@ -244901,5 +244901,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "小型ゲノム統合型Cas12mタンパク質を用いたコンパクトなCRISPRベースの遺伝子回路",
     "abstract_ja": "要旨  CRISPR-Casシステムはプログラム可能な転写因子として転用可能であり、遺伝子回路構築のための直交的な調節因子を実質的に無制限に提供する。しかし、一般的に用いられているdCas9ベースのシステムは、宿主に大きな負荷をかけ、標的の放出に時間を要し、さらに共通のCasタンパク質プールを巡ってガイドRNA同士が競合するため、干渉が生じる。本研究では、最近定義された小型ヌクレアーゼデッドエフェクターのサブタイプであるCas12mが、これらの制限の多くを回避することを示す。我々は、ゲノム組み込み型の誘導性Cas12m遺伝子を保有し、完全に誘導されても増殖に測定可能な影響を及ぼさない大腸菌株を作製し、Cas12mガイドRNA設計の本質的な特徴を確立した上で、これらの規則を用いて細胞計算を実装するためのNOTゲートファミリーを構築した。その結果、Cas12mによる抑制はdCas9よりも迅速に可逆的であり、競合するガイドの影響をほとんど受けないことが判明し、これにより2つの異なる代謝経路の発現を同時に制御する多層回路を構築することが可能となった。本研究は、Cas12mのような小型CRISPRエフェクターが、複雑な細胞挙動を効率的に設計するための、コンパクトで負荷の低い基盤となることを実証している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761428",
+    "title": "A single meiotic product dominates inheritance in  Mucor circinelloides",
+    "abstract": "Meiosis is a major source of genetic diversity, yet it remains poorly understood in many pathogenic fungi. In Mucorales, the causative agents of mucormycosis, sexual reproduction has been difficult to study, and reported inheritance patterns have appeared inconsistent with conventional meiosis. Here, meiosis in  Mucor circinelloides was demonstrated at genome-wide resolution by generating telomere-to-telomere chromosome assemblies from compatible mating types and analyzing parental markers distributed across the genome. The results reveal meiotic recombination and independent chromosome assortment. However, the outcome of meiosis is strikingly unconventional: all sexual spores derived from a single zygospore share an identical nuclear genotype, even when germination produces distinct sporangia. This pattern suggests that the viable progeny of each zygospore is derived from a single meiotic product, rather than from the four products expected under conventional meiosis. Mitochondrial inheritance is also uniparental, with progeny mitochondria inherited from the (+) mating-type parent. Together, these findings show that sexual reproduction in  M. circinelloides entails meiotic recombination, but restricts inheritance to a single viable nuclear product and a single mitochondrial lineage. This decoupling of recombination from equal meiotic contribution reveals a hidden layer of inheritance control in Mucorales, showing how pathogenic fungi can reshuffle chromosomes while producing genetically uniform sibling progeny, an outcome reminiscent of female meiosis in animals.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761428",
+    "date": "2026-10-28",
+    "authors": "Pérez-Arques C, Navarro-Mendoza MI, Xu Z, Wagner L, Walther G, Heitman J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352414",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1757,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.761428"
+    ],
+    "translation": {
+      "title": {
+        "hash": "05b13d7ebb3c48e2b9f2e91826241c4a967c875fe05132143202d42535d4b461",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:23:30.025621+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "23ba15d57832d43abf59a2456e6f64cbbbb3d5b262503113d786540344e1b3c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:23:30.025621+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Mucor circinelloidesにおける遺伝は単一の減数分裂産物が支配している",
+    "abstract_ja": "減数分裂は遺伝的多様性の主要な源泉であるが、多くの病原性真菌においては依然として十分に解明されていない。ムコール症の原因菌であるムコール目では、有性生殖の研究が困難であり、報告されている遺伝様式は従来の減数分裂とは矛盾するように見受けられてきた。本研究では、適合する交配型からテロメア間の染色体集合体を生成し、ゲノム全体に分布する親マーカーを解析することで、Mucor circinelloidesにおける減数分裂をゲノムワイドな解像度で実証した。その結果、減数分裂による組換えと独立した染色体分配が明らかになった。しかし、減数分裂の結果は著しく異例である。すなわち、単一の接合胞子から生じるすべての有性胞子は、発芽によって異なる胞子嚢が形成される場合であっても、同一の核遺伝子型を共有している。このパターンは、各接合胞子の生存可能な子孫が、従来の減数分裂で予想される4つの産物ではなく、単一の減数分裂産物に由来することを示唆している。ミトコンドリアの遺伝も単親性であり、子孫のミトコンドリアは(+)交配型の親から受け継がれる。これらの知見を総合すると、M. circinelloidesにおける有性生殖は減数分裂による組換えを伴うものの、遺伝を単一の生存可能な核産物と単一のミトコンドリア系統に限定していることがわかる。組換えと等しい減数分裂寄与とのこの切り離しは、ムコール目における遺伝制御の隠れた層を明らかにしており、病原性真菌が遺伝的に均一な兄弟子孫を産生しながら染色体を再編成し得る仕組みを示している。この結果は、動物の雌性減数分裂を彷彿とさせるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.24.26366361",
+    "title": "Integrating sequence-to-omics predictions and personal multi-omics for rare variant prioritization",
+    "abstract": "Sequence-to-omics (S2O) predictions and molecular outliers provide complementary evidence to prioritize functional rare variants and facilitate rare disease diagnoses. However, current approaches do not integrate both lines of evidence. We present Watershed-DL, a framework that integrates S2O predictions of variant effects from DNA and protein sequence with multi-omic outliers to identify large-effect rare variants. We applied Watershed-DL to 1000 Genomes samples with RNA-seq (n=1,030) to prioritize rare variants underlying expression, splicing, and allele-specific expression outliers, and, using a separate peak-level model, to samples with ATAC-seq (n=174) for chromatin accessibility outliers. Compared to a model without S2O predictions, Watershed-DL increased the number of prioritized variants by 61.4%, and S2O features were weighted highly in the model across all molecular signals. Prioritized variants were over 60-fold enriched for ClinVar pathogenic classifications. Matching prioritized variants to known pathogenic variants in the same gene with a concordant molecular effect identified 331 additional candidate recessive disease alleles. Applying this framework to the GREGoR rare disease cohort with RNA-seq (n=677) prioritized previously reported causal variants across 10 solved cases and identified 451 candidate variants in unsolved cases, including a diagnostic variant in  PPP1R12A and a novel candidate disease gene,  ATP5PF .",
+    "journal": "",
+    "doi": "10.64898/2026.10.24.26366361",
+    "date": "2026-10-28",
+    "authors": "Lake J, Robb E, Rosa V, Arriaga TM, Barrick R, Berger SI, Heavner BD, King CH, Ko A, LoTempio J, Nachun D, Genomics Research to Elucidate the Genetics of Rare Diseases consortium, Kundaje A, Bonner DE, Délot EC, Vilain E, Wheeler MT, Montgomery SB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352362",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "framework",
+        "prediction",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1759,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.24.26366361"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0a7186af1623da0b6a049d856cbbe70a4ee20b9d0b99c7384828c7b99e59cf66",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:23:30.025621+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "72a8a03fa0f3a2d0c58d914d25cab95c62fe40f5b8cb04ddc4e95ce245d65adb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:23:30.025621+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "希少バリアントの優先順位付けに向けたシーケンス・トゥ・オミクス予測とパーソナル・マルチオミクスの統合",
+    "abstract_ja": "Sequence-to-omics (S2O) 予測および分子アウトライヤーは、機能的希少バリアントの優先順位付けや希少疾患診断の促進において、相補的なエビデンスを提供する。しかし、現行の手法ではこれら双方のエビデンスを統合できていない。本研究では、DNAおよびタンパク質配列によるバリアント効果のS2O予測と、マルチオミクス・アウトライヤーを統合し、大効果希少バリアントを同定するフレームワーク「Watershed-DL」を提案する。我々は、RNA-seqを用いた1,000 Genomesサンプル（n=1,030）にWatershed-DLを適用して、発現、スプライシング、およびアレル特異的発現アウトライヤーの基盤となる希少バリアントの優先順位付けを行い、さらに別のピークレベルモデルを用いて、クロマチンアクセシビリティ・アウトライヤーのATAC-seqサンプル（n=174）に適用した。S2O予測を用いないモデルと比較して、Watershed-DLは優先順位付けされたバリアント数を61.4%増加させ、すべての分子シグナルにおいてS2O特徴量がモデル内で高く重み付けされた。優先順位付けされたバリアントは、ClinVarの病原性分類において60倍以上に濃縮されていた。優先順位付けされたバリアントを、一致した分子効果を持つ同一遺伝子内の既知の病原性バリアントと照合した結果、さらに331個の劣性疾患候補アレルが同定された。このフレームワークをRNA-seqを用いたGREGoR希少疾患コホート（n=677）に適用したところ、解決済みの10症例において既報の因果関係バリアントの優先順位付けが行われ、未解決症例ではPPP1R12Aの診断的バリアントや新規候補疾患遺伝子ATP5PFを含む451個の候補バリアントが同定された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.24.26366392",
+    "title": "Dense Longitudinal Multi-Omics Reveals Microbial–Metabolic–Immune Succession During Immune Checkpoint Therapy",
+    "abstract": "Immune checkpoint inhibitors (ICIs) can induce durable clinical responses, yet relationships among the gut microbiome, microbial function, intestinal metabolism, and host immunity remain incompletely resolved. We performed dense longitudinal multi-omics profiling of a single patient with colorectal cancer metastatic to the liver during ICI therapy and sustained tumor regression. Eleven serial stool samples spanning approximately 7.3 months were analyzed by 16S rRNA sequencing, microbial metatranscriptomics, metabolomics, lipidomics, and stool host-RNA immune profiling and aligned with serial clinical imaging. A major intestinal ecosystem transition accompanied the emergence of clinical response. Microbial abundance and transcriptional activity were frequently discordant, demonstrating that compositional profiling alone incompletely captured microbial dynamics. Taxon-resolved functional analysis revealed sequential microbial states rather than a single responder-associated configuration. Loss of early Bacteroides/Fusobacterium-associated functions accompanied purine/sphingolipid remodeling and changes in myeloid-associated immune signatures. At T5, a transient Bifidobacterium carbohydrate/fermentation program coincided with lactate/indole-3-lactate remodeling and broad adaptive T-cell, memory/regulatory, mucosal, and B-cell immune changes. At T6, marked Clostridium transcriptional emergence and lipid/coenzyme-A pathway activation coincided with fatty-acid/lysophospholipid remodeling and a distinct immune configuration. Historical HUMAnN reconstruction using original UniRef90 and MetaCyc resources confirmed taxon-specific, reaction-associated gene-family support for prioritized functional programs. These findings define a temporally ordered microbial–metabolic–immune succession during ICI response. Although this N-of-1 design cannot establish population generalizability, dense within-person multi-omics resolves transient functional states obscured by cross-sectional analyses and generates testable hypotheses for larger prospective cohorts and personalized studies of ICI response.",
+    "journal": "",
+    "doi": "10.64898/2026.10.24.26366392",
+    "date": "2026-10-28",
+    "authors": "Zandi E, Medetgul-Ernar K, Lenz H, Alishahi F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352344",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "metatranscriptom",
+        "metatranscriptomics",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1760,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.24.26366392"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7f9a918a83b720d9ec619b542693f3efd53356bfe260007725e40c7013949453",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:23:30.025621+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "820c8a21802cec47faec5241d8102a55deb5b94f3339fb8cd9ff17d2cdb7d707",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:23:30.025621+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "高密度縦断的マルチオミクス解析により明らかになった免疫チェックポイント療法における微生物－代謝－免疫の遷移",
+    "abstract_ja": "免疫チェックポイント阻害剤（ICI）は持続的な臨床反応を誘導し得るが、腸内マイクロバイオーム、微生物機能、腸管代謝、および宿主免疫の相互関係については依然として十分に解明されていない。我々は、ICI治療中に肝転移をきたし、腫瘍退縮が持続した大腸癌患者1例を対象に、高密度な縦断的マルチオミクスプロファイリングを実施した。約7.3か月にわたる11検体の連続便検体を、16S rRNAシーケンシング、微生物メタトランスクリプトミクス、メタボロミクス、リピドミクス、および便宿主-RNA免疫プロファイリングにより解析し、連続的な臨床画像データと照合した。臨床反応の出現に伴い、主要な腸管エコシステムの遷移が認められた。微生物量と転写活性はしばしば不一致であり、組成プロファイリングだけでは微生物動態を十分に捉えきれないことが示された。分類群レベルでの機能解析により、単一の反応者関連構成ではなく、逐次的な微生物状態が明らかになった。初期のBacteroides/Fusobacterium関連機能の喪失は、プリン/スフィンゴ脂質のリモデリング、および骨髄系関連免疫シグネチャーの変化に伴って認められた。T5において、一過性のBifidobacterium糖鎖/発酵プログラムが、乳酸/インドール-3-乳酸のリモデリング、および広範な適応性T細胞、メモリー/調節細胞、粘膜、およびB細胞の免疫変化と一致した。T6において、顕著なClostridiumの転写出現と脂質/コエンザイムA経路の活性化が、脂肪酸/リゾリン脂質のリモデリングおよび明確な免疫構成と一致した。オリジナルのUniRef90およびMetaCycリソースを用いた過去のHUMAnN再構築により、優先的な機能プログラムに対する分類群特異的な反応関連遺伝子ファミリーの支持が確認された。これらの知見は、ICI反応における時間的に順序付けられた微生物-代謝-免疫の遷移を定義するものである。このN-of-1設計では集団一般化能を確立することはできないが、同一個人内での高密度なマルチオミクス解析は、横断的解析では不明瞭な一過性の機能状態を解明し、より大規模な前向きコホートやICI反応の個別化研究に向けた検証可能な仮説を導き出すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761922",
+    "title": "Isoform-Resolved Temporal Remodeling of Transcriptome Architecture in Monkeypox Virus",
+    "abstract": "We reanalyzed previously generated replicated Oxford Nanopore direct cDNA sequencing data from six infection time points, together with cap analysis of gene expression and native direct RNA sequencing, to reconstruct full-length monkeypox virus transcripts and characterize their temporal regulation. A broad catalogue of candidate transcript models, including candidate 5′ poly(A)-associated structures, was filtered with independent 5′- and 3′-end evidence to define conservative analysis sets. Transcript-resolved profiles revealed a structured temporal program extending beyond gene-level abundance. Host-virus interaction, transcription, and nucleotide-metabolism genes contributed strongly early, whereas virion structure and morphogenesis genes dominated later. Transcription start and end site abundance profiles changed extensively over time, and many genes redistributed among alternative full-length transcript structures. Differential transcript usage was particularly prominent among host-virus interaction genes but depleted among virion structure and morphogenesis genes. Candidate 5′ poly(A)-associated transcripts also increased in relative contribution and showed locus-specific patterns. Building on our previous endpoint map, the replicated direct cDNA time course enabled temporal quantification of gene abundance, transcript-end dynamics, and isoform composition. Together, these results show that Monkeypox virus gene regulation involves coordinated remodeling of gene output, transcript boundaries, and full-length transcriptome architecture. Importance  Monkeypox virus is an emerging human pathogen with the capacity for sustained human-to-human transmission, making a detailed understanding of its molecular biology increasingly important. Viral replication depends on coordinated gene expression, and defining when and how viral genes are transcribed is essential for understanding infection. Complete transcript structures provide information that gene-level measurements cannot capture because alternative RNA forms can differ in regulatory regions, coding potential, and capacity for translation. Resolving the organization and temporal use of these transcripts therefore helps reveal how the virus controls protein production and interacts with the host cell. A transcript-level view of monkeypox virus gene regulation provides a foundation for mechanistic studies of poxvirus biology and may help identify regulatory processes or viral functions relevant to antiviral intervention.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761922",
+    "date": "2026-10-28",
+    "authors": "Nagy GÁ, Kakuk B, Csabai Z, Dörmő Á, Prazsák I, Růžek D, Holoubek J, Kemenesi G, Tombácz D, Boldogkői Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352249",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1762,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761922"
+    ],
+    "translation": {
+      "title": {
+        "hash": "736231b49f40d206c2c8fdabf47f45f9f8c687327f7917e358d87497ce7dbc25",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:23:30.025621+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a576b9833a401929b71a6c73acb8681294e731fbe3df72a767421d6a6f5990e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:23:30.025621+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サル痘ウイルスにおけるアイソフォーム分解によるトランスクリプトーム構造の時間的リモデリング",
+    "abstract_ja": "我々は、6つの感染時点において以前に生成されたOxford Nanopore直接cDNAシーケンシングの再現データを、遺伝子発現のキャップ解析およびネイティブ直接RNAシーケンシングとともに再解析し、サル痘ウイルスの全長転写産物を再構成してその時間的調節特性を明らかにした。候補5′ポリ(A)関連構造を含む広範な候補転写産物モデルを、独立した5′末端および3′末端のエビデンスを用いてフィルタリングし、保存的な解析セットを定義した。転写産物分解能のプロファイルからは、遺伝子レベルの存在量にとどまらない構造化された時間的プログラムが明らかになった。宿主-ウイルス相互作用、転写、およびヌクレオチド代謝遺伝子は初期段階で強く寄与し、その後の段階においてはビリオン構造および形態形成遺伝子が支配的となった。転写開始部位および終了部位の存在量プロファイルは経時的に大きく変化し、多くの遺伝子が代替的な全長転写産物構造間で再分配された。転写産物の利用差は、特に宿主-ウイルス相互作用遺伝子において顕著であったが、ビリオン構造および形態形成遺伝子では減少していた。候補5′ポリ(A)関連転写産物も相対的な寄与度が増加し、遺伝子座特異的なパターンを示した。我々の以前のエンドポイントマップに基づき、再現された直接cDNAタイムコースにより、遺伝子存在量、転写産物末端の動態、およびアイソフォーム組成の時間的定量が可能となった。これらの結果を総合すると、サル痘ウイルスの遺伝子調節には、遺伝子出力、転写産物境界、および全長トランスクリプトーム構造の協調的なリモデリングが関与していることが示される。重要性：サル痘ウイルスは、ヒトからヒトへの持続的な伝播能力を持つ新興のヒト病原体であり、その分子生物学を詳細に理解することがますます重要となっている。ウイルスの複製は協調的な遺伝子発現に依存しており、ウイルス遺伝子がいつ、どのように転写されるかを定義することは、感染を理解する上で不可欠である。代替的なRNA形態は、調節領域、コーディング能、および翻訳能が異なる可能性があるため、全長転写産物構造は、遺伝子レベルの測定では捉えきれない情報を提供する。したがって、これらの転写産物の組織化と時間的利用を解明することは、ウイルスがどのようにタンパク質産生を制御し、宿主細胞と相互作用するかを明らかにする一助となる。サル痘ウイルスの遺伝子調節を転写産物レベルで捉えることは、ポックスウイルス生物学の機構的研究の基盤となり、抗ウイルス介入に関連する調節プロセスやウイルス機能の特定に役立つ可能性がある。"
   }
 ]
