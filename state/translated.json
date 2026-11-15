@@ -252092,5 +252092,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "分断統治：ウイルス性二機能性RNAがRNAとタンパク質の双方を利用して腫瘍形成促進経路を調節する",
     "abstract_ja": "要旨　カポジ肉腫関連ヘルペスウイルス（KSHV）は、内皮細胞腫瘍であるカポジ肉腫（KS）およびその他のB細胞悪性腫瘍を引き起こす発がん性ヘルペスウイルスである。ウイルス転写産物であるカポシンは、主にGCリッチな直接反復配列（DR）で構成されており、KSHV複製の全段階において発現する。カポシンはポリシストロン構造を持ち、少なくとも3種類のカポシン（Kap）タンパク質をコードしている。これらのうち、KapBが最も豊富に存在し、十分に研究されている。当研究室の最近の研究により、カポシンが核小斑（NS）に存在し、NSへの保持にはDRが必要であることが明らかになった。潜伏期において、カポシンは主にNSに存在し、核外輸送されたりKapBへと翻訳されたりすることはない。ウイルス再活性化時には、豊富なカポシンの存在が、NSからのカポシンの脱出およびKapBタンパク質の産生と相関している。したがって、カポシンは潜伏性転写産物であるにもかかわらず、KapBタンパク質の産生は溶解性再活性化時にのみ起こる。KSHV潜伏期におけるNS保持によるカポシン翻訳の時空間的調節も同様に、これら2つの生体分子が異なる機能を持つ可能性を示唆している。従来、カポシンはタンパク質コードmRNAと見なされていたため、過剰発現研究では、カポシンとKapBの両方がこれらの系で産生されていたにもかかわらず、いずれかの機能がKapBに帰属されていた。カポシンが、自らがコードする転写産物とタンパク質の両方から機能を得る二機能性RNAであるという知見を踏まえると、従来の表現型をカポシンとKapBのどちらに帰属させるべきかは依然として不明である。本研究では、これら生体分子の影響を分離するための還元主義的な過剰発現系を開発した。ウイルス潜伏期のカポシンを模倣するため、報告されているKapタンパク質を翻訳しないカポシンNSを形成可能なコンストラクト（ΔStarts）を用いた。後期の溶解性再活性化を模倣するため、カポシンNSを形成せず、核から容易に核外輸送され、かつ豊富なKapBを翻訳するリコードされたコンストラクトAltBを用いた。その結果、KapBタンパク質がアクチンストレス線維の形成、細胞の肥大化、Yes関連タンパク質（YAP）の総量増加、および増殖促進性・炎症促進性転写産物を含むYAP標的遺伝子の転写増加を誘導することを見出した。対照的に、カポシンRNAは細胞自律的なp-bodyの分解を誘導し、増殖促進性および炎症促進性転写産物を全体的に減少させた。これは、カポシンが免疫シグナル伝達を抑制しつつ、細胞生存を維持している可能性を示唆している。以上の結果を総合すると、カポシンRNAとKapBタンパク質は、細胞増殖および炎症シグナル伝達経路に対して異なる、時には相反する影響を及ぼすことが実証され、ウイルス性二機能性RNAが自身のRNA産物とタンパク質産物の両方を用いてウイルス腫瘍形成を媒介する能力が浮き彫りとなった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.32942/x2jx18",
+    "title": "Rainfall increases similarity in plant species composition between grazed and ungrazed sites in a tropical semi-arid grassland",
+    "abstract": "1. In peninsular India, semi-arid grasslands support marginal farmers and rich endemic biodiversity, yet are commonly designated as wastelands, and fragmentation has caused heavy grazing by domestic and wild mammals. The impacts of unmanaged grazing and increasingly variable monsoon rainfall on the plant community are unknown. 2. We studied an ancient tropical semi-arid grassland in a drought year and a subsequent wet year. In replicated grazed and long-term ungrazed sites, we assessed plant community composition, richness, biomass, traits and functional groups, as well as invertebrate herbivory, fungal infection, soil and plant nutrient stoichiometry. 3. We found that grasses dominated over forbs and legumes. The species richness rose from 35 in the dry year to 84 in the wet year, reflecting the grassland's long evolutionary history of high variation of annual rainfall. However, community composition differed greatly between grazed and ungrazed sites, especially in the dry year. Grass Heteropogon contortus was abundant in the wet year, while Chrysopogon fulvus dominated ungrazed sites in the dry year. H. contortus may persist under heavy grazing owing to its low palatability, whereas fast-growing C. fulvus may outcompete it given sufficient rain and no grazing. Specific leaf area was unrelated to grazing, but increased in the wet year, probably reflecting more acquisitive species. 4. Most plants had insect damage, which was 10% lower in the wet year despite high community-level plant nitrogen, perhaps because high plant density reduced per capita herbivory. Fungal disease incidence was high in the wet year, possibly due to rapid pathogen growth in the humid microclimate. Plant and soil C:N ratios were low in the wet year, when greater legume cover may have increased N availability. 5. Synthesis. Both grazing and rainfall shaped the plant community. Grazing affected species composition, whereas rainfall affected species richness, herbivory and disease incidence. As climate change makes the Indian monsoon more extreme and land use confines grazers to smaller areas, plant species diversity is likely to decline, even among plants adapted to both aridity and grazing.",
+    "journal": "",
+    "doi": "10.32942/x2jx18",
+    "date": "2026-10-27",
+    "authors": "V. R S, van Nouhuys S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351515",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3527,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.32942/x2jx18"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f703463d630df82f5d34585a20e4379a002e4e6619c0d0008c8eb45c7789f262",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:07:44.252867+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ca6b7838526a7a479d923758b919585bc153bd64fced2c2f613397fe5712e39e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:07:44.252867+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "熱帯半乾燥草原において、降雨量の増加は放牧地と非放牧地における植物種組成の類似性を高める。",
+    "abstract_ja": "1. インド半島部では、半乾燥草原が周辺的な農家と豊かな固有生物多様性を支えているが、一般に荒廃地とみなされており、断片化によって家畜や野生哺乳類による激しい採食が引き起こされている。管理されていない採食や、変動の激しくなるモンスーン期の降水量が植物群落に及ぼす影響は不明である。 2. 本研究では、干ばつ年とその後の湿潤年における、古代の熱帯半乾燥草原を調査した。再現した採食地および長期の非採食地において、植物群落の組成、豊富度、バイオマス、形質および機能群に加え、無脊椎動物による食害、真菌感染、土壌および植物の栄養化学量論を評価した。 3. イネ科植物が広葉草本やマメ科植物よりも優占していることがわかった。種の豊富度は、干ばつ年の35種から湿潤年の84種へと増加しており、これは年間降水量の変動が大きいという草原の長い進化史を反映している。しかし、群落組成は採食地と非採食地の間で大きく異なり、特に干ばつ年においてその傾向が顕著であった。湿潤年にはイネ科のHeteropogon contortusが豊富に見られた一方、干ばつ年の非採食地ではChrysopogon fulvusが優占していた。H. contortusは嗜好性が低いため激しい採食下でも生存し得るが、十分な降雨があり採食が行われない条件下では、成長の速いC. fulvusがこれを駆逐する可能性がある。特定の葉面積は採食とは無関係であったが、湿潤年には増加しており、これはおそらくより獲得能の高い種が存在することを反映している。 4. ほとんどの植物に虫害が見られたが、群落レベルの植物窒素濃度が高かったにもかかわらず、湿潤年にはその割合が10%低下していた。これは、植物密度が高いことで個体あたりの食害が減少したためと考えられる。真菌性病害の発生率は湿潤年で高く、これは湿潤な微気候における病原体の急速な増殖によるものである可能性がある。植物および土壌のC:N比は湿潤年において低く、これはマメ科植物の被覆率が高かったことで窒素利用能が向上したためと考えられる。 5. 総括。採食と降雨の双方が植物群落を形成していた。採食は種組成に影響を与え、一方で降雨は種の豊富度、食害、および病害発生率に影響を与えた。気候変動によりインドのモンスーンがより極端になり、土地利用によって採食者がより狭い範囲に限定されるにつれ、乾燥と採食の両方に適応した植物であっても、植物種の多様性は低下する可能性が高い。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10150924/v1",
+    "title": "Amniotic Fluid Stem Cell-Derived Secretome MRG1061 Improves Alveolarisation and Reduces Lung Inflammation in Experimental Bronchopulmonary Dysplasia",
+    "abstract": "Abstract    Background  Mesenchymal stromal cell (MSC)-derived secretomes are emerging as scalable, cell-free candidates for regenerative and immunomodulatory therapy, but their mechanistic cargo signatures and translational potential remain incompletely defined. We developed MRG1061, a clinically translatable, amniotic fluid-derived stem cell (AFSC)-derived secretome produced using the proprietary Secretomix® platform, and sought to define its protein cargo, predict key inflammatory and regenerative pathways, and functionally validate these predictions in human  in vitro  systems and an  in vivo  model of lung injury. Methods  Proteomic profiling of MRG1061 was performed across multiple batches and analysed using pathway enrichment and disease-annotation tools to identify inflammation- and repair-relevant signatures, including blinded enrichment for bronchopulmonary dysplasia (BPD) and related chronic inflammatory conditions. Predicted anti-inflammatory and regenerative activities were then tested in human  in vitro  assays using lipopolysaccharide-stimulated peripheral blood mononuclear cells, an NF-κB reporter lung adenocarcinoma cell line, primary human alveolar epithelial cells, and human lung fibroblasts. To assess  in vivo  relevance, MRG1061 was evaluated in a neonatal hyperoxia-induced lung injury model, with quantitative analyses of lung structure and inflammatory gene expression. A separate study in healthy mice assessed systemic safety by repeated dosing and serum biochemistry. Results  MRG1061 contained extracellular vesicles and a complex protein cargo enriched for pathways linked to innate and adaptive immune regulation, NF-κB signalling, redox homeostasis, apoptosis, and disease annotations that included BPD. Consistent with these predictions, MRG1061 reduced inflammatory gene and protein expression and NF-κB activity in human immune and lung epithelial assays, modulated disturbed proliferation of primary human alveolar epithelial cells, and decreased stress-induced senescence in lung fibroblasts. In neonatal hyperoxia-exposed mice, MRG1061 improved lung architecture and attenuated expression of key inflammatory cytokines and inflammasome components. Repeated administration to healthy mice revealed no adverse effects on survival or standard serum biochemical parameters. Conclusions  MRG1061 exhibits a cargo-defined, multi-modal anti-inflammatory and regenerative profile that translates into measurable effects in human  in vitro  systems and  in vivo  lung injury, while maintaining a favourable safety signal in healthy animals. These data support further development of MRG1061 as a stem cell-free biologic for inflammatory and degenerative lung disease.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10150924/v1",
+    "date": "2026-10-27",
+    "authors": "Doktor F, Parnell A, Antounians L, Feist D, Mellows B, Figueira RL, Fortuna V, Khalaj K, Asadpour A, Lo E, Rai A, Ray S, Stasiewicz K, Widera D, Zani A, Patel K, Mitchell R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351337",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3528,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-10150924/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e6b5e4bd15f03f61d78b56614ec7ef4fc3aaf499d62bbcf0228c0f8b2fa0698a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:07:44.252867+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ab79fdffc5248bfaa2f99a06f2dbda01efba71dea7804d021b1f108227e0c4bc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:07:44.252867+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "羊水幹細胞由来セクレトームMRG1061は、実験的気管支肺異形成症において肺胞化を改善し、肺炎症を軽減する。",
+    "abstract_ja": "要旨    背景  間葉系間質細胞（MSC）由来のセクレトームは、再生および免疫調節療法における拡張可能なセルフリー候補として台頭しつつあるが、その機序的なカーゴシグネチャーおよびトランスレーショナルな可能性は依然として十分に解明されていない。我々は、独自のSecretomix®プラットフォームを用いて作製した、臨床応用可能な羊水由来幹細胞（AFSC）由来セクレトームであるMRG1061を開発し、そのタンパク質カーゴの定義、主要な炎症および再生経路の予測、ならびにヒトin vitro系および肺損傷のin vivoモデルにおけるこれらの予測の機能的検証を試みた。方法  MRG1061のプロテオームプロファイリングを複数バッチにわたって実施し、経路エンリッチメントおよび疾患アノテーションツールを用いて解析することで、気管支肺異形成症（BPD）および関連する慢性炎症性疾患に対するブラインドエンリッチメントを含む、炎症および修復に関連するシグネチャーを同定した。次いで、予測された抗炎症および再生活性を、リポ多糖刺激末梢血単核球、NF-κBレポーター肺腺癌細胞株、ヒト初代肺胞上皮細胞、およびヒト肺線維芽細胞を用いたヒトin vitroアッセイで検証した。in vivoでの関連性を評価するため、新生児高酸素症誘発肺損傷モデルにおいてMRG1061を評価し、肺構造および炎症性遺伝子発現の定量解析を行った。健常マウスを用いた別の研究では、反復投与および血清生化学的解析により全身性安全性を評価した。結果  MRG1061は細胞外小胞と、自然免疫および獲得免疫調節、NF-κBシグナル伝達、酸化還元恒常性、アポトーシス、およびBPDを含む疾患アノテーションに関連する経路に富む複雑なタンパク質カーゴを含んでいた。これらの予測と一致して、MRG1061はヒト免疫および肺上皮アッセイにおいて炎症性遺伝子およびタンパク質の発現ならびにNF-κB活性を低下させ、ヒト初代肺胞上皮細胞の乱れた増殖を調節し、肺線維芽細胞におけるストレス誘発性老化を減少させた。新生児高酸素症曝露マウスにおいて、MRG1061は肺構造を改善し、主要な炎症性サイトカインおよびインフラマソーム構成成分の発現を抑制した。健常マウスへの反復投与では、生存率や標準的な血清生化学的パラメータへの悪影響は認められなかった。結論  MRG1061は、カーゴ定義に基づいたマルチモーダルな抗炎症および再生プロファイルを示し、健常動物において良好な安全性シグナルを維持しつつ、ヒトin vitro系およびin vivo肺損傷において測定可能な効果をもたらす。これらのデータは、炎症性および変性性肺疾患に対する幹細胞フリーの生物学的製剤として、MRG1061のさらなる開発を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10964071/v1",
+    "title": "Investigating the environmental response mechanisms of urban basin to reclaimed water system: A case study in Northeast China",
+    "abstract": "Abstract  Reclaimed water (RW) replenishment is an effective approach to addressing regional water scarcity in river basins; however, such artificial interventions significantly influence the basin environment. This study investigates the environmental response mechanisms in the Hejiagou (RHJ) River Basin in Harbin, a typical water-scarce city in Northeast China, under RW replenishment. Through in-situ monitoring from 2021 to 2024, MIKE21 modeling simulations, and statistical analysis, this study explores the basin's environmental response mechanisms under RW replenishment. The results indicate that RW recharge increased channel storage capacity by 34.62%. During non-frozen periods and when water shutdown conditions were not present, flow rates stabilized at 2 ~ 3m³/s, with velocities exceeding 2.5 m/s. Fluctuations in discharge water quality emerged as the primary factor influencing downstream river segments, with seasonal and spatial variations determining differential quality levels across different reaches. The physical, chemical, and biological properties of sediments and microorganisms downstream of the discharge point were highly correlated with water quality. Long-term discharge and scouring elevated the downstream riverbed by 0.5 ~ 1.0m, with an average scour depth of 0.9m/a. Hydrodynamic simulations revealed substantial impacts of the discharge point on all river segments. Recommendations for strategies, such as wastewater treatment plant upgrades and dredging, provide scientifically grounded guidance for mitigating similar environmental issues in catchment areas.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10964071/v1",
+    "date": "2026-10-27",
+    "authors": "Ge Q, Zhang g, Zhu c, Huang X, Zhao S, Feng G.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351189",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3531,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-10964071/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d852c6d400b98e9fb933e2b157801ebd47e7935ece700ffd170fcfaa9b9310bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:07:44.252867+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "96b07c257060ca4e512f68f1275e820c06c8f4721fb2732610ac81d8f965a3e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:07:44.252867+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "再生水利用システムに対する都市流域の環境応答メカニズムの解明：中国東北部における事例研究",
+    "abstract_ja": "要旨　再生水（RW）の補給は、河川流域における地域的な水不足に対処するための有効な手法であるが、こうした人為的な介入は流域環境に重大な影響を及ぼす。本研究では、中国北東部の典型的な水不足都市であるハルビン市の河家溝（RHJ）流域における、RW補給下での環境応答メカニズムを調査した。2021年から2024年までの現地モニタリング、MIKE21モデリングシミュレーション、および統計解析を通じて、RW補給下における流域の環境応答メカニズムを解明した。その結果、RWの涵養により河道貯留容量が34.62%増加したことが示された。非凍結期かつ水停止条件下にない場合、流量は2 ~ 3m³/sで安定し、流速は2.5 m/sを超えた。放流水の水質変動が下流河川区間に影響を及ぼす主要因として浮上し、季節的および空間的な変動が異なる区間間の水質差を決定づけていた。放流点下流における堆積物や微生物の物理的・化学的・生物学的特性は、水質と強い相関を示した。長期的な放流と洗掘により、下流の河床は0.5 ~ 1.0m上昇し、平均洗掘深度は0.9m/aであった。流体力学シミュレーションにより、放流点がすべての河川区間に多大な影響を及ぼすことが明らかになった。下水処理場の改修や浚渫といった対策に関する提言は、流域における同様の環境問題を緩和するための科学的根拠に基づいた指針となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11201997/v1",
+    "title": "PALR-DNA: A Probability-Aware Latent Recovery Framework for Error-Resilient Image Storage in DNA",
+    "abstract": "Abstract  In DNA-based image storage, base errors inevitably degrade image reconstruction quality. Existing deep-learning methods are effective in correcting base errors while often overlooking uncertainty encoded in low-probability predictions, thereby limiting reconstruction quality. To address this issue, PALR-DNA, a probability-aware latent recovery framework for error-resilient image storage in DNA, is proposed in this study. It represents images as spatially indexed latent vectors and exploits byte-level probability distributions for recovery from noisy DNA sequences. Specifically, a DNA-to-latent recovery transformer is developed to map variable length noisy sequences directly to byte probability distributions. Top-K candidate beam search is employed to explore high-probability candidates and select sequences with valid spatial indices passing cyclic redundancy checks. Bytewise maximum-probability estimation approximates unresolved latent vectors from the remaining probability information. Reconstruction results for 543 images demonstrate that PALR-DNA outperforms the baseline methods across 1–5% error rates, with larger gains at higher rates. At 5%, it achieves a latent-vector recovery accuracy of 93.61%, peak signal-to-noise ratio of 27.45 dB, and multiscale structural similarity index measure of 0.918, while remaining stable across error compositions. Overall, PALR-DNA provides a new approach to error-resilient image reconstruction in DNA storage by retaining byte-level probability information.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11201997/v1",
+    "date": "2026-10-27",
+    "authors": "Chen S, Zhao R, Wu T, Huang T, Huang X, Sun Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351081",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3534,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11201997/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5ceb8da4114dd477d7a2b88b71deb9e4130b8c2b43da761f056900b3812471e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:07:44.252867+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c14a38fb7f755d7e45c5ed0c94e8017a720064247a31e4f9656169bfa6d09125",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:07:44.252867+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PALR-DNA: DNAにおけるエラー耐性のある画像保存のための確率を考慮した潜在復元フレームワーク",
+    "abstract_ja": "要旨  DNAベースの画像保存において、塩基エラーは必然的に画像再構成の品質を低下させる。既存の深層学習手法は塩基エラーの補正には有効である一方、低確率予測に符号化された不確実性を見落としがちであり、それが再構成品質を制限する要因となっている。この課題に対処するため、本研究では、DNAにおけるエラー耐性画像保存のための確率認識型潜在回復フレームワークであるPALR-DNAを提案する。本手法では、画像を空間的にインデックス化された潜在ベクトルとして表現し、ノイズを含むDNA配列からの回復にバイトレベルの確率分布を活用する。具体的には、可変長のノイズ配列をバイト確率分布に直接マッピングするDNA-to-潜在回復トランスフォーマーを開発する。Top-K候補ビームサーチを用いて高確率候補を探索し、巡回冗長性チェックを通過する有効な空間インデックスを持つ配列を選択する。バイト単位の最大確率推定により、残存する確率情報から未解決の潜在ベクトルを近似する。543枚の画像を用いた再構成結果から、PALR-DNAは1～5%のエラー率においてベースライン手法を上回り、エラー率が高くなるほどその向上幅が大きくなることが示された。5%のエラー率において、潜在ベクトルの回復精度93.61%、ピーク信号対雑音比27.45 dB、マルチスケール構造類似性指数0.918を達成し、エラー構成に関わらず安定した性能を維持した。総じて、PALR-DNAはバイトレベルの確率情報を保持することで、DNA保存におけるエラー耐性画像再構成への新たなアプローチを提供する。"
   }
 ]
