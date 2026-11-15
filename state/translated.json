@@ -231589,5 +231589,299 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "乳牛の移動ネットワークが米国におけるH5N1 B3.13の拡散と持続を支配している",
     "abstract_ja": "鳥インフルエンザウイルスH5N1は、主に野生鳥類および家禽に認められる。H5N1遺伝子型B3.13は、2024年3月に米国の乳牛で初めて検出され、2024年から2025年にかけて国内の広範囲に拡大し、家禽類における既知の最大規模のH5N1アウトブレイクとなった。ウイルスゲノムデータと過去の牛の移動パターンを併せて解析した結果、H5N1の空間的拡散には、野生鳥類や家禽ではなく、生きた牛の移動が主たる要因となっていることが明らかになった。系統地理学的手法を用いた推定によれば、州間のウイルス伝播の40%以上がB3.13の初回検出前に発生しており、70%以上が2024年4月の州間乳牛移動制限の施行前に発生していた。この施行後、州間伝播は鈍化したものの、地域内の牛ネットワーク密度と移動量に起因して、州内での拡散は持続した。本研究の流行シミュレーションは、最初期の症例が記録されたテキサス州パンハンドル地域およびその周辺の郡間の連結性が、同地域をアウトブレイクの震源地となりやすくしたことを示している。反実仮想シミュレーションでは、検出前の潜伏拡散の規模を考慮すると、流行を実質的に抑制するためには、州間制限を2〜3か月早く開始する必要があったことが示された。ネットワーク情報に基づく介入策は、地理的に定義された封じ込め策を上回る効果を示したが、本流行モデルにおいて制限要因となったのは（介入の強度ではなく）対応速度であり、広範な拡散に先立って病原体の出現を検知できる監視システムの必要性が浮き彫りとなった。"
+  },
+  {
+    "id": "10.1111/1758-2229.70467",
+    "title": "Spatial Variation of Bacterial Communities Associated With the Moss Sanionia uncinata on Deception Island, Antarctica",
+    "abstract": "Bacterial communities associated with the Antarctic moss Sanionia uncinata differed in composition among three sampling locations on Deception Island, whereas alpha diversity and predicted functional profiles were similar. These results suggest that this moss harbours spatially structured bacterial communities with potential functional redundancy.\n\nABSTRACT\nAntarctic mosses play a fundamental ecological role in Maritime Antarctica, creating microhabitats that support diverse microbial communities. We used 16S rRNA gene (V3–V4) metabarcoding to investigate bacterial communities associated with the moss Sanionia uncinata at three sampling locations (seven sampling points, three samples each) within Antarctic Specially Protected Area No. 140 (Parts of Deception Island, South Shetland Islands). With sampling points as replicates, permutational multivariate analysis of variance (PERMANOVA; R2 = 0.376, p = 0.0095) and analysis of similarities (ANOSIM; R = 0.73, p = 0.0095) based on Bray–Curtis dissimilarities showed that community composition differed among locations. Multivariate dispersion did not differ among locations, so these differences reflected changes in composition rather than within‐location variability. Alpha diversity did not differ among locations after correction for multiple comparisons, suggesting the moss microhabitat may buffer within‐sample diversity against external environmental variation. Functional profiles predicted with Phylogenetic Investigation of Communities by Reconstruction of Unobserved States (PICRUSt2) and Functional Annotation of Prokaryotic Taxa (FAPROTAX) were also similar among locations, which suggests functional redundancy. Our results indicate that S. uncinata harbours spatially structured bacterial communities with similar predicted functional capacities, and support the view that Antarctic mosses are important reservoirs of bacterial diversity.\n\nBacterial communities associated with the Antarctic moss Sanionia uncinata differed in composition among three sampling locations on Deception Island, whereas alpha diversity and predicted functional profiles were similar. These results suggest that this moss harbours spatially structured bacterial communities with potential functional redundancy.\n\nABSTRACT\nAntarctic mosses play a fundamental ecological role in Maritime Antarctica, creating microhabitats that support diverse microbial communities. We used 16S rRNA gene (V3–V4) metabarcoding to investigate bacterial communities associated with the moss Sanionia uncinata at three sampling locations (seven sampling points, three samples each) within Antarctic Specially Protected Area No. 140 (Parts of Deception Island, South Shetland Islands). With sampling points as replicates, permutational multivariate analysis of variance (PERMANOVA; R\n2 = 0.376, p = 0.0095) and analysis of similarities (ANOSIM; R = 0.73, p = 0.0095) based on Bray–Curtis dissimilarities showed that community composition differed among locations. Multivariate dispersion did not differ among locations, so these differences reflected changes in composition rather than within-location variability. Alpha diversity did not differ among locations after correction for multiple comparisons, suggesting the moss microhabitat may buffer within-sample diversity against external environmental variation. Functional profiles predicted with Phylogenetic Investigation of Communities by Reconstruction of Unobserved States (PICRUSt2) and Functional Annotation of Prokaryotic Taxa (FAPROTAX) were also similar among locations, which suggests functional redundancy. Our results indicate that S. uncinata harbours spatially structured bacterial communities with similar predicted functional capacities, and support the view that Antarctic mosses are important reservoirs of bacterial diversity.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70467",
+    "date": "2026-11-14",
+    "authors": "Kamila Barros Lima de Oliveira, \nFabyano Alvares Cardoso Lopes, \nStephan Machado Dohms, \nMarcelo Henrique Soller Ramada",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70467?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4568,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1111/1758-2229.70467"
+    ],
+    "translation": {
+      "title": {
+        "hash": "14199647df6fbb9f7c33c2bcbb3cc1a77afea8597f6fe4788838959259288f50",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:10:36.375224+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "033db39665df99f8540c6830a5e8e416fe4debd510de6c66d9de8df087c8d800",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:10:36.375224+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "南極デセプション島のコケ・サンイオニア・ウンシナタに関連する細菌群集の空間的変異",
+    "abstract_ja": "南極産コケ類Sanionia uncinataに関連する細菌群集は、ディセプション島の3つのサンプリング地点間で組成が異なっていたが、アルファ多様性および予測機能プロファイルは類似していた。これらの結果は、本コケが機能的冗長性を有する可能性のある、空間的に構造化された細菌群集を宿していることを示唆している。\n\n要旨\n南極産コケ類は海洋南極において基礎的な生態学的役割を担っており、多様な微生物群集を支える微小生息環境を形成している。我々は、南極特別保護地区第140号（サウスシェトランド諸島ディセプション島の一部）内の3つのサンプリング地点（7つのサンプリングポイント、各3サンプル）において、16S rRNA遺伝子（V3–V4）メタバーコーディングを用いて、コケSanionia uncinataに関連する細菌群集を調査した。サンプリングポイントを反復条件とした置換多変数分散分析（PERMANOVA; R2 = 0.376, p = 0.0095）およびBray–Curtis非類似度に基づく類似性解析（ANOSIM; R = 0.73, p = 0.0095）の結果、群集組成は地点間で異なることが示された。多変数散布度は地点間で差が認められなかったため、これらの差異は地点内変動ではなく、組成の変化を反映したものと考えられる。多重比較補正後のアルファ多様性は地点間で差が認められず、本コケの微小生息環境が外部環境変動に対してサンプル内多様性を緩衝している可能性が示唆された。Phylogenetic Investigation of Communities by Reconstruction of Unobserved States (PICRUSt2) および Functional Annotation of Prokaryotic Taxa (FAPROTAX) を用いて予測した機能プロファイルも地点間で類似しており、これは機能的冗長性を示唆している。我々の結果は、S. uncinataが類似した予測機能能を有する空間的に構造化された細菌群集を宿していることを示しており、南極産コケ類が細菌多様性の重要なリザーバーであるという見解を支持するものである。\n\n南極産コケ類Sanionia uncinataに関連する細菌群集は、ディセプション島の3つのサンプリング地点間で組成が異なっていたが、アルファ多様性および予測機能プロファイルは類似していた。これらの結果は、本コケが機能的冗長性を有する可能性のある、空間的に構造化された細菌群集を宿していることを示唆している。\n\n要旨\n南極産コケ類は海洋南極において基礎的な生態学的役割を担っており、多様な微生物群集を支える微小生息環境を形成している。我々は、南極特別保護地区第140号（サウスシェトランド諸島ディセプション島の一部）内の3つのサンプリング地点（7つのサンプリングポイント、各3サンプル）において、16S rRNA遺伝子（V3–V4）メタバーコーディングを用いて、コケSanionia uncinataに関連する細菌群集を調査した。サンプリングポイントを反復条件とした置換多変数分散分析（PERMANOVA; R\n2 = 0.376, p = 0.0095）およびBray–Curtis非類似度に基づく類似性解析（ANOSIM; R = 0.73, p = 0.0095）の結果、群集組成は地点間で異なることが示された。多変数散布度は地点間で差が認められなかったため、これらの差異は地点内変動ではなく、組成の変化を反映したものと考えられる。多重比較補正後のアルファ多様性は地点間で差が認められず、本コケの微小生息環境が外部環境変動に対してサンプル内多様性を緩衝している可能性が示唆された。Phylogenetic Investigation of Communities by Reconstruction of Unobserved States (PICRUSt2) および Functional Annotation of Prokaryotic Taxa (FAPROTAX) を用いて予測した機能プロファイルも地点間で類似しており、これは機能的冗長性を示唆している。我々の結果は、S. uncinataが類似した予測機能能を有する空間的に構造化された細菌群集を宿していることを示しており、南極産コケ類が細菌多様性の重要なリザーバーであるという見解を支持するものである。"
+  },
+  {
+    "id": "10.1111/1751-7915.70492",
+    "title": "Microbial Biotechnology in a Sustainable Future",
+    "abstract": "ABSTRACT\nThis editorial summarizes the main scientific and biotechnological topics that have attracted the greatest interest among our followers, based on the articles they visited most. These topics highlight four interconnected areas: (i) the circular economy, including manufacturing, plastic recycling, and bacterial biopolymer production; (ii) biological engineering and industrial production focusing on synthetic chromosomes, enzyme expression, and antifungal scale‐up; (iii) environmental protection covering climate‐resilient crops, microbial biocontrol, and lindane degradation; and (iv) microbiomes and human health exploring probiotics, myopia treatments, and DNA vaccines. These topics reflect our followers' interest in how biotechnology can address major societal and environmental challenges connected to UN Sustainable Development Goals 2, 3, 9, 12, and 13.\nABSTRACT\nThis editorial summarizes the main scientific and biotechnological topics that have attracted the greatest interest among our followers, based on the articles they visited most. These topics highlight four interconnected areas: (i) the circular economy, including manufacturing, plastic recycling, and bacterial biopolymer production; (ii) biological engineering and industrial production focusing on synthetic chromosomes, enzyme expression, and antifungal scale-up; (iii) environmental protection covering climate-resilient crops, microbial biocontrol, and lindane degradation; and (iv) microbiomes and human health exploring probiotics, myopia treatments, and DNA vaccines. These topics reflect our followers' interest in how biotechnology can address major societal and environmental challenges connected to UN Sustainable Development Goals 2, 3, 9, 12, and 13.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70492",
+    "date": "2026-11-14",
+    "authors": "Patricia Bernal, \nJuan Luis Ramos",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70492?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4569,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1111/1751-7915.70492"
+    ],
+    "translation": {
+      "title": {
+        "hash": "71d39d1a74ea4f8453abc0726fa4b809e806530ef95ded1b34c86b854201f5af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:10:36.375224+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a044e96176349534fc3f25266a267986829e431c1398c0f1fddad1cd7dfe487d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:10:36.375224+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "持続可能な未来における微生物バイオテクノロジー",
+    "abstract_ja": "要旨\n本エディトリアルでは、フォロワーが最も閲覧した記事に基づき、関心を集めた主要な科学的・バイオテクノロジー的トピックをまとめる。これらのトピックは、相互に関連する以下の4つの領域を浮き彫りにしている：(i) 製造業、プラスチックリサイクル、細菌によるバイオポリマー生産を含む循環型経済、(ii) 合成染色体、酵素発現、抗真菌スケールアップに焦点を当てた生物工学および工業生産、(iii) 気候耐性作物、微生物によるバイオコントロール、リンダン分解を網羅する環境保護、(iv) プロバイオティクス、近視治療、DNAワクチンを探究するマイクロバイオームとヒトの健康。これらのトピックは、国連の持続可能な開発目標2、3、9、12、および13に関連する主要な社会的・環境的課題に、バイオテクノロジーがいかに対処し得るかという点に対するフォロワーの関心を反映している。\n要旨\n本エディトリアルでは、フォロワーが最も閲覧した記事に基づき、関心を集めた主要な科学的・バイオテクノロジー的トピックをまとめる。これらのトピックは、相互に関連する以下の4つの領域を浮き彫りにしている：(i) 製造業、プラスチックリサイクル、細菌によるバイオポリマー生産を含む循環型経済、(ii) 合成染色体、酵素発現、抗真菌スケールアップに焦点を当てた生物工学および工業生産、(iii) 気候耐性作物、微生物によるバイオコントロール、リンダン分解を網羅する環境保護、(iv) プロバイオティクス、近視治療、DNAワクチンを探究するマイクロバイオームとヒトの健康。これらのトピックは、国連の持続可能な開発目標2、3、9、12、および13に関連する主要な社会的・環境的課題に、バイオテクノロジーがいかに対処し得るかという点に対するフォロワーの関心を反映している。"
+  },
+  {
+    "id": "10.1007/s00248-026-02906-z",
+    "title": "Non-Selective Primocolonization and Biofilm Succession Govern the Stage-Structured Assembly of Marine Biofilm Communities on Plastic and Inert Surfaces",
+    "abstract": "Microbial biofilms modify plastic surfaces by altering their buoyancy, palatability, dispersal, and physical integrity, thereby influencing their fate in the marine environment. However, the environmental and biological factors associated with early colonization of plastic substrates, which play key roles in the success of biofilm formation, and subsequent community succession remain poorly resolved. In this study, we conducted a simultaneous in situ exposure experiment across three coastal sites in southern Singapore to examine bacterial community assembly on polyethylene terephthalate (PET), polyethylene (PE), and glass, with surrounding seawater included as the planktonic source community. Substrates were collected after 12 h, 24 h, 48 h, and 7 d to capture primo-colonization and later stages of biofilm development. Bacterial communities were profiled using 16​S rRNA gene amplicon sequencing and their functional potential was predicted using PICRUSt2. Attached communities on PE, PET, and glass were distinct from seawater communities, indicating strong habitat selection between planktonic and surface-associated lifestyles. Several low-abundance taxa in seawater, particularly surface-associated Gammaproteobacteria such as Pseudoalteromonadaceae, Alteromonadaceae, Alcanivoracaceae, and Saccharospirillaceae, became enriched on substrates during the early stages of colonization. In contrast, differences among PE, PET, and glass were weak, suggesting broadly non-selective early attachment at the whole-community level. Beta diversity analyses further showed that biofilm communities clustered by incubation time rather than substrate, indicating that temporal succession was the primary driver of early biofilm assembly. This was characterized by a shift from Gammaproteobacteria-dominated early biofilms to increased representation of Bacteroidetes (Flavobacteriaceae and Saprospiraceae) after 7 days, coupled with increasing alpha diversity as communities matured. Temporal shifts in community composition were associated with changes in salinity, pH, and nitrate, suggesting that environmental variability influences the planktonic source community and subsequent biofilm assembly. PICRUSt2-inferred functional profiles likewise indicated a transition from biofilm establishment-related functions during early colonization to energy​ metabolism-related functions at later stages. Overall, these findings support a stage-structured model of marine biofilm assembly in which environmental variation, habitat selection, and temporal succession jointly shape early plastisphere development.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02906-z",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02906-z",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "plankton",
+          "seawater"
+        ],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4567,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1007/s00248-026-02906-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6f0492d3f37978bcf0582c7eb10929669adc301ba4f903127346ed05c6b8296c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:10:36.375224+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "70f78ac9ae948f41d31451ed58e6a152a11609d226408a0a89cba32d1fde1b2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:10:36.375224+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非選択的な一次定着とバイオフィルムの継代が、プラスチックおよび不活性表面における海洋バイオフィルム群集の段階的構造化集合を支配する",
+    "abstract_ja": "微生物バイオフィルムは、プラスチック表面の浮力、嗜好性、分散性、および物理的完全性を変化させることで表面を改変し、それによって海洋環境における表面の運命に影響を及ぼす。しかし、バイオフィルム形成の成否に重要な役割を果たすプラスチック基質への初期定着、およびその後の群集遷移に関連する環境的・生物学的要因については、依然として十分に解明されていない。本研究では、シンガポール南部の3つの沿岸地点において、ポリエチレンテレフタレート（PET）、ポリエチレン（PE）、およびガラス上の細菌群集形成を調べるため、周囲の海水をプランクトン源群集として含めた同時in situ曝露実験を実施した。初期定着およびその後のバイオフィルム発達段階を捉えるため、12時間、24時間、48時間、および7日後に基質を採取した。細菌群集のプロファイリングには16S rRNA遺伝子アンプリコンシーケンシングを用い、その機能的ポテンシャルをPICRUSt2を用いて予測した。PE、PET、およびガラスに付着した群集は海水の群集とは異なっており、プランクトン性の生活様式と表面付着性の生活様式との間で強い生息環境選択が行われていることが示された。海水中の低存在量の分類群、特にPseudoalteromonadaceae、Alteromonadaceae、Alcanivoracaceae、およびSaccharospirillaceaeなどの表面付着性ガンマプロテオバクテリアは、定着初期の段階で基質上で濃縮された。対照的に、PE、PET、およびガラス間の差異は小さく、群集全体として広範に非選択的な初期付着が起こったことが示唆された。ベータ多様性解析により、バイオフィルム群集は基質ではなく培養時間によってクラスターを形成することがさらに示され、時間的遷移が初期バイオフィルム形成の主要な駆動要因であることが明らかになった。これは、ガンマプロテオバクテリアが優占していた初期バイオフィルムから、7日後にはバクテロイデス（FlavobacteriaceaeおよびSaprospiraceae）の割合が増加し、群集の成熟に伴いアルファ多様性が増大するという変化によって特徴づけられた。群集組成の時間的変化は、塩分濃度、pH、および硝酸塩の変化と関連しており、環境変動がプランクトン源群集およびその後のバイオフィルム形成に影響を与えることが示唆された。PICRUSt2により推定された機能的プロファイルも同様に、初期定着期のバイオフィルム確立関連機能から、後期段階のエネルギー代謝関連機能への移行を示した。総じて、これらの知見は、環境変動、生息環境選択、および時間的遷移が共同して初期プラスチスフェアの発達を形作るという、海洋バイオフィルム形成の段階的構造モデルを支持するものである。"
+  },
+  {
+    "id": "10.1111/mec.70660",
+    "title": "Parental Contributions to Offspring Skin Microbiota Remain Detectable After Metamorphosis",
+    "abstract": "ABSTRACT\nParental care creates opportunities for microbial transmission, yet its contribution to offspring skin microbiota remains poorly understood, particularly in species undergoing metamorphosis. We investigated this role in the Neotropical poison frog Allobates femoralis using a controlled cross‐fostering experiment. Across 30 trials, tadpoles were transported by their biological father, a foster father or transferred manually to a provided water bowl. We characterized bacterial communities in adults, clutch mucus, tadpoles, metamorphs and environmental samples using 16S rRNA gene sequencing, Bayesian source tracking and analyses of shared sequence variants. Source tracking estimated contributions from both biological parents and, in cross‐fostered offspring, foster fathers, alongside environmental sources. Parental microbial contributions remained detectable after metamorphosis despite substantial changes in community composition, indicating that early parental contact may influence microbial assembly across developmental stages. Because foster fathers contacted clutches before transport, their contributions could reflect microbial transfer during brooding, transport or both. Some sequence variants shared between fathers and offspring belonged to genera containing documented Batrachochytrium dendrobatidis‐inhibitory isolates, although neither inhibitory activity nor disease protection was tested. Our findings identify paternal care as a pathway contributing to offspring skin microbial assembly under laboratory conditions. They extend the significance of parental care beyond provisioning and relocation, while highlighting the need to establish taxon‐level persistence, functional consequences and transmission dynamics in natural populations.\nABSTRACT\nParental care creates opportunities for microbial transmission, yet its contribution to offspring skin microbiota remains poorly understood, particularly in species undergoing metamorphosis. We investigated this role in the Neotropical poison frog Allobates femoralis using a controlled cross-fostering experiment. Across 30 trials, tadpoles were transported by their biological father, a foster father or transferred manually to a provided water bowl. We characterized bacterial communities in adults, clutch mucus, tadpoles, metamorphs and environmental samples using 16S rRNA gene sequencing, Bayesian source tracking and analyses of shared sequence variants. Source tracking estimated contributions from both biological parents and, in cross-fostered offspring, foster fathers, alongside environmental sources. Parental microbial contributions remained detectable after metamorphosis despite substantial changes in community composition, indicating that early parental contact may influence microbial assembly across developmental stages. Because foster fathers contacted clutches before transport, their contributions could reflect microbial transfer during brooding, transport or both. Some sequence variants shared between fathers and offspring belonged to genera containing documented Batrachochytrium dendrobatidis-inhibitory isolates, although neither inhibitory activity nor disease protection was tested. Our findings identify paternal care as a pathway contributing to offspring skin microbial assembly under laboratory conditions. They extend the significance of parental care beyond provisioning and relocation, while highlighting the need to establish taxon-level persistence, functional consequences and transmission dynamics in natural populations.",
+    "journal": "Molecular Ecology",
+    "doi": "10.1111/mec.70660",
+    "date": "2026-11-14",
+    "authors": "Francesca N. Angiolani‐Larrea, \nRayan Bouchali, \nAdeline Loyau, \nDirk S. Schmeller, \nEva Ringler",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70660?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/1365294x/most-recent",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4570,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/1365294x/most-recent"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1111/mec.70660"
+    ],
+    "translation": {
+      "title": {
+        "hash": "219f52dfb2679b941c3793031010943d8ac7e76c4636ab3fad298bced89dee90",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:10:36.375224+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bca10b13bd1f682c03be936fdef76b807616bacec8e4987146e3bce2318cff65",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:10:36.375224+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "変態後も親から子への皮膚微生物叢の寄与が検出可能である",
+    "abstract_ja": "要旨\n親による世話は微生物伝播の機会をもたらすが、特に変態過程にある種において、子の皮膚微生物叢への寄与については十分に解明されていない。本研究では、新熱帯区の毒ガエル Allobates femoralis を対象に、制御されたクロスフォスター実験を用いてこの役割を調査した。30回の試行にわたり、オタマジャクシは実父、養父によって運ばれるか、あるいは用意された水入れに手動で移された。16S rRNA遺伝子シーケンシング、ベイズ的ソーストラッキング、および共有配列変異の解析を用いて、成体、クラッチ粘液、オタマジャクシ、変態個体、および環境試料中の細菌群集を特性評価した。ソーストラッキングにより、群集組成に大幅な変化が生じた後でも、実父母および（クロスフォスターされた子の場合は）養父による寄与が推定されたとともに、環境由来の寄与も認められた。群集組成に大幅な変化が生じた後でも、親による微生物の寄与は変態後も検出可能であり、これは初期の親との接触が発達段階にわたる微生物の構成に影響を及ぼし得ることを示している。養父は輸送前にクラッチに接触していたため、その寄与は抱卵中、輸送中、またはその両方における微生物伝播を反映している可能性がある。親と子の間で共有されていた一部の配列変異は、Batrachochytrium dendrobatidis阻害性分離株が報告されている属に属していたが、阻害活性や疾患防御能の検証は行われなかった。本研究の結果は、実験室条件下において、親による世話が子の皮膚微生物構成に寄与する経路であることを明らかにした。また、親による世話の意義を、単なる餌の提供や移送にとどまらず拡張させるとともに、自然個体群における分類群レベルの持続性、機能的帰結、および伝播動態を確立する必要性を浮き彫りにした。\n要旨\n親による世話は微生物伝播の機会をもたらすが、特に変態過程にある種において、子の皮膚微生物叢への寄与については十分に解明されていない。本研究では、新熱帯区の毒ガエル Allobates femoralis を対象に、制御されたクロスフォスター実験を用いてこの役割を調査した。30回の試行にわたり、オタマジャクシは実父、養父によって運ばれるか、あるいは用意された水入れに手動で移された。16S rRNA遺伝子シーケンシング、ベイズ的ソーストラッキング、および共有配列変異の解析を用いて、成体、クラッチ粘液、オタマジャクシ、変態個体、および環境試料中の細菌群集を特性評価した。ソーストラッキングにより、実父母および（クロスフォスターされた子の場合は）養父による寄与が推定されたとともに、環境由来の寄与も認められた。群集組成に大幅な変化が生じた後でも、親による微生物の寄与は変態後も検出可能であり、これは初期の親との接触が発達段階にわたる微生物の構成に影響を及ぼし得ることを示している。養父は輸送前にクラッチに接触していたため、その寄与は抱卵中、輸送中、またはその両方における微生物伝播を反映している可能性がある。親と子の間で共有されていた一部の配列変異は、Batrachochytrium dendrobatidis阻害性分離株が報告されている属に属していたが、阻害活性や疾患防御能の検証は行われなかった。本研究の結果は、実験室条件下において、親による世話が子の皮膚微生物構成に寄与する経路であることを明らかにした。また、親による世話の意義を、単なる餌の提供や移送にとどまらず拡張させるとともに、自然個体群における分類群レベルの持続性、機能的帰結、および伝播動態を確立する必要性を浮き彫りにした。"
   }
 ]
