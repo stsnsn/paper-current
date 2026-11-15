@@ -237293,5 +237293,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "食物繊維への反応は宿主と飼料レジームの相互作用によって生じる：リンゴペクチンは成魚ゼブラフィッシュの免疫反応性を調節する",
     "abstract_ja": "食物繊維が単独で摂取されることは稀である。むしろ、異なる供給源由来の食物繊維を、量や摂取パターンを変えて組み合わせた総合的な食事の一部として摂取される。本研究では、リンゴペクチン、オーツβ-グルカン、またはセルロースを含む食事レジメンが、宿主にどのような影響を与えるかを検証した。16S rRNAシーケンシングにより腸内マイクロバイオーム組成を解析し、標的メタボロミクスにより脳および腸管のSCFAプロファイルを測定した。さらに、血液中および脾臓における全身的な遺伝子発現、ならびに腸管酵素活性の測定により、免疫調節を評価した。この食事介入は、成体のゼブラフィッシュ（Danio rerio）の雌雄を対象に12週間実施した。その結果、腸内微生物組成は異なる食物繊維曝露パターンにおいても比較的安定し得る一方で、性差によって有意に異なることが示された。加えて、食物繊維を高用量で間欠的に投与した場合、性が腸内マイクロバイオームに及ぼす影響がより顕著に現れる可能性がある。食事レジメンは、性差による応答がより強い脳プロファイルよりも、腸管の短鎖脂肪酸プロファイルをより容易に変化させ得る。興味深いことに、リンゴペクチンは、全体的なレジメン、組織、性、および宿主の免疫状態に依存した相互作用を通じて、ゼブラフィッシュの免疫応答を調節した。特筆すべきは、組織のil1b遺伝子発現が、リンゴペクチンの投与方法および宿主の生理的状態によって異なる点である。総じて、本研究は、総合的な食事レジメンと相互に絡み合った宿主因子との動的な相互作用によって形成される、食物繊維の極めて文脈特異的な効果を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761775",
+    "title": "Predicting Pathway Dependency in Head and Neck Squamous Cell Carcinoma from Hallmark Transcriptomic Features",
+    "abstract": "Despite frequent pathway activation, targeted molecular therapy remains limited in head and neck squamous cell carcinoma (HNSCC), highlighting the need to distinguish activation from dependence. Dependency is functional, context-specific, and coupled; mutations or expression alone cannot establish it. No validated framework identifies tumor pathway dependencies from baseline molecular profiles. We developed a transcriptome-based framework to infer pathway dependency in HNSCC. Nine Elastic Net models used 50 MSigDB Hallmark activity profiles from 953 GDSC cell lines and drug responses pooled across compounds annotated to each pathway. Cross-validated R² ranged from 0.17 (IGF1R) to 0.48 (P53); leave-one-pathway-out validation retained rank agreement (Spearman ρ = 0.19–0.56) for pathways with no drug response observed during training. We validated the models using pharmacological, genomic, and proteomic data, then applied them to TCGA-HNSC (n = 565) and GSE65858 (n = 256), examining HPV status, age, stage, tobacco history, and CD8+ infiltration. Seven of nine pathways were higher in HPV+ tumors and replicated directionally in GSE65858. Among TP53-wild-type tumors, HPV remained linked to greater P53 dependency (β = +0.37, q = 0.010); HPV+ tumors also had higher p53 transcriptional activity, suggesting residual p53 function despite E6 expression. The codependency signature had a dominant global axis (PC1 = 62.3% variance; Cronbach’s α = 0.91), replicated across cohorts (Tucker congruence = 0.996), but largely reflected CD8⁺ T-cell infiltration (ρ = 0.80). The framework uses RNA-sequenced bulk tumor cohorts to assess baseline transcriptome-based dependencies and match pathway-directed agents to likely responders before treatment. It is not prognostic. Author Summary  Cancers may have active pathways with abundant protein expression but not rely on them for survival. Distinguishing pathway activation from pathway dependence, therefore, can improve molecular targeted therapy outcomes and guide combination therapies. Capturing dependency patterns in head and neck squamous cell carcinomas becomes more pressing given the poor outcomes of targeted therapies in cases with well-known mutated proteins, such as PI3K. In this study, we investigated pathway-dependency patterns in head and neck squamous cell carcinomas by training models on pharmacological data and validating them at the genomic and proteomic levels in head and neck squamous cell carcinoma patients.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761775",
+    "date": "2026-10-30",
+    "authors": "Afshar Y, Goli A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354523",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4003,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.26.761775"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ad06c8307d0e324859ce439a9458a6f918a24350c7f25851c011b96b9ac5a1e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:04:09.763506+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "826535a063d99236783f892aa77197b09ca8766437bb670e41035e61a3cafe5e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:04:09.763506+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ホールマークトランスクリプトーム特徴量による頭頸部扁平上皮癌のパスウェイ依存性の予測",
+    "abstract_ja": "頭頸部扁平上皮癌（HNSCC）では、パスウェイ活性化が頻繁に認められるにもかかわらず、分子標的療法は依然として限定的であり、活性化と依存性を区別する必要性が浮き彫りになっている。依存性は機能的かつコンテキスト特異的であり、相互に連動しているため、変異や発現のみでは確立できない。ベースラインの分子プロファイルから腫瘍パスウェイの依存性を特定できる検証済みのフレームワークは存在しない。我々は、HNSCCにおけるパスウェイ依存性を推論するためのトランスクリプトームベースのフレームワークを開発した。9つのElastic Netモデルを用い、953株のGDSC細胞株から得られた50のMSigDB Hallmark活性プロファイルと、各パスウェイにアノテーションされた化合物間でプールされた薬剤応答データを使用した。交差検証によるR²は0.17（IGF1R）から0.48（P53）の範囲であり、1パスウェイ除外検証においても、学習中に薬剤応答が認められなかったパスウェイについて順位一致（Spearman ρ = 0.19–0.56）が維持された。我々は薬理学的、ゲノム的、およびプロテオームデータを用いてモデルを検証し、次いでTCGA-HNSC（n = 565）およびGSE65858（n = 256）に適用して、HPVステータス、年齢、ステージ、喫煙歴、およびCD8+浸潤を解析した。9つのパスウェイのうち7つがHPV陽性腫瘍で高く、GSE65858においても方向性を持って再現された。TP53野生型腫瘍において、HPVはより高いP53依存性と関連しており（β = +0.37, q = 0.010）、HPV陽性腫瘍ではp53の転写活性も高く、E6発現にもかかわらずp53機能が残存していることが示唆された。共依存性シグネチャーは支配的なグローバル軸（PC1 = 分散 62.3%; Cronbach’s α = 0.91）を持ち、コホート間で再現されたが（Tucker congruence = 0.996）、主にCD8⁺ T細胞浸潤を反映していた（ρ = 0.80）。このフレームワークは、RNAシーケンシング済みのバルク腫瘍コホートを用いてベースラインのトランスクリプトームベースの依存性を評価し、治療前にパスウェイ指向性薬剤を応答可能性が高い薬剤にマッチングさせるものである。本手法は予後予測的なものではない。著者要旨：がん細胞は、豊富なタンパク質発現を伴う活性なパスウェイを持つ場合があるが、生存のためにそれらに依存しているとは限らない。したがって、パスウェイ活性化とパスウェイ依存性を区別することは、分子標的療法の成績を向上させ、併用療法の指針となり得る。PI3Kなどの既知の変異タンパク質を持つ症例において標的療法の成績が不良であることから、頭頸部扁平上皮癌における依存性パターンの把握はより急務となっている。本研究では、薬理学的データを用いてモデルを学習させ、頭頸部扁平上皮癌患者においてゲノムおよびプロテオームレベルで検証することで、頭頸部扁平上皮癌におけるパスウェイ依存性パターンを調査した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761912",
+    "title": "smoothclust: Spatial smoothing and boundary-density summaries for spatial transcriptomics",
+    "abstract": "Spatial transcriptomics enables the measurement of gene expression while preserving tissue organization. A common analysis task is the identification of spatial domains, defined here as spatially coherent regions with consistent expression profiles or cell-type mixtures and represented using categorical spatial tissue maps. However, while numerous methods have been developed to identify spatial domains, interpretable summary measures to quantify spatial domain organization and tissue architecture at the sample level remain less standardized. Here, we present smoothclust, a framework for spatial domain analysis consisting of two components: a spatial-smoothing-based clustering workflow for generating spatial domain labels, and a boundary density (BD) metric that provides local and sample-level summaries of label transitions on a spatial graph. Building on established categorical spatial statistics, the raw BD metric is calculated from the proportion of neighboring spatial locations that are assigned to different domain labels, and requires only spatial coordinates and domain labels as inputs. The metric can be calculated using either our spatial-smoothing-based domain labels or labels from external clustering methods or manual annotations. Relative BD is a composition-adjusted summary, calculated by dividing raw BD by its expectation under random relabeling with the observed label counts. By quantifying label transitions, our framework translates spatial domain label maps into interpretable local and sample-level summary measures of tissue architecture, facilitating exploratory analyses and comparisons across samples and biological conditions. We demonstrate the approach through evaluations across datasets from several spatial transcriptomics platforms and simulations. The spatial-smoothing workflow and BD metric are implemented in the smoothclust R package, which is freely available from Bioconductor and GitHub.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761912",
+    "date": "2026-10-30",
+    "authors": "Rusnak L, Weber LM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354466",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "clustering",
+        "framework",
+        "gene",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4004,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.26.761912"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e02068cd725383ecb8e734ec455c5c7c7123f18bbba2ced2b1529f11cf0e157",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:04:09.763506+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "64a02eed6ab333ec8ac3039bfc093aa520b7a57193f9fa343fdf1297232b7811",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:04:09.763506+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "smoothclust: 空間トランスクリプトミクスのための空間スムージングと境界密度要約",
+    "abstract_ja": "空間トランスクリプトミクスにより、組織構造を保持したまま遺伝子発現を測定することが可能となる。一般的な解析タスクの一つに空間ドメインの同定があり、ここでは空間的に一貫した発現プロファイルまたは細胞種混合を有する領域と定義し、カテゴリカルな空間組織マップを用いて表現する。しかし、空間ドメインを同定するための手法は数多く開発されてきたものの、サンプルレベルで空間ドメインの組織構造や組織アーキテクチャを定量化するための解釈可能な要約指標は、依然として標準化が進んでいない。本研究では、空間ドメイン解析のためのフレームワークであるsmoothclustを提案する。これは、空間ドメインラベルを生成するための空間平滑化ベースのクラスタリングワークフローと、空間グラフ上のラベル遷移の局所的およびサンプルレベルの要約を提供する境界密度（BD）指標の2つのコンポーネントで構成される。確立されたカテゴリカル空間統計量に基づき、生のBD指標は、異なるドメインラベルに割り当てられた隣接する空間位置の割合から算出され、入力として空間座標とドメインラベルのみを必要とする。この指標は、我々の空間平滑化ベースのドメインラベル、あるいは外部のクラスタリング手法や手動アノテーションによるラベルのいずれかを用いて算出できる。相対BDは組成調整済みの要約であり、生のBDを、観測されたラベル数を用いたランダム再ラベル付け下での期待値で除して算出される。ラベル遷移を定量化することで、本フレームワークは空間ドメインラベルマップを、組織アーキテクチャの解釈可能な局所的およびサンプルレベルの要約指標へと変換し、サンプル間や生物学的条件を横断した探索的解析や比較を容易にする。我々は、複数の空間トランスクリプトミクスプラットフォームのデータセットおよびシミュレーションを用いた評価を通じて、このアプローチを実証する。空間平滑化ワークフローとBD指標は、BioconductorおよびGitHubから無料で入手可能なsmoothclust Rパッケージに実装されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.761959",
+    "title": "Live Spatial Transcriptomics Enables Longitudinal Tissue Mapping",
+    "abstract": "Spatial transcriptomics has become an important technology in biomedical research by preserving the spatial context of gene expression in tissues and enabling the study of cellular states and interactions  in situ . However, most existing methods provide only static snapshots of individual tissue specimens, requiring inference of the molecular dynamics underlying development, disease progression, and therapeutic response from different specimens rather than direct tracking in the same living tissue. Here, we introduce Live Spatial Transcriptomics (Live-ST), a technology that enables longitudinal, transcriptome-wide profiling of living tissue. Live-ST combines electroporation-based intracellular sampling and spatial barcoding to enable repeated, spatially resolved mRNA measurements in intact living tissue through next-generation sequencing. We demonstrate its capabilities by (i) benchmarking spatial mRNA capture in patterned two-dimensional cell systems, (ii) spatially profiling transcriptomes in intact, patient-derived living melanoma tissues while preserving tissue viability, and (iii) longitudinally tracking drug-response dynamics within the tumor microenvironment. Together, Live-ST enables repeated, non-destructive measurements of spatial gene expression, providing a new framework for studying dynamic tissue biology in native physiological and pathological contexts.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.761959",
+    "date": "2026-10-30",
+    "authors": "Reynolds DE, Lee S, Lee CN, Kumar SS, Liu S, Huynh E, Kim H, Hornet V, Oh D, Bracht S, Morales RT, Vallapureddy P, Lim J, Agosto Nieves RJ, Kim J, Shaffer S, Roh YH, Xu X, Deng Y, Ko J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354272",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4006,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.28.761959"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f2a5eae0dfedc0358b8960e93e16f6c4539162aa1c61c18457405a8448f5c914",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:04:09.763506+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "995323ca00c48e0004eb9b780b88e9cd15ddea5ff2812d844a36ca4d3a33f78b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:04:09.763506+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ライブ空間トランスクリプトミクスによる経時的組織マッピングの実現",
+    "abstract_ja": "空間トランスクリプトミクスは、組織における遺伝子発現の空間的コンテキストを保持し、細胞状態や相互作用をin situで研究することを可能にすることで、生物医学研究における重要な技術となっている。しかし、既存の手法の多くは個々の組織検体の静的なスナップショットを提供するにとどまっており、同一の生体組織内での直接的な追跡ではなく、異なる検体から発生、疾患の進行、および治療反応の根底にある分子動態を推論することが求められる。本報では、生体組織の経時的なトランスクリプトーム全域プロファイリングを可能にする技術であるLive Spatial Transcriptomics（Live-ST）を提案する。Live-STは、エレクトロポレーションに基づく細胞内サンプリングと空間バーコーディングを組み合わせることで、次世代シーケンシングを通じて、無傷の生体組織において空間分解能を有するmRNA測定を繰り返し行うことを可能にする。我々は、(i) パターン化された二次元細胞系における空間的mRNAキャプチャのベンチマーク、(ii) 組織の生存能を維持しつつ、患者由来の無傷の生体メラノーマ組織におけるトランスクリプトームの空間プロファイリング、および(iii) 腫瘍微小環境内における薬剤応答動態の経時的追跡、を通じてその性能を実証する。総じて、Live-STは空間的遺伝子発現の反復的かつ非破壊的な測定を可能にし、本来の生理学的および病理学的コンテキストにおける動的な組織生物学を研究するための新たな枠組みを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.762056",
+    "title": "ProtoPure: Literature Mining and Analysis of Protein Purification Protocols at Proteome Scale",
+    "abstract": "Protein purification is a fundamental step for analyzing individual proteins and protein complexes and identifying interactions with other proteins, DNA, or RNA. A variety of protein purification strategies exist to address desired scale, throughput, and downstream applications. However, selecting an effective experimental procedure remains a largely empirical process that a quick literature review can help guide. Researchers typically survey on the order of a dozen publications for proteins with similar biochemical properties, assessing conditions on a case-by-case basis, leaving no systematic framework for comparison and decision-making at the scale of entire protein families. As protein engineering and design evolve, identifying effective purification conditions remains critical for obtaining sufficient quantities of properly folded and functional proteins.  To address this gap, we developed ProtoPure, an LLM-based workflow and database that automates the extraction, standardization and analysis of protein purification conditions from peer-reviewed literature at scale. Given a user-defined UniProt table-enabling flexible selection of proteins by family, organism, or proteome. ProtoPure retrieves associated publications, classifies them based on the presence of purification protocols, and extracts a standardized set of 12 purification parameters (e.g., buffer composition, elution conditions). By transforming dispersed experimental descriptions into a structured resource, ProtoPure makes it possible to compare purification strategies across thousands of proteins. The resulting dataset revealed quantitative convergence toward a limited set of recombinant expression practices, with BL21(DE3)-based systems dominating protein production and recurrent combinations of expression host, inducer, growth medium, and plasmid occurring substantially more frequently than expected by chance. In contrast, downstream purification parameters exhibited greater diversity, revealing a workflow architecture that combines standardized expression infrastructure with more flexible biochemical components.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.762056",
+    "date": "2026-10-30",
+    "authors": "Almada Monter R, Martinez-Lomeli J, Garay E, Trevilla Santa Ana J, Spencer A, Siordia A, Chordiya P, Luna Armijo S, Espinoza Herrera J, Roethler N, Veskimagi SM, Uppal A, Shamshoum M, Jinich A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354119",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "protein",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4007,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.26.762056"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4adf36161e3dee399959afc787ee51775bace75a887e94ccdda8da47677e1c4e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:04:09.763506+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d6aa7bcce9336ca816636569f79fb8b786eaf2c56f95456ad4ab4cc7145bf6b2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:04:09.763506+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ProtoPure: プロテオームスケールにおけるタンパク質精製プロトコルの文献マイニングと解析",
+    "abstract_ja": "タンパク質精製は、個々のタンパク質やタンパク質複合体を解析し、他のタンパク質、DNA、またはRNAとの相互作用を同定するための基礎的な工程である。所望のスケール、スループット、およびダウンストリームアプリケーションに対応するため、多様なタンパク質精製戦略が存在する。しかし、効果的な実験手順の選定は依然として大部分が経験的なプロセスであり、迅速な文献レビューがその指針となり得る。研究者は通常、類似した生化学的特性を持つタンパク質について12報程度の文献を調査し、条件を個別に評価するため、タンパク質ファミリー全体のスケールでの比較や意思決定のための体系的な枠組みが存在しない。タンパク質工学と設計が進化する中で、適切にフォールディングされ機能的なタンパク質を十分な量で得るためには、効果的な精製条件の特定が引き続き極めて重要である。このギャップを埋めるため、我々は、査読済み文献からタンパク質精製条件の抽出、標準化、および解析を大規模に自動化するLLMベースのワークフローおよびデータベース「ProtoPure」を開発した。ユーザー定義のUniProtテーブルにより、ファミリー、生物体、またはプロテオームによる柔軟なタンパク質選択が可能となる。ProtoPureは関連する文献を検索し、精製プロトコルの有無に基づいて分類し、12項目の標準化された精製パラメータ（例：緩衝液組成、溶出条件）を抽出する。分散した実験記述を構造化されたリソースに変換することで、ProtoPureは数千ものタンパク質にわたる精製戦略の比較を可能にする。得られたデータセットからは、限定的な組換え発現手法への定量的な収束が認められ、BL21(DE3)ベースのシステムがタンパク質生産において支配的であること、また発現宿主、誘導剤、増殖培地、およびプラスミドの反復的な組み合わせが、偶然に期待されるよりも大幅に頻繁に出現することが明らかになった。対照的に、ダウンストリームの精製パラメータはより大きな多様性を示し、標準化された発現インフラストラクチャとより柔軟な生化学的コンポーネントを組み合わせたワークフローアーキテクチャの存在が明らかになった。"
   }
 ]
