@@ -242632,5 +242632,331 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ミンクにおけるアリューシャン病耐性形質のゲノムワイド関連解析およびゲノム予測",
     "abstract_ja": "要旨　アリューシャン病（AD）はミンクにとって重大な健康上の懸念事項であり、ミンク産業に多大な経済的損失をもたらしている。一部のミンク農場ではAD耐性個体の表現型選抜が行われているが、AD耐性の遺伝的構造や、AD耐性形質に対する遺伝的またはゲノム的選抜の可能性については、これまで広く検討されてこなかった。したがって、本研究の目的は、ゲノムワイド関連解析（GWAS）を実施してAD耐性に関連するゲノム領域および遺伝子を同定し、育種価の予測における各種遺伝的・ゲノム的手法の効率性を検討することであった。対象個体（n = 1,411）は、Axiom Affymetrix Mink 70K一塩基多型（SNP）パネルによる遺伝子型を有しており、表現型には、抗原ベースの酵素結合免疫吸着法（ELISA-G）およびヨウ素凝集試験（IAT）で測定した2つの免疫応答形質と、飼料摂取量の日内変動（Varf）および離餌日数（DOF）の割合で測定した2つの飼料摂取量関連耐性形質が含まれていた。遺伝的およびゲノム的予測の手法には、従来の家系ベースの最良線形不偏予測（BLUP）、ゲノムBLUP（GBLUP）、およびシングルステップゲノムBLUP（ssGBLUP）を用いた。GWASの結果、17、8、および7つの有意な（q"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762477",
+    "title": "Characterisation of  cis  -regulatory elements and genome wide enhancer prediction in Heliconiini butterflies",
+    "abstract": "The large-scale annotation and spatiotemporal characterisation of  cis -regulatory promoters and enhancers remain limited in many non-model organisms, largely due to fragmented availability of multiomic datasets across species and developmental conditions.  Heliconius butterflies, which have been used to investigate wing development and patterning, have provided key insights into the genetic architecture underlying morphological diversification and adaptive pigmentation. Despite this, we are limited in what we understand of how  cis -regulatory dynamics drive phenotypic wing patterning variation. Here, by re-analysing and re-evaluating available data, we present a comprehensive new description of a  cis -regulatory atlas for  Heliconius wing development by integrating chromatin accessibility dynamics (ATAC-seq) with histone modification profiling (H3K27ac, H3K4me3). High-confidence peak sets enabled robust annotation of promoters and enhancers, revealing regulatory distributions consistent with canonical regulatory organisation. Promoters displayed comparatively higher conservation of transcription factor motifs, whilst enhancers exhibited greater sequence diversity, broader genomic distributions and more variable motif repertoires. Comparative analysis revealed  cis -regulatory divergence to be primarily temporal, with substantial chromatin remodelling and differential histone enrichment across development, while regulatory dynamics were highly conserved between forewing and hindwing tissues. Extending these experimentally characterised regulatory landscapes, a convolutional neural network was trained for sequence-based enhancer prediction, achieving test AUROC and AUPRC values of 0.909 and 0.913, respectively. Predictions across 34 Heliconiini assemblies displayed significant enrichment within independently characterised accessible chromatin and conserved non-exonic elements (CNEEs), supporting their putative regulatory function. Overall, this study provides a large-scale characterisation of  cis -regulatory dynamics and extends enhancer annotation across Heliconiini, providing a foundation for comparative investigations of regulatory conservation and diversification.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762477",
+    "date": "2026-10-29",
+    "authors": "Ritchie AD, Cicconardi F, Montgomery SH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353401",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4010,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.28.762477"
+    ],
+    "translation": {
+      "title": {
+        "hash": "410a1fb290d7a2a910d36efad00a1b4812e000e1d4747f26d1f7366342ea19ec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:58:33.884187+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a8701b4526cb58bcb032fa3b51b6c3793aaf6d5ccda221fabf7ab5e5c6c37171",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:58:33.884187+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヘリコニウス族のチョウにおけるシス調節エレメントの特性解析とゲノムワイドなエンハンサー予測",
+    "abstract_ja": "多くの非モデル生物において、シス調節プロモーターおよびエンハンサーの大規模なアノテーションと時空間的な特性解析は依然として限定的であり、その主な要因は、種や発生条件間でマルチオミクスデータセットの利用可能性が断片化していることにある。翅の発生とパターン形成の研究に用いられてきたヘリコニウス属のチョウは、形態的多様化と適応的色素沈着の根底にある遺伝的構造に関する重要な知見をもたらしてきた。それにもかかわらず、シス調節ダイナミクスがいかにして翅の表現型パターンの変異を駆動するのかという点については、理解が限られている。本研究では、利用可能なデータの再解析と再評価を行い、クロマチンアクセシビリティ動態（ATAC-seq）とヒストン修飾プロファイリング（H3K27ac, H3K4me3）を統合することで、ヘリコニウス属の翅発生に関するシス調節アトラスの包括的な新記述を提示する。高信頼度のピークセットにより、プロモーターおよびエンハンサーの堅牢なアノテーションが可能となり、古典的な調節組織化と整合する調節分布が明らかになった。プロモーターは転写因子モチーフの保存性が比較的高い一方、エンハンサーはより大きな配列多様性、より広範なゲノム分布、およびより多様なモチーフレパートリーを示した。比較解析の結果、シス調節の分岐は主に時間的であり、発生過程を通じて大幅なクロマチンリモデリングとヒストンの差異的な濃縮が見られる一方で、調節ダイナミクスは前翅組織と後翅組織の間で高度に保存されていることが明らかになった。これらの実験的に特性解析された調節ランドスケープを拡張し、シーケンスに基づくエンハンサー予測のために畳み込みニューラルネットワークを学習させたところ、テストAUROCおよびAUPRCはそれぞれ0.909および0.913という値を達成した。34のヘリコニウス族アセンブリにわたる予測では、独立して特性解析されたアクセシブルクロマチンおよび保存された非エクソン要素（CNEEs）において有意な濃縮が認められ、それらの推定される調節機能が支持された。総じて、本研究はシス調節ダイナミクスの大規模な特性解析を提供し、ヘリコニウス族全体におけるエンハンサーアノテーションを拡張することで、調節の保存性と多様化に関する比較研究の基盤を築くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11202434/v1",
+    "title": "Explainable Protein Language Model Embeddings for Rapid Antibiotic Resistance Gene Classification",
+    "abstract": "Abstract  Antimicrobial resistance (AMR) is a major public-health threat because resistant infections narrow therapeutic options, delay effective treatment, and increase the clinical and economic burden of bacterial disease. Conventional phenotypic susceptibility testing remains essential but requires 24–48 hours after isolate growth, while sequence-based interpretation requires curated databases and bioinformatics expertise. This paper presents ResiScan, an explainable machine-learning framework for rapid classification of antibiotic resistance genes from protein sequences. The proposed system uses the Comprehensive Antibiotic Resistance Database (CARD) protein homolog model data and extracts contextual protein representations with the pre-trained ESM2 model. Each protein sequence is tokenized, truncated to 512 residues for computational consistency, passed through ESM2, and represented by a 320-dimensional mean-pooled embedding. A logistic regression classifier is trained on these embeddings, with the Synthetic Minority Oversampling Technique (SMOTE) applied only to the training partition to address severe class imbalance across five target resistance classes: beta-lactam, aminoglycoside, macrolide, tetracycline, and vancomycin. The framework further integrates SHAP-based feature attribution to expose which embedding dimensions contribute most strongly to each prediction, and provides an interactive Gradio web interface for non-specialist use. The prototype achieves 99.25% accuracy and a macro-F1 score of 0.9507 on a held-out test set of 400 protein sequences, demonstrating a practical balance among speed, interpretability, and deployability.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11202434/v1",
+    "date": "2026-10-29",
+    "authors": "Deepthi M, Muthukumar S, Vijayakumar D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353028",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "classification",
+        "gene",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "classification",
+          "gene",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4011,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.21203/rs.3.rs-11202434/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f89f4f31849a1dc0a0df00b10780cdd610cdc2cea9cf235b7c15d1c8c8a7131d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:58:33.884187+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "980c65b1cc90193bcc12304f9b7388a9f005cb8526cbe6a8be694bdd6c949432",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:58:33.884187+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "迅速な抗生物質耐性遺伝子分類のための説明可能なタンパク質言語モデル埋め込み表現",
+    "abstract_ja": "要旨　薬剤耐性（AMR）は、耐性感染症が治療選択肢を狭め、効果的な治療を遅らせ、細菌性疾患による臨床的・経済的負担を増大させるため、公衆衛生上の重大な脅威となっている。従来の表現型感受性試験は依然として不可欠であるが、分離株の増殖後24～48時間を要する一方、配列に基づく解釈には整備されたデータベースとバイオインフォマティクスの専門知識が必要となる。本論文では、タンパク質配列から薬剤耐性遺伝子を迅速に分類するための、説明可能な機械学習フレームワーク「ResiScan」を提案する。提案システムは、Comprehensive Antibiotic Resistance Database（CARD）のタンパク質ホモログモデルデータを利用し、事前学習済みのESM2モデルを用いて文脈的なタンパク質表現を抽出する。各タンパク質配列はトークン化され、計算上の一貫性のために512残基に切り捨てられた後、ESM2に通して320次元の平均プーリング埋め込み表現で表される。これらの埋め込み表現を用いてロジスティック回帰分類器を学習させ、5つの標的耐性クラス（β-ラクタム系、アミノグリコシド系、マクロライド系、テトラサイクリン系、バンコマイシン系）にわたる深刻なクラス不均衡に対処するため、学習用分割データにのみ合成少数代表サンプリング法（SMOTE）を適用する。さらに、本フレームワークはSHAPに基づく特徴量寄与度分析を統合することで、どの埋め込み次元が各予測に最も強く寄与しているかを明らかにするとともに、非専門家向けのインタラクティブなGradioウェブインターフェースを提供する。プロトタイプは、400個のタンパク質配列からなるホールドアウトテストセットにおいて99.25%の正解率と0.9507のマクロF1スコアを達成し、速度、解釈可能性、およびデプロイ可能性の実用的なバランスを実証した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.1099/acmi.0.001187.v3",
+    "title": "From enrollment to sequencing: cancer microbiome methods reporting is inconsistent and incomplete",
+    "abstract": "Reproducibility in microbiome research depends on transparent reporting of sample sizes and sequence counts both before and after quality control (QC) processes. This is an expectation formalized in the STORMS (Strengthening The Organization and Reporting of Microbiome Studies) checklist published in November 2021. Whether cancer microbiome studies comply with the STORMS items governing sample size, sequencing and quality control, however, remains largely unexamined. Here, we audited 67 clinical cancer microbiome studies against ten STORMS items that apply to every microbiome study, spanning participant and sample counts, laboratory processing, sequencing, bioinformatic processing and experimental controls. Nearly all studies reported their number of participants (96%) and final number of samples analyzed (97%). However, STORMS items beyond sample sizes were largely underreported, ranging from 9% to 36%. The median study reported two of these eight methods items, and 16 studies reported none. Reporting did not change measurably after STORMS was published and was unrelated to journal impact factor. Because aspects like read normalization, quality-control filtering, taxa removal, and contamination handling directly affect the end result of a cancer microbiome study, differences in how these are implemented can have critical implications for the field’s reproducibility as well as rigor at large. Resolving this issue will require buy-in from scientists, funding institutions, and journals to work together to enforce stricter standards for cancer microbiome methodology reporting.",
+    "journal": "",
+    "doi": "10.1099/acmi.0.001187.v3",
+    "date": "2026-10-29",
+    "authors": "Kobobel DG, Degregori S, Gonzalez A, Wright S, Richie TG, Han JH, Gu H, Huang I, Fetcinko LH, Hutcherson DJ, Martel H, Garcia Reyes A, Kisselev D, Song EC, Microbiome Metadata Crisis Consortium, Knight R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353207",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "microbiome",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "method",
+          "sequencing"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4046,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.1099/acmi.0.001187.v3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "98480d5e28b8efc3378873d59b6fd3e3ebed04a167c7ad2376533ec1e7d7b1cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:58:33.884187+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "02b5c7e02608359e7f5c1e0ff76708ca6e1500eaaab9f3629d016e14b3e3c849",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:58:33.884187+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "登録からシーケンシングまで：がんマイクロバイオーム解析手法の報告は一貫性に欠け、不完全である",
+    "abstract_ja": "マイクロバイオーム研究における再現性は、品質管理（QC）プロセスの前後におけるサンプルサイズおよびシーケンスカウントの透明性の高い報告にかかっている。この点は、2021年11月に発表されたSTORMS（Strengthening The Organization and Reporting of Microbiome Studies）チェックリストにおいて形式化された期待事項である。しかし、がんマイクロバイオーム研究が、サンプルサイズ、シーケンシング、および品質管理を規定するSTORMS項目に準拠しているかどうかは、依然としてほとんど検証されていない。本研究では、参加者数およびサンプル数、ラボでの処理、シーケンシング、バイオインフォマティクス処理、および実験対照にわたる、あらゆるマイクロバイオーム研究に適用される10項目のSTORMS項目を用いて、67件の臨床がんマイクロバイオーム研究を監査した。ほぼすべての研究において、参加者数（96%）および最終的な解析サンプル数（97%）が報告されていた。しかし、サンプルサイズ以外のSTORMS項目については報告漏れが多く、その割合は9%から36%に及んだ。報告があった研究のうち、これら8つの手法項目のうち2項目を報告していた研究は中央値で2件であり、16件の研究ではいずれの項目も報告されていなかった。STORMSの公開後も報告状況に測定可能な変化は見られず、ジャーナルのインパクトファクターとも関連していなかった。リード正規化、品質管理フィルタリング、分類群の除去、およびコンタミネーション処理といった側面は、がんマイクロバイオーム研究の最終結果に直接影響するため、これらの実施方法の違いは、当該分野の再現性のみならず、全般的な厳密性にとっても重大な影響を及ぼし得る。この問題を解決するには、科学者、助成機関、およびジャーナルが連携し、がんマイクロバイオームの手法報告に関するより厳格な基準を徹底することが不可欠である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2791.v1",
+    "title": "Genomic Characterization of Enterococcus gallinarum and Enterococcus avium Infecting Broiler Embryos; A Shared Integrative and Conjugative Element Associated with Avian Isolates",
+    "abstract": "Enterococcus species are common opportunistic pathogens infecting a wide range of hosts, and often presenting multidrug resistance. Our research has identiﬁed several species of Enterococcus infecting broiler embryos or newly hatched chicks. Genome assemblies for Enterococcus avium and Enterococcus gallinarum isolated from broilers were compared with genomes from poultry and other hosts for phylogenomic relationships and pangenome associations. Three diﬀerent methods demonstrated that host preference in E. gallinarum is associated with genome evolution, with three prominent clusters. In E. avium there is no such evidence for clustering of isolates with respect to host range. The pange-nome analysis identiﬁed a 50- to 51-gene cluster spanning approximately 36 kbp enriched in avian and poultry isolates, relative to human isolates for both species. ChatGPT+ analysis of gene annota-tions from diﬀerent pipelines for this cluster predicted the cluster is likely a new Integrative and Conjugative Element (ICE). Representative ICE inserts were identiﬁed: ICE3 in E. gallinarum EGM181, with ICE1 and ICE2 from our hybrid assembly for E. avium 1788. Boundaries of these ICEs were identiﬁed by alignment to closely related genomes that lacked the ICE. ICE1 and ICE3 are 99% identical, while ICE2 is 94% identical to ICE1/ICE3. Two pipelines were constructed using ChatGPT+ to screen all available genomes from both species, for ICE1-like and ICE2-like, and subsequently extract intact ICEs, including identiﬁcation of ﬂanking genes. E. gallinarum genomes contained 13 ICE1-like and 1 ICE2-like, while E. avium genomes contained 15 ICE1-like and 4 ICE2-like. Only 1788 contained two ICEs. For 31 genomes the ICE insert is downstream of UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (murF) and upstream of DEAD-box ATP-dependent RNA helicase (cshA), with all inserts in the same orientation relative to the ﬂanking genes. In 1788 the upstream gene for ICE2 is murF, and downstream gene is glucose uptake protein, while for ICE1 the upstream gene is sapS and downstream gene is cshA. The pipelines identiﬁed an additional 6 E. gallinarum and 5 E. avium genomes with an ICE1 or ICE2 split across two contigs. While 20 of the gene annotations are for hypothetical or poorly deﬁned polypeptides ChatGPT+ ascribes the remainder to Replication Control/Regulatory/Accessory, Conjugative Transfer, Stability/Maintenance, Recombination/Mobil-ity, or Adhesion/Bioﬁlm. Therefore, the role of the ICE in associating bacterial isolates with avian/poultry cannot be determined at this time but likely resides in the 20 hypothetical/poorly deﬁned genes in the adaptation region of these new ICE.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2791.v1",
+    "date": "2026-10-28",
+    "authors": "Perry C, Lawal A, Pummill J, Alrubaye A, Rhoads D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352680",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "pangenom",
+          "pangenome",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 28,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2791.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "acb81d96eee9f045e8474bf6f5a39223021cc0d831a6fdeebc4e15dfd62cd46c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:58:33.884187+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d38742a5eca97f022cf9a0b0a55418343c8a6ae5920b85c1b8972beb1b55abac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:58:33.884187+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブロイラー胚に感染するEnterococcus gallinarumおよびEnterococcus aviumのゲノム特性解析：鳥類分離株に関連する共通の統合的・接合的エレメント",
+    "abstract_ja": "エンテロコッカス属菌は、広範な宿主に感染する一般的な日和見病原体であり、しばしば多剤耐性を示す。我々の研究では、ブロイラー胚または孵化直後の雛に感染するエンテロコッカス属の数種を同定した。ブロイラーから分離したEnterococcus aviumおよびEnterococcus gallinarumのゲノムアセンブリを、家禽およびその他の宿主のゲノムと比較し、系統ゲノム学的関係およびパンゲノム関連性を解析した。3つの異なる手法により、E. gallinarumにおける宿主選好性がゲノム進化に関連しており、3つの顕著なクラスターが存在することが示された。E. aviumにおいては、宿主範囲に関する分離株のクラスター化を示すそのような証拠は認められない。パンゲノム解析により、両種のヒト分離株と比較して、鳥類および家禽の分離株に富む、約36 kbpにわたる50〜51遺伝子のクラスターが同定された。このクラスターについて異なるパイプラインを用いて遺伝子アノテーションをChatGPT+で解析した結果、このクラスターは新規の統合・接合要素（Integrative and Conjugative Element: ICE）である可能性が高いと予測された。代表的なICEインサートとして、E. gallinarum EGM181のICE3、およびE. avium 1788のハイブリッドアセンブリ由来のICE1およびICE2が同定された。これらのICEの境界は、ICEを欠く近縁ゲノムとのアライメントによって特定された。ICE1とICE3は99%同一であり、ICE2はICE1/ICE3と94%同一であった。ChatGPT+を用いて2つのパイプラインを構築し、両種の利用可能な全ゲノムを対象にICE1様およびICE2様のスクリーニングを行い、その後、フランキング遺伝子の同定を含む完全なICEを抽出した。E. gallinarumのゲノムには13個のICE1様および1個のICE2様が含まれており、E. aviumのゲノムには15個のICE1様および4個のICE2様が含まれていた。2つのICEを含んでいたのは1788のみであった。31のゲノムにおいて、ICEインサートはUDP-N-アセチルムラモイル-トリペプチド-D-アラニル-D-アラニンリガーゼ（murF）の下流かつDEAD-box ATP依存性RNAヘリカーゼ（cshA）の上流に位置しており、すべてのインサートがフランキング遺伝子に対して同一の配向を示していた。1788では、ICE2の上流遺伝子はmurF、下流遺伝子はグルコース取り込みタンパク質であり、ICE1では上流遺伝子がsapS、下流遺伝子がcshAであった。パイプラインにより、2つのコンティグにわたってICE1またはICE2が分岐しているE. gallinarumのゲノムがさらに6つ、E. aviumのゲノムがさらに5つ同定された。遺伝子アノテーションのうち20件は仮説上のものまたは定義が不十分なポリペプチドであるが、ChatGPT+は残りを複製制御/調節/補助、接合転移、安定性/維持、組換え/可動性、または接着/バイオフィルムに分類している。したがって、細菌分離株を鳥類/家禽に関連付ける上でのICEの役割は現時点では特定できないが、おそらくこれらの新規ICEの適応領域にある20個の仮説上の/定義不十分な遺伝子に存在していると考えられる。"
   }
 ]
