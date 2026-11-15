@@ -238908,5 +238908,317 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "短鎖・長鎖ハイブリッドキャプチャ型ウイルスメタゲノミクスは、CSFおよびBAL検体において、ルーチン診断法と比較してデータ駆動型のカットオフを用いることで高い感度と特異性を実現する。",
     "abstract_ja": "背景  ハイブリッドキャプチャ型ウイルスメタゲノミクスは、非標的型メタゲノミクスに比べて感度が向上しているが、シーケンシングプラットフォーム間における性能や、実際の臨床検体を用いたデータ駆動型解析のカットオフ値の定義については、体系的な評価が行われていない。本研究では、ショートリードおよびロングリードプラットフォームにおいて、模擬検体および臨床検体を用いてハイブリッドキャプチャワークフローの性能評価を行うとともに、病原体判定のカットオフ値設定のための、新規かつ再現性のあるアプローチを提案する。方法  Twist Comprehensive Viral Research Panelを用い、12検体の模擬脳脊髄液（CSF）外部品質評価（EQA）パネル検体、および14検体のCSF検体と21検体の気管支肺胞洗浄（BAL）臨床検体を対象に、AVITIショートリードおよびOxford Nanopore Technologies (ONT) ロングリードシーケンシングの両方を実施した。病原体判定のためのデータ駆動型カットオフ値は、ゲノムカバレッジ、存在量、およびブリード比のパラメータにわたるラテン超立方体サンプリングを用いて導出し、独立したEQAデータセットで検証した。結果  カットオフ値の適用後、両プラットフォームともにEQA検体において期待されるウイルス標的23例中22例を検出し（検出レベル感度95.7%）、陰性対照検体における特異度は100%であった。臨床検体においては、AVITIが30例中26例（86.7%）、ONTが30例中25例（83.3%）のルーチンウイルス検出を裏付け、診断特異度は100%を維持した。感度はCSFで100%であったが、BALではより低く、特にウイルス量の少ない標的においてその傾向が顕著であり、Cq値32未満のすべての検出例が両プラットフォームで同定された。また、メタゲノミクスにより、2検体のCSF検体において、ルーチン検査では検出されなかった臨床的に関連し得る病原体が同定された。結論  ハイブリッドキャプチャ型ウイルスメタゲノミクスは、ルーチンウイルス標的においてAVITIとONTで同等の性能を示し、AVITIの方がゲノム回収率がわずかに高かった。さらに、新たに開発したデータ駆動型カットオフ値選択戦略は、他の研究室が自らのワークフローに適用できる実用的かつ再現性のある手法を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.26366621",
+    "title": "Selective Bacteroidota Depletion but Not Global Microbiome Differences in Short Bowel Syndrome on Fiber-Free Enteral Nutrition",
+    "abstract": "Intestinal dysbiosis in pediatric short bowel syndrome (SBS) is associated with poor growth, but the factors that are driving this dysbiosis remain unclear. Prior studies suggest that parenteral nutrition (PN) dependence and remnant intestinal anatomy are correlated with dysbiosis. However, these studies often compared SBS patients to healthy controls, making it difficult to distinguish SBS-specific factors from alterations due to differences in diet, namely the consumption of enteral nutrition with complex composition and exposure to dietary fiber. In this preliminary report from the GREENBEANS study, we examined baseline stool shotgun metagenomic profiles from 10 SBS patients and 13 non-SBS controls receiving fiber-free enteral nutrition. Alpha diversity did not differ significantly between groups by richness or Shannon diversity. Beta diversity showed minimal separation by Bray-Curtis distance and modest separation in Jaccard distance. Differential abundance analysis identified depletion of Bacteroidota in SBS. Compared to control patients also receiving fiber-free enteral nutrition, SBS was associated with only a small global difference in the gut microbiome, suggesting that diet, and not anatomy as previously assumed, is the predominant determinant of gut microbiome structure. This suggests that the inclusion of complex substrates, such as dietary fiber, in enteral nutrition, may be a modality to prevent the development of a dysbiotic microbiome in patients with SBS. What is known/What is new  What is known  Children with short bowel syndrome (SBS) often demonstrate intestinal dysbiosis characterized by reduced microbial diversity and enrichment of Proteobacteria/Enterobacteriaceae compared with healthy controls. Dysbiosis in SBS is associated with increased PN dependence and poor growth outcomes. The relative contribution of various SBS-associated factors to this dysbiosis remains unclear because prior studies generally used healthy control subjects. What is new  SBS-specific differences while on fiber-free enteral nutrition were driven primarily by selective depletion of Bacteroidota anaerobes rather than broad Proteobacteria expansion. SBS was associated with only a modest global microbiome separation from non-SBS controls when both were receiving fiber-free enteral nutrition, suggesting that the lack of dietary fiber, rather than the alteration of intestinal anatomy or other SBS-specific factors, may be a major factor in the development of the SBS-associated dysbiosis found in prior studies. Our findings shift attention from fixed anatomic factors alone towards potentially modifiable dietary contributors in SBS-associated dysbiosis, including enteral substrate complexity and dietary fiber exposure.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.26366621",
+    "date": "2026-10-29",
+    "authors": "Zong W, Daniel SG, Zarek CM, Wilson NG, Cook C, Riebe N, Kirsch J, Marquez ET, Alame R, Channabasappa N, Nguyen V, Bittinger K, Wu GD, Bales C, Koh AY, Albenberg L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354369",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1123,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.26366621"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a154ddb236d738965313ad2bbf65e4be65941afcdd4b592421d97fba18f3566e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:18:25.698670+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "58778b13ee40a56ee128acc8a9172d1908c90b3a12d703fe9341d6845ccb1fdc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:18:25.698670+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食物繊維を含まない経腸栄養における短腸症候群での選択的なバクテロイデス門の減少とマイクロバイオーム全体の差異の欠如",
+    "abstract_ja": "小児短腸症候群（SBS）における腸内細菌叢の乱れは成長不良と関連しているが、この乱れを惹起する要因は依然として不明である。先行研究では、静脈栄養（PN）依存性と残存腸管形態が腸内細菌叢の乱れと相関していることが示唆されている。しかし、これらの研究では多くの場合、SBS患者を健常対照群と比較していたため、SBS特有の要因と、食事内容の違い（すなわち、複雑な組成の経腸栄養の摂取や食物繊維への曝露）による変化とを区別することが困難であった。GREENBEANS研究の本予備報告では、食物繊維を含まない経腸栄養を受けていたSBS患者10例および非SBS対照群13例のベースラインにおける便ショットガンメタゲノムプロファイルを解析した。アルファ多様性は、リッチネスまたはシャノン多様性において、群間で有意な差は認められなかった。ベータ多様性は、ブレイ・カーティス距離による分離が最小限であり、ジャカード距離による分離もわずかであった。差次的存在量解析により、SBSにおいてバクテロイデス門の枯渇が同定された。同様に食物繊維を含まない経腸栄養を受けていた対照群と比較して、SBSでは腸内マイクロバイオームの全体的な差異がわずかであり、これまで想定されていた形態ではなく食事内容こそが、腸内マイクロバイオーム構造の主要な決定要因であることが示唆された。このことは、経腸栄養に食物繊維などの複雑な基質を組み込むことが、SBS患者におけるディスバイオティックなマイクロバイオームの形成を防ぐ手段となり得ることを示唆している。既知の事項／新規事項 既知の事項 短腸症候群（SBS）の小児では、健常対照群と比較して、微生物多様性の低下およびプロテオバクテリア門／腸内細菌科の濃縮を特徴とする腸内細菌叢の乱れがしばしば認められる。SBSにおける腸内細菌叢の乱れは、PN依存性の亢進および成長不良の転帰と関連している。先行研究では一般的に健常対照被験者が用いられていたため、この乱れに対する各種SBS関連因子の相対的な寄与は依然として不明である。新規事項 食物繊維を含まない経腸栄養投与下におけるSBS特有の差異は、広範なプロテオバクテリア門の拡大ではなく、主にバクテロイデス門嫌気性菌の選択的な枯渇によってもたらされていた。両者が食物繊維を含まない経腸栄養を受けていた場合、SBSは非SBS対照群との間で全体的なマイクロバイオームの分離がわずかしか認められなかった。このことは、先行研究で認められたSBS関連の腸内細菌叢の乱れの形成において、腸管形態の変化や他のSBS特有の要因ではなく、食物繊維の欠如が主要な要因である可能性を示唆している。本研究の知見は、SBS関連の腸内細菌叢の乱れにおいて、固定的な解剖学的要因のみに注目するのではなく、経腸基質の複雑性や食物繊維への曝露など、潜在的に修正可能な食事的寄与因子へと関心を転換させるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2954.v1",
+    "title": "A Naturally Occurring Defective RNA Species of the Tymo-Like Mycovirus FbLFV1 Confers Hypovirulence in the Host Fusarium Head Blight Fungus, Fusarium boothii",
+    "abstract": "RNA viruses often generate a defective RNA (D-RNA) species that has internal deletion(s) and recombined fragment(s), which are believed to occur during viral replication. Such subviral RNA fragments sometimes exert overt effects on their parental viral replication or pathogenicity and are called defective-interfering RNA (DI-RNA). This study reports a rare example in which a D-RNA acquired a novel function that determines the hypovirulent phenotype of the host fungus, Fusarium boothii Ep-BL13, a causal agent of Fusarium head blight. The parental Fusarium boothii large flexivirus 1 (FbLFV1) is a tymo-like virus with a 13 kb (+)ssRNA genome encoding a single large ORF, and the D-RNA has an approximately 10 kb internal deletion in the ORF with an in-frame connection. Partial virus curing revealed a clear association between viral infection (FbLFV1 + D-RNA) and inhibition of colony growth and the pathogenicity of the host F. boothii. These traits were further confirmed in a fungal strain expressing the D-RNA ORF, specifically under FbLFV1 infection. Moreover, FbLFV1 and D-RNA infection decreased the host fungal production of the mycotoxin deoxynivalenol. Overall, FbLFV1 produced a D-RNA in F. boothii in nature, which carries the rearranged gene (D-RNA ORF) with a virulence-determining function, representing a rare example of gain-of-function by a D-RNA.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2954.v1",
+    "date": "2026-10-29",
+    "authors": "Sato Y, Mizutani Y, Abbhi V, Kamiya M, Kikuchi H, Kanamori K, Abraham A, Sato I, Suzuki N, Suga H, Chiba S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353614",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1124,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2954.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "182a312b7f0a29e2de65e9e000960b99da8d63e13d252e30666885fa4b00b7b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:18:25.698670+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "87dcb4c5c2b0f02919d504e9390c91084a07dfb75af23bb2a7afc233909c3d23",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:18:25.698670+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Timo様マイコウイルスFbLFV1の自然発生的な欠損RNA種は、宿主であるフザリウム頭部枯死病菌Fusarium boothiiに低病原性を付与する。",
+    "abstract_ja": "RNAウイルスはしばしば、ウイルス複製過程で生じると考えられる内部欠失および組換え断片を有する欠損RNA（D-RNA）種を生成する。このようなサブウイルスRNA断片は、時に親ウイルスの複製や病原性に顕著な影響を及ぼすことがあり、欠損干渉RNA（DI-RNA）と呼ばれる。本研究では、フザリウム頭部枯死病の原因菌である宿主真菌Fusarium boothii Ep-BL13の低病原性表現型を決定づける新たな機能を獲得したD-RNAの稀な例を報告する。親株であるFusarium boothii large flexivirus 1（FbLFV1）は、単一の大型ORFをコードする13 kbの(+)ssRNAゲノムを持つチモ様ウイルスであり、D-RNAはORF内にインフレーム接続を伴う約10 kbの内部欠失を有する。部分的なウイルスキュアリングにより、ウイルス感染（FbLFV1 + D-RNA）とコロニー増殖の抑制、および宿主F. boothiiの病原性との明確な関連性が明らかになった。これらの形質は、D-RNA ORFを発現する真菌株において、特にFbLFV1感染下でさらに確認された。さらに、FbLFV1およびD-RNAの感染は、宿主真菌によるマイコトキシンであるデオキシニバレノールの産生を減少させた。総じて、FbLFV1は自然界のF. boothiiにおいてD-RNAを産生し、それが病原性決定機能を持つ再構成遺伝子（D-RNA ORF）を保持しており、これはD-RNAによる機能獲得の稀な例である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.3005.v1",
+    "title": "Surveillance Readiness Audit: Completeness of Surveillance-Critical Metadata in U.S. Clinical Pathogen Genomes, 2015 to 2026",
+    "abstract": "A pathogen genome supports early outbreak detection only when it is deposited with basic context: when and where the sample was collected, its source and host, whether it came from a patient, and, for resistance surveillance, its antimicrobial susceptibility. NCBI Pathogen Detection integrates the national public record of bacterial and fungal pathogen genomes, but the completeness of this context has not been measured routinely across organisms. This paper describes the Surveillance Readiness Audit v1.0.0, an open, reproducible audit of six surveillance-critical metadata fields (collection date precision, state geography, isolation source, host, epi type and antimicrobial susceptibility testing (AST) availability) for every U.S. isolate in 107 organism groups, stratified by organism, year added and submitter type. The v1.0.0 build, from NCBI data retrieved on 14 October 2026, covers 1,239,575 U.S. isolates added from 2015 to 2026, of which 911,265 (73.5%) are clinical. Only 13.4% of clinical isolates record a state, compared with 84.8% of environmental isolates, and only 6.1% carry all five core fields; 0.8% carry AST results. Year-only collection dates rose from 17.0% of clinical isolates added in 2022 to 69.2% of those added in 2024. Submissions owned by federal agencies account for 83.8% of clinical isolates, and 2.7% of them record a state. The gaps that most limit early detection from the public record are therefore geography and date precision in a small number of high-volume network programs, and susceptibility data everywhere.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.3005.v1",
+    "date": "2026-10-29",
+    "authors": "Igbuan EA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353566",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1125,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.3005.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8a34682303e9ad7d22aae36706efbac950adf1a44649260fede79d3708e33719",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:18:25.698670+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5b94681a3b23794ddd124a8a7268862944af440a9098667cdc141163c08b2a7b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:18:25.698670+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サーベイランス準備態勢監査：米国の臨床病原体ゲノムにおけるサーベイランス重要メタデータの網羅性、2015年～2026年",
+    "abstract_ja": "病原体ゲノムによる早期アウトブレイク検出が可能になるのは、サンプルの採取時期と場所、由来および宿主、患者由来か否か、そして薬剤耐性サーベイランスにおいては薬剤感受性といった、基本的なコンテキストが付随している場合に限られる。NCBI Pathogen Detectionは、細菌および真菌病原体ゲノムの国家公開レコードを統合しているが、こうしたコンテキストの網羅性が生物種間で日常的に測定されてきたわけではない。本論文では、107の生物群に属するすべての米国分離株を対象に、生物種、追加年、および提出者タイプで層別化した、6つのサーベイランス重要メタデータ項目（採取日精度、州の地理的領域、分離源、宿主、エピタイプ、および薬剤感受性試験（AST）の利用可能性）に関する、オープンで再現性のある監査である「Surveillance Readiness Audit v1.0.0」について述べる。2026年10月14日に取得したNCBIデータに基づくv1.0.0ビルドは、2015年から2026年までに追加された1,239,575件の米国分離株を対象としており、そのうち911,265件（73.5%）が臨床分離株である。臨床分離株で州が記録されているのはわずか13.4%であるのに対し、環境分離株では84.8%に及び、5つのコア項目すべてを保持しているのはわずか6.1%、AST結果を保持しているのは0.8%であった。採取日のみが記録されている割合は、2022年に追加された臨床分離株の17.0%から、2024年に追加されたものでは69.2%へと上昇した。連邦政府機関が保有する提出物は臨床分離株の83.8%を占め、そのうち州が記録されているのは2.7%である。したがって、公開レコードによる早期検出を最も制限しているギャップは、少数の高ボリュームなネットワークプログラムにおける地理的領域と採取日精度、およびあらゆる場所における感受性データの不足である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762328",
+    "title": "Comparisons among Yanomami populations reveal transitional gut microbiome configurations under urban influence",
+    "abstract": "Urbanization influences gut microbiome composition and function, yet comparisons between contrasting lifestyles offer limited insight into which microbial features are most sensitive to increasing urbanization. We analyzed gut shotgun metagenomes from Yanomami participants, an Indigenous Amazonian people who maintain traditional livelihoods, across three geographically distinct populations with varying degrees of urban influence, as well as an urban Belgian cohort. Belgian and Yanomami microbiomes differed markedly in taxonomic composition and functional potential. The comparison between Bicho-Açu, the most urban-influenced Yanomami population, and Xamakorona, the least urban-exposed, revealed that although Bicho-Açu presented a broadly Yanomami-associated microbiome, it exhibited selected urban-associated features, including greater  Bacteroides abundance and a higher relative abundance of genes involved in glycosaminoglycan degradation and secondary bile acid biosynthesis pathways. Furthermore, genus-level co-occurrence network connectivity showed an orderly shift across populations, declining progressively with increasing urban influence. Carbohydrate-active enzyme profiles further showed stronger non-starch-polysaccharide-associated signals in Belgium and resistant-starch-associated features in Xamakorona, suggesting distinct carbohydrate-processing strategies. Our findings support a model in which urbanization reshapes microbial composition, their ecological interactions, and metabolic capacity, with transitional configurations emerging through selective shifts across these dimensions.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762328",
+    "date": "2026-10-29",
+    "authors": "de Carvalho LAL, Thorp M, Ciers M, Callewaert C, Good D, Allen-Vercoe E, Vereecke L, Paulino LC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353418",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomes",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1138,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762328"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a4e0e7f0adb134027b48dd1fa5167b03322f6b7babff40f78049c8a42cab289c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:18:25.698670+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6e242fe5aab7462a7f3f1b9b0f66f92e83a3205b1a17394e8b0cf919e7b36ded",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:18:25.698670+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヤノマミ族集団間の比較から明らかになった、都市の影響下における腸内細菌叢の遷移的構成",
+    "abstract_ja": "都市化は腸内微生物叢の組成と機能に影響を及ぼすが、対照的なライフスタイル間の比較では、どの微生物学的特徴が都市化の進展に対して最も敏感であるかについての知見は限られている。本研究では、伝統的な生業を維持しているアマゾン先住民族ヤノマミ族の参加者から、都市化の影響度が異なる地理的に異なる3つの集団、および都市部のベルギー人コホートの腸内ショットガンメタゲノムを解析した。ベルギー人とヤノマミ族の微生物叢は、分類学的組成および機能的ポテンシャルにおいて顕著な差異を示した。最も都市化の影響を受けたヤノマミ族の集団であるビチョ・アスーと、都市化の影響が最も少ないザマコローナを比較した結果、ビチョ・アスーは概ねヤノマミ族に特有の微生物叢を示す一方で、バクテロイデス属の存在量の増加や、グリコサミノグリカン分解および二次胆汁酸生合成経路に関与する遺伝子の相対存在量の上昇など、選択的な都市関連の特徴を示すことが明らかになった。さらに、属レベルの共起ネットワークの連結性は集団間で秩序あるシフトを示し、都市化の影響が増すにつれて漸次的に低下した。糖質活性酵素プロファイルにおいても、ベルギーでは非デンプン多糖類関連のシグナルがより強く、ザマコローナでは耐性デンプン関連の特徴が認められ、それぞれ異なる糖質処理戦略の存在が示唆された。本研究の知見は、都市化が微生物の組成、生態学的相互作用、および代謝能を変容させ、これらの次元における選択的なシフトを通じて遷移的な構成が形成されるというモデルを支持するものである。"
   }
 ]
