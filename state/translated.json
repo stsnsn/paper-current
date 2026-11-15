@@ -247072,5 +247072,321 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "宿主トランスクリプトームシグネチャーを用いた眼病原体の機械学習に基づく分類：概念実証",
     "abstract_ja": "要旨  背景。感染性角膜炎、ぶどう膜炎、および眼内炎の診断は、少量の眼組織検体における病原体由来検体の不足によって制約を受けている。宿主トランスクリプトームは豊富な代替シグナルであり、感染によって病原体クラス特異的な転写応答が誘発されるため、直接的な検出を伴わずに病原体の同定が可能となる可能性がある。我々は、公開されているin vitro感染RNA-seqを用いて、この前提を概念実証として検証した。36のBioProjectおよび24種類の宿主細胞株にわたり、6種類の病原体（単純ヘルペスウイルス-1、ヒトサイトメガロウイルス、アスペルギルス・フミガートゥス、カンジダ・アルビカンス、緑膿菌、結核菌）を網羅する330件のヒトRNA-seqサンプル（感染検体177件、モック検体153件）を構築した。結果。研究ごとの発現変動解析により、ロバスト遺伝子特徴量行列が得られた。病原体分類は、leave-one-study-out（グループ化）交差検証下でランダムフォレストを用いて評価し、研究レベルの情報漏洩を定量化するためにランダム交差検証と比較した。ランダム（非グループ化）交差検証では、遺伝子パネルサイズ（8～700遺伝子以上）にわたってバランス正解率が0.85～0.92に達した。誠実な漏洩補正済みleave-one-group-out検証では、バランス正解率はランダム交差検証よりも低く、パネルサイズや遺伝子選択戦略に関わらず安定しており、ピーク値は0.70（60～100遺伝子パネル）、テストした全遺伝子セット（8～9,942遺伝子、7クラスで偶然レベル＝0.14）の平均は0.519～0.60であった。ロバスト遺伝子セットの教師なしUMAP可視化では、病原体別および病原体クラス別（ウイルス、真菌、細菌）に明確なクラスタリングが認められ、クロスキングダムの病原体ペアはキングダム内比較よりも顕著な分離を示した。結論。PCRやメタゲノミクスなどの確立された診断法に加え、機械学習を用いて解析した宿主トランスクリプトームシグネチャーは、病原体分類における有望な代替アプローチとなり、厳格な研究独立検証の下で、偶然レベルを大幅に上回るバランス正解率を達成した。これらの知見は、宿主トランスクリプトームに基づく診断分類の実現可能性を支持するものであり、現在の臨床応用における主要な制限要因はデータセットの由来である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1983810",
+    "title": "Integrated microbiome and metaproteome analyses reveal microbial functions underlying traditional fermented amaranth stem fermentation.",
+    "abstract": "Fermented amaranth stems are a traditional Chinese fermented vegetable characterized by a distinctive pungent flavor and complex microbial ecology. This study compared samples from Anhui (AH), Jiangsu (JS), and Zhejiang (ZJ) using physicochemical analysis, volatile profiling, free amino acid (FAA) determination, 16S rRNA sequencing, and metaproteomics. Across the three regions, pH ranged from 4.08 to 4.39, total titratable acidity from 2.7 to 3.5 mL, viable counts from 7.7 to 8.6 log CFU/g, and total volatile concentrations from 99,021 to 332,864 μg/L. After removing chloroplast- and mitochondrial-derived reads, Firmicutes (approximately 56-77%) and Proteobacteria (approximately 23-40%) dominated the bacterial communities, with Lactobacillus, Lactococcus, and Pseudomonas as the major genera. Total FAA concentrations were 888.5, 778.0, and 582.0 μg/mL in AH, JS, and ZJ, respectively. Metaproteomics identified 7,158 unique protein accession records, of which 3,926 received taxonomic assignments. Functional annotation highlighted carbohydrate metabolism, energy metabolism, stress-response functions, and carbohydrate-active enzymes. These results demonstrate region-associated differences in bacterial composition, expressed functions, and flavor-related traits and provide candidate microbial-functional links for future targeted validation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1983810",
+    "date": "2026-10-30",
+    "authors": "Meng L, Ze H, Hu X, Chen J, Li K, Li Q, Hu W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43031608",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43031608",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4684,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.3389/fmicb.2026.1983810"
+    ],
+    "translation": {
+      "title": {
+        "hash": "75f06069e2e4dff1026b94ee598c39b8f02a066dfdd5f9f4700048c1baa10624",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:14:56.194361+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "adf7858e88075b054d3a593de04a4e1154ed5aa8fbbd89a7e940b40aac469a2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:14:56.194361+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物叢およびメタプロテオームの統合解析により、従来のアマランサス茎発酵の基盤となる微生物機能が明らかになった。",
+    "abstract_ja": "発酵アマランサス茎は、独特の刺激臭と複雑な微生物生態を特徴とする中国の伝統的な発酵野菜である。本研究では、安徽省（AH）、江蘇省（JS）、および浙江省（ZJ）の試料を対象に、物理化学的分析、揮発性プロファイル解析、遊離アミノ酸（FAA）定量、16S rRNAシーケンシング、およびメタプロテオミクスを用いて比較を行った。3地域間において、pHは4.08～4.39、総滴定酸度は2.7～3.5 mL、生菌数は7.7～8.6 log CFU/g、総揮発性物質濃度は99,021～332,864 μg/Lの範囲であった。葉緑体およびミトコンドリア由来のリードを除去した結果、細菌群集ではフィルミクテス門（約56～77%）とプロテオバクテリア門（約23～40%）が優勢であり、主要な属としてラクトバチルス属、ラクトコッカス属、およびシュードモナス属が認められた。総FAA濃度は、AH、JS、ZJにおいてそれぞれ888.5、778.0、582.0 μg/mLであった。メタプロテオミクスにより7,158件の固有タンパク質アクセッションレコードが同定され、そのうち3,926件に分類学的割り当てがなされた。機能アノテーションでは、糖代謝、エネルギー代謝、ストレス応答機能、および糖活性酵素が浮き彫りとなった。これらの結果は、細菌組成、発現機能、および風味関連形質における地域間の差異を示すとともに、今後の標的検証に向けた微生物機能間の関連性の候補を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1101/gr.282190.126",
+    "title": "Integration-free and cluster-free detection of localized differential gene coexpression in single-cell data with DiCoLo.",
+    "abstract": "Detecting changes in gene coordination patterns between biological conditions and identifying the cell populations in which these changes occur are key challenges in single-cell analysis. Existing approaches often compare gene coexpression between predefined cell clusters or rely on aligning cells across conditions. These strategies can be suboptimal when changes occur within small subpopulations or when batch effects obscure the underlying biological signal. To address these challenges, we introduce DiCoLo, a framework that identifies genes exhibiting differential colocalization, defined as changes in coordinated expression within localized cell neighborhoods - subsets of highly similar cells in the transcriptomic space. Importantly, DiCoLo does not rely on cell clustering or cross-condition alignment. For each condition, DiCoLo constructs a gene graph using Optimal Transport distances that reflect gene colocalization patterns across the cell manifold. Then, it identifies differential gene programs by detecting changes in connectivity patterns between the gene graphs. We show that DiCoLo robustly identifies differential gene colocalization even under weak signals or complex batch effects, outperforming existing methods across multiple benchmark datasets. When applied to mouse hair follicle development data, DiCoLo reveals coordinated gene programs and emerging cell populations driven by perturbations in morphogen signaling that underlie dermal condensate differentiation. Overall, these results establish DiCoLo as a powerful framework for uncovering localized differential transcriptional coordinated patterns in single-cell data.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.282190.126",
+    "date": "2026-10-26",
+    "authors": "Li R, Yang J, Su PC, Jaffe A, Lindenbaum O, Kluger Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42933984",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42933984",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4650,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1101/gr.282190.126"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4ee2141958a4bfe1922317c7acb25733c8c7792fe72b7859256d243296c980f8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:14:56.194361+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8a2be5cac5529f23630eacc9c425a5d45ad8b19d10bb4a50b86024ea040b514c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:14:56.194361+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DiCoLoを用いたシングルセルデータにおける局所的な遺伝子共発現の統合・クラスターフリー検出",
+    "abstract_ja": "生物学的条件間における遺伝子協調パターンの変化を検出し、それらの変化が生じる細胞集団を同定することは、シングルセル解析における主要な課題である。既存の手法では、多くの場合、あらかじめ定義された細胞クラスター間での遺伝子共発現を比較したり、条件間での細胞アライメントに依拠したりしている。こうした戦略は、小規模なサブ集団内で変化が生じた場合や、バッチ効果が根底にある生物学的シグナルを不明瞭にする場合に、最適とは言えないことがある。これらの課題に対処するため、我々は、局所的な細胞近傍（トランスクリプトーム空間における極めて類似した細胞のサブセット）内での協調的発現の変化と定義される「差異的共局在」を示す遺伝子を同定するフレームワーク、DiCoLoを提案する。重要な点として、DiCoLoは細胞クラスタリングや条件間アライメントに依存しない。各条件について、DiCoLoは細胞多様体における遺伝子共局在パターンを反映した最適輸送距離を用いて遺伝子グラフを構築する。次いで、遺伝子グラフ間の接続性パターンの変化を検出することで、差異的な遺伝子プログラムを同定する。我々は、DiCoLoが微弱なシグナルや複雑なバッチ効果の下でも差異的な遺伝子共局在を頑健に同定し、複数のベンチマークデータセットにおいて既存手法を上回る性能を示すことを実証した。マウス毛包発生データに適用したところ、DiCoLoは、真皮凝縮体分化の基盤となる形態形成因子シグナル伝達の摂動によって駆動される、協調的な遺伝子プログラムと新興の細胞集団を明らかにした。総じて、これらの結果は、DiCoLoがシングルセルデータにおける局所的な差異的転写協調パターンを解明するための強力なフレームワークであることを実証するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00410-26",
+    "title": "A global genomic analysis of <i>Streptococcus equi</i> subsp. z<i>ooepidemicus</i> reveals clade-specific pathogenic and antimicrobial resistance profiles with several mobile genetic elements as key adaptive drivers.",
+    "abstract": "Streptococcus equi subsp. zooepidemicus (S. zooepidemicus) is a zoonotic pathogen affecting various mammals, yet its genomic epidemiology remains poorly understood. To address this, we analyzed 428 S. zooepidemicus strains from six countries (1993-2024). The whole-genome single-nucleotide polymorphism (SNP) revealed four clades, with genetic diversity driven by lineage rather than host species or geographic origin. The findings support the conclusion that S. zooepidemicus is a host generalist, with horses serving as the primary host. The identified virulence-associated genes (VAGs) showed clade-specific distribution patterns: clade 1 lacked adherence factor genes srtC.2/3/4, clade 2 was enriched for the IgG-degrading enzyme gene ideZ, and clade 4 was enriched for a specific allele of the virulence-associated coupling protein gene virD4. Antimicrobial resistance genes (ARGs) were detected in 18.2% of strains, and no multidrug resistance was found. ARG prevalence was associated with clade 4, with tetracycline resistance being the most common. Mobile genetic elements (MGEs) are pivotal in shaping the accessory genome profiles: prophages function as the primary carriers of exotoxin genes, while integrative and conjugative elements (ICEs) serve as the main vehicles for ARGs. Notably, the co-localization of the invasion-associated virD4 allele and ARGs was identified on ICESz1, predominantly in clade 4 isolates. In conclusion, the pathogenic potential and resistance profiles of S. zooepidemicus are shaped by specific evolutionary lineages driven by MGEs. These elements act not only as genetic cargo but also as drivers that provide the conjugative machinery to co-disseminate virulence and resistance traits, accelerating the evolution of zoonotic lineages.IMPORTANCES. zooepidemicus is an opportunistic pathogen capable of infecting a wide range of hosts, including humans, often causing severe diseases. This study provides a framework for understanding the evolution of S. zooepidemicus, highlighting that its pathogenic potential and antimicrobial resistance (AMR) profiles are shaped by specific MGE-driven evolutionary lineages. The co-localization of the invasion-associated virD4 allele and ARGs on ICEs indicates that these elements provide both the pathogenic advantage and the conjugative machinery required for horizontal spread in S. zooepidemicus. This suggests that antibiotic selection can promote the transmission of virulent S. zooepidemicus lineages. These findings underscore the need for integrated surveillance strategies to monitor both virulence and AMR traits in S. zooepidemicus within equine populations to benefit public health.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00410-26",
+    "date": "2026-10-23",
+    "authors": "He L, Khine NO, Song J, Loubière C, Butaye P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925062",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925062",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4662,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1128/spectrum.00410-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "29d6332b29965620634965aaa799599c5ff1ab041d916b023fb44cf93d5c6bd8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:14:56.194361+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3cc84814bb25547eb673d4dd463346744e9e3e9484f8d6e28dd7b8607529ed73",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:14:56.194361+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Streptococcus equi</i> subsp. z<i>ooepidemicus</i>の全球的なゲノム解析により、複数の可動性遺伝因子を主要な適応駆動因子とする、クレード特異的な病原性および薬剤耐性プロファイルが明らかになった。",
+    "abstract_ja": "Streptococcus equi subsp. zooepidemicus (S. zooepidemicus) は、さまざまな哺乳類に感染する人獣共通感染症の病原体であるが、そのゲノム疫学については依然として十分に解明されていない。この課題に対処するため、我々は6カ国（1993-2024年）から得られたS. zooepidemicus株428株を解析した。全ゲノム一塩基多型（SNP）解析の結果、4つのクレードが明らかとなり、遺伝的多様性は宿主種や地理的起源ではなく、系統によって規定されていた。これらの知見は、S. zooepidemicusが宿主ジェネラリストであり、馬が主要な宿主であるという結論を支持するものである。同定された病原性関連遺伝子（VAGs）はクレード特異的な分布パターンを示し、クレード1では付着因子遺伝子srtC.2/3/4が欠如しており、クレード2ではIgG分解酵素遺伝子ideZが濃縮され、クレード4では病原性関連結合タンパク質遺伝子virD4の特定のアレルが濃縮されていた。薬剤耐性遺伝子（ARGs）は株の18.2%で検出されたが、多剤耐性は認められなかった。ARGの保有率はクレード4に関連しており、テトラサイクリン耐性が最も一般的であった。可動性遺伝要素（MGEs）は補助ゲノムプロファイルの形成において極めて重要であり、プロファージは外毒素遺伝子の主要な運搬体として機能し、統合・接合要素（ICEs）はARGの主要な運搬体として機能する。特筆すべきは、侵入関連virD4アレルとARGの共局在がICESz1上で確認され、主にクレード4の分離株において認められた点である。結論として、S. zooepidemicusの病原性ポテンシャルと耐性プロファイルは、MGEsによって駆動される特定の進化系統によって形成されている。これらの要素は、単なる遺伝的貨物としてだけでなく、病原性と耐性形質を共伝播させるための接合機構を提供する駆動因子としても機能し、人獣共通感染症系統の進化を加速させている。意義。zooepidemicusは、ヒトを含む広範な宿主に感染し、しばしば重篤な疾患を引き起こす日和見病原体である。本研究は、S. zooepidemicusの進化を理解するための枠組みを提供し、その病原性ポテンシャルと薬剤耐性（AMR）プロファイルが、MGEsによって駆動される特定の進化系統によって形成されていることを明らかにした。ICEs上における侵入関連virD4アレルとARGの共局在は、これらの要素がS. zooepidemicusにおいて病原性上の優位性と、水平伝播に必要な接合機構の両方を提供していることを示している。このことは、抗生物質選択が病原性の強いS. zooepidemicus系統の伝播を促進し得ることを示唆している。これらの知見は、公衆衛生上の利益のため、馬集団におけるS. zooepidemicusの病原性とAMR形質の両方をモニタリングする統合的なサーベイランス戦略の必要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag996",
+    "title": "HGVD: Human Genetic Variation Database update 2026 with sequencing of 4344 genetically diverse Japanese individuals.",
+    "abstract": "Population-scale genome resources remain biased toward European ancestry, limiting variant interpretation in underrepresented populations. Here, we expanded the Human Genetic Variation Database (HGVD), a free Japanese allele-frequency resource launched in 2013. HGVD v3.1 integrates 1209 exomes with whole-genome sequencing (WGS) data from 3135 Japanese individuals selected by principal component analysis (PCA) to span genetic diversity, providing aggregate variant statistics for 4344 individuals, 3248 genotyped individuals, and expression quantitative trait loci (eQTL) from 300 individuals. For research and clinical use, HGVD provides coordinated JBrowse-based browsers for GRCh37/hg19, GRCh38/hg38, and T2T-CHM13. The non-GRCh37 variant tracks were generated by liftOver from the GRCh37 call set. Variant frequencies, sample counts, and coverage are available across assemblies, whereas eQTL annotations are currently available only on hg19. A downloadable, graph-genome-ready structural-variant release is provided, and the new pathSTR portal reports population-level distributions for 68 medically relevant tandem-repeat loci, derived by applying STRdust to long-read Oxford Nanopore data from 1019 individuals of the 1000 Genomes Project remapped to T2T-CHM13. HGVD v3.1 supports population-matched interpretation of rare pathogenic and pharmacogenomic variants, comparison of repeat-expansion alleles with long-read reference distributions, and structural-variant-aware reference construction, supporting precision medicine for Japan and East Asian populations. HGVD is available at https://www.hgvd.genome.med.kyoto-u.ac.jp/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag996",
+    "date": "2026-10-27",
+    "authors": "Murakami Y, Higasa K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42935248",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42935248",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "gene",
+        "genetic",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4646,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/nar/gkag996"
+    ],
+    "translation": {
+      "title": {
+        "hash": "959ca12082682c49a769a985fadedc33524f4ebc907c3d4fd5a3e32adaff9be9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:14:56.194361+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c2de1f968831ce5666a9d620269edd90054be75c65b82c236c2efedd70415452",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:14:56.194361+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HGVD：遺伝的多様性を有する日本人4,344例のシーケンシングによるHuman Genetic Variation Database 2026年版。",
+    "abstract_ja": "集団規模のゲノムリソースは依然として欧州系祖先に偏っており、代表性の低い集団における変異の解釈を制限している。本研究では、2013年に公開された無料の日本語アレル頻度リソースであるHuman Genetic Variation Database（HGVD）を拡充した。HGVD v3.1は、遺伝的多様性を網羅するため、主成分分析（PCA）で選定した日本人3,135名の全ゲノムシーケンシング（WGS）データを含む1,209個のエキソームを統合しており、4,344名の集約変異統計、3,248名のジェノタイプ判定済み個体、および300名の発現量的形質遺伝子座（eQTL）を提供している。研究および臨床利用向けに、HGVDはGRCh37/hg19、GRCh38/hg38、およびT2T-CHM13の連携したJBrowseベースのブラウザを提供している。非GRCh37変異トラックは、GRCh37コールセットからliftOverによって生成された。変異頻度、サンプル数、およびカバレッジはアセンブリ全体で利用可能である一方、eQTLアノテーションは現在hg19でのみ利用可能である。ダウンロード可能なグラフゲノム対応の構造変異リリースが提供されており、新しいpathSTRポータルでは、1000 Genomes Projectの1,019名のロングリードOxford NanoporeデータにSTRdustを適用してT2T-CHM13にリマップし、医学的に関連のある68個のタンデムリピート遺伝子座の集団レベルの分布を報告している。HGVD v3.1は、希少な病原性および薬理ゲノム変異の集団マッチングによる解釈、リピート伸長アレルとロングリード参照分布の比較、および構造変異を考慮した参照配列の構築をサポートし、日本および東アジア集団における精密医療を支援する。HGVDはhttps://www.hgvd.genome.med.kyoto-u.ac.jp/で利用可能である。"
   }
 ]
