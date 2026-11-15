@@ -234244,5 +234244,323 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Candida albicansの実験的進化における、薬剤投与レジメンが消去および適応に及ぼす影響",
     "abstract_ja": "要旨　抗真菌アゾール系薬剤であるフルコナゾール（FLC）は、カンジダ・アルビカンス感染症の治療に頻繁に処方される。アゾール系薬剤は通常、真菌静菌性であり、集団内の感受性細胞を死滅させるのではなく、細胞増殖を抑制する。そのため、真菌集団は薬剤耐性の亢進または薬剤耐性（感受性細胞の亜集団が阻害濃度下で緩やかに増殖する能力）を通じて、フルコナゾールに適応することができる。我々の知る限り、異なる要因が絶滅傾向にどのように影響するかを検討した先行実験はないが、これまでのin vitro研究では、薬剤濃度と菌株背景の双方が適応に影響を与え得ることが示されている。薬剤投与レジメン、すなわちフルコナゾール濃度と移送期間（すなわち、新鮮な培地への移送間隔）がカンジダ・アルビカンスの絶滅と適応にどのように影響するかを解明するため、我々は完全な因子計画による一連の短時間in vitro進化実験を実施した。投与レジメンは絶滅に有意な影響を及ぼした。すべての反復試料において、すべての薬剤濃度で進化した個体が48時間および72時間の移送実験を生存したが、24時間の移送では、低濃度から高濃度にかけて絶滅率が急激に上昇した。薬剤耐性の亢進は、投与レジメンに関わらず頻繁に認められた。対照的に、薬剤耐性と増殖速度は、いずれも高濃度での進化後に低下する傾向を示した。フルコナゾールで進化した反復試料は、他のアゾール系薬剤のパネルにおいて、交差耐性の頻繁な上昇と交差耐性の低下を示した。ゲノムサイズの変化は、移送時間に関わらず、より高いフルコナゾール濃度で進化した一部の菌株背景において一般的であった。以上の結果を総合すると、多くの実験的要因が適応の軌跡に影響を与え得ることが示され、また真菌静菌性薬剤における絶滅は、高濃度かつ迅速な移送条件下で容易に起こり得ることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762137",
+    "title": "Differing patterns in community composition and diversity of biofilm-forming bacteria and fungi along a large salinity gradient",
+    "abstract": "Aim  Biofilms are complex ecosystems formed by phototrophic and heterotrophic organisms, such as bacteria and fungi. Biofilms are hotspots for microbial activity and crucial for the functioning of all aquatic ecosystems, but they are overlooked and poorly studied, especially along large environmental gradients. We aimed at resolving the responses of bacterial and fungal communities to environmental variation along a gradient with strong variation in environmental factors, especially salinity. We also investigated whether the diversity of biofilm-forming bacteria and fungi follows the pattern predicted by the ‘Remane curve’, which posits that species diversity is lowest at intermediate salinity. Location  2300-km-long spatial gradient in the Baltic Sea, Northern Europe Time period: August 2018 Major taxa studied  Biofilm-forming bacteria and fungi Methods  We investigated the composition and diversity of bacteria and fungi by collecting biofilm samples from 42 shallow benthic ecosystems. We also characterized key environmental variables, such as salinity, nutrient concentrations, wind exposure, and climatic conditions. Bacterial and fungal communities in biofilm samples were identified using Illumina MiSeq sequencing. Results  We found that bacteria and fungi responded differently to environmental variation. Bacterial communities were mainly controlled by salinity, and their diversity was lowest in the intermediate salinity. Bacterial communities were also dominated by different bacterial orders in high, intermediate, and low salinity. Fungal communities, instead, were jointly controlled by several environmental variables, i.e., salinity, water temperature, wind exposure, and nutrients, and their diversity or composition did not show a clear pattern along the salinity gradient. Main conclusions  To our knowledge, this is one of the first studies to investigate the biofilm-forming communities, especially fungal communities, along large environmental gradients. Our results highlight the role of biofilms as complex ecosystems where organisms’ ecological requirements are unique and variable.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762137",
+    "date": "2026-10-30",
+    "authors": "Virta L, Wang J, Salonen I.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354310",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 739,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762137"
+    ],
+    "translation": {
+      "title": {
+        "hash": "da3f77147e9ef73f00d0458b3b74c7806a30c51ca4a52774799aff186e1afccf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:35:39.803623+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f5f3faa85543ee77a076b0f498cd840c99fdd34aa56bef22db0a9e367c2fdaf6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:35:39.803623+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大きな塩分勾配に沿った群集組成の相違と、バイオフィルム形成細菌・真菌の多様性",
+    "abstract_ja": "目的  バイオフィルムは、細菌や真菌などの光栄養生物および従属栄養生物によって形成される複雑な生態系である。バイオフィルムは微生物活性のホットスポットであり、あらゆる水圏生態系の機能において極めて重要であるが、特に大きな環境勾配に沿っている場合には見過ごされがちで、研究も不十分である。本研究では、環境要因、特に塩分濃度の変動が激しい勾配に沿って、細菌および真菌群集が環境変動にどのように応答するかを明らかにすることを目的とした。また、バイオフィルム形成細菌および真菌の多様性が、種の多様性が中程度の塩分濃度で最小になるとする「レマネ曲線（Remane curve）」で予測されるパターンに従うかどうかを調査した。場所  北ヨーロッパ、バルト海における全長2,300kmの空間勾配 期間：2018年8月 主要研究分類群  バイオフィルム形成細菌および真菌 手法  42箇所の浅海底生生態系からバイオフィルム試料を採取し、細菌および真菌の組成と多様性を調査した。また、塩分濃度、栄養塩濃度、風当たり、および気候条件といった主要な環境変数を特性評価した。バイオフィルム試料中の細菌および真菌群集は、Illumina MiSeqシーケンシングを用いて同定した。結果  細菌と真菌では、環境変動に対する応答が異なることが判明した。細菌群集は主に塩分濃度によって制御されており、その多様性は中程度の塩分濃度で最も低かった。また、細菌群集は高、中、低の塩分濃度において、それぞれ異なる細菌目が優占していた。一方、真菌群集は、塩分濃度、水温、風当たり、および栄養塩という複数の環境変数によって共同的に制御されており、その多様性や組成は塩分勾配に沿って明確なパターンを示さなかった。主な結論  我々の知る限り、本研究は大規模な環境勾配に沿ってバイオフィルム形成群集、特に真菌群集を調査した最初期の研究の一つである。本結果は、生物の生態学的要求が固有かつ変動的である複雑な生態系としてのバイオフィルムの役割を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.26366860",
+    "title": "Integrating 16S and 18S sequencing reveals coupled prokaryotic and eukaryotic relationships in drinking water biofilms",
+    "abstract": "Drinking water biofilms host diverse communities spanning all realms of life. However, despite the known interactions between opportunistic pathogens and microbial eukaryotes such as amoebae, most studies focus only on the prokaryotic populations in these systems. As a result, the degree to which microbial eukaryotes shape biofilm communities and the persistence of opportunistic waterborne pathogens, such as  Legionella spp. is still largely unknown. Here we leveraged a set of 128 non-disinfected drinking water shower hose biofilms collected across Switzerland to characterize both communities and quantify eukaryotes’ role in shaping prokaryotic communities and  Legionella persistence. We found both communities to present a conserved set of core taxa dominated by oligotrophic bacterial families and amoebae. The prevalence of taxa was mainly driven by the phylogenetic diversity among their sequence variants rather than their number alone. We detected prokaryotic and eukaryotic communities to show similar patterns in their richness and composition, influencing each other more than abiotic building-level factors.  Legionellaceae bacteria were detected in 82% of samples presenting a diversity extending known reference species and no clear dominant taxa.  Legionellaceae richness did not correlate with the richness of known amoebal hosts, but rather other amoebae, indicating that eukaryotic taxa relevant for  Legionella persistence extend beyond the classically described hosts. These findings highlight the importance of integrating the eukaryotic communities to understand the microbial ecology in drinking water biofilms and recognize the conditions which allow opportunistic waterborne pathogens such as  Legionella to persist.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.26366860",
+    "date": "2026-10-30",
+    "authors": "Caligaris L, Hammes F, Cristino S, Gabrielli M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354100",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 741,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.26366860"
+    ],
+    "translation": {
+      "title": {
+        "hash": "35f01af4379ac169519445038420405f680a7c5c86490f05462b95d3a1f08f52",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:35:39.803623+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9a7e48dfb693360069dc97c0984bfc25c85f986a1bc1051055f23dc6c35793b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:35:39.803623+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "16Sおよび18Sシーケンシングの統合により、飲料水バイオフィルムにおける原核生物と真核生物の連関が明らかになった。",
+    "abstract_ja": "飲料水バイオフィルムには、あらゆる生命領域にわたる多様な群集が存在する。しかし、日和見病原体とアメーバなどの微生物真核生物との相互作用は既知であるにもかかわらず、ほとんどの研究はこれらの系における原核生物集団のみに焦点を当ててきた。その結果、微生物真核生物がバイオフィルム群集をどの程度形成しているか、またLegionella属などの日和見性水系病原体の持続性については、依然として大部分が不明なままである。本研究では、スイス全土で採取した非消毒の飲料水シャワーホース由来のバイオフィルム128例を用い、両群集の特性評価を行うとともに、原核生物群集の形成およびLegionellaの持続性における真核生物の役割を定量化した。その結果、両群集ともに、貧栄養性細菌科とアメーバが優占する保存的なコア分類群群集を有していることが判明した。分類群の存在頻度は、単なる数ではなく、主に配列変異体間の系統的多様性によってもたらされていた。原核生物群集と真核生物群集の双方において、豊富さと組成に類似したパターンが認められ、非生物的な構成要因よりも互いに強い影響を及ぼし合っていることが示された。Legionellaceae属の細菌はサンプルの82%から検出され、既知の参照種にわたる多様性を示し、明確な優占分類群は認められなかった。Legionellaceae属の豊富さは、既知のアメーバ宿主の豊富さとは相関せず、むしろ他のアメーバと相関しており、これはLegionellaの持続性に関連する真核生物分類群が、従来記述されてきた宿主の範囲を超えて存在することを示唆している。これらの知見は、飲料水バイオフィルムにおける微生物生態学を理解し、Legionellaのような日和見性水系病原体の持続を可能にする条件を認識する上で、真核生物群集を統合することの重要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11314330/v1",
+    "title": "Gut microbiome-disease associations revealed by large-scale Mendelian randomization analyses",
+    "abstract": "Abstract    Background  The gut microbiome has been associated with diverse human diseases, but systematic genetic evidence for potential causal relevance, disease-system clustering, and circulating metabolic pathways remains limited. Methods  We integrated four gut microbiome genome-wide association study (GWAS) datasets with 4,934 disease GWAS outcomes. Two-sample Mendelian randomization (MR), using the inverse-variance weighted (IVW) method as the primary analysis, was performed to evaluate potential causal associations between gut microbial traits and diseases. Multiple sensitivity analyses and reverse MR were conducted to assess robustness and potential reverse causality. Hypergeometric tests were used to examine disease-system enrichment of microbial lineages with significant MR associations. For significant MR associations, Bayesian colocalization analysis was performed to assess shared local genetic signals. Circulating metabolite GWAS data were further incorporated into two-step MR mediation analysis to explore candidate metabolic pathways. Results  We identified 1,943 significant associations between 630 gut microbial traits and 925 disease outcomes across multiple disease systems. Enrichment analysis revealed system-specific clustering patterns, including enrichment of Burkholderiales-related taxa in circulatory diseases, Bacteroidota-related taxa in mental, behavioural, or neurodevelopmental disorders,  Eisenbergiella  -related taxa in musculoskeletal diseases, and  Faecalicatena  -related taxa in endocrine and metabolic diseases. Colocalization analysis identified 58 colocalization signals with supportive evidence of shared local genetic signals, involving 34 microbial traits, 45 disease outcomes, and 33distinct genomic windows. Mediation analysis highlighted triglycerides in intermediate-density lipoprotein (IDL-TG) as a frequent candidate mediator, particularly linking Burkholderiales-related taxa to ischaemic cardiovascular diseases. Conclusions  This large-scale genetic study provides a systematic map of potential causal associations between the gut microbiome and multi-system diseases. By integrating MR, disease-system enrichment, colocalization, and mediation analyses, our findings suggest that specific gut microbial lineages may contribute to disease susceptibility through shared genetic architecture and circulating metabolic pathways. In particular, the Burkholderiales-IDL-TG-ischaemic cardiovascular disease axis may represent a candidate microbiome-metabolism-disease pathway that warrants further validation in experimental and clinical studies.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11314330/v1",
+    "date": "2026-10-30",
+    "authors": "Che X, Zhang X, Zhang Z, Pan J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353934",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 742,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11314330/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "98bc0dec311658de418589ddf0550679f634ca9f303fd5a10104f0f64e602e07",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:35:39.803623+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f69a040df2e07b36f741f066669f64da19880cb392cd68a09dde330d7185f5e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:35:39.803623+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大規模メンデルランダム化解析により明らかになった腸内細菌叢と疾患の関連",
+    "abstract_ja": "要旨    背景  腸内マイクロバイオームは多様なヒト疾患との関連が指摘されてきたが、潜在的な因果関係、疾患システム間のクラスタリング、および循環代謝経路に関する系統的な遺伝学的根拠は依然として限られている。方法  我々は、4つの腸内マイクロバイオームゲノムワイド関連解析（GWAS）データセットと、4,934件の疾患GWASアウトカムを統合した。腸内微生物形質と疾患との潜在的な因果関係を評価するため、逆分散重み付け（IVW）法を主要解析として用いた2サンプル・メンデルランダム化（MR）解析を実施した。頑健性と潜在的な逆因果関係を評価するため、複数の感度分析および逆MR解析を行った。有意なMR関連を示す微生物系統の疾患システム間エンリッチメントを検討するため、超幾何検定を用いた。有意なMR関連が認められた場合には、共有された局所的遺伝シグナルを評価するため、ベイズ共局在解析を実施した。さらに、候補となる代謝経路を探索するため、循環代謝物GWASデータを2段階のMR媒介解析に組み込んだ。結果  複数の疾患システムにわたり、630の腸内微生物形質と925の疾患アウトカムとの間に1,943件の有意な関連を同定した。エンリッチメント解析により、循環疾患におけるBurkholderiales関連分類群、精神・行動・神経発達障害におけるBacteroidota関連分類群、筋骨格系疾患におけるEisenbergiella関連分類群、および内分泌・代謝疾患におけるFaecalicatena関連分類群のエンリッチメントを含む、システム特異的なクラスタリングパターンが明らかになった。共局在解析では、共有された局所的遺伝シグナルを支持する証拠を持つ58件の共局在シグナルが同定され、これには34の微生物形質、45の疾患アウトカム、および33の個別のゲノムウィンドウが含まれていた。媒介解析では、中間密度リポタンパク質トリグリセリド（IDL-TG）が頻繁な候補媒介因子として浮き彫りになり、特にBurkholderiales関連分類群と虚血性心血管疾患との関連が示された。結論  本大規模遺伝学的研究は、腸内マイクロバイオームと多系統疾患との間の潜在的な因果関係に関する系統的なマップを提供するものである。MR、疾患システム間エンリッチメント、共局在、および媒介解析を統合した結果、特定の腸内微生物系統が、共有された遺伝的構造および循環代謝経路を通じて疾患感受性に寄与している可能性が示唆された。特に、Burkholderiales-IDL-TG-虚血性心血管疾患軸は、実験的および臨床的研究においてさらなる検証を要する、マイクロバイオーム-代謝-疾患の候補経路である可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11217426/v1",
+    "title": "Transient overexpression and silencing of tomato SlGLP11-1 gene reveal its crucial role in mediating ROS homeostasis driven disease resistance",
+    "abstract": "Abstract    Germin and germin- like proteins (GLPs) are known to play various roles in plant development and in response to biotic and abiotic stress. Many GLPs have been reported to show differential expression in response to pathogen infections, indicating their direct roles in host- pathogen interactions. Despite their significant roles in plant immunity, the tomato (  Solanum lycopersicum  L.) GLP members have not been studied comprehensively at the genome- wide scale. Also, very few reports exist on the functions and activities of tomato GLP gene family members. In this study, GLP family members in tomato were analysed and a standardised nomenclature for tomato GLP genes was defined. The chromosomal distribution of GLP genes in tomato was determined, and a phylogenetic analysis was performed. In addition, the in silico subcellular localization of GLPs in tomato was predicted, and gene expression was examined in response to different phytohormone treatments and pathogen infection. Finally, we identified candidate pathogen- responsive  SlGLPs  and functionally characterized  SlGLP11-1  . Transient overexpression of  SlGLP11-1  in  Nicotiana  leaves enhanced resistance against  Botrytis cinerea  . Similarly transient silencing of  SlGLP11-1  by virus induced gene silencing (VIGS) in tomato leaves increased susceptibility to  Botrytis cinerea  infection. We also, estimated endogenous H  2  O  2  levels and catalase activity in the transient  SlGLP11-  1 overexpressed and silenced leaves of  Nicotiana benthamiana  and tomato respectively, all with and without Botrytis infection. Our results establish that  SlGLP11  -1 functions as a positive regulator of ROS-mediated plant defence by promoting H  2  O  2  accumulation during both basal and pathogen challenged conditions, with catalase activity tracking H  2  O  2  levels as a secondary antioxidant response. This study will serve as a foundation for future functional investigations of tomato GLP family members playing role in the plant immunity.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11217426/v1",
+    "date": "2026-10-30",
+    "authors": "Prajapati P, Khobragade T, Kamble A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353693",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 743,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11217426/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c26690033f164ccf85ffce0281ceaebcee7ef0a4e2b8c70a8f17e2f508da6650",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:35:39.803623+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fbeaceca0181fd2ebbb95ee806c1f2c599e538147da6bd0693740da99e28a6ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:35:39.803623+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トマトSlGLP11-1遺伝子の一過性の過剰発現およびサイレンシングにより、ROS恒常性を介した病害抵抗性の媒介における同遺伝子の重要な役割が明らかになった。",
+    "abstract_ja": "要旨    発芽タンパク質および発芽様タンパク質（GLP）は、植物の発生過程や生物的・非生物的ストレスへの応答において、さまざまな役割を果たすことが知られている。多くのGLPが病原体感染に応じて発現変動を示すことが報告されており、宿主と病原体の相互作用における直接的な役割が示唆されている。植物の免疫において重要な役割を担っているにもかかわらず、トマト（Solanum lycopersicum L.）のGLPファミリーについては、ゲノムワイドな規模で包括的に研究されてこなかった。また、トマトのGLP遺伝子ファミリーの機能や活性に関する報告は極めて少ない。本研究では、トマトのGLPファミリーを解析し、トマトGLP遺伝子の標準化された命名法を定義した。トマトにおけるGLP遺伝子の染色体分布を決定し、系統解析を行った。さらに、トマトにおけるGLPのin silico細胞内局在を予測し、異なる植物ホルモン処理および病原体感染に対する遺伝子発現を検討した。最後に、病原体応答性のSlGLP候補を同定し、SlGLP11-1の機能的特性を明らかにした。Nicotianaの葉においてSlGLP11-1を一過性に過剰発現させると、Botrytis cinereaに対する抵抗性が向上した。同様に、トマトの葉においてウイルス誘導遺伝子サイレンシング（VIGS）によりSlGLP11-1を一過性にサイレンシングさせると、Botrytis cinerea感染への感受性が高まった。また、Botrytis感染の有無にかかわらず、Nicotiana benthamianaおよびトマトの一過性SlGLP11-1過剰発現葉およびサイレンシング葉において、内因性H₂O₂レベルとカタラーゼ活性をそれぞれ推定した。本研究の結果は、SlGLP11-1が、基底状態および病原体負荷状態の双方においてH₂O₂の蓄積を促進することで、ROS介在性の植物防御の正の調節因子として機能し、カタラーゼ活性が二次的な抗酸化応答としてH₂O₂レベルを追跡することを明らかにした。本研究は、植物免疫において役割を担うトマトGLPファミリーの今後の機能的研究の基盤となるものである。"
   }
 ]
