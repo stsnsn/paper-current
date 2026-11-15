@@ -238590,5 +238590,323 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ゲノムポテンシャルと病原性の実態：Pseudomonas aeruginosaにおける機能的病原性の変異",
     "abstract_ja": "細菌ゲノム配列解析が急速に進展しているにもかかわらず、ゲノム情報から病原体の病原性を予測することは依然として大きな課題である。この関連性を検討するため、本研究では、血清型、IV型線毛群、および鞭毛型において臨床的に意義のある多様性を有する28株のPseudomonas aeruginosa分離株を対象に、比較ゲノミクス、機能的表現型解析、宿主-病原体相互作用アッセイ、および感染転帰を統合的に解析した。病原性関連システムは株群全体にわたって概ね保持されていたが、分離株間では表現型挙動および病原性に顕著な変異が認められた。線毛、鞭毛、シデロフォア、または分泌系の特性に基づく遺伝子型分類は、病原性関連表現型の予測能が低いことが示された。Galleria mellonellaモデルにおける病原性は株間で著しく異なり、表面関連運動性と最も強く関連していた一方、その他の病原性形質やクオラムセンシング遺伝子型の予測価値は限定的であった。3次元肺上皮細胞モデルにおいて、炎症反応はIII型分泌系エフェクターExoSの活性と負の相関を示し、宿主免疫シグナル伝達の調節における役割が示唆された。以上の知見を総合すると、病原性は単に保存された病原性レパートリーが存在することではなく、それらの機能的な展開によって生じることが実証された。単一の株群内においてゲノム多様性を表現型発現、病原性、および宿主応答に結びつけた本研究は、遺伝子内容に基づく病原性予測の根本的な限界を浮き彫りにするとともに、P. aeruginosaの病原性をより深く理解するためにゲノムデータと機能データを統合することの重要性を強調するものである。重要性：細菌ゲノム配列の利用可能性が高まったことで、遺伝子内容から病原体の病原性を予測できるという期待が高まっている。しかし、病原性関連遺伝子の同様のレパートリーをコードしているにもかかわらず、多くのP. aeruginosa分離株は著しく異なる感染転帰を示す。本研究は、広範に保存された病原性システムを持つ株間であっても、病原性や宿主相互作用に著しい変異が生じ得ることを示している。これらの知見は、調節的および機能的な変異が病原性に果たす重要な寄与を浮き彫りにし、ゲノム情報だけでは病原性ポテンシャルの不完全な全体像しか得られないことを示している。さらに、ゲノム変異がいかにして表現型形質や宿主相互作用へと変換されるかをより深く理解する必要性を強調するものである。ゲノム解析を表現型特性解析および宿主応答測定と統合することで、本研究はゲノム変異を機能的転帰に結びつけるために必要なデータセットを提供する。このようなデータセットは、最終的にゲノム配列からのより信頼性の高い病原性予測の基盤となり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.3001.v1",
+    "title": "US Carbapenemase Genomic Panel: An Open and Annually Refreshed State-by-Year Table of Carbapenemase Genes in Public U.S. Gram-Negative Genomes",
+    "abstract": "Carbapenemase-producing Gram-negative bacteria are among the most urgent antimicrobial resistance threats in the United States, and public health lab-oratories increasingly characterize them by whole-genome sequencing. The NCBI Pathogen Detection project screens every public genome in its scope with AMRFinderPlus, but its outputs are organized by organism group and release rather than by place and time, and sample metadata are free text. This paper describes the US Carbapenemase Genomic Panel v1.0.0, an open, versioned ta-ble of five carbapenemase families (KPC, NDM, OXA-48-like, VIM and IMP) in public U.S. genomes of Klebsiella, Escherichia coli, Enterobacter, Acinetobacter and Pseudomonas aeruginosa, tabulated by state, collection year, organism and harmonized isolation source (clinical, screening, environmental, unknown). Fam-ily membership follows the AMRFinderPlus Reference Gene Hierarchy, and every harmonization decision is published with the data. The v1.0.0 build, from NCBI data retrieved on 12 October 2026, covers 257,965 genomes, of which 38,511 (14.9%) carry at least one of the five families. NDM-carrying genomes (17,736) now outnumber KPC-carrying genomes (16,911), and NDM has exceeded KPC in every complete collection year since 2021. A state could be assigned to only 34.3% of carbapenemase-positive genomes; 90.2% of the remainder come from a single CDC BioProject (HAI-Seq Gram-negative bacteria) that records country only. The panel therefore supports national trend description and state-level description of the located public record, but not comparison of burden between states. The scripted pipeline is designed for annual refresh, with each version archived under a stable concept DOI.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.3001.v1",
+    "date": "2026-10-29",
+    "authors": "Akhigbe Igbuan E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353571",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Pseudomonas",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 746,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.3001.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5b696a41e4c60f56435a230f1784f1d8ec4eb493ff3fff3da82f6ca1710f2344",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:15:12.828974+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eca6f5396f1e48e3d599e54a442dc5b55c8203eb5a0645176211717acdd905ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:15:12.828974+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "米国カルバペネマーゼゲノムパネル：米国のグラム陰性菌公開ゲノムにおけるカルバペネマーゼ遺伝子の公開かつ毎年更新される年次別一覧表",
+    "abstract_ja": "カルバペネマーゼ産生グラム陰性菌は、米国において最も喫緊の薬剤耐性脅威の一つであり、公衆衛生研究所では全ゲノムシーケンシングによる特性解析がますます進んでいる。NCBI Pathogen Detectionプロジェクトでは、対象範囲内のすべての公開ゲノムをAMRFinderPlusを用いてスクリーニングしているが、その出力結果は場所や時間ではなく生物群およびリリースごとに整理されており、サンプルメタデータは自由記述形式となっている。本論文では、米国の公開ゲノムにおける5つのカルバペネマーゼファミリー（KPC、NDM、OXA-48様、VIM、IMP）を、州、収集年、生物種、および整合化された分離源（臨床、スクリーニング、環境、不明）ごとに表化した、オープンかつバージョン管理されたテーブルである「US Carbapenemase Genomic Panel v1.0.0」について述べる。ファミリーの所属はAMRFinderPlusのリファレンス遺伝子階層に従っており、すべての整合化に関する決定事項はデータと共に公開されている。2026年10月12日に取得したNCBIデータに基づくv1.0.0ビルドでは、257,965個のゲノムをカバーしており、そのうち38,511個（14.9%）が5つのファミリーのうち少なくとも1つを保有している。NDM保有ゲノム（17,736個）は現在、KPC保有ゲノム（16,911個）を上回っており、2021年以降のすべての完全な収集年においてNDMがKPCを上回っている。カルバペネマーゼ陽性ゲノムのうち、州が割り当てられているのはわずか34.3%であり、残りの90.2%は国のみを記録する単一のCDC BioProject（HAI-Seq Gram-negative bacteria）に由来する。したがって、本パネルは国家的な傾向の記述および所在する公開レコードの州レベルの記述には対応しているが、州間の負荷の比較には対応していない。スクリプト化されたパイプラインは年次更新用に設計されており、各バージョンは安定したコンセプトDOIの下にアーカイブされている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762311",
+    "title": "mito-overview: a mitochondrial report software",
+    "abstract": "Interpreting mitochondrial DNA variation requires relating allele representation and genomic annotation to the sequencing evidence available for each sample. We developed mito-overview to integrate mitochondrial coverage, candidate allele fractions, genomic annotations and long read co-occurrence in mitochondrial genomic reports. Analysis of a subset of public GM12878 long read data from Vandiver and colleagues’ Cas9 enrichment study of full-length mitochondrial genomes (SRR18110025) identified 16 candidate variants. Among these candidates, co-occurrence analysis showed that m.8860A>G and m.14831G>A occurred together in all 366 jointly callable query names, demonstrating how mito-overview extends individual allele measurements to quantify shared read support between mitochondrial sites. Analysis of public GM11906 short read data (GSE142741), pooled from three single-cell ATAC-seq libraries, recovered the previously characterized disease-associated m.8344A>G variant in MT-TK at an alternate allele fraction of 72.1% (740 of 1,027 callable observations). The recovered variant identity and MT-TK assignment agree with Lareau and colleagues’ original study, providing a disease-relevant example of mito-overview’s combined candidate detection and genomic annotation. We also examined ONT data from blood, fibroblast and muscle of one patient using a separate internal workflow. Heteroplasmy was estimated from alternate allele fractions calculated separately for each tissue. The respective analyses yielded 90, 52 and 60 candidates, with 19 candidate identities shared across all three lists. For these shared candidates, the tissue-specific estimates enabled examination of both variant presence and allele representation across the sampled tissues, illustrating the application of mitochondrial genomic reports to heteroplasmy assessment in disease research. By combining candidate identification with allele measurements, genomic annotations and shared read support, mito-overview enables researchers to examine which variants are observed, their representation within a sample and their co-occurrence with other mitochondrial alleles. These complementary measurements support the selection and characterization of candidate variants for further study in mitochondrial disease research.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762311",
+    "date": "2026-10-29",
+    "authors": "Lopes E, Ahuja K, Gai X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353413",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "genomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 755,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762311"
+    ],
+    "translation": {
+      "title": {
+        "hash": "72e2fbcdc2fdfacf14c3f1eafb5e92f9ded13411c4d92a9f88f1599cff80e1f6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:15:12.828974+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0a6cf2cf63f1a21e35ec67dfdb51f437580a6ecdb2024e0c7c2f6af75acf6a9d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:15:12.828974+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "mito-overview: ミトコンドリアレポートソフトウェア",
+    "abstract_ja": "ミトコンドリアDNA変異の解析には、アレル代表性とゲノムアノテーションを、各サンプルで利用可能なシーケンシングエビデンスと関連付ける必要がある。我々は、ミトコンドリアゲノムレポートにおけるミトコンドリアカバレッジ、候補アレル分率、ゲノムアノテーション、およびロングリード共起を統合するため、mito-overviewを開発した。Vandiverらによる全長ミトコンドリアゲノムのCas9濃縮研究（SRR18110025）の公開GM12878ロングリードデータのサブセットを解析した結果、16個の候補変異が同定された。これらの候補のうち、共起解析により、m.8860A>Gおよびm.14831G>Aが、共同でコール可能な全366個のクエリ名において同時に出現することが示され、mito-overviewが個々のアレル測定を拡張し、ミトコンドリア部位間の共有リードサポートを定量化できることが実証された。3つのシングルセルATAC-seqライブラリからプールされた公開GM11906ショートリードデータ（GSE142741）の解析では、MT-TKにおいて以前に特性解析された疾患関連変異m.8344A>Gが、代替アレル分率72.1%（コール可能な観測値1,027件中740件）で検出された。検出された変異の同定およびMT-TKへの割り当ては、Lareauらの原研究と一致しており、mito-overviewによる候補検出とゲノムアノテーションの統合的な適用に関する疾患関連の事例を提示している。また、別の内部ワークフローを用いて、1名の患者の血液、線維芽細胞、および筋肉から得られたONTデータについても検討した。ヘテロプラスミーは、各組織について個別に算出した代替アレル分率から推定した。それぞれの解析により90個、52個、60個の候補が得られ、そのうち19個の候補同定が3つのリストすべてで共有されていた。これらの共有候補については、組織特異的な推定値を用いることで、サンプリングされた組織全体における変異の存在とアレル代表性の両方を検討することが可能となり、疾患研究におけるヘテロプラスミー評価へのミトコンドリアゲノムレポートの適用例が示された。候補同定を、アレル測定、ゲノムアノテーション、および共有リードサポートと組み合わせることで、mito-overviewは研究者が、どの変異が観察されるか、サンプル内でのそれらの代表性、および他のミトコンドリアアレルとの共起を検討することを可能にする。これらの相補的な測定は、ミトコンドリア疾患研究におけるさらなる検討に向けた候補変異の選定および特性解析を裏付けるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.759463",
+    "title": "Adaptive responses to antifungal selection depend on dose and drug combination in experimentally evolved yeast",
+    "abstract": "Natural populations rarely face a single stressor at a single intensity, yet most laboratory evolution experiments impose exactly that. Theory predicts that stronger or compounded selection pressures should change the magnitude of adaptive change as well as the specific loci involved, but this prediction is rarely tested directly. Here, we use an evolve-and-resequence approach to compare genomic responses in  Saccharomyces cerevisiae across antifungal environments differing in the concentration and number of drugs applied. Twelve replicate populations founded from a genetically diverse ancestor were evolved for >50 generations under low and high concentrations of caspofungin or clotrimazole alone, a combination of the two drugs, or no drug, with pooled-population sequencing at three timepoints. We found little overlap among candidate loci between concentrations of the same drug or between single and combined treatments. Alleles favored in one environment did not shift predictably in the others, departing from expectations of additivity. We also observed that most candidate loci fell outside known antifungal resistance genes, except for  FKS1 in all caspofungin treatments and a putative gain of the  ERG11 -containing chromosome VIII in 9 of 12 populations evolved under high clotrimazole. Remaining candidates implicated diverse cellular functions that differed among environments. Furthermore, we found little evidence of fitness costs in drug-free medium across all evolved populations. Our results collectively show that stronger and combined antifungal selection redirects genomic responses rather than simply amplifying those favored under less challenging conditions, highlighting the limits of predicting adaptation from simpler selection regimes.  Significance statement  Predicting evolutionary responses across environmental contexts remains a major challenge. Populations exposed to similar stresses often show repeatable patterns of adaptation, but whether these patterns persist as stress intensifies or multiple stresses occur together is less clear. By evolving yeast under different concentrations of two antifungal drugs, alone and in combination, we found that the genetic changes responding to selection differed substantially across treatments. Stronger and combined antifungal selection favored distinct genomic responses beyond the drugs’ primary targets, while retaining some shared responses at known resistance-associated loci. These findings show that evolutionary responses observed under one set of conditions may be poor predictors of adaptation under stronger or more complex stress, with implications for anticipating antimicrobial resistance across different drug concentrations and combination therapies.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.759463",
+    "date": "2026-10-29",
+    "authors": "Sandoval-Powers M, Crestani G, Dugo H, Shearman E, Burke MK.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353391",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 757,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.759463"
+    ],
+    "translation": {
+      "title": {
+        "hash": "07b50d7c7d79154466b9d11d1e4d516a6d990e0bb3d25960f2233980b6c3183a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:15:12.828974+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8a455ed3f69675125ca349c946de4d8fe023875eed5eddcbfd416835ebb629a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:15:12.828974+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "実験的に進化させた酵母における抗真菌選択への適応応答は、用量および薬剤の組み合わせに依存する。",
+    "abstract_ja": "自然界の個体群が、単一のストレス要因に単一の強度でさらされることは稀であるが、ほとんどの実験室での進化実験ではまさにそのような条件が課されている。理論上は、より強い、あるいは複合的な選択圧が作用すれば、適応変化の大きさおよび関与する特定の遺伝子座が変化すると予測されるが、この予測が直接的に検証されることは稀である。本研究では、「進化・再シーケンシング（evolve-and-resequence）」アプローチを用い、投与される薬剤の濃度と数が異なる抗真菌環境におけるSaccharomyces cerevisiaeのゲノム応答を比較した。遺伝的に多様な祖先から得られた12の反復集団を、カスポファンギンまたはクロトリマゾールの単独投与、両剤の併用、あるいは無投与という条件下で50世代以上にわたって進化させ、3つの時点でプール集団シーケンシングを行った。その結果、同一薬剤の濃度間、あるいは単一の処理と複合処理の間で、候補遺伝子座の重複はほとんど認められなかった。ある環境で有利となったアレルは、他の環境では予測通りにシフトせず、相加性の期待に反する結果となった。また、ほとんどの候補遺伝子座は、すべてのカスポファンギン処理におけるFKS1と、クロトリマゾール高濃度下で進化させた12集団中9集団におけるERG11含有第VIII染色体の推定的な獲得を除き、既知の抗真菌耐性遺伝子の範囲外にあることが観察された。残りの候補遺伝子座は、環境によって異なる多様な細胞機能に関与していた。さらに、進化したすべての集団において、薬剤不含培地での適応度コストの証拠はほとんど認められなかった。以上の結果を総合すると、より強い、あるいは複合的な抗真菌選択は、単に負荷の低い条件下で有利となった応答を増幅させるのではなく、ゲノム応答を方向転換させることが示され、単純な選択レジームから適応を予測することの限界が浮き彫りとなった。意義に関する記述：環境コンテキストを横断した進化応答の予測は、依然として大きな課題である。同様のストレスにさらされた集団は、しばしば再現可能な適応パターンを示すが、これらのパターンがストレスの激化や複数のストレスの同時発生においても持続するかどうかは明確ではない。2種類の抗真菌薬を単独または併用し、異なる濃度で酵母を進化させた結果、選択に応答する遺伝的変化が処理間で大きく異なることが判明した。より強い、あるいは複合的な抗真菌選択は、薬剤の主標的を超えた異なるゲノム応答を有利にした一方で、既知の耐性関連遺伝子座においては一部の共通応答を保持していた。これらの知見は、ある条件下で観察された進化応答が、より強い、あるいはより複雑なストレス下での適応の予測因子としては不十分である可能性を示しており、異なる薬剤濃度や併用療法における薬剤耐性の予測に示唆を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.26366582",
+    "title": "Short- and long-read hybrid-capture viral metagenomics reach high sensitivity and specificity with data-driven cut-offs compared with routine diagnostics in CSF and BAL specimens",
+    "abstract": "Background  Hybrid-capture viral metagenomics improves sensitivity over untargeted metagenomics, but its performance across sequencing platforms and the definition of data-driven analysis cut- offs using real clinical samples have not been systematically evaluated. This study benchmarks the hybrid-capture workflow on mock and clinical specimens across short- and long-read platforms while introducing a new, reproducible approach for setting pathogen-calling cut- offs. Methods  The Twist Comprehensive Viral Research Panel was used with both AVITI short-read and Oxford Nanopore Technologies (ONT) long-read sequencing on 12 mock cerebrospinal fluid (CSF) external quality assessment (EQA) panel samples and on 14 CSF and 21 bronchoalveolar lavage (BAL) clinical specimens. Data-driven cut-offs for pathogen calling were derived using Latin hypercube sampling across genome coverage, abundance, and bleed-ratio parameters, then validated on the independent EQA datasets. Results  After cut-off application, both platforms detected 22 of 23 expected viral targets in EQA samples (95.7% detection-level sensitivity) with 100% specificity in negative controls. In clinical specimens, AVITI corroborated 26 of 30 (86.7%) and ONT 25 of 30 (83.3%) routine viral detections while maintaining 100% diagnostic specificity. Sensitivity was 100% for CSF but lower in BAL, particularly for low viral load targets, and all detections below a Cq value of 32 were identified by both platforms. Metagenomics also identified a potentially clinically relevant pathogen not tested by routine testing in two CSF samples. Conclusion  Hybrid-capture viral metagenomics performed comparably on AVITI and ONT for routine viral targets, with AVITI showing slightly higher genome recovery. In addition, the newly developed data-driven cut-off selection strategy offers a practical, reproducible method other laboratories can apply to their own workflows.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.26366582",
+    "date": "2026-10-29",
+    "authors": "Karatas M, Cuypers L, Laenen L, Bloemen M, Rector A, Maes J, Vanrenterghem M, Ranst MV, Wollants E, Desmet S, Matthijnssens J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353264",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 758,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.26366582"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bd71c0a6a2495c0c61874aa77b0f1712a246c84e6b841361f684872a6c9fb6c3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:15:12.828974+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3d900d996f9e3585be038dde3b4b5382c90b9c689c1bff92546b8ccd27fb35d0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:15:12.828974+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "短鎖・長鎖ハイブリッドキャプチャ型ウイルスメタゲノミクスは、CSFおよびBAL検体において、ルーチン診断法と比較してデータ駆動型のカットオフを用いることで高い感度と特異性を実現する。",
+    "abstract_ja": "背景  ハイブリッドキャプチャ型ウイルスメタゲノミクスは、非標的型メタゲノミクスに比べて感度が向上しているが、シーケンシングプラットフォーム間における性能や、実際の臨床検体を用いたデータ駆動型解析のカットオフ値の定義については、体系的な評価が行われていない。本研究では、ショートリードおよびロングリードプラットフォームにおいて、模擬検体および臨床検体を用いてハイブリッドキャプチャワークフローの性能評価を行うとともに、病原体判定のカットオフ値設定のための、新規かつ再現性のあるアプローチを提案する。方法  Twist Comprehensive Viral Research Panelを用い、12検体の模擬脳脊髄液（CSF）外部品質評価（EQA）パネル検体、および14検体のCSF検体と21検体の気管支肺胞洗浄（BAL）臨床検体を対象に、AVITIショートリードおよびOxford Nanopore Technologies (ONT) ロングリードシーケンシングの両方を実施した。病原体判定のためのデータ駆動型カットオフ値は、ゲノムカバレッジ、存在量、およびブリード比のパラメータにわたるラテン超立方体サンプリングを用いて導出し、独立したEQAデータセットで検証した。結果  カットオフ値の適用後、両プラットフォームともにEQA検体において期待されるウイルス標的23例中22例を検出し（検出レベル感度95.7%）、陰性対照検体における特異度は100%であった。臨床検体においては、AVITIが30例中26例（86.7%）、ONTが30例中25例（83.3%）のルーチンウイルス検出を裏付け、診断特異度は100%を維持した。感度はCSFで100%であったが、BALではより低く、特にウイルス量の少ない標的においてその傾向が顕著であり、Cq値32未満のすべての検出例が両プラットフォームで同定された。また、メタゲノミクスにより、2検体のCSF検体において、ルーチン検査では検出されなかった臨床的に関連し得る病原体が同定された。結論  ハイブリッドキャプチャ型ウイルスメタゲノミクスは、ルーチンウイルス標的においてAVITIとONTで同等の性能を示し、AVITIの方がゲノム回収率がわずかに高かった。さらに、新たに開発したデータ駆動型カットオフ値選択戦略は、他の研究室が自らのワークフローに適用できる実用的かつ再現性のある手法を提供するものである。"
   }
 ]
