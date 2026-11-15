@@ -237599,5 +237599,333 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ProtoPure: プロテオームスケールにおけるタンパク質精製プロトコルの文献マイニングと解析",
     "abstract_ja": "タンパク質精製は、個々のタンパク質やタンパク質複合体を解析し、他のタンパク質、DNA、またはRNAとの相互作用を同定するための基礎的な工程である。所望のスケール、スループット、およびダウンストリームアプリケーションに対応するため、多様なタンパク質精製戦略が存在する。しかし、効果的な実験手順の選定は依然として大部分が経験的なプロセスであり、迅速な文献レビューがその指針となり得る。研究者は通常、類似した生化学的特性を持つタンパク質について12報程度の文献を調査し、条件を個別に評価するため、タンパク質ファミリー全体のスケールでの比較や意思決定のための体系的な枠組みが存在しない。タンパク質工学と設計が進化する中で、適切にフォールディングされ機能的なタンパク質を十分な量で得るためには、効果的な精製条件の特定が引き続き極めて重要である。このギャップを埋めるため、我々は、査読済み文献からタンパク質精製条件の抽出、標準化、および解析を大規模に自動化するLLMベースのワークフローおよびデータベース「ProtoPure」を開発した。ユーザー定義のUniProtテーブルにより、ファミリー、生物体、またはプロテオームによる柔軟なタンパク質選択が可能となる。ProtoPureは関連する文献を検索し、精製プロトコルの有無に基づいて分類し、12項目の標準化された精製パラメータ（例：緩衝液組成、溶出条件）を抽出する。分散した実験記述を構造化されたリソースに変換することで、ProtoPureは数千ものタンパク質にわたる精製戦略の比較を可能にする。得られたデータセットからは、限定的な組換え発現手法への定量的な収束が認められ、BL21(DE3)ベースのシステムがタンパク質生産において支配的であること、また発現宿主、誘導剤、増殖培地、およびプラスミドの反復的な組み合わせが、偶然に期待されるよりも大幅に頻繁に出現することが明らかになった。対照的に、ダウンストリームの精製パラメータはより大きな多様性を示し、標準化された発現インフラストラクチャとより柔軟な生化学的コンポーネントを組み合わせたワークフローアーキテクチャの存在が明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2926.v1",
+    "title": "BacPath: A Rapid Metagenomic Workflow with a Curated Reference Database for Species-Level Detection of Bacterial Plant Pathogens",
+    "abstract": "The emergence of plant pathogens through geographic spread, host shifts, and climate change threatens disease management and global food security. Detection of emerging pathogens without prior genomic information is critical for preventing widespread outbreaks and enabling timely management to reduce economic impact. Accurate and reliable detection of infecting organisms using metagenome-based bioinformatic pipelines is therefore essential. To address this, we have developed and validated BacPath pipeline and a highly accurate complete genome database, BacPathDB. Raw read files obtained from Oxford Nanopore sequencers (MinIon and Flongle) were processed, quality-scored, and mapped against a curated database. The expandable BacPathDB contains high-quality genomes with accurate metadata and currently includes 317 genomes, representing species, within the genera Dickeya and Pectobacterium, including most type strains. The pipeline accurately detected all 32 species within these two genera in silico, with no false positives or false negatives. In vitro analyses with both Pectobacterium and Dickeya species further confirmed the accuracy of the developed pipeline for detecting pathogens from complex plant tissue samples infected with single or multiple pathogens. Detection can be achieved with as little as a single read, however, analyses based on five or more reads provide higher confidence in the results. The pipeline is rapid, enabling detection in approximately one minute, and can be performed on a 16 GB laptop without requiring high computational resources. This makes it well suited for field applications, while the curated reference database enhances its reliability for routine diagnostics, epidemiological investigations, disease surveillance, regulatory programs, biosecurity, and microbial forensics.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2926.v1",
+    "date": "2026-10-29",
+    "authors": "Arif M, Montesinos S, Maurya N, Alvarez AM, Dobhal S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352551",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "database",
+        "metagenom",
+        "metagenome",
+        "metagenomic",
+        "microbial",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 108,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2926.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c5dc83c58192dcfa140057684ac680bdbd3415af4fce2c262fc16c3170b31f7c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:07:00.738035+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fe893089bbbed9246b46276835dac22f62a6695818b9a20245f34871b50baefd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:07:00.738035+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BacPath：細菌性植物病原体の種レベル検出に向けた、キュレート済みリファレンスデータベースを備えた迅速メタゲノムワークフロー",
+    "abstract_ja": "地理的拡散、宿主の移行、および気候変動による植物病原体の出現は、疾病管理と世界的な食料安全保障を脅かす。事前のゲノム情報なしに新興病原体を検出することは、広範なアウトブレイクを防ぎ、経済的影響を軽減するための適時な管理を可能にする上で極めて重要である。したがって、メタゲノムに基づくバイオインフォマティクス・パイプラインを用いて感染生物を正確かつ信頼性高く検出することが不可欠である。この課題に対処するため、我々はBacPathパイプラインと、極めて精度の高い完全ゲノムデータベースであるBacPathDBを開発し、検証した。Oxford Nanoporeシーケンサー（MinIonおよびFlongle）から得られた生リードファイルを処理し、品質スコアリングを行った後、キュレート済みデータベースに対してマッピングした。拡張可能なBacPathDBには、正確なメタデータを備えた高品質なゲノムが含まれており、現在はDickeya属およびPectobacterium属の種（ほとんどのタイプ株を含む）を代表する317のゲノムを収録している。本パイプラインは、これら2属の全32種をin silicoで正確に検出し、偽陽性や偽陰性は認められなかった。Pectobacterium属およびDickeya属の両種を用いたin vitro解析により、単一または複数の病原体に感染した複雑な植物組織サンプルから病原体を検出する本開発パイプラインの精度がさらに確認された。検出はわずか1つのリードでも可能であるが、5つ以上のリードに基づく解析を行うことで、結果の信頼性をより高めることができる。本パイプラインは迅速であり、約1分で検出が可能で、高い計算リソースを必要とせず16 GBのノートパソコン上で実行できる。このため、フィールドでの応用に適している一方、キュレート済みのリファレンスデータベースにより、日常的な診断、疫学調査、疾病サーベイランス、規制プログラム、バイオセキュリティ、および微生物フォレンジックにおける信頼性が向上する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762440",
+    "title": "Genomic and functional characterization of compost-derived bacteria identifies a candidate bioinoculant that influences tomato physiology and leaf metabolism",
+    "abstract": "Soil biodiversity is increasingly threatened by anthropogenic activities, with intensive agriculture having a particularly detrimental impact on soil microbial communities and potentially disrupting plant-microbe interactions that contribute to plant growth and resilience to environmental stresses. Biofertilizers based on Plant Growth-Promoting Rhizobacteria (PGPR) and organic amendments represent promising strategies to restore microbial diversity and promote crop health. Although compost is widely used as an organic fertilizer, its potential as a reservoir of culturable beneficial bacteria for the development of bioinoculants remains largely unexplored. In this work, we isolated and identified six bacterial strains from commercial compost derived from municipal organic waste and screened them for plant growth-promoting traits. Two representative isolates, Kocuria rhizophila and Glutamicibacter arilaitensis, were subjected to whole-genome sequencing and comparative analyses to investigate their taxonomy, functional potential, rhizosphere competence, secondary metabolism, plastic degradation associated features, and predicted human pathogenicity. K. rhizophila was subsequently tested as an inoculant on tomato plants grown in soil, compost-amended soil, or sterile compost-amended soil. Five of the six isolates exhibited many of the plant growth-promoting traits tested. Genomic analyses of the two strains supported several of the observed phenotypes and revealed functions potentially associated with nutrient metabolism, plant-root interactions, environmental adaptation, and degradation of plastic polymers. Neither strain was predicted to be pathogenic to humans, indicating a potentially low safety risk for their application as bioinoculants. Upon inoculation with K. rhizophila, plant responses were influenced primarily by substrate type, although the bacterium produced specific, substrate-dependent effects at 33 days post inoculation. Inoculation resulted in a trend towards increased dry biomass in plants grown in sterile compost and influenced leaf metabolic profiles at 33 days. These results support the potential of K. rhizophila as a compost-derived bioinoculant and indicate that enriching compost with beneficial strains isolated from the same matrix could be a useful approach to complement its effects on plant growth.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762440",
+    "date": "2026-10-29",
+    "authors": "Cipriani R, Strickler SR, De Biasio N, Angiolin CL, Ghirardello G, Zanardi W, Bonato T, Baldan B, Nigris S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353406",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "microbe",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 180,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762440"
+    ],
+    "translation": {
+      "title": {
+        "hash": "539114fb6dbff8e84775f57d4d08833381ca9b0a6d182cb1f6a3c66f05d1d527",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:07:00.738035+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7b3ce7987f5314e4ff005b1732f6a4243871dedc7038d168f14402a625951cf2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:07:00.738035+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "堆肥由来細菌のゲノムおよび機能解析により、トマトの生理機能と葉の代謝に影響を及ぼすバイオイノキュラント候補を同定した",
+    "abstract_ja": "土壌の生物多様性は人為的活動によってますます脅かされており、特に集約農業は土壌微生物群集に悪影響を及ぼし、植物の成長や環境ストレスへの耐性に寄与する植物・微生物間の相互作用を阻害する可能性がある。植物成長促進根圏細菌（PGPR）に基づく生物肥料や有機質改良材は、微生物多様性を回復させ、作物の健全性を促進するための有望な戦略である。堆肥は有機肥料として広く利用されているが、バイオ接種剤の開発に向けた培養可能な有益細菌のリザーバーとしての可能性については、依然としてほとんど解明されていない。本研究では、自治体の有機廃棄物由来の市販堆肥から6株の細菌株を単離・同定し、植物成長促進形質についてスクリーニングを行った。代表的な2株であるKocuria rhizophilaおよびGlutamicibacter arilaitensisについて、全ゲノム配列解析および比較解析を実施し、分類学的特性、機能的ポテンシャル、根圏適応能、二次代謝、プラスチック分解関連形質、および予測されるヒト病原性を調査した。続いて、K. rhizophilaを、土壌、堆肥改良土、または無菌堆肥改良土で栽培したトマト植物への接種剤として試験した。6株のうち5株が、試験した植物成長促進形質の多くを示した。これら2株のゲノム解析により、観察された表現型のいくつかが裏付けられ、栄養代謝、植物・根間相互作用、環境適応、およびプラスチックポリマーの分解に関連する可能性のある機能が明らかになった。いずれの株もヒトに対する病原性は予測されず、バイオ接種剤としての利用における安全性リスクは低いことが示唆された。K. rhizophilaを接種した際、植物の応答は主に基質の種類に影響されたが、接種後33日目には本菌が基質依存的な特異的な効果を示した。接種により、無菌堆肥で栽培した植物では乾物バイオマスが増加する傾向が見られ、33日目の葉の代謝プロファイルにも影響を与えた。これらの結果は、堆肥由来のバイオ接種剤としてのK. rhizophilaの可能性を支持するものであり、同一マトリックスから単離した有益菌株で堆肥を富化させることが、植物成長への効果を補完する有用なアプローチとなり得ることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762433",
+    "title": "Viral diversity and activity in Arctic tundra soils in wintertime",
+    "abstract": "Arctic soils store vast amounts of carbon and are warming faster than the rest of the globe. Still, little is known about microbe-mediated feedback responses to the ongoing environmental changes in the warming Arctic. Specifically, viral diversity, functions, and virus-host interactions remain largely unknown in northern soils outside the growing season. Here, we analyzed the diversity and activity of viruses in oroarctic tundra soils during wintertime using metatranscriptomics. Through de novo virus prediction as well as targeted searches, we identified 995 viral operational taxonomic units (vOTUs) in total. Most of these vOTUs, 93%, represented RNA viruses, part of which were presumably segments of multipartite genomes. RNA vOTUs were classified mainly within the phyla Lenarviricota (259), Kitrinoviricota (198), Pisuviricota (135), Ambiviricota (103), Negarnaviricota (79), and Duplornaviricota (42). Thirty-seven DNA vOTUs (mostly Caudoviricetes) were also detected, suggesting active viral infections. In total, 81% of all vOTUs were assigned with a putative host organism, mostly fungi (515 vOTUs). Viral communities were distinct across vegetation types, and pH and moisture contributed to the differences. Putative novel clades within Ambiviricota and Orpoviricetes were identified, expanding their known diversity. The study contributes to uncovering diverse RNA viruses and viroid-like elements in Arctic tundra soils and highlights that soil viruses remain active in wintertime.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762433",
+    "date": "2026-10-29",
+    "authors": "Juvonen W, Forgia M, Viitamäki S, Hultman J, Demina T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354360",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi",
+        "metatranscriptom",
+        "metatranscriptomics",
+        "microbe",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 285,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762433"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d14f07fd8243795d3f132f9ea83ac4668995ca5b52cba9b349e46347e292e8be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:07:00.738035+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e1161fa82488cac19f41594934e9aa8a8de52e8248b0e780fd9623bcf5270d75",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:07:00.738035+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "冬季の北極ツンドラ土壌におけるウイルスの多様性と活性",
+    "abstract_ja": "北極圏の土壌は膨大な量の炭素を貯蔵しており、地球の他の地域よりも急速に温暖化している。しかしながら、温暖化が進む北極圏で進行中の環境変化に対する微生物を介したフィードバック応答については、ほとんど解明されていない。具体的には、生育期以外の北方土壌におけるウイルスの多様性、機能、およびウイルスと宿主の相互作用は、依然として大部分が不明である。本研究では、メタトランスクリプトミクスを用いて、冬季の北極圏ツンドラ土壌におけるウイルスの多様性と活性を解析した。de novoウイルス予測および標的探索により、計995個のウイルス運用分類単位（vOTU）を同定した。これらのvOTUの大部分（93%）はRNAウイルスであり、その一部はおそらく多部構成ゲノムのセグメントであった。RNA vOTUは主に、Lenarviricota（259）、Kitrinoviricota（198）、Pisuviricota（135）、Ambiviricota（103）、Negarnaviricota（79）、およびDuplornaviricota（42）の門に分類された。また、37個のDNA vOTU（主にCaudoviricetes）も検出され、活発なウイルス感染が示唆された。全vOTUの81%に推定宿主生物が割り当てられ、その大部分は真菌（515 vOTU）であった。ウイルス群集は植生タイプによって異なり、pHと水分がその差異に寄与していた。AmbiviricotaおよびOrpoviricetes内に推定される新規クレードが同定され、既知の多様性が拡大した。本研究は、北極圏ツンドラ土壌における多様なRNAウイルスおよびウイルス様要素の解明に寄与するとともに、土壌ウイルスが冬季においても活性を維持していることを浮き彫りにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762464",
+    "title": "Extensive and heterogeneous viral circular RNA production during Zika virus infection",
+    "abstract": "Circular RNAs (circRNAs) are covalently closed RNA molecules with regulatory functions. Although virus-derived circRNAs (vcircRNAs) are well characterized in DNA viruses, their occurrence in RNA viruses remains poorly understood. Recent reports in coronaviruses and hepatitis C virus suggest that vcircRNA production extends beyond nuclear-replicating viruses. Here, we show that Zika virus (ZIKV), a vector-borne orthoflavivirus, produces vcircRNAs during infection of neural stem cells. Using a custom computational pipeline optimized for viral back-splice junction detection, we identified at 72 hours post infection a core set of 113 putative vcircRNAs shared across three biological replicates and distributed throughout the viral genome. Eight candidates spanning different genomic regions and abundance levels were experimentally validated by rolling-circle reverse transcription and Nanopore sequencing. These findings provide the first evidence of vcircRNA production in an orthoflavivirus, suggesting that circular RNA biogenesis may represent a previously underappreciated feature of RNA virus biology.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762464",
+    "date": "2026-10-29",
+    "authors": "Stradiotto M, Vezzi A, Vardeu M, Mercorelli B, Vogiatzis S, Loregian A, Barzon L, Toppo S, Lavezzo E, Trevisan M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354354",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 286,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762464"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9674381f81c99ed55333c9e9ff830e3417a210cfffddd0ce7049486bd3efbe2c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:07:00.738035+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2e4b65850d99bab9cdfcd757988d7727fdbd3c9837f174b911f6d1d161edb9b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:07:00.738035+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ジカウイルス感染時における広範かつ不均一なウイルス環状RNAの産生",
+    "abstract_ja": "環状RNA（circRNA）は、調節機能を有する共有結合性の閉環RNA分子である。DNAウイルスではウイルス由来circRNA（vcircRNA）が十分に特性解析されているが、RNAウイルスにおけるその存在については依然として十分に解明されていない。コロナウイルスおよびC型肝炎ウイルスに関する最近の報告は、vcircRNAの産生が核複製ウイルスにとどまらないことを示唆している。本研究では、ベクター媒介性オルソフラビウイルスであるジカウイルス（ZIKV）が、神経幹細胞への感染時にvcircRNAを産生することを示す。ウイルスのバックスプライス接合部検出用に最適化した独自の計算パイプラインを用い、感染後72時間時点で、3つの生物学的レプリケート間で共通し、ウイルスゲノム全体に分布する113種類の推定vcircRNAのコアセットを同定した。異なるゲノム領域および存在量にわたる8種類の候補について、ローリングサークル逆転写法およびNanoporeシーケンシングにより実験的に検証した。これらの知見は、オルソフラビウイルスにおけるvcircRNA産生の初の証拠となるものであり、環状RNAの生合成がRNAウイルス生物学においてこれまで十分に認識されてこなかった特徴である可能性を示唆している。"
   }
 ]
