@@ -241406,5 +241406,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "MyD88およびその発がん性変異体の構造解析から明らかになったDNA結合と細胞質DNAセンシングへの示唆",
     "abstract_ja": "MyD88は、Toll/IL-1R相同性（TIR）ドメインを介してToll様受容体およびインターロイキン-1受容体に結合し、デスドメイン（DD）を介して炎症性シグナル伝達を活性化するユニバーサルアダプターである。しかし、MyD88のTIRがこれらの機能の基盤としてどのように機能するのか、また追加的な機能を有するのかについては依然として不明である。本報では、MyD88のTIRおよびそのがん特異的変異体L252P（旧称L265P）の、主にリング状およびらせん状の形態におけるクライオ電子顕微鏡（cryo-EM）構造を報告する。両アセンブリは、各ストランド内で正準なTIR界面を用いつつ、ストランド間の表面は固有であり、かつ自己オリゴマー化と経路活性化のためにMyD88のDDをアセンブリの同一側に配置した、反平行な二重フィラメントによって形成されている。驚くべきことに、これらのWTまたはL252Pフィラメントは、リングおよびらせんの凹状側面を用いてdsDNAに結合する。in vitroアッセイおよび細胞研究により、MyD88がdsDNAに直接結合し、dsDNAトランスフェクションまたはウイルス感染後に炎症性サイトカイン、特にpro-IL-1βの発現を促進することが示された。特筆すべきは、これらの応答が、エンドソーム核酸感知TLRの輸送に必須のシャペロンであるUNC93B1の欠損によって影響を受けないことである。dsDNA結合を阻害する構造ガイド型MyD88変異体は、TLRシグナル伝達を維持しつつ、dsDNA誘導性の転写プログラムを特異的に損なう。RNA-seqにより、MyD88がdsDNA感知時の遺伝子発現誘導において重要な役割を果たすこと、およびcGAS依存性遺伝子の約半分がMyD88依存的であることがさらに明らかになった。以上の構造的、生化学的、および遺伝学的データを総合すると、MyD88が細胞質のdsDNAと直接相互作用し、cGASと協調して完全な自然免疫転写応答を促進するという知見が支持される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.24.761556",
+    "title": "A Synthetic Virology Platform for Rapid Prototyping of Influenza A Virus mutants",
+    "abstract": "Influenza A virus (IAV) remains a significant public health threat, with the need for effective vaccines and antiviral therapies remaining a high priority.  In vitro testing is paramount in studying novel IAV viruses and their immunogenicity. To address this need, we developed a synthetic virology approach to rapidly prototype and test IAV mutants with altered antigenic sites. By strategically inserting restriction sites within an ambisense plasmid, we generated a tool where we can seamlessly replace either 1) the full hemagglutinin (HA), 2) the HA globular head domain to generate head/stalk chimeras or 3) the five canonical antigenic sites. The cloning inserts can be computationally designed and artificially synthesized, enabling rescue of synthetic Influenza A viruses. Using this platform we rescued IAV H1N1, H3N2 & H5N1, and went on to prototype their respective antigenic site mutants & chimeric IAVs using viral genome sequence alone. This platform could be useful for generating vaccine seed strains or to study anti-viral immunity.  Abstract Figure  Figure 0. Abstract Figure",
+    "journal": "",
+    "doi": "10.64898/2026.10.24.761556",
+    "date": "2026-10-29",
+    "authors": "Murti JR, Schön K, Angeletti D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353286",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1727,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.24.761556"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6cb787a1181478bb2acb65f77eb4d7d4b42f5647113a0ad3ce7bf8d61749da47",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:45:40.409891+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0ffc0c1d9533c1a32d09d67233ddebc7df0d28c305fd7bfb577ebc0a688711db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:45:40.409891+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "A型インフルエンザウイルス変異株の迅速プロトタイピングのための合成ウイルス学プラットフォーム",
+    "abstract_ja": "A型インフルエンザウイルス（IAV）は依然として重大な公衆衛生上の脅威であり、効果的なワクチンおよび抗ウイルス療法の開発が引き続き最優先課題となっている。新規IAVウイルスとその免疫原性の研究において、in vitro試験は極めて重要である。このニーズに応えるため、我々は抗原部位を改変したIAV変異株を迅速にプロトタイプ化し試験するための合成ウイルス学アプローチを開発した。アンビセンスプラスミド内に制限部位を戦略的に挿入することで、1) 全ヘマグルチニン（HA）、2) HA球状頭部ドメインをシームレスに置換してヘッド/ストークキメラを生成する、あるいは 3) 5つの正準抗原部位を置換できるツールを構築した。クローニング用インサートは計算機的に設計および人工合成が可能であり、これにより合成A型インフルエンザウイルスのレスキューが可能となる。本プラットフォームを用いてIAV H1N1、H3N2およびH5N1をレスキューし、次いでウイルスゲノム配列のみを用いて、それぞれの抗原部位変異株およびキメラIAVのプロトタイプ化を行った。本プラットフォームは、ワクチンシード株の作製や抗ウイルス免疫の研究に有用であると考えられる。  要旨図  図0. 要旨図"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11156052/v1",
+    "title": "Chemical profiling and antioxidant potential of the ethanolic extract of the Odontotermes formosanus fungus comb: an integrated LC–MS/MS and computational study",
+    "abstract": "Abstract    Fungus combs of fungus-growing termites are complex symbiotic matrices formed through termite feeding and digestion of plant substrates, followed by continuous transformation by symbiotic  Termitomyces  fungi and associated microorganisms. Although extracts from the fungus combs of some fungus-growing termite species have been reported to exhibit antioxidant activity, the chemical composition and biological properties of the fungus comb of  Odontotermes formosanus  remain poorly characterised. In the present study, untargeted liquid chromatography–tandem mass spectrometry (LC–MS/MS) was used to characterise the ethanolic extract of the  O. formosanus  fungus comb (OFCE), and its antioxidant activity was evaluated using 2,2-diphenyl-1-picrylhydrazyl (DPPH) radical-scavenging and ferric reducing antioxidant power (FRAP) assays. As an exploratory extension, ageing-related database targets were used as a biological context, and target prediction, network analysis, molecular docking, and 100 ns molecular dynamics simulations were integrated to prioritise selected putative annotations and predicted ligand–target relationships. Azelaic acid and N-acetyltryptophan were among the candidates prioritised for further evaluation. Under the computational models and simulation conditions used, the two epidermal growth factor receptor (EGFR)–ligand complexes exhibited conformational compatibility and maintained relatively stable conformational states during portions of the simulations. Collectively, these findings indicate that the  O. formosanus  –  Termitomyces  fungus-comb system contains a chemically diverse pool of ethanol-extractable small molecules accompanied by measurable antioxidant activity, thereby providing candidate leads for subsequent structural confirmation, source attribution, quantitative analysis, and activity validation.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11156052/v1",
+    "date": "2026-10-29",
+    "authors": "Liu J, Kang R, Dong J, Wang W, Li Z, Huang J, Fan Q, Ming L, Liu H, Jiang W, Dong Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352984",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1729,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11156052/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c2fc69efd0fe662de218f9a0e9d8c1d9658912baa8d50113ba54cb66438b692c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:45:40.409891+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6f56ff3b8f76810b0cc312a7ba5a51507c97ef3c803980aa8c5212a40066c6db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:45:40.409891+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Odontotermes formosanus菌櫛のエタノール抽出物の化学的特性解析および抗酸化能：LC–MS/MSと計算科学的手法による統合的研究",
+    "abstract_ja": "要旨    菌類共生シロアリの菌糸体は、シロアリによる植物基質の摂食・消化と、それに続く共生菌であるTermitomyces属菌および関連微生物による継続的な変換を経て形成される複雑な共生マトリックスである。一部の菌類共生シロアリ種の菌糸体抽出物が抗酸化活性を示すことが報告されているが、Odontotermes formosanusの菌糸体の化学組成および生物学的特性については十分に解明されていない。本研究では、非標的液体クロマトグラフィー－タンデム質量分析法（LC–MS/MS）を用いてO. formosanusの菌糸体エタノール抽出物（OFCE）の特性解析を行い、2,2-ジフェニル-1-ピクリルヒドラジル（DPPH）ラジカル消去能および三価鉄還元抗酸化能（FRAP）アッセイを用いてその抗酸化活性を評価した。探索的な拡張として、加齢関連データベースの標的を生物学的コンテキストとして用い、標的予測、ネットワーク解析、分子ドッキング、および100 ns分子動力学シミュレーションを統合することで、選定した推定アノテーションおよび予測されたリガンド－標的関係の優先順位付けを行った。アゼライン酸およびN-アセチルトリプトファンが、さらなる評価に向けて優先的に検討された候補に含まれていた。用いた計算モデルおよびシミュレーション条件下において、2つの上皮成長因子受容体（EGFR）－リガンド複合体は構造的適合性を示し、シミュレーションの一部の期間において比較的安定した構造状態を維持した。総じて、これらの知見は、O. formosanus－Termitomyces菌糸体系が、測定可能な抗酸化活性を伴う化学的に多様なエタノール抽出可能低分子化合物のプールを有していることを示しており、これにより、後続の構造確認、由来の特定、定量分析、および活性検証のための候補リードが提供される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11305142/v1",
+    "title": "Divergent climatic, geographic, and taxonomic associations of human gut resistome burden and composition across 34 countries",
+    "abstract": "Abstract    Background  Understanding how antimicrobial resistance (AMR) relates to gut microbial community structure is essential for interpreting the human gut resistome in its ecological context.  Methodology  We investigated the relationships between resistance burden, resistance-class composition, and microbial taxonomic profiles in 98 healthy young adults from 34 countries, recruited among first-year medical students. Country-level pooled shotgun metagenomics was integrated with individual-level 16S rRNA gene sequencing.  Results  At the country-pool level, clustering of resistance-class profiles identified three clusters (RCPC1-RCPC3). RCPC1 combined the highest AMR burden with greater relative abundance of taxa reported as potentially pathogenic, genotoxic, or aerotolerant. This cluster also showed a higher representation of putative short-chain fatty acid-producing taxa, indicating that elevated resistance burden can coexist with taxa associated with beneficial metabolic functions. At the individual level, clustering of 16S-based predicted metabolic pathways identified four clusters (PMC1-PMC4) sharing a broadly conserved functional background. Country-level analyses further distinguished factors associated with resistance abundance from those associated with resistance-class composition. Mean annual temperature showed an exploratory positive association with AMR abundance, corresponding to approximately 22% higher abundance per 10°C increase after adjustment for continental grouping and pool size. PM2.5 exposure showed a threshold-like pattern across WHO-defined tiers. Neither environmental variable was associated with resistance-class composition, whereas countries assigned to the Asian group showed enrichment of macrolide-lincosamide-streptogramin resistance.  Conclusion  Resistance burden and composition capture complementary features of the gut resistome and should be interpreted alongside microbial community structure. Higher resistance burden can coexist with putatively beneficial taxa, highlighting the limits of single-metric assessments and the potential value of integrated resistome-taxonomic profiling for One Health surveillance.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11305142/v1",
+    "date": "2026-10-29",
+    "authors": "Mikolás M, Dávid P, Szilágyi-Rácz A, Szilágyi-Tolnai E, Fauszt P, Alsayahien A, Abousharabia I, Gashi N, Szabó Z, Pham T, Bíró S, Stündl L, Remenyik J, Paholcsek M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352854",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "metagenom",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1730,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11305142/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bf7542051a5b7746380f817c8b968cb842759b1dff2170b2b057ea9cab67d9b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:45:40.409891+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d8f6e4348570f1ffa6624599027c1dc24546f6fd3a900cb44a3d4b62e8cda3b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:45:40.409891+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "34カ国におけるヒト腸内レジストームの負荷と組成の、気候・地理・分類学的な相違",
+    "abstract_ja": "要旨    背景  薬剤耐性（AMR）が腸内微生物群集構造とどのように関連しているかを理解することは、生態学的文脈においてヒト腸内レジストームを解釈する上で不可欠である。  手法  医学部1年生の中から募集した34カ国の健康な若年成人98名を対象に、耐性負荷、耐性クラス組成、および微生物分類学的プロファイル間の関連性を検討した。国レベルのプール型ショットガンメタゲノミクスを、個人レベルの16S rRNA遺伝子シーケンシングと統合した。  結果  国レベルのプール解析において、耐性クラスプロファイルのクラスタリングにより3つのクラスター（RCPC1-RCPC3）が同定された。RCPC1は、最も高いAMR負荷と、潜在的に病原性、遺伝毒性、または耐気性を有すると報告された分類群の相対的存在量の増加を併せ持っていた。また、このクラスターでは短鎖脂肪酸産生候補分類群の割合が高く、耐性負荷の増大が有益な代謝機能に関連する分類群と共存し得ることが示された。個人レベルでは、16Sに基づく予測代謝経路のクラスタリングにより、広範に保存された機能的背景を共有する4つのクラスター（PMC1-PMC4）が同定された。国レベルの解析により、耐性存在量に関連する因子と、耐性クラス組成に関連する因子がさらに区別された。年平均気温は、AMR存在量と探索的な正の関連を示し、大陸グループおよびプールサイズで調整した後、10°C上昇あたり約22%高い存在量となった。PM2.5曝露は、WHOが定義したティア間で閾値のようなパターンを示した。いずれの環境変数も耐性クラス組成とは関連していなかったが、アジアグループに割り当てられた国々では、マクロライド・リンコサミド・ストレプトグラミン耐性の濃縮が認められた。  結論  耐性負荷と耐性組成は、腸内レジストームの相補的な特徴を捉えており、微生物群集構造と併せて解釈されるべきである。より高い耐性負荷は潜在的に有益な分類群と共存し得ることから、単一指標による評価の限界と、One Healthサーベイランスにおける統合的なレジストーム・分類学的プロファイリングの潜在的な有用性が浮き彫りとなった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762544",
+    "title": "Fungal volatiles affect lateral root formation and increase plant tolerance to osmotic stress",
+    "abstract": "Symbiotic fungi communicate with plants via volatile organic compounds (VOCs), even before physical contact. While fungal VOCs are known to promote plant development under control conditions, their effects under abiotic stress remain poorly characterized. Here, we exposed  Arabidopsis thaliana seedlings to VOCs from the ectomycorrhizal fungi  Laccaria bicolor and  Hebeloma cylindrosporum , and the endophyte  Serendipita indica , under osmotic stress. Time-course transcriptional analysis revealed a rapid, transient induction of auxin transport genes within 3 days of VOC exposure, with minimal early cytokinin modulation. Using auxin-(  aux1-7, axr1-3 ) and cytokinin-resistant (  cre1, arr1-4 ) mutants, we show that this early response bypasses classic auxin/cytokinin antagonism, promoting lateral root proliferation by day 10 under both control and stress conditions. Transcriptomic profiling indicated that fungal VOCs modulate glucosinolate and leucine metabolism and regulate potassium (  HAK5 ) and iron (  IRT1 ) transporters. Genetic and phenotypic analyses of  hak5-2 and  akt1-2 mutants, together with nitric oxide signaling components, revealed that potassium transport and nitric oxide-dependent IRT1 regulation are essential for translating VOC perception into developmental responses. These findings underscore the multifaceted mechanisms by which fungal VOCs coordinate plant development and abiotic stress tolerance.  Highlight  Fungal volatile organic compounds reprogram auxin and cytokinin signaling, ion transporters, and defense metabolism to enhance root development and osmotic stress tolerance in Arabidopsis seedlings.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762544",
+    "date": "2026-10-29",
+    "authors": "Miñambres E, Fermoso-Domínguez J, Rodríguez-Sufuentes S, Marco-Montori P, Lorenzo Ó, Calvo-Polanco M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353351",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2439,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762544"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a3485f7d4efb4e32253e58223650412eede227a164699d7aeaa7db1fe978ad3b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:45:40.409891+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f17d3cb39917de69b6954bf97422601621ff70dbf319674daa1ba985ed15555d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:45:40.409891+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真菌揮発性物質は側根形成に影響を及ぼし、植物の浸透圧ストレス耐性を高める。",
+    "abstract_ja": "共生菌は、物理的な接触に先立っても、揮発性有機化合物（VOC）を介して植物と情報を伝達する。菌類由来のVOCは、対照条件下で植物の発達を促進することが知られているが、非生物的ストレス下におけるその影響については十分に解明されていない。本研究では、浸透圧ストレス条件下において、シロイヌナズナの実生を外生菌根菌であるLaccaria bicolorおよびHebeloma cylindrosporum、ならびに内生菌であるSerendipita indica由来のVOCに曝露させた。経時的な転写解析により、VOC曝露後3日以内にオーキシン輸送遺伝子の迅速かつ一過性の誘導が認められ、初期のサイトカイニン調節は最小限であった。オーキシン耐性（aux1-7, axr1-3）およびサイトカイニン耐性（cre1, arr1-4）変異体を用いた解析により、この初期応答が従来のオーキシン／サイトカイニン拮抗作用を介さず、対照条件およびストレス条件の双方において10日目までに側根の増殖を促進することが示された。トランスクリプトームプロファイリングの結果、菌類由来のVOCがグルコシノレートおよびロイシンの代謝を調節し、カリウム（HAK5）および鉄（IRT1）輸送体を制御していることが明らかになった。hak5-2およびakt1-2変異体、ならびに一酸化窒素シグナル伝達成分の遺伝的・表現型解析により、カリウム輸送および一酸化窒素依存的なIRT1調節が、VOCの感知を発達応答へと変換する上で不可欠であることが明らかになった。これらの知見は、菌類由来のVOCが植物の発達および非生物的ストレス耐性を協調的に制御する多面的なメカニズムを浮き彫りにしている。ハイライト：菌類由来の揮発性有機化合物は、シロイヌナズナの実生において、オーキシンおよびサイトカイニンシグナル伝達、イオン輸送体、および防御代謝をリプログラミングすることで、根の発達と浸透圧ストレス耐性を向上させる。"
   }
 ]
