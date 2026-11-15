@@ -246125,5 +246125,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "固形状および沈水培養によるBeauveria bassiana A1の培養依存的なトランスクリプトーム・リプログラミングと殺虫性能",
     "abstract_ja": "要旨    背景  Beauveria bassianaは、微生物害虫管理に広く用いられている重要な昆虫病原性真菌である。固体発酵（SSF）が主要な生産手法である一方、浸漬液発酵（SLF）はプロセス制御および拡張性の面で潜在的な利点を有する。しかし、培養条件が真菌の転写プログラムおよび得られた胞子の殺虫性能にどのような影響を及ぼすかについては、十分に解明されていない。本研究では、SSFおよびSLFによって産生されたB. bassiana A1のトランスクリプトームプロファイルと殺虫効力を、コナガ（Plutella xylostella）を用いて比較した。結果  トランスクリプトーム解析における偽発見率（FDR） B. bassiana A1、特に細胞外分解および二次代謝において。これらの差異は、最終的な殺虫効力ではなく、宿主の死亡時期の相違に関連していた。高い胞子密度において浸漬分生子が同等の死亡率を達成できる能力は、特に初期感染動態の差異を補うように製剤化および散布戦略を最適化した場合、B. bassiana生物農薬の代替生産プラットフォームとしてのSLFのさらなる評価を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761829",
+    "title": "N1 neuraminidase monoclonal antibodies 2H08 and 3H03 have decreased binding and inhibition properties against H1N1 influenza viruses circulating after 2018",
+    "abstract": "Influenza viruses are global public health problem. Vaccines are available but have to be updated annually due to antigenic drift of the main vaccine component, the surface glycoprotein hemagglutinin (HA). The second surface glycoprotein of the virus, neuraminidase (NA), has recently moved into the spotlight of vaccine development. However, its antigenic evolution is understudied. We found that two broadly protective N1 NA antibodies, which had previously been shown to bind and inhibit most N1 NA, lost activity to recent N1s from seasonal H1N1 viruses. Here, we show that this drop in activity can mostly be attributed to a change in electrostatic surface potential from neutral to positively charged. This effect was not observed when historic human plasma samples were tested, suggesting that the drop of activity is specific to the two tested mAbs but does not broadly impact the polyclonal human response. Finally, we confirmed that the tested mAbs were fully active against recently emerged panzootic clade 2.3.4.4b H5N1 NA. Importance  The influenza virus NA has become an important target for vaccine development. The characterization of antigenic changes described in this manuscript contributes to our understanding of conservation of epitopes in NA.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761829",
+    "date": "2026-10-28",
+    "authors": "Bhavsar D, Hermann E, Monahan B, Nardulli J, Gleason C, Simon V, Krammer F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353445",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3436,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.26.761829"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a650f20e573f569cf5249e0c7fed65624543df5f2312de1126ff31fa0dc6102f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:37:24.697925+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "557642fef961c2cea6f712259d03b6969044b5603e7340a95908ea0647920c70",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:37:24.697925+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "N1ノイラミニダーゼモノクローナル抗体2H08および3H03は、2018年以降に流行しているH1N1型インフルエンザウイルスに対する結合能および阻害能が低下している。",
+    "abstract_ja": "インフルエンザウイルスは世界的な公衆衛生上の問題である。ワクチンは利用可能であるが、主要ワクチン成分である表面糖タンパク質ヘマグルチニン（HA）の抗原ドリフトにより、毎年更新する必要がある。ウイルスの第2表面糖タンパク質であるノイラミニダーゼ（NA）は、近年ワクチン開発の焦点となっている。しかし、その抗原進化に関する研究は不十分である。我々は、従来ほとんどのN1 NAに結合し阻害することが示されていた、広範な防御能を有する2種類のN1 NA抗体が、季節性H1N1ウイルス由来の最近のN1に対して活性を喪失することを見出した。本研究では、この活性低下の主な要因が、静電表面電位が中性から正電荷へと変化したことにあることを示す。この効果は、過去のヒト血漿サンプルを試験した際には認められず、活性低下は試験した2種類のmAbに特異的であり、ポリクローナルなヒト応答に広範な影響を及ぼさないことが示唆された。最後に、試験したmAbが、最近出現した汎動物系統2.3.4.4b H5N1 NAに対して完全に活性を有することを確認した。意義 インフルエンザウイルスNAは、ワクチン開発における重要な標的となっている。本論文で述べた抗原変化の特性解析は、NAにおけるエピトープの保存性の理解に寄与するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.25.761580",
+    "title": "Nascent transcription profiling identifies H3K36 methylation as a custodian of the somatic transcriptome",
+    "abstract": "Faithful gene expression not only requires activation of productive transcription units, but also suppression of aberrant initiation within or between gene bodies. In  Saccharomyces , Set2-mediated H3 lysine-36 methylation (H3K36me) recruits a deacetylase complex that removes acetylation deposited behind elongating RNA polymerase II, preventing cryptic initiation. Whether metazoans require Set2 or the K36 residue itself for this function has been difficult to test. Here, we combined PRO-seq, RNA-seq, and chromatin profiling in  Drosophila wing imaginal discs to define individual contributions of Set2, H3.2K36 and H3.3K36 to transcriptome fidelity. Intragenic initiation events are abundant but largely unresponsive to loss of K36 methylation. Aberrant initiation instead concentrates in repetitive, extragenic chromatin, co-marked by H3K9me2/3 and H3K36me2 but depleted of H3K36me3, a dual heterochromatin signature that is also conserved in mammals. Within this compartment, piRNA clusters, germline-restricted genes, and LTR and LINE retrotransposons are aberrantly activated in somatic tissue. A K36R substitution in  H3.2 , but not in  H3.3 , derepresses these loci to a far greater extent than deleting  Set2 , which retains K36me2 but cannot deposit K36me3. Thus, metazoan H3K36 safeguards the somatic transcriptome principally within heterochromatin, rather than within gene bodies.",
+    "journal": "",
+    "doi": "10.64898/2026.10.25.761580",
+    "date": "2026-10-28",
+    "authors": "Sultana H, Vandadi V, Salzler HR, Baluapuri A, Ponkiya D, Hirth AK, Vernesoni GC, Goldman SR, Adelman K, Matera AG.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352448",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3458,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.25.761580"
+    ],
+    "translation": {
+      "title": {
+        "hash": "51d117f9fceb39bf8c8bbb0f917fe2363be353aec3be9167e0c5a6bbe919b73d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:37:24.697925+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6a880661000017172d84048eb928dc5bcf5feed5c69ab7e04d258e30c5f8b664",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:37:24.697925+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新規転写プロファイリングにより、H3K36メチル化が体細胞トランスクリプトームの維持因子であることが明らかになった。",
+    "abstract_ja": "忠実な遺伝子発現には、生産的な転写単位の活性化だけでなく、遺伝子体内部または遺伝子体間における異常な開始の抑制も必要である。Saccharomycesでは、Set2介在性のH3リシン-36メチル化（H3K36me）が脱アセチル化酵素複合体を動員し、伸長中のRNAポリメラーゼIIの後方に沈着したアセチル基を除去することで、隠蔽開始を防ぐ。後生動物がこの機能にSet2を必要とするのか、あるいはK36残基自体を必要とするのかを検証することは困難であった。本研究では、ショウジョウバエの翅成体ディスクにおいてPRO-seq、RNA-seq、およびクロマチンプロファイリングを組み合わせ、トランスクリプトームの忠実性に対するSet2、H3.2K36、およびH3.3K36の個々の寄与を明らかにした。遺伝子内開始事象は豊富に存在するが、K36メチル化の喪失にはほとんど反応しない。一方、異常な開始は反復的な遺伝子外クロマチンに集中しており、そこにはH3K9me2/3およびH3K36me2が共標識されている一方で、H3K36me3は欠乏している。この二重ヘテロクロマチンシグネチャーは哺乳類においても保存されている。この区画内では、piRNAクラスター、生殖細胞系列限定遺伝子、およびLTRおよびLINEレトロトランスポゾンが体細胞組織において異常に活性化されている。H3.2におけるK36R置換は、H3.3における置換とは異なり、K36me2を保持するがK36me3を沈着させることができないSet2の欠失よりも、はるかに大幅にこれらの遺伝子座の脱抑制を引き起こす。したがって、後生動物のH3K36は、主に遺伝子体内ではなくヘテロクロマチン内で体細胞トランスクリプトームを保護している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.25.26366311",
+    "title": "Cervical lymph node B cell subset resists depletion and sustains lytic Epstein Barr-virus signature in patients with multiple sclerosis",
+    "abstract": "B cells have arisen as key in multiple sclerosis (MS) pathogenesis by the high efficacy of B cell depleting CD20 monoclonal antibodies and by the identification of Epstein-Barr virus (EBV) as a prerequisite factor. We previously demonstrated an expansion of memory and double negative (DN) B cells in the deep cervical lymph nodes (dcLNs) of newly diagnosed patients with MS (pwMS), with DN B cells showing a molecular signature consistent with lytic EBV infection. Effect of anti-CD20 therapies for pwMS require sustained administration, which led us to hyhenhesize that incomplete effects on the dcLNs, a natural site for lymphocyte priming towards the central nervous system (CNS), might be sustaining the pathology. Using single-cell transcriptomics and paired sampling, we characterized the effects of anti-CD20 therapies on dcLNs compared to circulation and to other therapies. We observed switched (SM) and unswitched (USM) memory B cells to be depleted uniquely by anti-CD20 in both dcLNs and circulation, whereas DN B cells of the dcLNs were not. Moreover, EBV lytic signature was retained in DN B cells during anti-CD20, and using clonal trajectory we saw that the DN B cells continued to contribute to the plasmablast differentiation within dcLNs. EBV targeting of expanded memory CD8 T cells, as well as CD8 T cell exhaustion, were retained during anti-CD20 therapy within the dcLNs. Our findings suggest a sustained, EBV-driven process in pwMS during anti-CD20 in the CNS-targeting priming dcLNs, with therapeutic implications to be investigated further. One Sentence Summary  Cervical lymph nodes show sustained, EBV-driven pathology in multiple sclerosis during anti-CD20 therapy unseen in peripheral blood.",
+    "journal": "",
+    "doi": "10.64898/2026.10.25.26366311",
+    "date": "2026-10-28",
+    "authors": "Babal YK, Sarkkinen J, Ahvenainen E, Susi A, Saarela M, Kurdo G, Laakso SM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352381",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3460,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.25.26366311"
+    ],
+    "translation": {
+      "title": {
+        "hash": "284ee18396f163759a4fc2d6e559fdd1c45c59052663f824e4bbac27302190ad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:37:24.697925+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c1ca9e84c61c21144ab754be9f611f4a2eedb744ff1244a961d507316a38435e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:37:24.697925+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多発性硬化症患者において、頸部リンパ節B細胞サブセットは枯渇に抵抗し、溶菌性エプスタイン・バーウイルスシグネチャーを維持する。",
+    "abstract_ja": "B細胞は、B細胞枯渇型CD20モノクローナル抗体の高い有効性と、エプスタイン・バーウイルス（EBV）が前提因子として同定されたことにより、多発性硬化症（MS）の病態形成における鍵として浮上している。我々は以前、新たにMSと診断された患者（pwMS）の深頸部リンパ節（dcLNs）において、メモリーB細胞およびダブルネガティブ（DN）B細胞の増殖を認め、DN B細胞が溶原性EBV感染と一致する分子シグネチャーを示すことを明らかにした。pwMSに対する抗CD20療法の効果には持続的な投与が必要であり、このことから、中枢神経系（CNS）へのリンパ球プライミングの自然な場であるdcLNsへの効果が不十分であることが、病態を維持させている可能性を仮説として立てた。シングルセルトランスクリプトミクスとペアサンプリングを用いて、抗CD20療法がdcLNsに及ぼす影響を、循環血中や他の治療法と比較して特性評価した。その結果、スイッチド（SM）およびアンスイッチド（USM）メモリーB細胞は、dcLNsと循環血中の両方において抗CD20によって特異的に枯渇したが、dcLNsのDN B細胞は枯渇しなかった。さらに、抗CD20療法中もDN B細胞にはEBV溶原性シグネチャーが保持されており、クローン軌跡を用いた解析により、DN B細胞がdcLNs内での形質芽細胞分化に寄与し続けていることが示された。増殖したメモリーCD8 T細胞へのEBV標的作用およびCD8 T細胞の疲弊は、抗CD20療法中もdcLNs内で維持されていた。我々の知見は、pwMSにおける抗CD20療法中、CNSを標的とするプライミングを行うdcLNsにおいて、持続的なEBV駆動型の病態が存在していることを示唆しており、その治療的意義についてさらなる検討が必要である。一文要約：頸部リンパ節は、抗CD20療法中の多発性硬化症において、末梢血中では見られない持続的なEBV駆動型の病態を示す。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10137759/v1",
+    "title": "Weakly Supervised Video Anomaly Detection Using CNN-LSTM with Confidence-Aware Automated Pseudo Label Generation",
+    "abstract": "Abstract  Video anomaly detection in surveillance environments is a challenging problem due to the lack of large-scale frame-level annotations and the high cost of manual labeling. Traditional fully supervised approaches are not scalable in real-world scenarios, while existing weakly supervised methods often rely on noisy bag-level labels and lack fine-grained supervision. In this work, we propose a weakly supervised video anomaly detection framework based on automatically generated pseudo labels. Unlike existing approaches that rely solely on video-level annotations, our method constructs a multi-stage pseudo labeling pipeline that integrates motion-based foreground estimation, object-level detection, and pixel-level segmentation. Specifically, motion regions are first extracted using MOG2 background subtraction. Then YOLOv8 is applied to detect candidate objects in motion-activated frames, followed by SAM-based segmentation to refine object boundaries at pixel level. These signals are fused to generate clip-level pseudo labels with confidence scores. To handle noise in automatically generated labels, we introduce a confidence-aware weighting mechanism and a temporal consistency regularization term. Furthermore, a lightweight CNN-LSTM architecture is employed, where ResNet18 is used as a frozen feature extractor to significantly reduce computational cost while maintaining competitive performance. Experimental evaluation on the UCF-Crime dataset demonstrates that the proposed method achieves an AUC of 0.80 and an F1-score of 0.78 under a reproducible multi-run evaluation protocol. The source code and generated pseudo labels will be made publicly available upon publication.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10137759/v1",
+    "date": "2026-10-28",
+    "authors": "Jalali S, Boostani R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352070",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3462,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-10137759/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fc511f1af70582502f0b3b0cb1331f310fb74fa5664be53e3695a96d0664feee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:37:24.697925+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "513d3f4672987e0629c1bda42ec4222cb56afdbdaf0688d3c743ab9f173ca448",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:37:24.697925+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "信頼度を考慮した自動擬似ラベル生成を用いたCNN-LSTMによる弱教師あり動画異常検知",
+    "abstract_ja": "要旨  監視環境における動画異常検知は、大規模なフレームレベルのアノテーションの不足と手動ラベリングの高コストにより、困難な課題となっている。従来の完全教師あり手法は実環境においてスケーラビリティに欠け、既存の弱教師あり手法はノイズの多いバッグレベルのラベルに依存することが多く、きめ細かな教師信号を欠いている。本研究では、自動生成された擬似ラベルに基づく弱教師あり動画異常検知フレームワークを提案する。動画レベルのアノテーションのみに依存する既存手法とは異なり、本手法は、動きベースの前景推定、オブジェクトレベルの検出、およびピクセルレベルのセグメンテーションを統合した多段階の擬似ラベリングパイプラインを構築する。具体的には、まずMOG2による背景減算を用いて動き領域を抽出する。次に、YOLOv8を適用して動き検出フレーム内の候補オブジェクトを検出し、続いてSAMベースのセグメンテーションによりピクセルレベルでオブジェクト境界を精緻化する。これらの信号を融合し、信頼度スコアを伴うクリップレベルの擬似ラベルを生成する。自動生成ラベルのノイズに対処するため、信頼度を考慮した重み付け機構と時間的一貫性正則化項を導入する。さらに、軽量なCNN-LSTMアーキテクチャを採用し、ResNet18を凍結特徴量抽出器として使用することで、競争力のある性能を維持しつつ計算コストを大幅に削減する。UCF-Crimeデータセットを用いた実験的評価により、提案手法が再現可能なマルチラン評価プロトコルの下で、AUC 0.80およびF1スコア 0.78を達成することが示された。ソースコードおよび生成された擬似ラベルは、公開時に一般に提供される。"
   }
 ]
