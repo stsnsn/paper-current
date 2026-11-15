@@ -230923,5 +230923,348 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "多様性を生み出すレトロエレメントは、ファージがヒト腸内で宿主範囲を拡大することを可能にする。",
     "abstract_ja": "多様性創出レトロエレメント（DGR）は、エラーを起こしやすい逆転写を利用して特定の標的遺伝子（主にファージの受容体結合タンパク質）を超変異させる遺伝的要素である。DGRはヒト腸内ウイルスに豊富に存在し、そこでファージが宿主範囲を拡大することを可能にするという仮説が立てられている。しかし、細菌種間におけるDGR介在性の宿主範囲拡大は、これまでin silicoでのみ予測されており、複雑な微生物群集内で直接的に検証されてこなかった。この仮説をin situで検証するため、我々は5週間にわたって採取した経時的な糞便試料に対し、バルクメタゲノム解析、ウイルス様粒子（VLP）解析、およびHi-Cシーケンシングを組み合わせて、ヒト腸内におけるファージと宿主の相互作用を追跡した。この培養非依存的な手法により、97種のファージと76種の細菌宿主との間で380件の相互作用が同定された。これらのファージのほぼ3分の1（97種中31種）がDGRをコードしており、DGRをコードするファージは複数の細菌種と相互作用する傾向が強かった。さらに、DGR標的遺伝子のヌクレオチド多様性は、ファージが相互作用する宿主数の増加に伴って増大し、受容体結合タンパク質の表面露出型DGR標的可変領域に集中していた。以上の結果を総合すると、DGRがヒト腸内においてファージの宿主範囲拡大を可能にするというin situの証拠が得られる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762706",
+    "title": "Silent travelers: the potential of migratory birds and their ticks to introduce emerging viruses into Switzerland",
+    "abstract": "Switzerland hosts over 400 bird species, many of which are migratory. Through diverse movement patterns, ranging from short distances to almost global migrations, these birds can introduce zoonotic viruses, such as West Nile virus (WNV) or avian influenza virus (AIV), as well as unknown and potentially emerging viruses. Furthermore, they facilitate the global dispersal of infected ectoparasites, particularly ticks, risking the introduction of novel tick-borne diseases. To assess this risk, we sampled 42 bird species (39 migratory, 3 resident) over seven months in 2023 at the Bolle di Magadino nature reserve and the Piano di Magadino area in the canton Ticino (Switzerland). This region, because of its transitional climate, serves as an important resting and breeding ground for migratory birds. In total, 496 oropharyngeal-cloacal swabs, 164 sera, and 22 associated ticks were collected. While RT-qPCR of the swabs detected no active WNV or AIV infections, ELISA testing identified Orthoflavivirus antibodies in 15 of 164 sera, indicating prior exposure. Metagenomic next-generation sequencing revealed a viral landscape spanning 33 families (29 of which were identified in birds). Within this virome, DNA viruses, predominantly  Circoviridae, Genomoviridae, and  Parvoviridae , dominated in abundance but exhibited low diversity. In contrast, the highly diverse RNA virome primarily reflected the birds’ dietary habits and the local habitat at the nature reserve. Notably, we report the first detection of Bole tick virus 4 (BoTV4) in Switzerland, identified in several ticks (  Rhipicephalus turanicus ) associated with long-distance migrants. This member of the newly established  Pestiviridae family is already established in parts of Asia, Africa, and Europe. This study provides the first active surveillance of the wild bird virome in Switzerland. Our findings establish a framework for the early detection of emerging viruses and underscore the role of migratory birds as dispersal vectors for ticks and novel tick-borne viruses.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762706",
+    "date": "2026-10-31",
+    "authors": "Gerber CM, Zezza G, Guidi V, Wyler M, Bachofen C, Kubacki J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354969",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 271,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762706"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a9d12c8260162806828d7ad5746da863697f28e7d46894023575b3feead86fea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:16:05.404132+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "58ef8c30f4154e8f216ea45e520c57d1415331c127e2ee088b78a950471b7bd5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:16:05.404132+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "沈黙の旅人：渡り鳥とそのマダニがスイスに新興ウイルスを持ち込む可能性",
+    "abstract_ja": "スイスには400種以上の鳥類が生息しており、その多くが渡り鳥である。短距離からほぼ全球的な移動に至るまで、多様な移動パターンを通じて、これらの鳥類はウエストナイルウイルス（WNV）や鳥インフルエンザウイルス（AIV）などの人獣共通感染症ウイルスに加え、未知のウイルスや新興ウイルスを媒介する可能性がある。さらに、感染した外部寄生虫、特にマダニの世界的な拡散を促進し、新たなマダニ媒介性疾患の侵入を招くリスクがある。このリスクを評価するため、我々は2023年の7か月間にわたり、スイス・ティチーノ州のボッレ・ディ・マガディーノ自然保護区およびピアノ・ディ・マガディーノ地域において、42種の鳥類（渡り鳥39種、留鳥3種）からサンプリングを行った。この地域は、その移行帯気候により、渡り鳥にとって重要な休息地および繁殖地となっている。合計で、496検体の口咽頭・総排泄腔スワブ、164検体の血清、および22匹の関連マダニが採取された。スワブのRT-qPCRでは活性型のWNVまたはAIV感染は検出されなかったが、ELISA検査により164検体の血清のうち15検体からOrthoflavivirus抗体が検出され、事前の曝露が示された。メタゲノム次世代シーケンシングにより、33科にわたるウイルスランドスケープが明らかになった（うち29科が鳥類で同定された）。このウイルス叢の中では、主にCircoviridae、Genomoviridae、およびParvoviridaeに属するDNAウイルスが量的に優勢であったが、多様性は低かった。対照的に、多様性の高いRNAウイルス叢は、主に鳥類の食性および自然保護区における局所的な生息環境を反映していた。特筆すべきは、長距離渡り鳥に関連する数匹のマダニ（Rhipicephalus turanicus）からBole tick virus 4 (BoTV4) が初めて検出されたことである。新たに確立されたPestiviridae科のこのメンバーは、すでにアジア、アフリカ、およびヨーロッパの一部に定着している。本研究は、スイスにおける野生鳥類ウイルス叢の初の能動的サーベイランスを提供するものである。我々の知見は、新興ウイルスの早期検出のための枠組みを構築するとともに、マダニおよび新たなマダニ媒介性ウイルスの拡散媒介者としての渡り鳥の役割を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762389",
+    "title": "tWhEEL: a transcript-aware workflow for quantifying CRISPR knockout feasibility using transcriptome assembly",
+    "abstract": "ABSTRACT  Gene redundancy can complicate loss-of-function experiments (knockout), and its extent varies among organisms and biological functions. Relating variation in gene redundancy to the availability of genome-editing targets can help researchers select tractable biological functions and experimental organisms. Here, we present the transcript-aware Whole-genomic Evaluation for Editing Locus (tWhEEL), a pipeline that infers redundancy in silico from transcript information and cross-references it with specific guide RNA designs. tWhEEL integrates CRISPR-Cas9 guide design with Gene Ontology (GO) and pathway annotations to compute a knockout feasibility index (KFI) for individual genes and functional categories. Interactive HTML reports link GO-associated KFI and pathway-associated KFI summaries to the contributing groups, genes, and guide candidates with links to QuickGO or WikiPathways. By linking sequence-level guide candidates to functional-level targetability, tWhEEL can support the selection of biological functions and organisms for reverse-genetic experiments. Applications to model and nonmodel datasets revealed distinct targetability profiles, including high full targetability in yeast and query-protein-set dependence in zebrafish. A zebrafish Fanconi anemia case study recovered 14 of 19 published target-site designs. By connecting sequence-level guide candidates with function-level experimental planning, tWhEEL provides a framework for comparing reverse genetic tractability and prioritizing biological functions and organisms for further study.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762389",
+    "date": "2026-10-31",
+    "authors": "Nakamae K, Bono H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354945",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "assembly",
+        "genomic",
+        "pipeline",
+        "transcriptome",
+        "workflow",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 272,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762389"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5925ba9bb74d5392dd84564403b329de98a65e6bf09b6a5baf5fcdef34e24d9f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:16:05.404132+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "363ec190816e6eff21443eef6bac88f6a07d11d37fd01f36ba7587d414d81186",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:16:05.404132+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "tWhEEL: トランスクリプトームアセンブリを用いてCRISPRノックアウトの実現可能性を定量化するトランスクリプト認識型ワークフロー",
+    "abstract_ja": "要旨　遺伝子冗長性は機能喪失実験（ノックアウト）を複雑にする要因となり得、その程度は生物種や生物学的機能によって異なる。遺伝子冗長性の変動をゲノム編集標的の利用可能性と関連付けることで、研究者は扱いやすい生物学的機能や実験生物を選択することが可能となる。本報では、転写情報からin silicoで冗長性を推定し、それを特定のガイドRNA設計と相互参照させるパイプラインであるtranscript-aware Whole-genomic Evaluation for Editing Locus（tWhEEL）を提案する。tWhEELは、CRISPR-Cas9ガイド設計をGene Ontology（GO）およびパスウェイアノテーションと統合し、個々の遺伝子および機能カテゴリーに対するノックアウト実現可能性指数（KFI）を算出する。インタラクティブなHTMLレポートでは、GO関連のKFIおよびパスウェイ関連のKFIサマリーを、寄与グループ、遺伝子、およびガイド候補に紐付け、QuickGOまたはWikiPathwaysへのリンクを提供している。配列レベルのガイド候補を機能レベルの標的化可能性に結びつけることで、tWhEELはリバースジェネティクス実験のための生物学的機能および生物の選択を支援できる。モデルデータセットおよび非モデルデータセットへの適用により、酵母における高い完全な標的化可能性や、ゼブラフィッシュにおけるクエリタンパク質セット依存性など、異なる標的化可能性プロファイルが明らかになった。ゼブラフィッシュのファンコニ貧血に関するケーススタディでは、公表済みの標的部位設計19件のうち14件を回収した。配列レベルのガイド候補を機能レベルの実験計画と結びつけることで、tWhEELはリバースジェネティクスの標的化可能性を比較し、さらなる研究に向けた生物学的機能および生物の優先順位付けを行うためのフレームワークを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.762994",
+    "title": "In silico codon optimization and phylogenetic analysis of various strains of Sapovirus",
+    "abstract": "Introduction  Sapovirus (SaV) is an emerging enteric pathogen of rising public health importance, responsible for acute gastroenteritis in people of all ages and most often in children under five. Its genome is approximately 7.1-7.7 kb long, positive-sense, single-stranded RNA, comprising two principal open reading frames; processing of the ORF1 product yields seven non-structural proteins and the major capsid protein VP1, while ORF2 encodes the minor structural protein VP2. Given the absence of therapies or an approved vaccine and the low yields of recombinant capsid protein, improving expression remains a priority. Methods  VP1 and VP2 sequences from twelve selected human SaV strains were aligned, phylogenetic trees were reconstructed by maximum likelihood method under the Tamura-Nei model with 1,000 bootstrap replicates, and both genes were optimized  in silico for  Escherichia coli using the OPTIMIZER.  Results  The trees resolved three genogroups, GI, GII and GV, each strain placed alike by both genes. Every optimized sequence reached the ceiling value of 1.000 for the codon adaptation index (CAI). Mean CAI and GC% increased by 3.07 (207.0%) and 1.11 (11.1%) fold for VP1, and 3.11 (210.9%) and 1.14 (14.1%) fold for VP2, while AT% decreased. All changes were statistically significant (p Conclusion  Our findings indicate that Optmization raised host-matched codon usage in both capsid genes with no truncated proteins produced. The redesigned VP1 and VP2 sequences warrant further investigation as potential candidates for biotherapeutic and vaccine development.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.762994",
+    "date": "2026-10-31",
+    "authors": "Adhikari S, Mani I.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354986",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 716,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.762994"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c798743923b6dd3462e76be2f58f8102f6f0eb93b2a15d51f3f2ed030d9ad97c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:16:05.404132+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "176eece9d5999c4ee833814a5dd8370adba00940622b0015957a7cffcb2b0aaa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:16:05.404132+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サポウイルスの各種株におけるインシリココドン最適化および系統解析",
+    "abstract_ja": "はじめに  サポウイルス（SaV）は、公衆衛生上の重要性が高まっている新興の腸管病原体であり、あらゆる年齢層の人々、とりわけ5歳未満の小児において急性胃腸炎を引き起こす。そのゲノムは約7.1～7.7 kbの正鎖一本鎖RNAであり、2つの主要なオープンリーディングフレーム（ORF）で構成されている。ORF1産物のプロセシングにより、7つの非構造タンパク質と主要なカプシドタンパク質VP1が得られ、一方でORF2はマイナー構造タンパク質VP2をコードしている。治療法や承認済みワクチンが存在せず、組換えカプシドタンパク質の収率も低いため、発現の改善が引き続き優先課題となっている。方法  選定した12株のヒトSaV株由来のVP1およびVP2配列をアライメントし、Tamura-Neiモデルを用いて1,000回のブートストラップ反復による最尤法で系統樹を再構成した。また、OPTIMIZERを用いて、大腸菌（Escherichia coli）向けに両遺伝子をin silicoで最適化した。結果  系統樹により、GI、GII、GVの3つのジェノグループが同定され、各株は両遺伝子において同等に配置された。最適化されたすべての配列において、コドン適応指数（CAI）は上限値の1.000に達した。平均CAIおよびGC%は、VP1で3.07倍（207.0%）および1.11倍（11.1%）、VP2で3.11倍（210.9%）および1.14倍（14.1%）増加した一方、AT%は減少した。すべての変化は統計的に有意であった（p 結論  本研究の結果は、最適化によって両カプシド遺伝子において宿主に適合したコドンの使用が促進され、切断されたタンパク質は生成されなかったことを示している。再設計されたVP1およびVP2配列は、バイオ治療薬およびワクチン開発の候補として、さらなる検討に値する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762591",
+    "title": "Host specificity, seasonality, and urbanicity shape the gut microbiome of a synanthropic insect",
+    "abstract": "The soapberry bug Jadera haematoloma is a classic model of rapid adaptive evolution, with a well-documented host shift from native herbaceous sapinds to the introduced goldenrain tree (Koelreuteria spp.). This host shift has facilitated the insect's spread into novel anthropogenic urban habitats. Microbial associations are often critical to insect environmental adaptation. Here, we characterize the gut microbiota of J. haematoloma across native and introduced host plants, seasonal transitions, and a gradient of urbanicity. Our findings indicate that the soapberry bug gut microbiome is highly specialized, with a small number of core bacterial amplicon sequence variants (ASVs) primarily from the families Rhizobiaceae, Streptococcaceae, Enterobacteriaceae, and Lactobacillaceae. While traits such as sex and wing morph do not correlate with microbiome structure, the host plant acts as the primary determinant of community composition. Bugs feeding on the ancestral host plant maintain a more diverse and even microbial community featuring Enterobacteriaceae, whereas the gut environment of bugs on the introduced host is overwhelmingly dominated by a single unclassified Rhizobiaceae ASV. Furthermore, seasonal transitions drive significant turnover among accessory microbial taxa. Finally, we demonstrate that urbanization introduces a distinct ecological effect on the insect's microbiome. While the degree of local green space does not systematically alter within-host taxonomic richness, it is associated with modest change in mean community composition and significantly disrupts microbial community variance. Increased urbanization correlates with significantly higher beta dispersion, indicating that anthropogenic environments lead to more stochastic microbiomes, which may be an indicator of environmental stress. Together, these results illustrate how rapid dietary host shifts and the ecological pressures of urbanization interact to shape the microbiome of a synanthropic insect.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762591",
+    "date": "2026-10-31",
+    "authors": "Noyes H, Anika N, Combs J, Khan T, Just J, Fitzpatrick S, Angelini RG, Angelini DR.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354977",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 717,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762591"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b7458d57c747f3c8ba2b83c3dd82b44f2147a5c9a9162d9bffe27a1e2547fc8b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:16:05.404132+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a8310aa2138a83a199a3efe3e36bfb190c0f24504dbd6b4c4bc1803f71208b10",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:16:05.404132+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主特異性、季節性、および都市性が、共生昆虫の腸内微生物叢を形作る。",
+    "abstract_ja": "ムクロジカメムシ（Jadera haematoloma）は、急速な適応進化の典型的なモデルであり、在来の草本サピンド類から導入種であるゴールデンレインツリー（Koelreuteria spp.）への宿主転換が十分に報告されている。この宿主転換により、本種は新たな人為的都市生息地への拡散が促進された。微生物叢の共生関係は、昆虫の環境適応においてしばしば極めて重要となる。本研究では、在来および導入宿主植物、季節的遷移、および都市化の勾配にわたるJ. haematolomaの腸内微生物叢の特性を明らかにする。我々の知見は、ムクロジカメムシの腸内マイクロバイオームが高度に特化しており、主に根粒菌科（Rhizobiaceae）、レンサ球菌科（Streptococcaceae）、腸内細菌科（Enterobacteriaceae）、および乳酸桿菌科（Lactobacillaceae）に属する少数のコア細菌アンプリコン配列変異体（ASVs）で構成されていることを示している。性や翅の形態といった形質はマイクロバイオーム構造と相関しないが、宿主植物が群集組成の主要な決定要因として機能する。祖先宿主植物を摂食する個体は、腸内環境に腸内細菌科を含むより多様で均一な微生物群集を維持するのに対し、導入宿主を摂食する個体の腸内環境は、未分類の単一の根粒菌科ASVによって圧倒的に支配されている。さらに、季節的遷移は補助的な微生物分類群の間で著しい入れ替わりを引き起こす。最後に、都市化が本種のマイクロバイオームに明確な生態学的影響を及ぼすことを実証する。局所的な緑地の程度は、宿主内の分類学的多様性を系統的に変化させることはないものの、平均群集組成のわずかな変化に関連しており、微生物群集の分散を著しく乱す。都市化の進展はベータ分散の有意な上昇と相関しており、これは人為的環境がより確率的なマイクロバイオームをもたらすことを示しており、環境ストレスの指標となる可能性がある。以上の結果を総合すると、急速な食性宿主の転換と都市化による生態学的圧力がどのように相互作用し、共人性昆虫のマイクロバイオームを形成するかが明らかになる。"
   }
 ]
