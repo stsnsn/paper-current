@@ -240143,5 +240143,323 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "1-ホスホフルクトキナーゼ（FruK）の機能獲得型変異は、細菌において解糖系を再確立する。",
     "abstract_ja": "二次的（プロミシュアス）活性は、酵素に潜在的な触媒機能の貯蔵庫を提供し、これは選択圧下で活用され得る。本研究では、1-ホスホフルクトキナーゼ（FruK）のプロミシュアス活性からの解糖系の再出現を辿る。我々は、グルコース上で六炭糖分解能を欠く大腸菌株を作出し、fruKにおける非同義変異を回収した。リバースエンジニアリング、遺伝子欠失、および転写産物定量により、改変され強く過剰発現しているfruKが増殖表現型の決定因子であることが同定された。精製したFruK変異体はin vitroでフルクトース-6-リン酸をリン酸化し、最良の変異体は野生型酵素に比べて触媒効率が約170倍向上していた。最大1.4オングストローム分解能の結晶構造により、ADPおよびF1P、F6P、またはFBPが結合した状態のFruKが捉えられた。これらの構造から、代替基質を排除する単一の活性部位リシンが同定され、大腸菌FruKは、本来の天然反応における効率の26%向上を犠牲にしてでも、このリシンを保持していることが明らかになった。FruKの逆反応産物であるF1Pは、グローバル調節因子Craのエフェクターであるため、この残基が解糖系フラックスを転写制御から分離させていると我々は提唱する。同様の活性部位モチーフはFruKの系統群間で天然に存在し、六炭糖分解能を欠くコリネバクテリウム・グルタミカム株も同様の適応を遂げており、これはグラム分化群全体にわたる共通の戦略であることを示唆している。したがって、EMP解糖系のコミットメントステップは、広範な糖キナーゼファミリーの中で単一の置換によって到達可能であり、そこでは能動的に抑制されていると考えられる。"
+  },
+  {
+    "id": "10.64898/2026.11.13.766388",
+    "title": "Improved long-read sequencing technology reveals full genome architecture of Malian Plasmodium falciparum field isolates",
+    "abstract": "Understanding genome plasticity in malaria parasites and the diversity of their repetitive gene families requires high-quality reference genomes derived from parasites recently isolated from patients. However, generating such genomes in Plasmodium falciparum remains challenging owing to the parasite's extreme AT content, extensive repetitive regions, and the frequent occurrence of multiclonal infections in endemic settings. As a result, most available reference genomes are derived from laboratory-adapted strains, that have experienced prolonged in vitro maintenance, and that incompletely represent natural parasite diversity. We developed and optimized a de novo assembly strategy based on PacBio HiFi long-read sequencing and applied it to eight recently-isolated and cloned P. falciparum parasites from Mali. HiFi sequencing enabled highly accurate genome reconstruction, yielding assemblies with a mean of 18 contigs, 301 pseudogenes, and a frameshift rate of 0.04% following Liftoff annotation. Assemblies showed high structural integrity and near-complete chromosomes, including improved recovery of subtelomeric regions and multigene families, without requiring short-read correction. Despite overall conservation of chromosome organization, substantial variation was observed in chromosome-end architecture, subtelomeric structure, and telomeric repeat content among parasite genomes. Our approach simplifies the generation of high-quality P. falciparum genomes and reduces sequencing requirements fourfold. The resulting assemblies enabled characterization of natural variation in telomere plasticity and multicopy gene family diversity in field isolates. These findings establish PacBio HiFi sequencing as an effective and scalable strategy for producing highly contiguous and accurate de novo assemblies of P. falciparum, supporting the development of geographically-diverse, field-relevant malaria parasite reference genomes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766388",
+    "date": "2026-11-14",
+    "authors": "Diaz-Terenti, B., Diakite, M., Ranford-Cartwright, L. C., Pradhan, S., Martos-Contreras, M. d. C., Otto, T. D., Gomez-Diaz, E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766388v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4635,
+    "collected_at": "2026-11-15T11:01:16.194092+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.13.766388"
+    ],
+    "translation": {
+      "title": {
+        "hash": "00f7c73ccdffc6eb4e0a552494e521092db539f242916652e8bbd544aa311d8f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:32:16.663819+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "effbbdbccf42528b1234ed91591d3022cc197c11c2e622352363da37f49a7c35",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:32:16.663819+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "改良型ロングリードシーケンシング技術により、熱帯熱マラリア原虫の野外分離株の全ゲノム構造が解明された",
+    "abstract_ja": "マラリア原虫におけるゲノム可塑性および反復遺伝子ファミリーの多様性を理解するには、患者から最近分離された原虫由来の高品質なリファレンスゲノムが必要である。しかし、Plasmodium falciparumは、極めて高いAT含有量、広範な反復領域、および流行地域における多クローン感染の頻発により、このようなゲノムの構築が依然として困難である。その結果、利用可能なリファレンスゲノムの大部分は、研究室向けに調整され、長期間のin vitro維持を経ており、かつ天然の原虫多様性を不完全にしか反映していない株に由来している。我々は、PacBio HiFiロングリードシーケンシングに基づくde novoアセンブリ戦略を開発・最適化し、マリから最近分離・クローニングされた8株のP. falciparumに適用した。HiFiシーケンシングにより極めて高精度なゲノム再構築が可能となり、Liftoffアノテーション後のアセンブリは、平均18コンティグ、301個の擬似遺伝子、および0.04%のフレームシフト率を示した。アセンブリは、ショートリード補正を必要とせず、サブテロメア領域や多遺伝子ファミリーの回収精度が向上するなど、高い構造的完全性とほぼ完全な染色体を示した。染色体構成は全体として保存されていたものの、原虫ゲノム間で、染色体末端構造、サブテロメア構造、およびテロメア反復含有量に顕著な差異が認められた。我々の手法は、高品質なP. falciparumゲノムの構築を簡素化し、シーケンシング要件を4分の1に削減する。得られたアセンブリにより、野外分離株におけるテロメア可塑性の自然変異および多コピー遺伝子ファミリーの多様性の特性解析が可能となった。これらの知見は、PacBio HiFiシーケンシングが、P. falciparumの極めて連続性が高く正確なde novoアセンブリを作製するための効果的かつ拡張可能な戦略であることを立証するものであり、地理的に多様で野外環境に即したマラリア原虫リファレンスゲノムの開発を後押しするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11277228/v1",
+    "title": "A Biologically Interpretable Multimodal Model for Prognostic Risk Stratification and Glucocorticoid-Associated Outcome Heterogeneity in Acute Respiratory Distress Syndrome (ARDS)",
+    "abstract": "Abstract    The clinical and biological heterogeneity of acute respiratory distress syndrome (ARDS) complicates early prognostic assessment and may contribute to variability in treatment-associated outcomes. In this multicentre study of 2,868 patients from 10 centres, we developed and externally validated a multimodal risk-stratification framework integrating clinical variables, chest CT imaging, and serum proteomic data. Serum proteomic profiles were available in 879 patients and exploratory bronchoalveolar lavage fluid (BALF) single-cell RNA sequencing was performed in 26 patients to characterize pulmonary microenvironment of model-defined risk states. The clinical-imaging model achieved AUROCs of 0.831, 0.805, and 0.781 for 30-day mortality prediction in the training, internal test, and external validation cohorts, respectively, while proteomic integration improved discrimination to 0.892, 0.871, and 0.859 in the proteome-matched subset. Higher predicted risk was associated with impaired early liberation from mechanical ventilation and increased non-invasive ventilation failure. Serum proteomic analyses revealed distinct biological profiles of high-risk group characterized by tissue-injury and inflammatory signatures, such as KRT19, CHIT1, IGFBP2, and IL-6, with enrichment of inflammatory pathways (HMGB1 and TREM1 signalling), metabolic and nuclear receptor pathways (FXR/RXR and PPAR signalling), extracellular matrix remodelling (FAK signalling and collagen degradation), endothelial dysfunction, and coagulation pathways. BALF single-cell RNA further identified neutrophil-enriched pulmonary immune responses in high-risk patients. Glucocorticoid-associated 30-day mortality varied across model-defined risk strata (  P  for interaction",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11277228/v1",
+    "date": "2026-11-01",
+    "authors": "Song Z, Lin M, Lu S, Zeng Y, Zheng N, Chen Y, Chen C, Zou X, Xu F, Chen Z, Wu S, Gao C, Wu X, Zhang Z, Liu Q, Shen Y, Lin Y, Deng Y, Ji R, Song J, Wang L, Peng C, Tian X, Wang R, Chen L, Zhan L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354546",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "proteomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4602,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.21203/rs.3.rs-11277228/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8d0bf347fde4ec7e9f51fe5bce1b912fdc9f7546e0c4ffdb3a25c48b3f12db33",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:32:16.663819+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "536654beeb65b356f4cfaef93e2faa46c655ab2953e682bb3af365ba875f6415",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:32:16.663819+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "急性呼吸窮迫症候群（ARDS）における予後リスク層別化およびグルココルチコイド関連アウトカム不均一性に関する生物学的に解釈可能なマルチモーダルモデル",
+    "abstract_ja": "要旨    急性呼吸窮迫症候群（ARDS）の臨床的・生物学的不均一性は、早期予後評価を困難にし、治療に伴う転帰のばらつきの一因となり得る。10施設の患者2,868例を対象とした本多施設共同研究において、我々は臨床変数、胸部CT画像、および血清プロテオームデータを統合したマルチモーダル・リスク層別化フレームワークを開発し、外部検証を行った。血清プロテオームプロファイルは879例で利用可能であり、モデル定義されたリスク状態における肺微小環境を特性評価するため、26例を対象に探索的な気管支肺胞洗浄液（BALF）シングルセルRNAシーケンシングを実施した。臨床画像モデルは、訓練コホート、内部テストコホート、および外部検証コホートにおける30日死亡率予測において、それぞれ0.831、0.805、0.781のAUROCを達成した。一方、プロテオーム統合により、プロテオームマッチングサブセットにおける識別能は0.892、0.871、0.859へと向上した。予測リスクが高いことは、人工呼吸からの早期離脱障害および非侵襲的換気不全の増加と関連していた。血清プロテオーム解析により、高リスク群において、KRT19、CHIT1、IGFBP2、IL-6などの組織損傷および炎症シグネチャーを特徴とする明確な生物学的プロファイルが明らかとなり、炎症経路（HMGB1およびTREM1シグナル伝達）、代謝および核内受容体経路（FXR/RXRおよびPPARシグナル伝達）、細胞外マトリックスリモデリング（FAKシグナル伝達およびコラーゲン分解）、内皮機能障害、および凝固経路の濃縮が認められた。BALFシングルセルRNA解析により、高リスク患者における好中球増多を伴う肺免疫応答がさらに同定された。グルココルチコイド関連の30日死亡率は、モデル定義されたリスク層によって異なっていた（相互作用のP"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763096",
+    "title": "Multi-scale haplotype signatures distinguish among evolutionary processes",
+    "abstract": "Natural selection embeds distinct genomic signatures as populations adapt to environmental pressures. Machine learning approaches, particularly deep neural networks, have emerged as powerful tools to detect adaptive signatures from genomic data. While machine learning has dramatically improved our ability to extract these signals from sequence variation, distinguishing among multiple evolutionary processes remains challenging. We introduce  SHADES , a deep learning framework that employs information about sequence differences and their frequencies at various spatial resolutions to capture evolutionary signatures at different genomic scales. We found that  SHADES has the capacity to distinguish among neutrality, selective sweeps, balancing selection, and adaptive introgression and outperformed several contemporary methods evaluated for both classification accuracy and power. In addition,  SHADES remained robust to a number of confounding factors, with only modest changes in classification performance. Furthermore, application of  SHADES to empirical haplotypic variation from European humans recovered previously reported signals for selective sweeps, balancing selection, and adaptive introgression, while also identifying novel genes broadly involved in immune defense, inflammatory regulation, and epithelial barrier biology.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763096",
+    "date": "2026-10-31",
+    "authors": "Khan M, Arnab SP, Amin MR, Santander CG, DeGiorgio M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354965",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genomic",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4611,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.30.763096"
+    ],
+    "translation": {
+      "title": {
+        "hash": "656a6c0ab56ef3a943e606385b984bbad0b0f31bc2b8ad2cec063f0605aa3c7e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:32:16.663819+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0888c99b2bc34fbd539dfdc134b91f98ac47228f04d57612be6d214f16d737ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:32:16.663819+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチスケールハプロタイプシグネチャーは進化過程を判別する",
+    "abstract_ja": "自然選択は、個体群が環境圧力に適応する過程で、固有のゲノムシグネチャーを刻み込む。機械学習手法、特に深層ニューラルネットワークは、ゲノムデータから適応シグネチャーを検出するための強力なツールとして台頭してきた。機械学習により、配列変異からこれらのシグナルを抽出する能力は飛躍的に向上したが、複数の進化プロセスを判別することは依然として困難な課題である。本稿では、配列の差異およびその頻度に関する情報をさまざまな空間解像度で活用し、異なるゲノムスケールにおける進化シグネチャーを捉える深層学習フレームワーク「SHADES」を提案する。検証の結果、SHADESは中立性、選択的スイープ、平衡選択、および適応的遺伝子浸透を判別する能力を備えており、分類精度と検出力の両面で評価した複数の現行手法を上回る性能を示した。さらに、SHADESは多くの交絡因子に対しても頑健であり、分類性能の変化は軽微に留まった。加えて、欧州人類の経験的なハプロタイプ変異にSHADESを適用したところ、選択的スイープ、平衡選択、および適応的遺伝子浸透に関して既報のシグナルが再現されたほか、免疫防御、炎症調節、および上皮バリア生物学に広く関与する新規遺伝子も同定された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.762620",
+    "title": "Genomic expansion in the dark: A repeat-rich genome of a cave-dwelling remipede sheds light on the evolution of the hexapod sister group.",
+    "abstract": "Remipedes are enigmatic blind, venomous crustaceans endemic to anchialine cave ecosystems (aphotic, hypoxic subterranean environments) and occupy a pivotal phylogenomic position within Pancrustacea as the sister group to Hexapoda. A high-quality genome assembly has long proven elusive for this taxon, due to accessibility challenges and the fragility of remipedes when removed from their habitat. Here we present a highly contiguous, chromosome-level genome assembly for the remipede Xibalbanus tulumensis (Xibalbanidae) spanning 8.05 Gb on 30 chromosome-scale scaffolds, placing it among the largest arthropod genomes reported to date. The protein-coding gene repertoire was highly conserved, with over 97% of arthropod orthologs recovered, and microRNA surveys showed a high level of completeness (94%) relative to pancrustacean genomes. Genome expansion appears to be driven primarily by proliferation of intronic and repetitive elements, which comprise ~71% of the genome. Comparative genomic analyses reveal extensive gene family turnover, with relatively few families showing lineage-specific expansions and contractions. Venom-associated gene families included the remipede-specific Xibalbins, while significant expansion and episodic positive selection affected other venom-associated gene families. Comparative analysis of macrosynteny revealed that the remipede genome retains the signature of ancient fusion-with-mixing events that unite Pancrustacea and Allotriocarida, with considerable similarity in the chromosome architecture of remipedes and basally branching insect orders. Our findings provide the first genomic framework for Remipedia and reveal a highly expanded, repeat-rich genome that retains deep phylogenetic signals in its architecture, despite being adapted to a highly unusual environment.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.762620",
+    "date": "2026-10-31",
+    "authors": "Borda E, Sharma PP, Santibáñez-López CE, Ballesteros JA, García-Bernal A, Calderón-Gutiérrez F, Simões N, Yáñez-Rivera B, Llera-Herrera R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354956",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4612,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.30.762620"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8c280b67734e599ae1bc95d92a4c05e343252f1b918ab9b9ff174025c61e92d0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:32:16.663819+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "59de2d27142b3160f7b218d390437b9bfdd0f3654d3cbc9b258172fa6cfd21b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:32:16.663819+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "暗黒下におけるゲノム拡大：洞窟棲息性レミペデ類のリピートリッチなゲノムが、六脚類姉妹群の進化を解明する。",
+    "abstract_ja": "レミペデス類は、無光層洞窟生態系（無光・低酸素の地下環境）に固有の、謎に包まれた盲目の毒を持つ甲殻類であり、汎甲殻類の中で六脚類の姉妹群として極めて重要な系統学的位置を占めている。本分類群の高品質なゲノムアセンブリは、アクセスの困難さや、生息地から除去された際の脆弱性により、長らく困難であった。本研究では、レミペデス類のXibalbanus tulumensis（Xibalbanidae）について、30本の染色体スケールのスキャフォールドにわたる8.05 Gbの高度に連続した染色体レベルのゲノムアセンブリを提示し、これをこれまで報告された節足動物ゲノムの中で最大規模のものに位置づける。タンパク質コード遺伝子のレパートリーは極めて保存されており、節足動物のオルソログの97%以上が回収されたほか、マイクロRNA調査では汎甲殻類ゲノムと比較して高い網羅性（94%）が示された。ゲノムの拡張は、主にゲノムの約71%を占めるイントロンおよび反復要素の増殖によって推進されていると考えられる。比較ゲノム解析により、広範な遺伝子ファミリーの入れ替わりが明らかになり、系統特異的な拡張や縮小を示すファミリーは比較的少なかった。毒関連遺伝子ファミリーにはレミペデス類特有のXibalbinsが含まれていた一方、他の毒関連遺伝子ファミリーでは顕著な拡張と断続的な正の選択が認められた。マクロシンテニーの比較解析により、レミペデス類のゲノムには、汎甲殻類とアロトリオカリダ類を統合した古代の融合・混合イベントの痕跡が保持されており、レミペデス類と基部分岐型昆虫目の染色体構造には相当な類似性があることが明らかになった。本研究の知見は、レミペデス類に関する初のゲノムフレームワークを提供するとともに、極めて特異な環境に適応しながらも、その構造に深い系統学的シグナルを保持した、高度に拡張され反復に富んだゲノムを明らかにするものである。"
   }
 ]
