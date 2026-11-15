@@ -229674,5 +229674,305 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "バルクおよび単一細胞トランスクリプトーム解析の統合により、上咽頭癌における予後および免疫微小環境のリモデリングに関連する酸化ストレスマーカーとしてBCHEおよびFOXM1が同定された。",
     "abstract_ja": "要旨  背景  エプスタイン・バーウイルス関連の頭頸部癌である上咽頭癌（NPC）では、通常、高密度ながら機能不全に陥った免疫浸潤が認められる。酸化ストレスは腫瘍の進展と免疫逃避の双方に影響を及ぼすが、酸化ストレス遺伝子（OSG）がNPCにおいて予後および免疫学的情報を保持しているかについては、バルクおよびシングルセル解像度で検討されてこなかった。方法  3つのNPCマイクロアレイコホート（GSE12452、GSE53819、GSE64634）を、堅牢なランク集約法およびComBat補正済みlimmaを用いて統合し、両戦略で同定された遺伝子をGeneCardsの1,398個のOSGと交差解析した。予後予測候補OSGについて、RNA-seqコホートGSE102349（n = 88）を用い、単変数Cox回帰、LASSOおよび多変数Cox回帰に加え、Kaplan–Meier解析、時間依存性ROC曲線、およびノモグラムを用いて検証した。さらに、Hallmark遺伝子セットエンリッチメント、CIBERSORT、免疫細胞LASSOシグネチャー、チェックポイント相関、ssGSEAおよび薬剤感受性予測を適用し、3つの独立したコホートおよびシングルセルRNA-seqデータセット（GSE150430）で結果を再現した。後者では、in silicoノックアウト、転写因子レギュロン、トラジェクトリ、および細胞間コミュニケーション解析も実施した。結果  一致して発現変動が認められた722個の遺伝子のうち、67個がNPC特異的なOSGであった。BCHEは一貫して予後予測に寄与するOSGとして認められた（単変数HR = 1.85, P = 0.009；最適カットオフKaplan–Meier P = 0.003, 高リスク対低リスクHR = 4.1；LASSOで保持された唯一の多変数項）。FOXM1は多変数保持には至らなかったが、最適カットオフKaplan–Meierにより高リスクサブグループを定義した（P = 0.012, HR = 4.4）。エンリッチメント解析により、FOXM1はE2F/G2M/MYC増殖プログラムに、BCHEは上皮間葉転換およびWntシグナル伝達に関連していることが示された。両遺伝子はインターフェロンおよび補体経路と逆相関していた。10細胞免疫シグネチャーおよびチェックポイント相関により、免疫抑制コンパートメントの存在が示唆された。シングルセルレベルでは、両遺伝子は共通の早期悪性状態にある悪性細胞に局在しており、悪性-免疫クロストークはMIFおよびガレクチン介在性シグナル伝達が支配的であった。結論  バルクおよびシングルセルにおける一致したエビデンスは、リスク層別化のための予後予測OSマーカーとしてのBCHE、およびNPCにおける悪性状態の増殖関連マーカーとしてのFOXM1を支持するものである。両者は免疫微小環境のリモデリングと同調しており、実験的および前向きの検証が待たれる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763024",
+    "title": "Cross-regulatory sRNA networks shape adaptive stress responses in  Staphylococcus aureus  : RsaC and RsaOI regulate galactose metabolism and cell wall homeostasis",
+    "abstract": "A  bstract   Staphylococcus aureus is a major human pathogen whose adaptability relies on network of regulators, including two-component systems, transcription factors and small regulatory RNAs. Yet most of these regulators are dispensable for growth, suggesting cooperation or redundancy between them. To explore this hypothesis, we performed a yeast one-hybrid screen of 43 TFs against the promoters of seven sRNAs, which identified 27 novel TF-sRNA promoter interactions. We then focused on three sRNAs. We showed that  srn_9342 is repressed by VraR and MntR, which also control  rsaOI and  rsaC , respectively. We found that  rsaC , like  rsaOI , is induced by acidic pH and vancomycin exposure, whereas  srn_9342 expression remained unchanged. We also demonstrated  in vitro that Srn_9342 interacts with both RsaOI and RsaC. Its role toward these two sRNAs remains unknown, but this interaction raises the possibility that it modulates their availability or activity. RsaOI and RsaC both act on the tagatose pathway for galactose utilization, through different genes:  lacD for RsaOI, as previously reported, and  lacC for RsaC, newly identified here. We showed that both sRNAs are required for surface charge remodeling and for growth under subinhibitory vancomycin. They also modulate the virulence factors PSMα and protein A. Both sRNAs reduce PSMα production, whereas protein A is decreased by RsaOI, likely through Rot, and increased by RsaC through an unknown, probably indirect mechanism. Together, our results suggest that a single cell wall stress can engage several regulators that could cooperate on shared targets or pathways, which may explain why individual regulators are dispensable.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763024",
+    "date": "2026-11-02",
+    "authors": "Robin H, Germain M, Silard C, Dreano S, Augagneur Y, Chabelskaya S, Rouillon A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355801",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3093,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.763024"
+    ],
+    "translation": {
+      "title": {
+        "hash": "268e697af2eb01f47f81c5b917db7db7d052285089010dfbf8f736eaec2e76b2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:02:13.350616+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e44f7c50a0cab8eb4d1ef876f79abd1a3da7ddd944bd21c6b6232346c099a170",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:02:13.350616+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "規制横断的なsRNAネットワークが黄色ブドウ球菌の適応ストレス応答を制御する：RsaCおよびRsaOIはガラクトース代謝と細胞壁恒常性を調節する",
+    "abstract_ja": "要旨：黄色ブドウ球菌は主要なヒト病原体であり、その適応能は、二成分系、転写因子、および小型調節RNAを含む調節因子ネットワークに依存している。しかし、これらの調節因子の多くは増殖に必須ではなく、それらの間に協調関係あるいは冗長性があることが示唆される。この仮説を検証するため、我々は43種類のTFを用いて7種類のsRNAプロモーターに対する酵母ワンハイブリッドスクリーニングを実施し、27組の新規TF-sRNAプロモーター相互作用を同定した。次いで、3種類のsRNAに着目した。その結果、srn_9342がVraRおよびMntRによって抑制されており、これらがそれぞれrsaOIおよびrsaCを制御していることを示した。また、rsaCはrsaOIと同様に酸性pHおよびバンコマイシン曝露によって誘導される一方、srn_9342の発現は不変であることが判明した。さらに、in vitroにおいてSrn_9342がRsaOIおよびRsaCの両方と相互作用することを実証した。これら2つのsRNAに対する役割は依然として不明であるが、この相互作用は、それらの利用可能性や活性を調節している可能性を提起している。RsaOIとRsaCはともに、異なる遺伝子を介してガラクトース利用のためのタガトース経路に作用する。RsaOIでは既報のlacDが、RsaCでは今回新たに同定されたlacCが関与している。我々は、両sRNAが表面電荷リモデリングおよび亜阻害レベルのバンコマイシン条件下での増殖に必須であることを示した。また、これらは病原性因子であるPSMαおよびタンパク質Aを調節する。両sRNAはPSMαの産生を減少させるが、タンパク質AはRsaOIによって（おそらくRotを介して）減少し、RsaCによって（未知の、おそらく間接的な機序により）増加する。以上の結果を総合すると、単一の細胞壁ストレスが、共通の標的や経路において協調し得る複数の調節因子を活性化させる可能性が示唆され、これが個々の調節因子が必須ではない理由を説明し得ると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763037",
+    "title": "Tripartite toxin-antitoxin system regulates the production and release of pneumolysin by  Streptococcus pneumoniae",
+    "abstract": "The production of toxins is critical to the success of bacteria, with their targets and outcomes varying widely. Pneumolysin (Ply), produced by the major human pathogen  Streptococcus pneumoniae, is a cytolytic pore forming toxin that plays many diverse roles including inducing tissue damage and inflammation, evasion of many aspects of the human immune system, invasion of the bacteria into deeper tissue, and transmission to new hosts. Despite its importance, many aspects of the biology of this toxin have to date remained unknown, in particular, what role of the three other genes that form part of the  ply operon play in Ply production. Here we demonstrate that these genes encode a complex regulatory system, that includes a putative membrane destabilising protein (PlyA) and a MazEF-like toxin-antitoxin system (PlyB and PlyC), the toxin of which (PlyC) destabilises the Ply transcript. We propose a tripartite model whereby when the operon reaches relatively high levels of expression PlyA destabilises the  S. pneumoniae membrane creating a stress that triggers a necessary negative feedback loop which results in the degradation of the PlyB antitoxin, release of the PlyC toxin and degradation of the  ply transcript, thereby providing a means by which Ply production can be tightly regulated. Given the importance of Ply to the ability of  S. pneumoniae to cause infection, identifying the factors that result in the shutdown of Ply production and release by the bacteria would seem promising target for future therapeutic strategies.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763037",
+    "date": "2026-11-02",
+    "authors": "Bonini D, Woodall C, Takebayashi Y, Boura M, Richards C, Baltazar M, Khan I, Granneman S, Wilkinson OJ, Dillingham MS, Kadioglu A, Massey RC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355794",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3094,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.763037"
+    ],
+    "translation": {
+      "title": {
+        "hash": "10d5933bb824ff66cd341b5ec52be6fb3ece829e70044dafcb5260a13eee0522",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:02:13.350616+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2451b5f6fc93eb861ffd95acac59c9e8d4c7864f238740f133a4aebb52cae426",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:02:13.350616+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "三成分毒素-抗毒素系は、肺炎球菌によるニューモライシンの産生と放出を調節する。",
+    "abstract_ja": "毒素の産生は細菌の生存にとって極めて重要であり、その標的や作用機序は多岐にわたる。主要なヒト病原体である肺炎球菌（Streptococcus pneumoniae）が産生するニューモリシン（Ply）は、細胞溶解性の孔形成毒素であり、組織損傷や炎症の誘導、ヒト免疫系の多くの側面の回避、深部組織への細菌侵入、および新たな宿主への伝播など、多様な役割を担っている。その重要性にもかかわらず、この毒素の生物学的特性の多くは、特にPlyオペロンを構成する他の3つの遺伝子がPly産生においてどのような役割を果たすかという点について、これまで不明なままであった。本研究では、これらの遺伝子が、推定される膜不安定化タンパク質（PlyA）およびMazEF様毒素-抗毒素系（PlyBおよびPlyC）を含む複雑な調節系をコードしており、後者の毒素（PlyC）がPly転写産物を不安定化させることを実証する。我々は、オペロンの発現レベルが比較的高くなると、PlyAが肺炎球菌の膜を不安定化させ、それがストレスとなって必要な負のフィードバックループを誘発し、その結果としてPlyB抗毒素の分解、PlyC毒素の放出、およびPly転写産物の分解がもたらされるという三部構成モデルを提案する。これにより、Ply産生を厳密に調節する手段が提供される。肺炎球菌の感染能におけるPlyの重要性に鑑みれば、細菌によるPly産生および放出の停止をもたらす因子を同定することは、将来の治療戦略における有望な標的となると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.01.763137",
+    "title": "Endothelial protein C receptor is an entry receptor for Langya and related parahenipaviruses",
+    "abstract": "Langya virus is a zoonotic parahenipavirus with pandemic potential that causes acute febrile illness in people. We identified endothelial protein C receptor (EPCR) as an entry receptor for Langya, Wenzhou, and Mojiang parahenipaviruses. A 3.1 Å cryo-electron microscopy structure reveals that Langya attachment glycoprotein engages EPCR through a site distinct from that of Nipah’s ephrin binding site. This binding mode resembles those of protein C and a malarial adhesin, demonstrating convergent evolution. Interface substitutions abolish entry, whereas natural variation explains differential human EPCR use and predicts receptor compatibility across 26 animal species. These findings establish EPCR as a receptor for the Langya clade and provide a structural framework for understanding cross-species transmission and human infection potential.",
+    "journal": "",
+    "doi": "10.64898/2026.11.01.763137",
+    "date": "2026-11-02",
+    "authors": "Zhao Z, Tran P, Li N, Ou L, Song J, Sibilo M, Castro M, Chowdhury A, Bohl JA, Wu JM, Do TT, Zhang B, Zhao J, Pal AC, Mullan CW, Martinez DR, Pierce RW, Spaulding A, Lee S, Tsybovsky Y, Serebryannyy L, Douek DC, Zhou T, Wilen CB.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355711",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3098,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.11.01.763137"
+    ],
+    "translation": {
+      "title": {
+        "hash": "762a3c87ff1e1c0c2161df99dc4ce443d0765484580e75cbe0b95e81280a6490",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:02:13.350616+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a52cdcf8bc213e81b8442c14c635500f39d0e68147d92d8b1dbcf1bbba34288b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:02:13.350616+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "内皮タンパク質C受容体は、ランヤおよび近縁のパラヘニパウイルスの侵入受容体である。",
+    "abstract_ja": "ランヤウイルスは、ヒトに急性発熱性疾患を引き起こす、パンデミックポテンシャルを有する人獣共通感染症性パラヘニパウイルスである。我々は、ランヤ、温州、および墨江パラヘニパウイルスの侵入受容体として、内皮タンパク質C受容体（EPCR）を同定した。3.1 Åのクライオ電子顕微鏡構造解析により、ランヤの付着糖タンパク質が、ニパウイルスのエフリン結合部位とは異なる部位を介してEPCRに結合することが明らかになった。この結合様式はタンパク質Cやマラリアのアドヘシンのそれと類似しており、収斂進化を示している。界面置換は侵入を阻害する一方、自然変異はヒトにおけるEPCRの使い分けを説明し、26種の動物における受容体適合性を予測する。これらの知見は、EPCRがランヤクレードの受容体であることを立証し、種間伝播およびヒトへの感染ポテンシャルを理解するための構造的枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.3897/arphapreprints.e221484",
+    "title": "A decade of open biodiversity data in the Azores: closing knowledge gaps and building a foundation for long-term monitoring",
+    "abstract": "Ten years of dedicated biodiversity research and coordinated open-data publication have built an extensive, reusable knowledge base for the Azores. We synthesize this collective achievement through the AZORES BIOTA and BioMonI-Plot collections, evaluating its contribution to addressing the Wallacean and Prestonian shortfalls and identifying priorities for future research and monitoring. Focusing on the nine islands of this North Atlantic archipelago, we review publications issued between 2016 and May 2026, encompassing terrestrial and marine organisms across six kingdoms. We combine curated publication and dataset metadata with Darwin Core occurrenceID-linked species and subspecies records to assess spatial, taxonomic, temporal and methodological coverage, species accumulation by colonization status, and island species–area relationships. Across 91 publications, the collections document 931 animal, 1,185 plant and 742 fungal species and subspecies, alongside taxa from three additional kingdoms, and identify 598 additions to the Azorean Biodiversity Portal reference list. This sustained effort has substantially expanded accessible knowledge of species distributions, contributing to reducing the Wallacean shortfall. Arthropod abundance datasets and repeated standardized surveys also alleviate the Prestonian shortfall by enabling assessments of population and community change. Together, these resources establish valuable baselines for biodiversity assessment, invasion surveillance and conservation planning. The synthesis also reveals uneven coverage among islands, taxa and habitats, with spatial differences in research effort complicating interpretation of species–area relationships. The Azorean experience demonstrates the substantial scientific value of sustained regional expertise, collaboration and standardized open-data publication for understanding island biodiversity. By consolidating achievements and making remaining gaps explicit, this synthesis provides a foundation for targeted investment in underrepresented biota, spatially balanced surveys and sustained abundance monitoring, strengthening the evidence base for future biodiversity research and conservation.",
+    "journal": "",
+    "doi": "10.3897/arphapreprints.e221484",
+    "date": "2026-11-02",
+    "authors": "Oyarzabal G, Costa R, Gabriel R, Afonso P, Ah-Peng C, Vaz Álvaro N, Amorim I, Andrade R, Azevedo J, Ballesteros E, Barcelos L, Barreiros J, Boieiro M, Borges I, Botelho A, Brito M, Cacabelos E, Calado H, Cardoso P, Carvalho R, Coelho M, Coelho R, Cordeiro R, Costa A, Costa C, Crespo L, Cuesta E, Dal Lago A, Duenas-Rojas A, Elias R, Farnham W, Ferreira MT, Fletcher R, Fonseca A, Frias J, González García L, Gil A, Gonçalves V, Goulart S, Heleno R, Henriques D, Lamelas-Lopez L, Leite A, Lhoumeau S, Lopes D, Lövei G, Luz R, Malumbres-Olarte J, Marcelino J, Melo C, Milla-Figueras D, Monjardino P, Monteiro S, Moreu I, Morgado L, Mota J, Neto R, Nogueira E, Nunes R, Parente M, Parmentier L, Patarra R, Pereira E, Pereira F, Pereira M, Petrone A, Pimentel C, Poponessi S, Pozsgai G, Prestes A, Raposeiro P, Resendes R, Rigal F, Rodrigues A, Rodrigues A, Ros-Prieto A, Santos A, Schülke M, Sérgio C, Silva L, Silva L, Silveira G, Simoes N, Sim-Sim M, Soares A, Sousa M, Souto M, Stüben P, Suciu S, Tavares J, Teixeira M, Tsafack N, Toubarro D, Vieira V, Vounatsi M, Wallon S, Borges P.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355640",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3099,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.3897/arphapreprints.e221484"
+    ],
+    "translation": {
+      "title": {
+        "hash": "42c89ada26b96e410d7d2c544e773ff99c0f1b667eb8ffa29ad9c3cd3f78e4de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:02:13.350616+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "37f9c3c0bc173426ec176f06681395354dc7c3a8fef7d9e588fc0f29399bf55a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:02:13.350616+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アゾレス諸島における生物多様性データの公開10年：知見の空白の解消と長期モニタリングの基盤構築",
+    "abstract_ja": "10年にわたる生物多様性研究への専心と体系的なオープンデータ公開により、アゾレス諸島に関する広範かつ再利用可能な知識基盤が構築されてきた。本研究では、この共同成果をAZORES BIOTAおよびBioMonI-Plotコレクションとして統合し、ウォレシア短缺およびプレストン短缺の解消への寄与を評価するとともに、今後の研究およびモニタリングにおける優先事項を特定する。北大西洋のこの群島を構成する9つの島々に焦点を当て、2016年から2026年5月までに発行された、6つの界にわたる陸生および海洋生物を網羅する出版物をレビューする。精選された出版物およびデータセットのメタデータに、Darwin CoreのoccurrenceIDに紐付けられた種および亜種のレコードを組み合わせることで、空間的、分類学的、時間的、および方法論的な網羅性、定着状況別の種の蓄積、および島種と地域の関係を評価する。91件の出版物を通じて、本コレクションは動物931種、植物1,185種、菌類742種および亜種に加え、さらに3つの界の分類群を記録しており、アゾレス生物多様性ポータルのリファレンスリストに598件の追加種を特定している。この継続的な取り組みにより、種の分布に関する利用可能な知見が大幅に拡大し、ウォレシア短缺の軽減に寄与した。節足動物の個体数データセットと繰り返し実施された標準化調査も、個体群および群集の変化の評価を可能にすることで、プレストン短缺を緩和している。これらのリソースは総じて、生物多様性評価、侵入監視、および保全計画のための貴重なベースラインを確立するものである。また、本統合分析により、島々、分類群、および生息地間で網羅性にばらつきがあることが明らかになり、研究努力の空間的な差異が種と地域の関係の解釈を複雑にしていることが示された。アゾレス諸島の事例は、島嶼の生物多様性を理解する上で、継続的な地域的専門知識、連携、および標準化されたオープンデータ公開が持つ多大な科学的価値を実証している。成果を集約し、残されたギャップを明確にすることで、本統合分析は、十分に代表されていない生物相への重点的な投資、空間的にバランスの取れた調査、および継続的な個体数モニタリングの基盤を提供し、将来の生物多様性研究および保全のためのエビデンス基盤を強化するものである。"
   }
 ]
