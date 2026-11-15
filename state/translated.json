@@ -258377,5 +258377,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "深層時間における沿岸域へのリン供給の追跡",
     "abstract_ja": "要旨　リン（P）の利用可能性は一次生産性に対して一次的な制御作用を及ぼすが、地球表面の進化に応じてPサイクルがどのように変化したかについては、十分に解明されていない。堆積物記録は古代海水中のP利用可能性の変動を追跡するために利用できるが、岩石の種類によって解釈が分かれてきた。本研究では、沿岸域に関する新たな知見をもたらす鉄鉱石のP含有量分析と、より深部の環境由来の岩石タイプ（縞状鉄鉱層、頁岩、リン鉱）を組み合わせることで、マルチプロキシ堆積物記録を構築した。本記録により、始生代においては、大陸風化、熱水作用、および海洋有機物の再生による供給が限定的であったことが明らかになった。古原生代初期には、大陸からのPフラックスが増大していたという仮説が広く立てられており、これは大陸の出現と酸化風化の激化に起因すると考えられる沿岸域の鉄鉱石の傾向に反映されている。しかし、その後の不完全な超大陸分裂と低起伏の造山帯により、原生代中期を通じてP利用可能性は低い水準に維持された。最後に、新原生代における海洋酸素化と地殻進化によってもたらされた沿岸域および沖合の堆積物記録におけるP含有量の上昇は、海洋リン酸塩の利用可能性が湧昇と有機物酸化によって支配される、現代に近いPサイクルの出現を告げている。この新たな記録は、テクトニクス、風化、酸化還元進化、および生物圏がどのように相互作用し、生物生産性の基盤となる栄養塩環境を漸進的に再形成したかを明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10553714/v1",
+    "title": "The landscape of timely RNA host-response testing for management of infection, sepsis, or acute inflammation: a systematic review and meta-analysis",
+    "abstract": "Abstract  Background  RNA-based host-response assays aim to distinguish infectious and inflammatory conditions by measuring predefined transcript signatures in whole blood. While numerous signatures have been described, the extent to which these platforms have progressed to clinically-deployable, timely diagnostics remains unclear. Methods  We conducted a systematic review of studies published between 1 January 2013 and 30 June 2025 evaluating RNA-based host-response tests capable of returning results within 24 hours. Eligible studies assessed diagnostic or prognostic performance in human patients with suspected infection or acute inflammation. Discovery-only transcriptomic studies were excluded. Where ≥ 5 independent studies evaluated the same platform, meta-analysis using a hierarchical summary receiver operating characteristic (HSROC) model was performed. Results  Seventy-four studies met inclusion criteria. Most were observational cohort or case-control diagnostic accuracy studies. Platforms were predominantly reverse transcription-quantitative polymerase chain reaction-based. Reported AUROCs frequently exceeded 0.80 across tuberculosis, bacterial–viral discrimination, and sepsis. The median time to result reported in 31 studies was a clinically-relevant 60 minutes. Only the Cepheid Xpert MTB-HR assay had sufficient independent evaluations for meta-analysis, with analyses performed separately by transcript configuration. The TBP-based configuration demonstrated pooled sensitivity 0.83 (95% CI 0.73–0.90) and specificity 0.76 (95% CI 0.66–0.84), with substantial heterogeneity. No randomised trials assessing clinical implementation or patient-centred outcomes for acute infection were identified. Conclusions  RNA-based host-response diagnostics show promising diagnostic discrimination and have progressed beyond discovery-phase research. However, evidence is dominated by early-phase observational validation, with limited demonstration of clinical utility or impact on patient outcomes. Pragmatic prospective studies and randomised implementation trials are needed to determine whether these technologies improve real-world clinical decision-making.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10553714/v1",
+    "date": "2026-10-26",
+    "authors": "Carss G, Kvalvaag E, Patwardhan C, Robinson E, Reid R, Armiger R, Herberg J, Sturgeon JP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350004",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1840,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10553714/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7515322196428eb60ac0f457254e700bf519778e4985859700ad32449384fbb3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:47:16.776097+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "72d3a3ebe8138650ea0ed6964a890656e9bdbfb669c89236d02558d5d7ba8fb8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:47:16.776097+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "感染症、敗血症、または急性炎症の管理における適時なRNA宿主応答検査の現状：システマティックレビューおよびメタ解析",
+    "abstract_ja": "要旨  背景  RNAベースの宿主応答アッセイは、全血中のあらかじめ定義された転写産物シグネチャーを測定することで、感染性疾患と炎症性疾患を鑑別することを目的としている。数多くのシグネチャーが報告されているが、これらのプラットフォームが臨床的に導入可能な適時診断へとどの程度進展しているかは依然として不明である。方法  2013年1月1日から2025年6月30日の間に公表された、24時間以内に結果を報告可能なRNAベースの宿主応答検査を評価した研究について、系統的レビューを実施した。対象研究は、感染または急性炎症が疑われるヒト患者における診断能または予後予測能を評価したものである。探索的なトランスクリプトーム研究は除外した。同一プラットフォームを評価した独立した研究が5件以上ある場合は、階層的要約受信者動作特性（HSROC）モデルを用いたメタ解析を行った。結果  74件の研究が組み入れ基準を満たした。その多くは観察コホート研究または症例対照診断精度研究であった。プラットフォームは主に逆転写定量PCR法に基づくものであった。結核、細菌・ウイルス判別、および敗血症において、報告されたAUROCは頻繁に0.80を超えた。31件の研究で報告された結果判明までの中央値は、臨床的に意義のある60分であった。メタ解析に十分な独立した評価が得られたのはCepheid Xpert MTB-HRアッセイのみであり、解析は転写産物構成別に実施された。TBPベースの構成では、プール感度0.83（95% CI 0.73–0.90）、特異度0.76（95% CI 0.66–0.84）が示され、顕著な異質性が認められた。急性感染症における臨床実装または患者中心のアウトカムを評価したランダム化試験は認められなかった。結論  RNAベースの宿主応答診断は、有望な診断判別能を示しており、探索段階の研究から進展している。しかし、エビデンスは初期段階の観察的検証が主体となっており、臨床的有用性や患者アウトカムへの影響に関する実証は限定的である。これらの技術が実臨床における意思決定を改善できるかどうかを判断するためには、実用的な前向き研究およびランダム化実装試験が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761788",
+    "title": "tRNA-derived fragments restrict KSHV lytic replication through miRNA-like repression of host pro-viral signalling networks",
+    "abstract": "Transfer RNA derived fragments (tRFs) are emerging regulators of gene expression. Despite mounting evidence of their functional relevance in cellular and pathological processes, their roles in virus infection remain poorly understood. Here, we show that host tRFs are dynamically reprogrammed during Kaposi sarcoma-associated herpesvirus (KSHV) lytic replication and function as potent antiviral effectors. Transcriptome-wide profiling revealed extensive remodelling of the tRF landscape following viral reactivation, identifying a subset of tRFs; tRFs (tRF-His-GTG, tRF-Gly-CCC, and tRF-Lys-CTT) that are robustly induced independently of parental tRNA abundance. Functional analyses demonstrate that these tRFs suppress viral gene expression and infectious virion production. Mechanistically, we show that tRF-His-GTG and tRF-Lys-CTT engage canonical RNA silencing pathways by associating with AGO2 complexes and mediating sequence-specific repression of host target genes. Among these targets, we identify SHF as a critical pro-viral factor that promotes PI3K/Akt signalling, cellular survival and efficient viral replication. Collectively, our findings define a previously uncharacterised host defence pathway in which tRFs restrict KSHV replication by targeting host factors required for efficient viral propagation, thus expanding the functional repertoire of non-coding RNAs in antiviral immunity.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761788",
+    "date": "2026-10-26",
+    "authors": "Matandirotya LT, Murphy J, Tucker J, Whitehouse A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351773",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2546,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761788"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3e53ab48ca2f34d165e2903e6053708bc5057ac8057b893673a0f7a80d2ffcf7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:47:16.776097+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "79a8eb1f6986a67a1e6636fafdf8dae75652e6627b76351e690bcbe176a726a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:47:16.776097+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "tRNA由来断片は、宿主のプロウイルスシグナル伝達ネットワークをmiRNA様に抑制することで、KSHVの溶菌性複製を制限する。",
+    "abstract_ja": "転移RNA由来断片（tRF）は、遺伝子発現の新たな調節因子として注目されている。細胞内および病理学的プロセスにおける機能的関連性を示す証拠が蓄積しつつある一方で、ウイルス感染におけるその役割については依然として十分に解明されていない。本研究では、宿主tRFがカポジ肉腫関連ヘルペスウイルス（KSHV）の溶原性複製過程で動的にリプログラミングされ、強力な抗ウイルスエフェクターとして機能することを明らかにする。トランスクリプトームワイドプロファイリングにより、ウイルス再活性化後にtRFランドスケープの広範なリモデリングが生じることが判明し、tRFのサブセットが同定された。これらのtRF（tRF-His-GTG、tRF-Gly-CCC、およびtRF-Lys-CTT）は、親tRNAの量に依存せず強固に誘導される。機能解析により、これらのtRFがウイルスの遺伝子発現および感染性ビリオンの産生を抑制することが示された。機構面では、tRF-His-GTGおよびtRF-Lys-CTTがAGO2複合体と結合し、宿主標的遺伝子の配列特異的な抑制を媒介することで、古典的なRNAサイレンシング経路に関与することを明らかにした。これらの標的のうち、SHFを、PI3K/Aktシグナル伝達、細胞生存、および効率的なウイルス複製を促進する重要な親ウイルス因子として同定した。総じて、本知見は、tRFが効率的なウイルス伝播に必要な宿主因子を標的としてKSHVの複製を制限するという、これまで未解明であった宿主防御経路を定義するものであり、これにより抗ウイルス免疫における非コードRNAの機能的レパートリーが拡大する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.25.761613",
+    "title": "Ribosomal biogenesis factor links ribosome homeostasis to host relevant stress survival in  Aspergillus fumigatus",
+    "abstract": "The inhalation of  Aspergillus fumigatus spores into the human pulmonary tract places conidia in direct contact with host immune cells which deploy a coordinated killing mechanism aimed at conidia clearance and preventing invasive infection. The fungus also employs cellular processes that aid its survival during these host mediated stresses, which allows the conidia to sustain growth while resisting attacks by the host immune cells. Ribosomal biogenesis plays a vital role in growth, survival, and stress adaptation in eukaryotic cells. In filamentous fungal pathogens, this process supports the transition of inhaled spores into invasive hyphae and is therefore an important aspect of fungal pathogenicity. It is, however, unclear whether ribosomal biogenesis factors contribute to stress survival beyond their canonical ribosomal roles and provision of support for vegetative growth. In this study, we investigated the role of  A. fumigatus ribosomal biogenesis factor BFR2 in contribution to fungal stress survival and resistance to neutrophil killing. In agreement with its ribosomal biogenesis role, the repression of BFR2 impairs 18S ribosomal rRNA formation, and this impairment directly extends to the inhibition of germination and vegetative growth of fungal colonies. We optimized an “induction/shut-off” system that allows the transient expression of BFR2 in swollen conidia followed by subsequent depletion of BFR2 to investigate its role in stress response outside of its ribosomal biogenesis role. This transient induction followed by shut-off did not result in detectable reduction in ribosomal RNA abundance, global translation capacity, and biomass accumulation therefore indicating that pre-induction of BFR2 supports normal growth physiology in  A. fumigatus over the duration tested. Nevertheless, the depletion of BFR2 following a transient induction increased  A. fumigatus susceptibility to oxidative, replication and DNA-damaging stress while preserving tolerance to endoplasmic reticulum (ER) stress. The depletion of BFR2 under these conditions also increased  in vitro neutrophil mediated killing without altering conidia uptake. In a mouse model of invasive aspergillosis, BFR2 depletion reduced conidial survival within neutrophils and pulmonary fungal burden, and in an immunocompromised mice model, the depletion of BFR2 attenuated virulence thereby extending survival by a few days. These findings identify BFR2 as a crucial link between ribosomal biogenesis and fungal stress survival during host relevant stresses. Thus, targeting ribosomal biogenesis factors that underpin stress survival represents a promising strategy for antifungal development that could target both ribosomal biogenesis function and also stress response functions.",
+    "journal": "",
+    "doi": "10.64898/2026.10.25.761613",
+    "date": "2026-10-26",
+    "authors": "Adeoye JA, Hayby H, Shlezinger N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351758",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18s ribosomal",
+        "Aspergillus",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2547,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.25.761613"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6050c78fb7093800f3458a4e62356a90de365eeb4450e65323b431d90ad6beb1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:47:16.776097+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "71389e28d09c8ec9ba8c29b16a9dfd0e2f32c9b0a51492037d79c2148d650dc1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:47:16.776097+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アスペルギルス・フミガートゥスにおけるリボソーム生合成因子は、リボソームの恒常性と宿主関連ストレス生存を結びつける。",
+    "abstract_ja": "Aspergillus fumigatusの胞子がヒトの肺管に吸入されると、分生子が宿主の免疫細胞と直接接触し、免疫細胞は分生子の除去と侵襲性感染の防止を目的とした協調的な殺傷機構を展開する。また、この真菌は、宿主介在性のストレス下での生存を助ける細胞プロセスを利用しており、これにより分生子は宿主免疫細胞による攻撃に耐えながら増殖を維持することができる。リボソーム生合成は、真核細胞の増殖、生存、およびストレス適応において極めて重要な役割を果たす。糸状菌の病原体において、このプロセスは吸入された胞子が侵襲性菌糸へと移行する過程を支えるため、真菌の病原性における重要な側面となっている。しかしながら、リボソーム生合成因子が、従来のリボソームとしての役割や栄養成長の維持を超えて、ストレス生存に寄与しているかどうかは明らかではない。本研究では、A. fumigatusのリボソーム生合成因子BFR2が、真菌のストレス生存および好中球による殺傷への耐性に寄与する役割について検討した。リボソーム生合成における役割と一致して、BFR2の抑制は18SリボソームrRNAの形成を阻害し、この阻害は真菌コロニーの発芽および栄養成長の抑制へと直接的に波及する。我々は、腫大した分生子におけるBFR2の一過性発現と、それに続くBFR2の枯渇を可能にする「誘導／遮断（induction/shut-off）」システムを最適化し、リボソーム生合成以外の役割としてのストレス応答におけるBFR2の機能を調査した。この一過性の誘導に続く遮断は、リボソームRNA量、全体的な翻訳能、およびバイオマス蓄積の検出可能な減少をもたらさなかった。したがって、試験期間を通じてBFR2の事前誘導がA. fumigatusの正常な成長生理を支えていることが示された。それにもかかわらず、一過性誘導後のBFR2枯渇は、小胞体（ER）ストレスへの耐性を維持しつつ、酸化ストレス、複製ストレス、およびDNA損傷ストレスに対するA. fumigatusの感受性を高めた。これらの条件下でのBFR2枯渇は、分生子の取り込みに影響を与えることなく、in vitroにおける好中球介在性殺傷を増強させた。侵襲性アスペルギルス症のマウスモデルにおいて、BFR2枯渇は好中球内での分生子の生存率および肺内真菌負荷を減少させ、免疫不全マウスモデルでは、BFR2枯渇が病原性を減弱させ、生存期間を数日延長させた。これらの知見は、BFR2が宿主関連ストレス下におけるリボソーム生合成と真菌のストレス生存を結ぶ重要な接点であることを明らかにしている。したがって、ストレス生存の基盤となるリボソーム生合成因子を標的とすることは、リボソーム生合成機能とストレス応答機能の両方を標的とし得る、抗真菌薬開発のための有望な戦略となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.1099/acmi.0.001254.v3",
+    "title": "Genomic diversity and phenotypic heterogeneity of Klebsiella pneumoniae isolates causing bloodstream infection in an infectious disease hospital in Ho Chi Minh City, Vietnam",
+    "abstract": "Klebsiella pneumoniae has been traditionally considered an opportunistic pathogen, now otherwise healthy individuals commonly present with K. pneumoniae blood infections, which can result in serious complications such as liver abscesses and septic shock. Consequently, the bacterium has become a leading cause of human disease. Along with classical K. pneumoniae (cKp), which is an important reservoir of antimicrobial resistance (AMR) genes, hypervirulent K. pneumoniae (hvKp) is increasingly becoming of high clinical concern because it carries numerous virulence factors. A high proportion of bloodstream infections (BSIs) in Vietnam are associated with K. pneumoniae, with the epidemiology, population structures and transmission dynamics of hvKp being well described. However, little is known about how virulence-associated traits contribute to increased pathogenicity in this setting and which genetic determinants may be attributable to the virulence variation. In this cross-sectional study, we used a subset of clinical isolates to define the genomic structure and population of K. pneumoniae BSI isolates and additionally comprehensively characterised specific phenotypic features of hvKp associated with clinical manifestations. A genomic analysis of 83 random selected K. pneumoniae BSI isolates defined that lineage of KpI was the most common lineage (91.5%). The hypervirulent sequence type 23 (ST23) was the most prevalent (18.5%), followed by the multidrug resistance (MDR) lineages ST15 and ST17 (7.7% each). Specific hvKp ST23 phenotypic virulence assays showed considerable variation in virulence potential despite possessing a comparable compendium of virulence factors. Comprehensive analysis of genomic variations across the ST23 isolates revealed different genetic backgrounds and distinct mutations occurred on essential genes that might be involved the obsereved phenotypic diversity. These findings show the pathogenic potential of hvKp isolates from Vietnam, and also highlight the need for improved phenotype prediction to understand the clinical threat from strains in this groups.",
+    "journal": "",
+    "doi": "10.1099/acmi.0.001254.v3",
+    "date": "2026-10-26",
+    "authors": "Nguyen Thi Nguyen T, Lee WH, Ragotte RJ, Vinh PV, Huong LNP, Short FL, Boinett CJ, Baker S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350340",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2575,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/acmi.0.001254.v3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "80d425c5e2bc79abd4ffc8c9609c2e15d16a755c39eca4a9801e227530891551",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:47:16.776097+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "63f75ccf0e0cad8da1c61ca9941fabce64a630b40c72bac69e6366b4cf382c17",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:47:16.776097+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ベトナム・ホーチミン市の感染症病院における血流感染を引き起こす肺炎桿菌分離株のゲノム多様性と表現型の不均一性",
+    "abstract_ja": "Klebsiella pneumoniaeは従来、日和見病原体と考えられてきたが、現在では健康な個人においてもK. pneumoniaeによる血流感染症が一般的に認められ、肝膿瘍や敗血症性ショックなどの重篤な合併症を引き起こすことがある。その結果、本菌はヒト疾患の主要な原因となっている。薬剤耐性（AMR）遺伝子の重要なリザーバーである古典的K. pneumoniae（cKp）に加え、多数の病原性因子を保有する超強毒型K. pneumoniae（hvKp）が、臨床的に極めて高い懸念事項となりつつある。ベトナムにおける血流感染症（BSI）の相当数がK. pneumoniaeに関連しており、hvKpの疫学、集団構造、および伝播動態については十分に解明されている。しかし、このような状況において、病原性に関連する形質がどのように病原性の亢進に寄与しているのか、またどの遺伝的決定因子が病原性の変異に起因し得るのかについては、ほとんど解明されていない。本横断的研究では、臨床分離株のサブセットを用いてK. pneumoniae BSI分離株のゲノム構造と集団を定義し、さらに臨床症状に関連するhvKpの特異的な表現型特性を包括的に解析した。無作為に選定した83株のK. pneumoniae BSI分離株のゲノム解析により、KpI系統が最も一般的な系統（91.5%）であることが明らかになった。超強毒型配列タイプ23（ST23）が最も高頻度（18.5%）であり、次いで多剤耐性（MDR）系統であるST15およびST17（それぞれ7.7%）であった。hvKp ST23の特異的な表現型病原性試験では、同等の病原性因子群を保有しているにもかかわらず、病原性ポテンシャルに著しいばらつきが認められた。ST23分離株間のゲノム変異を包括的に解析した結果、異なる遺伝的背景が存在すること、および観察された表現型の多様性に関与し得る必須遺伝子に異なる変異が生じていることが明らかになった。これらの知見は、ベトナム由来のhvKp分離株の病原性ポテンシャルを示すとともに、これらの群に属する菌株による臨床的脅威を理解するための、表現型予測の改善の必要性を浮き彫りにしている。"
   }
 ]
