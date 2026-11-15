@@ -370073,6 +370073,11 @@
         "source": "Europe PMC topics",
         "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "scope": "target"
+      },
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
       }
     ],
     "publication_types": [
@@ -370080,17 +370085,17 @@
       "journal article"
     ],
     "id": "10.1093/nar/gkag1215",
-    "title": "RecA protein activates the E. coli topoisomerase III catenation function: essential role of the RecA ATPase.",
+    "title": "RecA protein activates the E. coli topoisomerase III catenation function: essential role of the RecA ATPase",
     "abstract": "RecA protein loaded into lesion-containing post-replication gaps must engage in strand exchange utilizing DNA substrates with no free ends, a process that is topologically constrained. The process can be mimicked by examining RecA-mediated DNA strand exchange between a circular ssDNA and a partially homologous circular supercoiled DNA. RecA protein can pair these substrates but cannot promote a net strand exchange. On its own, topoisomerase III promotes little reaction with the same two substrates. However, the two proteins together promote a robust reaction that rapidly, within 1-2 min, converts the substrates quantitatively to catenanes and hemicatenanes. The results reveal an important new functional interaction for bacterial topoisomerase III. The reaction is tightly coupled to RecA-mediated ATP hydrolysis. The rate of RecA-promoted ATP hydrolysis controls not just the extent but also the rate of the catenation/hemicatenation reaction. The ssDNA substrate is also required. Post-replication gaps are created in essentially every replication cycle and can be lethal if left unresolved. Given the need for rapid gap amelioration prior to the arrival of a new replication fork, the strong enzymatic and topological collaboration between RecA and topoisomerase III may have been a major evolutionary driver for the RecA ATPase activity.",
     "journal": "Nucleic Acids Research",
     "doi": "10.1093/nar/gkag1215",
-    "date": "2026-11-01",
+    "date": "2026-11-13",
     "authors": "Phan KL, Dunbar EL, Cox MM.",
     "tags": [
       "微生物ゲノミクス",
       "微生物進化"
     ],
-    "source_url": "https://europepmc.org/article/MED/43021745",
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1215/9041029?rss=1",
     "preprint": false,
     "review": false,
     "pmcid": "",
@@ -370125,7 +370130,8 @@
     "collected_at": "2026-11-13T22:36:48.103116+00:00",
     "collected_date": "2026-11-14",
     "sources": [
-      "Europe PMC topics"
+      "Europe PMC topics",
+      "https://academic.oup.com/rss/site_5127/3091.xml"
     ],
     "first_seen": "2026-11-13",
     "related_dois": [
@@ -374608,6 +374614,11 @@
         "source": "Europe PMC topics",
         "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "scope": "target"
+      },
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/1365294x/most-recent",
+        "query": "RSS feed",
+        "scope": "candidate"
       }
     ],
     "publication_types": [
@@ -374615,16 +374626,16 @@
       "journal article"
     ],
     "id": "10.1111/mec.70640",
-    "title": "Mapping Protist Export to Deep-Sea Sediments Reveals Decoupled Export and Transfer Patterns.",
+    "title": "Mapping Protist Export to Deep‐Sea Sediments Reveals Decoupled Export and Transfer Patterns",
     "abstract": "Gravitational particle sinking is the main mechanism for carbon export in the biological carbon pump. However, the connectivity of particle-associated protist communities from the surface to the seafloor remains poorly resolved. We used 18S rRNA gene metabarcoding to characterise exported protist communities within sinking particles and deep-sea sediments in subtropical and subantarctic waters of the southwest Pacific Ocean. Sinking particles were collected with multi-depth formalin-fixed and preservative-free (live) particle interceptor traps and compared against the water column community (upper: 5-40 m; lower: 70-500 m). Amplicon sequence variants (ASVs) from upper water column samples accounted for a 2- to 4-fold higher proportion of reads and ASV richness compared to lower water column samples in fixed trap and sediment samples, suggesting a stronger surface protist contribution towards export. Tracing differential abundance patterns of ASVs in upper water column and fixed trap samples revealed taxa-specific decoupling between ASV export potential across the mixed layer and transfer potential to the upper mesopelagic. These export patterns, similarly suggested by taxa-specific decrease in ASV richness between fixed and live traps, remained comparable across biogeochemically contrasting water masses. This suggests that the drivers of particle-associated protist loss during export might be linked to characteristics consistent across environmental conditions, such as specific microbial interactions or cell properties. Transfer potential was a strong indicator of ASV detection in deep-sea sediments, emphasising that tracing export at multiple depths across the pelagic-benthic continuum is critical to identify protist taxa driving long-term carbon sequestration.",
     "journal": "Molecular Ecology",
     "doi": "10.1111/mec.70640",
-    "date": "2026-11-01",
-    "authors": "Ong DRY, Gutiérrez-Rodríguez A, Bilewitch J, Nodder SD, Stukel MR, Décima M, Kelly TB, Lopes Dos Santos A.",
+    "date": "2026-11-13",
+    "authors": "Denise Rui Ying Ong, \nAndrés Gutiérrez‐Rodríguez, \nJaret Bilewitch, \nScott D. Nodder, \nMichael R. Stukel, \nMoira Décima, \nThomas B. Kelly, \nAdriana Lopes dos Santos",
     "tags": [
       "海洋微生物"
     ],
-    "source_url": "https://europepmc.org/article/MED/43023588",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70640?af=R",
     "preprint": false,
     "review": false,
     "pmcid": "",
@@ -374655,7 +374666,8 @@
     "collected_at": "2026-11-14T03:13:11.939144+00:00",
     "collected_date": "2026-11-14",
     "sources": [
-      "Europe PMC topics"
+      "Europe PMC topics",
+      "https://onlinelibrary.wiley.com/feed/1365294x/most-recent"
     ],
     "first_seen": "2026-11-14",
     "related_dois": [
@@ -384514,6 +384526,485 @@
     "first_seen": "2026-11-15",
     "related_dois": [
       "10.3390/diagnostics16213677"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.13.766375",
+    "title": "H9N2 avian influenza virus in Bangladesh: three genetically distinct co-circulating subgroups retain a largely conserved antigenic phenotype",
+    "abstract": "Low pathogenic avian influenza (LPAI) H9N2 viruses are endemic in poultry across Bangladesh, causing substantial economic losses and posing a persistent zoonotic risk. Although genetic surveillance has documented ongoing viral evolution, the relationship between genetic diversification and antigenic change remains poorly understood. This study investigated the genetic diversity, reassortment, and antigenic characteristics of contemporary H9N2 viruses circulating in Bangladesh. Phylogenetic analysis of 219 sampled sequences revealed three genetically distinct monophyletic haemagglutinin (HA) G-lineage sub-groups, each characterised by unique amino acid substitutions. In contrast, neuraminidase (NA) displayed similar genetic diversity without distinct phylogenetic clusters. A dual-metric analysis of paired HA and NA phylogenies identified 20 putative reassortant H9N2 viruses. Further analysis showed that genetic diversity was geographically structured; however, all three HA subgroups co-circulated across multiple regions, and some live bird markets contained representatives of all three groups simultaneously, suggesting that live bird markets may facilitate mixing between genetically distinct viruses, and create opportunities for reassortment among otherwise geographically separated strains. Despite substantial genetic diversity and reassortment, all viruses remained antigenically similar based on haemagglutination inhibition and virus neutralisation assays. However, a representative strain from one subgroup induced significantly lower homologous and heterologous antibody titres, suggesting reduced immunogenicity. Our findings demonstrate a notable disconnect between genetic evolution and antigenic change in Bangladeshi H9N2 viruses. While reassortment and genetic diversification continue to shape viral populations, antigenic properties remain largely conserved, supporting the continued relevance of current vaccine strategies while highlighting the importance of ongoing genetic and antigenic surveillance.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766375",
+    "date": "2026-11-14",
+    "authors": "Daines, R., Sadeyen, J.-R., Hasan, M., Das, T., Sizer, R. M., Uddin, M. H., Biswas, P. K., Samad, M. A., Hoque, M. A., Conan, A., Lynton-Jenkins, J. G., Banyard, A. C., Brown, I. H., Lewis, T., Raghwani, J., Fournie, G., Blake, D. P., Tomley, F., Iqbal, M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766375v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4563,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.13.766375"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1177",
+    "title": "An RNA-targeting ADP-ribosyltransferase toxin uncouples mRNA stability from productive translation",
+    "abstract": "AbstractMessenger RNA (mRNA) modifications regulate transcript stability and translation efficiency across diverse biological systems, but the consequences of toxin-mediated mRNA modification in bacteria remain poorly understood. RhsP2 was recently identified as an RNA-targeting interbacterial ADP-ribosyltransferase toxin, but whether mRNAs are physiological substrates remained unknown. Here, we show that RhsP2 targets mRNA coding sequences and in doing so prevents their efficient translation. eCLIP-seq reveals preferential association of RhsP2 with UAAG-enriched motifs, and biochemical analyses showed that these sequences are preferred substrates for ribose 2′-OH ADP-ribosylation. Unexpectedly, modified mRNAs were broadly stabilized despite impaired protein synthesis, demonstrating that RhsP2 uncouples transcript stability from productive translation. Monosome- and disome-seq analyses show that RhsP2-modified mRNAs induce ribosome stalling and collision, and in vitro translation reactions demonstrate that ADP-ribosylation of mRNAs is sufficient to block translation elongation. Together, these findings establish mRNA ADP-ribosylation as a mechanism of toxin-mediated translational sabotage in which chemically modified transcripts accumulate while disrupting protein synthesis.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1177",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1177/9051728?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4564,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/nar/gkag1177"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1189",
+    "title": "Structure of a dopamine-binding RNA aptamer reveals metal-mediated ligand recognition",
+    "abstract": "AbstractThe selection of small-molecule-binding RNA aptamers enables the creation of ligand-responsive RNA tools, yet most aptamers fail to operate reliably across diverse environments. Scaffolded selection addresses this limitation by preserving the tertiary architecture of a riboswitch scaffold while driving the evolution of a new ligand-binding pocket. Using the purine riboswitch aptamer, we previously generated dopamine-binding aptamers. Here, we report the crystal structures of two representative variants in their apo and dopamine-bound states to define how they recognize ligand while maintaining scaffold integrity. The structures demonstrate that scaffolded selection enforces global fold conservation and retains the defining tertiary interactions of the parental riboswitch. Local remodeling, triggered by deletions acquired during selection, rewires the three-way junction to build extensive interaction networks that host the dopamine-binding pocket. A deeply buried potassium ion anchors ligand recognition, while the RNA engages the catechol ring through stacking and hydrogen bonding interactions. Structure probing shows minimal conformational changes upon ligand binding, indicating that the aptamers adopt a largely preorganized fold. The balance between structural stability and local plasticity expands the capacity of a single RNA fold to recognize chemically distinct ligands and positions scaffolded selection as a powerful platform for engineering robust RNA-based sensing and regulatory devices.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1189",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1189/9051727?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4565,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/nar/gkag1189"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1143",
+    "title": "Hypernova: a faster and brighter light-producing deoxyribozyme",
+    "abstract": "AbstractAs a functional nucleic acid motif is optimized, better variants become less abundant in sequence space and significantly more difficult to identify. Here, we used two types of libraries to discover an improved variant of a previously optimized light-producing deoxyribozyme called Supernova. One library was designed in such a way that most mutations were consistent with the sequence requirements and secondary structure of this catalytic motif. The second contained short stretches of random sequence in place of AAAA spacers previously introduced in minimization experiments. Catalytically active sequences were isolated from each library using single and multiple round selections. Mutations from the best deoxyribozymes were then combined to yield an improved variant containing 12 mutations, which we named Hypernova. The rate of Hypernova at subsaturating substrate concentrations was up to 97-fold higher than that of Supernova, and its initial rate of light production was up to 30-fold faster. In addition, sensors constructed using Hypernova outperformed those made from Supernova in three different assays. These results indicate that Hypernova can enhance the performance of light-producing deoxyribozyme sensors for applications such as diagnostics and high-throughput screening.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1143",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1143/9041023?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4566,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/nar/gkag1143"
+    ]
+  },
+  {
+    "id": "10.1007/s00248-026-02906-z",
+    "title": "Non-Selective Primocolonization and Biofilm Succession Govern the Stage-Structured Assembly of Marine Biofilm Communities on Plastic and Inert Surfaces",
+    "abstract": "Microbial biofilms modify plastic surfaces by altering their buoyancy, palatability, dispersal, and physical integrity, thereby influencing their fate in the marine environment. However, the environmental and biological factors associated with early colonization of plastic substrates, which play key roles in the success of biofilm formation, and subsequent community succession remain poorly resolved. In this study, we conducted a simultaneous in situ exposure experiment across three coastal sites in southern Singapore to examine bacterial community assembly on polyethylene terephthalate (PET), polyethylene (PE), and glass, with surrounding seawater included as the planktonic source community. Substrates were collected after 12 h, 24 h, 48 h, and 7 d to capture primo-colonization and later stages of biofilm development. Bacterial communities were profiled using 16​S rRNA gene amplicon sequencing and their functional potential was predicted using PICRUSt2. Attached communities on PE, PET, and glass were distinct from seawater communities, indicating strong habitat selection between planktonic and surface-associated lifestyles. Several low-abundance taxa in seawater, particularly surface-associated Gammaproteobacteria such as Pseudoalteromonadaceae, Alteromonadaceae, Alcanivoracaceae, and Saccharospirillaceae, became enriched on substrates during the early stages of colonization. In contrast, differences among PE, PET, and glass were weak, suggesting broadly non-selective early attachment at the whole-community level. Beta diversity analyses further showed that biofilm communities clustered by incubation time rather than substrate, indicating that temporal succession was the primary driver of early biofilm assembly. This was characterized by a shift from Gammaproteobacteria-dominated early biofilms to increased representation of Bacteroidetes (Flavobacteriaceae and Saprospiraceae) after 7 days, coupled with increasing alpha diversity as communities matured. Temporal shifts in community composition were associated with changes in salinity, pH, and nitrate, suggesting that environmental variability influences the planktonic source community and subsequent biofilm assembly. PICRUSt2-inferred functional profiles likewise indicated a transition from biofilm establishment-related functions during early colonization to energy​ metabolism-related functions at later stages. Overall, these findings support a stage-structured model of marine biofilm assembly in which environmental variation, habitat selection, and temporal succession jointly shape early plastisphere development.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02906-z",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02906-z",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "plankton",
+          "seawater"
+        ],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4567,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1007/s00248-026-02906-z"
+    ]
+  },
+  {
+    "id": "10.1111/1758-2229.70467",
+    "title": "Spatial Variation of Bacterial Communities Associated With the Moss Sanionia uncinata on Deception Island, Antarctica",
+    "abstract": "Bacterial communities associated with the Antarctic moss Sanionia uncinata differed in composition among three sampling locations on Deception Island, whereas alpha diversity and predicted functional profiles were similar. These results suggest that this moss harbours spatially structured bacterial communities with potential functional redundancy.\n\nABSTRACT\nAntarctic mosses play a fundamental ecological role in Maritime Antarctica, creating microhabitats that support diverse microbial communities. We used 16S rRNA gene (V3–V4) metabarcoding to investigate bacterial communities associated with the moss Sanionia uncinata at three sampling locations (seven sampling points, three samples each) within Antarctic Specially Protected Area No. 140 (Parts of Deception Island, South Shetland Islands). With sampling points as replicates, permutational multivariate analysis of variance (PERMANOVA; R2 = 0.376, p = 0.0095) and analysis of similarities (ANOSIM; R = 0.73, p = 0.0095) based on Bray–Curtis dissimilarities showed that community composition differed among locations. Multivariate dispersion did not differ among locations, so these differences reflected changes in composition rather than within‐location variability. Alpha diversity did not differ among locations after correction for multiple comparisons, suggesting the moss microhabitat may buffer within‐sample diversity against external environmental variation. Functional profiles predicted with Phylogenetic Investigation of Communities by Reconstruction of Unobserved States (PICRUSt2) and Functional Annotation of Prokaryotic Taxa (FAPROTAX) were also similar among locations, which suggests functional redundancy. Our results indicate that S. uncinata harbours spatially structured bacterial communities with similar predicted functional capacities, and support the view that Antarctic mosses are important reservoirs of bacterial diversity.\n\nBacterial communities associated with the Antarctic moss Sanionia uncinata differed in composition among three sampling locations on Deception Island, whereas alpha diversity and predicted functional profiles were similar. These results suggest that this moss harbours spatially structured bacterial communities with potential functional redundancy.\n\nABSTRACT\nAntarctic mosses play a fundamental ecological role in Maritime Antarctica, creating microhabitats that support diverse microbial communities. We used 16S rRNA gene (V3–V4) metabarcoding to investigate bacterial communities associated with the moss Sanionia uncinata at three sampling locations (seven sampling points, three samples each) within Antarctic Specially Protected Area No. 140 (Parts of Deception Island, South Shetland Islands). With sampling points as replicates, permutational multivariate analysis of variance (PERMANOVA; R\n2 = 0.376, p = 0.0095) and analysis of similarities (ANOSIM; R = 0.73, p = 0.0095) based on Bray–Curtis dissimilarities showed that community composition differed among locations. Multivariate dispersion did not differ among locations, so these differences reflected changes in composition rather than within-location variability. Alpha diversity did not differ among locations after correction for multiple comparisons, suggesting the moss microhabitat may buffer within-sample diversity against external environmental variation. Functional profiles predicted with Phylogenetic Investigation of Communities by Reconstruction of Unobserved States (PICRUSt2) and Functional Annotation of Prokaryotic Taxa (FAPROTAX) were also similar among locations, which suggests functional redundancy. Our results indicate that S. uncinata harbours spatially structured bacterial communities with similar predicted functional capacities, and support the view that Antarctic mosses are important reservoirs of bacterial diversity.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70467",
+    "date": "2026-11-14",
+    "authors": "Kamila Barros Lima de Oliveira, \nFabyano Alvares Cardoso Lopes, \nStephan Machado Dohms, \nMarcelo Henrique Soller Ramada",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70467?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4568,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1111/1758-2229.70467"
+    ]
+  },
+  {
+    "id": "10.1111/1751-7915.70492",
+    "title": "Microbial Biotechnology in a Sustainable Future",
+    "abstract": "ABSTRACT\nThis editorial summarizes the main scientific and biotechnological topics that have attracted the greatest interest among our followers, based on the articles they visited most. These topics highlight four interconnected areas: (i) the circular economy, including manufacturing, plastic recycling, and bacterial biopolymer production; (ii) biological engineering and industrial production focusing on synthetic chromosomes, enzyme expression, and antifungal scale‐up; (iii) environmental protection covering climate‐resilient crops, microbial biocontrol, and lindane degradation; and (iv) microbiomes and human health exploring probiotics, myopia treatments, and DNA vaccines. These topics reflect our followers' interest in how biotechnology can address major societal and environmental challenges connected to UN Sustainable Development Goals 2, 3, 9, 12, and 13.\nABSTRACT\nThis editorial summarizes the main scientific and biotechnological topics that have attracted the greatest interest among our followers, based on the articles they visited most. These topics highlight four interconnected areas: (i) the circular economy, including manufacturing, plastic recycling, and bacterial biopolymer production; (ii) biological engineering and industrial production focusing on synthetic chromosomes, enzyme expression, and antifungal scale-up; (iii) environmental protection covering climate-resilient crops, microbial biocontrol, and lindane degradation; and (iv) microbiomes and human health exploring probiotics, myopia treatments, and DNA vaccines. These topics reflect our followers' interest in how biotechnology can address major societal and environmental challenges connected to UN Sustainable Development Goals 2, 3, 9, 12, and 13.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70492",
+    "date": "2026-11-14",
+    "authors": "Patricia Bernal, \nJuan Luis Ramos",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70492?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4569,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1111/1751-7915.70492"
+    ]
+  },
+  {
+    "id": "10.1111/mec.70660",
+    "title": "Parental Contributions to Offspring Skin Microbiota Remain Detectable After Metamorphosis",
+    "abstract": "ABSTRACT\nParental care creates opportunities for microbial transmission, yet its contribution to offspring skin microbiota remains poorly understood, particularly in species undergoing metamorphosis. We investigated this role in the Neotropical poison frog Allobates femoralis using a controlled cross‐fostering experiment. Across 30 trials, tadpoles were transported by their biological father, a foster father or transferred manually to a provided water bowl. We characterized bacterial communities in adults, clutch mucus, tadpoles, metamorphs and environmental samples using 16S rRNA gene sequencing, Bayesian source tracking and analyses of shared sequence variants. Source tracking estimated contributions from both biological parents and, in cross‐fostered offspring, foster fathers, alongside environmental sources. Parental microbial contributions remained detectable after metamorphosis despite substantial changes in community composition, indicating that early parental contact may influence microbial assembly across developmental stages. Because foster fathers contacted clutches before transport, their contributions could reflect microbial transfer during brooding, transport or both. Some sequence variants shared between fathers and offspring belonged to genera containing documented Batrachochytrium dendrobatidis‐inhibitory isolates, although neither inhibitory activity nor disease protection was tested. Our findings identify paternal care as a pathway contributing to offspring skin microbial assembly under laboratory conditions. They extend the significance of parental care beyond provisioning and relocation, while highlighting the need to establish taxon‐level persistence, functional consequences and transmission dynamics in natural populations.\nABSTRACT\nParental care creates opportunities for microbial transmission, yet its contribution to offspring skin microbiota remains poorly understood, particularly in species undergoing metamorphosis. We investigated this role in the Neotropical poison frog Allobates femoralis using a controlled cross-fostering experiment. Across 30 trials, tadpoles were transported by their biological father, a foster father or transferred manually to a provided water bowl. We characterized bacterial communities in adults, clutch mucus, tadpoles, metamorphs and environmental samples using 16S rRNA gene sequencing, Bayesian source tracking and analyses of shared sequence variants. Source tracking estimated contributions from both biological parents and, in cross-fostered offspring, foster fathers, alongside environmental sources. Parental microbial contributions remained detectable after metamorphosis despite substantial changes in community composition, indicating that early parental contact may influence microbial assembly across developmental stages. Because foster fathers contacted clutches before transport, their contributions could reflect microbial transfer during brooding, transport or both. Some sequence variants shared between fathers and offspring belonged to genera containing documented Batrachochytrium dendrobatidis-inhibitory isolates, although neither inhibitory activity nor disease protection was tested. Our findings identify paternal care as a pathway contributing to offspring skin microbial assembly under laboratory conditions. They extend the significance of parental care beyond provisioning and relocation, while highlighting the need to establish taxon-level persistence, functional consequences and transmission dynamics in natural populations.",
+    "journal": "Molecular Ecology",
+    "doi": "10.1111/mec.70660",
+    "date": "2026-11-14",
+    "authors": "Francesca N. Angiolani‐Larrea, \nRayan Bouchali, \nAdeline Loyau, \nDirk S. Schmeller, \nEva Ringler",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70660?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/1365294x/most-recent",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4570,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/1365294x/most-recent"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1111/mec.70660"
+    ]
+  },
+  {
+    "id": "10.1111/mec.70404",
+    "title": "Issue Information",
+    "abstract": "",
+    "journal": "Molecular Ecology",
+    "doi": "10.1111/mec.70404",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70404?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/1365294x/most-recent",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4571,
+    "collected_at": "2026-11-15T02:49:28.499714+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/1365294x/most-recent"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1111/mec.70404"
     ]
   }
 ]
