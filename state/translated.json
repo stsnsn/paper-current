@@ -256172,5 +256172,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "新たなハイブリッド潜在クラス分析 ―複雑なアウトカムの多クラス予測に向けた機械学習フレームワーク：中東家庭における夫婦のウェルビーイングへの応用",
     "abstract_ja": "要旨    背景  : 複雑な人間のアウトカムに対する従来の統計的プロファイリングは、根本的な理論的二分法に直面している。生成モデルは説明的推論に長けている一方で制約的な線形制約を課し、一方で識別的機械学習アルゴリズムは非線形関係を捉えるものの、観測されていない集団の異質性を覆い隠してしまう。この隔たりを埋めるため、我々は尤度に基づく有限混合モデリングとノンパラメトリック・アンサンブル学習を相乗的に統合した、新たな2段階の統計的パラダイムを提案する。このアーキテクチャは、タスクを多次元の潜在構成概念の発見へと再定式化し、続いてツリーベースの普遍関数近似器を用いて、観測可能な共変量から潜在グループ所属への柔軟なマッピングを行う。  手法  : 本方法論的枠組みは4つの逐次的な原則に基づいており、概念実証として中東の家族ウェルビーイング・データセット（n=736）を用いて具体化した。第一に、潜在クラス分析（LCA）を生成エンジンとして機能させ、ターゲットアウトカムを多項潜在変数としてモデル化する。第二に、本枠組みは識別的アプローチへと移行し、発見されたプロファイルをノンパラメトリックな順序付きフォレスト（Ordinal Forest）および順序付きフォレスト（Ordered Forest）アンサンブルアルゴリズムのターゲット変数として扱う。第三に、最小十分複雑性の原則を、構造リスクの最小化を満たすための交差検証を伴う再帰的特徴量除去（RFE）を通じて運用化する。第四に、多基準評価オントロジーを導入し、分離可能性には1対それ以外（one-vs-rest）の多クラスAUCを、サブグループ間の公平性にはマクロ平均F1スコアを、そして特徴量の重要度とキャリブレーションのための適切なスコアリング規則として順位付き確率スコア（RPS）を利用する。  結果  : 実証的に、LCAは有病率がそれぞれ25%、56%、19%である3つの明確に異なる有意義なサブ集団プロファイルを特定し、観測されていないターゲット異質性の存在を検証した。構造リスクの最小化を遵守し、特徴量削減モデルは、フル特徴量アーキテクチャと統計的に同一の多クラスAUC値（0.775–0.793）を達成し、簡潔な表現の有効性を裏付けた。RPSを通じて導出された特徴量の重要度により、心理的構成概念（抑うつ、外向性、神経症傾向）がプロファイル分化の主要な要因であり、人口統計学的または社会経済的指標を劇的に上回ることが明らかになった。  結論  : 我々は、生成的潜在変数モデリングの説明的な深みと、ノンパラメトリック機械学習の予測的な柔軟性を調和させた、理論的根拠に基づく汎用的な統計的枠組みを提示する。このパラダイムは、高次元かつ異質なデータにおける多クラスプロファイリングのための原理的な解決策を提供し、家族ウェルビーイングという例示的なケースをはるかに超えて広範な理論的適用可能性を有する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11078321/v1",
+    "title": "An explainable machine learning clinical decision support system for tailored blood pressure care in adults: integrating arterial stiffness to mitigate overtreatment risks",
+    "abstract": "Abstract  Background  Hypertension is a leading modifiable risk factor for cardiovascular disease, yet the optimal systolic blood pressure (SBP) target for an individual adult remains uncertain: fixed, aggressive targets can cause cerebral hypoperfusion, orthostatic hypotension, falls and cognitive harm, whereas the optimal target varies with biological vascular aging. Explainable machine learning could tailor blood-pressure care by integrating a marker of vascular aging, but such a clinical decision support system has not been evaluated. Methods  Using the Framingham Heart Study Offspring and Third Generation cohorts (baseline 1998–2011), we developed and internally validated an explainable machine learning clinical decision support system that predicts the SBP target associated with the lowest risk of major adverse cardiovascular events (MACE). Eight algorithms were compared; features were selected with the variance inflation factor and least absolute shrinkage and selection operator (LASSO) regression; the best model was interpreted with SHapley Additive exPlanations (SHAP) and evaluated by discrimination, calibration and decision curve analysis. Results  After exclusions, 3912 participants were in the development cohort and 1658 in the internal validation cohort. LASSO selected eight predictors including carotid-femoral pulse wave velocity (cf-PWV), a marker of vascular aging. Random forest performed best (development area under the receiver operating characteristic curve [AUC] 0.74; validation AUC 0.73). SHAP identified cf-PWV as the dominant feature, with a threshold effect near 9.2 m/s above which the recommended target was relaxed. Decision curve analysis showed net benefit across a broad range of threshold probabilities. Conclusions  Integrating cf-PWV into an explainable machine learning framework supported tailored SBP targets for adults with clinically useful performance, offering an objective, vascular-aging-based approach to mitigate overtreatment risks. The web-based calculator translates the model into a shared-decision tool that keeps clinicians in the loop.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11078321/v1",
+    "date": "2026-11-05",
+    "authors": "Zhang X, Liu C, Chen X, Liu z, Guang X, Gao G, Fan H, Zhang H, Zhou Q, Diao X, Lu W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359128",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4727,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.21203/rs.3.rs-11078321/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b010d29c3fb05815f4d0ec6908badc2eae223a13945ba81c18456b9046aa022c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:29:33.890685+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3a79be486c629a7d8871ded11c4b7dda05f8c1e8b7a6ec424f43402168037251",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:29:33.890685+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "成人の個別化血圧管理に向けた説明可能な機械学習臨床意思決定支援システム：動脈スティフネスの統合による過剰治療リスクの軽減",
+    "abstract_ja": "要旨  背景  高血圧は心血管疾患の主要な修正可能なリスク因子であるが、成人個人における最適な収縮期血圧（SBP）目標値は依然として不確定である。固定的かつ積極的な目標値は、脳低灌流、起立性低血圧、転倒、および認知機能障害を引き起こす可能性がある一方で、最適な目標値は生物学的な血管老化に伴い変動する。説明可能な機械学習を用いれば、血管老化の指標を組み込むことで血圧管理を個別化できる可能性があるが、このような臨床意思決定支援システムはこれまで評価されていない。方法  Framingham Heart Studyの子世代および第3世代コホート（ベースライン：1998–2011年）を用い、主要心血管有害事象（MACE）のリスクが最も低いSBP目標値を予測する、説明可能な機械学習による臨床意思決定支援システムを開発し、内部検証を行った。8つのアルゴリズムを比較し、分散拡大係数および最小絶対縮小選択演算子（LASSO）回帰を用いて特徴量を選択した。最良のモデルをSHapley Additive exPlanations（SHAP）で解釈し、判別、較正、および決定曲線解析によって評価した。結果  除外後、開発コホートに3,912名、内部検証コホートに1,658名の参加者が属していた。LASSOは、血管老化の指標である頸大腿脈波速度（cf-PWV）を含む8つの予測因子を選択した。ランダムフォレストが最良の性能を示した（開発域受動性曲線下面積［AUC］0.74、検証AUC 0.73）。SHAPはcf-PWVを支配的な特徴量として特定し、9.2 m/s付近の閾値効果により、推奨目標値が緩和された。決定曲線解析では、広範な閾値確率にわたって正味の有益性が認められた。結論  説明可能な機械学習フレームワークにcf-PWVを組み込むことで、臨床的に有用な性能をもって成人向けの個別化されたSBP目標値の設定が可能となり、過剰治療のリスクを軽減するための、血管老化に基づいた客観的なアプローチが提供された。ウェブベースの計算ツールにより、本モデルは臨床医が常に状況を把握できる共有意思決定ツールへと変換される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.764109",
+    "title": "Multispecies transport shapes electrochemical environments in perforated cells",
+    "abstract": "Cells maintain asymmetric electrochemical environments across selectively permeable plasma membranes. Ion channels on plasma membranes redistribute small ions, whereas large openings such as gasdermin pores allow both ions and proteins to cross the membrane, generating a multispecies transport regime. The transport of charged ions and proteins shapes electrochemical environments, leading to osmolarity changes, which in turn promotes water influx and cell swelling. Although biologists have observed the phenotypic progression from pore formation to cell swelling for decades, the molecular transport events underlying this progression remain elusive. To elucidate how pore formation drives downstream cellular effects, we establish quantitative multispecies transport frameworks to investigate gasdermin-perforated cells. We start by developing a reductionist model and benchmarking it against analytical Donnan predictions. We then explore three-dimensional geometries containing individual pores or pore clusters that form either simultaneously or sequentially. We reveal that ion-protein timescale separation generates non-canonical Donnan-like states, pore and cargo properties tune local transport, pore clustering modulates osmotic gradients, and sequential pore formation produces feedback-dependent dynamics. This work deepens our mechanistic understanding of cellular responses to membrane damage and informs the therapeutic design of pore-forming proteins with tunable cellular effects. Significance  Large membrane pores mediate processes ranging from immune activation to inflammatory cell death, yet how pore opening produces cell swelling and rupture remains poorly understood. We develop a quantitative framework that follows ions and proteins as they move through gasdermin pores and reshape electrochemical conditions. Their unequal transport speeds create dynamic states not captured by classical equilibrium theory, while pore size, cargo size, pore clustering, and feedback-driven pore formation determine electrical and osmotic changes. These findings provide a physical explanation for how membrane damage drives water influx and swelling. More broadly, the framework establishes design principles for engineering pore-forming proteins whose downstream effects, including cell death, inflammation, and molecular delivery, can be tuned.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.764109",
+    "date": "2026-11-04",
+    "authors": "Guan Y, Li H, Shi M, Sajbel K, Gao YB, Xia S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358632",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4730,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.03.764109"
+    ],
+    "translation": {
+      "title": {
+        "hash": "acd05deb7480c94186f67169f6381e10dc3ebf5e90ae2855604aba54b07a94b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:29:33.890685+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a26da5257e756b32be4e6df586ab0ab3c63a9c8bc4addfc97dc035178d58bf92",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:29:33.890685+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多種輸送が穿孔細胞内の電気化学的環境を形成する",
+    "abstract_ja": "細胞は、選択的に透過性を有する細胞膜を介して非対称な電気化学的環境を維持している。細胞膜上のイオンチャネルは小さなイオンを再分配する一方、ガスダーミン孔のような大きな開口部はイオンとタンパク質の双方の膜透過を可能にし、多種輸送レジームを形成する。荷電イオンやタンパク質の輸送は電気化学的環境を形作り、浸透圧の変化をもたらし、それがひいては水の流入と細胞の膨潤を促進する。生物学者は数十年にわたり、孔形成から細胞膨潤に至る表現型の進行を観察してきたが、この進行の根底にある分子輸送事象は依然として解明されていない。孔形成がいかにして下流の細胞効果を駆動するのかを解明するため、我々はガスダーミン孔形成細胞を調査するための定量的な多種輸送フレームワークを構築する。まず、還元主義的モデルを開発し、それを解析的なドナン予測と照合する。次に、同時または逐次的に形成される個々の孔または孔クラスターを含む三次元幾何学的構造を検討する。その結果、イオンとタンパク質の時間スケールの分離が非正準的なドナン様状態を生成し、孔および積荷の特性が局所的な輸送を制御し、孔のクラスター形成が浸透圧勾配を調節し、逐次的な孔形成がフィードバック依存的なダイナミクスを生み出すことを明らかにする。本研究は、膜損傷に対する細胞応答の機構的理解を深めるとともに、細胞効果を制御可能な孔形成タンパク質の治療設計に寄与するものである。意義：大きな膜孔は、免疫活性化から炎症性細胞死に至るまでのプロセスを媒介するが、孔の開口がいかにして細胞の膨潤と破裂を引き起こすのかは十分に解明されていない。我々は、イオンとタンパク質がガスダーミン孔を通過して移動し、電気化学的条件を再形成する過程を追跡する定量的フレームワークを開発した。これらの異なる輸送速度は、古典的な平衡理論では捉えられない動的状態を生み出し、一方で孔のサイズ、積荷のサイズ、孔のクラスター形成、およびフィードバック駆動型の孔形成が、電気的および浸透圧的な変化を決定する。これらの知見は、膜損傷がいかにして水の流入と膨潤を駆動するのかについて物理的な説明を与える。より広範には、このフレームワークは、細胞死、炎症、および分子輸送を含む下流効果を制御可能な孔形成タンパク質を設計するための原理を確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.31.763304",
+    "title": "FedEpitope: Parameter-Efficient Federated Protein Language Models for Linear B-Cell Epitope Prediction",
+    "abstract": "Linear B-cell epitopes are antigenic regions recognised by antibodies that play crucial roles in vaccine development, antibody production, and other therapeutic applications. Their prediction can support peptide-based vaccine candidate screening and diagnostic assay development, but the experimental data required for model development may be distributed across institutions that cannot freely pool their records. We present FedEpitope, a federated framework that adapts the ESM-2 protein language model for peptide-level linear B-cell epitope prediction using Low-Rank Adaptation (LoRA), keeping client-partitioned data local and restricting the communicated trainable model state to approximately 1.11 MB. Simulated benchmarks of FedAvg and FedProx algorithms, evaluated using homology-aware data splits of five biologically heterogeneous, organism-partitioned clients, achieve promising global test performance without centralising training data, with FedAvg outperforming all single-client models in mean AP, F1, and MCC. Additional experiments characterise post-federation personalisation, record-level differential privacy, sensitivity to controlled client heterogeneity, LoRA rank, and generalisation to the independent BCPreds and NetBCE benchmarks, demonstrating the feasibility of parameter-efficient federated protein language model adaptation for data-localised B-cell epitope prediction and the associated trade-offs among predictive performance, personalisation, privacy, communication efficiency, and distribution shift. VISUAL ABSTRACT",
+    "journal": "",
+    "doi": "10.64898/2026.10.31.763304",
+    "date": "2026-11-03",
+    "authors": "Joshi D, Priyadarsinee L, Chatterjee B, Murugan NA, Sastry GN.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357692",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "prediction",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4733,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.31.763304"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5494e4c28de24e034236ad01e6ecca1f9269318fb72d1ff1c4fb3afd2a09e82d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:29:33.890685+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c672f4ec22f1705a384c10253f1aa4e4d93b3b7ae26cad484c1dfa0efa1446e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:29:33.890685+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FedEpitope: 線形B細胞エピトープ予測のためのパラメータ効率の高い連合型タンパク質言語モデル",
+    "abstract_ja": "線状B細胞エピトープは、抗体によって認識される抗原領域であり、ワクチン開発、抗体産生、およびその他の治療応用において極めて重要な役割を果たす。その予測は、ペプチドベースのワクチン候補スクリーニングや診断アッセイの開発を支援し得るが、モデル開発に必要な実験データは、レコードを自由に共有できない機関に分散している場合がある。本研究では、Low-Rank Adaptation (LoRA) を用いてペプチドレベルの線状B細胞エピトープ予測にESM-2タンパク質言語モデルを適応させるフェデレーションフレームワーク「FedEpitope」を提案する。本フレームワークは、クライアント分割されたデータをローカルに保持し、通信される学習可能モデルの状態を約1.11 MBに制限する。生物学的に異なり、生物種ごとに分割された5つのクライアントのホモロジー認識型データ分割を用いて評価したFedAvgおよびFedProxアルゴリズムのシミュレーションベンチマークでは、学習データを集中化することなく有望なグローバルテスト性能を達成し、FedAvgは平均AP、F1、およびMCCにおいてすべてのシングルクライアントモデルを上回った。さらに、フェデレーション後のパーソナライゼーション、レコードレベルの差分プライバシー、制御されたクライアント異質性に対する感度、LoRAランク、および独立したBCPredsおよびNetBCEベンチマークへの汎化性能に関する追加実験を行い、データローカルなB細胞エピトープ予測におけるパラメータ効率の高いフェデレーションタンパク質言語モデル適応の実現可能性と、予測性能、パーソナライゼーション、プライバシー、通信効率、および分布シフトの間のトレードオフを実証した。VISUAL ABSTRACT"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763582",
+    "title": "A validation approach for RNA structures based on deep-learning 3D-structure predictions",
+    "abstract": "Understanding the molecular mechanisms of life depends on accurate macromolecular structures. RNA, in particular, poses a particular challenge for structural biology due to its inherent flexibility and dynamic nature. The challenging nature of structure determination experiments and their interpretation have led to the development of validation approaches to prevent or fix errors in solved structures. Existing methods for RNA structure validation can, as with proteins, be broadly split into two types. Map-based validation tools seek to detect discrepancies between the experimental data and the determined structure. They are excellent for fixing all types of errors, but only when high-resolution experimental data are available. Model-only validation methods, which usually focus on molecular geometry, are excellent for fixing short-lengthscale issues even when experimental resolution is low.  Conkit-validate is a mapless method for protein validation, which is not based on chemical plausibility, but rather on the similarity between experimental models and structure predictions for the same protein. By comparing contact patterns, this tool leverages evolutionary covariance information, learned by state-of-the-art structural prediction models, into a mapless validation method capable of detecting sequence assignment issues, with notable success in detecting register errors.  Here, we extend the  conkit-validate method to work on RNA. The results show performance similar to that previously achieved for proteins. In a scan of the PDB, its detection rate does not depend on the local resolution of the density, so it remains applicable where map-based approaches are not, and case studies show it can identify register errors where the density alone cannot decide between models. Together, this highlights the complementary value of a contact-prediction based validation approach using information orthogonal to map- and geometry-based approaches to ensure the quality of deposited RNA structures against varying criteria. The performance of the method can be expected to track ongoing improvements in RNA structure prediction methods.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763582",
+    "date": "2026-11-03",
+    "authors": "Voorspoels A, Simpkin AJ, Keegan RM, Chojnowski G, Rigden DJ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357608",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4734,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.02.763582"
+    ],
+    "translation": {
+      "title": {
+        "hash": "76ee2af98ae21b4874d1a6d95d953ccbc5fae7484114129e96992535dceb6d47",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:29:33.890685+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "719069fcda50ec9034edea08b401e9b87e8374c5ea96c280c894f268285a5ea4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:29:33.890685+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "深層学習による3次元構造予測に基づくRNA構造の検証手法",
+    "abstract_ja": "生命の分子メカニズムの解明は、正確な高分子構造に基づいている。特にRNAは、その固有の柔軟性と動的な性質により、構造生物学において特有の課題となっている。構造決定実験とその解釈の困難さから、決定された構造における誤りを防止または修正するための検証手法が開発されてきた。RNA構造検証の既存手法は、タンパク質と同様に、大きく2つのタイプに分類できる。マップベースの検証ツールは、実験データと決定された構造との間の不一致を検出することを目的としている。これらはあらゆる種類の誤りを修正するのに極めて有効だが、それは高分解能の実験データが利用可能な場合に限られる。通常、分子幾何構造に焦点を当てるモデルのみの検証手法は、実験分解能が低い場合でも、短尺度の問題を解決するのに極めて有効である。Conkit-validateはタンパク質検証のためのマップレス手法であり、化学的な妥当性ではなく、同一タンパク質における実験モデルと構造予測の類似性に基づいている。接触パターンを比較することで、本ツールは最先端の構造予測モデルによって学習された進化共分散情報を活用し、配列割り当ての問題を検出可能なマップレス検証手法を実現しており、特にレジスタエラーの検出において顕著な成果を上げている。本稿では、conkit-validate手法をRNAに拡張する。その結果、タンパク質で以前に達成されたものと同様の性能が示された。PDBのスキャンにおいて、その検出率は密度の局所分解能に依存しないため、マップベースの手法が適用できない状況でも引き続き利用可能であり、ケーススタディでは、密度だけではモデル間の判断がつかないレジスタエラーを特定できることが示されている。これらを総合すると、マップベースや幾何構造ベースの手法とは直交する情報を用いて接触予測に基づく検証アプローチを採用することで、多様な基準に照らして寄託されたRNA構造の品質を確保できるという相補的な価値が浮き彫りになる。本手法の性能は、RNA構造予測手法の継続的な改良に伴って向上することが期待される。"
   }
 ]
