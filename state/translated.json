@@ -235488,5 +235488,305 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "植物ウイルスに対するdsRNA誘導性パターントリガー免疫には2つの異なる経路が存在し、そのうちの一方はCoronatine insensitive1 (COI1)に依存している。",
     "abstract_ja": "二本鎖RNA（dsRNA）は、感染時に生成されるRNAウイルスの保存された分子シグネチャーであり、植物において抗ウイルスパターントリガー免疫（PTI）を活性化させることができる。しかし、多様な分類群のウイルスに対するdsRNA誘導性PTIの有効性、感染の異なる段階におけるその影響、およびタバコモザイクウイルス以外のウイルスがこの防御応答に対抗するために利用するエフェクターについては、十分に解明されていない。本研究では、Nicotiana benthamianaにおいて非特異的dsRNAの細胞内産生を介してPTIを誘導するための、Agrobacterium媒介性一過性発現アッセイを確立した。非特異的dsRNAの発現は、異なる分類群を代表する3種類のRNAウイルス（タバコモザイクウイルス、カブモザイクウイルス、およびタバコラトルウイルス）の細胞間移動と蓄積を制限した。dsRNAを、RNAサイレンシング抑制に欠損を持つジャガイモウイルスX（PVX）のP25移動タンパク質（MP）変異体と共に共発現させたところ、プラスモデスマタ（PD）におけるdsRNA誘導性のカロース蓄積が阻止され、効率的なウイルスの細胞間移動が回復した。興味深いことに、dsRNAは細胞レベルでのウイルスRNA蓄積も減少させ、細胞間移動とは独立して、dsRNAベースのPTIがウイルス複製に影響を及ぼすことが明らかになった。さらに、dsRNA誘導性の抗ウイルス応答にはジャスモン酸（JA）シグナル伝達が必要であることを示した。JA受容体Coronatine insensitive1（COI1）のサイレンシングにより、dsRNA誘導性のPDカロース沈着と、それに伴うウイルスの移動および蓄積の制限が消失した。したがって、COI1サイレンシング植物では、防御関連遺伝子のdsRNA誘導性発現が損なわれていた。次に、COI1依存的なdsRNA誘導性免疫に関与する初期の生物学的プロセスを同定するため、RNA-seq解析を行った。COI1サイレンシング植物において、カロース蓄積の調節に関与している可能性のある198個の遺伝子の発現変動が認められたことは、JAシグナル伝達が非特異的dsRNAに対する転写応答の形成に寄与していることを示唆している。以上の知見を総合すると、非特異的dsRNA誘導性PTIは、病原体の複製と細胞間移動を制限する多層的な抗ウイルス応答であることが確立され、また、異種MPであるPVX P25が、COI1依存的にこの防御応答のPD成分に対抗するエフェクターとして同定された。著者要旨：植物は、RNAウイルスの感染時に産生される分子であるdsRNAを認識し、侵入したウイルスに対して非特異的な免疫応答を活性化させることができる。しかし、この免疫応答が異なるウイルスに対してどの程度有効であるか、またウイルスがそれをどのように克服するかについては、まだほとんど解明されていない。本研究では、植物細胞内で非特異的dsRNAを産生することにより、異なる分類群の3種類のウイルスに対する植物免疫を活性化させる手法を開発した。我々は、dsRNAが2つの異なるレベル、すなわち隣接細胞間のウイルス拡散の制限と、単離細胞におけるウイルス複製の減少というレベルでウイルス感染を阻害することを示した。対抗防御戦略として、ジャガイモウイルスXの移動タンパク質は、細胞間のウイルス拡散を防ぐ多糖類ポリマーであるカロースの蓄積を阻害することで、dsRNA誘導性免疫を妨げる。さらに、ストレスに対する植物応答の調節に関与するジャスモン酸受容体であるCoronatine insensitive1が、dsRNA誘導性のウイルス拡散制限に必要であることを示した。最後に、このCOI1依存的なdsRNA応答に関連する遺伝子発現の変化を同定した。我々の知見は、植物が感染の異なる段階において侵入したウイルスから自らを防御できることを明らかにしており、作物保護のための広範な抗ウイルス戦略に関する研究に新たな道を切り拓くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762914",
+    "title": "DNA demethylases constrain multigenerational methylome and transcriptome divergence",
+    "abstract": "In plants, animals and fungi, DNA methylation is important for the silencing of repetitive DNA and impacts the expression of a subset of genes. DNA methylation landscapes exhibit a high degree of stability over generations, yet this stability is the product of multiple dynamic methylation and demethylation pathways. How these dynamic pathways function over longer multigenerational timescales is unclear. To address this, we inbred quadruple DNA demethylase Arabidopsis mutants and closely related wild type lines for nine generations by single-seed descent. In inbred mutant lines, methylation gains accumulated across generations, with regions of preexisting methylation becoming progressively reinforced or spreading to proximal sequences. Additionally, each inbred line possessed hundreds of de novo methylation gains in unmethylated regions. Two-thirds of all methylation gains and 85% of de novo methylated loci were unique to only one inbred line, suggesting a high degree of stochasticity in multigenerational methylation dynamics. Individual inbred lines also exhibited substantial divergence in both their transcriptomes and small RNA profiles. Our data lead to a model in which DNA demethylases constrain the epigenome and transcriptome space accessible over multigenerational timescales. Long-term loss of DNA demethylase activity causes lineages to drift further apart to more diverged epigenetic landscapes. Author summary  DNA methylation is a chemical mark added to DNA that can impact gene expression. The patterns that DNA methylation marks form across DNA are maintained by enzymes that add and remove them. We wanted to understand the role that DNA methylation removal plays in keeping methylation patterns stable over generations. We followed several genetically identical lineages of Arabidopsis, a small flowering plant, over nine generations. In plants lacking four enzymes that remove DNA methylation marks, methylation gradually accumulated over time. Some existing patches of methylation spread into neighboring regions, and new patches appeared in places that normally lack DNA methylation altogether. Different lineages accumulated mostly different methylation patterns, suggesting that where DNA methylation appears over time is mostly down to chance. Independent lineages also differed in their gene expression patterns, with thousands of genes showing altered expression levels. Our findings suggest that methylation removal limits the range of methylation patterns that can build up over generations in plants. Preserving inherited methylation patterns therefore requires a mechanism of methylation removal, which prevents new marks from taking hold in the wrong places.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762914",
+    "date": "2026-10-30",
+    "authors": "Dmitrieva AD, Christensen KI, Williams BP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354240",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2386,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762914"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6e94284451683d1c715e335856e068550c14462dd3b1611326d3448526a6f880",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:47:57.605072+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "09904d7e9bce270b7230848717eb0778942b371fdd7da4c00a3d8f75bb2b9cab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:47:57.605072+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DNA脱メチル化酵素が多世代にわたるメチルームおよびトランスクリプトームの分岐を制約する",
+    "abstract_ja": "植物、動物、および真菌において、DNAメチル化は反復DNAのサイレンシングに重要であり、一部の遺伝子の発現に影響を及ぼす。DNAメチル化ランドスケープは世代を超えて高い安定性を示すが、この安定性は複数の動的なメチル化・脱メチル化経路の産物である。これらの動的経路が、より長期的な多世代スケールでどのように機能しているかは明らかではない。この課題に取り組むため、我々は単一種子降下法を用いて、四重DNA脱メチル化酵素を持つシロイヌナズナ変異体と、それに近縁な野生型系統を9世代にわたって近親交配させた。近親交配した変異系統では、世代を経てメチル化の獲得が蓄積し、既存のメチル化領域が次第に強化されるか、あるいは近接する配列へと拡大した。さらに、各近親交配系統は、未メチル化領域において数百箇所のde novoメチル化獲得を有していた。全メチル化獲得の3分の2、およびde novoメチル化遺伝子座の85%が単一の近親交配系統にのみ特有であり、多世代にわたるメチル化動態に高い確率性があることが示唆された。個々の近親交配系統においても、トランスクリプトームとsmall RNAプロファイルの双方で顕著な分岐が認められた。我々のデータは、DNA脱メチル化酵素が多世代スケールでアクセス可能なエピゲノムおよびトランスクリプトーム空間を制約するというモデルを導き出す。DNA脱メチル化酵素活性の長期的な喪失は、系統をより乖離したエピジェネティック・ランドスケープへとさらに遠ざける。著者要旨 DNAメチル化は、遺伝子発現に影響を及ぼし得るDNAに付加される化学的標識である。DNA全体に形成されるDNAメチル化標識のパターンは、それらを付加・除去する酵素によって維持されている。我々は、世代を超えてメチル化パターンを安定に保つ上で、DNAメチル化の除去が果たす役割を解明することを目的とした。我々は、小型の顕花植物であるシロイヌナズナの遺伝的に同一な複数の系統を9世代にわたって追跡した。DNAメチル化標識を除去する4つの酵素を欠く植物では、時間の経過とともにメチル化が徐々に蓄積した。既存のメチル化パッチの一部は隣接する領域へと拡大し、通常はDNAメチル化が全く存在しない場所に新たなパッチが現れた。系統によって蓄積したメチル化パターンは主に異なっており、DNAメチル化が時間の経過とともに現れる場所は、主に偶然によるものであることが示唆された。独立した系統間でも遺伝子発現パターンに差異が見られ、数千の遺伝子で発現レベルの変化が認められた。我々の知見は、植物においてメチル化の除去が、世代を超えて蓄積し得るメチル化パターンの範囲を制限していることを示唆している。したがって、継承されたメチル化パターンを維持するには、新たな標識が不適切な場所に定着するのを防ぐメチル化除去機構が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762944",
+    "title": "Correlation of Live Imaging and Fixed-Expansion Microscopy to study intracellular pathogens",
+    "abstract": "Expansion microscopy (ExM) enables high-resolution fluorescence imaging by physically enlarging biological samples, but its application to intracellular bacteria remains challenging. Here, we adapted the Ten-fold Robust Expansion Microscopy protocol to study host–pathogen interactions. Expansion of  Burkholderia thailandensis -infected epithelial cells revealed previously unresolved membrane architectures associated with bacterial cell-to-cell dissemination. While host cells expanded approximately 9-fold, bacterial cells displayed incomplete and heterogeneous expansion. We found that fixation conditions strongly influence bacterial expansion, while presence of peptidoglycan partially limits expansion. To connect the membrane ultrastructures revealed by expansion with infection dynamics, we developed Live-to-Fixed Expansion microscopy (LiFEx), a workflow that correlates dynamic events observed by live-cell imaging with high-resolution cellular structures resolved by ExM. By correlating T6SS-5 assembly with subsequent high-resolution membrane architecture, LiFEx revealed membrane alterations developing within minutes following T6SS-5 assembly. Together, our approach enabled the investigation of dynamic host–pathogen interactions across complementary spatial and temporal scales.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762944",
+    "date": "2026-10-30",
+    "authors": "Trouve J, Jung AJ, Basler M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354163",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2387,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762944"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9d3576c37f85feb5192c443deed1d5a12f33608646240d633c6c17305347f7c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:47:57.605072+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b5aa8a7e32b1ca0acd65dd29943f12281b70c7758eefa1db4ce28cbe4b339004",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:47:57.605072+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞内病原体研究におけるライブイメージングと固定拡大顕微鏡法の相関",
+    "abstract_ja": "拡大顕微鏡法（ExM）は、生体試料を物理的に拡大することで高解像度の蛍光イメージングを可能にするが、細胞内細菌への適用は依然として困難である。本研究では、宿主－病原体相互作用を研究するため、Ten-fold Robust Expansion Microscopyプロトコルを応用した。Burkholderia thailandensis感染上皮細胞を拡大したところ、細菌の細胞間伝播に関連する、これまで解明されていなかった膜構造が明らかになった。宿主細胞は約9倍に拡大したのに対し、細菌細胞では不完全かつ不均一な拡大が認められた。固定条件が細菌の拡大に強く影響する一方で、ペプチドグリカンの存在が拡大を部分的に制限することが判明した。拡大によって明らかになった膜超微細構造と感染動態を関連付けるため、生細胞イメージングで観察された動的事象と、ExMで解析された高解像度の細胞構造とを相関させるワークフローであるLive-to-Fixed Expansion microscopy（LiFEx）を開発した。T6SS-5の組み立てとそれに続く高解像度の膜構造を相関させることで、LiFExはT6SS-5の組み立て後数分以内に生じる膜変化を明らかにした。以上のアプローチにより、相補的な空間的・時間的スケールにわたる動的な宿主－病原体相互作用の解析が可能となった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762757",
+    "title": "Ume6 Coordinates Lysosomal Remodeling and Autophagy Through Transcriptional Repression in  S. cerevisiae",
+    "abstract": "Lysosome function and autophagy are highly regulated processes that must be coordinated to enable cellular adaptation to stress. However, the transcriptional mechanisms linking these pathways remain incompletely understood. Here, we identify Ume6 as a transcriptional repressor that regulates vacuolar protein composition and autophagy in  Saccharomyces cerevisiae (budding yeast). Dysregulation of Ume6 alters vacuolar protein composition through two distinct mechanisms: increased abundance of multiple vacuolar components and enhanced degradation of selected vacuolar membrane proteins by elevated expression of the vacuolar E3 ubiquitin ligases.  UME6 deletion also increases autophagic activity, whereas  UME6 overexpression delays autophagy induction. Furthermore, we find that Ume6 coordinates with another transcriptional repressor, Rph1, and its regulatory activity is regulated by multiple protein kinases, including Rim15, Rim11, and Mck1. Together, our study reveal a broad transcriptional regulatory mechanism through which Ume6 coordinates vacuolar protein composition and autophagy, providing new insights into the regulation of lysosome-related functions in response to cellular stress.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762757",
+    "date": "2026-10-30",
+    "authors": "Evans O, Hoy A, Woo I, Yang X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354084",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2388,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762757"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5c4f8dfc91870edee6819b622afab0926c37f140cfc62ce691e474aa38eaf8f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:47:57.605072+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a0a76ab8d3268568a4e3814e48d7808ff4d4b5b8ae64006e0e2610154e86e38a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:47:57.605072+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Ume6 座標 S. cerevisiaeにおける転写抑制を介したリソソームリモデリングとオートファジー",
+    "abstract_ja": "リソソーム機能とオートファジーは、細胞のストレス適応を可能にするために協調して機能しなければならない、高度に制御されたプロセスである。しかし、これらの経路を結びつける転写機構については、いまだ十分に解明されていない。本研究では、Saccharomyces cerevisiae（出芽酵母）において、液胞タンパク質組成とオートファジーを調節する転写抑制因子としてUme6を同定した。Ume6の調節不全は、2つの異なる機序を通じて液胞タンパク質組成を変化させる。すなわち、複数の液胞構成成分の存在量の増加と、液胞E3ユビキチンリガーゼの発現上昇による選択的な液胞膜タンパク質の分解促進である。また、UME6の欠損はオートファジー活性を亢進させる一方、UME6の過剰発現はオートファジー誘導を遅延させる。さらに、Ume6が別の転写抑制因子であるRph1と協調し、その調節活性がRim15、Rim11、およびMck1を含む複数のプロテインキナーゼによって制御されていることを見出した。以上の知見から、本研究は、Ume6が液胞タンパク質組成とオートファジーを協調的に制御する広範な転写調節機構を明らかにし、細胞ストレスに応じたリソソーム関連機能の調節に関する新たな知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762995",
+    "title": "Koala retrovirus dynamics in the Snowy Monaro, NSW",
+    "abstract": "Koala Retrovirus (KoRV) is in transition from exogenous virus to endogenous element and shows distinct profiles between northern and southern koala populations. Northern animals carry high proviral copy numbers of endogenous KoRV-A and a range of exogenous subtypes, while southern koalas instead generally only possess degraded and recombinant versions of the virus. In this study we investigated the KoRV profiles of koalas in the Snowy Monaro (SM) region of southern NSW, which is at the intersection between northern and southern populations. We found that SM koalas have lower KoRV loads and proviral copy numbers than koalas from other northern populations. Plasma RNA subtype profiles were very consistent between individuals with all animals having KoRV-A at low relative abundance and high proportions of subtypes D and L. This pattern of subtype profiles is unique compared to other populations studied and suggests that KoRV-D and/or L may be endogenous in southern NSW or that KoRV-A is effectively suppressed in koalas from the region. Despite these unique profiles, in agreement with findings from other regions, higher KoRV loads were associated with  C. pecorum shedding. Further, KoRV loads were temporally stable with no consistent changes found over time in koalas in the wild or koalas rescued from burnt habitat after fire and brought in for rehabilitation. Further studies into the role KoRV plays in disease susceptibility in southern NSW and into the endogenization status of KoRV-D/L will provide important insights into this model of retroviral endogenization and guide koala conservation efforts in the region.  Importance  Degraded endogenous retroviruses constitute over half of the genetic makeup of all vertebrates, including humans. While most endogenous retroviruses are ancient, koala retrovirus (KoRV) is currently invading the koala genome and still exists as a disease-causing virus. In this study we investigated the KoRV profiles of koalas in southern NSW, which is at the intersection of northern and southern koala populations that show differing KoRV patterns. We reveal that the region has unique KoRV profiles compared with other areas, although KoRV was still temporally stable and associated with susceptibility to Chlamydial infection as seen in other regions. Importantly, we found evidence that additional subtypes (D and L) beyond KoRV-A may be endogenous in southern NSW, providing compelling insights into the ongoing process of KoRV endogenization. This work not only advances our understanding of this model system of retroviral endogenization but also informs conservation efforts for the now endangered koala. Data Summary  Amplicon sequencing data for the KoRV  env hypervariable region used to identify subtype carriage can be accessed via the NCBI SRA database under BioProject PRJNA1552261. For koala metadata, KoRV load and KoRV subtyping profiles see supplementary material Table S1",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762995",
+    "date": "2026-10-30",
+    "authors": "Blyton MDJ, Marsh K, Lane MR, Lowe A, Chappell K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354073",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2389,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762995"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8a3bbc1522ba0e843573aa8bc852ab4a0f43066b871d858dc9a5b6bc3df58101",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:47:57.605072+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3990ec14fca549e52d1947cbc1604c27fb361f3168e59a19e50645bea2ca0968",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:47:57.605072+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ニューサウスウェールズ州スノーウィー・モナロにおけるコアラレトロウイルスの動態",
+    "abstract_ja": "コアラレトロウイルス（KoRV）は、外因性ウイルスから内因性エレメントへと移行する過程にあり、北部と南部のコアラ個体群間で明確なプロファイルを示す。北部の個体は、内因性KoRV-Aの高いプロウイルスコピー数と多様な外因性サブタイプを保有している一方、南部のコアラは一般的に、分解型および組換え型のウイルスのみを保有している。本研究では、北部と南部の個体群の接点に位置するニューサウスウェールズ州南部のスノーウィー・モナロ（SM）地域のコアラにおけるKoRVプロファイルを調査した。その結果、SMのコアラは、他の北部個体群のコアラよりもKoRV負荷量およびプロウイルスコピー数が少ないことが判明した。血漿RNAサブタイププロファイルは個体間で非常に一貫しており、すべての個体においてKoRV-Aの相対存在量は低く、サブタイプDおよびLの割合が高かった。このサブタイププロファイルのパターンは、他の調査対象となった個体群と比較して特異的であり、ニューサウスウェールズ州南部においてKoRV-Dおよび/またはLが内因性であるか、あるいは同地域のコアラにおいてKoRV-Aが実質的に抑制されていることを示唆している。こうした特異的なプロファイルにもかかわらず、他地域の知見と一致して、より高いKoRV負荷量はC. pecorumの排出と関連していた。さらに、KoRV負荷量は時間的に安定しており、野生下のコアラ、あるいは火災後に焼失した生息地から救出されリハビリテーションに導入されたコアラにおいて、経時的な一貫した変化は認められなかった。ニューサウスウェールズ州南部における疾患感受性にKoRVが果たす役割、およびKoRV-D/Lの内因化状態に関するさらなる研究は、レトロウイルス内因化のこのモデルに関する重要な知見を提供し、同地域におけるコアラの保全活動の指針となるであろう。重要性 分解型内因性レトロウイルスは、ヒトを含むすべての脊椎動物の遺伝的構成の半分以上を占めている。ほとんどの内因性レトロウイルスは古くから存在するが、コアラレトロウイルス（KoRV）は現在、コアラのゲノムに侵入しており、依然として疾患原因ウイルスとして存在している。本研究では、異なるKoRVパターンを示す北部と南部のコアラ個体群の接点であるニューサウスウェールズ州南部のコアラにおけるKoRVプロファイルを調査した。その結果、同地域は他の地域と比較して特異的なKoRVプロファイルを有する一方で、KoRVは時間的に安定しており、他地域で観察されるのと同様にクラミジア感染への感受性と関連していることを明らかにした。重要な点として、ニューサウスウェールズ州南部においてKoRV-A以外の追加的なサブタイプ（DおよびL）が内因性である可能性を示す証拠が得られ、KoRV内因化の進行中のプロセスに関する説得力のある知見が得られた。本研究は、レトロウイルス内因化のこのモデルシステムに関する理解を深めるだけでなく、現在は絶滅危惧種となっているコアラの保全活動にも資するものである。データ概要 サブタイプ保有を特定するために用いたKoRV env hypervariable領域のアンプリコンシーケンシングデータは、NCBI SRAデータベースのBioProject PRJNA1552261からアクセス可能である。コアラのメタデータ、KoRV負荷量、およびKoRVサブタイピングプロファイルについては、補足資料の表S1を参照されたい。"
   }
 ]
