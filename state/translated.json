@@ -258985,5 +258985,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "淡水海綿 Ephydatia fluviatilis 由来 Bacillus subtilis JS03 の臨床病原体に対するプロバイオティクス特性および抗バイオフィルム能",
     "abstract_ja": "要旨    プロバイオティクスは、免疫系の活性化および抗生物質に代わる有望な選択肢として、数世紀にわたり利用されてきた。本研究では、淡水海綿 Ephydatia fluviatilis から単離した Bacillus subtilis JS03 が、顕著なプロバイオティクス特性を有するか否かを検討した。本分離株は、グラム染色、コロニー形態、生化学的試験、および16S rDNAシーケンシングにより同定され、アミラーゼ、セルラーゼ、ジェラチナーゼ、プロテアーゼ、およびリパーゼの産生についてスクリーニングを行った結果、いずれも陽性であった。プロバイオティクスとしての特性評価には、様々なpH（1–5）、胆汁酸塩濃度（0.15–3%）、塩化ナトリウム濃度（1–5%）、および温度（40–80°C）における生存率の確認に加え、自己凝集性、疎水性、および溶血活性の評価が含まれた。本分離株は中程度の耐酸性を示し、pH 3–4で80.76%、3%胆汁酸塩（3.5 × 10⁷ CFU/mL）で96.55%の生存率、1% NaClで0.617の相対増殖至度（OD）、および60°Cで30分間88.4%の生菌率を示した。B. subtilis JS03 は、S. aureus MTCC 737（20 mm 阻止円）および、コアグラーゼ陰性ブドウ球菌属、MSSA、Enterococcus faecalis を含むその他の臨床病原体に対して強い抗菌活性を示した。薬剤感受性試験の結果、ノルフロキサシン、シプロフロキサシン、クロラムフェニコール、メロペネム、およびイミペネムに感受性を示し、ペニシリン、アンピシリン、テトラサイクリン、およびストレプトマイシンには耐性を示した。非溶血活性およびレシチナーゼ産生の欠如は、主要な病原性形質がないことを示していた。総じて、B. subtilis JS03 は強固なストレス耐性と顕著な抗菌活性を示しており、プロバイオティクス候補としての高い潜在能力を裏付けるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10964569/v1",
+    "title": "Profile Expression and Validation of Plasma miR-92a-3p in Patients with Colorectal Cancer as a Candidate Diagnostic Biomarker: A Study in the Indonesian Population",
+    "abstract": "Abstract  Mutations, epigenetic alterations, signalling pathway dysregulation, and gut microbiome cause colorectal cancer. Epigenetic modifications affect gene expression patterns without changing the DNA base sequence. Research on cancer and normal tissues demonstrates changes in miRNA expression during carcinogenesis. This study aims to obtain the signature profile of miRNA in colon cancer patients, as well as its biological functions through bioinformatic analysis, and to validate miR-92a-3p in the plasma of colorectal cancer patients to obtain diagnostic biomarkers. Plasma miRs were isolated from patients with colorectal cancer and non colorectal cancer. The miRNA profiles were initially evaluated using NanoString analysis, after which selected candidate miRNAs were validated by qRT-PCR. Differential expression was analyzed and diagnostic performance was assessed using ROC curve analysis. The results indicate that in patients with colorectal cancer, there is upregulation of miR-101-3p, miR-129-5p, miR-146-3p, and miR-198, miR-384, miR-4448, miR-92a-3p as well as downregulation of miR-1228-3p, miR-223-3p, miR-3690, miR-377-3p, miR-379-5p, miR-423-5p, miR-513c-3p, miR-548y, and miR-561-3p compared to non colorectal cancer. In silico analysis showed that these regulated miR play role in colorectal and cancer pathways. Validation of miR-92a-3p expression showed a 1.29 fold upregulation (p",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10964569/v1",
+    "date": "2026-10-26",
+    "authors": "Handayani R, Bestari MB, Rudiman R, Sukartini N, Aliyah SH, Parwati I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349971",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2580,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10964569/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cfed3b9c43078f05f25f5260999a8c6c1c4c1244d8f172e1e630c5b7451466ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:53:22.023802+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "571c6943817d769687793cc86fe3a004f252a6f69014712064433696f646c373",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:53:22.023802+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大腸癌患者における診断バイオマーカー候補としての血漿miR-92a-3pの発現と検証：インドネシア人を対象とした研究",
+    "abstract_ja": "要旨　変異、エピジェネティックな変化、シグナル伝達経路の調節不全、および腸内マイクロバイオームが大腸癌の原因となる。エピジェネティックな修飾は、DNA塩基配列を変化させることなく遺伝子発現パターンに影響を及ぼす。癌組織および正常組織に関する研究により、発癌過程におけるmiRNA発現の変化が示されている。本研究は、バイオインフォマティクス解析を通じて大腸癌患者におけるmiRNAのシグネチャープロファイルおよびその生物学的機能を明らかにするとともに、大腸癌患者の血漿中におけるmiR-92a-3pを検証し、診断バイオマーカーを得ることを目的とする。大腸癌患者および非大腸癌患者から血漿miRを単離した。まずNanoString解析を用いてmiRNAプロファイルを評価し、その後、選定した候補miRNAをqRT-PCRにより検証した。発現変動を解析し、ROC曲線解析を用いて診断能を評価した。その結果、大腸癌患者では、非大腸癌患者と比較して、miR-101-3p、miR-129-5p、miR-146-3p、miR-198、miR-384、miR-4448、miR-92a-3pの発現が亢進し、miR-1228-3p、miR-223-3p、miR-3690、miR-377-3p、miR-379-5p、miR-423-5p、miR-513c-3p、miR-548y、およびmiR-561-3pの発現が低下していることが示された。in silico解析により、これらの調節対象miRが大腸癌および癌の経路において役割を果たしていることが示された。miR-92a-3pの発現を検証したところ、1.29倍の発現亢進が認められた（p"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2436.v1",
+    "title": "Genetic Diversity and Genealogical Relationships of Anolis nebulosus and Anolis microlepidotus",
+    "abstract": "Clouded Anole (Anolis nebulosus) and Guerreran Oak Anole (Anolis microlepidotus), there are two endemic species of Mexico. They can be found in tropical deciduous forest, semi-evergreen forest, xeric scrub, and pine-oak forests. It has been reported that Anolis species present a rapid adaptation to their habitat, which occurs in a few generations, and episodes of natural selection that lead to evolution on a contemporary time scale have also been observed. The aim of this study was to evaluate the genetic diversity and the genealogical relationships of groups of A. nebulosus and A. microlepidotus individuals. The study was carried out on specimens collected from locations in central Mexico, through the markers of 16S ribosomal RNA (16S rRNA). Both species showed a high haplotype and nucleotide diversity, suggesting a large and stable population with an ancient history. However, low haplotype and nucleotide diversity were observed in both species, alongside high genetic differentiation among groups of individuals from different localities; this suggest low vagility and supports the proposal to consider multiple phylogeographic lineages as evolutionarily significant units.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2436.v1",
+    "date": "2026-10-26",
+    "authors": "Soria-Bárcena JA, Padilla-Jacobo G, Cano-Zavala ET, Monterrubio-Rico TC, Cano-Camacho H, Zavala-Páramo MG.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350782",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s ribosomal",
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3218,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.20944/preprints202610.2436.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fb79d0d040da1de5f6e9a09182c3c6f2c0187f773d6e985d8542fe65d314f995",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:53:22.023802+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4c66e91d2c37b6e90a85d55470020d8ea193d6180cc2f0faf76caaecb1e16cfb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:53:22.023802+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Anolis nebulosus と Anolis microlepidotus の遺伝的多様性と系統関係",
+    "abstract_ja": "クラウドドアノール（Anolis nebulosus）とゲレランオークアノール（Anolis microlepidotus）は、メキシコ固有の2種である。これらの種は、熱帯落葉樹林、半常緑樹林、乾燥低木林、およびマツ・オーク林に分布している。アノール属の種は、わずか数世代で生息環境への迅速な適応を示すことが報告されており、現代的な時間スケールでの進化をもたらす自然選択のエピソードも観察されている。本研究の目的は、A. nebulosusおよびA. microlepidotusの個体群における遺伝的多様性と系統関係を評価することであった。本研究は、メキシコ中部の地点で採集された標本を用い、16SリボソームRNA（16S rRNA）マーカーによって実施された。両種ともに高いハプロタイプおよびヌクレオチド多様性を示し、古代の歴史を持つ大規模で安定した個体群であることが示唆された。しかし、両種においてハプロタイプおよびヌクレオチド多様性の低さが観察されるとともに、異なる地域の個体群間では高い遺伝的分化が認められた。このことは、適応力の低さを示唆しており、複数の系統地理学的系統を進化的に重要な単位とみなすという提案を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761285",
+    "title": "Transcriptome dissection of the Zeb2-associated network reveals a role for  NRPS15  in zearalenone biosynthesis in  Fusarium graminearum",
+    "abstract": "Fungal secondary metabolites, including mycotoxins, play important roles in fungal biology and represent major concerns for food and feed safety. Zearalenone (ZEA) is an estrogenic polyketide mycotoxin produced by several  Fusarium species, yet the genetic network governing its production remains poorly characterized. Here, we investigated genes associated with ZEA production in  Fusarium graminearum using two complementary transcriptomic approaches. Time-resolved transcriptome analysis revealed transcriptional changes preceding detectable ZEA accumulation. Temporal clustering further revealed coordinated changes in primary metabolism, transcriptional regulation, carbohydrate utilization, and stress- and transport-associated pathways during ZEA-inducing cultivation. Genotype-based transcriptome analysis of  ZEB2 deletion and overexpression strains subsequently identified Zeb2-responsive genes. Functional screening identified  NRPS15 , encoding a previously uncharacterized nonribosomal peptide synthetase-like protein adjacent to the ZEA biosynthetic cluster, as an important contributor to ZEA production. Deletion of  NRPS15 markedly reduced ZEA production and expression of  PKS4 ,  PKS13 ,  ZEB1 , and  ZEB2 .  NRPS15 expression did not restore ZEA production in the absence of Zeb2.  NRPS15 orthologs were conserved in several ZEA-producing  Fusarium species, and deletion of  NRPS15 substantially reduced ZEA production in  Fusarium culmorum . These findings expand the functional genetic context of ZEA production beyond the canonical four-gene biosynthetic cluster.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761285",
+    "date": "2026-10-26",
+    "authors": "Lee N, Han JW, Kim J, Shin J, Park AR, Lee Y, Kim H, Park J, Son H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353372",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3551,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.23.761285"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c1b1c32fd3e1ed9a652374dc8eaf8afd99e6d084875ac4f4a6f6df0d63863441",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:53:22.023802+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4ea3bc21fbcb0c98f099b14a9ac10048f3be915496003433b237e02dc2e8559e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:53:22.023802+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Zeb2関連ネットワークのトランスクリプトーム解析により、Fusarium graminearumにおけるゼアラレノン生合成におけるNRPS15の役割が明らかになった。",
+    "abstract_ja": "マイコトキシンを含む真菌の二次代謝産物は、真菌生物学において重要な役割を果たしており、食品および飼料の安全性における主要な懸念事項となっている。ゼアラレノン（ZEA）は、複数のFusarium属菌によって産生されるエストロゲン様ポリケチド系マイコトキシンであるが、その産生を制御する遺伝子ネットワークは依然として十分に解明されていない。本研究では、2つの相補的なトランスクリプトーム解析手法を用いて、Fusarium graminearumにおけるZEA産生に関連する遺伝子を調査した。時間分解トランスクリプトーム解析により、検出可能なZEA蓄積に先立つ転写変化が明らかになった。時系列クラスタリングにより、ZEA誘導培養における一次代謝、転写調節、炭水化物利用、およびストレス・輸送関連経路の協調的な変化がさらに明らかになった。続いて、ZEB2欠失株および過剰発現株の遺伝子型に基づくトランスクリプトーム解析により、Zeb2応答性遺伝子が同定された。機能スクリーニングにより、ZEA生合成クラスターに隣接し、これまで特性解析されていなかった非リボソームペプチド合成酵素様タンパク質をコードするNRPS15が、ZEA産生の重要な寄与因子として同定された。NRPS15の欠失は、ZEA産生ならびにPKS4、PKS13、ZEB1、およびZEB2の発現を著しく低下させた。Zeb2が存在しない条件下では、NRPS15の発現によってもZEA産生は回復しなかった。NRPS15のオルソログは複数のZEA産生Fusarium属菌において保存されており、Fusarium culmorumにおいてNRPS15を欠失させるとZEA産生が著しく低下した。これらの知見は、ZEA産生の機能的遺伝学的背景を、従来の4遺伝子からなる生合成クラスターの枠を超えて拡張するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2473.v1",
+    "title": "Evolutionary Mismatch During the Menopausal Transition in Gen X Women: A Clinical Framework for Midlife Management",
+    "abstract": "Chronic stress, circadian disruption, sedentary behaviour, industrialised diets and disturbances in the gut microbiome have created an evolutionary mismatch between ancestral physiology and the modern environment. When midlife women enter the menopausal transition, cumulative exposure to lifestyle and environmental factors may exacerbate the hormonal changes associated with menopause. As a result, midlife women can present with a mixture of vasomotor, somatic, urogenital, psychological and cognitive symptoms that are often poorly diagnosed and treated in isolation. Our previous review described how evolutionary mismatch in Generation X (Gen X) women disrupts perimenopausal physiology through converging endocrine, psychosocial stress and immunometabolic mechanisms, amplifying symptoms and cardiometabolic risk. This included a detailed discussion of the endocrine changes that underpin the menopausal transition, how chronic psychosocial stress overwhelms whole-body stress response systems, and the impact of converging immunometabolism mechanisms such as chronic inflammation and insulin resistance on whole-body energy homeostasis. In the current review, we extend this model by proposing a Gen X clinical phenotype and an evolutionary realignment framework that translates it into an integrated approach to clinical management. The proposed framework addresses circadian alignment, metabolic flexibility, nutritional and lifestyle factors, allostatic load, environmental exposures, cerebral and mitochondrial health, musculoskeletal function, gut–hormone–microbiome signalling and menopausal hormone therapy, offering practitioners a systems-based approach to midlife care that addresses underlying physiological drivers rather than isolated symptoms.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2473.v1",
+    "date": "2026-10-26",
+    "authors": "Hitch V, O'Brien CL, Parker J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350746",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3558,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.20944/preprints202610.2473.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3568ab17a1681831b62d7241bb031fbaf5aaf4795fd4d9a4b0728249420a3f0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:53:22.023802+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6866c8bb5fff2e2b0f0e016d6f0d0052fab177c4015add52169eb48692a68ccc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:53:22.023802+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "X世代女性における更年期移行期の進化的ミスマッチ：中年期管理のための臨床的枠組み",
+    "abstract_ja": "慢性的なストレス、概日リズムの乱れ、座位行動、工業化された食生活、および腸内マイクロバイオームの攪乱により、祖先の生理機能と現代の環境との間に進化的なミスマッチが生じている。中年期の女性が閉経移行期に入ると、生活習慣や環境要因への累積的な曝露が、閉経に伴うホルモン変化を増悪させる可能性がある。その結果、中年期の女性には、血管運動系、身体系、泌尿生殖器系、心理系、および認知系の症状が混在して現れることがあり、これらは単独では診断や治療が不十分となることが多い。我々の先行レビューでは、ジェネレーションX（Gen X）女性における進化的なミスマッチが、内分泌系、心理社会的ストレス、および免疫代謝機構の収束を通じて周閉経期の生理機能を乱し、症状と心代謝リスクを増幅させる仕組みについて述べた。これには、閉経移行の基盤となる内分泌変化、慢性的な心理社会的ストレスが全身のストレス応答系をいかに圧倒するか、ならびに慢性炎症やインスリン抵抗性といった収束的な免疫代謝機構が全身のエネルギー恒常性に及ぼす影響についての詳細な考察が含まれていた。本レビューでは、このモデルを拡張し、Gen Xの臨床表現型と、それを臨床管理への統合的アプローチへと転換する進化的再調整フレームワークを提案する。提案するフレームワークは、概日リズムの調整、代謝柔軟性、栄養および生活習慣要因、アロスタティック負荷、環境曝露、脳およびミトコンドリアの健康、筋骨格系機能、腸・ホルモン・マイクロバイオーム間のシグナル伝達、および閉経期ホルモン療法を網羅しており、個々の症状ではなく根本的な生理学的駆動要因に対処する、中年期ケアへのシステムベースのアプローチを医療従事者に提供するものである。"
   }
 ]
