@@ -250882,5 +250882,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "等カロリー制限は、高脂肪食投与マウスにおいて体重を正常化するが、相対的脂肪量、脂肪組織炎症、および腸内細菌叢の多様性は正常化しない。",
     "abstract_ja": "背景／目的  高脂肪食（HFD）誘発性の脂肪蓄積、脂肪組織炎症、および腸内細菌叢の変化に対する、過剰なエネルギー摂取量と食事組成の個別の寄与は明らかではない。本研究では、HFDの摂取量を低脂肪（LF）給餌マウスのエネルギー摂取量に制限すること（等カロリー制限）が、これらの結果を予防または逆転させるかどうかを検証した。対象／方法  雄C57BL/6マウス（n = 8/群）に、12週間にわたりLF食（LF/LF）またはHFD（HF/HF）を自由摂取させ、次いでHFDを自由摂取させ、第7週から等カロリーHFD（HF/IHF）、あるいは全期間にわたり等カロリーHFD（IHF/IHF）を与えた。脂肪蓄積、血漿マーカー、脂肪組織および回腸の遺伝子発現、ならびに糞便微生物叢（16S rRNAシーケンシング、n = 4/群）を評価した。結果  IHF/IHF群の最終体重はLF/LF群と差が認められず（差 0.1 g, 95% CI −6.5～6.7; P > 0.99）、HF/HF群よりも低値であった（−8.2 g, −14.7～−1.6; P = 0.011）。等カロリー給餌への切り替えにより、第6～12週の体重増加が抑制された（HF/IHF vs HF/HF, −6.4 g, −9.8～−3.1; P 結論  HFDのエネルギー摂取量を制限することで、体重、血糖、および血漿脂質は正常化したが、相対的な脂肪蓄積、脂肪組織Tnf発現、または腸内細菌叢の多様性の喪失は正常化しなかった。食事組成はエネルギー摂取量とは独立してこれらの結果に影響を与えるため、正常な体重はそれらの逆転を示すものではない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761433",
+    "title": "Inferring somatic copy number aberrations from spatial transcriptomics data to study early cancer development",
+    "abstract": "Understanding the spatial organisation of cells undergoing early transformation and their interactions with the local microenvironment is critical to studying the earliest stages of cancer development. Somatic copy number aberrations (SCNAs) are among the earliest genomic alterations observed in many cancers, but their spatial context remains difficult to study using conventional sequencing approaches. We developed a computational framework to infer SCNAs directly from Xenium spatial transcriptomics data, enabling the identification and spatial mapping of cell populations sharing common SCNA profiles. Applying this approach to ovarian, cervical and breast cancer datasets identified spatially coherent SCNA-defined populations that recapitulated known tumour-associated copy number aberrations and pathological states. In high-grade serous ovarian cancer, we identified an intermediate epithelial population within the fallopian tube exhibiting features of early transformation accompanied by immune remodelling. Together, our pipeline establishes a scalable framework for reconstructing the spatial architecture of SCNA-defined clones, providing new opportunities to identify and characterise candidate early transforming cell populations in situ.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761433",
+    "date": "2026-10-27",
+    "authors": "Honig F, Brochen C, Basha M, Arora R, Jimenez-Linan M, Antoniou A, Rueda OM, Correia Martins F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351548",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1795,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.761433"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3555667e572161846d90ac2055c41dcd7645ab808dfb83c54ee65a08e670bef2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:56:43.741171+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f3b9c435cd710aa3c9b54e774066792ac869457791de59de1f412a381e59039a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:56:43.741171+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "空間トランスクリプトミクスデータから体細胞コピー数異常を推定し、がんの初期発生を研究する",
+    "abstract_ja": "初期形質転換過程にある細胞の空間的構成と、局所微小環境との相互作用を理解することは、がん発生の最早期段階を研究する上で極めて重要である。体細胞コピー数異常（SCNA）は、多くのがんで観察される最初期のゲノム変化の一つであるが、その空間的コンテキストを従来のシーケンシング手法を用いて解析することは依然として困難である。我々は、Xenium空間トランスクリプトミクスデータからSCNAを直接推定する計算フレームワークを開発し、共通のSCNAプロファイルを共有する細胞集団の同定および空間的マッピングを可能にした。この手法を卵巣がん、子宮頸がん、および乳がんのデータセットに適用したところ、既知の腫瘍関連コピー数異常や病理学的状態を再現する、空間的に整合性の取れたSCNA定義集団が同定された。高悪性度漿液性卵巣がんにおいては、卵管内に、免疫リモデリングを伴う初期形質転換の特徴を示す中間上皮集団を同定した。以上の一連のパイプラインは、SCNA定義クローンの空間的構造を再構築するためのスケーラブルなフレームワークを確立するものであり、in situで初期形質転換候補細胞集団を同定・特性解析するための新たな機会を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11272552/v1",
+    "title": "Synthetic Whole-Cell Biosensor for Early Transplant Rejection Detection",
+    "abstract": "Abstract    Early detection of transplant rejection remains a major unmet clinical need because histopathology is invasive, episodic, and subject to sampling error, whereas serum creatinine and other routine chemistries often rise only after injury is established [1–4]. Here we describe a synthetic whole-cell biosensor that converts rejection-associated urinary nucleic acid signatures into a quantifiable fluorescent output using engineered  Escherichia coli  Nissle 1917. The system integrates three clinically relevant input classes—urinary  CXCL10/IP-10  ,  CXCL9  , and  donor-derived cell-free DNA (dd-cfDNA)  surrogate amplicons—through orthogonal toehold switches and ribocomputing-inspired logic gates to improve specificity relative to single-marker assays [3–10]. Using synthetic transcripts, the individual sensing modules showed limits of detection of 3.1 × 10^2 to 8.9 × 10^2 copies per reaction and ON/OFF dynamic ranges of 10.8- to 17.4-fold. The multiplex AND gate produced an 18.6 ± 2.9-fold signal increase only when rejection-like biomarker combinations were present, while suppressing single-marker false positives to",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11272552/v1",
+    "date": "2026-10-27",
+    "authors": "Yazici Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350889",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1798,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11272552/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "23d3d0fbb9e4beeb5beba8b24f4d8494e90b8e1c85579a778a899391e058df00",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:56:43.741171+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "01e69f867cd03e50f4505ffa10814bd4f6a1088dbc8bedb09761f460f0f46aff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:56:43.741171+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "移植初期拒絶反応検出用合成全細胞バイオセンサ",
+    "abstract_ja": "要旨    組織病理学的検査は侵襲的かつ断続的であり、サンプリング誤差の影響を受けやすい一方、血清クレアチニンやその他のルーチン生化学検査では損傷が確認されて初めて上昇することが多いため［1–4］、移植拒絶反応の早期検出は依然として主要な未充足の臨床的ニーズとなっている。本報では、改変したEscherichia coli Nissle 1917を用いて、拒絶反応に関連する尿中核酸シグネチャーを定量可能な蛍光出力に変換する合成全細胞バイオセンサーについて述べる。本システムは、臨床的に意義のある3つの入力クラス――尿中CXCL10/IP-10、CXCL9、およびドナー由来細胞外DNA（dd-cfDNA）サロゲートアンプリコン――を、直交型トーホールドスイッチとリボコンピューティングに着想を得たロジックゲートを介して統合し、単一マーカーアッセイに対する特異性を向上させている［3–10］。合成転写産物を用いたところ、個々のセンシングモジュールの検出限界は1反応あたり3.1 × 10^2～8.9 × 10^2コピーであり、ON/OFFダイナミックレンジは10.8～17.4倍であった。マルチプレックスANDゲートは、拒絶反応様のバイオマーカー組み合わせが存在する場合にのみ18.6 ± 2.9倍の信号増幅をもたらし、一方で単一マーカーの偽陽性を抑制して"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761909",
+    "title": "A maximum entropy model for  m  6  A  prediction: from human transcripts to influenza A viral segments",
+    "abstract": "N6-methyladenosine (  m 6 A ) is the most frequent mRNA modification in eukaryotic cells and is involved in the regulation of gene expression. Since viruses can hijack the host machinery to perform this chemical editing,  m 6 A is also involved in viral replication and innate immune system activation. Nowadays only few  m 6 A viral maps are available, making complementary methods crucial to accelerate the investigation of these mechanisms. Here we propose MEMAR, a Maximum Entropy model, to predict the methylation frequency, depending on the eight-mers nucleotide motif surrounding the central adenosine. MEMAR is a fast, simple and modular model: it can be trained on human methylation maps and refined including the methylation level per transcript and the position of motifs relatively to the coding regions. This modularity allows strong adaptability, leading MEMAR to better perform over influenza A segments than the mammalian state-of-the-art DeepSRAMP method. MEMAR generalization potential is assessed on i) human transcripts from GLORI and miCLIP experiments ii) HEK293T and HeLa cell lines iii) positive and negative influenza A viral segments and iv) altered-methylation experiments. A two-state dynamical model between  m 6 A writers and erasers explains MEMAR predictive power as a function of the global methylation percentage, and allows us to interpret anomalies in altered conditions through variations of methylation or de-methylation binding constants.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761909",
+    "date": "2026-10-27",
+    "authors": "Lecce I, Brun P, Cocco S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354331",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2507,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761909"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eef3ccc6146e881ec6891b2981d83bdb6be9fa32d4ab6ae3890aa7d10263dc72",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:56:43.741171+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "066bf5bd51f4b47ded64f9b8769762eda99a0fd248e209ac543e71bb5d5b6b84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:56:43.741171+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "m = 6 の最大エントロピーモデルによる予測：ヒト転写産物からA型インフルエンザウイルス断片まで",
+    "abstract_ja": "N6-メチルアデノシン（m6A）は、真核細胞において最も頻繁に起こるmRNA修飾であり、遺伝子発現の調節に関与している。ウイルスは宿主の機構を乗っ取ってこの化学的編集を行うことができるため、m6Aはウイルスの複製や自然免疫系の活性化にも関与している。現在、利用可能なm6Aウイルスマップはごくわずかであり、これらの機構の研究を加速させるには相補的な手法が不可欠である。本研究では、中心のアデノシンを取り囲む8量体ヌクレオチドモチーフに応じたメチル化頻度を予測する最大エントロピーモデル「MEMAR」を提案する。MEMARは高速かつ簡便でモジュール式のモデルであり、ヒトメチル化マップを用いて学習させ、転写産物ごとのメチル化レベルやコーディング領域に対するモチーフの位置を含めて精緻化することが可能である。このモジュール性により高い適応性が実現しており、MEMARは哺乳類における最先端のDeepSRAMP法よりも、A型インフルエンザセグメントにおいて優れた性能を発揮する。MEMARの汎化性能は、i) GLORIおよびmiCLIP実験によるヒト転写産物、ii) HEK293TおよびHeLa細胞株、iii) A型インフルエンザウイルスの陽性および陰性セグメント、iv) メチル化改変実験を用いて評価した。m6Aライターとイレーザー間の2状態動的モデルは、大域的なメチル化率の関数としてMEMARの予測能を説明し、メチル化または脱メチル化の結合定数の変動を通じて、改変条件下における異常を解釈することを可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.762054",
+    "title": "Pseudoarthrobacter  BD237 volatile organic compounds promote  Brachypodium distachyon  growth",
+    "abstract": "Microbial volatile organic compounds (mVOCs) present an environmentally sustainable alternative or supplement to traditionally used agrochemicals, such as fertilisers, herbicides and pesticides. Microbial VOCs can promote the growth and stress tolerance of a variety of dicot plants, largely through modulation of phytohormone pathways. However, their effect in monocot plants, particularly grasses, remains largely unexplored.  Pseudoarthrobacter BD237’s mVOCs were assayed for their growth promoting effect in the model cereal,  Brachypodium distachyon . BD237 mVOCs were found to significantly increase the dry shoot and root weight of  B. distachyon by 25% and 42%, respectively. Gas chromatography analysis showed that BD237 produced a variety of alcohols and ketones. Exposure to pure standards of phenylethyl alcohol and 2-nonanone were found to significantly promote  B. distachyon growth. Transcriptome analysis of  B.distachyon roots exposed to BD237 mVOC revealed significant upregulation of genes related to photosynthesis and response to abiotic stress. Transcriptome analysis of  BD237 plate colonies exposed to  B. distachyon VOCs revealed no significant differential transcription, indicating that BD237 VOC production may be constitutive. These results suggest that BD237 mVOCs may promote  B. distachyon growth by increasing photosynthetic rate and may increase tolerance to abiotic stressors such as salinity and drought. Collectively, this work expands our understanding of microbe – monocot VOC mediated interactions and identifies specific VOCs as potential grass biostimulants.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.762054",
+    "date": "2026-10-27",
+    "authors": "Pille CO, Sumerta IN, Hu H, Islam ZF.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352520",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2510,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.762054"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8171347b87741fcf33790f20e8cb4bf39baa257c4e185e3662327297325d4f89",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:56:43.741171+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c0fd836f7de0925d9c4559148f86aeee49fc8e55ad62f5d8bd14c8cf26be0f05",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:56:43.741171+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pseudoarthrobacter BD237 揮発性有機化合物は Brachypodium distachyon の生育を促進する。",
+    "abstract_ja": "微生物由来の揮発性有機化合物（mVOCs）は、肥料、除草剤、農薬といった従来用いられてきた農薬に代わる、環境的に持続可能な代替手段あるいは補完手段となり得る。微生物由来VOCsは、主にフィトホルモン経路の調節を通じて、多様な双子葉植物の成長とストレス耐性を促進し得る。しかし、単子葉植物、特にイネ科植物におけるその影響については、依然としてほとんど解明されていない。Pseudoarthrobacter BD237のmVOCsについて、モデル穀物であるBrachypodium distachyonにおける成長促進効果を検討した。その結果、BD237のmVOCsはB. distachyonの乾物シュート重量および根重量を、それぞれ25%および42%有意に増加させることが明らかになった。ガスクロマトグラフィー分析により、BD237が多様なアルコール類およびケトン類を生成することが示された。フェニルエチルアルコールおよび2-ノナノンの純標準品への曝露は、B. distachyonの成長を有意に促進することが認められた。BD237 mVOCsに曝露したB. distachyon根のトランスクリプトーム解析では、光合成および非生物的ストレス応答に関連する遺伝子の有意な発現上昇が認められた。B. distachyon VOCsに曝露したBD237プレートコロニーのトランスクリプトーム解析では、有意な発現差は認められず、BD237のVOC生成が構成的である可能性が示唆された。これらの結果は、BD237 mVOCsが光合成速度を高めることでB. distachyonの成長を促進し、塩類化や干ばつなどの非生物的ストレス要因に対する耐性を向上させる可能性を示唆している。総じて、本研究は微生物と単子葉植物間のVOC介在相互作用に関する理解を深めるとともに、特定のVOCsを潜在的なイネ科植物バイオスティミュラントとして同定したものである。"
   }
 ]
