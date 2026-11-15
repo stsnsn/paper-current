@@ -249952,5 +249952,318 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "U6  Ulva proliferaにおけるプロモーターは、デュアル小分子RNA/mRNA転写およびベクターベースのCRISPR-Cas9ゲノム編集を可能にする。",
     "abstract_ja": "緑潮形成藻類Ulva proliferaにおけるベクターベースの遺伝子編集を確立するためには、シングルガイドRNA（sgRNA）の転写を誘導するための内因性RNAポリメラーゼIII（Pol III）プロモーターの開発が不可欠である。このニーズに応えるため、U. proliferaにおけるU6 snRNA遺伝子（UpU6）のプロモーターを同定・クローニングし、機能的特性解析を行った。その結果、3つのUpU6コピーは同一の配列を共有しており、分岐した5'上流配列には位置的に保存されたTATAボックスが含まれるものの、種子植物に典型的なUSEエレメントを欠いていることが示された。これら3つのUpU6プロモーターはいずれも、U. proliferaにおいて小分子RNAの転写だけでなくタンパク質コード遺伝子の発現も誘導可能であり、二重の転写活性を示すことが明らかとなった。予想外なことに、これら3つのUpU6プロモーターはいずれもAgrobacteriumにおけるGUSレポーター遺伝子の発現も支持しており、これは原核生物系におけるU6プロモーター活性の初の実証例となった。遺伝子編集実験の結果、3つのUpU6プロモーターすべてがAPT遺伝子のベクターベースのCRISPR-Cas9ターゲティングを支持し、変異株が得られた。耐性葉体における変異陽性率は92.3%（48/52）であり、推定開始細胞数から算出した編集頻度は、3つのUpU6プロモーター間で平均3.26 × 10⁻⁶となり、有意な差は認められなかった。変異株では、塩基置換（45.5%）および長いMutator-likeエレメント（MULE）の挿入（18.2%）が高頻度で検出され、内因性DNAトランスポゾン挿入とCRISPR-Cas9介在性遺伝子編集との潜在的な関連性が浮き彫りとなった。これらの知見は、真核生物におけるU6プロモーターの機能に関する理解を深めるとともに、U. proliferaにおけるベクターベースのCRISPR-Cas9ゲノム編集のツールキットを拡充するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761435",
+    "title": "From chromosome-scale assembly to the mappable genome of rubber dandelion: chromosome reorganization, rubber-pathway coordination, and domestication traits",
+    "abstract": "Natural rubber supply depends almost entirely on one tropical tree, motivating development of temperate alternatives. Rubber dandelion (  Taraxacum kok-saghyz Rodin) is the leading candidate, with comparatively well characterized rubber biosynthesis pathways, but its large, repeat-rich genome has left breeding genomics far behind pathway biology. In response, we assembled OSU TarKok 3.0, a 1.19-Gb nuclear reference in which eight chromosome-scale scaffolds contain 98% of the sequence. Continuity within chromosomes improved markedly, with contig N50 rising from 1.3 to 37.8 Mb, and conserved gene-space recovery improved accordingly. Macrosynteny showed strong chromosome conservation within Taraxacum and, when compared to lettuce, displayed four nearly intact and four composite chromosomes, a signature compatible with descending dysploidy accompanied by rearrangement rather than a single end-to-end fusion. Across nine Cichorieae genomes, none of six surveyed rubber-related gene families was uniquely enlarged in rubber dandelion. Instead, a  cis -prenyltransferase locus, a rubber transferase activator, and three small rubber particle protein genes were enriched in underground tissues and grouped with rubber elongation factor in a latex-associated co-expression module, favoring coordinated pathway deployment over species-specific family expansion. Intersecting uniquely mappable and nonrepetitive sequence defined the mappable genome, approximately 210 Mb or 18% of the assembly, within which markers can be interpreted allelically. Mapping in an independent F₂ family of 83 plants identified a chromosome 1 locus for filled-seed production under restricted cross-pollination, whereas herbicide response yielded no significant locus in this design. OSU TarKok 3.0 links chromosome reorganization, pathway deployment, and domestication traits into one framework for improving an outcrossing crop.  Core Ideas  OSU TarKok 3.0 markedly improves within-chromosome continuity and conserved gene-space recovery. Repeat-aware defines a ∼210 Mb short-read mappable space (18% of the assembly), enabling reliable marker analysis. Four chromosomes retain conserved relationships, supporting dysploidy with rearrangement beyond simple fusion. No rubber-related gene family is uniquely expanded; rubber production reflects pathway coordination, not dosage. A chromosome 1 QTL for selfing-related filled-seed production overlaps the positional candidate  g7174 .  Plain Language Summary  As the global supply of natural rubber is dependent on one tropical tree, rubber dandelion has been proposed as a temperate alternative. Although scientists already understand many of the genes involved in its rubber production, breeding has been slowed by its large, highly repetitive genome. In response, we built OSU TarKok 3.0, a much more continuous genome that places 98% of the sequence on eight chromosomes. Comparison with related dandelions revealed broad chromosome conservation, while comparison with lettuce was consistent with rearrangements during the reduction from nine to eight chromosomes. Across nine members of the sunflower family, none of six rubber-related gene families were uniquely enlarged in rubber dandelion. Instead, genes involved in building rubber chains and particles were active together in underground tissues and latex-associated samples, suggesting that coordinated gene activity matters more than extra gene copies. We also identified ∼210 million base pairs, 18% of the genome, where short-read genetic markers can be interpreted reliably. Within that space, we mapped a chromosome 1 region associated with producing filled seed when cross-pollination was restricted. This region overlaps a candidate gene from a protein family involved in reproductive development in other plants, providing a testable target for improving seed production.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761435",
+    "date": "2026-10-27",
+    "authors": "Vargas-Mejía P, Gutierrez-Manriquez C, Anderson ES, Williams DR, Vega-Arreguín J, Fresnedo-Ramírez J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351741",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1193,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.761435"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d5c05ba94bb91eb724fab57ffa1a0c9eec90e24aafba10828ea1b5768f3e0e81",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:46:36.384605+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "96d2f7f06adbe748f3e7f2f5be7acac91c12605b80215cc47fb31a192252a2a8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:46:36.384605+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "染色体スケールの集合からゴムタンポポのマッピング可能なゲノムへ：染色体再編成、ゴム経路の協調、および栽培化形質",
+    "abstract_ja": "天然ゴムの供給はほぼ完全に単一の熱帯樹に依存しており、これが温帯地域における代替種の開発を後押ししている。ラバーダンデライオン（Taraxacum kok-saghyz Rodin）は、ゴム生合成経路が比較的よく解明されている有力な候補種であるが、その巨大で反復配列の多いゲノムゆえに、育種ゲノミクスは経路生物学の進展に大きく後れを取ってきた。これを受けて我々は、8つの染色体スケールのスキャフォールドに配列の98%が含まれる1.19 Gbの核リファレンスであるOSU TarKok 3.0を構築した。染色体内の連続性は著しく向上し、コンティグN50は1.3 Mbから37.8 Mbへと増加し、それに伴い保存遺伝子領域の回復も改善した。マクロシンテニー（Macrosynteny）はTaraxacum属内で強い染色体保存性を示し、レタスと比較すると、ほぼ完全な染色体を4本、複合染色体を4本保持していた。この特徴は、単一のエンドツーエンド融合ではなく、再編成を伴う下降性異数性（descending dysploidy）と整合するものである。9つのチコリエア（Cichorieae）属のゲノムにおいて、調査した6つのゴム関連遺伝子ファミリーのうち、ラバーダンデライオンにおいて特異的に拡大していたものはなかった。代わりに、シス-プレニルトランスフェラーゼ遺伝子座、ゴムトランスフェラーゼ活性化因子、および3つの小型ゴム粒子タンパク質遺伝子が地下組織で濃縮されており、ラテックス関連の共発現モジュールにおいてゴム伸長因子とグループ化されていた。これは、種特異的なファミリー拡大よりも、協調的な経路展開が優先されていることを示唆している。交差可能かつ非反復的な配列の交点を定義することで、アセンブリの約210 Mb（18%）に相当するマッピング可能なゲノムを特定し、その中でマーカーをアレルレベルで解釈することが可能となった。独立した83株からなるF₂系統でのマッピングにより、制限交配下での充填種子生産に関わる第1染色体遺伝子座が同定されたが、除草剤応答に関しては、この設計では有意な遺伝子座は得られなかった。OSU TarKok 3.0は、染色体再編成、経路展開、および栽培化形質を一つのフレームワークに統合し、他家受粉作物の改良を可能にする。核心的なアイデア：OSU TarKok 3.0は、染色体内の連続性と保存遺伝子領域の回復を著しく改善した。反復配列を考慮した解析により、約210 Mbのショートリード・マッピング可能領域（アセンブリの18%）が定義され、信頼性の高いマーカー解析が可能となった。4つの染色体は保存された関係性を維持しており、単純な融合を超えた再編成を伴う異数性を支持している。ゴム関連の遺伝子ファミリーで特異的に拡大しているものはなく、ゴム生産は投与量ではなく経路の協調を反映している。自家受粉に関連する充填種子生産の第1染色体QTLは、位置候補であるg7174と重複している。平易な言葉での要約：天然ゴムの世界的な供給が単一の熱帯樹に依存しているため、ラバーダンデライオンが温帯地域の代替種として提案されてきた。科学者はゴム生産に関与する多くの遺伝子をすでに理解しているが、巨大で反復配列の多いゲノムのため、育種は遅れていた。これを受けて我々は、配列の98%を8つの染色体に配置した、より連続性の高いゲノムであるOSU TarKok 3.0を構築した。関連するタンポポ類との比較では広範な染色体保存性が明らかになり、レタスとの比較では、9本から8本の染色体への減少過程における再編成と整合する結果が得られた。キク科の9種において、6つのゴム関連遺伝子ファミリーのうち、ラバーダンデライオンで特異的に拡大していたものはなかった。代わりに、ゴム鎖や粒子の構築に関与する遺伝子が、地下組織およびラテックス関連サンプルにおいて共に活性を示しており、余分な遺伝子コピーよりも協調的な遺伝子活性が重要であることが示唆された。また、ゲノムの18%にあたる約2億塩基対を特定し、そこではショートリード遺伝子マーカーを信頼性高く解釈できる。この領域内で、交配を制限した際に充填種子の生産に関連する第1染色体領域をマッピングした。この領域は、他の植物の生殖発達に関与するタンパク質ファミリーの候補遺伝子と重複しており、種子生産を改善するための検証可能な標的となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.24.761567",
+    "title": "FluxSprout: Single-cell metabolic modeling of vascular sprouting in zebrafish",
+    "abstract": "Genome-scale metabolic modeling offers a powerful framework for identifying cell-state-specific metabolic vulnerabilities, yet its application to heterogeneous biological systems remains limited by uncertainty in network annotations, thermodynamic feasibility, transcriptome-to-flux inference, and target specificity. Here, we introduce FluxSprout, a single-cell transcriptomics-informed genome-scale metabolic modeling framework to resolve metabolic heterogeneity during zebrafish sprouting angiogenesis. By integrating single-cell RNA sequencing of 10,090 quality-controlled cells with Zebrafish-GEM, we reconstructed network ensembles for 14 endothelial and hemogenic states. We established four safeguards: stoichiometric auditing, loop auditing, cell-cycle-controlled testing, and ensemble specificity screening. First, we identified four inorganic pyrophosphatase reactions misannotated as oxidative phosphorylation, showing that apparent pathway essentiality arose only with unbounded exchange fluxes. Second, 19.5% of reactions could carry thermodynamically infeasible loop flux, including every candidate of a conventional screen. Third, tip-like and stalk-like cells differed mainly in cell-cycle phase, and elevated glycolysis separated sprouting from established vessels only in gene expression. In contrast, sprouting vessels had higher predicted growth capacity at both constraint strengths, with serine and nucleotide synthesis following in fixed proportion. Fourth, screening 825 genes across four network-extraction settings and 13 non-endothelial lineages left no candidate called by more than one setting. Notably, SLC25A20, that screen’s lead candidate, had no predicted effect in any FASTCORE network. Although the data derive from a single pooled clutch and require experimental validation, FluxSprout provides a transferable, uncertainty-aware framework for distinguishing genuine metabolic dependencies from artifacts of network reconstruction, model assumptions, and cellular heterogeneity, and identifies biosynthetic capacity as a testable feature of sprouting vessels.",
+    "journal": "",
+    "doi": "10.64898/2026.10.24.761567",
+    "date": "2026-10-27",
+    "authors": "Zargar MR, Chowdhury R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351722",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genome",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1195,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.24.761567"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d7d4847096001f22486f885fa9ddfc56cc9a2b304af509c210dce3c1f22beea5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:46:36.384605+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "af0f40ca1c9fc09bd727139c6bdaac2f34ab2a53501612c177709d64112b219c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:46:36.384605+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FluxSprout: ゼブラフィッシュにおける血管新生の単一細胞代謝モデリング",
+    "abstract_ja": "ゲノムスケールの代謝モデリングは、細胞状態固有の代謝脆弱性を特定するための強力なフレームワークを提供するが、不均一な生物学的系への適用は、ネットワークアノテーションの不確実性、熱力学的実現可能性、トランスクリプトームからフラックスへの推論、および標的特異性といった要因によって依然として制限されている。本研究では、ゼブラフィッシュの萌芽血管新生における代謝不均一性を解消するための、シングルセルトランスクリプトミクスに基づくゲノムスケール代謝モデリングフレームワーク「FluxSprout」を提案する。品質管理済みの10,090個の細胞のシングルセルRNAシーケンシングをZebrafish-GEMと統合することで、14種類の内皮および造血状態に対するネットワークアンサンブルを再構成した。我々は、化学量論的監査、ループ監査、細胞周期制御テスト、およびアンサンブル特異性スクリーニングという4つのセーフガードを確立した。まず、酸化的リン酸化として誤アノテーションされていた4つの無機ピロリン酸化反応を特定し、見かけ上のパスウェイ必須性は無制限の交換フラックスが存在する場合にのみ生じることを示した。次に、従来のスクリーニングの全候補を含む19.5%の反応が、熱力学的に実現不可能なループフラックスを持ち得た。第三に、先端様細胞と茎様細胞は主に細胞周期相において異なり、解糖系の亢進は遺伝子発現においてのみ萌芽血管と既形成血管を区別した。対照的に、萌芽血管は両方の制約強度において予測成長能が高く、セリンおよびヌクレオチド合成が一定の比率でそれに続いた。第四に、4つのネットワーク抽出設定と13の非内皮系統にわたって825個の遺伝子をスクリーニングした結果、複数の設定で候補として検出された遺伝子はなかった。特筆すべきは、本スクリーニングのリード候補であるSLC25A20が、いかなるFASTCOREネットワークにおいても予測された効果を示さなかった点である。データは単一のプールされたクラッチに由来し、実験的な検証を必要とするが、FluxSproutは、真の代謝依存性をネットワーク再構成のアーティファクト、モデルの仮定、および細胞不均一性から区別するための、転移可能で不確実性を考慮したフレームワークを提供し、生合成能を萌芽血管の検証可能な特徴として特定する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760910",
+    "title": "Taxon-in-context reveals ecological individuality in the human gut microbiome",
+    "abstract": "ABSTRACT  Ecological theory holds that a microbe’s role depends on its surrounding community. Yet abundance profiles and fixed ecological groupings leave its individual context implicit. We introduce taxon-in-context, a reproducible representation of each microbe’s context within an individual’s microbiome. Across 7,700 metagenomes, we show that common gut species occupy different contexts in different people. This flexibility peaked in early life and declined through adulthood, a pattern reproduced in a larger genus-level compendium. For selected species, context within each person’s microbiome revealed age associations beyond species abundance and the person’s context mixture. In an independent longitudinal urinary tract infection cohort, microbes switched contexts within individuals. Taxon-in-context enabled recurrence prediction where an abundance based model performed near chance. Taxon-in-context and these findings expose a measurable, dynamic and individualized layer of microbiome organization, providing a basis for investigating why the same microbe or intervention may have different biological consequences across people.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760910",
+    "date": "2026-10-27",
+    "authors": "Gaudillo J, Astrologo N, Canonaco F, Stella F, Barbaresi S, Zelante T, Wopereis H, Cohen Y, Guyard C, Knol J, Lay C, Acerbi E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351551",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomes",
+        "microbe",
+        "microbes",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1200,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.760910"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2b799d0e85280c936e0e5fbda84693e746a2794952c463ac03c81069f8353f35",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:46:36.384605+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ced56f309dd11439d6cef06c6cb629603a035adafdf6e903312b36bf50c19629",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:46:36.384605+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Taxon-in-contextがヒト腸内細菌叢における生態学的個性を明らかにする",
+    "abstract_ja": "要旨　生態学理論では、微生物の役割はその周囲のコミュニティに依存するとされている。しかし、存在量プロファイルや固定的な生態学的グループ分けでは、個々のコンテキストが暗黙のうちに見落とされている。本研究では、個人のマイクロバイオーム内における各微生物のコンテキストを再現可能な表現として提示する「taxon-in-context」を提案する。7,700件のメタゲノム解析を通じて、腸内の共通種が個人によって異なるコンテキストを占めていることを示した。この柔軟性は生後早期にピークに達し、成人期にかけて低下するというパターンが、より大規模な属レベルの網羅的解析においても再現された。特定の種において、各個人のマイクロバイオーム内のコンテキストは、種の存在量や個人のコンテキスト混合物を超えた年齢関連を明らかにした。独立した縦断的尿路感染症コホートでは、微生物が個人内でコンテキストを切り替えていた。taxon-in-contextを用いることで、存在量に基づくモデルが偶然レベルに近い性能を示す再発予測が可能となった。taxon-in-contextおよびこれらの知見は、測定可能で動的かつ個別化されたマイクロバイオーム組織化の層を明らかにするものであり、同一の微生物や介入が個人によって異なる生物学的帰結をもたらし得る理由を究明するための基盤を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11237882/v1",
+    "title": "Structural analysis of the 5' terminal of human immunodeficiency virus type 1 genome RNAs transcribed from proviruses with mutations in the transcription start site",
+    "abstract": "Abstract  Recent studies have shown that the functional roles of RNAs transcribed from the transcription start site containing three G residues in human immunodeficiency virus type 1 (HIV-1) are regulated by their structural stability, which is determined by the number of G residues at the 5′ terminus. In contrast, most proviruses in newly infected cells generated by HIV-1 have been shown to retain mutations introduced at the transcription start site. When C or U mutations are introduced at the third G residue, transcription from that position is unlikely to occur, suggesting that transcription instead occurs from the first or second G residue. In the absence of mutations, these transcripts are thought to be used for translation rather than incorporated into genomic RNA. Therefore, the mechanisms by which the functions of these RNAs are determined remain unclear. In this study, we designed model RNAs containing mutations and analyzed their structures and stabilities. RNAs transcribed from the second G residue with GC or GU at the 5’-end formed stable structures similar to those of RNAs transcribed from the third G residue in the native virus, which functions as ic RNA. These results suggest that, in the presence of these mutations, RNA transcribed from the second G functions as genomic RNA.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11237882/v1",
+    "date": "2026-10-27",
+    "authors": "Kashiyama Y, Kawai G, Yoshida T, Suzuki Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351227",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1201,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11237882/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "be196bcee17e5026dc0119832a82464f9ffcd9060fd8bce3dcdf50ec5f97bead",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:46:36.384605+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "327ddc2dc5c4f6635c4e9abcc0b2087ac766a42f4724da1477dc84b0e45d7545",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:46:36.384605+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "転写開始部位に変異を有するプロウイルスから転写されたヒト免疫不全ウイルス1型ゲノムRNAの5'末端の構造解析",
+    "abstract_ja": "要旨 近年の研究により、ヒト免疫不全ウイルス1型（HIV-1）において3つのG残基を含む転写開始部位から転写されるRNAの機能的役割は、5′末端のG残基数によって決定される構造安定性によって制御されていることが示されている。これに対し、HIV-1によって生成された新規感染細胞におけるほとんどのプロウイルスは、転写開始部位に導入された変異を保持していることが示されている。3番目のG残基にCまたはU変異が導入されると、その位置からの転写は起こりにくく、代わりに1番目または2番目のG残基から転写が起こることが示唆される。変異がない場合、これらの転写産物はゲノムRNAに取り込まれるのではなく、翻訳に利用されると考えられる。したがって、これらのRNAの機能が決定されるメカニズムは依然として不明である。本研究では、変異を含むモデルRNAを設計し、その構造と安定性を解析した。5′末端にGCまたはGUを持つ2番目のG残基から転写されたRNAは、ic RNAとして機能する天然ウイルスの3番目のG残基から転写されたRNAと同様の安定な構造を形成した。これらの結果は、これらの変異が存在する場合、2番目のGから転写されたRNAがゲノムRNAとして機能することを示唆している。"
   }
 ]
