@@ -235788,5 +235788,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ニューサウスウェールズ州スノーウィー・モナロにおけるコアラレトロウイルスの動態",
     "abstract_ja": "コアラレトロウイルス（KoRV）は、外因性ウイルスから内因性エレメントへと移行する過程にあり、北部と南部のコアラ個体群間で明確なプロファイルを示す。北部の個体は、内因性KoRV-Aの高いプロウイルスコピー数と多様な外因性サブタイプを保有している一方、南部のコアラは一般的に、分解型および組換え型のウイルスのみを保有している。本研究では、北部と南部の個体群の接点に位置するニューサウスウェールズ州南部のスノーウィー・モナロ（SM）地域のコアラにおけるKoRVプロファイルを調査した。その結果、SMのコアラは、他の北部個体群のコアラよりもKoRV負荷量およびプロウイルスコピー数が少ないことが判明した。血漿RNAサブタイププロファイルは個体間で非常に一貫しており、すべての個体においてKoRV-Aの相対存在量は低く、サブタイプDおよびLの割合が高かった。このサブタイププロファイルのパターンは、他の調査対象となった個体群と比較して特異的であり、ニューサウスウェールズ州南部においてKoRV-Dおよび/またはLが内因性であるか、あるいは同地域のコアラにおいてKoRV-Aが実質的に抑制されていることを示唆している。こうした特異的なプロファイルにもかかわらず、他地域の知見と一致して、より高いKoRV負荷量はC. pecorumの排出と関連していた。さらに、KoRV負荷量は時間的に安定しており、野生下のコアラ、あるいは火災後に焼失した生息地から救出されリハビリテーションに導入されたコアラにおいて、経時的な一貫した変化は認められなかった。ニューサウスウェールズ州南部における疾患感受性にKoRVが果たす役割、およびKoRV-D/Lの内因化状態に関するさらなる研究は、レトロウイルス内因化のこのモデルに関する重要な知見を提供し、同地域におけるコアラの保全活動の指針となるであろう。重要性 分解型内因性レトロウイルスは、ヒトを含むすべての脊椎動物の遺伝的構成の半分以上を占めている。ほとんどの内因性レトロウイルスは古くから存在するが、コアラレトロウイルス（KoRV）は現在、コアラのゲノムに侵入しており、依然として疾患原因ウイルスとして存在している。本研究では、異なるKoRVパターンを示す北部と南部のコアラ個体群の接点であるニューサウスウェールズ州南部のコアラにおけるKoRVプロファイルを調査した。その結果、同地域は他の地域と比較して特異的なKoRVプロファイルを有する一方で、KoRVは時間的に安定しており、他地域で観察されるのと同様にクラミジア感染への感受性と関連していることを明らかにした。重要な点として、ニューサウスウェールズ州南部においてKoRV-A以外の追加的なサブタイプ（DおよびL）が内因性である可能性を示す証拠が得られ、KoRV内因化の進行中のプロセスに関する説得力のある知見が得られた。本研究は、レトロウイルス内因化のこのモデルシステムに関する理解を深めるだけでなく、現在は絶滅危惧種となっているコアラの保全活動にも資するものである。データ概要 サブタイプ保有を特定するために用いたKoRV env hypervariable領域のアンプリコンシーケンシングデータは、NCBI SRAデータベースのBioProject PRJNA1552261からアクセス可能である。コアラのメタデータ、KoRV負荷量、およびKoRVサブタイピングプロファイルについては、補足資料の表S1を参照されたい。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11401837/v1",
+    "title": "TileBac - an annotated ultralow-dose cryo-EM montage of bacterial membranes and flagella",
+    "abstract": "Abstract  Large-area cryogenic electron microscopy (cryo-EM) requires a tradeoff among field of view, acquisitiontime, and electron exposure. The goal is to mitigate this tradeoff by quickly collecting large fields of viewwith enough dose to detect features of interest using segmentation models but low enough dose to limitsample damage. The dataset presented here, TileBac, comprises two annotated cryo-EM datasets of Pantoeasp. YR343 collected with imaging conditions to achieve this goal. The first contains 2048 × 2048 pixel tilesderived from wide-field montages acquired at a total dose of 4 e−/Å2 with manual pixel-level annotationsof inner- and outer-membrane-enclosed regions. The second contains images acquired at a total dose of40 e−/Å2, with bacteria and flagella annotated as separate classes. These corresponding 40-frame moviesretain individual 1 e−/Å2 frames, allowing users to construct dose-dependent image series from the sameexposure. Images and annotations are distributed in standard MRC, PNG, YOLO, and COCO formats. Therecords are intended to support development and evaluation of segmentation, registration, stitched inference,and dose-dependent image-analysis methods for low-signal cryo-EM.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11401837/v1",
+    "date": "2026-10-30",
+    "authors": "Massenburg LN, Madugula SS, Brown SR, Bible AN, Harris CR, Retterer ST, Morrell-Falvey JL, Vasudevan RK, Williams AN.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353977",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2390,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11401837/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f449410b84d72e67ffc0ac6f949de9c764c09cb135442515d92be0c301cf8ceb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:51:04.879161+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "504e31537fa0a55fcba3162cdaf25ba73d4f67d24e8a868ec924bcfb2afbaff0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:51:04.879161+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TileBac - 細菌の細胞膜および鞭毛のアノテーション付き超低線量クライオ電子顕微鏡モンタージュ",
+    "abstract_ja": "要旨　大視野クライオ電子顕微鏡法（cryo-EM）では、視野、撮像時間、および電子線照射量のトレードオフが必要となる。本研究の目的は、セグメンテーションモデルを用いて関心対象の特徴を検出するのに十分な線量で大視野を迅速に取得しつつ、試料の損傷を抑えるために線量を十分に低く抑えることで、このトレードオフを軽減することである。本稿で提示するデータセットTileBacは、本目的を達成するための撮像条件下で収集されたPantoea sp.YR343のアノテーション済みcryo-EMデータセット2つで構成される。前者は、総線量4 e−/Å2で取得された広視野モンタージュから導出された2048 × 2048ピクセルのタイルを含み、内膜および外膜に囲まれた領域についてピクセルレベルの手動アノテーションが施されている。後者は、総線量40 e−/Å2で取得された画像であり、細菌と鞭毛が個別のクラスとしてアノテーションされている。これらの対応する40フレームの動画は、個々の1 e−/Å2フレームを保持しており、ユーザーは同一の露光から線量依存的な画像系列を構築することが可能である。画像およびアノテーションは、標準的なMRC、PNG、YOLO、およびCOCO形式で提供されている。本レコードは、低信号cryo-EMにおけるセグメンテーション、レジストレーション、スティッチド・インフィレンス、および線量依存的な画像解析手法の開発と評価を支援することを目的としている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11508835/v1",
+    "title": "Field deployable viral genomic surveillance using panviral integrated indexed primers",
+    "abstract": "Abstract  Rapid viral identification near the point of emergence could support outbreak investigation where sequencing infrastructure is limited. The Panviral integrated indexed Primer (PiiP) assay combines broadly reactive viral primers with integrated Oxford Nanopore indices and offline analysis. The workflow was evaluated using human, animal, and environmental samples from Cambodia and deployed with a portable laboratory at a live bird market under tropical conditions. Laboratory evaluation demonstrated detection across diverse sample matrices, although sensitivity varied by viral target and influenza subtype assignment was limited. During field deployment, environmental samples, including air samples, were processed on site, with initial viral read characterization available within 6.5 hours of sample receipt. The workflow reduces library preparation steps and enables same day viral screening outside centralized laboratories. These findings support further evaluation of PiiP for decentralized genomic surveillance, with confirmatory analysis required for uncertain taxonomic assignments.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11508835/v1",
+    "date": "2026-10-30",
+    "authors": "Fomsgaard AS, Meki IK, Auerswald H, Horwood PF, Hickson RI, Merritt B, Thielen P, Lamien CE, Karlsson EA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353929",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2391,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11508835/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f3544b67ee9ffabd3afda0a9c1ae0505b5c2bc9cc70ea1479106b1db9c31b120",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:51:04.879161+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "988f012a6780bba52336ecafb9141a30f4cd08e99bed152d4b3d7c570daf2c3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:51:04.879161+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "汎ウイルス統合インデックスプライマーを用いたフィールド展開可能なウイルスゲノムサーベイランス",
+    "abstract_ja": "要旨　発生地点付近での迅速なウイルス同定は、シーケンシング基盤が限られている状況におけるアウトブレイク調査に寄与し得る。Panviral integrated indexed Primer (PiiP) アッセイは、広範な反応性を有するウイルスプライマーに、統合されたOxford Nanoporeインデックスとオフライン解析を組み合わせたものである。本ワークフローは、カンボジアのヒト、動物、および環境試料を用いて評価され、熱帯条件下の生きた鳥類市場にポータブルラボを設置して展開された。ラボでの評価により、多様な試料マトリックスにわたる検出が実証されたが、感度はウイルス標的によって異なり、インフルエンザ亜型の同定は限定的であった。フィールド展開時には、空気試料を含む環境試料を現場で処理し、試料受領後6.5時間以内に初期のウイルスリード特性解析が可能であった。本ワークフローは、ライブラリ調製工程を削減し、中央集約型ラボ外での当日中のウイルススクリーニングを可能にする。これらの知見は、分散型ゲノムサーベイランスにおけるPiiPのさらなる評価を支持するものであり、不確実な分類学的割り当てについては確定解析が必要となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11322457/v1",
+    "title": "Longitudinal deterioration and rainfall-associated variation in the water quality of the Gosthani River, a small regulated river on the east coast of India: 13 monthly campaigns at ten stations",
+    "abstract": "Abstract    Small rivers carry land-based pollution to tropical coasts but are seldom monitored, so the reaches where deterioration begins are rarely known. We sampled ten main-stem stations of the Gosthani River, east coast of India, in 13 monthly campaigns (September 2025–September 2026) to locate deterioration hotspots and to identify what a fixed-station design can and cannot resolve. Water quality changed little above the Thatipudi reservoir but deteriorated steeply in the 30 km below it. Median biochemical oxygen demand (BOD) rose from 1.70 mg/L below the dam to 12.25 mg/L at the lowest riverine station. The geometric mean of  Escherichia coli  rose from 465 to 3,136 most probable number (MPN)/100 mL, and median dissolved-oxygen saturation fell to 63%. The largest increments were concentrated in two reaches containing towns and villages. In a screening comparison, BOD exceeded the national Class C value of 3 mg/L in every usable campaign at the four lowest stations, where ammonia-N formed 57–76% of inorganic nitrogen. Within stations, antecedent rainfall was associated with higher suspended solids and lower conductivity; with only 12–13 shared campaigns, these associations are exploratory. At the estuary, seawater formed less than 2% of the water, yet BOD and total phosphorus were 44–46% lower than upstream. Interpreting this contrast requires measurements of lateral inflow. The spatial pattern is consistent with wastewater-associated loading, but sources were not apportioned and discharge was not measured. Four stations captured the gradient. This supports a compact monitoring design that pairs these stations with discharge gauging and rainfall-timed sampling.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11322457/v1",
+    "date": "2026-10-30",
+    "authors": "Saradhi BV, abuqrian MMa.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353904",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [
+          "river",
+          "seawater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2392,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11322457/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cab77ce146980aef451fe9573ffb5c65e0d12f968aa7a6c18ff81ada82bae0f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:51:04.879161+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "26ba7bc1619c1fe3e27d43db4b15b522b3b82be83bde7513288a919e9ab16686",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:51:04.879161+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インド東海岸の小規模規制河川ゴスタニ川における水質の縦断的悪化と降雨に伴う変動：10観測地点における13回の月次調査",
+    "abstract_ja": "要旨    小規模河川は陸上の汚染物質を熱帯沿岸へと運ぶが、モニタリングが行われることは稀であるため、劣化が始まる区間が特定されることはほとんどない。本研究では、インド東海岸のゴスタニ川にある本流の10地点において、13回の月次調査（2025年9月～2026年9月）を実施し、劣化ホットスポットの特定と、固定観測所の設計で解決可能なことおよび解決できないことを明らかにした。水質はタティプディ貯水池より上流ではほとんど変化しなかったが、下流30kmの区間では急激に悪化した。生物化学的酸素要求量（BOD）の中央値は、ダム下流の1.70 mg/Lから、河川最下流観測所で12.25 mg/Lへと上昇した。大腸菌（Escherichia coli）の幾何平均は465から3,136最確数（MPN）/100 mLへと上昇し、溶存酸素飽和度の中央値は63%に低下した。最大の上昇は、町や村を含む2つの区間に集中していた。スクリーニング比較では、最も低い4地点のすべての有効調査回において、BODが国家基準のクラスC値である3 mg/Lを上回り、無機窒素の57～76%をアンモニア態窒素が占めていた。観測所内では、先行降雨が懸濁物質の増加および導電率の低下と関連していたが、共通の調査回が12～13回しかなかったため、これらの関連性は探索的なものである。河口域では、海水が占める割合は2%未満であったが、BODおよび全リン量は上流よりも44～46%低かった。この対比を解釈するには、側方流入量の測定が必要である。空間的なパターンは廃水に伴う負荷と整合しているが、発生源の特定は行われておらず、流量の測定も実施されていなかった。4地点で勾配が捕捉された。このことは、これらの観測所に流量測定および降雨連動型サンプリングを組み合わせた、コンパクトなモニタリング設計を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11313159/v1",
+    "title": "SCMG: A Multi-Omics and Stage-Resolved Single-Cell Framework for Cancer Driver Gene Prioritization",
+    "abstract": "Abstract  Background  Cancer driver gene prioritization largely relies on bulk molecular profiles, leaving epithelial transcriptional changes across disease stages underused. Results  We present Single-Cell Multi-omics Graph (SCMG), a graph-learning framework integrating bulk mutation, DNA methylation and gene expression with stage-resolved epithelial single-cell data and biological interaction networks. SCMG outperformed five comparison methods across six networks and achieved the highest area under the precision–recall curve in nine of 15 cancer types and the highest area under the receiver operating characteristic curve in seven. Ablation analyses supported contributions from single-cell features, network propagation and multimodal integration. External catalogue evaluation showed enrichment for driver genes outside the training positive-label set. Combining prediction scores with a background-corrected measure of stage-associated expression change organized high-scoring candidates into two groups with contrasting expression patterns. Their gene-expression signatures were associated with patient outcomes, while an external cutaneous squamous cell carcinoma cohort supported disease-associated expression of selected candidates. Conclusions  SCMG provides a framework for integrating stage-resolved epithelial context into cancer driver gene prioritization and interpreting candidate rankings.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11313159/v1",
+    "date": "2026-10-30",
+    "authors": "Zhang S, Xing D, Li Y, Du W, Zhang Y, Wang Y, Yang W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353902",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2393,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11313159/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dfa57bae7ca595e040930fbeac4d60e6c4dc52a117a5826d7e470c541652f3de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:51:04.879161+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa9f1044762b9c6f3a160f0172730f4df4713a6e0d5f03b34b153e9ebc328a92",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:51:04.879161+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SCMG: がんドライバー遺伝子の優先順位付けのためのマルチオミクスおよびステージ分解能シングルセルフレームワーク",
+    "abstract_ja": "要旨  背景  がんドライバー遺伝子の優先順位付けは主にバルク分子プロファイルに依存しており、疾患ステージごとの上皮転写変化が十分に活用されていない。結果  本研究では、バルク変異、DNAメチル化、および遺伝子発現を、ステージ分解の上皮単一細胞データおよび生物学的相互作用ネットワークと統合するグラフ学習フレームワーク「Single-Cell Multi-omics Graph (SCMG)」を提案する。SCMGは、6つのネットワークにおいて5つの比較手法を上回り、15種類のがんのうち9種類で適合率-再現率曲線下面積が最大となり、7種類で受信者動作特性曲線下面積が最大となった。アブレーション解析により、単一細胞特徴量、ネットワーク伝播、およびマルチモーダル統合の寄与が確認された。外部カタログによる評価では、学習用ポジティブラベルセット外のドライバー遺伝子の濃縮が認められた。予測スコアとバックグラウンド補正済みのステージ関連発現変化指標を組み合わせることで、高スコアの候補を、対照的な発現パターンを持つ2つのグループに分類した。これらの遺伝子発現シグネチャーは患者の転帰と関連しており、また、外部の皮膚扁平上皮癌コホートにおいて、選定された候補の疾患関連発現が裏付けられた。結論  SCMGは、ステージ分解の上皮コンテキストをがんドライバー遺伝子の優先順位付けおよび候補ランキングの解釈に統合するためのフレームワークを提供する。"
   }
 ]
