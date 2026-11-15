@@ -254944,5 +254944,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "インド・アーメダバードの生物医学廃棄物処理施設におけるバイオエアロゾル中のグラム陰性菌のカルバペネム耐性",
     "abstract_ja": "薬剤耐性（AMR）は世界的な公衆衛生上の懸念事項であり、グラム陰性カルバペネム耐性菌（CRG）はWHOによって最優先病原体に分類されている。生物医学廃棄物処理施設（BMW）は耐性菌のリザーバーとなり得、職業的および地域社会へのリスクをもたらす。本研究では、インド・グジャラート州アーメダバードのBMW施設から採取したバイオエアロゾルにおけるグラム陰性カルバペネム耐性菌の表現型および遺伝子型の特性解析を行った。バイオエアロゾルのサンプリングには、能動的な6段階アンデルセン・インパクターおよび受動的な沈降プレートを用いた。分離株はMALDI-TOF法により同定し、続いて薬剤感受性試験（AST）を実施した。代表的な26株の分離株に対して全ゲノムシーケンシング（WGS）を行い、CARDおよびResFinderデータベースを用いて耐性遺伝子プロファイリングを実施した。代表的な分離株は、モラクセラ科、腸内細菌科、およびシュードモナス科に属していた。すべての菌種がリネゾリド耐性を示し、約60%がカルバペネム系、セファロスポリン系、およびフルオロキノロン系薬剤に対して多剤耐性を有していた。遺伝子型解析により、カルバペネマーゼ遺伝子の保有が確認された。最も頻度が高かったのはblaNDM-1であり、次いでblaNDM-7、blaVIM-2、blaVIM-11、blaOXA-23、およびblaOXA-235の順であった。本報告は、BMW施設のバイオエアロゾルからAcinetobacter baumannii、A. schindleri、A. towneri、Klebsiella pneumoniae、およびPseudomonas juntendiを検出した初の報告である。生物医学廃棄物環境は、AMRの重要なリザーバーとなる。これらの知見は、サーベイランス、防護措置、および環境中のAMRモニタリングの公衆衛生政策への統合の必要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag797",
+    "title": "Multi-view state-space modeling for zero-shot circRNA-miRNA interaction prediction.",
+    "abstract": "MotivationCircRNA-miRNA interactions (CMIs) play regulatory roles in human diseases and provide clues for therapeutic target discovery. However, most existing prediction methods rely on circRNA-miRNA pairs and overlook disease-level regulatory contexts, which limits their ability to characterize cross-pathway dependencies in zero-shot inference.ResultsWe propose MV-S2M, a multi-view state-space modeling framework that integrates molecular attributes to enhance relational reasoning, enabling zero-shot CMI prediction. Specifically, MV-S2M performs structure-aware diffusion to enrich molecular priors and constructs disease-mediated semantic subgraphs. It then incorporates state-space modeling to capture long-range dependencies and view-specific regulatory patterns. The learned multi-view representations are fused through a linear projection and fed into an MLP for CMI prediction. Extensive experiments on multiple benchmark datasets demonstrate that MV-S2M achieves state-of-the-art performance under both zero-shot and conventional settings. Cold-start evaluations reveal distinct generalization behavior across different unseen-entity settings. Case studies illustrate the contribution of meta-path-guided semantic subgraphs to CMI prediction.Availability and implementationThe code and data are publicly available at https://github.com/591286260/MV and https://doi.org/10.5281/zenodo.22858403.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag797",
+    "date": "2026-11-01",
+    "authors": "Wei MM, Wang L, Huang YA, Huang ZA, Hu PW, You ZH.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42929772",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739044",
+    "pmid": "42929772",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4761,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/bioinformatics/btag797"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e2e4c61ae379d05ef92877bba570155a9b612970232e76c126775296d0d8ef8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:19:37.666984+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f8f7b806f9a86a79a7b91271ef01efcb1a4b2fbab6023716f8d7f94fd05addd2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:19:37.666984+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゼロショットcircRNA-miRNA相互作用予測のためのマルチビュー状態空間モデリング",
+    "abstract_ja": "動機CircRNA-miRNA相互作用（CMI）は、ヒト疾患の調節的役割を担っており、治療標的探索の手がかりとなる。しかし、既存の予測手法の多くはcircRNA-miRNAペアに依存しており、疾患レベルの調節コンテキストを見落としているため、ゼロショット推論におけるクロスパスウェイ依存性の特性評価に限界がある。結果我々は、分子属性を統合して関係推論を強化し、ゼロショットCMI予測を可能にするマルチビュー状態空間モデリングフレームワーク「MV-S2M」を提案する。具体的には、MV-S2Mは構造認識型拡散計算を用いて分子事前分布を拡充し、疾患介在性の意味的サブグラフを構築する。次いで、状態空間モデリングを組み込むことで、長距離依存性とビュー固有の調節パターンを捉える。学習されたマルチビュー表現は、線形射影によって融合され、MLPに入力されてCMI予測が行われる。複数のベンチマークデータセットを用いた広範な実験により、MV-S2Mがゼロショットおよび従来設定の双方において最先端の性能を達成することが実証された。コールドスタート評価では、未知エンティティ設定の違いに応じて異なる汎化挙動が明らかになった。ケーススタディでは、メタパスガイド型意味的サブグラフがCMI予測に寄与することが示されている。利用可能性と実装コードおよびデータは、https://github.com/591286260/MV および https://doi.org/10.5281/zenodo.22858403 で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bib/bbag633",
+    "title": "GLAlign integrates single-cell multi-omics data via global manifold and local marker gene alignment.",
+    "abstract": "Integrating heterogeneous single-cell multi-omics datasets remains challenging because different modalities are measured in distinct feature spaces and lack cell level pairing. Existing manifold alignment or feature conversion framework are often affected by weak cross-modality associations, geometric ambiguity, and overcorrection. Here we present GLAlign (Global manifold and Local marker gene Alignment), an optimization framework that jointly leverages global manifold structure and local marker gene information to integrate single-cell multi-omics data. GLAlign learns a shared latent space through a global objective comprising maximum mean discrepancy, distortion, and penalty terms, together with a local contrastive triplet loss guided by cross-modality marker gene overlap between independently inferred clusters. We demonstrate GLAlign's methodological contribution in extending the manifold alignment by biologically informed prior to ensure geometrically plausible and biologically correct alignments without requiring paired cells or manual cell type annotations. We evaluated GLAlign on simulated data and real datasets spanning PBMC scRNA-seq/scATAC-seq, mouse brain SNARE-seq, single-donor and multi-batch CITE-seq, and NCI-N87 scDNA-seq/scRNA-seq integration. Across the evaluated datasets, GLAlign achieved strong modality mixing and biological conservation, remained stable under moderate cell type imbalance and variations in clustering and marker information, and supported cross-modality label transfer and paired cell recovery. These results demonstrate that biologically structured coupling of global and local alignment provides an interpretable framework for heterogeneous single-cell multi-omics integration. GLAlign is freely available at https://github.com/Bateer-Bio/GLAlign.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag633",
+    "date": "2026-11-01",
+    "authors": "Ba T, Hu M, Liu S, Zhang L, Chai L, Li Z, Gao C, Wang Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43021602",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43021602",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "alignment",
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4748,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/bib/bbag633"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4a979769f28ecf0dd387d0e1b097c164a9d4991a6cea26dd79ca87bdd3e6bc23",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:19:37.666984+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e2a5dd6a098db3c5c3572767c38b71acf33a09b755b4a270a125e18bb9261400",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:19:37.666984+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GLAlignは、グローバルマニフォールドと局所マーカー遺伝子アライメントにより、シングルセルマルチオミクスデータを統合する。",
+    "abstract_ja": "異種シングルセルマルチオミクスデータセットの統合は、異なるモダリティがそれぞれ異なる特徴空間で測定されており、細胞レベルのペアリングが欠如しているため、依然として困難な課題である。既存のマニフォールドアライメントや特徴量変換フレームワークは、多くの場合、弱いクロスモダリティ間の関連性、幾何学的な曖昧性、および過剰補正の影響を受けやすい。本研究では、グローバルマニフォールド構造とローカルマーカー遺伝子情報を同時に活用してシングルセルマルチオミクスデータを統合する最適化フレームワーク、GLAlign（Global manifold and Local marker gene Alignment）を提案する。GLAlignは、最大平均不一致量、歪み量、およびペナルティ項からなるグローバル目的関数と、独立して推定されたクラスター間のクロスモダリティマーカー遺伝子の重複に基づくローカル対照トリプレット損失を通じて、共有潜在空間を学習する。我々は、ペアセルや手動による細胞種アノテーションを必要とせず、生物学的に妥当かつ生物学的に正しいアライメントを確保するために、生物学的知見に基づく事前知識を用いてマニフォールドアライメントを拡張するという、GLAlignの方法論的な貢献を実証する。我々は、PBMC scRNA-seq/scATAC-seq、マウス脳SNARE-seq、シングルドナーおよびマルチバッチCITE-seq、ならびにNCI-N87 scDNA-seq/scRNA-seq統合にわたるシミュレーションデータおよび実データセットを用いてGLAlignを評価した。評価したデータセット全体において、GLAlignは強力なモダリティ混合と生物学的保存性を達成し、中程度の細胞種不均衡やクラスタリングおよびマーカー情報の変動下でも安定しており、クロスモダリティラベル転送およびペアセルの復元をサポートした。これらの結果は、グローバルアライメントとローカルアライメントの生物学的に構造化された結合が、異種シングルセルマルチオミクス統合のための解釈可能なフレームワークを提供することを示している。GLAlignは、https://github.com/Bateer-Bio/GLAlign で無償で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1101/gr.281046.125",
+    "title": "Nanopore sequencing identifies high-frequency somatic structural variations in laryngeal squamous cell carcinoma genomes.",
+    "abstract": "Laryngeal squamous cell carcinoma (LSCC) is an aggressive cancer associated with poor quality of life. Understanding the somatic mutations in its genome is crucial for elucidating its occurrence and progression. Although somatic structural variations (SVs) have been documented in LSCC, conventional short-read sequencing lacks the sensitivity to effectively detect high-frequency SVs, variants that play a crucial role in tumorigenesis, shared across multiple samples. Here, we present SomaGauss-SV, a somatic SV detection workflow leveraging nanopore long-read sequencing data. Benchmarking against five paired tumor cell line data sets shows SomaGauss-SV consistently achieves a balanced high precision and recall. SomaGauss-SV applied to 15 paired LSCC tumor-blood samples uncovers a comprehensive SV landscape and reveals a significant positive correlation between somatic deletion burden and smoking intensity. Furthermore, a high-frequency somatic simple repeat expansion is identified in 28/39 (71.79%) of LSCC patients, which upregulates the expression of genes TP53BP2 and FBXO28 through spatial proximity. These findings underscore the potential of long-read sequencing and SomaGauss-SV for uncovering recurrent somatic SVs in LSCC, providing valuable resources for biomarker discovery.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.281046.125",
+    "date": "2026-11-03",
+    "authors": "Liu X, Xia L, Qiao Y, Li Y, Huang Y, Yue B, Liang X, Yang X, Zhang H, Zhang J, Chen X, Xie D, Liu J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/41951434",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739014",
+    "pmid": "41951434",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "sequencing",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4737,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1101/gr.281046.125"
+    ],
+    "translation": {
+      "title": {
+        "hash": "307238f17fa0b30aabb2a01743e4dabaa547a44f40ed12375ad823908eaf0e1c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:19:37.666984+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6ea7c882d033cfb9c75efc10e2fff158223b4d273140d9721b6d6a1b4a141785",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:19:37.666984+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ナノポアシーケンシングにより、喉頭扁平上皮癌ゲノムにおける高頻度の体細胞構造変異が同定された。",
+    "abstract_ja": "喉頭扁平上皮癌（LSCC）は、生活の質の低下を伴う悪性度の高い癌である。その発生と進展を解明するには、ゲノムにおける体細胞変異を理解することが極めて重要である。LSCCでは体細胞構造変異（SV）が報告されているが、従来のショートリードシーケンシングでは、複数の検体で共有され、腫瘍形成に重要な役割を果たす高頻度SVを効果的に検出するための感度が不足している。本研究では、ナノポアロングリードシーケンシングデータを活用した体細胞SV検出ワークフローであるSomaGauss-SVを提案する。5組の腫瘍細胞株データセットを用いたベンチマークの結果、SomaGauss-SVは一貫してバランスの取れた高い精度と再現率を達成した。15組のLSCC腫瘍・血液検体にSomaGauss-SVを適用したところ、包括的なSVランドスケープが明らかになり、体細胞欠失負荷と喫煙強度との間に有意な正の相関が認められた。さらに、LSCC患者の39例中28例（71.79%）において高頻度の体細胞単純反復配列伸長が同定され、これが空間的な近接性を通じてTP53BP2およびFBXO28遺伝子の発現を亢進させている。これらの知見は、LSCCにおける反復性体細胞SVの解明におけるロングリードシーケンシングおよびSomaGauss-SVの可能性を強調するものであり、バイオマーカー探索のための貴重なリソースとなる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00561-26",
+    "title": "Generation of a fully infectious SARS-CoV-2 encoding an internally tagged nsp3.",
+    "abstract": "The analysis of coronavirus replicase proteins during authentic infection is experimentally challenging, particularly for large and essential components embedded within virus-induced replication organelles. Non-structural protein 3 (nsp3), the largest coronavirus replicase protein, plays a central role in replication organelle formation, but has remained difficult to genetically manipulate. Here, we generated a fully infectious recombinant SARS-CoV-2 encoding an internal ALFA epitope tag upstream of the Mac1 domain within nsp3 (rALFA). Growth kinetics analyses demonstrated that rALFA replicated with kinetics and peak titers comparable to those of untagged recombinant SARS-CoV-2, and retained lytic infection. Tagged nsp3 displayed subcellular localization patterns equal to those observed in infections with untagged virus, and nanobody-based detection enabled robust visualization of nsp3 in infected cells. This internally tagged SARS-CoV-2 establishes a useful experimental platform for future analyses of nsp3 localization and replication organelle dynamics under authentic infection conditions, and provides a foundation for subsequent functional studies.IMPORTANCEThe manuscript presents a practical tool that advances coronavirus methodology.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00561-26",
+    "date": "2026-11-02",
+    "authors": "Uebler L, Sandmann M, Pekarek N, Berger J, Lütgehetmann M, Diercks B-P, von Possel R, Emmerich P, Fliegert R, Pfefferle S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969494",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969494",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4744,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1128/spectrum.00561-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dd4ceecf0dd8d653ba6d6bc686f0bbaca6b081d1200deb25ec589f8eaa4e83fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:19:37.666984+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "084e88e54e362103296a1881f5ce2f43ea009c333f4c5fec6c6ae55ceea03314",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:19:37.666984+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "内部的にタグ付けされたnsp3をコードする、完全感染性のSARS-CoV-2の生成。",
+    "abstract_ja": "真正感染におけるコロナウイルス複製酵素タンパク質の解析は、特にウイルス誘導性の複製オルガネラに組み込まれた大型かつ必須の構成要素において実験的に困難である。最大のコロナウイルス複製酵素タンパク質である非構造タンパク質3（nsp3）は、複製オルガネラ形成において中心的な役割を果たすが、遺伝学的な操作は依然として困難であった。本研究では、nsp3内のMac1ドメイン上流に内部ALFAエピトープタグをコードする、完全感染性の組換えSARS-CoV-2（rALFA）を作製した。増殖速度論的解析により、rALFAはタグ未付与の組換えSARS-CoV-2と同等の速度論およびピーク力価で複製し、溶菌感染能を保持することが示された。タグ付きnsp3は、タグ未付与のウイルス感染で観察されるものと同等の細胞内局在パターンを示し、ナノボディを用いた検出により、感染細胞内におけるnsp3の堅牢な可視化が可能となった。この内部タグ付きSARS-CoV-2は、真正感染条件下におけるnsp3の局在および複製オルガネラの動態に関する今後の解析のための有用な実験プラットフォームを確立し、後続の機能研究の基盤となるものである。重要性：本論文は、コロナウイルスの解析手法を進展させる実用的なツールを提示するものである。"
   }
 ]
