@@ -247388,5 +247388,337 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "HGVD：遺伝的多様性を有する日本人4,344例のシーケンシングによるHuman Genetic Variation Database 2026年版。",
     "abstract_ja": "集団規模のゲノムリソースは依然として欧州系祖先に偏っており、代表性の低い集団における変異の解釈を制限している。本研究では、2013年に公開された無料の日本語アレル頻度リソースであるHuman Genetic Variation Database（HGVD）を拡充した。HGVD v3.1は、遺伝的多様性を網羅するため、主成分分析（PCA）で選定した日本人3,135名の全ゲノムシーケンシング（WGS）データを含む1,209個のエキソームを統合しており、4,344名の集約変異統計、3,248名のジェノタイプ判定済み個体、および300名の発現量的形質遺伝子座（eQTL）を提供している。研究および臨床利用向けに、HGVDはGRCh37/hg19、GRCh38/hg38、およびT2T-CHM13の連携したJBrowseベースのブラウザを提供している。非GRCh37変異トラックは、GRCh37コールセットからliftOverによって生成された。変異頻度、サンプル数、およびカバレッジはアセンブリ全体で利用可能である一方、eQTLアノテーションは現在hg19でのみ利用可能である。ダウンロード可能なグラフゲノム対応の構造変異リリースが提供されており、新しいpathSTRポータルでは、1000 Genomes Projectの1,019名のロングリードOxford NanoporeデータにSTRdustを適用してT2T-CHM13にリマップし、医学的に関連のある68個のタンデムリピート遺伝子座の集団レベルの分布を報告している。HGVD v3.1は、希少な病原性および薬理ゲノム変異の集団マッチングによる解釈、リピート伸長アレルとロングリード参照分布の比較、および構造変異を考慮した参照配列の構築をサポートし、日本および東アジア集団における精密医療を支援する。HGVDはhttps://www.hgvd.genome.med.kyoto-u.ac.jp/で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1972752",
+    "title": "SOS-independent prophage induction pathways and their contributions to antibiotic resistance gene dissemination: advances and controversies.",
+    "abstract": "Temperate bacteriophages integrate into bacterial chromosomes as prophages, which are widespread across sequenced bacterial genomes and serve as key mobile genetic elements mediating horizontal gene transfer and the global dissemination of antibiotic resistance genes (ARGs). For decades, prophage induction has been thought to rely almost entirely on the canonical SOS DNA damage response triggered by DNA-damaging agents such as fluoroquinolones and mitomycin C; however, accumulating experimental evidence shows that multiple SOS-independent regulatory circuits also drive the lysogeny-to-lysis switch in response to non-DNA-damaging physiological and environmental cues. In this mini-review, we classify SOS-independent prophage induction pathways into five major categories: quorum sensing-mediated regulation, metabolic and oxidative stress-triggered activation, induction by sub-inhibitory concentrations of non-DNA-damaging antibiotics, spontaneous induction driven by stochastic gene expression noise, and modulation by physiological and environmental factors such as bile acids and osmotic stress. We summarize the molecular basis of each pathway and examine available empirical evidence linking these induction routes to phage-mediated ARG dissemination across clinical, intestinal, and environmental microbial ecosystems. We further outline four core unresolved debates in the field: the relative quantitative contribution of SOS-independent versus SOS-dependent induction to resistance spread, the mechanistic classification of sub-inhibitory antibiotic effects, the gap between bioinformatic predictions of prophage-associated ARGs and their functional transmissibility, and the limited taxonomic scope of current mechanistic research. We conclude by discussing implications for antimicrobial resistance stewardship and highlighting priority directions for future quantitative and functional investigations.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1972752",
+    "date": "2026-10-22",
+    "authors": "Sima J, Li S, Bian Q, Chen Y, Ji S, Yan Y, Zhao Z, Liu A, Shi X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43032091",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "43032091",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "microbial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4668,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.3389/fmicb.2026.1972752"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e257ff24176f84e7a5681d24b36b6bbdc3899798ff3a9dade74359eff3b99277",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:17:55.066236+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2d44ff0ad3cd6d9c511ea1a61917a4e593c243d066d2ebcc63808ecc5e86a699",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:17:55.066236+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SOS非依存的なプロファージ誘導経路と抗生物質耐性遺伝子の拡散への寄与：進展と論争",
+    "abstract_ja": "温性バクテリオファージは、プロファージとして細菌染色体に組み込まれ、配列決定された細菌ゲノムに広く分布し、水平遺伝子伝達や抗生物質耐性遺伝子（ARG）の世界的な拡散を媒介する重要な可動性遺伝要素として機能している。数十年にわたり、プロファージの誘導は、ほぼ完全にフルオロキノロン系やマイトマイシンCなどのDNA損傷剤によって誘発される古典的なSOS DNA損傷応答に依存していると考えられてきたが、蓄積されつつある実験的証拠により、非DNA損傷性の生理的・環境的シグナルに応答して、複数のSOS非依存性調節回路も溶原性から溶菌への切り替えを駆動していることが示されている。本ミニレビューでは、SOS非依存性プロファージ誘導経路を、クオラムセンシング介在性調節、代謝および酸化ストレス誘発性活性化、非DNA損傷性抗生物質の亜阻害濃度による誘導、確率的な遺伝子発現ノイズによる自発的誘導、および胆汁酸や浸透圧ストレスなどの生理的・環境的因子による調節という5つの主要カテゴリーに分類する。各経路の分子基盤を概説し、これらの誘導経路を、臨床、腸内、および環境微生物生態系におけるファージ媒介性ARG拡散に結びつける利用可能な実証的証拠を検討する。さらに、この分野における未解決の4つの核心的な論争、すなわち、耐性拡散に対するSOS非依存性誘導とSOS依存性誘導の相対的な量的寄与、亜阻害性抗生物質効果の機序的分類、プロファージ関連ARGのバイオインフォマティクス予測とその機能的伝播性との間の乖離、および現在の機序研究における分類学的範囲の限定について概説する。最後に、薬剤耐性管理への示唆について論じ、今後の定量的および機能的研究における優先的な方向性を強調して締めくくる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2623866123",
+    "title": "piRNA loss unleashes episodic transposition bursts.",
+    "abstract": "In Metazoa, transposon expression is suppressed by the piRNA pathway, and disruption of this pathway leads to rampant transposon expression. However, it remains unclear whether increased transposon expression results in actual transposition, and if so, which and how frequently transposons mobilize upon piRNA loss. Here, we developed a framework to track transposon copy accumulation across generations on a single set of nonrecombining haploid genome in the Drosophila male germline, with or without the piRNA biogenesis factor HP1D/Rhino. Single-fly Nanopore DNA sequencing revealed that multiple transposon families mobilized after 10 to 45 generations of piRNA loss. Among them, the most prolific across all replicates was copia, producing dozens of new insertions that were distributed across chromosome arms. With genomic DNA collected at every generation, we validated and dated each copia insertion, revealing episodic bursts of transposition that deviated strongly from a Poisson process. Using phylogenetic analysis, we further showed that multiple copia loci-both autonomous and nonautonomous copies-can mobilize. Interestingly, two additional transposon families, mdg3 and invader3, also mobilized episodically, but with distinct timing and magnitude, highlighting the stochastic nature of transposition bursts. Because we did not observe a single transposition event for these elements in controls, our results provide direct evidence that the piRNA pathway tightly suppresses germline transposition. More importantly, our findings argue that disruption of the piRNA pathway does not simply elevate transposition rates, but it instead unleashes punctuated and stochastic bursts of transposon movement that may radically reshape the timing and magnitude of mutational input during evolution.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2623866123",
+    "date": "2026-10-28",
+    "authors": "Chen P, Xu P, Waseem H, McCormick J, Pan KC, Aravin AA, Clark AG, Feschotte C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949961",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42949961",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4636,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1073/pnas.2623866123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ca990448189f7c5ee34f5452c4cbfb79845098264d27cc43fef793917addc40b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:17:55.066236+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "be59be0b23055324f798548539121389a31fad6e7a9cf6c03cf4a3f07858322b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:17:55.066236+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "piRNAの喪失は、エピソード的な転位バーストを誘発する。",
+    "abstract_ja": "後生動物では、トランスポゾンの発現はpiRNA経路によって抑制されており、この経路の破綻はトランスポゾンの発現の暴走を招く。しかし、トランスポゾンの発現増加が実際に転移をもたらすのか、また、もしそうであれば、piRNAの喪失に伴いどのトランスポゾンがどの程度の頻度で動員されるのかは不明である。ここで我々は、ショウジョウバエ雄生殖細胞系列の単一の非組換え半数体ゲノムにおいて、piRNA生合成因子HP1D/Rhinoの有無にかかわらず、世代をまたいでトランスポゾンコピーの蓄積を追跡するフレームワークを開発した。単一個体のNanopore DNAシーケンシングにより、piRNA喪失から10～45世代後に複数のトランスポゾンファミリーが動員されることが明らかになった。その中で、すべてのレプリケートで最も増殖が激しかったのはコピアであり、数十個の新規挿入が生成され、それらは染色体腕全体に分布していた。各世代で収集したゲノムDNAを用いて、各コピア挿入を検証し年代を特定したところ、ポアソン過程から大きく逸脱したエピソード的な転移バーストが明らかになった。系統解析を用いて、さらに複数のコピア遺伝子座（自律型および非自律型コピーの両方）が動員され得ることを示した。興味深いことに、mdg3とinvader3という2つの追加のトランスポゾンファミリーもエピソード的に動員されたが、そのタイミングと規模は異なっており、転移バーストの確率的な性質が浮き彫りになった。対照群ではこれらの要素について単一の転移事象が観察されなかったため、我々の結果は、piRNA経路が生殖細胞系列の転移を強力に抑制しているという直接的な証拠となる。さらに重要なことに、我々の知見は、piRNA経路の破綻が単に転移率を上昇させるのではなく、むしろ断続的かつ確率的なトランスポゾン移動のバーストを引き起こし、それが進化過程における変異入力のタイミングと規模を根本的に変化させる可能性があることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aei7541",
+    "title": "Reciprocal control of genome instability and RNA processing in cancer: Mechanisms and therapeutic opportunities.",
+    "abstract": "Genomic instability and dysregulated RNA processing are each recognized as core hallmarks of cancer, but accumulating evidence indicates that they are mechanistically intertwined rather than independent features. Chromosomal instability, mismatch-repair deficiency, and homologous recombination deficiency can reshape RNA splicing, 3' end formation, and RNA surveillance through changes in gene dosage, DNA damage signaling, and alterations in regulatory elements. Conversely, aberrant splicing, polyadenylation, and RNA modifications can impair DNA repair, perturb mitotic control, and promote replication stress, thereby reinforcing genomic instability. This bidirectional circuit drives clinically relevant phenotypes, including therapeutic resistance, immune modulation, and emergent vulnerabilities that are not captured by DNA-centric biomarkers alone. Here, we present a unified framework for the genome instability-RNA processing axis and its direct clinical implications for cancer diagnosis, treatment stratification, and therapeutic exploitation, highlighting the most actionable mechanistic interfaces and discussing how integrated DNA-RNA biomarkers and rational combination strategies could extend precision oncology beyond static genomic lesions.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei7541",
+    "date": "2026-11-06",
+    "authors": "Grieco M, Giugliano F, Guccione E, Vitale I, Cereda M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993846",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13742172",
+    "pmid": "42993846",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "RNA",
+        "framework",
+        "genome",
+        "genomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4710,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1126/sciadv.aei7541"
+    ],
+    "translation": {
+      "title": {
+        "hash": "75adce269d06eca7e61541d3f957d3e164078fac5c4674823ccfbb36bf470fac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:17:55.066236+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "61e2a799259b56aff85a3498c9894984c948455df585df1b8fb1cbdd63d86370",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:17:55.066236+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "がんにおけるゲノム不安定性とRNAプロセシングの相互制御：メカニズムと治療の可能性",
+    "abstract_ja": "ゲノム不安定性とRNAプロセシングの調節不全は、それぞれがんの中核的な特徴として認識されているが、蓄積されつつあるエビデンスは、これらが独立した特徴ではなく、機序的に相互に関連していることを示している。染色体不安定性、ミスマッチ修復不全、および相同組換え不全は、遺伝子量、DNA損傷シグナル伝達、および調節エレメントの変化を通じて、RNAスプライシング、3'末端形成、およびRNAサーベイランスを変容させ得る。逆に、異常なスプライシング、ポリアデニル化、およびRNA修飾は、DNA修復を損ない、有糸分裂制御を乱し、複製ストレスを助長することで、ゲノム不安定性を増強させ得る。この双方向的な回路は、治療抵抗性、免疫調節、およびDNA中心のバイオマーカーだけでは捉えきれない創発的な脆弱性を含む、臨床的に意義のある表現型を駆動する。本稿では、ゲノム不安定性－RNAプロセシング軸に関する統一的な枠組みと、がんの診断、治療層別化、および治療的活用への直接的な臨床的意義を提示し、最も実用的な機序的インターフェースを明らかにするとともに、統合的なDNA-RNAバイオマーカーと合理的な併用戦略が、いかにして精密腫瘍学を静的なゲノム病変の域を超えて拡張し得るかについて論じる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2605643123",
+    "title": "Enhancing simulations of disordered protein ensembles with chemical shift restraints in coarse-grained models.",
+    "abstract": "With more than one third of the human proteome being structurally disordered, intrinsically disordered proteins (IDPs) are key contributors to complex cellular functions, despite their highly dynamic conformational ensembles remaining elusive to conventional techniques in structural biology. Coarse-grained (CG) simulation methods thus serve as a gold standard to refine IDP ensembles. These methods, when relying on elastic network models or rigid body to sample secondary structure, are however inherently limited in their capability to model and sample transient secondary structure at a residue-level resolution as informed by experimental data. This fundamental limitation persists despite experimental evidence suggesting that transient structural propensities are a fundamental hallmark of IDP function. Through an artificial neural network capable of predicting backbone chemical shifts from Cα-only protein conformations, we present a generalized framework which does not rely on dihedral parameterization to equip one bead-per-aminoacid CG force fields with the ability to sample functional elements of secondary structure. When applied on a large set of IDPs in isolation or condensates, our approach correctly recapitulates both local and global arrangements, yielding experimentally informed ensembles that can inform structure-mediated function and resolve force field limitations. This can yield a fruitful exploration of ensemble-to-function relationships in IDPs, allowing to explore phenomena such as secondary structure propensity and nucleation in condensates, conformationally selected binding motifs across disordered ensembles or conformational preferences of sequence-specific short-linear motifs.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2605643123",
+    "date": "2026-10-21",
+    "authors": "Cullen M, Biancaniello C, Taškova K, Miletić V, De Simone A, Mercadante D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905560",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42905560",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "protein",
+        "simulation"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene",
+          "protein",
+          "simulation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4678,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1073/pnas.2605643123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5a955024b74ce5120bfe5e6fe5c4e36c46ac3b6c62821f5d34982f3e078100ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:17:55.066236+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2020b569d85849c1e6d547fe2935ff42037a71b518cb4bf14892dc466b742682",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:17:55.066236+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "粗視化モデルにおける化学シフト拘束を用いた無秩序タンパク質アンサンブルのシミュレーションの高度化。",
+    "abstract_ja": "ヒトプロテオームの3分の1以上が構造的に無秩序であるため、内在性無秩序タンパク質（IDP）は複雑な細胞機能の重要な構成要素となっている。しかしながら、その極めて動的なコンフォメーションアンサンブルは、構造生物学における従来の手法では解明が困難なままである。したがって、粗視化（CG）シミュレーション手法は、IDPアンサンブルを精緻化するためのゴールドスタンダードとして機能する。これらの手法は、二次構造のサンプリングに弾性ネットワークモデルや剛体モデルを用いる場合、実験データに基づいた残基レベルの分解能で一過性の二次構造をモデル化・サンプリングする能力に本質的な限界がある。この根本的な限界は、一過性の構造的傾向がIDP機能の本質的な特徴であることを示唆する実験的証拠があるにもかかわらず依然として存在している。Cαのみのタンパク質コンフォメーションから主鎖の化学シフトを予測可能な人工ニューラルネットワークを通じて、我々は、二面角パラメータ化に依存しない汎用的なフレームワークを提示し、アミノ酸あたり1ビーズのCG力場に二次構造の機能的要素をサンプリングする能力を付与する。孤立状態または凝縮体における大規模なIDPセットに本手法を適用すると、局所的および大域的な配置の両方を正しく再現でき、構造介在性機能の解明や力場の限界の解消に寄与し得る、実験データに基づいたアンサンブルが得られる。これにより、IDPにおけるアンサンブルと機能の関係を実りある形で探索することが可能となり、凝縮体における二次構造の傾向や核形成、無秩序アンサンブルにわたるコンフォメーション選択的な結合モチーフ、あるいは配列特異的な短線状モチーフのコンフォメーション的選好といった現象の解明が実現する。"
   }
 ]
