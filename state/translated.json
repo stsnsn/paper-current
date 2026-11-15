@@ -238261,5 +238261,334 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "サハラ以南アフリカにおける原因不明の発熱症候群：病因の多様性、診断上の課題、および新たな診断アプローチ――ナラティブレビュー",
     "abstract_ja": "原因不明の発熱症候群は、サハラ以南のアフリカにおいて診断および公衆衛生上の重大な課題となっている。マラリアは依然として発熱の重要な原因であるが、発熱エピソードに占める非マラリア性病因の割合が増加しており、これには広範な細菌性、ウイルス性、寄生虫性、真菌性感染症のほか、非感染性の原因も含まれる。これらの病因の特性解明は、臨床症状の特異度の低さ、定義や診断アルゴリズムの不均一性、および検査体制の不足によって依然として制約を受けている。資源の限られた環境においては、顕微鏡検査、迅速診断検査、培養、および血清学的検査が引き続き不可欠であるが、その標的性の高さと性能のばらつきにより、診断上の行き詰まりを招く可能性がある。新たなアプローチ、特にマルチプレックスPCR、次世代シーケンシング、および臨床メタゲノミクスは、診断範囲の拡大、見過ごされてきた、あるいは新興の病原体の同定、およびサーベイランスの強化に向けた新たな機会を提供する。しかし、これらの統合には、検査ネットワーク、品質管理システム、および人的資源の強化に加え、その妥当性と費用対効果の評価が必要である。「ワンヘルス」概念に基づく統合的アプローチは、サハラ以南のアフリカにおける発熱性疾患の診断およびサーベイランスを改善する上で不可欠であると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2986.v1",
+    "title": "Microbes as Key Players During Evolution Part II- From Unicellular to Multicellular Organisms",
+    "abstract": "Microbes and thereof derived structures (plasmids, plastids, transposible elements, retrotransposons) are described as key drivers in the evolution of genes, genomes and new species in metazoa. This is a change of paradigm compared to the mechanisms of mutation and selection, and Mendelian genetics. The review first describes early metazoan developments and early symbiotic interactions. It presents examples of microbial influences on medusazoans, corals and sea anemones and then continues with microbial impacts on terrestrial ecosystems: Mutualistic associations of fungi, bacteroids and bacteria with lower plants (lichens, bryophytes) and higher plants (gymnosperms, angiosperms) and the exchange of reduced carbon for reduced nitrogen. The review goes on with animals, starting with the most recent common ancestor of vertebrates about 560 million years ago. Microbial impacts are described on insects, amphibians, reptiles, birds, and mammals including homo sapiens. A further chapter deals with impacts of transposible elements. Special emphasis is directed towards the creation of new species. Chapter 6 describes bipartite and tripartite host-microbe cooperations which led to new holobiont species in metazoa. Defense systems and reticulate evolution are further topics of this review. The discussion points out that evolution is driven by net formation including multiple nods of primary, secondary or tertiary endosymbiogenesis events.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2986.v1",
+    "date": "2026-10-29",
+    "authors": "Schirrmacher V.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353581",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "fungi",
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 462,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2986.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af1005cd28c4a7e1ae77777f98ae0a08816e4023f571b1447ca0f564b2e22595",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:12:04.944688+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3f4368a3df9c3ba219991906f8a2d87eb1361d8baa3e01393d538bd7631523e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:12:04.944688+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "進化における鍵となる微生物 第II部 ― 単細胞生物から多細胞生物へ",
+    "abstract_ja": "微生物およびそれらに由来する構造（プラスミド、プラスチド、転移因子、レトロトランスポゾン）は、後生動物における遺伝子、ゲノム、および新種の進化の主要な駆動要因として記述されている。これは、突然変異と選択のメカニズム、およびメンデル遺伝学と比較してパラダイムの転換である。本総説では、まず後生動物の初期の発展と初期の共生相互作用について述べる。次いで、メドゥサゾア類、サンゴ、およびイソギンチャクに対する微生物の影響例を提示し、続いて陸上生態系への微生物の影響――菌類、バクテロイド、および細菌と下等植物（地衣類、コケ植物）および高等植物（裸子植物、被子植物）との相利共生関係、ならびに還元型炭素と還元型窒素の交換――について論じる。さらに動物へと話題を移し、約5億6000万年前の脊椎動物の直近の共通祖先から記述を始める。昆虫、両生類、爬虫類、鳥類、およびホモ・サピエンスを含む哺乳類に対する微生物の影響について述べる。別の章では、転移因子の影響を扱う。特に新種の創出に重点を置いている。第6章では、後生動物における新たなホロビオント種の誕生につながった、宿主と微生物の二部構成および三部構成の協力関係について記述する。防御システムと網状進化も、本総説のさらなるテーマである。考察では、進化が、一次、二次、または三次な内共生事象の複数の結節を含むネット形成によって駆動されていることが指摘されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11306203/v1",
+    "title": "Continent-wide Multi-Segment Phylogenomic Study of Host and Geographic Structuring of African Hantaviruses",
+    "abstract": "Abstract    Background:  African hantaviruses remain among the least characterized members of the family  Hantaviridae  , with fragmented genomic data limiting our understanding of their evolutionary relationships, host associations, and geographic structuring. Here, we investigated the integrated continent-wide phylogenomic structure of African hantaviruses using all three coding genomic segments. Methods: We compiled and curated 281 full-length and partial coding sequences representing the L segment (  n   = 166), M segment (  n   = 48), and S segment (  n   = 67) from 13 African countries, alongside representative global reference strains. Temporal signal was evaluated using root-to-tip regression analysis. Segment-specific phylogenetic reconstructions were performed to characterize host-associated and geographic structuring. Additionally, pairwise tanglegram comparisons of the L, M, and S phylogenies were constructed to evaluate topological congruence and identify potential signals of genetic reassortment. Results  Root-to-tip regressions revealed weak temporal signal across the L (  R  ² = 0.069), M (  R  ² = 0.021), and S (  R  ² = 0.046) datasets, precluding reliable molecular-clock inference. Phylogenetic analyses demonstrated pronounced host-associated and geographic structuring across all three segments. Rodent, shrew, and bat-associated hantaviruses formed distinct evolutionary clades, with bat and shrew-borne lineages occupying basal, divergent positions relative to rodent-associated viruses. Endemic African hantaviruses exhibited marked regional clustering, forming distinct Malagasy, East African, and West African assemblages, whereas Senegalese, Beninese, and Malian sequences clustered within globally distributed,  Rattus  -associated Seoul orthohantavirus lineages. Comparative analyses highlighted complementary phylogenetic signals: the L segment provided a robust framework for resolving deep evolutionary relationships, the M segment offered clear discrimination among closely related host and geographic groups, and the S segment consistently recovered primary lineage boundaries. Pairwise tanglegrams demonstrated substantial topological concordance among segments highest between L and M with localized incongruences primarily in the L–S comparison restricted to closely related terminal taxa, consistent with but not definitive evidence of reassortment Conclusions  African hantaviruses display strong host-associated and geographic structuring, with major evolutionary relationships broadly conserved across all three genomic segments. These findings provide an integrated continent-wide phylogenomic framework, establishing a foundation for future genomic surveillance, evolutionary studies, and One Health strategies across Africa.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11306203/v1",
+    "date": "2026-10-29",
+    "authors": "Nicodemus M, Olumuyiwa O, Lanre I, Edet UO, Adeyinka AJ, Clement MA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352852",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 475,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11306203/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "085f51ca008a7e7860e569d474ba221fdc8aa40f2211a9a6dc92c2880a18c803",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:12:04.944688+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9c6f4e55811721db27567b371cb63edb4397d706e32b4ea61b40b9c7c51d3e7e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:12:04.944688+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アフリカハンタウイルスの宿主および地理的構造に関する大陸規模の多セグメント系統解析",
+    "abstract_ja": "要旨    背景：アフリカのハンタウイルスは、ハンタウイルス科（Hantaviridae）の中でも依然として最も解明が進んでいないメンバーであり、断片的なゲノムデータが、それらの進化的関係、宿主との関連性、および地理的構造に関する理解を制限している。本研究では、3つのコーディングゲノムセグメントすべてを用いて、アフリカのハンタウイルスの大陸全域にわたる統合的な系統ゲノム構造を調査した。方法：アフリカ13カ国のLセグメント（n = 166）、Mセグメント（n = 48）、およびSセグメント（n = 67）を代表する281本の全長および部分コーディング配列を、代表的なグローバル参照株とともに収集・キュレーションした。時間的シグナルは、ルート・トゥ・チップ回帰分析を用いて評価した。宿主関連および地理的構造を特徴づけるため、セグメントごとの系統再構築を行った。さらに、L、M、およびSの系統樹のペアワイズ・タングルグラム比較を行い、トポロジカルな一致性を評価し、遺伝的再集合の潜在的なシグナルを同定した。結果　ルート・トゥ・チップ回帰分析の結果、L（R² = 0.069）、M（R² = 0.021）、およびS（R² = 0.046）の各データセットにおいて弱い時間的シグナルが認められ、信頼性の高い分子時計の推論は不可能であった。系統解析では、3つのセグメントすべてにおいて顕著な宿主関連および地理的構造が示された。齧歯類、トガリネズミ、およびコウモリ関連のハンタウイルスは明確な進化的クレードを形成し、コウモリおよびトガリネズミ媒介系統は、齧歯類関連ウイルスに対して基底的かつ分岐した位置を占めていた。アフリカ固有のハンタウイルスは顕著な地域的クラスターを示し、マダガスカル、東アフリカ、および西アフリカの明確なアセンブラージュを形成した一方、セネガル、ベナン、およびマリの配列は、世界的に分布するRattus関連のソウル・オルソハンタウイルス系統内にクラスターを形成した。比較解析により、相補的な系統シグナルが浮き彫りになった。Lセグメントは深い進化的関係を解明するための強固な枠組みを提供し、Mセグメントは近縁な宿主および地理的グループを明確に区別し、Sセグメントは一貫して一次系統境界を復元した。ペアワイズ・タングルグラムでは、セグメント間で相当なトポロジカルな一致性が認められ、その一致性はLとMの間で最も高く、局所的な不一致は主にL–S比較において近縁な末端分類群に限定されていた。これは再集合の証拠と一致するものの、決定的な証拠ではない。結論　アフリカのハンタウイルスは強い宿主関連および地理的構造を示しており、主要な進化的関係は3つのゲノムセグメントすべてにおいて概ね保存されている。これらの知見は、大陸全域にわたる統合的な系統ゲノム枠組みを提供し、アフリカ全域における将来のゲノムサーベイランス、進化研究、およびワンヘルス戦略の基盤を確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.761898",
+    "title": "Dose-dependent growth and gene expression in marine prokaryotes in response to glacial and non-glacial iron-rich colloids from Kerguelen Island (Southern Ocean)",
+    "abstract": "Iron (Fe) plays a central role in regulating prokaryotic carbon (C) metabolism through complex processes. In Fe-limited limited ocean regions, new sources can influence prokaryotic activity thereby modulating the microbially mediated cycling of carbon. However, while accelerated glacial melting delivers substantial quantities of Fe-rich material to the ocean, the bioavailability of glacial Fe remains poorly understood. In this study, we investigated the response of marine prokaryotes to Fe contained in the colloidal fraction (20–200 nm size fraction) originating from the Cook Ice Cap on Kerguelen Island (Southern Ocean). We assessed growth and gene transcriptional responses to dose-dependent additions of Fe-rich colloids from two sources, glacial meltwater and a non-glacial origin. The two colloid types resulted in dose-dependent, but contrasting growth responses. Increasing additions of glacial colloids resulted in a reduction in prokaryotic growth and the opposite pattern was observed with non-glacial colloids. Transcriptional profiles revealed an increasing trend in Fe-limitation, as evidenced by transcripts of the glyoxylate shunt, as a function of the addition of either colloid type. We further observed a dose-dependent increase in transcripts of aromatic compound degradation only in the non-glacial colloid incubations, suggesting that these Fe-rich colloids could also provide C. These results point to the key role of C regulating prokaryotic growth in response to Fe-rich colloids. The quantitative transcriptional responses observed provide insights to the nutritional status of prokaryotes and to compounds and pathways involved in processing Fe-rich colloids.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.761898",
+    "date": "2026-10-29",
+    "authors": "Pereira Garcia C, Christaki U, Thoppil R, Guénueguès A, Catala P, Crispi O, Blain S, Obernosterer I.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354334",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "prokaryote",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 744,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.761898"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7cdd0f123d907517af4c286222bc09987a92902c3a21a3b50eddc5997200eed3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:12:04.944688+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "43176f25c33b88e84896e896713243f51de65c2915fde6c3aac6e38e0881fe1a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:12:04.944688+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ケルゲレン島（南氷洋）由来の氷河期および非氷河期の鉄富化コロイドに対する海洋原核生物の用量依存的な増殖と遺伝子発現",
+    "abstract_ja": "鉄（Fe）は、複雑なプロセスを通じて原核生物の炭素（C）代謝を調節する上で中心的な役割を果たしている。Fe制限下の海洋域では、新たな供給源が原核生物の活性に影響を及ぼし、それによって微生物を介した炭素循環を調節し得る。しかし、氷河融解の加速によって大量のFe富化物質が海洋に供給される一方で、氷河由来Feの生体利用能については十分に解明されていない。本研究では、ケルゲレン島（南氷洋）のクック氷帽に由来するコロイド画分（20–200 nmのサイズ画分）に含まれるFeに対する海洋原核生物の応答を調査した。氷河融解水と非氷河由来という2つの供給源からのFe富化コロイドを用量依存的に添加した際の、増殖および遺伝子転写応答を評価した。これら2種類のコロイドは、用量依存的ではあるが対照的な増殖応答を示した。氷河由来コロイドの添加量を増やすと原核生物の増殖は減少したが、非氷河由来コロイドでは逆のパターンが観察された。転写プロファイルからは、いずれのコロイドタイプの添加量に応じて、グリオキシル酸シャントの転写産物が示すように、Fe制限下で増加傾向にあることが明らかになった。さらに、非氷河由来コロイドのインキュベーションにおいてのみ、芳香族化合物分解の転写産物が用量依存的に増加することが観察され、これらのFe富化コロイドがCも供給し得ることが示唆された。これらの結果は、Fe富化コロイドに応答して原核生物の増殖を調節するCの重要な役割を指し示している。観察された定量的な転写応答は、原核生物の栄養状態、およびFe富化コロイドの処理に関与する化合物や経路に関する知見を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761861",
+    "title": "Genomic Potential vs. Pathogenic Reality: Functional Virulence Variation in  Pseudomonas aeruginosa",
+    "abstract": "Despite the rapid expansion of bacterial genome sequencing, predicting pathogen virulence from genomic information remains a major challenge. To study this association, we integrate comparative genomics, functional phenotyping, host-pathogen interaction assays, and infection outcomes across a diverse collection of 28  Pseudomonas aeruginosa isolates, representing clinically relevant diversity in serotype, type IV pilus group, and flagellar type.  While virulence-associated systems were broadly retained across the strain collection, isolates displayed substantial variation in phenotypic behavior and pathogenicity. Genotypic classifications based on pilus, flagellar, siderophore, or secretion system characteristics were poor predictors of virulence-associated phenotypes. Pathogenicity in a  Galleria mellonella model varied markedly among strains and was most strongly associated with surface-associated motility, whereas other virulence traits and quorum-sensing genotypes showed limited predictive value. In a three-dimensional lung epithelial cell model, inflammatory responses were negatively correlated with activity of the type III secretion system effector ExoS, suggesting a role in modulation of host immune signaling.  Together, these findings demonstrate that virulence emerges from functional deployment of conserved virulence repertoires, rather than their mere presence. By linking genomic diversity to phenotypic expression, pathogenicity, and host responses within a single strain collection, this study highlights fundamental limitations of gene-content-based virulence prediction and underscores the importance of integrating genomic and functional data to better understand  P. aeruginosa virulence.  Importance  The increasing availability of bacterial genome sequences raises expectations that pathogen virulence can be predicted from gene content. However, despite encoding similar repertoires of virulence-associated genes, many  P. aeruginosa isolates exhibit markedly different infection outcomes. This study demonstrates that substantial variation in pathogenicity and host interaction can arise from strains with broadly conserved virulence systems. These findings highlight the important contribution of regulatory and functional variation to virulence and show that genomic information alone provides an incomplete picture of pathogenic potential. They further underscore the need to better understand how genomic variation translates into phenotypic traits and host interactions. By integrating genomic analyses with phenotypic characterization and host-response measurements, this work provides the type of dataset needed to connect genomic variation to functional outcomes. Such datasets may ultimately provide the foundation for more reliable prediction of virulence from genome sequences.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761861",
+    "date": "2026-10-29",
+    "authors": "Dehaene R, Poppeliers J, Boon M, Bens L, Voet M, Lood C, Verwimp S, Van Noort V, De Meester G, Van Daele A, Crabbé A, Lavigne R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354330",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 745,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761861"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8e663ce6c49ffbdbc853981194f8fb0aa647a7c80800dff3476b7b6f2079358b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:12:04.944688+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8f0493c1e7a7ec100cdd52e0c898d7955c891f136312e5543b853b4483129c10",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T04:12:04.944688+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムポテンシャルと病原性の実態：Pseudomonas aeruginosaにおける機能的病原性の変異",
+    "abstract_ja": "細菌ゲノム配列解析が急速に進展しているにもかかわらず、ゲノム情報から病原体の病原性を予測することは依然として大きな課題である。この関連性を検討するため、本研究では、血清型、IV型線毛群、および鞭毛型において臨床的に意義のある多様性を有する28株のPseudomonas aeruginosa分離株を対象に、比較ゲノミクス、機能的表現型解析、宿主-病原体相互作用アッセイ、および感染転帰を統合的に解析した。病原性関連システムは株群全体にわたって概ね保持されていたが、分離株間では表現型挙動および病原性に顕著な変異が認められた。線毛、鞭毛、シデロフォア、または分泌系の特性に基づく遺伝子型分類は、病原性関連表現型の予測能が低いことが示された。Galleria mellonellaモデルにおける病原性は株間で著しく異なり、表面関連運動性と最も強く関連していた一方、その他の病原性形質やクオラムセンシング遺伝子型の予測価値は限定的であった。3次元肺上皮細胞モデルにおいて、炎症反応はIII型分泌系エフェクターExoSの活性と負の相関を示し、宿主免疫シグナル伝達の調節における役割が示唆された。以上の知見を総合すると、病原性は単に保存された病原性レパートリーが存在することではなく、それらの機能的な展開によって生じることが実証された。単一の株群内においてゲノム多様性を表現型発現、病原性、および宿主応答に結びつけた本研究は、遺伝子内容に基づく病原性予測の根本的な限界を浮き彫りにするとともに、P. aeruginosaの病原性をより深く理解するためにゲノムデータと機能データを統合することの重要性を強調するものである。重要性：細菌ゲノム配列の利用可能性が高まったことで、遺伝子内容から病原体の病原性を予測できるという期待が高まっている。しかし、病原性関連遺伝子の同様のレパートリーをコードしているにもかかわらず、多くのP. aeruginosa分離株は著しく異なる感染転帰を示す。本研究は、広範に保存された病原性システムを持つ株間であっても、病原性や宿主相互作用に著しい変異が生じ得ることを示している。これらの知見は、調節的および機能的な変異が病原性に果たす重要な寄与を浮き彫りにし、ゲノム情報だけでは病原性ポテンシャルの不完全な全体像しか得られないことを示している。さらに、ゲノム変異がいかにして表現型形質や宿主相互作用へと変換されるかをより深く理解する必要性を強調するものである。ゲノム解析を表現型特性解析および宿主応答測定と統合することで、本研究はゲノム変異を機能的転帰に結びつけるために必要なデータセットを提供する。このようなデータセットは、最終的にゲノム配列からのより信頼性の高い病原性予測の基盤となり得る。"
   }
 ]
