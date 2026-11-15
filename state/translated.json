@@ -255240,5 +255240,322 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "内部的にタグ付けされたnsp3をコードする、完全感染性のSARS-CoV-2の生成。",
     "abstract_ja": "真正感染におけるコロナウイルス複製酵素タンパク質の解析は、特にウイルス誘導性の複製オルガネラに組み込まれた大型かつ必須の構成要素において実験的に困難である。最大のコロナウイルス複製酵素タンパク質である非構造タンパク質3（nsp3）は、複製オルガネラ形成において中心的な役割を果たすが、遺伝学的な操作は依然として困難であった。本研究では、nsp3内のMac1ドメイン上流に内部ALFAエピトープタグをコードする、完全感染性の組換えSARS-CoV-2（rALFA）を作製した。増殖速度論的解析により、rALFAはタグ未付与の組換えSARS-CoV-2と同等の速度論およびピーク力価で複製し、溶菌感染能を保持することが示された。タグ付きnsp3は、タグ未付与のウイルス感染で観察されるものと同等の細胞内局在パターンを示し、ナノボディを用いた検出により、感染細胞内におけるnsp3の堅牢な可視化が可能となった。この内部タグ付きSARS-CoV-2は、真正感染条件下におけるnsp3の局在および複製オルガネラの動態に関する今後の解析のための有用な実験プラットフォームを確立し、後続の機能研究の基盤となるものである。重要性：本論文は、コロナウイルスの解析手法を進展させる実用的なツールを提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bib/bbag611",
+    "title": "Inferring causal networks for genomic trios with high-dimensional confounding variables.",
+    "abstract": "Causal structure inference under the principle of Mendelian randomization (PMR) enables the study of causal relationships between two molecular phenotypes (e.g. gene expression) by leveraging genetic variants as instrumental variables to impose constraints on edge direction. In practice, inference is often affected by numerous confounding variables, such as other genes, other processes and demographic variables, making it essential to robustly account for confounders. However, existing methods have limited ability to accommodate high-dimensional confounding. Here, we introduce Mendelian randomization for genomic networks (MRGN), a regression-based method under the PMR for inferring causal models in genomic trios from individual-level data while accounting for many confounders. MRGN extends beyond the canonical mediation model to distinguish among multiple causal relationships. By prioritizing conditional independence tests given the genetic variant and confounders, MRGN can detect causal relationships between phenotypes even when their marginal association is weak. Through extensive simulations, we demonstrate improved inference accuracy, robustness, and computational efficiency over existing approaches. We further apply MRGN to data from the Genotype-Tissue Expression Consortium to investigate how genetic variants may regulate gene expression in cis and trans.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag611",
+    "date": "2026-11-01",
+    "authors": "Kvamme JM, Fu AQ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986682",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13738103",
+    "pmid": "42986682",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4752,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/bib/bbag611"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bb0deb90e4bd5f5ee2e2437f2fb6bc50f5afed129d1247b25720cfa562583105",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:21:54.400112+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "506b90a7278784e98a10671282380607b20765ccf5c832e6c9c910829bdde950",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:21:54.400112+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "高次元の交絡変数を有するゲノムトリオの因果ネットワークの推論。",
+    "abstract_ja": "メンデルランダム化原理（PMR）に基づく因果構造推論は、遺伝的変異を操作変数として用いてエッジの方向に制約を課すことで、2つの分子表現型（例：遺伝子発現）間の因果関係の研究を可能にする。実際には、推論は他の遺伝子、他のプロセス、人口統計学的変数など、数多くの交絡変数の影響を受けることが多く、交絡因子を頑健に考慮することが不可欠である。しかし、既存の手法では高次元の交絡因子への対応能力が限られている。本研究では、多くの交絡因子を考慮しつつ、個人レベルのデータからゲノムトリオにおける因果モデルを推論するための、PMRに基づく回帰ベースの手法であるゲノムネットワーク向けメンデルランダム化（MRGN）を提案する。MRGNは、従来の媒介モデルの枠を超え、複数の因果関係を区別する。遺伝的変異と交絡因子が与えられた条件付き独立性検定を優先することで、MRGNは表現型間の周辺関連性が弱い場合であっても、因果関係を検出できる。広範なシミュレーションを通じて、既存の手法と比較して推論精度、頑健性、および計算効率が向上することを実証する。さらに、MRGNをGenotype-Tissue Expression Consortiumのデータに適用し、遺伝的変異がシスおよびトランスにおける遺伝子発現をどのように調節し得るかを検討する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/molbev/msag235",
+    "title": "An Archaic Reference-Free Method to Jointly Infer Neanderthal and Denisovan Introgressed Segments in Modern Human Genomes.",
+    "abstract": "Admixture between populations is a common feature of human history. Admixture events introduce new genetic variation that can fuel evolution. Characterizing the significance of admixture events on the evolution of populations across various species is of great interest to evolutionary geneticists. Local ancestry inference (LAI) methods infer genetic ancestry of an individual at a particular chromosomal location. Certain methods specialize in detecting archaic introgression, which consists of interbreeding between modern and archaic humans like Neanderthals and Denisovans. Most current LAI methods allow the detection of a single archaic ancestry, and post-processing may distinguish between multiple waves of introgression. These methods vary in how they choose archaic or modern reference genomes for the inference. Here, we present a new hidden Markov model-based method (DAIseg), which has the advantage of simultaneously distinguishing between multiple waves of ancient and recent admixture, using only modern human reference genomes. Simulations demonstrate that DAIseg achieves higher overall performance than state-of-the-art methods. We also apply DAIseg to Papuan populations to jointly detect Denisovan and Neanderthal introgressed segments, and identify a higher number of archaic segments than previous methods. Analysis of inferred introgressed segments shows that we can identify evidence for two Denisovan introgression events in Papuans. Overall, on top of being able to deal with both archaic and recent admixture, DAIseg provides a more principled approach for detecting and classifying Denisovan and Neanderthal segments which will improve downstream analysis of introgressed segments to infer the impact of archaic introgression in humans.",
+    "journal": "Molecular Biology and Evolution",
+    "doi": "10.1093/molbev/msag235",
+    "date": "2026-11-01",
+    "authors": "Planche L, Ilina A, Ávila-Arcos MC, Jay F, Huerta-Sanchez E, Shchur V.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42749284",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739495",
+    "pmid": "42749284",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4765,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/molbev/msag235"
+    ],
+    "translation": {
+      "title": {
+        "hash": "40e4e70f60d0a13f0119c031293280ea69fb64bbb480f08e13b87e18af9f58be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:21:54.400112+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5021b67b01cc3ce4e34d5bd625a8b99006ce528a37ca5734d4621081cb8b1ad5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:21:54.400112+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "現生人類ゲノムにおけるネアンデルタール人とデニソワ人の遺伝子浸透セグメントを共同で推定するための、古風なリファレンスフリー手法",
+    "abstract_ja": "集団間の混血は、人類史における共通の特徴である。混血事象は新たな遺伝的変異をもたらし、それが進化を促進することがある。さまざまな種における集団の進化に対する混血事象の意義を明らかにすることは、進化遺伝学者にとって大きな関心事である。局所祖先推定（LAI）法は、特定の染色体上の位置における個体の遺伝的祖先を推定する。一部の手法は、現生人類とネアンデルタール人やデニソワ人のような古人類との交雑からなる古人類の遺伝子浸透の検出に特化している。現在のLAI法の多くは単一の古人類祖先の検出が可能であり、後処理によって複数の遺伝子浸透波を区別できる場合がある。これらの手法は、推定に用いる古人類または現生人類の参照ゲノムの選択方法が異なる。本研究では、現生人類の参照ゲノムのみを用いて、古代および近年の複数の混血波を同時に区別できるという利点を持つ、新たな隠れマルコフモデルに基づく手法（DAIseg）を提案する。シミュレーションの結果、DAIsegは最先端の手法よりも高い総合的な性能を達成することが示された。また、DAIsegをパプアの集団に適用し、デニソワ人とネアンデルタール人の遺伝子浸透セグメントを共同で検出したところ、従来の手法よりも多くの古人類セグメントを同定することができた。推定された遺伝子浸透セグメントの解析により、パプア人における2つのデニソワ人遺伝子浸透事象の証拠を特定できることが示された。総じて、DAIsegは古人類および近年の混血の両方に対処できるだけでなく、デニソワ人およびネアンデルタール人のセグメントを検出・分類するためのより原理に基づいたアプローチを提供し、遺伝子浸透セグメントの後続解析を改善することで、人類における古人類の遺伝子浸透の影響を推定することを可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1111/1755-0998.70209",
+    "title": "The Genome and Population Structure of the Spruce Beetle, Dendroctonus rufipennis (Kirby, 1837), a Transcontinental Pest of North American Spruce.",
+    "abstract": "The spruce bark beetle Dendroctonus rufipennis (Family: Curculionidae; Subfamily Scolytinae) is a major forest insect pest throughout the transcontinental range of spruce species (Picea spp.) in North America. Here, we present an annotated, near chromosome-level, genome assembly of 271 Mb, with 86% of the assembly contained in 16 pseudochromosomes and containing 17,778 predicted gene models. We also annotated 13 protein-coding genes, 2 rRNAs, and 22 tRNAs in its 19,637 bp mitochondrial genome. In addition, we present the annotated complete nuclear and mitochondrial genomes of an associated endoparasitic nematode, Contortylenchus sp. T'it'q'et (Order: Tylenchida; Family: Allantonematidae). Its nuclear genome assembly was 76.2 Mb, with 99.8% of the assembly contained in nine pseudochromosomes and containing 12,208 predicted gene models. We also annotated 12 protein-coding genes, 2 rRNAs, and 22 tRNAs in its extremely AT-rich, 15,509 bp mitochondrial genome. Population genomic analyses revealed broad consistencies with past microsatellite work, supporting the hypothesis of multiple range expansions from glacial refugia. Our analyses also identified alternate modes of population diversification which suggest that both neutral and non-neutral processes may be shaping current population genetic structure across the spruce beetle range.",
+    "journal": "Molecular Ecology Resources",
+    "doi": "10.1111/1755-0998.70209",
+    "date": "2026-11-01",
+    "authors": "Campbell EO, Batista PD, Lévesque-Tremblay V, Béliveau C, Bernier K, Romanenko K, Strong WB, Bleiker KP, Huber DPW, Keeling CI.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42952392",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13717379",
+    "pmid": "42952392",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "gene",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4759,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1111/1755-0998.70209"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c62b034d9e6125430a6b1dfbd0b79b08049cdad179d36dc8437c4b8da59ddd7b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:21:54.400112+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "227a1f136bd31895c3a4aed6c12caef9f17bad8be89d0b185f40dd64967c86d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:21:54.400112+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "北米トウヒの大陸横断的害虫であるトウヒハムシ Dendroctonus rufipennis (Kirby, 1837) のゲノムと個体群構造",
+    "abstract_ja": "トウヒキクイムシ Dendroctonus rufipennis（科：ゾウムシ科；亜科：Scolytinae）は、北米のトウヒ属（Picea spp.）の大陸横断的な分布域全域において、主要な森林害虫である。本研究では、271 Mbのアノテーション済み近染色体レベルのゲノムアセンブリを提示する。このアセンブリの86%は16本の擬似染色体に含まれており、17,778個の予測遺伝子モデルを有している。また、19,637 bpのミトコンドリアゲノムにおいて、13個のタンパク質符号化遺伝子、2個のrRNA、および22個のtRNAをアノテーションした。さらに、関連した内寄生性線虫 Contortylenchus sp. T'it'q'et（目：タイレンキダ目；科：Allantonematidae）のアノテーション済み完全な核およびミトコンドリアゲノムを提示する。その核ゲノムアセンブリは76.2 Mbであり、アセンブリの99.8%が9本の擬似染色体に含まれ、12,208個の予測遺伝子モデルを有していた。また、極めてATリッチな15,509 bpのミトコンドリアゲノムにおいて、12個のタンパク質符号化遺伝子、2個のrRNA、および22個のtRNAをアノテーションした。集団ゲノム解析の結果、過去のマイクロサテライト研究と広範な一致が認められ、氷河期のレフュージアからの複数回の分布拡大という仮説が支持された。また、本解析では集団多様化の代替的な様式が特定され、中立的および非中立的なプロセスの双方が、トウヒキクイムシの分布域全体における現在の集団遺伝構造を形成している可能性が示唆された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41592-026-03289-2",
+    "title": "Spatial single-cell mapping of transcriptional differences across genetic backgrounds in mouse brains.",
+    "abstract": "Genetic variation can alter organ structure and function. Comparative statistical analysis of organs across genetic backgrounds requires spatial, single-cell, atlas-scale data in replicates. Here we introduce atlas-scale transcriptome localization using aggregate signatures (ATLAS), a scalable tissue mapping method that learns transcriptional signatures from single-cell RNA sequencing data, encodes them in situ with tens of thousands of oligonucleotide probes and decodes them to infer cell types and imputed transcriptomes. We validated ATLAS against direct MERFISH measurements of marker genes and through quantitative comparisons to four other technologies. We profiled 40 million cells across more than 400 coronal sections from central brains of five male and five female C57BL/6J mice and five male BTBR T+tf/J mice, an idiopathic autism model. Our analysis revealed more than 40 significant differences in cell-type distributions and identified 16 regional composition changes across male-female and B6-BTBR comparisons. ATLAS thus enables systematic comparative studies, facilitating organ-level structure-function analysis of disease models.",
+    "journal": "Nature Methods",
+    "doi": "10.1038/s41592-026-03289-2",
+    "date": "2026-10-30",
+    "authors": "Hemminger Z, Tam G, De Ocampo H, Wang A, Underwood T, Xie F, Zhao Q, Song D, Li JJ, Dong H, Wollman R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963409",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963409",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "method",
+        "sequencing",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4783,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1038/s41592-026-03289-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6f244a174d91aa4aa8b9b2a8605324c9968e6e11f56dced8ab11c678fb13a3ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:21:54.400112+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9163ef2c976b6649c47d4d2c8c808072dc1b32cd8d767084c381becbdfabf8dd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:21:54.400112+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マウス脳における遺伝的背景間の転写差異の空間的単一細胞マッピング",
+    "abstract_ja": "遺伝的変異は臓器の構造や機能を変化させ得る。遺伝的背景にわたる臓器の比較統計解析には、反復解析における空間的、単一細胞レベルのアトラススケールデータが必要である。本研究では、単一細胞RNAシーケンシングデータから転写シグネチャーを学習し、数万個のオリゴヌクレオチドプローブを用いてそれらをin situで符号化し、さらにそれらを解読することで細胞種やインピュテーション済みトランスクリプトームを推定するスケーラブルな組織マッピング手法である、アグリゲートシグネチャーを用いたアトラススケールのトランスクリプトーム局在解析（ATLAS）を提案する。我々は、マーカー遺伝子の直接的なMERFISH測定および他の4つの技術との定量的比較を通じて、ATLASの妥当性を検証した。5匹の雄および5匹の雌のC57BL/6Jマウス、ならびに特発性自閉症モデルである5匹の雄のBTBR T+tf/Jマウスの中枢脳から、400以上の冠状断切片にわたる4,000万個の細胞をプロファイリングした。解析の結果、細胞種分布に40以上の有意な差異が認められ、雌雄間およびB6-BTBR間の比較において16箇所の領域構成の変化が同定された。したがって、ATLASは系統的な比較研究を可能にし、疾患モデルの臓器レベルにおける構造・機能解析を促進する。"
   }
 ]
