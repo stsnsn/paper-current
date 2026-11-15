@@ -241712,5 +241712,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "真菌揮発性物質は側根形成に影響を及ぼし、植物の浸透圧ストレス耐性を高める。",
     "abstract_ja": "共生菌は、物理的な接触に先立っても、揮発性有機化合物（VOC）を介して植物と情報を伝達する。菌類由来のVOCは、対照条件下で植物の発達を促進することが知られているが、非生物的ストレス下におけるその影響については十分に解明されていない。本研究では、浸透圧ストレス条件下において、シロイヌナズナの実生を外生菌根菌であるLaccaria bicolorおよびHebeloma cylindrosporum、ならびに内生菌であるSerendipita indica由来のVOCに曝露させた。経時的な転写解析により、VOC曝露後3日以内にオーキシン輸送遺伝子の迅速かつ一過性の誘導が認められ、初期のサイトカイニン調節は最小限であった。オーキシン耐性（aux1-7, axr1-3）およびサイトカイニン耐性（cre1, arr1-4）変異体を用いた解析により、この初期応答が従来のオーキシン／サイトカイニン拮抗作用を介さず、対照条件およびストレス条件の双方において10日目までに側根の増殖を促進することが示された。トランスクリプトームプロファイリングの結果、菌類由来のVOCがグルコシノレートおよびロイシンの代謝を調節し、カリウム（HAK5）および鉄（IRT1）輸送体を制御していることが明らかになった。hak5-2およびakt1-2変異体、ならびに一酸化窒素シグナル伝達成分の遺伝的・表現型解析により、カリウム輸送および一酸化窒素依存的なIRT1調節が、VOCの感知を発達応答へと変換する上で不可欠であることが明らかになった。これらの知見は、菌類由来のVOCが植物の発達および非生物的ストレス耐性を協調的に制御する多面的なメカニズムを浮き彫りにしている。ハイライト：菌類由来の揮発性有機化合物は、シロイヌナズナの実生において、オーキシンおよびサイトカイニンシグナル伝達、イオン輸送体、および防御代謝をリプログラミングすることで、根の発達と浸透圧ストレス耐性を向上させる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762406",
+    "title": "Carboxymethyl Dextran Coated Iron Oxide Magnetic Nanoparticles as Vehicles for CRISPR Ribonucleoproteins",
+    "abstract": "The efficient and safe intracellular delivery of CRISPR ribonucleoproteins (RNPs) remains a major challenge for the development of genome editing strategies. Magnetic iron oxide nanoparticles (MNPs) offer an attractive and biocompatible delivery platform. However, their use for the delivery of functional CRISPR RNPs remains comparatively underexplored. Here, we developed carboxymethyl dextran (CMD)-coated MNPs as non-viral carriers for Cas9 and Cas12a RNPs. Nanocomplexes were formed through electrostatic interactions, without the need for chemical coupling reagents or additional surface functionalization. Both RNPs efficiently associated with MNPs, and the resulting nanocomplexes exhibited stable physicochemical properties and retained their cargo in serum-supplemented culture medium for up to 24 hours. Cellular uptake was confirmed by microscopy, while biocompatibility assays revealed no overt cytotoxicity. Functional genome editing was demonstrated at reporter and endogenous gene loci in HEK-293T cells, as well as in primary human dermal fibroblasts. Finally, we explored the therapeutic potential of this platform for recessive dystrophic epidermolysis bullosa (RDEB) by targeting COL7A1 exon 80, with the aim of removing the prevalent c.6527insC mutation while preserving the reading frame. Cas9 RNP nanocomplexes enabled exon 80 deletion. These findings establish CMD-coated MNPs as a versatile platform for the delivery of Cas9 and Cas12a RNPs and support further investigation of magnetic nanoparticle-mediated genome editing for inherited skin disorders.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762406",
+    "date": "2026-10-29",
+    "authors": "Pérez-Maroto J, Escalona-Noguero C, Dhanjani M, Lafuente-Gómez N, Castellanos M, Luengo Y, Mayoral-Campos C, Salas G, Santos M, García M, Mencía Á, Murillas R, Somoza Á, Sot B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353346",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2440,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762406"
+    ],
+    "translation": {
+      "title": {
+        "hash": "743bf67352156ed77d3d1bebeb9fd7fbbdaa23a430fccc12e1a5a1a00111c2bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:48:55.810332+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6e04fdbce62dc0b5bb710d919124193cc3ddf76fd6a1d0a1fd37412c88bedd60",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:48:55.810332+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CRISPRリボ核タンパク質の担体としてのカルボキシメチルデキストラン被覆酸化鉄磁性ナノ粒子",
+    "abstract_ja": "CRISPRリボ核タンパク質（RNP）の効率的かつ安全な細胞内送達は、ゲノム編集戦略の開発における主要な課題であり続けている。磁性酸化鉄ナノ粒子（MNP）は、魅力的で生体適合性の高い送達プラットフォームである。しかし、機能的なCRISPR RNPの送達への応用については、比較的研究が進んでいない。本研究では、Cas9およびCas12a RNPの非ウイルス性キャリアとして、カルボキシメチルデキストラン（CMD）被覆MNPを開発した。化学的カップリング試薬や追加の表面機能化を必要とせず、静電相互作用によってナノ複合体が形成された。両RNPはMNPに効率的に結合し、得られたナノ複合体は安定した物理化学的特性を示し、血清添加培養液中で最大24時間にわたって積荷を保持した。細胞内取り込みは顕微鏡観察により確認され、生体適合性アッセイでは明らかな細胞毒性は認められなかった。HEK-293T細胞ならびにヒト初代真皮線維芽細胞のレポーター遺伝子および内因性遺伝子座において、機能的なゲノム編集が実証された。最後に、リーディングフレームを維持しつつ広範に見られるc.6527insC変異を除去することを目的として、COL7A1エクソン80を標的とし、劣性ジストロフィー性表皮水疱症（RDEB）に対する本プラットフォームの治療的可能性を検討した。Cas9 RNPナノ複合体により、エクソン80の欠失が可能となった。これらの知見は、CMD被覆MNPがCas9およびCas12a RNPの送達のための汎用性の高いプラットフォームであることを立証するものであり、遺伝性皮膚疾患に対する磁性ナノ粒子介在性ゲノム編集のさらなる研究を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762089",
+    "title": "A novel metalloprotease family discovered through a tardigrade",
+    "abstract": "Tardigrades possess numerous proteins with poorly understood functions, including candidates proposed to have been acquired through horizontal gene transfer. Here, we characterized RvY_14254 from  Ramazzottius varieornatus , previously designated ATPM5, whose homologs are widely distributed across bacteria and eukaryotes but remain largely uncharacterized. We determined the crystal structure of the protein, hereafter termed  Rv Peti, at 1.35 Å resolution.  Rv Peti adopts a compact, C-shaped architecture with no close structural homologs in the Protein Data Bank and contains a conserved His-Asp-Asp (HDD) metal-binding motif within a deep surface pocket. Structural comparison revealed partial similarity of the active-site architecture to that of metalloproteases, including pseudoalterin. Anomalous diffraction analyses demonstrated that the HDD site can accommodate Zn² and Mn² . Biochemical assays showed that  Rv Peti exhibits Zn² -dependent proteolytic activity, which was strongly reduced by a metal chelating reagent and by alanine substitutions of the metal-coordinating residues. In contrast, only weak esterase activity was detected, with the substrates tested. These results identify  Rv Peti as a founding member of a previously uncharacterized family of metalloproteases and provide a structural framework for investigating the physiological and evolutionary roles of this widespread protein family.  statement  Tardigrades, organisms capable of surviving extreme environment stress, possess numerous poorly characterized proteins. We determined the crystal structure of one such protein and found that it adopts a novel fold containing a metal-binding site. Biochemical analyses confirmed zinc-dependent proteolytic activity that was lost upon mutation of the metal-binding residues. These findings define a previously unrecognized metalloprotease family conserved across bacteria and eukaryotes, providing a structural framework for future function studies.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762089",
+    "date": "2026-10-29",
+    "authors": "Higashi T, Fukuda Y, Inoue T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353335",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2441,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762089"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cd7b0116db12ffefcd8c7e827748aa94fb070cf992d00897282f64c95abb1e65",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:48:55.810332+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "db08d14efe2e39e2a110a79d1303af23db9e7f6d702125974907b005e6d8d3f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:48:55.810332+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クマムシから発見された新規メタロプロテアーゼファミリー",
+    "abstract_ja": "クマムシ類は、水平遺伝子伝達によって獲得されたと考えられる候補を含む、機能が十分に解明されていないタンパク質を数多く保有している。本研究では、細菌および真核生物に広く分布しながらも大部分が未解明であるホモログを持つ、Ramazzottius varieornatus由来のRvY_14254（以前はATPM5と命名されていた）の特性解析を行った。本タンパク質（以下、Rv Petiと呼称）の結晶構造を1.35 Åの分解能で決定した。Rv PetiはコンパクトなC字型の構造をとり、Protein Data Bankに近縁な構造ホモログは存在せず、深部表面ポケット内に保存されたHis-Asp-Asp (HDD) 金属結合モチーフを有する。構造比較により、活性部位の構造が擬アルテルリンを含むメタロプロテアーゼと部分的に類似していることが明らかになった。異常回折解析により、HDD部位がZn²およびMn²を取り込めることが示された。生化学的アッセイにより、Rv PetiはZn²依存的なタンパク質分解活性を示すことが明らかとなり、この活性は金属キレート試薬および金属配位残基のアラニン置換によって著しく低下した。対照的に、試験した基質に対して弱いエステラーゼ活性のみが検出された。これらの結果は、Rv Petiをこれまで未解明であったメタロプロテアーゼファミリーの創始メンバーとして同定するものであり、この広範なタンパク質ファミリーの生理学的および進化的な役割を調査するための構造的枠組みを提供するものである。 声明 極限環境ストレス下で生存可能な生物であるクマムシ類は、特性が十分に解明されていないタンパク質を数多く保有している。我々はそのようなタンパク質の一つの結晶構造を決定し、それが金属結合部位を含む新規フォールドをとることを見出した。生化学的解析により、金属結合残基の変異に伴い消失する亜鉛依存的なタンパク質分解活性が確認された。これらの知見は、細菌および真核生物にわたって保存されている、これまで認識されていなかったメタロプロテアーゼファミリーを定義するものであり、今後の機能研究のための構造的枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762167",
+    "title": "Pho92 direct interaction with Not1 recruits the CCR4-NOT complex to m  6  A containing mRNAs to modulate meiosis in  S. cerevisiae",
+    "abstract": "N  6 -methyladenosine (m  6 A) is the most abundant internal modification in eukaryotic mRNAs. In  S. cerevisiae , m  6 A is exclusively deposited during meiosis, where it plays an essential role in meiotic progression. In this context, the absence of Pho92, the sole known m  6 A-binding protein in budding yeast, leads to the abnormal persistence of m  6 A-containing mRNAs, ultimately resulting in delayed meiosis. Here, we investigate how m  6 A recognition by Pho92 regulates gene expression. Using complementary  in vivo and  in vitro approaches, we identify direct interactions between Pho92 and Not1, the scaffold subunit of the CCR4-NOT deadenylase complex. Structural analyses reveal that a short evolutionarily conserved motif in Pho92 adopts an α-helical conformation that docks onto specific regions of Not1. Functionally, these interactions are required for efficient meiotic progression. Altogether, our findings demonstrate that Pho92 couples m  6 A recognition to the main deadenylase to shape the meiotic transcriptome. More broadly, our work provides mechanistic insights into how epitranscriptomic signals interface with the core mRNA decay machinery to regulate gene expression during cellular differentiation.  Abstract Figure",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762167",
+    "date": "2026-10-29",
+    "authors": "Sène L, Hazra D, Scutenaire J, Morellet N, Ulryck N, Matelot M, Bounoua H, Raji M, Afensiss S, Morlet B, van Heijenoort C, Séraphin B, Graille M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353313",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2443,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762167"
+    ],
+    "translation": {
+      "title": {
+        "hash": "354593368a0400d373a4a0347e8e0ea14352bc079a84a83b9fdf41d16d6c64ed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:48:55.810332+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bccb442f42e4ded298a6f6209cebc230933b306201d8c94297af653a8d467554",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:48:55.810332+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pho92とNot1の直接的な相互作用は、CCR4-NOT複合体をm 6 A含有mRNAに動員し、S. cerevisiaeにおける減数分裂を調節する。",
+    "abstract_ja": "N  6-メチルアデノシン（m 6 A）は、真核生物のmRNAにおいて最も豊富に存在する内部修飾である。S. cerevisiaeにおいて、m 6 Aは減数分裂時にのみ付加され、減数分裂の進行において不可欠な役割を果たす。このような状況下で、出芽酵母において唯一知られているm 6 A結合タンパク質であるPho92が欠損すると、m 6 A含有mRNAが異常に残存し、最終的に減数分裂の遅延を招く。本研究では、Pho92によるm 6 A認識が遺伝子発現をどのように制御するかを検証する。相補的なin vivoおよびin vitroアプローチを用いて、Pho92とCCR4-NOTデッドエナーゼ複合体の足場サブユニットであるNot1との直接的な相互作用を同定した。構造解析により、Pho92の進化的に保存された短いモチーフがα-ヘリックス構造をとり、Not1の特定領域にドッキングすることが明らかになった。機能的には、これらの相互作用は効率的な減数分裂の進行に必須である。総じて、本知見は、Pho92がm 6 A認識を主要なデッドエナーゼに結合させることで、減数分裂トランスクリプトームを形成することを示している。より広範には、本研究は、エピトランスクリプトームシグナルがコアmRNA分解機構とどのように相互作用し、細胞分化過程における遺伝子発現を制御するのかについて、機構的な知見を提供するものである。  要旨 図"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762168",
+    "title": "Implementation and Evaluation of Marker Rescue and qPCR Assays for Detection of Replication-Competent Retrovirus in Gene Therapy Products",
+    "abstract": "Quality control of retroviral gene therapy vectors requires reliable detection of replication- competent retrovirus (RCR) particles. Cell-based assays remain the standard for detecting RCR, while PCR-based assays serve as rapid, complementary methods. Despite their widespread use, few studies provide comprehensive protocols and performance data to guide assay setup. Here we provide a detailed description and performance assessment of a cell-based firefly luciferase marker rescue assay for RCR testing. Additionally, we describe the setup and assessment of a qPCR-based RCR assay targeting retroviral  pol gene sequence. Different viral copy numbers of MuLV were used to determine the final sensitivity of the marker rescue assay with and without initial amplification. Different q-PCR strategies were investigated for RCR testing using different types of primers, including env and pol genes. The marker rescue assay detected 73.2 RCR genome particles without amplification, while the amplification phase enabled detection of functional RCR particles and increased sensitivity, with the amplification step increasing viral particles by up to 5.23 × 10³ fold. The PCR-based RCR assay using retroviral  pol gene could detect approximately 7.32 × 10  3 viral particles. This study offers a resource for establishing RCR testing procedures for clinical-grade retroviral vector products.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762168",
+    "date": "2026-10-29",
+    "authors": "Ebrahimiyan H, Sayadmanesh A, Baharvand H, Basiri M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353236",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2446,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762168"
+    ],
+    "translation": {
+      "title": {
+        "hash": "42fd86b170c461e0f1e97006b207b33648c001dccfbd043f1e0e796b4d83c436",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:48:55.810332+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "016f7a889bc2147f89df5afe6f2674c0827eb8424204bade3fb5ab25ab823c27",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:48:55.810332+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝子治療製剤中の複製能を有するレトロウイルス検出のためのマーカーレスキューおよびqPCRアッセイの実装と評価",
+    "abstract_ja": "レトロウイルス遺伝子治療ベクターの品質管理には、複製能を有するレトロウイルス（RCR）粒子の信頼性の高い検出が不可欠である。RCRの検出には依然として細胞ベースのアッセイが標準的に用いられており、PCRベースのアッセイは迅速かつ補完的な手法として機能している。広く利用されているものの、アッセイのセットアップの指針となる包括的なプロトコルや性能データを提示した研究は少ない。本報では、RCR検査のための細胞ベースのホタルルシフェラーゼマーカーレスキューアッセイについて、詳細な解説と性能評価を行う。さらに、レトロウイルスpol遺伝子配列を標的としたqPCRベースのRCRアッセイのセットアップと評価についても述べる。初期増幅の有無によるマーカーレスキューアッセイの最終的な感度を決定するため、MuLVの異なるウイルスコピー数を用いた。また、env遺伝子およびpol遺伝子を含む異なる種類のプライマーを用い、RCR検査における各種qPCR戦略を検討した。マーカーレスキューアッセイでは、増幅なしで73.2個のRCRゲノム粒子が検出された一方、増幅段階を設けることで機能的なRCR粒子の検出が可能となり、感度も向上した。増幅ステップにより、ウイルス粒子数は最大5.23 × 10³倍に増加した。レトロウイルスpol遺伝子を用いたPCRベースのRCRアッセイでは、約7.32 × 10³個のウイルス粒子を検出することができた。本研究は、臨床グレードのレトロウイルスベクター製品におけるRCR検査手順を確立するための有用なリソースを提供するものである。"
   }
 ]
