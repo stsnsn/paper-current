@@ -230590,5 +230590,338 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "好酸球反応を伴わないAngiostrongylus cantonensis髄膜脳炎における長期グルココルチコイド曝露―医学・人文学的視点からの治療離脱に関する知見：症例報告",
     "abstract_ja": "要旨    背景  Angiostrongylus cantonensisは、ヒト好酸球性髄膜炎の主要な病原体である。免疫調節状態下では、末梢血または脳脊髄液（CSF）の好酸球増多を伴わない非定型的な感染像が時折認められる。長期のグルココルチコイド投与は、好酸球性炎症反応の減弱に寄与する要因として考えられる。本症例は、ステロイド誘発性の慢性的な免疫変化が、診断が困難な好酸球陰性の神経血管強直症を引き起こす可能性があり、高度な臨床的警戒が必要であることを浮き彫りにしている。  症例提示  乾癬の30年にわたる既往があり、経口デキサメタゾンを慢性的に不規則に服用していた48歳男性が、全身性疼痛、発熱、および意識状態の変化を主訴に受診した。入院時の検査では、末梢血および脳脊髄液のいずれにおいても好酸球増多は認められなかった。CSFのメタゲノム次世代シーケンシング（mNGS）によりAngiostrongylus cantonensisの特異的リードが1,853件検出され、神経血管強直症の診断が確定した。患者の重篤な神経学的悪化と、不可逆的な重度の神経学的後遺症に対する家族の懸念から、家族は抗寄生虫治療を拒否し、標準的なアルベンダゾール・グルココルチコイド併用療法は実施されなかった。  結論  我々の知る限り、本症例は分子生物学的に確認されたA. cantonensis髄膜脳炎の実臨床例であり、好酸球反応のダブルネガティブを特徴とし、数十年にわたる不規則なグルココルチコイド曝露と強く関連していた。慢性グルココルチコイド療法を受けている患者において、好酸球数が正常であっても、寄生虫による神経感染症を否定することはできない。CSF-mNGSによりこの診断上の難問が解決され、従来の検査で陰性結果が得られた場合の重要な代替診断ツールとしての有効性が検証された。家族主導による治療中止は、重症の顧みられない熱帯病による中枢神経系感染症における予後予測管理、リスクコミュニケーション、および共有意思決定において広く存在する実臨床上の課題を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762687",
+    "title": "A network of bZIP transcription factors and inhibitors enforces differentially proliferative and cytotoxic states in T cells",
+    "abstract": "The bZIP family of transcription factors (TFs) plays a central role in regulating T-cell exhaustion. Their complex dimeric interactions obscure the roles of individual members, which genetic knockout or overexpression alone poorly resolve. Here, we use overexpression of full-length bZIP family TFs alongside genetically encoded, protein-based inhibitors to probe the effect of increased or decreased bZIP TF activity on CAR T-cell expansion under exhausting conditions. Enrichment of inhibitors of pro-exhaustion TFs (CREM, NFIL3) illustrated the utility of this approach. The screen enriched full-length TFs of established anti-exhaustion relevance and identified underappreciated bZIP TFs such as BATF2. Detailed comparison of several bZIP TFs and inhibitors revealed distinct effects on proliferation, persistence, and cytotoxicity. We investigated combinations of pro-cytotoxic JUN, pro-proliferative BATF2, and a novel inhibitor (AEL-CREM) of pro-dysfunction CREM. Distinct pairs were more advantageous for maintenance of cytotoxicity or proliferation, revealing relationships between BATF2, JUN-, and CREB1-family bZIPs. Using a combination of epistasis, transcriptome, proteome, and AP-MS interactome analyses of BATF2 and AEL-CREM, we discovered functional overlap in their inhibition of pro-dysfunction CREB1-family activity, potentially driven by unexpected binding of CREB1-family members by overexpressed BATF2. Their function diverged in BATF2’s early promotion of pro-proliferation AP-1 activity and later physical and functional interactions with BACH2, contributing to persistence. These findings were mirrored in murine chronic viral infection and syngeneic tumor models, where BATF2 or AEL-CREM overexpression were notably pro-proliferative and anti-exhaustion. Together, these results illuminate new connections and functional roles enabled by bZIP family perturbations, with implications for modulating T-cell state. One sentence summary  Overexpression and protein-based inhibition of bZIP-family transcription factors in T cells reveal a network of BATF-, JUN-, CREB1-, and BACH2-family bZIPs regulating T cell exhaustion.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762687",
+    "date": "2026-11-01",
+    "authors": "Malroy JL, Sundararajan R, Stegantseva M, Hyslop S, García-Díaz P, Zhang A, Zhang S, Li L, Chen A, Wang Y, Metelitsa LS, Yao V, Hudson WH, Foight GW.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355845",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3135,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762687"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ae2927bf15db3278948605ed547332792f17fa94f58ee77958754a7ee93a5f96",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:12:35.864567+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1602f8af4b1b639f68793b07080639952c1ca8341e8a6f1024829a7408ce309e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:12:35.864567+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "bZIP転写因子および阻害因子のネットワークが、T細胞において増殖能と細胞傷害能の異なる状態を規定している。",
+    "abstract_ja": "bZIPファミリーの転写因子（TF）は、T細胞疲弊の制御において中心的な役割を果たしている。これらの複雑な二量体相互作用により、個々のメンバーの役割が不明瞭となっており、遺伝的ノックアウトや過剰発現だけではその解明は困難である。本研究では、全長型bZIPファミリーTFの過剰発現と遺伝的にコードされたタンパク質ベースの阻害剤を併用し、疲弊条件下におけるbZIP TF活性の亢進または低下がCAR T細胞の増殖に及ぼす影響を検討した。疲弊促進性TF（CREM、NFIL3）の阻害剤を濃縮することで、本アプローチの有用性が示された。このスクリーニングにより、疲弊抑制に関連することが既知の全長型TFが濃縮され、BATF2などの十分に認識されていなかったbZIP TFが同定された。複数のbZIP TFと阻害剤の詳細な比較により、増殖、持続性、および細胞毒性に対する異なる影響が明らかになった。我々は、細胞毒性促進性のJUN、増殖促進性のBATF2、および機能不全促進性CREMの新規阻害剤（AEL-CREM）の組み合わせについて検討した。細胞毒性の維持と増殖のそれぞれにおいて異なるペアがより有利に働き、BATF2、JUNファミリー、およびCREB1ファミリーのbZIP間の関係性が明らかになった。BATF2およびAEL-CREMのエピスタシス、トランスクリプトーム、プロテオーム、およびAP-MSインタラクトーム解析を組み合わせて行った結果、機能不全促進性CREB1ファミリー活性の抑制における機能的な重複が発見され、これは過剰発現したBATF2によるCREB1ファミリーメンバーの予期せぬ結合によって駆動されている可能性がある。これらの機能は、BATF2による増殖促進性AP-1活性の初期促進と、その後のBACH2との物理的・機能的相互作用において分かれており、これが持続性に寄与していた。これらの知見は、マウス慢性ウイルス感染モデルおよび同系腫瘍モデルにおいても再現され、BATF2またはAEL-CREMの過剰発現は顕著な増殖促進作用および疲弊抑制作用を示した。以上の結果を総合すると、bZIPファミリーの摂動によって可能となる新たな関連性と機能的役割が明らかになり、T細胞状態の調節への示唆が得られた。一文要約：T細胞におけるbZIPファミリー転写因子の過剰発現およびタンパク質ベースの阻害により、T細胞疲弊を制御するBATF、JUN、CREB1、およびBACH2ファミリーbZIPのネットワークが明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762107",
+    "title": "Cross-modal transfer enables zero-shot prediction of drug responses across cell types",
+    "abstract": "Genetic perturbation responses capture the functional consequences of gene-level interventions, providing functional information for drug-response prediction beyond baseline gene expression. Within the same cellular context, genetic and chemical perturbations engage shared regulatory networks, providing a biological basis for transferring response information between perturbation modalities. Here we introduce  GRAFT , a framework that combines genetic-to-chemical transfer with cross-context prediction to infer drug-induced transcriptional responses without drug measurements in the target context. Across benchmarked LINCS and external contexts, GRAFT improved response correlation, directional agreement and magnitude reconstruction over competing methods, particularly for drugs with context-dependent responses.  GRAFT-Adapt further refines predictions of unmeasured responses using a small number of drug measurements from the target context.  GRAFT-Atlas spans 13 cellular contexts and 7,856 drug catalog entries, comprising 102,128 predictions for drug–context combinations. The atlas captured recognizable pharmacological neighborhoods, shared functional programs, context-dependent transcriptional changes and structural–functional associations supported by molecular docking. Across ten iPSC lines from distinct donors, GRAFT identified candidate inter-donor differences, with functional support for selected candidates from measured genetic perturbation responses. Together, GRAFT enables perturbation-informed prediction and comparison of drug responses across cellular contexts.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762107",
+    "date": "2026-11-01",
+    "authors": "Luo C, Hu M, Wu Y, Guo D, Wang S, Lyu QR, Liu X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354907",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "genetic",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3154,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762107"
+    ],
+    "translation": {
+      "title": {
+        "hash": "89a42900685a7d9b134f7df5956e47dde1b79c7b83d44f2be857763d2bd35eea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:12:35.864567+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e75c8784af838f958a577c9e26fb0ca47bd4e31a6491e77f447b7201f4b7e43e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:12:35.864567+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クロスモーダル転移により、細胞種を横断した薬物応答のゼロショット予測が可能となる",
+    "abstract_ja": "遺伝的摂動応答は、遺伝子レベルの介入による機能的帰結を捉え、ベースラインの遺伝子発現を超えた薬剤応答予測のための機能的情報を提供する。同一の細胞コンテキスト内において、遺伝的摂動と化学的摂動は共通の調節ネットワークを介するため、摂動モダリティ間で応答情報を転移させるための生物学的基盤となる。本研究では、遺伝的情報から化学的情報への転移とクロスコンテキスト予測を組み合わせることで、標的コンテキストにおける薬剤測定値なしに薬剤誘導性の転写応答を推論するフレームワーク「GRAFT」を提案する。ベンチマークされたLINCSおよび外部コンテキストにおいて、GRAFTは競合手法と比較して、応答の相関、方向性の一致、および大きさの再構成を改善し、特にコンテキスト依存的な応答を示す薬剤においてその効果が顕著であった。GRAFT-Adaptは、標的コンテキストにおける少数の薬剤測定値を用いて、未測定の応答予測をさらに精緻化する。GRAFT-Atlasは13の細胞コンテキストと7,856件の薬剤カタログエントリを網羅し、薬剤とコンテキストの組み合わせについて102,128件の予測を提供している。本アトラスは、認識可能な薬理学的近傍領域、共通の機能的プログラム、コンテキスト依存的な転写変化、および分子ドッキングによって裏付けられた構造・機能間の関連性を捉えた。異なるドナー由来の10種類のiPSC株において、GRAFTはドナー間の差異候補を同定し、測定された遺伝的摂動応答から得られた機能的根拠によって、選定された候補を裏付けた。総じて、GRAFTは摂動情報に基づいた予測と、細胞コンテキストを横断した薬剤応答の比較を可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762520",
+    "title": "Termite-Like Phylogenetic Conservation of Gut Microbiota in Passalid Beetles Suggests Evolutionary Convergence in Decaying Wood Degradation",
+    "abstract": "Beetles of the family Passalidae are an important group of subsocial wood-decomposing (saproxylophagous) insects, spending their entire life cycle living inside and feeding on rotten logs. Decaying wood is an abundant resource, but nutritionally poor and challenging to digest. As in other saproxylophagous insects, digestion for passalids is only possible through symbiotic relationships with their gut microbiota, highlighting the critical roles of these symbionts in the evolution of wood-decomposing insects. Despite its importance, this critical symbiotic relationship remains poorly understood, hindering our ability to identify the factors shaping this association and assessing its role in the evolution of Passalidae. Using high-throughput sequencing of the microbial 16S rRNA we comparatively analyzed the composition and abundance of symbiont lineages in the anterior hindguts of passalid beetles from two independent mountain systems in the Colombian Caribbean region. We tested the influence of geographical co-occurrence and phylogenetic relatedness on gut microbial composition and structure. We posit that if shared locality was the primary driver of gut microbiome assembly, then sympatric species should harbor more similar microbiomes regardless of their phylogenetic relationships. Alternatively, if host evolutionary history is the dominant factor, congeneric species should exhibit more similar microbiomes regardless of geographic co-occurrence. Our results support that phylogenetic relatedness explained substantially more variation in both bacterial and archaeal communities than geographic locality, indicating that gut microbiome composition is primarily structured by host evolutionary history. Furthermore, bacterial and archaeal communities exhibited evidence of phylosymbiosis, although at different phylogenetic scales: bacterial communities more closely reflected relationships among genus level clades, whereas archaeal communities retained congruence mainly at deeper host lineages. We also uncovered extensive bacterial taxonomic novelty, with nearly half of bacterial reads remaining unclassified at the genus level, highlighting the large undescribed microbial diversity associated with Passalidae. These findings lead to establishing Passalidae as a promising comparative model for investigating the evolutionary processes governing gut microbiome assembly and the evolution of lignocellulose-feeding symbioses.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762520",
+    "date": "2026-10-31",
+    "authors": "Beza-Beza CF, Jiménez-Ferbans LA, Redondo-Soto A, Welsh MV, Mikaelyan A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354971",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 66,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762520"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8d5b78226829c7398f0bb600d79b9483ee40a0f1fbb46bf4e083ebf6668d78f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:12:35.864567+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7b9a9bce5034cc05ed83fb0bc7cd111d635ecf7d801f49c4d57c907e7faaee93",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:12:35.864567+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パッサリド甲虫類における腸内細菌叢のシロアリ様系統保存は、朽木分解における進化的収斂を示唆する",
+    "abstract_ja": "パスアリダエ科の甲虫は、亜社会性の木材分解性（腐木食性）昆虫の重要なグループであり、生涯を通じて樹洞内で生活し、腐朽した丸太を餌とする。腐朽木は豊富な資源であるが、栄養価が低く消化が困難である。他の腐木食性昆虫と同様に、パスアリダエ科の消化は腸内微生物叢との共生関係によってのみ可能であり、このことは木材分解性昆虫の進化におけるこれらの共生菌の極めて重要な役割を浮き彫りにしている。その重要性にもかかわらず、この重要な共生関係については依然として十分に解明されておらず、この共生関係を形成する要因の特定や、パスアリダエ科の進化における役割の評価を妨げる要因となっている。我々は、微生物16S rRNAのハイスループットシーケンシングを用い、コロンビア・カリブ海地域の2つの独立した山岳系に生息するパスアリダエ科甲虫の後腸前方における共生菌系統の組成と存在量を比較解析した。地理的な共起および系統的近縁性が、腸内微生物の組成と構造に及ぼす影響を検証した。我々は、もし共有の生息地が腸内マイクロバイオーム形成の主要な駆動要因であるならば、同所的に分布する種は系統的関係に関わらず、より類似したマイクロバイオームを持つはずであると仮定する。あるいは、宿主の進化史が支配的な要因であるならば、同属種は地理的な共起に関わらず、より類似したマイクロバイオームを示すはずである。我々の結果は、系統的近縁性が地理的な生息地よりも細菌群集および古細菌群集の両方において大幅に多くの変異を説明することを支持しており、腸内マイクロバイオームの組成が主に宿主の進化史によって構造化されていることを示している。さらに、細菌群集と古細菌群集は、異なる系統スケールではあったものの、系統共生の証拠を示した。細菌群集は属レベルのクレード間の関係をより密接に反映していたのに対し、古細菌群集は主により深い宿主系統において一致性を維持していた。また、広範な細菌の分類学的新規性も明らかになり、細菌リードのほぼ半分が属レベルで未分類のままであり、パスアリダエ科に関連する未記載の微生物多様性の大きさが浮き彫りとなった。これらの知見は、腸内マイクロバイオーム形成を支配する進化プロセスおよびリグノセルロース食性共生の進化を調査するための有望な比較モデルとしてパスアリダエ科を確立することにつながる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763091",
+    "title": "Diversity-generating retroelements enable phages to expand their host range in the human gut",
+    "abstract": "Diversity-generating retroelements (DGRs) are genetic elements that use error-prone reverse transcription to hypermutate specific target genes, most often the receptor-binding proteins of phages. They are enriched in human gut viruses, where they are hypothesised to enable phages expand their host range. Yet DGR-mediated host-range expansion across bacterial species has so far only been predicted  in silico and has not been examined directly within complex microbial communities. To test this hypothesis  in situ , we tracked phage-host interactions in the human gut, combining bulk metagenomic, virus-like particle (VLP), and Hi-C sequencing of longitudinal faecal samples collected over a five-week period. This culture-independent approach identified 380 interactions between 97 phages and 76 bacterial hosts. Nearly a third of these phages (31 of 97) encoded a DGR, and DGR-encoding phages were more likely to interact with multiple bacterial species. Moreover, nucleotide diversity in DGR-targeted genes increased with the number of hosts a phage interacted with and was concentrated in the surface-exposed, DGR-targeted variable region of its receptor-binding proteins. Together, these results provide  in situ evidence that DGRs enable phages to expand their host range in the human gut.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763091",
+    "date": "2026-10-31",
+    "authors": "van den Hurk AWM, Zuppi M, Kuida MD, Nieuwdorp M, Wortelboer K, Herrema H, de Jonge PA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354970",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "phage",
+        "phages",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 165,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.763091"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4bd63b1302f034ec963d7df84aad3aab27ba50d55ea8e9a5d8625be634f3ded8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:12:35.864567+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3841ed58493fd204e8c70c6981b64123fef09f15880b8dcf64ecccdff908c34d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T00:12:35.864567+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多様性を生み出すレトロエレメントは、ファージがヒト腸内で宿主範囲を拡大することを可能にする。",
+    "abstract_ja": "多様性創出レトロエレメント（DGR）は、エラーを起こしやすい逆転写を利用して特定の標的遺伝子（主にファージの受容体結合タンパク質）を超変異させる遺伝的要素である。DGRはヒト腸内ウイルスに豊富に存在し、そこでファージが宿主範囲を拡大することを可能にするという仮説が立てられている。しかし、細菌種間におけるDGR介在性の宿主範囲拡大は、これまでin silicoでのみ予測されており、複雑な微生物群集内で直接的に検証されてこなかった。この仮説をin situで検証するため、我々は5週間にわたって採取した経時的な糞便試料に対し、バルクメタゲノム解析、ウイルス様粒子（VLP）解析、およびHi-Cシーケンシングを組み合わせて、ヒト腸内におけるファージと宿主の相互作用を追跡した。この培養非依存的な手法により、97種のファージと76種の細菌宿主との間で380件の相互作用が同定された。これらのファージのほぼ3分の1（97種中31種）がDGRをコードしており、DGRをコードするファージは複数の細菌種と相互作用する傾向が強かった。さらに、DGR標的遺伝子のヌクレオチド多様性は、ファージが相互作用する宿主数の増加に伴って増大し、受容体結合タンパク質の表面露出型DGR標的可変領域に集中していた。以上の結果を総合すると、DGRがヒト腸内においてファージの宿主範囲拡大を可能にするというin situの証拠が得られる。"
   }
 ]
