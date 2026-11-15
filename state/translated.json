@@ -251488,5 +251488,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "比較マルチオミクス解析により明らかになった酵母由来細胞外小胞における保存された膜構造と選択的な代謝産物濃縮",
     "abstract_ja": "細胞外小胞（EV）は、あらゆる生物界において細胞間コミュニケーションの基本的な媒介因子であるが、EVの生物学に関する知見は主に哺乳類系から得られてきた。対照的に、酵母由来の細胞外小胞（YDEV）は、バイオテクノロジーや代謝工学における拡張可能かつ非病原性のプラットフォームとしての可能性を秘めているにもかかわらず、その特性解明は不十分なままである。本研究では、高収量の単離ワークフローと比較マルチオミクスを組み合わせることで、3種の酵母および4株の酵母株（従来型モデル酵母であるSaccharomyces cerevisiae (SC)、非モデル油状酵母であるRhodotorula toruloides (RT-88)、およびYarrowia lipolyticaの2株、野生型W29とその改変株Po1f）に由来するEVの代謝活性貨物および膜組成を定義した。接線流ろ過と超遠心分離を組み合わせることで、EV収量に顕著な差はあるものの、すべての株においてナノスケールの形態が保存された、完全な二重層封入小胞を再現可能に単離した。比較メタボロミクスにより、SCではヌクレオチド代謝物、RT-88では脂肪酸およびアシルカルニチン、そしてYarrowia分離株では株特異的な代謝物など、異なる代謝活性貨物の選択的な濃縮が明らかになった。特筆すべきは、ニコチンアミドアデニンジヌクレオチド（NAD⁺）がSCおよびRT-88のEVでは濃縮されていた一方で、Yarrowia由来の小胞ではほとんど認められなかったことであり、これはEVの封入が、本来膜不透過性であるこの補因子の保護輸送を促進している可能性を示唆している。これらの貨物組成の相違とは対照的に、比較リピドミクスでは、すべての株において膜構造が広範に保存されており、特定の脂質クラスおよび膜不飽和度プロファイルの定量的なリモデリングのみが認められることが示された。以上の知見を総合すると、酵母由来の細胞外小胞が保存された膜構造を維持しつつ代謝活性貨物を選択的に濃縮するという組織化原理が支持され、進化的に多様な酵母種にわたるEV生物学を理解するための比較フレームワークが確立された。  Graphical Abstract"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761893",
+    "title": "Functional analysis of  PRPS1  disease alleles reveals altered polymerization and cytoskeletal organization",
+    "abstract": "Phosphoribosyl pyrophosphate synthetase 1 catalyzes a central step in nucleotide biosynthesis, and pathogenic variants cause a spectrum of neurological disorders ranging from loss-of-function syndromes to enzyme superactivity. Despite their opposing biochemical effects, these variants often produce overlapping phenotypes, suggesting that shared cellular processes may contribute to disease pathogenesis. Here, using  Saccharomyces cerevisiae and patient-derived human fibroblasts, we examined how disease-associated variants affect phosphoribosyl pyrophosphate synthetase 1 polymerization and whether changes in assembly are associated with metabolic state and cytoskeletal organization. Human phosphoribosyl pyrophosphate synthetase 1 functionally substituted for essential phosphoribosyl pyrophosphate synthetase paralogs in  Saccharomyces cerevisiae , and disease-associated variants differentially altered filament abundance, length, and architecture in ways not fully explained by changes in protein levels. Polymer assembly was sensitive to cellular metabolic state: deletion of the yeast adenosine kinase gene, a condition previously shown to elevate intracellular adenosine and S-adenosylmethionine, strongly suppressed filament formation, including in hyperpolymerizing superactivity variants. Both gain- and loss-of-function variants were associated with altered actin organization in  Saccharomyces cerevisiae and patient-derived human fibroblasts, whereas the D183H superactivity variant promoted aberrant cytoplasmic polymerization in human cells. Together, these findings identify phosphoribosyl pyrophosphate synthetase 1 polymerization as a metabolically responsive feature associated with cytoskeletal organization and provide a cellular framework for understanding how functionally distinct disease alleles can converge on overlapping phenotypes.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761893",
+    "date": "2026-10-27",
+    "authors": "Monfort E, Broyer RM, Ripoll J, Wilhelm JE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351618",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2527,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761893"
+    ],
+    "translation": {
+      "title": {
+        "hash": "714de604ba52e3b7826a21495d3dcdd4bbaac08e140a8def8f0381f812363573",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:01:56.496857+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "82eb4b999b2aee2a6562b45d81defd262a39dcf8a046088e3d470f45d1023e45",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:01:56.496857+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PRPS1疾患アレルの機能解析により、重合および細胞骨格の構造変化が明らかとなった",
+    "abstract_ja": "ホスホリボシルピロリン酸合成酵素1はヌクレオチド生合成の中核的な段階を触媒しており、病原性変異体は、機能喪失症候群から酵素の超活性に至るまで、多岐にわたる神経疾患を引き起こす。生化学的な作用は相反するものの、これらの変異体はしばしば重複する表現型を呈し、共通の細胞プロセスが疾患の病態形成に寄与している可能性が示唆される。本研究では、Saccharomyces cerevisiaeおよび患者由来ヒト線維芽細胞を用い、疾患関連変異体がホスホリボシルピロリン酸合成酵素1の重合にどのような影響を及ぼすか、また、アセンブリの変化が代謝状態や細胞骨格の組織化と関連しているかを検討した。ヒトホスホリボシルピロリン酸合成酵素1は、Saccharomyces cerevisiaeにおいて必須のホスホリボシルピロリン酸合成酵素パラログを機能的に置換しており、疾患関連変異体は、タンパク質レベルの変化だけでは十分に説明できない形で、フィラメントの量、長さ、および構造を差異的に変化させた。ポリマーアセンブリは細胞の代謝状態に感受性を示した。細胞内アデノシンおよびS-アデノシルメチオニンを上昇させることが以前に示されている酵母アデノシンキナーゼ遺伝子の欠失は、超活性変異体における過剰重合を含むフィラメント形成を著しく抑制した。機能獲得型および機能喪失型の両変異体は、Saccharomyces cerevisiaeおよび患者由来ヒト線維芽細胞においてアクチン組織化の変化と関連していた一方、D183H超活性変異体はヒト細胞において異常な細胞質重合を促進した。以上の知見を総合すると、ホスホリボシルピロリン酸合成酵素1の重合は、細胞骨格の組織化に関連する代謝応答性の特徴であることが特定され、機能的に異なる疾患アレルがいかにして重複する表現型へと収束し得るかを理解するための細胞レベルの枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11203185/v1",
+    "title": "Infrequent transmission of Blastocystis via deep-frozen faecal microbiota transplantation: results from a randomised double-blinded cross-over study",
+    "abstract": "Abstract    Background  Traditionally,  Blastocystis  has been a reason for exclusion from stool donation for faecal microbiota transplantation (FMT), although evidence from clinical studies is very limited. We recently analysed  Blastocystis  data from an irritable bowel syndrome (IBS) trial, evaluating whether FMT using material positive for  Blastocystis  DNA leads to transmission of the protist. Methods  The quantitative PCR data of  Blastocystis  originate from a three-arm, randomised, double-blind, placebo-controlled crossover clinical trial that tested the clinical effects of FMT in 50 patients with IBS. The live faecal material used for FMT remained consistent throughout the study, having been prepared in a single batch by mixing stools from eight donors and then stored frozen at -80°C. The placebo was the same material that had been autoclaved before freezing. The transferred material was highly positive for  Blastocystis  ST3 DNA, yielding a mean threshold cycle of 22.2. A total of 100 FMT interventions were performed, with a mean of 11 stool samples regularly collected from each participant tested for  Blastocystis  . Results  One case of potential transmission was noted among the 31 patients who were initially  Blastocystis-  negative and received live FMT. This patient developed high positivity for  Blastocystis  ST3 DNA nine weeks after FMT, and this positivity persisted without any relevant adverse effects. One additional patient had a single positive sample for an untypeable trace load (Ct = 38.6) at week 24 post-FMT, transmission being considered unlikely as all other stool samples were negative. Pre-existing long-term colonisations with various subtypes (observed in three subjects) were unaffected by live FMT. Conclusions  The frequency of  Blastocystis  transmission from a PCR-positive live FMT was very low, and had no adverse clinical correlates. This may be related to the decreased viability of the protist, given that all faecal doses for FMT were frozen at -80°C for at least three months during quarantine. This observation has implications for relaxing the selection criteria for FMT donors.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11203185/v1",
+    "date": "2026-10-27",
+    "authors": "Cinek O, Cermakova A, Vejmelka J, Hubackova K, Kohout P, Hurych J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351286",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota",
+        "protist"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2530,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11203185/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b59538b72a5408c7c84c4a7ba7499d494352aa14ce21650aee18e66542761032",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:01:56.496857+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "57a5eafdd22220018a2fdcc2343a08ebd31ccfcec7861c4bcd69c2a9316206a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:01:56.496857+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "深凍結糞便微生物移植によるブラストシスティスの稀な伝播：無作為化二重盲検クロスオーバー試験の結果",
+    "abstract_ja": "要旨    背景  従来、Blastocystisは糞便微生物移植（FMT）における便提供の除外理由とされてきたが、臨床研究によるエビデンスは極めて限られている。我々は最近、過敏性腸症候群（IBS）試験におけるBlastocystisのデータを解析し、Blastocystis DNA陽性の検体を用いたFMTが当該原生生物の伝播につながるかどうかを評価した。方法  Blastocystisの定量PCRデータは、IBS患者50例を対象にFMTの臨床的効果を検証した、3群ランダム化二重盲検プラセボ対照クロスオーバー臨床試験から得られたものである。FMTに使用された生便検体は研究期間を通じて一定であり、8名のドナーから採取した便を混合して単一バッチで調製し、-80°Cで凍結保存されていた。プラセボは、凍結前にオートクレーブ処理を施した同一の検体であった。移植された検体はBlastocystis ST3 DNAに対して高い陽性率を示し、平均閾値サイクルは22.2であった。計100例のFMTを実施し、各被験者から平均11検体の便サンプルを定期的に採取してBlastocystisの検査を行った。結果  当初Blastocystis陰性で生FMTを受けた31例のうち、1例で伝播の可能性が認められた。この患者はFMTの9週間後にBlastocystis ST3 DNAの高陽性率を示し、この陽性状態は関連する有害事象なく持続した。さらに別の1例では、FMT後24週目に型判定不能な微量負荷（Ct = 38.6）の陽性検体が1例認められたが、他のすべての便サンプルが陰性であったため、伝播の可能性は低いと考えられた。様々なサブタイプを伴う既存の長期定着（3例で観察）は、生FMTの影響を受けなかった。結論  PCR陽性の生FMTによるBlastocystisの伝播頻度は極めて低く、臨床的な有害相関は認められなかった。これは、隔離期間中、FMTに使用したすべての便検体が少なくとも3か月間-80°Cで凍結保存されていたことから、原生生物の生存率の低下に関連している可能性がある。この知見は、FMTドナーの選定基準を緩和する上で示唆するところがある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.761023",
+    "title": "Benchmarking Large Language Models for Transcriptomic Data Analysis and Visualization: Multi-Model Workflow Evaluation",
+    "abstract": "This study presents a comprehensive benchmarking evaluation of large language models(LLMs) and agentic coding systems for automated analysis and visualization workflows for transcriptomic data, in particular human responses to COVID-19 infection. Multiple models, including ChatGPT 5.5, Claude Sonnet 4.6, Gemini 3.1, and Llama4-Scout, were assessed across a series of scientific prompts designed to test their ability to reproduce workflow components such as dimensionality reduction, clustering, outlier detection, reproducibility, and code generation. The benchmark protocol involved varying prompt specificity and examined both quantitative metrics such as clustering scores and outlier counts as well as qualitative aspects such as code quality and reproducibility. Results indicate that prompt specificity improves code structure and methodological correctness, but quantitative performance depends heavily on preprocessing choices and execution environment. While some models produced strong code and reproducible outputs, alignment with scientific targets like label-based clustering was inconsistent. The findings highlight the promise and limitations of current LLMs for automating scientific data analysis and visualization and suggest directions for future benchmarking and workflow standardization.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.761023",
+    "date": "2026-10-27",
+    "authors": "Iyer A, Subedi A, Butler KS, Krishnakumar R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351542",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "transcriptomic",
+        "visualization",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3249,
+    "collected_at": "2026-11-11T10:55:29.934283+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.22.761023"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8ebda1c87143d451e8aac5323dd16976553d623656dc3e7ae43daf8e4f54e892",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:01:56.496857+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "78dedc7d1e77c478723b602a207f9a91726d3295d1fc73df669fc673a4c10a89",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:01:56.496857+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トランスクリプトームデータの解析・可視化における大規模言語モデルのベンチマーク：マルチモデルワークフローの評価",
+    "abstract_ja": "本研究では、トランスクリプトームデータ、特にCOVID-19感染に対するヒトの反応を対象とした自動解析および可視化ワークフローにおいて、大規模言語モデル（LLM）とエージェント型コーディングシステムの包括的なベンチマーク評価を行う。ChatGPT 5.5、Claude Sonnet 4.6、Gemini 3.1、Llama4-Scoutを含む複数のモデルを対象に、次元削減、クラスタリング、外れ値検出、再現性、コード生成といったワークフロー構成要素の再現能力を検証するために設計された一連の科学的プロンプトを用いて評価を実施した。ベンチマークプロトコルでは、プロンプトの具体性を変化させ、クラスタリングスコアや外れ値数などの定量的指標に加え、コードの品質や再現性といった定性的側面の双方を検証した。その結果、プロンプトの具体性はコード構造と方法論的な正確性を向上させる一方で、定量的な性能は前処理の選択や実行環境に大きく依存することが示された。一部のモデルは優れたコードと再現可能な出力を生成したが、ラベルベースのクラスタリングといった科学的な目標との整合性は一貫していなかった。本知見は、科学的データの解析および可視化の自動化における現行のLLMの可能性と限界を浮き彫りにするものであり、今後のベンチマークおよびワークフローの標準化に向けた方向性を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2695.v1",
+    "title": "Mechanisms of Radioresistance Involving the cGAS-STING Pathway in Hepatocellular Carcinoma and Novel Solutions to Enhance Radioimmunotherapy",
+    "abstract": "Hepatocellular carcinoma (HCC) is a major cause of cancer-related deaths, and cases are on the rise due to increased prevalence of metabolic syndromes and alcohol consumption. HCC has a poor prognosis and is challenging to treat due to the immune-tolerant nature of the liver and resulting immunosuppressive tumor microenvironment (TME). Radiotherapy has emerged as an effective HCC treatment that is able to remodel the TME of HCC tumors by inducing dsDNA breaks that activate the cGAS-STING pathway and downstream anti-tumor immune response. However, numerous mechanisms of radioresistance can limit radiotherapy efficacy, including suppression of radiation-induced cGAS-STING activation and, paradoxically, the immunosuppressive effects that can arise from sustained or context-dependent cGAS-STING signaling. In this review, we will first examine how underlying conditions such as liver matrix stiffness, gut bacteria dysbiosis, and tumor mutations can impair STING activation and how novel STING agonists and DNA damage response (DDR) inhibitors can promote radiosensitivity by enhancing STING activation. We will further discuss how immunotherapy can synergize with radiotherapy by mitigating the immunosuppressive effects of STING activation as well as how artificial intelligence can be integrated to improve HCC patient outcomes.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2695.v1",
+    "date": "2026-10-27",
+    "authors": "Subramanian S, Dokic L, Pandita RK, Ramose KS, Pandita S, Gregoire V, Krishnan S, Rogers S, Pandita TK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352779",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3489,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.20944/preprints202610.2695.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "60f4d284846e70d227a44b5599a9a65f07a39a82524d88ddbacccec7399db7b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:01:56.496857+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "297dbb1bb4bccf5998179573352881866b93e23296afdffed8cefcd56fa818c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T19:01:56.496857+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "肝細胞癌におけるcGAS-STING経路が関与する放射線耐性機構と放射線免疫療法を増強する新規解決策",
+    "abstract_ja": "肝細胞癌（HCC）はがん関連死の主要な原因であり、メタボリックシンドロームの有病率の上昇やアルコール摂取の増加に伴い、症例数が増加している。HCCは予後不良であり、肝臓の免疫寛容な性質と、それに伴う免疫抑制的な腫瘍微小環境（TME）により治療が困難である。放射線療法は、cGAS-STING経路およびその下流の抗腫瘍免疫応答を活性化するdsDNA切断を誘導することで、HCC腫瘍のTMEをリモデリングできる有効な治療法として台頭してきた。しかし、放射線誘発性のcGAS-STING活性化の抑制や、逆説的に、持続的またはコンテキスト依存的なcGAS-STINGシグナル伝達から生じ得る免疫抑制効果など、数多くの放射線耐性機序が放射線療法の有効性を制限し得る。本総説では、まず肝マトリックスの剛性、腸内細菌叢の乱れ、腫瘍変異といった基礎疾患がいかにしてSTING活性化を阻害し得るか、また、新規STINGアゴニストやDNA損傷応答（DDR）阻害剤がいかにしてSTING活性化を増強することで放射線感受性を促進し得るかについて検討する。さらに、免疫療法がSTING活性化による免疫抑制効果を軽減することで放射線療法といかに相乗的に作用し得るか、また、人工知能をどのように統合してHCC患者の転帰を改善し得るかについて論じる。"
   }
 ]
