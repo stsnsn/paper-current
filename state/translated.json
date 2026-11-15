@@ -236690,5 +236690,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "デングウイルス血清型2感染は、マウスにおいて宿主好中球を転写的に再プログラミングし、免疫抑制性微小環境を構築する。",
     "abstract_ja": "デングウイルス（DV）感染は宿主の免疫応答に著しい変化をもたらすが、疾患進行過程における自然免疫細胞のトランスクリプトーム・リプログラミングについては、いまだ十分に解明されていない。本研究では、デングウイルス血清型2（DV-2）感染が宿主の好中球を転写的にリプログラミングし、病態形成を促進する免疫抑制性微小環境を構築することを実証した。DV-2感染AG129マウスモデルの骨髄および脾細胞を用いたscRNAトランスクリプトームプロファイリングにより、デング感染の経過に伴い未成熟および活性化集団が動的に変化する、特徴的な好中球シグネチャーを明らかにした。また、疾患進行に伴って出現する特異的なLy6G lowサブポピュレーション、特にフィブリノゲン様タンパク質2（FGL2）発現サブセットを特性解析した。血清FGL2レベルは、DV-2感染マウスおよびヒトデング陽性患者の双方において有意に上昇していた。さらに、脾細胞をFGL2またはFGL2濃縮好中球セクレトームで処理すると、T細胞の機能的活性が抑制され、免疫抑制性表現型が促進された。これらの知見を総合すると、DV-2誘導性の好中球リプログラミングがいかにして免疫抑制ネットワークを形成するかが明らかになり、デングの免疫病態形成を理解する上でFGL2発現好中球サブセットを研究することの重要性が浮き彫りとなった。本研究の付加価値：本研究は、マウスモデルにおけるデングウイルス血清型2感染時の好中球不均一性のシングルセル・トランスクリプトームマップを提供し、初期の保護的サブセットから、重症期の免疫抑制性Ly6G lowおよび未成熟サブポピュレーションへの重要な時間的移行を明らかにした。疾患の進行は、可溶性タンパク質であるフィブリノゲン様タンパク質2（FGL2）を分泌しT細胞の機能的活性を抑制する異常細胞サブポピュレーション（Ly6G low）を誘発し、免疫抑制性表現型を促進する。ヒトデング患者における血漿中FGL2レベルの上昇を検証することで、本研究は、マウスモデルにおける重症デングの免疫抑制の潜在的な媒介因子として、FGL2を分泌するLy6G low好中球サブセットを同定した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762611",
+    "title": "Feedback control via H3K9 methylation and siRNA biogenesis autonomously maintains RNAi heterochromatin through continuous low-level transcription",
+    "abstract": "The logic of RNA-based silencing involves nascent RNA molecules that serve as scaffolds to recruit proteins that repress transcription. Despite transcription and silencing being antagonistic, RNA-based recruitment mechanisms have been widely adopted in organisms ranging from yeast to humans. In fission yeast (  Schizosaccharomyces pombe ), the nuclear RNAi pathway that establishes heterochromatin at pericentromeric repeats to silence transcription exemplifies this paradox. Current models propose that cells reconcile these opposing activities by confining pericentromeric transcription to S phase while maintaining silencing during the rest of the cell cycle. Here, using strand-specific single-molecule RNA FISH (smFISH), we detect forward and reverse pericentromeric transcripts with high sensitivity and single-cell resolution. We find that repeat-associated transcription is rare, heterogeneous and happens independently of cell-cycle control. Instead, transcript production is governed solely by feedback involving small RNA biogenesis and H3K9 methylation. By combining mathematical modeling with experiments, we show that low levels of H3K9me or siRNAs prevent heterochromatin establishment, whereas high levels of H3K9me cause stochastic switching. Our work reveals that the same RNA-based feedback architecture can sample distinct transcriptional regimes, with feedback strength determining how often cells produce transcripts without any external regulatory inputs.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762611",
+    "date": "2026-10-30",
+    "authors": "Maheshwaram SK, Abdulla AZ, Chiu S, Morris-Evans D, Kondev J, Ragunathan K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354269",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3345,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.28.762611"
+    ],
+    "translation": {
+      "title": {
+        "hash": "906984fc48c0c3b1fc32217d9946e181426015a88315efcd9c273ff05c6f24b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:58:55.890650+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "514fc4e5c40244a360c6e5a3c3ab2bd9fbfa4114d3ac9f345b0a44d255d32241",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:58:55.890650+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "H3K9メチル化とsiRNA生合成によるフィードバック制御は、持続的な低レベル転写を通じてRNAiヘテロクロマチンを自律的に維持する。",
+    "abstract_ja": "RNAベースのサイレンシングの機構は、転写を抑制するタンパク質をリクルートするための足場として機能する新生RNA分子に関わる。転写とサイレンシングは拮抗関係にあるにもかかわらず、RNAベースのリクルート機構は、酵母からヒトに至るまで幅広い生物で広く採用されてきた。分裂酵母（Schizosaccharomyces pombe）において、周中心体リピートにヘテロクロマチンを形成して転写をサイレンシングする核内RNAi経路は、このパラドックスを典型的に示している。現在のモデルでは、細胞は周中心体転写をS期に限定する一方で、細胞周期のそれ以外の期間にはサイレンシングを維持することで、これら相反する活性の調和を図っていると提唱されている。本研究では、鎖特異的な単分子RNA FISH（smFISH）を用い、順方向および逆方向の周中心体転写産物を高感度かつ単一細胞解像度で検出した。その結果、リピート関連の転写は稀かつ不均一であり、細胞周期の制御とは独立して起こることが明らかになった。むしろ、転写産物の産生は、小分子RNA生合成とH3K9メチル化が関与するフィードバックのみによって制御されている。数理モデリングと実験を組み合わせることで、低レベルのH3K9meまたはsiRNAがヘテロクロマチンの形成を妨げる一方で、高レベルのH3K9meは確率的な切り替えを引き起こすことを示した。本研究は、同一のRNAベースのフィードバック構造が異なる転写レジームをサンプリングし得ること、およびフィードバック強度が、外部の調節入力なしに細胞が転写産物を産生する頻度を決定することを明らかにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762777",
+    "title": "Agricultural digestate ultrafiltrate outperforms synthetic media for microalgal biomass production while enabling biostimulant generation",
+    "abstract": "Livestock digestate ultrafiltrate (UF), obtained through membrane treatment of anaerobic digestate, is a nutrient-rich stream whose valorization remains largely unexplored. By removing suspended solids while retaining dissolved nutrients, ultrafiltration reduces turbidity and overcomes major limitations associated with using digestate for microalgal cultivation. This study evaluated UF as a nutrient source for  Chlorella sorokiniana and  Nannochloropsis oceanica , coupling ammonium recovery and biomass production with biomass valorization as a plant biostimulant. Given the high ammonium content of UF, ammonium tolerance was assessed in both species using ammonium bicarbonate as the nitrogen source. Increasing UF concentrations were then tested in laboratory photobioreactors and compared with synthetic media. Biomass productivity, nutrient removal, biomass composition, and biostimulant activity were evaluated. Both species tolerated ammonium-rich conditions and grew efficiently in UF-based media. UF significantly outperformed synthetic media, increasing biomass accumulation by up to 104% in  N. oceanica and 133% in  C. sorokiniana , while ammonium removal exceeded 99% and 98%, respectively.  C. sorokiniana maintained high productivity when UF was diluted exclusively with water, indicating that UF supplied most nutrients required for growth. The enhanced productivity could not be explained solely by ammonium availability, suggesting a contribution from the complex nutrient composition retained during ultrafiltration. UF-derived biomass exhibited biostimulant activity, promoting tomato root development and increasing root and shoot biomass under reduced nitrogen availability. Digestate-derived UF therefore acts as both an efficient nutrient-recovery stream and a growth-promoting microalgal medium, enabling the conversion of membrane-treated digestate into biostimulant biomass within a circular biorefinery framework.  Highlights  Digestate ultrafiltrate outperformed synthetic media for algae cultivation Chlorella sorokiniana biomass increased by up to 133%  Nannochloropsis oceanica biomass increased by up to 104%  Ammonium removal reached >98% during microalgal cultivation Ultrafiltrate derived biomass promoted root and shoot development in tomato plants",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762777",
+    "date": "2026-10-30",
+    "authors": "Miotti T, Maver M, Peli M, Lo Coco R, Rodegher G, Viglioli G, Frison N, Bolzonella D, Zamboni A, Ballottari M, Cazzaniga S.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354256",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microalgal"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3346,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.29.762777"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a898057049d4c58847d7e347cd26b6c8fbe3947a43017901f62a1b982d68efa3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:58:55.890650+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4dff98f143de75fd03191a935cfcb4e25ce7b9b35e0fb01f41afaba9b66b97dc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:58:55.890650+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "農業消化液限外ろ液は、微細藻類バイオマス生産において合成培地を上回る性能を示すとともに、バイオスティミュラントの生成を可能にする。",
+    "abstract_ja": "嫌気性消化液の膜処理によって得られる家畜消化液限外ろ液（UF）は、栄養豊富なストリームであり、その有効利用は依然としてほとんど解明されていない。超ろ過は、溶存栄養素を保持しつつ懸濁物質を除去することで濁度を低減し、消化液を微細藻類培養に用いる際に伴う主要な制約を克服する。本研究では、Chlorella sorokinianaおよびNannochloropsis oceanicaの栄養源としてUFを評価し、アンモニウム回収およびバイオマス生産を、植物バイオスティミュラントとしてのバイオマス有効利用と組み合わせた。UFのアンモニウム含有量が高いことから、窒素源として炭酸水素アンモニウムを用い、両種におけるアンモニウム耐性を評価した。次いで、実験室用光バイオリアクターにおいてUF濃度の上昇を検証し、合成培地と比較した。バイオマス生産性、栄養素除去量、バイオマス組成、およびバイオスティミュラント活性を評価した。両種ともアンモニウム豊富な条件に耐え、UFベースの培地で効率的に生育した。UFは合成培地を有意に上回り、バイオマス蓄積量をN. oceanicaで最大104%、C. sorokinianaで133%増加させた。また、アンモニウム除去率はそれぞれ99%および98%を超えた。C. sorokinianaは、UFを水のみで希釈した場合にも高い生産性を維持し、UFが生育に必要な栄養素の大部分を供給していることが示された。この生産性の向上はアンモニウムの利用可能性のみでは説明できず、超ろ過過程で保持された複雑な栄養組成の寄与が示唆された。UF由来のバイオマスはバイオスティミュラント活性を示し、窒素利用可能性が低下した条件下でトマトの根の発達を促進し、根および地上部のバイオマスを増加させた。したがって、消化液由来のUFは、効率的な栄養回収ストリームであると同時に生育促進型の微細藻類培地としても機能し、循環型バイオリファイナリーの枠組みにおいて、膜処理済み消化液をバイオスティミュラントバイオマスへと変換することを可能にする。ハイライト 消化液限外ろ液は藻類培養において合成培地を上回った Chlorella sorokinianaのバイオマスは最大133%増加した Nannochloropsis oceanicaのバイオマスは最大104%増加した 微細藻類培養におけるアンモニウム除去率は98%を超えた 限外ろ液由来のバイオマスはトマト植物の根および地上部の発達を促進した"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11528962/v1",
+    "title": "Integrative systems biology identifies shared neuroimmune co-expression programmes across pulmonary tuberculosis and Alzheimer's disease",
+    "abstract": "Abstract    Background  : There is growing evidence that pulmonary tuberculosis (PTB) exerts long-lasting systemic effects on brain function, whereas Alzheimer's disease (AD) is increasingly recognized as a systemic neuroimmune disorder. BCG vaccination studies suggest that tuberculosis-associated immune pathways influence AD-related biology. However, whether PTB-associated co-expression programmes exhibit concordant activity in AD and display reproducible neuroanatomical organization within the human brain remains unknown. We hypothesized that PTB-associated co-expression programmes would exhibit concordant transcriptional activity in AD, retain aspects of their underlying co-expression architecture across diseases, and identify shared neuroimmune mechanisms relevant to chronic infection and neurodegeneration. We implemented an integrative systems biology framework combining whole-blood transcriptomics, weighted gene co-expression network analysis, functional enrichment, immune-cell deconvolution, and machine learning to identify PTB-associated co-expression programmes and prioritize biomarkers. These programmes were validated in two independent PTB cohorts, evaluated in an AD dataset, and mapped onto the Allen Human Brain Atlas to characterize neuroanatomical organization.  Results:  Active PTB was associated with widespread transcriptional remodeling, with 1,389 dysregulated genes organized into 16 PTB-associated co-expression modules. Nested machine learning identified a 12-gene biomarker signature that demonstrated excellent diagnostic performance in the discovery cohort (AUC ≈ 0.99) and retained performance in two independent external PTB datasets without model retraining. Majority of PTB-derived immune co-expression modules exhibited concordant activity in the independent AD cohort. Formal module-preservation analysis demonstrated that several PTB-derived networks retained moderate preservation in AD, supporting partial conservation of co-expression architecture across diseases. Brain transcriptomic mapping demonstrated reproducible region-specific organization across adult brain donors. Integrated neuroanatomical contextualization prioritized a subset of PTB-derived neuroimmune modules using cross-disease transcriptional activity, regional specificity, and inter-donor reproducibility, revealing neuroimmune transcriptional programmes shared across infection and neurodegeneration.  Conclusions:  Our findings establish a systems-level framework for investigating shared neuroimmune processes across chronic infection and neurodegeneration while identifying reproducible co-expression modules and candidate biomarkers for future studies.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11528962/v1",
+    "date": "2026-10-30",
+    "authors": "Taofeek OO, Adigun SA, Oladipo EK, Mushebenge AG, Khairallah A, Akinduti P, Sulaimon LA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353969",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3351,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11528962/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cc6ea5697c5664a031a2fe50f4187b3755d71933b51e4c2d30a2963276a02ad5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:58:55.890650+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8ed6d7e57d87f01d0c11a6d48d277be4191557a7d6efd2cf2faa7020a42fb1a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:58:55.890650+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合システム生物学により、肺結核とアルツハイマー病における共通の神経免疫共発現プログラムが同定された。",
+    "abstract_ja": "要旨    背景  ：肺結核（PTB）が脳機能に持続的な全身性影響を及ぼすという証拠が増えており、一方でアルツハイマー病（AD）は全身性の神経免疫疾患として認識されつつある。BCGワクチン接種研究は、結核関連の免疫経路がAD関連の生物学的機構に影響を与えることを示唆している。しかし、PTB関連の共発現プログラムがADにおいても一貫した活性を示し、ヒト脳内で再現性のある神経解剖学的構成を有するかどうかは依然として不明である。我々は、PTB関連の共発現プログラムがADにおいても一貫した転写活性を示し、疾患間でその基盤となる共発現アーキテクチャの側面を保持し、慢性感染および神経変性に関連する共通の神経免疫機構を特定するという仮説を立てた。我々は、全血トランスクリプトミクス、重み付き遺伝子共発現ネットワーク解析、機能的エンリッチメント、免疫細胞デコンボリューション、および機械学習を組み合わせた統合的なシステム生物学フレームワークを実装し、PTB関連の共発現プログラムを同定してバイオマーカーの優先順位付けを行った。これらのプログラムは、2つの独立したPTBコホートで検証され、ADデータセットで評価されたほか、神経解剖学的構成を特徴づけるためにAllen Human Brain Atlasにマッピングされた。  結果：  活性型PTBは広範な転写リモデリングと関連しており、1,389個の調節不全遺伝子が16個のPTB関連共発現モジュールに組織化されていた。入れ子構造の機械学習により、12遺伝子からなるバイオマーカーシグネチャーが同定され、これは発見コホートにおいて優れた診断性能（AUC ≈ 0.99）を示し、モデルの再学習なしに2つの独立した外部PTBデータセットにおいても性能を維持した。PTB由来の免疫共発現モジュールの大部分は、独立したADコホートにおいても一貫した活性を示した。正式なモジュール保存解析により、いくつかのPTB由来ネットワークがADにおいても中程度の保存性を維持していることが示され、疾患間での共発現アーキテクチャの部分的な保存が支持された。脳トランスクリプトームマッピングにより、成人脳ドナー間で再現性のある領域特異的な構成が示された。統合的な神経解剖学的コンテキスト化により、疾患横断的な転写活性、領域特異性、およびドナー間の再現性を用いて、PTB由来の神経免疫モジュールのサブセットを優先順位付けし、感染と神経変性に共通する神経免疫転写プログラムを明らかにした。  結論：  本研究の知見は、慢性感染と神経変性にわたる共通の神経免疫プロセスを調査するためのシステムレベルのフレームワークを確立するとともに、今後の研究に向けた再現性のある共発現モジュールおよび候補バイオマーカーを特定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11007567/v1",
+    "title": "Multi-Omics Analysis of the Enhancement of Bioactive Components in Glycyrrhiza uralensis Fisch. through Combined Inoculation with Rhizobium and PGPR under Salt Stress",
+    "abstract": "Abstract    Background and objective  Licorice, an important forage crop widely cultivated worldwide, faces increasing scarcity of wild resources, making artificial cultivation the primary means of market supply. Salt stress negatively impacts the quality and yield of licorice, while microbial inoculation can not only effectively alleviate the damage caused by salt stress but also enhance its quality. To elucidate the response mechanism of licorice to salt stress, this study investigated the physiological, transcriptomic, and metabolomic changes under salt stress. Results  The results showed that the combined inoculation group exhibited significant increases in osmotic substance and chlorophyll content. Transcriptome and metabolome sequencing analysis, along with pathway validation, identified 34, 76, and 54 differentially expressed genes (DEGs) in the CK  vs  CKNaCl, GM9ZNaCl  vs  CKNaCl, and GM10NaCl  vs  CKNaCl groups, respectively. These genes were primarily enriched in pathways such as ABC transporters, oxidative phosphorylation, plant hormone signal transduction, and jasmonic acid biosynthesis. The contents of metabolites including linoleic acid, amino acids, and jasmonic acid in licorice were significantly increased. Conclusion  It is inferred that combined inoculation may enhance the osmotic regulation capacity and antioxidant defense ability of  G. uralensis  roots under salt stress, activate phytohormone signaling pathways such as jasmonic acid, and thereby coordinately regulate the expression of related functional genes, effectively improving the salt tolerance of  G. uralensis  and promoting the synthesis of secondary metabolites. This study provides an important theoretical basis for utilizing microbial agents to improve the growth of medicinal plants in saline-alkali soils.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11007567/v1",
+    "date": "2026-10-30",
+    "authors": "Hao¹·² Y, Yubo¹·² Y, Shengjun¹·² M, Wenfeng³ C, Kunhong D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353942",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3352,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11007567/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "548168bf223c8cf9c9aa09376a6cf58d8e713755c1102b378b01598cfa22bfd5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:58:55.890650+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dacc5e3e2939da31e585d8c781453aaf314bdb2f7accdd47c7e9a0e5bea2dd73",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:58:55.890650+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "塩ストレス下におけるRhizobiumおよびPGPRの併用接種によるGlycyrrhiza uralensis Fisch.の生理活性成分増強に関するマルチオミクス解析",
+    "abstract_ja": "要旨    背景および目的  世界中で広く栽培されている重要な飼料作物である甘草は、野生資源の不足が深刻化しており、人工栽培が市場供給の主要な手段となっている。塩ストレスは甘草の品質と収量に悪影響を及ぼす一方、微生物接種は塩ストレスによる被害を効果的に軽減するだけでなく、その品質を向上させることができる。本研究では、塩ストレスに対する甘草の応答機構を解明するため、塩ストレス下における生理学的、トランスクリプトーム的、およびメタボローム的な変化を調査した。結果  その結果、複合接種群では浸透圧物質およびクロロフィル含有量が有意に増加することが示された。トランスクリプトームおよびメタボロームのシーケンシング解析とパスウェイ検証により、CK  vs  CKNaCl、GM9ZNaCl  vs  CKNaCl、およびGM10NaCl  vs  CKNaClの各群において、それぞれ34個、76個、54個の発現変動遺伝子（DEGs）が同定された。これらの遺伝子は主に、ABCトランスポーター、酸化的リン酸化、植物ホルモンシグナル伝達、およびジャスモン酸生合成などのパスウェイに濃縮されていた。甘草中のリノール酸、アミノ酸、およびジャスモン酸を含む代謝物の含有量は有意に増加していた。結論  複合接種は、塩ストレス下におけるG. uralensis根の浸透圧調節能および抗酸化防御能を高め、ジャスモン酸などの植物ホルモンシグナル伝達経路を活性化することで、関連する機能遺伝子の発現を協調的に調節し、G. uralensisの耐塩性を効果的に向上させ、二次代謝産物の合成を促進する可能性があると推察される。本研究は、塩アルカリ土壌における薬用植物の生育改善に微生物剤を活用するための重要な理論的根拠を提供するものである。"
   }
 ]
