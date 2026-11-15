@@ -242958,5 +242958,347 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ブロイラー胚に感染するEnterococcus gallinarumおよびEnterococcus aviumのゲノム特性解析：鳥類分離株に関連する共通の統合的・接合的エレメント",
     "abstract_ja": "エンテロコッカス属菌は、広範な宿主に感染する一般的な日和見病原体であり、しばしば多剤耐性を示す。我々の研究では、ブロイラー胚または孵化直後の雛に感染するエンテロコッカス属の数種を同定した。ブロイラーから分離したEnterococcus aviumおよびEnterococcus gallinarumのゲノムアセンブリを、家禽およびその他の宿主のゲノムと比較し、系統ゲノム学的関係およびパンゲノム関連性を解析した。3つの異なる手法により、E. gallinarumにおける宿主選好性がゲノム進化に関連しており、3つの顕著なクラスターが存在することが示された。E. aviumにおいては、宿主範囲に関する分離株のクラスター化を示すそのような証拠は認められない。パンゲノム解析により、両種のヒト分離株と比較して、鳥類および家禽の分離株に富む、約36 kbpにわたる50〜51遺伝子のクラスターが同定された。このクラスターについて異なるパイプラインを用いて遺伝子アノテーションをChatGPT+で解析した結果、このクラスターは新規の統合・接合要素（Integrative and Conjugative Element: ICE）である可能性が高いと予測された。代表的なICEインサートとして、E. gallinarum EGM181のICE3、およびE. avium 1788のハイブリッドアセンブリ由来のICE1およびICE2が同定された。これらのICEの境界は、ICEを欠く近縁ゲノムとのアライメントによって特定された。ICE1とICE3は99%同一であり、ICE2はICE1/ICE3と94%同一であった。ChatGPT+を用いて2つのパイプラインを構築し、両種の利用可能な全ゲノムを対象にICE1様およびICE2様のスクリーニングを行い、その後、フランキング遺伝子の同定を含む完全なICEを抽出した。E. gallinarumのゲノムには13個のICE1様および1個のICE2様が含まれており、E. aviumのゲノムには15個のICE1様および4個のICE2様が含まれていた。2つのICEを含んでいたのは1788のみであった。31のゲノムにおいて、ICEインサートはUDP-N-アセチルムラモイル-トリペプチド-D-アラニル-D-アラニンリガーゼ（murF）の下流かつDEAD-box ATP依存性RNAヘリカーゼ（cshA）の上流に位置しており、すべてのインサートがフランキング遺伝子に対して同一の配向を示していた。1788では、ICE2の上流遺伝子はmurF、下流遺伝子はグルコース取り込みタンパク質であり、ICE1では上流遺伝子がsapS、下流遺伝子がcshAであった。パイプラインにより、2つのコンティグにわたってICE1またはICE2が分岐しているE. gallinarumのゲノムがさらに6つ、E. aviumのゲノムがさらに5つ同定された。遺伝子アノテーションのうち20件は仮説上のものまたは定義が不十分なポリペプチドであるが、ChatGPT+は残りを複製制御/調節/補助、接合転移、安定性/維持、組換え/可動性、または接着/バイオフィルムに分類している。したがって、細菌分離株を鳥類/家禽に関連付ける上でのICEの役割は現時点では特定できないが、おそらくこれらの新規ICEの適応領域にある20個の仮説上の/定義不十分な遺伝子に存在していると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11182839/v1",
+    "title": "Exiguobacterium sargassi sp. nov., a novel seaweed-associated bacterium isolated from Sargassum henslowianum with a glycoside-hydrolase-enriched CAZyme repertoire",
+    "abstract": "Abstract    Marine macroalgae are rich in complex polysaccharides, making them ideal habitats for finding undiscovered bacterial lineages with unique metabolic capabilities. A novel Gram-variable, facultatively anaerobic bacterium, designated strain RM11  T  , was isolated from the internal tissue of  Sargassum henslowianum  collected in Quang Ngai province, Vietnam. Growth occurred at 10–45°C, pH 7.0–10.0 and 1–12% (w/v) NaCl. Phylogenetic analysis of the 16S rRNA gene placed strain RM11  T  within the genus  Exiguobacterium  , with the highest sequence similarity to  E. qingdaonense  S82  T  (99.82%). Average nucleotide identity (ANI) values ranged from 86.46 to 90.92% and digital DNA–DNA hybridization (dDDH) values from 30.5 to 41.7%, both well below species-delineation thresholds (95–96% ANI; 70% dDDH). The genome (2,859,837 bp; G + C 47.79%) encodes genes for heavy-metal transport, ammonia assimilation, and oxidative and osmotic stress responses. Annotation of carbohydrate-active enzymes (CAZymes) revealed a glycoside-hydrolase-dominated repertoire enriched in GH13 family members predicted to participate in α-glucan metabolism, together with a candidate secreted GH16_3–CBM4 β-glucanase, whereas no polysaccharide lyase genes were detected. Based on the combined phenotypic, chemotaxonomic and genomic evidence, we propose  Exiguobacterium sargassi  sp. nov., with the type strain RM11  T  (= KCTC 43930  T   = InaCC B1791  T  ).",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11182839/v1",
+    "date": "2026-10-28",
+    "authors": "Han HL, Vuong TQ, Nguyen TDP, Kim S, Dang MN.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352087",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 47,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11182839/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bd4edfb741a3631a85d8a7b748fa16ab1d33e983f407266e9bea099a5ac9a6c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:02:26.875073+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "05517220b7dc3e055867090af74817dd9fa7da164056bdd182c1a9d38d0550d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:02:26.875073+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Exiguobacterium sargassi sp. nov.：グリコシド加水分解酵素を豊富に含むCAZymeレパートリーを有する、Sargassum henslowianumから単離された新規海藻関連細菌",
+    "abstract_ja": "要旨    海洋大型藻類は複雑な多糖類を豊富に含んでおり、独自の代謝能を有する未発見の細菌系統を探索する上で理想的な生息環境となっている。ベトナムのクアンガイ省で採取されたSargassum henslowianumの内部組織から、新規のグラム可変性通性嫌気性細菌（指定株 RM11 T）を分離した。増殖は10–45°C、pH 7.0–10.0、および1–12% (w/v) NaClの条件下で認められた。16S rRNA遺伝子の系統解析により、株RM11 TはExiguobacterium属に分類され、E. qingdaonense S82 Tと最も高い配列類似性（99.82%）を示した。平均ヌクレオチド同一性（ANI）値は86.46～90.92%、デジタルDNA–DNAハイブリダイゼーション（dDDH）値は30.5～41.7%であり、いずれも種の境界判定閾値（ANI 95–96%、dDDH 70%）を十分に下回っていた。ゲノム（2,859,837 bp; G + C 47.79%）には、重金属輸送、アンモニア同化、および酸化的・浸透圧ストレス応答に関する遺伝子がコードされている。糖質活性酵素（CAZymes）のアノテーションにより、α-グルカン代謝に関与すると予測されるGH13ファミリーメンバーに富むグリコシドヒドロラーゼ主体のレパートリーと、分泌型GH16_3–CBM4 β-グルカナーゼ候補が認められた一方、多糖類リアーゼ遺伝子は検出されなかった。表現型、化学分類学的、およびゲノム的な証拠を総合し、我々はタイプ株RM11 T（= KCTC 43930 T  = InaCC B1791 T）を有するExiguobacterium sargassi sp. nov.を提案する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762393",
+    "title": "Expanding the Repertoire of Associations Between Antibiotic Resistance Genes and Putative Mobile Genetic Element Carriers Using Metagenomic Long Reads",
+    "abstract": "Antibiotic resistance genes (ARGs) and the mobile genetic elements (MGEs) that mediate their horizontal transfer are central to understanding the mechanisms, evolution, and dissemination of antimicrobial resistance. Although thousands of ARGs have been documented and numerous ARG–MGE associations have been reported, broader questions about the diversity and distribution of these associations remain underexplored. How comprehensive are the current catalogs of ARG–MGE associations? Are certain MGE families preferentially associated with particular ARGs, and vice versa? How are ARG–MGE associations distributed across microbial taxa? Is the environmental abundance of an ARG related to the diversity of its MGE associations? Do ARG–MGE association patterns vary across environments? Here we address these questions by analyzing multiple publicly available long-read metagenomic datasets from various environmental settings, leveraging the ability of long reads to capture ARGs along with their genomic contexts within individual reads. We identified numerous potential ARG–MGE associations not found in existing databases. A few MGE families were putatively associated with nearly all identified ARGs. ARG–MGE associations were unevenly distributed across taxa. ARG abundance was positively associated with both MGE association diversity and the taxonomic spread of those associations. Furthermore, ARG–MGE association patterns varied across environments. Overall, our findings reveal an extensive diversity of ARG–MGE associations that remains largely underrepresented in current knowledge bases. Importance  Antibiotic resistance is a growing global concern, in part because mobile genetic elements facilitate the spread of resistance genes across bacterial populations, taxa, and environments. Characterizing the associations between resistance genes and mobile genetic elements, and assessing their distribution across taxa and environments, can provide insights into the mobilization and dissemination of antibiotic resistance. Although these associations have primarily been investigated using assembled genomes, our findings demonstrate the potential of unassembled long-read metagenomic data to uncover previously uncharacterized gene–element associations. Our results reveal a substantial reservoir of such associations that remains underrepresented in existing knowledge bases.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762393",
+    "date": "2026-10-28",
+    "authors": "Go DJL, Shrestha AM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353454",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 109,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762393"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5c0e48f2cd0ce690cbf4c7e2a8a9e450c1aa0c0c2a662380954f291d1dbfa936",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:02:26.875073+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d30a7b1f9f2f9b71855807b5d74e9708fad583681b2e4c542279fb321304a643",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:02:26.875073+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタゲノムロングリードを用いた薬剤耐性遺伝子と推定可動性遺伝因子担体との関連レパートリーの拡充",
+    "abstract_ja": "抗生物質耐性遺伝子（ARG）と、その水平伝播を媒介する可動性遺伝要素（MGE）は、薬剤耐性のメカニズム、進化、および拡散を理解する上で中核的な役割を担っている。数千ものARGが記録され、数多くのARG–MGE関連が報告されてきたものの、これらの関連の多様性と分布に関するより広範な問いについては、依然として十分に解明されていない。現在のARG–MGE関連カタログは、どの程度網羅的なものなのだろうか。特定のMGEファミリーが特定のARGと優先的に関連しているのか、またその逆は同様なのだろうか。ARG–MGE関連は微生物分類群間でどのように分布しているのか。ARGの環境中存在量は、そのMGE関連の多様性と関連しているのだろうか。ARG–MGE関連のパターンは環境によって異なるのだろうか。本研究では、さまざまな環境設定から得られた複数の公開ロングリードメタゲノムデータセットを解析し、ロングリードが個々のリード内でARGとそのゲノムコンテキストを捕捉できる能力を活用することで、これらの問いに取り組む。我々は、既存のデータベースには見当たらない数多くの潜在的なARG–MGE関連を同定した。いくつかのMGEファミリーは、同定されたほぼすべてのARGと関連していると考えられた。ARG–MGE関連は分類群間で不均一に分布していた。ARGの存在量は、MGE関連の多様性と、それらの関連の分類学的広がりの両方と正の相関を示した。さらに、ARG–MGE関連のパターンは環境によって異なっていた。総じて、我々の知見は、現在の知識ベースでは大部分が十分に代表されていない、ARG–MGE関連の広範な多様性を明らかにしている。重要性 抗生物質耐性は、可動性遺伝要素が細菌集団、分類群、および環境間で耐性遺伝子の拡散を促進することなどから、世界的に懸念が高まっている問題である。耐性遺伝子と可動性遺伝要素の関連を特性評価し、分類群および環境におけるその分布を評価することは、抗生物質耐性の動員と拡散に関する知見をもたらす可能性がある。これらの関連は主にアセンブル済みゲノムを用いて調査されてきたが、本研究の結果は、未アセンブルのロングリードメタゲノムデータが、これまで特性評価されていなかった遺伝子–要素関連を明らかにする可能性を示している。我々の結果は、既存の知識ベースでは十分に代表されていない、このような関連の相当なリザーバーが存在することを明らかにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762246",
+    "title": "The pangenome of the human fungal pathogen  Cryptococcus neoformans  reveals that subtelomeres are hotspots for gene content variation",
+    "abstract": "ABSTRACT  Cryptococcus neoformans is a human fungal pathogen that causes cryptococcal meningitis, primarily in individuals with advanced HIV disease. The  C. neoformans species is composed of four unique molecular types: VNI, VNII, VNBI, and VNBII, with thousands of global isolates within these groups. While previous descriptions of these molecular types have focused on nucleotide divergence between shared genes, there has been limited examination of variation in gene content between isolates. Here, we define the genome content diversity within a collection of 383  C. neoformans isolates spanning all four molecular types. To do so, we constructed a pangenome through  de novo assembly and annotation of short-read Illumina sequences. We defined 6,564 representative ortholog groups of the predicted proteins leveraging high-quality data from reference strain H99. We classified ortholog groups as either core (93.8%) or accessory (6.2%) based on their presence across the species. We next used long-read assemblies for a subset of our isolates to define the predicted accuracy of our classifications and account for errors in assembly or annotation of short-read sequences. We determined that while a subset of accessory genes are segregating across the entire species, many accessory genes are found only within specific molecular types, suggesting limited gene flow between groups. Additionally, we found many accessory genes are poorly conserved within the  C. neoformans species but share high sequence similarity to genes found in related Cryptococcaceae species, suggesting horizontal gene transfer. We also found that accessory genes were enriched within subtelomeric regions, implicating the subtelomeres in gene content variation between isolates. We show examples of accessory genes located within subtelomeres of  C. neoformans isolates that were conserved with subtelomeric proteins of other Cryptococcaceae species. Our pangenomic analysis of  C. neoformans gives species-level insights into its biology, potentially illuminating genetic contributions to pathogenesis.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762246",
+    "date": "2026-10-28",
+    "authors": "Reichardt CE, Billmyre RB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353463",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "pangenom",
+          "pangenome",
+          "pangenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 182,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762246"
+    ],
+    "translation": {
+      "title": {
+        "hash": "239abb039ea94b42849e7aff4e3437a69e7e6353681e6ab4f5c5ac9f01f83db9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:02:26.875073+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "99495193bb4325b9c7e1c615283f5142bb3b7798348afa7ae040cec8289f5b50",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:02:26.875073+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト真菌病原体Cryptococcus neoformansのパンゲノムは、サブテロメアが遺伝子内容の変異のホットスポットであることを明らかにしている。",
+    "abstract_ja": "要旨  Cryptococcus neoformansは、主に進行したHIV疾患を有する患者においてクリプトコッカス髄膜炎を引き起こすヒト真菌性病原体である。C. neoformans種は、VNI、VNII、VNBI、VNBIIという4つの固有の分子型から構成されており、これらのグループ内に世界中で数千の分離株が存在する。これまで、これらの分子型に関する記述は共通遺伝子間のヌクレオチド分岐に焦点を当ててきたが、分離株間における遺伝子内容の変異に関する検討は限定的であった。本研究では、4つの分子型すべてにわたる383株のC. neoformans分離株コレクションにおけるゲノム内容の多様性を定義する。そのために、ショートリードIllumina配列のde novoアセンブリおよびアノテーションを通じてパンゲノムを構築した。参照株H99の高品質なデータを活用し、予測タンパク質の代表的なオルソログ群を6,564群定義した。オルソログ群を、種全体における存在に基づいてコア（93.8%）またはアクセサリー（6.2%）に分類した。次に、分離株の一部に対してロングリードアセンブリを用い、分類の予測精度を定義するとともに、ショートリード配列のアセンブリまたはアノテーションにおける誤差を考慮した。その結果、アクセサリー遺伝子の一部は種全体で分離しているが、多くのアクセサリー遺伝子は特定の分子型にのみ存在しており、グループ間の遺伝子流動が限定的であることが示唆された。さらに多くのアクセサリー遺伝子がC. neoformans種内では保存性が低い一方で、近縁のクリプトコッカス科（Cryptococcaceae）種に見られる遺伝子と高い配列類似性を共有していることが判明し、水平遺伝子伝達が示唆された。また、アクセサリー遺伝子がサブテロメア領域に濃縮されていることが確認され、分離株間の遺伝子内容の変異にサブテロメアが関与していることが示された。我々は、C. neoformans分離株のサブテロメア内に位置し、他のクリプトコッカス科種のサブテロメアタンパク質と保存されているアクセサリー遺伝子の例を提示する。C. neoformansのパンゲノム解析は、本種の生物学に関する種レベルの知見を提供し、病態形成への遺伝的寄与を明らかにする可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.760975",
+    "title": "Divergent transcriptional responses of conserved cellular machinery to warming and phosphorus limitation in freshwater phytoplankton",
+    "abstract": "Lakes are simultaneously warming and becoming phosphorus limited, but whether phytoplankton taxa of the same phylum respond through similar molecular mechanisms remains unclear, challenging a common assumption underlying predictions of ecological responses to environmental change. We cultured four freshwater phytoplankton species, including two diatoms (  Fragilaria crotonensis and  Nitzschia palea ) and two cyanobacteria (  Microcystis aeruginosa and  Synechococcus sp. ), across factorial gradients of temperature (20, 24 and 28 °C) and phosphorus (P) limitation, and characterized gene expression using RNA-seq, differential expression analysis and signed gene set enrichment. We generated predictions for expected responses for categories of gene functions derived from the growth rate (GRH) and temperature-dependent physiology hypotheses (TDPH). Warming and P limitation engaged largely the predicted functional categories in all species, however the direction of the response was not conserved, even within phyla—the two cyanobacteria regulated photosynthesis, ribosomal and chaperone genes in opposite directions. Ribosome- and translation-related genes gave the strongest warming response and, in  N. palea , reversed direction within the species, increasing between 20 and 24 °C and decreasing between 24 and 28 °C, below the strain’s thermal optimum estimated under moderate P limitation. Ribosomal allocation thus supported each hypothesis in different species and temperature ranges and was not predicted by thermal position alone. Where the interaction effects could be tested, P limitation rarely recruited novel pathways but modified existing warming responses, suppressing them in  F. crotonensis and amplifying and redirecting them in  M. aeruginosa . Molecular responses to combined drivers therefore diverge among related taxa, cautioning against aggregating species into functional groups when forecasting phytoplankton responses to global change.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.760975",
+    "date": "2026-10-28",
+    "authors": "Santos JL, Weber de Melo V, Levasseur S, Weber AA, Narwani A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352256",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatoms",
+        "Synechococcus",
+        "cyanobacteria",
+        "diatom"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "lake",
+          "phytoplankton"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 184,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.760975"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a6af46d8b7e54dc30470e26f95ceccf9a4c525f8f1d4e21771e2eb70e6c43102",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:02:26.875073+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3bec7552f08b8c652042a8e0a14994ec955b48e0d46a5e6aa449045285810349",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:02:26.875073+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "淡水植物プランクトンにおける温暖化およびリン制限に対する保存された細胞機構の特異的な転写応答",
+    "abstract_ja": "湖沼では温暖化とリン制限が同時に進行しているが、同一門の植物プランクトン分類群が同様の分子メカニズムを通じて応答するかどうかは依然として不明であり、環境変化に対する生態学的応答の予測の根底にある一般的な仮定に疑問を投げかけている。我々は、2種の珪藻（Fragilaria crotonensis および Nitzschia palea）と2種のシアノバクテリア（Microcystis aeruginosa および Synechococcus sp.）を含む4種の淡水植物プランクトンを、温度（20、24、28 °C）およびリン（P）制限の因子勾配にわたって培養し、RNA-seq、発現変動解析、および符号付き遺伝子セットエンリッチメントを用いて遺伝子発現を解析した。さらに、増殖速度（GRH）および温度依存性生理仮説（TDPH）から導出された遺伝子機能カテゴリーについて、予想される応答の予測を行った。温暖化とP制限は、すべての種において予測された機能カテゴリーの大部分を関与させたが、応答の方向性は門内であっても一貫しておらず、2種のシアノバクテリアでは光合成、リボソーム、およびシャペロン遺伝子が逆方向に調節されていた。リボソームおよび翻訳関連遺伝子が最も強い温暖化応答を示し、N. palea では種内で方向が逆転して、20～24 °C で増加し、24～28 °C で減少した。これは中程度のP制限下で推定された当該株の熱的至適温度を下回る値であった。したがって、リボソームの配分は、異なる種や温度範囲において各仮説を支持しており、熱的位置のみからは予測されなかった。相互作用の影響を検証できたケースでは、P制限が新たな経路を動員することは稀であったが、既存の温暖化応答を修飾し、F. crotonensis ではそれらを抑制し、M. aeruginosa ではそれらを増幅・方向転換させた。したがって、複合的な駆動要因に対する分子応答は近縁な分類群間で異なっており、地球規模の変化に対する植物プランクトンの応答を予測する際に、種を機能グループに集約することには注意が必要である。"
   }
 ]
