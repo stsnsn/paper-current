@@ -250573,5 +250573,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ブドウ微生物叢の時間生態学：多年生作物における構成、持続性、および病害の枠組み",
     "abstract_ja": "植物マイクロバイオーム研究により、群集組成の解明が進んでいるが、主に年単位の植物モデルや横断的調査から得られた知見は、木本作物の生態史を再構築するには依然として不十分である。我々は、クローン増殖、接ぎ木、苗圃からブドウ園への移植、寿命の異なる器官、反復的な管理、および慢性病といったプロセスが、入れ子状の時間スケールにわたってアセンブリ過程と整合することから、ブドウを時間的マイクロバイオーム生態学における情報豊富な参照系として提案する。我々は、微生物の到達と定着（数日から数週間）、季節的な器官の更新、複数年にわたる圃場遷移、そして数十年にわたる宿主の老化と病害発生にわたる、現在の知見を4つのクロックからなるフレームワークへと統合する。ブドウのコンパートメントは、ソースプール、散布、非生物的・宿主フィルタリング、および優先効果が滞在形態を規定する、連結メタコミュニティの候補として扱うことができる。撹乱は、耐性、回復力、あるいは履歴依存的な応答を誘発し得る。このフレームワークは、病原体の検出を微生物活性から、組織損傷や症状発現から分離し、慢性病を宿主・マイクロバイオーム機能の軌跡として捉える。我々は、現在のアンプリコンベースおよび横断的な知見の限界を特定し、個体レベルの縦断的サンプリング、定量的負荷、空間的・機能的マルチオミクス、栽培、合成群集、およびマルチサイト検証を組み合わせた設計を提案する。このフレームワークは、多年生作物システムにおいて、時間的関連性を持続性、レガシー、記憶、および病害の原因から分離するための、検証可能な仮説を導き出す。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761472",
+    "title": "Stress-response regulators tune enterobacterial common antigen synthesis to support acid and reactive nitrogen species stress resistance",
+    "abstract": "Enteric bacteria must survive envelope-damaging environmental conditions in both host and environmental niches (e.g., acidic environments, reactive oxygen and nitrogen species). The Gram-negative outer membrane (OM) is central to the cell’s stress resistance, acting as a permeability barrier to antimicrobials and as an adaptable structure remodeled in response to environmental changes.  Enterobacterales (  e.g., Escherichia coli ,  Salmonella enterica ,  Klebsiella pneumoniae ) produce an invariant glycan, enterobacterial common antigen (ECA), which is localized in the OM and periplasm and contributes to the OM permeability barrier. Yet, how ECA biosynthesis is controlled and the conditions under which ECA is important remain poorly defined. Therefore, we investigated transcriptional regulation of the ECA biosynthesis  wec operon in  E. coli K-12. We assayed  wec operon promoter activity across deletions of 36 bioinformatically identified potential regulator genes and identified four for which deletion significantly altered  wec promoter activity. Of these, two repressors, GadX, a regulator of the glutamate-dependent acid stress response system, and MetJ, the master regulator of methionine biosynthesis and a reactive nitrogen species (RNS) stress regulator, bound to the  wec promoter  in vitro , consistent with direct transcriptional regulation. In accordance with a link between ECA and these regulators,  wec promoter activity increased under acidic pH and under RNS stress, and loss of ECA impaired growth under both conditions and fitness in acidic pH. Together, these findings reveal that biosynthesis of a conserved OM glycan is embedded within dedicated environmental stress regulons and identify previously unrecognized roles for ECA in bacterial stress adaptation.  Importance  Enteric bacteria rely on their cell envelope to survive chemical and physical stresses in changing environments. Enterobacterial common antigen (ECA), an invariant envelope glycan produced by enteric bacteria (  Enterobacterales ), plays a role in the outer membrane (OM) permeability barrier that excludes detergents and antibiotics. Despite its conservation, the cellular function of ECA, and the conditions that require it, remain elusive. Here, we define the transcriptional regulation of ECA biosynthesis and use it to identify environmental conditions in which ECA function is important for cellular growth. We identified regulators of two stress responses (GadX, an acid stress regulator, and MetJ, a reactive nitrogen species stress regulator) as direct repressors of ECA biosynthesis and show ECA promotes growth under both acid stress and reactive nitrogen species stress. These results indicate that a conserved envelope glycan is integrated into stress-response networks and functions broadly in adaptation to environmental stress.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761472",
+    "date": "2026-10-27",
+    "authors": "Hill HC, Mitchell AM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352519",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1777,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.761472"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c9723575f0bf0b9ba0575ae4a83d2d4e54400569cbe660ca4ec759b4a0e4b517",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:53:21.060778+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e4a1776d90e724334b2b3a04c142e84dce034a8d071be7adf0e809b56aade200",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:53:21.060778+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ストレス応答調節因子は腸内細菌共通抗原の合成を調節し、酸および活性酸素種ストレス耐性を支える。",
+    "abstract_ja": "腸内細菌は、宿主および環境の双方のニッチにおいて、細胞膜を損傷させる環境条件（例：酸性環境、活性酸素種および窒素種）下で生存しなければならない。グラム陰性菌の外膜（OM）は細胞のストレス耐性の中核をなしており、抗菌薬に対する透過性障壁として、また環境変化に応じて再構築される適応的な構造として機能する。腸内細菌目（例：Escherichia coli、Salmonella enterica、Klebsiella pneumoniae）は、OMおよびペリプラズムに局在し、OM透過性障壁に寄与する不変の糖鎖である腸内細菌共通抗原（ECA）を産生する。しかし、ECAの生合成がどのように制御されているか、またどのような条件下でECAが重要となるかについては、依然として十分に解明されていない。そこで我々は、E. coli K-12におけるECA生合成のwecオペロンの転写調節について検討した。バイオインフォマティクスにより同定された36個の潜在的調節遺伝子の欠失についてwecオペロンプロモーター活性を測定し、そのうち4つの欠失がwecプロモーター活性を有意に変化させることを明らかにした。これらのうち、グルタミン酸依存性酸ストレス応答系の調節因子であるGadXと、メチオニン生合成のマスター調節因子であり活性酸素種（RNS）ストレス調節因子であるMetJの2つの抑制因子が、in vitroでwecプロモーターに結合しており、直接的な転写調節と一致していた。ECAとこれらの調節因子との関連に基づき、wecプロモーター活性は酸性pHおよびRNSストレス下で上昇し、ECAの欠損は両条件下で増殖を阻害し、酸性pH下での適応能を低下させた。これらの知見を総合すると、保存されたOM糖鎖の生合成が専用の環境ストレス調節機構に組み込まれていることが明らかになり、細菌のストレス適応におけるECAのこれまで認識されていなかった役割が特定された。重要性：腸内細菌は、変化する環境における化学的および物理的ストレスを生き抜くために、細胞膜に依存している。腸内細菌（腸内細菌目）によって産生される不変の細胞膜糖鎖である腸内細菌共通抗原（ECA）は、界面活性剤や抗生物質を排除する外膜（OM）透過性障壁において役割を果たしている。保存されているにもかかわらず、ECAの細胞機能およびそれを必要とする条件は依然として不明である。本研究では、ECA生合成の転写調節を定義し、それを用いてECA機能が細胞増殖に重要となる環境条件を特定した。我々は、2つのストレス応答の調節因子（酸ストレス調節因子であるGadXと、活性酸素種ストレス調節因子であるMetJ）をECA生合成の直接的な抑制因子として同定し、ECAが酸ストレスおよび活性酸素種ストレスの両方の下で増殖を促進することを示した。これらの結果は、保存された細胞膜糖鎖がストレス応答ネットワークに統合されており、環境ストレスへの適応において広範に機能していることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.754916",
+    "title": "Dual phage sensing activates an RNA-targeting reverse transcriptase for anti-phage defense",
+    "abstract": "Defense-associated reverse transcriptases (DRTs) mediate diverse antiphage responses, yet how they sense phage infection and couple unconventional DNA synthesis to antiviral effector activation remains poorly understood. Here, we characterize DRT4 as a dual-sensor immune system that integrates two distinct phage-derived signals. Cryo-EM analysis reveals that DRT4 assembles into a dimer-of-trimers hexamer, with each protomer catalyzing protein-primed, template-independent synthesis of a covalently linked ssDNA product. DRT4 displays a strong preference for purine nucleotides, determined by base-specific interactions within the polymerase active site. Using phage escape genetics, we identify two independent activators of DRT4: the phage ribonucleotide reductase NrdAB, which increase intracellular dNTP levels, and the SSB-like protein 0087, which directly binds the DRT4-generated ssDNA. Activated DRT4 exhibits dNTP-dependent RNase activity, linking phage sensing to RNA cleavage and abortive infection. Together, our findings show DRT4-generated ssDNA as a signaling intermediate that integrates phage-induced metabolic changes with direct recognition of viral replication proteins, revealing how protein-primed DNA synthesis can be repurposed for infection sensing and antiviral effector activation.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.754916",
+    "date": "2026-10-27",
+    "authors": "Wei X, Qi H, Song X, Li L, Xia Y, Zhang J, Jia N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352513",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "phage",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1778,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.754916"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eaf7bc590140c7cdb15b25aac064e589f5e6cd234f5e5cb40acf6c4be57c6cac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:53:21.060778+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "beb8bd699db3a2eea4402fb3f283453956ae75b265b80604ee1c05f4b4d06bdc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:53:21.060778+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "二重ファージ感知は、抗ファージ防御のためにRNA標的型逆転写酵素を活性化する。",
+    "abstract_ja": "防御関連逆転写酵素（DRT）は、多様な抗ファージ応答を媒介するが、ファージ感染をどのように感知し、非従来型のDNA合成を抗ウイルスエフェクターの活性化に結びつけているかについては、依然として十分に解明されていない。本研究では、DRT4を、2つの異なるファージ由来シグナルを統合するデュアルセンサー免疫系として特性解析した。クライオ電子顕微鏡解析により、DRT4は二量体-三量体六量体として集合し、各プロトマーがタンパク質プライミングによるテンプレート非依存的な共有結合性ssDNA産物の合成を触媒することが明らかになった。DRT4は、ポリメラーゼ活性部位内での塩基特異的な相互作用により、プリンヌクレオチドに対して強い選好性を示す。ファージ脱出遺伝学を用いて、DRT4の2つの独立した活性化因子を同定した。一つは細胞内dNTPレベルを上昇させるファージリボヌクレオチド還元酵素NrdABであり、もう一つはDRT4が生成したssDNAに直接結合するSSB様タンパク質0087である。活性化されたDRT4はdNTP依存的なRNase活性を示し、ファージ感知をRNA切断および感染の中断に結びつけている。以上の知見を総合すると、DRT4が生成したssDNAは、ファージ誘導性の代謝変化とウイルス複製タンパク質の直接認識を統合するシグナル伝達中間体として機能しており、タンパク質プライミングによるDNA合成がいかにして感染感知や抗ウイルスエフェクターの活性化に転用され得るかを明らかにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.758699",
+    "title": "Designing a reoriented H5 hemagglutinin to generate stem-directed, heterosubtypic immunity to influenza A viruses",
+    "abstract": "Human infections with the highly pathogenic avian influenza viruses highlight the risk of novel pandemics, against which seasonal vaccines provide limited cross-protection. Whereas antibody responses to current vaccine candidates are typically biased toward the immunodominant and variable head region of hemagglutinin (HA), the stem region of HA is highly conserved and targeted by broadly neutralizing antibodies. Here we describe a reoriented H5 HA (reoH5HA  Phe , based on A/Vietnam/1203/2004) displayed on alum as a vaccine candidate to elicit stem-directed antibody responses and confer cross-protective immunity. We show that a single immunization with reoH5HA  Phe protected naïve mice against heterologous H5N1 lethal challenge (A/Texas/37/2024), and boosting with reoH5HA  Phe conferred complete heterologous protection in mice pre-immunized with seasonal vaccines. The stem-directed response elicited by reoH5HA  Phe also protected against heterosubtypic H1N1 challenge in both naïve and pre-immune mice. Electron microscopy polyclonal epitope mapping revealed that reoH5HA  Phe elicited antibodies targeting the central stem and anchor epitopes on heterologous H5 and H1 HAs, alongside antibodies against the (H5) vestigial esterase or (H1) lateral patch epitopes. Despite limited cross-neutralizing activity, increased stem-directed responses with balanced IgG1 and IgG2 subclasses reduced viral replication and improved survival. Our results highlight antigen reorientation as an effective approach for designing variant-resilient vaccines and demonstrate the potential of reoH5HA  Phe as an H5 pandemic influenza vaccine candidate that confers protective immunity against both emerging and seasonal influenza viruses.  Significance Statement  The global spread and human infections of avian H5N1 influenza viruses raise concerns of novel pandemics, against which humans lack pre-existing immunity. Whereas current vaccine strategies, including mRNA vaccines, mostly protect against sequence-matched viruses, pandemic preparedness requires vaccine design that resists antigenic variation and viral evolution. Here we employ molecular control of antigen orientation to focus antibody responses toward evolutionarily conserved sites of influenza hemagglutinin. We designed a reoriented H5 hemagglutinin based on the historical sequence (A/Vietnam/1203/2004) and demonstrated robust protection against the contemporary virus (A/Texas/37/2024). Vaccinations with reoriented H5 hemagglutinin also conferred protection against historical and contemporary H1N1 viruses. Our approach has potential to provide protection against emerging, pandemic-potential viruses, while simultaneously boosting immunity to seasonal influenza viruses.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.758699",
+    "date": "2026-10-27",
+    "authors": "Miller NA, Wang T, Choi JH, Liang S, Yang A, Halfmann PJ, Xu D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352503",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1779,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.758699"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e0395b3ecb6d4d4bdadbee90e0b5140f540ea417d0c4c72ace01c249be2d8b4b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:53:21.060778+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ffeeba231d546a2a81ba88d987ced7c66f82935f5ca324975d8304ce86b5c8d7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:53:21.060778+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "A型インフルエンザウイルスに対する幹細胞指向性・ヘテロサブタイプ免疫を誘導する再指向化H5ヘマグルチニンの設計",
+    "abstract_ja": "高病原性鳥インフルエンザウイルスによるヒトへの感染は、新たなパンデミックのリスクを浮き彫りにしており、季節性ワクチンによる交差防御は限定的である。現行のワクチン候補に対する抗体応答は、通常、ヘマグルチニン（HA）の免疫優位領域および可変頭部領域に偏る傾向があるが、HAのステム領域は高度に保存されており、広範中和抗体の標的となる。本研究では、ステム指向性抗体応答を誘導し、交差防御免疫を付与するワクチン候補として、明礬上に提示した再配向型H5 HA（reoH5HA Phe、A/Vietnam/1203/2004に基づく）について述べる。我々は、reoH5HA Pheによる単回免疫が、未接種マウスを異種H5N1致死的チャレンジ（A/Texas/37/2024）から保護し、reoH5HA Pheによるブースト接種が、季節性ワクチンで前免疫されたマウスに完全な異種防御を付与することを示した。reoH5HA Pheによって誘導されたステム指向性応答は、未接種および前免疫マウスの双方において、異亜型H1N1チャレンジに対しても保護効果を示した。電子顕微鏡によるポリクローナルエピトープマッピングにより、reoH5HA Pheが、異種H5およびH1 HA上の中心的なステムおよびアンカーエピトープを標的とする抗体に加え、(H5)痕跡的エステラーゼまたは(H1)ラテラルパッチエピトープに対する抗体を誘導することが明らかになった。交差中和活性は限定的であったものの、IgG1およびIgG2サブクラスのバランスが取れたステム指向性応答の増強により、ウイルス複製が抑制され、生存率が向上した。我々の結果は、抗原再配向が変異耐性ワクチンを設計するための有効なアプローチであることを強調するとともに、新興および季節性インフルエンザウイルスの双方に対して防御免疫を付与するH5パンデミックインフルエンザワクチン候補としてのreoH5HA Pheの可能性を実証するものである。意義に関する記述：鳥類H5N1インフルエンザウイルスの世界的な拡散とヒトへの感染は、ヒトに既存の免疫がない新たなパンデミックへの懸念を引き起こしている。mRNAワクチンを含む現行のワクチン戦略は、主に配列が一致するウイルスに対して防御するが、パンデミックへの備えには、抗原変異やウイルス進化に耐性を持つワクチン設計が必要である。本研究では、抗原配向の分子制御を用いることで、抗体応答をインフルエンザヘマグルチニンの進化的に保存された部位へと集中させた。我々は、過去の配列（A/Vietnam/1203/2004）に基づく再配向型H5ヘマグルチニンを設計し、現代のウイルス（A/Texas/37/2024）に対して強固な保護効果を実証した。再配向型H5ヘマグルチニンによるワクチン接種は、過去および現代のH1N1ウイルスに対しても保護効果を付与した。我々のアプローチは、新興のパンデミック潜在性ウイルスに対する保護を提供すると同時に、季節性インフルエンザウイルスに対する免疫を増強できる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761336",
+    "title": "Isocaloric restriction normalizes body weight but not relative adiposity, adipose inflammation, or gut microbial diversity in high-fat diet-fed mice",
+    "abstract": "Background/Objectives  The separate contributions of excess energy intake and diet composition to high-fat diet (HFD)-induced adiposity, adipose inflammation, and gut microbial changes are unclear. We tested whether restricting HFD intake to the energy intake of low-fat (LF)-fed mice (isocaloric restriction) prevents or reverses these outcomes. Subjects/Methods  Male C57BL/6 mice (n = 8/group) received for 12 weeks an LF diet (LF/LF) or HFD (HF/HF) ad libitum, HFD ad libitum then isocaloric HFD from week 7 (HF/IHF), or isocaloric HFD throughout (IHF/IHF). Adiposity, plasma markers, adipose and ileal gene expression, and fecal microbiota (16S rRNA sequencing, n = 4/group) were assessed. Results  Final body weight in IHF/IHF did not differ from LF/LF (difference 0.1 g, 95% CI −6.5 to 6.7;  P > 0.99) and was lower than in HF/HF (−8.2 g, −14.7 to −1.6;  P = 0.011). Switching to isocaloric feeding reduced weight gain during weeks 6–12 (HF/IHF vs HF/HF, −6.4 g, −9.8 to −3.1;  P Conclusions  Limiting HFD energy intake normalized body weight, glycemia, and plasma lipids but not relative adiposity, adipose  Tnf expression, or the loss of gut microbial diversity. Diet composition affects these outcomes independently of energy intake, so normal body weight does not indicate their reversal.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761336",
+    "date": "2026-10-27",
+    "authors": "Eun S, Jeong E, Chae S, Lee S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351565",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1794,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.761336"
+    ],
+    "translation": {
+      "title": {
+        "hash": "02a2699080b5963979ee10799d3efeaf348697ebea5bcdcbfe9330a48cd93424",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:53:21.060778+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ad5a2dac7f29bf0d870e231358c80a82ce8f59c002e2987a88102c36ddf25250",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:53:21.060778+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "等カロリー制限は、高脂肪食投与マウスにおいて体重を正常化するが、相対的脂肪量、脂肪組織炎症、および腸内細菌叢の多様性は正常化しない。",
+    "abstract_ja": "背景／目的  高脂肪食（HFD）誘発性の脂肪蓄積、脂肪組織炎症、および腸内細菌叢の変化に対する、過剰なエネルギー摂取量と食事組成の個別の寄与は明らかではない。本研究では、HFDの摂取量を低脂肪（LF）給餌マウスのエネルギー摂取量に制限すること（等カロリー制限）が、これらの結果を予防または逆転させるかどうかを検証した。対象／方法  雄C57BL/6マウス（n = 8/群）に、12週間にわたりLF食（LF/LF）またはHFD（HF/HF）を自由摂取させ、次いでHFDを自由摂取させ、第7週から等カロリーHFD（HF/IHF）、あるいは全期間にわたり等カロリーHFD（IHF/IHF）を与えた。脂肪蓄積、血漿マーカー、脂肪組織および回腸の遺伝子発現、ならびに糞便微生物叢（16S rRNAシーケンシング、n = 4/群）を評価した。結果  IHF/IHF群の最終体重はLF/LF群と差が認められず（差 0.1 g, 95% CI −6.5～6.7; P > 0.99）、HF/HF群よりも低値であった（−8.2 g, −14.7～−1.6; P = 0.011）。等カロリー給餌への切り替えにより、第6～12週の体重増加が抑制された（HF/IHF vs HF/HF, −6.4 g, −9.8～−3.1; P 結論  HFDのエネルギー摂取量を制限することで、体重、血糖、および血漿脂質は正常化したが、相対的な脂肪蓄積、脂肪組織Tnf発現、または腸内細菌叢の多様性の喪失は正常化しなかった。食事組成はエネルギー摂取量とは独立してこれらの結果に影響を与えるため、正常な体重はそれらの逆転を示すものではない。"
   }
 ]
