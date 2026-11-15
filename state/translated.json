@@ -256800,5 +256800,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "タンデムリピートの組み込みにより遺伝子発現予測モデルが向上する",
     "abstract_ja": "1+bpの連続した反復単位からなるタンデム反復（TR）は、ゲノム全域に見られる高度に多型的な特徴であり、遺伝子発現やその他の形質に広範な影響を及ぼすことが示されている。しかし、こうしたTRは広く存在するにもかかわらず、通常は一般的な一塩基多型（SNP）に焦点を当てるポリジェニック予測モデルの予測特徴量には組み込まれていない。本研究では、各遺伝子周囲のシスウィンドウ内の変異を考慮して発現レベルを予測する、遺伝子発現モデルにTRを組み込むためのフレームワークを開発する。シミュレーション解析により、TRコピー数の線形効果を特徴量として組み込むことで、特に影響度の高い因果的TRが個々のSNPによって十分にタグ付けされていない場合に、予測精度が大幅に向上することが示された。我々は、Geuvadisコホート（欧州人359名）のデータを用いて、リンパ芽球様細胞株（LCLs）におけるSNP+TR発現予測モデルの学習および評価に本フレームワークを適用し、SNPのみのモデルと比較した。全体として、モデルの学習に成功した2,553個の遺伝子において、SNP+TRモデルは78個の遺伝子で有意に性能が向上し、全遺伝子にわたる調整済みR二乗の平均改善値は0.0037であった。また、これらの改善の大部分は、独立したGene-Tissue Expression Project（GTEx）コホートにおいても再現された。さらに、Geuvadisのヨルバ人89名のデータを用いた検証において、TRを組み込むことでモデルが簡素化され、モデルの移植性が向上することがわかった。最後に、我々はモデルを拡張し、TRコピー数が発現に及ぼす非線形効果を考慮するようにした。非線形TR関連検定により、線形関連検定モデルでは捉えられなかった2,255個の非線形有意遺伝子を特定した。また、PALD1を含む、高度に多型的なTRを持つ代表的な遺伝子を特定し、それらの非線形効果を組み込むことで遺伝子発現予測が大幅に向上することが示された。総じて、これらの結果は、発現予測モデルにTRを組み込むことの有用性を実証するものであり、複雑な形質に対するポリジェニックリスクスコアなどの他のモデルにおいても同様の効果をもたらす可能性を示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762916",
+    "title": "Differentiable Spin-Center Diffusion Model Enables DEER-Guided Generative Pipeline of Weighted Protein Ensembles",
+    "abstract": "Biological function entails the interconversion of a protein between distinct conformations, an equilibrium modulated by ligands and other physicochemical conditions. Double electron-electron resonance (DEER) spectroscopy captures these ensembles as distance distributions, P(r), between spin label pairs. However, the width of P(r) convolves protein conformational heterogeneity with the rotameric flexibility of the label. Because current spin label models overestimate this contribution, translating P(r) into ensembles has remained indirect and predominantly qualitative. Here, we developed spin-center (SC) diffusion, a differentiable model of the spin label with a tunable spin label rotameric width. Coupled to a frozen Boltz-2 structure generator, SC diffusion enables the entire experimental P(r) to guide ensemble generation at inference time. We demonstrate the robustness of this pipeline on synthetic P(r) of known composition, recovering the ensemble populations, including both components of a bimodal profile. Guided by experimental P(r) measured under different biochemical conditions, ensembles of the transporters PfMATE, LmrP, MhsT and P-glycoprotein were modeled and free energy differences derived from the ensembles in a condition-dependent manner. By embedding a differentiable label model in structure generation, our approach interprets DEER distributions as weighted conformational ensembles, adding a missing thermodynamic grounding to generative protein structure prediction methods.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762916",
+    "date": "2026-11-01",
+    "authors": "Kao T, Meiler J, Mchaourab HS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355824",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "pipeline",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "pipeline",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4757,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.29.762916"
+    ],
+    "translation": {
+      "title": {
+        "hash": "556413ba519fb8ba1d960f4f725f49cb0e0a641068431f602e787d4d131dcaa2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:34:32.780435+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7c9099e54a66d7dd1f35fa0af8aef02f59de2f04e7168d6378cf98870542a0de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:34:32.780435+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微分可能なスピン中心拡散モデルによるDEER誘導型重み付きタンパク質アンサンブル生成パイプライン",
+    "abstract_ja": "生物学的機能には、タンパク質の異なるコンフォメーション間の相互変換が伴い、その平衡状態はリガンドやその他の物理化学的条件によって調節される。二電子-電子共鳴（DEER）分光法は、これらのアンサンブルをスピンラベル対間の距離分布P(r)として捉える。しかし、P(r)の幅は、タンパク質のコンフォメーション不均一性とラベルの回転柔軟性を混同してしまう。現在のスピンラベルモデルはこの寄与を過大評価しているため、P(r)をアンサンブルへと変換する手法は間接的なままであり、主に定性的なものにとどまっていた。本研究では、調整可能なスピンラベル回転幅を持つ、スピンラベルの微分可能なモデルであるスピン中心（SC）拡散法を開発した。凍結されたBoltz-2構造生成器と組み合わせることで、SC拡散法は実験的なP(r)全体を推論時のアンサンブル生成の指針として利用することを可能にする。我々は、組成が既知の合成P(r)を用いてこのパイプラインの頑健性を実証し、二峰性プロファイルの両成分を含むアンサンブル集団を復元した。異なる生化学的条件下で測定された実験P(r)に基づき、トランスポーターPfMATE、LmrP、MhsTおよびP-糖タンパク質のアンサンブルをモデル化し、アンサンブルから条件依存的に自由エネルギー差を導出した。微分可能なラベルモデルを構造生成に組み込むことで、本手法はDEER分布を重み付きコンフォメーションアンサンブルとして解釈し、生成的なタンパク質構造予測手法に欠けていた熱力学的根拠を付与する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762699",
+    "title": "DUET: a sequence-only ensemble for RNA–small molecule binding-site prediction",
+    "abstract": "Sequence-only predictors can score RNA–small-molecule binding sites without the need to obtain experimental RNA structures, but reported performance can be confounded by test-homologous training records and by inconsistent treatment of within-training redundancy. We introduce DUET, a sequence-only ensemble, and evaluate it with a test-clean protocol that controls these effects separately. Test-homologous records are removed, whereas sequence-identical training records are grouped into homology components and size-balanced to prevent family dominance. Across 10 paired seeds, DUET reached 0.240 ± 0.013 MCC, compared with 0.192 ± 0.031 for CoBRA-M3 trained on the same data (Δ = +0.047). Increasing the training pool from 80 to 290 records raised DUET by +0.135 MCC. DUET also reached 0.246 MCC on two independent SMARTPocket sets, supporting transport beyond the benchmark source. Graphical abstract  The study separates benchmark overlap from model performance by removing test-homologous training chains while keeping the test set unchanged. DUET combines three sequence-derived predictors to assign nucleotide-level RNA–small-molecule binding probabilities directly from the RNA sequence.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762699",
+    "date": "2026-10-30",
+    "authors": "Xiong K, Long S, Lin C, Jia J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354510",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "prediction",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4780,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.28.762699"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6ca07ecec4f8b6bea02dd30966feedd1bcab4cef9acb7bafc02b64c7df4ac72d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:34:32.780435+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "284d364376def542493b4326cc40bae446e11961bd07efdda962899275145250",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:34:32.780435+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DUET: RNA–低分子結合部位予測のための配列のみのアンサンブル",
+    "abstract_ja": "配列のみに基づく予測器は、実験的なRNA構造を取得する必要なくRNA-低分子結合部位をスコア化できるが、報告されている性能は、テスト相同性の学習レコードや、学習内冗長性の処理の不統一によって影響を受ける可能性がある。本研究では、配列のみに基づくアンサンブルであるDUETを提案し、これらの影響を個別に制御するテストクリーンプロトコルを用いて評価を行う。テスト相同性レコードは除去し、一方で配列が同一の学習レコードは、ファミリー支配を防ぐために相同性コンポーネントごとにグループ化し、サイズバランスを調整した。10組のペアシードにおいて、DUETは0.240 ± 0.013 MCCを達成したのに対し、同一データで学習させたCoBRA-M3は0.192 ± 0.031であった（Δ = +0.047）。学習プールを80レコードから290レコードに増やすことで、DUETは+0.135 MCC向上した。また、DUETは2つの独立したSMARTPocketセットにおいても0.246 MCCを達成し、ベンチマークソースを超えた転移性を実証した。図表抄録 本研究では、テストセットを変更せずにテスト相同性の学習チェーンを除去することで、ベンチマークの重複をモデル性能から分離している。DUETは3つの配列由来予測器を組み合わせることで、RNA配列から直接、ヌクレオチドレベルのRNA-低分子結合確率を割り当てる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.759336",
+    "title": "PatHoST: weakly supervised reconstruction of pathogen spatial distributions from host transcriptomes",
+    "abstract": "Dual host–pathogen spatial transcriptomics enables spatially resolved investigation of infection, yet the completeness of pathogen detection remains poorly characterized. Here, we generated pathogen-only spatial transcriptomic sections from a chronic Mycobacterium abscessus lung infection model to experimentally benchmark pathogen detection, revealing substantially increased pathogen transcript recovery compared with conventional dual profiling. Building on these data, we developed PatHoST, a weakly supervised computational framework that uses pathogen-derived information to generate silver-standard labels and learns host transcriptional programs predictive of pathogen presence. PatHoST reconstructed pathogen spatial distributions across independent tissue sections and enabled the identification of localized host regulatory programs beyond conventional cluster-based analyses. Application to human SARS-CoV-2 lung spatial transcriptomics supported generalization across host species and pathogen classes. Together, PatHoST combines purpose-built experimental benchmarking with weakly supervised inference to recover latent pathogen information and extend the analytical capabilities of dual host–pathogen spatial transcriptomics.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.759336",
+    "date": "2026-10-30",
+    "authors": "Di Marco F, Nicola F, Saldarini G, Cirillo DM, Lorè NI, Graudenzi A, de Pretis S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354504",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4781,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.26.759336"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f425c00070b150bd11fff133fc1ed13dbbba291553d48c194f889906b941c547",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:34:32.780435+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7ebbb5df6efe776c31d7c4905b2aa11e393e53bc1a88dcfe3d8da62d9c7f0480",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:34:32.780435+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PatHoST: 宿主トランスクリプトームからの病原体空間分布の弱教師あり再構成",
+    "abstract_ja": "宿主・病原体のデュアル空間トランスクリプトミクスにより、感染の空間分解的な解析が可能となったが、病原体検出の網羅性については依然として十分に解明されていない。本研究では、慢性Mycobacterium abscessus肺感染症モデルから病原体のみの空間トランスクリプトーム切片を作成し、病原体検出の実験的なベンチマークを行った結果、従来のデュアルプロファイリングと比較して病原体トランスクリプトの回収量が大幅に増加することを明らかにした。これらのデータに基づき、病原体由来の情報を用いてシルバースタンダードラベルを生成し、病原体の存在を予測する宿主転写プログラムを学習する弱教師あり計算フレームワーク「PatHoST」を開発した。PatHoSTは、独立した組織切片にわたる病原体の空間分布を再構成し、従来のクラスターベース解析を超えて局所的な宿主調節プログラムの同定を可能にした。ヒトSARS-CoV-2肺空間トランスクリプトミクスへの適用により、宿主種および病原体クラスを横断した汎化性能が確認された。総じて、PatHoSTは専用に設計された実験的ベンチマークと弱教師あり推論を組み合わせることで、潜在的な病原体情報を回収し、宿主・病原体デュアル空間トランスクリプトミクスの解析能力を拡張するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761698",
+    "title": "Toxicity Prediction Tools Do Not Generalize to Novel Chemistry",
+    "abstract": "Computational toxicity prediction rests on an assumption that is rarely tested directly: that molecular structure carries enough information to anticipate whether a compound will have adverse effects in human patients. We benchmark toxicity prediction methods on a curated panel of 569 approved drugs, labeled toxic if they carry a black-box warning or were withdrawn from the market. We evaluate 35 model readouts spanning fingerprint-based QSAR, fine-tuned foundation encoders, and toxicity-targeted tools. No learned representation outperforms a plain fingerprint, suggesting the bottleneck is not the sophistication of the representation. Of the tools trained specifically for toxicity prediction, only one performs above chance, and none matches what approval year alone explains, a predictor containing no chemistry at all. No tool dedicated to drug-induced liver injury (DILI) reliably beats chance on our panel, and the external set where some succeed is one that approval year alone largely predicts. These results point to a limit of molecular structure as an input, and suggest that progress will depend on inputs that capture exposure and metabolism rather than better models over structure alone.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761698",
+    "date": "2026-10-30",
+    "authors": "Weiss M, Hsu C, Stienstra CMK, Caudy A, de O. Fonseca AH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354473",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "prediction",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "prediction",
+          "tool"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4782,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.26.761698"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b2a3611435952825cf6aaea9779aa270289c8b5687214fc85a7bbfeabd581b0a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:34:32.780435+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9c6cc2522bc3124411a5fe1a6f5d0394ac37920a86c57e2ec365ecc9da0f1bc8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:34:32.780435+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "毒性予測ツールは新規化学物質には一般化できない",
+    "abstract_ja": "計算科学的な毒性予測は、直接的に検証されることは稀なある仮定に基づいている。すなわち、分子構造には、化合物がヒト患者に有害な影響を及ぼすかどうかを予測するのに十分な情報が含まれているという仮定である。我々は、ブラックボックス警告が付与されているか、あるいは市場から撤退した薬剤を「毒性あり」としてラベル付けした、厳選された569種類の承認済み医薬品パネルを用いて毒性予測手法のベンチマーク評価を行った。フィンガープリントベースのQSAR、ファインチューニング済みの基盤エンコーダ、および毒性特化型ツールにわたる35種類のモデルリードアウトを評価した。学習済み表現で単純なフィンガープリントを上回るものは一つもなく、ボトルネックは表現の精緻さにあるわけではないことが示唆された。毒性予測に特化して学習されたツールのうち、偶然レベルを上回る性能を示したのはわずか1つであり、承認年のみで説明できる結果――すなわち化学構造を一切含まない予測器――に合致するものは一つもなかった。薬物誘発性肝障害（DILI）に特化したツールで、本パネルにおいて確実に偶然レベルを上回ったものは存在せず、一部のツールが成功した外部セットは、承認年のみで概ね予測可能なものである。これらの結果は、入力としての分子構造の限界を指摘しており、今後の進展は、構造のみに関するモデルの改良よりも、曝露と代謝を捉える入力に依存することを示唆している。"
   }
 ]
