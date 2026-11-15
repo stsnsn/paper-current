@@ -242322,5 +242322,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "eIF5Aによるシャペロンの効率的な翻訳は、熱ストレス下におけるタンパク質恒常性を維持する。",
     "abstract_ja": "要旨　地球規模の気温上昇は、細胞のプロテオスタシスを乱すため、細胞や生物にとって重大な脅威となる。我々は、進化的に保存された必須の翻訳伸長因子eIF5Aが、酵母細胞における熱ストレスへの迅速な応答に必要であることを見出した。eIF5Aの欠損は、熱ストレス誘導性mRNAにおいてリボソームの停滞を引き起こし、シャペロンの合成を減少させ、主にHsp70 Ssa1やHsp12シャペロンなど、高いコドン最適性を介して強固に合成されるシャペロンに影響を及ぼす。翻訳におけるこの新たなeIF5Aの役割は直接的なものと考えられ、eIF5Aは高いコドン最適性を持つ誘導mRNAに優先的に結合し、熱ショック下でそのポリソーム結合が増加する。eIF5A変異体におけるHsp70の低レベルは、ストレス適応時のHsf1フィードバック阻害を遅延させ、タンパク質凝集体の蓄積を引き起こし、その結果、熱ストレスに対する細胞生存率を低下させる。総じて、我々の結果は、eIF5Aが高いコドン最適性を持つシャペロンの迅速かつ効率的な翻訳を促進することで、熱ストレス耐性に不可欠であることを示している。したがって、eIF5Aは細胞プロテオスタシスの主要な調節因子として浮上し、神経変性疾患や老化におけるその重要な役割について新たな視点を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11538306/v1",
+    "title": "COVID-19 and male infertility - A review",
+    "abstract": "Abstract  Background:  Coronavirus disease 2019 (COVID-19), caused by SARS-CoV-2, is a systemic illness capable of influencing the male reproductive system through fever, inflammation, oxidative stress, vascular injury and endocrine disturbance. Because spermatogenesis is temperature-sensitive and spermatozoa are vulnerable to oxidative damage, semen quality may be altered during acute infection and early recovery. Objective: This systematic review evaluates the association between COVID-19 and male reproductive function, with a focus on conventional semen parameters, sperm DNA fragmentation and oxidative stress, reproductive hormones, SARS-CoV-2 detection in semen, and the time course of recovery. Methods: Published human studies of confirmed or previous SARS-CoV-2 infection were identified through structured searches of electronic literature sources. Eligible observational studies reported at least one male reproductive outcome, including semen quality, sperm functional integrity, reproductive hormones, or viral detection in semen/testicular material. Findings were synthesised qualitatively in accordance with PRISMA 2020 reporting principles (Page et al., 2021). Results: Across the available evidence, the clearest pattern is a short-term reduction in sperm concentration, total sperm count and motility after infection, although individual studies differ in magnitude and not all report persistent abnormalities. Longitudinal and pre/post-infection studies indicate improvement over subsequent months in many men (Guo et al., 2021; Hu et al., 2022; Zhao et al., 2025). Sperm DNA fragmentation and seminal oxidative/inflammatory markers may also increase after COVID-19 (Hajizadeh Maleki and Tartibian, 2021; Yuan et al., 2025). Endocrine studies report transient reductions in testosterone or altered gonadotrophin relationships, particularly during symptomatic disease (Ma et al., 2021; Majzoub et al., 2024). SARS-CoV-2 RNA is rarely detected in semen; one early study reported positive samples, whereas most subsequent cohorts did not (Li et al., 2020; Pan et al., 2020; Ruan et al., 2021). Conclusion: COVID-19 can act as a temporary reproductive stressor in men, particularly after symptomatic or febrile illness. Current evidence supports predominantly indirect mechanisms such as fever, inflammation, oxidative stress and endocrine disturbance, rather than persistent seminal infection. The evidence is insufficient to conclude that COVID-19 commonly causes permanent infertility. When semen results are abnormal soon after infection, repeat assessment after approximately one spermatogenic cycle may help distinguish transient suppression from persistent dysfunction.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11538306/v1",
+    "date": "2026-10-29",
+    "authors": "Suresh R, Kumar R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352932",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3412,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11538306/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2d4c54d88a6588ac21249ea96dea27892e738978751c36e6ea3d71d7a3b420bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:55:07.496233+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3acb3fe26f4366f9ba2c769fcf691ac1e6b6e2b695fc3f51935521b39fe08c73",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:55:07.496233+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "COVID-19と男性不妊 ― 総説",
+    "abstract_ja": "要旨  背景：SARS-CoV-2によって引き起こされる新型コロナウイルス感染症2019（COVID-19）は、発熱、炎症、酸化ストレス、血管損傷、および内分泌障害を介して男性生殖器系に影響を及ぼし得る全身性疾患である。精子形成は温度感受性であり、精子は酸化損傷を受けやすいため、急性感染期および回復初期において精液の質が変化する可能性がある。目的：本システマティックレビューでは、従来の精液パラメータ、精子DNA断片化および酸化ストレス、生殖ホルモン、精液中におけるSARS-CoV-2検出、および回復の経時的経過に焦点を当て、COVID-19と男性生殖機能との関連を評価する。方法：電子文献ソースの構造化検索により、確定または既往のSARS-CoV-2感染に関する既報のヒト研究を特定した。適格な観察研究のうち、精液の質、精子の機能的完全性、生殖ホルモン、または精液・精巣組織におけるウイルス検出を含む、少なくとも1つの男性生殖アウトカムが報告されているものを対象とした。得られた知見は、PRISMA 2020の報告原則（Page et al., 2021）に従い、定性的に統合した。結果：利用可能なエビデンス全体において、最も明確なパターンは、感染後の精子濃度、総精子数、および運動率の短期的な低下であるが、個々の研究によってその程度は異なり、すべての研究で持続的な異常が報告されているわけではない。縦断的研究および感染前後の研究では、多くの男性においてその後数ヶ月かけて改善が認められることが示されている（Guo et al., 2021; Hu et al., 2022; Zhao et al., 2025）。精子DNA断片化および精液の酸化・炎症マーカーも、COVID-19後に増加する可能性がある（Hajizadeh Maleki and Tartibian, 2021; Yuan et al., 2025）。内分泌研究では、特に有症状期において、テストステロンの一過性の低下または性腺刺激ホルモンの関係の変化が報告されている（Ma et al., 2021; Majzoub et al., 2024）。精液中でSARS-CoV-2 RNAが検出されることは稀であり、初期の1研究では陽性検体が報告されたが、その後のほとんどのコホートでは報告されなかった（Li et al., 2020; Pan et al., 2020; Ruan et al., 2021）。結論：COVID-19は、特に有症状または発熱性疾患の後に、男性において一時的な生殖ストレス因子となり得る。現在のエビデンスは、持続的な精液感染よりも、発熱、炎症、酸化ストレス、および内分泌障害といった主に間接的な機序を支持している。COVID-19が一般的に永続的な不妊を引き起こすと結論付けるにはエビデンスが不十分である。感染直後に精液所見に異常が認められる場合、約1回の精子形成サイクル後に再評価を行うことで、一過性の抑制と持続的な機能不全を区別できる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11362934/v1",
+    "title": "Uncertainty-aware benchmarking reveals ambiguous transcripts in mRNA–lncRNA classification",
+    "abstract": "Abstract    Background  Long non-coding RNAs (lncRNAs) have gained significant attention in recent years, yet distinguishing them from protein-coding transcripts remains challenging. Indeed, many lncRNAs share mRNA-like processing and existing sequence-derived signals do not fully capture the coding/non-coding boundary. Recent GENCODE annotation efforts revealed tens of thousands of novel lncRNA sequences as well as the reclassification of some lncRNAs into the protein-coding class, highlighting the need to better characterize transcript features associated with classification uncertainty and errors.  Results  We performed uncertainty-aware benchmarking by retraining and evaluating eight transcript classifiers under a controlled protocol on a label-stable GENCODE v46–v47 subset. Beyond conventional model evaluation metrics, we quantified inter-tool agreement and entropy-based uncertainty to stratify transcripts into low and high uncertainty groups. Although aggregate performance was high, ~ 45% of transcripts showed inter-tool discordance, particularly among lncRNAs. To expand standard sequence and ORF-derived signals, we incorporated repeat-derived features and non-canonical secondary structure from both mature transcripts and gene bodies. Feature analyses linked low-uncertainty predictions to strong coding-like signals, whereas high-uncertainty profiles exhibited mixed signatures. Alongside classical predictors in global importance analyses, repeat-derived features appeared as main contributors.  Conclusions  By combining controlled benchmarking with transcript-level agreement and uncertainty stratification, together with extended feature profiling, we identified patterns associated with classifier disagreement and misclassification. This novel framework provides practical guidance for interpreting predictions, motivating the development of more robust coding/non-coding classifiers, while also shedding light on the sequence properties that distinguish lncRNA sequences.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11362934/v1",
+    "date": "2026-10-29",
+    "authors": "Garcia-Ruano D, Georges M, Mohanty SK, Baaziz R, Makova KD, Nikolski M, Chalopin D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353025",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3876,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11362934/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af7a076346306291b035e4e7c4a5c0f870246baeb19882a7ef88f2b7115e02cd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:55:07.496233+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e7e8976dd9e5319e88ce03730c7fc08df693c2eed5db9b2a8c21288cdf73d9db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:55:07.496233+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "不確実性を考慮したベンチマーク解析により、mRNA–lncRNA分類における曖昧な転写産物が明らかになった。",
+    "abstract_ja": "要旨    背景  長鎖非コードRNA（lncRNA）は近年大きな注目を集めているが、タンパク質コード転写産物との区別は依然として困難な課題である。実際、多くのlncRNAはmRNA様のプロセシングを共有しており、既存の配列由来シグナルではコーディング／非コーディング境界を十分に捉えきれていない。近年のGENCODEアノテーション作業により、数万件の新規lncRNA配列が発見されたほか、一部のlncRNAがタンパク質コードクラスへと再分類されたことから、分類の不確実性や誤りに関連する転写産物の特徴をより詳細に特性評価する必要性が浮き彫りとなった。  結果  ラベル安定性が確保されたGENCODE v46–v47サブセットを用い、制御されたプロトコルの下で8種類の転写産物分類器を再学習・評価することで、不確実性を考慮したベンチマークを実施した。従来のモデル評価指標に加え、ツール間の一致度とエントロピーに基づく不確実性を定量化し、転写産物を低不確実性群と高不確実性群に層別化した。全体的な性能は高かったものの、転写産物の約45%にツール間の不一致が認められ、特にlncRNAにおいて顕著であった。標準的な配列およびORF由来シグナルを拡張するため、成熟転写産物と遺伝子本体の両方から、リピート由来の特徴と非正準二次構造を組み込んだ。特徴量解析の結果、低不確実性の予測は強いコーディング様シグナルと関連していた一方、高不確実性のプロファイルは混合的なシグネチャを示した。グローバル重要度解析における古典的な予測因子に加え、リピート由来の特徴量が主要な寄与因子として現れた。  結論  制御されたベンチマークに転写産物レベルの一致度および不確実性の層別化、さらに拡張された特徴量プロファイリングを組み合わせることで、分類器の不一致や誤分類に関連するパターンを特定した。この新規フレームワークは、予測結果を解釈するための実用的な指針を提供し、より堅牢なコーディング／非コーディング分類器の開発を促すとともに、lncRNA配列を区別する配列特性を明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.760902",
+    "title": "CellMethMarker provides an integrated database of human cell- and tissue-type-specific DNA methylation markers",
+    "abstract": "Cell- and tissue-type-specific DNA methylation markers provide epigenetic signatures of cellular identity and are widely used to infer cellular origin from bulk and single-cell methylomes. Existing resources mainly emphasize disease-associated biomarkers, methylome atlases, genomic annotations or RNA-based cell markers, leaving an unmet need for an integrated region-level resource dedicated to such markers. Here we present CellMethMarker (  http://gu-zhanglab.hfcas.ac.cn/CellMethMarker ), a curated database integrating 347,514  de novo markers derived from uniformly processed whole-genome and reduced-representation bisulfite sequencing datasets, 2,203,507 literature-derived marker records and harmonized metadata for 2,810 samples. CellMethMarker enables cell- and tissue-centered marker retrieval, coordinate-based search, genome-browser visualization, interactive methylation analysis and data download. In an independent single-cell methylome atlas, these markers recover the expected cell-type-associated methylation patterns, and a platform-matched reference built from them lowers the mean deconvolution error from 0.365 to 0.144. CellMethMarker therefore links region-level DNA methylation variation to cellular identity and supports methylome-based cell-type annotation and deconvolution.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.760902",
+    "date": "2026-10-29",
+    "authors": "Sun X, Peng Y, Yi Y, Fu L, Liu F, Xie Y, Dai Q, Gu H, Shi J, Wang H, Zhang F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353432",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "database",
+        "genome",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3938,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.23.760902"
+    ],
+    "translation": {
+      "title": {
+        "hash": "850b184d92bdc27c4e2a152d3e090931fc2facc4c36e9ec99f0c44a9bd311a92",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:55:07.496233+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "da4e9facfc45dc3d12a7e14dd13feb4f24cc6d091c3e41c7f72c7547c21e876d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:55:07.496233+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CellMethMarkerは、ヒトの細胞・組織型特異的なDNAメチル化マーカーの統合データベースを提供する。",
+    "abstract_ja": "細胞および組織型特異的なDNAメチル化マーカーは、細胞アイデンティティのエピジェネティックなシグネチャーを提供し、バルクおよびシングルセル・メチロームから細胞由来を推定するために広く利用されている。既存のリソースは主に疾患関連バイオマーカー、メチロームアトラス、ゲノムアノテーション、あるいはRNAベースの細胞マーカーに重点を置いており、こうしたマーカーに特化した統合的な領域レベルのリソースに対するニーズが未充足のままとなっている。本研究では、統一的に処理された全ゲノムおよび低代表性ビスルファイトシーケンシングデータセット由来の347,514個のde novoマーカー、2,203,507件の文献由来マーカーレコード、および2,810サンプルの調和済みメタデータを統合したキュレート済みデータベース「CellMethMarker」（http://gu-zhanglab.hfcas.ac.cn/CellMethMarker）を提案する。CellMethMarkerは、細胞および組織中心のマーカー検索、座標ベースの検索、ゲノムブラウザによる可視化、インタラクティブなメチル化解析、およびデータダウンロードを可能にする。独立したシングルセル・メチロームアトラスにおいて、これらのマーカーは期待通りの細胞型関連メチル化パターンを再現し、これらを用いて構築したプラットフォーム整合型リファレンスにより、平均デコンボリューション誤差は0.365から0.144へと低減した。したがって、CellMethMarkerは領域レベルのDNAメチル化変動を細胞アイデンティティに結びつけ、メチロームに基づく細胞型アノテーションおよびデコンボリューションを支援する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11225433/v1",
+    "title": "Genome-wide Association Studies and Genomic Prediction for Resilience Traits to Aleutian Disease in Mink",
+    "abstract": "Abstract  Aleutian disease (AD) is a significant health concern for mink, resulting in substantial economic losses for the mink industry. Although phenotypic selection of AD-resilient mink is practiced by some mink farms, the genetic architecture of AD resilience and the potentials of genetic or genomic selectionfor AD resilient traits have not been widely explored. Thus, the objectives of this study were to conduct genome-wide association studies (GWAS) to identify genomic regions and genes associated with AD resilience and investigate the efficiency of different genetic/genomic methods in predicting breeding values. The studied individuals (n = 1,411) had genotypes from the Axiom Affymetrix Mink 70K single nucleotide polymorphism (SNP) panel, with phenotypes including two immune response traits measured by antigen-based enzyme-linked immunosorbent assay (ELISA-G) and iodine agglutination test (IAT) and two feed-intake-related resilience traits measured by the daily variation in feed intake (Varf) and proportion of off-feed days (DOF). The methods of genetic and genomic predictions were traditional pedigree-based best linear unbiased prediction (BLUP), genomic BLUP (GBLUP), and single-step genomic BLUP (ssGBLUP). From the GWAS, seventeen, eight, and seven significant (q",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11225433/v1",
+    "date": "2026-10-29",
+    "authors": "Hu G, Do DN, Manafiazar G, Kelvin AA, Plastow G, Sargolzaei M, Wang Z, Miar Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352913",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "genomic",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3939,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.21203/rs.3.rs-11225433/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "75d270fc3f752aacca632c8006cb44f1e13d894e52ec2d0f6ee54f4658aacb88",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:55:07.496233+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7e28ddb48e2e22bb3147b054aa3714c6a24e9f473753b5b690eefc273efc807c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:55:07.496233+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ミンクにおけるアリューシャン病耐性形質のゲノムワイド関連解析およびゲノム予測",
+    "abstract_ja": "要旨　アリューシャン病（AD）はミンクにとって重大な健康上の懸念事項であり、ミンク産業に多大な経済的損失をもたらしている。一部のミンク農場ではAD耐性個体の表現型選抜が行われているが、AD耐性の遺伝的構造や、AD耐性形質に対する遺伝的またはゲノム的選抜の可能性については、これまで広く検討されてこなかった。したがって、本研究の目的は、ゲノムワイド関連解析（GWAS）を実施してAD耐性に関連するゲノム領域および遺伝子を同定し、育種価の予測における各種遺伝的・ゲノム的手法の効率性を検討することであった。対象個体（n = 1,411）は、Axiom Affymetrix Mink 70K一塩基多型（SNP）パネルによる遺伝子型を有しており、表現型には、抗原ベースの酵素結合免疫吸着法（ELISA-G）およびヨウ素凝集試験（IAT）で測定した2つの免疫応答形質と、飼料摂取量の日内変動（Varf）および離餌日数（DOF）の割合で測定した2つの飼料摂取量関連耐性形質が含まれていた。遺伝的およびゲノム的予測の手法には、従来の家系ベースの最良線形不偏予測（BLUP）、ゲノムBLUP（GBLUP）、およびシングルステップゲノムBLUP（ssGBLUP）を用いた。GWASの結果、17、8、および7つの有意な（q"
   }
 ]
