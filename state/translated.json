@@ -239853,5 +239853,295 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "MetabDB：ヒトの代謝指標、疾患との関連、および遺伝学的根拠を網羅する統合リソース。",
     "abstract_ja": "集団規模のメタボロミクス研究では、代謝指標と疾患、定量的形質、および遺伝的変異との関連が示されてきたが、その結果はアッセイプラットフォーム、表現型の定義、および解析形式によってばらつきがある。MetabDBは、核磁気共鳴、質量分析、およびリピドミクスにわたる16件の公開研究を統合している。本リリースには、2,663件の代謝指標、3,524件の疾患およびアウトカム、3,382件のその他のゲノムワイド関連形質、および2,025件の分子定量的形質遺伝子座（QTL）ターゲットが含まれている。MetabDBは、変異/QTL関連、ファインマッピング、希少変異または負荷解析、共局在化、メンデルランダム化、および集団関連を通じて、ゲノム変異、遺伝子およびタンパク質、代謝指標、ならびに疾患または形質を紐付ける。代謝指標は、化合物、脂質種、リポタンパク質指標、比率、パーセンテージ、および派生形質を含む、原報告時の形式で保持されている。同一の代謝指標について、遺伝子およびタンパク質レベルのエビデンスを、ゲノムシグナルや関連する疾患・形質のエビデンスと併せて検討することが可能である。原報告研究、元の変数または表現型の定義、アッセイ、単位、曝露スケール、解析モデル、および利用可能な場合は統計量を含む、出典情報および報告された解析詳細が保持されている。検索、閲覧、および共局在化ページに加え、遺伝子エビデンスの網羅性と疾患関連プロファイルにより、これらのレコードへのアクセスが可能となっている。MetabDBは、http://www.mulinlab.org/metabdb/ で無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag795",
+    "title": "BioHarness: substrate-aware evidence assembly for biomedical question answering across literature, knowledge bases, and biological atlases.",
+    "abstract": "MotivationBiomedical question answering often requires evidence beyond topically retrieved literature, including gene alias resolution, database identifier normalization, and atlas-derived biological measurements. However, existing retrieval-augmented generation (RAG) systems typically follow a fixed workflow and lack an explicit mechanism for deciding when retrieved text is sufficient, when biomedical entity mapping is needed, or when executable evidence assembly over structured measurements should be invoked. This motivates a substrate-aware large language model (LLM) harness that selectively assembles sufficient evidence by combining literature retrieval, biomedical entity mapping, and access to atlas-derived measurements.ResultsWe introduce BioHarness, an LLM harness for staged biomedical evidence assembly across literature retrieval, biomedical entity-mapping resources, and atlas-derived structured measurements. Across 22 123 biomedical QA items spanning seven answer formats, BioHarness improves the pooled score from 62.2 to 67.2 over the strongest baseline. Ablations, case studies, and backbone-scaling analyses show that these gains arise from repairing evidence-substrate mismatches through reranking, entity grounding, and structured measurement access, rather than from indiscriminately invoking more reasoning steps, retrieving additional literature, or relying on a particular answer-model scale. Comparisons with the frontier models and harness show that BioHarness, despite using an open-weight backbone with only 3B active parameters, approaches frontier-level performance on selected literature QA tasks and outperforms frontier harnesses without web access on biomedical identifier and locus lookup.Availability and implementationThe source code, reproducible benchmarking scripts, and processed benchmark data required to reproduce all results in this study are publicly available under an open-source license, together with the exat configuration, model versions, and decoding settings used in our experiments. In addition, we developed a prototype web demo (https://xcompass.scimatrix.cn/) that illustrates how BioHarness can be used in an interactive biomedical QA setting.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag795",
+    "date": "2026-11-01",
+    "authors": "Xiao M, Qin C, Chen J, Cheng Y, Zhou Y, Zhu H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42924887",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739047",
+    "pmid": "42924887",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4606,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1093/bioinformatics/btag795"
+    ],
+    "translation": {
+      "title": {
+        "hash": "34aa0cbaaaced36ee0c1f7ecdd732e94678967bdf846e6c586f84ee9683c0a2b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:28:53.120890+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3d17f2195160cb688c100fc8e8023e55df1c0592d3446a826eebf11c2a4c0bb6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:28:53.120890+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BioHarness: 文献、知識ベース、および生物学アトラスにわたる生物医学質問応答のための基質認識型エビデンスアセンブリ。",
+    "abstract_ja": "動機生物医学分野の質問応答では、遺伝子エイリアスの解消、データベース識別子の正規化、アトラス由来の生物学的測定値など、トピック別に検索された文献を超えたエビデンスが必要となることが多い。しかし、既存の検索拡張生成（RAG）システムは通常、固定されたワークフローに従っており、検索されたテキストで十分な場合、生物医学エンティティマッピングが必要な場合、あるいは構造化測定値に基づく実行可能なエビデンスアセンブリを発動すべき場合を判断するための明示的なメカニズムを欠いている。このことが、文献検索、生物医学エンティティマッピング、およびアトラス由来の測定値へのアクセスを組み合わせて、十分なエビデンスを選択的に組み立てるサブストラット認識型大規模言語モデル（LLM）ハーネスの開発動機となった。結果我々は、文献検索、生物医学エンティティマッピングリソース、およびアトラス由来の構造化測定値にわたる段階的な生物医学エビデンスアセンブリのためのLLMハーネスであるBioHarnessを提案する。7つの回答形式にわたる22,123件の生物医学QA項目において、BioHarnessは最強のベースラインと比較して、統合スコアを62.2から67.2へと向上させた。アブレーション、ケーススタディ、およびバックボーンスケーリング解析により、これらの向上は、無差別に推論ステップを増やしたり、追加の文献を検索したり、特定の回答モデルのスケールに依存したりしたことではなく、リランキング、エンティティグラウンディング、および構造化測定値へのアクセスを通じて、エビデンスとサブストラットの不一致を解消したことに起因することが示された。フロンティアモデルおよびハーネスとの比較により、BioHarnessは、アクティブパラメータ数がわずか3Bのオープンウェイトバックボーンを使用しているにもかかわらず、選定された文献QAタスクにおいてフロンティアレベルの性能に迫り、生物医学識別子およびロカスのルックアップに関しては、ウェブアクセスを持たないフロンティアハーネスを凌駕することが示された。利用可能性と実装本研究のすべての結果を再現するために必要なソースコード、再現可能なベンチマークスクリプト、および処理済みベンチマークデータは、実験で使用したexat設定、モデルバージョン、およびデコーディング設定とともに、オープンソースライセンスの下で公開されている。さらに、BioHarnessをインタラクティブな生物医学QA設定でどのように活用できるかを示すプロトタイプウェブデモ（https://xcompass.scimatrix.cn/）を開発した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0361202",
+    "title": "Coupling between adhesome assembly and 3D chromatin organization.",
+    "abstract": "Proteins on the cell membrane cluster to respond to extracellular signals; for example, adhesion proteins cluster to enhance extracellular matrix sensing. The maturation of such receptor clusters may require additional adhesome proteins to adapt and reinforce extracellular signal sensing. However, it has been unclear whether the genes encoding these proteins share a spatial organization in the nucleus. Using the adhesome as an example, we show that subsets of genes that code for adhesome proteins exhibit relative spatial clustering and co-regulation in distinct locations within the nucleus. We use Hi-C maps and RNA-seq data from adherent cells to map the correspondence between adhesome gene localization and their expression. Interestingly, we find that the genes encoding several transcription factors, cofactors, and chromatin regulators that regulate these genes are also co-localized with the adhesome gene loci, thereby potentially suggesting a link between the extracellular matrix sensing machinery and gene expression. Additionally, we validate the spatial sub-clustering of adhesome gene loci using MERFISH data and DNA-FISH experiments. Collectively, our results support an association between adhesome gene organization and regulatory state, with a possible role in cellular signal sensing.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0361202",
+    "date": "2026-10-29",
+    "authors": "Cammarata LV, Sengupta D, Gupta R, Uhler C, Shivashankar GV.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956062",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13719029",
+    "pmid": "42956062",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "chromatin"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4631,
+    "collected_at": "2026-11-15T10:50:36.401365+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1371/journal.pone.0361202"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2031b47dfee6b1a894dff7b7cb9abd158af7706354e1af7bdda49e7a2fcbcf34",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:28:53.120890+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cc311d8ee25df78a18c4c9385f127a3ec48067be844fd0a337fb797636032391",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:28:53.120890+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アデソーム集合と3次元クロマチン構造の連関。",
+    "abstract_ja": "細胞膜上のタンパク質は、細胞外シグナルに応答してクラスターを形成し、例えば接着タンパク質はクラスターを形成して細胞外マトリックスの感知を強化する。このような受容体クラスターの成熟には、細胞外シグナル感知を適応・強化するための追加のアドソームタンパク質が必要となる場合がある。しかし、これらのタンパク質をコードする遺伝子が核内で空間的な構成を共有しているかどうかは不明であった。我々はアドソームを例に、アドソームタンパク質をコードする遺伝子のサブセットが、核内の異なる部位において相対的な空間的クラスター形成と共調節を示すことを明らかにした。接着細胞のHi-CマップとRNA-seqデータを用いて、アドソーム遺伝子の局在とその発現との対応関係をマッピングした。興味深いことに、これらの遺伝子を調節する複数の転写因子、補因子、およびクロマチン調節因子をコードする遺伝子もアドソーム遺伝子座と共局在しており、細胞外マトリックス感知機構と遺伝子発現との関連を示唆している可能性がある。さらに、MERFISHデータとDNA-FISH実験を用いて、アドソーム遺伝子座の空間的なサブクラスター形成を検証した。以上の結果を総合すると、我々の知見はアドソーム遺伝子の構成と調節状態との関連を支持するものであり、細胞シグナル感知において役割を果たす可能性がある。"
+  },
+  {
+    "id": "10.64898/2026.11.13.766378",
+    "title": "Optimizing Avian Influenza Viral RNA Enrichment from Water: A Comparison of Concentration Methods for Low-Volume Samples",
+    "abstract": "Feed-baited water bins may provide a complementary approach for avian influenza virus (AIV) surveillance in wild waterbird populations. In a previous study, water from these bins was sampled using swabs after exposure to visiting birds, but the low sample volume limited the detection and subsequent characterization of AIV RNA (F. I. Rondi, J. Neumann-Heise, T. Harder, V. Allendorf, K. Depner, T. Homeier-Bachmann, L. Breuer, S. Knauf, S. Dreyer, and A. Globig, One Health 23:101548, 2026, https://doi.org/10.1016/j.onehlt.2026.101548). Here, we compared five sample-processing methods for improving AIV RNA detection in small (40-mL) water samples (tap and brackish water) spiked with an AIV of the H4N6 subtype under simulated field conditions: swab sampling, polyethylene glycol precipitation, activated carbon capture, combined activated carbon capture and polyethylene glycol precipitation (AC/PEG), and electronegative membrane adsorption (EM). AC/PEG and EM showed the strongest overall performance based on RT-qPCR results, although their relative performance varied across experimental conditions. The qPCR-derived viral signal was generally higher in tap water than in brackish water, whereas wheat presence was associated with a lower signal, particularly for swab sampling. Subsequent testing was conducted to ascertain the most effective storage conditions with regard to temperature and duration. During storage, AIV RNA detection remained relatively stable at minus 20 degrees Celsius for up to four weeks, with only minor increases in mean Ct values in both water matrices. Greater increases were observed at room temperature and 4 degrees Celsius, with significantly higher Ct values at both temperatures than at minus 20 degrees Celsius in both water matrices at Weeks 2 and 4 (p < 0.05). These findings support the potential of AC/PEG and EM to facilitate the recovery, detection and subsequent characterization of AIV from low-volume water samples by improving viral RNA detection using RT-qPCR. Given its overall performance and lower cost compared with EM, AC/PEG may represent a practical option for field-based surveillance. Regarding storage, minus 20 degrees Celsius provided the best conditions for maintaining AIV RNA detection, with relatively stable results for up to four weeks.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766378",
+    "date": "2026-11-14",
+    "authors": "Neumann Heise, J., Holzer, C., Stange, C., Thiem, A., Perlas, A., Urban, L., Harder, T. C., Breuer, L., Knauf, S., Globig, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766378v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "method",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4633,
+    "collected_at": "2026-11-15T11:01:16.194092+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.13.766378"
+    ],
+    "translation": {
+      "title": {
+        "hash": "62f29cc6a5aeeffc705bdaff7697ef99e79ececfdb7de12973fb87bfa61c1d70",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:28:53.120890+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "05a76da1468487117edcf726a72da94941ee3c2448513b1e4efa09a07477cb60",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:28:53.120890+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水からの鳥インフルエンザウイルスRNA濃縮の最適化：少量試料の濃縮法の比較",
+    "abstract_ja": "餌付き給水容器は、野生の水鳥個体群における鳥インフルエンザウイルス（AIV）サーベイランスのための補完的な手法となり得る。先行研究では、飛来した鳥類に接触させた後、これらの容器の水をスワブで採取したが、サンプル量が少なかったため、AIV RNAの検出およびその後の特性解析が制限された（F. I. Rondi, J. Neumann-Heise, T. Harder, V. Allendorf, K. Depner, T. Homeier-Bachmann, L. Breuer, S. Knauf, S. Dreyer, and A. Globig, One Health 23:101548, 2026, https://doi.org/10.1016/j.onehlt.2026.101548）。本研究では、模擬野外条件下でH4N6亜型のAIVをスパイクした少量（40 mL）の水サンプル（水道水および汽水）におけるAIV RNA検出を向上させるため、5つのサンプル処理法（スワブ採取、ポリエチレングリコール沈殿、活性炭捕捉、活性炭捕捉およびポリエチレングリコール沈殿の併用（AC/PEG）、および電気陰性膜吸着（EM））を比較した。RT-qPCRの結果に基づくと、AC/PEGとEMが全体として最も優れた性能を示したが、相対的な性能は実験条件によって異なっていた。qPCRから得られたウイルスシグナルは、一般に汽水よりも水道水で高く、一方で小麦の存在は、特にスワブ採取においてシグナルの低下と関連していた。その後、温度および保存期間に関して最も効果的な保存条件を明らかにするため、追加試験を実施した。保存中、AIV RNAの検出はマイナス20℃で最大4週間にわたり比較的安定しており、両水マトリックスにおいて平均Ct値の上昇はわずかであった。室温および4℃ではより大きな上昇が認められ、第2週および第4週において、両水マトリックスのCt値はマイナス20℃よりも有意に高かった（p < 0.05）。これらの知見は、RT-qPCRを用いたウイルスRNA検出を向上させることで、少量の水サンプルからのAIVの回収、検出、およびその後の特性解析を容易にするというAC/PEGおよびEMの可能性を支持するものである。全体的な性能およびEMと比較した低コスト性から、AC/PEGは野外ベースのサーベイランスにおける実用的な選択肢となり得る。保存に関しては、マイナス20℃がAIV RNA検出を維持するための最良の条件であり、最大4週間にわたって比較的安定した結果が得られた。"
+  },
+  {
+    "id": "10.64898/2026.11.13.766522",
+    "title": "Gain-of-function mutations in 1-phosphofructokinase (FruK) re-establish glycolysis in bacteria",
+    "abstract": "Secondary (promiscuous) activities provide enzymes with a reservoir of latent catalytic functions, which can be leveraged during selective pressure. Here we retrace the re-emergence of glycolysis from the promiscuous activity of 1-phosphofructokinase (FruK). We evolved a hexose-degradation-deficient Escherichia coli strain on glucose and recovered non-synonymous mutations in fruK. Reverse engineering, gene deletions and transcript quantification identified a modified and strongly overexpressed fruK as the determinant of the growth phenotype. Purified FruK variants phosphorylated fructose-6-phosphate in vitro, the best variant with ~170-fold improved catalytic efficiency over the wildtype enzyme. Crystal structures at up to 1.4 angstrom resolution captured FruK with ADP and either F1P, F6P or FBP bound. They identify a single active-site lysine that excludes the alternative substrate, and which E. coli FruK retains despite forgoing a 26 % gain in efficiency on its own native reaction. Since F1P, the product of the reverse reaction of FruK, is the effector of the global regulator Cra, we propose that this residue keeps glycolytic flux separate from transcriptional control. The same active-site motifs occur naturally across FruK clades, and a hexose-degradation-deficient Corynebacterium glutamicum strain converged on the same adaptation, indicating a common strategy across the Gram divide. The committed step of EMP glycolysis therefore lies a single substitution away within a widespread sugar kinase family, where it appears to be actively suppressed.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766522",
+    "date": "2026-11-14",
+    "authors": "Dronsella, B. B., Erb, T. J., Linder, S. N., Zarzycki, J., Barragan, L. T., Bonder, D., Piven, I., Hristov, S., Salehabadi, E., Satanowski, A., Schulz, L., Bar-Even, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766522v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4634,
+    "collected_at": "2026-11-15T11:01:16.194092+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.13.766522"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4b8d3570134a52faebaca960ff6dcf8a0aa96bbdffcc4d4a8a195f353c97cae3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:28:53.120890+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5564760ca1ecd89daf05cd9b02f1a58eb55524190357da328000c238a60459ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:28:53.120890+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "1-ホスホフルクトキナーゼ（FruK）の機能獲得型変異は、細菌において解糖系を再確立する。",
+    "abstract_ja": "二次的（プロミシュアス）活性は、酵素に潜在的な触媒機能の貯蔵庫を提供し、これは選択圧下で活用され得る。本研究では、1-ホスホフルクトキナーゼ（FruK）のプロミシュアス活性からの解糖系の再出現を辿る。我々は、グルコース上で六炭糖分解能を欠く大腸菌株を作出し、fruKにおける非同義変異を回収した。リバースエンジニアリング、遺伝子欠失、および転写産物定量により、改変され強く過剰発現しているfruKが増殖表現型の決定因子であることが同定された。精製したFruK変異体はin vitroでフルクトース-6-リン酸をリン酸化し、最良の変異体は野生型酵素に比べて触媒効率が約170倍向上していた。最大1.4オングストローム分解能の結晶構造により、ADPおよびF1P、F6P、またはFBPが結合した状態のFruKが捉えられた。これらの構造から、代替基質を排除する単一の活性部位リシンが同定され、大腸菌FruKは、本来の天然反応における効率の26%向上を犠牲にしてでも、このリシンを保持していることが明らかになった。FruKの逆反応産物であるF1Pは、グローバル調節因子Craのエフェクターであるため、この残基が解糖系フラックスを転写制御から分離させていると我々は提唱する。同様の活性部位モチーフはFruKの系統群間で天然に存在し、六炭糖分解能を欠くコリネバクテリウム・グルタミカム株も同様の適応を遂げており、これはグラム分化群全体にわたる共通の戦略であることを示唆している。したがって、EMP解糖系のコミットメントステップは、広範な糖キナーゼファミリーの中で単一の置換によって到達可能であり、そこでは能動的に抑制されていると考えられる。"
   }
 ]
