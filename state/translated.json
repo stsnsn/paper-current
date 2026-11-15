@@ -247720,5 +247720,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "粗視化モデルにおける化学シフト拘束を用いた無秩序タンパク質アンサンブルのシミュレーションの高度化。",
     "abstract_ja": "ヒトプロテオームの3分の1以上が構造的に無秩序であるため、内在性無秩序タンパク質（IDP）は複雑な細胞機能の重要な構成要素となっている。しかしながら、その極めて動的なコンフォメーションアンサンブルは、構造生物学における従来の手法では解明が困難なままである。したがって、粗視化（CG）シミュレーション手法は、IDPアンサンブルを精緻化するためのゴールドスタンダードとして機能する。これらの手法は、二次構造のサンプリングに弾性ネットワークモデルや剛体モデルを用いる場合、実験データに基づいた残基レベルの分解能で一過性の二次構造をモデル化・サンプリングする能力に本質的な限界がある。この根本的な限界は、一過性の構造的傾向がIDP機能の本質的な特徴であることを示唆する実験的証拠があるにもかかわらず依然として存在している。Cαのみのタンパク質コンフォメーションから主鎖の化学シフトを予測可能な人工ニューラルネットワークを通じて、我々は、二面角パラメータ化に依存しない汎用的なフレームワークを提示し、アミノ酸あたり1ビーズのCG力場に二次構造の機能的要素をサンプリングする能力を付与する。孤立状態または凝縮体における大規模なIDPセットに本手法を適用すると、局所的および大域的な配置の両方を正しく再現でき、構造介在性機能の解明や力場の限界の解消に寄与し得る、実験データに基づいたアンサンブルが得られる。これにより、IDPにおけるアンサンブルと機能の関係を実りある形で探索することが可能となり、凝縮体における二次構造の傾向や核形成、無秩序アンサンブルにわたるコンフォメーション選択的な結合モチーフ、あるいは配列特異的な短線状モチーフのコンフォメーション的選好といった現象の解明が実現する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.14293/pr2199.004798.v1",
+    "title": "Recombinant DNA Topoisomerases for Biomedical Research and Pharmaceutical Discovery: Expression Platforms, Functional Assays, and Translational Applications",
+    "abstract": "DNA topoisomerases regulate DNA topology during replication, transcription, recombination, and chromosome segregation. Several members of this enzyme family are established targets of anticancer and antibacterial drugs. Recombinant production of topoisomerases supports biochemical screening, structural biology, and mechanistic pharmacology. This narrative review examines the classification and catalytic mechanisms of DNA topoisomerases, recombinant expression platforms in bacteria, yeast, and human cells, purification and quality-control considerations, functional assays, and translational applications in drug discovery. Particular attention is given to DNA relaxation, decatenation, ATPase activity, and cleavage-complex assays, as well as counter-screening strategies to distinguish genuine enzyme inhibition from nonspecific effects. The review compares the strengths and limitations of different expression systems and emphasizes that protein yield alone is insufficient to establish platform suitability; enzymatic activity, isoform identity, and appropriate assay controls must also be demonstrated. It further discusses topoisomerase poisons and catalytic inhibitors, including approaches to TOP2A/TOP2B isoform selectivity. Topobexin is discussed as a preclinical TOP2B-selective catalytic inhibitor with potential relevance to anthracycline-associated cardiotoxicity. Overall, recombinant topoisomerase systems provide valuable tools for biomedical research and pharmaceutical discovery, although biochemical findings require further cellular and preclinical validation before clinical translation.",
+    "journal": "",
+    "doi": "10.14293/pr2199.004798.v1",
+    "date": "2026-11-10",
+    "authors": "Nabil MGR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1367340",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4689,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.14293/pr2199.004798.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "40f8e1eb7d5af29eee58ecd51aec56f5a7d8ee9f38b8f758bd0333fb5d614ab2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:20:18.712706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7d1275dd9370acd648fc1757bd3bb1e2e6772d244026c0ecb558c965c16fefea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:20:18.712706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生物医学研究および創薬のための組換えDNAトポイソメラーゼ：発現プラットフォーム、機能アッセイ、およびトランスレーショナル応用",
+    "abstract_ja": "DNAトポイソメラーゼは、複製、転写、組換え、および染色体分離の過程においてDNAトポロジーを調節する。この酵素ファミリーの数種は、抗がん剤および抗菌薬の確立された標的となっている。トポイソメラーゼの組換え生産は、生化学的スクリーニング、構造生物学、および機構薬理学を支える。本ナラティブレビューでは、DNAトポイソメラーゼの分類と触媒機構、細菌、酵母、およびヒト細胞における組換え発現プラットフォーム、精製および品質管理上の留意点、機能アッセイ、ならびに創薬におけるトランスレーショナル応用について検討する。特に、DNA緩和、脱カテネーション、ATPase活性、および切断複合体アッセイに加え、真の酵素阻害と非特異的効果を区別するためのカウンタースクリーニング戦略に焦点を当てる。本レビューでは、異なる発現系の長所と限界を比較し、タンパク質収量だけではプラットフォームの適性を立証するには不十分であり、酵素活性、アイソフォームの同一性、および適切なアッセイコントロールも併せて実証する必要があることを強調する。さらに、トポイソメラーゼ毒および触媒阻害剤について論じ、TOP2A/TOP2Bアイソフォーム選択性へのアプローチについても述べる。トポベキシンについては、アントラサイクリン系心毒性に関連する可能性のある前臨床段階のTOP2B選択的触媒阻害剤として取り上げる。総じて、組換えトポイソメラーゼ系は生物医学研究および創薬において有用なツールとなるが、生化学的な知見を臨床応用に移すには、さらなる細胞レベルおよび前臨床レベルでの検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.08.26366892",
+    "title": "Detection of early-stage cancer using similarity-based classification of cell-free DNA fragmentation patterns",
+    "abstract": "Current cancer screening efforts face the dual problems of low patient adherence and a lack of available tests for many cancers, which motivates the development of less invasive multi-cancer early detection strategies. Such strategies will likely involve the use of liquid biopsies, which can analyze biomarkers found in blood for the presence of cancer. We introduce Blackjack, a new detection approach that focuses on the fragmentation patterns of plasma-derived cell-free DNA (cfDNA). Blackjack characterizes a person’s cfDNA fragmentation sites with a position probability matrix (PPM) that encodes information about the sequence context of the sites. For classification, Blackjack computes two features that represent the similarity of an individual’s PPM to those of known healthy and cancer cohorts. With these two features, Blackjack then uses logistic regression to classify a new sample as being from a healthy individual or a person with cancer. In cross-validation experiments using two external whole genome sequencing datasets, Blackjack showed high performance, achieving a minimum area under the receiver operating characteristic curve (AUC) of 0.993 and minimum sensitivity (Sn) of 91.8% (at 98% specificity). This high performance was also present for stage I (AUC 0.991, Sn 89.8%) and stage II cancers (AUC 0.993, Sn 90.2%), and across eight different cancers (minimum AUC 0.985, minimum Sn 80.0%). We demonstrate that Blackjack’s accuracy is stable at low simulated sequencing depths (∼0.24x), and that tissue of origin prediction using Blackjack’s similarity measures is high (minimum 82% accuracy of the top two predicted tissues). Our findings show that cfDNA fragmentation site contexts have valuable signals for early cancer detection, and that developing diagnostics with machine learning can benefit from a focus on having a small number of informative features.",
+    "journal": "",
+    "doi": "10.64898/2026.11.08.26366892",
+    "date": "2026-11-10",
+    "authors": "Wood DE, Ballew BJ, Roy J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1364922",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "classification"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4692,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.08.26366892"
+    ],
+    "translation": {
+      "title": {
+        "hash": "91c9ca58e968467a542974f879d9fd9e2b354c19a378df4dec08948fa24381c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:20:18.712706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b8b501414fe72a31b4adb863e7a46d7ce7bab439919f22f30fcb01b102b62028",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:20:18.712706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "cell-free DNA断片化パターンの類似性に基づく分類を用いた早期がんの検出",
+    "abstract_ja": "現在のがん検診の取り組みは、患者の受診率の低さと、多くのがんにおいて利用可能な検査法が不足しているという二重の課題に直面しており、これが低侵襲な多がん早期検出戦略の開発を後押ししている。こうした戦略では、血液中のバイオマーカーを用いてがんの有無を解析するリキッドバイオプシーが活用される可能性が高い。本稿では、血漿由来のcell-free DNA（cfDNA）の断片化パターンに着目した新たな検出手法「Blackjack」を提案する。Blackjackは、部位の配列コンテキストに関する情報を符号化する位置確率行列（PPM）を用いて、個人のcfDNA断片化部位を特徴づける。分類にあたり、Blackjackは個人のPPMと、既知の健常者およびがん患者コホートのPPMとの類似度を表す2つの特徴量を算出する。これら2つの特徴量を用いて、Blackjackはロジスティック回帰により、新規サンプルを健常者かがん患者のいずれかに分類する。2つの外部全ゲノムシーケンシングデータセットを用いた交差検証実験において、Blackjackは高い性能を示し、受信者動作特性曲線下面積（AUC）の最小値0.993、および最小感度（Sn）91.8%（特異度98%）を達成した。この高い性能は、ステージI（AUC 0.991, Sn 89.8%）およびステージIIのがん（AUC 0.993, Sn 90.2%）、さらには8種類の異なるがん（最小AUC 0.985, 最小Sn 80.0%）においても認められた。我々は、Blackjackの精度が低いシミュレーションシーケンシング深度（∼0.24倍）においても安定していること、およびBlackjackの類似度指標を用いた由来組織の予測精度が高いこと（予測された上位2組織の精度が最小82%）を実証した。本研究の結果は、cfDNA断片化部位のコンテキストががんの早期検出において有用なシグナルとなること、および機械学習を用いた診断法の開発において、情報量の多い特徴量を少数に絞ることに重点を置くことが有益であることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.09.765376",
+    "title": "DaliScope: Distilling Biological Insights from Deep Structural Alignments",
+    "abstract": "Structural similarity searches reveal protein relationships that sequence alignments miss, but treating DALI results as isolated match lists misses deeper connections. We present DaliScope, an interactive Python framework that treats complete DALI target sets as structured populations for systematic analysis of protein structural neighbourhoods. DaliScope combines structural community detection with sequence profiling, Pfam annotation, residue mapping, and 3D visualization, enabling target sets to be subdivided and examined at the residue level. We demonstrate two applications. In a multidomain protein with sparse domain annotation, structural analysis uncovered previously unannotated domains. A structurally anchored H×D … H signature occurred in 697 of 1,093 Pfam-annotated CUPIN domains and in 15 domains lacking Pfam annotation; relaxing the central residue constraint recovered 96% of Pfam-annotated CUPIN domains among the DALI targets. In a second application, a DALI search with transitive closure returned >12,000 hits. Applying an 80% coverage criterion to a conserved structural core reduced this set to 6,708 domain instances, resolved into 23 structural communities. (80% was chosen instead of the default 50% because the GOLD domain has a compact core with short loops.) Many communities were strongly enriched for individual Pfam families while providing structural context for 1,097 targets lacking Pfam assignments. Three-dimensional superimposition revealed structural continuity among related  β -sandwich architectures through progressive changes in sheet geometry and auxiliary elements.  Together, these examples show how a single DALI query provides a structural anchor for organizing large neighbourhoods, extending interpretation beyond sequence-based annotations, and deriving structurally anchored sequence signatures from defined populations. Availability  https://github.com/Liisa-Holm-group/DaliScope http://ekhidna2.biocenter.helsinki.fi/dali/colab.html",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765376",
+    "date": "2026-11-10",
+    "authors": "Liu H, Törönen P, Zhang Z, Laiho A, Holm L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363681",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4696,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.09.765376"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e4710b974ad150bde51df9b7853948bad0b07033dc899110a52779a80571c778",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:20:18.712706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dd10d300b580d31c31c4de98c8f68674740c5e090aaaacbdb04a0c1955e1d2d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:20:18.712706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DaliScope: 深層構造アライメントからの生物学的知見の抽出",
+    "abstract_ja": "構造類似性検索は、配列アライメントでは捉えきれないタンパク質間の関係性を明らかにするが、DALIの結果を単なる独立したマッチリストとして扱うと、より深い関連性を見落とすことになる。本稿では、完全なDALIターゲットセットを構造化されたポピュレーションとして扱い、タンパク質の構造近傍を体系的に解析するインタラクティブなPythonフレームワーク「DaliScope」を提案する。DaliScopeは、構造コミュニティ検出に、配列プロファイリング、Pfamアノテーション、残基マッピング、および3D可視化を組み合わせることで、ターゲットセットを残基レベルで細分化して解析することを可能にする。ここでは2つの応用例を示す。ドメインアノテーションが疎なマルチドメインタンパク質において、構造解析によりこれまでアノテーションされていなかったドメインが発見された。構造的にアンカーされたH×D … Hシグネチャーは、Pfamアノテーション済みのCUPINドメイン1,093個のうち697個、およびPfamアノテーションのない15個のドメインで認められた。中心残基の制約を緩和したところ、DALIターゲットのうちPfamアノテーション済みのCUPINドメインの96%が回収された。2つ目の応用例では、推移的閉包を用いたDALI検索により12,000件以上のヒットが得られた。保存された構造コアに80%のカバレッジ基準を適用したところ、このセットは6,708個のドメインインスタンスに絞り込まれ、23の構造コミュニティに分解された。（GOLDドメインは短いループを持つコンパクトなコアを有するため、デフォルトの50%ではなく80%を選択した。）多くのコミュニティは個々のPfamファミリーに強く濃縮されていた一方で、Pfam割り当てのない1,097個のターゲットに対して構造的なコンテキストを提供した。3次元重ね合わせにより、シート幾何学や補助要素の漸進的な変化を通じて、関連するβ-サンドイッチ構造間の構造的連続性が明らかになった。これらの例を総合すると、単一のDALIクエリが大規模な近傍を組織化するための構造的アンカーを提供し、配列ベースのアノテーションを超えた解釈を可能にし、定義されたポピュレーションから構造的にアンカーされた配列シグネチャーを導出できることが分かる。入手先：https://github.com/Liisa-Holm-group/DaliScope http://ekhidna2.biocenter.helsinki.fi/dali/colab.html"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.09.765390",
+    "title": "Integrating evolutionary and protein language model representations for thermodynamically consistent stability prediction",
+    "abstract": "At fixed thermodynamic conditions, protein stability changes obey reversal antisymmetry and path independence, but learned predictors need not satisfy these properties. Explicit alignment-derived evolutionary information may also complement single-sequence protein language model representations, motivating their integration under clearly defined physical constraints. Here, we develop a training-free strategy that combines thermodynamic constraints with complementary sequence representations. We first introduce EvoPhi-DDG, a potential-based adaptation of the alignment-conditioned evolutionary predictor MSAesm_ddG. By antisymmetrizing its predictions and setting the hidden biases to zero, we express stability changes as differences of a learned, evolution-informed effective potential conditioned on the mutation site and alignment context. This guarantees exact reversal consistency and exact same-site transitivity under fixed alignment contexts while preserving predictive accuracy. We further extend the adapted predictor to multiple substitutions through a background-aware construction that preserves whole-variant antisymmetry. We then combine EvoPhi-DDG with the previously published JanusDDG using fixed, equal-weight averaging to test predictive complementarity without additional training. The ensemble preserves exact antisymmetry and reduces multisite pathway-closure RMSE relative to JanusDDG across all evaluated path lengths. Furthermore, the ensemble outperforms both components on S669 and S96, achieving Pearson correlations of 0.59 and 0.55, respectively, compared with 0.55 and 0.52 for JanusDDG and 0.53 and 0.48 for EvoPhi-DDG. On the multiple-substitution benchmark PTmul-NR, the ensemble achieves a Pearson correlation of 0.66, improving on JanusDDG’s 0.61 and matching the EvoPhi-DDG extension at the reported precision. Together, these findings distinguish two benefits: averaging complementary predictions improves accuracy, whereas the potential-based reformulation strengthens physical consistency. They support the integration of alignment-conditioned and single-sequence representations without additional training, while separating predictive improvements from mathematical guarantees.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765390",
+    "date": "2026-11-10",
+    "authors": "Barducci G, Sanavia T, Fariselli P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363652",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4697,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.09.765390"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cd1b4b2b90787a611fe5eb64629edd4accb36c1eb688b94d62a6b08590c33e84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:20:18.712706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "791de448c9213ce4104024778759df0e1bcd592cde40839a2fa7bc19ff0afba4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:20:18.712706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "熱力学的に整合した安定性予測に向けた、進化論的モデルとタンパク質言語モデルの表現の統合",
+    "abstract_ja": "一定の熱力学的条件下において、タンパク質の安定性変化は反転反対称性と経路独立性に従うが、学習済み予測器が必ずしもこれらの特性を満たす必要はない。アライメントから導出された明示的な進化情報は、単一配列のタンパク質言語モデル表現を補完し得るため、明確に定義された物理的制約の下での統合が動機付けられる。本研究では、熱力学的制約と相補的な配列表現を組み合わせた、学習不要の戦略を開発する。まず、アライメント条件付き進化予測器MSAesm_ddGをポテンシャルベースで適応させたEvoPhi-DDGを提案する。その予測を反対称化し、隠れバイアスをゼロに設定することで、安定性変化を、変異部位とアライメントコンテキストを条件とした、進化情報に基づく学習済み有効ポテンシャルの差分として表現する。これにより、予測精度を維持しつつ、固定されたアライメントコンテキスト下での厳密な反転一貫性と厳密な同一部位推移性が保証される。さらに、変異体全体の反対称性を保持するバックグラウンド認識型の構築により、この適応済み予測器を複数置換へと拡張する。次に、固定の等重み平均化を用いて、EvoPhi-DDGと既報のJanusDDGを組み合わせ、追加学習なしに予測の相補性を検証する。このアンサンブルは厳密な反対称性を保持し、評価したすべての経路長において、JanusDDGと比較して多部位経路閉合のRMSEを低減させる。さらに、このアンサンブルはS669およびS96において両構成要素を上回り、ピアソン相関係数はそれぞれ0.59および0.55を達成した（JanusDDGは0.55および0.52、EvoPhi-DDGは0.53および0.48）。複数置換ベンチマークPTmul-NRにおいて、このアンサンブルはピアソン相関係数0.66を達成し、JanusDDGの0.61を上回り、報告された精度においてEvoPhi-DDGの拡張版と同等の結果となった。以上の知見は、相補的な予測を平均化することで精度が向上する一方で、ポテンシャルベースの再定式化が物理的一貫性を強化するという、2つの利点を浮き彫りにしている。これらは、追加学習なしにアライメント条件付き表現と単一配列表現を統合することを支持すると同時に、予測精度の向上と数学的保証を分離するものである。"
   }
 ]
