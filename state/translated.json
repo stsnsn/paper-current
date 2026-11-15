@@ -235184,5 +235184,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Corynebacterium glutamicum MB001に感染する新規の小型温帯コリネファージCyranoPS",
     "abstract_ja": "本報では、プロファージフリー株であるCorynebacterium glutamicum MB001を用いて、フランスのイヴェット川から単離した温性ファージCyranoPSについて報告する。陰性染色電子顕微鏡観察により、シフォウイルス様形態を有するビリオンが認められた。その14,910 bpのゲノムはGC含量53.0%であり、両端に14 ntの3'オーバーハングを有する。予測遺伝子を26個保持し、そのうち10個は機能が予測されておらず、tRNAは存在しない。CyranoPSは、新たに確立されたアクチノファージクラスターERに属しており、その構成員はCorynebacterium感染ファージの中で既知の最小のゲノムを有する。ポリンPorAHおよびタンパク質マイコロイルトランスフェラーゼMytCをコードする遺伝子の欠失により感染が消失した一方、マイコメムブレンタンパク質PorBCおよびProtXをコードする遺伝子は非必須であった。CyranoPSは、おそらく予測されるチロシンインテグラーゼを介した染色体組み込みにより、C. glutamicumにおいて溶原性を確立した。この組み込みにより免疫抑制遺伝子Cyr_18が切断され、その結果、15個のC末端残基を欠くタンパク質が生成された。この切断型抑制遺伝子は、全長型抑制遺伝子よりもスーパーインフェクションに対する強力な保護能を示した。CyranoPS溶原菌は高いレベルの自発的なプロファージ誘導を示し、標準条件下で10⁹ PFU/mLに達し、マイトマイシンC処理によるさらなる増加は認められなかった。これらの知見は、SOS非依存的な溶原性-溶原性スイッチの可能性を示唆するとともに、Mycobacterialesにおける感染および溶原性調節を研究するためのコンパクトなモデルとしてCyranoPSを確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762381",
+    "title": "Chikungunya virus live-cell reporter systems reveal cell-type-dependent antiviral responses to ribavirin",
+    "abstract": "Chikungunya virus (CHIKV) remains a significant global public health threat, yet antiviral discovery is limited by experimental systems that provide little mechanistic resolution and rely heavily on transformed cell lines of uncertain physiological relevance. Here, we developed complementary live-cell CHIKV reporter systems comprising a dual-fluorescent subgenomic replicon and fluorescent infectious viruses that enable real-time monitoring of distinct stages of the viral replication cycle. By coupling an nsP3-tagged reporter to genomic RNA translation and replication with a subgenomic reporter of structural gene expression, we achieved temporal resolution of early and late replication events in living cells. Functional validation using replication-defective and subgenomic RNA-deficient mutants confirmed that the system distinguishes between viral RNA replication and downstream structural gene expression. Application of these reporters revealed distinct antiviral responses across transformed and physiologically relevant human cell models. Ribavirin and the nsP2 inhibitor RA-0002034 potently inhibited CHIKV replication in transformed cell lines. Unexpectedly, ribavirin activity was markedly diminished in primary human skeletal muscle myoblasts and dermal fibroblasts, despite robust antiviral effects in commonly used screening cell lines. Mechanistic studies showed that ribavirin-mediated inhibition was rescued by guanosine but not inosine supplementation and was recapitulated by mycophenolic acid, consistent with guanine nucleotide depletion as the predominant antiviral mechanism under the conditions tested. Notably, inhibition through this pathway was substantially less effective in primary human cells. Together, these findings establish versatile live-cell CHIKV reporter systems for mechanistic studies of viral replication and reveal striking cell-type-dependent differences in response to guanine nucleotide depletion. Our results demonstrate that host-cell context can profoundly influence both CHIKV replication and antiviral susceptibility, highlighting the importance of physiologically relevant models for understanding virus-host interactions and antiviral mechanism. Author Summary  Chikungunya virus is a mosquito-borne pathogen that causes fever, severe joint pain, and chronic musculoskeletal disease. Although considerable progress has been made in understanding the viral replication cycle, important questions remain regarding how interactions between the virus and its host cell influence replication and susceptibility to antiviral intervention. Experimental systems that permit real-time analysis of distinct stages of infection are therefore valuable tools for advancing our understanding of chikungunya virus biology. In this study, we developed complementary fluorescent chikungunya virus reporter systems that enable live-cell monitoring of viral replication and gene expression. These tools distinguished between early replication-associated processes and downstream subgenomic gene expression, providing mechanistic resolution of the viral replication cycle in living cells. Using these systems, we investigated the activity of ribavirin and found that its antiviral effects were highly dependent on host-cell context. While ribavirin potently inhibited chikungunya virus replication in transformed cell lines, this activity was largely absent in primary human muscle and skin cells that represent physiologically relevant targets of infection. Mechanistic studies showed that inhibition was linked to depletion of intracellular guanine nucleotides and could be reversed by guanosine supplementation. Together, our findings reveal how host-cell-dependent processes influence both chikungunya virus replication and antiviral susceptibility and provide new tools for dissecting virus-host interactions.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762381",
+    "date": "2026-10-30",
+    "authors": "Dobson SJ, Brereton MGA, Wei L, Wasson CW, Del Galdo F, Tuplin AK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354186",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1673,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.27.762381"
+    ],
+    "translation": {
+      "title": {
+        "hash": "da455654ee2ed4c34e7b934962fa7c38d3fccf12deb2e48080fe7c7fd0e9b667",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:43:57.822169+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6627bd2b2905f2777b4e3e44c73ca6fc6674af3116f14063d5560406ce98005b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:43:57.822169+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "チクングニアウイルス生細胞レポーター系により明らかになったリバビリンに対する細胞種依存的な抗ウイルス応答",
+    "abstract_ja": "チクングニアウイルス（CHIKV）は依然として世界的な公衆衛生上の重大な脅威であるが、抗ウイルス薬の発見は、メカニズムの解明がほとんどできず、生理学的関連性が不確かな形質転換細胞株に大きく依存している実験系によって制限されている。本研究では、二重蛍光サブゲノムレプリコンと蛍光性感染性ウイルスからなる相補的な生細胞CHIKVレポーター系を開発し、ウイルス複製サイクルの異なる段階のリアルタイムモニタリングを可能にした。nsP3タグ付きレポーターをゲノムRNAの翻訳および複製に結合させ、構造遺伝子発現のサブゲノムレポーターを組み合わせることで、生細胞における複製イベントの初期および後期の時間的分解能を実現した。複製欠損型およびサブゲノムRNA欠損型変異体を用いた機能検証により、本系がウイルスRNA複製と下流の構造遺伝子発現を区別できることが確認された。これらのレポーターを適用したところ、形質転換細胞株および生理学的に関連のあるヒト細胞モデルにおいて、異なる抗ウイルス応答が認められた。リバビリンおよびnsP2阻害剤RA-0002034は、形質転換細胞株においてCHIKV複製を強力に阻害した。予想外なことに、一般的に用いられるスクリーニング細胞株では強固な抗ウイルス効果を示したにもかかわらず、ヒト一次骨格筋筋芽細胞および真皮線維芽細胞ではリバビリン活性が著しく低下していた。メカニズム研究により、リバビリン介在性の阻害はグアノシンの補充によって回復したが、イノシンの補充では回復せず、またミコフェノール酸によっても再現されたことから、試験条件下ではグアニンヌクレオチドの枯渇が主要な抗ウイルスメカニズムであることが示された。特筆すべきは、この経路による阻害はヒト一次細胞において著しく効果が低いことである。以上の知見を総合すると、ウイルス複製のメカニズム研究のための汎用性の高い生細胞CHIKVレポーター系が確立され、グアニンヌクレオチド枯渇に対する応答において細胞種依存的な顕著な差異があることが明らかになった。我々の結果は、宿主細胞のコンテキストがCHIKVの複製と抗ウイルス感受性の両方に多大な影響を及ぼし得ることを示しており、ウイルスと宿主の相互作用および抗ウイルスメカニズムを理解する上で生理学的に関連のあるモデルの重要性を強調するものである。著者要約 チクングニアウイルスは、発熱、重度の関節痛、および慢性筋骨格系疾患を引き起こす蚊媒介性病原体である。ウイルス複製サイクルの理解において相当な進展があったものの、ウイルスと宿主細胞の相互作用が複製や抗ウイルス介入への感受性にどのように影響するかについては、依然として重要な疑問が残っている。したがって、感染の異なる段階をリアルタイムで解析できる実験系は、チクングニアウイルスの生物学的理解を深めるための貴重なツールとなる。本研究では、ウイルス複製と遺伝子発現の生細胞モニタリングを可能にする相補的な蛍光性チクングニアウイルスレポーター系を開発した。これらのツールは、初期の複製関連プロセスと下流のサブゲノム遺伝子発現を区別し、生細胞におけるウイルス複製サイクルのメカニズム的な解明を可能にした。これらの系を用いてリバビリンの活性を調査したところ、その抗ウイルス効果は宿主細胞のコンテキストに強く依存することが判明した。リバビリンは形質転換細胞株においてチクングニアウイルスの複製を強力に阻害したが、この活性は、生理学的に関連のある感染標的であるヒト一次筋細胞および皮膚細胞ではほとんど認められなかった。メカニズム研究により、この阻害は細胞内グアニンヌクレオチドの枯渇に関連しており、グアノシンの補充によって逆転できることが示された。以上の知見を総合すると、宿主細胞依存的なプロセスがチクングニアウイルスの複製と抗ウイルス感受性の両方にどのように影響するかが明らかになり、ウイルスと宿主の相互作用を解析するための新たなツールが提供される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762456",
+    "title": "Cryo-EM structures of the YsaN ATPase reveal dodecameric and tetradecameric assemblies in the  Yersinia enterocolitica  T3SS",
+    "abstract": "Bacterial pathogens deploy sophisticated nanomachines such as the Type III Secretion System (T3SS) to inject effector proteins directly into host cells, thereby subverting cellular defenses and promoting infection. Central to this machinery is a conserved homo-oligomeric ATPase that fuels substrate unfolding and translocation. Despite extensive structural and biochemical studies, the precise mechanism of T3SS ATPase oligomer assembly and regulation remains incompletely understood, events crucial for the overall functionality of the T3SS. Here, we report high-resolution cryo-electron microscopy (cryo-EM) structures of the  Yersinia enterocolitica T3SS ATPase YsaN, captured in two previously uncharacterized oligomeric states, a dodecamer (12-mer) at 3.51 Å and a tetradecamer (14-mer) at 3.80 Å resolution. Both assemblies exhibit helical-like symmetry and conformational heterogeneity. A conserved longitudinal fissure interrupts the helical lattice and appears to mediate interconversion between the two states, while an N-terminal interface stabilized by inter-tier disulfide bonds and an extensive non-covalent network locks the assembly together. Molecular dynamics simulations reveal that ATP hydrolysis drives a global, correlated compaction upon transition to the ADP-bound state. Together, these structural, biochemical, and MD simulation data establish T3SS ATPases as dynamic, oligomerically plastic molecular motors and provide a mechanistic framework for chaperone-effector dissociation and substrate translocation.  Significance Statement  Gram-negative bacterial pathogens utilize T3SS to actively deliver effector proteins into host cells. A conserved ATPase at its base provides the energy required for chaperone dissociation, unfolding of the effector, and driving translocation of the effector in semi-folded states. However, the mechanisms driving ATPase oligomerization remain incompletely understood. Here, we report unique 12-mer and 14-mer assemblies of YsaN, a T3SS ATPase from  Yersinia enterocolitica . Both assemblies are stabilized by their extreme N-terminal domain, missing in all previously reported structures. Furthermore, biophysical and MD simulations revealed the dynamic nature of YsaN, providing insights into the potential mechanism underlying effector translocation. Together, these findings advance our understanding of T3SS ATPase assembly and dynamics, highlighting potential avenues for anti-virulence strategies.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762456",
+    "date": "2026-10-30",
+    "authors": "Bhattacharyya B, Chakraborty B, Nandy S, Datta S, Patra D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354105",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1676,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762456"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9613d3ec41ef83d461895e840090e0115ac74de2f46394f27da24d513f42b0f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:43:57.822169+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "61ff1a3d3b7a8e0470f28a5bcf2b38d8148e451e0cb4a792cf94b6aa868bf8fa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:43:57.822169+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "YsaN ATPaseのクライオ電子顕微鏡構造解析により、Yersinia enterocolitica T3SSにおける十二量体および四十二量体アセンブリが明らかになった。",
+    "abstract_ja": "細菌性病原体は、III型分泌システム（T3SS）などの精巧なナノマシンを展開してエフェクタータンパク質を宿主細胞に直接注入し、それによって細胞防御機構を無効化して感染を促進する。この機構の中核をなすのは、基質のアンフォールディングと輸送を駆動する保存されたホモオリゴマー型ATPaseである。広範な構造解析および生化学的研究にもかかわらず、T3SS ATPaseのオリゴマー形成と調節の正確なメカニズムは依然として十分に解明されておらず、これらの事象はT3SSの全体的な機能にとって極めて重要である。本報では、Yersinia enterocoliticaのT3SS ATPaseであるYsaNの高分解能クライオ電子顕微鏡（cryo-EM）構造を報告する。本構造は、これまで特性解析されていなかった2つのオリゴマー状態、すなわち3.51 Å分解能のドデカマー（12-mer）と3.80 Å分解能のテトラデカマー（14-mer）として得られた。両アセンブリはヘリックス様の対称性とコンフォメーションの不均一性を示す。保存された縦方向のフィッシャーがヘリックス格子を遮断し、2つの状態間の相互変換を媒介していると考えられ、一方で、層間ジスルフィド結合と広範な非共有結合ネットワークによって安定化されたN末端インターフェースがアセンブリを固定している。分子動力学シミュレーションにより、ATP加水分解がADP結合状態への移行に伴う全体的な相関的圧縮を駆動することが明らかになった。これらの構造、生化学、およびMDシミュレーションデータを総合すると、T3SS ATPaseは動的でオリゴマー的に可塑的な分子モーターであることが立証され、シャペロン-エフェクター解離および基質輸送の機構的枠組みが提示される。意義に関する記述 グラム陰性細菌の病原体は、T3SSを利用してエフェクタータンパク質を宿主細胞へ能動的に送達する。その基部にある保存されたATPaseは、シャペロンの解離、エフェクターのアンフォールディング、および半折り畳み状態でのエフェクター輸送の駆動に必要なエネルギーを提供する。しかし、ATPaseのオリゴマー化を駆動するメカニズムは依然として十分に解明されていない。本報では、Yersinia enterocolitica由来のT3SS ATPaseであるYsaNの特異な12-merおよび14-merアセンブリを報告する。両アセンブリは、既報のすべての構造に欠けている極めて長いN末端ドメインによって安定化されている。さらに、生物物理学的およびMDシミュレーションによりYsaNの動的な性質が明らかになり、エフェクター輸送の根底にある潜在的なメカニズムに関する知見が得られた。これらの知見を総合することで、T3SS ATPaseのアセンブリとダイナミクスに関する理解が深まり、抗病原性戦略の潜在的な方向性が浮き彫りになる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762607",
+    "title": "Endonuclease G governs an antiviral RNA surveillance system in budding yeast",
+    "abstract": "Endonuclease G family DNA/RNA nucleases localize to the mitochondrial intermembrane space and prevent escape of mitochondrial DNA to the cytosol or nucleus. While extramitochondrial Endonuclease G also targets nuclear DNA during cell death, RNA regulatory roles of this family remain enigmatic. Here we discover an RNA surveillance system in  Saccharomyces cerevisiae governed by Nuc1, the yeast Endonuclease G homolog. This system limits replication of L-A, an RNA mycovirus that endemically infects this organism. Whereas L-A resides in the cytosol, we find that Nuc1’s antiviral function requires its mitochondrial intermembrane space localization. To understand Nuc1’s indirect antiviral mechanism we investigated its genetic interactions with  REX1 and  REX2 , RNA exonucleases that control 3’ end processing of tRNA and rRNA intermediates in the nucleus. We demonstrate that the  nuc1 Δ antiviral defect is massively amplified by  rex1 Δ  rex2 Δ leading to L-A RNA levels that surpass mature rRNAs and overwhelm the cells.  NUC1 concurrently controls a pool of mis-processed tRNA and rRNA species that accumulate in  rex1 Δ  rex2 Δ mutants. Linking these mis-processed RNAs with L-A control, we show they are significantly reduced in L-A infected cells, suggesting that L-A depletes them to enhance its replication. Our findings identify a previously unrecognized RNA surveillance function of Nuc1 that prevents aberrant rRNA and tRNA species from promoting replication of the L-A mycovirus.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762607",
+    "date": "2026-10-30",
+    "authors": "Gao J, Remnant B, Martyn B, Chung M, Li J, Pickett M, Chau S, Bayfield MA, Meneghini MD.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354304",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2384,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762607"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2679dc94d6f2594c541817a6ab69715d92dd75c6b1c9883ae1780fb023d1064e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:43:57.822169+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "88d6f7000c73291b3c4e4de285936df6688fe12999d438fb1509780ecaac0807",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:43:57.822169+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エンドヌクレアーゼGは出芽酵母における抗ウイルスRNA監視系を制御する",
+    "abstract_ja": "エンドヌクレアーゼGファミリーのDNA/RNAヌクレアーゼは、ミトコンドリアの膜間腔に局在し、ミトコンドリアDNAの細胞質や核への流出を阻止する。細胞死の際には、ミトコンドリア外のエンドヌクレアーゼGも核DNAを標的とするが、本ファミリーのRNA調節における役割は依然として不明である。本研究において、我々は酵母エンドヌクレアーゼGホモログであるNuc1によって制御されるRNA監視システムをSaccharomyces cerevisiaeにおいて発見した。このシステムは、本生物に常在感染するRNAマイコウイルスであるL-Aの複製を制限する。L-Aは細胞質に存在しているが、Nuc1の抗ウイルス機能にはミトコンドリア膜間腔への局在が必要であることを明らかにした。Nuc1の間接的な抗ウイルス機構を解明するため、我々は核内でtRNAおよびrRNA中間体の3'末端プロセシングを制御するRNAエキソヌクレアーゼであるREX1およびREX2との遺伝的相互作用について検討した。その結果、nuc1 Δの抗ウイルス欠損がrex1 Δおよびrex2 Δによって著しく増幅され、L-A RNAレベルが成熟rRNAを上回り、細胞を圧倒することが示された。同時に、NUC1はrex1 Δおよびrex2 Δ変異体に蓄積する、プロセシング異常を起こしたtRNAおよびrRNA種のプールを制御している。これらのプロセシング異常RNAとL-Aの制御を関連付けることで、L-A感染細胞においてこれらのRNAが有意に減少していることを示し、L-Aが自身の複製を促進するためにこれらを枯渇させていることが示唆された。本知見は、異常なrRNAおよびtRNA種がL-Aマイコウイルスの複製を促進するのを阻止する、従来認識されていなかったNuc1のRNA監視機能を明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762747",
+    "title": "Pattern-triggered immunity induced by dsRNA against plant viruses involves two distinct branches, one of which depends on  Coronatine insensitive1  (  COI1  )",
+    "abstract": "Double-stranded RNA (dsRNA) is a conserved molecular signature of RNA virus generated during infection that can activate antiviral pattern-triggered immunity (PTI) in plants. However, the effectiveness of dsRNA-induced PTI against viruses from diverse taxa, its impact on different stages of the infection, as well as effectors used by viruses other than tobamoviruses to counteract this defense response remain poorly explored. Here, we established an  Agrobacterium -mediated transient expression assay for inducing PTI through intracellular production of nonspecific dsRNA in  Nicotiana benthamiana . Expression of nonspecific dsRNA restricted cell-to-cell movement and accumulation of three RNA viruses representing different taxonomic groups:  Tobacco mosaic virus ,  Turnip mosaic virus , and  Tobacco rattle virus . Co-expression of dsRNA together with a P25 movement protein (MP) mutant of  Potato virus X (PVX) defective in RNA silencing suppression, prevented dsRNA-induced callose accumulation at plasmodesmata (PD) and restored efficient viral cell-to-cell movement. Interestingly, dsRNA also reduced viral RNA accumulation at the cellular level, revealing an impact of dsRNA-based PTI on virus replication independently of cell-to-cell movement. We further showed that the dsRNA-induced antiviral response required jasmonic acid (JA) signaling. Silencing of the JA receptor  Coronatine insensitive1 (  COI1 ) abolished dsRNA-induced PD callose deposition and the associated restriction of virus movement and accumulation. Accordingly, dsRNA-induced expression of defense-related genes was compromised in  COI1 -silenced plants. Next, we conducted RNA-seq analysis to identify early biological processes involved in COI1  - dependent, dsRNA-induced immunity. The differential expression of 198 genes, some potentially involved in the regulation of callose accumulation, in  COI1 -silenced plants suggested that JA signaling contributes to shaping the transcriptional response to nonspecific dsRNA. Together, our findings establish nonspecific dsRNA-induced PTI as a multilayered antiviral response that restricts pathogen replication and cell-to-cell movement, and identify a heterologous MP, PVX P25, as an effector that counteracts the PD component of this defense response in a COI1  - dependent manner.  Author summary  Plants can recognize dsRNA, a molecule produced during infection by RNA viruses, and activate nonspecific immune responses against invading viruses. However, we still know relatively little about how effective this immune response is against distinct viruses and how viruses overcome it. In this study, we develop a method to activate plant immunity against three viruses from different taxa by producing nonspecific dsRNA inside plant cells. We show that dsRNA interfers with virus infection at two different levels: restriction of virus spread between neighboring cells and reduction of virus replication in isolated cells. As a counter-defense strategy, the movement protein of  Potato virus X hampers dsRNA-induced immunity by preventing the accumulation of callose, a polysaccharide polymer that prevents virus spread between cells. We further show that Coronatine insensitive1, the jasmonic acid receptor involved in regulating plant responses to stress, is required for dsRNA-induced restriction of virus spread. Finally, we identify changes in gene expression associated with this COI1-dependent response to dsRNA. Our findings reveal that plants can defend themselves against invading viruses at different stages of infection, opening new avenues for research into broad-spectrum antiviral strategies for crop protection.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762747",
+    "date": "2026-10-30",
+    "authors": "Necira K, Triantafyllou I, González C, Canto T, Tenllado F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354282",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2385,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762747"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8e59e2dd9ff18f5399e8da10023dc91ce9e84a38fd91be4bf4516f99e44f57e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:43:57.822169+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e217c18277dec9b420302e9134ef95c9e583827e5bbaaabc6eaef64c19e89555",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:43:57.822169+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "植物ウイルスに対するdsRNA誘導性パターントリガー免疫には2つの異なる経路が存在し、そのうちの一方はCoronatine insensitive1 (COI1)に依存している。",
+    "abstract_ja": "二本鎖RNA（dsRNA）は、感染時に生成されるRNAウイルスの保存された分子シグネチャーであり、植物において抗ウイルスパターントリガー免疫（PTI）を活性化させることができる。しかし、多様な分類群のウイルスに対するdsRNA誘導性PTIの有効性、感染の異なる段階におけるその影響、およびタバコモザイクウイルス以外のウイルスがこの防御応答に対抗するために利用するエフェクターについては、十分に解明されていない。本研究では、Nicotiana benthamianaにおいて非特異的dsRNAの細胞内産生を介してPTIを誘導するための、Agrobacterium媒介性一過性発現アッセイを確立した。非特異的dsRNAの発現は、異なる分類群を代表する3種類のRNAウイルス（タバコモザイクウイルス、カブモザイクウイルス、およびタバコラトルウイルス）の細胞間移動と蓄積を制限した。dsRNAを、RNAサイレンシング抑制に欠損を持つジャガイモウイルスX（PVX）のP25移動タンパク質（MP）変異体と共に共発現させたところ、プラスモデスマタ（PD）におけるdsRNA誘導性のカロース蓄積が阻止され、効率的なウイルスの細胞間移動が回復した。興味深いことに、dsRNAは細胞レベルでのウイルスRNA蓄積も減少させ、細胞間移動とは独立して、dsRNAベースのPTIがウイルス複製に影響を及ぼすことが明らかになった。さらに、dsRNA誘導性の抗ウイルス応答にはジャスモン酸（JA）シグナル伝達が必要であることを示した。JA受容体Coronatine insensitive1（COI1）のサイレンシングにより、dsRNA誘導性のPDカロース沈着と、それに伴うウイルスの移動および蓄積の制限が消失した。したがって、COI1サイレンシング植物では、防御関連遺伝子のdsRNA誘導性発現が損なわれていた。次に、COI1依存的なdsRNA誘導性免疫に関与する初期の生物学的プロセスを同定するため、RNA-seq解析を行った。COI1サイレンシング植物において、カロース蓄積の調節に関与している可能性のある198個の遺伝子の発現変動が認められたことは、JAシグナル伝達が非特異的dsRNAに対する転写応答の形成に寄与していることを示唆している。以上の知見を総合すると、非特異的dsRNA誘導性PTIは、病原体の複製と細胞間移動を制限する多層的な抗ウイルス応答であることが確立され、また、異種MPであるPVX P25が、COI1依存的にこの防御応答のPD成分に対抗するエフェクターとして同定された。著者要旨：植物は、RNAウイルスの感染時に産生される分子であるdsRNAを認識し、侵入したウイルスに対して非特異的な免疫応答を活性化させることができる。しかし、この免疫応答が異なるウイルスに対してどの程度有効であるか、またウイルスがそれをどのように克服するかについては、まだほとんど解明されていない。本研究では、植物細胞内で非特異的dsRNAを産生することにより、異なる分類群の3種類のウイルスに対する植物免疫を活性化させる手法を開発した。我々は、dsRNAが2つの異なるレベル、すなわち隣接細胞間のウイルス拡散の制限と、単離細胞におけるウイルス複製の減少というレベルでウイルス感染を阻害することを示した。対抗防御戦略として、ジャガイモウイルスXの移動タンパク質は、細胞間のウイルス拡散を防ぐ多糖類ポリマーであるカロースの蓄積を阻害することで、dsRNA誘導性免疫を妨げる。さらに、ストレスに対する植物応答の調節に関与するジャスモン酸受容体であるCoronatine insensitive1が、dsRNA誘導性のウイルス拡散制限に必要であることを示した。最後に、このCOI1依存的なdsRNA応答に関連する遺伝子発現の変化を同定した。我々の知見は、植物が感染の異なる段階において侵入したウイルスから自らを防御できることを明らかにしており、作物保護のための広範な抗ウイルス戦略に関する研究に新たな道を切り拓くものである。"
   }
 ]
