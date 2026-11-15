@@ -242020,5 +242020,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "遺伝子治療製剤中の複製能を有するレトロウイルス検出のためのマーカーレスキューおよびqPCRアッセイの実装と評価",
     "abstract_ja": "レトロウイルス遺伝子治療ベクターの品質管理には、複製能を有するレトロウイルス（RCR）粒子の信頼性の高い検出が不可欠である。RCRの検出には依然として細胞ベースのアッセイが標準的に用いられており、PCRベースのアッセイは迅速かつ補完的な手法として機能している。広く利用されているものの、アッセイのセットアップの指針となる包括的なプロトコルや性能データを提示した研究は少ない。本報では、RCR検査のための細胞ベースのホタルルシフェラーゼマーカーレスキューアッセイについて、詳細な解説と性能評価を行う。さらに、レトロウイルスpol遺伝子配列を標的としたqPCRベースのRCRアッセイのセットアップと評価についても述べる。初期増幅の有無によるマーカーレスキューアッセイの最終的な感度を決定するため、MuLVの異なるウイルスコピー数を用いた。また、env遺伝子およびpol遺伝子を含む異なる種類のプライマーを用い、RCR検査における各種qPCR戦略を検討した。マーカーレスキューアッセイでは、増幅なしで73.2個のRCRゲノム粒子が検出された一方、増幅段階を設けることで機能的なRCR粒子の検出が可能となり、感度も向上した。増幅ステップにより、ウイルス粒子数は最大5.23 × 10³倍に増加した。レトロウイルスpol遺伝子を用いたPCRベースのRCRアッセイでは、約7.32 × 10³個のウイルス粒子を検出することができた。本研究は、臨床グレードのレトロウイルスベクター製品におけるRCR検査手順を確立するための有用なリソースを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11215989/v1",
+    "title": "StCCR6-Mediated Lignin Biosynthesis Enhances Potato Resistance Against Ralstonia solanacearum",
+    "abstract": "Abstract    Background  Bacterial wilt, caused by Ralstonia solanacearum, is one of the most destructive soil-borne diseases worldwide and severely threatens global potato (Solanum tuberosum) production. Lignin deposition in the cell wall constitutes a critical physical barrier for plant defense; however, the regulatory mechanisms governing lignin-mediated resistance in potato remain incompletely understood. Results  Based on previously published temporal transcriptome and metabolome datasets of potato tubers treated with a low dose of deoxynivalenol (DON) across four time points (0, 4, 12, and 48 h), we dissected the defense response. Multi-omics screening revealed that the phenylpropanoid biosynthetic pathway (ko00940) was significantly enriched at 12 h, and  StCCR6  (CCR2), a cinnamoyl-CoA reductase gene, was identified as the most strongly DON-responsive node. Metabolomic profiling further showed that DON treatment drove the accumulation of the lignin monomers coniferyl alcohol and sinapyl alcohol. Functional validation using transgenic lines demonstrated that StCCR6 overexpression thickened cell walls via accelerated lignin deposition and elevated the activities of ROS-scavenging enzymes (SOD, POD, and CAT), thereby enhancing resistance to R. solanacearum in a detached-leaf assay. Conversely, StCCR6 knockout lines exhibited reduced lignin content, elevated reactive oxygen species and oxidative damage, and increased pathogen susceptibility. Conclusion  These results establish StCCR6 as an essential regulator that couples lignin-based physical defense with enzymatic antioxidant scavenging under low-dose DON induction, providing a valuable genetic target for engineering broad-spectrum disease resistance in crops.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11215989/v1",
+    "date": "2026-10-29",
+    "authors": "Han Y, Liu Y, Sun P, Du C, He F, Wang J, Wang L, Zhang X, Wang Y, Li F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352921",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2448,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11215989/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bdb898e215bc24bedcc36f72da37474b25d677f66f2d4c232381f9567aefc860",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:51:56.992938+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cbb0c5ac9ed284df4d5e0cdcad777e070b1bbdf3cafb4752c50092849161eacc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:51:56.992938+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "StCCR6を介したリグニン生合成は、ジャガイモのRalstonia solanacearumに対する抵抗性を高める。",
+    "abstract_ja": "要旨    背景  Ralstonia solanacearumによって引き起こされる細菌性萎凋病は、世界的に最も破壊的な土壌伝染性病害の一つであり、世界的なジャガイモ（Solanum tuberosum）の生産を深刻に脅かしている。細胞壁へのリグニン沈着は、植物の防御における重要な物理的障壁となるが、ジャガイモにおけるリグニン介在性抵抗性を制御する調節機構は依然として十分に解明されていない。結果  低用量のデオキシニバレノール（DON）を4つの時点（0、4、12、48時間）で処理したジャガイモ塊茎について既報の時系列トランスクリプトームおよびメタボロームデータセットに基づき、防御応答を解析した。マルチオミクススクリーニングにより、フェニルプロパノイド生合成経路（ko00940）が12時間時点で有意に濃縮されていることが明らかとなり、シンナモイルCoA還元酵素遺伝子であるStCCR6（CCR2）が最も強くDONに応答するノードとして同定された。メタボロームプロファイリングにより、DON処理がリグニンモノマーであるコニフェリルアルコールおよびシナピルアルコールの蓄積を促進することがさらに示された。トランスジェニック系統を用いた機能検証により、StCCR6の過剰発現がリグニン沈着の促進を介して細胞壁を肥厚させ、ROS消去酵素（SOD、POD、CAT）の活性を高めることで、離葉試験においてR. solanacearumに対する抵抗性を向上させることが実証された。対照的に、StCCR6ノックアウト系統では、リグニン含有量の減少、活性酸素種および酸化損傷の増加、ならびに病原体感受性の亢進が認められた。結論  これらの結果は、低用量のDON誘導下において、リグニンに基づく物理的防御と酵素的抗酸化消去を連動させる必須調節因子としてStCCR6を位置づけるものであり、作物における広範な病害抵抗性を工学的に構築するための貴重な遺伝的標的を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762666",
+    "title": "Integrative drug discovery for Parkinson’s disease with DIMER",
+    "abstract": "Translating Parkinson’s disease (PD) genetics into therapeutic candidates requires approaches that account for interconnected disease mechanisms and their cellular context. Here we present DIMER (  D irect and  I ndirect  M odule  E valuation for  R epurposing and screening), a framework that connects network-based drug repurposing and target-directed virtual screening through shared disease-associated gene sets. Applying DIMER to PD, we integrated genetic risk and mechanism-associated gene sets with drug-target interactions, disease transcriptomes, and single nucleus expression profiles. Network analysis identified 423 repurposing candidates, with 71% of qualifying drug-gene set associations arising through targets outside the corresponding disease gene set. Transcriptional reversal analysis and cell type-resolved networks further distinguished candidates by their predicted effects on disease-associated expression and their cellular context, while target-set separation nominated potentially complementary drug combinations. For target-directed virtual screening, DIMER adapted a pretrained compound-protein interaction model to screening library chemistry and incorporated known-ligand similarity into compound ranking. Library adaptation improved compound-target pair classification performance, whereas ligand-informed ranking increased early enrichment of known active compounds. Consensus screening of 1.82 million compounds against seven PD-associated proteins yielded a shortlist of 22 compounds supported by at least five ranking runs. In a complementary experimental evaluation, four repurposing candidates (polydatin, fedratinib, sorafenib and venlafaxine) attenuated the loss of dopamine neuron marker signals in human midbrain organoids exposed to 6-hydroxydopamine. Together, these findings establish DIMER as a framework for translating disease-associated genes into pharmacological hypotheses and prioritizing candidates for experimental testing.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762666",
+    "date": "2026-10-29",
+    "authors": "Guo S, Yang X, Dong Y, Yu L, Sangjizhuoma A, Sie KL, Zhu K, Zhang Y, Zhao X, Kerman E, Li R, He J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353433",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3402,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.28.762666"
+    ],
+    "translation": {
+      "title": {
+        "hash": "db2d64bbca7bc67adef15aef7c4064f5bc4e1d46adc93a5ac0a7ae8ef152c5bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:51:56.992938+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "40f24886d4eeff81e8316d6a202bf757407b71b50ceb6eac6fe1995d050d1c7b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:51:56.992938+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DIMERを用いたパーキンソン病の統合的創薬",
+    "abstract_ja": "パーキンソン病（PD）の遺伝学的知見を治療候補薬へと橋渡しするには、相互に関連する疾患メカニズムとその細胞内コンテキストを考慮したアプローチが必要である。本研究では、疾患関連遺伝子セットを共有することで、ネットワークベースのドラッグリパーパシングと標的指向型バーチャルスクリーニングを連携させるフレームワーク「DIMER（Direct and Indirect Module Evaluation for Repurposing and Screening）」を提案する。PDにDIMERを適用し、遺伝的リスクおよびメカニズム関連遺伝子セットを、薬物-標的相互作用、疾患トランスクリプトーム、および単一核発現プロファイルと統合した。ネットワーク解析により423種類のリパーパシング候補が同定され、適格な薬物-遺伝子セット関連の71%が、対応する疾患遺伝子セット外の標的を介して得られた。転写逆解析および細胞種別ネットワーク解析により、疾患関連発現への予測効果と細胞内コンテキストに基づいて候補をさらに区別し、標的セットの分離によって潜在的に相補的な薬物組み合わせを特定した。標的指向型バーチャルスクリーニングでは、DIMERが事前学習済みの化合物-タンパク質相互作用モデルをスクリーニングライブラリの化学構造に適応させ、既知リガンドとの類似性を化合物ランキングに組み込んだ。ライブラリの適応により化合物-標的ペアの分類性能が向上し、一方でリガンド情報に基づくランキングにより、既知の活性化合物の早期濃縮が促進された。182万個の化合物を7種類のPD関連タンパク質に対してコンセンサススクリーニングした結果、少なくとも5回のランキング実行によって支持された22種類の化合物のショートリストが得られた。相補的な実験的評価において、4種類のリパーパシング候補（ポリダチン、フェドラチニブ、ソラフェニブ、ベンラファキシン）が、6-ヒドロキシドーパミンに曝露したヒト中脳オルガノイドにおけるドーパミンニューロンマーカー信号の消失を軽減した。以上の知見により、DIMERは疾患関連遺伝子を薬理学的仮説へと橋渡しし、実験的検証に向けた候補の優先順位付けを行うためのフレームワークであることが実証された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762310",
+    "title": "Vault Packaging Dynamics: Cargo Loading Stabilizes MVP Conformation for High-Payload Cytokine Delivery in Cancer Therapy",
+    "abstract": "Summary  Recombinant vaults are dynamic protein cages with a large interior volume that can encapsulate therapeutic cargo. Using integrative cryogenic electron microscopy (cryoEM), cryogenic electron tomography (cryoET) and charge-detection mass spectrometry (CDMS), we characterized recombinant empty and interleukin-2 (IL-2)–packaged human vaults produced in yeast to define assembly, packaging heterogeneity and conformational dynamics relevant to optimized cancer and immune therapeutics. CryoEM maps at 2.79 Å (packaged) and 3.16 Å (empty) reveal a D39-symmetric barrel built from 78 major vault protein (MVP) subunits each with an interaction domain (INT) that anchors a cargo on the inner surface at MVP repeats R3– R4. CDMS deconvolution of empty versus packaged particles yields two IL-2–INT vault populations centered near 100 and 400 molecules per vault, with a maximum of ∼660 copies/vault (i.e., many more copies than the 78 available INT anchors), matching cryoET estimates of ∼150–600. Both methods show that highly packaged vaults are enlarged and distorted. Empty particles are conformationally flexible, which promotes initial cargo entry; loading then stabilizes the barrel and condenses cargo, producing vaults that each contain many hundreds of IL-2 molecules. These data establish the structural basis of vault encapsulation and a quantitative framework for engineering vault-based delivery vehicles.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762310",
+    "date": "2026-10-29",
+    "authors": "Lou Q, Miller ZM, Wang AZ, Baranwal K, McNally R, Zhou ZH, Williams ER, Rome LH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353345",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3406,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.27.762310"
+    ],
+    "translation": {
+      "title": {
+        "hash": "955f16e16b19e61e41fbd72cd897c1479b0ad7610e3cb259e597433c68035a1a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:51:56.992938+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "93ff7b88f97e27d2262c281be355cff808535f42076068804007bf60fe85f358",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:51:56.992938+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヴォルト包装ダイナミクス：貨物積載によるMVPコンフォメーションの安定化――がん治療における高積載量サイトカイン送達に向けて",
+    "abstract_ja": "要旨  組換えヴォールトは、治療用貨物を封入可能な大きな内部容積を有する動的なタンパク質ケージである。集積型クライオ電子顕微鏡法（cryoEM）、クライオ電子トモグラフィー（cryoET）、および電荷検出質量分析法（CDMS）を用いて、酵母で産生させた組換え空状態およびインターロイキン-2（IL-2）封入ヒトヴォールトの特性解析を行い、最適化されたがんおよび免疫療法に関連する構築、封入の不均一性、およびコンフォメーション動態を明らかにした。cryoEMによるマッピング（2.79 Å［封入状態］および3.16 Å［空状態］）では、78個の主要ヴォールトタンパク質（MVP）サブユニットからなるD39対称性のバレル構造が認められた。各MVPサブユニットは、MVPリピートR3–R4において貨物を内表面に固定する相互作用ドメイン（INT）を有する。空状態粒子と封入状態粒子のCDMSデコンボリューションにより、1つのヴォールトあたり100個および400個付近を中心とした2つのIL-2–INTヴォールト集団が得られ、最大で約660コピー/ヴォールト（すなわち、利用可能な78個のINTアンカーよりもはるかに多くのコピー）となり、これはcryoETによる推定値である約150–600個と一致した。両手法により、高度に封入されたヴォールトは拡大し歪んでいることが示された。空状態粒子はコンフォメーション的に柔軟であり、これが初期の貨物取り込みを促進する。その後、ローディングによってバレルが安定化し貨物が凝縮することで、それぞれ数百個のIL-2分子を含むヴォールトが形成される。これらのデータは、ヴォールト封入の構造的基盤と、ヴォールトベースのデリバリービークルを設計するための定量的枠組みを確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762258",
+    "title": "Efficient translation of chaperones by eIF5A safeguards proteostasis under heat stress",
+    "abstract": "ABSTRACT  The increase in global temperature poses a major threat to cells and organisms because it disrupts cellular proteostasis. We discovered that the evolutionarily conserved and essential translation elongation factor eIF5A is necessary for a rapid response to heat-stress in yeast cells. Lack of eIF5A results in ribosome stalling on heat-stress-induced mRNAs, reducing the synthesis of chaperones, primarily impacting those that undergo robust synthesis via high codon optimality, such as Hsp70 Ssa1 and Hsp12 chaperones. This new eIF5A role in translation appears to be direct, as eIF5A binds preferentially to induced mRNAs with high codon optimality and its polysome association increases under heat-shock. Low levels of Hsp70 in eIF5A mutants delay Hsf1 feedback inhibition during stress adaptation and cause the accumulation of protein aggregates, resulting in low cellular viability to heat-stress. Overall, our results show that eIF5A is crucial for heat-stress resistance by facilitating rapid and efficient translation of high codon-optimal chaperones. Therefore, eIF5A emerges as a key regulator of cellular proteostasis, providing a novel perspective on its significant involvement in neurodegenerative diseases and aging.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762258",
+    "date": "2026-10-29",
+    "authors": "Bernal V, Chi L, Prieto-Diez S, Segui J, Barba-Aliaga M, Alepuz P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353315",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3408,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.27.762258"
+    ],
+    "translation": {
+      "title": {
+        "hash": "03a628412d131f3588059e89fde2841510440f845e6ccee3f15f86977c5f7d15",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:51:56.992938+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "adbaa5154b63d704af97ced73073d72af866bfbcdcb23f8a81e0e9adc40f18f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T11:51:56.992938+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "eIF5Aによるシャペロンの効率的な翻訳は、熱ストレス下におけるタンパク質恒常性を維持する。",
+    "abstract_ja": "要旨　地球規模の気温上昇は、細胞のプロテオスタシスを乱すため、細胞や生物にとって重大な脅威となる。我々は、進化的に保存された必須の翻訳伸長因子eIF5Aが、酵母細胞における熱ストレスへの迅速な応答に必要であることを見出した。eIF5Aの欠損は、熱ストレス誘導性mRNAにおいてリボソームの停滞を引き起こし、シャペロンの合成を減少させ、主にHsp70 Ssa1やHsp12シャペロンなど、高いコドン最適性を介して強固に合成されるシャペロンに影響を及ぼす。翻訳におけるこの新たなeIF5Aの役割は直接的なものと考えられ、eIF5Aは高いコドン最適性を持つ誘導mRNAに優先的に結合し、熱ショック下でそのポリソーム結合が増加する。eIF5A変異体におけるHsp70の低レベルは、ストレス適応時のHsf1フィードバック阻害を遅延させ、タンパク質凝集体の蓄積を引き起こし、その結果、熱ストレスに対する細胞生存率を低下させる。総じて、我々の結果は、eIF5Aが高いコドン最適性を持つシャペロンの迅速かつ効率的な翻訳を促進することで、熱ストレス耐性に不可欠であることを示している。したがって、eIF5Aは細胞プロテオスタシスの主要な調節因子として浮上し、神経変性疾患や老化におけるその重要な役割について新たな視点を提供するものである。"
   }
 ]
