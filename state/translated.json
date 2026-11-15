@@ -257753,5 +257753,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "B. burgdorferiにおけるグローバルなRNA–RNA相互作用マップにより、生育過程を通じて遺伝子発現を再編する塩基対形成sRNAが明らかになった。",
     "abstract_ja": "要旨　小分子RNA（sRNA）は細菌界に広く分布しており、標的RNAと塩基対を形成することで多様な調節効果をもたらす。sRNAをより精緻に同定するため、我々は5′RNA-seq、全RNA-seq、および3′RNA-seq解析を組み合わせた実験・計算パイプラインを設計し、sRNAの網羅的なマッピングならびにその5′末端および3′末端の同定を行った。この手法を、塩基対形成RNAが未解明であるライム病の原因菌Borrelia burgdorferiに適用した。この解析により数百種類のsRNA候補が得られ、そのうちのいくつかは増殖相依存的な存在量およびプロセシングの差異を示し、マウスにおける活性感染時に発現していた。B. burgdorferiのsRNA調節ネットワークを網羅的に予測するため、我々はHi-GRIL-seqワークフローを利用した。このワークフローでは、近位RNAを細菌内でライゲーションしてシーケンシングを行い、数百組の潜在的なsRNA-標的ペアを得る。増殖相にわたるこれらのsRNA–RNA相互作用をマッピングした結果、増殖相に応じて異なるRNA標的と塩基対を形成する広範なsRNAネットワークが明らかになった。このような3種類のsRNAにおける塩基対形成調節について詳細に解析した。具体的には、1つのsRNA–sRNA相互作用、92種類の標的に結合すると予測される1つのsRNA、およびマダニ必須かつ哺乳類免疫原性外表面タンパク質AをコードするmRNAであるospAに直接結合し、そのレベルを低下させる1つのsRNAが同定された。総じて、本研究により、ライム病病原体における動的な調節ネットワークに寄与する豊富なsRNA候補が明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761783",
+    "title": "Cellular context defines brain-specific functions of genes associated with neurodevelopmental disorders",
+    "abstract": "Differential gene expression rarely explains why certain genes, e.g. associated with tissue-specific manifestations of human disease, exert tissue-specific functions. To understand how gene expression and molecular context act in concert to drive tissue-specific gene function, we focus on Neurodevelopmental disorders (NDDs), for which underlying disease mechanisms are still poorly understood. We developed a computational framework that harmonizes and integrates spatiotemporal transcriptome datasets enabling us to systematically quantify preferential gene expression across tissues and developmental stages. Applying this pipeline to approximately 1,000 NDD-associated genes, we find that only about 10% show brain-preferential expression, with distinct gene clusters instead exhibiting significant upregulation in non-brain tissues. Investigation of these clusters reveals regulatory mechanisms that govern mitochondrial function to meet neurons’ high energetic demands, which are mechanistically distinct from those employed by other energy-intensive tissues such as heart and skeletal muscle. Furthermore, by integrating tissue-agnostic protein-protein interaction data with our expression resource, we identify putative brain-specific interaction partners for 22 uniformly expressed NDD-associated genes. We experimentally validate these interactions for QRICH1 and demonstrate that disease-associated mutations disrupt them, providing a molecular hypothesis for how QRICH1 acquires brain-specific function and how its disruption might cause Ververi-Brady syndrome. Together, our findings highlight the importance of molecular context for brain-specific gene function in the context of neurodevelopmental disease. We provide a framework for dissecting molecular mechanisms of tissue-specific Mendelian-like disorders and for exploring how biological processes are adapted to tissue-specific needs.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761783",
+    "date": "2026-10-27",
+    "authors": "Djokic M, Karunanithi S, Welzel M, Kielisch F, Luck K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351659",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4807,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.26.761783"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c5cc0896defe94a4021e265c3c48ead8f5dcdfb3dcee0fd45ceef931475387f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:41:46.195915+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2fe7eb5037f05bf91da137d32a6485e218b6ddd328009d7443daebdcf63f5719",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:41:46.195915+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞コンテキストは、神経発達障害に関連する遺伝子の脳特異的な機能を規定する。",
+    "abstract_ja": "遺伝子発現の差異が、例えばヒト疾患の組織特異的な発現に関連する特定の遺伝子が、なぜ組織特異的な機能を発揮するのかを説明できることは稀である。遺伝子発現と分子コンテキストが協調して組織特異的な遺伝子機能を駆動する仕組みを解明するため、我々は、基礎となる疾患メカニズムが依然として十分に解明されていない神経発達障害（NDDs）に着目した。我々は、時空間的なトランスクリプトームデータセットを調和・統合する計算フレームワークを開発し、組織や発生段階にわたる優先的な遺伝子発現を系統的に定量化することを可能にした。このパイプラインを約1,000個のNDD関連遺伝子に適用した結果、脳特異的な発現を示すのは約10%に過ぎず、代わりに明確な遺伝子クラスターが非脳組織において有意な発現上昇を示すことが明らかになった。これらのクラスターを解析したところ、ニューロンの高いエネルギー需要を満たすためにミトコンドリア機能を制御する調節機構が明らかになった。これは、心臓や骨格筋などの他のエネルギー消費の激しい組織で用いられる機構とは機能的に異なるものである。さらに、組織に依存しないタンパク質間相互作用データと我々の発現リソースを統合することで、一様に発現している22個のNDD関連遺伝子について、脳特異的な相互作用パートナー候補を同定した。我々はQRICH1についてこれらの相互作用を実験的に検証し、疾患関連変異がこれらの相互作用を阻害することを実証した。これにより、QRICH1がいかにして脳特異的な機能を獲得するのか、またその阻害がいかにしてVerveri-Brady症候群を引き起こし得るのかという分子仮説を提示した。以上の知見は、神経発達障害における脳特異的な遺伝子機能にとって、分子コンテキストが重要であることを浮き彫りにしている。我々は、組織特異的なメンデル様疾患の分子メカニズムを解析し、生物学的プロセスが組織特異的なニーズにどのように適応しているかを探究するためのフレームワークを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.25.761625",
+    "title": "How Much Can AI Virtual Cells Gain from Unified Perturbational Modeling?",
+    "abstract": "Predicting how individual cells respond to perturbations is a central task in artificial intelligence virtual cell (AIVC) modeling. However, integrating perturbation datasets is challenging because they differ in measured gene sets, perturbation types and cellular contexts. Existing AIVC predictors are typically developed for specific settings, limiting their applicability across heterogeneous datasets. Here, we investigate the extent to which AIVC predictors can benefit from unified perturbational modeling (UPM), a novel paradigm designed to integrate heterogeneous Perturb-seq datasets into a single predictive model. To this end, we introduce three unification modules into a variational autoencoder (VAE)-based AIVC predictor to address these sources of heterogeneity: gene-channel alignment, shared perturbation encoding, and joint embedding of gene expression and identity. We systematically evaluate and validate the individual contributions of these modules. Building on UPM, we assemble a dataset of 110 million cells spanning over 22,000 genes, four perturbation types and 76 cellular contexts, and use 89.7 million cells from 71 contexts to train a unified AIVC predictor with more than one billion parameters. Across genetic perturbation benchmarks, UPM achieves the highest PES and gene-wise response correlation among the evaluated models. It also improves all four evaluation metrics over State on the five held-out Tahoe-100M cell lines and over Stack on the cytokine benchmark. UPM also improves combinatorial perturbation prediction relative to specialized predictors. In the HSC application, our model achieves a 40.0% improvement in accuracy on a downstream task involving the recapitulation of effects induced by the knockdown of hepatic stellate cell (HSC)-related targets. Our implementation is openly available at  https://github.com/youlab2025/UPM .",
+    "journal": "",
+    "doi": "10.64898/2026.10.25.761625",
+    "date": "2026-10-27",
+    "authors": "Wei Z, Ye Y, Cui S, Ma W, You Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351562",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "alignment",
+        "gene",
+        "predictor"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "alignment",
+          "gene",
+          "predictor"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4808,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.25.761625"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c8d4f73152eddd29111097c2213e99179cfe80ae5da18e3ecd0372758e1da78a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:41:46.195915+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "03fa0703fdded8bd0c3885ca97c47ee6c74b3dc920936d256defff6e447e2bc0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:41:46.195915+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統一摂動論的モデリングによってAI仮想細胞はどの程度の恩恵を得られるか？",
+    "abstract_ja": "個々の細胞が摂動にどのように応答するかを予測することは、人工知能仮想細胞（AIVC）モデリングにおける中核的な課題である。しかし、摂動データセットは測定される遺伝子セット、摂動の種類、および細胞コンテキストが異なるため、それらを統合することは困難である。既存のAIVC予測器は通常、特定の設定向けに開発されており、異種データセットへの適用性が制限されている。本研究では、異種のPerturb-seqデータセットを単一の予測モデルに統合するために設計された新たなパラダイムである統一摂動モデリング（UPM）が、AIVC予測器にどの程度寄与し得るかを検証する。この目的のため、これらの異質性の要因に対処すべく、変分オートエンコーダ（VAE）ベースのAIVC予測器に3つの統一モジュール――遺伝子チャネルアライメント、共有摂動エンコーディング、および遺伝子発現と同一性の共同埋め込み――を導入する。これらのモジュールの個別の寄与を体系的に評価し、検証する。UPMに基づき、22,000以上の遺伝子、4種類の摂動タイプ、および76の細胞コンテキストにわたる1億1,000万個の細胞データセットを構築し、71のコンテキストから得られた8,970万個の細胞を用いて、10億を超えるパラメータを持つ統一AIVC予測器を学習させた。遺伝的摂動ベンチマークにおいて、UPMは評価対象モデルの中で最高のPESおよび遺伝子ごとの応答相関を達成した。また、ホールドアウトした5つのTahoe-100M細胞株におけるState、およびサイトカインベンチマークにおけるStackと比較して、4つの評価指標すべてにおいて改善を示した。さらに、UPMは特化型予測器と比較して、組み合わせ摂動予測においても性能を向上させた。HSCへの適用において、本モデルは、肝星細胞（HSC）関連標的のノックダウンによって誘導された効果の再現を含むダウンストリームタスクにおいて、精度を40.0%向上させた。本実装は、https://github.com/youlab2025/UPM で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11157292/v1",
+    "title": "The importance of allele dosage: a simulation study on genomic prediction and response to selection in triploid hybrid breeding",
+    "abstract": "Abstract  Genomic prediction in polyploid crops requires decisions about how allele dosage is encoded at biallelic SNPs. In triploid breeding systems produced from tetraploid × diploid crosses- the mating design used commercially for seedless watermelon and other economically important crops- each locus can carry the alternative allele in zero, one, two, or three copies. This four-state genotype is frequently compressed to a diploid-like three-state encoding for compatibility with standard prediction pipelines. The long-term cost of this compression, and the conditions under which it becomes practically important, remain unquantified. We used stochastic simulation to isolate the effect of dosage encoding on prediction accuracy and long-term selection response in a triploid hybrid breeding program. We compared two encodings: the proper four-state dosage encoding (C: 0/1/2/3) and a diploidized three-state encoding that collapses the two heterozygous classes (B: 0/1/1/2). We evaluated these encodings across a 72-scenario factorial grid varying dominance, heritability, and training size. Overall, encoding C outperformed encoding B under the additive-plus-dominance kernel model in 66 of 72 scenarios. The difference was largest when the dominance proportion was low and shrank monotonically as dominance became more important. In a subsequent recurrent selection study, overall, encoding C produced 7.6% higher cumulative hybrid genetic value than encoding B at cycle 10 (30 years of breeding). However, the per-cycle prediction accuracy advantage of dosage-aware encoding is modest (0.028 accuracy units). Our results place a lower bound on the value of dosage-aware genotyping in polyploid breeding and identify the trait architectures for which the investment is most warranted.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11157292/v1",
+    "date": "2026-10-27",
+    "authors": "Gupta K, Grover K, Pereira H, Fritsche-Neto R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350929",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "prediction",
+        "simulation"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4809,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.21203/rs.3.rs-11157292/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "920819ffecfb827ff6ba2e57ddd9f239f4a53b04727d84b7c556e169dacb613b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:41:46.195915+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f2fa6d35a43e06ed9634653b2bccdceea7ba21265736929a848d9677ad6ef55e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:41:46.195915+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "対立遺伝子量の重要性：三倍体雑種育種におけるゲノム予測と選抜応答に関するシミュレーション研究",
+    "abstract_ja": "要旨　多倍体作物におけるゲノム予測では、二対立遺伝子SNPにおけるアレル用量の符号化方法に関する決定が必要となる。四倍体×二倍体交配から得られる三倍体育種体系（種なしスイカやその他の経済的に重要な作物で商業的に用いられている交配設計）では、各遺伝子座が代替アレルを0、1、2、または3コピー保持し得る。この4状態の遺伝子型は、標準的な予測パイプラインとの互換性を確保するため、しばしば二倍体のような3状態の符号化へと圧縮される。この圧縮に伴う長期的なコスト、およびそれが実用的に重要となる条件については、依然として定量化されていない。本研究では、確率的シミュレーションを用いて、三倍体ハイブリッド育種プログラムにおける用量符号化が予測精度および長期的な選抜応答に及ぼす影響を分離して解析した。具体的には、適切な4状態用量符号化（C: 0/1/2/3）と、2つのヘテロ接合クラスを統合する二倍体化3状態符号化（B: 0/1/1/2）という2種類の符号化を比較した。これらの符号化について、優性、遺伝率、および訓練サイズを変化させた72通りのシナリオからなる因子格子を用いて評価した。全体として、加法＋優性カーネルモデルにおいて、72シナリオ中66シナリオで符号化Cが符号化Bを上回った。この差は優性割合が低い場合に最も大きく、優性が重要になるにつれて単調に縮小した。その後の反復選抜研究では、全体として、サイクル10（30年間の育種）において、符号化Cは符号化Bよりも7.6%高い累積ハイブリッド遺伝値を示した。しかし、用量認識符号化によるサイクルごとの予測精度の優位性は限定的であった（精度単位0.028）。本研究の結果は、多倍体育種における用量認識ジェノタイピングの価値に下限を提示するとともに、その投資が最も正当化される形質アーキテクチャを特定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.756749",
+    "title": "Polymorphic Structures of an Artificial Nucleocapsid Evolved from a Circularly Permuted Bacterial Protein Cage",
+    "abstract": "Molecular self-assembly provides a route to nanoscale structures with defined sizes and shapes. Protein cages assembled from repeated subunits form compartments that can package molecular cargoes. Although amino acid substitutions can alter intersubunit interactions and cage architecture, how protein backbone connectivity relates to the cage architectures accessible during laboratory evolution remains unclear. Here we evolved an artificial nucleocapsid from a circularly permuted variant of Aquifex aeolicus lumazine synthase (AaLS). Laboratory evolution increased the yield of purified nucleocapsids relative to the progenitor, and the evolved variant, NC119-3, packaged its encoding mRNA. Cryo-electron microscopy revealed a heterogeneous population of cages, within which we resolved 180- and 210-subunit cage families composed of 36 and 42 pentamers, respectively. Within each resolved family, particles with the same subunit stoichiometry differed in the arrangement and orientation of their pentameric building blocks. A 2.90 Å reconstruction of a tetrahedral 180-subunit cage further revealed that sequence-identical subunits adopt distinct conformations depending on their positions within the assembly. These pentamer-based architectures differ from the domain-swapped T = 4 cage previously reported for nucleocapsids evolved from an AaLS variant with a different circular permutation site. Together with previous work, these findings show that RNA-packaging nucleocapsids evolved from scaffolds with different backbone connectivity can adopt distinct cage architectures.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.756749",
+    "date": "2026-10-26",
+    "authors": "Li H, Koziej Ł, Kikko O, Ishihara K, Kagawa T, Tajima K, Shigematsu H, Gerle C, Matsuura T, Numata T, Azuma Y, Terasaka N.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350444",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1834,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.756749"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9e61258ee582dbdee222837daffe56fc79fe07dc7cce9ad5dc2d94d9c1f7ed78",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:41:46.195915+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf8f399c1a99597884223b1ee3553743e93d642981172ac0a5dac5d5c70d32bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:41:46.195915+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "環状置換細菌タンパク質ケージから進化した人工ヌクレオカプシドの多形構造",
+    "abstract_ja": "分子自己組織化は、サイズと形状が規定されたナノスケール構造を実現する経路となる。サブユニットの繰り返しによって構築されたタンパク質ケージは、分子貨物をパッケージング可能なコンパートメントを形成する。アミノ酸置換によってサブユニット間相互作用やケージ構造が変化することはあり得るが、タンパク質主鎖の連結性が、実験室での進化過程で到達可能なケージ構造とどのように関連しているかは依然として不明である。本研究では、Aquifex aeolicus lumazine synthase (AaLS) の環状置換変異体から人工ヌクレオカプシドを進化させた。実験室での進化により、前駆体と比較して精製ヌクレオカプシドの収量が増加し、進化変異体であるNC119-3は、その構成mRNAをパッケージングした。クライオ電子顕微鏡観察により、不均一なケージ集団が明らかになり、その中でそれぞれ36個および42個の五量体からなる180サブユニットおよび210サブユニットのケージファミリーを同定した。同定された各ファミリー内において、同一のサブユニット化学量論を持つ粒子間でも、五量体構成単位の配置と配向が異なっていた。正四面体構造の180サブユニットケージを2.90 Åで再構成したところ、配列が同一のサブユニットであっても、アセンブリ内での位置に応じて異なるコンフォメーションをとることがさらに明らかになった。これらの五量体ベースの構造は、異なる環状置換部位を持つAaLS変異体から進化したヌクレオカプシドについて以前に報告されたドメイン交換型T = 4ケージとは異なる。先行研究と併せて、これらの知見は、異なる主鎖連結性を持つ足場から進化したRNAパッケージング用ヌクレオカプシドが、異なるケージ構造をとり得ることを示している。"
   }
 ]
