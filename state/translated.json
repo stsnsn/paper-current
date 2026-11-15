@@ -246739,5 +246739,338 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "インタラクティブな双方向型デノボタンパク質設計システム",
     "abstract_ja": "本研究では、de novo配列設計のための構造認識型グラフニューラルネットワーク（GNN）とESMFoldベースの構造予測器という2つの生成モデルを、単一の双方向設計ループに統合した軽量かつインタラクティブなサーバーを提案する。本ツールはウェブブラウザ以外にソフトウェアのインストールを必要とせず、予測された配列と構造の間の配列-構造マッピングの両方向を可視化し、定量化する。同一のインターフェースを通じて、ユーザーが利用できる付属のKabschアライメントツールが、予測された構造をターゲットバックボーンに重ね合わせる。その結果得られた二乗平均平方根偏差は、インターフェース上で直接表示される。本論文では、新たなモデルではなく、ツール自体――モデルの利用と解析の障壁を低減する、アクセス可能で柔軟かつオープンソースのコードベース――を提供する。このインタラクティブサーバーは、設計仮説をインタラクティブに検証するためにも利用でき、他の研究者が独自のチェックポイントを用いて再利用することも可能である。多少手間はかかるものの、コードベースには、インタラクティブサーバーのコードを利用しつつ、ユーザーが独自のモデル構造を追加できるセクションが含まれている。本論文では、システムのアーキテクチャ、インターフェース、および想定されるワークフローについて説明し、オープンソースツールとしての役割について論じる。本論文で使用したすべてのデータおよびモデルは、先行する関連論文 [3, 4] から得られたものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762082",
+    "title": "Spatialsnake: a flexible workflow for spatial transcriptomics analysis across platforms",
+    "abstract": "Background  Spatial transcriptomics technologies measure gene expression at different spatial resolutions and generate diverse data outputs. Existing workflows support a range of platforms and analyses, but combining methods and extending analyses to selected populations or tissue regions can require additional scripts and repeated data preparation. Findings  We developed Spatialsnake, a flexible workflow built on SpatialData and Snakemake for analysing processed outputs from Visium, Visium HD, Stereo-seq, Xenium and MERFISH. A common command-line interface supports single- and multi-sample analysis, with adjustable parameters and saved intermediate results. Users can select populations, tissue regions or distance-based neighborhoods, repeat clustering and annotation, and map refined labels back to the full dataset. Additional modules support cell-type composition estimation, spatial-domain identification, cell– cell communication inference, regulon analysis and sample-level comparisons. We demonstrate these functions using mouse-brain Visium and colorectal cancer Visium HD datasets. Joint analysis of three colorectal cancer sections retained 1,527,987 bins and enabled further analysis of 223,632 epithelial bins, linking epithelial subpopulation annotations to their locations within the complete tissue. Conclusions  Spatialsnake provides a unified workflow for spatial transcriptomics analysis across sequencing- and imaging-based platforms. Its flexible analysis modules support both whole-tissue analysis and further investigation of selected cell populations and tissue regions.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762082",
+    "date": "2026-10-28",
+    "authors": "Lin Z, Zhang Z, Huang N, Lu Z, Xu S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352490",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "transcriptomic",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4015,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.27.762082"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aedbde39c1f5c1009a46b60e425a2dcd864c92ba9aa23eee65702379c2884180",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:44:13.655431+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a1f2894c4b466e8a59123cfae3b5acbbdfdff98c9210f569ef868ed49c3910d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:44:13.655431+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Spatialsnake: プラットフォーム横断的な空間トランスクリプトミクス解析のための柔軟なワークフロー",
+    "abstract_ja": "背景  空間トランスクリプトミクス技術は、異なる空間解像度で遺伝子発現を測定し、多様なデータ出力を生成する。既存のワークフローは幅広いプラットフォームや解析に対応しているが、手法を組み合わせたり、特定の集団や組織領域に解析範囲を広げたりする場合、追加のスクリプトや繰り返しのデータ準備が必要となることがある。知見  我々は、Visium、Visium HD、Stereo-seq、Xenium、およびMERFISHの処理済み出力を解析するため、SpatialDataおよびSnakemakeを基盤とした柔軟なワークフロー「Spatialsnake」を開発した。共通のコマンドラインインターフェースにより、単一サンプルおよびマルチサンプル解析をサポートし、パラメータの調整や中間結果の保存が可能である。ユーザーは集団、組織領域、または距離に基づく近傍領域を選択し、クラスタリングとアノテーションを繰り返し行い、精緻化されたラベルを完全なデータセットにマッピングできる。追加モジュールにより、細胞種組成の推定、空間ドメインの同定、細胞間コミュニケーションの推論、レギュロン解析、およびサンプルレベルの比較が可能となる。我々は、マウス脳のVisiumおよび大腸がんのVisium HDデータセットを用いて、これらの機能を実証した。3つの大腸がん切片の統合解析では1,527,987個のビンが保持され、さらに223,632個の上皮ビンの解析が可能となり、上皮サブポピュレーションのアノテーションを完全な組織内での位置と紐付けることができた。結論  Spatialsnakeは、シーケンシングおよびイメージングベースのプラットフォームにわたる空間トランスクリプトミクス解析のための統合的なワークフローを提供する。その柔軟な解析モジュールは、組織全体の解析と、特定の細胞集団および組織領域のさらなる調査の両方をサポートする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762190",
+    "title": "De novo Protein Generating Model via Structure-Aware Graph Neural Networks",
+    "abstract": "The focus of this paper is to create a protein conformation prediction model that is optimized for structural accuracy rather than sequence recovery. To achieve this goal, we created a graph neural network (GNN) [19] for the design of computational proteins that integrates differentiable structure prediction through ESMFold [13] via a structural loss function, allowing direct optimization of the 3D conformational accuracy. Our model takes protein backbone coordinates as input and predicts an amino acid sequence using a composite loss that heavily weights structural similarity. On a matched evaluation sample, our model achieves structural precision (RMSD, TM-score, and GDT-TS) that is statistically indistinguishable from ProteinMPNN, a leading sequence recovery-focused method, despite training with no direct sequence recovery supervision and substantially lower native sequence recovery. Our results demonstrate that sequence recovery is not necessary to achieve competitive structural accuracy and that proteins can possess multiple non-unique solutions, suggesting that protein sequence prediction models may perform comparably well under purely structural conformation training. This distinction in training data and model structure allows for the training of a protein-generating model on non-natural proteins. Creating a model designed for de novo protein generation.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762190",
+    "date": "2026-10-28",
+    "authors": "Gammill C, Tamil L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353452",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "prediction",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4043,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.27.762190"
+    ],
+    "translation": {
+      "title": {
+        "hash": "91bc666acd48351a39ef4294f193eb977934d735db103d2879138af4ccec639e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:44:13.655431+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "057bd2b3fc33dee7a0baecee8e1941cd967e5e0417838220adc7353573fd8090",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:44:13.655431+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "構造認識型グラフニューラルネットワークによる新規タンパク質生成モデル",
+    "abstract_ja": "本論文の焦点は、配列復元ではなく構造精度に最適化されたタンパク質立体構造予測モデルを構築することにある。この目的を達成するため、構造損失関数を介してESMFold [13]による微分可能な構造予測を統合し、3次元立体構造精度を直接最適化できる計算タンパク質設計用のグラフニューラルネットワーク（GNN）[19]を構築した。本モデルはタンパク質の主鎖座標を入力とし、構造類似性を強く重み付けした複合損失を用いてアミノ酸配列を予測する。マッチングさせた評価サンプルにおいて、本モデルは、直接的な配列復元の教師信号なしで学習し、天然配列復元性能が大幅に劣るにもかかわらず、配列復元に特化した主要な手法であるProteinMPNNと統計的に区別がつかない構造精度（RMSD、TM-score、およびGDT-TS）を達成した。我々の結果は、競争力のある構造精度を達成するために配列復元は不要であること、およびタンパク質が複数の非一意な解を持ち得ることを示しており、タンパク質配列予測モデルが純粋に構造立体構造の学習下でも同等に良好に機能し得ることを示唆している。このような学習データとモデル構造の相違により、非天然タンパク質を対象としたタンパク質生成モデルの学習が可能となる。de novoタンパク質生成向けに設計されたモデルの構築。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761457",
+    "title": "Genomic detection of domoic acid biosynthesis uncovers expanded toxigenic diversity across  Pseudo-nitzschia  diatoms",
+    "abstract": "Domoic acid (DA) production by diatom genus  Pseudo-nitzschia causes recurrent harmful algal blooms with major consequences for marine ecosystems, fisheries, and human health. Predicting DA risk remains challenging because toxin production varies across morphologically similar and cryptic lineages. Consequently, morphology or single marker genes often fail to resolve toxigenic potential. Here, we expand genomic resources for  Pseudo-nitzschia by generating and compiling high-quality genomes spanning diverse species and biogeographic origins, establishing a genus-wide phylogenomic framework to investigate the distribution and evolution of the DA biosynthesis (  dab ) gene cluster. Among chemically characterized strains, the  dab pathway was detected in species only with confirmed DA production. While the cluster exhibits a conserved core structure, several lineages display signatures of ongoing evolution, including intronization, locus rearrangement, and pseudogenization. One striking example of  dab variation occurs in toxigenic  P. australis strains, in which its biochemically validated isodomoic acid A synthase-encoding gene  dabC is located outside the  dab locus. Metatranscriptomic surveys reveal widespread environmental  dab expression across size classes and species, implicating taxa not typically associated with environmental DA events, such as  P . cf.  obtusa and  P . cf.  plurisecta . To connect  dab expression with chemical output, nutrient limitation experiments in the historically inconsistent DA producer  P. pseudodelicatissima combined transcriptional profiling and nontargeted metabolomics demonstrating coordinated  dab expression across distinct co-expression modules and DA accumulation in response to silicon limitation. Together, these results refine the phylogenetic scope of DA production and provide a genome-resolved basis for improved molecular monitoring of toxigenic diversity.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761457",
+    "date": "2026-10-27",
+    "authors": "Wood-Rocca SM, Füssy Z, Thukral M, Caraballo-Rodriguez AM, Zheng H, Wanamaker SA, Polinski JM, DeSmidt A, Choisne N, Bill BD, McGrath H, Hammar F, Maumus F, Hubbard KA, Dorrestein PC, Delmont TO, Harke MJ, Moore BS, Allen AE.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352509",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatom",
+        "Diatoms",
+        "diatom",
+        "metatranscriptom",
+        "metatranscriptomic"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 31,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.761457"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b29e2699f169c77ee245bdbb665918a53aad78a5c15454b5b8590656f5c57381",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:44:13.655431+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aa2e2e3815036662d17deec7adbbb5dd8b129d82c2d55cc865777ef7928641a2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:44:13.655431+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ドモイ酸生合成のゲノム解析により、Pseudo-nitzschia属珪藻における毒素産生能の多様性の拡大が明らかになった。",
+    "abstract_ja": "珪藻属Pseudo-nitzschiaによるドモイ酸（DA）の産生は、海洋生態系、漁業、およびヒトの健康に重大な影響を及ぼす有害藻類の大量発生を繰り返し引き起こす。形態的に類似した隠蔽系統間でも毒素産生量が異なるため、DAリスクの予測は依然として困難である。その結果、形態や単一のマーカー遺伝子だけでは、毒素産生能を判別できないことが多い。本研究では、多様な種および生物地理学的起源にわたる高品質なゲノムを生成・編纂することで、Pseudo-nitzschiaのゲノムリソースを拡充し、DA生合成（dab）遺伝子クラスターの分布と進化を調査するための属レベルの系統ゲノムフレームワークを構築した。化学的に特性解析された株のうち、dab経路が検出されたのは、DA産生が確認された種のみであった。このクラスターは保存されたコア構造を示す一方で、イントロン化、遺伝子座の再編成、および擬遺伝子化など、継続的な進化の痕跡を示す系統がいくつか存在する。dab変異の顕著な例の一つとして、毒素産生能を持つP. australis株が挙げられ、そこでは生化学的に検証されたイソドモイ酸A合成酵素をコードする遺伝子dabCが、dab遺伝子座の外側に位置している。メタトランスクリプトーム解析により、サイズクラスや種を問わず環境中でdabが広範に発現していることが明らかになり、P. cf. obtusaやP. cf. plurisectaなど、通常は環境中のDA発生に関連付けられない分類群が関与していることが示唆された。dabの発現と化学的産物を結びつけるため、従来はDA産生能に一貫性がなかったP. pseudodelicatissimaを用いた栄養制限実験において、転写プロファイリングと非標的メタボロミクスを組み合わせ、異なる共発現モジュール間での協調的なdab発現と、ケイ素制限に応じたDA蓄積を実証した。これらの結果を総合することで、DA産生の系統学的範囲が精緻化され、毒素産生多様性の分子モニタリングを改善するためのゲノムレベルでの基盤が提供される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11233042/v1",
+    "title": "Machine Learning based Classification of Ocular Pathogens using Host-transcriptomic Signatures: a proof-of-concept",
+    "abstract": "Abstract  Background.  Diagnosis of infectious keratitis, uveitis, and endophthalmitis is constrained by the scarcity of pathogen-derived material in small-volume ocular specimens. The host transcriptome is an abundant alternative signal: infection elicits pathogen-class-specific transcriptional responses that may permit pathogen identification without direct detection. We tested this premise as a proof of concept using publicly available in-vitro infection RNA seq. We assembled 330 human RNA-seq samples (177 infected, 153 mock) spanning six pathogens (Herpes Simplex Virus-1, Human Cytomegalovirus Virus, Aspergillus Fumigatus, Candida Albicans, Pseudomonas Aeruginosa, Mycobacterium Tuberculosis) across 36 BioProjects and 24 host cell types. Results.  Per-study differential expression yielded a robust-gene feature matrix. Pathogen classification was evaluated with Random Forest under leave-one-study-out (grouped) cross-validation and contrasted against random cross-validation to quantify study-level information leakage. Under random (non-grouped) cross-validation, balanced accuracy reached 0.85–0.92 across gene panel sizes (8–700 + genes). Under honest, leakage-corrected leave-one-group-out validation, balanced accuracy was lower than random cross-validation and remained stable across panel sizes and gene-selection strategies, peaking at 0.70 (60–100 gene panel) and averaging 0.519–0.60 across the full range of gene sets tested (8 to 9,942 genes; chance level = 0.14 for 7 classes). Unsupervised UMAP visualization of the robust gene set showed distinct clustering by pathogen and by pathogen class (viral, fungal, bacterial), with cross-kingdom pathogen pairs showing more distinct separation than within-kingdom comparisons. Conclusions.  Beyond established diagnostics such as PCR and metagenomics, host transcriptomic signatures analyzed via machine learning offer a promising alternative approach to pathogen classification, achieving balanced accuracy substantially above chance under rigorous, study-independent validation. These findings support the feasibility of host-transcriptome-based diagnostic classification, with dataset provenance as the primary current limitation to clinical translation.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11233042/v1",
+    "date": "2026-10-27",
+    "authors": "Plumber¹ MT, Kumar R, Yadavalli T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350881",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "Candida",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "classification",
+        "fungal",
+        "metagenom",
+        "metagenomics",
+        "transcriptomic",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 48,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11233042/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "58f56bd53cc67a055fc616ce26b71fe74e42402b7c229debbaa21ac1e7a6ca64",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:44:13.655431+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0b8637cd6e9c061bdf212106e5937a4ce26c797663adcb2add6a841b9e7ed5e1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T12:44:13.655431+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主トランスクリプトームシグネチャーを用いた眼病原体の機械学習に基づく分類：概念実証",
+    "abstract_ja": "要旨  背景。感染性角膜炎、ぶどう膜炎、および眼内炎の診断は、少量の眼組織検体における病原体由来検体の不足によって制約を受けている。宿主トランスクリプトームは豊富な代替シグナルであり、感染によって病原体クラス特異的な転写応答が誘発されるため、直接的な検出を伴わずに病原体の同定が可能となる可能性がある。我々は、公開されているin vitro感染RNA-seqを用いて、この前提を概念実証として検証した。36のBioProjectおよび24種類の宿主細胞株にわたり、6種類の病原体（単純ヘルペスウイルス-1、ヒトサイトメガロウイルス、アスペルギルス・フミガートゥス、カンジダ・アルビカンス、緑膿菌、結核菌）を網羅する330件のヒトRNA-seqサンプル（感染検体177件、モック検体153件）を構築した。結果。研究ごとの発現変動解析により、ロバスト遺伝子特徴量行列が得られた。病原体分類は、leave-one-study-out（グループ化）交差検証下でランダムフォレストを用いて評価し、研究レベルの情報漏洩を定量化するためにランダム交差検証と比較した。ランダム（非グループ化）交差検証では、遺伝子パネルサイズ（8～700遺伝子以上）にわたってバランス正解率が0.85～0.92に達した。誠実な漏洩補正済みleave-one-group-out検証では、バランス正解率はランダム交差検証よりも低く、パネルサイズや遺伝子選択戦略に関わらず安定しており、ピーク値は0.70（60～100遺伝子パネル）、テストした全遺伝子セット（8～9,942遺伝子、7クラスで偶然レベル＝0.14）の平均は0.519～0.60であった。ロバスト遺伝子セットの教師なしUMAP可視化では、病原体別および病原体クラス別（ウイルス、真菌、細菌）に明確なクラスタリングが認められ、クロスキングダムの病原体ペアはキングダム内比較よりも顕著な分離を示した。結論。PCRやメタゲノミクスなどの確立された診断法に加え、機械学習を用いて解析した宿主トランスクリプトームシグネチャーは、病原体分類における有望な代替アプローチとなり、厳格な研究独立検証の下で、偶然レベルを大幅に上回るバランス正解率を達成した。これらの知見は、宿主トランスクリプトームに基づく診断分類の実現可能性を支持するものであり、現在の臨床応用における主要な制限要因はデータセットの由来である。"
   }
 ]
