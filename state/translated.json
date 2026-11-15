@@ -232327,5 +232327,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "機械学習を用いた抗体コンフォメーションアンサンブルの迅速生成",
     "abstract_ja": "本研究では、コンフォメーションダイナミクスに基づき、配列から多様なFv構造を生成する抗体アンサンブル予測のための生成フレームワーク「Cadense」を提案する。静的な構造予測は有用なリソースであるものの、動的なタンパク質の単一のスナップショットしか提供できず、その運動が結合やその他の特性に影響を及ぼす。この点は、創薬において重要な分子クラスである抗体において特に顕著であり、柔軟な相補性決定領域（CDR）ループを静的な手法でモデル化することは困難である。Cadenseは、分子動力学（MD）によるコンフォメーションおよび生物物理学的特性の分布に合致するアンサンブルを生成することでこのギャップを埋め、計算負荷を数日に及ぶシミュレーションから数秒の生成へと低減させる。我々は、Cadenseのアンサンブルが同一抗体のアポ型とホロ型の両方のコンフォメーションを復元でき、かつ物理ベースドドッキングへの有効な入力として機能し、抗体－抗原相互作用を適切にモデル化する上で重要なコンフォメーション柔軟性を捉えられることを示す。以上の結果により、Cadenseは抗体コンフォメーションアンサンブル生成のための有用なツールであることが実証され、より高速でダイナミクスを考慮した抗体設計を実現する可能性が示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10580069/v1",
+    "title": "Determinative Detection in Egyptian Hieroglyphic Sequences: A Sequence-Labelling Benchmark and Multi-Agent LLM Baseline",
+    "abstract": "Abstract  Determinatives, silent classifier signs that mark semantic fields and signal word boundaries, are a central feature of the ancient Egyptian writing system, and their automatic detection is a prerequisite for lemmatization, morphological parsing, and translation. Yet the task has received little dedicated attention as a language-processing problem, and no shared benchmark exists. This paper makes three contributions. First, we formulate determinative detection in sequences encoded in Manuel de Codage notation as a sequence-labelling task and release an expert-annotated benchmark of 99 hieroglyphic sequences, structured around a knowledge base of determinative signs organised into semantic categories following the Gardiner Sign List. Second, we propose a multi-agent method combining large language model (LLM) reasoning with deterministic domain constraints: two independent LLM agents analyse each sequence from semantic and structural perspectives, and a deterministic scoring module aggregates their evidence through a five-tier sign categorisation and context-dependent thresholds. Third, we evaluate the method under a nested cross-validation protocol in which every sequence serves as a held-out test case exactly once, with inner Bayesian optimisation of the scoring parameters. The method attains a macro-averaged F1 of 81.94% ± 2.19% and a micro-averaged F1 of 87.50% ± 2.50%, the low cross-fold variance quantifying its robustness. Beyond a single prediction, it produces ranked alternative interpretations with explicit promotion conditions and natural-language justifications, making it a transparent, collaborative resource for computational Egyptology, a low-resourced ancient language, rather than a black-box classifier.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10580069/v1",
+    "date": "2026-11-09",
+    "authors": "Cruz-Cavalieri D, Gracia-Zamacona C, Grotenhuis J, Santos PSd, Palazuelos-Cagigas SE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361818",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "method",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "benchmark",
+          "method",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4505,
+    "collected_at": "2026-11-15T02:39:01.161368+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.21203/rs.3.rs-10580069/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e4c620a869c9c8ae325405e4cf3ccb387ab37314e62dd3a408eb044d5b491808",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:18:40.483706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c18e479bbfc0e34ce5b8c2df8c200a610933d5f73e98259054fa0bd1a874b8fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:18:40.483706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エジプト象形文字シーケンスにおける決定論的検出：シーケンスラベル付けベンチマークとマルチエージェントLLMベースライン",
+    "abstract_ja": "要旨　意味領域を標示し、単語境界を示すサイレント分類記号である限定詞は、古代エジプト文字体系の中核的な特徴であり、その自動検出は、語彙項目化、形態素解析、および翻訳のための前提条件となる。しかし、言語処理上の問題としてこのタスクに十分な注目が払われておらず、共通のベンチマークも存在しない。本論文では3つの貢献を行う。第一に、マヌエル・ド・コダージュ表記で符号化された系列における限定詞検出を系列ラベリングタスクとして定式化し、ガーディナー記号表に従って意味カテゴリに整理された限定詞記号の知識ベースに基づき構成された、99のヒエログリフ系列からなる専門家アノテーション済みベンチマークを公開する。第二に、大規模言語モデル（LLM）による推論と決定論的なドメイン制約を組み合わせたマルチエージェント手法を提案する。2つの独立したLLMエージェントが意味的および構造的な観点から各系列を分析し、決定論的なスコアリングモジュールが、5段階の記号カテゴリ分類と文脈依存の閾値を通じてそれらの根拠を集約する。第三に、すべての系列が正確に一度だけホールドアウトテストケースとして機能する入れ子型交差検証プロトコルの下で本手法を評価し、スコアリングパラメータの内部ベイズ最適化を行う。本手法は、マクロ平均F1値 81.94% ± 2.19%、マイクロ平均F1値 87.50% ± 2.50%を達成し、低い交差分割分散がその頑健性を定量的に示している。単一の予測にとどまらず、明示的な昇格条件と自然言語による正当化を伴う順位付けされた代替解釈を提示するため、ブラックボックス型の分類器ではなく、低リソースの古代言語である計算エジプト学のための、透明性の高い協調的リソースとなる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764756",
+    "title": "RabbitCD-HIT: Distributed High-Sensitivity Greedy Incremental Clustering for Billion-Scale Protein Sequences in Hours",
+    "abstract": "We present RabbitCD-HIT, a scalable distributed high-sensitivity greedy incremental clustering tool for ultra-large protein sequence datasets. It fully exploits cluster resources to enable efficient billion-scale clustering. RabbitCD-HIT clustered the March 10, 2026 NCBI nr snapshot (1.02 billion sequences; 487 GB FASTA) at 90% identity within 5 hours on 64 nodes; the resulting representatives and cluster assignments are released as a public database resource. On a 256-core server, RabbitCD-HIT achieved a 2.1× –6.6 ×speedup over CD-HIT with identical results under matched settings. Our approach addresses performance bottlenecks of traditional greedy incremental algorithms and provides an effective solution for large-scale protein sequence clustering.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764756",
+    "date": "2026-11-09",
+    "authors": "Gao Y, Ma G, Yin Z, Yan L, Yang Y, Zhang T, Zhao T, Liu Z, Duan X, Niu B, Schmidt B, Liu W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362542",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "clustering",
+        "protein",
+        "sequence",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "clustering",
+          "protein",
+          "sequence",
+          "tool"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4558,
+    "collected_at": "2026-11-15T02:39:01.161368+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.05.764756"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af68892ac777ad14a89b4b983871bb5ebb4d0c103e495b5675d6cecc08a999b9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:18:40.483706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "82fbf71ee86761309004367381c1582601ac03dad2e5c8cb061501ba1b1ca6cb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:18:40.483706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RabbitCD-HIT: 数十億規模のタンパク質配列に対する数時間での分散型高感度貪欲増分クラスタリング",
+    "abstract_ja": "本研究では、超大規模タンパク質配列データセット向けのスケーラブルな分散型高感度貪欲インクリメンタルクラスタリングツール「RabbitCD-HIT」を提案する。本ツールはクラスタリソースを最大限に活用することで、10億規模の効率的なクラスタリングを実現する。RabbitCD-HITは、2026年3月10日のNCBI nrスナップショット（10億2,000万配列、487 GB FASTA）を、64ノードを用いて5時間以内に90%の同一性でクラスタリングした。得られた代表配列およびクラスタ割り当ては、公開データベースリソースとして提供されている。256コアのサーバーにおいて、RabbitCD-HITは同一の設定条件下でCD-HIT比2.1×～6.6倍の高速化を達成した。本手法は、従来の貪欲インクリメンタルアルゴリズムにおける性能上のボトルネックを解消し、大規模なタンパク質配列クラスタリングに対する効果的な解決策を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.1099/acmi.0.001187.v4",
+    "title": "From enrollment to sequencing: cancer microbiome methods reporting is inconsistent and incomplete",
+    "abstract": "Reproducibility in microbiome research depends on transparent reporting of sample sizes and sequence counts both before and after quality control (QC) processes. This is an expectation formalized in the STORMS (Strengthening The Organization and Reporting of Microbiome Studies) checklist published in November 2021. Whether cancer microbiome studies comply with the STORMS items governing sample size, sequencing and quality control, however, remains largely unexamined. Here, we audited 67 clinical cancer microbiome studies against ten STORMS items that apply to every microbiome study, spanning participant and sample counts, laboratory processing, sequencing, bioinformatic processing and experimental controls. Nearly all studies reported their number of participants (96%) and final number of samples analyzed (97%). However, STORMS items beyond sample sizes were largely underreported, ranging from 9% to 36%. The median study reported two of these eight methods items, and 16 studies reported none. Reporting did not change measurably after STORMS was published and was unrelated to journal impact factor. Because aspects like read normalization, quality-control filtering, taxa removal, and contamination handling directly affect the end result of a cancer microbiome study, differences in how these are implemented can have critical implications for the field’s reproducibility as well as rigor at large. Resolving this issue will require buy-in from scientists, funding institutions, and journals to work together to enforce stricter standards for cancer microbiome methodology reporting.",
+    "journal": "",
+    "doi": "10.1099/acmi.0.001187.v4",
+    "date": "2026-11-05",
+    "authors": "Kobobel DG, Degregori S, Gonzalez A, Wright S, Richie TG, Han JH, Gu H, Huang I, Fetcinko LH, Hutcherson DJ, Martel H, Garcia Reyes A, Kisselev D, Song EC, Microbiome Metadata Crisis Consortium, Knight R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1364723",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "microbiome",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "method",
+          "sequencing"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4540,
+    "collected_at": "2026-11-15T02:39:01.161368+00:00",
+    "collected_date": "2026-11-15",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.1099/acmi.0.001187.v4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "98480d5e28b8efc3378873d59b6fd3e3ebed04a167c7ad2376533ec1e7d7b1cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:18:40.483706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "02b5c7e02608359e7f5c1e0ff76708ca6e1500eaaab9f3629d016e14b3e3c849",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:18:40.483706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "登録からシーケンシングまで：がんマイクロバイオーム解析手法の報告は一貫性に欠け、不完全である",
+    "abstract_ja": "マイクロバイオーム研究における再現性は、品質管理（QC）プロセスの前後におけるサンプルサイズおよびシーケンスカウントの透明性の高い報告にかかっている。この点は、2021年11月に発表されたSTORMS（Strengthening The Organization and Reporting of Microbiome Studies）チェックリストにおいて形式化された期待事項である。しかし、がんマイクロバイオーム研究が、サンプルサイズ、シーケンシング、および品質管理を規定するSTORMS項目に準拠しているかどうかは、依然としてほとんど検証されていない。本研究では、参加者数およびサンプル数、ラボでの処理、シーケンシング、バイオインフォマティクス処理、および実験対照にわたる、あらゆるマイクロバイオーム研究に適用される10項目のSTORMS項目に基づき、67件の臨床がんマイクロバイオーム研究を監査した。ほぼすべての研究において、参加者数（96%）および最終的な解析サンプル数（97%）が報告されていた。しかし、サンプルサイズ以外のSTORMS項目については報告漏れが多く、その割合は9%から36%に及んだ。報告があった研究のうち、これら8つの手法項目のうち2項目を報告していたのは中央値であり、16件の研究ではいずれの項目も報告されていなかった。STORMSの公開後も報告状況に測定可能な変化は見られず、ジャーナルのインパクトファクターとも関連していなかった。リード正規化、品質管理フィルタリング、分類群の除去、およびコンタミネーション処理といった側面は、がんマイクロバイオーム研究の最終結果に直接影響するため、これらの実装方法の違いは、当該分野の再現性のみならず、全般的な厳密性にとっても重大な影響を及ぼし得る。この問題を解決するには、科学者、助成機関、およびジャーナルが連携し、がんマイクロバイオームの手法報告に関するより厳格な基準を徹底することが不可欠である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762564",
+    "title": "Natural habitats are reservoirs of  Fusarium  lineages highly pathogenic on  Triticum aestivum",
+    "abstract": "Summary  Fungal plant diseases are a major cause of crop loss worldwide. Understanding the processes driving these diseases is therefore crucial to anticipate and control epidemics while improving crop yield production. Moreover, the new European « Green Deal » aims to reduce the use of pesticides, while, few alternatives are currently available on the market. There is therefore an urgent need to better track and anticipate fungal crop epidemics in the current context of fungicide reduction. In light of this, our study aims to understand  Fusarium spill overs from non-agricultural habitats in order to better characterise potential non-host  Fusarium reservoirs that may be implicated in the emergence of  Fusarium diseases. To address this question, we isolated  Fusarium lineages from natural populations of  Brassica rapa . We characterised their phylogenomic affiliation and found that they display high diversity, with a population structure related to the locality of isolation. By inoculation assays, we identified  Fusarium strains from non-agricultural habitats that were highly aggressive on wheat. In addition, we observed a strong effect of wheat variety on disease development. We monitored the  Fusarium colonisation through a microscopy approach in both wheat and  Brassica plants. We observed that while the fungus is mostly on root surface in  Brassica plants, it spreads inter-cellularly in wheat roots with vascular colonisation in the wheat shoots. Finally, we showed that most aggressive  Fusarium strains were isolated from Brittany, a French region where wheat is vastly cultivated.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762564",
+    "date": "2026-10-31",
+    "authors": "Mauriat J, Lefebvre B, Bonhomme L, Martinez Y, Le Ru A, Vailleau F, Bartoli C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354966",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1624,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.28.762564"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e08453739f5e08cf9ebf6bb86199fb9911c0678db9c9bfc71feb6f6478e17daa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:18:40.483706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a2b48c62888497d214deb36151144c0144792e48d6877b8861a90694ce84b4ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:18:40.483706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "自然生息地は、Triticum aestivumに対して極めて強い病原性を有するFusarium属系統の貯蔵庫である。",
+    "abstract_ja": "要旨  真菌性植物病害は、世界的に作物損失の主要な原因となっている。したがって、これらの病害を駆動するプロセスを理解することは、病害の発生を予測・制御し、同時に作物の収量を向上させる上で極めて重要である。さらに、欧州の新たな「グリーンディール」は農薬の使用量削減を目指しているが、現在市場で利用できる代替手段はほとんどない。そのため、殺菌剤削減が進む現状において、真菌性作物病害の発生をより適切に追跡・予測することが急務となっている。こうした背景から、本研究では、真菌性病害の発生に関与している可能性のある非宿主性Fusariumリザーバーをより詳細に特性評価するため、非農業的生息地からのFusariumのスピルオーバーを解明することを目的とする。この課題に取り組むため、Brassica rapaの自然集団からFusarium系統を分離した。それらの系統ゲノム上の系統関係を解析したところ、高い多様性を示し、分離場所に関連した集団構造を有することが明らかになった。接種試験により、小麦に対して極めて強い攻撃性を示す非農業的生息地由来のFusarium株を同定した。加えて、小麦の品種が病害の発現に強い影響を及ぼすことを観察した。小麦およびBrassica植物の両方において、顕微鏡的手法を用いてFusariumの定着状況をモニタリングした。その結果、Brassica植物では真菌が主に根表面に存在しているのに対し、小麦では根の細胞間に広がり、小麦のシュートにおいて維管束への定着が見られることが観察された。最後に、最も攻撃性の高いFusarium株が、小麦が広く栽培されているフランスのブルターニュ地方から分離されたことを示した。"
   }
 ]
