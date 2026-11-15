@@ -257109,5 +257109,330 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "毒性予測ツールは新規化学物質には一般化できない",
     "abstract_ja": "計算科学的な毒性予測は、直接的に検証されることは稀なある仮定に基づいている。すなわち、分子構造には、化合物がヒト患者に有害な影響を及ぼすかどうかを予測するのに十分な情報が含まれているという仮定である。我々は、ブラックボックス警告が付与されているか、あるいは市場から撤退した薬剤を「毒性あり」としてラベル付けした、厳選された569種類の承認済み医薬品パネルを用いて毒性予測手法のベンチマーク評価を行った。フィンガープリントベースのQSAR、ファインチューニング済みの基盤エンコーダ、および毒性特化型ツールにわたる35種類のモデルリードアウトを評価した。学習済み表現で単純なフィンガープリントを上回るものは一つもなく、ボトルネックは表現の精緻さにあるわけではないことが示唆された。毒性予測に特化して学習されたツールのうち、偶然レベルを上回る性能を示したのはわずか1つであり、承認年のみで説明できる結果――すなわち化学構造を一切含まない予測器――に合致するものは一つもなかった。薬物誘発性肝障害（DILI）に特化したツールで、本パネルにおいて確実に偶然レベルを上回ったものは存在せず、一部のツールが成功した外部セットは、承認年のみで概ね予測可能なものである。これらの結果は、入力としての分子構造の限界を指摘しており、今後の進展は、構造のみに関するモデルの改良よりも、曝露と代謝を捉える入力に依存することを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.759696",
+    "title": "Two genomes in one mitochondrion: mitochondrial heteroplasmy and mitogenome dynamics in  Chlamydomonas reinhardtii",
+    "abstract": "The mitochondrial genome of the model green alga  Chlamydomonas reinhardtii has long been described as a 15.8-kb linear molecule capped by inverted telomeres. Leveraging high-accuracy long-read sequencing to overcome limitations associated with conventional genome algorithm biases, we demonstrated that this classical paradigm was incomplete. Our analyses provided no evidence for canonical telomeric structures, instead revealed widespread structural heteroplasmy characterized by the coexistence of two distinct mitochondrial genome configurations. In addition to the historical 15.8-kb configuration (designated as config 2), an expanded 19-kb configuration (config 1) was found containing 4,001-bp terminal inverted repeats that duplicate the  cob and  nad4 genes. Single-molecule long-read profiling provided many reads longer than a single config 1 or 2 monomer and captured a dynamic network of multimeric mitochondrial DNA concatemers bridged with a conserved 17-bp homologous motif. Together, these structural features support a recombination-dependent replication (RDR) model that could enable mitochondrial DNA replication in the absence of conventional telomeric structures and reverse transcriptase-like (  rtl ) genes. We further identify widespread nuclear mitochondrial DNA segments (NUMTs), which complicate targeted amplification and quantification of these mitogenome configurations. Specifying NUMTs enabled configuration-specific digital PCR measurements across the laboratory lineage and additional field-isolated  Chlamydomonas strains, revealing substantial variation in the relative abundance of the two mitogenome configurations. These findings revise a four-decade-old model of the  C. reinhardtii mitogenome and provided a new framework for investigating mitochondrial genome architecture, structural heteroplasmy, and replication dynamics in photosynthetic eukaryotes.  Significance statement  For over four decades, the mitochondrial genome of the model alga  Chlamydomonas reinhardtii has been believed to be a streamlined, linear molecule capped by telomeres. Here, we revised this long-standing paradigm by showing that the mitogenome lacked canonical telomeric structures previously proposed. Instead, it exhibited widespread structural heteroplasmy characterized by the coexistence of two distinct mitogenome configurations and dynamic multimeric concatemers. These structural features supported a recombination-dependent replication model. We further identified widespread nuclear mitochondrial DNA segments (NUMTs) that confounded mitogenome-specific amplification and quantification. By resolving these two configurations and quantify their absolute abundances across laboratory and field-isolated strains, our findings provide a new framework for studying organelle genome architecture, replication mechanisms, and evolution in photosynthetic eukaryotes.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.759696",
+    "date": "2026-10-30",
+    "authors": "He Z, Bachvaroff TR, Gallaher SD, Li Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354285",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4785,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.29.759696"
+    ],
+    "translation": {
+      "title": {
+        "hash": "36d472146ad19d4d1a0421063bd8842e3e499d5aebd6520d4c316eda00b335b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:36:39.072432+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c63ba4dba4dc852bddea85c1f48163586a8320c9e0fa120f7d3d3060546e0f57",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:36:39.072432+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一ミトコンドリアにおける2つのゲノム：Chlamydomonas reinhardtiiにおけるミトコンドリアヘテロプラスミーとミトゲノム動態",
+    "abstract_ja": "モデル緑藻Chlamydomonas reinhardtiiのミトコンドリアゲノムは、長らく、逆位テロメアをキャップとする15.8 kbの線状分子として記述されてきた。従来のゲノム解析アルゴリズムのバイアスに伴う限界を克服するため、高精度なロングリードシーケンシングを活用し、我々はこの古典的なパラダイムが不完全であることを実証した。解析の結果、正準的なテロメア構造を示す証拠は見出されず、代わりに、2つの異なるミトコンドリアゲノム構成が共存することを特徴とする広範な構造的ヘテロプラズミーが明らかになった。従来の15.8 kb構成（config 2と呼称）に加え、cobおよびnad4遺伝子を複製する4,001 bpの末端逆位反復配列を含む、拡張された19 kb構成（config 1）が認められた。単分子ロングリードプロファイリングにより、config 1または2の単一モノマーよりも長いリードが多数得られ、保存された17 bpの相同モチーフで架橋された多量体ミトコンドリアDNAコンカテマーの動的ネットワークが捕捉された。これらの構造的特徴を総合すると、従来のテロメア構造や逆転写酵素様（rtl）遺伝子が存在しない状況下でもミトコンドリアDNA複製を可能とする、組換え依存性複製（RDR）モデルが支持される。さらに、我々は広範な核ミトコンドリアDNAセグメント（NUMTs）を同定したが、これらはこれらのミトゲノム構成の標的を絞った増幅および定量化を困難にしている。NUMTsを特定したことで、研究室系統および野外分離された追加のChlamydomonas株にわたって構成特異的なデジタルPCR測定が可能となり、2つのミトゲノム構成の相対的存在量に著しい変動があることが明らかになった。これらの知見は、C. reinhardtiiのミトゲノムに関する40年来のモデルを改訂するものであり、光合成真核生物におけるミトコンドリアゲノム構造、構造的ヘテロプラズミー、および複製動態を研究するための新たな枠組みを提供するものである。意義に関する記述：40年以上にわたり、モデル藻類Chlamydomonas reinhardtiiのミトコンドリアゲノムは、テロメアをキャップとする簡略化された線状分子であると考えられてきた。本研究では、ミトゲノムに従来提案されていた正準的なテロメア構造が欠如していることを示し、この長年のパラダイムを改訂した。代わりに、2つの異なるミトゲノム構成と動的な多量体コンカテマーの共存を特徴とする、広範な構造的ヘテロプラズミーが認められた。これらの構造的特徴は、組換え依存性複製モデルを支持するものである。さらに、我々はミトゲノム特異的な増幅および定量化を困難にする広範な核ミトコンドリアDNAセグメント（NUMTs）を同定した。これら2つの構成を解明し、研究室系統および野外分離株にわたってその絶対存在量を定量化したことで、我々の知見は、光合成真核生物におけるオルガネラゲノム構造、複製機構、および進化を研究するための新たな枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11551750/v1",
+    "title": "EV-PROTEOMICS: A Database-Driven Computational Framework for Refining Extracellular Vesicle-Associated Protein Profiles in Genotoxicity and Carcinogenicity Research",
+    "abstract": "Abstract  Carcinogenicity assessment using rodent bioassays is constrained by interspecies differences, cost, duration, and ethical concerns, highlighting the need for human-relevant New Approach Methodologies (NAMs). Extracellular vesicles (EVs) are potential sources of molecular biomarkers, but heterogeneous EV-associated proteomic data can complicate the identification of mechanistically informative patterns. We present EV-PROTEOMICS, a database-driven computational framework for refining curated EV-associated protein profiles across predefined toxicological reference categories. Protein profiles were represented as binary data and processed using a subtractive refinement strategy. Twelve reference substances representing genotoxic and non-genotoxic categories were evaluated. Refinement reduced the genotoxicity-associated protein set from 245 to 119 proteins. Jaccard dissimilarity and Principal Coordinates Analysis showed that the proportion of variation represented by the first two axes increased from 31.2% in the initial dataset to 66.3% after refinement. Further mechanistic exploration prioritized candidates, including NDRG2 and NFE2L2, in profiles associated with aromatic amine/nitrosamine reference substances. These findings provide an in silico proof of concept for refining EV-associated protein datasets and generating candidate signatures for mechanistic toxicology research. Independent datasets and experimental studies are required to assess reproducibility and determine discriminatory or predictive performance.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11551750/v1",
+    "date": "2026-10-30",
+    "authors": "Nascimento NSO, Costa AO, Gonçalves WBP, Rebuiti BM, Faria ABS, Tagliati CA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353800",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "framework",
+        "protein",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "database",
+          "framework",
+          "protein",
+          "proteomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4786,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.21203/rs.3.rs-11551750/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fab470f7a6bcb276f2c27b4a102c4449f8b60bd154ecbbf3001397f4b3249583",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:36:39.072432+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b73a96d624437685a2a24d607b67cdfc4c92abf4e778ef8a279e3d5e506a6c35",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:36:39.072432+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "EV-PROTEOMICS：遺伝毒性および発がん性研究における細胞外小胞関連タンパク質プロファイルの精緻化に向けたデータベース駆動型計算フレームワーク",
+    "abstract_ja": "要旨　齧歯類バイオアッセイを用いた発がん性評価は、種間の差異、コスト、所要時間、および倫理的懸念といった制約を受けており、ヒトに適用可能な新規アプローチ手法（NAMs）の必要性が浮き彫りとなっている。細胞外小胞（EV）は分子バイオマーカーの潜在的な供給源であるが、EV関連のプロテオームデータは不均一であるため、機序的に有益なパターンの同定を困難にすることがある。本研究では、あらかじめ定義された毒性学的参照カテゴリーにわたって、キュレートされたEV関連タンパク質プロファイルを精緻化するためのデータベース駆動型計算フレームワーク「EV-PROTEOMICS」を提案する。タンパク質プロファイルは二値データとして表現され、減算精緻化戦略を用いて処理された。遺伝毒性および非遺伝毒性カテゴリーを代表する12種類の参照物質を評価した。精緻化により、遺伝毒性関連タンパク質セットは245個から119個へと減少した。Jaccard非類似度および主成分分析の結果、最初の2軸で表される変動の割合は、初期データセットの31.2%から精緻化後には66.3%に増加した。さらなる機序的探索により、芳香族アミン／ニトロサミン参照物質に関連するプロファイルにおいて、NDRG2やNFE2L2を含む候補が優先的に抽出された。これらの知見は、EV関連タンパク質データセットの精緻化、および機序毒性学研究のための候補シグネチャー生成に関するin silico概念実証を提供するものである。再現性を評価し、識別能または予測性能を判定するためには、独立したデータセットおよび実験的研究が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2947.v1",
+    "title": "A Hybrid Reinforcement Learning-Based Adaptive Genetic Algorithm for Order-Picking System",
+    "abstract": "The Order-Picking System (OPS) is a critical determinant of warehouse efficiency, accounting for a substantial proportion of operational costs and directly influencing customer service performance. Under Industry 4.0 conditions, OPS optimization is increasingly challenged by dynamic order arrivals, time-critical fulfillment, and complex resource constraints. Conventional optimization techniques, including Genetic Algorithms (GAs), provide robust global search capabilities but suffer from limited adaptability due to static parameter configurations, often leading to premature convergence or suboptimal solutions in dynamic environments. This study proposes a hybrid Reinforcement Learning-based Adaptive Genetic Algorithm (RLAGA) that integrates an Actor–Critic reinforcement learning mechanism to dynamically adjust GA hyperparameters during the evolutionary search process. By enabling real-time adaptation of mutation probability, crossover probability, and elite selection rate, the proposed framework enhances responsiveness to evolving search landscapes in order batching and assignment problems. Extensive computational experiments conducted within a realistic OPS simulation environment demonstrate that RLAGA achieves a 1.43% reduction in total tardiness and converges 20% faster than a standard GA, albeit at the expense of increased computational time. The results confirm that reinforcement learning-driven parameter control significantly improves solution quality and convergence behavior in complex OPS scenarios. This research contributes to intelligent warehouse optimization by demonstrating the effectiveness of hybrid RL–GA architectures and provides a foundation for scalable, adaptive decision-support systems in Industry 4.0 logistics.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2947.v1",
+    "date": "2026-10-29",
+    "authors": "Ou S, Ismail ZH, Goycochea Casas G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353623",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "gene",
+        "genetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4789,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.20944/preprints202610.2947.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1576c2796c075764a5560660118a6caafb70e4f57ffc93ca2c4a6c2932f84fd0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:36:39.072432+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1b7623c5c2e42f6cf1016d79c23983aa320fe0518bd0b06a1988f099063e0a4a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:36:39.072432+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オーダーピッキングシステムのための強化学習に基づくハイブリッド適応型遺伝的アルゴリズム",
+    "abstract_ja": "オーダーピッキングシステム（OPS）は倉庫効率を決定づける極めて重要な要素であり、運用コストの相当な割合を占めるとともに、顧客サービスのパフォーマンスに直接的な影響を及ぼす。インダストリー4.0の環境下では、動的なオーダーの入荷、時間制約の厳しいフルフィルメント、および複雑なリソース制約により、OPSの最適化はますます困難な課題となっている。遺伝的アルゴリズム（GA）を含む従来の最適化手法は、堅牢な大域的探索能力を備えているものの、パラメータ設定が静的であるため適応性に限界があり、動的な環境下では早期収束や最適ではない解に至ることが多い。本研究では、アクター・クリティック強化学習メカニズムを統合し、進化探索プロセスにおいてGAのハイパーパラメータを動的に調整する、ハイブリッド型強化学習ベース適応遺伝的アルゴリズム（RLAGA）を提案する。突然変異確率、交叉確率、およびエリート選択率のリアルタイム適応を可能にすることで、本フレームワークはオーダーバッチングおよび割り当て問題における進化する探索環境への応答性を向上させる。現実的なOPSシミュレーション環境内で実施した広範な計算実験により、RLAGAは計算時間の増加を伴うものの、総遅延時間を1.43%削減し、標準的なGAよりも20%速く収束することが実証された。これらの結果は、強化学習によるパラメータ制御が、複雑なOPSシナリオにおいて解の品質と収束挙動を著しく改善することを裏付けている。本研究は、ハイブリッド型RL-GAアーキテクチャの有効性を実証することでインテリジェントな倉庫最適化に寄与し、インダストリー4.0の物流におけるスケーラブルで適応的な意思決定支援システムの基盤を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2839.v1",
+    "title": "A Hybrid Reinforcement Learning-Based Adaptive Genetic Algorithms for Order-Picking System",
+    "abstract": "The Order-Picking System (OPS) is a critical determinant of warehouse efficiency, accounting for a substantial proportion of operational costs and directly influencing customer service performance. Under Industry 4.0 conditions, OPS optimization is increasingly challenged by dynamic order arrivals, time-critical fulfillment, and complex resource constraints. Conventional optimization techniques, including Genetic Algorithms (GAs), provide robust global search capabilities but suffer from limited adaptability due to static parameter configurations, often leading to premature convergence or suboptimal solutions in dynamic environments. This study proposes a hybrid Reinforcement Learning-based Adaptive Genetic Algorithm (RLAGA) that integrates an Actor–Critic reinforcement learning mechanism to dynamically adjust GA hyperparameters during the evolutionary search process. By enabling real-time adaptation of mutation probability, crossover probability, and elite selection rate, the proposed framework enhances responsiveness to evolving search landscapes in order batching and assignment problems. Extensive computational experiments conducted within a realistic OPS simulation environment demonstrate that RLAGA achieves a 1.43% reduction in total tardiness and converges 20% faster than a standard GA, albeit at the expense of increased computational time. The results confirm that reinforcement learning-driven parameter control significantly improves solution quality and convergence behavior in complex OPS scenarios. This research contributes to intelligent warehouse optimization by demonstrating the effectiveness of hybrid RL–GA architectures and provides a foundation for scalable, adaptive decision-support systems in Industry 4.0 logistics.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2839.v1",
+    "date": "2026-10-28",
+    "authors": "Ou S, Ismail ZH, Casas GG.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352635",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "gene",
+        "genetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4794,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.20944/preprints202610.2839.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e3effe6f31cfc85a448b6cd243b84e83bbb78b57422cc5a896ae941402f30f40",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:36:39.072432+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1b7623c5c2e42f6cf1016d79c23983aa320fe0518bd0b06a1988f099063e0a4a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:36:39.072432+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オーダーピッキングシステム向け強化学習に基づくハイブリッド適応型遺伝的アルゴリズム",
+    "abstract_ja": "オーダーピッキングシステム（OPS）は倉庫効率を決定づける極めて重要な要素であり、運用コストの相当な割合を占めるとともに、顧客サービスのパフォーマンスに直接的な影響を及ぼす。インダストリー4.0の環境下では、動的なオーダーの入荷、時間制約の厳しいフルフィルメント、および複雑なリソース制約により、OPSの最適化はますます困難な課題となっている。遺伝的アルゴリズム（GA）を含む従来の最適化手法は、堅牢な大域的探索能力を備えているものの、パラメータ設定が静的であるため適応性に限界があり、動的な環境下では早期収束や最適ではない解に至ることが多い。本研究では、アクター・クリティック強化学習メカニズムを統合し、進化探索プロセスにおいてGAのハイパーパラメータを動的に調整する、ハイブリッド型強化学習ベース適応遺伝的アルゴリズム（RLAGA）を提案する。突然変異確率、交叉確率、およびエリート選択率のリアルタイム適応を可能にすることで、本フレームワークはオーダーバッチングおよび割り当て問題における進化する探索環境への応答性を向上させる。現実的なOPSシミュレーション環境内で実施した広範な計算実験により、RLAGAは計算時間の増加を伴うものの、総遅延時間を1.43%削減し、標準的なGAよりも20%速く収束することが実証された。これらの結果は、強化学習によるパラメータ制御が、複雑なOPSシナリオにおいて解の品質と収束挙動を著しく改善することを裏付けている。本研究は、ハイブリッド型RL-GAアーキテクチャの有効性を実証することでインテリジェントな倉庫最適化に寄与し、インダストリー4.0の物流におけるスケーラブルで適応的な意思決定支援システムの基盤を提供するものである。"
   }
 ]
