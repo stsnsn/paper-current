@@ -249298,5 +249298,330 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "プロバイオティクス酵母候補 Pichia kluyveri PK88™ のゲノムおよびin vitro特性解析",
     "abstract_ja": "非サッカロマイセス属酵母はプロバイオティクス候補として関心が高まっているが、菌株レベルの特性解析は依然として限られている。本研究では、コーヒー豆から単離したPichia kluyveri PK88™（NRRL寄託番号 # 68561）について、表現型アッセイ、全ゲノムシーケンシング、およびin silicoスクリーニングを用いて特性解析を行った。PK88™は非溶血性であり、検出可能なパトゥリン、オクラトキシンA、またはアフラトキシンを産生しなかった。ゲノム解析により種同定（平均ヌクレオチド同一性 98.5–98.8%）が確認され、獲得性抗微生物耐性遺伝子、正準病原因子、または有害な生体内アミンに対する脱炭酸酵素は同定されなかった。高接種菌液マイクロダイリューション法による測定では、エキノカンジン類およびアンフォテリシンBの最小発育阻止濃度（MIC）は低く、フルコナゾールおよびポサコナゾールでは高かった。酸、胆汁、および嫌気的条件への曝露後の生存率は維持されたが（pH 2で93%、胆汁中で82–84%）、pH 1および嫌気条件下での生存率は低下した。疎水性は91%から73–77%に低下し、自己凝集は98–100%に上昇した。PK88上清は、予備アッセイにおいてEscherichia coliおよびCandida albicansを阻害した。2つの独立した実験において、PK88™に曝露したCaco-2細胞は、最大6 × 10⁴個/ウェルまでのすべての反復試験で20%以下の細胞毒性を示し、高用量では変動的な増加が認められた。これらの予備データは、さらなる評価を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761338",
+    "title": "Pervasive short hairpin folding in non-encapsidated RNA viruses",
+    "abstract": "Genome-wide RNA secondary structure can influence viral replication, stability, translation, and interactions with host defenses, yet its distribution and significance across RNA viruses remain poorly understood. We developed the pervasive hairpin (peHaPi) metric to quantify densely distributed stem-loop structures and applied it to 817,234 GenBank virus sequences. This revealed a distinctive RNA architecture characterized by numerous short, highly uniform hairpins spanning most of the genome. The structure was strongly enriched in capsidless RNA viruses, encompassing nearly all ormycoviruses and a substantial fraction of narnaviruses, although it also occurred in several other RNA and DNA virus groups. Comparative analyses showed that increasing peHaPi scores appeared associated with more stable and constrained predicted RNA structures and altered codon base-pairing patterns, indicating selective constraints imposed by pervasive folding. Relationships between peHaPi and RdRp sequence similarity differed among virus groups, consistent with independent evolutionary origins of this structural phenotype. Analysis of virus-derived small RNAs provided no evidence that peHaPi(+) viruses elicit a reduced siRNA response, arguing against siRNA evasion as its primary function. Finally, combining peHaPi classification with DNA-read subtraction identified candidate RNA virus contigs lacking detectable protein homology or recognizable RdRp signatures across multiple independent datasets. These findings reveal pervasive short-hairpin organization as a novel feature of predominantly capsidless viruses and establish genome-wide RNA structure as a complementary signature for discovering highly divergent ormyco-and narnaviruses. Repositories  The raw sequence reads have been deposited in the NCBI Sequence Read Archive under BioProject accession number  PRJNA1549704 .",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761338",
+    "date": "2026-10-27",
+    "authors": "Dekker RJ, de Leeuw WC, van Olst MF, Ensink WA, van Leeuwen SM, Breit TM, Jonker MJ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351691",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 494,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.761338"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e8c48942a612c9cb0c931be48d0330e9c06905f8c50847e7c6beb35cd023f594",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:34:23.611388+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "80757b4b794d251273380d44d5db69fcd096eada7da22e26dda75826d4d73208",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:34:23.611388+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非エンカプシド化RNAウイルスにおける広範な短ヘアピンフォールディング",
+    "abstract_ja": "ゲノムワイドなRNA二次構造は、ウイルスの複製、安定性、翻訳、および宿主防御機構との相互作用に影響を及ぼし得るが、RNAウイルスにおけるその分布と意義については依然として十分に解明されていない。我々は、高密度に分布するステムループ構造を定量化するためにpervasive hairpin（peHaPi）指標を開発し、GenBankのウイルス配列817,234件に適用した。その結果、ゲノムの大部分にわたって多数の短く極めて均一なヘアピンが認められるという、特徴的なRNA構造が明らかになった。この構造はカプシドを持たないRNAウイルスに顕著に豊富に認められ、ほぼすべてのオルミコウイルスおよび相当数のナルナウイルスに含まれていたが、他のいくつかのRNAおよびDNAウイルス群にも認められた。比較解析により、peHaPiスコアの上昇は、より安定し制約を受けた予測RNA構造および変化したコドン塩基対形成パターンに関連しているようであり、これは広範なフォールディングによって課された選択的制約を示唆している。peHaPiとRdRpの配列類似性との関係はウイルス群間で異なっており、この構造表現型が独立して進化的に起源を持つことと整合している。ウイルス由来の小分子RNAの解析では、peHaPi(+)ウイルスがsiRNA応答を減弱させるという証拠は得られず、siRNA回避が主要な機能であるという説は否定された。最後に、peHaPi分類とDNAリード減算を組み合わせることで、複数の独立したデータセットにおいて、検出可能なタンパク質相同性や認識可能なRdRpシグネチャーを欠くRNAウイルス候補コンティグを同定した。これらの知見は、広範な短ヘアピン構造が主にカプシドを持たないウイルスの新規特徴であることを明らかにするとともに、ゲノムワイドなRNA構造が、高度に分岐したオルミコウイルスおよびナルナウイルスを発見するための補完的なシグネチャーとなることを立証するものである。リポジトリ：生の配列リードは、BioProjectアクセッション番号PRJNA1549704としてNCBI Sequence Read Archiveに寄託されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.24.761589",
+    "title": "Plant Organellar Homologous Recombination Depends on Accessory Factors for Recombinase Activity",
+    "abstract": "ABSTRACT  Plant mitochondrial and plastid genomes rely on homologous recombination (HR) for error-free DNA repair of double strand breaks. Here, we reconstructed the homologous recombination pathway of plant organelles from Arabidopsis, aiming to understand how proteins of diverse evolutionary origins assemble into a functional repair pathway. We found that the three bacterial-derived recombinases, AtRecAs assemble D-loop intermediates, but only chloroplast AtRecA1 independently execute end-joining recombination on large DNA substrates. AtRecA1-mediated end-joining recombination is enhanced by plant-unique single-stranded DNA-binding proteins of the Whirly and Organellar Single-Stranded Binding (OSB) families, in contrast these proteins are mandatory for the recombination activities of the dual-targeted AtRecA2 and mitochondrial AtRecA3. Recombinational intermediates generated by AtRecAs are resolved by a bacterial-like RadA helicase but not bacterial-like RecG. Finally, AtRecX inhibits the recombinase activities of AtRecA2, while the activities of AtRecA1 and AtRecA3 remains largely insensitive. Collectively, our results provide an integrative reconstitution of the plant organellar homologous recombination machinery, revealing that homologous recombination arises from a complex system of bacterial, phage-derived, plant-specific, and eukaryotic components. Plant-specific ssDNA-binding proteins emerge as key regulators of this process, promoting recombination efficiency and genome stability, that supports the essential functions of homologous recombination in DNA repair and DNA replication maintenance. GRAPHICAL ABSTRACT  DNA repair pathways mediated by homologous recombination in plant organelles",
+    "journal": "",
+    "doi": "10.64898/2026.10.24.761589",
+    "date": "2026-10-27",
+    "authors": "Mora-Garduño J, Peralta-Castro A, Aguilar-Granados A, Raygoza CD, Díaz-Quezada C, Brieba LG.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351641",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 495,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.24.761589"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7ac2f4a2c3217c0624f58aca26b2463aebeb242ade48aa7aeeafad4ea29db359",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:34:23.611388+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "769ea67d56e06d64e6c693f61fe7c3d07e4e91567414ae58bbee51b6470fac4b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:34:23.611388+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "植物オルガネラの相同組換えは組換え酵素活性の補助因子に依存する",
+    "abstract_ja": "要旨　植物のミトコンドリアおよびプラスチドゲノムは、二本鎖切断のエラーフリーなDNA修復に相同組換え（HR）に依存している。本研究では、多様な進化的起源を持つタンパク質がいかにして機能的な修復経路へと組み上がるかを解明するため、シロイヌナズナの植物細胞小器官における相同組換え経路を再構築した。その結果、細菌由来の3種類の組換え酵素AtRecAがDループ中間体を組み立てるが、大型のDNA基質においてエンドジョイン型組換えを独立して実行するのは葉緑体AtRecA1のみであることが判明した。AtRecA1介在性のエンドジョイン型組換えは、植物特有のWhirlyおよびOrganellar Single-Stranded Binding（OSB）ファミリーの一本鎖DNA結合タンパク質によって促進されるが、対照的に、これらタンパク質は二重標的型のAtRecA2およびミトコンドリアAtRecA3の組換え活性には必須である。AtRecAによって生成された組換え中間体は、細菌様のRadAヘリカーゼによって解消されるが、細菌様のRecGでは解消されない。最後に、AtRecXはAtRecA2の組換え酵素活性を阻害するが、AtRecA1およびAtRecA3の活性はほとんど影響を受けない。総じて、本研究の結果は、植物細胞小器官の相同組換え機構の統合的な再構成を提供するものであり、相同組換えが細菌、ファージ由来、植物特異的、および真核生物由来の構成要素からなる複雑なシステムから生じることを明らかにしている。植物特異的な一本鎖DNA結合タンパク質はこのプロセスの主要な調節因子として機能し、組換え効率とゲノム安定性を促進することで、DNA修復およびDNA複製維持における相同組換えの不可欠な機能を支えている。図版付き要旨　植物細胞小器官における相同組換えを介したDNA修復経路"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761892",
+    "title": "Phagocytosis without mitochondria is a lineage trait of planctomycetal bacteria of prey",
+    "abstract": "Phagocytosis is considered energetically out of reach for prokaryotes. Mitochondria-first models of eukaryogenesis therefore suggest a non-phagocytic archaeal host. Yet two recently described planctomycetes lack mitochondria and engulf entire bacteria. Whether this mode of predation is an oddity of two isolates or the hallmark of a bacterial lineage remained unresolved. Here, we report eight additional predatory  Planctomycetota from three aquatic habitats. The ten cultured strains now span two classes of the phylum  Planctomycetota , ‘  Candidatus Uabimicrobiia’ and one newly proposed class. Using engineered fluorescent prey, we show that nine strains internalize prey into fully sealed compartments whereas one digests its prey externally, a non-engulfing predator for comparison. The strains additionally divide by two distinct modes, however, not correlating with their feeding behavior. Sequence- and structure-based searches detect no eukaryotic phagocytosis protein conserved across the engulfing strains. The actin homologue previously proposed to mediate uptake occurs only in three engulfing strains. Routine engulfment by aerobic bacteria without mitochondria thus unsettles a premise of mitochondria-first models and reopens the question of which cell plans could have hosted the mitochondrial endosymbiont.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761892",
+    "date": "2026-10-27",
+    "authors": "Wurzbacher CE, Hammer J, Haufschild T, Büyüktarakçı BS, Jiménez González A, Bouderka F, Soares AR, Müller JM, Muriel-Millan LF, Ferrelli ML, Hotter V, Taubert M, Küsel K, Devos D, Klingl A, Probst AJ, Andersson SGE, Kallscheuer N, Jogler C.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351616",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "prokaryote"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 496,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761892"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c67cf5308befe32339440f49c2cd5b1c12ef50e9a27732bff92966722ec54f7b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:34:23.611388+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "865adf65b9f43d0126808a6200d20842f504c05489c177ab380802c615715c02",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:34:23.611388+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ミトコンドリアを伴わない食作用は、餌生物のプランクトン性細菌の系統形質である。",
+    "abstract_ja": "食作用は、原核生物にとってエネルギー的に達成困難なものと考えられている。したがって、真核生物発生のミトコンドリア先行モデルは、非食作用性の古細菌宿主の存在を示唆する。しかし、近年報告された2種のプランクトミセス門細菌はミトコンドリアを欠きながら、細菌を丸ごと取り込んでいる。この捕食様式が2つの分離株における特異な例なのか、あるいは細菌系統の顕著な特徴なのかは、未解明のままであった。本研究では、3つの水圏生息地から得られた、さらに8種の捕食性プランクトミセス門細菌を報告する。培養されたこれら10株は、プランクトミセス門の2つの綱、「Candidatus Uabimicrobiia」と、新たに提唱された1つの綱にわたっている。工学的に作製した蛍光性餌生物を用いて、9株が餌生物を完全に密閉された区画内に取り込むのに対し、1株は餌生物を体外で消化すること（比較対象として、取り込まない捕食者）を示した。さらに、これらの株は2つの異なる様式で分裂するが、それらは摂食行動とは相関しない。配列および構造に基づく探索では、取り込みを行う株間で保存された真核生物の食作用タンパク質は検出されなかった。取り込みを媒介すると以前に提唱されたアクチンホモログは、取り込みを行う3株にのみ認められた。したがって、ミトコンドリアを持たない好気性細菌による通常の取り込みは、ミトコンドリア先行モデルの前提に疑問を投げかけるとともに、どの細胞プランがミトコンドリア内共生体の宿主となり得たのかという問いを改めて提起するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11496080/v1",
+    "title": "NMR metabolome and stool consistency in IBS: a layer-wise multi-omics comparison",
+    "abstract": "Abstract    Background  Irritable bowel syndrome (IBS) is markedly heterogeneous [1], and existing biological subtyping based on taxonomy (16S/metagenomic species) has limited predictive ability under subject-level validation. Using real clinical labels (IBS subtype, IBS-SSS severity, and Bristol stool consistency), this study performs a unified, subject-grouped cross-validated comparison across multiple omics layers and completes held-out zero-shot validation and label-blind transductive cross-cohort stability selection in an external cohort (zero contact with target-domain labels). The core comparison task is Bristol stool consistency regression; the three-class task serves only as an auxiliary control.  Methods  We used the Cell 2020 longitudinal multi-omics cohort [2] (75 subjects, 464 clinically labeled stool samples: IBS-D 169, IBS-C 142, healthy 153; layer-specific availability differed: genus/species 457, KO/KEGG 459, NMR 445). The Bristol score constructed from stool diaries (441 samples, 67 subjects; IBS-D 4.92 > healthy 3.94 > IBS-C 2.93, direction validated) served as the core quantitative phenotype. Eight feature layers were compared: genus/species taxonomy, SHOGUN KEGG Orthology (KO) genes, KEGG pathways (375 aggregated), NMR metabolome (19), bile acids (12), tryptophan metabolites (12), and NMR+taxonomy combined (163 dimensions). All modeling used subject-grouped 5-fold cross-validation (StratifiedGroupKFold/GroupKFold) with nested tuning; Ridge/ElasticNet for regression (evaluated by OOF R² and Spearman  ρ  ) and L2 logistic regression for classification. Cross-layer consistency was assessed by Spearman correlation between functional potential and metabolite pools (n = 423). Cell 2020-trained models were frozen and blindly tested zero-shot on the Jacobs 2023 cohort [3] (368 samples × 601 metabolites). Finally, source-domain closed-loop stability selection was performed (  π  _uni_cell using only source-domain grouped bootstrap, B = 300; platform-shift KS using only target-domain unlabeled features; two sensitivity levels, pre-screening nested and fully nested, with gates recomputed within resampling). After freezing the selector, a fully held-out zero-shot evaluation was performed on Jacobs (2000× paired bootstrap) to define the cross-platform stable core (Iron-Core). Two-sample Mendelian randomization (MR) was used to test potential causal effects of 27 candidate genera on IBS risk between the MiBioGen microbiome GWAS [4] and the IBS GWAS (GCST90016564) [5] (IVW/weighted median/MR-Egger plus Cochran Q and leave-one-out sensitivity, with global BH-FDR correction).  Results  ① The taxonomic layer showed limited signal for the IBS-D/C/healthy three-class task in the  full sample  (genus 0.506 ± 0.077, 95% CI [0.421, 0.595], permutation p = 0.005; species 0.520 ± 0.134, 95% CI [0.434, 0.611]; chance = 0.333), rising to 0.556/0.559 on the common complete subset and clustering with NMR (see ②); no reliable signal for IBS-SSS severity (genus balanced accuracy = 0.500, 95% CI [0.420, 0.578], permutation p = 0.458; only 2/70 features q ρ   = 0.468 (16/19 significant), and it remained highest on the common complete subset (0.193 vs 0.196). Its OOF R² point estimate exceeded those of taxonomy (genus 0.089/subset 0.037; species 0.043/subset − 0.023), bile acids (0.053/0.073), tryptophan (0.023/0.015), and functional gene layers (KO 0.005/−0.039; KEGG 0.036/−0.008); the unfiltered NMR+genus combined model was 0.171/0.165, lower than NMR; after filtering at the same prevalence = 0.10, the combined model was 0.204 (19 NMR + 68 genera, n = 424), not significantly different from NMR alone (  Δ  R²=+0.006, 95% CI − 0.081–+0.095, p = 0.454)—the earlier “combined dilution” was mainly caused by unfiltered low-prevalence genera. The ordering of mid-tier layers (genus, species, bile acids, tryptophan) was sensitive to sample composition (genus and bile acids swapped on the subset) and does not constitute a strong ranking claim. In the auxiliary three-class task, full-sample NMR balanced accuracy = 0.558 ± 0.085, but on the common subset NMR (0.556) clustered with genus (0.556), species (0.559), and combined (0.565), indistinguishable from one another—layer ordering in the classification task is sensitive to sample composition and does not provide evidence that “NMR is optimal for classification.” Within-NMR Shapley decomposition showed that  the SCFA group's marginal contribution was  φ     = 0.106, 2.4 times the amino-acid group's  φ     = 0.045  (remove SCFA  Δ  R²=0.076, p = 0.002; remove AA  Δ  R²=0.016, p = 0.085, not significant)—upgrading “SCFA dominance” from a qualitative ordering to a reproducible decomposition conclusion. ③ The markers most strongly positively correlated with Bristol were acetate (  ρ   = 0.414), butyrate (0.379), lysine (0.374), tyrosine (0.311), propionate (0.297), succinate (0.273), and branched-chain amino acids (0.19–0.23); the branched short-chain fatty acid 2-methylbutyrate was the only significant negative correlate (− 0.185). ④ Within subtypes (exploratory): NMR retained signal within IBS-C (  ρ   = 0.288, subject-cluster bootstrap 95% CI [+ 0.074, + 0.483]; R² CI crossed zero); no robust signal was detected within IBS-D (  ρ  =−0.263, 95% CI [− 0.573, + 0.128] crossing zero, P(  ρ   ≥ 0) = 0.083; R²=−0.048, 95% CI [− 0.226, − 0.001] on the negative side, indicating no predictive ability)—under the power constraint of n ≈ 150, this is only an exploratory hypothesis and is insufficient to support unsupervised subgrouping within subtypes. ⑤ Cross-layer validation: functional potential and metabolite pools were generally weakly coupled, but  the butyrate-producing community genomic abundance marker bcd (K00248, butyryl-CoA dehydrogenase gene, non-rate-limiting enzyme) was significantly positively correlated with the fecal butyrate pool (  ρ     = 0.265, q = 8×10⁻⁶)  ; BSH/bai showed no association with the bile acid pool—“potential ≠ activity.” ⑥ Zero-shot cross-cohort validation (Cell 2020 → Jacobs 2023): the 11 shared-metabolite model achieved Diarrhea vs Constipation+Mixed AUC = 0.647 (D vs C sensitivity 0.676),  ρ  =+0.278, with directional replication in 11/11 (one-sided sign test p = 4.9×10⁻⁴; features are not independent, so this p value is descriptive only); the random 11-feature baseline AUC = 0.506 (95% CI 0.434–0.589, p = 0.005), but a demographics-only (age/BMI/sex) baseline already reached AUC = 0.593 (95% CI 0.509–0.675), and R11's increment over demographics was + 0.053 (95% CI − 0.045–+0.153, p = 0.148), not significant; the full-feature model including unmeasurable SCFAs collapsed to AUC = 0.558—feature transferability is the first constraint on cross-cohort generalization. ⑦  Source-domain closed-loop stability selection (label-blind transductive  :  π  _uni_cell ≥ 0.8 + platform-shift KS   ; after freezing, zero-shot AUC on the fully held-out target cohort was 0.634 (95% CI 0.559–0.705),  ρ  =+0.243—not significantly different from the 11-shared-feature set (R11, 0.647; paired  Δ  AUC = − 0.013, p = 0.805), and significantly better than the full 16-feature set including imputed SCFAs (F16, 0.558;  Δ  AUC = + 0.075, p = 0.013). ⑧ Two-sample MR (genus→IBS causal test independent of the metabolite layer; 313 pruned SNPs → 259 harmonized SNPs): under the current instrumental-variable power and approximate distance-pruning framework,  no robust potential causal effect was detected  (minimum FDR = 0.835); the strongest nominal signals were Bifidobacterium (OR = 1.070 [1.004–1.141], p = 0.039) and Eubacterium hallii group (OR = 1.074, p = 0.062), both with low heterogeneity (Cochran Q p > 0.7), no evidence of horizontal pleiotropy (Egger intercept p > 0.85), and stable leave-one-out estimates, but observational and causal directions did not converge; Roseburia showed a nominal protective trend (OR = 0.930, p = 0.219), opposite to its positive observational correlation (  ρ  =+0.284).  Conclusions  Under subject-grouped cross-validation,  the layer with the highest point-estimate OOF R² for the Bristol continuous-trait regression task  was the metabolome (within NMR, dominated by the SCFA group: Shapley  φ   = 0.106, 2.4 times  φ  _AA = 0.045), not taxonomy or functional gene potential. The cross-cohort platform-robust core was data-driven and conditionally stable at 5 metabolites (lysine, tyrosine, uracil, glucose, leucine), achieving discrimination on the fully held-out target cohort that was not significantly different from the 11-shared-feature set with fewer features (0.634 vs 0.647), and significantly better than the 16-feature full model (0.558). The results support three mechanistic axes in terms of directional consistency, but with different levels of evidence:  SCFA→serotonin→intestinal motility  is supported mainly by within-NMR evidence (Shapley  φ   = 0.106, consistent marker direction spectrum); the  proteolytic fermentation fingerprint  is supported by the directional consistency of BCAAs/aromatic amino acids; and the  bile acid–TGR5 secretomotor  axis is supported only by the directional positive correlation of the bile-acid layer Top6 with loose stools, lacking functional/causal validation (“potential ≠ activity”). In the single-layer comparison, the feature-layer ranking was direct metabolic measurement > taxonomy > functional potential—this ranking applies only to the single-layer comparison for the Bristol regression task and should not be extrapolated to subtype classification (in the three-class task, NMR and taxonomic layers were indistinguishable on the common subset and the ordering was not robust), nor to combined models (after the same filtering, the combined model was not significantly different from NMR). It also shows that predictive magnitude and cross-domain transferability are not equivalent—the cross-cohort stable core is not the strongest within-domain feature. Two-sample MR further indicates that, under the current instrumental-variable power and approximate LD-pruning framework, no robust potential causal evidence was detected between mainstream candidate genera and IBS risk (none significant after FDR correction), and causal interpretation of observational microbiome–phenotype associations requires larger samples, bidirectional designs, and stronger instruments.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11496080/v1",
+    "date": "2026-10-27",
+    "authors": "Sui Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351404",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 497,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11496080/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bc009c111ab4d7da884207181ab7aafda61b502189758557e79644e4389e7cd8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:34:23.611388+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a519d2e0207d4d0109bb0b6ab41fe25e971981c1173bfbce72a23f693d884c6b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:34:23.611388+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "IBSにおけるNMRメタボロームと便性状：レイヤー別マルチオミクス比較",
+    "abstract_ja": "要旨    背景  過敏性腸症候群（IBS）は極めて不均一であり [1]、分類学に基づく既存の生物学的サブタイピング（16S/メタゲノム種）は、被験者レベルの検証下では予測能が限られている。本研究では、実際の臨床ラベル（IBSサブタイプ、IBS-SSS重症度、ブリストル便性状）を用い、複数のオミクス層にわたる統一的な被験者グループ別クロスバリデーション比較を行い、外部コホート（ターゲットドメインラベルとの接触ゼロ）においてホールドアウト・ゼロショット検証およびラベルブラインドのトランスダクティブ・クロスコホート安定性選択を完了させた。中核となる比較タスクはブリストル便性状回帰であり、3クラスタスクは補助的な対照としてのみ機能する。  方法  Cell 2020の縦断的マルチオミクスコホート [2]（被験者75名、臨床ラベル付き便サンプル464検体：IBS-D 169、IBS-C 142、健常者153。層別可用性は異なり、属/種 457、KO/KEGG 459、NMR 445）を用いた。便日記から構築したブリストルスコア（サンプル441、被験者67；IBS-D 4.92 ＞ 健常者 3.94 ＞ IBS-C 2.93、方向検証済み）を中核的な定量的表現型とした。属/種分類、SHOGUN KEGGオーソロジー（KO）遺伝子、KEGGパスウェイ（375個を集約）、NMRメタボローム（19）、胆汁酸（12）、トリプトファン代謝物（12）、およびNMR+分類の組み合わせ（163次元）の8つの特徴層を比較した。すべてのモデリングには、ネスト型チューニングを用いた被験者グループ別5分割クロスバリデーション（StratifiedGroupKFold/GroupKFold）を採用した。回帰にはRidge/ElasticNetを用い（OOF R²およびSpearman ρで評価）、分類にはL2ロジスティック回帰を用いた。層間の一貫性は、機能的ポテンシャルと代謝物プールのSpearman相関（n = 423）で評価した。Cell 2020で学習させたモデルを凍結し、Jacobs 2023コホート [3]（サンプル368 × 代謝物601）でゼロショットのブラインドテストを行った。最後に、ソースドメインのクローズドループ安定性選択（ソースドメイングループ化されたブートストラップのみを用いた π_uni_cell、B = 300；ターゲットドメインの未ラベル特徴量のみを用いたプラットフォームシフトKS；事前スクリーニングのネスト型とフルネスト型の2つの感度レベルを用い、リサンプリング内でゲートを再計算）を実施した。セレクタを凍結した後、Jacobs（2000 × ペアブートストラップ）でフルホールドアウト・ゼロショット評価を行い、クロスプラットフォームで安定したコア（Iron-Core）を定義した。MiBioGenマイクロバイオームGWAS [4] とIBS GWAS (GCST90016564) [5] の間で、27の候補属がIBSリスクに及ぼす潜在的な因果効果を検証するため、2サンプル・メンデルランダム化（MR）を用いた（IVW/重み付き中央値/MR-Egger ＋ Cochran Q および leave-one-out感度、グローバルBH-FDR補正）。  結果  ① 分類層は、フルサンプルにおけるIBS-D/C/健常者の3クラスタスクで信号が限定的であった（属 0.506 ± 0.077, 95% CI [0.421, 0.595]、置換p = 0.005；種 0.520 ± 0.134, 95% CI [0.434, 0.611]；偶然 = 0.333）。共通の完全サブセットでは0.556/0.559まで上昇し、NMRとクラスターを形成した（②参照）。IBS-SSS重症度については信頼できる信号が得られなかった（属のバランス正解率 = 0.500, 95% CI [0.420, 0.578]、置換p = 0.458；70個の特徴量のうちq ρ = 0.468（有意なのは16/19）であり、共通の完全サブセットでも最高値を維持した（0.193 vs 0.196））。そのOOF R²点推定値は分類層（属 0.089/サブセット 0.037；種 0.043/サブセット − 0.023）、胆汁酸（0.053/0.073）、トリプトファン（0.023/0.015）、および機能遺伝子層（KO 0.005/−0.039; KEGG 0.036/−0.008）を上回った。フィルタリング前のNMR+属結合モデルは0.171/0.165で、NMRより低かった。同一の有病率でフィルタリング（= 0.10）した後、結合モデルは0.204（19 NMR + 68属、n = 424）となり、NMR単独と有意な差はなかった（Δ R²=+0.006, 95% CI − 0.081–+0.095, p = 0.454）。この初期の「結合希釈」は、主にフィルタリングされていない低有病率属に起因していた。中位層（属、種、胆汁酸、トリプトファン）の順序はサンプル組成に敏感であり（サブセット内で属と胆汁酸が入れ替わった）、強い順位付けの主張とはならない。補助的な3クラスタスクでは、フルサンプルのNMRバランス正解率は0.558 ± 0.085であったが、共通サブセットのNMR（0.556）では属（0.556）、種（0.559）、および結合（0.565）とクラスターを形成し、互いに区別がつかなかった。分類タスクにおける層の順序はサンプル組成に敏感であり、「分類にはNMRが最適である」という証拠にはならない。NMR内のShapley分解では、SCFA群の限界寄与度はφ = 0.106であり、アミノ酸群のφ = 0.045の2.4倍であった（SCFA除去後のΔ R²=0.076, p = 0.002；AA除去後のΔ R²=0.016, p = 0.085, 有意ではない）。これにより、「SCFAの優位性」を定性的な順序付けから再現可能な分解結論へと格上げした。③ ブリストル便性と最も強く正の相関を示したマーカーは、酢酸（ρ = 0.414）、酪酸（0.379）、リシン（0.374）、チロシン（0.311）、プロピオン酸（0.297）、コハク酸（0.273）、および分岐鎖アミノ酸（0.19–0.23）であった。分岐鎖短鎖脂肪酸である2-メチル酪酸が唯一の有意な負の相関因子（− 0.185）であった。④ サブタイプ内（探索的）：NMRはIBS-C内で信号を維持した（ρ = 0.288, 被験者クラスターブートストラップ 95% CI [+ 0.074, + 0.483]; R² CIはゼロを跨いだ）。IBS-D内では頑健な信号は検出されなかった（ρ = −0.263, 95% CI [− 0.573, + 0.128] ゼロを跨ぐ, P(ρ ≥ 0) = 0.083; R²=−0.048, 95% CI [− 0.226, − 0.001] 負側であり、予測能がないことを示す）。n ≈ 150という検出力制約の下では、これは探索的な仮説に過ぎず、サブタイプ内の教師なしサブグループ化を支持するには不十分である。⑤ 層間検証：機能的ポテンシャルと代謝物プールは概ね弱く結合していたが、酪酸産生コミュニティゲノム存在量マーカーbcd (K00248, ブチリルCoA脱水素酵素遺伝子, 非律速酵素) は便中酪酸プールと有意に正の相関を示した（ρ = 0.265, q = 8×10⁻⁶）。BSH/baiは胆汁酸プールとの関連を示さず、「ポテンシャル≠活性」であった。⑥ ゼロショット・クロスコホート検証（Cell 2020 → Jacobs 2023）：11の共有代謝物モデルは Diarrhea vs Constipation+Mixed AUC = 0.647（D vs C感度 0.676）、ρ =+0.278 を達成し、11/11で方向再現が認められた（片側符号検定 p = 4.9×10⁻⁴; 特徴量は独立ではないため、このp値は記述的なものに過ぎない）。ランダムな11特徴量ベースラインのAUC = 0.506（95% CI 0.434–0.589, p = 0.005）であったが、人口統計学的情報のみ（年齢/BMI/性別）のベースラインですでにAUC = 0.593（95% CI 0.509–0.675）に達していた。また、R11の人口統計学的情報に対する増加量は+ 0.053（95% CI − 0.045–+0.153, p = 0.148）であり、有意ではなかった。測定不能なSCFAを含むフル特徴量モデルはAUC = 0.558まで低下した。特徴量の転移可能性は、クロスコホート一般化における第一の制約である。⑦ ソースドメインのクローズドループ安定性選択（ラベルブラインド・トランスダクティブ：π_uni_cell ≥ 0.8 + プラットフォームシフトKS ; 凍結後、フルホールドアウトのターゲットコホートでのゼロショットAUCは0.634（95% CI 0.559–0.705）、ρ =+0.243であり、11の共有特徴量セット（R11, 0.647; ペアΔ AUC = − 0.013, p = 0.805）と有意な差はなく、補完されたSCFAを含むフル16特徴量セット（F16, 0.558; Δ AUC = + 0.075, p = 0.013）よりも有意に高かった。⑧ 2サンプルMR（属→IBS因果検定、代謝物層に依存しない；313の剪定SNPs → 259の調和SNPs）：現在の操作変数の検出力および近似的な距離剪定の枠組みでは、頑健な潜在的因果効果は検出されなかった（最小FDR = 0.835）。最も強い名目上の信号はBifidobacterium (OR = 1.070 [1.004–1.141], p = 0.039) とEubacterium hallii群 (OR = 1.074, p = 0.062) であり、いずれもヘテロジニティが低く（Cochran Q p > 0.7）、水平多面発現の証拠はなく（Eggerインターセプト p > 0.85）、leave-one-out推定値は安定していたが、観察方向と因果方向は収束しなかった。Roseburiaは名目上の保護傾向を示したが（OR = 0.930, p = 0.219）、これは正の観察相関（ρ =+0.284）とは逆であった。結論  被験者グループ別のクロスバリデーションにおいて、ブリストル連続形質回帰タスクで点推定OOF R²が最も高かった層は代謝物であり（NMR内で、SCFA群が支配的：Shapley φ = 0.106, 2.4倍 φ = 0.045）、分類や機能遺伝子ポテンシャルではなかった。クロスコホートのプラットフォーム堅牢なコアはデータ駆動型であり、5つの代謝物（リシン、チロシン、ウラシル、グルコース、ロイシン）で条件付き安定を示し、フルホールドアウトのターゲットコホートにおいて、特徴量の少ない11の共有特徴量セットと有意な差のない識別を達成し（0.634 vs 0.647）、16特徴量のフルモデル（0.558）よりも有意に高かった。結果は、方向性の一貫性という3つのメカニズム軸を支持しているが、証拠レベルは異なる。SCFA→セロトニン→腸管運動は、主にNMR内の証拠（Shapley φ = 0.106, 一貫したマーカー方向スペクトラム）によって支持される。タンパク質分解発酵フィンガープリントは、BCAA/芳香族アミノ酸の方向性の一貫性によって支持される。胆汁酸–TGR5分泌運動軸は、胆汁酸層Top6と軟便の方向性の正の相関によってのみ支持されており、機能的/因果的な検証（「ポテンシャル≠活性」）は欠けている。単一層の比較では、特徴量層の順位は「機能的ポテンシャル ＞ 分類 ＞ 代謝ポテンシャル」であった。この順位はブリストル回帰タスクの単一層比較にのみ適用され、サブタイプ分類に外挿すべきではない（3クラスタスクにおいて、NMRと分類層は共通サブセットで区別がつかず、順位も頑健ではなかった）。また、結合モデルにおいても同様であった（同一のフィルタリング後、結合モデルはNMRと有意な差がなかった）。さらに、予測強度とドメイン間転移可能性は等価ではないことが示された。クロスコホートの安定コアは、ドメイン内で最強の特徴量ではない。2サンプルMRはさらに、現在の操作変数の検出力および近似的なLD剪定の枠組みでは、主流の候補属とIBSリスクの間に頑健な潜在的因果証拠は検出されず（FDR補正後有意なものはない）、観察されたマイクロバイオーム–表現型の関連の因果的解釈には、より大規模なサンプル、双方向設計、およびより強力な手法が必要であることを示唆している。"
   }
 ]
