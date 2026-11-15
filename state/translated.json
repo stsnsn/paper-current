@@ -248340,5 +248340,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "パキスタンゲノムリソース参加者におけるリポタンパク質(a)欠乏に関連する生殖形質の解析",
     "abstract_ja": "目的  リポタンパク質(a) [Lp(a)] は、動脈硬化性心血管疾患の遺伝的に決定された独立したリスク因子であり、血中Lp(a)を著しく低下させるLPA標的療法の開発を推進している。アポリポタンパク質(a)をコードする遺伝子であるLPAは、ほとんどのモデル生物において欠損しているため、前臨床研究による生殖安全性などの影響評価の有用性は限定的である。そこで、標的を絞ったLp(a)低下療法の生殖アウトカムを評価するため、自然に存在するヒトLPA「ノックアウト」個体を解析した。  方法および結果  Pakistan Genome Resourceにおいて、遺伝子用量依存的にLp(a)を低下させる高信頼度のLPA機能喪失（LoF）変異を有する個体を同定した。LoF変異体では、ハーディー・ワインベルグの予測に照らして、ホモ接合体の減少は認められなかった。  加成および劣性モデルを用いたレジニーベースの負担検定（性層別解析を含む）により、生殖関連形質（出産経験の有無および子供の数）とLPA LoFとの関連を評価したが、有意な関連は認められなかった。女性LoFホモ接合体と、ヘテロ接合体および非保因者の家族対照群を対象とした遺伝子型別リコール研究を実施し、生殖歴および子のアウトカムを調査した。ホモ接合体LoF女性19例における107例の妊娠および87例の子供において、流産率、母体合併症（妊娠高血圧腎症、高血圧、妊娠糖尿病を含む）、分娩合併症、新生児集中治療室への入院、先天性異常、および小児の健康問題の発生率は遺伝子型間で同等であり、統計的に有意な遺伝子型－アウトカム関連は認められなかった。  結論  これらの遺伝学的および遺伝子型別解析は、高信頼度のLPA機能喪失変異による生涯にわたる完全なLPA欠乏が、母体の生殖能、妊娠、または小児の健康アウトカムに対する明らかな悪影響とは関連していないことを示している。これらの知見は、持続的なLp(a)低下療法における生殖および発達上の安全性に関してヒト遺伝学的な安心感を与えるものであり、Lp(a)を標的とした長期療法への示唆を与えるものである。  トランスレーショナルな視点  動脈硬化の臨床管理は進歩しているものの、心血管イベントの発生率は依然として高く、残存リスクを低減するための新たな治療アプローチが必要とされている。Lp(a)は動脈硬化の独立した遺伝的リスク因子である。Lp(a)低下療法は開発中である。上市前には、通常、生殖安全性が評価される。しかし、げっ歯類はLp(a)の固有の構造タンパク質であるアポリポタンパク質(a)を発現しないため、標的を絞った生殖安全性の評価には適していない。本ヒト遺伝学研究は、自然に存在する機能喪失変異による生涯にわたる完全なLPA欠乏が、生殖能の低下、妊娠の不良アウトカム、先天性異常、または小児の健康障害とは関連していないことを示す証拠を提供する。これらの知見は、慢性的なLp(a)低下療法の生殖および発達上の安全性についてヒト遺伝学的な裏付けを与えるものであり、このアプローチは他の治療標的の評価にも役立つ可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764509",
+    "title": "Agentic AI enables cell segmentation-free cell-type inference and cell-type-guided cell segmentation in spatial transcriptomics",
+    "abstract": "Cell-type identification in spatial transcriptomics often relies on cell segmentation, which can introduce inaccuracies in cell boundaries and transcript assignment. Segmentation-free or cell-free methods have been developed to completely avoid cell segmentation, but inaccurate cell typing hinder accurate downstream analysis. Here, we introduce SSAF-T, a segmentation-free agentic framework that identifies cell types directly from spatial gene expression without predefined reference datasets. For the reference-free cell typing, SSAF-T incorporates CeLLMan, which employs expert-level agents for each organ to annotate cell types using a literature-grounded knowledge graph. We benchmark SSAF-T on both array-based and imaging-based spatial transcriptomics datasets in terms of accuracy, reproducibility, and scalability. We further show that SSAF-T provides an accurate cell segmentation based on the segmentation-free mapping, which ensure compatibility to existing downstream analysis ecosystem, and eventually enable quantitative analysis at single-cell level.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764509",
+    "date": "2026-11-06",
+    "authors": "Jeong Y, Lee H, Lee D, Kim H, Kim S, Park S, Bae J, Cho ES, Choi Y, Kwon O, Kim J, Lee H, Park J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361039",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "inference",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4713,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.05.764509"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fccf45ede0251fd7aacd68500c45aafe3ba24add3fc8b0c8559275a492f88e1e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:26:21.379042+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2e9c2d4ea081a31dc933d1b7b7710b04114f86be1c698fe89aa29f7a61bcb6dd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:26:21.379042+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エージェント型AIにより、空間トランスクリプトミクスにおける細胞セグメンテーション不要の細胞種推論および細胞種誘導型細胞セグメンテーションが可能になる。",
+    "abstract_ja": "空間トランスクリプトミクスにおける細胞種同定は、多くの場合細胞セグメンテーションに依存しており、これが細胞境界や転写産物の割り当てに不正確さをもたらすことがある。細胞セグメンテーションを完全に回避するため、セグメンテーションフリーまたはセルフリーの手法が開発されてきたが、不正確な細胞型判定は後続の解析の精度を阻害する。本研究では、事前定義された参照データセットを用いず、空間的な遺伝子発現から直接細胞種を同定するセグメンテーションフリーのエージェント型フレームワーク「SSAF-T」を提案する。参照データフリーの細胞型判定を実現するため、SSAF-TはCeLLManを組み込んでおり、CeLLManは各臓器に対してエキスパートレベルのエージェントを配置し、文献に基づくナレッジグラフを用いて細胞種をアノテーションする。我々は、配列ベースおよびイメージングベースの両方の空間トランスクリプトミクスデータセットを用いて、精度、再現性、およびスケーラビリティの観点からSSAF-Tのベンチマーク評価を行った。さらに、SSAF-Tがセグメンテーションフリーのマッピングに基づいて正確な細胞セグメンテーションを提供し、既存の後続解析エコシステムとの互換性を確保し、最終的にシングルセルレベルでの定量解析を可能にすることを示す。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.764428",
+    "title": "RadMultiBench: A Reproducible Dual-Task Benchmark Exposing the Limits of Pre-Trained Vision-Language Models Across Thoracic and Breast Imaging",
+    "abstract": "We present RadMultiBench, a multimodal benchmark of 6,148 medical images paired with expert radiological impressions across five categories—Breast Cancer, Lung Benign, Lung Malignant, Pneumonia, and Tuberculosis—targeting two core clinical tasks: automated report generation and disease classification. To enable reliable, repeatable experimentation, we provide a reproducible pipeline for data ingestion, de-identification, split management, and standardized reporting of text and classification metrics, facilitating dataset versioning and continuous benchmark testing. We compare three architectures: (1) a classical CNN-RNN with Bahdanau attention (ResNet-LSTM), (2) a general-domain vision-language (V-L) prefix-projection model (CLIP-GPT), and (3) a domain-specific V-L prefix-projection model (BioViL-T). Results reveal a sharp performance divide: the ResNet-LSTM attains near-perfect classification (99.5% accuracy) and is the only model to generate coherent reports (BLEU-4 = 0.021), whereas both prefix-projection models catastrophically fail generation (BLEU-4  ≤ 0.0001); moreover, the domain-specific BioViL-T also fails classification (11.5% accuracy). From a data-engineering angle, the pipeline is productionizable with lineage, feature registries, and continuous integration to guard against silent regressions when updating models or data; from a data-science angle, the benchmark provides baselines and analyses that foreground feature alignment and architectural suitability as first-order concerns, inviting ablations on multimodal objectives, retrieval-augmented encoders, and uncertainty-aware decoding. Overall, RadMultiBench highlights that state-of-the-art status in general V-L domains does not translate automatically to high-stakes clinical tasks, and it furnishes the tooling and evidence base needed to develop robust, clinically viable multimodal systems.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764428",
+    "date": "2026-11-06",
+    "authors": "Alam MN, Rahman MT, Sarkar D, Dhrubo AFH, Qayum MA, Khan MA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361010",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "classification",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "benchmark",
+          "classification",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4714,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.04.764428"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5feee3b97b2672bc823283059d3a7909984b7c9c1442fc3ee81588051e0879eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:26:21.379042+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "408774cccb7a166c9a23c51ffbada447299a5f10be929e9cb8b917cd65316604",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:26:21.379042+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RadMultiBench: 胸部および乳腺画像における事前学習済み視覚言語モデルの限界を明らかにする再現可能なデュアルタスクベンチマーク",
+    "abstract_ja": "本研究では、乳がん、肺良性腫瘍、肺悪性腫瘍、肺炎、結核の5つのカテゴリーにわたり、自動レポート生成と疾患分類という2つの中核的な臨床タスクを対象とした、専門家による放射線学的所見を伴う6,148枚の医療画像からなるマルチモーダルベンチマーク「RadMultiBench」を提案する。信頼性と再現性の高い実験を可能にするため、データの取り込み、匿名化、スプリット管理、およびテキストと分類指標の標準化された報告のための再現可能なパイプラインを提供し、データセットのバージョン管理と継続的なベンチマークテストを容易にする。我々は、(1) Bahdanauアテンションを用いた古典的なCNN-RNN（ResNet-LSTM）、(2) 汎用ドメインの視覚言語（V-L）プレフィックス投影モデル（CLIP-GPT）、(3) ドメイン特化型V-Lプレフィックス投影モデル（BioViL-T）の3つのアーキテクチャを比較する。その結果、性能に顕著な差があることが明らかになった。ResNet-LSTMはほぼ完璧な分類（正解率99.5%）を達成し、一貫性のあるレポートを生成できる唯一のモデルであった（BLEU-4 = 0.021）一方、両プレフィックス投影モデルは生成において壊滅的な失敗を示した（BLEU-4 ≤ 0.0001）。さらに、ドメイン特化型のBioViL-Tも分類に失敗した（正解率11.5%）。データエンジニアリングの観点からは、このパイプラインは、モデルやデータの更新時にサイレントリグレッションを防ぐためのリネージ、特徴量レジストリ、および継続的インテグレーションを備えており、本番環境への導入が可能である。データサイエンスの観点からは、本ベンチマークは、特徴量のアライメントとアーキテクチャの適合性を最優先事項として位置づけるベースラインと分析を提供しており、マルチモーダル目標、検索拡張エンコーダ、および不確実性を考慮したデコーディングに関するアブレーション解析を促すものである。総じて、RadMultiBenchは、一般的なV-Lドメインにおける最先端の状態が、必ずしも重要な臨床タスクに自動的に適用できるわけではないことを浮き彫りにしており、堅牢で臨床的に実用的なマルチモーダルシステムを開発するために必要なツール群とエビデンス基盤を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.759793",
+    "title": "Generative Models for Novel Enzymatic Reactions: How Far Do They Go?",
+    "abstract": "Enzyme function prediction is a long-standing problem in biology, and deep learning methods have recently become popular to improve performance on this task. While most of these models focus on classifying enzymes or mapping them to known reactions, predicting unknown biochemical reactions remains underexplored. Here we thoroughly examine an approach that generates reactions absent from the training data from the enzyme alone. Existing methods such as BLASTp or CLIPZyme cannot, by design, output reactions that are absent from their training data or were not supplied at inference. The closest prior model, RxnPred, reports high fingerprint-similarity scores on held-out enzymes, a less stringent criterion than exact recovery, but fails to recover the correct answer on unseen reactions. We present a structure-conditioned generative model that outputs a complete reaction, reactants and products, and evaluate it on EnzymeMap_x, a reaction-disjoint benchmark in which no test reaction appears in training, under exact, stereo-respecting scoring. On this benchmark, within 400 sampled candidates, the model generates the complete, correct reaction for 25.0% of the subset of test enzyme–reaction pairs whose reaction is a new combination of metabolites seen in training. Surprisingly, it also correctly generates a few reactions composed of metabolites it has not seen in training (1.6%), though their embeddings are present in the vocabulary. With a lower budget, re-ranking places the correct reaction first for 5.6% of pairs and in the top ten for 12.4%, when the reaction is assumed not to be already known (0.2% and 8.1% without that assumption) along with confidence scores. Assessed more leniently, the model produces at least one correct reaction known for the enzyme (usually memorised from training) for 71.2% of test pairs. Going further, without any retraining, a sequence-only model given the reactants as well as the enzyme produces the correct product set for 9.5% of pairs within five candidates, without re-ranking. We also present head-to-head comparisons on these tasks with BLASTp, DIAMOND, RxnPred and Horizyn. Structure conditioning improves fingerprint similarity on homology-stratified splits, but a matched sequence-only ablation at the best configuration finds no measurable effect on exact recovery. Data coverage and chemical initialisation of the vocabulary seem to matter more than encoder geometry.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.759793",
+    "date": "2026-11-06",
+    "authors": "Ruchir R, Balamuhunthan S, Raman K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360956",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "benchmark",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4715,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.05.759793"
+    ],
+    "translation": {
+      "title": {
+        "hash": "41112317e52140250a424492827fbf47666103bb6d9ba32c3b18657fec65b439",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:26:21.379042+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "44b342092570e978d6c17df246dba52d6b37b5a26f3dbb8523a439e1b7468634",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:26:21.379042+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新規酵素反応の生成モデル：どこまで通用するのか？",
+    "abstract_ja": "酵素機能予測は生物学における長年の課題であり、近年、このタスクの性能向上のために深層学習手法が普及している。これらのモデルの多くは、酵素の分類や既知の反応へのマッピングに焦点を当てているが、未知の生化学反応の予測については依然として十分に研究されていない。本研究では、訓練データに含まれない反応を酵素のみから生成するアプローチについて詳細に検討する。BLASTpやCLIPZymeといった既存の手法は、設計上、訓練データに含まれない反応や、推論時に提供されなかった反応を出力することができない。最も近い先行モデルであるRxnPredは、ホールドアウトされた酵素に対して高いフィンガープリント類似度スコアを示すが、これは厳密な復元よりも緩やかな基準であり、未知の反応に対しては正解を復元できない。我々は、完全な反応、反応物、および生成物を出力する構造条件付き生成モデルを提案し、訓練データにテスト反応が一切含まれない反応独立型ベンチマークであるEnzymeMap_xにおいて、厳密かつ立体構造を考慮したスコアリングの下で評価を行う。このベンチマークにおいて、サンプリングされた400個の候補のうち、訓練データに見られる代謝物の新たな組み合わせである反応を持つテスト酵素・反応ペアのサブセットの25.0%について、モデルは完全かつ正しい反応を生成した。驚くべきことに、訓練データで見たことがない代謝物で構成される反応（1.6%）も少数正しく生成しており、それらの埋め込み表現は語彙に含まれていた。予算を絞った場合、再ランキングを行うことで、反応が既に既知ではないと想定されるペアの5.6%で正しい反応を1番目に、12.4%でトップ10に配置できた（その想定がない場合では0.2%および8.1%）。併せて信頼度スコアも提示する。より緩やかな評価を行ったところ、テストペアの71.2%において、その酵素について既知の（通常は訓練データから記憶された）正しい反応を少なくとも1つ生成した。さらに、再学習を一切行わずに、酵素だけでなく反応物も与えられた配列のみのモデルは、再ランキングなしで、5つの候補のうち9.5%のペアについて正しい生成物セットを生成した。また、これらのタスクにおけるBLASTp、DIAMOND、RxnPred、およびHorizynとの直接比較結果も提示する。構造条件付けは、相同性で層別化した分割においてフィンガープリント類似度を向上させるが、最適な設定で配列のみのアブレーションを行ったところ、厳密な復元に対する測定可能な効果は認められなかった。データの網羅性および語彙の化学的初期化は、エンコーダの幾何学的構造よりも重要であると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764656",
+    "title": "Generative 3D Spatial Reconstruction of Cellular Organization from Single Cell Expression",
+    "abstract": "Single-cell RNA sequencing profiles cellular states at scale but removes their three-dimensional (3D) spatial organization. Reconstructing this organization requires recovering not only individual cell positions but also the physical size, geometry, and neighborhoods of an entire tissue. Existing methods either map cells onto measured spatial references or reconstruct two-dimensional sections independently, leaving the joint reconstruction of a new 3D specimen unresolved. Moreover, predicting the average plausible position of each cell can reduce per-cell error while compressing tissue geometry. We introduce ORBIS, a generative framework that jointly reconstructs whole 3D specimens from single-cell gene expression without requiring a spatial reference at inference. ORBIS learns spatial organization through flow matching in a shared physical coordinate frame, using training views sampled from sparse serial sections, tissue blocks, and whole specimens. At inference, a shared spatial state is iteratively updated through dynamically regrouped windows, enabling the generation of millions of cell positions without independently reconstructing and stitching tissue regions. We evaluate physical size, cell-population shape, per-cell placement, and neighborhood organization separately to distinguish accurate tissue geometry from low per-cell error. Across eight held-out specimens spanning whole mouse brains, thick brain blocks, and Drosophila embryos, ORBIS achieves lower cell-population shape error than all five evaluated baselines on every test and reconstructs specimens containing up to 3.7 million cells. On a single GPU, ORBIS samples million-cell brains in 0.9-2.8 minutes, approximately 38 times faster than the sampler of LUNA-3D, our 3D extension of the state-of-the-art generative spatial reconstruction method LUNA. On two held-out brain tests, sampling reduces size error by 3.3-fold and shape error by 1.8-fold compared with a single-call variant. On an independent dissociated single-cell brain atlas, ORBIS returns on average 37.9% of each region's cells to their dissection region across 23 regions, compared with 28.5% for LUNA-3D.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764656",
+    "date": "2026-11-06",
+    "authors": "Azim E, Alif MN, Hwang TH, Zheng H, Zhang W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360929",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "inference"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene",
+          "inference"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4716,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.05.764656"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ba6aa03ebd2ec0fc1b8351f688c8099576eb0d241a3176febdbcf0f51412d3c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:26:21.379042+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5518b0357c77f18f77f85ccd20dae60f67d2afa4de752c4bb91ec8b28c385b68",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T18:26:21.379042+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一細胞発現からの細胞組織の生成的3D空間再構成",
+    "abstract_ja": "シングルセルRNAシーケンシングは、細胞の状態を大規模に解析できる一方で、その三次元（3D）空間構造を除去してしまう。この構造を再構築するには、個々の細胞の位置だけでなく、組織全体の物理的サイズ、幾何学的形状、および近傍領域を復元する必要がある。既存の手法では、細胞を測定済みの空間参照にマッピングするか、あるいは二次元断面を独立して再構築するため、新たな3D標本の統合的な再構築という課題が未解決のままとなっている。さらに、各細胞の妥当な平均位置を予測することで、組織の幾何学的形状を圧縮しつつ、細胞ごとの誤差を低減できる。本研究では、推論時に空間参照を必要とせず、シングルセル遺伝子発現から3D標本全体を共同で再構築する生成フレームワーク「ORBIS」を提案する。ORBISは、疎な連続断面、組織ブロック、および標本全体からサンプリングされた学習ビューを用い、共有物理座標系におけるフローマッチングを通じて空間構造を学習する。推論時には、動的に再グループ化されたウィンドウを通じて共有空間状態が反復的に更新され、組織領域を独立して再構築・接合することなく、数百万個の細胞位置を生成することが可能となる。我々は、正確な組織幾何学と低い細胞ごとの誤差を区別するため、物理的サイズ、細胞集団の形状、細胞ごとの配置、および近傍構造を個別に評価した。マウス全脳、厚脳ブロック、およびショウジョウバエ胚にわたる8つのホールドアウト標本において、ORBISはすべてのテストで評価した5つのベースラインよりも低い細胞集団形状誤差を達成し、最大370万個の細胞を含む標本を再構築した。単一GPUにおいて、ORBISは数百万個の細胞を含む脳を0.9～2.8分でサンプリングし、最先端の生成空間再構築手法であるLUNAの3D拡張版LUNAのサンプラーよりも約38倍高速であった。2つのホールドアウト脳テストにおいて、サンプリングにより、シングルコール版と比較してサイズ誤差が3.3分の1に、形状誤差が1.8分の1に低減した。独立した解離シングルセル脳アトラスにおいて、ORBISは23領域にわたり、各領域の細胞の平均37.9%を解離領域に復元し、LUNA-3Dの28.5%を上回った。"
   }
 ]
