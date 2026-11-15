@@ -233910,5 +233910,339 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "文献に基づく較正を用いた公開生物医学データに対する自律的仮説検定",
     "abstract_ja": "公開バイオメディカルリポジトリにはペタバイト規模のデータが蓄積されているが、それらのリソースを用いて仮説を検証するには、依然として専門家の労力を要する。本稿では、自律的な計算仮説検証のための4段階のブラインドワークフローを提案する。具体的には、エージェントが自然言語による仮説を受け取り、学術出版社のドメインがブロックされた公開データセットを探索し、解析パイプラインを実行して、得られた知見を文献に照らして検証する。既報の研究は較正基準として機能し、未知の解答に対して信頼が置かれる前に、自律的なワークフローが既知の解答にどの程度近いかを測定する。細菌ゲノミクス、シングルセルマルチオミクス、メタゲノミクス、がんゲノミクス、およびGWAS機能ゲノミクスにわたる5つのバイオメディカルタスクにおいて、エージェントはあらかじめ規定された評価指標に基づき、20～188分で10点満点中5～9点を記録した（シングルセルマルチオミクスのスコアは、ブラインド判定者のレビューにより過大評価されていた基準が特定されたため、当初の8点から5点に修正された。詳細は「Methods」を参照）。3世代にわたるモデルの探索的比較を行った結果、5つのタスクすべてにおいて第1世代（claude-opus-4-6）のスコアが方向性として高く（片側ウィルコクソン p = 0.031、順位二系列相関 r = 1.0; n = 5研究）、新しいモデルほどタスクを高速に完了することが明らかになった。また、このベンチマークにより、世代固有の安全ポリシーやスキーマの差異が露呈し、これらを修正しない限り、世代間比較において暗黙的に交絡要因となる。失敗事例は、ツールのバージョン感受性、データ範囲の制限、および解析の完全性という3つのカテゴリーに分類され、ここで検討した5つのケースすべてにおいて、人間によるプロンプティングなしに検証フェーズで自己診断された。これらの結果は、自律的な計算科学ワークフローをいつ信頼すべきか、あるいは信頼すべきでないかを特徴づけるための、較正フレームワークと失敗の分類体系を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      },
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_IDATE:[2026-11-02 TO 2026-11-10] AND FIRST_PDATE:[2026-10-20 TO 3000-12-31]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.3128.v1",
+    "title": "Constraint-Aware Coding-Sequence Design for Nicotiana benthamiana: A 49,257-Record Benchmark and Codon-Reference Sensitivity Analysis",
+    "abstract": "Synonymous coding DNA sequence (CDS) design for plant expression constructs must balance host codon adaptation against guanine–cytosine (GC) composition, restriction-site avoidance, and sequence-integrity constraints, yet benchmark outcomes can depend strongly on the chosen codon- usage reference. Using FactorForge v3.2.0, an open-source CDS design and sequence-review workflow, we evaluated four rule-based design presets (Balanced, High-CAI, GC-target, and Assembly-friendly) on 49,257 reference-derived Nicotiana benthamiana CDS/protein records from the Sol Genomics Network (SGN) QLD183 resource (seed 320), scoring sequence integrity, a historical 55–65% GC window, and absence of BsaI/BpiI/BsmBI sites. With the legacy packaged codon reference, Assembly-friendly passed all three criteria for 63.37% of records; with three genome-derived references its combined pass rate was 0.00% after rounding, whereas GC-target attained 22.68% in each derived condition. A separate v3.3.0 dynamic-programming (DP) execution maximizing the codon adaptation index (CAI) within the same GC window found a GC-compliant sequence for 99.83% of records (mean CAI 0.9989), but 28.21% passed all criteria because Type IIS sites are outside the DP objective. These in-silico results characterize candidate generation under a historical policy. Evaluation with the v3.3.0 default settings, against external tools, and in the laboratory remains to be done.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.3128.v1",
+    "date": "2026-10-30",
+    "authors": "Kim M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355103",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 728,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC bioinformatics",
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.3128.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b19d671dbb9f290f0f93321a004b579c1057ec986732521a63cf11bc644f4030",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:33:09.593929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6d173367acdbfc8baa633c45a9d4d0b84faaee5932ca25fd4a3cc36f22d644fe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:33:09.593929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Nicotiana benthamianaにおける制約を考慮したコーディング配列設計：49,257レコードのベンチマークとコドンリファレンス感度解析",
+    "abstract_ja": "植物発現コンストラクトにおける相同コーディングDNA配列（CDS）設計では、宿主コドン適応とグアニン・シトシン（GC）組成、制限部位回避、および配列完全性制約とのバランスを取る必要があるが、ベンチマーク結果は選択したコドン利用リファレンスに強く依存する場合がある。オープンソースのCDS設計および配列レビューワークフローであるFactorForge v3.2.0を用い、Sol Genomics Network (SGN) QLD183リソース（シード320）から取得した49,257件のリファレンス由来Nicotiana benthamiana CDS/タンパク質レコードを対象に、4つのルールベース設計プリセット（Balanced、High-CAI、GC-target、Assembly-friendly）を評価した。評価では、配列完全性、過去の55～65%のGCウィンドウ、およびBsaI/BpiI/BsmBI部位の不在をスコアリングした。従来のパッケージ済みコドンリファレンスを用いた場合、Assembly-friendlyはレコードの63.37%で3つの基準すべてを満たした。一方、3つのゲノム由来リファレンスを用いた場合の合算合格率は、丸め処理後で0.00%となり、GC-targetは各由来条件において22.68%であった。同一GCウィンドウ内でコドン適応指数（CAI）を最大化する別のv3.3.0動的プログラミング（DP）実行では、レコードの99.83%でGC準拠の配列が得られた（平均CAI 0.9989）が、Type IIS部位がDPの目的外であるため、28.21%がすべての基準を満たした。これらのin-silico結果は、従来のポリシーに基づく候補生成の特徴を示すものである。v3.3.0のデフォルト設定、外部ツール、および研究室での評価は今後実施される予定である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762755",
+    "title": "Stream–lake network position structures freshwater microbial communities across multiple catchments",
+    "abstract": "Streams and lakes form hydrologically connected freshwater networks. Different environmental conditions and dispersal dynamics along the stream–lake continuum potentially affect bacterial community composition, although the strength of such effects may vary among individual catchments. Here, we analysed 224 water samples from 58 streams draining into eight lakes across Switzerland, covering the full continuum from headwaters to lake outlets. Bacterial community composition analyzed via 16S metabarcoding differed between streams and lakes, with a sharp turnover at stream-lake confluence, and this pattern was repeatable across all catchments. Lake communities had lower alpha diversity and lower overall beta dispersion than stream communities, despite hydrological connectivity with a diverse stream microbiome. Community composition in both lakes and streams differed between catchments, but this pattern was more pronounced in lakes. Lake communities were dominated by a small set of widespread and abundant core taxa, primarily established pelagic freshwater genera, that captured the catchment-level differences through shifts in relative abundance. In contrast, stream communities contained a comparatively less abundant core microbiome dominated by soil- and groundwater-associated genera, together with a larger and more diverse peripheral microbiome. Together, these findings show that bacterial community composition changes repeatably across the different positions of hydrological networks.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762755",
+    "date": "2026-10-30",
+    "authors": "Kirtane A, Deiner K, Hall AR.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354488",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "lake"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 731,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762755"
+    ],
+    "translation": {
+      "title": {
+        "hash": "214d20edb70b76ff6e1bd279e6aa07b087f01a2f1375ee8a46cebfab82b700d7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:33:09.593929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "37c0bb9c306d929588484f6feee80121d44abeb137924d4401d577e4fbc0de59",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:33:09.593929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "河川・湖沼ネットワークは、複数の集水域にわたる淡水微生物群集の位置構造を形成する。",
+    "abstract_ja": "河川と湖沼は、水文学的に連結した淡水ネットワークを形成している。河川・湖沼連続体における異なる環境条件や分散動態は、細菌群集組成に影響を及ぼし得るが、こうした影響の強さは個々の集水域によって異なる可能性がある。本研究では、スイス全土の8つの湖に流入する58本の河川から得られた224検体の水サンプルを分析し、源流から湖口に至る連続体全体を網羅した。16Sメタバーコーディングを用いて解析した細菌群集組成は、河川と湖沼で異なり、河川と湖沼の合流点において急激な入れ替わりが認められ、このパターンはすべての集水域で再現された。湖沼群集は、多様な河川微生物叢との水文学的連結性があるにもかかわらず、河川群集よりもアルファ多様性および全体的なベータ分散が低かった。湖沼と河川の双方において、群集組成は集水域間で異なっていたが、このパターンは湖沼においてより顕著であった。湖沼群集は、主に外洋性淡水属からなる、広範かつ豊富に存在する少数のコア分類群によって支配されており、相対的な存在量の変動を通じて集水域レベルの差異を反映していた。対照的に、河川群集は、土壌および地下水関連の属が支配的な、相対的に存在量の少ないコア微生物叢と、より大規模で多様な周辺微生物叢を有していた。以上の知見を総合すると、細菌群集組成は水文学的ネットワークの異なる位置において再現性をもって変化することが示される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761872",
+    "title": "SYMBIO-SCAN, a full-length 16S rRNA gene-based workflow optimized for bacterial symbiont detection and discovery from long read sequencing",
+    "abstract": "Bacterial endosymbionts are often unculturable, making sequencing-based approaches essential for their discovery and characterization. Here we developed SYMBIO-SCAN, a dedicated workflow for recovering high-quality nearly full-length 16S rRNA gene sequences of symbionts from long reads, which provided an adequate discriminatory power for identification and for accurate phylogenetic analyses. After validation on a mock community, we applied this workflow to 30 beetle (Coleoptera) specimens from 10 species. Beetles were selected since they host a wide variety of bacterial symbionts, able to influence host physiology, ecology, population dynamics, and evolution. Despite their importance, most of these symbionts remain completely unknown or poorly characterized. By the novel approach, we obtained 80 high-quality sequences belonging to diverse bacterial lineages, mostly  Rickettsiales and  Enterobacterales . Putative reproductive manipulators were among the most frequently detected symbionts, including  Wolbachia ,  Rickettsia , “  Candidatus Lariskella”,  Arsenophonus , and  Spiroplasma . Moreover, three putative novel genera and one additional putative novel species were identified, including a possible  Enterobacterales nutritional symbiont of the weevil  Holotrichapion pisi . Overall, our results support that full-length 16S rRNA gene amplicon sequencing combined with tailored bioinformatic analyses provide a quick, cost-effective, and robust approach for investigating the diversity of host-associated bacterial symbionts, also allowing the discovery of entirely novel lineages.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761872",
+    "date": "2026-10-30",
+    "authors": "Croci C, Iamundo G, Baharibabadi A, Sabatelli S, Sassera D, Castelli M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354485",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "gene",
+        "phylogenetic",
+        "sequence",
+        "sequencing",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 732,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.26.761872"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1dcd80a4d69f69f2f1a8e49d5f2018f92b2a28c0279b102fa124911e9e3ebfce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:33:09.593929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f72a88d1de6f2e455126e09440164a0f30632df2c80a8f2e0f2731edf95044d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:33:09.593929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SYMBIO-SCAN：ロングリードシーケンシングによる細菌共生菌の検出および探索に最適化された、16S rRNA遺伝子に基づくフルレングスワークフロー",
+    "abstract_ja": "細菌内共生体は培養不能であることが多く、その発見と特性解析にはシーケンシングに基づく手法が不可欠である。本研究では、ロングリードから共生体の高品質なほぼ全長の16S rRNA遺伝子配列を回収するための専用ワークフロー「SYMBIO-SCAN」を開発した。本ワークフローは、同定および正確な系統解析に十分な識別能を示した。モックコミュニティを用いた検証後、このワークフローを10種30個体の甲虫（Coleoptera）標本に適用した。甲虫は、宿主の生理機能、生態、個体群動態、および進化に影響を及ぼし得る多種多様な細菌共生体を宿しているため、選定対象とした。これらの共生体は重要であるにもかかわらず、その大部分は依然として完全に未知であるか、あるいは特性解析が不十分である。この新規アプローチにより、主にRickettsiales門およびEnterobacterales門に属する、多様な細菌系統にわたる80本の高品質な配列を得た。推定される生殖操作因子は、Wolbachia、Rickettsia、「Candidatus Lariskella」、Arsenophonus、およびSpiroplasmaなど、最も頻繁に検出された共生体に含まれていた。さらに、3つの推定新属と1つの追加の推定新種が同定され、その中にはゾウムシHolotrichapion pisiのEnterobacterales門の栄養共生体である可能性が示唆されるものが含まれていた。総じて、本研究の結果は、全長16S rRNA遺伝子アンプリコンシーケンシングと最適化されたバイオインフォマティクス解析を組み合わせることで、宿主関連細菌共生体の多様性を調査するための迅速かつ費用対効果が高く、堅牢な手法が提供され、全く新しい系統の発見も可能になることを裏付けている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762568",
+    "title": "The influence of drug dosing regimen on extinction and adaptation during experimental evolution in  Candida albicans",
+    "abstract": "ABSTRACT  The antifungal azole drug fluconazole (FLC) is frequently prescribed for treating  Candida albicans infections. Azole drugs are typically fungistatic—they inhibit cell growth rather than kill susceptible cells within a population. Therefore, fungal populations can adapt to fluconazole through increased drug resistance or increased drug tolerance (the ability of a subpopulation of susceptible cells to grow slowly at inhibitory drug concentrations). To our knowledge, no prior experiments have examined how different factors influence extinction propensity, although previous  in vitro studies show that both drug concentration and strain background can influence adaptation. To determine how the drug dosing regimen, namely fluconazole concentration and transfer duration (i.e., the amount of time between transfer into fresh medium), influenced extinction and adaptation in  Candida albicans , we conducted a fully factorial series of short  in vitro evolution experiments. Dosing regimen significantly influenced extinction: all replicates evolved at all drug concentrations survived the 48 h and 72 h transfer experiments, yet the extinction rate increased sharply from low to high drug concentration with 24 h transfers. Increases in drug tolerance were frequent regardless of the dosing regimen. In contrast, drug resistance and growth rate both tended to decrease following evolution at higher drug concentrations. Fluconazole-evolved replicates exhibited frequent increases in cross-tolerance and decreases in cross-resistance in a panel of other azole drugs. Genome size changes were common in some strain backgrounds evolved to higher fluconazole concentrations, regardless of transfer times. Combined, our results indicate that many experimental factors can influence the trajectory of adaptation, and show that extinction in a fungistatic drug occurs readily at high drug concentration with rapid transfers.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762568",
+    "date": "2026-10-30",
+    "authors": "Sethi P, Pouteau E, Sumanarathne A, Gerstein AC.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354445",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 733,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.29.762568"
+    ],
+    "translation": {
+      "title": {
+        "hash": "303579f64d26d86b5ace893dc92b6c3909baebad03b5f3f1b0ac889f58910485",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:33:09.593929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c28e7e083d06930a5fccf2379620467af0b637635bc7d7b005e079064ce30a89",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:33:09.593929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Candida albicansの実験的進化における、薬剤投与レジメンが消去および適応に及ぼす影響",
+    "abstract_ja": "要旨　抗真菌アゾール系薬剤であるフルコナゾール（FLC）は、カンジダ・アルビカンス感染症の治療に頻繁に処方される。アゾール系薬剤は通常、真菌静菌性であり、集団内の感受性細胞を死滅させるのではなく、細胞増殖を抑制する。そのため、真菌集団は薬剤耐性の亢進または薬剤耐性（感受性細胞の亜集団が阻害濃度下で緩やかに増殖する能力）を通じて、フルコナゾールに適応することができる。我々の知る限り、異なる要因が絶滅傾向にどのように影響するかを検討した先行実験はないが、これまでのin vitro研究では、薬剤濃度と菌株背景の双方が適応に影響を与え得ることが示されている。薬剤投与レジメン、すなわちフルコナゾール濃度と移送期間（すなわち、新鮮な培地への移送間隔）がカンジダ・アルビカンスの絶滅と適応にどのように影響するかを解明するため、我々は完全な因子計画による一連の短時間in vitro進化実験を実施した。投与レジメンは絶滅に有意な影響を及ぼした。すべての反復試料において、すべての薬剤濃度で進化した個体が48時間および72時間の移送実験を生存したが、24時間の移送では、低濃度から高濃度にかけて絶滅率が急激に上昇した。薬剤耐性の亢進は、投与レジメンに関わらず頻繁に認められた。対照的に、薬剤耐性と増殖速度は、いずれも高濃度での進化後に低下する傾向を示した。フルコナゾールで進化した反復試料は、他のアゾール系薬剤のパネルにおいて、交差耐性の頻繁な上昇と交差耐性の低下を示した。ゲノムサイズの変化は、移送時間に関わらず、より高いフルコナゾール濃度で進化した一部の菌株背景において一般的であった。以上の結果を総合すると、多くの実験的要因が適応の軌跡に影響を与え得ることが示され、また真菌静菌性薬剤における絶滅は、高濃度かつ迅速な移送条件下で容易に起こり得ることが示された。"
   }
 ]
