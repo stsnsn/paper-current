@@ -232638,5 +232638,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "自然生息地は、Triticum aestivumに対して極めて強い病原性を有するFusarium属系統の貯蔵庫である。",
     "abstract_ja": "要旨  真菌性植物病害は、世界的に作物損失の主要な原因となっている。したがって、これらの病害を駆動するプロセスを理解することは、病害の発生を予測・制御し、同時に作物の収量を向上させる上で極めて重要である。さらに、欧州の新たな「グリーンディール」は農薬の使用量削減を目指しているが、現在市場で利用できる代替手段はほとんどない。そのため、殺菌剤削減が進む現状において、真菌性作物病害の発生をより適切に追跡・予測することが急務となっている。こうした背景から、本研究では、真菌性病害の発生に関与している可能性のある非宿主性Fusariumリザーバーをより詳細に特性評価するため、非農業的生息地からのFusariumのスピルオーバーを解明することを目的とする。この課題に取り組むため、Brassica rapaの自然集団からFusarium系統を分離した。それらの系統ゲノム上の系統関係を解析したところ、高い多様性を示し、分離場所に関連した集団構造を有することが明らかになった。接種試験により、小麦に対して極めて強い攻撃性を示す非農業的生息地由来のFusarium株を同定した。加えて、小麦の品種が病害の発現に強い影響を及ぼすことを観察した。小麦およびBrassica植物の両方において、顕微鏡的手法を用いてFusariumの定着状況をモニタリングした。その結果、Brassica植物では真菌が主に根表面に存在しているのに対し、小麦では根の細胞間に広がり、小麦のシュートにおいて維管束への定着が見られることが観察された。最後に、最も攻撃性の高いFusarium株が、小麦が広く栽培されているフランスのブルターニュ地方から分離されたことを示した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763053",
+    "title": "Defective Viral Genomes Reveal History-dependent Self-regulation of Type I Interferon Dynamics",
+    "abstract": "Type I interferons (IFN) help clear a viral infection, but IFN levels can then decline to reset the antiviral state and avoid innate immune dysregulation. Such dysregulation can occur following infection with highly pathogenic and pandemic RNA viruses, such as H5N1 influenza A viruses or SARS-CoV-2. In spite of the strong innate immune response that these viruses induce, pandemic viruses replicate and spread successfully, suggesting that they can circumvent the effects of IFN. Innate immune activation is triggered when host cells detect viral RNA, especially defective viral genomes (DVGs). A strong IFN response (e.g. to DVGs or a highly immunogenic wild-type infection) must then decline through negative feedback involving the IFN receptor. How DVGs modulate this feedback remains poorly understood. To quantify positive and negative IFN regulation, we first performed  in vitro experiments combining different doses of viral RNA and exogenous IFN, and measured subsequent IFN expression. We next developed an  in vivo Bayesian computational model that captures the impact of influenza virus DVGs on both positive and negative  IFN feedback. Competition between DVGs and virus is also considered. Finally, we calibrated this model on published  in vitro and  in vivo influenza virus infection data.  Our model suggests that the cumulative IFN exposure of a host cell, rather than the instantaneous IFN level, shapes further IFN induction; this gives DVGs a dual role: beyond triggering IFN induction, they can also lower it through negative feedback. Our model further predicts that these effects are important locally, shaping the spatial dynamics of the response, allowing suppression of innate immune responses in neighbouring, uninfected cells. Through this model, we can explain two important biological observations: i) IFN levels can decline while virus and DVG levels continue to rise in tissue culture and mouse infections; and ii) pandemic viruses that produce high levels of immunogenic RNA molecules can successfully replicate through local innate immune suppression. Overall, we propose that heterogeneity within viral populations (including DVGs and other noncanonical viral RNAs) can modulate positive and negative feedback loops and shape infection outcomes. More broadly, our work may support studies into the therapeutic use of these viral RNA populations. Author summary  Humans and animals have to fight influenza virus and other infections without inducing immunopathology. After detection of an infection, the innate immune system produces type I interferon (IFN), a signal that starts a protective response. However, high levels of IFN and prolonged IFN expression can cause damage to tissues and worsen disease. Negative feedback is one route by which IFN production can stop, but its activation during viral infection remains poorly understood. A central question is why viruses can continue to replicate and spread despite a strong IFN response. We here investigated why IFN levels can begin to decline while virus levels continue to rise during influenza virus infection. This decline is most pronounced when the virus produces large amounts of defective viral genomes (DVGs). These defective genomes arise naturally during viral replication and are produced by many RNA viruses, including SARS-CoV-2, Ebola virus, and measles virus. Using cell-culture experiments, computational modelling, and fitting of our model to cell-culture and mouse data, we find that defective genomes contribute to both IFN activation and its negative feedback. Both the experiments and model support a mechanism in which IFN accumulation during infection suppresses its own production, and that this suppression can start earlier under strong DVG stimulation. At the local level, this can allow viral spread to continue even while overall IFN levels remain high. Overall, our findings reveal an additional level of interplay between defective viral genomes and the host innate immune system. They also suggest that the potential therapeutic use of defective genomes must be carefully calibrated to achieve an optimal antiviral response.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763053",
+    "date": "2026-10-31",
+    "authors": "Li Y, Lourens C, Nielsen BF, Levin SA, Perelson AS, Grenfell BT, te Velthuis AJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354948",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1626,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.763053"
+    ],
+    "translation": {
+      "title": {
+        "hash": "05d9b6308d436e468657495ca1fbe5dd8a4d6553afccc46ef827e50fbba72c40",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:20:57.609627+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2f30fbeff5c07056f06acdf7fd7fe5ff863c281021f13c0482fa576c5458e4ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:20:57.609627+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "欠損型ウイルスゲノムが明かすI型インターフェロン動態の履歴依存的自己制御",
+    "abstract_ja": "I型インターフェロン（IFN）はウイルス感染の排除に寄与するが、その後IFNレベルが低下することで抗ウイルス状態がリセットされ、自然免疫の調節不全が回避される。このような調節不全は、H5N1A型インフルエンザウイルスやSARS-CoV-2のような、極めて病原性が高くパンデミックを引き起こすRNAウイルスの感染後に起こり得る。これらのウイルスが誘導する強力な自然免疫応答にもかかわらず、パンデミックウイルスは複製に成功し拡散するため、IFNの影響を回避できることが示唆される。自然免疫の活性化は、宿主細胞がウイルスRNA、特に欠陥ウイルスゲノム（DVG）を検出した際に誘発される。その後、強力なIFN応答（例えばDVGや免疫原性の高い野生型感染に対するもの）が、IFN受容体を介した負のフィードバックによって減衰しなければならない。DVGがこのフィードバックをどのように調節しているかについては、まだ十分に解明されていない。正および負のIFN調節を定量化するため、我々はまず、異なる用量のウイルスRNAと外因性IFNを組み合わせたin vitro実験を行い、その後のIFN発現を測定した。次に、インフルエンザウイルスDVGが正および負のIFNフィードバックの両方に及ぼす影響を捉えるin vivoベイズ計算モデルを開発した。DVGとウイルス間の競合についても考慮している。最後に、既報のin vitroおよびin vivoのインフルエンザウイルス感染データを用いて、このモデルの較正を行った。我々のモデルは、宿主細胞の累積的なIFN曝露量が、瞬間的なIFNレベルではなく、その後のIFN誘導を形作ることを示唆している。これにより、DVGはIFN誘導を誘発するだけでなく、負のフィードバックを通じてそれを低下させるという二重の役割を担うことになる。さらに本モデルは、これらの効果が局所的に重要であり、応答の空間的ダイナミクスを形成することで、隣接する非感染細胞における自然免疫応答の抑制を可能にすると予測する。このモデルを通じて、我々は2つの重要な生物学的観察結果を説明できる。i) 組織培養およびマウス感染において、ウイルスレベルとDVGレベルが上昇し続ける一方で、IFNレベルは低下し得ること。ii) 高レベルの免疫原性RNA分子を産生するパンデミックウイルスが、局所的な自然免疫抑制を通じて複製に成功し得ること。総じて、ウイルス集団内（DVGやその他の非正準ウイルスRNAを含む）の不均一性が、正および負のフィードバックループを調節し、感染結果を形作り得ると提案する。より広範には、本研究はこれらのウイルスRNA集団の治療的利用に関する研究を支持する可能性がある。著者要旨：ヒトや動物は、免疫病理を誘発することなくインフルエンザウイルスやその他の感染症と戦わなければならない。感染が検出されると、自然免疫系は保護応答を開始させるシグナルであるI型インターフェロン（IFN）を産生する。しかし、高レベルのIFNや持続的なIFN発現は、組織に損傷を与え、疾患を悪化させる可能性がある。負のフィードバックはIFN産生を停止させる経路の一つであるが、ウイルス感染時のその活性化については依然として十分に解明されていない。中心的な問いは、なぜ強力なIFN応答があるにもかかわらず、ウイルスが複製と拡散を継続できるのかということである。本研究では、インフルエンザウイルス感染時に、ウイルスレベルが上昇し続ける一方で、なぜIFNレベルが低下し始めるのかを調査した。この低下は、ウイルスが大量の欠陥ウイルスゲノム（DVG）を産生する場合に最も顕著に現れる。これらの欠陥ゲノムはウイルス複製中に自然に生じ、SARS-CoV-2、エボラウイルス、麻疹ウイルスを含む多くのRNAウイルスによって産生される。細胞培養実験、計算モデリング、および細胞培養およびマウスデータへのモデルの適合を通じて、欠陥ゲノムがIFN活性化とその負のフィードバックの両方に寄与していることを見出した。実験とモデルの双方が、感染中のIFN蓄積が自身の産生を抑制するというメカニズムを支持しており、この抑制は強力なDVG刺激下でより早期に開始され得ることを示している。局所レベルでは、これにより全体的なIFNレベルが高いままであっても、ウイルスの拡散が継続し得る。総じて、我々の知見は、欠陥ウイルスゲノムと宿主の自然免疫系との間にさらなる相互作用が存在することを明らかにしている。また、最適な抗ウイルス応答を実現するためには、欠陥ゲノムの潜在的な治療的利用を慎重に較正する必要があることも示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.31.763142",
+    "title": "Parasitism to mutualism shift during a viral infection in Drosophila under thermal stress",
+    "abstract": "Host–parasite interactions exist along a continuum from parasitism to mutualism, yet the environmental drivers governing transitions along this spectrum remain underexplored. Here we show that chronic thermal stress systematically attenuates virulence across multiple natural RNA viruses in  Drosophila melanogaster and shifts persistent Nora virus infection into conditional mutualism, enhancing host lifespan, reproductive output, and behavioral performance without compromising viral persistence. Driven by host immunometabolic reprogramming and aging deceleration rather than viral genomic adaptation, this phenotypic switch demonstrates that thermal stress can invert the sign of biotic interactions. Our findings establish that persistent infections can expand host thermal reaction norms in animals, revealing how climate warming can fundamentally alter selection pressures and host–pathogen coevolutionary trajectories.  Abstract Figure",
+    "journal": "",
+    "doi": "10.64898/2026.10.31.763142",
+    "date": "2026-10-31",
+    "authors": "González R, Castelló-Sanjuán M, Butković A, Blanc H, Belavilas-Trovas A, Nigg J, Saleh M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354926",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1628,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.31.763142"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8ee088a6d540dde999245b78c305c6ff29633a34ce702f12ca94535b9ba24abc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:20:57.609627+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bcaa3c1453b28d368b34709985f942c34b9a820dac8fe24d178060603a53dd6b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:20:57.609627+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "熱ストレス下のショウジョウバエにおけるウイルス感染時の寄生から相利共生への転換",
+    "abstract_ja": "宿主－寄生虫間の相互作用は、寄生から相利共生に至る連続的なスペクトラムにわたって存在するが、このスペクトラムに沿った遷移を支配する環境的要因については未だ十分に解明されていない。本研究では、慢性的な熱ストレスがキイロショウジョウバエ（Drosophila melanogaster）における複数の天然RNAウイルスの病原性を系統的に減弱させ、持続的なノラウイルス感染を条件付き相利共生へと移行させることで、ウイルスの持続性を損なうことなく、宿主の寿命、繁殖力、および行動パフォーマンスを向上させることを示す。この表現型の転換は、ウイルスゲノムの適応ではなく、宿主の免疫代謝リプログラミングと老化の減速によってもたらされており、熱ストレスが生物間相互作用の符号を反転させ得ることを実証している。本知見は、持続的な感染が動物における宿主の熱反応の規範を拡大させ得ることを立証し、気候温暖化が選択圧や宿主－病原体の共進化軌道をいかに根本的に変え得るかを明らかにするものである。  要旨 図"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.22541/authorea.15011359/v1",
+    "title": "The Fecal DNA Metabarcoding and Feeding Photos Reveal Prey of Eden’s Whales (Balaenoptera edeni edeni) in China",
+    "abstract": "A stable population of Eden’s whales (Balaenoptera edeni edeni) inhabits the Beibu Gulf, southern China, but its diet remains poorly understood. We integrated fecal DNA metabarcoding, photographic identification, and fishery-market surveys to investigate prey composition around Weizhou Island, China. Sixteen fecal samples collected between 2021 and 2026 were analyzed using COI, while eight were additionally analyzed using 12S MiFish and 18S V4 markers. The 12S marker detected 41 fish-associated taxa, including small nearshore schooling fishes such as Ilisha, Nematalosa, Thryssa, and Sardinella. Surface and underwater photographs of feeding events supported two candidate prey taxa, with individuals morphologically consistent with Sardinella albella and Alepes djedaba. Comparisons between whale fecal DNA and seawater eDNA showed that several taxa had higher relative representation in fecal libraries than in seawater controls. Fishery-market surveys recorded 19 fish taxa from Weizhou Island and supplementary surveys in Dapeng Bay, among which eight taxa were not detected in the fecal DNA dataset and treated as market-only records of potential prey availability rather than direct molecular evidence of whale consumption. COI and 18S markers also recovered copepods, hydrozoans, bivalves, gelatinous organisms, and microalgae, which were interpreted cautiously as potential co-ingested, environmental, or broader food-web-associated signals rather than necessarily direct prey. Overall, the molecular, photographic, and fishery-based evidence consistently indicated that small nearshore schooling fishes represent the most robust candidate prey group. Spatial analyses using AquaMaps-derived distribution probability grids showed that candidate prey-associated taxa are mainly concentrated in coastal and shelf-associated ecosystems. This study provides the first multi-evidence assessment of prey composition in Eden’s whales in Chinese waters and highlights the value of integrating fecal DNA metabarcoding with field-based visual evidence for studying the diet of coastal baleen whales.",
+    "journal": "",
+    "doi": "10.22541/authorea.15011359/v1",
+    "date": "2026-10-31",
+    "authors": "Chen B, Lu F, Jia T, Jiang Y, Zhang Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354385",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microalgae"
+      ],
+      "context": {
+        "marine": [
+          "seawater"
+        ],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1639,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.22541/authorea.15011359/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "661572aba0a7445b1fd6c1a2db87f6d37254b1a24bbefe2f79e8b73745bcf18c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:20:57.609627+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "883e372469b51cf3fac6c56dac5f22f1bbf4e1dad2bab434748fe63792f6491d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:20:57.609627+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糞便DNAメタバーコーディングと摂食写真から明らかになった中国におけるエデンクジラ（Balaenoptera edeni edeni）の獲物",
+    "abstract_ja": "中国南部の北浦湾にはエデンクジラ（Balaenoptera edeni edeni）の安定した個体群が生息しているが、その食性については依然として十分に解明されていない。本研究では、糞便DNAメタバーコーディング、写真による同定、および漁業・市場調査を統合し、中国の威州島周辺における餌生物組成を調査した。2021年から2026年にかけて採取された16件の糞便サンプルをCOIを用いて解析し、さらに8件については12S MiFishおよび18S V4マーカーを用いて解析を行った。12Sマーカーにより、Ilisha、Nematolosa、Thryssa、Sardinellaなどの小型の沿岸性群泳魚を含む、魚類に関連する41の分類群が検出された。摂食時の水面および水中写真により、2つの候補餌生物分類群が裏付けられ、個体形態はSardinella albellaおよびAlepes djedabaと一致していた。クジラの糞便DNAと海水eDNAを比較した結果、いくつかの分類群において、海水対照群よりも糞便ライブラリ内での相対的な出現頻度が高いことが示された。漁業・市場調査では威州島から19の魚類分類群が記録され、大鵬湾での補足調査ではさらに8つの分類群が検出されたが、これらは糞便DNAデータセットでは検出されず、クジラによる摂食の直接的な分子生物学的証拠ではなく、潜在的な餌生物の利用可能性を示す市場のみの記録として扱われた。COIおよび18Sマーカーからは、カイアシ類、ヒドロ虫類、二枚貝類、ゼラチン質生物、および微細藻類も検出されたが、これらは必ずしも直接的な餌生物ではなく、共摂取された可能性のある環境的要因、あるいはより広範な食物網に関連するシグナルとして慎重に解釈された。全体として、分子生物学的、写真的、および漁業に基づく証拠は一貫して、小型の沿岸性群泳魚が最も有力な候補餌生物群であることを示した。AquaMaps由来の分布確率グリッドを用いた空間解析により、候補餌生物に関連する分類群は主に沿岸および棚海に関連する生態系に集中していることが示された。本研究は、中国海域におけるエデンクジラの餌生物組成に関する初の多角的な証拠評価を提供するものであり、沿岸性ヒゲクジラの食性を研究する上で、糞便DNAメタバーコーディングとフィールドベースの視覚的証拠を統合することの有用性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763039",
+    "title": "Metabolic cascades drive spatial prebiotic fermentation in a defined gut consortium",
+    "abstract": "Dietary fiber deficiency shifts the gut microbiota to degrade host mucus, compromising intestinal homeostasis. Mechanistically linking in vitro metabolic dynamics of fiber degradation to in vivo outcomes remains challenging due to a lack of representative model systems. Introducing spatial mucin structures to a defined Oligo-Mouse-Microbiota (OMM12) in vitro consortium allowed us to recapitulate the spatio-temporal dynamics of xylooligosaccharide (XOS) processing in gnotobiotic mice. XOS supplementation rapidly established a stable community state in vitro and in vivo across compositional, metabolic and transcriptional levels. XOS supplementation established distinct functional guilds: Bifidobacterium animalis and Blautia coccoides partitioning xylose and arabinose catabolism, whilst profiting from XOS degradation by Bacteroides caecimuris. Along the colonic axis, a spatial XOS gradient exposes Bl. coccoides's substrate preference for xylose and drives longitudinal functional adaptations. Altogether, our predictive platform proves that regional microenvironments govern prebiotic efficacy, highlighting spatial cascades as essential parameters for targeted microbiome interventions.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763039",
+    "date": "2026-10-31",
+    "authors": "Berthold DL, Realini NR, Sichert A, Hausmann A, Sauer U.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354943",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2342,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.30.763039"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d3e9f10f8f52a70cd3f9e710f94fabd54115172e9d227e25f9be3a7957f77814",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:20:57.609627+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b6c731166f46cd0c405c57001ec282a3fba230bf9f53ec7aefc5ef0c03ce31f6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T03:20:57.609627+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "代謝カスケードが特定の腸内コンソーシアムにおける空間的なプレバイオティクス発酵を駆動する",
+    "abstract_ja": "食物繊維の不足は、腸内細菌叢を宿主粘液の分解へとシフトさせ、腸管の恒常性を損なう。代表的なモデル系の欠如により、食物繊維分解のin vitroにおける代謝動態をin vivoの結果に機序的に結びつけることは依然として困難である。定義されたOligo-Mouse-Microbiota (OMM12) in vitroコンソーシアムに空間的なムチン構造を導入することで、gnotobioticマウスにおけるキシオリゴ糖（XOS）処理の時空間的動態を再現することが可能となった。XOSの補充により、組成、代謝、および転写の各レベルにおいて、in vitroおよびin vivoで安定した群集状態が速やかに確立された。XOSの補充により、明確な機能的ギルドが形成された。Bifidobacterium animalisとBlautia coccoidesはキシロースとアラビノースの異化を分担する一方で、Bacteroides caecimurisはXOS分解から利益を得ている。結腸軸に沿って、空間的なXOS勾配がBl. coccoidesのキシロースに対する基質選好性を顕在化させ、縦断的な機能的適応を駆動する。総じて、我々の予測プラットフォームは、局所的な微小環境がプレバイオティクスの有効性を制御することを実証しており、標的を絞ったマイクロバイオーム介入における不可欠なパラメータとして空間的カスケードを浮き彫りにしている。"
   }
 ]
