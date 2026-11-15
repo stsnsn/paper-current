@@ -255862,5 +255862,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ARIEL：実験的なRNA-リガンド結合親和性と3次元構造をセットにした、オープンアクセスのデータベース。",
     "abstract_ja": "RNAは低分子治療薬の標的としてますます注目を集めているが、RNA結合性低分子化合物の合理的設計および計算モデリングは、3次元構造に紐付いた実験的に測定された結合親和性の不足によって制約を受けている。本報では、RNA-リガンド複合体の実験的に決定された解離定数（Kd）と対応する実験構造を紐付けた、オープンアクセスかつ手動キュレーション済みのデータベースであるARIEL（Affinity Resource for Interactions of RNA and Ligands）を提案する。我々は、Protein Data BankからRNA含有構造6,954件をスクリーニングし、小型リガンドを有する複合体2,843件を抽出した上で、関連する一次文献を手動でキュレーションして対応するKd値を取得した。これにより、実験的親和性を有する278組のRNA-リガンド複合体からなる非冗長なデータセットが得られ、そこには171種類の異なるRNA標的に結合した179種類の固有リガンドが含まれ、Kd値は9桁の範囲（-log Kd 2.1-11.0）に及んでいた。各エントリには、Kdの測定方法と条件、完全な文献由来情報、リガンドの物理化学的記述子、および結合ポケットのアノテーションが提供されており、構造、リガンド、および出典論文間の直接的なクロスリンクが設けられている。ARIELは、定期的なバージョン管理付きリリースを通じて維持管理され、https://aocdweb.com/BioTools/ARIEL/ にて無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0495.v1",
+    "title": "Spatially Resolved Immunometabolic Reprogramming of Tumor-Associated Macrophages: An Integrative Multi-Layer Re-Analysis of Public Spatial Metabolomics, Spatial Transcriptomics and Single-Cell Resources",
+    "abstract": "Background:  Metabolic reprogramming of tumor-associated macrophages (TAMs) drives tumor immune evasion, yet the spatial and subtype-level organization of TAM metabolism remains under-characterized. Methods: We re-analyzed public spatial metabolomics, spatial transcriptomics, and single-cell datasets using autocorrelation-corrected spatial statistics, patient-level testing, and replication across breast, lung, colorectal, liver, and brain tumor data. Results: TAMs formed the most spatially clustered transcriptional module in breast tumor sections. TAM-dense regions were robustly coupled to iron handling (ρ = 0.568), surviving gene-overlap, cell-abundance, and erythrocyte/vascular-exposure controls, whereas apparent glycolysis and lipid-uptake links did not survive spatial or abundance correction. In lung adenocarcinoma, subtype comparisons were confounded by tissue origin; within tumor tissue, two differences persisted across patients (higher lipid uptake in C1QC⁺ and higher iron handling in FOLR2⁺ TAMs). A reported SPP1⁺-versus-C1QC⁺ polarity recurred at cell level across cancer types but not at patient level. Mitochondrial DNA tracing detected clonally expanded, metabolically hyperactive TAMs in two of four evaluable samples. Conclusions: TAM metabolism is spatially organized and subtype-specific, with iron handling as the most robust territorial coupling, supporting spatially stratified, subtype-aware design of metabolism-targeting trials.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0495.v1",
+    "date": "2026-11-05",
+    "authors": "Shen C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359915",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metabolomic",
+        "resource",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4723,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.20944/preprints202611.0495.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e9782b094930385f2dfa8630e67ec5b0754ec44b1f3d5e1042f7a93d4a5d9a06",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:26:43.499463+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3f7c122c30b54f30564bad4906a486d5d8e0c6d0aa2d0c828ff9c6ac317815b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:26:43.499463+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腫瘍関連マクロファージの空間分解免疫代謝リプログラミング：公開空間メタボロミクス、空間トランスクリプトミクスおよびシングルセルリソースの統合的多層再解析",
+    "abstract_ja": "背景：腫瘍関連マクロファージ（TAM）の代謝リプログラミングは腫瘍の免疫逃避を駆動するが、TAM代謝の空間的およびサブタイプレベルの組織化については未だ十分に解明されていない。方法：公開の空間メタボロミクス、空間トランスクリプトミクス、およびシングルセルデータセットを、自己相関補正済み空間統計量、患者レベルの検定、ならびに乳癌、肺癌、大腸癌、肝癌、および脳腫瘍データにわたる再現解析を用いて再解析した。結果：乳癌腫瘍切片において、TAMは最も空間的にクラスター化した転写モジュールを形成していた。TAM密集領域は、鉄処理（ρ = 0.568）、生存遺伝子オーバーラップ、細胞量、および赤血球／血管曝露コントロールと強固に共役していたが、見かけ上の解糖系および脂質取り込みとの関連は、空間的または量的な補正後も維持されなかった。肺腺癌では、サブタイプ間の比較が組織由来によって交絡しており、腫瘍組織内においても患者間で2つの差異（C1QC⁺における脂質取り込みの亢進、およびFOLR2⁺ TAMにおける鉄処理の亢進）が認められた。報告されているSPP1⁺対C1QC⁺の極性は、患者レベルではなく癌種間で細胞レベルにおいて再現された。ミトコンドリアDNAトレーシングにより、評価可能な4つのサンプルのうち2つにおいて、クローン的に増殖し代謝が亢進したTAMが検出された。結論：TAM代謝は空間的に組織化されておりサブタイプ特異的であり、鉄処理が最も強固な領域的共役を示している。このことは、代謝を標的とした試験において、空間的に層別化されサブタイプを考慮した設計を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.763899",
+    "title": "FoldAbS: Repurposing the Protein Folding Model as a Foundation Encoder for Antibody Screening",
+    "abstract": "Therapeutic antibody screening requires prioritizing antibody candidates across specificity, affinity, and developability. Current pipelines typically silo these objectives and underuse structural information that governs antibody–antigen recognition. To address these inefficacies, we introduce  FoldAbS , a unified supervised screening framework that reconceptualizes protein folding models as frozen foundation encoders, exploiting their internal representations to capture rich sequence, geometric, and interaction dynamics well beyond basic structure prediction. By coupling the folding model with lightweight, task-specific heads, FoldAbS seamlessly evaluates all three therapeutic criteria within a single architecture. Instantiating this framework with the open-source Protenix model (  FoldAbS-Px ) yields consistent improvements over baseline approaches, achieving significant performance gains of up to 13.1%, 9.2%, and 6.2% in specificity, affinity, and developability, respectively. Collectively, these results reposition protein folding models from structure predictors and confidence scorers into reusable foundation encoders for comprehensive and supervised antibody screening. Our code is available at  https://github.com/nohandsomewujun/FoldAbS .",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.763899",
+    "date": "2026-11-05",
+    "authors": "Wu J, Wu F, Zhu X, Huang D, Cheng K, Ma J, Feng F, Yao J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359758",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "prediction",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "prediction",
+          "protein",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4724,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.03.763899"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b66e2b798bc143f61d83d78b9c26b388dde684abffdb8dc9fb359b978c3567a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:26:43.499463+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f964283d775b827fff7a05b329e673bdbfc6177a8df30947282eda5a1a1bf4f6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:26:43.499463+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FoldAbS: タンパク質フォールディングモデルを抗体スクリーニングの基盤エンコーダとして再利用する",
+    "abstract_ja": "治療用抗体スクリーニングでは、特異性、親和性、および開発容易性の観点から抗体候補の優先順位付けを行う必要がある。現在のパイプラインでは通常、これらの目的が個別に扱われており、抗体－抗原認識を規定する構造情報が十分に活用されていない。こうした非効率性を解消するため、我々はFoldAbSを提案する。これは、タンパク質フォールディングモデルを凍結された基盤エンコーダとして再概念化し、その内部表現を活用することで、基本構造予測を遥かに超えた豊かな配列・幾何学的・相互作用ダイナミクスを捉える統合的な教師ありスクリーニングフレームワークである。フォールディングモデルを軽量なタスク特化型ヘッドと結合させることで、FoldAbSは単一のアーキテクチャ内でこれら3つの治療基準すべてをシームレスに評価する。オープンソースのProtenixモデル（FoldAbS-Px）を用いて本フレームワークを実装したところ、ベースライン手法に対して一貫した改善が得られ、特異性、親和性、開発容易性においてそれぞれ最大13.1%、9.2%、6.2%という顕著な性能向上を達成した。総じて、これらの結果は、タンパク質フォールディングモデルを構造予測器や信頼度スコアラーから、包括的かつ教師ありの抗体スクリーニングのための再利用可能な基盤エンコーダへと再定義するものである。本コードは https://github.com/nohandsomewujun/FoldAbS で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.764238",
+    "title": "MorphoProt: RNA-Conditioned Integration of Multiscale Histology for Spatial Protein Inference",
+    "abstract": "Spatially resolved protein abundance reveals cellular states and tissue organization that RNA expression cannot fully capture, yet direct spatial protein profiling remains costly and limited in coverage. Histology images routinely accompany spatial transcriptomics and offer complementary morphological information for protein inference. Here, we introduce M  orpho P  rot , a multimodal framework that jointly predicts spatial protein abundance from RNA expression, multiscale histology and tissue neighborhoods. M  orpho P  rot uses RNA-guided cross-attention over five histological fields of view, so that the morphological context read for each spot is conditioned on its molecular state. The fused representation is refined by gated aggregation of RNA-derived information from physical and transcriptomic neighborhoods before joint protein prediction.  On held-out sections of human tonsil, mouse spleen and human liver, M  orpho P  rot achieves mean protein-wise Spearman correlations of 0.652, 0.604 and 0.372, outperforming matched RNA-only and graph-based baselines and the histology-based HIPI and multimodal SPRINT baselines in all three tissues. Combining fields of view, rather than any single one, carries the histology gain: in spleen and liver, the multiscale model outperforms every single-field model, and its learned scale preference separates white-pulp from red-pulp compartments. Predicted proteins preserve protein-defined tissue domains and their marker identity, and recover pathologist-annotated germinal centers as accurately as measured proteins.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764238",
+    "date": "2026-11-05",
+    "authors": "Xu L, Zheng L, Zhan Y, Zhang Y, Zhang K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359671",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework",
+        "inference",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4725,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.11.04.764238"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a0f682b94cd91554c7b727e5648c72de9e359fb1b6ee99cf56d93da0326e0f37",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:26:43.499463+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6912f795393cbb60eefb5bd92bab34d2aaaaa00c0619ca39cf4a5f79a38fc6f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:26:43.499463+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MorphoProt: 空間的タンパク質推論のためのRNA条件付きマルチスケール組織学の統合",
+    "abstract_ja": "空間分解能によるタンパク質量解析は、RNA発現では十分に捉えきれない細胞状態や組織構造を明らかにするが、直接的な空間的タンパク質プロファイリングには依然として多大なコストがかかり、網羅性にも限界がある。組織像画像は通常、空間トランスクリプトミクスに付随して用いられ、タンパク質推論のための補完的な形態学的情報を提供する。本研究では、RNA発現、マルチスケール組織像、および組織近傍領域から空間的なタンパク質量を共同で予測するマルチモーダルフレームワーク「M orpho P rot」を提案する。M orpho P rotは、5つの組織学的視野にわたってRNA誘導型クロスアテンションを用いることで、各スポットから読み取られた形態学的コンテキストをその分子状態に条件付ける。融合表現は、共同タンパク質予測に先立ち、物理的およびトランスクリプトーム的な近傍領域から得られたRNA由来情報のゲート付き集約によって精緻化される。ヒト扁桃、マウス脾臓、およびヒト肝臓のホールドアウト切片において、M orpho P rotはタンパク質ごとの平均スピアマン相関係数0.652、0.604、0.372を達成し、3つの組織すべてにおいて、RNAのみのベースラインやグラフベースのベースライン、ならびに組織像ベースのHIPIおよびマルチモーダルSPRINTベースラインを上回った。単一の視野ではなく複数の視野を組み合わせることで組織像の解析上の利点が得られ、脾臓および肝臓ではマルチスケールモデルが単一視野モデルを上回り、さらに学習されたスケール選好性によって白髄と赤髄のコンパートメントが分離された。予測されたタンパク質は、タンパク質によって定義される組織ドメインとそのマーカーとしての同一性を保持し、病理医がアノテーションした胚中心を、測定されたタンパク質と同等に正確に再現した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11164259/v1",
+    "title": "A Novel Hybrid Latent Class Analysis –Machine Learning Framework for Multiclass Prediction of Complex Outcomes: Application to Marital Wellbeing among Middle Eastern Families",
+    "abstract": "Abstract    Background  : Traditional statistical profiling of complex human outcomes faces a fundamental theoretical dichotomy: generative models excel at explanatory inference but impose restrictive linear constraints, while discriminative machine learning algorithms capture non-linear relationships but obscure unobserved population heterogeneity. To bridge this divide, we propose a novel, two-stage statistical paradigm that synergistically integrates likelihood-based finite mixture modeling with non-parametric ensemble learning. This architecture reframes the task into the discovery of a multidimensional latent construct, followed by a flexible mapping from observable covariates to latent group memberships using tree-based universal function approximators.  Methods  : The methodological framework relies on four sequential principles, instantiated using a Middle Eastern family wellbeing dataset (n=736) as a proof of concept. First, Latent Class Analysis (LCA) serves as the generative engine to model the target outcome as a multinomial latent variable. Second, the framework transitions to a discriminative approach, treating the discovered profiles as the target variables for non-parametric Ordinal Forest and Ordered Forest ensemble algorithms. Third, the principle of minimal sufficient complexity is operationalized via Recursive Feature Elimination (RFE) with cross-validation to satisfy structural risk minimization. Fourth, we deploy a multi-criteria evaluation ontology, utilizing one-vs-rest multiclass AUC for separability, macro-averaged F1-scores for subgroup equity, and the Ranked Probability Score (RPS) as a proper scoring rule for feature importance and calibration.  Results  : Empirically, the LCA identified three distinct, meaningful subpopulation profiles with prevalence of 25%, 56%, and 19%, validating the presence of unobserved target heterogeneity. Adhering to structural risk minimization, reduced-feature models achieved multiclass AUC values (0.775–0.793) statistically identical to full-feature architectures, confirming the power of parsimonious representations. Feature importance derived via RPS revealed that psychological constructs (depression, extraversion, and neuroticism) were the primary drivers of profile differentiation, dramatically outperforming demographic or socioeconomic metrics.  Conclusion  : We present a theoretically grounded, generalizable statistical framework that reconciles the explanatory depth of generative latent variable modeling with the predictive flexibility of non-parametric machine learning. This paradigm offers a principled solution for multiclass profiling in high-dimensional, heterogeneous data, with broad theoretical applicability extending well beyond the illustrative case of family wellbeing.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11164259/v1",
+    "date": "2026-11-05",
+    "authors": "Hafizi-Rastani I, Mehrabani-Zeinabad K, Feizi A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359358",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4726,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.21203/rs.3.rs-11164259/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "feae446b65c35dca69763740a930d6da25238064dab6c830082cb5c269568a56",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:26:43.499463+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ca40def3aebac0364ef0c3ee033b2b159e90cf13bd2a8f98c80dbf56f59c6b47",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:26:43.499463+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新たなハイブリッド潜在クラス分析 ―複雑なアウトカムの多クラス予測に向けた機械学習フレームワーク：中東家庭における夫婦のウェルビーイングへの応用",
+    "abstract_ja": "要旨    背景  : 複雑な人間のアウトカムに対する従来の統計的プロファイリングは、根本的な理論的二分法に直面している。生成モデルは説明的推論に長けている一方で制約的な線形制約を課し、一方で識別的機械学習アルゴリズムは非線形関係を捉えるものの、観測されていない集団の異質性を覆い隠してしまう。この隔たりを埋めるため、我々は尤度に基づく有限混合モデリングとノンパラメトリック・アンサンブル学習を相乗的に統合した、新たな2段階の統計的パラダイムを提案する。このアーキテクチャは、タスクを多次元の潜在構成概念の発見へと再定式化し、続いてツリーベースの普遍関数近似器を用いて、観測可能な共変量から潜在グループ所属への柔軟なマッピングを行う。  手法  : 本方法論的枠組みは4つの逐次的な原則に基づいており、概念実証として中東の家族ウェルビーイング・データセット（n=736）を用いて具体化した。第一に、潜在クラス分析（LCA）を生成エンジンとして機能させ、ターゲットアウトカムを多項潜在変数としてモデル化する。第二に、本枠組みは識別的アプローチへと移行し、発見されたプロファイルをノンパラメトリックな順序付きフォレスト（Ordinal Forest）および順序付きフォレスト（Ordered Forest）アンサンブルアルゴリズムのターゲット変数として扱う。第三に、最小十分複雑性の原則を、構造リスクの最小化を満たすための交差検証を伴う再帰的特徴量除去（RFE）を通じて運用化する。第四に、多基準評価オントロジーを導入し、分離可能性には1対それ以外（one-vs-rest）の多クラスAUCを、サブグループ間の公平性にはマクロ平均F1スコアを、そして特徴量の重要度とキャリブレーションのための適切なスコアリング規則として順位付き確率スコア（RPS）を利用する。  結果  : 実証的に、LCAは有病率がそれぞれ25%、56%、19%である3つの明確に異なる有意義なサブ集団プロファイルを特定し、観測されていないターゲット異質性の存在を検証した。構造リスクの最小化を遵守し、特徴量削減モデルは、フル特徴量アーキテクチャと統計的に同一の多クラスAUC値（0.775–0.793）を達成し、簡潔な表現の有効性を裏付けた。RPSを通じて導出された特徴量の重要度により、心理的構成概念（抑うつ、外向性、神経症傾向）がプロファイル分化の主要な要因であり、人口統計学的または社会経済的指標を劇的に上回ることが明らかになった。  結論  : 我々は、生成的潜在変数モデリングの説明的な深みと、ノンパラメトリック機械学習の予測的な柔軟性を調和させた、理論的根拠に基づく汎用的な統計的枠組みを提示する。このパラダイムは、高次元かつ異質なデータにおける多クラスプロファイリングのための原理的な解決策を提供し、家族ウェルビーイングという例示的なケースをはるかに超えて広範な理論的適用可能性を有する。"
   }
 ]
