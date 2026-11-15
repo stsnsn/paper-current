@@ -256482,5 +256482,323 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "深層学習による3次元構造予測に基づくRNA構造の検証手法",
     "abstract_ja": "生命の分子メカニズムの解明は、正確な高分子構造に基づいている。特にRNAは、その固有の柔軟性と動的な性質により、構造生物学において特有の課題となっている。構造決定実験とその解釈の困難さから、決定された構造における誤りを防止または修正するための検証手法が開発されてきた。RNA構造検証の既存手法は、タンパク質と同様に、大きく2つのタイプに分類できる。マップベースの検証ツールは、実験データと決定された構造との間の不一致を検出することを目的としている。これらはあらゆる種類の誤りを修正するのに極めて有効だが、それは高分解能の実験データが利用可能な場合に限られる。通常、分子幾何構造に焦点を当てるモデルのみの検証手法は、実験分解能が低い場合でも、短尺度の問題を解決するのに極めて有効である。Conkit-validateはタンパク質検証のためのマップレス手法であり、化学的な妥当性ではなく、同一タンパク質における実験モデルと構造予測の類似性に基づいている。接触パターンを比較することで、本ツールは最先端の構造予測モデルによって学習された進化共分散情報を活用し、配列割り当ての問題を検出可能なマップレス検証手法を実現しており、特にレジスタエラーの検出において顕著な成果を上げている。本稿では、conkit-validate手法をRNAに拡張する。その結果、タンパク質で以前に達成されたものと同様の性能が示された。PDBのスキャンにおいて、その検出率は密度の局所分解能に依存しないため、マップベースの手法が適用できない状況でも引き続き利用可能であり、ケーススタディでは、密度だけではモデル間の判断がつかないレジスタエラーを特定できることが示されている。これらを総合すると、マップベースや幾何構造ベースの手法とは直交する情報を用いて接触予測に基づく検証アプローチを採用することで、多様な基準に照らして寄託されたRNA構造の品質を確保できるという相補的な価値が浮き彫りになる。本手法の性能は、RNA構造予測手法の継続的な改良に伴って向上することが期待される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.16.759698",
+    "title": "VIGAT: VLM-guided gene activity quantification from single-cell ATAC-seq",
+    "abstract": "ABSTRACT  Summary  Gene activity quantification from single-cell ATAC-seq is challenging because genomic regions informative of cell identity can vary across genes and tissues, while broadly accessible regions may provide limited cell-type-discriminative information. We developed VIGAT, a vision-language model (VLM)-guided tool that automates visual interpretation of ATAC coverage plots for adaptive gene activity quantification. VIGAT jointly examines accessibility patterns across multiple marker genes, integrating genomic annotations and biological context to select gene-specific regions enriched for cluster-discriminative signals. Selected regions are used to generate a gene-by-cell activity matrix. Across 196 paired single-cell RNA-seq and ATAC-seq datasets, VIGAT outperformed five existing methods in recovering marker-associated accessibility enriched in the corresponding cell populations, demonstrating the utility of VLM-guided visual reasoning for scalable gene activity quantification. Availability and implementation  VIGAT is implemented as an open-source R package and is freely available at  https://github.com/beijie02/VIGAT .",
+    "journal": "",
+    "doi": "10.64898/2026.10.16.759698",
+    "date": "2026-11-03",
+    "authors": "Ji B, Ji Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357477",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4735,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.16.759698"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8c11551b3d220d911f40c1fc45938318c564271913ccdfbb6dd7b3047a5b66ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:32:13.296215+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "afd8c06f2df221552f34c22e480a1f0781bd739149b7a3fb69e01f8bdd242cc8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:32:13.296215+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "VIGAT: シングルセルATAC-seqによるVLM誘導型遺伝子活性定量",
+    "abstract_ja": "要旨  概要  シングルセルATAC-seqによる遺伝子活性の定量化は、細胞アイデンティティを示すゲノム領域が遺伝子や組織によって異なる場合がある一方で、広範にアクセス可能な領域では細胞種識別に関する情報が限定的であるため、困難である。我々は、適応型遺伝子活性定量化のためにATACカバレッジプロットの視覚的解釈を自動化する、視覚言語モデル（VLM）誘導型ツールVIGATを開発した。VIGATは、複数のマーカー遺伝子にわたるアクセシビリティパターンを統合的に解析し、ゲノムアノテーションと生物学的コンテキストを統合することで、クラスター識別シグナルが濃縮された遺伝子特異的領域を選択する。選択された領域を用いて、遺伝子・細胞ごとの活性マトリックスを生成する。シングルセルRNA-seqとATAC-seqのペアデータセット196件において、VIGATは、対応する細胞集団で濃縮されたマーカー関連のアクセシビリティを復元する点で既存の5つの手法を上回り、スケーラブルな遺伝子活性定量化におけるVLM誘導型視覚推論の有用性を実証した。利用可能性と実装  VIGATはオープンソースのRパッケージとして実装されており、https://github.com/beijie02/VIGAT で無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762387",
+    "title": "Improving real-time search through deep learning-enhanced fragment ion indexing",
+    "abstract": "The fragment ion indexed database searching approach enables highly efficient tandem mass spectrometry database searches, including real-time search workflows. However, the index can require tens of gigabytes of memory, often exceeding the free memory available on instrument acquisition computers running the search. This restricts the size of the searchable database, the variable modification space, and the number of searches that can run concurrently. To address this problem, we developed an index-pruning pipeline within the Comet database search tool using Carafe, a deep learning tool that predicts fragment ion intensities based on peptide sequences. In our approach, only fragment ion positions that are predicted to be observable are written in the index, eliminating entries that are unlikely to contribute to spectrum detection. We evaluated this approach on two search spaces in three index configurations to demonstrate that masking significantly reduced the number of fragment ion index entries and, consequently, peak search memory use. Masked searches were also faster than unmasked searches and identified a comparable number of peptide-spectrum matches. Because all prediction and masking steps are performed before searching, their cost is amortized across repeated, future searches of the same database and modification configuration, introducing no per-spectrum search overhead. The complete implementation is open source with an Apache license.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762387",
+    "date": "2026-11-03",
+    "authors": "Eng JK, Hoopmann MR, Schweppe DK, MacCoss MJ, Noble WS, Wen B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357474",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "pipeline",
+        "sequence",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "database",
+          "pipeline",
+          "sequence",
+          "tool"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4736,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.27.762387"
+    ],
+    "translation": {
+      "title": {
+        "hash": "689416ab10c1bb8b67bce00099fa5dd6e3bd770025fd8964485cc8ad109bf43a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:32:13.296215+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "54b0a2251e0641e151a035e546557724d708a1456e74f63486d0d4f44725bade",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:32:13.296215+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "深層学習によるフラグメントイオンインデックス化を用いたリアルタイム検索の向上",
+    "abstract_ja": "フラグメントイオンインデックス型データベース検索手法は、リアルタイム検索ワークフローを含む、極めて効率的なタンデム質量分析データベース検索を可能にする。しかし、インデックスには数十ギガバイトのメモリが必要となる場合があり、検索を実行する装置取得用コンピュータで利用可能な空きメモリを超えることが多い。これにより、検索可能なデータベースのサイズ、可変修飾空間、および並行して実行可能な検索回数が制限される。この問題に対処するため、我々はペプチド配列に基づいてフラグメントイオン強度を予測する深層学習ツールCarafeを用い、Cometデータベース検索ツール内にインデックスプルーニングパイプラインを開発した。本手法では、観測可能と予測されたフラグメントイオン位置のみをインデックスに書き込み、スペクトル検出に寄与する可能性が低いエントリを排除する。3種類のインデックス構成における2つの検索空間を用いて本手法を評価した結果、マスキングによってフラグメントイオンのインデックスエントリ数が大幅に減少し、結果としてピーク検索のメモリ使用量も低減することが実証された。また、マスク付き検索はマスクなしの検索よりも高速であり、同程度の数のペプチドスペクトルマッチを同定した。すべての予測およびマスキング工程は検索前に実行されるため、そのコストは同一のデータベースおよび修飾構成を用いた将来の繰り返し検索にわたって償却され、スペクトルごとの検索オーバーヘッドは発生しない。完全な実装はApacheライセンスの下でオープンソースとして公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762448",
+    "title": "A Chromosome Scale Genome Assembly for the Australian blue mussel  Mytilus planulatus",
+    "abstract": "Mussels belonging to the genus  Mytilus are among the world’s most ecologically and economically important bivalve molluscs. Although the genus most likely originated in the Northern Hemisphere, the evolutionary history of Southern Hemisphere lineages, including the timing and number of colonisation events leading to the extant Australian populations, remains debated. Limited genomic resources have hindered the reconstruction of these evolutionary histories. In Australia, distinguishing native  Mytilus planulatus from invasive  Mytilus galloprovincialis is critical for biosecurity and conservation, but previous molecular approaches lacked sufficient resolution to resolve species boundaries and hybridisation patterns.  Here, we present the first chromosome-scale reference genome for  M. planulatus . The assembly consists of 14 chromosomes and over 51,000 annotated protein-coding genes per haplotype. Comparative analysis revealed extensive structural variation and widespread hemizygosity despite a largely conserved chromosomal organisation relative to  M. galloprovincialis . Population analyses using SNPs and gene presence-absence variation in resequenced individuals confirmed previously inferred patterns of population structure and establish this reference genome as a valuable resource for future studies of genome evolution, adaptation and population genomics in  Mytilus .",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762448",
+    "date": "2026-11-02",
+    "authors": "Kireta D, Nerelli DE, Saco A, Bortoletto E, Howitt S, Rosani U, Riginos C, Gerdol M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355725",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4742,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.28.762448"
+    ],
+    "translation": {
+      "title": {
+        "hash": "efdc860dacad2f88a4443149f38261760af65ef1805e92cbd6abffaa2f177e51",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:32:13.296215+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "44e3d6464e47cc2ad7fd5748cc15dd540585839fb7cb0c1ceb3c6621323b248e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:32:13.296215+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オーストラリア産アオガイ Mytilus planulatus の染色体スケールゲノムアセンブリ",
+    "abstract_ja": "Mytilus属に属する二枚貝は、生態学的および経済的に世界で最も重要な二枚貝類の一つである。本属はおそらく北半球で起源したと考えられるが、現存するオーストラリアの個体群に至る定着イベントの時期や回数を含む、南半球の系統の進化史については依然として議論が分かれている。ゲノム資源の不足が、これらの進化史の再構築を妨げてきた。オーストラリアにおいて、在来種のMytilus planulatusと外来種のMytilus galloprovincialisを区別することは、バイオセキュリティと保全の観点から極めて重要であるが、従来の分子生物学的手法では、種境界や交雑パターンを解明するための十分な解像度が得られていなかった。本研究では、M. planulatusの初の染色体スケールのリファレンスゲノムを提示する。このアセンブリは14本の染色体からなり、ハプロタイプあたり51,000個以上のアノテーション済みタンパク質符号化遺伝子を含んでいる。比較解析の結果、M. galloprovincialisと比較して染色体構成が概ね保存されているにもかかわらず、広範な構造変異と広範なヘミ接合性が認められた。再シーケンシングされた個体を用いたSNPおよび遺伝子の有無による変異の集団解析により、以前に推定されていた集団構造のパターンが確認され、本リファレンスゲノムは、Mytilus属におけるゲノム進化、適応、および集団ゲノミクスに関する今後の研究にとって貴重なリソースとなることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.26366950",
+    "title": "Incorporating tandem repeats improves gene expression prediction models",
+    "abstract": "Tandem repeats (TRs), consisting of consecutive repeated units of 1+bp, are highly polymorphic features found throughout the genome that have been shown to have widespread impacts on gene expression and other traits. However, despite their prevalence, TRs are not included as features in polygenic prediction models, which typically focus on common single nucleotide polymorphisms (SNPs). Here, we develop a framework to incorporate TRs into gene expression models, which consider variants in a  cis -window around each gene to predict expression levels. Simulation analyses demonstrate that including linear effects of TR copy number as features can result in substantially improved predictions, particularly when high impact causal TRs are poorly tagged by individual SNPs. We applied our framework to train and evaluate SNP+TR expression prediction models in lymphoblastoid cell lines (LCLs) using data from the Geuvadis cohort (n=359 European individuals) and compared these to SNP-only models. Overall, across 2,553 genes for which models trained successfully, we observed that SNP+TR models give significantly improved performance for 78 genes and a mean gain in adjusted R-squared 0.0037 across all genes, with most gains replicating in the independent Gene-Tissue Expression Project (GTEx) cohort. We additionally find that incorporating TRs results in simpler models and improves portability of models when testing on data for 89 Yoruban individuals from Geuvadis. Finally, we extended our models to consider nonlinear effects of TR copy number on expression. Under our nonlinear TR association testing, we identify 2,255 nonlinear significant genes not captured by linear association testing models, and identify exemplar genes, including  PALD1 , with highly polymorphic TRs for which incorporating their nonlinear effects results in substantially improved gene expression prediction. Overall, these results demonstrate the utility of including TRs in expression prediction models and show promise that they will have similar impact across other models such as polygenic risk scores for complex traits.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.26366950",
+    "date": "2026-11-02",
+    "authors": "Lamkin M, Li Y, Akamatsu K, Amariuta T, Gymrek M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355699",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4743,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.30.26366950"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f3a11b7fa5321c6fddaf43f1295c4eefaba2000542b575861eb6c44a13b9cfe2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:32:13.296215+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eb397ca53449038f90f8d4f04a4cac3b177a8121837b35ee57ec6d45186dd313",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:32:13.296215+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンデムリピートの組み込みにより遺伝子発現予測モデルが向上する",
+    "abstract_ja": "1+bpの連続した反復単位からなるタンデム反復（TR）は、ゲノム全域に見られる高度に多型的な特徴であり、遺伝子発現やその他の形質に広範な影響を及ぼすことが示されている。しかし、こうしたTRは広く存在するにもかかわらず、通常は一般的な一塩基多型（SNP）に焦点を当てるポリジェニック予測モデルの予測特徴量には組み込まれていない。本研究では、各遺伝子周囲のシスウィンドウ内の変異を考慮して発現レベルを予測する、遺伝子発現モデルにTRを組み込むためのフレームワークを開発する。シミュレーション解析により、TRコピー数の線形効果を特徴量として組み込むことで、特に影響度の高い因果的TRが個々のSNPによって十分にタグ付けされていない場合に、予測精度が大幅に向上することが示された。我々は、Geuvadisコホート（欧州人359名）のデータを用いて、リンパ芽球様細胞株（LCLs）におけるSNP+TR発現予測モデルの学習および評価に本フレームワークを適用し、SNPのみのモデルと比較した。全体として、モデルの学習に成功した2,553個の遺伝子において、SNP+TRモデルは78個の遺伝子で有意に性能が向上し、全遺伝子にわたる調整済みR二乗の平均改善値は0.0037であった。また、これらの改善の大部分は、独立したGene-Tissue Expression Project（GTEx）コホートにおいても再現された。さらに、Geuvadisのヨルバ人89名のデータを用いた検証において、TRを組み込むことでモデルが簡素化され、モデルの移植性が向上することがわかった。最後に、我々はモデルを拡張し、TRコピー数が発現に及ぼす非線形効果を考慮するようにした。非線形TR関連検定により、線形関連検定モデルでは捉えられなかった2,255個の非線形有意遺伝子を特定した。また、PALD1を含む、高度に多型的なTRを持つ代表的な遺伝子を特定し、それらの非線形効果を組み込むことで遺伝子発現予測が大幅に向上することが示された。総じて、これらの結果は、発現予測モデルにTRを組み込むことの有用性を実証するものであり、複雑な形質に対するポリジェニックリスクスコアなどの他のモデルにおいても同様の効果をもたらす可能性を示している。"
   }
 ]
