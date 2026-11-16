@@ -275728,5 +275728,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "シアノバクテリアの遺伝子発現制御におけるGGCCメチル化の意義",
     "abstract_ja": "エピジェネティックなDNA修飾は真核生物の遺伝子発現において極めて重要であるが、細菌におけるその調節上の意義については十分に解明されていない。Synechocystis 6803のゲノムでは、DNA特異的メチルトランスフェラーゼM.Ssp6803IIが38,512個のGGCCモチーフの第1シトシンを修飾し、N4-メチルシトシン（GG m4 CC）を形成する。先行解析により、M.Ssp6803IIをコードする遺伝子の欠失（Δsll0729）が、hemJ遺伝子の発現低下による「青みがかった」表現型を引き起こすことが示されていた。この影響は、Δsll0729におけるhemJプロモーターの識別配列においてGGCCメチル化が欠如していたことに起因していた。本研究では、GG m4 CCメチル化が全体的な遺伝子発現に及ぼす影響を解析した。独立して得られた複数のDNAマイクロアレイデータセットのバイオインフォマティクス解析により、300以上の遺伝子の発現に再現性のある変化が認められた。我々は、プロモーター配列の異なる位置にGGCCメチル化モチーフを持つ26個の遺伝子を選定し、qPCR実験を通じてそれらの発現差を検証した。GGCCモチーフの相対的な位置に基づくプロモーターの分類から、遺伝子発現に対するコンテキスト特異的な影響が示唆された。これらの知見は、DNAメチルトランスフェラーゼM.Ssp6803IIを介したGG m4 CCメチル化が適切な遺伝子発現に重要な影響を及ぼしており、したがってシトシンN4メチル化がSynechocystisおよびおそらく他の多くの細菌において重要なエピジェネティックマーカーであることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760218",
+    "title": "Epstein-Barr Virus in HIV-Associated Conjunctival Squamous Cell Carcinoma and Transcriptional Reprogramming of Conjunctival Epithelial Cells",
+    "abstract": "ABSTRACT  The involvement of Epstein-Barr virus (EBV) in conjunctival squamous cell carcinoma (cSCC) remains incompletely defined. This study integrated analyses of primary tumors with an experimental model of the conjunctival epithelium. Five Nigerian tumors from patients with HIV and three Japanese tumors from patients without HIV were examined by EBV-encoded RNA in situ hybridization (EBER-ISH), EBV DNA PCR, and virome analysis of RNA sequencing data. EBER localized to epithelial tumor cells in four Nigerian specimens and none of the Japanese specimens. EBV DNA and RNA were each detected in three Nigerian tumors, with every EBER-positive tumor supported by at least one additional assay. Human telomerase reverse transcriptase-immortalized conjunctival epithelial cells infected with Akata-GFP-EBV expressed latency-associated and lytic viral genes. Comparison of three infected and three control cultures identified 96 differentially expressed host genes and 23 enriched Hallmark gene sets at a false discovery rate below 0.05. RT-qPCR confirmed increased HES1, CXCL8, CXCL2, and LOX and decreased FGFBP1, CSTA, SAPCD2, and TMEM40 expression. Prominent responses involved inflammatory signaling, epithelial remodeling, metabolism, and cell-cycle regulation. These findings identify tumor-cell-associated EBV in a subset of HIV-associated cSCC and establish an epithelial model for investigating infection-associated host responses.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760218",
+    "date": "2026-10-21",
+    "authors": "Dochi H, Avilala J, Yamada Y, Takahira M, Kondo S, Yoshizaki T, Morales M, Abdelghani R, Becnel D, Sides M, Morris GF, Feng W, Liu H, Lin Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348513",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virome",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1322,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.20.760218"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f4e3052ec5fad9d4f1efb5d6fcd05c1e628e4c171b007cee34b4683d1932b172",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:35:09.240284+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2f899f06bc0f36ae483bef5c12d946d1292faab32f01d9107fc6105d03a4a469",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:35:09.240284+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIV関連結膜扁平上皮癌におけるエプスタイン・バーウイルスと結膜上皮細胞の転写リプログラミング",
+    "abstract_ja": "要旨　結膜扁平上皮癌（cSCC）におけるエプスタイン・バーウイルス（EBV）の関与については、いまだ十分に解明されていない。本研究では、原発腫瘍と結膜上皮の実験モデルを用いた統合解析を行った。HIV感染患者由来のナイジェリア人腫瘍5例と、非感染患者由来の日本人腫瘍3例を対象に、EBVエンコードRNA in situハイブリダイゼーション（EBER-ISH）、EBV DNA PCR、およびRNAシーケンシングデータのビローム解析を実施した。EBERは、ナイジェリア人検体4例において上皮腫瘍細胞に局在したが、日本人検体では認められなかった。ナイジェリア人腫瘍3例においてそれぞれEBV DNAおよびRNAが検出され、すべてのEBER陽性腫瘍が少なくとも1つの追加アッセイによって裏付けられた。Akata-GFP-EBVで感染させたヒトテロメラーゼ逆転写酵素不活化結膜上皮細胞は、潜伏関連遺伝子および溶解性ウイルス遺伝子を発現した。感染培養3例と対照培養3例を比較した結果、偽発見率0.05未満で、96種類の発現変動ホスト遺伝子と23種類の濃縮Hallmark遺伝子セットが同定された。RT-qPCRにより、HES1、CXCL8、CXCL2、およびLOXの発現増加と、FGFBP1、CSTA、SAPCD2、およびTMEM40の発現減少が確認された。顕著な応答には、炎症性シグナル伝達、上皮リモデリング、代謝、および細胞周期調節が関与していた。これらの知見は、HIV関連cSCCの一亜群において腫瘍細胞関連EBVが存在することを明らかにするとともに、感染に伴う宿主応答を調査するための上皮モデルを確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2094.v1",
+    "title": "When RNA Viruses Converge on Host Membranes: Extracellular Vesicle-Mediated Transfer and Emerging Antiviral Vulnerabilities",
+    "abstract": "Positive-sense RNA viruses are commonly classified by genome organization, entry route, tissue tropism, and clinical syndrome, but these categories do not explain how viruses construct protected replication niches or route infectious material between cells. The endoplasmic reticulum (ER) provides a shared platform for viral translation, replication-organelle formation, membrane curvature, lipid remodeling, innate immune regulation, and vesicular trafficking. Within this framework, reticulon-3 (RTN3) has emerged as a candidate regulator linking ER-based RNA-virus replication to the generation of infectious extracellular-vesicle cargo. Hepatitis C virus (HCV) and dengue virus (DENV) provide the strongest comparative evidence for this model despite their distinct transmission routes, tissue tropisms, disease courses, and immune pathophysiology. HCV most clearly demonstrates that exosome-enriched fractions can transfer replication-competent viral RNA with defined host cofactors, whereas DENV extends this mechanism to an acute viral infection. Both viruses nevertheless replicate within remodeled ER membranes and can transfer infection-competent material in vesicle-associated form. Current evidence supports a context-dependent model in which RTN3-associated membrane curvature, ER–endosome communication, and cargo routing influence whether replication-associated viral RNA is retained, degraded, assembled into virions, or exported in biologically active extracellular vesicles. Related membrane-remodeling and vesicle-associated processes in Zika virus, West Nile virus, enteroviruses, SARS-CoV-2, and hepatitis A virus illustrate broader exploitation of host membrane organization, although direct evidence for RTN3-dependent infectious extracellular-vesicle transfer varies across these systems. In the best characterized models, vesicles protect viral genomes or replication-associated complexes and deliver biologically active cargo to recipient cells. Advances in isolation and characterization, including density-gradient or size-exclusion separation, immunoaffinity selection, particle and marker profiling, membrane-protection assays, and recipient-cell infectivity testing, now permit more rigorous identification of defined vesicle populations, protected cargo, and biological activity. Nevertheless, RTN3 should not be considered a universal RNA-virus dependency, nor should extracellular-vesicle release be assumed to generate uniformly infectious populations. Instead, HCV and DENV show that divergent viral pathophysiologies can converge on host membrane factors such as RTN3 while retaining virus-specific molecular partners and pathways for replication and vesicular transmission. Defining these shared and virus-specific dependencies may reveal host–virus interfaces suitable for broad-spectrum or resistance-resilient intervention, provided that infection-selective reliance, a measurable therapeutic window, and preservation of essential host-cell functions can be demonstrated.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2094.v1",
+    "date": "2026-10-21",
+    "authors": "Noumi T, Bitazar R, Asaba CN, Labonté P, Bukong TN.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347571",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1323,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2094.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a42d1f41566e534474a75155c86ff65a23202eba59f38406d86735e3ddc432e1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:35:09.240284+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "55903268e118a727b7d9cab0037757218dc3e4031351f6f844d9cf973760be1b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:35:09.240284+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNAウイルスが宿主膜に集結するとき：細胞外小胞を介した伝播と新たに出現する抗ウイルス脆弱性",
+    "abstract_ja": "ポジティブセンスRNAウイルスは一般に、ゲノム構成、侵入経路、組織指向性、および臨床症候群によって分類されるが、これらのカテゴリーでは、ウイルスがいかにして保護された複製ニッチを構築し、細胞間で感染性物質を輸送するのかを説明できない。小胞体（ER）は、ウイルスの翻訳、複製・オルガネラ形成、膜曲率、脂質リモデリング、自然免疫調節、および小胞輸送のための共通プラットフォームとして機能する。この枠組みにおいて、reticulon-3（RTN3）は、ERを基盤としたRNAウイルスの複製と、感染性の細胞外小胞カーゴの生成を結びつける調節因子の候補として浮上している。C型肝炎ウイルス（HCV）とデングウイルス（DENV）は、伝播経路、組織指向性、疾患経過、および免疫病態生理が異なるにもかかわらず、このモデルを裏付ける最も強力な比較証拠を提供している。HCVは、エクソソーム濃縮画分が、特定の宿主補因子を伴う複製能を有するウイルスRNAを伝達できることを最も明確に示しており、一方でDENVはこのメカニズムを急性ウイルス感染へと拡張している。それにもかかわらず、両ウイルスはリモデリングされたER膜内で複製を行い、感染能を有する物質を小胞関連の形態で伝達することができる。現在の証拠は、RTN3に関連する膜曲率、ER－エクソソーム間の相互作用、およびカーゴルーティングが、複製関連のウイルスRNAが保持されるか、分解されるか、ビリオンへと組み立てられるか、あるいは生物学的に活性な細胞外小胞として排出されるかに影響を与えるという、コンテキスト依存的なモデルを支持している。ジカウイルス、ウエストナイルウイルス、エンテロウイルス、SARS-CoV-2、およびA型肝炎ウイルスにおける関連する膜リモデリングおよび小胞関連プロセスは、宿主膜構成のより広範な利用を例証しているが、RTN3依存的な感染性細胞外小胞伝達の直接的な証拠は、これらの系間で異なっている。最も詳細に特性解析されたモデルでは、小胞がウイルスゲノムや複製関連複合体を保護し、生物学的に活性なカーゴを受容細胞へと届ける。密度勾配分離やサイズ排除分離、免疫親和性選択、粒子およびマーカープロファイリング、膜保護アッセイ、および受容細胞感染性試験を含む単離・特性解析の進展により、特定の小胞集団、保護されたカーゴ、および生物学的活性をより厳密に同定することが可能となった。とはいえ、RTN3を普遍的なRNAウイルス依存性と見なすべきではなく、また細胞外小胞の放出が一様に感染性の集団を生成すると想定すべきでもない。むしろ、HCVとDENVは、異なるウイルス病態生理が、複製および小胞輸送のためのウイルス特異的な分子パートナーや経路を保持しつつ、RTN3などの宿主膜因子へと収束し得ることを示している。これらの共通およびウイルス特異的な依存性を定義することは、感染選択的な依存性、測定可能な治療ウィンドウ、および必須の宿主細胞機能の維持が実証されれば、広域スペクトルまたは耐性耐性介入に適した宿主－ウイルス界面を明らかにする可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.16.26361411",
+    "title": "Clinical pathogen adjudication in metagenomic sequencing using a large language model",
+    "abstract": "Clinical metagenomic sequencing detects hundreds of organisms whose relevance to infection requires clinicians' manual interpretation. We retrospectively reviewed 4,855 specimens from 19 sampling sites, linked 1.33 million detected organisms to clinical culprit-pathogen determinations, and fine-tuned a large language model on these labels. The model recovered 92.44% of reference culprit calls in the held-out test set and 84.49% in a later cohort. In a blinded re-adjudication of 215 cases, the model matched 90.5% of culprit calls on which both expert reviewers agreed. Adjudication accuracy varied with organism identity and specimen types. mNGS-derived metrics such as read counts or genome coverage alone were insufficient to identify culprit pathogens, and organisms classified as common colonizers could still be judged causative. Certain organisms were frequently co-reported as causative in the same specimen. These findings support further evaluation of human and AI-assisted report review, particularly regarding missed pathogens, excess calls, and differences across specimen types.",
+    "journal": "",
+    "doi": "10.64898/2026.10.16.26361411",
+    "date": "2026-10-21",
+    "authors": "Wei M, Zhao Y, Fang C, Zhang S, Xu K, Li S, Liu L, Pang Y, Liang L, Deng Z, Li M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347259",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1326,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.16.26361411"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6d996bad86b4e2b5cd45c4ce869f8e1ec7974551f80171830f63b563c4928f3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:35:09.240284+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "36c0a4836c0385f2f3653cbc110f153823b31d63fec219a2c704387737d5c793",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:35:09.240284+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大規模言語モデルを用いたメタゲノムシーケンシングにおける臨床病原体の判定",
+    "abstract_ja": "臨床メタゲノムシーケンシングでは、感染との関連性を判断するために臨床医による手動解釈を要する数百種の微生物が検出される。本研究では、19か所の検体採取地点から得られた4,855検体を遡及的にレビューし、検出された133万種の微生物を臨床的な原因病原体の判定に紐付け、これらのラベルを用いて大規模言語モデルをファインチューニングした。本モデルは、ホールドアウトテストセットにおいて参照原因病原体判定の92.44%を、その後のコホートでは84.49%を正解した。215症例を対象としたブラインド再判定において、専門家レビューアー双方が合意した原因病原体判定の90.5%を本モデルが一致させた。判定精度は、微生物の同定や検体タイプによって異なっていた。リードカウントやゲノムカバレッジといったmNGS由来の指標だけでは、原因病原体を特定するには不十分であり、一般的な定着菌に分類される微生物であっても、依然として原因であると判定される可能性があった。特定の微生物は、同一検体内で原因として共報告される頻度が高かった。これらの知見は、特に見逃された病原体、過剰な判定、および検体タイプ間の差異に関して、ヒトおよびAI支援による報告書レビューのさらなる評価を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.26365734",
+    "title": "Dietary Enhancement for Iron Deficiency and Anaemia Treatment (DEFeAT): study protocol for a randomised controlled trial to assess the effect of a mineral-enriched powder on iron deficiency in women of reproductive age",
+    "abstract": "Background: Iron deficiency (ID) and iron deficiency anaemia (IDA) have global and severe health implications, and disproportionately impact women of reproductive age. Current methods of supplementing diets with iron are challenged by poor adherence and palatability, reducing effectiveness of these treatment strategies. The aim of this study is to evaluate the efficacy of a novel home beverage fortification with a mineral-enriched powder, designed to enhance bioavailability and ease of use, for the treatment of ID in women of reproductive age. Methods: This single-centre, randomised, double-blinded placebo-controlled trial will enrol 150 eligible biologically female participants with ID. Participants will be randomly assigned to the active intervention (iron/zinc-enriched powder) or control group (placebo powder) over 6 months. Primary outcomes will include change in serum ferritin (SF) concentrations and proportion of participants who remain iron deficient at 6-months. Secondary outcomes will include change in SF and haemoglobin (Hb) concentrations across timepoints, and levels of metabolites and key circulating pro-inflammatory biomarkers, changes in dietary intakes, self-reported perceptions of health, barriers to use of the powder, adherence and palatability, safety outcomes, and cost-effectiveness. Exploratory outcomes will assess the gut microbial metagenome and metabolome. Discussion: Fortification, an effective approach for the prevention of ID/IDA, has advantages over some methods of supplementation because it uses low levels of iron, minimising unpleasant side effects, does not risk toxicity, and has high acceptability and compliance rates. This mineral-enriched powder uses electrolytic iron and zinc sulphate monohydrate of a small particle size, which is less irritating to the gut, and facilitates bioavailability. Findings from the study will be shared with those affected by and involved in treating these conditions, as a novel intervention that is both effective and acceptable among women of reproductive age would help to improve treatment compliance, and ultimately, reduce ID/IDA burden. Trial registration: This trial is registered at clinicaltrials.gov (  NCT05990166 ): https://clinicaltrials.gov/study/  NCT05990166 , August 2023.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.26365734",
+    "date": "2026-10-21",
+    "authors": "Burns JL, Scott H, Mbuagbaw L, Miller CH, Sheyholislami H, Clouthier BA, Fontaine-Bisson B, Connor KL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348548",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2015,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.20.26365734"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2dd550f73e8ae953b12ac21d5c6f10caff09e60e21b39e468a1930285f2753c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:35:09.240284+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "148cb32d1b4583f48275ef12707e41f1b4c079c1910df1df75425ecab2a1249c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:35:09.240284+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "鉄欠乏および貧血治療のための食事改善（DEFeAT）：生殖可能年齢の女性における鉄欠乏に対するミネラル強化粉末の効果を評価するランダム化比較試験の実施計画書",
+    "abstract_ja": "背景：鉄欠乏症（ID）および鉄欠乏性貧血（IDA）は世界的に深刻な健康上の影響を及ぼしており、特に生殖年齢の女性に不釣り合いに大きな影響を与えている。現在の鉄補給法は、アドヒアランスの低さや嗜好性の低さが課題となっており、これらの治療戦略の有効性を低下させている。本研究の目的は、生体利用能と使いやすさを向上させるよう設計された、ミネラル強化粉末を用いた新規の在宅飲料強化法の、生殖年齢の女性におけるID治療への有効性を評価することである。方法：本単施設ランダム化二重盲検プラセボ対照試験では、IDを有する適格な生物学的女性参加者150名を登録する。参加者は、6か月間にわたり、活性介入群（鉄・亜鉛強化粉末）または対照群（プラセボ粉末）に無作為に割り付けられる。主要評価項目には、血清フェリチン（SF）濃度の変化、および6か月時点で鉄欠乏状態が持続している参加者の割合を含める。副次評価項目には、経時的なSFおよびヘモグロビン（Hb）濃度の変化、代謝物および主要な循環炎症性バイオマーカーのレベル、食事摂取量の変化、自己報告による健康認識、粉末使用の障壁、アドヒアランスと嗜好性、安全性評価、および費用対効果を含める。探索的評価項目では、腸内微生物メタゲノムおよびメタボロームを評価する。考察：ID/IDAの予防に有効なアプローチである強化法は、低用量の鉄を使用し、不快な副作用を最小限に抑え、毒性のリスクがなく、受容性とコンプライアンス率が高いため、一部の補給法よりも優れている。本ミネラル強化粉末は、腸管への刺激が少なく生体利用能を高める、粒子径の小さい電解鉄および硫酸亜鉛一水和物を使用している。本研究の知見は、これらの疾患に罹患している人々や治療に携わる人々と共有される。生殖年齢の女性において有効かつ受容性の高い新規介入法は、治療コンプライアンスの向上を助け、最終的にID/IDAの負担軽減につながるためである。試験登録：本試験はclinicaltrials.gov (  NCT05990166 ): https://clinicaltrials.gov/study/  NCT05990166 に2023年8月に登録された。"
   }
 ]
