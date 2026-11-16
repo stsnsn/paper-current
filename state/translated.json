@@ -264188,5 +264188,323 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "イネにおけるPseudomonas chlororaphis ST2023006の多機能な生育促進形質の同定とゲノム解析",
     "abstract_ja": "植物成長促進根圏細菌（PGPR）は、稲作における化学肥料に代わる持続可能な選択肢となるが、個々の菌株による多機能な成長促進のメカニズムについては十分に解明されていない。本研究では、サトウキビ根圏から菌株ST2023006を単離し、表現型解析および全ゲノム配列解析を通じて系統的な特性評価を行った。形態学的、生理学的、生化学的解析、および多遺伝子座配列解析に基づき、本菌株はPseudomonas chlororaphisと同定された。本菌株は、温度（25-37 ℃）、pH（5.0-9.0）、および塩分（≤2% NaCl）に対する耐性を示した。15N同位体希釈分析により、窒素固定への寄与率はイネの根および地上部でそれぞれ13.4%および9.72%であることが明らかになった。ポット試験では、接種により2種類のイネ品種の生育が有意に促進され、草丈が最大86.6%増加するとともに、根表面積、根量、およびバイオマス蓄積量が増加することが示された。Rhizoctonia solaniに対するin vitroでの拮抗作用および定量的IAA分析（59.44 µg·mL⁻¹）により、ゲノム予測に基づく生物的防除およびIAA産生形質の実験的裏付けが得られた。全ゲノム配列解析により、窒素固定（nifU, fixI）、養分動員（カリウム/亜鉛可溶化、シデロフォア）、植物ホルモン合成（IAA）、ストレス耐性（重金属耐性、熱/冷ショックタンパク質）、および抗真菌化合物であるピロルニトリン、フェナジン、シアン化水素の完全な生合成遺伝子クラスターに関連する可能性のある遺伝子が同定された。これらの知見は、P. chlororaphis ST2023006が、植物成長促進効果が実証され、生物的防除におけるゲノム上の潜在能力が実験的に裏付けられた、有望な多機能PGPR候補であることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760911",
+    "title": "Rapid enhancement of antibiotic resistance and divergent remodeling of gene expression in single cells of bacteria",
+    "abstract": "Exposing bacterial cell populations to antibiotics often results in the emergence of descendants with enhanced resistance. Phenotypic heterogeneity and global physiological responses are thought to contribute to resistance evolution. However, identifying the specific stages of drug exposure where phenotypic heterogeneity and physiological responses play critical roles remains elusive. Using long-term single-cell lineage tracking of an  Escherichia coli resistance model, here we reveal that resistance-enhanced cells emerge rapidly within a few generations in a clonal bacterial cell population under chloramphenicol (Cp) exposure and stably transmit the enhanced resistance for hundreds of generations in the presence of Cp. High expression of a resistance protein was advantageous during the initial period of drug exposure, but conferred only a marginal fitness advantage during the period of resistance enhancement. Transcriptomic profiles of resistance-enhanced cell populations were lineage-specific, suggesting that multiple gene expression states can support enhanced resistance. Altogether, these results suggest that an interplay between initial phenotypic heterogeneity and divergent remodeling of gene expression drives the rapid acquisition of enhanced antibiotic resistance.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760911",
+    "date": "2026-10-23",
+    "authors": "Umetani M, Hashimoto M, Akiyoshi S, Okura R, Sakata N, Kotani H, Kussell E, Furusawa C, Wakamoto Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349618",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1257,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.760911"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f622260788edfc02848c46d715bc293c58a80e64f8cb539039a5c51217257db6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:24:42.577301+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "34af2025c19b1fc81db3cc4299735367ef789b608dc8a86e32c32899f5e1bba3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:24:42.577301+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌の単一細胞における抗生物質耐性の急速な増強と遺伝子発現の分岐的再編成",
+    "abstract_ja": "細菌細胞集団を抗生物質に曝露させると、しばしば耐性が増強された子孫が出現する。表現型の不均一性と全般的な生理学的応答が、耐性の進化に寄与していると考えられている。しかし、表現型の不均一性と生理学的応答が重要な役割を果たす薬剤曝露の具体的な段階を特定することは、依然として困難である。本研究では、大腸菌（Escherichia coli）耐性モデルを用いた長期の単一細胞系統追跡により、クロラムフェニコール（Cp）曝露下のクローン性細菌細胞集団において、耐性増強細胞が数世代以内に急速に出現し、Cp存在下で数百世代にわたって増強された耐性を安定的に伝達することを明らかにした。耐性タンパク質の高発現は、薬剤曝露の初期段階では有利に働いたが、耐性増強期においてはわずかな適応度上の優位性しかもたらさなかった。耐性増強細胞集団のトランスクリプトームプロファイルは系統特異的であり、複数の遺伝子発現状態が増強された耐性を支え得ることが示唆された。総じて、これらの結果は、初期の表現型の不均一性と遺伝子発現の分岐的なリモデリングとの相互作用が、増強された抗生物質耐性の迅速な獲得を駆動することを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.761225",
+    "title": "Growth rate structures the dynamics of bacterial trait evolution",
+    "abstract": "Bacterial species span orders of magnitude in growth rate, yet how its evolution is embedded within the broader evolutionary dynamics of other bacterial traits remains poorly understood. We integrated experimentally measured growth rates for 283 bacterial species with 11 genomic, metabolic, ecological and environmental traits, and used multivariate Ornstein-Uhlenbeck models to characterize how growth rate and associated traits coevolve across evolutionary time. Growth rate was best explained by models assuming distinct slow- and fast-growing evolutionary regimes, and evolved toward adaptive optima more rapidly than any other trait examined over longer evolutionary timescales, both when modelled independently and jointly with other traits. Coevolution between growth rate and associated traits was primarily structured by growth-rate regimes, suggesting growth rate serves as a pacemaker of evolution. At instantaneous timescales, six of the eight traits coevolving with growth rate showed unidirectional coupling, including all four environmental traits, with the direction varying among traits. In contrast, ribosomal RNA operon copy number and GC percentage exhibited reciprocal coupling with growth rate. These findings recast bacterial growth strategy from a correlate of trait variation to a major organizing axis shaping bacterial trait evolution across distinct evolutionary timescales.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.761225",
+    "date": "2026-10-23",
+    "authors": "Hao C, Konno N, Zhang Y, He F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349568",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1258,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.761225"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b3f69d15c8b01b9c30b025aa3f3f3f470840b908d98571598b5860e7f7a0c26a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:24:42.577301+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bb70bc593aa60fce8d7250ae09b3a34fe4f88abf61c5f0110a6259db36a1181c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:24:42.577301+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "増殖速度が細菌の形質進化の動態を規定する",
+    "abstract_ja": "細菌種の増殖速度は桁違いに異なるが、その進化が他の細菌形質のより広範な進化動態にどのように組み込まれているかについては、依然として十分に解明されていない。本研究では、283種の細菌について実験的に測定した増殖速度を、11種類のゲノム、代謝、生態、および環境形質と統合し、多変数オルンシュタイン＝ウーレンベックモデルを用いて、増殖速度と関連形質が進化時間軸に沿ってどのように共進化するかを特性評価した。増殖速度は、低速増殖と高速増殖という異なる進化レジームを想定するモデルによって最もよく説明され、単独でモデル化した場合でも、他の形質と共同でモデル化した場合でも、より長い進化時間スケールで検討した他のどの形質よりも迅速に適応的最適値へと進化した。増殖速度と関連形質の共進化は主に増殖速度レジームによって構造化されており、増殖速度が進化のペースメーカーとして機能していることが示唆された。瞬時的な時間スケールでは、増殖速度と共進化する8つの形質のうち6つ（環境形質4つすべてを含む）が一方向的な結合を示し、その方向は形質によって異なっていた。対照的に、リボソームRNAオペロンのコピー数とGC含有率は、増殖速度と相互的な結合を示した。これらの知見は、細菌の増殖戦略を、形質変異の相関因子から、異なる進化時間スケールにわたって細菌の形質進化を形作る主要な組織化軸へと再定義するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11448820/v1",
+    "title": "Restoring the p53--Nrf2--SIRT3--TFAM Axis via Therapeutic Epigenetic Shielding Reverses Bioenergetic Collapse and Nucleoid-Phagy Failure in Long COVID",
+    "abstract": "Abstract  Long COVID presents with unremitting fatigue, post-exertional malaise, and chronic multi-system inflammation, yet the precise dynamic controls linking viral persistence to mitochondrial and immune failure remain elusive. Building upon foundational insights linking tumor suppressor p53 to mitochondrial copy number regulation via transcriptional control of Mitochondrial Transcription Factor A (\\textit{TFAM}), as well as recent clinical models of post-viral exercise capacity collapse, prognostic mitochondrial repair interactions, and CD147-mediated p53 suppression pathways, we construct a comprehensive systems biology and non-linear ordinary differential equation (ODE) kinetic framework. This framework maps the regulatory cascade wherein elevated CD147 signaling and suppressed nuclear p53/Nrf2 fail to drive Sirtuin 3 (\\textit{SIRT3}) expression. The resulting mitochondrial SIRT3 deficit impairs the deacetylation and functional competence of TFAM, precipitating copy number collapse, bioenergetic failure, and fission disruption. Furthermore, because TFAM functions dually as a genome packaging factor and an autophagy receptor mediating ``nucleoid-phagy'' via its LC3-interacting region (LIR) motif, its impairment halts the clearance of leaked cytosolic mitochondrial DNA (mtDNA), driving cGAS-STING and inflammasome activation. Bifurcation analysis reveals a pathological bi-stable tipping point locked by viral persistence, which is successfully overcome by the p53/Nrf2 therapeutic shield.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11448820/v1",
+    "date": "2026-10-23",
+    "authors": "Lakshmanane B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348864",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1265,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11448820/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bae96a175bd890bacfd6d6e703bc29b917b90a713e9f1dffeede965b9eddbe64",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:24:42.577301+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4aee92b20fdd941cbda948b141a0279de9d1cd274c90812965647941325875d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:24:42.577301+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "治療的エピジェネティック・シールドングによるp53--Nrf2--SIRT3--TFAM軸の復元は、ロングCOVIDにおける生体エネルギー崩壊と核様体貪食不全を逆転させる",
+    "abstract_ja": "要旨  ロングCOVIDは、持続的な疲労感、運動後倦怠感、および慢性的な多臓器炎症を呈するが、ウイルスの持続性とミトコンドリアおよび免疫機能不全を結びつける正確な動的制御機構は依然として解明されていない。腫瘍抑制因子p53が、ミトコンドリア転写因子A（\\textit{TFAM}）の転写制御を介してミトコンドリアコピー数調節に関与するという基礎的な知見に加え、ウイルス感染後の運動能力低下、予後予測的なミトコンドリア修復相互作用、およびCD147介在性p53抑制経路に関する近年の臨床モデルに基づき、我々は包括的なシステム生物学的および非線形常微分方程式（ODE）速度論的フレームワークを構築した。本フレームワークは、CD147シグナルの亢進と核内p53/Nrf2の抑制がSirtuin 3（\\textit{SIRT3}）の発現を誘導できなくなるという調節カスケードをマッピングするものである。その結果生じるミトコンドリアSIRT3の欠損は、TFAMの脱アセチル化および機能的能率を損ない、コピー数の崩壊、生体エネルギー供給不全、および分裂の障害を引き起こす。さらに、TFAMはゲノムパッケージング因子として、またLC3相互作用領域（LIR）モチーフを介して「核様体貪食」を媒介するオートファジー受容体として二重に機能するため、その機能不全は漏出した細胞質ミトコンドリアDNA（mtDNA）の除去を阻害し、cGAS-STINGおよびインフラマソームの活性化を誘導する。分岐解析により、ウイルスの持続性によって固定された病理学的な双安定ティッピングポイントが明らかとなり、これはp53/Nrf2治療シールドによって克服される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11041564/v1",
+    "title": "Labile organic carbon fractions and carbon-cycling microbial communities respond differently in rhizosphere and loosely root-associated soils along an alpine meadow degradation gradient on the Qinghai-Tibet Plateau",
+    "abstract": "Abstract    Background and aims  Alpine meadows on the Tibetan Plateau are important for regional and global carbon balance, but patchy degradation has altered their carbon cycling. How carbon fractions and microbial functions respond in rhizosphere versus loosely root-associated soils remains unclear.  Methods  We selected  Kobresia pygmaea  across non-degraded, lightly, moderately, and heavily degraded meadows. Rhizosphere and loosely root-associated soils were analyzed for labile organic carbon fractions and carbon-cycling genes using metagenomics.  Results  Degradation reduced labile organic carbon and weakened rhizosphere carbon enrichment, and was associated with shifts from copiotrophic to oligotrophic taxa and lower carbon fixation gene abundance. Correlation analysis revealed two distinct gene-carbon association patterns: in the rhizosphere, labile organic carbon was was positively correlated with carbon fixation genes (e.g.,  cbbL  ,  mcmA2  ) and methane metabolism genes (e.g.,  mch  ,  ftr  ). In loosely root-associated soil, labile organic carbon was positively correlated with both carbon degradation genes (e.g.,  pel  ,  gmuG  ) and carbon fixation genes. These relationships are correlative and based on DNA-derived functional potential; they do not demonstrate process rates or causality. PLS-SEM results revealed aboveground biomass and soil nitrogen were more strongly associated with labile carbon than were microbial community composition or gene abundance.  Conclusions  This study reveals divergent shifts in labile carbon pools and carbon-cycling functional genes between rhizosphere and loosely root-associated soils induced by alpine meadow degradation, and identifies soil physicochemical properties as primary drivers of labile carbon variation. This provides a scientific basis for ecological restoration and carbon sink management of degraded alpine meadows.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11041564/v1",
+    "date": "2026-10-23",
+    "authors": "Liu Q, Yang W, Hao Z, Wang E, Zhang Y, Shen Y, Kou J, Li X, Li Q, Lu J, Yang B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348771",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1266,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11041564/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a8e5c5c3563fada1f55a79ef9f1bae513db5a87c7a40e461ea6d8c5250c6510f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:24:42.577301+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1ead67be7ecf9640bfe60c49ce0b870b4032f0c10ee929b7575840f6ce50b81a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:24:42.577301+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "青海・チベット高原の高山草原劣化勾配に沿った根圏および疎根状土壌において、不安定な有機炭素分画と炭素循環微生物群集は異なる応答を示す。",
+    "abstract_ja": "要旨    背景および目的  チベット高原の高山草原は、地域的および地球規模の炭素収支において重要であるが、斑状の劣化により炭素循環が変化している。根圏土壌と疎根状土壌において、炭素分画および微生物機能がどのように応答するかは依然として不明である。  方法  非劣化、軽度、中等度、および高度に劣化した草原からKobresia pygmaeaを選定した。根圏土壌および疎根状土壌について、メタゲノミクスを用いて不安定な有機炭素分画および炭素循環遺伝子の解析を行った。  結果  劣化により不安定な有機炭素が減少し、根圏の炭素富化が弱まった。また、これは栄養要求性から貧栄養性の分類群へのシフト、および炭素固定遺伝子の存在量の低下と関連していた。相関解析により、2つの異なる遺伝子-炭素関連パターンが明らかになった。根圏では、不安定な有機炭素は炭素固定遺伝子（例：cbbL、mcmA2）およびメタン代謝遺伝子（例：mch、ftr）と正の相関を示した。疎根状土壌では、不安定な有機炭素は炭素劣化遺伝子（例：pel、gmuG）と炭素固定遺伝子の両方と正の相関を示した。これらの関係は相関的なものであり、DNA由来の機能的ポテンシャルに基づいている。これらはプロセス速度や因果関係を示すものではない。PLS-SEMの結果、地上部バイオマスおよび土壌窒素は、微生物群集組成や遺伝子存在量よりも、不安定な炭素とより強く関連していることが明らかになった。  結論  本研究は、高山草原の劣化によって誘発された根圏土壌と疎根状土壌間における不安定な炭素プールおよび炭素循環機能遺伝子の乖離したシフトを明らかにし、土壌の物理化学的特性が不安定な炭素変動の主要な駆動要因であることを特定した。これは、劣化した高山草原の生態学的復元および炭素吸収源管理のための科学的根拠を提供するものである。"
   }
 ]
