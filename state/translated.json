@@ -284945,5 +284945,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "HIV陽性者およびその他の免疫不全患者における真菌感染症：欧州およびルーマニアのナラティブレビュー",
     "abstract_ja": "背景：真菌感染症は、免疫不全患者の増加に伴い、罹患および死亡の主要な原因となっているが、その根底にある免疫不全の状態は、HIV/AIDS患者、非HIV宿主（血液悪性腫瘍、好中球減少症、固形臓器または造血幹細胞移植）、およびCOVID-19パンデミック時のように重症疾患自体によって一過性に免疫抑制状態となった重症患者の間で異なっている。目的：HIVおよび非HIVの免疫不全宿主、ならびにCOVID-19関連真菌感染症における疫学、病原体、診断、治療、耐性、および予防策を比較し、地域的なケーススタディとして、これらの実態が欧州の文献、特にルーマニアにおいてどのように記述されているかを検討すること。方法：COVID-19関連疾患を含むHIVおよび非HIVの免疫不全状態に関するPubMed/MEDLINE文献のナラティブレビューを行い、これに欧州のコホートデータのターゲット検索およびルーマニアの一次文献に対する病原体別PubMed検索を併用した。診断用語はEORTC/MSGERCのコンセンサス定義に従い、COVID-19関連肺アスペルギルス症（CAPA）についてはECMM/ISHAM基準を併用した。結果：HIVにおけるCD4+枯渇は、予測可能な閾値駆動型の日和見性真菌症パターンを引き起こす。非HIVの免疫抑制はより不均一であり、COVID-19に代表される重症疾患は特有のリスク状態をもたらした。欧州のコホートにおけるICU患者のCOVID-19関連肺アスペルギルス症（CAPA）の発生率は約1%から20%超に及び、インドではCOVID-19関連ムコール症（CAM）が流行規模に達した。その他の欧州コホートでは、同種HSCT後の侵襲性真菌感染症の1年発生率は約10%、急性白血病では最大17%、肺移植後のアスペルギルス症では3～14%であった。ルーマニアのエビデンスは、単一施設の真菌学研究、3件のCandidozyma (Candida) auris報告（全配列決定分離株をクレードIに帰属させたゲノム研究を含む）、症例報告、およびアスペルギルス症、CAPA、ムコール症（後者はCOVID-19後に増加）の小規模シリーズ、急性白血病病棟での院内フザリウム症アウトブレイク、1件のクリプトコックス髄膜炎シリーズ、アゾール耐性Aspergillus fumigatusの環境中検出、およびモデルによる全国負担推計で構成されている。固形臓器移植レシピエントまたは固形腫瘍患者を対象とした専用のシリーズは存在しない。結論：これらの集団および状況に応じた異なるパターンを認識することは、リスク層別スクリーニングおよび治療において不可欠である。ルーマニアの事例は、十分に特性化されたグローバルな枠組みの中であっても、国家レベルのサーベイランスが認識された負担状況に大きく後れを取る可能性があることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.18.757718",
+    "title": "Programmable Surface Receptor-Mediated Cell Targeting with Designer Antibody-Routed Nanoparticles (DARTs)",
+    "abstract": "Precise  in vivo delivery remains a massive barrier to therapeutic genome editing. Recently, major strides have been made towards cell type-specific delivery, with potential to improve the safety profiles of future gene therapies. However, programming such targeted tropism is limited by the minimal repertoire of scFv sequences, nanobodies, and viral fusogens that enable cell-type specificity, and the slow, iterative design-build-test cycle required to identify and optimize them. Here, we overcome this bottleneck by developing the  d esigner  a ntibody-routed (DART) platform: a modular, plug-and-play tool that decouples delivery vehicle production from tropism engineering. By presenting generic, bioorthogonal antibody-binding interfaces on the surfaces of enveloped particles, the DART system enables conjugation of those particles with off-the-shelf antibodies that direct cell entry without requiring genetic or chemical manipulation.  D esigner  a ntibody-routed virus-like particle  s (DARTs) leverage this facile conjugation method to interrogate and identify transduction-competent surface antigens across cell types. They enable combinatorial targeting and the discovery of antigens that synergistically enhance transduction. Finally, DARTs function in the fetal murine nervous system, empirically identifying CD56 as a previously uncharacterized surface antigen enabling editing in hard-to-transduce neural populations. Overall, the DART platform provides a universal tool for rapidly profiling unique, targetable antigens and leveraging them for precision editing applications.",
+    "journal": "",
+    "doi": "10.64898/2026.10.18.757718",
+    "date": "2026-10-20",
+    "authors": "Roth GV, Gengaro IR, Ahmadian N, Gao K, Wang D, Xu S, Chavez M, Finn P, Wang A, Qi LS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346304",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2051,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.18.757718"
+    ],
+    "translation": {
+      "title": {
+        "hash": "80ca7703adc844f5b01d476b6ee1bb3917b6cdf344e91dbe5d6c1880b7e6d776",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:30:53.502707+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "25ef62544ba94298e67c7ff5c0ed5ee60a54a483e8edc0d4d62de7d4c4965e81",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:30:53.502707+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "設計抗体送達型ナノ粒子（DARTs）によるプログラム可能表面受容体介在性細胞ターゲティング",
+    "abstract_ja": "精密なin vivoデリバリーは、治療的ゲノム編集における依然として大きな障壁となっている。近年、細胞種特異的なデリバリーに向けて大きな進展が見られ、将来の遺伝子治療の安全性プロファイルを向上させる可能性が期待されている。しかし、このような標的指向性のプログラミングは、細胞種特異性を可能にするscFv配列、ナノボディ、およびウイルス融合遺伝子のレパートリーが極めて限定的であることと、それらを同定・最適化するために必要となる、低速で反復的な「設計-構築-試験」サイクルによって制約を受けている。本研究では、d esigner 抗体経路型（DART）プラットフォームの開発により、このボトルネックを克服した。これは、デリバリーベクターの作製と指向性エンジニアリングを分離した、モジュール式のプラグアンドプレイツールである。エンベロープ粒子の表面に汎用的なバイオ直交性抗体結合インターフェースを提示することで、DARTシステムは、遺伝的または化学的な操作を必要とせずに細胞内への進入を誘導する市販の抗体を、これらの粒子に共役させることを可能にする。d esigner 抗体経路型ウイルス様粒子（DARTs）は、この簡便な共役手法を活用し、細胞種を問わずトランスダクション能を有する表面抗原を探索・同定する。これにより、組み合わせ型ターゲティングや、トランスダクションを相乗的に増強する抗原の発見が可能となる。最後に、DARTsはマウス胎児神経系において機能し、これまで特性解析されていなかった表面抗原としてCD56を実証的に同定することで、トランスダクションが困難な神経細胞集団における編集を可能にした。総じて、DARTプラットフォームは、固有の標的可能抗原を迅速にプロファイリングし、それらを精密編集アプリケーションに活用するための汎用的なツールを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760206",
+    "title": "Untargeted metabolomics reveals a selectively enriched surface metabolome underpinning constitutive chemical defence in the red alga  Halymenia floresii  (Clemente) C.Agardh, 1817 ((Rhodophyta, Halymeniales)",
+    "abstract": "Marine macroalgae rely on chemically mediated surface defences to prevent microbial colonization and fouling, yet the composition of surface-associated metabolites and their ecological roles remain poorly understood. In this study, untargeted liquid chromatography–mass spectrometry (LC–MS)-based metabolomics was used to characterize the surface-associated metabolome of the tropical red macroalga  Halymenia floresii and identify metabolites potentially involved in chemical defence. Selective dipping extraction (DIP) was used to recover surface-associated metabolites and compared with whole-cell metabolome (WCM) extracts. Across both datasets, 22,455 LC– MS features were detected, including 10,505 features in the surface extracts and 11,495 additional features detected only in the WCM extracts. Statistical filtering identified 722 LC–MS features consistently enriched by at least four-fold in surface extracts relative to WCM extracts. These features yielded 928 putative metabolite annotations using xMSannotator, with biological interpretation supported by KEGG, LIPID MAPS, and MassBank. Pathway reconstruction using the Lilikoi R package identified 44 metabolite–pathway associations, predominantly involving lipid-associated metabolism, including steroidogenesis, arachidonic acid metabolism, plasmalogen synthesis, fatty acid biosynthesis, sphingolipid metabolism and sterol biosynthesis. Manual curation further indicated enrichment of fatty acids, oxylipin-like metabolites, sphingolipids, phospholipid precursors and isoprenoid intermediates at the algal surface. Rather than indicating the presence of metabolites unique to the surface, the findings suggest that  H. floresii selectively enriches lipid-associated metabolites at the thallus–seawater interface. Spatial localization of relatively hydrophobic metabolites may provide an energetically efficient chemical defence strategy by retaining bioactive compounds at the site where microbial attachment and biofilm formation are initiated while minimizing their loss to the surrounding seawater. Overall, this study demonstrates that chemical defence in  H. floresii is associated with the selective surface enrichment of lipid-associated metabolites rather than the occurrence of unique surface-specific compounds, providing new insights into the spatial organization of macroalgal chemical defences and the mechanisms underlying resistance to microbial colonization and fouling.  Graphical Abstract",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760206",
+    "date": "2026-10-20",
+    "authors": "A Abdul Malik S, Bedoux G, Freile-Pelegrín Y, Bourgougnon N, Robledo D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346272",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2052,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.760206"
+    ],
+    "translation": {
+      "title": {
+        "hash": "767d5baf831db09fc32ac3230f8b6c42d9fbbe5fe2e51efdd9a6280be8c00192",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:30:53.502707+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8753c49a75decc08577e28f7273d75cab792197c938183d2ecffc2d1e037c047",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:30:53.502707+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非標的メタボロミクスにより、紅藻Halymenia floresii  (Clemente) C.Agardh, 1817 ((Rhodophyta, Halymeniales))における恒常的な化学的防御の基盤となる、選択的に濃縮された表面メタボロームが明らかになった。",
+    "abstract_ja": "海洋性大型藻類は、微生物の定着や汚損を防ぐために化学的に媒介された表面防御機構に依存しているが、表面関連代謝物の組成とその生態学的役割については依然として十分に解明されていない。本研究では、非標的型液体クロマトグラフィー－質量分析（LC–MS）に基づくメタボロミクスを用いて、熱帯紅藻大型藻類Halymenia floresiiの表面関連メタボロームを特性解析し、化学的防御に関与している可能性のある代謝物を同定した。選択的浸漬抽出（DIP）を用いて表面関連代謝物を回収し、全細胞メタボローム（WCM）抽出物と比較した。両データセットを通じて22,455個のLC–MS特徴量が検出され、そのうち10,505個は表面抽出物に、11,495個はWCM抽出物にのみ検出された。統計的フィルタリングにより、WCM抽出物と比較して表面抽出物において一貫して少なくとも4倍に濃縮された722個のLC–MS特徴量が特定された。これらの特徴量を用いてxMSannotatorにより928個の推定代謝物アノテーションが得られ、生物学的解釈はKEGG、LIPID MAPS、およびMassBankによって裏付けられた。Lilikoi Rパッケージを用いたパスウェイ再構築により、44組の代謝物－パスウェイ関連が同定され、その大部分はステロイド合成、アラキドン酸代謝、プラズマロゲン合成、脂肪酸生合成、スフィンゴ脂質代謝、およびステロール生合成を含む脂質関連代謝に関与していた。手作業によるキュレーションにより、藻類表面において脂肪酸、オキシリピン様代謝物、スフィンゴ脂質、リン脂質前駆体、およびイソプレノイド中間体の濃縮がさらに示された。これらの知見は、表面特有の代謝物の存在を示すのではなく、H. floresiiが葉状体－海水界面において脂質関連代謝物を選択的に濃縮していることを示唆している。比較的疎水性の高い代謝物の空間的局在化は、微生物の付着やバイオフィルム形成が開始される部位に生物活性化合物を保持しつつ、周囲の海水への損失を最小限に抑えることで、エネルギー効率の高い化学的防御戦略を提供している可能性がある。総じて、本研究は、H. floresiiにおける化学的防御が、特有の表面特異的化合物の出現ではなく、脂質関連代謝物の選択的な表面濃縮に関連していることを実証しており、大型藻類の化学的防御の空間的構成、および微生物の定着や汚損に対する耐性の根底にあるメカニズムに関する新たな知見を提供するものである。  Graphical Abstract"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.1099/acmi.0.001335.v1",
+    "title": "Impact of runoff and surrounding land use on microbial communities within a confined lake system",
+    "abstract": "Runoff from urban and agricultural environments can differentially impact aquatic ecosystems by introducing excess nutrients, pollutants, or other contaminants of emerging concern. This runoff can alter chemical and microbial balances within these aquatic systems and lead to long-term degradation of the ecosystem health. In order to gain a better understanding of how land usage impacts aquatic ecosystems, we sampled at the Shangrila-Benet Lake system in southern Wisconsin which has no natural inlets other than runoff after rain events. By characterizing microbial communities and physiochemical parameters before and after a rain event at three sites within a single body of water, each with distinct surrounding land usage, we tested how the runoff water quality is impacted by surrounding land use, and how this runoff in turn can impact microbial community populations. We hypothesized that runoff from urban land use would contain more human-associated microorganisms while runoff from agricultural use would reflect nutrients applied to those fields. We found that, following a rain event, small variations in water quality parameters were present when comparing between sites and seasons, and these variations correlated with shifts in the microbial composition.",
+    "journal": "",
+    "doi": "10.1099/acmi.0.001335.v1",
+    "date": "2026-10-20",
+    "authors": "Shatara FJ, Mellgren C, Oppenheimer AM, Majumder EL.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346232",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "lake"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2054,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/acmi.0.001335.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f68739296935ecfef8f8c946f648942ba35f725be6290663ee9589985033b614",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:30:53.502707+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f700ef33d2336623b1b3725cf477d4274f7b29885ee2d03ec680c57fc44e57fd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:30:53.502707+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "閉鎖的な湖沼系における流出水と周辺の土地利用が微生物群集に及ぼす影響",
+    "abstract_ja": "都市および農業環境からの流出水は、新たに懸念される過剰な栄養塩、汚染物質、あるいはその他の汚染物質を流入させることで、水圏生態系に異なる影響を及ぼす可能性がある。こうした流出水は、水圏系内の化学的・微生物的バランスを変化させ、生態系の健全性の長期的な低下を招く恐れがある。土地利用が水圏生態系にどのような影響を及ぼすかをより深く理解するため、我々は、降雨後の流出水以外に自然の流入口を持たないウィスコンシン州南部のシャングリラ・ベネット湖水系においてサンプリングを実施した。単一の水域内にある3地点（それぞれ周囲の土地利用が異なる）において、降雨前後の微生物群集および物理化学的パラメータを特性評価し、流出水の水質が周囲の土地利用によってどのような影響を受けるか、また、その流出水がひいては微生物群集の個体群にどのような影響を及ぼし得るかを検証した。我々は、都市土地利用による流出水には人間由来の微生物がより多く含まれる一方、農業利用による流出水には当該圃場に施用された栄養塩が反映されるという仮説を立てた。その結果、降雨後、地点間および季節間で水質パラメータにわずかな変動が認められ、これらの変動は微生物組成の変化と相関していることが明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11430085/v1",
+    "title": "Targeting the p53–TFAM Axis to Overcome Exercise Intolerance in Long COVID",
+    "abstract": "Abstract  Over 400 million Long COVID patients worldwide suffer from chronic fatigue and Post-Exertional Malaise (PEM), yet the precise molecular drivers of exercise capacity collapse remain unresolved. Here, we demonstrate that SARS-CoV-2 accessory factors and exertional stress establish a persistent EZH2 (H3K27me3) and PAK2–c-Myc loop that targets host tumor suppressor p53 for degradation via viral-activated p21- activated kinase 2 (PAK2) networks. Downstream, the loss of p53 halts its essential transactivation of the Mitochondrial Transcription Factor A (TFAM) promoter, depleting mitochondrial DNA (mtDNA) copy number, uncoupling cytochrome c oxidase (COX) complex assembly, and driving a ∼ 50% loss of exercise capacity alongside H4K12la histone lactylation and Gasdermin D (GSDMD-N) pyroptosis. To resolve this bioenergetic lock, we propose the host-directed p53/NRF2 Epigenetic Shield. Co-activation of p53 and NRF2 forcefully re-engages the TFAM promoter, drives TAp73–OPA1 inner cristae rebuilding, silences the NLRP3 inflammasome, and restores 100% ATP generation capacity, providing a definitive computational and mechanistic cure for post-viral exercise failure.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11430085/v1",
+    "date": "2026-10-20",
+    "authors": "Lakshmanane B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345973",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2055,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11430085/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6ef39a834ee373257cd269807d99c25a836c47ae68a73a68b3d9758d072779c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:30:53.502707+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "46d380e6ddc66fb388034160f741fbfee66ece479e1a9dcb8260ec4026a528d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:30:53.502707+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Long COVIDにおける運動不耐症の克服に向けたp53–TFAM軸を標的としたアプローチ",
+    "abstract_ja": "要旨　世界中で4億人以上のLong COVID患者が慢性疲労および運動後倦怠感（PEM）に苦しんでいるが、運動能力低下の正確な分子的要因は依然として解明されていない。本研究では、SARS-CoV-2の補助因子と運動ストレスが、持続的なEZH2 (H3K27me3) およびPAK2–c-Mycループを形成し、ウイルス活性化型p21活性化キナーゼ2（PAK2）ネットワークを介して宿主の腫瘍抑制因子p53の分解を標的とすることを実証する。下流では、p53の喪失がミトコンドリア転写因子A（TFAM）プロモーターの必須的なトランス活性化を停止させ、ミトコンドリアDNA（mtDNA）コピー数を減少させ、シトクロムcオキシダーゼ（COX）複合体の組み立てを阻害し、H4K12laヒストン乳酸化およびガスデルミンD（GSDMD-N）パイロトーシスとともに、運動能力の約50%の低下を引き起こす。この生体エネルギー的なロックを解消するため、我々は宿主指向性p53/NRF2エピジェネティック・シールドを提案する。p53とNRF2の共活性化は、TFAMプロモーターを強力に再活性化し、TAp73–OPA1内クリステの再構築を促進し、NLRP3インフラマソームをサイレンシングし、100%のATP生成能を回復させることで、ウイルス感染後の運動機能不全に対する決定的な計算論的かつ機序的な治療法を提供する。"
   }
 ]
