@@ -260857,5 +260857,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "成人における便化学測定とメタゲノミクスの統合により、異なる腸内健康プロファイルが明らかになる",
     "abstract_ja": "カルプロテクチン、ラクトフェリン、分泌型IgAを含む便化学指標は、臨床または研究の場において腸管炎症の評価に用いられている。しかし、これらの指標を単独で用いても腸管生理学に関する知見は限定的であり、微生物学的な文脈を欠いている。ショットガンメタゲノミクスは、腸内マイクロバイオームの分類学的組成と機能的ポテンシャルを包括的に評価できるが、便化学指標との統合については未だ十分に検討されていない。本研究では、877例の成人便検体を対象に、ペアワイズ・ショットガンメタゲノムシーケンシングと化学測定を行い、マイクロバイオームを12種類の便化学指標と統合した。カルプロテクチン、ラクトフェリン、および分泌型IgAはマイクロバイオーム組成（ベータ多様性）の変動と関連しており、一方で、酪酸を含む短鎖脂肪酸（SCFAs）の典型的レベルからの逸脱は、アルファ多様性とマイクロバイオーム組成の両方の変化と関連していた。ネットワーク解析により、2つの異なる微生物近傍が明らかになった。一方は酪酸が高く、カルプロテクチンおよびラクトフェリンが低いことに関連し、もう一方は酪酸が低く、カルプロテクチンおよびラクトフェリンが高いことに関連していた。分類学的データおよび機能的データで学習させた機械学習モデルは、便化学状態を緩やかに識別し、SCFA欠乏において最良の性能を示した一方、宿主由来の炎症指標に対する性能は低かった。以上の知見を総合すると、大規模なペアワイズデータセットにおけるマイクロバイオームと便化学の関係が系統的に特徴づけられ、ショットガンメタゲノムプロファイルの文脈で便化学指標を解釈するための枠組みが提供される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760620",
+    "title": "RNA-sequencing of butyrate-treated human lymphoblastoid cell lines shows dysregulated genes of multiple disease-related pathways",
+    "abstract": "Butyrate, a 4-carbon fatty acid produced from insoluble starch by the gut microbiome, plays key roles in mitochondrial respiration, activation of cell-surface G-protein-coupled receptors, and protein acetylation by inhibiting histone deacetylases (HDACs). Butyrate (as sodium salt) added to drinking water was shown to improve pathological symptoms in numerous model mouse disorders, including models for cancer metastasis, neuroinflammation, autism spectrum disorders, dementia, insulin resistance, and colorectal cancer. Over 5000 PubMed-listed studies feature butyrate in their title, yet its genome-wide transcriptomic effects have not been reported in human cell lines from multiple healthy donors. Here, we report the genome-wide transcriptomic effects of 1 mM sodium butyrate on human lymphoblastoid cell lines (LCLs) generated from blood samples of eight unrelated healthy donors. Paired bioinformatics analysis comparing the butyrate-treated LCLs to the same untreated cell line identified thousands of differentially expressed gene (DEG) transcripts with padj<0.05, of which over half were upregulated by butyrate. Pathway analysis showed that butyrate exposure of LCLs upregulated extracellular matrix, cell adhesion, junction organization, Wnt signaling, axonogenesis, and neurodevelopment pathways. Downregulated pathways included cell cycle, G2/M checkpoint, E2F/MYC targets, DNA replication and repair, mitotic spindle integrity, mTOR signaling, oxidative phosphorylation, unfolded-protein response, and translation/ribosome-related pathways. Our RNA-seq study, utilizing LCLs from healthy donors and paired bioinformatic analysis, opens venues for assessing butyrate effects on cellular pathways and potential therapeutics for cancer, metabolic, immune, and CNS-related disorders.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760620",
+    "date": "2026-10-24",
+    "authors": "Volkov H, Cohen T, Shlayem R, Shapira E, Voinsky I, Klin H, Grad M, Shomron N, Gurwitz D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349476",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1243,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760620"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ccdc6c56d1d532f11bc36f88c289c60a27bdf6d6caaaa9cb684787eff8526cda",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:10:19.859086+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3b65bd4d7b435aba639e4fec8917e451235a65ed976fd6ec5970affbf2e2b958",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:10:19.859086+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "酪酸処理を施したヒトリンパ芽球様細胞株のRNAシーケンシングにより、複数の疾患関連経路の遺伝子調節異常が認められた。",
+    "abstract_ja": "腸内細菌叢によって不溶性デンプンから産生される4炭素脂肪酸である酪酸は、ヒストン脱アセチル化酵素（HDACs）を阻害することで、ミトコンドリア呼吸、細胞表面Gタンパク質共役受容体の活性化、およびタンパク質アセチル化において重要な役割を果たす。飲料水に添加された酪酸（ナトリウム塩）は、がん転移、神経炎症、自閉スペクトラム症、認知症、インスリン抵抗性、および大腸がんのモデルを含む、数多くのマウス疾患モデルにおいて病理学的症状を改善することが示されている。PubMedに掲載されている5,000件以上の研究で酪酸がタイトルに用いられているが、複数の健常ドナー由来のヒト細胞株におけるゲノムワイドなトランスクリプトームへの影響は報告されていない。本研究では、血縁関係のない健常ドナー8名の血液検体から樹立したヒトリンパ芽球様細胞株（LCLs）に対する1 mM酪酸ナトリウムのゲノムワイドなトランスクリプトーム影響について報告する。酪酸処理を施したLCLsと未処理の同一細胞株を比較したペアバイオインフォマティクス解析により、padj<0.05を満たす発現変動遺伝子（DEG）転写物が数千個同定され、その半数以上が酪酸によって発現上昇していた。パスウェイ解析の結果、LCLsへの酪酸曝露は、細胞外マトリックス、細胞接着、接合部形成、Wntシグナル伝達、軸索形成、および神経発達パスウェイを亢進させることが示された。発現低下したパスウェイには、細胞周期、G2/Mチェックポイント、E2F/MYC標的、DNA複製および修復、有糸分裂紡錘体の完全性、mTORシグナル伝達、酸化的リン酸化、未翻訳タンパク質応答、および翻訳／リボソーム関連パスウェイが含まれていた。健常ドナー由来のLCLsを用いた本RNA-seq研究およびペアバイオインフォマティクス解析は、細胞パスウェイに対する酪酸の影響や、がん、代謝、免疫、および中枢神経系（CNS）関連疾患に対する潜在的な治療法を評価する道を開くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.761281",
+    "title": "A bistable type III secretion system is primed and loaded in  Pseudomonas aeruginosa  hypervirulent isolates with positively selected codon changes in  exsA  or  exsD",
+    "abstract": "Pseudomonas aeruginosa has multiple virulence factors that promote airway infections in people with immune deficiencies. Most clinical isolates from human infections have functional type III secretion systems (T3SSs) that are subject to bistable regulation and secrete the cytotoxic effector ExoS into neutrophils. During airway infection in people with cystic fibrosis (CF),  P. aeruginosa maintains bistable regulation or genetically adapts by inactivating or hyperactivating T3SS expression. CF clinical isolates with hyperactive T3SSs have codon changes in the transcriptional regulators,  exsA or  exsD. It is not known how these mutations: 1) arise, 2) promote hypervirulence, or 3) impact bistable T3SS regulation. To understand how these mutants arise, ∼24,000 genomes in the NCBI Pathogens database were searched for positively selected mutations in  exs genes based on nonsynonomous to synonymous codon change ratios. Missense and nonsense mutations were detected in  exsA (47) or  exsD (45) the majority of which are predicted to be positively selected. To determine how one of these codon changes promotes hypervirulence, an  exsA T48I isolate was used to establish lung infections in mice engineered with a CF genotype. The  exsA T48I mutant and an  exsA + control had similar lung burdens, but the former caused exacerbated weight loss and lung inflammation, suggesting immunopathology from phagocyte death as the cause of hypervirulence. Two additional hyperactive mutants were identified by screening a small collection of isolates from children with CF. Immunoblotting and fluorescence microscopy showed that hyperactive  exsA or  exsD mutants increased production of T3SS injectisomes and effectors, indicating they have “primed and loaded” phenotypes. ExsA dimer modeling revealed that codon changes like T48I in the β-barrel domain cause a conformational change that hyperactivates the transcription factor. These results define that hyperactive mutants are positively selected, hypervirulent due to lung inflammation, and have primed and loaded T3SSs.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.761281",
+    "date": "2026-10-24",
+    "authors": "Reuven AD, Katzenell S, Rapp AW, Oates JC, Pennington JP, Hampton TH, Bomberger JM, Cherry JL, Bliska JB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349709",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1866,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.761281"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a2ea67644cf274f72cc36cdd43f785ad01eada98800bb2d0288ada249740579f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:10:19.859086+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a5b9321df6e2791c9aa6ac19a19f967fb893394c3575efc3ad33b2da44a8743c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:10:19.859086+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pseudomonas aeruginosaの超強毒分離株において、exsAまたはexsDの正の選択を受けたコドン変化により、双安定型III型分泌系がプライミングおよびロードされる。",
+    "abstract_ja": "Pseudomonas aeruginosaは、免疫不全患者における気道感染症を惹起する複数の病原因子を有している。ヒト感染症由来の臨床分離株の多くは、双安定調節を受け、細胞傷害性エフェクターであるExoSを好中球へ分泌する機能的なIII型分泌システム（T3SS）を備えている。嚢胞性線維症（CF）患者における気道感染症において、P. aeruginosaは双安定調節を維持するか、あるいはT3SSの発現を不活化または過活性化させることで遺伝的に適応する。T3SSが過活性化したCF臨床分離株では、転写調節因子であるexsAまたはexsDにコドン変化が認められる。これらの変異が、どのように1) 生じるのか、2) 超病原性を促進するのか、あるいは 3) 双安定T3SS調節に影響を与えるのかは解明されていない。これらの変異株がどのように生じるかを解明するため、NCBI Pathogensデータベースにある約24,000のゲノムを対象に、非同義置換比または同義置換比に基づくexs遺伝子の正の選択変異を探索した。exsA（47株）またはexsD（45株）においてミスセンス変異およびナンセンス変異が検出され、その大部分は正の選択を受けたと予測される。これらのコドン変化の一つがどのように超病原性を促進するかを明らかにするため、exsA T48I分離株を用いて、CF遺伝子型を作製したマウスにおいて肺感染症を成立させた。exsA T48I変異株とexsA+対照株では肺負荷量は同程度であったが、前者は体重減少と肺炎症の増悪を引き起こしており、超病原性の原因として貪食細胞死による免疫病理が示唆された。さらに、CF患児から得られた少数の分離株をスクリーニングすることにより、2つの追加の過活性化変異株を同定した。イムノブロット法および蛍光顕微鏡観察により、過活性化したexsAまたはexsD変異株はT3SSインジェクティソームおよびエフェクターの産生を増加させることが示され、これらが「プライミングおよびローディング」された表現型を有することが示された。ExsA二量体モデリングにより、βバレルドメインにおけるT48Iのようなコドン変化が構造変化を引き起こし、転写因子を過活性化させることが明らかになった。これらの結果は、過活性化変異株が正の選択を受け、肺炎症により超病原性を示し、かつT3SSをプライミングおよびローディングしていることを定義するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760956",
+    "title": "Comparative analysis identifies a shared topological organisation among divergent arenavirus intergenic RNAs",
+    "abstract": "ABSTRACT  Biological function is often inferred from sequence conservation or structural similarity. However, many viral RNAs maintain regulatory functions despite extensive diversification of both sequence and structures. Using arenavirus intergenic regions (IGRs) as a model system, we investigated what level of RNA organization remains conserved when these conventional sequence-structure-function relationships break down. Combining cryogenic OrbiSIMS guided RNA structure determination with graph theory-based analysis of fifty-eight IGRs across phylogenetically diverse arenaviruses, we discovered that IGR topology, defined by the connectivity and relative integration of individual stem-loop elements, is consistently arranged around a highly connected helical core that persists across divergent IGR folds. Quantitative centrality analyses further revealed that topologically peripheral stem-loops are comparatively sparse and variable across the phylogenetic classes. Investigation of the functional consequence of the peripheral elements in Golden Gate virus (a reptile arenavirus) S-IGR revealed selective association with interferon-induced and antiviral RNA-binding proteins in human host cells infected with recombinant Lymphocytic Choriomeningitis virus (a distantly related human arenavirus). Taken together, these findings identify graph-defined topology as a recurrent organisational feature among divergent arenavirus IGRs that is not captured by sequence identity or global RNA-structure similarity. The data are consistent with a model in which a topologically central helical organisation may be associated with conserved regulatory capacity, whereas structurally variable peripheral elements may contribute to lineage- or segment-specific host-factor interaction profiles.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760956",
+    "date": "2026-10-24",
+    "authors": "Childs A, Ly DTK, Marinus T, Bhosale RA, Daly JM, Tych K, Foster TL, Borkar AN.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349692",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1867,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.760956"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7fca78d08164907a82774e83c0ac27c78057f96f075269e2ef65e203fbeeb047",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:10:19.859086+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "324d368e5962ec0840b48f92fd8c74f11dc941eb9d55322cab216523109eb44b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:10:19.859086+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "比較解析により、分岐したアレナウイルス間遺伝子RNAに共通のトポロジカル構造が存在することが明らかとなった。",
+    "abstract_ja": "要旨　生物学的機能は、配列の保存性や構造的類似性から推定されることが多い。しかし、多くのウイルスRNAは、配列と構造の双方が著しく多様化しているにもかかわらず、調節機能を維持している。本研究では、アレナウイルスの遺伝子間領域（IGR）をモデル系として用い、従来の配列・構造・機能の関係が破綻した際に、RNAの組織化のどのレベルが保存されるのかを検討した。極低温OrbiSIMSガイド下RNA構造決定と、系統的に多様なアレナウイルスに属する58箇所のIGRに対するグラフ理論に基づく解析を組み合わせることで、個々のステムループ要素の連結性と相対的な統合によって定義されるIGRのトポロジーが、分岐したIGRフォールドにわたって持続する高度に連結したヘリカルコアを中心に一貫して配置されていることを見出した。定量的な中心性解析により、トポロジー的に周辺部に位置するステムループは、系統群間で比較的疎であり、かつ多様であることがさらに明らかになった。ゴールデンゲートウイルス（爬虫類アレナウイルス）のS-IGRにおける周辺部要素の機能的帰結を調査したところ、組換えリンパ球性脈絡髄膜炎ウイルス（遠縁のヒトアレナウイルス）に感染したヒト宿主細胞において、インターフェロン誘導性および抗ウイルス性RNA結合タンパク質との選択的な結合が認められた。以上の知見を総合すると、これらの結果は、グラフによって定義されるトポロジーが、配列同一性や全体的なRNA構造の類似性では捉えられない、分岐したアレナウイルスIGRに共通して見られる組織化上の特徴であることを特定している。これらのデータは、トポロジー的に中心的なヘリカル組織化が保存された調節能に関連している可能性がある一方で、構造的に多様な周辺部要素が系統群またはセグメント特異的な宿主因子相互作用プロファイルに寄与しているというモデルと整合している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760311",
+    "title": "Integrative reanalysis of public intracellular and vaccine-challenge transcriptomes, informed by single-cell and metabolomic atlases, refines antigen prioritisation for next-generation veterinary  Brucella  vaccines",
+    "abstract": "Brucellosis is the most widespread bacterial zoonosis and a leading cause of abortion and infertility in cattle, sheep, goats and pigs. The live vaccines licensed for livestock (  B. abortus S19 and RB51,  B. melitensis Rev.1) give incomplete protection, retain residual virulence and induce antibodies that are indistinguishable from those of field infection, and no human vaccine is licensed. Antigen discovery for safer subunit and mRNA alternatives has proceeded one candidate at a time, so it remains unclear which immunogenic proteins are abundant in the intracellular niche that protective immunity must recognise. We reanalysed four public data layers: dual RNA-sequencing of intracellular  B. abortus and infected murine macrophages (GSE100914), splenic transcriptomes from vaccinated and challenged mice (GSE254248), and single-cell (PRJCA054635) and metabolomic (ST003696, ST003692) atlases. Intracellular residence induced 704 genes and repressed 249, enriching translation functions 2.9-fold. Omp28/BP26 was the second most abundant intracellular transcript (35,652 TPM; log2FC 4.25), whereas the lipoproteins omp16, omp10 and omp19 were 116-637-fold less abundant. Vaccination left a germinal-centre and TCF1+ memory imprint rather than an effector-cytokine signature. A composite score combining abundance, induction and surface exposure reorders the candidate panel, placing Omp28/BP26 and omp2b above current candidates and defining concrete priorities for veterinary vaccine development.  Simple Summary  Brucellosis is a bacterial infection that causes abortions, stillbirths and infertility in cattle, sheep, goats and pigs, and it can also pass to people through unpasteurised milk or direct contact with infected animals. Vaccination is the main control measure, but the live vaccines used in livestock do not fully protect animals and make vaccinated animals look infected in the blood tests on which eradication programmes depend. Safer subunit and mRNA vaccines therefore need better target proteins, yet candidates have usually been chosen one at a time from laboratory-grown bacteria, which may not reflect what the bacteria produce inside the animal’s own cells. We reanalysed publicly available datasets that measure gene activity in infected cells and in vaccinated animals. The proteins currently favoured by vaccine developers turn out to be scarce inside host cells, whereas two surface proteins are abundant and strongly switched on. Our ranking, together with the immune features that distinguish protected animals, gives concrete priorities for the next generation of veterinary brucellosis vaccines.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760311",
+    "date": "2026-10-24",
+    "authors": "Zhao Y, Cheng H, Zhou S, He L, Xiu C, Huang B, Lu X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349470",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1873,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.760311"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5524ccc9d65c9b347d73c8c9904879c7264a98fbe82719b7486b5ecdbebd9df2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:10:19.859086+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bdbf7d2d64535fbb2f36c1c8eeae56889cf7aa2f6c29c64d06ddcacdf00f5127",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:10:19.859086+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シングルセルおよびメタボロームアトラスを活用した、公開されている細胞内およびワクチン負荷トランスクリプトームの統合的再解析により、次世代獣用ブルセラワクチンの抗原優先順位付けが精緻化される。",
+    "abstract_ja": "ブルセラ症は、最も広く分布する細菌性人獣共通感染症であり、牛、羊、山羊、豚における流産および不妊の主要な原因となっている。家畜向けに承認されている生ワクチン（B. abortus S19およびRB51、B. melitensis Rev.1）は保護能が不十分であり、残留病原性を保持し、野外感染によるものと区別がつかない抗体を誘導する。また、ヒト用ワクチンは承認されていない。より安全なサブユニット型およびmRNA型代替ワクチンの抗原探索は、候補を一つずつ検討する形で進められてきたため、防御免疫が認識すべき細胞内ニッチにどの免疫原性タンパク質が豊富に存在するのかは依然として不明である。我々は、細胞内B. abortusおよび感染マウスマクロファージのデュアルRNAシーケンシング（GSE100914）、ワクチン接種およびチャレンジマウスの脾臓トランスクリプトーム（GSE254248）、およびシングルセル（PRJCA054635）およびメタボローム（ST003696、ST003692）アトラスという4つの公開データレイヤーを再解析した。細胞内滞留により704個の遺伝子が誘導され、249個が抑制され、翻訳機能が2.9倍に濃縮された。Omp28/BP26は細胞内で最も豊富に存在する転写産物の第2位（35,652 TPM; log2FC 4.25）であり、一方でリポタンパク質のomp16、omp10、omp19は116～637倍少なかった。ワクチン接種は、エフェクター・サイトカインシグネチャーではなく、胚中心およびTCF1+のメモリーインプリントを残した。存在量、誘導能、および表面露出を組み合わせた複合スコアにより候補パネルを再編成した結果、Omp28/BP26およびomp2bが現在の候補よりも上位に位置し、獣医学的ワクチン開発における具体的な優先順位が定義された。  概要 ブルセラ症は、牛、羊、山羊、豚において流産、死産、および不妊を引き起こす細菌感染症であり、未殺菌乳や感染動物との直接接触を通じてヒトにも伝播する可能性がある。ワクチン接種が主要な防除策であるが、家畜に使用される生ワクチンは動物を完全に保護するものではなく、根絶プログラムの根拠となる血液検査において、ワクチン接種済みの動物が感染しているように見えてしまう。したがって、より安全なサブユニット型およびmRNA型ワクチンには、より優れた標的タンパク質が必要であるが、候補は通常、研究室で培養された細菌から一つずつ選定されており、これらは細菌が動物自身の細胞内で産生するものを反映していない可能性がある。我々は、感染細胞およびワクチン接種動物における遺伝子活性を測定する公開データセットを再解析した。現在、ワクチン開発者が優先的に検討しているタンパク質は、宿主細胞内では乏しいことが判明した一方で、2つの表面タンパク質は豊富に存在し、強く活性化していた。我々のランキングは、保護された動物を区別する免疫学的特徴とともに、次世代の獣医学的ブルセラ症ワクチンに向けた具体的な優先順位を提示するものである。"
   }
 ]
