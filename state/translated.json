@@ -270156,5 +270156,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "GATA25転写因子によるTCP4の光依存的活性化は、シロイヌナズナの葉柄および胚軸の伸長を促進する。",
     "abstract_ja": "植物は細胞伸長を日周明暗サイクルと同調させており、これは変化する環境条件下で成長を最適化するための重要な適応戦略である。しかし、光シグナルを植物の発生・成長に結びつける転写機構については、依然として十分に解明されていない。本研究では、光および光周期に応答した葉柄および胚軸伸長の調節因子として、転写因子GATA25を同定した。シロイヌナズナ（Arabidopsis thaliana）においてGATA25を過剰発現させると、葉柄および胚軸の長さが増加し、TCP4転写産物レベルが上昇した。我々は、グルココルチコイド受容体ベースの誘導系である転写活性化解析、クロマチン免疫沈降法、および電気泳動移動度シフトアッセイを用いて、GATA25がTCP4のプロモーターに直接結合し、その転写を活性化することを実証した。さらに、酵母ツーハイブリッドアッセイおよび二分子蛍光相補解析により、GATA25がE3ユビキチンリガーゼCOP1と物理的に相互作用することが示された。特筆すべきは、GATA25の過剰発現が暗条件下でTCP4転写産物レベルを上昇させなかったことであり、これは暗条件下でGATA25の活性が抑制されていることを示唆している。これらの知見に基づき、我々は、暗条件下でGATA25がCOP1によって不安定化され、TCP4の活性化が明条件下に限定されるというモデルを提案する。以上の知見を総合すると、日周明暗サイクルがGATA25-TCP4モジュールを介して、いかにして光周期依存的に細胞伸長を調節しているかを理解するための枠組みが提示される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.32942/x24t38",
+    "title": "Gaps and biases in the ecological evidence underlying global biodiversity impact assessments",
+    "abstract": "1. Halting global biodiversity loss requires methods that link biodiversity impacts to both their direct drivers and the human activities that generate them. Biodiversity footprint assessment has emerged as a key framework for establishing these connections, resulting in the rapid development of diverse methods and applications. Central to these approaches are characterisation factors (CFs), which translate environmental pressures, such as land use, into quantified biodiversity impacts. CFs are based on empirical ecological studies that vary in taxonomic, geographic and methodological scope, potentially introducing uncertainty, bias and limited representativeness into biodiversity footprint assessments. 2. We systematically examined the empirical foundations of land-use pressure–impact relationships underpinning CFs in four widely used global biodiversity impact assessment methods. We traced the original empirical studies on which the CFs were based, compared overlap among the methods’ publication bases, and assessed their taxonomic, geographic representativeness. We also compared these studies with a recent global database of human impacts on biodiversity and identified priority ecoregions for future research by combining evidence gaps with the occurrence of Key Biodiversity Areas and high anthropogenic land-use pressure. 3. The four methods relied on markedly different but partly overlapping evidence bases. Across methods, the underlying evidence showed pronounced taxonomic and geographic biases. Vertebrates and vascular plants were generally overrepresented, whereas invertebrates, amphibians, reptiles, fungi and many other groups were poorly represented or absent, although the extent of these gaps varied among methods. Evidence was concentrated in (sub)tropical moist broadleaf forests and in Asia, Europe and the Americas, with substantial gaps in Africa, Australia and Oceania. 4. This uneven representation has important implications for the interpretation, robustness and global comparability of biodiversity footprint assessments. Building on our findings, we identify priority regions for future research and highlight opportunities to strengthen biodiversity impact assessment by incorporating more balanced ecological evidence into CF development and promoting structured, assessment-relevant biodiversity data collection. Greater transparency about the empirical foundations, representativeness and limitations of CFs is also essential to support more robust biodiversity footprint assessments and better-informed strategies for mitigating biodiversity loss.",
+    "journal": "",
+    "doi": "10.32942/x24t38",
+    "date": "2026-10-22",
+    "authors": "Sandström V, Hällfors M, El Geneidy S, Kahilainen A, Kotiaho J, Pykäläinen E, Salminen J, Scherer L, Sirkiä P, Norros V.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348310",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3751,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.32942/x24t38"
+    ],
+    "translation": {
+      "title": {
+        "hash": "54b91eec5b7cc9f44eb41a9852a75a0b13d316bda8a61753eda9562521c3c48e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T04:03:04.076911+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4811edb1f9e03929f0bf2c3c5750177133c4eb85652f1adc030fb790721092fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T04:03:04.076911+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "地球規模の生物多様性影響評価の根拠となる生態学的証拠におけるギャップとバイアス",
+    "abstract_ja": "1. 地球規模の生物多様性喪失を食い止めるには、生物多様性への影響を、その直接的な要因とそれを生じさせる人間活動の双方に結びつける手法が必要である。生物多様性フットプリント評価は、こうした関連性を確立するための重要な枠組みとして台頭し、その結果、多様な手法や応用例が急速に発展してきた。これらのアプローチの中核をなすのが特性化因子（CF）であり、これは土地利用などの環境圧力を定量化された生物多様性への影響へと変換するものである。CFは、分類学的、地理的、および方法論的な範囲が異なる実証的な生態学的研究に基づいており、それが生物多様性フットプリント評価に不確実性やバイアス、代表性の欠如をもたらす可能性がある。 2. 我々は、広く用いられている4つの地球規模生物多様性影響評価手法におけるCFの基盤となる、土地利用圧力と影響の関係に関する実証的根拠を体系的に検討した。CFの基礎となった元の実証研究を追跡し、各手法の公表根拠における重複を比較するとともに、分類学的および地理的な代表性を評価した。また、これらの研究を生物多様性に対する人間活動の最新の地球規模データベースと比較し、エビデンスの欠落と、重要生物多様性地域（Key Biodiversity Areas）の存在および高い人為的土地利用圧力とを組み合わせることで、今後の研究における優先的な生態地域を特定した。 3. これら4つの手法は、著しく異なるものの、一部で重複するエビデンス基盤に依拠していた。手法間で、基礎となるエビデンスには顕著な分類学的および地理的なバイアスが認められた。脊椎動物と維管束植物は概して過剰に代表されていた一方、無脊椎動物、両生類、爬虫類、菌類、およびその他の多くのグループは代表性が低いか、あるいは全く含まれていなかった。ただし、こうした欠落の程度は手法によって異なっていた。エビデンスは（亜）熱帯湿潤広葉樹林、およびアジア、ヨーロッパ、アメリカ大陸に集中しており、アフリカ、オーストラリア、オセアニアでは著しい欠落が見られた。 4. このような不均等な代表性は、生物多様性フットプリント評価の解釈、頑健性、および地球規模での比較可能性に重要な影響を及ぼす。本研究の知見に基づき、我々は今後の研究における優先地域を特定するとともに、CFの開発によりバランスの取れた生態学的エビデンスを取り入れ、構造化された評価に有用な生物多様性データの収集を促進することで、生物多様性影響評価を強化する機会を強調する。また、より頑健な生物多様性フットプリント評価と、生物多様性喪失を緩和するためのより十分な情報に基づいた戦略を支えるためには、CFの実証的根拠、代表性、および限界に関する透明性を高めることが不可欠である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11243785/v1",
+    "title": "A CHI3L1-containing diagnostic model for biopsy-confirmed significant fibrosis in chronic HBV infection: a retrospective study",
+    "abstract": "Abstract  Aim  To evaluate the association between serum chitinase-3-like protein 1 (CHI3L1) and biopsy-confirmed significant fibrosis in chronic hepatitis B virus (HBV) infection, and to explore CHI3L1-containing diagnostic models. Methods  This retrospective study included 81 adults who underwent liver biopsy between January 2020 and December 2024. Significant fibrosis was defined as Scheuer stage S2-S4. Participants were allocated to training (n = 65) and hold-out validation (n = 16) cohorts before missing-value imputation. HBV DNA was log10-transformed. FibroScan, a serum model (prothrombin time, alkaline phosphatase, CHI3L1 and log10 HBV DNA), and a combined model were assessed. Results  Fifty-six participants had significant fibrosis. Median CHI3L1 was numerically higher with significant fibrosis [31.73 (22.23–55.80) vs 27.41 (19.86–35.44) ng/mL; P = 0.105]. In the seven-variable model, CHI3L1 showed a positive adjusted association (odds ratio 1.061, 95% confidence interval 1.004–1.121; P = 0.036). Training/validation areas under the receiver operating characteristic curve were 0.783/0.808 for FibroScan, 0.856/0.750 for the serum model and 0.873/0.800 for the combined model. Conclusions  CHI3L1 showed a positive adjusted association, but model ranking was inconsistent in the small validation cohort. These exploratory findings require rigorous internal validation and independent prospective multicenter validation before clinical use.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11243785/v1",
+    "date": "2026-10-22",
+    "authors": "Lin J, Gu Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348145",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3752,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11243785/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3d3df5852741337e49692e2fe6f50e54fce7df77027e759ad4f1811736502af9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T04:03:04.076911+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "59741807640c9cd2319f8052011f876c2cbefd98a28eb044aeaff14637912bc0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T04:03:04.076911+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "慢性HBV感染における生検確定有意線維化のCHI3L1含有診断モデル：後方視的研究",
+    "abstract_ja": "要旨  目的  慢性B型肝炎ウイルス（HBV）感染における血清キチナーゼ-3様タンパク質1（CHI3L1）と生検で確認された有意な線維化との関連を評価し、CHI3L1を含む診断モデルを検討すること。方法  本後方視的研究には、2020年1月から2024年12月の間に肝生検を受けた成人81例が組み入れられた。有意な線維化はScheuerステージS2-S4と定義した。参加者は、欠損値補完を行う前に、トレーニングコホート（n = 65）およびホールドアウト検証コホート（n = 16）に割り付けられた。HBV DNAはlog10変換した。FibroScan、血清モデル（プロトロンビン時間、アルカリホスファターゼ、CHI3L1およびlog10 HBV DNA）、および統合モデルを評価した。結果  56例に有意な線維化が認められた。CHI3L1の中央値は、有意な線維化を有する群で数値的に高かった［31.73 (22.23–55.80) vs 27.41 (19.86–35.44) ng/mL; P = 0.105］。7変数モデルにおいて、CHI3L1は正の調整後関連を示した（オッズ比 1.061、95%信頼区間 1.004–1.121; P = 0.036）。受信者動作特性曲線下面積（ROCA）は、FibroScanで0.783/0.808、血清モデルで0.856/0.750、統合モデルで0.873/0.800であった。結論  CHI3L1は正の調整後関連を示したが、小規模な検証コホートではモデルの順位付けに一貫性が認められなかった。これらの探索的知見は、臨床応用に先立ち、厳格な内部検証および独立した前向き多施設検証を必要とする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11194517/v1",
+    "title": "Silent Circulation of Rickettsia Spp. In a Non-Endemic Area of Northeastern Brazil Revealed by Molecular and Serological Evidence in Animals From Probable Sites of Human Spotted Fever Infection",
+    "abstract": "Abstract    Spotted fever is a severe zoonotic disease, and Alagoas State has historically been classified as a silent area for human rickettsioses. This study aimed to investigate the occurrence of and exposure to bacteria of the genus  Rickettsia  in Alagoas to support epidemiological surveillance and assess public health risks. We collected 114 blood samples from animals, including 95 dogs and 19 horses, alongside 146 ticks, across four municipalities: Maragogi, Palmeira dos Índios, São José da Tapera, and Senador Rui Palmeira. Samples were tested for antibodies against  Rickettsia rickettsii  ,  R. parkeri  , and  R. amblyommatis  by indirect immunofluorescence assay (IFA). DNA from blood clot and tick samples was extracted for molecular analyses using real-time PCR (qPCR) and conventional PCR targeting gltA and ompA genes. IFA revealed significant exposure to these agents (p R. parkeri  , followed by  R. amblyommatis  and  R. rickettsii  . Of the 146 ticks, 111 (76.0%) from dogs were identified as  Rhipicephalus sanguineus  , and 35 (24.0%) from horses were  Dermacentor nitens  . All tick samples tested negative for  Rickettsia  by qPCR. However,  Rickettsia  DNA was detected in a blood clot sample from a dog from the municipality of Maragogi. This study provides the first molecular and serological evidence of silent  Rickettsia  spp. circulation in Alagoas, a non-endemic region for spotted fever. The high seroreactivity demonstrates active exposure, highlighting dogs and horses as sentinel species within an integrated One Health framework.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11194517/v1",
+    "date": "2026-10-22",
+    "authors": "Bugarim-Neto CA, Maia RC, Nascimento JPM, Lima CRB, Nascimento GG, Araújo MA, Paz WS, Silva WM, Bezerra-Santos M, Szabó MPJ, Silva-Júnior A, Porto WJN.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347857",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3759,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11194517/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c9ae9f55062ca973c35fc8f5e73594d6ed2e546bbfda20be5bd8a0b5c5358c81",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T04:03:04.076911+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8dce3bfaf0670e019e884e2833e2a4f612dfe062dbe3034c901b40e9c4402989",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T04:03:04.076911+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト紅斑熱感染の推定地の動物を用いた分子学的・血清学的証拠により明らかになった、ブラジル北東部非流行地域におけるリケッチア・スピッツ属菌の不顕性循環",
+    "abstract_ja": "要旨    紅斑熱は重篤な人獣共通感染症であり、アラゴアス州は従来、ヒトリケッチア症のサイレントエリアに分類されてきた。本研究は、疫学的サーベイランスを支援し、公衆衛生上のリスクを評価するため、アラゴアス州におけるリケッチア属菌の発生状況および曝露について調査することを目的とした。マラゴジ、パルメイラ・ド・インディオス、サン・ジョゼ・ダ・タペラ、およびセナドール・ルイ・パルメイラの4自治体において、犬95頭、馬19頭を含む動物から114検体の血液サンプルを、併せてマダニ146個体から採取した。検体については、間接免疫蛍光法（IFA）を用いて、Rickettsia rickettsii、R. parkeri、およびR. amblyommatisに対する抗体検査を実施した。血液凝固塊およびマダニ検体から抽出したDNAについて、gltAおよびompA遺伝子を標的としたリアルタイムPCR（qPCR）および従来型PCRによる分子解析を行った。IFAの結果、これらの病原体への有意な曝露が認められた（p R. parkeri、次いでR. amblyommatis、R. rickettsii）。146個体のマダニのうち、犬由来の111個体（76.0%）がRhipicephalus sanguineus、馬由来の35個体（24.0%）がDermacentor nitensと同定された。すべてのマダニ検体において、qPCRによるリケッチア属菌の検出は陰性であった。しかしながら、マラゴジ自治体の犬の血液凝固塊検体からリケッチア属菌のDNAが検出された。本研究は、紅斑熱の非流行地域であるアラゴアス州において、リケッチア属菌がサイレントに循環していることを示す初の分子学的および血清学的証拠を提示するものである。高い血清反応性は能動的な曝露を示しており、統合的なワンヘルス（One Health）の枠組みにおいて、犬と馬がセンチネル種であることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11216979/v1",
+    "title": "Sex matters in children living with HIV: sex differences in virological, immunological and proteomic outcomes in early-treated pediatric HIV",
+    "abstract": "Abstract  Sex-related differences in HIV pathogenesis are well documented in adults, yet evidence in children living with HIV (CLHIV) remains limited and inconsistent. This study investigates sex-specific differences in virological, immunological and proteomic outcomes in an African cohort of early-treated CLHIV. We analyzed 159 children with perinatally acquired HIV from the EARTH multicenter cohort (2018–2021) in South Africa, Mozambique, and Mali. All initiated ART within 90 days of diagnosis. Outcomes included HIV-1 RNA viral decay, HIV-1 DNA reservoir size, immunological progression, ART adherence, and plasma proteomics (92 Olink proteins). Bayesian regression and survival models were used. Baseline characteristics were comparable between sexes. Females showed steeper viral decay than males (Δ slope − 0.01 log10 copies/mL/year; 95% CrI: −0.01 to − 0.001; PP = 0.994), directional support for faster reservoir decline (PP = 0.87), and lower hazard of immunological progression (HR = 0.62; 95% CrI: 0.29–1.24; PP = 0.91), despite a tendency toward higher suboptimal adherence (HR = 1.29; 95% CrI: 0.78–2.13; PP = 0.85). MCP-2 expression was higher in females (BF = 4.7). Sex-specific differences were observed in early-treated CLHIV. Females showed faster viral decay and lower immunological progression, while reservoir and adherence differences were less certain. These findings highlight sex as a relevant determinant of pediatric HIV disease trajectories and responses to treatment.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11216979/v1",
+    "date": "2026-10-22",
+    "authors": "Gastesi I, Ballesteros A, Serna-Pascual M, Cotugno N, Pascucci G, Palma P, Cotton M, Violari A, Lain M, Nhampossa T, Issiaka A, Barnabas S, Vaz P, Otwombe K, Fernández-Luis S, Naniche D, Janse-Van-Rensburg A, Liberty A, Ramsagar N, Behuhuma O, Smit T, Ismael N, Giaquinto C, Rossi P, Kuhn L, Spyer M, Lichterfeld M, Nastuoli E, Gianuzzi V, Ndung’u T, Reddy K, Oletto A, Foster C, Pahwa S, Rojo P, Tagarro A, Domínguez-Rodríguez S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347702",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3761,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11216979/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "de8024ac91d2ddcf2cf88528c2259115c56948259c9e78fc137cea5764baa3aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T04:03:04.076911+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "69d17a2a1d8d0bb47484d43a4570b716f8f12a24fabbedc39ee713f4e444f903",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T04:03:04.076911+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIVと共に生きる子どもにおける性の影響：早期治療を受けた小児HIV患者におけるウイルス学的、免疫学的およびプロテオーム学的転帰の性差",
+    "abstract_ja": "要旨　成人におけるHIV病態形成の性差は十分に立証されているが、HIVと共に生きる小児（CLHIV）におけるエビデンスは依然として限定的かつ一貫性に欠けている。本研究では、早期に治療を開始したCLHIVのアフリカ人コホートを対象に、ウイルス学的、免疫学的、およびプロテオーム的な転帰における性差を検討した。南アフリカ、モザンビーク、およびマリのEARTH多施設コホート（2018–2021年）から、周産期にHIVに感染した小児159例を解析した。全例が診断後90日以内にARTを開始した。転帰項目には、HIV-1 RNAウイルス量の減少、HIV-1 DNAリザーバー量、免疫学的進行、ARTアドヒアランス、および血漿プロテオミクス（Olinkタンパク質92種）を含めた。ベイズ回帰分析および生存モデルを用いた。ベースライン特性は男女間で同等であった。女性は男性よりもウイルス量の減少が急激であり（Δ slope − 0.01 log10 copies/mL/year; 95% CrI: −0.01 to − 0.001; PP = 0.994）、リザーバー量の減少が速いことを方向的に支持し（PP = 0.87）、免疫学的進行のハザードも低かった（HR = 0.62; 95% CrI: 0.29–1.24; PP = 0.91）。一方で、アドヒアランスが最適とは言えない傾向にあった（HR = 1.29; 95% CrI: 0.78–2.13; PP = 0.85）。MCP-2発現は女性で高かった（BF = 4.7）。早期に治療を開始したCLHIVにおいて、性差が認められた。女性はウイルス量の減少が速く、免疫学的進行も低かったが、リザーバー量およびアドヒアランスの差については不確実であった。これらの知見は、小児のHIV疾患経過および治療反応において、性が重要な決定要因であることを浮き彫りにしている。"
   }
 ]
