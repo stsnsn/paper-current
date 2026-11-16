@@ -269231,5 +269231,317 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ウイルス感染とウイルス殺滅性抗ウイルス薬を実証する3Dプリント製磁気パズルゲーム",
     "abstract_ja": "ウイルスは地球上で最も数多く存在する微生物であり、他のあらゆる微生物を合わせた数をも上回っている。ウイルスは、保健と経済の両面において、世界的に重大な問題を引き起こす可能性がある。近年のパンデミックを受け、ウイルス感染のライフサイクルやウイルスに対する対策への理解が、世界的な関心事となっている。この複雑なプロセスを、幅広い一般層に分かりやすく説明できることは極めて重要である。そこで我々は、制限時間付きの組み立て競技を通じて、生徒や観客を刺激し、ウイルス感染や抗ウイルス対策について学びながら参加を促すマグネットパズルゲームを開発した。この「体験型」の性質と競争要素が相まって、本アクティビティは幅広い年齢層（未就学児から成人まで）から好評を得た。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11060592/v1",
+    "title": "Diagnostic Value of Metagenomic Next-Generation Sequencing in Refractory Osteomyelitis: A Retrospective Study",
+    "abstract": "Abstract  Background  Refractory osteomyelitis is a persistent and recurrent bone infection in which conventional microbiological culture often shows limited sensitivity and a prolonged turnaround time. Metagenomic next-generation sequencing (mNGS) enables comprehensive, culture-independent pathogen detection, but its clinical value in refractory osteomyelitis remains unclear. Objective  To compare the diagnostic performance of mNGS and conventional culture in refractory and typical osteomyelitis, focusing on pathogen detection, identification of polymicrobial infection, diagnostic efficiency, and impact on antimicrobial therapy. Methods  This retrospective study included 150 patients with osteomyelitis who underwent surgery between January 2021 and September 2023 (42 refractory, 108 typical). Intraoperative deep-tissue or purulent specimens were analyzed by both mNGS and conventional culture. Pathogen detection, polymicrobial infection identification, turnaround time, inter-method agreement, and treatment modifications were compared. Results  mNGS detected pathogens in significantly more patients than culture in refractory (83.3% vs. 28.6%) and typical (56.5% vs. 16.7%) osteomyelitis (both P",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11060592/v1",
+    "date": "2026-10-22",
+    "authors": "Ma X, Wu H, Li H, Wang B, Huang G, Ren Z, Tang J, Han P, Shen H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348133",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1965,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11060592/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8d80c82ef597d42d7e8f9b491ea6e4a75adcd12182345c22e260c47d1d67b8a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:56:49.696157+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a53d01170f37048e95117c8a71fd9132d7977fa67b14907a3fa688bfa47ae319",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:56:49.696157+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "難治性骨髄炎におけるメタゲノム次世代シーケンシングの診断的価値：後方視的研究",
+    "abstract_ja": "要旨  背景  難治性骨髄炎は持続性かつ再発性の骨感染症であり、従来の微生物学的培養では感度が限定的で結果判明までに長期間を要することが多い。メタゲノム次世代シーケンシング（mNGS）は培養に依存しない包括的な病原体検出を可能にするが、難治性骨髄炎における臨床的有用性は依然として不明である。目的  難治性および典型的骨髄炎におけるmNGSと従来培養の診断能を、病原体検出、多菌種感染の同定、診断効率、および抗菌薬治療への影響に着目して比較することである。方法  本後方視的研究では、2021年1月から2023年9月の間に手術を受けた骨髄炎患者150例（難治性42例、典型的108例）を対象とした。術中の深部組織検体または膿性検体を、mNGSおよび従来培養の両方で解析した。病原体検出、多菌種感染の同定、結果判明までの期間、手法間の一致度、および治療内容の変更を比較した。結果  mNGSは、難治性（83.3% vs. 28.6%）および典型的（56.5% vs. 16.7%）骨髄炎において、培養よりも有意に多くの患者で病原体を検出した（ともにP"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11224994/v1",
+    "title": "Insights into Mycoplasma spp. genetic diversity through a long-term study in bank voles (Clethrionomys glareolus) in the Mazury Lake District in Poland",
+    "abstract": "Abstract    Hemotrophic mycoplasmas (hemoplasmas) are Gram-negative, uncultivable bacteria that parasitize red blood cells of diverse vertebrates. Rodent-associated hemoplasmas with zoonotic potential have been reported, highlighting the need to study these pathogens in wild rodent populations. We investigated the prevalence, abundance, and genetic diversity of  Mycoplasma  spp. across three geographically separated populations of bank voles,  Clethrionomys glareolus  (n = 1514), sampled over 23 years. Additional positive samples were obtained from  Apodemus flavicollis  ,  A. sylvaticus  , and  A. agrarius  . Prevalence was assessed using microscopic examination and molecular identification based on the 16S rRNA gene (595 bp). Infection abundance was quantified by counting infected erythrocytes in 200 microscopic fields. Genetic diversity and species delineation were evaluated using phylogenetic analyses and Minimum Spanning Network approaches. Overall prevalence of Mycoplasma spp. was 69.4%, with a mean abundance of 12.6 ± 0.69 infected RBCs per 200 fields. Phylogenetic analyses revealed eight previously undescribed  Mycoplasma  species comprising 16 haplotypes. These findings provide new insights into the prevalence, abundance, diversity, and host associations of  Mycoplasma  spp. in free-living rodents, demonstrating long-term infection stability and the influence of ecological and demographic factors. This study represents the first molecular investigation of rodent hemoplasmas in Poland.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11224994/v1",
+    "date": "2026-10-22",
+    "authors": "Alsarraf M, Dwużnik-Szarek D, Wężyk D, Alsarraf M, Tołkacz K, Romanek W, Grzybek M, Górska J, Krupińska M, Goll A, Freitas FM, Behnke-Borowczyk J, Behnke JM, Bajer A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347597",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [
+          "lake"
+        ],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1967,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11224994/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "43c4508b12418c6833c5ecf0ae6059269f579d8e5fca1f1dbb810d2fd649833d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:56:49.696157+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "53c48f864dda4910d909d9f65a93ece9bc01415fef5cb9165189c456c0e0316c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:56:49.696157+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポーランド・マゾフシェ湖水地方のバンクハタネズミ（Clethrionomys glareolus）を用いた長期研究によるマイコプラズマ属の遺伝的多様性に関する知見",
+    "abstract_ja": "要旨    ヘモトロフィック・マイコプラズマ（ヘモプラズマ）は、多様な脊椎動物の赤血球に寄生するグラム陰性の非培養性細菌である。人獣共通感染の可能性を有する齧歯類関連ヘモプラズマが報告されており、野生齧歯類集団におけるこれらの病原体の研究の必要性が浮き彫りとなっている。本研究では、23年間にわたり採集された、地理的に離れた3つのバンクボレス（Clethrionomys glareolus、n = 1514）集団におけるMycoplasma属の保有率、存在量、および遺伝的多様性を調査した。また、Apodemus flavicollis、A. sylvaticus、およびA. agrariusからも陽性サンプルを得た。保有率は、顕微鏡観察および16S rRNA遺伝子（595 bp）に基づく分子同定を用いて評価した。感染存在量は、200個の顕微鏡視野における感染赤血球の計数により定量した。遺伝的多様性および種の画定は、系統解析および最小全域ネットワーク法を用いて評価した。Mycoplasma属の全体的な保有率は69.4%であり、200視野あたりの平均感染赤血球数は12.6 ± 0.69個であった。系統解析の結果、16のハプロタイプからなる、これまで記載されていなかった8種のMycoplasma属が明らかになった。これらの知見は、自由生活性齧歯類におけるMycoplasma属の保有率、存在量、多様性、および宿主との関連性に関する新たな知見を提供するものであり、長期的な感染安定性ならびに生態学的・人口統計学的要因の影響を実証するものである。本研究は、ポーランドにおける齧歯類ヘモプラズマの初の分子生物学的調査である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.26364157",
+    "title": "Spatial modeling of risk factors for human exposure to West Nile virus in rural Madagascar",
+    "abstract": "Background  West Nile virus (WNV) is an emerging disease transmitted from bird hosts to humans by Culex mosquitoes. Thousands of human cases of WNV infection are reported each year in the United States and Europe, and circulation has been confirmed in Africa and the Indian Ocean, including Madagascar. However, little is known about the current riskscape for people in Madagascar, and what determines its local distribution and human exposure across the population. The goal of this study was to assess WNV seroprevalence and identify associated socio-ecological risk factors in rural Madagascar. Methodology and principal findings  A cross-sectional serological survey was conducted in Ifanadiana District in 2021, nested within a representative longitudinal cohort. We evaluated serological responses to WNV in 3,948 individuals using a multiplex bead assay. We estimated WNV seroprevalence using a Gaussian Mixture Model (GMM) and characterized environmental, socioeconomic, and demographic factors that could be associated with exposure to WNV using various data sources, including optical and Synthetic Aperture Radar (SAR) satellite images, climate variables, and household survey data. Overall seroprevalence was 43%, and populations living in geographically isolated areas and those engaged in agricultural activities were at higher risk, while proximity to dense forests and residential areas were protective against WNV exposure. Conclusions  This study found high rates and local heterogeneity in WNV exposure in a rural district of Madagascar. In addition, environmental, climatic, and socio-demographic data were determinants of WNV transmission, providing a valuable tool for surveillance and decision-making in arbovirus prevention and control. Extending this approach to other orthoflaviviruses could improve understanding of local viral co-circulation and promote the development of more precise and context-specific prevention strategies.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.26364157",
+    "date": "2026-10-22",
+    "authors": "Randriamihaja M, Rasoloharimanana LT, Veeragandham S, Miller AC, Finnegan KE, Bos S, Razafinjato B, Mitsinjoniala E, Kotchofa JA, Garneret P, Razanadranaivo HL, Ihantamalala FA, Rakotonanahary RJ, Chevalier V, Bonds MH, Schoenhals M, Evans MV, Popper SJ, Garchitorena A.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348345",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2700,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.26364157"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a03d0c8c60d7382840f1803aa16c5f2f749c2bbb176ffd0a6928a36658789cab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:56:49.696157+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0c58d3f0d800ba4e408cbcb1e173fd7a34ae05a765e3aafb37f96243cf3f7bdc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:56:49.696157+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マダガスカル農村部におけるヒトのウエストナイルウイルス曝露リスク因子の空間モデリング",
+    "abstract_ja": "背景  ウエストナイルウイルス（WNV）は、蚊の一種であるアカイエカによって鳥類の宿主からヒトへ伝播する新興感染症である。米国および欧州では毎年数千例のWNV感染例が報告されており、マダガスカルを含むアフリカおよびインド洋においても流行が確認されている。しかし、マダガスカルの住民における現在のリスク状況や、地域的な分布および集団全体の曝露を決定づける要因については、ほとんど解明されていない。本研究の目的は、マダガスカルの農村部におけるWNV血清有病率を評価し、関連する社会生態学的リスク要因を特定することであった。方法および主な知見  2021年に、代表的な縦断的コホートの一環として、イファナディアナ地区において横断的な血清学的調査を実施した。マルチプレックスビーズアッセイを用いて、3,948名を対象にWNVに対する血清学的反応を評価した。ガウス混合モデル（GMM）を用いてWNV血清有病率を推定し、光学衛星および合成開口レーダー（SAR）衛星画像、気候変数、世帯調査データを含む多様なデータソースを用いて、WNV曝露に関連する可能性のある環境的、社会経済的、および人口統計学的要因を明らかにした。全体の血清有病率は43%であり、地理的に孤立した地域に居住する人々や農業に従事する人々はリスクが高く、一方で密林や居住地域に近いことはWNV曝露に対する保護因子となった。結論  本研究により、マダガスカルの農村地区においてWNV曝露率が高く、地域的な不均一性があることが明らかとなった。さらに、環境、気候、および社会人口統計学的データがWNV伝播の決定要因となっており、アルボウイルスの予防および制御におけるサーベイランスと意思決定のための有用なツールとなる。このアプローチを他のオルソフラビウイルスにも拡張することで、地域的なウイルス共流行の理解が深まり、より精密で状況に応じた予防戦略の開発が促進される可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.16.759725",
+    "title": "Elevated environmental CO  2  stimulates photosynthesis and induces differential oxidative responses in two Caribbean reef-building coral species",
+    "abstract": "Reef-building corals maintain intracellular photosymbiosis with dinoflagellate algae, allowing them to use photosynthetic products as metabolic fuel. Carbon dioxide (CO  2 ) is a key substrate for photosynthesis, but its rapid increase in the global ocean due to anthropogenic emissions (known as “ocean acidification”) may disrupt coral symbiosis. We examined the effects of elevated CO  2 on photosynthetic O  2 production, oxidative damage, and antioxidant systems in the Caribbean reef-building corals  Porites astreoides and  Orbicella franksi . Coral colonies collected at 3m depth in Bocas del Toro (Panama) were exposed to control (∼390 μatm CO  2 , pH ∼8.00) or elevated CO  2 (∼1,060 μatm CO  2 , pH ∼7.70) conditions in outdoor flow-through aquaria for 10 days. Flowing seawater had higher O  2 concentrations in elevated CO  2 tanks, with the largest differences at higher irradiance. Microsensor measurements confirmed that acute and chronic exposure to elevated CO  2 significantly stimulated photosynthetic O  2 production in both species. Despite increased O  2 production. neither species showed significant changes in lipid peroxidation, reduced glutathione, or superoxide dismutase, catalase, and glutathione-S- transferase activities. Protein oxidation was unchanged in  O. franksi but significantly decreased in  P. astreoides . These results are consistent with partial relief of carbon limitation in  P. astreoides symbionts under elevated CO  2 , potentially improving photosynthetic efficiency and decreasing reactive oxygen species production. These findings support the resilience of  P. astreoides to OA and suggest that elevated CO  2 may increase daytime O  2 levels on future reefs, with implications for the aerobic metabolism of reef organisms.",
+    "journal": "",
+    "doi": "10.64898/2026.10.16.759725",
+    "date": "2026-10-22",
+    "authors": "Tresguerres M, Sabatini S, Linsmayer L, Galindo-Martínez C, Thies A, Hamilton T, Kline DI.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348339",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "dinoflagellate"
+      ],
+      "context": {
+        "marine": [
+          "ocean",
+          "seawater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2701,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.16.759725"
+    ],
+    "translation": {
+      "title": {
+        "hash": "613cd95b6a62ee1fbfa56ca264bdaca1bd9b9945264a7943a800908ddf205c83",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:56:49.696157+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "65a5ccc54fbf5ebaa82c5ee6fe187bbe4841a411a73dae40858ed19738025421",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:56:49.696157+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "環境中CO₂濃度の上昇は光合成を活性化し、カリブ海の造礁サンゴ2種において差異的な酸化応答を誘導する。",
+    "abstract_ja": "造礁サンゴは渦鞭毛藻と細胞内光共生関係を維持しており、光合成産物を代謝燃料として利用している。二酸化炭素（CO₂）は光合成の重要な基質であるが、人為的な排出により全球の海洋で急速に増加している（「海洋酸性化」として知られる）ことで、サンゴの共生関係が乱される可能性がある。本研究では、カリブ海の造礁サンゴであるPorites astreoidesおよびOrbicella franksiにおいて、CO₂濃度の上昇が光合成によるO₂産生、酸化的損傷、および抗酸化系に及ぼす影響を検討した。パナマのボカス・デル・トロの水深3mで採取したサンゴコロニーを、屋外フロースルー式水槽内で、対照条件（∼390 μatm CO₂, pH ∼8.00）またはCO₂濃度上昇条件（∼1,060 μatm CO₂, pH ∼7.70）に10日間曝露させた。流動海水中のO₂濃度は、CO₂濃度上昇水槽においてより高く、光照量が多いほどその差が顕著であった。マイクロセンサーによる測定の結果、CO₂濃度上昇への急性および慢性的な曝露が、両種において光合成によるO₂産生を有意に促進することが確認された。O₂産生が増加したにもかかわらず、いずれの種においても、脂質過酸化、還元型グルタチオン、あるいはスーパーオキシドジスムターゼ、カタラーゼ、およびグルタチオン-S-トランスフェラーゼ活性に有意な変化は見られなかった。タンパク質酸化はO. franksiでは変化しなかったが、P. astreoidesでは有意に低下した。これらの結果は、CO₂濃度上昇下におけるP. astreoides共生生物の炭素制限が部分的に緩和されたことと一致しており、光合成効率の向上および活性酸素種の産生減少をもたらす可能性がある。これらの知見は、P. astreoidesのOAに対する耐性を裏付けるものであり、将来のサンゴ礁においてCO₂濃度の上昇が日中のO₂レベルを上昇させ、サンゴ生物の好気的代謝に影響を及ぼす可能性を示唆している。"
   }
 ]
