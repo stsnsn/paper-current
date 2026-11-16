@@ -277866,5 +277866,318 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "糖鎖結合体は乳腺腫瘍の進展における粘弾性特性を調節する",
     "abstract_ja": "乳がんの進行には腫瘍細胞外マトリックス（ECM）の広範なリモデリングが伴い、その結果、機械的特性に変化が生じる。腫瘍は粘弾性を示し、荷重に対する初期の弾性応答と時間依存的な粘性応答の両方を示す。腫瘍の弾性または剛性が亢進することは十分に確立されているが、乳がんの進行過程における組織の粘弾性の変化については、依然として十分に解明されていない。本研究では、ヒト乳がんの進行段階を再現するマウスモデル（マウス乳腺腫瘍ウイルスポリオーマ中間T抗原、MMTV-PyMT）を用い、疾患の早期および後期の両時点における腫瘍が、正常乳腺よりも有意に粘弾性が高いことを示した。空間的マイクロインデンテーションにより、正常組織の軟らかい領域では局所的な剛性と粘弾性が強く共役しているのに対し、後期の癌腫ではこの関係が弱まることが明らかになった。正常乳腺と比較して、癌腫組織ではグリコサミノグリカン（GAGs）および糖タンパク質の顕著な発現亢進も認められた。硫酸化GAGs、ムチン、またはO/N結合型糖鎖の選択的酵素分解は、剛性を変化させることなく粘弾性を低下させ、糖複合体が腫瘍の粘弾性の主要な寄与因子であることを明らかにした。in vitroにおいて、マトリックスの粘弾性を高めることは、焦点接着キナーゼのメカノシグナル伝達を介して、非形質転換乳腺上皮細胞（MCF10A）を悪性表現型へと誘導した。本研究は、部分的に糖複合体の蓄積によって駆動される粘弾性の亢進を、乳がん進行の決定的な機械的特徴として確立するものである。これらの知見は、腫瘍の機械的進化に関するより包括的な全体像を提示するとともに、乳がんの工学的モデルにおいてマトリックスの粘弾性を再現するためのベンチマークとなる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10955695/v1",
+    "title": "Multi-omics framework prioritizes RNA Methylation Modification Genes in Alzheimer's Disease and Functional Validation of ZFP36 in Regulating Neuroinflammation",
+    "abstract": "Abstract  Alzheimer’s disease (AD) is a progressive neurodegenerative disorder, in which epitranscriptomic modifications, especially RNA methylation, may exert crucial regulatory effects. This study integrated bulk transcriptomics, single‑cell sequencing and machine learning to screen RNA methylation‑related genes in AD and explore the functional role of zinc finger protein 36 (ZFP36). We screened RNA methylation-related differentially expressed genes (DEGs) by overlapping AD-associated DEGs with RNA methylation-related genes using the GSE84422 dataset. Six hub genes (C3, ZFP36, S100A9, GADD45A, PHGDH, FBXW7) were screened via PPI centrality analysis, LASSO regression and random forest algorithms and validated in GSE122063. ssGSEA immune infiltration analysis showed ZFP36 had the strongest positive correlation with effector memory CD8+ T cell enrichment score. Single‑cell RNA‑seq of human prefrontal cortex samples revealed high ZFP36 expression in microglia, T cells and astrocytes. Consistent with the bioinformatic findings, in vivo experiments in 9‑month‑old 5xFAD mice verified that ZFP36 overexpression in the hippocampus improved spatial learning and memory. Cell experiments showed that ZFP36 overexpression alleviated LPS-induced inflammatory responses in microglia. Subsequent virtual screening identified the compound MCULE‑4171537037 with moderate binding affinity for ZFP36. These findings associate ZFP36 with AD-related neuroinflammatory features and support further evaluation of its potential as a candidate biomarker and therapeutic target.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10955695/v1",
+    "date": "2026-10-21",
+    "authors": "He D, Liu R, Tian Z, Xiong Z, Zhang K, Zheng X, Luo Z, Li X, Xiao P, Zhang Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347094",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3813,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-10955695/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "22186861712b1d88e32f02cc50112ea5367fadabdde1e10764d9e218c72d6b24",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:54:58.776704+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf96ca34abff2618d8895161506acc7b16206aaf4ca9516ed18dec7b385d9829",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:54:58.776704+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチオミクスフレームワークによるアルツハイマー病におけるRNAメチル化修飾遺伝子の優先的解析と神経炎症調節におけるZFP36の機能検証",
+    "abstract_ja": "要旨　アルツハイマー病（AD）は進行性の神経変性疾患であり、エピトランスクリプトーム修飾、特にRNAメチル化が重要な調節効果を発揮している可能性がある。本研究では、バルクトランスクリプトミクス、シングルセルシーケンシング、および機械学習を統合し、ADにおけるRNAメチル化関連遺伝子のスクリーニングを行うとともに、ジンクフィンガータンパク質36（ZFP36）の機能的役割を検討した。GSE84422データセットを用い、AD関連の発現変動遺伝子（DEG）とRNAメチル化関連遺伝子との重複に基づき、RNAメチル化関連DEGのスクリーニングを行った。6つのハブ遺伝子（C3, ZFP36, S100A9, GADD45A, PHGDH, FBXW7）について、PPI中心性解析、LASSO回帰、およびランダムフォレストアルゴリズムを用いてスクリーニングを行い、GSE122063で検証した。ssGSEA免疫浸潤解析の結果、ZFP36はエフェクターメモリーCD8+ T細胞濃縮スコアと最も強い正の相関を示した。ヒト前頭前皮質サンプルのシングルセルRNA-seqにより、ミクログリア、T細胞、およびアストロサイトにおいてZFP36の高発現が認められた。バイオインフォマティクスの知見と一致して、生後9か月の5xFADマウスを用いたin vivo実験により、海馬におけるZFP36の過剰発現が空間学習および記憶を改善することが検証された。細胞実験では、ZFP36の過剰発現がミクログリアにおけるLPS誘発性炎症反応を緩和することが示された。その後のバーチャルスクリーニングにより、ZFP36に対して中程度の結合親和性を有する化合物MCULE‑4171537037が同定された。これらの知見は、ZFP36がAD関連の神経炎症特性に関与していることを示唆しており、候補バイオマーカーおよび治療標的としての可能性をさらに評価することを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10404023/v1",
+    "title": "Single-cell transcriptomic inference of lactylation-related programs identifies PRDX1 as a candidate metabolic regulator in hepatocellular carcinoma",
+    "abstract": "Abstract  Background  Lactate-derived lysine lactylation has emerged as a link between tumor metabolism and gene regulation. In hepatocellular carcinoma (HCC), however, the cellular distribution of lactylation-related transcriptional programs and their relationship to malignant phenotypes remain incompletely defined. Methods  We integrated 24 single-cell RNA-sequencing samples (16 HCC and 8 normal liver samples) with TCGA-LIHC bulk RNA-sequencing data. Lactylation-related gene-set activity was estimated using AUCell, UCell, singscore, ssGSEA, and AddModuleScore. Malignant hepatocytes were inferred by copy-number variation analysis, and high-score programs were examined by differential expression, hdWGCNA, CellChat, and CytoTRACE. Bulk transcriptomic feature selection was performed with Boruta, random forest, LASSO, and XGBoost. PRDX1 was then tested in HepG2 and Huh-7 cells by siRNA knockdown assays. Results  Lactylation-related scores were higher in HCC than in normal tissue and were associated with poorer overall survival in TCGA-LIHC. At single-cell resolution, the highest scores were observed in hepatocytes and myeloid dendritic cells, whereas B cells and plasma cells showed lower scores. High-score malignant hepatocytes displayed increased CytoTRACE scores and distinct ligand-receptor communication patterns. Intersecting high-score differentially expressed genes with hdWGCNA modules yielded 178 candidate genes. Machine-learning prioritization nominated BSG, ERGIC3, PPM1G, and PRDX1, whose higher expression was associated with poorer survival. PRDX1 knockdown reduced HCC-cell proliferation, colony formation, migration, invasion, and intracellular lactate production. Conclusions  This study defines a transcriptomic lactylation-related program in HCC and nominates PRDX1 as a candidate link between malignant behavior and lactate metabolism. Direct proteomic and clinical validation will be required to establish PRDX1-dependent lactylation mechanisms.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10404023/v1",
+    "date": "2026-10-21",
+    "authors": "Niu H, Zheng X, Li W, Niu Y, Liang J, Cao W, Ma S, Gao Y, Bao X, Luo J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346992",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "inference",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3815,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-10404023/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "45865549eeecb1ee841a871d1e5b2c96a650cb09591ba2537deea04e9b1c43fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:54:58.776704+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "73a603e2dff0ab315679fe1b57edd3e6427b1b880b1b5a80e6bf6f42b35937c3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:54:58.776704+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ラクチレーション関連プログラムの単一細胞トランスクリプトーム推論により、肝細胞癌における代謝調節因子候補としてPRDX1を同定した",
+    "abstract_ja": "要旨  背景  乳酸由来のリシン乳酸化は、腫瘍代謝と遺伝子調節をつなぐ因子として注目されている。しかし、肝細胞癌（HCC）においては、乳酸化関連転写プログラムの細胞内分布および悪性表現型との関連性は依然として十分に解明されていない。方法  24例のシングルセルRNAシーケンシング試料（HCC 16例、正常肝 8例）を、TCGA-LIHCバルクRNAシーケンシングデータと統合した。乳酸化関連遺伝子セットの活性は、AUCell、UCell、singscore、ssGSEA、およびAddModuleScoreを用いて推定した。悪性肝細胞はコピー数変動解析により推定し、高スコアプログラムについては発現変動解析、hdWGCNA、CellChat、およびCytoTRACEを用いて検討した。バルクトランスクリプトームの特徴選択は、Boruta、ランダムフォレスト、LASSO、およびXGBoostを用いて行った。次いで、HepG2およびHuh-7細胞において、siRNAノックダウンアッセイによりPRDX1を検証した。結果  乳酸化関連スコアは正常組織よりもHCCで高く、TCGA-LIHCにおける全生存期間の短縮と関連していた。シングルセル解像度では、肝細胞および骨髄系樹状細胞で最高スコアが観察された一方、B細胞および形質細胞ではスコアが低かった。高スコアの悪性肝細胞では、CytoTRACEスコアの上昇と特徴的なリガンド-受容体間コミュニケーションパターンが認められた。高スコアの発現変動遺伝子とhdWGCNAモジュールを交差解析した結果、178個の候補遺伝子が得られた。機械学習による優先順位付けの結果、BSG、ERGIC3、PPM1G、およびPRDX1が候補として挙げられ、これらの高発現は生存期間の短縮と関連していた。PRDX1のノックダウンにより、HCC細胞の増殖、コロニー形成、遊走、浸潤、および細胞内乳酸産生が抑制された。結論  本研究は、HCCにおけるトランスクリプトーム上の乳酸化関連プログラムを定義し、悪性挙動と乳酸代謝をつなぐ候補因子としてPRDX1を同定した。PRDX1依存的な乳酸化機構を解明するには、直接的なプロテオーム解析および臨床的検証が必要となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11114361/v1",
+    "title": "Mapping of early blight (Alternaria solani) disease tolerance in Tomato (Solanum Lycopersicum L.) through QTL-Seq and expression analysis of defense-related genes",
+    "abstract": "Abstract    Early blight disease, caused by the necrotrophic fungi  Alternaria solani  ,is one of the most common and destructive foliar diseases affecting tomatoes. It initially appears as small, dark brown lesions with concentric rings on the lower leaves, which eventually yellow and die, leading to severe defoliation and reduced yield. In the present study, an F  2  segregating population derived from contrasting parents was used to identify major quantitative trait loci (QTLs) governing early blight tolerance using QTL-Seq, a bulked segregant analysis method. The analysis was based on bulked DNA pools of susceptible and resistant F  2  populations derived from a cross between the Punjab Chhuharah, a susceptible parent, and IIHR-2891, a resistant parent. Based on the sliding window analysis for SNP-index, ∆SNP-index plots, five novel QTLs across two chromosomes specifically chromosome numbers 2 and 6 were identified for early blight tolerance. Four QTL regions (  eb2.1, eb2.2 eb2.  3, and  eb2.4  ) were located on chromosome 2, and another QTL region (  eb6.1  ) was identified on chromosome 6. The identification and expression analysis of defense-related genes located in QTL regions like  NBS-LRR, DRG, RPG, ZFT, S1WRKY1  and  PROIHIN  during disease progression in contrasting parents suggests that these genes play a major role in early blight tolerance.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11114361/v1",
+    "date": "2026-10-21",
+    "authors": "M A, Satish D, Sriram S, T SA, S SK, Chittapur R, Ravishankar KV.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346959",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3816,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11114361/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ac32fe81544c945d2c013bf0769ddd4bb9b6111f5faad66f5d6c2a6fdc578269",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:54:58.776704+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0c7f41b1bfcfd75d2ca817e2a7e89364e68d5c747522ce23945c265c15559ac3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:54:58.776704+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "QTL-Seqおよび防御関連遺伝子の発現解析によるトマト（Solanum Lycopersicum L.）の初期枯死病（Alternaria solani）耐性のマッピング",
+    "abstract_ja": "要旨    壊死性真菌Alternaria solaniによって引き起こされる早枯病は、トマトに影響を及ぼす最も一般的かつ破壊的な葉枯病の一つである。初期には、下葉に同心円状の環を伴う小さな暗褐色の病斑が現れ、やがて黄変して枯死し、深刻な落葉と収量減少を招く。本研究では、対照的な親系統から得られたF2分離集団を用い、バルク分離集団解析法であるQTL-Seqにより、早枯病耐性を制御する主要な量的形質遺伝子座（QTL）を同定した。解析は、感受性親系統であるPunjab Chhuharahと抵抗性親系統であるIIHR-2891の交雑により得られた、感受性および抵抗性F2集団のバルクDNAプールに基づいて行った。SNP-indexのスライディングウィンドウ解析（∆SNP-indexプロット）に基づき、早枯病耐性に関して、2本の染色体（具体的には第2および第6染色体）にわたる5つの新規QTLを同定した。4つのQTL領域（eb2.1、eb2.2、eb2.3、およびeb2.4）が第2染色体上に位置し、別のQTL領域（eb6.1）が第6染色体上で同定された。対照的な親系統における病害進行過程において、NBS-LRR、DRG、RPG、ZFT、S1WRKY1、およびPROIHINといったQTL領域に位置する防御関連遺伝子の同定および発現解析を行った結果、これらの遺伝子が早枯病耐性において主要な役割を果たしていることが示唆された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11074417/v1",
+    "title": "Chromosome-scale, haplotype-resolved genomes from a Southern Beaufort Sea polar bear and a Chichagof Island brown bear",
+    "abstract": "Abstract    Polar and brown bears (  Ursus maritimus  and  U. arctos  ) are closely related species shaped by recent divergence, recurrent admixture, and ecological differentiation, making them a useful system for studying speciation and genome evolution under environmental change. However, existing genomic resources remain uneven in quality and rely on few chromosome-scale genomes that capture limited genetic diversity, constraining analyses of structural variation and introgression. Here, we present chromosome-scale, haplotype-resolved genome assemblies and annotations for a Southern Beaufort Sea Alaskan polar bear and a Chichagof Island brown bear, a genetically distinct brown bear lineage closely tied to polar bear evolutionary history. The polar bear primary assembly spans 2.44 Gb and comprises 229 scaffolds with a scaffold N50 of 73.7 Mb, 98.5% of the total sequence length anchored to 37 pseudo-chromosomes, and a 95.7% complete BUSCO score. The brown bear assembly exhibits comparable quality, with 98% of the assembled sequence anchored to 37 pseudo-chromosomes and 95.6% BUSCO completeness. Repeat annotation identified repetitive content across 34.2% and 34.3% of the polar and brown bear assemblies, respectively, and gene model prediction identified 27,356 and 27,563 protein-coding genes, respectively. These chromosome-scale genomic resources provide a foundation for comparative, population, and conservation genomic studies in this important species complex.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11074417/v1",
+    "date": "2026-10-21",
+    "authors": "Kirshner J, Coelho FAdS, Osborne CA, Merkel J, Crupi AP, Pálsson A, Lindqvist C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347096",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "gene",
+        "genetic",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3912,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11074417/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c02474613669c39f88c278b33a4cbd28d484d70b38d9b962e46fe54af11a0879",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:54:58.776704+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a55f01209dd782ee35e1054a6123aa8a7f021234cb6ee4b04d692a091c93cffc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:54:58.776704+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "南ボーフォート海ホッキョクグマおよびチチャゴフ島ヒグマの染色体スケール・ハプロタイプ解析済みゲノム",
+    "abstract_ja": "要旨    ホッキョクグマとヒグマ（Ursus maritimus および U. arctos）は、近年の分岐、反復的な交雑、および生態学的分化によって形成された近縁種であり、環境変化下における種分化とゲノム進化を研究する上で有用な系である。しかし、既存のゲノムリソースは品質にばらつきがあり、遺伝的多様性を限定的にしか捉えていない少数の染色体スケールゲノムに依存しているため、構造変異や遺伝子浸透の解析が制約されている。本研究では、南ボーフォート海のアラスカホッキョクグマと、ホッキョクグマの進化史と密接に関連する遺伝的に異なるヒグマ系統であるチチャゴフ島ヒグマについて、染色体スケールのハプロタイプ解析済みゲノムアセンブリおよびアノテーションを提示する。ホッキョクグマのプライマリアセンブリは2.44 Gbに及び、229個のスキャフォールドで構成され、スキャフォールドN50は73.7 Mb、全配列長の98.5%が37本の擬似染色体にアンカーされており、BUSCOスコアは95.7%の完全性を示す。ヒグマのアセンブリも同様の品質を示し、アセンブルされた配列の98%が37本の擬似染色体にアンカーされており、BUSCOの完全性は95.6%である。リピートアノテーションにより、ホッキョクグマおよびヒグマのアセンブリのそれぞれ34.2%および34.3%に反復配列が同定され、遺伝子モデル予測によりそれぞれ27,356個および27,563個のタンパク質符号化遺伝子が同定された。これらの染色体スケールのゲノムリソースは、本重要な種複合体における比較、個体群、および保全に関するゲノム研究の基盤となるものである。"
   }
 ]
