@@ -274087,5 +274087,347 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "低温・高塩ストレス下における生体界面活性剤の産生は、系統や生合成遺伝子構成に依存しない菌株特異的な形質である。",
     "abstract_ja": "微生物ゲノムは、単一細胞が通常発現させるよりもはるかに広範な生合成能をコードしているが、その潜在能力が実現されるか否かを決定づける環境的・細胞的な制御機構については、依然として十分に解明されていない。寒冷かつ高塩分な生息環境における生存を助けるとされる表面活性代謝物は、この知見の空白を象徴している。すなわち、その能力は多くの場合、ゲノムから推定されるか化学的に検出されるが、同一生物体内でその産生を刺激する特定の条件と結び付けられることは稀である。本研究では、寒冷かつ高塩分なカイダム盆地（古代火星の陸上類似環境）および対照的な海洋環境から単離した25株の細菌分離株を対象に、全ゲノムシーケンシング、非標的型LC-MS/MSメタボロミクス、および定量的表面張力アッセイを組み合わせた。その結果、バイオサーファクタントの産生は固定的な系統形質ではなく、寒冷と塩分の複合ストレス下で現れる、調節された株特異的な応答であることが示された。この応答は3つの階層で構成されている。すなわち、ゲノム上の能力が利用可能な化学空間を規定し、経路調節遺伝子のゲノム構成が応答性を追跡し、株レベルの生理的状態が実際の産生量を決定する。バイオ合成クラスター数ではなく、調節遺伝子の含有量が、株間におけるサーファクタント産生を予測した。産生は低温および高塩分によって増幅され、系統発生的なシグナルはほとんど見られず、ほぼクローン的な株間でもストレス応答に差異が認められた。これらの知見は、極限環境における生化学的適応を、単にゲノム上の潜在能力だけでなく、その発現を可能にする細胞システムの条件付き活性化という問題として捉え直すものであり、そのためにはバイオ合成遺伝子の含有量にとどまらず、その潜在能力が発現するかどうかを決定づける細胞因子に着目する必要がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760357",
+    "title": "Detection of merbecoviruses in Danish bats using a novel broad-range RT-qPCR assay",
+    "abstract": "Bat-associated merbecoviruses comprise a genetically diverse group of coronaviruses with variable receptor usage and host range, highlighting the need for efficient tools for their surveillance. Here, we developed and optimized a broad-range reverse transcription quantitative PCR (RT-qPCR) assay for the detection of bat-associated merbecoviruses, including the lineage previously identified in brown long-eared bats (  Plecotus auritus ) in Denmark.  In silico analysis predicted detection of 898 of 941 (95.4%) merbecovirus sequences, and the assay detected all bat-associated merbecoviruses included in the experimental panel. The assay was applied to 33 bats sampled through the Danish national bat surveillance program in 2025. Merbecovirus RNA was detected in two samples, one from a  P. auritus and one from a Nathusius’ pipistrelle (  Pipistrellus nathusii ), representing the first detection of a merbecovirus in  P. nathusii in Denmark. Metagenomic next-generation sequencing recovered a complete merbecovirus genome from the  P. nathusii sample. Phylogenetic analysis assigned the virus to the MOW clade and showed that it was closely related to the Russian MOW15-22 virus, sharing 98.67% nucleotide identity across the complete genome and 99.85% amino acid identity in the spike protein. Limited sequence data obtained from the  P. auritus sample was consistent with the merbecovirus lineage previously identified in this species in Denmark. Together, these findings demonstrate the utility of broad-range RT-qPCR combined with metagenomic sequencing for surveillance and genomic characterization of bat-associated merbecoviruses.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760357",
+    "date": "2026-10-21",
+    "authors": "Johnston CM, Moreno A, Lelli D, Marving EL, Baagøe HJ, Elmeros M, Fjederholt ET, Lohse L, Rasmussen TB.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347371",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 134,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.20.760357"
+    ],
+    "translation": {
+      "title": {
+        "hash": "22edb2069d5eb1497adf9db93cd53d97fb1388c962031be803c5306664b2e170",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:19:55.427187+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "67b35a5f7849dc03d42b7325cf46a51d3a19623986a61f03d7aa26b617c4c83e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:19:55.427187+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新規広域RT-qPCRアッセイを用いたデンマーク産コウモリにおけるメルベコウイルスの検出",
+    "abstract_ja": "コウモリ関連メルベコウイルスは、受容体の利用や宿主範囲が多様な、遺伝的に多彩なコロナウイルス群であり、そのサーベイランスのための効率的なツールの必要性が浮き彫りとなっている。本研究では、デンマークのブラウンナガミミコウモリ（Plecotus auritus）で以前に同定された系統を含む、コウモリ関連メルベコウイルスの検出を目的とした広域逆転写定量PCR（RT-qPCR）アッセイを開発し、最適化した。in silico解析により、メルベコウイルス配列941例中898例（95.4%）の検出が予測され、本アッセイは実験パネルに含まれるすべてのコウモリ関連メルベコウイルスを検出した。本アッセイを、2025年にデンマークの国家コウモリサーベイランスプログラムを通じて採取された33頭のコウモリに適用した。2つの検体（P. auritus由来1検体およびナトゥシウスアブラコウモリ（Pipistrellus nathusii）由来1検体）からメルベコウイルスRNAが検出され、これはデンマークにおいてP. nathusiiからメルベコウイルスが検出された初の事例となった。メタゲノム次世代シーケンシングにより、P. nathusii検体から完全なメルベコウイルスゲノムが回収された。系統解析の結果、本ウイルスはMOWクレードに分類され、ロシアのMOW15-22ウイルスと近縁であり、全ゲノムにわたって98.67%の塩基同一性を、スパイクタンパク質において99.85%のアミノ酸同一性を共有していることが示された。P. auritus検体から得られた限定的な配列データは、デンマークの同種で以前に同定されたメルベコウイルス系統と一致していた。以上の知見は、コウモリ関連メルベコウイルスのサーベイランスおよびゲノム特性解析において、広域RT-qPCRとメタゲノムシーケンシングを組み合わせることの有用性を実証するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760120",
+    "title": "A novel clonal and axenic isolation pipeline for the human gut protist  Blastocystis  reveals within-subtype strain coexistence",
+    "abstract": "Blastocystis is the most prevalent protist in the human gut microbiome, but its study is impeded by limitations in existing cultivation methods that hinder routine axenic and clonal isolation. These barriers have left open the question of whether multiple strains of a protist species can coexist within a single host, as observed within the bacterial gut microbiota. To address this, we introduce egg-based monophasic (EBM) medium, a novel optically clear liquid medium that supports exponential growth of  Blastocystis from low inoculum densities in standard tissue-culture plates and flasks, a capability not supported by existing media formulations tested here. Using EBM medium, we established a modular axenization and clonal isolation pipeline and recovered axenic and clonally isolated cultures representing  Blastocystis subtypes 1–4 from human and non-human primate hosts. To investigate within-host strain diversity, we sequenced a subtype 1 culture before and after clonal isolation. The non-clonal culture yielded a 21 Mb assembly with gene copy distribution and allelic polymorphism patterns consistent with multiple strains, whereas its clonal derivative yielded a 15 Mb assembly with patterns consistent with a single strain. These results indicate that the original culture contained multiple closely related strains co-colonizing one host. We identified the same genomic signature in published xenic cultures established from single human donors, supporting the presence of strain-level diversity within  Blastocystis subtypes. Our pipeline provides a scalable platform for  Blastocystis cultivation, imaging, and clonal isolation, enabling investigation of strain-level diversity that may be obscured in non-clonal cultures.  Importance  Blastocystis is the most prevalent protist in the human gut, yet experimental investigation remains limited by a difficulty in obtaining single-microbe and genetically defined cultures. Existing methods make it difficult to separate the protist from associated bacteria or recover individual lineages from mixed cultures. We developed a liquid growth medium compatible with standard tissue culture plates, live-cell imaging, and a modular workflow for producing axenic and clonal isolates. We use this pipeline to create axenic and clonal isolates across four common subtypes. Applying this workflow exposed a mixture of closely related strains in a single-subtype culture, a finding supported by analyses of independent published cultures. This culturing pipeline enables controlled investigation of strain-level diversity, and provides a new experimental framework for the study of  Blastocystis biology and its interactions with the gut microbiome.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760120",
+    "date": "2026-10-21",
+    "authors": "Leon F, Shih JB, Keller LE, Palaniappan S, Degaetano L, Nine GA, Lind AL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347272",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbiome",
+        "microbiota",
+        "protist"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 219,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.760120"
+    ],
+    "translation": {
+      "title": {
+        "hash": "296fa1158757cbfc09208b3ccbcea0ce88c4346f3a1216a29fe48993aa378d73",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:19:55.427187+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2cd899f921063787840ac7b484279976e9495c2531fbc5ac282c3913e113ed62",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:19:55.427187+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト腸内原生生物Blastocystisの新規クローナルおよび無軸分離パイプラインにより、サブタイプ内における菌株の共存が明らかになった。",
+    "abstract_ja": "Blastocystisはヒト腸内マイクロバイオームにおいて最も普遍的に存在する原生生物であるが、既存の培養法には日常的な無菌分離およびクローン分離を妨げる限界があり、その研究が阻害されている。こうした障壁により、細菌性腸内微生物叢で観察されているように、単一の宿主内で原生生物種の複数の株が共存し得るかという問いが未解決のままとなっていた。この課題に対処するため、我々は卵ベースの単相（EBM）培地を提案する。これは、標準的な組織培養プレートおよびフラスコにおいて、低接種密度からBlastocystisの指数増殖を可能にする新規の光学的に透明な液体培地であり、本研究で検証した既存の培地処方では実現できなかった機能である。EBM培地を用いて、我々はモジュール式の無菌化およびクローン分離パイプラインを構築し、ヒトおよび非ヒト霊長類宿主からBlastocystisのサブタイプ1～4を代表する無菌分離およびクローン分離培養物を回収した。宿主内における株の多様性を調査するため、クローン分離前後のサブタイプ1培養物のシーケンシングを行った。非クローン培養物からは、複数の株と一致する遺伝子コピー分布およびアレル多型パターンを持つ21 Mbのアセンブリが得られた一方、そのクローン誘導体からは、単一株と一致するパターンを持つ15 Mbのアセンブリが得られた。これらの結果は、元の培養物に単一の宿主に共定着する近縁な複数の株が含まれていたことを示している。我々は、単一のヒトドナーから樹立された既報の無菌培養物においても同一のゲノムシグネチャーを同定し、Blastocystisのサブタイプ内に株レベルの多様性が存在することを裏付けた。本パイプラインは、Blastocystisの培養、イメージング、およびクローン分離のためのスケーラブルなプラットフォームを提供し、非クローン培養物では不明瞭となり得る株レベルの多様性の調査を可能にする。重要性：Blastocystisはヒト腸内で最も普遍的に存在する原生生物であるが、単一微生物および遺伝的に定義された培養物の入手が困難であるため、実験的な調査は依然として制限されている。既存の手法では、原生生物を随伴細菌から分離することや、混合培養物から個々の系統を回収することが困難である。我々は、標準的な組織培養プレート、生細胞イメージング、および無菌分離株およびクローン分離株を作製するためのモジュール式ワークフローと互換性のある液体増殖培地を開発した。我々はこのパイプラインを用いて、4つの一般的なサブタイプにわたる無菌分離株およびクローン分離株を作製した。このワークフローを適用したところ、単一サブタイプ培養物の中に近縁な株の混合物が認められた。この知見は、独立して発表された既報の培養物の解析によっても支持された。この培養パイプラインは、株レベルの多様性の制御された調査を可能にし、Blastocystisの生物学および腸内マイクロバイオームとの相互作用の研究に向けた新たな実験枠組みを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11044325/v1",
+    "title": "Spatiotemporal genomic epidemiology of Eurasian avian-like H1N1 swine influenza viruses",
+    "abstract": "Abstract    Background  Eurasian avian-like (EA) H1N1 swine influenza viruses pose a zoonotic threat, yet their genomic evolution and dissemination across Eurasia remain incompletely understood. This study investigated genotype diversity, temporal persistence, and geographic spread, and assessed the association between live-swine trade and viral migration to inform surveillance.  Methods  We analysed 1,703 publicly available EA H1N1 genomes sampled from 19 countries between 2009 and 2025. Lineage assignments across all eight gene segments were used to identify genotypes and describe their temporal and geographic distributions. Time-scaled Bayesian phylogenetics and discrete phylogeography were used to reconstruct evolutionary relationships and migration patterns. Generalized linear modelling assessed migration predictors, including directed live-swine trade and sampling intensity. The mixed effects model of evolution was used to detect episodic diversifying selection in hemagglutinin, followed by structural mapping of candidate residues.  Results  We identified 19 genotypes. The wholly EA-derived genotype G1 accounted for 57.0% of genomes and was detected across nearly the entire study period. Many reassortant genotypes carrying A(H1N1)pdm09- or triple-reassortant-derived segments were detected over short intervals, although several showed prolonged persistence. Genotype composition differed geographically, with reassortant genotypes enriched in Asia and predominantly EA-derived constellations more common in Europe. Phylogeographic reconstruction indicated asymmetric dissemination within and between Europe and Asia, with Western Europe occupying a central position in the inferred migration network. Directed live-swine trade received the strongest support among migration predictors after accounting for sampling intensity. Sixteen candidate hemagglutinin codons showed evidence of episodic diversifying selection. Most candidate HA1 residues mapped to exposed regions of the globular head near antigenic regions.  Conclusions  EA H1N1 evolution across Eurasia was characterized by a persistent EA genomic background, regional genotype diversification through reassortment, and spread associated with live-swine trade. These findings support integrating genomic surveillance with animal movement data to guide surveillance along trade networks and improve the detection and assessment of emerging variants of zoonotic concern.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11044325/v1",
+    "date": "2026-10-21",
+    "authors": "Liu H, Zhang Y, Yi J, Zhou Z, Li C, Xu F, Ren R, Liao M, Sun H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347025",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 220,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11044325/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "03479e819faaa9e213d1929ff0cb25bb45ba2d8325f61a2b660b76ab5ef3e010",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:19:55.427187+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2ff37fbd247ba21bd619beec05a5c119141495ecfbb7e044cad1bef9b23395cf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:19:55.427187+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ユーラシアの鳥インフルエンザ様H1N1豚インフルエンザウイルスの時空間ゲノム疫学",
+    "abstract_ja": "要旨    背景  ユーラシア鳥類様（EA）H1N1豚インフルエンザウイルスは人獣共通感染症の脅威となっているが、そのゲノム進化およびユーラシア全域における拡散については依然として十分に解明されていない。本研究では、遺伝子型の多様性、時間的持続性、および地理的拡散を調査し、監視に資するため、生体豚貿易とウイルスの移動との関連性を評価した。  方法  2009年から2025年にかけて19カ国から採取された、公開されている1,703件のEA H1N1ゲノムを解析した。全8つの遺伝子セグメントにわたる系統分類を用いて遺伝子型を同定し、その時間的および地理的分布を記述した。時間スケールのベイズ系統解析および離散系統地理学を用いて、進化関係と移動パターンを再構築した。一般化線形モデリングにより、指向的な生体豚貿易やサンプリング強度を含む移動予測因子を評価した。進化の混合効果モデルを用いてヘマグルチニンにおけるエピソード的な多様化選択を検出し、続いて候補残基の構造マッピングを行った。  結果  19の遺伝子型を同定した。完全にEA由来の遺伝子型G1はゲノムの57.0%を占め、研究期間のほぼ全域で検出された。A(H1N1)pdm09または三重再集合由来のセグメントを持つ再集合遺伝子型の多くが短期間に検出されたが、いくつかの遺伝子型は長期にわたって持続していた。遺伝子型の構成は地理的に異なり、再集合遺伝子型はアジアで豊富に認められ、EA由来のコンステレーションが欧州でより多く見られた。系統地理学的再構築により、欧州内および欧州・アジア間において非対称な拡散が示され、推定された移動ネットワークにおいて西欧が中心的な位置を占めていた。サンプリング強度を考慮した結果、移動予測因子の中で指向的な生体豚貿易が最も強い支持を得た。16個の候補ヘマグルチニンコドンに、エピソード的な多様化選択の証拠が認められた。ほとんどの候補HA1残基は、抗原領域付近の球状頭部の露出領域にマッピングされた。  結論  ユーラシア全域におけるEA H1N1の進化は、持続的なEAゲノム背景、再集合による地域的な遺伝子型の多様化、および生体豚貿易に伴う拡散によって特徴づけられた。これらの知見は、ゲノム監視を動物移動データと統合し、貿易ネットワークに沿った監視を導き、人獣共通感染症として懸念される新興変異株の検出および評価を向上させることを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11167754/v1",
+    "title": "Bioprospecting cultivable microorganisms from the Pantanal reveals taxonomic and functional enzymatic diversity",
+    "abstract": "Abstract    The Pantanal is one of the world’s largest tropical wetlands, yet its cultivable microbial diversity remains underexplored for biotechnological applications. We bioprospected cultivable bacteria, filamentous fungi, and yeasts from environmental samples collected across 10 Pantanal sites and screened them for seven enzymatic activities. A total of 122 isolates were recovered, comprising 73 bacteria, 46 filamentous fungi, and 3 yeasts, representing 51 taxonomic groups and 37 enzymatic profiles. Protease activity was the most frequent among bacteria (71.2%), all filamentous fungi were cellulase-positive, and chitinase activity was detected in only five bacterial isolates. Taxonomic diversity among enzyme-positive isolates varied according to activity and sample origin, with Shannon–Wiener diversity index values ranging from 0 to 2.86. Significant positive associations were observed between protease–lipase, laccase–amylase, and protease–amylase, whereas no origin–activity association remained significant after multiple-testing correction. Phylogenetic analyses identified three particularly divergent or taxonomically unresolved bacterial lineages: P_1.1_002 within  Rothia  , P_13.1_002 within  Pseudomonas  , and P_10.3_001 within the order Enterobacterales. These findings reveal broad taxonomic and functional diversity among cultivable Pantanal microorganisms and identify lineages of interest for further taxonomic and biotechnological investigation.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11167754/v1",
+    "date": "2026-10-21",
+    "authors": "Motta MLL, Martins GM, Coelho BCS, Bastos KGF, Vasconcelos DC, Conceição L, Okamura LA, Silva DS, Medina-Gallardo JC, Gomes KS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346942",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "fungi",
+        "microbial",
+        "microorganism",
+        "microorganisms",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 221,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11167754/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5630f6dfd106cfba5da066215fb833099a63e541415b7a61e63431bcf7945a97",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:19:55.427187+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "df4580b5a1b83caec5d85630697c73a3b1a5501b7cb9b7513885c493177f91b2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:19:55.427187+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パンタナールにおける培養可能微生物のバイオプロスペクティングにより、分類学的および機能的酵素多様性が明らかとなった",
+    "abstract_ja": "要旨    パンタナールは世界最大級の熱帯湿地の一つであるが、バイオテクノロジー応用に向けた培養可能な微生物多様性の解明は未だ不十分である。本研究では、パンタナールの10地点で採取した環境試料から培養可能な細菌、糸状菌、および酵母をバイオプロスペクティングし、7種類の酵素活性についてスクリーニングを行った。計122株の分離株が得られ、その内訳は細菌73株、糸状菌46株、酵母3株であり、51の分類群と37の酵素プロファイルを示した。プロテアーゼ活性は細菌において最も頻繁に認められ（71.2%）、すべての糸状菌がセルラーゼ陽性であり、キチナーゼ活性が検出されたのは細菌分離株のうちわずか5株であった。酵素陽性分離株間の分類学的多様性は活性および試料由来によって異なり、シャノン＝ウィーナー多様性指数の値は0から2.86の範囲であった。プロテアーゼ－リパーゼ、ラッカーゼ－アミラーゼ、およびプロテアーゼ－アミラーゼの間には有意な正の関連が認められた一方、由来－活性間の関連は多重検定による補正後も有意ではなかった。系統解析の結果、Rothia属内のP_1.1_002、Pseudomonas属内のP_13.1_002、およびEnterobacterales目内のP_10.3_001という、特に分岐の著しい、あるいは分類学的に未解決の細菌系統が3つ同定された。これらの知見は、パンタナールの培養可能な微生物における広範な分類学的・機能的多様性を明らかにするとともに、さらなる分類学的およびバイオテクノロジー的調査において注目すべき系統を特定するものである。"
   }
 ]
