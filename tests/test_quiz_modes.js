@@ -242,3 +242,24 @@ const shareStatus={textContent:''};ctx.shareTestButton={parentElement:{querySele
  await run('sharePaper(current(),shareTestButton)');assert(shareStatus.textContent.length>0);
  console.log('Native share payload, unavailable browsers, cancellation and failure feedback passed.');
 })().catch(error=>{console.error(error);process.exitCode=1});
+
+// Text above the reader may grow/shrink; restore the same paper/block on screen.
+const originalQueryAll=app.querySelectorAll;
+ctx.anchorTop=-200;ctx.anchorHeight=800;ctx.anchorKey='paper:abstract';
+ctx.anchorBlock={dataset:{readingKey:'paper:abstract'},getBoundingClientRect:()=>({top:ctx.anchorTop,bottom:ctx.anchorTop+ctx.anchorHeight,height:ctx.anchorHeight}),getClientRects:()=>[{}]};
+app.querySelectorAll=selector=>selector==='[data-reading-key]'?[ctx.anchorBlock]:[];
+run('window.innerHeight=800;window.scrollY=1000');
+const readingPosition=run('readingAnchor()');
+assert.equal(readingPosition.key,'paper:abstract');assert.equal(readingPosition.progress,.4);
+ctx.anchorTop=300;ctx.anchorHeight=1200;ctx.readingPosition=readingPosition;
+run('restoreReadingAnchor(readingPosition)');assert.equal(ctx.scrollCalls.at(-1)[1],1660);
+// A visible title that begins below the reference line keeps its exact screen top.
+ctx.anchorTop=180;ctx.anchorHeight=80;
+ctx.readingPosition=run('readingAnchor()');assert.equal(ctx.readingPosition.progress,null);
+ctx.anchorTop=560;run('restoreReadingAnchor(readingPosition)');assert.equal(ctx.scrollCalls.at(-1)[1],1380);
+// Missing anchors fall back safely to the preserved page position.
+ctx.anchorKey='missing';ctx.readingPosition={key:'missing'};
+const priorAnchorScrollCount=ctx.scrollCalls.length;
+run('restoreReadingAnchor(readingPosition)');assert.equal(ctx.scrollCalls.length,priorAnchorScrollCount);
+app.querySelectorAll=originalQueryAll;
+console.log('Language changes anchor the visible title or relative abstract position despite text reflow.');
