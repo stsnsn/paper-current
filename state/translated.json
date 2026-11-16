@@ -278179,5 +278179,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "南ボーフォート海ホッキョクグマおよびチチャゴフ島ヒグマの染色体スケール・ハプロタイプ解析済みゲノム",
     "abstract_ja": "要旨    ホッキョクグマとヒグマ（Ursus maritimus および U. arctos）は、近年の分岐、反復的な交雑、および生態学的分化によって形成された近縁種であり、環境変化下における種分化とゲノム進化を研究する上で有用な系である。しかし、既存のゲノムリソースは品質にばらつきがあり、遺伝的多様性を限定的にしか捉えていない少数の染色体スケールゲノムに依存しているため、構造変異や遺伝子浸透の解析が制約されている。本研究では、南ボーフォート海のアラスカホッキョクグマと、ホッキョクグマの進化史と密接に関連する遺伝的に異なるヒグマ系統であるチチャゴフ島ヒグマについて、染色体スケールのハプロタイプ解析済みゲノムアセンブリおよびアノテーションを提示する。ホッキョクグマのプライマリアセンブリは2.44 Gbに及び、229個のスキャフォールドで構成され、スキャフォールドN50は73.7 Mb、全配列長の98.5%が37本の擬似染色体にアンカーされており、BUSCOスコアは95.7%の完全性を示す。ヒグマのアセンブリも同様の品質を示し、アセンブルされた配列の98%が37本の擬似染色体にアンカーされており、BUSCOの完全性は95.6%である。リピートアノテーションにより、ホッキョクグマおよびヒグマのアセンブリのそれぞれ34.2%および34.3%に反復配列が同定され、遺伝子モデル予測によりそれぞれ27,356個および27,563個のタンパク質符号化遺伝子が同定された。これらの染色体スケールのゲノムリソースは、本重要な種複合体における比較、個体群、および保全に関するゲノム研究の基盤となるものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag838",
+    "title": "ReMoD-Mol: Reliability-Aware Multimodal Learning with Descriptor-Guided Knowledge Distillation for Molecular Property Prediction",
+    "abstract": "AbstractMotivationAccurate molecular property prediction (MPP) remains a central challenge in drug discovery. Given the limited availability of labeled molecular data, multimodal molecular representation learning offers a promising means of integrating complementary structural information for MPP. Existing multimodal models still face two limitations: (i) common fusion strategies, particularly direct concatenation, can introduce redundant information or signals that are weakly relevant to the target property; and (ii) the effective incorporation of complementary physicochemical priors into multimodal representations remains insufficiently explored.ResultsHere, we proposed ReMoD-Mol, a reliability-aware multimodal framework that integrated molecular graphs, SMILES sequences and two-dimensional molecular images. Task-adaptive modality calibration learned one set of weights per benchmark from downstream supervision to regulate the relative contributions of the three molecular views. Descriptor- and fingerprint-based teachers further provided task-conditioned chemical priors through train-only, five-fold out-of-fold knowledge distillation. Prototype-guided embedding shaping together with graph-view and SMILES-view consistency objectives regularized the fused representation space. Across nine MoleculeNet benchmark datasets spanning regression and classification, ReMoD-Mol achieved the best mean performance on seven datasets and the second-best on the other two in a scaffold-split comparison with 14 baselines. Representation analyses revealed smoother property-related manifolds and more discriminative class structures, while learned modality coefficients exhibited distinct task-dependent fusion patterns. Teacher-prior and ablation analyses further supported the complementary roles of chemical-prior transfer and multi-view representation regularization.Availability and implementationSource code, processed datasets and implementation details are publicly available at https://github.com/27167199/ReMoD-Mol.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag838",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag838/9065268?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4979,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bioinformatics/btag838"
+    ],
+    "translation": {
+      "title": {
+        "hash": "46fc9e3fbbf33185aaf34edaeb49ff39c65d0a707f57e2410e472ebeb23e332c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:31:49.295296+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa3965a1e16a44bd0cf3f1cd4a94eaf74bab35813a5da0f0306f1133e599cbd5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:31:49.295296+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ReMoD-Mol: 分子物性予測のための記述子誘導型知識蒸留を用いた信頼性を考慮したマルチモーダル学習",
+    "abstract_ja": "要旨動機正確な分子特性予測（MPP）は、創薬における中心的な課題であり続けている。ラベル付き分子データの利用が限られている現状において、マルチモーダル分子表現学習は、MPPのために相補的な構造情報を統合する有望な手段となる。既存のマルチモーダルモデルには、依然として2つの限界がある。(i) 一般的な融合戦略、特に直接的な連結は、標的特性との関連性が低い冗長な情報やシグナルを混入させる可能性がある。(ii) 相補的な物理化学的事前分布をマルチモーダル表現に効果的に組み込む手法については、十分に検討されていない。結果本研究では、分子グラフ、SMILES配列、および二次元分子画像を統合した信頼性を考慮したマルチモーダルフレームワークReMoD-Molを提案した。タスク適応型モダリティキャリブレーションは、ダウンストリームの教師信号からベンチマークごとに1組の重みを学習し、3つの分子ビューの相対的な寄与度を調整した。記述子およびフィンガープリントに基づく教師モデルは、訓練データのみを用いた5分割アウトオブフォールド知識蒸留を通じて、タスク条件付きの化学的事前分布をさらに提供した。プロトタイプ誘導型の埋め込みシェーピングと、グラフビューおよびSMILESビューの一貫性目的関数により、融合表現空間を正則化した。回帰および分類にわたる9つのMoleculeNetベンチマークデータセットにおいて、ReMoD-Molは14のベースラインを用いたスキャフォールド分割比較の結果、7つのデータセットで最高の平均性能を、残りの2つのデータセットで2番目に優れた性能を達成した。表現解析により、特性に関連する多様体がより滑らかになり、クラス構造の識別能が向上したことが明らかになった一方、学習されたモダリティ係数はタスク依存の明確な融合パターンを示した。教師事前分布およびアブレーション解析により、化学的事前分布の転移とマルチビュー表現の正則化が相補的な役割を果たすことがさらに裏付けられた。利用可能性と実装ソースコード、処理済みデータセット、および実装の詳細は https://github.com/27167199/ReMoD-Mol で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bioadv/vbag330",
+    "title": "EGTool: an evolutionary genome topology tool for multiscale comparative genomics.",
+    "abstract": "Increased phylogenomic sampling and availability of thousands of high-quality genome assemblies require tools to simultaneously analyze changes to both chromosomal and subchromosomal genome architecture. Recently, we proposed an evolutionary genome topology (EGT) approach to identify and associate genome structural changes with evolutionary transitions. In this Application Note, we provide a generalized implementation of this approach, which we call EGTool. EGTool compares genomes to each other (multigenome topology) or loci to each other across genomes (multilocus topology), accepts arbitrary positional and orthology inputs, works in base-pair or index coordinates, projects new genomes onto an existing embedding without refitting, and recovers the features that characterize any chosen region of the projection via inverse transform. A 510-genome, 1274-locus example is included to illustrate these functionalities and can be run on a laptop within 30 min. EGTool is implemented in Python (≥3.8) with dependencies on NumPy, pandas, umap-learn, matplotlib, NetworkX, and scikit-learn. It is installable via pip after cloning the repository. The optional ancestral linkage group detection step (egtool alg) requires R. A Perl script is provided for converting genome annotation files to the input .chrom format. Source code, example data, and tutorials are available at: https://bitbucket.org/viemet/egtool/src/main/.",
+    "journal": "Bioinformatics Advances",
+    "doi": "10.1093/bioadv/vbag330",
+    "date": "2026-11-02",
+    "authors": "Sarigol F, Schultz DT, Simakov O.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43036627",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43036627",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "genomic",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4937,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bioadv/vbag330"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7b87dc82d930d531c0d396286a69e3aba9dcefa2046978228ddfdedd2141eb2e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:31:49.295296+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8c481759cbbed72b1749cadae9641097ff40ea823a53bcecf8ae72e122a0e23c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:31:49.295296+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "EGTool：マルチスケール比較ゲノミクスのための進化的ゲノムトポロジー解析ツール。",
+    "abstract_ja": "フィロゲノミックサンプリングの増加と、数千もの高品質なゲノムアセンブリの利用可能性に伴い、染色体および亜染色体レベルの両方のゲノム構造の変化を同時に解析するツールが必要とされている。最近、我々はゲノム構造の変化を進化的遷移と特定・関連付けるための進化的ゲノムトポロジー（EGT）アプローチを提案した。本アプリケーションノートでは、我々がEGToolと呼ぶこのアプローチの汎用的な実装を提供する。EGToolは、ゲノム同士の比較（マルチゲノムトポロジー）や、ゲノムをまたいだ遺伝子座同士の比較（マルチロカストポロジー）を行い、任意の位置およびオーソロジー入力を受け付け、塩基対座標またはインデックス座標で動作し、再フィッティングを行うことなく新規ゲノムを既存の埋め込み空間に投影し、逆変換によって投影空間内の任意の選択した領域を特徴づける特徴量を復元する。これらの機能を例示するため、510個のゲノムと1274個の遺伝子座からなる例を掲載しており、ノートパソコン上で30分以内に実行可能である。EGToolはPython（≥3.8）で実装されており、NumPy、pandas、umap-learn、matplotlib、NetworkX、およびscikit-learnに依存している。リポジトリをクローンした後、pip経由でインストールできる。オプションの祖先連鎖群検出ステップ（egtool alg）にはRが必要である。ゲノムアノテーションファイルを入力形式の.chromに変換するためのPerlスクリプトが提供されている。ソースコード、サンプルデータ、およびチュートリアルは、https://bitbucket.org/viemet/egtool/src/main/ で入手可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1093/bib/bbag592",
+    "title": "Machine learning for RNA-small molecule interactions: methodologies, evaluation, and future directions.",
+    "abstract": "RNA is emerging as a compelling therapeutic target due to its rich structural diversity and central involvement in gene regulation, splicing, translation, and cellular signaling. Alongside advances in structural biology, computational approaches, especially machine learning and deep learning, have transformed the systematic analysis of RNA-small molecule interactions. In this paper, we provide a comprehensive survey of computational methods for RNA-small molecule interaction prediction, with a particular emphasis on three core tasks: binding site prediction, binding preference prediction, and binding pose prediction. We first summarize the data resources commonly used to support these tasks and outline molecular representations that capture RNA structural features and the chemical properties of small molecules. We then review a spectrum of computational approaches for the above three tasks, ranging from statistical methods and traditional machine learning to deep learning. We further evaluate representative methods for each task, providing insights into their respective strengths and limitations. Finally, we highlight open challenges in current research on RNA-small molecule interactions, including limited data availability, the black-box nature of the models, and the growing need for generative modeling. We discuss emerging directions such as data augmentation, model interpretability, and RNA-targeted small-molecule design as promising pathways to address these challenges and advance rational RNA-targeted drug discovery.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag592",
+    "date": "2026-11-01",
+    "authors": "Chen S, Huang Z, Wang Y, Li Y, Liu G, Tan YS, Wu M, Deng L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986683",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13738213",
+    "pmid": "42986683",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "method",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "method",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4958,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bib/bbag592"
+    ],
+    "translation": {
+      "title": {
+        "hash": "959ca612b120ca4cbf89acefc54647c6f1ca6e43d7f65331ff3ea345dab424c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:31:49.295296+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "04b7a433666b601f1ba82ff02d4e655c87e635f7ad366e25c5c0675fb17a7550",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:31:49.295296+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNA-低分子相互作用の機械学習：手法、評価、および今後の展望",
+    "abstract_ja": "RNAは、その豊かな構造多様性と、遺伝子調節、スプライシング、翻訳、および細胞シグナル伝達における中心的な役割により、有力な治療標的として注目を集めている。構造生物学の進展に伴い、計算科学的アプローチ、特に機械学習や深層学習は、RNAと低分子化合物の相互作用の系統的解析に変革をもたらした。本論文では、RNAと低分子化合物の相互作用予測のための計算手法について包括的に概説し、特に結合部位予測、結合選好性予測、および結合ポーズ予測という3つの中核的なタスクに焦点を当てる。まず、これらのタスクの支援に一般的に用いられるデータリソースをまとめ、RNAの構造的特徴と低分子化合物の化学的特性を捉える分子表現について概説する。次に、統計的手法や従来の機械学習から深層学習に至るまで、上記3つのタスクに対する幅広い計算科学的アプローチを検討する。さらに、各タスクの代表的な手法を評価し、それぞれの強みと限界についての知見を提示する。最後に、データの利用可能性の不足、モデルのブラックボックス性、および生成モデリングへのニーズの高まりなど、RNAと低分子化合物の相互作用に関する現在の研究における未解決の課題を指摘する。これらの課題に対処し、合理的なRNA標的型創薬を推進するための有望な道筋として、データ拡張、モデルの解釈可能性、およびRNA標的型低分子化合物設計といった新たな方向性について論じる。"
+  },
+  {
+    "id": "10.1093/femsre/fuag061",
+    "title": "Microbial adhesion to solid surfaces – the concept of preferential binding",
+    "abstract": "AbstractMicrobial adhesion is the process by which individual microorganisms attach to a surface. It is a key process for microbial life: adhesion allows to colonize ecological niches, but also to interact with other organisms in symbiotic or pathogenic relationships. While we understand the importance of adhesion in microbial life in general, the underlying molecular mechanisms are less clear.Molecular details of adhesion processes have been elucidated only for some individual examples, mostly for human pathogens in the context of infections. In this review, we focus on the adhesion to non-living, solid surfaces, and summarize the limited understanding of the molecular principles of these interactions. We describe how proteins and other biomolecules interact with surfaces, and how microbes, and specifically bacteria, employ these interactions to enable a sessile lifestyle. We introduce the concept of preferential binding that describes specificity, affinity, and cooperativity of microbial adhesins and their interactions with different materials and surfaces. This concept more accurately describes the binding affinity to different surfaces, compared to the current textbook terminology coined for the interactions of enzymes or protein complexes. A molecular understanding of these processes, using concepts and methods across all disciplines of natural sciences, is key to the development of new disinfection and antifouling strategies that are in high demand in the post-antibiotic era.",
+    "journal": "FEMS Microbiology Reviews",
+    "doi": "10.1093/femsre/fuag061",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuag061/9065332?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4977,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/femsre/fuag061"
+    ],
+    "translation": {
+      "title": {
+        "hash": "97b3c4c7887610afb1fe2b052f4d62be94797ee6a002dde9fdd9001888fab904",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:31:49.295296+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4f12d47cd233623f4ecff37126f8d341591be284eeafe515e72349dad081273f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:31:49.295296+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "固体表面への微生物付着 ― 優先的結合の概念",
+    "abstract_ja": "要旨微生物接着とは、個々の微生物が表面に付着するプロセスである。これは微生物の生命活動における鍵となるプロセスであり、接着によって生態的ニッチへの定着が可能になるほか、共生的あるいは病原的な関係において他の生物と相互作用することも可能となる。微生物の生命全般における接着の重要性は理解されているものの、その根底にある分子メカニズムについては十分に解明されていない。接着プロセスの分子レベルの詳細は、一部の個別事例、主に感染症におけるヒト病原体についてのみ解明されてきた。本総説では、非生物的な固体表面への接着に焦点を当て、これらの相互作用の分子原理に関する限定的な知見をまとめる。タンパク質やその他の生体分子がどのように表面と相互作用するか、また微生物、特に細菌がこれらの相互作用をどのように利用して固着生活を実現しているかについて述べる。さらに、微生物接着因子の特異性、親和性、および協同性、ならびにそれらと様々な材料や表面との相互作用を記述する「優先的結合」という概念を導入する。この概念は、酵素やタンパク質複合体の相互作用に対して用いられている現在の教科書的な用語と比較して、異なる表面に対する結合親和性をより正確に記述するものである。自然科学のあらゆる分野の概念と手法を用いたこれらのプロセスの分子レベルでの理解は、ポスト抗生物質時代において需要の高い、新たな消毒および防汚戦略の開発の鍵となる。"
   }
 ]
