@@ -266034,5 +266034,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヒトパピローマウイルスの環境サンプリングおよび分子検出のための標準化手順の開発と室内評価",
     "abstract_ja": "要旨  背景  感染症病原体の環境サーベイランスは、疾病の予防および管理においてますます重要となっているが、サンプリング、保存、および輸送手順の不均一性は、分子検出結果に著しい影響を及ぼし得る。方法  ヒトパピローマウイルス（HPV）を非エンベロープDNAウイルスモデルとして用い、表面サンプリング性能の6つの決定要因（スワブの種類、表面材質、サンプリング間隔、スワブの事前湿潤、周囲温度、および保存媒体）を評価した。匿名化された男性尿道スワブ検体約150検体をプールしてHPV陽性接種液を調製し、続いて生理食塩水による溶出、遺伝子型確認、および定量検査を行った。HPV DNAは、リアルタイム定量PCR（qPCR）により定量した。評価項目は、陽性検出率およびあらかじめ設定した対数スケール回復指数とした。結果  ポリエステル製およびスポンジ製スワブが最も高い陽性検出率（ともに98.04% ± 3.40%）を示した一方、平均対数スケール回復指数はポリエステル製スワブで最も高かった。HPV DNAは、木材や織布よりも、平滑で非多孔質かつ非吸収性の表面（セラミックタイルおよびポリプロピレン）からより容易に回収された。乾燥ポリエステル製スワブによるサンプリングは、PBSで事前湿潤させたスワブによるサンプリングよりも高い陽性検出率を示した（88.75% ± 2.80% vs 80.00% ± 5.23%; P = 0.032）が、対数スケール回復指数に有意な差は認められなかった。接種後1～24時間のサンプリングは、いずれの評価項目にも有意な影響を及ぼさなかった。35°Cへの曝露は、15°Cおよび25°Cと比較して、陽性検出率と対数スケール回復指数の両方を低下させた。専用のウイルス輸送媒体は、2～8°Cで28日間保存してもHPV DNAの検出能を維持した。PBSは7日目に初めてあらかじめ設定した検出閾値70%を下回ったが、生理食塩水は3時間まで閾値以上で維持され、6時間目に閾値を下回った。結論  試験した実験室条件下において、乾燥ポリエステル製スワブと専用のウイルス輸送媒体の併用は、環境表面からのHPVの分子回収において最も実用的な総合的なアプローチであった。表面特性と周囲温度が、HPV DNA検出能の主要な決定要因であった。これらの知見はプロトコルの標準化を支持するものであるが、ウイルスの感染性や媒介物伝播を立証するものではない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11307065/v1",
+    "title": "Evidence that the perinatal maternal microbiome mediates metabolite signaling programs that drive sex-specific microglial metabolic alterations and Alzheimer’s disease susceptibility",
+    "abstract": "Abstract  Maternal microbiome-dependent programming of neuroimmune and metabolic pathways during early development may critically shape sex-specific susceptibility to Alzheimer’s disease (AD) later in life. We have documented that in mouse models of Aβ deposition, broad-spectrum antibiotic (ABX)-mediated perturbations of the gut microbiome postnatally (P14-P21) selectively reduces Aβ pathology only in male, but not in female animals. Here, we shift the developmental window upstream to test whether perinatal maternal microbiome perturbations shapes the pathological trajectories of offspring. Dams were treated with the broad-spectrum ABX from preconception through gestation, without direct exposure of the offspring. Strikingly, maternal microbiome disruption selectively reduced cortical Aβ burden in female offspring, with no effect in males, effectively reversing the sex bias observed following postnatal ABX manipulations. To explore the mechanisms underlying this effect, we now report that female offspring exhibited coordinated shifts in microbial composition and amino acid metabolism, that are coupled to cortical transcriptional programs enriched for GPCR signaling and Rho GTPase pathways. As many microbial metabolites and amino acid-derived ligands signal through GPCRs that are expressed by microglia, these transcriptional changes suggest enhanced GPCR-mediated nutrient sensing in microglia of female animals. These systems level changes in microglia drive a metabolically engaged amyloid clearing phenotype, providing a mechanistic link between maternal microbiome disruption and enhanced Aβ clearance in females. Together, these findings demonstrate that maternal microbial inheritance and developmental timing critically shape sex specific AD susceptibility and position temporal microbiome modulation as a potential precision strategy for disease prevention.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11307065/v1",
+    "date": "2026-10-23",
+    "authors": "Saha P, Slimmon N, Nadgauda A, Patel P, Mishra D, Poli PB, Inukai A, Fernandez A, Weigle I, Zhang X, Sisodia SS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348768",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2669,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11307065/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "451b93b9384af450b55ee93174c6d147b7bf0b15c3f53838815bf7fc3bc230fe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:37:04.107820+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "225f53b4a4f9772293dfe2811f77e9621f70f8a6429107dcd896e2b47bc46dcf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:37:04.107820+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "周産期の母体マイクロバイオームが、性特異的なミクログリア代謝変化およびアルツハイマー病感受性を惹起する代謝物シグナル伝達プログラムを媒介するという証拠",
+    "abstract_ja": "要旨　初期発生期における神経免疫および代謝経路の母性マイクロバイオーム依存的なプログラミングは、後年のアルツハイマー病（AD）に対する性特異的な感受性を決定的に規定する可能性がある。我々は、Aβ沈着のマウスモデルにおいて、出生後（P14-P21）の広域抗生物質（ABX）による腸管マイクロバイオームの攪乱が、雌動物ではなく雄動物においてのみAβ病理を選択的に軽減することを明らかにしてきた。本研究では、発生時期を上流へとシフトさせ、周産期の母性マイクロバイオーム攪乱が仔の病理学的軌跡を規定するかどうかを検証する。母動物には、仔への直接的な曝露を行わず、受胎前から妊娠期間を通じて広域抗生物質ABXを投与した。驚くべきことに、母性マイクロバイオームの攪乱は、雌の仔において皮質のAβ負荷を選択的に軽減したが、雄には影響が見られず、出生後のABX操作後に観察された性差バイアスを効果的に逆転させた。この効果の根底にあるメカニズムを解明するため、我々は、雌の仔において微生物組成とアミノ酸代謝の協調的なシフトが認められ、それがGPCRシグナル伝達およびRho GTPase経路が濃縮された皮質転写プログラムと連動していることを報告する。多くの微生物代謝物やアミノ酸由来リガンドがミクログリアで発現するGPCRを介してシグナル伝達を行うため、これらの転写変化は、雌動物のミクログリアにおけるGPCR介在性の栄養感知の亢進を示唆している。ミクログリアにおけるこれらのシステムレベルの変化は、代謝的に活性化されたアミロイドクリアランス表現型を駆動し、母性マイクロバイオームの攪乱と雌におけるAβクリアランスの亢進との間の機序的な関連性を示す。以上の知見を総合すると、母性微生物の遺伝と発生時期が性特異的なAD感受性を決定的に規定することが示され、時間的マイクロバイオーム調節が疾患予防のための潜在的な精密戦略となり得ることが示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11166146/v1",
+    "title": "Gut microbiome differences in youth with perinatally acquired HIV and fatty liver disease: a multicentre study",
+    "abstract": "Abstract    Background  Metabolic dysfunction-associated fatty liver disease (MAFLD) is increasingly prevalent in youth with perinatally acquired HIV (YPHIV). Gut dysbiosis has been proposed as a potential contributor to MAFLD, but its role in YPHIV remains poorly understood.  Methods  In this prospective multicentre study, 86 participants (34 YPHIV, 52 uninfected controls), with and without overweight-associated MAFLD underwent ultrasound liver steatosis assessment and stool 16S rRNA gene sequencing. Multivariable models evaluated microbial diversity, taxonomic abundance, and predicted functions..  Results  HIV infection was associated with reduced microbial diversity, distinct compositional shifts, and altered functional pathways, whereas MAFLD showed no significant overall microbiome signature. Within YPHIV, MAFLD correlated with decreased Parabacteroides abundance and subtle functional differences despite preserved diversity.  Conclusions  HIV infection predominantly influences gut microbiome composition in youth, with MAFLD-related microbial alterations being modest. These findings underscore the importance of accounting for HIV-associated dysbiosis in studies of liver disease and suggest potential microbial targets for further investigation in YPHIV with MAFLD.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11166146/v1",
+    "date": "2026-10-23",
+    "authors": "Vallejo G, Elena M, Montes ML, Oliveira A, Mercadal M, Busca C, Escosa L, Díez C, Navarro ML, Carrasco I, Talavera A, Serrano-Villar S, Sainz T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348987",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3225,
+    "collected_at": "2026-11-11T02:46:46.794470+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11166146/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "53c82ac93aa956f6ad16baab71c27eac06e46163079b0469d45d0475c179539d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:37:04.107820+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "285d6a9cdffe9d54888008f762bc56ac880b558aefc16fbf06092c9bc07c0390",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:37:04.107820+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "周産期にHIVに感染し脂肪肝疾患を有する若年者における腸内細菌叢の差異：多施設共同研究",
+    "abstract_ja": "要旨    背景  周産期にHIVに感染した若年者（YPHIV）において、代謝機能障害に伴う脂肪性肝疾患（MAFLD）の有病率が増加している。腸内細菌叢の乱れがMAFLDの潜在的な要因として提唱されているが、YPHIVにおけるその役割については十分に解明されていない。  方法  本前向き多施設共同研究では、過体重に伴うMAFLDの有無にかかわらず、参加者86名（YPHIV 34名、非感染対照群 52名）を対象に、超音波検査による肝脂肪変性の評価および便中16S rRNA遺伝子シーケンシングを実施した。多変数モデルを用いて、微生物多様性、分類学的存在量、および予測機能を評価した。  結果  HIV感染は、微生物多様性の低下、顕著な組成変化、および機能経路の変容と関連していたが、MAFLDでは全体的なマイクロバイオームシグネチャーに有意な変化は認められなかった。YPHIVにおいて、MAFLDはParabacteroidesの存在量の減少と相関しており、多様性は維持されていたものの、わずかな機能的差異が認められた。  結論  若年者の腸内マイクロバイオーム組成には主にHIV感染が影響を及ぼしており、MAFLDに関連する微生物学的変化は軽微である。これらの知見は、肝疾患研究においてHIV関連の細菌叢の乱れを考慮することの重要性を強調するものであり、MAFLDを伴うYPHIVにおけるさらなる調査のための潜在的な微生物学的標的を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2330.v1",
+    "title": "Attractor Landscapes and Network Dynamics of iPSC-Derived Neural Stem Cell Plasticity: A Complexity-Theoretic Benchmark of Cell-Fate Transitions",
+    "abstract": "Cell fate decisions are often studied as static transcriptomic snapshots even though differentiation is intrinsically a complex dynamical, multistable, and plastic process. To better elucidate cell fate plasticity dynamics, we developed a complexity-theoretic and machine learning framework to model neural stem cell state-transitions using a two-time point single-cell RNA-sequencing subset of GSE138121 (iPSC-derived motor neurons). The primary cohort comprised 1,960 quality-controlled cells from the Batch A control iPSC line at days 12 and 18, represented by 815 genes and 62 metacells. Ten neural/progenitor states were annotated and contrasted with NNMF and Leiden communities. We integrated forward-in-time metacell transport, quasi-potential landscapes, basin and dwell-time analysis, Spearman and Kauffman Random Boolean Networks, BDM perturbation analysis, and 5-fold cross-validation of classical machine learning and deep learning models. Transition kernels showed broad funneling toward the neuroblast/immature-neuron state. The continuous attractor landscape resolved four basins, while the 180-node, 1,080-edge Boolean Kauffman abstraction produced 18 attractors, basin entropy of 2.75 bits, and Derrida one-bit sensitivity of 1.69, indicating damage amplification rather than directly demonstrated critical point. Consensus steering prioritized ONECUT2, ZFP36L1, DCX, HOXB2, TMEM123, TUBA1A, ENO1, ELAVL4, MAP1B, and MLLT11. ESN/reservoir computing yielded the lowest latent endpoint MAE (0.138), while CTM and Transformer achieved the lowest transition-kernel RMSE after validation-selected blending with a training-only state/time prior (0.0402 and 0.0404). These results support a complex systems view of iPSC-derived neural differentiation as trajectories through a multi-basin state-space, linking attractor geometry, network topology, and explainable AI to generate testable candidates for cell fate control and reprogramming.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2330.v1",
+    "date": "2026-10-23",
+    "authors": "Uthamacumaran A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349810",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3662,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.20944/preprints202610.2330.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9d994fc857a4c23ad5f0c82515d8476997eee38f0ce0c4a773954b83cecf3ce9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:37:04.107820+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0f232337678a6cc06da911ab20cb69124f205844164b7bce2565c1b9e14139c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:37:04.107820+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "iPSC由来神経幹細胞の可塑性の誘引ランドスケープとネットワークダイナミクス：細胞運命遷移の複雑性理論的ベンチマーク",
+    "abstract_ja": "細胞運命の決定は、分化が本質的に複雑で動的、かつ多安定で可塑的なプロセスであるにもかかわらず、静的なトランスクリプトームのスナップショットとして研究されることが多い。細胞運命の可塑性ダイナミクスをより詳細に解明するため、我々はGSE138121（iPSC由来運動ニューロン）の2時点単一細胞RNAシーケンシングサブセットを用いて、神経幹細胞の状態遷移をモデル化する複雑系理論および機械学習フレームワークを開発した。主要コホートは、バッチA対照iPSC株の12日目および18日目における品質管理済み細胞1,960個で構成され、815個の遺伝子と62個のメタセルによって代表された。10種類の神経/前駆細胞状態がアノテーションされ、NNMFおよびLeidenコミュニティと対比された。我々は、順方向のメタセル輸送、準ポテンシャルランドスケープ、ベイスンおよび滞在時間解析、スピアマンおよびカウフマンランダムブールネットワーク、BDM摂動解析、ならびに古典的な機械学習および深層学習モデルの5分割交差検証を統合した。遷移カーネルは、神経芽細胞/未成熟ニューロン状態への広範なファニングを示した。連続アトラクターランドスケープでは4つのベイスンが分離され、180ノード・1,080エッジのブール・カウフマン抽象化では18個のアトラクター、2.75ビットのベイスンエントロピー、および1.69のデリダ1ビット感度が得られ、これは直接的に実証された臨界点ではなく、損傷の増幅を示唆していた。コンセンサスステアリングでは、ONECUT2、ZFP36L1、DCX、HOXB2、TMEM123、TUBA1A、ENO1、ELAVL4、MAP1B、およびMLLT11が優先された。ESN/リザーバーコンピューティングは最小の潜在エンドポイントMAE（0.138）を示し、CTMおよびTransformerは、訓練専用の状態/時間事前分布を用いた検証後選択ブレンディング後、最小の遷移カーネルRMSE（0.0402および0.0404）を達成した。これらの結果は、iPSC由来の神経分化を、マルチベイスン状態空間を辿る軌跡として捉える複雑系的な視点を支持するものであり、アトラクター幾何学、ネットワークトポロジー、および説明可能なAIを連携させることで、細胞運命の制御およびリプログラミングのための検証可能な候補を生成するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.759733",
+    "title": "Live-cell, single-molecule imaging resolves the dual nature of mRNA silencing by SARS-CoV-2 Nsp1",
+    "abstract": "SARS-CoV-2 nonstructural protein 1 (Nsp1) is a conserved viral factor that potently silences host transcripts by binding ribosomes. Yet how it acts at the level of individual mRNAs remains unclear, with competing models arguing that Nsp1 blocks translation initiation, stalls ribosome elongation, cleaves mRNA, or does all three. Here, we use Nascent Chain Tracking to quantify in living cells how Nsp1 reshapes mRNA abundance and translation dynamics with single-molecule resolution. Using reporter transcripts that vary in UTR architecture, initiation mode, and open reading frame length, we find that Nsp1 mainly silences our reporter transcripts by reducing their numbers rather than inhibiting initiation. Two routes to Nsp1-mediated mRNA loss are identified, both requiring cap-dependent initiation: an early route acting during or shortly after initiation and a later route associated with downstream translation that depends in part on ZNF598. Together, these two mechanisms make Nsp1 an efficient and robust suppressor of host gene expression. We further find that reporters containing the SARS-CoV-2 UTRs remain susceptible to Nsp1-mediated mRNA loss, but the 5’ and 3’ UTRs cooperate to increase translation output. Neither viral UTR alone increased translation beyond the host reporter, whereas combining both UTRs substantially enhanced translation in the absence of Nsp1. Together, our results reveal that Nsp1 uses dual, cap-dependent routes to promote mRNA loss across the translation cycle, while the SARS-CoV-2 UTRs provide a cooperative translational advantage rather than robust protection from Nsp1.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.759733",
+    "date": "2026-10-23",
+    "authors": "Koch A, Wiggan O, Burns E, Geiss B, Snow CD, Morisaki T, Stasevich TJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349615",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3689,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.23.759733"
+    ],
+    "translation": {
+      "title": {
+        "hash": "419391cca541827820c0e3ebd37a4f6a03a0b4a1a36853b13b8358456905a29c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:37:04.107820+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "da1322e23f708f8ebc476df73093dcfea75e31e2b7c55fc88d69ea1dbc83d2c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:37:04.107820+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生細胞・単分子イメージングによるSARS-CoV-2 Nsp1によるmRNAサイレンシングの二面性の解明",
+    "abstract_ja": "SARS-CoV-2非構造タンパク質1（Nsp1）は、リボソームに結合することで宿主の転写産物を強力にサイレンシングする保存されたウイルス因子である。しかし、個々のmRNAレベルでどのように作用するのかは依然として不明であり、Nsp1が翻訳開始を阻害するのか、リボソームの伸長を停止させるのか、mRNAを切断するのか、あるいはそのすべてを行うのかについて、相反するモデルが提唱されている。本研究では、新生鎖追跡法（Nscent Chain Tracking）を用い、生細胞内でNsp1が単分子分解能でどのようにmRNA量と翻訳動態を変化させるかを定量化した。UTR構造、開始モード、およびオープンリーディングフレーム長が異なるレポーター転写産物を用いた結果、Nsp1は開始を阻害するのではなく、主に転写産物の数を減少させることでサイレンシングしていることが明らかとなった。Nsp1介在性のmRNA喪失には2つの経路が同定され、いずれもキャップ依存的な開始を必要とする。一つは開始中または開始直後に作用する早期経路であり、もう一つはZNF598に部分的に依存する下流の翻訳に関連する後期経路である。これら2つのメカニズムが相まって、Nsp1は宿主遺伝子発現の効率的かつ強固な抑制因子として機能する。さらに、SARS-CoV-2のUTRを含むレポーターは依然としてNsp1介在性のmRNA喪失の影響を受けやすいが、5'および3' UTRが協調して翻訳出力を増加させることがわかった。ウイルスUTR単独では宿主レポーターを超える翻訳増加は見られなかったが、両UTRを組み合わせると、Nsp1が存在しない条件下で翻訳が著しく亢進した。以上の結果から、Nsp1は2つのキャップ依存的な経路を用いて翻訳サイクル全体にわたるmRNA喪失を促進する一方で、SARS-CoV-2のUTRはNsp1からの強固な保護ではなく、協調的な翻訳上の優位性をもたらしていることが明らかになった。"
   }
 ]
