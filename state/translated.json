@@ -285560,5 +285560,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "リファンピシンとモリンガ・オレイフェラ葉精油の併用処理下におけるPseudomonas aeruginosaのプランクトン増殖とバイオフィルム形成",
     "abstract_ja": "Pseudomonas aeruginosaによるバイオフィルム形成は、特に持続性感染症において抗菌薬治療を困難にするため、植物由来の抗菌薬アジュバントの評価が求められている。プランクトン増殖およびバイオフィルム形成におけるリファンピシン応答に対するMoringa oleifera葉のエタノール抽出物の影響については、濃度分解能を用いた評価が必要である。3つの独立した実験により、エタノール抽出物－リファンピシン濃度マトリックスにおけるプランクトン増殖およびクリスタルバイオレット染色バイオフィルムバイオマスを評価した。従来のPCR法を用いて、バイオフィルム関連遺伝子の選定スクリーニングを行った。エタノール抽出物単独では、1～64 µg/mLの条件下で、対照群と比較して99.33～119.33%のプランクトン増殖が認められた。リファンピシン単独では、増殖率は16および32 µg/mLにおいてそれぞれ58.67 ± 1.15%および6.67 ± 0.58%に低下した。16 µg/mLのリファンピシンに16 µg/mLのエタノール画分を添加したところ、増殖率は44.67 ± 30.99%となり、リファンピシン単独の58.67 ± 1.15%と比較して高い値を示した。32 µg/mLのリファンピシンにおいて、同様の画分添加による増殖率は16.00 ± 13.00%となり、リファンピシン単独の6.67 ± 0.58%と比較して高い値を示した。16 µg/mLのリファンピシンにおけるバイオフィルムバイオマスは55.67 ± 67.00%であり、エタノール画分の添加により70.00 ± 86.88%に達した。各アッセイにおける全49組の比較において、偽発見率調整後のq値は0.05を超えた。PCR法により、pelA、pslA、pslD、pqsA、lasR、およびndvBが検出された。濃度マトリックスからは、プランクトン増殖およびバイオフィルムバイオマスに対する明確な応答が認められた。これらの知見は、プランクトンおよびバイオフィルムの相補的な測定を、植物－抗菌薬併用の評価における不可欠な基準として位置づけるものであり、製剤スクリーニングおよび抗菌薬候補の優先順位付けを導くための濃度特異的なエビデンスを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.13.758899",
+    "title": "Combinatorial mosaics dissect the residue level basis of ACE2 binding divergence between SARS-CoV-2 and RaTG13",
+    "abstract": "The spike proteins of SARS-CoV-2 and the closely related bat coronavirus RaTG13 differ in their binding affinity of human ACE2. This is due to differences in the receptor binding domain (RBD), the region primarily responsible for ACE2 binding, which are only 89% identical on the amino acid level, compared to 96% for the remainder of their genomes. Here, we constructed a combinatorial library of RBD mosaics containing combinations of 18 amino acid differences between SARS-CoV-2 and RaTG13 and measured human ACE2 binding using yeast surface display and fluorescence-activated cell sorting. The mosaics revealed a broad range of binding phenotypes. The effects on ACE2 binding were concentrated at eight positions, including all six variable positions that directly contact ACE2. Although the SARS-CoV-2 spike binds human ACE2 stronger than RaTG13 spike, the SARS-CoV-2 residues Q493 and Q498 each reduced ACE2 binding relative to RaTG13’s tyrosines. By measuring the effects of these residues across many combinations of other sequence differences, we identified sequence context dependence for residues 493 and 498, finding that the deleterious effects of Q493 and Q498 were attenuated by the SARS-CoV-2 residues at positions 483, 484, and 494. Together, these results provide a residue-level account of the sequence differences underlying the difference in ACE2 binding by SARS-CoV-2 and RaTG13 RBDs, including which differences have the largest effect and which depend on sequence context. This work demonstrates that mosaic libraries provide a robust approach for resolving the contributions of sequence differences across diverse backgrounds. Significance Statement  Closely related proteins can differ greatly in function. Identifying which sequence differences underlie the difference in phenotype can be difficult. We built a large library of receptor binding domains that independently combined 18 differences between SARS-CoV-2 and the related bat coronavirus RaTG13 and measured their relative binding to human ACE2. Most of the difference in binding was concentrated to eight positions, and the effects of two of these positions, 493 and 498, changed depending on nearby amino acids. These results show that combinatorial mosaic libraries can resolve functional differences between homologous proteins at the residue level while also revealing context dependent effects.",
+    "journal": "",
+    "doi": "10.64898/2026.10.13.758899",
+    "date": "2026-10-20",
+    "authors": "Giovanetti SM, Sadhu MJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346451",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2798,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.13.758899"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f7c0f80519d8b480a99a8cce5ab363235ab636a208e62845f83762839a041fc1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:36:34.735246+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b6aae8ab88c2ed063d43941dfa282efe8b80deb77a53d67a0bf4036afb02020e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:36:34.735246+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "組合せ論的モザイク解析によるSARS-CoV-2とRaTG13間のACE2結合多様性の残基レベル基底の解析",
+    "abstract_ja": "SARS-CoV-2および近縁のコウモリコロナウイルスRaTG13のスパイクタンパク質は、ヒトACE2に対する結合親和性が異なる。これは、主にACE2結合を担う領域である受容体結合ドメイン（RBD）に相違があるためであり、アミノ酸レベルでの同一性はわずか89%であるのに対し、ゲノムのその他の領域では96%の同一性が認められる。本研究では、SARS-CoV-2とRaTG13の間の18箇所のアミノ酸差異の組み合わせを含むRBDモザイクのコンビナトリアルライブラリを構築し、酵母表面ディスプレイおよび蛍光活性化細胞選別を用いてヒトACE2結合を測定した。モザイクにより、広範な結合表現型が明らかになった。ACE2結合への影響は、ACE2に直接接触する6つの可変部位すべてを含む8つの部位に集中していた。SARS-CoV-2のスパイクはRaTG13のスパイクよりも強くヒトACE2に結合するが、SARS-CoV-2の残基Q493およびQ498は、それぞれRaTG13のチロシンと比較してACE2結合を低下させた。他の配列差異の多くの組み合わせにわたってこれらの残基の影響を測定することで、残基493および498の配列コンテキスト依存性を同定し、Q493およびQ498の有害な影響が、SARS-CoV-2の残基483、484、および494によって減弱されることを見出した。これらの結果を総合すると、SARS-CoV-2とRaTG13のRBDにおけるACE2結合の差異の根底にある配列差異について、どの差異が最大の影響を及ぼし、どれが配列コンテキストに依存するのかという、残基レベルの説明が得られる。本研究は、モザイクライブラリが、多様な背景における配列差異の寄与を解明するための堅牢なアプローチとなることを示している。意義に関する記述 近縁のタンパク質であっても、機能が大きく異なる場合がある。表現型の差異の根底にある配列差異を特定することは困難な場合がある。我々は、SARS-CoV-2と近縁のコウモリコロナウイルスRaTG13の間の18箇所の差異を独立して組み合わせた受容体結合ドメインの大規模ライブラリを構築し、ヒトACE2に対する相対的な結合を測定した。結合の差異の大部分は8つの部位に集中しており、これらのうち493と498という2つの部位の影響は、近傍のアミノ酸によって変化した。これらの結果は、コンビナトリアルモザイクライブラリが、相同タンパク質間の機能的な差異を残基レベルで解明できると同時に、コンテキスト依存的な影響を明らかにできることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.17.759865",
+    "title": "Pathogenicity Validation of  Parastagonospora pseudonodorum  on Wheat and Barley",
+    "abstract": "Parastagonospora pseudonodorum , previously known as  Phaeosphaeria avenaria f. sp.  tritici (Pat1), is a fungal species within the Septoria blotch complex that causes yield losses in cereal crops worldwide. First reported in Canada in 1942 under an earlier taxonomic name. However, successive taxonomic changes in addition to its close resemblance to  Parastagonospora nodorum , the causal agent of Septoria nodorum blotch have complicated its identification and its role in pathogenicity. Recent molecular identification of  P. pseudonodorum in Western Canadian wheat samples necessitated the re-evaluation of its pathogenicity and raised concerns about potential misidentification with the closely-related species  P. nodorum. These two species secrete combinations of various necrotic effectors (NEs) that contribute to their virulence. In this study, we examined the pathogenicity of  P. pseudonodorum following Koch’s postulates. Our results confirmed the ability of  P. pseudonodorum to infect the leaves and spikes of both hosts, but the symptoms was weaker on the leaves of both hosts and wheat spikes, whereas more evident damage was observed on barley spikes. While a limited number of genotypes was tested as a proof of concept, but the observed differences in symptom severity suggest host and tissue associated variation in susceptibility. These results highlight the need to expand our monitoring of the leaf spot complex to include this species and to further explore its host range and genomic characterization. Awareness of this pathogen is essential, particularly given its association with cereal spikes and its quarantine status in some countries which could impacts the export of Canadian grains overseas.",
+    "journal": "",
+    "doi": "10.64898/2026.10.17.759865",
+    "date": "2026-10-20",
+    "authors": "Fundora DG, Hafez M, Zid M, Wakowiak S, Aboukhaddour R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346441",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2799,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.17.759865"
+    ],
+    "translation": {
+      "title": {
+        "hash": "53633e85a2b5f78ea4aa5ec5502926da55d8490cc6627c2ff31cbc8a558c545a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:36:34.735246+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0186c9df65d4ee9320d4a25986dd9ce15a84f6a1755e50cbb6d64d662266277b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:36:34.735246+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コムギおよびオオムギにおけるParastagonospora pseudonodorumの病原性検証",
+    "abstract_ja": "Parastagonospora pseudonodorum（旧称 Phaeosphaeria avenaria f. sp. tritici (Pat1)）は、セプトリア斑点病複合体に属する真菌種であり、世界中の穀物作物において収量減少を引き起こす。1942年にカナダにおいて、より古い分類名で初めて報告された。しかし、その後の分類学的変更に加え、セプトリア・ノドルム斑点病の原因菌であるParastagonospora nodorumとの極めて高い類似性により、同菌の同定および病原性における役割の解明は困難となっていた。近年、カナダ西部の小麦試料からP. pseudonodorumが分子同定されたことで、その病原性の再評価が必要となり、近縁種であるP. nodorumとの誤同定の可能性が懸念された。これら2種は、それぞれ異なる壊死エフェクター（NE）を組み合わせて分泌し、それが病原性に寄与している。本研究では、コッホの原則に基づき、P. pseudonodorumの病原性を検討した。その結果、P. pseudonodorumが両宿主の葉および穂に感染する能力を有することが確認されたが、症状は両宿主の葉および小麦の穂では軽度であった一方、大麦の穂ではより顕著な被害が認められた。概念実証として限定的な数の遺伝子型を試験したが、観察された症状の重症度の差は、宿主および組織に関連した感受性の変動を示唆している。これらの結果は、葉斑病複合体のモニタリング対象を本種まで拡大し、その宿主範囲およびゲノム特性解析をさらに進める必要性を強調するものである。特に、穀物の穂との関連性や、一部の国における検疫上の扱いがカナダ産穀物の海外輸出に影響を及ぼし得る点を踏まえると、本病原体に対する認識を高めることは不可欠である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760286",
+    "title": "Paper-Based Microfluidic Continuous-Flow Electroporation (µCEP) for Bacterial Transformation through Pore-Scale Electric-Field Enhancement",
+    "abstract": "Electroporation (EP) is an established method for introducing biomolecules such as DNA into bacterial cells. Commercially available cuvette-based EP systems are expensive to use and limited to small sample volumes making them impractical for high-throughput applications. Furthermore, high electric fields are required in these systems which can promote electrolysis and Joule heating, thereby reducing cell viability. Herein, we report a scalable, low-cost technique called Microfluidic Continuous-Flow Electroporation in Paper (µCEP) which takes advantage of the insulating nature of glass fiber paper and its micron-sized pores to amplify the electric field strength experienced by cells. The µCEP device is fabricated by sealing glass fibers between PDMS membranes using a combination of corona plasma treatment and heat-pressing. Our results demonstrate that the µCEP technique enables transformation of  E. coli at lower applied electric field strengths with transformation efficiencies comparable to or higher than those of cuvette-based EP under the tested conditions. The continuous-flow format and lower required applied field provides a low-cost approach to bacterial electroporation while maintaining cell viability comparable to that of conventional cuvette-based EP.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760286",
+    "date": "2026-10-20",
+    "authors": "Jaiswal B, Islam MN, Gagnon ZR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346271",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2802,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.760286"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6728763405526368ec28157e5be3901fa40635bcf60c3e58758a2ccaf3fdc30f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:36:34.735246+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4b816ee7e33693564553dbf8441b34e3041750820eafd202983a1cb7065661cd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:36:34.735246+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細孔スケールの電界増強による細菌形質転換のための紙媒体マイクロ流体連続フローエレクトロポレーション（µCEP）",
+    "abstract_ja": "エレクトロポレーション（EP）は、DNAなどの生体分子を細菌細胞に導入するための確立された手法である。市販のキュベット型EPシステムは使用コストが高く、試料量も限られているため、ハイスループットな用途には実用的ではない。さらに、これらのシステムでは高い電界が必要であり、それが電気分解やジュール加熱を促進し、細胞の生存率を低下させる可能性がある。本報では、ガラス繊維紙の絶縁特性とミクロンサイズの細孔を利用して細胞が受ける電界強度を増幅させる、スケーラブルで低コストな技術「Microfluidic Continuous-Flow Electroporation in Paper（µCEP）」について報告する。µCEPデバイスは、コロナプラズマ処理と熱圧着を組み合わせて、PDMS膜の間にガラス繊維を封止することで作製される。我々の結果は、µCEP技術により、試験条件下において、より低い印加電界強度で大腸菌（E. coli）の形質転換が可能となり、その形質転換効率はキュベット型EPと同等かそれ以上であることを示している。連続フロー方式とより低い印加電界強度により、従来のキュベット型EPと同等の細胞生存率を維持しつつ、細菌のエレクトロポレーションに対する低コストなアプローチが実現する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11420340/v1",
+    "title": "Phylogenetic harmonization of cross-cohort vaginal microbiome data for machine-learning prediction of preterm birth",
+    "abstract": "Abstract  The vaginal microbiome is associated with preterm birth (PTB), but single-center prediction models may be limited by sample size, and public 16S rRNA datasets differ in variable regions and protocols. We integrated a Korean single-center cohort (EUMC; n = 235) with the Microbiome Preterm Birth DREAM Challenge (DC; 3,578 samples from 1,268 individuals) using phylogenetic-placement-based harmonization (MaLiAmPi). In pooled-data evaluation, the AUC increased from 0.657 to 0.731 for LASSO logistic regression and from 0.57 to 0.81 for CatBoost. Because cervical length (CL) was unavailable in DC, a classifier for short CL (sCL;",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11420340/v1",
+    "date": "2026-10-20",
+    "authors": "Park S, Yun K, Byun H, Park Y, You Y, Lee G, Hur YM, Ko M, Kim YJ, Park S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345907",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbiome",
+        "phylogenetic",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2803,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11420340/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "156b62629df60b3ab0e89b4748043229c3496c814e99f7421c072c10b46c374d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:36:34.735246+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "688b4664c332493e6e5d81385799a45c2a53ca7d84cc298b84905d04e4b07d33",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:36:34.735246+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "早産の機械学習予測に向けたコホート横断的腟内マイクロバイオームデータの系統学的調和",
+    "abstract_ja": "要旨　腟内マイクロバイオームは早産（PTB）と関連しているが、単一施設予測モデルはサンプルサイズによる制約を受ける可能性があり、公開されている16S rRNAデータセットは可変領域やプロトコルが異なる。我々は、系統的配置に基づく調和化（MaLiAmPi）を用いて、韓国の単一施設コホート（EUMC; n = 235）とMicrobiome Preterm Birth DREAM Challenge（DC; 1,268名由来の3,578サンプル）を統合した。プールデータ評価において、AUCはLASSOロジスティック回帰で0.657から0.731に、CatBoostでは0.57から0.81に上昇した。DCでは子宮頸管長（CL）が利用できなかったため、短頸管（sCL;"
   }
 ]
