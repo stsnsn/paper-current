@@ -281115,5 +281115,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "タンパク質言語モデル埋め込みを用いたタンパク質N-糖鎖付加のオミクススケールデコーディング",
     "abstract_ja": "タンパク質言語モデル（pLM）は、膨大な量のタンパク質配列から豊かな配列セマンティクスを学習するが、その高次元埋め込みに符号化された情報は依然として大部分がブラックボックスとなっており、解釈可能性の課題となっている。本研究では、pLMが学習したセマンティック特徴量を、ダウンストリームの教師あり学習を必要とせず、共進化解析を用いてデコードすることで、生物学的に意味のあるシグナルを明らかにできることを示す。この知見に基づき、我々はPLM埋め込みから直接タンパク質N-糖鎖付加部位を同定しつつ、最先端の教師あり予測器に匹敵する性能を実現するゼロショットフレームワーク「MaskNGly」を開発した。MaskNGlyは計算効率に優れ、本質的に転移可能であるため、タンパク質糖鎖付加ランドスケープのオミクススケールの特性解析を可能にする。プロテオーム全体に適用した結果、正準なN-X-S/Tモチーフは生物体の複雑性が増すにつれて糖鎖付加親和性が高まり、糖鎖付加は構造化された溶媒露出領域で優先的に起こることが明らかになった。高スコアのモチーフを変化させる変異は、疾患に関連している頻度が高い。また、本フレームワークは糖鎖付加を介したタンパク質アロステリシスのシグネチャーも捉える。これらの結果は、pLM埋め込みから糖鎖生物学を研究するための、解釈可能かつスケーラブルな手法を確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11578453/v1",
+    "title": "GEPC: Generative-Explanatory Pest Classification with Multi-Modal Priors and Hierarchical Concept Constraints",
+    "abstract": "Abstract  Accurate and interpretable pest classification underpins precision agriculture and food security, yet three obstacles remain. Field-collected datasets are severely long-tailed, so rare and often high-risk pests are under-represented; closely related species are morphologically near-identical, limiting single-modality discrimination; and standard end-to-end classifiers emit labels without auditable reasoning. We present GEPC (Generative-Explanatory Pest Classifier), a unified framework organized around one principle: every prediction should be backed by a verifiable taxonomic pathway. To counter the long tail, a semantics-guided diffusion pipeline synthesizes ecologically plausible samples for rare classes through structured prompts and CLIP-based quality filtering, grounding augmentation in real taxonomic and habitat priors. For interpretability and fine-grained discrimination, GEPC casts feature extraction as non-negative, path-constrained sparse pursuit via Hierarchical Beam Orthogonal Matching Pursuit (HB-OMP) over an offline differential dictionary built on the Order--Family--Species tree, so the recovered root-to-leaf path denoises a frozen DINOv2 visual representation while doubling as a transparent diagnostic cue. This hierarchy-aligned signal is fused with species-anonymized morphological descriptions encoded by a frozen CLIP text encoder, and a lightweight classifier issues the final prediction. Across multiple random seeds on AP162, GEPC attains $90.4 \\pm 0.3\\%$ overall accuracy, $82.4\\%$ tail-class recall, and $94.6\\%$ agreement between the visual pursuit path and the final decision, consistently outperforming end-to-end supervised and zero-shot baselines while exposing the taxonomic evidence behind each prediction.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11578453/v1",
+    "date": "2026-11-04",
+    "authors": "Xian Y, Song Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358424",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "classification",
+        "framework",
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "classification",
+          "framework",
+          "gene",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4920,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.21203/rs.3.rs-11578453/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "193da696c5adba814d66edef3296111e24547667e4281fab2a4427ff0b6fb470",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:56:06.637094+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cc97301fb65b59a4a1cba10f418e28b23372315eb5ae172b7092e3aa53cbca0a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:56:06.637094+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GEPC: マルチモーダル事前分布と階層的概念制約を用いた生成的説明型害虫分類",
+    "abstract_ja": "要旨　正確かつ解釈可能な害虫分類は、精密農業と食料安全保障の基盤となるが、依然として3つの課題が残っている。野外で収集されたデータセットは著しくロングテールであるため、希少でしばしば高リスクな害虫の代表性が低くなっている。近縁種は形態的にほぼ同一であるため、単一モダリティによる識別が制限される。また、標準的なエンドツーエンド分類器は、監査可能な推論を提示せずにラベルを出力する。本稿では、「すべての予測は検証可能な分類学的経路に裏付けられるべきである」という単一の原則に基づいて構成された統合フレームワーク、GEPC（Generative-Explanatory Pest Classifier）を提案する。ロングテールに対処するため、意味論誘導型の拡散パイプラインが、構造化プロンプトとCLIPベースの品質フィルタリングを通じて希少クラスの生態学的に妥当なサンプルを合成し、実際の分類学的および生息地の事前知識にグラウンディング・オーグメンテーションを行う。解釈可能性と細粒度の識別を実現するため、GEPCは特徴量抽出を、Order--Family--Species木に基づいて構築されたオフライン差分辞書に対する階層的ビーム直交マッチング・パースート（HB-OMP）による非負かつ経路制約付きのスパースパースートとして定式化する。これにより、復元された根から葉への経路は、凍結されたDINOv2の視覚表現のノイズを除去すると同時に、透明性の高い診断指標としても機能する。この階層整合的な信号は、凍結されたCLIPテキストエンコーダによって符号化された種名を除いた形態学的記述と融合され、軽量な分類器が最終的な予測を出力する。AP162における複数のランダムシードにおいて、GEPCは全体で$90.4 \\pm 0.3\\%$の正解率、テールクラスの再現率$82.4\\%$、および視覚パースート経路と最終判定の一致率$94.6\\%$を達成し、各予測の背後にある分類学的根拠を明らかにしつつ、エンドツーエンドの教師ありモデルやゼロショットベースラインを一貫して上回る性能を示した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0291.v1",
+    "title": "Aptamers at the Clinical Interface: Molecular Recognition, Device Architecture and the Evidence Required for Adoption",
+    "abstract": "Aptamers, short single-stranded oligonucleotides selected to bind a chosen target, have for three decades been presented as programmable substitutes for antibodies. The past five years have changed the terms of that comparison. Selection can now be performed inside living cells, generative models propose binders that were never present in the starting library, and electrochemical aptamer switches report drug concentrations in human interstitial fluid with minute resolution over a day. In parallel, population-scale aptamer proteomics has made the aptamer a workhorse of biomarker discovery rather than a curiosity of the assay laboratory. Clinical adoption nevertheless remains uneven, and the reasons are mechanistic rather than merely engineering-related. An aptamer is a conformational ensemble whose binding equilibrium is re-weighted by ions, competing proteins and surface chemistry, so an affinity measured in selection buffer is a poor predictor of behaviour in blood. Here we examine the molecular principles that govern aptamer recognition, the device architectures that convert binding into a clinical readout, and the clinical evidence accumulated since 2021. We argue that the rate-limiting step has moved from molecular discovery to the construction of evidence that regulators, payers and clinicians can audit, and we propose a framework for generating it.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0291.v1",
+    "date": "2026-11-04",
+    "authors": "Zhao Y, Cheng H, Zhou S, He L, Xiu C, Huang B, Lu X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357876",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4921,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.20944/preprints202611.0291.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "69fd89704d42d8db3b5a7c4d173eb5a25650182679fefa03867643885e09e19e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:56:06.637094+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ab9a939412453e7d050f1e134fbe2004ba5c668d6e8b9833556a98c967bec594",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:56:06.637094+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "臨床接点におけるアプタマー：分子認識、デバイスアーキテクチャ、および導入に必要なエビデンス",
+    "abstract_ja": "選択した標的に結合するように設計された短鎖一本鎖オリゴヌクレオチドであるアプタマーは、30年にわたり、抗体に代わるプログラム可能な代替手段として提示されてきた。過去5年間で、その比較条件は変化した。現在では生細胞内で選択が可能となり、生成モデルは初期ライブラリには存在しなかったバインダーを提案し、電気化学的アプタマースイッチはヒト間質液中の薬物濃度を1日にわたる極めて高い分解能で報告している。並行して、集団規模のアプタマープロテオミクスにより、アプタマーはアッセイ研究室の珍品ではなく、バイオマーカー探索の主力ツールとなった。それにもかかわらず、臨床導入は依然として不均一であり、その理由は単に工学的な要因ではなく、機構的な要因によるものである。アプタマーは立体構造の集合体であり、その結合平衡はイオン、競合タンパク質、および表面化学によって再重み付けされるため、選択バッファーで測定した親和性は、血中での挙動の予測指標としては不十分である。本稿では、アプタマー認識を支配する分子原理、結合を臨床的な読み取り値へと変換するデバイスアーキテクチャ、および2021年以降に蓄積された臨床的エビデンスについて検討する。我々は、律速段階が分子レベルの発見から、規制当局、支払者、および臨床医が監査可能なエビデンスの構築へと移行したと論じ、それを生成するためのフレームワークを提案する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0300.v1",
+    "title": "Origami as a Spatial and Geometric Reasoning Benchmark",
+    "abstract": "Multimodal language models perform well on visual recognition and on tool use, but these abilities do not transfer directly to spatial and geometric reasoning. Geometric structure does not reduce to text or to a single image: exact angles and incidences, which surface lies in front of which, and the order in which operations were applied are not recoverable from a semantic description of a scene. We introduce CP2Seq, a benchmark for evaluating geometric reasoning and sequential planning in multimodal language models through origami. The benchmark contains 600 procedurally generated samples, each requiring a model to produce a valid sequence of folds from a crease pattern and a target folded state. Samples are produced by a deterministic folding engine. Ground truth is recorded during generation. We release the generation and evaluation framework to support additional samples and experiments across reference depths and action models. During evaluation, the engine executes proposed folds or rejects invalid actions with explicit feedback, while the model remains responsible for selecting actions and searching for a solution. We evaluate multimodal language models under progressively greater tool assistance, and against a deterministic breadth-first search over the same action set. Candidate sequences are assessed by executing them and comparing the resulting folded state with the target, allowing for planar translations, rotations, and reflections. Performance falls off sharply with sequence depth: in the Luna ablations no configuration solves a medium or hard sample (11 or more folds), while some-layers solves rise from 6/30 to 18/30 with higher reasoning effort. Failures are dominated by search rather than by illegal moves: in the broader evaluation, 48% of episodes end by revisiting earlier states. A breadth-first search over the same actions, under its own time budget, solves 54.7% of easy-group attempts, so short sequences are within reach of systematic search.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0300.v1",
+    "date": "2026-11-04",
+    "authors": "Xian L, Pai D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357866",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4922,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.20944/preprints202611.0300.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "48ac6fa58298af06a4545b095eab8b8af6c1163e7c05f8ae81cb3b173881ac55",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:56:06.637094+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "717d5ffb9047f45bd069a7ee254ffb6b834c063f883f8ea6834ccca0d44bb547",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:56:06.637094+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "空間的・幾何学的推論のベンチマークとしての折り紙",
+    "abstract_ja": "マルチモーダル言語モデルは、視覚認識やツール利用において優れた性能を示すが、これらの能力は空間的・幾何学的推論に直接転移するわけではない。幾何学的構造は、テキストや単一の画像に還元されるものではない。正確な角度や入射角、どの面がどちらの手前にあるか、そして操作が適用された順序などは、シーンの意味的な記述からは復元できない。本稿では、折り紙を用いてマルチモーダル言語モデルの幾何学的推論と逐次的プランニングを評価するためのベンチマークであるCP2Seqを提案する。このベンチマークには手続き的に生成された600件のサンプルが含まれており、各サンプルにおいてモデルは、折り目パターンから有効な折り目のシーケンスと、目標とする折り畳み状態を生成する必要がある。サンプルは決定論的な折り畳みエンジンによって生成される。生成過程では、グラウンドトゥルースが記録される。我々は、参照深度やアクションモデルにわたる追加のサンプルや実験をサポートするため、生成および評価フレームワークを公開する。評価中、エンジンは提案された折り目を実行するか、あるいは無効なアクションを明示的なフィードバックとともに却下するが、アクションの選択と解の探索についてはモデルが引き続き責任を負う。我々は、段階的にツール支援を強化した条件下、および同一のアクションセットに対する決定論的な幅優先探索を用いて、マルチモーダル言語モデルを評価した。候補シーケンスは、実際に実行し、得られた折り畳み状態を目標状態と比較することで評価され、平面上の平行移動、回転、および鏡映が許容される。性能はシーケンスの深さに応じて急激に低下する。Lunaのアブレーションでは、どの構成も中・高難易度のサンプル（11回以上の折り目）を解決できなかったが、some-layersでは、推論コストの増加に伴い、解決率が6/30から18/30へと上昇した。失敗の主な要因は、不正な操作ではなく探索にある。広範な評価では、エピソードの48%が以前の状態への再訪問で終了した。独自の時間予算の下で同一アクションに対する幅優先探索を行ったところ、easy-groupの試行の54.7%を解決できたため、短いシーケンスであれば体系的な探索で到達可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763699",
+    "title": "Synthetic MPRA perturbation supervision improves variant-effect prediction in sequence-to-function models",
+    "abstract": "Deep learning sequence-to-function (S2F) models learn to predict functional readouts, such as gene expression, from genetic sequence. However, these models are trained predominantly on the reference genome and struggle to accurately predict the effect of genetic variation on gene expression. Massively parallel reporter assays (MPRAs) explore the direct impact of genetic variation on gene expression, but saturation-mutagenesis MPRAs that measure variant effects directly remain limited, thereby restricting their use for fine-tuning S2F models. In this work, we investigate fine-tuning Borzoi, a state-of-the-art S2F model, on model-generated synthetic MPRA variant-effect data as a scalable alternative to overcome limits on the availability of supervised training data for genetic variation. First, we trained an ensemble of 16 models on 110,359 K562 MPRA measurements. Then, we distilled their predictions into a single student model using MPRA elements associated with 1,000 genes. The distilled model was subsequently used to generate synthetic variant-effect labels across increasing numbers of genes (50 to 1,000), with 600 variants per gene, to fine-tune Borzoi. Performance improved as we included more genes in training. In data-limited settings, training on more genes with fewer variants per gene performed better than training on fewer genes with more variants per gene, given the same number of total variants. Compared to pre-trained Borzoi, Borzoi fine-tuned on 600,000 synthetic samples across 1,000 genes increased Pearson correlation from 0.28 to 0.54 on CAGI5 promoter variants and from 0.39 to 0.46 on 903 GTEx fine-mapped whole-blood expression quantitative trait loci (eQTLs). Importantly, these improvements were achieved while preserving the pre-trained performance across all 7,611 output tracks. Furthermore, fine-tuned Borzoi recovered regulatory motifs identified by the MPRA model in genes unseen during training, suggesting that learned regulatory features can generalize across loci. Together, these results provide a proof of concept that model-generated synthetic supervision can improve variant effect prediction in S2F models while preserving their original pre-trained capabilities, offering a scalable strategy toward capturing the impact of genetic variation on gene regulation.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763699",
+    "date": "2026-11-03",
+    "authors": "Wang L, Galvin J, Vaz E, Keener R, Battle A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358969",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4928,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.02.763699"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ae629b2d3dd30f3dc03af1c8a8a9adfb27530de652edc347692eda80237d5814",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:56:06.637094+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "01fc2e98489df5a7b44c76d1cda8fbaf4eaa4fcdf25a90913a1a3a8a5cf83c59",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:56:06.637094+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "合成MPRA摂動教師信号は、シーケンス・トゥ・ファンクションモデルにおけるバリアント効果予測を向上させる。",
+    "abstract_ja": "深層学習によるシーケンス・トゥ・ファンクション（S2F）モデルは、遺伝子配列から遺伝子発現などの機能的読み出し値を予測することを学習する。しかし、これらのモデルは主にリファレンスゲノムを用いて訓練されており、遺伝的変異が遺伝子発現に及ぼす影響を正確に予測することには困難が伴う。大規模並列レポーターアッセイ（MPRA）は、遺伝的変異が遺伝子発現に及ぼす直接的な影響を調査するが、変異の影響を直接測定する飽和変異導入型MPRAは依然として限られており、そのためS2Fモデルのファインチューニングへの利用が制限されている。本研究では、遺伝的変異に関する教師あり訓練データの利用可能性という制約を克服するためのスケーラブルな代替手段として、最先端のS2FモデルであるBorzoiを、モデルが生成した合成MPRA変異影響データを用いてファインチューニングすることを検討した。まず、110,359件のK562 MPRA測定値を用いて16個のモデルからなるアンサンブルを訓練した。次に、1,000個の遺伝子に関連付けられたMPRA要素を用いて、それらの予測を単一の生徒モデルへと蒸留した。この蒸留モデルを、その後、増加する遺伝子数（50〜1,000個）にわたって、1遺伝子あたり600個の変異を持つ合成変異影響ラベルを生成し、Borzoiのファインチューニングに用いた。訓練に含める遺伝子数を増やすにつれて、性能が向上した。データが限られている環境では、総変異数が同じであれば、遺伝子数が少なく1遺伝子あたりの変異数が多い場合よりも、遺伝子数が多く1遺伝子あたりの変異数が少ない場合の方が、訓練性能が高かった。事前学習済みのBorzoiと比較して、1,000個の遺伝子にわたる600,000個の合成サンプルでファインチューニングしたBorzoiは、CAGI5プロモーター変異におけるピアソン相関係数を0.28から0.54に、903個のGTExファインマップ済み全血発現量的形質遺伝子座（eQTL）における同相関係数を0.39から0.46に向上させた。重要な点として、これらの改善は、全7,611個の出力トラックにわたって事前学習時の性能を維持したまま達成された。さらに、ファインチューニング済みのBorzoiは、訓練中に観測されなかった遺伝子においても、MPRAモデルによって同定された調節モチーフを復元しており、学習された調節特徴が遺伝子座を横断して汎化し得ることが示唆された。以上の結果を総合すると、モデル生成の合成教師信号が、元の事前学習能力を維持しつつS2Fモデルにおける変異影響予測を改善できるという概念実証となり、遺伝子調節に対する遺伝的変異の影響を捉えるためのスケーラブルな戦略を提示するものである。"
   }
 ]
