@@ -276344,5 +276344,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "綿花ゲノムにおけるブロモドメインファミリー遺伝子の同定とGhBRD34による植物の成長・発達促進",
     "abstract_ja": "要旨    背景  ブロモドメイン（BRD）含有タンパク質は、植物の成長、発達、および環境ストレス応答における重要な調節因子である。しかし、綿花におけるこれらの具体的な生物学的機能や分子機構に関する理解は限られている。結果  本研究では、ゲノムワイドな解析を行い、陸生綿花ゲノムの24本の染色体上に位置する69種類のGhBRDファミリーメンバーを同定した。プロモーター領域の解析により、光シグナル伝達、非生物的ストレス応答、および植物ホルモンシグナル伝達において役割を果たす、いくつかの保存されたシス作用エレメントが明らかになった。利用可能なトランスクリプトームデータセットにより、これらの遺伝子のうち4種類（GhBRD1、GhBRD33、GhBRD34、およびGhBRD68）が異なる組織間で一貫して高い発現を示すことが判明し、これらの遺伝子が植物の成長と発達のさまざまな側面に関与していることが示唆された。陸生綿花においてウイルス誘導性遺伝子サイレンシングによりGhBRD34をサイレンシングしたところ、植物の成長と発達が著しく抑制され、草丈の低下と葉面積の相対的な縮小が認められた。対照的に、シロイヌナズナにおけるGhBRD34の過剰発現は、成長と発達を促進するだけでなく、植物を乾燥条件に対してより感受性高くした。結論  本研究の知見は、陸生綿花においてGhBRD34が成長、発達、および乾燥応答性に影響を及ぼす分子経路を解明することを目的とした今後の研究に向けた強固な基盤となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760609",
+    "title": "Snail restricts SARS-CoV-2 entry by limiting ACE2 expression as part of broader remodelling of epithelial determinants of viral tropism",
+    "abstract": "ABSTRACT  Pre-existing state of the host cell is a major determinant of the host susceptibility to viral infection. Here, we identify the epithelial-mesenchymal transition transcription factor Snail as a host restriction factor for SARS-CoV-2. Snail loss markedly increased SARS-CoV-2 replication, whereas Snail overexpression and complementation restricted viral replication. Transcriptomic analysis of Snail knockout cells revealed remodelling of epithelial surface-associated programs, including apical membrane, brush border, and junctional pathways. ACE2, the cellular receptor for SARS-CoV-2, was among the genes upregulated in Snail knockout cells. Snail negatively regulated  ACE2 transcription, leading to reduced ACE2 transcript and protein abundance and, consequently, lower SARS-CoV-2 entry. Consistent with this,  ACE2 promoter activity was higher in Snail knockout cells, which was reduced following Snail complementation. As a means to counter Snail’s antiviral functions, SARS-CoV-2 infection progressively depleted Snail protein in different cell culture models, while  SNAI1 transcript abundance was surprisingly maintained or increased under the same conditions. Proteasome inhibition and protein-turnover analyses failed to account for this depletion. We find that SARS-CoV-2 infection resulted in reduced association of  SNAI1 with polysomes at later stages of infection coinciding with virus-induced host translational suppression, resulting in lower protein synthesis. Together, these findings identify Snail as a regulator of the epithelial entry landscape that limits ACE2-associated SARS-CoV-2 entry and shapes cellular permissiveness, with broader implications for cellular determinants of viral tropism. SARS-CoV-2, in turn, progressively depletes this short-lived antiviral regulator, revealing how virus-induced translational shutoff can remodel pre-existing host cell states and thereby alter cellular susceptibility during infection.  IMPORTANCE  Cellular permissiveness is a major determinant of viral tropism. Host transcriptional programs are well known to shape cellular identity and surface composition, but their contribution to viral susceptibility is less often viewed as a form of host restriction. We previously showed that the epithelial-mesenchymal transition transcription factors Snail and Slug restrict multiple RNA viruses. Here, we show that Snail also limits SARS-CoV-2 infection by restricting ACE2 expression and by remodelling the epithelial surface landscape. SARS-CoV-2 neutralizes this threat by translationally repressing  SNAI1 as part of the global translation suppression. We show that loss of Snail remodels surface-associated cellular programs and establishes a more permissive state. Together, these findings connect two aspects of host-virus interaction: transcriptional programs that establish cellular permissiveness and viral processes that can subsequently alter them. They position Snail as a broader regulator of the cellular landscape that influences viral entry and tropism.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760609",
+    "date": "2026-10-21",
+    "authors": "Sahoo PP, Sah V, Harshan KH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348529",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2743,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.20.760609"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e8c4331b989cd0f4acc039b7d672982f680c7598c7739895fae153ccddc8dd80",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:40:54.724282+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8078b6c559be1f01cc2340e79483c69de6347014d6cf65458605df1fe1b2eff4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:40:54.724282+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カタツムリは、ウイルス指向性の上皮決定因子の広範なリモデリングの一環として、ACE2の発現を抑制することでSARS-CoV-2の侵入を制限する。",
+    "abstract_ja": "要旨　宿主細胞の既存の状態は、宿主のウイルス感染感受性を決定づける主要な要因である。本研究では、上皮間葉転換転写因子SnailをSARS-CoV-2の宿主制限因子として同定した。Snailの欠損はSARS-CoV-2の複製を著しく亢進させた一方、Snailの過剰発現および相補化はウイルス複製を制限した。Snailノックアウト細胞のトランスクリプトーム解析により、頂端膜、ブラシ境界、および接合部経路を含む上皮表面関連プログラムのリモデリングが明らかになった。SARS-CoV-2の細胞受容体であるACE2は、Snailノックアウト細胞において発現が上昇した遺伝子の一つであった。SnailはACE2の転写を負に制御し、その結果、ACE2の転写産物およびタンパク質量が減少し、それに伴いSARS-CoV-2の侵入が低下した。これと一致して、ACE2のプロモーター活性はSnailノックアウト細胞で高く、Snailの相補化後に低下した。Snailの抗ウイルス機能に対抗する機序として、SARS-CoV-2感染は異なる細胞培養モデルにおいてSnailタンパク質を漸次的に枯渇させたが、一方でSNAI1の転写産物量は同条件下で驚くべきことに維持または増加した。プロテアソーム阻害およびタンパク質ターンオーバー解析では、この枯渇を説明することはできなかった。我々は、SARS-CoV-2感染の後期段階において、ウイルス誘導性の宿主翻訳抑制と並行してSNAI1とポリソームとの結合が減少し、その結果、タンパク質合成が低下することを見出した。これらの知見を総合すると、SnailはACE2関連のSARS-CoV-2侵入を制限し、細胞の許容性を形成する上皮侵入ランドスケープの調節因子として同定され、ウイルストロピズムの細胞決定因子に対してより広範な影響を及ぼすことが明らかになった。SARS-CoV-2はさらに、この短寿命の抗ウイルス調節因子を漸次的に枯渇させ、ウイルス誘導性の翻訳シャットオフが既存の宿主細胞状態をリモデリングし、それによって感染時の細胞感受性を変化させ得ることを示している。重要性　細胞の許容性は、ウイルストロピズムの主要な決定因子である。宿主の転写プログラムが細胞のアイデンティティや表面組成を形成することはよく知られているが、それらがウイルス感受性に寄与することは、宿主制限の一形態としてあまり注目されてこなかった。我々は以前、上皮間葉転換転写因子であるSnailおよびSlugが複数のRNAウイルスを制限することを示した。本研究では、SnailがACE2の発現を制限し、上皮表面ランドスケープをリモデリングすることで、SARS-CoV-2の感染も制限することを示す。SARS-CoV-2は、グローバルな翻訳抑制の一環としてSNAI1を翻訳的に抑制することで、この脅威を中和する。我々は、Snailの欠損が表面関連の細胞プログラムをリモデリングし、より許容性の高い状態を確立することを示す。これらの知見を総合すると、宿主-ウイルス相互作用の2つの側面、すなわち細胞の許容性を確立する転写プログラムと、その後それを変化させ得るウイルスプロセスが結びつく。これにより、Snailはウイルスの侵入とトロピズムに影響を与える細胞ランドスケープのより広範な調節因子として位置づけられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760228",
+    "title": "Dynamics and activation of the  Legionella  Type IV secretion system",
+    "abstract": "Legionella pneumophila uses the Dot/Icm type IV secretion system (T4SS) to translocate hundreds of effector proteins into host cells, yet how this transenvelope machine assembles and becomes secretion competent remains poorly understood. Here, using cryo-electron tomography and  in situ single-particle cryo-electron microscopy, we resolve distinct structural and functional states of the native Dot/Icm T4SS. Unexpectedly, the T4SS predominantly occupies a resting state containing the outer-membrane core complex but lacking the inner-membrane complex, including DotA. Recruitment of inner-membrane components establishes a fully assembled but secretion-inactive primed state. A 3.6-Å cryo-EM structure of the DotO–DotI–DotJ–IcmT complex, integrated with  in situ reconstructions, reveals how membrane-associated components organize DotO into a hexamer-of-dimers ATPase platform. Upon host contact, the T4SS undergoes extensive conformational remodeling while preserving its transenvelope scaffold. Activation involves dilation of the DotG outer-membrane gate and transformation of the DotA–IcmX protochannel into an open translocation conduit that extends beyond the bacterial surface. Substrate-associated state exhibit further channel expansion, revealing structural plasticity associated with effector translocation. During macrophage infection, the extracellular conduit bridges the bacterial and host membranes, establishing a direct pathway for effector delivery. Together, our findings reveal a stepwise mechanism of Dot/Icm T4SS channel assembly and activation, in which coordinated remodeling of the secretion channel converts a resting apparatus into a host-engaged translocation machine.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760228",
+    "date": "2026-10-21",
+    "authors": "Heydari S, Yue J, Yang Z, Shu S, Wang H, Mi W, Roy C, Liu J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348520",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2744,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.760228"
+    ],
+    "translation": {
+      "title": {
+        "hash": "35f529e0d2fbf5f5dba84078634a22cbcbbd50eb42a4a1f32ca09a446bd7189c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:40:54.724282+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "50fba0ad96820bac83e483d82851cc3f33a77db0d9768f28d03f0f9cb23600a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:40:54.724282+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "レジオネラIV型分泌系の動態と活性化",
+    "abstract_ja": "Legionella pneumophilaは、Dot/IcmタイプIV分泌システム（T4SS）を用いて数百種類のエフェクタータンパク質を宿主細胞内へ輸送するが、このトランスエンベロープ機構がどのように組み立てられ、分泌能を獲得するのかについては十分に解明されていない。本研究では、クライオ電子トモグラフィーおよびin situ単粒子クライオ電子顕微鏡法を用い、天然型Dot/Icm T4SSの明確な構造的・機能的状態を解明した。予想外にも、T4SSは主に外膜コア複合体を含みつつ、DotAを含む内膜複合体を欠いた静止状態にある。内膜成分の動員により、完全に組み立てられたが分泌不活性なプライミング状態が形成される。in situ再構築と統合したDotO–DotI–DotJ–IcmT複合体の3.6 Åクライオ電子顕微鏡構造解析により、膜関連成分がいかにしてDotOをヘキサマー・ダイマー型ATPaseプラットフォームへと組織化するかが明らかになった。宿主との接触に伴い、T4SSはトランスエンベロープ足場を維持しつつ、広範なコンフォメーションリモデリングを起こす。活性化には、DotG外膜ゲートの拡張と、DotA–IcmXプロトチャネルが細菌表面を超えて延びる開放型輸送コンジットへと変換されることが含まれる。基質関連状態ではさらなるチャネル拡張が認められ、エフェクター輸送に伴う構造的可塑性が明らかになった。マクロファージ感染時には、細胞外コンジットが細菌膜と宿主膜を橋渡しし、エフェクター輸送の直接的な経路を確立する。以上の知見は、Dot/Icm T4SSチャネルの組み立てと活性化の段階的なメカニズムを明らかにするものであり、分泌チャネルの協調的なリモデリングが、静止状態の装置を宿主結合型の輸送機構へと転換させることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2124.v1",
+    "title": "Gene Therapy for Ovarian Cancer: From Bench to Bedside: Overcoming Barriers to Clinical Translation",
+    "abstract": "Gene therapy has emerged as a promising therapeutic strategy for ovarian cancer (OC), with the potential to complement current treatments by targeting mechanisms that sustain residual and treatment-resistant diseases. Recent advances in genome editing, RNA therapeutics, viral and non-viral delivery systems, and engineered immune cell therapies have expanded the investigation landscape. However, despite encouraging preclinical progress, clinical translation remains limited by tumor heterogeneity, incomplete delivery across disseminated lesions, insufficient transgene expression or cellular persistence, immunosuppressive tumor microenvironments, modality-specific safety risks, and, particularly, biological challenges posed by peritoneal metastases (PMs), the dominant manifestation of advanced OC. This critical narrative review examines the molecular context, therapeutic platforms, delivery strategies, and clinical barriers relevant to gene therapy for OC. Particular emphasis is placed on PMs, functional target engagement across heterogeneous lesions, integration with established therapies, and biomarker-guided clinical developments. We also consider the translational requirements for genome editing, RNA therapeutics, viral and non-viral delivery systems, and engineered immune cell therapies. Clinical translation will depend on matching patient and target selection to the delivery platform and route while prospectively defining treatment timing, combination strategies, and pharmacodynamic endpoints.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2124.v1",
+    "date": "2026-10-21",
+    "authors": "Tamura K, Koyanagi T, Takahashi K, Takahashi Y, Taneichi A, Saga Y, Takei Y, Fujiwara H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347542",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2747,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2124.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b2a52fc905e936b9acb7ab4afc57808fa8c8d6518ed5b8331ea94554f5925653",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:40:54.724282+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bf9bcc7f51773533ccd3be350801388c305eb5c47291e956e793a39b228fae80",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:40:54.724282+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "卵巣がんの遺伝子治療：研究室から臨床へ：臨床応用への障壁の克服",
+    "abstract_ja": "遺伝子治療は、卵巣がん（OC）に対する有望な治療戦略として台頭しており、残存病変や治療抵抗性疾患を維持する機序を標的とすることで、現行の治療法を補完できる可能性を秘めている。近年のゲノム編集、RNA治療薬、ウイルス性および非ウイルス性デリバリーシステム、ならびに遺伝子改変免疫細胞療法の進展により、研究の視野が拡大した。しかし、前臨床研究において有望な進展が見られる一方で、臨床応用は、腫瘍の不均一性、播種病変への不完全な送達、トランスジーンの発現不足や細胞内持続性の欠如、免疫抑制的な腫瘍微小環境、モダリティ固有の安全性リスク、そして特に、進行期OCの主要な病変である腹膜転移（PM）がもたらす生物学的課題によって依然として制約を受けている。本クリティカル・ナラティブ・レビューでは、OCに対する遺伝子治療に関連する分子生物学的背景、治療プラットフォーム、デリバリー戦略、および臨床的障壁について検討する。特に、PM、不均一な病変における機能的標的への結合、既存治療との統合、およびバイオマーカー誘導型の臨床開発に重点を置く。また、ゲノム編集、RNA治療薬、ウイルス性および非ウイルス性デリバリーシステム、ならびに遺伝子改変免疫細胞療法に求められるトランスレーショナルな要件についても考察する。臨床応用は、患者および標的の選択をデリバリープラットフォームおよび経路に適合させるとともに、治療時期、併用戦略、および薬力学的エンドポイントを前向きに定義することにかかっている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.26365929",
+    "title": "Adenovirus as a Causative Agent of an Acute Gastroenteritis Outbreak in Salvador, Bahia, Brazil",
+    "abstract": "Introduction  Acute gastroenteritis (AGE) is a cause of childhood morbidity and may be associated with human adenovirus (HAdV) infection. This study aimed to investigate the occurrence of HAdV in fecal samples from children with AGE in Salvador, Bahia, Brazil, as well as to molecularly characterize the identified strains and evaluate their cytopathic effects in cell culture. Methods  A total of 131 samples were analyzed using the nested polymerase chain reaction (Nested-PCR) technique. Molecular characterization was performed through Sanger sequencing and phylogenetic analysis, while Vero cell cultures were used to investigate the occurrence of cytopathic effects. Results  Of the samples analyzed, 13 (9.9%) tested positive for HAdV, while 118 (90.1%) were negative. The highest detection frequency was observed in children aged three years or younger, particularly those under one year of age. Phylogenetic analysis identified variants related to HAdV-F41 and HAdV-B3, revealing genetic differences and distinct clustering patterns compared with reference sequences. In cell culture, cytopathic effects were observed four days after inoculation, although further analyses are required to confirm productive viral replication. Conclusion  These findings demonstrate the presence of HAdV in the samples studied and contribute to understanding its genetic diversity and circulation in Salvador, highlighting the importance of epidemiological surveillance and further studies on its role in the etiology of childhood AGE.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.26365929",
+    "date": "2026-10-21",
+    "authors": "Vidal BP, Neves SO, Santos IP, Sardi SI, Campos GS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347321",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2749,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.26365929"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9137c90927ff3a46bd6e031e704e2d0f2ff2b4e1331dbd719b29badab0e4d7eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:40:54.724282+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c113a38f707ec2e709a59eb96833a78da4326b3b6ff5ef73b7e81797a1ec28b2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:40:54.724282+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブラジル・バイーア州サルバドールにおける急性胃腸炎集団発生の原因ウイルスとしてのアデノウイルス",
+    "abstract_ja": "はじめに  急性胃腸炎（AGE）は小児の罹患原因であり、ヒトアデノウイルス（HAdV）感染に関連している可能性がある。本研究は、ブラジル・バイーア州サルバドールにおけるAGE罹患児の便検体におけるHAdVの検出頻度を調査するとともに、同定された株の分子学的特性解析および細胞培養における細胞傷害性の評価を行うことを目的として実施した。方法  計131検体をネスト型ポリメラーゼ連鎖反応（Nested-PCR）法を用いて解析した。分子学的特性解析はサンガーシーケンシングおよび系統解析により行い、細胞傷害性の検出にはVero細胞培養を用いた。結果  解析した検体のうち、13検体（9.9%）がHAdV陽性であり、118検体（90.1%）が陰性であった。検出頻度が最も高かったのは3歳以下の小児、特に1歳未満の小児であった。系統解析によりHAdV-F41およびHAdV-B3に関連する変異株が同定され、参照配列と比較して遺伝的差異および異なるクラスター形成パターンが認められた。細胞培養では、接種4日後に細胞傷害性が認められたが、ウイルスの増殖を確認するにはさらなる解析が必要である。結論  これらの知見は、調査した検体におけるHAdVの存在を示すとともに、サルバドールにおけるその遺伝的多様性と循環状況の理解に寄与するものであり、疫学的サーベイランスの重要性、および小児AGEの病因における同ウイルスの役割に関するさらなる研究の必要性を浮き彫りにしている。"
   }
 ]
