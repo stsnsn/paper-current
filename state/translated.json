@@ -285253,5 +285253,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Long COVIDにおける運動不耐症の克服に向けたp53–TFAM軸を標的としたアプローチ",
     "abstract_ja": "要旨　世界中で4億人以上のLong COVID患者が慢性疲労および運動後倦怠感（PEM）に苦しんでいるが、運動能力低下の正確な分子的要因は依然として解明されていない。本研究では、SARS-CoV-2の補助因子と運動ストレスが、持続的なEZH2 (H3K27me3) およびPAK2–c-Mycループを形成し、ウイルス活性化型p21活性化キナーゼ2（PAK2）ネットワークを介して宿主の腫瘍抑制因子p53の分解を標的とすることを実証する。下流では、p53の喪失がミトコンドリア転写因子A（TFAM）プロモーターの必須的なトランス活性化を停止させ、ミトコンドリアDNA（mtDNA）コピー数を減少させ、シトクロムcオキシダーゼ（COX）複合体の組み立てを阻害し、H4K12laヒストン乳酸化およびガスデルミンD（GSDMD-N）パイロトーシスとともに、運動能力の約50%の低下を引き起こす。この生体エネルギー的なロックを解消するため、我々は宿主指向性p53/NRF2エピジェネティック・シールドを提案する。p53とNRF2の共活性化は、TFAMプロモーターを強力に再活性化し、TAp73–OPA1内クリステの再構築を促進し、NLRP3インフラマソームをサイレンシングし、100%のATP生成能を回復させることで、ウイルス感染後の運動機能不全に対する決定的な計算論的かつ機序的な治療法を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11227287/v1",
+    "title": "Candida albicans forms azole-resistant liquid-suspension biofilms with distinct characteristics and a potential to aid in dispersal",
+    "abstract": "Abstract    Candida albicans  is a WHO “  critical priority  ” human fungal pathogen for which biofilm formation on the surface of medical devices is associated with bloodstream infections and antifungal drug resistance. Our understanding of  C. albicans  biofilms is based primarily on studies of surface-adhered biofilms, while the full spectrum of biofilm morphologies that  C. albicans  may use to persist in the host remains underexplored. Here we show that  C. albicans  forms liquid-suspension biofilms when faced with a poorly adherent surface, or following prolonged maturation of surface-adhered biofilms which exhausts available surface for attachment.  C. albicans  liquid-suspension biofilms are resistant to the front-line antifungal drug fluconazole and display a complex structure consisting of dense clusters of heterogeneous cell morphologies (hyphal, pseudohyphal and yeast cells) connected to one another through extensive hyphal networks. Liquid-suspension biofilms share transcriptional programs with surface-adhered biofilms and are controlled by the same set of master transcriptional regulators. The transcriptomic profiles of liquid-suspension and surface-adhered biofilms converge over time. Moreover, after transfer to plastic surfaces, liquid-suspension biofilms can seed new surface-adhered biofilm growth. Our study characterises a previously unappreciated suspension biofilm morphology of  C. albicans  , shows that this is a  bona fide  drug-resistant biofilm with regulatory properties shared with canonical surface-adhered biofilms, and demonstrates that  C. albicans  transitions between surface-adhered and liquid-suspension biofilms depending on surface availability. Our findings establish  C. albicans  liquid-suspension biofilms as a distinct biofilm morphology that is functionally tied to surface-adhered biofilms and could serve as an antifungal- and immune-resistant dispersal mechanism.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11227287/v1",
+    "date": "2026-10-20",
+    "authors": "Olivier FA, Renshaw JL, Kraupner-Taylor C, Swaminathan A, Harrison PF, Beilharz TH, Traven A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345862",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungal",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2056,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11227287/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5d3bee5279a29e7c2dd89d57d35ce4a678476e73a4d6808c61c16b23326e3ad2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:33:38.905984+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ab785feafa7b1da33c0551c0a5578c4c7493da46a2e8800c7fa0f7a015dc3c5e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:33:38.905984+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Candida albicansは、特有の性質を持ち、散布を助長する可能性のあるアゾール耐性の液状懸濁バイオフィルムを形成する。",
+    "abstract_ja": "要旨    Candida albicansは、WHOの「最優先事項」に指定されているヒト真菌性病原体であり、医療機器表面におけるバイオフィルム形成は、血流感染症や抗真菌薬耐性との関連が指摘されている。C. albicansのバイオフィルムに関する知見は、主に表面付着型バイオフィルムの研究に基づいているが、C. albicansが宿主内で生存するために利用する可能性のあるバイオフィルム形態の全容については、依然として十分に解明されていない。本研究では、C. albicansが、付着性の低い表面に直面した場合、あるいは表面付着型バイオフィルムが長期間成熟して付着可能な表面領域が枯渇した場合に、液状懸濁バイオフィルムを形成することを示す。C. albicansの液状懸濁バイオフィルムは、第一選択抗真菌薬であるフルコナゾールに耐性を示し、広範な菌糸ネットワークを介して相互に連結した、不均一な細胞形態（菌糸体、擬菌糸体、および酵母細胞）の高密度クラスターからなる複雑な構造を有する。液状懸濁バイオフィルムは、表面付着型バイオフィルムと転写プログラムを共有しており、同一のマスター転写調節因子群によって制御されている。液状懸濁バイオフィルムと表面付着型バイオフィルムのトランスクリプトームプロファイルは、経時的に収束する。さらに、プラスチック表面へ移行した後、液状懸濁バイオフィルムは新たな表面付着型バイオフィルムの増殖の種となり得る。本研究では、これまで認識されていなかったC. albicansの懸濁バイオフィルム形態を特性評価し、これが典型的な表面付着型バイオフィルムと共通の調節特性を持つ真正な薬剤耐性バイオフィルムであることを示し、C. albicansが表面の利用可能性に応じて表面付着型バイオフィルムと液状懸濁バイオフィルムの間で遷移することを実証した。本知見は、C. albicansの液状懸濁バイオフィルムが、表面付着型バイオフィルムと機能的に結びついた独立したバイオフィルム形態であり、抗真菌薬および免疫薬耐性の拡散機構として機能し得ることを明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.1815.v1",
+    "title": "Multiple Protein Isoforms with Isoelectric Point in the Blood pH Physiological Range May Underpin High Virulence and Pathogenicity of SARS-CoV-2 B1617 Strain",
+    "abstract": "Genome sequencing has ushered a new era in modern biology by allowing scientists to investigate the assembled genome for clues on pathogenic potential as well as new and emerging virulent genes in the genome. This work started out with the validation of an in-house MATLAB gene finder software that examined the SARS-CoV-2 B1617 strain assembled genome. Data reveals 70 open reading frames, whose calculated molecular weight and isoelectric point yields a theoretical protein 2D gel electrophoresis pattern with clustering of high molecular weight proteins (i.e., 50 to 300 kDa) within the physiological pH range of 6 to 8. Such results suggest one possible reason for the high virulence of SARS-CoV-2 B1617 strain due probably to the pathogenic effects of the high molecular weight proteins that have isoelectric point in the pH 6 to 8 window. Further observations of clusters of proteins with closely similar number of amino acids in the range of 200 to 300, 1300 to 1400, 1800 to 1900, 1900 to 2000, and 2000 to 2100 prompted the development of another in-house MATLAB multiple sequence alignment software. Results from the alignment reveals that, in each protein cluster, there are one or two more ancient proteins with long N-terminal end that is not present in the modern version of the protein, which share long segment of high sequence conservation with the ancient proteins after the N-terminal end segment. This shows that SARS-CoV-2 B1617 strain may be evolutionary ancient, and relics of ancient proteins are still remnants in the assembled genome of the virus strain. Overall, this work unexpectedly highlights salient features of SARS-CoV-2 B1617 strain as having high molecular weight proteins with isoelectric points in the pH 6 to 8 physiological window, as well as the virus harbouring ancient proteins with unknown pathogenic and virulence potential.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.1815.v1",
+    "date": "2026-10-20",
+    "authors": "Ng W.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345592",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2057,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.1815.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "42aed2b808cc1c9f0b6dac35c48b51d6e0d9f20866378b653cfd011e83f7ee0f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:33:38.905984+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "38d1d9cea29355fdcb36f8cf693242fcac1d9f76fb0199c56725d193bb8c30b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:33:38.905984+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "血中pHの生理的範囲内に等電点を有する複数のタンパク質アイソフォームが、SARS-CoV-2 B1617株の高い病原性と病原性の基盤となっている可能性がある。",
+    "abstract_ja": "ゲノムシーケンシングは、科学者がアセンブルされたゲノムを解析して病原性の可能性に関する手がかりや、ゲノム内に新たに出現した強毒遺伝子を探索することを可能にし、現代生物学に新たな時代を切り拓いた。本研究は、SARS-CoV-2 B1617株のアセンブルされたゲノムを解析する、独自のMATLAB製遺伝子探索ソフトウェアの検証から始まった。データからは70個のオープンリーディングフレームが検出され、それらの計算分子量と等電点から、生理的pH範囲である6～8において、高分子量タンパク質（すなわち50～300 kDa）がクラスターを形成する理論的なタンパク質2次元ゲル電気泳動パターンが得られた。このような結果は、SARS-CoV-2 B1617株の高い病原性の一因として、おそらくpH 6～8の範囲で等電点を持つ高分子量タンパク質の病原性作用が考えられることを示唆している。さらに、アミノ酸数が200～300、1300～1400、1800～1900、1900～2000、および2000～2100の範囲で極めて類似したタンパク質クラスターを観測したことで、別の独自のMATLAB製多重配列アライメントソフトウェアの開発に至った。アライメントの結果、各タンパク質クラスターにおいて、現代のタンパク質には存在しない長いN末端を持つ1～2個のより古いタンパク質が存在し、それらがN末端セグメント以降の長い配列保存性セグメントを古いタンパク質と共有していることが明らかになった。これは、SARS-CoV-2 B1617株が進化的に古い可能性があり、古いタンパク質の遺存体がウイルス株のアセンブルされたゲノム内に依然として残っていることを示している。総じて、本研究は、SARS-CoV-2 B1617株がpH 6～8の生理的範囲で等電点を持つ高分子量タンパク質を有していること、および未知の病原性・強毒性の可能性を持つ古いタンパク質を保有しているという顕著な特徴を、予期せず浮き彫りにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.17.759575",
+    "title": "Structural basis of self-loading by replicative helicases",
+    "abstract": "DNA replication is conserved in all forms of life on earth, from subcellular structures such as viruses to human cells. Here we study a group of virus parasites whose replication is initiated by helicases like those found in simian viruses and eukaryotic cells. The process by which these viral helicases initiate the replication of the DNA remains poorly understood. Here, we show how the helicase binds the parasite’s origin of replication with its carboxy terminal domains (CTDs) adopting flexible and different conformations. The CTD’s flexibility moves the DNA towards the inside of the helicase’s ring and bends the DNA at three discrete positions curving it. Our cryo-EM snapshots show that the helicase deforms the DNA while self-loading onto it as the first stage of the initiation of DNA replication, suggesting that initial melting and self-loading are coupled processes in this type of virus parasites.",
+    "journal": "",
+    "doi": "10.64898/2026.10.17.759575",
+    "date": "2026-10-20",
+    "authors": "Qiao C, Qiao C, Mir-Sanchis I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347421",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2785,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.17.759575"
+    ],
+    "translation": {
+      "title": {
+        "hash": "06110c77c647a1ecb38e1905dabf8c192865ac05f5e33e7da0becee70e18553f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:33:38.905984+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8e5bf2dcf4c3a4e714674dd1642ae9ed74156e0b85e6e0c96676edcba3c6f2cd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:33:38.905984+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "複製ヘリカーゼによる自己負荷の構造的基盤",
+    "abstract_ja": "DNA複製は、ウイルスなどの細胞内構造からヒト細胞に至るまで、地球上のあらゆる生命形態において保存されている。本研究では、サルウイルスや真核細胞に見られるようなヘリカーゼによって複製が開始されるウイルス寄生体群について検討する。これらのウイルスヘリカーゼがDNA複製を開始する過程については、依然として十分に解明されていない。本研究では、ヘリカーゼがそのカルボキシ末端ドメイン（CTD）に柔軟かつ多様な立体構造をとることで、寄生体の複製起点に結合する様子を明らかにする。CTDの柔軟性により、DNAはヘリカーゼのリング内部へと移動し、3つの明確な位置で屈曲して湾曲する。我々のクライオ電子顕微鏡によるスナップショット画像は、DNA複製開始の第一段階として、ヘリカーゼがDNAに自己負荷を行いながらDNAを変形させることを示しており、この種のウイルス寄生体において、初期の融解と自己負荷が連動したプロセスであることが示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.1099/acmi.0.001334.v1",
+    "title": "Planktonic Growth and Biofilm Formation in Pseudomonas aeruginosa under Combined Treatment with Rifampicin and Moringa oleifera Leaf Ethanolic Extract",
+    "abstract": "Biofilm formation by Pseudomonas aeruginosa complicates antimicrobial treatment, particularly in persistent infections, and motivates the assessment of plant-derived antibiotic adjuncts. The influence of Moringa oleifera leaf ethanolic extract on rifampicin responses across planktonic growth and biofilm formation requires concentration-resolved evaluation. Three independent experiments assessed planktonic growth and crystal violet-stained biofilm biomass across ethanolic extract–rifampicin concentration matrices. Conventional PCR screened selected biofilm-associated genes. The ethanolic extract alone yielded 99.33–119.33% planktonic growth relative to controls at 1–64 µg/mL. Rifampicin alone reduced growth to 58.67 ± 1.15% and 6.67 ± 0.58% at 16 and 32 µg/mL, respectively. Adding 16 µg/mL ethanol fraction to 16 µg/mL rifampicin yielded 44.67 ± 30.99% growth, compared with 58.67 ± 1.15% for rifampicin alone. At 32 µg/mL rifampicin, the same fraction addition yielded 16.00 ± 13.00% growth, compared with 6.67 ± 0.58% for rifampicin alone. Biofilm biomass at 16 µg/mL rifampicin was 55.67 ± 67.00%, reaching 70.00 ± 86.88% with ethanol fraction addition. All 49 paired comparisons per assay yielded false-discovery-rate-adjusted q-values above 0.05. PCR detected pelA, pslA, pslD, pqsA, lasR, and ndvB. The concentration matrices revealed distinct planktonic growth and biofilm biomass responses. These findings position complementary planktonic and biofilm measurements as essential criteria for assessing plant–antibiotic combinations, providing concentration-specific evidence to guide formulation screening and antimicrobial candidate prioritization.",
+    "journal": "",
+    "doi": "10.1099/acmi.0.001334.v1",
+    "date": "2026-10-20",
+    "authors": "Hapsari BK, Natzir R, Sultan AR, Syamsuri F, Astuti I, Bahar B, Aswad M, Hatta M.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347167",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2787,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/acmi.0.001334.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "369260b465435f7fada7c3c8db659c10fc0b603eb2693943d419e43b2a1f4de4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:33:38.905984+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ecc18f11dabb9b8293481397c523170e76955b1d223eae90e116f5d9744d587c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:33:38.905984+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リファンピシンとモリンガ・オレイフェラ葉精油の併用処理下におけるPseudomonas aeruginosaのプランクトン増殖とバイオフィルム形成",
+    "abstract_ja": "Pseudomonas aeruginosaによるバイオフィルム形成は、特に持続性感染症において抗菌薬治療を困難にするため、植物由来の抗菌薬アジュバントの評価が求められている。プランクトン増殖およびバイオフィルム形成におけるリファンピシン応答に対するMoringa oleifera葉のエタノール抽出物の影響については、濃度分解能を用いた評価が必要である。3つの独立した実験により、エタノール抽出物－リファンピシン濃度マトリックスにおけるプランクトン増殖およびクリスタルバイオレット染色バイオフィルムバイオマスを評価した。従来のPCR法を用いて、バイオフィルム関連遺伝子の選定スクリーニングを行った。エタノール抽出物単独では、1～64 µg/mLの条件下で、対照群と比較して99.33～119.33%のプランクトン増殖が認められた。リファンピシン単独では、増殖率は16および32 µg/mLにおいてそれぞれ58.67 ± 1.15%および6.67 ± 0.58%に低下した。16 µg/mLのリファンピシンに16 µg/mLのエタノール画分を添加したところ、増殖率は44.67 ± 30.99%となり、リファンピシン単独の58.67 ± 1.15%と比較して高い値を示した。32 µg/mLのリファンピシンにおいて、同様の画分添加による増殖率は16.00 ± 13.00%となり、リファンピシン単独の6.67 ± 0.58%と比較して高い値を示した。16 µg/mLのリファンピシンにおけるバイオフィルムバイオマスは55.67 ± 67.00%であり、エタノール画分の添加により70.00 ± 86.88%に達した。各アッセイにおける全49組の比較において、偽発見率調整後のq値は0.05を超えた。PCR法により、pelA、pslA、pslD、pqsA、lasR、およびndvBが検出された。濃度マトリックスからは、プランクトン増殖およびバイオフィルムバイオマスに対する明確な応答が認められた。これらの知見は、プランクトンおよびバイオフィルムの相補的な測定を、植物－抗菌薬併用の評価における不可欠な基準として位置づけるものであり、製剤スクリーニングおよび抗菌薬候補の優先順位付けを導くための濃度特異的なエビデンスを提供するものである。"
   }
 ]
