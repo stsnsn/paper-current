@@ -268925,5 +268925,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "リティックファージは、適応ストレス耐性を阻害することで、層状耐性を有する大腸菌においてアズトレオナム・アビバクタムを増強する。",
     "abstract_ja": "要旨    ファージと抗菌薬の相乗効果（PAS）は細菌の殺菌能を高め得るが、共曝露時に耐性菌を脆弱化させる生理学的状態については十分に解明されていない。我々は、PBP3/FtsI挿入およびフレームシフト型ompFを有する臨床的なNDM-5産生大腸菌分離株に対し、溶菌性ファージEC10P1とアズトレオナム・アビバクタム（ATM–AVI）を併用投与した。タイムキルアッセイの結果、EC10P1とサブMIC用量のATM–AVIの併用により、4～6時間の明確な最大殺菌ウィンドウが認められ、ATM–AVI単独投与と比較して約4 log⁻¹の減少を達成した。また、等温マイクロカロリメトリーの結果は、単剤療法では観察されなかった、併用条件下での持続的な代謝抑制と一致していた。相互作用ベースのモデルを用いて1時間、4時間、および24時間後に時間分解mRNAシーケンシングを行ったところ、非相加的な応答が4時間目の殺菌相に集中していることが明らかになった。相互作用によって定義された応答は4時間目の殺菌相に集中しており、共曝露中に代替的な呼吸、タンパク質安定化、および酸化還元緩衝プログラムの誘導が減弱していた。対照的に、主要なポリンおよびmar/acr応答は主にファージ駆動型または相加的であり、増強が正準的な薬物流入の転写的回復や中心的な流出経路の抑制に起因するという証拠は得られなかった。以上のデータは、単一の耐性決定因子の逆転ではなく、ストレス緩衝能の低下を介した一過性の機能的再感作を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760156",
+    "title": "The physical state of the nucleus tracks its function across eukaryotes",
+    "abstract": "The nucleus is consistently less dense than the surrounding cytoplasm, a difference proposed to arise from selective nuclear import. The functional significance of low nuclear density, however, remains unknown. Because density is a bulk property of the cell, acute perturbations inevitably have pleiotropic consequences. We therefore turned to the natural experiments offered by the tree of life where nuclei vary in genome size, chromatin organisation, import selectivity and transcriptional state, and asked whether low nuclear density is tied to particular nuclear architectures or functions. Using dinoflagellates, Giardia and ciliates, we show nuclear density is uncoupled from genome size. In ciliates, two nuclei in one cytoplasm reach opposite densities relative to it, governed by nuclear import rather than transcription. We thus conform nuclear import as a major determinant of nuclear density and reveal nuclei that break the low-density rule.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760156",
+    "date": "2026-10-22",
+    "authors": "Pleitner M, Biswas A, Uhlich J, Reber S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349321",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "dinoflagellate"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1951,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760156"
+    ],
+    "translation": {
+      "title": {
+        "hash": "21e21d444dbb7bb7e0fddc3038cb1a23019202a889eb8ea1669dac190fc71013",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:55:09.495160+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "53fe108f28cc44cf1ade006f08915ec6edf774f38f698e79b8aa848041e89cc3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:55:09.495160+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "核の物理的状態は、真核生物全般にわたってその機能を反映している。",
+    "abstract_ja": "核は一貫して周囲の細胞質よりも密度が低く、この差異は選択的な核内取り込みに起因すると提唱されている。しかし、核密度の低さが持つ機能的な意義は依然として不明である。密度は細胞のバルク特性であるため、急激な摂動は必然的に多面的な影響を及ぼす。そこで我々は、ゲノムサイズ、クロマチン構造、取り込み選択性、および転写状態において核が異なる「生命の樹」が提供する自然実験に着目し、核密度の低さが特定の核構造や機能に結びついているのかを検証した。渦鞭毛藻、ジアルジア、および繊毛虫を用いて、核密度がゲノムサイズから独立していることを示す。繊毛虫では、一つの細胞質内にある二つの核が、転写ではなく核内取り込みによって制御され、互いに相反する密度に達する。したがって、我々は核内取り込みを核密度の主要な決定要因として位置づけ、低密度則に反する核を明らかにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.17.759705",
+    "title": "A reproductive hierarchy controls mating fates among sibling yeast gametes",
+    "abstract": "Mating strategies shape inbreeding, gene flow and genetic diversity, yet their outcomes remain challenging to quantify. In  Saccharomyces , population-genomic models predict mating predominantly between sibling meiotic products, with rare selfing and outcrossing. Here we developed an integrated framework combining multicolor flow cytometry, time-resolved imaging and mathematical modelling to directly quantify mating across scales. Bulk measurements revealed coexisting strategies whose frequencies vary with density, genotype and environment. A minimal stochastic model uses these population-level patterns to infer probabilistic hierarchies among mating modes, which single-tetrad analyses independently support. These reveal divergent and interdependent reproductive trajectories among sibling gametes, with one pair typically mating first and reshaping opportunities for the others. Temporal heterogeneity in germination and mating further diversifies reproductive outcomes and shapes compatibility, as experimental synchronization overcomes temporal reproductive barriers, enabling hybridization. Together, reproductive strategy emerges from heterogeneous gamete fates, raising the possibility that sibling diversification constitutes reproductive bet-hedging.",
+    "journal": "",
+    "doi": "10.64898/2026.10.17.759705",
+    "date": "2026-10-22",
+    "authors": "Vischioni C, Barré BP, Vittorelli N, De Chiara M, Pompei S, Vulin C, Luneau JS, Tomasiak K, Tellini N, Laugier S, Khaiwal S, Mitri S, Llorente B, Cosentino Lagomarsino M, Fischer G, Liti G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349313",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1952,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.17.759705"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bca40e7c930f9a1e5d5ca966a5efafec54095e8e814a3a978a6df7491be8f8aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:55:09.495160+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a10df871b493752917e5ce5d48e3dc5fd069f9eea1f8601d0b5525457d4a73cf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:55:09.495160+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生殖階層が酵母の兄弟姉妹配偶子間の交配運命を制御する",
+    "abstract_ja": "交配戦略は近親交配、遺伝子流動、および遺伝的多様性を規定するが、その結果を定量化することは依然として困難である。Saccharomyces属において、集団ゲノムモデルは、主に姉妹個体間の減数分裂産物間で交配が行われ、自己交配や他家交配は稀であると予測している。本研究では、多色フローサイトメトリー、時間分解イメージング、および数理モデリングを組み合わせた統合的フレームワークを開発し、スケールを横断して交配を直接的に定量化した。バルク測定の結果、密度、遺伝子型、および環境に応じて頻度が変化する共存戦略が明らかになった。最小限の確率モデルを用いてこれらの集団レベルのパターンから交配様式間の確率的階層を推定したところ、単一四分子解析によってもこれが独立して支持された。これらの解析により、姉妹配偶子間で発散的かつ相互依存的な生殖軌跡が明らかになり、通常はある一対が先に交配することで、他の配偶子にとっての機会が再形成されることが示された。発芽および交配における時間的不均一性は、生殖結果をさらに多様化させ、適合性を規定する。実験的な同期によって時間的な生殖障壁が克服され、交雑が可能になるためである。総じて、生殖戦略は不均一な配偶子の運命から生じており、姉妹個体間の多様化が生殖上のリスクヘッジ（bet-hedging）を構成する可能性が示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.16.759592",
+    "title": "Genotype imputation improves GWAS resolution and facilitates candidate gene identification in pearl millet",
+    "abstract": "Pearl millet (  Cenchrus americanus ; syn.  Pennisetum glaucum (L.) R. Br.) is an important cereal crop mainly grown in semi-arid areas. However, in pearl millet, genes underlying many agronomic traits remain unknown. Our previous genome-wide association study (GWAS) was based primarily on genotype data derived from restriction site-associated DNA sequencing (RAD-seq), which contained a high proportion of missing genotypes and may have limited mapping resolution. To address this limitation, we used whole-genome sequencing (WGS)-derived genotype data from 21 elite lines as a reference panel to impute missing genotypes in the RAD-seq-derived dataset. Genotype imputation reduced the proportion of missing genotypes from 82.42% to 0% and increased the mean density of non-missing genotypes from 569.61 to 1,158.09 genotypes/Mb. Leave-one-out validation yielded a mean genotype concordance of 89.9 ± 4.6%. GWAS using the imputed dataset showed more localized association signals for several traits. Homologs of rice  SHORT INTERNODES1 , Arabidopsis  FLOWERING LOCUS Y , and rice  EPIDERMAL PATTERNING FACTOR 2 were identified as candidates for genes regulating culm height, days to panicle emergence, and awn growth, respectively. These results demonstrate that reference-panel-based genotype imputation can increase the utility of reduced-representation genotype datasets and facilitate candidate gene identification in pearl millet.  Key message  Imputation of missing genotypes in RAD-seq-derived genotype data using a WGS-derived reference panel improved GWAS resolution and facilitated candidate gene identification for agronomic traits in pearl millet.",
+    "journal": "",
+    "doi": "10.64898/2026.10.16.759592",
+    "date": "2026-10-22",
+    "authors": "Kambara K, Gupta SK, Tsugama D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348400",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "imputation"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1962,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.16.759592"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ca74e29122f403726199ea66299c1a4cd578849bceb2d137f1377c0ef04ff36c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:55:09.495160+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "787b2baaf7be38c1071254097614d848655f73f03d0171867ff801c0aa5f8865",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:55:09.495160+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝子型補完はパールミレットにおけるGWASの解像度を向上させ、候補遺伝子の同定を容易にする。",
+    "abstract_ja": "パールミレット（Cenchrus americanus；シノニム：Pennisetum glaucum (L.) R. Br.）は、主に半乾燥地域で栽培されている重要な穀物作物である。しかし、パールミレットにおいては、多くの農学的形質の基盤となる遺伝子が依然として不明である。我々の先行するゲノムワイド関連解析（GWAS）は、主に制限酵素部位関連DNAシーケンシング（RAD-seq）から得られた遺伝子型データに基づいており、このデータには欠損遺伝子型の割合が高く、マッピング解像度が限定的であった可能性がある。この限界に対処するため、我々は21系統のエリート系統から得られた全ゲノムシーケンシング（WGS）由来の遺伝子型データをリファレンスパネルとして用い、RAD-seq由来データセットにおける欠損遺伝子型を補完した。遺伝子型の補完により、欠損遺伝子型の割合は82.42%から0%に減少し、非欠損遺伝子型の平均密度は569.61から1,158.09遺伝子型/Mbに増加した。Leave-one-out検証により、平均遺伝子型一致度は89.9 ± 4.6%となった。補完済みデータセットを用いたGWASでは、いくつかの形質においてより局所的な関連シグナルが認められた。イネのSHORT INTERNODES1、シロイヌナズナのFLOWERING LOCUS Y、およびイネのEPIDERMAL PATTERNING FACTOR 2のホモログが、それぞれ稈高、穂出日数、および芒の成長を制御する遺伝子候補として同定された。これらの結果は、リファレンスパネルに基づく遺伝子型補完が、低代表性遺伝子型データセットの有用性を高め、パールミレットにおける候補遺伝子の同定を容易にし得ることを示している。  Key message  WGS由来のリファレンスパネルを用いてRAD-seq由来の遺伝子型データの欠損遺伝子型を補完したことで、GWASの解像度が向上し、パールミレットの農学的形質における候補遺伝子の同定が容易になった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.1099/acmi.0.001026.v2",
+    "title": "A 3D printed magnetic puzzle game to demonstrate viral infection and virucidal antivirals",
+    "abstract": "Viruses are the most abundant microorganism on the planet, outnumbering all others combined. Viruses can cause significant global problems to both health and the economy. Understanding viral infection life cycles and interventions against viruses have become a global focus, following recent pandemics. Being able to simply explain this complex process to a wide and general audience is of paramount importance. Here we have developed a magnetic puzzle game that through a timed assembly competition excites students and audiences and engages them while they learn about virus infection and antiviral interventions. The ’hands-on’ nature, alongside the competitive aspect, resulted in the activity being well received across a wide range of ages (from pre-school to adults).",
+    "journal": "",
+    "doi": "10.1099/acmi.0.001026.v2",
+    "date": "2026-10-22",
+    "authors": "Bagley RHT, Super EH, Macleod S, Batt LJ, Monteil S, Bhebhe LM, Wang S, Saunders R, Wallwork A, Jones S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348303",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microorganism",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1964,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/acmi.0.001026.v2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c2646117f9475d0265b288263bbeba23a392a75c20ca77c77622fcae40a97be9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:55:09.495160+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "57a331a90612c6112c9fbe6d93144b91f8db6f5537a0d5916f30477e222973d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:55:09.495160+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウイルス感染とウイルス殺滅性抗ウイルス薬を実証する3Dプリント製磁気パズルゲーム",
+    "abstract_ja": "ウイルスは地球上で最も数多く存在する微生物であり、他のあらゆる微生物を合わせた数をも上回っている。ウイルスは、保健と経済の両面において、世界的に重大な問題を引き起こす可能性がある。近年のパンデミックを受け、ウイルス感染のライフサイクルやウイルスに対する対策への理解が、世界的な関心事となっている。この複雑なプロセスを、幅広い一般層に分かりやすく説明できることは極めて重要である。そこで我々は、制限時間付きの組み立て競技を通じて、生徒や観客を刺激し、ウイルス感染や抗ウイルス対策について学びながら参加を促すマグネットパズルゲームを開発した。この「体験型」の性質と競争要素が相まって、本アクティビティは幅広い年齢層（未就学児から成人まで）から好評を得た。"
   }
 ]
