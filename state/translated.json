@@ -255028,22 +255028,27 @@
         "source": "Europe PMC bioinformatics",
         "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "scope": "candidate"
+      },
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
       }
     ],
     "publication_types": [
       "journal article"
     ],
     "id": "10.1093/bib/bbag633",
-    "title": "GLAlign integrates single-cell multi-omics data via global manifold and local marker gene alignment.",
+    "title": "GLAlign integrates single-cell multi-omics data via global manifold and local marker gene alignment",
     "abstract": "Integrating heterogeneous single-cell multi-omics datasets remains challenging because different modalities are measured in distinct feature spaces and lack cell level pairing. Existing manifold alignment or feature conversion framework are often affected by weak cross-modality associations, geometric ambiguity, and overcorrection. Here we present GLAlign (Global manifold and Local marker gene Alignment), an optimization framework that jointly leverages global manifold structure and local marker gene information to integrate single-cell multi-omics data. GLAlign learns a shared latent space through a global objective comprising maximum mean discrepancy, distortion, and penalty terms, together with a local contrastive triplet loss guided by cross-modality marker gene overlap between independently inferred clusters. We demonstrate GLAlign's methodological contribution in extending the manifold alignment by biologically informed prior to ensure geometrically plausible and biologically correct alignments without requiring paired cells or manual cell type annotations. We evaluated GLAlign on simulated data and real datasets spanning PBMC scRNA-seq/scATAC-seq, mouse brain SNARE-seq, single-donor and multi-batch CITE-seq, and NCI-N87 scDNA-seq/scRNA-seq integration. Across the evaluated datasets, GLAlign achieved strong modality mixing and biological conservation, remained stable under moderate cell type imbalance and variations in clustering and marker information, and supported cross-modality label transfer and paired cell recovery. These results demonstrate that biologically structured coupling of global and local alignment provides an interpretable framework for heterogeneous single-cell multi-omics integration. GLAlign is freely available at https://github.com/Bateer-Bio/GLAlign.",
     "journal": "Briefings in Bioinformatics",
     "doi": "10.1093/bib/bbag633",
-    "date": "2026-11-01",
+    "date": "2026-11-13",
     "authors": "Ba T, Hu M, Liu S, Zhang L, Chai L, Li Z, Gao C, Wang Y.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://europepmc.org/article/MED/43021602",
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag633/9040810?rss=1",
     "preprint": false,
     "review": false,
     "pmcid": "",
@@ -255074,29 +255079,30 @@
     "collected_at": "2026-11-15T22:48:00.544010+00:00",
     "collected_date": "2026-11-16",
     "sources": [
-      "Europe PMC bioinformatics"
+      "Europe PMC bioinformatics",
+      "https://academic.oup.com/rss/site_5143/3005.xml"
     ],
     "first_seen": "2026-11-15",
     "related_dois": [
       "10.1093/bib/bbag633"
     ],
     "translation": {
-      "title": {
-        "hash": "4a979769f28ecf0dd387d0e1b097c164a9d4991a6cea26dd79ca87bdd3e6bc23",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-15T23:19:37.666984+00:00",
-        "format": "pfml3-ja-v1"
-      },
       "abstract": {
         "hash": "e2a5dd6a098db3c5c3572767c38b71acf33a09b755b4a270a125e18bb9261400",
         "model": "plamo-3-translate-2b",
         "date": "2026-11-15T23:19:37.666984+00:00",
         "format": "pfml3-ja-v1"
+      },
+      "title": {
+        "hash": "f77239c470f55c6753ddacd8c4276eaa482ca480019271bfb6cfb7fdbdb3953f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:19:19.043415+00:00",
+        "format": "pfml3-ja-v1"
       }
     },
+    "abstract_ja": "異種シングルセルマルチオミクスデータセットの統合は、異なるモダリティがそれぞれ異なる特徴空間で測定されており、細胞レベルのペアリングが欠如しているため、依然として困難な課題である。既存のマニフォールドアライメントや特徴量変換フレームワークは、多くの場合、弱いクロスモダリティ間の関連性、幾何学的な曖昧性、および過剰補正の影響を受けやすい。本研究では、グローバルマニフォールド構造とローカルマーカー遺伝子情報を同時に活用してシングルセルマルチオミクスデータを統合する最適化フレームワーク、GLAlign（Global manifold and Local marker gene Alignment）を提案する。GLAlignは、最大平均不一致量、歪み量、およびペナルティ項からなるグローバル目的関数と、独立して推定されたクラスター間のクロスモダリティマーカー遺伝子の重複に基づくローカル対照トリプレット損失を通じて、共有潜在空間を学習する。我々は、ペアセルや手動による細胞種アノテーションを必要とせず、生物学的に妥当かつ生物学的に正しいアライメントを確保するために、生物学的知見に基づく事前知識を用いてマニフォールドアライメントを拡張するという、GLAlignの方法論的な貢献を実証する。我々は、PBMC scRNA-seq/scATAC-seq、マウス脳SNARE-seq、シングルドナーおよびマルチバッチCITE-seq、ならびにNCI-N87 scDNA-seq/scRNA-seq統合にわたるシミュレーションデータおよび実データセットを用いてGLAlignを評価した。評価したデータセット全体において、GLAlignは強力なモダリティ混合と生物学的保存性を達成し、中程度の細胞種不均衡やクラスタリングおよびマーカー情報の変動下でも安定しており、クロスモダリティラベル転送およびペアセルの復元をサポートした。これらの結果は、グローバルアライメントとローカルアライメントの生物学的に構造化された結合が、異種シングルセルマルチオミクス統合のための解釈可能なフレームワークを提供することを示している。GLAlignは、https://github.com/Bateer-Bio/GLAlign で無償で利用可能である。",
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "GLAlignは、グローバルマニフォールドと局所マーカー遺伝子アライメントにより、シングルセルマルチオミクスデータを統合する。",
-    "abstract_ja": "異種シングルセルマルチオミクスデータセットの統合は、異なるモダリティがそれぞれ異なる特徴空間で測定されており、細胞レベルのペアリングが欠如しているため、依然として困難な課題である。既存のマニフォールドアライメントや特徴量変換フレームワークは、多くの場合、弱いクロスモダリティ間の関連性、幾何学的な曖昧性、および過剰補正の影響を受けやすい。本研究では、グローバルマニフォールド構造とローカルマーカー遺伝子情報を同時に活用してシングルセルマルチオミクスデータを統合する最適化フレームワーク、GLAlign（Global manifold and Local marker gene Alignment）を提案する。GLAlignは、最大平均不一致量、歪み量、およびペナルティ項からなるグローバル目的関数と、独立して推定されたクラスター間のクロスモダリティマーカー遺伝子の重複に基づくローカル対照トリプレット損失を通じて、共有潜在空間を学習する。我々は、ペアセルや手動による細胞種アノテーションを必要とせず、生物学的に妥当かつ生物学的に正しいアライメントを確保するために、生物学的知見に基づく事前知識を用いてマニフォールドアライメントを拡張するという、GLAlignの方法論的な貢献を実証する。我々は、PBMC scRNA-seq/scATAC-seq、マウス脳SNARE-seq、シングルドナーおよびマルチバッチCITE-seq、ならびにNCI-N87 scDNA-seq/scRNA-seq統合にわたるシミュレーションデータおよび実データセットを用いてGLAlignを評価した。評価したデータセット全体において、GLAlignは強力なモダリティ混合と生物学的保存性を達成し、中程度の細胞種不均衡やクラスタリングおよびマーカー情報の変動下でも安定しており、クロスモダリティラベル転送およびペアセルの復元をサポートした。これらの結果は、グローバルアライメントとローカルアライメントの生物学的に構造化された結合が、異種シングルセルマルチオミクス統合のための解釈可能なフレームワークを提供することを示している。GLAlignは、https://github.com/Bateer-Bio/GLAlign で無償で利用可能である。"
+    "title_ja": "GLAlignは、グローバルマニフォールドと局所マーカー遺伝子アライメントを介して、シングルセルマルチオミクスデータを統合する。"
   },
   {
     "discovery": [
@@ -263333,5 +263339,231 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "空間トランスクリプトミクスにおけるセグメンテーション手法のベンチマーク評価",
     "abstract_ja": "細胞セグメンテーションは、空間トランスクリプトミクスにおいて極めて重要でありながら標準化が進んでいない工程であり、細胞の同定、空間的構成、および後続の生物学的解釈に直接的な影響を及ぼす。空間トランスクリプトミクス技術は急速に発展しているものの、プラットフォームや生物学的コンテキストを横断したセグメンテーション手法の体系的な評価は依然として限られている。本研究では、12種類のヒトおよびマウス組織を網羅する5つの空間トランスクリプトミクス技術によって生成された15のデータセットを用い、画像ベース、トランスクリプトミクスベース、およびマルチモーダルな11種類のセグメンテーション手法のベンチマーク評価を行った。我々は、セグメンテーションの品質、トランスクリプトの回収率、細胞組成、形態、発現純度、および空間的構成を定量化する、生物学的知見に基づいた評価指標を導入した。ベンチマーク評価の結果、データセット、技術、および評価基準によって性能に著しいばらつきがあることが明らかになり、セグメンテーションの網羅性、トランスクリプトミクスの忠実度、および生物学的解釈可能性の間のトレードオフが浮き彫りとなった。さらに、技術横断的な解析により、セグメンテーションの選択が、細胞種特異性、トランスクリプトのコンタミネーション、およびリガンド・受容体の推論を含む後続の解析に決定的な影響を与えることが示された。総じて、我々の統合的なNextflowパイプラインは、空間トランスクリプトミクスにおけるセグメンテーションの標準化評価および手法選択のための、スケーラブルな基盤を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1038/s41592-026-03262-z",
+    "title": "OpenDVP: an experimental and computational framework for community-empowered deep visual proteomics.",
+    "abstract": "Deep visual proteomics (DVP) is an emerging approach for cell-type-specific and spatially resolved proteomics. However, its broad adoption has been constrained by the lack of an open-source end-to-end workflow within a community-driven ecosystem. Here we introduce openDVP, an experimental and computational framework for accessible and scalable DVP. OpenDVP combines open-source image analysis tools (MCMICRO, QuPath and napari) with scverse formats (AnnData and SpatialData) for multiomics integration. It provides two workflows: a fast-track pipeline requiring no image analysis expertise, and an artificial intelligence-powered pipeline incorporating state-of-the-art methods for image preprocessing, segmentation and spatial analysis. We apply openDVP across three archival tissue studies (human placenta, early stage lung cancer and locally relapsed breast cancer), integrating spatial single-cell phenotypes with exploratory proteomic measurements. Finally, we introduce deep proteomic profiling of cellular neighborhoods as a scalable approach for spatial discovery proteomics.",
+    "journal": "Nature Methods",
+    "doi": "10.1038/s41592-026-03262-z",
+    "date": "2026-10-22",
+    "authors": "Nimo J, Fritzsche S, Valdes DS, Trinh M, Pentimalli T, Klingeberg M, Schallenberg S, Klauschen F, Herse F, Florian S, Rajewsky N, Coscia F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42918851",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736673",
+    "pmid": "42918851",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "proteomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4837,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41592-026-03262-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3ac74b712c2f5858ce68523d601714cce9dc3e78f489453365c6c63b73b31c11",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:19:19.043415+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a9079af973c21d3c4a03bbad2157278ad1f67f5d01f8f6623ef649dace949175",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:19:19.043415+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "OpenDVP：コミュニティ主導の深層ビジュアルプロテオミクスのための実験的・計算的フレームワーク。",
+    "abstract_ja": "深層ビジュアルプロテオミクス（DVP）は、細胞種特異的かつ空間的に分解能の高いプロテオミクスを実現する新たなアプローチである。しかし、その広範な普及は、コミュニティ主導のエコシステムにおけるオープンソースのエンドツーエンド・ワークフローの欠如によって制約されてきた。本研究では、アクセシビリティとスケーラビリティを備えたDVPのための実験的・計算的フレームワークであるopenDVPを提案する。openDVPは、オープンソースの画像解析ツール（MCMICRO、QuPath、napari）と、マルチオミクス統合のためのscverseフォーマット（AnnDataおよびSpatialData）を組み合わせたものである。本フレームワークは、画像解析の専門知識を必要としないファストトラック・パイプラインと、画像前処理、セグメンテーション、および空間解析における最先端の手法を組み込んだ人工知能駆動型パイプラインという2つのワークフローを提供する。我々は、3つのアーカイブ組織研究（ヒト胎盤、早期肺がん、および局所再発乳がん）にopenDVPを適用し、空間的なシングルセル表現型と探索的プロテオミクス測定を統合した。最後に、空間的探索プロテオミクスのスケーラブルなアプローチとして、細胞近傍領域の深層プロテオミクスプロファイリングを提案する。"
+  },
+  {
+    "id": "10.1093/bib/bbag539",
+    "title": "HGMetaADR: a multimodal heterogeneous graph meta-learning framework for generalized adverse drug reaction prediction",
+    "abstract": "AbstractEarly identification of adverse drug reactions (ADRs), which refer to harmful or unintended responses to medications taken at normal doses, is crucial for reducing clinical trial failures and associated economic costs. However, existing ADR datasets often exhibit a long-tailed label distribution and lack sufficient training examples for rare side effects, making it difficult for vanilla supervised learning models to generalize to underrepresented classes. To address these issues, we propose HGMetaADR, a novel heterogeneous graph-based meta-learning framework for ADR prediction. Built upon a multimodal biomedical knowledge graph, this approach integrates complementary drug-related data, including molecular structures, protein sequences, side effects, and therapeutic indications. It employs a hierarchical attention mechanism to capture semantic dependencies across heterogeneous entities and adopts a model-agnostic meta-learning strategy to enhance adaptation to small-sample classes. We evaluate HGMetaADR under three scenarios—few-shot, zero-shot, and majority—to simulate real-world conditions. Extensive experiments demonstrate that HGMetaADR consistently outperforms state-of-the-art baselines. Furthermore, ablation studies and pathway enrichment analyses reveal the underlying biological mechanisms linking protein targets, therapeutic indications, and side effects, thereby validating the effectiveness of incorporating heterogeneous biomedical knowledge into ADR modeling.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag539",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag539/9040819?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4878,
+    "collected_at": "2026-11-16T02:54:27.866824+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://academic.oup.com/rss/site_5143/3005.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bib/bbag539"
+    ],
+    "translation": {
+      "title": {
+        "hash": "be461cb824f4170cb19f67937372b46dd25319aabe451c60d4816a9f70895179",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:19:19.043415+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "64d6e2126a153da30f1716b26a9fc8d1cbd06f2e6ef6583a8dea404961a7b802",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:19:19.043415+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HGMetaADR: 一般化された薬物有害反応予測のためのマルチモーダル異種グラフメタ学習フレームワーク",
+    "abstract_ja": "要旨 通常用量で投与された薬剤に対する有害または意図しない反応を指す薬物有害反応（ADR）の早期同定は、臨床試験の失敗およびそれに伴う経済的コストを削減する上で極めて重要である。しかし、既存のADRデータセットはラベル分布がロングテールであることが多く、稀な副作用に対する十分な訓練事例が不足しているため、標準的な教師あり学習モデルでは代表性の低いクラスへの汎化が困難である。これらの課題に対処するため、我々はADR予測のための新たなヘテロジニアスグラフベースのメタ学習フレームワークであるHGMetaADRを提案する。マルチモーダル生物医学知識グラフを基盤とする本手法は、分子構造、タンパク質配列、副作用、および治療適応症を含む、相補的な薬剤関連データを統合する。また、階層的アテンション機構を用いてヘテロジニアスなエンティティ間の意味的依存関係を捉え、モデル非依存型のメタ学習戦略を採用することで、小標本クラスへの適応性を高めている。実世界の条件をシミュレートするため、few-shot、zero-shot、およびmajorityの3つのシナリオでHGMetaADRを評価した。広範な実験により、HGMetaADRが最先端のベースラインを一貫して上回ることが実証された。さらに、アブレーションスタディおよびパスウェイエンリッチメント解析により、タンパク質標的、治療適応症、および副作用を結びつける根底にある生物学的メカニズムが明らかになり、ヘテロジニアスな生物医学知識をADRモデリングに組み込むことの有効性が検証された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.09.26367632",
+    "title": "Exploring Data Augmentation for Stroke Severity Prediction: How Generative AI Enhances EEG Signal Classification",
+    "abstract": "In clinical datasets, data augmentation is often avoided because it can remove important unusual values, known as outliers, which are important for understanding diseases accurately. However, clinical EEG datasets often suffer from two key limitations: small sample sizes and class imbalance, which significantly reduce classification performance. To over-come these challenges, this study applies generative AI-based data augmentation techniques with a carefully designed hybrid pipeline that effectively enhances performance even on limited EEG data. Using EEG signals from 50 brain stroke patients [1], we investigate both traditional oversampling methods (SMOTE and ADASYN [2]) and advanced generative models, including WGAN and WGAN-GP. Our proposed pipeline involves pre-processing EEG recordings, extracting comprehensive statistical and frequency-domain features, applying feature reduction, and evaluating multiple machine learning classifiers. Experimental results show that the combination of SelectKBest feature selection, SVM classifier, and WGAN-GP augmentation achieves the highest classification accuracy of 72%, outperforming other methods. This work introduces a novel hybrid approach for EEG-based stroke severity classification, demonstrating that generative augmentation, when integrated properly, can significantly improve performance on small clinical datasets. To the best of our knowledge, this combination of techniques has not been explored before on any dataset, providing a solid foundation for future research in automated EEG-based stroke diagnosis.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.26367632",
+    "date": "2026-11-10",
+    "authors": "Sarkar MSS, Saon MTH, Basak S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1364923",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "classification",
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "classification",
+          "gene",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4870,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.09.26367632"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f2a259fdccb704b546ac3277147c6069960bccd0bcf272cf56fd382d597fccd5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:19:19.043415+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "184f2f77cec57b7571ae08dc5e9d4391b73f8148af0e77837b9b2b9bdcc48c61",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:19:19.043415+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "脳卒中重症度予測に向けたデータ拡張の検討：生成AIによるEEG信号分類の高度化",
+    "abstract_ja": "臨床データセットにおいて、データ拡張は、疾患を正確に理解する上で重要な「外れ値」と呼ばれる異常な値を除去してしまう可能性があるため、しばしば避けられる。しかし、臨床EEGデータセットには、サンプルサイズの小ささやクラス不均衡という2つの主要な制約があり、これらが分類性能を著しく低下させる。これらの課題を克服するため、本研究では、限定的なEEGデータにおいても効果的に性能を向上させる、綿密に設計されたハイブリッドパイプラインを用いて、生成AIベースのデータ拡張手法を適用する。脳卒中患者50名[1]のEEG信号を用い、従来のオーバーサンプリング手法（SMOTEおよびADASYN [2]）と、WGANおよびWGAN-GPを含む高度な生成モデルの双方を検証する。提案するパイプラインでは、EEG記録の前処理、包括的な統計的特徴量および周波数領域特徴量の抽出、特徴量削減の適用、および複数の機械学習分類器の評価を行う。実験結果から、SelectKBest特徴量選択、SVM分類器、およびWGAN-GP拡張を組み合わせた手法が、他の手法を上回る72%という最高の分類精度を達成したことが示された。本研究は、EEGに基づく脳卒中重症度分類のための新たなハイブリッドアプローチを提示し、生成的拡張を適切に統合することで、小規模な臨床データセットにおける性能を大幅に向上させ得ることを実証した。我々の知る限り、このような手法の組み合わせはこれまでいかなるデータセットにおいても検討されておらず、自動EEGベースの脳卒中診断に関する今後の研究に向けた強固な基盤となるものである。"
   }
 ]
