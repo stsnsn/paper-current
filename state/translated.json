@@ -271879,5 +271879,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ASD Neuro Agentic (ANA): 自閉症fMRI分類における特徴発見とサイト間汎化のためのエージェント型フレームワーク",
     "abstract_ja": "要旨  安静時機能的MRIによる自閉スペクトラム症（ASD）の分類器は、部位間で汎化することが稀であり、報告されている精度の多くはデータリークによって過大評価されている。本研究では、言語モデルエージェントが文献や研究者の入力から特徴量を提案し、固定ツールがすべての計算を行うエージェント型人工知能フレームワーク「ASD Neuro Agentic (ANA)」が、リークを制御しつつ、部位に依存しない分類器を監査可能な形で探索できることを示す。ABIDE Iの17施設から参加した1,028名を対象に、ANAは71種類のパイプラインをテストし、6つの部位分割と98種類の公開コネクティビティ導関数から、ComBat調和済みの接線空間コネクティビティモデルのアンサンブルを選定した。1施設を除外したテストにおいて、このアンサンブルは曲線下面積0.814（95%信頼区間 0.773–0.841）を記録し、ASD-DiagNetおよびASD-SAENetを上回った。予測的コネクティビティは、主にASDにおいて低下していた。モデル選択が複雑化する中で、エージェント型AIは、パイプラインの探索、評価、および特定のための体系的かつ効率的なアプローチを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.09.765238",
+    "title": "Cross-state representation learning enables prospective discovery of dynamic protein allosteric sites",
+    "abstract": "Allosteric regulation offers multifunctional induction in therapeutic interventions, yet conformational plasticity hinders computational identification of allosteric sites. Machine learning models rely on static  holo (ligand-bound) structures, generalizing poorly to  apo or substrate-bound states where binding pockets are transient or cryptic. We present AsBench2, a cross-state site-recognition benchmark, and AllositeUltra, a deep learning framework integrating multimodal protein representations (combining structure-aware language models with physical dynamics) and residue-guided candidate supplementation, effectively decoupling site detection from static pocket geometry. AllositeUltra demonstrates superior generalization, achieving Top-3 site recovery rates of 65.2% and 70.6% on  apo and substrate-bound structures, respectively, representing relative improvements of 36.4% and approximately 50% over the best-performing baselines. Prospective application to MAGI2 identifies a previously unrecognized interdomain allosteric pocket, validated at atomic resolution through small-molecule screening and X-ray crystallography. Proteome-wide application yields a high-confidence atlas of targetable allosteric sites, bridging the gap between structural representation learning and prospective AI-driven drug discovery.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765238",
+    "date": "2026-11-10",
+    "authors": "Ren Q, Wu L, Zha J, Li M, Feng W, Zhang H, Yang H, Li R, Liu X, He J, Zhou W, Song Y, Zhu R, Wu C, Shen Q, Cheng X, Qin W, Zheng Z, Zhang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363697",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "framework",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "benchmark",
+          "framework",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4879,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.09.765238"
+    ],
+    "translation": {
+      "title": {
+        "hash": "593e3767e7036512db4562f399e50374ff2178f5d5ed5d3b806251fec8101737",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:59:59.701701+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bd6fc948ccef455b696c494e4b63d5a740462735168fd1014cb276d42e72671e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:59:59.701701+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "州間表現学習により、動的なタンパク質アロステリック部位の先見的発見が可能となる",
+    "abstract_ja": "アロステリック調節は治療介入において多機能な誘導を可能にするが、コンフォメーション可塑性がアロステリック部位の計算科学的同定の妨げとなっている。機械学習モデルは静的なホロ（リガンド結合）構造に依存しており、結合ポケットが一過性またはクリプティックであるアポ状態や基質結合状態への汎化性能が低い。本研究では、クロスステート部位認識ベンチマークであるAsBench2と、マルチモーダルタンパク質表現（構造認識型言語モデルと物理ダイナミクスの組み合わせ）および残基誘導型候補補充を統合した深層学習フレームワークAllositeUltraを提案し、部位検出を静的なポケット幾何学から効果的に切り離す。AllositeUltraは優れた汎化性能を示し、アポ構造および基質結合構造においてそれぞれ65.2%および70.6%のTop-3部位回収率を達成し、最高性能のベースラインに対してそれぞれ36.4%および約50%の相対的な向上を実現した。MAGI2への応用の可能性により、これまで認識されていなかったドメイン間アロステリックポケットが同定され、低分子スクリーニングおよびX線結晶構造解析を通じて原子分解能で検証された。プロテオーム全域への適用により、標的可能なアロステリック部位の高信頼度アトラスが得られ、構造表現学習とAI駆動型の先見的創薬との間のギャップが埋められる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764549",
+    "title": "Calibrating developmental dynamics from single-cell atlases: lineage paths outrun least-action routes",
+    "abstract": "Single-cell atlases infer developmental dynamics from destructive snapshots, yet how far realized lineage paths depart from such inferred dynamics has never been measured with controls. We introduce LADD (Least-Action Developmental Dynamics), a measurement framework that learns a stochastic developmental vector field from time-series single-cell RNA-seq and computes minimum-action and minimum-time paths, together with a three-layer calibration protocol that separates genuine path deviation from the generic cost of centroid measurement, and we compare its forecasting component with optimal-transport and flow-matching methods. In the lineage-resolved  Caenorhabditis elegans atlas, the raw action ratio of observed lineage-centroid trajectories to optimal paths is 3.79, yet forward-simulated ensembles of the learned model itself score 2.07, leaving a genuine excess of about two-fold. In zebrafish (  Danio rerio ), the observed ratio sits entirely at the model’s floor. Three mechanisms that could explain the residual deviation (detours, flow-opposition, and fate-map complexity) are each excluded; what remains is speed, with lineages moving 30–43% faster along the learned flow. We report validity boundaries for temporal resolution, cross-species comparison, and energetic interpretation, delimiting where action-based trajectory comparisons are meaningful.  Author Summary  Embryos develop from a single cell into many specialized cell types, and modern atlases let researchers watch this process as a movie of molecular snapshots. Because each cell is measured only once, software must stitch snapshots into “trajectories”, and some studies ask whether development follows optimal routes, such as paths of least action (a principle borrowed from physics). Here we provide LADD, a method that learns the dynamics of development from such atlases and computes the optimal paths those dynamics imply, together with a calibration protocol that distinguishes genuine biological deviation from artifacts created by measuring averages of cell populations. Applying it to worm and zebrafish embryogenesis, we find that most of the apparent deviation from optimality is such a measurement artifact; what remains in the worm is a modest, genuine excess arising because lineages move faster than the optimal route, not around it. LADD offers a reusable way to test optimality claims about development against an explicit noise floor.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764549",
+    "date": "2026-11-09",
+    "authors": "Liu Q, Zhou Y, Cao J, Wang Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362466",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework",
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "framework",
+          "gene",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4883,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.05.764549"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dd82623cded00ddb4adbbefbc2427b67d5f60a882de096989f7d938a0310bd8f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:59:59.701701+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "694de3402404896eb02ab62c8a72ffa62b00ce0cd69d25df8944ce1185784aa5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:59:59.701701+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一細胞アトラスを用いた発生動態の較正：系統経路は最小作用経路を上回る",
+    "abstract_ja": "単一細胞アトラスは、破壊的なスナップショットから発生動態を推定するが、実際に実現した系統経路がこうした推定動態からどの程度乖離しているかを、対照群を用いて測定した例はこれまでなかった。本研究では、時系列の単一細胞RNA-seqから確率的な発生ベクトル場を学習し、最小作用経路および最小時間経路を算出する測定フレームワーク「LADD（Least-Action Developmental Dynamics）」を提案する。併せて、真の経路偏差とセントロイド測定に伴う一般的なコストを分離する3層のキャリブレーションプロトコルを提示し、その予測コンポーネントを最適輸送法およびフローマッチング法と比較する。系統分解済みのCaenorhabditis elegansアトラスにおいて、観測された系統セントロイド軌跡と最適経路の生の作用比は3.79であるが、学習モデル自体のフォワードシミュレーションによるアンサンブルスコアは2.07であり、約2倍の真の過剰分が残る。ゼブラフィッシュ（Danio rerio）では、観測された比率は完全にモデルの下限値にある。残存する偏差を説明し得る3つのメカニズム（迂回、フロー対向、および運命マップの複雑性）はいずれも除外され、残るのは速度であり、系統は学習されたフローに沿って30～43%速く移動する。本稿では、時間分解能、種間比較、およびエネルギー的解釈に関する妥当性境界を報告し、作用に基づく軌跡比較が有意義となる範囲を規定する。著者要旨：胚は単一細胞から多くの特化した細胞種へと分化するが、現代のアトラスにより、研究者はこのプロセスを分子スナップショットの動画として観察することが可能となった。各細胞は一度しか測定されないため、ソフトウェアはスナップショットを「軌跡」へと繋ぎ合わせる必要があり、一部の研究では、発生が最小作用経路（物理学から借用された原理）のような最適ルートに従うかどうかを検証している。本研究では、こうしたアトラスから発生動態を学習し、その動態が示唆する最適経路を算出する手法「LADD」と、真の生物学的偏差と細胞集団の平均値測定によって生じたアーティファクトを区別するキャリブレーションプロトコルを提案する。これを線虫およびゼブラフィッシュの胚発生に適用した結果、最適性からの見かけ上の偏差の大部分はこうした測定上のアーティファクトであることが判明した。線虫において残るのは、系統が最適ルートを迂回するのではなく、そのルートよりも速く移動するために生じる、わずかな真の過剰分である。LADDは、明示的なノイズフロアに照らして、発生に関する最適性の主張を検証するための再利用可能な手法を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.26367433",
+    "title": "Polygenic Prediction of Depression Liability Reveals Broad Genetic Associations Across Development, Families, and Populations",
+    "abstract": "Polygenic prediction of depression is limited by the depth of depression phenotyping available at biobank scale as well as sample size. Here we develop a depression score combining information from depression and genetically correlated psychiatric traits using phenotype reconstruction, multi-trait genetic integration and Bayesian effect estimation. Compared with the strongest publicly available depression-only score (Psychiatric Genomics Consortium 2025, excluding 23andMe), the liability-  R 2 for depression in UK Biobank rose by 49.7% and within-family standardized associations with latent internalizing were up to 54% larger. Across 2,328 childhood and adolescent outcomes in the ABCD study, the association profile of the integrated score was almost identical to that of the depression-only score (r = 0.99), while being uniformly stronger. 1,494 outcomes related to mood, behavior, social functioning, hobbies and sleep were associated with the score — 423 of them within-family. In ABCD, adolescents in the highest score decile were 3.5 times as likely as those in the lowest decile to report suicidal thoughts by age 14 (23% versus 7%) and 1.9 times as likely to report nicotine or cannabis use by age 17 (47% versus 25%). In adults, the score predicted worse general health, chronic pain, and life dissatisfaction. Associations with psychiatric symptoms were substantially stronger in girls than in boys (boys’ coeffiicients 0.68 times girls’), particularly for girl-typical symptoms, and showed no moderation by household resources, hardship or deprivation that remained significant after correction for multiple testing. Prediction was attenuated in line with genetic distance from training data for Hispanic and African American children. Depression prediction can thus be strengthened substantially by integrating the internalizing spectrum, without detectable loss of specificity or within-family predictive ability.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.26367433",
+    "date": "2026-11-09",
+    "authors": "Wolfram T, Moore S, Anomaly J, Schleede J, Ahangari M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362382",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4884,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.06.26367433"
+    ],
+    "translation": {
+      "title": {
+        "hash": "de4455f8274fce920f46d1188da7bb0e061e20f3bc048aacff48a5f9c8e09176",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:59:59.701701+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "40e0a1a9bc27bca0dbe879b170972c6bbd551cbfeed1663f5bfe5443852eaac3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:59:59.701701+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "うつ病素因の多遺伝子予測により、発達、家族、集団にわたる広範な遺伝的関連が明らかとなった",
+    "abstract_ja": "多遺伝子によるうつ病予測は、バイオバンク規模で利用可能なうつ病フェノタイピングの深さおよびサンプルサイズによって制約を受けている。本研究では、表現型再構築、多形質遺伝的統合、およびベイズ効果推定を用いて、うつ病と遺伝的に相関のある精神医学的特性からの情報を組み合わせたうつ病スコアを開発した。公開されている最も強力なうつ病単独スコア（Psychiatric Genomics Consortium 2025、23andMeを除く）と比較して、UKバイオバンクにおけるうつ病の負債性R²は49.7%上昇し、潜在的な内在化との家族内標準化された関連度は最大54%高かった。ABCD研究における2,328件の小児および思春期のアウトカムにおいて、統合スコアの関連プロファイルはうつ病単独スコアのそれとほぼ同一（r = 0.99）でありながら、一貫してより強かった。気分、行動、社会機能、趣味、および睡眠に関連する1,494件のアウトカムがこのスコアと関連しており、そのうち423件は家族内関連であった。ABCD研究において、最高スコアのデシルに属する思春期の若者は、最低デシルの若者と比較して、14歳までに自殺念慮を報告する確率が3.5倍高く（23%対7%）、17歳までにニコチンまたは大麻の使用を報告する確率が1.9倍高かった（47%対25%）。成人においては、このスコアは全般的な健康状態の悪化、慢性疼痛、および生活満足度の低さを予測した。精神医学的症状との関連は、男子よりも女子において著しく強く（男子の係数は女子の0.68倍）、特に女子特有の症状において顕著であり、多重検定補正後も有意であった世帯資源、困窮、または欠乏による調整効果は認められなかった。ヒスパニック系およびアフリカ系アメリカ人の小児では、訓練データからの遺伝的距離に応じて予測精度が低下した。したがって、内在化スペクトラムを統合することで、特異性や家族内予測能力を検出可能なレベルで損なうことなく、うつ病予測を大幅に強化することが可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11412735/v1",
+    "title": "Benchmarking partner-specific protein representations for phenotype discrimination in human allelic heterogeneity",
+    "abstract": "Abstract  Background  Pathogenic variants within the same human gene can cause distinct Mendelian phenotypes. Partner-specific protein representations provide molecular context for studying this allelic heterogeneity. Their technical availability, phenotype-balanced coverage and incremental phenotype information require separate evaluation. We benchmarked structural/interface representations, MutPred-PPI disruption scores and sequence-based SPPIDER-seq and X-PAIR representations in a ClinVar-based cohort. The labeled-versus-sorted control removed named partner assignments by sorting each residue's raw score multiset before independent standardization. Cohort eligibility and statistical procedures were specified before phenotype testing. The combined support criterion required a positive median ΔR² with its 95% confidence interval (CI) strictly above zero. Positive ΔR² was also required in at least 70% of phenotype-ready genes. Results  On a common denominator of 132 genes, MutPred-PPI scored 10,917/11,150 submitted structural rows (97.91%). Nine genes reached the representation-coverage threshold, and three met phenotype-balance criteria. Sequence-based representations expanded usable coverage. SPPIDER-seq reached the threshold in 127 genes, with 23 phenotype-balanced genes; X-PAIR reached it in 107 genes, with 15 phenotype-balanced genes. The primary cohort comprised 10 genes and 547 unique wild-type (WT) residue analysis units. X-PAIR median ΔR² was 0.00179553 (95% gene-bootstrap CI − 0.00410526 to 0.00495717), with positive ΔR² in 8/10 genes. The prespecified combined criterion was not met, and cross-model findings limited generalization. Distinct substitutions at the same WT residue received the same residue × partner vector. The contribution of this design property to the global result was not directly tested. Conclusions  Sequence-based partner representations substantially expanded phenotype-balanced coverage. Named partner identity provided no robust global incremental phenotype information within the evaluated cohort under the prespecified criterion. The framework distinguishes molecular feature availability from information relevant to phenotype discrimination. Phenotype-resolved interpretation may require combining substitution-specific molecular consequences with partner context and disease-relevant biological context.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11412735/v1",
+    "date": "2026-11-09",
+    "authors": "Zhang¹ Y, Lin¹ D, Chen² Y, Liu² Y, Zha¹ Y, Feng W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362195",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "benchmark",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4885,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.21203/rs.3.rs-11412735/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "97eb2eaebd4c822fb2dd357422414001c81fc564fa04709e657d890103e87720",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:59:59.701701+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "57fcff23512081319d6144b46d8f4bd05bdee3352ec6b6d12fc0160b02acc53c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:59:59.701701+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトのアレル不均一性における表現型判別のためのパートナー特異的タンパク質表現のベンチマーク",
+    "abstract_ja": "要旨  背景  同一のヒト遺伝子内における病原性変異は、異なるメンデル表現型を引き起こすことがある。パートナー特異的なタンパク質表現型は、このアレル不均一性を研究するための分子レベルのコンテキストを提供する。これらの表現型の技術的利用可能性、表現型バランスを考慮したカバレッジ、および追加的な表現型情報については、個別の評価が必要である。我々は、ClinVarベースのコホートにおいて、構造/インターフェース表現型、MutPred-PPI破壊スコア、および配列ベースのSPPIDER-seqおよびX-PAIR表現型をベンチマークした。ラベル付き対ソート済みコントロールでは、独立した標準化の前に、各残基の生スコアマルチセットをソートすることで名称付きパートナーの割り当てを除去した。コホートの適格性および統計的手順は、表現型検定の前に規定された。統合サポート基準では、中央値ΔR²が正であり、かつその95%信頼区間（CI）が厳密に0を上回ることが要求された。また、表現型判定準備が整った遺伝子の少なくとも70%においてΔR²が正であることが求められた。結果  共通分母132遺伝子において、MutPred-PPIは提出された構造行11,150行中10,917行（97.91%）でスコアを記録した。9つの遺伝子が表現型カバレッジの閾値に達し、3つの遺伝子が表現型バランス基準を満たした。配列ベースの表現型により、利用可能なカバレッジが拡大した。SPPIDER-seqは127遺伝子で閾値に達し、そのうち23遺伝子が表現型バランスを満たしていた。X-PAIRは107遺伝子で閾値に達し、そのうち15遺伝子が表現型バランスを満たしていた。主要コホートは10遺伝子と547個の固有の野生型（WT）残基解析ユニットで構成されていた。X-PAIRの中央値ΔR²は0.00179553（95%遺伝子ブートストラップCI − 0.00410526～0.00495717）であり、10遺伝子中8遺伝子でΔR²が正であった。事前に規定された統合基準は満たされず、モデル間の知見により一般化が制限された。同一のWT残基における異なる置換には、同一の残基×パートナーベクトルが割り当てられた。この設計上の特性が全体の結果に及ぼす寄与については、直接的に検証されなかった。結論  配列ベースのパートナー表現型は、表現型バランスを考慮したカバレッジを大幅に拡大した。事前に規定された基準の下では、評価対象コホートにおいて、名称付きパートナーの同一性は堅牢な全体的な追加表現型情報を提供しなかった。本フレームワークは、分子特徴の利用可能性と、表現型判別に関連する情報を区別するものである。表現型レベルでの解釈には、置換固有の分子的帰結を、パートナーコンテキストおよび疾患に関連する生物学的コンテキストと組み合わせる必要がある場合がある。"
   }
 ]
