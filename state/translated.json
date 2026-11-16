@@ -272499,5 +272499,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "構造化集団における侵入解析：解析原理と数値計算ワークフロー",
     "abstract_ja": "あらゆる実際の個体群は、何らかの構造――生活史の段階や生理的状態といった個体間の差異であり、種の存続能力を規定するもの――を有している。しかし、個体群構造を種間相互作用のモデルに組み込むことは依然として困難な課題である。本研究では、種の侵入成長率を定量化することで、構造化個体群における競争を研究するための汎用的な枠組みを提示する。本アプローチの核心は時間スケールの分離にある。構造化個体群の初期動態は、それが具体的にどのように導入されるかに依存するが、こうした一過性の差異は長期的な侵入の成否には影響を及ぼさない。研究課題に応じて、稀な場合に適用される適切な長期成長率は、解析的な時間スケール分離、行列個体群理論、あるいは数値シミュレーションを用いて等価に導出できる。発生段階、環境状態、および感染状況にわたるケーススタディを用いて、本手法が多様な系においていかにして単純かつ生態学的に意義のある侵入条件を導出するかを示す。最後に、本アプローチを変動する定着個体群の動態へと拡張し、シミュレーションやフロケ理論として知られる汎用的な数学的枠組みを用いて、侵入成長を正しく定量化する方法を示す。個体群生物学と群集生態学の定量的手法を統合することで、本枠組みは生態学者が、より多様な人口統計学的に複雑な系における種の存続と共存を研究することを可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764577",
+    "title": "Growing a Root from Its Genome: Emergent Tissue Layers and Zones in a GPU-Native Simulation of the  Arabidopsis  Root Tip",
+    "abstract": "Models of the  Arabidopsis root tip usually take its cell identities as given. Here we grow a root tip from a single genome. In a two-dimensional median section, every cell reads the same network of 62 genes (26 core genes from an earlier, unpublished model of callus and 36 added for the root) and starts with the same expression; the only spatial cues are the polarity of auxin transport, auxin from the shoot and the free surface. Identities and zones are never given to the simulation; they are read from gene expression. Cells are polygons of a shared mesh, relaxed towards mechanical equilibrium under turgor at every step. In 48 simulated hours, a tip-shaped template grows into a root of 3 000–4 500 cells with epidermis, cortex, endodermis, pericycle and stele in order along most of its length, SHORT-ROOT and SCARECROW in the endodermis, an auxin maximum, a quiescent centre and a cap at its tip, and meristem, elongation and mature zones. A WOX5 gate built from published interactions and one hypothesis keeps a quiescent centre to 48 h in 17 of 20 simulated roots that were not used for tuning (85%; Wilson 95% interval 64–95%; criteria fixed before the run), against 9 of 20 roots used for tuning, before the gate. The niche is not maintained beyond 48 h: grown on to 73 h, only 6 of these 20 roots still have a quiescent centre (30%; 15–52%). All pre-registered criteria hold in only 1 of 20 roots, because the quiescent centre is too wide at 0 h; without that count, 12 of 20. The meristem is too long, and cortical cells made after the start of growth elongate only three- to four-fold instead of eight- to thirty-fold, a limit set in large part by the numerical growth scheme. Mutants are a major weakness: several look like their published phenotype, but an exploratory re-run of a mutant benchmark fixed in advance for our first model passes one of nine predictions. Nor does the root regenerate: cut near its tip, it re-forms an auxin maximum and a columella but no quiescent centre. On a first, simpler model and without any polarity cue, a mass of identical cells still sorts into concentric layers and, when PIN carriers follow the auxin flux, concentrates auxin into a few foci, but forms no stem-cell niche: the genome lacks a lateral inhibition between foci. We state the limitations and the next stages.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764577",
+    "date": "2026-11-06",
+    "authors": "Auger E, Gandecki M, Heng F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361086",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "simulation"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4893,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.05.764577"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f6e54d6db78cf22cb608323d2801f3e21116ebca4adc531722a1039bd75b9562",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:05:38.422529+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0ae9533c3ef68d488e5014e926b1ff0fe21cea59b441f826f575b7512ebcfa5c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:05:38.422529+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムからの根の形成：シロイヌナズナ根端のGPUネイティブシミュレーションにおける創発的組織層とゾーン",
+    "abstract_ja": "シロイヌナズナの根端モデルでは、通常、細胞のアイデンティティはあらかじめ与えられている。本研究では、単一のゲノムから根端を成長させる。二次元の中央断面において、すべての細胞は同一の62個の遺伝子ネットワーク（既報のないカルスモデルのコア遺伝子26個と、根のために追加された36個）を読み取り、同一の発現状態で開始する。空間的な手がかりとなるのは、オーキシン輸送の極性、地上部からのオーキシン、および自由表面のみである。アイデンティティとゾーンはシミュレーションに一切与えられず、遺伝子発現から読み取られる。細胞は共有メッシュの多角形であり、各ステップにおいて膨圧による力学的平衡へと緩和される。48時間のシミュレーションにおいて、先端形状のテンプレートは、大部分の長さに沿って表皮、皮層、内胚葉、周縁、茎軸を持つ3,000～4,500個の細胞からなる根へと成長する。内胚葉にはSHORT-ROOTとSCARECROWがあり、先端にはオーキシン極大、静止中心、およびキャップが存在し、さらに分裂組織、伸長、および成熟ゾーンが形成される。既報の相互作用と一つの仮説に基づいて構築したWOX5ゲートは、チューニングに使用しなかった20本のシミュレーション根のうち17本（85%；Wilson 95%区間 64–95%；実行前に基準を固定）において、ゲート使用前のチューニング用20本のうち9本に対し、48時間まで静止中心を維持した。ニッチは48時間を超えて維持されない。73時間まで成長させたところ、これら20本の根のうち静止中心を保持していたのはわずか6本（30%；15–52%）であった。あらかじめ登録したすべての基準は、20本中わずか1本の根でしか成立しなかった。これは、0時間時点で静止中心が広すぎたためである。このカウントを除けば、20本中12本で成立した。分裂組織が長すぎ、また成長開始後に形成された皮層細胞は、8～30倍ではなく3～4倍しか伸長しなかった。この限界は、主に数値成長スキームによって設定されたものである。変異体は大きな弱点である。いくつかの変異体は既報の表現型に似ているが、最初のモデルのために事前に固定した変異体ベンチマークを用いて探索的に再実行したところ、9つの予測のうち1つが的中した。また、根の再生も起こらなかった：先端付近で切断すると、オーキシン極大とコルメラは再形成されたが、静止中心は形成されなかった。より単純な最初のモデルにおいて、極性の手がかりを一切設けなかった場合でも、同一の細胞群は依然として同心円状の層に分化し、PINキャリアがオーキシンフラックスに従うと、オーキシンを少数の焦点に濃縮するが、茎細胞ニッチは形成されなかった。これは、ゲノムに焦点間の側方抑制が欠けていたためである。本稿では、限界事項と今後の段階について述べる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.764457",
+    "title": "TailEnrich enables discovery of dysregulated genes through disease sample enrichment testing",
+    "abstract": "Identifying differentially expressed genes is fundamental to elucidating the molecular mecha nisms underlying complex diseases. However, in complex disorders such as Alzheimer’s disease (AD), the genes exhibiting dysregulated expression may vary among patient subsets, reflecting the heterogeneity of the underlying pathological processes. Consequently, pathogenic genes are profoundly dysregulated in only a subset of patients. Conventional differential expression tools, such as DESeq2 and edgeR, are primarily designed to detect population-level expression shifts and may have limited power to identify subgroup-specific dysregulation. To overcome this limitation, we developed TailEnrich, a novel com putational method that discovers dysregulated genes within patient subsets. TailEnrich independently tests the extreme left (downregulated) or right (upregulated) tails of a gene’s expression distribution for disease sample enrichment. We quantify this enrichment using a new metric, i.e. the PE (Percentage of Enriched disease samples) score. On simulated datasets, TailEnrich demonstrates markedly improved accuracy over DESeq2 and edgeR in identifying dysregulated genes specific to patient subsets. Applied to AD gene expression data, TailEnrich uncovers a distinct, biologically relevant set of genes within key pathological pathways that are missed by mean shift-based approaches. TailEnrich provides a novel method for identifying dysregulated genes, and readily extends to other omics data including genomic variants and proteomics to uncover pathogenic genes in complex diseases. Availability and implementation  TailEnrich is implemented in R. The source code and documenta tion are freely available at  https://github.com/Sanke926/Tailenrich .",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764457",
+    "date": "2026-11-06",
+    "authors": "Li H, Liu Y, Lin C, Wang S, Pan H, Wang S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361043",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genomic",
+        "method",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4894,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.04.764457"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e4d7e1d024bd36013d7b4880756fbcedef06228ba03343c04cc119ea855f0bf3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:05:38.422529+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "04b6a532fc5fb0b38b774f4cf01dabfb9d8c86279039447e743f74dde96b82a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:05:38.422529+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TailEnrichは、疾患サンプルの濃縮解析を通じて、調節異常遺伝子の発見を可能にする。",
+    "abstract_ja": "発現変動遺伝子の同定は、複雑な疾患の根底にある分子メカニズムを解明する上で不可欠である。しかし、アルツハイマー病（AD）のような複雑な疾患では、発現調節異常を示す遺伝子が患者サブセット間で異なる場合があり、これは根底にある病理学的プロセスの不均一性を反映している。その結果、病原性遺伝子が著しく調節異常を示すのは、患者の一部に限られる。DESeq2やedgeRといった従来の発現変動解析ツールは、主に集団レベルの発現シフトを検出するように設計されており、サブグループ特異的な調節異常を同定する能力には限界がある可能性がある。この限界を克服するため、我々は患者サブセット内で調節異常遺伝子を発見する新たな計算手法であるTailEnrichを開発した。TailEnrichは、遺伝子発現分布の極端な左端（発現低下）または右端（発現上昇）のテールを独立して解析し、疾患サンプルの濃縮度を評価する。この濃縮度を、新たな指標であるPE（Percentage of Enriched disease samples）スコアを用いて定量化する。シミュレーションデータセットにおいて、TailEnrichは患者サブセットに特異的な調節異常遺伝子の同定において、DESeq2やedgeRよりも顕著に精度が向上することを実証した。ADの遺伝子発現データに適用したところ、TailEnrichは、平均シフトベースの手法では見逃される、主要な病理学的パスウェイ内の明確かつ生物学的に意義のある遺伝子セットを明らかにした。TailEnrichは調節異常遺伝子を同定するための新たな手法を提供し、ゲノム変異やプロテオミクスを含む他のオミクスデータへも容易に拡張可能であり、複雑な疾患における病原性遺伝子の同定を可能にする。利用可能性と実装 TailEnrichはRで実装されている。ソースコードおよびドキュメントは、https://github.com/Sanke926/Tailenrich で無料で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10685534/v1",
+    "title": "BRCA1 and 53BP1 Antagonistically Tune a Chromatin Compaction Gradient to Control DNA Break Mobility",
+    "abstract": "Abstract  The two principal DNA double-strand break (DSB) repair pathways impose fundamentally different mechanical requirements on damaged chromatin. Non-homologous end joining (NHEJ) confines broken DNA ends to preserve their proximity, whereas homologous recombination (HR) requires damaged chromatin to become sufficiently mobile for homology search. While breast cancer associated gene 1 (BRCA1) and p53 binding protein 1 (53BP1) are established molecular regulators of DSB repair pathway choice, the chromatin architecture that translates this choice into the required mechanical state of the break has remained undefined. Here, we developed a multiplexed live-cell imaging framework combining phasor-based fluorescence lifetime imaging microscopy of histone Förster resonance energy transfer (FLIM-FRET) with single-particle tracking (SPT) of fluorescently labelled DSB repair proteins, enabling nanoscale chromatin compaction to be directly correlated with the mobility of individual DSBs in living cells. We show that DSB induction generates a chromatin compaction gradient between locally de-compacted repair sites and the surrounding compact chromatin. This gradient regulates DSB mobility, with HR-associated breaks exhibiting steeper gradients, increased mobility and greater exploration of the nuclear space than NHEJ-associated breaks, which remain spatially confined. BRCA1 and 53BP1 antagonistically regulate this gradient: BRCA1 promotes chromatin opening and restrains DSB mobility, whereas 53BP1 drives compaction and enhances movement. Loss of BRCA1 collapses this balance, causing chromatin over-compaction and DSB hyper-mobility that collectively drive poly(ADP-ribose) polymerase (PARP) inhibitor-induced chromosome mis-joining, a phenotype rescued by 53BP1 depletion. Together, our findings identify the chromatin compaction gradient as a biophysical regulator of DSB mobility that fulfils the distinct mechanical requirements of HR and NHEJ, providing a mechanistic basis for PARP inhibitor sensitivity and resistance in BRCA1-deficient cancers.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10685534/v1",
+    "date": "2026-11-06",
+    "authors": "Hinde E, Lou J, Velasquez JS, Cardenas SM, Solano A, Zhang X, Garvie A, Zhao Q, Wong L, Campbell I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360495",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "chromatin",
+        "framework",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4895,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.21203/rs.3.rs-10685534/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "41b8ecb72c111f7054254f73a085dc9f7f9b371bb49698837fc379d2806201f8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:05:38.422529+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ae6546c464f49015cae3f383d636ef1ae68eb915b9a396c382822ea6809f9400",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:05:38.422529+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BRCA1と53BP1はクロマチン凝縮勾配に拮抗的に調節を加え、DNA切断可動性を制御する",
+    "abstract_ja": "要旨　主要な2つのDNA二本鎖切断（DSB）修復経路は、損傷クロマチンに対して根本的に異なる力学的要件を課す。非相同末端結合（NHEJ）は切断されたDNA末端を封じ込めて近接性を維持するのに対し、相同組換え（HR）は損傷クロマチンが相同性探索に十分な可動性を持つことを必要とする。乳がん関連遺伝子1（BRCA1）およびp53結合タンパク質1（53BP1）は、DSB修復経路の選択における確立された分子調節因子であるが、この選択を切断部位に求められる力学的状態へと変換するクロマチン構造は未解明のままであった。本研究では、ヒストン・フェルスター共鳴エネルギー移動（FLIM-FRET）のフェゾルベース蛍光寿命イメージング顕微鏡法と、蛍光標識されたDSB修復タンパク質の単粒子追跡（SPT）を組み合わせたマルチプレックス生細胞イメージングフレームワークを開発し、生細胞におけるナノスケールのクロマチン凝縮を個々のDSBの可動性と直接的に相関させることを可能にした。我々は、DSBの誘導が、局所的に脱凝縮した修復部位と周囲の凝縮したクロマチンとの間にクロマチン凝縮勾配を生じさせることを示す。この勾配がDSBの可動性を調節しており、HR関連の切断部位は、空間的に封じ込められたままのNHEJ関連の切断部位よりも、より急峻な勾配、高い可動性、および核空間のより広範な探索を示す。BRCA1と53BP1はこの勾配を拮抗的に調節する。BRCA1はクロマチンの開放を促進してDSBの可動性を抑制する一方、53BP1は凝縮を駆動して移動性を高める。BRCA1の欠損はこのバランスを崩し、クロマチンの過剰凝縮とDSBの超可動性を引き起こし、これらが相まってポリ(ADP-リボース)ポリメラーゼ（PARP）阻害剤誘導性の染色体ミス接合を誘発するが、この表現型は53BP1の枯渇によって救済される。以上の知見を総合すると、クロマチン凝縮勾配は、HRとNHEJのそれぞれの異なる力学的要件を満たすDSB可動性の生物物理学的調節因子として同定され、BRCA1欠損がんにおけるPARP阻害剤への感受性および耐性の機序的基盤を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.764016",
+    "title": "Genomic prediction of resistance to  Phytophthora megakarya  in cacao from a sparse host-pathogen screen",
+    "abstract": "Black pod rot caused by  Phytophthora megakarya is a major disease impacting cacao (  Theobroma cacao L.) production in West Africa. Resistance is influenced by genetic variation in both host and pathogen populations. While genomic prediction approaches have been widely applied in plant breeding, most studies incorporate only host genomic information. The value of explicitly modeling pathogen genomic relatedness in quantitative disease prediction remains largely unknown.  We genotyped 947 clones from the International Cacao Collection at CATIE using a 10K-SNP panel and characterized 67  P. megakarya isolates by sequencing 3,505 virulence-associated genes and 2,774 SNP loci. Cacao clones were extensively admixed, while isolates formed three geographically structured subpopulations. Mixed linear models were fitted to lesion diameters on detached pods of 350 genotyped clones inoculated with 58 isolates in 30 bioassays, covering 5% of possible clone-by-isolate combinations.  Differences among isolates explained a larger share of lesion-size variation than differences among clones (0.34 and 0.27 of phenotypic variance, respectively). After accounting for broad pathogen subpopulation structure, incorporating within-subpopulation genomic relatedness among isolates improved neither model fit nor prediction, whereas incorporating genomic relationships among cacao clones improved model fit and enabled prediction of phenotypically untested clones with a predictive ability of 0.41. Clone rankings were stable across pathogen subpopulations (genomic correlation 0.86 ± 0.06), whereas clone-by-isolate interactions accounted for little phenotypic variation and were not resolved with confidence in the sparse design. An exploratory ancestry analysis associated several Upper Amazon ancestry components with smaller predicted lesions. These are the first genomic predictions of resistance to  P. megakarya in cacao. In this strongly structured host-pathogen system, genomic relationships among hosts carried most of the predictable signal beyond broad pathogen subpopulation effects, and the predictions provide a starting point for prioritizing screening and selection efforts.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.764016",
+    "date": "2026-11-05",
+    "authors": "Schlathoelter I, Gitto AJ, Arciniegas AL, Herrera-Corzo M, Kolawole OO, Goss EM, Livingstone D, Firl A, Henderson DR, Drost DR, Rodezno D, Marelli J, Brawner JT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359761",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4907,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.03.764016"
+    ],
+    "translation": {
+      "title": {
+        "hash": "481498345826469dbd6335e029aab2b92e7e167e4c8beec578e3941581c5b90b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:05:38.422529+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fcf54c762e1704f48e98f43a7879ef12dabbaa0499720495fe6de00c96fbb252",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:05:38.422529+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "疎な宿主・病原体スクリーニングによるカカオのPhytophthora megakaryaに対する抵抗性のゲノム予測",
+    "abstract_ja": "Phytophthora megakaryaによる黒色ポッド腐敗病は、西アフリカにおけるカカオ（Theobroma cacao L.）生産に影響を及ぼす主要な病害である。抵抗性は、宿主および病原体集団双方の遺伝的変異によって影響を受ける。植物育種においてゲノム予測手法が広く適用されてきたが、ほとんどの研究では宿主のゲノム情報のみが組み込まれている。定量的な病害予測において、病原体間のゲノム関連性を明示的にモデル化することの有用性は、依然として大部分が不明である。本研究では、CATIEの国際カカオコレクションから10K-SNPパネルを用いて947株のクローンをジェノタイピングし、3,505個の病原性関連遺伝子および2,774個のSNP遺伝子座のシーケンシングにより、67株のP. megakarya分離株の特性解析を行った。カカオクローンは広範囲に混在していた一方、分離株は地理的に構造化された3つの亜集団を形成していた。30件のバイオアッセイにおいて、58株の分離株を接種したジェノタイピング済みクローン350株の脱落ポッドの病斑径に対し、混合線形モデルを適合させた。これにより、考えられるクローン・分離株の組み合わせの5%をカバーした。分離株間の差異は、クローン間の差異よりも病斑サイズの変動のより大きな割合を説明した（表現型分散のそれぞれ0.34および0.27）。広範な病原体亜集団構造を考慮した後、分離株間の亜集団内ゲノム関連性を組み込んでも、モデルの適合度や予測精度は向上しなかった。一方、カカオクローン間のゲノム関係を組み込んだところ、モデルの適合度が向上し、表現型未検定のクローンの予測が可能となり、その予測能は0.41であった。クローンの順位は病原体亜集団間で安定していた（ゲノム相関 0.86 ± 0.06）が、クローン・分離株間の相互作用が説明する表現型変動はわずかであり、疎な設計では十分な確信を持って解析できなかった。探索的な祖先解析により、アッパーアマゾンの複数の祖先構成要素が、より小さい予測病斑と関連していることが示された。これらは、カカオにおけるP. megakaryaへの抵抗性に関する初のゲノム予測である。この強く構造化された宿主・病原体系において、宿主間のゲノム関係は、広範な病原体亜集団の影響を超えて、予測可能なシグナルの大部分を担っており、これらの予測はスクリーニングおよび選抜活動の優先順位付けのための出発点となる。"
   }
 ]
