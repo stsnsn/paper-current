@@ -260534,5 +260534,328 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "大ゲノムファージは宿主細胞の外膜機能に関連する多様なタンパク質をコードする",
     "abstract_ja": "巨大ファージ（またはジャンボファージ、200キロベース超）は広範なタンパク質レパートリーをコードしているが、その機能的多様性や宿主生理学における潜在的な役割については依然として十分に解明されていない。巨大ファージの非冗長ゲノム7,187件にわたる主要なタンパク質ファミリーのタンパク質構造解析を用いて、顕著な系統学的および生息環境に関連した多様化を明らかにした。特筆すべきは、細菌細胞包膜機能に関連する多様なタンパク質を同定したことであり、特にヒト腸管関連の巨大ファージにおいて顕著であった。これらには、これまで報告されていなかったファージコード型ソーターゼBが含まれており、その推定基質にはシグナルペプチドや細胞壁選別シグナルが含まれていることから、細菌表面にファージタンパク質を提示する潜在的な経路が示唆される。ファージコード型ファージショックタンパク質A（PspA）は多様な系統に分布し、膜組織化や輸送に関連する遺伝子と頻繁に隣接しており、膜生理学における潜在的な役割が示唆された。また、多様な生態系由来の巨大ファージ1,303件から、1,603種類のβバレル型外膜タンパク質（OMP）を同定した。これらのOMPは構造的多様性を示し、予測される宿主分類、生息環境、および隣接する包膜関連遺伝子との関連性が認められた。メタトランスクリプトーム解析により、ヒト腸管を含む自然群集において、代表的なファージコード型PspAおよびOMP遺伝子の発現が確認された。以上の知見を総合すると、細菌細胞包膜プロセスが、巨大ファージと宿主の相互作用における、これまで十分に認識されてこなかった潜在的な界面であることが明らかとなった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760272",
+    "title": "Agent_K: An Agent-Orchestrated Pipeline for Mapping Genes to Biosynthetic Pathway towards Metabolite Discovery",
+    "abstract": "The identification of biosynthetic gene clusters (BGCs) and their associated metabolic pathways is central to genome-guided natural product discovery. However, existing computational tools depend on fragmented workflows for data processing, annotation, and analysis, which require substantial manual intervention and lack seamless integration across heterogeneous platforms and tools. Here, we present, Agent_K, an agent-orchestrated framework that automates the end-to-end process from bacterial whole genome sequence analysis to biosynthetic pathway mapping and metabolite discovery as candidate gene products for functional insights. The system employs a large-language-model (LLM) agent to coordinate multiple bioinformatics tools, enabling dynamic execution, data integration, result interpretation, and flexible and intuitive visualization. By integrating genomic sequences to functional annotations and pathway-level reconstructions, the framework facilitates the identification of candidate gene products, their biosynthetic pathways associated with individual BGCs, and the putative metabolites produced by those pathways. The developed novel agentic framework provides a user-friendly scalable and extensible solution for automated high-throughput analysis and mapping of bacterial secondary metabolism pathways for interactive exploration of candidate potential.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760272",
+    "date": "2026-10-24",
+    "authors": "Roy RS, Han JJ, Narayana JL, Zhou A, de Figueiredo P, Han A, Qian X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349436",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "framework",
+        "gene",
+        "genome",
+        "pipeline",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 519,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.760272"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3edcdddec7b9be1be48c0c03455cdc6464fe062f3e0f0b27f4233648fb732eda",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:07:07.198492+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7f9bce7c1762956ede992e4ccfcb43c344faf73fa10dd16137e283dc3f42c2ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:07:07.198492+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Agent_K: 代謝物探索に向けた遺伝子と生合成経路のマッピングを行うエージェント駆動型パイプライン",
+    "abstract_ja": "生合成遺伝子クラスター（BGC）およびそれらに関連する代謝経路の同定は、ゲノムガイド型天然物探索の中核をなす。しかし、既存の計算ツールは、データ処理、アノテーション、および解析において断片的なワークフローに依存しており、多大な手作業を要するとともに、異種プラットフォームやツール間のシームレスな統合がなされていない。本報では、細菌の全ゲノム配列解析から生合成経路のマッピング、そして機能的知見を得るための候補遺伝子産物としての代謝物探索に至るエンドツーエンドのプロセスを自動化する、エージェント駆動型フレームワーク「Agent_K」を提案する。本システムは、大規模言語モデル（LLM）エージェントを用いて複数のバイオインフォマティクスツールを連携させ、動的な実行、データ統合、結果の解釈、および柔軟で直感的な可視化を実現する。ゲノム配列を機能的アノテーションおよび経路レベルの再構築に統合することで、本フレームワークは、候補遺伝子産物、個々のBGCに関連する生合成経路、およびそれらの経路によって生成される推定代謝物の同定を促進する。開発されたこの新規エージェント型フレームワークは、候補となる可能性をインタラクティブに探索するための、細菌二次代謝経路の自動ハイスループット解析およびマッピングを実現する、ユーザーフレンドリーで拡張・スケーラブルなソリューションを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.761050",
+    "title": "HIV-1 Integrase C-terminal Domain Mutations Regulate ALLINI Sensitivity",
+    "abstract": "ABSTRACT  HIV-1 integrase (IN) performs two essential functions in virus replication: catalyzing the integration of reverse-transcribed viral cDNA into host DNA and promoting proper virion maturation. The latter is mediated by IN binding to the genomic RNA (gRNA) through basic residues in its C- terminal domain (CTD), thereby ensuring correct repackaging of the gRNA inside the remodeled capsid lattice. Allosteric integrase inhibitors (ALLINIs) bind within a V-shaped pocket at the interface of the catalytic core domain (CCD) of IN dimers, promote the engagement of the CTDs from adjacent dimers, and thereby occlude gRNA binding. However, virological evidence supporting a role for the IN-CTD in ALLINI mechanism of action is lacking, as mutations in CTD residues implicated in ALLINI-induced multimerization typically yield non-infectious viruses. Here we demonstrate that IN-CTD mutants bearing compensatory substitutions that restore infectivity exhibit markedly altered sensitivity to ALLINIs. Specifically, we show that R269A/K273A substitutions within the IN-CTD confer ∼100-fold enhanced sensitivity to ALLINIs. This correlates with a loss of IN-gRNA binding at low ALLINI concentrations, while exerting minimal effects on IN multimerization  in vitro and in virions. In contrast, we found that the IN I268T substitution which arose as a suppressor mutation of I268A confers partial resistance to ALLINI-induced inhibition of gRNA binding. Collectively, these findings provide the first direct genetic evidence that CTD residues, despite being distal to the primary drug binding site at the CCD dimer, modulate sensitivity to ALLINIs and highlights IN-gRNA binding as a central target of ALLINIs.  SIGNIFICANCE  In addition to its catalytic role in viral DNA integration, HIV-1 integrase (IN) is essential for virion maturation. IN binding to the viral RNA genome (gRNA) through basic residues in its C-terminal domain (CTD) ensures the proper repackaging of the gRNA inside the mature capsid lattice. Allosteric integrase inhibitors (ALLINIs) bind to a pocket within the catalytic core domain (CCD) of an IN dimer and are thought to disrupt IN-gRNA interactions by triggering aberrant IN multimerization through the engagement of the CTDs of a nearby dimer. However, direct genetic evidence supporting a role for the IN-CTD in ALLINI mechanism of action is lacking. Herein, we show that IN-CTD mutants bearing compensatory substitutions that restore infectivity have significantly altered sensitivities against ALLINIs. Our findings provide the first virological evidence that residues within the CTD, away from the primary drug binding site at the CCD dimer, can alter ALLINI sensitivity.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.761050",
+    "date": "2026-10-24",
+    "authors": "Kumar A, Dinh T, Mugisha CS, Boateng A, Zhou Q, Kvaratskhelia M, Kutluay SB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349710",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 836,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.761050"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a693bff91d00945a90a89c2710ff81257f55b79de6b6e9e1ef06e74e67dd4b3a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:07:07.198492+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "96c2bd24752a4d69a0513c374692534b5b17f77d28a4d23741b53ca44b7c356b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:07:07.198492+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIV-1インテグラーゼC末端ドメイン変異はALLINI感受性を調節する",
+    "abstract_ja": "要旨 HIV-1インテグラーゼ（IN）は、ウイルス複製において2つの不可欠な機能を担う。すなわち、逆転写されたウイルスcDNAの宿主DNAへの組み込みを触媒することと、ビリオンの適切な成熟を促進することである。後者は、INがそのC末端ドメイン（CTD）の塩基性残基を介してゲノムRNA（gRNA）に結合することで媒介され、これによりリモデリングされたカプシド格子内でのgRNAの正しい再パッケージングが確保される。アロステリックインテグラーゼ阻害剤（ALLINIs）は、IN二量体の触媒コアドメイン（CCD）の界面にあるV字型ポケットに結合し、隣接する二量体のCTDの結合を促進することで、gRNAの結合を阻害する。しかし、ALLINIの作用機序におけるIN-CTDの役割を支持するウイルス学的根拠は不足している。というのも、ALLINI誘導性の多量体化に関与するCTD残基の変異は、通常、非感染性ウイルスをもたらすからである。本研究では、感染性を回復させる代償置換を有するIN-CTD変異体が、ALLINIに対する感受性を著しく変化させることを示す。具体的には、IN-CTD内のR269A/K273A置換が、ALLINIに対する感受性を約100倍に向上させることを示す。これは、低濃度のALLINIにおけるIN-gRNA結合の喪失と相関する一方で、in vitroおよびビリオンにおけるINの多量体化への影響は最小限である。対照的に、I268Aの抑制変異として生じたIN I268T置換は、ALLINI誘導性のgRNA結合阻害に対して部分的な耐性を付与することが判明した。総じて、これらの知見は、CTD残基がCCD二量体の一次薬物結合部位から遠位に位置しているにもかかわらず、ALLINIに対する感受性を調節しているという初の直接的な遺伝学的証拠を提供するものであり、IN-gRNA結合をALLINIの中心的な標的として浮き彫りにする。意義 ウイルスDNA組み込みにおける触媒的役割に加え、HIV-1インテグラーゼ（IN）はビリオンの成熟に不可欠である。INがそのC末端ドメイン（CTD）の塩基性残基を介してウイルスRNAゲノム（gRNA）に結合することで、成熟したカプシド格子内でのgRNAの適切な再パッケージングが確保される。アロステリックインテグラーゼ阻害剤（ALLINIs）は、IN二量体の触媒コアドメイン（CCD）内のポケットに結合し、近傍の二量体のCTDの結合を介して異常なIN多量体化を誘発することで、IN-gRNA相互作用を阻害すると考えられている。しかし、ALLINIの作用機序におけるIN-CTDの役割を支持する直接的な遺伝学的根拠は不足している。本研究では、感染性を回復させる代償置換を有するIN-CTD変異体が、ALLINIに対する感受性を著しく変化させることを示す。我々の知見は、CCD二量体の一次薬物結合部位から離れたCTD内の残基が、ALLINI感受性を変化させ得ることを示す初のウイルス学的証拠となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761471",
+    "title": "FapA extends the flagellar cage-dependent network into the cytoplasm to control surface-associated behaviors in  Helicobacter pylori",
+    "abstract": "Flagellar systems enable many host-associated bacteria to colonize successfully. One such pathogen is  Helicobacter pylori , which assembles an elaborate, high-torque flagellar motor that has a wide C-ring, 18 stator complexes, and is surrounded by a cage that includes homologs of the type IV pilus proteins PilM, PilN, and PilO. PilMNO act to repress soft-agar migration while promoting cell aggregation, microcolony, and biofilm formation, but the pathway linking the flagellar cage to these behaviors is unknown. Here we identify FapA, a member of the flagellar assembly protein A (FapA) family, as a component of this pathway. Deletion of  fapA increased soft-agar migration and reduced microcolony and biofilm formation, similar to deletion of  pilMNO . Epistasis analysis placed FapA downstream of the PilMNO flagellar cage. Using fluorescent fusions and protein-protein interaction experiments, FapA was found to localize to the cell poles, the sites of flagellar motor placement, and interact with the cytoplasmic PilM component of the cage. Indeed, cryo-electron tomography experiments detected cytoplasmic density near PilM that was lost in the Δ  fapA deletion mutant. Phylogenetic analysis suggests that FapA proteins are more widespread than previously appreciated, being found in multiple bacterial phyla including Campylobacterota, Bacillota, Spirochaetota, Desulfobacterota, Thermotogota, Synergistota, and Pseudomonadota. Together, these findings support that the  H. pylori flagellar cage has additional components that reside in the cytoplasm but similarly function to limit motility and activate a sessile/biofilm lifestyle. Given the widespread nature of FapA, our results suggest that many other bacteria might employ FapA homologs for similar purposes.  Importance  The flagella of  Helicobacter pylori enable it to colonize the stomach, but its flagellar motor appears to do more than propel the bacterium. A protein cage surrounding the motor helps determine whether cells swim or settle into microcolonies and biofilms, yet the molecular components that link this structure to cellular behaviors remain poorly understood. This knowledge gap is particularly intriguing because  H. pylori lacks the cyclic-di-GMP signaling system that many bacteria use to coordinate motility and biofilm development. Our identification of FapA as a cytoplasmic component of the cage-dependent regulatory network provides a foundation for understanding how  H. pylori coordinates motility and surface-associated growth and given the widespread nature of FapA, raises the possibility that many other bacteria use similar mechanisms.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761471",
+    "date": "2026-10-24",
+    "authors": "Fong JNC, Witt CD, Huang EHL, Yue J, Liu X, Roujeinikova A, Liu J, Ottemann KM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349690",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 837,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.761471"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3792d439246e30fd74bb9dd3727782b10c9430d450657a25081311e0ae989c4e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:07:07.198492+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fd08bb3c543addcc90f4b9c084e5cf9637d929557bab46e84ca078455552a1b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:07:07.198492+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FapAは、鞭毛ケージ依存性ネットワークを細胞質へと伸長させることで、ヘリコバクター・ピロリの表面関連挙動を制御する。",
+    "abstract_ja": "鞭毛系は、多くの宿主関連細菌が順調に定着することを可能にする。そのような病原体の一つにヘリコバクター・ピロリ（Helicobacter pylori）があり、本菌は、幅広のCリングと18個のステーター複合体を備え、タイプIVの線毛タンパク質であるPilM、PilN、およびPilOのホモログを含むケージに囲まれた、精巧で高トルクの鞭毛モーターを構築している。PilMNOは、ソフトアガロース遊走を抑制する一方で、細胞凝集、微小コロニー形成、およびバイオフィルム形成を促進するが、鞭毛ケージとこれらの挙動を結びつける経路は不明である。本研究では、鞭毛組立タンパク質A（FapA）ファミリーの一員であるFapAを、この経路の構成要素として同定した。fapAの欠損は、pilMNOの欠損と同様に、ソフトアガロース遊走を増加させ、微小コロニー形成およびバイオフィルム形成を減少させた。エピスタシス解析により、FapAはPilMNO鞭毛ケージの下流に位置することが示された。蛍光融合およびタンパク質間相互作用実験を用いた結果、FapAは鞭毛モーターの配置部位である細胞極に局在し、ケージの細胞質側PilM成分と相互作用することが判明した。実際に、クライオ電子トモグラフィー実験により、PilM近傍に細胞質密度が検出されたが、これはΔfapA欠損変異体では消失していた。系統解析は、FapAタンパク質が従来考えられていたよりも広く分布しており、Campylobacterota、Bacillota、Spirochaetota、Desulfobacterota、Thermotogota、Synergistota、およびPseudomonadotaを含む複数の細菌門で発見されることを示唆している。これらの知見を総合すると、H. pyloriの鞭毛ケージには、細胞質内に存在しながら、同様に運動性を制限し静置・バイオフィルム生活様式を活性化させる追加の構成要素が存在することが支持される。FapAの広範な分布を考慮すると、本研究の結果は、他の多くの細菌も同様の目的でFapAホモログを利用している可能性を示唆している。重要性：ヘリコバクター・ピロリの鞭毛は胃への定着を可能にするが、その鞭毛モーターは単に細菌を前進させる以上の役割を果たしていると考えられる。モーターを囲むタンパク質ケージは、細胞が遊泳するか、あるいは微小コロニーやバイオフィルムに定着するかを決定する一助となるが、この構造を細胞挙動に結びつける分子構成要素については依然として十分に解明されていない。この知識の空白は特に興味深い。なぜなら、H. pyloriは、多くの細菌が運動性とバイオフィルム形成を調整するために用いる環状ジGMPシグナル伝達系を欠いているからである。ケージ依存性調節ネットワークの細胞質構成要素としてFapAを同定したことは、H. pyloriがいかにして運動性と表面関連増殖を調整しているかを理解するための基礎となる。また、FapAの広範な分布を考慮すると、他の多くの細菌も同様のメカニズムを利用している可能性が浮上する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.759375",
+    "title": "Integrating stool chemistry measurements with metagenomics in adults reveals distinct gut health profiles",
+    "abstract": "Stool chemistry metrics, including calprotectin, lactoferrin, and secretory IgA, are used to assess gut inflammation in clinical or research settings. However, these measures in isolation provide a limited view of gut physiology and lack microbial context. Shotgun metagenomics offers a comprehensive assessment of the gut microbiome’s taxonomic composition and functional potential, yet its integration with stool chemistry metrics remains underexplored. We analyzed 877 adult stool samples with paired shotgun metagenomic sequencing and chemistry measurements to integrate the microbiome with 12 stool chemistry metrics. Calprotectin, lactoferrin, and secretory IgA were associated with shifts in microbiome composition (beta diversity), while deviations from typical levels of short-chain fatty acids (SCFAs), including butyrate, were associated with both changes in alpha diversity and microbiome composition. Network analysis revealed two distinct microbial neighborhoods: one associated with higher butyrate and lower calprotectin and lactoferrin and another associated with lower butyrate and higher calprotectin and lactoferrin. Machine learning models trained on taxonomic and functional data showed modest discrimination of stool chemistry states, performing best for SCFA deficiency and less well for host-derived inflammatory metrics. Together, these findings systematically characterize microbiome-stool chemistry relationships across a large paired dataset, providing a framework for interpreting stool chemistry metrics in the context of shotgun metagenomic profiles.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.759375",
+    "date": "2026-10-24",
+    "authors": "Straub TJ, Nieto PA, Trachsel JM, Sturgeon H, Edwards S, Mayer EA, Mars RAT, Hoy CS, Sukhum KV.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349699",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1240,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.759375"
+    ],
+    "translation": {
+      "title": {
+        "hash": "53f500fcbe63e33a68cd93103310e2a4b08deaa1e5e893db193b269a9efb0135",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:07:07.198492+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a9d1b14ef760fef2ecbe3f353baa992c02294a6e356244b87c456dc02f92956b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:07:07.198492+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "成人における便化学測定とメタゲノミクスの統合により、異なる腸内健康プロファイルが明らかになる",
+    "abstract_ja": "カルプロテクチン、ラクトフェリン、分泌型IgAを含む便化学指標は、臨床または研究の場において腸管炎症の評価に用いられている。しかし、これらの指標を単独で用いても腸管生理学に関する知見は限定的であり、微生物学的な文脈を欠いている。ショットガンメタゲノミクスは、腸内マイクロバイオームの分類学的組成と機能的ポテンシャルを包括的に評価できるが、便化学指標との統合については未だ十分に検討されていない。本研究では、877例の成人便検体を対象に、ペアワイズ・ショットガンメタゲノムシーケンシングと化学測定を行い、マイクロバイオームを12種類の便化学指標と統合した。カルプロテクチン、ラクトフェリン、および分泌型IgAはマイクロバイオーム組成（ベータ多様性）の変動と関連しており、一方で、酪酸を含む短鎖脂肪酸（SCFAs）の典型的レベルからの逸脱は、アルファ多様性とマイクロバイオーム組成の両方の変化と関連していた。ネットワーク解析により、2つの異なる微生物近傍が明らかになった。一方は酪酸が高く、カルプロテクチンおよびラクトフェリンが低いことに関連し、もう一方は酪酸が低く、カルプロテクチンおよびラクトフェリンが高いことに関連していた。分類学的データおよび機能的データで学習させた機械学習モデルは、便化学状態を緩やかに識別し、SCFA欠乏において最良の性能を示した一方、宿主由来の炎症指標に対する性能は低かった。以上の知見を総合すると、大規模なペアワイズデータセットにおけるマイクロバイオームと便化学の関係が系統的に特徴づけられ、ショットガンメタゲノムプロファイルの文脈で便化学指標を解釈するための枠組みが提供される。"
   }
 ]
