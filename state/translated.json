@@ -279055,5 +279055,276 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "壊死性腸炎の背景にあるクロストリジウム毒素の解明",
     "abstract_ja": "最近の研究において、Zhangらは、壊死性腸炎の一部における腸管および脳損傷の原因として、Clostridium perfringensが産生するデルタ毒素を特定した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag800",
+    "title": "CSK-DDI: compensating structural incompleteness with knowledge graph world knowledge for drug-drug interaction modeling.",
+    "abstract": "MotivationDrug-drug interaction (DDI) prediction is critical for drug safety, yet existing methods suffer from structural incompleteness in drug representation. Motif and molecular graph encodings capture local substructures and global topology but remain confined to the closed structural space of individual molecules, lacking cross-entity and contextual information and leading to limited generalization, especially in cold-start scenarios. To address this issue, we propose CSK-DDI (Compensating Structural Incompleteness with Knowledge Graph World Knowledge for Drug-Drug Interaction Modeling), a multimodal framework that jointly encodes motif-level chemical patterns, molecular graph topology, and biomedical knowledge graph (KG) context as complementary drug representations. The KG encodes drugs' contextual positions and relational semantics through multi-entity and multi-relation connections, providing global cross-entity and cross-semantic information that complements structural representations. The resulting fusion captures local chemical patterns, global topology, and biomedical context in a unified embedding.ResultsCSK-DDI employs a cross-attention mechanism to enable multi-view interaction among motif, molecular graph, and KG representations, producing unified structure-aware and context-aware drug embeddings. To improve robustness under sparse conditions, the model further incorporates a cold-start-oriented representation enhancement strategy. Experiments on benchmark datasets demonstrate consistent improvements over state-of-the-art methods, with particularly notable gains in cold-start scenarios.Availability and implementationSource code and data are available at https://github.com/cgwcbz2/CSK-DDI and on Zenodo at https://doi.org/10.5281/zenodo.21415769.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag800",
+    "date": "2026-11-01",
+    "authors": "Wang J, He Y, Ma T, Song B.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949104",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42949104",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 4970,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bioinformatics/btag800"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f1b28e19f2c53556b24a633dc93b8fd3985356f9eae95bec501a92136e00e238",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:38:03.985986+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8e227bc20ad30c6203ebfcb88dc1755bdc8f1ccc8ab41d2a16db03fc6999389",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:38:03.985986+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CSK-DDI: 薬物間相互作用モデリングにおける構造的不完全性をナレッジグラフのワールドナレッジで補完する。",
+    "abstract_ja": "動機薬物相互作用（DDI）の予測は薬物安全性において極めて重要であるが、既存の手法は薬物表現における構造的不完全性という課題を抱えている。モチーフおよび分子グラフのエンコーディングは、局所的な部分構造と大域的なトポロジーを捉えるものの、個々の分子の閉じた構造空間に限定されており、エンティティ間および文脈情報に欠けるため、特にコールドスタートのシナリオにおいて汎化性能が限定的となる。この課題に対処するため、我々はCSK-DDI（Compensating Structural Incompleteness with Knowledge Graph World Knowledge for Drug-Drug Interaction Modeling）を提案する。これは、モチーフレベルの化学パターン、分子グラフのトポロジー、および生物医学知識グラフ（KG）の文脈を、相補的な薬物表現として共同でエンコードするマルチモーダルフレームワークである。KGは、マルチエンティティおよびマルチリレーション接続を通じて薬物の文脈的位置と関係的セマンティクスをエンコードし、構造表現を補完する大域的なエンティティ間およびセマンティクス間情報を提供する。得られた融合により、局所的な化学パターン、大域的なトポロジー、および生物医学的文脈が統一的な埋め込みとして捉えられる。結果CSK-DDIはクロスアテンション機構を採用することで、モチーフ、分子グラフ、およびKG表現間のマルチビュー相互作用を可能にし、構造および文脈を考慮した統一的な薬物埋め込みを生成する。スパース条件下での頑健性を向上させるため、本モデルにはさらにコールドスタート向けの表現強化戦略が組み込まれている。ベンチマークデータセットを用いた実験では、最先端の手法に対して一貫した改善が示され、特にコールドスタートのシナリオにおいて顕著な向上が確認された。利用可能性と実装ソースコードおよびデータは、https://github.com/cgwcbz2/CSK-DDI および Zenodo（https://doi.org/10.5281/zenodo.21415769）で公開されている。"
+  },
+  {
+    "id": "10.1038/s41564-026-02528-8",
+    "title": "Candidalysin: a decade of discovery",
+    "abstract": "In this Review, the authors reflect on a decade of research on the fungal toxin candidalysin and suggest future priorities.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02528-8",
+    "date": "2026-11-16",
+    "authors": "Julian R. Naglik",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02528-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4983,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41564-026-02528-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4ed97537b3bcf2f2e14a8ddd5e4c3916dbc05fdcf44f4cd99a6d7014cbc7daca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:38:03.985986+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ed2fac4b9e77142a23b6144794e0d5a061753c2c3fb544c2857127e8d2906178",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:38:03.985986+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カンディダリシン：発見の10年",
+    "abstract_ja": "本総説において、著者らは真菌毒素カンジダリシンに関する10年間の研究を振り返り、今後の優先課題を提示する。"
+  },
+  {
+    "id": "10.1038/s41522-026-01176-4",
+    "title": "Ebselen impairs biofilm-associated infections by targeting ArgR and disrupting arginine homeostasis in Gram-positive pathogens",
+    "abstract": "Ebselen impairs biofilm-associated infections by targeting ArgR and disrupting arginine homeostasis in Gram-positive pathogens",
+    "journal": "npj Biofilms and Microbiomes",
+    "doi": "10.1038/s41522-026-01176-4",
+    "date": "2026-11-16",
+    "authors": "Lili Zou",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41522-026-01176-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/npjbiofilms.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5000,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.nature.com/npjbiofilms.rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41522-026-01176-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "67f50e71581707ee2c6b37650740adf6b2ce35fc0f4f613b3b0eff914f9dad6e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:38:03.985986+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "67f50e71581707ee2c6b37650740adf6b2ce35fc0f4f613b3b0eff914f9dad6e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:38:03.985986+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エブセレンは、グラム陽性菌においてArgRを標的とし、アルギニン恒常性を乱すことで、バイオフィルム関連感染症を抑制する。",
+    "abstract_ja": "エブセレンは、グラム陽性菌においてArgRを標的とし、アルギニン恒常性を乱すことで、バイオフィルム関連感染症を抑制する。"
+  },
+  {
+    "id": "10.1371/journal.pgen.1012350",
+    "title": "Experimental evolution of yeast reveals trade-offs between early and late stationary phase",
+    "abstract": "by Jason Tarkington, Aditya Mahadevan, Angelina G. Chan, Gavin Sherlock\n\nStationary phase in yeast and other microorganisms begins when a limiting nutrient in the environment is exhausted and cell division ceases. Most cells subsequently enter quiescence and then lose viability. However, even in spent media, metabolism continues, and the environment can change over time, causing the relative fitnesses of genotypes to differ over the course of stationary phase. For yeast, how such fitness varies and what genotypes might be favored at what points in stationary phase is largely unknown. In this work we experimentally evolve S. cerevisiae in batch culture, varying the time spent in stationary phase between growth cycles, and we isolate adaptive clones. We measure the relative fitness of these adaptive clones across a range of environments, characterized by different amounts of time in stationary phase and by two different carbon sources. By comparing the performance during a period of the growth cycle of a mutant to that of its ancestor, we can estimate the effects of each observed mutation on performance during various phases of the growth cycle. Here, we show that when an adaptive mutation emerges in growth cycles that include a stationary phase, its effect on stationary phase performance is largely independent of the type of carbon source provided. For the same group of mutants, mutational effects on performance in early stationary phase are negatively correlated with those effects in late stationary phase, suggesting a trade-off. We also show that increased intervals of stationary phase result in larger fitness effects of adaptive mutations and distinct routes of adaptation. Together, these results demonstrate that stationary phase consists of more than one distinct fitness-related phenotype, and that the phenotypes that allow for high performance in the first few days of stationary phase trade off with those that allow for high performance in later stationary phase.",
+    "journal": "PLOS Genetics",
+    "doi": "10.1371/journal.pgen.1012350",
+    "date": "2026-11-16",
+    "authors": "Gavin Sherlock",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012350",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microorganism",
+        "microorganisms",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/plosgenetics/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4986,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://journals.plos.org/plosgenetics/feed/atom"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1371/journal.pgen.1012350"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8a27276bac4e337d1a4e4347395b21a07523a761abb745e802b67ee507a622f5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:38:03.985986+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d9f008611bd92af4a8295b183e1a20960baab7d0ebf84d8a98187fa7e20de33e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:38:03.985986+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "酵母の実験的進化から明らかになった初期定常期と後期定常期のトレードオフ",
+    "abstract_ja": "Jason Tarkington, Aditya Mahadevan, Angelina G. Chan, Gavin Sherlock 著\n\n酵母やその他の微生物における定常期は、環境中の制限栄養素が枯渇し、細胞分裂が停止することで始まる。その後、ほとんどの細胞は静止状態に入り、生存能を失う。しかし、使用済み培地においても代謝は継続し、時間の経過とともに環境が変化するため、定常期を通じて遺伝子型の相対的適応度に差異が生じる。酵母において、このような適応度がどのように変動し、定常期のどの時点でどのような遺伝子型が有利になるのかは、大部分が不明である。本研究では、バッチ培養において増殖サイクル間の定常期滞在時間を変化させながらS. cerevisiaeを実験的に進化させ、適応クローンを単離した。定常期滞在時間の異なる条件および2種類の異なる炭素源を特徴とする一連の環境において、これらの適応クローンの相対的適応度を測定した。変異体の増殖サイクルのある期間における性能をその祖先株と比較することで、観察された各変異が増殖サイクルのさまざまな段階における性能に及ぼす影響を推定することができる。本研究では、定常期を含む増殖サイクルにおいて適応変異が出現した場合、その定常期性能への影響は、供給される炭素源の種類にほとんど依存しないことを示す。同一の変異体群において、定常期初期の性能に対する変異の影響は、定常期後期の影響と負の相関を示しており、トレードオフの存在が示唆される。また、定常期の間隔が長くなると、適応変異による適応度への影響が増大し、適応経路も異なることを示す。以上の結果を総合すると、定常期は複数の異なる適応度関連表現型から構成されており、定常期の最初の数日間に高い性能を可能にする表現型は、定常期の後半に高い性能を可能にする表現型とトレードオフの関係にあることが明らかになった。"
   }
 ]
