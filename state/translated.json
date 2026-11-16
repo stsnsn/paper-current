@@ -284628,5 +284628,322 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "モデル化したRNA–DNAおよびDNA–DNA二本鎖状態の配列レベル熱力学解析のための汎用計算フレームワーク：HIV-1を用いた概念実証研究",
     "abstract_ja": "要旨　本研究では、ウイルスゲノム全般に適用可能な配列レベルの計算フレームワークを提案し、HIV-1の概念実証解析を通じてその有効性を実証する。HXB2リファレンスゲノム（K03455.1）のあらかじめ定義された16領域を対象に、2つのRNAstructure 6.6プロシージャ、すなわちRNA標的/DNAオリゴ二本鎖計算用のOligoWalkと、DNA-DNA二分子最小自由エネルギーリファレンス用のDuplexFoldを用いて評価を行った。普遍的な同一アルゴリズムによるΔΔGではなく、モデル固有のコントラストΔΔG_model = ΔG_RD − ΔG_DDを定義した。16領域のうち15領域でコントラストが負となり、パネル平均は−8.00 kcal/mol（SD 5.45）であった。0に対する両側一標本検定の結果、t₁₅ = −5.87, p = 1.54×10⁻⁵となった。この方向性のある結果は、TARおよび/またはR_5LTRを除外したオーバーラップ感度解析においても維持された。これらの結果は、指定されたモデリング手順の下で、配列レベルで検証可能な計算予測を構成するものである。なお、これらは細胞内でのRループ形成、ゲノム組み込み、あるいは因果的な生物学的メカニズムを立証するものではない。本研究は、単一のリファレンスゲノム、および16個の非独立かつ部分的に重複する領域に限定されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11136755/v1",
+    "title": "Non-canonical mutations drive the evolution of persistent Staphylococcus aureus small-colony variants under zinc oxide nanoparticle stress",
+    "abstract": "Abstract    The widespread application of Zinc Oxide Nanoparticles (ZnO NPs) in industrial and medical products necessitates a rigorous understanding of bacterial adaptive trajectories under sustained exposure to nanomaterials. In this study, we employed experimental evolution, quantitative proteomics and whole-genome sequencing to investigate the long-term response of  Staphylococcus aureus  to subinhibitory concentrations of ZnO NPs. Serial passaging in the presence of 500 µg/ml ZnO NPs for 14 passages progressively enriched Small Colony Variants (SCVs), which exceeded 95% of the population by passage 10 and became dominant by passage 12; the phenotype remained stable after removal of ZnO NPs. Compared with the parental strain, the evolved SCV exhibited approximately fourfold increase in generation time, increased cell diameter (535 versus 390 nm) and cell-wall thickness (44 versus 29 nm), reduced susceptibility to ZnO NPs with about 68% killing compared to 99.9% killing, and increased adherence to A549 cells (75.45 versus 54.72%). Whole-genome sequencing identified nonsynonymous mutations in  mprF  ,  rpsE  ,  gyrA  ,  comEB  , and  yqeH  , and revealed loss of an approximately 19 kb plasmid carrying  blaZ  and its regulatory genes. Remarkably, despite loss of this plasmid, β-lactam resistance increased markedly, with penicillin G and ampicillin MICs increasing from 32 to 512 µg/ml and from 64 to 1024 µg/ml, respectively. These findings show that continuous ZnO NP exposure can select for a stable SCV phenotype accompanied by metabolic and structural remodelling and altered antibiotic susceptibility, highlighting an evolutionary consideration for the prolonged use of ZnO NP based antimicrobial materials.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11136755/v1",
+    "date": "2026-10-20",
+    "authors": "Jaiswal A, Chakraborty S, Malhotra A, Jana S, Karan R, Chauhan A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345931",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1364,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11136755/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "989ab24a0c6519534a208c67df56ff11365b32f1dc74f0d055125cee4604be94",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:27:00.532035+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9b3a0a495c11ffa60b6f34ef5c8c9736222b2f287b81e7eb5ff9cf81bf201094",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:27:00.532035+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非正準変異が酸化亜鉛ナノ粒子ストレス下における持続性黄色ブドウ球菌小コロニー変異株の進化を駆動する",
+    "abstract_ja": "要旨    工業製品および医療製品における酸化亜鉛ナノ粒子（ZnO NPs）の広範な応用に伴い、ナノ材料への持続的曝露下における細菌の適応軌跡を厳密に理解することが求められている。本研究では、実験的進化解析、定量プロテオミクス、および全ゲノムシーケンシングを用いて、亜阻害濃度のZnO NPsに対するStaphylococcus aureusの長期応答を調査した。500 µg/mlのZnO NPs存在下で14パスエージにわたる連続パスエージを行った結果、小コロニー変異株（SCVs）が漸次的に濃縮され、パスエージ10までに集団の95%を超え、パスエージ12までに優位となった。この表現型は、ZnO NPsを除去した後も安定であった。親株と比較して、進化したSCVは世代時間が約4倍に延長し、細胞径（535 対 390 nm）および細胞壁厚（44 対 29 nm）が増大し、ZnO NPsへの感受性が低下して殺滅率が99.9%から約68%に減少したほか、A549細胞への接着性が向上した（75.45 対 54.72%）。全ゲノムシーケンシングにより、mprF、rpsE、gyrA、comEB、およびyqeHにおける非同義変異が同定され、blaZおよびその制御遺伝子を保持する約19 kbのプラスミドの喪失が明らかになった。特筆すべきことに、このプラスミドの喪失にもかかわらず、β-ラクタム耐性が著しく増大し、ペニシリンGおよびアンピシリンのMICはそれぞれ32から512 µg/mlに、64から1024 µg/mlに上昇した。これらの知見は、ZnO NPsへの継続的な曝露が、代謝・構造的リモデリングおよび抗生物質感受性の変化を伴う安定したSCV表現型を選択しうることを示しており、ZnO NPsベースの抗菌材料の長期使用における進化上の検討事項を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11220958/v1",
+    "title": "Intraspecific variation of virulence and host-specificity in the mycoparasitic fungus Clonostachys rosea",
+    "abstract": "Abstract    Parasite-host interactions can display a continuum from specialization to generalism.  Clonostachys rosea  is an ascomycete fungus known for its ability to parasitize other fungi, a phenomenon known as mycoparasitism, and for its use as a biological control agent.  Clonostachys rosea  is reported to parasitize range of different hosts, yet our understanding of the evolutionary dynamics shaping its virulence and host range remains limited. In this study, up to 63  C. rosea  strains were assessed for virulence towards host fungi and an oomycete, under the hypothesis that strains differ in virulence and host specialization. Results revealed significant (  P   ≤ 0.05) variation in virulence between  C. rosea  strains towards the host fungi  Botrytis cinerea  ,  Fusarium graminearum  and  Rhizoctonia solani  and an overall lack of correlation between hosts, suggesting a certain level of host specificity. There was no significant correlation between  in vitro  antagonism of  F. graminearum  and biocontrol of fusarium root rot disease on wheat, emphasizing the complexity of the biocontrol trait. Differences in virulence was further hypothesized to partially depend on different interaction mechanisms towards the intrinsically different host fungi. Genome-wide association analysis identified seven single nucleotide polymorphisms significantly (  P   ≤ 1.6 × 10⁻⁶) segregating with virulence or biocontrol. Different genomic regions segregated with virulence towards different hosts, suggest different underlying virulence determinants. These results are important for our increased understanding of the evolution and ecology of mycoparasitic fungi, with implications for their exploitation in agricultural applications.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11220958/v1",
+    "date": "2026-10-20",
+    "authors": "Ruffino A, Manyara D, Kuper E, Piombo E, Tzelepis G, Friberg H, Dubey M, Karlsson M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345824",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1365,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11220958/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a81c14ca40c261b13177782009f4bc0ae7d17416c0b2b1da2d4fd6724c2b0f61",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:27:00.532035+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1be19d7c2257c313d46ecd6c2e592a1459d903cc68b6628028ae0ce44ff2c14c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:27:00.532035+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "菌寄生性真菌 Clonostachys rosea における病原性および宿主特異性の種内変異",
+    "abstract_ja": "要旨    寄生生物と宿主の相互作用は、特化から汎化に至る連続的なスペクトラムを示すことがある。Clonostachys roseaは、他の真菌に寄生する能力（菌寄生として知られる現象）と、生物的防除剤としての利用で知られる子嚢菌類である。Clonostachys roseaは多様な宿主に寄生することが報告されているが、その病原性と宿主範囲を規定する進化動態に関する理解は依然として限られている。本研究では、菌株によって病原性と宿主特化が異なるという仮説に基づき、最大63株のC. roseaについて、宿主真菌および卵菌類に対する病原性を評価した。その結果、宿主真菌であるBotrytis cinerea、Fusarium graminearum、およびRhizoctonia solaniに対する病原性に有意な（P ≤ 0.05）変動が認められ、宿主間では全体的な相関が見られなかったことから、一定レベルの宿主特異性が示唆された。F. graminearumに対するin vitroでの拮抗作用と、小麦におけるフザリウム根腐病の生物的防除との間には有意な相関は認められず、生物的防除形質の複雑さが浮き彫りとなった。さらに、病原性の差異は、本質的に異なる宿主真菌に対する相互作用メカニズムの違いに部分的に依存しているという仮説を立てた。ゲノムワイド関連解析により、病原性または生物的防除と有意に（P ≤ 1.6 × 10⁻⁶）分離する7つの一塩基多型が同定された。異なるゲノム領域が異なる宿主に対する病原性と分離していたことから、根底にある病原性決定因子が異なることが示唆される。これらの結果は、菌寄生性真菌の進化と生態に関する理解を深める上で重要であり、農業応用への活用にも示唆を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11247243/v1",
+    "title": "Phenylacetylglutamine and memory B cells as mediators of the migraine–tinnitus relationship: a multi-omics two-step Mendelian randomization study",
+    "abstract": "Abstract    Background:  Migraine and tinnitus often co-occur, and Mendelian randomization (MR) studies have suggested a modest causal effect of migraine on tinnitus risk, but the biological pathways behind this association are unclear. We used a hypothesis-free two-step MR mediation design to screen multi-omics intermediary phenotypes, including circulating metabolites, immune cell subsets, inflammatory proteins, and gut microbiota, for pathways linking the two conditions.  Methods:  Genetic instruments for migraine were derived from FinnGen release 10 (G6_MIGRAINE; ~430,000 participants). The total effect of migraine on tinnitus was estimated against the UK Biobank tinnitus GWAS (Clifford 2020; n = 172,995) with zero sample overlap. In Step 1, 668 mediators (575 metabolites, 61 immune cell traits, 28 dietary factors, and 4 psychological traits), 91 circulating inflammatory proteins, and 211 gut microbiota taxa were screened against migraine instruments. In Step 2, candidate mediators passing prespecified filters were tested against tinnitus. Indirect effects were computed by the product-of-coefficients method with delta-method standard errors. Microbiome instruments were clumped locally with PLINK (1000 Genomes EUR, r² Results:  The total effect of migraine on tinnitus was weak (inverse-variance weighted [IVW] OR = 1.066, 95% CI 0.995–1.142, P = 0.068; relaxed 66-IV panel null), framing the analysis as shared-pathway decomposition rather than direct causation. In Step 1, a coherent cluster of gut-microbiota-derived phenylalanine metabolites was associated with genetically predicted migraine, led by phenylacetylglutamine (PAGln; IVW OR = 1.177, P = 4.3 × 10⁻⁴), alongside higher absolute counts of memory-lineage B cells (β = +0.410, P = 0.028). In Step 2, PAGln (Wald OR = 1.345, 95% CI 1.067–1.697, P = 0.012) and memory B cells (Wald OR = 0.878, 95% CI 0.794–0.971, P = 0.011) were both associated with tinnitus (both q = 0.049, Benjamini–Hochberg FDR). The indirect effect was significant for PAGln (+0.048 log-odds, P = 0.041; 76% of the total effect) and directionally protective but non-significant for memory B cells. Colocalization analysis (coloc.abf) against full MiBioGen summary statistics confirmed a shared causal variant at chr12:57.3 Mb near LRP1 (Ruminococcus gauvreauii group, PP.H4 = 0.88) and supported colocalization at 11p15.4 (Desulfovibrionaceae, PP.H4 = 0.61–0.64). Microbiome results were robust to the LD-clumping strategy.  Conclusions:  Gut-microbiota-derived PAGln was the only mediator with a genetically supported indirect effect; a secondary, protective memory-B-cell axis did not reach significance. This points to the gut–metabolite axis as a candidate modifiable target in migraine-related tinnitus.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11247243/v1",
+    "date": "2026-10-20",
+    "authors": "Chen L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345721",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1366,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11247243/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d688b696053b64d9d3fec1ee22c14224a247fbac28faa03b1bbf26ec30fe86cb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:27:00.532035+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "277001e3ecd8e6ad06922c49a1a8f3f68d3032014af1bd4b02333b99b3cab7d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:27:00.532035+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "片頭痛と耳鳴りの関係における媒介因子としてのフェニルアセチルグルタミンおよびメモリーB細胞：マルチオミクスによる2段階メンデルランダム化研究",
+    "abstract_ja": "要旨    背景：片頭痛と耳鳴りはしばしば併発し、メンデルランダム化（MR）研究では、片頭痛が耳鳴りのリスクに及ぼす因果効果は限定的であることが示唆されているが、この関連性の背後にある生物学的経路は不明である。本研究では、仮説設定を伴わない2段階MR媒介デザインを用い、循環代謝物、免疫細胞サブセット、炎症性タンパク質、および腸内細菌叢を含むマルチオミクス中間表現型をスクリーニングし、これら2つの病態を結びつける経路を探索した。  方法：片頭痛の遺伝学的指標は、FinnGenリリース10（G6_MIGRAINE；約430,000名の参加者）から導出した。片頭痛が耳鳴りに及ぼす総効果は、サンプル重複ゼロの条件下で、UK Biobankの耳鳴りGWAS（Clifford 2020; n = 172,995）を用いて推定した。ステップ1では、668種類の媒介因子（代謝物575種、免疫細胞形質61種、食事因子28種、心理形質4種）、91種類の循環炎症性タンパク質、および211種類の腸内細菌叢分類群を片頭痛指標とスクリーニングした。ステップ2では、事前に設定したフィルタを通過した候補媒介因子を耳鳴りに対して検定した。間接効果は、デルタ法の標準誤差を用いた係数の積法により算出した。マイクロバイオーム指標はPLINK（1000 Genomes EUR, r²）を用いて局所的にクラスター化した。  結果：片頭痛が耳鳴りに及ぼす総効果は弱く（逆分散重み付き［IVW］OR = 1.066, 95% CI 0.995–1.142, P = 0.068；緩和66-IVパネル帰無仮説）、本解析は直接的な因果関係ではなく、共有経路の分解として位置づけられた。ステップ1では、腸内細菌叢由来のフェニルアラニン代謝物の一貫したクラスターが、遺伝的に予測された片頭痛と関連しており、フェニルアセチルグルタミン（PAGln; IVW OR = 1.177, P = 4.3 × 10⁻⁴）が主導し、記憶系B細胞の絶対数の増加（β = +0.410, P = 0.028）も認められた。ステップ2では、PAGln（Wald OR = 1.345, 95% CI 1.067–1.697, P = 0.012）と記憶系B細胞（Wald OR = 0.878, 95% CI 0.794–0.971, P = 0.011）の両方が耳鳴りと関連していた（ともに q = 0.049, Benjamini–Hochberg FDR）。間接効果は、PAGln（+0.048 log-odds, P = 0.041；総効果の76%）で有意であり、方向性保護的であったが、記憶系B細胞では有意ではなかった。MiBioGenの全要約統計量を用いた共局在解析（coloc.abf）により、LRP1近傍のchr12:57.3 Mbに共有因果バリアント（Ruminococcus gauvreauii群, PP.H4 = 0.88）が存在することが確認され、11p15.4における共局在（Desulfovibrionaceae, PP.H4 = 0.61–0.64）も支持された。マイクロバイオームの結果は、LD-クラスタリング戦略に対しても頑健であった。  結論：腸内細菌叢由来のPAGlnは、遺伝的に裏付けられた間接効果を示した唯一の媒介因子であり、二次的な保護的記憶系B細胞軸は有意性に達しなかった。このことは、片頭痛関連耳鳴りにおける修飾可能な標的候補として、腸管-代謝物軸を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.1820.v1",
+    "title": "Fungal Infections in People Living with HIV and Other Immunocompromised Patients: A European and Romanian Narrative Review",
+    "abstract": "Background:  Fungal infections are a major cause of morbidity and mortality across the growing population of immunocompromised patients, although the underlying immune deficit differs between people living with HIV/AIDS, non-HIV hosts (hematologic malignancy, neutropenia, solid organ or hematopoietic stem cell transplantation), and critically ill patients rendered transiently immunosuppressed by severe illness itself, as during the COVID-19 pandemic. Objectives. To compare epidemiology, pathogens, diagnosis, treatment, resistance, and prophylaxis across HIV, non-HIV immunocompromised hosts, and COVID-19-associated fungal disease, and to examine, as a regional case study, how this picture is represented in the European literature and in Romania specifically. Methods. Narrative review of PubMed/MEDLINE literature on HIV and non-HIV immunocompromising conditions, including COVID-19 associated conditions, complemented by a targeted search for European cohort data and by pathogen-specific PubMed searches for Romanian primary literature. Diagnostic terminology follows the EORTC/MSGERC consensus definitions, complemented by the ECMM/ISHAM criteria for COVID-19-associated pulmonary aspergillosis (CAPA). Results. CD4+ depletion in HIV produces a predictable, threshold-driven pattern of opportunistic mycoses; non-HIV immunosuppression is more heterogeneous; and critical illness — as exemplified by COVID-19 — introduced a distinct risk state, with COVID-19 Associated Pulmonary Aspergillosis (CAPA) incidence ranging from ~1% to >20% in ICU patients across European cohorts, and COVID-19-associated mucormycosis (CAM) reaching epidemic proportions in India. European cohorts otherwise document a one-year invasive fungal disease incidence of ~10% after allogeneic HSCT, up to 17% in acute leukemia, and 3–14% for aspergillosis after lung transplantation. Romanian evidence consists of single-center mycological studies, three Candidozyma (Candida) auris reports (including a genomic study assigning all sequenced isolates to clade I), case reports and small series of aspergillosis, CAPA and mucormycosis (the latter increasing after COVID-19), a nosocomial fusariosis outbreak in an acute leukemia ward, one cryptococcal-meningitis series, environmental detection of azole-resistant Aspergillus fumigatus, and a modelled national burden estimate; no dedicated series exist in solid organ transplant recipients or patients with solid tumors. Conclusions. Recognizing these divergent, population- and context-specific patterns is essential to risk-stratified screening and treatment; the Romanian case illustrates how national surveillance can lag far behind recognized burden even within a well-characterized global framework.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.1820.v1",
+    "date": "2026-10-20",
+    "authors": "Stanciu A, Cernat RC, Moroti R, Zekra L, Dumitrascu M, Dumea E, Mocanu E, Georgescu S, Efrim N, Nicolau A, Postolache P, Dumitru IM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345584",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1367,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.1820.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4e89dd012dbd9772818462eb691d5f92941ffcb42940da07c9be63bd3b0e592d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:27:00.532035+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9fe57fed2ff6fa53f7cd16660febff5075712decb12ca6743e49a92ee7d2ead0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:27:00.532035+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIV陽性者およびその他の免疫不全患者における真菌感染症：欧州およびルーマニアのナラティブレビュー",
+    "abstract_ja": "背景：真菌感染症は、免疫不全患者の増加に伴い、罹患および死亡の主要な原因となっているが、その根底にある免疫不全の状態は、HIV/AIDS患者、非HIV宿主（血液悪性腫瘍、好中球減少症、固形臓器または造血幹細胞移植）、およびCOVID-19パンデミック時のように重症疾患自体によって一過性に免疫抑制状態となった重症患者の間で異なっている。目的：HIVおよび非HIVの免疫不全宿主、ならびにCOVID-19関連真菌感染症における疫学、病原体、診断、治療、耐性、および予防策を比較し、地域的なケーススタディとして、これらの実態が欧州の文献、特にルーマニアにおいてどのように記述されているかを検討すること。方法：COVID-19関連疾患を含むHIVおよび非HIVの免疫不全状態に関するPubMed/MEDLINE文献のナラティブレビューを行い、これに欧州のコホートデータのターゲット検索およびルーマニアの一次文献に対する病原体別PubMed検索を併用した。診断用語はEORTC/MSGERCのコンセンサス定義に従い、COVID-19関連肺アスペルギルス症（CAPA）についてはECMM/ISHAM基準を併用した。結果：HIVにおけるCD4+枯渇は、予測可能な閾値駆動型の日和見性真菌症パターンを引き起こす。非HIVの免疫抑制はより不均一であり、COVID-19に代表される重症疾患は特有のリスク状態をもたらした。欧州のコホートにおけるICU患者のCOVID-19関連肺アスペルギルス症（CAPA）の発生率は約1%から20%超に及び、インドではCOVID-19関連ムコール症（CAM）が流行規模に達した。その他の欧州コホートでは、同種HSCT後の侵襲性真菌感染症の1年発生率は約10%、急性白血病では最大17%、肺移植後のアスペルギルス症では3～14%であった。ルーマニアのエビデンスは、単一施設の真菌学研究、3件のCandidozyma (Candida) auris報告（全配列決定分離株をクレードIに帰属させたゲノム研究を含む）、症例報告、およびアスペルギルス症、CAPA、ムコール症（後者はCOVID-19後に増加）の小規模シリーズ、急性白血病病棟での院内フザリウム症アウトブレイク、1件のクリプトコックス髄膜炎シリーズ、アゾール耐性Aspergillus fumigatusの環境中検出、およびモデルによる全国負担推計で構成されている。固形臓器移植レシピエントまたは固形腫瘍患者を対象とした専用のシリーズは存在しない。結論：これらの集団および状況に応じた異なるパターンを認識することは、リスク層別スクリーニングおよび治療において不可欠である。ルーマニアの事例は、十分に特性化されたグローバルな枠組みの中であっても、国家レベルのサーベイランスが認識された負担状況に大きく後れを取る可能性があることを示している。"
   }
 ]
