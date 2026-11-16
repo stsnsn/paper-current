@@ -284301,5 +284301,332 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "多糖類の脱重合促進およびエチルカルバメート生成抑制のためのワイン酵母工学",
     "abstract_ja": "効率的な細胞外多糖類分解と、グループ2A発がん物質であるエチルカルバメートの蓄積抑制を両立させるワイン用酵母の作出は、ワイン醸造の改善に寄与し得る。本研究では、三倍体工業用ワイン酵母Saccharomyces cerevisiae I-328のゲノムにおいて、アルギナーゼをコードするCAR1遺伝子座を、PGK1遺伝子プロモーターおよびターミネーターの制御下にあるエンドポリガラクチュロナーゼ遺伝子PGU1の発現カセットに置換することを目的とした。アセタミダーゼ選択性プラスミドを用いたCRISPR/Cas9によるゲノム編集を行い、続いて表現型スクリーニングおよび分子遺伝学的検証を実施した。全ゲノムシーケンシングにより、3つのCAR1アレルすべてがPGU1発現カセットに置換されたことが確認された。改変株I328-Y21は、親株と比較してポリガラクツロン酸の分解能が向上していた。同様に、RT-qPCR解析により、株I328-Y21におけるPGU1遺伝子の転写レベルはI-328の約300倍であることが示された。アルギニンの分解により尿素を生成するアルギナーゼを不活化したところ、培養液中の尿素含有量は約9分の1に減少した。エチルカルバメートは、エタノールと酵母細胞から排泄される尿素との相互作用によって生成されるため、本株はワイン中の同物質含有量を低減させるために利用できる。ワイン醸造実験の結果、ゲノム編集は発酵性能やその他の技術的特性に影響を及ぼさなかった。アルギナーゼ遺伝子をエンドポリガラクチュロナーゼ発現カセットに置換したこの新規株は、ワイン醸造への利用において有望である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.17.759858",
+    "title": "Molecular evidence of the eukaryotic parasites Perkinsea and Stylocephalidae in lizard muscle tissue",
+    "abstract": "Alveolates are a group of single-celled eukaryotes that include many important parasites of vertebrates, including the parasites that cause malaria. However, the group’s diversity and host associations in reptiles remain poorly understood. Here, we used 18S rRNA metabarcoding and phylogenetic analyses to identify novel parasites from tissue of iguanian lizards from the Caribbean and southern United States. This analysis revealed sequences closely related to members of the Alveolate families  Stylocephalidae and  Perkinsea , neither of which has previously been reported in reptiles.  Stylocephalidae sequences clustered with gregarine parasites typically associated with arthropod hosts, while  Perkinsea sequences grouped with environmental and freshwater lineages related to known amphibian pathogens. These findings represent the first molecular evidence of  Stylocephalidae - and  Perkinsea -related DNA in lizard tissues and suggest previously unrecognized ecological interactions between reptiles and alveolate microorganisms. Although infection cannot yet be confirmed, our results highlight the need for targeted environmental sampling, histopathology, and experimental studies to clarify host range, transmission potential, and possible conservation implications.",
+    "journal": "",
+    "doi": "10.64898/2026.10.17.759858",
+    "date": "2026-10-20",
+    "authors": "Brown-Vera ES, Yuan ML, Westeen EP, Grundler MR, Wang IJ, Holmes IA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346421",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18s rrna",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [
+          "DNA",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1359,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.17.759858"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2414405e2a90ce33cb04b0fd490d5ebe01c34947277dd35ff509bce00caa051c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:24:11.281083+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "62425e2d839cd10ccb3b68713d746f7a675fb7cdeca2a16df39d78705c42d8c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:24:11.281083+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トカゲの筋肉組織における真核寄生虫 Perkinsea および Stylocephalidae の分子証拠",
+    "abstract_ja": "アルベオラータ類は、マラリアを引き起こす寄生虫を含む、脊椎動物の多くの重要な寄生生物を包含する単細胞真核生物の一群である。しかしながら、本群の多様性および爬虫類における宿主との関連性については、依然として十分に解明されていない。本研究では、18S rRNAメタバーコーディングおよび系統解析を用いて、カリブ海および米国南部のイグアナトカゲの組織から新規寄生生物を同定した。この解析により、アルベオラータ類のStylocephalidae科およびPerkinsea科のメンバーと近縁な配列が明らかになったが、これらはいずれもこれまで爬虫類において報告されていなかった。Stylocephalidae科の配列は、通常節足動物を宿主とするグレガリン類寄生生物とクラスターを形成した一方、Perkinsea科の配列は、既知の両生類病原体に関連する環境および淡水系統群とグループを形成した。これらの知見は、トカゲの組織においてStylocephalidae科およびPerkinsea科に関連するDNAが存在することを示す初の分子生物学的証拠であり、爬虫類とアルベオラータ類微生物との間に、これまで認識されていなかった生態学的相互作用が存在することを示唆している。感染はまだ確認できていないが、本研究の結果は、宿主範囲、伝播能、および保全上の潜在的な影響を明らかにするための、標的を絞った環境サンプリング、組織病理学的解析、および実験的研究の必要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760346",
+    "title": "Structural analysis reveals three families of bacterial tRNA mimics",
+    "abstract": "SUMMARY  Comparative genomics has identified over 1,000 candidate structured RNA motifs, yet most remain functionally uncharacterized. Here, we combine crystallography, comparative analysis, and bacterial genetics to identify three families of bacterial tRNA-like RNAs. The skipping-rope RNA adopts an L-shaped fold resembling tRNA despite distinct secondary-structure connectivity and tertiary interactions. In  Clostridioides difficile , the skipping-rope RNA RCd1 is abundantly expressed and processed into a highly stable RNA species. RCd1 overexpression suppresses sporulation, whereas its deletion enhances early spore formation, supporting a role in sporulation control. Guided by the skipping-rope structure, we identify a conserved architectural core and use it to recognize additional candidate tRNA mimics. Crystal structures of DUF2693-FD and salivarius-1 RNAs confirm a shared tRNA-like scaffold assembled through distinct interaction networks. Together, these findings expand the repertoire of bacterial tRNA mimics and establish a structural framework for recognizing shared architectures among uncharacterized ncRNAs, linking one such family to bacterial developmental regulation.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760346",
+    "date": "2026-10-20",
+    "authors": "Wang J, Boudry P, Xie Y, He Y, Ren Y, Chen Q, Westhof E, Lilley DMJ, Soutourina OA, Huang L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346297",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1361,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.20.760346"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cb6189962eb01fc9dee8f0abf523b4b239ab5b66b868eb0c533298535968b2b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:24:11.281083+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "882d4dda58aa34996a1c64b3545ebb667dd7385723ba5ae9bc32965ce477f918",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:24:11.281083+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "構造解析により細菌tRNAミミックの3つのファミリーが明らかになった",
+    "abstract_ja": "要旨  比較ゲノミクスにより1,000を超える構造化RNAモチーフ候補が同定されてきたが、その大部分は機能的に未解明のままである。本研究では、結晶構造解析、比較解析、および細菌遺伝学を組み合わせることで、細菌のtRNA様RNAの3つのファミリーを同定した。スキッピングロープRNAは、二次構造の連結性や三次相互作用が異なるにもかかわらず、tRNAに類似したL字型のフォールド構造をとる。Clostridioides difficileにおいて、スキッピングロープRNA RCd1は豊富に発現し、極めて安定なRNA種へとプロセシングされる。RCd1の過剰発現は胞子形成を抑制する一方、その欠失は初期胞子形成を促進し、胞子形成制御における役割を裏付けている。スキッピングロープ構造を手がかりに、我々は保存されたアーキテクチャコアを同定し、それを用いてさらなるtRNAミミック候補を認識した。DUF2693-FDおよびsalivarius-1 RNAの結晶構造から、異なる相互作用ネットワークを通じて構築された共通のtRNA様スキャフォールドが確認された。これらの知見を総合することで、細菌tRNAミミックのレパートリーが拡充され、未解明のncRNA間における共通アーキテクチャを認識するための構造的枠組みが確立され、こうしたファミリーの一つが細菌の発生調節に関連していることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.18.759982",
+    "title": "Evolution-Guided Engineering of Non-conserved  N  -Glycosylation Sites Improves Heterologous Production of Sulfotransferases",
+    "abstract": "Escherichia coli features low cost, mature fermentation technology and high recombinant protein output, but the expression of glycosylation-dependent eukaryotic proteins therein is severely limited. Many glycosylated proteins are key tool enzymes for the biosynthesis of various pharmaceutical molecules, such as glycosaminoglycan-related synthases, but there is a lack of universal protein engineering methods to enable the adaptive evolution of these enzymes in  E. coli . We established an evolution-guided optimization strategy that targets non-conserved  N -glycosylation sites (EGO-  N Gly). The core of this strategy lies in the phylogeny-guided selective reversion of evolutionarily acquired  N -glycosylation sequons to naturally occurring non-glycosylated residues from early-divergent orthologs, thereby improving heterologous production and residual activity stability for selected sulfotransferases in  E. coli . Using heparin 3-  O -sulfotransferase 1 (3OST-1) as a model enzyme apparatus in eukaryotic organisms, EGO-  N Gly extended the residual activity half-life by 4.5-fold. Structural analysis and molecular dynamics simulations indicate that greater surface rigidity and remodeling of intramolecular interaction networks contribute to the improved conformational stability of M7 in an aglycosylated host. EGO-  N Gly was further applied to a panel of 3OST and 6OST homologs, demonstrating its applicability to a subset of the tested enzymes. Furthermore, EGO-  N Gly can be orthogonally integrated with other complementary protein engineering strategies, as exemplified by its combination with the machine learning-aided Protein Repair One-Stop Service, generating variants with 8-fold and 17-fold extensions in residual activity half-life. Collectively, these results establish EGO-  N Gly as a practical and potentially cost-effective engineering strategy for improving the prokaryotic expression and functional performance of selected glycosylation-dependent eukaryotic sulfotransferases.  Significance Statement  Escherichia coli lacks rational engineering methods for the heterologous expression of glycosylation-dependent eukaryotic proteins. We developed an evolution-guided optimization of  N -glycosylation (EGO-  N Gly) strategy that reverts non-conserved glycosylation sequons to the non-glycosylated residues conserved in early-divergent orthologs, improving the heterologous expression, catalytic function, and stability of animal-derived sulfotransferases. In heparin 3-  O -sulfotransferase 1, EGO-  N Gly extended the residual activity half-life at 37 °C by 4.5-fold. The strategy was transferable to several additional sulfotransferase homologs in a sequence-context-dependent manner and could be combined with machine-learning aided stability design to further extend the half-life by up to 17-fold. EGO-  N Gly thus provides a practical and potentially cost-effective strategy for improving the prokaryotic production of selected animal-derived sulfotransferases.",
+    "journal": "",
+    "doi": "10.64898/2026.10.18.759982",
+    "date": "2026-10-20",
+    "authors": "Li C, Li Y, Li X, Zhao Y, Sun J, Cao Y, Guo X, Zheng S, Deng J, Sheng J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346268",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1362,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.18.759982"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e36951bb1c29a3a2a91241a695ce24a2dc83cf9f3476144764ca76453d0182d0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:24:11.281083+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6e647d61236287c91667720cefd2fcb5c283a6904a59654e9091c40a00f46982",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:24:11.281083+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非保存型N-グリコシル化部位の進化誘導型工学によるスルホトランスフェラーゼの異種生産の向上",
+    "abstract_ja": "大腸菌（Escherichia coli）は、低コストで成熟した発酵技術と高い組換えタンパク質収量を特徴とするが、糖鎖付加依存性真核タンパク質の発現は著しく制限されている。多くの糖鎖付加タンパク質は、グリコサミノグリカン関連合成酵素など、様々な医薬品分子の生合成における重要なツール酵素であるが、大腸菌においてこれらの酵素の適応的進化を可能にする汎用的なタンパク質工学手法は不足している。我々は、非保存的なN-糖鎖付加部位（EGO-N Gly）を標的とした進化誘導型最適化戦略を確立した。この戦略の核心は、進化的に獲得されたN-糖鎖付加配列を、初期分岐オルソログ由来の天然に存在する非糖鎖付加残基へと系統樹誘導型に選択的に復帰させることにあり、これにより大腸菌における選定されたスルホトランスフェラーゼの異種生産および残存活性の安定性を向上させる。真核生物のモデル酵素装置としてヘパリン3-O-スルホトランスフェラーゼ1（3OST-1）を用いたところ、EGO-N Glyは残存活性半減期を4.5倍に延長させた。構造解析および分子動力学シミュレーションにより、表面剛性の向上と分子内相互作用ネットワークのリモデリングが、非糖鎖付加宿主におけるM7のコンフォメーション安定性の向上に寄与していることが示された。EGO-N Glyをさらに3OSTおよび6OSTホモログのパネルに適用したところ、試験した酵素の一部に対する適用可能性が実証された。さらに、EGO-N Glyは他の相補的なタンパク質工学戦略と直交的に統合することが可能であり、例として機械学習支援型のProtein Repair One-Stop Serviceとの組み合わせにより、残存活性半減期を8倍および17倍に延長させたバリアントが生成された。総じて、これらの結果は、選定された糖鎖付加依存性真核スルホトランスフェラーゼの原核生物における発現および機能的性能を向上させるための、実用的かつ潜在的に費用対効果の高い工学戦略としてEGO-N Glyを確立するものである。意義の記述：大腸菌には、糖鎖付加依存性真核タンパク質の異種発現のための合理的な工学手法が欠如している。我々は、非保存的な糖鎖付加配列を初期分岐オルソログに保存された非糖鎖付加残基へと復帰させる進化誘導型N-糖鎖付加最適化（EGO-N Gly）戦略を開発し、動物由来スルホトランスフェラーゼの異種発現、触媒機能、および安定性を向上させた。ヘパリン3-O-スルホトランスフェラーゼ1において、EGO-N Glyは37 °Cでの残存活性半減期を4.5倍に延長させた。この戦略は、配列コンテキスト依存的に複数の追加のスルホトランスフェラーゼホモログに適用可能であり、機械学習支援型の安定性設計と組み合わせることで、半減期をさらに最大17倍まで延長することができた。したがって、EGO-N Glyは、選定された動物由来スルホトランスフェラーゼの原核生物における生産を向上させるための、実用的かつ潜在的に費用対効果の高い戦略を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11394670/v1",
+    "title": "A General Computational Framework for Sequence-Level Thermodynamic Analysis of Modeled RNA–DNA and DNA–DNA Duplex States: A Proof-of-Concept Study in HIV-1",
+    "abstract": "Abstract  We present a sequence-level computational framework designed to be applicable across viral genomes and demonstrate it in a proof-of-concept analysis of HIV-1. Sixteen predefined regions of the HXB2 reference genome (K03455.1) were evaluated using two RNAstructure 6.6 procedures: OligoWalk for an RNA-target/DNA-oligo duplex calculation and DuplexFold for a DNA-DNA bimolecular minimum-free-energy reference. We define a model-specific contrast, ΔΔG_model = ΔG_RD − ΔG_DD, rather than a universal same-algorithm ΔΔG. Fifteen of 16 regions had negative contrasts; the panel mean was −8.00 kcal/mol (SD 5.45). A two-sided one-sample test against zero gave t₁₅ = −5.87, p = 1.54×10⁻⁵. The directional result persisted in overlap-sensitivity analyses excluding TAR and/or R_5LTR. These results constitute a sequence-level, testable computational prediction under the specified modeling procedures. They do not establish cellular R-loop formation, genomic integration, or a causal biological mechanism. The study is limited to one reference genome and to 16 non-independent, partly overlapping regions.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11394670/v1",
+    "date": "2026-10-20",
+    "authors": "DINANI SS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346100",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "RNA",
+        "framework",
+        "gene",
+        "genome",
+        "sequence",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1363,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11394670/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9a843615cdd033efd3366b5fe11a033cfcca872f4b72c93978bbb8da28b2c72a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:24:11.281083+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ddd1e6878a1e6dff6897d66d5d1b2dd25d32bc2bb07f6675dad4dad077203118",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:24:11.281083+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "モデル化したRNA–DNAおよびDNA–DNA二本鎖状態の配列レベル熱力学解析のための汎用計算フレームワーク：HIV-1を用いた概念実証研究",
+    "abstract_ja": "要旨　本研究では、ウイルスゲノム全般に適用可能な配列レベルの計算フレームワークを提案し、HIV-1の概念実証解析を通じてその有効性を実証する。HXB2リファレンスゲノム（K03455.1）のあらかじめ定義された16領域を対象に、2つのRNAstructure 6.6プロシージャ、すなわちRNA標的/DNAオリゴ二本鎖計算用のOligoWalkと、DNA-DNA二分子最小自由エネルギーリファレンス用のDuplexFoldを用いて評価を行った。普遍的な同一アルゴリズムによるΔΔGではなく、モデル固有のコントラストΔΔG_model = ΔG_RD − ΔG_DDを定義した。16領域のうち15領域でコントラストが負となり、パネル平均は−8.00 kcal/mol（SD 5.45）であった。0に対する両側一標本検定の結果、t₁₅ = −5.87, p = 1.54×10⁻⁵となった。この方向性のある結果は、TARおよび/またはR_5LTRを除外したオーバーラップ感度解析においても維持された。これらの結果は、指定されたモデリング手順の下で、配列レベルで検証可能な計算予測を構成するものである。なお、これらは細胞内でのRループ形成、ゲノム組み込み、あるいは因果的な生物学的メカニズムを立証するものではない。本研究は、単一のリファレンスゲノム、および16個の非独立かつ部分的に重複する領域に限定されている。"
   }
 ]
