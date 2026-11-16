@@ -276037,5 +276037,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "鉄欠乏および貧血治療のための食事改善（DEFeAT）：生殖可能年齢の女性における鉄欠乏に対するミネラル強化粉末の効果を評価するランダム化比較試験の実施計画書",
     "abstract_ja": "背景：鉄欠乏症（ID）および鉄欠乏性貧血（IDA）は世界的に深刻な健康上の影響を及ぼしており、特に生殖年齢の女性に不釣り合いに大きな影響を与えている。現在の鉄補給法は、アドヒアランスの低さや嗜好性の低さが課題となっており、これらの治療戦略の有効性を低下させている。本研究の目的は、生体利用能と使いやすさを向上させるよう設計された、ミネラル強化粉末を用いた新規の在宅飲料強化法の、生殖年齢の女性におけるID治療への有効性を評価することである。方法：本単施設ランダム化二重盲検プラセボ対照試験では、IDを有する適格な生物学的女性参加者150名を登録する。参加者は、6か月間にわたり、活性介入群（鉄・亜鉛強化粉末）または対照群（プラセボ粉末）に無作為に割り付けられる。主要評価項目には、血清フェリチン（SF）濃度の変化、および6か月時点で鉄欠乏状態が持続している参加者の割合を含める。副次評価項目には、経時的なSFおよびヘモグロビン（Hb）濃度の変化、代謝物および主要な循環炎症性バイオマーカーのレベル、食事摂取量の変化、自己報告による健康認識、粉末使用の障壁、アドヒアランスと嗜好性、安全性評価、および費用対効果を含める。探索的評価項目では、腸内微生物メタゲノムおよびメタボロームを評価する。考察：ID/IDAの予防に有効なアプローチである強化法は、低用量の鉄を使用し、不快な副作用を最小限に抑え、毒性のリスクがなく、受容性とコンプライアンス率が高いため、一部の補給法よりも優れている。本ミネラル強化粉末は、腸管への刺激が少なく生体利用能を高める、粒子径の小さい電解鉄および硫酸亜鉛一水和物を使用している。本研究の知見は、これらの疾患に罹患している人々や治療に携わる人々と共有される。生殖年齢の女性において有効かつ受容性の高い新規介入法は、治療コンプライアンスの向上を助け、最終的にID/IDAの負担軽減につながるためである。試験登録：本試験はclinicaltrials.gov (  NCT05990166 ): https://clinicaltrials.gov/study/  NCT05990166 に2023年8月に登録された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.759379",
+    "title": "Plant microbiomes have a greater effect than plant size on flowering and growth in  Asclepias syriaca",
+    "abstract": "Plants strike a delicate balance between growth and defense. The calculus of how to defend against herbivores, and maximize growth and reproduction, can differ between annuals and perennials. Annuals have a live fast, reproduce young strategy; while perennials may maximize fecundity over years. Milkweed, a herbaceous perennial, is a mix of these two strategies. On one hand, a single individual milkweed ramet is functionally a herbaceous annual and vulnerable to herbivory. On the other hand, below ground connections allow plants to share resources and persist for multiple years, perhaps lowering the cost of localized herbivory. Here, we study the impact herbivory on the leaf and soil microbiome on milkweed growth and flowering in a naturally occurring population. Specifically, using milkweed populations at three different sites in Virginia, following individual ramets throughout the growth and flowering season, we quantified the soil and leaf microbiome through metagenomic shotgun sequencing. After controlling for plant size and plant genotype, we asked how the microbiome composition was related to flowering time and growth. We find that the leaf microbiome is a strong predictor of plant growth rate, but not flowering. Conversely, we find that the soil microbiome and plant size predict flowering probability. We found no evidence that herbivory altered the leaf or soil microbiome composition. Together these results provide evidence that plant microbiomes also influence growth and fecundity in natural populations of milkweed. These results also provide evidence that the leaf microbiome in milkweed is robust and stable in the face of significant herbivory. This study expands our knowledge of the contribution of plant microbiomes to plant demography in a clonal perennial plant.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.759379",
+    "date": "2026-10-21",
+    "authors": "Puzey JR, Munkres I, D’Orgeix C, Dalgleish HJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347357",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2018,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.20.759379"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ed980a70f8961742bff93cae94c5fb004d2b5a55d21b258b3da6e6defcac8fb5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:38:14.383432+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f8b8e9c9736f4aa717f951dff8900d44465f7f26adba87df7446abe940b61410",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:38:14.383432+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Asclepias syriacaにおいて、植物マイクロバイオームは植物サイズよりも開花と成長に大きな影響を及ぼす。",
+    "abstract_ja": "植物は、成長と防御の間で繊細なバランスを保っている。草食動物から身を守りつつ、成長と繁殖を最大化するための計算は、一年草と多年草で異なる場合がある。一年草は「速く生き、若くして繁殖する」という戦略をとる一方、多年草は数年にわたって繁殖力を最大化させることがある。草本性多年草であるトウワタは、これら2つの戦略を併せ持っている。一方で、個々のトウワタのラメトは機能的には草本性の一年草であり、食害に対して脆弱である。他方で、地下の連関によって植物は資源を共有し、数年間にわたって生存し続けることができ、これにより局所的な食害によるコストが低減される可能性がある。本研究では、自然分布する個体群において、食害がトウワタの成長と開花に及ぼす葉および土壌マイクロバイオームへの影響を調査した。具体的には、バージニア州の3つの異なる地点のトウワタ個体群を用い、成長および開花期を通じて個々のラメトを追跡し、メタゲノムショットガンシーケンシングによって土壌および葉のマイクロバイオームを定量化した。植物のサイズと遺伝子型を制御した上で、マイクロバイオーム組成が開花時期および成長とどのように関連しているかを検討した。その結果、葉のマイクロバイオームは植物の成長速度の強力な予測因子となるが、開花の予測因子にはならないことが分かった。逆に、土壌マイクロバイオームと植物のサイズは、開花確率を予測することが明らかになった。また、食害が葉または土壌のマイクロバイオーム組成を変化させたという証拠は見出されなかった。以上の結果は、植物のマイクロバイオームがトウワタの自然分布個体群における成長と繁殖力にも影響を及ぼすという証拠となる。さらに、本研究は、トウワタの葉のマイクロバイオームが、著しい食害に対しても頑健かつ安定していることを示す証拠となる。本研究は、クローン性多年草における植物マイクロバイオームの個体群動態への寄与に関する知見を拡充するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.26365885",
+    "title": "From Omics Data to Biological Context: The CURIE AI Engine. Illustrated with the Transcriptomic Response to Bacterial Pneumonia",
+    "abstract": "High-throughput sequencing necessitates robust computational tools to contextualize complex transcriptomic data. In this study, we analyzed RNA-Seq data from peripheral blood of bacterial pneumonia patients and healthy controls (GEO: GSE161731) to investigate systemic molecular responses to infection. Differential gene expression analysis identified significantly upregulated genes in pneumonia. We used GANGO for Gene Ontology (GO) term enrichment and BioFunctional for hierarchical exploration, providing an initial overview of affected biological processes. To deepen interpretation, we leveraged CURIE (  www.curieai.tech ), an AI platform that cross-references GO terms with scientific literature. CURIE generates narrative explanations, linking molecular mechanisms, experimental evidence, and publications to each biological process, moving beyond simple enrichment. Our combined analysis revealed a coordinated upregulation of pathways involved in DNA repair and replication, transcriptional activation, RNA processing, translation, ribosome biogenesis, mitochondrial respiration, and cofactor binding. By integrating these findings within a broad, literature-supported framework, we highlighted how multiple cellular compartments and processes collaborate to mount an effective response to infection-induced stress. This study underscores the potential of combining classical statistical enrichment with AI-based interpretation for a holistic understanding of host-pathogen interactions at the transcriptomic level.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.26365885",
+    "date": "2026-10-21",
+    "authors": "Castellani G, Rodriguez-Mena A, Tarragó-Claramunt X, Madarnás-Gómez V, Torres-Favier Y, Méndez-Viera J, Monleón-Getino A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347325",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2019,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.26365885"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4b876f1466324af63109a170716292f7fd170db4ed37dccc4430772d07dd4ee4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:38:14.383432+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6abe59e606f86a55136a01b093abceb9aa38d6e8f8975ba91aba619a4b7eb7f8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:38:14.383432+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オミクスデータから生物学的コンテキストへ：CURIE AIエンジン。細菌性肺炎に対するトランスクリプトーム応答を例に",
+    "abstract_ja": "ハイスループットシーケンシングにおいては、複雑なトランスクリプトームデータを文脈化するための堅牢な計算ツールが不可欠である。本研究では、細菌性肺炎患者および健常対照者の末梢血由来RNA-Seqデータ（GEO: GSE161731）を解析し、感染に対する全身性の分子応答を調査した。遺伝子発現変動解析により、肺炎において有意に発現上昇している遺伝子を同定した。Gene Ontology (GO) タームのエンリッチメントにはGANGOを、階層的探索にはBioFunctionalを用い、影響を受けた生物学的プロセスの初期的な概観を得た。解釈を深めるため、GOタームと科学文献を相互参照するAIプラットフォームであるCURIE ( www.curieai.tech ) を活用した。CURIEは、単なるエンリッチメントにとどまらず、分子メカニズム、実験的根拠、および論文を各生物学的プロセスに結びつけた記述的な解説を生成する。統合解析の結果、DNA修復・複製、転写活性化、RNAプロセシング、翻訳、リボソーム生合成、ミトコンドリア呼吸、および補因子結合に関与するパスウェイの協調的な発現上昇が明らかになった。これらの知見を文献に裏付けられた広範な枠組みの中で統合することで、複数の細胞コンパートメントとプロセスが連携し、感染誘発性ストレスに対して効果的な応答を示す仕組みを浮き彫りにした。本研究は、トランスクリプトームレベルでの宿主・病原体相互作用を包括的に理解するために、従来の統計的エンリッチメントとAIベースの解釈を組み合わせることの可能性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.26365915",
+    "title": "Multi-omics reveals selective metabolic remodeling with trace element supplementation in chronic kidney disease",
+    "abstract": "Introduction  Chronic kidney disease (CKD) generates metabolically heterogeneous stress across circulating, microbial, and renal compartments. Trace element supplementation may engage redox and metabolic pathways and selectively modulate responsive metabolic programs. Objectives  To define the metabolic branch selectivity, renal regional distribution, and tissue correlates of responses to a trace element cocktail (TEX) through an integrated clinical-to-mouse multi-omics framework, and to organize these findings into an experimentally testable model. Methods  In a double-blind, placebo-controlled trial, 80 adults receiving maintenance hemodialysis received standard care plus TEX (20 mL/day; n = 40) or standard care plus matched placebo (n = 40). Longitudinal clinical outcomes were analyzed using participant random-intercept models. Endpoint plasma metabolomics and fecal metagenomics included healthy controls (n = 10) and voluntary trial subsets (placebo, n = 12; TEX, n = 20). Mice with 5/6 nephrectomy underwent targeted tryptophan metabolite profiling, renal spatial metabolomics, histopathology, and molecular analyses. Results  Longitudinal monitoring showed no overt treatment-related laboratory safety signal. Plasma metabolomics identified treatment-associated differences (false discovery rate Conclusion  This study establishes branch selectivity and renal regional specificity as defining features of TEX-associated metabolic remodeling in CKD. The integrated evidence defines a spatially organized, kynurenine-centered metabolic–renal response architecture comprising host kynurenine-branch remodeling, anatomically patterned renal metabolic responses, and selective structural, tubular, and mitochondrial/redox phenotypes, with kynurenine–mitochondrial/redox coupling as the central mechanistic proposition. Trial registration  International Traditional Medicine Clinical Trial Registry, ITMCTR2026000263; retrospectively registered on 3 February 2026, after completion of recruitment and follow-up.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.26365915",
+    "date": "2026-10-21",
+    "authors": "Piao J, Jin M, Yin F, Quan Z, Gao Z, Cui Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347320",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2020,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.26365915"
+    ],
+    "translation": {
+      "title": {
+        "hash": "37d56e16a85f9b3febbb6ec0ce147b532bd4ad5ea336a02c6a1244973e261c42",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:38:14.383432+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0daf10692027a2c28f3e29212476b9324da03750a29683359e5c3d048ade7d47",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:38:14.383432+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチオミクスにより明らかになった慢性腎臓病における微量元素補充に伴う選択的代謝リモデリング",
+    "abstract_ja": "はじめに  慢性腎臓病（CKD）は、循環系、微生物系、および腎コンパートメントにわたって代謝的に不均一なストレスを惹起する。微量元素の補充は、酸化還元および代謝経路に関与し、応答性代謝プログラムを選択的に調節する可能性がある。目的  統合的な臨床-to-マウス・マルチオミクスフレームワークを用いて、微量元素カクテル（TEX）に対する応答の代謝分岐選択性、腎領域分布、および組織相関を定義し、これらの知見を実験的に検証可能なモデルへと整理することである。方法  二重盲検プラセボ対照試験において、維持血液透析を受けている成人80例に対し、標準治療にTEX（20 mL/日；n = 40）を追加した群、または標準治療にマッチングプラセボ（n = 40）を追加した群を投与した。縦断的な臨床転帰は、参加者のランダム介入モデルを用いて解析した。エンドポイントである血漿メタボロミクスおよび糞便メタゲノミクスには、健常対照群（n = 10）および自発的な試験サブセット（プラセボ n = 12、TEX n = 20）を含めた。5/6腎摘除術を受けたマウスに対し、標的型トリプトファン代謝物プロファイリング、腎空間メタボロミクス、組織病理学的解析、および分子解析を実施した。結果  縦断的モニタリングにおいて、明らかな治療関連の検査値安全性シグナルは認められなかった。血漿メタボロミクスにより、治療に関連した差異が同定された（偽発見率 結論  本研究は、分岐選択性と腎領域特異性が、CKDにおけるTEX関連代謝リモデリングの定義的特徴であることを立証した。統合的なエビデンスにより、宿主のキヌレニン分岐リモデリング、解剖学的パターン化された腎代謝応答、および選択的な構造的、尿細管的、ミトコンドリア/酸化還元表現型からなる、空間的に組織化されたキヌレニン中心の代謝・腎応答アーキテクチャが定義され、キヌレニン-ミトコンドリア/酸化還元カップリングが中心的な機序的命題となる。試験登録  International Traditional Medicine Clinical Trial Registry, ITMCTR2026000263；被験者募集およびフォローアップ完了後、2026年2月3日に遡及的に登録された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11216545/v1",
+    "title": "Identification of bromodomain family genes across the cotton genome and the enhancement of plant growth and development by GhBRD34",
+    "abstract": "Abstract    Background  Bromodomain (BRD)-containing proteins are important regulators of plant growth, development, and responses to environmental stress. However, the understanding of their specific biological functions and molecular mechanisms in cotton is limited. Results  Here, we performed a genome‑wide survey and identified 69 GhBRD family members, which are located on 24 chromosomes of the upland cotton genome. Analysis of the promoter regions revealed several conserved cis-acting elements that play roles in light signaling, abiotic stress responses, and phytohormone signaling. Available transcriptome datasets revealed that four of these genes (  GhBRD1  ,  GhBRD33  ,  GhBRD34  , and  GhBRD68  ) exhibited consistently high expression across different tissues, suggesting that these genes participate in various aspects of plant growth and development. When  GhBRD34  was silenced through virus‑induced gene silencing in upland cotton, plant growth and development were markedly suppressed, resulting in reduced plant height and a relatively small leaf area. Conversely,  GhBRD34  overexpression in  Arabidopsis  not only promoted growth and development but also rendered the plants more sensitive to drought conditions. Conclusions  Our findings lay a solid foundation for future studies aimed at dissecting the molecular pathways through which  GhBRD34  influences growth, development, and drought responsiveness in upland cotton.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11216545/v1",
+    "date": "2026-10-21",
+    "authors": "Wu H, Liu X, Li Y, Yan Q, Wei Y, Li C, Liu H, Xie L, Wang X, Ma K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347019",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2023,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11216545/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "df927ba0f6ef561d7849ef500ebd2bb04ce40373382324600990fe3e29f2f059",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:38:14.383432+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b4fe564af4ce6d776be70873aff7dfccdfdcb72949cf1744cba93e21171904fd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:38:14.383432+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "綿花ゲノムにおけるブロモドメインファミリー遺伝子の同定とGhBRD34による植物の成長・発達促進",
+    "abstract_ja": "要旨    背景  ブロモドメイン（BRD）含有タンパク質は、植物の成長、発達、および環境ストレス応答における重要な調節因子である。しかし、綿花におけるこれらの具体的な生物学的機能や分子機構に関する理解は限られている。結果  本研究では、ゲノムワイドな解析を行い、陸生綿花ゲノムの24本の染色体上に位置する69種類のGhBRDファミリーメンバーを同定した。プロモーター領域の解析により、光シグナル伝達、非生物的ストレス応答、および植物ホルモンシグナル伝達において役割を果たす、いくつかの保存されたシス作用エレメントが明らかになった。利用可能なトランスクリプトームデータセットにより、これらの遺伝子のうち4種類（GhBRD1、GhBRD33、GhBRD34、およびGhBRD68）が異なる組織間で一貫して高い発現を示すことが判明し、これらの遺伝子が植物の成長と発達のさまざまな側面に関与していることが示唆された。陸生綿花においてウイルス誘導性遺伝子サイレンシングによりGhBRD34をサイレンシングしたところ、植物の成長と発達が著しく抑制され、草丈の低下と葉面積の相対的な縮小が認められた。対照的に、シロイヌナズナにおけるGhBRD34の過剰発現は、成長と発達を促進するだけでなく、植物を乾燥条件に対してより感受性高くした。結論  本研究の知見は、陸生綿花においてGhBRD34が成長、発達、および乾燥応答性に影響を及ぼす分子経路を解明することを目的とした今後の研究に向けた強固な基盤となるものである。"
   }
 ]
