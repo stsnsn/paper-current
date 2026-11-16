@@ -282998,5 +282998,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "TransPepMS: リファレンスプロテオームに存在しないペプチドを検証するツール",
     "abstract_ja": "細胞は、逆タンパク質分解産物や遺伝子融合産物など、リファレンスプロテオームに含まれないペプチドを生成する。これらは、自己免疫疾患、がんワクチン、およびT細胞療法において、ますます研究が進められている標的群である。配列そのものが発見の根拠となるが、同一質量の通常のゲノムコードペプチドでも同様にスペクトルを説明できるため、説得力のあるスペクトルの一致をもっても、それが確定したとはならない。独立したベンチマーク解析により、この曖昧さが、報告された非カノニカル同定における主要な誤差要因であることが明らかになっている。本研究では、提案された各割り当てを判定し、「保持」「未解決」「却下」のいずれかの判定を下すTransPepMSを提案する。例えば、報告された1,154種類のプロテアソームスプライス型免疫ペプチドを判定したところ、同一質量競合を生き残ったのはわずか53種類であったのに対し、インスリン-スパイクハイブリッド99種類のうち91種類が保持され、登録されていたカノニカルペプチド46種類はすべて却下された。この結果は、TransPepMSが単に主張を退けるのではなく、真正な非カノニカルペプチドを識別できることを示している。TransPepMSは、生物学的解釈や免疫標的の選択に先立って、ペプチドの検証を提供する。要旨図"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.37044/osf.io/76thg_v1",
+    "title": "DBCLS BioHackathon 2026 report: Mass spectrometry data analysis workflow and visualization towards trans-omics research",
+    "abstract": "Public repositories for mass spectrometry (MS) data contain rapidly growing collections of proteomic, metaproteomic, and metabolomic data, but differences in analytical procedures, metadata, data formats, and visualization environments limit their reuse and integration. During BioHackathon 2026, we developed complementary components of an infrastructure for standardized reanalysis for proteomics and trans-omics applications. First, we redesigned the jPOST proteomics reanalysis workflow to improve scalability, reduce manual intervention, and facilitate consistent transfer of data and metadata among the repository, reanalysis system, and jPOSTdb. The workflow uses detailed Journal of Proteome Data and Methods (JPDM) metadata and integrates results from three search engines using UniScore. Second, we developed metaproteome visualizations that connect spectral evidence with metabolic pathways and microbial phyla, enabling functional comparison among samples and experimental groups. Third, we enhanced Mass++4, a cross-platform spectrum and chromatogram viewer, by improving its connectivity with public repositories and expanding functions relevant to the inspection of proteomic and metabolomic data. Finally, we investigated the interoperability of MB-POST with the MetabolomicsHub common data model and mzTab-M. This analysis identified requirements for controlled-vocabulary mapping, explicit representation of experimental factors and sample groups, and standardization of quantitative-result formats. Together, these developments connect raw-data preservation, standardized metadata, reproducible reanalysis, biological visualization, and cross-repository interoperability. Although further implementation and large-scale validation are required, they provide a practical foundation for integrating proteomic, metaproteomic, and metabolomic data in future trans-omics studies.",
+    "journal": "",
+    "doi": "10.37044/osf.io/76thg_v1",
+    "date": "2026-10-21",
+    "authors": "Goto S, Yoshizawa AC, Moriya Y, Nishida K, Takahashi Y, Tanaka S, Kawano S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347139",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metabolic pathway",
+        "microbial",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metabolic pathway",
+          "visualization"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4848,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.37044/osf.io/76thg_v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "71a185b700e51b5e3babf52e3116360343c68a29cfe432eb8e65744cfd8e514e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:12:00.889334+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c3f19e4543ef9c3ff326e41a706a104ae7b31fecf42f80ea947df117d906848b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:12:00.889334+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DBCLS BioHackathon 2026 レポート：トランスオミクス研究に向けた質量分析データ解析ワークフローと可視化",
+    "abstract_ja": "質量分析（MS）データの公開リポジトリには、プロテオーム、メタプロテオーム、およびメタボロームデータのコレクションが急速に増加しているが、解析手順、メタデータ、データ形式、および可視化環境の相違が、それらの再利用や統合の妨げとなっている。BioHackathon 2026において、我々はプロテオミクスおよびトランスオミクスアプリケーション向けの標準化された再解析インフラストラクチャの補完的なコンポーネントを開発した。まず、スケーラビリティの向上、手作業による介入の削減、およびリポジトリ、再解析システム、jPOSTdb間でのデータとメタデータの一貫した転送の促進を目的として、jPOSTのプロテオミクス再解析ワークフローを再設計した。このワークフローは、Journal of Proteome Data and Methods (JPDM) の詳細なメタデータを利用し、UniScoreを用いて3つの検索エンジンからの結果を統合する。次に、スペクトルエビデンスを代謝経路および微生物門と結びつけ、サンプル間や実験グループ間の機能的比較を可能にするメタプロテオーム可視化機能を開発した。第三に、クロスプラットフォームのスペクトラムおよびクロマトグラムビューアであるMass++4を強化し、公開リポジトリとの接続性を向上させるとともに、プロテオームおよびメタボロームデータの解析に関連する機能を拡張した。最後に、MB-POSTとMetabolomicsHub共通データモデルおよびmzTab-Mとの相互運用性を検証した。この分析により、統制語彙マッピング、実験因子およびサンプルグループの明示的な表現、ならびに定量結果フォーマットの標準化に関する要件が特定された。これらの開発は総じて、生データの保存、標準化されたメタデータ、再現可能な再解析、生物学的可視化、およびリポジトリ間の相互運用性を結びつけるものである。さらなる実装と大規模な検証が必要であるものの、これらは今後のトランスオミクス研究においてプロテオーム、メタプロテオーム、およびメタボロームデータを統合するための実用的な基盤となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.12688/wellcomeopenres.28101.1",
+    "title": "The genome sequence of the Pink Waxcap, Porpolomopsis calyptriformis (Berk. Bresinsky, 2008) (Agaricales: Hygrophoraceae)",
+    "abstract": "We present a genome assembly of  Porpolomopsis calyptriformis (Pink Waxcap; Basidiomycota; Agaricomycetes; Agaricales; Hygrophoraceae). The genome sequence has a total length of 33.46 megabases. Most of the assembly (99.01%) is scaffolded into 14 chromosomal pseudomolecules. The mitochondrial genome has been assembled, with a length of 84.19 kilobases. Gene annotation of this assembly on Ensembl identified 8,565 protein-coding genes. This assembly was generated as part of the Darwin Tree of Life project, which produces reference genomes for eukaryotic species found in Britain and Ireland.",
+    "journal": "",
+    "doi": "10.12688/wellcomeopenres.28101.1",
+    "date": "2026-10-21",
+    "authors": "Cullington P, Woof K, Douglas B, Blencowe C, Royal Botanic Gardens Kew Genome Acquisition Lab, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346589",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4849,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.12688/wellcomeopenres.28101.1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5c6609bb2599c848730dbb60750a53370feffac605a6307118579e74d8a35d5b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:12:00.889334+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7eb0e0e4831de46153556b1f89d5be2d1c48ea9fa590eeb36b9ce707349e0def",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:12:00.889334+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ピンクワックスキャップ Porpolomopsis calyptriformis (Berk. Bresinsky, 2008) (Agaricales: Hygrophoraceae) のゲノム配列",
+    "abstract_ja": "Porpolomopsis calyptriformis（ピンクワックスキャップ；担子菌門；ハラタケ綱；ハラタケ目；ハイグロフォラ科）のゲノムアセンブリを提示する。ゲノム配列の全長は33.46メガベースである。アセンブリの大部分（99.01%）は、14本の染色体擬似分子にスキャフォールディングされている。ミトコンドリアゲノムもアセンブルされており、その全長は84.19キロベースである。Ensemblを用いた本アセンブリの遺伝子アノテーションにより、8,565個のタンパク質符号化遺伝子が同定された。本アセンブリは、英国およびアイルランドに生息する真核生物種のリファレンスゲノムを構築するDarwin Tree of Lifeプロジェクトの一環として作成された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.12688/wellcomeopenres.27618.1",
+    "title": "The genome sequence of Matthiola sinuata W.T.Aiton, 1812 (Brassicales: Brassicaceae)",
+    "abstract": "We present a genome assembly of  Matthiola sinuata (sea stock; Streptophyta; Magnoliopsida; Brassicales; Brassicaceae). The assembly consists of two haplotypes with total lengths of 2,066.38 megabases and 2,057.22 megabases. Most of the haplotype 1 assembly (99.52%) was scaffolded into seven chromosomal pseudomolecules. Haplotype 2 was assembled to scaffold level. The mitochondrial genome assembly has a length of 418.53 kilobases and the plastid genome assembly has a length of 153.5 kilobases. Gene annotation of this assembly by Ensembl identified 26,923 protein-coding genes. This assembly was generated as part of the Darwin Tree of Life project, which produces reference genomes for eukaryotic species found in Britain and Ireland.",
+    "journal": "",
+    "doi": "10.12688/wellcomeopenres.27618.1",
+    "date": "2026-10-21",
+    "authors": "Christenhusz MJM, Mian S, Royal Botanic Gardens Kew Genome Acquisition Lab, Plant Genome Sizing Collective, Darwin Tree of Life Barcoding collective, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346588",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4850,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.12688/wellcomeopenres.27618.1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "01b8c4c9ae5be2782a5c992c6cd0f45472ef952c86cc353243dd3b58f52b7e5e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:12:00.889334+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "307d001e830291be831330c5d9251e93448505a9702b83ab0ba964a907d7fbe2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:12:00.889334+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Matthiola sinuata W.T.Aiton, 1812 (Brassicales: Brassicaceae) のゲノム配列",
+    "abstract_ja": "Matthiola sinuata（海産株；ストレプトフィタ門；マグノリオプシダ綱；アブラナ目；アブラナ科）のゲノムアセンブリを提示する。本アセンブリは、総長2,066.38メガベースおよび2,057.22メガベースの2つのハプロタイプから構成される。ハプロタイプ1アセンブリの大部分（99.52%）は、7つの染色体擬似分子へとスキャフォールディングされた。ハプロタイプ2はスキャフォールドレベルでアセンブルされた。ミトコンドリアゲノムアセンブリの全長は418.53キロベース、プラスチドゲノムアセンブリの全長は153.5キロベースである。Ensemblによる本アセンブリの遺伝子アノテーションにより、26,923個のタンパク質符号化遺伝子が同定された。本アセンブリは、英国およびアイルランドに生息する真核生物種のリファレンスゲノムを構築するDarwin Tree of Lifeプロジェクトの一環として作成された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.26365782",
+    "title": "Plasma Proteomic Classification of Alzheimer Disease, Parkinson Disease, and Amyotrophic Lateral Sclerosis Using a Single Neurodegeneration Panel: A Diagnostic Cohort Study",
+    "abstract": "Importance  Blood biomarkers for Alzheimer disease(AD), Parkinson disease(PD), and amyotrophic lateral sclerosis(ALS) are typically developed as disease-specific single-analyte tests. Whether one shared plasma panel can support disease-selective classification remains unclear. Objective  To test whether the Olink Target 48 Neurodegeneration plasma panel, analyzed with disease-specific Elastic Net models, can discriminate AD, PD, and ALS in a heterogeneous neurological cohort. Design, Setting, and Participants  Single-center diagnostic cohort study at Keio University Hospital, Tokyo, Japan. After quality control and one consent withdrawal, 302 participants were analyzed(healthy controls n = 62; AD continuum n = 93; PD n = 39; ALS n = 27; other neurological disorders n = 81) and allocated by diagnosis-stratified sampling into a discovery training set(n = 211) and a locked hold-out test set(n = 91). Exposures  Plasma normalized protein expression from 42 assays retained after protein quality control. Plasma DOPA decarboxylase was excluded a priori from all classifiers because blood levels primarily reflect dopaminergic treatment exposure. Main Outcomes and Measures  Hold-out receiver operating characteristic area under the curve(AUC). Sensitivity and specificity at a training-set Youden threshold locked for Test. Results  Hold-out AUCs were 0.974(95% CI, 0.942-0.995) for AD, 0.926(0.820-1.000) for PD, and 0.995(0.980-1.000) for ALS. At locked Youden cutoffs, sensitivity was 0.929 (95% CI, 0.765-0.991) and specificity was 0.921 (95% CI, 0.824-0.974) for AD, 0.833 (95% CI, 0.516-0.979) and 0.975 (95% CI, 0.912-0.997) for PD, and 1.000 (95% CI, 0.631-1.000) and 0.940 (95% CI, 0.865-0.980) for ALS. Conclusions and Relevance  A single plasma neurodegeneration panel supported disease-selective classification of AD, PD, and ALS in internal validation. Multicenter external validation is needed before clinical application. Key Points  Question  Can a single plasma neurodegeneration panel classify Alzheimer disease (AD), Parkinson disease (PD), and amyotrophic lateral sclerosis (ALS) in a heterogeneous neurological cohort? Findings  In this diagnostic cohort study, disease-specific Elastic Net models derived from a single plasma panel enabled the discrimination of AD, PD, and ALS from other neurological disorders and healthy controls. Meaning  A single plasma neurodegeneration panel can simultaneously support disease-selective classification of AD, PD, and ALS, offering a unified approach to blood-based diagnosis.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.26365782",
+    "date": "2026-10-21",
+    "authors": "Okada K, Shimohama S, Okochi R, Bun S, Takahata K, Tabuchi H, Iwabuchi Y, Tezuka T, Nukariya T, Okusa S, Nihei Y, Morimoto S, Takahashi S, Tai K, Sato Y, Kuromitsu J, Nakahara J, Seki M, Okano H, Mimura M, Ito D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348543",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "classification",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "classification",
+          "proteomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4865,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.10.19.26365782"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6c8e095ce05f87dc1b1773b71f109a9f08b35dbdbc5c0e3b927b4bc7b0a339f6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:12:00.889334+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "17e087fc26290c33120b9d1d76d9aa44b56109ee64a01502236a7ebbef9b5b21",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:12:00.889334+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一神経変性パネルを用いたアルツハイマー病、パーキンソン病および筋萎縮性側索硬化症の血漿プロテオーム分類：診断コホート研究",
+    "abstract_ja": "重要性  アルツハイマー病（AD）、パーキンソン病（PD）、および筋萎縮性側索硬化症（ALS）の血液バイオマーカーは、通常、疾患特異的な単一分析項目検査として開発される。単一の血漿パネルが疾患選択的な分類を支援できるかは依然として不明である。目的  疾患特異的なElastic Netモデルを用いて解析したOlink Target 48神経変性血漿パネルが、不均一な神経学的コホートにおいてAD、PD、およびALSを判別できるかを検証すること。デザイン、設定、および参加者  日本の東京都、慶應義塾大学病院における単一施設診断コホート研究。品質管理および1件の同意撤回を経て、302名の参加者（健常対照群 n = 62、AD連続体 n = 93、PD n = 39、ALS n = 27、その他の神経疾患 n = 81）を解析し、診断層別サンプリングにより、探索用訓練セット（n = 211）とロック済みホールドアウトテストセット（n = 91）に割り当てた。曝露  タンパク質品質管理後に保持された42種類のアッセイによる血漿中正規化タンパク質発現量。血漿DOPA脱炭酸酵素は、血中濃度が主にドーパミン作動性治療への曝露を反映するため、すべての分類器からあらかじめ除外した。主要アウトカムおよび評価指標  ホールドアウト受信者動作特性曲線下面積（AUC）。テスト用に固定された訓練セットのYouden閾値における感度および特異度。結果  ホールドアウトAUCは、ADで0.974（95% CI, 0.942-0.995）、PDで0.926（0.820-1.000）、ALSで0.995（0.980-1.000）であった。ロック済みYoudenカットオフ値において、感度はADで0.929（95% CI, 0.765-0.991）、特異度は0.921（95% CI, 0.824-0.974）、PDで0.833（95% CI, 0.516-0.979）および0.975（95% CI, 0.912-0.997）、ALSで1.000（95% CI, 0.631-1.000）および0.940（95% CI, 0.865-0.980）であった。結論および意義  単一の血漿神経変性パネルは、内部検証においてAD、PD、およびALSの疾患選択的分類を支援した。臨床応用の前に、多施設外部検証が必要である。要点  問い  単一の血漿神経変性パネルは、不均一な神経学的コホートにおいてアルツハイマー病（AD）、パーキンソン病（PD）、および筋萎縮性側索硬化症（ALS）を分類できるか？ 知見  本診断コホート研究において、単一の血漿パネルから導出された疾患特異的なElastic Netモデルにより、AD、PD、およびALSを他の神経疾患および健常対照群から判別することが可能となった。 意義  単一の血漿神経変性パネルは、AD、PD、およびALSの疾患選択的分類を同時に支援でき、血液ベースの診断に対する統一的なアプローチを提供する。"
   }
 ]
