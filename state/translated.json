@@ -280224,5 +280224,283 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ゲノムDNAリピートは、広範なSchlafen免疫エフェクターに対する抗毒素として機能する。",
     "abstract_ja": "多くの抗ファージ防御機構は、ファージ感染に応答して毒性免疫エフェクターを利用するため、細胞が未感染状態にあるときにこれらの毒素に対抗する強固な戦略が必要となる。本稿では、ゲノムDNAリピートを利用して毒素抑制を行う、独自の毒素媒介防御機構ファミリーの創始メンバーであるStaINについて述べる。このシステムは、リピート遺伝子座（staI）と、Schlafen、ATPase、およびヘリックスターンヘリックス（HTH）ドメインを有する毒性タンパク質（StaN）から構成される。我々は、StaNがstaI DNAに結合するATP活性化型tRNAaseであり、StaNの毒性を中和するにはstaI DNAが必要であることを示す。計算解析により、細菌および古細菌において1つ以上のHTHドメインを有する数千のStaNホモログが同定され、その多くはDNAリピートが濃縮されたゲノム遺伝子座に存在していた。さらに、機能解析により、離れた位置にあるStaNホモログが同様のDNAゲート型毒性を示すことが明らかになった。総じて、我々の知見は、毒素-抗毒素様システムの論理を拡張し、非コードゲノムDNAからなる抗毒素を包含するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.13.766372",
+    "title": "From species-wide genomics to cellular diversity: characterizing multidrug-resistant extraintestinal pathogenic Escherichia coli ST744",
+    "abstract": "The species Escherichia coli represents a wide and heterogeneous range of strains. Here, we exploited this genomic diversity to examine the distribution of virulence-associated genes (VAGs) and antibiotic resistance genes (ARGs) within a collection of 131,610 E. coli genomes. Across lineages of extraintestinal pathogenic E. coli (ExPEC), we identified a negative correlation between VAG and ARG content, with ST744 carrying the most resistance genes on average. Phylogenomic analysis of a global ST744 cohort revealed the existence of two main clades, and substantial variation in accessory gene content, resistance-region organization, and plasmid carriage. Subsequent phenotypic characterization revealed that the interpretability of genomic information depends on the trait being considered. Whereas antibiotic susceptibility measurements generally agreed with genomic predictions, limited correspondence was observed between the presence of specific metabolic and stress-associated genes and enhanced growth under such conditions. Image-based profiling also revealed extensive diversity in cell morphology, nucleoid organization and cell-cycle timing across strains, even among nearly clonal isolates. Together, our findings provide an in-depth characterization of E. coli ST744, within the broader diversity of E. coli and EXPEC, as well as a framework for examining how genomic differences relate to phenotypic diversity within other ExPEC lineages.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766372",
+    "date": "2026-11-16",
+    "authors": "Nesporova, K., Steemans, B., Palkovicova, J., Krutekova, K., Meunier, A., Valcek, A., Dolejska, M., Govers, S. K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766372v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4995,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766372"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7fe8c5afb8a18b166866a683f3f0361dca37a3de7fe0e5d34dade14aac9f0d29",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:47:44.957562+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b281feb9cf99b2988b0f40d73dc55a877aa329a67932286c3f130ba1d0e0db59",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:47:44.957562+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "種レベルのゲノミクスから細胞多様性まで：多剤耐性腸管外病原性大腸菌ST744の特性解析",
+    "abstract_ja": "大腸菌（Escherichia coli）種は、広範かつ不均一な菌株群を有している。本研究では、このゲノム多様性を活用し、131,610件の大腸菌ゲノムコレクションにおける病原性関連遺伝子（VAG）および抗生物質耐性遺伝子（ARG）の分布を検討した。腸管外病原性大腸菌（ExPEC）の系統間において、VAGおよびARG含有量の間に負の相関が認められ、平均してST744が最も多くの耐性遺伝子を保持していた。グローバルなST744コホートの系統ゲノム解析により、2つの主要なクレードが存在すること、および補助遺伝子の含有量、耐性領域の構成、プラスミド保有において顕著な変異があることが明らかになった。その後の表現型特性解析により、ゲノム情報の解釈可能性は検討対象となる形質に依存することが示された。抗生物質感受性測定値は概ねゲノム予測と一致したが、特定の代謝関連遺伝子やストレス関連遺伝子の存在と、そのような条件下での増殖促進との間には、限定的な対応関係しか認められなかった。画像ベースのプロファイリングによっても、ほぼクローン的な分離株間であっても、菌株間で細胞形態、核様体の構成、および細胞周期のタイミングに広範な多様性が存在することが明らかになった。以上の知見を総合すると、本研究は、大腸菌およびExPECのより広範な多様性における大腸菌ST744の詳細な特性解析を提供するとともに、ゲノムの差異が他のExPEC系統内の表現型多様性とどのように関連しているかを検討するための枠組みを提示するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.13.766458",
+    "title": "Extracellular Lactate Inhibits HIV Infection in Dendritic Cells by Downregulating CD4 Expression",
+    "abstract": "Cellular metabolism and cellular microenvironments influences immune-cell function. We previously demonstrated that interleukin-27 (IL-27)-induced monocyte-derived dendritic cells (27DCs) exhibit resistance to HIV-1. A mechanistic study for this antiviral effect suggested that in addition to inducing antiviral genes, IL-27 may influence cellular metabolism that contributes to the anti-HIV effect. During course of study, we observed that 27DCs accumulated lactate in culture supernatants by 5.7-fold increase compared with cultures of untreated DCs (iDCs) (12.1{+/-}1.3 versus 2.1{+/-}0.2 mM). Here, we assesses extracellular role of lactate on HIV infection. Healthy donors CD14+ monocytes were differentiated to DCs using GM-CSF and IL-4 in the absence of presence of lactate (Lac). DCs were infected with HIVAD8. Lactate-induced DC (LacDC) reduced R5-tropic HIV-1 AD8 replication by 71.1{+/-}8.3% without detectable cytotoxicity compared to that in untreated cells (iDCs). LacDCs exhibited reductions in viral particles binding, membrane fusion of viral particles, and HIV reverse-transcription by 78.5{+/-}2.8% (n=3, p<0.05), 78.7{+/-}3.3% (n=3, p<0.01), 86.2{+/-}5.7% (n=3. p<0.01), respectively. FACS analyses demonstrated that surface CD4 expression on LacDC decreased by 56.6{+/-}5.1% (n=5 , p<0.05) compared to iDC, whereas total cellular CD4 protein amount and surface CCR5 expression were not significantly altered. Neither the lactate transporter inhibitor nor the lactate receptor restored HIV-1 susceptibility. These findings demonstrate that lactate exposure during dendritic-cell differentiation induces an HIV-1-resistant phenotype associated with reduced surface CD4 availability and impaired viral attachment. This study identifies extracellular lactate as a modulator of dendritic-cell susceptibility to HIV-1 and suggests a potential link between IL-27-associated metabolic changes and antiviral immunity.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766458",
+    "date": "2026-11-16",
+    "authors": "Marquez, M., Bruchey, W., Chen, Q., Yang, J., Kariyawasam, U., Metz, J., Sowrirajan, B., Rupert, A., Laverdure, S., Imamichi, T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766458v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4996,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766458"
+    ],
+    "translation": {
+      "title": {
+        "hash": "548b562fc3dac33e6e2409e549f494d92bab275242639e8ee576b05165e82194",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:47:44.957562+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "303ffdddf2a22075960e299d2fe79ed58b502f0c06247c4e1b23eb96ce3ff4b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:47:44.957562+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞外乳酸はCD4発現の低下を介して樹状細胞におけるHIV感染を抑制する",
+    "abstract_ja": "細胞代謝および細胞微小環境は、免疫細胞の機能に影響を及ぼす。我々は以前、インターロイキン-27（IL-27）誘導性の単球由来樹状細胞（27DCs）がHIV-1に対する耐性を示すことを実証した。この抗ウイルス効果に関する機序研究では、IL-27が抗ウイルス遺伝子を誘導するだけでなく、抗HIV効果に寄与する細胞代謝にも影響を及ぼしている可能性が示唆された。研究の過程で、27DCsは未処理のDCs（iDCs）の培養と比較して、培養上清中に乳酸を5.7倍蓄積すること（12.1{+/-}1.3対2.1{+/-}0.2 mM）を観察した。本研究では、HIV感染における乳酸の細胞外役割を評価する。健常ドナー由来のCD14+単球を、乳酸（Lac）非存在下でGM-CSFおよびIL-4を用いてDCsへと分化させた。DCsにHIVAD8を感染させた。乳酸誘導性DC（LacDC）は、未処理細胞（iDCs）と比較して、検出可能な細胞毒性を示すことなく、R5トロピックHIV-1 AD8の複製を71.1{+/-}8.3%減少させた。LacDCsでは、ウイルス粒子の結合、ウイルス粒子の膜融合、およびHIV逆転写がそれぞれ78.5{+/-}2.8%（n=3, p<0.05）、78.7{+/-}3.3%（n=3, p<0.01）、86.2{+/-}5.7%（n=3, p<0.01）減少した。FACS解析により、LacDC上の表面CD4発現はiDCと比較して56.6{+/-}5.1%減少した（n=5, p<0.05）一方、細胞全体のCD4タンパク質量および表面CCR5発現に有意な変化は認められなかった。乳酸トランスポーター阻害剤および乳酸受容体のいずれも、HIV-1感受性を回復させなかった。これらの知見は、樹状細胞分化過程における乳酸曝露が、表面CD4の利用能の低下およびウイルス付着の障害を伴うHIV-1耐性表現型を誘導することを示している。本研究は、細胞外の乳酸を樹状細胞のHIV-1感受性調節因子として同定し、IL-27に関連する代謝変化と抗ウイルス免疫との潜在的な関連性を示唆するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.12.766201",
+    "title": "Extensive SARS-CoV-2 spike sequence diversification converges on a bounded, low-dimensional physicochemical space",
+    "abstract": "During the COVID-19 pandemic, SARS-CoV-2 accumulated extensive amino acid variation in its spike protein. However, the extent to which sequence diversification translates into physicochemical diversity remains unclear. Here, we analyzed 271,769 unique spike protein sequences from 12 geographical regions using three physicochemical descriptors: net charge at pH 7.0, hydropathy, and aliphatic index. To characterize temporal changes in physicochemical space, we compared the squared Mahalanobis distances of observed sequences with those of Monte Carlo-simulated sequences containing randomized amino acid substitutions, constrained to the number of empirically variable positions. We applied trimmed clustering to characterize sequence distributions in physicochemical space and used Shannon entropy to assess spatiotemporal relationships between genotypic and physicochemical diversity across geographic regions. Empirical physicochemical displacement increased early in the observation period and subsequently stabilized, despite continued increases in variable amino acid positions and accumulated substitutions. In contrast, simulated trajectories exhibited greater and sustained physicochemical divergence. Trimmed clustering identified six distinct physicochemical groups repeatedly occupied by genetically divergent lineages differing in mutation burden, amino acid composition, and emergence time. Shannon entropy analyses revealed broadly similar nonlinear temporal patterns across geographic regions, with differences between genotypic and physicochemical entropy tending to be negative. These findings indicate that extensive spike protein sequence diversification occurred within a comparatively restricted physicochemical space, consistent with a many-to-one relationship between amino acid sequences and physicochemical states. This framework provides a quantitative approach for investigating physicochemical constraints on viral protein evolution and may inform future machine learning approaches to epitope prediction and vaccine antigen design.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766201",
+    "date": "2026-11-16",
+    "authors": "Manoussopoulos, Y., Anastassopoulou, C., Manoussopoulou, M., Siettos, C., Hiscox, J. A., Ioannidis, J., Tsakris, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766201v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4997,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.12.766201"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d5534353a20dab0f3d91588f0eb46a5630a8c5d92b8549c108d57e462f4c48d6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:47:44.957562+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7de4058cd02932d88b82d676100995736842552e18730ad9b7e40e1ce2a1ece7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:47:44.957562+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "広範なSARS-CoV-2スパイク配列の多様化は、有界な低次元の物理化学的空間に収束する。",
+    "abstract_ja": "COVID-19パンデミックの間、SARS-CoV-2はそのスパイクタンパク質に広範なアミノ酸変異を蓄積した。しかし、配列の多様化が物理化学的多様性にどの程度反映されるかは不明である。本研究では、12の地理的領域から得られた271,769個の固有のスパイクタンパク質配列を、pH 7.0における正味電荷、ヒドロパシー、および脂肪族指数という3つの物理化学的記述子を用いて解析した。物理化学空間における時間的変化を特徴づけるため、観測された配列のマハラノビス距離の2乗を、経験的に可変な位置数に制限し、ランダムなアミノ酸置換を含むモンテカルロシミュレーション配列のそれと比較した。物理化学空間における配列分布を特徴づけるためにトリム済みクラスタリングを適用し、地理的領域間における遺伝子型多様性と物理化学的多様性の時空間的関係を評価するためにシャノンエントロピーを用いた。経験的な物理化学的変位は、観測期間の初期に増加し、その後、可変アミノ酸位置の継続的な増加と蓄積された置換にもかかわらず、安定した。対照的に、シミュレーションされた軌跡は、より大きく持続的な物理化学的分岐を示した。トリム済みクラスタリングにより、変異負荷、アミノ酸組成、および出現時期が異なる遺伝的に分岐した系統が繰り返し占める6つの明確な物理化学的グループが同定された。シャノンエントロピー解析により、地理的領域間で概ね同様の非線形な時間的パターンが認められ、遺伝子型エントロピーと物理化学的エントロピーの差は負になる傾向があった。これらの知見は、スパイクタンパク質配列の広範な多様化が比較的限定された物理化学空間内で起こったことを示しており、アミノ酸配列と物理化学的状態の多対一の関係と一致している。この枠組みは、ウイルスタンパク質進化に対する物理化学的制約を調査するための定量的アプローチを提供し、エピトープ予測やワクチン抗原設計に向けた将来の機械学習手法に知見を与える可能性がある。"
+  },
+  {
+    "id": "10.64898/2026.11.13.766414",
+    "title": "Mapping the genetic landscape of cell morphogenesis and subcellular organization in stationary-phase Escherichia coli cells",
+    "abstract": "In nature, many bacteria reside in a non-growing stationary phase. The extent and genetic basis of the accompanying cellular remodeling remain unclear. Here, we developed Coli-Painting, a combinatorial staining assay, and BactoScoop, a dedicated image-based profiling pipeline, to characterize the growth-to-stasis transition in Escherichia coli. Single-cell profiles revealed a gradual yet heterogeneous entry, with some cells retaining signs of chromosome replication or cell division well into stationary phase. Subsequent genome-wide profiling identified genetic determinants of stationary-phase cell morphology, nucleoid organization, RNA distribution, and membrane-related properties. Global correlations among cellular features revealed coordinated aspects of stationary-phase cell architecture, while high-dimensional mutant profiles provided functional context for genes of known and unknown function. Downstream characterization of 19 y-genes highlighted the ability of our approach to identify relevant contributors to stationary-phase physiology. Overall, our work uncovers the genetic landscape of stationary-phase cell organization in E. coli and serves as a resource for uncovering growth-stage-specific gene function.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766414",
+    "date": "2026-11-16",
+    "authors": "Steemans, B., Sondervorst, K., Herdman, M., Nesporova, K., Meunier, A., Meert, E., Govers, S. K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766414v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4998,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766414"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bbb79ba7eb75433167fddeb1d5d7d5db815dfd61a8a4af2a09f43b0c8905a46c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:47:44.957562+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5e37f31e2721c0733bc1356bbfb2f10470f57cbd1a354775abc0dd8bf193158a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:47:44.957562+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "定常期大腸菌細胞における細胞形態形成と細胞内組織化の遺伝的ランドスケープのマッピング",
+    "abstract_ja": "自然界において、多くの細菌は非増殖性の定常期に存在している。それに伴う細胞リモデリングの程度や遺伝的基盤は依然として不明である。本研究では、大腸菌における増殖から定常期への移行を特性評価するため、組み合わせ型染色アッセイであるColi-Paintingと、専用の画像ベースプロファイリングパイプラインであるBactoScoopを開発した。単一細胞プロファイルからは、緩やかながらも不均一な移行が認められ、一部の細胞は定常期に入っても染色体複製や細胞分裂の痕跡を保持していた。その後のゲノムワイドプロファイリングにより、定常期細胞の形態、核様体の形成、RNA分布、および膜関連特性の遺伝的決定因子が同定された。細胞特性間の全体的な相関解析により、定常期細胞構造の協調的な側面が明らかになり、高次元変異体プロファイルは、既知および未知の機能を持つ遺伝子に機能的な背景情報を提供した。19個のy遺伝子の下流特性解析により、本手法が定常期の生理学的機能に寄与する関連因子を同定できる能力が示された。総じて、本研究は大腸菌における定常期細胞組織化の遺伝的ランドスケープを明らかにし、増殖段階特異的な遺伝子機能を解明するためのリソースとなる。"
   }
 ]
