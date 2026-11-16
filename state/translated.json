@@ -263876,5 +263876,317 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "患者特異的遺伝子制御ネットワークのクラスタリング戦略に関する汎がんベンチマーク",
     "abstract_ja": "臨床的に類似した腫瘍を有するがん患者間においても、疾患の進行や治療反応性に著しい差異が見られることがある。患者固有の遺伝子調節ネットワーク（GRN）は、遺伝子発現だけでは表現できない調節上の不均一性を捉えている可能性がある。しかし、これらの高次元ネットワークを用いて患者をクラスタリングする手法は体系的に評価されておらず、数百万に及ぶ患者固有の調節エッジ重みに直接基づくクラスタリングが、大規模に計算量的に実現可能であるかは依然として不明である。本研究では、PANDAおよびLIONESSを用いて推定した患者固有GRNに対し、33種類のがん種にわたる9,778例の原発腫瘍検体を用いて、特徴量選択およびクラスタリング手法のベンチマーク評価を行った。遺伝子発現、各遺伝子への調節入力をまとめた遺伝子入次数、および転写因子－遺伝子エッジ重みの完全なネットワークという3つのデータ表現を比較した。4種類の特徴量選択手法と5種類のクラスタリングアルゴリズムの20通りの組み合わせを、コンセンサスクラスタリングを用いて評価した。性能は、平均シルエットスコア、PACスコア、一致度、計算時間、およびメモリ使用量に基づいて評価した。標準偏差に基づく特徴量選択とk-meansクラスタリングを組み合わせた手法は、GRN由来の両表現において最も優れた総合性能を示し、エッジ重みで0.997、入次数で0.985という総合スコアを達成しつつ、計算効率も維持していた。エッジ重みおよび入次数から導出されたクラスターは、遺伝子発現から得られたものと相補的な、臨床的、生物学的、および予後的な関連性を示した。以上の知見を総合すると、ネットワークに基づくがん患者の層別化のための実用的な枠組みが提供されるとともに、GRN由来の特徴量が遺伝子発現のみを超えて臨床的に意義のある腫瘍の不均一性を明らかにする可能性が示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760090",
+    "title": "Evaluating the added value of sequence models in noncoding RNA assays: a baseline-aware framework",
+    "abstract": "Sequence models can improve prediction of non-coding RNA assay read-outs, but their contribution depends on the comparison baseline. We present a baseline-aware framework that estimates model-added-last changes in AUROC for lncRNA labels and cross-validated Spearman correlation for miRNA repression, fixing members and chromosome folds across available sources. In cross-cell CRISPRi (n = 2961), AlphaGenome increased AUROC from 0.6426 to 0.7551; adding K562 accessibility raised baseline AUROC to 0.7282, with augmented AUROC of 0.7534. Corrected-source Cas13 increments ranged from –0.0161 to +0.0130 (n = 871). Post-audit comparisons evaluated sequence composition, broader regularization and TargetScan aggregate identity. With expanded regularization, composition improved four baselines but reduced Cas13 AUROC by 0.0365. After composition adjustment, RNA-FM’s increment was –0.0014 for CRISPRi under the initial grid and +0.000044 for HEK293FT under the expanded grid. Small increments changed sign with regularization. On the same 1227 HeLa members, replacing a seed-family aggregate with an identity-supported mature-miRNA aggregate increased baseline Spearman from 0.4140 to 0.4799. RNA-FM added 0.0170 beyond this baseline, or 0.0014 after composition adjustment. These gene-level aggregates lacked experimental transcript/site alignment. Resampling was descriptive or non-joint, without calibrated confirmation, prespecified practical-size thresholds or verified pretraining overlap. The framework identifies positive model contributions and makes their dependence on baseline content, feature identity and regularization explicit, providing a practical basis for interpreting sequence-model performance.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760090",
+    "date": "2026-10-25",
+    "authors": "Guo R, Shan W, Liu R, Yang L, Mu D, Wang H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350545",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4824,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.10.22.760090"
+    ],
+    "translation": {
+      "title": {
+        "hash": "36c3fa88243f48a929562322ba6583e4a5ef801fe41b43bdbf45e27fefa3c456",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:22:41.700244+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e291a93124136a5c1dc4ce9e6c3bcdc283e244d82891036ee2f7565c3e16db31",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:22:41.700244+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非コードRNAアッセイにおけるシーケンスモデルの付加価値評価：ベースラインを考慮したフレームワーク",
+    "abstract_ja": "配列モデルは非コードRNAアッセイのリードアウト予測を向上させることができるが、その寄与度は比較ベースラインに依存する。本研究では、利用可能なソース間でメンバーおよび染色体フォールドを固定し、lncRNAラベルのAUROCにおけるモデル追加最終変化量と、miRNA抑制のクロスバリデーション済みスピアマン相関を推定する、ベースライン認識型フレームワークを提案する。クロスセルCRISPRi（n = 2961）において、AlphaGenomeはAUROCを0.6426から0.7551に向上させ、K562のアクセシビリティを追加することでベースラインAUROCを0.7282に引き上げ、補正後ソースのCas13の増加量は–0.0161から+0.0130の範囲であった（n = 871）。事後監査比較では、配列組成、より広範な正則化、およびTargetScanの集約アイデンティティを評価した。正則化を拡大したところ、組成は4つのベースラインで改善したが、Cas13のAUROCは0.0365低下した。組成調整後、RNA-FMの増加量は、初期グリッド下のCRISPRiで–0.0014、拡大グリッド下のHEK293FTで+0.000044であった。小規模な増加量は、正則化によって符号が反転した。同一の1227個のHeLaメンバーにおいて、seed-family集約をアイデンティティ支持型のmature-miRNA集約に置き換えたところ、ベースラインのスピアマン相関は0.4140から0.4799に向上した。RNA-FMはこのベースラインに0.0170を加算し、組成調整後は0.0014を加算した。これらの遺伝子レベルの集約には、実験的な転写産物/部位アライメントが欠けていた。リサンプリングは記述的または非共同的なものであり、較正済みの確認、あらかじめ規定された実用サイズの閾値、あるいは検証済みの事前学習オーバーラップは存在しなかった。本フレームワークは、モデルの正の寄与を特定し、それらがベースラインの内容、特徴アイデンティティ、および正則化に依存していることを明示することで、配列モデルの性能を解釈するための実用的な基盤を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760051",
+    "title": "Microbial priming controls terrestrial carbon burial in marine sediments",
+    "abstract": "Marine sediments are a globally important sink for organic carbon of both marine and terrestrial origin, yet far less terrestrial carbon is ultimately buried than rivers deliver to the ocean margins. This long-standing “terrestrial carbon conundrum” has resisted explanation, largely because conventional bulk proxies cannot distinguish marine, terrestrial and microbial-degrader carbon pools. Here we use sedimentary ancient DNA from five records spanning the Bering Sea to the Sea of Okhotsk over the past 30,000 years to reconstruct organic carbon resolved simultaneously by taxonomy and habitat. Integrating these taxon-resolved carbon estimates with environmental proxies across the last glacial–interglacial cycle, we find that terrestrial carbon burial is governed not only by supply but by biogeochemical interactions previously documented only in soils. Microbial processing splits into two competing pathways: under priming, marine organic matter fuels the degradation of terrestrial organic matter, whereas under preferential substrate utilization microbes consume marine organic matter and spare terrestrial carbon. Both pathways are triggered only once marine organic-matter availability crosses a critical, temperature-governed threshold. This temperature-sensitive cascade reveals a previously unrecognized vulnerability of the ocean’s carbon sink to global warming.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760051",
+    "date": "2026-10-23",
+    "authors": "Weiß JF, Stoof-Leichsenring KR, Boeckel C, Lembke-Jene L, Meyer VD, John U, Herzschuh U.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349610",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean",
+          "river"
+        ],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 851,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760051"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d24807723b08871662cbe8fe1e93d4846b52988c86c288f10c6e3b3567cc9de5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:22:41.700244+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "baebfd80a1fa313e224cf28528ab47613bc384bc7fd467ccffab701dc9759db4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:22:41.700244+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物プライミングが海洋堆積物中の陸上炭素埋没を制御する",
+    "abstract_ja": "海洋堆積物は、海洋および陸域由来の有機炭素にとって世界的に重要な吸収源であるが、最終的に埋没する陸域炭素の量は、河川が海洋縁辺域に供給する量に比べてはるかに少ない。この長年の「陸域炭素の難問」は解明が困難であったが、その主な理由は、従来のバルクプロキシでは海洋、陸域、および微生物分解による炭素プールを区別できないためである。本研究では、過去3万年間にわたるベーリング海からオホーツク海に至る5つの記録から得られた堆積物由来の古代DNAを用い、分類学的手法と生息環境の双方によって同時に同定された有機炭素を復元した。これらの分類学的に同定された炭素推定値を、最終氷期・間氷期サイクルにわたる環境プロキシと統合した結果、陸域炭素の埋没は供給だけでなく、これまで土壌においてのみ報告されていた生物地球化学的相互作用によっても制御されていることが明らかになった。微生物による処理は、競合する2つの経路に分かれる。プライミング条件下では、海洋有機物が陸域有機物の分解を促進する一方、優先的基質利用条件下では、微生物が海洋有機物を消費し、陸域炭素を温存する。いずれの経路も、海洋有機物の利用可能性が温度によって制御される臨界閾値を超えた時点で初めて誘発される。この温度感受性カスケードは、地球温暖化に対する海洋炭素吸収源の、これまで認識されていなかった脆弱性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11192455/v1",
+    "title": "Integrated metabolomic and genomic characterization of antifungal Streptomyces halstedii S14 from Melipona mondury larval food",
+    "abstract": "Abstract    Although the larval food of stingless bees harbors microorganisms with potential for natural-product discovery, the chemical and genomic potential of actinobacteria associated with  Melipona mondury  remains poorly explored. We investigated the antagonism of  Streptomyces halstedii  S14 against  Trichoderma atroviride  by integrating co-culture, spatial UHPLC-HRMS/MS, Feature-Based Molecular Networking, and genome mining with antiSMASH and BiG-SCAPE. S14 produced an inhibition zone of 1.28 ± 0.38 cm. Of 771 molecular features evaluated, 515 showed significant spatial variation across the co-culture gradient after accounting for plate identity. Pre-specified contrasts retained seven robust features associated with the inhibition zone (IZ) and 11 with the halo–fungus interface (TP). Among annotated candidates,  m/z  295.1294, putatively assigned as glutamylphenylalanine, was associated with IZ, whereas  m/z  522.3565, putatively assigned as 1-oleoyl-lysophosphatidylcholine, was associated with TP. Genome mining identified 59 biosynthetic regions. The strongest genome–metabolome convergence involved  m/z  256.0608, putatively annotated as caboxamycin, and NODE_598, closely related to the caboxamycin reference BGC (BiG-SCAPE distance 0.03). A family-level association linked a bafilomycin C1-like signal (  m/z  743.399) to NODE_118 (distance 0.34). These findings reveal a spatially structured chemical interaction and show how regional metabolomics combined with genome mining can prioritize biosynthetic hypotheses without assigning the antifungal phenotype to a single compound.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11192455/v1",
+    "date": "2026-10-23",
+    "authors": "Diogo YR, Cappelini LTD, Lira KDL, de Carvalho AC, Santos NGd, Vital VG, Soares JKC, Kuriki FK, de Medeiros LS, Francoy TM, de Vasconcellos SP, Morais MM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348977",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Streptomyces",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 854,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11192455/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "86f1af6135ad3b7a39e73af06f0071a5933b2af5917c80b1fd645e71b6a7d368",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:22:41.700244+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6479b5f933ecdcaa0b7c5e88109fa4ba819b3f16e34ddeb498cb46850824a74e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:22:41.700244+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Melipona mondury幼虫の餌由来の抗真菌薬Streptomyces halstedii S14の統合的メタボロームおよびゲノム特性解析",
+    "abstract_ja": "要旨    刺針を持たないハチの幼虫の餌には、天然物発見の可能性を秘めた微生物が存在するが、Melipona monduryに関連する放線菌の化学的・ゲノム的ポテンシャルについては十分に解明されていない。本研究では、共培養、空間的UHPLC-HRMS/MS、特徴ベース分子ネットワーク構築、および抗SMASHおよびBiG-SCAPEを用いたゲノムマイニングを統合し、Streptomyces halstedii S14とTrichoderma atrovirideとの拮抗作用を検討した。S14は1.28 ± 0.38 cmの阻害帯を形成した。評価した771個の分子特徴のうち、プレートの同一性を考慮した後でも、515個が共培養勾配にわたって有意な空間的変動を示した。あらかじめ設定した対比条件により、阻害帯（IZ）に関連する7つの頑健な特徴と、ハロー・真菌界面（TP）に関連する11の特徴が保持された。アノテーション済みの候補のうち、グルタミルフェニルアラニンと推定されるm/z 295.1294はIZに関連し、一方で1-オレオイルリソホスファチジルコリンと推定されるm/z 522.3565はTPに関連していた。ゲノムマイニングにより59個の生合成領域が同定された。ゲノムとメタボロームの最も強い収束が見られたのは、カボクサマイシンと推定されアノテーションされたm/z 256.0608と、カボクサマイシンのリファレンスBGCに密接に関連するNODE_598（BiG-SCAPE距離 0.03）であった。ファミリーレベルの関連により、バフィロマイシンC1様シグナル（m/z 743.399）がNODE_118（距離 0.34）に結び付けられた。これらの知見は、空間的に構造化された化学的相互作用を明らかにするとともに、領域メタボロミクスとゲノムマイニングを組み合わせることで、抗真菌表現型を単一の化合物に帰属させることなく、生合成仮説の優先順位付けが可能であることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2326.v1",
+    "title": "Identification and Genomic Insights into the Multifunctional Growth-Promoting Traits of Pseudomonas chlororaphis ST2023006 in Rice",
+    "abstract": "Plant growth-promoting rhizobacteria (PGPR) offer a sustainable alternative to chemical fertilizers in rice production, yet the mechanisms underlying multifunctional growth promotion by individual strains remain insufficiently characterized. In this study, strain ST2023006 was isolated from sugarcane rhizosphere and systematically characterized through phenotypic assays and whole-genome sequencing. The strain was identified as Pseudomonas chlororaphis based on morphological, physiological, biochemical, and multilocus sequence analyses. It exhibited tolerance to temperature (25-37 ℃), pH (5.0-9.0), and salinity (≤2% NaCl). 15N isotope dilution analysis revealed nitrogen fixation contribution rates of 13.4% and 9.72% to rice roots and shoots, respectively. Pot experiments demonstrated that inoculation significantly promoted growth in two rice varieties, increasing plant height by up to 86.6%, while enhancing root surface area, root volume, and biomass accumulation. In vitro antagonism against Rhizoctonia solani and quantitative IAA analysis (59.44 µg·mL⁻¹) provided experimental support for genome-predicted biocontrol and IAA production traits. Whole-genome sequencing revealed genes potentially associated with nitrogen fixation (nifU, fixI), nutrient mobilization (potassium/zinc solubilization, siderophores), phytohormone synthesis (IAA), stress tolerance (heavy metal resistance, heat/cold shock proteins), and complete biosynthetic gene clusters for the antifungal compounds pyrrolnitrin, phenazine, and hydrogen cyanide. These findings indicate that P. chlororaphis ST2023006 is a promising multifunctional PGPR candidate with demonstrated plant growth-promoting effects and experimentally supported genomic potential for biocontrol.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2326.v1",
+    "date": "2026-10-23",
+    "authors": "Wang Q, Zeng Q, Shi G, Ye X, Tang M, Hu C, Liang T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349814",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1247,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2326.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ad1f1d828378c09e64e45afeff1f49b19706d4080960d42831179356043e4c31",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:22:41.700244+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6172b9c2de4efbd43bcc5e0275f1665241d1dcda00d1f713dd1008f0fa5cdfa9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:22:41.700244+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "イネにおけるPseudomonas chlororaphis ST2023006の多機能な生育促進形質の同定とゲノム解析",
+    "abstract_ja": "植物成長促進根圏細菌（PGPR）は、稲作における化学肥料に代わる持続可能な選択肢となるが、個々の菌株による多機能な成長促進のメカニズムについては十分に解明されていない。本研究では、サトウキビ根圏から菌株ST2023006を単離し、表現型解析および全ゲノム配列解析を通じて系統的な特性評価を行った。形態学的、生理学的、生化学的解析、および多遺伝子座配列解析に基づき、本菌株はPseudomonas chlororaphisと同定された。本菌株は、温度（25-37 ℃）、pH（5.0-9.0）、および塩分（≤2% NaCl）に対する耐性を示した。15N同位体希釈分析により、窒素固定への寄与率はイネの根および地上部でそれぞれ13.4%および9.72%であることが明らかになった。ポット試験では、接種により2種類のイネ品種の生育が有意に促進され、草丈が最大86.6%増加するとともに、根表面積、根量、およびバイオマス蓄積量が増加することが示された。Rhizoctonia solaniに対するin vitroでの拮抗作用および定量的IAA分析（59.44 µg·mL⁻¹）により、ゲノム予測に基づく生物的防除およびIAA産生形質の実験的裏付けが得られた。全ゲノム配列解析により、窒素固定（nifU, fixI）、養分動員（カリウム/亜鉛可溶化、シデロフォア）、植物ホルモン合成（IAA）、ストレス耐性（重金属耐性、熱/冷ショックタンパク質）、および抗真菌化合物であるピロルニトリン、フェナジン、シアン化水素の完全な生合成遺伝子クラスターに関連する可能性のある遺伝子が同定された。これらの知見は、P. chlororaphis ST2023006が、植物成長促進効果が実証され、生物的防除におけるゲノム上の潜在能力が実験的に裏付けられた、有望な多機能PGPR候補であることを示している。"
   }
 ]

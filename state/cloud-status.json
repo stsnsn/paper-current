@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T03:20:34.547548+00:00",
+  "updated_at": "2026-11-16T03:22:23.820473+00:00",
   "phase": "translating",
   "last_batch": {
     "translated": 4,
@@ -9,5 +9,5 @@
     "skipped": 0,
     "requests": 8
   },
-  "pending": 212
+  "pending": 208
 }
