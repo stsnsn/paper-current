@@ -271586,5 +271586,298 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "肺炎桿菌耐性率と抗菌薬使用との関連に関するベイズβ回帰分析：6年間の四半期時系列研究",
     "abstract_ja": "背景本探索的研究では、抗菌薬適正使用および抗菌薬の合理的使用の指針とするため、肺炎桿菌（Klebsiella pneumoniae）の耐性率と前四半期の抗菌薬消費量との間に潜在的な関連があるかを検討した。方法本後方視的研究では、当施設における過去6年間（24四半期）の単一施設集約データを用いた。ベイズβモデルを用い、時間的傾向を制御した上で、肺炎桿菌の耐性率と前四半期の抗菌薬消費量との潜在的な関連を検討した。この関連の方向性と頑健性を評価するため、モデル比較、頑健性チェック、および感度分析という3段階の戦略を採用した。結果肺炎桿菌の分離株は計3,326株同定され、全臨床分離株の13.25%を占めた。呼吸器検体が主な供給源（n = 1,682）であり、呼吸器系が主要な感染部位であることが示された。関連解析の結果、トリメトプリム・スルファメトキサゾール耐性率はチゲサイクリンDDDと正の関連を示した。メインモデルは時間のみのベースラインを上回り（ΔLOOIC = −4.47）、β = 0.0012（95% CrI [0.00020, 0.00226]; P(β > 0) = 98.9%）であった。チゲサイクリンDDDのIQRが1上昇するごとに、トリメトプリム・スルファメトキサゾール耐性率は推定4.81パーセントポイント上昇した。この関連は、MBBに基づく推論、HAC-robust標準誤差、および5%のウィンザー化後も一貫していた。また、2023年の指標、2023年のステップ変数、または季節項を追加しても同様の方向性が示された。2022～2024年のデータを除外した後でも方向性は逆転しなかったが［P(β > 0) = 72.4%］、サンプルサイズの縮小により、このサブサンプルにおけるエビデンスの強さが制限された可能性がある。セフタジジム耐性率は全サンプルにおいてチゲサイクリンDDDと正の関連を示し（β = 0.0017, 95% CrI [0.00007, 0.00334]）、MBB、ウィンザー化、およびHAC-robust推論のすべてがこの関連を支持した。2022～2024年のデータを除外したサブサンプルでは、正の関連が著しく減弱した［P(β > 0) = 34.1%］。したがって、その時間的安定性は慎重な解釈が必要であり、大規模な独立サンプルによるさらなる検証が求められる。ピペラシリン・タゾバクタム耐性はアモキシシリン・クラブラン酸DDDと示唆的な負の関連を示した一方、トリメトプリム・スルファメトキサゾール耐性はメロペネムDDDと示唆的な正の関連を示したが、いずれについてもエビデンスは限定的であった。その他の組み合わせでは、明確な関連のエビデンスは認められなかった。結論本探索的研究は、肺炎桿菌の耐性率と抗菌薬消費量との間に潜在的な関連があることを示唆しており、独立した大規模サンプルを用いたさらなる検証を支持するものである。これらの知見は抗菌薬適正使用の研究に資する可能性があり、チゲサイクリンなどの薬剤を今後のモニタリングおよび評価に組み込むべきであることを示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2002178",
+    "title": "Sendai virus, a candidate vaccine for the prevention of respiratory virus infections in children: a review",
+    "abstract": "BackgroundRespiratory viruses including human parainfluenza virus (hPIV), respiratory syncytial virus (RSV), and human metapneumovirus (hMPV), pose serious, potentially lethal threats to humans, particularly infants and young children. While maternal vaccines and monoclonal antibodies are advancing to provide transient protection against these viruses, licensed pediatric vaccines are not yet available. Sendai virus (SeV) is now being developed as an intranasal (I.N.) vaccine candidate for the prevention of serious respiratory viral infections in children.MethodsTo examine the potential of replication-competent Sendai virus and its recombinants as pediatric respiratory virus vaccines against hPIV, RSV and hMPV, we searched literature databases and evaluated both historical and contemporary published research.ResultsSeV and SeV recombinant vaccines have been tested pre-clinically in a variety of animal models and in Phase I clinical studies. In pre-clinical models, a single dose of SeV induced rapid and long-lasting B- and T-cell responses in the upper respiratory tract and blood. When recombinant SeV constructs were produced and formulated into cocktail vaccines, they were protective against four different respiratory pathogens simultaneously. Vaccines were successful when partnered with passively transferred antibodies; specifically, when a recombinant SeV-based RSV vaccine was tested in the presence of passively transferred monoclonal or polyclonal PIV-specific or RSV-specific antibodies in a cotton rat model, the vaccine provided durable protective immunity against RSV. In clinical trials, SeV was well-tolerated and uniformly immunogenic in PIV-seropositive 1–2 year old children. Methods have been developed for the manufacture of stable SeV-based vaccine products, compatible with wide global distribution of SeV vaccines for clinical use.ConclusionTo date, results highlight SeV as an attractive pediatric vaccine candidate. Continued clinical testing of SeV may provide global relief from serious respiratory viral infections in infants and young children.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2002178",
+    "date": "2026-11-16",
+    "authors": "Julia L. Hurwitz",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2002178",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4921,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.2002178"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4b9af7198e484fe5104adca02ff1e0091a551ff790ec85626f681616d259c60d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:57:16.105650+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "51501b52b6d619e8a01f7174294e4c323147a6f733aa3a06d2205744ce5c64ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:57:16.105650+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "小児の呼吸器ウイルス感染症予防ワクチン候補であるセンダイウイルス：総説",
+    "abstract_ja": "背景ヒトパラインフルエンザウイルス（hPIV）、呼吸器合胞体ウイルス（RSV）、およびヒトメタニューモウイルス（hMPV）を含む呼吸器系ウイルスは、ヒト、特に乳幼児および小児にとって重篤で致死的な脅威となり得る。これらのウイルスに対する一過性の保護効果を提供するための母体ワクチンやモノクローナル抗体の開発が進んでいる一方で、承認済みの小児用ワクチンはまだ存在しない。現在、小児における重篤な呼吸器系ウイルス感染症の予防を目的とした経鼻（I.N.）ワクチン候補として、センダイウイルス（SeV）の開発が進められている。方法hPIV、RSV、およびhMPVに対する小児用呼吸器系ウイルスワクチンとして、複製能を有するセンダイウイルスおよびその組換え体の可能性を検討するため、文献データベースを検索し、過去および最新の既報研究を評価した。結果SeVおよびSeV組換えワクチンは、さまざまな動物モデルおよび第I相臨床試験において前臨床試験が行われた。前臨床モデルにおいて、SeVの単回投与は、上気道および血液において迅速かつ持続的なB細胞およびT細胞応答を誘導した。組換えSeV構築体を作製し、カクテルワクチンとして製剤化したところ、4種類の異なる呼吸器系病原体に対して同時に保護効果が認められた。ワクチンは、受動移入抗体と併用した場合に有効であった。具体的には、コットンラットモデルにおいて、受動移入したモノクローナルまたはポリクローナルのPIV特異的またはRSV特異的抗体の存在下で組換えSeVベースのRSVワクチンを試験したところ、本ワクチンはRSVに対して持続的な保護免疫を付与した。臨床試験において、SeVはPIV血清陽性の1～2歳児において忍容性が良好であり、均一な免疫原性を示した。臨床使用に向けたSeVワクチンの世界的な広範な流通を可能にする、安定したSeVベースのワクチン製剤の製造方法が開発された。結論これまでの結果は、SeVが有望な小児用ワクチン候補であることを浮き彫りにしている。SeVの継続的な臨床試験により、乳幼児および小児における重篤な呼吸器系ウイルス感染症からの世界的な救済がもたらされる可能性がある。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765928",
+    "title": "Long-term Epstein-Barr virus persistence in immunocompetent, primate-related Chinese tree shrews and inducible lytic reactivation in species-matched epithelial cultures",
+    "abstract": "Experimental models combining long-term Epstein-Barr virus (EBV) infection in immunocompetent animals with species-matched cellular systems for studying viral regulation remain limited. Chinese tree shrews combine evolutionary proximity to primates with small-animal practicality and native immunocompetence, offering a complementary nonrodent model. We serially monitored blood and oral specimens from six animals inoculated with Akata EBV. Five were followed for approximately two years, including two beyond two years, and the sixth underwent tissue collection at approximately six months. Intermittent EBV DNA detection included blood positivity beyond two years in one animal. Viral RNA localized to liver, lung, and spleen at six months and to liver and spleen of another animal near two years, supporting persistent infection. All tested blood and oral specimens from six uninoculated controls were negative. In parallel, renewable lung-derived epithelial/mesothelial-like cultures maintained EBV infection in two immortalization backgrounds. Viral profiling identified Qp-associated EBNA1 transcription and latency-associated expression alongside spontaneous lytic transcription. Host transcriptomics identified 684 robust EBV-associated expression changes, with prominent enrichment of MYC and E2F target programs and metabolic pathways, together with reduced interferon- and inflammatory-response transcription across both backgrounds. These findings nominate MYC/E2F-associated host programs as candidate regulators of the balance between maintained infection and lytic activity. Zta expression and sodium butyrate induced lytic reactivation, with infectious virus production demonstrated after sodium butyrate treatment. This integrated platform complements humanized mice and nonhuman-primate models and connects long-term EBV persistence in vivo with experimentally accessible studies of host regulation and the latent-to-lytic transition in species-matched cultures.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765928",
+    "date": "2026-11-16",
+    "authors": "Avilala, J., Dochi, H., Wekselblatt, J., Flemington, E., Pierce, A., Brown, C., Dobek, G., Ott, K., Roussel, P., Abdelghani, R., Becnel, D., Sides, M., Morris, G. F., Liu, H., Feng, W., Lin, Z.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765928v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4925,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.11.765928"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c9353258078964c2e39d5b108566cf22ce2e0b6e492973049effc2c7b85c6559",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:57:16.105650+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f71c0e36bd57359242993653cb4418257bf6b1226088f61a86623943ab48b5b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:57:16.105650+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "免疫能を有する霊長類近縁のチュウゴクキネズミにおけるエプスタイン・バーウイルスの長期持続と、種適合上皮培養における誘導性溶質再活性化",
+    "abstract_ja": "免疫能を有する動物における長期的なエプスタイン・バーウイルス（EBV）感染と、ウイルス制御研究のための種適合細胞系を組み合わせた実験モデルは、依然として限られている。チャイニーズツリーシュルーは、霊長類との進化的近縁性、小動物としての実用性、および本来の免疫能を兼ね備えており、非齧歯類の補完的なモデルとなる。我々は、Akata EBVを接種した6匹の動物から、血液および口腔検体を経時的にモニタリングした。そのうち5匹を約2年間（うち2匹は2年超）追跡し、6匹目は約6か月時点で組織採取を行った。断続的なEBV DNA検出により、1匹の動物では2年を超えて血液陽性が認められた。ウイルスRNAは、6か月時点で肝臓、肺、および脾臓に、別の動物では2年近くで肝臓および脾臓に局在しており、持続的感染が裏付けられた。接種を行っていない6匹の対照群から採取したすべての血液および口腔検体の検査結果は陰性であった。並行して、再生可能な肺由来の上皮・中皮様培養物により、2つの不死化背景においてEBV感染が維持された。ウイルスプロファイリングにより、自然解毒転写とともに、Qp関連のEBNA1転写および潜伏関連発現が同定された。宿主トランスクリプトミクスでは、684箇所の顕著なEBV関連発現変化が同定され、両背景においてMYCおよびE2F標的プログラムと代謝経路の顕著な濃縮とともに、インターフェロンおよび炎症応答転写の減少が認められた。これらの知見は、MYC/E2F関連の宿主プログラムを、維持された感染と解毒活性のバランスを制御する候補調節因子として提示するものである。Ztaの発現および酪酸ナトリウムは解毒再活性化を誘導し、酪酸ナトリウム処理後に感染性ウイルスの産生が認められた。この統合プラットフォームは、ヒト化マウスおよび非ヒト霊長類モデルを補完するものであり、in vivoにおける長期的なEBV持続性を、実験的に利用可能な宿主調節および種適合培養における潜伏から解毒への移行の研究へと結びつけるものである。"
+  },
+  {
+    "id": "10.64898/2026.11.12.766166",
+    "title": "Computational identification and in vitro evaluation of astragaloside II as an inhibitor of dengue virus NS1-induced endothelial hyperpermeability",
+    "abstract": "Background Dengue is a mosquito-borne viral disease in which severe cases are marked by leakage of plasma from blood vessels. The secreted nonstructural protein 1 (NS1) of dengue virus damages the endothelial barrier and is a drug target, but no approved antiviral exists. We aimed to identify compounds that target NS1 and to test whether the selected compound, astragaloside II (ASII), counteracts NS1-induced endothelial hyperpermeability. Methodology/Principal findings We built a deep learning model that predicts compound-target binding from chemical fingerprints and protein sequences, and used it to prescreen 177 natural compounds against NS1 of the four dengue virus serotypes. The model outperformed the DeepConv-DTI baseline in recall and F1-score on a BindingDB holdout set and on two independent test sets. ASII was predicted to bind NS1 and was docked onto the NS1 dimer. In human microvascular endothelial cells (HMEC-1), NS1 reduced the relative trans-endothelial electrical resistance to 0.56 (P < 0.001), whereas ASII at 10-30 {micro}g/mL kept resistance close to control levels without detectable cytotoxicity. ASII did not reduce NS1 internalization. In a competitive enzyme-linked immunosorbent assay, ASII inhibited NS1 binding to heparan sulfate in a dose-dependent manner (half-maximal inhibitory concentration 51.12 {micro}g/mL; 95% confidence interval 47.91-56.24 {micro}g/mL), although inhibition at the protective doses was only 8-26%. Conclusions/Significance ASII is a candidate for further study as a modulator of NS1-induced endothelial hyperpermeability. Its mechanism remains unresolved and requires further study. Direct binding to NS1, activity in infected cells and effects in other endothelial models were not tested here, and the computational predictions require experimental confirmation.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766166",
+    "date": "2026-11-16",
+    "authors": "Jantrachotechatchawan, C., Chawnawa, W., Leephatarakit, N., Maneepitasut, W., Maneerattanasak, S., Manoret, P., Poyseungnoen, K., Boonarkart, C., Puttikhunt, C., Avirutnan, P., Noisakran, S., Auewarakul, P., Duangrattanalert, K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766166v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "protein",
+        "sequence",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "method",
+          "protein",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4926,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.12.766166"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7d5ac62b3ab0735085ca25019cc0c8c5291a05295b4413c0139a53d5eb40fb5c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:57:16.105650+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d3efde70198ebf08900018c8b4c02bdaa92621e3bb72e82d0e44d22a33d3d299",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:57:16.105650+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "デングウイルスNS1誘導性内皮透過性亢進の阻害剤としてのアストラガロシドIIの計算科学的同定およびin vitro評価",
+    "abstract_ja": "背景 デング熱は蚊媒介性のウイルス性疾患であり、重症例では血管からの血漿漏出が認められる。デングウイルスの分泌型非構造タンパク質1（NS1）は内皮バリアを損傷し、薬物標的となるが、承認された抗ウイルス薬は存在しない。本研究では、NS1を標的とする化合物を同定し、選定した化合物であるアストラガロシドII（ASII）がNS1誘発性の内皮高透過性に拮抗するかどうかを検証することを目的とした。手法／主要な知見 化学的フィンガープリントおよびタンパク質配列から化合物と標的の結合を予測する深層学習モデルを構築し、これを用いて177種類の天然化合物について、4つのデングウイルス血清型のNS1に対するスクリーニングを行った。本モデルは、BindingDBホールドアウトセットおよび2つの独立したテストセットにおいて、再現率およびF1スコアでベースラインであるDeepConv-DTIを上回った。ASIIはNS1に結合すると予測され、NS1二量体にドッキングした。ヒト微小血管内皮細胞（HMEC-1）において、NS1は相対的な経内皮電気抵抗を0.56まで低下させた（P < 0.001）一方、ASIIは10～30 {micro}g/mLの濃度で、検出可能な細胞毒性を示すことなく抵抗値を対照レベル付近に維持した。ASIIはNS1の内部移行を減少させなかった。競合的酵素結合免疫吸着法において、ASIIはヘパラン硫酸へのNS1結合を用量依存的に阻害した（半最大阻害濃度 51.12 {micro}g/mL、95%信頼区間 47.91-56.24 {micro}g/mL）が、保護用量における阻害率は8～26%に留まった。結論／意義 ASIIは、NS1誘発性内皮高透過性の調節因子としてさらなる研究を行う候補化合物である。その機序は未解明であり、さらなる研究が必要である。本研究では、NS1への直接結合、感染細胞における活性、および他の内皮モデルにおける効果については検証しておらず、計算科学的な予測については実験的な確認が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.07.765076",
+    "title": "ASD Neuro Agentic (ANA): An Agentic Framework for Feature Discovery and Cross Site Generalization in Autism fMRI Classification",
+    "abstract": "Summary  Classifiers of autism spectrum disorder (ASD) from resting state functional MRI rarely generalize across sites, and many reported accuracies are inflated by data leakage. We show that an agentic artificial intelligence framework, ASD Neuro Agentic (ANA), whose language model agents propose features from the literature and researcher input while fixed tools perform every calculation, can search auditably for site independent classifiers while controlling the leakage. In 1,028 participants from 17 ABIDE I centers, ANA tested 71 pipelines and selected a ComBat harmonized ensemble of tangent space connectivity models from six parcellations and 98 public connectivity derivatives. In leave one center out testing, the ensemble reached an area under the curve of 0.814 (95% CI, 0.773–0.841), outperforming ASD-DiagNet and ASD-SAENet. Predictive connectivity was mainly reduced in ASD. Agentic AI offers a systematic and efficient approach to exploring, evaluating, and identifying pipelines as model selection grows complex.",
+    "journal": "",
+    "doi": "10.64898/2026.11.07.765076",
+    "date": "2026-11-10",
+    "authors": "Rahimian K, Mahmanzar M, Bahreyni R, Bayat S, Higa L, Kavousi K, Deng Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363792",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "classification",
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "classification",
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4877,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.07.765076"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f92e60f4542ad73ac798fcf00d187fd6900cb0ba6792752ac449555e30cc5fb4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:57:16.105650+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3574d41952164e4e1a4e56eb866f4acc3fd8f064a42f428101a273c683a0dd13",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:57:16.105650+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ASD Neuro Agentic (ANA): 自閉症fMRI分類における特徴発見とサイト間汎化のためのエージェント型フレームワーク",
+    "abstract_ja": "要旨  安静時機能的MRIによる自閉スペクトラム症（ASD）の分類器は、部位間で汎化することが稀であり、報告されている精度の多くはデータリークによって過大評価されている。本研究では、言語モデルエージェントが文献や研究者の入力から特徴量を提案し、固定ツールがすべての計算を行うエージェント型人工知能フレームワーク「ASD Neuro Agentic (ANA)」が、リークを制御しつつ、部位に依存しない分類器を監査可能な形で探索できることを示す。ABIDE Iの17施設から参加した1,028名を対象に、ANAは71種類のパイプラインをテストし、6つの部位分割と98種類の公開コネクティビティ導関数から、ComBat調和済みの接線空間コネクティビティモデルのアンサンブルを選定した。1施設を除外したテストにおいて、このアンサンブルは曲線下面積0.814（95%信頼区間 0.773–0.841）を記録し、ASD-DiagNetおよびASD-SAENetを上回った。予測的コネクティビティは、主にASDにおいて低下していた。モデル選択が複雑化する中で、エージェント型AIは、パイプラインの探索、評価、および特定のための体系的かつ効率的なアプローチを提供する。"
   }
 ]
