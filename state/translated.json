@@ -277558,5 +277558,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "遺伝的祖先が、南米先住民集団における文脈依存的な免疫調節を規定する",
     "abstract_ja": "南米先住民（ISA）集団におけるヒト免疫応答は依然として十分に解明されておらず、ヒトの免疫変異に関する理解を制限する要因となっている。本研究では、南米の13集団を代表する345名から得られた140万個の末梢血単核球を用い、ベースライン時およびリポ多糖、A型インフルエンザウイルス、またはクルーズトリパノソーマによる刺激後のプロファイル解析を行い、単一細胞転写アトラスを構築した。遺伝的祖先はトランスクリプトームの大部分の発現と関連しており、多くの場合刺激後に初めてその関連性が認められ、年齢や性別よりも大きな変異の説明要因となった。平均して、シス-eQTLがこれらの祖先関連の差異の4分の1を占めていた。数千もの調節変異がISA集団では一般的であった一方、欧州のリファレンスデータセットでは稀であるか、あるいは認められなかった。eQTLをGWASと統合した結果、刺激特異的な疾患関連調節変異や、共局在シグナルを持つ遺伝子における祖先関連の発現差異の濃縮が明らかになった。本研究の知見は、ヒト免疫応答の遺伝的構造を理解する上で、異なる免疫コンテキストを持つ多様な集団を研究することの重要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760152",
+    "title": "Reinforcement learning with evolutionary priors unlocks multi-site enzyme optimization from sparse experimental feedback",
+    "abstract": "Summary  Industrial enzymes underpin sustainable manufacturing, yet natural proteins rarely combine the activity, robustness and application compatibility required for practical use. Engineering such properties requires identifying beneficial combinations of interacting mutations within vast sequence spaces that are too large to search exhaustively and too sparsely sampled to model reliably. Here we introduce AlphaVariant, a reinforcement-learning (RL) framework that couples a generative evolutionary prior with iteratively updated low-N fitness models to enable feedback-driven search of large combinatorial protein sequence spaces. Across six experimentally measured protein fitness landscapes, AlphaVariant ranked first on the three large, non-enumerable multi-site landscapes. In two successive rounds of savinase activity optimization, AlphaVariant-designed libraries yielded 75.4% and 83.8% activity-improved variants among experimentally characterized candidates even as the accessible mutation space expanded from 25 to 67 positions. The search identified beneficial mutation combinations involving up to 17 structurally dispersed sites and produced a variant with 7.1-fold higher activity than wild type after only two design-test cycles. We then extended AlphaVariant to jointly optimize activity, thermostability and a patent-informed constraint for intellectual-property freedom. This multi-objective search yielded variants that outperformed the commercial protease Uno 100 L in both biochemical assays and application-relevant detergent washing tests. These results demonstrate that generative RL can efficiently navigate vast protein fitness landscapes, progressively incorporate multiple engineering objectives and convert sparse experimental feedback into enzyme variants with industrially relevant performance, effectively resolving the limits of biocatalyst engineering.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760152",
+    "date": "2026-10-21",
+    "authors": "Xu X, Ye H, Gao Z, Zhang R, Zhou X, Zhang G, Guo T, He W, Feng C, Xiao B, Hu F, Zeng Q, Bai A, Zhang X, Wang J, Gao X.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348511",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3806,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.19.760152"
+    ],
+    "translation": {
+      "title": {
+        "hash": "993bd6276667084b6c1e89f889b6467d256be908c4d731838a988473eae35d51",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:52:04.936654+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "015c07742c65b1a67d9add1e62502ef07012231ec21790f26873a088b37493f1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:52:04.936654+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "進化的事前分布を用いた強化学習により、疎な実験フィードバックからの複数サイト酵素最適化が可能になる。",
+    "abstract_ja": "概要  工業用酵素は持続可能な製造の基盤となっているが、天然タンパク質が実用に必要とされる活性、堅牢性、および用途適合性を兼ね備えていることは稀である。こうした特性を設計するには、網羅的に探索するには広すぎ、かつ信頼性の高いモデリングを行うにはサンプル数が少なすぎる膨大な配列空間において、相互作用する変異の有益な組み合わせを特定する必要がある。本研究では、生成的進化事前分布と反復的に更新される低N適応度モデルを結合させ、大規模な組合せ的タンパク質配列空間のフィードバック駆動型探索を可能にする強化学習（RL）フレームワーク「AlphaVariant」を提案する。実験的に測定された6つのタンパク質適応度ランドスケープにおいて、AlphaVariantは列挙不可能な3つの大規模マルチサイトランドスケープで1位となった。2回連続のサビナーゼ活性最適化において、AlphaVariantで設計したライブラリは、利用可能な変異空間が25位置から67位置へと拡大したにもかかわらず、実験的に特性評価された候補の中で75.4%および83.8%の活性向上を達成した。この探索では、構造的に分散した最大17箇所の部位を含む有益な変異組み合わせが特定され、わずか2回の設計-テストサイクルで、野生型よりも7.1倍高い活性を持つ変異体が得られた。続いて、AlphaVariantを拡張し、活性、熱安定性、および知的財産の自由を確保するための特許情報に基づく制約を共同で最適化した。この多目的探索により、生化学アッセイおよび用途に関連する界面活性剤洗浄試験の双方において、市販のプロテアーゼUno 100 Lを上回る性能を持つ変異体が得られた。これらの結果は、生成的RLが広大なタンパク質適応度ランドスケープを効率的に探索し、複数の工学的目的を段階的に組み込み、疎な実験的フィードバックを工業的に有用な性能を持つ酵素変異体へと変換することで、生体触媒工学の限界を効果的に解消できることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760308",
+    "title": "Photoperiodic Plasticity of Transcriptomic and Photosynthetic Rhythms in the Liverwort  Marchantia polymorpha",
+    "abstract": "Earth’s translation around the Sun and tilted rotational axis drive periodic seasonal changes in day length, or photoperiod, in temperate zones. In photosynthetic organisms, light acts not only as an environmental cue but also as the primary energy source. Therefore, characterizing the plasticity of oscillating molecular systems during photoperiod acclimation is essential for understanding the temporal orchestration of physiological processes in these organisms. Although photoperiodic plasticity has been extensively studied in angiosperms and microalgae, its impact on the molecular rhythms in non-vascular plants (bryophytes) remains poorly understood. In this study, we performed an integrative temporal analysis combining transcriptomic and photosynthetic approaches in the non-vascular model plant  Marchantia polymorpha . Plants were grown under long (summer) and short (winter) photoperiods and subsequently transferred to constant light or darkness to unravel the light/dark-responsive and circadian components of their rhythmic transcriptome profiles. Plants under short photoperiod exhibited a higher number of rhythmic genes and an advance in their expression pattern, affecting several pathways including photosynthesis. However, only ∼25% of these genes remained oscillating under constant conditions. We further identified dusk responsiveness and dawn anticipation as key features of the rhythmic patterns in  Marchantia polymorpha . These patterns were associated with specific transcription factors, highlighting a potential role for  MpHY5 in circadian regulation in this liverwort. Consistent with the transcriptomic results, analyses of photosynthetic physiology and chloroplast photorelocation revealed a general anticipation under short photoperiods and mechanisms mitigating photooxidative stress at dawn in both photoperiods.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760308",
+    "date": "2026-10-21",
+    "authors": "Ramos-González M, García-Gómez ME, Domíguez-Barragán J, García-González M, Romero-Campero FJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347382",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microalgae"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3809,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.20.760308"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b0c6f0dc30fa81050ecf4921184781aaf0d6b0a86ca1df03499853c859cb6d32",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:52:04.936654+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5930a228a8a8c57a70ea4a50d9ffa95d165c1b8bb78f658bac1a97979d4c2b30",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:52:04.936654+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゼニゴケ Marchantia polymorpha におけるトランスクリプトームおよび光合成リズムの光周性可塑性",
+    "abstract_ja": "地球の太陽公転と自転軸の傾きは、温帯地域において日長（光周期）の周期的な季節変化をもたらす。光合成生物において、光は環境シグナルとしてだけでなく、主要なエネルギー源としても機能する。したがって、光周期順応過程における振動分子系の可塑性を特性評価することは、これらの生物における生理的プロセスの時間的調節を理解する上で不可欠である。光周期可塑性は被子植物や微細藻類において広範に研究されてきたが、非維管束植物（コケ植物）の分子リズムに及ぼす影響については依然として十分に解明されていない。本研究では、非維管束モデル植物であるゼニゴケ（Marchantia polymorpha）を用い、トランスクリプトーム解析と光合成解析を組み合わせた統合的な時間解析を行った。植物を長日（夏季）および短日（冬季）の光周期下で生育させ、その後、一定の光または暗条件下に移行させることで、リズム性トランスクリプトームプロファイルの明暗応答性成分および概日成分を明らかにした。短日条件下では、リズム性遺伝子の数が増加し、その発現パターンが先行し、光合成を含む複数の経路に影響を及ぼしていた。しかし、一定条件下で振動を維持していたのは、これらの遺伝子の約25%に過ぎなかった。さらに、ゼニゴケのリズムパターンにおける主要な特徴として、薄明応答性と夜明け前予測性を同定した。これらのパターンは特定の転写因子に関連しており、本ゼニゴケの概日調節におけるMpHY5の潜在的な役割が示唆された。トランスクリプトーム解析の結果と一致して、光合成生理学および葉緑体光再配置の解析により、短日条件下での全般的な予測性と、両光周期における夜明け時の光酸化ストレスを軽減する機構が明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760111",
+    "title": "Exploring the impact of intraspecific interaction between sibling colonies of  Bacillus cereus  MSM-S1 in the absence and presence of antibiotics",
+    "abstract": "Bacillus cereus is a spore-forming pathogen and food contaminant that can survive in hostile environments through different survival strategies. As part of survival,  B. cereus may also engage in intra- or interspecific interactions that shape its community structure and stress responses, enabling its persistence under unfavourable conditions. The present study explored intraspecific interactions, at the cell and molecular levels, between two sibling colonies of  Bacillus cereus MSM-S1 grown through swarming adjacently on nutrient agar in the absence and presence of gentamicin. While growing alone, gentamicin altered the symmetrical colony morphology of  B. cereus MSM-S1, which was associated with cell elongation, decreased flagellation and increased expression of the toxin gene  nheA . During interaction, both in the absence and presence of gentamicin, the motility of sibling colonies towards each other was restricted, forming a distinct line/zone of demarcation between the colonies. Microscopic analysis at different time points (day 3, 5 and 7) revealed progressive changes in the swirling arrangement of cells at the interaction zone. In the absence of gentamicin, cells became jammed at the interacting front by day 7, whereas this effect was not observed in the presence of gentamicin on day 7. Cells at the interacting zone underwent gradual sporulation; notably, sporulation was less in the presence of gentamicin. Further analysis suggested that nutrient limitation was the major contributory factor for the formation of the zone of no growth between the interacting colonies. Moreover, the expression of quorum-sensing genes was down-regulated in cells at the interacting zone without gentamicin, but notably, upregulated in the presence of gentamicin. The expression of chemotaxis regulator gene, cheY, was also upregulated in interacting zone cells both in the absence and presence of gentamicin. In addition, increased expression of the global transcriptional regulator codY in the interacting zone under both conditions suggested its involvement in metabolic regulation during sibling colony interaction. The findings highlight modulated quorum sensing and sporulation as adaptive mechanisms in  Bacillus cereus MSM-S1 to cope with external stress imposed by nutrient limitations caused by the growth of sibling colonies, whereas, cell elongation and toxin production together is a preferred survival strategy for a growing MSM-S1 colony when stress is imposed by gentamicin as antibiotic but sufficient nutrient is available.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760111",
+    "date": "2026-10-21",
+    "authors": "Prasad K, Chakraborty B, Saha SK, Sengupta TK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347355",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3810,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.19.760111"
+    ],
+    "translation": {
+      "title": {
+        "hash": "158cfcea78d6152c087d41c037661db205ff0184b5545e2495908e7b6bcf6419",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:52:04.936654+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fc8a96d492a0e5e92bd7289109fccab1b91474adcab470b3c2a56cc2dd5508a8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:52:04.936654+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗生物質の有無におけるBacillus cereus MSM-S1の姉妹コロニー間の種内相互作用の影響の検討",
+    "abstract_ja": "Bacillus cereusは、多様な生存戦略を通じて過酷な環境下でも生存可能な、胞子形成性の病原体および食品汚染菌である。生存戦略の一環として、B. cereusは種内または種間相互作用を行うことで、群集構造やストレス応答を形成し、不利な条件下での存続を可能にしている。本研究では、ゲンタマイシンの非存在下および存在下において、栄養寒天培地上で隣接して群生させた2つのBacillus cereus MSM-S1姉妹コロニー間の種内相互作用を、細胞レベルおよび分子レベルで検討した。単独で増殖させた場合、ゲンタマイシンはB. cereus MSM-S1の対称的なコロニー形態を変化させ、これは細胞の伸長、鞭毛運動の減少、および毒素遺伝子nheAの発現増加に関連していた。相互作用時には、ゲンタマイシンの有無にかかわらず、姉妹コロニー同士の移動能が制限され、コロニー間に明確な境界線／ゾーンが形成された。異なる時点（3日目、5日目、7日目）での顕微鏡解析により、相互作用ゾーンにおける細胞の渦巻状配列に漸進的な変化が認められた。ゲンタマイシン非存在下では、7日目までに相互作用前線で細胞が密集したが、ゲンタマイシン存在下では7日目にこの現象は観察されなかった。相互作用ゾーンの細胞では緩やかな胞子形成が進行し、特にゲンタマイシン存在下では胞子形成が抑制された。さらなる解析により、栄養制限が相互作用コロニー間の非増殖ゾーン形成の主要な寄与因子であることが示唆された。さらに、クオラムセンシング遺伝子の発現は、ゲンタマイシン非存在下の相互作用ゾーンの細胞では低下していたが、ゲンタマイシン存在下では顕著に亢進していた。走化性調節遺伝子cheYの発現も、ゲンタマイシン非存在下および存在下の双方において、相互作用ゾーンの細胞で亢進していた。加えて、両条件下における相互作用ゾーンでのグローバル転写調節因子codYの発現増加は、姉妹コロニー間の相互作用における代謝調節への関与を示唆していた。これらの知見は、Bacillus cereus MSM-S1において、姉妹コロニーの増殖による栄養制限という外部ストレスに対処するための適応機構として、クオラムセンシングと胞子形成の調節が機能していることを浮き彫りにしている。一方で、抗生物質としてゲンタマイシンによるストレスが課され、かつ十分な栄養が利用可能な状況では、細胞の伸長と毒素産生の組み合わせが、増殖中のMSM-S1コロニーにとって好ましい生存戦略となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760544",
+    "title": "Glycoconjugates tune the viscoelastic signature of mammary tumor progression",
+    "abstract": "Breast cancer progression involves extensive remodeling of the tumor extracellular matrix (ECM), resulting in changes in mechanical properties. Tumors are viscoelastic, exhibiting both an initial elastic response to loading and a time-dependent viscous response. While it is well established that tumor elasticity or stiffness is elevated, changes in tissue viscoelasticity during breast cancer progression remain poorly characterized. Here, using a mouse model that recapitulates stages of human breast cancer progression (mouse mammary tumor virus-polyoma middle T antigen, MMTV-PyMT), we show that tumors from both early and late disease time points were significantly more viscoelastic than normal mammary glands. Spatial microindentation revealed that while local stiffness and viscoelasticity are strongly coupled in soft regions of normal tissue, this relationship weakens in late carcinoma. Compared to normal glands, carcinoma tissues also exhibited marked upregulation of glycosaminoglycans (GAGs) and glycoproteins. Selective enzymatic degradation of sulfated GAGs, mucins, or O/N-linked glycans reduced viscoelasticity without altering stiffness, establishing glycoconjugates as major contributors to tumor viscoelasticity. In vitro, increasing matrix viscoelasticity drove non-transformed mammary epithelial cells (MCF10A) toward a malignant phenotype through focal adhesion kinase mechanosignaling. Our work establishes increased viscoelasticity as a defining mechanical feature of breast cancer progression, driven in part by the accumulation of glycoconjugates. These findings provide a fuller picture of tumor mechanical evolution and a benchmark for recapitulating matrix viscoelasticity in engineered models of breast cancer.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760544",
+    "date": "2026-10-21",
+    "authors": "Sharma A, Baude JA, Papez M, Gionet-Gonzales MA, Stowers RS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347226",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3812,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.20.760544"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d56eb6b642f228adc2572d1c23126babd7d1e6430fbe921f5731bfa936dd3ffc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:52:04.936654+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cc1a37ccb2e6e586e26ef132a56e1a643d52bf20e4adcaca30cb6c97078db3a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:52:04.936654+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糖鎖結合体は乳腺腫瘍の進展における粘弾性特性を調節する",
+    "abstract_ja": "乳がんの進行には腫瘍細胞外マトリックス（ECM）の広範なリモデリングが伴い、その結果、機械的特性に変化が生じる。腫瘍は粘弾性を示し、荷重に対する初期の弾性応答と時間依存的な粘性応答の両方を示す。腫瘍の弾性または剛性が亢進することは十分に確立されているが、乳がんの進行過程における組織の粘弾性の変化については、依然として十分に解明されていない。本研究では、ヒト乳がんの進行段階を再現するマウスモデル（マウス乳腺腫瘍ウイルスポリオーマ中間T抗原、MMTV-PyMT）を用い、疾患の早期および後期の両時点における腫瘍が、正常乳腺よりも有意に粘弾性が高いことを示した。空間的マイクロインデンテーションにより、正常組織の軟らかい領域では局所的な剛性と粘弾性が強く共役しているのに対し、後期の癌腫ではこの関係が弱まることが明らかになった。正常乳腺と比較して、癌腫組織ではグリコサミノグリカン（GAGs）および糖タンパク質の顕著な発現亢進も認められた。硫酸化GAGs、ムチン、またはO/N結合型糖鎖の選択的酵素分解は、剛性を変化させることなく粘弾性を低下させ、糖複合体が腫瘍の粘弾性の主要な寄与因子であることを明らかにした。in vitroにおいて、マトリックスの粘弾性を高めることは、焦点接着キナーゼのメカノシグナル伝達を介して、非形質転換乳腺上皮細胞（MCF10A）を悪性表現型へと誘導した。本研究は、部分的に糖複合体の蓄積によって駆動される粘弾性の亢進を、乳がん進行の決定的な機械的特徴として確立するものである。これらの知見は、腫瘍の機械的進化に関するより包括的な全体像を提示するとともに、乳がんの工学的モデルにおいてマトリックスの粘弾性を再現するためのベンチマークとなる。"
   }
 ]
