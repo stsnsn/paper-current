@@ -263565,5 +263565,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "脳卒中重症度予測に向けたデータ拡張の検討：生成AIによるEEG信号分類の高度化",
     "abstract_ja": "臨床データセットにおいて、データ拡張は、疾患を正確に理解する上で重要な「外れ値」と呼ばれる異常な値を除去してしまう可能性があるため、しばしば避けられる。しかし、臨床EEGデータセットには、サンプルサイズの小ささやクラス不均衡という2つの主要な制約があり、これらが分類性能を著しく低下させる。これらの課題を克服するため、本研究では、限定的なEEGデータにおいても効果的に性能を向上させる、綿密に設計されたハイブリッドパイプラインを用いて、生成AIベースのデータ拡張手法を適用する。脳卒中患者50名[1]のEEG信号を用い、従来のオーバーサンプリング手法（SMOTEおよびADASYN [2]）と、WGANおよびWGAN-GPを含む高度な生成モデルの双方を検証する。提案するパイプラインでは、EEG記録の前処理、包括的な統計的特徴量および周波数領域特徴量の抽出、特徴量削減の適用、および複数の機械学習分類器の評価を行う。実験結果から、SelectKBest特徴量選択、SVM分類器、およびWGAN-GP拡張を組み合わせた手法が、他の手法を上回る72%という最高の分類精度を達成したことが示された。本研究は、EEGに基づく脳卒中重症度分類のための新たなハイブリッドアプローチを提示し、生成的拡張を適切に統合することで、小規模な臨床データセットにおける性能を大幅に向上させ得ることを実証した。我々の知る限り、このような手法の組み合わせはこれまでいかなるデータセットにおいても検討されておらず、自動EEGベースの脳卒中診断に関する今後の研究に向けた強固な基盤となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.08.765214",
+    "title": "HV-MultiScaleGNN: A Multi-Scale Graph Neural Network Framework for Host-Virus Protein-Protein Interactions Prediction",
+    "abstract": "Accurate identification of HV-PPIs is essential for understanding viral infection mechanisms and for developing antiviral therapeutic discovery. However, the experimental identification process is often time-consuming and expensive, while many computational approaches depend on incomplete protein sequences, structural and interaction information. Here, we present HV-MultiScaleGNN, a topology-driven multi-scale GNN framework for HV-PPIs prediction that operates exclusively on the topology of a heterogeneous interaction network. The framework formulates HV-PPIs prediction as a heterogeneous link prediction problem by integrating the human interactome with experimentally validated HV-PPIs. HV-MultiScaleGNN systematically investigates three complementary graph representation strategies, viz. Local view, Global view and an integrated Local+Global view. The Local view employs one-hop relation-aware graph attention to model fine-grained neighbourhood interactions. The Global view captures higher-order structural dependencies through propagation-based neighbourhood aggregation. The integrated representation combines both views to jointly encode local connectivity and global topological context within a unified embedding space, enabling relation-specific link prediction without relying on sequence- or structure-derived features. Experiments on large-scale HV-PPIs datasets evaluate all three strategies using discrimination, calibration, and ranking metrics. The Local view achieved the best discriminative performance (AUROC = 0.9444, AUPRC = 0.9422), whereas the Global view exhibited the lowest ECE (0.0379). The integrated Local+Global view provided consistently strong predictive performance (AUROC = 0.9378, AUPRC = 0.9356). Comparative evaluation against representative graph representation learning methods showed competitive predictive performance. Furthermore, interfacial interactions were identified using protein-protein docking and atomistic-level understanding was explored. Moreover, GO and KEGG enrichment provided additional functional insights into the selected host proteins. The proposed framework enables systematic evaluation of complementary graph representation strategies for heterogeneous biological link prediction and helps experimental researchers to delineate novel HV-PPIs.",
+    "journal": "",
+    "doi": "10.64898/2026.11.08.765214",
+    "date": "2026-11-10",
+    "authors": "Singh SD, Borah GS, Nagamani S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1364918",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "prediction",
+        "protein",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "prediction",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4871,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.08.765214"
+    ],
+    "translation": {
+      "title": {
+        "hash": "70223ebcf6d5f1472ee2820ca1adb792a25e20ed58cff2cdec81051f177f431c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:20:52.528558+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "139e1e294e8b15da93b4330082ed6f0a6871f1dc69c49bcbc9b15739bf5d1ffa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:20:52.528558+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HV-MultiScaleGNN: 宿主-ウイルスタンパク質間相互作用予測のためのマルチスケールグラフニューラルネットワークフレームワーク",
+    "abstract_ja": "HV-PPIの正確な同定は、ウイルス感染機構の解明および抗ウイルス治療薬の探索において不可欠である。しかし、実験的な同定プロセスは往々にして時間とコストを要する上、多くの計算手法は不完全なタンパク質配列や構造・相互作用情報に依存している。本研究では、不均一相互作用ネットワークのトポロジーのみに基づいて動作する、HV-PPI予測のためのトポロジー駆動型マルチスケールGNNフレームワーク「HV-MultiScaleGNN」を提案する。本フレームワークは、ヒトインタラクトームと実験的に検証されたHV-PPIを統合することで、HV-PPI予測を不均一リンク予測問題として定式化する。HV-MultiScaleGNNでは、ローカルビュー、グローバルビュー、および統合ローカル＋グローバルビューという3つの相補的なグラフ表現戦略を体系的に検討する。ローカルビューでは、ワンホップのリレーション認識型グラフアテンションを用いて、細粒度な近傍相互作用をモデル化する。グローバルビューでは、伝播ベースの近傍集約を通じて高次構造依存性を捉える。統合表現では、これら両ビューを組み合わせることで、局所的な接続性と大域的なトポロジーコンテキストを統一的な埋め込み空間内で共同で符号化し、配列や構造由来の特徴量に依存しないリレーション特異的なリンク予測を可能にする。大規模なHV-PPIデータセットを用いた実験では、識別、キャリブレーション、およびランキング指標を用いて3つの戦略すべてを評価した。ローカルビューは最高の識別性能（AUROC = 0.9444, AUPRC = 0.9422）を示した一方、グローバルビューは最低のECE（0.0379）となった。統合ローカル＋グローバルビューは、一貫して高い予測性能（AUROC = 0.9378, AUPRC = 0.9356）を示した。代表的なグラフ表現学習手法との比較評価においても、遜色ない予測性能が確認された。さらに、タンパク質間ドッキングを用いて界面相互作用を同定し、原子レベルの理解についても検討した。加えて、GOおよびKEGGエンリッチメントにより、選定した宿主タンパク質に関するさらなる機能的知見が得られた。提案するフレームワークは、不均一な生物学的リンク予測における相補的なグラフ表現戦略の体系的な評価を可能にし、実験研究者が新規のHV-PPIを同定することを支援する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.12688/wellcomeopenres.26703.2",
+    "title": "The genome sequence of the Toadflax Pug, Eupithecia linariata ([Denis & Schiffermüller], 1775) (Lepidoptera: Geometridae)",
+    "abstract": "We present a genome assembly from an individual male  Eupithecia linariata (Toadflax Pug; Arthropoda; Insecta; Lepidoptera; Geometridae). The assembly contains two haplotypes with total lengths of 364.44 megabases and 364.02 megabases. Most of haplotype 1 (99.62%) is scaffolded into 31 chromosomal pseudomolecules, including the Z sex chromosome. Haplotype 2 was assembled to scaffold level. The mitochondrial genome has also been assembled, with a length of 15.44 kilobases. Gene annotation of this assembly on Ensembl identified 12 684 protein-coding genes. This assembly was generated as part of the Darwin Tree of Life project, which produces genomes for eukaryotic species found in Britain and Ireland.",
+    "journal": "Wellcome open research",
+    "doi": "10.12688/wellcomeopenres.26703.2",
+    "date": "2026-10-21",
+    "authors": "Natural History Museum Genome Acquisition Lab, Darwin Tree of Life Barcoding Collective, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346584",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4841,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.12688/wellcomeopenres.26703.2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "58d0c80b7d6cf4024f694577e334dfd7768fc092820e64d6976de5a17667f7b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:20:52.528558+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6a3e3322902d1942d2ee1f376e177292a579a2442ff6f9bdc5e6f5e5fcc8a4ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:20:52.528558+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Toadflax Pug, Eupithecia linariata ([Denis & Schiffermüller], 1775) (鱗翅目: シャクガ科) のゲノム配列",
+    "abstract_ja": "Eupithecia linariata（Toadflax Pug; Arthropoda; Insecta; Lepidoptera; Geometridae）の雄個体から得られたゲノムアセンブリを提示する。本アセンブリには、総長364.44メガベースおよび364.02メガベースの2つのハプロタイプが含まれている。ハプロタイプ1の大部分（99.62%）は、Z性染色体を含む31本の染色体擬似分子へとスキャフォールディングされている。ハプロタイプ2はスキャフォールドレベルでアセンブルされた。ミトコンドリアゲノムもアセンブルされており、その長さは15.44キロベースである。Ensemblを用いた本アセンブリの遺伝子アノテーションにより、12,684個のタンパク質符号化遺伝子が同定された。本アセンブリは、英国およびアイルランドに生息する真核生物種のゲノムを構築するDarwin Tree of Lifeプロジェクトの一環として作成された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760618",
+    "title": "A Pipeline for Predicting Variant Associations with Complex Disorders via Functional Annotations",
+    "abstract": "The study of complex disorders is limited by the lack of structured data sets that integrate genetic association signals with rich functional annotations. While genome-wide association studies (GWAS) provide large collections of associated variants, these are heterogeneous, study-dependent, and not directly suitable for machine learning applications. Although frameworks such as Combined Annotation Dependent Depletion (CADD) offer comprehensive variant-level features, there is no standardised procedure to construct curated, balanced, and reproducible data sets for the systematic study of complex traits. We introduce a scalable and reproducible pipeline for generating CADD-annotated variant data sets associated with complex disorders defined via Experimental Factor Ontology (EFO) terms. The pipeline integrates GWAS summary statistics, genome mapping, chromosome-stratified negative sampling, and large-scale annotation, while addressing class imbalance and feature redundancy. The resulting data sets provide curated, balanced, and annotation-rich representations of variant–trait associations, suitable for statistical learning, systematic model evaluation and comparison, and analysis of functional annotation contributions and interactions.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760618",
+    "date": "2026-10-26",
+    "authors": "Gualdi F, Darani Z, Malpetti D, Scutari M, Mangili F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350391",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4817,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.10.21.760618"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4868897e1655ab8e42f22e3d40fbb6588ad1c5bfe9d0924310d1dcbd68c50d3b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:20:52.528558+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ba17151cab7bd356e0dc2328f6b377393791d559773b94f5f638743f582aebdc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:20:52.528558+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "機能アノテーションを用いた複雑疾患におけるバリアント関連予測パイプライン",
+    "abstract_ja": "複雑性疾患の研究は、遺伝的関連シグナルと豊富な機能アノテーションを統合した構造化データセットの不足によって制約を受けている。ゲノムワイド関連解析（GWAS）は関連バリアントの大規模なコレクションを提供するが、これらは不均一で研究に依存しており、機械学習への適用には直接的に適していない。Combined Annotation Dependent Depletion（CADD）などのフレームワークは包括的なバリアントレベルの特徴量を提供するものの、複雑性形質の系統的な研究に向けた、キュレート済みでバランスの取れた再現性のあるデータセットを構築するための標準化された手順は存在しない。本研究では、Experimental Factor Ontology（EFO）用語によって定義された複雑性疾患に関連するCADDアノテーション済みバリアントデータセットを生成するための、スケーラブルで再現性のあるパイプラインを提案する。このパイプラインは、GWASの要約統計量、ゲノムマッピング、染色体層別ネガティブサンプリング、および大規模アノテーションを統合しつつ、クラス不均衡と特徴量の冗長性に対処する。得られたデータセットは、バリアントと形質の関連をキュレート済みでバランスの取れた、アノテーション豊富な形式で表現しており、統計的学習、系統的なモデル評価と比較、および機能アノテーションの寄与と相互作用の解析に適している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.759648",
+    "title": "A Pan-Cancer Benchmark of Clustering Strategies for Patient-Specific Gene Regulatory Networks",
+    "abstract": "Cancer patients with clinically similar tumors can exhibit substantial differences in disease progression and treatment response. Patient-specific gene regulatory networks (GRNs) may capture regulatory heterogeneity that is not represented by gene expression alone. However, strategies for clustering patients using these high-dimensional networks have not been systematically evaluated and it remains unclear whether clustering based directly on millions of patient-specific regulatory edge weights is computationally feasible at scale. We benchmarked feature-selection and clustering approaches for patient-specific GRNs inferred with PANDA and LIONESS across 9,778 primary tumor samples from 33 cancer types. We compared three data representations: gene expression, gene indegrees summarizing regulatory input to each gene, and complete networks of transcription factor–gene edge weights. Twenty combinations of four feature-selection methods and five clustering algorithms were evaluated using consensus clustering. Performance was assessed based on mean silhouette score, PAC score, concordance, computational time, and memory usage. Standard deviation–based feature selection combined with k-means clustering achieved the strongest overall performance for both GRN-derived representations, with overall scores of 0.997 for edge weights and 0.985 for indegrees, while remaining computationally efficient. Edge-weight- and indegree-derived clusters showed clinical, biological, and prognostic associations that were complementary to those obtained from gene expression. Together, these findings provide a practical framework for network-based cancer patient stratification and highlight the potential of GRN-derived features to reveal clinically relevant tumor heterogeneity beyond gene expression alone.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.759648",
+    "date": "2026-10-25",
+    "authors": "Sarantidis P, Belova T, Kuijjer ML.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350548",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "clustering",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4823,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.10.20.759648"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6fbd54451782f3fe72534119aa459f79a36df231dfe52d2688f4ed2e19bad3c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:20:52.528558+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7051088bffe4a90bfc000df15fd1bd6311de0b040a5e3081fead9a22cad8d091",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:20:52.528558+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "患者特異的遺伝子制御ネットワークのクラスタリング戦略に関する汎がんベンチマーク",
+    "abstract_ja": "臨床的に類似した腫瘍を有するがん患者間においても、疾患の進行や治療反応性に著しい差異が見られることがある。患者固有の遺伝子調節ネットワーク（GRN）は、遺伝子発現だけでは表現できない調節上の不均一性を捉えている可能性がある。しかし、これらの高次元ネットワークを用いて患者をクラスタリングする手法は体系的に評価されておらず、数百万に及ぶ患者固有の調節エッジ重みに直接基づくクラスタリングが、大規模に計算量的に実現可能であるかは依然として不明である。本研究では、PANDAおよびLIONESSを用いて推定した患者固有GRNに対し、33種類のがん種にわたる9,778例の原発腫瘍検体を用いて、特徴量選択およびクラスタリング手法のベンチマーク評価を行った。遺伝子発現、各遺伝子への調節入力をまとめた遺伝子入次数、および転写因子－遺伝子エッジ重みの完全なネットワークという3つのデータ表現を比較した。4種類の特徴量選択手法と5種類のクラスタリングアルゴリズムの20通りの組み合わせを、コンセンサスクラスタリングを用いて評価した。性能は、平均シルエットスコア、PACスコア、一致度、計算時間、およびメモリ使用量に基づいて評価した。標準偏差に基づく特徴量選択とk-meansクラスタリングを組み合わせた手法は、GRN由来の両表現において最も優れた総合性能を示し、エッジ重みで0.997、入次数で0.985という総合スコアを達成しつつ、計算効率も維持していた。エッジ重みおよび入次数から導出されたクラスターは、遺伝子発現から得られたものと相補的な、臨床的、生物学的、および予後的な関連性を示した。以上の知見を総合すると、ネットワークに基づくがん患者の層別化のための実用的な枠組みが提供されるとともに、GRN由来の特徴量が遺伝子発現のみを超えて臨床的に意義のある腫瘍の不均一性を明らかにする可能性が示された。"
   }
 ]
