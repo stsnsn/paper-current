@@ -272190,5 +272190,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヒトのアレル不均一性における表現型判別のためのパートナー特異的タンパク質表現のベンチマーク",
     "abstract_ja": "要旨  背景  同一のヒト遺伝子内における病原性変異は、異なるメンデル表現型を引き起こすことがある。パートナー特異的なタンパク質表現型は、このアレル不均一性を研究するための分子レベルのコンテキストを提供する。これらの表現型の技術的利用可能性、表現型バランスを考慮したカバレッジ、および追加的な表現型情報については、個別の評価が必要である。我々は、ClinVarベースのコホートにおいて、構造/インターフェース表現型、MutPred-PPI破壊スコア、および配列ベースのSPPIDER-seqおよびX-PAIR表現型をベンチマークした。ラベル付き対ソート済みコントロールでは、独立した標準化の前に、各残基の生スコアマルチセットをソートすることで名称付きパートナーの割り当てを除去した。コホートの適格性および統計的手順は、表現型検定の前に規定された。統合サポート基準では、中央値ΔR²が正であり、かつその95%信頼区間（CI）が厳密に0を上回ることが要求された。また、表現型判定準備が整った遺伝子の少なくとも70%においてΔR²が正であることが求められた。結果  共通分母132遺伝子において、MutPred-PPIは提出された構造行11,150行中10,917行（97.91%）でスコアを記録した。9つの遺伝子が表現型カバレッジの閾値に達し、3つの遺伝子が表現型バランス基準を満たした。配列ベースの表現型により、利用可能なカバレッジが拡大した。SPPIDER-seqは127遺伝子で閾値に達し、そのうち23遺伝子が表現型バランスを満たしていた。X-PAIRは107遺伝子で閾値に達し、そのうち15遺伝子が表現型バランスを満たしていた。主要コホートは10遺伝子と547個の固有の野生型（WT）残基解析ユニットで構成されていた。X-PAIRの中央値ΔR²は0.00179553（95%遺伝子ブートストラップCI − 0.00410526～0.00495717）であり、10遺伝子中8遺伝子でΔR²が正であった。事前に規定された統合基準は満たされず、モデル間の知見により一般化が制限された。同一のWT残基における異なる置換には、同一の残基×パートナーベクトルが割り当てられた。この設計上の特性が全体の結果に及ぼす寄与については、直接的に検証されなかった。結論  配列ベースのパートナー表現型は、表現型バランスを考慮したカバレッジを大幅に拡大した。事前に規定された基準の下では、評価対象コホートにおいて、名称付きパートナーの同一性は堅牢な全体的な追加表現型情報を提供しなかった。本フレームワークは、分子特徴の利用可能性と、表現型判別に関連する情報を区別するものである。表現型レベルでの解釈には、置換固有の分子的帰結を、パートナーコンテキストおよび疾患に関連する生物学的コンテキストと組み合わせる必要がある場合がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11233033/v1",
+    "title": "Near-infrared spectroscopy-based phenomic prediction is competitive with genomic prediction in sorghum",
+    "abstract": "Abstract    Genomic selection is well established in many crop improvement programs, and the inclusion of phenomic data to prediction models is increasing. Applications of phenomic data for predictive methods lag because genotypes must be grown whereas genomic prediction is applied to untested genotypes. To address this drawback, we propose a low-cost approach of phenomic selection strategies using Near Infrared Spectroscopy (NIRS) data collected on inbred parental lines. For this study, 366 grain sorghum hybrids, developed from a partial factorial, were evaluated across four total environments between 2019 and 2020. The inbred parents of these hybrids were evaluated in the 2020 environments. Both hybrids and inbreds were phenotyped for grain yield, days to anthesis, and plant height and grain samples were scanned using NIRS bandwidths from 400–2500 nm to estimate compositional traits such as starch, protein, fat, fiber, and ash. Parents were genotyped using genotyping by sequencing which produced 38,234 high-quality SNP markers. Various prediction models incorporating these genomic, phenomic and both data were trained. Phenomic prediction models trained using NIRS obtained on parents (  M2  ) and mid-parent heterosis (  M3  ) of NIRS were similar, and in most cases competitive to genomic prediction (  M1  ) in predicting hybrids from un-testcrossed lines (  CVa  ) and untested hybrids (  CVb  ). Linear discriminant analysis using NIR spectra of grain samples explained majority of variance and was able to characterize environments and heterotic groups accurately. NIRS-based phenomic prediction could be implemented as low-cost alternative to genomic prediction to predict sorghum hybrid performance across environments.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11233033/v1",
+    "date": "2026-11-09",
+    "authors": "Sapkota P, Leon F, Crozier D, Rooney WL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362018",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4886,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.21203/rs.3.rs-11233033/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b6c807af8fbc42613fcda4aed1f916e987ab9797fe00085fd71e1a27a6b815ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:03:02.383322+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ef676f97707b9f75c3b61475610c7c3b723181575794728b9e786ed850fca80e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:03:02.383322+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ソルガムにおける近赤外分光法に基づくフェノミック予測は、ゲノム予測に匹敵する",
+    "abstract_ja": "要旨    ゲノム選抜は多くの作物改良プログラムにおいて確立されており、予測モデルへのフェノミックデータの導入が進んでいる。予測手法へのフェノミックデータの適用が遅れているのは、遺伝子型を育成する必要があるのに対し、ゲノム予測は未検定の遺伝子型に適用されるためである。この欠点を解消するため、本研究では、近赤外分光法（NIRS）を用いて近交系親系統から収集したデータを活用した、低コストなフェノミック選抜戦略を提案する。本研究では、部分因子交配により育成された366系統の粒ソルガム雑種を、2019年から2020年にかけて計4つの環境において評価した。これらの雑種の近交系親系統は、2020年の環境において評価された。雑種および近交系親系統の双方について、粒収量、開花日数、および草丈のフェノタイプ解析を行い、粒サンプルを400～2500 nmのNIRSバンド幅を用いてスキャンすることで、デンプン、タンパク質、脂肪、繊維、および灰分などの組成形質を推定した。親系統の遺伝子型解析にはシーケンシングによる遺伝子型判定を用い、38,234個の高品質なSNPマーカーを得た。これらのゲノムデータ、フェノミックデータ、および双方のデータを組み込んだ各種予測モデルを学習させた。親系統（M2）およびNIRSの中間親ヘテロシス（M3）から得られたNIRSベースのフェノミック予測モデルは、未検定系統（CVa）および未検定雑種（CVb）の雑種予測において、ゲノム予測（M1）と同等であり、多くの場合において遜色ない性能を示した。粒サンプルのNIRSスペクトルを用いた線形判別分析は、分散の大部分を説明し、環境およびヘテロシス群を正確に特性評価することができた。NIRSベースのフェノミック予測は、環境間におけるソルガム雑種の性能を予測するための、ゲノム予測に代わる低コストな手法として実装可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0671.v1",
+    "title": "Beyond Immune Classification: A Root-Driver and Systemic Barrier Framework for Allergic and Autoimmune Diseases",
+    "abstract": "Background:  Allergic and autoimmune diseases are clinically heterogeneous and impose substantial health burdens. Although disease-specific immunotherapies have produced important advances, incomplete understanding of disease initiation, heterogeneous treatment responses, persistent comorbidity, and limited prevention options motivate investigation of potentially modifiable upstream contributors.Hypothesis: Integrative Orthomolecular Systems Medicine (I-OM) proposes that a subset of seemingly disparate immune-mediated disorders may be influenced by overlapping dietary, metabolic, nutritional, infectious, environmental, endocrine, developmental, and other contributors. These influences may converge partly on dysfunction of epithelial and other physiological barriers, microbial ecosystems, and host repair processes. We designate the proposed network-level convergence construct Systemic Leaky Barrier Syndrome (SLBS), extending an earlier conceptual preprint; SLBS is not an established diagnostic syndrome or a proven common cause.Framework: We specify ten I-OM root-driver domains and a four-step reasoning workflow—Divide, Examine, Reconnect, Intervene—while differentiating established disease-specific interventions, generally appropriate correction of documented abnormalities, and experimental adjuncts. Candidate interventions include individualized dietary quality and metabolic strategies, correction of deficiencies, investigation of confirmed infectious or dental sources, avoidance of hazardous exposures, endocrine care when indicated, and selected investigational nutritional or immune-regulatory approaches.Testing: The model predicts that prospectively defined multisite barrier signatures and actionable upstream contributors will stratify some patient subgroups and that a standardized I-OM assessment pathway may improve outcomes beyond an attention-matched, guideline-concordant comparator. These predictions must be tested with validated measurements, disease-specific endpoints, transparent harms reporting, and independently replicated trials. Conclusion: The scientific contribution of I-OM is not a claim of demonstrated cure or a replacement for immunology, but a falsifiable, safety-conscious approach to linking upstream investigation, multisystem biology, and clinical outcomes.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0671.v1",
+    "date": "2026-11-06",
+    "authors": "Cheng RZ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361585",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "microbial",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4887,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.20944/preprints202611.0671.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "84ca96fd801a43cae3756bcacf983c44222f9311c69fdbd1638c478ff6dda2c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:03:02.383322+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "54df7844bcd0f28da1116c8c85955d37e16955f9426866b32560537173b95f07",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:03:02.383322+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "免疫分類を超えて：アレルギー性および自己免疫性疾患におけるルートドライバーと全身性バリアの枠組み",
+    "abstract_ja": "背景：アレルギー性および自己免疫性疾患は臨床的に多様であり、多大な健康負荷をもたらしている。疾患特異的な免疫療法によって重要な進展が見られたものの、疾患発症機序の理解不足、治療反応の不均一性、持続的な併存疾患、および予防手段の限定性から、潜在的に修正可能な上流要因の調査が求められている。仮説：統合オーソモレキュラーシステム医学（I-OM）は、一見異なる免疫介在性疾患のサブセットが、食事、代謝、栄養、感染、環境、内分泌、発達、およびその他の要因の重複した影響を受けている可能性を提唱している。これらの影響は、部分的に上皮およびその他の生理学的バリア、微生物生態系、および宿主修復プロセスの機能不全に収束している可能性がある。我々は、先行する概念的プレプリントを拡張し、提案するネットワークレベルの収束概念を「全身性リーキーバリア症候群（Systemic Leaky Barrier Syndrome: SLBS）」と定義する。SLBSは、確立された診断症候群ではなく、また証明された共通原因でもない。フレームワーク：我々は、10のI-OMルートドライバードメインと、「分割（Divide）」「精査（Examine）」「再接続（Reconnect）」「介入（Intervene）」という4段階の推論ワークフローを規定し、確立された疾患特異的介入、一般的に文書化された異常の適切な是正、および実験的な補助療法を区別する。候補となる介入には、個別化された食事の質および代謝戦略、欠乏症の是正、確認された感染源または歯科的要因の調査、有害な曝露の回避、適応がある場合の内分泌ケア、および選定された試験的な栄養学的または免疫調節的アプローチが含まれる。検証：本モデルは、前向きに定義された多部位バリアシグネチャーと実行可能な上流要因が、一部の患者サブグループを層別化すること、および標準化されたI-OM評価パスウェイが、注意基準を一致させガイドラインに準拠した対照群を上回るアウトカム改善をもたらし得ることを予測している。これらの予測は、検証済みの測定値、疾患特異的なエンドポイント、透明性のある有害事象報告、および独立して再現された試験によって検証されなければならない。結論：I-OMの科学的貢献は、治癒の実証や免疫学の代替を主張するものではなく、上流要因の調査、多系生物学、および臨床アウトカムを結びつける、反証可能で安全性に配慮したアプローチである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.764359",
+    "title": "stem.MAP: Identification of cell-type-specific protein complexes in mammalian embryonic stem cells",
+    "abstract": "Protein complexes carry out critical functions during development. Mapping cell-type-specific protein complexes in early embryogenesis is essential for uncovering the molecular mechanisms of embryonic development. We unfortunately currently lack a catalog of protein complexes specific for embryogenesis including embryonic stem cells. Here we develop a proteomics-based machine learning workflow to predict protein complexes present in mouse embryonic stem cells (mESC). Our method integrates data from a cell-type agnostic protein complex resource with co-fractionation mass spectrometry (CF-MS) experiments on mESC. Our resource, stem.MAP, identifies 3,986 complexes encompassing ∼133,000 unique interactions, and 8,616 proteins. stem.MAP captures variant complexes critical for stem cell function including the PRC2, BAF and NuRD complexes. stem.MAP also discriminates mutually exclusive interactions specific to embryonic stem cells (e.g. Eif4ebp2 - Eif4e). Finally we observe 1,388 high confidence stem.MAP interactions found only in mESC CF-MS data, many with support from AlphaFold modeling and a gastruloid coregulation network. We make stem.MAP protein complexes available through our web resource: stem.proteincomplexes.org. We anticipate stem.MAP will be beneficial to the study of early development and we expect our proteomics-based machine learning workflow to be applicable to the creation of any context-specific protein interaction network.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764359",
+    "date": "2026-11-06",
+    "authors": "Rajaraman A, Fischer SN, Woodcock-Girard MD, Garge RK, Drew K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361140",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protein",
+        "proteomic",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "protein",
+          "proteomic",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4891,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.04.764359"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e55b8c86b4577cc794b33182f8006831505d6efbd1d29496c8abab90cf3e1c6f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:03:02.383322+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "317af5e80fbac4c27f48311fa9a96e6edeb64de1377b610913b3703b52956ef4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:03:02.383322+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "stem.MAP: 哺乳類胚性幹細胞における細胞種特異的タンパク質複合体の同定",
+    "abstract_ja": "タンパク質複合体は、発生過程において極めて重要な機能を担っている。初期胚発生における細胞種特異的なタンパク質複合体のマッピングは、胚発生の分子機構を解明する上で不可欠である。残念ながら、現時点では胚性幹細胞を含む胚発生特異的なタンパク質複合体のカタログが整備されていない。本研究では、マウス胚性幹細胞（mESC）に存在するタンパク質複合体を予測するため、プロテオミクスに基づく機械学習ワークフローを開発した。本手法は、細胞種に依存しないタンパク質複合体リソースのデータと、mESCを用いた共分画質量分析（CF-MS）実験のデータを統合するものである。我々のリソースであるstem.MAPは、約133,000件の固有の相互作用と8,616種類のタンパク質を含む3,986個の複合体を同定した。stem.MAPは、PRC2、BAF、およびNuRD複合体など、幹細胞機能に不可欠なバリアント複合体を捕捉する。また、stem.MAPは胚性幹細胞に特異的な相互排他的な相互作用（例：Eif4ebp2 - Eif4e）を判別する。最後に、mESCのCF-MSデータにのみ見られる1,388件の高信頼度のstem.MAP相互作用を観測しており、その多くはAlphaFoldモデリングおよびガストロロイド共調節ネットワークによって裏付けられている。我々は、ウェブリソース（stem.proteincomplexes.org）を通じてstem.MAPのタンパク質複合体を提供している。stem.MAPが初期発生の研究に有用であること、また、本プロテオミクスに基づく機械学習ワークフローがあらゆるコンテキスト特異的なタンパク質相互作用ネットワークの構築に適用可能であることを期待している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.763670",
+    "title": "Invasion analysis for structured populations: analytical principles and numerical workflows",
+    "abstract": "All real populations show some form of structure—differences among individuals, such as life stage or physiological condition, that shape a species’ ability to persist. Yet it remains challenging to incorporate population structure into models of species interactions. We provide a general framework for studying competition in structured populations by quantifying species’ invasion growth rates. The crux of our approach is separation of timescales: the initial dynamics of a structured population depend on how exactly it is introduced, but these transient differences do not affect long-term invasion success. Depending on the research question, the relevant long-term growth rate when rare may equivalently be derived using analytical separation of timescales, matrix population theory, or numerical simulations. Using case studies spanning developmental stage, environmental state, and infection status, we illustrate how our methodology derives simple, ecologically meaningful invasion conditions for a variety of systems. Finally, we extend the approach to fluctuating resident dynamics, showing how to use simulations or a general mathematical framework known as Floquet theory to correctly quantify invasion growth. By unifying the quantitative methods of population biology and community ecology, our framework will allow ecologists to study species persistence and coexistence across a greater variety of demographically complex systems.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.763670",
+    "date": "2026-11-06",
+    "authors": "Wan J, Lo H, Chen G, Huang S, Liu J, Tsai C, Ke P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361093",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4892,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.04.763670"
+    ],
+    "translation": {
+      "title": {
+        "hash": "67cdf5b3033cd42531032b5ae1108b36c2594797066eebb6f9690fe685e0bea5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:03:02.383322+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d5f913e048427b1e97711f2550b55c698438a2083c42a788846b6f7cd456ceb2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:03:02.383322+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "構造化集団における侵入解析：解析原理と数値計算ワークフロー",
+    "abstract_ja": "あらゆる実際の個体群は、何らかの構造――生活史の段階や生理的状態といった個体間の差異であり、種の存続能力を規定するもの――を有している。しかし、個体群構造を種間相互作用のモデルに組み込むことは依然として困難な課題である。本研究では、種の侵入成長率を定量化することで、構造化個体群における競争を研究するための汎用的な枠組みを提示する。本アプローチの核心は時間スケールの分離にある。構造化個体群の初期動態は、それが具体的にどのように導入されるかに依存するが、こうした一過性の差異は長期的な侵入の成否には影響を及ぼさない。研究課題に応じて、稀な場合に適用される適切な長期成長率は、解析的な時間スケール分離、行列個体群理論、あるいは数値シミュレーションを用いて等価に導出できる。発生段階、環境状態、および感染状況にわたるケーススタディを用いて、本手法が多様な系においていかにして単純かつ生態学的に意義のある侵入条件を導出するかを示す。最後に、本アプローチを変動する定着個体群の動態へと拡張し、シミュレーションやフロケ理論として知られる汎用的な数学的枠組みを用いて、侵入成長を正しく定量化する方法を示す。個体群生物学と群集生態学の定量的手法を統合することで、本枠組みは生態学者が、より多様な人口統計学的に複雑な系における種の存続と共存を研究することを可能にする。"
   }
 ]
