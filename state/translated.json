@@ -278771,5 +278771,289 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "尿路病原性大腸菌の小規模なタンパク質ランドスケープの解明",
     "abstract_ja": "要旨尿路感染症の主要な原因菌は、尿路病原性大腸菌（UPEC）である。UPEC株CFT073は、病原性遺伝子が濃縮された60個のゲノムアイランドを含むモザイクゲノムを有している。本研究では、リボソームプロファイリング（Ribo-seq）とRNAシーケンシング（RNA-seq）を併用してCFT073の小型プロテオームを解析し、100コドン未満の、翻訳済みでこれまでアノテーションされていなかった推定小型オープンリーディングフレーム（sORF）338個を同定した。このうち78個のsORFは遺伝子間領域に位置していた。15個の遺伝子間sORFは予測される膜貫通ヘリックス（smemORF）をコードしており、そのうち7個は仮説上のものであるか、あるいは他の大腸菌株では特性解析されていない。残りの推定sORFの大部分は、未特性解析または新規の可溶性タンパク質（ssolORF）をコードしている。多くのsORFの進化は最近である可能性が高いため、機能的なsORFは他のゲノムにおいても保存された遺伝子近傍を持つ可能性が高い。他の10株の大腸菌および4種の腸内細菌のゲノムを解析したところ、シンテニー解析により、推定smemORF 15個中10個、および推定ssolORF 63個中27個が、少なくとも1つの他のゲノムにおいて同様のゲノムコンテキストに相同配列を有していることが明らかになり、機能的なタンパク質をコードしている可能性が支持された。プロテオミクス、無細胞タンパク質合成、およびmNeonGreenタグ付けを用いた推定sORFのさらなる検証により、予測された9個の遺伝子間sORFの翻訳を示す強力な証拠が得られた。特筆すべきは、これまで特性解析されていなかった4種類の小型膜タンパク質が酸化ストレス下で存在量が増加しており、ストレス応答における潜在的な役割が示唆されたことである。以上の知見を総合すると、本研究は腸管外病原性大腸菌の小型プロテオームを明らかにするとともに、さらなる調査に向けた推定sORFのカタログを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "brief-report",
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag799",
+    "title": "rustybam: a composable toolkit for alignment analysis and visualization with SafFire.",
+    "abstract": "SummaryWe present rustybam, a Rust-based command-line toolkit for CIGAR-aware manipulation of PAF and BAM alignments, and SafFire, a browser-based tool for interactive genome comparison visualization with annotation overlays. rustybam's composable subcommands provide overlap resolution, coordinate liftover, alignment splitting at structural variants, scaffolding, and identity statistics.Availability and implementationBoth tools are open source under the MIT license. rustybam is available via Bioconda (https://anaconda.org/bioconda/rustybam), crates.io, and GitHub (https://github.com/vollgerlab/rustybam). SafFire is hosted at https://vollgerlab.com/SafFire/ with source code at https://github.com/vollgerlab/SafFire. Archived versions are available on Zenodo: rustybam (https://doi.org/10.5281/zenodo.4654875) and SafFire (https://doi.org/10.5281/zenodo.5765964).",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag799",
+    "date": "2026-11-01",
+    "authors": "Mirchandani C, Vollger MR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949121",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739056",
+    "pmid": "42949121",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4969,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bioinformatics/btag799"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8a66bbb314e8579a816b7391c06a303ab06f969b7232b7c6306984b582dedee0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:36:34.417460+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "12a86df829a2d983b92d61fb7265cfc04b14104f573b48fdd188a8d729075775",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:36:34.417460+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "rustybam: SafFireを用いたアライメント解析・可視化のためのコンポーザブルなツールキット。",
+    "abstract_ja": "概要本稿では、PAFおよびBAMアライメントのCIGAR対応操作を実現するRustベースのコマンドラインツールキット「rustybam」と、アノテーションオーバーレイを用いたインタラクティブなゲノム比較可視化のためのブラウザベースツール「SafFire」を紹介する。rustybamの組み合わせ可能なサブコマンドにより、オーバーラップ解消、座標リフトオーバー、構造変異におけるアライメント分割、スキャフォールディング、および同一性統計の取得が可能である。利用可能性と実装両ツールはMITライセンスの下でオープンソースとして公開されている。rustybamはBioconda (https://anaconda.org/bioconda/rustybam)、crates.io、およびGitHub (https://github.com/vollgerlab/rustybam) から入手可能である。SafFireは https://vollgerlab.com/SafFire/ でホストされており、ソースコードは https://github.com/vollgerlab/SafFire で公開されている。アーカイブ版はZenodoで公開されている：rustybam (https://doi.org/10.5281/zenodo.4654875) およびSafFire (https://doi.org/10.5281/zenodo.5765964)。"
+  },
+  {
+    "id": "10.1038/s41467-026-79677-1",
+    "title": "Leveraging sequence purification for accurate prediction of multiple conformational states with AlphaFold2",
+    "abstract": "Proteins often adopt distinct conformations to carry out their functions. Here, the authors introduce AF-ClaSeq, a method that improves multistate structure prediction by clarifying evolutionary signals.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79677-1",
+    "date": "2026-11-16",
+    "authors": "Xiaolin Cheng",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79677-1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/ncomms.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4985,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41467-026-79677-1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a9710386823b3ca818786e748e18de51617595159991c720799ced492fc8af20",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:36:34.417460+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dde6edc361939dfdba99c1789de09f766fc4838b700a701c44b0b3a8bdaf6067",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:36:34.417460+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "AlphaFold2による配列精製を活用した複数コンフォメーション状態の高精度予測",
+    "abstract_ja": "タンパク質は機能を果たすために、しばしば特有の立体構造をとる。ここで著者らは、進化シグナルを明らかにすることで多状態構造予測を改善する手法AF-ClaSeqを紹介する。"
+  },
+  {
+    "id": "10.1038/s41564-026-02543-9",
+    "title": "Global analysis of the diversity and functional potential of Patescibacteria phages",
+    "abstract": "A metagenomic analysis of phages of Patescibacteria, sometimes called the Candidate Phyla Radiation (CPR), reveals ecological linkages and streamlined genome signatures analogous to those of their ultra-small hosts.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02543-9",
+    "date": "2026-11-16",
+    "authors": "Huahua Jian",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02543-9",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4982,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41564-026-02543-9"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9bc6e7fb7b5a9d272288cf5ead26b6485dbfa0a13c1a78bac452eb5a96578232",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:36:34.417460+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ed561eda55193acc5a19a4761bac0f9c799f2d5bab5e5cef6064c216029b5001",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:36:34.417460+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パテス細菌ファージの多様性と機能的ポテンシャルに関する世界的解析",
+    "abstract_ja": "パテス細菌門のファージ（時に候補門放散群（CPR）と呼ばれる）のメタゲノム解析により、超小型宿主のものと類似した生態学的関連性や効率化されたゲノムシグネチャーが明らかになった。"
+  },
+  {
+    "id": "10.1038/s41579-026-01396-7",
+    "title": "Uncovering a clostridial toxin behind necrotizing enterocolitis",
+    "abstract": "In a recent study, Zhang and colleagues identify Delta toxin produced by Clostridium perfringens as the driver of intestinal and brain injury in a subset of necrotizing enterocolitis.",
+    "journal": "Nature Reviews Microbiology",
+    "doi": "10.1038/s41579-026-01396-7",
+    "date": "2026-11-16",
+    "authors": "Agustina Taglialegna",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41579-026-01396-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nrmicro.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5001,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.nature.com/nrmicro.rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41579-026-01396-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "538e60f5b379201152d308d81154b328b674b46f14445584047939c5293eebb1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:36:34.417460+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "96d8b51b8167edf3072bd2e53079b060a723795e9853f0fcdbcc3c25387fdd45",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:36:34.417460+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "壊死性腸炎の背景にあるクロストリジウム毒素の解明",
+    "abstract_ja": "最近の研究において、Zhangらは、壊死性腸炎の一部における腸管および脳損傷の原因として、Clostridium perfringensが産生するデルタ毒素を特定した。"
   }
 ]
