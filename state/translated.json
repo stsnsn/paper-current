@@ -276649,5 +276649,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ブラジル・バイーア州サルバドールにおける急性胃腸炎集団発生の原因ウイルスとしてのアデノウイルス",
     "abstract_ja": "はじめに  急性胃腸炎（AGE）は小児の罹患原因であり、ヒトアデノウイルス（HAdV）感染に関連している可能性がある。本研究は、ブラジル・バイーア州サルバドールにおけるAGE罹患児の便検体におけるHAdVの検出頻度を調査するとともに、同定された株の分子学的特性解析および細胞培養における細胞傷害性の評価を行うことを目的として実施した。方法  計131検体をネスト型ポリメラーゼ連鎖反応（Nested-PCR）法を用いて解析した。分子学的特性解析はサンガーシーケンシングおよび系統解析により行い、細胞傷害性の検出にはVero細胞培養を用いた。結果  解析した検体のうち、13検体（9.9%）がHAdV陽性であり、118検体（90.1%）が陰性であった。検出頻度が最も高かったのは3歳以下の小児、特に1歳未満の小児であった。系統解析によりHAdV-F41およびHAdV-B3に関連する変異株が同定され、参照配列と比較して遺伝的差異および異なるクラスター形成パターンが認められた。細胞培養では、接種4日後に細胞傷害性が認められたが、ウイルスの増殖を確認するにはさらなる解析が必要である。結論  これらの知見は、調査した検体におけるHAdVの存在を示すとともに、サルバドールにおけるその遺伝的多様性と循環状況の理解に寄与するものであり、疫学的サーベイランスの重要性、および小児AGEの病因における同ウイルスの役割に関するさらなる研究の必要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.26365916",
+    "title": "Detection and Characterization of Human Bocavirus in Stool Samples from an Acute Gastroenteritis Outbreak in Salvador, Bahia, Brazil, in 2024",
+    "abstract": "Introduction  Acute gastroenteritis (AGE) is a global public health problem and a major cause of mortality in low- and lower-middle-income countries. Human bocavirus (HBoV) is among the viral agents associated with this condition. Therefore, investigating the presence of HBoV in cases of AGE in Salvador, Bahia, as well as its prevalence and circulating strains, is important. Objective  To investigate the occurrence of HBoV infection during an AGE outbreak in Salvador. Methods  A total of 178 samples were analyzed for HBoV using nested polymerase chain reaction (nested PCR), and the amplification products were visualized by agarose gel electrophoresis. HBoV was detected in 5.7% of the samples analyzed. Conclusion  This study contributes to the understanding of HBoV epidemiology as a secondary agent associated with acute gastroenteritis during a norovirus outbreak in Salvador. Continued investigation and identification of the etiological agents involved in outbreaks are essential for evaluating the causes of AGE. These findings also highlight the need for broader diagnostic approaches and the importance of phylogenetic analysis for monitoring and controlling viral infections.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.26365916",
+    "date": "2026-10-21",
+    "authors": "Vidal BP, Neves SO, Santos IP, Sardi SI, Campos GS.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347305",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2750,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.26365916"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8e1ac1fc618cc893e4a296896fd727e712ef0ec62130c49f5af14c965dae5920",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:43:50.947832+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ed4e2c4cf1ada87fcb1911d0132082b40db8bb9dbbadd784d1eadb5c578b8998",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:43:50.947832+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2024年にブラジル・バイーア州サルバドールで発生した急性胃腸炎アウトブレイクの便検体におけるヒトボカウイルスの検出および特性解析",
+    "abstract_ja": "はじめに  急性胃腸炎（AGE）は世界的な公衆衛生上の問題であり、低・下位中所得国における主要な死因となっている。ヒトボカウイルス（HBoV）は、この疾患に関連するウイルス因子の一つである。したがって、バイーア州サルバドールにおけるAGE症例でのHBoVの存在、ならびにその有病率および循環株を調査することは重要である。目的  サルバドールにおけるAGEアウトブレイク時のHBoV感染の発生状況を調査すること。方法  計178検体を対象に、ネスト型ポリメラーゼ連鎖反応（ネストPCR）を用いてHBoVの解析を行い、増幅産物をアガロースゲル電気泳動により可視化した。解析した検体の5.7%からHBoVが検出された。結論  本研究は、サルバドールにおけるノロウイルスアウトブレイク時の急性胃腸炎に関連する二次因子としてのHBoVの疫学の理解に寄与するものである。アウトブレイクに関与する病因因子の継続的な調査と同定は、AGEの原因を評価する上で不可欠である。また、これらの知見は、より広範な診断アプローチの必要性と、ウイルス感染症のモニタリングおよび制御における系統解析の重要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760405",
+    "title": "Hexosyl transfer  via  a covalent intermediate within a dual retaining and inverting enzyme",
+    "abstract": "Bifunctional glycosyltransferases underpin biosynthesis of essential glycans, including bacterial capsular antigens, and eukaryotic glycosaminoglycans. Typically, these enzymes transfer hexose sugars from activated nucleotide-phosphate donors, forming new glycosidic bonds with either retention or inversion of anomeric stereochemistry. Retaining hexosyl transfer typically proceeds  via non-covalent  S  N i  -type pathways, but recent studies of octulosyl Kdo-transferases have reignited debate over covalent mechanisms. Here we comprehensively dissected the activity of the archetypal bifunctional glycosyltransferase PmHS2, providing X-ray structures of ligand complexes alongside atomistic simulations to delineate full substrate-to-product reaction trajectories. Combined computational, biochemical and evolutionary evidence suggests that PmHS2 retaining GlcNAc-transfer likely proceeds  via a previously undescribed covalent mechanism, involving considerable assistance from departing nucleotide-phosphate rotation. In mapping reaction pathways, we also report the first example of a glycosyl donor substrate coopted as an acceptor, which enables enzymatic self-priming for polymerization. These new covalent and self-priming functionalities highlight unexplored routes to modulate or inhibit polysaccharide biosynthesis.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760405",
+    "date": "2026-10-21",
+    "authors": "Sağıroğlugil M, Piniello B, Leanca MA, Kitano ES, Mycroft-West CJ, Papadakis G, Gafitescu MA, Mohammed S, Davis BG, Rovira C, Wu L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347283",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2751,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.20.760405"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2d0b78ab1930a61873904364f17ad84ac8ca4b7fb5e163539989d3bc078b85b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:43:50.947832+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "09d683ba9f6da5e9485eeb4d8c79f81afdbc4e786da9b0e70269f633451e9f07",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:43:50.947832+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "二重保持・反転酵素内の共有結合性中間体を介したヘキソシル転移",
+    "abstract_ja": "二機能性グリコシル転移酵素は、細菌の莢膜抗原を含む必須糖鎖や、真核生物のグリコサミノグリカンの生合成を支えている。通常、これらの酵素は活性化されたヌクレオチド-リン酸供与体から六炭糖を転移させ、アノマー立体化学の保持または反転を伴う新たなグリコシド結合を形成する。ヘキソシル転移の保持は通常、非共有結合性のS N i 型経路を介して進行するが、近年のオクツロシルKdo転移酵素に関する研究により、共有結合機構をめぐる議論が再燃している。本研究では、代表的な二機能性グリコシル転移酵素であるPmHS2の活性を包括的に解析し、リガンド複合体のX線構造と原子レベルのシミュレーションを提示することで、基質から生成物に至る完全な反応経路を明らかにした。計算科学的、生化学的、および進化論的な証拠を総合すると、PmHS2によるGlcNAc-転移の保持は、脱離するヌクレオチド-リン酸の回転による多大な補助を伴う、これまで報告されていなかった共有結合機構を介して進行する可能性が高いことが示唆される。反応経路のマッピングにおいて、我々はまた、グリコシル供与体基質がアクセプターとして共役した初の例を報告しており、これにより重合のための酵素的自己プライミングが可能となる。これらの新たな共有結合および自己プライミング機能は、多糖類生合成を調節または阻害するための未開拓の経路を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760489",
+    "title": "Molecular mechanism of albicidin-dependent transcription activation by the antibiotic resistance factor AlbA",
+    "abstract": "The escalating spread of antimicrobial resistance demands antibiotics with novel mechanisms of action. Albicidin is a potent DNA gyrase inhibitor produced by  Xanthomonas species, and bacteria counter its activity through resistance mechanisms including the albicidin-sequestering protein AlbA from  Klebsiella oxytoca . AlbA is a MerR family transcription activator that binds albicidin and stimulates expression of the  albA gene, but how ligand recognition is coupled to transcription activation has remained unclear. Here, we use cryogenic electron microscopy and complementary biochemical assays to define the mechanism of AlbA-dependent transcription activation. Structures of transcription complexes reveal that AlbA remodels the promoter, repositioning the −35 element for productive σ  70 recognition and RNA polymerase engagement. Albicidin does not measurably alter AlbA’s DNA affinity or the architecture of the mature open complex. Instead, transcription kinetics and experiments bypassing promoter opening indicate that albicidin selectively facilitates a promoter opening-dependent transition. AlbA is released upon synthesis of approximately five nucleotides, concomitant with downstream DNA melting, bubble translocation and upstream DNA rewinding rather than DNA scrunching. Together, these findings establish a sequential mechanism in which AlbA remodels promoter architecture, while albicidin tunes the kinetic transition to promoter opening, linking antibiotic recognition to induction of its sequestration machinery.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760489",
+    "date": "2026-10-21",
+    "authors": "Helmer CP, Hilal T, Said N, Boyakova Y, Eulberg T, Schnoor SB, Bodescu M, Mainz A, Milles S, Loll B, Süssmuth RD, Wahl MC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347264",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2752,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.20.760489"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e8a46836f2eba9862674c1ca2f271c8c6a3b6393eabcc18ffb96a7b602bc742f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:43:50.947832+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7c9c3b85b5df7a43d58dc19c8dc42f8f9164e64997808fc87c08e8c6d5379e95",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:43:50.947832+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗生物質耐性因子AlbAによるアルビシジン依存性転写活性化の分子機構",
+    "abstract_ja": "薬剤耐性の拡大に伴い、新規作用機序を有する抗生物質が求められている。アルビシジンはキサントモナス属菌が産生する強力なDNAジャイレース阻害剤であり、細菌はKlebsiella oxytoca由来のアルビシジン隔離タンパク質AlbAを含む耐性機構によってその活性に対抗する。AlbAはMerRファミリーの転写活性化因子であり、アルビシジンと結合してAlbA遺伝子の発現を促進するが、リガンド認識がいかにして転写活性化に連動しているかは不明なままであった。本研究では、極低温電子顕微鏡法と相補的な生化学的アッセイを用いて、AlbA依存的な転写活性化の機構を解明した。転写複合体の構造解析により、AlbAがプロモーターをリモデリングし、−35エレメントを生産的なσ 70認識およびRNAポリメラーゼの結合に向けて再配置することが明らかになった。アルビシジンは、AlbAのDNA親和性や成熟したオープン複合体の構造を定量的に変化させない。むしろ、転写速度論およびプロモーター開裂を回避した実験結果は、アルビシジンがプロモーター開裂依存的な遷移を選択的に促進することを示している。AlbAは約5個のヌクレオチドの合成に伴い、DNAスクランチングではなく、下流のDNA融解、バブル転位、および上流のDNA巻き戻しと同時に放出される。以上の知見を総合すると、AlbAがプロモーター構造をリモデリングする一方で、アルビシジンがプロモーター開裂への速度論的遷移を調節するという逐次的な機構が確立され、抗生物質の認識がその隔離機構の誘導に結びついていることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760630",
+    "title": "Sodium nitrophenolates as a potential tool for the management of grapevine trunk diseases",
+    "abstract": "Fungal trunk diseases represent a major constraint on the production of grapevine and other perennial crops, while effective curative control methods remain limited. This study evaluated the antifungal and defence-modulating effects of the sodium nitrophenolate based product Atonik® against selected fungi associated with trunk diseases.  In vitro efficacy was tested against ten fungal pathogens, and its effect against  Eutypa lata was further evaluated in grapevine under  in planta conditions. Atonik® inhibited mycelial growth in a pathogen and concentration dependent manner, with the strongest effects at the highest tested concentration observed against  Cadophora luteo-olivacea ,  E. lata , and  Phaeoacremonium minimum . In grapevine,  E. lata caused a mean lesion length of 48.38 mm, whereas Atonik® treatment reduced it to 12.29 mm. Absolute qPCR indicated higher  VvSOD transcript abundance in treated plants. RNA-seq analysis identified 168 genes associated with infection and 43 genes associated with treatment. The results suggest that sodium nitrophenolates may reduce wood necrosis caused by  E. lata through a combination of direct antifungal activity and modulation of grapevine defence responses.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760630",
+    "date": "2026-10-21",
+    "authors": "Čechová J, Štůsková K, Přinosilová P, Holcová L, Homolová D, Špetík M, Babuška P, Dvořák O, Eichmeier A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347252",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2753,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760630"
+    ],
+    "translation": {
+      "title": {
+        "hash": "48804b2a4abb432b88e69a09d52a87190b8ab2e9b07bbc0a548fe66a8c0b0910",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:43:50.947832+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6331af514d0759801fc5e3452680d8c38807996b31f2873ef649391fe6456067",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:43:50.947832+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブドウ樹幹病管理の有力な手段となりうるニトロフェノール酸ナトリウム",
+    "abstract_ja": "菌類による幹病は、ブドウやその他の多年生作物の生産における大きな制約となっており、効果的な治療的防除法は依然として限られている。本研究では、幹病に関連する選定された菌類に対し、ニトロフェノール酸ナトリウム系製剤Atonik®の抗真菌作用および防御応答調節作用を評価した。in vitroで10種類の真菌病原体に対する有効性を検証し、さらにin planta条件下でブドウにおけるEutypa lataに対する効果を評価した。Atonik®は病原体の菌糸成長を濃度依存的に抑制し、試験した最高濃度においてCadophora luteo-olivacea、E. lata、およびPhaeoacremonium minimumに対して最も強い効果が認められた。ブドウにおいて、E. lataによる平均病斑長は48.38 mmであったが、Atonik®処理により12.29 mmまで短縮された。絶対qPCRにより、処理植物ではVvSOD転写産物の存在量が高いことが示された。RNA-seq解析により、感染に関連する168個の遺伝子および処理に関連する43個の遺伝子が同定された。これらの結果は、ニトロフェノール酸ナトリウムが、直接的な抗真菌活性とブドウの防御応答調節の組み合わせにより、E. lataによる木材壊死を軽減させる可能性を示唆している。"
   }
 ]
