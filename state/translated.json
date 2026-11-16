@@ -266336,5 +266336,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "生細胞・単分子イメージングによるSARS-CoV-2 Nsp1によるmRNAサイレンシングの二面性の解明",
     "abstract_ja": "SARS-CoV-2非構造タンパク質1（Nsp1）は、リボソームに結合することで宿主の転写産物を強力にサイレンシングする保存されたウイルス因子である。しかし、個々のmRNAレベルでどのように作用するのかは依然として不明であり、Nsp1が翻訳開始を阻害するのか、リボソームの伸長を停止させるのか、mRNAを切断するのか、あるいはそのすべてを行うのかについて、相反するモデルが提唱されている。本研究では、新生鎖追跡法（Nscent Chain Tracking）を用い、生細胞内でNsp1が単分子分解能でどのようにmRNA量と翻訳動態を変化させるかを定量化した。UTR構造、開始モード、およびオープンリーディングフレーム長が異なるレポーター転写産物を用いた結果、Nsp1は開始を阻害するのではなく、主に転写産物の数を減少させることでサイレンシングしていることが明らかとなった。Nsp1介在性のmRNA喪失には2つの経路が同定され、いずれもキャップ依存的な開始を必要とする。一つは開始中または開始直後に作用する早期経路であり、もう一つはZNF598に部分的に依存する下流の翻訳に関連する後期経路である。これら2つのメカニズムが相まって、Nsp1は宿主遺伝子発現の効率的かつ強固な抑制因子として機能する。さらに、SARS-CoV-2のUTRを含むレポーターは依然としてNsp1介在性のmRNA喪失の影響を受けやすいが、5'および3' UTRが協調して翻訳出力を増加させることがわかった。ウイルスUTR単独では宿主レポーターを超える翻訳増加は見られなかったが、両UTRを組み合わせると、Nsp1が存在しない条件下で翻訳が著しく亢進した。以上の結果から、Nsp1は2つのキャップ依存的な経路を用いて翻訳サイクル全体にわたるmRNA喪失を促進する一方で、SARS-CoV-2のUTRはNsp1からの強固な保護ではなく、協調的な翻訳上の優位性をもたらしていることが明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760983",
+    "title": "Investigating the evolutionary plasticity of influenza virus splicing using influenza A virus segment 7 as a model system",
+    "abstract": "Influenza viruses A, C and D (IAV, ICV, IDV respectively) utilise mRNA splicing to produce two proteins from their matrix gene segment; the matrix (M1) protein and an ion channel (M2). In IAV, the M1 and M2 open reading frames (ORFs) partially overlap and splice donor (SD) and splice acceptor (SA) sites in the M1 gene are used to produce an M2 polypeptide with an N-terminal sequence shared with M1. In ICV and IDV, the M1 and M2 ORFs are concatenated and splice sites downstream of the M1 coding region are used to produce a matrix protein from the spliced mRNA. To probe how these different splicing strategies might have evolved, we used reverse genetics to test the ‘evolutionary’ flexibility of IAV SD and SA sites. We found that relatively small numbers of mutations were sufficient to activate a variety of alternative SD and SA sites in a mini-replicon system, several of which led to the production of ion channel isoforms with variant ectodomains, as well as one that produced an M1 variant. Furthermore, several of the viruses with altered splicing patterns were viable, including five with both SD and SA sites changed. Three of these ‘rewired’ viruses had only modest fitness penalties, despite up to 3 nonsynonymous changes in M1 and a 34 amino acid insertion in M2. These results suggest that IAV segment 7 splicing strategies are evolutionarily flexible and have implications for how IAV, ICV and IDV matrix segments might have diversified from a common ancestor.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760983",
+    "date": "2026-10-23",
+    "authors": "Zhou S, Sharp CP, Gaunt ER, Pinto RM, Digard P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349614",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3690,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.22.760983"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8a98802650587d01a7f97a188271719f036741efcc104cdd337380bc32882e1d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:39:10.549407+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2d46e7a3992bded2d658de3a33c86604193cae15f9f6016ccf337c42ef88a138",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:39:10.549407+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "A型インフルエンザウイルスセグメント7をモデル系としたインフルエンザウイルススプライシングの進化的可塑性の解明",
+    "abstract_ja": "インフルエンザウイルスA、CおよびD（それぞれIAV、ICV、IDV）は、mRNAスプライシングを利用して、マトリックス遺伝子セグメントから2種類のタンパク質、すなわちマトリックス（M1）タンパク質とイオンチャネル（M2）タンパク質を産生する。IAVでは、M1およびM2のオープンリーディングフレーム（ORF）が部分的に重複しており、M1遺伝子内のドナー（SD）およびアクセプター（SA）部位がスプライシングされることで、M1と共通のN末端配列を持つM2ポリペプチドが産生される。ICVおよびIDVでは、M1およびM2のORFが連結され、M1コーディング領域の下流にあるスプライシング部位が、スプライシングされたmRNAからマトリックスタンパク質を産生するために利用される。これらの異なるスプライシング戦略がどのように進化してきたかを探るため、我々はリバースジェネティクスを用いて、IAVのSDおよびSA部位の「進化的」柔軟性を検証した。その結果、ミニレプリコン系において、比較的少数の変異で多様な代替SDおよびSA部位を活性化させることができ、そのうちのいくつかは変異型エクトドメインを持つイオンチャネルアイソフォームの産生につながり、また1つはM1変異体を産生することが判明した。さらに、スプライシングパターンが変化したウイルスのいくつかは生存可能であり、その中には、SDおよびSA部位の両方が変化した5つのウイルスが含まれていた。これら「リワイヤード（rewired）」されたウイルスのうち3つは、M1に最大3箇所の非同義置換があり、M2に34アミノ酸の挿入があったにもかかわらず、適応度の低下はわずかであった。これらの結果は、IAVセグメント7のスプライシング戦略が進化的に柔軟であり、IAV、ICVおよびIDVのマトリックスセグメントが共通祖先からどのように多様化したかについて示唆を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760927",
+    "title": "Pat1 globally activates deadenylation-dependent decapping to clear inefficiently translated oligo(A)-tailed transcripts",
+    "abstract": "In eukaryotes, mRNA turnover occurs mainly through the 5’ - 3’ mRNA decay pathway and involves deadenylation, decapping, and exonucleolytic mRNA body digestion. While the conserved protein Pat1 has initially been described as an activator of decapping for some deadenylated mRNAs, the role of deadenylation-dependent decapping has recently been questioned. Hence, Pat1 has alternatively been suggested to regulate specific mRNA decay pathways, given its modest impact on overall transcriptome composition. Here, we combine multi-omic and genetic approaches to characterize a  PAT1 deletion mutant in  Saccharomyces cerevisiae . Although transcriptome and proteome analyses confirm that only a limited subset of genes is affected by Pat1 inactivation, poly(A)-tail sizing demonstrates that Pat1 loss leads to transcriptome-wide accumulation of capped oligo(A)-tailed mRNAs. Together with the observation that oligo(A)-tailed mRNAs are bound by Pat1  in vivo in wild-type cells, this indicates that Pat1 is a general activator of deadenylation-dependent decapping. We further show that oligo-adenylated mRNAs are translated in  Δpat1 cells, albeit inefficiently. Altogether, our data indicate that Pat1 mediates the clearance of oligo(A)-tailed mRNAs protecting cells from the ensuing inefficient translation, without inducing major changes in overall transcript distribution.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760927",
+    "date": "2026-10-23",
+    "authors": "Labeauvie L, Peter J, Zuber H, Séraphin B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349125",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3698,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.22.760927"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d6ea37ec8eaf753e05c11c1260c9d6bb858a66e3091e556e928e54f627df15cf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:39:10.549407+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ac1905efe8957d3669048cc3934cefee8d3d8c8a8ee8622beeb0e3b6b280cf9c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:39:10.549407+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pat1は世界的に、翻訳効率の低いオリゴ(A)末端転写産物を除去するため、脱アデニル化依存的なデキャッピングを活性化する。",
+    "abstract_ja": "真核生物において、mRNAのターンオーバーは主に5’-3’ mRNA分解経路を介して起こり、デッドエニル化、脱キャップ化、およびエキソヌクレオライト型mRNAボディの分解を伴う。保存タンパク質であるPat1は、当初、一部のデッドエニル化mRNAに対する脱キャップ化の活性化因子として報告されていたが、近年、デッドエニル化依存的な脱キャップ化の役割に疑問が呈されている。そのため、トランスクリプトーム全体の組成への影響が限定的であることから、Pat1は代わりに特定のmRNA分解経路を調節している可能性が示唆されている。本研究では、マルチオミクスおよび遺伝学的アプローチを組み合わせて、Saccharomyces cerevisiaeにおけるPAT1欠失変異体を特性解析した。トランスクリプトームおよびプロテオーム解析により、Pat1の不活性化の影響を受ける遺伝子は限定的なサブセットであることが確認されたが、ポリ(A)テールのサイズ解析から、Pat1の欠損がトランスクリプトーム全域にわたるキャップ付きオリゴ(A)テールmRNAの蓄積を引き起こすことが明らかになった。野生型細胞のin vivoにおいてオリゴ(A)テールmRNAがPat1によって結合しているという観察結果と併せると、これはPat1がデッドエニル化依存的な脱キャップ化の全般的な活性化因子であることを示している。さらに、Δpat1細胞においてオリゴアデニル化mRNAが翻訳されるものの、その効率は低いことを示した。以上の結果を総合すると、我々のデータは、Pat1がオリゴ(A)テールmRNAの除去を媒介することで、全体的な転写分布に大きな変化をもたらすことなく、それに続く非効率な翻訳から細胞を保護していることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11252971/v1",
+    "title": "Polysaccharide from Phormidium persicinum (Reinke) Gom. promotes neuronal differentiation and mitigates hypoxia-induced neuronal disruptions in vitro",
+    "abstract": "Abstract    Hypoxia is an important pathogenic factor affecting cellular metabolism and neurogenesis in neurological disorders. Neuronal stem cells (NSCs) are particularly sensitive to oxygen deprivation because they depend on tightly regulated metabolic programs during differentiation. Microalgal polysaccharides have recently gained interest due to their cytoprotective, anti-inflammatory, and antioxidant properties, but their potential to prevent hypoxia-induced metabolic stress in neural lineage commitment is poorly understood. Therefore, the present study evaluates the potential of crude polysaccharide derived from an indigenous marine microalga to attenuate metabolic perturbations in differentiating NSCs exposed to chemical hypoxia. The crude polysaccharide was extracted from  Phormidium persicinum  (Reinke) Gom. and characterized for its biochemical components. The compositional analysis revealed the presence of 24.35% sulphate, 16.69% carbohydrates, 12.66% uronic acids, and 3.77% protein along with monosaccharides like rhamnose, xylose, galactose, and fucose. Also, the impact of polysaccharide on the outcomes of neuronal differentiation was investigated  in vitro  on human neuronal stem cells (SH-SY5Y) under cobalt chloride induced hypoxia stress. The treatment with polysaccharide at a concentration of 50 µg mL  − 1  supplemented with retinoic acid in the ratio of 80:20 induced a sustained formation of neurite outgrowth accompanied by metabolic stabilizations after differentiation. Furthermore, treatment with polysaccharide under hypoxic conditions promotes a more favourable metabolic profile, as reported by optimal levels of dopamine, epinephrine, serotonin, acetylcholinesterase, and adenosine triphosphatase. The study underscores the promising nature of novel algal polysaccharide for the treatment of neurodegenerative disorders and suggests further investigations to purify and pinpoint its bioactive components.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11252971/v1",
+    "date": "2026-10-23",
+    "authors": "Satpute S, Nadar T, Kannaujiya K, Bagwe A, Deodhar M, Sharma B.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348816",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microalgal"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3700,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-11252971/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "98daf5e7d89ca1ea882f7f6a49ec27b92e007ad3a1875c876456dc821c0c6d2b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:39:10.549407+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9181f2615890281a3eb203750adbcd56e96b5bbe895c51eb98baa549cc6e0a2f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:39:10.549407+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Phormidium persicinum (Reinke) Gom. 由来の多糖類は、in vitroにおいて神経分化を促進し、低酸素誘発性の神経障害を軽減する。",
+    "abstract_ja": "要旨    低酸素症は、神経疾患における細胞代謝および神経新生に影響を及ぼす重要な病原因子である。神経幹細胞（NSC）は、分化過程において厳密に制御された代謝プログラムに依存しているため、酸素欠乏に対して特に感受性が高い。微細藻類多糖類は、その細胞保護作用、抗炎症作用、および抗酸化作用により近年注目を集めているが、神経系譜のコミットメントにおける低酸素誘発性代謝ストレスの予防に関する可能性については十分に解明されていない。したがって、本研究では、化学的低酸素曝露を受けた分化過程にあるNSCにおける代謝摂動を軽減させる、在来海洋微細藻類由来の粗多糖類の可能性を評価する。粗多糖類をPhormidium persicinum (Reinke) Gom.から抽出し、その生化学的成分を特性評価した。組成分析の結果、硫酸塩24.35%、炭水化物16.69%、ウロン酸12.66%、タンパク質3.77%に加え、ラムノース、キシロース、ガラクトース、フコースなどの単糖類の存在が明らかになった。また、塩化コバルト誘発性低酸素ストレス下において、ヒト神経幹細胞（SH-SY5Y）を用い、多糖類が神経分化の結果に及ぼす影響をin vitroで検討した。50 µg mL⁻¹濃度の多糖類にレチノイン酸を80:20の比率で添加した処理により、分化後の代謝安定化を伴う神経突起伸長の持続的な形成が誘導された。さらに、低酸素条件下での多糖類処理は、ドーパミン、エピネフリン、セロトニン、アセチルコリンエステラーゼ、およびアデノシン三リン酸加水分解酵素の最適レベルが報告されていることから、より好ましい代謝プロファイルを促進する。本研究は、神経変性疾患の治療における新規藻類多糖類の有望性を強調するものであり、その生物活性成分の精製および同定に向けたさらなる研究を示唆するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.26366070",
+    "title": "EpiSignaLR: an open resource for genome-wide episignature analysis from methylation-aware short- and long-read sequencing",
+    "abstract": "ABSTRACT  Background  Episignatures, disorder-specific patterns of genome-wide DNA methylation, are established for more than 100 Mendelian conditions and help resolve variants of uncertain significance and evaluate unsolved cases. Current clinical testing approaches typically use data generated by methylation arrays, which require a specific assay and limit discovery to the probe set of the array. Long-read and Illumina 5-base genome sequencing measure CpG methylation alongside genetic variation, raising the possibility of folding episignature analysis into a single genome-wide test. Methods  We sequenced individuals with  SETD1B -related neurodevelopmental disorder, Kabuki syndrome, or Kleefstra syndrome, along with controls, using Oxford Nanopore Technologies (ONT), PacBio HiFi, or Illumina 5-base whole-genome sequencing. We identified differentially methylated regions (DMRs) directly from ONT methylation data and built classifiers using a nested cross-validation framework.  Results  We identified 143 DMRs for  SETD1B -related neurodevelopmental disorder (  SETD1B -NDD), 20 for Kabuki syndrome, and 23 for Kleefstra syndrome; 15 to 26% of the DMRs across the three signatures contained no array probe(s). Cross-validated classifiers ranked every case above every control for all three conditions, and the final classifiers called all but one held-out case correctly, with the remaining case, which carries a  KMT2D missense variant, as indeterminate. At two outside sites, the classifier for  SETD1B -NDD correctly categorized seven out of seven cases. Principal component analysis reveals most PacBio and Illumina 5-base genomes cluster with ONT genomes from the same condition. One PacBio control fell between the other controls and the Kabuki cases, whereas the ONT and 5-base genomes for the same individual grouped with controls, suggesting platform-specific methylation differences that the current training cohort is too small to fully account for.  Conclusions  Episignatures can be derived directly from sequencing data and applied across platforms. EpiSignaLR is an open workflow that combines the three ONT-derived classifiers with 34 published array-derived signatures. Developing robust sequencing-derived episignatures will require larger cohorts per condition and openly shared, platform-matched methylation data.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.26366070",
+    "date": "2026-10-23",
+    "authors": "Gibson SB, Zalusky MP, Goffena J, Hamlin EJ, Lamb R, Rosinski JR, Prall T, Anderson ZB, Storz SH, Miller AL, Shi Y, Lanko K, Mulder D, Shen Y, Lensing K, Elferink MG, Vergano S, Wojcik MH, van Gassen KL, Gibson WT, Jones SJ, Barakat TS, Miller DE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349170",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "resource",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3909,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.21.26366070"
+    ],
+    "translation": {
+      "title": {
+        "hash": "64f566aa3316976f86fc4b62348d7822d6269a049307b1f8ac1e37038ff5f4b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:39:10.549407+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3d263dfe0abfa15e9a0bf2a2514370e99fb2e890c2cd2c6d0bf00f534a2079b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:39:10.549407+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "EpiSignaLR: メチル化を考慮したショートリードおよびロングリードシーケンシングによるゲノムワイドなエピシグネチャ解析のためのオープンリソース",
+    "abstract_ja": "要旨  背景  ゲノムワイドなDNAメチル化の疾患特異的なパターンであるエピシグネチャは、100以上のメンデル遺伝性疾患において確立されており、意義不明の変異の解明や未解決症例の評価に寄与している。現在の臨床検査手法では通常、メチル化アレイによって生成されたデータが用いられているが、これには特定のアッセイが必要であり、発見の範囲がアレイのプローブセットに限定される。ロングリードおよびIllumina 5-baseゲノムシーケンシングは、遺伝的変異とともにCpGメチル化を測定するため、エピシグネチャ解析を単一のゲノムワイド検査に統合できる可能性がある。方法  SETD1B関連神経発達障害、歌舞伎症候群、またはクレフストラ症候群の患者および対照群を対象に、Oxford Nanopore Technologies (ONT)、PacBio HiFi、またはIllumina 5-base全ゲノムシーケンシングを用いてシーケンシングを行った。ONTのメチル化データから直接差次的メチル化領域（DMR）を同定し、入れ子型交差検証フレームワークを用いて分類器を構築した。結果  SETD1B関連神経発達障害（SETD1B-NDD）で143箇所、歌舞伎症候群で20箇所、クレフストラ症候群で23箇所のDMRを同定した。3つのシグネチャー全体のDMRの15～26%において、アレイプローブが検出されなかった。交差検証済みの分類器は、3つの疾患すべてにおいてすべての症例をすべての対照群より上位にランク付けし、最終的に分類器は1例を除くすべてのアウトオブセット症例を正しく判定した。KMT2Dミスセンス変異を有する残りの1例は判定不能となった。2つの外部施設において、SETD1B-NDDの分類器は7例すべてを正しく分類した。主成分分析の結果、ほとんどのPacBioおよびIllumina 5-baseゲノムは、同一疾患のONTゲノムとクラスターを形成することが明らかになった。PacBioの対照群1例が他の対照群と歌舞伎症候群症例の間に位置した一方、同一個人のONTおよび5-baseゲノムは対照群とグループ化した。これは、現在のトレーニングコホートでは十分に説明しきれない、プラットフォーム固有のメチル化の差異があることを示唆している。結論  エピシグネチャはシーケンシングデータから直接導出でき、プラットフォームを横断して適用可能である。EpiSignaLRは、3つのONT由来分類器と、公表されている34のアレイ由来シグネチャーを組み合わせたオープンワークフローである。堅牢なシーケンシング由来エピシグネチャを開発するには、疾患ごとのより大規模なコホートと、オープンに共有されたプラットフォーム整合済みのメチル化データが必要となる。"
   }
 ]
