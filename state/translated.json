@@ -261786,5 +261786,346 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "RNAの配列構造が明かす、RNA相分離を駆動する重要な分子シグネチャー",
     "abstract_ja": "生体分子凝縮体は、液-液相分離（LLPS）を通じて様々な細胞内プロセスを組織化する、動的な膜のない集合体である。RNAは生体分子凝縮体の能動的な調節因子であり、配列符号化特徴を通じてその形成に影響を及ぼす。凝縮体形成における役割は確立されているものの、LLPS関連RNAを予測するための基礎となるシグネチャーを同定する計算フレームワークは存在しない。本研究では、レビュー済みで実験的に裏付けられたLLPS関連RNAを背景RNAから区別するための、解釈可能なハイブリッドフレームワークを開発した。我々は、凝縮体への関与に関連する生物学的に意義のある配列特性を明らかにした。各RNAは、組成、k-merの利用、配列の複雑性、リピート構造、およびジヌクレオチド自己相関を捉える167個の手作業で設計された記述子と、RNA-FMによる640次元のコンテキスト埋め込みによって表現される。これらの表現は、ニューラルネットワークメタ学習器を用いた交差検証済みスタッキングを通じて統合される。本フレームワークは、AUC-ROC 0.935、AUC-PR 0.944、およびMCC 0.782を達成した。特徴量統計、アブレーション解析、およびSHAPによる解釈から、局所的なk-mer利用の変化が支配的な分散型配列アーキテクチャが明らかになり、さらに低複雑性の負荷、リピート関連構造、および長距離ジヌクレオチドパターンが寄与していることが示された。MALAT1およびTMPO-AS1を含む生物学的ケーススタディにより、これらのパターンが実験的に特性解析された多価RNA-タンパク質集合様式とさらに結び付けられた。以上の結果は、解釈可能な機械学習が単なる予測を超え、RNA介在性凝縮の機構的仮説を導き出す配列特徴を同定できることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760264",
+    "title": "biHash: bisulfite-aware recursive nucleotide hashing",
+    "abstract": "Bisulfite sequencing (BS-seq) measures cytosine methylation on the DNA at single-base resolution, but converts unmethylated cytosines to thymines, disrupting conventional strand complementarity and reducing sequence complexity. These pose a fundamental challenge to efficient sequence comparison and indexing tasks. Although  k -mer hashing is foundational to bioinformatics for enabling such high-throughput operations, generic algorithms for string hashing are poorly equipped to handle the reduced-complexity alphabet and sequence ambiguity created by this conversion. We therefore require fast  k - mer hashing that directly recognizes bisulfite-compatible sequence states. Here, we present biHash, a rolling hash algorithm tailored for bisulfite-sequenced data. Using context- specific dinucleotide encodings, biHash maps designated bisulfite-compatible sequence variants to the same hash value while retaining context-specific specificity. When hashing adjacent  k -mers, biHash performs ∼13 times faster than generic string hashing algorithms.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760264",
+    "date": "2026-10-24",
+    "authors": "Wong J, Birol I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349432",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4661,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.19.760264"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f8f2cd2b9741ae8ba4efaaba0b3a41efc042936e33297b19d410ac9e8e863e88",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:19:10.029050+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cd9c4a1e40057925fb567fc2813036a7c7a8b986277c79529d26f02e909cca6a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:19:10.029050+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "biHash: 亜硫酸塩を考慮した再帰的ヌクレオチドハッシング",
+    "abstract_ja": "亜硫酸塩シーケンシング（BS-seq）は、DNA上のシトシンメチル化を単一塩基分解能で測定するが、未メチル化のシトシンをチミンに変換するため、従来の鎖相補性が損なわれ、配列の複雑性が低下する。これは、効率的な配列比較およびインデックス作成タスクにおいて根本的な課題となる。k-merハッシングは、こうしたハイスループット操作を可能にするバイオインフォマティクスの基盤であるが、汎用的な文字列ハッシングアルゴリズムでは、この変換によって生じる複雑性の低下したアルファベットや配列の曖昧性に十分に対応できない。したがって、亜硫酸塩互換の配列状態を直接認識できる高速なk-merハッシングが求められる。本研究では、亜硫酸塩シーケンシングデータに特化したローリングハッシュアルゴリズムであるbiHashを提案する。コンテキスト特異的なジヌクレオチド符号化を用いることで、biHashはコンテキスト特異性を維持しつつ、指定された亜硫酸塩互換の配列バリアントを同一のハッシュ値にマッピングする。隣接するk-merをハッシュ化する際、biHashは汎用的な文字列ハッシングアルゴリズムよりも約13倍高速に動作する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760918",
+    "title": "Data mining of global sequence datasets markedly expands known diversity within the Tobamovirus genus",
+    "abstract": "High-throughput sequencing has transformed RNA virus discovery, producing vast datasets that often contain unexplored sequences of known and novel viruses across diverse sample types. Large-scale reconstruction of viral genomes within specific taxonomic groups remains a lengthy, labor-intensive process constrained by fragmented assemblies, heterogeneous workflows, and the limitations of percent identity cut-offs for taxonomic placement. Here, we focused on  Tobamovirus (family  Virgaviridae ), a genus that contains important emerging plant pathogens. Tobamoviruses are detectable in diverse environmental matrices and are thus expected to be present across a range of datasets. We mined global short-read datasets to uncover hidden tobamovirus diversity, combining expert curation with supervised machine learning to streamline the discovery of novel tobamoviruses. Using the Serratus PalmID tool, we first identified 253 candidate datasets that are most likely to contain novel tobamoviruses. We developed a reproducible Snakemake pipeline for quality control, de novo assembly, similarity searches, and preliminary taxonomic assignment, yielding 510 candidate tobamovirus contigs across 131 datasets. Following manual curation, we confirmed 228 tobamoviral contigs from 23 datasets based on BLAST similarity searches, coding sequence content, genome organization, and assessment of potential misassemblies. To expedite the curation process, we built a two-stage machine learning classifier of tobamoviral contigs. Based on alignment-derived features and sequence properties, each ORF is first scored to determine whether it is tobamoviral. ORF-level predictions are then merged into contig-level classification using stacked generalization. Through clustering and phylogenetic analyses, we identified at least 32 putative novel tobamoviruses in datasets derived from freshwater, wastewater, plants, animal gut, and soil. Most were placed within established  Tobamovirus subclades, whereas a few highly divergent sequences formed distinct basal branches related to recently identified soil-associated sequences classified as  Virgaviridae sp. These findings highlight the value of aquatic and wastewater systems for expanding our understanding of tobamoviral diversity and demonstrate how data mining and targeted curation can substantially expand recognized diversity within the genus. The workflow is readily adaptable to other viral taxa and supports continuous discovery as public datasets grow.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760918",
+    "date": "2026-10-23",
+    "authors": "Arambašič NP, Bačnik K, Kranjc L, Vogrinec L, Curk T, Kutnjak D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350457",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "freshwater"
+        ],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 78,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.760918"
+    ],
+    "translation": {
+      "title": {
+        "hash": "55673b9563b24d59f33498368909c136191e7ea6def0ce844813edc9f16b8122",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:19:10.029050+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "696751f897335d1c67076414fb72eafb7b78944792360e1c3c2eb402a94c37d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:19:10.029050+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "世界的な配列データセットのデータマイニングにより、トバモウイルス属における既知の多様性が著しく拡大した。",
+    "abstract_ja": "ハイスループットシーケンシングはRNAウイルスの発見に革命をもたらし、多様なサンプルタイプにわたる既知および新規ウイルスの未探索配列を含む膨大なデータセットを生み出してきた。特定の分類群におけるウイルスゲノムの大規模な再構築は、断片化したアセンブリ、不均一なワークフロー、および分類学的配置におけるパーセント同一性カットオフの制限により、依然として時間と労力を要するプロセスとなっている。本研究では、重要な新興植物病原体を含む属であるトバモウイルス（Virgaviridae科）に着目した。トバモウイルスは多様な環境マトリックスで検出可能であり、したがって幅広いデータセットに存在することが予想される。我々は、専門家によるキュレーションと教師あり機械学習を組み合わせて新規トバモウイルスの発見を効率化し、グローバルなショートリードデータセットをマイニングして、潜在的なトバモウイルスの多様性を明らかにした。Serratus PalmIDツールを用いて、まず新規トバモウイルスを含有する可能性が最も高い253の候補データセットを特定した。品質管理、de novoアセンブリ、類似性検索、および予備的な分類学的割り当てのための再現可能なSnakemakeパイプラインを開発し、131のデータセットから510の候補トバモウイルスコンティグを得た。手動キュレーションの後、BLAST類似性検索、コーディング配列の内容、ゲノム構成、および潜在的な誤アセンブリの評価に基づき、23のデータセットから228のトバモウイルスコンティグを確認した。キュレーションプロセスを迅速化するため、トバモウイルスコンティグの2段階機械学習分類器を構築した。アライメント由来の特徴量と配列特性に基づき、まず各ORFをスコアリングしてトバモウイルスであるか否かを判定する。その後、ORFレベルの予測をスタック一般化を用いてコンティグレベルの分類に統合した。クラスタリングおよび系統解析を通じて、淡水、廃水、植物、動物腸管、および土壌由来のデータセットから、少なくとも32の推定新規トバモウイルスを同定した。その大部分は確立されたトバモウイルス亜系統に配置されたが、少数の高度に分岐した配列は、Virgaviridae sp.に分類される最近同定された土壌関連配列に関連する、明確な基部分岐を形成していた。これらの知見は、トバモウイルスの多様性に関する理解を広げる上で水系および廃水系が有用であることを強調するものであり、データマイニングと標的を絞ったキュレーションが、本属内で認識されている多様性を大幅に拡大できることを示している。このワークフローは他のウイルス分類群にも容易に適応可能であり、公開データセットの増加に伴い継続的な発見を支援する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.1099/acmi.0.001231.v3",
+    "title": "Novel putative PETase candidates from metagenomic mining of Ebrié lagoon and Kassembié lake, Côte d'Ivoire",
+    "abstract": "Plastic pollution threatens aquatic ecosystems in Côte d’Ivoire, yet their microbial potential for polyethylene terephthalate (PET) degradation remains poorly characterized. We applied shotgun metagenomics to five samples from Biétry bay, an urban site in the Ébrié lagoon, and Kassembié lake, a low-impact reference site. MetaPhlAn4 detected 131 site-specific, uncharacterized species-level genome bins, including 76 found only at Biétry. Functional annotation of the non-redundant gene catalogue identified 15,860 hydrolase genes and 195 genes assigned to the CE1 carbohydrate esterase family, used here as a proxy for general ester-cleaving potential. Structural prediction with ColabFold (AlphaFold2) and comparison with IsPETase using TM-align prioritized four novel PETase-like candidates, BietPETase1–4. These findings reveal under-explored microbial and enzymatic diversity in Ivorian aquatic ecosystems and provide candidates for experimental validation in PET-bioremediation research.",
+    "journal": "",
+    "doi": "10.1099/acmi.0.001231.v3",
+    "date": "2026-10-23",
+    "authors": "Anderson HK, Nouho OK, Ines Estelle KA, Olivier YK.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349102",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "lake"
+        ],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 120,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/acmi.0.001231.v3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a27aaed6ea149ce8ca2740437194f9e625dbaa2a255c9c6fdc7afd515cd524fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:19:10.029050+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "87166e7f44de88e4ba1c4fa8dfbbe15020ac6d7eab6867b642a84cce03c16e5d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:19:10.029050+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コートジボワールのエブリエ潟およびカセムビエ湖のメタゲノムマイニングから得られた新規PETase候補",
+    "abstract_ja": "コートジボワールの水圏生態系はプラスチック汚染の脅威にさらされているが、ポリエチレンテレフタレート（PET）分解における微生物の潜在能力については十分に解明されていない。本研究では、エブリエ潟湖の都市地点であるビエトリー湾と、低負荷の参照地点であるカセムビエ湖から採取した5つの試料に対し、ショットガンメタゲノミクスを適用した。MetaPhlAn4により、ビエトリーでのみ検出された76種を含む、131個の部位特異的かつ未解析の種レベルのゲノムビンが検出された。非冗長遺伝子カタログの機能アノテーションにより、15,860個の加水分解酵素遺伝子と、一般的なエステル切断能の代理指標として本研究で用いたCE1糖転移酵素ファミリーに属する195個の遺伝子が同定された。ColabFold（AlphaFold2）による構造予測およびTM-alignを用いたIsPETaseとの比較により、4つの新規PETase様候補であるBietPETase1–4が優先的に同定された。これらの知見は、コートジボワールの水圏生態系における未探索の微生物および酵素多様性を明らかにするとともに、PETバイオレメディエーション研究における実験的検証のための候補を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760931",
+    "title": "Microdiversity drives resilience and niche partitioning in the bloom forming cyanobacteria  Limnospira platensis",
+    "abstract": "The intraspecific evolutionary mechanisms of adaptation in blooming cyanobacteria, particularly those occurring on small spatial and temporal scales, remain poorly understood. Here, we used the unique properties of Lake Dziani Dzaha, which hosts a persistent population of  Limnospira platensis inhabiting distinct macro-habitats, to explore the spatial and temporal dynamics of microevolution. The Lake Dziani Dzaha (Mayotte), very stable at least since 2010, has experienced a seismo-volcanic crisis from May 2018 to November 2019, characterized by CO₂ outgassing that led to the mixing of the initially seasonally stratified water column, as well as changes in numerous physicochemical parameters. Phylogenomic analysis of 108 strains isolated during sampling campaigns in 2010, 2014, 2022, and 2024 revealed a population that remained highly phylogenetically cohesive over time. In 2022, genomic expansion was observed, characterized by an increase in genome size due to the proliferation of insertion sequences and a subsequent loss of adaptive genes. By 2024, a rapid recovery of the 2010-2014 genetic content took place through multiple independent events of horizontal gene transfer. At the spatial scale, although no significant differences in gene content were detected, distinct subpopulations were identified based on allele frequencies. Some alleles were specifically fixed and subject to different selection pressures among the subpopulations, suggesting the existence of distinct ecotypes. Overall, this study highlights the role of microdiversity in rapid resilience of blooming cyanobacteria populations within dynamic environments and in their adaptation through niche partitioning.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760931",
+    "date": "2026-10-23",
+    "authors": "Le Vern A, Duval C, Frère J, Bouly J, Troussellier M, Hugoni M, Agogué H, Jézéquel D, Marie B, Bernard C, Halary S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349601",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria"
+      ],
+      "context": {
+        "marine": [
+          "lake"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 200,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.760931"
+    ],
+    "translation": {
+      "title": {
+        "hash": "24b77c20ab53d655c6b973b2f2dce4cf035eeae959d6e611ebd06ebf9913c6ee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:19:10.029050+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bd5dd4e893d70eb1b2fe881535d9f34840d0dd3b07756d4f86e2eaf8f4356805",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:19:10.029050+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブルーム形成シアノバクテリアLimnospira platensisにおける微小多様性がレジリエンスとニッチ分化を促進する",
+    "abstract_ja": "ブルーム形成シアノバクテリアにおける適応の種内進化メカニズム、特に小規模な空間的・時間的スケールで生じるものについては、依然として十分に解明されていない。本研究では、異なるマクロ生息域に生息するLimnospira platensisの持続的な個体群が存在するジアニ・ザハ湖の特異な特性を利用し、微小進化の空間的・時間的動態を探索した。少なくとも2010年以降極めて安定していたジアニ・ザハ湖（マヨット）は、2018年5月から2019年11月にかけて地震火山危機に見舞われた。この危機は、CO₂のアウトガスによって当初季節的に成層していた水柱が混合したことや、数多くの物理化学的パラメータの変化を特徴としていた。2010年、2014年、2022年、および2024年のサンプリングキャンペーンで分離された108株の系統ゲノム解析により、経時的に系統的に高い結束性を維持する個体群が明らかになった。2022年にはゲノム拡大が観察され、挿入配列の増殖に伴うゲノムサイズの増大と、それに続く適応遺伝子の喪失が特徴であった。2024年までには、水平遺伝子伝達の複数の独立した事象を通じて、2010～2014年の遺伝的内容の急速な回復が起こった。空間スケールでは、遺伝子内容に有意な差異は検出されなかったものの、アレル頻度に基づいて明確な亜集団が同定された。一部のアレルは亜集団間で特異的に固定され、異なる選択圧を受けていたことから、明確な生態型の存在が示唆された。総じて、本研究は、動的な環境におけるブルーム形成シアノバクテリア個体群の迅速な回復力、およびニッチ分化を通じた適応において、微小多様性が果たす役割を浮き彫りにしている。"
   }
 ]
