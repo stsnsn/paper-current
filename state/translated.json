@@ -274757,5 +274757,339 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "アクティブラーニングによる未解析CRISPR-Cas9オルソログのシーケンシング不要のプロトスペーサー隣接モチーフ探索",
     "abstract_ja": "遺伝子編集に不可欠な構成要素であるCas9ヌクレアーゼは、プロトスペーサー隣接モチーフ（PAM）を介して標的DNAを認識し、認識に成功した場合にのみ切断を行う。メタゲノム検索や生成タンパク質モデルは、現在大規模な新規CRISPR-Cas9オルソログの同定を実現しているが、実用化にあたっては、網羅的なin vitroおよび/またはin vivoスクリーニングとそれに続くシーケンシングを必要とする、煩雑でデータ集約的なPAM特性解析工程が障壁となっている。本研究では、最も情報量の多い候補配列を優先する能動学習アルゴリズムに基づき、PAMの探索をわずか数回の反復的な切断アッセイへと簡略化するワークフローを提案する。公開データセット（7つのオルソログ）を用いたベンチマーク評価により、本手法が堅牢な予測性能（Matthews相関係数 ≥ 0.8）を持ち、4ラウンド目までに統計的に有意な収束を示す正準PAMを回収できることが示された。これにより、従来の機械学習に比べて最大20分の1のデータ量で済む。我々は、十分に研究されているオルソログであるSpCas9およびPpCas9を用いてin vitroで本パイプラインを検証し、4〜7回の切断ラウンドを経てNGGおよびNNNNRT PAMを正しく同定した。同様のプロトコルを環境中のAlkalibacillusサンプル由来の未特性解析ヌクレアーゼAlkaCas9に適用したところ、NNGAV PAMを発見し、各位置を順次ランダム化するポジショナルスキャンによってこれを検証した。本アプローチは、探索過程におけるシーケンシングの必要性を排除し、正確なPAMマップを提供する。これにより、ゲノム編集エフェクターの中で最も一般的に用いられるクラスであるCas9の、データマイニングまたは計算設計によるバリアントの実用的利用を制限していたボトルネックを解消する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.32942/x2m11x",
+    "title": "Functional gene content of fungi in a pine needle disease system largely reflects their phylogeny",
+    "abstract": "Background:  Fungi recovered from diseased host tissue can differ substantially in functional gene content, but interpreting that variation requires knowing how it relates to evolutionary history. Results: We assembled and annotated genomes for 67 fungi cultured from pine needles with symptoms of brown spot needle blight and compared them with 13 reference genomes, including established pine pathogens. The isolates spanned four classes of Ascomycota. Functional gene content tracked phylogeny. Taxonomic class explained 21.4% of variation in carbohydrate-active enzyme family composition, and phylogenetic distance correlated with functional dissimilarity in every repertoire examined, most strongly for carbohydrate-active enzymes and least for predicted effectors. Comparisons pooling isolates and references across classes produced apparent lifestyle differences that did not persist within Dothideomycetes. Within that class, the needle pathogens Lecanosticta acicola and Dothistroma septosporum fell at the low end of the isolate distribution for cellulose- and pectin-associated enzyme genes, a reduction that persisted when enzyme families shared among substrate categories were excluded. Their biosynthetic gene cluster counts, secreted enzyme proportions, and predicted effector content fell within the isolate distributions. Conclusions: These comparisons show that the positions of known pathogens depend on the functional repertoire examined and its evolutionary context. Because the ecological roles of the cultured fungi were not determined, their gene content cannot directly establish which contributed to disease. Outside plant cell wall degradation, the needle pathogens were not distinguishable from co-occurring fungi by gene content, and these genomes provide a comparative foundation for testing which fungi contribute to disease, and which functions are expressed during pine colonization.",
+    "journal": "",
+    "doi": "10.32942/x2m11x",
+    "date": "2026-10-21",
+    "authors": "Amorim de Albuquerque Silva G, Folorunso T, Eckhardt L, Willoughby J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347173",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 564,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.32942/x2m11x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8d2fff8557fd4fc6d7e73942a978958d8c7c8c099dee6cb5dd46ca9f9778ed2c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:26:04.940511+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5b2a5d176e7ecb8d6eef0c3f1c9a087605a7ba39b4dab5f8b5167559f7d28f3f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:26:04.940511+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マツ葉病の菌類における機能性遺伝子の構成は、その系統を概ね反映している。",
+    "abstract_ja": "背景：病害宿主組織から回収された真菌は、機能遺伝子の構成が著しく異なる場合があるが、その変異を解釈するには、それが進化史とどのように関連しているかを知る必要がある。結果：褐斑針枯病の症状を呈するマツの針葉から培養した67種の真菌のゲノムをアセンブルおよびアノテーションし、既知のマツ病原菌を含む13種のリファレンスゲノムと比較した。分離株は子嚢菌門の4つの綱にわたっていた。機能遺伝子の構成は系統樹を辿った。分類綱は炭水化物活性酵素ファミリー構成の変異の21.4%を説明し、検討したすべてのレパトアにおいて系統的距離は機能的非類似性と相関しており、特に炭水化物活性酵素で最も強く、予測エフェクターで最も弱かった。綱を横断して分離株とリファレンスを統合して比較したところ、点菌門内では認められない見かけ上の生活様式の差異が認められた。同綱内において、針葉病原菌であるLecanosticta acicolaおよびDothistroma septosporumは、セルロースおよびペクチン関連酵素遺伝子の分離株分布の低端に位置しており、基質カテゴリー間で共有される酵素ファミリーを除外しても、この減少傾向は維持された。それらの生合成遺伝子クラスター数、分泌酵素の割合、および予測エフェクター含有量は、分離株の分布範囲内であった。結論：これらの比較により、既知の病原菌の位置は、検討した機能的レパトアとその進化的背景に依存することが示された。培養した真菌の生態学的役割が特定されていないため、その遺伝子構成からどの真菌が病害に寄与したかを直接的に断定することはできない。植物細胞壁の分解以外では、針葉病原菌は遺伝子構成によって共存する真菌と区別できず、これらのゲノムは、どの真菌が病害に寄与し、マツの定着過程でどの機能が発現するかを検証するための比較基盤となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11178115/v1",
+    "title": "Fine-scale bacterioplankton turnover across a narrow low-salinity estuarine gradient in northern Vietnam",
+    "abstract": "Abstract    Estuarine bacterioplankton communities often vary along broad freshwater-to-marine gradients, whereas community turnover within the low-salinity end of these gradients remains less well resolved. Here, we examined bacterioplankton communities at four stations along a low-salinity estuarine transect in Hai Phong, northern Vietnam, spanning only 0.10–2.53‰ salinity, using 16S rRNA gene amplicon sequencing. Despite this narrow range, community composition changed markedly along the transect. E1 and E2, both at 0.10‰, were the most similar, whereas community dissimilarity increased toward E3 (1.30‰) and E4 (2.53‰). Alpha diversity showed a non-monotonic pattern and peaked at E3. Taxonomic composition also shifted, with  Limnohabitans  ,  Malikia  , and  Vogesella  more prominent at E1–E2, whereas the CL500-29 marine group and  Cyanobium  PCC-6307 increased at E3 and/or E4. Nevertheless, 216 ASVs were detected across all four libraries, indicating that community differentiation occurred within a substantially shared bacterial assemblage. These observations provide evidence of fine-scale bacterioplankton turnover within a compressed low-salinity interval and highlight the potential ecological heterogeneity of the freshwater–oligohaline transition. Given the limited number of stations and single sampling campaign, broader spatial and temporal replication will be required to determine the generality and persistence of this pattern.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11178115/v1",
+    "date": "2026-10-21",
+    "authors": "Thu PT, Hiep LBH, Vigneron² M, Bettarel² Y, Ly DH, Tai¹ PT, Nhan¹ DV, Tuyet³ DTA, Ha¹ TM.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346957",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "bacterioplankton"
+      ],
+      "context": {
+        "marine": [
+          "bacterioplankton",
+          "estuarine",
+          "freshwater",
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 565,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11178115/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "550efd026f8322b423d1b4543f1aedd3125558e9edcf74574a273a10becdf2fe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:26:04.940511+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3aa773f890a2e4e4d86d3db3c85195d8251242019b1bc7ce7bf637c2490f5c2c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:26:04.940511+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ベトナム北部の狭い低塩分河口勾配における微細細菌プランクトンのターンオーバー",
+    "abstract_ja": "要旨    河口域の細菌プランクトン群集は、淡水から海洋に至る広範な勾配に沿って変動することが多いが、こうした勾配の低塩分側における群集のターンオーバーについては、十分に解明されていない。本研究では、ベトナム北部ハイフォンの低塩分河口域トランセクト（塩分濃度範囲はわずか0.10–2.53‰）沿いの4地点において、16S rRNA遺伝子アンプリコンシーケンシングを用いて細菌プランクトン群集を調査した。この狭い範囲にもかかわらず、群集組成はトランセクトに沿って顕著に変化した。ともに0.10‰に位置するE1とE2が最も類似していた一方、E3（1.30‰）およびE4（2.53‰）に向かうにつれて群集の非類似性が増大した。アルファ多様性は非単調なパターンを示し、E3でピークに達した。分類学的組成も変化し、Limnohabitans、Malikia、およびVogesellaはE1–E2でより顕著であったのに対し、CL500-29海洋群およびCyanobium PCC-6307はE3および/またはE4で増加した。それにもかかわらず、4つのライブラリすべてにおいて216のASVが検出され、実質的に共通の細菌アセンブラージュ内で群集の分化が生じていることが示された。これらの観察結果は、圧縮された低塩分区間における微細スケールの細菌プランクトンターンオーバーの証拠となるとともに、淡水から貧塩水への移行における潜在的な生態学的不均一性を浮き彫りにしている。観測地点数が限られており、単一のサンプリングキャンペーンであったため、このパターンの一般性と持続性を解明するには、より広範な空間的・時間的再現が必要となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11147798/v1",
+    "title": "Interactions between Endophytic Fungal Community Succession and Fruit Quality Components in Siraitia grosvenorii at Different Developmental Stages",
+    "abstract": "Abstract    Background  Siraitia grosvenorii  is a medicinal and edible plant species endemic to China. Its fruit quality is regulated jointly by developmental stage, cultivation environment, and symbiotic microorganisms, and endophytic fungi are recognized as key factors influencing the accumulation of bioactive medicinal components. However, how endophytic fungal communities succeed during fruit development and how this succession relates to fruit quality components such as mogroside V and total flavonoids remain poorly understood. Results  Fruits at four developmental stages (young fruit, RG; early expansion, DG; green fruit, QG; mature fruit, CSG) were used to determine the contents of total flavonoids, water-soluble sugars, soluble proteins, and mogroside V, and high-throughput sequencing was used to profile the diversity, composition, and assembly of the endophytic fungal communities. Total flavonoid content was highest at the young fruit stage (0.72%) and declined gradually with development. Soluble protein and mogroside V contents peaked at the mature stage (5.92 mg/g and 21.85 mg/g, respectively). The fungal α-diversity indices were relatively low at the young fruit and early expansion stages but increased significantly at the mature stage, indicating higher species diversity, richness, and phylogenetic diversity at maturity. Analyses of β-diversity and community composition revealed significant differences in community structure and composition among different developmental stages, with the early expansion stage being a key turning point for community decline and subsequent reconstruction;  Cladosporium delicatulum  was the dominant species throughout the entire developmental period. Community assembly was governed mainly by stochastic drift (contributing > 66%), whereas the contribution of dispersal limitation rose from 3.19% at RG to 31.33% at CSG, and deterministic environmental filtering weakened markedly at maturity. Mantel test and redundancy analysis further confirmed that soluble protein and mogroside V were significant explanatory factors for community variation at the mature stage, while the correlation heatmap indicated that both were highly significantly positively correlated with the abundances of dominant fungal genera such as  Cladosporium  . Conclusions  These results indicate that endophytic fungal community assembly in  S. grosvenorii  fruit shifts from early flavonoid-mediated processes to later protein- and mogroside V-mediated nutrient recruitment. The synergy between metabolites and the core microbiota established at maturity is likely a key mechanism underlying the high specialization of the mature endophytic fungal community.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11147798/v1",
+    "date": "2026-10-21",
+    "authors": "Pang Q, Su Y, Xi Y, Mei Z, Wu X, Wu J, Hu M, Lu T, Fu C, Zeng C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346786",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi",
+        "microbiota",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 566,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11147798/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "05ab6dc32268e5ec7c0ca84b929e3b73432b471d290f995ed524c4d628e2c2bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:26:04.940511+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d1d8851ba84ab0bba55eb1af56035d1354f9d2a2af166df5f9cf4771a31c1c3a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:26:04.940511+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Siraitia grosvenoriiの発生段階における内生菌群集遷移と果実品質成分の相互作用",
+    "abstract_ja": "要旨    背景  Siraitia grosvenoriiは中国固有の薬用および食用植物種である。その果実の品質は、発育段階、栽培環境、および共生微生物によって共同的に調節されており、内生菌が生理活性薬効成分の蓄積に影響を与える主要な要因として認識されている。しかし、果実の発育過程において内生菌群集がどのように遷移し、それがモグロシドVや総フラボノイドなどの果実品質成分とどのように関連しているかについては、依然として十分に解明されていない。結果  4つの発育段階（幼果、RG；初期拡大期、DG；緑色果、QG；成熟果、CSG）の果実を用いて、総フラボノイド、水溶性糖類、可溶性タンパク質、およびモグロシドVの含有量を測定し、ハイスループットシーケンシングを用いて内生菌群集の多様性、組成、およびアセンブリを解析した。総フラボノイド含有量は幼果期で最も高く（0.72%）、発育に伴い徐々に減少した。可溶性タンパク質およびモグロシドVの含有量は成熟期にピークに達した（それぞれ5.92 mg/gおよび21.85 mg/g）。菌類のα多様性指数は、幼果期および初期拡大期では比較的低かったが、成熟期には有意に増加し、成熟に伴い種の多様性、豊かさ、および系統的多様性が高まることが示された。β多様性および群集組成の解析により、異なる発育段階間で群集構造と組成に有意な差が認められ、初期拡大期が群集の衰退とその後の再構築における重要な転換点であることが明らかになった。Cladosporium delicatulumは全発育期間を通じて優占種であった。群集アセンブリは主に確率的ドリフト（寄与度 > 66%）によって支配されていた一方、分散制限の寄与度はRGの3.19%からCSGの31.33%へと上昇し、決定論的な環境フィルタリングは成熟期に著しく弱まった。マンテル検定および冗長性解析により、成熟期における群集変動の有意な説明因子として可溶性タンパク質とモグロシドVが確認されたほか、相関ヒートマップからは、両者がCladosporiumなどの優占菌属の存在量と極めて有意に正の相関があることが示された。結論  これらの結果は、S. grosvenoriiの果実における内生菌群集アセンブリが、初期のフラボノイド介在プロセスから、後期のタンパク質およびモグロシドV介在による栄養資源の獲得へと移行することを示している。成熟期に確立される代謝物とコア微生物叢の相乗効果が、成熟内生菌群集の高い特化性を支える主要なメカニズムである可能性が高い。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11217271/v1",
+    "title": "UV-B irradiation disrupts obligate endosymbioses and reduces fitness in agricultural pest insects",
+    "abstract": "Abstract    Sap-sucking insect pests, such as aphids and whiteflies, depend on obligate bacterial endosymbionts for survival. Driven by evolutionary genome reduction, these symbionts often lose essential DNA repair pathways, potentially leaving them defenseless against UV-induced damage—a vulnerability that remains untested as a pest control strategy. Here, we evaluated ultraviolet-B (UV-B) efficacy against three strawberry pests (  Chaetosiphon fragaefolii  ,  Aphis gossypii  , and  Bemisia tabaci  ) and linked host susceptibility to symbiont DNA repair capacities. UV-B irradiation significantly reduced pest survival and fecundity, with  B. tabaci  exhibiting extreme susceptibility even at low intensity. In  B. tabaci  and  C. fragaefolii  , UV-B depleted primary endosymbiont titers (  Portiera  and  Buchnera  ), disrupted bacteriome morphogenesis, and impaired oocyte development. Comparative genomics, including a newly assembled  Buchnera  genome, confirmed that all examined obligate symbionts had lost most dark-repair pathways, with  Portiera  lacking almost all repair mechanisms. This repair-gene erosion extends to obligate symbionts of other major agricultural and medical pests. Our findings demonstrate that UV-B impairs pest fitness by exploiting DNA repair-deficient obligate endosymbionts, establishing a novel paradigm for pest management that targets the evolutionary 'Achilles’ heel' of insect endosymbiosis.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11217271/v1",
+    "date": "2026-10-21",
+    "authors": "Tsuchida T, Fujita S, Kuroda R, Kurosawa K, Nagahashi M, Ootaka H, Yamamoto T, Ochi T, Fujiwara A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346770",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 567,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11217271/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0f20260c5ce0069ddbeb114646db182fa15af8cd9eb4bc0cc6bb81ff6afdb787",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:26:04.940511+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "15db1bab90e047d870bd5e9209ddfaf56c509e125d093ca907f47c64c7a0d510",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:26:04.940511+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "UV-B照射は絶対的内共生を阻害し、農業害虫の適応度を低下させる",
+    "abstract_ja": "要旨    アブラムシやコナジラミなどの吸汁性害虫は、生存のために絶対細菌内共生体に依存している。進化的なゲノム縮小により、これらの共生体は不可欠なDNA修復経路を失うことが多く、その結果、紫外線誘発性の損傷に対して無防備となる可能性がある。この脆弱性は、害虫防除戦略として未だ検証されていない。本研究では、3種のイチゴ害虫（Chaetosiphon fragaefolii、Aphis gossypii、およびBemisia tabaci）に対する紫外線B（UV-B）の有効性を評価し、宿主の感受性を共生体のDNA修復能と関連付けた。UV-B照射は害虫の生存率および繁殖力を有意に低下させ、B. tabaciは低強度においても極めて高い感受性を示した。B. tabaciおよびC. fragaefoliiにおいて、UV-Bは一次内共生体（PortieraおよびBuchnera）の量を減少させ、バクテリオームの形態形成を阻害し、卵母細胞の発達を損なった。新たにアセンブルしたBuchneraゲノムを含む比較ゲノミクスにより、検討したすべての絶対共生体がほとんどの暗所修復経路を失っており、特にPortieraはほぼすべての修復機構を欠いていることが確認された。この修復遺伝子の消失は、他の主要な農業および医学害虫の絶対共生体にも及んでいる。本研究の結果は、UV-BがDNA修復能を欠く絶対内共生体を標的とすることで害虫の適応度を低下させることを示しており、昆虫内共生の進化的な「アキレス腱」を標的とした新たな害虫管理パラダイムを確立するものである。"
   }
 ]
