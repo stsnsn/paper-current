@@ -281745,5 +281745,320 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ブロブの系統樹およびレベル1系統ネットワークのコンセンサス手法",
     "abstract_ja": "系統ネットワークは、単一の系統樹では捉えきれない交雑、遺伝子浸透、およびその他の網状過程を伴う進化史を表現するためにますます活用されるようになっている。近年の進展により、ゲノムデータからネットワークを推定する数多くの手法が開発されてきた。これらの手法では、最適性の制約、ブートストラップ解析、ベイズ事後標本、あるいはツール、データセット、パラメータの違いにより、複数の妥当なネットワークが生成されることがある。系統樹についてはコンセンサス手法が十分に確立されており、根付きネットワーク向けのアプローチも一部存在するが、半有向（非根付き）ネットワーク向けのコンセンサスフレームワークは現在のところ存在しない。本研究では、根付きまたは半有向の系統ネットワークに対する新たなコンセンサスフレームワークを導入することで、このギャップを埋める。まず、任意の複雑度のネットワークを入力として、ブロブのコンセンサス系統樹を構築する手法を開発する。このアプローチに基づき、レベル1ネットワーク（すなわち、重なり合わないサイクルを持つネットワーク）のコンセンサスを構築する。「L1Nコンセンサス」と呼ばれるこの手法は、レベル1ネットワークの集合を入力として受け取り、レベル1ネットワークを出力する。このコンセンサスネットワークの各構成要素（例：ブロブ、ハイブリッドクレード、エッジ）は、入力ネットワークにおける当該構成要素の出現頻度に対応する支持値を持つ。これらの手法は、PhyloNetworksの基盤の上に構築されたPhyloSummariesに実装されている。我々は、大規模なシミュレーションデータを用いてL1Nコンセンサスの性能を評価した。その結果、L1Nコンセンサスは、根付き設定において、情報量と精度の面で既存の手法を上回ることが示された。半有向設定においても同様の結果が得られた。LeopardusおよびHIVのデータセットにL1Nコンセンサスを適用したところ、これらの知見が裏付けられ、本手法の有用性が実証された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.31.763288",
+    "title": "NEPTUNE: a neuronal cell death pathway prediction tool used to decipher neurodegeneration using single cell RNA-seq datasets",
+    "abstract": "In the constantly evolving landscape of cell death mechanisms, much of the literature is dominated by research performed in cancer cells and regenerating cell types. However, neurons differ in that they are non-regenerating and post-mitotic. Therefore, assessing neuronal specific disease biomarkers, including cell death markers, without the bias of non-neuronal or cancerous cells, could provide a more biologically accurate neurodegeneration profile. In this study, we developed the Neuronal cEll death Prediction Tool for Understanding Neurodegenerative Events (NEPTUNE), a user-friendly tool for researchers that bioinformatically identifies neuronal cell death markers from user provided differentially expressed gene lists obtained by single cell RNA sequencing data. We applied NEPTUNE to a publicly available single cell RNA sequencing dataset and analysed the progression of photoreceptor degeneration in the  rd1 mouse model of severe retinitis pigmentosa. The analysis interpreted the dataset in a neuronal-specific manner and showed that late-stage photoreceptor death is not purely apoptotic but possibly engages overlapping cell death programmes. From the analysis, the user is provided with publishable graphs and a list of cell death markers with fold change, type of impact, cell death type and a strength score. Overall, our tool provides markers specific to neurodegeneration, allows mapping to known WikiPathways and KEGG pathways, performs GO and KEGG enrichment analysis and plots the data for further analysis, greatly facilitating the study of neuron specific degeneration. The tool can be found at:  https://neptune.rgtcarvalholab.com/ .",
+    "journal": "",
+    "doi": "10.64898/2026.10.31.763288",
+    "date": "2026-11-02",
+    "authors": "Padvi A, Brunet AA, Miller AL, Carvalho LS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357738",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "gene",
+        "prediction",
+        "sequencing",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "gene",
+          "prediction",
+          "sequencing",
+          "tool"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4942,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.10.31.763288"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d72c469bde9c33d0e77a93a71eb1c037b9690cf3f75513a74074b220a16ade33",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:01:58.490655+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b08ea133ff8a01bd2d7c69c1a6424f997e0d4c0d5b8e87555f9ea51b63760c3b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:01:58.490655+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NEPTUNE: シングルセルRNA-seqデータセットを用いて神経変性を解明するための神経細胞死経路予測ツール",
+    "abstract_ja": "絶えず進化を続ける細胞死メカニズムの領域において、既存の文献の多くはがん細胞や再生細胞種を対象とした研究によって占められている。しかし、ニューロンは非再生性かつ分裂後であるという点において異なる。したがって、非ニューロン細胞やがん細胞によるバイアスを排除し、細胞死マーカーを含むニューロン特異的な疾患バイオマーカーを評価することで、より生物学的に正確な神経変性プロファイルが得られる可能性がある。本研究では、シングルセルRNAシーケンシングデータから得られたユーザー提供の発現変動遺伝子リストに基づき、ニューロンの細胞死マーカーをバイオインフォマティクス的に同定する、研究者向けの使いやすいツール「Neuronal cEll death Prediction Tool for Understanding Neurodegenerative Events (NEPTUNE)」を開発した。我々は、公開されているシングルセルRNAシーケンシングデータセットにNEPTUNEを適用し、重症網膜色素変性症のrd1マウスモデルにおける視細胞変性の進行を解析した。この解析により、データセットをニューロン特異的な観点から解釈し、後期段階の視細胞死が純粋なアポトーシスではなく、重複する細胞死プログラムが関与している可能性が示された。この解析に基づき、ユーザーには公開可能なグラフと、フォールドチェンジ、影響の種類、細胞死のタイプ、および強度スコアを含む細胞死マーカーのリストが提供される。総じて、本ツールは神経変性に特異的なマーカーを提供し、既知のWikiPathwaysおよびKEGGパスウェイへのマッピングを可能にし、GOおよびKEGGエンリッチメント解析を行い、さらなる解析のためにデータをプロットすることで、ニューロン特異的な変性の研究を大幅に促進する。本ツールは、https://neptune.rgtcarvalholab.com/ で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762771",
+    "title": "Gene regulatory logic underlying the differentiation of mixed lineages in human thymic epithelial cells",
+    "abstract": "The thymus enacts central tolerance through thymic epithelial cells (TECs), which present self-antigens to developing T cells to remove self-reactive cells, preventing autoimmunity. Human TECs include populations that express lineage-committed programs corresponding to distinct peripheral tissues, yet how they acquire these programs and whether these TEC subpopulations are genetically related and conserved in mice remain unknown. Using matched single-cell gene-expression and chromatin-accessibility profiling of 126,687 human TECs, we identified 17 TEC subsets defined by their distinct expression profiles of 1,843 cell type restricted-antigens (CRAs) from 48 peripheral cell types. With a new phylogenetic reconstruction method, we show that lineage-committed TECs share a common ancestor, retain a thymus-specific mixed identity through co-expression of multiple CRA signatures, and are specified by coordinated activator and repressor regulons. We also identified a basement-membrane-collagen-rich state (BMC-TECs) with progenitor-like properties. Finally, mouse TECs shared the regulatory strategy but conserved few master transcription-factor drivers. This study mechanistically characterizes human TEC subpopulations and reveals the gene regulatory logic that leads to their distinct diversification and mixed identities in humans and mice.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762771",
+    "date": "2026-11-02",
+    "authors": "Prabakar RK, Chapin SR, Lin Y, Staklinski SJ, Netz DM, Lapine ME, Pruss D, Cvetanovic T, Carcy SL, Torres J, Grosh A, Kiedrowski AJ, Pass HI, Mosca R, Regan C, Preall J, Siepel A, Meyer HV.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355660",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "phylogenetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4943,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.10.29.762771"
+    ],
+    "translation": {
+      "title": {
+        "hash": "33a3844c876eb373c86db2d9297e3c8ea91a085c4282e03ffbb90acde00383e4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:01:58.490655+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dfc5ebc9fc1d9e10c74fa1915be2ce88890ce673843c1083ccc1d6df8838c6cd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:01:58.490655+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト胸腺上皮細胞における混合系譜の分化を支える遺伝子制御ロジック",
+    "abstract_ja": "胸腺は、胸腺上皮細胞（TECs）を介して中枢性寛容を誘導する。TECsは、発達中のT細胞に自己抗原を提示することで自己反応性細胞を除去し、自己免疫を防ぐ。ヒトTECsには、異なる末梢組織に対応する系統特異的プログラムを発現する集団が含まれるが、これらのプログラムをどのようにして獲得するのか、また、これらのTECサブ集団がマウスにおいて遺伝的に関連し保存されているのかは不明である。126,687個のヒトTECsを対象とした、マッチド単一細胞遺伝子発現およびクロマチンアクセシビリティプロファイリングを用いて、48種類の末梢細胞型由来の1,843種類の細胞型制限抗原（CRAs）の特徴的な発現プロファイルによって定義される17のTECサブセットを同定した。新たな系統再構築法により、系統特異的TECsが共通祖先を持ち、複数のCRAシグネチャーの共発現を通じて胸腺特異的な混合アイデンティティを保持し、協調的な活性化因子および抑制因子レギュロンによって規定されていることを示した。また、前駆細胞様の特性を持つ基底膜コラーゲンリッチ状態（BMC-TECs）を同定した。最後に、マウスTECsは同様の調節戦略を共有していたが、マスター転写因子ドライバーの保存例はわずかであった。本研究は、ヒトTECサブ集団を機序的に特性評価し、ヒトとマウスにおけるそれらの顕著な多様化と混合アイデンティティをもたらす遺伝子調節ロジックを明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11327477/v1",
+    "title": "Clozapine and Metabolic Syndrome: Evidence from Integrative Bioinformatics and Molecular Simulation",
+    "abstract": "Abstract    Clozapine is an effective treatment for treatment-resistant schizophrenia, but its clinical use is limited by the high risk of developing metabolic syndrome (MetS). This study aimed to identify potential molecular targets and biological mechanisms underlying clozapine-induced MetS. We integrated clozapine-related targets, MetS‑related genes, and differentially expressed genes from the GSE98895 dataset to identify candidate targets. We used functional enrichment analysis and machine learning algorithms, including least absolute shrinkage and selection operator, random forest, support vector machine recursive feature elimination, and extreme gradient boosting, to identify hub genes. We then performed gene set enrichment analysis, gene set variation analysis, and immune cell composition analysis to characterize the biological and immunological features associated with these genes. Subsequently, we used molecular docking, molecular dynamics simulations, and molecular mechanics/Poisson–Boltzmann surface area analysis to evaluate potential interactions between clozapine and the identified proteins. Thirteen overlapping targets were identified and were primarily enriched in pathways related to T helper (Th) 1 and Th2 cell differentiation, Th17 cell differentiation, and necroptosis. Janus kinase 1 (  JAK1  ) and poly (ADP-ribose) polymerase 1 (  PARP1  ) were consistently selected by all machine learning algorithms.  JAK1  expression was decreased, whereas  PARP1  expression was increased, in individuals with MetS, and the combined model achieved an area under the receiver operating characteristic curve of 0.895. Pathway analyses implicated alterations in immune signaling, mitochondrial energy metabolism, carbohydrate metabolism, circadian regulation, and cellular homeostasis. The MetS group also showed altered proportions of CD8 + T cells, resting natural killer cells, and resting memory CD4 + T cells. Structural analyses suggested that clozapine formed energetically favorable interactions and conformationally stable complexes with JAK1 and PARP1. Collectively, these findings identify  JAK1  and  PARP1  as candidate genes potentially involved in clozapine-induced MetS and provide testable hypotheses regarding the associated metabolic and immune mechanisms.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11327477/v1",
+    "date": "2026-11-02",
+    "authors": "Zhuo C, Chen X, Li R, Ma X, Tian H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355215",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bioinformatics",
+        "simulation"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "bioinformatics",
+          "simulation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4944,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.21203/rs.3.rs-11327477/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c453b1083ebf908a1fc711eacc018d9a99ca426ae537fce4915dc1fe70bc8e99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:01:58.490655+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0088467252ca236172dc96f6c09214de2e1d16e82195d5b13010bdec53e6700b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:01:58.490655+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クロザピンとメタボリックシンドローム：統合バイオインフォマティクスと分子シミュレーションによるエビデンス",
+    "abstract_ja": "要旨    クロザピンは治療抵抗性統合失調症の有効な治療薬であるが、メタボリックシンドローム（MetS）発症の高いリスクにより、臨床利用が制限されている。本研究では、クロザピン誘発性MetSの根底にある潜在的な分子標的および生物学的機序を同定することを目的とした。GSE98895データセットから、クロザピン関連標的、MetS関連遺伝子、および発現変動遺伝子を統合し、候補標的を同定した。機能エンリッチメント解析および、最小絶対縮小・選択演算子、ランダムフォレスト、サポートベクターマシン再帰的特徴量除去、エクストリーム勾配ブースティングを含む機械学習アルゴリズムを用いて、ハブ遺伝子を同定した。次いで、遺伝子セットエンリッチメント解析、遺伝子セット変動解析、および免疫細胞組成解析を行い、これらの遺伝子に関連する生物学的・免疫学的特徴を明らかにした。続いて、分子ドッキング、分子動力学シミュレーション、および分子力学／ポアソン・ボルツマン表面積解析を用いて、クロザピンと同定されたタンパク質との潜在的な相互作用を評価した。13個の重複標的が同定され、それらは主にTヘルパー（Th）1およびTh2細胞分化、Th17細胞分化、およびネクロプトーシスに関連するパスウェイに濃縮されていた。ヤヌスキナーゼ1（JAK1）およびポリ（ADP-リボース）ポリメラーゼ1（PARP1）は、すべての機械学習アルゴリズムによって一貫して選択された。MetS患者ではJAK1の発現が低下し、一方でPARP1の発現が上昇しており、統合モデルの受信者動作特性曲線下面積は0.895であった。パスウェイ解析により、免疫シグナル伝達、ミトコンドリアエネルギー代謝、糖代謝、概日リズム調節、および細胞恒常性の変化が示唆された。また、MetS群では、CD8+ T細胞、静止期ナチュラルキラー細胞、および静止期メモリーCD4+ T細胞の割合に変化が認められた。構造解析の結果、クロザピンはJAK1およびPARP1と、エネルギー的に有利な相互作用および立体構造的に安定な複合体を形成することが示唆された。総じて、これらの知見は、JAK1およびPARP1をクロザピン誘発性MetSに関与する可能性のある候補遺伝子として同定し、関連する代謝および免疫機序に関する検証可能な仮説を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11468822/v1",
+    "title": "Bespoke anatomy education without coding: a proof of concept for AI-driven simulation generation",
+    "abstract": "Abstract  Interactive digital resources are widely used in anatomy education, but their development typically requires programming expertise or commercial software, and pre-existing resources may not match an educator’s specific teaching requirements. Large language models (LLMs) are now capable of generating functional web code from conversational prompts, creating the possibility of educators producing their own interactive simulations without programming experience. Using LLMs to generate simulations for anatomical education, rather than as tutoring or assessment aids, remains under-investigated. This brief report is a proof-of-concept workflow in which three LLM platforms (OpenAI Codex, Google Gemini, and Anthropic Claude) were provided with reviewed anatomy content and prompted to generate interactive, browser-based simulations. Ten single-file Hypertext Markup Language (HTML) simulations were produced covering cranial nerve lesion testing, the pupillary light and corneal reflexes, extraocular muscle testing, visual field defects, spinal cord syndromes, the circle of willis, and the urinary sphincter function system. The simulations incorporate AI (Artificial Intelligence)-generated anatomical images, adjustable lesion parameters, and scenario-based clinical reasoning. Iterative refinement was necessary to achieve accurate results, as the AI repeatedly made errors, including confusion between left and right orientations, inaccurate positioning of facial features, and the occasional generation of images instead of modifying the code as instructed. These challenges required multiple rounds of correction and careful human oversight to ensure the final output met the intended requirements. Preliminary simulation assessment and comments from Medicine Year 2 colleagues, Oxford AI Build club, learning technologist, Teaching demonstrators were encouraging regarding clarity and engagement, although no formal student evaluation of learning outcomes has yet been conducted. We conclude that LLMs can translate structured anatomical knowledge into functional interactive anatomy simulations and describe a replicable workflow, while emphasising that expert review remains indispensable.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11468822/v1",
+    "date": "2026-11-01",
+    "authors": "Ershadi-Oskoui G, Christian H, Rajendran SS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354545",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "simulation"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "simulation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4966,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.21203/rs.3.rs-11468822/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "92078648efdf00919bfa7d26e45454ff7c60aec356d368de2697388b2f36b601",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:01:58.490655+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ec678682f1d2c9b38b49d8de70079fb2d1b1fcb76c9827ac8f71b11f33d76c22",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:01:58.490655+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コーディング不要のオーダーメイド型解剖学教育：AI駆動型シミュレーション生成の概念実証",
+    "abstract_ja": "要旨　インタラクティブなデジタルリソースは解剖学教育において広く活用されているが、その開発には通常、プログラミングの専門知識や商用ソフトウェアが必要であり、既存のリソースが教育者の具体的な指導要件を満たさない場合がある。現在、大規模言語モデル（LLM）は対話型プロンプトから機能的なウェブコードを生成することが可能となっており、プログラミング経験のない教育者が自らインタラクティブなシミュレーションを作成できる可能性が開かれている。LLMを個別指導や評価補助としてではなく、解剖学教育のためのシミュレーション生成に活用する手法については、まだ十分に研究されていない。本短報は、3つのLLMプラットフォーム（OpenAI Codex、Google Gemini、Anthropic Claude）にレビュー済みの解剖学コンテンツを提供し、ブラウザベースのインタラクティブなシミュレーションを生成させた概念実証（PoC）ワークフローである。脳神経病変の検査、瞳孔光反射および角膜反射、外眼筋検査、視野欠損、脊髄症候群、ウィリス輪、および尿道括約筋機能系を網羅する、単一ファイル形式のHypertext Markup Language（HTML）シミュレーションを10件作成した。これらのシミュレーションには、AI（人工知能）によって生成された解剖学的画像、調整可能な病変パラメータ、およびシナリオベースの臨床推論が組み込まれている。AIは、左右の向きの混同、顔面部位の不正確な配置、および指示通りにコードを修正せず時折画像を生成するといった誤りを繰り返したため、正確な結果を得るには反復的な改良が必要であった。これらの課題により、最終的な出力が意図した要件を満たすよう、複数回の修正と慎重な人的監視が行われた。医学科2年生の同僚、Oxford AI Build club、ラーニング・テクノロジスト、およびティーチング・デモンストレーターによる予備的なシミュレーション評価とコメントは、明快さとエンゲージメントの点で肯定的であったが、学習成果に関する正式な学生評価はまだ実施されていない。本研究では、LLMが構造化された解剖学的知識を機能的なインタラクティブ解剖学シミュレーションに変換でき、再現可能なワークフローを提示できると結論付けるとともに、専門家によるレビューが依然として不可欠であることを強調する。"
   }
 ]
