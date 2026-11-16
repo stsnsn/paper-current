@@ -280502,5 +280502,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "定常期大腸菌細胞における細胞形態形成と細胞内組織化の遺伝的ランドスケープのマッピング",
     "abstract_ja": "自然界において、多くの細菌は非増殖性の定常期に存在している。それに伴う細胞リモデリングの程度や遺伝的基盤は依然として不明である。本研究では、大腸菌における増殖から定常期への移行を特性評価するため、組み合わせ型染色アッセイであるColi-Paintingと、専用の画像ベースプロファイリングパイプラインであるBactoScoopを開発した。単一細胞プロファイルからは、緩やかながらも不均一な移行が認められ、一部の細胞は定常期に入っても染色体複製や細胞分裂の痕跡を保持していた。その後のゲノムワイドプロファイリングにより、定常期細胞の形態、核様体の形成、RNA分布、および膜関連特性の遺伝的決定因子が同定された。細胞特性間の全体的な相関解析により、定常期細胞構造の協調的な側面が明らかになり、高次元変異体プロファイルは、既知および未知の機能を持つ遺伝子に機能的な背景情報を提供した。19個のy遺伝子の下流特性解析により、本手法が定常期の生理学的機能に寄与する関連因子を同定できる能力が示された。総じて、本研究は大腸菌における定常期細胞組織化の遺伝的ランドスケープを明らかにし、増殖段階特異的な遺伝子機能を解明するためのリソースとなる。"
+  },
+  {
+    "id": "10.64898/2026.11.12.766323",
+    "title": "Conjugative delivery of a miniature Cas nuclease for broad range recipient gene editing",
+    "abstract": "Efficient delivery of the Cas endonuclease into target cells avoiding toxic effects remains one of the limiting steps of CRISPR-Cas gene editing technologies. Bacterial conjugation delivers protein and DNA directly into recipient bacteria, since the conjugative relaxase travels through a type IV secretion system covalently attached to the transferred DNA strand. We previously showed that fusion proteins relaxase- Cas12a or relaxase- base editor are translocated by conjugation and recover gRNA-guided nuclease or base-editing activity in recipient bacteria, despite the large size of the fusion. Aiming to improve the efficiency and to broaden the range of susceptible recipient bacteria, here we test translocation of the miniature type V-U4 nuclease Cas12n, fused to two unrelated conjugative relaxases, MobA and TrwC from RSF1010 and R388 respectively. Both fusions of 139 and 168 kDa were stably produced in Escherichia coli donor cells, mobilized their cognate plasmid as efficiently as the wild-type relaxases, and directed guide-dependent cleavage of a chromosomal target in the donor. Translocation and activity in recipient cells were tested with a lethality assay based on the loss of transconjugants viability caused by double-strand breaks introduced by the translocated nuclease. When MobA-Cas12n was delivered together with a mobilizable plasmid which encoded the guide RNA, conjugation frequency was reduced by more than one order of magnitude relative to both a non-targeting guide RNA and a nuclease-free relaxase control, indicating target-specific cleavage of the recipient chromosome. When assayed in parallel with previously characterized TrwC-Cas12a, MobA-Cas12n showed better protein yields and higher activity in recipient cells. This work extends the range of Cas proteins deliverable by conjugative relaxases to miniature nucleases. The fusion with relaxase MobA allows the use of the promiscuous RP4 conjugative system for conjugative delivery, extending the range of recipient bacteria potentially targeted by this tool.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766323",
+    "date": "2026-11-16",
+    "authors": "Hotten, J., Guzman-Herrador, D. L., Llosa, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766323v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4999,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.12.766323"
+    ],
+    "translation": {
+      "title": {
+        "hash": "533eb6264f70b9483f0d5cc4b7dfef59081d1e575534c7297e5d8c5b3445d3f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:50:28.377385+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4366a97e85a0fe97c36f9c063a6b729553096051fcdf9196fbb72688a522a98f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:50:28.377385+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "広範なレシピエント遺伝子編集のための小型Casヌクレアーゼの共役送達",
+    "abstract_ja": "毒性作用を回避しつつCasエンドヌクレアーゼを標的細胞へ効率的に送達することは、依然としてCRISPR-Cas遺伝子編集技術における制限要因の一つとなっている。細菌接合法では、接合弛緩酵素が転移したDNA鎖に共有結合したIV型分泌系を介して作用するため、タンパク質とDNAが受容細菌へ直接送達される。我々は以前、融合タンパク質である弛緩酵素-Cas12aまたは弛緩酵素-塩基エディターが、融合体のサイズが大きいにもかかわらず、接合によってトランスロケーションし、受容細菌においてgRNA誘導型ヌクレアーゼ活性または塩基編集活性を回復させることを示した。効率の向上および感受性受容細菌の範囲拡大を目指し、本研究では、RSF1010およびR388由来の無関係な2種類の接合弛緩酵素、MobAおよびTrwCに融合させた小型のV型-U4ヌクレアーゼCas12nのトランスロケーションを検証した。139および168 kDaの両融合体は、大腸菌ドナー細胞において安定的に産生され、野生型弛緩酵素と同等に効率的に対応するプラスミドを動員し、ドナー細胞内の染色体標的に対してガイド依存的な切断を誘導した。受容細胞におけるトランスロケーションおよび活性は、トランスロケーションしたヌクレアーゼによって導入された二本鎖切断に起因するトランス接合体の生存能喪失に基づく致死性アッセイを用いて検証した。MobA-Cas12nをガイドRNAをコードする動員可能なプラスミドと共に送達したところ、非標的化ガイドRNAおよびヌクレアーゼ非含有弛緩酵素対照と比較して接合頻度が1桁以上低下し、受容細胞の染色体において標的特異的な切断が行われたことが示された。既報のTrwC-Cas12aと並行してアッセイを行ったところ、MobA-Cas12nは受容細胞においてより良好なタンパク質収量と高い活性を示した。本研究は、接合弛緩酵素によって送達可能なCasタンパク質の範囲を小型ヌクレアーゼへと拡張するものである。弛緩酵素MobAとの融合により、プロミッシュなRP4接合系を接合送達に利用することが可能となり、本ツールで標的とし得る受容細菌の範囲が拡大する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.762080",
+    "title": "Perturbation-induced gene programs map the hidden regulatory architecture of complex diseases",
+    "abstract": "Steady-state molecular profiles incompletely capture the regulatory programs through which genetic variation influences complex disease, particularly programs that emerge only when cells are perturbed. Here, we introduce Perturbscape, a computational framework that learns multiscale gene programs for individual perturbations in a CRISPR Perturb-seq screen using linear and nonlinear contrastive approaches alongside complementary program-learning methods, and integrates them with human genetics to prioritize disease-relevant genes, perturbations and downstream regulatory pathways. Across 15,859 perturbation-by-context profiles from 7 Perturb-seq systems and 53 complex diseases and traits (mean GWAS N=291K), perturbation-induced programs showed up to 4.3-fold higher heritability informativeness than analogous steady-state multi-tissue gene prioritization, and retained significant conditional heritability informativeness across all 34 matched cell system–trait comparisons after accounting for steady-state prioritization. Preserving perturbation-specific programs further yielded 2.5–5.3-fold higher trait relevance scores than programs derived from control cells, pooled perturbations or differential-expression summaries. In K562, Perturbscape-prioritized genes showed stronger enrichment for rare-variant burden genes than steady-state prioritization and were supported by orthogonal enhancer CRISPRi screens. In HepG2, LDL cholesterol-associated perturbation– induced programs specifically revealed statin-responsive pathways not significantly enriched by steady-state PoPS prioritization, supported by pharmacological transcriptional responses and population plasma proteomics. Perturbscape also recovered blood-related trait-conditioned trans-regulatory relationships that were specifically supported by population trans-eQTLs in IFN-γ-stimulated monocytes (OR = 1.30, P=1.6e-05). Perturbscape further revealed developmental-stage-specific convergence between monogenic diabetes regulators and polygenic T2D risk during pancreatic islet differentiation, and neuronal-subclass-specific autism-associated regulatory programs  in vivo . Together, these findings establish perturbation-induced gene programs as a complementary layer of disease-relevant regulatory information, revealing genetically informative pathways and context-specific regulatory relationships incompletely represented by steady-state molecular atlases.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.762080",
+    "date": "2026-11-04",
+    "authors": "Turhan B, Lee H, Liu D, Le A, Ghosh A, Nandi D, Mazumder R, Engreitz JM, Jin X, Huangfu D, Dey KK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358888",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "genetic",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4913,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.03.762080"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c99273e14c7a8e47bfdeff174c1c4f2a87af9a67161dbbff74643176fd477697",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:50:28.377385+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "36c401e785610b4a98555258f8cb7609888bd1cbf6fcdbfc3102e0cc4f7603c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:50:28.377385+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "摂動誘導型遺伝子プログラムは、複雑な疾患の隠れた制御機構をマッピングする",
+    "abstract_ja": "定常状態の分子プロファイルでは、遺伝的変異が複雑な疾患に影響を及ぼす調節プログラム、特に細胞が摂動を受けた際にのみ出現するプログラムを十分に捉えきれない。本研究では、CRISPR Perturb-seqスクリーニングにおける個々の摂動に対するマルチスケール遺伝子プログラムを、線形および非線形の対照アプローチと相補的なプログラム学習手法を用いて学習し、これらをヒト遺伝学と統合することで、疾患関連遺伝子、摂動、および下流の調節経路の優先順位付けを行う計算フレームワーク「Perturbscape」を提案する。7つのPerturb-seqシステムと53の複雑な疾患および形質から得られた15,859件の摂動別コンテキストプロファイル（平均GWAS N=291K）において、摂動誘導型プログラムは、同様の定常状態における多組織遺伝子優先順位付けよりも最大4.3倍高い遺伝率情報能を示し、定常状態の優先順位付けを考慮した後でも、34組の細胞システム・形質間比較すべてにおいて有意な条件付き遺伝率情報能を維持した。さらに、摂動特異的なプログラムを保持することで、対照細胞、プールされた摂動、または発現変動サマリーから導出されたプログラムよりも、2.5～5.3倍高い形質関連性スコアが得られた。K562において、Perturbscapeで優先順位付けされた遺伝子は、定常状態の優先順位付けよりも希少変異負荷遺伝子の濃縮が強く認められ、これは直交的なエンハンサーCRISPRiスクリーニングによっても支持された。HepG2では、LDLコレステロール関連の摂動誘導型プログラムが、定常状態のPoPS優先順位付けでは有意に濃縮されなかったスタチン応答性経路を特異的に明らかにし、これは薬理学的な転写応答および集団血漿プロテオミクスによって支持された。また、Perturbscapeは、IFN-γ刺激単球における集団trans-eQTLによって特異的に支持された、血液関連の形質条件付きトランス調節関係を復元した（OR = 1.30, P=1.6e-05）。さらに、Perturbscapeは、膵島分化過程における単遺伝子性糖尿病調節因子と多遺伝子性T2Dリスクとの発生段階特異的な収束、およびin vivoにおける神経サブクラス特異的な自閉症関連調節プログラムを明らかにした。これらの知見を総合すると、摂動誘導型遺伝子プログラムは、疾患関連調節情報の相補的な層として確立され、定常状態の分子アトラスでは不完全にしか表現されない、遺伝学的に情報量の多い経路やコンテキスト特異的な調節関係を明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.01.763514",
+    "title": "Roost: Avian Influenza Host Genomics Resource",
+    "abstract": "Highly pathogenic avian influenza (HPAI) causes mass mortality in poultry and wildlife, and puts already threatened species at further risk. Understanding differences in host susceptibility requires evidence currently scattered across publications, surveillance reports and genomic resources. We present Roost, a web resource that brings together more than 1,300 publications and reports, surveillance detections, and a catalogue of over 2,000 avian genome assemblies. Large language model-assisted literature analysis and comparative genomics link species, genes and molecular mechanisms to their supporting evidence. Around 51% of species with HPAI detections are not represented in the analysed corpus. Research concentrates on poultry, model organisms, and a small set of immune pathways. Research tracks neither mortality magnitude nor extinction risk; species with the largest recorded die-offs and threatened hosts alike remain largely unstudied. Roost makes this evidence, along with genome analyses, accessible to researchers and conservation practitioners, connecting documented disease with host biology and highlighting priorities for sequencing and functional research. Roost is available at http://josephguhlin.com/Roost",
+    "journal": "",
+    "doi": "10.64898/2026.11.01.763514",
+    "date": "2026-11-04",
+    "authors": "Guhlin JG, Dearden PK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358863",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "genomic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4914,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.01.763514"
+    ],
+    "translation": {
+      "title": {
+        "hash": "523e27706ba1b28137a1b8bc1e2b578841f378fe509ddcbe41d92425110789f2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:50:28.377385+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "28f64754f4183e1840c0220606f57a1462312065d471af2adc2dff53af3a3c79",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:50:28.377385+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Roost: 鳥インフルエンザ宿主ゲノミクスリソース",
+    "abstract_ja": "高病原性鳥インフルエンザ（HPAI）は、家禽や野生動物に大量死をもたらし、すでに絶滅の危機に瀕している種をさらに危険にさらす。宿主の感受性の差異を理解するには、現在、論文やサーベイランス報告書、ゲノムリソースに散在しているエビデンスが必要である。本稿では、1,300件以上の論文や報告書、サーベイランスによる検出例、および2,000件以上の鳥類ゲノムアセンブリのカタログを集約したウェブリソース「Roost」を紹介する。大規模言語モデルを活用した文献解析と比較ゲノミクスにより、種、遺伝子、および分子メカニズムを裏付けとなるエビデンスへと結びつける。HPAIの検出例がある種の約51%は、解析対象のコーパスに含まれていない。研究の焦点は、家禽、モデル生物、および少数の免疫経路に絞られている。死亡規模や絶滅リスクの追跡は行われておらず、記録上最大の大量死が発生した種も、絶滅の危機にある宿主も、依然として大部分が未研究のままである。Roostは、これらのエビデンスをゲノム解析とともに研究者や保全実務者が利用できるようにし、記録された疾患と宿主の生物学を結びつけ、シーケンシングおよび機能研究の優先事項を明確にする。Roostは http://josephguhlin.com/Roost で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763742",
+    "title": "LRCP: identifying functionally related SNPs and genes from phenome-wide genetic-effect correlations using GWAS summary statistics",
+    "abstract": "Genetic correlation describes which traits share genetic causes. The transposed question, which variants act alike across the phenome, has no comparable estimator, although it points directly to shared genes, pathways and regulators. Correlations of GWAS Z scores between variants across many traits are easy to compute, but they are confounded by linkage disequilibrium (LD) and, for any pair of variants, by sample overlap and genetic correlation among the GWAS. We show that in 452 Pan-UK Biobank GWAS the effective number of independent traits is only 58, and that naive tests reject 51-70% of null pairs of distal variants. We introduce LRCP (likelihood and regression on cross-products of Z scores), which estimates the phenome-wide genetic-effect correlation  ρ between SNPs by regressing Z-score cross-products on LD cross components, using per-SNP heritability enrichment from the companion method LRCQ and LDSC-derived plug-ins. For variants in different LD blocks the estimator has a closed form, and its standard errors account exactly for the dependence among GWAS. In simulations LRCP is unbiased (∣bias∣ ≤ 0.03), its 95% intervals cover 93-98%, and its type-I error is 5.0-5.7%, whereas naive correlations are attenuated by 41-64% and reject up to 51% of null pairs. In Pan-UK Biobank, LRCP recovers the expected signs among  PCSK9, LDLR and  APOB variants and estimates  between the  TP53 polyadenylation variant rs78378222 and  MDM2 rs3730556, whose Z scores correlate at  r = 0.67 across traits (conditional bootstrap  P = 0.015), although this correlation lies along a shared body-size and red-cell trait axis. Single variant pairs are near the resolution of current biobanks, with precision limited by the number of genetically distinct traits. Genome-wide, among 7,793 enriched LD clumps (30.2 million distal pairs), a conditional test finds 17 pairs at FDR 5%, where naive correlation flags 23 million. Simulating the whole screen under the null shows that this test is conservative and that the 113 strongest links (  P < 10  −5 ) lie far beyond the null, which yields 0.025 such pairs per screen. Linked genes share Reactome pathways 4.9 times more often than random pairs of enriched loci. The top pairs form 19 modules, the largest of which match known biology: myeloid differentiation (  IRF8, CEBPE, IKZF1 ), LDL and HDL metabolism, iron homeostasis (  TMPRSS6, TFRC ), the red-cell membrane (  SPTA1, ANK1 ) and type-2 immunity (  TSLP, IL13 ). LRCP turns phenome-wide summary statistics into a map of functionally related variants and genes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763742",
+    "date": "2026-11-04",
+    "authors": "Chen LG, Sham PC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358765",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4915,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.02.763742"
+    ],
+    "translation": {
+      "title": {
+        "hash": "62f6182fa95edac5211f75e77951ee48747a35a28e30647453dac0b19cd637c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:50:28.377385+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5cf6ac5a0620c946c2456bac8799036d02a7511f6b246545cc34809346c611fd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:50:28.377385+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LRCP: GWAS要約統計量を用いたフェノームワイドな遺伝的効果相関からの機能的関連SNPおよび遺伝子の同定",
+    "abstract_ja": "遺伝的相関は、どの形質が遺伝的原因を共有しているかを示すものである。表現型全体にわたって変異体が同様に作用するという転置型の問いには、対応する推定量は存在しないが、共有遺伝子、パスウェイ、および調節因子を直接的に指し示す。多くの形質にわたる変異体間のGWAS Zスコアの相関は容易に計算できるが、連鎖不平衡（LD）や、任意の変異体ペアにおけるサンプルの重複およびGWAS間の遺伝的相関によって交絡が生じる。我々は、Pan-UK Biobankの452件のGWASにおいて、独立形質の有効数がわずか58であり、ナイーブ検定では遠位変異体のヌルペアの51～70%が棄却されることを示す。我々は、コンパニオン手法であるLRCQによるSNPごとの遺伝率エンリッチメントとLDSC由来のプラグインを用い、Zスコアの外積をLDの交差成分で回帰させることで、SNP間の表現型全体にわたる遺伝的効果相関ρを推定するLRCP（Zスコアの外積に対する尤度回帰）を提案する。異なるLDブロックに属する変異体の場合、この推定量は閉形式となり、その標準誤差はGWAS間の依存関係を正確に反映する。シミュレーションにおいて、LRCPは不偏であり（∣bias∣ ≤ 0.03）、その95%区間は93～98%をカバーし、第一種過誤は5.0～5.7%であった。一方、ナイーブ相関では41～64%減衰し、最大51%のヌルペアが棄却された。Pan-UK Biobankにおいて、LRCPはPCSK9、LDLR、およびAPOB変異体間で期待される符号を復元し、TP53ポリアデニル化変異体rs78378222とMDM2 rs3730556の間の相関を推定した。これら2つの変異体のZスコアは形質間でr = 0.67で相関しており（条件付きブートストラップ P = 0.015）、この相関は共通の体サイズおよび赤血球形質軸に沿っている。単一変異体ペアは現在のバイオバンクの解像度に近く、精度は遺伝的に異なる形質の数によって制限される。ゲノム全体では、エンリッチされた7,793個のLDクラスター（遠位ペア3,020万組）のうち、条件付き検定でFDR 5%となるペアが17組見つかり、ナイーブ相関では2,300万組が検出された。ヌル仮説の下で全スクリーニングをシミュレートした結果、この検定は保守的であり、最も強いリンク113組（P < 10⁻⁵）はヌル仮説を遥かに超えており、スクリーニングあたり0.025組のそのようなペアが得られることが示された。リンクされた遺伝子は、エンリッチされた遺伝子座のランダムなペアよりも4.9倍高い頻度でReactomeパスウェイを共有している。上位のペアは19のモジュールを形成しており、そのうち最大のものは既知の生物学的機能と一致している：骨髄系分化（IRF8, CEBPE, IKZF1）、LDLおよびHDL代謝、鉄恒常性（TMPRSS6, TFRC）、赤血球膜（SPTA1, ANK1）、および2型免疫（TSLP, IL1）。LRCPは、表現型全体の要約統計量を、機能的に関連する変異体および遺伝子のマップへと変換する。"
   }
 ]
