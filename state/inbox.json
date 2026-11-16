@@ -385138,22 +385138,27 @@
         "source": "Europe PMC bioinformatics",
         "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "scope": "candidate"
+      },
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
       }
     ],
     "publication_types": [
       "journal article"
     ],
     "id": "10.1093/bib/bbag587",
-    "title": "Biosemantic graph transfer learning for cross-patient cell type annotation and cell-cell interaction analysis in tumor single-cell RNA sequencing.",
+    "title": "Biosemantic graph transfer learning for cross-patient cell type annotation and cell–cell interaction analysis in tumor single-cell RNA sequencing",
     "abstract": "The exploration of cellular heterogeneity within the tumor microenvironment (TME) via single-cell RNA sequencing (scRNA-seq) is essential for understanding cancer progression and response to therapy. Current scRNA-seq approaches, however, lack spatial context and rely on incomplete datasets of ligand-receptor interactions, limiting accurate cell type annotation and cell-cell communication inference. This study addresses these challenges using a novel graph neural network model that enhances cell-type prediction and cell-interaction analysis. Our study utilized a dataset consisting of 49 024 cells from 19 patients across three cancer types: leukemia, breast invasive carcinoma, and colorectal cancer. The proposed scGSL model demonstrated robust performance, achieving an average accuracy of 84.83%, precision of 86.23%, recall of 81.51%, and an F1 score of 80.92% across all datasets. These metrics represent a significant enhancement over existing methods, which typically exhibit lower performance metrics. Additionally, by reviewing existing literature on gene interactions within the TME, the scGSL model proves to robustly identify biologically meaningful gene interactions in an unsupervised manner, validated by significant expression differences in key gene pairs across various cancers. The source code and data used in this study can be found at https://github.com/LiYuechao1998/scGSL.",
     "journal": "Briefings in Bioinformatics",
     "doi": "10.1093/bib/bbag587",
-    "date": "2026-11-01",
+    "date": "2026-11-13",
     "authors": "Li YC, Wong L, You HR, Wang XF, Wei MM, Wang L, Huang ZA, Huang YA, You ZH.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://europepmc.org/article/MED/43021601",
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag587/9040809?rss=1",
     "preprint": false,
     "review": false,
     "pmcid": "",
@@ -385184,7 +385189,8 @@
     "collected_at": "2026-11-15T10:50:36.401365+00:00",
     "collected_date": "2026-11-15",
     "sources": [
-      "Europe PMC bioinformatics"
+      "Europe PMC bioinformatics",
+      "https://academic.oup.com/rss/site_5143/3005.xml"
     ],
     "first_seen": "2026-11-15",
     "related_dois": [
@@ -393905,22 +393911,27 @@
         "source": "Europe PMC bioinformatics",
         "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "scope": "candidate"
+      },
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
       }
     ],
     "publication_types": [
       "journal article"
     ],
     "id": "10.1093/bib/bbag633",
-    "title": "GLAlign integrates single-cell multi-omics data via global manifold and local marker gene alignment.",
+    "title": "GLAlign integrates single-cell multi-omics data via global manifold and local marker gene alignment",
     "abstract": "Integrating heterogeneous single-cell multi-omics datasets remains challenging because different modalities are measured in distinct feature spaces and lack cell level pairing. Existing manifold alignment or feature conversion framework are often affected by weak cross-modality associations, geometric ambiguity, and overcorrection. Here we present GLAlign (Global manifold and Local marker gene Alignment), an optimization framework that jointly leverages global manifold structure and local marker gene information to integrate single-cell multi-omics data. GLAlign learns a shared latent space through a global objective comprising maximum mean discrepancy, distortion, and penalty terms, together with a local contrastive triplet loss guided by cross-modality marker gene overlap between independently inferred clusters. We demonstrate GLAlign's methodological contribution in extending the manifold alignment by biologically informed prior to ensure geometrically plausible and biologically correct alignments without requiring paired cells or manual cell type annotations. We evaluated GLAlign on simulated data and real datasets spanning PBMC scRNA-seq/scATAC-seq, mouse brain SNARE-seq, single-donor and multi-batch CITE-seq, and NCI-N87 scDNA-seq/scRNA-seq integration. Across the evaluated datasets, GLAlign achieved strong modality mixing and biological conservation, remained stable under moderate cell type imbalance and variations in clustering and marker information, and supported cross-modality label transfer and paired cell recovery. These results demonstrate that biologically structured coupling of global and local alignment provides an interpretable framework for heterogeneous single-cell multi-omics integration. GLAlign is freely available at https://github.com/Bateer-Bio/GLAlign.",
     "journal": "Briefings in Bioinformatics",
     "doi": "10.1093/bib/bbag633",
-    "date": "2026-11-01",
+    "date": "2026-11-13",
     "authors": "Ba T, Hu M, Liu S, Zhang L, Chai L, Li Z, Gao C, Wang Y.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://europepmc.org/article/MED/43021602",
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag633/9040810?rss=1",
     "preprint": false,
     "review": false,
     "pmcid": "",
@@ -393951,7 +393962,8 @@
     "collected_at": "2026-11-15T22:48:00.544010+00:00",
     "collected_date": "2026-11-16",
     "sources": [
-      "Europe PMC bioinformatics"
+      "Europe PMC bioinformatics",
+      "https://academic.oup.com/rss/site_5143/3005.xml"
     ],
     "first_seen": "2026-11-15",
     "related_dois": [
@@ -401057,6 +401069,227 @@
     "first_seen": "2026-11-16",
     "related_dois": [
       "10.1007/s12031-026-02624-8"
+    ]
+  },
+  {
+    "id": "10.1093/bioadv/vbag344",
+    "title": "Biological Network Organization, Not Generic Graph Topology, Drives Graph-Based Gene Essentiality Prediction",
+    "abstract": "AbstractMotivationPredicting gene essentiality can reveal cancer vulnerabilities, but whether graph neural networks benefit from biologically meaningful connectivity rather than generic graph structure remains unclear.ResultsWe evaluated 2,741 genes across three tissues using repeated gene-level cross-validation. GraphSAGE outperformed a capacity-matched multilayer perceptron and achieved comparable mean squared error to random forest, with higher Matthews correlation coefficients. The biological interaction network outperformed 25 degree-preserving rewired and 25 fully random networks, with no randomized realization matching its performance. Removing network-derived features minimally affected the biological network but substantially impaired randomized networks, suggesting that message passing exploits biological connectivity. Permuting stable gene-level or complete gene feature profiles also reduced performance, demonstrating the importance of biologically aligned features. However, per-gene correlations remained near zero, indicating limited prediction of context-specific variation. Adding global attention did not improve performance over local message passing. These findings support complementary contributions from biological network organization and aligned gene features to generalization across unseen genes.Availability and implementationData are publicly available from the Cancer Dependency Map and STRING databases. Code is available at https://github.com/Whole-Cell-Signalling/gnn-sko-essentiality.",
+    "journal": "Bioinformatics Advances",
+    "doi": "10.1093/bioadv/vbag344",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbag344/9055600?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "biological network",
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "biological network",
+          "gene",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6382/advanceAccess_4105.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4875,
+    "collected_at": "2026-11-16T02:54:27.866824+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://academic.oup.com/rss/site_6382/advanceAccess_4105.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bioadv/vbag344"
+    ]
+  },
+  {
+    "id": "10.1093/bib/bbag632",
+    "title": "Koinetic: a graph-based distance as a new ecological metric for microbial community differential analysis",
+    "abstract": "AbstractPhylogeny-aware beta diversity measures are essential in microbiome research, yet widely used metrics such as UniFrac and its variants rely on independent branch-length contributions and do not satisfy the Euclidean property, leading to distortions in ordination and kernel-based tests. These limitations underscore the need for a distance that is both phylogenetically coherent and geometrically valid. We introduce the Koinos Kinetic Distance (Koinetic), a phylogeny-aware dissimilarity that views microbial communities as interconnected assemblies rather than isolated taxa. ”Koinos” emphasizes collective evaluation, while ”kinetic” reflects how differences propagate dynamically across ecological networks and phylogenetic lineages. Koinetic leverages a graph Laplacian–based kernel to weight community differences by shared phylogeny, capturing ecological connectivity and clade relatedness. This design ensures Euclidean validity and enables seamless integration with kernel-based methods as well as geometry-preserving ordination. Controlled simulations and analyses of eight microbiome datasets spanning diverse body sites, disease contexts, and microbial profiling modalities demonstrate Koinetic’s broad applicability. Compared with classical and phylogenetic metrics, including weighted, unweighted, and generalized UniFrac, unweighted Koinetic can improve power for phylogenetically localized prevalence shifts in the simulated settings, while weighted Koinetic performs comparably with weighted and generalized UniFrac under abundance-driven signals. Koinetic also shows strong performance in PERMANOVA and MiRKAT analyses assessing associations between microbial community composition and host phenotypes. Koinetic thus provides a general foundation for phylogeny-aware analysis, with a consistent geometric basis for visualization and statistical inference.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag632",
+    "date": "2026-11-15",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag632/9062979?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4876,
+    "collected_at": "2026-11-16T02:54:27.866824+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://academic.oup.com/rss/site_5143/3005.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bib/bbag632"
+    ]
+  },
+  {
+    "id": "10.1093/bib/bbag631",
+    "title": "ESGI: efficient splitting of generic indices in single-cell sequencing data",
+    "abstract": "AbstractSingle-cell sequencing technologies increasingly rely on complex nucleotide barcoding schemes to encode cellular identities, experimental conditions, and molecular modalities within a single experiment. While demultiplexing, alignment, and unique molecular identifier (UMI)-based quantification form the core preprocessing steps that transform raw sequencing reads into analyzable single-cell data, existing pipelines are often tightly coupled to specific experimental designs and typically assume fixed barcode positions and substitution-only error models. As a result, many assays employing combinatorial, variable-length, or multimodal barcoding designs require custom, hard-coded preprocessing solutions that are difficult to generalize and maintain. Here, we present efficient splitting of generic indices (ESGI), a flexible framework for demultiplexing and processing single-cell sequencing data with arbitrary barcode architectures. ESGI operates directly on raw FASTQ files using a generic barcode pattern specification, supports barcode matching with insertions and deletions via Levenshtein distance, accommodates variable-length barcodes, and provides detailed quality metrics for barcode assignment. ESGI optionally integrates genome alignment via STAR and performs feature quantification and UMI collapsing to generate cell-by-feature count matrices. ESGI is well documented and readily applicable to novel single-cell experiments. We demonstrate the versatility of ESGI across six datasets spanning four distinct single-cell technologies, including combinatorial indexing–based transcriptomic and multimodal assays, feature barcode-based protein measurements, and spatial barcoding data. Across these applications, ESGI robustly demultiplexes complex barcode designs that are not natively supported by existing pipelines, while producing results comparable with established workflows where applicable. ESGI provides a general solution for processing a wide range of barcoded single-cell sequencing data, enabling rapid adoption and analysis of emerging experimental designs.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag631",
+    "date": "2026-11-15",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag631/9062978?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4877,
+    "collected_at": "2026-11-16T02:54:27.866824+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://academic.oup.com/rss/site_5143/3005.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bib/bbag631"
+    ]
+  },
+  {
+    "id": "10.1093/bib/bbag539",
+    "title": "HGMetaADR: a multimodal heterogeneous graph meta-learning framework for generalized adverse drug reaction prediction",
+    "abstract": "AbstractEarly identification of adverse drug reactions (ADRs), which refer to harmful or unintended responses to medications taken at normal doses, is crucial for reducing clinical trial failures and associated economic costs. However, existing ADR datasets often exhibit a long-tailed label distribution and lack sufficient training examples for rare side effects, making it difficult for vanilla supervised learning models to generalize to underrepresented classes. To address these issues, we propose HGMetaADR, a novel heterogeneous graph-based meta-learning framework for ADR prediction. Built upon a multimodal biomedical knowledge graph, this approach integrates complementary drug-related data, including molecular structures, protein sequences, side effects, and therapeutic indications. It employs a hierarchical attention mechanism to capture semantic dependencies across heterogeneous entities and adopts a model-agnostic meta-learning strategy to enhance adaptation to small-sample classes. We evaluate HGMetaADR under three scenarios—few-shot, zero-shot, and majority—to simulate real-world conditions. Extensive experiments demonstrate that HGMetaADR consistently outperforms state-of-the-art baselines. Furthermore, ablation studies and pathway enrichment analyses reveal the underlying biological mechanisms linking protein targets, therapeutic indications, and side effects, thereby validating the effectiveness of incorporating heterogeneous biomedical knowledge into ADR modeling.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag539",
+    "date": "2026-11-13",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag539/9040819?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4878,
+    "collected_at": "2026-11-16T02:54:27.866824+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://academic.oup.com/rss/site_5143/3005.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bib/bbag539"
     ]
   }
 ]

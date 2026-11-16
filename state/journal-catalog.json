@@ -436,6 +436,13 @@
     ]
   },
   {
+    "name": "Annals of biomedical engineering",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Annals of botany",
     "scope": [
       "genomics",
@@ -1519,6 +1526,13 @@
     ]
   },
   {
+    "name": "Cell and tissue banking",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Cell and tissue research",
     "scope": [
       "genomics",
@@ -1838,6 +1852,13 @@
     "name": "Clinical, cosmetic and investigational dermatology",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -2296,6 +2317,13 @@
     ]
   },
   {
+    "name": "Cytometry. Part A : the journal of the International Society for Analytical Cytology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Cytotechnology",
     "scope": [
       "genomics",
@@ -2697,6 +2725,13 @@
   },
   {
     "name": "Epigenomics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Epilepsy & behavior : E&B",
     "scope": [
       "genomics",
       "microbiology"
@@ -3401,6 +3436,13 @@
   },
   {
     "name": "Head and neck pathology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Health information science and systems",
     "scope": [
       "genomics",
       "microbiology"
@@ -4769,6 +4811,7 @@
     "name": "Journal of imaging informatics in medicine",
     "scope": [
       "ecology",
+      "genomics",
       "microbiology"
     ]
   },
@@ -4858,6 +4901,13 @@
     "name": "Journal of Korean medical science",
     "scope": [
       "ecology",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of labelled compounds & radiopharmaceuticals",
+    "scope": [
+      "genomics",
       "microbiology"
     ]
   },
@@ -5046,6 +5096,13 @@
   },
   {
     "name": "Journal of neuroradiology = Journal de neuroradiologie",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of neuroscience methods",
     "scope": [
       "genomics",
       "microbiology"
@@ -5610,6 +5667,13 @@
   },
   {
     "name": "Medical and veterinary entomology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Medical image analysis",
     "scope": [
       "genomics",
       "microbiology"
@@ -6531,6 +6595,13 @@
     "name": "npj Biofilms and Microbiomes",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "NPJ dementia",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -7492,6 +7563,13 @@
     ]
   },
   {
+    "name": "Romanian journal of internal medicine = Revue roumaine de medecine interne",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Royal Society open science",
     "scope": [
       "genomics",
@@ -8075,6 +8153,13 @@
   },
   {
     "name": "Viruses",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Virus evolution",
     "scope": [
       "genomics",
       "microbiology"
