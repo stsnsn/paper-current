@@ -270726,5 +270726,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "薬剤耐性試験用膜の表面増強ラマン分光法",
     "abstract_ja": "はじめに薬剤耐性は世界的な重大な健康脅威であり、毎年数百万人の死亡原因となっている。従来の抗生物質感受性試験は、抗菌薬存在下における細菌の増殖検出に基づいている。これらの試験の完了には1〜2日を要するため、検査結果が出る前に経験的治療が開始されることが多い。細菌感染症の治療を最適化するためには、薬剤耐性の迅速検査が必要である。MTT試験とラマン分光法を組み合わせることで、10⁶〜10⁸ CFU/mLの細菌を用い、1.5時間で薬剤感受性試験を実施することが可能となる。本稿では、微量の細菌を対象とした新規の迅速抗生物質感受性試験について述べる。方法表面増強ラマン分光法（SERS）は、本試験の感度向上に寄与することが示唆されている。銀ナノ粒子をコーティングした膜を用いることで、MTT処理を施した細菌のSERSスペクトルを取得できる。これらの膜は、試料を表面に同時に濃縮させるとともに、532 nmまたは638 nmのレーザー照射下でSERSスペクトルを生成する。結果個々の細菌のスペクトルおよび大面積測定の双方が、薬剤耐性試験に有用な情報を提供した。本試験では、細菌力価を500 CFU/mLまで低下させることが可能である。全体の解析時間は1.5時間であった。考察本迅速高感度試験は、持続的な細菌培養を回避できるポイントオブケア用途において非常に有望である。"
+  },
+  {
+    "id": "10.1186/s42523-026-00658-2",
+    "title": "Western-style diet altered Salmonella infection pattern and changed infection-associated gut microbiome and liver bacterial in mice model",
+    "abstract": "The effect of Western-style diet (WSD) on Salmonella infection was investigated in this study. We utilized a WSD mice model, coupled with 16S rRNA and metagenomic sequencing for microbiota analysis, to investigate how WSD alters gut microbiota and liver-associated bacteria composition. We found that WSD feeding influence Salmonella burden in feces, and increased host mortality. This increase was associated with elevated extraintestinal translocation, involving both Salmonella and commensal bacteria. Interestingly, depleting gut microbiota with antibiotics rendered the mice equally susceptible to Salmonella infection, irrespective of their diets. Mechanistically, we observed that WSD feeding reduced the interspecies interaction of commensal bacteria negatively associated with Salmonella and increased intestinal permeability. Furthermore, Salmonella infection altered gut microbiota composition and function, particularly in mice fed with WSD. Additionally, we found that WSD not only boosted Salmonella translocation but also increased gut microbiota translocation into the liver, altering liver-associated bacteria composition and impairing liver function. In summary, our comprehensive investigation underscores the intricate connections between WSD, gut microbiota and Salmonella infection.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00658-2",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00658-2",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4924,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1186/s42523-026-00658-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bae99a05af8e445bc6484a0fd04afc00a42ac05baec4c8ebb6ee68e1e8578cf5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:48:14.283127+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "88730685b90226df7da1abade086f32da123492973f333b5bac7cb0ea58cd0a6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:48:14.283127+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "欧米型食生活によるサルモネラ感染パターンの変化と、マウスモデルにおける感染関連の腸内細菌叢および肝細菌叢の変化",
+    "abstract_ja": "本研究では、欧米型食事（WSD）がサルモネラ感染に及ぼす影響を検討した。WSDマウスモデルを用い、16S rRNAおよびメタゲノムシーケンシングによる微生物叢解析を組み合わせることで、WSDが腸内微生物叢および肝関連細菌の組成をどのように変化させるかを調査した。その結果、WSD給餌が糞便中のサルモネラ菌負荷量に影響を及ぼし、宿主の死亡率を上昇させることが明らかになった。この上昇は、サルモネラ菌と常在菌の双方が関与する腸管外移行の亢進に関連していた。興味深いことに、抗生物質によって腸内微生物叢を枯渇させたところ、食事内容に関わらず、マウスは同様にサルモネラ感染に対して感受性を示した。機序としては、WSD給餌がサルモネラ菌と負の相関を持つ常在菌間の種間相互作用を減少させ、腸管透過性を亢進させることが観察された。さらに、サルモネラ感染は、特にWSD給餌マウスにおいて腸内微生物叢の組成と機能を変化させた。加えて、WSDはサルモネラ菌の移行を促進するだけでなく、腸内微生物叢の肝臓への移行を増加させ、肝関連細菌の組成を変化させ、肝機能を損なうことも判明した。総括すると、本包括的な調査は、WSD、腸内微生物叢、およびサルモネラ感染の間の複雑な関連性を浮き彫りにするものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1933120",
+    "title": "Linking evaporitic crust texture to microbial community structure in a hypersaline environment",
+    "abstract": "IntroductionHypersaline evaporitic environments are considered terrestrial analogues for planetary settings, because they preserve mineralogical and biological signatures formed under extreme salinity, high UV radiation, and arid conditions. However, the relationships between the surface texture of evaporitic crusts and the underlying microbial communities are largely disregarded. In this study, we investigated the relationship between the texture of evaporitic crusts and the microbial community structure, affecting the biogeochemical processes in a hypersaline pan environment (Kudiakam Pan, Makgadikgadi Basin, Botswana).MethodsFive crust textures (i.e., silcrete pavement, tee-pee structures, irregular, wrinkled-up, bulbous crusts) were characterized using physical–chemical measurements and 16S rRNA gene metabarcoding, complemented by predicted functional profiles.ResultsPhysicochemical parameters showed pronounced spatial heterogeneity, with alkaline conditions throughout the study area. Bacterial and archaeal communities differed markedly between samples from the pan and the outside floor. Crust surface texture explained a large and significant fraction of the variation in bacterial community composition. Cyanobacterial communities showed particularly strong differentiation among textures, with Xenococcaceae predominating in silcrete pavement and tee-pee A crusts, and Nodosilineaceae, Nostocaceae, and Oscillatoriaceae enriched in irregular, wrinkled-up, and bulbous crusts. Functional prediction revealed widespread organic carbon degradation, sulfur cycling, and methanogenesis co-occurring with phototrophic activity.DiscussionThese findings indicate evaporite texture is associated with microbial community structure, making evaporitic crusts potentially informative samples for interpreting biosignatures on Mars.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1933120",
+    "date": "2026-11-16",
+    "authors": "C. Pacelli",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1933120",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "cyanobacteria",
+        "cyanobacterial",
+        "methanogen",
+        "methanogenesis",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4914,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.1933120"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a2a70fc29467bade53067bf686ffe2389d5d56b6e10a79e3a79e0c7c274076c3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:48:14.283127+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6dff6c15ab073c2a6587a42d4b30c4242b33cae2db85e0ca6e0496ae79a4b233",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:48:14.283127+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "超塩環境における蒸発岩地殻の組織と微生物群集構造の関連付け",
+    "abstract_ja": "はじめに高塩環境の蒸発岩環境は、極限的な塩分濃度、強い紫外線照射、および乾燥条件下で形成された鉱物学的・生物学的シグネチャーを保持しているため、惑星環境の地上アナログと考えられている。しかし、蒸発岩地殻の表面テクスチャと、その下層に存在する微生物群集との関係は、ほとんど顧みられてこなかった。本研究では、高塩パン環境（ボツワナ、マクガディカディ盆地、クディアカム・パン）において、蒸発岩地殻のテクスチャと微生物群集構造との関係、およびそれが生物地球化学的プロセスに及ぼす影響について調査した。方法5種類の地殻テクスチャ（すなわち、シルクリート舗装、ティーピー構造、不規則、しわ状、球状地殻）を、物理化学的測定および16S rRNA遺伝子メタバーコーディングを用いて特性評価し、予測された機能プロファイルによって補完した。結果物理化学的パラメータは顕著な空間的不均一性を示し、調査地域全域でアルカリ性条件であった。細菌群集および古細菌群集は、パン内部の試料と外部底部の試料との間で著しく異なっていた。地殻表面のテクスチャは、細菌群集組成の変動の大部分かつ有意な割合を説明していた。シアノバクテリア群集はテクスチャ間で特に強い分化を示し、シルクリート舗装およびティーピーA地殻ではゼノコッカス科が優勢であった一方、不規則、しわ状、および球状地殻ではノドシリネ科、ノスtoc科、およびオシレーターリア科が富集していた。機能予測の結果、光栄養活性と並行して、広範な有機炭素分解、硫黄循環、およびメタン生成が共起していることが明らかになった。考察これらの知見は、蒸発岩のテクスチャが微生物群集構造と関連していることを示しており、蒸発岩地殻が火星上のバイオシグネチャーを解釈する上で有用な試料となる可能性を示唆している。"
+  },
+  {
+    "id": "10.1007/s00248-026-02922-z",
+    "title": "Differential Responses in the Root Endophytic Microbiome of Resistant and Susceptible Ash (Fraxinus spp.) Species Infested by the Emerald Ash Borer (Agrilus planipennis)",
+    "abstract": "Plant endophytes are recognized to play important roles in defenses against insect pests, but little is known about how plant root endophytic microbes respond to aboveground herbivory and how these responses are influenced by host plant’s intrinsic resistance. To investigate this above-belowground biotic interaction, we conducted a common garden experiment using a native Manchurian ash (Fraxinus mandshurica) and a non-native velvet ash (Fraxinus velutina) species that are resistant and susceptible respectively to their major insect pest, emerald ash borer (EAB, Agrilus planipennis). We inoculated the two ash species with EAB eggs, and compared the consequences for their root endophytic bacterial and fungal communities before and after the egg inoculation. The species richness and Shannon diversity of root endophytic bacterial community did not differ between the two ash species before inoculation, but they became significantly higher in susceptible velvet ash than in resistant Manchurian ash following EAB egg inoculation. Root endophytic bacterial community composition was similar between the two ash species before the treatment, but differed significantly following EAB egg inoculation. In particular, Aeromicrobium showed a higher relative abundance in Manchurian ash than in velvet ash following the inoculation. The complexity of root endophytic bacterial co-occurrence networks was overall higher in Manchurian ash than in velvet ash, though the network complexity of both host species decreased after EAB inoculation. The results of predicted functional profiles suggested that relative abundances of bacterial taxa related to fermentation were higher in velvet ash than in Manchurian ash, regardless of the egg inoculation. On the other hand, the diversity, relative abundances of taxa, complexity of co-occurrence networks and the predicted functional profiles of fungal communities did not differ between host species or being influenced by egg inoculation. In summary, our study shows that, before EAB egg inoculation, resistant Manchurian ash and susceptible velvet ash differed in bacterial co-occurrence network structure, but not in community composition or alpha diversity. Following inoculation, differences in diversity and community composition emerged between the two host species. These findings contribute to a better understanding of the potential indirect interactions between aboveground herbivory and belowground endophytic microbiomes in relation to host plant resistance.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02922-z",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02922-z",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbe",
+        "microbes",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4927,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1007/s00248-026-02922-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ba796f5e5781767365cc977a2cf977c8ebc1967a3a8af56b38fa5cb4f8cc9eb5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:48:14.283127+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4d7e895d1631283ac63cd8890b47ea6903c6f1ef6e9c50e658710c0dd7a89bc7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:48:14.283127+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アオナガタマバエ（Agrilus planipennis）に寄生された抵抗性および感受性トネリコ属（Fraxinus spp.）種の根内共生微生物叢における応答の差異",
+    "abstract_ja": "植物内生菌は、害虫に対する防御において重要な役割を果たすことが知られているが、植物根内生微生物が地上部の食害にどのように応答し、それらの応答が宿主植物の固有の抵抗性によってどのような影響を受けるかについては、ほとんど解明されていない。この地上部と地下部の生物間相互作用を調査するため、我々は、主要な害虫であるアオナガタマムシ（EAB, Agrilus planipennis）に対してそれぞれ抵抗性と感受性を示す在来種のマンシュウトネリコ（Fraxinus mandshurica）と、外来種のビロードトネリコ（Fraxinus velutina）を用いて、一般的な園芸実験を行った。これら2種のトネリコにEAB卵を接種し、接種前後における根内生細菌および真菌群集への影響を比較した。根内生細菌群集の種豊富度とシャノン多様性は、接種前は両種間で差が認められなかったが、EAB卵接種後には、抵抗性のマンシュウトネリコよりも感受性のビロードトネリコにおいて有意に高くなった。根内生細菌群集の組成は、処理前は両種間で同様であったが、EAB卵接種後には有意に異なった。特に、Aeromicrobiumは、接種後、ビロードトネリコよりもマンシュウトネリコにおいて相対存在量が高かった。根内生細菌の共起ネットワークの複雑性は、全体としてビロードトネリコよりもマンシュウトネリコで高かったが、両宿主種ともにEAB接種後にネットワークの複雑性は低下した。予測された機能プロファイルの結果から、卵の接種の有無にかかわらず、発酵に関連する細菌分類群の相対存在量は、マンシュウトネリコよりもビロードトネリコで高いことが示唆された。一方で、真菌群集の多様性、分類群の相対存在量、共起ネットワークの複雑性、および予測された機能プロファイルについては、宿主種間で差は認められず、卵の接種による影響も見られなかった。要約すると、本研究は、EAB卵接種前において、抵抗性のマンシュウトネリコと感受性のビロードトネリコでは細菌共起ネットワークの構造に差異が見られたものの、群集組成やアルファ多様性には差がなかったことを示した。接種後には、両宿主種間で多様性と群集組成に差異が現れた。これらの知見は、宿主植物の抵抗性に関連した、地上部の食害と地下部の内生微生物叢との間の潜在的な間接的相互作用の理解を深めることに寄与するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msystems.00725-26",
+    "title": "Emergence of an East China lineage of <i>Chlamydia psittaci</i> with accelerated evolution and zoonotic potential: a multi-center, genomic epidemiological study.",
+    "abstract": "Chlamydia psittaci is a zoonotic pathogen that can cause severe human respiratory infections. To assess its genetic diversity and zoonotic risk, we screened 1,525 samples from humans, poultry, and wild birds in East China (EC) during 2020-2023 and recovered 41 genomes using a targeted capture assay, together with 103 publicly available genomes. Phylogenomic analysis identified a distinct whole-genome lineage, designated the EC lineage, that was significantly enriched among human-derived isolates relative to other lineages. The EC lineage showed an elevated substitution rate, extensive recombination, and multiple Chlamydia abortus-like genomic regions, indicating a distinctive evolutionary history. Genetically linked poultry-human clusters were consistent with recent cross-host transmission, whereas the potential for human-to-human transmission remains unresolved. Strengthened genomic surveillance is warranted to monitor this lineage.IMPORTANCEChlamydia psittaci is a bird-associated pathogen that can cause severe respiratory disease in humans, yet its local evolution and transmission between animals and humans remain poorly understood. Here, we identify a distinct lineage circulating mainly in East China that is disproportionately represented among human infections and is genetically linked to poultry isolates. This lineage also shows unusually extensive genomic change, including recombination and regions similar to those found in the related species Chlamydia abortus. These findings highlight poultry as an important interface for monitoring emerging C. psittaci lineages and demonstrate the value of genomic surveillance for detecting pathogen variants with increased relevance to human health. The study provides a framework for integrating animal and human surveillance within a One Health strategy.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.00725-26",
+    "date": "2026-11-09",
+    "authors": "Yao W, Li S, Li H, Yang Z, Wang L, Wu Z, Shi G, Song K, Yang H, Xia S, Wu B, Song Y, Zhou Z.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001897",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001897",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4882,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1128/msystems.00725-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7d347706a8110353be725109460e19ce826761ad7f611b5965c1027aaaca8e47",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:48:14.283127+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f7403098d391ebaef00584a98a485404b5c5e8fb52caa854094a195712d9bfb6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:48:14.283127+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "進化が加速し人獣共通感染の可能性を有する<i>Chlamydia psittaci</i>の華東系統の出現：多施設共同ゲノム疫学研究",
+    "abstract_ja": "Chlamydia psittaciは、ヒトに重篤な呼吸器感染症を引き起こし得る人獣共通感染症病原体である。本菌の遺伝的多様性と人獣共通感染リスクを評価するため、2020年から2023年にかけて中国東部（EC）のヒト、家禽、および野生鳥類から採取した1,525検体をスクリーニングし、標的捕捉アッセイを用いて41のゲノムを回収したほか、公開されている103のゲノムも用いた。系統ゲノム解析により、他の系統と比較してヒト由来の分離株において有意に濃縮された、EC系統と命名された明確な全ゲノム系統が同定された。EC系統は、置換率の上昇、広範な組換え、および複数のChlamydia abortus様ゲノム領域を示しており、特徴的な進化史を有していることが示唆された。遺伝的に連鎖した家禽・ヒトクラスターは、近年の宿主間伝播と一致していたが、ヒトからヒトへの伝播の可能性については依然として未解明である。本系統を監視するため、ゲノムサーベイランスの強化が必要である。重要性Chlamydia psittaciは、ヒトに重篤な呼吸器疾患を引き起こし得る鳥類関連病原体であるが、その地域的な進化および動物・ヒト間の伝播については十分に解明されていない。本研究では、主に中国東部で循環し、ヒトの感染症において不釣り合いに高頻度に認められるとともに、家禽分離株と遺伝的に連鎖している明確な系統を同定した。この系統はまた、組換えや近縁種であるChlamydia abortusに見られる領域に類似した領域を含む、異例に広範なゲノム変化を示している。これらの知見は、家禽が新興のC. psittaci系統を監視するための重要な接点であることを浮き彫りにし、ヒトの健康への関連性が高まった病原体変異株を検出する上でのゲノムサーベイランスの有用性を実証するものである。本研究は、ワンヘルス戦略において動物およびヒトのサーベイランスを統合するための枠組みを提供するものである。"
   }
 ]
