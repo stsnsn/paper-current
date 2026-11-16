@@ -271030,5 +271030,292 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "進化が加速し人獣共通感染の可能性を有する<i>Chlamydia psittaci</i>の華東系統の出現：多施設共同ゲノム疫学研究",
     "abstract_ja": "Chlamydia psittaciは、ヒトに重篤な呼吸器感染症を引き起こし得る人獣共通感染症病原体である。本菌の遺伝的多様性と人獣共通感染リスクを評価するため、2020年から2023年にかけて中国東部（EC）のヒト、家禽、および野生鳥類から採取した1,525検体をスクリーニングし、標的捕捉アッセイを用いて41のゲノムを回収したほか、公開されている103のゲノムも用いた。系統ゲノム解析により、他の系統と比較してヒト由来の分離株において有意に濃縮された、EC系統と命名された明確な全ゲノム系統が同定された。EC系統は、置換率の上昇、広範な組換え、および複数のChlamydia abortus様ゲノム領域を示しており、特徴的な進化史を有していることが示唆された。遺伝的に連鎖した家禽・ヒトクラスターは、近年の宿主間伝播と一致していたが、ヒトからヒトへの伝播の可能性については依然として未解明である。本系統を監視するため、ゲノムサーベイランスの強化が必要である。重要性Chlamydia psittaciは、ヒトに重篤な呼吸器疾患を引き起こし得る鳥類関連病原体であるが、その地域的な進化および動物・ヒト間の伝播については十分に解明されていない。本研究では、主に中国東部で循環し、ヒトの感染症において不釣り合いに高頻度に認められるとともに、家禽分離株と遺伝的に連鎖している明確な系統を同定した。この系統はまた、組換えや近縁種であるChlamydia abortusに見られる領域に類似した領域を含む、異例に広範なゲノム変化を示している。これらの知見は、家禽が新興のC. psittaci系統を監視するための重要な接点であることを浮き彫りにし、ヒトの健康への関連性が高まった病原体変異株を検出する上でのゲノムサーベイランスの有用性を実証するものである。本研究は、ワンヘルス戦略において動物およびヒトのサーベイランスを統合するための枠組みを提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1947043",
+    "title": "Generation and characterization of monoclonal antibodies against pseudorabies virus glycoprotein E and mapping of conserved epitopes",
+    "abstract": "As a major pathogen threatening the global swine industry, pseudorabies virus (PRV) has been extensively studied, with its glycoprotein E (gE) recognized as a well-characterized virulence factor and a critical target for diagnostic development. However, well-characterized gE-specific monoclonal antibodies remain scarce, and the gE epitope regions characterized so far are limited in number and diversity, which together hinder the development of gE-based detection reagents. In this study, the gE gene from the epidemiologically relevant PRV strain HeNLH/2017 was codon-optimized and expressed in human embryonic kidney 293F (HEK293F) cells to obtain recombinant gE with native-like folding and post-translational modifications, thereby increasing the likelihood of raising monoclonal antibodies (mAbs) that recognize authentic PRV. Using hybridoma technology, six gE-specific monoclonal antibodies (mAbs) were generated and characterized. Their reactivity and specificity were verified by indirect ELISA, immunoperoxidase monolayer assay (IPMA), and Western blotting. All six mAbs reacted with wild-type PRV but not with the gE-deleted vaccine strain. Dot-blot analysis using overlapping synthetic peptides covering the extracellular domain of gE mapped the binding sites of these mAbs, identifying six preliminary linear B-cell epitope regions, which were 100% identical among the seven classical and variant PRV strains analyzed. A preliminary double-mAb sandwich colloidal gold immunochromatographic strip was further assembled and evaluated using two of the six mAbs; the strip reacted with purified recombinant gE and intact wild-type PRV virions but not with the gE-deleted vaccine strain or negative controls. These findings expand the gE antigenic repertoire and provide candidate reagents and a foundation for developing gE-based detection methods; further analytical and clinical validation is required.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1947043",
+    "date": "2026-11-16",
+    "authors": "Liu Yunchao",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1947043",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4915,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.1947043"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4869c24303036901db90080c21b8a32e89afa241e52119c86dde273797002118",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:51:02.208312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "75dbf88cff21fe2954e81182d1bb6af6ebf5739202e9304fc8ec2df34ac01d72",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:51:02.208312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "偽狂犬病ウイルス糖タンパク質Eに対するモノクローナル抗体の作製と特性解析、および保存エピトープのマッピング",
+    "abstract_ja": "世界の養豚産業を脅かす主要な病原体である偽狂犬病ウイルス（PRV）は広範に研究されており、その糖タンパク質E（gE）は十分に特性解析された病原性因子であり、診断法開発の重要な標的として認識されている。しかし、十分に特性解析されたgE特異的モノクローナル抗体は依然として少なく、これまで特性解析されたgEエピトープ領域は数と多様性が限られており、これらが相まってgEベースの検出試薬の開発を妨げている。本研究では、疫学的に重要なPRV株HeNLH/2017由来のgE遺伝子をコドン最適化し、ヒト胚性腎293F（HEK293F）細胞で発現させることで、天然型に近いフォールディングと翻訳後修飾を有する組換えgEを得て、真正PRVを認識するモノクローナル抗体（mAb）を作製できる可能性を高めた。ハイブリドーマ技術を用いて、6種類のgE特異的モノクローナル抗体（mAb）を作製し、特性解析を行った。その反応性と特異性は、間接ELISA、免疫ペルオキシダーゼ単層アッセイ（IPMA）、およびウェスタンブロッティングにより検証した。6種類のmAbはいずれも野生型PRVとは反応したが、gE欠損ワクチン株とは反応しなかった。gEの細胞外ドメインをカバーするオーバーラップ合成ペプチドを用いたドットブロット解析により、これらのmAbの結合部位をマッピングし、6つの予備的な線状B細胞エピトープ領域を同定した。これらの領域は、解析した7種類の古典的および変異型PRV株間で100%同一であった。さらに、予備的な二重mAbサンドイッチコロイド金免疫クロマトグラフィーストリップを作製し、6種類のmAbのうち2種類を用いて評価したところ、このストリップは精製組換えgEおよび完全な野生型PRVビリオンとは反応したが、gE欠損ワクチン株や陰性対照とは反応しなかった。これらの知見は、gE抗原レパートリーを拡充し、gEベースの検出法開発のための候補試薬および基盤を提供するものであり、さらなる解析的および臨床的検証が必要である。"
+  },
+  {
+    "id": "10.1007/s00248-026-02931-y",
+    "title": "Soil Microbial Carbon Fixation Capacity Across Contrasting Restoration Contexts in Yellow River Delta Wetlands: Associations with Soil Conditions and Carbon-Fixing Communities",
+    "abstract": "Microbial carbon fixation is important for soil carbon sequestration in coastal wetlands. Ecological restoration has been widely implemented to recover the structure and functioning of degraded coastal wetlands, yet its effects on microbial carbon fixation remain insufficiently understood. To address this knowledge gap, we analyzed changes in soil physicochemical properties, carbon fractions, microbial carbon fixation potential, and carbon-fixing microbial community composition and functions in freshwater-restored wetlands (FRZ), Suaeda salsa-restored wetlands (SRZ), and natural Suaeda salsa zone used as the unrestored reference (NSZ) in the Yellow River Delta. Compared with NSZ, FRZ generally showed higher microbial carbon fixation rates, whereas microbial carbon fixation in SRZ was relatively constrained, particularly in autumn. The mean fixation rate across the four sampling seasons was 3.6 times higher in FRZ than in SRZ. Carbon-fixing community composition differed among restoration zones, with Ignavibacterium and Desulfatitalea enriched in FRZ and Candidatus Promineifilum and Nitrospira enriched in SRZ. The enrichment of the Calvin cycle and its key genes, cbbL and cbbM, in FRZ may be associated with reduced soil salinity and increased dissolved organic carbon (DOC) content. The weakened Calvin cycle and relative enrichment of the 3-hydroxypropionate (3-HP) cycle in SRZ may be associated with reduced DOC availability and elevated nitrate concentrations. Overall, different restoration strategies may influence microbial carbon fixation potential in coastal wetland soils by altering key soil conditions, particularly salinity, DOC, and nitrate. These findings improve our understanding of how restoration-associated soil conditions are linked to microbially mediated carbon sequestration and provide insights for managing coastal wetland carbon sink functions.\n                     Graphical abstract",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02931-y",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02931-y",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4928,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1007/s00248-026-02931-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d45a3e23e4e48852823443b0968a9096831b48ac70e706f481e9b102b7150ed2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:51:02.208312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6052000ea2a2884cf98e3a79b89363cdcf94cf51524d1dc746d09086776a4d74",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:51:02.208312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "黄河デルタ湿地における対照的な復元環境間の土壌微生物炭素固定能：土壌条件および炭素固定群集との関連性",
+    "abstract_ja": "微生物による炭素固定は、沿岸湿地における土壌炭素隔離において重要である。劣化した沿岸湿地の構造と機能を回復させるため、生態学的復元が広く実施されてきたが、微生物による炭素固定への影響については依然として十分に解明されていない。この知見の空白を埋めるため、我々は黄河デルタの淡水復元湿地（FRZ）、Suaeda salsa復元湿地（SRZ）、および未復元の基準地（NSZ）として用いた自然のSuaeda salsa帯において、土壌の物理化学的特性、炭素分画、微生物による炭素固定能、ならびに炭素固定微生物群集の組成と機能の変化を解析した。NSZと比較して、FRZでは一般に微生物による炭素固定速度が高かった一方、SRZにおける微生物による炭素固定は、特に秋季において相対的に抑制されていた。4つのサンプリングシーズンにわたる平均固定速度は、FRZでSRZの3.6倍であった。炭素固定群集の組成は復元帯によって異なり、FRZではIgnavibacteriumおよびDesulfatitaleaが、SRZではCandidatus PromineifilumおよびNitrospiraが富集していた。FRZにおけるカルビン回路およびその主要遺伝子であるcbbLおよびcbbMの富集は、土壌塩分濃度の低下および溶存有機炭素（DOC）含有量の増加に関連している可能性がある。SRZにおけるカルビン回路の弱体化および3-ヒドロキシプロピオン酸（3-HP）回路の相対的な富集は、DOC利用可能性の低下および硝酸塩濃度の上昇に関連している可能性がある。総じて、異なる復元戦略は、特に塩分濃度、DOC、および硝酸塩といった主要な土壌条件を変化させることで、沿岸湿地土壌における微生物による炭素固定能に影響を及ぼし得る。これらの知見は、復元に伴う土壌条件が微生物介在性の炭素隔離にどのように結びついているかについての理解を深め、沿岸湿地の炭素吸収源機能の管理に向けた知見を提供するものである。\n                     グラフィカルアブストラクト"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41592-026-03299-0",
+    "title": "abcFISH enables multiplexed, single-molecule visualization of circular RNA spatial heterogeneity.",
+    "abstract": "Understanding the subcellular localization of RNAs is critical for their functions, but visualizing circular RNAs (circRNAs) has been hindered by their sequence overlap with linear counterparts. Here we developed amplicon-based circRNA fluorescence in situ hybridization (abcFISH), which uses an optimized rolling-circle amplification strategy targeting back-splicing junction sites for robust, high specificity, single-molecule circRNA imaging. abcFISH enables quantitative, multiplexed imaging in cells and tissues, allowing us to reveal alternative circularization patterns from the single locus, uncover cell-type-specific circRNA expression linked to combinatorial effects of RNA-binding proteins, map distinct spatial distribution patterns of circRNAs in neurons and brain tissues, and show functional colocalization of circRNA Cdr1as and long noncoding RNA Cyrano. We further applied abcFISH to validate therapeutic double-stranded circRNA aptamers, simultaneously visualizing AAV-delivered double-stranded circRNA aptamers and the resulting reduction in astrocyte infiltration around transduced cells. Collectively, abcFISH provides a robust, user-friendly toolkit for deciphering circRNA localization and function in vivo.",
+    "journal": "Nature Methods",
+    "doi": "10.1038/s41592-026-03299-0",
+    "date": "2026-11-05",
+    "authors": "Liu YX, Jiang BW, Liu KM, Yang L, Chen LL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988873",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988873",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "visualization"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4900,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41592-026-03299-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cf87383f4cca7a36a0fac328ea20fe8930a449bf309532234fd5543893058284",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:51:02.208312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5137529df786dbb25c079ff522139d481a544d0e19fc18d7ea75dd6ed3bd4b8b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:51:02.208312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "abcFISHは、環状RNAの空間的不均一性の多重化・単一分子可視化を可能にする。",
+    "abstract_ja": "RNAの細胞内局在の解明はその機能にとって極めて重要であるが、環状RNA（circRNA）の可視化は、線状RNAとの配列の重複によって妨げられてきた。本研究では、バックスプライシング接合部位を標的とした最適化されたローリングサークル増幅戦略を用い、堅牢かつ高特異性の高い単一分子circRNAイメージングを実現するアンプリコンベースのcircRNA蛍光in situハイブリダイゼーション（abcFISH）を開発した。abcFISHは、細胞および組織における定量的かつ多重イメージングを可能にし、単一遺伝子座からの代替的な環状化パターンの解明、RNA結合タンパク質の組み合わせ効果に関連する細胞種特異的なcircRNA発現の解明、神経細胞および脳組織におけるcircRNAの明確な空間分布パターンのマッピング、ならびにcircRNA Cdr1asと長鎖非コードRNA Cyranoの機能的な共局在の提示を可能にする。さらに、abcFISHを治療用二本鎖circRNAアプタマーの検証に適用し、AAVにより送達された二本鎖circRNAアプタマーと、その結果生じたトランスデュース細胞周囲のアストロサイト浸潤の減少を同時に可視化した。総じて、abcFISHは、in vivoにおけるcircRNAの局在と機能を解明するための、堅牢で使い勝手の良いツールキットを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pgen.1012332",
+    "title": "Transcriptome- and methylome-wide association studies prioritized lung cancer genes in East Asian populations.",
+    "abstract": "The relationship between gene expression, DNA methylation, and lung cancer remains elusive in East Asian (EAS) populations. Transcriptome- and methylome-wide association studies (TWAS/MWAS) help uncover gene-trait associations by integrating multi-omics data, yet models trained mainly on European references limit cross-population generalizability. To address this, we developed EAS-specific gene expression and DNA methylation prediction models using whole-blood data from over 800 and 4,300 individuals, respectively. Applying these to lung cancer GWAS from Nanjing Medical University (13,327 cases; 13,328 controls) and Biobank Japan (4,444 cases; 489,012 controls), we identified 25 genes and 42 CpGs associated with lung cancer risk in the discovery stage, with seven genes and 32 CpGs replicated. Three novel genes outside known GWAS loci-RP11-57K17.1 (6q22.31), RP11-313J2.1 (10q11.21), and BMS1P2 (10q11.22)-were identified. In addition, Mendelian randomization analyses suggested that methylation-mediated downregulation of RP11-147L13.11 can reduce lung cancer risk. Our study reveals new susceptibility genes and offers insights into genetic-epigenetic regulatory mechanisms in lung cancer among EAS populations.",
+    "journal": "PLOS Genetics",
+    "doi": "10.1371/journal.pgen.1012332",
+    "date": "2026-11-06",
+    "authors": "Hao X, Qu M, Jiang Y, Wang C, Zhu Z, Long P, Wang C, Ma H, Cheng S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42993701",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13742947",
+    "pmid": "42993701",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4890,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1371/journal.pgen.1012332"
+    ],
+    "translation": {
+      "title": {
+        "hash": "02bf153a655fe90c063e151332394ae7d60e0a04542844366d734f19a5b8a6f8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:51:02.208312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2015e67c7a743973f535ee551b056c222cffbd054d59cb0e6031e6542eabd82c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:51:02.208312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トランスクリプトームおよびメチローム全域にわたる関連解析により、東アジア集団における肺がん遺伝子が優先的に同定された。",
+    "abstract_ja": "東アジア（EAS）集団における遺伝子発現、DNAメチル化、および肺がんの関連性は依然として解明されていない。トランスクリプトームおよびメチローム全域にわたる関連解析（TWAS/MWAS）は、マルチオミクスデータを統合することで遺伝子と形質の関連を明らかにするのに役立つが、主に欧州のリファレンスに基づいて構築されたモデルでは、集団間の一般化可能性が制限される。この課題に対処するため、我々はそれぞれ800人以上および4,300人以上の全血データを用いて、EAS特異的な遺伝子発現およびDNAメチル化予測モデルを開発した。これらを南京医科大学（症例数13,327例、対照群13,328例）およびバイオバンク・ジャパン（症例数4,444例、対照群489,012例）の肺がんGWASに適用した結果、探索段階で肺がんリスクに関連する25個の遺伝子と42箇所のCpGを同定し、そのうち7個の遺伝子と32箇所のCpGが再現された。既知のGWAS遺伝子座外の新規遺伝子として、RP11-57K17.1 (6q22.31)、RP11-313J2.1 (10q11.21)、およびBMS1P2 (10q11.22) の3つが同定された。さらに、メンデルランダム化解析により、RP11-147L13.11のメチル化介在性の発現抑制が肺がんリスクを低減し得ることが示唆された。本研究は、新たな感受性遺伝子を明らかにするとともに、EAS集団における肺がんの遺伝的・エピジェネティックな調節機構に関する知見を提供するものである。"
   }
 ]
