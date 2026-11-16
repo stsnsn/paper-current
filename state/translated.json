@@ -265733,5 +265733,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "キャップ特異的N6-アデノシンメチルトランスフェラーゼとm6Aキャップ-1 mRNA合成への応用",
     "abstract_ja": "5’ Cap-1構造に加え、哺乳類mRNAの開始アデノシンは、PCIF1（リン酸化C末端ドメイン相互作用因子1）によってさらに修飾され、2’-O,N6-ジメチルアデノシン（m6A Cap-1）を形成することができる。その生物学的役割については現在も研究が進められているが、mRNA代謝およびウイルス・宿主相互作用におけるm6A Cap-1の意義から、PCIF1およびm6A Cap-1はバイオマーカー、創薬標的、および研究ツールとして注目を集めている。本研究では、PCIF1様のキャップ特異的N6-アデノシンメチルトランスフェラーゼであるPC04およびPC05を同定・特性解析し、in vitroにおけるm6A Cap-1 mRNA合成への適用可能性を評価した。その結果、両酵素ともにm7Gキャップ構造に対して極めて高い特異性を有し、ナノモル濃度においてCap-1 RNAオリゴヌクレオチドおよびトリヌクレオチドCap-1アナログに対して高い活性を示すことが明らかとなった。また、PC04またはPC05によるメチル化反応を、確立された転写後キャッピングおよびキャップアナログに基づく共転写性in vitro転写（IVT）ワークフローに組み込むことで、m6A Cap-1 RNAを作製できることを実証した。最後に、PC05を既報のFCE::T7 RNAポリメラーゼ融合体と組み合わせることで、DNAテンプレートから共転写的に単一ステップでm6A Cap-1 mRNAを合成できることを示した。PCIF1様キャップN6-アデノシンメチルトランスフェラーゼの堅牢性は、キャップm6A修飾の生物学的役割に関する研究や、極めて効果的なmRNAベースの治療薬の開発を加速させ得る。  Graphical Abstract"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760950",
+    "title": "Root gene regulatory network analysis reveals roles for defense hormones and secondary metabolites in establishment of disease-suppressive soil",
+    "abstract": "Summary  Plants recruit beneficial microbiota in their rhizosphere to alleviate stresses. In  Arabidopsis thaliana , foliar infection by  Hyaloperonospora arabidopsidis (  Hpa ) has been shown to establish a disease-suppressive microbiome that promotes protection against  Hpa infection of the subsequent plant generation grown in this conditioned soil - a phenomenon known as soil-borne legacy (SBL). The root responses involved in SBL establishment have remained largely unclear.  In this study, time-series RNA-seq of roots from  Hpa -infected plants grown in natural soil was conducted over seven days post-inoculation. A gene regulatory network of the responding roots was constructed. The role of predicted key components was verified in follow-up assays.  Root transcriptional reprogramming started within one day after foliar infection. Genes associated with salicylic acid (SA)-mediated defense were upregulated, while those linked to secondary metabolism and jasmonic acid (JA) responsiveness were downregulated. SA accumulation increased at 1 dpi, and JA decreased by 3 dpi. Transcriptional regulation occurred primarily in the tips of the roots. Mutant analyses confirmed that SA, JA, indole glucosinolates, camalexin, and flavonoids contribute to SBL establishment. Our findings reveal rapid systemic transcriptional reprogramming in roots upon foliar pathogen attack, uncovering novel roles of hormone signaling and secondary metabolism in shaping a disease-suppressive soil beyond their known defense functions.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760950",
+    "date": "2026-10-23",
+    "authors": "Qi R, Glavincheska I, Spooren J, Liu X, Van Laatum M, Verstappen F, Kappers IF, Berendsen RL, Pieterse CM, Van Wees SC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349216",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2665,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.760950"
+    ],
+    "translation": {
+      "title": {
+        "hash": "35034fddd806c3bafc6ae8119a01e16d0711dc0c8826338a704f947ed113de72",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:34:54.289847+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74bb85270d7b7cdc04e13cce1bedde2c72fb4ffd83f371855490eefa3bb178ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:34:54.289847+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "根の遺伝子制御ネットワーク解析から明らかになった、病害抑制土壌の形成における防御ホルモンと二次代謝産物の役割",
+    "abstract_ja": "要旨  植物はストレスを軽減するため、根圏に有益な微生物叢を誘引する。シロイヌナズナにおいて、Hyaloperonospora arabidopsidis (Hpa) による葉面感染は、条件付けされた土壌で育成された次世代の植物においてHpa感染に対する防御を促進する、病害抑制性マイクロバイオームを形成することが示されており、この現象は土壌伝播レガシー (SBL) として知られている。SBLの形成に関与する根の応答については、これまで大部分が不明であった。本研究では、自然土壌で育成したHpa感染植物の根を対象に、接種後7日間にわたる時系列RNA-seqを実施した。応答する根の遺伝子調節ネットワークを構築した。予測された主要構成要素の役割を、後続のアッセイにより検証した。根の転写リプログラミングは、葉面感染後1日以内に開始された。サリチル酸 (SA) 介在性防御に関連する遺伝子が発現上昇し、一方で二次代謝およびジャスモン酸 (JA) 応答に関連する遺伝子は発現低下した。SAの蓄積は1 dpiで増加し、JAは3 dpiで減少した。転写調節は主に根端で起こった。変異体解析により、SA、JA、インドールグルコシノレート、カマレクシン、およびフラボノイドがSBLの形成に寄与していることが確認された。本研究の知見は、葉面への病原体攻撃に伴い根で迅速な全身性転写リプログラミングが起こることを明らかにし、既知の防御機能を超えて、病害抑制性土壌を形成する上でのホルモンシグナル伝達および二次代謝の新たな役割を解明するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760092",
+    "title": "NAD metabolism mediates a sex-specific protection against early life infections",
+    "abstract": "Sex influences early-life immunity and infection outcomes, yet how metabolic mechanisms regulate these effects remain unclear. As nicotinamide adenine dinucleotide (NAD) can support mitochondrial metabolism and immune function, here we explore how NAD metabolism contributes to sex-specific protection against infections in early life. First, in two independent cohorts of 700 and 386 children, we found that females at birth had higher blood NAD levels than males, and strikingly higher birth NAD levels were associated with reduced infection burdens during the first 3 years of life in females, but with tendency of increased burdens in males. At 18 months, plasma nicotinamide associated with sex-specific cytokine responses to antigen challenges and showed a stronger positive association with tricarboxylic acid cycle (TCA) activity in females. Next, we verified the causal effects of NAD metabolism on infection protection by testing the supplementation of NAD precursor nicotinamide riboside (NR) in infected newborn piglets, used as a translational model of infection-sensitive infants. NR treatment improved survival, bacterial clearance, and disease tolerance only in females, but not in males. Mechanistically, NR increased levels of hepatic TCA cycle metabolites fumarate and malate, and enhanced hepatic inflammatory, hormonal, and mitochondrial-associated transcriptional programs, again only in females. Finally, the sex-specific immune functions mediated by NR were also validated in blood and immune cells  in vitro . Collectively, we identified NAD metabolism as a sex-dependent immunometabolic mediator in early-life infection. Our findings suggest the potential of sex-stratified nutritional interventions in infection-sensitive infants.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760092",
+    "date": "2026-10-23",
+    "authors": "Klabunde B, Olsen KA, Spiegelhauer M, Kellezi ED, Memushaj A, Thysen AH, Long NP, Brix S, Pedersen C, Bønnelykke K, Chawes B, Treebak J, Bæk O, Nguyen DN.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349204",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2666,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.760092"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d766fb90efe44cdfd2067184b9b82125ecdff3a173c35c87d3f43d800ddbd56a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:34:54.289847+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8c4e0ee15f46fffa63751daef208b783d171f10926e860de7d9fbde262466928",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:34:54.289847+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NAD代謝は、生後早期の感染症に対する性特異的な防御機構を媒介する。",
+    "abstract_ja": "性は生後早期の免疫および感染転帰に影響を及ぼすが、代謝機構がこれらの効果をどのように調節しているかは依然として不明である。ニコチンアミドアデニンジヌクレオチド（NAD）はミトコンドリア代謝および免疫機能をサポートし得るため、本研究では、NAD代謝が生後早期の性特異的な感染防御にどのように寄与するかを検討した。まず、700例および386例の小児からなる2つの独立したコホートにおいて、出生時の血中NAD濃度は男児よりも女児の方が高く、顕著に高い出生時NAD濃度は、女児では生後3年間の感染負荷の軽減と関連していたが、男児では負荷が増加する傾向が認められた。18か月時点では、血漿中ニコチンアミド濃度は抗原負荷に対する性特異的なサイトカイン応答と関連しており、女児ではトリカルボン酸回路（TCA）活性とより強い正の相関を示した。次に、感染感受性乳児のトランスレーショナルモデルとして用いられる感染新生子豚に対し、NAD前駆体であるニコチンアミドリボシド（NR）を補充することで、NAD代謝が感染防御に及ぼす因果的効果を検証した。NR投与は、女児においてのみ生存率、細菌除去能、および疾患耐性を改善したが、男児では改善が認められなかった。機序的には、NRは肝TCA回路代謝物であるフマル酸およびリンゴ酸の濃度を上昇させ、肝炎症、ホルモン、およびミトコンドリア関連転写プログラムを亢進させたが、これらも同様に女児においてのみ認められた。最後に、NRによって媒介される性特異的な免疫機能を、in vitroの血液および免疫細胞においても検証した。総じて、我々はNAD代謝を生後早期の感染における性依存的な免疫代謝媒介因子として同定した。本知見は、感染感受性乳児に対する性層別栄養介入の可能性を示唆するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11198364/v1",
+    "title": "Drp1 deficiency enhances macrophage efferocytosis and partially restores gut microbial dysbiosis in colitis",
+    "abstract": "Abstract    Dynamin-related protein 1 (Drp1) is a key regulator of mitochondrial fission, but its role in intestinal macrophages and gut microbial homeostasis during colitis remains unclear. Herein, Drp1 expression was increased in intestinal macrophages from patients with ulcerative colitis and mice with dextran sulfate sodium (DSS)-induced colitis, as demonstrated by transcriptomic, single-cell, and immunofluorescence analyses. To determine its functional role, colitis was induced in conditional Drp1 knockout mice and littermate controls. Macrophage Drp1 deficiency reduced disease activity, colon shortening, histopathological injury, and mucus barrier disruption. Colonic transcriptomic profiling further revealed reduced inflammatory signaling and enrichment of pathways related to macrophage differentiation, apoptotic-cell clearance, and efferocytosis. Consistently, Drp1-deficient macrophages exhibited enhanced apoptotic-cell uptake  in vitro  . Furthermore, 16S rRNA sequencing showed that Drp1 deficiency partially reversed colitis-associated alterations in gut microbial community structure, without significantly affecting overall alpha diversity. This microbial remodeling was characterized by increased  Akkermansia  and  Muribaculaceae  , while reduced  Escherichia-Shigella  and  Enterococcus  . Collectively, these findings indicate that Drp1 deficiency attenuates acute colitis by reshaping macrophage functional states and enhancing efferocytosis, while being associated with improved mucosal integrity and partial restoration of gut microbial dysbiosis.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11198364/v1",
+    "date": "2026-10-23",
+    "authors": "Huang C, Liao Y, Zhang Y, Guo X, Xiang L, Zhang L, Ye Z, Zhao Y, Li Y, Zhou Y, Zhou Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348993",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Escherichia",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2667,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11198364/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bf0f0bae35b9c6e70b0a23edb7506e6a941a50b7409f4e27324b36527232b16a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:34:54.289847+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8920fdc94e6896b70aef6f336f82547320268440178b2624d174355b709fddab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:34:54.289847+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Drp1欠損は大腸炎におけるマクロファージのエフェロサイトーシスを亢進させ、腸内細菌叢の乱れを部分的に回復させる",
+    "abstract_ja": "要旨    ダイナミン関連タンパク質1（Drp1）はミトコンドリア分裂の主要な調節因子であるが、大腸炎における腸管マクロファージおよび腸内細菌叢の恒常性におけるその役割は依然として不明である。本研究では、トランスクリプトーム解析、シングルセル解析、および免疫蛍光解析により、潰瘍性大腸炎患者およびデキストラン硫酸ナトリウム（DSS）誘発性大腸炎マウスの腸管マクロファージにおいてDrp1の発現が亢進していることを明らかにした。その機能的役割を明らかにするため、条件付きDrp1ノックアウトマウスおよび同腹仔対照群において大腸炎を誘発した。マクロファージのDrp1欠損は、疾患活動性、結腸の短縮、組織病理学的損傷、および粘液バリアの破綻を軽減した。結腸のトランスクリプトームプロファイリングにより、炎症性シグナル伝達の低下と、マクロファージ分化、アポトーシス細胞の除去、およびエフェロサイトーシスに関連するパスウェイの濃縮がさらに認められた。一貫して、Drp1欠損マクロファージはin vitroにおいてアポトーシス細胞の取り込み亢進を示した。さらに、16S rRNAシーケンシングにより、Drp1欠損は全体的なα多様性に有意な影響を及ぼさずに、大腸炎に伴う腸内細菌叢構造の変化を部分的に逆転させることが示された。この微生物叢のリモデリングは、Akkermansia属およびMuribaculaceae属の増加、ならびにEscherichia-Shigella属およびEnterococcus属の減少を特徴としていた。総じて、これらの知見は、Drp1欠損がマクロファージの機能状態を再構築しエフェロサイトーシスを亢進させることで急性大腸炎を軽減する一方で、粘膜の完全性の改善および腸内細菌叢のディスバイオーシスの部分的な回復に関連していることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11185926/v1",
+    "title": "Development and Laboratory Evaluation of a Standardized Procedure for Environmental Sampling and Molecular Detection of Human Papillomavirus",
+    "abstract": "Abstract  Background  Environmental surveillance of infectious pathogens is increasingly important for disease prevention and control; however, heterogeneity in sampling, preservation, and transport procedures can substantially affect molecular detection results. Methods  Human papillomavirus (HPV) was used as a non-enveloped DNA virus model to evaluate six determinants of surface sampling performance: swab type, surface material, sampling interval, swab pre-moistening, ambient temperature, and preservation medium. An HPV-positive inoculum was prepared by pooling approximately 150 anonymized male urethral swab specimens, followed by saline elution, genotype confirmation, and quantitative testing. HPV DNA was quantified by real-time quantitative PCR (qPCR). Outcomes were the positive detection rate and a prespecified log-scale recovery index. Results  Polyester and sponge swabs achieved the highest positive detection rates (both 98.04% ± 3.40%), whereas polyester swabs had the highest mean log-scale recovery index. HPV DNA was more readily recovered from smooth, non-porous, non-absorbent surfaces (ceramic tile and polypropylene) than from wood or woven fabric. Dry polyester swabbing yielded a higher positive detection rate than PBS-pre-moistened swabbing (88.75% ± 2.80% vs 80.00% ± 5.23%; P = 0.032), although the log-scale recovery index did not differ significantly. Sampling from 1 to 24 h after inoculation did not significantly affect either outcome. Exposure to 35°C reduced both the positive detection rate and the log-scale recovery index compared with 15°C and 25°C. Dedicated viral transport media maintained HPV DNA detectability throughout 28 days of storage at 2–8°C. PBS first fell below the prespecified 70% detection threshold on day 7, whereas normal saline remained at or above the threshold through 3 h and fell below it at 6 h. Conclusions  Under the tested laboratory conditions, dry polyester swabs combined with dedicated viral transport media provided the most practical overall approach for molecular recovery of HPV from environmental surfaces. Surface properties and ambient temperature were the principal determinants of HPV DNA detectability. These findings support protocol standardization but do not establish viral infectivity or fomite transmission.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11185926/v1",
+    "date": "2026-10-23",
+    "authors": "Duan X, Yang M, Xie Y, Wang X, Xu L, Tao Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348844",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2668,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11185926/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7bb281544766b242939e89a20bddf8c8f3733cd49d15d75bb0651cfbf0246bb3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:34:54.289847+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "587c372fb0c20120abb423769fe87974d124455cc33c91ab811691d3212fb49b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:34:54.289847+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトパピローマウイルスの環境サンプリングおよび分子検出のための標準化手順の開発と室内評価",
+    "abstract_ja": "要旨  背景  感染症病原体の環境サーベイランスは、疾病の予防および管理においてますます重要となっているが、サンプリング、保存、および輸送手順の不均一性は、分子検出結果に著しい影響を及ぼし得る。方法  ヒトパピローマウイルス（HPV）を非エンベロープDNAウイルスモデルとして用い、表面サンプリング性能の6つの決定要因（スワブの種類、表面材質、サンプリング間隔、スワブの事前湿潤、周囲温度、および保存媒体）を評価した。匿名化された男性尿道スワブ検体約150検体をプールしてHPV陽性接種液を調製し、続いて生理食塩水による溶出、遺伝子型確認、および定量検査を行った。HPV DNAは、リアルタイム定量PCR（qPCR）により定量した。評価項目は、陽性検出率およびあらかじめ設定した対数スケール回復指数とした。結果  ポリエステル製およびスポンジ製スワブが最も高い陽性検出率（ともに98.04% ± 3.40%）を示した一方、平均対数スケール回復指数はポリエステル製スワブで最も高かった。HPV DNAは、木材や織布よりも、平滑で非多孔質かつ非吸収性の表面（セラミックタイルおよびポリプロピレン）からより容易に回収された。乾燥ポリエステル製スワブによるサンプリングは、PBSで事前湿潤させたスワブによるサンプリングよりも高い陽性検出率を示した（88.75% ± 2.80% vs 80.00% ± 5.23%; P = 0.032）が、対数スケール回復指数に有意な差は認められなかった。接種後1～24時間のサンプリングは、いずれの評価項目にも有意な影響を及ぼさなかった。35°Cへの曝露は、15°Cおよび25°Cと比較して、陽性検出率と対数スケール回復指数の両方を低下させた。専用のウイルス輸送媒体は、2～8°Cで28日間保存してもHPV DNAの検出能を維持した。PBSは7日目に初めてあらかじめ設定した検出閾値70%を下回ったが、生理食塩水は3時間まで閾値以上で維持され、6時間目に閾値を下回った。結論  試験した実験室条件下において、乾燥ポリエステル製スワブと専用のウイルス輸送媒体の併用は、環境表面からのHPVの分子回収において最も実用的な総合的なアプローチであった。表面特性と周囲温度が、HPV DNA検出能の主要な決定要因であった。これらの知見はプロトコルの標準化を支持するものであるが、ウイルスの感染性や媒介物伝播を立証するものではない。"
   }
 ]
