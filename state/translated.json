@@ -283651,5 +283651,336 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "なぜ遺伝子カセットが孤児型逆転写酵素の保有企業を維持しているのか？ 5大陸にわたる汚染細菌",
     "abstract_ja": "要旨　いくつかの細菌逆転写酵素（RT）は細胞をファージから保護するが、中には既知のファミリーに属さないものもある。189,630個のゲノムをスクリーニングした結果、我々のあらゆる比較手法（既知のRT型、系統樹、予測構造）のいずれにおいても既知のファミリーに分類されないRT（既報のライブラリRTとの同一性は最大34.6%）を発見し、これをESOL RTと命名した。このRTは、5大陸9カ国の湖、河川、池およびその他の水域から選定された16個のゲノムにおいて、それを担う遺伝子カセットと共に存在しており、これらはすべて単一のBacteroidota属であるPollutibacter属に属している。このカセットは保存された上流エレメントと、MIDASモチーフタンパク質およびH[EDQ]xxHを欠く予測メタロプロテアーゼ様タンパク質を含む、固定位置にある4つの遺伝子を有している。さらに27箇所のPollutibacter遺伝子座において、RTの傍らで観察可能な99箇所の位置のうち97箇所にカセットの一部が存在し、これら2つの例外はいずれも単一の遺伝子座に位置していた。隣接する4つの遺伝子の観察可能なコピーに破壊は認められておらず、コドンモデルは純化選択を示唆しており、他の淡水サンプルからのロングリードは最大6つのモジュールに及んでいる。794個のゲノムを対象とした事後検索では、19件のヒットのうち18件でこのエレメントがRTの上流に位置しており、19件目はコンティグ末端によってカットされた。しかし、-1および+3遺伝子の近縁体は隣接するペアとして存在しており、+3型遺伝子を持つ149属のうち54属では付近にRTが検出されていない。では、なぜこのカセットはRTと共存しているのだろうか。このペアリングは観察されているが、2つの疑問が残る。すなわち、RTは既存のモジュールに加わったのか、そしてDRT10がRNAおよびタンパク質パートナーと共に機能すると報告されているように、RTはそれらと協調して機能しているのか、という点である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.1806.v1",
+    "title": "Comparative Metagenomic Analysis of Fungal Communities and Genomic Analysis of Yeasts from the Chilean Altiplano and Central Mountains",
+    "abstract": "Fungal communities inhabiting high-altitude environments are exposed to multiple environmental constraints, yet their diversity and genomic characteristics remain poorly characterized. Here, we investigated fungal diversity across 10 high-altitude localities in the Chilean Altiplano and Central Mountain region using ITS amplicon sequencing, complemented by comparative genomic analyses of 11 yeast isolates. Fungal commu-nities were evaluated based on taxonomic composition, alpha diversity, co-occurrence patterns, and relationships among sampling localities. Yeast isolates were analyzed using genomic similarity, synteny, functional profiles, stress-associated proteins, enzyme homologs, and mitochondrial genome characteristics. Ascomycota was the dominant phylum, but fungal community composition and alpha diversity varied among localities, with geographic structuring evident at the genus level. Co-occurrence networks revealed highly connected fungal communities, while many ASVs remained unclassified at lower taxonomic levels. Genome-scale analyses supported the classification of three isolates as Sporobolomyces salmonicolor and eight as Naganishia spp., highlighting the value of ge-nome-based approaches for resolving taxonomic relationships. Functional profiles were broadly conserved, but differences in GPI-anchor biosynthesis, galactose metabolism, steroid biosynthesis, and mitophagy were detected between isolates. In addition, stress-related and potentially biotechnologically relevant enzyme homologs were iden-tified. Mitochondrial genomes showed a conserved core of oxidative phosphorylation genes but substantial variation in introns, ORFs, and synteny, indicating marked mi-tochondrial genomic diversity. Together, these findings demonstrate substantial eco-logical and genomic diversity among fungi from high-altitude environments in Chile and reveal functional and genomic features that may be relevant to environmental adaptation and biotechnology.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.1806.v1",
+    "date": "2026-10-20",
+    "authors": "Baeza M, Gomez M, Veloso C, Alcaino J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345598",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi",
+        "metagenom",
+        "metagenomic",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 224,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.1806.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ec6e206e0286eb8b4a7fcb62e64f18b9be0e6a5686de3911a277005a6644cf74",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:17:56.800227+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "27732b42205df8ac25e479c3abd774e232d00acac6947901673f6aa3090c7c5c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:17:56.800227+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "チリ高地および中央山脈における菌類群集の比較メタゲノム解析と酵母のゲノム解析",
+    "abstract_ja": "高地環境に生息する真菌群集は、複数の環境的制約にさらされているが、その多様性とゲノム特性は十分に解明されていない。本研究では、チリのアルティプラノおよび中央山岳地域の10の高地地点における真菌の多様性を、ITSアンプリコンシーケンシングおよび11株の酵母分離株の比較ゲノム解析を用いて調査した。真菌群集は、分類学的組成、アルファ多様性、共出現パターン、およびサンプリング地点間の関係性に基づいて評価した。酵母分離株については、ゲノム類似性、シンテニー、機能プロファイル、ストレス関連タンパク質、酵素ホモログ、およびミトコンドリアゲノム特性を用いて解析した。子嚢菌門が優占的な門であったが、真菌群集の組成とアルファ多様性は地点間で異なり、属レベルで地理的な構造化が認められた。共出現ネットワークからは、高度に連結した真菌群集が明らかになった一方、多くのASVは下位分類レベルで未分類のままであった。ゲノムスケールの解析により、3株がSporobolomyces salmonicolorに、8株がNaganishia spp.に分類されたことが裏付けられ、分類学的関係を解明する上でのゲノムベースのアプローチの有用性が示された。機能プロファイルは概ね保存されていたが、分離株間でGPIアンカー生合成、ガラクトース代謝、ステロイド生合成、およびミトファジーに差異が認められた。さらに、ストレス関連および潜在的にバイオテクノロジー的に重要な酵素ホモログが同定された。ミトコンドリアゲノムは、酸化的リン酸化遺伝子の保存されたコアを示したが、イントロン、ORF、およびシンテニーには顕著な変異が認められ、ミトコンドリアゲノムの著しい多様性が示された。以上の知見を総合すると、チリの高地環境に生息する真菌の間に相当な生態学的およびゲノム的多様性が存在することが示され、環境適応やバイオテクノロジーに関連し得る機能的・ゲノム的特徴が明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760236",
+    "title": "An ONT sequencing framework for hantavirus genome assembly, variant analysis, and defective viral genome characterization from whole-segment amplicons",
+    "abstract": "ABSTRACT  Orthohantaviruses are zoonotic, tri-segmented negative-sense RNA viruses of rodents and other small mammals that can cause severe human disease. Whole genome sequencing remains difficult because of low viral loads, high sequence diversity, and an inherent instability of the viral L segment. Current tiled amplicon and hybrid-capture approaches do not capture the heterogeneity of virus populations, including defective viral genomes (DVGs), which have never been described for hantaviruses. Here, we present an Oxford Nanopore Technologies sequencing framework based on universal reverse transcription primers targeting the conserved genome termini of orthohantaviruses and a single species-specific primer pair per segment, enabling amplification and sequencing of complete S, M, and L segments. We also developed an accompanying bioinformatic pipeline that performs reference-guided assembly of hantavirus genomes, consensus generation, variant calling, and DVG classification using the newly developed ORCHID classification pipeline. We applied this approach to diverse Puumala virus strains from infected cell cultures and bank voles, to representative Old World and New World orthohantaviruses, and to highly pathogenic New World viruses in vivo. In all cases we were able to accurately reconstruct full hantavirus genomes. Notably, we found that hantavirus populations contain highly abundant DVGs and conserved L segment deletions, whereas the S and M segments remained largely intact. Together, this work provides a low-cost, broadly applicable and easily customisable workflow for hantavirus genomics and reveals DVGs as a previously unrecognized feature of hantavirus populations. IMPORTANCE  Hantaviruses cause severe and often fatal human diseases, and their diversity and low viral loads make them hard to sequence, which limits surveillance and outbreak investigation. We describe a simple, universal but customisable, low-cost nanopore sequencing workflow that recovers complete genome segments, including the full-length L segment, from cell culture and animal tissues across the entire  Orthohantavirus genus. Using this approach, we report the first evidence of defective viral genomes in hantaviruses. These truncated genomes arise mainly from the L segment, which encodes the viral polymerase, and are formed at conserved genomic regions. Defective viral genomes can modulate viral replication, innate immune activation, and persistence in other viruses. Their presence in hantaviruses raises new questions about polymerase function, tolerance in reservoir hosts, and immune-mediated disease in humans. Our framework offers a practical tool for hantavirus genomics and a foundation for investigating how defective genomes shape hantavirus infection.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760236",
+    "date": "2026-10-20",
+    "authors": "Vandenabeele L, Twohig FM, Tuiskunen Bäck A, Sjöblom M, Lantto R, Svala G, Tynell J, Broddesson S, Dyrdak R, Christ W, Riesle-Sbarbaro S, Prescott JB, Bradfute SB, Depledge DP, Nilsson-Payant BE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347425",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "framework",
+        "genome",
+        "sequencing",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 571,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.760236"
+    ],
+    "translation": {
+      "title": {
+        "hash": "361a0560670eb905c0d2be8d3591ffbaf9b289dca0dbfd3c02afc700e7ccdbf9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:17:56.800227+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a4c14faf19d61e32fbee7a5a0125159520bbeb74da93e7df4e1b3bb23d9d6581",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:17:56.800227+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "全セグメントアンプリコンを用いたハンタウイルスゲノムアセンブリ、変異解析、および欠損型ウイルスゲノム特性解析のためのONTシーケンシングフレームワーク",
+    "abstract_ja": "要旨　オルソハンタウイルスは、齧歯類やその他の小型哺乳類に感染し、ヒトに重篤な疾患を引き起こし得る人獣共通感染症の3分節型負鎖RNAウイルスである。ウイルス量の少なさ、配列多様性の高さ、およびウイルスLセグメント固有の不安定性により、全ゲノムシーケンシングは依然として困難である。現行のタイル型アンプリコン法やハイブリッドキャプチャ法では、ハンタウイルスではこれまで報告例のない欠損ウイルスゲノム（DVG）を含む、ウイルス集団の不均一性を捉えることはできない。本研究では、オルソハンタウイルスの保存されたゲノム末端を標的とするユニバーサル逆転写プライマーと、セグメントあたり1組の種特異的プライマーペアに基づくOxford Nanopore Technologies社のシーケンシングフレームワークを提示し、完全なS、M、およびLセグメントの増幅とシーケンシングを可能にする。また、新たに開発したORCHID分類パイプラインを用いて、ハンタウイルスゲノムのリファレンスガイド付きアセンブリ、コンセンサス生成、バリアントコール、およびDVG分類を行う付随的なバイオインフォマティクスパイプラインを開発した。本アプローチを、感染細胞培養およびバンクマウス由来の多様なPuumalaウイルス株、代表的な旧世界および新世界のオルソハンタウイルス、ならびにin vivoにおける高病原性の新世界ウイルスに適用した。すべてのケースにおいて、ハンタウイルスの全ゲノムを正確に再構築することができた。特筆すべき点として、ハンタウイルス集団には極めて豊富なDVGと保存されたLセグメント欠失が存在する一方で、SおよびMセグメントは概ね保持されていることが判明した。以上の成果を総合すると、本研究はハンタウイルスゲノミクスのための低コストで広範に適用可能、かつ容易にカスタマイズ可能なワークフローを提供するとともに、DVGが従来認識されていなかったハンタウイルス集団の特徴であることを明らかにした。重要性　ハンタウイルスは重篤でしばしば致死的なヒト疾患を引き起こし、その多様性とウイルス量の少なさからシーケンシングが困難であり、それがサーベイランスやアウトブレイク調査の制約となっている。我々は、オルソハンタウイルス属全体にわたる細胞培養および動物組織から、全長Lセグメントを含む完全なゲノムセグメントを回収する、シンプルでユニバーサルでありながらカスタマイズ可能かつ低コストなナノポアシーケンシングワークフローについて述べる。このアプローチを用いて、ハンタウイルスにおける欠損ウイルスゲノムの初の証拠を報告する。これらの切断されたゲノムは主にウイルスポリメラーゼをコードするLセグメントに由来し、保存されたゲノム領域で形成される。欠損ウイルスゲノムは、他のウイルスにおいてウイルス複製、自然免疫の活性化、および持続性を調節し得る。ハンタウイルスにおけるこれらの存在は、ポリメラーゼの機能、リザーバー宿主における耐性、およびヒトにおける免疫介在性疾患に関する新たな疑問を提起する。我々のフレームワークは、ハンタウイルスゲノミクスのための実用的なツールを提供するとともに、欠損ゲノムがハンタウイルス感染をどのように形作るかを調査するための基盤となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.17.758147",
+    "title": "Host genetics structure Symbiodiniaceae and prokaryotic assemblages and their co-variation in sympatric fire coral species",
+    "abstract": "ABSTRACT  Host genetic and environmental filtering are key determinants of microbiome assembly, yet their relative influence across multiple symbiotic compartments remains poorly understood. In coral holobionts, studies typically focus on either algal or bacterial symbionts and rarely account for host genetic variation below the species level. Here, we combined host microsatellite genotyping with ITS2 and 16S rRNA metabarcoding to investigate the drivers of Symbiodiniaceae and prokaryotic assemblages in three sympatric fire coral species (  Millepora cf.  exaesa ,  M. tenera , and  M. cf.  platyphylla ) across three adjacent but environmentally contrasting reef habitats on Réunion Island. Both symbiont assemblages were structured by host identity and habitat, although host genetics consistently outweighed environmental effects on the microbiome composition. At the subspecies level, host genotypes explained up to 54% of the variation in Symbiodiniaceae assemblages compared to 20% for the prokaryotes. Symbiodiniaceae communities were dominated by  Symbiodinium A16 and A3 radiations, while showing marked specificity across species and habitats. All  Millepora species consistently associated with the Spirochaetaceae, Kiloniellaceae and Desulfobacteraceae bacterial families across all habitats, suggesting evolutionarily maintained core associations. Integrative analysis further demonstrated genotype-specific co-variation between algal and bacterial symbionts, with some genotypes maintaining stable and co-varying symbionts across clones, while others exhibited more flexible assemblages. Together, our results indicate that sympatric fire coral acquire symbionts from locally available pools through host genotype-dependent filtering. This study highlights host genotype as a major determinant of coral holobiont assembly, shaping the composition and co-variation of both Symbiodiniaceae and prokaryotic assemblages.",
+    "journal": "",
+    "doi": "10.64898/2026.10.17.758147",
+    "date": "2026-10-20",
+    "authors": "Pozas-Schacre C, Derome N, Boissin E, Mercière A, Martineau G, Mercier P, Bourmaud CA, Dubé CE.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346443",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiome",
+        "prokaryote",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 574,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.17.758147"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8c40d3146af0f31e50f00d236ec7990c89877fccad637427a383e2639c96f7c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:17:56.800227+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b55e3037776286de29f13eb6d961eb834c958001b4d286115976b8dde1439a2e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:17:56.800227+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主の遺伝的構造、シンビオディニア科および原核生物群集、ならびに同所的に生息する火サンゴ種におけるそれらの共変",
+    "abstract_ja": "要旨　宿主の遺伝的・環境的フィルタリングはマイクロバイオーム形成の主要な決定要因であるが、複数の共生コンパートメント間における相対的な影響については十分に解明されていない。サンゴホロビオントの研究では、通常、藻類または細菌の共生体のいずれかに焦点を当てており、種レベルを下回る宿主の遺伝的変異を考慮することは稀である。本研究では、宿主のマイクロサテライトジェノタイピングとITS2および16S rRNAメタバーコーディングを組み合わせ、レユニオン島の隣接しつつも環境的に対照的な3つの礁生息地における3種の同所的火サンゴ（Millepora cf. exaesa、M. tenera、およびM. cf. platyphylla）のSymbiodiniaceaeおよび原核生物アセンブラージュの駆動要因を調査した。両共生体アセンブラージュは宿主のアイデンティティと生息地によって構造化されていたが、マイクロバイオーム組成においては、宿主の遺伝的要因が環境的影響を一貫して上回っていた。亜種レベルでは、宿主の遺伝子型がSymbiodiniaceaeアセンブラージュの変異の最大54%を説明するのに対し、原核生物では20%であった。Symbiodiniaceae群集はSymbiodinium A16およびA3の放射相が支配的であり、種や生息地間で顕著な特異性を示した。すべてのMillepora属種は、すべての生息地においてSpirochaetaceae、Kiloniellaceae、およびDesulfobacteraceaeの細菌科と一貫して関連しており、進化的に維持された中核的な関連性が示唆された。統合解析により、藻類共生体と細菌共生体の間に遺伝子型特異的な共変動があることがさらに明らかになり、一部の遺伝子型ではクローン間で安定かつ共変動する共生体が維持されていた一方で、他の遺伝子型ではより柔軟なアセンブラージュが認められた。以上の結果を総合すると、同所的火サンゴは、宿主の遺伝子型に依存したフィルタリングを通じて、局所的に利用可能なプールから共生体を獲得していることが示される。本研究は、宿主の遺伝子型がサンゴホロビオント形成の主要な決定要因であり、Symbiodiniaceaeおよび原核生物アセンブラージュ双方の組成と共変動を形作っていることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.26365873",
+    "title": "Gut microbiota dysbiosis in adrenoleukodystrophy: a new piece in the puzzle?",
+    "abstract": "ABSTRACT  X-linked adrenoleukodystrophy (X-ALD) is the most common monogenic disorder affecting brain white matter, presenting a broad clinical spectrum from slowly progressive adrenomyeloneuropathy (AMN) to rapidly advancing cerebral demyelination. Factors influencing the variable disease expressivity remain poorly understood. We conducted shotgun metagenomic profiling of fecal samples from X-ALD patients and integrated these data with targeted plasma metabolomic analyses of amino acids and key metabolic intermediates. We identified distinct microbiome-associated metabolic signatures across X-ALD phenotypes. Notably,  Bacteroides cellulosilyticus and  Helicobacter apodemus abundance were significantly altered in AMN compared with childhood CALD patients. In parallel, X-ALD patients exhibited evidence of microbial metabolic remodeling characterized by altered amino acid metabolism, reduced folate biosynthetic potential, and enrichment of stress-adaptive pathways, including redox-associated functions, glyoxylate shunt activity, lipid A modification, lipopolysaccharide assembly, biofilm adhesin biosynthesis, and curli fiber production. Consistent with these microbial changes, plasma levels of branched-chain amino acids and methionine, as well as serum folate concentrations, were significantly reduced. Importantly, methionine levels showed an inverse correlation with neurofilament light chain (NfL) concentrations in patients with cerebral disease. Our findings reveal a previously unrecognized link between gut microbial metabolic capacity and systemic metabolic alterations in X-ALD. Our results reinforce previous evidence implicating methionine metabolism in disease severity. Collectively, these data support a modulatory role of the microbiota–gut–brain axis in neuroinflammatory and mitochondrial-related processes underlying X-ALD progression and highlight new opportunities for biomarker development and microbiome-informed therapeutic interventions.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.26365873",
+    "date": "2026-10-20",
+    "authors": "Torreni L, Schlüter A, Marti S, Ruiz M, Vélez-Santamaria V, Rodríguez-Palmero A, Artuch A, Guilera C, Arias A, Mochel F, Aguilera-Albesa S, Cantarin V, Casasnovas C, Artuch R, Köhler W, Pujol A, Fourcade S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346269",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 575,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.26365873"
+    ],
+    "translation": {
+      "title": {
+        "hash": "13ea34d81c9bc0b3f105b07dafb8722e9b44440cfc20432a1568766de17bebcc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:17:56.800227+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "04a833a51fd6afa3eda54a70b70d04e9c5e4d949c102fcc8e1e284aaa9573269",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:17:56.800227+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "副腎白質ジストロフィーにおける腸内細菌叢の乱れ：新たな知見か？",
+    "abstract_ja": "要旨  X連鎖性副腎白質ジストロフィー（X-ALD）は、脳白質に影響を及ぼす最も頻度の高い単一遺伝子疾患であり、緩徐進行性の副腎神経脊髄炎（AMN）から急速進行性の脳脱髄に至るまで、広範な臨床像を呈する。疾患の発現頻度の変動に影響を与える因子については、依然として十分に解明されていない。本研究では、X-ALD患者の便検体を用いてショットガンメタゲノムプロファイリングを実施し、これらのデータをアミノ酸および主要な代謝中間体の標的型血漿メタボローム解析と統合した。その結果、X-ALDの表現型間で異なる微生物叢関連の代謝シグネチャーを同定した。特筆すべきは、小児CALD患者と比較して、AMN患者ではBacteroides cellulosilyticusおよびHelicobacter apodemusの存在量が有意に変化していたことである。並行して、X-ALD患者では、アミノ酸代謝の変化、葉酸生合成能の低下、および酸化還元関連機能、グリオキシル酸シャント活性、脂質A修飾、リポ多糖体構築、バイオフィルム接着因子生合成、カーリ繊維産生を含むストレス適応経路の濃縮を特徴とする、微生物代謝リモデリングの証拠が認められた。これらの微生物学的変化と一致して、血漿中の分岐鎖アミノ酸およびメチオニン濃度、ならびに血清葉酸濃度が有意に低下していた。重要な点として、脳疾患患者において、メチオニン濃度はニューロフィラメント軽鎖（NfL）濃度と逆相関を示した。本研究の知見は、X-ALDにおける腸内微生物の代謝能と全身性代謝変化との間に、これまで認識されていなかった関連性があることを明らかにした。我々の結果は、疾患の重症度にメチオニン代謝が関与していることを示唆する先行研究の証拠を補強するものである。総じて、これらのデータは、X-ALDの進行の根底にある神経炎症およびミトコンドリア関連プロセスにおいて、微生物叢－腸－脳軸が調節的な役割を果たしていることを支持しており、バイオマーカー開発および微生物叢情報に基づく治療介入の新たな機会を提示するものである。"
   }
 ]
