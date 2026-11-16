@@ -384799,7 +384799,7 @@
     "abstract": "Bacterial communities associated with the Antarctic moss Sanionia uncinata differed in composition among three sampling locations on Deception Island, whereas alpha diversity and predicted functional profiles were similar. These results suggest that this moss harbours spatially structured bacterial communities with potential functional redundancy.\n\nABSTRACT\nAntarctic mosses play a fundamental ecological role in Maritime Antarctica, creating microhabitats that support diverse microbial communities. We used 16S rRNA gene (V3–V4) metabarcoding to investigate bacterial communities associated with the moss Sanionia uncinata at three sampling locations (seven sampling points, three samples each) within Antarctic Specially Protected Area No. 140 (Parts of Deception Island, South Shetland Islands). With sampling points as replicates, permutational multivariate analysis of variance (PERMANOVA; R2 = 0.376, p = 0.0095) and analysis of similarities (ANOSIM; R = 0.73, p = 0.0095) based on Bray–Curtis dissimilarities showed that community composition differed among locations. Multivariate dispersion did not differ among locations, so these differences reflected changes in composition rather than within‐location variability. Alpha diversity did not differ among locations after correction for multiple comparisons, suggesting the moss microhabitat may buffer within‐sample diversity against external environmental variation. Functional profiles predicted with Phylogenetic Investigation of Communities by Reconstruction of Unobserved States (PICRUSt2) and Functional Annotation of Prokaryotic Taxa (FAPROTAX) were also similar among locations, which suggests functional redundancy. Our results indicate that S. uncinata harbours spatially structured bacterial communities with similar predicted functional capacities, and support the view that Antarctic mosses are important reservoirs of bacterial diversity.\n\nBacterial communities associated with the Antarctic moss Sanionia uncinata differed in composition among three sampling locations on Deception Island, whereas alpha diversity and predicted functional profiles were similar. These results suggest that this moss harbours spatially structured bacterial communities with potential functional redundancy.\n\nABSTRACT\nAntarctic mosses play a fundamental ecological role in Maritime Antarctica, creating microhabitats that support diverse microbial communities. We used 16S rRNA gene (V3–V4) metabarcoding to investigate bacterial communities associated with the moss Sanionia uncinata at three sampling locations (seven sampling points, three samples each) within Antarctic Specially Protected Area No. 140 (Parts of Deception Island, South Shetland Islands). With sampling points as replicates, permutational multivariate analysis of variance (PERMANOVA; R\n2 = 0.376, p = 0.0095) and analysis of similarities (ANOSIM; R = 0.73, p = 0.0095) based on Bray–Curtis dissimilarities showed that community composition differed among locations. Multivariate dispersion did not differ among locations, so these differences reflected changes in composition rather than within-location variability. Alpha diversity did not differ among locations after correction for multiple comparisons, suggesting the moss microhabitat may buffer within-sample diversity against external environmental variation. Functional profiles predicted with Phylogenetic Investigation of Communities by Reconstruction of Unobserved States (PICRUSt2) and Functional Annotation of Prokaryotic Taxa (FAPROTAX) were also similar among locations, which suggests functional redundancy. Our results indicate that S. uncinata harbours spatially structured bacterial communities with similar predicted functional capacities, and support the view that Antarctic mosses are important reservoirs of bacterial diversity.",
     "journal": "Environmental Microbiology Reports",
     "doi": "10.1111/1758-2229.70467",
-    "date": "2026-11-14",
+    "date": "2026-11-13",
     "authors": "Kamila Barros Lima de Oliveira, \nFabyano Alvares Cardoso Lopes, \nStephan Machado Dohms, \nMarcelo Henrique Soller Ramada",
     "tags": [
       "微生物ゲノミクス",
@@ -403152,6 +403152,895 @@
     "first_seen": "2026-11-16",
     "related_dois": [
       "10.1016/j.tibs.2026.10.004"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2001757",
+    "title": "Surface-enhanced Raman spectroscopy on the membranes for antimicrobial resistance testing",
+    "abstract": "IntroductionAntimicrobial resistance is a major global health threat, causing millions of deaths every year. Traditional antibiotic susceptibility tests rely on the detection of bacterial growth in the presence of antimicrobial agents. These tests take over 1-2 days to complete, so empirical therapy schemes often begin before the test results are available. Rapid tests for antimicrobial resistance are needed to optimize treatment for bacterial infections. A combination of the MTT test and Raman spectroscopy can provide a 1.5-h test for antimicrobial susceptibility, requiring 106–108 CFU/mL of bacteria. Here the novel rapid antibiotic susceptibility test for trace amounts of bacteria is described.MethodsSurface-enhanced Raman spectroscopy (SERS) has been suggested to improve the sensitivity of the test. SERS spectra of MTT-treated bacteria can be acquired using membranes coated with silver nanoparticles. These membranes simultaneously concentrate the sample on the surface and generate SERS spectra under 532-nm or 638-nm laser irradiation.ResultsBoth the spectra of individual bacteria and the large-area measurements provided information for antimicrobial resistance testing. The bacterial titer can be decreased down to 500 CFU/mL in the test. The overall analysis time was 1.5 h.DiscussionThis rapid sensitive test highly promising for point-of-care applications avoiding durable bacterial culturing.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2001757",
+    "date": "2026-11-16",
+    "authors": "Elena Zavyalova",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2001757",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4913,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.2001757"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1933120",
+    "title": "Linking evaporitic crust texture to microbial community structure in a hypersaline environment",
+    "abstract": "IntroductionHypersaline evaporitic environments are considered terrestrial analogues for planetary settings, because they preserve mineralogical and biological signatures formed under extreme salinity, high UV radiation, and arid conditions. However, the relationships between the surface texture of evaporitic crusts and the underlying microbial communities are largely disregarded. In this study, we investigated the relationship between the texture of evaporitic crusts and the microbial community structure, affecting the biogeochemical processes in a hypersaline pan environment (Kudiakam Pan, Makgadikgadi Basin, Botswana).MethodsFive crust textures (i.e., silcrete pavement, tee-pee structures, irregular, wrinkled-up, bulbous crusts) were characterized using physical–chemical measurements and 16S rRNA gene metabarcoding, complemented by predicted functional profiles.ResultsPhysicochemical parameters showed pronounced spatial heterogeneity, with alkaline conditions throughout the study area. Bacterial and archaeal communities differed markedly between samples from the pan and the outside floor. Crust surface texture explained a large and significant fraction of the variation in bacterial community composition. Cyanobacterial communities showed particularly strong differentiation among textures, with Xenococcaceae predominating in silcrete pavement and tee-pee A crusts, and Nodosilineaceae, Nostocaceae, and Oscillatoriaceae enriched in irregular, wrinkled-up, and bulbous crusts. Functional prediction revealed widespread organic carbon degradation, sulfur cycling, and methanogenesis co-occurring with phototrophic activity.DiscussionThese findings indicate evaporite texture is associated with microbial community structure, making evaporitic crusts potentially informative samples for interpreting biosignatures on Mars.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1933120",
+    "date": "2026-11-16",
+    "authors": "C. Pacelli",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1933120",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "cyanobacteria",
+        "cyanobacterial",
+        "methanogen",
+        "methanogenesis",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4914,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.1933120"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1947043",
+    "title": "Generation and characterization of monoclonal antibodies against pseudorabies virus glycoprotein E and mapping of conserved epitopes",
+    "abstract": "As a major pathogen threatening the global swine industry, pseudorabies virus (PRV) has been extensively studied, with its glycoprotein E (gE) recognized as a well-characterized virulence factor and a critical target for diagnostic development. However, well-characterized gE-specific monoclonal antibodies remain scarce, and the gE epitope regions characterized so far are limited in number and diversity, which together hinder the development of gE-based detection reagents. In this study, the gE gene from the epidemiologically relevant PRV strain HeNLH/2017 was codon-optimized and expressed in human embryonic kidney 293F (HEK293F) cells to obtain recombinant gE with native-like folding and post-translational modifications, thereby increasing the likelihood of raising monoclonal antibodies (mAbs) that recognize authentic PRV. Using hybridoma technology, six gE-specific monoclonal antibodies (mAbs) were generated and characterized. Their reactivity and specificity were verified by indirect ELISA, immunoperoxidase monolayer assay (IPMA), and Western blotting. All six mAbs reacted with wild-type PRV but not with the gE-deleted vaccine strain. Dot-blot analysis using overlapping synthetic peptides covering the extracellular domain of gE mapped the binding sites of these mAbs, identifying six preliminary linear B-cell epitope regions, which were 100% identical among the seven classical and variant PRV strains analyzed. A preliminary double-mAb sandwich colloidal gold immunochromatographic strip was further assembled and evaluated using two of the six mAbs; the strip reacted with purified recombinant gE and intact wild-type PRV virions but not with the gE-deleted vaccine strain or negative controls. These findings expand the gE antigenic repertoire and provide candidate reagents and a foundation for developing gE-based detection methods; further analytical and clinical validation is required.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1947043",
+    "date": "2026-11-16",
+    "authors": "Liu Yunchao",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1947043",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4915,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.1947043"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1993463",
+    "title": "Machine learning insights into environmental and biological triggers of fumonisin outbreaks in Texas corn",
+    "abstract": "Contamination of corn with fumonisin mycotoxins (FUM) caused by the fungus Fusarium verticillioides is a recurrent issue in Texas corn production that results in significant economic losses for corn producers. Both prediction and management of FUM outbreaks are challenging due to a lack of information regarding region-specific environmental and biological drivers of contamination. We analyzed 683 historical FUM contamination events for 12 years that were categorized as low (<5 mg kg−1; <5 ppm) or high (≥5 mg kg−1; ≥5 ppm) and evaluated geo-spatial, environmental and biological drivers of outbreaks using a machine learning approach. We applied Ratkowsky-based growth and toxin production models for five genetically diverse F. verticillioides strains and found strain-specific predicted growth and Fumonisin Risk Index (FRI) profiles. Using FRI (strain-specific) or weather-only feature sets, each combined with soil biogeochemistry properties, we developed Random Forest (RF) and Neural Network (NNET) models. Historical balanced accuracy averaged ~74% for RF and ~70% for NNET models. Feature importance revealed that RF models consistently ranked barometric pressure and latitude among top predictors, while NNET models emphasized soil moisture and FRI. Among the overlapping drivers between RF and NNET were FRIs at the beginning of February and mid-October. Critical influential weeks for soil moisture (May–August), barometric pressure (July–October), and FRI (August–November) overlapped with corn developmental stages susceptible to F. verticillioides infection and FUM accumulation in a region-dependent manner due to differences in planting dates across the state. Soil biogeochemical properties such as organic matter, electrical conductivity, and clay content were also influential in models’ predictions indicating region-specific relationships with historical outbreaks. This study highlights the combined roles of weather patterns, fungal strain diversity, soil properties, and crop phenology in shaping FUM outbreak risk across Texas and underscores the importance of integrating strain-specific biological responses and regionally relevant environmental factors into predictive modeling frameworks for improved mycotoxin risk assessment. In addition, results suggest that region specific management of soil physico-chemical properties could reduce FUM risk, offering insights into new mitigation strategies for on-farm prevention of mycotoxin contamination and the potential to develop a novel early-warning system as well as mitigation tools for FUM outbreaks in Texas.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1993463",
+    "date": "2026-11-16",
+    "authors": "Jianzhong Su",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1993463",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4916,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.1993463"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1973614",
+    "title": "Exploring gut probiotics in metabolic dysfunction-associated steatotic liver disease: a multi-database bibliometric analysis of research evolution, hotspots, and frontiers",
+    "abstract": "ObjectiveThis study aimed to systematically characterize the knowledge structure, research evolution, hotspots, and emerging frontiers of gut probiotics in metabolic dysfunction-associated steatotic liver disease (MASLD), and to assess the cross-database consistency of the identified patterns, thereby providing a bibliometric basis to inform future mechanistic investigation and clinically oriented research.MethodsA total of 1,157 eligible publications from 2003 to 2026 were identified from the Web of Science Core Collection (WoSCC) and analyzed using CiteSpace, VOSviewer, Bibliometrix, and SCImago Graphica. PubMed and Scopus were independently searched on the same date and used as complementary comparison databases for cross-database consistency assessment rather than for data pooling.ResultsPublication output increased markedly after 2011, with China contributing the largest number of publications, while the United States of America (USA) and Italy also showed substantial research activity and citation impact. The field exhibited extensive international collaboration and a multidisciplinary knowledge structure involving hepatology, gastroenterology, nutrition, microbiology, and molecular biology. Keyword and co-citation analyses showed that research attention has progressively shifted from obesity, insulin resistance, endotoxemia, and intestinal barrier dysfunction toward the gut–liver axis, microbial metabolites, MASLD and Metabolic dysfunction-associated steatohepatitis (MASH), precision medicine, and more targeted probiotic interventions. Annual publication trends were highly consistent across WoSCC, PubMed, and Scopus, with pairwise Pearson correlations ranging from 0.995 to 0.998. Strong agreement also persisted for year-to-year changes and detrended publication counts, and the results remained stable after exclusion of the incomplete 2026 observation. Author keyword patterns also showed strong cross-database agreement, supporting the stability of the major thematic findings.ConclusionResearch on MASLD and gut probiotics is progressing from broad associations between dysbiosis and metabolic liver disease toward mechanistic investigation and more precise probiotic strategies. Future studies should prioritize strain-specific effects, patient stratification, mechanistic biomarkers, and well-designed clinical trials to better inform future clinical translation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1973614",
+    "date": "2026-11-16",
+    "authors": "Chi Liu",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1973614",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4917,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.1973614"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2003069",
+    "title": "Research trends in metabolic dysfunction-associated fatty liver disease and the oral microbiota: a multi-database bibliometric and visualization analysis (2007–2026)",
+    "abstract": "BackgroundThe incidence and prevalence of metabolic dysfunction-associated fatty liver disease (MAFLD) have increased in recent years. Evidence indicates that the oral microbiota is closely associated with the development and progression of MAFLD. To date, no systematic bibliometric analysis of the literature on this relationship has been conducted.MethodsThe Web of Science Core Collection and Scopus databases were searched for relevant literature published between January 1, 2007, and August 4, 2026. Bibliometric and visualization analyses were performed using VOSviewer, CiteSpace, and the bibliometrix R package to systematically assess research trends, hotspots, and the knowledge structure of this field.ResultsA total of 544 publications were included. Research output entered a period of rapid growth in 2019, with annual publication output peaking in 2023. China ranked first with 227 publications, followed by the United States with 53 and Japan with 51. The University of California was the most productive institution, and Nutrients was the most productive journal. Ryutaro Kuraji and Atsushi Nakajima were the most prolific authors, each contributing seven publications. Keyword analysis indicated that the research focus gradually expanded from mechanisms related to inflammation, endotoxemia, and the intestinal barrier to the oral–gut–liver axis, specific microbial taxa, and microbial metabolites. In recent years, specific functional bacteria, bile acid metabolism, and targeted microbiota-based interventions have received increasing attention, suggesting a deepening focus on microbially mediated immunometabolic mechanisms and potential intervention strategies.ConclusionThis study delineates research trends concerning the oral microbiota and MAFLD. The oral–gut–liver axis and inflammation and fibrosis mediated by microorganisms and their products represent important research directions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2003069",
+    "date": "2026-11-16",
+    "authors": "Zhen Long",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2003069",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbial",
+        "microbiota",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4918,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.2003069"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2028739",
+    "title": "Editorial: Advancing circular economy: approaches to microbial pigment production",
+    "abstract": "",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2028739",
+    "date": "2026-11-16",
+    "authors": "Sourish Bhattacharya",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2028739",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4919,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.2028739"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1920759",
+    "title": "Bayesian beta regression analysis of the association between Klebsiella pneumoniae resistance rates and antibiotic use: a 6-year quarterly time-series study",
+    "abstract": "BackgroundThis exploratory study examined the potential association between the resistance rate of Klebsiella pneumoniae and antimicrobial consumption in the preceding quarter, aiming to provide a reference for antimicrobial stewardship and the rational use of antimicrobials.MethodsThis retrospective study used single-center aggregated data from our institution over the past 6 years (24 quarters). Bayesian beta models were used to explore the potential association between the resistance rate of K. pneumoniae and antimicrobial consumption in the preceding quarter while controlling for temporal trends. A three-tier strategy—model comparison, robustness checks, and sensitivity analysis—was adopted to assess the direction and robustness of this association.ResultsA total of 3,326 K. pneumoniae isolates were identified, accounting for 13.25% of all clinical isolates. Respiratory specimens were the predominant source (n = 1,682), indicating that the respiratory tract was a major site of infection. Association analysis showed that the trimethoprim-sulfamethoxazole resistance rate was positively associated with tigecycline DDDs: the main model outperformed the time-only baseline (ΔLOOIC = −4.47), with β = 0.0012 (95% CrI [0.00020, 0.00226]; P(β > 0) = 98.9%); each IQR increase in tigecycline DDDs was associated with an estimated increase of 4.81 percentage points in the trimethoprim-sulfamethoxazole resistance rate. This association remained consistent under MBB-based inference, with HAC-robust standard errors, and after 5% winsorization. It also showed the same direction after adding a 2023 indicator, a 2023 step variable, or a seasonal term. After excluding 2022–2024 data, the direction did not reverse [P(β > 0) = 72.4%], but the reduced sample size may have limited the strength of evidence in this subsample. The ceftazidime resistance rate showed a positive association with tigecycline DDDs in the full sample (β = 0.0017, 95% CrI [0.00007, 0.00334]), and MBB, Winsorization, and HAC-robust inference all supported this association. In the subsample excluding the 2022–2024 data, the positive association was substantially attenuated [P(β > 0) = 34.1%]; its temporal stability therefore warrants cautious interpretation and further validation in large independent samples. Piperacillin-tazobactam resistance showed a suggestive negative association with amoxicillin-clavulanate DDDs, whereas trimethoprim-sulfamethoxazole resistance showed a suggestive positive association with meropenem DDDs; evidence for both was limited. The remaining combinations provided no clear evidence of association.ConclusionThis exploratory study suggests a potential association between the resistance rate of K. pneumoniae and antimicrobial consumption, supporting further validation in independent large-sample studies. These findings may inform antimicrobial stewardship research and suggest that agents such as tigecycline warrant inclusion in future monitoring and evaluation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1920759",
+    "date": "2026-11-16",
+    "authors": "Sucai Chen",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1920759",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4920,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.1920759"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2002178",
+    "title": "Sendai virus, a candidate vaccine for the prevention of respiratory virus infections in children: a review",
+    "abstract": "BackgroundRespiratory viruses including human parainfluenza virus (hPIV), respiratory syncytial virus (RSV), and human metapneumovirus (hMPV), pose serious, potentially lethal threats to humans, particularly infants and young children. While maternal vaccines and monoclonal antibodies are advancing to provide transient protection against these viruses, licensed pediatric vaccines are not yet available. Sendai virus (SeV) is now being developed as an intranasal (I.N.) vaccine candidate for the prevention of serious respiratory viral infections in children.MethodsTo examine the potential of replication-competent Sendai virus and its recombinants as pediatric respiratory virus vaccines against hPIV, RSV and hMPV, we searched literature databases and evaluated both historical and contemporary published research.ResultsSeV and SeV recombinant vaccines have been tested pre-clinically in a variety of animal models and in Phase I clinical studies. In pre-clinical models, a single dose of SeV induced rapid and long-lasting B- and T-cell responses in the upper respiratory tract and blood. When recombinant SeV constructs were produced and formulated into cocktail vaccines, they were protective against four different respiratory pathogens simultaneously. Vaccines were successful when partnered with passively transferred antibodies; specifically, when a recombinant SeV-based RSV vaccine was tested in the presence of passively transferred monoclonal or polyclonal PIV-specific or RSV-specific antibodies in a cotton rat model, the vaccine provided durable protective immunity against RSV. In clinical trials, SeV was well-tolerated and uniformly immunogenic in PIV-seropositive 1–2 year old children. Methods have been developed for the manufacture of stable SeV-based vaccine products, compatible with wide global distribution of SeV vaccines for clinical use.ConclusionTo date, results highlight SeV as an attractive pediatric vaccine candidate. Continued clinical testing of SeV may provide global relief from serious respiratory viral infections in infants and young children.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2002178",
+    "date": "2026-11-16",
+    "authors": "Julia L. Hurwitz",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2002178",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4921,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.2002178"
+    ]
+  },
+  {
+    "id": "10.3389/fmars.2026.1998517",
+    "title": "Evaluation of all three pinniped families to triannual vaccination with an inactivated rabies vaccine",
+    "abstract": "A recent outbreak of rabies virus has been identified as an emerging epidemic among Cape fur seals (Arctocephalus pusillus pusillus) along the southern African coastline. This marks the first large-scale detection of rabies virus in marine mammals and raises significant concerns about potential transmission to other mammals and humans. There is also growing apprehension about the virus’s capacity to spread across national and continental borders, with a potential spillover event occurring into the sub-Antarctic region. Vaccination of wild populations would be a cornerstone to controlling this outbreak. This study investigated whether pinnipeds housed at Ocean Park Corporation (OPC) in Hong Kong developed an immune response to a commercially available inactivated rabies vaccine (Rabisin® and Nobivac®). Sixteen pinnipeds, representing all three pinniped family groups including Californian sea lion (Zalophus californianus), Pacific walrus (Odobenus rosmarus), Harbor seal (Phoca vitulina), and Spotted seal (Phoca largha), received a 1 mL dose of an inactivated parenteral vaccine every three years. Historical serum samples collected over five years during routine health examinations were analyzed to assess the duration of the vaccine-induced immune response. The antibody titers indicated that all individuals seroconverted and remained seropositive following vaccination. Although antibody titers declined before administration of the second vaccine dose at the three-year interval, all recorded values remained above the 0.5 IU/L threshold considered indicative of an adequate (presumed protective) immune response to rabies vaccination. The study concluded that the parenteral vaccine was safe for use across all three pinniped families in the species studied and that a single dose provided protective immunity for approximately three years, after which booster vaccination was recommended.",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.1998517",
+    "date": "2026-11-16",
+    "authors": "Brett R. Gardner",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.1998517",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/marine-science/rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4922,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmars.2026.1998517"
+    ]
+  },
+  {
+    "id": "10.1186/s42523-026-00655-5",
+    "title": "Thymol and carvacrol alleviate diarrhea in goat kids by remodeling the gut microbiota and enhancing mucin-associated barrier responses",
+    "abstract": "Background\n                     Although thymol and carvacrol (CAT) have been shown to alleviate diarrhea in 3-month-old Tibetan cashmere goat kids, it remains unclear whether CAT exert these effects by remodeling the intestinal microbiota and modulating metabolite-associated mucin responses.\n                  \n                     Results\n                     Here, we established an acute E. coli O157:H7 challenge-associated intestinal disturbance model in 3-month-old goat kids by intraperitoneal injection and used integrated multi-omics analyses to investigate the effects of CAT. CAT treatment significantly remodeled the intestinal microbiota, reduced the abundance of E. coli, and enriched the potential commensal bacterium Romboutsia maritimum. Metabolomic analysis showed that CAT significantly increased benzyl cinnamate (BzC), which was positively correlated with R. maritimum and IL-10. Genome-based functional annotation indicated that R. maritimum harbors genes annotated to phenylpropanoid-related pathways, suggesting predicted metabolic potential that may be associated with BzC-related metabolism. In parallel, proteomic analysis revealed that CAT upregulated proteins involved in mucin-type O-glycosylation in intestinal epithelial tissues, with GALNT7 identified as a key responsive protein. Functional assays further demonstrated that BzC promoted MUC2 expression in a GALNT7-dependent manner, thereby supporting mucin-associated barrier responses and attenuating diarrhea-related intestinal alterations.\n                  \n                     Conclusions\n                     These findings identify a potential microbiota–metabolite regulatory pathway by which CAT protects against intestinal inflammation in young goat kids and provide new insights into microbiota-based strategies for controlling diarrhea in young ruminants.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00655-5",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00655-5",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4923,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1186/s42523-026-00655-5"
+    ]
+  },
+  {
+    "id": "10.1186/s42523-026-00658-2",
+    "title": "Western-style diet altered Salmonella infection pattern and changed infection-associated gut microbiome and liver bacterial in mice model",
+    "abstract": "The effect of Western-style diet (WSD) on Salmonella infection was investigated in this study. We utilized a WSD mice model, coupled with 16S rRNA and metagenomic sequencing for microbiota analysis, to investigate how WSD alters gut microbiota and liver-associated bacteria composition. We found that WSD feeding influence Salmonella burden in feces, and increased host mortality. This increase was associated with elevated extraintestinal translocation, involving both Salmonella and commensal bacteria. Interestingly, depleting gut microbiota with antibiotics rendered the mice equally susceptible to Salmonella infection, irrespective of their diets. Mechanistically, we observed that WSD feeding reduced the interspecies interaction of commensal bacteria negatively associated with Salmonella and increased intestinal permeability. Furthermore, Salmonella infection altered gut microbiota composition and function, particularly in mice fed with WSD. Additionally, we found that WSD not only boosted Salmonella translocation but also increased gut microbiota translocation into the liver, altering liver-associated bacteria composition and impairing liver function. In summary, our comprehensive investigation underscores the intricate connections between WSD, gut microbiota and Salmonella infection.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00658-2",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00658-2",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4924,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1186/s42523-026-00658-2"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.765928",
+    "title": "Long-term Epstein-Barr virus persistence in immunocompetent, primate-related Chinese tree shrews and inducible lytic reactivation in species-matched epithelial cultures",
+    "abstract": "Experimental models combining long-term Epstein-Barr virus (EBV) infection in immunocompetent animals with species-matched cellular systems for studying viral regulation remain limited. Chinese tree shrews combine evolutionary proximity to primates with small-animal practicality and native immunocompetence, offering a complementary nonrodent model. We serially monitored blood and oral specimens from six animals inoculated with Akata EBV. Five were followed for approximately two years, including two beyond two years, and the sixth underwent tissue collection at approximately six months. Intermittent EBV DNA detection included blood positivity beyond two years in one animal. Viral RNA localized to liver, lung, and spleen at six months and to liver and spleen of another animal near two years, supporting persistent infection. All tested blood and oral specimens from six uninoculated controls were negative. In parallel, renewable lung-derived epithelial/mesothelial-like cultures maintained EBV infection in two immortalization backgrounds. Viral profiling identified Qp-associated EBNA1 transcription and latency-associated expression alongside spontaneous lytic transcription. Host transcriptomics identified 684 robust EBV-associated expression changes, with prominent enrichment of MYC and E2F target programs and metabolic pathways, together with reduced interferon- and inflammatory-response transcription across both backgrounds. These findings nominate MYC/E2F-associated host programs as candidate regulators of the balance between maintained infection and lytic activity. Zta expression and sodium butyrate induced lytic reactivation, with infectious virus production demonstrated after sodium butyrate treatment. This integrated platform complements humanized mice and nonhuman-primate models and connects long-term EBV persistence in vivo with experimentally accessible studies of host regulation and the latent-to-lytic transition in species-matched cultures.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765928",
+    "date": "2026-11-16",
+    "authors": "Avilala, J., Dochi, H., Wekselblatt, J., Flemington, E., Pierce, A., Brown, C., Dobek, G., Ott, K., Roussel, P., Abdelghani, R., Becnel, D., Sides, M., Morris, G. F., Liu, H., Feng, W., Lin, Z.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765928v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4925,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.11.765928"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.12.766166",
+    "title": "Computational identification and in vitro evaluation of astragaloside II as an inhibitor of dengue virus NS1-induced endothelial hyperpermeability",
+    "abstract": "Background Dengue is a mosquito-borne viral disease in which severe cases are marked by leakage of plasma from blood vessels. The secreted nonstructural protein 1 (NS1) of dengue virus damages the endothelial barrier and is a drug target, but no approved antiviral exists. We aimed to identify compounds that target NS1 and to test whether the selected compound, astragaloside II (ASII), counteracts NS1-induced endothelial hyperpermeability. Methodology/Principal findings We built a deep learning model that predicts compound-target binding from chemical fingerprints and protein sequences, and used it to prescreen 177 natural compounds against NS1 of the four dengue virus serotypes. The model outperformed the DeepConv-DTI baseline in recall and F1-score on a BindingDB holdout set and on two independent test sets. ASII was predicted to bind NS1 and was docked onto the NS1 dimer. In human microvascular endothelial cells (HMEC-1), NS1 reduced the relative trans-endothelial electrical resistance to 0.56 (P < 0.001), whereas ASII at 10-30 {micro}g/mL kept resistance close to control levels without detectable cytotoxicity. ASII did not reduce NS1 internalization. In a competitive enzyme-linked immunosorbent assay, ASII inhibited NS1 binding to heparan sulfate in a dose-dependent manner (half-maximal inhibitory concentration 51.12 {micro}g/mL; 95% confidence interval 47.91-56.24 {micro}g/mL), although inhibition at the protective doses was only 8-26%. Conclusions/Significance ASII is a candidate for further study as a modulator of NS1-induced endothelial hyperpermeability. Its mechanism remains unresolved and requires further study. Direct binding to NS1, activity in infected cells and effects in other endothelial models were not tested here, and the computational predictions require experimental confirmation.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766166",
+    "date": "2026-11-16",
+    "authors": "Jantrachotechatchawan, C., Chawnawa, W., Leephatarakit, N., Maneepitasut, W., Maneerattanasak, S., Manoret, P., Poyseungnoen, K., Boonarkart, C., Puttikhunt, C., Avirutnan, P., Noisakran, S., Auewarakul, P., Duangrattanalert, K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766166v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "protein",
+        "sequence",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "method",
+          "protein",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4926,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.12.766166"
+    ]
+  },
+  {
+    "id": "10.1007/s00248-026-02922-z",
+    "title": "Differential Responses in the Root Endophytic Microbiome of Resistant and Susceptible Ash (Fraxinus spp.) Species Infested by the Emerald Ash Borer (Agrilus planipennis)",
+    "abstract": "Plant endophytes are recognized to play important roles in defenses against insect pests, but little is known about how plant root endophytic microbes respond to aboveground herbivory and how these responses are influenced by host plant’s intrinsic resistance. To investigate this above-belowground biotic interaction, we conducted a common garden experiment using a native Manchurian ash (Fraxinus mandshurica) and a non-native velvet ash (Fraxinus velutina) species that are resistant and susceptible respectively to their major insect pest, emerald ash borer (EAB, Agrilus planipennis). We inoculated the two ash species with EAB eggs, and compared the consequences for their root endophytic bacterial and fungal communities before and after the egg inoculation. The species richness and Shannon diversity of root endophytic bacterial community did not differ between the two ash species before inoculation, but they became significantly higher in susceptible velvet ash than in resistant Manchurian ash following EAB egg inoculation. Root endophytic bacterial community composition was similar between the two ash species before the treatment, but differed significantly following EAB egg inoculation. In particular, Aeromicrobium showed a higher relative abundance in Manchurian ash than in velvet ash following the inoculation. The complexity of root endophytic bacterial co-occurrence networks was overall higher in Manchurian ash than in velvet ash, though the network complexity of both host species decreased after EAB inoculation. The results of predicted functional profiles suggested that relative abundances of bacterial taxa related to fermentation were higher in velvet ash than in Manchurian ash, regardless of the egg inoculation. On the other hand, the diversity, relative abundances of taxa, complexity of co-occurrence networks and the predicted functional profiles of fungal communities did not differ between host species or being influenced by egg inoculation. In summary, our study shows that, before EAB egg inoculation, resistant Manchurian ash and susceptible velvet ash differed in bacterial co-occurrence network structure, but not in community composition or alpha diversity. Following inoculation, differences in diversity and community composition emerged between the two host species. These findings contribute to a better understanding of the potential indirect interactions between aboveground herbivory and belowground endophytic microbiomes in relation to host plant resistance.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02922-z",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02922-z",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbe",
+        "microbes",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4927,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1007/s00248-026-02922-z"
+    ]
+  },
+  {
+    "id": "10.1007/s00248-026-02931-y",
+    "title": "Soil Microbial Carbon Fixation Capacity Across Contrasting Restoration Contexts in Yellow River Delta Wetlands: Associations with Soil Conditions and Carbon-Fixing Communities",
+    "abstract": "Microbial carbon fixation is important for soil carbon sequestration in coastal wetlands. Ecological restoration has been widely implemented to recover the structure and functioning of degraded coastal wetlands, yet its effects on microbial carbon fixation remain insufficiently understood. To address this knowledge gap, we analyzed changes in soil physicochemical properties, carbon fractions, microbial carbon fixation potential, and carbon-fixing microbial community composition and functions in freshwater-restored wetlands (FRZ), Suaeda salsa-restored wetlands (SRZ), and natural Suaeda salsa zone used as the unrestored reference (NSZ) in the Yellow River Delta. Compared with NSZ, FRZ generally showed higher microbial carbon fixation rates, whereas microbial carbon fixation in SRZ was relatively constrained, particularly in autumn. The mean fixation rate across the four sampling seasons was 3.6 times higher in FRZ than in SRZ. Carbon-fixing community composition differed among restoration zones, with Ignavibacterium and Desulfatitalea enriched in FRZ and Candidatus Promineifilum and Nitrospira enriched in SRZ. The enrichment of the Calvin cycle and its key genes, cbbL and cbbM, in FRZ may be associated with reduced soil salinity and increased dissolved organic carbon (DOC) content. The weakened Calvin cycle and relative enrichment of the 3-hydroxypropionate (3-HP) cycle in SRZ may be associated with reduced DOC availability and elevated nitrate concentrations. Overall, different restoration strategies may influence microbial carbon fixation potential in coastal wetland soils by altering key soil conditions, particularly salinity, DOC, and nitrate. These findings improve our understanding of how restoration-associated soil conditions are linked to microbially mediated carbon sequestration and provide insights for managing coastal wetland carbon sink functions.\n                     Graphical abstract",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02931-y",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02931-y",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4928,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1007/s00248-026-02931-y"
+    ]
+  },
+  {
+    "id": "10.1111/1758-2229.70469",
+    "title": "Antimicrobial Resistance in Hospital Wastewater at the Padma River Interface, Rajshahi, Bangladesh: A Phenotypic Assessment",
+    "abstract": "The major river, the Padma, is contaminated directly by municipal wastewater and discharges from medical facilities that carry MAR.\n\nABSTRACT\nInadequate biomedical waste management in Rajshahi, Bangladesh, may facilitate dissemination of antibiotic‐resistant bacteria (ARB) into surface waters, posing public health and ecological risks. Fifteen grab samples were collected from three hospital effluents (Rajshahi Medical College, Islami Bank Medical College, Barind Medical College) and two river sites (upstream and downstream). Colony morphology and biochemical tests (Gram staining, catalase, oxidase, urease, TSI, citrate utilization) were used to identify presumptive isolates. Antibiotic susceptibility was tested following the CLSI disk diffusion method against 13 commonly used antibiotics. Seven bacterial groups from 19 isolates were recovered, with Pseudomonas spp. being predominant (42.1%), followed by Escherichia coli (15.8%). Severe antimicrobial resistance was observed across the isolate collection, particularly against several β‐lactam antibiotics. All isolates exhibited MAR indices above 0.20 (range 0.308–0.846). The detection of various bacterial groups with high levels of phenotypic antimicrobial resistance highlights the potential importance of wastewater environments in the broader AMR landscape of Bangladesh. These findings provide baseline evidence for environmental AMR surveillance in Rajshahi and support the need for integrated health monitoring.\n\nThe major river, the Padma, is contaminated directly by municipal wastewater and discharges from medical facilities that carry MAR.\n\nABSTRACT\nInadequate biomedical waste management in Rajshahi, Bangladesh, may facilitate dissemination of antibiotic-resistant bacteria (ARB) into surface waters, posing public health and ecological risks. Fifteen grab samples were collected from three hospital effluents (Rajshahi Medical College, Islami Bank Medical College, Barind Medical College) and two river sites (upstream and downstream). Colony morphology and biochemical tests (Gram staining, catalase, oxidase, urease, TSI, citrate utilization) were used to identify presumptive isolates. Antibiotic susceptibility was tested following the CLSI disk diffusion method against 13 commonly used antibiotics. Seven bacterial groups from 19 isolates were recovered, with Pseudomonas spp. being predominant (42.1%), followed by Escherichia coli (15.8%). Severe antimicrobial resistance was observed across the isolate collection, particularly against several β-lactam antibiotics. All isolates exhibited MAR indices above 0.20 (range 0.308–0.846). The detection of various bacterial groups with high levels of phenotypic antimicrobial resistance highlights the potential importance of wastewater environments in the broader AMR landscape of Bangladesh. These findings provide baseline evidence for environmental AMR surveillance in Rajshahi and support the need for integrated health monitoring.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70469",
+    "date": "2026-11-16",
+    "authors": "Sumaya Tabassum, \nMuktaky Akter Mohona, \nMd Shamiul Sharif Ahmed, \nAunwesha Sahani, \nAyesha Ashraf",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70469?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4929,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1111/1758-2229.70469"
     ]
   }
 ]

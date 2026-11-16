@@ -2240,6 +2240,13 @@
     ]
   },
   {
+    "name": "Current opinion in psychology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Current opinion in structural biology",
     "scope": [
       "genomics",
@@ -3554,6 +3561,13 @@
     ]
   },
   {
+    "name": "Imaging neuroscience (Cambridge, Mass.)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "iMeta",
     "scope": [
       "genomics",
@@ -4086,6 +4100,13 @@
   },
   {
     "name": "JMIR AI",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "JMIR formative research",
     "scope": [
       "genomics",
       "microbiology"
@@ -5673,6 +5694,13 @@
     ]
   },
   {
+    "name": "Medical engineering & physics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Medical image analysis",
     "scope": [
       "genomics",
@@ -6733,6 +6761,13 @@
   },
   {
     "name": "One health outlook",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Online journal of public health informatics",
     "scope": [
       "genomics",
       "microbiology"
