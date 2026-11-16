@@ -267584,5 +267584,353 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "睡眠・覚醒調整のための模擬光スケジュール：強化学習の導入に関する検討",
     "abstract_ja": "要旨　本研究では、特定の睡眠・覚醒サイクル目標の達成を目的とした、パーソナライズされた照明スケジュールを生成するための開発フレームワークの可能性について検討する。あらかじめ定義されたヒューリスティックや静的な照明推奨に依存する既存の手法とは異なり、本フレームワークでは照明スケジュールの策定を逐次的な意思決定問題として定式化し、強化学習に基づく深層決定論的方策勾配（DDPG）アルゴリズムを用いて、所望の睡眠・覚醒クラスの達成に向けて現実世界の光曝露パターンを反復的に修正する。このプロセスは、生態学的に収集されたデータで学習させた畳み込みニューラルネットワークベースの睡眠・覚醒分類モデルによって支援される。生成されたスケジュールが概日リズムに及ぼす影響は、検証済みの概日リズムモデルによる低照度メラトニン発現（DLMO）シミュレーションを用いて評価される。明光照度に加えてメラノピックを取り入れ、業界向けの制約条件を組み込むことで、本研究は現代的な手法、規格、および知見を用いた、睡眠・覚醒調整のための照明スケジュールの生成および修正における新たな手法の可能性を探る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760668",
+    "title": "Unlocking the secrets of paired terminal genomic repeats utilised by the  Burkholderia  jumbo phage Matilda",
+    "abstract": "Bacteriophages (phages) are viruses that infect bacteria. Jumbo phages have genomes exceeding 220 kb, which can support greater functional independence and complexity. This work identified vB_BceM_Matilda (φMatilda), a novel  Burkholderia -targeting jumbo phage. Before injecting its genome into the host bacterium, φMatilda binds to the bacterial flagellum, the rotation of which is required to drive a productive phage infection. Its linear 267 kb dsDNA genome has a previously undescribed tripartite architecture, with bidirectional terminal elements of 1.3 kb and 25 kb, each flanked by distinct inverted repeats of 1.5 kb and 18 kb, respectively. These architectural elements bookend the genome. Transcriptomic and proteomic analyses tracked the phage infection process and confirmed that genes within these terminal elements are transcribed and translated during infection. The presence of bidirectional terminal sequences in related jumbo phages suggests that the tripartite genome architecture may be conserved and functionally important. This work represents the first description of this genome architecture in any organism, expanding our understanding of genome organisation and raising new questions about the replication, packaging, and evolution of jumbo phage genomes.  Visual abstract",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760668",
+    "date": "2026-10-22",
+    "authors": "Lewis JM, Burns O, Mogg H, Mistry T, Lee Y, Weigele P, Mahenthiralingam E, Chen Y, Scott NE, Baxter L, Mesquita CS, Stark R, Lithgow T, Barr JJ, Sagona AP.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348496",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "bacterium",
+        "phage",
+        "phages",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 82,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760668"
+    ],
+    "translation": {
+      "title": {
+        "hash": "53f3144ca1fd06b2e454b37a5f5f8a6e05cc28e7f7896489a8283b2e9c1613c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:47:06.384497+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fd513ecf151f3818d12f4125596483277135937e5dcc4f24b1f8aaf58c5ef75a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:47:06.384497+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Burkholderia jumboファージMatildaが利用する対になった末端ゲノムリピートの謎を解明する",
+    "abstract_ja": "バクテリオファージ（ファージ）は、細菌に感染するウイルスである。ジャンボファージは220 kbを超えるゲノムを有しており、これによりより高い機能的独立性と複雑性を実現できる。本研究では、Burkholderiaを標的とする新規ジャンボファージvB_BceM_Matilda（φMatilda）を同定した。φMatildaは、宿主細菌にゲノムを注入する前に細菌の鞭毛に結合し、その回転が生産的なファージ感染の駆動に必要となる。その線状の267 kb dsDNAゲノムは、これまで報告されていなかった三部構成の構造を有しており、1.3 kbおよび25 kbの双方向性末端要素を備え、それぞれが1.5 kbおよび18 kbの独立した逆位反復配列に挟まれている。これらの構造要素がゲノムの両端を構成している。トランスクリプトームおよびプロテオーム解析によりファージ感染過程を追跡し、これらの末端要素内の遺伝子が感染中に転写および翻訳されることを確認した。近縁のジャンボファージに双方向性末端配列が存在することは、この三部構成のゲノム構造が保存されており、機能的に重要である可能性を示唆している。本研究は、あらゆる生物においてこのゲノム構造を初めて報告したものであり、ゲノム構成に関する理解を深めるとともに、ジャンボファージゲノムの複製、パッケージング、および進化に関する新たな問いを提起するものである。  ビジュアルアブストラクト"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2242.v1",
+    "title": "Comparative Genomics Analyses of Bacterial tRNA Modification Protein Families Using Clusters of Orthologous Genes (COG) and KEGG Orthology (KO) Classification Systems",
+    "abstract": "Accurate identification of bacterial tRNA modification enzymes is essential for understanding translation, physiology, and genome evolution, yet annotation remains complicated by paralogy, multifunctionality, functional divergence, and non-orthologous replacement. We compiled an experimentally supported catalog of bacterial tRNA modification proteins and linked them to 71 Clusters of Orthologous Groups (COG) and 74 KEGG Orthology (KO) families. Their distributions, conservation, and copy-number patterns were examined across 1,322 bacterial genomes represented in both annotation systems. Comparison of COG and KO assignments revealed strong agreement for one-to-one family relationships but substantial discordance for broad COG families that encompass functionally distinct paralogs. Genome-scale profiling identified a conserved core repertoire of tRNA modification systems that was supported by both phylogenetic conservation and retention in bacteria with highly reduced genomes. Phylogenetic distribution patterns highlighted known and candidate cases of non-orthologous replacement, including alternative solutions for m5U54 and xm5(s2)U34 biosynthesis, and identified Actinomycetota as a promising source of currently uncharacterized tRNA modification enzymes. Gene-duplication analyses revealed that most core tRNA modification pathways were maintained as single-copy genes or highly conserved single-copy modules, whereas only a limited number of families, displayed substantial expansion. Predicted tRNA modification repertoires increased with genome size, but the relationship was weak, lineage dependent, and better described by log-linear than linear models, indicating diminishing gains in modification capacity with increasing genome complexity. Finally, phylogenetically informed analyses identified a small number of associations between specific tRNA modification pathways and physiological traits. Together, these results provide an updated COG-KO reference framework for bacterial tRNA modification systems, clarify the strengths and limitations of commonly used orthology resources, and highlight evolutionary processes shaping the diversification of bacterial tRNA modification pathways.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2242.v1",
+    "date": "2026-10-22",
+    "authors": "Reed CJ, Yuan Y, Crécy-Lagard Vd.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349898",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "classification",
+        "gene",
+        "genomic",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 122,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2242.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0b01ad94b48bf143facb06b8fda45eb685931c7c5e06f2b8fc2cafd51343be0d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:47:06.384497+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "10e900d367e518639ab7e1000449b20a7adeed62e7fe105c4850f0ad50b9b3da",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:47:06.384497+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オーソログ遺伝子クラスター（COG）およびKEGGオーソロジー（KO）分類体系を用いた細菌tRNA修飾タンパク質ファミリーの比較ゲノミクス解析",
+    "abstract_ja": "細菌のtRNA修飾酵素を正確に同定することは、翻訳、生理学、およびゲノム進化を理解する上で不可欠であるが、パラログ、多機能性、機能的分岐、および非オーソログ置換により、アノテーションは依然として困難なままである。我々は、実験的に裏付けられた細菌tRNA修飾タンパク質のカタログを作成し、それらを71のオーソログ群クラスター（COG）および74のKEGGオーソロジー（KO）ファミリーに紐付けた。両アノテーションシステムで代表される1,322の細菌ゲノムを対象に、それらの分布、保存性、およびコピー数パターンを検討した。COGおよびKOの割り当てを比較したところ、1対1のファミリー関係については強い一致が見られたが、機能的に異なるパラログを包含する広範なCOGファミリーについては顕著な不一致が認められた。ゲノムスケールのプロファイリングにより、系統学的保存性とゲノム高度に縮小した細菌における保持の両方によって裏付けられた、保存されたtRNA修飾システムのコアレパートリーが同定された。系統学的分布パターンからは、m5U54およびxm5(s2)U34生合成の代替解を含む、非オーソログ置換の既知例および候補例が浮き彫りになり、またActinomycetotaが、現在未特性解析であるtRNA修飾酵素の有望な供給源として同定された。遺伝子重複解析の結果、ほとんどのコアtRNA修飾経路は単一コピー遺伝子または高度に保存された単一コピーモジュールとして維持されていた一方で、大幅な拡張を示したファミリーは限定的であった。予測されるtRNA修飾レパートリーはゲノムサイズとともに増加したが、その関係は弱く、系統依存的であり、線形モデルよりも対数線形モデルでより適切に記述された。これは、ゲノムの複雑性が増すにつれて修飾能の向上が減衰することを示している。最後に、系統学的知見に基づく解析により、特定のtRNA修飾経路と生理学的形質との間に少数の関連性が認められた。これらの結果を総合すると、細菌tRNA修飾システムに関する更新されたCOG-KOリファレンスフレームワークが提供され、一般的に使用されているオーソロジーリソースの強みと限界が明確になるとともに、細菌tRNA修飾経路の多様化を形作る進化プロセスが浮き彫りとなった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760802",
+    "title": "Systematic mapping of the prokaryotic noncoding sequence space with a genomic language model",
+    "abstract": "Prokaryotic genomes encode a vast repertoire of noncoding elements such as ribozymes, riboswitches, and CRISPR RNAs. The sequence-level diversity of these intergenic elements precludes alignment-based clustering that would enable annotation and discovery of novel noncoding RNA families. Here, we show that a genomic language model fine-tuned on prokaryotic intergenic sequences learns representations of noncoding elements from DNA sequence. We used these embeddings to organize 376 million intergenic regions from 1.3 terabase pairs of prokaryotic genomes and metagenomes into 5.14 million clusters. This approach nominated 20,149 clusters of putative structured RNAs with a candidate protein partner. Periodicity in token entropies revealed internal architecture, recovering CRISPR, TIGR and VIPR arrays together with their cognate effector proteins from sequence alone. Targeted clustering of bridge recombinase-adjacent sequences identified bridge RNA variants with longer guide recognition sequences than any characterized ortholog. Finally, we directed teams of AI agents to mine the database under researcher-defined criteria, uncovering divergent riboswitches, ribozymes, and other structured RNAs with biological hypotheses for their function. We release a publicly available database that transforms the dark matter of prokaryotic genomes into an explorable resource for human-agent molecular discovery.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760802",
+    "date": "2026-10-22",
+    "authors": "Sun G, Hudelmaier T, Gilligan JC, Gonzalez GA, Yin P, Wan F, Ma Z(, Durrant MG, Ricci-Tam C, Pawluk A, Puschnik AS, Konermann S, Hsu PD.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348398",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "genome",
+        "metagenom",
+        "metagenomes",
+        "prokaryotic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 124,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760802"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a9d516d6c9d96f75b99412f7d882e9255d306d45c839aca31b6b9b9e7590baa6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:47:06.384497+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f513ef5e9273000526733bb21f1a0c1a8f2f84be7fa80b4fdd52123d5fdaefbd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:47:06.384497+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノム言語モデルを用いた原核生物非コード配列空間の系統的マッピング",
+    "abstract_ja": "原核生物のゲノムには、リボザイム、リボスイッチ、CRISPR RNAといった膨大な数の非コードエレメントがコードされている。これらの遺伝子間エレメントの配列レベルの多様性により、アノテーションや新規非コードRNAファミリーの発見を可能にするアライメントベースのクラスタリングは困難となっている。本研究では、原核生物の遺伝子間配列でファインチューニングされたゲノム言語モデルが、DNA配列から非コードエレメントの表現を学習することを示す。我々はこれらの埋め込み表現を用いて、1.3テラベース対の原核生物ゲノムおよびメタゲノムから得られた3億7,600万個の遺伝子間領域を514万個のクラスターに整理した。この手法により、候補となるタンパク質パートナーを持つ、構造化RNAと推定される20,149個のクラスターが同定された。トークンエントロピーの周期性から内部構造が明らかになり、配列のみからCRISPR、TIGR、VIPRアレイおよびそれらに対応するエフェクタータンパク質が復元された。ブリッジ組換え酵素隣接配列を標的としたクラスタリングにより、既知のどのオルソログよりも長いガイド認識配列を持つブリッジRNAバリアントが同定された。最後に、AIエージェントチームに研究者が定義した基準に基づいてデータベースを探索させ、機能に関する生物学的仮説を伴う分岐型リボスイッチ、リボザイム、およびその他の構造化RNAを明らかにした。我々は、原核生物ゲノムの「ダークマター」を、人間とエージェントによる分子発見のための探索可能なリソースへと変える、公開データベースをリリースする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11207504/v1",
+    "title": "From assembly to yield: kingdom-specific rules, keystone networks and a Bayesian structural equation framework for the maize rhizosphere microbiome",
+    "abstract": "Abstract    Background and aims.  The rhizosphere microbiome is an extension of the crop genome, yet the rules governing its assembly and its statistical links to yield remain unresolved. We asked whether bacteria and fungi follow kingdom-specific assembly rules across genotypes and stages (RQ1), which taxa form network backbones (RQ2), and through which statistical pathways microbial features connect to measured grain yield (RQ3).  Methods.  Bacterial and fungal communities of seven maize cultivars were profiled at seedling (V6) and tasseling (VT) stages, integrating diversity analyses, robustness-validated co-occurrence networks, FAPROTAX/FUNGuild annotation, BSEM, and machine-learning signature identification; grain yield was measured and no forecasting was attempted.  Results.  Bacterial assembly was dominated by developmental stage (ANOSIM R = 0.90), shifting from copiotrophic Proteobacteria toward oligotrophic lineages, whereas fungi retained stronger genotype structure at tasseling (R up to 0.74). Phenotypic and community distances were decoupled at the genotype level. Proteobacteria and Ascomycota formed network backbones whose removal eliminated 81.5% and 93.6% of edges. BSEM reproduced 68–69% of yield variance and resolved coherent phyla → functional guilds → agronomic traits → yield pathways (β = 0.55 for agronomic traits → yield), with cultivar effects ranging from + 0.50 (Nonghua 106) to − 0.49 (Dr. King 825). Machine learning confirmed complementary yield-associated signatures (Rhodanobacter ASV1138, ρ = 0.91).  Conclusion.  Bacteria and fungi obey kingdom-specific assembly rules; Proteobacteria and Ascomycota are structurally indispensable network backbones; and a Bayesian structural equation framework traces interpretable pathways from microbiome features to measured yield, offering testable hypotheses for microbiome-assisted maize breeding.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11207504/v1",
+    "date": "2026-10-22",
+    "authors": "Ban Y, Zhao G, Feng S, Han X, Lü Q, You Y, Huang T, Wang G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347977",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 125,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11207504/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3d1d0ab595102530190363b608cc35b96a7d1cea57e95376591ef965efc1834f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:47:06.384497+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "814bdb50fcc22dfb68d601c75c8a88dbfcd0b2bb32f04a6ed873cba0f120a8bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:47:06.384497+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "組み立てから収量まで：トウモロコシ根圏微生物叢における王国特異的な規則、キーストーンネットワーク、およびベイズ構造方程式フレームワーク",
+    "abstract_ja": "要旨    背景および目的。根圏マイクロバイオームは作物ゲノムの延長であるが、その構築を規定する規則や収量との統計的関連性は未解明のままである。本研究では、細菌および真菌が遺伝子型や生育段階にわたって界特異的な構築規則に従うか（RQ1）、どの分類群がネットワークのバックボーンを形成するか（RQ2）、および微生物学的特徴が測定された穀物収量とどのような統計的経路で結びついているか（RQ3）を検討した。方法。7つのトウモロコシ栽培品種の細菌および真菌群集を、実生期（V6）および穂形成期（VT）においてプロファイリングした。解析には、多様性解析、ロバスト性検証済みの共起ネットワーク、FAPROTAX/FUNGuildアノテーション、BSEM、および機械学習によるシグネチャー同定を組み込んだ。穀物収量は測定したが、予測は試みなかった。結果。細菌の構築は生育段階が支配的であり（ANOSIM R = 0.90）、栄養要求性の高いプロテオバクテリアから栄養要求性の低い系統へと移行した。一方、真菌は穂形成期においてより強い遺伝子型構造を維持していた（R値最大0.74）。表現型距離と群集距離は遺伝子型レベルで脱結合していた。プロテオバクテリアと子嚢菌門はネットワークのバックボーンを形成しており、これらを除去するとエッジの81.5%および93.6%が消失した。BSEMは収量変動の68–69%を再現し、一貫した門 → 機能ギルド → 農学的形質 → 収量経路（農学的形質 → 収量のβ = 0.55）を明らかにした。栽培品種の影響は+ 0.50（Nonghua 106）から− 0.49（Dr. King 825）の範囲であった。機械学習により、収量に関連する相補的なシグネチャー（Rhodanobacter ASV1138, ρ = 0.91）が確認された。結論。細菌および真菌は界特異的な構築規則に従う。プロテオバクテリアと子嚢菌門は構造的に不可欠なネットワークのバックボーンである。また、ベイズ構造方程式フレームワークは、マイクロバイオームの特徴から測定収量に至る解釈可能な経路を追跡し、マイクロバイオーム支援によるトウモロコシ育種に向けた検証可能な仮説を提示する。"
   }
 ]
