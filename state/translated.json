@@ -279630,5 +279630,291 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "リン制限は、Synechococcusにおいて他のリンプールを枯渇させることで、細胞内のリン配分をポリリン酸へとシフトさせる。",
     "abstract_ja": "要旨ポリリン酸（polyP）は、すべての生物に存在する普遍的かつ進化的に保存されたリン（P）の形態であるが、細胞内および生物地球化学的なP循環におけるその役割は依然として十分に解明されていない。P欠乏の海洋環境では、polyPはP充足環境よりも全粒子状P（TPP）に占める割合が一貫して高く、これは贅沢貯蔵化合物という従来の役割と矛盾する。この未解決の乖離は、de novoのpolyP合成ではなく、他の細胞内Pプールの減少に起因するという仮説が立てられているが、定常状態条件下での検証は行われていない。我々は、リン酸利用可能性の勾配にわたって培養した世界的に重要な海洋シアノバクテリアSynechococcus sp. WH8102の連続培養を用い、この知見の空白を埋める研究を行った。リン酸利用可能性は増殖速度、単細胞のC:N:P化学量論、およびPストレス遺伝子の発現に強く影響したが、polyP:TPPはリン酸利用可能性の低下に伴い増加し、貧栄養海洋で観察されるパターンを再現した。この変化はde novoのpolyP合成によるものではなかった。細胞内polyP濃度（生物体積あたりのpolyP）は増殖速度に関わらず安定していたが（Kruskal-Wallis, P値 = 0.06）、RNA、遊離細胞内リン酸、ATP、およびリン脂質を含む他の細胞内Pプールは、リン酸利用可能性の低下に伴い優先的に枯渇し（Pプール間で2.6～11.8倍）、TPPに対するpolyPの相対的寄与度が高まった。polyP代謝遺伝子の発現は、処理間でほとんど変化を示さなかった。これらの結果は、貧栄養環境やバッチ培養における様々な微生物で観察されるP欠乏応答が、増殖速度の遅い生理機能を反映しており、その結果としてpolyPが維持され、より不安定なPプールが優先的に枯渇することを示しており、粒子状Pの化学量論および輸出の解釈に影響を及ぼすものである。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag288",
+    "title": "Early-life ecological conditions shape strain-dependent gut engraftment of engineered Escherichia coli",
+    "abstract": "AbstractDespite advances in bioengineering strategies, the in vivo performance of live biotherapeutic products (LBPs) remains limited by poor intestinal engraftment and unstable functional persistence, owing in part to poorly understood ecological constraints. Here, we leveraged early-life ecological conditions as a tractable in vivo platform to investigate microbial engraftment across different Escherichia coli strains. Colonization was strongly strain-dependent and was associated with intrinsic bacterial fitness and host immune responses in the gut. We showed that early-life provides a permissive ecological window that may enable durable colonization of engineered E. coli following a single administration, including the probiotic strain E. coli Nissle 1917 (EcN). Another commensal isolate EcWJ exhibited robust ecological fitness in both early-life and adult hosts, whereas the laboratory strain MG1655 colonized poorly. We further demonstrated that engineered EcWJ and EcN strains carrying either an Acanthocheilonema viteae cystatin (AvCys) secretion module or a 5-hydroxytryptophan (5-HTP) biosynthesis module both preserved long-term gut colonization while maintaining their respective functional outputs. The EcN chassis achieved superior efficacy in a colitis model despite lower intestinal abundance, whereas the EcWJ chassis exhibited better colonization and 5-HTP biosynthesis. Thus, functional performance is not only determined by colonization strength, but also depends on chassis-specific functional properties. Multiple safety assessments confirmed no overt host toxicity following early-life administration of engineered LBPs, although increases in spleen weight and maternal-to-offspring transmission should be noted. Together, these findings establish that early-life ecological conditions provide a tractable platform for durable microbial engraftment and sustained functional activity, informing the design of long-acting LBPs.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag288",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag288/9055615?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4976,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/ismejo/wrag288"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ee3e685eaa8aaccbe57785d1b7098f1d431d0f7d2e69693d073ef53f05260553",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:42:37.099934+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2cff2d320cee897a823da2bf7f74b629a7413402182ccbe9167d73a53ad3eab5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:42:37.099934+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "初期生初期の生態学的条件が、遺伝子改変大腸菌の菌株依存的な腸管生着を規定する",
+    "abstract_ja": "要旨バイオエンジニアリング戦略の進展にもかかわらず、生体内バイオ治療薬（LBP）の性能は、一部には生態学的制約が十分に解明されていないことに起因し、腸管への生着不良や機能的な持続性の不安定さによって依然として制限されている。本研究では、初期生体内の生態学的条件を扱いやすいin vivoプラットフォームとして活用し、異なる大腸菌（Escherichia coli）株における微生物の生着について検討した。定着は株に強く依存しており、腸内における細菌固有の適応度および宿主の免疫応答に関連していた。我々は、初期生体内の環境が許容的な生態学的ウィンドウとなり、プロバイオティクス株であるE. coli Nissle 1917 (EcN) を含む工学的大腸菌の単回投与後の持続的な定着を可能にする可能性があることを示した。別の共生分離株であるEcWJは、初期生体内および成体宿主の双方において強固な生態学的適応度を示したが、実験室株のMG1655は定着性が低かった。さらに、Acanthocheilonema viteaeのシスタチン（AvCys）分泌モジュールまたは5-ヒドロキシトリプトファン（5-HTP）生合成モジュールのいずれかを有する工学的EcWJおよびEcN株は、それぞれの機能的出力を維持しつつ、長期的な腸管定着を保持することを実証した。EcNシャシーは、腸管内存在量は少ないものの、大腸炎モデルにおいて優れた有効性を示した。一方、EcWJシャシーはより良好な定着性と5-HTP生合成能を示した。したがって、機能的性能は定着強度によって決定されるだけでなく、シャシー固有の機能的特性にも依存する。複数の安全性評価により、工学的LBPの初期生体内投与後に明らかな宿主毒性は認められなかったが、脾臓重量の増加および母系から子への伝播については留意すべきである。以上の知見を総合すると、初期生体内の生態学的条件は、持続的な微生物生着および機能的な活性維持のための扱いやすいプラットフォームを提供し、長時間作用型LBPの設計に資するものであることが明らかとなった。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765954",
+    "title": "HOG pathway modulation is a determinant of echinocandin treatment failure in Candidozyma auris",
+    "abstract": "Candidozyma auris is a rapidly emerging fungal pathogen whose drug-resistant profile poses a formidable challenge to antifungal treatment. Echinocandins are the recommended first-line therapy for invasive C. auris infections, but resistance to this drug class is on the rise. Here we show that, beyond resistance, C. auris can readily acquire genetically encoded echinocandin tolerance, a phenotype of slow but sustained growth and increased survival at concentrations above the minimum inhibitory concentration (MIC) that reflects incomplete maximal inhibition and a reduced Hill coefficient without an increase in MIC. Tolerance was therefore undetectable by standard clinical susceptibility testing, yet it significantly reduced treatment efficacy in an immunocompromised murine model of systemic infection. Genetic dissection revealed that tolerance arises through disruption of the high-osmolarity glycerol (HOG) mitogen-activated protein kinase (MAPK) pathway through the loss of function of Ssk1, Ssk2, Pbs2 or Hog1, or specific substitutions in Nik1. The disruption of the HOG pathway did not confer fitness or virulence defects in C. auris, and in Candida albicans and Nakaseomyces glabratus, it did not confer tolerance, suggesting a unique non-essential rewiring of this pathway in C. auris. Proteomic and cell-wall analyses linked tolerance to altered cell-wall remodelling during echinocandin exposure. Evolutionary modelling and deep sequencing of FKS1 hotspots in experimentally evolved populations showed that tolerance increases the rate at which resistance-conferring FKS1 hotspot substitutions emerge. Putative high-impact mutations in HOG pathway effectors in clinical isolates suggest that this phenotype occurs in patients, where it might reduce treatment efficacy or facilitate resistance emergence. This work therefore identifies HOG-mediated acquired tolerance as a hidden clinically relevant direct and indirect determinant of echinocandin treatment failure.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765954",
+    "date": "2026-11-16",
+    "authors": "Sofras, D., Jacobs, S., Zile, A., Mottola, A., Zvirgzdins, A., Pageau, A., Boccarella, G., Gifford, H., Biriukov, V., Dube, A. K., Walker, L., Malavia-Jones, D., Leaves, I., Wang, Z., Van den Bergh, B., Lobo Romero, C., van den Berg, P., Michiels, J., Farrer, R. A., Berman, J., Gow, N. A. R., Gabaldon, T., Lends, A., Ralser, M., Munro, C. A., Landry, C. R., Van Dijck, P., Carolus, H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765954v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4988,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.11.765954"
+    ],
+    "translation": {
+      "title": {
+        "hash": "95a59897e2a8ea75a2dfbc5614c21b7ca193b7576987cfab3f7813bea3fd17d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:42:37.099934+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fac161019bf187a73d86924a7b0cceb239c0019a9feb8c3b5265d79ababf9c14",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:42:37.099934+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HOG経路の調節は、Candidozyma aurisにおけるエキノカンジン治療失敗の決定要因である。",
+    "abstract_ja": "Candidozyma aurisは急速に台頭している真菌性病原体であり、その薬剤耐性プロファイルは抗真菌治療において極めて大きな課題となっている。エキノカンジン系薬剤は侵襲性C. auris感染症に対する推奨される第一選択治療であるが、この薬剤クラスに対する耐性が増加している。本研究では、耐性に加えて、C. aurisが遺伝的にコードされたエキノカンジン耐性を容易に獲得し得ることを示す。この耐性は、最小発育阻止濃度（MIC）を超える濃度において、緩徐ながらも持続的な増殖と生存率の上昇を示す表現型であり、MICの上昇を伴わずに最大阻害作用の不完全化とヒル係数の低下を反映している。したがって、この耐性は標準的な臨床感受性試験では検出されなかったが、免疫不全マウス全身感染モデルにおいて治療効果を有意に低下させた。遺伝学的解析により、この耐性は、Ssk1、Ssk2、Pbs2、またはHog1の機能喪失、あるいはNik1の特異的な置換による高浸透圧グリセロール（HOG）ミトゲン活性化プロテインキナーゼ（MAPK）経路の破綻を通じて生じることが明らかになった。HOG経路の破綻は、C. aurisにおいて適応度や病原性の欠陥をもたらさず、またCandida albicansおよびNakaseomyces glabratusにおいても耐性を付与しなかったことから、C. aurisにおいてこの経路の特異的な非必須的な再配線が起きていることが示唆された。プロテオーム解析および細胞壁解析により、この耐性はエキノカンジン曝露時の細胞壁リモデリングの変化に関連していることが示された。実験的に進化させた集団におけるFKS1ホットスポットの進化モデリングおよびディープシーケンシングにより、この耐性が耐性を付与するFKS1ホットスポット置換の出現速度を高めることが示された。臨床分離株におけるHOG経路エフェクターの推定される高影響変異は、この表現型が患者において出現し、治療効果を低下させたり耐性の出現を促進したりする可能性を示唆している。したがって、本研究は、HOG介在性の獲得耐性が、エキノカンジン治療失敗の潜在的かつ臨床的に重要な直接的・間接的決定因子であることを明らかにした。"
+  },
+  {
+    "id": "10.64898/2026.11.13.766593",
+    "title": "Detection, Persistence, and Antimicrobial Resistance Profiles of Escherichia coli and Shiga Toxin-Producing E. coli in Nut Orchards with Integrated Grazing Animals",
+    "abstract": "Integrating grazing animals into nut orchards can introduce foodborne pathogens including Salmonella enterica and Shiga toxin-producing Escherichia coli (STEC) into crop production environments. This study investigated pathogen transfer and persistence in the soil following livestock grazing (sheep/chicken) in two organic almond orchards and one walnut orchard in California. Soil and fecal samples were collected periodically for 120 days after grazing. Enrichment, selective culture and PCR were used for STEC and Salmonella enterica detection. Antimicrobial resistance (AMR) was assessed using microdilution assays, and whole genome sequencing (WGS) was used to characterize AMR genes, virulence genes and population structure. All 284 soil and 79 fecal samples collected tested negative for Salmonella enterica and E. coli O157. Presumptive STEC was detected by colony PCR in 3.2% (n = 9/284, 95% CI 1.7-5.9%) of the soil samples, and 34.2% (n = 27/79, 95% CI 24.7-45.2%) of fecal samples. Shiga toxin genes were confirmed by WGS in 15 of 31 sequenced isolates. Predominant subtypes were stx1c and stx2b, and O176:H4 and O174:H2 were the most common serotypes. Phenotypic AMR was detected in 33.3% (n = 12/36) of isolates, with multidrug resistance in 8.3% (n = 3/36). A soil and a sheep fecal isolate differed by one core-genome single nucleotide polymorphism and shared a closed multidrug-resistance plasmid of identical gene content, consistent with a lineage resident in the flock that transferred to soil. Confirmed STEC in orchard soil was rare and transient. These results provide evidence to inform food safety guidelines on crops integrated with livestock.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766593",
+    "date": "2026-11-16",
+    "authors": "Rothwell, J. G., Cheong, S., Schlesener, C., Miramontes, C., Shaw, C., Pereira, R. V. V., Weimer, B. C., Pires, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766593v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4989,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766593"
+    ],
+    "translation": {
+      "title": {
+        "hash": "40f745db3be8dc61ab326c7e1f8c3772ddc8c49edc76ead86ed566d4c350f92d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:42:37.099934+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "639e36b97ad14f5cedac033e3e34842f0486a4730386c20109e9ec1bec6d75e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:42:37.099934+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "放牧動物を統合したナッツ果樹園における大腸菌および志賀毒素産生大腸菌の検出、持続性、および薬剤耐性プロファイル",
+    "abstract_ja": "ナッツ類果樹園に放牧動物を導入することで、サルモネラ・エンテリカや志賀毒素産生性大腸菌（STEC）を含む食品由来病原体が、作物の生産環境に混入する可能性がある。本研究では、カリフォルニア州の有機アーモンド果樹園2か所およびクルミ果樹園1か所において、家畜の放牧（羊／鶏）後の土壌における病原体の移行および持続性について調査した。放牧後120日間にわたり、土壌および糞便試料を定期的に採取した。STECおよびサルモネラ・エンテリカの検出には、濃縮法、選択培養法、およびPCRを用いた。薬剤耐性（AMR）はマイクロダイリューション法を用いて評価し、全ゲノムシーケンシング（WGS）によりAMR遺伝子、病原性遺伝子、および集団構造を解析した。採取した全284検体の土壌試料および79検体の糞便試料において、サルモネラ・エンテリカおよび大腸菌O157は陰性であった。推定STECは、土壌試料の3.2%（n = 9/284, 95% CI 1.7-5.9%）、および糞便試料の34.2%（n = 27/79, 95% CI 24.7-45.2%）においてコロニーPCRにより検出された。志賀毒素遺伝子は、シーケンシングされた31株の分離株のうち15株においてWGSにより確認された。主要なサブタイプはstx1cおよびstx2bであり、最も頻度の高い血清型はO176:H4およびO174:H2であった。表現型AMRは分離株の33.3%（n = 12/36）で検出され、多剤耐性は8.3%（n = 3/36）に認められた。土壌分離株と羊糞便分離株は、コアゲノムの一塩基多型が1箇所異なる点を除き、同一の遺伝子内容を持つ閉鎖型多剤耐性プラスミドを共有しており、これは群れに存在し土壌へ移行した系統と一致していた。果樹園土壌において確認されたSTECは稀であり、一過性であった。これらの結果は、家畜と統合された作物に関する食品安全ガイドラインに資する根拠となるものである。"
+  },
+  {
+    "id": "10.64898/2026.11.15.766812",
+    "title": "Identifying the metacommunity scale reconciles deterministic and stochastic assembly in a natural mainland-island microbial system",
+    "abstract": "Disentangling the deterministic and stochastic processes that shape microbial communities remains a central challenge in microbial ecology. The framework proposed by Vellend---selection, drift, dispersal and speciation---offers a natural conceptual scaffold, but testing these processes in natural communities is technically demanding, and analyses are often narrowed to a single process, which can lead to seemingly contradictory conclusions. Here we illustrate the promise and the pitfalls of a comprehensive application of this framework by re-analysing a temporally resolved dataset of microbial communities inhabiting water-filled tree-holes at the base of a single beech tree, a natural mainland--island system for which both neutral assembly and strong selection have been reported. We show that these views are compatible once unsupervised compositional clustering is used to identify the scale at which assembly processes should be tested. Treating each compositional cluster as a set of local communities that receive immigrants from a distinct metacommunity, we applied neutral, phylogenetic and null-model tests of selection and dispersal, metagenomic prediction and association inference. Selection operated chiefly as environmental filtering at the metacommunity level, associated with tree-hole size and shape, whereas local communities were statistically indistinguishable from stochastic assembly. Variable selection and dispersal limitation acted between metacommunities, whereas homogenizing dispersal prevailed within them. Association networks recapitulated metacommunity structure, indicating that co-occurrence largely reflects shared environment rather than interactions. In summary, performing some analyses while excluding others leads to misleading conclusions: comprehensive analyses and identifying the intrinsic scale in which selection may operate are needed to move beyond the deterministic--stochastic dichotomy.",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766812",
+    "date": "2026-11-16",
+    "authors": "Cuadrado Corz, J., Ramoneda, J., Alcon, D., Bell, T., Pascual-Garcia, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766812v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4990,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.15.766812"
+    ],
+    "translation": {
+      "title": {
+        "hash": "078c3f8d935ff2402fd72a39838be9ccab28dba74d384679bbad0aa669c82800",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:42:37.099934+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6280a767d4a9c50a4d4580bbb5aca08760bed31770117a03cc4ad926f801ca39",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:42:37.099934+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタコミュニティスケールの特定は、大陸・島嶼間の自然な微生物系において、決定論的アセンブリと確率的アセンブリを整合させる。",
+    "abstract_ja": "微生物群集を形成する決定論的プロセスと確率的プロセスを解き明かすことは、微生物生態学における中心的な課題であり続けている。Vellendが提唱した枠組み――選択、ドリフト、分散、および種分化――は自然な概念的枠組みを提供するが、これらのプロセスを自然群集において検証することは技術的に困難であり、解析が単一のプロセスに限定されがちなため、一見矛盾する結論が導き出されることがある。本研究では、単一のブナの樹根部にある水が溜まった樹洞に生息する微生物群集の時系列分解データセットを再解析することで、この枠組みを包括的に適用することの可能性と落とし穴を明らかにする。この樹洞は、中立的な集合形成と強い選択の両方が報告されている、大陸と島の自然なシステムである。我々は、教師なしの組成的クラスタリングを用いて集合形成プロセスを検証すべきスケールを特定すれば、これらの見解が整合することを示す。各組成的クラスタを、異なるメタ群集から移入個体を受け取る局所群集の集合として扱い、選択と分散に関する中立的・系統的・ヌルモデル検定、メタゲノム予測、およびアソシエーション推論を適用した。選択は主にメタ群集レベルでの環境フィルタリングとして機能し、樹洞のサイズや形状と関連していた一方、局所群集は統計的に確率的な集合形成と区別がつかなかった。メタ群集間では変動的な選択と分散制限が作用し、一方で群集内では均質化させる分散が支配的であった。アソシエーションネットワークはメタ群集構造を再現しており、共起が相互作用よりもむしろ共有環境を概ね反映していることを示している。要約すると、一部の解析を行いながら他の解析を除外することは、誤解を招く結論につながる。決定論的・確率的という二分法を乗り越えるためには、包括的な解析と、選択が作用し得る内在的なスケールの特定が必要である。"
   }
 ]
