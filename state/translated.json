@@ -279916,5 +279916,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "メタコミュニティスケールの特定は、大陸・島嶼間の自然な微生物系において、決定論的アセンブリと確率的アセンブリを整合させる。",
     "abstract_ja": "微生物群集を形成する決定論的プロセスと確率的プロセスを解き明かすことは、微生物生態学における中心的な課題であり続けている。Vellendが提唱した枠組み――選択、ドリフト、分散、および種分化――は自然な概念的枠組みを提供するが、これらのプロセスを自然群集において検証することは技術的に困難であり、解析が単一のプロセスに限定されがちなため、一見矛盾する結論が導き出されることがある。本研究では、単一のブナの樹根部にある水が溜まった樹洞に生息する微生物群集の時系列分解データセットを再解析することで、この枠組みを包括的に適用することの可能性と落とし穴を明らかにする。この樹洞は、中立的な集合形成と強い選択の両方が報告されている、大陸と島の自然なシステムである。我々は、教師なしの組成的クラスタリングを用いて集合形成プロセスを検証すべきスケールを特定すれば、これらの見解が整合することを示す。各組成的クラスタを、異なるメタ群集から移入個体を受け取る局所群集の集合として扱い、選択と分散に関する中立的・系統的・ヌルモデル検定、メタゲノム予測、およびアソシエーション推論を適用した。選択は主にメタ群集レベルでの環境フィルタリングとして機能し、樹洞のサイズや形状と関連していた一方、局所群集は統計的に確率的な集合形成と区別がつかなかった。メタ群集間では変動的な選択と分散制限が作用し、一方で群集内では均質化させる分散が支配的であった。アソシエーションネットワークはメタ群集構造を再現しており、共起が相互作用よりもむしろ共有環境を概ね反映していることを示している。要約すると、一部の解析を行いながら他の解析を除外することは、誤解を招く結論につながる。決定論的・確率的という二分法を乗り越えるためには、包括的な解析と、選択が作用し得る内在的なスケールの特定が必要である。"
+  },
+  {
+    "id": "10.64898/2026.11.13.766150",
+    "title": "Cave ecosystems as drivers of viral diversity, endemism, andecological function at a global scale",
+    "abstract": "Caves are subterranean ecosystems that host diverse microbial communities involved in key biogeochemical processes. Yet, the diversity and ecological roles of viruses within these systems remain poorly understood. Here, we analyzed metagenomic data collected from 30 globally distributed cave systems, identifying 8,176 viral operational taxonomic units ([≥] 10kb size) that have little representation within a recent database of environmental viruses. In addition, cave-specific environmental fingerprints are shown to be a strong driver of viral distribution, reflected in a high degree of endemism both within and across cave systems. Viral-host associations suggest that viruses are primarily associated with Pseudomonadota and Actinomycetota lineages, the most abundant groups across all samples and involved in diverse carbon, sulfur, and nitrogen metabolisms. The high proportion of lytic viruses targeting these groups suggests strong top-down viral control, with virus-mediated microbial turnover likely contributing to organic matter recycling. This is further supported by lytic viruses carrying the majority of auxiliary metabolic genes (AMGs), with functions related to enhancing viral progeny production by increasing resource availability and reallocating cellular resources toward viral replication. In this study, we highlight how cave environments shape viral ecology and unveil a still yet unknown component of the subsurface virosphere.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766150",
+    "date": "2026-11-16",
+    "authors": "Barosa, B., Firrincieli, A., Gabrieli, L., Turatto, A., Lopo, E., Ghezzi, D., Garcia, L., Costantini, P. E., Danielli, A., De Waele, J., Sauro, F., Selensky, M., Osburn, M., Cappelletti, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766150v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4991,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766150"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5f6826f4e6881e869551f04e82632b1d8f83f9fd2f4893bc28ffedb968499fa9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:45:30.160560+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c70db23967229af72ca8bab4dc1893a41b0a4639767755c988c4fd108c7bf47c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:45:30.160560+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "地球規模におけるウイルスの多様性、固有性、および生態学的機能の駆動要因としての洞窟生態系",
+    "abstract_ja": "洞窟は、主要な生物地球化学的プロセスに関与する多様な微生物群集を擁する地下生態系である。しかし、これらの系におけるウイルスの多様性と生態学的役割については、依然として十分に解明されていない。本研究では、世界的に分布する30の洞窟系から収集したメタゲノムデータを解析し、近年の環境ウイルスデータベースにおける代表例が少ない8,176個のウイルス運用分類単位（サイズ[≥] 10kb）を同定した。さらに、洞窟固有の環境フィンガープリントがウイルス分布の強力な駆動要因となっており、それが洞窟系内および系間における高い固有性に反映されていることが示された。ウイルスと宿主の関連性からは、ウイルスが主にPseudomonadota門およびActinomycetota門に関連しており、これらが全サンプルにおいて最も豊富に存在するグループで、多様な炭素、硫黄、および窒素代謝に関与していることが示唆される。これらのグループを標的とする溶菌性ウイルスの割合が高いことは、強力なトップダウン型のウイルス制御を示唆しており、ウイルスを介した微生物のターンオーバーが有機物のリサイクルに寄与している可能性が高い。このことは、補助代謝遺伝子（AMGs）の大部分を保有する溶菌性ウイルスによってもさらに裏付けられており、これらの遺伝子は、資源の可用性を高め、細胞資源をウイルス複製へと再配分することでウイルスの子孫産生を促進する機能を担っている。本研究では、洞窟環境がウイルス生態をどのように形作っているかを浮き彫りにし、地下ウイルス圏の未だ未知の構成要素を明らかにする。"
+  },
+  {
+    "id": "10.64898/2026.11.13.766504",
+    "title": "Different assembly and binning strategies recover contrasting genome catalogues and community profiles",
+    "abstract": "In genome-resolved metagenomics, different assembly and binning strategies can be employed to reconstruct microbial genomes and community profiles. We used metagenomic data from a longitudinal experiment, in which mice were exposed to a series of environmental stressors, to compare four approaches: single-coverage, multi-coverage, co-assembly, and multi-split. We evaluated their effectiveness in reconstructing microbial genomes, determining their relative abundances, and analysing functional profiles while accounting for computational efficiency. Our findings indicate significant differences in the quantity and quality of recovered genomes across strategies, which in turn influenced community profiles and research outcomes related to microbiota resilience to environmental pressures and functional differences between exposure to contrasting temperatures. We conclude that the choice of assembly and binning strategies is crucial and needs to be thoroughly assessed considering available resources, study design, and research aims, as the strategy employed for data processing can significantly affect the results and conclusions of metagenomic studies.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766504",
+    "date": "2026-11-16",
+    "authors": "Eisenhofer, R., Alberdi, A., Aizpurua, O.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766504v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "binning",
+        "genome",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "binning",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4992,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766504"
+    ],
+    "translation": {
+      "title": {
+        "hash": "44f89fa257e251f064720264ad8eb5ba87fbcad39a9f9f4d82d9351aaf04921e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:45:30.160560+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "40ab34787cbeb8a7735b58efcfa2853cbcb3460bf06fdba28c7435424e909002",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:45:30.160560+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "異なるアセンブリおよびビンニング戦略により、対照的なゲノムカタログとコミュニティプロファイルが得られる。",
+    "abstract_ja": "ゲノム解像度メタゲノミクスでは、微生物ゲノムおよびコミュニティプロファイルを再構築するために、さまざまなアセンブリおよびビンニング戦略が採用され得る。本研究では、マウスに一連の環境ストレス負荷を与えた縦断的実験のメタゲノムデータを用い、シングルカバレッジ、マルチカバレッジ、共同アセンブリ、およびマルチスプリットという4つのアプローチを比較した。計算効率を考慮しつつ、微生物ゲノムの再構築、相対存在量の決定、および機能プロファイルの解析における各手法の有効性を評価した。その結果、戦略によって回収されたゲノムの量と質に有意な差が認められ、それがコミュニティプロファイルや、環境圧に対する微生物叢の耐性、および対照的な温度への曝露による機能的差異に関する研究成果に影響を及ぼしたことが示された。データ処理に用いる戦略がメタゲノム研究の結果や結論に大きな影響を与え得るため、アセンブリおよびビンニング戦略の選択は極めて重要であり、利用可能なリソース、研究デザイン、および研究目的を考慮して十分に検討する必要があると結論付ける。"
+  },
+  {
+    "id": "10.64898/2026.11.13.766366",
+    "title": "Genome size variability reflects contrasting ecological strategies in Rhodoferax and Allorhodoferax",
+    "abstract": "Genome size is increasingly recognized as an important feature of aquatic prokaryotes, yet the ecological and evolutionary processes underlying this variability within freshwater bacterial lineages remain poorly understood. Here, we investigated the interplay between genome size, metabolic potential, and environmental distribution within the freshwater bacterial lineage historically classified as Rhodoferax (family Burkholderaceae) as a model system. We curated a dataset of 345 high-quality genomes grouped into 101 species-level clusters (ANI >95%) with estimated genome sizes ranging from 2.41 Mbp to 6.92 Mbp. Phylogenomic analyses revealed substantial evolutionary divergence within this lineage, supporting the distinction of Rhodoferax and Allorhodoferax and the recognition of two additional genera, which we propose to name Quasirhodoferax and Pararhodoferax. Rhodoferax and Allorhodoferax were widely distributed across global freshwater ecosystems and reached cumulative relative abundances of up to 20.4% in lake Lomtjarnan (Sweden). Species-level representatives with contrasting genome sizes exhibited distinct distributions across oxygen and depth gradients in stratified lakes, accompanied by differences in metabolic potential associated with their environmental niches. Genomic island content was also associated with genome size, although this relationship differed between Rhodoferax and Allorhodoferax, indicating that genome expansion through horizontal gene transfer may contribute differently to genome size variability across these lineages. Our study shows that genome size variability within Rhodoferax and Allorhodoferax reflects contrasting ecological strategies associated with environmental conditions, metabolic specialization, and alternative trajectories of genome evolution.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766366",
+    "date": "2026-11-16",
+    "authors": "Rodriguez-Gijon, A., Gonzalez-Mallen, V., Rodriguez-R, L. M., Garcia, S. L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766366v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "prokaryote"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "freshwater",
+          "lake"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4993,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766366"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dd50b009601141354b88fca9a5850944ff7cfb8fefafb6a73632ad95f4096357",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:45:30.160560+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "873a6a46bdaf2f7851a61eb73552e11e94f85a3af547506b2ccfaddd7c082448",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:45:30.160560+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムサイズの変動は、Rhodoferax属とAllorhodoferax属における対照的な生態戦略を反映している。",
+    "abstract_ja": "ゲノムサイズは、水生原核生物の重要な特徴としてますます認識されるようになってきているが、淡水細菌系統におけるこの変動性の根底にある生態学的・進化的プロセスについては、依然として十分に解明されていない。本研究では、モデル系として、従来Rhodoferax（Burkholderaceae科）に分類されてきた淡水細菌系統において、ゲノムサイズ、代謝能、および環境分布の相互作用を調査した。我々は、推定ゲノムサイズが2.41 Mbpから6.92 Mbpの範囲にある345個の高品質なゲノムを、101個の種レベルのクラスター（ANI >95%）にグループ化したデータセットをキュレートした。系統ゲノム解析により、この系統内で相当な進化的分岐が明らかになり、RhodoferaxとAllorhodoferaxの区別、およびQuasirhodoferaxとPararhodoferaxと命名することを提案する2つの追加属の認識が支持された。RhodoferaxとAllorhodoferaxは全球の淡水生態系に広く分布しており、ロムトヤルナン湖（スウェーデン）では累積相対存在量が最大20.4%に達した。対照的なゲノムサイズを持つ種レベルの代表個体は、成層湖の酸素および水深勾配にわたって異なる分布を示し、それに伴い環境ニッチに関連した代謝能の差異が認められた。ゲノムアイランドの含有量もゲノムサイズと関連していたが、この関係はRhodoferaxとAllorhodoferaxで異なっており、水平遺伝子伝達によるゲノム拡大が、これらの系統間のゲノムサイズ変動にそれぞれ異なる形で寄与している可能性が示唆された。本研究は、RhodoferaxおよびAllorhodoferaxにおけるゲノムサイズの変動が、環境条件、代謝特化、およびゲノム進化の代替的な軌跡に関連する対照的な生態学的戦略を反映していることを示している。"
+  },
+  {
+    "id": "10.64898/2026.11.13.766530",
+    "title": "Genomic DNA repeats act as an antitoxin for a widespread Schlafen immune effector",
+    "abstract": "Many antiphage defenses employ toxic immune effectors in response to phage infection, necessitating robust strategies to counteract these toxins when cells are in the uninfected state. Here, we describe StaIN, the founding member of a unique family of toxin-mediated defenses that utilizes genomic DNA repeats for toxin restraint. The system consists of a repeat locus (staI) and a toxic protein (StaN) harboring Schlafen, ATPase, and helix-turn-helix (HTH) domains. We show that StaN is an ATP-activated tRNase that binds to staI DNA, and staI DNA is necessary to neutralize StaN's toxicity. Computational analyses identified thousands of StaN homologs in bacteria and archaea that bear one or more HTH domains, and many reside in genomic loci that are enriched with DNA repeats. Moreover, functional analyses revealed that distant StaN homologs exhibit similar DNA-gated toxicity. Altogether, our findings expand the logic of toxin-antitoxin-like systems to include antitoxins composed of noncoding genomic DNA.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766530",
+    "date": "2026-11-16",
+    "authors": "Boyle, T. A., Schoeller, K., Sanford, M. R., Hiestand, N. J., La, C. E., Aegerter, H. S., Aslan, B., Hatoum-Aslan, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766530v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4994,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766530"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5e1777e778fc24a9674827bb67757d375aab05f8967e320a1deeeb7e9c91a053",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:45:30.160560+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "70bdf438370d6786fa86054cfb35e837c966c8cf6ae7d2577687590244445251",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:45:30.160560+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムDNAリピートは、広範なSchlafen免疫エフェクターに対する抗毒素として機能する。",
+    "abstract_ja": "多くの抗ファージ防御機構は、ファージ感染に応答して毒性免疫エフェクターを利用するため、細胞が未感染状態にあるときにこれらの毒素に対抗する強固な戦略が必要となる。本稿では、ゲノムDNAリピートを利用して毒素抑制を行う、独自の毒素媒介防御機構ファミリーの創始メンバーであるStaINについて述べる。このシステムは、リピート遺伝子座（staI）と、Schlafen、ATPase、およびヘリックスターンヘリックス（HTH）ドメインを有する毒性タンパク質（StaN）から構成される。我々は、StaNがstaI DNAに結合するATP活性化型tRNAaseであり、StaNの毒性を中和するにはstaI DNAが必要であることを示す。計算解析により、細菌および古細菌において1つ以上のHTHドメインを有する数千のStaNホモログが同定され、その多くはDNAリピートが濃縮されたゲノム遺伝子座に存在していた。さらに、機能解析により、離れた位置にあるStaNホモログが同様のDNAゲート型毒性を示すことが明らかになった。総じて、我々の知見は、毒素-抗毒素様システムの論理を拡張し、非コードゲノムDNAからなる抗毒素を包含するものである。"
   }
 ]
