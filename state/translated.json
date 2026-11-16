@@ -267932,5 +267932,348 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "組み立てから収量まで：トウモロコシ根圏微生物叢における王国特異的な規則、キーストーンネットワーク、およびベイズ構造方程式フレームワーク",
     "abstract_ja": "要旨    背景および目的。根圏マイクロバイオームは作物ゲノムの延長であるが、その構築を規定する規則や収量との統計的関連性は未解明のままである。本研究では、細菌および真菌が遺伝子型や生育段階にわたって界特異的な構築規則に従うか（RQ1）、どの分類群がネットワークのバックボーンを形成するか（RQ2）、および微生物学的特徴が測定された穀物収量とどのような統計的経路で結びついているか（RQ3）を検討した。方法。7つのトウモロコシ栽培品種の細菌および真菌群集を、実生期（V6）および穂形成期（VT）においてプロファイリングした。解析には、多様性解析、ロバスト性検証済みの共起ネットワーク、FAPROTAX/FUNGuildアノテーション、BSEM、および機械学習によるシグネチャー同定を組み込んだ。穀物収量は測定したが、予測は試みなかった。結果。細菌の構築は生育段階が支配的であり（ANOSIM R = 0.90）、栄養要求性の高いプロテオバクテリアから栄養要求性の低い系統へと移行した。一方、真菌は穂形成期においてより強い遺伝子型構造を維持していた（R値最大0.74）。表現型距離と群集距離は遺伝子型レベルで脱結合していた。プロテオバクテリアと子嚢菌門はネットワークのバックボーンを形成しており、これらを除去するとエッジの81.5%および93.6%が消失した。BSEMは収量変動の68–69%を再現し、一貫した門 → 機能ギルド → 農学的形質 → 収量経路（農学的形質 → 収量のβ = 0.55）を明らかにした。栽培品種の影響は+ 0.50（Nonghua 106）から− 0.49（Dr. King 825）の範囲であった。機械学習により、収量に関連する相補的なシグネチャー（Rhodanobacter ASV1138, ρ = 0.91）が確認された。結論。細菌および真菌は界特異的な構築規則に従う。プロテオバクテリアと子嚢菌門は構造的に不可欠なネットワークのバックボーンである。また、ベイズ構造方程式フレームワークは、マイクロバイオームの特徴から測定収量に至る解釈可能な経路を追跡し、マイクロバイオーム支援によるトウモロコシ育種に向けた検証可能な仮説を提示する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11222404/v1",
+    "title": "Bioprospecting the Cultivable Bacteria Associated with Trididemnum maragogi from the Saint Peter and Saint Paul’s Archipelago (Brazil) for Bioactive Metabolites",
+    "abstract": "Abstract    Ascidians and their associated microbiota represent one of the most prolific sources of novel bioactive compounds with application in marine biotechnology. This study investigates the pharmacological potential and metabolic diversity of the bacterial microbiota associated with the ascidian  Trididemnum maragogi  , collected at Saint Peter and Saint Paul’s Archipelago (SPSPA), Brazil. A total of 45 bacterial strains were taxonomically identified via 16S rRNA gene sequencing into 11 distinct genera, with a predominance of  Bacillus  and actinomycetes such as  Micromonospora  ,  Salinispora  , and  Streptomyces  . Crude organic extracts from bacterial cultures were evaluated for antiproliferative activity against human cancer cell lines (501-Mel and HCT-116). Extracts from  Micromonospora  spp. (BRB-810, BRB-814, BRB-832) and  Salinispora  spp. (BRB-803, BRB-808) exhibited potent cytotoxic activity. Metabolomic profiling via HPLC-MS/MS and Feature-Based Molecular Networking (GNPS) enabled the annotation of staurosporines, rifamycins, diketopiperazines, and other bioactive classes, while revealing that approximately 95% of detected features remain unannotated. Furthermore, whole-genome sequencing of  Micromonospora aurantiaca  BRB-832 unveiled 20 biosynthetic gene clusters (BGCs) related to macrolides, alkylresorcinols, anthracyclines, and novel uncharacterized pathways. These findings highlight  T. maragogi  and its microbial symbionts as a valuable, underexplored source of novel bioactive natural products with biotechnological potential.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11222404/v1",
+    "date": "2026-10-22",
+    "authors": "Fiasca JS, Martins BP, Oliveira RS, Feitosa LGP, Maldonado GP, Lopes NP, Lotufo TMC, Jimenez PC, Costa-Lotufo LV, Sahm BDB.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347925",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Bacillus",
+        "Streptomyces",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 126,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11222404/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "849acdc93d3d80549039529ca258f7b762bb51826a4a21669c04f10c11aa2abf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:49:14.401777+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8029f9c610ea7e6f7f091bcb091d12c8a7917ae78b0939f5136c50ee77a7e2f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:49:14.401777+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブラジル・サン・ペドロ・イ・サン・パウロ諸島産Trididemnum maragogi関連培養菌の生物活性代謝物に関するバイオプロスペクティング",
+    "abstract_ja": "要旨    ホヤ類およびその関連微生物叢は、海洋バイオテクノロジーへの応用が期待される、新規生物活性化合物の最も豊富な供給源の一つである。本研究では、ブラジルのサンペドロ・イ・サンパウロ諸島（SPSPA）で採取されたホヤ Trididemnum maragogi に関連する細菌微生物叢の薬理学的ポテンシャルおよび代謝多様性について検討した。計45株の細菌株を16S rRNA遺伝子シーケンシングにより11の独立した属に分類し、Bacillus属や、Micromonospora属、Salinispora属、Streptomyces属などの放線菌が優勢であることが明らかになった。細菌培養物から得られた粗有機抽出物について、ヒトがん細胞株（501-MelおよびHCT-116）に対する抗増殖活性を評価した。Micromonospora属（BRB-810, BRB-814, BRB-832）およびSalinispora属（BRB-803, BRB-808）の抽出物は、強力な細胞毒性活性を示した。HPLC-MS/MSおよび特徴ベース分子ネットワーク解析（GNPS）によるメタボロームプロファイリングにより、スタウロスポリン類、リファマイシン類、ジケトピペラジン類、およびその他の生物活性クラスのアノテーションが可能となった一方、検出された特徴の約95%が未アノテーションのままであることが明らかになった。さらに、Micromonospora aurantiaca BRB-832の全ゲノムシーケンシングにより、マクロライド類、アルキルレゾルシノール類、アントラサイクリン類、および新規の未特性解析経路に関連する20の生合成遺伝子クラスター（BGCs）が同定された。これらの知見は、T. maragogiおよびその微生物共生菌が、バイオテクノロジー的ポテンシャルを有する、有用かつ十分に探索されていない新規生物活性天然物の供給源であることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.17.759301",
+    "title": "Genome-wide conservation and locus-specific coding variation in  Teratoramularia rumicicola  , a candidate microbial herbicide for  Rumex  weeds",
+    "abstract": "The  Rumex pathogen  Teratoramularia rumicicola is a candidate microbial herbicide, but its functional genomic repertoire and variation among isolates remain poorly characterised. We generated a PacBio HiFi reference and evidence-supported gene annotation for TR4 and a short-read assembly for GR1, then compared the isolates using assembly- and read-based analyses. The TR4 and GR1 nuclear assemblies comprised 22.34 Mb (13 contigs; N50, 2.90 Mb) and 21.23 Mb (486 contigs; N50, 0.350 Mb), respectively. The TR4 annotation predicted 8,898 protein -coding genes, and the representative protein set was 96.7% complete in the Benchmarking Universal Single-Copy Orthologues assessment. Functional annotation identified 593 putatively secreted proteins, 258 candidate effectors, 355 carbohydrate -active enzyme (CAZyme) candidates and 20 predicted secondary-metabolite biosynthetic regions. Seven secreted CAZymes were prioritised as potential host-barrier-associated factors based on predicted activities and homology to virulence -related entries in the Pathogen–Host Interactions database. Despite 99.81% average nucleotide identity across aligned regions, read-based comparison identified 28,040 high-confidence isolate-fixed differences. Of 158 reconstructed candidate GR1 alleles, 147 showed strong assembly support. Notable differences included predicted truncations of two Zn(II)₂Cys₆ transcription factors, one adjacent to an intact nonribosomal peptide synthetase-like core gene, and a separate gene showing a localised repeat-induced point mutation (RIP)-like substitution pattern and predicted premature termination. Together, these resources and candidate loci provide a foundation for investigating pathogenicity and strain variation relevant to microbial herbicide development.",
+    "journal": "",
+    "doi": "10.64898/2026.10.17.759301",
+    "date": "2026-10-22",
+    "authors": "Izumi M, Oka T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349327",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "average nucleotide identity",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 211,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.17.759301"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c43c9dee5dcbdc8dface2487ace3c214de389605ef322d8de285f9624788cb69",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:49:14.401777+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "015e6c17a9dea9b0efdce030273636da44f3f6156226cb40565bc574244108c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:49:14.401777+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Rumex属雑草の微生物除草剤候補であるTeratoramularia rumicicolaにおけるゲノムワイドな保存性と遺伝子座特異的なコーディング変異",
+    "abstract_ja": "Rumex属の病原体Teratoramularia rumicicolaは微生物除草剤の候補であるが、その機能的ゲノムレパートリーおよび分離株間の変異については十分に解明されていない。本研究では、TR4に対するPacBio HiFiリファレンスおよびエビデンスに基づく遺伝子アノテーションと、GR1に対するショートリードアセンブリを作成し、アセンブリおよびリードベースの解析を用いて分離株を比較した。TR4およびGR1の核アセンブリは、それぞれ22.34 Mb（13コンティグ；N50 2.90 Mb）および21.23 Mb（486コンティグ；N50 0.350 Mb）であった。TR4のアノテーションでは8,898個のタンパク質符号化遺伝子が予測され、代表的なタンパク質セットはBenchmarking Universal Single-Copy Orthologues評価において96.7%の網羅性を示した。機能的アノテーションにより、推定分泌タンパク質593個、エフェクター候補258個、糖活性酵素（CAZyme）候補355個、および予測された二次代謝生合成領域20箇所が同定された。分泌型CAZymeのうち7種類は、予測活性およびPathogen–Host Interactionsデータベースの病原性関連エントリとの相同性に基づき、潜在的な宿主障壁関連因子として優先的に選定された。アライメント領域全体で平均ヌクレオチド同一性が99.81%であったにもかかわらず、リードベースの比較により28,040箇所の高信頼度の分離株固定差が同定された。再構築された158個のGR1候補アレルのうち、147個が強いアセンブリサポートを示した。特筆すべき相違点として、2つのZn(II)₂Cys₆転写因子の予測切断、完全な非リボソームペプチド合成酵素様コア遺伝子に隣接する1つの切断、および局所的な反復誘導点突然変異（RIP）様置換パターンと予測された早期終止を示す別の遺伝子が挙げられた。これらのリソースおよび候補遺伝子座は、微生物除草剤の開発に関連する病原性および株間変異を調査するための基盤となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760772",
+    "title": "ARG-PASS v2.0 expands global resistome surveillance to reveal previously unrecognized antibiotic resistance genes reaching the human gut",
+    "abstract": "Antimicrobial resistance (AMR) is a significant global public health threat, and antibiotic resistance genes (ARGs) that bacteria depend on to withstand treatment are its molecular basis. How ARGs move from environmental reservoirs into the human microbiome, and eventually into human pathogens, remains one of the most important unresolved questions in AMR research. The environmental reservoir remains poorly described and the routes connecting it to human microbiomes are largely inferred rather than observed. Describing that reservoir requires computational methods able to recognise ARGs that share little similarity with known enzymes, yet retain accuracy after experimental validation to enable scalable applications. Dietary exposure through unprocessed ferments offers a tractable setting in which such a route can be observed directly. Here we introduce ARG-PASS v2.0 and first apply it to a lake metagenome from Kolkata, India, where 10 of 11 tested candidates across diverse ARG classes were functionally confirmed after expression in  Escherichia coli . Given their clinical relevance, we then predicted 918 class B1 metallo-β-lactamases (MBLs) from MGnify and the PLSDB, with most diverging from characterized enzymes, but as widely distributed. Often tracking their hosts’ distribution, we find that most class B1 MBL diversity lies outside human-associated microbiomes. Cross-referencing against the Unified Human Gastrointestinal Protein catalogue identified a carbapenemase, an ANT, and class A β-lactamases from  Bacillus sonorensis and  Bacillus licheniformis , detected in South Korean fermented soybean paste (  doenjang ) as well as gut isolates of populations consuming these foods. Together, these results point to a largely chromosomal reservoir of ARG diversity that reaches the human gut through both resident and generalist hosts. Once in the human microbiome, treatment may be compromised directly if the host is an opportunistic pathogen, or after transfer to a clinical pathogen.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760772",
+    "date": "2026-10-22",
+    "authors": "Bartrop L, Grenier F, Bielawski J, Rodrigue S, Haraoui L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349303",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "Escherichia",
+        "bacteria",
+        "metagenom",
+        "metagenome",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "lake"
+        ],
+        "genomics": [
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 212,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760772"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1cb581b5ed3370cefab979563d176650e168c578582963e8fda76bb30e488a2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:49:14.401777+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "395b23644a41d9ae4d97f44309fc5adc0210e101fbb43b6b3a530311760fc136",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:49:14.401777+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ARG-PASS v2.0は、グローバルなレジストームサーベイランスを拡張し、ヒト腸管に到達するこれまで認識されていなかった抗生物質耐性遺伝子を明らかにする。",
+    "abstract_ja": "薬剤耐性（AMR）は世界的な公衆衛生上の重大な脅威であり、細菌が治療に耐えるために依存する抗生物質耐性遺伝子（ARG）がその分子基盤となっている。ARGが環境リザーバーからヒトマイクロバイオームへ、そして最終的にヒト病原体へとどのように移行するのかは、AMR研究における最も重要な未解決課題の一つであり続けている。環境リザーバーに関する記述は依然として不十分であり、それをヒトマイクロバイオームへとつなぐ経路は、観察されるというよりは主に推論されている。このリザーバーを記述するには、既知の酵素との類似性がほとんどない一方で、実験的検証後も精度を維持し、スケーラブルな応用を可能にするARG認識計算手法が必要となる。未加工の発酵食品を介した食事曝露は、このような経路を直接観察できる扱いやすい設定となる。本研究では、ARG-PASS v2.0を導入し、まずインドのコルカタの湖沼メタゲノムに適用した。その結果、多様なARGクラスにわたる11個の候補のうち10個が、Escherichia coliでの発現後に機能的に確認された。これらの臨床的関連性を踏まえ、次いでMGnifyおよびPLSDBから918個のクラスB1メタロβ-ラクタマーゼ（MBL）を予測した。その多くは特性解析済みの酵素とは異なっていたが、広く分布していた。宿主の分布を追跡したところ、クラスB1 MBLの多様性の大部分はヒト関連マイクロバイオームの外に存在することが判明した。Unified Human Gastrointestinal Proteinカタログとの照合により、Bacillus sonorensisおよびBacillus licheniformis由来のカルバペネマーゼ、ANT、およびクラスA β-ラクタマーゼが同定され、これらは韓国の発酵大豆ペースト（ doenjang）およびこれらの食品を摂取する集団の腸内分離株から検出された。これらの結果を総合すると、ARGの多様性が主に染色体上のリザーバーとして存在し、常在宿主とジェネラリスト宿主の両方を通じてヒトの腸管に到達していることが示唆される。一度ヒトマイクロバイオームに入ると、宿主が日和見病原体である場合、あるいは臨床病原体へと移行した後に、治療が直接的に損なわれる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11442791/v1",
+    "title": "Glowing pathogenic bacteria discovered in the Aral Sea – a harmless evolutionary feature or a hidden threat?",
+    "abstract": "Abstract  Bioluminescent bacteria are widespread in marine ecosystems, yet whether they can establish stable populations in long-isolated inland saline lakes has remained unknown. Here we report species-level identification and comprehensive characterization of the first isolated bioluminescent bacteria from the Aral Sea, a formerly extensive inland water body that has remained isolated from the world ocean since its Holocene formation while experiencing extreme fluctuations in salinity, temperature and water level. We show that the luminescent microbiota comprises two marine species, Vibrio cholerae and Vibrio vulnificus. V. cholerae isolates displayed enhanced tolerance to low salinity and possessed a thermolabile luciferase. In contrast, isolated V. vulnificus strains grew and emitted light over an exceptionally broad elevated salinity range (5–70‰) and retained luminescence at temperatures exceeding 40 °C, indicating remarkable adaptation to the highly variable physicochemical conditions of the Aral Sea. Phylogenetic analyses place isolates close to contemporary type strains, and the retention of virulence-associated genes indicates limited evolutionary divergence, suggesting a relatively recent colonization rather than long-term independent evolution. Together, these results demonstrate that bioluminescent bacteria from pathogenic species can successfully colonize ecological niches in isolated inland saltwater ecosystems typically occupied by other Vibrio species in the open sea.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11442791/v1",
+    "date": "2026-10-22",
+    "authors": "Bazhenov S, Matveeva V, Vlasov A, Viushinskij P, Scheglova E, Kudryavtseva A, Malysheva E, Sakharov D, Aianka R, Ten O, Rastorguev S, Alexyuk M, Bogoyavlenskiy A, Prokopiev V, Gordeliy V, Manukhov I.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347912",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [
+          "lake",
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 213,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11442791/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a54d6d38af05b1913706034c8959c220e2feefae70193e909b11b5591b6abee2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:49:14.401777+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7ab9a1286223e2f05d7bcf4aa17310ce7a7078b8302c1b0d68a4e1cc96c72099",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:49:14.401777+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アラル海で発見された発光性病原細菌――無害な進化上の特徴か、それとも潜む脅威か？",
+    "abstract_ja": "要旨　生物発光細菌は海洋生態系に広く分布しているが、長期間隔離された内陸の塩湖において安定した個体群を形成し得るかは不明であった。本研究では、ホロセーン期の形成以来、外洋から隔離されたまま塩分濃度、水温、水位の極端な変動を経験してきたかつての広大な内陸水域であるアラル海から、初めて単離された生物発光細菌の種レベルの同定および包括的な特性解析について報告する。我々は、発光微生物叢がVibrio choleraeとVibrio vulnificusという2種の海洋細菌で構成されていることを示す。V. choleraeの分離株は、低塩分に対する耐性が向上しており、熱不安定性ルシフェラーゼを有していた。対照的に、単離されたV. vulnificus株は、極めて広範な高塩分範囲（5–70‰）にわたって増殖し発光し、40 °Cを超える温度でも発光を維持した。これは、アラル海の極めて変動の激しい物理化学的条件に対する顕著な適応を示している。系統解析の結果、分離株は現代のタイプ株に近縁であることが示され、また病原性関連遺伝子の保持は進化的分岐が限定的であることを示唆しており、長期的な独立進化ではなく、比較的最近の定着であったことが示唆される。以上の結果を総合すると、病原性種由来の生物発光細菌が、外洋では他のVibrio属菌が通常占めている隔離された内陸塩水生態系の生態的ニッチに、良好に定着し得ることが実証される。"
   }
 ]
