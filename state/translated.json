@@ -268275,5 +268275,335 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "アラル海で発見された発光性病原細菌――無害な進化上の特徴か、それとも潜む脅威か？",
     "abstract_ja": "要旨　生物発光細菌は海洋生態系に広く分布しているが、長期間隔離された内陸の塩湖において安定した個体群を形成し得るかは不明であった。本研究では、ホロセーン期の形成以来、外洋から隔離されたまま塩分濃度、水温、水位の極端な変動を経験してきたかつての広大な内陸水域であるアラル海から、初めて単離された生物発光細菌の種レベルの同定および包括的な特性解析について報告する。我々は、発光微生物叢がVibrio choleraeとVibrio vulnificusという2種の海洋細菌で構成されていることを示す。V. choleraeの分離株は、低塩分に対する耐性が向上しており、熱不安定性ルシフェラーゼを有していた。対照的に、単離されたV. vulnificus株は、極めて広範な高塩分範囲（5–70‰）にわたって増殖し発光し、40 °Cを超える温度でも発光を維持した。これは、アラル海の極めて変動の激しい物理化学的条件に対する顕著な適応を示している。系統解析の結果、分離株は現代のタイプ株に近縁であることが示され、また病原性関連遺伝子の保持は進化的分岐が限定的であることを示唆しており、長期的な独立進化ではなく、比較的最近の定着であったことが示唆される。以上の結果を総合すると、病原性種由来の生物発光細菌が、外洋では他のVibrio属菌が通常占めている隔離された内陸塩水生態系の生態的ニッチに、良好に定着し得ることが実証される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.32942/x2w996",
+    "title": "The e14 cryptic prophage belongs to a temperate phage lineage distributed across Escherichia and retains genes with potential anti-phage defence functions",
+    "abstract": "The e14 region of Escherichia coli str. K-12 is a cryptic prophage that retains functional excision and integration machinery despite extensive loss of phage reproductive functions. However, its evolutionary relationship to other bacteriophages remains poorly resolved. Here, we identify related prophages across four Escherichia species, alongside related, independently isolated bacteriophages. The putative prophages were 34.7–43.5 kb, more than twice the size of e14 (15.2 kb), and retained much of the genomic architecture required for phage reproduction. Comparative genomic and phylogenetic analyses support e14 as a highly reduced member of a broader lineage of temperate bacteriophages. The retention of genes with established or putative anti-phage functions further raises the possibility that e14 represents a form of ‘defence flotsam’, potentially protecting its host against subsequent phage infections. More broadly, cryptic prophages may provide reservoirs of anti-phage defence functions long after losing their capacity for phage reproduction.",
+    "journal": "",
+    "doi": "10.32942/x2w996",
+    "date": "2026-10-22",
+    "authors": "Gifford DR.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348308",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteriophage",
+        "bacteriophages",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 336,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.32942/x2w996"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fe33fd41acadafec370bc507231e15ec56e4efce7c96294d85f5139a522cda7b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:51:19.479063+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "79d9cdba5620c32b69bdd0d9f80fc1ea5fe5099b7b6a57d2c6116763e4797663",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:51:19.479063+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "e14クリプティックプロファージは、大腸菌群に分布する温帯ファージ系統に属し、抗ファージ防御機能を有する可能性のある遺伝子を保持している。",
+    "abstract_ja": "Escherichia coli str. K-12のe14領域は、ファージの生殖機能を大幅に喪失しているにもかかわらず、機能的な切除・組み込み機構を保持しているクリプティック・プロファージである。しかし、他のバクテリオファージとの進化的関係については依然として十分に解明されていない。本研究では、4種のEscherichia属菌における関連プロファージと、独立して単離された関連バクテリオファージを同定した。推定されるプロファージのサイズは34.7–43.5 kbであり、e14（15.2 kb）の2倍以上の大きさで、ファージの生殖に必要なゲノム構造の多くを保持していた。比較ゲノム解析および系統解析により、e14は温帯性バクテリオファージというより広範な系統に属する、高度に機能が低下したメンバーであることが支持された。確立された、あるいは推定される抗ファージ機能を持つ遺伝子が保持されていることは、e14が「防御プルーム」の一形態であり、宿主をその後のファージ感染から保護している可能性をさらに示唆している。より広範には、クリプティック・プロファージは、ファージ生殖能を喪失した後も、長期間にわたって抗ファージ防御機能のリザーバーとなり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10986208/v1",
+    "title": "Improvement in Liver Function Tests in a Male Patient with Primary Biliary Cholangitis Following Faecal Microbiota Transplantation (FMT): Case Report",
+    "abstract": "Abstract    Primary biliary cholangitis (PBC) is a chronic disease potentially resulting in liver cirrhosis, liver failure and death. Although PBC predominantly affects women, there is a rising incidence in men who tend to present with worse prognosis and more advanced disease. Although the standard of care is lifelong ursodeoxycholic acid (UDCA), PBC remains progressive in a substantial proportion of patients. Growing evidence suggests that gut dysbiosis contributes to PBC pathogenesis, with faecal microbiota transplantation (FMT) as a potential treatment. This study presents the first report of FMT performed in a 47-year-old male with PBC. In this study, shotgun metagenomic sequencing was performed on stool samples before and after FMT. Microbial diversity and changes were assessed using alpha diversity indices, multidimensional scaling, relative abundance profiling and log  2  fold-change analysis. Following FMT and without the use of UDCA, the patient experienced a sustained downtrending of liver function tests (LFTs). The post-FMT microbiome profile increased in diversity and richness substantially, shifting closer toward that of the donor and healthy cohort. There was a marked increase in the number of species shared between the patient and donor from 18 to 110 post-FMT, indicating successful donor engraftment. Amongst the top 10 bacteria detected exclusively post-FMT were  F. prausnitzii  and  A. butyriciproducens  , possessing roles in anti-inflammation and preserving intestinal mucosal integrity. This report demonstrates promising clinical and microbial shifts with FMT. FMT may serve as an alternative or adjunct to current treatment by directly addressing gut dysbiosis, ultimately reducing pill burden and improving overall quality of life.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10986208/v1",
+    "date": "2026-10-22",
+    "authors": "Ong KHX, Lai HX, See EYT, Tan SC, Lee JXT, Phoo JWH, Lee JWJ, Ong DEH, Lim JFY.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348122",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 548,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10986208/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9aad7422cdb5b09919c12a342bdfed70869d5d5b4ce4dd0ab864bc7559eb9b20",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:51:19.479063+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ab2121501f017c4eeaf90b7ad992f4498344e505efb93093783dd4daeb2f2535",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:51:19.479063+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "便微生物移植（FMT）後の原発性胆汁性胆管炎男性患者における肝機能検査値の改善：症例報告",
+    "abstract_ja": "要旨    原発性胆汁性胆管炎（PBC）は、肝硬変、肝不全、および死亡に至る可能性のある慢性疾患である。PBCは主に女性に発症するが、男性においても発症例が増加しており、男性では予後がより不良で疾患が進行しやすい傾向にある。標準治療は生涯にわたるウルソデオキシコール酸（UDCA）投与であるが、相当数の患者においてPBCは進行し続けている。腸内細菌叢の乱れがPBCの病態形成に寄与していることを示唆するエビデンスが増えており、糞便微生物移植（FMT）が潜在的な治療法として注目されている。本研究では、PBCを患う47歳男性に対して実施したFMTの初の報告を行う。本研究では、FMT前後の便検体に対してショットガンメタゲノムシーケンシングを実施した。微生物多様性および変化については、アルファ多様性指標、多次元尺度構成法、相対存在量プロファイリング、およびlog 2 倍量変化解析を用いて評価した。FMT後、UDCAを使用せずに、患者の肝機能検査値（LFTs）は持続的な低下を示した。FMT後のマイクロバイオームプロファイルは、多様性と豊富さが著しく増加し、ドナーおよび健常群のプロファイルにより近づいた。患者とドナー間で共通する菌種数は、FMT後に18種から110種へと顕著に増加し、ドナー生着が成功したことが示された。FMT後にのみ検出された上位10種の細菌には、抗炎症作用や腸管粘膜の完全性維持に関与するF. prausnitziiおよびA. butyriciproducensが含まれていた。本報告は、FMTによる有望な臨床的および微生物学的変化を示すものである。FMTは、腸内細菌叢の乱れに直接対処することで、現行治療の代替または補助療法となり得、最終的に薬剤負担の軽減と全体的な生活の質の向上をもたらす可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10848268/v1",
+    "title": "Host-associated gut microbiomes and resistomes in wild birds and sympatric Himalayan marmots from the Qinghai–Tibet Plateau",
+    "abstract": "Abstract    Background  Wild birds are being increasingly recognized as potential reservoirs and disseminators of antibiotic resistance genes (ARGs); however, the microbiome and resistome profiles of plateau-dwelling wild birds remain insufficiently characterized. Results  In this study, shotgun metagenomic sequencing was used to investigate the gut microbiomes and resistomes of six wild bird species from the Qinghai–Tibet Plateau, with sympatric Himalayan marmots (  Marmota himalayana  ) included for host-comparative analysis. The gut microbiota of the bird species was dominated by Pseudomonadota, Actinomycetota, Bacillota, and Chlamydiota; however, the microbial composition varied markedly among the bird groups. Functional annotation revealed that metabolism, genetic information processing, and environmental information processing were the predominant KEGG categories. CARD annotation revealed 130 antibiotic resistance ontology categories in bird gut microbiomes, including genes associated with multidrug resistance, β-lactams, quinolones, tetracyclines, polymyxins, and glycopeptide resistance. Microbial source analysis revealed that ARGs were associated mainly with Pseudomonadota, Bacillota, and Actinomycetota, with clear decoupling between microbial abundance and ARG contribution. Compared with birds,  Marmota himalayana  presented distinct microbiome and resistome structures, with Bacillota acting as the dominant ARG-associated phylum. Conclusions  These findings reveal host- and environment-associated variation in the gut microbiomes and resistomes of plateau wildlife and highlight wild birds and sympatric mammals as potential reservoirs of clinically relevant ARGs in alpine ecosystems.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10848268/v1",
+    "date": "2026-10-22",
+    "authors": "Xiong H, Shi S, Qi J, Su X, An G, Ma L, Xie H, Guo w, Wei Y, Chen P, Cai S, Wang Y, Yang J, Li W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347634",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 549,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10848268/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2e5a76e00255af1fe8e052402f9328c8fa1dd509b2d29a31d6ce2c51b24a4a2d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:51:19.479063+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c3472b9b010b33d3c02fb1e27042226a1c7d567a301bddb433a606122320ffca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:51:19.479063+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "青海・チベット高原の野生鳥類および同所的に生息するヒマラヤマーモットにおける宿主関連腸内微生物叢とレジストーム",
+    "abstract_ja": "要旨    背景  野生鳥類は、抗生物質耐性遺伝子（ARG）の潜在的なリザーバーおよび伝播源として認識されつつあるが、高原に生息する野生鳥類のマイクロバイオームおよびレジストームのプロファイルは依然として十分に解明されていない。結果  本研究では、ショットガンメタゲノムシーケンシングを用いて、青蔵高原の野生鳥類6種の腸内マイクロバイオームおよびレジストームを解析し、宿主比較解析のために同所的に生息するヒマラヤマーモット（  Marmota himalayana  ）を含めた。鳥類種の腸内微生物叢は、Pseudomonadota、Actinomycetota、Bacillota、およびChlamydiotaが優占していたが、微生物組成は鳥類グループ間で顕著に異なっていた。機能アノテーションの結果、代謝、遺伝情報処理、および環境情報処理が主要なKEGGカテゴリであることが明らかになった。CARDアノテーションにより、鳥類の腸内マイクロバイオームにおいて、多剤耐性、β-ラクタム系、キノロン系、テトラサイクリン系、ポリミキシン系、および糖ペプチド耐性に関連する遺伝子を含む130の抗生物質耐性オントロジーカテゴリが同定された。微生物由来解析の結果、ARGは主にPseudomonadota、Bacillota、およびActinomycetotaに関連しており、微生物量とARG寄与度の間には明確なデカップリングが認められた。鳥類と比較して、  Marmota himalayana  は特徴的なマイクロバイオームおよびレジストーム構造を示し、BacillotaがARG関連の優占門として機能していた。結論  これらの知見は、高原の野生生物の腸内マイクロバイオームおよびレジストームにおける宿主および環境関連の変動を明らかにするとともに、高山生態系において野生鳥類および同所的に生息する哺乳類が、臨床的に重要なARGの潜在的なリザーバーとなり得ることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.17.759807",
+    "title": "The replication checkpoint prevents fork stalling by reducing transcription",
+    "abstract": "The replication checkpoint is essential for maintaining genome stability during replication stress. The prevailing view is that, without this pathway, stalled DNA replication forks lose structural integrity and collapse, preventing replication resumption and ultimately causing cell death. Here, we show that transcription is a major cause of replication stress in budding yeast checkpoint mutants. Checkpoint signaling limits replication defects by reducing RNA polymerase II and III occupancy at highly transcribed genes, particularly those encoding ribosomal proteins. Reducing transcription at these loci reduces fork stalling and the sensitivity of checkpoint mutants to hydroxyurea-induced replication stress. In human cells, transcription inhibition likewise improves replication recovery when ATR is inhibited, suggesting that this function is conserved. Together, our findings extend the canonical view of critical checkpoint functions: in addition to stabilizing stalled forks, it actively reduces RNA polymerase roadblocks that would otherwise impede their progression. Highlights  - The replication checkpoint acts upstream of fork stabilization to prevent stalling - Replication defects is caused by highly expressed ribosomal proteins genes - Reducing ribosomal genes transcription partially rescues checkpoint mutants - This protective checkpoint function is evolutionarily conserved in human cells.",
+    "journal": "",
+    "doi": "10.64898/2026.10.17.759807",
+    "date": "2026-10-22",
+    "authors": "Heuzé J, Grassin S, Pasero P, Poli J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349316",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 868,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.17.759807"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2b689432a46e369467d3c4f6f39a5976504b0f2aef8c775d1aa6297fd80f78ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:51:19.479063+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "770260cdb7f7f41dabd5e035467835e355d383d68d996acd708f9298c67b531c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:51:19.479063+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "複製チェックポイントは、転写を抑制することでフォークの停滞を防ぐ。",
+    "abstract_ja": "複製チェックポイントは、複製ストレス下でゲノムの安定性を維持する上で不可欠である。この経路がなければ、停止したDNA複製フォークは構造的完全性を失って崩壊し、複製の再開が妨げられ、最終的に細胞死に至るというのが通説である。本研究では、出芽酵母のチェックポイント変異体において、転写が複製ストレスの主要な原因であることを示す。チェックポイントシグナル伝達は、高転写遺伝子、特にリボソームタンパク質をコードする遺伝子におけるRNAポリメラーゼIIおよびIIIの占有を減少させることで、複製欠陥を抑制する。これらの遺伝子座における転写を減少させると、フォークの停止およびヒドロキシ尿素誘導性複製ストレスに対するチェックポイント変異体の感受性が低下する。ヒト細胞においても、ATRが阻害された際に同様に転写抑制が複製回復を改善し、この機能が保存されていることが示唆される。以上の知見を総合すると、重要なチェックポイント機能に関する従来の見解を拡張するものであり、すなわち、停止したフォークを安定化させるだけでなく、本来であればその進行を妨げるRNAポリメラーゼの阻害要因を積極的に減少させるというものである。ハイライト  - 複製チェックポイントは、フォーク安定化の上流で作用して停止を防ぐ - 複製欠陥は、高発現のリボソームタンパク質遺伝子によって引き起こされる - リボソーム遺伝子の転写を減少させると、チェックポイント変異体が部分的に救済される - この保護的なチェックポイント機能は、ヒト細胞において進化的に保存されている。"
   }
 ]
