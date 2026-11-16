@@ -265429,5 +265429,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "薬学・医学におけるハイドロゲル：調製方法、プロセス制御および薬物送達への応用に関する図解レビュー",
     "abstract_ja": "溶解することなく大量の水や生体液を取り込むことができる三次元親水性ポリマーネットワークであるハイドロゲルは、医薬品およびバイオマテリアル科学において最も汎用性の高いプラットフォームの一つとなっている。その高い含水率、軟組織のような力学特性、生体適合性、および調整可能なネットワーク構造により、外用、眼科用、粘膜用、経口および注射用製剤、ならびに再生医療用スキャフォールドとして設計することが可能である。本解説付き総説では、本分野について、特にハイドロゲル製剤の調製方法に重点を置いた、実践的かつ重要な考察を行う。物理的架橋法（イオンゲル化、ポリ電解質錯形成、熱応答性ゲル化、凍結融解サイクル、および超分子集合）および化学的架橋法（フリーラジカルおよび光開始重合、低分子架橋剤、クリックおよび動的共有結合化学、ならびに酵素介在性および放射線架橋）について、そのメカニズム、代表的な材料と条件、重要なプロセスパラメータ、利点および限界の観点から検討する。カルボマー、セルロースエーテル、ポロキサマー、および多糖類をベースとした従来の医薬品ゲルの調製について、薬物担持戦略、ビーズ、マイクロ・ナノゲル、フィルム、スポンジ、マイクロニードル、およびプリント構造体への加工、ならびに最も頻繁に発生する製剤失敗に対するトラブルシューティングガイドとともに、段階的に記述する。次いで、ハイブリッド、相互貫通型、ナノ複合体、二重ネットワーク、およびテトラPEGハイドロゲルなど、従来のネットワーク固有の弱点を克服した高度な構造について論じ、続いて、ゲル分率、膨潤およびメッシュサイズ、レオロジー、形態、放出動態、安定性、微生物学的品質、および生体適合性といった重要な品質特性を確立するために必要な特性評価および品質管理法について述べる。その後、薬物放出メカニズム、経路特異的なデリバリー戦略、刺激応答性および階層型システム、物理化学的特性およびバイオ医薬品分類システム（Biopharmaceutics Classification System）を参照した薬物候補の選定、ならびに組織工学および創傷ケアへの応用について分析する。最後に、臨床承認済み製品および主要なトランスレーショナルバリア、すなわち機械的脆弱性、バースト放出、残留試薬、滅菌、バッチ間変動、および規制上の分類について批判的に評価し、次世代の臨床的に有用なハイドロゲル製剤に向けた現実的な道筋を明らかにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760874",
+    "title": "Towards forecasting antimicrobial resistance evolution: concordance of  in vitro  and  in vivo  studies",
+    "abstract": "Summary  Antimicrobial resistance is a major global health concern, and current measures to address the problem are new drugs, prudent use and rapid diagnostics. Recently, the idea of forecasting resistance evolution experimentally to prevent resistance  a priori has gained attention. But how well do experimental data on antimicrobial resistance evolution reflect resistance in strains from patients?  We conducted a systematic review and analysis to compare  in vitro and  in vivo data. We collected and analysed literature on experimental resistance evolution published between 1977 and 2024 available on PubMed for ESKAPE pathogens plus  E .  coli (ESKAPEE). We catalogued the magnitude of resistance evolution via minimum inhibitory concentration (MIC) changes across antimicrobial classes. We then focussed on  P. aeruginosa and  E. coli under ciprofloxacin (CIP) selection, as these were most frequent bacterial species used in experimental evolution. CIP-selected gene mutations and amino acid substitutions, as well as the associated MICs in experimentally evolved  P. aeruginosa and  E. coli isolates, were compared with corresponding  in vivo data.  In vitro and  in vivo isolates of  E. coli showed high concordance in the selected gene mutations and the specific amino-acid changes. Similar results were found for  P. aeruginosa Evolved MIC values differed significantly depending on the respective gene mutation and the total number of mutations, but not due to the origin of the strains –  in vitro or  in vivo . Our findings clearly show that experimental resistance evolution  in vitro could predict the emergence of antimicrobial resistance evolution  in vivo .  This study supports the idea that experimental data can be used to forecast the risks of resistance emergence and therefore contribute to antimicrobial stewardship. It will be important to investigate how generalizable these findings are for other bacteria-antimicrobial combinations.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760874",
+    "date": "2026-10-23",
+    "authors": "Herzog M, Murphy RA, Rolff J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349585",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2649,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.760874"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b44f977851fe2e63d9e9a3a08941e777b40f6b7c65c3f7eb868ca49421eba1e1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:32:51.454352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ee19728e166807f99839e97a2e55bc96a1df43aedec095e97a445bfebba4c14d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:32:51.454352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "薬剤耐性の進化予測に向けて：in vitroおよびin vivo研究の整合性",
+    "abstract_ja": "要旨  薬剤耐性は世界的な重大な保健上の懸念事項であり、この問題に対処するための現在の対策は、新薬の開発、適正使用、および迅速診断である。近年、耐性を未然に防ぐために、実験的に耐性の進化を予測するという考え方が注目を集めている。しかし、薬剤耐性の進化に関する実験データは、患者由来株の耐性をどの程度反映しているのだろうか。我々は、in vitroデータとin vivoデータを比較するため、系統的レビューおよび解析を実施した。PubMedで公開されている、ESKAPE病原体およびE. coli（ESKAPEE）に関する1977年から2024年の間に公表された薬剤耐性の実験的進化に関する文献を収集し、解析した。薬剤クラス別の最小発育阻止濃度（MIC）の変化を通じて、耐性進化の程度をカタログ化した。次に、実験的進化において最も頻繁に用いられた細菌種であるシプロフロキサシン（CIP）選択下のP. aeruginosaおよびE. coliに着目した。CIP選択による遺伝子変異およびアミノ酸置換、ならびに実験的に進化させたP. aeruginosaおよびE. coli分離株における対応するMICを、対応するin vivoデータと比較した。E. coliのin vitroおよびin vivo分離株では、選択された遺伝子変異および特異的なアミノ酸変化において高い一致が認められた。P. aeruginosaにおいても同様の結果が得られた。進化したMIC値は、それぞれの遺伝子変異および変異の総数によって有意に異なっていたが、in vitroかin vivoかという菌株の由来によるものではなかった。我々の知見は、in vitroにおける実験的な耐性進化が、in vivoにおける薬剤耐性進化の出現を予測し得ることを明確に示している。本研究は、実験データが耐性出現のリスク予測に利用でき、したがって抗菌薬適正使用（antimicrobial stewardship）に寄与し得るという考えを支持するものである。これらの知見が他の細菌と抗菌薬の組み合わせに対してどの程度一般化可能であるかを調査することが重要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760808",
+    "title": "The Sensitivity of  13  C-Metabolic Flux Analysis to Biomass Composition Underscores the Need for Accurate Biomass Formulation in  Escherichia coli",
+    "abstract": "Quantifying intracellular fluxes through  13 C-metabolic flux analysis (  13 C-MFA) provides a detailed view of cellular metabolism. While model formulation, including biomass synthesis reactions, is known to influence flux estimations, the degree to which biomass composition affects  13 C-MFA outcomes in  Escherichia coli remains debated. Here, we reconstructed a genome-scale  13 C-MFA model of  E. coli incorporating explicit nucleotide biosynthesis and a modular biomass formulation that separates protein, RNA, and other components. Using isotopic labeling experiments and systematic perturbations of biomass composition, we demonstrate that  13 C-MFA can robustly differentiate subtle shifts in the protein/RNA ratio, with deviations as small as 2–3% producing statistically significant but biologically interpretable changes in model fit. Reaction-level analyses revealed consistent flux adjustments across amino acid and nucleotide biosynthesis, while pathways in one-carbon metabolism, particularly serine, glycine, and threonine interconversions, exhibited the strongest responses. Collectively, these results highlight the robustness and discriminative power of  13 C-MFA and also demonstrate the importance of accurate biomass composition measurement in  E. coli 13 C-MFA, given the method’s intrinsic sensitivity to macromolecular stoichiometry.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760808",
+    "date": "2026-10-23",
+    "authors": "Cai Y, Antoniewicz MR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349282",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2662,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760808"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9368737d7506f355b1eafdb9c48769c886ff5f0d28017346266f35b45328b7e7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:32:51.454352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bac63a1e433ada2eb6d5fd73303c107e350d9d3fabbfff106bf08f0a401d54dc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:32:51.454352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "13C代謝フラックス解析によるバイオマス組成の感度は、大腸菌における正確なバイオマス処方の必要性を浮き彫りにしている。",
+    "abstract_ja": "13C代謝フラックス解析（13C-MFA）による細胞内フラックスの定量化は、細胞代謝の詳細な実態を明らかにする。バイオマス合成反応を含むモデルの定式化がフラックス推定に影響を及ぼすことは知られているが、大腸菌（Escherichia coli）においてバイオマス組成が13C-MFAの結果にどの程度影響を与えるかについては依然として議論がある。本研究では、明示的なヌクレオチド生合成と、タンパク質、RNA、およびその他の構成成分を分離したモジュール式バイオマス定式化を組み込んだ、ゲノムスケールの大腸菌13C-MFAモデルを再構成した。同位体標識実験とバイオマス組成の系統的な摂動を用いることで、13C-MFAがタンパク質/RNA比のわずかな変動を頑健に判別でき、わずか2～3%の偏差であっても、モデル適合度において統計的に有意かつ生物学的に解釈可能な変化が生じることを実証した。反応レベルの解析により、アミノ酸およびヌクレオチド生合成において一貫したフラックス調整が確認された一方、一炭素代謝の経路、特にセリン、グリシン、トレオニンの相互変換において最も強い応答が認められた。総じて、これらの結果は13C-MFAの頑健性と識別能を浮き彫りにするものであり、また、本手法が高分子の化学量論に対して本質的に敏感であることを踏まえると、大腸菌13C-MFAにおける正確なバイオマス組成測定の重要性を示すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760787",
+    "title": "CST–Polα/primase, backed up by Rif1, protects telomeric ss-dsDNA junctions from damage recognition and resection",
+    "abstract": "The yeast Cdc13-Stn1-Ten1 (CST) complex is critical for telomere length regulation and telomere protection. Recent studies further implicate Polα/primase (PP) as an essential partner of CST in executing these functions, but the mechanistic bases remain poorly understood. Using the pathogenic yeast  Nakaseomyces glabratus , a model amenable to mechanistic dissection of CST-PP, we analyzed the protection mechanisms of CST-PP by combining mutations that disrupt individual subunits or complex assembly with mutations in DNA damage response (DDR) and DNA repair factors. The complete loss of Cdc13 – which eliminates the CST-PP assembly – results in telomere damage recognition involving Rad9, Rad24 and Mec3, as well as aberrant resection mediated by Exo1 and Sgs1. In contrast, disrupting the interaction between CST and PP leads to proliferation defects triggered primarily by Exo1, implying a more selective protection function for PP. The involvement of the DDR clamp loader and clamp together with Exo1 points to ss-dsDNA junctions with recessed 5’ ends as a crucial lesion in the absence of Cdc13. Further analysis implicates RNase H1 and H2 in promoting DNA damage, possibly by exposing such junctions. Based on similarities between Cdc13 and POT1, a telomere protein previously implicated in junctional protection, we modeled Cdc13 binding to a ss-dsDNA junction and showed that point mutations at the proposed interaction site impaired telomere protection and altered the distribution of the telomere C-strand 5’ ends  in vivo . We further demonstrate that Rif1, another telomere protein with junctional binding activity, supports the protection function of CST-PP. Together, our findings illuminate the molecular basis of telomere DNA damage and of CST-PP mediated telomere protection.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760787",
+    "date": "2026-10-23",
+    "authors": "Yu EY, Calugaru K, Younten T, Huang S, Lue NF.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349254",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2663,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.760787"
+    ],
+    "translation": {
+      "title": {
+        "hash": "11ef4a61bea76852e6f99faac7cdb0e917c2a9c3bd0a2f5e8b7cd4a0b8618f3a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:32:51.454352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d05b9be2a48d3e20026256d59ff7b30d89c6aa9043be13176413465ba7eb688d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:32:51.454352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Rif1の補助を受けたCST–Polα/プライマーゼは、テロメアss-dsDNA接合部を損傷認識および切除から保護する。",
+    "abstract_ja": "酵母のCdc13-Stn1-Ten1 (CST) 複合体は、テロメア長の調節およびテロメア保護において極めて重要である。近年の研究により、これらの機能を遂行する上でPolα/プライマーゼ (PP) がCSTの必須パートナーであることがさらに示唆されているが、その機構的基盤は依然として十分に解明されていない。CST-PPの機構的解析に適したモデル酵母であるNakaseomyces glabratusを用い、個々のサブユニットまたは複合体の構築を阻害する変異と、DNA損傷応答 (DDR) およびDNA修復因子の変異を組み合わせることで、CST-PPの保護機構を解析した。CST-PPの構築を消失させるCdc13の完全欠損は、Rad9、Rad24およびMec3が関与するテロメア損傷の認識、ならびにExo1およびSgs1を介した異常な切除を引き起こす。対照的に、CSTとPPの相互作用を阻害すると、主にExo1によって誘発される増殖異常が生じ、PPに対してより選択的な保護機能が働いていることが示唆される。DDRクランプローダーおよびクランプがExo1と共に関与していることは、Cdc13不在下における重要な病変として、5'末端が陥入したss-dsDNA接合部が存在することを示している。さらなる解析により、RNase H1およびH2が、おそらくこうした接合部を露出させることでDNA損傷の促進に関与していることが明らかになった。Cdc13と、接合部保護に関与することが以前に示されていたテロメアタンパク質POT1との類似性に基づき、Cdc13のss-dsDNA接合部への結合をモデル化したところ、提案された相互作用部位における点変異がテロメア保護機能を損ない、in vivoにおいてテロメアC鎖5'末端の分布を変化させることが示された。さらに、接合部結合活性を持つ別のテロメアタンパク質であるRif1が、CST-PPの保護機能を支持していることを実証した。以上の知見を総合すると、テロメアDNA損傷およびCST-PP介在性テロメア保護の分子基盤が明らかになる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.757692",
+    "title": "Cap-specific N6-adenosine methyltransferases and applications in m6A Cap-1 mRNA synthesis",
+    "abstract": "In addition to the 5’ Cap-1 structure, the initiating adenosine of mammalian mRNA can be further modified by PCIF1 (Phosphorylated C-terminal domain-interacting factor 1) to form 2’-O,N6-dimethyladenosine (m6A Cap-1). While the biological role is still under investigation, the implications of m6A Cap-1 in mRNA metabolism and viral-host interactions have spurred interest in PCIF1 and m6A Cap-1 as biomarkers, drug targets, and research tools. Here, we identify and characterize two PCIF1-like cap-specific N6-adenosine methyltransferases, PC04 and PC05 and evaluate their applicability in m6A Cap-1 mRNA synthesis  in vitro. We found that both enzymes are highly specific to the m7G cap structure and highly active on Cap-1 RNA oligonucleotides and trinucleotide Cap-1 analogs at nanomolar concentrations. We demonstrate that PC04 or PC05 methylation reactions can be incorporated into established post-transcriptional capping and cap analog-based co-transcriptional  in vitro transcription (IVT) workflows to produce m6A Cap-1 RNAs. Finally, we show that PC05 can be combined with a previously reported FCE::T7 RNA polymerase fusion to synthesize m6A Cap-1 mRNA from DNA templates in a single step, co-transcriptional manner. The robustness of the PCIF1-like cap N6-adenosine methyltransferases can accelerate research into the biological roles of cap m6A modification and development of highly effective mRNA-based therapeutics.  Graphical Abstract",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.757692",
+    "date": "2026-10-23",
+    "authors": "Kneller DW, Dai N, Chan SH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349250",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2664,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.757692"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a48a11e069e037c34f187904d93c9f4d3719c626d66653e9f8c85976b48a79b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:32:51.454352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1b2d1262942db3f5577c690e1e87dda741250d2ab94744cdec40a7ac301414ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:32:51.454352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "キャップ特異的N6-アデノシンメチルトランスフェラーゼとm6Aキャップ-1 mRNA合成への応用",
+    "abstract_ja": "5’ Cap-1構造に加え、哺乳類mRNAの開始アデノシンは、PCIF1（リン酸化C末端ドメイン相互作用因子1）によってさらに修飾され、2’-O,N6-ジメチルアデノシン（m6A Cap-1）を形成することができる。その生物学的役割については現在も研究が進められているが、mRNA代謝およびウイルス・宿主相互作用におけるm6A Cap-1の意義から、PCIF1およびm6A Cap-1はバイオマーカー、創薬標的、および研究ツールとして注目を集めている。本研究では、PCIF1様のキャップ特異的N6-アデノシンメチルトランスフェラーゼであるPC04およびPC05を同定・特性解析し、in vitroにおけるm6A Cap-1 mRNA合成への適用可能性を評価した。その結果、両酵素ともにm7Gキャップ構造に対して極めて高い特異性を有し、ナノモル濃度においてCap-1 RNAオリゴヌクレオチドおよびトリヌクレオチドCap-1アナログに対して高い活性を示すことが明らかとなった。また、PC04またはPC05によるメチル化反応を、確立された転写後キャッピングおよびキャップアナログに基づく共転写性in vitro転写（IVT）ワークフローに組み込むことで、m6A Cap-1 RNAを作製できることを実証した。最後に、PC05を既報のFCE::T7 RNAポリメラーゼ融合体と組み合わせることで、DNAテンプレートから共転写的に単一ステップでm6A Cap-1 mRNAを合成できることを示した。PCIF1様キャップN6-アデノシンメチルトランスフェラーゼの堅牢性は、キャップm6A修飾の生物学的役割に関する研究や、極めて効果的なmRNAベースの治療薬の開発を加速させ得る。  Graphical Abstract"
   }
 ]
