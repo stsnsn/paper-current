@@ -279326,5 +279326,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "酵母の実験的進化から明らかになった初期定常期と後期定常期のトレードオフ",
     "abstract_ja": "Jason Tarkington, Aditya Mahadevan, Angelina G. Chan, Gavin Sherlock 著\n\n酵母やその他の微生物における定常期は、環境中の制限栄養素が枯渇し、細胞分裂が停止することで始まる。その後、ほとんどの細胞は静止状態に入り、生存能を失う。しかし、使用済み培地においても代謝は継続し、時間の経過とともに環境が変化するため、定常期を通じて遺伝子型の相対的適応度に差異が生じる。酵母において、このような適応度がどのように変動し、定常期のどの時点でどのような遺伝子型が有利になるのかは、大部分が不明である。本研究では、バッチ培養において増殖サイクル間の定常期滞在時間を変化させながらS. cerevisiaeを実験的に進化させ、適応クローンを単離した。定常期滞在時間の異なる条件および2種類の異なる炭素源を特徴とする一連の環境において、これらの適応クローンの相対的適応度を測定した。変異体の増殖サイクルのある期間における性能をその祖先株と比較することで、観察された各変異が増殖サイクルのさまざまな段階における性能に及ぼす影響を推定することができる。本研究では、定常期を含む増殖サイクルにおいて適応変異が出現した場合、その定常期性能への影響は、供給される炭素源の種類にほとんど依存しないことを示す。同一の変異体群において、定常期初期の性能に対する変異の影響は、定常期後期の影響と負の相関を示しており、トレードオフの存在が示唆される。また、定常期の間隔が長くなると、適応変異による適応度への影響が増大し、適応経路も異なることを示す。以上の結果を総合すると、定常期は複数の異なる適応度関連表現型から構成されており、定常期の最初の数日間に高い性能を可能にする表現型は、定常期の後半に高い性能を可能にする表現型とトレードオフの関係にあることが明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag760",
+    "title": "TL-iGeneCombo: transfer learning for individual sample specific gene combination effect prediction and selection in cancer cells.",
+    "abstract": "MotivationIdentifying effective gene combinations is critical for developing combinatorial cancer therapies. Synthetic lethality (SL) has been widely used to characterize genetic interactions based on cell viability, but predictive models are often limited by the availability of combinatorial double-knockout (CDKO) data for individual cancer cells. How to borrow information from CDKO experiments in other cancer cells to improve prediction in a targeted cancer cell remains an important challenge.ResultsWe investigated the CDKO effects of paired genes using both SL as an indirect measure and gene combination effect as a direct measure. We developed TL-iGeneCombo, a transfer learning approach, to borrow data from CDKO experiments in other cancer cells for the prediction of SL and gene combination effect in a targeted cancer cell. Applying TL-iGeneCombo improved the accuracy of SL classification by 19% and increased the Spearman correlation of gene combination effect scores by 29%. Using data and models built from the first CDKO experiment in a prostate cancer cell, 22RV1, we further designed gene pairs for a second CDKO experiment in the same cell. It validated the superior prediction of gene combination effect, but not SL prediction.Availability and implementationThe software is freely available at https://github.com/BirkanGokbag/TL-iGeneCombo under the GNU General Public License v.3.0.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag760",
+    "date": "2026-11-01",
+    "authors": "Gökbağ B, Wang L, Yang C, Shen Y, Zhang P, Cheng L, Li L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42860040",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13744699",
+    "pmid": "42860040",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4974,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bioinformatics/btag760"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dd0849dfd14e57326fe1b714cef08b99a9bf5dd3e13118a0446523d27ee61721",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:40:10.691092+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "739abcfd31f35d7c4e2c12aa7af5825401677f2e4d743da1c64b1bb7fa06aac6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:40:10.691092+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TL-iGeneCombo: がん細胞における個々のサンプル固有の遺伝子組み合わせ効果の予測および選抜のための転移学習。",
+    "abstract_ja": "動機組合せがん治療法の開発において、効果的な遺伝子組み合わせを同定することは極めて重要である。合成致死性（SL）は、細胞生存率に基づく遺伝的相互作用の特性評価に広く用いられてきたが、予測モデルは、個々のがん細胞における組合せ二重ノックアウト（CDKO）データの利用可能性によって制限されることが多い。標的がん細胞における予測精度を向上させるために、他のがん細胞におけるCDKO実験から情報をどのように借用するかは、依然として重要な課題である。結果間接指標としてのSLと、直接指標としての遺伝子組み合わせ効果の両方を用いて、ペア遺伝子のCDKO効果を調査した。我々は、標的がん細胞におけるSLおよび遺伝子組み合わせ効果の予測のために、他のがん細胞におけるCDKO実験からデータを借用する転移学習手法であるTL-iGeneComboを開発した。TL-iGeneComboを適用することで、SL分類の精度が19%向上し、遺伝子組み合わせ効果スコアのスピアマン相関が29%上昇した。前立腺がん細胞22RV1を用いた最初のCDKO実験から構築したデータとモデルを用いて、同細胞における2回目のCDKO実験に向けた遺伝子ペアをさらに設計した。これにより、遺伝子組み合わせ効果の優れた予測能が検証されたが、SLの予測能については検証されなかった。利用可能性と実装本ソフトウェアは、GNU一般公衆ライセンス v.3.0に基づき、https://github.com/BirkanGokbag/TL-iGeneCombo で無償で公開されている。"
+  },
+  {
+    "id": "10.1038/s41564-026-02536-8",
+    "title": "Mapping the Tibetan Plateau microbiome across ecosystems provides a resource for biodiscovery",
+    "abstract": "The Tibetan Environmental Genome catalogue is composed of over 50,000 metagenome-assembled genomes sourced from terrestrial and aquatic ecosystems across the Tibetan Plateau.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02536-8",
+    "date": "2026-11-16",
+    "authors": "Nianzhi Jiao",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02536-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4984,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41564-026-02536-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4d153364fbaa849930ed1cbaaf7a508f12cda28890a5514607f2203f46de1f07",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:40:10.691092+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aa84bd3b4bf5e53999da88ea08a99afc2edc3bd554c7c9e917b3f117d28ddd53",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:40:10.691092+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生態系横断的なチベット高原マイクロバイオームのマッピングは、バイオディスカバリーのためのリソースとなる。",
+    "abstract_ja": "チベット環境ゲノムカタログは、チベット高原全域の陸域および水域の生態系から得られた、メタゲノムアセンブル済みの5万件以上のゲノムで構成されている。"
+  },
+  {
+    "id": "10.1371/journal.pgen.1012270",
+    "title": "NF-κB/Dif-driven miR-1000 feedback restrains toll signaling via targeting Myd88 to restore Drosophila immune homeostasis",
+    "abstract": "by Chaolong Jia, Ju Li, Ning Li, Shangmin Yang, Linxian Sun, Shengjie Li, Fei Ma, Ping Jin\n\nInnate immune homeostasis is vital for animal survival and requires precise control of both the intensity and duration of immune signaling. Although microRNAs (miRNAs) are known to fine-tune immune responses, their transcriptional regulation mechanisms during infection remain poorly characterized. Here, we identify an NF-κB-dependent miRNA feedback loop essential for Drosophila Toll pathway. Through dynamic expression profiling and functional genetics, we demonstrate that the NF-κB transcription factor Dif directly activates miR-1000 transcription upon Gram-positive bacterial infection, while miR-1000 in turn targets the adaptor Myd88 mRNA for degradation. Moreover, we show that upon immune challenge, miR-1000 is significantly induced in the fat body, and fat body-specific manipulations confirm that Dif activates miR-1000 transcription and miR-1000 directly targets Myd88 in this key immune tissue. This dual function of Dif - concurrently inducing immune effectors (e.g., Drosomycin) and their suppressor miR-1000 - establishes a self-limiting circuit: Dif/miR-1000/Myd88 axis. Crucially, miR-1000-mediated suppression of Myd88, the hub of Toll pathway, constrains signal transduction and enables timely termination. Disruption of this axis prolongs Toll pathway activation and compromises host fitness during infection. Furthermore, this miRNA-adaptor regulatory paradigm is evolutionarily conserved, as miRNAs targeting MyD88 (such as miR-155) also inhibit TLR signaling in mammals. Our work reveals a transcriptionally connected feedback mechanism that dynamically restores animal innate immune homeostasis by targeting a central signaling adaptor.",
+    "journal": "PLOS Genetics",
+    "doi": "10.1371/journal.pgen.1012270",
+    "date": "2026-11-16",
+    "authors": "Ping Jin",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012270",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/plosgenetics/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4987,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://journals.plos.org/plosgenetics/feed/atom"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1371/journal.pgen.1012270"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7817faa124df51f229987d799de5752cdc342d24edf8bf45b346940689fb382d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:40:10.691092+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "61c94aa5cf6b0281b2ff0654d1d656bc3e2ad5123534f0ce04e95ded58b2f4bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:40:10.691092+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NF-κB/Dif駆動性miR-1000フィードバックは、Myd88を標的としてTollシグナル伝達を抑制し、ショウジョウバエの免疫恒常性を回復させる。",
+    "abstract_ja": "Chaolong Jia, Ju Li, Ning Li, Shangmin Yang, Linxian Sun, Shengjie Li, Fei Ma, Ping Jin 著\n\n自然免疫の恒常性は動物の生存に不可欠であり、免疫シグナル伝達の強度と持続時間の双方を精密に制御する必要がある。マイクロRNA（miRNA）は免疫応答を微調整することが知られているが、感染時におけるその転写調節機構については十分に解明されていない。本研究では、ショウジョウバエのToll経路に必須なNF-κB依存性miRNAフィードバックループを同定した。動的発現プロファイリングと機能遺伝学的解析を通じて、NF-κB転写因子Difがグラム陽性菌感染時にmiR-1000の転写を直接活性化し、一方でmiR-1000がアダプターMyd88 mRNAを分解標的とすることを実証した。さらに、免疫負荷時に脂肪体においてmiR-1000が有意に誘導されることを示し、脂肪体特異的な操作により、Difがこの重要な免疫組織においてmiR-1000の転写を活性化し、miR-1000が直接的にMyd88を標的とすることを確認した。免疫エフェクター（例：ドロソマイシン）とその抑制因子であるmiR-1000を同時に誘導するというDifのこの二重機能は、Dif/miR-1000/Myd88軸という自己制限型回路を構築する。極めて重要な点として、Toll経路のハブであるMyd88をmiR-1000が介在して抑制することで、シグナル伝達が制約され、適時な終結が可能となる。この軸の破綻はToll経路の活性化を長期化させ、感染時の宿主適応度を損なう。さらに、このmiRNA-アダプター調節パラダイムは進化的に保存されており、MyD88を標的とするmiRNA（miR-155など）も哺乳類においてTLRシグナル伝達を抑制する。本研究は、中心的なシグナル伝達アダプターを標的とすることで動物の自然免疫恒常性を動的に回復させる、転写的に連結したフィードバック機構を明らかにした。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag285",
+    "title": "Phosphorus limitation shifts cellular phosphorus allocation toward polyphosphate by depleting other phosphorus pools in Synechococcus",
+    "abstract": "AbstractPolyphosphate (polyP) is a ubiquitous and evolutionarily conserved form of phosphorus (P) present in all living organisms, yet its role in cellular and biogeochemical P cycling remains poorly constrained. In P-depleted marine environments, polyP consistently represents a larger fraction of total particulate P (TPP) than in P-replete environments, contradicting its classical role as a luxury storage compound. This unresolved discrepancy has been hypothesized to arise from reductions of other cellular P pools rather than by de novo polyP synthesis, but this has not been tested under steady-state conditions. Using continuous cultures of the globally important marine cyanobacterium Synechococcus sp. WH8102 grown across a gradient of phosphate availability, we address this knowledge gap. Although phosphate availability strongly affected growth rates, single-cell C:N:P stoichiometry and the expression of P-stress genes, polyP:TPP increased with decreasing phosphate availability, reproducing the pattern observed in oligotrophic oceans. This shift was not driven by de novo polyP synthesis; cellular polyP concentrations (polyP per biovolume) remained stable across growth rates (Kruskal-Wallis, P value = 0.06), whereas other intracellular P pools, including RNA, free intracellular phosphate, ATP, and phospholipids, were preferentially depleted with decreasing phosphate availability (2.6–11.8-fold across P pools), increasing the relative contribution of polyP to TPP. Expression of polyP metabolism genes showed minimal changes across treatments. These results indicate that P deficiency responses observed in oligotrophic environments and various microorganisms in batch culture reflect slow-growing physiology resulting in polyP maintenance and preferential depletion of more labile P pools, with consequences for interpreting particulate P stoichiometry and export.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag285",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag285/9065308?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Synechococcus",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4975,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/ismejo/wrag285"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b88bbfd1084c09590991e4028a0e8d7e273a2525d6797846306417e21849bce6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:40:10.691092+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "85556ad5df025ac63d1c2a6fd1e665cbc1c2d4ac52f3614e4d14407609816ed3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:40:10.691092+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リン制限は、Synechococcusにおいて他のリンプールを枯渇させることで、細胞内のリン配分をポリリン酸へとシフトさせる。",
+    "abstract_ja": "要旨ポリリン酸（polyP）は、すべての生物に存在する普遍的かつ進化的に保存されたリン（P）の形態であるが、細胞内および生物地球化学的なP循環におけるその役割は依然として十分に解明されていない。P欠乏の海洋環境では、polyPはP充足環境よりも全粒子状P（TPP）に占める割合が一貫して高く、これは贅沢貯蔵化合物という従来の役割と矛盾する。この未解決の乖離は、de novoのpolyP合成ではなく、他の細胞内Pプールの減少に起因するという仮説が立てられているが、定常状態条件下での検証は行われていない。我々は、リン酸利用可能性の勾配にわたって培養した世界的に重要な海洋シアノバクテリアSynechococcus sp. WH8102の連続培養を用い、この知見の空白を埋める研究を行った。リン酸利用可能性は増殖速度、単細胞のC:N:P化学量論、およびPストレス遺伝子の発現に強く影響したが、polyP:TPPはリン酸利用可能性の低下に伴い増加し、貧栄養海洋で観察されるパターンを再現した。この変化はde novoのpolyP合成によるものではなかった。細胞内polyP濃度（生物体積あたりのpolyP）は増殖速度に関わらず安定していたが（Kruskal-Wallis, P値 = 0.06）、RNA、遊離細胞内リン酸、ATP、およびリン脂質を含む他の細胞内Pプールは、リン酸利用可能性の低下に伴い優先的に枯渇し（Pプール間で2.6～11.8倍）、TPPに対するpolyPの相対的寄与度が高まった。polyP代謝遺伝子の発現は、処理間でほとんど変化を示さなかった。これらの結果は、貧栄養環境やバッチ培養における様々な微生物で観察されるP欠乏応答が、増殖速度の遅い生理機能を反映しており、その結果としてpolyPが維持され、より不安定なPプールが優先的に枯渇することを示しており、粒子状Pの化学量論および輸出の解釈に影響を及ぼすものである。"
   }
 ]
