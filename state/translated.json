@@ -273113,5 +273113,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "プライマリケア歯科診療所における血圧および口腔マイクロバイオームスクリーニングの活用評価",
     "abstract_ja": "要旨　非医療現場において血圧および口腔マイクロバイオームのスクリーニングが普及しつつあり、高血圧患者に対しては、口腔衛生を通じて特定の細菌種の存在量を変化させることが心血管系の健康に有益である、特に血圧を低下させる硝酸還元菌が有効であるという仮説が提示されている。そこで、200名の被験者（58.410.8歳）を対象に、歯科治療とは別の時間帯に、プライマリケアクリニックにて収縮期血圧（SBP）および拡張期血圧（DBP）のスクリーニングを実施した。43.5%が正常血圧（NT; SBP 140mmHg; DBP > 90mmHg）であった。交絡因子（NT-OMおよびNT-OM）を除去した結果、総口腔硝酸還元菌（ONRB；16S rRNAシーケンシングにより判定）および口腔硝酸還元活性（ONRA；高速液体クロマトグラフィー；HPLCにより判定）の相対存在量は、NT-OM（N=24）と比較してHT-OM（N=15）で増加していた（P=0.031）。同様に、Neisseria flavescensなどの一部の硝酸還元菌種は高値を示したが、Neisseria subflavaはHT-OMで低値であった（P"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10695064/v1",
+    "title": "Gut microbial and SCFA profiling identifies a distinct Dorea-Megasphaera-Valeric acid axis associated with Pakistani beta thalassemia cohorts",
+    "abstract": "Abstract      Background    : β-thalassemiais the most prevalent inherited blood disorder in Pakistan, driven by a high rate of consanguineous marriages. It has led to high rate of childhood morbidity that require lifelong blood transfusions casing toxic iron overload. Exploring the associated gut microbiome and metabolite shifts in this population can reveal how iron toxicity disrupts crucial bacterial pathways, offering a foundation for targeted nutritional therapies. This study investigates the gut microbial structural and functional alteration in three cohorts, namely healthy, Thalassemia Minor, and transfusion-dependent Thalassemia Major. A comprehensive multi-omic approach integrating 16S rRNA sequencing, metabolic pathway analysis via MetaCyc, and short-chain fatty acid (SCFA) profiling using the Multiblock Sparse Partial Least Squares Discriminant Analysis, DIABLO framework, was employed to identify disease-specific microbial signatures.    Results    :  A strong decrease in abundance of  Alistipes  and  Bacteroides,  was observed with the disease progression. The Thalassemia Minor group exhibited an abundance of  Prevotella  and  Eubacterium  , whereas Thalassemia Major showed an increase in abundance of iron-tolerant species, including  Megasphaera, Sarcina,  and  Akkermansia  . On the functional side, a significant upregulation of pro-inflammatory lipopolysaccharide biosynthesis pathways was observed in the thalassemia cohorts as opposed to the healthy cohort. The healthy cohort maintained essential Mevalonate and Flavin biosynthetic pathways. Furthermore, a distinct metabolic signature of the  Dorea-Megasphaera-  Valeric acid axis was identified in the Thalassemia Major cohort.    Conclusion    :  Beta-thalassemia leads to shift from a balanced butyrate-rich environment towards an endotoxin-loaded pro-inflammatory state mainly due to iron overload-induced selective pressure. These findings support incorporation of iron-stable probiotics (e.g.,  Bifidobacterium  ) and postbiotic valeric acid along with standard chelation therapy, to rejuvenate the gut integrity and reduce systemic inflammation.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10695064/v1",
+    "date": "2026-10-22",
+    "authors": "Jamshaid MB, Khurshid H, Anwar I, Ejaz J, Ameer A, Gerasimidis K, Noreen Z, Javed S, Ijaz UZ, Tariq A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347700",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3848,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-10695064/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "429e6f7eec85c7efd5625b33b0bf6564dd9b08a0e4953d89e2270270da78526a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:11:17.351862+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9ffdddfcb8dbcf35812bb62466caadca2cdd08f1ded8634c7825ce5321cb6494",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:11:17.351862+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸内細菌叢およびSCFAプロファイリングにより、パキスタンのβサラセミアコホートに関連する特異的なDorea-Megasphaera-Valeric acid軸が同定された。",
+    "abstract_ja": "要旨      背景    : β-サラセミアは、近親婚の割合が高いことに起因し、パキスタンにおいて最も頻度の高い遺伝性血液疾患である。本疾患は、毒性鉄過剰症により生涯にわたる輸血を必要とする小児期の罹患率の上昇を招いている。この集団における関連する腸内マイクロバイオームおよび代謝物変動を解析することで、鉄毒性がいかにして重要な細菌経路を撹乱するかを明らかにでき、標的を絞った栄養療法の基盤となり得る。本研究では、健常群、サラセミア・マイナー群、および輸血依存性サラセミア・メジャー群の3つのコホートを対象に、腸内微生物の構造的・機能的変化を調査した。疾患特異的な微生物シグネチャーを同定するため、16S rRNAシーケンシング、MetaCycによる代謝経路解析、およびMultiblock Sparse Partial Least Squares Discriminant Analysis（DIABLO）フレームワークを用いた短鎖脂肪酸（SCFA）プロファイリングを統合した包括的なマルチオミクスアプローチを採用した。    結果    :  疾患の進行に伴い、AlistipesおよびBacteroidesの存在量の著しい減少が認められた。サラセミア・マイナー群ではPrevotellaおよびEubacteriumの存在量が増加した一方、サラセミア・メジャー群ではMegasphaera、Sarcina、およびAkkermansiaを含む鉄耐性菌種の存在量が増加した。機能面では、健常群と比較して、サラセミアコホートにおいて炎症性リポ多糖生合成経路の有意な亢進が認められた。健常群では、必須のメバロン酸およびフラビン生合成経路が維持されていた。さらに、サラセミア・メジャーコホートにおいて、Dorea-Megasphaera-Valeric acid軸の明確な代謝シグネチャーが同定された。    結論    :  β-サラセミアは、主に鉄過剰症によって誘発される選択圧により、バランスの取れた酪酸豊富な環境から、エンドトキシン負荷を伴う炎症性状態へと移行させる。これらの知見は、腸管の完全性を回復させ全身性炎症を軽減するため、標準的なキレート療法に加えて、鉄安定型プロバイオティクス（例：Bifidobacterium）およびポストバイオティクスであるバレリン酸の導入を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.18.759931",
+    "title": "Decoding Cell-level Circadian Phase and Rhythm-state Remodeling in Single-cell Transcriptomes With scRhythmBayes",
+    "abstract": "Current circadian omics analysis tools have been developed primarily for bulk time-series. However, heterogeneous single-cell datasets require analysis and interpretation of rhythmic programs across different cells, cell types, and biological conditions. In these datasets, cellular circadian phase is usually unobserved, and sample-level zeitgeber time provides temporal information but does not define the exact phase of every cell. Existing methods address only selected aspects of this problem and do not model how cell-level phase evidence informs gene-level rhythmic parameters and rhythm-state remodeling. Here we present scRhythmBayes, a new probabilistic algorithm for phase-resolved circadian analysis in heterogeneous single-cell transcriptomes. scRhythmBayes combines a seed-gene count likelihood with a stratum-aware circular prior to infer cell-level circadian phase, incorporates phase support into gene-level rhythmic modeling, and assigns posterior probabilities to interpretable rhythm-state categories, including rhythm gain, rhythm loss, amplitude remodeling and phase shifts. In heterogeneous simulations, scRhythmBayes achieved higher phase-recovery accuracy than existing phase-inference methods and maintained balanced performance across rhythmic gene detection, parameter recovery, and rhythm-state classification. Stress tests defined practical requirements for seed-gene support, zeitgeber anchoring, temporal sampling density, and cell number. In mouse liver, scRhythmBayes revealed distinct circadian phase occupancy and rhythm-state organization between periportal and pericentral hepatocytes, supporting a temporal dimension of liver zonation. It also identified cell-type-specific rhythmic markers that were largely distinct from conventional static markers, indicating that cellular identity includes temporal programs not captured by average expression. In human heart disease data, phase-coordination and phase-distribution analyses identified cell-type-selective temporal disorganization rather than uniform circadian disruption across the tissue. scRhythmBayes therefore provides a statistically grounded approach for resolving circadian organization across cells, genes, cell types and biological conditions. Highlights  scRhythmBayes establishes circadian phase as a latent cellular coordinate for single-cell transcriptomic analysis. scRhythmBayes introduces original probabilistic models for cell-phase inference, phase-confidence-aware gene modeling, and rhythm-state classification. Cell-type-specific rhythmic programs reveal a temporal dimension of cellular identity inaccessible to static analyses. Phase-resolved single-cell analyses identify circadian remodeling across tissues, physiological states, and disease.",
+    "journal": "",
+    "doi": "10.64898/2026.10.18.759931",
+    "date": "2026-10-22",
+    "authors": "Zhang Q, Li C, Deligiannis IK, Jiao W, Liu W, Martinez-Jimenez CP, Wang Z, Dyar KA, Zhang L, Sun P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350463",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3953,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.18.759931"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c789eae366be51dfe99bd4b4c976f41eeb5d1e3403e9b2813d70eea1cdc7e69d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:11:17.351862+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1bb09d41392eac5d7578775e9ad18da253ed3d4bda5d98e347ec9b961f03196e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:11:17.351862+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scRhythmBayesを用いた単一細胞トランスクリプトームにおける細胞レベルの概日位相およびリズム状態のリモデリングの解析",
+    "abstract_ja": "現在の概日オミクス解析ツールは、主にバルク時系列データ向けに開発されてきた。しかし、不均一なシングルセルデータセットでは、異なる細胞、細胞種、および生物学的条件にわたるリズムプログラムの解析と解釈が必要となる。こうしたデータセットでは、細胞の概日位相は通常観測されず、サンプルレベルのツァイトゲーバー時刻は時間的情報を提供するものの、すべての細胞の正確な位相を定義するものではない。既存の手法はこの問題の特定の側面にのみ対処しており、細胞レベルの位相エビデンスが遺伝子レベルのリズムパラメータやリズム状態のリモデリングにどのように寄与するかをモデル化できていない。本研究では、不均一なシングルセルトランスクリプトームにおける位相分解型概日解析のための新しい確率的アルゴリズムであるscRhythmBayesを提案する。scRhythmBayesは、シード遺伝子数の尤度とストラタムを考慮した円形事前分布を組み合わせて細胞レベルの概日位相を推定し、位相サポートを遺伝子レベルのリズムモデリングに組み込み、リズムゲイン、リズムロス、振幅リモデリング、および位相シフトを含む解釈可能なリズム状態カテゴリに事後確率を割り当てる。不均一なシミュレーションにおいて、scRhythmBayesは既存の位相推論手法よりも高い位相復元精度を達成し、リズム遺伝子の検出、パラメータ復元、およびリズム状態の分類においてバランスの取れた性能を維持した。ストレステストにより、シード遺伝子サポート、ツァイトゲーバーアンカリング、時間的サンプリング密度、および細胞数に関する実用的な要件が定義された。マウス肝臓において、scRhythmBayesは門周囲および中心周囲の肝細胞間で明確な概日位相占有とリズム状態の組織化を明らかにし、肝臓ゾーニングの時間的次元を裏付けた。また、従来の静的マーカーとは大きく異なる細胞種特異的なリズムマーカーを同定し、細胞のアイデンティティには平均発現では捉えられない時間的プログラムが含まれることを示した。ヒト心疾患データでは、位相協調および位相分布解析により、組織全体にわたる一様な概日乱れではなく、細胞種選択的な時間的無秩序が同定された。したがって、scRhythmBayesは、細胞、遺伝子、細胞種、および生物学的条件にわたる概日組織化を解明するための、統計的根拠に基づいたアプローチを提供する。ハイライト：scRhythmBayesは、シングルセルトランスクリプトーム解析における潜在的な細胞座標として概日位相を確立する。scRhythmBayesは、細胞位相推論、位相信頼度を考慮した遺伝子モデリング、およびリズム状態分類のための独自の確率的モデルを導入する。細胞種特異的なリズムプログラムは、静的解析では到達不可能な細胞アイデンティティの時間的次元を明らかにする。位相分解型シングルセル解析は、組織、生理学的状態、および疾患にわたる概日リモデリングを同定する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.18.759950",
+    "title": "Towards a Unified Framework for Protein Interaction Site Prediction Using Hierarchical Protein Representations",
+    "abstract": "ABSTRACT  Proteins interact with a wide range of biomolecular partners, yet identifying the interaction sites that mediate these events remains a major challenge for understanding cellular function and guiding drug discovery. Existing computational methods are typically designed for specific interaction classes and often rely on task-specific features. Here, we introduce PRIME-ISP, a structure-based framework for predicting interaction sites across diverse biomolecular interaction types using a unified architecture. PRIME-ISP represents proteins at five organizational levels, including solvent-excluded surfaces, atoms, residues, secondary-structure elements, and whole proteins, and integrates information across these scales through coupled bottom-up and top-down propagation. This hierarchical representation jointly captures local geometry and global structural context, enabling a single architecture to address chemically and geometrically distinct binding problems without task-specific modifications. We evaluate PRIME-ISP on protein, peptide, DNA, RNA, small-molecule, metal, and carbohydrate interaction-site prediction benchmarks. Across these tasks, PRIME-ISP consistently outperforms a recent unified sequence-based predictor and achieves performance comparable to specialized methods while requiring no interaction-specific features. These results demonstrate that hierarchical structural representations provide a flexible foundation for interaction-site prediction across diverse biomolecular interactions. Source code and data are publicly available at  https://github.com/HySonLab/PRIME-ISP .",
+    "journal": "",
+    "doi": "10.64898/2026.10.18.759950",
+    "date": "2026-10-22",
+    "authors": "Duy Nguyen VT, Johnstone JK, Hy T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349289",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3954,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.18.759950"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f402ea771487b88d7fb265eb643e7dd967442254f5cd259febfa2b9a5e29ca65",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:11:17.351862+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "610d277b7b3cb8d778cd34afa4272fa91e2c63773f6ce603ad67d666111cf0f2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:11:17.351862+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "階層的タンパク質表現を用いたタンパク質相互作用部位予測の統一的枠組みに向けて",
+    "abstract_ja": "要旨  タンパク質は広範な生体分子パートナーと相互作用するが、こうした事象を媒介する相互作用部位を同定することは、細胞機能の理解や創薬の指針策定における主要な課題であり続けている。既存の計算手法は通常、特定の相互作用クラス向けに設計されており、タスク固有の特徴量に依存することが多い。本研究では、統一的なアーキテクチャを用いて多様な生体分子相互作用タイプにわたる相互作用部位を予測する構造ベースのフレームワーク「PRIME-ISP」を提案する。PRIME-ISPは、溶媒排除表面、原子、残基、二次構造要素、およびタンパク質全体という5つの組織化レベルでタンパク質を表現し、結合型のボトムアップおよびトップダウン伝播を通じて、これらのスケールにわたる情報を統合する。この階層的表現は、局所的な幾何学的構造と大域的な構造的コンテキストを併せて捉え、タスク固有の修正を加えることなく、化学的・幾何学的に異なる結合問題に単一のアーキテクチャで対処することを可能にする。我々は、タンパク質、ペプチド、DNA、RNA、低分子、金属、および糖質の相互作用部位予測ベンチマークを用いてPRIME-ISPを評価した。これらのタスクにおいて、PRIME-ISPは最近の統一的な配列ベース予測器を一貫して上回り、相互作用固有の特徴量を必要とせずに、特化型手法に匹敵する性能を達成した。これらの結果は、階層的な構造表現が、多様な生体分子相互作用にわたる相互作用部位予測のための柔軟な基盤となることを示している。ソースコードおよびデータは、https://github.com/HySonLab/PRIME-ISP で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760508",
+    "title": "Genome-wide LD scores enable robust heritability and genetic correlation estimation from summary statistics across genetic ancestries",
+    "abstract": "Our knowledge of human complex trait architecture across diverse populations remains limited. Estimating SNP heritability and genetic correlation from GWAS summary statistics – successful in revealing genetic architecture in homogeneous cohorts – is challenging in structured and admixed populations due, in part, to the difficulty of representing long-range LD. We present SUMMIT, a statistical framework that combines genome-wide LD scores, efficiently estimated using random projections, with GWAS summary statistics to estimate genome-wide and annotation-specific heritability and genetic correlation. In simulations that explore diverse aspects of genetic architecture across European (EUR), South Asian (SAS), and admixed African-European cohorts (AFR) in the UK Biobank (UKB), SUMMIT had increased accuracy and reduced bias compared to prior methods, with the largest gains in non-European ancestries reflecting improved modeling of long-range LD. Across 40 UKB traits, SUMMIT produced estimates of genome-wide common-SNP heritability  and heritability enrichments in genomic annotations that were broadly concordant across ancestries with the SUMMIT  estimates more closely matching recent whole-genome sequencing based estimates. SUMMIT substantially improved genetic correlation analysis recovering more significant findings across ancestries (23 SAS and 3 AFR at FDR  < 0.05 compared with none and two for cov-LDSC) with the non-European discoveries showing concordant effects in Europeans suggesting that, like heritability, global patterns of pleiotropy are largely shared across ancestries. By combining accurate genome-wide LD and efficient moment estimation, SUMMIT enables investigation into how heritability and genetic correlation vary across populations and genomic annotations, including in structured and admixed cohorts, at the genome-wide, annotation-specific, and cross-trait levels.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760508",
+    "date": "2026-10-22",
+    "authors": "Jeong M, Liu Z, Ni J, An U, Han S, Anand A, Anand P, Boffelli M, Sankararaman S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348475",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "framework",
+        "gene",
+        "genetic",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3955,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.20.760508"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f1992fa411dc36976ed4436f895e641b82e33a6ef68fca0bca7df6b4e67d2392",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:11:17.351862+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97f438ab88f21e88232273f8d524fa0b332e201db9998a36afadda10fb881390",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:11:17.351862+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムワイドLDスコアにより、遺伝的祖先にわたる要約統計量から頑健な遺伝率および遺伝的相関の推定が可能となる。",
+    "abstract_ja": "多様な集団におけるヒトの複雑な形質アーキテクチャに関する知見は、依然として限られている。均質なコホートにおいて遺伝的アーキテクチャの解明に成功しているGWAS要約統計量を用いたSNP遺伝率および遺伝的相関の推定は、長距離LDの表現が困難であることなどが要因となり、構造化集団や混血集団においては困難である。本研究では、ランダム射影法を用いて効率的に推定したゲノムワイドLDスコアとGWAS要約統計量を組み合わせ、ゲノムワイドおよびアノテーション固有の遺伝率と遺伝的相関を推定する統計的フレームワーク「SUMMIT」を提案する。UK Biobank (UKB) の欧州系 (EUR)、南アジア系 (SAS)、およびアフリカ・欧州混血系 (AFR) コホートにおける遺伝的アーキテクチャの多様な側面を探索したシミュレーションにおいて、SUMMITは従来の手法と比較して精度が向上しバイアスが低減した。特に非欧州系祖先において最大の改善が見られ、これは長距離LDのモデリングの向上を反映している。UKBの40の形質において、SUMMITはゲノムワイドな共通SNP遺伝率およびゲノムアノテーションにおける遺伝率エンリッチメントの推定値を算出し、これらは祖先間でほぼ一致し、SUMMITの推定値は近年の全ゲノムシーケンシングに基づく推定値とより密接に一致した。SUMMITは遺伝的相関解析を大幅に改善し、祖先間でより有意な知見を回収した（FDR < 0.05 の祖先はSASで23例、AFRで3例（いずれもなし）、およびcov-LDSCで2例）。非欧州系で得られた知見は欧州系においても一貫した効果を示しており、遺伝率と同様に、多面発現のグローバルなパターンが祖先間でほぼ共有されていることが示唆される。正確なゲノムワイドLD推定と効率的なモーメント推定を組み合わせることで、SUMMITは、構造化集団や混血集団を含む集団およびゲノムアノテーション間で、ゲノムワイド、アノテーション固有、および形質横断的なレベルで遺伝率と遺伝的相関がどのように変動するかを調査することを可能にする。"
   }
 ]
