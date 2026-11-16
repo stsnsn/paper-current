@@ -277257,5 +277257,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "口腔内A型インフルエンザウイルス感染は、NSCLCにおける白金製剤耐性および浸潤性リプログラミングを誘導する。",
     "abstract_ja": "要旨　非小細胞肺癌（NSCLC）患者において呼吸器系ウイルス感染症は頻繁に認められるが、腫瘍内におけるウイルスの存在が腫瘍挙動や治療反応に直接的に影響を及ぼすか否かは依然として不明である。本研究では、主に腫瘍細胞に発現し、臨床転帰の不良に関連する呼吸器系ウイルス関連薬物代謝プログラム（REVIS-DM）を同定した。複数のNSCLCコホートにおいて、高いREVIS-DM、インターフェロン刺激遺伝子シグネチャー、および抗ウイルスシグネチャーを併存する腫瘍のサブグループは、化学療法後の生存率の低下および再発率の上昇と関連していた。この抗ウイルスプロファイルと一致して、NSCLCにおいてA型インフルエンザウイルス（IAV）転写産物が検出され、転帰の不良および再発と関連していた。機序的には、IAV感染はin vitroおよびin vivoにおいて、外来性物質の解毒、上皮間葉転換、浸潤、および白金製剤耐性を誘導した。これらの効果にはウイルスセンシングおよびNLRP3インフラマソームシグナル伝達が必要であったが、I型/III型インターフェロン経路とは独立していた。以上の知見を総合すると、腫瘍内IAV感染は、NSCLCにおける腫瘍細胞の可塑性と化学療法耐性のこれまで認識されていなかった駆動因子であることが明らかとなり、治療的意義を持つ可能性のあるウイルス誘導性の代謝脆弱性が示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11058434/v1",
+    "title": "Whole-Genome Profiling of Coagulase-Negative Staphylococci and Mammaliicoccus from Broiler Chickens: Insights into Mobilome and Resistome Diversity",
+    "abstract": "Abstract    Staphylococcus  species in poultry are emerging opportunistic pathogens and significant reservoirs of virulence and antimicrobial resistance (AMR). In this study, whole-genome sequencing of eight isolates (  Staphylococcus simulans  ,  S. shinii  ,  S. arlettae  ,  S. gallinarum  ,  Mammaliicoccus sciuri  , and  M. lentus  ) isolated from infected broiler chickens in India was conducted to analyze their genome comparison and identify plasmids, phages, mobile genetic elements, CRISPR-Cas, antimicrobial resistance and virulence genes. An open pan-genome with 12,200 pan-genes, 243 core genes, and 7,077 strain-specific genes was observed by pan-genome analysis. Plasmid profiling revealed a variety of replicons, including substantial plasmid diversity in  S. gallinarum, S. arlettae, S. shinii  , and  M. lentus  and conserved rep10 and rep7a were found in all isolates. There were 150–193 MGE–associated genes per genome found by mobile genetic element analysis.  Siphoviridae  prophages were only found in  Staphylococcus  species. CRISPR arrays were found in all eight genomes and Type II system (cas1, cas2, cas9) was found in  S.simulans  but  S. shinii, S. arlettae, S. gallinarum  , and  M. sciuri  had Type I systems (cas3). On the other hand, the absence of cas proteins in  M. lentus  suggested a degraded immunological locus. In antimicrobial resistance gene analysis there are 133 AMR genes covering key antibiotic classes were found, and 26 of the genes were conserved in all six species. Additionally, a wide range of virulence factors were found, with S. simulans exhibiting the largest profile. These factors included capsular polysaccharides (  cap  ), iron-acquisition systems (  sbn  ,  isd  ), toxins, and secretion machinery (Types II, VI, and VII). All things considered, poultry-derived CoNS and  Mammaliicoccus  have large mobilomes, a variety of AMR genes, and fluctuating immunological responses, highlighting their function as hyper-permissive, multidrug-resistant reservoirs with serious zoonotic and veterinary concerns.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11058434/v1",
+    "date": "2026-10-21",
+    "authors": "Gopalram VT, Rengaraj K, Uthandakalaipandian R, Mariakuttikan J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346990",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2760,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11058434/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0b6bcdfe3c44624c0d55e99ddc3e1503b3b9bbfed74371f62f979e0f73d6ac66",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:48:32.794195+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cbdbf16aa511c94916adc8c543aba44b462cb78b8d52d8c97a72797661007219",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:48:32.794195+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブロイラー鶏由来のコアグラーゼ陰性ブドウ球菌およびマンマリコッカスの全ゲノムプロファイリング：モジュロームおよびレジストームの多様性に関する知見",
+    "abstract_ja": "要旨    家禽由来のブドウ球菌属（Staphylococcus）種は、新興の日和見病原体であり、病原性および薬剤耐性（AMR）の重要なリザーバーとなっている。本研究では、インドの感染ブロイラー鶏から分離された8株（Staphylococcus simulans、S. shinii、S. arlettae、S. gallinarum、Mammaliococcus sciuri、およびM. lentus）の全ゲノム配列解析を行い、ゲノム比較ならびにプラスミド、ファージ、可動性遺伝因子、CRISPR-Cas、薬剤耐性遺伝子および病原性遺伝子の同定を行った。パンゲノム解析の結果、12,200個のパン遺伝子、243個のコア遺伝子、および7,077個の株特異的遺伝子からなるオープンなパンゲノムが観察された。プラスミドプロファイリングにより、多様なレプリコンが明らかとなり、特にS. gallinarum、S. arlettae、S. shinii、およびM. lentusにおいて顕著なプラスミド多様性が認められたほか、保存されたrep10およびrep7aがすべての分離株で検出された。可動性遺伝因子解析では、1ゲノムあたり150～193個のMGE関連遺伝子が認められた。Siphoviridaeプロファージはブドウ球菌属（Staphylococcus）種でのみ検出された。CRISPRアレイは8つのゲノムすべてで認められ、タイプIIシステム（cas1、cas2、cas9）はS. simulansで認められたが、S. shinii、S. arlettae、S. gallinarum、およびM. sciuriではタイプIシステム（cas3）が認められた。一方で、M. lentusにおいてcasタンパク質が欠如していたことは、免疫学的遺伝子座の劣化を示唆している。薬剤耐性遺伝子解析では、主要な抗生物質クラスを網羅する133個のAMR遺伝子が検出され、そのうち26個の遺伝子は6種すべてで保存されていた。さらに、広範な病原性因子が検出され、S. simulansが最大のプロファイルを示した。これらの因子には、莢膜多糖類（cap）、鉄獲得系（sbn、isd）、毒素、および分泌機構（タイプII、VI、VII）が含まれていた。総合的に判断すると、家禽由来のCoNSおよびMammaliococcusは、大規模なモリュボム、多様なAMR遺伝子、および変動する免疫応答を有しており、深刻な人獣共通感染症および獣医学的懸念を伴う、超許容性かつ多剤耐性のリザーバーとしての機能を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11246290/v1",
+    "title": "High seroprevalence of Brucella spp. antibodies in small-ruminant milk and poor brucellosis-related awareness among herders in Maiduguri, northeastern Nigeria",
+    "abstract": "Abstract    Background:  Brucellosis is an important bacterial zoonosis affecting livestock production and public health, particularly in resource-limited settings where contact between humans and infected animals and consumption of unpasteurized animal products are common. In Nigeria, information on  Brucella  exposure among small ruminants and the knowledge, attitudes and practices (KAPs) of their handler’s remains limited. This study assessed the seroprevalence of anti-  Brucella  antibodies in milk from sheep and goats and evaluated brucellosis-related KAPs among small-ruminant herders in Maiduguri, northeastern Nigeria.  Methods:  A cross-sectional study was conducted among small-ruminant flocks and herders in Maiduguri. A total of 184 fresh, unpasteurized milk samples, comprising 92 from sheep and 92 from goats, were collected from 14 purposively selected flocks using simple random sampling within flocks. Samples were screened for anti-  Brucella  antibodies using a commercial indirect enzyme-linked immunosorbent assay (iELISA). Because the iELISA does not differentiate among  Brucella  species, species-specific molecular confirmation was undertaken on 14 randomly selected ELISA-positive samples using polymerase chain reaction (PCR), owing to financial constraints. A separate KAP survey was conducted among 360 randomly selected small-ruminant herders drawn from a broader operational sampling frame comprising herders associated with the 60 identified flocks and additional larger flocks. Data were analysed using descriptive statistics, chi-square tests, and binary and multivariable logistic regression.  Results:  Anti-  Brucella  antibodies were detected in 32.1% (95% CI: 25.4–39.3) of the 184 milk samples, with significantly higher seroprevalence among goats (54.4%; 95% CI: 43.6–64.8) than sheep (10.0%; 95% CI: 4.6–17.8). At the flock level, 71.4% (95% CI: 41.9–91.6) of the 14 sampled flocks had at least one ELISA-positive animal. Seropositivity was significantly associated with species, source of animals, parity, history of abortion, body condition score, and reported flock-level antibiotic use. However, these associations should be interpreted cautiously because the study was cross-sectional, antibiotic use was assessed at flock level based on herder recall, and the animal-level regression analysis did not explicitly account for clustering within flocks. Of the 14 ELISA-positive samples tested by PCR, four (28.6%) were positive for  B. melitensis  DNA, all from sheep, while 10 were PCR-negative. Thus, molecular evidence of  B. melitensis  was restricted to the tested subset and was not used to estimate population-level  B. melitensis  prevalence. The KAP assessment revealed generally poor levels, with only 20.8%, 17.2%, and 16.9% of herders demonstrating good knowledge, positive attitudes, and appropriate practices, respectively. Breeding system, years of experience, economic status, educational level, and farming system were independently associated with KAP outcomes.  Conclusions:  The high seroprevalence of anti-  Brucella  antibodies indicates substantial  Brucella  exposure among small ruminants in the study area, while detection of  B. melitensis  DNA in a limited subset provides species-specific molecular evidence of  B. melitensis  among some tested animals. The combination of substantial serological evidence and poor brucellosis-related KAPs highlights an important One Health concern, particularly in relation to raw milk consumption and unsafe handling of potentially infectious materials. Strengthening veterinary extension and surveillance services, improving herder awareness, promoting milk pasteurization and safer handling of abortion materials, and strengthening collaboration between veterinary and public health services are warranted to reduce the potential risk of brucellosis transmission in the study area.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11246290/v1",
+    "date": "2026-10-21",
+    "authors": "Tijjani B, Jajere SM, Tijjani AO, Sadiq MA, Beauvais WA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346784",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2765,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11246290/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "87afc37b12aef8a45ceba6ba478c0a41797e009d5e373960b9b358e56974b87d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:48:32.794195+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2012113f21214806d6ac98c7dd512602b61f673e8a8218166a6042954ed0e5c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:48:32.794195+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ナイジェリア北東部マイドゥグリにおける小反芻獣の乳中のBrucella属抗体の高い有病率と、牧畜民のブルセラ症に関する認識の低さ",
+    "abstract_ja": "要旨    背景：ブルセラ症は、畜産生産および公衆衛生に影響を及ぼす重要な細菌性人獣共通感染症であり、特に人間と感染動物との接触や未殺菌の動物産品の摂取が一般的である資源限られた環境において顕著である。ナイジェリアでは、小型反芻動物におけるブルセラ菌曝露に関する情報や、飼育者の知識・態度・実践（KAP）に関する知見は依然として限られている。本研究では、ナイジェリア北東部マイドゥグリの小型反芻動物飼育者を対象に、羊およびヤギの乳における抗ブルセラ抗体の血清有病率を評価し、ブルセラ症に関連するKAPを調査した。    方法：マイドゥグリの小型反芻動物群および飼育者を対象に横断的研究を実施した。目的別に選定した14群から、羊92群およびヤギ92群の計184検体の新鮮な未殺菌乳サンプルを、群内での単純無作為抽出法を用いて採取した。サンプルは、市販の間接酵素結合免疫吸着法（iELISA）を用いて抗ブルセラ抗体のスクリーニングを行った。iELISAではブルセラ属の種を区別できないため、資金的な制約から、無作為に選定したELISA陽性サンプル14検体に対し、ポリメラーゼ連鎖反応（PCR）を用いて種特異的な分子学的確認を行った。また、特定された60群およびその他の大規模群に関連する飼育者を含む、より広範な運用サンプリング枠から無作為に選定した小型反芻動物飼育者360名を対象に、別途KAP調査を実施した。データは、記述統計、カイ二乗検定、および二値・多変数ロジスティック回帰分析を用いて解析した。    結果：184検体の乳サンプルのうち32.1%（95% CI: 25.4–39.3）から抗ブルセラ抗体が検出され、ヤギ（54.4%; 95% CI: 43.6–64.8）では羊（10.0%; 95% CI: 4.6–17.8）よりも有意に高い血清有病率が認められた。群レベルでは、サンプリングした14群のうち71.4%（95% CI: 41.9–91.6）に少なくとも1頭のELISA陽性動物が認められた。血清陽性率は、種、動物の由来、産子数、流産歴、ボディコンディションスコア、および報告された群レベルでの抗生物質使用と有意に関連していた。しかし、本研究は横断的研究であり、抗生物質の使用は飼育者の記憶に基づいて群レベルで評価されたほか、動物レベルの回帰分析では群内でのクラスター化が明示的に考慮されていなかったため、これらの関連性は慎重に解釈されるべきである。PCRで検査した14検体のELISA陽性サンプルのうち、4検体（28.6%）がB. melitensis DNA陽性であり、すべて羊であった。一方、10検体はPCR陰性であった。したがって、B. melitensisの分子学的証拠は検査したサブセットに限定されており、集団レベルのB. melitensis有病率を推定するために用いられなかった。KAP評価の結果、全般的に水準が低く、良好な知識、肯定的な態度、および適切な実践を示した飼育者はそれぞれ20.8%、17.2%、16.9%にとどまった。繁殖体系、経験年数、経済状況、教育水準、および飼育体系は、KAPの結果と独立して関連していた。    結論：抗ブルセラ抗体の高い血清有病率は、調査地域の小型反芻動物において相当程度のブルセラ菌曝露があることを示しており、一方で限定的なサブセットでB. melitensis DNAが検出されたことは、検査した一部の動物においてB. melitensisの種特異的な分子学的証拠が得られることを示している。相当量の血清学的証拠とブルセラ症に関連するKAPの低さの組み合わせは、特に生乳の摂取や感染性物質の不安全な取り扱いに関して、重要なワンヘルス（One Health）上の懸念を浮き彫りにしている。調査地域におけるブルセラ症伝播の潜在的リスクを低減するためには、獣医学的普及・監視サービスの強化、飼育者の意識向上、乳の低温殺菌および流産産物のより安全な取り扱いの推進、ならびに獣医学サービスと公衆衛生サービスとの連携強化が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-8856006/v1",
+    "title": "Five-Year Analysis (2019-2023) of Anatoxin-a (ATX-a) concentrations in Lake Anna, Virginia, USA: Implications for Future Freshwater Cyanotoxin Monitoring",
+    "abstract": "Abstract  Harmful algal blooms (HABs) are an increasing concern for the health of freshwater systems worldwide. Cyanobacterial HABs (cyanoHABs) have recently been reported in Lake Anna, Virginia, and low levels of the neurotoxin anatoxin-a (ATX-a) have been observed. Here, we provide a comprehensive report of ATX-a concentrations at multiple locations in the upper tributaries and northern sections of Lake Anna over five consecutive years (2019–2023). ATX-a concentrations ranged from 0.053 to 1.64 ppb, and 14% (13/91) of samples exceeded Virginia’s drinking water advisory threshold of 0.4 ppb. Elevated ATX-a concentrations were most frequently observed in shallow northern tributaries during summer, coinciding with periods of increased cyanobacterial abundance. ATX-a was quantified using two different methods, each with a distinct limit of detection (LOD). Statistical analyses demonstrated a strong positive association between water temperature and ATX-a concentration. For each 1 C° increase in temperature, there was a 37% (1.37-fold) increase in ATX-a concentration (p",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-8856006/v1",
+    "date": "2026-10-21",
+    "authors": "Hanlon R, Looney H, Gibala-Smith LA, Downing A, Mulholland M, González-Rocha J, Gruszewski H, Birbeck JA, Westrick JA, III DGS.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346767",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria",
+        "cyanobacterial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "lake"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 2766,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-8856006/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4618d7377cb350d88eb4da6da0cfdecd99666ef52daeb13dae5a23f7ac803d38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:48:32.794195+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "741cbbdf8cb60dc7e77ede9a38c924d42a342f7752ff446d1f02d769d54668b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:48:32.794195+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "米国バージニア州アンナ湖におけるアナトキシン-a（ATX-a）濃度の5年間の解析（2019-2023年）：今後の淡水シアノトキシンモニタリングへの示唆",
+    "abstract_ja": "要旨　有害藻類ブルーム（HABs）は、世界中の淡水系における健全性への懸念が高まっている。近年、バージニア州アンナ湖においてシアノバクテリア性HABs（cyanoHABs）が報告されており、神経毒であるアナトキシン-a（ATX-a）の低濃度が観測されている。本報では、アンナ湖の上流支流および北部区間の複数地点におけるATX-a濃度について、5年連続（2019–2023年）の包括的な報告を行う。ATX-a濃度は0.053～1.64 ppbの範囲にあり、試料の14%（13/91）がバージニア州の飲料水勧告基準値である0.4 ppbを超過していた。ATX-a濃度の上昇は、シアノバクテリアの個体数が増加する時期と一致する夏季の、北部の浅瀬支流において最も頻繁に観測された。ATX-aの定量には2つの異なる手法を用い、それぞれに異なる検出限界（LOD）を設定した。統計解析の結果、水温とATX-a濃度との間に強い正の相関が認められた。水温が1℃上昇するごとに、ATX-a濃度は37%（1.37倍）増加した（p"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.26365630",
+    "title": "Genetic ancestry shapes context-dependent immune regulation across Indigenous South American populations",
+    "abstract": "Human immune responses remain poorly characterized across Indigenous South American (ISA) populations, limiting our understanding of human immune variation. Here, we generated a single-cell transcriptional atlas of 1.4 million peripheral blood mononuclear cells from 345 individuals representing 13 South American populations, profiled at baseline and following stimulation with lipopolysaccharide, influenza A virus, or  Trypanosoma cruzi . Genetic ancestry was associated with the expression of a large fraction of the transcriptome, often only after stimulation, and explained more variation than age or sex. On average,  cis -eQTLs accounted for one-quarter of these ancestry-associated differences. Thousands of regulatory variants were common in ISA populations but rare or absent in European reference datasets. Integrating eQTLs with GWAS revealed stimulation-specific disease-associated regulatory variants and an enrichment of ancestry-associated expression differences among genes with colocalizing signals. Our findings highlight the importance of studying diverse populations across immune contexts to understand the genetic architecture of human immune responses.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.26365630",
+    "date": "2026-10-21",
+    "authors": "Choy C, Vicuña L, Patiño M, Araujo DS, Obispo D, Guevara-Fujita ML, Fonseca S, Scariot D, Araujo C, Guerreiro JR, Acosta O, Johnson C, Meier K, Dumaine A, Williams K, Lima T, Rodrigues T, Khayat A, Wu E, Gupta A, Aguirre-Gamboa R, Chak B, Barroso-Batista J, Capetillo F, Marcelain K, Fuentes I, González J, Beltrán P, Flores Y, Coronel T, Latorre J, Boutaud J, Mickelson CK, Langlois R, Scott E, Guerreiro J, Hünemeier T, Fujita R, Barreiro LB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348547",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3804,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.21.26365630"
+    ],
+    "translation": {
+      "title": {
+        "hash": "87d4a2d0b43698a5cf0f4003b06802b19b27be611cd14e9b9a992af7fcbae055",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:48:32.794195+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5406b5dc13e9bcd53b2d9a2c77a720b64d6e647671f66689c69283b1f86c87d3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:48:32.794195+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝的祖先が、南米先住民集団における文脈依存的な免疫調節を規定する",
+    "abstract_ja": "南米先住民（ISA）集団におけるヒト免疫応答は依然として十分に解明されておらず、ヒトの免疫変異に関する理解を制限する要因となっている。本研究では、南米の13集団を代表する345名から得られた140万個の末梢血単核球を用い、ベースライン時およびリポ多糖、A型インフルエンザウイルス、またはクルーズトリパノソーマによる刺激後のプロファイル解析を行い、単一細胞転写アトラスを構築した。遺伝的祖先はトランスクリプトームの大部分の発現と関連しており、多くの場合刺激後に初めてその関連性が認められ、年齢や性別よりも大きな変異の説明要因となった。平均して、シス-eQTLがこれらの祖先関連の差異の4分の1を占めていた。数千もの調節変異がISA集団では一般的であった一方、欧州のリファレンスデータセットでは稀であるか、あるいは認められなかった。eQTLをGWASと統合した結果、刺激特異的な疾患関連調節変異や、共局在シグナルを持つ遺伝子における祖先関連の発現差異の濃縮が明らかになった。本研究の知見は、ヒト免疫応答の遺伝的構造を理解する上で、異なる免疫コンテキストを持つ多様な集団を研究することの重要性を強調するものである。"
   }
 ]
