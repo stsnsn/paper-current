@@ -281423,5 +281423,327 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "合成MPRA摂動教師信号は、シーケンス・トゥ・ファンクションモデルにおけるバリアント効果予測を向上させる。",
     "abstract_ja": "深層学習によるシーケンス・トゥ・ファンクション（S2F）モデルは、遺伝子配列から遺伝子発現などの機能的読み出し値を予測することを学習する。しかし、これらのモデルは主にリファレンスゲノムを用いて訓練されており、遺伝的変異が遺伝子発現に及ぼす影響を正確に予測することには困難が伴う。大規模並列レポーターアッセイ（MPRA）は、遺伝的変異が遺伝子発現に及ぼす直接的な影響を調査するが、変異の影響を直接測定する飽和変異導入型MPRAは依然として限られており、そのためS2Fモデルのファインチューニングへの利用が制限されている。本研究では、遺伝的変異に関する教師あり訓練データの利用可能性という制約を克服するためのスケーラブルな代替手段として、最先端のS2FモデルであるBorzoiを、モデルが生成した合成MPRA変異影響データを用いてファインチューニングすることを検討した。まず、110,359件のK562 MPRA測定値を用いて16個のモデルからなるアンサンブルを訓練した。次に、1,000個の遺伝子に関連付けられたMPRA要素を用いて、それらの予測を単一の生徒モデルへと蒸留した。この蒸留モデルを、その後、増加する遺伝子数（50〜1,000個）にわたって、1遺伝子あたり600個の変異を持つ合成変異影響ラベルを生成し、Borzoiのファインチューニングに用いた。訓練に含める遺伝子数を増やすにつれて、性能が向上した。データが限られている環境では、総変異数が同じであれば、遺伝子数が少なく1遺伝子あたりの変異数が多い場合よりも、遺伝子数が多く1遺伝子あたりの変異数が少ない場合の方が、訓練性能が高かった。事前学習済みのBorzoiと比較して、1,000個の遺伝子にわたる600,000個の合成サンプルでファインチューニングしたBorzoiは、CAGI5プロモーター変異におけるピアソン相関係数を0.28から0.54に、903個のGTExファインマップ済み全血発現量的形質遺伝子座（eQTL）における同相関係数を0.39から0.46に向上させた。重要な点として、これらの改善は、全7,611個の出力トラックにわたって事前学習時の性能を維持したまま達成された。さらに、ファインチューニング済みのBorzoiは、訓練中に観測されなかった遺伝子においても、MPRAモデルによって同定された調節モチーフを復元しており、学習された調節特徴が遺伝子座を横断して汎化し得ることが示唆された。以上の結果を総合すると、モデル生成の合成教師信号が、元の事前学習能力を維持しつつS2Fモデルにおける変異影響予測を改善できるという概念実証となり、遺伝子調節に対する遺伝的変異の影響を捉えるためのスケーラブルな戦略を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763235",
+    "title": "Polycomb Marked Promoter Methylation Gains in Aging and Cancer are Independent of Replication",
+    "abstract": "DNA methylation alterations are hallmark features of aging and cancer, occurring early during tumor initiation. Yet how these changes evolve during early tumorigenesis, and whether oncogenic signaling actively drives them, remains poorly understood due to limitations in resolving this at the longitudinal and clonal level. Here we developed a genome-wide DNA methylation profiling method for low DNA amounts and applied it to single stem cell-derived clones from a  BRAF  V600E -inducible mouse colon organoid model, tracking nucleotide-level methylation heterogeneity over time.  BRAF  V600E induction produced stepwise methylation divergence consistent with progressive clonal takeover, in contrast to gradual epigenetic drift in uninduced controls. Strikingly, while the specific CpG sites altered differed between  BRAF  V600E and control lineages, they converged on the same genomic elements. Particularly, Polycomb-marked promoter CpG-island methylation gains were not induced or accelerated by  BRAF  V600E , challenging models in which oncogenic signaling or cell proliferation actively instructs de novo methylation of Polycomb-targeted promoters. Instead, these gains tracked with “biological aging” independent of replication, which was validated across independent aging, cancer, and cell-line datasets.  BRAF  V600E -induced clones additionally showed progressive loss of intestinal lineage-specification transcription factor programs, consistent with selection for cells adapted to oncogenic stress. Together, these findings show that epigenetic trajectories during early tumor development, are rooted in baseline, age-dependent drivers of epigenetic alterations, and that oncogenic signaling acts primarily by selecting and expanding clones bearing pre-existing, age-associated epigenetic drift rather than instructing new methylation. Our findings have implications for how promoter methylation is interpreted as a cancer biomarker and for identifying upstream aging-associated processes as targets for early intervention.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763235",
+    "date": "2026-11-03",
+    "authors": "Thursby S, Patel N, Jin Z, Blum J, Bisht S, Tao Y, Bhandari Y, Petkovich D, Ro H, Yang L, Wang T, Pisanic TR, Baylin SB, Easwaran H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357706",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "genome",
+        "method",
+        "nucleotide"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4933,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.10.30.763235"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b906e53aa1553c019899dafe3cfda904509f78d37d557ddd60b8d6ef2e74a47d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:58:58.661315+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "65f1dc52b67e9d944e640ad3a7e9ee49330151810a18da253ac261a153bf4685",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:58:58.661315+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "加齢およびがんにおけるポリコーム標識プロモーターメチル化の亢進は複製に依存しない",
+    "abstract_ja": "DNAメチル化の変化は、老化やがんの特徴的な所見であり、腫瘍形成の初期段階で起こる。しかし、これらの変化が初期腫瘍形成過程においてどのように進展するのか、また発がん性シグナルがそれらを積極的に駆動しているのかについては、縦断的およびクローンレベルでの解析に限界があるため、十分に解明されていない。本研究では、低DNA量でのゲノムワイドなDNAメチル化プロファイリング法を開発し、BRAF V600E誘導性マウス結腸オルガノイドモデル由来の単一幹細胞由来クローンに適用して、ヌクレオチドレベルのメチル化不均一性の経時的変化を追跡した。BRAF V600Eの誘導は、非誘導対照群における漸進的なエピジェネティック・ドリフトとは対照的に、漸進的なクローン乗っ取り（progressive clonal takeover）に整合する段階的なメチル化分化をもたらした。特筆すべきは、変化した特定のCpG部位はBRAF V600E系統と対照系統の間で異なっていたものの、同一のゲノム要素に収束していたことである。特に、ポリコーム標識されたプロモーターCpGアイランドのメチル化増加は、BRAF V600Eによって誘導も加速もされず、発がん性シグナルや細胞増殖がポリコーム標的プロモーターのde novoメチル化を積極的に指示するというモデルに疑問を投げかける結果となった。むしろ、これらの増加は複製に依存しない「生物学的老化」に伴って推移しており、これは独立した老化、がん、および細胞株のデータセットにわたって検証された。さらに、BRAF V600E誘導クローンでは、発がん性ストレスに適応した細胞の選択と整合する、腸管系統特異的な転写因子プログラムの漸進的な喪失が認められた。以上の知見を総合すると、初期腫瘍形成過程におけるエピジェネティックな軌跡は、エピジェネティック変化のベースラインとなる加齢依存的な駆動要因に根ざしており、発がん性シグナルは、新たなメチル化を指示するのではなく、主に既存の加齢に伴うエピジェネティック・ドリフトを持つクローンを選択・拡大させることで作用することが示される。本研究の知見は、プロモーターメチル化をがんバイオマーカーとして解釈する方法や、上流の老化関連プロセスを早期介入の標的として同定する上で重要な示唆を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.761563",
+    "title": "FastaGuard: FASTA preflight QC for modern bioinformatics pipelines",
+    "abstract": "Summary  FastaGuard is a streaming, explainable FASTA preflight QC tool that validates assembly FASTA files, detects structural and composition red flags, and emits a versioned multi-format report with an explicit pipeline gate before expensive downstream analysis. We evaluated v1.1.0 in four analyses whose design was fixed before data collection. On 700 public NCBI assemblies the pipeline gate stopped 19.7% (1.9% weighted to the population), always on its high-N rule and mostly in scaffold-level genomes; the NCBI submission gate stopped 2.0%, and an independent recount confirmed every stop. Among 1 040 faults injected into real assemblies, the NCBI gate flagged 520 of 520 in 13 error classes (table2asn: 280 at error level) and blocked none of 120 benign changes. Across seven downstream tools, 46 of 182 defect cells failed and 12 altered the records without a warning, all in classes the pipeline gate blocks. Stopping a mismatched reference at the gate avoided about 54–62 s of mapping and sorting at a cost of 0.05–0.06 s. Availability and Implementation  Source code and documentation are freely available under the MIT license at  https://github.com/ehsanestaji/FastaGuard (release tag v1.1.0:  https://github.com/ehsanestaji/FastaGuard/releases/tag/v1 . 1.0; archived at doi:  10.5281/zenodo.23728753 ). Install via Bioconda (mamba install -c conda-forge -c bioconda fastaguard=1.1.0), BioContainers, or GitHub release binaries. Implemented in Rust; supported on Linux and macOS, including Bioconda builds for linux-64, linux-aarch64, osx-64, and osx-arm64.  Contact  ehsan.estaji@umu.se ;  jianfeng.mao@umu.se Supplementary information  Supplementary Note (designs, all results, deviations from the pre-registered protocol); scripts, manifests and result tables at Zenodo, doi:  10.5281/zenodo.23729530 .",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.761563",
+    "date": "2026-11-03",
+    "authors": "Estaji E, Mao J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357536",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bioinformatics",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4934,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.10.28.761563"
+    ],
+    "translation": {
+      "title": {
+        "hash": "143dc144eaf0ae96543f4bce57fd1d975999e90c4a17efb589ae199bf9ecd5ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:58:58.661315+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8b487ebe467515e8d7168ff1c4963c6da1809bb78cf042a7219d179a1563b0be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:58:58.661315+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FastaGuard: 現代のバイオインフォマティクス・パイプライン向けFASTAプリフライトQC",
+    "abstract_ja": "概要  FastaGuardは、アセンブリFASTAファイルの検証、構造および組成に関するレッドフラグの検出を行い、負荷の高い後続解析の前に明示的なパイプラインゲートを備えたバージョン付きマルチフォーマットレポートを出力する、ストリーミング型の説明可能なFASTAプリフライトQCツールである。本研究では、データ収集前に設計が固定された4つの解析においてv1.1.0を評価した。700件の公開NCBIアセンブリにおいて、パイプラインゲートは19.7%（母集団加重で1.9%）で停止し、そのすべてが高Nルールによるもので、主にスキャフォールドレベルのゲノムで発生した。NCBIサブミッションゲートの停止率は2.0%であり、独立した再カウントによりすべての停止が確認された。実際のアセンブリに注入された1,040件のフォールトのうち、NCBIゲートは13のエラークラスにおいて520件すべてにフラグを立て（表2asn：エラーレベルで280件）、120件の良性変更については一件もブロックしなかった。7つの後続ツールにおいて、182個の欠陥セルのうち46個が失敗し、12個が警告なしにレコードを変更したが、これらはすべてパイプラインゲートがブロックするクラスであった。ゲートで不一致なリファレンスを停止させたことで、0.05～0.06秒のコストで、マッピングおよびソートに要する約54～62秒を回避できた。利用可能性と実装  ソースコードおよびドキュメントは、MITライセンスの下で https://github.com/ehsanestaji/FastaGuard にて無料で公開されている（リリースタグ v1.1.0: https://github.com/ehsanestaji/FastaGuard/releases/tag/v1 . 1.0; アーカイブ先: doi: 10.5281/zenodo.23728753 ）。Bioconda (mamba install -c conda-forge -c bioconda fastaguard=1.1.0)、BioContainers、またはGitHubリリースのバイナリ経由でインストール可能である。Rustで実装されており、LinuxおよびmacOSをサポートし、linux-64、linux-aarch64、osx-64、およびosx-arm64向けのBiocondaビルドも含まれている。  連絡先  ehsan.estaji@umu.se ;  jianfeng.mao@umu.se 補足情報  補足注記（設計、すべての結果、事前登録済みプロトコルからの逸脱）；スクリプト、マニフェスト、および結果テーブルはZenodoにて、doi: 10.5281/zenodo.23729530 で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10518180/v1",
+    "title": "Prevalence and Predictors of Additional Variants Identified by Whole- Genome Sequencing in BRCA1/2 Mutation-Negative Breast Cancer Patients",
+    "abstract": "Abstract  Background:  The aim of this study was to evaluate the prevalence and clinical significance of non-BRCA germline pathogenic variants (PVs) or likely pathogenic variants (LPVs) identified by whole-genome sequencing (WGS) in Korean BRCA1/2 mutation-negative breast cancer patients. Methods: A total of 871 BRCA1/2 mutation-negative breast cancer patients underwent WGS between May 2020 and December 2022. The frequency of PVs or LPVs was analyzed, and clinicopathologic characteristics, treatment patterns, and oncologic outcomes were compared between variant-detected and non-detected groups. Results: In 43 of 871 patients (4.9%), at least one PV or LPV was identified across 16 genes, with PALB2 and ATM being most frequently detected. Detected variants were significantly associated with advanced tumor stage, younger age, premenopausal status, and higher rates of neoadjuvant chemotherapy. Patients aged ≤ 40 years with ≥ 2 affected family members showed a detection rate of 20.0% (OR = 5.10, p = 0.034). Distinct genotype-phenotype correlations were identified, with PALB2, BARD1, and MSH2 variants linked to triple-negative breast cancer and TP53 mutations to HER2-positive disease. Conclusions: WGS identified clinically significant non-BRCA germline variants in 4.9% of BRCA1/2-negative breast cancer patients, with distinct genotype-phenotype correlations and significant associations with adverse clinicopathologic features. These findings support the integration of WGS into hereditary breast cancer risk assessment, particularly in patients with early-onset disease or strong family history, where conventional panel testing may fail to capture the full spectrum of germline risk.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10518180/v1",
+    "date": "2026-11-03",
+    "authors": "Kwak Y, Ha C, Kim MK, Park WK, Lee SK, Chae BJ, Yu J, Lee JE, Kim SW, Nam SJ, Kim J, Ryu JM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356479",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "predictor",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4935,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.21203/rs.3.rs-10518180/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8142aa88f14a918e37981ac360993af566d4b0857def9a757d97e1d535058222",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:58:58.661315+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "932777faa771c32b3b34662463b8a19789e4ed53711c1fdaa336a04a0c4b753a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:58:58.661315+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BRCA1/2変異陰性乳がん患者における全ゲノムシーケンシングにより同定された追加変異の頻度と予測因子",
+    "abstract_ja": "要旨  背景：本研究の目的は、韓国のBRCA1/2変異陰性乳がん患者において、全ゲノムシーケンシング（WGS）により同定された非BRCA生殖細胞系列病原性バリアント（PV）または病原性候補バリアント（LPV）の有病率および臨床的意義を評価することであった。方法：2020年5月から2022年12月の間に、BRCA1/2変異陰性乳がん患者計871例を対象にWGSを実施した。PVまたはLPVの頻度を解析し、バリアント検出群と非検出群の間で、臨床病理学的特徴、治療パターン、および腫瘍学的転帰を比較した。結果：871例中43例（4.9%）において、16個の遺伝子にわたり少なくとも1つのPVまたはLPVが同定され、特にPALB2およびATMが高頻度に検出された。検出されたバリアントは、腫瘍ステージの進行、若年年齢、閉経前状態、および術前化学療法の施行率の高さと有意に関連していた。40歳以下で罹患家族2名以上を有する患者における検出率は20.0%であった（OR = 5.10, p = 0.034）。明確な遺伝子型－表現型相関が認められ、PALB2、BARD1、およびMSH2バリアントはトリプルネガティブ乳がんに、TP53変異はHER2陽性病変に関連していた。結論：WGSにより、BRCA1/2陰性乳がん患者の4.9%において臨床的に意義のある非BRCA生殖細胞系列バリアントが同定され、明確な遺伝子型－表現型相関および臨床病理学的な不良所見との有意な関連が認められた。これらの知見は、特に若年発症または強い家族歴を有する患者において、従来のパネル検査では生殖細胞系列リスクの全範囲を捉えきれない可能性があるため、遺伝性乳がんのリスク評価にWGSを組み込むことを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.31.763369",
+    "title": "Consensus methods for trees of blobs and level-1 phylogenetic networks",
+    "abstract": "Phylogenetic networks are increasingly used to represent evolutionary histories involving hybridization, introgression, and other reticulate processes that cannot be captured by a single tree. Recent advances have produced numerous methods for inferring networks from genomic data. These methods may produce multiple plausible networks due to optimality ties, bootstrap analyses, Bayesian posterior samples, or differences in tools, datasets, and parameters. While consensus methods are well established for trees and some approaches exist for rooted networks, no consensus framework currently exists for semi-directed (unrooted) networks. We address this gap by introducing a new consensus framework for phylogenetic networks, rooted or semi-directed. We first develop a method for constructing a consensus tree of blobs, taking as input networks of any complexity. Building on this approach, we construct a consensus for level-1 networks (i.e., networks with non-overlapping cycles). This method, called ‘L1N consensus’, takes a collection of level-1 networks as input and returns a level-1 network. The different components of this consensus network (e.g., blobs, hybrid clades, and edges) have support values that correspond to the frequency of the given component among the input networks. These methods are implemented in PhyloSummaries, building on the foundation of PhyloNetworks. We evaluate the performance of L1N consensus using large-scale simulated data. Our results demonstrate that L1N consensus outperforms existing methods in the rooted setting in terms of informativity and accuracy. Similar results are obtained in the semi-directed setting. Applying L1N consensus to Leopardus and HIV datasets confirms these findings and demonstrates the usefulness of the method.",
+    "journal": "",
+    "doi": "10.64898/2026.10.31.763369",
+    "date": "2026-11-02",
+    "authors": "Wicke K, Baños H, Holtgrefe N, Allman ES, Ané C, Gascuel O.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357739",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "method",
+        "phylogenetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4941,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.10.31.763369"
+    ],
+    "translation": {
+      "title": {
+        "hash": "66dde8cce79f2d577de0494ea3bd92cd9485bff40eb98c5e9bffe89b7ba7e8c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:58:58.661315+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "75e32685bcea75d98e9edf3e68c53ab8db1573ecc6b062c6809d02c542634126",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:58:58.661315+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブロブの系統樹およびレベル1系統ネットワークのコンセンサス手法",
+    "abstract_ja": "系統ネットワークは、単一の系統樹では捉えきれない交雑、遺伝子浸透、およびその他の網状過程を伴う進化史を表現するためにますます活用されるようになっている。近年の進展により、ゲノムデータからネットワークを推定する数多くの手法が開発されてきた。これらの手法では、最適性の制約、ブートストラップ解析、ベイズ事後標本、あるいはツール、データセット、パラメータの違いにより、複数の妥当なネットワークが生成されることがある。系統樹についてはコンセンサス手法が十分に確立されており、根付きネットワーク向けのアプローチも一部存在するが、半有向（非根付き）ネットワーク向けのコンセンサスフレームワークは現在のところ存在しない。本研究では、根付きまたは半有向の系統ネットワークに対する新たなコンセンサスフレームワークを導入することで、このギャップを埋める。まず、任意の複雑度のネットワークを入力として、ブロブのコンセンサス系統樹を構築する手法を開発する。このアプローチに基づき、レベル1ネットワーク（すなわち、重なり合わないサイクルを持つネットワーク）のコンセンサスを構築する。「L1Nコンセンサス」と呼ばれるこの手法は、レベル1ネットワークの集合を入力として受け取り、レベル1ネットワークを出力する。このコンセンサスネットワークの各構成要素（例：ブロブ、ハイブリッドクレード、エッジ）は、入力ネットワークにおける当該構成要素の出現頻度に対応する支持値を持つ。これらの手法は、PhyloNetworksの基盤の上に構築されたPhyloSummariesに実装されている。我々は、大規模なシミュレーションデータを用いてL1Nコンセンサスの性能を評価した。その結果、L1Nコンセンサスは、根付き設定において、情報量と精度の面で既存の手法を上回ることが示された。半有向設定においても同様の結果が得られた。LeopardusおよびHIVのデータセットにL1Nコンセンサスを適用したところ、これらの知見が裏付けられ、本手法の有用性が実証された。"
   }
 ]
