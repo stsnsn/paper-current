@@ -266952,5 +266952,326 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "RiboDFM: バックボーン条件付き離散フローマッチングを用いた頑健なRNA配列設計",
     "abstract_ja": "設計：あらかじめ定義された3次元構造へとフォールディングするRNA配列の設計は、RNA工学の中核をなすが、実験的に決定された構造の不足や、複雑な配列・構造間の関係により、依然として困難な課題となっている。本研究では、RNA配列設計のためのバックボーン条件付き離散フローマッチングフレームワークであるRiboDFMを提案する。RiboDFMは、幾何学的バックボーンエンコーダ、補助的な塩基対予測ヘッド、および言語モデル表現を離散フローサンプラーに統合することで、完全にマスクされた配列を段階的に解析する。学習データの拡充のため、実験的構造に加えて、trRosettaRNA2によって予測されたモデルの大規模なコレクションを補完的に導入した。多様なベンチマークにおいて、RiboDFMは高い配列復元率を達成し、既存手法よりも三次構造の自己整合性が高い配列を生成した。また、RiboDFMはアプタマーに焦点を当てた設計タスクにおいても優れた性能を示した。最後に、配列生成にとどまらず、RiboDFMのフロー軌跡から導出されるヌクレオチド確率は、配列と構造の適合性を示す本質的な指標となる。これにより、設計した配列に対する信頼性の高い信頼度推定が可能になるとともに、予測構造モデルのリファレンスフリーかつゼロショットな評価が可能となる。以上の結果を総合すると、RiboDFMは構造ベースのRNA配列設計のための効果的なフレームワークであることが実証された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760661",
+    "title": "Haplotype-resolved genetic mapping using selfed progeny enables simultaneous genome assembly validation and trait dissection in a heterozygous plant",
+    "abstract": "Genetic linkage maps are essential for genome analysis and molecular breeding, but developing suitable mapping populations remains challenging in many plant species. Approaches requiring inbred parental lines are particularly difficult to implement in plants with long generation times or severe inbreeding depression. We developed haplotype-resolved genetic mapping (HRGM) to construct linkage maps from a single heterozygous individual and its selfed progeny without requiring inbred parental lines. HRGM combines haplotype-resolved unitig assemblies from the S0 parent with genotype data from its S1 progeny, using sequence differences between the two haplotypes to define phased SNP markers. Application to Cynanchum wilfordii generated a high-density genetic map comprising 8,147 SNP markers consolidated into 464 bins across 11 linkage groups, spanning 786.4 cM. The map enabled the detection of two loci associated with root development. Recombination patterns derived from the S1 population showed strong concordance with the chromosome-scale genome assembly and exhibited recombination suppression in putative centromeric regions. HRGM integrates recombination-based genome assembly validation and trait mapping within a single framework. By using one generation of selfed progeny and obtaining linkage-phase information directly from phased assemblies, it simplifies mapping population development and extends the utility of genomic resources for genetic analysis and molecular breeding, particularly in species where selfed progeny can be obtained but conventional mapping populations are difficult to establish.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760661",
+    "date": "2026-10-23",
+    "authors": "Lim I, Lee SH, Cho W, Kim J, Park JY, Jayakodi M, Yang T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349242",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "gene",
+        "genetic",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4026,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.22.760661"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5f4bf79a4e394da6e4eeabe5182bc90afc0e63b5ae61fcb85bd21b67e95da90e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:43:06.563549+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a7382c93290fa1c23cc2ce7dbc848a9a63c2624a47f6d0112025b994ea74989c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:43:06.563549+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "自家受粉後代を用いたハプロタイプ解析型遺伝地図作成により、ヘテロ接合植物におけるゲノムアセンブリの検証と形質解析の同時実施が可能となる",
+    "abstract_ja": "遺伝的連鎖地図は、ゲノム解析や分子育種に不可欠であるが、多くの植物種において適切なマッピング集団の構築は依然として困難な課題である。近交系親系統を必要とする手法は、世代時間が長い植物や深刻な近交弱勢を示す植物において特に実施が困難である。我々は、近交系親系統を必要とせずに、単一のヘテロ接合個体とその自家交配後代から連鎖地図を構築するため、ハプロタイプ解析による遺伝的マッピング（HRGM）を開発した。HRGMは、S0親個体のハプロタイプ解析によるユニティグアセンブリと、そのS1後代の遺伝子型データを組み合わせたものであり、2つのハプロタイプ間の配列差を用いて段階的SNPマーカーを定義する。Cynanchum wilfordiiへの適用により、11の連鎖群にわたる464個のビンに集約された8,147個のSNPマーカーからなる高密度遺伝地図が作成され、786.4 cMの範囲をカバーした。この地図により、根の発達に関連する2つの遺伝子座の検出が可能となった。S1集団から得られた組換えパターンは、染色体スケールのゲノムアセンブリと強い一致を示し、推定中心体領域において組換え抑制が認められた。HRGMは、組換えに基づくゲノムアセンブリの検証と形質マッピングを単一の枠組みに統合するものである。自家交配後代の1世代を用い、段階的アセンブリから直接連鎖相情報を得ることで、マッピング集団の構築を簡素化し、特に自家交配後代の入手は可能であるが従来のマッピング集団の確立が困難な種において、遺伝解析および分子育種のためのゲノム資源の有用性を拡大する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.26366088",
+    "title": "BMI Deviations from Genetic Prediction Are Associated with Distinct Molecular Signatures in Finnish Population Cohorts",
+    "abstract": "Objective  Polygenic risk scores (PRS) estimate genetically predicted BMI, but lifestyle and environmental factors may cause deviations between observed and predicted BMI. We investigated whether such deviations are associated with distinct molecular profiles and whether these differ by direction of deviation. Methods  We analyzed 2,508 adults from the Finnish Twin Cohort and 1,715 from the Young Finns Study with clinical, metabolomic, DNA methylation, and proteomic data. PRS-informed residual BMI (rBMI) quantified deviations between observed and genetically predicted BMI. Associations between rBMI and multi-omic profiles were assessed using linear mixed-effects models with a hinge term to compare effects above  vs. below genetic prediction. Twin analyses further accounted for shared genetic and environmental factors.  Results  rBMI is associated with distinct cardiometabolic and molecular profiles depending on whether BMI is above or below genetic prediction. When BMI exceeds genetic prediction, rBMI shows stronger associations with inflammatory and cardiovascular markers. In contrast, several metabolites and plasma proteins show stronger associations when BMI is below genetic prediction. Epigenetic aging increases with higher rBMI regardless of direction. Similar patterns are observed in BMI-discordant twin pairs. Conclusion  Deviations from genetically predicted BMI are associated with distinct clinical and molecular signatures beyond absolute BMI alone.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.26366088",
+    "date": "2026-10-23",
+    "authors": "Zhu T, Drouard G, Heikkinen A, Hukkanen M, Palviainen T, Berntzen BJ, Lyytikäinen L, Raitoharju E, Pietiläinen KH, Lehtimäki T, Raitakari O, Ala-Korpela M, Kaprio J, Cristofari R, Ollikainen M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349174",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4027,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.21.26366088"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e21a8882ab6dd2b4f000d1a4588feba633c082356eeb2369cb9c1dfd62820eb4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:43:06.563549+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "66fe645305a80e181c8310b9019f76c025748d92b0f6c9919d69e6217bb2403e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:43:06.563549+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝的予測からのBMI乖離は、フィンランド人集団コホートにおける特有の分子シグネチャーと関連している",
+    "abstract_ja": "目的  ポリジェニックリスクスコア（PRS）は遺伝的に予測されたBMIを推定するが、生活習慣や環境要因により、観察されたBMIと予測BMIとの間に乖離が生じることがある。我々は、このような乖離が個別の分子プロファイルと関連しているか、またそれらが乖離の方向によって異なるかを検討した。方法  フィンランド双生児コホートの成人2,508例およびYoung Finns Studyの1,715例を対象に、臨床データ、メタボロームデータ、DNAメチル化データ、およびプロテオームデータを解析した。PRSに基づく残差BMI（rBMI）を用いて、観察されたBMIと遺伝的に予測されたBMIとの乖離を定量化した。rBMIとマルチオミクスプロファイルとの関連は、遺伝的予測を上回る効果と下回る効果を比較するためのヒンジ項を用いた線形混合効果モデルにより評価した。双生児解析では、共通の遺伝的・環境的要因をさらに考慮した。結果  rBMIは、BMIが遺伝的予測を上回るか下回るかに応じて、異なる心代謝および分子プロファイルと関連している。BMIが遺伝的予測を上回る場合、rBMIは炎症性および心血管マーカーとより強い関連を示す。対照的に、BMIが遺伝的予測を下回る場合には、いくつかの代謝物および血漿タンパク質がより強い関連を示す。エピジェネティックな老化は、方向に関わらずrBMIが高いほど進行する。同様のパターンは、BMI不一致の双生児ペアにおいても観察された。結論  遺伝的に予測されたBMIからの乖離は、絶対的なBMIのみにとどまらず、個別の臨床的・分子的シグネチャーと関連している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.18.759998",
+    "title": "Prediction of Systemic Lupus Erythematosus from Genotype and Gene-Expression Data: Batch Correction and Leakage-Free Evaluation",
+    "abstract": "Systemic Lupus Erythematosus (SLE) is a complex autoimmune disease with a strong genetic component and highly variable clinical features. Because of this heterogeneity, predicting disease status remains challenging using any single marker alone. In this study we explore two com-plementary data sources, (1) genotypes at 30 candidate SNPs in a South Indian case–control cohort (  n = 425) and (2) bulk expression of 13 genes from the same pathways, curated from six GEO series (  n = 642 SLE or control samples from 483 individuals), to investigate whether they can be used to distinguish SLE cases from healthy controls. The expression data were placed on a common log  2 scale and corrected for batch effects with mean-only ComBat. To avoid data leakage, ComBat, gene filtering, scaling and model fitting were re-estimated inside every train-ing fold, and all samples from the same individual were kept in the same fold. Performance was summarised with ROC-AUC, precision–recall AUC (PR-AUC) and the Matthews correlation coefficient (MCC) over 10  × 5-fold cross-validation, the models were interpreted with out-of-fold SHAP values, and the whole pipeline was checked with label permutations. For the SNP data, a dominant encoding with age and sex gave ROC-AUC 0.699  ± 0.052, PR-AUC 0.668  ± 0.063 and MCC 0.309  ± 0.101, but this depended on four SNPs that deviate from Hardy–Weinberg equilibrium in controls; without them the SNPs added little to age and sex (ROC-AUC 0.656). The strongest single association, at  MTRR A66G, came from an excess of heterozygotes among controls, a pattern typical of genotyping error, whereas homozygous  CYP1A1 M2 and  COMT genotypes and  CYP1A1 M4 carriers were enriched in cases, pointing to xenobiotic metabolism. The leakage-free expression classifiers reached ROC-AUC 0.837  ± 0.033 (L1-penalised logistic regression) and 0.915  ± 0.021 (XGBoost), and shuffled labels gave chance-level results, confirming that the pipeline does not leak. However, a model given only the study label reached ROC-AUC 0.857, because disease status is strongly confounded with study. Within individual studies the ROC-AUC was 0.743 (L1-LR) and 0.835 (XGBoost), and it fell to 0.46–0.74 when whole studies were held out. Lower  MTR expression was the most important and most consistent expression feature, whereas two other highly ranked genes,  CYP1A1 and  GSTT1 , carried little signal within studies. For pooled multi-study data, leakage-free cross-validation alone does not guarantee a reliable estimate; batch–label confounding and genotype quality have to be checked directly.",
+    "journal": "",
+    "doi": "10.64898/2026.10.18.759998",
+    "date": "2026-10-23",
+    "authors": "Kannan V, Karthik R, Daniel A, Kandarpa H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349594",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "batch correction",
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "batch correction",
+          "gene",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4656,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.18.759998"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c2e01a3c9cfe6b88c053750892fb34e2a25b3a8ad34c712e8c0bd8cad9fdc927",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:43:06.563549+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "56964ba0582e75c364d1e269bbc97409f807f091ff1819b275c96de1d80f487d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:43:06.563549+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝子型および遺伝子発現データからの全身性エリテマトーデスの予測：バッチ補正とリークフリー評価",
+    "abstract_ja": "全身性エリテマトーデス（SLE）は、強い遺伝的要因を有し、臨床的特徴が極めて多様である複雑な自己免疫疾患である。このような異質性のため、単一のマーカーのみを用いて疾患状態を予測することは依然として困難である。本研究では、SLE症例と健常対照群を判別できるかを検証するため、2つの相補的なデータソース、すなわち(1) 南インドの症例対照コホート（n = 425）における30箇所の候補SNPの遺伝子型、および(2) 6つのGEOシリーズ（483名のSLEまたは対照サンプル、n = 642）からキュレートした同一パスウェイに属する13遺伝子のバルク発現、を検討した。発現データは共通のlog₂スケールに正規化し、mean-only ComBatを用いてバッチ効果を補正した。データリークを防ぐため、ComBat、遺伝子フィルタリング、スケーリング、およびモデルフィッティングは各トレーニングフォールド内で再推定し、同一個人の全サンプルを同一フォールドに含めた。性能は、10×5分割交差検証におけるROC-AUC、適合率-再現率AUC（PR-AUC）、およびMatthews相関係数（MCC）で要約し、モデルはアウトオブフォールドSHAP値を用いて解釈し、パイプライン全体はラベル置換によって検証した。SNPデータにおいて、年齢と性別による支配的なエンコーディングでは、ROC-AUC 0.699 ± 0.052、PR-AUC 0.668 ± 0.063、MCC 0.309 ± 0.101が得られたが、これは対照群においてハーディー・ワインベルグ平衡から逸脱している4つのSNPに依存していた。これらのSNPを除いた場合、SNPが年齢および性別に与える寄与はほとんどなかった（ROC-AUC 0.656）。最も強い単一の関連を示したMTRR A66Gは、対照群におけるヘテロ接合体の過剰によるもので、これは遺伝子型判定エラーに典型的なパターンであった。一方、ホモ接合体のCYP1A1 M2およびCOMT遺伝子型、ならびにCYP1A1 M4キャリアは症例群で濃縮されており、外来物質代謝が示唆された。リークのない発現分類器は、ROC-AUC 0.837 ± 0.033（L1ペナルティ付きロジスティック回帰）および0.915 ± 0.021（XGBoost）を達成し、ラベルをシャッフルした場合は偶然レベルの結果となり、本パイプラインにリークがないことが確認された。しかし、研究ラベルのみを与えたモデルではROC-AUC 0.857となり、これは疾患状態が研究と強く交絡しているためである。個々の研究内におけるROC-AUCは0.743（L1-LR）および0.835（XGBoost）であり、研究全体を除外した場合は0.46–0.74まで低下した。MTR発現の低下は、最も重要かつ一貫した発現特徴であった一方、上位にランクされた他の2つの遺伝子であるCYP1A1およびGSTT1は、研究内ではほとんどシグナルを示さなかった。プールされた多研究データにおいて、リークのない交差検証だけでは信頼性の高い推定値は保証されず、バッチ・ラベル交絡および遺伝子型の品質を直接検証する必要がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.761182",
+    "title": "A chromosome-level genome assembly of the classical model nematode  Panagrellus redivivus  for comparative studies of parasitism evolution",
+    "abstract": "Panagrellus redivivus is a free-living nematode that served as an early model system for nematode biology prior to  Caenorhabditis elegans . As a member of Clade IV, a clade harboring major plant-parasitic (e.g.,  Bursaphelenchus xylophilus ) and animal-parasitic (e.g.,  Strongyloides spp.) species,  P. redivivus represents a crucial, phylogenetically proximate non-parasitic reference for investigating the evolution of parasitism. Here, we present a chromosome-level genome assembly of  P. redivivus constructed using Oxford Nanopore long reads, Illumina short reads, and Hi-C scaffolding. The assembly is resolved into five chromosome-scale scaffolds, with completeness validated by Hi-C contact maps and the identification of a non-canonical telomeric repeat motif. The assembly demonstrates high gene-space completeness (97.1% BUSCO) and contains 17,839 predicted protein-coding genes. Comparative orthology analysis revealed extensive orthogroup sharing between  P. redivivus and  Clade IV parasites, enabling comparative evolutionary studies with reduced confounding effects from deep lineage divergence. This high-quality genome provides a key resource for investigating the genetic basis of distinctive biological traits, including ovoviviparity, as well as gene family dynamics and parasite evolution.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.761182",
+    "date": "2026-10-23",
+    "authors": "Sato K, Sun S, Yamashita T, Yoshida A, Shinya R, Sternberg PW, Kikuchi T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349574",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4665,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.22.761182"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c3e788dd9737aa28f3610d4a254ffb236eaad9deff1bdfbf7c3ba97eea28781e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:43:06.563549+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "87137d7c1b6176ffea6fe7a4406f660c0e933ac9ebf48ed8f0b3b1057913af05",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:43:06.563549+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "寄生進化の比較研究に向けた、古典的モデル線虫 Panagrellus redivivus の染色体レベルのゲノムアセンブリ",
+    "abstract_ja": "Panagrellus redivivusは、Caenorhabditis elegansに先立つ線虫生物学の初期モデル系として用いられた自由生活性線虫である。主要な植物寄生種（例：Bursaphelenchus xylophilus）および動物寄生種（例：Strongyloides spp.）を擁するクレードIVの一員であるP. redivivusは、寄生性の進化を研究する上で、系統的に近縁な極めて重要な非寄生性の参照系となる。本研究では、Oxford Nanoporeロングリード、Illuminaショートリード、およびHi-Cスキャフォールディングを用いて構築したP. redivivusの染色体レベルのゲノムアセンブリを提示する。このアセンブリは5つの染色体スケールのスキャフォールドに分解されており、Hi-Cコンタクトマップおよび非正準的なテロメア反復モチーフの同定によって完全性が検証されている。本アセンブリは高い遺伝子空間の完全性（BUSCO 97.1%）を示し、17,839個の予測タンパク質符号化遺伝子を含んでいる。比較オーソロジー解析により、P. redivivusとクレードIVの寄生虫との間で広範なオルソグループ共有が認められ、系統的な分岐による交絡効果を低減させた比較進化研究が可能となった。この高品質なゲノムは、卵胎生を含む特徴的な生物学的形質の遺伝的基盤、ならびに遺伝子ファミリーの動態や寄生虫の進化を研究するための重要なリソースとなる。"
   }
 ]
