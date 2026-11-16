@@ -276958,5 +276958,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ブドウ樹幹病管理の有力な手段となりうるニトロフェノール酸ナトリウム",
     "abstract_ja": "菌類による幹病は、ブドウやその他の多年生作物の生産における大きな制約となっており、効果的な治療的防除法は依然として限られている。本研究では、幹病に関連する選定された菌類に対し、ニトロフェノール酸ナトリウム系製剤Atonik®の抗真菌作用および防御応答調節作用を評価した。in vitroで10種類の真菌病原体に対する有効性を検証し、さらにin planta条件下でブドウにおけるEutypa lataに対する効果を評価した。Atonik®は病原体の菌糸成長を濃度依存的に抑制し、試験した最高濃度においてCadophora luteo-olivacea、E. lata、およびPhaeoacremonium minimumに対して最も強い効果が認められた。ブドウにおいて、E. lataによる平均病斑長は48.38 mmであったが、Atonik®処理により12.29 mmまで短縮された。絶対qPCRにより、処理植物ではVvSOD転写産物の存在量が高いことが示された。RNA-seq解析により、感染に関連する168個の遺伝子および処理に関連する43個の遺伝子が同定された。これらの結果は、ニトロフェノール酸ナトリウムが、直接的な抗真菌活性とブドウの防御応答調節の組み合わせにより、E. lataによる木材壊死を軽減させる可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760337",
+    "title": "Reconstruction of a rare Δ10 desaturation pathway enables production of yellow peach moth pheromone precursors in  Camelina sativa",
+    "abstract": "ABSTRACT  Sex pheromones are environmentally friendly alternatives to traditional insecticides for pest control. The high synthesis cost, however, has restricted large-scale application. Plant-based biofactories provide a promising, sustainable route for cost-effective production that could facilitate the broader use of pheromone-based pest control. Mating disruption of the yellow peach moth,  Conogethes punctiferalis –a serious pest of fruit trees and field crops in East Asia–can be achieved using (  E )-10-hexadecenal and (  Z )-10-hexadecenal, two components of its sex pheromone. To enable rational reconstruction of the biosynthetic pathway towards these unusual fatty acid derivatives in heterologous production systems, we first elucidated their biosynthesis by combining  in vivo labeling experiments, transcriptomics and functional characterization of candidate desaturase and reductase genes using  Nicotiana benthamiana and yeast expression systems. We identified a rare Δ10 fatty acyl desaturase that catalyzes the production of both (  E )- 10- and (  Z )-10-hexadecenoic acids, along with a downstream fatty acyl reductase with higher activity on the  E isomer. We further introduced this Δ10 desaturase together with an acyl-ACP thioesterase-1 into  Camelina sativa to redirect seed lipid metabolism towards the accumulation of the pheromone precursor fatty acids. After four generations of selection, we obtained stably inherited Camelina lines accumulating up to 4.7% of target fatty acids in total seed lipids, with individual seeds containing up to 8.3 μg, without significant effects on plant growth or seed viability. These findings demonstrate how elucidating moth pheromone biosynthetic pathways can support the development of sustainable biotechnological production systems for pheromone-based pest management.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760337",
+    "date": "2026-10-21",
+    "authors": "Hou X, Wang H, He P, Jin Y, Gao X, Lassance J, Löfstedt C, Ding B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347227",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2755,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.20.760337"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2f68b2fe3620b105ed6676fc9aec8c9082acc02bf6c37e3a527edeface93b9de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:46:08.253794+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0e392a24b41256fee40cda4e6ecc2da1c2f921bc7a879bdd0f3bc869ecb5c20f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:46:08.253794+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "希少なΔ10脱飽和経路の再構築により、Camelina sativaにおけるキイロモモガフェロモン前駆体の産生が可能となった。",
+    "abstract_ja": "要旨　性フェロモンは、害虫防除における従来の殺虫剤に代わる環境調和型の選択肢である。しかし、合成コストが高いため、大規模な適用が制限されてきた。植物ベースのバイオファクトリーは、費用対効果の高い生産を実現する有望かつ持続可能な手法であり、フェロモンベースの害虫防除のより広範な利用を促進する可能性がある。東アジアの果樹および畑作物の深刻な害虫であるキイロモモガ（Conogethes punctiferalis）の交尾阻害は、同種の性フェロモンの構成成分である(E)-10-ヘキサデセンアルおよび(Z)-10-ヘキサデセンアルを用いて達成できる。異種生産系において、これらの特異な脂肪酸誘導体に至る生合成経路を合理的に再構築するため、我々はまず、in vivo標識実験、トランスクリプトミクス、およびNicotiana benthamianaと酵母の発現系を用いた候補脱飽和酵素および還元酵素遺伝子の機能解析を組み合わせることで、その生合成を解明した。我々は、(E)-10-および(Z)-10-ヘキサデセン酸の両方の生成を触媒する希少なΔ10脂肪酸アシル脱飽和酵素と、(E)異性体に対してより高い活性を持つ下流の脂肪酸アシル還元酵素を同定した。さらに、このΔ10脱飽和酵素をアシル-ACPチオエステラーゼ-1と共にCamelina sativaに導入し、種子の脂質代謝をフェロモン前駆体脂肪酸の蓄積へと誘導した。4世代の選抜を経て、植物の成長や種子の生存率に有意な影響を及ぼすことなく、全種子脂質に最大4.7%の標的脂肪酸を蓄積し、個々の種子に最大8.3 μgを含有する安定的に遺伝するCamelina系統を得た。これらの知見は、ガのフェロモン生合成経路の解明が、フェロモンベースの害虫管理のための持続可能なバイオテクノロジー生産系の開発をいかに支援し得るかを示すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760484",
+    "title": "Closing the conformational cycle of the beta-barrel assembly machinery",
+    "abstract": "The β-barrel assembly machinery (BAM) catalyzes the folding and insertion of β-barrel outer membrane proteins (OMPs) in Gram-negative bacteria without an external energy source. BAM comprises the central subunit BamA and associated lipoproteins, with BamA forming a conformationally dynamic lateral gate. Although substrate-engaged structures have revealed key steps in OMP assembly, how substrate-free BamA closes its lateral gate and which conformations it adopts in a lipid bilayer remain unclear. Here, we determined cryo-EM structures of the  Escherichia coli (E.coli) BAM complex in three detergents and in Saposin A nanodiscs composed of  E. coli polar lipids. In addition to the canonical outward-open (OO) state, we identified an occluded (OC) state in which both the lateral gate and the periplasmic opening of the BamA barrel are closed. OC predominated in lipid-reconstituted BAM that retained OMP-folding activity, indicating that this state is substantially populated in a functional BAM ensemble within a lipid bilayer. We also identified a semi-occluded (sOC) state in which β1–β2 adopts an OC-like closed position while rearrangement of β16 remains incomplete. Comparison of OO, sOC, and OC reveals asynchronous rearrangements of the β1–β2 and β16 regions, with β1–β2 movement can occur without complete repositioning of β16. Re-examination of previously reported lipid-embedded BAM structures further highlights the importance of local map quality at the gate region for conformational assignment. Together, our findings expand the BamA conformational landscape beyond the conventional OO–inward-open (IO) framework to include OC and sOC as distinct structural states associated with lateral-gate closure following OMP insertion.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760484",
+    "date": "2026-10-21",
+    "authors": "Kato T, Shigematsu H, Takeuchi K, Suzuki M, Nitta R, Imasaki T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347220",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2756,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.20.760484"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ac0e1df93da8020393919bd51f9dcc22880a2d919e7acf9f88f26ea2f0f4af7b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:46:08.253794+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "87e31b4113badca907f21fa209483a80665725eaf8eb047e023e74e90582c78d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:46:08.253794+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "βバレルアセンブリ機構のコンフォメーションサイクルの閉鎖",
+    "abstract_ja": "βバレル組立装置（BAM）は、グラム陰性菌において、外部エネルギー源なしにβバレル外膜タンパク質（OMP）の折り畳みと挿入を触媒する。BAMは中心サブユニットであるBamAと関連リポタンパク質から構成され、BamAはコンフォメーション的に動的な側方ゲートを形成する。基質結合構造によってOMP組立の主要なステップが明らかになっているが、基質非結合状態のBamAがいかにして側方ゲートを閉鎖し、脂質二重層においてどのようなコンフォメーションをとるのかは依然として不明である。本研究では、3種類の界面活性剤および大腸菌（E. coli）極性脂質からなるサポシンAナノディスクにおける大腸菌BAM複合体のクライオ電子顕微鏡構造を決定した。正準な外向き開放（OO）状態に加え、側方ゲートとBamAバレルのペリプラズム開口部の両方が閉鎖した閉塞（OC）状態を同定した。OMP折り畳み活性を保持した脂質再構成BAMではOCが優位であり、この状態が脂質二重層内の機能的なBAMアンサンブルにおいて相当程度存在することが示された。また、β1–β2がOC様の閉鎖位置をとり、β16の再編成が未完了である半閉塞（sOC）状態も同定した。OO、sOC、およびOCを比較すると、β1–β2領域とβ16領域の非同期的な再編成が認められ、β16の完全な再配置を伴わずにβ1–β2の移動が起こり得ることが明らかになった。既報の脂質内包BAM構造を再検討した結果、コンフォメーションの割り当てにおいてゲート領域の局所的なマップ品質が重要であることがさらに浮き彫りとなった。以上の知見を総合すると、我々の研究結果はBamAのコンフォメーションランドスケープを従来のOO–内向き開放（IO）フレームワークから拡張し、OMP挿入後の側方ゲート閉鎖に関連する別個の構造状態としてOCおよびsOCを組み込むものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.1099/acmi.0.001216.v3",
+    "title": "Difficult-to-Treat Pseudomonas aeruginosa Harboring Tandem Guiana Extended-Spectrum Beta-Lactamases: A Case Report​",
+    "abstract": "We report a case of a patient, who had recently been hospitalized outside the United States and developed a difficult-to-treat Pseudomonas aeruginosa infection. Whole-genome sequencing (WGS) identified tandem Guiana extended-spectrum beta-lactamases (blaGES-19/20). We highlight the value of WGS and the challenges faced in managing infections with organisms displaying unexpected resistance mechanisms.",
+    "journal": "",
+    "doi": "10.1099/acmi.0.001216.v3",
+    "date": "2026-10-21",
+    "authors": "Sidebottom RB, Lara-Endara JE, Huggins LM, Johnson W, El Ghali A, Domman D, Brett M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347168",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2758,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.1099/acmi.0.001216.v3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eb77cc0de7614d67b4aa8c7aa53f41f711648f5812f76ea67a26d2f3ec3b2541",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:46:08.253794+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d847d0055d25fe265ddc742522ea0ad80b9c45d92bc88410fe0278dbed3c24b9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:46:08.253794+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンデム・ギアナ広域β-ラクタマーゼ保有性の難治療性緑膿菌：症例報告​",
+    "abstract_ja": "米国外で最近入院し、治療困難な緑膿菌感染症を発症した患者の症例を報告する。全ゲノム解析（WGS）により、タンデム型ギアナ拡張スペクトラムβ-ラクタマーゼ（blaGES-19/20）が同定された。本稿では、WGSの有用性と、予期せぬ耐性機構を示す菌による感染症管理において直面する課題について強調する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10703221/v1",
+    "title": "Intratumoral influenza A virus infection drives platinum resistance and invasive reprogramming in NSCLC",
+    "abstract": "Abstract  Respiratory viral infections are frequent in patients with non-small cell lung cancer (NSCLC), yet whether intratumoral viral presence directly influences tumor behavior and therapeutic response remains unknown. Here, we identify a respiratory virus-associated drug metabolism program (REVIS-DM), predominantly expressed by tumor cells and linked to poor clinical outcome. Across multiple NSCLC cohorts, a subgroup of tumors with concurrent high REVIS-DM, interferon-stimulated gene and antiviral signatures was associated with reduced survival and increased relapse after chemotherapy. Consistent with this antiviral profile, Influenza A virus (IAV) transcripts were detected in NSCLC and associated with poor outcome and relapse. Mechanistically, IAV infection induced xenobiotic detoxification, epithelial-to-mesenchymal transition, invasion, and platinum resistance in vitro and in vivo. These effects required viral sensing and NLRP3 inflammasome signaling but were independent of type I/III interferon pathways. Together, our findings establish intratumoral IAV infection as a previously unrecognized driver of tumor-cell plasticity and chemoresistance in NSCLC, revealing virus-induced metabolic vulnerabilities with potential therapeutic relevance.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10703221/v1",
+    "date": "2026-10-21",
+    "authors": "Cremer I, Foy P, Josseaume N, Cagdas P, Houdu F, Fleury E, Balde T, Guichard H, Marmier S, Kalkusova K, Compere C, Rousseau V, Buttay L, Garmendia I, Rood A, Smrz D, Garcia-Verdugo I, Stefani A, Lupo-Mansuet A, Damotte D, Alifano M, Garinet S, Mouillet-Richard S, Groeneveld C, de Reynies A, Monnot C, Blons H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347079",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2759,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10703221/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a759f75f93a206616623e8efe46a636008a6569538bb7dcb398264d99b4b0ca1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:46:08.253794+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3dd657060da453b7880a500526d75cfb5e6f3a3b1fc96542a18a9b4a8dd49052",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:46:08.253794+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "口腔内A型インフルエンザウイルス感染は、NSCLCにおける白金製剤耐性および浸潤性リプログラミングを誘導する。",
+    "abstract_ja": "要旨　非小細胞肺癌（NSCLC）患者において呼吸器系ウイルス感染症は頻繁に認められるが、腫瘍内におけるウイルスの存在が腫瘍挙動や治療反応に直接的に影響を及ぼすか否かは依然として不明である。本研究では、主に腫瘍細胞に発現し、臨床転帰の不良に関連する呼吸器系ウイルス関連薬物代謝プログラム（REVIS-DM）を同定した。複数のNSCLCコホートにおいて、高いREVIS-DM、インターフェロン刺激遺伝子シグネチャー、および抗ウイルスシグネチャーを併存する腫瘍のサブグループは、化学療法後の生存率の低下および再発率の上昇と関連していた。この抗ウイルスプロファイルと一致して、NSCLCにおいてA型インフルエンザウイルス（IAV）転写産物が検出され、転帰の不良および再発と関連していた。機序的には、IAV感染はin vitroおよびin vivoにおいて、外来性物質の解毒、上皮間葉転換、浸潤、および白金製剤耐性を誘導した。これらの効果にはウイルスセンシングおよびNLRP3インフラマソームシグナル伝達が必要であったが、I型/III型インターフェロン経路とは独立していた。以上の知見を総合すると、腫瘍内IAV感染は、NSCLCにおける腫瘍細胞の可塑性と化学療法耐性のこれまで認識されていなかった駆動因子であることが明らかとなり、治療的意義を持つ可能性のあるウイルス誘導性の代謝脆弱性が示された。"
   }
 ]
