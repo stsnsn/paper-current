@@ -282386,5 +282386,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "AutoMod: 湾曲したDNAオリガミナノ構造の高精度設計のためのソフトウェアツール",
     "abstract_ja": "DNAオリガミ（DO）ナノ構造の設計において、平衡コンフォメーションなどの構造情報は、ヌクレオチド配列によって符号化される。特定の標的コンフォメーションに対する正しい配列を求めることは困難な計算課題であり、一般的にコンピュータ支援設計ソフトウェアを用いて取り組まれている。しかし、DNAヘリックスが非閉路経路を架けるような強い湾曲構造の実現は、極めて困難なままであった。本報では、理想的な標的形状と半自動的に生成された設計との対応性を大幅に向上させるソフトウェアツール「AutoMod」を提案する。標的と設計の不一致度は、標的形状の簡略化された点集合表現と、設計の計算的に予測された平衡コンフォメーションとの二乗平均平方根偏差によって測定される。従来の手法と比較して、検証したすべての標的形状において、平均二乗平方根偏差の統計的に有意な減少が認められた。AutoModを用いて設計したベンチマークDO構造を実験的に実現し、そのコンフォメーションを単粒子再構成により決定した。その結果、計算結果との高い一致が確認された。設計精度の向上により、ナノファブリケーション、生体医工学、バイオセンシングなどの分野におけるDOナノ構造の応用成功が促進されると期待される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.15.759389",
+    "title": "DEEP: Extracting Latent Energetic Landscapes from Protein Structure Predictors",
+    "abstract": "Modern protein structure predictors learn complex sequence-structure relationships, yet the extent to which their internal representations capture the energetic principles governing protein stability and conformational preferences remains unclear. Here, we introduce DEEP (Distogram Encoded Energetic Potential), a general framework that extracts effective statistical potentials directly from predicted residue-pair distance distributions, using the models own terminal distance state as an internal reference without training on experimental stability data. Applied to Boltz-2 (DEEP-Boltz) achieves a mean per-assay Spearman correlation of 0.720 across 64 ProteinGym stability assays, numerically outperforming all 97 published zero-shot methods in the matched comparison on level with the best performing predictors trained directly on experimental stability measurements. Beyond mutation effects, DEEP-Boltz accurately distinguishes native-like from non-native conformations across more than 180,000 Rosetta decoys. Applying DEEP to AlphaFold2 reveals nearly identical conformational discrimination but substantially weaker mutation-effect prediction, demonstrating that recognizing favorable conformations and capturing their energetic sensitivity to sequence changes are distinct properties of learned structural representations. Together, these findings establish that protein structure predictors encode accessible energetic information beyond their geometric predictions and that this information can be extracted. We release the framework and DEEP-Boltz as a freely available tool for extracting these latent energetic representations and for zero-shot prediction of mutation-induced protein stability changes.",
+    "journal": "",
+    "doi": "10.64898/2026.10.15.759389",
+    "date": "2026-10-21",
+    "authors": "Rozsa ZB, Erdos G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347277",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "prediction",
+        "predictor",
+        "protein",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene",
+          "prediction",
+          "predictor",
+          "protein",
+          "tool"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4038,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.15.759389"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ebf542d0667781eedba73386e82ef83560337779ccb88992fdd74bf069322212",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:07:01.106266+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a1c75cf808fc3a962fef170e05b8ec2507f9329e1ef77eeaacd15548d4736f54",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:07:01.106266+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DEEP: タンパク質構造予測器からの潜在エネルギーランドスケープの抽出",
+    "abstract_ja": "近年のタンパク質構造予測モデルは、複雑な配列・構造間の関係性を学習しているが、その内部表現がタンパク質の安定性やコンフォメーション選好を支配するエネルギー原理をどの程度捉えているかは依然として不明である。本研究では、実験による安定性データの学習を行うことなく、モデル自身の末端距離状態を内部参照として用い、予測された残基対距離分布から直接有効な統計ポテンシャルを抽出する汎用フレームワークDEEP（Distogram Encoded Energetic Potential）を提案する。Boltz-2に適用（DEEP-Boltz）したところ、64種類のProteinGym安定性アッセイにおいて1アッセイあたり平均0.720のスピアマン相関係数を達成し、実験による安定性測定値から直接学習させた最高性能の予測モデルと同等の水準で、マッチング比較において公表されている全97種類のゼロショット手法を数値的に上回った。変異効果に加え、DEEP-Boltzは18万件以上のRosettaデコイにわたって、天然状態に近いコンフォメーションと非天然状態のコンフォメーションを正確に判別した。DEEPをAlphaFold2に適用したところ、ほぼ同一のコンフォメーション識別能が認められた一方で、変異効果の予測精度は著しく低下した。このことは、有利なコンフォメーションを認識することと、それらの配列変化に対するエネルギー的感受性を捉えることは、学習された構造表現における異なる特性であることを示している。以上の知見を総合すると、タンパク質構造予測モデルは幾何学的予測を超えてアクセス可能なエネルギー情報を符号化しており、この情報を抽出可能であることが立証された。我々は、これらの潜在的なエネルギー表現を抽出し、変異誘発によるタンパク質安定性の変化をゼロショットで予測するための無料ツールとして、本フレームワークおよびDEEP-Boltzを公開する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.15.758995",
+    "title": "Combining RNA-seq and proteomics boosts sensitivity to detect differentially expressed genes by rpMeta",
+    "abstract": "ABSTRACT  Differential gene expression analysis is a powerful technique to characterize biological systems. Differentially expressed genes (DEGs) are commonly identified by analysis of RNA sequencing datasets or mass spectrometry proteomics datasets. Increasingly, multi-omic studies include both RNA sequencing and proteomics from the same biospecimens. However, the common multi-omic DEG analysis practice involves separate DEG analysis by RNA and by protein with limited comparison by fold change correlations or Venn Diagrams. This disjoint practice may not utilize all of the available signal from both datatypes as transcripts and proteins have correlated expression levels. To integrate RNA and proteomics, we developed a new method, RNA protein meta-analysis called rpMeta. rpMeta takes RNA and protein expression data and calculates DEGs by RNA, by protein, and by meta-analysis models, following user-specified options. Spike-in, downsampling and cross-cohort benchmarks revealed that the meta-analysis model had greater sensitivity than RNA and protein models. In a real-world use case, the meta-analysis model discovered new genes and biological processes in lung cancer subtypes that were not detectable by the RNA or protein models. To streamline interpretation, rpMeta produces publication-ready data visualizations of the integrated DEGs. rpMeta is an open-source R package, available at  https://github.com/zhangx8/rpMeta .  GRAPHICAL ABSTRACT",
+    "journal": "",
+    "doi": "10.64898/2026.10.15.758995",
+    "date": "2026-10-21",
+    "authors": "Zhang X, LaMorte JP, Kortum RL, Shriver CD, Dalgard CL, Wilkerson MD.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347274",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "method",
+        "protein",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4039,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.15.758995"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5495edc87a4e87600dab9fc5cee325287f18f72907542e660150c38fee0183b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:07:01.106266+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "630eb2a0206fdd2e23298094d6dc72128bdf5f6de358177988cecee539c1c7b2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:07:01.106266+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNA-seqとプロテオミクスの組み合わせにより、rpMetaによる発現変動遺伝子の検出感度が向上する。",
+    "abstract_ja": "要旨  発現変動解析は、生物学的システムを特性評価するための強力な手法である。発現変動遺伝子（DEGs）は、一般的にRNAシーケンシングデータセットまたは質量分析プロテオミクスデータセットの解析によって同定される。近年、マルチオミクス研究では、同一の生体試料からRNAシーケンシングとプロテオミクスの両方を組み込むケースが増えている。しかし、一般的なマルチオミクスDEG解析の手法では、RNAとタンパク質で個別にDEG解析を行い、フォールドチェンジ相関やベン図による比較は限定的である。転写産物とタンパク質は発現レベルに相関があるため、このような分断された手法では、両データタイプから得られる利用可能なシグナルをすべて活用できない可能性がある。RNAとプロテオミクスを統合するため、我々はrpMetaと呼ばれる新たなRNA-タンパク質メタ解析手法を開発した。rpMetaは、RNAおよびタンパク質の発現データを受け取り、ユーザーが指定したオプションに従って、RNA別、タンパク質別、およびメタ解析モデルによるDEGsを算出する。スパイクイン、ダウンサンプリング、およびクロスコホートによるベンチマークの結果、メタ解析モデルはRNAおよびタンパク質モデルよりも感度が高いことが明らかになった。実際のユースケースにおいて、メタ解析モデルは、RNAまたはタンパク質モデルでは検出できなかった肺がんサブタイプにおける新規遺伝子および生物学的プロセスを同定した。解釈を容易にするため、rpMetaは統合されたDEGsの論文掲載可能なデータ可視化を提供する。rpMetaはオープンソースのRパッケージであり、https://github.com/zhangx8/rpMeta で入手可能である。  図版付き要旨"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.16.26365771",
+    "title": "Functional architecture of rare protein coding variation across 786,871 exomes",
+    "abstract": "Protein coding variants span the gamut of structural and functional effects on proteins, and they have similarly heterogeneous effects on traits. Their functional effects can be predicted and categorized, particularly using machine learning models, and integrating these predictors benefits gene discovery. However, it remains unclear how well known structural features and predicted functional scores explain the heterogeneous effects of protein coding variants on human complex traits. We introduce the Kernel Allelic Series Model (KASM), which integrates multiple functional annotations to form a kernel describing how allelic effects within a gene covary. We apply it to exome data from 26 traits and 786,871 individuals from UK Biobank and All of Us, integrating 35 annotations describing protein structure and predicting allelic effects. We estimate that rare missense heritability is at least 1.27±0.09% on average, 1.83±0.11% under our most flexible model, exceeding pLoF heritability (0.87±0.05%) and far exceeding missense burden heritability as previously estimated (0.54±0.04%). AlphaMissense is the single most enriched missense predictor, but a composite score doubles its enrichment. A series of structural features is enriched for heritability, from amino acid chemical features and structural motifs to residue contacts and protein-protein interaction interfaces. Examining pairs of variants, we find that most missense effects are modestly correlated, but an exception is when residues are close in 3D structure but distant in 1D sequence; such pairs also covary across species. Finally, we analyze individual genes and identify gene-specific enrichments, like a 95-fold enrichment among  PIEZO1 hydrogen bond residues, that nominate functional hypotheses.",
+    "journal": "",
+    "doi": "10.64898/2026.10.16.26365771",
+    "date": "2026-10-21",
+    "authors": "Hou K, Li H, Nason E, Finucane H, Sunyaev S, O’Connor LJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347316",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4049,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.16.26365771"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d3fd59b55b7508ece743b6a9f44199274cea1a6f0fa6c4d6783149956a981000",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:07:01.106266+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ec3dd45ff5873d1c0d951e7cf4011057a0d482f141c1587fa693dad7b7a4b97d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:07:01.106266+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "786,871個のエキソームにおける希少なタンパク質コーディング変異の機能的アーキテクチャ",
+    "abstract_ja": "タンパク質コーディングバリアントは、タンパク質に対する構造的・機能的影響の全範囲にわたっており、形質に対しても同様に不均一な影響を及ぼす。その機能的影響は、特に機械学習モデルを用いて予測・分類することが可能であり、これらの予測因子を統合することは遺伝子探索に有益である。しかし、よく知られた構造的特徴や予測された機能的スコアが、ヒトの複雑な形質に対するタンパク質コーディングバリアントの不均一な影響をどのように説明するのかについては、依然として明らかになっていない。本研究では、複数の機能的アノテーションを統合して遺伝子内のアレル効果が共変する様子を記述するカーネルを形成する、カーネルアレルシリーズモデル（KASM）を提案する。本モデルを、UK BiobankおよびAll of Usの26の形質、786,871人の個人からなるエクソームデータに適用し、タンパク質構造を記述しアレル効果を予測する35のアノテーションを統合した。その結果、稀なミスセンスの遺伝率は、平均して少なくとも1.27±0.09%、最も柔軟なモデルでは1.83±0.11%と推定され、pLoFの遺伝率（0.87±0.05%）を上回り、従来推定されていたミスセンス負荷の遺伝率（0.54±0.04%）をはるかに上回ることが明らかになった。AlphaMissenseは単一のミスセンス予測因子として最も濃縮されているが、複合スコアを用いることでその濃縮度は2倍になる。アミノ酸の化学的特徴や構造モチーフから、残基間接触やタンパク質間相互作用界面に至るまで、一連の構造的特徴が遺伝率において濃縮されている。バリアントのペアを検討したところ、ほとんどのミスセンス効果は緩やかな相関を示すが、残基が3次元構造では近接している一方で1次元配列では離れている場合は例外であり、このようなペアは種間でも共変することがわかった。最後に、個々の遺伝子を解析し、PIEZO1の水素結合残基における95倍の濃縮など、機能的仮説を裏付ける遺伝子特異的な濃縮を同定した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2043.v1",
+    "title": "Identification, Expression Analysis, and Functional Characterization of the Main Nitrate Transporter Genes of the NPF, NRT2, and NAR2 Families in the Salt-Tolerant Barley Hordeum marinum Huds",
+    "abstract": "Soil salinization is a widespread abiotic stress factor that significantly limits the growth, development, and productivity of plants. One of the effects of salt stress on plants is a disruption in mineral nutrient uptake, particularly due to the competition between nitrate and chloride anions for the root ion transport systems. In this study, we identified key genes in the salt-tolerant barley Hordeum marinum that regulate nitrate uptake from the soil solution and encode membrane proteins of the NPF, NRT2, and NAR2 families. When the expression profiles of nitrate transporter genes in H. marinum and H. vulgare were compared, differences were found in the response of NPF family genes to the addition of NaCl to the medium: in H. marinum, transcription of the HmNPF6.3B1 gene was significantly induced, whereas the expression level of orthologous genes in H. vulgare was almost independent of the NaCl concentration in the medium. Changes in the expression of nitrate transporter genes are consistent with data on the accumulation of nitrate and chloride anions in the organs of H. marinum and H. vulgare and indicate a greater ability of H. marinum, compared to H. vulgare, to maintain nitrate influx and limit chloride entry under salt stress conditions. Using the bimolecular fluorescence complementation (BiFC) method, the interaction of NRT2 family proteins of H. marinum with the HmNAR2.3 protein was detected, and using a heterologous expression system based on the yeast Ogataea parapolymorpha, the nitrate transport activity of the HmNPF6.3B1 protein was demonstrated.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2043.v1",
+    "date": "2026-10-21",
+    "authors": "Nedelyaeva OI, Khramov DE, Volkov VS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346632",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3995,
+    "collected_at": "2026-11-12T18:19:14.465106+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.20944/preprints202610.2043.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "35857ecff0f38c5b35355105f477b6577beea2fc61eab5bb81fa5b52c73eaf2f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:07:01.106266+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e87267ae73d2947fb97acd0b6b483210efaec414a1d1fc69478b86ee01aa8b42",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:07:01.106266+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "耐塩性大麦Hordeum marinum HudsにおけるNPF、NRT2およびNAR2ファミリーの主要な硝酸輸送体遺伝子の同定、発現解析および機能解析",
+    "abstract_ja": "土壌塩類化は、植物の成長、発達、および生産性を著しく制限する広範な非生物的ストレス要因である。塩ストレスが植物に及ぼす影響の一つに、ミネラル栄養素の吸収障害があり、これは特に根のイオン輸送系における硝酸イオンと塩化物イオンの競合に起因する。本研究では、塩耐性大麦Hordeum marinumにおいて、土壌溶液からの硝酸イオン吸収を調節し、NPF、NRT2、およびNAR2ファミリーの膜タンパク質をコードする主要遺伝子を同定した。H. marinumとH. vulgareにおける硝酸輸送体遺伝子の発現プロファイルを比較したところ、培地へのNaCl添加に対するNPFファミリー遺伝子の応答に差異が認められた。H. marinumではHmNPF6.3B1遺伝子の転写が有意に誘導されたのに対し、H. vulgareにおけるオルソログ遺伝子の発現レベルは、培地中のNaCl濃度にほとんど依存しなかった。硝酸輸送体遺伝子の発現変化は、H. marinumおよびH. vulgareの器官における硝酸イオンおよび塩化物イオンの蓄積に関するデータと一致しており、塩ストレス条件下において、H. vulgareと比較してH. marinumの方が硝酸イオンの流入を維持し、塩化物イオンの侵入を制限する能力が高いことを示している。二分子蛍光相補法（BiFC）を用いて、H. marinumのNRT2ファミリータンパク質とHmNAR2.3タンパク質の相互作用を検出し、さらに酵母Ogataea parapolymorphaに基づく異種発現系を用いて、HmNPF6.3B1タンパク質の硝酸輸送活性を実証した。"
   }
 ]
