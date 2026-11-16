@@ -265120,5 +265120,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "小売鶏肉販売店における現場での屠殺・解体：バングラデシュ・ダッカ管区の食品接触面における大腸菌汚染と薬剤耐性",
     "abstract_ja": "要旨    背景  小売の家禽処理環境は、多剤耐性（MDR）大腸菌（Escherichia coli）の重要なリザーバーとなっており、重大な人獣共通感染症および公衆衛生上のリスクをもたらしている。バングラデシュでは、家禽生産における抗生物質の使用に対する規制上の監視が不十分であり、頻繁かつ無差別な使用が常態化している。これにより、処理面に耐性菌が残存し、ヒトの食品連鎖に侵入する可能性があり、重大な公衆衛生上のリスクとなっている。本研究では、ダッカ管区の小売鶏肉販売店から分離された大腸菌の保有率、薬剤耐性（AMR）プロファイル、および遺伝的決定因子を評価した。方法  2025年7月から10月にかけて、サヴァル、スリープル、およびダムライ・ウパジラの6店舗において、ナイフ、切断台、および解体機から計180検体のスワブサンプルを採取した。大腸菌は選択培養により分離し、VITEK®2を用いて生化学的に確認し、malB遺伝子を標的としたPCRにより分子生物学的に検証した。12種類の抗菌薬に対する感受性をディスク拡散法により判定し、CLSI基準に照らして解釈した。また、分離株に対してPCRを用いてblaOXA-1、sul1、およびsul3のスクリーニングを行った。結果  180検体のうち90検体（50%）から大腸菌が検出され、ナイフの汚染率が最も高く（57.9%）、次いでテーブル（47.6%）、解体機（45.0%）の順であった。耐性はアンピシリン（96%）、トリメトプリム（96%）、アジスロマイシン（93%）、ナリジクス酸（89%）、およびテトラサイクリン（89%）に対して最も高く、メロペネムは分離株の93%に対して活性を示した。スピアマン相関分析の結果、β-ラクタム系抗菌薬間に強い正の相関、β-ラクタム系とアミノグリコシド系の間に中程度の相関、およびシプロフロキサシンとメロペネムの間に負の相関が認められ、調査した分離株において共選択および独立した耐性メカニズムの両方が存在することが示唆された。多重抗生物質耐性（MAR）指数は0.00から0.83の範囲であり、93.3%が0.2を超えており、抗菌薬曝露による有意な選択圧が示されていた。分子生物学的解析により、sul-3（26.7%）およびblaOXA-1（23.3%）が主要な耐性遺伝子であり、分離株の13.3%が複数の決定因子を保有していることが明らかになった。結論  大腸菌は、すべての食品接触面の半数に存在し、器具間で同程度の頻度で認められた。また、ほとんどの分離株が複数の抗菌薬クラスに対して耐性を示していた。汚染は単一の器具に集中せず、解体ステーション全体に分布していたため、単一の品目を対象とした衛生対策では不十分である可能性が高い。表現型耐性とスクリーニングされた遺伝子との乖離は、ゲノム解析による調査が必要なさらなる決定因子が存在することを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11301083/v1",
+    "title": "Germplasm evaluation and different control strategies against Rhizoctonia solani in potato",
+    "abstract": "Abstract    Black scurf and stem canker caused by the soil-borne basidiomycete  Rhizoctonia solani  (teleomorph  Thanatephorus cucumeris  ) remain major constraints to potato production worldwide. This study combined morphological and ITS-based molecular characterisation of  R. solani  isolates from black-scurf-affected tubers in Faisalabad, Pakistan, with screening of 50 potato germplasm entries and comparative evaluation of four chemical fungicides, six plant growth-promoting rhizobacteria (PGPR),  Trichoderma harzianum  and six aqueous plant extracts. Five isolates (Rs1-Rs5) were confirmed as  R. solani  by ITS sequencing and deposited in GenBank (PZ952552-PZ952556). Neighbour-Joining phylogeny placed them within the  R. solani  /  T. cucumeris  clade. Germplasm responses ranged from resistant (FD3536, FD63-1, FD78-36; disease incidence 6–8%) to highly susceptible (Simply Red = 93%).  In vitro  , Cabrio Top and Antracol completely inhibited mycelial growth at 50 and 100 ppm.  Pseudomonas aeruginosa  (OR741775) produced 100% growth inhibition and  P. putida  (PX496465) 89.6–93.6%;  T. harzianum  (PZ955200) gave 45.4–47.8% inhibition in dual culture. Among extracts,  Azadirachta indica  at 15% yielded the highest inhibition (41.9%). In a subsequent pot trial on the susceptible cultivar Kashmir,  P. aeruginosa  ,  P. putida  , Cabrio Top, Antracol, Miravis Duo,  T. harzianum  ,  A. indica  and  Calotropis procera  reduced disease incidence and severity to zero;  P. aeruginosa  and  P. putida  also produced the highest tuber numbers (10 and 9 per plant). Multivariate analyses confirmed the superiority of selected  Pseudomonas  strains. The results identify useful host resistance and effective chemical and biological agents that can contribute to integrated management of potato black scurf.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11301083/v1",
+    "date": "2026-10-23",
+    "authors": "Usman M, Ehetisham-Ul-Haq M, Kamran M, Abbas A, Ahmad U, Ehsan S, Arif UB, Abbas H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348621",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1921,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11301083/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "28a9b2eefdac43bd3a1537b43fb7f72110bff9a132cd270e0f2be3b33ca82f00",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:30:33.801751+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6503b7f49c1229cfeb2113f6684badf104e6505a24c43e30410c1ac87a74de52",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:30:33.801751+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ジャガイモにおけるRhizoctonia solaniの遺伝資源評価と各種防除戦略",
+    "abstract_ja": "要旨    土壌伝染性担子菌類Rhizoctonia solani（テレオモルフ：Thanatephorus cucumeris）による黒皮病および茎がん腫は、依然として世界的なジャガイモ生産における主要な制約要因となっている。本研究では、パキスタンのファイサラーバードにおける黒皮病罹患塊茎から得られたR. solani分離株の形態学的およびITSに基づく分子特性解析を、50系統のジャガイモ遺伝資源のスクリーニング、ならびに4種類の化学殺菌剤、6種類の植物成長促進根圏細菌（PGPR）、Trichoderma harzianum、および6種類の植物水抽出液の比較評価と組み合わせた。5つの分離株（Rs1-Rs5）がITSシーケンシングによりR. solaniであることが確認され、GenBank（PZ952552-PZ952556）に登録された。近縁接合系統解析により、これらはR. solani / T. cucumerisクレードに分類された。遺伝資源の反応は、抵抗性（FD3536, FD63-1, FD78-36；発病率6–8%）から高度感受性（Simply Red = 93%）まで多岐にわたった。in vitroにおいて、Cabrio TopおよびAntracolは50および100 ppmで菌糸増殖を完全に抑制した。Pseudomonas aeruginosa（OR741775）は100%の増殖抑制を、P. putida（PX496465）は89.6–93.6%の増殖抑制を示し、T. harzianum（PZ955200）は二重培養において45.4–47.8%の抑制を示した。抽出液の中では、Azadirachta indica（15%）が最高の抑制率（41.9%）を示した。その後、感受性品種Kashmirを用いたポット試験において、P. aeruginosa、P. putida、Cabrio Top、Antracol、Miravis Duo、T. harzianum、A. indica、およびCalotropis proceraは、発病率および病害重症度をゼロまで低減させた。また、P. aeruginosaおよびP. putidaは最多の塊茎数（1株あたり10個および9個）を示した。多変数解析により、選定したPseudomonas株の優位性が確認された。本結果は、ジャガイモ黒皮病の統合的管理に寄与し得る有用な宿主抵抗性、および効果的な化学的・生物学的薬剤を特定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761390",
+    "title": "Ancestral Quadruplication of Protein Kinase R in Tarsiers Hints Towards Novel Primate-Virus Innovations",
+    "abstract": "Tarsiers, an elusive family of primates found in Indonesia and the Philippines, sit at an essential point in primate evolution, with their divergence between that of Strepsirrhini (lemurs) and Simiiformes (monkeys and apes). Through homology searches, we have discovered that tarsiers carry the first known case in primates of a gene expansion of protein kinase R (PKR), a kinase involved in the response to viral infection. PKR was quadruplicated in the ancestor of tarsiers and has been maintained since then in all sequenced tarsier species. The extra copies lack the double-stranded RNA (dsRNA) binding domains necessary for detecting viral infection yet largely maintain the residues necessary for the kinase function that carries out PKR’s antiviral function. We show that three of the four PKR copies indeed maintain kinase activity, one of which appears to be resistant to the viral PKR antagonist K3 from vaccinia virus. Our analyses of site and branch-site positive selection reveal that the tarsier PKRs are under positive selection. We propose that these extra copies could serve as a diversification strategy to bypass viral inhibitors that bind PKR’s kinase domain, or they could alternatively serve as decoys that shield the canonical PKR from viral inhibition. This is the first instance of mammal PKR duplicates lacking dsRNA-binding domains and may highlight an innovation in an ancient, long-standing molecular arms race between viruses and a close relative of humans.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761390",
+    "date": "2026-10-23",
+    "authors": "Heneghan PG, Grieve TR, Sadhu MJ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350458",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 2629,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.761390"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ca0bef851c24bb9a5d539c33aa1e50da508c4887ac93304d717bd6d42c4fba04",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:30:33.801751+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c5f413621891dd28bd5fef59a7a6a82c35ea04b65e2bf26f88eeb3c40a01c893",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:30:33.801751+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メガネザルにおけるプロテインキナーゼRの祖先的な四重化は、霊長類ウイルスの新たな革新を示唆している",
+    "abstract_ja": "インドネシアおよびフィリピンに生息する、捉えどころのない霊長類の一科であるメガネザルは、曲鼻類（キツネザル類）と猿形目（サル類および類人猿類）の分岐点という、霊長類の進化における極めて重要な位置を占めている。相同性解析を通じて、我々はメガネザルが、ウイルス感染への応答に関与するキナーゼであるプロテインキナーゼR（PKR）の遺伝子拡張を、霊長類において初めて持つことを突き止めた。PKRはメガネザルの祖先において4コピー化され、それ以降、配列が決定されたすべてのメガネザル種において維持されてきた。これらの追加コピーは、ウイルス感染の検出に必要な二本鎖RNA（dsRNA）結合ドメインを欠いているが、PKRの抗ウイルス機能を担うキナーゼ機能に必要な残基は概ね保持している。我々は、4つのPKRコピーのうち3つが実際にキナーゼ活性を維持しており、そのうちの1つはワクシニアウイルス由来のウイルス性PKRアンタゴニストK3に対して耐性を持つようであることを示す。部位選択および分岐選択の解析により、メガネザルのPKRが正の選択を受けていることが明らかになった。我々は、これらの追加コピーが、PKRのキナーゼドメインに結合するウイルス性阻害因子を回避するための多様化戦略として機能しているか、あるいは、正準PKRをウイルス性阻害から保護するデコイとして機能している可能性を提案する。これは、dsRNA結合ドメインを欠く哺乳類PKR重複コピーの初の事例であり、ウイルスとヒトの近縁種との間で古くから繰り広げられてきた分子軍拡競争における革新を浮き彫りにしている可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2277.v1",
+    "title": "A Review of Rhizosphere Processes, Plant Performance and Production Trade‑Offs in Soil Versus Solid‑Substrate Cultivation of Greenhouse Strawberry (Fragaria × ananassa)",
+    "abstract": "Strawberry (Fragaria × ananassa) is an economically important berry crop in protected horticulture, mainly produced through soil‑based and solid‑substrate soilless systems. Soil cultivation possesses strong physicochemical buffering and abundant indigenous microbial resources, but suffers from continuous cropping obstacles including soil degradation and soil‑borne pathogen accumulation. Solid‑substrate cultivation can isolate soil‑borne pathogens and enables precise rhizosphere manipulation; however, it is constrained by low buffering capacity, unstable microbial assembly, peat‑related ecological costs, and waste‑substrate disposal risks. This review builds a unified analytical framework centered on the cascade \"medium physicochemical properties – microbial community – extracellular enzymes – root physiology – yield‑quality performance\" and clarifies the conceptual boundaries among soil cultivation, solid‑substrate cultivation, and hydroponics. We analyze the sources of heterogeneity across published results, including cultivar genotype, medium properties, water‑fertilizer management, growth stage, and analytical methodology. Most existing evidence is correlational, whereas rigorous causal manipulation experiments remain scarce, which explains why no universal consensus has been reached on the relative superiority of the two production modes. Key research gaps include fragmented rhizospheric mechanism research, lack of cross‑study standardized experimental conditions, insufficient normalization of enzyme and microbiome datasets, and a shortage of long‑term multi‑objective field assessments. We highlight that microbial–functional decoupling frequently occurs in both soil and solid‑substrate systems, indicating that microbial community composition alone cannot represent real rhizosphere biogeochemical processes. Based on evidence synthesis, differentiated optimization strategies are proposed: soil systems should prioritize soil‑health restoration, whereas solid‑substrate systems need peat‑substitute development, microbial–habitat compatible inoculation, and substrate circular regeneration. Shared future directions cover in‑situ rhizosphere sensing, causal validation experiments, and multi‑objective evaluation balancing yield, fruit quality, resource cost, and environmental footprints. This review provides theoretical references for sustainable protected strawberry production.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2277.v1",
+    "date": "2026-10-23",
+    "authors": "Zha Y, Hu S, Liu A, Li C, Lai W, Li X, Wang J, Yu H, Xiao W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349864",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2630,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2277.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "71763bb654ccb115b3ad6dd52f4d8d2a52285cf076dc160369b8dbe667ac9542",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:30:33.801751+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7a177654911b33c89963eae06a6992af23aacc059cc7f9520e5e786ffd47a7c6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:30:33.801751+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "温室イチゴ（Fragaria × ananassa）の土壌栽培と固形培地栽培における根圏プロセス、植物の生育および生産上のトレードオフに関する総説",
+    "abstract_ja": "イチゴ（Fragaria × ananassa）は、施設園芸において経済的に重要なベリー類作物であり、主に土壌ベースおよび固形基質を用いた無土壌システムで生産されている。土壌栽培は強力な物理化学的緩衝能と豊富な在来微生物資源を有する一方で、土壌劣化や土壌伝染性病原体の蓄積といった連作に伴う課題を抱えている。固形基質栽培は、土壌伝染性病原体を隔離し、根圏の精密な操作を可能にするが、緩衝能の低さ、微生物群集の不安定性、泥炭に関連する生態学的コスト、および廃基質処分のリスクという制約がある。本総説では、「培地の物理化学的特性 － 微生物群集 － 細胞外酵素 － 根の生理機能 － 収量・品質性能」というカスケードを中心とした統一的な分析枠組みを構築し、土壌栽培、固形基質栽培、および水耕栽培の間の概念的な境界を明確にする。我々は、栽培品種の遺伝子型、培地特性、水・肥料管理、生育段階、および分析手法を含む、既報の結果における不均一性の要因を分析する。既存のエビデンスの多くは相関的なものであり、厳密な因果関係の操作実験は依然として不足している。このことが、2つの生産方式の相対的な優位性について普遍的な合意が得られていない理由である。主要な研究上の空白としては、根圏メカニズム研究の断片化、研究間の標準化された実験条件の欠如、酵素およびマイクロバイオームデータセットの正規化不足、そして長期的な多目的フィールド評価の不足が挙げられる。我々は、土壌系と固形基質系の双方において微生物－機能のデカップリングが頻繁に起こることを強調し、微生物群集の組成だけでは実際の根圏生物地球化学的プロセスを表現できないことを示す。エビデンスの統合に基づき、個別の最適化戦略を提案する。すなわち、土壌系では土壌健全性の回復を優先すべきであり、一方で固形基質系では泥炭代替材の開発、微生物生息環境に適合した接種、および基質の循環再生が必要である。共通の今後の方向性としては、in-situ根圏センシング、因果検証実験、および収量、果実品質、資源コスト、環境負荷のバランスを考慮した多目的評価が挙げられる。本総説は、持続可能な施設イチゴ生産のための理論的な指針を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2344.v1",
+    "title": "Hydrogels in Pharmacy and Medicine: An Illustrated Review of Preparation Methods, Process Control and Drug Delivery Applications",
+    "abstract": "Hydrogels, three-dimensional hydrophilic polymer networks that can imbibe large volumes of water or biological fluids without dissolving, have become one of the most versatile platforms in pharmaceutical and biomaterial science. Their high water content, soft tissue-like mechanics, biocompatibility and tunable network architecture allow them to be engineered as topical, ophthalmic, mucosal, oral and injectable dosage forms and as scaffolds for regenerative medicine. This illustrated review provides a critical, practice-oriented account of the field, with particular emphasis on how hydrogel dosage forms are prepared. Physical cross-linking methods (ionic gelation, polyelectrolyte complexation, thermoresponsive gelation, freeze–thaw cycling and supramolecular assembly) and chemical cross-linking methods (free-radical and photo-initiated polymerization, small-molecule cross-linkers, click and dynamic covalent chemistries, and enzyme-mediated and radiation cross-linking) are examined in terms of their mechanisms, typical materials and conditions, critical process parameters, advantages and limitations. The preparation of conventional pharmaceutical gels based on carbomers, cellulose ethers, poloxamers and polysaccharides is described step by step, together with drug-loading strategies, processing into beads, micro- and nanogels, films, sponges, microneedles and printed constructs, and a troubleshooting guide for the most frequent formulation failures. Advanced architectures that overcome the intrinsic weakness of conventional networks, including hybrid, interpenetrating, nanocomposite, double-network and Tetra-PEG hydrogels, are then discussed, followed by the characterization and quality-control methods needed to establish critical quality attributes such as gel fraction, swelling and mesh size, rheology, morphology, release kinetics, stability, microbiological quality and biocompatibility. The review subsequently analyzes drug release mechanisms, route-specific delivery strategies, stimuli-responsive and hierarchical systems, the selection of drug candidates with reference to physicochemical properties and the Biopharmaceutics Classification System, and applications in tissue engineering and wound care. Finally, clinically approved products and the main translational barriers, namely mechanical fragility, burst release, residual reagents, sterilization, batch-to-batch variability and regulatory classification, are critically evaluated to identify realistic routes towards next-generation, clinically useful hydrogel dosage forms.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2344.v1",
+    "date": "2026-10-23",
+    "authors": "Ramesh KA, Mawazi SM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349791",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2631,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2344.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "512dbca59ed623fcf8d0fabdd2efffe9c175745a9fad708637f2c3951e1a33b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:30:33.801751+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aadbc1ca0763b5f251cbb03c5140d177b6ca0aaa5a96f894c7f9017581fc68fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:30:33.801751+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "薬学・医学におけるハイドロゲル：調製方法、プロセス制御および薬物送達への応用に関する図解レビュー",
+    "abstract_ja": "溶解することなく大量の水や生体液を取り込むことができる三次元親水性ポリマーネットワークであるハイドロゲルは、医薬品およびバイオマテリアル科学において最も汎用性の高いプラットフォームの一つとなっている。その高い含水率、軟組織のような力学特性、生体適合性、および調整可能なネットワーク構造により、外用、眼科用、粘膜用、経口および注射用製剤、ならびに再生医療用スキャフォールドとして設計することが可能である。本解説付き総説では、本分野について、特にハイドロゲル製剤の調製方法に重点を置いた、実践的かつ重要な考察を行う。物理的架橋法（イオンゲル化、ポリ電解質錯形成、熱応答性ゲル化、凍結融解サイクル、および超分子集合）および化学的架橋法（フリーラジカルおよび光開始重合、低分子架橋剤、クリックおよび動的共有結合化学、ならびに酵素介在性および放射線架橋）について、そのメカニズム、代表的な材料と条件、重要なプロセスパラメータ、利点および限界の観点から検討する。カルボマー、セルロースエーテル、ポロキサマー、および多糖類をベースとした従来の医薬品ゲルの調製について、薬物担持戦略、ビーズ、マイクロ・ナノゲル、フィルム、スポンジ、マイクロニードル、およびプリント構造体への加工、ならびに最も頻繁に発生する製剤失敗に対するトラブルシューティングガイドとともに、段階的に記述する。次いで、ハイブリッド、相互貫通型、ナノ複合体、二重ネットワーク、およびテトラPEGハイドロゲルなど、従来のネットワーク固有の弱点を克服した高度な構造について論じ、続いて、ゲル分率、膨潤およびメッシュサイズ、レオロジー、形態、放出動態、安定性、微生物学的品質、および生体適合性といった重要な品質特性を確立するために必要な特性評価および品質管理法について述べる。その後、薬物放出メカニズム、経路特異的なデリバリー戦略、刺激応答性および階層型システム、物理化学的特性およびバイオ医薬品分類システム（Biopharmaceutics Classification System）を参照した薬物候補の選定、ならびに組織工学および創傷ケアへの応用について分析する。最後に、臨床承認済み製品および主要なトランスレーショナルバリア、すなわち機械的脆弱性、バースト放出、残留試薬、滅菌、バッチ間変動、および規制上の分類について批判的に評価し、次世代の臨床的に有用なハイドロゲル製剤に向けた現実的な道筋を明らかにする。"
   }
 ]
