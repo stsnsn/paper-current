@@ -273745,5 +273745,347 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "スラッシュパインのゲノム予測におけるアソシエーションに基づくマーカー事前選抜の形質特異的な利点",
     "abstract_ja": "要旨    スラッシュパイン（Pinus elliottii Engelm. var. elliottii）は、主要な樹脂生産針葉樹および多目的産業樹種であり、海軍備蓄品やバイオベース化学産業向けのロジンおよびテレピン油、ならびに木材やパルプの再生可能資源として高く評価されている。しかし、成長、木材品質、オレオレジン収量、および樹脂化学の同時的な改良は、長い世代間隔と発現遅延型形質によって制約を受けている。トランスクリプトーム由来の53,229個のSNPを用いてジェノタイピングした240本の開放受粉樹を用い、12の形質に関するマーカー関連性を特性評価するとともに、GWAS、SNPランキング、QTNの発見、および訓練フォールドに限定したモデルフィッティングによりゲノム選抜（GS）を評価した。訓練フォールドのGWASでは、形質クラス間で関連パターンに差異が認められた。成長形質では最も強く反復的な関連が、木材品質形質では中程度のシグナルが、オレオレジン形質ではより弱く不安定な関連が認められた。有意、大効果、および反復的なQTNタグ付きトランスクリプトのアノテーションは、ヌクレオチドおよびRNAプロセシング、呼吸エネルギーおよび細胞壁前駆体供給、ならびに脂質-テルペノイド代謝に集約され、成長、木材形成、および樹脂生理学に関する仮説を提示した。フォールド包含型GWASの出力をマーカー事前分布として用いたところ、モデル平均予測能は成長において11.9%向上し、これは木材品質の2.2%の向上の5倍以上に相当したが、オレオレジン形質では改善が見られなかった。胸高直径および樹高で選択した構成では、PA値はそれぞれ0.493および0.365となり、単一のGSモデルが全形質において支配的となることはなく、固定された大効果または反復的なQTN共変量が、固定されたQTN効果なしに最適化されたゲノムベースラインを上回ることは稀であった。このことは、検証した構成下において、これらの共変量の追加的な予測価値が限定的であることを示唆している。GS選抜によるエリートセットは、同一サイクルの表現型-BLUPベンチマーク利得の80.3–95.1%を維持した。15年の従来サイクルおよび7年のGSサイクルを想定すると、年換算で1.7–2.0倍のベンチマーク優位性が得られると予測された。これらの結果は、スラッシュパインにおける形質特異的なGWASに基づく予測のさらなる評価を支持するものである。モデル選択には交差検証の結果を再利用したが、独立した系統、地点、および世代の検証が必要である。実現した育種利得は測定されていない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760778",
+    "title": "NuFold RNA Structure Database: Large-Scale RNA Tertiary Structure Prediction with Confidence Metrics",
+    "abstract": "Summary  To bridge the gap between rapid RNA sequence discovery and slow experimental characterization, we present the NuFold RNA Structure Database (  https://nufold.kiharalab.org/ ), a resource providing large-scale, precomputed full-atom RNA tertiary structures. By removing the computational barriers associated with running the method locally, this database makes high-accuracy RNA structure models readily accessible to the biological research community for a wide range of applications.  Availability and implementation  All predicted structures and corresponding data are available at  https://nufold.kiharalab.org/ . The source code for the NuFold program is available at  https://github.com/kiharalab/NuFold .  Supplementary Information  For more insight into resulting statistics gathered for this project, see  https://nufold.kiharalab.org/statistics . For more insight into how to utilize the webserver itself, see  https://nufold.kiharalab.org/faq and  https://nufold.kiharalab.org/tutorial .",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760778",
+    "date": "2026-10-22",
+    "authors": "Platt D, Kagaya Y, Kihara D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349320",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "database",
+        "prediction",
+        "resource",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "database",
+          "prediction",
+          "resource",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4671,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.21.760778"
+    ],
+    "translation": {
+      "title": {
+        "hash": "09816ed8b4d0604a3fe795606e0af7171922a26b4585e347b902e24f2feb15e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:17:15.897969+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "63c064ecf81aeb11513f89122170a762957ca0bc84e76a747b7370a517bddbf9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:17:15.897969+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NuFold RNA構造データベース：信頼度指標を用いた大規模RNA三次構造予測",
+    "abstract_ja": "概要  迅速なRNA配列の発見と時間のかかる実験的特性解析との間のギャップを埋めるため、大規模な事前計算済み全原子RNA三次構造を提供するリソースであるNuFold RNA Structure Database（https://nufold.kiharalab.org/）を提案する。本データベースは、本手法をローカルで実行する際の計算上の障壁を取り除くことで、幅広い用途において、生物学研究コミュニティが高精度なRNA構造モデルを容易に利用できるようにする。  利用可能性と実装  予測されたすべての構造および対応するデータは、https://nufold.kiharalab.org/ で利用可能である。NuFoldプログラムのソースコードは、https://github.com/kiharalab/NuFold で公開されている。  補足情報  本プロジェクトで収集された統計結果の詳細については、https://nufold.kiharalab.org/statistics を参照されたい。ウェブサーバー自体の利用方法の詳細については、https://nufold.kiharalab.org/faq および https://nufold.kiharalab.org/tutorial を参照されたい。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11133435/v1",
+    "title": "General-Purpose Vision Models to Dermatology-Specific Foundation Models: Comparative Evaluation for Facial Skin Disease Classification",
+    "abstract": "Abstract  Skin diseases represent a major global health burden, while access to dermatological expertise remains limited in many rural and resource-constrained settings. These disparities have increased interest in scalable digital tools for dermatological assessment and patient education. However, trustworthy clinical AI requires reproducible evaluation, standardized benchmarking, transparent reporting of failure patterns, and assessment of model robustness across different representations and classification strategies. This study presents a systematic transfer-learning framework for six-class facial skin disease classification, comparing seven pretrained visual representations comprising ResNet50, MobileNetV3-Large, ViT-B/16, Swin-T, DINOv2, DermLIP and Derm Foundation, under a common downstream classification framework. XGBoost was used as the primary downstream classifier, while an RBF-kernel support vector machine (SVM) was additionally evaluated as an ablation analysis to investigate the dependence of classification performance on downstream classifier selection. Performance was assessed using accuracy, macro-F1, macro-AUROC, per-class recall, confusion matrices, and bootstrap-derived 95% confidence intervals, with paired McNemar testing and Holm correction used to compare classifier. Derm Foundation achieved the highest performance among the evaluated feature representations when combined with XGBoost, obtaining 88.17% accuracy, 88.05% macro-F1, and 98.58% macro-AUROC on the testing set. At the class level, recall was 94.5% for acne, 87.0% for atopic dermatitis, 100.0% for normal skin, 90.5% for psoriasis, 84.0% for rosacea, and 73.0% for seborrheic dermatitis. Classifier comparisons showed that the relative performance of XGBoost and RBF-SVM depended on the underlying feature representation. The principal residual classification difficulty involved seborrheic dermatitis, particularly its reciprocal confusion with rosacea. To demonstrate technical feasibility, the classification framework was integrated into a prototype Django-based web application architecture featuring an exploratory LLM module for automated patient-education content translation. Preliminary, descriptive specialist feedback was gathered to identify future engineering optimization constraints, such as inference latency and communication mechanics. These findings are limited to the evaluated testing dataset and do not establish external generalizability or clinical efficacy.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11133435/v1",
+    "date": "2026-10-22",
+    "authors": "Okpete UE, Mozumder MAI, Nnyigide OS, Byeon H, Kim H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347902",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "classification",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "classification",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4672,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.21203/rs.3.rs-11133435/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d5418fc2a98b24276c5bceeaa28ccf0fd616b85bb5780aee45bfc64db8b91708",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:17:15.897969+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aedcf223c6c28070e152684e423bd7f395a7a98b6426d0e43112097c09caa997",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:17:15.897969+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "汎用ビジョンモデルから皮膚科特化型基盤モデルへ：顔面皮膚疾患分類における比較評価",
+    "abstract_ja": "要旨　皮膚疾患は世界的に重大な健康負荷となっている一方で、多くの農村地域や資源の限られた環境では、皮膚科の専門知識へのアクセスが依然として限られている。こうした格差により、皮膚科的評価および患者教育のためのスケーラブルなデジタルツールへの関心が高まっている。しかし、信頼性の高い臨床AIを実現するには、再現可能な評価、標準化されたベンチマーク、失敗パターンの透明性の高い報告、および異なる表現形式や分類戦略にわたるモデルの頑健性評価が必要である。本研究では、6クラスの顔面皮膚疾患分類のための体系的な転移学習フレームワークを提案し、共通のダウンストリーム分類フレームワークの下で、ResNet50、MobileNetV3-Large、ViT-B/16、Swin-T、DINOv2、DermLIP、およびDerm Foundationからなる7種類の事前学習済み視覚表現を比較する。主要なダウンストリーム分類器としてXGBoostを使用し、さらに、分類性能がダウンストリーム分類器の選択に依存するかどうかを調査するためのアブレーション分析として、RBFカーネルサポートベクターマシン（SVM）を評価した。性能評価には、正解率、マクロF1、マクロAUROC、クラス別再現率、混同行列、およびブートストラップ法による95%信頼区間を用い、分類器の比較には対応のあるマクネマー検定とホルム補正を用いた。評価した特徴表現の中では、Derm FoundationをXGBoostと組み合わせた場合に最高の性能が得られ、テストセットにおいて正解率88.17%、マクロF1 88.05%、マクロAUROC 98.58%を記録した。クラスレベルでは、再現率は痤瘡で94.5%、アトピー性皮膚炎で87.0%、正常皮膚で100.0%、乾癬で90.5%、酒さで84.0%、脂漏性皮膚炎で73.0%であった。分類器の比較により、XGBoostとRBF-SVMの相対的な性能は、基盤となる特徴表現に依存することが示された。主要な残差分類の困難さは脂漏性皮膚炎、特に酒さとの相互混同に起因していた。技術的な実現可能性を実証するため、本分類フレームワークを、患者教育コンテンツの自動翻訳用探索的LLMモジュールを備えたDjangoベースのプロトタイプWebアプリケーションアーキテクチャに統合した。推論レイテンシや通信メカニズムなど、今後のエンジニアリング上の最適化制約を特定するため、専門家からの予備的な記述的フィードバックを収集した。これらの知見は評価に用いたテストデータセットに限定されるものであり、外部への一般化可能性や臨床的有効性を確立するものではない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.15.758670",
+    "title": "CnidoSite: A Multi-Omics Database for Cnidarians",
+    "abstract": "The phylum Cnidaria, encompassing reef-building corals, sea anemones, hydroids, and jellyfish, includes both ecological keystones of the marine biosphere and indispensable models for reconstructing early animal evolution. However, escalating ocean warming, recurrent mass coral bleaching events, and intensifying jellyfish blooms have underscored the urgent need to dissect the molecular underpinnings of cnidarian thermal tolerance, symbiosis, and environmental adaptation. Progress in cnidarian research is hindered by the lack of centralized, high-quality multi-omics resources. To address this, we present CnidoSite (https://CnidoSite.org), a comprehensive, analysis-ready multi-omics platform dedicated to Cnidaria. Spanning 327 species across 120 families, 23 orders, and 7 classes, it integrates 147 full-annotated genomes, 15,642 bulk transcriptomes, 50 single-cell datasets, 46 proteomes, 723 epigenomes, 1,650 metagenomic samples, and 180,652 phenotype records. Complemented by advanced toolkits for multidimensional functional and comparative analyses, CnidoSite provides extensive functional genomic resources, including genome assemblies, phylogenies, fossil entries, functional annotations, BUSCO assessments, and mitochondrial annotations. Key features include 29 co-expression networks with cross-tissue visualization and single-cell atlases to map developmental trajectories and stress responses. In summary, CnidoSite serves as a centralized platform that bridges cnidarian biology, marine conservation, and evolutionary genomics to investigate coral bleaching, symbiosis breakdown, jellyfish blooms, and the mechanisms driving environmental adaptation.",
+    "journal": "",
+    "doi": "10.64898/2026.10.15.758670",
+    "date": "2026-10-21",
+    "authors": "She J, Jiang C, Fan J, Qian P, Wu L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347183",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 35,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.15.758670"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e85cf2bd416569d690d6e847e72a730fdbb688521ef419c486c8e0618b1b0a46",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:17:15.897969+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "29f4a4c5e50e98cd64bc11760691e00cf1c395030a5f15e8cc87fdc6ce305cd2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:17:15.897969+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CnidoSite: 刺胞動物のマルチオミクスデータベース",
+    "abstract_ja": "造礁サンゴ、イソギンチャク、ヒドロ虫類、クラゲを包含する刺胞動物門は、海洋生物圏の生態学的キーストーンであるとともに、初期動物進化を再構築する上で不可欠なモデルでもある。しかし、海洋温暖化の進行、繰り返される大規模なサンゴ白化現象、そしてクラゲの大量発生の激化により、刺胞動物の耐熱性、共生、および環境適応の分子基盤を解明する緊急の必要性が浮き彫りとなっている。刺胞動物研究の進展は、一元化された高品質なマルチオミクスリソースの不足によって妨げられている。この課題に対処するため、我々は刺胞動物に特化した、解析準備が整った包括的なマルチオミクスプラットフォームであるCnidoSite（https://CnidoSite.org）を提案する。120科、23目、7綱にわたる327種を網羅し、147件の完全アノテーション済みゲノム、15,642件のバルクトランスクリプトーム、50件の単細胞データセット、46件のプロテオーム、723件のエピゲノム、1,650件のメタゲノムサンプル、および180,652件の表現型レコードを統合している。多次元的な機能解析および比較解析のための高度なツールキットによって補完されたCnidoSiteは、ゲノムアセンブリ、系統樹、化石エントリ、機能アノテーション、BUSCO評価、およびミトコンドリアアノテーションを含む広範な機能ゲノミクスリソースを提供する。主な特徴として、組織横断的な可視化を備えた29の共発現ネットワークや、発生軌跡およびストレス応答をマッピングするための単細胞アトラスが挙げられる。要約すると、CnidoSiteは、刺胞動物生物学、海洋保全、および進化ゲノミクスを橋渡しし、サンゴの白化、共生の破綻、クラゲの大量発生、および環境適応を駆動するメカニズムを調査するための一元化されたプラットフォームとして機能する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760052",
+    "title": "Biosurfactant production under cold-saline stress is a strain specific trait independent from phylogeny and biosynthetic gene content",
+    "abstract": "Microbial genomes code for far more biosynthetic potential than a single cell typically expresses, but the environmental and cellular controls that determine whether the latent capacity is realised remain poorly understood. Biosurfactants, surface-active metabolites proposed to aid survival in cold and saline habitats, exemplify this gap: capacity is often inferred from genomes or detected chemically, but is rarely linked to the specific conditions that stimulate its production in the same organisms. Here we combine whole-genome sequencing, untargeted LC-MS/MS metabolomics, and quantitative surface-tension assays across 25 bacterial isolates isolated from the cold, hypersaline Qaidam Basin (a terrestrial analogue for ancient Mars) and contrasting marine environments. We show that biosurfactant production is not a fixed lineage trait but a regulated, strain-specific response that emerges under combined cold and salt stress. This response is structured into three tiers: genomic capacity defines the accessible chemical space; the genomic complement of pathway-regulator genes tracks responsiveness; strain-level physiological state determines realised output. Regulatory-gene content, rather than biosynthetic-cluster count, predicted surfactant production across strains. Production was amplified by low temperature and high salinity and showed little phylogenetic signal, with near-clonal strains differing in their stress-response. These findings reshape biochemical adaptation in extreme environments as a problem of conditional activation, not only of genomic potential, but of cellular systems that permit its expression, which requires looking beyond biosynthetic-gene content to the cellular factors that determine whether that potential is expressed.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760052",
+    "date": "2026-10-21",
+    "authors": "Ullah H, Han Z, Lau Vetter MCY.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348530",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 133,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.760052"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a5d1163ac3689448cced469d5ab0ea90b9b9bf571c36bd0c279ad4da4916af02",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:17:15.897969+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2c463745959a60a12be6ea7d5f48e74148124b3602fa953525b2fba74ef4779f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:17:15.897969+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "低温・高塩ストレス下における生体界面活性剤の産生は、系統や生合成遺伝子構成に依存しない菌株特異的な形質である。",
+    "abstract_ja": "微生物ゲノムは、単一細胞が通常発現させるよりもはるかに広範な生合成能をコードしているが、その潜在能力が実現されるか否かを決定づける環境的・細胞的な制御機構については、依然として十分に解明されていない。寒冷かつ高塩分な生息環境における生存を助けるとされる表面活性代謝物は、この知見の空白を象徴している。すなわち、その能力は多くの場合、ゲノムから推定されるか化学的に検出されるが、同一生物体内でその産生を刺激する特定の条件と結び付けられることは稀である。本研究では、寒冷かつ高塩分なカイダム盆地（古代火星の陸上類似環境）および対照的な海洋環境から単離した25株の細菌分離株を対象に、全ゲノムシーケンシング、非標的型LC-MS/MSメタボロミクス、および定量的表面張力アッセイを組み合わせた。その結果、バイオサーファクタントの産生は固定的な系統形質ではなく、寒冷と塩分の複合ストレス下で現れる、調節された株特異的な応答であることが示された。この応答は3つの階層で構成されている。すなわち、ゲノム上の能力が利用可能な化学空間を規定し、経路調節遺伝子のゲノム構成が応答性を追跡し、株レベルの生理的状態が実際の産生量を決定する。バイオ合成クラスター数ではなく、調節遺伝子の含有量が、株間におけるサーファクタント産生を予測した。産生は低温および高塩分によって増幅され、系統発生的なシグナルはほとんど見られず、ほぼクローン的な株間でもストレス応答に差異が認められた。これらの知見は、極限環境における生化学的適応を、単にゲノム上の潜在能力だけでなく、その発現を可能にする細胞システムの条件付き活性化という問題として捉え直すものであり、そのためにはバイオ合成遺伝子の含有量にとどまらず、その潜在能力が発現するかどうかを決定づける細胞因子に着目する必要がある。"
   }
 ]
