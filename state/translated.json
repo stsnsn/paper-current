@@ -282060,5 +282060,331 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "コーディング不要のオーダーメイド型解剖学教育：AI駆動型シミュレーション生成の概念実証",
     "abstract_ja": "要旨　インタラクティブなデジタルリソースは解剖学教育において広く活用されているが、その開発には通常、プログラミングの専門知識や商用ソフトウェアが必要であり、既存のリソースが教育者の具体的な指導要件を満たさない場合がある。現在、大規模言語モデル（LLM）は対話型プロンプトから機能的なウェブコードを生成することが可能となっており、プログラミング経験のない教育者が自らインタラクティブなシミュレーションを作成できる可能性が開かれている。LLMを個別指導や評価補助としてではなく、解剖学教育のためのシミュレーション生成に活用する手法については、まだ十分に研究されていない。本短報は、3つのLLMプラットフォーム（OpenAI Codex、Google Gemini、Anthropic Claude）にレビュー済みの解剖学コンテンツを提供し、ブラウザベースのインタラクティブなシミュレーションを生成させた概念実証（PoC）ワークフローである。脳神経病変の検査、瞳孔光反射および角膜反射、外眼筋検査、視野欠損、脊髄症候群、ウィリス輪、および尿道括約筋機能系を網羅する、単一ファイル形式のHypertext Markup Language（HTML）シミュレーションを10件作成した。これらのシミュレーションには、AI（人工知能）によって生成された解剖学的画像、調整可能な病変パラメータ、およびシナリオベースの臨床推論が組み込まれている。AIは、左右の向きの混同、顔面部位の不正確な配置、および指示通りにコードを修正せず時折画像を生成するといった誤りを繰り返したため、正確な結果を得るには反復的な改良が必要であった。これらの課題により、最終的な出力が意図した要件を満たすよう、複数回の修正と慎重な人的監視が行われた。医学科2年生の同僚、Oxford AI Build club、ラーニング・テクノロジスト、およびティーチング・デモンストレーターによる予備的なシミュレーション評価とコメントは、明快さとエンゲージメントの点で肯定的であったが、学習成果に関する正式な学生評価はまだ実施されていない。本研究では、LLMが構造化された解剖学的知識を機能的なインタラクティブ解剖学シミュレーションに変換でき、再現可能なワークフローを提示できると結論付けるとともに、専門家によるレビューが依然として不可欠であることを強調する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760377",
+    "title": "PhyloScore: Improved covariation score for RNA alignments using phylogeny",
+    "abstract": "Motivation  Structured RNAs can carry out complex biological functions similar to proteins, but our understanding of RNA structure and function lags far behind that of proteins. Covariation signals arising from RNA evolution can be recovered from sequence alignments and provide valuable insights into structure and function. However, such signals can also arise purely as a result of phylogenetic relatedness. We aimed to develop a method which can make use of the phylogenetic tree to distinguish better between real and false signal. Results  PhyloScore predicts the manually curated secondary structure annotations in Rfam more accurately than the best currently used scores. On 48 Rfam families with experimentally determined structures, PhyloScore increases the mean average precision for recovering the annotated base pairs from 0.679 (R-scape’s APC-corrected G-test) to 0.714 under cross-validation, and improves 41 of the 48 families. Its p-values are discriminative across families, making them valuable for testing whether a non-coding RNA has a conserved structure. Availability  PhyloScore is available as a pip package  “phylo_score” under MIT Licence. The code repository is at  https://github.com/soedinglab/phylo_score . The version described in this paper, including test data, is archived at  https://doi.org/10.5281/zenodo.23401723",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760377",
+    "date": "2026-10-21",
+    "authors": "Lieser B, Söding J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348533",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "alignment",
+        "phylogeny"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4034,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.20.760377"
+    ],
+    "translation": {
+      "title": {
+        "hash": "133b9e2f9166e881583c0f9e4c0ba1dd82c710f89c16a77cb2ca2975fc071daa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:04:43.708937+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "356e219bca154a3d725a05cbb7aaeab9a19498371f3f04a8ab3d45ea3c0a696b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:04:43.708937+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PhyloScore: 系統樹を用いたRNAアライメントの共変量スコアの改良",
+    "abstract_ja": "動機  構造化RNAは、タンパク質と同様に複雑な生物学的機能を果たし得るが、RNAの構造と機能に関する理解はタンパク質に比べて大きく遅れている。RNAの進化から生じる共変シグナルは、配列アライメントから復元することができ、構造と機能に関する貴重な知見をもたらし得る。しかし、このようなシグナルは、純粋に系統的な近縁性の結果として生じることもある。本研究では、系統樹を利用して真のシグナルと偽シグナルをより正確に判別できる手法の開発を目指した。結果  PhyloScoreは、Rfamにおいて手動でキュレーションされた二次構造アノテーションを、現在用いられている最良のスコアよりも正確に予測する。実験的に構造が決定されている48のRfamファミリーにおいて、PhyloScoreは交差検証によるアノテーション済み塩基対の復元の平均適合率を0.679（R-scapeのAPC補正済みG検定）から0.714へと向上させ、48ファミリー中41ファミリーにおいて改善を示した。そのp値はファミリー間で識別能を示しており、非コードRNAが保存された構造を持つかどうかを検定する上で有用である。利用可能性  PhyloScoreは、MITライセンスの下でpipパッケージ「phylo_score」として提供されている。コードリポジトリは https://github.com/soedinglab/phylo_score である。テストデータを含む本論文で記述したバージョンは、https://doi.org/10.5281/zenodo.23401723 にアーカイブされている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760391",
+    "title": "Reference mapping and whole-genome alignment yield comparable phylogenomic inferences",
+    "abstract": "Reference-genome choice can introduce mapping bias when sequencing data are analysed against a heterospecific genome, but it remains unclear how strongly this bias affects species-level phylogenomic inference. We tested this across Ursidae using nine species spanning approximately 20 million years of divergence, including the extinct giant short-faced bear (  Arctodus simus ). We independently mapped the same sequencing datasets to four reference genomes spanning a broad range of evolutionary distances and compared these with two assembly-based whole-genome-alignment approaches. We developed PhyloSlide to analyse all treatments consistently, offering a streamlined pipeline for sliding-window phylogenomics. Using this approach, we found that mapping reference choice strongly affected sequence recovery, with missing data generally increasing with evolutionary distance. Nonetheless, all six treatments recovered an identical species-tree topology and highly similar gene and site concordance factors. Relative divergence-time estimates were also largely consistent between approaches. Together, these findings demonstrate that mapping sequencing reads from multiple species to a shared reference genome can yield phylogenomic inferences comparable to whole-genome alignment, despite substantial reference-dependent sequence loss across millions of years of evolutionary divergence.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760391",
+    "date": "2026-10-21",
+    "authors": "Westbury MV, Duchene DA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347393",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "alignment",
+        "genome",
+        "inference"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4035,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.20.760391"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7f45fc1b3dbfed976a2298f958a8f8c9caed58ad5fee3fc0b4a87342cd15e6a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:04:43.708937+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5db3933505f7c400909c8dfa88f83f902838f333c95be2952c530c41a38f4b21",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:04:43.708937+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リファレンスマッピングと全ゲノムアライメントにより、同等の系統ゲノム推論が得られる。",
+    "abstract_ja": "ヘテロ特異的ゲノムを用いてシーケンシングデータを解析する場合、リファレンスゲノムの選択がマッピングバイアスを引き起こす可能性があるが、このバイアスが種レベルの系統ゲノム推論にどの程度強く影響するかは依然として不明である。我々は、絶滅したオオショートフェイスベア（Arctodus simus）を含む、約2,000万年の分岐期間にわたる9種を用いて、クマ科（Ursidae）を対象にこの検証を行った。同一のシーケンシングデータセットを、広範な進化距離にわたる4つのリファレンスゲノムに独立してマッピングし、これらを2つのアセンブリベースの全ゲノムアライメント手法と比較した。また、すべての処理を一貫して解析するためにPhyloSlideを開発し、スライディングウィンドウ系統ゲノミクスのための効率的なパイプラインを提供した。この手法を用いた結果、リファレンスの選択が配列の復元に強く影響し、一般に進化距離が増すにつれて欠損データが増加することが判明した。それにもかかわらず、6つの処理すべてにおいて同一の系統樹トポロジーが得られ、遺伝子および部位の一致因子も非常に類似していた。相対的な分岐年代の推定値についても、手法間で概ね一致していた。以上の知見を総合すると、数百万年の進化的分岐期間にわたる顕著なリファレンス依存的な配列喪失があるにもかかわらず、複数種のシーケンシングリードを共有リファレンスゲノムにマッピングすることで、全ゲノムアライメントに匹敵する系統ゲノム推論が得られることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760196",
+    "title": "hvantk: an agentic multi-omics framework for variant annotation and analysis",
+    "abstract": "Large-scale genetic variant analysis involves multiple computational steps, data formats, gene and variant annotation sources and compute requirements. Some of the steps like joint calling for large cohorts are run on large compute clusters, while gene/variant classification algorithms can be run in a desktop computer. At the same time, variant annotations such as gene expression and gene constraints metrics from gnomAD are provided in different formats, by resources that frequently change their versions. Here, we present  hvantk , a framework that provides a common data model for large-scale annotation and analysis of genetic variants, by extending popular data formats such as Hail MatrixTable and AnnData. hvantk agentically integrates 21 public multi-omic data providers as plugins that a developer, bioinformatician or an AI agent can author without modifying the framework’s core, drives analysis workflows using agent skills, and scales from single desktop computers to high-performance computing clusters. We used hvantk for reanalysing three case-control cohorts, comprising congenital heart disease (CHD), developmental and epileptic encephalopathy (Epi25) and schizophrenia (SCHEMA). Re-ranking of gene-based burden testing results using multi-omic annotations improved the recovery of curated disease genes from 26% to 49% in CHD, 40% to 48% in Epi25 and 51% to 54% in SCHEMA, among the top decile re-ranked genes. Expression at bulk and single-cell levels were the features contributing the most over a baseline of burden, gene constraint and publication count.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760196",
+    "date": "2026-10-21",
+    "authors": "Audain E, Perez-Riverol Y, Hitz M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347380",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "framework",
+        "gene",
+        "genetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4036,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.19.760196"
+    ],
+    "translation": {
+      "title": {
+        "hash": "005b5b637faa7cec51a5fa413426d458331eed4ccf15692493d53e6bb045d609",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:04:43.708937+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "70ddb5fda78aed95ae2b4ea6deb09e0c15a63fcf0cbdbc0cce9b474b57ffecee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:04:43.708937+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "hvantk: バリアントアノテーションおよび解析のためのエージェント型マルチオミクスフレームワーク",
+    "abstract_ja": "大規模な遺伝子変異解析には、複数の計算ステップ、データフォーマット、遺伝子および変異アノテーションソース、そして計算リソースが必要となる。大規模コホート向けのジョイントコーリングなどの一部のステップは大規模な計算クラスターで実行される一方、遺伝子・変異分類アルゴリズムはデスクトップコンピュータで実行可能である。同時に、gnomADによる遺伝子発現や遺伝子制約指標などの変異アノテーションは、バージョンが頻繁に変更されるリソースによって、異なるフォーマットで提供されている。本稿では、Hail MatrixTableやAnnDataといった普及しているデータフォーマットを拡張し、遺伝子変異の大規模なアノテーションおよび解析のための共通データモデルを提供するフレームワーク「hvantk」を提案する。hvantkは、21の公開マルチオミクスデータプロバイダーをプラグインとしてエージェント的に統合しており、開発者、バイオインフォマティシャン、あるいはAIエージェントがフレームワークのコアを変更することなくこれを作成でき、エージェントスキルを用いて解析ワークフローを駆動し、単一のデスクトップコンピュータから高性能計算クラスターまでスケールする。我々は、先天性心疾患（CHD）、発達性およびてんかん性脳症（Epi25）、および統合失調症（SCHEMA）からなる3つの症例対照コホートの再解析にhvantkを用いた。マルチオミクスアノテーションを用いて遺伝子ベースの負担検定結果を再ランキングしたところ、上位10%に再ランクされた遺伝子のうち、キュレートされた疾患遺伝子の回収率は、CHDで26%から49%に、Epi25で40%から48%に、SCHEMAで51%から54%に向上した。負担、遺伝子制約、および論文数をベースラインとした場合、バルクレベルおよびシングルセルレベルでの発現が、最も寄与度の高い特徴量であった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760446",
+    "title": "AutoMod: A Software Tool for High-Accuracy Design of Curved DNA Origami Nanostructures",
+    "abstract": "In the design of DNA origami (DO) nanostructures, structural information, such as equilibrium conformation, is encoded by nucleotide sequences. The problem of finding the correct sequences for a certain target conformation is a demanding computational task, commonly addressed with the help of computer-aided design software. However, strongly curved structures where DNA helices span non-closed routes have remained extremely challenging to realize. Here, we present AutoMod, a software tool that attains significantly increased correspondence of an ideal target shape with the semi-automatically generated design. Dissimilarity of a target with a design is measured with root mean square deviation between simplified point set representations of the target shape and the computationally predicted equilibrium conformation of a design. Compared to previous methods, statistically significant decreases in mean root mean square deviation are observed with all tested target shapes. A benchmark DO structure, designed with AutoMod, is realized experimentally and its conformation is resolved with single-particle reconstruction. Subsequently, high agreement with computational results is observed. We anticipate improvements in design accuracy to facilitate the successful application of DO nanostructures in fields such as nanofabrication, biomedical engineering, and biosensing.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760446",
+    "date": "2026-10-21",
+    "authors": "Heikkilä E, Kipnis A, Lautamatti T, Natarajan AK, Kuzyk A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347358",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "gene",
+        "software",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4037,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.20.760446"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ea0ce2437e61d5363ebc09160635df92b6ab1ff68945c2fa2d0bc18e7c6ed58f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:04:43.708937+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e1b8313955db4c718a780eddbc6a20d1f685dc6e02563d343352367fea27019b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:04:43.708937+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "AutoMod: 湾曲したDNAオリガミナノ構造の高精度設計のためのソフトウェアツール",
+    "abstract_ja": "DNAオリガミ（DO）ナノ構造の設計において、平衡コンフォメーションなどの構造情報は、ヌクレオチド配列によって符号化される。特定の標的コンフォメーションに対する正しい配列を求めることは困難な計算課題であり、一般的にコンピュータ支援設計ソフトウェアを用いて取り組まれている。しかし、DNAヘリックスが非閉路経路を架けるような強い湾曲構造の実現は、極めて困難なままであった。本報では、理想的な標的形状と半自動的に生成された設計との対応性を大幅に向上させるソフトウェアツール「AutoMod」を提案する。標的と設計の不一致度は、標的形状の簡略化された点集合表現と、設計の計算的に予測された平衡コンフォメーションとの二乗平均平方根偏差によって測定される。従来の手法と比較して、検証したすべての標的形状において、平均二乗平方根偏差の統計的に有意な減少が認められた。AutoModを用いて設計したベンチマークDO構造を実験的に実現し、そのコンフォメーションを単粒子再構成により決定した。その結果、計算結果との高い一致が確認された。設計精度の向上により、ナノファブリケーション、生体医工学、バイオセンシングなどの分野におけるDOナノ構造の応用成功が促進されると期待される。"
   }
 ]
