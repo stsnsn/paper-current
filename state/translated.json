@@ -280804,5 +280804,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "LRCP: GWAS要約統計量を用いたフェノームワイドな遺伝的効果相関からの機能的関連SNPおよび遺伝子の同定",
     "abstract_ja": "遺伝的相関は、どの形質が遺伝的原因を共有しているかを示すものである。表現型全体にわたって変異体が同様に作用するという転置型の問いには、対応する推定量は存在しないが、共有遺伝子、パスウェイ、および調節因子を直接的に指し示す。多くの形質にわたる変異体間のGWAS Zスコアの相関は容易に計算できるが、連鎖不平衡（LD）や、任意の変異体ペアにおけるサンプルの重複およびGWAS間の遺伝的相関によって交絡が生じる。我々は、Pan-UK Biobankの452件のGWASにおいて、独立形質の有効数がわずか58であり、ナイーブ検定では遠位変異体のヌルペアの51～70%が棄却されることを示す。我々は、コンパニオン手法であるLRCQによるSNPごとの遺伝率エンリッチメントとLDSC由来のプラグインを用い、Zスコアの外積をLDの交差成分で回帰させることで、SNP間の表現型全体にわたる遺伝的効果相関ρを推定するLRCP（Zスコアの外積に対する尤度回帰）を提案する。異なるLDブロックに属する変異体の場合、この推定量は閉形式となり、その標準誤差はGWAS間の依存関係を正確に反映する。シミュレーションにおいて、LRCPは不偏であり（∣bias∣ ≤ 0.03）、その95%区間は93～98%をカバーし、第一種過誤は5.0～5.7%であった。一方、ナイーブ相関では41～64%減衰し、最大51%のヌルペアが棄却された。Pan-UK Biobankにおいて、LRCPはPCSK9、LDLR、およびAPOB変異体間で期待される符号を復元し、TP53ポリアデニル化変異体rs78378222とMDM2 rs3730556の間の相関を推定した。これら2つの変異体のZスコアは形質間でr = 0.67で相関しており（条件付きブートストラップ P = 0.015）、この相関は共通の体サイズおよび赤血球形質軸に沿っている。単一変異体ペアは現在のバイオバンクの解像度に近く、精度は遺伝的に異なる形質の数によって制限される。ゲノム全体では、エンリッチされた7,793個のLDクラスター（遠位ペア3,020万組）のうち、条件付き検定でFDR 5%となるペアが17組見つかり、ナイーブ相関では2,300万組が検出された。ヌル仮説の下で全スクリーニングをシミュレートした結果、この検定は保守的であり、最も強いリンク113組（P < 10⁻⁵）はヌル仮説を遥かに超えており、スクリーニングあたり0.025組のそのようなペアが得られることが示された。リンクされた遺伝子は、エンリッチされた遺伝子座のランダムなペアよりも4.9倍高い頻度でReactomeパスウェイを共有している。上位のペアは19のモジュールを形成しており、そのうち最大のものは既知の生物学的機能と一致している：骨髄系分化（IRF8, CEBPE, IKZF1）、LDLおよびHDL代謝、鉄恒常性（TMPRSS6, TFRC）、赤血球膜（SPTA1, ANK1）、および2型免疫（TSLP, IL1）。LRCPは、表現型全体の要約統計量を、機能的に関連する変異体および遺伝子のマップへと変換する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.26367118",
+    "title": "A Global Atlas of Immune Alleles Reveals Health-Relevant Variation Across Groups",
+    "abstract": "Immune allele frequencies inform disease association mapping, pharmacogenomic guidance, and vaccine design, yet such data are missing for most of the world’s groups. Here we present the Global Atlas of Immune Alleles (GAIA), applying benchmarked genotyping tools across the Human Leukocyte Antigen (HLA), Immunoglobulin Heavy Chain Constant (IGHC), and Fc Gamma Receptor (FCGR) loci to whole-genome sequencing data from 20,248 individuals, oversampling sub-Saharan African, Island Southeast Asian, and Pacific groups. Despite representing fewer than 0.5% of observations in the Allele Frequency Net Database, GAIA expands the database’s catalogue by 38%, demonstrating that representation matters more than sample size. We identify HLA alleles at group-specific frequencies that challenge pharmacogenomic screening recommendations and document disease-risk alleles common in groups lacking clinical guidance. Finally, we introduce majority allelic diversity (MAD-X), which counts the alleles required for X% of individuals in a group to carry at least one, and show that reaching 90% HLA-B coverage for vaccine design requires up to 2.7 times more alleles in underrepresented groups than in those of Northwest European ancestry.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.26367118",
+    "date": "2026-11-04",
+    "authors": "Harvey WT, Emde A, Kakembo FE, Hamid I, Clarke WE, Apriyana I, Babiker H, Rakotoarivony R, Hendershott M, Kasina P, Kalungi A, Ojewunmi O, Pascart T, Rosso S, Verdugo RA, Ferreccio C, Dessein A, Kusuma P, Priliani L, Malik SG, Fabian J, Ramsay M, Wasik KA, Fox PK, Merriman TR, Fatumo S, Sudoyo H, Yerges-Armstrong L, Castel SE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358752",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "genome",
+        "sequencing",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4916,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.02.26367118"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4ee0b74c8a43dd6a697b406bba562074f89b00897dd2fd1219d3496cef93bba4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:53:54.879706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "480dd2a8ec8bb321751ee20ea3117ce8f2cc22d50d9e7bd1c0eef7c9411d7db6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:53:54.879706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "免疫アレルのグローバルアトラスが明かす、集団間における健康関連の変異",
+    "abstract_ja": "免疫アレル頻度は、疾患関連マッピング、ファーマコゲノミクスの指針、およびワクチン設計に資するものであるが、世界のほとんどの集団においてこうしたデータは不足している。本研究では、ヒト白血球抗原（HLA）、免疫グロブリン重鎖定常抗原（IGHC）、およびFcγ受容体（FCGR）遺伝子座のベンチマーク済みジェノタイピングツールを、サハラ以南のアフリカ、東南アジアの島嶼部、および太平洋地域の集団をオーバーサンプリングした20,248名の全ゲノムシーケンシングデータに適用し、「グローバル・アトラス・オブ・イミューン・アレル（GAIA）」を提示する。アレル頻度ネットデータベースにおける観測値の0.5%未満に過ぎないにもかかわらず、GAIAは同データベースのカタログを38%拡充し、サンプルサイズよりも代表性が重要であることを示した。我々は、ファーマコゲノミクススクリーニングの推奨事項に疑問を投げかける集団特異的な頻度を持つHLAアレルを同定し、臨床的指針を欠く集団に共通して見られる疾患リスクアレルを記録した。最後に、集団のX%の個人が少なくとも1つのアレルを保有するために必要なアレル数をカウントする多数アレル多様性（MAD-X）を導入し、ワクチン設計のためのHLA-Bカバレッジ90%を達成するには、北西ヨーロッパ系集団と比較して、代表性の低い集団において最大2.7倍多くのアレルが必要であることを示した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763642",
+    "title": "A chromosome-level genome assembly of an endangered large carnivore, the wolverine,  Gulo gulo gulo  (Linnaeus, 1758)",
+    "abstract": "We describe a chromosome-level, haplotype-resolved genome assembly from a male wolverine (  Gulo gulo gulo ). The assembly comprises two pseudo-haplotypes of 2,523.2 Mb and 2,288.4 Mb, with 95.8% and 97.8% scaffolded into 20 autosomal chromosomes and sex chromosomes (placed in haplotype one). Assembly completeness is high (BUSCO 98.2% and 88.9%), with 20,337 and 17,692 annotated protein-coding genes for haplotypes one and two, respectively. Compared to existing wolverine genomes, the current genome is more complete and contains both sex chromosomes. This reference genome will be an important resource for population studies and conservation biology of this large carnivore.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763642",
+    "date": "2026-11-04",
+    "authors": "Tørresen OK, Flagstad Ø, Kleven O, Strand MA, Skage M, Ferrari G, Tooming-Klunderud A, Jakobsen KS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358744",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4917,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.02.763642"
+    ],
+    "translation": {
+      "title": {
+        "hash": "514024870c339b6679606f12892d27d70afba68fe5b297304feb436826f9c10e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:53:54.879706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9f6f12f4d8eed2b051f748aa779488855ac1fb8355bfe845abdda757ec445bb0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:53:54.879706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "絶滅危惧種の大型肉食動物、クズリ（Gulo gulo gulo Linnaeus, 1758）の染色体レベルのゲノムアセンブリ",
+    "abstract_ja": "本研究では、オスのクズリ（Gulo gulo gulo）由来の、染色体レベルでハプロタイプが解析されたゲノムアセンブリについて報告する。このアセンブリは、2,523.2 Mbおよび2,288.4 Mbの2つの擬似ハプロタイプから構成されており、それぞれ95.8%および97.8%が20本の常染色体および性染色体（ハプロタイプ1に配置）にスキャフォールディングされている。アセンブリの完全性は高く（BUSCO 98.2%および88.9%）、ハプロタイプ1および2において、それぞれ20,337個および17,692個のタンパク質コード遺伝子がアノテーションされている。既存のクズリゲノムと比較して、本ゲノムはより完全であり、両方の性染色体を含んでいる。このリファレンスゲノムは、本大型肉食動物の個体群研究および保全生物学において重要なリソースとなるであろう。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763811",
+    "title": "Generalizable virtual staining from histopathology to spatial proteomics across biological scales",
+    "abstract": "Large histology archives capture morphological correlates of molecular tissue states but lack direct spatial protein measurements. In this study, we show that routine hematoxylin and eosin (H&E) histology can provide a queryable, morphology-based representation of spatial protein expression that remains informative from pixels to patients. To achieve this, we developed QUEST, a model framework that represents protein markers as semantic queries for flexible multiplex immunofluorescence (MIF) prediction. Trained on a heterogeneous atlas of paired H&E and MIF images comprising over 10,000 tissue regions, QUEST captured morphological patterns associated with protein markers and reconstructed their expression intensities across diverse tissue types and cohorts. Its utility extended beyond image reconstruction and preserved biologically meaningful information across multiple scales: virtual staining preserved protein marker expression at the cellular and tissue scales, supported cell phenotyping, cellular neighborhood analysis, and characterization of spatial tissue organization, retained clinically relevant signals for patient stratification, and enabled H&E-based queries to retrieve MIF references with similar molecular profiles. These findings position virtual staining not simply as image generation but as a flexible interface between routine histology and spatial proteomics, expanding the analytical value of existing H&E archives.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763811",
+    "date": "2026-11-04",
+    "authors": "Liu Y, Falik O, Zhong Z, Yu L, Luo R, Jin C, Chen H, Mayer AT, Trevino AE, Chou P, Dai Y, Wu Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358740",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "prediction",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4918,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.02.763811"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f1b0dbfb0c79a7c77b11b9c4c511fdf2febc510e08c1aa5024dd820aea0d2a0f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:53:54.879706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c044813ab835eeb0e65064e3b2ce1a1001b3634cb767d0f7360661dcd1403680",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:53:54.879706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生体スケールにわたる組織病理学から空間プロテオミクスへの汎化可能な仮想染色",
+    "abstract_ja": "大規模な組織学アーカイブは、分子組織状態の形態学的相関を捉えているが、直接的な空間的タンパク質測定を欠いている。本研究では、ルーチンのヘマトキシリン・エオジン（H&E）組織学により、ピクセルから患者に至るまで有用な、形態学に基づく空間的タンパク質発現のクエリ可能な表現を提供できることを示す。これを実現するため、タンパク質マーカーを柔軟なマルチプレックス免疫蛍光法（MIF）予測のためのセマンティッククエリとして表現するモデルフレームワーク「QUEST」を開発した。10,000以上の組織領域からなる、H&E画像とMIF画像のペアで構成されたヘテロジニアスなアトラスを用いて学習させたQUESTは、タンパク質マーカーに関連する形態学的パターンを捉え、多様な組織タイプおよびコホートにわたってその発現強度を再構成した。その有用性は画像再構成にとどまらず、複数のスケールにわたって生物学的に意味のある情報を保持した。すなわち、仮想染色は細胞および組織スケールでタンパク質マーカーの発現を保持し、細胞フェノタイピング、細胞近傍解析、および空間的組織構造の特性評価を支援し、患者層別化のための臨床的に関連のあるシグナルを保持し、さらにH&Eベースのクエリによって類似した分子プロファイルを持つMIFリファレンスを検索することを可能にした。これらの知見は、仮想染色を単なる画像生成ではなく、ルーチンの組織学と空間的プロテオミクスを結ぶ柔軟なインターフェースとして位置づけるものであり、既存のH&Eアーカイブの解析的価値を拡大するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763593",
+    "title": "Omics-scale decoding of protein N-glycosylation using protein language model embeddings",
+    "abstract": "Protein language models (pLMs) learn rich sequence semantics from vast volume of protein sequences, yet the information encoded in their high-dimensional embeddings remains largely a black box, posing an interpretability challenge. Here we show that semantic features learned by pLMs can be decoded to reveal biologically meaningful signals using coevolutionary analysis without downstream supervised-training. Building on this insight, we developed MaskNGly, a zero-shot framework that identifies protein N‑glycosylation sites directly from PLM-embeddings while achieving performance comparable to state-of-the-art supervised predictors. MaskNGly is computationally efficient and intrinsically transferable, enabling omics-scale characterization of protein glycosylation landscape. Applied across proteomes, it reveals that canonical N-X-S/T motifs gain higher glycosylation propensities with increasing organismal complexity and that glycosylation preferentially occurs at structured, solvent‑exposed regions. Mutations altering high-scoring motifs are more frequently disease-associated. The framework also captures signatures of glycosylation‑mediated protein allostery. These results establish an interpretable and scalable route to study glycobiology from pLM-embeddings.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763593",
+    "date": "2026-11-04",
+    "authors": "Zhou X, Guan X, Zhou Y, Wang J, Peng Z, Ren W, Wang W, Xie R, Li W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358672",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "predictor",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "predictor",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4919,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.02.763593"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ded582fb7b3b9db2a4745277edc4dd9201790c9b79fae974142b27a772a3d9e7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:53:54.879706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2eb4b6ea197d78fdd11e88b7d3c5e6c81c097e8b89c51f4f40e846c984887ddc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:53:54.879706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質言語モデル埋め込みを用いたタンパク質N-糖鎖付加のオミクススケールデコーディング",
+    "abstract_ja": "タンパク質言語モデル（pLM）は、膨大な量のタンパク質配列から豊かな配列セマンティクスを学習するが、その高次元埋め込みに符号化された情報は依然として大部分がブラックボックスとなっており、解釈可能性の課題となっている。本研究では、pLMが学習したセマンティック特徴量を、ダウンストリームの教師あり学習を必要とせず、共進化解析を用いてデコードすることで、生物学的に意味のあるシグナルを明らかにできることを示す。この知見に基づき、我々はPLM埋め込みから直接タンパク質N-糖鎖付加部位を同定しつつ、最先端の教師あり予測器に匹敵する性能を実現するゼロショットフレームワーク「MaskNGly」を開発した。MaskNGlyは計算効率に優れ、本質的に転移可能であるため、タンパク質糖鎖付加ランドスケープのオミクススケールの特性解析を可能にする。プロテオーム全体に適用した結果、正準なN-X-S/Tモチーフは生物体の複雑性が増すにつれて糖鎖付加親和性が高まり、糖鎖付加は構造化された溶媒露出領域で優先的に起こることが明らかになった。高スコアのモチーフを変化させる変異は、疾患に関連している頻度が高い。また、本フレームワークは糖鎖付加を介したタンパク質アロステリシスのシグネチャーも捉える。これらの結果は、pLM埋め込みから糖鎖生物学を研究するための、解釈可能かつスケーラブルな手法を確立するものである。"
   }
 ]
