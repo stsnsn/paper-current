@@ -259601,5 +259601,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ベクトル化配列記述子と機械学習分類器を用いたタンパク質間相互作用の予測",
     "abstract_ja": "要旨　タンパク質間相互作用（PPI）の正確な予測は、細胞メカニズムの解明および創薬の加速において不可欠である。実験手法によって広範な相互作用マップが得られるものの、その高コストと時間を要する性質から、堅牢な計算手法による代替策が必要とされている。本研究では、配列由来の記述子（具体的には120個の自己共分散（AC）特徴量、686個の共関節三元（CT）特徴量、および1,820個の局所記述子（LD）特徴量）を、サポートベクターマシン（SVM）、ランダムフォレスト（RF）、およびXGBoost（XGB）を含む古典的な分類アルゴリズムと統合した、解釈可能な機械学習フレームワークを提案する。層化5分割交差検証を用いてゴールドスタンダードの配列ベースPPIベンチマークデータセットで評価した結果、モデルは86.92%（SVM）、97.75%（RF）という高い分類精度を達成し、XGBoostでは最大97.97%の交差検証精度を記録した（Rec: 98.09%, Pr: 98.10%, F1: 98.09%）。さらに、独立した未見データセット（Human-PPI）を用いた厳格な評価により、卓越した汎化性能が実証された。ランダムフォレストモデルが最高性能のアーキテクチャとなり、99.51%の精度、99.72%の適合率、99.29%の再現率、99.50%のF1スコア、0.9990の受信者動作特性曲線下面積（AUROC）、および0.9989の適合率-再現率曲線下面積（AUPRC）という優れた結果を示した（XGBoostが98.54%の精度、AUROC 0.9979、AUPRC 0.9974で僅差で続いた）。特徴量重要度解析により、短距離の物理化学的相関（Protein 2における極性や疎水性ラグなど）、領域ごとのアミノ酸組成、および特定の三元パターン（例：A/G/V-M/S/T/Y-M/S/T/Y）が、正確なPPI判別を駆動していることが明らかになった。これらの知見は、ドメイン知識に基づいたハンドクラフトの配列特徴量と機械学習分類器を組み合わせたPPI予測の有効性を示すものであり、最小限の計算オーバーヘッドで生物学的に解釈可能な知見を提供し、効率的かつスケーラブルなインタラクトームスクリーニングを可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760573",
+    "title": "Design of full-length agonist and antagonist antibodies for hard targets",
+    "abstract": "Therapeutic antibodies have transformed modern medicine, yet conventional discovery relies on lengthy experimental workflows, offers limited control over how antibodies engage their targets, and struggles to deliver candidates across many important target classes. Despite recent advances in computational protein design, generating full-length antibodies with desired functional activity and favorable developability profiles remains challenging. Here we present an end-to-end computational design pipeline built around Pythia-1, an all-atom generative model that reasons jointly over amino acid sequence and three-dimensional atomic structure under explicit design constraints. We generated candidates in full-length human immunoglobulin G (IgG) format across 22 therapeutic targets spanning receptor ectodomains, cytokines, growth factors, and G protein-coupled receptors (GPCRs), a particularly challenging target class for antibody discovery. Following a single computational design round, experimental screening of at most 48 candidates per target identified antibodies with single-digit nanomolar affinities for soluble proteins and single-digit nanomolar cell-binding EC  50 values for GPCRs. The pipeline’s ability to target specified epitopes and conformational states enabled the design of antibodies with agonist and antagonist activity.  In vitro characterization demonstrated target-specific engagement and potent functional modulation, with single-digit nanomolar inhibitory potency in functional assays for a range of targets, including multiple GPCRs. To our knowledge, this study provides the first demonstration of both GPCR agonism and antagonism by  de novo designed full-length IgG antibodies. We incorporated key developability and manufacturability requirements into the initial designs by conditioning generation on human germline frameworks and applying sequence constraints to limit known liabilities. The resulting antibody designs exhibited biophysical profiles comparable to or better than those of clinical-stage therapeutic controls. We provide the complete sequences of all lead candidates to support independent experimental validation and further development. Together, these findings demonstrate that our technology can deliver antibodies with programmable function and key properties expected of lead candidates, opening opportunities for first-in-class therapeutics against hard-to-drug targets.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760573",
+    "date": "2026-10-26",
+    "authors": "Aglietti RA, Ansari R, Bowers PM, Buelles T, Chauvin H, Duplay TM, El Hibouri M, Jorda J, Laniado J, Malago MMA, Meador K, Polovina A, Polyak K, Sosna J, Tacke R, Yeates TO, Zanini L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350355",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "amino acid",
+        "gene",
+        "pipeline",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "amino acid",
+          "gene",
+          "pipeline",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3990,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.21.760573"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b9698521cc1546d114fb03d10cfbcd8fab048c8caa569e33673be78254ec3eba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:59:23.739545+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1a1717d385456a55e22ca8c51a653c4404ae67da40e8a85a9802eb7e7903dc6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:59:23.739545+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ハードターゲットに対する全長アゴニストおよびアンタゴニスト抗体の設計",
+    "abstract_ja": "治療用抗体は現代医学に変革をもたらしたが、従来の探索手法は長期にわたる実験ワークフローに依存しており、抗体の標的結合様式の制御が限定的であるほか、多くの重要な標的クラスにわたって候補化合物を探索することに苦慮している。近年の計算機タンパク質設計の進展にもかかわらず、所望の機能的活性と良好な開発適性プロファイルを備えた全長抗体を生成することは依然として困難な課題である。本研究では、明示的な設計制約の下でアミノ酸配列と三次元原子構造を統合的に解析する全原子生成モデル「Pythia-1」を中心に構築した、エンドツーエンドの計算機設計パイプラインを提案する。我々は、受容体エクトドメイン、サイトカイン、増殖因子、およびGタンパク質共役受容体（GPCR）にわたる22種類の治療標的に対し、全長ヒト免疫グロブリンG（IgG）形式の候補化合物を生成した。GPCRは、抗体探索において特に困難な標的クラスである。単一の計算機設計ラウンドを経て、標的あたり最大48個の候補化合物を実験的にスクリーニングした結果、可溶性タンパク質に対して一桁台のナノモル親和性を、GPCRに対して一桁台のナノモル細胞結合EC₅₀値を有する抗体を同定した。特定のエピトープおよびコンフォメーション状態を標的とする本パイプラインの能力により、アゴニスト活性とアンタゴニスト活性の両方を備えた抗体の設計が可能となった。in vitro特性評価では、標的特異的な結合と強力な機能的調節が実証され、複数のGPCRを含む幅広い標的の機能アッセイにおいて、一桁台のナノモル阻害能が認められた。我々の知る限り、本研究はde novo設計による全長IgG抗体を用いて、GPCRのアゴニズムとアンタゴニズムの両方を初めて実証したものである。我々は、生成条件をヒト生殖細胞系列フレームワークに限定し、既知のライアビリティを制限するための配列制約を適用することで、初期設計に主要な開発適性および製造適性要件を組み込んだ。得られた抗体設計は、臨床段階の治療用対照群と同等またはそれ以上の生物物理学的プロファイルを示した。独立した実験的検証およびさらなる開発を支援するため、すべてのリード候補の完全な配列を提供する。以上の知見を総合すると、本技術はプログラム可能な機能と、リード候補に期待される主要な特性を備えた抗体を提供でき、難合成標的に対するファーストインクラスの治療薬の可能性を切り拓くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2463.v1",
+    "title": "Plant ER Proteostasis Through a Framework of Protein Load, Processing Capacity and Clearance",
+    "abstract": "The endoplasmic reticulum (ER) must coordinate protein entry, maturation and removal to sustain plant growth and stress adaptation. Although unfolded protein response (UPR) signaling and quality control pathways are well characterized, their activation alone does not reveal which process limits ER function. Here, we propose a Load, Capacity and Clearance (LCC) framework that organizes these mechanisms by their effects on protein flux. The Load module regulates protein influx, Capacity supports productive folding, maturation, assembly and export, and Clearance removes misfolded proteins and selected portions of the ER. We examine transcriptional remodeling, translational regulation, regulated RNA decay, ER-associated degradation and selective autophagy, distinguishing mechanisms demonstrated during plant ER stress from those established in other stress responses. How these processes are coordinated, and how much each contributes to ER recovery, remain to be quantified. We outline testable predictions and experimental approaches to determine which processes limit recovery, how the timing of influx restoration affects recovery, and whether combined measurements of influx, processing and clearance explain or predict stress outcomes better than UPR markers alone. This framework may guide strategies to improve plant stress resilience and recombinant protein production.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2463.v1",
+    "date": "2026-10-26",
+    "authors": "Yoo JY, Ko KS, Lee KO.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350758",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4051,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.20944/preprints202610.2463.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a6bc9ae0cb3786c88378b8616d75c94f9e2b8733a0778169df385b9903259d98",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:59:23.739545+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "042655ce917acea92e838b407c9b1f7b27d4611e2ec51b3598d2dd56396c2ffe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:59:23.739545+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質負荷、プロセシング能、およびクリアランスの枠組みによる植物のER恒常性",
+    "abstract_ja": "小胞体（ER）は、植物の成長とストレス適応を維持するため、タンパク質の取り込み、成熟、および除去を協調的に制御しなければならない。未フォールディングタンパク質応答（UPR）シグナル伝達および品質管理経路については十分に解明されているが、それらの活性化だけでは、どのプロセスがER機能を制限しているのかを明らかにすることはできない。本研究では、タンパク質フラックスへの影響に基づいてこれらの機構を体系化する「負荷・容量・クリアランス（Load, Capacity and Clearance: LCC）」フレームワークを提案する。負荷モジュールはタンパク質の流入を調節し、容量モジュールは生産的なフォールディング、成熟、組み立て、および輸送を支え、クリアランスモジュールはミスフォールディングタンパク質およびERの選択的な領域を除去する。我々は、転写リモデリング、翻訳調節、調節性RNA分解、ER関連分解、および選択的オートファジーを検討し、植物のERストレス時に実証される機構を、他のストレス応答で確立されている機構と区別する。これらのプロセスがどのように協調し、それぞれがERの回復にどの程度寄与しているかは、依然として定量化されていない。我々は、どのプロセスが回復を制限するのか、流入の回復タイミングが回復にどのような影響を与えるのか、また、流入、プロセシング、およびクリアランスの複合的な測定が、UPRマーカー単独よりもストレス結果をより適切に説明または予測できるのかを明らかにするための、検証可能な予測と実験的アプローチを概説する。このフレームワークは、植物のストレス耐性向上および組換えタンパク質生産のための戦略の指針となり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11197302/v1",
+    "title": "Mendel, a foundation model of human genetic variation, prioritizes regulatory variants and improves gene expression prediction",
+    "abstract": "Abstract  Human genome-wide association studies have identified hundreds of thousands of variant trait associations, but interpreting their mechanistic consequences at allele resolution remains a central bottleneck. DNA foundation models pretrained on genomic sequence corpora learn features predictive of regulatory activity, yet their training objectives are dominated by the conserved background common to all individuals, rather than the sparse variant sites at which human genetic variation is concentrated. Here we introduce Mendel, a DNA foundation model trained from scratch on human whole genome sequences using a variant-centric objective that concentrates supervision on allelic events within reference aligned sequence context. On held-out individuals, Mendel attains 0.984 micro-averaged SNV allele-prediction accuracy, compared with 0.311 for Evo 2. Mendel residual difficulty is selectively enriched at cis-eQTL variants, prioritizes fine-mapped causal variants (AUROC 0.731), where Evo 2 residuals performed near chance, and when converted into a cis-expression prior for modelling, improves prediction relative to an unweighted baseline in all 50 GTEx tissues.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11197302/v1",
+    "date": "2026-10-26",
+    "authors": "Wu C, Salman A, Feng H, Wei P, Sun R, Wu L, Pan W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350005",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4653,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.21203/rs.3.rs-11197302/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5833680a72d31e4ac4eec6cccbd7d4f760786e9684e46a04e8ebb088020bc8a4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:59:23.739545+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2e48b452227ac38a949f10809ce520ba8f7c4c66ab8bf2064386167e2148d9ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:59:23.739545+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト遺伝的変異の基盤モデルであるMendelは、調節バリアントを優先し、遺伝子発現予測を向上させる。",
+    "abstract_ja": "要旨　ヒトゲノムワイド関連解析により、数十万件もの変異形質関連が同定されてきたが、アレル解像度におけるそれらの機序的帰結を解釈することは、依然として中心的なボトルネックとなっている。ゲノム配列コーパスで事前学習されたDNA基盤モデルは、調節活性を予測する特徴量を学習するが、その学習目的は、ヒトの遺伝的変異が集中する疎な変異部位ではなく、全個体に共通する保存された背景によって支配されている。本研究では、リファレンスアライメントされた配列コンテキスト内のアレル事象に教師信号を集中させる変異中心の目的関数を用い、ヒト全ゲノム配列からゼロから学習させたDNA基盤モデル「Mendel」を提案する。ホールドアウト個体において、Mendelは0.984のマイクロ平均SNVアレル予測精度を達成し、Evo 2の0.311を上回った。Mendelの残差難易度は、シス-eQTL変異において選択的に濃縮されており、Evo 2の残差が偶然レベルに留まったファインマップ済みの因果的変異（AUROC 0.731）を優先する。また、モデリング用のシス発現事前分布に変換した場合、全50種類のGTEx組織において、重み付けなしのベースラインと比較して予測精度が向上した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.753755",
+    "title": "Machine learning classification of fibromyalgia from blood transcriptomes: confounder benchmarking and implications for endometriosis-associated pain",
+    "abstract": "Fibromyalgia (FM) is a chronic nociplastic pain disorder characterized by widespread musculoskeletal pain, profound fatigue, sleep disturbances, and cognitive dysfunction. Driven by central sensitization, it involves aberrant neuroplastic amplification of central nociceptive processing without structural or inflammatory tissue damage. It lacks an objective biomarker, and blood transcriptomic signatures have been proposed to fill this gap. This study reanalysed the largest public peripheral blood mononuclear cell (PBMC) RNA-seq cohort of FM (96 patients, 93 controls) using leakage-free nested cross-validation. Gene expression discriminated patients from controls (AUC 0.82), well above a permutation null. However, two disease-agnostic baselines approached this performance: sex alone (AUC 0.73), reflecting a 95% versus 44% female imbalance between groups, and a four-cell-type composition proxy (AUC 0.71–0.76). In females only, expression retained discriminative signal (AUC 0.78) but did not significantly exceed composition alone. Interferon and lysosomal gene sets were depleted in FM, but this depletion was lost after adjusting for lower monocyte content. These results indicate that much of the apparent PBMC signature of FM reflects sex and cell composition, and that blood-based classifiers for chronic pain, including related nociplastic conditions such as endometriosis, should be benchmarked against these confounders before any clinical use. Abstract Figure  Figure 1: Graphical Abstract.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.753755",
+    "date": "2026-10-26",
+    "authors": "Ouni S, Ouni F, Chebbi A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351774",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "classification",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4812,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.21.753755"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7c85e59f48c9cf8f49811a4991774b71404f9778a7252c50a95452aeacc06895",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:59:23.739545+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bfcd7dfb68ececfb5601e37821e299f1805731050e44e73879f4bafaa45c9d70",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-15T23:59:23.739545+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "血液トランスクリプトームを用いた線維筋痛症の機械学習による分類：交絡因子のベンチマークと子宮内膜症関連疼痛への示唆",
+    "abstract_ja": "線維筋痛症（FM）は、広範な筋骨格系疼痛、重度の疲労感、睡眠障害、および認知機能障害を特徴とする慢性的な侵害受容性疼痛疾患である。中枢性感作により、構造的または炎症性の組織損傷を伴わずに、中枢性侵害受容処理の異常な神経可塑的増幅が生じる。客観的なバイオマーカーが存在しないため、この空白を埋めるものとして血液トランスクリプトームシグネチャーが提案されてきた。本研究では、リークフリーのネスト型交差検証を用いて、FMにおける最大規模の公開末梢血単核球（PBMC）RNA-seqコホート（患者96例、対照群93例）を再解析した。遺伝子発現により患者と対照群を判別でき（AUC 0.82）、これは置換ヌル水準を大幅に上回っていた。しかし、疾患に依存しない2つのベースラインもこの性能に近かった。すなわち、性別のみ（AUC 0.73）は群間の女性不均衡が95%対44%であることを反映しており、4細胞型組成プロキシ（AUC 0.71–0.76）も同様であった。女性のみにおいて、発現は判別シグナルを維持していたが（AUC 0.78）、組成のみの場合を有意に上回ることはなかった。インターフェロンおよびリソソーム遺伝子セットはFMにおいて枯渇していたが、この枯渇は単球含有量の低さを調整した後に消失した。これらの結果は、FMの見かけ上のPBMCシグネチャーの多くが性別と細胞組成を反映していること、および子宮内膜症などの関連する侵害受容性疾患を含む慢性疼痛の血液ベースの分類器は、臨床応用に先立ってこれらの交絡因子に対してベンチマークを行うべきであることを示している。抄録 図 図1：グラフィカルアブストラクト。"
   }
 ]
