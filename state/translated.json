@@ -262801,5 +262801,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "メタゲノムにおけるvanTコールの大部分は、バンコマイシン耐性遺伝子ではない。",
     "abstract_ja": "メタゲノム・レジストーム調査では、vanT Gが主要な糖ペプチド耐性遺伝子として報告されることが多いが、これらの判定は触媒残基やオペロンのコンテキストを検証することなく、相同性のみに基づいている。107,008件のメタゲノムアセンブルゲノムを解析した結果、予測されたvanT G遺伝子のうち、必要な活性部位置換を有するのはわずか3.7%であり、その大部分は誤アノテーションされたアラニンラセマーであることが明らかになった。構造的およびゲノム的なコンテキスト補正を組み込むことで、現行のプロファイリングツールでは見逃されていた、腸内関連Erysipelotrichalesの新たなスプリットアーキテクチャ系統が明らかになった。"
+  },
+  {
+    "id": "10.1093/bioadv/vbag344",
+    "title": "Biological Network Organization, Not Generic Graph Topology, Drives Graph-Based Gene Essentiality Prediction",
+    "abstract": "AbstractMotivationPredicting gene essentiality can reveal cancer vulnerabilities, but whether graph neural networks benefit from biologically meaningful connectivity rather than generic graph structure remains unclear.ResultsWe evaluated 2,741 genes across three tissues using repeated gene-level cross-validation. GraphSAGE outperformed a capacity-matched multilayer perceptron and achieved comparable mean squared error to random forest, with higher Matthews correlation coefficients. The biological interaction network outperformed 25 degree-preserving rewired and 25 fully random networks, with no randomized realization matching its performance. Removing network-derived features minimally affected the biological network but substantially impaired randomized networks, suggesting that message passing exploits biological connectivity. Permuting stable gene-level or complete gene feature profiles also reduced performance, demonstrating the importance of biologically aligned features. However, per-gene correlations remained near zero, indicating limited prediction of context-specific variation. Adding global attention did not improve performance over local message passing. These findings support complementary contributions from biological network organization and aligned gene features to generalization across unseen genes.Availability and implementationData are publicly available from the Cancer Dependency Map and STRING databases. Code is available at https://github.com/Whole-Cell-Signalling/gnn-sko-essentiality.",
+    "journal": "Bioinformatics Advances",
+    "doi": "10.1093/bioadv/vbag344",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbag344/9055600?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "biological network",
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "biological network",
+          "gene",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6382/advanceAccess_4105.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4875,
+    "collected_at": "2026-11-16T02:54:27.866824+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://academic.oup.com/rss/site_6382/advanceAccess_4105.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bioadv/vbag344"
+    ],
+    "translation": {
+      "title": {
+        "hash": "64810487895f25887f2f44eb3b32efa03dfc4c380be9b8a394fdf1a2c4d5d4c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:15:34.855432+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5ccc9eecad1d33e1efec0d1ba66e141ecd3bca1067a184c6a031fe85bb879ade",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:15:34.855432+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "汎用的なグラフトポロジーではなく、生物学的ネットワーク構造がグラフベースの遺伝子必須性予測を駆動する",
+    "abstract_ja": "要旨動機遺伝子の必須性を予測することでがんの脆弱性を明らかにできるが、グラフニューラルネットワークが汎用的なグラフ構造ではなく、生物学的に意味のある接続性から恩恵を受けるかどうかは依然として不明である。結果反復的な遺伝子レベルの交差検証を用いて、3つの組織にわたる2,741個の遺伝子を評価した。GraphSAGEは、容量を一致させた多層パーセプトロンを上回り、ランダムフォレストと同等の平均二乗誤差を達成するとともに、より高いマシューズ相関係数を示した。生物学的相互作用ネットワークは、25次数保存型のリワイアードネットワークおよび25完全ランダムネットワークを上回り、ランダム化実装でその性能に匹敵するものはなかった。ネットワーク由来の特徴量を除去しても、生物学的ネットワークへの影響は最小限であったが、ランダム化ネットワークでは性能が著しく低下したことから、メッセージパッシングが生物学的接続性を利用していることが示唆された。安定した遺伝子レベルまたは完全な遺伝子特徴プロファイルを置換しても性能は低下し、生物学的に整合した特徴量の重要性が示された。しかし、遺伝子ごとの相関はゼロに近いままであり、コンテキスト固有の変動の予測能力が限られていることが示された。グローバルアテンションを追加しても、ローカルメッセージパッシングに対する性能向上は見られなかった。これらの知見は、未知の遺伝子にわたる汎化において、生物学的ネットワークの構造と整合した遺伝子特徴量による相補的な寄与を支持するものである。利用可能性と実装データは、Cancer Dependency MapおよびSTRINGデータベースから公開されている。コードは https://github.com/Whole-Cell-Signalling/gnn-sko-essentiality で入手可能である。"
+  },
+  {
+    "id": "10.1093/bib/bbag632",
+    "title": "Koinetic: a graph-based distance as a new ecological metric for microbial community differential analysis",
+    "abstract": "AbstractPhylogeny-aware beta diversity measures are essential in microbiome research, yet widely used metrics such as UniFrac and its variants rely on independent branch-length contributions and do not satisfy the Euclidean property, leading to distortions in ordination and kernel-based tests. These limitations underscore the need for a distance that is both phylogenetically coherent and geometrically valid. We introduce the Koinos Kinetic Distance (Koinetic), a phylogeny-aware dissimilarity that views microbial communities as interconnected assemblies rather than isolated taxa. ”Koinos” emphasizes collective evaluation, while ”kinetic” reflects how differences propagate dynamically across ecological networks and phylogenetic lineages. Koinetic leverages a graph Laplacian–based kernel to weight community differences by shared phylogeny, capturing ecological connectivity and clade relatedness. This design ensures Euclidean validity and enables seamless integration with kernel-based methods as well as geometry-preserving ordination. Controlled simulations and analyses of eight microbiome datasets spanning diverse body sites, disease contexts, and microbial profiling modalities demonstrate Koinetic’s broad applicability. Compared with classical and phylogenetic metrics, including weighted, unweighted, and generalized UniFrac, unweighted Koinetic can improve power for phylogenetically localized prevalence shifts in the simulated settings, while weighted Koinetic performs comparably with weighted and generalized UniFrac under abundance-driven signals. Koinetic also shows strong performance in PERMANOVA and MiRKAT analyses assessing associations between microbial community composition and host phenotypes. Koinetic thus provides a general foundation for phylogeny-aware analysis, with a consistent geometric basis for visualization and statistical inference.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag632",
+    "date": "2026-11-15",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag632/9062979?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4876,
+    "collected_at": "2026-11-16T02:54:27.866824+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://academic.oup.com/rss/site_5143/3005.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bib/bbag632"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6cc59ff85a7b0c2882e231781457a08482b919db9c402eb97ad3d91213972933",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:15:34.855432+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "40b6ebbb7b3a31014a730c33296cee8fb545ef2a55ac97fc36732da9d115be28",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:15:34.855432+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コイネティック：微生物群集の差異解析のための新たな生態学的指標としてのグラフベースの距離尺度",
+    "abstract_ja": "要旨：系統樹を考慮したベータ多様性指標はマイクロバイオーム研究において不可欠であるが、UniFracおよびその派生指標といった広く用いられている指標は、独立した枝長寄与に依存しており、ユークリッド特性を満たしていないため、順序付けやカーネルベースの検定において歪みが生じる。こうした限界は、系統的に整合的かつ幾何学的に妥当な距離指標の必要性を浮き彫りにしている。本稿では、微生物群集を孤立した分類群ではなく相互に連結した集合体として捉える、系統樹を考慮した非類似度指標であるKoinos Kinetic Distance（Koinetic）を提案する。「Koinos」は集団的な評価を強調し、「kinetic」は生態学的ネットワークや系統系統を通じて差異が動的に伝播する様子を反映している。Koineticは、グラフ・ラプラシアンに基づくカーネルを用いて、共有系統樹による群集間の差異に重み付けを行い、生態学的な連結性とクレード間の関連性を捉える。この設計によりユークリッド的な妥当性が確保され、カーネルベースの手法や幾何学的形状を保持する順序付けとのシームレスな統合が可能となる。多様な身体部位、疾患背景、および微生物プロファイリング手法にわたる8つのマイクロバイオームデータセットを用いた制御シミュレーションと解析により、Koineticの広範な適用可能性が実証された。重み付き、重みなし、および一般化UniFracを含む古典的な系統樹指標と比較して、重みなしKoineticはシミュレーション設定において系統的に局所的な有病率のシフトに対する検出力を向上させることができ、一方で重み付きKoineticは、存在量駆動型のシグナル条件下において、重み付きおよび一般化UniFracと同等の性能を示す。また、Koineticは、微生物群集組成と宿主表現型との関連性を評価するPERMANOVAおよびMiRKAT解析においても優れた性能を示す。したがって、Koineticは、可視化と統計的推論のための一貫した幾何学的基盤を備えた、系統樹を考慮した解析のための汎用的な基礎を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.7554/elife.110038",
+    "title": "The transcription factor BCL11A restores differentiation potential to aged oligodendrocyte progenitor cells.",
+    "abstract": "In young animals, oligodendrocyte progenitor cells (OPCs) in the CNS efficiently differentiate into myelinating oligodendrocytes (OLs), whereas ageing reduces this capacity, impairing remyelination following demyelinating injury and adaptive myelination involved in learning. To identify factors that restore resilience in aged OPCs, we developed gSWITCH (https://altoslabs.shinyapps.io/gSWITCH/, https://github.com/Tanay-math/gSWITCH), a computational pipeline that captures dynamic gene-expression patterns to identify 'switch' genes during lineage progression and ordered biological transitions, including time-series experiments. gSWITCH identified OPC-characteristic switch genes, which we compared between young and aged OPCs to determine whether their regulation is altered with ageing. This revealed several transcription factors with reduced expression in aged OPCs. Transcription-factor binding-site enrichment highlighted Bcl11a as a potential master-regulator of multiple switch genes. Bcl11a inhibition reduced OPC differentiation into OLs, whereas its overexpression in aged OPCs significantly enhanced OL differentiation without affecting proliferation. In aged mice subjected to demyelination injury in spinal cord white matter, Bcl11a overexpression increased OPC differentiation within lesions. We found that Bcl11a has undergone pervasive purifying selection throughout vertebrate evolution, preserving its amino acid sequence by eliminating deleterious mutations. Our study shows that reversing the age-related decline of this evolutionarily conserved factor in aged OPCs restores their impaired capacity for differentiation.",
+    "journal": "eLife",
+    "doi": "10.7554/elife.110038",
+    "date": "2026-10-26",
+    "authors": "Ghosh T, Baror R, Zhao C, Sharma A, Au WH, Lakatos A, Goldman N, Franklin RJM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42930359",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13707380",
+    "pmid": "42930359",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4860,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.7554/elife.110038"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5c4f87fce8c5726995fb7a6724113d33ee254dfce13c4295cb849b4087462f43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:15:34.855432+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a14ced6903a42eebbaa13763cf84d4d9ebae9d23bc337173e1f19ac26fac8b86",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:15:34.855432+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "転写因子BCL11Aは、老化したオリゴデンドロサイト前駆細胞の分化能を回復させる。",
+    "abstract_ja": "若齢動物では、中枢神経系（CNS）のオリゴデンドロサイト前駆細胞（OPC）が髄鞘形成オリゴデンドロサイト（OL）へと効率的に分化するが、加齢に伴いこの能力が低下し、脱髄損傷後の再髄鞘形成や、学習に関わる適応性髄鞘形成が損なわれる。加齢したOPCの回復力を回復させる因子を同定するため、我々は、動的な遺伝子発現パターンを捉え、系統進行に伴う「スイッチ」遺伝子や、時系列実験を含む秩序ある生物学的遷移を同定する計算パイプラインであるgSWITCH（https://altoslabs.shinyapps.io/gSWITCH/, https://github.com/Tanay-math/gSWITCH）を開発した。gSWITCHはOPC特有のスイッチ遺伝子を同定し、これらを若齢および加齢OPC間で比較することで、その調節が加齢に伴い変化するかどうかを検証した。その結果、加齢OPCにおいて発現が低下している複数の転写因子が明らかになった。転写因子結合部位の濃縮解析により、Bcl11aが複数のスイッチ遺伝子の潜在的なマスターレギュレーターであることが示された。Bcl11aの阻害はOPCからOLへの分化を減少させたが、加齢OPCにおけるその過剰発現は、増殖に影響を与えることなくOL分化を有意に促進した。脊髄白質に脱髄損傷を負わせた加齢マウスにおいて、Bcl11aの過剰発現は病変内でのOPC分化を増加させた。我々は、Bcl11aが脊椎動物の進化過程を通じて広範な浄化選択を受け、有害な変異を排除することでそのアミノ酸配列が維持されてきたことを見出した。本研究は、加齢したOPCにおいてこの進化的に保存された因子の加齢に伴う低下を逆転させることが、損なわれた分化能を回復させることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118008",
+    "title": "TGF-β/activin signaling balances the activity of two major protein quality control mechanisms during growth of <i>Drosophila</i> larval body wall muscle.",
+    "abstract": "Little is known about the mechanism for maintaining quality of the proteins in young and growing muscles despite that they likely face constant challenges to the protein quality control (PQC). Here, we explored the role(s) of TGF-β/activin pathway in the PQC of Drosophila body wall muscle that grows rapidly during larval stage. We find that the TGF-β/activin pathway positively regulates the proteasomal activity in body wall muscle by promoting the expression of proteasomal subunits. The proteasomal activity is then necessary for proper assembly of sarcomeres and for targeting glutamate receptors to the synapse. In contrast, TGF-β/activin pathway represses autophagy through the suppression of Atg1 expression. Consequently, autophagy is elevated in TGF-β/activin signaling-blocked muscle which in turn has a protective role against the threats to PQC. Together, these results demonstrate a multifaceted role for the TGF-β/activin pathway in regulating PQC of young and growing muscle in Drosophila.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118008",
+    "date": "2026-10-30",
+    "authors": "Kim MJ, O'Connor MB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42999752",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13743878",
+    "pmid": "42999752",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protein",
+        "quality control"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4857,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1016/j.isci.2026.118008"
+    ],
+    "translation": {
+      "title": {
+        "hash": "36727398a52e4affd2d42275d733b7f0c7fc6759197fea97e82b3462a4981c61",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:15:34.855432+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8a501a857eabe713652f1ff3d994da3a18f9915af03d30b8eb43c7dc9ed92926",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:15:34.855432+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TGF-β/アクチビンシグナル伝達は、<i>Drosophila</i>幼虫の体壁筋の成長過程において、2つの主要なタンパク質品質管理機構の活性のバランスを調節する。",
+    "abstract_ja": "若齢および成長期の筋肉では、タンパク質品質管理（PQC）に対する絶え間ない負荷にさらされていると考えられるにもかかわらず、そのタンパク質品質を維持する機構についてはほとんど解明されていない。本研究では、幼虫期に急速に成長するショウジョウバエの体壁筋におけるPQCにおいて、TGF-β/アクチビン経路が果たす役割について検討した。その結果、TGF-β/アクチビン経路がプロテアソームサブユニットの発現を促進することで、体壁筋におけるプロテアソーム活性を正に制御していることが明らかになった。このプロテアソーム活性は、サルコメアの適切な構築や、グルタミン酸受容体のシナプスへの標的化に不可欠である。対照的に、TGF-β/アクチビン経路はAtg1の発現を抑制することでオートファジーを減弱させる。その結果、TGF-β/アクチビンシグナル伝達が遮断された筋肉ではオートファジーが亢進し、それがPQCに対する脅威に対する保護的な役割を果たす。以上の結果を総合すると、ショウジョウバエの若齢および成長期の筋肉におけるPQCの調節において、TGF-β/アクチビン経路が多面的な役割を担っていることが示される。"
   }
 ]
