@@ -283307,5 +283307,349 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "単一神経変性パネルを用いたアルツハイマー病、パーキンソン病および筋萎縮性側索硬化症の血漿プロテオーム分類：診断コホート研究",
     "abstract_ja": "重要性  アルツハイマー病（AD）、パーキンソン病（PD）、および筋萎縮性側索硬化症（ALS）の血液バイオマーカーは、通常、疾患特異的な単一分析項目検査として開発される。単一の血漿パネルが疾患選択的な分類を支援できるかは依然として不明である。目的  疾患特異的なElastic Netモデルを用いて解析したOlink Target 48神経変性血漿パネルが、不均一な神経学的コホートにおいてAD、PD、およびALSを判別できるかを検証すること。デザイン、設定、および参加者  日本の東京都、慶應義塾大学病院における単一施設診断コホート研究。品質管理および1件の同意撤回を経て、302名の参加者（健常対照群 n = 62、AD連続体 n = 93、PD n = 39、ALS n = 27、その他の神経疾患 n = 81）を解析し、診断層別サンプリングにより、探索用訓練セット（n = 211）とロック済みホールドアウトテストセット（n = 91）に割り当てた。曝露  タンパク質品質管理後に保持された42種類のアッセイによる血漿中正規化タンパク質発現量。血漿DOPA脱炭酸酵素は、血中濃度が主にドーパミン作動性治療への曝露を反映するため、すべての分類器からあらかじめ除外した。主要アウトカムおよび評価指標  ホールドアウト受信者動作特性曲線下面積（AUC）。テスト用に固定された訓練セットのYouden閾値における感度および特異度。結果  ホールドアウトAUCは、ADで0.974（95% CI, 0.942-0.995）、PDで0.926（0.820-1.000）、ALSで0.995（0.980-1.000）であった。ロック済みYoudenカットオフ値において、感度はADで0.929（95% CI, 0.765-0.991）、特異度は0.921（95% CI, 0.824-0.974）、PDで0.833（95% CI, 0.516-0.979）および0.975（95% CI, 0.912-0.997）、ALSで1.000（95% CI, 0.631-1.000）および0.940（95% CI, 0.865-0.980）であった。結論および意義  単一の血漿神経変性パネルは、内部検証においてAD、PD、およびALSの疾患選択的分類を支援した。臨床応用の前に、多施設外部検証が必要である。要点  問い  単一の血漿神経変性パネルは、不均一な神経学的コホートにおいてアルツハイマー病（AD）、パーキンソン病（PD）、および筋萎縮性側索硬化症（ALS）を分類できるか？ 知見  本診断コホート研究において、単一の血漿パネルから導出された疾患特異的なElastic Netモデルにより、AD、PD、およびALSを他の神経疾患および健常対照群から判別することが可能となった。 意義  単一の血漿神経変性パネルは、AD、PD、およびALSの疾患選択的分類を同時に支援でき、血液ベースの診断に対する統一的なアプローチを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760023",
+    "title": "Genome-resolved metagenomics reveals seasonally defined life strategies in hypersaline sediments",
+    "abstract": "Background  Hypersaline sediments are long-standing models for microbial adaptation and are increasingly regarded as reservoirs of novel biosynthetic potential, including surface-active compounds. Inferences about biosurfactant production in such communities have rested largely on taxonomic affiliation, targeted single-gene surveys or metabolite detection, rather than on genome-resolved evidence that the pathways are encoded. The seasonal restructuring of these communities has also rarely been resolved at genome level. Results  We sequenced summer and winter sediments from the hyperarid Qaidam Basin on the northern Tibetan Plateau, recovering 44 metagenome-assembled genomes and 1,468 biosynthetic gene clusters from 2.98 Gbp of assembly. Evaporative and cryoconcentration processes raised winter porewater chloride by two to three orders of magnitude relative to summer. The community switched between osmoadaptation strategies. Summer sediments were dominated by salt-in haloarchaea with acidic proteomes and rhodopsin phototrophy, whereas winter sediments were dominated by salt-out bacteria with near-neutral proteomes and winter-enriched compatible-solute biosynthesis. The salt-in bacterium  Salinibacter occupied the expected intermediate position, providing an internal control. The winter surface-active response was envelope-associated rather than secreted, comprising phospholipase-derived lysophospholipids, desaturase-mediated membrane remodelling, substitution of phospholipids by phosphorus-free ornithine and sulfoquinovosyl lipids, and capsular exopolysaccharide export. Dedicated secreted biosurfactant pathways were not detected. Of 69 NRPS clusters, only one carried the starter condensation domain diagnostic of lipopeptide assembly, and it matched no characterised reference. Profile-based, read-level and orthology-based searches independently recovered no complete lipopeptide, rhamnolipid or trehalolipid pathway. Apparent biosurfactant genes in 40 of 44 genomes resolved to housekeeping homologues upon domain verification, and an independent catalogue of 1,773 regional genomes reproduced the same absence.  Conclusions  Surface activity in this hypersaline community is retained at the cell envelope rather than secreted, and dedicated biosurfactant biosynthesis is not a community-level trait. Because both taxonomic affiliation and gene-name annotation overestimate this capacity, genome-resolved verification is required before biosynthetic potential inferred from extreme environments is treated as real.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760023",
+    "date": "2026-10-20",
+    "authors": "Ullah H, Selvarjan R, Lau Vetter MCY.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346405",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterium",
+        "metagenom",
+        "metagenome",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 88,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.760023"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8e5f1e95b74934c3ed9a1bd712a191cb8d129695d65b3cd53075c6b7b3b05a67",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:14:54.868541+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "defe803934c179fad0491358392fd059167acd4664d6c7521be854b0da6c37b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:14:54.868541+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノム分解能メタゲノミクスが解明する高塩分堆積物における季節的に規定された生命戦略",
+    "abstract_ja": "背景  超塩類堆積物は微生物の適応に関する長年のモデルであり、表面活性化合物を含む新たな生合成能の貯蔵庫としてますます認識されるようになっている。こうした群集における生体界面活性剤産生に関する推論は、経路がコードされていることを示すゲノムレベルの証拠ではなく、主に分類学的所属、標的を絞った単一遺伝子サーベイ、あるいは代謝物の検出に基づいてきた。これらの群集の季節的な再構成についても、ゲノムレベルで解明された例は稀である。結果  チベット高原北部の超乾燥地帯であるカイダム盆地の夏季および冬季の堆積物をシーケンシングし、2.98 Gbpのアセンブリから44個のメタゲノムアセンブルゲノムと1,468個の生合成遺伝子クラスターを回収した。蒸発および凍結濃縮プロセスにより、冬季の孔隙水塩化物濃度は夏季に比べて2〜3桁上昇した。群集は浸透圧適応戦略を切り替えていた。夏季の堆積物は、酸性プロテオームとロドプシン光栄養能を持つ塩流入型ハロアーキアが支配的であった一方、冬季の堆積物は、ほぼ中性のプロテオームと冬季に濃縮された適合溶質生合成を持つ塩流出型細菌が支配的であった。塩流入型細菌であるSalinibacterは、予想通り中間的な位置を占め、内部制御機能を果たしていた。冬季の表面活性応答は、分泌型ではなく細胞包膜関連型であり、ホスホリパーゼ由来のリゾリン脂質、脱飽和酵素を介した膜リモデリング、リンを含まないオルニチンおよびスルホキノボシル脂質によるリン脂質の置換、および莢膜外多糖類の輸出から構成されていた。専用の分泌型生体界面活性剤経路は検出されなかった。69個のNRPSクラスターのうち、リポペプチドアセンブリの診断指標となるスターター凝縮ドメインを持つものはわずか1つであり、既報のどの形質とも一致しなかった。プロファイルベース、リードレベル、およびオーソロジーベースの検索では、完全なリポペプチド、ラムノリピド、またはトレハローリピド経路はいずれも独立して回収されなかった。44個のゲノムのうち40個に認められた見かけ上の生体界面活性剤遺伝子は、ドメイン検証の結果、ハウスキーピング相同遺伝子であることが判明し、1,773個の地域ゲノムからなる独立したカタログでも同様の欠如が確認された。結論  この超塩類群集における表面活性は、分泌されるのではなく細胞包膜に保持されており、専用の生体界面活性剤生合成は群集レベルの形質ではない。分類学的所属と遺伝子名アノテーションの双方がこの能力を過大評価しているため、極限環境から推論された生合成能を実際のものとして扱うには、ゲノムレベルでの検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.14.759018",
+    "title": "Global population genomics and pangenome of the clubroot pathogen link clonal expansion and effector diversification to resistance breakdown in canola",
+    "abstract": "Clubroot disease, caused by the obligate biotrophic protist Plasmodiophora brassicae, threatens Brassica crops worldwide. Novel pathogen virulence frequently breaks resistance in agricultural crops, and yet explanations for isolate evolution remain unknown. We combined whole genome sequencing of 192 isolates from 24 countries with a pangenome analysis of 55 high–quality complete or nearly complete genome assemblies and performed functional effector analyses to investigate potential mechanisms of virulence emergence. Three major phylogenetic clusters were identified, including two highly clonal lineages with contrasting virulence profiles, and a genetically diverse population retaining signatures of recombination. Our findings support a model in which genome–wide purifying selection maintained core genome integrity, while effector genes evolved under less constraint. Despite a compact closed pangenome, we identified chromosome 17 as a major hotspot of single nucleotide and structural variations, transposable elements and expansion of ankyrin repeat effectors. Within the variable chromosome 17, PbAnk2 alleles from virulent and avirulent isolates encoded proteins with distinct predicted structures. PbAnk2 interacted with the Arabidopsis co–chaperone DJC31 in yeast two–hybrid and BiFC assays, whereas co–immunoprecipitation did not detect an interaction for the allele found in isolates that break CRa–mediated resistance, suggesting that allelic variation may alter PbAnk2′s association with DJC31. These findings reveal the clonal expansion of virulent isolates and connect it to effector diversification that led to resistance breakdown and establish a genomic framework for pathogen surveillance and durable clubroot resistance.",
+    "journal": "",
+    "doi": "10.64898/2026.10.14.759018",
+    "date": "2026-10-20",
+    "authors": "Javed MA, Sylvestre F, Velasco Cuervo SM, Mukhopadhyay S, Salih R, Brochu A, Fantino EI, Wu J, Marten Heick T, Schwelm A, Aigu Y, Galindo-Gonzalez L, Hwang S, Hellin P, Rastas ML, Zamani-Noor N, Cordsen Nielsen G, Kiiker R, Aldén L, Ficke A, Mäe A, Riquelme Toledo D, Phan Lam AT, Ito S, dos Santos CA, Goréte Ferreira do Carmo M, Miersch U, Chongo G, Jacobs J, Campbell MA, Tobias P, Downs J, Choi S, Kaiser BN, Prokchorchik M, Strelkov S, Pérez-López E.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346245",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protist",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "pangenom",
+          "pangenome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 89,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.14.759018"
+    ],
+    "translation": {
+      "title": {
+        "hash": "33309d11be5913dc98b8a3b86ad3822486258b4a40b49d87a20c58c448a85ee1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:14:54.868541+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a926ee125630c1baaeb344d0546eab6318aa31e33f1f68503e951dbcb297ad84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:14:54.868541+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "根こぶ病菌の全球的集団ゲノミクスおよびパンゲノム：クローン拡大とエフェクター多様化とキャノーラの抵抗性崩壊との関連",
+    "abstract_ja": "絶対栄養性原生生物であるPlasmodiophora brassicaeによって引き起こされる根こぶ病は、世界中のアブラナ科作物を脅かしている。新規病原体の病原性は農作物の抵抗性をしばしば破綻させるが、分離株の進化に関する説明は依然として不明である。我々は、24カ国から得られた192株の分離株の全ゲノム配列解析と、55件の高品質かつ完全またはほぼ完全なゲノムアセンブリのパンゲノム解析を組み合わせ、さらに機能的エフェクター解析を行うことで、病原性出現の潜在的なメカニズムを調査した。その結果、対照的な病原性プロファイルを持つ2つの高度にクローナルな系統と、組換えの痕跡を保持する遺伝的に多様な集団を含む、3つの主要な系統群を同定した。我々の知見は、ゲノム全域にわたる浄化選択がコアゲノムの完全性を維持した一方で、エフェクター遺伝子はより制約の少ない条件下で進化したというモデルを支持するものである。コンパクトな閉鎖型パンゲノムであるにもかかわらず、我々は第17染色体を、一塩基および構造変異、転移因子、ならびにアンキリンリピートエフェクターの拡大における主要なホットスポットとして同定した。変異型第17染色体において、病原性分離株および非病原性分離株由来のPbAnk2アレルは、それぞれ異なる予測構造を持つタンパク質をコードしていた。PbAnk2は、酵母ツーハイブリッドおよびBiFCアッセイにおいてシロイヌナズナのコシャペロンDJC31と相互作用したが、共免疫沈降法ではCRa介在性抵抗性を破綻させる分離株に見られるアレルの相互作用は検出されず、これはアレル変異がPbAnk2とDJC31の結合を変化させる可能性を示唆している。これらの知見は、病原性分離株のクローナル拡大を明らかにし、それを抵抗性の破綻をもたらしたエフェクターの多様化へと結びつけるとともに、病原体サーベイランスおよび持続的な根こぶ病抵抗性のためのゲノムフレームワークを構築するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11431949/v1",
+    "title": "Metagenomic Characterisation of Antimicrobial Resistance Gene Profiles in Shrimp Farm, Pond Microbiomes From the Southern Coastal Areas of Kerala, India",
+    "abstract": "Abstract  Aquaculture is the fastest growing animal protein production sector in worldwide and Asia contributing annually with about 90% of the global seafood production. Penaeus monodon commonly known as the giant tiger prawn is a marine crustacean that is widely reared for food. The global rise in antibiotic resistance vitalised by indiscriminate antibiotic usage presents a significant public health challenge. The detrimental impact of antibiotic resistance includes the persistence of antimicrobial residues in fish and the surroundings. It gradually leads to the accumulation of resistance genes with the consequent contamination of the environment and the human food chain. There is a scarcity of data regarding the antibiotic resistance of shrimp aquaculture farms and ponds in Kerala. In the present study the metagenomic analysis revealed the occurrence of AMR genes across the southern coastal areas of Kerala, India. The pooled shrimp gut, water and sediment samples were subjected to metagenomic analysis. The antimicrobial resistance (AMR) genes were determined by various databases like RGI (Resistance Gene Identifier) and the Comprehensive Antibiotic Resistance Database (CARD).In addition to this, KEGG and COG databases revealed the important biochemical pathways, cellular functions and specific protein ortholog of bacterial and archaea genomes of the studied locations. The outcomes imply noticeable regional differences in presence of AMR genes in the shrimp gut, sediment and water samples of the different southern coastal areas of Kerala.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11431949/v1",
+    "date": "2026-10-20",
+    "authors": "S DCCSDCC, Sabu KKSDKK.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345853",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 135,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11431949/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0cf2ed28a8581d8926cff82188f67d668ddaed8473b52e50102bfe524a7deb38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:14:54.868541+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f0b56eb23032b4bbc3cafa8139325a689efca3275a7f9d8fb3efe622e567b3bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:14:54.868541+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インド・ケララ州南部沿岸地域のエビ養殖場および池の微生物叢における薬剤耐性遺伝子プロファイルのメタゲノム解析",
+    "abstract_ja": "要旨　水産養殖は、世界およびアジアにおいて最も急速に成長している動物性タンパク質生産部門であり、世界の水産物生産量の約90%を毎年占めている。一般にジャイアントタイガープラウンとして知られるPenaeus monodonは、食用として広く養殖されている海洋甲殻類である。無差別な抗生物質の使用によって加速した世界的な薬剤耐性の増加は、公衆衛生上の重大な課題となっている。薬剤耐性による悪影響には、魚類およびその周辺環境における抗菌薬残留物の持続が含まれる。これは徐々に耐性遺伝子の蓄積を招き、結果として環境およびヒトの食物連鎖の汚染を引き起こす。ケララ州におけるエビ養殖場および養殖池の薬剤耐性に関するデータは不足している。本研究では、メタゲノム解析により、インド・ケララ州の南部沿岸地域全域でAMR遺伝子の存在が確認された。プールしたエビの腸管、水、および底質試料に対してメタゲノム解析を実施した。抗菌薬耐性（AMR）遺伝子は、RGI（Resistance Gene Identifier）やComprehensive Antibiotic Resistance Database（CARD）などの各種データベースを用いて同定した。これに加え、KEGGおよびCOGデータベースにより、調査対象地域の細菌および古細菌ゲノムにおける重要な生化学的経路、細胞機能、および特定のタンパク質オルソログが明らかになった。これらの結果は、ケララ州の南部沿岸地域の異なる地点におけるエビの腸管、底質、および水試料において、AMR遺伝子の存在に顕著な地域差があることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11420391/v1",
+    "title": "Why does a gene cassette keep the company of an orphan reverse transcriptase? Pollutibacter on five continents",
+    "abstract": "Abstract  Several bacterial reverse transcriptases (RTs) protect cells from phage, yet some fit no known family. Screening 189,630 genomes, we found an RT that none of our comparisons (known RT types, trees, predicted structures) places in a known family (nearest published-library RT at most 34.6% identical), which we call ESOL RT. It sits beside a gene cassette in 16 genomes, chosen for carrying it, from lake, river, pond and other waters in nine countries on five continents, all in one Bacteroidota genus, Pollutibacter. The cassette has a conserved upstream element and four genes at fixed positions, including a MIDAS-motif protein and a predicted metalloprotease-like one lacking H[EDQ]xxH. At 27 further Pollutibacter loci, 97 of 99 observable positions beside the RT hold a cassette part, both exceptions at one locus. No observable copy of the four neighbouring genes is disrupted, codon models suggest purifying selection, and long reads from other freshwater samples span up to six modules. In a post hoc search of 794 genomes, the element lies upstream of an RT at 18 of 19 hits, the 19th cut by a contig end. Yet relatives of the -1 and +3 genes occur as an adjacent pair with no RT detected nearby in 54 of 149 genera carrying a +3-type gene, so why does the cassette keep the RT's company? The pairing is observed; two questions remain: did the RT join an existing module, and does it work with it, as DRT10 is reported to with an RNA and a protein partner?",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11420391/v1",
+    "date": "2026-10-20",
+    "authors": "Pyo C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346058",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "lake",
+          "river"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 223,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11420391/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a243db59df4f923f1350e5abb48f2ae04f0d420b7da129b03c830d9e6d91eb26",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:14:54.868541+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "38d1969198f10fe7fc69698ee8104e91b156122843a4a3c2576f39b1c1ce1a15",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:14:54.868541+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "なぜ遺伝子カセットが孤児型逆転写酵素の保有企業を維持しているのか？ 5大陸にわたる汚染細菌",
+    "abstract_ja": "要旨　いくつかの細菌逆転写酵素（RT）は細胞をファージから保護するが、中には既知のファミリーに属さないものもある。189,630個のゲノムをスクリーニングした結果、我々のあらゆる比較手法（既知のRT型、系統樹、予測構造）のいずれにおいても既知のファミリーに分類されないRT（既報のライブラリRTとの同一性は最大34.6%）を発見し、これをESOL RTと命名した。このRTは、5大陸9カ国の湖、河川、池およびその他の水域から選定された16個のゲノムにおいて、それを担う遺伝子カセットと共に存在しており、これらはすべて単一のBacteroidota属であるPollutibacter属に属している。このカセットは保存された上流エレメントと、MIDASモチーフタンパク質およびH[EDQ]xxHを欠く予測メタロプロテアーゼ様タンパク質を含む、固定位置にある4つの遺伝子を有している。さらに27箇所のPollutibacter遺伝子座において、RTの傍らで観察可能な99箇所の位置のうち97箇所にカセットの一部が存在し、これら2つの例外はいずれも単一の遺伝子座に位置していた。隣接する4つの遺伝子の観察可能なコピーに破壊は認められておらず、コドンモデルは純化選択を示唆しており、他の淡水サンプルからのロングリードは最大6つのモジュールに及んでいる。794個のゲノムを対象とした事後検索では、19件のヒットのうち18件でこのエレメントがRTの上流に位置しており、19件目はコンティグ末端によってカットされた。しかし、-1および+3遺伝子の近縁体は隣接するペアとして存在しており、+3型遺伝子を持つ149属のうち54属では付近にRTが検出されていない。では、なぜこのカセットはRTと共存しているのだろうか。このペアリングは観察されているが、2つの疑問が残る。すなわち、RTは既存のモジュールに加わったのか、そしてDRT10がRNAおよびタンパク質パートナーと共に機能すると報告されているように、RTはそれらと協調して機能しているのか、という点である。"
   }
 ]
