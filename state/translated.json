@@ -270452,5 +270452,279 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "HIVと共に生きる子どもにおける性の影響：早期治療を受けた小児HIV患者におけるウイルス学的、免疫学的およびプロテオーム学的転帰の性差",
     "abstract_ja": "要旨　成人におけるHIV病態形成の性差は十分に立証されているが、HIVと共に生きる小児（CLHIV）におけるエビデンスは依然として限定的かつ一貫性に欠けている。本研究では、早期に治療を開始したCLHIVのアフリカ人コホートを対象に、ウイルス学的、免疫学的、およびプロテオーム的な転帰における性差を検討した。南アフリカ、モザンビーク、およびマリのEARTH多施設コホート（2018–2021年）から、周産期にHIVに感染した小児159例を解析した。全例が診断後90日以内にARTを開始した。転帰項目には、HIV-1 RNAウイルス量の減少、HIV-1 DNAリザーバー量、免疫学的進行、ARTアドヒアランス、および血漿プロテオミクス（Olinkタンパク質92種）を含めた。ベイズ回帰分析および生存モデルを用いた。ベースライン特性は男女間で同等であった。女性は男性よりもウイルス量の減少が急激であり（Δ slope − 0.01 log10 copies/mL/year; 95% CrI: −0.01 to − 0.001; PP = 0.994）、リザーバー量の減少が速いことを方向的に支持し（PP = 0.87）、免疫学的進行のハザードも低かった（HR = 0.62; 95% CrI: 0.29–1.24; PP = 0.91）。一方で、アドヒアランスが最適とは言えない傾向にあった（HR = 1.29; 95% CrI: 0.78–2.13; PP = 0.85）。MCP-2発現は女性で高かった（BF = 4.7）。早期に治療を開始したCLHIVにおいて、性差が認められた。女性はウイルス量の減少が速く、免疫学的進行も低かったが、リザーバー量およびアドヒアランスの差については不確実であった。これらの知見は、小児のHIV疾患経過および治療反応において、性が重要な決定要因であることを浮き彫りにしている。"
+  },
+  {
+    "id": "10.1186/s42523-026-00655-5",
+    "title": "Thymol and carvacrol alleviate diarrhea in goat kids by remodeling the gut microbiota and enhancing mucin-associated barrier responses",
+    "abstract": "Background\n                     Although thymol and carvacrol (CAT) have been shown to alleviate diarrhea in 3-month-old Tibetan cashmere goat kids, it remains unclear whether CAT exert these effects by remodeling the intestinal microbiota and modulating metabolite-associated mucin responses.\n                  \n                     Results\n                     Here, we established an acute E. coli O157:H7 challenge-associated intestinal disturbance model in 3-month-old goat kids by intraperitoneal injection and used integrated multi-omics analyses to investigate the effects of CAT. CAT treatment significantly remodeled the intestinal microbiota, reduced the abundance of E. coli, and enriched the potential commensal bacterium Romboutsia maritimum. Metabolomic analysis showed that CAT significantly increased benzyl cinnamate (BzC), which was positively correlated with R. maritimum and IL-10. Genome-based functional annotation indicated that R. maritimum harbors genes annotated to phenylpropanoid-related pathways, suggesting predicted metabolic potential that may be associated with BzC-related metabolism. In parallel, proteomic analysis revealed that CAT upregulated proteins involved in mucin-type O-glycosylation in intestinal epithelial tissues, with GALNT7 identified as a key responsive protein. Functional assays further demonstrated that BzC promoted MUC2 expression in a GALNT7-dependent manner, thereby supporting mucin-associated barrier responses and attenuating diarrhea-related intestinal alterations.\n                  \n                     Conclusions\n                     These findings identify a potential microbiota–metabolite regulatory pathway by which CAT protects against intestinal inflammation in young goat kids and provide new insights into microbiota-based strategies for controlling diarrhea in young ruminants.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00655-5",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00655-5",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4923,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1186/s42523-026-00655-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d5f9fa641635c99008e3b29a58b1915ec61ae23965af85d2f9f5a5f6547e9066",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:45:14.581157+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3e6b4abf7725c0dc3a1a3535f19a02ebf11ee60e2de87d88343e8978e9dfede7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:45:14.581157+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "チモールおよびカルバクロールは、腸内細菌叢の再構築とムチン関連バリア応答の亢進により、子ヤギの下痢を軽減する。",
+    "abstract_ja": "背景\n                     チモールおよびカルバクロール（CAT）は、生後3ヵ月のチベットカシミアヤギの子ヤギにおいて下痢を軽減することが示されているが、CATが腸内細菌叢をリモデリングし、代謝物関連のムチン応答を調節することでこれらの効果を発揮するかどうかは不明である。\n                  \n                     結果\n                     本研究では、生後3ヵ月のヤギの子ヤギにおいて、腹腔内注射により急性E. coli O157:H7チャレンジ関連の腸管障害モデルを作製し、統合マルチオミクス解析を用いてCATの効果を検討した。CAT投与は腸内細菌叢を有意にリモデリングし、E. coliの存在量を減少させ、潜在的な共生細菌であるRomboutsia maritimumを増加させた。メタボローム解析により、CATがベンジルシンナメート（BzC）を有意に増加させ、これがR. maritimumおよびIL-10と正の相関を示すことが明らかになった。ゲノムに基づく機能アノテーションにより、R. maritimumがフェニルプロパノイド関連経路にアノテーションされた遺伝子を保持していることが示され、BzC関連代謝に関連する可能性のある予測代謝能が示唆された。並行して、プロテオーム解析により、CATが腸上皮組織においてムチン型O-糖鎖付加に関与するタンパク質をアップレギュレートし、GALNT7が主要な応答性タンパク質として同定された。機能アッセイにより、BzCがGALNT7依存的にMUC2の発現を促進し、それによってムチン関連のバリア応答を支持し、下痢関連の腸管変化を軽減することがさらに実証された。\n                  \n                     結論\n                     これらの知見は、CATが若齢ヤギの子ヤギにおいて腸管炎症から保護する潜在的な細菌叢－代謝物調節経路を特定するものであり、若齢反芻動物における下痢制御のための細菌叢ベースの戦略に新たな知見を提供するものである。"
+  },
+  {
+    "id": "10.1111/1758-2229.70469",
+    "title": "Antimicrobial Resistance in Hospital Wastewater at the Padma River Interface, Rajshahi, Bangladesh: A Phenotypic Assessment",
+    "abstract": "The major river, the Padma, is contaminated directly by municipal wastewater and discharges from medical facilities that carry MAR.\n\nABSTRACT\nInadequate biomedical waste management in Rajshahi, Bangladesh, may facilitate dissemination of antibiotic‐resistant bacteria (ARB) into surface waters, posing public health and ecological risks. Fifteen grab samples were collected from three hospital effluents (Rajshahi Medical College, Islami Bank Medical College, Barind Medical College) and two river sites (upstream and downstream). Colony morphology and biochemical tests (Gram staining, catalase, oxidase, urease, TSI, citrate utilization) were used to identify presumptive isolates. Antibiotic susceptibility was tested following the CLSI disk diffusion method against 13 commonly used antibiotics. Seven bacterial groups from 19 isolates were recovered, with Pseudomonas spp. being predominant (42.1%), followed by Escherichia coli (15.8%). Severe antimicrobial resistance was observed across the isolate collection, particularly against several β‐lactam antibiotics. All isolates exhibited MAR indices above 0.20 (range 0.308–0.846). The detection of various bacterial groups with high levels of phenotypic antimicrobial resistance highlights the potential importance of wastewater environments in the broader AMR landscape of Bangladesh. These findings provide baseline evidence for environmental AMR surveillance in Rajshahi and support the need for integrated health monitoring.\n\nThe major river, the Padma, is contaminated directly by municipal wastewater and discharges from medical facilities that carry MAR.\n\nABSTRACT\nInadequate biomedical waste management in Rajshahi, Bangladesh, may facilitate dissemination of antibiotic-resistant bacteria (ARB) into surface waters, posing public health and ecological risks. Fifteen grab samples were collected from three hospital effluents (Rajshahi Medical College, Islami Bank Medical College, Barind Medical College) and two river sites (upstream and downstream). Colony morphology and biochemical tests (Gram staining, catalase, oxidase, urease, TSI, citrate utilization) were used to identify presumptive isolates. Antibiotic susceptibility was tested following the CLSI disk diffusion method against 13 commonly used antibiotics. Seven bacterial groups from 19 isolates were recovered, with Pseudomonas spp. being predominant (42.1%), followed by Escherichia coli (15.8%). Severe antimicrobial resistance was observed across the isolate collection, particularly against several β-lactam antibiotics. All isolates exhibited MAR indices above 0.20 (range 0.308–0.846). The detection of various bacterial groups with high levels of phenotypic antimicrobial resistance highlights the potential importance of wastewater environments in the broader AMR landscape of Bangladesh. These findings provide baseline evidence for environmental AMR surveillance in Rajshahi and support the need for integrated health monitoring.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70469",
+    "date": "2026-11-16",
+    "authors": "Sumaya Tabassum, \nMuktaky Akter Mohona, \nMd Shamiul Sharif Ahmed, \nAunwesha Sahani, \nAyesha Ashraf",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70469?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4929,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1111/1758-2229.70469"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cd3924a9a2e843f8201daa8bbeedc0f556bd485b46c1c8d761073811a4980d5a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:45:14.581157+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0cd19168bf198eee586bd421bba3cd1c16cb557b99d0440e8b3bcb8098f7e6b9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:45:14.581157+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バングラデシュ・ラジシャヒ、パドマ川河口域における病院排水の薬剤耐性：表現型評価",
+    "abstract_ja": "主要河川であるパドマ川は、都市排水およびMARを保有する医療施設からの放流水によって直接的に汚染されている。\n\n要旨\nバングラデシュのラジシャヒにおける生物医学廃棄物管理の不備は、抗生物質耐性菌（ARB）の地表水への拡散を促進し、公衆衛生および生態学的なリスクをもたらす可能性がある。3つの病院排水（ラジシャヒ医科大学、イスラミ・バンク医科大学、バリンド医科大学）および2か所の河川地点（上流および下流）から15検体のグラブサンプルを採取した。コロニー形態および生化学的試験（グラム染色、カタラーゼ、オキシダーゼ、ウレアーゼ、TSI、クエン酸利用能）を用いて推定分離株を同定した。抗生物質感受性試験は、CLSIディスク拡散法を用い、一般的に使用されている13種類の抗生物質に対して実施した。19株の分離株から7つの細菌群が得られ、Pseudomonas属（42.1%）が最も多く、次いでEscherichia coli（15.8%）であった。分離株全体にわたって重度の薬剤耐性が認められ、特に複数のβ-ラクタム系抗生物質に対して顕著であった。すべての分離株においてMAR指数が0.20超（範囲：0.308–0.846）であった。高いレベルの表現型薬剤耐性を示す多様な細菌群の検出は、バングラデシュにおけるより広範なAMRの状況において、排水環境が潜在的に重要であることを浮き彫りにしている。これらの知見は、ラジシャヒにおける環境AMRサーベイランスの基礎的根拠となり、統合的な健康モニタリングの必要性を裏付けるものである。\n\n主要河川であるパドマ川は、都市排水およびMARを保有する医療施設からの放流水によって直接的に汚染されている。\n\n要旨\nバングラデシュのラジシャヒにおける生物医学廃棄物管理の不備は、抗生物質耐性菌（ARB）の地表水への拡散を促進し、公衆衛生および生態学的なリスクをもたらす可能性がある。3つの病院排水（ラジシャヒ医科大学、イスラミ・バンク医科大学、バリンド医科大学）および2か所の河川地点（上流および下流）から15検体のグラブサンプルを採取した。コロニー形態および生化学的試験（グラム染色、カタラーゼ、オキシダーゼ、ウレアーゼ、TSI、クエン酸利用能）を用いて推定分離株を同定した。抗生物質感受性試験は、CLSIディスク拡散法を用い、一般的に使用されている13種類の抗生物質に対して実施した。19株の分離株から7つの細菌群が得られ、Pseudomonas属（42.1%）が最も多く、次いでEscherichia coli（15.8%）であった。分離株全体にわたって重度の薬剤耐性が認められ、特に複数のβ-ラクタム系抗生物質に対して顕著であった。すべての分離株においてMAR指数が0.20超（範囲：0.308–0.846）であった。高いレベルの表現型薬剤耐性を示す多様な細菌群の検出は、バングラデシュにおけるより広範なAMRの状況において、排水環境が潜在的に重要であることを浮き彫りにしている。これらの知見は、ラジシャヒにおける環境AMRサーベイランスの基礎的根拠となり、統合的な健康モニタリングの必要性を裏付けるものである。"
+  },
+  {
+    "id": "10.3389/fmars.2026.1998517",
+    "title": "Evaluation of all three pinniped families to triannual vaccination with an inactivated rabies vaccine",
+    "abstract": "A recent outbreak of rabies virus has been identified as an emerging epidemic among Cape fur seals (Arctocephalus pusillus pusillus) along the southern African coastline. This marks the first large-scale detection of rabies virus in marine mammals and raises significant concerns about potential transmission to other mammals and humans. There is also growing apprehension about the virus’s capacity to spread across national and continental borders, with a potential spillover event occurring into the sub-Antarctic region. Vaccination of wild populations would be a cornerstone to controlling this outbreak. This study investigated whether pinnipeds housed at Ocean Park Corporation (OPC) in Hong Kong developed an immune response to a commercially available inactivated rabies vaccine (Rabisin® and Nobivac®). Sixteen pinnipeds, representing all three pinniped family groups including Californian sea lion (Zalophus californianus), Pacific walrus (Odobenus rosmarus), Harbor seal (Phoca vitulina), and Spotted seal (Phoca largha), received a 1 mL dose of an inactivated parenteral vaccine every three years. Historical serum samples collected over five years during routine health examinations were analyzed to assess the duration of the vaccine-induced immune response. The antibody titers indicated that all individuals seroconverted and remained seropositive following vaccination. Although antibody titers declined before administration of the second vaccine dose at the three-year interval, all recorded values remained above the 0.5 IU/L threshold considered indicative of an adequate (presumed protective) immune response to rabies vaccination. The study concluded that the parenteral vaccine was safe for use across all three pinniped families in the species studied and that a single dose provided protective immunity for approximately three years, after which booster vaccination was recommended.",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.1998517",
+    "date": "2026-11-16",
+    "authors": "Brett R. Gardner",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.1998517",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/marine-science/rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4922,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmars.2026.1998517"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cc5a52fab7ab38ac1ebc05a276fbcba1b1bd1b2c65597fff078ecfffab27781c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:45:14.581157+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a561dce839042159fe9ac390c7a4463773eb32bf5b51cc1347bea748e10c9bc6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:45:14.581157+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "不活化狂犬病ワクチンの年3回接種に対する鰭脚類3科すべての評価",
+    "abstract_ja": "最近、アフリカ南部沿岸のケープオットセイ（Arctocephalus pusillus pusillus）において、狂犬病ウイルスのアウトブレイクが新たな流行として確認された。これは海棲哺乳類における狂犬病ウイルスの初の大規模検出であり、他の哺乳類やヒトへの伝播の可能性について重大な懸念を引き起こしている。また、ウイルスが国家間および大陸間の境界を越えて拡散する能力や、亜南極地域へのスピルオーバー事象が発生する可能性についても懸念が高まっている。野生個体群へのワクチン接種は、本アウトブレイクを制御するための基盤となる。本研究では、香港のオーシャンパーク・コーポレーション（OPC）で飼育されている鰭脚類が、市販の不活化狂犬病ワクチン（Rabisin®およびNobivac®）に対して免疫応答を示すかどうかを調査した。カリフォルニアアシカ（Zalophus californianus）、太平洋セイウチ（Odobenus rosmarus）、ゼニガタアザラシ（Phoca vitulina）、およびマダラアザラシ（Phoca largha）を含む鰭脚類の3つの科すべてを代表する16頭の鰭脚類に対し、3年ごとに1 mLの不活化非経口ワクチンを投与した。定期健康診断において5年間にわたり採取された過去の血清サンプルを分析し、ワクチン誘導性免疫応答の持続期間を評価した。抗体価の結果、すべての個体が血清転換し、ワクチン接種後も血清陽性を維持したことが示された。3年間隔の2回目のワクチン接種前には抗体価が低下したものの、記録されたすべての値は、狂犬病ワクチン接種に対する十分な（保護的と推定される）免疫応答を示すとされる0.5 IU/Lの閾値を上回っていた。本研究は、非経口ワクチンが調査対象種の3つの鰭脚類科すべてにおいて安全に使用でき、単回投与で約3年間の保護免疫が得られること、またその後は追加接種が推奨されることを結論付けた。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2001757",
+    "title": "Surface-enhanced Raman spectroscopy on the membranes for antimicrobial resistance testing",
+    "abstract": "IntroductionAntimicrobial resistance is a major global health threat, causing millions of deaths every year. Traditional antibiotic susceptibility tests rely on the detection of bacterial growth in the presence of antimicrobial agents. These tests take over 1-2 days to complete, so empirical therapy schemes often begin before the test results are available. Rapid tests for antimicrobial resistance are needed to optimize treatment for bacterial infections. A combination of the MTT test and Raman spectroscopy can provide a 1.5-h test for antimicrobial susceptibility, requiring 106–108 CFU/mL of bacteria. Here the novel rapid antibiotic susceptibility test for trace amounts of bacteria is described.MethodsSurface-enhanced Raman spectroscopy (SERS) has been suggested to improve the sensitivity of the test. SERS spectra of MTT-treated bacteria can be acquired using membranes coated with silver nanoparticles. These membranes simultaneously concentrate the sample on the surface and generate SERS spectra under 532-nm or 638-nm laser irradiation.ResultsBoth the spectra of individual bacteria and the large-area measurements provided information for antimicrobial resistance testing. The bacterial titer can be decreased down to 500 CFU/mL in the test. The overall analysis time was 1.5 h.DiscussionThis rapid sensitive test highly promising for point-of-care applications avoiding durable bacterial culturing.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2001757",
+    "date": "2026-11-16",
+    "authors": "Elena Zavyalova",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2001757",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4913,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.2001757"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d5244f4b847981cdf3226509834fa6009252715b77866f738798993d954ee1cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:45:14.581157+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a910a807e9f6d3d65fd1e0814467b303127267215a55a431435733cb981e69c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:45:14.581157+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "薬剤耐性試験用膜の表面増強ラマン分光法",
+    "abstract_ja": "はじめに薬剤耐性は世界的な重大な健康脅威であり、毎年数百万人の死亡原因となっている。従来の抗生物質感受性試験は、抗菌薬存在下における細菌の増殖検出に基づいている。これらの試験の完了には1〜2日を要するため、検査結果が出る前に経験的治療が開始されることが多い。細菌感染症の治療を最適化するためには、薬剤耐性の迅速検査が必要である。MTT試験とラマン分光法を組み合わせることで、10⁶〜10⁸ CFU/mLの細菌を用い、1.5時間で薬剤感受性試験を実施することが可能となる。本稿では、微量の細菌を対象とした新規の迅速抗生物質感受性試験について述べる。方法表面増強ラマン分光法（SERS）は、本試験の感度向上に寄与することが示唆されている。銀ナノ粒子をコーティングした膜を用いることで、MTT処理を施した細菌のSERSスペクトルを取得できる。これらの膜は、試料を表面に同時に濃縮させるとともに、532 nmまたは638 nmのレーザー照射下でSERSスペクトルを生成する。結果個々の細菌のスペクトルおよび大面積測定の双方が、薬剤耐性試験に有用な情報を提供した。本試験では、細菌力価を500 CFU/mLまで低下させることが可能である。全体の解析時間は1.5時間であった。考察本迅速高感度試験は、持続的な細菌培養を回避できるポイントオブケア用途において非常に有望である。"
   }
 ]
