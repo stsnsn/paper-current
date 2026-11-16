@@ -272805,5 +272805,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "疎な宿主・病原体スクリーニングによるカカオのPhytophthora megakaryaに対する抵抗性のゲノム予測",
     "abstract_ja": "Phytophthora megakaryaによる黒色ポッド腐敗病は、西アフリカにおけるカカオ（Theobroma cacao L.）生産に影響を及ぼす主要な病害である。抵抗性は、宿主および病原体集団双方の遺伝的変異によって影響を受ける。植物育種においてゲノム予測手法が広く適用されてきたが、ほとんどの研究では宿主のゲノム情報のみが組み込まれている。定量的な病害予測において、病原体間のゲノム関連性を明示的にモデル化することの有用性は、依然として大部分が不明である。本研究では、CATIEの国際カカオコレクションから10K-SNPパネルを用いて947株のクローンをジェノタイピングし、3,505個の病原性関連遺伝子および2,774個のSNP遺伝子座のシーケンシングにより、67株のP. megakarya分離株の特性解析を行った。カカオクローンは広範囲に混在していた一方、分離株は地理的に構造化された3つの亜集団を形成していた。30件のバイオアッセイにおいて、58株の分離株を接種したジェノタイピング済みクローン350株の脱落ポッドの病斑径に対し、混合線形モデルを適合させた。これにより、考えられるクローン・分離株の組み合わせの5%をカバーした。分離株間の差異は、クローン間の差異よりも病斑サイズの変動のより大きな割合を説明した（表現型分散のそれぞれ0.34および0.27）。広範な病原体亜集団構造を考慮した後、分離株間の亜集団内ゲノム関連性を組み込んでも、モデルの適合度や予測精度は向上しなかった。一方、カカオクローン間のゲノム関係を組み込んだところ、モデルの適合度が向上し、表現型未検定のクローンの予測が可能となり、その予測能は0.41であった。クローンの順位は病原体亜集団間で安定していた（ゲノム相関 0.86 ± 0.06）が、クローン・分離株間の相互作用が説明する表現型変動はわずかであり、疎な設計では十分な確信を持って解析できなかった。探索的な祖先解析により、アッパーアマゾンの複数の祖先構成要素が、より小さい予測病斑と関連していることが示された。これらは、カカオにおけるP. megakaryaへの抵抗性に関する初のゲノム予測である。この強く構造化された宿主・病原体系において、宿主間のゲノム関係は、広範な病原体亜集団の影響を超えて、予測可能なシグナルの大部分を担っており、これらの予測はスクリーニングおよび選抜活動の優先順位付けのための出発点となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.762911",
+    "title": "A comparative transcriptomic framework across kidney organoid, assembloid, and transplantation models",
+    "abstract": "ABSTRACT  Human kidney organoids recapitulate key aspects of renal development and have emerged as valuable platforms for disease modeling, nephrotoxicity screening, and therapeutic development. The field now includes a wide range of emerging protocols with distinct cellular compositions and maturation states, which complicates systematic comparison and model selection. Here, we integrated single-cell and single-nucleus transcriptomes from 11 studies spanning kidney organoid and assembloids, both in vitro and following transplantation, benchmarked against fetal and adult kidney references. Transcriptional maturation toward adult identity is compartment specific and does not correlate with protocol complexity. Assembloid protocols show the most adult-like podocyte and distal nephron signatures, transplantation is associated with enhanced tubular oxidative metabolic features, only protocols incorporating ureteric progenitors reliably generate collecting-duct lineages, and no protocol achieves mature adult proximal tubule identity. Annotating against either fetal or adult kidney reference alone leads to misassignment, because early fetal nephron epithelium transcriptionally resembles injury-dedifferentiated adult proximal tubule cells. Assembloid and transplantation models share elevated mechanosensing pathway expression independently of vascularization. Together, these findings provide a framework for kidney organoid model selection.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.762911",
+    "date": "2026-11-05",
+    "authors": "Glibetic N, Lee KCY, Barnhill J, Ortega MA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359727",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4908,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.10.30.762911"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0781bd049c3c2ea3688a7f9a52f0bcbcb808911b810eb5ba62787bf5bbef82c6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:08:48.397688+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "415914bd3716daf9a817ae369f5811b8b4760b30fbd56a4d5c2485c5304d9508",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:08:48.397688+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腎オルガノイド、アッセンブロイド、および移植モデルにわたる比較トランスクリプトームフレームワーク",
+    "abstract_ja": "要旨　ヒト腎オルガノイドは腎発生の主要な側面を再現しており、疾患モデリング、腎毒性スクリーニング、および治療法開発のための有用なプラットフォームとして台頭している。現在、この分野では細胞組成や成熟状態が異なる多種多様な新規プロトコルが登場しており、系統的な比較やモデル選定を困難にしている。本研究では、in vitroおよび移植後の腎オルガノイドおよびアセンブロイドにわたる11の研究から得られたシングルセルおよびシングルヌクレウス・トランスクリプトームを統合し、胎児および成体の腎リファレンスとベンチマークを行った。成体アイデンティティに向けた転写成熟はコンパートメント特異的であり、プロトコルの複雑さとは相関しない。アセンブロイドプロトコルは成体に最も近いポドサイトおよび遠位ネフロンのシグネチャーを示し、移植は尿細管の酸化代謝特性の亢進に関連しており、尿管前駆細胞を組み込んだプロトコルのみが集合管系統を確実に誘導し、いずれのプロトコルも成熟した成体近位尿細管のアイデンティティを達成しなかった。胎児または成体の腎リファレンスのいずれかのみでアノテーションを行うと誤判定が生じる。これは、初期の胎児ネフロン上皮の転写が、損傷により脱分化した成体近位尿細管細胞に類似しているためである。アセンブロイドおよび移植モデルは、血管化とは独立して機械受容経路の発現亢進を共有している。以上の知見を総合すると、腎オルガノイドモデル選定のための枠組みが提示される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0324.v1",
+    "title": "RNAD: A Regime-Normalized, Tail-Robust and Direction-Aware Loss for Deep Time-Series Forecasting",
+    "abstract": "Financial time-series forecasting is commonly optimized with mean squared error (MSE), yet volatility clustering, heavy tails, and regime shifts make a fixed quadratic objective poorly suited. Existing robust losses improve resistance to extreme errors but lack adaptive volatility normalization and explicit directional supervision, while directional objectives such as Generalized Mean Absolute Directional Loss (GMADL) do not integrate volatility scaling, tail adaptation, and noise-aware directional weighting. We introduce Regime-Normalized Adaptive Directional Loss (RNAD), a model-agnostic training objective combining online volatility normalization via batch-scale estimates and an exponential moving average, tail-gated interpolation between quadratic and Charbonnier penalties, and noise-gated directional supervision that attenuates near-zero returns. RNAD requires no architectural changes, adds only a scalar state buffer, and incurs no inference-time overhead. Across nine financial assets, four architectures (PatchTST, iTransformer, N-HiTS, TimeXer), five losses, and three seeds under chronological splits, RNAD achieves the lowest mean RMSE for every backbone, reducing RMSE by 0.086–0.882 units versus the strongest non-RNAD baseline. It also improves MAE and directional accuracy (DA), with the lowest RMSE on all nine assets when paired with PatchTST. Four-step forecasts on US500 and USDJPY improve average DA by 2.39 and 1.41 percentage points, respectively, and reduce flattened RMSE on US500 by 0.3%. Ablations identify directional supervision as the main contributor, with tail adaptation and noise gating providing complementary, regime-dependent gains. Overall, adaptive, volatility-aware loss design offers a lightweight route to better numerical accuracy and directional consistency across financial forecasting architectures.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0324.v1",
+    "date": "2026-11-04",
+    "authors": "Saidd NA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360085",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "normalization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "normalization"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4909,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.20944/preprints202611.0324.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cb79311b48a1681ca17bd47d1591642e2645d63139f973cefd33afb82d616aca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:08:48.397688+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "54cabe1aa49e6f97950afb3992d171c0eccd1586c2d1ebebaf44a662ff9da34a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:08:48.397688+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNAD: 深層時系列予測のためのレジーム正規化・テールロバスト・方向認識型損失関数",
+    "abstract_ja": "金融時系列予測では一般に平均二乗誤差（MSE）を用いて最適化が行われるが、ボラティリティ・クラスタリング、ヘビーテール、およびレジームシフトの影響により、固定の二次目的関数は適さない。既存のロバスト損失関数は極端な誤差に対する耐性を向上させるものの、適応型ボラティリティ正規化や明示的な方向性スーパービジョンを欠いており、また一般化平均絶対方向性損失（GMADL）のような方向性目的関数は、ボラティリティスケーリング、テール適応、およびノイズを考慮した方向性重み付けを組み込んでいない。本研究では、バッチスケール推定と指数移動平均によるオンライン・ボラティリティ正規化、二次ペナルティとシャルボニエ・ペナルティ間のテールゲート付き補間、およびゼロに近いリターンを抑制するノイズゲート付き方向性スーパービジョンを組み合わせた、モデル非依存の学習目的関数であるRegime-Normalized Adaptive Directional Loss（RNAD）を提案する。RNADはアーキテクチャの変更を必要とせず、スカラー状態バッファを追加するのみで、推論時のオーバーヘッドも発生しない。9つの金融資産を対象に、4つのアーキテクチャ（PatchTST、iTransformer、N-HiTS、TimeXer）、5種類の損失関数、および時系列分割に基づく3つのシードを用いた検証において、RNADはすべてのバックボーンで最小の平均RMSEを達成し、最も強力な非RNADベースラインと比較してRMSEを0.086～0.882単位低減させた。また、MAEおよび方向性精度（DA）も向上し、PatchTSTと組み合わせた場合、全9資産において最小のRMSEを記録した。US500およびUSDJPYにおける4ステップ予測では、平均DAがそれぞれ2.39および1.41パーセントポイント向上し、US500のフラット化したRMSEを0.3%低減させた。アブレーション分析により、方向性スーパービジョンが主要な寄与要因であることが特定され、テール適応とノイズゲーティングがレジーム依存の補完的な改善をもたらしていることが示された。総じて、適応型かつボラティリティを考慮した損失関数設計は、金融予測アーキテクチャ全体において、数値精度の向上と方向性の一貫性を実現するための軽量な手法となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0425.v1",
+    "title": "When Does Grid-State-Aware Parameter Adaptation Help Metaheuristic Dispatch of Photovoltaic Distributed Generation? A Reproducible Multi-Feeder Benchmark",
+    "abstract": "Metaheuristic optimisation is widely used for distribution-network operation, yet claims of superiority are often based on single cases without equal budgets, deterministic references, or reproducible seeds. This study evaluates a fuzzy-adaptive particle swarm optimiser using voltage-deviation and renewable-ramp inputs (FA-PSO-UR) for the dispatch of inverter-interfaced photovoltaic (PV) distributed generation (DG). It is compared with a genetic algorithm (GA), classical particle swarm optimisation (PSO), differential evolution (DE), a grey wolf optimiser (GWO), and time-varying PSO (TV-PSO) on the IEEE 33- and 69-bus feeders. The frozen benchmark comprises 1,080 static runs and 720 sequential 24-hour runs under smooth and cloud-driven PV profiles, with paired seeds and identical function-evaluation budgets. DE achieves the lowest static median in all six cases, whereas FA-PSO-UR is engineering-equivalent to PSO in all six and to TV-PSO in five. All sequential schedules are feasible. FA-PSO-UR achieves the lowest median objective in three of four sequential scenarios, with median gaps of 0.0056–0.0212% to the best-known deterministic references. TV-PSO ranks first for the IEEE 69-bus smooth profile, where the two methods remain engineering-equivalent. FA-PSO-UR shows practical superiority only over selected weaker baselines, not over PSO or TV-PSO. Physical-state-aware adaptation therefore provides selective dynamic benefit rather than universal dominance.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0425.v1",
+    "date": "2026-11-04",
+    "authors": "Tolipov J, Akbarov D, Murtazov S, Saidov A, Pirimov O, Turdiboyev A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359984",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4910,
+    "collected_at": "2026-11-16T11:13:18.834361+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.20944/preprints202611.0425.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "abef9fec0f78fcf085a7cb2f5d72f35a6bc70948c38875a05401c8be24e1b95d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:08:48.397688+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "42da64ca0cb1c2d3d2ac99620109ac49005dbdd663b4383d2ec7c2690ed2d73a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:08:48.397688+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "グリッド状態を考慮したパラメータ適応は、太陽光発電分散型電源のメタヒューリスティック・ディスパッチにどのように寄与するか？再現可能なマルチフィーダー・ベンチマーク",
+    "abstract_ja": "メタヒューリスティック最適化は配電網の運用に広く用いられているが、その優位性に関する主張は、同等の予算、決定論的な参照点、あるいは再現可能なシードを用いない単一事例に基づいていることが多い。本研究では、インバータインターフェース型太陽光発電（PV）分散型電源（DG）のディスパッチにおいて、電圧偏差および再生可能エネルギーランプ入力を用いたファジィ適応型粒子群最適化手法（FA-PSO-UR）を評価する。本手法を、IEEE 33バスおよび69バス給電線において、遺伝的アルゴリズム（GA）、古典的粒子群最適化（PSO）、差分進化法（DE）、グレーウルフ最適化（GWO）、および時変PSO（TV-PSO）と比較する。固定ベンチマークは、平滑および雲駆動型PVプロファイル下での静的実行1,080回と逐次的24時間実行720回で構成され、ペアとなるシードと同一の関数評価予算が用いられている。DEは6つのケースすべてにおいて最小の静的中央値を達成し、一方でFA-PSO-URは6つのケースすべてでPSOと、5つのケースでTV-PSOと工学的に同等である。すべての逐次スケジュールは実行可能である。FA-PSO-URは4つの逐次シナリオのうち3つにおいて最小の目的関数中央値を達成し、既知の最良の決定論的参照点との中央値差は0.0056～0.0212%であった。TV-PSOはIEEE 69バスの平滑プロファイルにおいて1位となり、両手法は工学的に同等のままであった。FA-PSO-URが実用的な優位性を示すのは、選定されたより性能の低いベースラインに対してのみであり、PSOやTV-PSOに対しては示さなかった。したがって、物理状態を考慮した適応は、普遍的な優位性ではなく、選択的な動的メリットをもたらす。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-9594104/v1",
+    "title": "Evaluating the use of blood pressure and oral microbiome screening in primary care dental clinics",
+    "abstract": "Abstract  Blood pressure and oral microbiome screening are gaining popularity in non-medical settings, the hypotheses communicated to hypertensive patients being that: altering the abundance of certain bacterial species via oral hygiene could be beneficial for cardiovascular health, especially nitrate reducing species that lower blood pressure. Two-hundred participants (58.410.8 y/o) therefore underwent Systolic (SBP) and diastolic (DBP) blood pressure screening in a primary care clinic at some other time than dental treatment. 43.5% were normotensive (NT; SBP140mmHg; DBP>90mmHg). After confounding factors were removed (NT-OM and NT-OM), the relative abundance of total oral nitrate-reducing bacteria (ONRB; determined using 16S rRNA, sequencing) and oral nitrate reducing activity (ONRA; determined using high-performance liquid chromatography; HPLC) increased in HT-OM (N=15) compared to NT-OM (N=24) (P=0.031). In agreement, some nitrate reducing bacterial species were higher, such as Neisseria flavescens however, Neisseria subflava were lower in HT-OM (P",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-9594104/v1",
+    "date": "2026-10-22",
+    "authors": "DOBLE AS, BESCOS R, WITTON R, MUDDIMAN KJ, STEPHEN AS, NICOLAS T, ZAHRA D, CANA-BISHOP M, BROOKES ZL.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347761",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3832,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.21203/rs.3.rs-9594104/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f77d9e45b9be6d7e964a3f8dd55692c37ef3693670ede9f8445a38a1d6fbfd44",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:08:48.397688+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97ba396a7e0f81cb57ac1a99bcc6d62f2e8d7a546a73049f3a663b71f9e0d0b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T12:08:48.397688+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プライマリケア歯科診療所における血圧および口腔マイクロバイオームスクリーニングの活用評価",
+    "abstract_ja": "要旨　非医療現場において血圧および口腔マイクロバイオームのスクリーニングが普及しつつあり、高血圧患者に対しては、口腔衛生を通じて特定の細菌種の存在量を変化させることが心血管系の健康に有益である、特に血圧を低下させる硝酸還元菌が有効であるという仮説が提示されている。そこで、200名の被験者（58.410.8歳）を対象に、歯科治療とは別の時間帯に、プライマリケアクリニックにて収縮期血圧（SBP）および拡張期血圧（DBP）のスクリーニングを実施した。43.5%が正常血圧（NT; SBP 140mmHg; DBP > 90mmHg）であった。交絡因子（NT-OMおよびNT-OM）を除去した結果、総口腔硝酸還元菌（ONRB；16S rRNAシーケンシングにより判定）および口腔硝酸還元活性（ONRA；高速液体クロマトグラフィー；HPLCにより判定）の相対存在量は、NT-OM（N=24）と比較してHT-OM（N=15）で増加していた（P=0.031）。同様に、Neisseria flavescensなどの一部の硝酸還元菌種は高値を示したが、Neisseria subflavaはHT-OMで低値であった（P"
   }
 ]
