@@ -259912,5 +259912,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "血液トランスクリプトームを用いた線維筋痛症の機械学習による分類：交絡因子のベンチマークと子宮内膜症関連疼痛への示唆",
     "abstract_ja": "線維筋痛症（FM）は、広範な筋骨格系疼痛、重度の疲労感、睡眠障害、および認知機能障害を特徴とする慢性的な侵害受容性疼痛疾患である。中枢性感作により、構造的または炎症性の組織損傷を伴わずに、中枢性侵害受容処理の異常な神経可塑的増幅が生じる。客観的なバイオマーカーが存在しないため、この空白を埋めるものとして血液トランスクリプトームシグネチャーが提案されてきた。本研究では、リークフリーのネスト型交差検証を用いて、FMにおける最大規模の公開末梢血単核球（PBMC）RNA-seqコホート（患者96例、対照群93例）を再解析した。遺伝子発現により患者と対照群を判別でき（AUC 0.82）、これは置換ヌル水準を大幅に上回っていた。しかし、疾患に依存しない2つのベースラインもこの性能に近かった。すなわち、性別のみ（AUC 0.73）は群間の女性不均衡が95%対44%であることを反映しており、4細胞型組成プロキシ（AUC 0.71–0.76）も同様であった。女性のみにおいて、発現は判別シグナルを維持していたが（AUC 0.78）、組成のみの場合を有意に上回ることはなかった。インターフェロンおよびリソソーム遺伝子セットはFMにおいて枯渇していたが、この枯渇は単球含有量の低さを調整した後に消失した。これらの結果は、FMの見かけ上のPBMCシグネチャーの多くが性別と細胞組成を反映していること、および子宮内膜症などの関連する侵害受容性疾患を含む慢性疼痛の血液ベースの分類器は、臨床応用に先立ってこれらの交絡因子に対してベンチマークを行うべきであることを示している。抄録 図 図1：グラフィカルアブストラクト。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.24.761513",
+    "title": "Can Folding Models Tell Binders from Bluffers? Evidence from POISK: The Patent-Derived Antibody Dataset",
+    "abstract": "Structure prediction models are increasingly deployed as zero-shot digital screens in antibody design, operating under the assumption that high folding confidence implies true binding. However, rigorous validation of this premise has been limited by small test sets, narrow target diversity, and the risk of data leakage from training-adjacent structures. Here we introduce POISK: Patent-extracted Organization of Immunoglobulin Sequence Knowledge, a large-scale dataset derived from the US patent literature, comprising 89074 antibody-antigen records extracted from 10110 patents using an LLM-based pipeline. From this resource, we curate a balanced benchmark set of 22494 complexes: 11247 patent-validated binders without a known resolved structure paired with putative non-binders constructed from sequence-similar human repertoire antibodies. Using this dataset, we benchmark six leading structure prediction models (AlphaFold-Multimer, Boltz-2, IntelliFold v2, OpenFold3, Protenix-v1, and Protenix-v2) on their ability to discriminate binders from decoys. The best-performing model, Protenix-v2, achieves 72% pairwise accuracy over all pairs and 87% on the most confident half of predictions, and correctly identifies the true binder from a pool of 50 candidates in 29% of trials; this represents a substantial enrichment over random selection, yet remains far from reliable single-candidate identification. Structural consensus across models also discriminates binders from decoys, with pairwise accuracy reaching 73.1% when three or more models converge on a pose (DockQ>0.23, covering around 54.2% of pairs). Epitope localization remains unreliable: the best model contacts annotated epitope residues in only 62.8% of cases, indicating that binding discrimination does not establish accurate epitope localization. Our results suggest that current folding models provide useful but limited signal for antibody screening and should be complemented by orthogonal methods. We release POISK as a community resource for future benchmarking and model training.",
+    "journal": "",
+    "doi": "10.64898/2026.10.24.761513",
+    "date": "2026-10-26",
+    "authors": "Tupikina D, Roncoli A, Bujotzek A, Abanades B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351769",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "pipeline",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "pipeline",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4813,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.24.761513"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ccc5faab8a428f364421864a66738397c8096a355a80fd919ee93ba89a933cb7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:01:54.988454+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "308fa210d5f2dfe11ac7338e8ea2a8a9891efe36bc6ab72399b18aa1f69200c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:01:54.988454+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "折りたたみモデルはバインダーとブラファーを判別できるか？POISK：特許由来抗体データセットによる実証",
+    "abstract_ja": "構造予測モデルは、抗体設計においてゼロショットのデジタルスクリーンとして導入が進んでおり、高いフォールディング信頼度が真の結合を意味するという前提で運用されている。しかし、この前提に対する厳密な検証は、テストセットの規模の小ささ、標的多様性の狭さ、および学習に隣接する構造からのデータ漏洩のリスクによって制限されてきた。本研究では、米国特許文献から導出された大規模データセットであるPOISK（Patent-extracted Organization of Immunoglobulin Sequence Knowledge）を提案する。本データセットは、LLMベースのパイプラインを用いて10,110件の特許から抽出された89,074件の抗体-抗原レコードで構成されている。このリソースから、既知の分解構造を持たない特許検証済みバインダー11,247件と、配列類似のヒトレパトア抗体から構築された推定非バインダーを組み合わせた、バランスの取れた22,494件の複合体ベンチマークセットをキュレートした。このデータセットを用いて、主要な構造予測モデル6種（AlphaFold-Multimer、Boltz-2、IntelliFold v2、OpenFold3、Protenix-v1、Protenix-v2）について、バインダーとデコイを識別する能力をベンチマークした。最高性能を示したProtenix-v2は、全ペアにおいて72%のペアワイズ精度を達成し、最も信頼度の高い半数の予測では87%の精度を記録したほか、29%の試行において50個の候補プールから真のバインダーを正しく識別した。これはランダム選択に比べて大幅な性能向上を示すが、信頼性の高い単一候補の同定には依然として程遠い。モデル間の構造コンセンサスにおいてもバインダーとデコイの識別が可能であり、3つ以上のモデルが同一のポーズに収束した場合（DockQ > 0.23、ペアの約54.2%をカバー）のペアワイズ精度は73.1%に達した。エピトープ局在の特定は依然として信頼性に欠けており、最良のモデルがアノテーション済みのエピトープ残基に接触したのはわずか62.8%のケースに留まり、結合識別だけでは正確なエピトープ局在を特定できないことが示された。本研究の結果は、現在のフォールディングモデルが抗体スクリーニングにおいて有用ではあるが限定的なシグナルしか提供しておらず、直交する手法によって補完されるべきであることを示唆している。我々は、今後のベンチマークおよびモデル学習のためのコミュニティリソースとしてPOISKを公開する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2422.v1",
+    "title": "Automatic Kernel Generation with Large Language Models: Taxonomies, Evaluations, and Cross-Platform Challenges",
+    "abstract": "Large language models (LLMs) have recently emerged as a promising tool for automatic generation and optimization of high-performance compute kernels. This rapidly growing area spans across hardware platforms and targets programming models such as AscendC, CUDA, and Triton. However, the literature remains fragmented, with substantial variation in generation workflows, training strategies, evaluation protocols, benchmark assumptions, hardware platforms, and reported metrics. This survey provides a structured review of LLM-based automatic kernel generation. We introduce a taxonomy based on the generation-time workflow, separating direct generation, refinement via structured feedback, search-based generation, and adaptive tool-orchestrating agentic systems. We further analyze orthogonal design axes including learning strategy, input representation, output representation, and hardware platform. Beyond method classification, we examine evaluation practices, including benchmark data, harnesses, integrity policies, as well as performance metrics, and discuss why reported results are often difficult to compare. Finally, we use Ascend NPU kernel generation as a cross-platform case study, highlighting challenges introduced by AscendC, host-device co-design, toolchain constraints, and limited public data. We conclude by identifying open problems in robust evaluation, higher-level task optimization, cross-platform transfer, production deployment, and benchmark design.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2422.v1",
+    "date": "2026-10-26",
+    "authors": "Cannons K, Rezaei A, Ranjbar Alvar S, Gholami M, Wang Z, Shen Z, Chen B, Zhang Y, Jiang Y, Akbari M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350804",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "tool",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "tool",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4814,
+    "collected_at": "2026-11-15T22:48:00.544010+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.20944/preprints202610.2422.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "78cda3dc9df072e5b426824538f7a8260b4b917de52b072a21952d42e1d27bc1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:01:54.988454+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "11b3a11aba28d9fe866c4daf9116786da7cbda236fd854a50ced3eec05994962",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:01:54.988454+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大規模言語モデルを用いた自動カーネル生成：分類体系、評価、およびクロスプラットフォームにおける課題",
+    "abstract_ja": "大規模言語モデル（LLM）は、近年、高性能コンピュートカーネルの自動生成および最適化のための有望なツールとして台頭している。急速に発展しているこの分野は、ハードウェアプラットフォームを横断し、AscendC、CUDA、Tritonといったプログラミングモデルを対象としている。しかし、先行研究は依然として断片的であり、生成ワークフロー、学習戦略、評価プロトコル、ベンチマークの前提条件、ハードウェアプラットフォーム、および報告される指標において大きなばらつきが見られる。本サーベイでは、LLMに基づくカーネルの自動生成について体系的なレビューを行う。生成時のワークフローに基づいた分類体系を導入し、直接生成、構造化フィードバックによる精緻化、探索ベースの生成、および適応型ツール・オーケストレーション・エージェントシステムを区別する。さらに、学習戦略、入力表現、出力表現、およびハードウェアプラットフォームという直交する設計軸について分析する。手法の分類にとどまらず、ベンチマークデータ、ハーネス、整合性ポリシー、および性能指標を含む評価手法を検討し、報告された結果の比較が困難なことが多い理由について論じる。最後に、Ascend NPUカーネル生成をクロスプラットフォームのケーススタディとして用い、AscendC、ホスト・デバイス協調設計、ツールチェーンの制約、および限定的な公開データによってもたらされる課題を浮き彫りにする。結論として、堅牢な評価、より高レベルなタスク最適化、クロスプラットフォーム転送、本番環境へのデプロイ、およびベンチマーク設計における未解決課題を明らかにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760973",
+    "title": "AltORF-encoded microprotein recruits primary-ORF-encoded dehydrogenase to cell poles upon heat shock",
+    "abstract": "Alternative open reading frames (altORFs) initiating from in-frame or out-of-frame start sites within annotated protein-coding genes represent a largely unexplored source of protein-coding potential and remain poorly understood in terms of regulation, function, and impact on physiology. Here we investigate  Escherichia coli GndA, encoded by an out-of-frame altORF within  gnd , which encodes 6-phosphogluconate dehydrogenase. We observe that the GndA protein is induced by heat shock, consistent with the initial identification in a quantitative membrane proteomics screen, but is unstable, while the levels of the stable Gnd dehydrogenase are unchanged. Using translational fusion assays and in vivo RNA structure probing, we show that an internal complementary sequence upstream of  gndA acts as a thermo-responsive secondary RNA structure controlling GndA translation. Mutagenesis of either  gnd or  gndA reduce heat shock survival of  E. coli indicating both gene products are important for resistance. GndA fractionates with membranes consistent with in silico predictions that the protein forms an amphipathic α-helix. In contrast, Gnd is predominantly cytoplasmic but shows GndA-dependent relocalization to cell poles upon heat shock. Together, our results demonstrate that an altORF-encoded microprotein is required for stress-dependent relocalization of its primary ORF partner, revealing a functional interplay between proteins encoded by overlapping ORFs in bacterial stress adaptation.  Significance  Alternative translation from internal translation initiation sites enables bacteria to expand their proteomic versatility without increasing genome size. Here we show that a single  Escherichia coli transcript encoding the well-characterized dehydrogenase Gnd also produces an additional microprotein from an internal alternative open reading frame (altORF), whose translation is controlled by an RNA thermometer-like structure. We further demonstrate that this heat shock-induced microprotein promotes spatial relocalization of its primary ORF-encoded partner during aerobic heat stress. Together our findings highlight how alternative translation can expand the cellular response to stress.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760973",
+    "date": "2026-10-25",
+    "authors": "Schmidt JJ, Ramos-León F, Zhang A, Zeinert R, Shabalina SA, Storz G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349679",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 829,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.760973"
+    ],
+    "translation": {
+      "title": {
+        "hash": "136cae23cfe382636da61fc2f464a8a39bcd8391f6acd477300222eadebb3d5d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:01:54.988454+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7c6a9d039d0535326e333a8bfb44fdd0f0e1e0640b38b874776a35dd9416b34b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:01:54.988454+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "AltORFコードマイクロタンパク質は、熱ショック時にprimary-ORFコード脱水素酵素を細胞極へと動員する。",
+    "abstract_ja": "アノテーション済みタンパク質コード遺伝子内のフレーム内またはフレーム外の開始部位から開始する代替オープンリーディングフレーム（altORF）は、タンパク質コード能の大部分が未探索の供給源であり、調節、機能、および生理学的影響の観点からは依然として十分に解明されていない。本研究では、6-ホスホグルコン酸脱水素酵素をコードするgnd内のフレーム外altORFによってコードされるEscherichia coli GndAについて調査した。GndAタンパク質は、定量的膜プロテオミクススクリーニングにおける初期の同定結果と一致して熱ショックによって誘導されるが、不安定であり、一方で安定なGnd脱水素酵素のレベルは変化しないことが観察された。翻訳融合アッセイおよびin vivo RNA構造プロービングを用いて、gndAの上流にある内部相補配列が、GndAの翻訳を制御する熱応答性の二次RNA構造として機能することを示した。gndまたはgndAのいずれかを変異させると、E. coliの熱ショック生存率が低下し、両遺伝子産物が耐性に重要であることが示された。GndAは膜とともに分画され、このタンパク質が両親媒性αヘリックスを形成するというin silico予測と一致した。対照的に、Gndは主に細胞質に存在するが、熱ショック時にGndA依存的な細胞極への再局在を示す。以上の結果を総合すると、altORFによってコードされるマイクロタンパク質が、その一次ORFパートナーのストレス依存的な再局在に必要であることが示され、細菌のストレス適応における重複ORFによってコードされるタンパク質間の機能的な相互作用が明らかになった。意義：内部翻訳開始部位からの代替翻訳により、細菌はゲノムサイズを増大させることなくプロテオームの多様性を拡大できる。本研究では、十分に特性解析されている脱水素酵素Gndをコードする単一のEscherichia coli転写産物が、内部の代替オープンリーディングフレーム（altORF）から追加のマイクロタンパク質も産生し、その翻訳がRNAサーモメーター様構造によって制御されていることを示した。さらに、この熱ショック誘導性マイクロタンパク質が、好気的熱ストレス時に一次ORFによってコードされるパートナーの空間的な再局在を促進することを実証した。以上の知見を総合すると、代替翻訳がいかにしてストレスに対する細胞応答を拡大させ得るかが浮き彫りになる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761329",
+    "title": "Host brain infection induces RNAi epimutation in  Mucor circinelloides  and enhances blood-brain barrier invasion",
+    "abstract": "Mucorales fungi cause mucormycosis, a rapidly progressive invasive fungal disease with high mortality, particularly in immunocompromised patients and in severe disseminated infections. Central nervous system involvement is among the most devastating manifestations of mucormycosis, yet the mechanisms that enable Mucorales to adapt to the brain environment remain poorly understood. In  Mucor species, RNA interference (RNAi) can generate reversible heritable epimutations that silence specific genes without altering DNA sequence, providing a transient and reversible mechanism for antifungal drug resistance. Here, we show that host brain infection induces RNAi-dependent silencing of endogenous fungal loci that promote central nervous system adaptation. Small RNA sequencing of  Mucor circinelloides recovered from infected mouse organs identified seven brain epimutation loci, named  bepA to  bepG , that accumulated small RNAs preferentially after brain infection. Among these,  bepA encodes a conserved mitogen-activated protein kinase (MAPK)-like serine/threonine kinase related to cell wall integrity signaling. Deletion of the  bepA gene confers resistance to the calcineurin inhibitors FK506 and cyclosporin A, allowing hyphal growth under conditions that impair calcineurin-dependent morphogenesis. BepA modulates FK506-induced MAPK signaling and controls a transcriptional program enriched in cell-wall remodeling genes. To model fungal central nervous system entry by a filamentous fungal pathogen, we established a human blood-brain barrier transwell platform that quantifies  Mucor migration across brain endothelial monolayers. This model revealed that  bepA mutation enhances fungal migration across brain endothelial monolayers without detectable changes in electrical barrier resistance. These findings identify brain-induced RNAi epimutation as a mechanism of organ-specific fungal adaptation and reveal reversible silencing of a MAPK-like kinase as a route to enhanced central nervous system invasion.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761329",
+    "date": "2026-10-25",
+    "authors": "Navarro-Mendoza MI, Pérez-Arques C, Choi Y, Cao E, Chang Z, Xu Z, Bahn Y, Moseman EA, Heitman J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350543",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1847,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.23.761329"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3c74830d5b6ed93bddd7b1e65b6d581e0693fb50d37500570b30ca8d6f14ec84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:01:54.988454+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6d362fa9ea8df9708295867750a79aab22c638db54b04f554347765b625ae9bc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:01:54.988454+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主脳感染はMucor circinelloidesにおいてRNAiエピミューテーションを誘導し、血液脳関門の浸潤を亢進させる。",
+    "abstract_ja": "ムコール目菌は、特に免疫不全患者や重症の播種性感染症において致死率の高い、急速に進行する侵襲性真菌疾患であるムコール症を引き起こす。中枢神経系への侵襲はムコール症の最も壊滅的な症状の一つであるが、ムコール目菌が脳環境に適応することを可能にするメカニズムについては、依然として十分に解明されていない。ムコール属菌において、RNA干渉（RNAi）は、DNA配列を変化させることなく特定の遺伝子をサイレンシングする可逆的かつ遺伝性のエピ変異を生じさせることができ、抗真菌薬耐性のための一過性かつ可逆的なメカニズムを提供する。本研究では、宿主の脳感染が、中枢神経系への適応を促進する内因性真菌遺伝子座のRNAi依存的なサイレンシングを誘導することを示す。感染マウスの臓器から回収したMucor circinelloidesのsmall RNAシーケンシングにより、脳感染後に優先的にsmall RNAを蓄積する7つの脳エピ変異遺伝子座（bepA～bepGと命名）が同定された。このうち、bepAは細胞壁の完全性シグナル伝達に関連する、保存されたミトゲン活性化プロテインキナーゼ（MAPK）様セリン/スレオニンキナーゼをコードしている。bepA遺伝子の欠損は、カルシニューリン阻害剤であるFK506およびシクロスポリンAに対する耐性を付与し、カルシニューリン依存的な形態形成を損なう条件下での菌糸伸長を可能にする。BepAはFK506誘導性のMAPKシグナル伝達を調節し、細胞壁リモデリング遺伝子に富む転写プログラムを制御する。糸状菌性病原体による真菌の中枢神経系侵入をモデル化するため、我々は脳内皮単層を介したMucorの移行を定量化するヒト血液脳関門トランスウェルプラットフォームを構築した。このモデルにより、bepA変異が電気的バリア抵抗に検出可能な変化をもたらすことなく、脳内皮単層を介した真菌の移行を促進することが明らかになった。これらの知見は、脳誘導性RNAiエピ変異を臓器特異的な真菌適応のメカニズムとして特定し、MAPK様キナーゼの可逆的なサイレンシングが中枢神経系への侵入を促進する経路であることを明らかにするものである。"
   }
 ]
