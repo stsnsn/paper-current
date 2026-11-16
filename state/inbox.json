@@ -407748,5 +407748,1471 @@
     "related_dois": [
       "10.1093/bioinformatics/btag760"
     ]
+  },
+  {
+    "id": "10.1093/ismejo/wrag285",
+    "title": "Phosphorus limitation shifts cellular phosphorus allocation toward polyphosphate by depleting other phosphorus pools in Synechococcus",
+    "abstract": "AbstractPolyphosphate (polyP) is a ubiquitous and evolutionarily conserved form of phosphorus (P) present in all living organisms, yet its role in cellular and biogeochemical P cycling remains poorly constrained. In P-depleted marine environments, polyP consistently represents a larger fraction of total particulate P (TPP) than in P-replete environments, contradicting its classical role as a luxury storage compound. This unresolved discrepancy has been hypothesized to arise from reductions of other cellular P pools rather than by de novo polyP synthesis, but this has not been tested under steady-state conditions. Using continuous cultures of the globally important marine cyanobacterium Synechococcus sp. WH8102 grown across a gradient of phosphate availability, we address this knowledge gap. Although phosphate availability strongly affected growth rates, single-cell C:N:P stoichiometry and the expression of P-stress genes, polyP:TPP increased with decreasing phosphate availability, reproducing the pattern observed in oligotrophic oceans. This shift was not driven by de novo polyP synthesis; cellular polyP concentrations (polyP per biovolume) remained stable across growth rates (Kruskal-Wallis, P value = 0.06), whereas other intracellular P pools, including RNA, free intracellular phosphate, ATP, and phospholipids, were preferentially depleted with decreasing phosphate availability (2.6–11.8-fold across P pools), increasing the relative contribution of polyP to TPP. Expression of polyP metabolism genes showed minimal changes across treatments. These results indicate that P deficiency responses observed in oligotrophic environments and various microorganisms in batch culture reflect slow-growing physiology resulting in polyP maintenance and preferential depletion of more labile P pools, with consequences for interpreting particulate P stoichiometry and export.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag285",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag285/9065308?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Synechococcus",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4975,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/ismejo/wrag285"
+    ]
+  },
+  {
+    "id": "10.1093/ismejo/wrag288",
+    "title": "Early-life ecological conditions shape strain-dependent gut engraftment of engineered Escherichia coli",
+    "abstract": "AbstractDespite advances in bioengineering strategies, the in vivo performance of live biotherapeutic products (LBPs) remains limited by poor intestinal engraftment and unstable functional persistence, owing in part to poorly understood ecological constraints. Here, we leveraged early-life ecological conditions as a tractable in vivo platform to investigate microbial engraftment across different Escherichia coli strains. Colonization was strongly strain-dependent and was associated with intrinsic bacterial fitness and host immune responses in the gut. We showed that early-life provides a permissive ecological window that may enable durable colonization of engineered E. coli following a single administration, including the probiotic strain E. coli Nissle 1917 (EcN). Another commensal isolate EcWJ exhibited robust ecological fitness in both early-life and adult hosts, whereas the laboratory strain MG1655 colonized poorly. We further demonstrated that engineered EcWJ and EcN strains carrying either an Acanthocheilonema viteae cystatin (AvCys) secretion module or a 5-hydroxytryptophan (5-HTP) biosynthesis module both preserved long-term gut colonization while maintaining their respective functional outputs. The EcN chassis achieved superior efficacy in a colitis model despite lower intestinal abundance, whereas the EcWJ chassis exhibited better colonization and 5-HTP biosynthesis. Thus, functional performance is not only determined by colonization strength, but also depends on chassis-specific functional properties. Multiple safety assessments confirmed no overt host toxicity following early-life administration of engineered LBPs, although increases in spleen weight and maternal-to-offspring transmission should be noted. Together, these findings establish that early-life ecological conditions provide a tractable platform for durable microbial engraftment and sustained functional activity, informing the design of long-acting LBPs.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag288",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag288/9055615?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4976,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/ismejo/wrag288"
+    ]
+  },
+  {
+    "id": "10.1093/femsre/fuag061",
+    "title": "Microbial adhesion to solid surfaces – the concept of preferential binding",
+    "abstract": "AbstractMicrobial adhesion is the process by which individual microorganisms attach to a surface. It is a key process for microbial life: adhesion allows to colonize ecological niches, but also to interact with other organisms in symbiotic or pathogenic relationships. While we understand the importance of adhesion in microbial life in general, the underlying molecular mechanisms are less clear.Molecular details of adhesion processes have been elucidated only for some individual examples, mostly for human pathogens in the context of infections. In this review, we focus on the adhesion to non-living, solid surfaces, and summarize the limited understanding of the molecular principles of these interactions. We describe how proteins and other biomolecules interact with surfaces, and how microbes, and specifically bacteria, employ these interactions to enable a sessile lifestyle. We introduce the concept of preferential binding that describes specificity, affinity, and cooperativity of microbial adhesins and their interactions with different materials and surfaces. This concept more accurately describes the binding affinity to different surfaces, compared to the current textbook terminology coined for the interactions of enzymes or protein complexes. A molecular understanding of these processes, using concepts and methods across all disciplines of natural sciences, is key to the development of new disinfection and antifouling strategies that are in high demand in the post-antibiotic era.",
+    "journal": "FEMS Microbiology Reviews",
+    "doi": "10.1093/femsre/fuag061",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuag061/9065332?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4977,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/femsre/fuag061"
+    ]
+  },
+  {
+    "id": "10.1093/femsml/uqag039",
+    "title": "Unveiling the small protein landscape of uropathogenic E. coli",
+    "abstract": "AbstractUropathogenic Escherichia coli (UPEC) is the predominant causative agent of urinary tract infections. The UPEC strain, CFT073, has a mosaic genome containing 60 genomic islands enriched in virulence genes. In this study, we explore the small proteome of CFT073 using ribosome profiling (Ribo-seq) coupled with RNA sequencing (RNA-seq), and reveal 338 translated, previously unannotated, putative small open reading frames (sORFs) with less than 100 codons. Among them, 78 sORFs are located in intergenic regions. Fifteen intergenic sORFs encode a predicted transmembrane helix (smemORFs), of which seven are hypothetical or have not been characterized in other E. coli strains. The majority of the remaining putative sORFs encodes uncharacterized or novel soluble proteins (ssolORFs). Considering the evolution of many sORFs is likely to be recent, functional sORFs are more likely to have conserved gene neighborhood in other genomes. Searching into the genomes of 10 other E. coli strains and four enterobacteria species, synteny analysis reveals that 10 of 15 putative smemORFs, and 27 of 63 putative ssolORFs, have a homologous sequence in a similar genomic context in at least one other genome, supporting their likelihood of encoding functional proteins. Further validation of putative sORFs using proteomics, cell-free protein synthesis, and mNeonGreen tagging provide strong evidence for the translation of nine predicted intergenic sORFs. Notably, four previously uncharacterized small membrane proteins have increased abundance under oxidative stress, suggesting a potential role in the stress response. Together, our findings reveal the small proteome of an extraintestinal pathogenic E. coli and provide a catalog of putative sORFs for further investigation.",
+    "journal": "microLife",
+    "doi": "10.1093/femsml/uqag039",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/microlife/advance-article/doi/10.1093/femsml/uqag039/9065337?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6277/advanceAccess_4060.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4978,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_6277/advanceAccess_4060.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/femsml/uqag039"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag838",
+    "title": "ReMoD-Mol: Reliability-Aware Multimodal Learning with Descriptor-Guided Knowledge Distillation for Molecular Property Prediction",
+    "abstract": "AbstractMotivationAccurate molecular property prediction (MPP) remains a central challenge in drug discovery. Given the limited availability of labeled molecular data, multimodal molecular representation learning offers a promising means of integrating complementary structural information for MPP. Existing multimodal models still face two limitations: (i) common fusion strategies, particularly direct concatenation, can introduce redundant information or signals that are weakly relevant to the target property; and (ii) the effective incorporation of complementary physicochemical priors into multimodal representations remains insufficiently explored.ResultsHere, we proposed ReMoD-Mol, a reliability-aware multimodal framework that integrated molecular graphs, SMILES sequences and two-dimensional molecular images. Task-adaptive modality calibration learned one set of weights per benchmark from downstream supervision to regulate the relative contributions of the three molecular views. Descriptor- and fingerprint-based teachers further provided task-conditioned chemical priors through train-only, five-fold out-of-fold knowledge distillation. Prototype-guided embedding shaping together with graph-view and SMILES-view consistency objectives regularized the fused representation space. Across nine MoleculeNet benchmark datasets spanning regression and classification, ReMoD-Mol achieved the best mean performance on seven datasets and the second-best on the other two in a scaffold-split comparison with 14 baselines. Representation analyses revealed smoother property-related manifolds and more discriminative class structures, while learned modality coefficients exhibited distinct task-dependent fusion patterns. Teacher-prior and ablation analyses further supported the complementary roles of chemical-prior transfer and multi-view representation regularization.Availability and implementationSource code, processed datasets and implementation details are publicly available at https://github.com/27167199/ReMoD-Mol.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag838",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag838/9065268?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4979,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bioinformatics/btag838"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag837",
+    "title": "Data-Driven Modeling of Promoter Affection to 5’ Untranslated Region Design for Rational Predictive Translational Engineering",
+    "abstract": "AbstractMotivationPrecise gene expression control is fundamental for biological research and synthetic systems. While biophysical models predict transcriptional or translational regulation, they often overlook their potential interplay. Combining these regulations offers synergistic control, but its influence remains incompletely understood.ResultsHere, we investigated how promoter replacement affects 5’ untranslated region (5’ UTR)-mediated translation while designing the sequence of Escherichia coli. Using predictive models and a comprehensive library of promoter-5’ UTR pairs, we characterized the interference of promoters with translation rates in terms of mRNA secondary structures, especially the alternative folding of the Shine-Dalgarno (SD) region and frequency of the major transcription start sites (TSSs), which leads to the misprediction of gene expression.AvailabilityBased on this, we developed UTR Designer Pro, a model for designing promoter-5’ UTR sequences with higher accuracy, now available as a web service at https://sbi.postech.ac.kr/utr_designer_pro/. Our work improves understanding of transcriptional and translational regulation, aiding gene expression control in bacterial systems.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag837",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag837/9065267?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4980,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bioinformatics/btag837"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1965733",
+    "title": "Microbial production of piceatannol: current status and future prospects",
+    "abstract": "Piceatannol is a plant-derived stilbenoid compound, exhibiting physiological activities such as antioxidant, anti-inflammatory, and anti-tumor effects, which endow it with significant application value in the food, pharmaceutical, and cosmetic industries. In recent years, the biosynthesis of piceatannol via microbial cell factories has attracted widespread attention, as it provides a safe and efficient route for the production of this compound. This review begins by introducing the biosynthetic pathway and relevant enzymes of piceatannol, followed by an in-depth analysis of the characteristics of microbial hosts used for its production. Subsequently, the main strategies for piceatannol production in microbial hosts, including the construction of efficient heterologous biosynthetic pathways, directed engineering of rate-limiting enzymes, supply of cofactors, enhancement of precursor metabolic flux, and optimization of the production process, are systematically summarized and discussed. Finally, the future prospects and perspectives for the microbial production of piceatannol are discussed.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1965733",
+    "date": "2026-11-16",
+    "authors": "Siqi Hu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1965733",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4981,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.1965733"
+    ]
+  },
+  {
+    "id": "10.1038/s41564-026-02543-9",
+    "title": "Global analysis of the diversity and functional potential of Patescibacteria phages",
+    "abstract": "A metagenomic analysis of phages of Patescibacteria, sometimes called the Candidate Phyla Radiation (CPR), reveals ecological linkages and streamlined genome signatures analogous to those of their ultra-small hosts.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02543-9",
+    "date": "2026-11-16",
+    "authors": "Huahua Jian",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02543-9",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4982,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41564-026-02543-9"
+    ]
+  },
+  {
+    "id": "10.1038/s41564-026-02528-8",
+    "title": "Candidalysin: a decade of discovery",
+    "abstract": "In this Review, the authors reflect on a decade of research on the fungal toxin candidalysin and suggest future priorities.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02528-8",
+    "date": "2026-11-16",
+    "authors": "Julian R. Naglik",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02528-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4983,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41564-026-02528-8"
+    ]
+  },
+  {
+    "id": "10.1038/s41564-026-02536-8",
+    "title": "Mapping the Tibetan Plateau microbiome across ecosystems provides a resource for biodiscovery",
+    "abstract": "The Tibetan Environmental Genome catalogue is composed of over 50,000 metagenome-assembled genomes sourced from terrestrial and aquatic ecosystems across the Tibetan Plateau.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02536-8",
+    "date": "2026-11-16",
+    "authors": "Nianzhi Jiao",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02536-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4984,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41564-026-02536-8"
+    ]
+  },
+  {
+    "id": "10.1038/s41467-026-79677-1",
+    "title": "Leveraging sequence purification for accurate prediction of multiple conformational states with AlphaFold2",
+    "abstract": "Proteins often adopt distinct conformations to carry out their functions. Here, the authors introduce AF-ClaSeq, a method that improves multistate structure prediction by clarifying evolutionary signals.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79677-1",
+    "date": "2026-11-16",
+    "authors": "Xiaolin Cheng",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79677-1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/ncomms.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4985,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41467-026-79677-1"
+    ]
+  },
+  {
+    "id": "10.1371/journal.pgen.1012350",
+    "title": "Experimental evolution of yeast reveals trade-offs between early and late stationary phase",
+    "abstract": "by Jason Tarkington, Aditya Mahadevan, Angelina G. Chan, Gavin Sherlock\n\nStationary phase in yeast and other microorganisms begins when a limiting nutrient in the environment is exhausted and cell division ceases. Most cells subsequently enter quiescence and then lose viability. However, even in spent media, metabolism continues, and the environment can change over time, causing the relative fitnesses of genotypes to differ over the course of stationary phase. For yeast, how such fitness varies and what genotypes might be favored at what points in stationary phase is largely unknown. In this work we experimentally evolve S. cerevisiae in batch culture, varying the time spent in stationary phase between growth cycles, and we isolate adaptive clones. We measure the relative fitness of these adaptive clones across a range of environments, characterized by different amounts of time in stationary phase and by two different carbon sources. By comparing the performance during a period of the growth cycle of a mutant to that of its ancestor, we can estimate the effects of each observed mutation on performance during various phases of the growth cycle. Here, we show that when an adaptive mutation emerges in growth cycles that include a stationary phase, its effect on stationary phase performance is largely independent of the type of carbon source provided. For the same group of mutants, mutational effects on performance in early stationary phase are negatively correlated with those effects in late stationary phase, suggesting a trade-off. We also show that increased intervals of stationary phase result in larger fitness effects of adaptive mutations and distinct routes of adaptation. Together, these results demonstrate that stationary phase consists of more than one distinct fitness-related phenotype, and that the phenotypes that allow for high performance in the first few days of stationary phase trade off with those that allow for high performance in later stationary phase.",
+    "journal": "PLOS Genetics",
+    "doi": "10.1371/journal.pgen.1012350",
+    "date": "2026-11-16",
+    "authors": "Gavin Sherlock",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012350",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microorganism",
+        "microorganisms",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/plosgenetics/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4986,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://journals.plos.org/plosgenetics/feed/atom"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1371/journal.pgen.1012350"
+    ]
+  },
+  {
+    "id": "10.1371/journal.pgen.1012270",
+    "title": "NF-κB/Dif-driven miR-1000 feedback restrains toll signaling via targeting Myd88 to restore Drosophila immune homeostasis",
+    "abstract": "by Chaolong Jia, Ju Li, Ning Li, Shangmin Yang, Linxian Sun, Shengjie Li, Fei Ma, Ping Jin\n\nInnate immune homeostasis is vital for animal survival and requires precise control of both the intensity and duration of immune signaling. Although microRNAs (miRNAs) are known to fine-tune immune responses, their transcriptional regulation mechanisms during infection remain poorly characterized. Here, we identify an NF-κB-dependent miRNA feedback loop essential for Drosophila Toll pathway. Through dynamic expression profiling and functional genetics, we demonstrate that the NF-κB transcription factor Dif directly activates miR-1000 transcription upon Gram-positive bacterial infection, while miR-1000 in turn targets the adaptor Myd88 mRNA for degradation. Moreover, we show that upon immune challenge, miR-1000 is significantly induced in the fat body, and fat body-specific manipulations confirm that Dif activates miR-1000 transcription and miR-1000 directly targets Myd88 in this key immune tissue. This dual function of Dif - concurrently inducing immune effectors (e.g., Drosomycin) and their suppressor miR-1000 - establishes a self-limiting circuit: Dif/miR-1000/Myd88 axis. Crucially, miR-1000-mediated suppression of Myd88, the hub of Toll pathway, constrains signal transduction and enables timely termination. Disruption of this axis prolongs Toll pathway activation and compromises host fitness during infection. Furthermore, this miRNA-adaptor regulatory paradigm is evolutionarily conserved, as miRNAs targeting MyD88 (such as miR-155) also inhibit TLR signaling in mammals. Our work reveals a transcriptionally connected feedback mechanism that dynamically restores animal innate immune homeostasis by targeting a central signaling adaptor.",
+    "journal": "PLOS Genetics",
+    "doi": "10.1371/journal.pgen.1012270",
+    "date": "2026-11-16",
+    "authors": "Ping Jin",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012270",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/plosgenetics/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4987,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://journals.plos.org/plosgenetics/feed/atom"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1371/journal.pgen.1012270"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.11.765954",
+    "title": "HOG pathway modulation is a determinant of echinocandin treatment failure in Candidozyma auris",
+    "abstract": "Candidozyma auris is a rapidly emerging fungal pathogen whose drug-resistant profile poses a formidable challenge to antifungal treatment. Echinocandins are the recommended first-line therapy for invasive C. auris infections, but resistance to this drug class is on the rise. Here we show that, beyond resistance, C. auris can readily acquire genetically encoded echinocandin tolerance, a phenotype of slow but sustained growth and increased survival at concentrations above the minimum inhibitory concentration (MIC) that reflects incomplete maximal inhibition and a reduced Hill coefficient without an increase in MIC. Tolerance was therefore undetectable by standard clinical susceptibility testing, yet it significantly reduced treatment efficacy in an immunocompromised murine model of systemic infection. Genetic dissection revealed that tolerance arises through disruption of the high-osmolarity glycerol (HOG) mitogen-activated protein kinase (MAPK) pathway through the loss of function of Ssk1, Ssk2, Pbs2 or Hog1, or specific substitutions in Nik1. The disruption of the HOG pathway did not confer fitness or virulence defects in C. auris, and in Candida albicans and Nakaseomyces glabratus, it did not confer tolerance, suggesting a unique non-essential rewiring of this pathway in C. auris. Proteomic and cell-wall analyses linked tolerance to altered cell-wall remodelling during echinocandin exposure. Evolutionary modelling and deep sequencing of FKS1 hotspots in experimentally evolved populations showed that tolerance increases the rate at which resistance-conferring FKS1 hotspot substitutions emerge. Putative high-impact mutations in HOG pathway effectors in clinical isolates suggest that this phenotype occurs in patients, where it might reduce treatment efficacy or facilitate resistance emergence. This work therefore identifies HOG-mediated acquired tolerance as a hidden clinically relevant direct and indirect determinant of echinocandin treatment failure.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765954",
+    "date": "2026-11-16",
+    "authors": "Sofras, D., Jacobs, S., Zile, A., Mottola, A., Zvirgzdins, A., Pageau, A., Boccarella, G., Gifford, H., Biriukov, V., Dube, A. K., Walker, L., Malavia-Jones, D., Leaves, I., Wang, Z., Van den Bergh, B., Lobo Romero, C., van den Berg, P., Michiels, J., Farrer, R. A., Berman, J., Gow, N. A. R., Gabaldon, T., Lends, A., Ralser, M., Munro, C. A., Landry, C. R., Van Dijck, P., Carolus, H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765954v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4988,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.11.765954"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.13.766593",
+    "title": "Detection, Persistence, and Antimicrobial Resistance Profiles of Escherichia coli and Shiga Toxin-Producing E. coli in Nut Orchards with Integrated Grazing Animals",
+    "abstract": "Integrating grazing animals into nut orchards can introduce foodborne pathogens including Salmonella enterica and Shiga toxin-producing Escherichia coli (STEC) into crop production environments. This study investigated pathogen transfer and persistence in the soil following livestock grazing (sheep/chicken) in two organic almond orchards and one walnut orchard in California. Soil and fecal samples were collected periodically for 120 days after grazing. Enrichment, selective culture and PCR were used for STEC and Salmonella enterica detection. Antimicrobial resistance (AMR) was assessed using microdilution assays, and whole genome sequencing (WGS) was used to characterize AMR genes, virulence genes and population structure. All 284 soil and 79 fecal samples collected tested negative for Salmonella enterica and E. coli O157. Presumptive STEC was detected by colony PCR in 3.2% (n = 9/284, 95% CI 1.7-5.9%) of the soil samples, and 34.2% (n = 27/79, 95% CI 24.7-45.2%) of fecal samples. Shiga toxin genes were confirmed by WGS in 15 of 31 sequenced isolates. Predominant subtypes were stx1c and stx2b, and O176:H4 and O174:H2 were the most common serotypes. Phenotypic AMR was detected in 33.3% (n = 12/36) of isolates, with multidrug resistance in 8.3% (n = 3/36). A soil and a sheep fecal isolate differed by one core-genome single nucleotide polymorphism and shared a closed multidrug-resistance plasmid of identical gene content, consistent with a lineage resident in the flock that transferred to soil. Confirmed STEC in orchard soil was rare and transient. These results provide evidence to inform food safety guidelines on crops integrated with livestock.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766593",
+    "date": "2026-11-16",
+    "authors": "Rothwell, J. G., Cheong, S., Schlesener, C., Miramontes, C., Shaw, C., Pereira, R. V. V., Weimer, B. C., Pires, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766593v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4989,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766593"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.15.766812",
+    "title": "Identifying the metacommunity scale reconciles deterministic and stochastic assembly in a natural mainland-island microbial system",
+    "abstract": "Disentangling the deterministic and stochastic processes that shape microbial communities remains a central challenge in microbial ecology. The framework proposed by Vellend---selection, drift, dispersal and speciation---offers a natural conceptual scaffold, but testing these processes in natural communities is technically demanding, and analyses are often narrowed to a single process, which can lead to seemingly contradictory conclusions. Here we illustrate the promise and the pitfalls of a comprehensive application of this framework by re-analysing a temporally resolved dataset of microbial communities inhabiting water-filled tree-holes at the base of a single beech tree, a natural mainland--island system for which both neutral assembly and strong selection have been reported. We show that these views are compatible once unsupervised compositional clustering is used to identify the scale at which assembly processes should be tested. Treating each compositional cluster as a set of local communities that receive immigrants from a distinct metacommunity, we applied neutral, phylogenetic and null-model tests of selection and dispersal, metagenomic prediction and association inference. Selection operated chiefly as environmental filtering at the metacommunity level, associated with tree-hole size and shape, whereas local communities were statistically indistinguishable from stochastic assembly. Variable selection and dispersal limitation acted between metacommunities, whereas homogenizing dispersal prevailed within them. Association networks recapitulated metacommunity structure, indicating that co-occurrence largely reflects shared environment rather than interactions. In summary, performing some analyses while excluding others leads to misleading conclusions: comprehensive analyses and identifying the intrinsic scale in which selection may operate are needed to move beyond the deterministic--stochastic dichotomy.",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766812",
+    "date": "2026-11-16",
+    "authors": "Cuadrado Corz, J., Ramoneda, J., Alcon, D., Bell, T., Pascual-Garcia, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766812v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4990,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.15.766812"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.13.766150",
+    "title": "Cave ecosystems as drivers of viral diversity, endemism, andecological function at a global scale",
+    "abstract": "Caves are subterranean ecosystems that host diverse microbial communities involved in key biogeochemical processes. Yet, the diversity and ecological roles of viruses within these systems remain poorly understood. Here, we analyzed metagenomic data collected from 30 globally distributed cave systems, identifying 8,176 viral operational taxonomic units ([≥] 10kb size) that have little representation within a recent database of environmental viruses. In addition, cave-specific environmental fingerprints are shown to be a strong driver of viral distribution, reflected in a high degree of endemism both within and across cave systems. Viral-host associations suggest that viruses are primarily associated with Pseudomonadota and Actinomycetota lineages, the most abundant groups across all samples and involved in diverse carbon, sulfur, and nitrogen metabolisms. The high proportion of lytic viruses targeting these groups suggests strong top-down viral control, with virus-mediated microbial turnover likely contributing to organic matter recycling. This is further supported by lytic viruses carrying the majority of auxiliary metabolic genes (AMGs), with functions related to enhancing viral progeny production by increasing resource availability and reallocating cellular resources toward viral replication. In this study, we highlight how cave environments shape viral ecology and unveil a still yet unknown component of the subsurface virosphere.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766150",
+    "date": "2026-11-16",
+    "authors": "Barosa, B., Firrincieli, A., Gabrieli, L., Turatto, A., Lopo, E., Ghezzi, D., Garcia, L., Costantini, P. E., Danielli, A., De Waele, J., Sauro, F., Selensky, M., Osburn, M., Cappelletti, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766150v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4991,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766150"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.13.766504",
+    "title": "Different assembly and binning strategies recover contrasting genome catalogues and community profiles",
+    "abstract": "In genome-resolved metagenomics, different assembly and binning strategies can be employed to reconstruct microbial genomes and community profiles. We used metagenomic data from a longitudinal experiment, in which mice were exposed to a series of environmental stressors, to compare four approaches: single-coverage, multi-coverage, co-assembly, and multi-split. We evaluated their effectiveness in reconstructing microbial genomes, determining their relative abundances, and analysing functional profiles while accounting for computational efficiency. Our findings indicate significant differences in the quantity and quality of recovered genomes across strategies, which in turn influenced community profiles and research outcomes related to microbiota resilience to environmental pressures and functional differences between exposure to contrasting temperatures. We conclude that the choice of assembly and binning strategies is crucial and needs to be thoroughly assessed considering available resources, study design, and research aims, as the strategy employed for data processing can significantly affect the results and conclusions of metagenomic studies.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766504",
+    "date": "2026-11-16",
+    "authors": "Eisenhofer, R., Alberdi, A., Aizpurua, O.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766504v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "binning",
+        "genome",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "binning",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4992,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766504"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.13.766366",
+    "title": "Genome size variability reflects contrasting ecological strategies in Rhodoferax and Allorhodoferax",
+    "abstract": "Genome size is increasingly recognized as an important feature of aquatic prokaryotes, yet the ecological and evolutionary processes underlying this variability within freshwater bacterial lineages remain poorly understood. Here, we investigated the interplay between genome size, metabolic potential, and environmental distribution within the freshwater bacterial lineage historically classified as Rhodoferax (family Burkholderaceae) as a model system. We curated a dataset of 345 high-quality genomes grouped into 101 species-level clusters (ANI >95%) with estimated genome sizes ranging from 2.41 Mbp to 6.92 Mbp. Phylogenomic analyses revealed substantial evolutionary divergence within this lineage, supporting the distinction of Rhodoferax and Allorhodoferax and the recognition of two additional genera, which we propose to name Quasirhodoferax and Pararhodoferax. Rhodoferax and Allorhodoferax were widely distributed across global freshwater ecosystems and reached cumulative relative abundances of up to 20.4% in lake Lomtjarnan (Sweden). Species-level representatives with contrasting genome sizes exhibited distinct distributions across oxygen and depth gradients in stratified lakes, accompanied by differences in metabolic potential associated with their environmental niches. Genomic island content was also associated with genome size, although this relationship differed between Rhodoferax and Allorhodoferax, indicating that genome expansion through horizontal gene transfer may contribute differently to genome size variability across these lineages. Our study shows that genome size variability within Rhodoferax and Allorhodoferax reflects contrasting ecological strategies associated with environmental conditions, metabolic specialization, and alternative trajectories of genome evolution.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766366",
+    "date": "2026-11-16",
+    "authors": "Rodriguez-Gijon, A., Gonzalez-Mallen, V., Rodriguez-R, L. M., Garcia, S. L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766366v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "prokaryote"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "freshwater",
+          "lake"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4993,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766366"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.13.766530",
+    "title": "Genomic DNA repeats act as an antitoxin for a widespread Schlafen immune effector",
+    "abstract": "Many antiphage defenses employ toxic immune effectors in response to phage infection, necessitating robust strategies to counteract these toxins when cells are in the uninfected state. Here, we describe StaIN, the founding member of a unique family of toxin-mediated defenses that utilizes genomic DNA repeats for toxin restraint. The system consists of a repeat locus (staI) and a toxic protein (StaN) harboring Schlafen, ATPase, and helix-turn-helix (HTH) domains. We show that StaN is an ATP-activated tRNase that binds to staI DNA, and staI DNA is necessary to neutralize StaN's toxicity. Computational analyses identified thousands of StaN homologs in bacteria and archaea that bear one or more HTH domains, and many reside in genomic loci that are enriched with DNA repeats. Moreover, functional analyses revealed that distant StaN homologs exhibit similar DNA-gated toxicity. Altogether, our findings expand the logic of toxin-antitoxin-like systems to include antitoxins composed of noncoding genomic DNA.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766530",
+    "date": "2026-11-16",
+    "authors": "Boyle, T. A., Schoeller, K., Sanford, M. R., Hiestand, N. J., La, C. E., Aegerter, H. S., Aslan, B., Hatoum-Aslan, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766530v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4994,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766530"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.13.766372",
+    "title": "From species-wide genomics to cellular diversity: characterizing multidrug-resistant extraintestinal pathogenic Escherichia coli ST744",
+    "abstract": "The species Escherichia coli represents a wide and heterogeneous range of strains. Here, we exploited this genomic diversity to examine the distribution of virulence-associated genes (VAGs) and antibiotic resistance genes (ARGs) within a collection of 131,610 E. coli genomes. Across lineages of extraintestinal pathogenic E. coli (ExPEC), we identified a negative correlation between VAG and ARG content, with ST744 carrying the most resistance genes on average. Phylogenomic analysis of a global ST744 cohort revealed the existence of two main clades, and substantial variation in accessory gene content, resistance-region organization, and plasmid carriage. Subsequent phenotypic characterization revealed that the interpretability of genomic information depends on the trait being considered. Whereas antibiotic susceptibility measurements generally agreed with genomic predictions, limited correspondence was observed between the presence of specific metabolic and stress-associated genes and enhanced growth under such conditions. Image-based profiling also revealed extensive diversity in cell morphology, nucleoid organization and cell-cycle timing across strains, even among nearly clonal isolates. Together, our findings provide an in-depth characterization of E. coli ST744, within the broader diversity of E. coli and EXPEC, as well as a framework for examining how genomic differences relate to phenotypic diversity within other ExPEC lineages.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766372",
+    "date": "2026-11-16",
+    "authors": "Nesporova, K., Steemans, B., Palkovicova, J., Krutekova, K., Meunier, A., Valcek, A., Dolejska, M., Govers, S. K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766372v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4995,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766372"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.13.766458",
+    "title": "Extracellular Lactate Inhibits HIV Infection in Dendritic Cells by Downregulating CD4 Expression",
+    "abstract": "Cellular metabolism and cellular microenvironments influences immune-cell function. We previously demonstrated that interleukin-27 (IL-27)-induced monocyte-derived dendritic cells (27DCs) exhibit resistance to HIV-1. A mechanistic study for this antiviral effect suggested that in addition to inducing antiviral genes, IL-27 may influence cellular metabolism that contributes to the anti-HIV effect. During course of study, we observed that 27DCs accumulated lactate in culture supernatants by 5.7-fold increase compared with cultures of untreated DCs (iDCs) (12.1{+/-}1.3 versus 2.1{+/-}0.2 mM). Here, we assesses extracellular role of lactate on HIV infection. Healthy donors CD14+ monocytes were differentiated to DCs using GM-CSF and IL-4 in the absence of presence of lactate (Lac). DCs were infected with HIVAD8. Lactate-induced DC (LacDC) reduced R5-tropic HIV-1 AD8 replication by 71.1{+/-}8.3% without detectable cytotoxicity compared to that in untreated cells (iDCs). LacDCs exhibited reductions in viral particles binding, membrane fusion of viral particles, and HIV reverse-transcription by 78.5{+/-}2.8% (n=3, p<0.05), 78.7{+/-}3.3% (n=3, p<0.01), 86.2{+/-}5.7% (n=3. p<0.01), respectively. FACS analyses demonstrated that surface CD4 expression on LacDC decreased by 56.6{+/-}5.1% (n=5 , p<0.05) compared to iDC, whereas total cellular CD4 protein amount and surface CCR5 expression were not significantly altered. Neither the lactate transporter inhibitor nor the lactate receptor restored HIV-1 susceptibility. These findings demonstrate that lactate exposure during dendritic-cell differentiation induces an HIV-1-resistant phenotype associated with reduced surface CD4 availability and impaired viral attachment. This study identifies extracellular lactate as a modulator of dendritic-cell susceptibility to HIV-1 and suggests a potential link between IL-27-associated metabolic changes and antiviral immunity.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766458",
+    "date": "2026-11-16",
+    "authors": "Marquez, M., Bruchey, W., Chen, Q., Yang, J., Kariyawasam, U., Metz, J., Sowrirajan, B., Rupert, A., Laverdure, S., Imamichi, T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766458v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4996,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766458"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.12.766201",
+    "title": "Extensive SARS-CoV-2 spike sequence diversification converges on a bounded, low-dimensional physicochemical space",
+    "abstract": "During the COVID-19 pandemic, SARS-CoV-2 accumulated extensive amino acid variation in its spike protein. However, the extent to which sequence diversification translates into physicochemical diversity remains unclear. Here, we analyzed 271,769 unique spike protein sequences from 12 geographical regions using three physicochemical descriptors: net charge at pH 7.0, hydropathy, and aliphatic index. To characterize temporal changes in physicochemical space, we compared the squared Mahalanobis distances of observed sequences with those of Monte Carlo-simulated sequences containing randomized amino acid substitutions, constrained to the number of empirically variable positions. We applied trimmed clustering to characterize sequence distributions in physicochemical space and used Shannon entropy to assess spatiotemporal relationships between genotypic and physicochemical diversity across geographic regions. Empirical physicochemical displacement increased early in the observation period and subsequently stabilized, despite continued increases in variable amino acid positions and accumulated substitutions. In contrast, simulated trajectories exhibited greater and sustained physicochemical divergence. Trimmed clustering identified six distinct physicochemical groups repeatedly occupied by genetically divergent lineages differing in mutation burden, amino acid composition, and emergence time. Shannon entropy analyses revealed broadly similar nonlinear temporal patterns across geographic regions, with differences between genotypic and physicochemical entropy tending to be negative. These findings indicate that extensive spike protein sequence diversification occurred within a comparatively restricted physicochemical space, consistent with a many-to-one relationship between amino acid sequences and physicochemical states. This framework provides a quantitative approach for investigating physicochemical constraints on viral protein evolution and may inform future machine learning approaches to epitope prediction and vaccine antigen design.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766201",
+    "date": "2026-11-16",
+    "authors": "Manoussopoulos, Y., Anastassopoulou, C., Manoussopoulou, M., Siettos, C., Hiscox, J. A., Ioannidis, J., Tsakris, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766201v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4997,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.12.766201"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.13.766414",
+    "title": "Mapping the genetic landscape of cell morphogenesis and subcellular organization in stationary-phase Escherichia coli cells",
+    "abstract": "In nature, many bacteria reside in a non-growing stationary phase. The extent and genetic basis of the accompanying cellular remodeling remain unclear. Here, we developed Coli-Painting, a combinatorial staining assay, and BactoScoop, a dedicated image-based profiling pipeline, to characterize the growth-to-stasis transition in Escherichia coli. Single-cell profiles revealed a gradual yet heterogeneous entry, with some cells retaining signs of chromosome replication or cell division well into stationary phase. Subsequent genome-wide profiling identified genetic determinants of stationary-phase cell morphology, nucleoid organization, RNA distribution, and membrane-related properties. Global correlations among cellular features revealed coordinated aspects of stationary-phase cell architecture, while high-dimensional mutant profiles provided functional context for genes of known and unknown function. Downstream characterization of 19 y-genes highlighted the ability of our approach to identify relevant contributors to stationary-phase physiology. Overall, our work uncovers the genetic landscape of stationary-phase cell organization in E. coli and serves as a resource for uncovering growth-stage-specific gene function.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766414",
+    "date": "2026-11-16",
+    "authors": "Steemans, B., Sondervorst, K., Herdman, M., Nesporova, K., Meunier, A., Meert, E., Govers, S. K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766414v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4998,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.13.766414"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.12.766323",
+    "title": "Conjugative delivery of a miniature Cas nuclease for broad range recipient gene editing",
+    "abstract": "Efficient delivery of the Cas endonuclease into target cells avoiding toxic effects remains one of the limiting steps of CRISPR-Cas gene editing technologies. Bacterial conjugation delivers protein and DNA directly into recipient bacteria, since the conjugative relaxase travels through a type IV secretion system covalently attached to the transferred DNA strand. We previously showed that fusion proteins relaxase- Cas12a or relaxase- base editor are translocated by conjugation and recover gRNA-guided nuclease or base-editing activity in recipient bacteria, despite the large size of the fusion. Aiming to improve the efficiency and to broaden the range of susceptible recipient bacteria, here we test translocation of the miniature type V-U4 nuclease Cas12n, fused to two unrelated conjugative relaxases, MobA and TrwC from RSF1010 and R388 respectively. Both fusions of 139 and 168 kDa were stably produced in Escherichia coli donor cells, mobilized their cognate plasmid as efficiently as the wild-type relaxases, and directed guide-dependent cleavage of a chromosomal target in the donor. Translocation and activity in recipient cells were tested with a lethality assay based on the loss of transconjugants viability caused by double-strand breaks introduced by the translocated nuclease. When MobA-Cas12n was delivered together with a mobilizable plasmid which encoded the guide RNA, conjugation frequency was reduced by more than one order of magnitude relative to both a non-targeting guide RNA and a nuclease-free relaxase control, indicating target-specific cleavage of the recipient chromosome. When assayed in parallel with previously characterized TrwC-Cas12a, MobA-Cas12n showed better protein yields and higher activity in recipient cells. This work extends the range of Cas proteins deliverable by conjugative relaxases to miniature nucleases. The fusion with relaxase MobA allows the use of the promiscuous RP4 conjugative system for conjugative delivery, extending the range of recipient bacteria potentially targeted by this tool.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766323",
+    "date": "2026-11-16",
+    "authors": "Hotten, J., Guzman-Herrador, D. L., Llosa, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766323v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4999,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.11.12.766323"
+    ]
+  },
+  {
+    "id": "10.1038/s41522-026-01176-4",
+    "title": "Ebselen impairs biofilm-associated infections by targeting ArgR and disrupting arginine homeostasis in Gram-positive pathogens",
+    "abstract": "Ebselen impairs biofilm-associated infections by targeting ArgR and disrupting arginine homeostasis in Gram-positive pathogens",
+    "journal": "npj Biofilms and Microbiomes",
+    "doi": "10.1038/s41522-026-01176-4",
+    "date": "2026-11-16",
+    "authors": "Lili Zou",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41522-026-01176-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/npjbiofilms.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5000,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.nature.com/npjbiofilms.rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41522-026-01176-4"
+    ]
+  },
+  {
+    "id": "10.1038/s41579-026-01396-7",
+    "title": "Uncovering a clostridial toxin behind necrotizing enterocolitis",
+    "abstract": "In a recent study, Zhang and colleagues identify Delta toxin produced by Clostridium perfringens as the driver of intestinal and brain injury in a subset of necrotizing enterocolitis.",
+    "journal": "Nature Reviews Microbiology",
+    "doi": "10.1038/s41579-026-01396-7",
+    "date": "2026-11-16",
+    "authors": "Agustina Taglialegna",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41579-026-01396-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nrmicro.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5001,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.nature.com/nrmicro.rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41579-026-01396-7"
+    ]
   }
 ]

@@ -1498,6 +1498,13 @@
     ]
   },
   {
+    "name": "Caries research",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Case reports in hepatology",
     "scope": [
       "genomics",
@@ -2787,6 +2794,13 @@
     ]
   },
   {
+    "name": "European journal of medical genetics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "European journal of medicinal chemistry",
     "scope": [
       "ecology",
@@ -3443,6 +3457,13 @@
   },
   {
     "name": "Head and neck pathology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Health communication",
     "scope": [
       "genomics",
       "microbiology"
@@ -5559,6 +5580,13 @@
     ]
   },
   {
+    "name": "La Radiologia medica",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "The Laryngoscope",
     "scope": [
       "genomics",
@@ -6970,6 +6998,13 @@
     ]
   },
   {
+    "name": "Pharmaceutical medicine",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Pharmaceuticals (Basel, Switzerland)",
     "scope": [
       "genomics",
@@ -7784,6 +7819,13 @@
   },
   {
     "name": "STAR protocols",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Statistics in medicine",
     "scope": [
       "genomics",
       "microbiology"
