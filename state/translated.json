@@ -239309,22 +239309,27 @@
         "source": "Europe PMC bioinformatics",
         "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "scope": "candidate"
+      },
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
       }
     ],
     "publication_types": [
       "journal article"
     ],
     "id": "10.1093/bib/bbag587",
-    "title": "Biosemantic graph transfer learning for cross-patient cell type annotation and cell-cell interaction analysis in tumor single-cell RNA sequencing.",
+    "title": "Biosemantic graph transfer learning for cross-patient cell type annotation and cell–cell interaction analysis in tumor single-cell RNA sequencing",
     "abstract": "The exploration of cellular heterogeneity within the tumor microenvironment (TME) via single-cell RNA sequencing (scRNA-seq) is essential for understanding cancer progression and response to therapy. Current scRNA-seq approaches, however, lack spatial context and rely on incomplete datasets of ligand-receptor interactions, limiting accurate cell type annotation and cell-cell communication inference. This study addresses these challenges using a novel graph neural network model that enhances cell-type prediction and cell-interaction analysis. Our study utilized a dataset consisting of 49 024 cells from 19 patients across three cancer types: leukemia, breast invasive carcinoma, and colorectal cancer. The proposed scGSL model demonstrated robust performance, achieving an average accuracy of 84.83%, precision of 86.23%, recall of 81.51%, and an F1 score of 80.92% across all datasets. These metrics represent a significant enhancement over existing methods, which typically exhibit lower performance metrics. Additionally, by reviewing existing literature on gene interactions within the TME, the scGSL model proves to robustly identify biologically meaningful gene interactions in an unsupervised manner, validated by significant expression differences in key gene pairs across various cancers. The source code and data used in this study can be found at https://github.com/LiYuechao1998/scGSL.",
     "journal": "Briefings in Bioinformatics",
     "doi": "10.1093/bib/bbag587",
-    "date": "2026-11-01",
+    "date": "2026-11-13",
     "authors": "Li YC, Wong L, You HR, Wang XF, Wei MM, Wang L, Huang ZA, Huang YA, You ZH.",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://europepmc.org/article/MED/43021601",
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag587/9040809?rss=1",
     "preprint": false,
     "review": false,
     "pmcid": "",
@@ -239355,29 +239360,30 @@
     "collected_at": "2026-11-15T10:50:36.401365+00:00",
     "collected_date": "2026-11-15",
     "sources": [
-      "Europe PMC bioinformatics"
+      "Europe PMC bioinformatics",
+      "https://academic.oup.com/rss/site_5143/3005.xml"
     ],
     "first_seen": "2026-11-15",
     "related_dois": [
       "10.1093/bib/bbag587"
     ],
     "translation": {
-      "title": {
-        "hash": "dbed0711362c0ac45b893de3ee2917a99a3575639843f7e5512ef010e56db4c4",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-15T11:22:48.797310+00:00",
-        "format": "pfml3-ja-v1"
-      },
       "abstract": {
         "hash": "366faf1e7e3f96fa8a03e45f4b362801d3ee9dc2e10feb2dc1659bedb1a6e57c",
         "model": "plamo-3-translate-2b",
         "date": "2026-11-15T11:22:48.797310+00:00",
         "format": "pfml3-ja-v1"
+      },
+      "title": {
+        "hash": "25d82939e7eacbf04bf31788b1cc8893549fb57588ed3867e784e18c8e84f2ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:17:24.870606+00:00",
+        "format": "pfml3-ja-v1"
       }
     },
+    "abstract_ja": "シングルセルRNAシーケンシング（scRNA-seq）による腫瘍微小環境（TME）内の細胞不均一性の解析は、がんの進行および治療反応性を理解する上で不可欠である。しかし、現行のscRNA-seq手法は空間的コンテキストを欠いており、リガンド-受容体相互作用の不完全なデータセットに依存しているため、正確な細胞型アノテーションや細胞間コミュニケーションの推論が制限されている。本研究では、細胞型予測と細胞間相互作用解析を強化する新規グラフニューラルネットワークモデルを用いて、これらの課題に対処する。本研究では、白血病、浸潤性乳癌、および大腸癌の3種類のがんにわたる19名の患者から得られた49,024個の細胞からなるデータセットを利用した。提案するscGSLモデルは堅牢な性能を示し、全データセットにおいて平均正解率84.83%、適合率86.23%、再現率81.51%、およびF1スコア80.92%を達成した。これらの指標は、通常、性能指標が低い既存手法と比較して大幅な向上を示している。さらに、TME内の遺伝子相互作用に関する既存文献を検討した結果、scGSLモデルは教師なしの手法で生物学的に意義のある遺伝子相互作用を頑健に同定できることが証明され、これは様々ながんにおける主要な遺伝子ペア間の有意な発現差によって検証された。本研究で使用したソースコードおよびデータは、https://github.com/LiYuechao1998/scGSL で入手可能である。",
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "腫瘍シングルセルRNAシーケンシングにおける患者間細胞種アノテーションおよび細胞間相互作用解析のためのバイオセマンティックグラフ転移学習",
-    "abstract_ja": "シングルセルRNAシーケンシング（scRNA-seq）による腫瘍微小環境（TME）内の細胞不均一性の解析は、がんの進行および治療反応性を理解する上で不可欠である。しかし、現行のscRNA-seq手法は空間的コンテキストを欠いており、リガンド-受容体相互作用の不完全なデータセットに依存しているため、正確な細胞型アノテーションや細胞間コミュニケーションの推論が制限されている。本研究では、細胞型予測と細胞間相互作用解析を強化する新規グラフニューラルネットワークモデルを用いて、これらの課題に対処する。本研究では、白血病、浸潤性乳癌、および大腸癌の3種類のがんにわたる19名の患者から得られた49,024個の細胞からなるデータセットを利用した。提案するscGSLモデルは堅牢な性能を示し、全データセットにおいて平均正解率84.83%、適合率86.23%、再現率81.51%、およびF1スコア80.92%を達成した。これらの指標は、通常、性能指標が低い既存手法と比較して大幅な向上を示している。さらに、TME内の遺伝子相互作用に関する既存文献を検討した結果、scGSLモデルは教師なしの手法で生物学的に意義のある遺伝子相互作用を頑健に同定できることが証明され、これは様々ながんにおける主要な遺伝子ペア間の有意な発現差によって検証された。本研究で使用したソースコードおよびデータは、https://github.com/LiYuechao1998/scGSL で入手可能である。"
+    "title_ja": "腫瘍シングルセルRNAシーケンシングにおける患者間細胞種アノテーションおよび細胞間相互作用解析のためのバイオセマンティックグラフ転移学習"
   },
   {
     "discovery": [
@@ -263105,5 +263111,227 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "TGF-β/アクチビンシグナル伝達は、<i>Drosophila</i>幼虫の体壁筋の成長過程において、2つの主要なタンパク質品質管理機構の活性のバランスを調節する。",
     "abstract_ja": "若齢および成長期の筋肉では、タンパク質品質管理（PQC）に対する絶え間ない負荷にさらされていると考えられるにもかかわらず、そのタンパク質品質を維持する機構についてはほとんど解明されていない。本研究では、幼虫期に急速に成長するショウジョウバエの体壁筋におけるPQCにおいて、TGF-β/アクチビン経路が果たす役割について検討した。その結果、TGF-β/アクチビン経路がプロテアソームサブユニットの発現を促進することで、体壁筋におけるプロテアソーム活性を正に制御していることが明らかになった。このプロテアソーム活性は、サルコメアの適切な構築や、グルタミン酸受容体のシナプスへの標的化に不可欠である。対照的に、TGF-β/アクチビン経路はAtg1の発現を抑制することでオートファジーを減弱させる。その結果、TGF-β/アクチビンシグナル伝達が遮断された筋肉ではオートファジーが亢進し、それがPQCに対する脅威に対する保護的な役割を果たす。以上の結果を総合すると、ショウジョウバエの若齢および成長期の筋肉におけるPQCの調節において、TGF-β/アクチビン経路が多面的な役割を担っていることが示される。"
+  },
+  {
+    "id": "10.1093/bib/bbag631",
+    "title": "ESGI: efficient splitting of generic indices in single-cell sequencing data",
+    "abstract": "AbstractSingle-cell sequencing technologies increasingly rely on complex nucleotide barcoding schemes to encode cellular identities, experimental conditions, and molecular modalities within a single experiment. While demultiplexing, alignment, and unique molecular identifier (UMI)-based quantification form the core preprocessing steps that transform raw sequencing reads into analyzable single-cell data, existing pipelines are often tightly coupled to specific experimental designs and typically assume fixed barcode positions and substitution-only error models. As a result, many assays employing combinatorial, variable-length, or multimodal barcoding designs require custom, hard-coded preprocessing solutions that are difficult to generalize and maintain. Here, we present efficient splitting of generic indices (ESGI), a flexible framework for demultiplexing and processing single-cell sequencing data with arbitrary barcode architectures. ESGI operates directly on raw FASTQ files using a generic barcode pattern specification, supports barcode matching with insertions and deletions via Levenshtein distance, accommodates variable-length barcodes, and provides detailed quality metrics for barcode assignment. ESGI optionally integrates genome alignment via STAR and performs feature quantification and UMI collapsing to generate cell-by-feature count matrices. ESGI is well documented and readily applicable to novel single-cell experiments. We demonstrate the versatility of ESGI across six datasets spanning four distinct single-cell technologies, including combinatorial indexing–based transcriptomic and multimodal assays, feature barcode-based protein measurements, and spatial barcoding data. Across these applications, ESGI robustly demultiplexes complex barcode designs that are not natively supported by existing pipelines, while producing results comparable with established workflows where applicable. ESGI provides a general solution for processing a wide range of barcoded single-cell sequencing data, enabling rapid adoption and analysis of emerging experimental designs.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag631",
+    "date": "2026-11-15",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbag631/9062978?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5143/3005.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 4877,
+    "collected_at": "2026-11-16T02:54:27.866824+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://academic.oup.com/rss/site_5143/3005.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bib/bbag631"
+    ],
+    "translation": {
+      "title": {
+        "hash": "52c716c7d76570df119b04aa32a4b38ef98129f0e55a3f82f9dd7ff6a1f1c138",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:17:24.870606+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "41dc50ab6bfccc3537d691127e4e64c9f51e9a0c3c4a588211fca7ca5ab91f7e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:17:24.870606+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ESGI: シングルセルシーケンシングデータにおける汎用インデックスの効率的な分割",
+    "abstract_ja": "要旨 単一細胞シーケンシング技術では、単一の実験内で細胞の識別情報、実験条件、および分子モダリティをエンコードするために、複雑なヌクレオチドバーコーディング方式への依存度が高まっている。デマルチプレクシング、アライメント、および一意分子識別子（UMI）に基づく定量化は、生のシーケンシングリードを解析可能な単一細胞データへと変換する中核的な前処理ステップであるが、既存のパイプラインは特定の実験設計と密接に結びついていることが多く、通常は固定のバーコード位置と置換のみのエラーモデルを前提としている。その結果、組み合わせ型、可変長、またはマルチモーダルなバーコーディング設計を採用する多くのアッセイでは、汎用化や保守が困難な、カスタムのハードコードされた前処理ソリューションが必要となる。本報では、任意のバーコードアーキテクチャを持つ単一細胞シーケンシングデータのデマルチプレクシングおよび処理のための柔軟なフレームワークである、汎用インデックス分割（ESGI）を提案する。ESGIは、汎用的なバーコードパターン仕様を用いて生のFASTQファイルを直接処理し、レーベンシュタイン距離による挿入・欠失を伴うバーコードマッチングをサポートし、可変長バーコードに対応し、バーコード割り当てに関する詳細な品質指標を提供する。ESGIは、オプションでSTARによるゲノムアライメントを統合し、特徴量定量化およびUMIコラプシングを行うことで、特徴量ごとのカウント行列を生成する。ESGIは十分に文書化されており、新規の単一細胞実験にも容易に適用可能である。我々は、組み合わせ型インデックスに基づくトランスクリプトームおよびマルチモーダルアッセイ、特徴量バーコードに基づくタンパク質測定、および空間バーコーディングデータを含む、4つの異なる単一細胞技術にわたる6つのデータセットを用いて、ESGIの汎用性を実証する。これらの応用例において、ESGIは既存のパイプラインでは本来サポートされていない複雑なバーコード設計を堅牢にデマルチプレクシングし、適用可能な場合には確立されたワークフローと同等の結果を得る。ESGIは、広範なバーコーディング済み単一細胞シーケンシングデータを処理するための汎用的なソリューションを提供し、新たな実験設計の迅速な導入と解析を可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01327-26",
+    "title": "Improved disc diffusion-based detection of extended spectrum β-lactamase production in the <i>Klebsiella oxytoca</i> complex.",
+    "abstract": "Accurate discrimination between extended-spectrum β-lactamase (ESBL) production and hyperproduction of the intrinsic OXY-β-lactamase (hyperOXY) in the Klebsiella oxytoca complex remains challenging, as both mechanisms can generate overlapping resistance phenotypes and lead to unnecessary confirmatory testing or misclassification. We analyzed a collection of 123 whole-genome-sequenced clinical K. oxytoca complex isolates (2009-2024), including 33 ESBL producers and multiple species-specific blaOXY variants, to develop a phenotypic strategy for distinguishing these resistance mechanisms using disc diffusion data. We performed antimicrobial susceptibility testing according to EUCAST guidelines and correlated phenotypic findings with genomic resistance determinants. HyperOXY isolates harbored classical activating mutations in blaOXY promoter regions and displayed a characteristic resistance pattern marked by high-level resistance to amoxicillin-clavulanic acid and piperacillin-tazobactam, resistance to ceftriaxone and cefpodoxime, preserved or borderline susceptibility to ceftazidime, and variable reductions in cefepime susceptibility. In contrast, ESBL-producing isolates showed reproducible clavulanate synergy and distinct inhibition zone distributions for piperacillin-tazobactam, cefpodoxime, and gentamicin. A cefpodoxime inhibition zone diameter K. oxytoca complex possess an intrinsic OXY β-lactamase that can be overexpressed and generate resistance patterns closely resembling those of extended-spectrum β-lactamase (ESBL) producers. This phenotypic overlap complicates routine antimicrobial susceptibility testing and frequently leads to unnecessary ESBL confirmatory testing or misclassification, with potential consequences for patient management and infection control. Using a large, genomically characterized strain collection, this study defines reproducible disc diffusion patterns that distinguish hyperOXY-mediated resistance from true ESBL production and evaluates screening and confirmatory strategies based on routinely tested antibiotics. By providing practical, phenotype-based guidance aligned with EUCAST methodology, our findings help clinical laboratories improve diagnostic accuracy, streamline workflows, and avoid ESBL-misidentification in K. oxytoca complex isolates.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01327-26",
+    "date": "2026-10-21",
+    "authors": "Mancini S, Tribelhorn F, Roloff T, Seth-Smith HMB, Kolesnik-Goldmann N, Eichenberger RM, Quiblier C, Hinic V, Egli A, Nolte O.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904639",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904639",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4844,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1128/spectrum.01327-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9d3493b96d831f7c23d898e0b6df1349cbb4b76132b3001019fc3bea4dbe2a1f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:17:24.870606+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c8a6b7502418841d7e6e7fdd9d07aa845f56a0972062381717e1ee4b69c186bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:17:24.870606+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Klebsiella oxytoca</i>複合体における拡張スペクトルβ-ラクタマーゼ産生のディスク拡散法による検出法の改良",
+    "abstract_ja": "Klebsiella oxytoca複合体における広域β-ラクタマーゼ（ESBL）産生と内在性OXY-β-ラクタマーゼ（hyperOXY）の過剰産生を正確に鑑別することは、依然として困難な課題である。これは、両機序が重複する耐性表現型を生じさせ、不必要な確定診断や誤分類を招く可能性があるためである。我々は、ディスク拡散データを用いてこれらの耐性機序を区別するための表現型戦略を開発するため、ESBL産生株33株および複数種特異的blaOXY変異株を含む、全ゲノム配列が決定された123株のK. oxytoca複合体臨床分離株（2009-2024年）を解析した。EUCASTガイドラインに従って薬剤感受性試験を実施し、表現型所見をゲノム耐性決定因子と相関させた。hyperOXY分離株は、blaOXYプロモーター領域に古典的な活性化変異を有しており、アモキシシリン・クラブラン酸およびピペラシリン・タゾバクタムに対する高レベルの耐性、セフトリアキソンおよびセフポドキシムに対する耐性、セフタジジムに対する維持または境界域の感受性、およびセフェピム感受性の変動的な低下を特徴とする耐性パターンを示した。対照的に、ESBL産生分離株は、再現性のあるクラブラン酸相乗効果を示し、ピペラシリン・タゾバクタム、セフポドキシム、およびゲンタマイシンに対して明確な阻止円分布を示した。セフポドキシムの阻止円径K. oxytoca複合体は内在性OXY β-ラクタマーゼを保有しており、これが過剰発現することで広域β-ラクタマーゼ（ESBL）産生株に酷似した耐性パターンを生じさせることがある。この表現型の重複は、日常的な薬剤感受性試験を困難にし、しばしば不必要なESBL確定診断や誤分類を招き、患者管理や感染制御に影響を及ぼす可能性がある。ゲノム特性解析済みの大規模な菌株コレクションを用いて、本研究では、hyperOXY介在性耐性を真のESBL産生から区別する再現性のあるディスク拡散パターンを定義し、日常的に試験される抗菌薬に基づくスクリーニングおよび確定診断戦略を評価した。EUCASTの手法に沿った表現型に基づく実用的な指針を提供することで、本研究の知見は、臨床検査室における診断精度の向上、ワークフローの効率化、およびK. oxytoca複合体分離株におけるESBLの誤同定の回避に寄与する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1038/s41592-026-03272-x",
+    "title": "Benchmarking segmentation methods for spatial transcriptomics.",
+    "abstract": "Cell segmentation is a critical yet under-standardized step in spatial transcriptomics, directly affecting cell identity assignment, spatial organization and downstream biological interpretation. Despite rapid advances in spatial transcriptomics technologies, systematic evaluations of segmentation methods across platforms and biological contexts remain limited. Here we benchmark 11 image-based, transcriptomics-based and multimodal segmentation methods across 15 datasets generated by 5 spatial transcriptomics technologies, spanning 12 human and mouse tissue types. We introduce biologically informed evaluation metrics that quantify segmentation quality, transcript recovery, cell composition, morphology, expression purity and spatial organization. Benchmarking reveals substantial variation in performance across datasets, technologies and evaluation criteria, highlighting trade-offs among segmentation completeness, transcriptomic fidelity and biological interpretability. Cross-technology analyses further demonstrate that segmentation choice critically shapes downstream analyses, including cell-type specificity, transcript contamination and ligand-receptor inference. Together, our unified Nextflow pipeline provides a scalable foundation for standardized evaluation of segmentation and method selection in spatial transcriptomics.",
+    "journal": "Nature Methods",
+    "doi": "10.1038/s41592-026-03272-x",
+    "date": "2026-10-23",
+    "authors": "Martínez-de-Morentin X, Khan SA, Maillo A, Lehmann R, Kiani NA, Lagani V, Gomez-Cabrero D, Tegner J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42919952",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13736688",
+    "pmid": "42919952",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "method",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4833,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1038/s41592-026-03272-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8bdc83b5573513ad7c8db7c50da7c72cfbc61184437a94383d648d5e07c8fe45",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:17:24.870606+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d933e72cd373fbfccef9c2ed7cbf2d9cbfdebb0a44e1057e60a6c4eea2bc616b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:17:24.870606+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "空間トランスクリプトミクスにおけるセグメンテーション手法のベンチマーク評価",
+    "abstract_ja": "細胞セグメンテーションは、空間トランスクリプトミクスにおいて極めて重要でありながら標準化が進んでいない工程であり、細胞の同定、空間的構成、および後続の生物学的解釈に直接的な影響を及ぼす。空間トランスクリプトミクス技術は急速に発展しているものの、プラットフォームや生物学的コンテキストを横断したセグメンテーション手法の体系的な評価は依然として限られている。本研究では、12種類のヒトおよびマウス組織を網羅する5つの空間トランスクリプトミクス技術によって生成された15のデータセットを用い、画像ベース、トランスクリプトミクスベース、およびマルチモーダルな11種類のセグメンテーション手法のベンチマーク評価を行った。我々は、セグメンテーションの品質、トランスクリプトの回収率、細胞組成、形態、発現純度、および空間的構成を定量化する、生物学的知見に基づいた評価指標を導入した。ベンチマーク評価の結果、データセット、技術、および評価基準によって性能に著しいばらつきがあることが明らかになり、セグメンテーションの網羅性、トランスクリプトミクスの忠実度、および生物学的解釈可能性の間のトレードオフが浮き彫りとなった。さらに、技術横断的な解析により、セグメンテーションの選択が、細胞種特異性、トランスクリプトのコンタミネーション、およびリガンド・受容体の推論を含む後続の解析に決定的な影響を与えることが示された。総じて、我々の統合的なNextflowパイプラインは、空間トランスクリプトミクスにおけるセグメンテーションの標準化評価および手法選択のための、スケーラブルな基盤を提供するものである。"
   }
 ]
