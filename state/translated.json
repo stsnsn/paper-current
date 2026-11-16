@@ -269543,5 +269543,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "環境中CO₂濃度の上昇は光合成を活性化し、カリブ海の造礁サンゴ2種において差異的な酸化応答を誘導する。",
     "abstract_ja": "造礁サンゴは渦鞭毛藻と細胞内光共生関係を維持しており、光合成産物を代謝燃料として利用している。二酸化炭素（CO₂）は光合成の重要な基質であるが、人為的な排出により全球の海洋で急速に増加している（「海洋酸性化」として知られる）ことで、サンゴの共生関係が乱される可能性がある。本研究では、カリブ海の造礁サンゴであるPorites astreoidesおよびOrbicella franksiにおいて、CO₂濃度の上昇が光合成によるO₂産生、酸化的損傷、および抗酸化系に及ぼす影響を検討した。パナマのボカス・デル・トロの水深3mで採取したサンゴコロニーを、屋外フロースルー式水槽内で、対照条件（∼390 μatm CO₂, pH ∼8.00）またはCO₂濃度上昇条件（∼1,060 μatm CO₂, pH ∼7.70）に10日間曝露させた。流動海水中のO₂濃度は、CO₂濃度上昇水槽においてより高く、光照量が多いほどその差が顕著であった。マイクロセンサーによる測定の結果、CO₂濃度上昇への急性および慢性的な曝露が、両種において光合成によるO₂産生を有意に促進することが確認された。O₂産生が増加したにもかかわらず、いずれの種においても、脂質過酸化、還元型グルタチオン、あるいはスーパーオキシドジスムターゼ、カタラーゼ、およびグルタチオン-S-トランスフェラーゼ活性に有意な変化は見られなかった。タンパク質酸化はO. franksiでは変化しなかったが、P. astreoidesでは有意に低下した。これらの結果は、CO₂濃度上昇下におけるP. astreoides共生生物の炭素制限が部分的に緩和されたことと一致しており、光合成効率の向上および活性酸素種の産生減少をもたらす可能性がある。これらの知見は、P. astreoidesのOAに対する耐性を裏付けるものであり、将来のサンゴ礁においてCO₂濃度の上昇が日中のO₂レベルを上昇させ、サンゴ生物の好気的代謝に影響を及ぼす可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11130518/v1",
+    "title": "Two decades of changing Enterococcus epidemiology and antimicrobial susceptibility in a Brazilian tertiary university hospital, 2002–2023",
+    "abstract": "Abstract    Background  Enterococcus  spp. are major opportunistic hospital pathogens characterised by remarkable environmental persistence, genomic plasticity, and the ability to acquire antimicrobial resistance determinants. This study aimed to evaluate the occurrence, temporal dynamics, clinical distribution, and phenotypic antimicrobial susceptibility trends of  Enterococcus  spp. clinical isolates in a tertiary teaching hospital in southern Brazil over a 22-year period (2002–2023). Methods  A retrospective, observational study based on positive clinical cultures from hospitalised patients. After applying the inclusion and exclusion criteria, unique isolates were analysed for species, clinical specimens, hospital ward, hospital outcome, and antimicrobial resistance. The study was divided into two periods: January 2002 through March 2019, and April 2019 through December 2023. Results  A total of 6,283 isolates were included, comprising 4,881 (77.7%)  E. faecalis  and 1,286 (20.5%)  E. faecium  . Urine was the primary clinical specimen for both species. An increase in the frequency of isolates was observed in recent years, peaking in 2021 for  E. faecalis  and in 2022 for  E. faecium  .  E. faecium  maintained high resistance rates, whereas in  E. faecalis  , vancomycin resistance increased from 6.6% to 25.2% between the analysed periods. Linezolid resistance remained low in both species. Conclusions  Although  E. faecalis  predominated throughout the period,  E. faecium  was disproportionately associated with bloodstream infections, Intensive Care Unit (ICU) admissions, deaths, and antimicrobial resistance. The significant increase in antimicrobial resistance among both species underscores the importance of continuous microbiological surveillance and species-specific analysis, as well as the need to strengthen infections prevention and control measures.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11130518/v1",
+    "date": "2026-10-22",
+    "authors": "Cardim SL, Olak APS, Aurora DMLdO, Junior ERdO, Aragon-Alegro LC, Cardim ST, Jorge MA, de Santana EHW, Vespero EC, Ogatta SFY, Perugini MRE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348124",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2702,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11130518/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2d6d14322502489cfb51be73dfc92335f71c33639e04f63ed781a77de047f3a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:58:57.736929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dd0d2e0d1037d8ac9e979dbe7740d3b8661037cd91e9b072893720aa2bc0a799",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:58:57.736929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブラジルの三次大学病院におけるエンテロコッカスの疫学および薬剤感受性の20年間にわたる変遷、2002–2023年",
+    "abstract_ja": "要旨    背景  エンテロコッカス属菌（Enterococcus spp.）は、顕著な環境持続性、ゲノム可塑性、および薬剤耐性決定因子の獲得能を特徴とする、主要な院内日和見病原体である。本研究は、ブラジル南部の三次教育病院におけるエンテロコッカス属菌の臨床分離株について、22年間（2002–2023年）にわたる出現状況、経時的動態、臨床分布、および表現型による薬剤感受性の傾向を評価することを目的とした。方法  入院患者の陽性臨床培養検体に基づく後方視的観察研究。組み入れ基準および除外基準を適用した後、固有分離株について、菌種、臨床検体、病棟、院内転帰、および薬剤耐性の解析を行った。本研究は、2002年1月から2019年3月まで、および2019年4月から2023年12月までの2つの期間に分けた。結果  計6,283株の分離株が組み入れられ、その内訳はE. faecalisが4,881株（77.7%）、E. faeciumが1,286株（20.5%）であった。両菌種ともに、尿が主要な臨床検体であった。近年、分離株の頻度の増加が認められ、E. faecalisでは2021年に、E. faeciumでは2022年にピークに達した。E. faeciumは高い耐性率を維持していたが、E. faecalisでは、解析期間においてバンコマイシン耐性が6.6%から25.2%に増加した。リネゾリド耐性は両菌種ともに低い水準に留まった。結論  全期間を通じてE. faecalisが優勢であったが、E. faeciumは血流感染症、集中治療室（ICU）への入院、死亡、および薬剤耐性と不釣り合いに高い頻度で関連していた。両菌種における薬剤耐性の有意な増加は、継続的な微生物学的サーベイランスと菌種特異的な解析の重要性、ならびに感染予防・管理策を強化する必要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2172.v1",
+    "title": "Optimization of AAV9 Dose and Fluorescein Concentration for Vagus Nerve Injection in Rats",
+    "abstract": "Background:  /Objectives: Direct intraneural delivery of adeno-associated virus serotype 9 (AAV9) via peripheral nerves remains largely unexplored. This study evaluated the feasibility of AAV9 delivery into the vagus nerve, identified an optimal dose, and determined an optimal fluorescein dye concentration for tracking injection fidelity. Methods: Rats received left vagus nerve injections of 5 µL AAV9/GFP at doses of 2.5 × 10⁹, 2.5 × 10¹⁰, 7.6 × 10¹⁰, 2.5 × 10¹¹, or 6.5 × 10¹¹ vector genomes (vg)/rat, mixed with 1% luxol fast blue dye. Controls received vehicle with dye. Transduction in the nodose ganglia of the vagus nerve and medulla was assessed. Fluorescein compatibility was evaluated in CHO Lec2 cells using concentrations of 0%, 0.0001%, 0.004%, and 0.01% at high and low multiplicities of infection. In vivo compatibility was subsequently confirmed using 2.5 × 10¹¹ vg/rat with 0.001%, 0.002%, 0.004%, or 0.008% fluorescein. Results: Transduction of critical autonomic nervous system sites increased with dose. The two highest doses (2.5 × 10¹¹ and 6.5 × 10¹¹ vg/rat) produced abundant, comparable transduction in the nodose ganglia and medulla, identifying 2.5 × 10¹¹ vg/rat as the optimal dose. Fluorescein did not inhibit AAV9 transduction in CHO Lec2 cells at the concentrations tested. In vivo, 0.004% fluorescein provided clear visualization during vagus nerve injection. Conclusions: Direct intraneural administration of AAV9/GFP at 2.5 × 10¹¹ vg/rat with 0.004% fluorescein offers an effective formulation for vagus nerve delivery in rats. Further validation and dose-scaling studies are suggested to establish feasibility for translation to larger animals and humans.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2172.v1",
+    "date": "2026-10-22",
+    "authors": "Regmi NL, Armao D, Chen X, Hu Y, Bailey RM, Gray SJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347498",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2704,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.2172.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "84be34959dcb6ff907d8305a159b757b87e3e1b8847cd06c4e2c29780a6915c6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:58:57.736929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "713f9d1b087e7998bbf355ee92bd4e6408a9eb94df969b64640a5911dc3ef39a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:58:57.736929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ラットの迷走神経注射におけるAAV9投与量およびフルオレセイン濃度の最適化",
+    "abstract_ja": "背景：/目的：末梢神経を介したアデノ随伴ウイルス血清型9（AAV9）の直接的な神経内投与は、依然としてほとんど解明されていない。本研究では、迷走神経へのAAV9投与の実現可能性を評価し、最適用量を特定するとともに、注入忠実度を追跡するための最適なフルオレセイン色素濃度を決定した。方法：ラットの左迷走神経に、1% Luxol Fast Blue色素を混合したAAV9/GFPベクターゲノム（vg）5 µL（用量：2.5 × 10⁹、2.5 × 10¹⁰、7.6 × 10¹⁰、2.5 × 10¹¹、または6.5 × 10¹¹ vg/rat）を注入した。対照群には色素を含むキャリアを投与した。迷走神経のノドーゼ神経節および延髄におけるトランスダクションを評価した。CHO Lec2細胞を用い、高および低感染多重度において、0%、0.0001%、0.004%、および0.01%の濃度でフルオレセインの適合性を評価した。その後、2.5 × 10¹¹ vg/ratに0.001%、0.002%、0.004%、または0.008%のフルオレセインを併用し、in vivoでの適合性を確認した。結果：自律神経系の重要部位におけるトランスダクションは、用量の増加に伴い亢進した。最高用量の2種類（2.5 × 10¹¹および6.5 × 10¹¹ vg/rat）では、ノドーゼ神経節および延髄において豊富かつ同等のトランスダクションが認められ、2.5 × 10¹¹ vg/ratが最適用量であることが特定された。試験した濃度において、フルオレセインはCHO Lec2細胞におけるAAV9のトランスダクションを阻害しなかった。in vivoでは、0.004%フルオレセインにより迷走神経注入時の明確な可視化が可能であった。結論：0.004%フルオレセインを併用した2.5 × 10¹¹ vg/ratのAAV9/GFP直接神経内投与は、ラットにおける迷走神経投与のための有効な製剤である。より大型の動物およびヒトへのトランスレーショナルな応用に向けた実現可能性を確立するため、さらなる検証および用量スケーリング試験が推奨される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2241.v1",
+    "title": "Flavor Modulation Strategies for Sodium Reduction in Processed Foods: A Review",
+    "abstract": "Sodium chloride occupies a functional position in processed foods that a simple subtraction cannot easily replace: it is simultaneously a tastant, a preservative, a texture modifier, and — less obviously — a modulator of other flavors, suppressing bitterness and amplifying sweetness and umami. Population-level sodium intake nonetheless remains roughly double recommended levels in most industrialized countries, and processed and away-from-home foods account for the large majority of that intake, which has made flavor-preserving sodium reduction one of the more persistent problems in food product development. This review synthesizes recent literature on strategies that address the flavor consequence of sodium removal specifically, organized around five mechanistic categories: taste-receptor-level substitution (potassium and mineral salts, plant- and marine-derived alternatives), chemosensory flavor enhancement (umami compounds, yeast-derived and fermentation-derived salty/umami peptides, bitter blockers), cross-modal and multisensory perception strategies (odor-induced saltiness enhancement, herb and spice seasoning, taste-taste and taste-texture interactions), physical and structural engineering of salt and food matrices (crystal morphology, particle size reduction, inhomogeneous spatial distribution, encapsulation), and processing-assisted approaches (high-pressure processing, ultrasound). Across food categories — meat, bread and bakery, cheese, and snacks — the evidence indicates that no single strategy reliably sustains more than a 20–30% sodium reduction without a perceptible flavor penalty, but combinations of mechanistically distinct strategies (e.g., a potassium-based substitute plus a bitterness-masking polysaccharide plus a savory aroma) can compound their effects to reach 50% or more. The review also considers the industrial and regulatory context shaping which of these strategies actually reach the shelf, since global sodium reduction remains off-track against the World Health Organization's 2025 target despite two decades of reformulation research. It closes by identifying where the evidence base is thin — chiefly the durability of consumer acceptance over repeated exposure, and the scalability of some promising laboratory-stage technologies — and where near-term industrial opportunity is greatest.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2241.v1",
+    "date": "2026-10-22",
+    "authors": "S G.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349897",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 3709,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.20944/preprints202610.2241.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "09092824559b826fe4fab4bfe222bde7124a17a61d7000e891062ff85c7640d7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:58:57.736929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "08a7cf87b3c0808b3f5087dd1c99fb938d1be1513128d6eabef8f35322414c9f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:58:57.736929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "加工食品におけるナトリウム低減のための風味調節戦略：総説",
+    "abstract_ja": "塩化ナトリウムは、加工食品において、単純な除去では容易に代替できない機能的な役割を担っている。すなわち、味覚刺激物質、保存料、テクスチャー調整剤であり、また――それほど明白ではないが――苦味を抑制し、甘味や旨味を増強させる他の風味の調節因子でもある。それにもかかわらず、ほとんどの工業国において、集団レベルのナトリウム摂取量は依然として推奨量の約2倍に達しており、その大部分を加工食品や外食が占めている。このため、風味を保持しつつナトリウムを削減することは、食品開発における根深い課題の一つとなっている。本総説では、特にナトリウム除去による風味への影響に対処する戦略に関する最新の文献を、5つのメカニズム的カテゴリーに基づいて整理してまとめる。すなわち、味覚受容体レベルの置換（カリウムおよびミネラル塩、植物由来および海洋由来の代替物質）、化学感覚的な風味増強（旨味化合物、酵母由来および発酵由来の塩味／旨味ペプチド、苦味遮断物質）、クロスモーダルおよび多感覚知覚戦略（臭気誘発性の塩味増強、ハーブ・スパイスによる調味、味覚間および味覚・テクスチャー間の相互作用）、塩および食品マトリックスの物理的・構造的工学（結晶形態、粒子径の縮小、不均一な空間分布、カプセル化）、そして加工補助的アプローチ（高圧処理、超音波）である。肉類、パン・ベーカリー製品、チーズ、スナック菓子といった食品カテゴリー全体において、知覚可能な風味の低下を伴わずに20～30%以上のナトリウム削減を確実に維持できる単一の戦略は存在しないことが示されている。しかし、メカニズム的に異なる戦略（例：カリウムベースの代替物質＋苦味マスキング多糖類＋セイボリーアロマ）を組み合わせることで、その効果を相乗的に高め、50%以上に到達させることが可能である。また、20年にわたる配合変更研究にもかかわらず、世界的なナトリウム削減が世界保健機関（WHO）の2025年目標から依然として乖離している現状を踏まえ、これらの戦略のうち実際に店頭に並ぶに至るものがどのようなものであるかを規定する、産業的および規制的な背景についても考察する。最後に、エビデンス基盤が不十分な点――主に、繰り返しの曝露に対する消費者受容性の持続性や、一部の有望な研究室段階の技術の拡張性――と、短期的な産業的機会が最も大きい点を明らかにして締めくくる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.16.759775",
+    "title": "Evolutionary rescue in toxic combinations of metal is dependent on metal interactions",
+    "abstract": "Populations facing abrupt environmental change may avoid extinction through evolutionary rescue, in which beneficial mutations allow individuals to survive and reproduce under otherwise lethal conditions. However, theory on evolutionary rescue has largely focused on single stressors, leaving open how interactions among simultaneous stressors shape adaptation. In particular, synergistic interactions, which amplify toxicity, and antagonistic interactions, which reduce it, may impose distinct selective pressures and lead to different fitness outcomes. To investigate this, we experimentally evolved  Saccharomyces cerevisiae under lethal combinations of six metals (Cd, Co, Cu, Mn, Ni, and Zn), obtaining rescued lines in eight of the fifteen pairwise combinations. We then measured the fitness of evolved lines in the original metal combination, each component metal individually, and the ancestral environment. Adaptation differed systematically with metal interactions: lines evolved in antagonistic combinations generally gained fitness in the individual metals as well as in the combination, whereas lines evolved in synergistic combinations tended to show more specialized adaptation, with fitness benefits concentrated in the combination and reduced fitness in the component metals. No rescue was observed in combinations whose toxicity was consistent with concentration addition, although differences in the precise toxicity of experimental treatments may have influenced rescue outcomes. These findings demonstrate that interactions among simultaneous stressors can shape not only the likelihood of evolutionary rescue but also the breadth of its fitness benefits, highlighting the importance of accounting for stressor interactions when investigating evolutionary responses to environmental change.",
+    "journal": "",
+    "doi": "10.64898/2026.10.16.759775",
+    "date": "2026-10-22",
+    "authors": "Kahn PC, Otto SP.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349336",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3739,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.16.759775"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6b5995bac5f8d5588c74166c2866b4632995b783255ce12544032cdea4858d75",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:58:57.736929+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e51bf0039e4b588f53f9e110158a4d93491d4821675290913be987b889c3e382",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:58:57.736929+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "毒性金属組み合わせにおける進化的救済は、金属間相互作用に依存している。",
+    "abstract_ja": "急激な環境変化に直面した個体群は、本来であれば致死的な条件下で有益な突然変異によって生存と繁殖を可能にする「進化的救済」を通じて、絶滅を回避することがある。しかし、進化的救済に関する理論は主に単一のストレス要因に焦点を当ててきたため、同時に存在するストレス要因間の相互作用が適応をどのように形作るかについては未解明のままである。特に、毒性を増幅させる相乗的相互作用と、それを減弱させる拮抗的相互作用は、それぞれ異なる選択圧を及ぼし、異なる適応度の結果をもたらす可能性がある。これを検証するため、我々は6種類の金属（Cd、Co、Cu、Mn、Ni、Zn）の致死的な組み合わせ条件下でSaccharomyces cerevisiaeを実験的に進化させ、15通りのペアワイズ組み合わせのうち8通りで救済系統を得た。次いで、進化した系統の適応度を、元の金属組み合わせ、各構成金属単体、および祖先環境において測定した。適応度は金属間の相互作用によって系統的に異なり、拮抗的組み合わせで進化した系統は一般に、個々の金属および組み合わせの双方において適応度が向上した一方、相乗的組み合わせで進化した系統は、より特化した適応を示す傾向にあり、適応度の向上は組み合わせに集中し、構成金属における適応度は低下した。毒性が濃度添加と整合する組み合わせでは救済は認められなかったが、実験処理における正確な毒性の差異が救済結果に影響を与えた可能性がある。これらの知見は、同時に存在するストレス要因間の相互作用が、進化的救済の可能性だけでなく、その適応度向上の幅をも形作り得ることを示しており、環境変化に対する進化的応答を調査する際にストレス要因間の相互作用を考慮することの重要性を浮き彫りにしている。"
   }
 ]
