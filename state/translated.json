@@ -268605,5 +268605,325 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "複製チェックポイントは、転写を抑制することでフォークの停滞を防ぐ。",
     "abstract_ja": "複製チェックポイントは、複製ストレス下でゲノムの安定性を維持する上で不可欠である。この経路がなければ、停止したDNA複製フォークは構造的完全性を失って崩壊し、複製の再開が妨げられ、最終的に細胞死に至るというのが通説である。本研究では、出芽酵母のチェックポイント変異体において、転写が複製ストレスの主要な原因であることを示す。チェックポイントシグナル伝達は、高転写遺伝子、特にリボソームタンパク質をコードする遺伝子におけるRNAポリメラーゼIIおよびIIIの占有を減少させることで、複製欠陥を抑制する。これらの遺伝子座における転写を減少させると、フォークの停止およびヒドロキシ尿素誘導性複製ストレスに対するチェックポイント変異体の感受性が低下する。ヒト細胞においても、ATRが阻害された際に同様に転写抑制が複製回復を改善し、この機能が保存されていることが示唆される。以上の知見を総合すると、重要なチェックポイント機能に関する従来の見解を拡張するものであり、すなわち、停止したフォークを安定化させるだけでなく、本来であればその進行を妨げるRNAポリメラーゼの阻害要因を積極的に減少させるというものである。ハイライト  - 複製チェックポイントは、フォーク安定化の上流で作用して停止を防ぐ - 複製欠陥は、高発現のリボソームタンパク質遺伝子によって引き起こされる - リボソーム遺伝子の転写を減少させると、チェックポイント変異体が部分的に救済される - この保護的なチェックポイント機能は、ヒト細胞において進化的に保存されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.18.759989",
+    "title": "A Vast Navigable Protein Sequence Subspace",
+    "abstract": "Fitness landscapes govern evolution. Our empirical understanding of their structure has primarily been informed by evolutionary history. Here, we combine high-throughput DNA synthesis and machine learning, without training on evolutionary priors, to build a high-resolution map of the genome packaging landscape of the Adeno-associated Virus capsid protein. We assay 232,123 mutants around Adeno-Associated Virus 2 (AAV2) including 15 neighborhoods centered on seed sequences within 5–21 mutations of the wild type sequence. Local neighborhoods differ sharply in mutational tolerance and epistatic detail, yet much of the quantitative variation is captured by a simple pattern: sitewise effects transformed by global epistasis. Strikingly, using targeted sampling of only a few thousand mutants, we uncover a vast percolating network of function-preserving ridges embedded within a largely non-functional landscape. These ridges support billions of distinct trajectories of up to 667 steps that connect all sampled neighborhoods through functional single mutations. Designed variants with mutations distinct from the evolutionary background retain packaging at distances where randomly generated mutants rarely survive. These include capsids that combine up to 7 mutations that are largely absent from the evolutionary record, and which are each individually lethal in the 15 diverse backgrounds we tested. Our results reveal rich subspace structure resembling  landscape orebodies : reservoirs of highly viable and navigable sequence space defined by simple constraints. These subspaces can be discovered through targeted sampling and can open access to vast troves of proteins that may be valuable for downstream applications such as therapeutics.",
+    "journal": "",
+    "doi": "10.64898/2026.10.18.759989",
+    "date": "2026-10-22",
+    "authors": "Sinai S, Gane A, Jain N, Bryant D, Bileschi M, Bashir A, Church GM, Kelsic E, Colwell L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349324",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1290,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.18.759989"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c5830c6e0ab3d2bd4681bb5c3b7d3bb0ff2a353fc7e0c07c3531d50d9abda98e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:53:12.502278+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2fbd56d8d308955f3730c0d83c3cfc4fdae4a4aaa4c61e394bcdf27b5b56d61b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:53:12.502278+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "広大なナビガブルタンパク質配列部分空間",
+    "abstract_ja": "フィットネスランドスケープが進化を支配している。その構造に関する我々の実証的な理解は、主に進化史に基づいてきた。本研究では、進化的事前分布を用いた学習を行わず、ハイスループットDNA合成と機械学習を組み合わせることで、アデノ随伴ウイルス（AAV）カプシドタンパク質のゲノムパッケージングランドスケープの高解像度マップを構築した。我々は、野生型配列から5～21変異以内のシード配列を中心とする15の近傍領域を含む、アデノ随伴ウイルス2（AAV2）周辺の232,123個の変異体をアッセイした。局所的な近傍領域は、変異耐性やエピスタシスの詳細において著しく異なるが、定量的な変動の多くは、グローバルなエピスタシスによって変換されたサイトごとの効果という単純なパターンによって捉えられる。特筆すべきことに、わずか数千個の変異体を対象としたターゲットサンプリングを用いることで、大部分が非機能的なランドスケープの中に埋め込まれた、機能保存型リッジの広大なパーコレーティングネットワークを明らかにした。これらのリッジは、サンプリングされたすべての近傍領域を機能的な単一変異を介して結ぶ、最大667ステップに及ぶ数十億通りの固有の軌跡を支えている。進化的背景とは異なる変異を持つ設計変異体は、ランダムに生成された変異体が生存しにくい距離においてパッケージングを維持している。これらには、進化記録にはほとんど見られない最大7つの変異を組み合わせたカプシドが含まれており、我々が検証した15種類の多様な背景において、それぞれが個別に致死的であった。我々の結果は、ランドスケープ・オレボディ（単純な制約によって定義される、極めて生存可能でナビゲート可能な配列空間のリザーバー）に類似した、豊かなサブスペース構造を明らかにしている。これらのサブスペースはターゲットサンプリングを通じて発見することができ、治療薬などのダウンストリーム応用に有用となり得る膨大なタンパク質群へのアクセスを可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760855",
+    "title": "Development of a Synthetic Genomics-Based Venezuelan Equine Encephalitis Virus Expressing Secreted  Gaussia  Luciferase for High-Throughput Antiviral Screening",
+    "abstract": "Venezuelan equine encephalitis virus (VEEV) is a mosquito-borne alphavirus that causes severe neurological disease in humans and animals. Despite its public health importance, no approved antiviral therapy is currently available, and conventional methods for quantifying infectious virus are labor-intensive and poorly suited for high-throughput antiviral screening. Furthermore, research on VEEV is complicated by the restricted availability and international transport of infectious viral materials. Here, we established a full-length infectious cDNA clone of VEEV entirely from chemically synthesized DNA fragments and rescued recombinant reporter viruses expressing mCherry2, ZsGreen, or the secreted Gaussia luciferase mutant 23 (GLucM23). The reporter viruses retained replication kinetics comparable to those of wild-type VEEV, while the fluorescent reporters enabled direct visualization of infection and virus-induced cytopathic effects. GLucM23-expressing VEEV allowed rapid, sensitive, and non-destructive quantification of viral replication directly from culture supernatants, enabling repeated longitudinal measurements without disrupting infected cells. We further demonstrated the utility of this system by screening approximately 3,000 FDA-approved compounds to identify inhibitors of VEEV replication. Together, these findings establish a versatile synthetic genomics-based reporter virus platform for quantitative studies of VEEV replication and scalable antiviral drug discovery.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760855",
+    "date": "2026-10-22",
+    "authors": "Kawano MX, Ohkawa A, Suwongsaksri N, Saito A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349305",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1291,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760855"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aec3779de60a099981ecf1f3a622b5116f579f953863405bf501322e139e0ebe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:53:12.502278+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "84e4fb27c8fe473dd5d024e96e32e0ea8fc34f3382945e9f80d05131cd53d896",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:53:12.502278+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ハイスループット抗ウイルススクリーニングに向けた、分泌型ガウスシアルシフェラーゼを発現する合成ゲノミクスに基づくベネズエラ馬脳炎ウイルスの開発",
+    "abstract_ja": "ベネズエラ馬脳炎ウイルス（VEEV）は、ヒトおよび動物に重篤な神経疾患を引き起こす蚊媒介性アルファウイルスである。公衆衛生上の重要性にもかかわらず、現在、承認された抗ウイルス療法は存在せず、感染性ウイルスを定量する従来の手法は手間がかかり、ハイスループットな抗ウイルススクリーニングには適していない。さらに、感染性ウイルス材料の入手可能性と国際輸送が制限されていることが、VEEVの研究を困難にしている。本研究では、化学的に合成したDNA断片のみからVEEVの全長感染性cDNAクローンを樹立し、mCherry2、ZsGreen、または分泌型Gaussia luciferase変異体23（GLucM23）を発現する組換えレポーターウイルスをレスキューした。レポーターウイルスは野生型VEEVと同等の複製動態を維持し、蛍光レポーターにより感染およびウイルス誘発性の細胞障害効果を直接可視化することが可能となった。GLucM23発現VEEVを用いることで、培養上清から直接、迅速かつ高感度で非破壊的なウイルス複製の定量が可能となり、感染細胞を破壊することなく繰り返し経時的な測定を行うことができた。さらに、FDA承認済みの約3,000種類の化合物をスクリーニングしてVEEV複製阻害剤を同定することで、本システムの有用性を実証した。以上の知見を総合すると、VEEV複製の定量的研究およびスケールアップ可能な抗ウイルス薬創製のための、汎用性の高い合成ゲノミクスに基づくレポーターウイルスプラットフォームが確立された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10848955/v1",
+    "title": "Synergistic Nano–Bio–Phytochemical Treatment for Microbial Enrichment, Wastewater Remediation, and Enhanced Hydrogen Yield",
+    "abstract": "Abstract    Enhancing microbial enrichment while maintaining microbial compatibility is essential for efficient biological wastewater treatment and sustainable resource recovery. In the present investigation, an integrated nano–bio–phytochemical strategy using low-dimensional ZnO nanofluid and  Croton bonplandianum  (Bantulsi) extract was developed to enrich pollutant-degrading microorganisms and improve municipal wastewater treatment. Activated sludge was enriched under four treatment conditions (S1–S4), and the combined ZnO nanofluid–Bantulsi system (S4) exhibited the highest microbial proliferation and wastewater treatment efficiency, with significant reductions in turbidity, total dissolved solids, total suspended solids, electrical conductivity and organic contaminants, together with improved dissolved oxygen. 16S rRNA sequencing, BLAST analysis and phylogenetic characterization confirmed the successful enrichment of  Enterobacter  and  Pseudomonas  species, exhibiting 97.3–98.8% sequence identity, 95.93–99.80% BLAST similarity, and an E-value of zero. Toxicity assessment revealed a 0 mm zone of inhibition, demonstrating excellent microbial compatibility of the optimized ZnO nanofluid. The treated wastewater was subsequently utilized for alkaline hydrogen generation, wherein the optimized treatment achieved ~ 98% hydrogen production, corresponding to a 112% enhancement over untreated wastewater. Furthermore, optimization studies identified smaller ZnO NPs, 1 wt% ZnO concentration, and higher Bantulsi extract concentration as the optimum conditions for maximizing hydrogen production. Overall, the developed nano–bio–phytochemical platform provides an environmentally sustainable approach for simultaneous microbial enrichment, wastewater remediation, and green hydrogen production.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10848955/v1",
+    "date": "2026-10-22",
+    "authors": "Dubey S, Srivastava R, Hirani H, Trivedi J, Sharma T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348026",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Pseudomonas",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 1295,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-10848955/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "36f62418e8195c897b6b4435e432c39117e2a3b0b4ecec7be1c67cc98647638e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:53:12.502278+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "52c06ac587569d1338e0a5ce5b0bdb1192f36c02a3e37eec8e1038697589d837",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:53:12.502278+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物濃縮、廃水浄化、および水素収率向上のための相乗的なナノ・バイオ・フィトケミカル処理",
+    "abstract_ja": "要旨    微生物の適合性を維持しつつ微生物濃縮を高めることは、効率的な生物学的廃水処理および持続可能な資源回収にとって不可欠である。本研究では、低次元ZnOナノ流体とCroton bonplandianum（Bantulsi）抽出物を用いた統合的なナノ・バイオ・フィトケミカル戦略を開発し、汚染物質分解微生物の濃縮および都市廃水処理の向上を図った。活性汚泥を4つの処理条件（S1–S4）で濃縮したところ、ZnOナノ流体とBantulsiの複合系（S4）が最も高い微生物増殖率と廃水処理効率を示し、濁度、総溶解固形物、総懸濁物質、電気伝導度、および有機汚染物質の有意な低減とともに、溶存酸素の改善が認められた。16S rRNAシーケンシング、BLAST解析、および系統学的特性解析により、Enterobacter属およびPseudomonas属の種の濃縮が成功したことが確認され、配列同一性97.3–98.8%、BLAST類似度95.93–99.80%、およびE値0が示された。毒性評価では0 mmの阻害帯が認められ、最適化されたZnOナノ流体の優れた微生物適合性が実証された。処理後の廃水はその後、アルカリ性水素生成に利用され、最適化された処理では約98%の水素生成が達成され、これは未処理廃水と比較して112%の向上に相当する。さらに、最適化研究により、水素生成を最大化するための最適条件として、より小さなZnOナノ粒子、1 wt%のZnO濃度、およびより高いBantulsi抽出物濃度が特定された。総じて、開発されたナノ・バイオ・フィトケミカルプラットフォームは、微生物濃縮、廃水浄化、およびグリーン水素生成を同時に実現する、環境的に持続可能なアプローチを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11457336/v1",
+    "title": "Lytic phage potentiates aztreonam–avibactam in Escherichia coli with layered resistance by disrupting adaptive stress tolerance",
+    "abstract": "Abstract    Phage–antibiotic synergy (PAS) can enhance bacterial killing; however, the physiological states that make resistant bacteria vulnerable during co-exposure remain poorly defined. We paired the lytic phage EC10P1 with aztreonam–avibactam (ATM–AVI) against a clinical NDM-5-producing  Escherichia coli  isolate carrying a PBP3/FtsI insertion and a frameshifted  ompF  . Time-kill assays showed that EC10P1 plus sub-MIC ATM–AVI produced a discrete 4-6h window of maximal killing, reaching approximately 4-log  10  reduction relative to ATM–AVI alone, while isothermal microcalorimetry was consistent with sustained metabolic suppression in the combination condition that was not observed with either monotherapy. Time-resolved mRNA sequencing at 1h, 4h and 24h with an interaction-based model localized non-additive responses to the 4h killing phase. Interaction-defined responses were concentrated at the 4h killing phase and showed attenuated induction of alternative respiratory, proteostatic and redox-buffering programs during co-exposure. In contrast, the major porin and  mar/acr  responses were predominantly phage-driven or additive, providing no evidence that potentiation resulted from transcriptional restoration of canonical drug influx or suppression of the central efflux pathway. Together, the data support transient functional resensitization through reduced stress-buffering capacity rather than reversal of a single resistance determinant.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11457336/v1",
+    "date": "2026-10-22",
+    "authors": "Razavi M, Patpatia S, Lundvik H, Joshi A, Ormälä-Tiznado A, Giske CG, Tellapragada C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347842",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1296,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11457336/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "19e73055cafcb131dcb536e6174085bf8113309a042fd5c9b5900019354c864d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:53:12.502278+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ac1ecb16d74d310271dc24e93c98ae6f9248bf8211e8d342654b53a35fa1e49e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:53:12.502278+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リティックファージは、適応ストレス耐性を阻害することで、層状耐性を有する大腸菌においてアズトレオナム・アビバクタムを増強する。",
+    "abstract_ja": "要旨    ファージと抗菌薬の相乗効果（PAS）は細菌の殺菌能を高め得るが、共曝露時に耐性菌を脆弱化させる生理学的状態については十分に解明されていない。我々は、PBP3/FtsI挿入およびフレームシフト型ompFを有する臨床的なNDM-5産生大腸菌分離株に対し、溶菌性ファージEC10P1とアズトレオナム・アビバクタム（ATM–AVI）を併用投与した。タイムキルアッセイの結果、EC10P1とサブMIC用量のATM–AVIの併用により、4～6時間の明確な最大殺菌ウィンドウが認められ、ATM–AVI単独投与と比較して約4 log⁻¹の減少を達成した。また、等温マイクロカロリメトリーの結果は、単剤療法では観察されなかった、併用条件下での持続的な代謝抑制と一致していた。相互作用ベースのモデルを用いて1時間、4時間、および24時間後に時間分解mRNAシーケンシングを行ったところ、非相加的な応答が4時間目の殺菌相に集中していることが明らかになった。相互作用によって定義された応答は4時間目の殺菌相に集中しており、共曝露中に代替的な呼吸、タンパク質安定化、および酸化還元緩衝プログラムの誘導が減弱していた。対照的に、主要なポリンおよびmar/acr応答は主にファージ駆動型または相加的であり、増強が正準的な薬物流入の転写的回復や中心的な流出経路の抑制に起因するという証拠は得られなかった。以上のデータは、単一の耐性決定因子の逆転ではなく、ストレス緩衝能の低下を介した一過性の機能的再感作を支持するものである。"
   }
 ]
