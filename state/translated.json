@@ -261165,5 +261165,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "シングルセルおよびメタボロームアトラスを活用した、公開されている細胞内およびワクチン負荷トランスクリプトームの統合的再解析により、次世代獣用ブルセラワクチンの抗原優先順位付けが精緻化される。",
     "abstract_ja": "ブルセラ症は、最も広く分布する細菌性人獣共通感染症であり、牛、羊、山羊、豚における流産および不妊の主要な原因となっている。家畜向けに承認されている生ワクチン（B. abortus S19およびRB51、B. melitensis Rev.1）は保護能が不十分であり、残留病原性を保持し、野外感染によるものと区別がつかない抗体を誘導する。また、ヒト用ワクチンは承認されていない。より安全なサブユニット型およびmRNA型代替ワクチンの抗原探索は、候補を一つずつ検討する形で進められてきたため、防御免疫が認識すべき細胞内ニッチにどの免疫原性タンパク質が豊富に存在するのかは依然として不明である。我々は、細胞内B. abortusおよび感染マウスマクロファージのデュアルRNAシーケンシング（GSE100914）、ワクチン接種およびチャレンジマウスの脾臓トランスクリプトーム（GSE254248）、およびシングルセル（PRJCA054635）およびメタボローム（ST003696、ST003692）アトラスという4つの公開データレイヤーを再解析した。細胞内滞留により704個の遺伝子が誘導され、249個が抑制され、翻訳機能が2.9倍に濃縮された。Omp28/BP26は細胞内で最も豊富に存在する転写産物の第2位（35,652 TPM; log2FC 4.25）であり、一方でリポタンパク質のomp16、omp10、omp19は116～637倍少なかった。ワクチン接種は、エフェクター・サイトカインシグネチャーではなく、胚中心およびTCF1+のメモリーインプリントを残した。存在量、誘導能、および表面露出を組み合わせた複合スコアにより候補パネルを再編成した結果、Omp28/BP26およびomp2bが現在の候補よりも上位に位置し、獣医学的ワクチン開発における具体的な優先順位が定義された。  概要 ブルセラ症は、牛、羊、山羊、豚において流産、死産、および不妊を引き起こす細菌感染症であり、未殺菌乳や感染動物との直接接触を通じてヒトにも伝播する可能性がある。ワクチン接種が主要な防除策であるが、家畜に使用される生ワクチンは動物を完全に保護するものではなく、根絶プログラムの根拠となる血液検査において、ワクチン接種済みの動物が感染しているように見えてしまう。したがって、より安全なサブユニット型およびmRNA型ワクチンには、より優れた標的タンパク質が必要であるが、候補は通常、研究室で培養された細菌から一つずつ選定されており、これらは細菌が動物自身の細胞内で産生するものを反映していない可能性がある。我々は、感染細胞およびワクチン接種動物における遺伝子活性を測定する公開データセットを再解析した。現在、ワクチン開発者が優先的に検討しているタンパク質は、宿主細胞内では乏しいことが判明した一方で、2つの表面タンパク質は豊富に存在し、強く活性化していた。我々のランキングは、保護された動物を区別する免疫学的特徴とともに、次世代の獣医学的ブルセラ症ワクチンに向けた具体的な優先順位を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.24.761493",
+    "title": "Alignment-free discovery of conserved RNA structures in the human genome",
+    "abstract": "Many functional RNAs were first found as conserved RNA structures, and their roles in gene regulation were identified later. In humans and other vertebrates, imperfect genome alignments have hindered the discovery of such structures. Here we present RLMHelix, which selects candidate conserved RNA structures from single sequences before any alignment by scoring helices supported by language-model dependencies and thermodynamics. Through distillation, RLMHelix rapidly scans the transcribed human genome and ranks known RNAs higher than conventional thermodynamic scanning. Two-thirds of 15,821 candidates are new to four earlier genome-wide screens, yet agree with in-cell probing, and over half retain structural signal in homologues. In eCLIP data and in exploratory pull-downs, higher RLMHelix scores were associated with more binding by double-stranded RNA-binding proteins. By linking candidates to their binding proteins, RLMHe-lix yields testable functional hypotheses and illuminates a path from unrecognized human RNA structures to RNA biology and therapeutic targets.",
+    "journal": "",
+    "doi": "10.64898/2026.10.24.761493",
+    "date": "2026-10-24",
+    "authors": "Sumi S, Makino K, Onoguchi M, Adachi S, Saito H, Hamada M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349693",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "alignment",
+        "genome",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2607,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.24.761493"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2f75d69683e2056d8e93a79968ebcddc58d298bdc98bdead095cf402aa35cdde",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:13:36.517305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d3d226584c98b70a7226489a9ccd2eab504403683ba34b15a8ca2cc38f62dfcd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:13:36.517305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトゲノムにおける保存RNA構造のアライメントフリーな発見",
+    "abstract_ja": "多くの機能性RNAは、まず保存されたRNA構造として発見され、その後に遺伝子調節における役割が同定された。ヒトやその他の脊椎動物においては、不完全なゲノムアライメントがこうした構造の発見を妨げてきた。本研究では、言語モデルの依存関係と熱力学によって支持されるヘリックスにスコアを付与することで、アライメントを行う前に単一配列から保存RNA構造の候補を選択するRLMHelixを提案する。蒸留法により、RLMHelixは転写されたヒトゲノムを迅速にスキャンし、既知のRNAを従来の熱力学的スキャンよりも上位にランク付けする。15,821個の候補のうち3分の2は、4回の先行するゲノムワイドスクリーニングでは新規であったが、細胞内プロービングの結果と一致しており、半数以上がホモログにおいて構造シグナルを保持していた。eCLIPデータおよび探索的プルダウンにおいて、RLMHelixのスコアが高いほど、二本鎖RNA結合タンパク質による結合が多いことが示された。候補をその結合タンパク質に紐付けることで、RLMHelixは検証可能な機能的仮説を提示し、未認識のヒトRNA構造からRNA生物学および治療標的に至る道筋を明らかにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760223",
+    "title": "Affinity and Conformations of Ca  2+  -Calmodulin Bound to Peptides Containing the Calmodulin-Binding Motif of HIV-1 Matrix Protein",
+    "abstract": "Background  Protein–protein interactions enable viruses to adapt and replicate by modifying host factors. Thermodynamic characterization of viral–host complexes can reveal viral mechanisms, broader principles of protein interactions, and properties relevant to anti-HIV-1 inhibitor development. Here, we examine the binding of the HIV-1 matrix (MA) protein to host calmodulin (CaM). MA, the N-terminal domain of Gag (group-specific antigen), directs Gag to the plasma membrane for viral assembly and maturation and may recruit CaM to facilitate this trafficking. However, the MA–CaM interaction remains poorly characterized. MA contains a noncanonical N-terminal CaM-binding motif with hydrophobic regions that may mediate CaM binding and a central, positively charged KKK cluster. Objective  We aimed to determine the binding affinities of MA to calcium-bound CaM (Ca  2+ -CaM), elucidate protein regions that are critical to the heterocomplex formation, and monitor the conformational alterations in Ca  2+ -CaM upon binding to MA.  Methods  We studied Ca  2+ -CaM binding to synthetic MA peptides representing full-length wild type (FL WT), a C-terminal truncation lacking the KKK cluster, and an FL K→N/K→H/K→Q triple mutant of the MA CaM-binding motif. The peptides were C-terminally labeled with Cy3, and FL CaM S39C with Cy5. Binding affinity was measured by ensemble Förster resonance energy transfer (eFRET) using 100 nM Cy3-MA and increasing Cy5-Ca  2+ -CaM concentrations in the range of 50 nM to 2.5 µM. Conformational changes in doubly spin-labeled Ca  2+ -CaM upon MA binding were probed by double electron-electron resonance (DEER) spectroscopy.  Results  Cy3 quenching and FRET analyses of complexes with Cy5-Ca  2+ -CaM yielded dissociation constants of ∼80 nM for FL WT MA, ∼65 nM for the truncation, and ∼250 nM for the triple mutant, with corresponding binding free energies of ∼−9.8 to ∼−9 kcal/mol. These values indicate stable, specific complexes and show that the KKK cluster contributes little to MA–Ca  2+ -CaM binding. DEER measurements of Ca  2+ -CaM labeled at S39C and A103C showed that FL WT MA binding shifted the ∼5.3 nm interspin distance of extended Ca  2+ -CaM to a broader ∼1.8–3 nm distribution, indicating a major CaM restructuring.  Conclusion  These findings define key energetic and structural features of MA-Ca  2+ -CaM interactions and clarify how HIV-1 proteins exploit CaM.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760223",
+    "date": "2026-10-24",
+    "authors": "Saffarian Delkhosh A, Ogunbowale A, Hadadianpour E, Mahmud KM, Borbat PP, Georgieva ER.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349438",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2614,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.760223"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9964931c8bc812c666ddbfffc8855782f45463352f1605bb25865deac25e0180",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:13:36.517305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4bcf699bbd5f434ed0969c5d0ff3ce6f6004c39e7039f9262a7b7e24b2110600",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:13:36.517305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIV-1マトリックスタンパク質のカルモジュリン結合モチーフを含むペプチドに結合したCa 2+-カルモジュリンの親和性と立体構造",
+    "abstract_ja": "背景  タンパク質間相互作用により、ウイルスは宿主因子を修飾することで適応および複製が可能となる。ウイルス-宿主複合体の熱力学的特性解析は、ウイルスのメカニズム、タンパク質相互作用のより広範な原理、および抗HIV-1阻害剤開発に関連する特性を明らかにし得る。本研究では、HIV-1マトリックス（MA）タンパク質と宿主カルモジュリン（CaM）との結合について検討する。MAは、Gag（群特異的抗原）のN末端ドメインであり、ウイルスの組み立てと成熟のためにGagを細胞膜へと誘導し、この輸送を促進するためにCaMを動員する可能性がある。しかし、MA-CaM相互作用については十分に解明されていない。MAは、CaM結合を媒介する可能性のある疎水性領域と、中心に位置する正電荷のKKKクラスターを有する非カノニカルなN末端CaM結合モチーフを含んでいる。目的  本研究では、カルシウム結合型CaM（Ca2+-CaM）に対するMAの結合親和性を決定し、ヘテロ複合体形成に不可欠なタンパク質領域を解明するとともに、MAへの結合に伴うCa2+-CaMのコンフォメーション変化をモニタリングすることを目的とした。  方法  全長野生型（FL WT）、KKKクラスターを欠くC末端切断型、およびMA CaM結合モチーフのFL K→N/K→H/K→Q三重変異体を表す合成MAペプチドへのCa2+-CaMの結合を検討した。ペプチドのC末端にはCy3を、FL CaM S39CにはCy5を標識した。結合親和性は、100 nMのCy3-MAを用い、50 nMから2.5 µMの範囲でCy5-Ca2+-CaM濃度を増加させたアンサンブル・フェルスター共鳴エネルギー移動（eFRET）法により測定した。MA結合に伴う二重スピン標識Ca2+-CaMのコンフォメーション変化は、二重電子-電子共鳴（DEER）分光法により調べた。  結果  Cy5-Ca2+-CaMとの複合体のCy3消光およびFRET解析により、解離定数はFL WT MAで約80 nM、切断型で約65 nM、三重変異体で約250 nMであり、対応する結合自由エネルギーは約-9.8～約-9 kcal/molであった。これらの値は、安定かつ特異的な複合体であることを示しており、KKKクラスターがMA-Ca2+-CaM結合に寄与することはほとんどないことを示している。S39CおよびA103Cで標識したCa2+-CaMのDEER測定により、FL WT MAの結合によって、伸長したCa2+-CaMの約5.3 nmのスピン間距離がより広い約1.8～3 nmの分布へとシフトしたことが示され、これはCaMの大幅な再構造化を示唆している。  結論  これらの知見は、MA-Ca2+-CaM相互作用の主要なエネルギー的・構造的特徴を定義し、HIV-1タンパク質がどのようにCaMを利用しているかを明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760314",
+    "title": "Sequence-only antigen context improves modeling of antibody hypervariable regions",
+    "abstract": "The complementarity-determining regions (CDRs) of antibodies govern antigen specificity; consequently, CDR design should be performed conditional on the target antigen. Most published approaches depend on the availability of the antigen’s three-dimensional (3D) structure, which is often difficult to obtain experimentally. In contrast, sequence-only models circumvent this requirement but are typically trained on antibodies without incorporating antigen context; exposure to antigen sequences alone does not necessarily entail learning the underlying interaction determinants. Here, we introduce LangAAI, a masked language model that conditions exclusively on antibody and antigen primary sequences and therefore does not require 3D structures, docking poses, or epitope annotations. To assess whether the model exhibits genuine antigen conditioning, we replace the cognate antigen with a non-binding decoy. Whereas antigen-agnostic models are largely insensitive to this substitution, LangAAI shows a marked reduction in sequence recovery that is specifically concentrated in the hypervariable CDR3 loop. Across benchmarks, LangAAI improves amino-acid recovery relative to existing antibody language models, matches the performance of structure-based methods when evaluated under their respective protocols, and ranks experimentally measured variants by affinity comparably to inverse-folding models that use backbone coordinates. Collectively, these results support LangAAI as a structure-independent approach for antigen-aware antibody optimization, enabling prioritization of candidate variants for targets lacking solved antigen–antibody complexes.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760314",
+    "date": "2026-10-24",
+    "authors": "Bin Ashraf F, Lonardi S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349464",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3638,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.19.760314"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fd53e58edbcf11e283b6374569bd562024cad0e46f963caa9d76c11a8a042bb7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:13:36.517305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "84c5381f77a004e57da59c4c5081335fe9d27b8c6684c98cea3ce4e8c31a0452",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:13:36.517305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "配列のみの抗原コンテキストにより、抗体高変異領域のモデリングが向上する",
+    "abstract_ja": "抗体の相補性決定領域（CDR）は抗原特異性を規定するため、CDR設計は標的抗原を条件として行われるべきである。既報の手法の多くは、抗原の三次元（3D）構造の入手可能性に依存しているが、この構造を実験的に得ることは困難な場合が多い。対照的に、配列のみに基づくモデルはこの要件を回避できるが、通常は抗原コンテキストを組み込まずに抗体を用いて学習される。抗原配列にのみ曝露されたとしても、必ずしも根底にある相互作用決定因子が学習されるとは限らない。本研究では、抗体および抗原の一次配列のみを条件とするマスクド言語モデルであるLangAAIを提案する。したがって、本モデルは3D構造、ドッキングポーズ、あるいはエピトープアノテーションを必要としない。本モデルが真の抗原条件付けを示すかを評価するため、同族抗原を非結合性デコイに置換した。抗原非依存型モデルはこの置換に対して概ね影響を受けないのに対し、LangAAIでは配列の復元率に顕著な低下が見られ、これは特に超可変CDR3ループに集中していた。各種ベンチマークにおいて、LangAAIは既存の抗体言語モデルと比較してアミノ酸の復元率を向上させ、それぞれのプロトコルで評価した際には構造ベースの手法と同等の性能を示し、実験的に測定されたバリアントを、バックボーン座標を用いる逆フォールディングモデルと同等の親和性で順位付けした。総じて、これらの結果は、LangAAIが抗原認識型抗体最適化のための構造非依存的なアプローチであることを支持しており、抗原-抗体複合体が解明されていない標的に対する候補バリアントの優先順位付けを可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.26366176",
+    "title": "Factors Influencing Timely Utilization of HIV Viral Load Test Results in HIV Care: A Qualitative Study at Kisenyi Health Centre IV, Kampala",
+    "abstract": "Structured Abstract  Timely utilization of HIV viral load (VL) test results is critical for effective monitoring of antiretroviral therapy (ART) and achieving viral suppression among people living with HIV. However, delays in utilizing VL results remain a challenge in many resource-limited settings. This study explored the factors influencing timely utilization of VL test results at Kisenyi Health Centre IV in Kampala, Uganda. A qualitative study design was employed using key informant interviews and structured facility observations. Eighteen healthcare workers involved in HIV care and viral load management participated in the study, including clinicians, laboratory personnel, data clerks, counsellors, and facility management staff. Data were collected using semi-structured interview guides and observation checklists. Interview transcripts were analysed using thematic analysis guided by the Performance of Routine Information System Management (PRISM) Framework. Three major themes emerged: technical, behavioral, and organizational factors. Technical barriers included unstable digital systems, limited computer access, unreliable internet connectivity, and fragmented health information platforms that delayed result retrieval. Behavioral factors included workload pressures, training gaps, and varying levels of staff motivation and accountability. Organizational challenges included staffing shortages, weak supervision, inconsistent feedback mechanisms, and occasional stock-outs of printing materials. Observational findings confirmed that manual printing and re-entry of VL results into electronic systems contributed to delays in clinical decision-making. Timely utilization of viral load results is influenced by a combination of technical, behavioral, and organizational factors. Strengthening digital system integration, improving health worker capacity, and enhancing facility-level management support could significantly improve VL result utilization and HIV treatment outcomes.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.26366176",
+    "date": "2026-10-24",
+    "authors": "Nabukenya M, Ssenyonga I, Alege JB.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349399",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3639,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.21.26366176"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0bd182f7b0b43310d4c17bd44c763defce716147a1312a284097c2e7c0483c1f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:13:36.517305+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aa39cb543b40892d186e1143ac0d4a15c2dc4e41097721c4eff0c44432a782b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:13:36.517305+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIV診療におけるHIVウイルス量検査結果の適時活用に影響を与える要因：カンパラ、キセニ保健センターIVにおける質的研究",
+    "abstract_ja": "構造化抄録 HIVウイルス量（VL）検査結果の適時な活用は、抗レトロウイルス療法（ART）の効果的なモニタリングおよびHIV陽性者におけるウイルス抑制の達成において極めて重要である。しかし、資源が限られた多くの環境において、VL結果の活用の遅れが依然として課題となっている。本研究では、ウガンダ・カンパラのキセニ保健センターIVにおけるVL検査結果の適時な活用に影響を与える要因を検討した。キーインフォーマントへのインタビューおよび構造化施設観察を用いた質的研究デザインを採用した。臨床医、検査担当者、データ事務員、カウンセラー、施設管理スタッフなど、HIVケアおよびウイルス量管理に携わる医療従事者18名が本研究に参加した。データは、半構造化インタビューガイドおよび観察チェックリストを用いて収集した。インタビューの逐語録は、Routine Information System Management (PRISM) フレームワークに基づくテーマ分析を用いて解析した。その結果、技術的要因、行動的要因、および組織的要因という3つの主要なテーマが抽出された。技術的障壁としては、デジタルシステムの不安定さ、コンピュータへのアクセス制限、不安定なインターネット接続、および結果取得を遅らせる断片的な保健情報プラットフォームが挙げられた。行動的要因には、業務負荷の圧力、トレーニングの不足、ならびにスタッフのモチベーションや責任感のばらつきが含まれていた。組織的な課題としては、人員不足、監督体制の不備、一貫性のないフィードバックメカニズム、および時折発生する印刷資材の在庫切れが挙げられた。観察結果から、VL結果の手作業による印刷および電子システムへの再入力が、臨床的意思決定の遅延に寄与していることが確認された。ウイルス量結果の適時な活用は、技術的要因、行動的要因、および組織的要因の組み合わせによって影響を受ける。デジタルシステムの統合強化、医療従事者の能力向上、および施設レベルの管理支援の強化により、VL結果の活用状況およびHIV治療成績を大幅に改善できる可能性がある。"
   }
 ]
