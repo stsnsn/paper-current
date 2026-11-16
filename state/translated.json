@@ -262469,5 +262469,337 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "GBactPro: エレメント分解型プロモーター定義を用いた種間細菌プロモーター予測",
     "abstract_ja": "正確な細菌プロモーター予測はゲノムアノテーションを支えるが、多くのモデルではプロモーター・エレメント境界ではなく、転写開始部位（TSS）に固定された長さのプロモーターウィンドウが用いられている。我々は、Promoter Architecture Scannerによって解析されたプロモーター配列を用いた、畳み込みニューラルネットワーク－双方向長短期記憶（CNN–BiLSTM）フレームワークであるGeneral Bacterial Promoter Predictor（GBactPro）を開発した。大腸菌（Escherichia coli）で学習させ、43種の細菌で評価したモデルを用いて8種類の入力設計を比較し、連続的な「−35/スペーサー/−10」コアが最適であることを特定した（平均AUROC = 0.9859）。種特異的モデルは、43 × 43の評価において広範な転移性を示した。全43種を対象とした共同学習では、ホールドアウトテストセット全体で平均AUROC 0.9943を達成し、長さを揃えたベンチマークにおいて既存の4つの予測モデルを上回った。ゲノムワイドな大腸菌スキャニングにおいて、GBactProは厳格なフルコンテインメントマッチング（0-bp許容）下でAUROCおよびAUPRC値が0.979および0.160となり、100-bp許容下では0.997および0.323に上昇した。偽陽性予測は、真陽性よりもH-NS結合領域と重複する頻度が高く（24.4%対18.8%）、H-NSノックアウトデータセットにおいて脱抑制されたプロモーターとも重複していた。予測精度は4つのTSSクラス間で異なっていた。これらの知見は、エレメントレベルで解析されたプロモーター定義が種間予測を改善し、候補となる細菌プロモーターのゲノムワイドな同定を支援することを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760109",
+    "title": "Scalable phylodynamic inference of mutational and epistatic fitness effects with multi-feature birth-death models",
+    "abstract": "Fitness is a complex phenotype determined by many different genomic features, their interactions with each other and the environment. For rapidly evolving microbes like viruses and bacteria, phylodynamic multi-feature birth-death (MFBD) models provide a way to infer the fitness of lineages with different genotypes from reconstructed phylogenies. However, existing phylodynamic methods assume very simple additive or multiplicative genotype-to-fitness (G-to-F) mappings that typically ignore epistatic interactions among features. We developed a gradient-based Bayesian MFBD framework for estimating the fitness effects of multiple features while allowing for both additive and epistatic G-to-F maps. The framework uses Hamiltonian Monte Carlo for posterior inference and incorporates shrinkage priors to regularize weakly supported fitness effects without cross-validation. In simulations, Bayesian inference performs well at recovering additive fitness effects, with accuracy and precision improving consistently with increasing tree size. While epistatic effects are more difficult to estimate because they depend on the co-occurrence of mutations, shrinkage improves estimation when interaction effects are weak or sparsely supported. Simulations with misspecified additive models show that ignoring moderate or strong epistasis can bias estimates of individual mutational effects. We applied the framework to a time-calibrated  Escherichia coli ST131 phylogeny with 1763 samples and estimated fitness effects for several mutations in the quinolone resistance-determining region (QRDR). These results show that Bayesian phylodynamic inference can be used to learn the genomic determinants of fitness while quantifying uncertainty in mutational and epistatic fitness effects.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760109",
+    "date": "2026-10-23",
+    "authors": "Cen S, Kepler LM, Lanzas C, Reich BJ, Rasmussen DA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349591",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "microbe",
+        "microbes",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 327,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.760109"
+    ],
+    "translation": {
+      "title": {
+        "hash": "437bc9a6a023c7cb907c9fcfea04cf03350a4a639304aeb59a7a15b50259c203",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:24:09.619128+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2df299fc575b807049569ec5a96b25963d21fe80f652cacdbd0342069f323c1c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:24:09.619128+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチフィーチャー出生・死亡モデルを用いた変異およびエピスタシスによる適応度効果のスケーラブルな系統動態的推論",
+    "abstract_ja": "適応度は、多くの異なるゲノム特徴、それらの相互作用、および環境によって決定される複雑な表現型である。ウイルスや細菌のように急速に進化する微生物にとって、系統動態的マルチフィーチャー出生・死亡（MFBD）モデルは、再構築された系統樹から異なる遺伝子型を持つ系統の適応度を推定する手法を提供する。しかし、既存の系統動態的手法は、通常、特徴間のエピスタシス相互作用を無視した、極めて単純な加法的または乗法的な遺伝子型－適応度（G-to-F）マッピングを前提としている。我々は、加法的およびエピスタシス的なG-to-Fマップの双方を許容しつつ、複数の特徴による適応度効果を推定するための勾配ベースのベイズMFBDフレームワークを開発した。本フレームワークは、事後推論にハミルトニアンモンテカルロ法を用い、交差検証なしに支持力の弱い適応度効果を正則化するための縮小事前分布を組み込んでいる。シミュレーションにおいて、ベイズ推論は加法的な適応度効果の復元において良好な性能を示し、精度と適合度は系統樹のサイズが大きくなるにつれて一貫して向上した。エピスタシス効果は変異の共起に依存するため推定がより困難であるが、相互作用効果が弱かったり支持力が乏しかったりする場合には、縮小法によって推定が改善される。誤指定された加法的モデルを用いたシミュレーションでは、中程度または強いエピスタシスを無視すると、個々の変異効果の推定値にバイアスが生じることが示された。我々は、1,763サンプルからなる時間較正済みのEscherichia coli ST131系統樹に本フレームワークを適用し、キノロン耐性決定領域（QRDR）における複数の変異の適応度効果を推定した。これらの結果は、ベイズ系統動態推論を用いることで、変異およびエピスタシスによる適応度効果の不確実性を定量化しつつ、適応度のゲノム決定因子を学習できることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760831",
+    "title": "Elucidating changes in gene expression driving nuclear dynamics across a foraminiferal life cycle with Pheno2Seq",
+    "abstract": "In many microeukaryotes, conserved morphology masks transitions between haploid and diploid phases of the life cycle, making it difficult to link gene expression to development. Hence, insights on such transitions come largely from ‘model’ lineages of animals, plants and fungi. To address this gap, we developed a method, Pheno2Seq, that enables visualization of fluorescently-stained individuals followed by identification of candidate genes through single-cell transcriptome analyses. We applied this method in  Allogromia laticollaris , a foraminifera with a complex life cycle that alternates between haploid and diploid phases and includes endoreplication to ∼11,000N. As this taxon lacks a reference genome, we used a conservative phylogenomic approach to identify gene families present across diverse foraminifera. We identified >800 differentially expressed genes underlying life cycle transitions along with a similar number of constitutively-expressed genes. During  Zerfall , a phase of extreme endoreplication, the transcriptome is largely silenced with the exception of gene families involved in genome processes and stability. Intriguingly, these gene families include chromatin modifiers, spliceosomal components and histone paralogs, some of which are known to contribute to cell type differentiation in multicellular eukaryotes. We also find numerous genes involved in DNA repair (e.g. DNA damage response and R-loop regulating genes). We speculate that these genes are part of an ancient eukaryotic toolkit, likely present in the last eukaryotic common ancestor (LECA) and that regulates genomes during life cycle transitions. Our method, Pheno2Seq, can be adapted to diverse lineages to enable the study of life cycle regulation in microeukaryotes that lack morphologically distinguishable life cycle stages.  Significance  Unicellular eukaryotes represent most of the diversity across the eukaryotic tree of life, but life cycle transitions in many of these species can be cryptic (i.e. multiple stages share identical morphology despite changing nuclear phenotypes). We develop Pheno2Seq (Phenotype to Sequence), which characterizes nuclear phenotype by fluorescence microscopy, then elucidates gene expression underlying nuclear stage transitions. Changes in nuclear phenotype in the foraminifera sampled here demonstrates a central role of the reprogramming of histones and other genes involved in chromatin regulation, suggesting that the diverse life cycles observed across the eukaryotic tree of life emerged from a shared toolkit present in the last eukaryotic common ancestor (LECA).",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760831",
+    "date": "2026-10-23",
+    "authors": "Sterner EG, Ribeiro GM, Leleu M, Katz LA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349279",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi",
+        "gene",
+        "method",
+        "transcriptome",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 330,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760831"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ba6109da5a155103f9cca9b2c90455afca9c1981555732d7dc851b39a67adaff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:24:09.619128+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c0272dd66d3ada733973c3acc5451d2e720151c79a8f4acd37bb738eb8c35751",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:24:09.619128+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pheno2Seqを用いた有孔虫のライフサイクルにおける核動態を駆動する遺伝子発現変化の解明",
+    "abstract_ja": "多くの微小真核生物において、保存された形態が生活環の半数体期と二倍体期の移行を覆い隠しているため、遺伝子発現と発生を関連付けることが困難である。したがって、こうした移行に関する知見は、主に動物、植物、真菌の「モデル」系統から得られている。このギャップを埋めるため、我々は蛍光染色個体の可視化と、それに続く単一細胞トランスクリプトーム解析による候補遺伝子の同定を可能にする手法「Pheno2Seq」を開発した。我々は、半数体期と二倍体期を交互に繰り返し、約11,000Nまでのエンドレプリケーションを含む複雑な生活環を持つ有孔虫、Allogromia laticollarisに本手法を適用した。この分類群には参照ゲノムが存在しないため、保存的な系統ゲノム解析アプローチを用いて、多様な有孔虫に共通して存在する遺伝子ファミリーを同定した。その結果、生活環の移行を支える800以上の発現変動遺伝子と、同程度の数の恒常的に発現する遺伝子を同定した。極端なエンドレプリケーション期であるZerfallの間、ゲノムプロセスや安定性に関与する遺伝子ファミリーを除き、トランスクリプトームは大部分がサイレンシングされる。興味深いことに、これらの遺伝子ファミリーにはクロマチン修飾因子、スプライソーム構成因子、およびヒストンパラログが含まれており、その一部は多細胞真核生物における細胞種分化に寄与することが知られている。また、DNA修復に関与する多数の遺伝子（例：DNA損傷応答遺伝子やRループ調節遺伝子）も見出した。我々は、これらの遺伝子が古代の真核生物ツールキットの一部であり、おそらく最後の真核生物共通祖先（LECA）に存在し、生活環の移行時にゲノムを調節していると推測している。我々の手法であるPheno2Seqは、形態的に区別可能な生活環段階を持たない微小真核生物においても、多様な系統に適応させることで生活環調節の研究を可能にする。意義 単細胞真核生物は、真核生物の生命の系統樹における多様性の大部分を占めているが、これらの種の多くにおいて生活環の移行は隠蔽的（すなわち、核フェノタイプが変化しているにもかかわらず、複数の段階が同一の形態を共有する）である場合がある。我々は、蛍光顕微鏡法によって核フェノタイプを特性評価し、次いで核段階の移行を支える遺伝子発現を解明するPheno2Seq（Phenotype to Sequence）を開発した。本研究でサンプリングした有孔虫における核フェノタイプの変化は、ヒストンおよびクロマチン調節に関与する他の遺伝子のリプログラミングが中心的な役割を果たしていることを示しており、真核生物の生命の系統樹にわたって観察される多様な生活環が、最後の真核生物共通祖先（LECA）に存在した共通ツールキットから生じたことを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760677",
+    "title": "Strong habitat-associated differentiation of microbial communities across a fine-scale land-water interface",
+    "abstract": "Microbial communities can remain strongly differentiated across environmental boundaries despite their potential for widespread dispersal. However, the extent to which habitat differences structure microbial communities at fine spatial scales remains poorly understood. Here, we investigated bacterial and fungal communities across a 350-m land-water interface in Lake Vänern, Sweden, including mainland soil, two small terrestrial islands and lake water. Using 16S and ITS amplicon sequencing, we compared microbial diversity and community composition across habitats and with increasing distance from the shoreline. Both bacterial and fungal communities showed pronounced habitat-associated differentiation, with the strongest contrasts between terrestrial and aquatic samples. Despite being surrounded by lake water, island communities were compositionally more similar to mainland soil communities, suggesting that geographic proximity alone does not necessarily lead to microbial community homogenization. Fungal, but not bacterial community composition varied significantly with shoreline position within both terrestrial and aquatic habitats, indicating contrasting spatial patterns between the two groups. Fungal genera also showed greater taxonomic overlap between terrestrial and aquatic habitats than bacterial genera, although overall community composition remained distinct. Taxonomically inferred functional profiles and ecological guilds further reflected habitat-associated differences. Together, our findings reveal strong microbial community differentiation across a fine-scale land-water interface and highlight how habitat identity and spatial context are associated with distinct patterns of bacterial and fungal community assembly.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760677",
+    "date": "2026-10-23",
+    "authors": "Haberkorn C, Oporto CI, Pinto J, Stelkens R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349620",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "lake"
+        ],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 530,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.760677"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b2369029414b8c3f2800064d06c15dc88c20bb8b6364ccdc46068a5d6c6ef0a2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:24:09.619128+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fd5e278e1b5332e07939dbd8e7b00d4c712794cc25ee07d7502d67673b7bfc2e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:24:09.619128+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微細な陸水界面における微生物群集の顕著な生息環境依存的分化",
+    "abstract_ja": "微生物群集は、広範囲に分散する可能性があるにもかかわらず、環境境界を越えて強く分化したままとなることがある。しかし、生息環境の差異が微細な空間スケールにおいてどの程度微生物群集を構造化しているのかについては、十分に解明されていない。本研究では、スウェーデンのヴェネルン湖における350mの陸水界面（本土の土壌、2つの小さな陸島、および湖水を含む）を対象に、細菌群集および真菌群集を調査した。16SおよびITSアンプリコンシーケンシングを用い、生息環境間および海岸線からの距離の増加に伴う微生物多様性と群集組成を比較した。細菌群集と真菌群集の双方において顕著な生息環境関連の分化が認められ、特に陸域サンプルと水域サンプルの間で最も強い対比が見られた。島嶼群集は湖水に囲まれているにもかかわらず、組成面では本土土壌群集により類似しており、地理的な近接性だけでは必ずしも微生物群集の均質化につながるわけではないことが示唆された。真菌群集の組成は、細菌群集とは異なり、陸域および水域の両生息環境において海岸線の位置によって有意に異なり、両群間で対照的な空間パターンが存在することが示された。また、真菌属は細菌属よりも陸域と水域の生息環境間で分類学的な重複が大きかったが、全体的な群集組成は明確に区別されていた。分類学的に推定された機能プロファイルおよび生態ギルドも、生息環境に関連する差異をさらに反映していた。以上の知見を総合すると、微細なスケールの陸水界面において微生物群集の強い分化が認められ、生息環境のアイデンティティと空間的コンテキストが、細菌群集および真菌群集の形成における異なるパターンとどのように関連しているかが浮き彫りとなった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760690",
+    "title": "Most metagenomic vanT calls are not vancomycin resistance genes",
+    "abstract": "Metagenomic resistome surveys frequently report  vanT G as the dominant glycopeptide resistance gene, but these calls rely on homology without verifying catalytic residues or operon context. By analyzing 107,008 metagenome-assembled genomes, we demonstrate that only 3.7% of predicted  vanT G genes possess the required active-site substitution, with the vast majority being misannotated alanine racemases. Incorporating structural and genomic context corrections reveals a novel split-architecture lineage in gut-associated Erysipelotrichales missed by current profiling tools.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760690",
+    "date": "2026-10-23",
+    "authors": "Shetty P, Maroti G, Wirth R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349278",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 534,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.760690"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ca5b1b983dce89e047eb72fb7f6a6b53bf13d995d2d55e7b733fb40099bcd97a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:24:09.619128+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1dd1a4b9d004704a37417b9715c8bf1a96671f67934dbcf29254be6f59a6dbb8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:24:09.619128+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタゲノムにおけるvanTコールの大部分は、バンコマイシン耐性遺伝子ではない。",
+    "abstract_ja": "メタゲノム・レジストーム調査では、vanT Gが主要な糖ペプチド耐性遺伝子として報告されることが多いが、これらの判定は触媒残基やオペロンのコンテキストを検証することなく、相同性のみに基づいている。107,008件のメタゲノムアセンブルゲノムを解析した結果、予測されたvanT G遺伝子のうち、必要な活性部位置換を有するのはわずか3.7%であり、その大部分は誤アノテーションされたアラニンラセマーであることが明らかになった。構造的およびゲノム的なコンテキスト補正を組み込むことで、現行のプロファイリングツールでは見逃されていた、腸内関連Erysipelotrichalesの新たなスプリットアーキテクチャ系統が明らかになった。"
   }
 ]
