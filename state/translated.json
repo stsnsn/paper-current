@@ -264814,5 +264814,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ファージSSBの二重認識が抗ファージ防御のためのDRT4を誘導する",
     "abstract_ja": "防御関連逆転写酵素4（DRT4）は、一本鎖DNA（ssDNA）の合成とエフェクターRNaseの活性化を通じて、細菌をファージから保護する。ファージ認識がRNase活性化に具体的にどのように共役しているかは依然として不明である。本研究では、構造解析、生化学的解析、および遺伝学的解析を組み合わせて、DRT4活性化の要件を明らかにする。クライオ電子顕微鏡構造解析によりDNA合成の過程を捉え、優先的なプリン取り込みの構造的基盤を提示する。BASELファージコレクションを用いたスクリーニングにより、多様なファージに対する保護作用が明らかになり、Bas17がコードするssDNA結合（SSB）タンパク質gp44がDRT4のトリガーとして同定された。我々は、DRT4がRNase活性化のために、ssDNA産物の認識とgp44の直接的なタンパク質間相互作用の両方を必要とすることを示す。以上の知見は合わせて、ssDNAを介したファージSSBの動員が特異的なタンパク質相互作用と協調し、抗ファージ防御のための感染中断を許可するという、これまで認識されていなかった「二要素認証」モデルを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.760619",
+    "title": "Hidden Players: Latent Viruses Can Modulate Plant Disease Outcomes in Coinfection Contexts",
+    "abstract": "ABSTRACT  Latent viruses are ubiquitous components of plant viromes and are likely the rule rather than the exception in natural host populations. Yet, despite their prevalence, little is known about how they influence the outcome of infections by acute viruses. Here, we used a factorial design to test the effects of two latent secoviruses, apple latent spherical virus (ALSV) and Arabidopsis latent virus 1 (ArLV1), on infections by the acute viruses tobacco rattle virus (TRV) and turnip mosaic virus (TuMV). Coinfections were evaluated across eight  Arabidopsis thaliana genotypes, including wild-type and mutants impaired in RNA silencing, DNA methylation and hormone-signaling pathways. Latent-virus effects on both viral accumulation and disease severity were highly dependent on the combination of host and viral genotypes. Hormonal pathways played a prominent role in mediating these interactions, with recurrent responses involving jasmonic acid, salicylic acid and ethylene signaling. ALSV generally attenuated disease severity and acute-virus accumulation, whereas ArLV1 produced both antagonistic and synergistic outcomes depending on host background. Notably, ArLV1 coinfection increased TuMV-induced disease severity in some genotype, an effect never observed with ALSV. These results demonstrate that latent viruses can substantially modify disease expression and viral fitness and highlight the need to account for the pre-existing virome when predicting plant disease outcomes, viral emergence, and epidemiological dynamics.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.760619",
+    "date": "2026-10-23",
+    "authors": "Lafforgue G, Elena SF.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349199",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virome",
+        "viromes",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1917,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.760619"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7342b8133b7614147aaaf65c8cad878258ece399b3e880e7f32203cac00578c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:28:25.074426+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "789979bf5ac6c6360c6b028fbedc307053bc1e0cb943fa85c9274c219c80d2a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:28:25.074426+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "隠れたプレーヤー：共感染状況下における潜在ウイルスの植物病害転帰調節",
+    "abstract_ja": "要旨　潜在ウイルスは植物ウイルス叢の遍在的な構成要素であり、自然宿主集団においては例外ではなくむしろ一般的であると考えられる。しかし、その遍在性にもかかわらず、急性ウイルス感染の転帰にこれらのウイルスがどのように影響を及ぼすかについては、ほとんど解明されていない。本研究では、因子設計を用いて、2種類の潜在セコウイルスであるリンゴ潜在球形ウイルス（ALSV）およびシロイヌナズナ潜在ウイルス1（ArLV1）が、急性ウイルスであるタバコラトルウイルス（TRV）およびカブモザイクウイルス（TuMV）の感染に及ぼす影響を検証した。共感染の評価は、野生型ならびにRNAサイレンシング、DNAメチル化、およびホルモンシグナル伝達経路に欠損を持つ変異体を含む、シロイヌナズナ（Arabidopsis thaliana）の8つの遺伝子型にわたって行った。ウイルス蓄積量および病害重症度の双方に対する潜在ウイルスの影響は、宿主およびウイルスの遺伝子型の組み合わせに強く依存していた。ホルモン経路がこれらの相互作用の媒介において重要な役割を果たしており、ジャスモン酸、サリチル酸、およびエチレンシグナル伝達が関与する応答が繰り返し認められた。ALSVは一般に病害重症度および急性ウイルスの蓄積量を減弱させたが、ArLV1は宿主の背景に応じて拮抗的および相乗的な結果の両方をもたらした。特筆すべきは、一部の遺伝子型においてArLV1の共感染がTuMV誘発性の病害重症度を増大させたことであり、この効果はALSVでは決して観察されなかった。これらの結果は、潜在ウイルスが病害発現およびウイルスの適応度を著しく変化させ得ることを示しており、植物病害の転帰、ウイルスの出現、および疫学的動態を予測する際に、既存のウイルス叢を考慮する必要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.26365950",
+    "title": "When the forest speaks again: in-depth genomic analysis of serotyping failure reveals geographic extension of sylvatic DENV-2 in southeastern Senegal, 2026",
+    "abstract": "In August 2026, eight febrile patients in the Kédougou and Tambacounda regions of Senegal tested positive by pan-flavivirus and pan-dengue RT-PCR but could not be assigned to a serotype. In-depth genome sequencing identified sylvatic dengue virus serotype 2 (DENV-2, genotype VI). These findings indicate the re-emergence and geographic spread of DENV-2/GVI beyond its historical focus.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.26365950",
+    "date": "2026-10-23",
+    "authors": "Dieng I, Efire AS, Sagne SN, Ndione MHD, Camara D, Doukanda SFM, Dia N, Diallo B, Barry MA, Fall G, Faye O.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349168",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1918,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.26365950"
+    ],
+    "translation": {
+      "title": {
+        "hash": "70e87592037c40d3789a08d1cbe95371b1b055fefca401fc69c6faba2773084b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:28:25.074426+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "68bda67e64e8a7ece90a6a4ee902d6f41b1e3133ba14c0709ed6cb41b76c8eb2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:28:25.074426+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "森が再び語る：血清型判定の失敗に関する詳細なゲノム解析により、セネガル南東部における野生型DENV-2の地理的拡大が明らかになった、2026年",
+    "abstract_ja": "2026年8月、セネガルのケドゥグーおよびタンバクンダ地域において、発熱を呈した患者8例が汎フラビウイルスおよび汎デング熱RT-PCR検査で陽性と判定されたが、血清型の特定には至らなかった。詳細なゲノムシーケンシングにより、野生型デングウイルス血清型2（DENV-2、ジェノタイプVI）が同定された。これらの知見は、DENV-2/GVIが従来の流行地域を超えて再出現し、地理的に拡大していることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.26366124",
+    "title": "GWAS of Lyme disease identifies five loci and discovers a connection with post-infectious diseases",
+    "abstract": "Lyme disease is a vector-borne bacterial infection with marked heterogeneity in susceptibility and clinical manifestations. We investigated the genetic architecture and clinical heterogeneity of Lyme disease using genetic and longitudinal health data from FinnGen and the Estonian Biobank. Genome-wide association analyses included 37,571 individuals with Lyme disease and 670,567 controls (N = 708,138), complemented by sex-stratified analyses and temporal phenotyping in FinnGen. The overall GWAS meta-analysis identified three genome-wide significant loci at  SCGB1D2 ,  TLR1/TLR6 , and  HLA-DQA1 . Sex-stratified analyses identified additional genome-wide significant signals at  CPE in males (β = −0.077, P = 2.99 × 10⁻⁸) and the  TYMP-CPT1B locus in females (β = −0.064, P = 4.98 × 10⁻⁸). The  TLR1/6 association was more pronounced in males (β = −0.141, P = 2.16 × 10⁻¹²) than in females (β = −0.060, P = 1.21 × 10⁻⁵).  Temporal phenotyping showed enrichment of neurological, musculoskeletal, and dermatological manifestations after Lyme disease diagnosis, with associations generally attenuating over time. Bell palsy showed the strongest association at 1-6 months (OR 11.49, P = 2.37 × 10⁻⁷⁹), while joint pain was also enriched during this interval (OR 1.74, P = 1.95 × 10⁻²³). Early associations with joint pain and Bell palsy were stronger in males than in females. These findings expand the genetic architecture of Lyme disease, implicate innate immune sensing through the  TLR1/TLR6 locus, and antigen presentation through the HLA associations. Overall, the results highlight a strong polygenic signal with Lyme disease and a connection with other post-infectious clinical manifestations.",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.26366124",
+    "date": "2026-10-23",
+    "authors": "Strausz S, Romppanen E, Haapaniemi H, FinnGen, Estonian Biobank Research Team, Health Informatics Research Team, Saxena R, Sinnott-Armstrong N, Abner E, Ollila HM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349166",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1919,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.21.26366124"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aae762bd0c263d1e0393bc7d35a2293b28e93f8c3de7b558db6e9ac21dc0de55",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:28:25.074426+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "324d959573042f40d7cabdaab181b5e7b946ff37d3340665c3fbbb923cdb6db1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:28:25.074426+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ライム病のGWASにより5つの遺伝子座を同定し、感染後疾患との関連を明らかにした",
+    "abstract_ja": "ライム病は、感受性および臨床症状に顕著な不均一性を示す媒介生物伝播性の細菌感染症である。本研究では、FinnGenおよびエストニア・バイオバンクの遺伝データおよび縦断的健康データを用いて、ライム病の遺伝的構造と臨床的不均一性を検討した。ゲノムワイド関連解析には、ライム病患者37,571例および対照群670,567例（N = 708,138）を含め、さらにFinnGenにおける性別層別解析および経時的フェノタイピングを併用した。全体のGWASメタ解析により、SCGB1D2、TLR1/TLR6、およびHLA-DQA1の3つのゲノムワイド有意遺伝子座が同定された。性別層別解析では、男性のCPE（β = −0.077, P = 2.99 × 10⁻⁸）および女性のTYMP-CPT1B遺伝子座（β = −0.064, P = 4.98 × 10⁻⁸）において、追加のゲノムワイド有意シグナルが同定された。TLR1/6の関連は、女性（β = −0.060, P = 1.21 × 10⁻⁵）よりも男性（β = −0.141, P = 2.16 × 10⁻¹²）においてより顕著であった。経時的フェノタイピングでは、ライム病診断後に神経系、筋骨格系、および皮膚系の症状の濃縮が認められ、関連は概して経時的に減弱した。ベル麻痺は1～6か月時点で最も強い関連を示し（OR 11.49, P = 2.37 × 10⁻⁷⁹）、関節痛もこの期間に濃縮されていた（OR 1.74, P = 1.95 × 10⁻²³）。関節痛およびベル麻痺との早期の関連は、女性よりも男性で強かった。これらの知見は、ライム病の遺伝的構造を拡張するものであり、TLR1/TLR6遺伝子座を介した自然免疫センシング、およびHLA関連を介した抗原提示が関与していることを示唆している。総じて、本結果は、ライム病における強い多遺伝子シグナルと、他の感染後臨床症状との関連性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11167041/v1",
+    "title": "On-site slaughter and dressing in retail chicken outlets: Escherichia coli contamination and antimicrobial resistance on food-contact surfaces in Dhaka Division, Bangladesh",
+    "abstract": "Abstract    Background  The retail poultry-processing environment is a critical reservoir for multidrug-resistant (MDR)  Escherichia coli  , posing significant zoonotic and public health risks. In Bangladesh, there is limited regulatory oversight on antibiotic application in poultry production, leading to frequent and indiscriminate use which allows resistant bacteria to persist on processing surfaces and potentially enter the human food chain, posing significant public health risks. This study assessed the prevalence, antimicrobial resistance (AMR) profiles, and genetic determinants of  E. coli  isolated from retail chicken outlets in Dhaka Division. Methods  A total of 180 swab samples were collected from knives, cutting tables, and dressing machines across six outlets in Savar, Sreepur, and Dhamrai upazilas from July to October 2025.  E. coli  was isolated using selective culture, biochemically confirmed via VITEK®2, and molecularly validated by PCR targeting the malB gene. Susceptibility to twelve antimicrobial agents was determined by disc diffusion and interpreted against CLSI criteria, and isolates were screened by PCR for blaOXA-1, sul1 and sul3. Results  Of 180 samples, 90 (50%) yielded  E. coli  , with knives showing the highest contamination (57.9%), followed by tables (47.6%) and dressing machines (45.0%). Resistance was most frequent to ampicillin (96%), trimethoprim (96%), azithromycin (93%), nalidixic acid (89%) and tetracycline (89%); meropenem remained active against 93% of isolates. The Spearman correlation analysis revealed strong positive associations among β-lactam antibiotics, moderate correlations between β-lactams and aminoglycosides, and negative correlation between ciprofloxacin and meropenem, suggesting both co-selection and independent resistance mechanisms among the studied isolates. Multiple Antibiotic Resistance (MAR) indices ranged from 0.00 to 0.83, with 93.3% exceeding 0.2, indicating significant selective pressure from antimicrobial exposure. Molecular analysis revealed sul-3 (26.7%) and blaOXA-1 (23.3%) as predominant resistance genes, with 13.3% of isolates harboring multiple determinants. Conclusion  E. coli  was present on half of all food-contact surfaces at comparable frequency across implements, and most isolates were resistant to multiple antimicrobial classes. Contamination was distributed across the dressing station rather than concentrated on any single implement, so hygiene measures targeting one item are unlikely to suffice. The gap between phenotypic resistance and the genes screened indicates further determinants warranting genomic investigation.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11167041/v1",
+    "date": "2026-10-23",
+    "authors": "Rihad M, Ammar NHM, Shahadat MN, Islam S, Roy UK, Hossain MR, Siddique AB, Sarkar S, Hossain MA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348716",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1920,
+    "collected_at": "2026-11-10T22:39:49.603059+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11167041/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "28643700ce793182073e45fdd166199df03a34610f80f2214ed6500b94b223d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:28:25.074426+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "03d96b79ca38097d7d7b2a59a9dc02eb28fe9a87be0ff302906cc3e20d1d0ce2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:28:25.074426+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "小売鶏肉販売店における現場での屠殺・解体：バングラデシュ・ダッカ管区の食品接触面における大腸菌汚染と薬剤耐性",
+    "abstract_ja": "要旨    背景  小売の家禽処理環境は、多剤耐性（MDR）大腸菌（Escherichia coli）の重要なリザーバーとなっており、重大な人獣共通感染症および公衆衛生上のリスクをもたらしている。バングラデシュでは、家禽生産における抗生物質の使用に対する規制上の監視が不十分であり、頻繁かつ無差別な使用が常態化している。これにより、処理面に耐性菌が残存し、ヒトの食品連鎖に侵入する可能性があり、重大な公衆衛生上のリスクとなっている。本研究では、ダッカ管区の小売鶏肉販売店から分離された大腸菌の保有率、薬剤耐性（AMR）プロファイル、および遺伝的決定因子を評価した。方法  2025年7月から10月にかけて、サヴァル、スリープル、およびダムライ・ウパジラの6店舗において、ナイフ、切断台、および解体機から計180検体のスワブサンプルを採取した。大腸菌は選択培養により分離し、VITEK®2を用いて生化学的に確認し、malB遺伝子を標的としたPCRにより分子生物学的に検証した。12種類の抗菌薬に対する感受性をディスク拡散法により判定し、CLSI基準に照らして解釈した。また、分離株に対してPCRを用いてblaOXA-1、sul1、およびsul3のスクリーニングを行った。結果  180検体のうち90検体（50%）から大腸菌が検出され、ナイフの汚染率が最も高く（57.9%）、次いでテーブル（47.6%）、解体機（45.0%）の順であった。耐性はアンピシリン（96%）、トリメトプリム（96%）、アジスロマイシン（93%）、ナリジクス酸（89%）、およびテトラサイクリン（89%）に対して最も高く、メロペネムは分離株の93%に対して活性を示した。スピアマン相関分析の結果、β-ラクタム系抗菌薬間に強い正の相関、β-ラクタム系とアミノグリコシド系の間に中程度の相関、およびシプロフロキサシンとメロペネムの間に負の相関が認められ、調査した分離株において共選択および独立した耐性メカニズムの両方が存在することが示唆された。多重抗生物質耐性（MAR）指数は0.00から0.83の範囲であり、93.3%が0.2を超えており、抗菌薬曝露による有意な選択圧が示されていた。分子生物学的解析により、sul-3（26.7%）およびblaOXA-1（23.3%）が主要な耐性遺伝子であり、分離株の13.3%が複数の決定因子を保有していることが明らかになった。結論  大腸菌は、すべての食品接触面の半数に存在し、器具間で同程度の頻度で認められた。また、ほとんどの分離株が複数の抗菌薬クラスに対して耐性を示していた。汚染は単一の器具に集中せず、解体ステーション全体に分布していたため、単一の品目を対象とした衛生対策では不十分である可能性が高い。表現型耐性とスクリーニングされた遺伝子との乖離は、ゲノム解析による調査が必要なさらなる決定因子が存在することを示している。"
   }
 ]
