@@ -267273,5 +267273,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "寄生進化の比較研究に向けた、古典的モデル線虫 Panagrellus redivivus の染色体レベルのゲノムアセンブリ",
     "abstract_ja": "Panagrellus redivivusは、Caenorhabditis elegansに先立つ線虫生物学の初期モデル系として用いられた自由生活性線虫である。主要な植物寄生種（例：Bursaphelenchus xylophilus）および動物寄生種（例：Strongyloides spp.）を擁するクレードIVの一員であるP. redivivusは、寄生性の進化を研究する上で、系統的に近縁な極めて重要な非寄生性の参照系となる。本研究では、Oxford Nanoporeロングリード、Illuminaショートリード、およびHi-Cスキャフォールディングを用いて構築したP. redivivusの染色体レベルのゲノムアセンブリを提示する。このアセンブリは5つの染色体スケールのスキャフォールドに分解されており、Hi-Cコンタクトマップおよび非正準的なテロメア反復モチーフの同定によって完全性が検証されている。本アセンブリは高い遺伝子空間の完全性（BUSCO 97.1%）を示し、17,839個の予測タンパク質符号化遺伝子を含んでいる。比較オーソロジー解析により、P. redivivusとクレードIVの寄生虫との間で広範なオルソグループ共有が認められ、系統的な分岐による交絡効果を低減させた比較進化研究が可能となった。この高品質なゲノムは、卵胎生を含む特徴的な生物学的形質の遺伝的基盤、ならびに遺伝子ファミリーの動態や寄生虫の進化を研究するための重要なリソースとなる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760919",
+    "title": "OmniRE-seq: A Dual-Method Framework for Decoding RNA Editing Dynamics in Disease and Therapy",
+    "abstract": "RNA editing is a widespread post-transcriptional modification involved in transcriptome diversity and disease regulation. However, its quantification remains technically challenging. We present OmniRE-seq, a dual-framework combining RE-seq for bulk and scRE-seq for single-cell RNA-seq data, enabling multi-level quantification, differential analysis, and functional annotation of RNA editing. Using RE-seq, we profile editing alterations across diverse contexts -- including murine sepsis, MDS, drug-treated melanoma, and colorectal cancer -- demonstrating the utility of locus-, gene-, and burden-level metrics in capturing biologically meaningful differences. scRE-seq further resolves cell-type-specific editing patterns by aggregating cells of shared identity into pseudo-bulk units (Spots), enhancing editing signal while preserving cellular resolution in colorectal cancer. Integrated bulk and single-cell analysis identified convergent editing signals and therapeutic targets, exemplified in a mouse model of thymic atrophy treated with  Ganoderma lucidum spores. Together, OmniRE-seq offers a standardized and scalable toolkit for dissecting RNA editing landscapes across resolution levels, advancing both mechanistic discovery and translational application in precision medicine.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760919",
+    "date": "2026-10-23",
+    "authors": "Hang Y, Liu H, Li W, Liu P, Yang J, Zhao Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349219",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "annotation",
+        "framework",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4666,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.22.760919"
+    ],
+    "translation": {
+      "title": {
+        "hash": "740621606ab2d6f61831be119a92e265717b8a501a04aedb12a1f1aaba5b64e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:45:20.676003+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "08db92517f3b7a3f06e3b63a4fed0a66d31dfc6c4620e696264802137eed8e23",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:45:20.676003+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "OmniRE-seq：疾患および治療におけるRNA編集動態を解読するためのデュアルメソッド・フレームワーク",
+    "abstract_ja": "RNA編集は、トランスクリプトームの多様性や疾患制御に関与する広範な転写後修飾である。しかし、その定量化は依然として技術的な課題となっている。本研究では、バルクデータ用のRE-seqとシングルセルRNA-seqデータ用のscRE-seqを組み合わせたデュアルフレームワーク「OmniRE-seq」を提案し、RNA編集の多レベル定量、差異解析、および機能アノテーションを可能にする。RE-seqを用いて、マウス敗血症、MDS、薬剤治療メラノーマ、および大腸癌を含む多様なコンテキストにおける編集変動をプロファイリングし、生物学的に有意な差異を捉える上での遺伝子座、遺伝子、および負荷レベルの指標の有用性を実証した。さらにscRE-seqは、共通のアイデンティティを持つ細胞を擬似バルクユニット（Spots）に集約することで細胞種特異的な編集パターンを解明し、大腸癌において細胞解像度を維持しつつ編集シグナルを増強した。バルク解析とシングルセル解析を統合することで、収束的な編集シグナルと治療標的を同定し、Ganoderma lucidum胞子で治療した胸腺萎縮マウスモデルにおいてその例を示した。総じて、OmniRE-seqは、解像度レベルを問わずRNA編集ランドスケープを解析するための標準化されたスケーラブルなツールキットを提供し、精密医療における機序の解明とトランスレーショナル応用の双方を推進するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11257888/v1",
+    "title": "Integrating Genomic and Fragmentomic Features for Tissue-of-Origin Prediction from Routine Targeted ctDNA Sequencing",
+    "abstract": "Abstract  Tissue-of-origin determination is important for treatment selection in cancer of unknown primary but remains challenging, with molecular classifiers often requiring dedicated assays beyond routine tumor genomic profiling. We asked whether this information could instead be recovered from the targeted circulating tumor DNA (ctDNA) sequencing that patients already receive. We developed Site-directed High-resolution Analysis of Positional Endpoints and Entropy (SHAPE), which exploits the high local sequencing depth of a routine 523-gene panel to resolve fragment-end positioning and fragment-length diversity at individual transcription factor binding sites, without whole-genome sequencing or dedicated regulatory-region capture. Across 1,889 plasma samples from patients with metastatic cancer spanning 11 primary types, profiled on two versions of a clinical assay, an ensemble integrating SHAPE with somatic mutations, broad copy-number alterations, all-exon depth, and exon 1 fragment-length entropy predicted the tissue of origin with macro-averaged areas under the receiver operating characteristic curve (AUROC) of 0.870 and 0.872, exceeding every individual signal; at estimated tumor fractions ≥ 10%, AUROC reached 0.94–0.96 with approximately 80% top-1 accuracy. Site-resolved SHAPE substantially outperformed conventional transcription factor–level aggregation (AUROC 0.816–0.818 versus 0.726–0.736). Feature contributions varied by cancer type and aligned with established tumor biology, and the framework generalized to an independent targeted cfDNA cohort (AUROC 0.944). Integrating complementary genomic and fragmentomic signals enables biologically interpretable tissue-of-origin prediction from existing ctDNA data, potentially extending the clinical utility of routine testing without additional sequencing.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11257888/v1",
+    "date": "2026-10-23",
+    "authors": "Kim J, Ko Y, Jang SY, Shin JE, Kim J, Shin J, Park S, Kwon M, Lim SH, Jung HA, Kang M, Hong JY, Kim ST, Sun J, Lee J, Um S, Park SH, Park YH, Seo SI, Lee S, Jeon SS, Park JO, Ahn JS, Park YS, Kim Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348748",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "prediction",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4667,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.21203/rs.3.rs-11257888/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aee52e2c527cbe09d992977931bf8f120cb43853b287559a7ab2869f187adebb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:45:20.676003+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e74c315cb70b6952c0e0ee40a13bb8980ffb8b60a2c33631ea6137b108517f37",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:45:20.676003+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ルーチンの標的ctDNAシーケンシングによる組織由来予測のためのゲノム・フラグメントーム特性の統合",
+    "abstract_ja": "要旨　原発部位不明のがんにおける治療選択において由来組織の特定は重要であるものの、依然として困難な課題であり、分子分類法では通常の腫瘍ゲノムプロファイリングに加えて専用のアッセイが必要となることが多い。我々は、この情報を、患者が既に受けている標的循環腫瘍DNA（ctDNA）シーケンシングから代わりに抽出できないか検討した。そこで、通常の523遺伝子パネルの高い局所シーケンシング深度を活用し、全ゲノムシーケンシングや専用の制御領域キャプチャを行うことなく、個々の転写因子結合部位におけるフラグメント末端の位置およびフラグメント長の多様性を解析する、Site-directed High-resolution Analysis of Positional Endpoints and Entropy（SHAPE）を開発した。11種類の原発部位にわたる転移性がん患者の血漿検体1,889検体を、2種類の臨床アッセイでプロファイリングしたところ、SHAPEに体細胞変異、広範なコピー数変動、全エクソン深度、およびエクソン1フラグメント長エントロピーを統合したアンサンブルにより、マクロ平均受信者動作特性曲線下面積（AUROC）0.870および0.872で由来組織を予測し、個々のシグナルを上回った。推定腫瘍分画が10%以上の場合、AUROCは0.94～0.96に達し、top-1精度は約80%であった。部位分解能を有するSHAPEは、従来の転写因子レベルの集約法を大幅に上回る性能を示した（AUROC 0.816～0.818 対 0.726～0.736）。特徴量の寄与度はがん種によって異なり、確立された腫瘍生物学と一致しており、このフレームワークは独立した標的cfDNAコホートにも一般化された（AUROC 0.944）。相補的なゲノムおよびフラグメントームシグナルを統合することで、既存のctDNAデータから生物学的に解釈可能な由来組織予測が可能となり、追加のシーケンシングなしに通常検査の臨床的有用性を拡張できる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760589",
+    "title": "Denoising single-cell ATAC-seq data with Shannon entropy",
+    "abstract": "Single-cell Assay for Transposase Accessible Chromatin with sequencing (scATAC-seq) is widely used to investigate chromatin accessibility but experiments often contain empty droplets, droplets containing damaged nuclei or cellular-debris. Accurately filtering high-quality nuclei is important as noisy droplets contribute reads that can distort downstream analysis and obscure rare cell population. Current approaches often rely on read depth and or predefined genomic features that are not exactly the same as chromatin accessibility landscape. Here, we present a Shannon entropy-based method that filters high-quality nuclei more robustly by quantifying genome-wide accessibility complexity. This approach improves signal-to-noise ratio, increases sensitivity for accessible-region detection, and enables more reliable downstream inference in scATAC-seq studies.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760589",
+    "date": "2026-10-23",
+    "authors": "Yang S, An K, Lee JJ, Gehring J, Booeshaghi S, Huang H, Streets A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350460",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4832,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.10.20.760589"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3bdf4ef3cfc60e4f0de621152b01cd8abeeb876868b96df287b4a4813c15b00b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:45:20.676003+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1f818e0f33e84e1d937fbbca4b9c1caac37dee18dff07b2249b83f7f6572f622",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:45:20.676003+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シャノンエントロピーを用いたシングルセルATAC-seqデータのデノイジング",
+    "abstract_ja": "シーケンシングを伴うトランスポザーゼアクセス可能クロマチンのシングルセルアッセイ（scATAC-seq）は、クロマチンアクセシビリティの解析に広く用いられているが、実験では空のドロップレットや、損傷した核、あるいは細胞残渣を含むドロップレットがしばしば認められる。ノイズの多いドロップレットは、後続の解析を歪め、希少な細胞集団を不明瞭にするリードをもたらすため、高品質な核を正確にフィルタリングすることが重要である。現行の手法は、リード深度や、クロマチンアクセシビリティランドスケープと完全には一致しない事前定義済みのゲノム特徴に依存することが多い。本研究では、ゲノムワイドなアクセシビリティの複雑性を定量化することで、高品質な核をより頑健にフィルタリングするシャノンエントロピーに基づく手法を提案する。このアプローチは、信号対雑音比を改善し、アクセシブル領域検出の感度を高め、scATAC-seq研究におけるより信頼性の高い後続の推論を可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10233757/v1",
+    "title": "Simulated Light Schedules for Sleep-Wake Adjustments: Exploring the Incorporation of Reinforcement Learning",
+    "abstract": "Abstract  This study investigates the potential of a development framework for generating personalized light schedules aimed at achieving specific sleep-wake cycle targets. Unlike existing approaches that rely on predefined heuristics or static lighting recommendations, the framework formulates light scheduling as a sequential decision-making problem and employs a reinforcement learning–based deep deterministic policy gradient (DDPG) algorithm to iteratively modify real-world light exposure patterns toward achieving a desired sleep-wake class. This process is assisted by a convolutional neural network-based sleep-wake classification model trained on ecologically collected data. The circadian impacts of the generated schedules are evaluated using dim light melatonin onset (DLMO) simulations from a validated circadian model. By incorporating melanopic alongside photopic illuminances and embedding industry-oriented constraints, this work explores possibilities of a novel method in generating and modifying light schedules for sleep-wake adjustments using modern approaches, standards and findings.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10233757/v1",
+    "date": "2026-10-23",
+    "authors": "Seah M, Lim JMY, Liang S, Kumari Y, Kalavally V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1348708",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4834,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.21203/rs.3.rs-10233757/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "268f882dce51a0747cfedab5e3cb53d7eeb08faf2d788f6be2839997de91878e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:45:20.676003+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0b6d9207e6b3ed8b29ac9b0155332665874b83d03ec6c091e0e4f75e3a0add7a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T03:45:20.676003+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "睡眠・覚醒調整のための模擬光スケジュール：強化学習の導入に関する検討",
+    "abstract_ja": "要旨　本研究では、特定の睡眠・覚醒サイクル目標の達成を目的とした、パーソナライズされた照明スケジュールを生成するための開発フレームワークの可能性について検討する。あらかじめ定義されたヒューリスティックや静的な照明推奨に依存する既存の手法とは異なり、本フレームワークでは照明スケジュールの策定を逐次的な意思決定問題として定式化し、強化学習に基づく深層決定論的方策勾配（DDPG）アルゴリズムを用いて、所望の睡眠・覚醒クラスの達成に向けて現実世界の光曝露パターンを反復的に修正する。このプロセスは、生態学的に収集されたデータで学習させた畳み込みニューラルネットワークベースの睡眠・覚醒分類モデルによって支援される。生成されたスケジュールが概日リズムに及ぼす影響は、検証済みの概日リズムモデルによる低照度メラトニン発現（DLMO）シミュレーションを用いて評価される。明光照度に加えてメラノピックを取り入れ、業界向けの制約条件を組み込むことで、本研究は現代的な手法、規格、および知見を用いた、睡眠・覚醒調整のための照明スケジュールの生成および修正における新たな手法の可能性を探る。"
   }
 ]
