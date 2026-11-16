@@ -262127,5 +262127,347 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ブルーム形成シアノバクテリアLimnospira platensisにおける微小多様性がレジリエンスとニッチ分化を促進する",
     "abstract_ja": "ブルーム形成シアノバクテリアにおける適応の種内進化メカニズム、特に小規模な空間的・時間的スケールで生じるものについては、依然として十分に解明されていない。本研究では、異なるマクロ生息域に生息するLimnospira platensisの持続的な個体群が存在するジアニ・ザハ湖の特異な特性を利用し、微小進化の空間的・時間的動態を探索した。少なくとも2010年以降極めて安定していたジアニ・ザハ湖（マヨット）は、2018年5月から2019年11月にかけて地震火山危機に見舞われた。この危機は、CO₂のアウトガスによって当初季節的に成層していた水柱が混合したことや、数多くの物理化学的パラメータの変化を特徴としていた。2010年、2014年、2022年、および2024年のサンプリングキャンペーンで分離された108株の系統ゲノム解析により、経時的に系統的に高い結束性を維持する個体群が明らかになった。2022年にはゲノム拡大が観察され、挿入配列の増殖に伴うゲノムサイズの増大と、それに続く適応遺伝子の喪失が特徴であった。2024年までには、水平遺伝子伝達の複数の独立した事象を通じて、2010～2014年の遺伝的内容の急速な回復が起こった。空間スケールでは、遺伝子内容に有意な差異は検出されなかったものの、アレル頻度に基づいて明確な亜集団が同定された。一部のアレルは亜集団間で特異的に固定され、異なる選択圧を受けていたことから、明確な生態型の存在が示唆された。総じて、本研究は、動的な環境におけるブルーム形成シアノバクテリア個体群の迅速な回復力、およびニッチ分化を通じた適応において、微小多様性が果たす役割を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760395",
+    "title": "Early-life core microbiota are associated with postlarval survival of  Penaeus vannamei  : A meta-analysis",
+    "abstract": "Larviculture is critical to the production of  Penaeus vannamei , the world’s leading farmed shrimp species, but remains constrained by erratic postlarval survival. Although early-life microbiome establishment is increasingly recognized as essential for larval health and survival, microbiome-based hatchery interventions are hindered by limited understanding of larval core microbiota. Here, we synthesized publicly available and self-generated 16S rRNA gene amplicon datasets of larval and rearing-water microbiota from 13 studies encompassing seven major producing regions worldwide to characterize shrimp larval core microbiota, their assembly processes, and their associations with larval survival. Although larval prokaryotic communities exhibited stronger geographic variation than developmental-stage succession, a conserved set of dominant bacterial families, including  Roseobacteraceae ,  Vibrionaceae ,  Flavobacteriaceae ,  Moraxellaceae , and  Pseudoalteromonadaceae , consistently prevailed across developmental stages and regions. By integrating occupancy, persistence, and ecological network centrality analyses, we demonstrated that common, temporal, and ecological core microbiota differ substantially in composition, diversity, stage specificity, and ecological roles in network stability. Compared with non-core taxa, core taxa were generally assembled more deterministically, irrespective of core category, suggesting stronger host selection and/or more rapid dispersal during microbiome establishment. Core microbiota also generally showed stronger associations with postlarval survival than total communities or non-core taxa, although contrasting survival associations among core members indicated that core microbiota are not ecologically homogeneous. Our work provides the first systematic categorization and characterization of larval core microbiota throughout the shrimp larviculture cycle, offering new insights into the ecological significance of core microbiota and identifying potential universal targets for microbiome-based intervention in shrimp larviculture.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760395",
+    "date": "2026-10-23",
+    "authors": "Chen R, Zhang W, Yu J, Song H, Zhou Y, Chen C, Huang X, Zhang D, Yan M, Wang K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349233",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiome",
+        "microbiota",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [
+          "roseobacter"
+        ],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 205,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.760395"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bc00149d695f3cfc5b5188b403c91dc1b01d51403f409d5271908df8ee4c1601",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:21:44.626617+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "92d662383f65deb6471f59b81eebf165db53afa87514a8c66e33fa50b066c914",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:21:44.626617+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "幼若期のコア微生物叢はPenaeus vannameiの幼生期以降の生存に関連する：メタ解析",
+    "abstract_ja": "エビ養殖において、世界有数の養殖種であるPenaeus vannameiの生産には幼生飼育が不可欠であるが、幼生期以降の生存率の不安定さが依然として大きな制約となっている。初期段階におけるマイクロバイオームの構築が幼生の健康と生存に不可欠であることはますます認識されつつあるが、幼生のコア微生物叢に関する理解が限られているため、マイクロバイオームに基づく孵化場での介入が妨げられている。本研究では、世界7つの主要生産地域を網羅する13の研究から得られた、公開データおよび独自に作成した幼生および飼育水の微生物叢の16S rRNA遺伝子アンプリコンデータセットを統合し、エビ幼生のコア微生物叢、その構成過程、および幼生の生存との関連性を特性評価した。幼生の原核生物群集は、発生段階に伴う遷移よりも地理的な変異が強かったものの、Roseobacteraceae、Vibrionaceae、Flavobacteriaceae、Moraxellaceae、およびPseudoalteromonadaceaeを含む保存された優占細菌科群が、発生段階や地域を問わず一貫して優占していた。占有率、持続性、および生態学的ネットワーク中心性の解析を統合することで、共通、時間的、および生態学的なコア微生物叢が、組成、多様性、段階特異性、およびネットワーク安定性における生態学的役割において著しく異なることを実証した。非コア分類群と比較して、コア分類群はコアカテゴリーに関わらず概してより決定論的に構成されており、これはマイクロバイオーム構築過程における宿主選択がより強力であるか、あるいは分散がより迅速であることを示唆している。また、コア微生物叢は一般に、全群集や非コア分類群よりも幼生期以降の生存と強い関連性を示したが、コア構成員間の生存関連性には対照的な結果が見られ、コア微生物叢が生態学的に均質ではないことが示された。本研究は、エビの幼生飼育サイクル全体にわたる幼生コア微生物叢の初の系統的な分類および特性評価を行い、コア微生物叢の生態学的意義に関する新たな知見を提供するとともに、エビの幼生飼育におけるマイクロバイオームベースの介入に向けた潜在的な普遍的標的を特定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760200",
+    "title": "Estimating Gene Prevalence with Incomplete Genomes: Application to the Prochlorococcus Pangenome",
+    "abstract": "Gene prevalence is an essential statistic in population genomics, defined as the proportion of a population carrying at least one ortholog of a given gene family. Common approaches to estimating gene prevalence either assume complete genomes or exclude genomes below a completeness threshold, resulting in biased and high variance estimates that fail to take advantage of all available data. Here we developed a maximum-likelihood framework that explicitly models genome completeness in order to estimate gene prevalence and associated confidence intervals from collections of complete and incomplete genomes. We applied the methodology to marine Prochlorococcus, a globally abundant photosynthetic bacterium for which the majority of available genomes are incomplete. Our methodology produced gene prevalence estimates with associated confidence intervals for a total of 52,500 gene families, more than 4 times the number quantifiable using complete genomes alone. We find a core of 714 genes are likely universal to the Prochlorococcus genus and a substantial majority of 49,828 gene families occur at low prevalence. Our results reveal a Prochlorococcus pangenome dominated by rare flexible genes and provide a general framework for incorporating incomplete genomes into quantitative analyses of microbial genomic diversity.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760200",
+    "date": "2026-10-23",
+    "authors": "Blaskowski S, Christie LG, Raut Y, Fuhrman JA, Bien J, Armbrust EV.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349227",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Prochlorococcus",
+        "bacterium",
+        "framework",
+        "gene",
+        "genome",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "pangenom",
+          "pangenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 206,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.19.760200"
+    ],
+    "translation": {
+      "title": {
+        "hash": "647c7f0f9ef235a95cbd1f85acf725c5fdf750a673c7b12a8dd7914ba4fae92d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:21:44.626617+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0f47544833e280650e011483ccfd67bc4d049d20b7ef82f7d2809ca092613200",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:21:44.626617+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "不完全ゲノムを用いた遺伝子保有率の推定：プロクロロコッカス・パンゲノムへの適用",
+    "abstract_ja": "遺伝子保有率は集団ゲノミクスにおける不可欠な統計量であり、特定の遺伝子ファミリーのオルソログを少なくとも1つ保有する集団の割合として定義される。遺伝子保有率を推定する一般的な手法は、完全なゲノムを前提とするか、あるいは完全性閾値を下回るゲノムを除外するため、利用可能なすべてのデータを活用しきれず、バイアスのかかった高い分散を示す推定値となる。本研究では、完全なゲノムおよび不完全なゲノムのコレクションから遺伝子保有率および関連する信頼区間を推定するため、ゲノムの完全性を明示的にモデル化した最尤法フレームワークを開発した。我々は、この手法を、利用可能なゲノムの大部分が不完全である世界的に豊富に存在する光合成細菌、海洋性のProchlorococcus属に適用した。本手法により、計52,500の遺伝子ファミリーについて、関連する信頼区間を伴う遺伝子保有率の推定値が得られ、これは完全なゲノムのみで定量可能な数の4倍以上に相当する。その結果、714個の遺伝子からなるコアがProchlorococcus属に普遍的である可能性が高く、49,828の遺伝子ファミリーの相当数が低い保有率で存在することが明らかになった。我々の結果は、希少なフレキシブル遺伝子が支配的なProchlorococcus属のパンゲノムを明らかにするとともに、微生物のゲノム多様性の定量的解析に不完全なゲノムを組み込むための汎用的なフレームワークを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.761184",
+    "title": "Ocean depth modifies host-microbiome ecology and evolution",
+    "abstract": "A major unsolved question in ecology and evolution is how similar free-living and symbiotic microbial communities are. In marine systems, depth homogenises free-living communities due to stronger dispersal and weaker environmental filtering compared to surface waters. We show that symbiotic communities of marine sponges follow a different pattern, with a subset of sponge species mirroring the increased similarity with depth seen in their free-living counterparts, while others remain highly host-specific both in shallow and deep waters. Moreover, in deep waters, more phylogenetically similar hosts harbor more similar microbiomes, yet host-symbiont cophylogeny nearly vanishes. This reveals two contrasting eco-evolutionary assembly rules: in more constant environments like the deep sea, community assembly is driven by host and environmental filtering with minimal signature of coevolution, whereas in variable environments, like shallow waters, host-symbiont coevolution is strong and key to maintain host-specific microbiomes.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.761184",
+    "date": "2026-10-23",
+    "authors": "Díez-Vives C, Turon M, Lurgi M, Pita L, Nielsen S, Álvarez Fernández A, Thomas T, Riesgo A, Montoya JM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349608",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 325,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.22.761184"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6cf1613d446914e12c86bc5c1a88a560d7fd7ed1596e8af551c6340d3d9731e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:21:44.626617+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "56ab24c71b2a8206eb83ff8b3e1ceed5adaa84f6d2a93dcf2c193a13a66c9871",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:21:44.626617+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋深度は宿主－微生物叢の生態と進化を変化させる",
+    "abstract_ja": "生態学および進化論における主要な未解決課題は、自由生活性微生物群集と共生微生物群集がどの程度類似しているかという点である。海洋系では、表層水に比べて分散が強く環境濾過が弱いため、水深の増加に伴い自由生活性群集は均質化する。我々は、海洋海綿の共生群集が異なるパターンを示すことを明らかにした。すなわち、一部の海綿種は自由生活性の対応種に見られる水深に伴う類似性の増大を反映している一方で、他の種は浅海域・深海域の双方において極めて宿主特異的なままである。さらに、深海域では、系統的に類似した宿主ほど類似した微生物叢を有するが、宿主・共生体の共系統性はほぼ消失する。このことは、2つの対照的な生態進化的集合規則を明らかにしている。すなわち、深海のようなより一定の環境では、群集の集合は宿主および環境濾過によって駆動され、共進化の痕跡は最小限である。一方、浅海域のような変動の大きい環境では、宿主・共生体の共進化が強く、宿主特異的な微生物叢を維持するための鍵となっている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.18.759981",
+    "title": "GBactPro: cross-species bacterial promoter prediction using element-resolved promoter definitions",
+    "abstract": "Accurate bacterial promoter prediction supports genome annotation, but many models use fixed-length promoter windows anchored to transcription start sites (TSSs) rather than promoter-element boundaries. We developed the  G eneral  Bact erial  Pro moter Predictor (GBactPro), a convolutional neural network–bidirectional long short-term memory (CNN–BiLSTM) framework using promoter sequences resolved by the Promoter Architecture Scanner. Using  Escherichia coli -trained models evaluated across 43 bacterial species, we compared eight input designs and identified the contiguous −35/spacer/−10 core as optimal (mean AUROC = 0.9859). Species-specific models showed broad transfer in a 43 × 43 evaluation. Joint training on all 43 species achieved a mean AUROC of 0.9943 across their held-out test sets and outperformed four established predictors under matched-length benchmarks. In genome-wide  E. coli scanning, GBactPro achieved AUROC and AUPRC values of 0.979 and 0.160 under stringent full-containment matching (0-bp tolerance), increasing to 0.997 and 0.323 under a 100-bp tolerance. False-positive predictions overlapped H-NS binding regions more frequently than true positives (24.4% versus 18.8%), and predictions also overlapped promoters derepressed in an H-NS-knockout dataset. Prediction precision varied across four TSS classes. These findings demonstrate that element-resolved promoter definitions improve cross-species prediction and support genome-wide identification of candidate bacterial promoters.",
+    "journal": "",
+    "doi": "10.64898/2026.10.18.759981",
+    "date": "2026-10-23",
+    "authors": "Han HB, Kao YV, Kuo SA, Chou HD, Chang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349599",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "framework",
+        "predictor",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 326,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.18.759981"
+    ],
+    "translation": {
+      "title": {
+        "hash": "40e831eb81efdc6cba69a3905ec7ad13da12b69ee999ebdf20c50c4a2cc4bfee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:21:44.626617+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "04d0b27f6185a18aec8ad290484024e59e41a5a770ed4f45e5aa831b8f9657ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:21:44.626617+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GBactPro: エレメント分解型プロモーター定義を用いた種間細菌プロモーター予測",
+    "abstract_ja": "正確な細菌プロモーター予測はゲノムアノテーションを支えるが、多くのモデルではプロモーター・エレメント境界ではなく、転写開始部位（TSS）に固定された長さのプロモーターウィンドウが用いられている。我々は、Promoter Architecture Scannerによって解析されたプロモーター配列を用いた、畳み込みニューラルネットワーク－双方向長短期記憶（CNN–BiLSTM）フレームワークであるGeneral Bacterial Promoter Predictor（GBactPro）を開発した。大腸菌（Escherichia coli）で学習させ、43種の細菌で評価したモデルを用いて8種類の入力設計を比較し、連続的な「−35/スペーサー/−10」コアが最適であることを特定した（平均AUROC = 0.9859）。種特異的モデルは、43 × 43の評価において広範な転移性を示した。全43種を対象とした共同学習では、ホールドアウトテストセット全体で平均AUROC 0.9943を達成し、長さを揃えたベンチマークにおいて既存の4つの予測モデルを上回った。ゲノムワイドな大腸菌スキャニングにおいて、GBactProは厳格なフルコンテインメントマッチング（0-bp許容）下でAUROCおよびAUPRC値が0.979および0.160となり、100-bp許容下では0.997および0.323に上昇した。偽陽性予測は、真陽性よりもH-NS結合領域と重複する頻度が高く（24.4%対18.8%）、H-NSノックアウトデータセットにおいて脱抑制されたプロモーターとも重複していた。予測精度は4つのTSSクラス間で異なっていた。これらの知見は、エレメントレベルで解析されたプロモーター定義が種間予測を改善し、候補となる細菌プロモーターのゲノムワイドな同定を支援することを示している。"
   }
 ]
