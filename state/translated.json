@@ -271317,5 +271317,274 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "トランスクリプトームおよびメチローム全域にわたる関連解析により、東アジア集団における肺がん遺伝子が優先的に同定された。",
     "abstract_ja": "東アジア（EAS）集団における遺伝子発現、DNAメチル化、および肺がんの関連性は依然として解明されていない。トランスクリプトームおよびメチローム全域にわたる関連解析（TWAS/MWAS）は、マルチオミクスデータを統合することで遺伝子と形質の関連を明らかにするのに役立つが、主に欧州のリファレンスに基づいて構築されたモデルでは、集団間の一般化可能性が制限される。この課題に対処するため、我々はそれぞれ800人以上および4,300人以上の全血データを用いて、EAS特異的な遺伝子発現およびDNAメチル化予測モデルを開発した。これらを南京医科大学（症例数13,327例、対照群13,328例）およびバイオバンク・ジャパン（症例数4,444例、対照群489,012例）の肺がんGWASに適用した結果、探索段階で肺がんリスクに関連する25個の遺伝子と42箇所のCpGを同定し、そのうち7個の遺伝子と32箇所のCpGが再現された。既知のGWAS遺伝子座外の新規遺伝子として、RP11-57K17.1 (6q22.31)、RP11-313J2.1 (10q11.21)、およびBMS1P2 (10q11.22) の3つが同定された。さらに、メンデルランダム化解析により、RP11-147L13.11のメチル化介在性の発現抑制が肺がんリスクを低減し得ることが示唆された。本研究は、新たな感受性遺伝子を明らかにするとともに、EAS集団における肺がんの遺伝的・エピジェネティックな調節機構に関する知見を提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1993463",
+    "title": "Machine learning insights into environmental and biological triggers of fumonisin outbreaks in Texas corn",
+    "abstract": "Contamination of corn with fumonisin mycotoxins (FUM) caused by the fungus Fusarium verticillioides is a recurrent issue in Texas corn production that results in significant economic losses for corn producers. Both prediction and management of FUM outbreaks are challenging due to a lack of information regarding region-specific environmental and biological drivers of contamination. We analyzed 683 historical FUM contamination events for 12 years that were categorized as low (<5 mg kg−1; <5 ppm) or high (≥5 mg kg−1; ≥5 ppm) and evaluated geo-spatial, environmental and biological drivers of outbreaks using a machine learning approach. We applied Ratkowsky-based growth and toxin production models for five genetically diverse F. verticillioides strains and found strain-specific predicted growth and Fumonisin Risk Index (FRI) profiles. Using FRI (strain-specific) or weather-only feature sets, each combined with soil biogeochemistry properties, we developed Random Forest (RF) and Neural Network (NNET) models. Historical balanced accuracy averaged ~74% for RF and ~70% for NNET models. Feature importance revealed that RF models consistently ranked barometric pressure and latitude among top predictors, while NNET models emphasized soil moisture and FRI. Among the overlapping drivers between RF and NNET were FRIs at the beginning of February and mid-October. Critical influential weeks for soil moisture (May–August), barometric pressure (July–October), and FRI (August–November) overlapped with corn developmental stages susceptible to F. verticillioides infection and FUM accumulation in a region-dependent manner due to differences in planting dates across the state. Soil biogeochemical properties such as organic matter, electrical conductivity, and clay content were also influential in models’ predictions indicating region-specific relationships with historical outbreaks. This study highlights the combined roles of weather patterns, fungal strain diversity, soil properties, and crop phenology in shaping FUM outbreak risk across Texas and underscores the importance of integrating strain-specific biological responses and regionally relevant environmental factors into predictive modeling frameworks for improved mycotoxin risk assessment. In addition, results suggest that region specific management of soil physico-chemical properties could reduce FUM risk, offering insights into new mitigation strategies for on-farm prevention of mycotoxin contamination and the potential to develop a novel early-warning system as well as mitigation tools for FUM outbreaks in Texas.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1993463",
+    "date": "2026-11-16",
+    "authors": "Jianzhong Su",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1993463",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4916,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.1993463"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0bef846f3e92ec9606a52ca1684e8e364f761793984113264c92cf4c501a4e43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:53:41.482836+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cd8df34aa930548cada0ef9bdba42a5380ef77068388fc8bcb02772ee0367619",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:53:41.482836+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "テキサス州産トウモロコシにおけるフモニシン発生の環境的・生物学的誘因に関する機械学習による知見",
+    "abstract_ja": "Fusarium verticillioides菌によるフモニシン系マイコトキシン（FUM）のトウモロコシへの汚染は、テキサス州のトウモロコシ生産において繰り返し発生している問題であり、トウモロコシ生産者に多大な経済的損失をもたらしている。汚染の地域固有の環境的・生物学的要因に関する情報が不足しているため、FUM発生の予測および管理はいずれも困難である。本研究では、12年間にわたる683件の過去のFUM汚染事例を「低（<5 mg kg⁻¹; <5 ppm）」または「高（≥5 mg kg⁻¹; ≥5 ppm）」に分類して分析し、機械学習手法を用いて発生の地理空間的、環境的、および生物学的要因を評価した。遺伝的多様性を有する5つのF. verticillioides株に対し、Ratkowskyに基づく生育および毒素産生モデルを適用し、株ごとの予測生育量およびフモニシンリスク指数（FRI）プロファイルを導出した。FRI（株別）または気象のみの特徴量セットを土壌生物地球化学的特性と組み合わせ、ランダムフォレスト（RF）モデルおよびニューラルネットワーク（NNET）モデルを構築した。過去のバランス正解率は、RFモデルで平均約74%、NNETモデルで平均約70%であった。特徴量の重要度分析の結果、RFモデルでは気圧と緯度が一貫して上位の予測因子として挙げられた一方、NNETモデルでは土壌水分とFRIが重視された。RFモデルとNNETモデルで重複していた要因には、2月初旬および10月中旬のFRIが含まれていた。土壌水分（5月～8月）、気圧（7月～10月）、およびFRI（8月～11月）の重要な影響週は、州内における播種時期の違いにより、F. verticillioides感染およびFUM蓄積の影響を受けやすいトウモロコシの生育段階と地域依存的に重複していた。有機物、電気伝導度、粘土含有量などの土壌生物地球化学的特性もモデルの予測に影響を与えており、過去の発生事例との地域固有の関連性が示された。本研究は、テキサス州全域におけるFUM発生リスクの形成において、気象パターン、菌株の多様性、土壌特性、および作物のフェノロジーが複合的に関与していることを浮き彫りにし、マイコトキシンリスク評価の向上に向けて、株固有の生物学的応答と地域的に関連のある環境要因を予測モデリングフレームワークに統合することの重要性を強調するものである。さらに、土壌の物理化学的特性を地域ごとに管理することでFUMリスクを低減できる可能性が示唆されており、これは農場内でのマイコトキシン汚染防止に向けた新たな軽減策への知見を与えるとともに、テキサス州におけるFUM発生の新たな早期警戒システムおよび軽減ツールの開発の可能性を示すものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1973614",
+    "title": "Exploring gut probiotics in metabolic dysfunction-associated steatotic liver disease: a multi-database bibliometric analysis of research evolution, hotspots, and frontiers",
+    "abstract": "ObjectiveThis study aimed to systematically characterize the knowledge structure, research evolution, hotspots, and emerging frontiers of gut probiotics in metabolic dysfunction-associated steatotic liver disease (MASLD), and to assess the cross-database consistency of the identified patterns, thereby providing a bibliometric basis to inform future mechanistic investigation and clinically oriented research.MethodsA total of 1,157 eligible publications from 2003 to 2026 were identified from the Web of Science Core Collection (WoSCC) and analyzed using CiteSpace, VOSviewer, Bibliometrix, and SCImago Graphica. PubMed and Scopus were independently searched on the same date and used as complementary comparison databases for cross-database consistency assessment rather than for data pooling.ResultsPublication output increased markedly after 2011, with China contributing the largest number of publications, while the United States of America (USA) and Italy also showed substantial research activity and citation impact. The field exhibited extensive international collaboration and a multidisciplinary knowledge structure involving hepatology, gastroenterology, nutrition, microbiology, and molecular biology. Keyword and co-citation analyses showed that research attention has progressively shifted from obesity, insulin resistance, endotoxemia, and intestinal barrier dysfunction toward the gut–liver axis, microbial metabolites, MASLD and Metabolic dysfunction-associated steatohepatitis (MASH), precision medicine, and more targeted probiotic interventions. Annual publication trends were highly consistent across WoSCC, PubMed, and Scopus, with pairwise Pearson correlations ranging from 0.995 to 0.998. Strong agreement also persisted for year-to-year changes and detrended publication counts, and the results remained stable after exclusion of the incomplete 2026 observation. Author keyword patterns also showed strong cross-database agreement, supporting the stability of the major thematic findings.ConclusionResearch on MASLD and gut probiotics is progressing from broad associations between dysbiosis and metabolic liver disease toward mechanistic investigation and more precise probiotic strategies. Future studies should prioritize strain-specific effects, patient stratification, mechanistic biomarkers, and well-designed clinical trials to better inform future clinical translation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1973614",
+    "date": "2026-11-16",
+    "authors": "Chi Liu",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1973614",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4917,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.1973614"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a490213b1aea79e6a05fbeebf7ba8365bc15e8c759f9e013f5e20f51e0d5e30e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:53:41.482836+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ddafb9a6dadaff7088d2235c274504cb5e3ff18747234b05da66abafa1bb6ab8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:53:41.482836+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "代謝機能障害に伴う脂肪性肝疾患における腸内プロバイオティクスの探索：研究の変遷、ホットスポット、およびフロンティアに関するマルチデータベース・ビブリオメトリクス解析",
+    "abstract_ja": "目的本研究は、代謝機能障害関連脂肪性肝疾患（MASLD）における腸内プロバイオティクスの知識構造、研究の変遷、ホットスポット、および新たなフロンティアを体系的に特性評価し、特定されたパターンのデータベース間の一貫性を評価することで、今後の機序解明および臨床志向の研究に資するビブリオメトリクスの基盤を提供することを目的とした。方法Web of Science Core Collection (WoSCC) から2003年から2026年までの適格な文献計1,157報を特定し、CiteSpace、VOSviewer、Bibliometrix、およびSCImago Graphicaを用いて解析した。PubMedおよびScopusについても同日に独立して検索を行い、データプーリングではなく、データベース間の一貫性評価のための補完的な比較データベースとして用いた。結果2011年以降、論文発表数は著しく増加し、中国が最多の論文数を占めた一方、アメリカ合衆国（USA）およびイタリアにおいても相当な研究活動と引用インパクトが認められた。本分野では広範な国際共同研究が行われており、肝臓学、消化器内科学、栄養学、微生物学、および分子生物学を含む多職種にわたる知識構造が形成されていた。キーワードおよび共引用解析の結果、研究の関心は、肥満、インスリン抵抗性、エンドトキシン血症、腸管バリア機能不全から、腸肝軸、微生物代謝物、MASLDおよび代謝機能障害関連脂肪性肝炎（MASH）、精密医療、ならびにより標的を絞ったプロバイオティクス介入へと段階的に移行していることが示された。年次の出版動向はWoSCC、PubMed、およびScopus間で極めて一貫しており、ペアワイズ・ピアソン相関係数は0.995から0.998の範囲であった。年ごとの変動およびトレンド除去後の論文数についても強い一致が認められ、不完全な2026年の観測値を除外した後も結果は安定していた。著者のキーワードパターンにおいてもデータベース間で強い一致が見られ、主要なテーマ別知見の安定性が裏付けられた。結論MASLDおよび腸内プロバイオティクスに関する研究は、ディスバイオーシスと代謝性肝疾患との広範な関連性から、機序解明およびより精緻なプロバイオティクス戦略へと進展している。今後の研究では、将来的な臨床応用に資するため、菌株特異的な効果、患者層別化、機序的バイオマーカー、および適切に設計された臨床試験を優先すべきである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2003069",
+    "title": "Research trends in metabolic dysfunction-associated fatty liver disease and the oral microbiota: a multi-database bibliometric and visualization analysis (2007–2026)",
+    "abstract": "BackgroundThe incidence and prevalence of metabolic dysfunction-associated fatty liver disease (MAFLD) have increased in recent years. Evidence indicates that the oral microbiota is closely associated with the development and progression of MAFLD. To date, no systematic bibliometric analysis of the literature on this relationship has been conducted.MethodsThe Web of Science Core Collection and Scopus databases were searched for relevant literature published between January 1, 2007, and August 4, 2026. Bibliometric and visualization analyses were performed using VOSviewer, CiteSpace, and the bibliometrix R package to systematically assess research trends, hotspots, and the knowledge structure of this field.ResultsA total of 544 publications were included. Research output entered a period of rapid growth in 2019, with annual publication output peaking in 2023. China ranked first with 227 publications, followed by the United States with 53 and Japan with 51. The University of California was the most productive institution, and Nutrients was the most productive journal. Ryutaro Kuraji and Atsushi Nakajima were the most prolific authors, each contributing seven publications. Keyword analysis indicated that the research focus gradually expanded from mechanisms related to inflammation, endotoxemia, and the intestinal barrier to the oral–gut–liver axis, specific microbial taxa, and microbial metabolites. In recent years, specific functional bacteria, bile acid metabolism, and targeted microbiota-based interventions have received increasing attention, suggesting a deepening focus on microbially mediated immunometabolic mechanisms and potential intervention strategies.ConclusionThis study delineates research trends concerning the oral microbiota and MAFLD. The oral–gut–liver axis and inflammation and fibrosis mediated by microorganisms and their products represent important research directions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2003069",
+    "date": "2026-11-16",
+    "authors": "Zhen Long",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2003069",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbial",
+        "microbiota",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4918,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.2003069"
+    ],
+    "translation": {
+      "title": {
+        "hash": "53a0a363ef831172a15478ae7fe09aaacd8cb2f99eb27fffbf25ddbeec75ca98",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:53:41.482836+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "03c0996a5376e7aec6afeef0a376b8a99135cf60a9c0e12384b32e127125f576",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:53:41.482836+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "代謝機能障害に伴う脂肪性肝疾患と口腔微生物叢に関する研究動向：マルチデータベース・ビブリオメトリクスおよび可視化解析（2007–2026年）",
+    "abstract_ja": "背景代謝機能障害関連脂肪性肝疾患（MAFLD）の発症率および有病率は近年増加している。口腔微生物叢がMAFLDの発症および進行と密接に関連していることが示されている。これまで、この関係に関する文献の系統的なビブリオメトリクス解析は行われていない。方法Web of Science Core CollectionおよびScopusデータベースを用いて、2007年1月1日から2026年8月4日の間に出版された関連文献を検索した。VOSviewer、CiteSpace、およびbibliometrix Rパッケージを用いてビブリオメトリクス解析および可視化解析を行い、本分野の研究動向、ホットスポット、および知識構造を系統的に評価した。結果計544報の文献が含まれた。研究成果は2019年に急速な成長期に入り、年間の出版数は2023年にピークに達した。中国が227報で第1位となり、次いで米国が53報、日本が51報であった。カリフォルニア大学が最も生産性の高い機関であり、Nutrients誌が最も生産性の高い学術誌であった。倉治龍太郎氏と中島敦氏が最多の著者であり、それぞれ7報の論文を執筆した。キーワード解析の結果、研究の焦点は、炎症、エンドトキシン血症、および腸管バリアに関連する機序から、口腔－腸管－肝臓軸、特定の微生物分類群、および微生物代謝物へと徐々に拡大していることが示された。近年、特定の機能性細菌、胆汁酸代謝、および標的微生物叢に基づく介入がますます注目を集めており、微生物介在性の免疫代謝機構および潜在的な介入戦略への関心が深まっていることが示唆される。結論本研究は、口腔微生物叢とMAFLDに関する研究動向を明らかにするものである。口腔－腸管－肝臓軸、および微生物とその産物によって媒介される炎症と線維化は、重要な研究方向である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1920759",
+    "title": "Bayesian beta regression analysis of the association between Klebsiella pneumoniae resistance rates and antibiotic use: a 6-year quarterly time-series study",
+    "abstract": "BackgroundThis exploratory study examined the potential association between the resistance rate of Klebsiella pneumoniae and antimicrobial consumption in the preceding quarter, aiming to provide a reference for antimicrobial stewardship and the rational use of antimicrobials.MethodsThis retrospective study used single-center aggregated data from our institution over the past 6 years (24 quarters). Bayesian beta models were used to explore the potential association between the resistance rate of K. pneumoniae and antimicrobial consumption in the preceding quarter while controlling for temporal trends. A three-tier strategy—model comparison, robustness checks, and sensitivity analysis—was adopted to assess the direction and robustness of this association.ResultsA total of 3,326 K. pneumoniae isolates were identified, accounting for 13.25% of all clinical isolates. Respiratory specimens were the predominant source (n = 1,682), indicating that the respiratory tract was a major site of infection. Association analysis showed that the trimethoprim-sulfamethoxazole resistance rate was positively associated with tigecycline DDDs: the main model outperformed the time-only baseline (ΔLOOIC = −4.47), with β = 0.0012 (95% CrI [0.00020, 0.00226]; P(β > 0) = 98.9%); each IQR increase in tigecycline DDDs was associated with an estimated increase of 4.81 percentage points in the trimethoprim-sulfamethoxazole resistance rate. This association remained consistent under MBB-based inference, with HAC-robust standard errors, and after 5% winsorization. It also showed the same direction after adding a 2023 indicator, a 2023 step variable, or a seasonal term. After excluding 2022–2024 data, the direction did not reverse [P(β > 0) = 72.4%], but the reduced sample size may have limited the strength of evidence in this subsample. The ceftazidime resistance rate showed a positive association with tigecycline DDDs in the full sample (β = 0.0017, 95% CrI [0.00007, 0.00334]), and MBB, Winsorization, and HAC-robust inference all supported this association. In the subsample excluding the 2022–2024 data, the positive association was substantially attenuated [P(β > 0) = 34.1%]; its temporal stability therefore warrants cautious interpretation and further validation in large independent samples. Piperacillin-tazobactam resistance showed a suggestive negative association with amoxicillin-clavulanate DDDs, whereas trimethoprim-sulfamethoxazole resistance showed a suggestive positive association with meropenem DDDs; evidence for both was limited. The remaining combinations provided no clear evidence of association.ConclusionThis exploratory study suggests a potential association between the resistance rate of K. pneumoniae and antimicrobial consumption, supporting further validation in independent large-sample studies. These findings may inform antimicrobial stewardship research and suggest that agents such as tigecycline warrant inclusion in future monitoring and evaluation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1920759",
+    "date": "2026-11-16",
+    "authors": "Sucai Chen",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1920759",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4920,
+    "collected_at": "2026-11-16T11:23:53.688113+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.1920759"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7496d845f70543c30632633acedbb658c48b0cf4bf8b82267985fe3ef8ca7dfb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:53:41.482836+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e70f84e4e0e82fbd7d1a07dd93b90354376abb389df03f08d66b5ab724361927",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T11:53:41.482836+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "肺炎桿菌耐性率と抗菌薬使用との関連に関するベイズβ回帰分析：6年間の四半期時系列研究",
+    "abstract_ja": "背景本探索的研究では、抗菌薬適正使用および抗菌薬の合理的使用の指針とするため、肺炎桿菌（Klebsiella pneumoniae）の耐性率と前四半期の抗菌薬消費量との間に潜在的な関連があるかを検討した。方法本後方視的研究では、当施設における過去6年間（24四半期）の単一施設集約データを用いた。ベイズβモデルを用い、時間的傾向を制御した上で、肺炎桿菌の耐性率と前四半期の抗菌薬消費量との潜在的な関連を検討した。この関連の方向性と頑健性を評価するため、モデル比較、頑健性チェック、および感度分析という3段階の戦略を採用した。結果肺炎桿菌の分離株は計3,326株同定され、全臨床分離株の13.25%を占めた。呼吸器検体が主な供給源（n = 1,682）であり、呼吸器系が主要な感染部位であることが示された。関連解析の結果、トリメトプリム・スルファメトキサゾール耐性率はチゲサイクリンDDDと正の関連を示した。メインモデルは時間のみのベースラインを上回り（ΔLOOIC = −4.47）、β = 0.0012（95% CrI [0.00020, 0.00226]; P(β > 0) = 98.9%）であった。チゲサイクリンDDDのIQRが1上昇するごとに、トリメトプリム・スルファメトキサゾール耐性率は推定4.81パーセントポイント上昇した。この関連は、MBBに基づく推論、HAC-robust標準誤差、および5%のウィンザー化後も一貫していた。また、2023年の指標、2023年のステップ変数、または季節項を追加しても同様の方向性が示された。2022～2024年のデータを除外した後でも方向性は逆転しなかったが［P(β > 0) = 72.4%］、サンプルサイズの縮小により、このサブサンプルにおけるエビデンスの強さが制限された可能性がある。セフタジジム耐性率は全サンプルにおいてチゲサイクリンDDDと正の関連を示し（β = 0.0017, 95% CrI [0.00007, 0.00334]）、MBB、ウィンザー化、およびHAC-robust推論のすべてがこの関連を支持した。2022～2024年のデータを除外したサブサンプルでは、正の関連が著しく減弱した［P(β > 0) = 34.1%］。したがって、その時間的安定性は慎重な解釈が必要であり、大規模な独立サンプルによるさらなる検証が求められる。ピペラシリン・タゾバクタム耐性はアモキシシリン・クラブラン酸DDDと示唆的な負の関連を示した一方、トリメトプリム・スルファメトキサゾール耐性はメロペネムDDDと示唆的な正の関連を示したが、いずれについてもエビデンスは限定的であった。その他の組み合わせでは、明確な関連のエビデンスは認められなかった。結論本探索的研究は、肺炎桿菌の耐性率と抗菌薬消費量との間に潜在的な関連があることを示唆しており、独立した大規模サンプルを用いたさらなる検証を支持するものである。これらの知見は抗菌薬適正使用の研究に資する可能性があり、チゲサイクリンなどの薬剤を今後のモニタリングおよび評価に組み込むべきであることを示唆している。"
   }
 ]
