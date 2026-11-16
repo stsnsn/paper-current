@@ -261468,5 +261468,323 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "HIV診療におけるHIVウイルス量検査結果の適時活用に影響を与える要因：カンパラ、キセニ保健センターIVにおける質的研究",
     "abstract_ja": "構造化抄録 HIVウイルス量（VL）検査結果の適時な活用は、抗レトロウイルス療法（ART）の効果的なモニタリングおよびHIV陽性者におけるウイルス抑制の達成において極めて重要である。しかし、資源が限られた多くの環境において、VL結果の活用の遅れが依然として課題となっている。本研究では、ウガンダ・カンパラのキセニ保健センターIVにおけるVL検査結果の適時な活用に影響を与える要因を検討した。キーインフォーマントへのインタビューおよび構造化施設観察を用いた質的研究デザインを採用した。臨床医、検査担当者、データ事務員、カウンセラー、施設管理スタッフなど、HIVケアおよびウイルス量管理に携わる医療従事者18名が本研究に参加した。データは、半構造化インタビューガイドおよび観察チェックリストを用いて収集した。インタビューの逐語録は、Routine Information System Management (PRISM) フレームワークに基づくテーマ分析を用いて解析した。その結果、技術的要因、行動的要因、および組織的要因という3つの主要なテーマが抽出された。技術的障壁としては、デジタルシステムの不安定さ、コンピュータへのアクセス制限、不安定なインターネット接続、および結果取得を遅らせる断片的な保健情報プラットフォームが挙げられた。行動的要因には、業務負荷の圧力、トレーニングの不足、ならびにスタッフのモチベーションや責任感のばらつきが含まれていた。組織的な課題としては、人員不足、監督体制の不備、一貫性のないフィードバックメカニズム、および時折発生する印刷資材の在庫切れが挙げられた。観察結果から、VL結果の手作業による印刷および電子システムへの再入力が、臨床的意思決定の遅延に寄与していることが確認された。ウイルス量結果の適時な活用は、技術的要因、行動的要因、および組織的要因の組み合わせによって影響を受ける。デジタルシステムの統合強化、医療従事者の能力向上、および施設レベルの管理支援の強化により、VL結果の活用状況およびHIV治療成績を大幅に改善できる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.21.759660",
+    "title": "An integrative cardio-informatics approach identifies positionally conserved ancestors of human lncRNA genes transcribed across vertebrate hearts",
+    "abstract": "ABSTRACT  Background  The poor conservation of lncRNA genes limits their comprehensive functional studies, as genetic engineering of relevant animal models presupposes the presence of corresponding defined orthologs. This limitation is prominently evident in cardiovascular research, where heart-related lncRNAs are rarely conserved between humans and other vertebrates, despite the highly conserved nature of cardiac function. Because lncRNAs frequently regulate neighboring protein-coding genes essential for cardomyocyte function (herein termed cardiomyocyte indispensable, CMIs), we hypothesized that they are under evolutionary pressure to retain their genomic position and transcriptional activity, irrespective of sequence similarities to prototypical human lncRNA genes. Results  By integrating mouse cardiac knockout phenotypes with human single-cell transcriptomics data, we systematically identified heart-expressed CMIs and their neighboring. lncRNA genes. Cross-species synteny analyses revealed regions flanking 109 CMIs with conserved relative positions and transcriptional orientations across vertebrate genomes. As most of these loci reside within poorly annotated non-coding regions, we developed  VertLncRNAchecker, a neural network-based web interface, that predicts lncRNA-like genes within these regions, which we termed “positional ancestors”. Finally, we validated  in situ that these positional ancestors express mature lncRNA transcripts in the hearts of mice, pigs, and frogs, mirroring the expression of their human lncRNA counterparts.  Conclusions  We present an accurate and retrainable computational platform for cross-species lncRNA discovery that prioritizes conserved genomic position over sequence conservation or existing genome annotations. This pipeline revealed putative ancestors of human heart-related lncRNAs hidden within the vertebrate non-coding “dark genome”, providing novel insights into lncRNA evolution and a useful resource for cardiovascular research. Abstract Figure  GRAPHICAL ABSTRACT",
+    "journal": "",
+    "doi": "10.64898/2026.10.21.759660",
+    "date": "2026-10-24",
+    "authors": "Galow A, Pavlopoulou A, Yıldız E, Kuhn S, Marquardt S, Seco J, Chabanovska O, Vasudevan P, Nesselmann C, Etz C, Rebl A, David R, Logotheti S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349716",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "genome",
+        "genomic",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 3906,
+    "collected_at": "2026-11-11T18:41:55.159675+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-11",
+    "related_dois": [
+      "10.64898/2026.10.21.759660"
+    ],
+    "translation": {
+      "title": {
+        "hash": "97bbe35c16349603da8ba07eb298e38f5703169535f2721f1e38f7906ff2611b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:16:33.556270+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "625ec53ffa81b0f7821006ea79a77a7e6022f36bc11d252d1935530e7512058b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:16:33.556270+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合的な心情報学アプローチにより、脊椎動物の心臓全域で転写されるヒトlncRNA遺伝子の位置保存祖先を同定する。",
+    "abstract_ja": "要旨  背景  lncRNA遺伝子の保存状態が不十分であるため、包括的な機能研究が制限されている。これは、関連する動物モデルの遺伝子工学的改変において、対応する定義済みのオルソログの存在が前提となるためである。この限界は心血管研究において顕著に現れており、心機能が高度に保存されているにもかかわらず、心臓関連lncRNAがヒトと他の脊椎動物間で保存されていることは稀である。lncRNAは、心筋細胞機能に不可欠な隣接タンパク質コーディング遺伝子（以下、心筋細胞必須遺伝子：CMIsと呼ぶ）を頻繁に調節するため、我々は、典型的なヒトlncRNA遺伝子との配列類似性にかかわらず、ゲノム上の位置と転写活性を維持するという進化的圧力を受けているという仮説を立てた。結果  マウス心臓のノックアウト表現型とヒト単一細胞トランスクリプトミクスデータを統合することで、心臓で発現するCMIおよびその隣接lncRNA遺伝子を系統的に同定した。種間シンテニー解析により、109個のCMIを挟む領域において、脊椎動物ゲノム間で相対的な位置と転写方向が保存されていることが明らかになった。これらの遺伝子座の大部分はアノテーションが不十分な非コーディング領域内に存在するため、我々はニューラルネットワークベースのウェブインターフェースであるVertLncRNAcheckerを開発し、これらの領域内におけるlncRNA様遺伝子を予測した。我々はこれらを「位置的祖先（positional ancestors）」と呼んだ。最後に、これらの位置的祖先が、マウス、ブタ、およびカエルの心臓において成熟lncRNA転写物を発現し、ヒトの対応するlncRNAの発現を反映していることをin situで検証した。結論  我々は、配列の保存性や既存のゲノムアノテーションよりも保存されたゲノム位置を優先する、種間lncRNA探索のための高精度かつ再学習可能な計算プラットフォームを提案する。このパイプラインにより、脊椎動物の非コーディング「ダークゲノム」内に隠されていたヒト心臓関連lncRNAの推定祖先が明らかになり、lncRNAの進化に関する新たな知見と、心血管研究にとって有用なリソースが提供された。要旨図  グラフィカル要旨"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.761199",
+    "title": "Overcoming segmentation bottlenecks in brain tissue for spatial proteomic inference at population scale",
+    "abstract": "In spatial proteomics across large cohorts, downstream estimates from tens of thousands of images depend on accurate cell segmentation. Yet pretrained segmentation models struggle with morphologically complex cell bodies in human brain tissue, and how domain adaptation affects downstream discovery remains unclear. Here, we introduce SPInfer, a workflow for spatial proteomic inference developed using 5,832 manually annotated cell bodies from 120 immunofluorescence images of the human prefrontal cortex. After benchmarking eight segmentation methods spanning classical, convolutional, and foundation models, we adapted Cellpose-SAM, raising cell segmentation F1 from 0.37 to 0.84 and recovering cell compositions concordant with matched single-nucleus RNA-seq and spatial transcriptomics. Across 14,765 images from 69 postmortem donors, identical Alzheimer's disease pathology models found no significant associations after false discovery rate correction using zero-shot masks, versus four using fine-tuned masks; three linked higher OLIG2-positive fractions to greater neurofibrillary tangle and plaque burden. Using the fine-tuned masks, a graph attention network over nuclear neighborhoods classified four cell types without marker information, and differential expression analysis linked cell morphology to gene expression. This provides a pipeline for fine-tuning foundation models to segment complex tissues, enabling biological discovery in spatial proteomics at the population scale.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.761199",
+    "date": "2026-10-24",
+    "authors": "You L, Durbin JL, Meng G, Stallaert W, Li G, Uttam S, Feng H, Glausier JR, Wang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349498",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "inference",
+        "proteomic",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3950,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.22.761199"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a7c423bec84f5ac51de50d20527b61d601745bdcadfd7a342ec52aa9df5cdebe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:16:33.556270+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1c2ccaad13f1da56f5abd14529f0d21e9478b8b7e435f5e654848b77a5821c29",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:16:33.556270+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "集団スケールでの空間プロテオミクス推論に向けた脳組織におけるセグメンテーションのボトルネックの克服",
+    "abstract_ja": "大規模コホートを対象とした空間プロテオミクスにおいて、数万枚の画像から得られるダウンストリーム推定値は、正確な細胞セグメンテーションに依存している。しかし、事前学習済みセグメンテーションモデルは、ヒト脳組織における形態的に複雑な細胞体の解析に苦慮しており、ドメイン適応がダウンストリームの発見にどのような影響を及ぼすかは依然として不明である。本研究では、ヒト前頭前皮質の120枚の免疫蛍光画像から得られた5,832個の手動アノテーション済み細胞体を用いて開発した、空間プロテオミクス推論ワークフロー「SPInfer」を提案する。古典的モデル、畳み込みモデル、および基盤モデルにわたる8種類のセグメンテーション手法をベンチマークした結果、Cellpose-SAMを適応させることで細胞セグメンテーションのF1スコアを0.37から0.84に向上させ、照合したシングル核RNA-seqおよび空間トランスクリプトミクスと一致する細胞組成を復元した。69名の死後ドナーから得られた14,765枚の画像において、同一のアルツハイマー病病理モデルを用いたところ、ゼロショットマスクによる偽発見率補正後では有意な関連性は認められなかったが、ファインチューニング済みマスクを用いた場合は4つのモデルで関連性が認められた。そのうち3つのモデルでは、OLIG2陽性分画が高いほど、神経原線維変化およびプラーク負荷が大きいことが示された。ファインチューニング済みマスクを用い、核近傍領域を対象としたグラフアテンションネットワークにより、マーカー情報なしで4種類の細胞型を分類し、発現変動解析によって細胞形態と遺伝子発現を関連付けた。これにより、基盤モデルを複雑な組織のセグメンテーション用にファインチューニングするためのパイプラインが提供され、集団スケールでの空間プロテオミクスにおける生物学的発見が可能となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760194",
+    "title": "ONT-LibQC: rapid quality control of chromatin assay libraries using shallow nanopore sequencing",
+    "abstract": "A next-generation sequencing (NGS) library for genomic assays can have an acceptable DNA concentration and size distribution yet lack the biological signal of interest. For chromatin assays, such as CUT&RUN and Micro-C, such problems often become apparent only after deep Illumina sequencing, delaying troubleshooting and protocol optimization. Here, we present ONT-LibQC, a workflow that uses a few thousand Oxford Nanopore Technologies (ONT) sequencing reads to examine finished libraries before deep sequencing. It reconstructs library molecules, identifies adapters and indexes, and assesses fragment sizes and the enrichment of biological signal. For CUT&RUN libraries, shallow, approximately 3,000 ONT reads were sufficient to show enrichment of promoter-associated H3K4me3, gene-body H3K36me3 and broad H3K27me3 profiles, consistent with profiles from Illumina deep sequencing. For Micro-C libraries, cis-contact fractions from shallow ONT sequencing closely matched Illumina results. Furthermore, full-length ONT reads revealed internal ligation structure and enabled estimation of the lengths of MNase digested DNA fragments. ONT profiles were reproducible across four technical replicate sequencing runs of each of two H3K4me3 libraries. Downsampling analysis further showed that key quality control (QC) features remained informative at lower read counts as low as 1,000 reads. Together, these results show that shallow ONT sequencing can provide rapid feedback on library quality, helping researchers identify potential problems before committing to deeper sequencing. ONT-LibQC is available through a web portal, a local graphical interface and a command-line workflow.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760194",
+    "date": "2026-10-24",
+    "authors": "Liu H, Kim JJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349465",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "chromatin",
+        "quality control",
+        "sequencing",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 3958,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.19.760194"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6fd21459535e6c6c3878bba45e15971b21e8b8df24cfae1081068fd40b3271df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:16:33.556270+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7c75558b092a7a8f8c0fd82aa9796c90a7d30ea5d37cba28ad4dce576335a4f8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:16:33.556270+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ONT-LibQC: 浅層ナノポアシーケンシングを用いたクロマチンアッセイライブラリの迅速品質管理",
+    "abstract_ja": "ゲノムアッセイ用の次世代シーケンシング（NGS）ライブラリは、許容可能なDNA濃度およびサイズ分布を有していても、目的とする生物学的シグナルを欠いていることがある。CUT&RUNやMicro-Cなどのクロマチンアッセイでは、こうした問題がIlluminaのディープシーケンシング後に初めて顕在化することが多く、トラブルシューティングやプロトコルの最適化が遅れる。本報では、数千リードのOxford Nanopore Technologies（ONT）シーケンシングリードを用いて、ディープシーケンシング前に完成したライブラリを評価するワークフロー「ONT-LibQC」を提案する。本ワークフローは、ライブラリ分子の再構築、アダプターおよびインデックスの同定、ならびにフラグメントサイズと生物学的シグナルの濃縮度の評価を行う。CUT&RUNライブラリでは、約3,000リードの浅いONTシーケンシングにより、Illuminaのディープシーケンシングのプロファイルと一致する、プロモーター関連H3K4me3、遺伝子本体H3K36me3、および広範なH3K27me3プロファイルの濃縮が十分に示された。Micro-Cライブラリでは、浅いONTシーケンシングによるシスコンタクト分画がIlluminaの結果と密接に一致した。さらに、フルレングスのONTリードにより内部ライゲーション構造が明らかになり、MNase消化DNAフラグメントの長さの推定が可能となった。2種類のH3K4me3ライブラリそれぞれについて、4回のテクニカルレプリケートシーケンシングランにわたって、ONTプロファイルの再現性が確認された。ダウンサンプリング解析により、主要な品質管理（QC）特徴量は、リード数が1,000リードという低水準においても有用な情報を保持していることがさらに示された。以上の結果は、浅いONTシーケンシングがライブラリ品質に関する迅速なフィードバックを提供し、研究者がディープシーケンシングに踏み切る前に潜在的な問題を特定するのに役立つことを示している。ONT-LibQCは、ウェブポータル、ローカルグラフィカルインターフェース、およびコマンドラインワークフローを通じて利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761066",
+    "title": "Sequence architecture of RNA reveals key molecular signatures driving RNA phase separation",
+    "abstract": "Biomolecular condensates are dynamic membraneless assemblies that organize various cellular processes through liquid–liquid phase separation (LLPS). RNA is an active regulator of biomolecular condensates and influence their formation through sequence-encoded features. Despite its established role in condensate formation, no computational framework exists to identify underlying signatures to predict LLPS-associated RNAs. We develop an interpretable hybrid framework to distinguish reviewed, experimentally supported LLPS-associated RNAs from background RNAs. We uncover biologically meaningful sequence properties associated with condensate participation. Each RNA is represented by 167 handcrafted descriptors capturing composition, k-mer usage, sequence complexity, repeat organization and dinucleotide autocorrelation together with 640-dimensional contextual embeddings from RNA-FM. These representations are integrated through cross-validated stacking with neural-network meta-learner. The framework achieves an AUC-ROC of 0.935, AUC-PR of 0.944 and MCC of 0.782. Feature statistics, ablation analysis and SHAP interpretation reveal a distributed sequence architecture dominated by altered local k-mer usage with additional contributions from low-complexity burden, repeat-associated organization and long-range dinucleotide pattern. Biological case studies including MALAT1 and TMPO-AS1 further connect these patterns with experimentally characterized modes of multivalent RNA–protein assembly. Together, the results show how interpretable machine learning can move beyond prediction to identify sequence features that generate mechanistic hypotheses for RNA-mediated condensation.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761066",
+    "date": "2026-10-24",
+    "authors": "Chatterjee S, Bahadur RP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349697",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4659,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.23.761066"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c7bc40b771ef5e28e803b478e33b701df790a5e636bbc3f96986f2f7e2923022",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:16:33.556270+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "32cf26c1a1d99b5fd42d90ba31f3078cf7daa2787526bf89378e6cc3ba3d653d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T00:16:33.556270+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNAの配列構造が明かす、RNA相分離を駆動する重要な分子シグネチャー",
+    "abstract_ja": "生体分子凝縮体は、液-液相分離（LLPS）を通じて様々な細胞内プロセスを組織化する、動的な膜のない集合体である。RNAは生体分子凝縮体の能動的な調節因子であり、配列符号化特徴を通じてその形成に影響を及ぼす。凝縮体形成における役割は確立されているものの、LLPS関連RNAを予測するための基礎となるシグネチャーを同定する計算フレームワークは存在しない。本研究では、レビュー済みで実験的に裏付けられたLLPS関連RNAを背景RNAから区別するための、解釈可能なハイブリッドフレームワークを開発した。我々は、凝縮体への関与に関連する生物学的に意義のある配列特性を明らかにした。各RNAは、組成、k-merの利用、配列の複雑性、リピート構造、およびジヌクレオチド自己相関を捉える167個の手作業で設計された記述子と、RNA-FMによる640次元のコンテキスト埋め込みによって表現される。これらの表現は、ニューラルネットワークメタ学習器を用いた交差検証済みスタッキングを通じて統合される。本フレームワークは、AUC-ROC 0.935、AUC-PR 0.944、およびMCC 0.782を達成した。特徴量統計、アブレーション解析、およびSHAPによる解釈から、局所的なk-mer利用の変化が支配的な分散型配列アーキテクチャが明らかになり、さらに低複雑性の負荷、リピート関連構造、および長距離ジヌクレオチドパターンが寄与していることが示された。MALAT1およびTMPO-AS1を含む生物学的ケーススタディにより、これらのパターンが実験的に特性解析された多価RNA-タンパク質集合様式とさらに結び付けられた。以上の結果は、解釈可能な機械学習が単なる予測を超え、RNA介在性凝縮の機構的仮説を導き出す配列特徴を同定できることを示している。"
   }
 ]
