@@ -278486,5 +278486,290 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "固体表面への微生物付着 ― 優先的結合の概念",
     "abstract_ja": "要旨微生物接着とは、個々の微生物が表面に付着するプロセスである。これは微生物の生命活動における鍵となるプロセスであり、接着によって生態的ニッチへの定着が可能になるほか、共生的あるいは病原的な関係において他の生物と相互作用することも可能となる。微生物の生命全般における接着の重要性は理解されているものの、その根底にある分子メカニズムについては十分に解明されていない。接着プロセスの分子レベルの詳細は、一部の個別事例、主に感染症におけるヒト病原体についてのみ解明されてきた。本総説では、非生物的な固体表面への接着に焦点を当て、これらの相互作用の分子原理に関する限定的な知見をまとめる。タンパク質やその他の生体分子がどのように表面と相互作用するか、また微生物、特に細菌がこれらの相互作用をどのように利用して固着生活を実現しているかについて述べる。さらに、微生物接着因子の特異性、親和性、および協同性、ならびにそれらと様々な材料や表面との相互作用を記述する「優先的結合」という概念を導入する。この概念は、酵素やタンパク質複合体の相互作用に対して用いられている現在の教科書的な用語と比較して、異なる表面に対する結合親和性をより正確に記述するものである。自然科学のあらゆる分野の概念と手法を用いたこれらのプロセスの分子レベルでの理解は、ポスト抗生物質時代において需要の高い、新たな消毒および防汚戦略の開発の鍵となる。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag837",
+    "title": "Data-Driven Modeling of Promoter Affection to 5’ Untranslated Region Design for Rational Predictive Translational Engineering",
+    "abstract": "AbstractMotivationPrecise gene expression control is fundamental for biological research and synthetic systems. While biophysical models predict transcriptional or translational regulation, they often overlook their potential interplay. Combining these regulations offers synergistic control, but its influence remains incompletely understood.ResultsHere, we investigated how promoter replacement affects 5’ untranslated region (5’ UTR)-mediated translation while designing the sequence of Escherichia coli. Using predictive models and a comprehensive library of promoter-5’ UTR pairs, we characterized the interference of promoters with translation rates in terms of mRNA secondary structures, especially the alternative folding of the Shine-Dalgarno (SD) region and frequency of the major transcription start sites (TSSs), which leads to the misprediction of gene expression.AvailabilityBased on this, we developed UTR Designer Pro, a model for designing promoter-5’ UTR sequences with higher accuracy, now available as a web service at https://sbi.postech.ac.kr/utr_designer_pro/. Our work improves understanding of transcriptional and translational regulation, aiding gene expression control in bacterial systems.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag837",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag837/9065267?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4980,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bioinformatics/btag837"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5662f6d52585f24ba660cda4bc3279e37baa5b52575f1b8bd44e5b1e59e7bb3a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:34:11.509620+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "83e80bb41c8983b76c8ab4ceb48e79a783b794a76e76b2193fca4ad8f69fa0a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:34:11.509620+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "合理的予測トランスレーショナルエンジニアリングのための5’非翻訳領域プロモーター親和性のデータ駆動型モデリング",
+    "abstract_ja": "要旨動機精密な遺伝子発現制御は、生物学的研究および合成系において不可欠である。生物物理学的モデルは転写または翻訳調節を予測するが、その潜在的な相互作用を見落としがちである。これらの調節を組み合わせることで相乗的な制御が可能となるが、その影響については依然として十分に解明されていない。結果本研究では、大腸菌（Escherichia coli）の配列設計を行う際、プロモーターの置換が5’非翻訳領域（5’ UTR）介在性翻訳にどのような影響を及ぼすかを検討した。予測モデルとプロモーター-5’ UTRペアの包括的なライブラリを用いて、プロモーターが翻訳速度に及ぼす干渉をmRNA二次構造、特にShine-Dalgarno（SD）領域の代替フォールディングおよび主要な転写開始部位（TSS）の頻度の観点から解析し、これが遺伝子発現の誤予測につながることを明らかにした。利用可能性これに基づき、より高精度なプロモーター-5’ UTR配列設計のためのモデルであるUTR Designer Proを開発し、現在はウェブサービス（https://sbi.postech.ac.kr/utr_designer_pro/）として提供している。本研究は、転写および翻訳調節の理解を深めるものであり、細菌系における遺伝子発現制御に寄与する。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bib/bbag601",
+    "title": "ADInteractome: discovering Alzheimer's disease-associated gene interactions from single-nucleus RNA-seq data through neural interaction states.",
+    "abstract": "Alzheimer's disease (AD) is a prevalent neurodegenerative disorder characterized by amyloid $\\beta $ plaques and tau tangles, yet its molecular mechanisms remain elusive. Advances in single-nucleus RNA sequencing (snRNA-seq) have provided profound insights into the cellular heterogeneity of AD-associated brains. In this study, we introduce ADInteractome, an interpretable artificial intelligence framework designed to discover gene interactions associated with AD directly from the internal state of neural networks trained on the snRNA-seq data of brain cells. The method is based on the intuition that if a neural network can accurately classify cells from AD and non-AD donors based on their snRNA-seq data, then its internal interaction states, reflecting interaction patterns within the gene expression data, are informative for identifying biologically meaningful gene interactions. Applied to a large-scale snRNA-seq dataset from the Seattle Alzheimer's Disease Brain Cell Atlas, ADInteractome reveals cell-type-specific and AD-associated gene circuits supported by existing literature. The results were further supported by our virtual knock-out and knock-in experiments, a novel concept to probe our findings through a data-driven approach. Compared with traditional co-expression network methods, it achieves stronger enrichment for known AD-associated gene interactions and uncovers novel interaction patterns. These findings highlight the potential of interpretable AI approaches for elucidating complex molecular interactions in neurodegenerative disease.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag601",
+    "date": "2026-11-01",
+    "authors": "Wu Y, Maurya N, Yang Y, Chen W, Wang G, Liu Z, Hu X, Zheng WJ, Xu Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969854",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13725928",
+    "pmid": "42969854",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4963,
+    "collected_at": "2026-11-16T21:59:47.988384+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/bib/bbag601"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f447ed8a69b7d86af09fead77c894e9de6a22588d6a9811fc05d80dba9c97b56",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:34:11.509620+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dc9a41069da421babd4e2aded60254a59c30cf12782375020f25fc156ee39ecc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:34:11.509620+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ADInteractome: 神経相互作用状態を用いたシングルコアRNA-seqデータからのアルツハイマー病関連遺伝子相互作用の解明",
+    "abstract_ja": "アルツハイマー病（AD）は、アミロイド$\\beta$プラークとタウ凝集体を特徴とする頻度の高い神経変性疾患であるが、その分子メカニズムは依然として解明されていない。シングルヌクレウスRNAシーケンシング（snRNA-seq）の進展により、AD関連脳の細胞不均一性に関する深い知見が得られている。本研究では、脳細胞のsnRNA-seqデータで学習させたニューラルネットワークの内部状態から、ADに関連する遺伝子相互作用を直接発見するために設計された解釈可能な人工知能フレームワーク「ADInteractome」を提案する。本手法は、ニューラルネットワークがsnRNA-seqデータに基づいてADドナーと非ADドナーの細胞を正確に分類できるならば、遺伝子発現データ内の相互作用パターンを反映するネットワーク内部の相互作用状態が、生物学的に意義のある遺伝子相互作用を同定する上で有用な情報となるという直感に基づいている。シアトル・アルツハイマー病脳細胞アトラスの大規模なsnRNA-seqデータセットに適用した結果、ADInteractomeは、既存の文献によって支持されている細胞種特異的かつAD関連の遺伝子回路を明らかにした。これらの結果は、データ駆動型アプローチを通じて知見を検証するという新たな概念である仮想ノックアウトおよびノックイン実験によってもさらに裏付けられた。従来の共発現ネットワーク手法と比較して、既知のAD関連遺伝子相互作用の濃縮がより強力に達成され、新たな相互作用パターンが解明された。これらの知見は、神経変性疾患における複雑な分子相互作用を解明する上で、解釈可能なAIアプローチが持つ可能性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1965733",
+    "title": "Microbial production of piceatannol: current status and future prospects",
+    "abstract": "Piceatannol is a plant-derived stilbenoid compound, exhibiting physiological activities such as antioxidant, anti-inflammatory, and anti-tumor effects, which endow it with significant application value in the food, pharmaceutical, and cosmetic industries. In recent years, the biosynthesis of piceatannol via microbial cell factories has attracted widespread attention, as it provides a safe and efficient route for the production of this compound. This review begins by introducing the biosynthetic pathway and relevant enzymes of piceatannol, followed by an in-depth analysis of the characteristics of microbial hosts used for its production. Subsequently, the main strategies for piceatannol production in microbial hosts, including the construction of efficient heterologous biosynthetic pathways, directed engineering of rate-limiting enzymes, supply of cofactors, enhancement of precursor metabolic flux, and optimization of the production process, are systematically summarized and discussed. Finally, the future prospects and perspectives for the microbial production of piceatannol are discussed.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1965733",
+    "date": "2026-11-16",
+    "authors": "Siqi Hu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1965733",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4981,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.3389/fmicb.2026.1965733"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3ab7f5d6a848bd7c7c28f77b86df5848c3fa42eb9c6a6f731c67fb66592ed4fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:34:11.509620+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "073cbeef9f2bc910f3cdc5ecbea6e2468998c8ec23431121e477fe0e23a9585f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:34:11.509620+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物によるピセアタンノール生産：現状と今後の展望",
+    "abstract_ja": "ピセアタンノールは植物由来のスチルベノイド化合物であり、抗酸化、抗炎症、抗腫瘍などの生理活性を示し、食品、医薬品、化粧品産業において重要な応用価値を有する。近年、微生物細胞工場を介したピセアタンノールの生合成が、本化合物の安全かつ効率的な生産経路として広く注目を集めている。本総説では、まずピセアタンノールの生合成経路と関連酵素について紹介し、続いてその生産に用いられる微生物宿主の特性について詳細に分析する。その後、効率的な異種生合成経路の構築、律速酵素の指向性工学的設計、補因子の供給、前駆体代謝フラックスの増強、生産プロセスの最適化など、微生物宿主におけるピセアタンノール生産の主要な戦略を体系的にまとめ、考察する。最後に、ピセアタンノールの微生物生産における今後の展望と可能性について論じる。"
+  },
+  {
+    "id": "10.1093/femsml/uqag039",
+    "title": "Unveiling the small protein landscape of uropathogenic E. coli",
+    "abstract": "AbstractUropathogenic Escherichia coli (UPEC) is the predominant causative agent of urinary tract infections. The UPEC strain, CFT073, has a mosaic genome containing 60 genomic islands enriched in virulence genes. In this study, we explore the small proteome of CFT073 using ribosome profiling (Ribo-seq) coupled with RNA sequencing (RNA-seq), and reveal 338 translated, previously unannotated, putative small open reading frames (sORFs) with less than 100 codons. Among them, 78 sORFs are located in intergenic regions. Fifteen intergenic sORFs encode a predicted transmembrane helix (smemORFs), of which seven are hypothetical or have not been characterized in other E. coli strains. The majority of the remaining putative sORFs encodes uncharacterized or novel soluble proteins (ssolORFs). Considering the evolution of many sORFs is likely to be recent, functional sORFs are more likely to have conserved gene neighborhood in other genomes. Searching into the genomes of 10 other E. coli strains and four enterobacteria species, synteny analysis reveals that 10 of 15 putative smemORFs, and 27 of 63 putative ssolORFs, have a homologous sequence in a similar genomic context in at least one other genome, supporting their likelihood of encoding functional proteins. Further validation of putative sORFs using proteomics, cell-free protein synthesis, and mNeonGreen tagging provide strong evidence for the translation of nine predicted intergenic sORFs. Notably, four previously uncharacterized small membrane proteins have increased abundance under oxidative stress, suggesting a potential role in the stress response. Together, our findings reveal the small proteome of an extraintestinal pathogenic E. coli and provide a catalog of putative sORFs for further investigation.",
+    "journal": "microLife",
+    "doi": "10.1093/femsml/uqag039",
+    "date": "2026-11-16",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/microlife/advance-article/doi/10.1093/femsml/uqag039/9065337?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6277/advanceAccess_4060.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 4978,
+    "collected_at": "2026-11-16T22:10:25.282632+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_6277/advanceAccess_4060.xml"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.1093/femsml/uqag039"
+    ],
+    "translation": {
+      "title": {
+        "hash": "764f1fdc815b488edef3c1cd845809a2130c05587549efbb778536cb685373f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:34:11.509620+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6afb97a37885368782aae657c9623e06d93bde7d8e16d0c6d3b677990791d89c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T22:34:11.509620+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "尿路病原性大腸菌の小規模なタンパク質ランドスケープの解明",
+    "abstract_ja": "要旨尿路感染症の主要な原因菌は、尿路病原性大腸菌（UPEC）である。UPEC株CFT073は、病原性遺伝子が濃縮された60個のゲノムアイランドを含むモザイクゲノムを有している。本研究では、リボソームプロファイリング（Ribo-seq）とRNAシーケンシング（RNA-seq）を併用してCFT073の小型プロテオームを解析し、100コドン未満の、翻訳済みでこれまでアノテーションされていなかった推定小型オープンリーディングフレーム（sORF）338個を同定した。このうち78個のsORFは遺伝子間領域に位置していた。15個の遺伝子間sORFは予測される膜貫通ヘリックス（smemORF）をコードしており、そのうち7個は仮説上のものであるか、あるいは他の大腸菌株では特性解析されていない。残りの推定sORFの大部分は、未特性解析または新規の可溶性タンパク質（ssolORF）をコードしている。多くのsORFの進化は最近である可能性が高いため、機能的なsORFは他のゲノムにおいても保存された遺伝子近傍を持つ可能性が高い。他の10株の大腸菌および4種の腸内細菌のゲノムを解析したところ、シンテニー解析により、推定smemORF 15個中10個、および推定ssolORF 63個中27個が、少なくとも1つの他のゲノムにおいて同様のゲノムコンテキストに相同配列を有していることが明らかになり、機能的なタンパク質をコードしている可能性が支持された。プロテオミクス、無細胞タンパク質合成、およびmNeonGreenタグ付けを用いた推定sORFのさらなる検証により、予測された9個の遺伝子間sORFの翻訳を示す強力な証拠が得られた。特筆すべきは、これまで特性解析されていなかった4種類の小型膜タンパク質が酸化ストレス下で存在量が増加しており、ストレス応答における潜在的な役割が示唆されたことである。以上の知見を総合すると、本研究は腸管外病原性大腸菌の小型プロテオームを明らかにするとともに、さらなる調査に向けた推定sORFのカタログを提供するものである。"
   }
 ]
