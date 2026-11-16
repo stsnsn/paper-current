@@ -283982,5 +283982,324 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "副腎白質ジストロフィーにおける腸内細菌叢の乱れ：新たな知見か？",
     "abstract_ja": "要旨  X連鎖性副腎白質ジストロフィー（X-ALD）は、脳白質に影響を及ぼす最も頻度の高い単一遺伝子疾患であり、緩徐進行性の副腎神経脊髄炎（AMN）から急速進行性の脳脱髄に至るまで、広範な臨床像を呈する。疾患の発現頻度の変動に影響を与える因子については、依然として十分に解明されていない。本研究では、X-ALD患者の便検体を用いてショットガンメタゲノムプロファイリングを実施し、これらのデータをアミノ酸および主要な代謝中間体の標的型血漿メタボローム解析と統合した。その結果、X-ALDの表現型間で異なる微生物叢関連の代謝シグネチャーを同定した。特筆すべきは、小児CALD患者と比較して、AMN患者ではBacteroides cellulosilyticusおよびHelicobacter apodemusの存在量が有意に変化していたことである。並行して、X-ALD患者では、アミノ酸代謝の変化、葉酸生合成能の低下、および酸化還元関連機能、グリオキシル酸シャント活性、脂質A修飾、リポ多糖体構築、バイオフィルム接着因子生合成、カーリ繊維産生を含むストレス適応経路の濃縮を特徴とする、微生物代謝リモデリングの証拠が認められた。これらの微生物学的変化と一致して、血漿中の分岐鎖アミノ酸およびメチオニン濃度、ならびに血清葉酸濃度が有意に低下していた。重要な点として、脳疾患患者において、メチオニン濃度はニューロフィラメント軽鎖（NfL）濃度と逆相関を示した。本研究の知見は、X-ALDにおける腸内微生物の代謝能と全身性代謝変化との間に、これまで認識されていなかった関連性があることを明らかにした。我々の結果は、疾患の重症度にメチオニン代謝が関与していることを示唆する先行研究の証拠を補強するものである。総じて、これらのデータは、X-ALDの進行の根底にある神経炎症およびミトコンドリア関連プロセスにおいて、微生物叢－腸－脳軸が調節的な役割を果たしていることを支持しており、バイオマーカー開発および微生物叢情報に基づく治療介入の新たな機会を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.15.26365107",
+    "title": "Persistent gut microbiota alterations after ischemic stroke are modifiable by probiotic intervention",
+    "abstract": "SUMMARY  The gut-brain axis has emerged as a critical modulator in neurological diseases, including stroke. While acute post-stroke dysbiosis is well established, it remains unclear whether these alterations persist long-term and can be therapeutically modulated. This study addresses this gap through integrated metagenomic and metabolomic profiling in two independent clinical stroke cohorts, complemented by experimental models. Experimental stroke induced persistent changes in gut microbiota composition and altered short-chain fatty acid profiles. In patients, microbiota composition remained distinct from controls up to three months after ischemic stroke or transient ischemic attack (TIA), accompanied by persistent reductions in propionic and valeric acid and reduced abundance of  Prevotella -associated microbial signatures. We performed a randomized, double-blind interventional trial (PRISE) testing a multispecies probiotic versus placebo, using household members as additional controls. Probiotic intervention led to microbiome compositional changes with increased abundance of beneficial taxa and significantly improved functional recovery. The tested probiotic strains showed anti-inflammatory and antioxidant effects in vitro. These findings suggest that targeted modulation of the microbiome represents a promising therapeutic avenue to improve chronic stroke recovery, warranting validation in larger Phase III clinical trials.",
+    "journal": "",
+    "doi": "10.64898/2026.10.15.26365107",
+    "date": "2026-10-20",
+    "authors": "Melton P, Sorbie A, Aho V, Haslinger C, Zimmermann M, Marut W, Jäger C, Wilmes P, Benakis C, Liesz A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346253",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 905,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.64898/2026.10.15.26365107"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bb68c7cbd645c2a99b247304178f660155e0da9de2d7d16ee631433e3f746a5b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:21:09.667258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d717ff721104ffe136a7000bc38120d6b5baa971388bd00ad8c449610477565d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:21:09.667258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "虚血性脳卒中後の持続的な腸内細菌叢の変化は、プロバイオティクス介入によって改善可能である",
+    "abstract_ja": "要旨  腸脳軸は、脳卒中を含む神経疾患における重要な調節因子として注目されている。脳卒中後の急性ディスバイオーシスについては十分に確立されているが、こうした変化が長期的に持続し、治療的に調節可能であるかは依然として不明である。本研究では、2つの独立した脳卒中臨床コホートにおける統合的なメタゲノムおよびメタボロームプロファイリングに加え、実験モデルを用いることで、この知見の空白を埋める。実験的脳卒中により、腸内細菌叢の組成に持続的な変化が生じ、短鎖脂肪酸プロファイルが変動した。患者においては、虚血性脳卒中または一過性脳虚血発作（TIA）後最大3か月まで、細菌叢の組成が対照群とは異なる状態が維持され、それに伴いプロピオン酸およびバレリン酸の持続的な減少、ならびにPrevotella関連微生物シグネチャーの存在量の低下が認められた。我々は、同居家族を追加対照として用い、多菌種プロバイオティクスとプラセボを比較するランダム化二重盲検介入試験（PRISE）を実施した。プロバイオティクス介入により、有益な菌種の存在量が増加し、マイクロバイオーム組成に変化が生じ、機能的回復が有意に改善した。試験したプロバイオティクス株は、in vitroにおいて抗炎症作用および抗酸化作用を示した。これらの知見は、マイクロバイオームの標的調節が慢性脳卒中の回復を改善するための有望な治療手段であることを示唆しており、より大規模な第III相臨床試験による検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11407101/v1",
+    "title": "Horizontal Gene Transfer Drives Patchy Distribution of CPR-C4 Cysteine Proteases with Deep Structural Conservation",
+    "abstract": "Abstract  Horizontal gene transfer (HGT) can carry a protein family across deep phylogenetic divides, but whether a horizontally mobile family retains structural and functional integrity over such distances—and under what selective regime—remains poorly characterized in the Candidate Phyla Radiation (CPR), a radiation of streamlined, host-dependent genomes. Here we use the CPR-C4 cysteine protease family to address this question at genome-database scale. Across 6,411 CPR representative genomes, CPR-C4 homologs occur in only 14.0% of species and are entirely absent from Saccharimonadia (1,310 species), a patchy distribution incompatible with the family's previous description as \"highly conserved\" in CPR. Phylogenetic incongruence testing attributes this pattern to HGT: approximately unbiased tests reject the GTDB species tree (AU = 0.000; ΔLogL = 1,039), the Robinson–Foulds distance is 0.862, only 3/10 orders are monophyletic, and flanking regions are specifically enriched for conjugative transfer proteins (OR = 4.66, p = 8.6 × 10−8) but not for transposons or phages. Despite 27–62% pairwise sequence identity, 60 representative homologs spanning 7 classes and 30 orders all fold into high-confidence structures (mean pLDDT = 94.5), cross-validated by an architecturally independent language-model predictor, with 55/60 retaining the intact catalytic triad (Cys77–His109–Leu131). Structural contact conservation (71.5% in distant homologs) tracks sequence divergence (Spearman ρ = 0.69) while declining more slowly than sequence identity, and three independent tests reject hydrophobic core compensation. Instead, strong purifying selection (global dN/dS = 0.079), localized to the catalytic core by site-resolved analysis (FEL), maintains fold and catalytic geometry across transfers. Non-CPR homologs from the NCBI nr database are phylogenetically nested within CPR diversity, indicating a CPR-centered origin with repeated cross-phylum spillover, and carriage is sharply depleted in extreme environments (1/273 versus 786/4,698; phylogenetic bootstrap P = 0.0015) while remaining indifferent to host association. These results establish CPR-C4 as a horizontally mobile, functionally constrained protease family, show that strong purifying selection can preserve a catalytic fold across phylum-level transfers, and indicate that distribution claims for CPR gene families warrant re-examination at current genome scale.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11407101/v1",
+    "date": "2026-10-20",
+    "authors": "Zhang M, Han Q.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345924",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 906,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11407101/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c39938162debeca73b4c88bac53d0761e666154d1756f0c08cb0b0714ef185cb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:21:09.667258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7033b894229e6f252ab53e94dcdd7b8d24579cce907f2c05f79c086ff0a1123f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:21:09.667258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "水平遺伝子伝達が深層構造保存型CPR-C4システインプロテアーゼの斑状分布を促進する",
+    "abstract_ja": "要旨　水平遺伝子伝達（HGT）は、深い系統的分岐を越えてタンパク質ファミリーを輸送し得るが、水平移動能を持つファミリーがこのような距離にわたって構造的・機能的な完全性を維持するのか、またどのような選択圧の下で維持されるのかについては、効率化され宿主依存的なゲノムの放散群である候補系統放散群（CPR）において十分に解明されていない。本研究では、CPR-C4システインプロテアーゼファミリーを用いて、ゲノムデータベース規模でこの問いに取り組む。6,411個のCPR代表ゲノムにおいて、CPR-C4ホモログが認められるのはわずか14.0%の種に留まり、サッカロリモナディア（1,310種）では完全に欠如している。この不均一な分布は、CPRにおいて本ファミリーが「高度に保存されている」とする従来の記述と矛盾する。系統的不一致検定により、このパターンはHGTに起因することが示された。すなわち、概ね偏りのない検定においてGTDBの種系統樹は棄却され（AU = 0.000; ΔLogL = 1,039）、Robinson–Foulds距離は0.862、単系統群は10目中わずか3目であり、隣接領域では接合伝達タンパク質が特異的に濃縮されている（OR = 4.66, p = 8.6 × 10−8）一方で、トランスポゾンやファージは濃縮されていない。ペアワイズ配列同一性が27–62%であるにもかかわらず、7綱30目にわたる60個の代表ホモログがすべて高信頼度構造へとフォールディングし（平均pLDDT = 94.5）、これはアーキテクチャ的に独立した言語モデル予測器によってクロスバリデーションされ、60個中55個が触媒三元構造（Cys77–His109–Leu131）を保持していた。構造的接触保存（遠縁ホモログで71.5%）は配列分岐に追従し（Spearman ρ = 0.69）、配列同一性よりも緩やかに低下しており、3つの独立した検定により疎水性コア補償は棄却された。代わりに、部位特異的解析（FEL）によって触媒コアに局在化した強い浄化選択（グローバルdN/dS = 0.079）が、伝達過程を通じてフォールディングと触媒幾何学を維持している。NCBI nrデータベースの非CPRホモログはCPRの多様性の中に系統的に組み込まれており、これはCPR中心の起源と反復的な系統間スピルオーバーを示唆している。また、極限環境下では保有量が著しく減少する一方（1/273 対 786/4,698; 系統的ブートストラップ P = 0.0015）、宿主との関連性には影響を受けない。これらの結果は、CPR-C4が水平移動能を持ち機能的に制約されたプロテアーゼファミリーであることを立証し、強い浄化選択が系統レベルの伝達を通じて触媒フォールディングを保存し得ることを示し、CPR遺伝子ファミリーの分布に関する主張が現在のゲノムスケールにおいて再検討されるべきであることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.1900.v1",
+    "title": "Virome Analysis of South American Arthropodophagous Bat Species With Sequence- and Profile-Based Homology Approaches Reveals Hidden RNA Virus Diversity",
+    "abstract": "Bats harbor a remarkable diversity of viruses, yet much of their virome remains unexplored, particularly in South American species. Here, we characterized the RNA virome in fecal samples of three arthropodophagous bat species roosting in Argentina (Eumops bonariensis, Molossus molossus, Tadarida brasiliensis), and evaluated variation in viral communities across habitats and seasons. Metagenomic sequencing generated 161,871,196 high-quality read pairs, which were assembled into 32,816 contigs longer than 500 bp. BLAST-based analyses identified 11,056 viral contigs, but only 4.6% could be assigned to viral orders or families. Sequences classified at basal ranks were further analyzed using profile-based HMMER searches together with viral dark matter analysis. This approach increased the proportion of viral contigs assigned to orders or families to 45.2% and identified 30 viral families overall. Viral community composition showed species-specific patterns, with habitat-associated differences in E. bonariensis, temporal variation in T. brasiliensis, and comparatively low and homogeneous diversity in M. molossus, although these patterns were not statistically significant. Divergent viruses of bunya-, hepe-, stella-, flavi-, rhabdo-, and reo-like lineages were further characterized. Our findings highlight the value of integrating similarity- and profile-based approaches to improve viral taxonomic resolution and reveal the diversity of RNA viruses associated with South American bats.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.1900.v1",
+    "date": "2026-10-20",
+    "authors": "Cerri A, Morro L, Zorec TM, Montani ME, Di Domenica V, Poljak M, Bolatti EM, Giri AA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345505",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 907,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.1900.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f797f8f7ad31ebf43d8fcb556a96ef8751b9d32c9a8bae139890b6bd692ec456",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:21:09.667258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5044157dea41fd2f0640caf6d791a6c2536857b0b5f8bde386b16c49d7d83a12",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:21:09.667258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "配列およびプロファイルに基づく相同性解析手法を用いた南米の節足動物食性コウモリ種のウイルス叢解析により、潜在的なRNAウイルスの多様性が明らかになった。",
+    "abstract_ja": "コウモリは驚くほど多様なウイルスを保有しているが、そのウイルス叢の多く、特に南米の種においては未解明のままである。本研究では、アルゼンチンに生息する節足動物食性のコウモリ3種（Eumops bonariensis、Molossus molossus、Tadarida brasiliensis）の糞便試料からRNAウイルス叢を特性評価し、生息地や季節によるウイルス群集の変動を評価した。メタゲノムシーケンシングにより161,871,196組の高品質なリードペアが得られ、これらは500 bpを超える32,816個のコンティグにアセンブルされた。BLASTベースの解析により11,056個のウイルスコンティグが同定されたが、ウイルス目または科に割り当てられたのはわずか4.6%であった。基底的なランクに分類された配列については、プロファイルベースのHMMER検索とウイルスダークマター解析を用いてさらに解析を行った。この手法により、目または科に割り当てられたウイルスコンティグの割合は45.2%に上昇し、全体で30のウイルス科が同定された。ウイルス群集の組成は種特異的なパターンを示し、E. bonariensisでは生息地に関連した差異が、T. brasiliensisでは時間的変動が、M. molossusでは比較的低く均質な多様性が認められたが、これらのパターンに統計的な有意性は認められなかった。さらに、ブンヤ様、ヘペ様、ステラ様、フラビ様、ラブド様、およびレオ様系統の分岐したウイルスの特性評価を行った。本研究の知見は、類似性ベースおよびプロファイルベースのアプローチを統合することで、ウイルスの分類学的解像度を向上させ、南米のコウモリに関連するRNAウイルスの多様性を明らかにすることの有用性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.1941.v1",
+    "title": "Wine Yeast Engineering for Improved Polysaccharide Depolymerization and Lower Ethyl Carbamate Formation",
+    "abstract": "Engineering wine yeasts to combine efficient extracellular polysaccharide degradation with reduced accumulation of ethyl carbamate, a group 2A carcinogen, may support improvements in winemaking. This study aimed to replace the arginase-encoding CAR1 locus in the genome of the triploid industrial wine yeast Saccharomyces cerevisiae I-328 with an expression cassette for the endopolygalacturonase gene PGU1, placed under the control of the PGK1 gene promoter and terminator. CRISPR/Cas9-mediated genome editing was performed using an acetamidase-selectable plasmid followed by phenotypic screening and molecular genetic verification. Whole genome sequencing confirmed the replacement of all three CAR1 alleles by the PGU1 expression cassettes. The modified strain I328-Y21 showed enhanced degradation of polygalacturonic acid relative to the parental strain. Consistently, RT-qPCR analysis showed that the transcription level of the PGU1 gene in strain I328-Y21 was about 300 times higher than in I-328. Inactivation of arginase, which forms urea through the breakdown of arginine, resulted in about nine-fold decrease in the content of urea in the growth medium. Since ethyl carbamate is formed as a result of the interaction between ethanol and urea excreted by yeast cells, this strain could be used to reduce its content in wine. Winemaking experiments show that genome editing did not affect fermentation performance and other technological characteristics. The new strain with the replacement of the arginase gene with the endopolygalacturonase expression cassette is promising for use in winemaking.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.1941.v1",
+    "date": "2026-10-20",
+    "authors": "Vasyagin EA, Urakov VN, Shalamitskiy MY, Cherviak SN, Semenova KA, Lutkova NY, Beletsky AV, Rakitin AL, Mardanova ES, Kushnirov VV, Ravin NV, Mardanov AV.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346735",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 1350,
+    "collected_at": "2026-11-10T21:20:07.294673+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.20944/preprints202610.1941.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4284683a0d6ac031d2579e195bcd16e8abf2750890a67a030695233dfeff694f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:21:09.667258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ce7ab23aa06b5c75c1d71ddeffa7d710784d74396bc6c09666f0bfefbe2a7beb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-16T23:21:09.667258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多糖類の脱重合促進およびエチルカルバメート生成抑制のためのワイン酵母工学",
+    "abstract_ja": "効率的な細胞外多糖類分解と、グループ2A発がん物質であるエチルカルバメートの蓄積抑制を両立させるワイン用酵母の作出は、ワイン醸造の改善に寄与し得る。本研究では、三倍体工業用ワイン酵母Saccharomyces cerevisiae I-328のゲノムにおいて、アルギナーゼをコードするCAR1遺伝子座を、PGK1遺伝子プロモーターおよびターミネーターの制御下にあるエンドポリガラクチュロナーゼ遺伝子PGU1の発現カセットに置換することを目的とした。アセタミダーゼ選択性プラスミドを用いたCRISPR/Cas9によるゲノム編集を行い、続いて表現型スクリーニングおよび分子遺伝学的検証を実施した。全ゲノムシーケンシングにより、3つのCAR1アレルすべてがPGU1発現カセットに置換されたことが確認された。改変株I328-Y21は、親株と比較してポリガラクツロン酸の分解能が向上していた。同様に、RT-qPCR解析により、株I328-Y21におけるPGU1遺伝子の転写レベルはI-328の約300倍であることが示された。アルギニンの分解により尿素を生成するアルギナーゼを不活化したところ、培養液中の尿素含有量は約9分の1に減少した。エチルカルバメートは、エタノールと酵母細胞から排泄される尿素との相互作用によって生成されるため、本株はワイン中の同物質含有量を低減させるために利用できる。ワイン醸造実験の結果、ゲノム編集は発酵性能やその他の技術的特性に影響を及ぼさなかった。アルギナーゼ遺伝子をエンドポリガラクチュロナーゼ発現カセットに置換したこの新規株は、ワイン醸造への利用において有望である。"
   }
 ]
