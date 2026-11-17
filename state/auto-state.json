@@ -40,11 +40,11 @@
     "2026-W34": "4c85e3610d6cbb9433f6c05724245d05ce7559913d90fa691cb56fd75872d202",
     "2026-W38": "00e12385da54693f64e9f7338ce2d42e2c6a1a7a32a63fbf75eba9b5c491f03c",
     "2026-W46": "76a90c671da5827591c89f37917c3cbed83f94956f20cd773e4324a90b99f447",
-    "2026-W47": "222056b83b8616834870952f8fe96f56b5dace3003378d17c25a1d9ae1d8be84"
+    "2026-W47": "288356478e9f10f92961df339fb03159ab3427d8bea8532ec0027d201b353664"
   },
   "last_local_collect": "2026-11-10T01:46:09.703825+00:00",
   "cloud_bootstrapped_at": "2026-11-06T15:23:20.121772+00:00",
-  "last_cloud_publication_check": "2026-11-17T05:24:20.169909+00:00",
+  "last_cloud_publication_check": "2026-11-17T15:49:35.852381+00:00",
   "source_collection_baseline": "2026-11-05T21:29:53.482621+00:00",
   "last_collection_attempt": "2026-11-17T14:33:57.442051+00:00",
   "collection_exit_code": "timeout",
@@ -252,6 +252,5 @@
     "budget_exhausted": true,
     "updated_at": "2026-11-17T14:33:41.776581+00:00"
   },
-  "last_publication_slot": "2026-11-17T09:12:00+09:00",
-  "pending_publication_slot": "2026-11-17T21:12:00+09:00"
+  "last_publication_slot": "2026-11-17T21:12:00+09:00"
 }
