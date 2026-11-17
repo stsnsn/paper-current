@@ -288468,5 +288468,297 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "X-BCRdb: B系統細胞のクローンタイプ・トランスクリプトーム解析のための疾患横断的BCRペア単一細胞データベース",
     "abstract_ja": "要旨B細胞およびそのクローン再構成B細胞受容体（BCR）は、液性免疫の細胞的・分子的基盤を構成している。シングルセルRNAシーケンシングとV(D)Jプロファイリングを組み合わせることで、現在ではBCRクローンタイプをB細胞の転写状態に直接紐付けることが可能となっている。しかし、既存の免疫受容体リソースはT細胞/TCR中心であるか、あるいはBCR特異的な解析深度が限られていることが多い。本報では、BCRレパトア、B細胞の転写状態、およびクローン進化の統合解析を目的とした、疾患横断的なシングルセルデータベース「X-BCRdb」を提案する。今回のリリースでは、45の疾患・生理学的カテゴリーおよび13の組織群にわたる61の研究、1,401サンプル、903被験者を統合した。本データベースには、トランスクリプトームおよびBCR情報が照合された1,565,870細胞を含む2,402,995個の処理済みB系細胞と、アノテーション済みのBCRレコード3,993,244件が収録されている。統一された解析ワークフローにより、クローンタイプの割り当て、SHMプロファイリング、アイソタイプ解析、VH/VLペアリング、系統再構築、および公開クローンタイプ解析を含む、標準化されたB細胞アノテーションとBCRレパトアの特性解析が可能となる。ウェブインターフェースでは、これらの受容体特徴を個々のサンプル、研究、疾患にわたるB細胞の転写状態と紐付け、グローバルなCDR3類似性検索、データダウンロード、およびAPIアクセスを提供している。X-BCRdbはhttps://xbcrdb.net/にて無料で利用可能であり、疾患関連のB系細胞応答を研究するための体系的なプラットフォームを提供するとともに、ダウンストリームの抗体探索および機能検証に向けた候補BCR配列の優先順位付けを容易にする。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1932026",
+    "title": "Comparative evaluation of salicylic acid analogs for enhancing tomato growth and resistance against tomato mottle mosaic virus",
+    "abstract": "Salicylic acid (SA) is a crucial regulator of plant growth and immunity. However, the effectiveness of its synthetic analogs against the emerging tomato mottle mosaic virus (ToMMV) has not been extensively studied. This research evaluated the effects of three SA analogs-salicylic acid, 2-acetylsalicylic acid (ASA), and 5-fluorosalicylic acid (FSA)-at various concentrations on the germination, morpho-physiological traits, yield, and antiviral resistance of tomato plants. Among the treatments, FSA at a concentration of 1 mM optimized seed germination, achieving 90%. However, a higher concentration of 2 mM induced phytotoxicity. Foliar application of FSA significantly enhanced growth kinetics, resulting in the highest plant height, branch proliferation, fruit number, and total yield, which strongly correlated with increased chlorophyll content. The accumulation profiles of endogenous SA were specific to each analog: ASA triggered a biphasic response, native SA plateaued at 15 days post-inoculation (dpi), while FSA showed a continuous linear accumulation. Importantly, FSA provided superior protection against ToMMV, reducing disease severity by 41.67 percent up to 28 dpi and viral titers by 88% and 85% at 7 and 15 DPI, respectively. qRT-PCR values were strongly and significantly positively correlated with disease score (r = 0.969, p = 0.037), while plant height was significantly negatively correlated with disease score (ρ = −0.900, p = 0.037) and positively correlated with number of branches (ρ = 0.900, p = 0.037). These findings demonstrate that fluorine substitution significantly enhances the bio-efficacy of the SA framework. Therefore, FSA emerges as a potent, dual-purpose elicitor that can simultaneously increase tomato productivity and reduce yield losses caused by ToMMV.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1932026",
+    "date": "2026-11-17",
+    "authors": "Malkhan Singh Gurjar",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1932026",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5050,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1932026"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5b1b028b556dc3220d6a26980413e7691b0b8474140fb0519450891f21620278",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:02:44.958078+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "636c93a9d1706820b9b1d223d12bc55d61140fcb004da66f8798fdaf8ee5fe2e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:02:44.958078+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トマトの生育促進およびトマトモザイクウイルス抵抗性向上のためのサリチル酸類縁体の比較評価",
+    "abstract_ja": "サリチル酸（SA）は、植物の成長と免疫における極めて重要な調節因子である。しかし、新興のトマトモザイクウイルス（ToMMV）に対する合成類縁体の有効性については、これまで十分に研究されてこなかった。本研究では、3種類のSA類縁体――サリチル酸、2-アセチルサリチル酸（ASA）、および5-フルオロサリチル酸（FSA）――を各種濃度で用いた際の、トマト植物の発芽、形態生理学的形質、収量、および抗ウイルス耐性に及ぼす影響を評価した。処理条件のうち、濃度1 mMのFSAは種子の発芽を最適化し、90%を達成した。しかし、より高濃度の2 mMでは植物毒性が誘発された。FSAの葉面散布は成長動態を有意に促進し、植物体高、枝の増殖、果実数、および総収量が最大となり、これはクロロフィル含有量の増加と強い相関を示した。内因性SAの蓄積プロファイルは各類縁体に固有であった。ASAは二相性反応を引き起こし、天然SAは接種後15日（dpi）でプラトーに達した一方、FSAは連続的な線形蓄積を示した。重要な点として、FSAはToMMVに対して優れた保護効果を示し、28 dpiまで病害重症度を41.67%低減させ、ウイルス力価を7 dpiおよび15 dpiでそれぞれ88%および85%低下させた。qRT-PCR値は病害スコアと強く有意に正の相関を示した（r = 0.969, p = 0.037）一方、植物体高は病害スコアと有意に負の相関（ρ = −0.900, p = 0.037）を示し、枝数とは正の相関（ρ = 0.900, p = 0.037）を示した。これらの知見は、フッ素置換がSA骨格の生物活性を有意に向上させることを実証している。したがって、FSAは、トマトの生産性を向上させると同時に、ToMMVによる収量損失を低減できる強力な二目的エリシターとして有望である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1195",
+    "title": "qPTM 3.0: the AI-enhanced knowledgebase for protein post-translational modification dynamics",
+    "abstract": "AbstractPost-translational modifications (PTMs) are key mechanisms of regulating protein function, yet quantitative PTM data remain fragmented across publications, supplementary datasets, and specialized resources. Here, we present qPTM 3.0, an integrated resource for quantitative PTM dynamics and AI-assisted knowledge discovery. The current release contains 15 652 063 quantitative events on 994 878 modification sites within 49 280 proteins across 3988 conditions, curated from 846 publications and spanning 12 PTM types in human, mouse, rat, and yeast. Raw mass spectrometry (MS) data associated with the curated entries were re using MaxQuant, and each modification site was assigned a five-star reliability score. Detailed annotations of experimental context, protein information, functional regulation, regulators, and inhibitors are also provided. qPTM 3.0 further introduces two AI-assisted modules. The PTM research agent enables natural-language exploration of qPTM 3.0 and complementary resources by synthesizing evidence on PTM regulators, regulatory conditions, and functional consequences. The data collection agent supports database curation through automated literature screening, full-text retrieval, metadata extraction, quantitative table parsing, and raw MS data acquisition within a human-in-the-loop workflow. Together, these features support systematic exploration of quantitative PTM dynamics and evidence-based biological interpretation. The online service is freely available at https://qptm.omicsbio.info/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1195",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1195/9079904?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "knowledgebase",
+        "protein",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5041,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1195"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d6dad6d3d62dca51252c53f27835093c0e60d3ca17af22351bf60cfad6b2ab16",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:02:44.958078+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f6da6d8bbf7672b5aa240af5a1ed244c0100b1957edcc449a1b5eac9fa21951a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:02:44.958078+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "qPTM 3.0: タンパク質翻訳後修飾ダイナミクスのAI強化型ナレッジベース",
+    "abstract_ja": "要旨 翻訳後修飾（PTM）はタンパク質機能を調節する重要な機構であるが、定量的なPTMデータは、論文、補足データセット、および専門リソースの間で断片化したままである。本研究では、定量的PTMダイナミクスとAI支援による知見発見のための統合リソースであるqPTM 3.0を提案する。本リリースには、3,988の条件下、49,280個のタンパク質における994,878箇所の修飾部位に関する15,652,063件の定量イベントが含まれており、これらは846報の論文からキュレーションされ、ヒト、マウス、ラット、および酵母における12種類のPTMタイプを網羅している。キュレーションされたエントリに付随する生の質量分析（MS）データはMaxQuantを用いて再処理され、各修飾部位には5つ星の信頼性スコアが付与された。また、実験背景、タンパク質情報、機能調節、調節因子、および阻害剤に関する詳細なアノテーションも提供されている。qPTM 3.0ではさらに、2つのAI支援モジュールを導入している。PTMリサーチエージェントは、PTM調節因子、調節条件、および機能的帰結に関するエビデンスを統合することで、qPTM 3.0および補完的リソースの自然言語による探索を可能にする。データ収集エージェントは、ヒューマン・イン・ザ・ループ・ワークフローにおいて、自動文献スクリーニング、全文検索、メタデータ抽出、定量テーブル解析、および生のMSデータ取得を通じたデータベースキュレーションを支援する。これらの機能が相まって、定量的PTMダイナミクスの体系的な探索と、エビデンスに基づく生物学的解釈を支援する。本オンラインサービスは、https://qptm.omicsbio.info/ にて無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0361041",
+    "title": "ScaffoldForge: Bioinspired generative design of 3D-printed bone scaffolds via conditional diffusion for large segmental bone defect reconstruction.",
+    "abstract": "We present ScaffoldForge, a 3D conditional diffusion framework for the generative design of bone scaffolds. ScaffoldForge maps a set of standardized trabecular descriptors (bone volume fraction BV/TV, trabecular thickness Tb.Th, trabecular spacing Tb.Sp, trabecular number Tb.N, connectivity density Conn.D, structure model index SMI, degree of anisotropy DA, and permeability k) to a 3D scaffold architecture in a single forward pass. A multi-objective conditioning mechanism couples these descriptors through adaptive instance normalization, and a physics-constrained loss adds empirical penalties for stiffness, manufacturing feasibility, and perfusion, evaluated on the denoiser's reconstruction of the clean scaffold so that the penalties carry gradient. To address the scarcity of paired geometry-property data, we describe a procedural pipeline whose generated scaffolds reproduce the morphometric distributions of real micro-CT references. In an in silico evaluation on three benchmark datasets, ScaffoldForge attains an estimated 56.6 MPa compressive strength (8.2% over topology optimization; paired t-test, p = 0.043, n = 5 seeds) and reduces design-time cost from 8,400-12 seconds per design, a 700× speedup. Generated structures are diverse rather than memorized, and morphometric accuracy holds across all seven shape descriptors. Three analyses probe the reliability of these results given the small training corpus. Equivalence testing replaces the earlier argument from non-significant difference tests: the procedural and real descriptor distributions are equivalent at a medium margin of 0.5 standard deviations for all seven descriptors, but the 50 available real reference volumes cannot establish equivalence at a strict 0.3-standard-deviation margin for five of them. A classifier two-sample test shows that generated scaffolds retain a measurable but shrinking signature of the procedural generator. Enlarging the corpus from 250 to 2,050 scaffolds leaves in-distribution accuracy nearly unchanged while reducing the cross-dataset descriptor error on unseen anatomy from 0.079 to 0.058, which localizes the cost of the small corpus in generalization rather than in fit. We further illustrate a CT-to-scaffold pipeline for personalized generation. All results are computational; physical, biological, manufacturing, and regulatory validation remain future work.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0361041",
+    "date": "2026-10-28",
+    "authors": "Zhang Y, Zhang H, Yang H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949999",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13716220",
+    "pmid": "42949999",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5014,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1371/journal.pone.0361041"
+    ],
+    "translation": {
+      "title": {
+        "hash": "47c8be4eae132f481af814999da183c200f83e61c8bea7f89dedf54b38533a4b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:02:44.958078+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "24664b1f0f8f0682ac28a7149f3558818c23cc27319b65cadccf625ba92f8865",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:02:44.958078+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ScaffoldForge: 大型分節骨欠損再建に向けた条件付き拡散法による生体模倣型3Dプリント骨足場の生成的設計",
+    "abstract_ja": "本研究では、骨スキャフォールドの生成的設計のための3D条件付き拡散フレームワーク「ScaffoldForge」を提案する。ScaffoldForgeは、標準化された一連の海綿骨記述子（骨体積分率 BV/TV、海綿骨厚 Tb.Th、海綿骨間隔 Tb.Sp、海綿骨数 Tb.N、連結密度 Conn.D、構造モデル指数 SMI、異方性度 DA、および透過率 k）を、単一のフォワードパスで3Dスキャフォールドアーキテクチャへと写像する。多目的条件付けメカニズムが適応的インスタンス正規化を通じてこれらの記述子を結合し、物理制約付き損失関数が剛性、製造実現可能性、および灌流に対する経験的ペナルティを加える。これらのペナルティは、デノイザーによるクリーンなスキャフォールドの再構成を用いて評価され、勾配を持つように設計されている。対となる形状・特性データの不足に対処するため、生成されたスキャフォールドが実際のマイクロCTリファレンスの形態計測学的分布を再現するプロシージャル・パイプラインについて述べる。3つのベンチマークデータセットを用いたin silico評価において、ScaffoldForgeは推定56.6 MPaの圧縮強度を達成し（トポロジー最適化比で8.2%向上；対応のあるt検定、p = 0.043, n = 5 シード）、設計時間のコストを1設計あたり8,400秒から12秒へと700倍短縮した。生成された構造は記憶されたものではなく、多様であり、形態計測学的精度は7つの形状記述子すべてにおいて維持された。小規模な学習コーパスを前提として、これらの結果の信頼性を検証する3つの解析を行った。等価性検定により、有意差なしの検定から導き出されていた従来の議論を置き換えた。すなわち、プロシージャル記述子と実データの記述子分布は、7つの記述子すべてにおいて0.5標準偏差という中程度のマージンで等価であるが、利用可能な50個の実リファレンス体積のうち、5つの記述子については厳密な0.3標準偏差のマージンで等価性を確立できなかった。分類器の2標本検定により、生成されたスキャフォールドはプロシージャルジェネレータの測定可能ながらも縮小しつつあるシグネチャを保持していることが示された。コーパスを250個から2,050個のスキャフォールドに拡大しても、分布内精度はほぼ不変であり、一方で未知の解剖学的構造におけるデータセット間の記述子誤差は0.079から0.058へと減少した。これは、小規模コーパスによるコストが適合度ではなく汎化性能に起因することを示している。さらに、個別化生成のためのCT-to-スキャフォールド・パイプラインを例示した。すべての結果は計算によるものであり、物理的、生物学的、製造的、および規制上の検証は今後の課題である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2621208123",
+    "title": "Protein resource allocation across subcellular compartments revealed by large-scale absolute quantitative proteomics in yeast.",
+    "abstract": "Subcellular compartmentalization within complex membrane-bound organelles is a hallmark of eukaryal life, enabling metabolic specialization through spatial segregation. Here, we compiled a dataset encompassing 300 absolute quantitative proteomes, the largest to date, across two yeast species under diverse experimental conditions. Leveraging big data analysis, formula fitting, and machine learning, quantitative correlations among protein abundance, resource allocation, and cellular phenotypes were elucidated at a system level. We found that subcellular resource distribution is highly uneven and covaries with specific growth rate. Specifically, at high specific growth rates, the protein mass fraction (PMF) from certain compartments, (e.g., nucleus) is consistently reduced, coinciding with the increasing protein resource demand from ribosomes. Meanwhile, nutrient limitation may induce resource recycling by upregulating protein resources within specific compartments (e.g., vacuole) to sustain stress adaptation. Importantly, our integrative analysis indicates that PMF from a few subcellular compartments (e.g., nucleus and ribosomes) can accurately predict yeast physiological parameters (e.g., specific growth rate, oxygen uptake rate), and a limited protein set (≥ 23) could be used to capture the variation in resource allocation across seven major subcellular compartments. Furthermore, our comparative analysis between Crabtree-positive and Crabtree-negative species across conditions illustrates that subcellular resource allocation could be shaped by multiple factors and the two species differ markedly in their robustness to environmental perturbations. In summary, the high-quality quantitative proteomic dataset for yeast species offers an unprecedented opportunity for understanding the general principles underlying subcellular resource allocation, laying foundations for precision engineering of cell factories in synthetic biology.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2621208123",
+    "date": "2026-10-27",
+    "authors": "Lu H, Zhang Z, He S, Zhang Y, Wang Y, Tao F, Nielsen J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42945261",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13732038",
+    "pmid": "42945261",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protein",
+        "proteomic",
+        "resource",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "protein",
+          "proteomic",
+          "resource"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5031,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1073/pnas.2621208123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c05dee56284fcae5a50d34cd6429d8e2919dc08467b120fe8eb8840d00bf1680",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:02:44.958078+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cdc616c4bab5332831ad04226068a2c38c9a9fe937b346924ecbce50982bc924",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:02:44.958078+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "酵母における大規模絶対定量プロテオミクスにより明らかになった細胞内区画間のタンパク質資源配分",
+    "abstract_ja": "複雑な膜結合型オルガネラ内における細胞内区画化は、真核生物の生命の顕著な特徴であり、空間的分離を通じて代謝の特化を可能にする。本研究では、多様な実験条件下における2種の酵母について、これまでで最大規模となる300件の絶対定量プロテオームを網羅したデータセットを構築した。ビッグデータ解析、数式フィッティング、および機械学習を活用し、タンパク質量、資源配分、および細胞表現型の間の定量的な相関関係をシステムレベルで解明した。その結果、細胞内資源の分布は極めて不均一であり、特定の増殖速度と共変することが明らかになった。具体的には、特定の増殖速度が高い場合、特定の区画（例：核）からのタンパク質質量分率（PMF）が一貫して低下し、これはリボソームからのタンパク質資源需要の増加と一致する。一方、栄養制限は、ストレス適応を維持するために特定の区画（例：液胞）内のタンパク質資源をアップレギュレートすることで、資源のリサイクルを誘導する可能性がある。重要な点として、我々の統合解析により、少数の細胞内区画（例：核およびリボソーム）からのPMFが酵母の生理学的パラメータ（例：特定増殖速度、酸素取り込み速度）を正確に予測できること、また限定的なタンパク質セット（≥ 23）を用いて7つの主要な細胞内区画における資源配分の変動を捉えられることが示された。さらに、条件間におけるCrabtree陽性種とCrabtree陰性種の比較解析により、細胞内資源配分が複数の要因によって形成され得ること、ならびにこれら2種が環境摂動に対する頑健性において著しく異なることが示された。要約すると、酵母種の高品質な定量プロテオームデータセットは、細胞内資源配分の根底にある一般原理を理解するための前例のない機会を提供し、合成生物学における細胞工場の精密工学の基礎を築くものである。"
   }
 ]
