@@ -1201,6 +1201,13 @@
     ]
   },
   {
+    "name": "BMC medical imaging",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "BMC microbiology",
     "scope": [
       "ecology",
@@ -3730,6 +3737,13 @@
     ]
   },
   {
+    "name": "Information (Basel)",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Injury",
     "scope": [
       "genomics",
@@ -6009,6 +6023,13 @@
     "name": "Mikrochimica acta",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Military medicine",
+    "scope": [
       "genomics",
       "microbiology"
     ]

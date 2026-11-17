@@ -410416,5 +410416,285 @@
     "related_dois": [
       "10.1111/trf.70447"
     ]
+  },
+  {
+    "id": "10.1186/s42523-026-00659-1",
+    "title": "The microbiome of the sea louse Caligus rogercresseyi reveals sex-associated taxa and predicted functional differences",
+    "abstract": "Sea lice (Caligus rogercresseyi) pose a significant challenge to salmon aquaculture in Chile, yet their associated microbiota remains poorly understood. We used full-length 16S rRNA amplicon sequencing and functional prediction analyses to compare the whole-body and intestinal microbiota of adult male and female sea lice. Alpha-diversity analyses showed significantly higher Shannon diversity in females in both whole-body and intestinal samples, whereas Chao1 richness was significantly higher only in female intestinal samples. Whole-body bacterial community composition differed between sexes according to PERMANOVA, whereas the difference between male and female intestinal communities was not statistically significant. Taxonomic analyses nevertheless revealed sex-associated patterns in specific bacterial taxa, with Aliivibrio and Tenacibaculum among the dominant genera in female and male whole-body samples, respectively, while Vibrio dominated the intestinal microbiota of both sexes. Several identified genera include species of recognized importance in salmon aquaculture, although pathogenicity and transmission were not evaluated in this study. Functional prediction further indicated sex-associated differences in bacterial metabolic potential: male-associated microbiota showed a higher predicted representation of anabolic pathways related to amino acid, lipid, and nucleotide biosynthesis, whereas female-associated microbiota showed a higher predicted representation of catabolic and energy-related pathways, including β-oxidation, glycolysis, and amino acid degradation. These results indicate that sex is associated with differences in the diversity, taxonomic composition, and predicted functional potential of the C. rogercresseyi microbiota, highlighting the importance of considering biological sex in future studies of sea louse microbial ecology and host–parasite–microbe interactions.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00659-1",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00659-1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Vibrio",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5002,
+    "collected_at": "2026-11-17T04:40:38.259930+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1186/s42523-026-00659-1"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.15.766819",
+    "title": "A de novo FtsA binder blocks late divisome recruitment, unmasking a hidden constriction mechanism",
+    "abstract": "Bacterial cytokinesis requires assembly of a multiprotein divisome complex, but the molecular event triggering its midcell recruitment and activity remains unclear. Recent work suggests a transition in the oligomeric structure of the conserved actin homolog FtsA may activate the divisome complex in Escherichia coli. Here, we test this model using a de novo designed protein binder, L125, predicted to block longitudinal FtsA oligomerization. L125 localizes to the Z-ring and inhibits cell division by blocking recruitment of late divisome proteins while enhancing recruitment of early division proteins. These findings implicate the FtsA longitudinal oligomerization interface in late divisome recruitment. Unexpectedly, L125-treated cells form broad, shallow constrictions that fail to complete division. These constrictions occur despite loss of detectable late-divisome localization and are consistent with ZipA-dependent preseptal cell-wall synthesis, previously not known to cause constrictions. This alternative constriction pathway may reinforce the future division site before activation of the canonical division machinery.",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766819",
+    "date": "2026-11-16",
+    "authors": "Mannik, J., Mehta, J. J., Parks, J. M., Mannik, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766819v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5003,
+    "collected_at": "2026-11-17T04:40:38.259930+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.15.766819"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.15.766806",
+    "title": "Growth-supporting reductive defluorination by an amino acid-fermenting bacterial isolate",
+    "abstract": "Per- and polyfluoroalkyl substances (PFAS), also known as \"forever chemicals\", are ubiquitous environmental pollutants, highly persistent and toxic to humans and ecosystems. In addition to legacy PFAS, largely alkanoic acids, perfluorinated olefins and their corresponding enoic acids are emerging PFAS of concern. However, reported PFAS biodegradation is typically not growth-supporting, hindering the selection for effective defluorinating bacteria. Here, we report a new amino acid-fermenting bacterial isolate, Sedimentibacter sp. strain ZM-1, that performs high-rate reductive defluorination of a perfluoroenoic acid at physiologically relevant levels (mM). This process substantially enhanced energy conservation and cell growth, with three times higher growth than fermenting L-arginine alone and 50% higher than Stickland fermentation. The reductive defluorination redirected excess reducing equivalents (NADH) away from reducing protons and internal fermentation intermediates, as evidenced by decreased H2 production and downregulation of several NADH-dependent electron-bifurcating oxidoreductases. This defluorinating electron shunting drove arginine fermentation and oxidation of intermediates, such as ornithine and alanine, to form more acetate and CO2, leading to higher substrate-level ATP synthesis per arginine consumed. This process also generated reduced ferredoxin available for cell synthesis or anaerobic respiration, as genes involved in these processes were significantly upregulated. ZM-1 has a unique and effective CLCF-type fluoride exporter that works with the highly efficient defluorinating system to enable fluorotrophic growth. Since amino acid-fermenting anaerobes are common in the environment, such fluorotrophy opens new paths for natural selection of defluorination to drive natural and laboratory evolution of fluorophilic bacteria.",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766806",
+    "date": "2026-11-16",
+    "authors": "Zhao, W., Dong, Q., Zhu, Y., Xu, F., Yuan, F., Jin, B., Lu, R., Bachhu, S., Moon, P., Mei, R., Wackett, L. P., Men, Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766806v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5004,
+    "collected_at": "2026-11-17T04:40:38.259930+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.15.766806"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.16.766974",
+    "title": "DMSP modulates virus-host interactions in the coral environment",
+    "abstract": "Dimethylsulfoniopropionate (DMSP) is a ubiquitous organosulfur metabolite that plays central roles in marine ecosystems. It affects nutrient cycling, climate-relevant biogeochemical and microbial processes, including bacterial and viral infections of algal hosts, but its effect on bacteriophages has not been explored. In corals, DMSP is released under heat stress and attracts opportunistic Vibrio pathogens. Here we show that DMSP reshapes the infection dynamics of a virulent phage infecting the coral pathogen Vibrio mediterranei. DMSP initially decreased the number of infective viral particles through particle aggregation, extended the latent period and reduced burst size. However, prolonged infections ultimately yielded greater phage production, likely through DMSP-induced changes in the Vibrio envelope proteome. Consistent with these laboratory observations, DMSP also enhanced the proliferation of phage infecting V. mediterranei within the mucus of experimentally infected corals. Together, our findings suggest that DMSP released by stressed corals not only attracts bacterial pathogens but also promotes the amplification of their viral predators, revealing that host-derived metabolites can shape phage-pathogen interactions within animal microbiomes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766974",
+    "date": "2026-11-16",
+    "authors": "Rubio-Portillo, E., Sanchez-Martinez, R., Diez-Martinez, A., Lopez, C., Mayol, E., Manrubia, S., Steinke, M., de Pablo, P. J., Santos, F., Anton, J.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766974v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "phage",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5005,
+    "collected_at": "2026-11-17T04:40:38.259930+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.16.766974"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.16.766956",
+    "title": "From coral atolls to coal spoil heaps: two new species and two dark fungal taxa expand the monospecific genus Innospora (Paraglomerales, Glomeromycota)",
+    "abstract": "Morphological and phylogenetic analyses based on partial rDNA sequences supported the description of two new species of Innospora: Innospora atollensis sp. nov. and Innospora fodinalis sp. nov. These species expand the monospecific genus Innospora, which was formerly represented only by I. majewskii. Innospora atollensis was discovered on a coral atoll in French Polynesia, whereas I. fodinalis was recovered from a post-coal-mining spoil heap in Poland. Spores of I. atollensis and I. fodinalis are colorless, small and have a spore wall with three layers as in I. majewskii. Morphologically, the spores of I. fodinalis differ from those of other Innospora species by the presence of granular ornamentation on the first layer of the spore wall, whereas those of I. atollensis differ by having the third layer of the spore wall significantly thicker, and by the presence of a closed septum. Analysis including environmental sequences extended the known distributions of both species to several additional sites, with I. atollensis recorded in the Caribbean and Australia and I. fodinalis across the Eurasian continent. In addition, we detected two eDNA lineages at the level of species that meet the International Standard to Catalogue Dark Fungal Taxa criteria for designation as dark fungal taxa. These are formally described as Innospora austroafricana-ENAS and Innospora palaearctica-ENAS. The former has been recorded exclusively in South Africa, whereas the latter exhibits a broader distribution across the Euro-Mediterranean region.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766956",
+    "date": "2026-11-16",
+    "authors": "Magurno, F., Szczecinska, S., Di Loreto, D., Fatmawati, D., Esmaeilzadeh-Salestani, K., Wong, M., Favoreu, M., Tedersoo, L., Crossay, T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766956v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5006,
+    "collected_at": "2026-11-17T04:40:38.259930+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.16.766956"
+    ]
   }
 ]
