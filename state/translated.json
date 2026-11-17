@@ -294107,5 +294107,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "微生物の水銀循環遺伝子と地球の酸素化史の共進化",
     "abstract_ja": "要旨 微生物が初期地球の酸化還元条件下でどのように共進化したのかを解明することは、初期地球環境に対する生命の適応を理解する上で有用である。水銀（Hg）の生物地球化学的サイクルは、初期地球においてHgが遍在し、その種分化と毒性が酸化還元反応に極めて敏感であることから、この共進化プロセスを解明する手がかりとなる。しかし、地質学的保存状態が悪いため、微生物とHgサイクルの共進化史に関する直接的な証拠は乏しい。本研究では、系統学的整合性解析を適用することでこの限界を克服し、主要な微生物Hgサイクル遺伝子系（Hg解毒merオペロンおよびHgメチル化hgcAB）について、種分化、重複、転移、および喪失を含む主要な進化事象を生命の系統樹に沿って追跡した。その結果、2段階の進化軌跡が明らかになった。hgcABおよびコアmerオペロン（merA、merR、merB）は、大酸化イベント（GOE）に先立つ無酸素の始生代に出現し、激しい火山活動と時期が一致しており、無酸素条件下における無機Hg(II)への初期の微生物適応を示唆している。GOEの終盤からその後にかけて、複数のMerトランスポーターおよびmerオペロンの負の調節因子（MerD）の大幅な拡大が観察された。これは、漸次的に酸化が進む環境下における有機水銀種の多様化に対する微生物の適応応答を反映しており、断続的な火山性Hgフラックスと時間的に関連している。hgcAB含有細菌においてmer遺伝子が系統的に欠如していること、およびそれらが明確に異なる生態的ニッチを占めていることは、地質学的時間スケールにおいて、Hgメチル化とmer介在性解毒の進化軌跡が根本的に分岐していたことを示している。本研究は、初期地球の酸化還元進化に対する微生物の適応と、それによる微生物生物圏の再形成に関するゲノムレベルの知見を提供するものである。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag330",
+    "title": "Distinct microbial response to organic matter from nitrogen-starved and virus-infected phytoplankton",
+    "abstract": "AbstractWhen phytoplankton die they release dissolved organic matter (DOM) that feeds co-occurring heterotrophic bacteria. We show that death due to phage infection and nitrogen starvation result in different changes to the macromolecular composition of Prochlorococcus, a globally abundant marine cyanobacterium, and that the resulting DOM elicits different microbial responses. Viral infection led to increased RNA and DNA content in Prochlorococcus whereas nitrogen starvation led to a lower protein content. DOM released from phage-infected cells induced high bacterial production (BP) in natural microbial communities from the oligotrophic Eastern Mediterranean Sea, whereas DOM from starved cells increased dark carbon fixation (DCF). Through 16S and 18S rRNA and rRNA gene sequencing, metagenomics, meta-transcriptomics, and laboratory experiments we identify Alteromonadaceae and Rhodobacteraceae as heterotrophic taxa responding differently to the two DOM sources. We propose that distinct forms of phytoplankton mortality drive shifts in microbial community metabolism, including differential activity of pathways for heterotrophic carbon fixation, likely through anaplerotic reactions.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag330",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag330/9055596?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18s rrna",
+        "Prochlorococcus",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "phage",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "phytoplankton"
+        ],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5101,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag330"
+    ],
+    "translation": {
+      "title": {
+        "hash": "05bc935b396ccdac3a7226e76cadb03a95ab32f8e519624976252f5cfe7b054f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:41:59.872335+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "14887aebf048874ef14f2b6a973d6978669caf2f10912ca202fb85af4b7dee56",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:41:59.872335+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "窒素欠乏およびウイルス感染植物プランクトンの有機物に対する特異的な微生物応答",
+    "abstract_ja": "要旨 植物プランクトンが死滅すると、共存する従属栄養細菌の餌となる溶存有機物（DOM）が放出される。本研究では、ファージ感染および窒素飢餓による死滅が、世界的に豊富に存在する海洋シアノバクテリアであるProchlorococcusの高分子組成に異なる変化をもたらし、その結果として生じるDOMが異なる微生物応答を誘発することを示す。ウイルス感染はProchlorococcusにおけるRNAおよびDNA含有量の増加をもたらした一方、窒素飢餓はタンパク質含有量の低下をもたらした。ファージ感染細胞から放出されたDOMは、貧栄養性の東地中海の自然微生物群集において高い細菌生産（BP）を誘導したが、飢餓細胞由来のDOMは暗炭素固定（DCF）を増加させた。16Sおよび18S rRNAおよびrRNA遺伝子シーケンシング、メタゲノミクス、メタトランスクリプトミクス、および実験室での解析を通じて、我々はAlteromonadaceaeおよびRhodobacteraceaeを、これら2つのDOM供給源に対して異なる応答を示す従属栄養分類群として同定した。我々は、植物プランクトンの死滅の形態の違いが、おそらくアナプレロティック反応を介して、従属栄養炭素固定経路の活性差を含む微生物群集代謝のシフトを駆動することを提唱する。"
+  },
+  {
+    "id": "10.1093/nar/gkag1202",
+    "title": "A non-nucleotide activator reveals a second allosteric regulatory site in the type III CRISPR ribonuclease Csm6",
+    "abstract": "AbstractType III CRISPR-Cas systems rely on cyclic oligoadenylate (cOA) signaling to activate ancillary nucleases such as Csm6, which serve as core effectors in antiviral immunity. While cOA-mediated Csm6 activation has been widely harnessed for molecular diagnostics, its broader application is constrained by inherent limitations, including poor cellular permeability and susceptibility to degradation by ring nucleases. Here, we conducted a high-throughput fluorescence-based screen and identified DMPCH (7,8-dimethyl-4-phenylchroman-2-one) as a non-nucleotide allosteric activator of Thermus thermophilus (Tt) Csm6. DMPCH selectively stimulates TtCsm6 ribonuclease activity by binding to the higher eukaryotes and prokaryotes nucleotide-binding domain dimerization interface, leading to expansion of the catalytic pocket and remodeling of the R-X4–6-H catalytic motif. Moreover, DMPCH acts synergistically with cA4 to activate TtCsm6, enabling rapid and sensitive RNA detection in a Cas13a–Csm6 system. Cell-based assays confirm that DMPCH activates TtCsm6 ribonuclease activity in live bacteria cells. When combined with DMPCH, an engineered miniCsm6 fused to pyocin S2 (PyS2) exerts potent and specific bactericidal activity against Pseudomonas aeruginosa. Our work establishes a framework for discovering non-nucleotide activators of CRISPR-associated ribonucleases and highlights their potential as chemical tools in cell-based research and as therapeutic agents against bacterial pathogens.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1202",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1202/9079906?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "prokaryote"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5121,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1202"
+    ],
+    "translation": {
+      "title": {
+        "hash": "99527fc5b0da4ee804022e648187836560c835539e0bfdd2f77db36cb732937e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:41:59.872335+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4d6b2ed18817e4fdfa3859a01d81e062bbc837fbe4456244ecbecb5676e39be3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:41:59.872335+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非ヌクレオチド活性化因子がIII型CRISPRリボヌクレアーゼCsm6における第2のアロステリック調節部位を明らかにする",
+    "abstract_ja": "要旨 タイプIII CRISPR-Casシステムは、環状オリゴアデニル酸（cOA）シグナル伝達を介して、抗ウイルス免疫におけるコアエフェクターとして機能するCsm6などの補助的ヌクレアーゼを活性化する。cOAを介したCsm6の活性化は分子診断に広く利用されてきたが、その広範な応用は、細胞透過性の低さや環状ヌクレアーゼによる分解を受けやすいといった固有の制限によって制約を受けている。本研究では、ハイスループットな蛍光ベースのスクリーニングを実施し、DMPCH（7,8-ジメチル-4-フェニルクロマン-2-オン）をThermus thermophilus（Tt）Csm6の非ヌクレオチド性アロステリック活性化因子として同定した。DMPCHは、高等真核生物および原核生物のヌクレオチド結合ドメイン二量体化界面に結合することでTtCsm6リボヌクレアーゼ活性を選択的に刺激し、触媒ポケットの拡張とR-X4–6-H触媒モチーフのリモデリングをもたらす。さらに、DMPCHはcA4と相乗的に作用してTtCsm6を活性化し、Cas13a–Csm6システムにおける迅速かつ高感度なRNA検出を可能にする。細胞ベースのアッセイにより、DMPCHが生菌の細菌細胞においてTtCsm6リボヌクレアーゼ活性を活性化することが確認された。DMPCHと組み合わせた、ピオシンS2（PyS2）を融合させたエンジニアリングミニCsm6は、Pseudomonas aeruginosaに対して強力かつ特異的な殺菌活性を示す。本研究は、CRISPR関連リボヌクレアーゼの非ヌクレオチド性活性化因子を発見するための枠組みを確立し、細胞ベースの研究における化学ツールとして、また細菌病原体に対する治療薬としての可能性を浮き彫りにするものである。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag333",
+    "title": "Core bacterial genomic traits and niche breadth: community-level relationships driven by soil gradients, absent at the taxon level",
+    "abstract": "AbstractSoil pH is a primary environmental filter structuring bacterial communities, yet how core genomic traits relate to bacterial niche breadth across large spatial scales remains unclear. Here, we evaluated whether microbial niche breadth across diverse soils is predicted by core genomic traits (genome size, coding density, and rRNA operon copy number) at individual taxon versus community-weighted mean scales, using a national-scale survey of UK soils (the UKCEH Countryside Survey). Core genomic traits showed minimal predictive power for niche breadth at the individual amplicon sequence variant (ASV) level, indicating that these traits alone do not distinguish generalist from specialist taxa. However, when aggregated to community-weighted means (CWMs), genomic traits covaried with CWM niche breadth; null models showed that much of this covariation arises from compositional turnover along the pH gradient. Along the pH gradient, acidic soils (pH  7.5) exhibited the lowest CWM niche breadth, small CWM genome sizes, high CWM coding densities, and low CWM rRNA copy numbers. Our findings indicate that community-level trait-niche breadth patterns largely reflect pH-driven turnover of lineages with contrasting genomes, rather than an intrinsic link between genome architecture and niche breadth, and that aggregated trait-based metrics effectively capture macro-ecological shifts in community structure across the soil pH gradient.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag333",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag333/9049902?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5102,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag333"
+    ],
+    "translation": {
+      "title": {
+        "hash": "de7f5e08894fd09140bc115158cab278ae027e34f983ed2e62c82e82ec9824cd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:41:59.872335+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "93dc1aee4a4165dd9973de6c13e7dd294c70368db74cdad00d8641adf2494eae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:41:59.872335+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌の中核的なゲノム形質とニッチの広さ：分類群レベルでは見られない、土壌勾配が駆動する群集レベルの関係性",
+    "abstract_ja": "要旨土壌pHは細菌群集を構造化する主要な環境フィルターであるが、広範な空間スケールにおいて、中核的なゲノム形質が細菌のニッチ幅とどのように関連しているかは依然として不明である。本研究では、英国の土壌を対象とした全国規模の調査（UKCEH Countryside Survey）を用い、多様な土壌における微生物のニッチ幅が、個体分類群レベルおよび群集加重平均レベルの双方において、中核的なゲノム形質（ゲノムサイズ、コーディング密度、およびrRNAオペロンコピー数）によって予測されるかを評価した。中核的なゲノム形質は、個々のアンプリコン配列変異体（ASV）レベルではニッチ幅に対する予測能が極めて低く、これらの形質単独ではジェネラリスト分類群とスペシャリスト分類群を区別できないことが示された。しかし、群集加重平均（CWM）に集約すると、ゲノム形質はCWMニッチ幅と共変し、帰無モデルの結果から、この共変の多くはpH勾配に沿った組成の入れ替わりに起因することが示された。pH勾配に沿って、酸性土壌（pH 7.5）では、CWMニッチ幅が最も低く、CWMゲノムサイズが小さく、CWMコーディング密度が高く、CWM rRNAコピー数が低かった。本研究の知見は、群集レベルの形質－ニッチ幅パターンが、ゲノム構造とニッチ幅の本質的な関連性というよりも、むしろ対照的なゲノムを持つ系統のpH駆動型の入れ替わりを概ね反映していること、および、集約された形質ベースの指標が、土壌pH勾配にわたる群集構造のマクロ生態学的な変化を効果的に捉えていることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1046",
+    "title": "ProPepBA: a binding affinity database for canonical and chemically modified protein-peptide interactions.",
+    "abstract": "Protein-peptide interactions play a crucial role in various biological processes, including cell signaling, immune responses, and host defense. The strength of these interactions is quantified by binding affinity, which is essential for understanding peptide recognition, uncovering biological mechanisms, and facilitating the design of peptide-based drugs. Although thousands of experimentally determined protein-peptide binding affinities are available, the information is scattered throughout the literature, making it difficult to use for systematic analysis and computational modeling. Moreover, existing databases for protein-peptide binding affinities have limitations, such as small data size, lack of experimental conditions, and mutation information. To bridge this gap, we developed ProPepBA, a comprehensive database of experimentally determined protein-peptide binding affinities that has been meticulously curated. The current version includes 3962 binding affinity data for canonical peptides sourced from approximately 500 research articles/patents, along with 608 records for chemically modified peptides, including phosphorylation, acetylation, methylation, and terminal modifications. Each entry is provided with information on protein and peptide, thermodynamic parameters, experimental conditions, and literature references. Additionally, the entries are cross-linked to databases such as UniProt, PDB, AlphaFoldDB, and PubMed. ProPepBA offers a user-friendly web interface with advanced search options, enabling efficient data retrieval. By integrating experimental binding affinity data with sequence, structural, and thermodynamic information, ProPepBA serves as a valuable resource for exploring sequence-structure-affinity relationships, development of computational tools, and discovering high affinity peptide binders to facilitate peptide-based drug design. The database is freely accessible at https://web.iitm.ac.in/bioinfo3/ProPepBA.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1046",
+    "date": "2026-10-24",
+    "authors": "Venkatachalam S, Gromiha MM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42952447",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42952447",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "database",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5053,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1046"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1385c60e5bde5c01f13e70f319e73fc5ecec771cde29d6a6affbb139a316bec7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:41:59.872335+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2614834ebc3bdf4313be55a59d3022f0d6522ca16620af51e6095dc92343addc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:41:59.872335+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ProPepBA：正準および化学修飾されたタンパク質-ペプチド相互作用の結合親和性データベース。",
+    "abstract_ja": "タンパク質-ペプチド相互作用は、細胞シグナル伝達、免疫応答、宿主防御など、さまざまな生物学的プロセスにおいて極めて重要な役割を果たしている。これらの相互作用の強さは結合親和性によって定量化され、ペプチド認識の理解、生物学的メカニズムの解明、およびペプチド医薬の設計促進に不可欠である。実験的に決定されたタンパク質-ペプチド結合親和性のデータは数千件に及ぶものの、その情報は文献全体に散在しており、体系的な解析や計算モデリングへの活用が困難である。さらに、既存のタンパク質-ペプチド結合親和性データベースには、データ量の少なさ、実験条件の欠如、変異情報の不足といった限界がある。このギャップを埋めるため、我々は、細心の注意を払ってキュレーションされた、実験的に決定されたタンパク質-ペプチド結合親和性の包括的なデータベースであるProPepBAを開発した。現行バージョンには、約500件の研究論文および特許から収集した正準ペプチドの結合親和性データ3,962件に加え、リン酸化、アセチル化、メチル化、末端修飾を含む化学修飾ペプチドのレコード608件が含まれている。各エントリには、タンパク質およびペプチドの情報、熱力学的パラメータ、実験条件、および文献参照が提供されている。さらに、各エントリはUniProt、PDB、AlphaFoldDB、PubMedなどのデータベースと相互にリンクされている。ProPepBAは、高度な検索オプションを備えたユーザーフレンドリーなウェブインターフェースを提供し、効率的なデータ検索を可能にする。実験的な結合親和性データに配列、構造、および熱力学的情報を統合することで、ProPepBAは、配列-構造-親和性関係の探索、計算ツールの開発、およびペプチド医薬設計を促進する高親和性ペプチドバインダーの発見のための貴重なリソースとなる。本データベースは、https://web.iitm.ac.in/bioinfo3/ProPepBA にて無料で利用可能である。"
   }
 ]
