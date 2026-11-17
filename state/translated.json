@@ -295298,5 +295298,311 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "カンボジアの豚屠畜場における大気および環境サンプリングによるメタゲノムウイルスサーベイランスの拡充",
     "abstract_ja": "豚におけるウイルスサーベイランスは、主に無作為に選定された個体からのサンプリングに依存しており、検出範囲が制限されることが多い。代替戦略として環境サンプリングが登場し、人獣界面におけるより迅速かつ安全で費用対効果の高い病原体モニタリングが可能となった。カンボジアの屠畜場2か所への計9回の訪問において、空気試料（n = 25）、糞便（n = 156）、廃水（n = 15）、枝肉洗浄水（n = 18）、待機ペンスワブ（n = 124）、屠畜箱スワブ（n = 73）、およびロープ（n = 16）にメタゲノムシーケンシングを適用し、ウイルス組成を豚の鼻先スワブ（n = 193）と比較した。環境サンプリングを併用した結果、鼻先スワブで検出されたウイルス分類群の96.6%が回収され、すべての訪問において90.9%を超えた。環境中では、鼻先スワブには含まれない豚関連の分類群や、鳥類およびヒト宿主に関連するウイルスRNAなど、より広範なウイルス多様性が一貫して捕捉された。空気試料は、単一の環境試料タイプの中で最も広範なカバー範囲を示し、他のどの環境試料からも回収されなかった独立したウイルス検出例を最も多くもたらした。屠畜箱スワブで回収された分類群は最も少なく、豚由来物質による目に見える汚染が、より高いウイルス回収率と相関しないことが示された。総じて、本研究は空気があらゆるサーベイランスプログラムの極めて重要な中核要素であることを明らかにした。しかし、空気試料を他の環境試料タイプと組み合わせることで、最も広範なウイルスカバー範囲を確保でき、豚屠畜場における最適なサーベイランス戦略となる。"
+  },
+  {
+    "id": "10.64898/2026.11.14.766640",
+    "title": "Genome architecture and duplication-associated functional diversification in the carnivorous plant Sarracenia purpurea",
+    "abstract": "The repeated evolution of complex traits raises the question of how genomes generate ecological novelty while preserving developmental organization. We present a chromosome-scale genome assembly and annotation for the carnivorous purple pitcher plant, Sarracenia purpurea, and investigate how two contrasting modes of gene duplication have shaped its genome and functional repertoire: ancient polyploidy, which leaves duplicated genes in conserved chromosomal regions (syntenic duplicates), and local tandem duplication, which generates neighboring gene copies. We compare these duplication classes across nine angiosperms. The genome shows a mosaic of conserved and fractionated duplicated regions reflecting differential retention and loss of genes following ancient polyploidy and later restructuring. Comparison with noncarnivorous Actinidia (kiwifruit) identifies 18 syntenic and nine tandem Gene Ontology (GO) Biological Process term-duplication-class combinations enriched in Sarracenia but not significantly enriched in Actinidia. Syntenic enrichments include meristem maintenance, organ-boundary specification, cuticle development, and hormonal regulation; tandem enrichments include defense responses, oxidative stress, jasmonic-acid biosynthesis, leaf senescence, and oligopeptide transport. Across the carnivorous genera Sarracenia, Nepenthes, Utricularia, and Pinguicula, we identify 19 syntenic and two tandem-associated biological processes showing significant enrichment in all four lineages, revealing striking functional commonalities across multiple evolutionary origins of carnivory despite their divergent trap morphologies and ecological strategies. Among Sarracenia genes differentially expressed in at least one comparison of flower, pitcher-leaf, and root tissues, tandem-class genes exhibit larger maximum absolute expression differences and greater GO richness and effective breadth at matched numbers of annotated homologs. These results highlight the complementary evolutionary contributions of ancient genome duplication and local gene-family expansion to the developmental and ecological diversification of carnivorous plants.",
+    "journal": "",
+    "doi": "10.64898/2026.11.14.766640",
+    "date": "2026-11-17",
+    "authors": "Albert, V. A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.14.766640v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "assembly",
+        "gene",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5117,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.14.766640"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c9a406a85113783ddc0b17099e9dcaf60e4889819fd4c91a75601723a9c8b3a9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:52:11.211200+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c9acf4eeb2ba057e05755305de75464c375135578c1ed7b82f7776d9590f0997",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:52:11.211200+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食虫植物サラセニア・プルプレアにおけるゲノム構造と重複に伴う機能多様化",
+    "abstract_ja": "複雑な形質の反復的な進化は、ゲノムが発生上の組織化を維持しつつ、いかにして生態学的な新規性を生み出すのかという問いを提起する。本研究では、食虫性のムラサキウツボカズラ（Sarracenia purpurea）の染色体スケールのゲノムアセンブリおよびアノテーションを行い、対照的な2つの遺伝子重複様式が、そのゲノムと機能的レパートリーをどのように形作ってきたかを調査した。一つは、保存された染色体領域に重複遺伝子を残す古代多倍体（シンテニック重複）であり、もう一つは、隣接する遺伝子コピーを生成する局所的なタンデム重複である。我々は、9種の被子植物においてこれらの重複クラスを比較した。ゲノムには、古代多倍体およびその後の再構成に伴う遺伝子の保持と喪失の差異を反映し、保存領域と分画された重複領域がモザイク状に分布していた。非食虫性のアクチニディア属（キウイフルーツ）との比較により、18組のシンテニックな、および9組のタンデムなGene Ontology (GO) 生物学的プロセス用語－重複クラスの組み合わせが同定され、これらはSarraceniaにおいて濃縮されているが、Actinidiaでは有意な濃縮は見られなかった。シンテニックな濃縮には、分裂組織の維持、器官境界の規定、クチクラの発達、およびホルモン調節が含まれ、タンデムな濃縮には、防御応答、酸化ストレス、ジャスモン酸生合成、葉の老化、およびオリゴペプチド輸送が含まれる。食虫性のSarracenia属、Nepenthes属、Utricularia属、およびPinguicula属において、我々は19組のシンテニックな、および2組のタンデム関連の生物学的プロセスを同定し、これらが4つの系統すべてにおいて有意な濃縮を示した。これは、トラップ形態や生態学的戦略が異なるにもかかわらず、食虫性の複数の進化的起源にわたる顕著な機能的共通性を明らかにしている。花、ウツボカズラ葉、および根組織の少なくとも1つの比較において発現差が認められたSarracenia属の遺伝子のうち、タンデムクラスの遺伝子は、対応するアノテーション済みホモログ数において、より大きな最大絶対発現差、より高いGO濃縮度、および実効的幅を示した。これらの結果は、食虫植物の発生的および生態学的な多様化に対する、古代のゲノム重複と局所的な遺伝子ファミリー拡大という相補的な進化的寄与を浮き彫りにしている。"
+  },
+  {
+    "id": "10.64898/2026.11.15.766357",
+    "title": "Efficient genome graphs indexing, querying and visualization with gfaidx and gfaidx-viz",
+    "abstract": "Genome graphs enable the analysis of genetic variation across many genomes, but exploring individual regions remains computationally demanding. We present gfaidx, a general-purpose indexer giving fast, low-memory access to pangenome, assembly, and de Bruijn graphs in GFA format. It retrieves gene-sized subgraphs and their haplotypes over 100-fold faster than existing tools such as ODGI and vg, and can index human pangenome-scale graphs on a personal computer. The accompanying gfaidx-viz interactively visualizes pre-indexed human pangenomes. Both are freely available at https://github.com/fawaz-dabbaghieh/gfaidx and https://github.com/fawaz-dabbaghieh/gfaidx-viz",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766357",
+    "date": "2026-11-17",
+    "authors": "Dabbaghie, F., Steinegger, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766357v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "gene",
+        "genome",
+        "pangenome",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "pangenom",
+          "pangenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5118,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.15.766357"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d85a8b010d33ed3361fc9fa806d33eee2df496575c114994867c7ea8dc8bee29",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:52:11.211200+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a26f73018f6c6cd6ff63b963bcb8aa464e88e6605184cb18a5e4de240c01715c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:52:11.211200+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "gfaidxおよびgfaidx-vizを用いた効率的なゲノムグラフのインデックス作成、クエリ、および可視化",
+    "abstract_ja": "ゲノムグラフを用いることで、多くのゲノムにわたる遺伝的変異の解析が可能となるが、個々の領域の探索には依然として多大な計算コストを要する。本稿では、GFA形式のパンゲノム、アセンブリ、およびde Bruijnグラフへ高速かつ低メモリでアクセスできる汎用インデクサrfaidxを提案する。本ツールは、ODGIやvgといった既存ツールよりも100倍高速に遺伝子サイズのサブグラフとそのハプロタイプを取得でき、パーソナルコンピュータ上でヒトパンゲノム規模のグラフをインデックス化できる。付随するgfaidx-vizは、事前インデックス化されたヒトパンゲノムをインタラクティブに可視化する。いずれも https://github.com/fawaz-dabbaghieh/gfaidx および https://github.com/fawaz-dabbaghieh/gfaidx-viz で無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2456.v1",
+    "title": "nannyrust: Rust Library for Dataset-Drift Detection and Label-Free Performance Estimation in Bioinformatics Machine-Learning Workflows",
+    "abstract": "Machine-learning models used in bioinformatics are exposed to covariate shift from new sequencing platforms, batches and cohorts, while ground-truth labels arrive late or never. We present nannyrust, a pure-Rust library with no third-party dependencies that implements univariate drift statistics (Kolmogorov–Smirnov, Wasserstein, Jensen–Shannon, Hellinger, chi-squared, L-infinity), classification metrics with ROC AUC, and confidence-based performance estimation (CBPE), so that monitoring can run inside compiled pipelines. Against SciPy and scikit-learn the core statistics agree to within 5 × 10⁻¹³ on 700 test datasets.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2456.v1",
+    "date": "2026-10-26",
+    "authors": "Sablok G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350768",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bioinformatics",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "bioinformatics",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5041,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.20944/preprints202610.2456.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "21e10ee8f4c5665697e5a43c1755e8578ea66218c08e76253881a85301bf9b75",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:52:11.211200+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "beeebf34ff65e28ac546cfab91eb68c22c967ebcd9e20401e6f465334c78bdd2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:52:11.211200+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "nannyrust: バイオインフォマティクスの機械学習ワークフローにおけるデータセットドリフト検出およびラベルフリー性能推定のためのRustライブラリ",
+    "abstract_ja": "バイオインフォマティクスで用いられる機械学習モデルは、新たなシーケンシングプラットフォーム、バッチ、コホートによる共変量シフトの影響を受けやすく、一方でグラウンドトゥルースラベルの提供は遅れるか、あるいは全く行われないことがある。本稿では、サードパーティ依存関係を一切持たない純粋なRustライブラリ「nannyrust」を提案する。本ライブラリは、単変数ドリフト統計量（Kolmogorov–Smirnov, Wasserstein, Jensen–Shannon, Hellinger, chi-squared, L-infinity）、ROC AUCによる分類指標、および信頼度ベースの性能推定（CBPE）を実装しており、コンパイル済みパイプライン内でモニタリングを実行することが可能である。SciPyおよびscikit-learnと比較して、700件のテストデータセットにおいて、主要な統計量は5 × 10⁻¹³以内の一致率を示した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.26366245",
+    "title": "Simulating Psychotherapeutic Sessions with Generative Artificial Intelligence: A Proof-of-Concept Study of  In Silico  Psychotherapy Research",
+    "abstract": "Background  Across biomedicine,  in silico models increasingly complement  in vivo and  in vitro research. Psychotherapy science, however, remains constrained by methodological limitations, resource-intensive trials, challenges in manipulating clinically meaningful features experimentally, and a potential ceiling in efficacy. Leveraging generative AI and large language models (LLMs), we propose a framework for “  in silico psychotherapy research”: controlled simulations of psychotherapeutic interactions under reproducible experimental conditions.  Objective  We test whether such simulation experiments can recover a theoretically expected effect of an isolated psychotherapy-process manipulation. Methods  In a preregistered proof-of-concept study, we generated 512 fully automated motivational interviewing (MI) sessions by linking locally deployed Llama-3.3-70B-In-struct based therapist and patient models across eight vignettes and eight therapist personas. Therapist, but not patient, prompts manipulated common therapeutic factors (CTF), contrasting high versus low empathy, affirmation, and alliance building behaviour in a controlled design. The primary outcome was MI treatment integrity (MITI 4.2 global ratings), assessed by a blinded LLM with repeated ratings and analysed using linear mixed-effects models. Secondary outcomes included observer-inferred importance/confidence rulers based on simulated patient utterances; Therapist Empathy Scale (TES) and Working Alliance Inventory–Short Observer (WAI-S-O) served as manipulation fidelity checks. Human coders rated a stratified subsample. Results  Of the 512 simulations, 506 (98.8%) yielded complete transcripts and 480 (93.75) were retained for analysis. Manipulation checks confirmed the fidelity of the CTF manipulation (WAI-S-O total scores β=3.14; [2.65,3.63], pConclusions  LLM-based psychotherapy simulations were technically feasible, demonstrated experimental fidelity, and showed theoretically concordant effects beyond directly manipulated constructs and simulation participants. These findings provide proof of concept for  in silico psychotherapy research as a promising complementary pre-clinical experimental paradigm for hypothesis generation and testing to support accelerated intervention development. The applicability of this approach across patient populations, therapeutic modalities and model architectures requires further evaluation.  Trial Pre-registration  ClinicalTrials.gov NCT06813066 ;  https://clinicaltrials.gov/study/NCT06813066?term=NCT06813066",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.26366245",
+    "date": "2026-10-26",
+    "authors": "Horváth K, Longani S, Brill S, Ballantyne HA, Schaefert R, Tegethoff M, Schirmer L, Börner E, Timm IJ, Elyoseph Z, Meinlschmidt G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350382",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "simulation"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5045,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.22.26366245"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ec991213079b9bfd7f7b77b9065226b76bad89dea30b5b771e7299f25ddcc56d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:52:11.211200+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6c785c61e0109d9bc384a1fb4fcbfe78e3b8840ee171035ed39796c8e428e075",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:52:11.211200+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生成AIによる心理療法セッションのシミュレーション：イン・シリコ心理療法研究の概念実証研究",
+    "abstract_ja": "背景  生物医学分野において、in silicoモデルはin vivoおよびin vitro研究を補完する役割をますます担っている。しかし、心理療法科学は、方法論的な制約、リソースを要する試験、臨床的に意義のある特徴を実験的に操作することの困難さ、および有効性の潜在的な上限といった課題に依然として直面している。生成AIおよび大規模言語モデル（LLM）を活用し、我々は「in silico心理療法研究」のフレームワーク、すなわち再現可能な実験条件下での心理療法的相互作用の制御されたシミュレーションを提案する。目的  このようなシミュレーション実験が、単独の心理療法プロセス操作によって理論的に予想される効果を再現できるかを検証する。方法  事前登録済みの概念実証研究において、ローカルにデプロイされたLlama-3.3-70B-In-structベースのセラピストおよび患者モデルを、8つのビネットと8つのセラピストペルソナにわたって連携させることで、512セッションの完全自動化された動機づけ面接（MI）セッションを生成した。患者ではなくセラピストのプロンプトを用いて共通の治療因子（CTF）を操作し、制御された設計の下で、共感、肯定的な評価、および同盟構築行動の高低を対比させた。主要評価項目はMI治療の整合性（MITI 4.2 グローバル評価）とし、盲検化されたLLMによる反復評価を行い、線形混合効果モデルを用いて分析した。副次評価項目には、シミュレーションされた患者の発話に基づく観察者推論による重要度／自信尺度が含まれた。また、セラピスト共感尺度（TES）およびWorking Alliance Inventory–Short Observer（WAI-S-O）を操作忠実度の検証に用いた。人間のコーダーが層化サブサンプルを評価した。結果  512回のシミュレーションのうち、506回（98.8%）で完全なトランスクリプトが得られ、480回（93.75%）が分析対象として保持された。操作検証により、CTF操作の忠実度が確認された（WAI-S-O合計スコア β=3.14; [2.65,3.63], p）。結論  LLMベースの心理療法シミュレーションは技術的に実現可能であり、実験的な忠実度を実証するとともに、直接的に操作された構成概念やシミュレーション参加者を超えた、理論的に整合した効果を示した。これらの知見は、仮説の生成と検証を支援し、介入開発の加速を可能にする有望な補完的前臨床実験パラダイムとしてのin silico心理療法研究の概念実証を提供するものである。患者集団、治療モダリティ、およびモデルアーキテクチャにおける本アプローチの適用可能性については、さらなる評価が必要である。  試験事前登録  ClinicalTrials.gov NCT06813066 ;  https://clinicaltrials.gov/study/NCT06813066?term=NCT06813066"
   }
 ]
