@@ -418126,5 +418126,1912 @@
     "related_dois": [
       "10.64898/2026.10.19.760176"
     ]
+  },
+  {
+    "id": "10.1093/ismejo/wrag289",
+    "title": "Co-evolution of microbial mercury cycling genes and Earth’s oxygenation history",
+    "abstract": "AbstractDeciphering how microbes co-evolved with early Earth’s redox conditions helps us understand life’s adaptation to early Earth environments. The mercury (Hg) biogeochemical cycle offers a window into this co-evolutionary process, as Hg was ubiquitous on early Earth and its speciation and toxicity are highly redox-sensitive. However, direct evidence for the co-evolutionary history of microbes and the Hg cycle is scarce due to poor geological preservation. Here, we bypassed this limitation by applying phylogenetic reconciliation to track key evolutionary events across the tree of life for the principal microbial Hg cycling gene systems (the Hg-detoxification mer operon and Hg-methylating hgcAB), including speciation, duplications, transfers, and losses. Our results revealed a two-stage evolutionary trajectory. The hgcAB and core mer operon (merA, merR, and merB) emerged in the anoxic Archean, predating the Great Oxidation Event (GOE) and coinciding with intense volcanism, suggesting early microbial adaptation to inorganic Hg(II) under anoxic conditions. Towards the end of and after the GOE, we observed a major expansion of multiple Mer transporters and the negative regulator of the mer operon (MerD), reflecting a microbial adaptive response to the diversification of organomercury species in a progressively oxidizing environment, temporally associated with intermittent volcanic Hg fluxes. The systematic absence of mer genes in hgcAB-containing bacteria, coupled with their distinct ecological niches, points to fundamentally divergent evolutionary trajectories for Hg methylation and mer-mediated detoxification over geological time. This work provides genomic insights into microbial adaptation to early Earth redox evolution and its reshaping of the microbial biosphere.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag289",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag289/9080700?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5095,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismejo/wrag289"
+    ]
+  },
+  {
+    "id": "10.1093/ismeco/ycag338",
+    "title": "Potential cost and combinatorial effects of commensal gut microbes on survival of individual honey bees",
+    "abstract": "AbstractGut microbiota can provide substantial benefits to their hosts, but maintaining microbial communities may also impose physiological costs. How these costs and benefits emerge from interactions among microbial species remains poorly understood. Using a gnotobiotic honey bee system, we here systematically examined the effects of all 32 possible combinations of the five core gut bacterial species on host survival. Across all treatments, colonization by core microbiota generally reduced host lifespan relative to microbiota-depleted controls under controlled laboratory conditions, revealing that microbial colonization imposes a previously underappreciated baseline cost on the host. This negative effect was observed even in simple communities and became more pronounced with increasing community complexity. Accelerated failure time models showed that both individual species and higher-order interactions significantly influenced lifespan. Notably, interaction terms followed an alternating pattern: two- and four-species combinations exhibited positive effects, whereas three- and five-species combinations had negative effects. This qualitative trend was independently recapitulated in an external dataset from fruit flies, suggesting generality across host-microbe systems. Mathematical modeling suggested that competitive interactions among microbes generate the alternating odd-even pattern by reducing species abundances: density-dependent weakening of individual negative effects produces positive pairwise effects. Together, our results demonstrate that the effects of commensal gut bacteria on host survival depend strongly on microbial community context and highlight microbial competition as a potential mechanism underlying higher-order effects in host–microbiome systems.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag338",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag338/9080701?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5096,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag338"
+    ]
+  },
+  {
+    "id": "10.1093/ismeco/ycag335",
+    "title": "Identifying determinants of bacterial growth in fungal-decayed wood using a genetically tractable bacterium",
+    "abstract": "AbstractBrown rot wood-degrading fungi release carbon (C) from deadwood but leave behind a large fraction of C sequestered in lignin residues or as fungal metabolites. The strength of sequestration remains unclear, but proteobacteria-dominated bacterial communities have been implicated in metabolizing C from decay residues, possibly erasing the C sequestration potential assumed for brown rot. Here, we paired a model brown rot fungus (Rhodonia placenta) with a model Alphaproteobacterium (Rhodopseudomonas palustris) to track bacterial utilization of C derived from decaying wood. We found fungal decay products generated by R. placenta could be used by R. palustris for growth, and later decay stages contained more usable substrates than early stages. A range of aromatic and non-aromatic compounds were detected in fungal-decayed wood, but after 95 days of bacterial growth, R. palustris preferentially consumed non-aromatic acids over aromatic lignin monomers. Genes involved with aromatic compound degradation were unimportant for bacterial growth and largely repressed on decayed wood extract. Randomly barcoded transposon sequencing failed to identify a solitary catabolic pathway used by R. palustris, suggestive of substrate co-utilization and showed that genes involved with copper toxicity were essential. Finally, genes involved with biosynthesis of certain cofactors and amino acids were no longer essential on decayed wood extract, suggesting these nutrients were accessible. These findings suggest that bacteria colonizing brown-rotted wood may preferentially metabolize organic acids, leaving some lignin-derived C intact. More broadly, these findings lay a foundation for understanding fungal-bacterial interactions that may alter the fate for carbon released from wood by fungi.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag335",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag335/9055700?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5097,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag335"
+    ]
+  },
+  {
+    "id": "10.1093/ismeco/ycag334",
+    "title": "The microbial footprint of Arctic tourism: An emerging research priority",
+    "abstract": "Microbial introductionMicrobial coalescenceMicrobial communitiesNon-native speciesArctic tourismGovernanceSustainable tourismEnvironmental Safety",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag334",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag334/9055623?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5098,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag334"
+    ]
+  },
+  {
+    "id": "10.1093/ismeco/ycag337",
+    "title": "A scalable genomic framework for programmable strain tagging in a diverse bacterial genus",
+    "abstract": "AbstractInserting DNA into bacterial genomes is important to introduce or alter function for research and biotechnological applications. Transposons are widely used for this purpose, but commonly used systems such as Tn7, Tn5, and Mariner do not hit custom targets. CRISPR-associated transposons (CASTs) can direct the insertion of a transposon to chosen sites with short guide sequences, but their application outside of E. coli is still limited. We adapted CAST technology for use in the widespread plant-associated genus Sphingomonas, uniquely barcoding genetically diverse strains in two or more different sites, and we demonstrate the utility of the tags for quantitative strain tracking along with background microbiota in complex host-associated bacterial populations. During this work, comparative genomics revealed the canonical Tn7 insertion site frequently disrupts genes – and not only in Sphingomonas – suggesting Tn7 insertions may be more problematic than widely appreciated. Therefore, we identified improved loci downstream of genus-wide conserved sites, such as rpoZ in Sphingomonas and pyrD in Pseudomonas, as neutral alternatives. We experimentally validated the rpoZ locus in Sphingomonas and then targeted it in a heterogeneous uncharacterized Sphingomonas population. To support scalable screening, we introduce tagTIMseq, a rapid transposon mapping method that can identify on- and off-target insertions directly from single colonies. Together, these advances accelerate the creation of fully tagged synthetic communities for the high-throughput study of fine-scale bacterial natural variation.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag337",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag337/9055622?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "framework",
+        "genomic",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5099,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag337"
+    ]
+  },
+  {
+    "id": "10.1093/ismeco/ycag332",
+    "title": "Stronger belowground micro-food web linkages to nitrogen cycling in agriculturally reclaimed coastal saline ecosystems",
+    "abstract": "AbstractCoastal saline soils support agricultural production and ecosystem services, but their conversion to agriculture is associated with changes in soil conditions and biota. How belowground food-web organization relates to nitrogen (N) cycling across these land-use systems remains poorly understood. We combined a global synthesis with a field investigation of natural and reclaimed coastal saline soils to examine associations among land use, saline–alkaline conditions, microbial nutrient limitation, soil micro-food web organization and N transformation. In the global synthesis, N mineralization rates and nitrification potential in reclaimed soils were 16.5 and 10.0 times those in natural saline soils, respectively. In the field, reclaimed soils had lower salinity and alkalinity, accompanied by reduced microbial carbon and N limitation and pronounced shifts in multitrophic communities and N-cycling functional potential. Reclaimed soils exhibited greater potential for oxidative N transformations, more complex inferred trophic organization and stronger linkages between consumers and N-cycling functions, whereas natural saline soils showed simpler potential trophic organization and greater relative abundances of reductive N pathways. Piecewise structural equation modelling identified positive direct associations of the micro-food-web composite with both N transformation processes and indirect associations linking lower saline–alkaline stress to higher N transformation rates. Collectively, these findings link differences in N transformation to saline–alkaline stress and inferred multitrophic organization across long-established land-use systems, highlighting the value of considering multitrophic organization when interpreting nitrogen cycling in salt-affected ecosystems.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag332",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag332/9055621?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5100,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag332"
+    ]
+  },
+  {
+    "id": "10.1093/ismeco/ycag330",
+    "title": "Distinct microbial response to organic matter from nitrogen-starved and virus-infected phytoplankton",
+    "abstract": "AbstractWhen phytoplankton die they release dissolved organic matter (DOM) that feeds co-occurring heterotrophic bacteria. We show that death due to phage infection and nitrogen starvation result in different changes to the macromolecular composition of Prochlorococcus, a globally abundant marine cyanobacterium, and that the resulting DOM elicits different microbial responses. Viral infection led to increased RNA and DNA content in Prochlorococcus whereas nitrogen starvation led to a lower protein content. DOM released from phage-infected cells induced high bacterial production (BP) in natural microbial communities from the oligotrophic Eastern Mediterranean Sea, whereas DOM from starved cells increased dark carbon fixation (DCF). Through 16S and 18S rRNA and rRNA gene sequencing, metagenomics, meta-transcriptomics, and laboratory experiments we identify Alteromonadaceae and Rhodobacteraceae as heterotrophic taxa responding differently to the two DOM sources. We propose that distinct forms of phytoplankton mortality drive shifts in microbial community metabolism, including differential activity of pathways for heterotrophic carbon fixation, likely through anaplerotic reactions.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag330",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag330/9055596?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18s rrna",
+        "Prochlorococcus",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "phage",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "phytoplankton"
+        ],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5101,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag330"
+    ]
+  },
+  {
+    "id": "10.1093/ismeco/ycag333",
+    "title": "Core bacterial genomic traits and niche breadth: community-level relationships driven by soil gradients, absent at the taxon level",
+    "abstract": "AbstractSoil pH is a primary environmental filter structuring bacterial communities, yet how core genomic traits relate to bacterial niche breadth across large spatial scales remains unclear. Here, we evaluated whether microbial niche breadth across diverse soils is predicted by core genomic traits (genome size, coding density, and rRNA operon copy number) at individual taxon versus community-weighted mean scales, using a national-scale survey of UK soils (the UKCEH Countryside Survey). Core genomic traits showed minimal predictive power for niche breadth at the individual amplicon sequence variant (ASV) level, indicating that these traits alone do not distinguish generalist from specialist taxa. However, when aggregated to community-weighted means (CWMs), genomic traits covaried with CWM niche breadth; null models showed that much of this covariation arises from compositional turnover along the pH gradient. Along the pH gradient, acidic soils (pH  7.5) exhibited the lowest CWM niche breadth, small CWM genome sizes, high CWM coding densities, and low CWM rRNA copy numbers. Our findings indicate that community-level trait-niche breadth patterns largely reflect pH-driven turnover of lineages with contrasting genomes, rather than an intrinsic link between genome architecture and niche breadth, and that aggregated trait-based metrics effectively capture macro-ecological shifts in community structure across the soil pH gradient.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag333",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag333/9049902?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5102,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag333"
+    ]
+  },
+  {
+    "id": "10.1093/ismeco/ycag329",
+    "title": "Far-red light can power biological nitrogen fixation in cyanobacteria",
+    "abstract": "AbstractNitrogen fixation is one of the most energetically expensive biological reactions shaping the biosphere. Here, we demonstrate that some heterocyst-forming cyanobacteria can perform this process solely with low-energy far-red light, after undergoing a light acclimation response known as far-red light photoacclimation (FaRLiP). Although FaRLiP has been shown to drive oxygenic photosynthesis beyond the visible spectrum in some cyanobacteria from shaded terrestrial habitats, it was unknown whether it could also support growth in nitrogen-poor environments. In this study, we focused on heterocyst-forming, nitrogen-fixing cyanobacteria carrying FaRLiP genes from various habitats. Based on transcription, protein, and enzymatic activity assays, we demonstrate that FaRLiP does support growth in the absence of combined nitrogen sources. This includes a strain lacking far-red Photosystem II, though it was energy-limited and required additional sugar input. Bioinformatic analyses revealed that this reduced FaRLiP gene cluster variant is transcribed in nitrogen-fixing symbiotic cyanobacteria in natural environments. Together, these results indicate that nitrogen fixation can be powered by low-energy photons, likely facilitating cyanobacterial growth in resource-limited microbial mats as well as shaded symbiotic environments. These findings suggest that far-red light driven biological nitrogen fixation contributes to nitrogen cycling in light-limited environments.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag329",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag329/9049886?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria",
+        "cyanobacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5103,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag329"
+    ]
+  },
+  {
+    "id": "10.1093/femsre/fuag060",
+    "title": "Engineering antimicrobial peptides through the design–build–test–learn framework",
+    "abstract": "AbstractThe rapid emergence of antimicrobial resistance has intensified the need for alternative anti-infective strategies. Antimicrobial peptides (AMPs) offer diverse mechanisms of action, but their translation remains constrained by poor physiological stability, host toxicity, and manufacturing costs. This review examines AMP development within a design–build–test–learn (DBTL) framework that connects computational discovery, peptide production, experimental evaluation, and iterative optimization. Proteome mining and generative artificial intelligence expand the accessible sequence space, while solid-phase synthesis, engineered microbial hosts, and cell-free systems convert selected sequences into testable molecules. Chemical modification and formulation provide complementary routes to improve stability and delivery. Standardized screening and in vivo studies then establish the evidence needed to prioritize candidates and inform subsequent design and production decisions. Throughout this cycle, activity must be optimized together with toxicity, stability, manufacturability, and delivery rather than treated as the sole measure of success. This review discusses applications in medicine, agriculture, food preservation, and biotechnology, and identifies remaining limitations in data quality, assay comparability, scale-up, and translational support. The DBTL framework provides a basis for coordinating these activities, although its practical value depends on experimentally validated feedback and application-specific development criteria.",
+    "journal": "FEMS Microbiology Reviews",
+    "doi": "10.1093/femsre/fuag060",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuag060/9080688?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5104,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/femsre/fuag060"
+    ]
+  },
+  {
+    "id": "10.1093/femsre/fuag058",
+    "title": "Phage–Host Dynamics in Food Systems: Rethinking the “Lytic” and “Temperate” Paradigm",
+    "abstract": "AbstractPhage–host dynamics are central to food systems because bacteriophages can threaten microbial stability while serving as tools for microbial control. In fermentations, phages compromise starter culture performance and product consistency, whereas in foods, animal production, and processing environments they are increasingly used as biocontrol agents against foodborne pathogens. Temperate phages may also influence virulence, tolerance, competition, and horizontal gene transfer, including antimicrobial resistance gene mobilization, placing phage ecology within a One Health framework. These roles have traditionally been interpreted through a binary model in which virulent phages lyse and temperate phages persist. However, reports of pseudolysogeny, carrier state, and delayed lysis have long suggested that this distinction is incomplete. Recent large-scale studies showing that virulent phages can persist through colony purification and bacterial genome assembly workflows provide the central motivation for this review. These findings suggest that long-term non-lysogenic association may be more widespread than appreciated and challenge the assumption that “lytic” phages necessarily cause immediate host elimination. In food systems, this has implications for fermentation reliability, biocontrol, surveillance, and One Health interpretation. We argue that food systems are informative settings for reassessing phage lifestyle categories, and that “lytic” should be understood as infection potential rather than guaranteed ecological outcome.",
+    "journal": "FEMS Microbiology Reviews",
+    "doi": "10.1093/femsre/fuag058",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuag058/9080685?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "microbial",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5105,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/femsre/fuag058"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1992240",
+    "title": "Prevalence and abundance of pathogens in biofilters of freshwater recirculating aquaculture systems for Atlantic salmon (Salmo salar)",
+    "abstract": "The extent to which recirculating aquaculture system (RAS) biofilters contain pathogenic microorganisms is poorly understood. Previous studies have been limited to single facilities, offering little insight into pathogen prevalence across different systems. This study quantified the occurrence of three bacterial and four viral pathogens in 50 freshwater biofilters from 36 commercial RAS across 11 facilities in Norway and the Faroe Islands for Atlantic salmon using quantitative PCR (qPCR). We also characterized the bacterial community structure using 16S rRNA gene amplicon sequencing. Overall, pathogens were present at low abundance. Flavobacterium psychrophilum was detected in 35 of 50 biofilters (70%). Its highest abundance was estimated at 18.6 copies per ng template DNA or 0.015% relative to 16S rRNA gene copies. Yersinia ruckeri and Candidatus Branchiomonas cysticola were rare, detected in 4 (8%) and 1 (2%) biofilters, respectively. Infectious pancreatic necrosis virus (IPNV) was detected in 16 biofilters (32%). Avirulent infectious salmon anemia virus (ISAV-HPR0), Orthoreovirus piscis-1 (PRV-1), and salmon gill poxvirus (SGPV) were detected in 11 (22%), 6 (12%), and 3 (6%) biofilters, respectively. Microbial community analysis showed that heterotrophic bacterial genera, e.g., Flavobacterium, Aeromonas, Pseudomonas, and Mycobacterium, were commonly found in RAS biofilters.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1992240",
+    "date": "2026-11-17",
+    "authors": "Ingrid Bakke",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1992240",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microorganism",
+        "microorganisms",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5106,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1992240"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.16.766896",
+    "title": "Spatial growth within food-like matrices drives physiological diversification and stress adaptation in Salmonella.",
+    "abstract": "Foodborne bacteria often grow in structured environments, but the effects of spatial organisation on their physiology and subsequent stress tolerance remain poorly understood. In this study, we investigated how spatial growth in a food-like hydrogel matrix affected the physiology of Salmonella enterica serovar Typhimurium and its ability to cope with environmental stresses. Planktonic and spatialised populations were grown for four days in media without NaCl supplementation or supplemented with 6% NaCl. Transcriptomic, extracellular metabolomic, and lipidomic analyses were combined with targeted spatial gene-expression analyses. The multi-omics analyses showed that spatial organisation had a strong effect on Salmonella physiology and induce more physiological variation than the presence of osmotic stress, under the tested conditions. Spatial growth was associated with significant changes in gene expression, carbon metabolism, and membrane fatty-acid composition. Several functions related to stress response and biofilm-associated behaviour were also affected, with corresponding genes showing significant differential expression. When bacteria were grown in the presence of NaCl, spatialised populations showed less transcriptional and metabolic reorganisation than planktonic populations. In addition, gene-expression analyses showed that microcolonies were physiologically heterogeneous, with differences among cell populations within the same microcolony. Spatial growth also associated with the upregulation of functions related to the general stress response, oxidative stress protection, membrane adaptation and acid stress. These physiological changes provide a plausible mechanistic framework for the enhanced gastrointestinal stress tolerance previously observed in spatially grown populations, particularly under acid challenge. Overall, our results show that spatial organisation is an important environmental factor that reprograms Salmonella physiology and can influence its ability to survive stresses encountered after food ingestion.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766896",
+    "date": "2026-11-17",
+    "authors": "HOCH, E., Dergham, Y., Pierron, A., Deschamps, J., Dubois-Brissonnet, F., Lecardonnel, J., Steenackers, H., Werner, D., Hezard, B., Bevilacqua, C., Omhover-Fougy, L., Briandet, R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766896v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5107,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.16.766896"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.15.766686",
+    "title": "Recovery of a distant large DNA virus from the genome sequencing of a fish leech",
+    "abstract": "The leech gut is known to be a viral reservoir, where viruses can persist long-term and are protected from external influences. Therefore, leeches can serve as vectors for transmission of viral disease to susceptible hosts on which they prey. Nonetheless, viral diversity and virus-leech-host interactions remain largely unknown, with hitherto no research directed at identifying viruses that use leeches as their hosts. In the present study, we report the discovery of a novel large DNA virus (phylum Nucleocytoviricota) recovered from genomic sequencing data of the common fish leech Piscicola geometra (Linnaeus, 1761). Through genomic and phylogenetic analyses, we identify this lineage as highly divergent from currently known viruses, with [~]95% of its predicted protein-coding genes showing no identifiable homology with current databases. Whether the leech is a host of this virus or a vector that transmits it to fish species remains unclear. This work highlights the value of off-target sequence retrieval for discovering novel viral lineages and sets the stage for future studies directed towards the prevalence and biology of leech-associated large DNA viruses.",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766686",
+    "date": "2026-11-17",
+    "authors": "Manzano-Marin, A., Willemsen, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766686v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5108,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.15.766686"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.14.766689",
+    "title": "Illumina MiSeq, MiSeq i100, and Element AVITI yield concordant ecological patterns for universal 16S and 18S rRNA gene amplicon sequencing",
+    "abstract": "Molecular microbiome analyses require high-resolution, comparable measurements, often obtained by sequencing marker genes such as the rRNA gene. Recently, new platforms and chemistries have promised to improve performance at lower cost relative to the commonly used Illumina MiSeq 2x300, but have not yet been systematically compared especially for rRNA gene amplicon studies. Here, we compared MiSeq 2x300, MiSeq 2x500, and AVITI 2x300 by sequencing mock communities and field samples via a 'universal' (16S + 18S) rRNA gene amplicons (V4-V5 region) approach. All platforms recovered similar community patterns (Mantel r > 0.93), with no major differences in recovered lineages. MiSeq 2x500 showed ~4.5-fold higher index hopping (5.9 +/- 3.8% vs. 1.3 +/- 1.5%). For 18S, MiSeq 2x500, despite longer reads overlapping the 18S V4-V5 region, only marginally improved taxonomic classification (+0.7% on average) and ASV resolution (+/-1.3%). Meanwhile, all platforms similarly biased against 18S due to its greater length, which we demonstrate can be offset by a gel-based size selection, with no apparent taxonomic bias. Overall the platforms yield ecologically similar results. We highlight platform-specific advantages to help guide decision-making and challenges that can be addressed through dedicated bioinformatic or wet-lab approaches.",
+    "journal": "",
+    "doi": "10.64898/2026.11.14.766689",
+    "date": "2026-11-17",
+    "authors": "D'Agostino, E., Needham, D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.14.766689v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18S rRNA",
+        "18s rrna",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "18S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5109,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.14.766689"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.14.766676",
+    "title": "A conserved MoxR-vWA chaperone complex drives starvation-induced protein degradation in bacteria",
+    "abstract": "Bacteria must quickly adapt to changes in their environment, notably including the sudden loss of nutrients. We previously showed that in glucose-starved E. coli, widespread starvation-induced protein degradation (SPD) fuels post-starvation proteome remodeling, degrading a wide swath of the proteome to supply the cell with energy and amino acids for synthesis of stress proteins. Here we demonstrate that SPD is mediated by a highly conserved complex of three proteins: the MoxR-type AAA+ ATPase SpdA, the von Willebrand factor A (vWA) domain protein SpdB, and the zinc metallopeptidase SpdC. Structural modeling and in vitro reconstitutions show that these proteins form a complex with 6:1:1 stoichiometry that resembles the widespread, but still poorly understood, family of MoxR-vWA chaperone complexes in bacteria and eukaryotes. Measurements of protein degradation in glucose-starved E. coli cells show that SpdA, SpdB, and SpdC work together to mediate the degradation of SPD substrates. Instead of directly degrading these substrates, our data suggest that limited structural perturbation and proteolysis \"softens\" SPD substrates and promotes their degradation by the cellular proteases ClpAP/ClpXP and Lon. Thus, SPD enables extensive proteome remodeling during starvation by expanding the pool of proteins accessible to cellular proteases, rather than by increasing protease abundance. Phylogenetic analysis shows that SpdA, SpdB, and SpdC are highly conserved across bacteria, with notable homologs including the well-characterized Bacillus subtilis sporulation factors PrkA (SpdA), YhbH (SpdB), and SpoVR (SpdC).",
+    "journal": "",
+    "doi": "10.64898/2026.11.14.766676",
+    "date": "2026-11-17",
+    "authors": "Okano, H., Ye, Q., Mori, M., Manzanarez, G., Zhang, Z., Hackbarth, F., Chambers, L. R., Balakrishnan, R., Kannan, H., Tian, E., Mendez-Diaz, F., Huo, J., Enustun, E., Ludwig, C., Hwa, T., Corbett, K. D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.14.766676v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5110,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.14.766676"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.15.766743",
+    "title": "An iron acquisition system promotes Bifidobacterium longum fitness in competitive early life gut communities",
+    "abstract": "Iron availability influences the composition of the gut microbiota, yet the mechanisms that enable beneficial bacteria to acquire iron and compete within iron-variable communities remain poorly understood. Here, we identify Fei (Fe import), an iron-responsive acquisition system that promotes the fitness of Bifidobacterium longum subsp. longum, a prevalent member of the early-life gut microbiota. Comparative profiling of 20 bifidobacterial strains revealed substantial inter- and intraspecies variation in growth under iron limitation, with multiple B. longum subsp. longum strains maintaining comparatively robust growth. Transcriptomic analysis identified a four-gene locus, feiMQOX, that was strongly induced during iron depletion and returned towards control expression following iron supplementation. The complete locus was highly conserved within B. longum subsp. longum but unevenly distributed across the wider genus. Disruption of individual Fei components impaired growth and reduced cell-associated iron under iron-restricted conditions, while metal-binding studies of purified FeiX demonstrated a physiological preference for Fe(II). FeiX also provided a pronounced fitness advantage during competition with an infant-derived Enterococcus faecalis isolate, particularly under iron limitation. Finally, analysis of longitudinal metagenomic data from Bangladeshi infants demonstrated that Fei is present within infant gut communities and that its abundance changes following iron supplementation. Together, these findings identify a lineage-associated iron-acquisition system that connects micronutrient availability with bifidobacterial physiology and competitive fitness. More broadly, our findings establish strain-level micronutrient acquisition as a potentially important determinant of beneficial bacterial fitness within the developing gut microbiota.",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766743",
+    "date": "2026-11-17",
+    "authors": "Acton, L., Soe, C. Z., Kujawska, M., Augustine, J., Senoo, D. K. J., Trivett, H., Caim, S., Shimpo, A., Clark, C., Friess, L., van Sinderen, D., Chivers, P. T., Hall, L. J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766743v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5111,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.15.766743"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.15.766889",
+    "title": "Emergence of a Novel Bacteriophage of Toxigenic Vibrio cholerae in Haiti",
+    "abstract": "Toxigenic strains of Vibrio cholerae O1 are facultative pathogens that persist in estuaries and cause the secretory diarrheal disease cholera. Virulent bacteriophages (phages) can modulate pathogen density in both humans and aquatic reservoirs, thereby reducing cholera transmission. We report a novel phage, MAA01, isolated from cholera stool and environmental water samples collected in Haiti. The MAA01 genome is double-stranded DNA (31,507 base pairs) and contains 47 genes. Based on transmission electron microscopy morphology and phylogenetic analysis, we classify the novel phage as a member of the Caudoviricetes class. Its genome content is consistent with a temperate lifestyle, yet we observed a virulent phenotype in all strains tested, including toxigenic and non-toxigenic environmental O1 serogroup strains. Sequence analysis of spontaneous escape mutants of V. cholerae identified the O1 lipopolysaccharide antigen as the phage receptor. Using an infant mouse model of intestinal colonization, we showed that MAA01 can reduce V. cholerae load by 4-fold, indicating it can prey on its host in the small intestine.",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766889",
+    "date": "2026-11-17",
+    "authors": "Alam, M. T., Rebolledo Viveros, A., Sakib, S. N., Iballa, F. B. S., Morris, J. G., Camilli, A., Ali, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766889v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5112,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.15.766889"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.15.765035",
+    "title": "Identification and characterization of a Streptococcus strain isolated from the esophagus of an adult male heterozygous for the CF allele",
+    "abstract": "The genus Streptococcus consists of diverse bacteria that are integral components of the human microbiome, acting as both important commensals and opportunistic pathogens. In this study, one strain of an -hemolytic species of the genus Streptococcus, GP0011T, isolated from an esophageal aspirate collected during an endoscopy, was characterised phenotypically to establish its taxonomic status. The strain was isolated from an adult male heterozygous for a cystic fibrosis transmembrane conductance regulator (CFTR) mutation. The phylogenetic analysis indicates that the strain is a novel species within the mitis group, with Streptococcus oralis ATCC 35037T being the closest relative with 94.84% average nucleotide identity (ANI) and 58.3% digital DNA-DNA hybridization (dDDH). Phenotypic characterization and API20 Strep strips distinguished GP0011T from S. oralis by the absence of alkaline phosphatase activity, trehalose fermentation, and starch fermentation, and by superior growth on D-mannitol and D-sorbitol, consistent with genomic data. The strain is Gram-positive, catalase-negative, and the cells are ovoid with a mean cell diameter of 1.3 {micro}m. Growth occurred at 25-43 C, with an optimum at 30 C, with an optimum at pH 8.0. Antibiotic resistance genes msrD and mefA, conferring resistance to azithromycin and erythromycin, as well as pathways for mannitol and sorbitol metabolism, were found and phenotypically confirmed in the GP0011T genome but were absent from S. oralis. These findings indicate that GP0011T represents a novel species within the genus Streptococcus with the proposed name of Streptococcus ruoffae sp. nov. The type strain is GP0011T (ATCC TSD-627 and NCTC 15312).",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.765035",
+    "date": "2026-11-17",
+    "authors": "Abrahamson, E. A., Surve, S. V., OToole, G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.765035v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5113,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.15.765035"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.16.767118",
+    "title": "Genomic blueprints of a dynamic deep sea: contrasting adaptive strategies potentially drive seasonal microbial succession",
+    "abstract": "Genetic variation within marine microbial populations can help reveal how deep-sea communities respond to environmental change. However, population-level genomic variation in deep pelagic waters remains poorly understood. Here, we analyzed metagenomic and metatranscriptomic datasets from ~1,080 m depth in the South China Sea to compare genomic variation between summer and winter microbial assemblages. Among 11 persistent metagenome-assembled genomes (MAGs) detected in both summer and winter samples, we observed differences in abundance, nucleotide diversity ({pi}), pN/pS ratios, and gene-level differentiation. Two enriched populations showed contrasting patterns, with Sphingobium yanoikuyae enriched in winter samples and Methyloversatilis universalis enriched in summer samples. The winter-enriched S. yanoikuyae population carried winter-associated accessory genes related to restriction-modification and toxin-antitoxin systems, consistent with a defense-oriented persistence profile. In contrast, the summer-enriched M. universalis population showed higher nucleotide diversity in summer samples and divergence in genes related to motility, transport, and cobalamin acquisition. Across persistent MAGs, low pN/pS ratios indicated predominantly purifying selection, whereas gene-specific divergence and flexible accessory gene content suggested population-level adaptive potential under contrasting winter and summer conditions. These results reveal population-genomic differences associated with winter-summer microbial shifts in the deep sea.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.767118",
+    "date": "2026-11-17",
+    "authors": "Zhao, B., Barcon, A. S., Zhong, S., He, Y., Wang, Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767118v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenomic",
+        "metatranscriptom",
+        "metatranscriptomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5114,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.16.767118"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.14.766705",
+    "title": "Formate, hydrogen, and acetate shape the morphology, physiology and lifestyles of the host-associated methanogen Methanobrevibacter smithii",
+    "abstract": "Methane-producing archaea (methanogens) are increasingly linked to gastrointestinal, neuropsychiatric, and neurodevelopmental disorders. These conditions are often associated with altered microbial metabolism that changes the availability of acetate, formate, hydrogen, carbon dioxide, and methane in the gut. However, the physiological importance of formate and acetate in host-associated methanogens remains poorly understood, limiting our ability to interpret microbiome data and infer functions and cross-domain interactions of methanogens in health and disease. Here, we investigated the physiological and metabolic capabilities of Methanobrevibacter smithii, the predominant methanogen of the human gut. Formate limitation altered growth, morphology, extracellular pH, gas metabolism, and cellular organization, and induced the formation of cell aggregates. Although acetate was consumed only in small quantities (nmol), its availability significantly influenced growth, gas metabolism, extracellular pH, and formate utilization, indicating functions that extend beyond its role as a biosynthetic precursor. Conversely, nutrient excess promoted a transition to a biofilm lifestyle, suggesting that biofilm formation may function as a carbon sink. We further developed Msm_MEP, an experimentally refined genome-scale metabolic model based on the AGORA2 reconstruction, which captures the metabolic capabilities of M. smithii, quantifies ATP allocation across cellular processes, and predicts the phenotypic consequences of gene deletions. Together, our findings identify formate, hydrogen, and acetate as interacting determinants of M. smithii physiology and suggest metabolite-dependent transitions between planktonic growth, cell aggregation, and biofilm formation. Our results establish a framework for interpreting microbiome data and understanding how environmental metabolites shape archaea physiology and cross-domain interactions within the human microbiome.",
+    "journal": "",
+    "doi": "10.64898/2026.11.14.766705",
+    "date": "2026-11-17",
+    "authors": "Del Mazo-Monsalvo, I., Poulter, A. N., Ovando-Ovando, C. I., Santiago-Martinez, M. G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.14.766705v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "methanogen",
+        "methanogens",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5115,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.14.766705"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.16.765117",
+    "title": "Air and environmental sampling expand metagenomic viral surveillance in Cambodian pig slaughterhouses",
+    "abstract": "Surveillance of viruses in swine depends largely on the sampling of individual animals chosen at random, often limiting detection breadth. Environmental sampling has emerged as an alternative strategy, enabling faster, safer and more cost-effective pathogen monitoring at the human-animal interfaces. Across nine visits to two Cambodian slaughterhouses, we applied metagenomic sequencing to air samples (n = 25), faeces (n = 156), wastewater (n = 15), carcass wash water (n = 18), holding-pen swabs (n = 124), slaughter-box swabs (n = 73) and ropes (n = 16), comparing virus composition to pig snout swabs (n = 193). Combined environmental sampling recovered 96.6% of the viral taxa detected in snout swabs, exceeding 90.9% at every visit. Greater viral diversity was consistently captured in the environment, including swine-associated taxa absent from snout swabs and viral RNA associated with avian and human hosts. Air provided the widest coverage of any single environmental sample type and contributed the largest number of independent virus detections that were not recovered from any other environmental sample. Slaughter-box swabs recovered the fewest taxa, showing that visible contamination with swine material did not correlate with greater viral recovery. Overall, this study identifies air as a pivotal core component of any surveillance program. However, pairing air with additional environmental sample types provides the broadest virus coverage and represents the optimal surveillance strategy in swine slaughterhouses.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.765117",
+    "date": "2026-11-17",
+    "authors": "Cronin, P., Heang, V., Siegers, J. Y., Tok, S., Sin, S., Sievers, B., Omondi, V., Chhel, K., Nouhin, J., Chim, V., Seng, B., Hak, M., San, S., Tum, S., Claes, F. F., Firth, C., Su, Y. C. F., Smith, G. J. D., Karlsson, E. A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.765117v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5116,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.16.765117"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.14.766640",
+    "title": "Genome architecture and duplication-associated functional diversification in the carnivorous plant Sarracenia purpurea",
+    "abstract": "The repeated evolution of complex traits raises the question of how genomes generate ecological novelty while preserving developmental organization. We present a chromosome-scale genome assembly and annotation for the carnivorous purple pitcher plant, Sarracenia purpurea, and investigate how two contrasting modes of gene duplication have shaped its genome and functional repertoire: ancient polyploidy, which leaves duplicated genes in conserved chromosomal regions (syntenic duplicates), and local tandem duplication, which generates neighboring gene copies. We compare these duplication classes across nine angiosperms. The genome shows a mosaic of conserved and fractionated duplicated regions reflecting differential retention and loss of genes following ancient polyploidy and later restructuring. Comparison with noncarnivorous Actinidia (kiwifruit) identifies 18 syntenic and nine tandem Gene Ontology (GO) Biological Process term-duplication-class combinations enriched in Sarracenia but not significantly enriched in Actinidia. Syntenic enrichments include meristem maintenance, organ-boundary specification, cuticle development, and hormonal regulation; tandem enrichments include defense responses, oxidative stress, jasmonic-acid biosynthesis, leaf senescence, and oligopeptide transport. Across the carnivorous genera Sarracenia, Nepenthes, Utricularia, and Pinguicula, we identify 19 syntenic and two tandem-associated biological processes showing significant enrichment in all four lineages, revealing striking functional commonalities across multiple evolutionary origins of carnivory despite their divergent trap morphologies and ecological strategies. Among Sarracenia genes differentially expressed in at least one comparison of flower, pitcher-leaf, and root tissues, tandem-class genes exhibit larger maximum absolute expression differences and greater GO richness and effective breadth at matched numbers of annotated homologs. These results highlight the complementary evolutionary contributions of ancient genome duplication and local gene-family expansion to the developmental and ecological diversification of carnivorous plants.",
+    "journal": "",
+    "doi": "10.64898/2026.11.14.766640",
+    "date": "2026-11-17",
+    "authors": "Albert, V. A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.14.766640v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "assembly",
+        "gene",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5117,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.14.766640"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.15.766357",
+    "title": "Efficient genome graphs indexing, querying and visualization with gfaidx and gfaidx-viz",
+    "abstract": "Genome graphs enable the analysis of genetic variation across many genomes, but exploring individual regions remains computationally demanding. We present gfaidx, a general-purpose indexer giving fast, low-memory access to pangenome, assembly, and de Bruijn graphs in GFA format. It retrieves gene-sized subgraphs and their haplotypes over 100-fold faster than existing tools such as ODGI and vg, and can index human pangenome-scale graphs on a personal computer. The accompanying gfaidx-viz interactively visualizes pre-indexed human pangenomes. Both are freely available at https://github.com/fawaz-dabbaghieh/gfaidx and https://github.com/fawaz-dabbaghieh/gfaidx-viz",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766357",
+    "date": "2026-11-17",
+    "authors": "Dabbaghie, F., Steinegger, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766357v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "gene",
+        "genome",
+        "pangenome",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "pangenom",
+          "pangenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5118,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.15.766357"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1152",
+    "title": "Live-cell imaging reveals two modes of TERRA association with telomeres and the dynamics of TERRA R-loops",
+    "abstract": "AbstractTelomeres are transcribed into TERRA long non-coding RNAs. When associating with telomeres, TERRA can regulate telomere maintenance by semiconservative DNA replication, telomerase and homology-directed repair (HDR). In addition, TERRA alters telomeric structure and protein composition. Yet, the molecular mechanisms and dynamics by which TERRA associates with telomeres remain elusive. To investigate TERRA-telomere interactions, we combine PP7 stem-loop TERRA tagging, genome editing and live-cell imaging. Using a deep-learning method for spot detection and single-particle tracking analysis, we demonstrate that TERRA associates with telomeres through two distinct modes. On one hand, TERRA interacts frequently and transiently with the telomeric shelterin protein TRF2. On the other hand, TERRA engages in long-lasting interactions which persist from seconds to several minutes forming R-loops with telomeric DNA. TERRA R-loops preferentially occur at short telomeres, and their formation requires factors involved in HDR, but not TRF2. Altogether, we reveal two parallel mechanisms of TERRA recruitment to telomeres, which differ substantially in their dynamics and structure, and we elucidate the dynamics of telomeric R-loops. Our findings provide a framework for understanding TERRA-triggered telomere functions during aging and carcinogenesis.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1152",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1152/9079908?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5119,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1152"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1223",
+    "title": "A dual biocontainment system specifically constraining the transfer and escape of the engineered plasmid in microbial communities",
+    "abstract": "AbstractA variety of engineered genetic elements and circuits enable bacteria to sense environmental signals, process information, and execute programmed biological functions. However, the potential escape from such synthetic constructs into the natural environment poses biosafety risks and could disrupt ecological balance. To address this, we developed a dual biocontainment system designed to restrict the replication and expression of engineered plasmids exclusively within modified host (TEV protease and sgRNA-dCas9). This system employs TEV protease to remove ssrA degradation tags fused to the plasmid replication protein RepA, thereby enabling plasmid replication. Concurrently, a specific guide RNA (sgRNA) forms an inhibitory complex with dCas9 to prevent cleavage of the engineered plasmid by the I-OnuI endonuclease. Overall, dual biocontainment system provides a robust safety tool both in vitro and in vivo to restrict the transfer and escape of engineered plasmids (with an escape rate of 4.4 × 10−8  in vitro and 2.4 × 10−8  in vivo), giving an efficient platform for safely use of synthetic genetic elements.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1223",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1223/9079907?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5120,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1223"
+    ]
+  },
+  {
+    "id": "10.1093/nar/gkag1202",
+    "title": "A non-nucleotide activator reveals a second allosteric regulatory site in the type III CRISPR ribonuclease Csm6",
+    "abstract": "AbstractType III CRISPR-Cas systems rely on cyclic oligoadenylate (cOA) signaling to activate ancillary nucleases such as Csm6, which serve as core effectors in antiviral immunity. While cOA-mediated Csm6 activation has been widely harnessed for molecular diagnostics, its broader application is constrained by inherent limitations, including poor cellular permeability and susceptibility to degradation by ring nucleases. Here, we conducted a high-throughput fluorescence-based screen and identified DMPCH (7,8-dimethyl-4-phenylchroman-2-one) as a non-nucleotide allosteric activator of Thermus thermophilus (Tt) Csm6. DMPCH selectively stimulates TtCsm6 ribonuclease activity by binding to the higher eukaryotes and prokaryotes nucleotide-binding domain dimerization interface, leading to expansion of the catalytic pocket and remodeling of the R-X4–6-H catalytic motif. Moreover, DMPCH acts synergistically with cA4 to activate TtCsm6, enabling rapid and sensitive RNA detection in a Cas13a–Csm6 system. Cell-based assays confirm that DMPCH activates TtCsm6 ribonuclease activity in live bacteria cells. When combined with DMPCH, an engineered miniCsm6 fused to pyocin S2 (PyS2) exerts potent and specific bactericidal activity against Pseudomonas aeruginosa. Our work establishes a framework for discovering non-nucleotide activators of CRISPR-associated ribonucleases and highlights their potential as chemical tools in cell-based research and as therapeutic agents against bacterial pathogens.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1202",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1202/9079906?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "prokaryote"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5121,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1202"
+    ]
+  },
+  {
+    "id": "10.1007/s00248-026-02927-8",
+    "title": "Spillage of Faecal Sacs Alters the gut Microbiota of Developing Nestlings",
+    "abstract": "Nest hygienic conditions determine the bacterial environment in which nestlings develop and, therefore, may affect the characteristics of their gut microbiota. In most altricial bird species, parents remove nestlings’ faecal sacs during their first days of life, thereby reducing the accumulation of potentially pathogenic bacteria in the nest. In this study, we experimentally tested whether this sanitation behaviour affects the diversity and composition of gut microbiota and the growth of spotless starling (Sturnus unicolor) nestlings. To do so, we broke faecal sacs and spread their contents within the nest cup in half of the nests. In addition, we exchanged nestlings between nests to explore whether responses differed between natal and foster nestlings reared by the same parents. The experiments were conducted in both first and second broods to assess phenological effects associated with accumulated reproductive effort and environmental changes. The effects of the treatment on gut microbiota and nestling phenotype appeared mainly in second broods and depended on nestling origin. Post-hoc analyses revealed that, among nestlings exposed to faecal sac content, those that were not genetically related to the attending parents showed lower body mass and carotenoid concentration, higher mortality, and lower gut bacterial alpha diversity. No effects were detected on beta diversity, although changes were found in the relative abundance of some bacterial taxa, especially in control nests. In addition, microbial diversity and composition were associated with phenotypic traits, particularly in second broods. Overall, our results indicate that nest sanitation behaviour, nestling origin and breeding phenology influence microbiota assembly and offspring development.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02927-8",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02927-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5122,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1007/s00248-026-02927-8"
+    ]
+  },
+  {
+    "id": "10.1007/s00248-026-02930-z",
+    "title": "Host-Driven Community Differentiation in Microalgal Microbiomes: Key Role of the Roseobacter Group within Alphaproteobacteria",
+    "abstract": "Microalgae and bacteria are ecologically dominant organisms in aquatic ecosystems that interact intimately within the phycosphere. Although host-specific bacterial communities are well documented, they have typically been analyzed as a whole, and it remains unknown whether host specificity is distributed evenly across resident bacteria or is concentrated within particular lineages with distinct ecological strategies. Here we characterized the bacterial communities of 11 microalgal species—nine dinoflagellates and two green algae, spanning marine and freshwater taxa—across three growth phases (lag, exponential, and stationary) using full-length 16​S rRNA gene sequencing, and used Bray–Curtis dissimilarity to decompose host-associated community structure by bacterial class. This revealed a bipartite architecture within the phycosphere. Gammaproteobacteria showed weakly host-associated patterns with high within-host variation (PERMDISP F = 10.755), whereas Alphaproteobacteria formed a stable, host-discriminating structural core: the PERMANOVA R² for Alphaproteobacteria alone (0.773) was nearly identical to that of the entire community (0.760), indicating that this single lineage captures the host-specificity signal as effectively as the whole community. Combined LEfSe and network hub analyses identified the Roseobacter group as the key taxa underpinning this core, and a Random Forest classifier trained on only four Roseobacter-group genera recovered host identity under group cross-validation (mean accuracy 0.787 ± 0.127). The Roseobacter group thus serves not merely as an abundant constituent but as a microbial signature that distinguishes phylogenetically diverse hosts. Our findings provide a structural perspective in which host specificity in the microalgal microbiome is concentrated within a single lineage rather than distributed evenly across the community.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02930-z",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02930-z",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Roseobacter",
+        "bacteria",
+        "bacterial",
+        "dinoflagellate",
+        "microalgae",
+        "microalgal",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "freshwater",
+          "marine",
+          "roseobacter"
+        ],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5123,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1007/s00248-026-02930-z"
+    ]
+  },
+  {
+    "id": "10.1111/1758-2229.70465",
+    "title": "Comparative Performance of Oxford Nanopore Duplex and Simplex 16S rRNA Reads for eDNA‐Based Prediction of Salmon Aquaculture Benthic Impacts",
+    "abstract": "Performance comparison of Nanopore simplex and duplex 16S rRNA sequencing for eDNA‐based benthic monitoring. Simplex reads provided higher yield and markedly better environmental quality classification, while duplex reads offered no practical advantage. Key indicator taxa (e.g., Sulfurovum, Lutimonas, Psychrobacter) were consistently detected across sequencing modes.\n\nABSTRACT\nEnvironmental monitoring of salmon aquaculture increasingly uses eDNA‐based bacterial community profiling, yet the practical value of Oxford Nanopore duplex sequencing remains uncertain due to low yield. We compared full‐length 16S rRNA simplex and duplex Nanopore reads for predicting benthic environmental quality (EQ) at 15 Scottish salmon farms. After stringent Q30‐filtering, samples contained far more high‐quality simplex than duplex reads. Random Forest models trained on simplex data perfectly classified samples as above or below the good‐moderate EQ boundary (accuracy 100%, κ = 1), while duplex models reached 97.6% (κ = 0.95). For four‐class EQ predictions (good, moderate, poor, bad), simplex reads again performed better (80.5% accuracy, κ = 0.67) than duplex reads (73.2%, κ = 0.53). Taxonomic profiles of high‐impact samples were highly concordant across read types, sharing indicator taxa such as Sulfurovum, Lutimonas and Psychrobacter. In contrast, low‐impact samples showed reduced concordance due to higher diversity and insufficient duplex coverage. Nanopore sequencing also detected strong bacterial bioindicators absent from Illumina‐based studies, highlighting its potential for uncovering previously undetected diversity. Overall, duplex sequencing provided no advantage for EQ assessment. Nanopore simplex sequencing is therefore a viable option for eDNA‐based benthic monitoring, though further optimization is needed to improve throughput and scalability.\n\nPerformance comparison of Nanopore simplex and duplex 16S rRNA sequencing for eDNA-based benthic monitoring. Simplex reads provided higher yield and markedly better environmental quality classification, while duplex reads offered no practical advantage. Key indicator taxa (e.g., Sulfurovum, Lutimonas, Psychrobacter) were consistently detected across sequencing modes.\n\nABSTRACT\nEnvironmental monitoring of salmon aquaculture increasingly uses eDNA-based bacterial community profiling, yet the practical value of Oxford Nanopore duplex sequencing remains uncertain due to low yield. We compared full-length 16S rRNA simplex and duplex Nanopore reads for predicting benthic environmental quality (EQ) at 15 Scottish salmon farms. After stringent Q30-filtering, samples contained far more high-quality simplex than duplex reads. Random Forest models trained on simplex data perfectly classified samples as above or below the good-moderate EQ boundary (accuracy 100%, κ = 1), while duplex models reached 97.6% (κ = 0.95). For four-class EQ predictions (good, moderate, poor, bad), simplex reads again performed better (80.5% accuracy, κ = 0.67) than duplex reads (73.2%, κ = 0.53). Taxonomic profiles of high-impact samples were highly concordant across read types, sharing indicator taxa such as Sulfurovum, Lutimonas and Psychrobacter. In contrast, low-impact samples showed reduced concordance due to higher diversity and insufficient duplex coverage. Nanopore sequencing also detected strong bacterial bioindicators absent from Illumina-based studies, highlighting its potential for uncovering previously undetected diversity. Overall, duplex sequencing provided no advantage for EQ assessment. Nanopore simplex sequencing is therefore a viable option for eDNA-based benthic monitoring, though further optimization is needed to improve throughput and scalability.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70465",
+    "date": "2026-11-17",
+    "authors": "Thorsten Stoeck, \nLukas Damm, \nHans‐Werner Breiner, \nSven Katzenmeier, \nSabine Filker",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70465?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5124,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1111/1758-2229.70465"
+    ]
+  },
+  {
+    "id": "10.1111/1758-2229.70470",
+    "title": "Geographic Structuring of Gut‐Content Bacterial Communities in Invasive Blackchin Tilapia (Sarotherodon melanotheron) Across Thailand: Site‐Level Environmental Associations and Implications for Invasion Ecology",
+    "abstract": "Geographic variation in gut microbiota of invasive blackchin tilapia across Thailand is primarily driven by environmental filtering, particularly salinity, pH, and orthophosphate gradients, while parasite pressure remains minimal, supporting a dual‐assembly framework linking microbiome plasticity to invasion success.\n\nABSTRACT\nThe blackchin tilapia (Sarotherodon melanotheron) has rapidly expanded across Thailand, but how environmental conditions relate to its gut microbiota during invasion remains unclear. We examined gut‐content bacterial communities at six sampling sites along the Gulf of Thailand using full‐length 16S rRNA gene sequencing of 68 fish, alongside site‐level water analyses (one composite sample per site; n = 6) and helminth screening. Communities showed spatial structuring, with significant differences in alpha and beta diversity among locations. Distinct assemblages included dominance of Enterovibrio nigricans in Rayong and Cetobacterium somerae in Chumphon. Predicted metabolic functions showed site‐specific enrichment. Taxon‐covariation networks revealed location‐associated patterns. Location explained 65% of community variation; pH, salinity, and orthophosphate together corresponded to about half of among‐site variation. Aeromonas spp. and Photobacterium damselae showed positive associations with salinity, but these trends were not significant after multiple‐testing correction. Helminths were almost entirely absent, with only incidental ingestion of free‐living nematodes. Gut‐content bacterial communities varied among locations and covaried with site‐level water conditions. However, because environmental variables were measured at only six sites, their effects cannot be separated from other location‐specific factors. These findings are consistent with a dual‐assembly framework in which environmental microbial pools and host filtering shape gut‐content bacterial communities during invasion.\n\nGeographic variation in gut microbiota of invasive blackchin tilapia across Thailand is primarily driven by environmental filtering, particularly salinity, pH, and orthophosphate gradients, while parasite pressure remains minimal, supporting a dual-assembly framework linking microbiome plasticity to invasion success.\n\nABSTRACT\nThe blackchin tilapia (Sarotherodon melanotheron) has rapidly expanded across Thailand, but how environmental conditions relate to its gut microbiota during invasion remains unclear. We examined gut-content bacterial communities at six sampling sites along the Gulf of Thailand using full-length 16S rRNA gene sequencing of 68 fish, alongside site-level water analyses (one composite sample per site; n = 6) and helminth screening. Communities showed spatial structuring, with significant differences in alpha and beta diversity among locations. Distinct assemblages included dominance of Enterovibrio nigricans in Rayong and Cetobacterium somerae in Chumphon. Predicted metabolic functions showed site-specific enrichment. Taxon-covariation networks revealed location-associated patterns. Location explained 65% of community variation; pH, salinity, and orthophosphate together corresponded to about half of among-site variation. Aeromonas spp. and Photobacterium damselae showed positive associations with salinity, but these trends were not significant after multiple-testing correction. Helminths were almost entirely absent, with only incidental ingestion of free-living nematodes. Gut-content bacterial communities varied among locations and covaried with site-level water conditions. However, because environmental variables were measured at only six sites, their effects cannot be separated from other location-specific factors. These findings are consistent with a dual-assembly framework in which environmental microbial pools and host filtering shape gut-content bacterial communities during invasion.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70470",
+    "date": "2026-11-17",
+    "authors": "Vorthon Sawaswong, \nWattanapol Nuangjakjoy, \nVachirapong Charoennitiwat, \nSila Viriyautsahakul, \nSuthida Visedthorn, \nToemthip Poolpak, \nSakonwan Kuhaudomlarp, \nNisamanee Charoenchon, \nSunchai Payungporn, \nUrusa Thaenkham, \nNapat Ratnarathorn",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70470?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5125,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1111/1758-2229.70470"
+    ]
+  },
+  {
+    "id": "10.1038/s41579-026-01397-6",
+    "title": "A molecular switch rewires Salmonella enterica cell surface tropism",
+    "abstract": "This study shows that an amino acid substitution in a chemoreceptor determines how Salmonella enterica serovars navigate towards and invade human intestinal epithelium.",
+    "journal": "Nature Reviews Microbiology",
+    "doi": "10.1038/s41579-026-01397-6",
+    "date": "2026-11-17",
+    "authors": "Andrea Du Toit",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41579-026-01397-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nrmicro.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5126,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.nature.com/nrmicro.rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1038/s41579-026-01397-6"
+    ]
+  },
+  {
+    "id": "10.1038/s41579-026-01393-w",
+    "title": "Artificial intelligence for antibiotic discovery and design",
+    "abstract": "In this Review, Collins and colleagues explore recent advances in small-molecule antibiotic discovery enabled by artificial intelligence, highlighting recent artificial intelligence-driven advancements in phenotypic antibiotic discovery, mechanism of action elucidation, target-based discovery, de novo molecular design and lead optimization.",
+    "journal": "Nature Reviews Microbiology",
+    "doi": "10.1038/s41579-026-01393-w",
+    "date": "2026-11-17",
+    "authors": "James J. Collins",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41579-026-01393-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nrmicro.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5127,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.nature.com/nrmicro.rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1038/s41579-026-01393-w"
+    ]
+  },
+  {
+    "id": "10.1093/gbe/evag281",
+    "title": "Generative continuous time model reveals epistatic signatures in protein evolution",
+    "abstract": "AbstractProtein evolution is fundamentally shaped by epistasis, where the effect of a mutation depends on the sequence context. As standard phylogenetic methods assume independently evolving sites, there is a need for more complex models based on accurate estimations of the fitness landscape. Good candidates are modern generative models – such as the Potts model – which successfully capture epistatic effects. However, recent works on generative evolutionary models usually use discrete time, making them difficult to integrate with the standard frameworks in evolutionary biology. We introduce a continuous-time sequence evolution model using the Gillespie algorithm and parameterized by a generative Potts model. This approach enables us to simulate realistic, family-specific evolutionary trajectories and allows for direct comparison with independent-site models. Surprisingly, we find that while epistasis significantly slows down evolution, it does not change the average evolutionary rates at individual sites. This is explained by the rate heterogeneity caused by context-dependence: we show that the rate at some positions varies between null to high values depending on the context, while other positions are essentially independent from the context. Finally, we show that epistasis leads to a systematic underestimation bias in the inference of evolutionary distance between sequences. Overall, our work provides a new tool for simulating realistic protein evolution and offers novel insights into the complex interplay between epistasis and evolutionary dynamics.",
+    "journal": "Genome Biology and Evolution",
+    "doi": "10.1093/gbe/evag281",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evag281/9078923?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "gene",
+        "protein",
+        "sequence",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5281/advanceAccess_3147.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5128,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5281/advanceAccess_3147.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/gbe/evag281"
+    ]
   }
 ]

@@ -913,6 +913,13 @@
     ]
   },
   {
+    "name": "Biologia futura",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Biologics : targets & therapy",
     "scope": [
       "genomics",
@@ -4569,6 +4576,13 @@
     ]
   },
   {
+    "name": "Journal of clinical nursing",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of clinical periodontology",
     "scope": [
       "genomics",
@@ -5885,6 +5899,20 @@
     ]
   },
   {
+    "name": "Methods in enzymology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "MethodsX",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Microbial Biotechnology",
     "scope": [
       "genomics",
@@ -6470,6 +6498,13 @@
     ]
   },
   {
+    "name": "Nature cell biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Nature Communications",
     "scope": [
       "ecology",
@@ -6572,6 +6607,13 @@
   },
   {
     "name": "Neoplasma",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Neural networks : the official journal of the International Neural Network Society",
     "scope": [
       "genomics",
       "microbiology"
@@ -6859,6 +6901,13 @@
   },
   {
     "name": "Open forum infectious diseases",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Ophthalmology and therapy",
     "scope": [
       "genomics",
       "microbiology"
