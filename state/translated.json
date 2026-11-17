@@ -288166,5 +288166,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ミネソタ州の臨床用<i>Campylobacter jejuni</i>分離株における病原性および薬剤耐性決定因子の全ゲノムに基づく特性解析（2018-2021年）",
     "abstract_ja": "Campylobacter jejuniは、世界的に食中毒性胃腸炎の主要な原因となっており、フルオロキノロン系およびマクロライド系薬剤に対する耐性の増加により、米国疾病予防管理センター（CDC）によって深刻な公衆衛生上の脅威として分類されている。本研究では、全ゲノムシーケンシングを用いて、2018年から2021年にかけてミネソタ州住民から採取された2,783株の臨床用C. jejuni分離株（糞便由来98.4%、感染源不明1.2%、血液由来0.4%、直腸スワブ由来1株）の病原性および薬剤耐性プロファイルを解析した。分離株の90%以上に、ストレス防御（rpoNおよびhtrB）、細胞致死性拡張毒素（cdtA、cdtB、およびcdtC）、ならびに細胞接着・侵入（ciaB、cadF、およびflaC）に関連する遺伝子が認められた。多種多様な薬剤耐性遺伝子が検出され、特にβ-ラクタム系耐性遺伝子の頻度が高かった。キノロン系耐性に関連するgyrA点変異は分離株の29%に認められ、T861置換が最も頻度が高かった。表現型的には、テトラサイクリン系耐性が最も一般的（52.3%）であり、次いでキノロン系耐性（30.7%）であった。一方、他の薬剤クラスであるマクロライド系（2.4%）およびアミノグリコシド系（1.8%）への耐性は稀であった。遺伝子型と表現型の薬剤耐性プロファイルの相関を評価するため、一部の分離株における薬剤感受性試験の結果を遺伝子型耐性プロファイルと比較した。その結果、特にテトラサイクリン系およびキノロン系において強い全体的な相関が認められたが、24件の不一致が検出された。不一致の大部分（n = 21）では、表現型的に耐性を示す分離株においてゲノム上の薬剤耐性マーカーが欠如しており、未知の耐性メカニズムが存在するか、あるいは現在のシーケンシング解析手法に限界があることが示唆された。残りの3件の不一致は、tet(O)耐性遺伝子を保有しながらも表現型的にはテトラサイクリン系に感受性を示す分離株で認められた。これらの知見は、薬剤耐性サーベイランスの改善およびC. jejuniにおける病原性関連因子の理解における全ゲノムシーケンシングの有用性を強調するものであり、食中毒性病原体における薬剤耐性をより適切に管理し理解するための、日常的なモニタリング体制への導入を支持するものである。重要性 本研究は、日常的な食中毒サーベイランスを通じて得られた全ゲノムシーケンシング（WGS）データを用いて、Campylobacter分離株の病原性および薬剤耐性プロファイルを解析した。また、一部の分離株に対して表現型薬剤感受性試験を実施し、耐性パターンの評価および遺伝子型と表現型の一致度の検証を行った。この比較は、WGSで検出された耐性決定因子を用いて薬剤感受性を予測することの信頼性と限界に関する重要な根拠を提供する。5年間にわたって蓄積されたサーベイランスデータは、米国ミネソタ州における循環するCampylobacter株に関する包括的な集団レベルの理解を提供し、経時的な変化をモニタリングするための重要な地域的ベースラインを確立する。これらの知見を全国的なサーベイランスデータと比較することで、地理的な類似点と相違点を特定でき、公衆衛生上の意思決定および薬剤適正使用管理にとって価値ある地域的背景を提供することができる。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1986400",
+    "title": "Chromosomal blaNDM-4 in dominant ST16 and chromosomal blaKPC-2 in emerging ST5815 carbapenem-resistant Klebsiella pneumoniae in southern Vietnam: a prospective clinical-genomic epidemiology study",
+    "abstract": "ObjectivesCarbapenem-resistant Klebsiella pneumoniae (CRKP) poses a critical global threat. We characterized the genomic epidemiology as well as resistome architecture of CRKP at a Vietnamese tertiary referral hospital and assessed their association with clinical characteristics.MethodsA prospective observational study of 102 clinical isolates [74 CRKP, 28 carbapenem-susceptible (CSKP)] was conducted at Thong nhat hospital, a 1,200-bed tertiary referral and teaching hospital with a specialized geriatric centre in Ho Chi Minh City, Vietnam. Long-read Oxford Nanopore whole-genome sequencing (WGS) was integrated with clinical characteristics data and phenotypic antimicrobial susceptibility profiles.ResultsThe CRKP population was dominated by a highly clonal ST16 lineage (62.2%, 46/74). Long-read assemblies revealed chromosomal integration of blaNDM-4 in 16/30 ST16 carriers, previously unreported in Vietnamese CRKP, alongside parallel chromosomal stabilization of blaKPC-2 within an emerging ST5815 clone (8/9 isolates). Carriage of multiple carbapenemase genes independently predicted adverse clinical outcomes (aOR 4.64, 95% CI 1.18–25.86; p = 0.017).ConclusionThe convergent chromosomal stabilization of blaNDM-4 in ST16 and blaKPC-2 in ST5815 marks a critical evolutionary shift in Vietnamese CRKP. Carriage of multiple carbaepenemase genes was associated with poor clinical outcomes, supporting integrated genomic surveillance to guide clinical management and regional infection control.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1986400",
+    "date": "2026-11-17",
+    "authors": "Seok Hoon Jeong",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1986400",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5049,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1986400"
+    ],
+    "translation": {
+      "title": {
+        "hash": "005f5ded8bac556babe4b51e8ed8b265e5c98282495d6fe67691d1cf27e2dce2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:59:38.894402+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6c570be706c29583662bc9fa43dde657be18be254d78f86dd89264349ffd141d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:59:38.894402+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ベトナム南部で出現したST16優性型の染色体blaNDM-4およびST5815カルバペネム耐性Klebsiella pneumoniaeの染色体blaKPC-2：前向き臨床ゲノム疫学研究",
+    "abstract_ja": "目的カルバペネム耐性肺炎桿菌（CRKP）は、世界的に重大な脅威となっている。本研究では、ベトナムの三次紹介病院においてCRKPのゲノム疫学およびレジストーム構造を特性評価し、それらと臨床的特徴との関連性を評価した。方法ベトナム・ホーチミン市の、専門の老年医学センターを併設する1,200床規模の三次紹介・教育病院であるThong Nhat病院において、102株の臨床分離株［CRKP 74株、カルバペネム感受性（CSKP）28株］を対象とした前向き観察研究を実施した。ロングリードOxford Nanopore全ゲノムシーケンシング（WGS）の結果を、臨床的特徴データおよび表現型抗菌薬感受性プロファイルと統合した。結果CRKP集団は、高度にクローナルなST16系統（62.2%、46/74株）が支配的であった。ロングリードアセンブリにより、ベトナムのCRKPではこれまで報告されていなかったblaNDM-4の染色体組み込みがST16保菌者30株中16株で認められたほか、新興のST5815クローン（9株中8株）においてblaKPC-2の並行的な染色体安定化が認められた。複数のカルバペネマーゼ遺伝子の保有は、独立して不良な臨床転帰を予測した（aOR 4.64, 95% CI 1.18–25.86; p = 0.017）。結論ST16におけるblaNDM-4およびST5815におけるblaKPC-2の収束的な染色体安定化は、ベトナムのCRKPにおける重大な進化的転換を示すものである。複数のカルバペネマーゼ遺伝子の保有は不良な臨床転帰と関連しており、臨床管理および地域の感染制御の指針となる統合的なゲノムサーベイランスの有用性が支持された。"
+  },
+  {
+    "id": "10.1186/s13059-026-04336-z",
+    "title": "MitoScope: a comprehensive mitochondrial genome analysis workflow for long-read sequencing data",
+    "abstract": "The mitochondrial genome (mtDNA), rich in repeats and prone to nuclear mitochondrial DNA segments (NUMTs), is implicated in cancer, metabolic syndromes, and neurodegeneration, yet short-read sequencing yields incomplete catalogs, mapping artifacts, and false heteroplasmies. We introduce MitoScope, a scalable end-to-end long-read mitochondrial analysis workflow that integrates mtDNA-read selection, heteroplasmic variant detection, assembly, copy number estimation, read-level haplotyping, and NUMT profiling. Applied to benchmarking data from the Somatic Mosaicism across Human Tissues (SMaHT) Network, we reveal high sensitivity and precision compared to existing methods and successfully uncover known mitochondrial biology relevant for variant interpretation, aging, and human disease.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04336-z",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04336-z",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "sequencing",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5067,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1186/s13059-026-04336-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3f9b54e5a05c3c4d26bbf5c50f15d513965b9f2c07b14dcbe099aca9c0ccdada",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:59:38.894402+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "89fb7e19e4451d9f2933dc617ed5a53703906900893fd73c685762f5831f3edf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:59:38.894402+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MitoScope: ロングリードシーケンシングデータ向けの包括的なミトコンドリアゲノム解析ワークフロー",
+    "abstract_ja": "反復配列に富み、核内ミトコンドリアDNAセグメント（NUMTs）を生じやすいミトコンドリアゲノム（mtDNA）は、がん、メタボリックシンドローム、および神経変性疾患に関与しているが、ショートリードシーケンシングでは不完全なカタログ、マッピングアーティファクト、および偽ヘテロプラスミーが生成される。本研究では、mtDNAリードの選択、ヘテロプラスミー変異の検出、アセンブリ、コピー数推定、リードレベルのハプロタイピング、およびNUMTプロファイリングを統合した、スケーラブルなエンドツーエンドのロングリード・ミトコンドリア解析ワークフロー「MitoScope」を提案する。Somatic Mosaicism across Human Tissues (SMaHT) Networkのベンチマークデータに適用した結果、既存手法と比較して高い感度と精度を示し、変異の解釈、老化、およびヒト疾患に関連する既知のミトコンドリア生物学的知見を明らかにすることに成功した。"
+  },
+  {
+    "id": "10.1093/nargab/lqag135",
+    "title": "Distribution of prophage-encoded pas sRNA genes across pathogenic Escherichia coli",
+    "abstract": "AbstractNumerous base pairing small RNAs (sRNAs), which are an integral part of regulatory networks in bacteria, are encoded on mobile genetic elements (MGEs) in pathogenic Escherichia coli strains. These sRNAs help coordinate expression of MGE-encoded virulence factors with core genome-encoded pathways. To investigate the evolution of MGE-encoded sRNAs, we queried public databases to characterize the distribution of the genes encoding PasA, PasB, PasC, PasD1, and PasD2, five prophage-encoded sRNAs discovered in enteropathogenic E. coli. We find that while the pas genes are largely restricted to pathogenic lineages of Escherichia and Shigella, they exhibit diversity in sequence, genomic distribution, and copy number across strains. Phylogenetic analyses indicate that pas genes were acquired independently in multiple lineages and are associated with specific E. coli pathovars, consistent with horizontal acquisition followed by retention and diversification. Synteny suggests a phage origin for pas genes, likely from Shiga-toxin encoding phages, but the genes appear to have diverged after integration into bacterial chromosomes. Comparative and structural analyses further suggest that the PasA and PasC sRNAs share a common evolutionary origin, while PasD and STnc100, another prophage-encoded sRNA, share structural elements. These findings provide further insight into the emergence, diversification, and evolutionary persistence of accessory genome-encoded sRNAs.",
+    "journal": "NAR Genomics and Bioinformatics",
+    "doi": "10.1093/nargab/lqag135",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqag135/9079905?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6220/4033.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5047,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_6220/4033.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nargab/lqag135"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ad3fd92c85cc665c39736946d0291625f022cfcb48c3b362854d0df91f349447",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:59:38.894402+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b8b3c08bcacaad10518dab554369f034d88d289cc46321640030a3becd4d72c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:59:38.894402+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "病原性大腸菌におけるプロファージ符号化pas sRNA遺伝子の分布",
+    "abstract_ja": "要旨 細菌の調節ネットワークの不可欠な構成要素である数多くの塩基対形成型小分子RNA（sRNA）は、病原性大腸菌株の可動性遺伝要素（MGE）にコードされている。これらのsRNAは、MGEにコードされた病原因子の発現を、コアゲノムにコードされた経路と協調させる役割を果たす。MGEにコードされたsRNAの進化を調べるため、我々は公開データベースを検索し、腸管病原性大腸菌で発見された5種類のプロファージコードsRNAであるPasA、PasB、PasC、PasD1、およびPasD2をコードする遺伝子の分布特性を明らかにした。その結果、pas遺伝子は主に大腸菌および赤痢菌の病原性系統に限定されているものの、菌株間で配列、ゲノム分布、およびコピー数に多様性が認められることが分かった。系統解析により、pas遺伝子は複数の系統で独立して獲得され、特定の大腸菌病原株に関連していることが示され、これは水平伝播に続く保持および多様化と整合する。シンテニー解析は、pas遺伝子がおそらく志賀毒素をコードするファージに由来するファージ起源であることを示唆しているが、これらの遺伝子は細菌染色体への組み込み後に分岐したと考えられる。比較解析および構造解析により、PasAおよびPasC sRNAは共通の進化的起源を持つ一方、PasDおよび別のプロファージコードsRNAであるSTnc100は構造要素を共有していることがさらに示唆された。これらの知見は、アクセサリーゲノムにコードされたsRNAの出現、多様化、および進化的な持続性に関するさらなる洞察を与えるものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1192",
+    "title": "X-BCRdb: a cross-disease BCR-paired single-cell database for B-lineage-cell clonotype-transcriptome analysis",
+    "abstract": "AbstractB cells and their clonally rearranged B-cell receptors (BCRs) form the cellular and molecular basis of humoral immunity. Single-cell RNA sequencing coupled with V(D)J profiling now enables BCR clonotypes to be linked directly to B-cell transcriptional states; however, existing immune-receptor resources are often T-cell/TCR-oriented or limited in BCR-specific analytical depth. Here, we present X-BCRdb, a cross-disease single-cell database for integrated analysis of BCR repertoires, B-cell transcriptional states, and clonal evolution. The current release harmonizes 61 studies, 1401 samples, and 903 subjects across 45 disease or physiological categories and 13 tissue groups. It contains 2 402 995 processed B-lineage cells, including 1 565 870 cells with matched transcriptome and BCR information, and 3 993 244 annotated BCR records. A unified analytical workflow supports standardized B-cell annotation and BCR repertoire characterization, including clonotype assignment, SHM profiling, isotype analysis, VH/VL pairing, lineage reconstruction, and public clonotype analysis. The web interface links these receptor features with B-cell transcriptional states across individual samples, studies and diseases, and provides global CDR3 similarity search, data download, and API access. X-BCRdb is freely available at https://xbcrdb.net/ and provides a systematic platform for studying disease-associated B-lineage-cell responses and facilitating the prioritization of candidate BCR sequences for downstream antibody discovery and functional validation.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1192",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1192/9079909?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5040,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1192"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af00f2cc4ca4ece893ef45925a55ae6ffcd79430659e1b4ddbd51a66d907fc46",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:59:38.894402+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "99a560c1e3f439b9a9ca820b6feb36bbfa3dc13ed0621fb9431fc7d9dd0147be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:59:38.894402+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "X-BCRdb: B系統細胞のクローンタイプ・トランスクリプトーム解析のための疾患横断的BCRペア単一細胞データベース",
+    "abstract_ja": "要旨B細胞およびそのクローン再構成B細胞受容体（BCR）は、液性免疫の細胞的・分子的基盤を構成している。シングルセルRNAシーケンシングとV(D)Jプロファイリングを組み合わせることで、現在ではBCRクローンタイプをB細胞の転写状態に直接紐付けることが可能となっている。しかし、既存の免疫受容体リソースはT細胞/TCR中心であるか、あるいはBCR特異的な解析深度が限られていることが多い。本報では、BCRレパトア、B細胞の転写状態、およびクローン進化の統合解析を目的とした、疾患横断的なシングルセルデータベース「X-BCRdb」を提案する。今回のリリースでは、45の疾患・生理学的カテゴリーおよび13の組織群にわたる61の研究、1,401サンプル、903被験者を統合した。本データベースには、トランスクリプトームおよびBCR情報が照合された1,565,870細胞を含む2,402,995個の処理済みB系細胞と、アノテーション済みのBCRレコード3,993,244件が収録されている。統一された解析ワークフローにより、クローンタイプの割り当て、SHMプロファイリング、アイソタイプ解析、VH/VLペアリング、系統再構築、および公開クローンタイプ解析を含む、標準化されたB細胞アノテーションとBCRレパトアの特性解析が可能となる。ウェブインターフェースでは、これらの受容体特徴を個々のサンプル、研究、疾患にわたるB細胞の転写状態と紐付け、グローバルなCDR3類似性検索、データダウンロード、およびAPIアクセスを提供している。X-BCRdbはhttps://xbcrdb.net/にて無料で利用可能であり、疾患関連のB系細胞応答を研究するための体系的なプラットフォームを提供するとともに、ダウンストリームの抗体探索および機能検証に向けた候補BCR配列の優先順位付けを容易にする。"
   }
 ]
