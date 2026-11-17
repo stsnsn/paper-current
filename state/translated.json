@@ -290153,5 +290153,293 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "高齢者の認知機能障害研究における腸内細菌叢の現状と動向",
     "abstract_ja": "背景 世界人口の高齢化が加速する中、高齢者における認知機能障害は公衆衛生上の重大な懸念事項となっている。思考、学習、および記憶能力の低下により、日常生活や社会機能に支障が生じる状態を認知機能障害と呼ぶ。近年、腸内細菌叢と認知機能低下の関連性に大きな関心が寄せられている。しかし、急速に拡大するこの学際的分野では知識構造がますます複雑化しており、既存のエビデンスは極めて断片的で、方法論的およびサンプルサイズ上の重大な制約を抱えている。目的 本研究ではビブリオメトリクスの視点を採用し、当該分野の現状と発展傾向を要約・概説することで、後続研究のための参照枠組みと提言を提示する。方法 Web of Science Core Collection (WoSCC) データベースおよびScopusデータベースを基盤とした。WoSCCデータベースでは、1995年から2025年9月8日までの高齢者の腸内細菌叢と認知機能障害に関する文献を検索した。同様に、Scopusデータベースにおいても1995年から2025年までの関連文献を検索した。ビブリオメトリクス解析はVOSviewerソフトウェアを用いて実施し、国、機関、著者、学術誌、キーワード、引用に関するデータを検証し、ビジュアルマップを作成した。結果 WoSCCデータベースから、計406件の関連論文が抽出された。全体的な出版傾向は増加傾向にある。中国は論文発表数が最も多い国であり、発表数においては南京医科大学と浙江大学が共同でトップの機関となっている。一方、WOSデータベースでは、Hariom Yadavが最も多産な著者であり、Luo Ailinが総リンク強度において最高値を示した。Scopusデータベースでは、Zhang, Yが最も多産な著者であり、Hisada, Tらの総リンク強度が最高値であった。最も頻出するキーワードは腸内細菌叢であり、次いでアルツハイマー病、加齢、プロバイオティクス、認知症、神経炎症であった。加えて、Scopusデータベースからは計180件の関連文献が抽出された。その中で最も頻出するキーワードは、腸内フローラ、加齢、認知機能障害、認知、および消化管マイクロバイオームであった。結論 腸内細菌叢と認知機能障害の関係に関する研究は着実に進展しているが、異なる地域の著者や機関間の連携を強化する必要性が依然として残っている。腸内細菌叢の作用機序をさらに探究するためには、継続的な相互作用と交流が不可欠である。特定された研究のホットスポットとギャップに基づき、今後の研究では、マルチオミクスアプローチを統合して潜在的なバイオマーカーや栄養介入戦略を探索することが有益であると提案する。ただし、これらの方向性は依然として推測の域を出ておらず、厳格な実験的および臨床的研究を通じて追求されるべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1929307",
+    "title": "Long-read sequencing of clinical multidrug-resistant <i>Mycobacterium tuberculosis</i> reveals a novel <i>ethA</i> structural variant conferring ethionamide resistance.",
+    "abstract": "Multidrug-resistant Mycobacterium tuberculosis (MDR-MTB) poses a major obstacle to global tuberculosis control. Although whole-genome sequencing (WGS) has advanced the detection of resistance-associated mutations, the contribution of structural variants (SVs) remains inadequately characterized due to the inherent limitations of short-read sequencing technologies in resolving repetitive genomic regions and large insertions or deletions. We applied Oxford Nanopore long-read sequencing to clinical MDR-MTB isolates and susceptible controls, complemented by Illumina short-read sequencing. Variants were identified using BCFtools and independently validated with SVIM-asm. Candidate resistance mutations were mapped against the 2023 World Health Organization (WHO) mutation catalogue. Functional validation of identified SVs was performed through heterologous expression in Mycobacterium smegmatis, minimum inhibitory concentration determination, Western blotting, and AlphaFold 3-based structural modeling. We identified two unclassified SVs within WHO-catalogued resistance genes: an IS6110 insertion in Rv0678 (c.59_60ins1358bp, p.Gln22fs) and a 131-bp deletion in ethA (c.135_265del, p.Trp45fs). While IS6110-mediated disruption of Rv0678 has been previously associated with bedaquiline resistance, the ethA deletion represents a previously undescribed SV. Heterologous expression of the ethA deletion in Mycobacterium smegmatis conferred a 16-fold increase in the minimum inhibitory concentration of ethionamide (256 μg/mL vs. 16 μg/mL for wild-type), and AlphaFold 3 structural prediction provided a structural rationale for the loss of the C-terminal domain essential for monooxygenase activity. This study identifies a novel ethA SV conferring ethionamide resistance and provides functional validation of a specific Rv0678 IS6110 insertion allele, demonstrating the power of long-read sequencing to uncover both known and novel mechanisms of drug resistance in MDR-MTB.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1929307",
+    "date": "2026-10-27",
+    "authors": "Wang Q, Geng Y, Wu L, Xia D, Li R, Hu B, Gao S, Lu J, Dai J, Xu F, Zheng X, Xiang G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43032569",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43032569",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5025,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1929307"
+    ],
+    "translation": {
+      "title": {
+        "hash": "44f8d6050f7e186fb147603b3a0eae8a3b9da8751e9b1247cedcd69ccbd78bd1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:23:20.918755+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e5cfab0fac46e9ba17bd7f04553a3ed73c062fd9676eb949ce0ec5dde46ab393",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:23:20.918755+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "臨床用多剤耐性<i>Mycobacterium tuberculosis</i>のロングリードシーケンシングにより、エチオナミド耐性を付与する新規<i>ethA</i>構造変異が明らかになった。",
+    "abstract_ja": "多剤耐性結核菌（MDR-MTB）は、世界的な結核対策における大きな障壁となっている。全ゲノムシーケンシング（WGS）により耐性関連変異の検出は進展したが、反復的なゲノム領域や大規模な挿入・欠失の解析におけるショートリードシーケンシング技術固有の限界により、構造変異（SV）の寄与については依然として十分に解明されていない。本研究では、臨床的なMDR-MTB分離株および感受性対照株に対し、Oxford Nanoporeロングリードシーケンシングを適用し、Illuminaショートリードシーケンシングを併用した。変異の同定にはBCFtoolsを用い、SVIM-asmを用いて独立して検証した。候補となる耐性変異については、2023年版世界保健機関（WHO）変異カタログを用いてマッピングを行った。同定されたSVの機能的検証は、Mycobacterium smegmatisにおける異種発現、最小発育阻止濃度の決定、ウェスタンブロッティング、およびAlphaFold 3に基づく構造モデリングを通じて実施した。WHOカタログの耐性遺伝子内に、未分類のSVを2つ同定した。すなわち、Rv0678におけるIS6110挿入（c.59_60ins1358bp, p.Gln22fs）と、ethAにおける131塩基の欠失（c.135_265del, p.Trp45fs）である。IS6110を介したRv0678の機能破壊はこれまでベダキリン耐性との関連が指摘されていたが、ethAの欠失はこれまで報告のないSVである。Mycobacterium smegmatisにおけるethA欠失の異種発現により、エチオナミドの最小発育阻止濃度が16倍に上昇し（野生型：16 μg/mLに対し、256 μg/mL）、AlphaFold 3による構造予測によって、モノオキシゲナーゼ活性に必須なC末端ドメインの喪失に関する構造的な根拠が示された。本研究は、エチオナミド耐性を付与する新規のethA SVを同定し、特定のRv0678 IS6110挿入アレルの機能的検証を行ったことで、MDR-MTBにおける既知および新規の薬剤耐性メカニズムの双方を明らかにするロングリードシーケンシングの有用性を実証した。"
+  },
+  {
+    "id": "10.64898/2026.11.13.766362",
+    "title": "Capsular surveillance-guided phage cocktails against carbapenem-resistant Klebsiella pneumoniae",
+    "abstract": "Carbapenem-resistant Klebsiella pneumoniae (CRKP) is among the most urgent antimicrobial-resistance threats, yet its extraordinary capsular diversity has kept phage therapy locked in per-isolate matching-a process too slow and labor-intensive for routine use. Here we convert this specificity problem into a look-up problem. Interrogating 26,138 CRKP genomes from 96 countries, we show that capsular diversity collapses onto a tractable target list: 14 capsular locus (KL) types dominate contemporary circulation and jointly account for 67-77% of the CRKP burden in every WHO region, stably from 2010 to 2024 and after removal of sampling bias. We assembled a repository of 48 strictly lytic phages spanning all 14 types and organized it into capsule-defined modules: for eight KL types a single capsule-targeting phage sufficed to prevent resistant regrowth over 24 h, and for the remaining six a two-phage module pairs a capsule-targeting phage with a capsule-independent phage that recognizes the second receptor layer exposed upon capsule loss. We treated 28 clinical isolates, covering two distinct STs for each of the 14 KL types. Modules were assigned from the KL call alone, without isolate-level matching data. Growth was suppressed in every strain, and ST background had no significant effect in 12 of 14 types. These results establish capsule type, not lineage, as the operative unit of CRKP phage preparedness: a single rapid KL-typing step converts a diagnostic result into a therapeutic decision, providing a practical, lineage-agnostic route from surveillance to treatment.",
+    "journal": "",
+    "doi": "10.64898/2026.11.13.766362",
+    "date": "2026-11-17",
+    "authors": "WANG, C., Nie, J., Wei, M., Tian, X., Sun, Y., Zeng, Y., Wei, D., Song, Y., Zhang, G., Chu, X., Yang, Q., Zhou, Z., Wu, L., Feng, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766362v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5068,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.13.766362"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b82c6f13d4492ebdba9dd42d9ec34b796c7bc0e9166f1979d588d03b47272b59",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:23:20.918755+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8753ca585da219ea6e77a330b30809b175d47a7789275914005f099754c3f035",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:23:20.918755+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カルバペネム耐性肺炎桿菌に対する莢膜サーベイランス誘導型ファージカクテル",
+    "abstract_ja": "カルバペネム耐性肺炎桿菌（CRKP）は、最も喫緊の薬剤耐性脅威の一つであるが、その極めて多様な莢膜特性により、ファージ療法は分離株ごとのマッチングという、日常的な運用には時間がかかり労力を要するプロセスに縛られてきた。本研究では、この特異性の問題をルックアップ問題へと転換する。96カ国から得られた26,138株のCRKPゲノムを解析した結果、莢膜の多様性は扱いやすい標的リストへと集約されることを示した。すなわち、14種類の莢膜遺伝子座（KL）が現在の流行において支配的であり、サンプリングバイアスを除去した2010年から2024年までのあらゆるWHO地域において、CRKP負荷の67～77%を共同で占めている。我々は、全14タイプを網羅する48種類の厳密な溶菌性ファージのリポジトリを構築し、これを莢膜定義型モジュールに整理した。8種類のKLについては、単一の莢膜標的ファージで24時間以内の耐性菌の再増殖を阻止でき、残りの6種類については、2種類のファージからなるモジュールにより、莢膜標的ファージと、莢膜喪失時に露出する第2受容体層を認識する莢膜非依存性ファージを組み合わせた。14種類のKLそれぞれについて2つの異なるSTを網羅する28株の臨床分離株を処理した。モジュールの割り当ては、分離株レベルのマッチングデータを用いず、KLコールのみに基づいて行った。すべての菌株で増殖が抑制され、14タイプ中12タイプにおいてST背景による有意な影響は認められなかった。これらの結果は、CRKPファージの準備態勢における運用単位が、系統ではなく莢膜タイプであることを立証するものである。すなわち、単一の迅速なKLタイピング工程によって診断結果を治療方針の決定へと転換でき、サーベイランスから治療に至る系統に依存しない実用的なルートを提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.15.766778",
+    "title": "Treponema pallidum eight-stranded beta-barrels: an evolving, versatile family of outer membrane proteins in the service of stealth pathogenicity.",
+    "abstract": "Syphilis is a multistage sexually transmitted infection caused by the highly invasive and immunoevasive spirochete Treponema pallidum (TPA). TPA depends on the import of many host-derived nutrients to sustain its auxotrophic lifestyle. Moreover, its invasive nature requires interactions with diverse host molecules to successfully disseminate and persist. The outer membrane proteins (OMPs) mediating these processes remain largely uncharacterized. In other bacteria, 8-stranded {beta}-barrels (8S{beta}Bs) perform such functions, including nutrient uptake and host interactions. Here, we investigated the composition, structural diversity and evolutionary dynamics of the 8S{beta}B family in TPA. Reexamination of the TPA OMPeome revealed four previously unrecognized members in addition to the four known 8SBs, expanding the family to eight members. Based on RNAseq, all eight were transcribed in treponemes harvested from rabbit testes. Predicted structures revealed substantial differences in channel properties and extracellular loop (ECL) architecture, consistent with functional diversification. AlphaFold 3 modeling predicted interactions with diverse host molecules implicated in nutrient uptake, adherence, and immune regulation, providing testable hypotheses for the functional specialization of individual 8SBBBs. Despite containing predicted B-cell epitopes, most TPA 8S{beta}B ECLs exhibited limited antigenicity during rabbit infection. Analysis of global clinical strains revealed distinct patterns of sequence variation across the 8S{beta}B family, although most were highly conserved and appeared to be under purifying selection. Variation within hypermutable intragenic polyguanosine tracts emerged as an additional potential mechanism for modulating 8S{beta}B repertoire composition. Our findings highlight the 8S{beta}B family as an important component of the molecular architecture underlying TPA stealth pathogenicity and reveal an ongoing mechanism through which the spirochete diversifies its OMP repertoire within circulating populations.",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766778",
+    "date": "2026-11-17",
+    "authors": "Bettin, E. B., Aghakhanian, F., Vannest, B. D., Grassmann, A. A., Parr, J. B., Hawley, K. L., Radolf, J. D., Caimano, M. J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766778v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5069,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.15.766778"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f5dbec18550258ae3ad51a209dee7f122aa5dc4aa86409a825a24f083a7ff645",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:23:20.918755+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "72276d7590f4b7164e182edf43489cb1b171e32949529c267a9566cd0699dafa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:23:20.918755+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Treponema pallidumの8本鎖βバレル：ステルス病原性を担う、進化し続ける多機能な外膜タンパク質ファミリー。",
+    "abstract_ja": "梅毒は、極めて侵襲性が高く免疫回避能を有するスピロヘータであるトレポネーマ・パリダム（TPA）によって引き起こされる多段階性の性感染症である。TPAは、その栄養要求性の生活様式を維持するために、宿主由来の多くの栄養素の取り込みに依存している。さらに、その侵襲的な性質から、正常に拡散し生存するためには多様な宿主分子との相互作用が必要となる。これらの過程を媒介する外膜タンパク質（OMPs）の大部分は、未だ解明されていない。他の細菌では、8本鎖{β}バレル（8S{β}Bs）が栄養取り込みや宿主との相互作用を含むこうした機能を担っている。本研究では、TPAにおける8S{β}Bファミリーの組成、構造的多様性、および進化動態について調査した。TPA OMPomeを再解析した結果、既知の4種類の8SBsに加え、これまで認識されていなかった4種類のメンバーが明らかになり、ファミリーは8種類に拡大した。RNAseqに基づき、ウサギ精巣から採取したトレポネーマにおいて、これら8種類すべてが転写されていることが確認された。予測構造からは、チャネル特性および細胞外ループ（ECL）構造に顕著な差異が認められ、これは機能的な多様化と一致していた。AlphaFold 3によるモデリングでは、栄養取り込み、付着、および免疫調節に関与する多様な宿主分子との相互作用が予測され、個々の8SBBBsの機能的特化に関する検証可能な仮説が提示された。予測されたB細胞エピトープを含んでいるにもかかわらず、ほとんどのTPA 8S{β}B ECLは、ウサギ感染において限定的な抗原性しか示さなかった。世界的な臨床株の解析により、8S{β}Bファミリー間で配列変異の明確なパターンが認められたが、その大部分は高度に保存されており、浄化選択を受けていると考えられた。超変異性の遺伝子内ポリグアノシントラクトにおける変異は、8S{β}Bレパートリー組成を調節する追加的な潜在的メカニズムとして浮上した。本研究の知見は、8S{β}BファミリーがTPAのステルス病原性の基盤となる分子構造の重要な構成要素であることを浮き彫りにし、本スピロヘータが循環集団内でOMPレパートリーを多様化させる継続的なメカニズムを明らかにするものである。"
+  },
+  {
+    "id": "10.64898/2026.11.16.767098",
+    "title": "Sugar alternatives shift the evolutionary trajectory of fluoride resistance in cariogenic and non-cariogenic dental bacteria",
+    "abstract": "Dental caries result from acidogenic biofilms dissolving enamel while growing on fermentable dietary sugars. While fluoride from toothpastes and professional products is widely used for caries control, sugar alternatives with inhibitory effects on some dental microbiota (e.g., erythritol and xylitol) instead reduce the cariogenicity of foods and act as prebiotics, often in combination with of fluoride, to control caries progression. Despite their growing prevalence, we do not understand how frequent exposure to sugar alternatives impacts the evolutionary pressures faced by oral bacteria. Herein, we tested the effects of carbon source (glucose, sorbitol, erythritol, or xylitol) on the modes and effectiveness of evolving fluoride resistant cariogenic (S. mutans) and non-cariogenic (S. gordonii) populations. For S. gordonii, evolving in glucose resulted in significantly more non-synonymous mutations compared to populations evolving in sugar alternatives (erythritol, sorbitol, xylitol), but without a drastic increase in fluoride resistance. Contrastingly, for cariogenic S. mutans, evolving in the presence of fermentable sugars resulted in much greater fluoride resistance, but without higher numbers of substitutions relative to those found in isolates from populations evolved in the presence of non-fermentable sugars. We observed previously unreported fluoride resistance mutations across carbon conditions, including a case of parallel evolution in the histone-like binding protein (smu_589) in S. mutans isolates evolved in environments with fluoride and a variety of sugar alternatives. Together, these results demonstrate that commonly used sugar alternatives can shape the evolutionary trajectory of dental microbiota to a broad stressor, such as fluoride.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.767098",
+    "date": "2026-11-17",
+    "authors": "Shay, M. R., Eakin, M. A., Stockbridge, R. B., Tenuta, L. M., Lin, X. N., Wood, K. B., Zaman, L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767098v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5070,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.16.767098"
+    ],
+    "translation": {
+      "title": {
+        "hash": "63328e2ec899980f17e51aff5244c02a97093fcb0ab4d0f58bc6ab70fb0d2b4d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:23:20.918755+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7463b0786a9911d22d7ec813a62e7441ee1885f87621d92701e3ba00edf5f94f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:23:20.918755+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糖代替物は、う蝕原性および非う蝕原性歯科細菌におけるフッ化物耐性の進化的軌跡を変化させる。",
+    "abstract_ja": "齲蝕は、酸産生性バイオフィルムが発酵可能な食事性糖類を栄養源として増殖しながらエナメル質を溶解することによって生じる。齲蝕制御には歯磨き粉や歯科用製品に含まれるフッ化物が広く用いられているが、一部の歯科微生物叢に対して抑制効果を持つ糖代替物（例：エリスリトールやキシリトール）は、むしろ食品の齲蝕原性を低下させ、しばしばフッ化物と併用してプレバイオティクスとして作用することで齲蝕の進行を抑制する。こうした糖代替物の普及が進んでいるにもかかわらず、糖代替物への曝露頻度が、口腔細菌が直面する進化的圧力にどのような影響を及ぼすかは解明されていない。本研究では、炭素源（グルコース、ソルビトール、エリスリトール、またはキシリトール）が、進化するフッ化物耐性齲蝕原性（S. mutans）集団および非齲蝕原性（S. gordonii）集団の進化様式と有効性に及ぼす影響を検証した。S. gordoniiにおいては、グルコース条件下で進化した集団は、糖代替物（エリスリトール、ソルビトール、キシリトール）条件下で進化した集団と比較して、非同義変異が有意に多かったが、フッ化物耐性の劇的な増加は認められなかった。対照的に、齲蝕原性S. mutansでは、発酵性糖類の存在下で進化させた結果、フッ化物耐性が著しく高まったが、非発酵性糖類の存在下で進化した集団の分離株に見られるものと比較して、置換数の増加は見られなかった。我々は、炭素条件間でこれまで報告されていなかったフッ化物耐性変異を観察し、その中にはフッ化物および多様な糖代替物が存在する環境で進化したS. mutans分離株における、ヒストン様結合タンパク質（smu_589）の並行進化の事例が含まれていた。以上の結果を総合すると、一般的に使用されている糖代替物が、フッ化物のような広範なストレッサーに対する歯科微生物叢の進化的軌跡を形成し得ることが示される。"
   }
 ]
