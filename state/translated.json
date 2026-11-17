@@ -287090,5 +287090,321 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "abcneuralnet: 集団ゲノミクス推論のためのベイジアンニューラルネットワークと説明可能なAIを用いたシミュレーションベースの推論",
     "abstract_ja": "近似ベイズ計算（Approximate Bayesian Computation: ABC）は、集団ゲノミクスにおける人口統計学的推論に広く用いられているシミュレーションベースの尤度フリー・フレームワークであるが、高次元データセット（すなわち次元の呪い）への対応に課題があり、シミュレーションモデルの誤指定や予測区間の較正を考慮した診断ツールは現状限られている。本稿では、ベイズニューラルネットワーク（BNN）をABCおよび共形予測と組み合わせることで、解釈可能な予測と較正済みの予測区間を備えた償却型シミュレーションベース推論を実現するRパッケージ「abcneuralnet」を提案する。本パッケージは、「torch」/「luz」バックエンド上に構築された4つの相補的な戦略――Concrete Dropout、Gaussian Monte Carlo Dropout、Deep Ensemble、および新規のハイブリッド型TabNet-ABC――を実装しており、そのうち3つは予測の不確実性を認識論的成分と偶然的成分に分解し、訓練データと観測データの交換可能性の下で、有限標本の周辺被覆率保証を伴う共形化された予測区間を提供する。「innsight」パッケージの12種類の特徴量寄与度分析手法が、局所的および大域的な説明可能性の双方のためにネイティブに統合されている。我々は、解析的な事後分布が既知の正規トイモデルと、1000 Genomes Projectの実証的なヒト人口統計学的シナリオを用い、これら4つの手法を標準的なABC回帰調整およびABC-Random Forestと比較検証した。Concrete DropoutとDeep Ensembleは、既存手法の精度に匹敵するかそれを上回り、較正された被覆率を実証的に保証するとともに、情報量の少ない要約統計量や分布シフトに対しても頑健であった。不確実性の分解により、現在の有効個体数および祖先有効個体数における予測性能の低さは、訓練不足ではなくシミュレーションにおける不可還元な偶然的分散に起因することがさらに示唆された。これは、「abcneuralnet」がABCをブラックボックス型の推定量から、分子生態学におけるシミュレーションベース推論のための透明性の高い診断フレームワークへと転換させるものであることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.13.759010",
+    "title": "Mitochondrial genomes of leafhoppers and a parasitoid fly expand genomic resources for the Eastern Canadian Arctic",
+    "abstract": "ABSTRACT  Arctic and Subarctic insect biodiversity remains poorly represented in molecular reference databases, limiting the identification of resident taxa and the detection of ecological changes associated with climate warming. Leafhoppers are particularly relevant to northern surveillance because they are sensitive to changes in vegetation and climate, and some species transmit phytoplasmas and other plant pathogens. We used Illumina sequencing to characterize mitochondrial genomes from pooled, morphologically identified leafhoppers collected through the Nunavik Sentinels community science program in Eeyou Istchee, Nunavik, and Nunatsiavut. Eight complete mitochondrial genomes were recovered, representing seven leafhopper lineages and one pipunculid fly. The genomes ranged from 15,475 to 18,051 bp, had mean sequencing depths of 1,003×–3,366×, and contained the 37 genes expected in insect mitochondria. Molecular analyses revealed a  Sorhoanus -like lineage within a pool identified as  Psammotettix alienus , demonstrating the capacity of untargeted sequencing to detect taxa overlooked during morphological sorting. A  Tomosvaryella -like mitochondrial genome was also recovered from a pool composed of  Diplocolenus abdominalis . This finding is consistent with the presence of parasitoid within a host but does not establish a direct host–parasitoid association. COI comparisons supported the higher level placement of the taxa but frequently failed to provide species-level resolution because of incomplete reference coverage, inconsistent nomenclature, and low divergence among closely related species. Phylogenetic analysis of the 13 mitochondrial protein-coding genes supported the expected tribal placements, but provided limited resolution for some deeper relationships, reinforcing the need to expand the availability of nuclear genomic data for leafhopper phylogenetics. These voucher-linked and geographically referenced mitogenomes expand the molecular representation of northern insects and provide foundational resources for monitoring leafhopper diversity, potential plant disease vectors, and their natural enemies in rapidly changing northern ecosystems.",
+    "journal": "",
+    "doi": "10.64898/2026.10.13.759010",
+    "date": "2026-10-20",
+    "authors": "Sylvestre F, Plante N, Molligan J, Taillefer AG, Edel-Pérez-López.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346395",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "genomic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4042,
+    "collected_at": "2026-11-12T01:32:14.263702+00:00",
+    "collected_date": "2026-11-12",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-12",
+    "related_dois": [
+      "10.64898/2026.10.13.759010"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d4f3778862a54a3af566535431a049fdc0eeb69b964c2b15053a246f4291a2d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:14:17.473668+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9e4ea96752c44aed36e16619ac454c0bd682fd7eed0f33738205a583768b78b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:14:17.473668+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヨコバイ類および寄生蜂のミトコンドリアゲノムは、カナダ東部北極圏のゲノム資源を拡充する",
+    "abstract_ja": "要旨　北極および亜北極地域の昆虫の生物多様性は、分子リファレンスデータベースにおいて十分に網羅されておらず、定住種の同定や気候温暖化に伴う生態学的変化の検出が制限されている。ヨコバイ類は植生や気候の変化に敏感であり、一部の種はフィトプラズマやその他の植物病原体を媒介するため、北方地域のモニタリングにおいて特に重要である。本研究では、ヌナヴィクおよびヌナツィアヴトのイーユー・イシュチーにおけるコミュニティサイエンスプログラム「Nunavik Sentinels」を通じて採集された、形態学的に同定済みのプール個体群のヨコバイ類のミトコンドリアゲノムの特性解析に、Illuminaシーケンシングを用いた。その結果、7つのヨコバイ系統と1種のピプンクリドハエに相当する、計8つの完全なミトコンドリアゲノムが回収された。ゲノムサイズは15,475～18,051 bpの範囲にあり、平均シーケンシング深度は1,003×～3,366×で、昆虫のミトコンドリアに想定される37個の遺伝子が含まれていた。分子解析により、Psammotettix alienusと同定されたプール個体群内にSorhoanus様系統が存在することが明らかになり、非標的型シーケンシングが形態学的選別時に見落とされた分類群を検出できる能力を持つことが示された。また、Diplocolenus abdominalisからなるプール個体群からも、Tomosvaryella様ミトコンドリアゲノムが回収された。この知見は、宿主内に寄生蜂が存在することと整合するが、宿主と寄生蜂の直接的な関連性を立証するものではない。COI比較によりこれらの分類群の上位レベルへの配置が支持されたが、リファレンスカバレッジの不完全さ、命名法の不統一、および近縁種間の分岐の少なさにより、種レベルの解像度が得られないことが多々あった。13個のミトコンドリアタンパク質コード遺伝子の系統解析では、想定通りの系統的配置が支持されたが、一部のより深い系統関係については解像度が限定的であり、ヨコバイ類の系統解析に向けた核ゲノムデータの利用可能性を拡大する必要性が改めて浮き彫りとなった。これらのヴォーチャーリンクおよび地理的リファレンス付きミトゲノムは、北方地域の昆虫の分子表現を拡充し、急速に変化する北方生態系におけるヨコバイ類の多様性、潜在的な植物病害媒介生物、および天敵のモニタリングのための基礎的リソースを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760083",
+    "title": "Plant cell-based 4D engineered living materials",
+    "abstract": "Engineered living materials (ELMs) seek to bridge the gap between static engineered matter and dynamic biological systems. Photosynthetic ELMs have emerged as a promising route towards autonomous and sustainable material systems; however, they remain largely based on microorganisms or isolated organelles, whereas the potential of living plant cells as multifunctional, adaptive building blocks remains largely unexplored. Here we establish plant cells as a distinct chassis for engineered living materials and demonstrate that their intrinsic metabolic plasticity, cell-wall biochemistry and mechanics can be harnessed to create adaptive, evolvable and programmable materials. Using Arabidopsis thaliana suspension cells and printable pectin–alginate bioinks, we fabricate two- and three-dimensional living materials that support growth, metabolic plasticity and long-term viability. Non-photosynthetic ELMs undergo light-induced metabolic reprogramming to acquire photosynthetic activity, demonstrating adaptive behaviour, while continuous cell growth dynamically remodels the mechanical properties of the material, enabling evolution of material properties through intrinsic biological processes. We further exploit endogenous cell-wall peroxidases to catalyse the biofabrication of conducting polymers, enabling programmable acquisition of electrochemical functionality without genetic modification. By integrating living plant cells with auxetic and honeycomb architectures, we show that biological activity and structural design jointly determine emergent mechanical behaviour, revealing a principle of geometry-dependent biological reinforcement for living mechanical metamaterials. Centimetre-scale plant ELMs retain robust photosynthetic activity, with electron transport rates approaching those of native Arabidopsis tissues despite the absence of leaf architecture. Together, these findings establish plant cells as versatile building blocks for multifunctional living materials and lay the foundation for self-powered autonomous materials with potential applications in soft robotics, bioelectronics and carbon capture.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760083",
+    "date": "2026-10-20",
+    "authors": "Colaprico E, Musumeci C, Bogdziewiez L, Pagliara D, García Fleitas A, Dufil G, Magkouta E, Jin X, Mantione D, Strand Å, Verger S, Stavrinidou E.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347452",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4022,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.10.19.760083"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f38cb604145829240651090509d1e72525c8c0a4296426e72a169d8770f71328",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:14:17.473668+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7811e665b3424a464f33f264a993d7dbc9f7ffd41e9ba38286e613dc38dc2ad1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:14:17.473668+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "植物細胞を基盤とした4次元工学的生体材料",
+    "abstract_ja": "工学的生体材料（ELMs）は、静的な工学的物質と動的な生物学的システムとの間の隔たりを埋めることを目指している。光合成ELMsは、自律的かつ持続可能な材料システムへの有望な道筋として台頭しているが、その多くは依然として微生物や単離された細胞小器官に基づいている。一方で、多機能で適応的な構成要素としての生きた植物細胞の潜在能力は、いまだ十分に探究されていない。本研究では、植物細胞を工学的生体材料のための独立したシャーシとして確立し、その固有の代謝可塑性、細胞壁の生化学、および力学的特性を活用して、適応的で進化可能かつプログラム可能な材料を創出できることを実証する。シロイヌナズナの懸濁細胞と印刷可能なペクチン・アルギン酸バイオインクを用い、成長、代謝可塑性、および長期生存性を支える二次元および三次元の生体材料を作製した。非光合成ELMsは、光誘導性の代謝リプログラミングを経て光合成活性を獲得し、適応的な挙動を示す。同時に、継続的な細胞成長が材料の機械的特性を動的に再構成し、固有の生物学的プロセスを通じて材料特性の進化を可能にする。さらに、内因性の細胞壁ペルオキシダーゼを利用して導電性ポリマーのバイオファブリケーションを触媒し、遺伝子改変なしに電気化学的機能をプログラム可能に獲得した。生きた植物細胞をオーセティック構造およびハニカム構造と統合することで、生物学的活性と構造設計が共同して創発的な機械的挙動を決定づけることを示し、生きた機械メタマテリアルにおける幾何学依存的な生物学的強化の原理を明らかにした。センチメートルスケールの植物ELMsは強固な光合成活性を維持しており、葉の構造がないにもかかわらず、電子伝達速度は天然のシロイヌナズナ組織のそれに匹敵する。これらの知見を総合すると、植物細胞は多機能な生体材料のための汎用性の高い構成要素として確立され、ソフトロボティクス、バイオエレクトロニクス、および二酸化炭素回収への応用が期待される自己駆動型自律材料の基盤を築くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760215",
+    "title": "The RES complex core subunits Snu17 and Bud13 buffer the spliceosome against intrinsically weak splicing signals in budding yeast",
+    "abstract": "Eukaryotic pre-mRNA splicing by the spliceosome requires a series of orchestrated rearrangements to promote formation of a catalytically active spliceosome. The Retention and Splicing (RES) complex, which contains Snu17p, Bud13p and Pml1p, assembles onto the B-complex and facilitates removal of the U4 snRNP while preventing premature catalytic activation of the spliceosome by Prp2p. To better understand the roles of each subunit of the RES complex  in vivo , we analyzed splicing through RNA sequencing in  snu17 Δ,  bud13 Δ, and  pml1 Δ yeast mutants, with and without inactivation of nonsense-mediated decay. Inactivation of Snu17p and Bud13p led to a major decrease in splicing efficiency for many intron-containing genes, while inactivation of Pml1p affected only a very minor subset. Snu17p and Bud13p are particularly critical for promoting splicing of inefficiently spliced non-ribosomal protein genes with small introns, non-consensus 5′ splice sites or branchpoints, or without well-defined poly(U) tracts, suggesting a role for these elements in early intron recognition. The loss of these two core RES subunits therefore does not appear to cause splicing defects but rather exacerbate existing ones, such that transcripts with intrinsically high splicing efficiency remain unaffected by inactivation of RES. Cells lacking Pml1p also show growth phenotypes that are clearly distinct from those observed in  snu17 Δ and  bud13 Δ cells. These results show that Snu17p and Bud13p act as the core subcomplex of RES for efficient splicing of poorly spliced introns  in vivo , while Pml1p may play accessory functions in linking the spliceosome to other processes.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760215",
+    "date": "2026-10-20",
+    "authors": "Quintor JAA, Chanfreau GF.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347420",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4024,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.10.19.760215"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c65b850a1e9702451446d9863dbd3aa9beedf36ad783eac0f704a1d0c022f2e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:14:17.473668+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bf7010d50edb5fb174f6d0b72c86af25b2d8b6fdb08f451b09b91514a80739a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:14:17.473668+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RES複合体のコアサブユニットであるSnu17およびBud13は、出芽酵母において本来的に弱いスプライシングシグナルからスプライソソームを緩衝する。",
+    "abstract_ja": "スプライソソームによる真核生物のpre-mRNAスプライシングでは、触媒活性を有するスプライソソームの形成を促進するために、一連の協調的な再編成が必要となる。Snu17p、Bud13p、およびPml1pを含むRetention and Splicing（RES）複合体は、B複合体に会合してU4 snRNPの除去を促進すると同時に、Prp2pによるスプライソソームの早期触媒活性化を抑制する。in vivoにおけるRES複合体の各サブユニットの役割をより深く理解するため、我々は、ナンセンス媒介分解の不活性化の有無にかかわらず、snu17 Δ、bud13 Δ、およびpml1 Δ酵母変異体を用いてRNAシーケンシングによりスプライシングを解析した。Snu17pおよびBud13pの不活性化は、多くのイントロン含有遺伝子においてスプライシング効率の著しい低下をもたらしたが、Pml1pの不活性化が影響を及ぼしたのはごく一部の遺伝子のみであった。Snu17pおよびBud13pは、イントロンが小さい、非コンセンサス5′スプライス部位や分岐点を持つ、あるいは明確に定義されたポリ(U)トラクトを持たないなど、スプライシング効率の低い非リボソームタンパク質遺伝子のスプライシングを促進する上で特に重要であり、これらの要素が初期イントロン認識において役割を果たしていることが示唆される。したがって、これら2つのコアRESサブユニットの喪失は、スプライシング異常を引き起こすのではなく、むしろ既存の異常を悪化させるようであり、その結果、本質的にスプライシング効率の高い転写産物はRESの不活性化の影響を受けない。Pml1pを欠損した細胞においても、snu17 Δおよびbud13 Δ細胞で観察されるものとは明確に異なる増殖表現型が認められる。これらの結果は、in vivoにおいてSnu17pおよびBud13pがスプライシング効率の低いイントロンの効率的なスプライシングを担うRESのコアサブ複合体として機能する一方で、Pml1pはスプライソソームを他のプロセスに連結させる補助的な機能を果たしている可能性があることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760048",
+    "title": "Heimdall SNAREs reveal an ancestral architecture of eukaryotic SNARE complexes",
+    "abstract": "SNARE proteins are central to eukaryotic cell biology, where they drive membrane fusion by assembling into four-helix bundles that bring opposing membranes into close proximity. Their ubiquitous role in intracellular membrane trafficking raises fundamental questions about their evolutionary origin and the emergence of eukaryotic cellular complexity. Here, we characterize SNARE-like proteins from Heimdallarchaeota, a lineage within the Asgard archaea that is closely related to eukaryotes. We show that a Heimdall SNARE forms a stable homotetrameric four-helix bundle in solution and determine its structure by X-ray crystallography. Strikingly, the Heimdall complex closely resembles eukaryotic SNARE complexes in its overall architecture and core organization, despite being composed of four identical subunits. Molecular dynamics simulations further reveal conserved physical features of the bundle alongside distinctive properties of its central 0-layer. These findings demonstrate that the characteristic four-helix architecture of SNAREs predates the emergence of eukaryotic cells and provide structural insight into the evolution of the membrane fusion machinery.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760048",
+    "date": "2026-10-20",
+    "authors": "Bentahar I, Yadav D, Hacisuleyman A, Fasshauer D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346311",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4053,
+    "collected_at": "2026-11-13T00:21:35.400165+00:00",
+    "collected_date": "2026-11-13",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-13",
+    "related_dois": [
+      "10.64898/2026.10.19.760048"
+    ],
+    "translation": {
+      "title": {
+        "hash": "17a3708dbf915adaf135e3f53bc6c0c871898f7188af3f666dfc5a02b3d058c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:14:17.473668+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f5cc30ee77bf534c455604a701e5fa4a80747e08963db77af242f9ba08f5fbbb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:14:17.473668+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヘイムダルSNAREsが明かす真核生物SNARE複合体の祖先的構造",
+    "abstract_ja": "SNAREタンパク質は真核細胞生物学の中核をなしており、対向する膜を近接させる4本ヘリックス束を形成することで膜融合を駆動する。細胞内膜輸送におけるその遍在的な役割は、その進化的起源や真核細胞の複雑性の出現に関する根本的な問いを提起している。本研究では、真核生物と近縁なアスガルド古細菌の系統であるHeimdallarchaeota由来のSNARE様タンパク質の特性解析を行う。我々は、Heimdall SNAREが溶液中で安定なホモ四量体4本ヘリックス束を形成することを示し、X線結晶構造解析によってその構造を決定した。特筆すべきことに、Heimdall複合体は4つの同一サブユニットから構成されているにもかかわらず、全体的な構造とコアの構成において真核生物のSNARE複合体に酷似している。分子動力学シミュレーションにより、この束の保存された物理的特徴と、中心0層の特徴的な性質がさらに明らかになった。これらの知見は、SNAREの特徴的な4本ヘリックス構造が真核細胞の出現よりも前から存在していたことを示しており、膜融合機構の進化に関する構造的な洞察を与えるものである。"
   }
 ]
