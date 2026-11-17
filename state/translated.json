@@ -293833,5 +293833,279 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Si-scRNA-seq：空間的に限定されたバイオシリシフィケーションによる環境安定性の高いシングルセルトランスクリプトミクスの実現",
     "abstract_ja": "単一細胞RNAシーケンシング（scRNA-seq）は、試料保存中の急速なRNA分解という制約があり、コールドチェーン物流を必要とする。本報では、RNAを非晶質二酸化ケイ素のナノスケール層内に封入する空間的に限定されたバイオシリシフィケーション（SCB）を、単一細胞トランスクリプトームの常温保存を可能にする極めて有効な手法として提示する。シリシフィケーション阻害剤を慎重に組み込むことで、SCBは細胞内外のシリカ沈着の時空間的制御を実現し、過剰な架橋や細胞凝集を防ぎつつ、RNAの生体完全性とアクセシビリティを維持する。バイオシリシフィケーションを施した細胞を用いて実施したscRNA-seq（Si-scRNA-seq）は、新鮮試料において高いトランスクリプトーム忠実度を維持し（7日後のR2 = 0.95）、25 °CにおいてRNAの半減期を54.8日まで延長させ、未保護試料と比較して685倍の向上を達成した。さらに、Si-scRNA-seqは酸化およびUV分解に対して強固な耐性を付与する。1試料あたり約0.1 RMBという主流のプラットフォームと互換性のあるSi-scRNA-seqは、室温での長期保存後においても、臨床的な肺癌、肝癌、および卵巣癌検体における細胞不均一性を正常に解析できる。Si-scRNA-seqは、研究および臨床現場における単一細胞トランスクリプトミクスのための、スケーラブルでコールドチェーンを必要としないソリューションを提供する。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag332",
+    "title": "Stronger belowground micro-food web linkages to nitrogen cycling in agriculturally reclaimed coastal saline ecosystems",
+    "abstract": "AbstractCoastal saline soils support agricultural production and ecosystem services, but their conversion to agriculture is associated with changes in soil conditions and biota. How belowground food-web organization relates to nitrogen (N) cycling across these land-use systems remains poorly understood. We combined a global synthesis with a field investigation of natural and reclaimed coastal saline soils to examine associations among land use, saline–alkaline conditions, microbial nutrient limitation, soil micro-food web organization and N transformation. In the global synthesis, N mineralization rates and nitrification potential in reclaimed soils were 16.5 and 10.0 times those in natural saline soils, respectively. In the field, reclaimed soils had lower salinity and alkalinity, accompanied by reduced microbial carbon and N limitation and pronounced shifts in multitrophic communities and N-cycling functional potential. Reclaimed soils exhibited greater potential for oxidative N transformations, more complex inferred trophic organization and stronger linkages between consumers and N-cycling functions, whereas natural saline soils showed simpler potential trophic organization and greater relative abundances of reductive N pathways. Piecewise structural equation modelling identified positive direct associations of the micro-food-web composite with both N transformation processes and indirect associations linking lower saline–alkaline stress to higher N transformation rates. Collectively, these findings link differences in N transformation to saline–alkaline stress and inferred multitrophic organization across long-established land-use systems, highlighting the value of considering multitrophic organization when interpreting nitrogen cycling in salt-affected ecosystems.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag332",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag332/9055621?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5100,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag332"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bbbd5d047013832d3f00bfd9dfd99bf75d95924ef2a3bdf2b0600d15b887ed76",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:39:40.319341+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "64e65c092d9440d7172703e155eefa979074f6d696659d132b519229a8e35421",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:39:40.319341+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "農業的に再生された沿岸塩性生態系における窒素循環への、より強固な地下マイクロ食物網の連関",
+    "abstract_ja": "要旨 沿岸の塩類土壌は農業生産と生態系サービスを支えているが、その農地化に伴い土壌条件や生物相に変化が生じる。こうした土地利用システムにおける地下の食物網構造が、窒素（N）循環とどのように関連しているかについては、依然として十分に解明されていない。本研究では、全球的な総合解析と天然および再生利用された沿岸塩類土壌の現地調査を組み合わせ、土地利用、塩類・アルカリ条件、微生物による栄養制限、土壌微小食物網構造、およびN変換の関連性を検討した。全球的な総合解析において、再生利用土壌のN無機化速度および硝化能は、天然塩類土壌のそれぞれ16.5倍および10.0倍であった。現地調査では、再生利用土壌は塩分濃度とアルカリ度が低く、それに伴い微生物による炭素およびNの制限が減少し、多栄養生物群集およびN循環機能ポテンシャルに顕著な変化が認められた。再生利用土壌は、酸化的N変換のポテンシャルがより高く、推定される栄養構造がより複雑で、消費者とN循環機能との結びつきがより強固であったのに対し、天然塩類土壌は推定される栄養構造がより単純であり、還元的N経路の相対的な存在量が多かった。区分構造方程式モデリングにより、微小食物網複合体とN変換プロセスとの間に正の直接的な関連性があること、また、塩分・アルカリストレスの低下がN変換速度の上昇につながるという間接的な関連性が特定された。総じて、これらの知見は、長年定着した土地利用システムにおけるN変換の差異を塩分・アルカリストレスおよび推定される多栄養生物構造に結びつけるものであり、塩害生態系における窒素循環を解釈する際に多栄養生物構造を考慮することの有用性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.1038/s41579-026-01393-w",
+    "title": "Artificial intelligence for antibiotic discovery and design",
+    "abstract": "In this Review, Collins and colleagues explore recent advances in small-molecule antibiotic discovery enabled by artificial intelligence, highlighting recent artificial intelligence-driven advancements in phenotypic antibiotic discovery, mechanism of action elucidation, target-based discovery, de novo molecular design and lead optimization.",
+    "journal": "Nature Reviews Microbiology",
+    "doi": "10.1038/s41579-026-01393-w",
+    "date": "2026-11-17",
+    "authors": "James J. Collins",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41579-026-01393-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nrmicro.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5127,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.nature.com/nrmicro.rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1038/s41579-026-01393-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0d6e494e2577cf87b4a7aa60680a4d9e7bd9813503e87a895d45491bd4953cf6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:39:40.319341+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e32707b1eae645f77495bd4f9b87baf3622e286611abef9e3412594888d31ccc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:39:40.319341+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗生物質の探索と設計のための人工知能",
+    "abstract_ja": "本総説において、Collinsらは、人工知能によって可能となった低分子抗生物質探索における近年の進展について考察し、表現型に基づく抗生物質探索、作用機序の解明、標的指向型探索、de novo分子設計、およびリード最適化における、人工知能を活用した最近の進展を強調している。"
+  },
+  {
+    "id": "10.1093/nar/gkag1223",
+    "title": "A dual biocontainment system specifically constraining the transfer and escape of the engineered plasmid in microbial communities",
+    "abstract": "AbstractA variety of engineered genetic elements and circuits enable bacteria to sense environmental signals, process information, and execute programmed biological functions. However, the potential escape from such synthetic constructs into the natural environment poses biosafety risks and could disrupt ecological balance. To address this, we developed a dual biocontainment system designed to restrict the replication and expression of engineered plasmids exclusively within modified host (TEV protease and sgRNA-dCas9). This system employs TEV protease to remove ssrA degradation tags fused to the plasmid replication protein RepA, thereby enabling plasmid replication. Concurrently, a specific guide RNA (sgRNA) forms an inhibitory complex with dCas9 to prevent cleavage of the engineered plasmid by the I-OnuI endonuclease. Overall, dual biocontainment system provides a robust safety tool both in vitro and in vivo to restrict the transfer and escape of engineered plasmids (with an escape rate of 4.4 × 10−8  in vitro and 2.4 × 10−8  in vivo), giving an efficient platform for safely use of synthetic genetic elements.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1223",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1223/9079907?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5120,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1223"
+    ],
+    "translation": {
+      "title": {
+        "hash": "50544dc435e06d5de384cf1cf88f9d3de531b6298a0de699976188bcf7262990",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:39:40.319341+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8718bb85fffd6c8fd857c61824be1b9532f3111b0d006966d35b61c41a038f91",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:39:40.319341+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物群集における改変プラスミドの移行および流出を特異的に抑制する二重バイオコンテインメントシステム",
+    "abstract_ja": "要旨 多様な遺伝子工学的要素や回路により、細菌は環境シグナルを感知し、情報を処理し、プログラムされた生物学的機能を実行することが可能となっている。しかし、こうした合成構築物が自然環境へ漏出する可能性は、バイオセーフティ上のリスクとなり、生態系のバランスを乱す恐れがある。この課題に対処するため、我々は、遺伝子工学的に改変されたプラスミドの複製および発現を、改変された宿主（TEVプロテアーゼおよびsgRNA-dCas9）内にのみ制限するように設計されたデュアルバイオコンテインメントシステムを開発した。本システムでは、TEVプロテアーゼを用いてプラスミド複製タンパク質RepAに融合したssrA分解タグを除去し、これによりプラスミドの複製を可能にする。同時に、特定のガイドRNA（sgRNA）がdCas9と阻害複合体を形成し、I-OnuIエンドヌクレアーゼによる遺伝子工学的プラスミドの切断を防ぐ。総じて、デュアルバイオコンテインメントシステムは、in vitroおよびin vivoの双方において、遺伝子工学的プラスミドの移行および漏出を制限する堅牢な安全ツールとなり（漏出率はin vitroで4.4 × 10⁻⁸、in vivoで2.4 × 10⁻⁸）、合成遺伝子工学的要素を安全に利用するための効率的なプラットフォームを提供する。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag289",
+    "title": "Co-evolution of microbial mercury cycling genes and Earth’s oxygenation history",
+    "abstract": "AbstractDeciphering how microbes co-evolved with early Earth’s redox conditions helps us understand life’s adaptation to early Earth environments. The mercury (Hg) biogeochemical cycle offers a window into this co-evolutionary process, as Hg was ubiquitous on early Earth and its speciation and toxicity are highly redox-sensitive. However, direct evidence for the co-evolutionary history of microbes and the Hg cycle is scarce due to poor geological preservation. Here, we bypassed this limitation by applying phylogenetic reconciliation to track key evolutionary events across the tree of life for the principal microbial Hg cycling gene systems (the Hg-detoxification mer operon and Hg-methylating hgcAB), including speciation, duplications, transfers, and losses. Our results revealed a two-stage evolutionary trajectory. The hgcAB and core mer operon (merA, merR, and merB) emerged in the anoxic Archean, predating the Great Oxidation Event (GOE) and coinciding with intense volcanism, suggesting early microbial adaptation to inorganic Hg(II) under anoxic conditions. Towards the end of and after the GOE, we observed a major expansion of multiple Mer transporters and the negative regulator of the mer operon (MerD), reflecting a microbial adaptive response to the diversification of organomercury species in a progressively oxidizing environment, temporally associated with intermittent volcanic Hg fluxes. The systematic absence of mer genes in hgcAB-containing bacteria, coupled with their distinct ecological niches, points to fundamentally divergent evolutionary trajectories for Hg methylation and mer-mediated detoxification over geological time. This work provides genomic insights into microbial adaptation to early Earth redox evolution and its reshaping of the microbial biosphere.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag289",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag289/9080700?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5095,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismejo/wrag289"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5cba184edc96b7d3d0b968488dcdf9f9c98830fc2c659d182f7756a505befb71",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:39:40.319341+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "18ef501e2e6bd5f9db8306897957396a32c76cdf75ed7666f43ac71009b32e78",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:39:40.319341+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物の水銀循環遺伝子と地球の酸素化史の共進化",
+    "abstract_ja": "要旨 微生物が初期地球の酸化還元条件下でどのように共進化したのかを解明することは、初期地球環境に対する生命の適応を理解する上で有用である。水銀（Hg）の生物地球化学的サイクルは、初期地球においてHgが遍在し、その種分化と毒性が酸化還元反応に極めて敏感であることから、この共進化プロセスを解明する手がかりとなる。しかし、地質学的保存状態が悪いため、微生物とHgサイクルの共進化史に関する直接的な証拠は乏しい。本研究では、系統学的整合性解析を適用することでこの限界を克服し、主要な微生物Hgサイクル遺伝子系（Hg解毒merオペロンおよびHgメチル化hgcAB）について、種分化、重複、転移、および喪失を含む主要な進化事象を生命の系統樹に沿って追跡した。その結果、2段階の進化軌跡が明らかになった。hgcABおよびコアmerオペロン（merA、merR、merB）は、大酸化イベント（GOE）に先立つ無酸素の始生代に出現し、激しい火山活動と時期が一致しており、無酸素条件下における無機Hg(II)への初期の微生物適応を示唆している。GOEの終盤からその後にかけて、複数のMerトランスポーターおよびmerオペロンの負の調節因子（MerD）の大幅な拡大が観察された。これは、漸次的に酸化が進む環境下における有機水銀種の多様化に対する微生物の適応応答を反映しており、断続的な火山性Hgフラックスと時間的に関連している。hgcAB含有細菌においてmer遺伝子が系統的に欠如していること、およびそれらが明確に異なる生態的ニッチを占めていることは、地質学的時間スケールにおいて、Hgメチル化とmer介在性解毒の進化軌跡が根本的に分岐していたことを示している。本研究は、初期地球の酸化還元進化に対する微生物の適応と、それによる微生物生物圏の再形成に関するゲノムレベルの知見を提供するものである。"
   }
 ]
