@@ -286168,5 +286168,302 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "de novo FtsAバインダーが後期二倍体のリクルートを阻害し、隠れた抑制機構を明らかにする",
     "abstract_ja": "細菌の細胞質分裂には多タンパク質からなる分裂小体複合体の構築が必要であるが、その細胞中心部への動員と活性化を誘発する分子事象は依然として不明である。近年の研究では、保存されたアクチンホモログFtsAのオリゴマー構造の遷移が、大腸菌において分裂小体複合体を活性化させる可能性が示唆されている。本研究では、縦方向のFtsAオリゴマー化を阻害すると予測されるde novo設計のタンパク質バインダーL125を用いて、このモデルを検証した。L125はZリングに局在し、後期分裂小体タンパク質の動員を阻害する一方で、前期分裂小体タンパク質の動員を促進することで、細胞分裂を抑制する。これらの知見は、FtsAの縦方向オリゴマー化界面が後期分裂小体の動員に関与していることを示唆している。予想外なことに、L125処理細胞では幅広で浅いくびれが形成され、分裂を完了できなくなる。これらのくびれは、検出可能な後期分裂小体の局在喪失にもかかわらず生じ、従来はくびれの原因とは知られていなかったZipA依存的な前隔壁細胞壁合成と整合する。この代替的なくびれ形成経路は、正統的な分裂機構が活性化する前に、将来の分裂部位を補強している可能性がある。"
+  },
+  {
+    "id": "10.64898/2026.11.15.766806",
+    "title": "Growth-supporting reductive defluorination by an amino acid-fermenting bacterial isolate",
+    "abstract": "Per- and polyfluoroalkyl substances (PFAS), also known as \"forever chemicals\", are ubiquitous environmental pollutants, highly persistent and toxic to humans and ecosystems. In addition to legacy PFAS, largely alkanoic acids, perfluorinated olefins and their corresponding enoic acids are emerging PFAS of concern. However, reported PFAS biodegradation is typically not growth-supporting, hindering the selection for effective defluorinating bacteria. Here, we report a new amino acid-fermenting bacterial isolate, Sedimentibacter sp. strain ZM-1, that performs high-rate reductive defluorination of a perfluoroenoic acid at physiologically relevant levels (mM). This process substantially enhanced energy conservation and cell growth, with three times higher growth than fermenting L-arginine alone and 50% higher than Stickland fermentation. The reductive defluorination redirected excess reducing equivalents (NADH) away from reducing protons and internal fermentation intermediates, as evidenced by decreased H2 production and downregulation of several NADH-dependent electron-bifurcating oxidoreductases. This defluorinating electron shunting drove arginine fermentation and oxidation of intermediates, such as ornithine and alanine, to form more acetate and CO2, leading to higher substrate-level ATP synthesis per arginine consumed. This process also generated reduced ferredoxin available for cell synthesis or anaerobic respiration, as genes involved in these processes were significantly upregulated. ZM-1 has a unique and effective CLCF-type fluoride exporter that works with the highly efficient defluorinating system to enable fluorotrophic growth. Since amino acid-fermenting anaerobes are common in the environment, such fluorotrophy opens new paths for natural selection of defluorination to drive natural and laboratory evolution of fluorophilic bacteria.",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766806",
+    "date": "2026-11-16",
+    "authors": "Zhao, W., Dong, Q., Zhu, Y., Xu, F., Yuan, F., Jin, B., Lu, R., Bachhu, S., Moon, P., Mei, R., Wackett, L. P., Men, Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766806v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5004,
+    "collected_at": "2026-11-17T04:40:38.259930+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.15.766806"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6e13d2582012667adeaf13db1f11f8d6bf53b2625dd673ee878dab839b091ce2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:05:13.795455+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2c56c046edad605963388a4a8c96721f9a858551a997d1f6a9dfd88fa9871ad4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:05:13.795455+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アミノ酸発酵細菌分離株による増殖支援型還元的脱フッ素化",
+    "abstract_ja": "「永遠の化学物質」としても知られるペルフルオロアルキル化合物およびポリフルオロアルキル化合物（PFAS）は、遍在する環境汚染物質であり、極めて残留性が高く、ヒトや生態系に対して毒性を有する。従来のPFAS（主にアルカン酸類）に加え、パーフルオロオレフィンおよびそれに対応するエノール酸が、懸念される新興PFASとして浮上している。しかし、報告されているPFASの生分解は通常、増殖の維持に寄与せず、効果的な脱フッ素化細菌の選択を妨げている。本報では、生理的に意義のある濃度（mM）でパーフルオロエノール酸の高速度還元的脱フッ素化を行う、新たなアミノ酸発酵細菌分離株 Sedimentibacter sp. strain ZM-1 について報告する。このプロセスはエネルギー保存と細胞増殖を著しく促進し、L-アルギニン単独の発酵に比べて3倍、Stickland発酵に比べて50%高い増殖速度を示した。この還元的脱フッ素化により、過剰な還元当量（NADH）が還元性プロトンや内部発酵中間体から逸らされたことが確認され、これはH2産生の減少および複数のNADH依存性電子二分化型酸化還元酵素の発現低下によって裏付けられた。この脱フッ素化に伴う電子シャントは、アルギニンの発酵およびオルニチンやアラニンなどの中間体の酸化を駆動し、より多くの酢酸とCO2を生成させたため、アルギニン消費あたりの基質レベルにおけるATP合成量が増加した。また、このプロセスにより、細胞合成や嫌気呼吸に利用可能な還元型フェレドキシンが生成され、これらの過程に関与する遺伝子が有意に発現上昇した。ZM-1は、極めて効率的な脱フッ素化システムと連携してフッ素栄養増殖を可能にする、ユニークかつ効果的なCLCF型フッ化物排出装置を有している。アミノ酸発酵性嫌気性菌は環境中に一般的に存在するため、このようなフッ素栄養増殖は、脱フッ素化の自然選択に新たな道を切り開き、好フッ素性細菌の自然選択および実験室での進化を促進するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.16.766974",
+    "title": "DMSP modulates virus-host interactions in the coral environment",
+    "abstract": "Dimethylsulfoniopropionate (DMSP) is a ubiquitous organosulfur metabolite that plays central roles in marine ecosystems. It affects nutrient cycling, climate-relevant biogeochemical and microbial processes, including bacterial and viral infections of algal hosts, but its effect on bacteriophages has not been explored. In corals, DMSP is released under heat stress and attracts opportunistic Vibrio pathogens. Here we show that DMSP reshapes the infection dynamics of a virulent phage infecting the coral pathogen Vibrio mediterranei. DMSP initially decreased the number of infective viral particles through particle aggregation, extended the latent period and reduced burst size. However, prolonged infections ultimately yielded greater phage production, likely through DMSP-induced changes in the Vibrio envelope proteome. Consistent with these laboratory observations, DMSP also enhanced the proliferation of phage infecting V. mediterranei within the mucus of experimentally infected corals. Together, our findings suggest that DMSP released by stressed corals not only attracts bacterial pathogens but also promotes the amplification of their viral predators, revealing that host-derived metabolites can shape phage-pathogen interactions within animal microbiomes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766974",
+    "date": "2026-11-16",
+    "authors": "Rubio-Portillo, E., Sanchez-Martinez, R., Diez-Martinez, A., Lopez, C., Mayol, E., Manrubia, S., Steinke, M., de Pablo, P. J., Santos, F., Anton, J.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766974v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "phage",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5005,
+    "collected_at": "2026-11-17T04:40:38.259930+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.16.766974"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7a88495a47e9168393be760697a64244c5633b5de4f748c761408a6d496febdf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:05:13.795455+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6ba7fc41710f2027d292a0c6914d4cb1de200416619b0b6d7e31e057ce2faa59",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:05:13.795455+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DMSPはサンゴ環境におけるウイルスと宿主の相互作用を調節する",
+    "abstract_ja": "ジメチルスルホニオプロピオネート（DMSP）は、海洋生態系において中心的な役割を担う遍在性の有機硫黄代謝物である。DMSPは、栄養塩循環や、藻類宿主への細菌・ウイルス感染を含む気候関連の生物地球化学的・微生物学的プロセスに影響を及ぼすが、バクテリオファージに対する影響についてはこれまで検討されてこなかった。サンゴにおいて、DMSPは熱ストレス下で放出され、日和見的なビブリオ属病原体を誘引する。本研究では、DMSPがサンゴ病原体であるV. mediterraneiに感染する強毒ファージの感染動態を変化させることを示す。DMSPは当初、粒子凝集を通じて感染性ウイルス粒子数を減少させ、潜伏期間を延長し、バーストサイズを縮小させた。しかし、感染の長期化は最終的に、おそらくDMSP誘導性のビブリオ包膜プロテオームの変化を介して、より多くのファージ産生をもたらした。これらの実験室での観察結果と一致して、DMSPは実験的に感染させたサンゴの粘液内において、V. mediterraneiに感染するファージの増殖も促進した。以上の知見を総合すると、ストレスを受けたサンゴから放出されるDMSPは、細菌病原体を誘引するだけでなく、それらのウイルス捕食者の増幅も促進することが示唆され、宿主由来の代謝物が動物微生物叢におけるファージと病原体の相互作用を形作り得ることが明らかになった。"
+  },
+  {
+    "id": "10.64898/2026.11.16.766956",
+    "title": "From coral atolls to coal spoil heaps: two new species and two dark fungal taxa expand the monospecific genus Innospora (Paraglomerales, Glomeromycota)",
+    "abstract": "Morphological and phylogenetic analyses based on partial rDNA sequences supported the description of two new species of Innospora: Innospora atollensis sp. nov. and Innospora fodinalis sp. nov. These species expand the monospecific genus Innospora, which was formerly represented only by I. majewskii. Innospora atollensis was discovered on a coral atoll in French Polynesia, whereas I. fodinalis was recovered from a post-coal-mining spoil heap in Poland. Spores of I. atollensis and I. fodinalis are colorless, small and have a spore wall with three layers as in I. majewskii. Morphologically, the spores of I. fodinalis differ from those of other Innospora species by the presence of granular ornamentation on the first layer of the spore wall, whereas those of I. atollensis differ by having the third layer of the spore wall significantly thicker, and by the presence of a closed septum. Analysis including environmental sequences extended the known distributions of both species to several additional sites, with I. atollensis recorded in the Caribbean and Australia and I. fodinalis across the Eurasian continent. In addition, we detected two eDNA lineages at the level of species that meet the International Standard to Catalogue Dark Fungal Taxa criteria for designation as dark fungal taxa. These are formally described as Innospora austroafricana-ENAS and Innospora palaearctica-ENAS. The former has been recorded exclusively in South Africa, whereas the latter exhibits a broader distribution across the Euro-Mediterranean region.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766956",
+    "date": "2026-11-16",
+    "authors": "Magurno, F., Szczecinska, S., Di Loreto, D., Fatmawati, D., Esmaeilzadeh-Salestani, K., Wong, M., Favoreu, M., Tedersoo, L., Crossay, T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766956v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5006,
+    "collected_at": "2026-11-17T04:40:38.259930+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.16.766956"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0a7ef77e3bc8b54df00b4ede1ceb0bbfcad7a4a3f002f26bf31aa8369050063c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:05:13.795455+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "af758f09430feb81f5a7a2fdf67ff772f0aaadab2ca94035030456e1659ce469",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:05:13.795455+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サンゴ環礁から石炭鉱滓堆積場まで：2新種と2つの暗色菌類分類群により、単型属Innospora（Paraglomerales, Glomeromycota）が拡充された。",
+    "abstract_ja": "部分的なrDNA配列に基づく形態学的および系統学的解析により、Innospora属の2新種、Innospora atollensis sp. nov. および Innospora fodinalis sp. nov. の記載が支持された。これらの種により、従来は I. majewskii のみが属していた単型属の Innospora が拡充された。Innospora atollensis はフランス領ポリネシアのサンゴ環礁で発見された一方、I. fodinalis はポーランドの石炭採掘後の残土堆積場から回収された。I. atollensis および I. fodinalis の胞子は無色で小型であり、I. majewskii と同様に3層構造の胞子壁を有する。形態学的には、I. fodinalis の胞子は胞子壁の第1層に粒状の装飾が見られる点で他の Innospora 属の種と異なるが、I. atollensis は胞子壁の第3層が著しく厚い点、および閉鎖隔壁を有する点で異なる。環境配列を含む解析により、両種の既知の分布域がさらに複数の地点へと拡大し、I. atollensis はカリブ海およびオーストラリアで、I. fodinalis はユーラシア大陸全域で記録された。さらに、国際標準目録（International Standard to Catalogue Dark Fungal Taxa）の暗色菌類分類群（dark fungal taxa）としての指定基準を満たす、種レベルのeDNA系統を2つ検出した。これらは正式に Innospora austroafricana-ENAS および Innospora palaearctica-ENAS として記載される。前者は南アフリカのみで記録されているが、後者はユーロ・地中海地域にわたってより広範に分布している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.3086.v1",
+    "title": "Research on a Product Family Morphological Constraint Generation Framework Based on Homologous Gene Theory and Shape Grammar",
+    "abstract": "To address the insufficient core feature inheritance, weak control of morphological variation, and limited quantitative evaluation in product-family form design, this study proposes a constraint-based generative framework that integrates homologous gene theory and shape grammar. Using handheld lithium-ion drills, homologous product genes are extracted from structural, functional, and visual features and classified into rigid conservation and flexible variation layers based on their effects on functional stability and brand recognition. The rigid layer constrains the topology and functional layout of the core components to preserve the operational logic and family identity. The flexible layer governs local morphological elements and supports differentiated derivation through shape grammar rules. Based on this framework, a shape grammar rule library for lithium-ion drills is established, and two-dimensional line-drawing schemes are generated. A model combining sequence similarity, topological conservation, functional relevance, and visual morphological similarity was constructed, and visual similarity was calculated using multi-algorithm fusion. The results showed that the homology index ranged from approximately 0.84 to 0.88, indicating that the generated schemes maintained high visual and homologous similarity to the original scheme. Overall, the proposed method enables morphological innovation while preserving core product-family genes, thus providing an evaluable approach to product-family styling design.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.3086.v1",
+    "date": "2026-10-30",
+    "authors": "Gang L, Yuan L, Jiyong G, Lin G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355140",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4990,
+    "collected_at": "2026-11-17T04:29:57.739573+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.20944/preprints202610.3086.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "26a3ec743c3a76ca1af9a3412f09d8ff1ea0f5e901048d8a38a7bd3d35035997",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:05:13.795455+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "43dd97c48ed6c7755a79dee3ac9a2e4dc70ebf195dc332422273601fae33bfad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:05:13.795455+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "相同遺伝子理論と形状文法に基づくプロダクトファミリー形態制約生成フレームワークの研究",
+    "abstract_ja": "コア機能の継承不足、形態的変異の制御力の弱さ、および製品ファミリーの形状設計における定量的評価の限界という課題に対処するため、本研究では、相同遺伝子理論と形状文法を統合した制約ベースの生成フレームワークを提案する。手持ち式リチウムイオンドリルを用い、構造的・機能的・視覚的特徴から相同な製品遺伝子を抽出し、機能的安定性とブランド認知度への影響に基づいて、剛性保存層と柔軟変異層に分類する。剛性層は、コア構成要素のトポロジーと機能的配置を制約することで、動作ロジックとファミリーアイデンティティを維持する。柔軟層は、局所的な形態要素を制御し、形状文法ルールを通じて差別化された派生を支援する。このフレームワークに基づき、リチウムイオンドリル用の形状文法ルールライブラリを構築し、二次元線描画スキームを生成する。配列類似性、トポロジー保存性、機能的関連性、および視覚的形態類似性を組み合わせたモデルを構築し、マルチアルゴリズム融合を用いて視覚的類似性を算出した。その結果、相同性指数は約0.84～0.88の範囲にあり、生成されたスキームが元のスキームに対して高い視覚的類似性と相同性を維持していることが示された。総じて、提案手法はコアとなる製品ファミリー遺伝子を保持しつつ形態的革新を可能にし、製品ファミリーのスタイリング設計における評価可能なアプローチを提供する。"
   }
 ]
