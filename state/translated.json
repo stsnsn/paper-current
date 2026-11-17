@@ -286465,5 +286465,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "相同遺伝子理論と形状文法に基づくプロダクトファミリー形態制約生成フレームワークの研究",
     "abstract_ja": "コア機能の継承不足、形態的変異の制御力の弱さ、および製品ファミリーの形状設計における定量的評価の限界という課題に対処するため、本研究では、相同遺伝子理論と形状文法を統合した制約ベースの生成フレームワークを提案する。手持ち式リチウムイオンドリルを用い、構造的・機能的・視覚的特徴から相同な製品遺伝子を抽出し、機能的安定性とブランド認知度への影響に基づいて、剛性保存層と柔軟変異層に分類する。剛性層は、コア構成要素のトポロジーと機能的配置を制約することで、動作ロジックとファミリーアイデンティティを維持する。柔軟層は、局所的な形態要素を制御し、形状文法ルールを通じて差別化された派生を支援する。このフレームワークに基づき、リチウムイオンドリル用の形状文法ルールライブラリを構築し、二次元線描画スキームを生成する。配列類似性、トポロジー保存性、機能的関連性、および視覚的形態類似性を組み合わせたモデルを構築し、マルチアルゴリズム融合を用いて視覚的類似性を算出した。その結果、相同性指数は約0.84～0.88の範囲にあり、生成されたスキームが元のスキームに対して高い視覚的類似性と相同性を維持していることが示された。総じて、提案手法はコアとなる製品ファミリー遺伝子を保持しつつ形態的革新を可能にし、製品ファミリーのスタイリング設計における評価可能なアプローチを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761795",
+    "title": "flashscenic: Accelerated GRN Analysis with RegDiffusion for Large-Scale Single-Cell Data",
+    "abstract": "Motivation  Single-cell gene regulatory network (GRN) analysis via the SCENIC framework provides biologically interpretable cell-state representations through motif-validated transcription factor (TF) regulon activities. However, sequential, CPU-bound implementations (pySCENIC) constrain scalability to highly variable genes and make the repeated executions needed to resolve network stochasticity computationally prohibitive. Furthermore, while regulon activity is hypothesized to mitigate technical batch effects, its integration performance has never been quantitatively assessed against modern data integration benchmarks. We present flashscenic, an end-to-end GPU-accelerated framework that resolves these bottlenecks and expands the practical scope of single-cell regulatory genomics. Results  By reformulating module construction, cisTarget motif pruning, and AUCell scoring into batched GPU tensor operations, flashscenic achieves a 12-to 27-fold downstream speedup over pySCENIC, while maintaining strict numerical equivalence (  r Pearson = 0.9996). Leveraging this throughput, we conducted the first systematic benchmark of nine consensus aggregation strategies across multiple independent tissue cohorts, demonstrating that discrete post-pruning recurrence voting (≥ 50% recurrence, ≥ 5 targets per regulon) maximizes biological fidelity. Finally, data integration benchmarking across a 116,043-cell acute myeloid leukemia (AML) atlas quantitatively demonstrates that uncorrected TF activity provides an intrinsic, unsupervised batch-integration benefit over raw PCA. Combining it with a standard batch integration method matches or outperforms canonical expression-based integration while accurately recovering lineage-defining and oncogenic regulators (CEBPA, HOXA9).  Availability  pip install flashscenic . Source code and tutorials:  https://github.com/haozhu233/flashscenic .",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761795",
+    "date": "2026-10-30",
+    "authors": "Zhu H, Cardenal-Antolin G, Jin X, Gootenberg JS, Abudayyeh OO, Slonim DK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354492",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4991,
+    "collected_at": "2026-11-17T04:29:57.739573+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.26.761795"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ffcf1fa7a9fc30efe07fd955623d7f7183a6f4e2b9bc6935d2a7a9f1f4e228de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:08:16.552006+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "72dd9226fd6a55f1a19cd867e64b68fa5a2bdcd842d18edde552fe2bb4a3ff2f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:08:16.552006+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "flashscenic: 大規模単一細胞データ向けRegDiffusionを用いたGRN解析の高速化",
+    "abstract_ja": "動機  SCENICフレームワークを用いたシングルセル遺伝子調節ネットワーク（GRN）解析は、モチーフ検証済みの転写因子（TF）レギュロン活性を通じて、生物学的に解釈可能な細胞状態表現を提供する。しかし、逐次的なCPUバウンド型実装（pySCENIC）では、スケーラビリティが変動の激しい遺伝子に限定され、ネットワークの確率性を解消するために必要となる繰り返し実行が計算量的に困難となる。さらに、レギュロン活性は技術的なバッチ効果を軽減すると仮定されているが、その統合性能が最新のデータ統合ベンチマークを用いて定量的に評価されたことはない。本研究では、これらのボトルネックを解消し、シングルセル調節ゲノミクスの実用的範囲を拡大するエンドツーエンドのGPU加速フレームワーク「flashscenic」を提案する。結果  モジュール構築、cisTargetモチーフのプルーニング、およびAUCellスコアリングをバッチ処理されたGPUテンソル演算へと再定式化することで、flashscenicは厳格な数値的等価性（  r Pearson = 0.9996）を維持しつつ、pySCENIC比で12～27倍のダウンストリーム高速化を実現した。このスループットを活用し、複数の独立した組織コホートにわたって9種類のコンセンサス集約戦略の初の系統的なベンチマークを実施し、プルーニング後の離散的な再出現投票（再出現率 ≥ 50%、レギュロンあたり ≥ 5個のターゲット）が生物学的忠実度を最大化することを実証した。最後に、116,043細胞からなる急性骨髄性白血病（AML）アトラスを用いたデータ統合ベンチマークにより、補正されていないTF活性が、生のPCAと比較して本質的かつ教師なしのバッチ統合上の利点をもたらすことが定量的に示された。これを標準的なバッチ統合手法と組み合わせることで、正準な発現ベースの統合と同等またはそれ以上の性能を発揮しつつ、系統を定義する調節因子および発がん性調節因子（CEBPA, HOXA9）を正確に復元することが可能となる。  入手可能性  pip install flashscenic . ソースコードおよびチュートリアル:  https://github.com/haozhu233/flashscenic ."
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762730",
+    "title": "LPT: Orchestrating bounded agentic loops for automated protein binder design",
+    "abstract": "Current large language models (LLMs) can reason over scientific information and use code-based tools, but their training knowledge is broad rather than specialized, can be out of date and is hard to attribute to sources. Furthermore, unconstrained agentic workflows and unlimited tool use can consume large amounts of tokens. Here we present LPT (little protein tiger), a framework for fixed orchestration of LLM stages, each running a bounded agentic loop with custom system prompts and tool access, to enable de novo protein binder design from a single natural language prompt. The LLM stages can query a curated literature database, containing ∼14000 papers digested into key findings, enabling recall of specialized information. An LLM with database access answered 41/48 test questions drawn from database key findings correctly, while a model without access answered none. In three end-to-end design campaigns, initiated from a single prompt, LPT autonomously identified the design intent, selected targets, structures and hotspot residues and designed candidate binders to disrupt CALCRL/RAMP1, PD-1/PD-L1 and PVR-TIGIT interactions. Cross-validation with multiple folding models confirms a high in silico success rate at minimal token consumption and low computational costs.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762730",
+    "date": "2026-10-30",
+    "authors": "Uckelmann M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354486",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "protein",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "protein",
+          "tool"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4992,
+    "collected_at": "2026-11-17T04:29:57.739573+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.29.762730"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3d42d11ca1bf7bbd1ef72ac4d365d659658a881ae61be8df9b580cd62f25abfb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:08:16.552006+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9588a1159dce18015458fcb7f849cb4c83346c4ecdc248d2c51cffd20174e3d6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:08:16.552006+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LPT: 自動タンパク質バインダー設計のための有界エージェントループのオーケストレーション",
+    "abstract_ja": "現在の大規模言語モデル（LLM）は、科学的情報に関する推論やコードベースのツールの利用が可能だが、その学習知識は専門化されているというよりは広範であり、内容が古くなっている場合があるほか、情報源の特定が困難である。さらに、制約のないエージェント型ワークフローや無制限のツール利用は、大量のトークンを消費することがある。本研究では、LLMステージを固定的にオーケストレートするためのフレームワークであるLPT（little protein tiger）を提案する。各ステージは、カスタムシステムプロンプトとツールアクセスを備えた限定的なエージェント型ループを実行し、単一の自然言語プロンプトからde novoのタンパク質バインダー設計を可能にする。LLMステージは、主要な知見に要約された約14,000本の論文を収録したキュレート済み文献データベースにクエリを発行でき、これにより専門的な情報の想起が可能となる。データベースアクセス権を持つLLMは、データベースの主要な知見から抽出した48問のテスト質問のうち41問に正解したが、アクセス権のないモデルは1問も正解できなかった。単一のプロンプトから開始された3つのエンドツーエンド設計キャンペーンにおいて、LPTは自律的に設計意図を特定し、標的、構造、およびホットスポット残基を選択し、CALCRL/RAMP1、PD-1/PD-L1、およびPVR-TIGIT相互作用を阻害する候補バインダーを設計した。複数のフォールディングモデルを用いた交差検証により、最小限のトークン消費と低い計算コストで、高いin silico成功率が確認された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761800",
+    "title": "Mechanistic gene-regulation-based trajectory inference with bowside",
+    "abstract": "While single-cell RNA sequencing enables the in-depth study of differentiation processes, simultaneous trajectory inference and gene regulatory network reconstruction remain challenging. We propose bowside, a shallow neural stochastic differentiation model that mechanistically models gene regulation. Our method successfully recovers gene expression trends and the underlying regulatory interactions. We demonstrate bowside on hematopoiesis and induced pluripotent stem cell reprogramming data, retrieving known fate-determining network motifs.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761800",
+    "date": "2026-10-30",
+    "authors": "Schleicher JT, Zago M, Claassen M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354480",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "inference"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "inference"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4993,
+    "collected_at": "2026-11-17T04:29:57.739573+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.26.761800"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c9a1e5b06b70756fa82065e04254112a181f2cfa8da894d77e43eb54910c5369",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:08:16.552006+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c9994178f9684b5828bdad3ef80a7d00e7446bcb382eb60784a25d9583d78517",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:08:16.552006+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "bowsideを用いた機構的遺伝子制御に基づく軌跡推論",
+    "abstract_ja": "シングルセルRNAシーケンシングにより分化過程の詳細な解析が可能となった一方で、軌跡の同時推論や遺伝子調節ネットワークの再構築は依然として困難な課題である。本研究では、遺伝子調節を機構的にモデル化した浅層ニューラル確率的分化モデル「bowside」を提案する。本手法は、遺伝子発現の傾向とその根底にある調節相互作用の復元に成功している。造血および誘導多能性幹細胞のリプログラミングデータを用いてbowsideを実証し、既知の運命決定ネットワークモチーフを抽出した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11232946/v1",
+    "title": "Influence of Biotic and Abiotic Factors on the Gut Microbiome of the Western Honey Bee",
+    "abstract": "Abstract    The gut microbiome of the honey bee plays key roles in digestion, growth and immunity. While there is some evidence that pathogens, such as  Nosema  , modulate the composition of honey bee gut microbiota, field-based studies assessing other environmental cofactors, are lacking. This knowledge gap constrains both disease management strategies and policy development for honey bee protection. This study examined the effects of  Nosema  , arable land use, seasonality and latitude on honey bee gut microbiota under natural conditions across Great Britain. Using worker bees collected via a citizen science beekeeper network, we extracted DNA from digestive tissues. This was analysed using qPCR to detect  Nosema ceranae  and  Nosema apis  , alongside 16S rRNA metabarcoding to characterise microbiome composition. Approximately 40% of colonies contained the parasite  N. ceranae  , while  N. apis  was not detected. Increases in the amount of arable land cover surrounding hives significantly reduced  N. ceranae  gene copy number. Although  N. ceranae  caused significant shifts in microbiome diversity indices, environmental fitting (envfit) permutation tests revealed this was not a significant factor in influencing the gut composition in comparison to other factors such as seasonal variation. Both seasonality and latitude indicated that climate and honey bee diet shapes the honey bee gut microbiome. Multivariate analyses identified shifts in both core and low-abundance taxa in arable landscapes, highlighting the influence of dietary differences and increased pesticide exposure upon the gut microbiota. Collectively, these findings improve our understanding of factors associated with declining honey bee health and colony collapse.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11232946/v1",
+    "date": "2026-10-20",
+    "authors": "Bennett MJR, Woodcock BA, Busi SB, Pywell R, Savage J, Gweon HS, Suresh M, Newbold LK.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345837",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 2805,
+    "collected_at": "2026-11-10T23:38:05.563667+00:00",
+    "collected_date": "2026-11-11",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-10",
+    "related_dois": [
+      "10.21203/rs.3.rs-11232946/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6ea7761f29aac4d476a5df7d01882c39f14cddc85179f06ddfd06993d7e98138",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:08:16.552006+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6c727842b23e4e6b91b8a746aaa0cbbcb60ba0da17a11894483673c99bdde75a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:08:16.552006+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "セイヨウミツバチの腸内細菌叢に及ぼす生物的・非生物的要因の影響",
+    "abstract_ja": "要旨    ミツバチの腸内マイクロバイオームは、消化、成長、および免疫において重要な役割を担っている。ノゼマ（Nosema）などの病原体がミツバチの腸内微生物叢の組成を調節するという一定の証拠はあるものの、その他の環境共因子を評価したフィールドベースの研究は不足している。この知見の空白は、ミツバチ保護のための疾病管理戦略と政策策定の双方を制約している。本研究では、英国全土の自然条件下において、ノゼマ、耕作地利用、季節性、および緯度がミツバチの腸内微生物叢に及ぼす影響を検討した。市民科学の養蜂家ネットワークを通じて収集した働きバチを用い、消化組織からDNAを抽出した。これをqPCRを用いて解析してNosema ceranaeおよびNosema apisを検出するとともに、16S rRNAメタバーコーディングを用いてマイクロバイオーム組成を特性評価した。コロニーの約40%に寄生虫N. ceranaeが含まれていた一方、N. apisは検出されなかった。巣箱周辺の耕作地被覆面積の増加は、N. ceranaeの遺伝子コピー数を有意に減少させた。N. ceranaeはマイクロバイオーム多様性指数に有意な変動をもたらしたが、環境フィッティング（envfit）置換検定の結果、季節変動などの他の要因と比較して、これが腸内組成に影響を与える有意な要因ではないことが示された。季節性と緯度の双方は、気候とミツバチの食性がミツバチの腸内マイクロバイオームを形成していることを示した。多変数解析により、耕作地景観においてコア分類群と低存在量分類群の両方に変動が認められ、食性の違いや農薬曝露の増加が腸内微生物叢に及ぼす影響が浮き彫りとなった。総じて、これらの知見は、ミツバチの健康状態の悪化およびコロニー崩壊に関連する要因への理解を深めるものである。"
   }
 ]
