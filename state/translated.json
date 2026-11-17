@@ -295604,5 +295604,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "生成AIによる心理療法セッションのシミュレーション：イン・シリコ心理療法研究の概念実証研究",
     "abstract_ja": "背景  生物医学分野において、in silicoモデルはin vivoおよびin vitro研究を補完する役割をますます担っている。しかし、心理療法科学は、方法論的な制約、リソースを要する試験、臨床的に意義のある特徴を実験的に操作することの困難さ、および有効性の潜在的な上限といった課題に依然として直面している。生成AIおよび大規模言語モデル（LLM）を活用し、我々は「in silico心理療法研究」のフレームワーク、すなわち再現可能な実験条件下での心理療法的相互作用の制御されたシミュレーションを提案する。目的  このようなシミュレーション実験が、単独の心理療法プロセス操作によって理論的に予想される効果を再現できるかを検証する。方法  事前登録済みの概念実証研究において、ローカルにデプロイされたLlama-3.3-70B-In-structベースのセラピストおよび患者モデルを、8つのビネットと8つのセラピストペルソナにわたって連携させることで、512セッションの完全自動化された動機づけ面接（MI）セッションを生成した。患者ではなくセラピストのプロンプトを用いて共通の治療因子（CTF）を操作し、制御された設計の下で、共感、肯定的な評価、および同盟構築行動の高低を対比させた。主要評価項目はMI治療の整合性（MITI 4.2 グローバル評価）とし、盲検化されたLLMによる反復評価を行い、線形混合効果モデルを用いて分析した。副次評価項目には、シミュレーションされた患者の発話に基づく観察者推論による重要度／自信尺度が含まれた。また、セラピスト共感尺度（TES）およびWorking Alliance Inventory–Short Observer（WAI-S-O）を操作忠実度の検証に用いた。人間のコーダーが層化サブサンプルを評価した。結果  512回のシミュレーションのうち、506回（98.8%）で完全なトランスクリプトが得られ、480回（93.75%）が分析対象として保持された。操作検証により、CTF操作の忠実度が確認された（WAI-S-O合計スコア β=3.14; [2.65,3.63], p）。結論  LLMベースの心理療法シミュレーションは技術的に実現可能であり、実験的な忠実度を実証するとともに、直接的に操作された構成概念やシミュレーション参加者を超えた、理論的に整合した効果を示した。これらの知見は、仮説の生成と検証を支援し、介入開発の加速を可能にする有望な補完的前臨床実験パラダイムとしてのin silico心理療法研究の概念実証を提供するものである。患者集団、治療モダリティ、およびモデルアーキテクチャにおける本アプローチの適用可能性については、さらなる評価が必要である。  試験事前登録  ClinicalTrials.gov NCT06813066 ;  https://clinicaltrials.gov/study/NCT06813066?term=NCT06813066"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.26366229",
+    "title": "A family-aware All of Us benchmark for polygenic prediction and genomic machine learning",
+    "abstract": "Polygenic risk scores (PRSs) have improved substantially in predictive performance, yet results remain difficult to compare across studies that differ in cohorts, phenotype definitions, and evaluation procedures. Comparison to machine-learning methods is harder still, since their performance depends strongly on how data are partitioned and whether related individuals leak across splits. Here, we introduce a family-aware benchmark for polygenic prediction built on version 9 of the All of Us Research Program (AoU). The benchmark assigns entire family components to fixed discovery, calibration, and test partitions, reserves first-degree relatives for within-family evaluation, and separates models trained only on AoU discovery data from those using external GWAS summary statistics. This enables direct comparison between conventional PRS pipelines and machine-learning models trained under identical data budgets. We report results for 14 binary disease traits. Our strongest scores explain 5.7–24.9% of liability-scale variance, with particularly strong prediction for Alzheimer’s disease, type 2 diabetes, prostate cancer, glaucoma, and inflammatory bowel disease, and match or exceed published commercial and academic scores for most traits. Across 12 traits with interpretable within-family estimates of within-sibship-to-population effect ratio, 11 confidence intervals included a ratio of 1. Type 2 diabetes showed an attenuation ratio of 0.86 [0.76, 0.97].",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.26366229",
+    "date": "2026-10-26",
+    "authors": "Ren G, Wu K, Ren C, Nyiha I, Wu K, Yang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350364",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "genomic",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5046,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.22.26366229"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5d79d3cfb3f3585c41b977484719c561588056916c89a8cc451c0200cc64998c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:55:04.351859+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4f11dd4c412e12a5c2d7fd0bc118d45336916de0a5bdca4cef9fee441aed043d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:55:04.351859+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多遺伝子予測およびゲノム機械学習のためのファミリー認識型All of Usベンチマーク",
+    "abstract_ja": "多遺伝子リスクスコア（PRS）の予測性能は大幅に向上したが、コホート、表現型の定義、および評価手順が異なる研究間では、結果の比較が依然として困難である。機械学習手法との比較はさらに困難である。というのも、その性能はデータの分割方法や、血縁個体が分割間で漏れ出すか否かに強く依存するためである。本研究では、All of Us Research Program（AoU）のバージョン9に基づき構築した、多遺伝子予測のためのファミリー認識型ベンチマークを提案する。このベンチマークでは、ファミリー構成員全体を固定の探索・較正・テスト分割に割り当て、一親等の親族をファミリー内評価用に確保し、AoUの探索データのみで訓練されたモデルと、外部のGWAS要約統計量を用いたモデルを分離する。これにより、従来のPRSパイプラインと、同一のデータ予算の下で訓練された機械学習モデルとの直接的な比較が可能となる。我々は、14種類の二値疾患形質について結果を報告する。最も高いスコアは責任尺度分散の5.7～24.9%を説明しており、特にアルツハイマー病、2型糖尿病、前立腺がん、緑内障、および炎症性腸疾患において強力な予測性能を示し、ほとんどの形質において公表されている商用および学術的なスコアと同等か、あるいはそれを上回る結果となった。兄弟姉妹間対集団効果比の解釈可能なファミリー内推定値が得られる12種類の形質において、11の信頼区間で比率が1となった。2型糖尿病では、減弱比が0.86 [0.76, 0.97] であった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760182",
+    "title": "A robust mutation spectrum analysis framework for high-depth error-corrected sequencing data",
+    "abstract": "ABSTRACT  Comparing mutational spectra across experimental groups requires inference at the level of the biological replicate. Error-corrected sequencing (ECS) generates hundreds to thousands of mutations per replicate, yet classical pooled G² tests treat individual mutations as independent observations and ignore replicate-level variability, inflating statistical significance (pseudo-replication). We present a replicate-aware Ridge-Penalized Dirichlet-Multinomial (RP-DMM) framework that models biological replicates directly and accounts for overdispersion. An L2 (ridge) penalty, with strength chosen by leave-one-out cross-validation, stabilizes spectrum estimates by shrinking weakly supported mutation categories toward a common baseline, and inference uses a parametric bootstrap. We also provide a complementary non-parametric rank-permutation test for sparse datasets. In simulations, the pooled G² test became increasingly anti-conservative as mutation depth increased, with false-positive rates approaching 100% under the null hypothesis. RP-DMM maintained Type I error near the nominal 5% level and had substantially greater power than the rank-permutation test. Regularization was most consequential for high-dimensional spectra. False positive rates approached the nominal 5% level once the lower-mutation group contained approximately 300-500 mutations, depending on the number of biological replicates. A practical target of approximately 400 mutations in the lower-mutation group provided robust Type I error control across all scenarios examined; below this, the rank-permutation test performed robustly and is preferred. In Duplex Sequencing data from benzo[a]pyrene-exposed mice, RP-DMM distinguished exposure-associated mutational signatures from comparisons with higher mutation counts but null effect size, whereas the pooled G² test declared all comparisons significant. The cross-validated penalty decreased as mutation depth increased, indicating that regularization strength should be tuned to the data. The framework is implemented in the MutSeqR R package.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760182",
+    "date": "2026-10-24",
+    "authors": "Williams A, Alcaraz AJ, Dodge AE, LeBlanc DP, Meier MJ, Yauk CL, Marchetti F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349717",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "sequencing"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5054,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.19.760182"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0554250d4a3478ca7e442621d56463c0526d0da73bd5fc054aa8a5a91218e364",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:55:04.351859+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9ed1ada58c7fcb3157137553e8937b19297528791a0209636400abb9d9dcf0b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:55:04.351859+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "高深度エラー訂正シーケンシングデータのための堅牢な変異スペクトラム解析フレームワーク",
+    "abstract_ja": "要旨　実験群間で変異スペクトルを比較するには、生物学的レプリケートレベルでの推論が必要となる。誤差訂正シーケンシング（ECS）では1レプリケートあたり数百から数千の変異が生成されるが、従来のプール型G²検定では個々の変異を独立した観測値として扱い、レプリケートレベルの変動を無視するため、統計的有意性が過大評価される（擬似反復）。本研究では、生物学的レプリケートを直接モデル化し、過剰分散を考慮したレプリケート認識型リッジペナルティ付きディリクレ多項分布（RP-DMM）フレームワークを提案する。leave-one-out交差検証によって強度を選択したL2（リッジ）ペナルティは、支持力の弱い変異カテゴリーを共通のベースラインへと縮小させることでスペクトル推定値を安定化させ、推論にはパラメトリックブートストラップを用いる。また、疎なデータセット向けに、補完的な非パラメトリック順位置換検定を提供する。シミュレーションにおいて、プール型G²検定は変異深度の増加に伴い反保存的になり、帰無仮説の下で偽陽性率が100%に近づいた。RP-DMMは第一種過誤を名目上の5%水準付近に維持し、順位置換検定よりも大幅に高い検出力を示した。正則化は、高次元スペクトルにおいて最も顕著な効果をもたらした。偽陽性率は、生物学的レプリケート数に応じて、低変異群に約300～500個の変異が含まれる時点で名目上の5%水準に近づいた。低変異群に約400個の変異という実用的な目標値を設定したところ、検討したすべてのシナリオにおいて頑健な第一種過誤制御が可能となり、これを下回る場合は順位置換検定が頑健に機能するためこちらが好ましい。ベンゾ[a]ピレン曝露マウスのデュプレックスシーケンシングデータにおいて、RP-DMMは曝露関連の変異シグネチャーを、変異数は多いが効果量がゼロである比較結果から区別したが、プール型G²検定はすべての比較を有意とした。交差検証済みのペナルティは変異深度の増加に伴い減少し、正則化の強度はデータに合わせて調整すべきであることが示された。本フレームワークはMutSeqR Rパッケージに実装されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.760875",
+    "title": "Probabilistic uncertainty in virtual spatial transcriptomics from histology is largely redundant with the predicted mean",
+    "abstract": "Deep learning has enabled virtual spatial transcriptomics from histology, offering a scalable approach to molecular profiling of routinely archived tissue without molecular assays. However, reliable uncertainty estimates are essential for identifying potentially inaccurate predictions, and it remains unclear whether existing methods provide useful information about prediction reliability. Here, we present a systematic benchmark of uncertainty estimation for virtual spatial transcriptomics across three cancer cohorts spanning melanoma, lung, and kidney tumors. We evaluate aleatoric and epistemic uncertainty using probabilistic likelihoods and approximate Bayesian methods alongside histology-free and training-free baselines, assessing both calibration and error informativeness. Across cohorts and methods, uncertainty is associated with prediction error, but the predicted mean largely explains this association. After accounting for the mean, uncertainty provides only weak information about larger errors. Moreover, good calibration does not imply informative uncertainty, with simple distributions fitted without histology achieving comparable calibration. We therefore distinguish calibrated from informative uncertainty and argue that uncertainty should provide information about prediction error beyond the predicted mean. This benchmark provides a framework for systematic uncertainty evaluation in virtual spatial transcriptomics. Code availability  https://github.com/ratschlab/uncertainty-vst-2026",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.760875",
+    "date": "2026-10-24",
+    "authors": "Batique T, Nonchev K, Koelzer VH, Rätsch G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349523",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5056,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.23.760875"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e9a85d451ca5e0de468ba3ed3da1db1656947e0e18faa915570664972b5d5266",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:55:04.351859+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9124bbee0cec4a467846cd978e92e8a180f28c2092516229e9d51346ae84ee78",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:55:04.351859+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "組織学的解析に基づく仮想空間トランスクリプトミクスにおける確率的不確実性は、予測平均値と概ね一致する。",
+    "abstract_ja": "深層学習により、組織学的解析に基づく仮想空間トランスクリプトミクスが可能となり、分子アッセイを用いることなく、日常的にアーカイブされた組織の分子プロファイリングを行うスケーラブルな手法が提供されている。しかし、潜在的に不正確な予測を特定するためには、信頼性の高い不確実性推定が不可欠であり、既存の手法が予測の信頼性に関する有用な情報を提供しているかは依然として不明である。本研究では、メラノーマ、肺腫瘍、および腎腫瘍にわたる3つのがんコホートを対象に、仮想空間トランスクリプトミクスの不確実性推定に関する体系的なベンチマークを提示する。確率的尤度および近似ベイズ法を用いて、組織学的解析および学習を必要としないベースラインとともに、アレアトリック不確実性とエピステミック不確実性を評価し、較正と誤差情報の有用性の双方を検証する。コホートや手法を問わず、不確実性は予測誤差と関連しているが、予測平均がこの関連性の大部分を説明している。平均を考慮した後では、不確実性はより大きな誤差に関する弱い情報しか提供しない。さらに、良好な較正が必ずしも有益な不確実性を意味するわけではなく、組織学的解析なしに適合させた単純な分布でも、同等の較正が得られる。したがって、我々は較正された不確実性と有益な不確実性を区別し、不確実性は予測平均を超えて予測誤差に関する情報を提供するべきであると主張する。本ベンチマークは、仮想空間トランスクリプトミクスにおける体系的な不確実性評価のための枠組みを提供する。コードの入手先：https://github.com/ratschlab/uncertainty-vst-2026"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2314.v1",
+    "title": "Post-Hoc Vocabulary Extension for Low-Resource Languages: Gains Beyond Fine-Tuning, a Pre-Tokenizer Limit, and Effects on Degenerate Generation",
+    "abstract": "Open-weight language models segment many low-resource languages into three to ten tokens per word, which raises inference cost and latency and leaves less of the context window for content. Extending a pretrained model’s vocabulary after training is a known remedy, but recent reports of it do not separate the effect of the new vocabulary from the effect of the additional training it requires. We study post-hoc extension of Qwen2.5-1.5B for six low-resource and under-served languages in four scripts: Urdu, Sindhi, Pashto, Amharic, Hindi and Tamil. Each extended model is compared with a model fine-tuned under the same budget without new vocabulary. For Hindi and Tamil, extension alone gives little: the inherited pre-tokenizer splits words at every vowel sign, and plain extension already reaches 95 to 99 percent of the compression it allows. A script-scoped repair of the pre-tokenizer, applied to the pretrained model, removes this limit. With 2,000 new tokens, and with the repair for Hindi and Tamil, sequences become 45 to 72 percent shorter and generating the same text is 1.75 to 3.64 times faster. At equal compute, the extended models have lower held-out bits per character than fine-tuning alone and translate into English better on FLORES-200, in all six languages. Extension also reduces degenerate repetition when the model writes these languages. A vocabulary-size sweep, a length-matched analysis, forced fragmentation of English output, and an ablation that freezes the new embeddings all point to fragmentation as one cause of this repetition. We release the toolkit, tokenizers and adapters.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2314.v1",
+    "date": "2026-10-23",
+    "authors": "Kaleem A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1349827",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "resource"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5059,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.20944/preprints202610.2314.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9b2b190c023fb1d0367dd37f648f1cf4d7abc49d226f82ee24d9312f24f8e30f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:55:04.351859+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "100d07994cfec8572ce8b9743d28320c7697db1c099d7d0baa2013343af6c58a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:55:04.351859+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "低リソース言語向けポストホック語彙拡張：ファインチューニングの枠を超えた利点、プリトークナイザーの限界、および退化生成への影響",
+    "abstract_ja": "オープンウェイトの言語モデルは、多くの低リソース言語を1単語あたり3〜10トークンに分割するため、推論コストとレイテンシが増大し、コンテンツのためのコンテキストウィンドウが減少する。学習後に事前学習済みモデルの語彙を拡張することは既知の解決策だが、近年の報告では、新しい語彙による効果と、それに必要となる追加学習の効果を切り分けられていない。本研究では、ウルドゥー語、シンディー語、パシュトー語、アムハラ語、ヒンディー語、タミル語の4つの文字体系における6つの低リソースかつ十分に活用されていない言語を対象に、Qwen2.5-1.5Bの事後拡張について検討した。各拡張モデルを、新しい語彙を用いず同一の予算でファインチューニングしたモデルと比較した。ヒンディー語とタミル語では、拡張だけでは効果がほとんど得られない。継承されたプリトークナイザーがあらゆる母音記号で単語を分割しており、単純な拡張だけで既に許容される圧縮率の95〜99%に達するためである。事前学習済みモデルに文字体系固有のプリトークナイザーの修正を適用することで、この限界が解消される。2,000個の新規トークンとヒンディー語・タミル語向けの修正により、シーケンスは45〜72%短縮され、同一のテキスト生成速度は1.75〜3.64倍向上した。同等の計算量において、拡張モデルはファインチューニングのみの場合よりも文字あたりのホールドアウトビット数が少なくなり、6つの言語すべてにおいてFLORES-200での英語翻訳性能が向上した。また、拡張はモデルがこれらの言語を記述する際の退化的な繰り返しを低減させる。語彙サイズのスイープ、長さマッチング分析、英語出力の強制的な断片化、および新しい埋め込みを固定するアブレーション分析のすべてが、この繰り返しの原因の一つとして断片化を示唆している。本研究では、ツールキット、トークナイザー、およびアダプターを公開する。"
   }
 ]
