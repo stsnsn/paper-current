@@ -291972,5 +291972,313 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "タンパク質設計による機能保持型CD8⁺ T細胞免疫原性の最小化",
     "abstract_ja": "タンパク質設計の急速な進展により、養子細胞療法における新たなアプローチが可能となっているが、外来タンパク質は細胞傷害性T細胞応答を惹起し得るため、タンパク質機能を損なうことなく免疫原性を低減させる手法が強く求められている。本研究では、構造ガイド型配列設計とMHCクラスIエピトープ予測を統合した計算フレームワークを開発し、機能を維持しつつタンパク質の免疫原性を効率的に調整する。de novo設計したルシフェラーゼをモデルとして、5つの一般的なマウスアレルにおいて機能を維持したままエピトープの除去を実証し、さらにこの計算最適化を25種類の一般的なヒトMHC-Iアレルへと拡張した。mRNA-脂質ナノ粒子で免疫したマウスにおいて、MHC-Iエピトープを少数持つように設計した変異体では検出可能なCD8⁺ T細胞応答がほとんど惹起されなかった一方、複数のエピトープを含むように設計した変異体では強固な応答が誘導された。以上の結果は、設計したタンパク質のCD8⁺ T細胞免疫原性を機能を維持したまま調整できることを示しており、次世代の養子細胞療法への設計タンパク質の導入への道を開くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.23.761417",
+    "title": "Cell-type resolved prenylomics in mouse liver enabled by a low-input proteomics workflow",
+    "abstract": "Protein prenylation is a lipid modification crucial for membrane association and cellular signaling, but its dysregulation is linked to cancer and neurodegenerative diseases. Typical “prenylomic” workflows rely on metabolic labeling with bio-orthogonal isoprenoid probes followed by streptavidin enrichment; however, they generally require milligram-scale protein inputs (15–25 million cells), preventing the study of scarce primary or sorted cell populations. To overcome this limitation, we developed a highly sensitive, low-input prenylomic workflow combining optimized streptavidin enrichment with library-free data-independent acquisition (DIA) mass spectrometry. This method enables deep prenylomic coverage from just 50 µg of total protein input, a 20-fold reduction compared to prior methods. In COS7 cells, this workflow identified 91 prenylated protein groups, outperforming TMT-DDA methods that yielded 81 groups from 2 mg of input, using the same bio-orthogonal probe for enrichment, while coefficient of variation (CV) analysis demonstrated superior quantitative precision and reproducibility. Applied  in vivo in mice following subcutaneous probe administration, the low-input methodology overcame sample input limitations to profile cell-type–specific prenylomes from dissociated liver tissue, identifying 29 enriched prenylated proteins in hepatocytes and 18 in macrophages. Pathway enrichment analysis showed that the identified proteins are consistent with the biology of the respective cell-types. This robust methodology significantly lowers the sample threshold for lipid proteomics, expanding the accessibility of prenylomics to limited primary cells and sorted tissue populations to study cell-type–specific prenylation dynamics in disease contexts.",
+    "journal": "",
+    "doi": "10.64898/2026.10.23.761417",
+    "date": "2026-10-27",
+    "authors": "Kottala H, Higgins L, Fredrickson G, Mashek MT, Mashek D, Distefano MD.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351636",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "proteomic",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "proteomic",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5033,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.23.761417"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1c302040e627143c6bddc9a94a352bb607092cda77e10067256a2e4eded4ef8d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:43:30.802079+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "01c0b6e2627d0477aa709c21cd003caef00032c165fa40296eca5491447e5898",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:43:30.802079+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "低インプットプロテオミクスワークフローにより実現したマウス肝臓における細胞種分解前ニルオミクス",
+    "abstract_ja": "タンパク質プレニル化は、膜結合や細胞シグナル伝達に不可欠な脂質修飾であるが、その調節異常はがんや神経変性疾患との関連が指摘されている。典型的な「プレニロミック」ワークフローは、バイオ直交性イソプレノイドプローブを用いた代謝標識と、それに続くストレプトアビジン濃縮に依存している。しかし、これらの手法は一般にミリグラムスケールのタンパク質入力（1,500万～2,500万細胞）を必要とし、希少な初代細胞や分取細胞集団の研究を妨げている。この限界を克服するため、我々は、最適化されたストレプトアビジン濃縮とライブラリフリーのデータ非依存型取得（DIA）質量分析を組み合わせた、高感度かつ低入力のプレニロミックワークフローを開発した。この手法により、わずか50 µgの総タンパク質入力で広範なプレニロミックカバレッジが可能となり、従来の手法と比較して20倍の削減を実現した。COS7細胞において、本ワークフローは91種類のプレニル化タンパク質群を同定し、同一のバイオ直交性プローブを用いた濃縮手法において、2 mgの入力から81群を得たTMT-DDA法を上回る性能を示した。また、変動係数（CV）解析により、優れた定量精度と再現性が実証された。マウスへの皮下プローブ投与後のin vivoで適用したところ、この低入力手法はサンプル入力の制限を克服し、解離肝組織から細胞種特異的なプレニロームをプロファイリングし、肝細胞で29種類、マクロファージで18種類の濃縮プレニル化タンパク質を同定した。パスウェイ濃縮解析の結果、同定されたタンパク質はそれぞれの細胞種の生物学的特性と一致することが示された。この堅牢な手法は、脂質プロテオミクスのサンプル閾値を大幅に引き下げ、限られた初代細胞や分取組織集団へのプレニロミックの適用範囲を拡大することで、疾患状況下における細胞種特異的なプレニル化動態の研究を可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.760922",
+    "title": "MPFIL: Multi-Level Protein Feature Integration for Predicting Mutation-Induced Protein-Protein Binding Affinity Changes",
+    "abstract": "—Predicting mutation-induced changes in protein-protein binding affinity (ΔΔ  G ) is challenging because mutations can affect both local residue environments and the structural organization of protein complexes. Existing approaches often rely on handcrafted physicochemical, energetic, or evolutionary features, which introduce additional computational costs and require domain-specific knowledge. In this work, we propose MPFIL, a multi-level protein feature integration framework for predicting mutation-induced protein-protein binding affinity changes. MPFIL integrates structural and sequential information to characterize mutation effects from complementary perspectives. Its structural feature extraction module captures mutation-induced structural changes and differential information between wild-type and mutant complexes, while sequence feature extraction modules model local residue context and long-range dependencies. The resulting features are integrated for ΔΔ  G prediction. We evaluate MPFIL on three benchmark datasets. Experimental results demonstrate competitive and consistent performance across different protein complex settings, while ablation studies verify the contribution of the structural and sequential features. These results support the effectiveness of multi-level protein feature integration for modeling mutation-induced changes in protein-protein binding affinity.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.760922",
+    "date": "2026-10-27",
+    "authors": "Zhang H, Liu Y, Yu L, Guo M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351574",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5034,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.22.760922"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2c4076047dbaa0ec8584e3f69321e438435d6754e1e0ba0924f48cc67e049724",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:43:30.802079+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "56c02f09d1a88653c1d36777e4c78bf2ed94604321ea12d165ae41b12299e092",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:43:30.802079+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MPFIL: 変異誘発性タンパク質間結合親和性変化予測のための多階層タンパク質特徴量統合",
+    "abstract_ja": "—変異によるタンパク質間結合親和性の変化（ΔΔ  G）を予測することは、変異が局所的な残基環境とタンパク質複合体の構造組織化の双方に影響を及ぼし得るため、困難である。既存の手法は、人手で設計された物理化学的、エネルギー論的、あるいは進化論的な特徴量に依存することが多く、これが追加的な計算コストを伴い、ドメイン固有の知識を必要とする。本研究では、変異によるタンパク質間結合親和性の変化を予測するためのマルチレベルタンパク質特徴量統合フレームワークであるMPFILを提案する。MPFILは、構造情報と配列情報を統合し、相補的な視点から変異の影響を特性化する。構造特徴量抽出モジュールは、変異による構造変化および野生型と変異体複合体間の差異情報を捕捉し、配列特徴量抽出モジュールは局所的な残基コンテキストと長距離依存性をモデル化する。得られた特徴量は統合され、ΔΔ  Gの予測に用いられる。我々は3つのベンチマークデータセットを用いてMPFILを評価した。実験結果は、異なるタンパク質複合体の設定において競争力のある一貫した性能を示すとともに、アブレーションスタディによって構造および配列特徴量の寄与が検証された。これらの結果は、タンパク質間結合親和性の変異による変化をモデル化する上で、マルチレベルタンパク質特徴量統合が有効であることを裏付けている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11147390/v1",
+    "title": "Monte Carlo simulation and breast cancer transcriptomic benchmarking characterize reliability limits of high-dimensional biomedical feature selection",
+    "abstract": "Abstract  Reliable feature selection requires adequate signal recovery, few false selections and reproducible feature sets. We evaluated these requirements jointly using Monte Carlo simulation and breast cancer transcriptomic benchmarking. Breast cancer expression matrices supplied empirical covariates; signal supports and binary outcomes were artificially generated. Joint success required true-positive rates ≥ 0.80 and false-discovery proportions ≤ 0.10 in both members of a data pair, with Jaccard similarity ≥ 0.75. Broad screening covered 624 configurations and nine methods, followed by independent confirmation. The principal transcriptomic benchmark compared composite minimax concave penalty (cMCP) and fixed-mixing-parameter Elastic Net across 2,000 and 22,092 genes. With low-correlation supports and 1,000 patients per side, cMCP achieved 296 to 299 successes in 300 repetitions; high-correlation supports yielded none. Conservative tuning improved reliability when recall remained sufficient, but reduced success from 93/300 to 29/300 in a 2,000-gene, 500-patient setting. Weaker and heterogeneous effects further restricted recovery. These findings characterize conditional reliability limits rather than a universal method ranking. Joint evaluation and component-level diagnostics identify when sample size, support correlation, signal distribution and regularization permit reproducible recovery of known features.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11147390/v1",
+    "date": "2026-10-27",
+    "authors": "Ma H, Yin J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351356",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "simulation",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5035,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.21203/rs.3.rs-11147390/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a2b1201f3877cb68d562d43ebf28b4003d1d955fca8088ead14252573cee0b68",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:43:30.802079+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bb028d86c2b440c3a54d11a7e0f9f4915f04c0f96d57b7b0303003f01208396c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:43:30.802079+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "モンテカルロシミュレーションと乳がんトランスクリプトーム・ベンチマークングによる高次元生物医学特徴量選択の信頼性限界の特性評価",
+    "abstract_ja": "要旨　信頼性の高い特徴量選択には、適切なシグナル復元、少数の誤選択、および再現性のある特徴量セットが必要である。我々は、モンテカルロシミュレーションと乳がんトランスクリプトーム・ベンチマークを用いて、これらの要件を統合的に評価した。乳がん発現行列を経験的共変量として用い、シグナルサポートと二値アウトカムを人工的に生成した。統合的な成功には、データペアの両メンバーにおいて真陽性率 ≥ 0.80かつ偽発見率 ≤ 0.10であり、かつジャカード類似度 ≥ 0.75であることが必要であった。広範なスクリーニングでは624通りの構成と9つの手法を検討し、その後独立した検証を行った。主要なトランスクリプトーム・ベンチマークでは、複合ミニマックス凹ペナルティ（cMCP）と固定混合パラメータ・エラスティックネットを、2,000個および22,092個の遺伝子を対象に比較した。低相関のサポートを用い、片側1,000人の患者とした場合、cMCPは300回の反復で296～299件の成功を達成したが、高相関のサポートでは成功例は得られなかった。保守的なチューニングは、再現率が十分に維持されている場合には信頼性を向上させたが、2,000遺伝子・500人という設定では、成功率が93/300から29/300へと低下した。効果の弱化および不均一性が、復元をさらに制限した。これらの知見は、普遍的な手法のランキングではなく、条件付き信頼性限界を特徴づけるものである。統合的な評価とコンポーネントレベルの診断により、サンプルサイズ、サポート相関、シグナル分布、および正則化が、既知の特徴量の再現性のある復元を可能にする条件を特定できる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10375648/v2",
+    "title": "Multi-Stage Alignment of Large Language Models for Popularity Bias Mitigation in Generative Movie Recommendation",
+    "abstract": "Abstract  Large language models (LLMs) exhibit a strong popularity bias in recommendation tasks, often over-recommending mainstream items while under-representing user-aligned but less popular content. To address this limitation, we propose a multi-stage alignment pipeline for debiasing LLM-based movie recommenders, consisting of preference extraction from user histories, supervised fine-tuning (SFT) for behavioral grounding, and Direct Preference Optimization (DPO) for bias-corrective alignment toward less-popular yet topically relevant items. By explicitly separating grounding from bias correction, the framework enables stable and controllable improvements in exposure fairness. In addition to intrinsic alignment, we systematically compare our approach against classical post-hoc debiasing methods, including popularity-aware re-ranking, to examine trade-offs between recommendation quality and exposure balance. Experiments on MovieLens, Netflix, and Flickscore demonstrate that multi-stage alignment achieves substantial gains in novelty and catalog coverage while maintaining competitive accuracy and offering advantages over simpler exposure-adjustment baselines. These results position multi-stage LLM alignment as a principled and scalable strategy for mitigating popularity bias in generative recommender systems. Our code is publicly available at https://github.com/krishnakantx/debiased-llm-recsys.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10375648/v2",
+    "date": "2026-10-27",
+    "authors": "Raj S, Chourey K, Saha S, Singh B, Pedanekar N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350882",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "alignment",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "alignment",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5036,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.21203/rs.3.rs-10375648/v2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "424c59f9ea65f484b7a0257e7af51ebdeacaa9cd182b3c1f04fa486eb35ba5a6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:43:30.802079+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "967cfaa6bb702cf2dc3a805336513cfc50795bade35356955ccd3965cef9a96c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:43:30.802079+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生成型映画推薦における人気バイアス軽減のための大規模言語モデルの多段階アライメント",
+    "abstract_ja": "要旨  大規模言語モデル（LLM）は推薦タスクにおいて強い人気バイアスを示し、主流のアイテムを過剰に推薦する一方で、ユーザーの嗜好に合致しつつも人気の低いコンテンツを十分に推薦しないことが多い。この限界に対処するため、我々はLLMベースの映画推薦システムのバイアスを除去するための多段階アライメントパイプラインを提案する。本パイプラインは、ユーザー履歴からの嗜好抽出、行動グラウンディングのための教師ありファインチューニング（SFT）、および、人気は低いがトピック的に関連性の高いアイテムへのバイアス補正アライメントのための直接嗜好最適化（DPO）で構成される。グラウンディングとバイアス補正を明示的に分離することで、本フレームワークはエクスポージャーの公平性を安定的かつ制御可能な形で向上させる。本質的なアライメントに加え、人気度を考慮したリランキングを含む従来の事後的バイアス除去手法と本アプローチを体系的に比較し、推薦品質とエクスポージャーバランスのトレードオフを検討する。MovieLens、Netflix、およびFlickscoreを用いた実験により、多段階アライメントが競争力のある精度を維持しつつ、新規性とカタログカバレッジにおいて大幅な向上を実現し、より単純なエクスポージャー調整ベースラインよりも優れた性能を示すことが実証された。これらの結果は、多段階LLMアライメントが、生成型推薦システムにおける人気バイアスを軽減するための、原理に基づいたスケーラブルな戦略であることを示している。本コードは https://github.com/krishnakantx/debiased-llm-recsys で公開されている。"
   }
 ]
