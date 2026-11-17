@@ -289570,5 +289570,294 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "解糖系を超えて：生理学および病態形成における局在依存性ムーンライティングタンパク質としての細菌エノラーゼ",
     "abstract_ja": "細菌性エノラーゼは、保存された解糖系反応を、局在依存的な多様な相互作用と結びつけている。2-ホスホグリセリン酸からホスホエノールピルビン酸へのMg2+依存的な変換を触媒するだけでなく、RNA分解アセンブリに関与し、細胞外の宿主リガンドに結合することができる。これらの非触媒的機能の機構的基盤については、依然として見解が一致していない。細胞質における高い存在量、限定的な細胞溶解、および細菌外膜との再会合が、細胞外検出の解釈を困難にしている。本クリティカル・ナラティブ・レビューでは、分子界面、細胞内局在、および生理学的コンテキストという3つの関連変数を通じてエノラーゼを評価する。大腸菌（Escherichia coli）および枯草菌（Bacillus subtilis）からの証拠は、RNA分解ネットワークへの動員を支持する一方、連鎖球菌、ブドウ球菌およびその他の細菌における研究は、プラスミノーゲン、細胞外マトリックスタンパク質、および補体調節因子との種依存的な相互作用を支持している。構造解析および変異解析により、オリゴマー状態と膜結合がリガンドのアクセシビリティに影響を与えることが示されているが、増殖能の維持だけでは、触媒機能の維持は立証されない。我々は、厳格な証拠階層に代わり、予測、検出、局在、結合、細胞摂動、機能的分離、および宿主関連性を網羅する7つの補完的な基準を導入した。この枠組みにより、関連するコンパートメントおよび宿主における生化学的な妥当性と、因果的な証拠を区別することができる。また、選択的放出、小胞輸送、再会合、バイオフィルムへの関与、および翻訳戦略についても評価する。現在の知見は、普遍的な病原性プログラムではなく、保存された触媒コアと、系統特異的かつ条件依存的な相互作用表面との組み合わせを支持している。今後の進展には、定量的な局在化、制御された機能分離遺伝学、および宿主適合性の検証に加え、各実験系の限界に関する明示的な報告が必要である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1987610",
+    "title": "Rhodococcus–norovirus interactions: a hypothesis of affinity-driven viral release from bacterial exopolysaccharides",
+    "abstract": "Recent findings have revealed that Rhodococcus species bind human norovirus (NoV) particles in clinical stool samples collected from pediatric gastroenteritis cases. This recurring association across independent samples suggests a potentially relevant biological interaction. The binding appears to be mediated by exopolysaccharides (EPSs), which are typically rich in fucose, galactose, and glucuronic acid residues and may structurally mimic histo-blood group antigens (HBGAs), the known cellular receptors for NoV. We propose that these EPSs may function as transient viral carriers capable of stabilizing virions while maintaining reversible interactions with the viral capsid. We further hypothesize an affinity-driven release mechanism, whereby authentic HBGAs on host epithelial cells, possessing higher binding affinity, displace virions from bacterial EPSs, thereby facilitating timely infection. This interaction may serve a dual function: Environmental stabilization of the virus and its controlled release upon encountering host cells. If validated, this model would support the concept that bacterial glycans act as dynamic, reversible docking platforms that influence NoV ecology, transmission, and infectivity.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1987610",
+    "date": "2026-11-17",
+    "authors": "Jesús Rodríguez-Díaz",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1987610",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5059,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1987610"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b24ec76393961da00b2e030badf9fd6631ae16f5a7dfc9234592b6f629b288f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:15:53.033257+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ed9aa745c2db8372cbc5e2574df65b6d94166cf4402bb238454337035a763c99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:15:53.033257+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ロドコッカス–ノロウイルス相互作用：細菌エキソ多糖からの親和性駆動型ウイルス放出仮説",
+    "abstract_ja": "近年の知見により、小児の胃腸炎症例から採取した臨床便検体において、Rhodoococcus属菌がヒトノロウイルス（NoV）粒子に結合することが明らかになった。独立した検体間でこの関連性が繰り返し認められることは、生物学的に関連し得る相互作用の存在を示唆している。この結合はエキソ多糖類（EPS）を介していると考えられ、EPSは通常、フコース、ガラクトース、およびグルクロン酸残基を豊富に含み、NoVの既知の細胞受容体である組織・血液型抗原（HBGA）を構造的に模倣している可能性がある。我々は、これらのEPSが、ウイルスカプシドとの可逆的な相互作用を維持しつつビリオンを安定化させることができる一過性のウイルス担体として機能する可能性を提案する。さらに、より高い結合親和性を有する宿主上皮細胞上の真正HBGAが、細菌EPSからビリオンを置換することで、適時の感染を促進するという、親和性駆動型の放出機構を仮説として提唱する。この相互作用は、ウイルスの環境安定化と、宿主細胞との遭遇時における制御された放出という、二つの機能を果たし得る。もしこのモデルが検証されれば、細菌糖鎖がNoVの生態、伝播、および感染性に影響を与える動的かつ可逆的なドッキングプラットフォームとして機能するという概念を支持することになる。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1956982",
+    "title": "Gut microbiota regulates glucose metabolism in polycystic ovary syndrome: mechanisms and therapeutic implications",
+    "abstract": "Polycystic ovary syndrome (PCOS) is one of the most prevalent endocrine disorders affecting women of reproductive age, characterised by reproductive dysfunction alongside significant metabolic abnormalities. Among these, insulin resistance (IR) is a common and important pathophysiological feature in many women with PCOS and is associated with hyperandrogenism, ovulatory dysfunction, and long-term cardiometabolic complications, although its contribution varies across phenotypes. Accumulating evidence indicates that dysbiosis of gut microbiota contributes to glucose metabolic dysfunction in PCOS through microbial metabolites, immune signalling, and endocrine regulation. This narrative review synthesises current clinical and experimental evidence connecting gut microbiota dysbiosis to metabolic heterogeneity in PCOS, with a particular focus on insulin resistance, obesity, and geographical variability. We discuss the primary mechanisms by which gut microbiota regulates glucose metabolism, including altered short-chain fatty acid production, bile acid dysregulation, impaired incretin signalling, chronic low-grade inflammation, and bidirectional interactions between gut microbiota and sex hormones. These interconnected pathways converge on insulin signalling and collectively contribute to metabolic dysfunction in PCOS. Additionally, we summarise emerging therapeutic strategies targeting the gut microbiota–glucose metabolism axis, including probiotics, prebiotics, synbiotics, microbiota-targeted pharmacological agents, dietary interventions, and lifestyle modifications, and discuss their potential for phenotype-specific management of PCOS. Much of the causal evidence remains preclinical, and no validated microbial signature or microbiota-directed therapy is currently available for PCOS. Current evidence is constrained by substantial inter-study heterogeneity, inconsistent microbial signatures, the predominance of observational human studies, and the absence of standardised microbiota-based interventions and large-scale prospective clinical trials. Rather than viewing these mechanisms as isolated pathways, this review emphasises glucose metabolism as an important integrative process linking gut microbial dysbiosis to both metabolic and reproductive dysfunction in PCOS. This integrative perspective provides a conceptual framework for understanding the gut microbiota–glucose metabolism axis and may facilitate the development of mechanism-based, phenotype-specific microbiota-targeted therapeutic strategies for PCOS.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1956982",
+    "date": "2026-11-17",
+    "authors": "Fang Lian",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1956982",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5060,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1956982"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3f0c9f40604f5dcaca1f21abe8c369bcabded6f02a4b1fd59bb7ef1780ed8f64",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:15:53.033257+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "46f43efafa97fdb37320d4876fa02596dae9a779e2f862457197fa6562058085",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:15:53.033257+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多嚢胞性卵巣症候群における腸内細菌叢による糖代謝調節：機序と治療的意義",
+    "abstract_ja": "多嚢胞性卵巣症候群（PCOS）は、生殖年齢の女性に最も多く見られる内分泌疾患の一つであり、生殖機能障害と顕著な代謝異常を特徴とする。その中でも、インスリン抵抗性（IR）は多くのPCOS女性において一般的かつ重要な病態生理学的特徴であり、高アンドロゲン血症、排卵障害、および長期的な心代謝合併症に関連しているが、その寄与度は表現型によって異なる。蓄積されつつあるエビデンスは、腸内細菌叢のディスバイオーシスが、微生物代謝物、免疫シグナル伝達、および内分泌調節を介して、PCOSにおける糖代謝機能障害に寄与していることを示している。本ナラティブレビューでは、腸内細菌叢のディスバイオーシスとPCOSにおける代謝不均一性を結びつける現在の臨床的・実験的エビデンスを、特にインスリン抵抗性、肥満、および地理的変動に焦点を当てて統合的に整理する。我々は、短鎖脂肪酸産生の変化、胆汁酸調節不全、インクレチンシグナル伝達の障害、慢性的な低グレード炎症、および腸内細菌叢と性ホルモン間の双方向的な相互作用など、腸内細菌叢が糖代謝を調節する主要なメカニズムについて論じる。これらの相互に関連する経路はインスリンシグナル伝達に収束し、総じてPCOSにおける代謝機能障害に寄与している。さらに、プロバイオティクス、プレバイオティクス、シンバイオティクス、細菌叢標的薬、食事介入、および生活習慣の改善を含む、腸内細菌叢－糖代謝軸を標的とした新たな治療戦略をまとめ、PCOSの表現型特異的な管理におけるそれらの可能性について論じる。因果関係を示すエビデンスの多くは依然として前臨床段階にあり、PCOSに対して検証済みの微生物シグネチャーや細菌叢指向性療法は現在のところ存在しない。現在のエビデンスは、研究間の著しい異質性、一貫性のない微生物シグネチャー、観察的ヒト研究の優位性、および標準化された細菌叢ベースの介入や大規模な前向き臨床試験の欠如によって制約を受けている。これらのメカニズムを個別の経路として捉えるのではなく、本レビューでは、腸内細菌叢のディスバイオーシスをPCOSにおける代謝機能障害および生殖機能障害の両方に結びつける重要な統合的プロセスとして、糖代謝を強調する。この統合的な視点は、腸内細菌叢－糖代謝軸を理解するための概念的枠組みを提供し、PCOSに対するメカニズムに基づいた表現型特異的な細菌叢標的治療戦略の開発を促進する可能性がある。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2014154",
+    "title": "Ecological consequences of coastal land formation: soil bacterial succession and assembly mechanisms along a reclamation chronosequence",
+    "abstract": "Tidal flat land formation is a major land-use practice in coastal regions, profoundly influencing soil ecological functions mediated by microbial communities. However, the mechanisms underlying soil bacterial succession during coastal land reclamation remain poorly understood. Here, we examined soil bacterial community dynamics along a 1- to 14-year land formation chronosequence on Hengsha Island in the Yangtze River Estuary. Significant temporal variation in bacterial communities was observed, with markedly lower diversity but higher relative abundance of Actinobacteriota in the initial stage. Community diversity stabilized after three years, while Nitrospirota gradually increased with land formation time. Beta-diversity analysis revealed clear successional patterns dominated by species turnover. Venn analysis further indicated substantial shifts in the local species pool across different land ages, identifying it as the primary mechanism shaping community variation. Environmental drivers were assessed using random forest and structural equation modeling. Results showed that soil physicochemical properties, particularly pH and electrical conductivity, were key factors regulating bacterial communities. Land formation time was related to soil temperature and pH, which directly affected bacterial composition and indirectly regulated it through changes in phylogenetic diversity. Overall, our findings highlight the critical role of environmental filtering and species pool dynamics in microbial succession during coastal land formation. This study provides important insights into the ecological impacts of reclamation and offers a scientific basis for sustainable land-use management aimed at preserving biodiversity and maintaining ecosystem health.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2014154",
+    "date": "2026-11-17",
+    "authors": "Yongcheng Ding",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2014154",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [
+          "assembly",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5061,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.2014154"
+    ],
+    "translation": {
+      "title": {
+        "hash": "865230ec00d42aa1a36628be93dd9fe77fa823ec15a9dfdb37a9c2541711de58",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:15:53.033257+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6fa832ec9c99c2e92e2a4c07ac12d78df1920b0cceac0e9a37ccaa000d891455",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:15:53.033257+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海岸地形形成の生態学的帰結：埋立地年代系列に沿った土壌細菌の遷移と集合機構",
+    "abstract_ja": "潮間帯の平坦地形成は沿岸地域における主要な土地利用形態であり、微生物群集を介した土壌の生態学的機能に多大な影響を及ぼす。しかし、沿岸部の土地造成における土壌細菌の遷移メカニズムについては、依然として十分に解明されていない。本研究では、長江河口域の横沙島において、1～14年の土地形成年代系列に沿った土壌細菌群集の動態を調査した。細菌群集には顕著な時間的変動が認められ、初期段階ではActinobacteriotaの多様性が著しく低く、相対存在量が高かった。群集の多様性は3年後に安定したが、Nitrospirotaは土地形成時間とともに徐々に増加した。ベータ多様性解析により、種のターンオーバーが支配的な明確な遷移パターンが明らかになった。ベン図解析では、異なる土地年代間で局所的な種プールに大幅なシフトが生じていることがさらに示され、これが群集変動を形成する主要なメカニズムであることが特定された。環境要因については、ランダムフォレスト法および構造方程式モデリングを用いて評価した。その結果、土壌の物理化学的特性、特にpHと電気伝導度が、細菌群集を調節する重要な因子であることが示された。土地形成時間は土壌温度およびpHと関連しており、これらが細菌組成に直接的に影響を及ぼすとともに、系統的多様性の変化を通じて間接的にそれを調節していた。総じて、本研究の知見は、沿岸部の土地造成における微生物遷移において、環境フィルタリングと種プール動態が極めて重要な役割を果たすことを浮き彫りにしている。本研究は、土地造成が生態系に及ぼす影響に関する重要な知見を提供するとともに、生物多様性の保全と生態系の健全性維持を目的とした持続可能な土地利用管理のための科学的根拠を提示するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1956208",
+    "title": "Differential responses and correlative analysis of root endosphere microbiome and metabolome in three Solanaceous vegetables under identical root-knot nematode stress",
+    "abstract": "IntroductionRoot-knot nematodes (RKNs) have caused serious damage to global Solanaceous vegetable production, but the host-specific responses of root endosphere microbes and metabolites to nematode infection in different Solanaceous vegetables remain unclear.MethodsThis study conducted 16S rRNA and ITS amplicon sequencing, metagenomic sequencing, and LC-MS/MS untargeted metabolomics analysis on root samples of severely infected tomato (Solanum lycopersicum, SL), pepper (Capsicum annuum, CA), and eggplant (S. melongena, SM).ResultsThe results indicated significant host-specific differences in the endophytic microbial community structures among the roots of the three vegetables, with distinct modular characteristics in co-occurrence networks. Metagenomic analysis showed that core functional genes associated with nematode resistance were highly conserved in abundance across the three vegetables. Enrichment analysis of the 855 differential metabolites identified by untargeted metabolomics screening showed that SL was mainly enriched in terpenes and lipids, CA was enriched in flavonoids and phenolic acids, and SM was enriched in steroidal alkaloids. Multi-omics integrative analysis confirmed that CA primarily established a “flavonoid–biocontrol bacteria–polyketide synthase (PKS)” defense pathway; SL formed a “terpene–actinomycetes–reactive oxygen species and protease/peptidase” defense pathway; and SM formed a “steroidal alkaloid–microbial redundancy–hydrolase” defense pathway in response to RKN infection.DiscussionThis study provides a theoretical basis for understanding host-driven root endosphere microbial functional differentiation and nematode resistance.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1956208",
+    "date": "2026-11-17",
+    "authors": "Kai Zhao",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1956208",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5062,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1956208"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dbf5f5f0d0fb83e628d8a3e52911896671a9ef0d7e45f13f67c42b8915d9cb06",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:15:53.033257+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ad7879ff78ae40612a69b486d218b29784e267039025b973cb7a85dda1b57e50",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:15:53.033257+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "同一の根こぶ線虫ストレス下におけるナス科野菜3種の根内微生物叢およびメタボロームの差異的応答と相関解析",
+    "abstract_ja": "はじめに根結線虫（RKNs）は、世界的なナス科野菜の生産に深刻な被害をもたらしているが、異なるナス科野菜における線虫感染に対する根内生微生物および代謝物の宿主特異的な応答については、依然として明らかになっていない。方法本研究では、重度に感染したトマト（Solanum lycopersicum, SL）、トウガラシ（Capsicum annuum, CA）、およびナス（S. melongena, SM）の根試料を対象に、16S rRNAおよびITSアンプリコンシーケンシング、メタゲノムシーケンシング、およびLC-MS/MS非標的メタボロミクス解析を実施した。結果3種の野菜の根において、根内微生物群集構造に有意な宿主特異的な差異が認められ、共起ネットワークにおいて明確なモジュール特性が示された。メタゲノム解析により、線虫抵抗性に関連するコア機能遺伝子が、3種の野菜間で量的に高度に保存されていることが示された。非標的メタボロミクススクリーニングにより同定された855種類の差次代謝物の濃縮解析の結果、SLは主にテルペン類と脂質に、CAはフラボノイド類とフェノール酸類に、SMはステロイドアルカロイドにそれぞれ濃縮されていた。マルチオミクス統合解析により、CAは主に「フラボノイド－生物制御細菌－ポリケチド合成酵素（PKS）」防御経路を、SLは「テルペン－放線菌－活性酸素種およびプロテアーゼ/ペプチダーゼ」防御経路を、SMは「ステロイドアルカロイド－微生物冗長性－ヒドロラーゼ」防御経路を、それぞれRKN感染に応答して構築していることが確認された。考察本研究は、宿主主導の根内生微生物の機能分化および線虫抵抗性を理解するための理論的基盤を提供するものである。"
   }
 ]
