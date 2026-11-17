@@ -294406,5 +294406,293 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ProPepBA：正準および化学修飾されたタンパク質-ペプチド相互作用の結合親和性データベース。",
     "abstract_ja": "タンパク質-ペプチド相互作用は、細胞シグナル伝達、免疫応答、宿主防御など、さまざまな生物学的プロセスにおいて極めて重要な役割を果たしている。これらの相互作用の強さは結合親和性によって定量化され、ペプチド認識の理解、生物学的メカニズムの解明、およびペプチド医薬の設計促進に不可欠である。実験的に決定されたタンパク質-ペプチド結合親和性のデータは数千件に及ぶものの、その情報は文献全体に散在しており、体系的な解析や計算モデリングへの活用が困難である。さらに、既存のタンパク質-ペプチド結合親和性データベースには、データ量の少なさ、実験条件の欠如、変異情報の不足といった限界がある。このギャップを埋めるため、我々は、細心の注意を払ってキュレーションされた、実験的に決定されたタンパク質-ペプチド結合親和性の包括的なデータベースであるProPepBAを開発した。現行バージョンには、約500件の研究論文および特許から収集した正準ペプチドの結合親和性データ3,962件に加え、リン酸化、アセチル化、メチル化、末端修飾を含む化学修飾ペプチドのレコード608件が含まれている。各エントリには、タンパク質およびペプチドの情報、熱力学的パラメータ、実験条件、および文献参照が提供されている。さらに、各エントリはUniProt、PDB、AlphaFoldDB、PubMedなどのデータベースと相互にリンクされている。ProPepBAは、高度な検索オプションを備えたユーザーフレンドリーなウェブインターフェースを提供し、効率的なデータ検索を可能にする。実験的な結合親和性データに配列、構造、および熱力学的情報を統合することで、ProPepBAは、配列-構造-親和性関係の探索、計算ツールの開発、およびペプチド医薬設計を促進する高親和性ペプチドバインダーの発見のための貴重なリソースとなる。本データベースは、https://web.iitm.ac.in/bioinfo3/ProPepBA にて無料で利用可能である。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag329",
+    "title": "Far-red light can power biological nitrogen fixation in cyanobacteria",
+    "abstract": "AbstractNitrogen fixation is one of the most energetically expensive biological reactions shaping the biosphere. Here, we demonstrate that some heterocyst-forming cyanobacteria can perform this process solely with low-energy far-red light, after undergoing a light acclimation response known as far-red light photoacclimation (FaRLiP). Although FaRLiP has been shown to drive oxygenic photosynthesis beyond the visible spectrum in some cyanobacteria from shaded terrestrial habitats, it was unknown whether it could also support growth in nitrogen-poor environments. In this study, we focused on heterocyst-forming, nitrogen-fixing cyanobacteria carrying FaRLiP genes from various habitats. Based on transcription, protein, and enzymatic activity assays, we demonstrate that FaRLiP does support growth in the absence of combined nitrogen sources. This includes a strain lacking far-red Photosystem II, though it was energy-limited and required additional sugar input. Bioinformatic analyses revealed that this reduced FaRLiP gene cluster variant is transcribed in nitrogen-fixing symbiotic cyanobacteria in natural environments. Together, these results indicate that nitrogen fixation can be powered by low-energy photons, likely facilitating cyanobacterial growth in resource-limited microbial mats as well as shaded symbiotic environments. These findings suggest that far-red light driven biological nitrogen fixation contributes to nitrogen cycling in light-limited environments.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag329",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag329/9049886?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria",
+        "cyanobacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5103,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag329"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0cbbc045f523500b5eb714039ea825a92d9820dcf3333298e2b257fc5618feac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:44:32.016316+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "509dc2d5c9ae19ce2478e7bb51213f8ce7a4a4709120227dacedfbb4136c1513",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:44:32.016316+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遠赤色光はシアノバクテリアの生物学的窒素固定のエネルギー源となり得る",
+    "abstract_ja": "要旨窒素固定は、生物圏を形作る最もエネルギー消費の激しい生物学的反応の一つである。本研究では、一部のヘテロシスト形成シアノバクテリアが、遠赤色光光順化（FaRLiP）として知られる光順化応答を経て、低エネルギーの遠赤色光のみでこのプロセスを遂行できることを実証する。FaRLiPは、日陰の陸上生息地に生息する一部のシアノバクテリアにおいて、可視光域を超えた酸素発生型光合成を駆動することが示されてきたが、窒素欠乏環境においても増殖を支え得るかは不明であった。本研究では、さまざまな生息地由来のFaRLiP遺伝子を保持するヘテロシスト形成型窒素固定シアノバクテリアに着目した。転写、タンパク質、および酵素活性のアッセイに基づき、複合窒素源が存在しない条件下でもFaRLiPが増殖を支えることを実証した。これには遠赤色光フォトシステムIIを欠く株も含まれるが、エネルギー制限を受けており、追加の糖供給が必要であった。バイオインフォマティクス解析により、この還元型FaRLiP遺伝子クラスター変異体が、自然環境中の窒素固定共生シアノバクテリアにおいて転写されていることが明らかになった。以上の結果を総合すると、窒素固定は低エネルギー光子によって駆動され得ることが示され、資源制限下の微生物マットや日陰の共生環境におけるシアノバクテリアの増殖を促進する可能性が高い。これらの知見は、遠赤色光駆動型の生物学的窒素固定が、光制限環境における窒素循環に寄与していることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1041",
+    "title": "Comparative Toxicogenomics Database: update 2027.",
+    "abstract": "The Comparative Toxicogenomics Database (CTD; https://ctdbase.org) is a well-established public resource that aims to advance understanding about how environmental chemical exposures affect human health. By integrating expertly curated content from the scientific literature with functional and pathway associations, CTD empowers researchers to develop testable hypotheses about mechanisms underlying environmentally influenced diseases. Today, CTD includes over 110 million integrated toxicogenomic connections linking harmonized chemicals, genes/proteins, phenotypes, anatomical terms, diseases, comparative species, pathways, and human exposures. In this biennial update, we introduce several new enhancements, including a streamlined modern web interface; a new curation module that captures experimental chemical concentrations reported in toxicogenomic studies; an enhanced \"CTD Tetramers\" tool that ranks results using weighted evidence scores, transforms tetramers into illuminated chord diagrams, and provides filters to discriminate mechanistic from therapeutic datasets; an expanded \"Batch Query\" tool that now retrieves detailed human exposure data; and enhanced chemical querying and interoperability via the inclusion of external chemical identifiers. Together, these advances further strengthen CTD as a comprehensive resource for exploring molecular mechanisms linking environmental exposures and human disease and for generating testable hypotheses about chemical-disease-exposure relationships.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1041",
+    "date": "2026-10-23",
+    "authors": "Davis AP, Wiegers TC, Sciaky D, Barkalow F, Wyatt B, Wiegers J, McMorran R, Abrar S, Mattingly CJ.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42922360",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42922360",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5063,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1041"
+    ],
+    "translation": {
+      "title": {
+        "hash": "68d6fd588105d6fac051b860c4533fa09606ebc415199552fc9df63de3cc27e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:44:32.016316+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "94f2b7e1bf88975d122153742f2c1a05401f12d4d3f4017da35d45d5dbd2dd4c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:44:32.016316+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "比較毒物ゲノミクスデータベース：2027年更新版",
+    "abstract_ja": "比較トキシコゲノミクスデータベース（CTD; https://ctdbase.org）は、環境化学物質への曝露がヒトの健康に及ぼす影響に関する理解を深めることを目的とした、定評ある公開リソースである。科学文献から専門的にキュレーションされたコンテンツと、機能およびパスウェイの関連性を統合することで、CTDは研究者が環境要因による疾患の根底にあるメカニズムについて、検証可能な仮説を立案することを可能にする。現在、CTDには、調和された化学物質、遺伝子／タンパク質、表現型、解剖学用語、疾患、比較対象種、パスウェイ、およびヒト曝露を結びつける1億1,000万件以上の統合的なトキシコゲノミクス接続が含まれている。2年ごとの今回のアップデートでは、合理化されたモダンなウェブインターフェース、トキシコゲノミクス研究で報告された実験的な化学物質濃度を捕捉する新しいキュレーションモジュール、重み付きエビデンススコアを用いて結果をランク付けし、四量体をハイライト付きコードダイアグラムに変換し、メカニズムデータセットと治療データセットを判別するためのフィルターを提供する改良版「CTD Tetramers」ツール、詳細なヒト曝露データを取得できるようになった拡張版「Batch Query」ツール、および外部化学物質識別子の導入による化学物質クエリ機能と相互運用性の強化など、いくつかの新たな機能強化を紹介する。これらの進展が相まって、環境曝露とヒト疾患を結びつける分子メカニズムを探索し、化学物質・疾患・曝露の関係について検証可能な仮説を立案するための包括的なリソースとして、CTDの価値がさらに高まることになる。"
+  },
+  {
+    "id": "10.64898/2026.11.16.766896",
+    "title": "Spatial growth within food-like matrices drives physiological diversification and stress adaptation in Salmonella.",
+    "abstract": "Foodborne bacteria often grow in structured environments, but the effects of spatial organisation on their physiology and subsequent stress tolerance remain poorly understood. In this study, we investigated how spatial growth in a food-like hydrogel matrix affected the physiology of Salmonella enterica serovar Typhimurium and its ability to cope with environmental stresses. Planktonic and spatialised populations were grown for four days in media without NaCl supplementation or supplemented with 6% NaCl. Transcriptomic, extracellular metabolomic, and lipidomic analyses were combined with targeted spatial gene-expression analyses. The multi-omics analyses showed that spatial organisation had a strong effect on Salmonella physiology and induce more physiological variation than the presence of osmotic stress, under the tested conditions. Spatial growth was associated with significant changes in gene expression, carbon metabolism, and membrane fatty-acid composition. Several functions related to stress response and biofilm-associated behaviour were also affected, with corresponding genes showing significant differential expression. When bacteria were grown in the presence of NaCl, spatialised populations showed less transcriptional and metabolic reorganisation than planktonic populations. In addition, gene-expression analyses showed that microcolonies were physiologically heterogeneous, with differences among cell populations within the same microcolony. Spatial growth also associated with the upregulation of functions related to the general stress response, oxidative stress protection, membrane adaptation and acid stress. These physiological changes provide a plausible mechanistic framework for the enhanced gastrointestinal stress tolerance previously observed in spatially grown populations, particularly under acid challenge. Overall, our results show that spatial organisation is an important environmental factor that reprograms Salmonella physiology and can influence its ability to survive stresses encountered after food ingestion.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766896",
+    "date": "2026-11-17",
+    "authors": "HOCH, E., Dergham, Y., Pierron, A., Deschamps, J., Dubois-Brissonnet, F., Lecardonnel, J., Steenackers, H., Werner, D., Hezard, B., Bevilacqua, C., Omhover-Fougy, L., Briandet, R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766896v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5107,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.16.766896"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a0bbaf81d059b6f16788a1115bf7ed7972c1ec793d1083c18b03dfbb0489b92c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:44:32.016316+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a2f2c5422008a1cb4b8d43799214aec527c6c8fe16afc6ee9985c94cd306fc0e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:44:32.016316+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食物様マトリックス内での空間的増殖は、サルモネラ属菌における生理的多様化とストレス適応を促進する。",
+    "abstract_ja": "食品由来細菌は構造化された環境で増殖することが多いが、空間的編成が生理機能およびそれに伴うストレス耐性に及ぼす影響については、依然として十分に解明されていない。本研究では、食品様ハイドロゲルマトリックスにおける空間的増殖が、Salmonella enterica serovar Typhimuriumの生理機能および環境ストレスへの対処能力にどのような影響を及ぼすかを検討した。プランクトン状および空間化された集団を、NaCl無添加または6% NaCl添加の培地で4日間培養した。トランスクリプトーム解析、細胞外メタボローム解析、およびリピドーム解析を、標的を絞った空間的遺伝子発現解析と組み合わせて実施した。マルチオミクス解析の結果、試験条件下において、空間的編成はSalmonellaの生理機能に強い影響を及ぼし、浸透圧ストレスの存在よりも大きな生理的変動を誘発することが示された。空間的増殖は、遺伝子発現、炭素代謝、および膜脂肪酸組成の有意な変化と関連していた。ストレス応答およびバイオフィルム関連挙動に関連する複数の機能も影響を受けており、対応する遺伝子において有意な発現変動が認められた。NaCl存在下で細菌を培養した場合、空間化された集団はプランクトン状集団よりも転写および代謝の再編成が小さかった。さらに、遺伝子発現解析により、マイクロコロニーは生理的に不均一であり、同一マイクロコロニー内の細胞集団間でも差異があることが示された。空間的増殖はまた、全般的なストレス応答、酸化ストレス保護、膜適応、および酸ストレスに関連する機能の亢進とも関連していた。これらの生理的変化は、特に酸負荷条件下において、空間的に増殖した集団で以前に観察された消化管ストレス耐性の向上について、妥当な機序的枠組みを提供するものである。総じて、本研究の結果は、空間的編成がSalmonellaの生理機能をリプログラミングし、食品摂取後に生じるストレスに対する生存能力に影響を及ぼし得る重要な環境要因であることを示している。"
+  },
+  {
+    "id": "10.64898/2026.11.15.766686",
+    "title": "Recovery of a distant large DNA virus from the genome sequencing of a fish leech",
+    "abstract": "The leech gut is known to be a viral reservoir, where viruses can persist long-term and are protected from external influences. Therefore, leeches can serve as vectors for transmission of viral disease to susceptible hosts on which they prey. Nonetheless, viral diversity and virus-leech-host interactions remain largely unknown, with hitherto no research directed at identifying viruses that use leeches as their hosts. In the present study, we report the discovery of a novel large DNA virus (phylum Nucleocytoviricota) recovered from genomic sequencing data of the common fish leech Piscicola geometra (Linnaeus, 1761). Through genomic and phylogenetic analyses, we identify this lineage as highly divergent from currently known viruses, with [~]95% of its predicted protein-coding genes showing no identifiable homology with current databases. Whether the leech is a host of this virus or a vector that transmits it to fish species remains unclear. This work highlights the value of off-target sequence retrieval for discovering novel viral lineages and sets the stage for future studies directed towards the prevalence and biology of leech-associated large DNA viruses.",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766686",
+    "date": "2026-11-17",
+    "authors": "Manzano-Marin, A., Willemsen, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766686v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5108,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.15.766686"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6223cd8160dd97285cdc866d470510b8bef7218eef58347af90f9fb2a29b3e58",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:44:32.016316+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4cec67840d9b2ce6e22ed72d5cf9f13a198fa58ca8c5780795722832399a8a9c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:44:32.016316+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "魚類ヒルのゲノム配列決定による遠縁の大型DNAウイルスの回収",
+    "abstract_ja": "ヒルの腸管はウイルスのリザーバーとして知られており、そこではウイルスが長期的に生存し、外部の影響から保護される。したがって、ヒルは餌となる感受性宿主へのウイルス性疾患の伝播媒介者として機能し得る。それにもかかわらず、ウイルスの多様性やウイルス・ヒル・宿主間の相互作用については依然として大部分が不明であり、これまでヒルを宿主として利用するウイルスの同定を目的とした研究は行われてこなかった。本研究では、一般的な魚ヒルである Piscicola geometra (Linnaeus, 1761) のゲノム配列データから回収された、新規の大型DNAウイルス（Nucleocytoviricota門）の発見について報告する。ゲノム解析および系統解析を通じて、我々はこの系統が現在知られているウイルスから大きく分岐していることを明らかにした。予測されたタンパク質コード遺伝子の[~]95%が、既存のデータベースと識別可能な相同性を示さなかった。ヒルがこのウイルスの宿主であるのか、あるいは魚類種へ伝播させる媒介者であるのかは依然として不明である。本研究は、新規のウイルス系統を発見する上でのオフターゲット配列回収の有用性を強調するものであり、ヒル関連の大型DNAウイルスの分布と生物学に関する今後の研究の基盤を築くものである。"
   }
 ]
