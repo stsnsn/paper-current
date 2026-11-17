@@ -833,6 +833,13 @@
     ]
   },
   {
+    "name": "Biochemistry and cell biology = Biochimie et biologie cellulaire",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Biochimica et biophysica acta. Gene regulatory mechanisms",
     "scope": [
       "genomics",
@@ -5654,6 +5661,13 @@
     ]
   },
   {
+    "name": "Magnetic resonance imaging",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Mammalian genome : official journal of the International Mammalian Genome Society",
     "scope": [
       "genomics",
@@ -5723,6 +5737,13 @@
   },
   {
     "name": "MedComm",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "MedEdPORTAL : the journal of teaching and learning resources",
     "scope": [
       "genomics",
       "microbiology"
@@ -6262,6 +6283,13 @@
   },
   {
     "name": "Molecular psychiatry",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Molecular systems biology",
     "scope": [
       "genomics",
       "microbiology"
