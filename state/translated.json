@@ -287406,5 +287406,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヘイムダルSNAREsが明かす真核生物SNARE複合体の祖先的構造",
     "abstract_ja": "SNAREタンパク質は真核細胞生物学の中核をなしており、対向する膜を近接させる4本ヘリックス束を形成することで膜融合を駆動する。細胞内膜輸送におけるその遍在的な役割は、その進化的起源や真核細胞の複雑性の出現に関する根本的な問いを提起している。本研究では、真核生物と近縁なアスガルド古細菌の系統であるHeimdallarchaeota由来のSNARE様タンパク質の特性解析を行う。我々は、Heimdall SNAREが溶液中で安定なホモ四量体4本ヘリックス束を形成することを示し、X線結晶構造解析によってその構造を決定した。特筆すべきことに、Heimdall複合体は4つの同一サブユニットから構成されているにもかかわらず、全体的な構造とコアの構成において真核生物のSNARE複合体に酷似している。分子動力学シミュレーションにより、この束の保存された物理的特徴と、中心0層の特徴的な性質がさらに明らかになった。これらの知見は、SNAREの特徴的な4本ヘリックス構造が真核細胞の出現よりも前から存在していたことを示しており、膜融合機構の進化に関する構造的な洞察を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.759896",
+    "title": "Reliable and Efficient Agentic Protein Design with Toolset Harnessing",
+    "abstract": "Computational protein design workflows require the orchestration of multiple tools, data formats, and analysis steps that are often fragmented. Here, we introduce Chaperone, a lightweight and customizable framework that enables seamless integration of RFdiffusion3 (RFD3) [1] with downstream sequence design, structure prediction, and evaluation tools, including ProteinMPNN [2], AlphaFold3 (AF3) [3], and more than 50 other protein design tools. By combining a programmable agent-friendly interface with parallelized execution on high-performance computing systems, Chaperone as a harness enables rapid iteration and scalable exploration of complex protein design workflows. Across an evaluation of nine biomolecular design tasks, we find using Chaperone reduces total token usage relative to baseline agents by 86% and GPU costs by 64%, while increasing the overall computational design pass rate. We demonstrate Chaperone’s utility for large-scale design-space exploration through a two-week end-to-end small-molecule binder design campaign, yielding low nanomolar binders to cortisol zero shot. We further demonstrate its versatility across distinct design challenges, including the design of a symmetric 12-subunit self-assembly nanoparticle and a linker that mediates interactions between C2- and D3-symmetric protein complexes to form crystalline assemblies. Together, these results demonstrate how agent harnesses built around standardized tool interfaces can substantially improve the efficiency and success of complex, long-horizon agentic design workflows in biology. We make Chaperone freely available to the community on GitHub:  https://github.com/RosettaCommons/chaperone .",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.759896",
+    "date": "2026-10-20",
+    "authors": "Butcher J, Chen J, Hunt A, Haas CM, Dai W, Sharma S, Mitra R, Salike S, Koob J, Muraishi A, Li Z, Pyles H, Tyka MD, Bauer MS, Brent RI, Mittal A, King NP, Baker D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1347428",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "prediction",
+        "protein",
+        "sequence",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4681,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.19.759896"
+    ],
+    "translation": {
+      "title": {
+        "hash": "97613028e4403d1aa8fcf92234bc8d86d5f20e19b7c3ddc0d250b30143f6ddf5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:17:39.193020+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6cf6f2ce6cff0d01f790551fb3891237e987b80c6d3f3209028c45763dfc7621",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:17:39.193020+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ツールセット活用による信頼性と効率性に優れたエージェント型タンパク質設計",
+    "abstract_ja": "計算機タンパク質設計ワークフローでは、多くの場合断片化されている複数のツール、データフォーマット、および解析ステップのオーケストレーションが必要となる。本稿では、RFdiffusion3 (RFD3) [1] と、ProteinMPNN [2]、AlphaFold3 (AF3) [3] およびその他50種類以上のタンパク質設計ツールを含むダウンストリームの配列設計、構造予測、および評価ツールとのシームレスな統合を可能にする、軽量かつカスタマイズ可能なフレームワークであるChaperoneを紹介する。プログラム可能なエージェントフレンドリーなインターフェースと、高性能計算システム上での並列実行を組み合わせることで、ハーネスとしてのChaperoneは、複雑なタンパク質設計ワークフローの迅速な反復とスケーラブルな探索を実現する。9つの生体分子設計タスクの評価において、Chaperoneの使用により、ベースラインエージェントと比較して総トークン使用量が86%削減され、GPUコストが64%低減すると同時に、全体的な計算設計パス率が向上することがわかった。我々は、2週間にわたるエンドツーエンドの低分子バインダー設計キャンペーンを通じて、大規模な設計空間探索におけるChaperoneの有用性を実証し、コルチゾールに対する低ナノモル濃度のバインダーをゼロショットで導出した。さらに、対称的な12サブユニット自己組織化ナノ粒子の設計や、C2対称およびD3対称タンパク質複合体間の相互作用を媒介して結晶性アセンブリを形成するリンカーの設計など、異なる設計課題における汎用性を実証した。これらの結果を総合すると、標準化されたツールインターフェースを中心に構築されたエージェントハーネスが、生物学における複雑で長期的なエージェント設計ワークフローの効率と成功率を大幅に向上させ得ることが示される。我々は、ChaperoneをGitHubにてコミュニティに無料で公開している： https://github.com/RosettaCommons/chaperone 。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.13.756865",
+    "title": "X-SPEAR: An Extensible Framework for Spatial Panel Evaluation and Refinement",
+    "abstract": "Targeted spatial transcriptomics platforms such as 10x Genomics Xenium measure a predefined panel of genes. A gene is usually detected in fewer cells in the spatial assay than in the single-cell RNA sequencing (scRNA-seq) reference used to choose it, by an amount that differs from gene to gene. We present eXtensible Spatial Panel Evaluation And Refinement (X- SPEAR), a framework for designing and checking Xenium gene panels. Its marker-selection method, Decision-rule Aggregation for Rare-cell Typing (DART), learns short Boolean gene rules and keeps several gene-disjoint rules per cell type. DART first thins the reference to per-gene detection rates measured in a previous experiment, which we call a Xenium prior, so no Xenium data from the target sample are needed before the panel is ordered. A Xenium prior helped most when it matched the target’s assay chemistry and species, even when it came from a different tissue, and a mismatched prior could lower accuracy. With such a prior, DART outperformed four marker-selection methods on held-out Xenium data from ovarian cancer, mouse brain and cervical cancer at matched panel size: by 0.04–0.10 macro-averaged  F 1 score (macro-  F 1 ) over the Wilcoxon rank-sum test, 0.04–0.08 over COSine similarity-based marker Gene identification (COSG), 0.10–0.17 over Necessary and Sufficient Forest (NS-Forest) and 0.04–0.08 over the probe-set selection method Spapros. It reached the Wilcoxon test’s best accuracy with 42–69% fewer genes. DART’s rules agree with the classifier that uses the panel and name recognisable marker programs for each cell type. X-SPEAR also checks the probes of any panel for predicted off-target transcripts that are expressed in other cell types. X-SPEAR is available as an open-source Python package.",
+    "journal": "",
+    "doi": "10.64898/2026.10.13.756865",
+    "date": "2026-10-20",
+    "authors": "Patel R, Duong B, Patel V, Lyn-Sue R, Oh K, Cheng Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346393",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4682,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.64898/2026.10.13.756865"
+    ],
+    "translation": {
+      "title": {
+        "hash": "47c3651e5d57b33ee279288a073dc19e72e16cd6648b45424340300380831248",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:17:39.193020+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5e7d8cb840a5dfbeef67a302bf4120565bb42a086ae688cbd9fad4bde7ff5cd2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:17:39.193020+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "X-SPEAR: 空間パネル評価・精緻化のための拡張可能なフレームワーク",
+    "abstract_ja": "10x Genomics Xeniumなどの標的型空間トランスクリプトミクスプラットフォームは、あらかじめ定義された遺伝子パネルを測定する。空間アッセイにおいて検出される遺伝子数は、通常、その選定に用いられたシングルセルRNAシーケンシング（scRNA-seq）リファレンスよりも少ない細胞数で検出され、その数は遺伝子ごとに異なる。本稿では、Xenium遺伝子パネルの設計および検証のためのフレームワークであるeXtensible Spatial Panel Evaluation And Refinement (X-SPEAR) を提案する。そのマーカー選択手法であるDecision-rule Aggregation for Rare-cell Typing (DART) は、短いブール型の遺伝子ルールを学習し、細胞タイプごとに複数の遺伝子非重複ルールを保持する。DARTはまず、先行実験で測定された遺伝子ごとの検出率（これをXeniumプライオリティと呼ぶ）を用いてリファレンスを希釈するため、パネルを編成する前に標的サンプルからのXeniumデータを用意する必要はない。Xeniumプライオリティは、異なる組織由来であっても標的のアッセイ化学や種と一致している場合に最も有効に機能し、一致しないプライオリティは精度を低下させる可能性がある。このようなプライオリティを用いた場合、DARTは、パネルサイズを揃えた卵巣がん、マウス脳、および子宮頸がんのホールドアウトXeniumデータにおいて、4つのマーカー選択手法を上回る性能を示した。具体的には、ウィルコクソン順位和検定でマクロ平均F1スコア（macro-F1）が0.04–0.10、COSine類似性に基づくマーカー遺伝子同定（COSG）で0.04–0.08、必要十分フォレスト（NS-Forest）で0.10–0.17、およびプローブセット選択手法であるSpaprosで0.04–0.08の差となった。また、ウィルコクソン検定において最高の精度を達成し、検出遺伝子数は42–69%減少した。DARTのルールは、パネルを使用する分類器および各細胞タイプの名称認識可能なマーカープログラムと一致している。X-SPEARはさらに、任意のパネルのプローブについて、他の細胞タイプで発現している予測オフターゲット転写産物の有無も検証する。X-SPEARはオープンソースのPythonパッケージとして提供されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.1925.v1",
+    "title": "Methodological Determinants of Fungal Identification by Proteomic Mass Spectrometry: A Narrative Review with Emphasis on MALDI-TOF MS",
+    "abstract": "Matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS) has become the dominant proteomic platform for fungal identification, turning a multi-day, morphology-dependent workflow into a minutes-long protein-fingerprinting assay. Yet reported performance for the same genera ranges from under 20% to over 95% depending on the study. This narrative review examines sources of heterogeneity across five domains: (1) biological and pre-analytical properties, including colony age, growth phase and dimorphism, culture medium, incubation temperature, pigmentation, and taxonomic complexity; (2) sample-processing variables, including protein-extraction chemistry, deposition technique, and matrix selection; (3) instrument-acquisition parameters, including laser intensity, shot number, signal-intensity thresholds, calibration, and cross-platform differences; (4) database and bioinformatic factors, including reference-library completeness, score-threshold interpretation, and software version; and (5) specimen type and clinical context, particularly for culture-independent workflows. The review examines how these factors affect proteomic identification of molds. First, variability attributed to fungal biology may be confounded by methodological variability: studies using standardized, validated extraction protocols may report less variability attributable to biology than studies using less-controlled methods. Second, reference-library completeness and standardized, locally validated sample preparation and deposition are particularly actionable determinants. Third, an unresolved challenge is reliable identification of rare, cryptic, melanized, dimorphic, and emerging organisms. The review concludes with evidence-informed quality-assurance practices considered in the context of CLSI M58.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.1925.v1",
+    "date": "2026-10-20",
+    "authors": "Gupta R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345482",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "method",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "method",
+          "proteomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4683,
+    "collected_at": "2026-11-15T17:43:20.738046+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-15",
+    "related_dois": [
+      "10.20944/preprints202610.1925.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5593b2fd928da618bb8127798dbe605ef680985e7a1acc5e417700ec7470439c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:17:39.193020+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c74bda017dd4b1525be465a38e4c80c283e47a236ef7c4586a7254bf6b094c5b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:17:39.193020+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プロテオーム質量分析法による真菌同定の方法論的決定要因：MALDI-TOF MSを中心としたナラティブレビュー",
+    "abstract_ja": "マトリックス支援レーザー脱離イオン化飛行時間型質量分析法（MALDI-TOF MS）は、真菌同定における主要なプロテオミクスプラットフォームとなっており、数日を要する形態依存的なワークフローを、わずか数分で完了するタンパク質フィンガープリント解析へと変貌させた。しかし、同一属における報告性能は、研究によって20%未満から95%超まで幅がある。本ナラティブレビューでは、5つの領域における不均一性の要因を検討する：(1) 生物学的および前分析的特性（コロニー齢、増殖相および二形性、培養培地、インキュベーション温度、色素沈着、分類学的複雑性を含む）、(2) 試料処理変数（タンパク質抽出化学、沈着技術、マトリックス選択を含む）、(3) 装置取得パラメータ（レーザー強度、ショット数、信号強度閾値、校正、クロスプラットフォーム間の差異を含む）、(4) データベースおよびバイオインフォマティクス要因（リファレンスライブラリの網羅性、スコア閾値の解釈、ソフトウェアバージョンを含む）、および(5) 検体タイプおよび臨床的背景（特に培養非依存型ワークフローにおいて）。本レビューでは、これらの要因がカビのプロテオミクス同定にどのような影響を及ぼすかを検証する。第一に、真菌の生物学的特性に起因する変動が、方法論的な変動によって混同される可能性がある。標準化・検証済みの抽出プロトコルを用いた研究では、制御が不十分な手法を用いた研究よりも、生物学的要因に起因する変動が少ないと報告される場合がある。第二に、リファレンスライブラリの網羅性、および標準化され局所的に検証された試料調製と沈着は、特に実用的な決定要因となる。第三に、希少、クリプティック、メラニン化、二形性、および新興生物の信頼性の高い同定が未解決の課題となっている。本レビューは、CLSI M58の文脈で検討された、エビデンスに基づく品質保証の実践をもって締めくくられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.1974.v1",
+    "title": "A Modified CTAB Method for Genomic DNA Isolation from Ceiba spp., a Native Forest Species of the Peruvian Amazon",
+    "abstract": "Ceiba spp. are native Amazonian forest trees of ecological and economic importance; however, genetic information on this genus remains limited. Genomic approaches such as genotyping-by-sequencing (GBS) require high-quality DNA, which can be challenging to obtain from leaf tissue. This study aimed to develop and evaluate a protocol for extracting high-quality genomic DNA from silica gel–preserved leaves of Ceiba spp. collected in the Loreto, Ucayali, and Madre de Dios regions of the Peruvian Amazon. Genomic DNA was extracted from 20 samples using a modified cetyltrimethylammonium bromide (CTAB) protocol incorporating a sorbitol-buffer prewash. DNA quantity and quality were assessed by microvolume spectrophotometry and Qubit fluorometry. A260/A280 ratios ranged from 1.70 to 1.99 (mean, 1.84), while spectrophotometric DNA concentrations ranged from 220.8 to 1294.1 ng/µL (mean, 696.5 ng/µL). Qubit measurements indicated detectable double-stranded DNA in all samples, although half of the readings (10/20) exceeded the upper limit of the assay range used. DNA suitability for polymerase chain reaction (PCR) was assessed by amplifying the rbcL gene with universal primers, yielding amplification products in all 20 samples. The protocol yielded genomic DNA with quality characteristics compatible with downstream molecular applications and may support future GBS studies, subject to additional validation.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.1974.v1",
+    "date": "2026-10-20",
+    "authors": "Menacho A, Gómez-Santillán Y, Guelac-Santillan M, Saldaña CL, Arbizu CI.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346699",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "genomic",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4853,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.20944/preprints202610.1974.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "969ba0f497169216959b572bf8a7d8c36d9bebbd9e5b02a4d7dcd30a0f4fb6ec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:17:39.193020+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "894b7e300914d30d71ba8bea87739b4dc36d5aeeb0f43662ec1a02d61201797e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:17:39.193020+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ペルー・アマゾンの原生林種Ceiba属からのゲノムDNA単離のための改良型CTAB法",
+    "abstract_ja": "Ceiba属は生態学的および経済的に重要なアマゾン熱帯雨林の在来樹種であるが、本属に関する遺伝情報は依然として限られている。ゲノムタイピング・バイ・シーケンシング（GBS）などのゲノム解析手法には高品質なDNAが必要であり、葉組織からこれを得ることは困難な場合がある。本研究では、ペルー・アマゾンのロレト、ウカヤリ、およびマドレ・デ・ディオス地域で採取したCeiba属のシリカゲル保存葉から、高品質なゲノムDNAを抽出するためのプロトコルを開発し、評価することを目的とした。ソルビトール緩衝液による前洗浄を組み込んだ改良型セチルトリメチルアンモニウムブロミド（CTAB）プロトコルを用い、20検体からゲノムDNAを抽出した。DNA量および品質は、マイクロボリューム分光光度法およびQubit蛍光光度法により評価した。A260/A280比は1.70～1.99（平均1.84）の範囲であり、分光光度法によるDNA濃度は220.8～1294.1 ng/µL（平均696.5 ng/µL）の範囲であった。Qubit測定の結果、すべての検体において検出可能な二本鎖DNAが認められたが、測定値の半数（10/20）は使用したアッセイ範囲の上限を超えていた。ポリメラーゼ連鎖反応（PCR）へのDNAの適性は、ユニバーサルプライマーを用いてrbcL遺伝子を増幅させることで評価し、20検体すべてで増幅産物が得られた。本プロトコルにより得られたゲノムDNAは、後続の分子生物学的応用に適した品質特性を有しており、さらなる検証を条件として、今後のGBS研究を支援する可能性がある。"
   }
 ]
