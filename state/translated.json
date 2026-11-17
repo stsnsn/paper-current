@@ -292356,5 +292356,299 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "MeteoSynth: 再生可能エネルギーおよび建物性能シミュレーションにおける非パラメトリック確率的気象系列生成のためのPythonパッケージ",
     "abstract_ja": "再生可能エネルギーシステムの性能評価および建物のエネルギー需要評価では、通常、単年度の履歴プロファイルや典型気象年（TMYs）が用いられる。しかし、決定論的な気象系列では、年ごとの変動や極端な運用事象を捉えきれず、性能評価、制御最適化、および全球感度解析（GSA）に必要な分布情報を提供するに至っていない。こうした限界に対処するため、本論文では、個々の環境変数に対して物理的に整合した合成時系列をハイスループットかつ非パラメトリックに生成するために設計されたオープンソースのPythonパッケージ「MeteoSynth」を提案する。本パッケージは変数に依存せず、物理的な根拠と単位が定義されていれば、あらゆる連続的な1時間ごとの系列をモデル化できる。本論文では、パッケージのデフォルト設定と同様に、日射量、気温、および風速に焦点を当てる。これら3つの変数を選択した主な理由は、物理的制約が異なるためである。すなわち、気温は負の値を取り得るが、風速は非負であり、日射量は非負であるとともに、毎晩退化状態のゼロへと収束する。これらを通じて、生成器が一般的にこれらの各ケースをどのように処理するかを示し、依然として残る限界についても検討する。第二の実用的な理由は、PVGISがこれら3つの変数すべてを提供している点にある。各変数は独立してシミュレーションされ、多変数結合機能は今後のリリースに向けて確保されている。MeteoSynthは、2次元カーネル密度推定（2D KDE）によって制御される時間不均質な1次マルコフ連鎖を用いて、日周的な気象ダイナミクスをモデル化する。物理的妥当性と暦の連続性を確保するため、本フレームワークには、ドメイン歪みを最小限に抑えつつ非物理的な負値を防止する機能、ゼロ分散の夜間日射量を処理するための堅牢な退化状態分類エンジン、閏年に対応しつつ新年の境界ジャンプを排除する気候学的な円形ローリングウィンドウ暦（366日暦）、および複数日系列の連続性を保証する日付整合型の日付横断中夜遷移モデルなどの機能が組み込まれている。さらに、PVGISデータベースとのオプション統合、迅速な月次サブセット化と高精度なローリングウィンドウ学習の両方をサポートするユーザーフレンドリーなAPI、および単一の暦ウォークで数千通りの合成気象実現を生成可能な最適化アンサンブルエンジンを提供している。これにより、内部的なモデル再利用の最適化により、単一の合成年および1,000年から100,000年までの大規模なアンサンブルを生成する際の実行時間は、実質的に同等となる。"
+  },
+  {
+    "id": "10.1111/1758-2229.70465",
+    "title": "Comparative Performance of Oxford Nanopore Duplex and Simplex 16S rRNA Reads for eDNA‐Based Prediction of Salmon Aquaculture Benthic Impacts",
+    "abstract": "Performance comparison of Nanopore simplex and duplex 16S rRNA sequencing for eDNA‐based benthic monitoring. Simplex reads provided higher yield and markedly better environmental quality classification, while duplex reads offered no practical advantage. Key indicator taxa (e.g., Sulfurovum, Lutimonas, Psychrobacter) were consistently detected across sequencing modes.\n\nABSTRACT\nEnvironmental monitoring of salmon aquaculture increasingly uses eDNA‐based bacterial community profiling, yet the practical value of Oxford Nanopore duplex sequencing remains uncertain due to low yield. We compared full‐length 16S rRNA simplex and duplex Nanopore reads for predicting benthic environmental quality (EQ) at 15 Scottish salmon farms. After stringent Q30‐filtering, samples contained far more high‐quality simplex than duplex reads. Random Forest models trained on simplex data perfectly classified samples as above or below the good‐moderate EQ boundary (accuracy 100%, κ = 1), while duplex models reached 97.6% (κ = 0.95). For four‐class EQ predictions (good, moderate, poor, bad), simplex reads again performed better (80.5% accuracy, κ = 0.67) than duplex reads (73.2%, κ = 0.53). Taxonomic profiles of high‐impact samples were highly concordant across read types, sharing indicator taxa such as Sulfurovum, Lutimonas and Psychrobacter. In contrast, low‐impact samples showed reduced concordance due to higher diversity and insufficient duplex coverage. Nanopore sequencing also detected strong bacterial bioindicators absent from Illumina‐based studies, highlighting its potential for uncovering previously undetected diversity. Overall, duplex sequencing provided no advantage for EQ assessment. Nanopore simplex sequencing is therefore a viable option for eDNA‐based benthic monitoring, though further optimization is needed to improve throughput and scalability.\n\nPerformance comparison of Nanopore simplex and duplex 16S rRNA sequencing for eDNA-based benthic monitoring. Simplex reads provided higher yield and markedly better environmental quality classification, while duplex reads offered no practical advantage. Key indicator taxa (e.g., Sulfurovum, Lutimonas, Psychrobacter) were consistently detected across sequencing modes.\n\nABSTRACT\nEnvironmental monitoring of salmon aquaculture increasingly uses eDNA-based bacterial community profiling, yet the practical value of Oxford Nanopore duplex sequencing remains uncertain due to low yield. We compared full-length 16S rRNA simplex and duplex Nanopore reads for predicting benthic environmental quality (EQ) at 15 Scottish salmon farms. After stringent Q30-filtering, samples contained far more high-quality simplex than duplex reads. Random Forest models trained on simplex data perfectly classified samples as above or below the good-moderate EQ boundary (accuracy 100%, κ = 1), while duplex models reached 97.6% (κ = 0.95). For four-class EQ predictions (good, moderate, poor, bad), simplex reads again performed better (80.5% accuracy, κ = 0.67) than duplex reads (73.2%, κ = 0.53). Taxonomic profiles of high-impact samples were highly concordant across read types, sharing indicator taxa such as Sulfurovum, Lutimonas and Psychrobacter. In contrast, low-impact samples showed reduced concordance due to higher diversity and insufficient duplex coverage. Nanopore sequencing also detected strong bacterial bioindicators absent from Illumina-based studies, highlighting its potential for uncovering previously undetected diversity. Overall, duplex sequencing provided no advantage for EQ assessment. Nanopore simplex sequencing is therefore a viable option for eDNA-based benthic monitoring, though further optimization is needed to improve throughput and scalability.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70465",
+    "date": "2026-11-17",
+    "authors": "Thorsten Stoeck, \nLukas Damm, \nHans‐Werner Breiner, \nSven Katzenmeier, \nSabine Filker",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70465?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5124,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1111/1758-2229.70465"
+    ],
+    "translation": {
+      "title": {
+        "hash": "48cd71a98e58f0e76b6ef61b864426ef7a63db8a116a2c91004c33d789317035",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:24:55.041338+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fb46a5d426f08ab3a1b2b5c2c6647722dccc94a75301e57f59f6921ffa92d8b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:24:55.041338+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サケ養殖底質への影響のeDNAに基づく予測における、Oxford Nanopore DuplexおよびSimplex 16S rRNAリードの性能比較",
+    "abstract_ja": "eDNAベースの底生環境モニタリングにおけるNanoporeシングルプレックスおよびデュプレックス16S rRNAシーケンシングの性能比較。シングルプレックスリードはより高い収量と著しく優れた環境品質分類を示した一方、デュプレックスリードには実用的な利点は認められなかった。主要な指標分類群（例：Sulfurovum、Lutimonas、Psychrobacter）は、すべてのシーケンシングモードで一貫して検出された。\n\n要旨\nサケ養殖の環境モニタリングでは、eDNAベースの細菌群集プロファイリングの利用が進んでいるが、収量の低さから、Oxford Nanoporeデュプレックスシーケンシングの実用的価値は依然として不確実である。本研究では、スコットランドのサケ養殖場15か所において、底生環境品質（EQ）予測のため、フルレングスの16S rRNAシングルプレックスおよびデュプレックスNanoporeリードを比較した。厳格なQ30フィルタリング後、サンプルにはデュプレックスリードよりもはるかに多くの高品質なシングルプレックスが含まれていた。シングルプレックスデータで学習させたランダムフォレストモデルは、サンプルを「良好～中程度」のEQ境界の上位または下位に完璧に分類し（正解率100%、κ = 1）、デュプレックスモデルは97.6%（κ = 0.95）に達した。4クラスのEQ予測（良好、中程度、不良、不良）において、シングルプレックスリードは再びデュプレックスリード（73.2%、κ = 0.53）よりも優れた性能を示した（正解率80.5%、κ = 0.67）。影響度の高いサンプルの分類学的プロファイルは、リードタイプ間で高い一致性を示し、Sulfurovum、Lutimonas、Psychrobacterなどの指標分類群を共有していた。対照的に、影響度の低いサンプルでは、多様性が高くデュプレックスカバレッジが不十分であったため、一致性が低下した。また、Nanoporeシーケンシングは、Illuminaベースの研究では検出されなかった強力な細菌バイオインジケーターを検出し、これまで検出されていなかった多様性を明らかにする可能性を示した。全体として、デュプレックスシーケンシングはEQ評価において利点をもたらさなかった。したがって、NanoporeシングルプレックスシーケンシングはeDNAベースの底生環境モニタリングにおいて有効な選択肢であるが、スループットとスケーラビリティを向上させるためのさらなる最適化が必要である。\n\neDNAベースの底生環境モニタリングにおけるNanoporeシングルプレックスおよびデュプレックス16S rRNAシーケンシングの性能比較。シングルプレックスリードはより高い収量と著しく優れた環境品質分類を示した一方、デュプレックスリードには実用的な利点は認められなかった。主要な指標分類群（例：Sulfurovum、Lutimonas、Psychrobacter）は、すべてのシーケンシングモードで一貫して検出された。\n\n要旨\nサケ養殖の環境モニタリングでは、eDNAベースの細菌群集プロファイリングの利用が進んでいるが、収量の低さから、Oxford Nanoporeデュプレックスシーケンシングの実用的価値は依然として不確実である。本研究では、スコットランドのサケ養殖場15か所において、底生環境品質（EQ）予測のため、フルレングスの16S rRNAシングルプレックスおよびデュプレックスNanoporeリードを比較した。厳格なQ30フィルタリング後、サンプルにはデュプレックスリードよりもはるかに多くの高品質なシングルプレックスが含まれていた。シングルプレックスデータで学習させたランダムフォレストモデルは、サンプルを「良好～中程度」のEQ境界の上位または下位に完璧に分類し（正解率100%、κ = 1）、デュプレックスモデルは97.6%（κ = 0.95）に達した。4クラスのEQ予測（良好、中程度、不良、不良）において、シングルプレックスリードは再びデュプレックスリード（73.2%、κ = 0.53）よりも優れた性能を示した（正解率80.5%、κ = 0.67）。影響度の高いサンプルの分類学的プロファイルは、リードタイプ間で高い一致性を示し、Sulfurovum、Lutimonas、Psychrobacterなどの指標分類群を共有していた。対照的に、影響度の低いサンプルでは、多様性が高くデュプレックスカバレッジが不十分であったため、一致性が低下した。また、Nanoporeシーケンシングは、Illuminaベースの研究では検出されなかった強力な細菌バイオインジケーターを検出し、これまで検出されていなかった多様性を明らかにする可能性を示した。全体として、デュプレックスシーケンシングはEQ評価において利点をもたらさなかった。したがって、NanoporeシングルプレックスシーケンシングはeDNAベースの底生環境モニタリングにおいて有効な選択肢であるが、スループットとスケーラビリティを向上させるためのさらなる最適化が必要である。"
+  },
+  {
+    "id": "10.1093/femsre/fuag060",
+    "title": "Engineering antimicrobial peptides through the design–build–test–learn framework",
+    "abstract": "AbstractThe rapid emergence of antimicrobial resistance has intensified the need for alternative anti-infective strategies. Antimicrobial peptides (AMPs) offer diverse mechanisms of action, but their translation remains constrained by poor physiological stability, host toxicity, and manufacturing costs. This review examines AMP development within a design–build–test–learn (DBTL) framework that connects computational discovery, peptide production, experimental evaluation, and iterative optimization. Proteome mining and generative artificial intelligence expand the accessible sequence space, while solid-phase synthesis, engineered microbial hosts, and cell-free systems convert selected sequences into testable molecules. Chemical modification and formulation provide complementary routes to improve stability and delivery. Standardized screening and in vivo studies then establish the evidence needed to prioritize candidates and inform subsequent design and production decisions. Throughout this cycle, activity must be optimized together with toxicity, stability, manufacturability, and delivery rather than treated as the sole measure of success. This review discusses applications in medicine, agriculture, food preservation, and biotechnology, and identifies remaining limitations in data quality, assay comparability, scale-up, and translational support. The DBTL framework provides a basis for coordinating these activities, although its practical value depends on experimentally validated feedback and application-specific development criteria.",
+    "journal": "FEMS Microbiology Reviews",
+    "doi": "10.1093/femsre/fuag060",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuag060/9080688?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5104,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/femsre/fuag060"
+    ],
+    "translation": {
+      "title": {
+        "hash": "15ec6d0b521aa5636b69fc3e522f4f53f2ba8bc4d696e9a01291259091ebd3bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:24:55.041338+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "956958f18a5d0cddd3b9270bf555f1a1a3ca912007aa90db4cf7829ee01c6369",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:24:55.041338+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "設計－構築－試験－学習フレームワークによる抗菌ペプチドの創製",
+    "abstract_ja": "要旨 薬剤耐性の急速な出現により、代替的な抗感染症戦略の必要性が高まっている。抗菌ペプチド（AMP）は多様な作用機序を有するが、その実用化は、生理的安定性の低さ、宿主毒性、および製造コストによって依然として制約を受けている。本総説では、計算科学的探索、ペプチド製造、実験的評価、および反復的最適化を連携させる「設計－構築－試験－学習（DBTL）」フレームワークにおけるAMP開発について検討する。プロテオームマイニングと生成AIは利用可能な配列空間を拡大し、固相合成、工学的微生物宿主、およびセルフリーシステムは、選定された配列を試験可能な分子へと変換する。化学修飾と製剤化は、安定性と送達性を向上させるための相補的な経路となる。その後、標準化されたスクリーニングとin vivo研究により、候補化合物の優先順位付けや、その後の設計および製造上の意思決定に必要なエビデンスが確立される。このサイクル全体を通じて、活性は成功の唯一の指標として扱うのではなく、毒性、安定性、製造可能性、および送達性と併せ置いて最適化されなければならない。本総説では、医学、農業、食品保存、およびバイオテクノロジーにおける応用について論じるとともに、データ品質、アッセイの比較可能性、スケールアップ、およびトランスレーショナル支援における残された課題を明らかにする。DBTLフレームワークはこれらの活動を調整するための基盤となるが、その実用的価値は、実験的に検証されたフィードバックおよび用途固有の開発基準に依存する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1992240",
+    "title": "Prevalence and abundance of pathogens in biofilters of freshwater recirculating aquaculture systems for Atlantic salmon (Salmo salar)",
+    "abstract": "The extent to which recirculating aquaculture system (RAS) biofilters contain pathogenic microorganisms is poorly understood. Previous studies have been limited to single facilities, offering little insight into pathogen prevalence across different systems. This study quantified the occurrence of three bacterial and four viral pathogens in 50 freshwater biofilters from 36 commercial RAS across 11 facilities in Norway and the Faroe Islands for Atlantic salmon using quantitative PCR (qPCR). We also characterized the bacterial community structure using 16S rRNA gene amplicon sequencing. Overall, pathogens were present at low abundance. Flavobacterium psychrophilum was detected in 35 of 50 biofilters (70%). Its highest abundance was estimated at 18.6 copies per ng template DNA or 0.015% relative to 16S rRNA gene copies. Yersinia ruckeri and Candidatus Branchiomonas cysticola were rare, detected in 4 (8%) and 1 (2%) biofilters, respectively. Infectious pancreatic necrosis virus (IPNV) was detected in 16 biofilters (32%). Avirulent infectious salmon anemia virus (ISAV-HPR0), Orthoreovirus piscis-1 (PRV-1), and salmon gill poxvirus (SGPV) were detected in 11 (22%), 6 (12%), and 3 (6%) biofilters, respectively. Microbial community analysis showed that heterotrophic bacterial genera, e.g., Flavobacterium, Aeromonas, Pseudomonas, and Mycobacterium, were commonly found in RAS biofilters.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1992240",
+    "date": "2026-11-17",
+    "authors": "Ingrid Bakke",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1992240",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microorganism",
+        "microorganisms",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5106,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1992240"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af139c557d00bdecc4e7730aa00cdf08e391bc3991d60d520f0d62217b035618",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:24:55.041338+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c0336da5f4a018d71d716cec072094f463e3803973a09c7e51a4c29e7d23f2b9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:24:55.041338+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大西洋サケ（Salmo salar）の淡水循環式養殖システムの生物ろ過器における病原体の保有率と存在量",
+    "abstract_ja": "再循環式養殖システム（RAS）のバイオフィルターに病原性微生物がどの程度含まれているかについては、十分に解明されていない。これまでの研究は単一施設に限定されており、異なるシステム間における病原体の存在状況に関する知見はほとんど得られていなかった。本研究では、定量PCR（qPCR）を用いて、ノルウェーおよびフェロー諸島の大西洋サケ用商業RAS 11施設、計36施設の淡水バイオフィルター50基における、3種の細菌性病原体および4種のウイルス性病原体の出現頻度を定量した。また、16S rRNA遺伝子アンプリコンシーケンシングを用いて細菌群集構造を解析した。全体として、病原体は低存在量で認められた。Flavobacterium psychrophilumは50基中35基（70%）のバイオフィルターで検出された。その最大存在量は、テンプレートDNA 1 ngあたり18.6コピー、または16S rRNA遺伝子コピー比で0.015%と推定された。Yersinia ruckeriおよびCandidatus Branchiomonas cysticolaは稀であり、それぞれ4基（8%）および1基（2%）のバイオフィルターで検出された。感染性膵壊死ウイルス（IPNV）は16基（32%）のバイオフィルターで検出された。非病原性感染性サケ貧血ウイルス（ISAV-HPR0）、Orthoreovirus piscis-1（PRV-1）、およびサケエラポックスウイルス（SGPV）は、それぞれ11基（22%）、6基（12%）、3基（6%）のバイオフィルターで検出された。微生物群集解析の結果、Flavobacterium、Aeromonas、Pseudomonas、Mycobacteriumなどの従属栄養性細菌属がRASバイオフィルターにおいて一般的に認められた。"
+  },
+  {
+    "id": "10.1093/gbe/evag281",
+    "title": "Generative continuous time model reveals epistatic signatures in protein evolution",
+    "abstract": "AbstractProtein evolution is fundamentally shaped by epistasis, where the effect of a mutation depends on the sequence context. As standard phylogenetic methods assume independently evolving sites, there is a need for more complex models based on accurate estimations of the fitness landscape. Good candidates are modern generative models – such as the Potts model – which successfully capture epistatic effects. However, recent works on generative evolutionary models usually use discrete time, making them difficult to integrate with the standard frameworks in evolutionary biology. We introduce a continuous-time sequence evolution model using the Gillespie algorithm and parameterized by a generative Potts model. This approach enables us to simulate realistic, family-specific evolutionary trajectories and allows for direct comparison with independent-site models. Surprisingly, we find that while epistasis significantly slows down evolution, it does not change the average evolutionary rates at individual sites. This is explained by the rate heterogeneity caused by context-dependence: we show that the rate at some positions varies between null to high values depending on the context, while other positions are essentially independent from the context. Finally, we show that epistasis leads to a systematic underestimation bias in the inference of evolutionary distance between sequences. Overall, our work provides a new tool for simulating realistic protein evolution and offers novel insights into the complex interplay between epistasis and evolutionary dynamics.",
+    "journal": "Genome Biology and Evolution",
+    "doi": "10.1093/gbe/evag281",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evag281/9078923?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "gene",
+        "protein",
+        "sequence",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5281/advanceAccess_3147.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5128,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5281/advanceAccess_3147.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/gbe/evag281"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d18af928aa8bf3aafa6be5665e0becb9635e8d1c6889b260b50b32b8934d000e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:24:55.041338+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c65904644b4128393efff308d51a4b02cd0455236fbbbc9abdec447727210530",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:24:55.041338+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生成的連続時間モデルがタンパク質進化におけるエピスタシスのシグネチャーを明らかにする",
+    "abstract_ja": "要旨タンパク質の進化は、変異の効果が配列コンテキストに依存するエピスタシスによって根本的に規定されている。標準的な系統発生手法は独立して進化する部位を前提としているため、適応度ランドスケープの正確な推定に基づく、より複雑なモデルが必要とされている。ポッツモデルのような現代的な生成モデルは、エピスタシス効果をうまく捉えており、有力な候補となる。しかし、生成進化モデルに関する近年の研究では通常、離散時間が用いられており、進化生物学における標準的なフレームワークとの統合が困難である。本研究では、ギレスピー・アルゴリズムを用い、生成ポッツモデルでパラメータ化した連続時間配列進化モデルを提案する。このアプローチにより、現実的なファミリー固有の進化軌跡をシミュレーションすることが可能となり、独立部位モデルとの直接的な比較も行える。驚くべきことに、エピスタシスは進化速度を著しく低下させる一方で、個々の部位における平均進化速度は変化させないことが明らかになった。これは、コンテキスト依存性に起因する速度の不均一性によって説明される。具体的には、一部の部位における速度はコンテキストに応じてゼロから高い値まで変動する一方、他の部位は実質的にコンテキストに依存しないことを示す。最後に、エピスタシスが配列間の進化距離の推定において、系統的な過小評価バイアスを引き起こすことを示す。総じて、本研究は現実的なタンパク質進化をシミュレーションするための新たなツールを提供するとともに、エピスタシスと進化ダイナミクスの複雑な相互作用に関する新たな知見をもたらすものである。"
   }
 ]
