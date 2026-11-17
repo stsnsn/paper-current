@@ -287870,5 +287870,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "創薬スクリーニングに応用する膜局在評価のためのNLGN3タグ付けシステム",
     "abstract_ja": "タンパク質の膜局在異常はしばしば機能障害を引き起こし、病態の発症に寄与する。ニューロリギン-3（NLGN3）は、自閉スペクトラム症（ASD）における稀ではあるが反復性の遺伝的リスク因子である。NLGN3変異体間の表面局在を比較するには、表面シグナルを同一細胞内の発現レベルに照らして評価する必要がある。我々はNLGN3をモデルとして、リボソームスキッピングを消失させるように改変したPerina nudaウイルスの2Aペプチドに基づき、標的コーディング配列を固定ベクターバックボーンの単一部位に導入し、DsRedを内部発現リファレンスとして共符号化する生細胞法「I-CLiQ」を開発した。I-CLiQとAlphaFold/AlphaMissense解析を組み合わせることで、ASD関連のNLGN3変異体を評価した。構造モデリングにより、p.R451C、p.P514S、およびp.R597Wにおいて立体衝突が予測された。I-CLiQを用いたフローサイトメトリーにより、これらの変異体が表面発現を有意に低下させることが確認された。さらに、概念実証的な応用として、I-CLiQを用いて4-フェニルブチレート（4-PBA）および3-アミノ-1-プロパンスルホン酸（3-APS）の2つの化合物を評価したところ、4-PBAはp.R451Cおよびp.R597Wの表面発現を部分的に回復させた。これらの知見は、I-CLiQを膜輸送異常を解析するための定量的ツールとして確立するものであり、コンフォメーション異常疾患に関連する変異体の化合物スクリーニングへの適用可能性を示すものである。"
+  },
+  {
+    "id": "10.1186/s40793-026-00958-9",
+    "title": "Integrative metagenomics and cultivation reveal host- and environment-driven structuring of coral microbiomes in the Andaman Sea",
+    "abstract": "Background\n                     Coral holobionts are complex ecological units which rely on microbial symbionts for nutrient cycling, stress mitigation and health. Despite growing evidence on the role of microbiomes to coral resilience, studies on coral-associated microbiomes in the Northern Indian Ocean region remain limited. This study investigates the microbial community composition and functional potential of two reef-building corals, Acropora and Favites from environmentally contrasting reefs, Chidiya Tapu (CT) and North Bay (NB) in the Andaman Sea.\n                  \n                     Results\n                     Metagenomic profiling identified core bacterial phyla including Pseudomonadota, Bacteroidota, Bacillota and Actinomycetota across coral hosts, with distinct site- and host-specific variations. Favites harbored a metabolically versatile microbiome enriched in taxa associated with stress adaptation including Cobetia, Sulfitobacter and Thalassolituus, which are associated with osmoprotection, thereby contributing to stress-resilience. In contrast, Acropora microbiomes were dominated by opportunistic groups such as Vibrio and Allivibrio, consistent with a microbiome profile associated with greater susceptibility to dysbiosis under environmental fluctuations. Functional annotation with correlation to environmental parameters, revealed a conserved metabolic core encompassing nitrogen fixation, sulfur oxidation and carbon assimilation alongside enrichment of biosynthetic gene clusters related to antioxidant production and osmolyte synthesis. Seawater and sediment microbiomes exhibited shared taxa with coral hosts highlighting potential microbial exchange that shape holobiont structure and function. Culture-based analyses revealed diverse bacterial and fungal communities with corals serving as dominant reservoirs of culturable taxa compared to surrounding seawater and sediment.\n                  \n                     Conclusions\n                     The study demonstrates that Favites exhibit greater microbial stability and metabolic versatility, underpinning their stress-tolerance trait while Acropora hosts a more dynamic and stress-sensitive microbiome.",
+    "journal": "Environmental Microbiome",
+    "doi": "10.1186/s40793-026-00958-9",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40793-026-00958-9",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "ocean",
+          "seawater"
+        ],
+        "genomics": [
+          "annotation",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40793",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5065,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40793"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1186/s40793-026-00958-9"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b3ab663a52f875d83e7476a948eca35b5e7ea74e5d2ec2a0f45f1310300bc67c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:55:26.859287+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf570e44a6c335259806f42125a72b8f9cc473747d5f99afd987ac2f6d349ee3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:55:26.859287+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "統合メタゲノミクスと培養により、アンダマン海におけるサンゴ微生物叢の宿主および環境駆動型の構造化が明らかになった。",
+    "abstract_ja": "背景\n                     サンゴのホロビオントは、栄養循環、ストレス緩和、および健康維持を微生物共生体に依拠する複雑な生態単位である。サンゴのレジリエンスにおけるマイクロバイオームの役割に関するエビデンスは蓄積されつつあるが、北インド洋地域におけるサンゴ関連マイクロバイオームに関する研究は依然として限られている。本研究では、アンダマン海の環境的に対照的な礁であるチディヤ・タプ（CT）およびノースベイ（NB）に生息する2種の造礁サンゴ、Acropora属およびFavites属の微生物群集組成と機能的ポテンシャルを調査した。\n                  \n                     結果\n                     メタゲノムプロファイリングにより、サンゴ宿主全体にわたってPseudomonadota、Bacteroidota、Bacillota、およびActinomycetotaを含む主要な細菌門が同定され、部位および宿主ごとに明確な差異が認められた。Favites属は、Osmoprotectionに関連するCobetia、Sulfitobacter、およびThalassolituusを含む、ストレス適応に関連する分類群に富んだ代謝的に多様なマイクロバイオームを有しており、これがストレスレジリエンスに寄与している。対照的に、Acropora属のマイクロバイオームはVibrioやAllivibrioなどの日和見的なグループが支配的であり、これは環境変動下においてディスバイオーシスに陥りやすいマイクロバイオームプロファイルと一致している。環境パラメータとの相関を用いた機能的アノテーションにより、窒素固定、硫黄酸化、および炭素同化を含む保存された代謝コアとともに、抗酸化物質産生およびオスモライト合成に関連する生合成遺伝子クラスターの濃縮が明らかになった。海水および堆積物のマイクロバイオームはサンゴ宿主と共通の分類群を示しており、ホロビオントの構造と機能を形作る潜在的な微生物交換が示唆された。培養ベースの解析では、多様な細菌および真菌群集が認められ、周囲の海水や堆積物と比較して、サンゴが培養可能な分類群の主要なリザーバーとして機能していることが明らかになった。\n                  \n                     結論\n                     本研究は、Favites属がより高い微生物安定性と代謝的多様性を示し、それがストレス耐性形質の基盤となっている一方で、Acropora属はより動的でストレス感受性の高いマイクロバイオームを有していることを実証した。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2014217",
+    "title": "Sexual dimorphism in immune responses and reproductive fitness in Drosophila melanogaster exposed to different fungal species",
+    "abstract": "Drosophila melanogaster interacts with a diverse array of fungal species in its natural environment. In this study, we investigated the sex-biased physiological and reproductive impact of three fungal species, Debaryomyces hansenii, Pichia kudriavzevii, and Aspergillus flavus, on D. melanogaster. Survival analysis revealed that A. flavus was highly pathogenic, with males showing 50% mortality in 3 days, while 50% females survived up to 5 days, indicating a significant sex-dependent resilience. P. kudriavzevii exhibited moderate pathogenicity, whereas D. hansenii had no significant effect on mortality. Reproductive assays showed a significant reduction in fecundity for flies exposed to A. flavus (4 ± 1 eggs/fly/day) and P. kudriavzevii (20 ± 3 eggs/fly/day) compared to the control (untreated) (55 ± 2 eggs/fly/day), while on D. hansenii exposure flies laid egg same as control flies. Fungal load quantification showed that D. hansenii established the highest colonization (6.95 log CFU/mL) without increasing mortality, whereas A. flavus maintained lower titers (4.30 log CFU/mL) despite high pathogenicity. Furthermore, ROS generation was significantly elevated in response to the pathogens A. flavus and P. kudriavzevii but remained at baseline levels for the symbiotic D. hansenii. Our findings suggest that D. melanogaster employs distinct physiological strategies, ranging from immune-mediated resistance to commensal tolerance, depending on the fungal species and the host’s sex.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2014217",
+    "date": "2026-11-17",
+    "authors": "Girish Kumar",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2014217",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5048,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.2014217"
+    ],
+    "translation": {
+      "title": {
+        "hash": "59bd5e16190395f906d674b2b37a50a1d659f42757d1bb21a3a808f0d3f36801",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:55:26.859287+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5d9fd1e722fa26d85fde18f9b66d9259eba405a02e86c1fbdca370ddef72e6f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:55:26.859287+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "異なる真菌種に曝露したキイロショウジョウバエにおける免疫応答と生殖適応度の性的二型",
+    "abstract_ja": "キイロショウジョウバエ（Drosophila melanogaster）は、自然環境において多種多様な真菌種と相互作用している。本研究では、3種の真菌（Debaryomyces hansenii、Pichia kudriavzevii、およびAspergillus flavus）がD. melanogasterに及ぼす、性差による生理学的および生殖学的影響を検討した。生存率解析の結果、A. flavusは極めて強い病原性を示し、雄は3日間で50%が死亡した一方、雌は5日間まで50%が生存しており、顕著な性依存的な回復力が認められた。P. kudriavzeviiは中程度の病原性を示したが、D. hanseniiは死亡率に有意な影響を及ぼさなかった。生殖試験では、A. flavus（4 ± 1卵/匹/日）およびP. kudriavzevii（20 ± 3卵/匹/日）に曝露したハエは、対照群（未処理）（55 ± 2卵/匹/日）と比較して産卵数が有意に減少したが、D. hanseniiに曝露したハエは対照群と同等の産卵数を示した。真菌負荷量の定量解析では、D. hanseniiは死亡率を上昇させることなく最高の定着量（6.95 log CFU/mL）を形成したのに対し、A. flavusは高い病原性にもかかわらず低い菌力（4.30 log CFU/mL）を維持した。さらに、活性酸素種（ROS）の生成は、病原体であるA. flavusおよびP. kudriavzeviiに反応して有意に増加したが、共生菌であるD. hanseniiではベースラインレベルに留まった。本研究の結果は、D. melanogasterが真菌種や宿主の性に応じて、免疫介在性抵抗から共生的耐性に至るまで、異なる生理学的戦略を採用していることを示唆している。"
+  },
+  {
+    "id": "10.1186/s13059-026-04343-0",
+    "title": "Integrating hyperspectral phenomics and genome-wide association analysis reveals a ribosome assembly factor regulating wheat grain protein content under drought stress",
+    "abstract": "Background\n                     Drought stress threatens wheat grain quality by altering the accumulation of protein and carbon reserves. Deciphering the genetic mechanisms underlying these traits is important for developing climate-resilient wheat varieties.\n                  \n                     Results\n                     Here we integrate high-throughput hyperspectral imaging (HSI) with genome-wide association studies (GWAS) to investigate the genetic basis of grain quality in a diversity panel of 498 wheat accessions grown under drought and well-watered conditions. To dissect the genetic architecture of these spectral phenotypes, we perform whole-genome re-sequencing of the association panel and conduct GWAS on hyperspectral traits. We identify 828 quantitative trait loci associated with grain spectral traits, including several loci colocalizing with known grain quality genes. Among them, we identify TaUTP18, encoding U3 small nucleolar RNA-associated protein involved in ribosome assembly, as a candidate regulator of drought-responsive grain quality. Functional analyses demonstrate that disruption of TaUTP18 alters grain hyperspectral profiles and significantly reduces grain protein content and grain size under drought stress. Polysome profiling and transcriptome analyses reveal that TaUTP18 is required for efficient U3 snoRNP-mediated 18 S rRNA maturation, ribosome biogenesis, and translational capacity during grain development under drought. In parallel, machine-learning models trained on hyperspectral data accurately predict grain protein and carbon contents, enabling rapid, non-destructive assessment of grain quality.\n                  \n                     Conclusions\n                     Our study demonstrates the power of integrating hyperspectral phenomics with GWAS to uncover genes underlying complex quality traits. The identification of TaUTP18 establishes a mechanistic link between ribosome biogenesis and wheat grain protein accumulation under drought stress, while providing a valuable target for breeding climate-resilient, high-quality wheat varieties.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04343-0",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04343-0",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5066,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1186/s13059-026-04343-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "593cc176031b72e629962ecf17f0bf688ee4e4f8dd144cc9b018f34a1ea609f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:55:26.859287+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e3e8f54be6b1c211ac3f2be4a847e119ff35476069955ba6e0ff981b8cec414d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:55:26.859287+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ハイパースペクトルフェノミクスとゲノムワイド関連解析の統合により、干ばつストレス下で小麦粒のタンパク質含有量を制御するリボソーム組立因子が明らかとなった",
+    "abstract_ja": "背景\n                     干ばつストレスは、タンパク質および炭素貯蔵量の蓄積を変化させることで、小麦粒の品質を脅かす。これらの形質の根底にある遺伝的メカニズムを解明することは、気候耐性を持つ小麦品種の開発において重要である。\n                  \n                     結果\n                     本研究では、ハイスループットハイパースペクトルイメージング（HSI）とゲノムワイド関連解析（GWAS）を統合し、干ばつ条件下および十分な灌漑条件下で栽培された498系統の小麦アクセスションからなる多様性パネルを用いて、粒品質の遺伝的基盤を調査した。これらのスペクトル表現型の遺伝的構造を解析するため、関連パネルの全ゲノム再シーケンシングを行い、ハイパースペクトル形質に関するGWASを実施した。その結果、既知の粒品質遺伝子と共局在する複数の遺伝子座を含む、粒のスペクトル形質に関連する828個の量的形質遺伝子座を同定した。その中で、リボソーム構築に関与するU3小核小体RNA関連タンパク質をコードするTaUTP18を、干ばつ応答性粒品質の調節因子候補として同定した。機能解析により、TaUTP18の機能不全が粒のハイパースペクトルプロファイルを変化させ、干ばつストレス下で粒のタンパク質含有量および粒径を有意に減少させることが示された。ポリソームプロファイリングおよびトランスクリプトーム解析により、干ばつ下での粒の発達過程において、TaUTP18がU3 snoRNP介在性の18S rRNAの効率的な成熟、リボソーム生合成、および翻訳能に必要であることが明らかになった。並行して、ハイパースペクトルデータで学習させた機械学習モデルが粒のタンパク質および炭素含有量を正確に予測し、粒品質の迅速かつ非破壊的な評価を可能にした。\n                  \n                     結論\n                     本研究は、ハイパースペクトルフェノミクスとGWASを統合することで、複雑な品質形質の根底にある遺伝子を明らかにする有用性を実証した。TaUTP18の同定は、干ばつストレス下におけるリボソーム生合成と小麦粒のタンパク質蓄積との間の機構的な関連性を確立するとともに、気候耐性を持つ高品質な小麦品種の育種に向けた貴重な標的を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1128/jcm.00514-26",
+    "title": "Whole genome-based characterization of virulence and antimicrobial resistance determinants in clinical <i>Campylobacter jejuni</i> isolates from Minnesota, 2018-2021.",
+    "abstract": "Campylobacter jejuni is a leading cause of foodborne gastroenteritis globally and is classified by the Centers for Disease Control and Prevention as a serious public health threat due to increasing resistance to fluoroquinolones and macrolides. This study used whole-genome sequencing to characterize the virulence and antimicrobial resistance profiles of 2,783 clinical C. jejuni isolates (98.4% stool, 1.2% unknown source, 0.4% blood, and one from rectal swab) collected from Minnesota residents from 2018 through 2021. More than 90% of the isolates had genes related to stress defense (rpoN and htrB), cytolethal distending toxin (cdtA, cdtB, and cdtC), and cell adhesion and invasion (ciaB, cadF, and flaC). A diverse array of antimicrobial resistance genes were detected, with beta-lactam resistance genes having a particularly high prevalence. Five gyrA point mutations associated with quinolone resistance were present in 29% of isolates, with the T861 substitution being the most prevalent. Phenotypically, tetracycline resistance was most common (52.3%), followed by quinolone resistance (30.7%), while resistance to other antimicrobial classes-macrolide (2.4%) and aminoglycoside (1.8%)-was uncommon. To evaluate the correlation between genotypic and phenotypic antimicrobial resistance profiles, the antimicrobial susceptibility testing results from a subset of isolates were compared with genotypic resistance profiles. The results showed a strong overall correlation, particularly for tetracycline and quinolones, though 24 discrepancies were detected. In the majority of discrepancies (n = 21), genomic antimicrobial resistance markers were absent in isolates that were phenotypically resistant, suggesting possible unknown resistance mechanisms or limitations in current sequencing analysis methods. The remaining three discrepancies occurred in isolates that had the tet(O) resistance gene but were susceptible to tetracycline phenotypically. These findings highlight the value of whole-genome sequencing in improving antimicrobial resistance surveillance and understanding virulence-associated factors in C. jejuni, supporting its integration into routine monitoring practices to better manage and understand antimicrobial resistance in foodborne pathogens.IMPORTANCEThis study characterizes the virulence and antimicrobial resistance profiles of Campylobacter isolates using whole-genome sequencing (WGS) data generated through routine foodborne disease surveillance. A subset of isolates was also tested for phenotypic antimicrobial susceptibility testing, allowing us to evaluate resistance patterns and assess genotype-phenotype concordance. This comparison provides important evidence regarding the reliability and limitations of using WGS-detected resistance determinants to predict antimicrobial susceptibility. The 5 years of accumulated surveillance data provide a comprehensive, population-level understanding of circulating Campylobacter strains in Minnesota, USA, and establish an important regional baseline for monitoring changes over time. These findings can be compared with national surveillance data to identify geographic similarities and differences and provide a valuable regional context for public health decision-making and antimicrobial stewardship.",
+    "journal": "Journal of Clinical Microbiology",
+    "doi": "10.1128/jcm.00514-26",
+    "date": "2026-10-27",
+    "authors": "Hwang H, Orth M, Jawahir S, Gross A, Wang X, Boxrud D, Smith K, Haan J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42937302",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13753798",
+    "pmid": "42937302",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5038,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1128/jcm.00514-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3fe72bb85f432ee756f9c1ca8796334ef8687f59f38cac7a1993cda1e71575ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:55:26.859287+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4d429a6c3918e287e0dedddab57a03124f994603ccb0441fb590d0299fa71585",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T14:55:26.859287+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ミネソタ州の臨床用<i>Campylobacter jejuni</i>分離株における病原性および薬剤耐性決定因子の全ゲノムに基づく特性解析（2018-2021年）",
+    "abstract_ja": "Campylobacter jejuniは、世界的に食中毒性胃腸炎の主要な原因となっており、フルオロキノロン系およびマクロライド系薬剤に対する耐性の増加により、米国疾病予防管理センター（CDC）によって深刻な公衆衛生上の脅威として分類されている。本研究では、全ゲノムシーケンシングを用いて、2018年から2021年にかけてミネソタ州住民から採取された2,783株の臨床用C. jejuni分離株（糞便由来98.4%、感染源不明1.2%、血液由来0.4%、直腸スワブ由来1株）の病原性および薬剤耐性プロファイルを解析した。分離株の90%以上に、ストレス防御（rpoNおよびhtrB）、細胞致死性拡張毒素（cdtA、cdtB、およびcdtC）、ならびに細胞接着・侵入（ciaB、cadF、およびflaC）に関連する遺伝子が認められた。多種多様な薬剤耐性遺伝子が検出され、特にβ-ラクタム系耐性遺伝子の頻度が高かった。キノロン系耐性に関連するgyrA点変異は分離株の29%に認められ、T861置換が最も頻度が高かった。表現型的には、テトラサイクリン系耐性が最も一般的（52.3%）であり、次いでキノロン系耐性（30.7%）であった。一方、他の薬剤クラスであるマクロライド系（2.4%）およびアミノグリコシド系（1.8%）への耐性は稀であった。遺伝子型と表現型の薬剤耐性プロファイルの相関を評価するため、一部の分離株における薬剤感受性試験の結果を遺伝子型耐性プロファイルと比較した。その結果、特にテトラサイクリン系およびキノロン系において強い全体的な相関が認められたが、24件の不一致が検出された。不一致の大部分（n = 21）では、表現型的に耐性を示す分離株においてゲノム上の薬剤耐性マーカーが欠如しており、未知の耐性メカニズムが存在するか、あるいは現在のシーケンシング解析手法に限界があることが示唆された。残りの3件の不一致は、tet(O)耐性遺伝子を保有しながらも表現型的にはテトラサイクリン系に感受性を示す分離株で認められた。これらの知見は、薬剤耐性サーベイランスの改善およびC. jejuniにおける病原性関連因子の理解における全ゲノムシーケンシングの有用性を強調するものであり、食中毒性病原体における薬剤耐性をより適切に管理し理解するための、日常的なモニタリング体制への導入を支持するものである。重要性 本研究は、日常的な食中毒サーベイランスを通じて得られた全ゲノムシーケンシング（WGS）データを用いて、Campylobacter分離株の病原性および薬剤耐性プロファイルを解析した。また、一部の分離株に対して表現型薬剤感受性試験を実施し、耐性パターンの評価および遺伝子型と表現型の一致度の検証を行った。この比較は、WGSで検出された耐性決定因子を用いて薬剤感受性を予測することの信頼性と限界に関する重要な根拠を提供する。5年間にわたって蓄積されたサーベイランスデータは、米国ミネソタ州における循環するCampylobacter株に関する包括的な集団レベルの理解を提供し、経時的な変化をモニタリングするための重要な地域的ベースラインを確立する。これらの知見を全国的なサーベイランスデータと比較することで、地理的な類似点と相違点を特定でき、公衆衛生上の意思決定および薬剤適正使用管理にとって価値ある地域的背景を提供することができる。"
   }
 ]
