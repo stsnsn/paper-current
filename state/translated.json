@@ -291348,5 +291348,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ΔΔ  G  予測からコンフォーマル予測による変異優先順位付けへ",
     "abstract_ja": "タンパク質工学やタンパク質機能研究における変異の選定では、予測された安定性の変化のうち、どのものを実験的な追跡調査に値するかを判断する必要がある。点推定だけでは、不確実性によって安定化効果と不安定化効果の双方が妥当であると言えるかどうかが示されない。この限界に対処するため、我々はタンパク質安定性予測器と標準および適応型コンフォーマル予測区間を組み合わせたProbJanusDDGを提案する。キャリブレーションにより、測定された変異数の不均一性を考慮し、各タンパク質に等しい総重みを割り当てる。これまで特性解析されていない変異については、区間全体が0より上または下にある場合を安定化または不安定化の候補置換の選定基準とし、0を含む区間の場合は方向性を未解決とする。外部の低相同性S669Lベンチマークにおいて、名目50%レベルの適応型区間は変異の34.2%に方向性の判定を下し、94.8%の観測符号精度を示した。70%レベルでは15.5%に判定が下され、符号精度は99.0%であった。名目90%レベルでは、標準および適応型区間の変異レベルのカバレッジはそれぞれ91.6%および92.5%に達した一方、タンパク質間での平均カバレッジは約87%であった。適応型区間は変異間で幅を再分配し、観測誤差が大きい予測ほど幅が広くなる一方で、平均幅はほぼ不変であった。これらの結果は、未特性解析バリアントに対する不確実性を考慮したスクリーニングを支持するものである。すなわち、タンパク質工学には安定化候補変異を、タンパク質機能への安定性関連効果の調査には不安定化候補変異を優先して選定することである。本手法は、方向性が明確な予測と、さらなる証拠を必要とする予測を区別しつつ、実験的な追跡調査のための選択的な基準を提供する。意義の記述：タンパク質研究者は、どの変異を実験的に検証すべきかを選択しなければならないことが多い。我々は、安定化または不安定化の候補置換を特定し、不確実な方向性を未解決のままとする区間を用いて、安定性予測を補完する。外部ベンチマークにおいて、選定されたサブセットは高い観測符号精度を示した。これにより、タンパク質工学および安定性関連の機能的効果の研究における実験の優先順位付けのための明示的な基準が提供される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761858",
+    "title": "Dynamic merging of enhancer- and promoter-associated assemblies is coupled to transcriptional bursting",
+    "abstract": "Classical models attribute distal enhancer function to chromatin looping, whereas emerging models propose that spatially organized assemblies of transcriptional regulators also facilitate enhancer-promoter communication. To investigate how these processes relate to transcription, we developed an endogenous-tagging-based four-color live-cell imaging platform and an integrated quantitative analysis pipeline in mouse embryonic stem cells (mESCs), enabling simultaneous visualization of regulatory assembly dynamics, chromatin organization and transcriptional bursting at the endogenous  Sox2 locus. We find that the pluripotency transcription factor OCT4 and the coactivator BRD4 form numerous spatially distinct but dynamically interacting assemblies. At non-bursting  Sox2 alleles, the promoter and the distal  Sox2 enhancer SCR occupy distinct assembly environments, with stronger BRD4 association at the SCR than at the promoter. At bursting  Sox2 alleles, transcription is coupled to transient merging and partial overlap of enhancer- and promoter-associated assemblies, with the SCR, promoter and nascent RNA frequently sharing OCT4/BRD4-enriched assembly environments across a broad range of SCR-promoter distances. Pharmacological perturbation of bromodomain-dependent BRD4 function preferentially suppresses long-duration, high-amplitude bursts. Together, our findings support a model in which transcriptional bursting is coupled to the dynamic reorganization and merging of enhancer- and promoter-associated regulatory assemblies, linking chromatin-looping and assembly-based views of enhancer-promoter communication.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761858",
+    "date": "2026-10-28",
+    "authors": "Lin Q, Wang B, Liu Y, Wang Z, Zhang J, Wang Y, Guo K, Hui S, Zhang X, Ni C, Chen Z, Deng W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352412",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "chromatin",
+        "pipeline",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5016,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.26.761858"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6e6020eab095d0db299f46f1da895c644748d1f292ab62af4df1bf33770ef9e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:36:44.572224+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e32e0a735b424403dbd022e5e785b1ce87d9dd0438e82425bdcbbd4d35fe2bb9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:36:44.572224+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エンハンサーおよびプロモーター関連アセンブリの動的融合は、転写バーストと連動している。",
+    "abstract_ja": "従来のモデルでは、遠位エンハンサー機能はクロマチンループ形成に起因するとされてきたが、近年のモデルでは、転写調節因子の空間的に組織化されたアセンブリもエンハンサー・プロモーター間の相互作用を促進することが提唱されている。これらのプロセスが転写とどのように関連しているかを調べるため、我々はマウス胚性幹細胞（mESCs）において、内因性タグ付けに基づく4色ライブセルイメージングプラットフォームと統合的な定量解析パイプラインを開発し、内因性Sox2遺伝子座における調節アセンブリの動態、クロマチン組織化、および転写バーストの同時可視化を可能にした。その結果、多能性転写因子OCT4と共活性化因子BRD4が、空間的に異なるが動的に相互作用する多数のアセンブリを形成することが判明した。バーストしていないSox2アレルでは、プロモーターと遠位Sox2エンハンサーSCRが別々のアセンブリ環境を占めており、SCRではプロモーターよりもBRD4の結合が強い。バーストしているSox2アレルでは、転写はエンハンサーおよびプロモーター関連アセンブリの一過性の融合と部分的な重複に共役しており、SCR、プロモーター、および新生RNAは、SCR-プロモーター間の広範な距離にわたって、OCT4/BRD4が濃縮されたアセンブリ環境を頻繁に共有している。ブロモドメイン依存的なBRD4機能への薬理学的摂動は、長時間かつ高振幅のバーストを優先的に抑制する。以上の知見は総じて、転写バーストがエンハンサーおよびプロモーター関連の調節アセンブリの動的な再編成および融合に共役しているというモデルを支持するものであり、クロマチンループ形成とアセンブリに基づくエンハンサー・プロモーター間相互作用の視点を結びつけるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.761089",
+    "title": "Cross-family learning transfers thermal adaptation between enzymes",
+    "abstract": "Thermal adaptation has evolved independently across diverse protein families, yet whether the information underlying this adaptation can be transferred between evolutionarily unrelated proteins remains unknown. Here, we demonstrate that thermostability can be learned from divergent protein families and transferred to enzymes without relying on their evolutionary ancestry. We developed THOR (THermally Optimised Representations), a generative framework that learns background-specific sequence transformations between unpaired mesophilic and thermophilic sequence populations while preserving the identity of the starting protein. Across evolutionarily divergent enzyme families, THOR transferred thermostability without exposure to thermophilic homologues during training. In malate dehydrogenase, excluded from cross-family training, zero-shot designs increased apparent melting temperature by up to 15 °C, with gains reaching 36 °C following limited family-specific fine-tuning. Majority of designed variants retained activity following prolonged thermal challenge, while selected variants exhibited nearly threefold higher catalytic turnover than wild type. Molecular dynamics simulations revealed that comparable thermal phenotypes emerge through distinct, background-dependent changes in protein flexibility and stabilising interactions. Together, these findings demonstrate that thermal adaptation encodes transferable information beyond lineage-specific evolutionary solutions, revealing evolution as a source of reusable adaptive principles for engineering phenotypes in proteins whose evolutionary lineages have never acquired them.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.761089",
+    "date": "2026-10-28",
+    "authors": "Viknander S, Tatarakis N, Fu X, Diaciuc A, Buric F, Zelezniak A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352320",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5017,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.26.761089"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eadd58a813efb6330fef63542aaa0243643973a7de3c27cb25a69a8f8f8b75d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:36:44.572224+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "97b3db8f5eff16ce584cd6e9b328379ad1b608c56e4f32d8f61bd96c4a178fc1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:36:44.572224+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "家族間学習は酵素間の熱適応を伝達する",
+    "abstract_ja": "熱適応は多様なタンパク質ファミリー間で独立して進化してきたが、この適応の基盤となる情報を進化的に無関係なタンパク質間で転移できるかは依然として不明である。本研究では、熱安定性が分岐したタンパク質ファミリーから学習され、進化的な祖先に依存することなく酵素へと転移可能であることを示す。我々は、初期タンパク質の同一性を保持しつつ、対になっていない中温性および好熱性配列集団間の背景特異的な配列変換を学習する生成的フレームワーク「THOR（THermally Optimised Representations）」を開発した。進化的に分岐した酵素ファミリー間において、THORは学習中に好熱性ホモログに曝露されることなく、熱安定性を転移させた。ファミリー間学習から除外したリンゴ酸脱水素酵素では、ゼロショット設計により見かけの融点が最大15 °C上昇し、限定的なファミリー特異的ファインチューニング後には36 °Cの向上が認められた。設計したバリアントの大部分は長時間の熱負荷後も活性を維持し、選択されたバリアントは野生型よりもほぼ3倍高い触媒ターンオーバーを示した。分子動力学シミュレーションにより、タンパク質の柔軟性と安定化相互作用における、背景依存的な異なる変化を通じて、同等の熱フェノタイプが出現することが明らかになった。これらの知見を総合すると、熱適応は系統特異的な進化的解を超えて転移可能な情報を符号化しており、進化が、進化系統が一度も獲得したことのないタンパク質のフェノタイプを工学的に設計するための、再利用可能な適応原理の源泉であることを明らかにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.22.761181",
+    "title": "High-resolution HLA and MICA/MICB typing of the 1000 Genomes panel: a resource for precision medicine",
+    "abstract": "High-resolution characterization of human leukocyte antigen (HLA) and MICA/MICB variation is important for transplantation, immunogenetics, and the interpretation of disease associations within the major histocompatibility complex (MHC). However, publicly available population reference datasets remain limited in their resolution and coverage of these loci. We performed high-resolution typing of the 1000 Genomes Phase 3 panel across 13 HLA and MIC loci, generating HLA genotypes for 2,486 individuals, extended HLA-A, -B, and -C allele assignments, and MICA/MICB genotypes for 2,393 individuals representing 25 populations and five continental super-populations. Concordance with previously reported HLA genotypes was 96.2-97.4% at two-field resolution, and independent retyping confirmed the present assignments for samples exhibiting reciprocal genotype discrepancies with an earlier dataset. Analysis of extended class I variation within defined assay boundaries revealed that most of the 78 common three-field HLA lineages were dominated by a single extended sequence group. However, eleven lineages exhibited substantial heterogeneity, with the predominant group accounting for less than 80% of observed copies. The distinguishing sequence differences were noncoding, involving intronic and 3′ untranslated regions, and their distributions varied among ancestral populations. These findings identify recurrent, population-relevant variants for which functional consequences remain to be established. Population analyses demonstrated extensive allelic diversity at classical class I loci and DRB1, whereas the greatest between-population differentiation occurred at selected class II and DRB-linked loci. Most common alleles were shared among populations but differed substantially in frequency. Multilocus haplotypes revealed characteristic population-associated combinations of HLA and MIC alleles and provided the basis for predicting MIC genotypes from existing HLA typing. Using two-field HLA-B and HLA-C genotypes, five-fold cross-validation achieved exact genotype prediction accuracies of 77.3% for MICA and 53.6% for MICB, compared with 4.6% and 21.6%, respectively, without HLA information. Together, these results provide an extended-resolution HLA and MIC reference resource, demonstrate the limited routine utility of universal fourth-field typing while identifying specific variants for functional investigation, and establish the potential for recovering MIC variation from existing HLA-typed cohorts. The resource also supports future investigations of MHC variation underlying disease associations and transplantation outcomes.",
+    "journal": "",
+    "doi": "10.64898/2026.10.22.761181",
+    "date": "2026-10-28",
+    "authors": "Pyo C, Nelson WC, Wang R, Song Y, Thomas A, Kim D, Go EB, Pereira S, Ishitani A, Geraghty DE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352294",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5018,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.22.761181"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3e0b98607eef07714ccd091ac986ec804001cb4f12ed49b87d19a1ff2ccc12d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:36:44.572224+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "da989c403fe8805c5f3e8bba475cd445fb5c811b608fc6813daf304788a1b68a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:36:44.572224+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "1000 Genomesパネルの高解像度HLAおよびMICA/MICBタイピング：精密医療のためのリソース",
+    "abstract_ja": "ヒト白血球抗原（HLA）およびMICA/MICB変異の高解像度特性解析は、移植、免疫遺伝学、および主要組織適合性複合体（MHC）内における疾患関連の解釈において重要である。しかし、公開されている集団リファレンスデータセットでは、これらの遺伝子座の解像度と網羅性が依然として限定的である。我々は、13のHLAおよびMIC遺伝子座にわたる1000 Genomesフェーズ3パネルの高解像度タイピングを実施し、2,486名のHLA型、拡張HLA-A、-B、-Cアレル割り当て、および25の集団と5つの大陸スーパー集団を代表する2,393名のMICA/MICB遺伝子型を算出した。既報のHLA型との一致率は、2フィールド解像度で96.2～97.4%であり、独立した再タイピングにより、以前のデータセットと相互的な遺伝子型不一致を示すサンプルの現在の割り当てが確認された。定義されたアッセイ境界内における拡張クラスI変異の解析により、78の一般的な3フィールドHLA系統の大部分は、単一の拡張配列群によって支配されていることが明らかになった。しかし、11の系統では顕著な不均一性が認められ、支配的なグループが観察されたコピーの80%未満を占めていた。特徴的な配列差は非コード領域であり、イントロンおよび3′非翻訳領域に関与しており、その分布は祖先集団間で異なっていた。これらの知見は、機能的な影響が未だ解明されていない、集団に関連する反復性変異を特定するものである。集団解析の結果、古典的なクラスI遺伝子座およびDRB1において広範なアレル多様性が認められた一方、集団間で最も大きな分化が見られたのは、選定されたクラスIIおよびDRB関連遺伝子座であった。最も一般的なアレルは集団間で共有されていたが、頻度には著しい差があった。多遺伝子座ハプロタイプにより、HLAおよびMICアレルの特徴的な集団関連組み合わせが明らかになり、既存のHLAタイピングからMIC遺伝子型を予測するための基礎が得られた。2フィールドのHLA-BおよびHLA-C遺伝子型を用い、5分割交差検証を行ったところ、HLA情報がない場合のそれぞれ4.6%および21.6%に対し、正確な遺伝子型予測精度はMICAで77.3%、MICBで53.6%に達した。これらの結果を総合すると、高解像度のHLAおよびMICリファレンスリソースが提供され、ユニバーサルな4フィールドタイピングの日常的な有用性が限定的であることが示されるとともに、機能的調査のための特定の変異が同定され、既存のHLA型判定済みコホートからMIC変異を復元できる可能性が確立された。本リソースはまた、疾患関連および移植成績の根底にあるMHC変異に関する今後の研究を支援するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.26366654",
+    "title": "Richer database context improves LLM-generated EHR phenotyping algorithms",
+    "abstract": "ABSTRACT  Objective  To evaluate large language model (LLM) generation of type 2 diabetes (T2DM) phenotyping SQL and the effect of database implementation context. Materials and Methods  Eight publicly accessible LLM-based systems generated SQL under progressively richer prompts using synthetic and University of North Carolina (UNC) Health electronic health record (EHR) data, both based on the Observational Medical Outcomes Partnership (OMOP) model. Outputs were compared with the Electronic Medical Records and Genomics (eMERGE) T2DM reference phenotype using SQL executability, F1, positive predictive value (PPV), and recall. Results  Fewer than 55% of limited-context synthetic outputs and no limited-context UNC EHR outputs executed without modification. Detailed codebooks (L3) increased executability to 81.3% in synthetic OMOP and 100% in UNC EHR; adding sample rows (L4) increased synthetic executability to 100%. Limited-context recall was as low as 0.01, whereas high-context outputs achieved recall ≥0.99 at synthetic L4 and >0.90 at UNC L3, although UNC PPV remained substantially lower than recall. At the highest available context levels, Beta F1 ranged from 0.72–0.99 in synthetic OMOP and 0.57–0.68 in UNC EHR; all UNC models exceeded the diagnosis-code baseline (F1=0.54). The top synthetic performer fell from F1=0.99 to 0.64 on UNC EHR. Discussion  Richer database context was associated with more consistent SQL executability and recall, while model rankings varied across datasets. Conclusion  LLMs can generate clinically meaningful T2DM phenotyping SQL when provided with sufficient database context, but limited PPV in real-world data underscores the need for local validation.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.26366654",
+    "date": "2026-10-28",
+    "authors": "Ye M, Lee H, Gizlice S, Tobias M, O’Neil S, Pfaff E, Ahalt SC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352222",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "database",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5019,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.27.26366654"
+    ],
+    "translation": {
+      "title": {
+        "hash": "75670b2f8e62422d0c7478f18597e29a49144a9d5e1d492611858b8983f16013",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:36:44.572224+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e1169c19a95ac3a29fadcffe63bdca77781342e1f696bd250ff4f8cac7d72e4a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:36:44.572224+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "より豊富なデータベースコンテキストにより、LLM生成のEHRフェノタイピングアルゴリズムが向上する",
+    "abstract_ja": "要旨  目的  大規模言語モデル（LLM）による2型糖尿病（T2DM）フェノタイピング用SQLの生成、およびデータベース実装コンテキストの影響を評価すること。材料および方法  公開されている8つのLLMベースのシステムを用い、Observational Medical Outcomes Partnership（OMOP）モデルに基づく合成データおよびノースカロライナ大学（UNC）ヘルスの電子健康記録（EHR）データを使用し、段階的に詳細なプロンプトを用いてSQLを生成した。出力結果を、SQLの実行可能性、F1値、陽性予測値（PPV）、および再現率を用いて、Electronic Medical Records and Genomics（eMERGE）のT2DMリファレンスフェノタイプと比較した。結果  限定的コンテキストの合成出力では55%未満しか修正なしに実行できず、UNC EHRの限定的コンテキスト出力では実行できなかった。詳細なコードブック（L3）により、実行可能性は合成OMOPで81.3%、UNC EHRで100%に向上し、サンプル行の追加（L4）により合成の実行可能性は100%に達した。限定的コンテキストの再現率は0.01まで低下したが、高コンテキスト出力では、合成L4で0.99以上、UNC L3で0.90を超える再現率を達成した。ただし、UNCのPPVは再現率よりも大幅に低いままであった。利用可能な最高コンテキストレベルにおいて、Beta F1値は合成OMOPで0.72～0.99、UNC EHRで0.57～0.68の範囲であり、すべてのUNCモデルが診断コードのベースライン（F1=0.54）を上回った。合成モデルの中で最も性能が高かったモデルでも、UNC EHRではF1=0.99から0.64へと低下した。考察  より詳細なデータベースコンテキストは、より一貫したSQLの実行可能性および再現率と関連していたが、モデルの順位はデータセットによって異なっていた。結論  LLMは、十分なデータベースコンテキストが提供されれば、臨床的に意義のあるT2DMフェノタイピング用SQLを生成できるが、実世界データにおけるPPVの低さは、ローカルバリデーションの必要性を浮き彫りにしている。"
   }
 ]
