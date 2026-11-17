@@ -289859,5 +289859,299 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "同一の根こぶ線虫ストレス下におけるナス科野菜3種の根内微生物叢およびメタボロームの差異的応答と相関解析",
     "abstract_ja": "はじめに根結線虫（RKNs）は、世界的なナス科野菜の生産に深刻な被害をもたらしているが、異なるナス科野菜における線虫感染に対する根内生微生物および代謝物の宿主特異的な応答については、依然として明らかになっていない。方法本研究では、重度に感染したトマト（Solanum lycopersicum, SL）、トウガラシ（Capsicum annuum, CA）、およびナス（S. melongena, SM）の根試料を対象に、16S rRNAおよびITSアンプリコンシーケンシング、メタゲノムシーケンシング、およびLC-MS/MS非標的メタボロミクス解析を実施した。結果3種の野菜の根において、根内微生物群集構造に有意な宿主特異的な差異が認められ、共起ネットワークにおいて明確なモジュール特性が示された。メタゲノム解析により、線虫抵抗性に関連するコア機能遺伝子が、3種の野菜間で量的に高度に保存されていることが示された。非標的メタボロミクススクリーニングにより同定された855種類の差次代謝物の濃縮解析の結果、SLは主にテルペン類と脂質に、CAはフラボノイド類とフェノール酸類に、SMはステロイドアルカロイドにそれぞれ濃縮されていた。マルチオミクス統合解析により、CAは主に「フラボノイド－生物制御細菌－ポリケチド合成酵素（PKS）」防御経路を、SLは「テルペン－放線菌－活性酸素種およびプロテアーゼ/ペプチダーゼ」防御経路を、SMは「ステロイドアルカロイド－微生物冗長性－ヒドロラーゼ」防御経路を、それぞれRKN感染に応答して構築していることが確認された。考察本研究は、宿主主導の根内生微生物の機能分化および線虫抵抗性を理解するための理論的基盤を提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2001559",
+    "title": "Land-use intensification alters soil carbon-nitrogen balance, with associated restructuring of microbial communities and nitrogen-cycling potential",
+    "abstract": "Whether and how land use change regulates soil microbial communities by shifting soil carbon-nitrogen (C–N) balance remains unclear, even though C–N balance is known to govern microbial community structure and function. Here, we examined four land use types—natural land use (wasteland and shrubland) and agricultural land use (tobacco–maize rotation and continuous tobacco cropping)—and compared bacterial and fungal communities between natural and agricultural systems, with particular attention to rotation vs. continuous cropping. Relative to natural land use, agricultural land use was associated with higher soil nitrogen availability and microbial biomass but a lower microbial biomass C/N ratio. Compared with rotation, continuous cropping significantly reduced soil organic matter by 29.3% and total nitrogen by 16.5%, lowered the soil C/N ratio by 15.3%, and decreased hot-water extractable organic carbon and light-fraction organic matter by 21.4% and 30.6%, respectively. Microbial biomass carbon and nitrogen, by contrast, were significantly higher under continuous cropping, and the microbial biomass C/N ratio fell by 52.4%, accompanied by a 57.6% increase in nitrate nitrogen. Microbial diversity tended to rise from natural to agricultural land use, whereas within agricultural systems continuous cropping was associated with declining trends in bacterial and fungal diversity and with exploratory shifts in network structure, together with altered community structure and reduced relative abundances of Actinobacteria and Bacteroidetes. Carbon limitation coupled with nitrogen enrichment under continuous cropping was associated with lower predicted abundances of denitrification- and nitrate-reduction-related functional groups, suggesting a weakened potential for microbial nitrate consumption that may contribute to nitrate accumulation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2001559",
+    "date": "2026-11-17",
+    "authors": "Na Wang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2001559",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5063,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.2001559"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d07ee7c0bd3cb6f7decd73f339de6bb3a25bb28f55d3322ba7736ffef25c3191",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:19:10.013723+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0978683e8c791ac4cd34024225088d894e1b7169ebbab45e20c75d4537004c3b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:19:10.013723+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "土地利用の集約化は土壌の炭素・窒素バランスを変化させ、それに伴い微生物群集の再構成や窒素循環能の変容が生じる。",
+    "abstract_ja": "土地利用の変化の有無およびその様相が、土壌の炭素－窒素（C–N）バランスを変化させることで土壌微生物群集を制御するかどうか、またどのように制御するのかについては、C–Nバランスが微生物群集の構造と機能を規定することが知られているにもかかわらず、依然として明らかになっていない。本研究では、自然土地利用（荒地および低木地）と農業土地利用（タバコ－トウモロコシ輪作およびタバコ連作）という4種類の土地利用形態を検討し、特に輪作と連作に着目して、自然系と農業系の細菌群集および真菌群集を比較した。自然土地利用と比較して、農業土地利用では土壌窒素の利用可能性と微生物バイオマスが高かったが、微生物バイオマスのC/N比は低かった。輪作と比較して、連作では土壌有機物が29.3%、全窒素が16.5%有意に減少し、土壌C/N比は15.3%低下し、温水抽出可能な有機炭素および光分画有機物はそれぞれ21.4%および30.6%減少した。対照的に、微生物バイオマスの炭素および窒素は連作下で有意に高く、微生物バイオマスのC/N比は52.4%低下し、それに伴い硝酸態窒素が57.6%増加した。微生物多様性は自然土地利用から農業土地利用にかけて増加する傾向を示したが、農業系内においては、連作に伴い細菌および真菌の多様性が低下傾向を示し、ネットワーク構造に探索的な変化が生じるとともに、群集構造の変化およびActinobacteria属とBacteroidetes属の相対存在量の減少が認められた。連作下における窒素濃縮を伴う炭素制限は、脱窒および硝酸還元に関連する機能群の予測存在量の低下と関連しており、これは硝酸蓄積に寄与し得る微生物による硝酸消費能の減弱を示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1998528",
+    "title": "Gut microbiota remodeling and functional shifts in association with host PPAR signaling during Lianli Decoction treatment of ulcerative colitis",
+    "abstract": "ObjectivesThis study aimed to investigate the multi-level associations among Lianli Decoction (LLD) treatment, the taxonomic and functional remodeling of the gut microbiota, alterations in fecal metabolites, and host peroxisome proliferator-activated receptor (PPAR) signaling in a dextran sulfate sodium (DSS)-induced ulcerative colitis (UC) model.MethodsThe chemical constituents of LLD were identified, and molecular docking was conducted accordingly. Male C57BL/6J mice were randomized into blank, model, 5-aminosalicylic acid (5-ASA), and low/medium/high-dose LLD (LLD-L/M/H) groups. Disease severity was evaluated using the disease activity index (DAI), histopathological scoring, and colonic cytokine levels (IL-6, TNF-α). Fecal samples from four mice per group were subjected to 16S rRNA gene sequencing coupled with PICRUSt2 functional prediction and untargeted LC-MS metabolomics. Host molecular responses were assessed by Western blotting (PPARα, PPARδ, PPARγ, CPT1A), quantitative PCR (CPT1A, ACOX1), immunofluorescence (CD68+/CD206+), and fatty acid β-oxidation assays.ResultsLLD-M and LLD-H were associated with reduced DAI scores, attenuated histopathological damage, and lower colonic IL-6 and TNF-α. At the taxonomic level, LLD-M was associated with a shift in overall community composition, an increased Firmicutes/Bacteroidota ratio, and enrichment of Alloprevotella and Parabacteroides. PICRUSt2 analysis indicated a higher predicted abundance, in the LLD-M group, of bacterial KEGG orthologs mapped to the PPAR-associated pathway. Molecular docking predicted favorable binding of berberine within the ligand-binding domains of PPARα and PPARγ. Metabolomics identified increased fecal levels of palmatine and 5-methoxynoracronycine, which were negatively correlated with inflammatory cytokines. Consistently, LLD-M was also associated with higher PPARα, PPARγ and CPT1A protein expression in the colon, an accelerated rate of fatty acid β-oxidation, and increased proportions of CD68+CD206+ M2 macrophages. The predicted abundance of bacterial KEGG orthologs mapped to the PPAR-associated pathway was positively correlated with host PPAR protein expression.ConclusionLLD-M was associated with a shift in the predicted functional potential of the gut microbiota toward genes mapped to the PPAR-associated KEGG pathway, accompanied by increased host PPAR expression and M2 macrophage markers. This integrated analysis provides a multi-omics association framework for the metabolic crosstalk between bacteria and the host in UC during traditional Chinese medicine intervention; the causal direction of these associations remains to be established.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1998528",
+    "date": "2026-11-17",
+    "authors": "Leilei Liu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1998528",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5064,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1998528"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c46551b526630e05128063187b1a49af8b2af17b3c48f90276cbbefec24712a7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:19:10.013723+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "046a99f03cd9c150185abfed11271d1d1b0e0d34c3da48c8189b26460bae7518",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:19:10.013723+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "潰瘍性大腸炎に対する連理湯治療における宿主PPARシグナル伝達に伴う腸内細菌叢のリモデリングと機能シフト",
+    "abstract_ja": "目的本研究は、デキストラン硫酸ナトリウム（DSS）誘発性潰瘍性大腸炎（UC）モデルにおいて、連理湯（LLD）投与、腸内細菌叢の分類学的・機能的リモデリング、糞便代謝物の変化、および宿主ペルオキシソーム増殖剤活性化受容体（PPAR）シグナル伝達の間の多層的な関連性を検討することを目的とした。方法LLDの化学成分を同定し、それに基づいて分子ドッキングを行った。雄C57BL/6Jマウスを、ブランク群、モデル群、5-アミノサリチル酸（5-ASA）群、および低/中/高用量LLD（LLD-L/M/H）群に無作為に割り付けた。疾患重症度は、疾患活動性指数（DAI）、組織病理学的スコアリング、および結腸サイトカインレベル（IL-6、TNF-α）を用いて評価した。各群4匹のマウスから採取した糞便試料に対し、16S rRNA遺伝子シーケンシングをPICRUSt2機能予測および非標的型LC-MSメタボロミクスと組み合わせて実施した。宿主の分子応答は、ウェスタンブロッティング（PPARα、PPARδ、PPARγ、CPT1A）、定量PCR（CPT1A、ACOX1）、免疫蛍光法（CD68+/CD206+）、および脂肪酸β酸化アッセイにより評価した。結果LLD-MおよびLLD-Hは、DAIスコアの低下、組織病理学的損傷の軽減、ならびに結腸におけるIL-6およびTNF-αの減少と関連していた。分類学的レベルでは、LLD-Mは全体的な菌群組成の変化、Firmicutes/Bacteroidota比の上昇、およびAlloprevotellaとParabacteroidesの濃縮と関連していた。PICRUSt2解析により、LLD-M群において、PPAR関連経路にマッピングされた細菌KEGGオルソログの予測存在量がより高いことが示された。分子ドッキングにより、PPARαおよびPPARγのリガンド結合ドメイン内でのベルベリンの良好な結合が予測された。メタボロミクスでは、パルマチンおよび5-メトキシノラクロニシンの糞便中濃度の上昇が同定され、これらは炎症性サイトカインと負の相関を示した。同様に、LLD-Mは結腸におけるPPARα、PPARγおよびCPT1Aタンパク質の発現上昇、脂肪酸β酸化速度の加速、およびCD68+CD206+ M2マクロファージの割合の増加とも関連していた。PPAR関連経路にマッピングされた細菌KEGGオルソログの予測存在量は、宿主のPPARタンパク質発現と正の相関を示した。結論LLD-Mは、宿主のPPAR発現およびM2マクロファージマーカーの増加を伴い、腸内細菌叢の予測機能的ポテンシャルがPPAR関連KEGG経路にマッピングされた遺伝子へとシフトすることに関連していた。この統合解析は、中医学による介入時のUCにおける細菌と宿主間の代謝クロストークに関するマルチオミクス関連性フレームワークを提供するものであり、これらの関連性の因果的な方向性については今後解明される必要がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1957130",
+    "title": "Viral pathogens in effluent samples collected from a swine slaughterhouse in Central Italy: a 1-year molecular surveillance.",
+    "abstract": "IntroductionMolecular screening for zoonotic and species-specific viral pathogens in environmental samples is essential for obtaining epidemiological data to support risk-based assessments in the food industry, particularly in settings such as slaughterhouses.MethodsThis study screened 72 effluent specimens collected between January and December 2025 from two sites within a domestic pig slaughterhouse in Central Italy: the stocking yard (V1) and the wastewater treatment plant (WWTP; V2). The viruses investigated were astrovirus, hepatitis A virus, hepatitis E virus (HEV), norovirus (NoV), and rotavirus (RV). Viral detection was performed using real-time reverse transcription quantitative polymerase chain reaction (RT-qPCR) and nested reverse transcription polymerase chain reaction (RT-PCR) assays, followed by phylogenetic analysis.ResultsThe results showed that ribonucleic acid (RNA) from at least one of the target viruses was detected in 37.50% of the specimens, with HEV3-c detected in 26.39%, NoV-GII.3 in 12.50%, and NoV-GI.4 in 9.72%. Among the positive effluent samples, 62.96% were collected at V1 and 37.04% at V2. Samples from V1 exhibited higher viral loads, with HEV RNA levels reaching (105) genome equivalents per milliliter (GE/mL) and NoV-GI and NoV-GII RNA levels reaching (103) GE/mL, compared with (103) GE/mL for HEV RNA and (101) GE/mL for NoV-GI and NoV-GII RNA in samples from V2.DiscussionThe detection of viral RNA sequences both before and after WWTP treatment highlights scientific and regulatory concerns regarding the potential dissemination of zoonotic and species-specific viruses into the environment. Regulatory gaps in the management and monitoring of these environmental matrices underscore the importance of multidisciplinary approaches to addressing this One Health issue.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1957130",
+    "date": "2026-10-29",
+    "authors": "Ferri G, Alborali GL, Olivastri A, Piccioni MA, Ianieri A, Vergara A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43022249",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43022249",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4998,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1957130"
+    ],
+    "translation": {
+      "title": {
+        "hash": "744e62d5c57ece0d41f81d5395e26d17b1d71ffdddddb279bb53bad390cd5531",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:19:10.013723+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7f0415879bfaa5c4cf4d56e0397db1b89b732fc80cbf34688213821f3e79c37f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:19:10.013723+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "イタリア中部の豚屠畜場から採取した排水試料中のウイルス性病原体：1年間の分子サーベイランス",
+    "abstract_ja": "はじめに環境試料における人獣共通感染症および種特異的ウイルス病原体の分子スクリーニングは、食品産業、特に屠畜場などの施設におけるリスクベースの評価を裏付ける疫学データを得るために不可欠である。方法本研究では、2025年1月から12月にかけて、イタリア中部の国内養豚屠畜場内の2か所（飼養場（V1）および廃水処理施設（WWTP; V2））から採取した72検体の処理水をスクリーニングした。調査対象としたウイルスは、アストロウイルス、A型肝炎ウイルス、E型肝炎ウイルス（HEV）、ノロウイルス（NoV）、およびロタウイルス（RV）である。ウイルス検出は、リアルタイム逆転写定量ポリメラーゼ連鎖反応（RT-qPCR）およびネスト型逆転写ポリメラーゼ連鎖反応（RT-PCR）アッセイを用いて行い、その後系統解析を実施した。結果対象ウイルスのうち少なくとも1種のリボ核酸（RNA）が検体の37.50%から検出され、HEV3-cは26.39%、NoV-GII.3は12.50%、NoV-GI.4は9.72%で検出された。陽性の処理水検体のうち、62.96%がV1で、37.04%がV2で採取された。V1の検体ではウイルス量が高く、HEV RNAレベルは1ミリリットルあたり(105)ゲノム当量（GE/mL）、NoV-GIおよびNoV-GII RNAレベルは(103) GE/mLに達した。これに対し、V2の検体におけるHEV RNAは(103) GE/mL、NoV-GIおよびNoV-GII RNAは(101) GE/mLであった。考察WWTP処理前後の両方でウイルスRNA配列が検出されたことは、人獣共通感染症および種特異的ウイルスが環境中に拡散する可能性に関する科学的および規制上の懸念を浮き彫りにしている。これらの環境マトリックスの管理およびモニタリングにおける規制上の不備は、このワンヘルス（One Health）課題に対処するための学際的なアプローチの重要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1910406",
+    "title": "Current status and trends of gut microbiota in the study of cognitive impairment in the elderly.",
+    "abstract": "BackgroundCognitive impairment in older persons has become a major public health concern as the world's population ages more quickly. A reduction in thinking, learning, and memory skills that affects a person's day-to-day activities or social functioning is referred to as cognitive impairment. The connection between gut microbiota and cognitive decline has attracted a lot of interest lately. However, this rapidly expanding interdisciplinary field presents an increasingly complex knowledge structure, with existing evidence being highly fragmented and subject to significant methodological and sample size limitations.GoalThis study adopts a bibliometrics perspective, summarising and outlining the current state and developmental trends within the field to provide a reference framework and recommendations for subsequent research.MethodBased on the Web of Science Core Collection (WoSCC) database and Scopus database. In WOSCC database, literature related to gut microbiota and cognitive impairment in the elderly from 1995 to 8 September 2025 was retrieved. Similarly, search for relevant literature from 1995 to 2025 in the Scopus database. Bibliometric analysis was conducted using VOSviewer software to examine data on countries, institutions, authors, journals, keywords, citations, and generate visual maps.ResultA total of 406 relevant publications were retrieved from the WOSCC database. The overall publication trend is increasing. China is the country with the most published papers, and Nanjing Medical University and Zhejiang University are joint top institutions in terms of output, while in the WOS database, Hariom Yadav is the most prolific author, while Luo Ailin has the highest total link strength. In the Scopus database, Zhang, Y is the most prolific author, while Hisada, T et al. have the highest total link strength. The most common keyword is gut microbiota, followed by Alzheimer's disease, aging, probiotics, dementia, and neuroinflammation. In addition, a total of 180 relevant literatures were retrieved from the Scopus database. Among them, the most common keywords are intestine flora, aged, cognitive defect, cognition, and gastrointestinal microbiome.ConclusionResearch into the relationship between the gut microbiota and cognitive impairment is advancing steadily, yet there remains a need to strengthen collaboration between authors and institutions across different regions. Sustained interaction and exchange are essential to further explore the mechanisms of action of the gut microbiota. Based on the identified research hotspots and gaps, we suggest that future investigations could benefit from integrating multi-omics approaches to explore potential biomarkers and nutritional intervention strategies. However, these directions remain speculative and should be pursued through rigorous experimental and clinical research.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1910406",
+    "date": "2026-10-27",
+    "authors": "Sun MY, Wang Y, Jiang J, Feng S, Sun YG.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43032671",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "43032671",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5024,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1910406"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bb1d3490f78d3cc93b19647ebb6c5ff8e1bbb26dc5387be2b4046dc990c68403",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:19:10.013723+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ab6e79ee2ea1e918c14f0e251cb4d318124d5f2cf23e711f6ae6e897ddc34616",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:19:10.013723+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "高齢者の認知機能障害研究における腸内細菌叢の現状と動向",
+    "abstract_ja": "背景 世界人口の高齢化が加速する中、高齢者における認知機能障害は公衆衛生上の重大な懸念事項となっている。思考、学習、および記憶能力の低下により、日常生活や社会機能に支障が生じる状態を認知機能障害と呼ぶ。近年、腸内細菌叢と認知機能低下の関連性に大きな関心が寄せられている。しかし、急速に拡大するこの学際的分野では知識構造がますます複雑化しており、既存のエビデンスは極めて断片的で、方法論的およびサンプルサイズ上の重大な制約を抱えている。目的 本研究ではビブリオメトリクスの視点を採用し、当該分野の現状と発展傾向を要約・概説することで、後続研究のための参照枠組みと提言を提示する。方法 Web of Science Core Collection (WoSCC) データベースおよびScopusデータベースを基盤とした。WoSCCデータベースでは、1995年から2025年9月8日までの高齢者の腸内細菌叢と認知機能障害に関する文献を検索した。同様に、Scopusデータベースにおいても1995年から2025年までの関連文献を検索した。ビブリオメトリクス解析はVOSviewerソフトウェアを用いて実施し、国、機関、著者、学術誌、キーワード、引用に関するデータを検証し、ビジュアルマップを作成した。結果 WoSCCデータベースから、計406件の関連論文が抽出された。全体的な出版傾向は増加傾向にある。中国は論文発表数が最も多い国であり、発表数においては南京医科大学と浙江大学が共同でトップの機関となっている。一方、WOSデータベースでは、Hariom Yadavが最も多産な著者であり、Luo Ailinが総リンク強度において最高値を示した。Scopusデータベースでは、Zhang, Yが最も多産な著者であり、Hisada, Tらの総リンク強度が最高値であった。最も頻出するキーワードは腸内細菌叢であり、次いでアルツハイマー病、加齢、プロバイオティクス、認知症、神経炎症であった。加えて、Scopusデータベースからは計180件の関連文献が抽出された。その中で最も頻出するキーワードは、腸内フローラ、加齢、認知機能障害、認知、および消化管マイクロバイオームであった。結論 腸内細菌叢と認知機能障害の関係に関する研究は着実に進展しているが、異なる地域の著者や機関間の連携を強化する必要性が依然として残っている。腸内細菌叢の作用機序をさらに探究するためには、継続的な相互作用と交流が不可欠である。特定された研究のホットスポットとギャップに基づき、今後の研究では、マルチオミクスアプローチを統合して潜在的なバイオマーカーや栄養介入戦略を探索することが有益であると提案する。ただし、これらの方向性は依然として推測の域を出ておらず、厳格な実験的および臨床的研究を通じて追求されるべきである。"
   }
 ]
